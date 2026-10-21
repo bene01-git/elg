@@ -1,0 +1,2181 @@
+--- Page 1 ---
+ 
+BEFORE THE 
+NEW YORK STATE 
+PUBLIC SERVICE COMMISSION 
+----------------------------------------------------------------------------x 
+ 
+Proceeding on Motion of the Commission as to the 
+Rates, Charges, Rules and Regulations of  
+ 
+Case 23-E-0418 
+Central Hudson Gas & Electric Corporation 
+for Electric Service 
+ 
+----------------------------------------------------------------------------x 
+ 
+----------------------------------------------------------------------------x 
+ 
+Proceeding on Motion of the Commission as to the 
+Rates, Charges, Rules and Regulations of  
+ 
+Case 23-G-0419 
+Central Hudson Gas & Electric Corporation 
+for Gas Service 
+ 
+----------------------------------------------------------------------------x 
+ 
+ 
+ 
+ 
+ 
+ 
+REBUTTAL TESTIMONY OF THE 
+TECHNOLOGY CAPITAL AND OPERATIONS PANEL 
+ 
+ 
+ 
+ 
+ 
+ 
+ 
+ 
+ 
+ 
+ 
+ 
+ 
+ 
+December 19, 2023 
+
+
+--- Page 2 ---
+Case 23-E-0418; Case 23-G-0419 
+ 
+REBUTTAL TESTIMONY OF THE TECHNOLOGY CAPITAL AND 
+OPERATIONS PANEL 
+ 
+ 
+TABLE OF CONTENTS 
+1 
+I. 
+INTRODUCTION ........................................................................................... 1 
+2 
+II. PURPOSE OF TESTIMONY .......................................................................... 2 
+3 
+III. CAPITAL PLAN .............................................................................................. 5 
+4 
+A. 
+EMERGENCY MANAGEMENT SYSTEM (“EMS”), ELECTRONIC    
+5 
+DATA PROCESSING (“EDP”) AND COMMUNICATIONS ...................... 5 
+6 
+B. 
+EMERGENT PROJECTS ...................................................................... 11 
+7 
+C. 
+IEDR FIN/OPS DATA ANALYTICS ....................................................... 13 
+8 
+D. 
+ERP PHASE III ASSESSMENT ............................................................ 16 
+9 
+E. 
+IVR MODERNIZATION ......................................................................... 17 
+10 
+F. 
+CUSTOMER WEB AND MOBILE TECHNOLOGY ................................ 18 
+11 
+G. 
+STAFF’S FORECASTING METHODOLOGY ........................................ 18 
+12 
+IV. HEADCOUNT .............................................................................................. 19 
+13 
+V. OPERATIONAL RECOMMENDATIONS ..................................................... 35 
+14 
+ 
+15 
+ 
+16 
+ 
+17 
+ 
+18 
+ 
+19 
+ 
+20 
+ 
+21 
+
+
+--- Page 3 ---
+Case 23-E-0418; Case 23-G-0419 
+ 
+REBUTTAL TESTIMONY OF THE TECHNOLOGY CAPITAL AND 
+OPERATIONS PANEL 
+ 
+ 
+I. 
+INTRODUCTION 
+1 
+Q.    
+Please state the names of the members of the Technology Capital and 
+2 
+Operations Panel (“Panel”). 
+3 
+A. 
+Our names are Frank L. La Rocca, James W. Daniels, Nicole K. Tancredi, 
+4 
+and Danielle Caruso. 
+5 
+Q.    
+Are you the same Technology Capital and Operations Panel that 
+6 
+sponsored direct testimony on behalf of Central Hudson Gas & Electric 
+7 
+Corporation (“Central Hudson” or the “Company”) in these proceedings? 
+8 
+A. 
+Yes, with the exception that Mr. Dittmann has retired and is no longer on 
+9 
+the Panel.  In his place, Ms. Caruso has been added to the Panel. 
+10 
+Q.    
+Ms. Caruso, do you adopt the direct testimony previously filed by the 
+11 
+Panel?  
+12 
+A. 
+Yes. 
+13 
+Q.    
+Ms. Caruso, please state your current employer and business address. 
+14 
+A. 
+I am employed by Central Hudson and my business address is 284 South 
+15 
+Avenue, Poughkeepsie, New York 12601.  
+16 
+Q.    
+Ms. Caruso, in what capacity are you employed by Central Hudson and 
+17 
+what is the scope of your responsibilities? 
+18 
+A. 
+I am employed by Central Hudson as Manager of OT, Networking & 
+19 
+Cybersecurity.  In this capacity, I am responsible for Operational 
+20 
+Technology, the Company’s communications networks, and 
+21 
+Cybersecurity.   
+22 
+
+
+--- Page 4 ---
+Case 23-E-0418; Case 23-G-0419 
+ 
+REBUTTAL TESTIMONY OF THE TECHNOLOGY CAPITAL AND 
+OPERATIONS PANEL 
+2 
+ 
+Q.    
+Ms. Caruso, what is your educational background and professional 
+1 
+experience? 
+2 
+A. 
+I received a Bachelor’s Degree in Business Administration from Thomas 
+3 
+Edison State College in 2018.  I have over 20 years of IT experience with 
+4 
+13.5 years in the utility industry.  Prior to joining Central Hudson, I was 
+5 
+employed as Manager of Cybersecurity Operations, Vulnerability 
+6 
+Management, & Threat Intelligence with Consolidated Edison for 2.5 
+7 
+years. 
+8 
+Q.    
+Ms. Caruso, have you previously testified before the New York State 
+9 
+Public Service Commission (“PSC” or the “Commission”)? 
+10 
+A. 
+No, I have not. 
+11 
+II. 
+PURPOSE OF TESTIMONY 
+12 
+Q.    
+What is the overall purpose of your rebuttal testimony? 
+13 
+A. 
+The purpose of our rebuttal testimony is to respond to certain 
+14 
+recommendations and comments in the prepared testimonies of the New 
+15 
+York State Department of Public Service Staff (“Staff”) Common Panel 
+16 
+(“SCP”), Staff Consumer Services Panel (“SCSP”), Staff Accounting Panel 
+17 
+(“Staff AP”), and Staff Security Panel (“SSP”) pertaining to capital, 
+18 
+headcount, and other operational recommendations made by Staff in the 
+19 
+Information Technology area.  Specifically, the Panel provides rebuttal 
+20 
+testimony to address the following: 
+21 
+
+
+--- Page 5 ---
+Case 23-E-0418; Case 23-G-0419 
+ 
+REBUTTAL TESTIMONY OF THE TECHNOLOGY CAPITAL AND 
+OPERATIONS PANEL 
+3 
+ 
+1) The SCP recommendation to reduce EMS capital funding by 
+1 
+12.87% annually, as shown on pages 13 through 14 of SCP’s 
+2 
+testimony; 
+3 
+2) The SCP recommendation to reduce EDP capital funding by 
+4 
+12.87% annually, as shown on page 16 of SCP’s testimony; 
+5 
+3) The SCP recommendation to reduce Communications capital 
+6 
+funding by 12.87% annually, as shown on page 25 of SCP’s 
+7 
+testimony; 
+8 
+4) The SCP recommendation to eliminate Emergent Software 
+9 
+Capital funding, as shown on page 19 of SCP’s testimony; 
+10 
+5) The SCP recommendation to eliminate capital funding for the 
+11 
+“Integrated Energy Data Resource (“IEDR”) Fin/Ops Data 
+12 
+Analytics” project, as shown on page 19 of SCP’s testimony; 
+13 
+6) The SCP recommendation to eliminate funding for customer 
+14 
+experience initiatives, as shown on page 23 of SCP’s testimony; 
+15 
+7) The Staff AP recommendation not to provide deferral treatment 
+16 
+to the ERP Assessment initiative in 2026, as shown on page 
+17 
+118 of Staff AP’s testimony; 
+18 
+8) The SCSP recommendation to defer the IVR Modernization 
+19 
+project, as shown on page 116 of SCSP’s testimony; 
+20 
+
+
+--- Page 6 ---
+Case 23-E-0418; Case 23-G-0419 
+ 
+REBUTTAL TESTIMONY OF THE TECHNOLOGY CAPITAL AND 
+OPERATIONS PANEL 
+4 
+ 
+9) The SCSP recommendation to defer Web and Mobile Customer 
+1 
+Experience projects, as shown on page 118 of SCSP’s 
+2 
+testimony; 
+3 
+10) Various Staff panel recommendations to reduce headcount 
+4 
+requests in the Information Technology area by 16 full-time 
+5 
+equivalents (“FTEs”) in the Rate Year; 
+6 
+11) The SSP recommendation regarding Cybersecurity reporting; 
+7 
+and 
+8 
+12) The Staff AP recommendation regarding an 18.8% reduction to 
+9 
+operation and maintenance (“O&M”) expense. 
+10 
+Q.    
+Is the Panel sponsoring any exhibits? 
+11 
+A. 
+Yes.  This Panel is sponsoring the following exhibits: 
+12 
+ Exhibit __ (TCOP-1R) includes Company responses to Staff 
+13 
+information requests that have not yet been included in the exhibits of 
+14 
+any parties, but that were relied upon in the development of the 
+15 
+Panel’s rebuttal testimony; 
+16 
+ Confidential Exhibit __ (TCOP-2R) includes supporting data and 
+17 
+calculations for the 8% vendor inflation cost calculation in the 
+18 
+Technology estimates;  
+19 
+ Confidential Exhibit __ (TCOP-3R) includes further support for the 
+20 
+associated cost of the Microsoft license renewal in the Five-Year 
+21 
+Capital Plan; 
+22 
+
+
+--- Page 7 ---
+Case 23-E-0418; Case 23-G-0419 
+ 
+REBUTTAL TESTIMONY OF THE TECHNOLOGY CAPITAL AND 
+OPERATIONS PANEL 
+5 
+ 
+ Exhibit __ (TCOP-4R) provides further justification for Emergent capital 
+1 
+requests; 
+2 
+ Exhibit __ (TCOP-5R) provides a side-by-side analysis of prior 
+3 
+Enterprise Work and Asset Management (“EWAM”) Assessment and 
+4 
+forecasted Enterprise Resource Planning (“ERP”) Phase III 
+5 
+Assessment; and 
+6 
+ Exhibit __ (TCOP-6R) provides a whitepaper outlining industry 
+7 
+benchmarks for Project Manager staffing and simultaneous project 
+8 
+assignments. 
+9 
+III. 
+CAPITAL PLAN 
+10 
+A. 
+EMERGENCY MANAGEMENT SYSTEM (“EMS”), ELECTRONIC DATA 
+11 
+PROCESSING (“EDP”) AND COMMUNICATIONS 
+12 
+Q.    
+What is the basis for Staff’s recommendation to reduce EMS, EDP, and 
+13 
+Communications capital funding by 12.87% annually? 
+14 
+A. 
+As set forth in the SCP testimony, Staff applied an inflation-based growth 
+15 
+rate in years 2024-2026 to determine future spending forecasts for the 
+16 
+EMS (Operational Technology) (see pages 13-14), EDP (Hardware) (see 
+17 
+pages 15-17), and Communications (see pages 24-27) areas.  In their 
+18 
+calculations, Staff used historic actual spending data for calendar years 
+19 
+2020 through 2022 and inflation rates of 3.65% (2023), 2.35% (2024), 
+20 
+2.20% (2025), 2.20% (2026), and 2.20% (2027), resulting in a 12.87% 
+21 
+
+
+--- Page 8 ---
+Case 23-E-0418; Case 23-G-0419 
+ 
+REBUTTAL TESTIMONY OF THE TECHNOLOGY CAPITAL AND 
+OPERATIONS PANEL 
+6 
+ 
+annual downward adjustment to the amount of capital requested by the 
+1 
+Company.  
+2 
+Q.    
+Does the Company agree with Staff’s recommendation?  
+3 
+A. 
+No.  Growth based on historic actual spend adjusted for inflation is not an 
+4 
+appropriate forecasting methodology for this area because there are 
+5 
+projects unique to the 2024-2028 Five-Year Capital Plan in each of these 
+6 
+categories (EMS, EDP, and Communications) that did not occur in prior 
+7 
+years.  In addition, the Company’s analysis demonstrates that an 8% 
+8 
+inflation rate, which is based on the Company’s actual experience, more 
+9 
+accurately forecasts the vendor portion of the project cost estimate than 
+10 
+Staff’s inflation rates, which are simply based on the latest forecasts of the 
+11 
+Gross Domestic Product – Price Index.  To arrive at the 8% inflation rate, 
+12 
+the Company analyzed renewals for existing Technology vendor partners 
+13 
+from 2021 to 2023.  Confidential Exhibit __ (TCOP-2R) provides an 
+14 
+overview of this analysis.  The sample set includes vendor agreements for 
+15 
+strategic software and license vendors that the Company plans to 
+16 
+continue to maintain over the next five years.  The sample set also 
+17 
+includes renewals for both newer and long-term vendors.   
+18 
+Q.    
+Which projects in the EMS category are unique to the 2024-2028 Five-
+19 
+Year Capital Plan that did not occur in prior years? 
+20 
+A. 
+As described in the Panel’s direct testimony and exhibits, the EMS 
+21 
+projects that are unique to the 2024-2028 period are the Outage 
+22 
+
+
+--- Page 9 ---
+Case 23-E-0418; Case 23-G-0419 
+ 
+REBUTTAL TESTIMONY OF THE TECHNOLOGY CAPITAL AND 
+OPERATIONS PANEL 
+7 
+ 
+Management System, Grid Modernization, and Primary Control Center 
+1 
+EMS projects.  These projects are incremental additions to EMS and 
+2 
+therefore are not captured within historical averages.  Moreover, they are 
+3 
+necessary for the provision of safe and reliable service and to achieve the 
+4 
+benefits associated with the Primary Control Center as discussed within 
+5 
+the direct testimony of the Company’s Electric Capital and Operations 
+6 
+Panel.  
+7 
+Q.    
+Which projects in the EDP category are unique to the 2024-2028 Five-
+8 
+Year Capital Plan that did not occur in prior years? 
+9 
+A. 
+The EDP projects that are unique to the 2024-2028 period are the Primary 
+10 
+Control Center – IT HW and the Microsoft Roadmap: License/Contract 
+11 
+Renewal – MS365 3-Year Renewal (the “Microsoft License Renewal”) 
+12 
+projects.  These projects are incremental additions to the EDP category 
+13 
+and therefore are not captured within historical averages.  They are also 
+14 
+necessary for routine business operations, the provision of safe and 
+15 
+reliable service, and to achieve the benefits associated with the Primary 
+16 
+Control Center. 
+17 
+Q.    
+Please explain what the Panel means when it notes that specific projects 
+18 
+are “necessary for routine business operations.”  
+19 
+A. 
+By necessary for routine business operations, we mean the type of 
+20 
+projects or products that are essential for Company employees to have 
+21 
+available in order to complete basic tasks and thereby accomplish the 
+22 
+
+
+--- Page 10 ---
+Case 23-E-0418; Case 23-G-0419 
+ 
+REBUTTAL TESTIMONY OF THE TECHNOLOGY CAPITAL AND 
+OPERATIONS PANEL 
+8 
+ 
+Company’s day-to-day work.  For example, the Microsoft License Renewal 
+1 
+project is necessary to allow all Microsoft products utilized by the 
+2 
+Company including Word, Excel, PowerPoint, Outlook, and many other 
+3 
+necessary applications to function.  These software packages are 
+4 
+ubiquitous within business, academic, and professional settings and are 
+5 
+required for the Company to maintain normal operations.   
+6 
+Q.    
+Would Staff’s use of a historical spend level grown by inflation allow for 
+7 
+the Company to cover the costs of the Microsoft License Renewal project?  
+8 
+A. 
+No.  As discussed above, the Microsoft License Renewal project is not 
+9 
+captured in historical spending levels.  Additionally, inflation of historic 
+10 
+levels is especially inappropriate in this instance based on the Company’s 
+11 
+documented expected cost of the Microsoft License Renewal project set 
+12 
+forth in in Confidential Exhibit __ (TCOP-3R).  Prior to 2023, Microsoft 
+13 
+licensing was purchased on an incremental, as needed basis, which is 
+14 
+why it was not included within historical actuals.  Starting in 2023, the 
+15 
+Company now purchases bundled Microsoft enterprise licensing at 
+16 
+negotiated rates. 
+17 
+Q.    
+Is there an additional point the Panel would like to make to rebut Staff’s 
+18 
+proposed reductions to EDP?  
+19 
+A. 
+Yes.  Staff’s ”CONFIDENTIAL Central Hudson Common Plant 
+20 
+Adjustments Staff Workpaper” includes the software projects identified 
+21 
+below in the EDP category.  These projects, however, are not EDP 
+22 
+
+
+--- Page 11 ---
+Case 23-E-0418; Case 23-G-0419 
+ 
+REBUTTAL TESTIMONY OF THE TECHNOLOGY CAPITAL AND 
+OPERATIONS PANEL 
+9 
+ 
+projects and should instead be classified in the Software funding category 
+1 
+as was shown in the Company’s “2024-2028 Capital Expenditures 
+2 
+Workpaper (Final)” filed with in response to DPS-001, included in Staff’s 
+3 
+Exhibit __ (SEIOP-1).  To remain consistent with Staff’s general 
+4 
+acceptance of the Company’s project-by-project forecasting approach for 
+5 
+the Software funding area (see page 19 of SCP testimony), the following 
+6 
+Software funding project estimates should not be reduced: 
+7 
+ Asset Management – End User Device SW Lifecycle ($1.61 million; 
+8 
+2024-2028): Throughout the year, routine security updates will break 
+9 
+deprecated or unsupported products in the environment.  This can 
+10 
+result in additional software purchases for employees to continue day-
+11 
+to-day operations.  With the Windows 11 migration on the horizon, 
+12 
+Central Hudson expects a significant number of unsupported products 
+13 
+to surface.  
+14 
+ Project and Portfolio Management (“PPM”) Solution (Enterprise Wide) 
+15 
+($919,000; 2024):  The implementation and utilization of PPM, as 
+16 
+outlined in the Panel’s direct testimony, is consistent with Case 21-M-
+17 
+0541 Management Audit Recommendation 4.4 and the Company’s 
+18 
+associated implementation plan.  The project is also unique to the 
+19 
+2024-2028 Five-Year Capital Plan and not captured within historical 
+20 
+averages.  Please also refer to Exhibit __ (RRP-5) sponsored by the 
+21 
+direct testimony of the Company’s Revenue Requirements Panel and 
+22 
+
+
+--- Page 12 ---
+Case 23-E-0418; Case 23-G-0419 
+ 
+REBUTTAL TESTIMONY OF THE TECHNOLOGY CAPITAL AND 
+OPERATIONS PANEL 
+10 
+ 
+Exhibit __ (MAP-3R) sponsored by the rebuttal testimony of the 
+1 
+Company’s Management Audit Panel.  
+2 
+ Service Now Phase IV – Corporate Knowledge Base Repository (HR) 
+3 
+($54,000; 2024):  This project, not previously described in testimony, 
+4 
+involves documenting and reviewing requirements for a corporate 
+5 
+knowledge article management solution.  The project, which aims to 
+6 
+establish a centralized knowledge article repository, will enhance 
+7 
+collaboration, informed decision-making, and problem-solving.  The 
+8 
+project is also unique to the 2024-2028 Five-Year Capital Plan and not 
+9 
+captured within historical averages.  The absence of such a repository 
+10 
+may lead to inefficiencies and increased risk of errors, and hinder 
+11 
+productivity, collaboration, and adaptability at Central Hudson. 
+12 
+Q.    
+Which projects in the Communications category are unique to the 2024-
+13 
+2028 Five-Year Capital Plan that did not occur in prior years? 
+14 
+A. 
+The Communications projects that are unique to the 2024-2028 period 
+15 
+and thus not captured within historical averages are the Land Mobile 
+16 
+Radio Replacement with Digital Mobile Radios (“DMR”), and the Router 
+17 
+Replacement Program. 
+18 
+
+
+--- Page 13 ---
+Case 23-E-0418; Case 23-G-0419 
+ 
+REBUTTAL TESTIMONY OF THE TECHNOLOGY CAPITAL AND 
+OPERATIONS PANEL 
+11 
+ 
+B. 
+EMERGENT PROJECTS 
+1 
+Q.    
+What is Staff’s recommendation regarding Emergent capital funding within 
+2 
+the Software category? 
+3 
+A. 
+On page 20 of the SCP testimony, Staff recommends “removing all 
+4 
+projects labeled “Emergent,” as “the Company failed to adequately justify 
+5 
+the need to fund these projects due to a lack of specific deliverables for 
+6 
+projects in the “Emergent” category”.  
+7 
+Q.    
+Does the Company agree with Staff’s recommendation and if not, please 
+8 
+provide additional information to further justify the need for Emergent 
+9 
+projects.  
+10 
+A. 
+The Company does not agree with Staff’s recommendation.  In 2022, the 
+11 
+Company implemented an improved capital planning process for 
+12 
+Technology projects.  Prior to that point, the Company lacked the planning 
+13 
+process capability to adequately classify projects as “emergent” versus 
+14 
+“planned.”  Leveraging the new capital planning and prioritization 
+15 
+methodology outlined in the Panel’s direct testimony, Exhibit __ (TCOP-
+16 
+4R) provides a list of Emergent (unplanned) projects from the second half 
+17 
+of 2022 through November of 2023, showing 17 emergent requests in 
+18 
+total.  In 2023, $3 million in Emergent capital projects have been 
+19 
+requested and approved by the Technology Steering Committee.  Using 
+20 
+2023 as a baseline, the Company carried that amount forward into the 
+21 
+Five-Year Capital Plan and applied a qualitative risk analysis to each 
+22 
+
+
+--- Page 14 ---
+Case 23-E-0418; Case 23-G-0419 
+ 
+REBUTTAL TESTIMONY OF THE TECHNOLOGY CAPITAL AND 
+OPERATIONS PANEL 
+12 
+ 
+Emergent area to reach a reasonable forecast of $10.4 million for 
+1 
+Emergent initiatives over that five-year period.  The purpose of Emergent 
+2 
+funding in the Technology capital portfolio is described in the Panel’s 
+3 
+direct testimony.   
+4 
+Q.    
+What approach was used to estimate the amount of Emergent funding for 
+5 
+each Software area within the capital portfolio? 
+6 
+A. 
+The Company leveraged a qualitative risk-based approach to forecast the 
+7 
+amount of Emergent funding recommended for each Software area.  The 
+8 
+tab labeled “Emergent Overview” in Exhibit __ (TCOP-4R) provides an 
+9 
+overview of how this estimating framework was applied.  The Company 
+10 
+applied a percentage of the total amount of named investments within a 
+11 
+Software area, based on the strategic focus, relative volatility, and 
+12 
+perceived unknowns within the area.  Software areas classified as “low 
+13 
+risk” were allotted a 1-10% Emergent allowance, while areas classified as 
+14 
+“moderate risk” were allotted a 11-20% Emergent allowance and areas 
+15 
+classified as “high risk” were allotted a 21-35% Emergent allowance.  
+16 
+Exhibit __ (TCOP-4R) provides more details on the risk analysis and 
+17 
+forecasting approach for each respective Software area. 
+18 
+
+
+--- Page 15 ---
+Case 23-E-0418; Case 23-G-0419 
+ 
+REBUTTAL TESTIMONY OF THE TECHNOLOGY CAPITAL AND 
+OPERATIONS PANEL 
+13 
+ 
+Q.    
+What is the Panel’s recommendation regarding Emergent capital funding 
+1 
+within the Software category? 
+2 
+A. 
+Based on the information provided above and in Exhibit __ (TCOP-4R), 
+3 
+the Company has fully justified the need to fund these Emergent projects 
+4 
+and Staff’s recommended adjustment should be rejected. 
+5 
+C. 
+IEDR FIN/OPS DATA ANALYTICS 
+6 
+Q.    
+What is Staff’s recommendation regarding the IEDR Fin/Ops Data 
+7 
+Analytics capital funding within the Software category? 
+8 
+A. 
+On page 21-22 of the SCP testimony, Staff agrees that “the costs of IEDR 
+9 
+Phase I and II projects should be treated as non-discretionary costs and 
+10 
+recovered from ratepayers through base rates, as directed by the 
+11 
+Commission in Case 20-M-0082.”  However, Staff finds that “a portion of 
+12 
+the IEDR project, called ‘IEDR – Fin/Ops Data Analytics’ is discretionary 
+13 
+and should not be funded or receive deferral treatment.”  
+14 
+Q.    
+Does the Company agree with Staff’s recommendation?  
+15 
+A. 
+The Company agrees with the recovery recommendations for IEDR Phase 
+16 
+I and II but disagrees with Staff’s recommendations for the IEDR – 
+17 
+Fin/Ops Data Analytics initiative.   
+18 
+Q.    
+Please describe the portion of the IEDR Project called IEDR – Fin/Ops 
+19 
+Data Analytics. 
+20 
+A. 
+The “IEDR – Fin/Ops Data Analytics” project modernizes the Company’s 
+21 
+data warehouse and reporting systems and consolidates legacy solutions 
+22 
+
+
+--- Page 16 ---
+Case 23-E-0418; Case 23-G-0419 
+ 
+REBUTTAL TESTIMONY OF THE TECHNOLOGY CAPITAL AND 
+OPERATIONS PANEL 
+14 
+ 
+with limited functionality onto the same scalable hosted solution used for 
+1 
+the state's IEDR program.  This initiative would also allow for ease of data 
+2 
+migration for future phases of IEDR as they are identified and capture 
+3 
+efficiencies since data sets migrated by the Data & Analytics project would 
+4 
+already be present within the new platform.  Merging the data solutions 
+5 
+will also improve the quality and accuracy of Company data by ensuring 
+6 
+that the same data governance policies and quality assurance tools are 
+7 
+applied to the common platform.  Finally, as data sets continue to grow in 
+8 
+scope and size, the project will also allow the Company to more easily 
+9 
+spin up additional servers and data storage to meet the requirements of 
+10 
+any IEDR or internal Company use cases. 
+11 
+Q.    
+Why is Staff incorrect in stating that the IEDR – Fin/Ops Data Analytics 
+12 
+project should not be implemented along with the IEDR Phase I and II? 
+13 
+A. 
+Central Hudson's proposed IEDR solution will entail the implementation of 
+14 
+a scalable cloud-hosted data lake to support the state's IEDR goals for 
+15 
+improved utility data sharing and transparency.  A data lake is a digital 
+16 
+reservoir that stores diverse raw data in its native format, allowing 
+17 
+organizations to later analyze and derive insights from this data in a 
+18 
+flexible and scalable manner.  If Central Hudson only implements the 
+19 
+cloud solution for the IEDR Phase I and II requirements, all other data sets 
+20 
+and Company reporting will be forced to remain in the on-premises legacy 
+21 
+data warehouse/reporting platforms.  This means that the Company 
+22 
+
+
+--- Page 17 ---
+Case 23-E-0418; Case 23-G-0419 
+ 
+REBUTTAL TESTIMONY OF THE TECHNOLOGY CAPITAL AND 
+OPERATIONS PANEL 
+15 
+ 
+cannot leverage any benefits or synergies the new IEDR technology would 
+1 
+provide and would be forced to continue maintaining the separate legacy 
+2 
+data warehouse.  Creating the new IEDR data solution and not funding the 
+3 
+“IEDR – Fin/Ops Data Analytics” initiative would create a duplication of 
+4 
+data management systems, introduce needless inefficiency, and silo 
+5 
+Company data in systems only designed to meet one function.  
+6 
+Additionally, the IEDR project’s Phase 1 use cases have already 
+7 
+benefitted from having data sets that have been previously 
+8 
+extracted/replicated, cataloged, and made available within the existing 
+9 
+data warehouse system.  Cutting funding for the Data & Analytics project’s 
+10 
+planned integrations to systems not yet feeding data will eliminate 
+11 
+potential benefits/synergies for future IEDR phases. 
+12 
+Q.    
+Does the Panel have any other comments regarding Staff’s IEDR 
+13 
+recommendations? 
+14 
+A. 
+Yes.  If the IEDR program is intended to be temporary, the 
+15 
+recommendations within Staff’s testimony around Central Hudson’s 
+16 
+proposed IEDR implementation might be more appropriate.  However, it is 
+17 
+the Company’s understanding that IEDR is intended to be a long-term 
+18 
+program that will be enhanced and expanded upon beyond the current 
+19 
+planned phases to provide a long-term comprehensive energy information 
+20 
+source.  Given that understanding, Staff’s recommendation would lead to 
+21 
+
+
+--- Page 18 ---
+Case 23-E-0418; Case 23-G-0419 
+ 
+REBUTTAL TESTIMONY OF THE TECHNOLOGY CAPITAL AND 
+OPERATIONS PANEL 
+16 
+ 
+needless inefficiency and necessary future duplication of data 
+1 
+management systems resulting in increased costs for customers. 
+2 
+D. 
+ERP PHASE III ASSESSMENT   
+3 
+Q.    
+What is Staff’s recommendation regarding the deferral treatment for the 
+4 
+ERP Phase III Assessment within the Five-Year Capital Plan? 
+5 
+A. 
+On pages 115-118 of the Staff AP testimony, Staff recommends that the 
+6 
+ERP Phase III Assessment “not be granted deferral treatment until the 
+7 
+Company provides a detailed analysis of the amounts already spent, as 
+8 
+well as a detailed comparison between the assessment already done and 
+9 
+the proposed new assessment.”   
+10 
+Q.    
+Does the Company agree with Staff’s recommendation?     
+11 
+A. 
+No.  To address Staff’s concern regarding duplication of assessments, 
+12 
+there are two key points.  First, the Finance / General Ledger assessment 
+13 
+proposed in Cases 20-E-0248 and 20-G-0249 has not been performed to 
+14 
+date due to the Company’s continued focus and efforts related to the 
+15 
+Customer Information Systems (“CIS”) replacement.  As outlined in this 
+16 
+Panel’s direct testimony, the Company delayed moving forward with the 
+17 
+next phase of the ERP replacement.  As such, the revenue requirement 
+18 
+effects of costs associated with ERP Phase III included in Cases 20-E-
+19 
+0248 and 20-G-0249 were set aside for future return to customers.  
+20 
+Second, the costs requested in this case, as summarized in Exhibit 
+21 
+__ (ATP-14), reflect the Company’s need to complete a more robust 
+22 
+
+
+--- Page 19 ---
+Case 23-E-0418; Case 23-G-0419 
+ 
+REBUTTAL TESTIMONY OF THE TECHNOLOGY CAPITAL AND 
+OPERATIONS PANEL 
+17 
+ 
+assessment with an increased scope and magnitude of work to be 
+1 
+performed prior to moving forward with the next phase of the ERP 
+2 
+transformation.  Exhibit __ (TCOP-5R) presents a side-by-side 
+3 
+comparison of the limited EWAM assessment performed in 2019-2020 
+4 
+and the full-scale ERP Phase III Assessment being proposed in 2025-
+5 
+2026.  As stated in this Panel’s direct testimony, the ERP Phase III 
+6 
+Assessment is greater in scale, scope, and depth from the assessment 
+7 
+that was performed in 2019-2020.  The 2019 assessment only included 
+8 
+Enterprise Asset Management / Work Management functions.  A key 
+9 
+recommendation from the 2019 assessment was the need to perform a 
+10 
+deeper analysis of the Finance and Chart of Accounts / General Ledger.  
+11 
+The 2025-2026 ERP Phase III Assessment includes those financial 
+12 
+components and incorporation of additional criteria, as outlined in Exhibit 
+13 
+__ (TCOP-5R), to provide a comprehensive and robust business case, 
+14 
+strategic solution recommendation, scope, RFP, and cost for the ERP 
+15 
+Transformation Phase III prior to moving forward with ERP Phase III 
+16 
+implementation.   
+17 
+E. 
+IVR MODERNIZATION  
+18 
+Q.    
+What is Staff’s recommendation regarding the treatment of the IVR 
+19 
+Modernization initiative within the Five-Year Capital Plan? 
+20 
+A. 
+On page 115-118 of the SCSP testimony, Staff recommends “denying the 
+21 
+costs associated with the [IVR Modernization] project at this time.”   
+22 
+
+
+--- Page 20 ---
+Case 23-E-0418; Case 23-G-0419 
+ 
+REBUTTAL TESTIMONY OF THE TECHNOLOGY CAPITAL AND 
+OPERATIONS PANEL 
+18 
+ 
+Q.    
+Does the Company agree with Staff’s recommendation?   
+1 
+A. 
+No.  Please refer to the Company’s Customer Experience Panel’s rebuttal 
+2 
+testimony for the Company’s response to Staff’s recommendations. 
+3 
+F. 
+CUSTOMER WEB AND MOBILE TECHNOLOGY 
+4 
+Q.    
+What is Staff’s position regarding the treatment of the Customer Web and 
+5 
+Mobile Technology initiatives within the Five-Year Capital Plan? 
+6 
+A. 
+On page 116-118 of the SCSP testimony, Staff recommends “denying the 
+7 
+FTEs and associated costs for [these projects] at this time.”  
+8 
+Q.    
+Does the Company agree with Staff’s recommendation? 
+9 
+A. 
+No.  Please refer to the Company’s Customer Experience Panel’s rebuttal 
+10 
+testimony, which sets forth why the Company disagrees with Staff’s 
+11 
+position.  
+12 
+G. 
+STAFF’S FORECASTING METHODOLOGY 
+13 
+Q.    
+Does the Company have any additional comments regarding Staff’s 
+14 
+proposed capital expenditures? 
+15 
+A. 
+Yes, the Company would like to comment on Staff’s methodology of 
+16 
+utilizing historic averages of capital spend as a basis for forward-looking 
+17 
+projections. 
+18 
+Q.    
+Please continue. 
+19 
+A. 
+Notwithstanding the aforementioned objections to Staff’s use of a 
+20 
+historical average serving as the basis for a forward-looking projection, 
+21 
+should a historical average be used, Staff’s mathematical application 
+22 
+
+
+--- Page 21 ---
+Case 23-E-0418; Case 23-G-0419 
+ 
+REBUTTAL TESTIMONY OF THE TECHNOLOGY CAPITAL AND 
+OPERATIONS PANEL 
+19 
+ 
+should be revised.  In order to produce a fair reflection of a three-year 
+1 
+historical average, prior to calculating the average, all historical periods 
+2 
+being averaging should be adjusted for inflation to reflect current day 
+3 
+equivalent dollars.  An average should then be taken of the adjusted 
+4 
+dollars.  Forgoing this step in the process fails to reflect historic inflation in 
+5 
+determining what projects will cost today.  Projections for outer periods, 
+6 
+should be predicated on growth of this adjusted average. 
+7 
+IV. 
+HEADCOUNT 
+8 
+Q.    
+What was Staff’s recommendation regarding the Technology-related 
+9 
+headcount proposed by the Company?  
+10 
+A. 
+Overall, Staff recommends a reduction of 16 incremental FTEs from the 
+11 
+Rate Year compliment of new positions requested within the proceedings.  
+12 
+The position Staff recommends disallowing and the corresponding Staff 
+13 
+Panel making the recommendation are outlined in the table below as 
+14 
+derived from Staff AP Exhibit __ (SAP-4): 
+15 
+Position 
+Staff-Related Panel 
+Project Manager 
+Staff Management Audit 
+Panel 
+Senior IT Project 
+Manager 
+Staff Management Audit 
+Panel 
+IT Program Manager – 
+Transformational 
+Projects 
+Staff Management Audit 
+Panel 
+Project & Portfolio 
+Management (PPM) 
+Administrator 
+Staff Common Panel 
+Business Relationship 
+Manager – CX 
+Staff Management Audit 
+Panel 
+
+
+--- Page 22 ---
+Case 23-E-0418; Case 23-G-0419 
+ 
+REBUTTAL TESTIMONY OF THE TECHNOLOGY CAPITAL AND 
+OPERATIONS PANEL 
+20 
+ 
+Position 
+Staff-Related Panel 
+Business Relationship 
+Manager – EWAM 
+Staff Management Audit 
+Panel 
+Business Relationship 
+Manager – Engineering 
+& Operations 
+Staff Management Audit 
+Panel 
+Business Application 
+System Analyst #1 
+(Financial & HR) 
+Staff Management Audit 
+Panel 
+Testing/QA Analyst #1 
+(SAP/DCX Projects) 
+Staff Management Audit 
+Panel 
+Web Developer (Junior) 
+Staff Consumer 
+Services Panel 
+Web Developer 
+Staff Consumer 
+Services Panel 
+Web Developer (#2) 
+Staff Consumer 
+Services Panel 
+Data & Analytics 
+Lead/Program Manager 
+Staff Common Panel 
+Analytics Microsoft Data 
+Engineer / Architect 
+Staff Common Panel 
+Analytics Data Engineer 
+#2 
+Staff Common Panel 
+Analytics PowerBI 
+Developer 
+Staff Common Panel 
+ 
+1 
+Q.    
+Does the Company agree with Staff’s recommendations? 
+2 
+A. 
+No.  Each of these positions are necessary for the Technology 
+3 
+Department to ensure implementation of key Management Audit 
+4 
+recommendations, execute on the capital portfolio, adequately support 
+5 
+Central Hudson operational and business needs, and deliver on strategic 
+6 
+objectives.  Please refer to DPS-626 Attachment 1, included in Exhibit __ 
+7 
+(TCOP-1R), which describes each role, its operational and capital work 
+8 
+assignments, and the related risk of not hiring the position.  
+9 
+
+
+--- Page 23 ---
+Case 23-E-0418; Case 23-G-0419 
+ 
+REBUTTAL TESTIMONY OF THE TECHNOLOGY CAPITAL AND 
+OPERATIONS PANEL 
+21 
+ 
+Q.    
+What is the Company seeking incremental Technology Project Manager 
+1 
+positions? 
+2 
+A. 
+On April 20, 2023, the Commission issued an order in Case 21-M-0541 
+3 
+releasing Overland Consulting’s Final Management and Operations Audit 
+4 
+Report (the “Management Audit”), which contained 37 recommendations, 
+5 
+including Recommendation 4.5, which calls for “a Project Management 
+6 
+Office to be established for all major IT programs and recommends that all 
+7 
+other IT projects have a project manager.”  To properly implement 
+8 
+Management Audit Recommendation 4.5 across the Technology capital 
+9 
+portfolio, Central Hudson’s Management Audit Implementation Plan and 
+10 
+rate case request included the addition of five Project Manager FTEs.   
+11 
+Q.    
+What is the basis for Staff’s recommendation to remove three Technology 
+12 
+Project Manager positions from the Company’s incremental headcount 
+13 
+request? 
+14 
+A. 
+Staff references Overland Consulting’s Review of Central Hudson’s 
+15 
+Implementation Plan filed in Case 21-M-0541 (the “Overland Consulting 
+16 
+Review”), and states that “one or two [incremental] FTEs are sufficient to 
+17 
+implement recommendation 4.5,” because “it is unclear to Overland the 
+18 
+rationale behind the five FTE increase.” 
+19 
+
+
+--- Page 24 ---
+Case 23-E-0418; Case 23-G-0419 
+ 
+REBUTTAL TESTIMONY OF THE TECHNOLOGY CAPITAL AND 
+OPERATIONS PANEL 
+22 
+ 
+Q.    
+Does the Company’s agree with Staff’s recommendation to cut three of 
+1 
+the five requested Technology Project Manager positions from the rate 
+2 
+filing? 
+3 
+A. 
+No. The Company does not agree with Staff’s recommendation to cut the 
+4 
+following Company requests:  Project Manager, Senior IT Project 
+5 
+Manager, IT Program Manager – Transformational Projects. 
+6 
+Q.    
+Why are these positions necessary to properly implement Management 
+7 
+Audit Recommendation 4.5? 
+8 
+A. 
+Over the past rate plan, the Company’s capital Technology portfolio has 
+9 
+expanded more than three-fold compared to previous periods.  The 2024-
+10 
+2028 Five-Year Capital Plan illustrates that this trend will continue as the 
+11 
+Company and Industry rely on Technology more than ever to enable 
+12 
+operational work.  The Company leveraged the case study referenced in 
+13 
+Exhibit __ (TCOP-6R), conducted by the Project Management Institute, to 
+14 
+evaluate the Company’s Project Manager headcount against similar 
+15 
+organizations.  The Company concluded that companies with similar 
+16 
+capital portfolios, found on page five of the case study (Company EI and 
+17 
+Company CSD), have between eight and eighteen Project Managers on 
+18 
+staff with each Project Manager overseeing between four and eight 
+19 
+projects simultaneously.  These guidelines are necessary to ensure the 
+20 
+Project Managers can adequately perform the functions described in the 
+21 
+Panel’s direct testimony and the Management Audit Implementation Plan 
+22 
+
+
+--- Page 25 ---
+Case 23-E-0418; Case 23-G-0419 
+ 
+REBUTTAL TESTIMONY OF THE TECHNOLOGY CAPITAL AND 
+OPERATIONS PANEL 
+23 
+ 
+with excellence and consistency.  To determine the number of Project 
+1 
+Manager FTEs needed, the Company calculated the average number of 
+2 
+projects per year using the data below (67 projects) and divided by eight 
+3 
+projects, consistent with high end of the industry benchmark.  This 
+4 
+methodology indicates that 8.3 Project Managers are needed.  
+5 
+Number of Projects by Complexity within the 2024-2028 capital portfolio:  
+6 
+Year 
+High 
+Complexity 
+Projects 
+Medium 
+Complexity 
+Projects 
+Low 
+Complexity 
+Projects 
+Total 
+Projects 
+2024 
+41 
+25 
+23 
+89 
+2025 
+38 
+22 
+26 
+86 
+2026 
+37 
+21 
+14 
+72 
+2027 
+27 
+12 
+4 
+43 
+2028 
+24 
+14 
+6 
+44 
+ 
+7 
+If the requested Project Manager FTEs are not approved, the Company 
+8 
+will need to increase reliance on long-term contractors or assign 
+9 
+unmanageable workloads to the allowed Project Manager FTEs, which 
+10 
+would not achieve the stated results that Management Audit 
+11 
+Recommendation 4.5 is designed to achieve.   
+12 
+Q.    
+What are the risks associated with long-term reliance on contractor Project 
+13 
+Management resources?   
+14 
+A. 
+Long-term contractor staff augmentation poses several risks, including: 
+15 
+ Dependency on External Expertise: The Company’s historic 
+16 
+reliance on external contractors has created a dependency on 
+17 
+external expertise, stifling the Company’s ability to develop internal 
+18 
+
+
+--- Page 26 ---
+Case 23-E-0418; Case 23-G-0419 
+ 
+REBUTTAL TESTIMONY OF THE TECHNOLOGY CAPITAL AND 
+OPERATIONS PANEL 
+24 
+ 
+capabilities.  This has led to situations where critical knowledge 
+1 
+resides primarily with contractors, creating vulnerability if 
+2 
+contractors are not available or choose to leave.   
+3 
+ Lack of Institutional Knowledge: Due to their transitory nature, 
+4 
+Contractors may in certain circumstances lack in-depth knowledge 
+5 
+of the Company's specific processes, systems, and culture.  This 
+6 
+can lead to inefficiencies, misunderstandings, and delays in project 
+7 
+execution. 
+8 
+ Limited Commitment: Contractors may not have the same level of 
+9 
+commitment to the Company’s long-term goals as permanent 
+10 
+employees.  Contract staff tends to prioritize short-term gains and 
+11 
+may not be as invested in the long-term success and sustainability 
+12 
+of the projects they are involved in. 
+13 
+ Security and Compliance Risks:  Contractors could pose security 
+14 
+risks, especially if they have access to sensitive data and systems.  
+15 
+In many situations, IT projects may involve access to critical and 
+16 
+highly sensitive data or systems.  Ensuring compliance with 
+17 
+organizational policies, industry regulations, and security 
+18 
+standards becomes more challenging when relying heavily on 
+19 
+external resources.  
+20 
+
+
+--- Page 27 ---
+Case 23-E-0418; Case 23-G-0419 
+ 
+REBUTTAL TESTIMONY OF THE TECHNOLOGY CAPITAL AND 
+OPERATIONS PANEL 
+25 
+ 
+Q.    
+What is Staff’s recommendation regarding the Project and Portfolio 
+1 
+Manager Administrator requested by the Company? 
+2 
+A. 
+In the Staff AP Exhibit __ (SAP-4), Staff recommends removing the 
+3 
+requested PPM Administrator FTE, however Staff’s justification for doing 
+4 
+so is not clearly identified.  
+5 
+Q.    
+Does the Company agree with Staff’s proposal to deny the Company’s 
+6 
+requested additional PPM Administrator position? 
+7 
+A. 
+No.  The PPM Administrator is necessary to oversee and maintain the 
+8 
+PPM system and is essential to the Company’s implementing 
+9 
+Management Audit Recommendations 4.4 and 7.2, which together 
+10 
+recommend that Central Hudson implement a PPM tool and PPM system 
+11 
+that would allow for visibility of project status across the project portfolio, 
+12 
+expanded Work Breakdown Structures at the project-execution level, and 
+13 
+expanded Key Performance Indicators and earned value reporting.  A full 
+14 
+role description for the position was documented in the Company’s 
+15 
+response to DPS-626 Attachment 1, included in Exhibit __ (TCOP-1R).  
+16 
+As described on page 15 of the Overland Consulting Review, “the 
+17 
+onboarding of a PPM Administrator in February of 2024 will be the key 
+18 
+milestone to ensure the [PPM] system is operational by May 2025.”  The 
+19 
+Overland Consulting Review further supports the need for this position by 
+20 
+stating that the success of the PPM implementation will “in large part be 
+21 
+dependent on the level of experience of the PPM administrator that can be 
+22 
+
+
+--- Page 28 ---
+Case 23-E-0418; Case 23-G-0419 
+ 
+REBUTTAL TESTIMONY OF THE TECHNOLOGY CAPITAL AND 
+OPERATIONS PANEL 
+26 
+ 
+secured” and concludes by stating that “the cost estimates identified for 
+1 
+the one-time capital investment [$919,000 in 2024] and the ongoing 
+2 
+support are in-line with the size and scope of Central Hudson’s capital 
+3 
+portfolio which will be managed through the new PPM system.” 
+4 
+Q.    
+What is the basis for Staff’s recommendation to remove three requested 
+5 
+Business Relationship Manager positions from the rate filing? 
+6 
+A. 
+Before we discuss Staff’s rationale for eliminating these positions, we note 
+7 
+that on page 24-25 of the Staff Management Audit Panel testimony, Staff 
+8 
+acknowledges that Management Audit Recommendation 4.1 “calls for 
+9 
+enhancements to how the Company forecasts information technology, or 
+10 
+IT, costs, in order to support more accurate IT budget development.”  
+11 
+Despite this acknowledgement, Staff rejects the Company’s request to 
+12 
+add three Business Relationship Manager FTEs and refers to pages 10-11 
+13 
+of the Overland Consulting Review for justification.  Overland Consulting 
+14 
+Review makes an assumption that “the Company already has a team that 
+15 
+serves as Business Relationship Managers (“BRM”) who partner with the 
+16 
+business for relevant Information System projects” and that the fulfillment 
+17 
+of Management Audit Recommendation 4.1 “would become a normal 
+18 
+function for the existing contingent of BRMs.”   
+19 
+
+
+--- Page 29 ---
+Case 23-E-0418; Case 23-G-0419 
+ 
+REBUTTAL TESTIMONY OF THE TECHNOLOGY CAPITAL AND 
+OPERATIONS PANEL 
+27 
+ 
+Q.    
+Does the Company agree with the recommendation to cut the three 
+1 
+requested Business Relationship Manager positions?   
+2 
+A. 
+No, the Company does not agree with Staff’s recommendation to cut the 
+3 
+Business Relationship Manager – CX, Business Relationship Manager – 
+4 
+EWAM, and Business Relationship Manager – Engineering & Operations.  
+5 
+Overland Consulting’s assumption that “the Company already has a team 
+6 
+that serves as Business Relationship Managers (“BRM”)” is incorrect.  The 
+7 
+Company currently does not have any Business Relationship Managers 
+8 
+on staff, which is why the Company is requesting to add these resources 
+9 
+to the organization.  Staff’s recommendation also seems contrary to the 
+10 
+statement on page 10 of the Overland Consulting Review that  “Overland 
+11 
+agrees with the general approach taken by the Company,” which 
+12 
+leverages Business Relationship Managers and the PPM tool to partner 
+13 
+with the 12 key business areas across Central Hudson to “prepare 
+14 
+detailed requirements, Benefit Cost Analysis (BCA), and bottom-up 
+15 
+estimates” for all Technology projects.   
+16 
+Q.    
+Is there anything else that the Company would like to clarify regarding the 
+17 
+Business Relationship Manager positions? 
+18 
+A. 
+Yes.  The Overland Consulting Review states on page 10 that it “appears 
+19 
+that the Company has identified additional responsibilities for the new 
+20 
+[BRM] FTEs, which extend beyond [the] recommendation.”  The Company 
+21 
+would like to clarify that these “additional responsibilities” are a natural 
+22 
+
+
+--- Page 30 ---
+Case 23-E-0418; Case 23-G-0419 
+ 
+REBUTTAL TESTIMONY OF THE TECHNOLOGY CAPITAL AND 
+OPERATIONS PANEL 
+28 
+ 
+output of the core work that the Business Relationship Managers will be 
+1 
+performing to fulfill Management Audit Recommendation 4.1.  These 
+2 
+outputs are valuable to both the Company and its external stakeholders as 
+3 
+they will naturally improve the Company’s ability to strategically plan, 
+4 
+reduce risk, and control Technology costs through the following outputs:  
+5 
+ Comprehensive Technology/Application Roadmaps, which will mitigate 
+6 
+organizational risk by proactively identifying and addressing potential 
+7 
+inefficiencies (unreported business process issues), redundancies 
+8 
+(duplication of software systems), and vulnerabilities (cybersecurity). 
+9 
+ Enable competency to control costs, through a deep understanding of 
+10 
+both core business processes and existing technology capabilities, 
+11 
+which will help to maximize existing technologies, avoiding 
+12 
+unnecessary spend\investments on new technologies.   
+13 
+ Improved Benefit Cost Analysis and resulting Whitepapers due to the 
+14 
+increased level of requirements, detail, and rationalization the 
+15 
+Business Relationship Managers will be performing to fulfill the core 
+16 
+obligations of Management Audit Recommendation 4.1 (i.e. more 
+17 
+accurate IT budget development, bottom-up forecasting). 
+18 
+
+
+--- Page 31 ---
+Case 23-E-0418; Case 23-G-0419 
+ 
+REBUTTAL TESTIMONY OF THE TECHNOLOGY CAPITAL AND 
+OPERATIONS PANEL 
+29 
+ 
+Q.    
+Please discuss Staff’s recommendation to remove one Business 
+1 
+Application System Analyst #1 (Financial & HR) FTE from the Company’s 
+2 
+Rate Year incremental headcount request? 
+3 
+A. 
+On page 30 of the SCP testimony, Staff recommends the removal of 
+4 
+Business Application System Analysts, citing Staff’s Management Audit 
+5 
+Panel and the Overland Consulting Review as justification.  The Staff 
+6 
+Management Audit Panel and Overland Consulting Review state that the 
+7 
+“rationale behind the [Company’s] increase [in FTEs] is unclear.”  The 
+8 
+Company, however, maintains that Business Application System Analysts 
+9 
+are necessary to fulfill Management Audit Recommendation 4.6, which 
+10 
+recommends that Central Hudson implement a standardized business 
+11 
+process mapping and improvement capability.    
+12 
+Q.    
+Does the Company agree with Staff’s recommendation to remove 
+13 
+Business Application System Analysts from the Company’s incremental 
+14 
+headcount request? 
+15 
+A. 
+No.  The Company utilizes over 250 business service offerings (business 
+16 
+software applications).  The Technology Department currently does not 
+17 
+have sufficient staff with the knowledge, skills, and capacity to fully 
+18 
+support these service offerings.  As a result, many applications are either 
+19 
+loosely maintained as a partial responsibility of staff within business 
+20 
+operations or solely by external vendors.  This support model creates 
+21 
+cybersecurity risk and increases the Company’s reliance on external 
+22 
+
+
+--- Page 32 ---
+Case 23-E-0418; Case 23-G-0419 
+ 
+REBUTTAL TESTIMONY OF THE TECHNOLOGY CAPITAL AND 
+OPERATIONS PANEL 
+30 
+ 
+vendors.  The Company is making efforts to centralize support and control 
+1 
+of all business service offerings within the Technology Department and 
+2 
+needs additional headcount to do that properly.  By centralizing the 
+3 
+support of business service offerings, the Company can: 
+4 
+1) Reduce cybersecurity vulnerabilities through improved oversight of 
+5 
+business service upgrades to outdated software; 
+6 
+2) Control costs by improving the management of business service 
+7 
+user access by limiting software licenses to only those employees 
+8 
+who absolutely need it; 
+9 
+3) Maximize efficiency and interoperability through improved business 
+10 
+service application integrations with other software systems; and 
+11 
+4) Further centralize management of O&M Technology related costs. 
+12 
+Since the Company lacks the headcount to properly support and 
+13 
+maintain additional business service offerings, it has a limited ability to 
+14 
+fully execute on Management Audit Recommendation 4.6 without the 
+15 
+addition of the Business Application System Analysts.  
+16 
+Q.    
+What is Staff’s recommendation regarding the requested Testing/QA 
+17 
+Analyst FTE? 
+18 
+A. 
+On page 29 of the SCP testimony, Staff recommends the removal of 
+19 
+Testing/QA Analysts, citing Staff’s Management Audit Panel testimony as 
+20 
+justification.  However, the Staff Management Audit Panel testimony offers 
+21 
+no explanation for why these cuts are recommended. 
+22 
+
+
+--- Page 33 ---
+Case 23-E-0418; Case 23-G-0419 
+ 
+REBUTTAL TESTIMONY OF THE TECHNOLOGY CAPITAL AND 
+OPERATIONS PANEL 
+31 
+ 
+Q.    
+Does the Company agree with Staff’s recommendation to remove one 
+1 
+Testing/QA Analyst FTE from the Company’s Rate Year incremental 
+2 
+headcount request? 
+3 
+A. 
+No.  The Company is seeking to increase strength and expertise in 
+4 
+software testing and quality assurance as a key lesson learned from the 
+5 
+SAP CIS Implementation.  As noted on pages 4-38 of the Management 
+6 
+Audit, the Company “had issues staffing testing activities” within the CIS 
+7 
+implementation.  This challenge led to additional vendor costs and a 
+8 
+reliance on external vendors to take on the Company’s testing 
+9 
+responsibilities.  The Management Audit observes that testing is currently 
+10 
+completed by business resources within the business units.  These 
+11 
+resources are limited in number and are often constrained or 
+12 
+overallocated due to their full-time operational responsibilities.  These 
+13 
+resource constraints lead to project delays, which impact the Company’s 
+14 
+ability to keep pace with the demands of the capital portfolio and 
+15 
+operational system maintenance.  Many times, sourcing external testers is 
+16 
+not feasible on projects where detailed institutional knowledge about 
+17 
+organizational processes is required, particularly on projects involving 
+18 
+existing business service software.  The Testing/QA FTE will help to 
+19 
+alleviate business resource constraints by supplementing some of the 
+20 
+quality testing necessary on business service projects as well as equip the 
+21 
+
+
+--- Page 34 ---
+Case 23-E-0418; Case 23-G-0419 
+ 
+REBUTTAL TESTIMONY OF THE TECHNOLOGY CAPITAL AND 
+OPERATIONS PANEL 
+32 
+ 
+Company with the resourcing necessary to develop a software testing 
+1 
+center of excellence. 
+2 
+Q.    
+What is Staff’s basis for reducing the three Web Developer FTEs from the 
+3 
+Company’s proposed headcount requests? 
+4 
+A. 
+On page 118 of the SCSP testimony, Staff recommends that “the 
+5 
+Commission deny the FTEs and associated costs for [web and mobile 
+6 
+projects] at this time.”  Staff’s stated concern is that “the Company’s 
+7 
+proposed project[s] [are] premature at this time, [and that] the Company 
+8 
+did not issue an RFP or evaluate if an outside vendor would be needed to 
+9 
+complete the project[s].”  Staff continues by noting that “the Company [did 
+10 
+not] provide a cost benefit analysis, according to its responses to DPS-401 
+11 
+and DPS-406.” 
+12 
+Q.    
+Does the Company agree with Staff’s recommendation to remove three 
+13 
+Web Developer FTEs from the Company’s incremental headcount 
+14 
+request? 
+15 
+A. 
+No.  The requested Web Developers are required to support and make 
+16 
+continual improvements to the Company’s web portal and mobile 
+17 
+applications.  These improvements are outlined by the Company’s 
+18 
+Customer Experience Panel and are driven by requests from the 
+19 
+Company’s Digital Customer Experience team.  Currently, approximately 
+20 
+63% of customers have MyAccount customer portal access and customer 
+21 
+demand for the Company’s digital channels continues to grow.  The 
+22 
+
+
+--- Page 35 ---
+Case 23-E-0418; Case 23-G-0419 
+ 
+REBUTTAL TESTIMONY OF THE TECHNOLOGY CAPITAL AND 
+OPERATIONS PANEL 
+33 
+ 
+Company needs to continue to add value to its customers chosen path of 
+1 
+interaction.  Without these three additional Web Development resources, 
+2 
+the Company has only 0.5 FTE resource dedicated to supporting critical 
+3 
+customer facing web portal and mobile applications.  The Company has 
+4 
+augmented this limited FTE resource by adding external contractor staff to 
+5 
+meet the demand for web and mobile projects.  However, it critical that the 
+6 
+Company has internal FTE web development resources to ensure 
+7 
+adherence to best-practice coding standards, address newly identified 
+8 
+security and vulnerability issues, and perform technical upgrades to keep 
+9 
+these internally developed web and mobile applications current. 
+10 
+Q.    
+Why did the Company not issue an RFP or provide cost benefit analysis 
+11 
+for the web and mobile projects within the 2024-2028 Five-Year Capital 
+12 
+Plan? 
+13 
+A. 
+Since the Company’s web and mobile applications were developed by in-
+14 
+house resources over time, an RFP to solicit vendors for these specific 
+15 
+projects was not appropriate given the Company’s strategy to continue to 
+16 
+develop and support these products with in-house resources going 
+17 
+forward.  Please refer to the Company’s Customer Experience Panel’s 
+18 
+rebuttal testimony for details regarding the benefits of requested web and 
+19 
+mobile projects within the capital plan. 
+20 
+
+
+--- Page 36 ---
+Case 23-E-0418; Case 23-G-0419 
+ 
+REBUTTAL TESTIMONY OF THE TECHNOLOGY CAPITAL AND 
+OPERATIONS PANEL 
+34 
+ 
+Q.    
+What is Staff’s recommendation regarding the reduction of five Analytics 
+1 
+FTE from the Company’s proposed headcount requests? 
+2 
+A. 
+On page 28 of the SCP testimony, Staff recommends “no funding for the 
+3 
+following…positions listed in Attachment 1 to the Company’s response to 
+4 
+DPS-260, included in Exhibit __ (SCP-1):  Data & Analytics Lead/Program 
+5 
+Manager, Analytics Microsoft Data Engineer / Architect, Analytics 
+6 
+Engineer #2, Analytics PowerBI Developer, Business Analyst.”  Staff 
+7 
+states that the “stated purpose and reported responsibilities in DPS-260 
+8 
+and DPS-747, included in Exhibit __ (SCP-1), are inconsistent with the 
+9 
+incremental work necessary for the Company to provide data to the 
+10 
+IEDR.”  Staff continues by stating that “the responsibilities [of these roles] 
+11 
+are all centered around building and operating a ‘long-term Enterprise 
+12 
+Analytics Platform.’  Since the Company only needs to provide data to the 
+13 
+IEDR, not host it, the Enterprise Analytics Platform would only be useful 
+14 
+for internal use.”   
+15 
+Q.    
+Does the Company agree with Staff’s recommendation to remove five 
+16 
+Analytics FTEs from the Company’s incremental headcount request? 
+17 
+A. 
+No.  The five positions related to the IEDR program: Data & Analytics 
+18 
+Lead/Program Manager, Analytics Microsoft Data Engineer/ Architect, 
+19 
+Analytics Data Engineer #2, Analytics PowerBI Developer, and Business 
+20 
+Analyst are positions required within the Company to achieve the IEDR 
+21 
+
+
+--- Page 37 ---
+Case 23-E-0418; Case 23-G-0419 
+ 
+REBUTTAL TESTIMONY OF THE TECHNOLOGY CAPITAL AND 
+OPERATIONS PANEL 
+35 
+ 
+requirements as defined in the Company's IEDR Phase 2 budget 
+1 
+submittal.   
+2 
+ 
+3 
+V. 
+OPERATIONAL RECOMMENDATIONS 
+4 
+Q.    
+Has Staff made any recommendations related to operational controls or 
+5 
+operating costs for the Technology area? 
+6 
+A. 
+Yes.  Staff made recommendations around Security reporting and 
+7 
+recommended a downward reduction to O&M Expense for the Technology 
+8 
+Common Capital budget.   
+9 
+Q.    
+Please describe Staff’s recommendations regarding security reporting.  
+10 
+A. 
+On page 29-30 of the SSP testimony, Staff recommends “that the 
+11 
+Commission require Central Hudson, as part of its reporting requirements, 
+12 
+to notify appropriate Department Staff as physical security or cybersecurity 
+13 
+projects reach significant milestones, are merged with other projects, or 
+14 
+are discontinued.  [Additionally, Staff] recommend[s] that Central Hudson, 
+15 
+as part of its reporting requirements, be required to notify appropriate 
+16 
+Department Staff when significant changes are made to cybersecurity 
+17 
+related FTEs.  Examples of significant changes include when 
+18 
+management-level physical and cyber security personnel leave their 
+19 
+positions, or an empty position is filled.  Notification should also occur 
+20 
+when cybersecurity FTE positions are added, removed, altered, or merged 
+21 
+with other positions.” 
+22 
+
+
+--- Page 38 ---
+Case 23-E-0418; Case 23-G-0419 
+ 
+REBUTTAL TESTIMONY OF THE TECHNOLOGY CAPITAL AND 
+OPERATIONS PANEL 
+36 
+ 
+Q.    
+Does the Company agree with Staff’s recommendation regarding Security 
+1 
+Reporting? 
+2 
+A. 
+Only in part.  While the Company agrees that greater partnership with the 
+3 
+PSC is a positive endeavor, a requirement to report on FTEs or 
+4 
+organizational changes (at any level) is unnecessary and burdensome.  
+5 
+Staff’s requested requirement that the Company report on any project 
+6 
+updates, changes, or milestones is also unnecessary.  It is unclear what 
+7 
+value these administrative functions would provide.  In addition, the 
+8 
+documented reports could expose vulnerabilities for the Company and/or 
+9 
+customers should the reports be inadvertently released to the public by 
+10 
+either party or fall into the hands of malicious cybersecurity actors.  The 
+11 
+proposed Staff requirements would also impose additional administrative 
+12 
+overheads and costs as a result of the time associated with creating and 
+13 
+maintaining the reports.  Instead of creating more “reports,” the Company 
+14 
+proposes that the new Manager (Director) in Cybersecurity have a 
+15 
+standing monthly call with the PSC to provide a cybersecurity update 
+16 
+where projects and organizational structure updates can be fully 
+17 
+discussed.  Additionally, the Company will serve as Chair for the New 
+18 
+York State Security Working Group, which further affords greater 
+19 
+collaboration and a secure level of transparency into Security operations 
+20 
+at Central Hudson.  
+21 
+
+
+--- Page 39 ---
+Case 23-E-0418; Case 23-G-0419 
+ 
+REBUTTAL TESTIMONY OF THE TECHNOLOGY CAPITAL AND 
+OPERATIONS PANEL 
+37 
+ 
+Q.    
+What recommendation did Staff make regarding O&M Expense for 
+1 
+Technology? 
+2 
+A. 
+On page 66-67 of the Staff AP testimony, Staff recommends “an 18.8 
+3 
+percent reduction to the Company’s Rate Year IT O&M expense.”  The 
+4 
+Panel adjusted the Rate Year IT O&M expenses by 18.8% for both electric 
+5 
+and gas to be consistent with the 18.8% reduction to the IT capital 
+6 
+spending put forth by the SCP on page 27 of their testimony.  
+7 
+Q.    
+Does the Company agree with Staff’s recommendation regarding the 
+8 
+18.8% reduction to O&M expenses? 
+9 
+A. 
+No, the Company does not agree with this reduction.  Please refer to the 
+10 
+“Information Technology” section of the Company’s Revenue 
+11 
+Requirements Panel rebuttal testimony that explains the Company’s 
+12 
+disagreement with Staff’s proposed reduction.  
+13 
+Q.    
+Does this conclude your rebuttal testimony at this time? 
+14 
+A. 
+Yes, it does. 
+15 

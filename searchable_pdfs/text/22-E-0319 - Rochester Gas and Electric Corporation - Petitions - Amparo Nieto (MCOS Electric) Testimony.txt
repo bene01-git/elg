@@ -1,0 +1,1326 @@
+--- Page 1 ---
+ 
+BEFORE THE 
+NEW YORK STATE 
+PUBLIC SERVICE COMMISSION 
+----------------------------------------------------------------------------x 
+ 
+Proceeding on Motion of the Commission as to the 
+Rates, Charges, Rules and Regulations of  
+ 
+ 
+Case 22-E- ____ 
+New York State Electric & Gas Corporation 
+for Electric Service 
+ 
+Proceeding on Motion of the Commission as to the 
+Rates, Charges, Rules and Regulations of  
+ 
+ 
+Case 22-G- ____ 
+New York State Electric & Gas Corporation 
+for Gas Service 
+ 
+Proceeding on Motion of the Commission as to the 
+Rates, Charges, Rules and Regulations of  
+ 
+ 
+Case 22-E- ____ 
+Rochester Gas and Electric Corporation 
+for Electric Service 
+ 
+Proceeding on Motion of the Commission as to the 
+Rates, Charges, Rules and Regulations of  
+ 
+ 
+Case 22-G- ____ 
+Rochester Gas and Electric Corporation 
+for Gas Service 
+ 
+----------------------------------------------------------------------------x 
+ 
+ 
+DIRECT TESTIMONY OF  
+AMPARO NIETO  
+(ELECTRIC MARGINAL COST STUDIES) 
+ 
+ 
+ 
+ 
+ 
+ 
+ 
+ 
+ 
+ 
+ 
+ 
+ 
+May 26, 2022
+
+
+--- Page 2 ---
+Case 22-E-____; Case 22-G-____; Case 22-E-____; Case 22-G-____ 
+DIRECT TESTIMONY OF AMPARO NIETO 
+(ELECTRIC MARGINAL COST STUDIES) 
+i 
+TABLE OF CONTENTS 
+1 
+I.
+INTRODUCTION ..................................................................................................... 1 
+2 
+II.
+IDENTIFICATION AND SUMMARY OF EXHIBITS ........................................... 2 
+3 
+III.
+OBJECTIVES AND ELEMENTS OF MARGINAL COST STUDIES ................... 4 
+4 
+A.
+Objectives ............................................................................................................. 4 
+5 
+B.
+Elements of Marginal Cost ................................................................................... 6 
+6 
+IV.
+METHODOLOGY UPDATES TO THE PRIOR DISTRIBUTION
+7 
+MCOS STUDIES ....................................................................................................... 7 
+8 
+V.
+MARGINAL COST METHODS BY COMPONENT .............................................. 9 
+9 
+A.
+Marginal Upstream and Distribution Costs .......................................................... 9 
+10 
+B.
+Marginal Distribution Facilities Costs ............................................................... 12 
+11 
+C.
+Marginal Customer-Related Costs ..................................................................... 13 
+12 
+VI.
+USE OF THE MCOS STUDY RESULTS FOR RATE DESIGN .......................... 13 
+13 
+ 
+
+
+--- Page 3 ---
+Case 22-E-____; Case 22-G-____; Case 22-E-____; Case 22-G-____ 
+ 
+DIRECT TESTIMONY OF AMPARO NIETO  
+(ELECTRIC MARGINAL COST STUDIES) 
+ 
+ 
+ 
+ 
+I. 
+INTRODUCTION 
+1 
+Q. 
+Please state your name.   
+2 
+A. 
+My name is Amparo Nieto. 
+3 
+Q. 
+Ms. Nieto, please state your current position and business address. 
+4 
+A. 
+I am Senior Director at Energy and Environmental Economics (“E3”).  My office is 
+5 
+located at 44 Montgomery Street, San Francisco, California 94104. 
+6 
+Q. 
+Please summarize your work experience and educational background. 
+7 
+A. 
+I am an economist with over 25 years of experience providing energy sector advisory and 
+8 
+expert witness services.  At E3, I lead the energy rates practice, in particular in the 
+9 
+context of utility ratemaking policy design, and development of electricity and natural 
+10 
+gas marginal cost studies for rate design and for evaluation of distributed energy 
+11 
+resources (“DERs”).  I have extensively advised utilities as part of electricity rate cases, 
+12 
+recommending enhanced time of use (“TOU”) rates and dynamic rate options that better 
+13 
+follow marginal costs, in California, Arizona, New York, Maine, Minnesota, Oregon, 
+14 
+North Dakota, South Dakota, British Columbia, Manitoba, and Newfoundland.  I am 
+15 
+often retained to provide advice on stand-alone regulatory commission-led ratemaking 
+16 
+proceedings that evaluate policy options for net energy metering and electrification rates, 
+17 
+including rates for those who adopt such as behind the meter solar, battery storage, or 
+18 
+electric vehicles.  My studies take into account the particular market rules and regulatory 
+19 
+objectives, including clean energy policy goals.  In New York, I was involved in the 
+20 
+initial phase of the Reforming the Energy Vision (“REV”) docket, supporting New York 
+21 
+State Electric & Gas Corporation (“NYSEG”) and Rochester Gas and Electric 
+22 
+
+
+--- Page 4 ---
+Case 22-E-____; Case 22-G-____; Case 22-E-____; Case 22-G-____ 
+ 
+DIRECT TESTIMONY OF AMPARO NIETO  
+(ELECTRIC MARGINAL COST STUDIES) 
+ 
+2 
+Corporation (“RG&E” and, together with NYSEG, the “Companies”) with regard to 
+1 
+marginal distribution cost analysis, system-wide and locationally, for use in the Value of 
+2 
+DER as part of the REV initiative.  For many years, I have directed membership-based 
+3 
+utility working groups that discuss rate innovation and regulatory strategies.  Prior to 
+4 
+joining E3, I was a Vice President at NERA Economic Consulting, and as Senior Vice 
+5 
+President at Economics Incorporated.  I hold a Masters’ degree in Economic Analysis and 
+6 
+Public Finance from the Madrid Institute for Fiscal Studies, in Madrid and a B.A. in 
+7 
+Economics from the University of Carlos III of Madrid.  My curriculum vitae is set forth 
+8 
+in Exhibit __ (ANE-1). 
+9 
+Q. 
+Have you previously testified in other proceedings before the New York State Public 
+10 
+Service Commission (“PSC” or the “Commission”) or any other state or federal 
+11 
+regulatory agency? 
+12 
+A. 
+Yes, I have filed direct testimony on marginal electricity and natural gas costs before the 
+13 
+Commission in prior rate cases of NYSEG and RG&E.  In addition, I have testified in 
+14 
+rate proceedings before regulatory commissions in California, Arizona, New York, 
+15 
+Maine, Minnesota, New Hampshire, North Dakota, South Dakota and North Carolina. 
+16 
+II. 
+IDENTIFICATION AND SUMMARY OF EXHIBITS 
+17 
+Q. 
+Are you sponsoring any exhibits? 
+18 
+A. 
+Yes.  I sponsor two Exhibits: 
+19 
+Exhibit __ (ANE-1): Curriculum Vitae; and 
+20 
+Exhibit __ (ANE-2): Marginal Cost of Electricity Distribution for NYSEG and RG&E. 
+21 
+
+
+--- Page 5 ---
+Case 22-E-____; Case 22-G-____; Case 22-E-____; Case 22-G-____ 
+ 
+DIRECT TESTIMONY OF AMPARO NIETO  
+(ELECTRIC MARGINAL COST STUDIES) 
+ 
+3 
+Q. 
+What is the purpose of your testimony? 
+1 
+A. 
+I was retained by the Companies to conduct an update to the electricity and natural gas 
+2 
+marginal delivery cost of service studies (“MCOS”), which provide support in the review 
+3 
+of existing delivery rates.  In my testimony, I summarize the methods that I adopted for 
+4 
+the MCOS study updates, including any modifications with regard to the approaches in 
+5 
+past studies conducted for the Companies.  A summary of the results by rate class is 
+6 
+provided for each of the Companies.  More detailed summaries of the marginal cost 
+7 
+approach and results for each component of the studies are provided in Exhibit __ 
+8 
+(ANE-1).  The MCOS study results are useful to inform the potential changes that would 
+9 
+help provide efficient price signals and relative contribution of customer class to overall 
+10 
+incremental cost of service.   
+11 
+Q. 
+Please define marginal costs in this context. 
+12 
+A. 
+Marginal electricity distribution costs represent the additional costs that the utility or load 
+13 
+serving entity will need to incur to meet a small increment of demand in any given hour, 
+14 
+or the savings, in terms of avoided investment needs or expenses from load reductions.  
+15 
+The marginal cost associated with distribution service also includes the incremental cost 
+16 
+of adding a new customer to the system and interconnecting the customer premise to the 
+17 
+grid, as well as the marginal customer expenses associated with providing service to 
+18 
+existing customers. 
+19 
+
+
+--- Page 6 ---
+Case 22-E-____; Case 22-G-____; Case 22-E-____; Case 22-G-____ 
+ 
+DIRECT TESTIMONY OF AMPARO NIETO  
+(ELECTRIC MARGINAL COST STUDIES) 
+ 
+4 
+III. 
+OBJECTIVES AND ELEMENTS OF MARGINAL COST STUDIES 
+1 
+A. Objectives 
+2 
+Q. 
+Please describe the main goals of undertaking the MCOS Studies. 
+3 
+A. 
+The MCOS study results are useful primarily to inform changes in rate design needed to 
+4 
+meet efficiency goals.  Efficiency in electric delivery service is achieved when the utility 
+5 
+can provide adequate grid reliability at the least overall cost, helping electricity rates to 
+6 
+stay as low as possible.  Marginal cost-based rates are also helpful to maintain equitable 
+7 
+allocation of revenue requirement within a given class and across classes.  This is 
+8 
+increasingly important as customers will exhibit more flexible loads with the increasing 
+9 
+adoption of DERs. 
+10 
+Q. 
+Please summarize your view on the key guiding principles regarding use of marginal cost 
+11 
+information for rate design.  
+12 
+A. 
+Efficient pricing requires designing rates so that they mirror as close as possible the 
+13 
+structure of the Companies’ marginal cost of service.  This calls for initially setting all 
+14 
+rate components at the corresponding marginal unit cost, then reconciling those charges 
+15 
+to fully recover the class revenue target.  This second step involves allocating non-
+16 
+marginal, sunk costs to the various rate charges and it is critical in rate design as it 
+17 
+directly impacts the extent to which rates can provide efficient price signals.  Fixed cost 
+18 
+allocation should ideally be done in a way that least distorts customer decisions regarding 
+19 
+the use of the grid, i.e., using more electricity and/or adopting on-site generation, relative 
+20 
+to the decisions the customer would make if rates were equal to marginal costs.  To 
+21 
+achieve that outcome, ideally the volumetric components of the rate would be reflecting 
+22 
+
+
+--- Page 7 ---
+Case 22-E-____; Case 22-G-____; Case 22-E-____; Case 22-G-____ 
+ 
+DIRECT TESTIMONY OF AMPARO NIETO  
+(ELECTRIC MARGINAL COST STUDIES) 
+ 
+5 
+as much as possible the marginal costs that vary with on-going changes in usage or 
+1 
+demand, while fixed rate components recover the bulk of sunk distribution costs so as not 
+2 
+to disincentivize additional use of the grid when there is sufficient capacity.  This 
+3 
+provides appropriate price signals for incremental usage and investment decisions, 
+4 
+including beneficial electrification, because higher utilization of available existing 
+5 
+capacity may be possible without creating strain on the grid when marginal costs are low.  
+6 
+Efficiency is also maximized when volumetric rate components are time-differentiated, 
+7 
+as they signal to all price-sensitive customers the higher underlying marginal costs of 
+8 
+providing delivery service during peak hours of the day.  Thus, rates based on marginal 
+9 
+costs will charge customers for incremental investment in hours when expansion is 
+10 
+needed to accommodate their load.   
+11 
+Q.  
+To what extent does considering the results of the MCOS studies in rate design also help 
+12 
+improving equity across customers? 
+13 
+A. 
+The results of the MCOS studies can be used to preserve fairness in allocation of sunk 
+14 
+costs within and across customer classes.  Efficient pricing is a prerequisite for equitable 
+15 
+sharing of the cost of system expansion but also for fairness in allocating of fixed costs 
+16 
+across customers.  As customers pay for incremental use, or alternatively, receive bill 
+17 
+savings for their peak load reductions, changes in revenues from rates better align with 
+18 
+the incremental cost (or savings) to the utility, thereby reducing potential cross-subsidies 
+19 
+among customers.  Customer incentives to adopt DERs, such as behind the meter solar 
+20 
+generation and battery storage, also better align with system benefits and value to the 
+21 
+grid., particularly when rates are time-differentiated, as they signal the higher avoided 
+22 
+
+
+--- Page 8 ---
+Case 22-E-____; Case 22-G-____; Case 22-E-____; Case 22-G-____ 
+ 
+DIRECT TESTIMONY OF AMPARO NIETO  
+(ELECTRIC MARGINAL COST STUDIES) 
+ 
+6 
+costs during peak hours of the day.  Finally, marginal cost-based rate designs may 
+1 
+incentivize efficient entry of new commercial customers into the service territory.  New 
+2 
+load can generally be served using existing unused grid capacity when marginal costs are 
+3 
+low. 
+4 
+B. Elements of Marginal Cost 
+5 
+Q.  
+Please describe the elements of marginal cost of electricity delivery in your study. 
+6 
+A. 
+The objective of the distribution MCOS study is to evaluate all components of the 
+7 
+marginal distribution costs of service, by taking into account the specific characteristics 
+8 
+of the utility’s distribution system and its customers.  The following elements of marginal 
+9 
+distribution costs were examined: 
+10 
+a) 
+the incremental cost incurred by the Companies at the upstream and distribution 
+11 
+substation level to reliably serve the next kW at any given hour, by voltage level 
+12 
+and at a specific location; 
+13 
+b) 
+the incremental cost incurred by the Companies to provide customer access to the 
+14 
+local distribution grid, namely line transformers, local primary and secondary line 
+15 
+extensions that are less extensively shared than primary feeders; and  
+16 
+c) 
+the incremental customer-related services.  
+17 
+As in the MCOS studies performed in the Companies prior rate cases, the updated MCOS 
+18 
+study also calculates marginal transmission costs, as they relate to NYSEG and RG&E's 
+19 
+transmission obligation as load serving entities.  This approach is consistent with prior 
+20 
+studies.  The transmission revenue requirement is recovered from load serving entities 
+21 
+through a Transmission Service Charge (“TSC”)—a monthly price per MWh transported 
+22 
+
+
+--- Page 9 ---
+Case 22-E-____; Case 22-G-____; Case 22-E-____; Case 22-G-____ 
+ 
+DIRECT TESTIMONY OF AMPARO NIETO  
+(ELECTRIC MARGINAL COST STUDIES) 
+ 
+7 
+or sold.  The study computes marginal transmission costs based on the average TSC 
+1 
+monthly charges from the most recent 12-month period and adjusted for average marginal 
+2 
+energy losses between the transmission tie point and customers’ meters by pricing period. 
+3 
+IV. 
+METHODOLOGY UPDATES TO THE PRIOR DISTRIBUTION 
+4 
+MCOS STUDIES 
+5 
+Q. 
+Please identify the key differences in the marginal costing approaches you have adopted 
+6 
+in these proceedings as compared to those you previously used for this component of the 
+7 
+study in the past on behalf of the Companies? 
+8 
+A. 
+The approach I have used in developing the current MCOS study update is conceptually 
+9 
+consistent with the marginal cost methods employed in the Companies’ past rate cases.  
+10 
+The electricity MCOS studies that I conducted for NYSEG and RG&E take into account 
+11 
+the current and potential state of the grid over the next five years, consistent with the 
+12 
+Companies’ capital expansion plan and based on consultation with distribution planners 
+13 
+on expectations of growth over the next five years.  
+14 
+The main difference in this study update with prior study for the 2019 rate cases, 
+15 
+Cases 19-E-0378 et al., is in the steps that convert dollars per kW of added capacity in 
+16 
+expanding areas to system-wide cost per kW of peak load.  The current study more 
+17 
+strictly reflects the Companies’ planning standards in determining marginal investment 
+18 
+per unit of peak load carrying capability.  
+19 
+Q.  
+Have you undertaken any additional analyses beyond what was conducted in electric 
+20 
+MCOS studies in prior rate cases? 
+21 
+A. 
+Consistent with the prior studies, marginal cost estimates at the upstream and distribution 
+22 
+level required updating the per-kW substation cost.  This study relied on the Companies’ 
+23 
+
+
+--- Page 10 ---
+Case 22-E-____; Case 22-G-____; Case 22-E-____; Case 22-G-____ 
+ 
+DIRECT TESTIMONY OF AMPARO NIETO  
+(ELECTRIC MARGINAL COST STUDIES) 
+ 
+8 
+Five Year Capital Plan for 2022-2026, which was filed with the Commission on April 1, 
+1 
+2022 in Cases 19-E-0378 et al.  In this study update, I conducted an additional analysis to 
+2 
+test potential differential impact of growth by planning division on the stations’ relative 
+3 
+peak loading compared to station nameplate ratings.  Going forward, certain areas of the 
+4 
+Companies’ service territories may experience higher winter peak load growth relative to 
+5 
+growth in the summer, due to growing electrification of space heating and electric 
+6 
+vehicles.  Distribution behind the meter PV generation will be expected to continue 
+7 
+growing as well, reducing the net loads in certain hours of the day.  The increasing 
+8 
+additions of behind the meter solar and energy efficiency efforts has already affected the 
+9 
+number of winter-peaking stations compared to the last time the study was updated.  I 
+10 
+reviewed this and any expected changes in the near term to determine the adjustment 
+11 
+required to convert the initial marginal growth-related capital investment estimate to a 
+12 
+system-wide marginal cost estimate. 
+13 
+Q.  
+Please elaborate on the reason for this modification to the approach. 
+14 
+A. 
+Planning standards dictate, among other factors, the level of loading in the substation 
+15 
+transformer relative to nameplate rating that is expected to trigger capacity expansion 
+16 
+decisions under n-0 and n-1 conditions.  In the prior MCOS studies, the basis to restate 
+17 
+the capacity cost to a cost per kW of peak load relied on the prevailing average reserve 
+18 
+margin averaged for the stations with growing loads in the Companies’ service territories.  
+19 
+This average reserve margin was used to determine the share of substations that would 
+20 
+experience expansion by identifying those with lower than typical reserve margin.  The 
+21 
+new method represents an improvement as it reflects current station peak load thresholds 
+22 
+
+
+--- Page 11 ---
+Case 22-E-____; Case 22-G-____; Case 22-E-____; Case 22-G-____ 
+ 
+DIRECT TESTIMONY OF AMPARO NIETO  
+(ELECTRIC MARGINAL COST STUDIES) 
+ 
+9 
+used by planners.  This change was necessary as the Companies are undertaking 
+1 
+investments related to modernization of substations or improvement of asset condition, to 
+2 
+replace or upgrade aging assets and for other reasons, and the lumpiness inherent to 
+3 
+investments impacts the system-wide average reserve margin.  Thus, the prior method 
+4 
+was appropriate at a time when load growth was steady and asset condition investments 
+5 
+were less frequent.  It is less appropriate when investments that expand station capacity 
+6 
+are being undertaken for reasons other than strictly load growth.  
+7 
+V. 
+MARGINAL COST METHODS BY COMPONENT 
+8 
+A. Marginal Upstream and Distribution Costs  
+9 
+Q. 
+Please describe the steps in calculating marginal costs of the upstream grid. 
+10 
+A. 
+To estimate the cost of distribution substations and upstream lines and substations, I 
+11 
+reviewed NYSEG’s and RG&E’s capital expansion plan for the study period and filtered 
+12 
+out other investments that are merely driven by the need to modernize aging 
+13 
+infrastructure and replacements that do not add capacity.  Planned investments for 
+14 
+distribution substations, stated in 2022 dollars, were divided by added project capacity.  I 
+15 
+then converted this cost estimate to a dollar per kW of demand, using added load carrying 
+16 
+capability for every increment of kW of capacity, as per planning standards.  Forward-
+17 
+looking marginal cost estimates require considering the expected annual peak load 
+18 
+growth rates during the years the rates are going to be in effect.  Thus, to recognize that 
+19 
+only some parts of the service territory are experiencing load growth, I then applied an 
+20 
+adjustment factor based on the total peak load share of expected capacity-expanding areas 
+21 
+by year 2027.   
+22 
+
+
+--- Page 12 ---
+Case 22-E-____; Case 22-G-____; Case 22-E-____; Case 22-G-____ 
+ 
+DIRECT TESTIMONY OF AMPARO NIETO  
+(ELECTRIC MARGINAL COST STUDIES) 
+ 
+10 
+Q.  
+Are there any fundamental differences in the results of the marginal electricity delivery 
+1 
+cost analysis among the two Companies, and if so, what is driving those differences? 
+2 
+A. 
+Both Companies have been experiencing relatively slower summer peak load growth in 
+3 
+recent years and this is expected to continue according to the peak load forecast provided 
+4 
+by the Companies for the period 2022-2027.  This results in lower distribution system 
+5 
+marginal costs for both Companies, but particularly more so in RG&E’s service area.  
+6 
+Based on my review of RG&E’s capital expansion plan, only the Central region is 
+7 
+expected to need a sizeable amount of reliability/capacity related projects over the 
+8 
+upcoming planning period.  As a result, the share of the system that is likely to 
+9 
+experience growth-related expansion, is only about 10 percent for RG&E, compared to 
+10 
+over 23 percent for NYSEG through 2027.  The main reason for this difference is that the 
+11 
+relative expected higher growth in winter peak loads affect the Companies’ service 
+12 
+territories and investments differently, other things equal.  While the growth in summer-
+13 
+peaking stations currently drive the bulk of the capacity expansion projects in both 
+14 
+Companies, NYSEG has a higher percentage of substations that are either winter-peaking 
+15 
+or dual-season peaking compared to RG&E, due to being more rural and having more 
+16 
+customers that rely less on natural gas for space heating.  This influences the higher level 
+17 
+of capacity-related projects that the NYSEG expects to undertake, in the light of potential 
+18 
+additional electrification of loads.   
+19 
+
+
+--- Page 13 ---
+Case 22-E-____; Case 22-G-____; Case 22-E-____; Case 22-G-____ 
+ 
+DIRECT TESTIMONY OF AMPARO NIETO  
+(ELECTRIC MARGINAL COST STUDIES) 
+ 
+11 
+Q. 
+How did you assign the resulting marginal upstream and distribution cost to hours or time 
+1 
+of use periods? 
+2 
+A. 
+I time-differentiated the resulting annual marginal distribution cost based on a probability 
+3 
+of distribution peak analysis that uses hourly distribution substation loads during the 
+4 
+years 2017 through 2021.  The probability of peak associated with each hour of a typical 
+5 
+weekday and weekend every month measures the likelihood that the load in that 
+6 
+particular hour and day type will exceed the annual distribution peak load.  The resulting 
+7 
+hourly probabilities of peak are applied to the annualized distribution cost, and the 
+8 
+resulting hourly marginal costs are then aggregated by time of day periods.  As requested 
+9 
+by the Companies, the time of day periods that were used reflect the existing current 
+10 
+residential and commercial delivery rates, since these rates will be in place in the 
+11 
+upcoming years. 
+12 
+Q. 
+Would you please address the data inputs the Companies were able to make available for 
+13 
+the MCOS study? 
+14 
+A. 
+The Companies provided sufficient data to provide a robust update of prior studies, but 
+15 
+information on station-specific load growth was not available.  The Companies provided 
+16 
+differentiated annual growth expectations for summer peak loads by planning area.  For 
+17 
+the winter, only annual system-wide growth forecasts were available.  More precise 
+18 
+information was available on potential winter peak load growth due to electrification 
+19 
+initiatives in the City of Ithaca.  I used this information, supplemented with New York 
+20 
+Independent System Operator (“NYISO”) estimates of zonal peak load growth 
+21 
+corresponding to the Companies’ service territories, to identify the share of the system 
+22 
+
+
+--- Page 14 ---
+Case 22-E-____; Case 22-G-____; Case 22-E-____; Case 22-G-____ 
+ 
+DIRECT TESTIMONY OF AMPARO NIETO  
+(ELECTRIC MARGINAL COST STUDIES) 
+ 
+12 
+winter peak load that will be likely to require potentially expansion of the station 
+1 
+transformer and/or line upgrades for capacity and reliability reasons.  Once Advanced 
+2 
+Metering Infrastructure (“AMI”) has been more fully deployed these annual growth rates 
+3 
+can be revisited as the visibility into each station-specific customer mix and their load 
+4 
+profiles improves. 
+5 
+B. Marginal Distribution Facilities Costs 
+6 
+Q.    
+How did you estimate the marginal cost of local electric distribution facilities? 
+7 
+A. 
+Transformers and local conductors are sized based on the maximum demands that the 
+8 
+customers connected to them can be expected to impose over the service life of those 
+9 
+facilities.  The planners’ expectation is that local distribution facilities will not be 
+10 
+expanded in response to month-to-month or year-to-year variations in actual usage, so 
+11 
+long as there is no change in the customers’ design demand.  These costs are not marginal 
+12 
+with regard to volume, but with major changes in customer ‘design demand’ that require 
+13 
+local distribution facility capacity to be expanded.  Thus, the appropriate approach to 
+14 
+identify these elements of the study is a review of the Companies work orders that 
+15 
+involve connection to a variety of customers in each rate class.  The Companies provided 
+16 
+sample of connection costs for urban, semi-rural and rural customers, single phase and 
+17 
+polyphase for residential and commercial customers for years 2017-2021.  Based on a 
+18 
+review of this information I computed a typical cost per kW of design demand, using the 
+19 
+transformer capacity, for each of the Companies’ rate classes.  The next step was to 
+20 
+annualize the local facilities investment for each Company using an economic carrying 
+21 
+charge, adding O&M expenses and appropriate marginal loading factors.   
+22 
+
+
+--- Page 15 ---
+Case 22-E-____; Case 22-G-____; Case 22-E-____; Case 22-G-____ 
+ 
+DIRECT TESTIMONY OF AMPARO NIETO  
+(ELECTRIC MARGINAL COST STUDIES) 
+ 
+13 
+C. Marginal Customer-Related Costs 
+1 
+Q.    
+Please provide an overview of the method you used for estimating marginal customer 
+2 
+costs. 
+3 
+A. 
+Marginal customer costs were computed based on the annualized cost of the expected 
+4 
+AMI meter to be deployed by customer class, and installed cost of the typical service 
+5 
+drop per customer by class.  The Companies’ customer marginal costs also include 
+6 
+customer accounts expenses, and customer service and information expenses.  These 
+7 
+marginal expense estimates were based on recent historical levels of expense.  These 
+8 
+expenses were allocated based on class weighting factors from the Companies’ updated 
+9 
+embedded cost of service studies. 
+10 
+VI. 
+USE OF THE MCOS STUDY RESULTS FOR RATE DESIGN 
+11 
+Q.  
+Please describe a rate structure that would mirror a marginal cost of service structure.  
+12 
+A. 
+Rates that would more closely reflect the underlying distribution marginal cost structure, 
+13 
+subject to modifications to consider gradualism and customer understanding, would require 
+14 
+the following components: 
+15 
+o A per-metered demand charge, time-differentiated based on the analysis of 
+16 
+distribution station system on-peak hours; or TOU per-kWh charges for customers 
+17 
+with no demand meters; these volumetric rates would ideally be set as close as 
+18 
+possible to the time-differentiated marginal costs of upstream distribution 
+19 
+substations and trunkline feeders. 
+20 
+o A monthly local distribution facility per-kW of customer design demand charge 
+21 
+that recovers the marginal costs of local facilities.  Costs associated with 
+22 
+
+
+--- Page 16 ---
+Case 22-E-____; Case 22-G-____; Case 22-E-____; Case 22-G-____ 
+ 
+DIRECT TESTIMONY OF AMPARO NIETO  
+(ELECTRIC MARGINAL COST STUDIES) 
+ 
+14 
+transformer and local conductor capacity needs do not fluctuate with changes in 
+1 
+usage from month to month, and therefore are best recovered outside of 
+2 
+volumetric rates.  When design demand is unknown, or a subscription-type 
+3 
+demand rate is infeasible, facilities costs can instead be recovered on a monthly 
+4 
+per-customer fixed charge that is calculated based on expected annual maximum 
+5 
+customer demand by the average customer in the class.  One alternative to recover 
+6 
+these costs is adopting a tiered monthly fixed charge that varies with customer’s 
+7 
+expected maximum demand in each class.  This latter option would be an efficient 
+8 
+design in order to preserve equity and limit cost-shifting as growing diversity in 
+9 
+customer kW size within a rate class begins to take place.   
+10 
+o A monthly customer charge that recovers the annualized cost of the meter and 
+11 
+service drop, plus an estimate of marginal per customer expenses including meter-
+12 
+reading, billing, customer accounts, uncollectible related expenses, and customer 
+13 
+information services.  
+14 
+Q. 
+Please summarize how the estimated marginal costs for NYSEG and RG&E compare to 
+15 
+existing distribution rates. 
+16 
+A. 
+Tables 1 and 2 show the resulting marginal unit costs for each component of the service, 
+17 
+using the existing time of day periods and the year-round construct of the existing rates, 
+18 
+for NYSEG and RG&E and compare to the existing delivery rates by class.  Marginal 
+19 
+local distribution facilities costs are shown separately, in two alternative ways – per 
+20 
+customer and per kW of average monthly design demand for the class.  Marginal 
+21 
+
+
+--- Page 17 ---
+Case 22-E-____; Case 22-G-____; Case 22-E-____; Case 22-G-____ 
+ 
+DIRECT TESTIMONY OF AMPARO NIETO  
+(ELECTRIC MARGINAL COST STUDIES) 
+ 
+15 
+upstream distribution costs are also shown in two alternative ways – per kW of monthly 
+1 
+metered demand and per kWh of usage.  
+2 
+The marginal cost figures in Tables 1 and 2 are strictly marginal costs; they have 
+3 
+not yet been reconciled to ensure that rates generate the proposed class revenue targets.  
+4 
+They are nevertheless useful to assess the overall efficiency properties of the current 
+5 
+rates, such as the extent to which the fixed charges recover at least the monthly marginal 
+6 
+customer costs.  The comparisons in Tables 1 and 2 reveal that there is room for 
+7 
+improvement in the alignment of current per-kW or per-kWh price signals and marginal 
+8 
+costs.   
+9 
+
+
+--- Page 18 ---
+Case 22-E-____; Case 22-G-____; Case 22-E-____; Case 22-G-____ 
+ 
+DIRECT TESTIMONY OF AMPARO NIETO  
+(ELECTRIC MARGINAL COST STUDIES) 
+ 
+16 
+Table 1: NYSEG’s Comparison of Marginal Unit Cost of Distribution Using Existing 
+1 
+Distribution Rates 
+2 
+ 
+Current  Rates 
+Marginal Costs (in 2022$)
+Service 
+Classification
+Period
+Total 
+Customer 
+Charge
+Demand  
+Delivery
+CUSTOMER - 
+Monthly 
+Marginal Cost
+FACILITIES - 
+Monthly 
+Marginal 
+Cost
+FACILITIES -  
+Monthly per-
+Customer 
+cost
+Distribution 
+Delivery   
+Marginal per-
+kW Cost
+Distribution 
+Delivery per-
+kWh Marginal 
+Cost
+ ($/month)
+($/kw-mo)
+($/kwh)
+ ($/cust/mo)
+($/kW)
+ ($/cust/mo)
+($/kW-mo)
+($/kWh)
+SC01
+All
+$17.00
+$0.0510
+$17.84
+$8.18
+$57.24
+$1.834
+$0.00394
+SC01 Seasonal
+All
+$18.00
+$1.0510
+$17.84
+$8.18
+$57.24
+$1.834
+$0.00394
+SC 8
+Day
+$19.60
+$0.0469
+$18.83
+$8.18
+$57.24
+$1.834
+$0.00715
+Night
+$0.0469
+$0.00183
+SC08 Seasonal
+Day
+$19.60
+$0.0469
+$18.83
+$8.18
+$57.24
+$1.834
+$0.00715
+Night
+$0.0469
+$0.00183
+SC 2
+$33.00
+$10.85
+$0.0013
+$25.94
+$4.79
+$114.89
+$1.834
+$0.00394
+$136.85
+$2.28
+$284.71
+SC 3P
+PR
+$137.00
+$7.81 
+$0.00130
+$1.74951
+$0.00386
+$221.5 n/a
+$0.00
+$1.7495
+$0.0019
+SC 3S
+All Blocks
+$242.51
+$4.14
+$0.0004
+SC 6
+All
+$19.80
+$0.0608
+$18.48
+$6.43
+$32.15
+$1.83398
+$0.00394
+SC 7-1
+On
+$217.00
+$9.02
+$62.77
+$3.82
+$465.46
+$1.83398
+$0.00715
+Off
+$0.00183
+SC 7-2
+On
+$758.00
+$8.27
+$231.56
+$1.99
+$1,767.61
+$1.74951
+$0.00638
+Off
+$0.00266
+SC 7-3
+On
+$1,579.00
+$2.06
+$205.16
+$0.00213
+Off
+$0.0018
+SC 7-4
+On
+$3,200.00
+$1.11
+$1,008.21
+$0.00173
+Off
+$0.00173
+SC09
+Day
+$23.00
+$0.05042
+$25.12
+$8.18
+$40.88
+$1.83398
+$0.00394
+Night
+$0.05042
+Summer - On
+$0.04145
+$0.0261
+Summer- Mid
+$27.15
+$0.04145
+$0.0107
+Summer - Peak
+$0.04145
+$0.0027
+W - On
+$0.04145
+$0.0019
+W - Mid
+$27.15
+$0.04145
+$22.64
+$8.18
+$81.77
+$0.0019
+W - Off
+$0.04145
+$0.0018
+Off season-Mid
+$0.04145
+$0.0018
+Off season-Off
+$27.15
+$0.0415
+$0.0018
+SC 12
+
+
+--- Page 19 ---
+Case 22-E-____; Case 22-G-____; Case 22-E-____; Case 22-G-____ 
+ 
+DIRECT TESTIMONY OF AMPARO NIETO  
+(ELECTRIC MARGINAL COST STUDIES) 
+ 
+17 
+Table 2: RG&E’s Comparison of Marginal Unit Cost of Distribution Using Existing 
+1 
+Distribution Rates 
+2 
+ 
+Q.    
+Does this conclude your direct testimony at this time? 
+3 
+A. 
+Yes, it does. 
+4 
+Current Delivery Rates (2022)
+Marginal Costs (in 2022$)
+Service 
+Classification
+Period
+Total 
+Customer 
+Charge
+Demand  
+Delivery
+CUSTOMER - 
+Monthly 
+Marginal Cost
+FACILITIES - 
+Monthly 
+Marginal Cost
+FACILITIES -  
+Monthly per-
+Customer cost
+Distribution 
+Delivery   
+Marginal per-
+kW Cost
+Distribution 
+Delivery per-
+kWh Marginal 
+Cost
+ ($/month)
+($/kw-mo)
+($/kwh)
+ ($/cust/mo)
+($/kW)
+ ($/cust/mo)
+($/kW-mo)
+($/kWh)
+SC01
+All
+$22.00
+$0.0531
+$17.07
+$6.05
+$39.30
+$0.00347
+SC041
+Peak
+$26.10
+$0.0475
+$18.55
+$6.05
+$54.42
+$0.00434
+Off-Peak
+$0.0475
+$0.00288
+SC042
+Peak
+$29.70
+$0.0583
+$18.55
+$6.05
+$54.42
+$0.00434
+Off-Peak
+$0.0583
+$0.00288
+SC04 PEV
+Peak
+$22.00
+$0.0814
+$17.07
+$6.05
+$54.42
+$0.00434
+Off-Peak
+$0.0299
+$0.00288
+SC02
+$22.00
+$0.0425
+$26.58
+$5.06
+$101.24
+$0.00347
+SC03
+$401.00
+$17.78 
+$113.97
+$1.95
+$224.58
+$0.605
+$0.00264
+SC03 HiVolt
+$401.00
+$17.18 
+$113.97
+$1.04
+$187.60
+$0.590
+$0.00260
+SC07
+$120.00
+$14.02
+$0.0043
+$55.09
+$5.08
+$137.14
+$0.605
+$0.00264
+SC08 - P
+$1,546.00
+$15.03
+$237.38
+$1.04
+$990.09
+$0.590
+$0.00260
+SC08 - S
+All Blocks
+$1,229.00
+$15.22
+$125.93
+$1.99
+$696.21
+$0.605
+$0.00264
+SC08 - 
+SubTraCom 
+All
+$2,737.00
+$10.16
+$352.83
+n/a
+$0.00260
+SC08 - SubTraInd 
+All
+$2,858.00
+$9.55
+$407.43
+n/a
+$0.00248
+SC08 - Trans 
+All
+$4,400.00
+$9.74
+$1,518.00
+n/a
+$0.00248
+SC08 Substation 
+All
+$2,659.00
+$8.60
+$238.25
+n/a
+$0.58957
+$0.00248
+SC09
+Peak
+$129.00
+$13.26
+$0.0067
+$35.52
+$3.58
+$681.06
+$0.58957
+$0.00269
+Off-Peak
+$0.0067
+$0.00258
+SC09 HiVolt
+Peak
+$129.00
+$12.66
+$0.0067
+$48.78
+$3.58
+$896.13
+$0.58957
+$0.00269
+Off-Peak
+$0.0067
+$0.58957
+$0.00258

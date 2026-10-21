@@ -1,0 +1,1733 @@
+--- Page 1 ---
+BEFORE THE NEW YORK STATE 
+PUBLIC SERVICE COMMISSION 
+ 
+ 
+---------------------------------------------------------------x 
+Proceeding on Motion of the Commission 
+: 
+as to the Rates, Charges, Rules and 
+: 
+Regulations of Orange and Rockland 
+: 
+Case 21-E-0074 
+Utilities, Inc. for Electric Service. 
+: 
+---------------------------------------------------------------------x 
+ 
+ 
+ 
+ 
+ 
+ 
+ 
+ 
+ 
+ELECTRIC FORECASTING 
+PANEL 
+REBUTTAL TESTIMONY & 
+EXHIBITS 
+ 
+ 
+ 
+ 
+ 
+Panel Members 
+John Catuogno 
+Hock G. Ng 
+Berna Falay Ok 
+ 
+ 
+ 
+ 
+Orange and Rockland Utilities 
+One Blue Hill Plaza 
+Pearl River, NY  10965-9006 
+www.oru.com  
+ 
+ 
+
+
+--- Page 2 ---
+Case No. 21-E-0074  
+ 
+ORANGE AND ROCKLAND UTILITIES, INC. 
+ 
+ELECTRIC FORECASTING PANEL 
+REBUTTAL TESTIMONY 
+ 
+ 
+-1- 
+  
+Table of Contents 
+Econometric Models ........................................................................................................... 3 
+Economic Forecast Update ................................................................................................. 9 
+Post-Model Forecast Adjustments .................................................................................... 10 
+Price-out Model ................................................................................................................ 14 
+Conclusion ........................................................................................................................ 16 
+ 
+
+
+--- Page 3 ---
+Case No. 21-E-0074  
+ 
+ORANGE AND ROCKLAND UTILITIES, INC. 
+ 
+ELECTRIC FORECASTING PANEL 
+REBUTTAL TESTIMONY 
+ 
+ 
+-2- 
+  
+Q. 
+Please state your names. 
+1 
+A. 
+Our names are John Catuogno, Hock G. Ng, and Berna Falay 
+2 
+Ok. 
+3 
+Q. 
+Have you previously submitted testimony in this 
+4 
+proceeding? 
+5 
+A. 
+Yes.  We previously submitted direct testimony on 
+6 
+behalf of Orange and Rockland Utilities, Inc. (“Orange 
+7 
+and Rockland,” “O&R” or “Company”) as the Electric 
+8 
+Forecasting Panel (“Panel”).  
+9 
+Q. 
+What is the purpose of the Panel’s rebuttal testimony? 
+10 
+A. 
+We are responding to the testimony of the following 
+11 
+parties:  
+12 
+• Department of Public Service Staff (“Staff”) 
+13 
+Witness Anping Liu; and 
+14 
+• Staff Rates Panel (“SRP”). 
+15 
+Q. 
+What concerns did Staff have regarding the Company’s 
+16 
+customer and volume forecasting models? 
+17 
+A. 
+Staff Witness Liu claims that the Company’s models 
+18 
+were either specified incorrectly, use inappropriate 
+19 
+explanatory variables, or both. For the reasons 
+20 
+
+
+--- Page 4 ---
+Case No. 21-E-0074  
+ 
+ORANGE AND ROCKLAND UTILITIES, INC. 
+ 
+ELECTRIC FORECASTING PANEL 
+REBUTTAL TESTIMONY 
+ 
+ 
+-3- 
+  
+discussed below, there are no bases to support Staff’s 
+1 
+claims. 
+2 
+ 
+ 
+3 
+Econometric Models 
+4 
+Q. 
+What were Staff’s specific concerns with O&R’s 
+5 
+customer and volume models? 
+6 
+A. 
+Staff Witness Liu discussed his concerns and 
+7 
+recommendations model by model, so the Company will 
+8 
+address each in a similar manner. 
+9 
+Q. 
+What were Staff’s concerns and recommendations related 
+10 
+to the Company’s volume model for the Residential 
+11 
+service class? 
+12 
+A. 
+Staff Witness Liu had the following concerns and 
+13 
+recommendations regarding the Residential volume 
+14 
+model: 
+15 
+1) Staff did not agree with the Company’s use of total 
+16 
+non-farm employment as an explanatory variable in 
+17 
+its Residential volume model and recommended the 
+18 
+use of income per capita instead; 
+19 
+2) Staff did not agree with the Company’s use of total 
+20 
+employment variable in an average use model; and 
+21 
+
+
+--- Page 5 ---
+Case No. 21-E-0074  
+ 
+ORANGE AND ROCKLAND UTILITIES, INC. 
+ 
+ELECTRIC FORECASTING PANEL 
+REBUTTAL TESTIMONY 
+ 
+ 
+-4- 
+  
+3) Staff’s functional form is not in differenced 
+1 
+logarithm format, whereas the Company’s model is 
+2 
+specified as the growth rate of volume.  
+3 
+Q. 
+Does the Company agree with Staff’s recommendations 
+4 
+regarding the Residential volume model? 
+5 
+A. 
+No, we do not, for the following reasons: 
+6 
+1) Staff’s recommendation to use the income per capita 
+7 
+in place of total non-farm employment is not 
+8 
+founded in sound economic reasoning. As Staff 
+9 
+Witness Liu rightly pointed out, the “residential 
+10 
+customers use electricity indirectly from electric 
+11 
+appliances and electronic devices they own in their 
+12 
+residences.” He also pointed out, “In early 2020 
+13 
+employment dropped precipitately, but personal 
+14 
+income did not significantly fall thanks to the 
+15 
+government financial rescue packages.” A reasonable 
+16 
+conclusion would be that a person who has lost his 
+17 
+job is not going to spend his government relief 
+18 
+package check on electric appliances and electronic 
+19 
+devices. Thus, the use of personal income as an 
+20 
+explanatory variable is going to lead to misleading 
+21 
+
+
+--- Page 6 ---
+Case No. 21-E-0074  
+ 
+ORANGE AND ROCKLAND UTILITIES, INC. 
+ 
+ELECTRIC FORECASTING PANEL 
+REBUTTAL TESTIMONY 
+ 
+ 
+-5- 
+  
+results because of the temporary nature of the 
+1 
+relief packages. The use of employment as a proxy 
+2 
+for the economic well-being of the residential 
+3 
+consumer is more appropriate. 
+4 
+ 
+Furthermore, Staff Witness chose a rather peculiar 
+5 
+time frame for his covariance analysis to show that 
+6 
+the total employment is negatively correlated with 
+7 
+personal income within O&R’s service territory. If 
+8 
+the same analysis were repeated to include only the 
+9 
+pandemic period from the second quarter of 2020 to 
+10 
+the fourth quarter of 2020, this relationship no 
+11 
+longer holds. In fact, employment is positively 
+12 
+correlated with residential electric demand while 
+13 
+personal income is negatively correlated with 
+14 
+residential electric demand (shown in Exhibit __ 
+15 
+(EFP-4)), which supports the hypothesis that the 
+16 
+consumer is not spending their relief payments on 
+17 
+electric consumption.  
+18 
+ 
+Moreover, the income per capita variable in Staff’s 
+19 
+residential volume model is not statistically 
+20 
+significant. 
+21 
+
+
+--- Page 7 ---
+Case No. 21-E-0074  
+ 
+ORANGE AND ROCKLAND UTILITIES, INC. 
+ 
+ELECTRIC FORECASTING PANEL 
+REBUTTAL TESTIMONY 
+ 
+ 
+-6- 
+  
+2) Staff’s claim that “For a use-per-customer model, 
+1 
+an economic variable should be transformed into a 
+2 
+per customer, per capita, or per household terms” 
+3 
+is not necessarily true. The total non-farm 
+4 
+employment is only used as a proxy for the economic 
+5 
+well-being of the residential customers.  
+6 
+3) The Panel replicated the two unit-root analyses 
+7 
+that Staff performed on the dependent variable in 
+8 
+his residential volume. The results are set forth 
+9 
+in Exhibit __ (EFP-5), Schedule 1, which match the 
+10 
+results in Staff Exhibit __ (AL-4, Schedule 2). It 
+11 
+should be noted that Staff included an intercept in 
+12 
+the Phillips Perron test but excluded the intercept 
+13 
+term for the Augmented Dickey-Fuller test. We 
+14 
+extended the analyses to add an intercept term for 
+15 
+the Augmented Dickey-Fuller Test and removed the 
+16 
+intercept term from the Phillips Perron test. The 
+17 
+results from these two tests, as shown in Exhibit 
+18 
+__ (EFP-5), Schedule 2, indicate that there is a 
+19 
+unit root in the dependent variable for the 
+20 
+residential volume model. As such, the dependent 
+21 
+
+
+--- Page 8 ---
+Case No. 21-E-0074  
+ 
+ORANGE AND ROCKLAND UTILITIES, INC. 
+ 
+ELECTRIC FORECASTING PANEL 
+REBUTTAL TESTIMONY 
+ 
+ 
+-7- 
+  
+variable should be differenced to remove the unit 
+1 
+root. 
+2 
+Q. 
+What was Staff’s recommendation regarding the 
+3 
+Company’s customer model for the Secondary and Small 
+4 
+Primary service class? 
+5 
+A. 
+Staff Witness Liu recommended using the number of 
+6 
+residential customers as an explanatory variable in 
+7 
+the Secondary and Small Primary customer model. 
+8 
+Q. 
+Does the Company agree with Staff’s recommendation 
+9 
+regarding the Secondary and Small primary customer 
+10 
+model? 
+11 
+A. 
+Yes, the Company will incorporate that variable into 
+12 
+its Secondary and Small primary customer model. 
+13 
+Q. 
+What were Staff’s concerns and recommendations related 
+14 
+to the Company’s volume model for the Secondary and 
+15 
+Small Primary service class? 
+16 
+A. 
+Staff Witness Liu used the same independent variables 
+17 
+as the Company but does not agree with the model 
+18 
+specification that the Company used. Staff also 
+19 
+recommends including a price variable.  
+20 
+
+
+--- Page 9 ---
+Case No. 21-E-0074  
+ 
+ORANGE AND ROCKLAND UTILITIES, INC. 
+ 
+ELECTRIC FORECASTING PANEL 
+REBUTTAL TESTIMONY 
+ 
+ 
+-8- 
+  
+Q. 
+Does the Company agree with Staff’s recommendations 
+1 
+regarding the Secondary and Small Primary volume 
+2 
+model? 
+3 
+A. 
+No, we do not understand Staff’s recommendation to 
+4 
+include a price variable because Staff’s model does 
+5 
+not include one either. 
+6 
+Q. 
+What were Staff’s concerns and recommendations 
+7 
+regarding the Company’s customer model for the Primary 
+8 
+service class? 
+9 
+A. 
+Staff’s model was developed in a similar form to the 
+10 
+Company’s. 
+11 
+Q. 
+Does the Company agree with Staff’s recommendations 
+12 
+regarding the Primary customer model? 
+13 
+A. 
+No, we do not see the need to adopt Staff’s model 
+14 
+since the Company and Staff models and forecasts are 
+15 
+almost identical. 
+16 
+Q. 
+What were Staff’s concerns and recommendations 
+17 
+regarding the Company’s volume model for the Primary 
+18 
+service class? 
+19 
+A. 
+Once again, Staff’s model was developed in a similar 
+20 
+form to the Company’s. 
+21 
+
+
+--- Page 10 ---
+Case No. 21-E-0074  
+ 
+ORANGE AND ROCKLAND UTILITIES, INC. 
+ 
+ELECTRIC FORECASTING PANEL 
+REBUTTAL TESTIMONY 
+ 
+ 
+-9- 
+  
+Q. 
+Does the Company agree with Staff’s recommendations 
+1 
+regarding the Primary volume model? 
+2 
+A. 
+No, we do not. Staff’s model is mis-specified because 
+3 
+it does not include a variable to capture the impact 
+4 
+of heating degree days. In fact, even though the 
+5 
+models are very similar, the Company’s model has a 
+6 
+slightly better adjusted R-squared. 
+7 
+Economic Forecast Update 
+8 
+Q. 
+How did Staff address their concern regarding the 
+9 
+quarterly variations in the economic forecast provided 
+10 
+by the Company? 
+11 
+A. 
+Staff Witness Liu recommended adjusting the employment 
+12 
+levels to smooth out the forecasted levels for 2021 
+13 
+and forward using the 2019 historical levels. 
+14 
+Q. 
+Do you agree with Staff’s recommendation regarding the 
+15 
+use of this constructed forecast for the employment 
+16 
+variable? 
+17 
+A. 
+The Company evaluated Staff’s constructed employment 
+18 
+variable and found that the impact for the Rate Year 
+19 
+is minimal. Therefore, the Panel believes this 
+20 
+adjustment is unnecessary. 
+21 
+
+
+--- Page 11 ---
+Case No. 21-E-0074  
+ 
+ORANGE AND ROCKLAND UTILITIES, INC. 
+ 
+ELECTRIC FORECASTING PANEL 
+REBUTTAL TESTIMONY 
+ 
+ 
+-10- 
+  
+Q. 
+Do you have any other comments about the economic 
+1 
+forecast used by Staff? 
+2 
+A. 
+Yes, we do. The Company used the February 2021 
+3 
+delivery of the economic forecast because it was the 
+4 
+most up-to-date forecast that was available to meet 
+5 
+the March 31, 2021 update filing deadline. Staff, 
+6 
+however, used the March 2021 delivery from Moody’s 
+7 
+Analytics, which was not available to the Company at 
+8 
+the time of their update filing. This inconsistency in 
+9 
+the vintage of the economic forecasts used creates a 
+10 
+variance in the respective forecasts that makes it 
+11 
+difficult to make an apples-to-apples comparison 
+12 
+between the Company’s and Staff’s methodology. 
+13 
+Therefore, the Company recommends that the same 
+14 
+economic delivery from Moody’s Analytics be used in 
+15 
+the future for forecasting purposes.  
+16 
+Post-Model Forecast Adjustments 
+17 
+Q. 
+How was Staff’s Post-Model forecast adjustment 
+18 
+methodology different from the Company’s methodology? 
+19 
+A. 
+Staff Witness Liu recommends revisiting how the 
+20 
+Company accounts for the impact of Energy Efficiency 
+21 
+
+
+--- Page 12 ---
+Case No. 21-E-0074  
+ 
+ORANGE AND ROCKLAND UTILITIES, INC. 
+ 
+ELECTRIC FORECASTING PANEL 
+REBUTTAL TESTIMONY 
+ 
+ 
+-11- 
+  
+(“EE”), Photovoltaic Installations, and Electric 
+1 
+Vehicles on electric forecasting. Staff referred to 
+2 
+these collectively as distributed energy resources 
+3 
+(“DER”). Staff recommended only adjusting for “energy 
+4 
+savings above the amount of “business as usual”” to 
+5 
+avoid double counting the impact of these programs 
+6 
+since they have been in place since 2009.  
+7 
+Q. 
+Why did Staff think that there would be double 
+8 
+counting in how the Company handled the DER 
+9 
+adjustments? 
+10 
+A. 
+Staff believed that the econometric models reflect the 
+11 
+recent declining trend caused by the DER in the 
+12 
+underlying data used in estimating the models. 
+13 
+Q. 
+How did Staff calculate the impact of the DER 
+14 
+programs? 
+15 
+A. 
+Staff conducted a trend analysis for the aggregated 
+16 
+historical impact of DER from 2009 to 2020 by running 
+17 
+two separate regressions for the residential and 
+18 
+commercial service classes. Based on these 
+19 
+regressions, Staff projected the net DER impact for 
+20 
+2021-2024. Staff then made an adjustment for the full 
+21 
+
+
+--- Page 13 ---
+Case No. 21-E-0074  
+ 
+ORANGE AND ROCKLAND UTILITIES, INC. 
+ 
+ELECTRIC FORECASTING PANEL 
+REBUTTAL TESTIMONY 
+ 
+ 
+-12- 
+  
+amount of the projected electrification of heating. 
+1 
+Staff also allocated a portion of the EE targets to 
+2 
+the lighting classes. 
+3 
+Q. 
+Does the Company agree with Staff’s forecast 
+4 
+adjustment methodology for DER? 
+5 
+A.  No, the Company does not agree with Staff’s 
+6 
+methodology. In the case of the Residential Model, 
+7 
+Staff plotted the trend of the Residential usage per 
+8 
+customers in page 3 of 5 of the Staff Exhibit __ (AL-
+9 
+3) and implied that the trend shown in the plot is 
+10 
+what the econometric model forecast is based on. 
+11 
+However, this ignores the fact that the econometric 
+12 
+models used by both the Company and Staff are based on 
+13 
+data from 1990 through 2020. As shown in Exhibit __ 
+14 
+(EFP-6), Page 1, the trend for residential usage per 
+15 
+customer over the entire period from 1990 to 2020 
+16 
+(Line A) should be the basis of the projections by the 
+17 
+econometric model rather than the trend over the 
+18 
+period from 2010 to 2020 (Line B). As such, the 
+19 
+adjustment made by Staff to the DER overcompensates 
+20 
+
+
+--- Page 14 ---
+Case No. 21-E-0074  
+ 
+ORANGE AND ROCKLAND UTILITIES, INC. 
+ 
+ELECTRIC FORECASTING PANEL 
+REBUTTAL TESTIMONY 
+ 
+ 
+-13- 
+  
+for any shift in the forecasting trend due to the 
+1 
+impact of historical DER.  
+2 
+Q. 
+What would the DER adjustment be if Staff’s trend 
+3 
+analysis were to correctly include the period from 
+4 
+1990 through 2020? 
+5 
+A. 
+As shown in Exhibit __ (EFP-6), Pages 1-3, the impact 
+6 
+on the trends of the delivery volume in the 
+7 
+residential, secondary, and primary classes are much 
+8 
+lower than implied by Staff’s proposed adjustment. 
+9 
+Exhibit __ (EFP-6), Page 4 shows the DER trend line 
+10 
+for the period that corresponds to the input data used 
+11 
+in the econometric models.  
+12 
+Q. 
+What are the findings from this analysis? 
+13 
+A. 
+Applying the regression results from the full sample 
+14 
+period, the Company estimated the amount of Staff’s 
+15 
+DER adjustments to be 95,481 MWh for the Residential 
+16 
+class and 72,271 MWh for the Commercial class in the 
+17 
+Rate Year (RY) 2022. This is only 18 GWh higher than 
+18 
+the Company’s DER adjustment in its update filing. 
+19 
+ 
+20 
+ 
+21 
+
+
+--- Page 15 ---
+Case No. 21-E-0074  
+ 
+ORANGE AND ROCKLAND UTILITIES, INC. 
+ 
+ELECTRIC FORECASTING PANEL 
+REBUTTAL TESTIMONY 
+ 
+ 
+-14- 
+  
+Price-out Model 
+1 
+Q. 
+What concerns did SRP have regarding the Company’s 
+2 
+price-out model? 
+3 
+A. 
+The SRP had the following concerns and recommendations 
+4 
+regarding the price-out model: 
+5 
+ 
+1) The SRP was concerned that the Company’s price-out 
+6 
+method could lead to inaccuracies in rate design since 
+7 
+revenues are not priced out by demand period or energy 
+8 
+block. 
+9 
+2) The SRP does not agree with the historic data 
+10 
+timeframe that the Company is using for their pricing 
+11 
+model.  
+12 
+3) The SRP recommends that the Company be required to 
+13 
+provide the forecasted kW in each demand period and 
+14 
+the kWh in each energy block as part of its future 
+15 
+electric rate case filings. 
+16 
+Q. 
+Does the Company agree with the SRP’s recommendations 
+17 
+regarding the price-out model? 
+18 
+A. 
+No, we do not, for the following reasons: 
+19 
+1) The SRP did not provide any evidence to support 
+20 
+their claim that the Company’s price-out model could 
+21 
+
+
+--- Page 16 ---
+Case No. 21-E-0074  
+ 
+ORANGE AND ROCKLAND UTILITIES, INC. 
+ 
+ELECTRIC FORECASTING PANEL 
+REBUTTAL TESTIMONY 
+ 
+ 
+-15- 
+  
+lead to inaccuracies. The Company has performed an 
+1 
+analysis of the performance of its price-out model 
+2 
+using actual 2020 billed delivery volume, billable 
+3 
+demand, and billed delivery revenues. As shown in 
+4 
+Exhibit __ (EFP-7), the results indicate that the 
+5 
+Company’s price-out model produced a revenue forecast 
+6 
+that was within 0.3% of the actual revenues. This 
+7 
+proves that the Company’s model is accurate. 
+8 
+2) The Company has applied all respective rate 
+9 
+increases since July 2015 to reflect the current 
+10 
+applicable rates. As shown in the results of the 
+11 
+price-out analysis quoted above, the Company’s price-
+12 
+out model is still accurate for the most recent year. 
+13 
+3) In its price-out model, the SRP applied the 
+14 
+distribution of the kW in each demand period and the 
+15 
+kWh in each energy block from 2019 to forecast the 
+16 
+billed delivery revenues for the rate year. This 
+17 
+assumes that the historical distribution will hold 
+18 
+throughout the future years. Such an assumption may 
+19 
+also lead to inaccuracies in rate design.  
+20 
+ 
+21 
+
+
+--- Page 17 ---
+Case No. 21-E-0074  
+ 
+ORANGE AND ROCKLAND UTILITIES, INC. 
+ 
+ELECTRIC FORECASTING PANEL 
+REBUTTAL TESTIMONY 
+ 
+ 
+-16- 
+  
+Conclusion 
+1 
+Q. 
+What are the Company’s conclusions pertaining to the 
+2 
+choice of volume forecasting models as well as the 
+3 
+post-model adjustments? 
+4 
+A. 
+As shown in Exhibit __ (EFP-8), if Staff’s DER 
+5 
+adjustments were correctly implemented, the difference 
+6 
+between the net forecasts would only be 5 GWh, or 0.1% 
+7 
+of total volume. The small variance between these 
+8 
+forecasts validates the Company’s forecast. The 
+9 
+Company maintains that its forecast for the delivery 
+10 
+volume is valid and should be adopted. 
+11 
+Q. 
+What are the Company’s conclusions pertaining to the 
+12 
+SRP’s recommendation of the price-out model? 
+13 
+A. 
+The Company maintains that its price-out model is 
+14 
+accurate given its historical performance and that its 
+15 
+continued use is justified. 
+16 
+Q. 
+Does this conclude your rebuttal testimony? 
+17 
+A. 
+Yes, it does. 
+18 
+
+
+--- Page 18 ---
+Case No. 21-E-0074 
+ORANGE AND ROCKLAND UTILITIES, INC. 
+EXHIBIT___EFP – 4 
+Page 1 of 1 
+Covariance Analysis for Residential Customer, Volume, Employment, and Personal Income 
+Covariance Analysis: Ordinary
+Date: 06/01/21   Time: 08:11
+Sample: 2020Q2 2020Q4
+Included observations: 3
+Covariance
+Correlation
+ORRES_V 
+TEMP_2101 
+ORRES_C 
+RDI_2101 
+ORRES_V 
+13478.18
+1.000000
+TEMP_2101 
+298.1612
+154.7627
+0.206444
+1.000000
+ORRES_C 
+9664.367
+5693.310
+209573.7
+0.181840
+0.999685
+1.000000
+RDI_2101 
+-6237.132
+4362.333
+161958.6
+139575.4
+-0.143802
+0.938602
+0.946959
+1.000000
+
+
+--- Page 19 ---
+Case No. 21-E-0074 
+ORANGE AND ROCKLAND UTILITIES, INC. 
+EXHIBIT___EFP – 5 
+Schedule 1
+Page 1 of 2 
+Replication of the Staff Unit Root Tests for Residential Volume Model’s Dependent Variable 
+Null Hypothesis: LOGORRESVPERCUST has a unit root
+Exogenous: None
+Lag Length: 7 (Automatic - based on SIC, maxlag=12)
+t-Statistic
+  Prob.*
+Augmented Dickey-Fuller test statistic
+-1.732344
+ 0.0789
+Test critical values:
+1% level
+-2.585050
+5% level
+-1.943612
+10% level
+-1.614897
+*MacKinnon (1996) one-sided p-values.
+Augmented Dickey-Fuller Test Equation
+Dependent Variable: D(LOGORRESVPERCUST)
+Method: Least Squares
+Date: 06/09/21   Time: 14:03
+Sample (adjusted): 1992Q1 2020Q4
+Included observations: 116 after adjustments
+Variable
+Coefficient
+Std. Error
+t-Statistic
+Prob.  
+LOGORRESVPERCUST(-1)
+-0.001575
+0.000909
+-1.732344
+0.0861
+D(LOGORRESVPERCUST(-1))
+-0.849314
+0.086360
+-9.834565
+0.0000
+D(LOGORRESVPERCUST(-2))
+-0.932782
+0.111822
+-8.341697
+0.0000
+D(LOGORRESVPERCUST(-3))
+-0.931854
+0.134971
+-6.904099
+0.0000
+D(LOGORRESVPERCUST(-4))
+-0.393764
+0.157778
+-2.495681
+0.0141
+D(LOGORRESVPERCUST(-5))
+-0.552525
+0.135664
+-4.072736
+0.0001
+D(LOGORRESVPERCUST(-6))
+-0.457312
+0.114463
+-3.995298
+0.0001
+D(LOGORRESVPERCUST(-7))
+-0.453015
+0.089008
+-5.089630
+0.0000
+R-squared
+0.960760     Mean dependent var
+0.001370
+Adjusted R-squared
+0.958217     S.D. dependent var
+0.294261
+S.E. of regression
+0.060150     Akaike info criterion
+-2.717490
+Sum squared resid
+0.390742     Schwarz criterion
+-2.527588
+Log likelihood
+165.6144     Hannan-Quinn criter.
+-2.640401
+Durbin-Watson stat
+2.002319
+
+
+--- Page 20 ---
+Case No. 21-E-0074 
+ORANGE AND ROCKLAND UTILITIES, INC. 
+Null Hypothesis: LOGORRESVPERCUST has a unit root
+Exogenous: Constant
+Bandwidth: 10 (Newey-West automatic) using Bartlett kernel
+Adj. t-Stat
+  Prob.*
+Phillips-Perron test statistic
+-14.56041
+ 0.0000
+Test critical values:
+1% level
+-3.484198
+5% level
+-2.885051
+10% level
+-2.579386
+*MacKinnon (1996) one-sided p-values.
+Residual variance (no correction)
+ 0.034867
+HAC corrected variance (Bartlett kernel)
+ 0.133933
+Phillips-Perron Test Equation
+Dependent Variable: D(LOGORRESVPERCUST)
+Method: Least Squares
+Date: 06/09/21   Time: 14:07
+Sample (adjusted): 1990Q2 2020Q4
+Included observations: 123 after adjustments
+Variable
+Coefficient
+Std. Error
+t-Statistic
+Prob.  
+LOGORRESVPERCUST(-1)
+-1.165831
+0.089494
+-13.02692
+0.0000
+C
+-7.292811
+0.560131
+-13.01982
+0.0000
+R-squared
+0.583764     Mean dependent var
+0.000624
+Adjusted R-squared
+0.580324     S.D. dependent var
+0.290611
+S.E. of regression
+0.188265     Akaike info criterion
+-0.485806
+Sum squared resid
+4.288687     Schwarz criterion
+-0.440080
+Log likelihood
+31.87709     Hannan-Quinn criter.
+-0.467232
+F-statistic
+169.7005     Durbin-Watson stat
+1.859824
+Prob(F-statistic)
+0.000000
+EXHIBIT___EFP – 5 
+Schedule 1
+Page 2 of 2 
+
+
+--- Page 21 ---
+Case No. 21-E-0074 
+ORANGE AND ROCKLAND UTILITIES, INC. 
+Other Forms of the Staff Unit Root Tests for Residential Volume Model’s Dependent Variable 
+Null Hypothesis: LOGORRESVPERCUST has a unit root
+Exogenous: Constant
+Lag Length: 7 (Automatic - based on SIC, maxlag=12)
+t-Statistic
+  Prob.*
+Augmented Dickey-Fuller test statistic
+-1.723971
+ 0.4166
+Test critical values:
+1% level
+-3.487550
+5% level
+-2.886509
+10% level
+-2.580163
+*MacKinnon (1996) one-sided p-values.
+Augmented Dickey-Fuller Test Equation
+Dependent Variable: D(LOGORRESVPERCUST)
+Method: Least Squares
+Date: 06/09/21   Time: 14:05
+Sample (adjusted): 1992Q1 2020Q4
+Included observations: 116 after adjustments
+Variable
+Coefficient
+Std. Error
+t-Statistic
+Prob.  
+LOGORRESVPERCUST(-1)
+-0.100980
+0.058574
+-1.723971
+0.0876
+D(LOGORRESVPERCUST(-1))
+-0.771562
+0.097103
+-7.945837
+0.0000
+D(LOGORRESVPERCUST(-2))
+-0.875465
+0.115890
+-7.554306
+0.0000
+D(LOGORRESVPERCUST(-3))
+-0.898349
+0.135259
+-6.641676
+0.0000
+D(LOGORRESVPERCUST(-4))
+-0.382872
+0.156553
+-2.445631
+0.0161
+D(LOGORRESVPERCUST(-5))
+-0.544690
+0.134578
+-4.047407
+0.0001
+D(LOGORRESVPERCUST(-6))
+-0.455154
+0.113486
+-4.010667
+0.0001
+D(LOGORRESVPERCUST(-7))
+-0.451793
+0.088245
+-5.119734
+0.0000
+C
+-0.621511
+0.366179
+-1.697289
+0.0925
+R-squared
+0.961789     Mean dependent var
+0.001370
+Adjusted R-squared
+0.958932     S.D. dependent var
+0.294261
+S.E. of regression
+0.059633     Akaike info criterion
+-2.726816
+Sum squared resid
+0.380498     Schwarz criterion
+-2.513176
+Log likelihood
+167.1553     Hannan-Quinn criter.
+-2.640090
+F-statistic
+336.6553     Durbin-Watson stat
+2.012379
+Prob(F-statistic)
+0.000000
+EXHIBIT___EFP – 5 
+Schedule 2
+Page 1 of 2 
+
+
+--- Page 22 ---
+Case No. 21-E-0074 
+ORANGE AND ROCKLAND UTILITIES, INC. 
+Null Hypothesis: LOGORRESVPERCUST has a unit root
+Exogenous: None
+Bandwidth: 14 (Newey-West automatic) using Bartlett kernel
+Adj. t-Stat
+  Prob.*
+Phillips-Perron test statistic
+-0.155447
+ 0.6281
+Test critical values:
+1% level
+-2.583898
+5% level
+-1.943449
+10% level
+-1.614997
+*MacKinnon (1996) one-sided p-values.
+Residual variance (no correction)
+ 0.083715
+HAC corrected variance (Bartlett kernel)
+ 0.006105
+Phillips-Perron Test Equation
+Dependent Variable: D(LOGORRESVPERCUST)
+Method: Least Squares
+Date: 06/09/21   Time: 14:09
+Sample (adjusted): 1990Q2 2020Q4
+Included observations: 123 after adjustments
+Variable
+Coefficient
+Std. Error
+t-Statistic
+Prob.  
+LOGORRESVPERCUST(-1)
+-0.001170
+0.004185
+-0.279631
+0.7802
+R-squared
+0.000636     Mean dependent var
+0.000624
+Adjusted R-squared
+0.000636     S.D. dependent var
+0.290611
+S.E. of regression
+0.290519     Akaike info criterion
+0.373801
+Sum squared resid
+10.29695     Schwarz criterion
+0.396664
+Log likelihood
+-21.98874     Hannan-Quinn criter.
+0.383088
+Durbin-Watson stat
+3.475029
+EXHIBIT___EFP – 5 
+Schedule 2
+Page 2 of 2 
+
+
+--- Page 23 ---
+Case No. 21-E-0074 
+ORANGE AND ROCKLAND UTILITIES, INC. 
+6.0
+6.5
+7.0
+7.5
+8.0
+8.5
+9.0
+9.5
+O&R Actual Residential MWh/Customer 1990-2020
+Res UPC
+Line B
+Line A
+Exhibit___EFP-6
+Page 1 of 4
+
+
+--- Page 24 ---
+Case No. 21-E-0074 
+ORANGE AND ROCKLAND UTILITIES, INC. 
+600
+650
+700
+750
+800
+850
+900
+950
+1,000
+1,050
+1,100
+Thousands
+O&R Actual Secondary MWh 1990-2020
+ORSECPRI_V
+Line B
+Line A
+Exhibit___EFP-6
+Page 2 of 4
+
+
+--- Page 25 ---
+Case No. 21-E-0074 
+ORANGE AND ROCKLAND UTILITIES, INC. 
+1,000
+1,100
+1,200
+1,300
+1,400
+1,500
+1,600
+Thousands
+O&R Actual Primary MWh 1990-2020
+ORPRI_VF
+Line B
+Line A
+Exhibit___EFP-6
+Page 3 of 4
+
+
+--- Page 26 ---
+Case No. 21-E-0074 
+ORANGE AND ROCKLAND UTILITIES, INC. 
+Exhibit___EFP-6
+Page 4 of 4
+
+
+--- Page 27 ---
+Case No. 21-E-0074 
+ORANGE AND ROCKLAND UTILITIES, INC. 
+EXHIBIT___EFP – 7 
+Page 1 of 1 
+Actual
+Model Projection
+Delta
+Actual
+Model Projection
+Delta
+Actual
+Model Projection
+Delta
+Jan-20
+$19,421
+$19,645
+($224)
+$4,162
+$4,325
+($163)
+$23,583
+$23,970
+($387)
+Feb-20
+$17,922
+$17,886
+$36
+$4,789
+$4,750
+$39
+$22,711
+$22,636
+$75
+Mar-20
+$17,273
+$17,233
+$40
+$4,941
+$4,792
+$149
+$22,214
+$22,025
+$189
+Apr-20
+$16,675
+$16,671
+$4
+$4,341
+$4,392
+($51)
+$21,016
+$21,063
+($47)
+May-20
+$16,648
+$16,641
+$7
+$4,334
+$4,439
+($105)
+$20,982
+$21,080
+($98)
+Jun-20
+$19,450
+$19,434
+$16
+$5,669
+$8,801
+($3,132)
+$25,119
+$28,235
+($3,116)
+Jul-20
+$27,349
+$27,163
+$186
+$8,336
+$8,463
+($127)
+$35,685
+$35,626
+$59
+Aug-20
+$30,852
+$30,306
+$546
+$8,664
+$8,674
+($10)
+$39,516
+$38,980
+$536
+Sep-20
+$26,916
+$26,768
+$148
+$8,619
+$8,596
+$23
+$35,535
+$35,364
+$171
+Oct-20
+$19,688
+$19,473
+$215
+$7,180
+$5,802
+$1,378
+$26,868
+$25,275
+$1,593
+Nov-20
+$17,238
+$17,195
+$43
+$4,611
+$4,631
+($20)
+$21,849
+$21,826
+$23
+Dec-20
+$18,815
+$18,729
+$86
+$4,593
+$4,562
+$31
+$23,408
+$23,291
+$117
+TOTAL
+$248,247
+$247,144
+$1,103
+$70,239
+$72,227
+($1,988)
+$318,486
+$319,371
+($885)
+Variance %
+-0.3%
+* Excludes Public Authority & SC 25
+Energy Revenues (includes Customer Charge)*
+Demand Revenues*
+Total Non-Competitive Revenues*
+
+
+--- Page 28 ---
+Case No. 21-E-0074 
+ORANGE AND ROCKLAND UTILITIES, INC. 
+EXHIBIT___EFP – 8 
+Page 1 of 1 
+Orange & Rockland
+Orange & Rockland
+DPS Staff
+DPS Staff Forecast
+Difference from
+Initial Forecast
+Update Forecast
+Forecast
+with Corrected DER
+O&R Update
+Model Forecast
+1
+Residential
+1,667
+ 
+1,670
+ 
+1,674
+ 
+1,674
+ 
+3.724
+ 
+2
+Secondary & Small Primary
+994
+ 
+1,032
+ 
+1,035
+ 
+1,035
+ 
+3.463
+ 
+3
+Large Primary
+1,024
+ 
+1,081
+ 
+1,060
+ 
+1,060
+ 
+(20.959)
+ 
+4
+Street Lighting
+27
+ 
+28
+ 
+28
+ 
+28
+ 
+0.048
+ 
+5
+Other Public Authority
+98
+ 
+98
+ 
+98
+ 
+98
+ 
+(0.186)
+ 
+6
+Total Model Forecast
+3,810
+ 
+3,909
+ 
+3,895
+ 
+3,895
+ 
+(13.910)
+ 
+Post-Model Adjustments
+7
+Distributed Energy Resourecas*
+(213)
+ 
+(186)
+ 
+(103)
+ 
+(169)
+ 
+17.000
+ 
+8
+Electrification of Heating
+- 
+1 
+1 
+1 
+(0.406)
+ 
+9
+Total Adjustment
+(213)
+ 
+(187)
+ 
+(103)
+ 
+(168)
+ 
+18.594
+ 
+Total Adjusted Model forecast
+3,597
+ 
+3,722
+ 
+3,792
+ 
+3,727
+ 
+4.684
+ 
+Forecast for Other Classes
+10
+Standby Service
+4 
+5 
+5 
+5 
+- 
+11
+Data Center
+116
+ 
+116
+ 
+116
+ 
+116
+ 
+- 
+12
+Total for Other Classes
+120
+ 
+121
+ 
+121
+ 
+121
+ 
+- 
+13
+Total Billed Volume Forecast
+3,717
+ 
+3,843
+ 
+3,913
+ 
+3,848
+ 
+4.684
+ 
+14
+Unbilled
+18
+ 
+19
+ 
+19
+ 
+19
+ 
+- 
+15
+Total Volume Forecast
+3,735
+ 
+3,862
+ 
+3,932
+ 
+3,867
+ 
+4.684
+ 
+16
+Variance
+0.1%
+Note * Include savings from energy efficiency programs, solar generation, and usage from increased electric vehicles.
+Summary of Electric Delivery Forecast for Orange and Rockland Utilities
+GWhs, Rate Year Ending December 2022

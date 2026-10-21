@@ -1,0 +1,15409 @@
+--- Page 1 ---
+Before the Public Service Commission 
+THE BROOKLYN UNION GAS COMPANY d/b/a NATIONAL GRID NY 
+AND  
+KEYSPAN GAS EAST CORPORATION d/b/a NATIONAL GRID 
+Direct Testimony 
+of 
+Information Technology and Digital Panel 
+Dated: April 28, 2023 
+
+
+--- Page 2 ---
+Testimony of Information Technology and Digital Panel 
+Table of Contents 
+I.
+Introduction and Qualifications ........................................................................................................ 1 
+II.
+Purpose of Testimony ......................................................................................................................... 5 
+III. Structure of Services Provided .......................................................................................................... 5 
+IV. IT&D Cost Allocation and Historic Test Year Costs ....................................................................... 9 
+V.
+IT&D Capital Projects and Initiatives ............................................................................................ 12 
+(i)
+Digital Platforms and Infrastructure Technology (“DPIT”) ................................................ 14 
+(ii)
+Cyber Security and Physical Security ..................................................................................... 16 
+(iii)
+Customer ................................................................................................................................... 20 
+(iv)
+US Gas Operations ................................................................................................................... 24 
+(v)
+Continued Scaling and Evolution (“CS&E”) of Asset, Work Management, and Data
+Capabilities ............................................................................................................................................ 27 
+(vi)
+Other Initiatives ........................................................................................................................ 32 
+(vii)
+Customer Related Information Systems ................................................................................. 33 
+(viii)
+Customer Experience Program ............................................................................................... 34 
+(ix)
+Energy Efficiency (Clean Energy 2.0 and Green Button Connect) ...................................... 36 
+(x)
+Backoffice Refresh .................................................................................................................... 37 
+VI. IT&D Operating Costs in the Rate Year and Data Years ............................................................. 43 
+VII. Reporting ........................................................................................................................................... 45 
+
+
+--- Page 3 ---
+Testimony of Information Technology and Digital Panel 
+Page 1 of 46 
+I.
+Introduction and Qualifications 
+1 
+Q.
+Please introduce the members of the Information Technology & Digital (“IT&D”) 
+2 
+Panel. 
+3 
+A.
+The Panel consists of Erik Barthel, Jeff Knighton, and Chris Murphy. 
+4 
+5 
+Q.
+Mr. Barthel, please state your full name and business address. 
+6 
+A.
+My name is Erik Barthel.  My business address is 2 Hanson Place, Brooklyn, New York, 
+7 
+11217. 
+8 
+9 
+Q.
+By whom are you employed, and in what capacity? 
+10 
+A.
+I am employed by National Grid Service USA Service Company, Inc. (“Service 
+11 
+Company”), a subsidiary of National Grid USA (“National Grid”), as Chief Information 
+12 
+and Digital Officer (“CIDO”) of New York.  In that capacity, I oversee the portfolio of 
+13 
+IT&D capabilities related to National Grid’s New York operating companies, including 
+14 
+The Brooklyn Union Gas Company d/b/a National Grid NY (“KEDNY”) and KeySpan 
+15 
+Gas East Corporation d/b/a National Grid (“KEDLI”) (collectively, KEDNY and KEDLI 
+16 
+are referred to as the “Companies”). 
+17 
+18 
+Q.
+Please describe your educational background and professional experience. 
+19 
+A.
+ I graduated from the University of Illinois, Urbana-Champaign in Champaign, Illinois, 
+20 
+with a degree in Computer Engineering.  In 2001, I joined Procter & Gamble, where I held 
+21 
+multiple technology roles, including senior leadership positions for customer research, 
+22 
+innovation, global operations, and as Chief Information Officer of various brands.  I then 
+23 
+
+
+--- Page 4 ---
+Testimony of Information Technology and Digital Panel 
+Page 2 of 46 
+ 
+ 
+joined Travelers Insurance Company from 2017 – 2022, where I led the enterprise 
+1 
+technology, engineering, product, experience design, and agile delivery organizations 
+2 
+driving digital transformation across Travelers.  I joined National Grid in my current 
+3 
+capacity in October 2022.  
+4 
+ 
+5 
+Q. 
+Mr. Knighton, please state your name and business address. 
+6 
+A. 
+My name is Jeffrey Knighton.  My business address is 300 Erie Boulevard West, 
+7 
+Syracuse, New York, 13202. 
+8 
+ 
+9 
+Q. 
+By whom are you employed, and in what capacity? 
+10 
+A. 
+I am employed by the Service Company as Director of US IT&D Regulatory.  My 
+11 
+responsibilities include oversight of IT&D activities in regulatory proceedings for all 
+12 
+National Grid’s US electric and gas distribution operations, including Niagara Mohawk 
+13 
+Power Corporation d/b/a National Grid (“Niagara Mohawk”), KEDNY, and KEDLI. 
+14 
+ 
+15 
+Q. 
+Please describe your educational background and business experience. 
+16 
+A. 
+I graduated from Canisius College in Buffalo, New York, in 2011 with a Bachelor of 
+17 
+Science in Accounting.  In 2016, I received a Master of Business Administration degree 
+18 
+from the State University of New York at Oswego.  I joined National Grid in 2013 and 
+19 
+held multiple Finance and Regulatory roles with increasing responsibility.  Since 2017, I 
+20 
+supported the Information Technology Panel in multiple rate cases in all US jurisdictions, 
+21 
+including the 2019 KEDNY and KEDLI Rate Cases (Cases 19-G-0309 and 19-G-0310).  I 
+22 
+was promoted to my current position in December 2022. 
+23 
+
+
+--- Page 5 ---
+Testimony of Information Technology and Digital Panel 
+Page 3 of 46 
+ 
+ 
+Q. 
+Mr. Murphy, please state your name and business address. 
+1 
+A. 
+My name is Chris Murphy.  My business address is 170 Data Drive, Waltham, 
+2 
+Massachusetts, 02451. 
+3 
+ 
+4 
+Q. 
+By whom are you employed, and in what capacity? 
+5 
+A. 
+I am employed by the Service Company as Group Chief Information Security Officer.  My 
+6 
+responsibilities include the design, delivery, and support of cybersecurity services for all 
+7 
+of National Grid’s electric and gas distribution operations, including Niagara Mohawk, 
+8 
+KEDNY, and KEDLI. 
+9 
+ 
+10 
+Q. 
+Please describe your educational background and professional experience. 
+11 
+A. 
+I received a Bachelor of Science from Alfred University in Alfred, New York, in 1986 and 
+12 
+a Master of Business Administration degree from LeMoyne College in Syracuse, New 
+13 
+York, in 1998.  In 1993, I joined Niagara Mohawk as an Information Technology Architect.  
+14 
+I became a manager in 1995 and held several technology-related roles with increasing 
+15 
+responsibility before my appointment as vice president in 2006.  Since then, I have held 
+16 
+numerous positions as a member of the IT&D Leadership team, including Program Lead 
+17 
+for several strategic programs, Head of IT&D Infrastructure, Interim Chief Information 
+18 
+Officer in 2015, and Interim Chief Information Security Officer in 2017. 
+19 
+ 
+20 
+Q. 
+Does the Panel sponsor any exhibits as part of its testimony in this proceeding? 
+21 
+A. 
+Yes.  The Panel sponsors the following exhibits that were prepared or compiled under our 
+22 
+supervision or direction: 
+23 
+
+
+--- Page 6 ---
+Testimony of Information Technology and Digital Panel 
+Page 4 of 46 
+ 
+ 
+ 
+(i)  
+Exhibit__(ITDP-1) presents a graphical depiction of the Global IT&D 
+1 
+management organization; 
+2 
+ 
+(ii) 
+Exhibit__(ITDP-2) presents the allocation codes used to determine the forecast 
+3 
+rent expense to KEDNY and KEDLI for IT&D projects in the Rate Year (the 
+4 
+twelve months ending March 31, 2025), Data Year 1 (the twelve months ending 
+5 
+March 31, 2026), Data Year 2 (the twelve months ending March 31, 2027), and 
+6 
+Data Year 3 (the twelve months ending March 31, 2028).  Data Years 1, 2, and 
+7 
+3 are collectively referred to as the “Data Years;” 
+8 
+ 
+(iii)  
+Exhibit__(ITDP-3) presents the operating expenses incurred by KEDNY and 
+9 
+KEDLI, respectively, for IT&D during the twelve months ended December 31, 
+10 
+2022 (“Historic Test Year”); 
+11 
+ 
+(iv)  
+Exhibit__(ITDP-4) presents the in-flight and new IT&D investments planned 
+12 
+for the Rate Year and Data Years; 
+13 
+ 
+(v) 
+Exhibit__(ITDP-5) summarizes the Digital Platforms and Infrastructure 
+14 
+Technology investments in the Rate Year and Data Years; 
+15 
+ 
+(vi) 
+Exhibit__(ITDP-6) details the project operating expenses associated with in-
+16 
+flight and planned IT&D projects in the Rate Year and Data Years, shown as 
+17 
+incremental, investment-specific operating expenses and “run-the-business” 
+18 
+costs; and 
+19 
+ 
+(vii) 
+Exhibit__(ITDP-7) presents the total IT&D operating and project expenses in 
+20 
+the Historic Test Year, Rate Year, and Data Years.  
+21 
+ 
+22 
+
+
+--- Page 7 ---
+Testimony of Information Technology and Digital Panel 
+Page 5 of 46 
+ 
+ 
+II. 
+Purpose of Testimony 
+1 
+Q. 
+What is the purpose of the IT&D Panel’s testimony? 
+2 
+A.       The Panel describes National Grid’s IT&D function, specifically as it relates to KEDNY 
+3 
+and KEDLI.  The testimony explains the services the IT&D function provides and how the 
+4 
+services are delivered.  The Panel also describes the IT&D investments and initiatives 
+5 
+planned during the Rate Year and Data Years, as well as the operating costs that KEDNY 
+6 
+and KEDLI will incur in the Rate Year and Data Years related to the investments and 
+7 
+services. 
+8 
+ 
+9 
+III. 
+Structure of Services Provided 
+10 
+Q. 
+Please describe the role of the IT&D function at National Grid. 
+11 
+A. 
+National Grid IT&D delivers services and technology solutions that range from critical gas 
+12 
+transmission and distribution support systems to desktop applications. Through these 
+13 
+services, the IT&D function enables National Grid to safely and reliably deliver energy to 
+14 
+millions of customers, balance energy inputs and demands, enhance customer service, and 
+15 
+take action to advance the energy transition.  
+16 
+ 
+17 
+These services underpin the safe, reliable, and secure physical and commercial operation 
+18 
+of KEDNY and KEDLI's gas distribution businesses.  IT&D also provides a suite of 
+19 
+software applications, asset and work management systems, as well as customer support 
+20 
+systems that allow KEDNY and KEDLI to efficiently and effectively operate the gas 
+21 
+system. 
+ 
+22 
+ 
+ 
+23 
+
+
+--- Page 8 ---
+Testimony of Information Technology and Digital Panel 
+Page 6 of 46 
+ 
+ 
+ 
+Examples of core IT&D services include: 
+1 
+• Strategy and Planning: Management oversight and support for the delivery of 
+2 
+IT&D services to the business units, including Business Partnering, Enterprise 
+3 
+Architecture, and Digital Strategy.  IT&D leadership develops long-term vision 
+4 
+(roadmaps), short-term goals, and operational plans in line with National Grid’s 
+5 
+overall business strategy.  
+6 
+ 
+7 
+• End-User Technology: Enables and supports end-user technology to improve 
+8 
+productivity and efficiency.  These services are utilized by office and field force 
+9 
+end users, including client computing (i.e., laptops, iPads), communication and 
+10 
+collaboration tools, and spaces, connectivity, and print services. 
+11 
+ 
+ 
+12 
+• Service Management:  Supports end-to-end IT&D services, including incident 
+13 
+management, technology service requests, the IT Service Desk (virtual help 
+14 
+desk), and the Tech Bars (on-site help desks). 
+15 
+ 
+16 
+• Vendor Management:  Designs, creates, approves, and manages service 
+17 
+contracts or service level agreements with IT&D vendors.  This function is also 
+18 
+responsible for monitoring compliance with the terms specified in the service 
+19 
+contracts and tracking performance against defined service level objectives. 
+20 
+ 
+ 
+21 
+• Data Access & Management:  Oversight, procedures, and policies that enable 
+22 
+the Companies’ protection of data internally and externally. 
+23 
+
+
+--- Page 9 ---
+Testimony of Information Technology and Digital Panel 
+Page 7 of 46 
+ 
+ 
+• Network: Manages National Grid’s Local Area Network (“LAN”), Wide Area 
+1 
+Network (“WAN”), telephony, and video and audio conferencing. 
+2 
+ 
+ 
+3 
+• Security:  Provides a range of services to protect National Grid’s IT&D 
+4 
+investments from vulnerability, and includes cybersecurity, network security, 
+5 
+and access management, among others.  
+6 
+ 
+ 
+7 
+• Application Management: Support and licensing for the applications leveraged 
+8 
+by the business units, including application maintenance and upgrades. 
+9 
+ 
+ 
+10 
+Q. 
+Please summarize the structure of National Grid’s IT&D organization. 
+11 
+A. 
+National Grid’s IT&D organization in New York is led by the New York CIDO.  The New 
+12 
+York CIDO is responsible for overseeing IT&D investments and digital services in New 
+13 
+York and is accountable to the New York Jurisdictional President.  To deliver these 
+14 
+services, the New York CIDO is supported by the IT&D organization’s shared service and 
+15 
+delivery functions.  Those shared services are comprised of “towers” aligned to support the 
+16 
+overall US and UK business.  IT&D towers are led by CIDOs that ensure best practices are 
+17 
+employed in their respective disciplines to enable business outcomes that benefit 
+18 
+customers.  
+19 
+       
+20 
+This jurisdictionally focused oversight and transparency enables better control and puts an 
+21 
+emphasis on the delivery and cost of IT&D investments and products that serve our New 
+22 
+
+
+--- Page 10 ---
+Testimony of Information Technology and Digital Panel 
+Page 8 of 46 
+ 
+ 
+York customers.  For reference, Exhibit __ (ITDP-1) provides a graphical depiction of 
+1 
+National Grid’s IT&D organization. 
+2 
+ 
+3 
+Q. 
+Please describe how National Grid develops the IT&D investment plan. 
+4 
+A. 
+National Grid’s jurisdictions identify project priorities with technology components.  As 
+5 
+part of that prioritization effort, business needs, infrastructure requirements, sequencing, 
+6 
+resource availability and capacity, size and impact of investment requests, and the overall 
+7 
+benefit of the investment compared to other proposals is assessed.  
+8 
+            
+9 
+Once engaged, IT&D considers existing multi-year investments and identifies the amount 
+10 
+of work remaining, and the delivery timeline for those projects.  IT&D will also support 
+11 
+new investments needed to comply with legal or regulatory requirements and mandates, or 
+12 
+other critical corporate objectives.  Lastly, projects to address IT&D infrastructure are 
+13 
+targeted, including investments to upgrade, replace, and add functionality to ensure system 
+14 
+reliability and to establish foundational capabilities required for future operational needs 
+15 
+of the business.   
+16 
+ 
+17 
+Working as part of the senior leadership team in each jurisdiction, IT&D collaborates on 
+18 
+creating an investment plan in line with jurisdictional priorities. A final investment plan 
+19 
+review occurs each fiscal year with the jurisdictional presidents, jurisdictional delegates, 
+20 
+and functional executives.  Upon the review and approval of the investment plan by the 
+21 
+jurisdictional presidents and functional executives, consolidated financial information 
+22 
+from the investment plan, by jurisdiction and company, is incorporated with IT&D 
+23 
+
+
+--- Page 11 ---
+Testimony of Information Technology and Digital Panel 
+Page 9 of 46 
+ 
+ 
+operations and maintenance (“O&M”) requirements into the IT&D budget.  The IT&D 
+1 
+budget is then reviewed and approved by the New York CIDO, the New England CIDO, 
+2 
+the Global CIDO, and Corporate Finance.  Finally, the plan is incorporated into the 
+3 
+consolidated National Grid USA budget for approval by the National Grid plc Board. 
+4 
+ 
+5 
+IV. 
+IT&D Cost Allocation and Historic Test Year Costs 
+6 
+Q.       How are IT&D projects and investment costs charged to KEDNY and KEDLI? 
+7 
+A. 
+IT&D capital projects and investments that are shared across operating companies are 
+8 
+implemented and owned by the Service Company.  The costs of these investments are 
+9 
+allocated to KEDNY and KEDLI (and the other operating companies that utilize and/or 
+10 
+benefit from the investments) in the form of rent expense.  Exhibit ___ (ITDP-2) provides 
+11 
+the allocation factors utilized to determine the forecast annual rent expense for planned 
+12 
+IT&D projects in the Rate Year and Data Years. 
+13 
+ 
+14 
+Q. 
+How are the costs of IT&D capital projects recovered? 
+15 
+A. 
+The costs of IT&D capital projects are amortized over a period of years.  The average 
+16 
+service lives of the assets determine the amortization periods.  In general, many of the 
+17 
+IT&D-related assets on the books of the Service Company are either software intangibles 
+18 
+or portable general plant equipment that are being depreciated, amortized, and recovered 
+19 
+over a period equal to their planned usefulness or expected lives.  The actual physical 
+20 
+replacement of assets is determined by business decisions to maintain, refresh, replace, or 
+21 
+decommission assets.  That evaluation is conducted based on variables such as operational 
+22 
+risk, the cost to be incurred, and the availability of replacement options.  Considering 
+23 
+
+
+--- Page 12 ---
+Testimony of Information Technology and Digital Panel 
+Page 10 of 46 
+ 
+ 
+technological and functional obsolescence, the recovery of hardware and equipment and 
+1 
+amortization of software intangible assets will approximate the new system’s useful life. 
+2 
+ 
+3 
+Q. 
+What were KEDNY and KEDLI’s IT&D costs for the Historic Test Year? 
+4 
+A. 
+KEDNY’s allocated IT&D operating costs for the Historic Test Year totaled $51.2 million, 
+5 
+which includes $40.2 million of operational costs and $11.1 million in investment plan 
+6 
+expenses as set forth on Exhibit ___ (ITDP-3).  The remaining allocated IT&D Historic 
+7 
+Test Year costs are $35.692 million of Service Company rents as set forth on 
+8 
+Exhibit___(RRP-11), Workpapers to Exhibit___(RRP-3), Schedule 9, Workpaper 1.  
+9 
+KEDLI’s allocated IT&D operating expenses for the Historic Test Year totaled $27.4 
+10 
+million, which includes $22.2 million of operational costs and $5.1 million in investment 
+11 
+plan expenses as set forth on Exhibit ___ (ITDP-3).  The remaining allocated IT&D 
+12 
+operating expenses for the Historic Test Year totaled $25.271 million of Service Company 
+13 
+rents as set forth on Exhibit___(RRP-11), Workpapers to Exhibit___(RRP-3), Schedule 9, 
+14 
+Workpaper 1. 
+15 
+ 
+16 
+Q. 
+What are the projected total rent expenses for IT&D projects and investments to 
+17 
+KEDNY and KEDLI in the Rate Year and Data Years? 
+18 
+A. 
+The rent expense in the Rate Year and Data Years is shown in KEDNY and KEDLI’s 
+19 
+Revenue Requirement Panels’ Exhibit__(RRP-11), Workpapers to Exhibit RRP-3, 
+20 
+Schedule 9, Workpapers 2, 3, 5, 6, 8, 9, 11 and 12.  As shown in Exhibit__(RRP-11), 
+21 
+Workpapers to RRP-3, Schedule 9, Workpapers 2 and 3, KEDNY and KEDLI are 
+22 
+forecasting IT&D rent expense in the Rate Year of $67.412 million and $32.972 million, 
+23 
+
+
+--- Page 13 ---
+Testimony of Information Technology and Digital Panel 
+Page 11 of 46 
+ 
+ 
+respectively.  This level of rent expense is driven by new IT&D capital projects planned to 
+1 
+be implemented in FY 2024 and the Rate Year and Data Years.  Tables 1 and 2, below, 
+2 
+summarize the IT&D rent expense to KEDNY and KEDLI, respectively, for the Rate Year 
+3 
+and Data Years, along with the investment areas contributing to the incremental rate 
+4 
+expense. 
+5 
+ 
+6 
+Table 1: – KEDNY IT&D Rent Expense: Rate Year – Data Year 3 
+7 
+ 
+Cost (M) 
+ 
+Rate Year 
+(FY 25) 
+ 
+Data Year 1 
+(FY26) 
+ 
+Data Year 2 
+(FY27) 
+ 
+Data Year 3 
+(FY28) 
+Existing Projects 
+$40.471 
+$36.274 
+$30.641 
+$25.745 
+DPIT 
+$6.204 
+$8.508 
+$10.655 
+$12.719 
+Security 
+$1.678 
+$2.982 
+$4.142 
+$5.075 
+Customer 
+$3.448 
+$5.347 
+$6.413 
+$7.467 
+Gas Operations 
+$4.947 
+$6.204 
+$7.081 
+$7.962 
+Continued Scaling 
+and Evolution 
+$0.231 
+$1.323 
+$3.187 
+$4.972 
+CRIS to CSS 
+$4.624 
+$7.306 
+$6.715 
+$6.290 
+CIS Enhancements 
+$0.050 
+$0.393 
+$1.059 
+$1.580 
+Customer 
+Experience  
+$2.194 
+$2.260 
+$2.124 
+$2.007 
+Energy Efficiency 
+$0.682 
+$1.161 
+$1.593 
+$1.896 
+Backoffice Refresh 
+$0.250 
+$1.758 
+$3.908 
+$5.128 
+Other Initiatives 
+$2.634 
+$3.589 
+$4.228 
+$4.930 
+TOTAL 
+$67.413 
+$77.105 
+$81.746 
+$85.771 
+ 
+8 
+
+
+--- Page 14 ---
+Testimony of Information Technology and Digital Panel 
+Page 12 of 46 
+ 
+ 
+Table 2 – KEDLI IT&D Rent Expense: Rate Year – Data Year 3 
+1 
+ 
+Cost (M) 
+ 
+Rate Year 
+(FY 25) 
+ 
+Data Year 1 
+(FY26) 
+ 
+Data Year 2 
+(FY27) 
+ 
+Data Year 3 
+(FY28) 
+Existing Projects 
+$20.466 
+$18.095 
+$15.017 
+$12.252 
+DPIT 
+$3.671 
+$5.035 
+$6.306 
+$7.527 
+Security 
+$0.993 
+$1.765 
+$2.451 
+$3.003 
+Customer 
+$1.821 
+$2.760 
+$3.277 
+$3.790 
+Gas Operations 
+$2.498 
+$3.097 
+$3.512 
+$3.928 
+Continued 
+Scaling & 
+Evolution 
+$0.109 
+$0.629 
+$1.517 
+$2.368 
+CRIS to CSS 
+$0 
+$0 
+$0 
+$0 
+CIS 
+Enhancements 
+$0.024 
+$0.187 
+$0.504 
+$0.753 
+Customer 
+Experience  
+$1.305 
+$1.344 
+$1.263 
+$1.194 
+Energy 
+Efficiency 
+$.325 
+$0.553 
+$0.759 
+$0.903 
+Backoffice 
+Refresh 
+$0.148 
+$1.040 
+$2.313 
+$3.035 
+Other Initiatives 
+$1.611 
+$2.173 
+$2.548 
+$2.961 
+TOTAL 
+$32.971 
+$36.678 
+$39.467 
+$41.714 
+ 
+2 
+V. 
+IT&D Capital Projects and Initiatives 
+3 
+Q.  
+Please provide an overview of IT&D capital investments presented in these rate 
+4 
+filings. 
+5 
+A.  
+The IT&D investments discussed in these rate filings include the major programs and 
+6 
+initiatives that enable the Company to meet the evolving needs of customers that are 
+7 
+
+
+--- Page 15 ---
+Testimony of Information Technology and Digital Panel 
+Page 13 of 46 
+ 
+ 
+increasingly reliant on technology solutions.  Investments in Digital Platforms and 
+1 
+Infrastructure Technology (“DPIT”), Security, Customer, Gas Operations, as well as the 
+2 
+Continued Scaling and Evolution (“CS&E”) work and other smaller programs and projects 
+3 
+(listed as “Other Initiatives”) are presented in Exhibit__(ITDP-4).  
+4 
+ 
+5 
+The Panel also addresses the IT&D aspects of several strategic programs, including the 
+6 
+CRIS-to-CSS conversion, Customer Experience Program, energy efficiency programs, and 
+7 
+Backoffice Refresh.  Primary support for CRIS-to-CSS conversion, Customer Experience 
+8 
+Program, and energy efficiency programs are provided in the Customer Panel testimony. 
+9 
+ 
+ 
+10 
+ 
+While the Customer Panel discusses the business needs for and benefits of the Customer 
+11 
+Experience Program, the costs of all Service Company IT&D capital investment projects 
+12 
+included in the Rate Year and Data Years to support those programs are supported by the 
+13 
+IT&D Panel and included in Exhibit __(ITDP-4).  
+14 
+ 
+15 
+ 
+The forecast rent expense for all IT&D projects and programs that have an allocation to 
+16 
+KEDNY and KEDLI in the Rate and Data Years are included in Exhibit__(RRP-11), 
+17 
+Workpapers to Exhibit__RRP-3, Schedule 9, Workpapers 2, 3, 5, 6, 8, 9, 11 and 12. The 
+18 
+detailed operational expenses associated with these programs are included in 
+19 
+Exhibit__(ITDP-6), and a summarized view of IT&D operational spend, including the 
+20 
+strategic programs, is in Exhibit__(ITDP-7). 
+21 
+ 
+22 
+
+
+--- Page 16 ---
+Testimony of Information Technology and Digital Panel 
+Page 14 of 46 
+ 
+ 
+(i) 
+Digital Platforms and Infrastructure Technology (“DPIT”) 
+1 
+Q. 
+What specific investments in DPIT is National Grid proposing in the Rate Year and 
+2 
+Data Years? 
+3 
+A. 
+DPIT supports National Grid’s internal IT&D architecture and supports a connected digital 
+4 
+organization that is secure, reliable, and scalable, enabling employees and customers to 
+5 
+leverage IT&D with an ever-expanding range of services.  Specific projects in the DPIT 
+6 
+portfolio include: 
+7 
+• Network Infrastructure delivers, maintains, and ensures accessibility and 
+8 
+reliability of voice infrastructure, Wide Area Network/Software Defined Wide 
+9 
+Area Network (WAN/SD-WAN) products, and Local Area Network/Wi-Fi 
+10 
+(LAN/Wi-Fi) products across the organization.         
+11 
+• Cloud and Hosting is a multi-year investment to transition National Grid’s core 
+12 
+computing infrastructure from physical hardware servers and data rooms to 
+13 
+cloud-based platforms.  Doing so will allow for a partial transition away from 
+14 
+traditional servers to cloud services, which offer more flexibility and scalability.  
+15 
+• Enterprise Hub (Ehub) is the strategic planning, enterprise architecture, and 
+16 
+portfolio management tool used to support National Grid's integrated strategic 
+17 
+planning. 
+18 
+• Digital Workplace Services is a project directed at implementing new 
+19 
+capabilities across essential end-user services and utilizing emerging 
+20 
+technologies to enhance employee capabilities in remote and in-office 
+21 
+environments.  This investment includes utilization and ongoing maintenance 
+22 
+requirements associated with Microsoft Teams, SharePoint, Office365, access 
+23 
+
+
+--- Page 17 ---
+Testimony of Information Technology and Digital Panel 
+Page 15 of 46 
+ 
+ 
+management platforms (single sign-on capability/active directory, etc.), and 
+1 
+technical support channels. 
+2 
+• US Critical National Infrastructure program designs, builds, and operates 
+3 
+critical infrastructure services that enable the Company’s ability to 
+4 
+communicate with assets in the field remotely and electronically.  
+5 
+• The Network Operations investment will enable continuous technology 
+6 
+monitoring, supervision, and management to benefit customers and employees 
+7 
+by proactively detecting potential system irregularities.  
+8 
+• GridStack and Digital Platforms provide National Grid’s digital teams a means 
+9 
+of pulling needed data from legacy systems with a standard interface that 
+10 
+multiple gas programs can reuse.  It also allows developers to set up their digital 
+11 
+work environments much faster by using the cloud compared to the pre-cloud 
+12 
+and pre-GridStack environment.  The Company’s transition to an “intelligent 
+13 
+connected utility” benefits from the use of an agile and collaborative platform 
+14 
+like GridStack.  
+15 
+• Data Center Transformation will create a new foundation for enterprise 
+16 
+computing capabilities and reduce the number of US data centers from seven to 
+17 
+two.  As an added benefit, the two new data centers that the Company is 
+18 
+utilizing are energy-efficient, green data centers that will reduce the Company’s 
+19 
+carbon footprint.  The new consolidated data centers provide savings for 
+20 
+customers and modern operational capabilities with increased digitization, 
+21 
+rooted in an overall strategy to increase flexibility and reliability in an 
+22 
+environmentally conscious way. 
+23 
+
+
+--- Page 18 ---
+Testimony of Information Technology and Digital Panel 
+Page 16 of 46 
+ 
+ 
+Descriptions of all the individual capital projects and programs included in the DPIT 
+1 
+program for the Rate Year and Data Years are provided in Exhibit __ (ITDP-5). 
+2 
+ 
+3 
+Q.  
+What capital costs are associated with the DPIT Program?  
+4 
+A.  
+Details by year of the specific project and program capital costs in the DPIT program are 
+5 
+provided in Exhibit __ (ITDP-4).  The capital costs of the DPIT program include $151.28 
+6 
+million through FY 2024, $75.24 million in the Rate Year, $72.45 million in Data Year 1, 
+7 
+$74.95 million in Data Year 2, and $73.54 million in Data Year 3.  As shown in 
+8 
+Exhibit__(RRP-11), Workpapers to Exhibit__RRP-3, Schedule 9, Workpaper 3, the Rate 
+9 
+Year incremental rent expense for these investments is $6.203 million and $3.671 million 
+10 
+for KEDNY and KEDLI, respectively.  Exhibit__(RRP-11), Workpapers to 
+11 
+Exhibit__RRP-3, Schedule 9, Workpapers 6, 9 and 12 will show the rent expense for the 
+12 
+DPIT program for KEDNY and KEDLI in the Data Years.  
+13 
+ 
+14 
+(ii) 
+Cyber Security and Physical Security 
+15 
+Q. 
+What is the basis for the IT&D investments planned in the IT&D Security portfolio? 
+16 
+A. 
+The Security team partners with our operational business units to protect people, premises, 
+17 
+assets, and digital systems.  The IT&D Security portfolio is focused on mitigating 
+18 
+constantly evolving cyber security risks and providing expert guidance, security services, 
+19 
+and technical support.  The cyber security program to date has built a strong security 
+20 
+foundation that requires continued investment to ensure that the program remains effective 
+21 
+and able to meet ever-evolving threats to National Grid’s critical infrastructure.  The 
+22 
+program will continue to enhance cyber security capabilities and ensure they remain 
+23 
+
+
+--- Page 19 ---
+Testimony of Information Technology and Digital Panel 
+Page 17 of 46 
+ 
+ 
+responsive to emerging threats, changes to the threat landscape, and malicious actor 
+1 
+activity.  The Company’s cyber security program considers external and internal factors 
+2 
+that impact the effectiveness of the capabilities currently in place.  Externally, geopolitical 
+3 
+threats are constantly monitored, and internally, the operating model and deployed 
+4 
+operational technology are frequently assessed to ensure the security posture is effective. 
+5 
+ 
+6 
+Q. 
+Does National Grid work with other parties on cyber security issues? 
+7 
+A. 
+Yes.  National Grid works directly with government security agencies at the federal and 
+8 
+the state level, regulators, and various industry consortia in both the US and the UK, 
+9 
+including the US Department of Homeland Security, the FBI, the UK E3C Cyber 
+10 
+organization, the US Information Sharing and Analysis Centers, including the Electricity 
+11 
+Information Sharing and Analysis Center, and the UK National Cyber Security Centre.  
+12 
+National Grid also leverages private-sector relationships with various cyber technology and 
+13 
+service providers to supplement our internal team. 
+14 
+ 
+15 
+Q. 
+What steps does the National Grid take to review its Cyber Security Program and 
+16 
+ensure it is meeting its objective?   
+17 
+A. 
+The Cyber Security Program is aligned to industry best practices, frameworks, standards, 
+18 
+and regulatory requirements.  These include the National Institute of Science and 
+19 
+Technology Cyber Security Framework, National Grid Corporate Audit Controls 
+20 
+Assessments, Northeast Electric Reliability Corporation Critical Infrastructure Protection 
+21 
+(NERC CIP), and US Transportation Security Administration Security Directive. 
+22 
+ 
+23 
+
+
+--- Page 20 ---
+Testimony of Information Technology and Digital Panel 
+Page 18 of 46 
+ 
+ 
+Q. 
+Describe the major areas of investment planned in the Rate Year and Data Years to 
+1 
+address cyber security threats. 
+2 
+A. 
+The Security Product and Engineering team is responsible for planning, designing, 
+3 
+implementing, and supporting effective cyber security solutions that protect the 
+4 
+Company’s digital systems.  The team focuses on six areas: (i) Identity and Access 
+5 
+Management (“IAM”), (ii) Platform Security, (iii) Network Security, (iv) Security 
+6 
+Orchestration Automation and Response (“SOAR”), (v) Vulnerability Management, and 
+7 
+(vi) Operational Technology.  The focus of each area is as follows: 
+8 
+ 
+9 
+ 
+Identity and Access Management (IAM) products establish a framework for policies, 
+10 
+processes, and technologies that ensure full and proper control and awareness of who has 
+11 
+access to IT&D systems and when that access is granted.  
+12 
+ 
+13 
+ 
+Platform Security supports technologies to ensure that all computing platforms National 
+14 
+Grid uses conform to a consistent and effective set of safeguards.  
+15 
+ 
+ 
+16 
+ 
+Network Security products protect the underlying network security infrastructure from 
+17 
+unauthorized access, misuse, malfunction, modification, destruction, or improper 
+18 
+disclosure, enabling the Companies to manage secure, reliable communications.  
+19 
+ 
+20 
+ 
+Security Orchestration Automation and Response (“SOAR”) products enhance the ability 
+21 
+to detect, mitigate and respond to security events through improved visibility, 
+22 
+orchestration, automation, and data analysis.  
+23 
+
+
+--- Page 21 ---
+Testimony of Information Technology and Digital Panel 
+Page 19 of 46 
+ 
+ 
+ 
+Vulnerability Management seeks to identify and prevent the exploitation of weaknesses 
+1 
+that may exist within the organization.  As new processes, software upgrades, and tools are 
+2 
+incorporated into the National Grid technology ecosystem, there is a need to continuously 
+3 
+assess and proactively address cyber risks.  This program validates that security controls 
+4 
+and processes remain effective in live environments and simulate attack scenarios based 
+5 
+on attacker behaviors.  It enacts scanning techniques to effectively scan customized 
+6 
+applications, open-source applications, perimeter devices, and systems to identify defects 
+7 
+that could potentially be exploited. 
+8 
+ 
+ 
+9 
+ 
+Operational Technology products provide security solutions to improve the defense of the 
+10 
+Companies’ operational field assets to ensure the safe, secure delivery of energy. 
+11 
+ 
+12 
+Q. 
+What is the purpose of National Grid’s physical security investments? 
+13 
+A. 
+National Grid operates electric and gas energy infrastructure that could be subject to 
+14 
+physical attack.  Physical security threats include the risk that unauthorized individuals will 
+15 
+attempt to enter National Grid’s facilities to vandalize property, equipment, or facilities, 
+16 
+theft of tangible or intellectual property, or damage of critical equipment. 
+17 
+ 
+18 
+Q. 
+Describe National Grid’s physical counter measures. 
+19 
+A. 
+National Grid’s physical security measures are intended to mitigate the risk of such threats 
+20 
+by deploying enhanced security systems across company networks and facilities to detect 
+21 
+and deter physical attacks.  These security measures include facility access card readers, 
+22 
+
+
+--- Page 22 ---
+Testimony of Information Technology and Digital Panel 
+Page 20 of 46 
+ 
+ 
+security cameras, and alarm systems to meet regulatory requirements, enhance customer 
+1 
+and employee safety, and safeguard assets.    
+2 
+ 
+3 
+Q.  
+What capital costs are associated with the Security Program?  
+4 
+A.  
+Details by year of the specific project and program capital costs in the Security program 
+5 
+are provided in Exhibit __ (ITDP-4).  The capital costs of the Security program include 
+6 
+$55.26 million through FY 2024, $37.81 million in the Rate Year, $40.18 million in Data 
+7 
+Year 1, $36.85 million in Data Year 2, and $33.25 million in Data Year 3.  As shown in 
+8 
+Exhibit__(RRP-11), Workpapers to Exhibit__RRP-3, Schedule 9, Workpaper 3, the Rate 
+9 
+Year incremental rent expense for these investments is $1.677 million and $0.992 million 
+10 
+for KEDNY and KEDLI, respectively.  Exhibit__(RRP-11), Workpapers to 
+11 
+Exhibit__RRP-3, Schedule 9, Workpapers 6, 9 and 12 will show the rent expense for the 
+12 
+Security program for KEDNY and KEDLI in the Data Years.  
+13 
+ 
+14 
+(iii) 
+Customer 
+15 
+Q. 
+What are the IT&D investments planned by the Customer portfolio? 
+16 
+A. 
+The US Customer business strategy focuses on maintaining a high level of customer 
+17 
+satisfaction by improving the customer experience, minimizing the cost to serve, and 
+18 
+supporting customers as part of the clean energy transition.  The IT&D Customer portfolio 
+19 
+is designed to enable the US Customer function to meet their strategic goals by delivering 
+20 
+digital products that increase customer engagement and minimize costs to serve by 
+21 
+modernizing legacy back-end IT&D systems to support more digital products and 
+22 
+liberating data and creating a real-time customer data platform to assist with achieving 
+23 
+
+
+--- Page 23 ---
+Testimony of Information Technology and Digital Panel 
+Page 21 of 46 
+ 
+ 
+energy efficiency targets.  The significant IT&D investments in the Customer portfolio, 
+1 
+described below, are the Unified Web Portal, Customer Mandates, My Business Account, 
+2 
+AIMS Enterprise Solution, and Customer Data Platform.  Each is being prioritized to 
+3 
+enhance the Company’s interaction with its customers, maintain customer satisfaction, and 
+4 
+enable customers to better manage their energy needs.  
+5 
+ 
+6 
+Q.  
+Please describe the Unified Web Portal program.  
+7 
+A. 
+The Unified Web Portal is a self-service web solution that provides a frictionless and 
+8 
+seamless digital web experience for customers.  It is the platform through which customers 
+9 
+communicate with the Companies over the internet, allowing easy access to self-service 
+10 
+bill payment and account management options, access to customer usage and consumption 
+11 
+trends, and on-demand consumer resources.  The implementation and improvement of the 
+12 
+self-service Unified Web Portal platform aims to improve customer satisfaction and 
+13 
+reduces call center traffic.  The investment in the Rate Year and Data Years will transition 
+14 
+the Unified Web Portal to a more robust, higher performing, and adaptable platform, 
+15 
+reducing downtime and improving responsiveness. 
+16 
+ 
+17 
+Q. 
+Please describe the Customer Mandates program. 
+18 
+A. 
+The Customer Mandates program will implement and maintain customer system changes 
+19 
+required to comply with jurisdictional, legal, and financial reporting requirements.  
+20 
+Examples include tariff changes and regulatory requirements, such as the recent updates to 
+21 
+New York’s Home Energy Fair Practices Act requiring all utility companies to refer to 
+22 
+customers by their preferred gender, pronoun, and name.  This program also covers 
+23 
+
+
+--- Page 24 ---
+Testimony of Information Technology and Digital Panel 
+Page 22 of 46 
+ 
+ 
+compliance with telecommunications and financial regulations (e.g., Telephone Consumer 
+1 
+Protection Act and National Automated Clearinghouse Association rule changes). 
+2 
+ 
+3 
+Q. 
+Please describe the My Business Account program. 
+4 
+A. 
+The My Business Account program focuses on the large commercial and industrial 
+5 
+customers experience by reducing the time and effort spent managing their billing accounts 
+6 
+via a personalized, self-service digital portal.  Initial capabilities that have been developed 
+7 
+will be further enhanced and new capabilities will be deployed that improve the user 
+8 
+experience for those customers managing their complex billing arrangements and multiple 
+9 
+accounts.  Increased access to billing and usage data, improving ways to bulk pay bills 
+10 
+across multiple accounts, driving customers towards paperless billing, and encouraging 
+11 
+green and digital experiences with customers are just a few of the added benefits that will 
+12 
+be provided by the My Business Account portal.  In line with the Customer business 
+13 
+strategy, commercial and industrial customers will benefit from increased access to their 
+14 
+data in a more user-friendly manner. 
+15 
+ 
+16 
+Q. 
+Please describe the AIMS Enterprise Solution program. 
+17 
+A. 
+This is an investment in National Grid’s US Customer Contact Centers.  National Grid’s 
+18 
+US Contact Centers handle over 18 million calls per year.  Over two thousand National 
+19 
+Grid and third-party vendor agents utilize the current solution (i.e., AIMS) to take calls 
+20 
+from customers and employees across all National Grid US territories.  AIMS is a Cisco 
+21 
+Unified Contact Center Enterprise solution that delivers intelligent call routing, computer 
+22 
+telephony integration (“CTI”), interactive voice response (“IVR”) self-service, agent 
+23 
+
+
+--- Page 25 ---
+Testimony of Information Technology and Digital Panel 
+Page 23 of 46 
+ 
+ 
+desktop, workforce management, quality monitoring, and centralized administration and 
+1 
+reporting capabilities.  A reliable platform is required to promptly handle all calls, 
+2 
+including outage and gas emergencies. 
+3 
+ 
+4 
+This investment will improve the stability and reliability of all critical systems that support 
+5 
+National Grid’s connection to customers; new self-service capabilities such as Voice-to-
+6 
+Digital and additional self-service transactions will reduce call volume to agents, resulting 
+7 
+in shorter wait times. 
+8 
+ 
+9 
+Q. 
+Please describe the Customer Data Platform program. 
+10 
+A. 
+The Customer business strategy and targeted outcomes are underpinned by high quality, 
+11 
+secured and well-managed data.  The Customer Data Platform will support National Grid’s 
+12 
+data management by advancing security and data governance, improving data quality, 
+13 
+removing manual data efforts, streamlining and reducing the cost to access near real-time 
+14 
+data, and creating a more complete customer profile.  Increasing and unlocking this data 
+15 
+capability will enable many of the critical Customer business programs and will further be 
+16 
+used and analyzed to define opportunities for increasing customer satisfaction and 
+17 
+supporting the transition to a clean energy future.   
+18 
+ 
+19 
+Q.  
+What capital costs are associated with the Customer portfolio?   
+20 
+A.  
+Details by year of the specific project and program capital costs in the Customer portfolio 
+21 
+are provided in Exhibit __ (ITDP-4).  The capital costs of the Customer program include 
+22 
+$89.24 million through FY 2024, $48.37 million in the Rate Year, $34.17 million in Data 
+23 
+
+
+--- Page 26 ---
+Testimony of Information Technology and Digital Panel 
+Page 24 of 46 
+ 
+ 
+Year 1, $35.24 million in Data Year 2, and $34.13 million in Data Year 3.  As shown in 
+1 
+Exhibit__(RRP-11), Workpapers to Exhibit__RRP-3, Schedule 9, Workpaper 3, the Rate 
+2 
+Year incremental rent expense for these investments is $3.447 million and $1.820 million 
+3 
+for KEDNY and KEDLI, respectively.  Exhibit__(RRP-11), Workpapers to 
+4 
+Exhibit__RRP-3, Schedule 9, Workpapers 6, 9 and 12 show the rent expense for the 
+5 
+Customer portfolio for KEDNY and KEDLI in the Data Years.  
+6 
+ 
+7 
+(iv) 
+US Gas Operations 
+8 
+Q. 
+What investments are IT&D proposing to support the Companies’ Gas Operations 
+9 
+business? 
+10 
+A. 
+The IT&D US Gas portfolio supports National Grid’s US Gas business.  National Grid has 
+11 
+identified a portfolio of IT&D investments for the gas business designed to keep Gas IT&D 
+12 
+applications reliable, secure, and efficient.  These investments will enhance gas business 
+13 
+performance by automating manual processes and modernizing gas-focused applications 
+14 
+and services.  The significant planned IT&D Gas Operations investments are a Gas 
+15 
+Management System Upgrade, Enterprise Retail Choice, Field Tablet Refresh, Digital 
+16 
+Asset & Work Management for Instrumentation and Regulation (“I&R”) and Compressed 
+17 
+Natural Gas (“CNG”), Gas Application Continuous Improvement, and Gas Data 
+18 
+Modernization. 
+19 
+ 
+ 
+20 
+Q.  
+Please describe the Gas Management System (“GMS”) Upgrade.  
+21 
+A. 
+The GMS Supervisory Control and Data Acquisition (“SCADA”) upgrade project includes 
+22 
+GMS hardware and software updates that will adopt the latest versions of each and 
+23 
+
+
+--- Page 27 ---
+Testimony of Information Technology and Digital Panel 
+Page 25 of 46 
+ 
+ 
+minimize risk of failure.  The SCADA system is the primary system used by the Companies 
+1 
+for monitoring and controlling the Companies’ distribution systems.  
+2 
+ 
+3 
+Q.  
+Please describe the Enterprise Retail Choice program.  
+4 
+A. 
+The Supply and Retail Choice programs are supported by several legacy applications that 
+5 
+are at risk due to dependency on aging applications/operating technologies that lack 
+6 
+adequate support.  This project will automate specific business processes in the Supply and 
+7 
+Retail Choice programs and, in doing so, will drive time efficiencies for the business and 
+8 
+simultaneously reduce risk. 
+9 
+ 
+ 
+10 
+Q.  
+Please describe the Field Tablet Refresh program.  
+11 
+A. 
+National Grid gas field crews and supervisors use field devices (e.g., Tablets, iPads) for 
+12 
+work order management, data capture, GIS maps, and corporate applications access.  
+13 
+Replacing aging (older than four years) field devices across New York will ensure that the 
+14 
+devices are current with the latest iPhone Operating System, up-to-date security, and 
+15 
+application/functionality updates. 
+16 
+ 
+17 
+Q.  
+Please describe the Digital Asset and Work Management program.  
+18 
+A. 
+National Grid’s Gas I&R teams maintain and operate pressure-regulated assets (e.g., gate 
+19 
+stations, and regulator stations) and CNG assets.  Implementing asset and work 
+20 
+management capabilities for pressure-regulated and CNG assets in Enterprise Maximo, 
+21 
+National Grid’s software solution for gas asset and work management, will increase the 
+22 
+
+
+--- Page 28 ---
+Testimony of Information Technology and Digital Panel 
+Page 26 of 46 
+ 
+ 
+efficiency and effectiveness of the I&R operations by reducing reliance on paper-based 
+1 
+inspection records, manual recording keeping, and siloed software applications. 
+2 
+ 
+3 
+Q.  
+Please describe the Gas Application Continuous Improvement program.  
+4 
+A. 
+The Gas Application Continuous Improvement program is a multi-year investment 
+5 
+designed to maintain National Grid applications versioning standards (n-2) that ensure 
+6 
+continuous vendor support for systems that support National Grid’s ability to obtain 
+7 
+customer gas usage information remotely.  
+8 
+ 
+9 
+Q.  
+Please describe the Gas Data Modernization program.  
+10 
+A. 
+This effort will develop a modern and centralized data platform that streamlines gas data 
+11 
+retention, integration, integrity, archiving, analytics, compliance, reporting, quality, and 
+12 
+governance as part of an Integrated Energy Data Resource (“IEDR”) platform.  
+13 
+ 
+14 
+Q.  
+What other IT&D investments support the Gas Operations business?   
+15 
+A. 
+The IT&D Gas operations portfolio has smaller investments planned to upgrade the field 
+16 
+collection systems, invest in Gas Smart Meter Solutions in KEDLI, and establish a new 
+17 
+system operating procedure solution.  These investments and their related costs are listed 
+18 
+in Exhibit_(ITDP-4). 
+19 
+ 
+20 
+Q.  
+What capital costs are associated with the IT&D Gas Operations portfolio?   
+21 
+A.  
+Details by year of the specific project and program capital costs in the IT&D Gas 
+22 
+Operations Portfolio are provided in Exhibit __ (ITDP-4).  The capital costs of the IT&D 
+23 
+
+
+--- Page 29 ---
+Testimony of Information Technology and Digital Panel 
+Page 27 of 46 
+ 
+ 
+Gas Operations program include $64.38 million through FY 2024, $25.58 million in the 
+1 
+Rate Year, $13.31 million in Data Year 1, $12.00 million in Data Year 2, and $11.03 
+2 
+million in Data Year 3.  As shown in Exhibit__(RRP-11), Workpapers to Exhibit__RRP-
+3 
+3, Schedule 9, Workpaper 3, the Rate Year incremental rent expense for these investments 
+4 
+is $4.946 million and $2.498 million for KEDNY and KEDLI, respectively.  
+5 
+Exhibit__(RRP-11), Workpapers to Exhibit__RRP-3, Schedule 9, Workpapers 6, 9 and 12 
+6 
+will show the rent expense for the IT&D Gas Portfolio for KEDNY and KEDLI in the Data 
+7 
+Years.  
+8 
+ 
+9 
+(v) 
+Continued Scaling and Evolution (“CS&E”) of Asset, Work Management, 
+10 
+and Data Capabilities 
+11 
+Q. 
+Please describe the planned enhancements to gas asset, work, and data management 
+12 
+capabilities. 
+13 
+A. 
+National Grid is undertaking efforts to enhance the core capabilities of the asset and work 
+14 
+management, scheduling, field mobility, and other platforms enabled by the Gas Business 
+15 
+Enablement (“GBE”) program.  The GBE program was a multi-year program to replace 
+16 
+aged computer systems across National Grid’s US business.  Because of the age of these 
+17 
+systems, many processes before the GBE program relied on paper records and manual 
+18 
+processing of information, no longer supporting the way today’s utilities need to work.  
+19 
+The work, referred to as Continued Scaling and Evolution (“CS&E”), is being undertaken 
+20 
+to enhance core capabilities and deliver additional features and functionality beyond the 
+21 
+core suite of GBE products.  This investment is necessary for the Company to continue to 
+22 
+
+
+--- Page 30 ---
+Testimony of Information Technology and Digital Panel 
+Page 28 of 46 
+ 
+ 
+deliver modern, supported solutions that will enable improvements across the business and 
+1 
+deliver on ever evolving customer expectations.   
+2 
+ 
+3 
+Q. 
+How did National Grid identify the functionality to enhance? 
+4 
+A. 
+As National Grid deployed asset, work, and data management capabilities across its 
+5 
+jurisdictions, it gathered user feedback on the quality of the capabilities and the overall 
+6 
+user experience.  At the same time, National Grid, as it does with all investments, 
+7 
+continuously evaluates functionality and technical offerings for opportunities to extract 
+8 
+additional value from these investments for customers.  National Grid established teams 
+9 
+that were tasked with identifying and prioritizing areas to enhance, with a focus on end-to-
+10 
+end processes (e.g., asset management, customer meter-to-cash).   
+11 
+ 
+12 
+Q. 
+What new functionality and improvements will be delivered through the CS&E 
+13 
+work? 
+14 
+A. 
+Multiple enhancements have been identified to build on GBE tools and capabilities to 
+15 
+enhance operational performance, drive continued compliance with safety regulations, and 
+16 
+improve customer satisfaction.  These include, but are not limited to: 
+17 
+ 
+New Customer, Safety, and Performance Enhancements 
+18 
+• Centralizing Call Center intake onto one platform.  This will allow Call Center 
+19 
+representatives to provide more seamless service to customers, as the representative 
+20 
+will have customer information all in one place.  This should reduce customer wait 
+21 
+times and improve the overall customer experience.  
+22 
+
+
+--- Page 31 ---
+Testimony of Information Technology and Digital Panel 
+Page 29 of 46 
+ 
+ 
+• Identifying and documenting Operator Qualifications span-of-control requirements to 
+1 
+meet the new requirements from the Commission’s Operator Qualification order 
+2 
+(discussed in the direct testimony of the Gas Safety Panel). 
+3 
+• Extending work and asset management functionality to other areas of the business not 
+4 
+originally contemplated by the GBE program such as Instrumentation and Regulation 
+5 
+and Liquified Natural Gas/Compressed Natural Gas operations. 
+6 
+• Expanding account and asset information for service technicians to provide better 
+7 
+customer service. 
+8 
+• Integrating gas and electric investment and risk modeling to improve efficiency and 
+9 
+performance.  In particular, there will be a focus on CLCPA compliance with the intent 
+10 
+to identify gas assets that can be eliminated through the electrification of heat.  
+11 
+Increased Automation 
+12 
+• Expanding the automation of compliance controls to continually minimize risk. 
+13 
+• Improving system monitoring and notifications to enable the early detection and self-
+14 
+correction of issues.  In this way, the platforms can detect issues – and sometimes fix 
+15 
+those issues – before they impact users and require manual intervention.   
+16 
+• Leveraging machine learning from inspection and testing data to increase the precision 
+17 
+of risk modeling and investment planning capabilities. 
+18 
+Improved User Experience 
+19 
+• Consolidating tools and interfaces to minimize or eliminate the time lost when moving 
+20 
+across systems and devices. 
+21 
+• Improving screen design and information displays to decrease error rates. 
+22 
+
+
+--- Page 32 ---
+Testimony of Information Technology and Digital Panel 
+Page 30 of 46 
+ 
+ 
+• Eliminating the need for users to re-enter information multiple times, which reduces 
+1 
+the time required to complete tasks. 
+2 
+• Simplifying system navigation to increase findability. 
+3 
+• Employing real-time data validation to minimize input errors. 
+4 
+• Increasing the availability of on-demand self-help options to improve task completion 
+5 
+rates. 
+6 
+Q.  
+What capital costs are associated with the CS&E work? 
+7 
+A.  
+Details of CS&E are provided in Exhibit __ (ITDP-4).  The capital costs include $8.26 
+8 
+million in the Rate Year, $24.16 million in Data Year 1, $24.89 million in Data Year 2, 
+9 
+and $25.63 million in Data Year 3.  As shown in Exhibit__(RRP-11), Workpapers to 
+10 
+Exhibit__RRP-3, Schedule 9, Workpaper 3, the Rate Year incremental rent expense for 
+11 
+these investments is $0.230 million and $0.109 million for KEDNY and KEDLI, 
+12 
+respectively.  Exhibit__(RRP-11), Workpapers to Exhibit__RRP-3, Schedule 9, 
+13 
+Workpapers 6, 9 and 12 will show the CS&E rent expense for KEDNY and KEDLI in the 
+14 
+Data Years. 
+15 
+ 
+16 
+Q.  
+What is the timeframe for the work? 
+17 
+A. 
+Enhancements will be targeted initially at core asset and work management, scheduling, 
+18 
+field mobility and other platforms currently in service, with remaining investments 
+19 
+anticipated to be delivered for KEDLI and NMPC in FY24 once GBE core capabilities 
+20 
+have been fully implemented.  Because of the need to convert KEDNY’s existing customer 
+21 
+system to the CSS system, followed by a necessary stabilization period, GBE program 
+22 
+work at KEDNY tied to the customer system has been moved to FY26.  The CS&E 
+23 
+
+
+--- Page 33 ---
+Testimony of Information Technology and Digital Panel 
+Page 31 of 46 
+ 
+ 
+enhancements will be staggered as functionality is implemented.  Work to design, develop, 
+1 
+and implement the enhancements has proceeded, and will continue to proceed, ahead of 
+2 
+the in-service dates in the Gap Period and Rate Year.  The cost projections discussed above 
+3 
+reflect this phasing.  
+4 
+ 
+5 
+Q. 
+What are the projected benefits of the CS&E efforts?  
+6 
+A. 
+There are many qualitative benefits related to improved customer satisfaction, enhanced 
+7 
+safety compliance, particularly through the OQ improvements, and overall improvements 
+8 
+to operational performance.  In addition, the work will facilitate CLCPA compliance by 
+9 
+enhancing the view of assets to identify areas that could potentially be eliminated through 
+10 
+electrification.  The value streams are adopting an agile methodology in which they will 
+11 
+focus on targeting enhancements that deliver the most value to customers.  To that end, the 
+12 
+Companies anticipate future quantitative benefits but those will likely be in the later Data 
+13 
+Years.  As such, the Companies are unable to identify or quantify these benefits at this 
+14 
+time.  These potential benefits, however, if they were to occur in the later Data Years, have 
+15 
+been reflected in the filing through the one percent productivity adjustment discussed by 
+16 
+the Revenue Requirements Panel.   
+17 
+ 
+18 
+ 
+19 
+ 
+20 
+ 
+21 
+
+
+--- Page 34 ---
+Testimony of Information Technology and Digital Panel 
+Page 32 of 46 
+(vi)
+Other Initiatives
+1 
+Q.
+Please describe the Other Initiatives the IT&D function will be supporting with 
+2 
+capital projects in the Rate Year and Data Years. 
+3 
+A.
+In addition to the work streams we have previously described, the IT&D function will be 
+4 
+implementing capital projects in support of National Grid’s Group Functions and 
+5 
+continuing to adopt IT&D Strategic tooling. 
+6 
+7 
+Q.
+Please describe the planned Group Function investments. 
+8 
+A.
+Group Functions supports National Grid’s Finance, Enterprise Business Services, Human 
+9 
+Resources, Legal, and Safety Health & Environmental functions by continuing to upgrade 
+10 
+systems and retiring outdated systems.  IT&D investments in the Group Functions portfolio 
+11 
+relate to seven programs.  These include Asset Health, Source to Pay, Operations, Join to 
+12 
+Leave, Record to Report, Strategic and External Affairs & General Counsel, and Plan to 
+13 
+Perform. 
+14 
+15 
+Q.
+Please describe the planned IT&D Strategic Tooling investments. 
+16 
+A.
+The IT&D organization deploys and maintains software applications for strategic 
+17 
+alignment and performance tracking, investment planning and delivery, and activity-based 
+18 
+cost modeling. 
+19 
+20 
+Q.
+What capital costs are associated with Other Initiatives?  
+21 
+A.
+Details by year of the specific project and program capital costs in Other Initiatives are 
+22 
+provided in Exhibit __ (ITDP-4).  The capital costs of the Other Initiatives include $80.18 
+23 
+
+
+--- Page 35 ---
+Testimony of Information Technology and Digital Panel 
+Page 33 of 46 
+ 
+ 
+million through FY 2024, $35.81 million in the Rate Year, $26.53 million in Data Year 1, 
+1 
+$30.2 million in Data Year 2, and $24.99 million in Data Year 3.  As shown in 
+2 
+Exhibit__(RRP-11), Workpapers to Exhibit__RRP-3, Schedule 9, Workpaper 3, the Rate 
+3 
+Year incremental rent expense for these investments is $2.633 million and $1.610 million 
+4 
+for KEDNY and KEDLI, respectively.  Exhibit__(RRP-11), Workpapers to 
+5 
+Exhibit__RRP-3, Schedule 9, Workpapers 6, 9 and 12 will show the rent expense for the 
+6 
+Other Initiative projects for KEDNY and KEDLI in the Data Years.  
+7 
+ 
+8 
+(vii) 
+Customer Related Information Systems                                                                                         
+9 
+Q.  
+Please describe KEDNY’s planned conversion of the Customer Related Information 
+10 
+System (“CRIS”) to the Customer Service System (“CSS”). 
+11 
+A. 
+As described in the Direct Testimony of the Customer Panel, KEDNY is replacing its 
+12 
+legacy customer information system (“CIS”) by transitioning from CRIS to CSS.  Upon 
+13 
+completion, CSS will be the sole billing system across all National Grid operating 
+14 
+companies in New York.  CRIS is 35 years old and lacks the functionality needed to address 
+15 
+customer expectations and regulatory objectives that CSS provides.   
+16 
+ 
+17 
+This conversion is part of a broader CIS life extension strategy.  Consolidating the 
+18 
+Company’s legacy billing systems will enable the Company to meet customer expectations 
+19 
+with greater efficiency, reliability, scalability, and extensibility for future products and 
+20 
+services.  Maintaining a single CIS billing platform across all operating companies also 
+21 
+allows the Company to avoid duplicative efforts around processes, support, and hardware 
+22 
+costs that are required to maintain two customer systems.  By combining the platform, the 
+23 
+
+
+--- Page 36 ---
+Testimony of Information Technology and Digital Panel 
+Page 34 of 46 
+ 
+ 
+Companies also anticipate improved call center utilization while maintaining high levels 
+1 
+of customer satisfaction.  Please see the Customer Panel Testimony for further information 
+2 
+on KEDNY’s CRIS-to-CSS conversion project.  
+3 
+ 
+4 
+Q.  
+What capital costs are associated with the CRIS-to-CSS conversion project?  
+5 
+A.  
+Details by year of the specific project and program capital costs in KEDNY’s CRIS-to-
+6 
+CSS conversion project are provided in Exhibit __ (ITDP-4).  The capital costs of CRIS-
+7 
+to-CSS include $48.06 million through FY 2024 and $12.83 million in the Rate Year.  As 
+8 
+shown in Exhibit__(RRP-11), Workpapers to Exhibit__RRP-3, Schedule 9, Workpaper 3, 
+9 
+the Rate Year incremental rent expense for the investment is $4.623 million for KEDNY.  
+10 
+There are no rent expense costs for KEDLI, which already uses CSS.  Exhibit__(RRP-11), 
+11 
+Workpapers to Exhibit__RRP-3, Schedule 9, Workpapers 6, 9 and 12 will show the rent 
+12 
+expense for the CRIS-to-CSS conversion for KEDNY in the Data Years.  
+13 
+ 
+14 
+(viii) Customer Experience Program 
+15 
+Q. 
+Please describe the Customer Experience group of projects. 
+16 
+A. 
+As described in the Direct Testimony of the Customer Panel, the IT components of the 
+17 
+Customer Experience Program will allow U.S. Customer Service (Front Office) and 
+18 
+Revenue Cycle Management (Back Office) to develop the framework necessary to evolve 
+19 
+and respond to changing business demands.  This Program encompasses the Customer 
+20 
+organization’s long-term strategy to improve the Company’s interaction with customers.  
+21 
+The Customer Experience Program includes several project workstreams: 
+22 
+
+
+--- Page 37 ---
+Testimony of Information Technology and Digital Panel 
+Page 35 of 46 
+ 
+ 
+• Optimizing the Front Office Service Delivery Model will reallocate handled 
+1 
+call volumes to low-cost vendor sites, reduce internal shrinkage, and align 
+2 
+remaining vendor contacts with National Grid’s needs and priorities, including 
+3 
+performance metrics.  This investment will overhaul NCI and convergent 
+4 
+contracts, distribute remaining calls to the most effective centers, integrate 
+5 
+enhanced contact center capabilities, and optimize workforce planning models. 
+6 
+• Eliminate Calls through Self-Service is an investment in tactical improvements 
+7 
+to the IVR system to improve success rates on self-service transactions and 
+8 
+transition to natural language IVR (also known as conversational IVR), which 
+9 
+will allow customers to resolve incidents using normal speech patterns.  This 
+10 
+project will prioritize introducing conversational IVR for high-volume and 
+11 
+high-value customer issues, which includes billing and payments, collections, 
+12 
+moves, and appointments. 
+13 
+• Unified Web Improvements will seek to increase digital adoption and eliminate 
+14 
+calls, focusing on re-designing and implementing consistent, frictionless 
+15 
+experiences for high-value customer interactions, including payment, 
+16 
+collections, moves, and appointments.   
+17 
+ 
+18 
+Please see the Direct Testimony of the Customer Panel for further information.  
+19 
+ 
+20 
+Q.  
+What capital costs are associated with the Customer Experience Program initiatives?  
+21 
+A.  
+Details by year of the specific capital costs encompassing the Customer Experience 
+22 
+Program are provided in Exhibit __ (ITDP-4).  The capital costs include $55.24 million 
+23 
+
+
+--- Page 38 ---
+Testimony of Information Technology and Digital Panel 
+Page 36 of 46 
+ 
+ 
+through FY 2024 and $6.5 million in the Rate Year.  As shown in Exhibit__(RRP-11), 
+1 
+Workpapers to Exhibit__RRP-3, Schedule 9, Workpaper 3, the Rate Year incremental rent 
+2 
+expense for these investments is $2.194 million and $1.304 million for KEDNY and 
+3 
+KEDLI, respectively.  Exhibit__(RRP-11), Workpapers to Exhibit__RRP-3, Schedule 9, 
+4 
+Workpapers 6, 9 and 12 will show the rent expense for the Customer Experience Program 
+5 
+for KEDNY and KEDLI in the Data Years.  
+6 
+ 
+7 
+(ix) 
+Energy Efficiency (Clean Energy 2.0 and Green Button Connect) 
+8 
+Q. 
+Please describe the Clean Energy 2.0 Project and Green Button Connect investments. 
+9 
+A. 
+As described in the Direct Testimony of the Customer Panel, the energy efficiency and 
+10 
+clean energy program involves the development of forward-looking technology 
+11 
+capabilities that support improved customer-facing clean energy and energy efficiency 
+12 
+services.  This will require functional changes in the InDemand system to meet the energy 
+13 
+efficiency targets the Companies are committed to achieving.  National Grid will construct 
+14 
+a new technology platform that provides modern technology capabilities for the promotion, 
+15 
+sales, fulfillment, delivery, and reporting of clean energy products to National Grid 
+16 
+customers in New York.   
+17 
+ 
+18 
+Additionally, the clean energy investments will permit data sharing and integration with 
+19 
+energy efficiency delivery partners to support existing and new clean energy programs.  
+20 
+Finally, it will extend the Green Button Connect data-sharing solution, which has been 
+21 
+deployed for Niagara Mohawk customers, to the Companies’ gas customers.  The 
+22 
+Customer Panel provides additional information concerning these programs. 
+23 
+
+
+--- Page 39 ---
+Testimony of Information Technology and Digital Panel 
+Page 37 of 46 
+ 
+ 
+Q.  
+What capital costs are associated with these investments?  
+1 
+A.  
+Details by year of the specific project and program capital costs for the energy efficiency 
+2 
+programs are provided in Exhibit __ (ITDP-4).  The capital costs of the program include 
+3 
+$12.71 million through FY 2024, $12.23 million in the Rate Year, $11.79 million in Data 
+4 
+Year 1, $11.44 million in Data Year 2, and $0 million in Data Year 3.  As shown in 
+5 
+Exhibit__(RRP-11), Workpapers to Exhibit__RRP-3, Schedule 9, Workpaper 3, the Rate 
+6 
+Year incremental rent expense for these investments is $0.682 million and $0.325 million 
+7 
+for KEDNY and KEDLI, respectively.  Exhibit__(RRP-11), Workpapers to 
+8 
+Exhibit__RRP-3, Schedule 9, Workpapers 6, 9 and 12 will show the rent expense for the 
+9 
+energy efficiency programs for KEDNY and KEDLI in the Data Years.  
+10 
+ 
+11 
+(x) 
+Backoffice Refresh 
+12 
+Q. 
+Please describe the Backoffice Refresh project. 
+13 
+A. 
+The Backoffice Refresh project is the foundation for the future U.S. back-office 
+14 
+replacement strategy to improve financial transparency and reporting capabilities.  This 
+15 
+entails modeling the U.S. Enterprise Data Model, the Enterprise Data Hub, and the 
+16 
+Financial Data and Reporting Office.  Additionally, this project will enable the cloud 
+17 
+migration and payroll transition necessary for the back-office system replacement and, in 
+18 
+doing so, will streamline reporting requirement workstreams.   
+19 
+ 
+20 
+ 
+The objectives of this project are to create better cost transparency and traceability, 
+21 
+increasing the automation of transactional processes, standardizing best practices, 
+22 
+centralizing and simplifying financial controls, and improving reporting capabilities across 
+23 
+
+
+--- Page 40 ---
+Testimony of Information Technology and Digital Panel 
+Page 38 of 46 
+ 
+ 
+the entire organization.  This project will allow the Company to work through vendor 
+1 
+support issues that will arise when SAP discontinues support for the current SAP platform, 
+2 
+which is scheduled at the end of 2027.  Only costly third-party vendor support will be 
+3 
+available after the discontinuance.  
+4 
+ 
+ 
+5 
+Backoffice Refresh is critical to mitigating risks that impact the ability to implement any 
+6 
+critical security or compliance patches issued by SAP to address any vulnerabilities 
+7 
+discovered and software incompatibility with future products and services offered by SAP.  
+8 
+This impacts IT&D, Accounting, Business Services, and the payroll process.  The inability 
+9 
+to scale to take advantage of leading practices in an increasingly digital world will result 
+10 
+in overall higher operating costs, decreased performance, and reduced overall reliability. 
+11 
+ 
+12 
+Q. 
+What are the workstreams required to implement Backoffice Refresh? 
+13 
+A.        The Company is planning to deliver the Backoffice Refresh by utilizing an agile delivery 
+14 
+methodology.  This approach focuses on de-risking projects by delivering components in 
+15 
+phases and aligns with the Company’s commitment to enhancing capabilities that benefit 
+16 
+customers.  These workstreams include Enterprise Data Model, Data Cleanse, Enterprise 
+17 
+Data Hub, Cloud Foundation Migration, and Core Upgrade. 
+18 
+ 
+19 
+Q. 
+Please describe Enterprise Data Model. 
+20 
+A. 
+Enterprise Data Model will design the future state enterprise code block and associated 
+21 
+finance processes to provide transparency to the operating businesses and IT&D, and 
+22 
+streamline back-office reporting functions.  This workstream includes re-evaluating the 
+23 
+
+
+--- Page 41 ---
+Testimony of Information Technology and Digital Panel 
+Page 39 of 46 
+ 
+ 
+existing code block, focusing on the chart of accounts for US GAAP and FERC, data 
+1 
+mappings and reconciliations, developing key decision documents across the FERC, cost 
+2 
+flow, and enterprise structure, business process documentation, developing a requirements 
+3 
+traceability matrix, and developing pilots and demonstrations. 
+4 
+ 
+5 
+Q. 
+What are some expected benefits of Enterprise Data Model. 
+6 
+A. 
+National Grid expects to create a stronger relationship between Finance and Operations, 
+7 
+allowing the business to develop plans that link financial information to operational 
+8 
+outcomes.  
+9 
+ 
+ 
+10 
+Additionally, this investment will allow leadership to adjust operational plans before any 
+11 
+financial or operational issues occur.  Finance will have performance-based conversations 
+12 
+with Operations that deconstruct the units of work to be performed from the cost of 
+13 
+completing that work.  Finally, the Enterprise Data Model will allow for more transparency 
+14 
+in financial forecasts. 
+15 
+ 
+16 
+Q. 
+Please describe Data Cleanse. 
+17 
+A. 
+Data Cleanse will cleanse master and transactional data for the core Enterprise Resource 
+18 
+Planning (“ERP”) system along with improved governance to improve reporting, reduce 
+19 
+errors, and reduce the burden for future system transformation projects.  This includes 
+20 
+disaggregating existing master data sets into core dimensions and definitions, defining 
+21 
+historical data retention strategy, developing a data integration strategy, developing a 
+22 
+conversion strategy, and deploying new data governance processes. 
+23 
+
+
+--- Page 42 ---
+Testimony of Information Technology and Digital Panel 
+Page 40 of 46 
+ 
+ 
+Q. 
+What are the expected benefits of Data Cleanse. 
+1 
+A. 
+Data cleansing is expected to produce refined business data within the Company’s ERP 
+2 
+system to support the reliability and accuracy of business reporting, improve system 
+3 
+performance and historical reporting, and allow the Company to integrate information from 
+4 
+multiple sources more efficiently. 
+5 
+ 
+6 
+Q. 
+Please describe Enterprise Data Hub. 
+7 
+A. 
+Enterprise Data Hub will develop a data hub technology infrastructure to support the 
+8 
+Enterprise Data Model as the source of the information to support business and IT&D 
+9 
+integrations and reporting through a fast, secure, and innovative platform to provide better 
+10 
+visibility and information to the Company.  This includes developing the technology 
+11 
+infrastructure to support the Enterprise Data Model to gather and index data from relevant 
+12 
+business system sources, developing the data governance framework for managing data 
+13 
+within the Enterprise Data Hub and defining the linkage between Operations and Finance 
+14 
+data within the Enterprise Data Hub to support business requirements. 
+15 
+ 
+16 
+Q. 
+What are the benefits of Enterprise Data Hub. 
+17 
+A. 
+Enterprise Data Hub will reduce rework and allow downstream integration using a standard 
+18 
+data model and consumable application programming interfaces (“APIs”).  This includes 
+19 
+the ability to easily compare activities across the organization to streamline work and drive 
+20 
+better results.  Additionally, the Companies expect to benefit from a reduction in compiling 
+21 
+data with a shift to analytical activities and having dashboard analytics to monitor the end-
+22 
+to-end process and make timely decisions. 
+23 
+
+
+--- Page 43 ---
+Testimony of Information Technology and Digital Panel 
+Page 41 of 46 
+ 
+ 
+Q. 
+Please describe Cloud Foundation Migration. 
+1 
+A. 
+Cloud Foundation Migration will establish a cloud strategy and infrastructure environment 
+2 
+and begin migrating business applications to the cloud to integrate with future core ERP 
+3 
+system.  This includes designing cloud foundations, standing up cloud infrastructure, 
+4 
+developing disaster recovery process documents, and beginning cloud migration for the 
+5 
+SAP workload. 
+6 
+ 
+7 
+Q. 
+Please describe Core Upgrade. 
+8 
+A. 
+The Core Upgrade will replace the ERP Central Component and retire irrelevant legacy 
+9 
+applications to run the business faster, more efficiently, and reliably.  This reduces 
+10 
+maintenance and licensing burdens for supporting historical business requirements.  The 
+11 
+core upgrade entails itemizing future/legacy application inventory, developing the future 
+12 
+state system landscape, defining the legacy archiving approach, identifying applications 
+13 
+and interfaces that can be retired, and creating a retirement roadmap. 
+14 
+ 
+15 
+Q. 
+What are the benefits of Core Upgrade? 
+16 
+A. 
+This will reduce reliance on legacy system capabilities, remove dependence on legacy 
+17 
+technology scheduled to be out of support by 2027, and increase security and speed by 
+18 
+evolving to the current version of the core ERP technology to run the business. 
+19 
+ 
+20 
+Q.  
+What capital costs are associated with the Backoffice Refresh program?  
+21 
+A.  
+Details by year of the specific project and program capital costs in the Backoffice Refresh 
+22 
+program are provided in Exhibit __ (ITDP-4).  The capital costs of the program include $0 
+23 
+
+
+--- Page 44 ---
+Testimony of Information Technology and Digital Panel 
+Page 42 of 46 
+ 
+ 
+million through FY 2024, $39.7 million in the Rate Year, $71.4 million in Data Year 1, 
+1 
+$55.5 million in Data Year 2, and $0 million in Data Year 3.  As shown in Exhibit__(RRP-
+2 
+11), Workpapers to Exhibit__RRP-3, Schedule 9, Workpaper 3, the Rate Year incremental 
+3 
+rent expense for these investments is $0.250 million and $0.147 million for KEDNY and 
+4 
+KEDLI, respectively.  Exhibit__(RRP-11), Workpapers to Exhibit__RRP-3, Schedule 9, 
+5 
+Workpapers 6, 9 and 12 will show the rent expense for the Backoffice Refresh Program for 
+6 
+KEDNY and KEDLI in the Data Years.  
+7 
+ 
+8 
+Q.  
+What other IT&D capital projects are planned for the Rate Year and Data Years that 
+9 
+affect KEDNY and KEDLI? 
+10 
+A.  
+The list of all IT&D capital projects planned for the Rate Year and Data Years, inclusive 
+11 
+of all the projects the Panel previously described, is provided in Exhibit __ (ITDP-4). 
+12 
+ 
+13 
+Q.  
+What are the total projected capital costs of the IT&D projects shown in Exhibit __ 
+14 
+(ITDP-4) for the Rate Year and Data Years, and the corresponding Rate Year 
+15 
+impacts on KEDNY and KEDLI? 
+16 
+A.  
+The aggregate annual capital costs of the IT&D projects include $551.352 million through 
+17 
+FY 2024, $308.584 million in the Rate Year, $310.054 million in Data Year 1, $298.348 
+18 
+million in Data Year 2, and $215.117 million in Data Year 3.  As shown in Exhibit__(RRP-
+19 
+11), Workpapers to Exhibit__RRP-3, Schedule 9, Workpaper 3, the Rate Year incremental 
+20 
+rent expense for these investments is $26.941 million and $12.506 million for KEDNY and 
+21 
+KEDLI, respectively.  Exhibit__(RRP-11), Workpapers to Exhibit__RRP-3, Schedule 9, 
+22 
+
+
+--- Page 45 ---
+Testimony of Information Technology and Digital Panel 
+Page 43 of 46 
+Workpapers 6, 9, and 12 shows the rent expense for the IT&D projects for KEDNY and 
+1 
+KEDLI in the Data Years. 
+2 
+3 
+VI. 
+IT&D Operating Costs in the Rate Year and Data Years
+4 
+Q.
+What comprises operating costs for the IT function? 
+5 
+A.
+IT&D operating costs consist of (i) initial project expenses and post-implementation costs 
+6 
+incurred with new projects; and (ii) costs of running the projects once they are placed in 
+7 
+service.  The first category of costs includes O&M incurred to support investment planning 
+8 
+during the startup stage and post-application development costs that may not be capitalized 
+9 
+under applicable accounting rules.  The second category of costs are those costs of running 
+10 
+a project once it is in service (“run-the business” or “RTB” costs).  These RTB costs include 
+11 
+software licensing and maintenance agreements, hardware maintenance agreements, third-
+12 
+party contracts, consultant/contractor costs, and internal labor. 
+13 
+14 
+Q.
+What are the Companies’ projected IT&D incremental operating costs for the Rate 
+15 
+Year and the Data Years? 
+16 
+A.
+KEDNY and KEDLI’s projected incremental operating costs for the Rate Year and Data 
+17 
+Years (excluding the costs of the strategic program referenced in the Customer Panel 
+18 
+Testimony) can be found in Exhibit __ (ITDP-7).  These incremental costs consist 
+19 
+primarily of incremental IT&D project operating expenses and RTB costs for new capital 
+20 
+projects (details of which appear in Exhibit __ (ITDP-6), incremental operating expenses 
+21 
+associated with the strategic programs, and inflation from the Historic Test Year.  The 
+22 
+
+
+--- Page 46 ---
+Testimony of Information Technology and Digital Panel 
+Page 44 of 46 
+ 
+ 
+projected amounts of these costs for National Grid appear on page 1 of Exhibit __ (ITDP-
+1 
+7). 
+2 
+ 
+3 
+These costs are then allocated to KEDNY and KEDLI using the allocators identified in 
+4 
+Exhibit__ (ITDP-6) to arrive at the following incremental IT&D operating expense 
+5 
+amounts: 
+6 
+KEDNY: 
+7 
+ 
+• Rate Year: $9.7 million 
+8 
+ 
+• Data Year 1: $9.2 million 
+9 
+ 
+• Data Year 2: $3.1 million 
+10 
+ 
+• Data Year 3: $2.4 million 
+11 
+ 
+12 
+ 
+KEDLI: 
+13 
+ 
+ 
+• Rate Year: $5.2 million 
+14 
+ 
+ 
+• Data Year 1: $5.2 million 
+15 
+ 
+ 
+• Data Year 2: $1.8 million 
+16 
+ 
+ 
+• Data Year 3: $1.4 million 
+17 
+ 
+ 
+18 
+These incremental operating costs already reflect operating cost savings that National Grid 
+19 
+is planning to realize in connection with the Evolution Program, described in the Direct 
+20 
+Testimony of KEDNY and KEDLI’s Revenue Requirements Panels.  These savings are 
+21 
+shown in Exhibit __(RRP-11), Workpapers to RRP-3, Schedule 27, Workpaper 1, and 
+22 
+
+
+--- Page 47 ---
+Testimony of Information Technology and Digital Panel 
+Page 45 of 46 
+ 
+ 
+reflected in Exhibit __ (ITDP-6).  Absent these savings, the projected incremental IT&D 
+1 
+operating costs would be higher. 
+2 
+ 
+3 
+VII. 
+Reporting 
+4 
+Q.  
+What do the Companies propose regarding reporting on the IT&D investment plan? 
+5 
+A.  
+As part of the resolution of the 2017 Niagara Mohawk Rate Case and the 2019 KEDNY 
+6 
+and KEDLI Rate Cases, National Grid implemented periodic reporting of IT&D project 
+7 
+development and investment activity.  Those reporting measures have served to better 
+8 
+apprise Staff of the status of the Companies’ IT&D investments and bring greater internal 
+9 
+attention to IT&D project status and monitoring. The Companies propose to continue IT-
+10 
+related reporting requirements.  Specifically, the Companies propose that:  
+11 
+ (i)  
+at the beginning of each Rate Year, the Companies will file with the Secretary its 
+12 
+IT&D capital investment plan for that Rate Year, including a narrative explanation 
+13 
+of the plan and an identification of all proposed IT&D projects and their costs;  
+14 
+ (ii)  the Companies will file IT&D-related quarterly variance reports within 60 days of 
+15 
+the end of each Rate Year quarter;   
+16 
+ (iii)  on a semi-annual basis, the Companies will meet with Department of Public Service 
+17 
+Staff to discuss the IT&D investment plan and the progress being made on fulfilling 
+18 
+the goals of the plan; and  
+19 
+ (iv)  the Companies will file the annual long-term IT&D Strategy document upon refresh 
+20 
+of the document which is expected in the first quarter of each fiscal year. 
+21 
+ 
+22 
+
+
+--- Page 48 ---
+Testimony of Information Technology and Digital Panel 
+Page 46 of 46 
+ 
+ 
+Throughout this process, the Companies will work with Department of Public Service Staff 
+1 
+to identify any additional information that would be useful to include in the quarterly 
+2 
+reports. 
+3 
+ 
+4 
+Q. 
+Do the Companies propose to continue the downward-only reconciliation mechanism 
+5 
+for Service Company Rents, Net Utility Plant, and Depreciation? 
+6 
+A. 
+Yes.  The Companies propose to continue that mechanism as updated for the changes in 
+7 
+rents, capital investments and expenses reflected in rates in these proceedings. 
+8 
+ 
+9 
+Q. 
+Does this conclude your testimony? 
+10 
+A.  
+Yes. 
+11 
+
+
+--- Page 49 ---
+  
+ 
+ 
+INDEX OF EXHIBITS 
+ 
+ 
+ 
+ 
+Exhibit ___ (ITDP-1): Graphical depiction of the IT Management Organization 
+ 
+ 
+Exhibit ___ (ITDP-2):   Allocations Used for IT Projects 
+ 
+ 
+ 
+ 
+Exhibit ___ (ITDP-3):   Historic Test Year IT Operating Expenses 
+ 
+ 
+Exhibit____(ITDP-4):   In-flight and Forecasted IT Capital Projects 
+ 
+ 
+Exhibit____(ITDP-5):   Digital Platforms and Infrastructure Technology Investments 
+ 
+ 
+Exhibit____(ITDP-6):   In-flight and Forecasted IT Operating Expenses  
+ 
+ 
+Exhibit____(ITDP-7):   Total and Incremental IT Operating Expenses  
+ 
+ 
+ 
+ 
+ 
+ 
+ 
+ 
+ 
+ 
+ 
+ 
+ 
+ 
+ 
+
+
+--- Page 50 ---
+  
+ 
+ 
+ 
+ 
+ 
+ 
+ 
+ 
+Exhibit ___ (ITDP-1) 
+ 
+Graphical Depiction of the IT Management Organization 
+ 
+ 
+ 
+ 
+ 
+ 
+ 
+ 
+ 
+ 
+ 
+ 
+ 
+ 
+ 
+ 
+ 
+ 
+ 
+ 
+ 
+ 
+
+
+--- Page 51 ---
+1
+National Grid 
+IT and Digital
+• Protect our people, premises, and 
+digital systems to maintain trust in 
+National Grid services
+• Ensure digital access is always 
+correct within 24 hours of a joiner, 
+mover or leaver
+• Drive further improvements in 
+critical infrastructure and 
+operational technology security as 
+we evolve to the Intelligent 
+Connected Utility.
+• Deliver, sustain, and evolve digital 
+platforms and infrastructure 
+technology by enabling a connected, 
+seamless enterprise
+• Implement and manage all physical / 
+virtual components of our Data Centre 
+footprint
+• Provide Digital Workplace Services to 
+the entire user base, including service 
+desk, Active Directory, and virtual 
+desktop services
+• Deliver platform and enterprise 
+architecture standards / patterns
+• Global Operations and support
+• Ensure the business of IT&D is 
+running effectively and efficiently with 
+these services:
+•
+Regulatory filings and readiness
+•
+Vendor performance management
+•
+Delivery of platforms for performance 
+tracking, OKRs, and cost 
+management 
+•
+Portfolio & capacity planning (supply / 
+demand)
+•
+Optimization of demand-to-project-
+closure E2E process (sanctioning, 
+business casing, project closure, etc.)
+Global IT and Digital
+Chief Information & Digital Officer
+Andi Karaboutis
+Business Office
+Joel Semel
+Global IT Delivery Centers / Enabling Functions
+Security
+Chris Murphy
+Digital Platforms & Infrastructure 
+Technology (DPIT)
+Shannon Soland
+Finance
+HR
+Communications
+• Product: engineering, UX and 
+reimagining embedded in product 
+teams to solve business and user 
+problems
+• Product operations: providing the 
+environment for product teams to 
+be successful
+Product Office
+Graham Self
+CIDO US Customer  
+Simon Baker
+• Deliver on the US Customer 
+strategy to reduce cost to serve, 
+improve CX, & enable customer 
+uptake of clean energy solutions
+• Develop the next-gen digital 
+technology, reduce tech debt, and 
+provide personalized, digital-first 
+experiences
+• Build a leading clean energy 
+platform, enabling demand side 
+decarbonization
+• Execute all regulatory, billing, and 
+other compliance mandates
+• Evolve our data to be accessible, 
+transparent, and customer-centric
+.
+CIDO  New England
+Robert Lorkiewicz
+• Deliver on our Future of Electric 
+strategy and lead the affordable 
+clean energy transition by building 
+a modernized network that meets 
+the needs of a decarbonized grid
+• Scale Digital ways of working to 
+deliver new transformational 
+capabilities that will enable NG to 
+effectively and efficiently manage 
+the Grid of the future
+• Be operationally excellent through 
+reliable and resilient services
+CIDO  UK Electricity 
+Transmission
+Sarah Milton-Hunt
+CIDO, UK 
+Electricity Distribution
+Michael Keay
+• Deliver on our Future of Electric 
+strategy to support net zero and 
+50GW of offshore generation 
+connected by 2030
+• Build the platform foundations 
+while delivering NGET digital op 
+model with customer centricity, 
+actionable financial transparency 
+and total cost of ownership; driving 
+simplification to support the scale 
+and scrutiny ahead of us
+•
+Support and enhance the 
+delivery of business work 
+programmes by providing highly 
+secure, cost effective, reliable 
+and resilient IT systems that are 
+aligned with business 
+goals/strategy, and the delivery 
+of stakeholder commitments and 
+customer expectations
+•
+Provide customer experience-
+enhancing and data centric IT 
+systems which will put NG at the 
+heart of the UK’s energy 
+transformation
+CIDO,  UK Electricity System 
+Operator 
+Shubhi Rajnish
+CIDO, NGV
+Simon Johnston
+• Deliver digital & data 
+transformation to accelerate 
+excellence in system operations, 
+drive to net zero and build 
+efficient and effective markets
+• Transition the organization to the 
+future system operator 
+• Enable an accelerated insights 
+and data driven journey for ESO 
+and our stakeholders 
+•
+Deliver and scale digital 
+solutions to enable NGV’s 
+ambitious growth agenda 
+through commercial analysis, 
+insights and decision making 
+and to ensure safe, reliable and 
+efficient management of our 
+assets
+•
+Deliver NGV operational 
+excellence through fit for 
+purpose and cost-effective 
+platforms, services and 
+capabilities
+Leading our NG business through seamless customer/user experiences; modern, secure and fit for purpose DT environment with digital capabilities; cost 
+transparency and control; and develop short/medium/long term DT strategy and delivery plans and regulatory funding to drive customer outcomes
+Business Office
+Joel Semel
+Data Office
+Gavin Goodland
+.Group data strategy, governance and 
+architecture
+Advancing group wide data and analytics 
+capability
+CIDO New York
+Erik Barthel
+•
+Be brilliant at the basics: drive a 
+best-in-class 
+customer experience at the first 
+moment of truth w/NY customers 
+& colleagues
+•
+Lead strategy and plans to 
+enable NY business goals
+•
+Execute with excellence (x% 
+delivery on time vs commitments, 
+x% within forecast)
+•
+Deliver with velocity: Stabilize 
+and deliver GBE
+CIDO Group Functions  
+Bala Lakshmanan
+• Partner with Finance and 
+HR functions to transformation 
+through E2E process 
+improvement, efficiencies, 
+automation, data and digitization
+• Drive improved user experience 
+and digitization for SEA and GC
+• Drive portfolio repositioning for NG 
+(RI, Jupiter and FSO) – Day 1 
+Readiness, TSA exit within 2 years
+• Mitigate cost stranding post 
+divestiture
+Exhibit ___ (ITDP-1) 
+Page 1 of 1
+
+
+--- Page 52 ---
+  
+ 
+ 
+ 
+ 
+ 
+ 
+ 
+ 
+Exhibit ___ (ITDP-2) 
+ 
+Allocations Used for IT Projects 
+ 
+ 
+ 
+ 
+ 
+ 
+ 
+ 
+ 
+ 
+ 
+ 
+ 
+ 
+ 
+ 
+ 
+ 
+        
+ 
+ 
+ 
+ 
+ 
+ 
+ 
+ 
+ 
+ 
+ 
+ 
+ 
+ 
+
+
+--- Page 53 ---
+SAP Alloc. Code
+Description (Companies in Code)
+Allocation Basis
+KEDNY ALL OTHER CO's TOTAL
+5220G
+Direct Charge KEDNY
+Direct Charge
+100.00%
+0.00%
+100.00%
+C170
+E&G Retails-NiMo, KEDNY, KEDLI
+C - Number of Customers via Count of Meters Installed
+30.57%
+69.43%
+100.00%
+C175
+E&G Retails-All
+C - Number of Customers via Count of Meters Installed
+17.53%
+82.47%
+100.00%
+C207
+Gas Retails-NiMo, KEDNY, KEDLI
+C - Number of Customers via Count of Meters Installed
+50.79%
+49.21%
+100.00%
+C209
+Gas Retails-All (excl NECO)
+C - Number of Customers via Count of Meters Installed
+36.96%
+63.04%
+100.00%
+C210
+Gas Retails-All
+C - Number of Customers via Count of Meters Installed
+34.23%
+65.77%
+100.00%
+C225
+Gas Retails-KEDNY, KEDLI
+C - Number of Customers via Count of Meters Installed
+67.73%
+32.27%
+100.00%
+C239
+Gas Retails-Boston, Colonial, KEDNY, KEDLI
+C - Number of Customers via Count of Meters Installed
+45.18%
+54.82%
+100.00%
+C343
+Gas Retails-Boston, Colonial, KEDNY
+C - Number of Customers via Count of Meters Installed
+57.56%
+42.44%
+100.00%
+C436
+Gas Retails
+C - Number of Customers via Count of Meters Installed
+19.69%
+80.31%
+100.00%
+C903
+E&G Retails-All (excl NECO)
+C - Number of Customers via Count of Meters Installed
+19.65%
+80.35%
+100.00%
+G012
+All Companies (largest set)
+G - General Allocator, 3-Point Formula
+13.69%
+86.31%
+100.00%
+G020
+All Companies (largest set), IT use
+G - General Allocator, 3-Point Formula
+13.69%
+86.31%
+100.00%
+G027
+E&G Retails-All, plus Tran, Hydros, LNG, Gen
+G - General Allocator, 3-Point Formula
+13.93%
+86.07%
+100.00%
+G102
+Gas Retails-Boston, Colonial, KEDNY, KEDLI, plus Gen
+G - General Allocator, 3-Point Formula
+37.70%
+62.30%
+100.00%
+G116
+E&G Retails-NiMo, KEDNY, KEDLI, plus NiMo-T
+G - General Allocator, 3-Point Formula
+28.27%
+71.73%
+100.00%
+G138
+E&G Retails-All, plus NiMo-T, NEP-T, Gen
+G - General Allocator, 3-Point Formula
+14.31%
+85.69%
+100.00%
+G148
+E&G Retails-All, plus Tran
+G - General Allocator, 3-Point Formula
+14.49%
+85.51%
+100.00%
+G149
+E&G Retails-All, plus Tran, Hydros, Gen
+G - General Allocator, 3-Point Formula
+14.00%
+86.00%
+100.00%
+G170
+E&G Retails-NiMo, KEDNY, KEDLI
+G - General Allocator, 3-Point Formula
+31.76%
+68.24%
+100.00%
+G175
+E&G Retails-All
+G - General Allocator, 3-Point Formula
+16.84%
+83.16%
+100.00%
+G207
+Gas Retails-NiMo, KEDNY, KEDLI
+G - General Allocator, 3-Point Formula
+52.78%
+47.22%
+100.00%
+G209
+Gas Retails-All (excl NECO)
+G - General Allocator, 3-Point Formula
+36.88%
+63.12%
+100.00%
+G210
+Gas Retails-All
+G - General Allocator, 3-Point Formula
+34.15%
+65.85%
+100.00%
+G225
+Gas Retails-KEDNY, KEDLI
+G - General Allocator, 3-Point Formula
+63.97%
+36.03%
+100.00%
+G235
+Gas Retails-KEDNY, KEDLI, plus GENCO
+G - General Allocator, 3-Point Formula
+54.84%
+45.16%
+100.00%
+G239
+Gas Retails-Boston, Colonial, KEDNY, KEDLI
+G - General Allocator, 3-Point Formula
+41.93%
+58.07%
+100.00%
+G327
+E&G Retails-All, plus Tran, Hydros
+G - General Allocator, 3-Point Formula
+14.47%
+85.53%
+100.00%
+G384
+Gas Retails-Boston, Colonial, KEDNY
+G - General Allocator, 3-Point Formula
+55.18%
+44.82%
+100.00%
+G399
+E&G Retails-All, plus Tran, Gen
+G - General Allocator, 3-Point Formula
+14.02%
+85.98%
+100.00%
+G443
+Gas Retails-Boston, Colonial, KEDNY, KEDLI, plus LNG
+G - General Allocator, 3-Point Formula
+41.53%
+58.47%
+100.00%
+G903
+E&G Retails-MA & NY
+G - General Allocator, 3-Point Formula
+18.95%
+81.05%
+100.00%
+G911
+E&G Retails-MA & NY, plus Tran
+G - General Allocator, 3-Point Formula
+16.43%
+83.57%
+100.00%
+G913
+E&G Retails-MA & NY, plus Tran, Hydros, Gen
+G - General Allocator, 3-Point Formula
+15.78%
+84.22%
+100.00%
+G915
+E&G Retails-MA & NY, plus Tran, Hydros
+G - General Allocator, 3-Point Formula
+16.39%
+83.61%
+100.00%
+G916
+E&G Retails-MA & NY, plus Tran, Hydros, LNG, Gen
+G - General Allocator, 3-Point Formula
+15.70%
+84.30%
+100.00%
+G922
+E&G Retails-MA & NY, plus Tran, Gen
+G - General Allocator, 3-Point Formula
+15.81%
+84.19%
+100.00%
+G932
+E&G Retails-MA & NY, plus NiMo-T, NEP-T
+G - General Allocator, 3-Point Formula
+16.46%
+83.54%
+100.00%
+GT53
+All Companies (largest set), excludes NECO
+G - General Allocator, 3-Point Formula
+15.36%
+84.64%
+100.00%
+J063
+Reservoir Woods, Waltham
+J - Facilities - Multiple Sites
+7.67%
+92.33%
+100.00%
+J936
+Reservoir Woods, Waltham (without NECO)
+J - Facilities - Multiple Sites
+8.53%
+91.47%
+100.00%
+N237
+Gas Retails-KEDNY, KEDLI, plus GENCO
+N - Number of Employees
+61.52%
+38.48%
+100.00%
+X148
+E&G Retails-All, plus Tran
+X - Capital Expenditures
+19.71%
+80.29%
+100.00%
+X918
+E&G Retails-MA & NY, plus Tran, GENCO
+X - Capital Expenditures
+21.56%
+78.44%
+100.00%
+Allocations used for IT Projects (KEDNY)
+Exhibit ___ (ITDP-2) 
+Page 1 of 2
+
+
+--- Page 54 ---
+SAP Alloc. Code Description (Companies in Code)
+Allocation Basis
+KEDLI
+ALL OTHER CO's TOTAL
+5230G
+Direct Charge KEDLI
+Direct Charge
+100.00%
+0.00%
+100.00%
+C170
+E&G Retails-NiMo, KEDNY, KEDLI
+C - Number of Customers via Count of Meters Installed
+14.56%
+85.44%
+100.00%
+C175
+E&G Retails-All
+C - Number of Customers via Count of Meters Installed
+8.35%
+91.65%
+100.00%
+C195
+E&G Retails-NiMo, KEDLI
+C - Number of Customers via Count of Meters Installed
+20.97%
+79.03%
+100.00%
+C207
+Gas Retails-NiMo, KEDNY, KEDLI
+C - Number of Customers via Count of Meters Installed
+24.20%
+75.80%
+100.00%
+C209
+Gas Retails-All (excl NECO)
+C - Number of Customers via Count of Meters Installed
+17.60%
+82.40%
+100.00%
+C210
+Gas Retails-All
+C - Number of Customers via Count of Meters Installed
+16.31%
+83.69%
+100.00%
+C225
+Gas Retails-KEDNY, KEDLI
+C - Number of Customers via Count of Meters Installed
+32.27%
+67.73%
+100.00%
+C239
+Gas Retails-Boston, Colonial, KEDNY, KEDLI
+C - Number of Customers via Count of Meters Installed
+21.52%
+78.48%
+100.00%
+C434
+E&G Retails-MECO, Nant, Narr, NiMo, KEDLI
+C - Number of Customers via Count of Meters Installed
+12.01%
+87.99%
+100.00%
+C436
+Gas Retails
+C - Number of Customers via Count of Meters Installed
+9.38%
+90.62%
+100.00%
+C903
+E&G Retails-All (excl NECO)
+C - Number of Customers via Count of Meters Installed
+9.36%
+90.64%
+100.00%
+G012
+All Companies (largest set)
+G - General Allocator, 3-Point Formula
+8.10%
+91.90%
+100.00%
+G020
+All Companies (largest set), IT use
+G - General Allocator, 3-Point Formula
+8.10%
+91.90%
+100.00%
+G027
+E&G Retails-All, plus Tran, Hydros, LNG, Gen
+G - General Allocator, 3-Point Formula
+8.23%
+91.77%
+100.00%
+G102
+Gas Retails-Boston, Colonial, KEDNY, KEDLI, plus Gen
+G - General Allocator, 3-Point Formula
+21.58%
+78.42%
+100.00%
+G116
+E&G Retails-NiMo, KEDNY, KEDLI, plus NiMo-T
+G - General Allocator, 3-Point Formula
+16.42%
+83.58%
+100.00%
+G138
+E&G Retails-All, plus NiMo-T, NEP-T, Gen
+G - General Allocator, 3-Point Formula
+8.47%
+91.53%
+100.00%
+G148
+E&G Retails-All, plus Tran
+G - General Allocator, 3-Point Formula
+8.56%
+91.44%
+100.00%
+G149
+E&G Retails-All, plus Tran, Hydros, Gen
+G - General Allocator, 3-Point Formula
+8.27%
+91.73%
+100.00%
+G170
+E&G Retails-NiMo, KEDNY, KEDLI
+G - General Allocator, 3-Point Formula
+18.57%
+81.43%
+100.00%
+G175
+E&G Retails-All
+G - General Allocator, 3-Point Formula
+10.04%
+89.96%
+100.00%
+G207
+Gas Retails-NiMo, KEDNY, KEDLI
+G - General Allocator, 3-Point Formula
+29.94%
+70.06%
+100.00%
+G209
+Gas Retails-All (excl NECO)
+G - General Allocator, 3-Point Formula
+21.06%
+78.94%
+100.00%
+G210
+Gas Retails-All
+G - General Allocator, 3-Point Formula
+19.51%
+80.49%
+100.00%
+G225
+Gas Retails-KEDNY, KEDLI
+G - General Allocator, 3-Point Formula
+36.03%
+63.97%
+100.00%
+G235
+Gas Retails-KEDNY, KEDLI, plus GENCO
+G - General Allocator, 3-Point Formula
+31.17%
+68.83%
+100.00%
+G239
+Gas Retails-Boston, Colonial, KEDNY, KEDLI
+G - General Allocator, 3-Point Formula
+23.87%
+76.13%
+100.00%
+G251
+KEDLI, GENCO
+G - General Allocator, 3-Point Formula
+69.30%
+30.70%
+100.00%
+G327
+E&G Retails-All, plus Tran, Hydros
+G - General Allocator, 3-Point Formula
+8.54%
+91.46%
+100.00%
+G385
+Gas Retails-Boston, Colonial, KEDLI
+G - General Allocator, 3-Point Formula
+40.99%
+59.01%
+100.00%
+G399
+E&G Retails-All, plus Tran, Gen
+G - General Allocator, 3-Point Formula
+8.28%
+91.72%
+100.00%
+G443
+Gas Retails-Boston, Colonial, KEDNY, KEDLI, plus LNG
+G - General Allocator, 3-Point Formula
+23.62%
+76.38%
+100.00%
+G903
+E&G Retails-MA & NY
+G - General Allocator, 3-Point Formula
+11.27%
+88.73%
+100.00%
+G911
+E&G Retails-MA & NY, plus Tran
+G - General Allocator, 3-Point Formula
+9.67%
+90.33%
+100.00%
+G913
+E&G Retails-MA & NY, plus Tran, Hydros, Gen
+G - General Allocator, 3-Point Formula
+9.30%
+90.70%
+100.00%
+G915
+E&G Retails-MA & NY, plus Tran, Hydros
+G - General Allocator, 3-Point Formula
+9.65%
+90.35%
+100.00%
+G916
+E&G Retails-MA & NY, plus Tran, Hydros, LNG, Gen
+G - General Allocator, 3-Point Formula
+9.25%
+90.75%
+100.00%
+G922
+E&G Retails-MA & NY, plus Tran, Gen
+G - General Allocator, 3-Point Formula
+9.32%
+90.68%
+100.00%
+G932
+E&G Retails-MA & NY, plus NiMo-T, NEP-T
+G - General Allocator, 3-Point Formula
+9.70%
+90.30%
+100.00%
+GT53
+All Companies (largest set), excludes NECO
+G - General Allocator, 3-Point Formula
+9.09%
+90.91%
+100.00%
+J063
+Reservoir Woods, Waltham
+J - Facilities - Multiple Sites
+3.90%
+96.10%
+100.00%
+J936
+Reservoir Woods, Waltham (without NECO)
+J - Facilities - Multiple Sites
+4.69%
+95.31%
+100.00%
+N237
+Gas Retails-KEDNY, KEDLI, plus GENCO
+N - Number of Employees
+28.21%
+71.79%
+100.00%
+X148
+E&G Retails-All, plus Tran
+X - Capital Expenditures
+13.56%
+86.44%
+100.00%
+X918
+E&G Retails-MA & NY, plus Tran, GENCO
+X - Capital Expenditures
+14.82%
+85.18%
+100.00%
+Allocations used for IT Projects (KEDLI)
+Exhibit ___ (ITDP-2) 
+Page 2 of 2
+
+
+--- Page 55 ---
+  
+ 
+ 
+ 
+ 
+ 
+ 
+ 
+ 
+Exhibit ___ (ITDP-3) 
+ 
+Historic Test Year IT Operating Expenses 
+ 
+ 
+ 
+ 
+ 
+ 
+ 
+ 
+ 
+ 
+ 
+ 
+ 
+ 
+ 
+ 
+ 
+ 
+ 
+ 
+ 
+ 
+ 
+ 
+ 
+ 
+ 
+ 
+ 
+ 
+ 
+ 
+ 
+
+
+--- Page 56 ---
+12 months ending December
+Operational Cost
+31, 2022 (HTY)
+Digital Platforms & Infrastructure Technology
+13.4
+Security
+6.9
+Vendor Management
+8.5
+CIDO New York
+3.6
+Customer
+0.9
+Group Functions & other Admin
+1.5
+Product Office
+0.7
+Global Management
+0.4
+Burdens
+4.3
+Subtotal Operational Cost
+40.2
+Investment Plan Expenses
+Project OPEX
+10.1
+Burdens
+1.0
+Investment Plan Total
+11.1
+The Brooklyn Union Gas Company d/b/a National Grid NY
+ITDP-3 KEDNY's Share of Historic Test Year IT Operating Expenses ($Millions)
+Total IT Opex Allocated to The Brooklyn Union Gas
+Company (KEDNY)
+51.2
+Exhibit ___ (ITDP-3) 
+Page 1 of 2
+
+
+--- Page 57 ---
+12 months ending December
+Operational Cost
+31, 2022 (HTY)
+Digital Platforms & Infrastructure Technology
+8.1
+Security
+3.5
+Vendor Management
+4.8
+CIDO New York
+1.8
+Customer
+0.5
+Group Functions & other Admin
+0.9
+Product Office
+0.4
+Global Management
+0.2
+Burdens
+2.1
+Subtotal Operational Cost
+22.2
+Investment Plan Expenses
+Project OPEX
+4.7
+Burdens
+0.5
+Investment Plan Total
+5.1
+KeySpan Gas East Corporation d/b/a National Grid
+ITDP-3 KEDLI's Share of Historic Test Year IT Operating Expenses ($Millions)
+Total IT Opex Allocated to Keyspan Gas
+Corporation (KEDLI)
+27.4
+Exhibit ___ (ITDP-3) 
+Page 2 of 2
+
+
+--- Page 58 ---
+  
+ 
+ 
+ 
+ 
+ 
+ 
+ 
+ 
+Exhibit ___ (ITDP-4) 
+ 
+In-flight and Forecasted IT Capital Projects 
+ 
+ 
+ 
+ 
+ 
+ 
+ 
+ 
+ 
+ 
+ 
+ 
+ 
+ 
+ 
+ 
+ 
+ 
+ 
+ 
+ 
+ 
+ 
+ 
+ 
+ 
+ 
+ 
+ 
+ 
+ 
+ 
+ 
+
+
+--- Page 59 ---
+Investment Name
+Workorder
+INVP #
+Category
+Portfolio
+Inflight/Future
+Allocation Code
+Forecasted In
+Service Date
+Amortization
+Period
+FY25 Beginning
+Balance
+FY25 CAPEX
+FY26 CAPEX
+FY27 CAPEX
+FY28 CAPEX
+Total
+Continued Scaling and Evolution (CS&E)
+6539
+CS&E
+CS&E
+Future
+C209
+9/30/2024
+84
+-
+$
+4,131,100
+$
+-
+$
+-
+$
+-
+$
+4,131,100
+$
+Continued Scaling and Evolution (CS&E)
+6539
+CS&E
+CS&E
+Future
+C209
+3/31/2025
+84
+-
+$
+4,131,100
+$
+-
+$
+-
+$
+-
+$
+4,131,100
+$
+Continued Scaling and Evolution (CS&E)
+6539
+CS&E
+CS&E
+Future
+C209
+9/30/2025
+84
+-
+$
+-
+$
+12,080,303
+$
+-
+$
+-
+$
+12,080,303
+$
+Continued Scaling and Evolution (CS&E)
+6539
+CS&E
+CS&E
+Future
+C209
+3/31/2026
+84
+-
+$
+-
+$
+12,080,303
+$
+-
+$
+-
+$
+12,080,303
+$
+Continued Scaling and Evolution (CS&E)
+6539
+CS&E
+CS&E
+Future
+C209
+9/30/2026
+84
+-
+$
+-
+$
+-
+$
+12,442,712
+$
+-
+$
+12,442,712
+$
+Continued Scaling and Evolution (CS&E)
+6539
+CS&E
+CS&E
+Future
+C209
+3/31/2027
+84
+-
+$
+-
+$
+-
+$
+12,442,712
+$
+-
+$
+12,442,712
+$
+Continued Scaling and Evolution (CS&E)
+6539
+CS&E
+CS&E
+Future
+C209
+3/31/2028
+84
+-
+$
+-
+$
+-
+$
+-
+$
+12,815,994
+$
+12,815,994
+$
+Continued Scaling and Evolution (CS&E)
+6539
+CS&E
+CS&E
+Future
+C209
+9/30/2027
+84
+-
+$
+-
+$
+-
+$
+-
+$
+12,815,994
+$
+12,815,994
+$
+Cris to CSS Conversion (C2C)
+6434
+C 2 C
+Customer
+Inflight
+C343
+3/31/2025
+84
+-
+$
+12,830,000
+$
+-
+$
+-
+$
+-
+$
+12,830,000
+$
+Cris to CSS Conversion (C2C)
+6434
+C 2 C
+Customer
+Inflight
+C343
+5/31/2024
+84
+48,062,510
+$
+-
+$
+-
+$
+-
+$
+-
+$
+48,062,510
+$
+Cris to CSS Conversion (C2C) - Enhancements
+6434
+CIS
+Customer
+Future
+C903
+3/31/2025
+84
+-
+$
+6,250,000
+$
+-
+$
+-
+$
+-
+$
+6,250,000
+$
+Cris to CSS Conversion (C2C) - Enhancements
+6434
+CIS
+Customer
+Future
+C903
+3/31/2026
+84
+-
+$
+-
+$
+16,060,000
+$
+-
+$
+-
+$
+16,060,000
+$
+Cris to CSS Conversion (C2C) - Enhancements
+6434
+CIS
+Customer
+Future
+C903
+3/31/2027
+84
+-
+$
+-
+$
+-
+$
+17,280,000
+$
+-
+$
+17,280,000
+$
+AIMS Enterprise Solution
+6302/6531
+Core IT
+Customer
+Future
+C903
+3/31/2026
+84
+-
+$
+-
+$
+3,590,000
+$
+-
+$
+-
+$
+3,590,000
+$
+AIMS Enterprise Solution
+6302/6531
+Core IT
+Customer
+Future
+C903
+3/31/2027
+84
+-
+$
+-
+$
+-
+$
+4,200,000
+$
+-
+$
+4,200,000
+$
+AIMS Enterprise Solution
+6302/6531
+Core IT
+Customer
+Future
+C903
+3/31/2028
+84
+-
+$
+-
+$
+-
+$
+-
+$
+4,200,000
+$
+4,200,000
+$
+AIMS Enterprise Solution
+6302/6531
+Core IT
+Customer
+Future
+C903
+3/31/2024
+84
+8,500,000
+$
+-
+$
+-
+$
+-
+$
+-
+$
+8,500,000
+$
+AIMS Enterprise Solution
+6302/6531
+Core IT
+Customer
+Future
+C903
+3/31/2025
+84
+-
+$
+9,200,000
+$
+-
+$
+-
+$
+-
+$
+9,200,000
+$
+Customer Data Platform (CDP)
+6349
+Core IT
+Customer
+Future
+G911
+3/31/2024
+84
+5,000,000
+$
+-
+$
+-
+$
+-
+$
+-
+$
+5,000,000
+$
+Customer Data Platform (CDP)
+6349
+Core IT
+Customer
+Future
+G911
+3/31/2025
+84
+-
+$
+5,320,000
+$
+-
+$
+-
+$
+-
+$
+5,320,000
+$
+Customer Data Platform (CDP)
+6349
+Core IT
+Customer
+Future
+G911
+3/31/2026
+84
+-
+$
+-
+$
+5,630,000
+$
+-
+$
+-
+$
+5,630,000
+$
+Customer Data Platform (CDP)
+6349
+Core IT
+Customer
+Future
+G911
+3/31/2027
+84
+-
+$
+-
+$
+-
+$
+5,960,000
+$
+-
+$
+5,960,000
+$
+Customer Data Platform (CDP)
+6349
+Core IT
+Customer
+Future
+G911
+3/31/2028
+84
+-
+$
+-
+$
+-
+$
+-
+$
+5,960,000
+$
+5,960,000
+$
+Customer System Mandates
+TBD
+Core IT
+Customer
+Future
+C903
+3/31/2024
+84
+2,978,000
+$
+-
+$
+-
+$
+-
+$
+-
+$
+2,978,000
+$
+Customer System Mandates
+TBD
+Core IT
+Customer
+Future
+C903
+3/31/2025
+84
+-
+$
+2,830,500
+$
+-
+$
+-
+$
+-
+$
+2,830,500
+$
+Customer System Mandates
+TBD
+Core IT
+Customer
+Future
+C903
+3/31/2026
+84
+-
+$
+-
+$
+2,788,500
+$
+-
+$
+-
+$
+2,788,500
+$
+Customer System Mandates
+TBD
+Core IT
+Customer
+Future
+C903
+3/31/2027
+84
+-
+$
+-
+$
+-
+$
+2,695,500
+$
+-
+$
+2,695,500
+$
+Customer System Mandates
+TBD
+Core IT
+Customer
+Future
+C903
+3/31/2028
+84
+-
+$
+-
+$
+-
+$
+-
+$
+2,695,500
+$
+2,695,500
+$
+Customer System Mandates
+TBD
+Core IT
+Customer
+Future
+C903
+3/31/2024
+84
+11,912,000
+$
+-
+$
+-
+$
+-
+$
+-
+$
+11,912,000
+$
+Customer System Mandates
+TBD
+Core IT
+Customer
+Future
+C903
+3/31/2025
+84
+-
+$
+15,850,800
+$
+-
+$
+-
+$
+-
+$
+15,850,800
+$
+Customer System Mandates
+TBD
+Core IT
+Customer
+Future
+C903
+3/31/2026
+84
+-
+$
+-
+$
+15,615,600
+$
+-
+$
+-
+$
+15,615,600
+$
+Customer System Mandates
+TBD
+Core IT
+Customer
+Future
+C903
+3/31/2027
+84
+-
+$
+-
+$
+-
+$
+15,094,800
+$
+-
+$
+15,094,800
+$
+Customer System Mandates
+TBD
+Core IT
+Customer
+Future
+C903
+3/31/2028
+84
+-
+$
+-
+$
+-
+$
+-
+$
+15,094,800
+$
+15,094,800
+$
+My Business Account Portal (MBA)
+5673
+Core IT
+Customer
+Future
+C903
+3/31/2026
+84
+-
+$
+-
+$
+2,000,000
+$
+-
+$
+-
+$
+2,000,000
+$
+My Business Account Portal (MBA)
+5673
+Core IT
+Customer
+Future
+C903
+3/31/2027
+84
+-
+$
+-
+$
+-
+$
+1,990,000
+$
+-
+$
+1,990,000
+$
+My Business Account Portal (MBA)
+5673
+Core IT
+Customer
+Future
+C903
+3/31/2028
+84
+-
+$
+-
+$
+-
+$
+-
+$
+1,990,000
+$
+1,990,000
+$
+Unified Web Portal (UWP)
+6584
+Core IT
+Customer
+Future
+C903
+3/31/2024
+84
+10,290,000
+$
+-
+$
+-
+$
+-
+$
+-
+$
+10,290,000
+$
+Unified Web Portal (UWP)
+6584
+Core IT
+Customer
+Future
+C903
+3/31/2025
+84
+-
+$
+4,860,000
+$
+-
+$
+-
+$
+-
+$
+4,860,000
+$
+Unified Web Portal (UWP)
+6584
+Core IT
+Customer
+Future
+C903
+3/31/2026
+84
+-
+$
+-
+$
+4,550,000
+$
+-
+$
+-
+$
+4,550,000
+$
+Unified Web Portal (UWP)
+6584
+Core IT
+Customer
+Future
+C903
+3/31/2027
+84
+-
+$
+-
+$
+-
+$
+5,300,000
+$
+-
+$
+5,300,000
+$
+Unified Web Portal (UWP)
+6584
+Core IT
+Customer
+Future
+C903
+3/31/2028
+84
+-
+$
+-
+$
+-
+$
+-
+$
+5,300,000
+$
+5,300,000
+$
+Technical Debt-Customer Ecosystem Stabilization
+5778
+Core IT
+Customer
+Future
+GT53
+3/31/2024
+84
+6,200,000
+$
+-
+$
+-
+$
+-
+$
+-
+$
+6,200,000
+$
+Technical Debt-Customer Ecosystem Stabilization
+5778
+Core IT
+Customer
+Future
+GT53
+3/31/2025
+84
+-
+$
+8,000,000
+$
+-
+$
+-
+$
+-
+$
+8,000,000
+$
+Customer Data Platform (CDP)
+90000221820
+6349
+Core IT
+Customer
+Inflight
+G911
+3/31/2023
+84
+11,592,296
+$
+-
+$
+-
+$
+-
+$
+-
+$
+11,592,296
+$
+INVP 5345B Bill Print Implementation
+90000208193
+5345B
+Core IT
+Customer
+Inflight
+C434
+1/21/2023
+84
+3,525,104
+$
+-
+$
+-
+$
+-
+$
+-
+$
+3,525,104
+$
+INVP 6032 Cust Bill COVID Transition
+90000213607
+6032
+Core IT
+Customer
+Inflight
+C903
+3/31/2023
+84
+612,967
+$
+-
+$
+-
+$
+-
+$
+-
+$
+612,967
+$
+INVP 6302 2022 AIMS Baseline
+90000226581
+6302
+Core IT
+Customer
+Inflight
+C903
+2/9/2023
+84
+707,927
+$
+-
+$
+-
+$
+-
+$
+-
+$
+707,927
+$
+INVP 6492 NACHA Compliance, Security, and Encryption
+90000227834
+6492
+Core IT
+Customer
+Inflight
+C903
+3/31/2023
+84
+1,363,159
+$
+-
+$
+-
+$
+-
+$
+-
+$
+1,363,159
+$
+INVP 6496 NY Gender Pronoun and Name Mandate
+90000227836
+6496
+Core IT
+Customer
+Inflight
+C170
+1/13/2023
+84
+1,382,339
+$
+-
+$
+-
+$
+-
+$
+-
+$
+1,382,339
+$
+INVP 6584 UWP 2.0 Digital Re Architecture and Optimization
+90000231717
+6584
+Core IT
+Customer
+Inflight
+C903
+2/9/2023
+84
+10,429,376
+$
+-
+$
+-
+$
+-
+$
+-
+$
+10,429,376
+$
+My Business Account Portal (MBA)
+90000219539
+5673
+Core IT
+Customer
+Inflight
+C903
+3/31/2025
+84
+8,320,774
+$
+2,307,587
+$
+-
+$
+-
+$
+-
+$
+10,628,361
+$
+INVP 5778 Customer Ecosystem (Tech Debt)
+90000221825
+5778
+Core IT
+Customer
+Inflight
+C903
+2/28/2024
+84
+70,324
+$
+-
+$
+-
+$
+-
+$
+-
+$
+70,324
+$
+INVP 5778 Customer Ecosystem (Tech Debt)
+90000221827
+5778
+Core IT
+Customer
+Inflight
+C903
+2/28/2023
+84
+1,129,271
+$
+-
+$
+-
+$
+-
+$
+-
+$
+1,129,271
+$
+INVP 5778 Customer Ecosystem (Tech Debt)
+90000221826
+5778
+Core IT
+Customer
+Inflight
+C903
+3/31/2025
+84
+100,911
+$
+-
+$
+-
+$
+-
+$
+-
+$
+100,911
+$
+INVP 6531 AIMS Upgrades and Enhancements (Tech Debt)
+90000228700
+6531
+Core IT
+Customer
+Inflight
+C903
+3/31/2023
+84
+1,432,662
+$
+-
+$
+-
+$
+-
+$
+-
+$
+1,432,662
+$
+INVP 5125 Customer Connection (Mandates)
+90000229335
+5125
+Core IT
+Customer
+Inflight
+C903
+3/31/2023
+84
+3,696,768
+$
+-
+$
+-
+$
+-
+$
+-
+$
+3,696,768
+$
+Automate Manual Work - Customer Experience
+90000226494
+6606
+Customer Experience
+Customer
+Inflight
+G903
+3/31/2023
+84
+4,767,700
+$
+-
+$
+-
+$
+-
+$
+-
+$
+4,767,700
+$
+Automate Manual Work - Customer Experience
+90000226494
+6606
+Customer Experience
+Customer
+Inflight
+G903
+3/31/2024
+84
+2,400,000
+$
+-
+$
+-
+$
+-
+$
+2,400,000
+$
+Automate Manual Work - Customer Experience
+90000226494
+6606
+Customer Experience
+Customer
+Inflight
+G903
+3/31/2025
+84
+-
+$
+1,300,000
+$
+-
+$
+-
+$
+-
+$
+1,300,000
+$
+Eliminate Calls with Self Service - Customer Experience
+Multiple
+6606
+Customer Experience
+Customer
+Inflight
+G903
+3/31/2023
+84
+21,226,400
+$
+-
+$
+-
+$
+-
+$
+-
+$
+21,226,400
+$
+Eliminate Calls with Self Service - Customer Experience
+Multiple
+6606
+Customer Experience
+Customer
+Inflight
+G903
+3/31/2024
+84
+19,800,000
+$
+-
+$
+-
+$
+-
+$
+-
+$
+19,800,000
+$
+Eliminate Calls with Self Service - Customer Experience
+Multiple
+6606
+Customer Experience
+Customer
+Inflight
+G903
+3/31/2025
+84
+-
+$
+4,600,000
+$
+-
+$
+-
+$
+-
+$
+4,600,000
+$
+Eliminate Failure Driven Demand - Customer Experience
+90000226488
+6606
+Customer Experience
+Customer
+Inflight
+G903
+3/31/2023
+84
+1,317,100
+$
+-
+$
+-
+$
+-
+$
+-
+$
+1,317,100
+$
+Eliminate Failure Driven Demand - Customer Experience
+90000226488
+6606
+Customer Experience
+Customer
+Inflight
+G903
+3/31/2024
+84
+200,000
+$
+-
+$
+-
+$
+-
+$
+-
+$
+200,000
+$
+Eliminate Failure Driven Demand - Customer Experience
+90000226488
+6606
+Customer Experience
+Customer
+Inflight
+G903
+3/31/2025
+84
+-
+$
+100,000
+$
+-
+$
+-
+$
+-
+$
+100,000
+$
+Minimize Average Handling Time - Customer Experience
+90000226486
+6606
+Customer Experience
+Customer
+Inflight
+G903
+3/31/2023
+84
+1,813,700
+$
+-
+$
+-
+$
+-
+$
+-
+$
+1,813,700
+$
+Minimize Average Handling Time - Customer Experience
+90000226486
+6606
+Customer Experience
+Customer
+Inflight
+G903
+3/31/2024
+84
+900,000
+$
+-
+$
+-
+$
+-
+$
+-
+$
+900,000
+$
+Minimize Average Handling Time - Customer Experience
+90000226486
+6606
+Customer Experience
+Customer
+Inflight
+G903
+3/31/2025
+84
+-
+$
+500,000
+$
+-
+$
+-
+$
+-
+$
+500,000
+$
+Optimize BO Processes and Capacity - Customer Experience
+90000226496
+6606
+Customer Experience
+Customer
+Inflight
+G903
+3/31/2023
+84
+729,000
+$
+-
+$
+-
+$
+-
+$
+-
+$
+729,000
+$
+Optimize FO Service Delivery Model - Customer Experience
+90000226383
+6606
+Customer Experience
+Customer
+Inflight
+G903
+3/31/2023
+84
+936,400
+$
+-
+$
+-
+$
+-
+$
+-
+$
+936,400
+$
+Paperless/Drive e-bill Adoption - Customer Experience
+90000226499
+6606
+Customer Experience
+Customer
+Inflight
+G903
+3/31/2023
+84
+1,150,800
+$
+-
+$
+-
+$
+-
+$
+-
+$
+1,150,800
+$
+Clean Energy Platform
+TBD
+Energy Efficiency
+Customer
+Future
+C903
+3/31/2025
+84
+-
+$
+2,380,000
+$
+-
+$
+-
+$
+-
+$
+2,380,000
+$
+Clean Energy Platform
+TBD
+Energy Efficiency
+Customer
+Future
+C903
+3/31/2026
+84
+-
+$
+-
+$
+2,292,000
+$
+-
+$
+-
+$
+2,292,000
+$
+Clean Energy Platform
+TBD
+Energy Efficiency
+Customer
+Future
+C903
+3/31/2027
+84
+-
+$
+-
+$
+-
+$
+2,222,000
+$
+-
+$
+2,222,000
+$
+Clean Energy Platform
+TBD
+Energy Efficiency
+Customer
+Future
+C903
+3/31/2028
+84
+-
+$
+-
+$
+-
+$
+-
+$
+2,222,000
+$
+2,222,000
+$
+Clean Energy Platform
+TBD
+Energy Efficiency
+Customer
+Future
+C903
+3/31/2024
+84
+2,296,000
+$
+-
+$
+-
+$
+-
+$
+-
+$
+2,296,000
+$
+Clean Energy Platform
+TBD
+Energy Efficiency
+Customer
+Future
+C903
+3/31/2024
+84
+9,184,000
+$
+-
+$
+-
+$
+-
+$
+-
+$
+9,184,000
+$
+Clean Energy Platform
+TBD
+Energy Efficiency
+Customer
+Future
+C903
+3/31/2025
+84
+-
+$
+9,520,000
+$
+-
+$
+-
+$
+-
+$
+9,520,000
+$
+Clean Energy Platform
+TBD
+Energy Efficiency
+Customer
+Future
+C903
+3/31/2026
+84
+-
+$
+-
+$
+9,168,000
+$
+-
+$
+-
+$
+9,168,000
+$
+Clean Energy Platform
+TBD
+Energy Efficiency
+Customer
+Future
+C903
+3/31/2027
+84
+-
+$
+-
+$
+-
+$
+8,888,000
+$
+-
+$
+8,888,000
+$
+Clean Energy Platform
+TBD
+Energy Efficiency
+Customer
+Future
+C903
+3/31/2028
+84
+-
+$
+-
+$
+-
+$
+-
+$
+8,888,000
+$
+8,888,000
+$
+Green Button Connect
+TBD
+Energy Efficiency
+Customer
+Future
+C209
+3/31/2024
+84
+1,230,000
+$
+-
+$
+-
+$
+-
+$
+-
+$
+1,230,000
+$
+Green Button Connect
+TBD
+Energy Efficiency
+Customer
+Future
+C209
+3/31/2025
+84
+-
+$
+330,000
+$
+-
+$
+-
+$
+-
+$
+330,000
+$
+Green Button Connect
+TBD
+Energy Efficiency
+Customer
+Future
+C209
+3/31/2026
+84
+-
+$
+-
+$
+330,000
+$
+-
+$
+-
+$
+330,000
+$
+Green Button Connect
+TBD
+Energy Efficiency
+Customer
+Future
+C209
+3/31/2027
+84
+-
+$
+-
+$
+-
+$
+330,000
+$
+-
+$
+330,000
+$
+Green Button Connect
+TBD
+Energy Efficiency
+Customer
+Future
+C209
+3/31/2028
+84
+-
+$
+-
+$
+-
+$
+-
+$
+330,000
+$
+330,000
+$
+DPIT Networks
+6486
+Core IT
+DPIT
+Future
+GT53
+10/1/2027
+60
+-
+$
+-
+$
+-
+$
+-
+$
+8,570,000
+$
+8,570,000
+$
+DPIT Networks
+6486
+Core IT
+DPIT
+Future
+GT53
+3/1/2028
+60
+-
+$
+-
+$
+-
+$
+-
+$
+8,570,000
+$
+8,570,000
+$
+DPIT Operations
+6485
+Core IT
+DPIT
+Future
+GT53
+10/1/2027
+84
+-
+$
+-
+$
+-
+$
+-
+$
+2,250,000
+$
+2,250,000
+$
+DPIT Operations
+6485
+Core IT
+DPIT
+Future
+GT53
+3/1/2028
+84
+-
+$
+-
+$
+-
+$
+-
+$
+2,250,000
+$
+2,250,000
+$
+GridStack & Digital Platforms
+6565
+Core IT
+DPIT
+Future
+GT53
+10/1/2027
+84
+-
+$
+-
+$
+-
+$
+-
+$
+7,200,000
+$
+7,200,000
+$
+GridStack & Digital Platforms
+6565
+Core IT
+DPIT
+Future
+GT53
+3/1/2028
+84
+-
+$
+-
+$
+-
+$
+-
+$
+7,200,000
+$
+7,200,000
+$
+KEDNY/KEDLI
+ITDP-4 In-flight & Forecasted Information Technology & Digital Projects
+Exhibit____(ITDP-4)
+Page 1 of 5
+
+
+--- Page 60 ---
+US Digital Workplace Services
+6487
+Core IT
+DPIT
+Future
+GT53
+10/1/2027
+84
+-
+$
+-
+$
+-
+$
+-
+$
+10,750,000
+$
+10,750,000
+$
+US Digital Workplace Services
+6487
+Core IT
+DPIT
+Future
+GT53
+3/1/2028
+84
+-
+$
+-
+$
+-
+$
+-
+$
+10,750,000
+$
+10,750,000
+$
+DPIT US Critical Network Infrastructure
+6488
+Core IT
+DPIT
+Future
+GT53
+10/1/2027
+60
+-
+$
+-
+$
+-
+$
+-
+$
+1,650,000
+$
+1,650,000
+$
+DPIT US Critical Network Infrastructure
+6488
+Core IT
+DPIT
+Future
+GT53
+3/1/2028
+60
+-
+$
+-
+$
+-
+$
+-
+$
+1,650,000
+$
+1,650,000
+$
+I&O US Cloud & Hosting
+6489
+Core IT
+DPIT
+Future
+GT53
+10/1/2027
+60
+-
+$
+-
+$
+-
+$
+-
+$
+5,250,000
+$
+5,250,000
+$
+I&O US Cloud & Hosting
+6489
+Core IT
+DPIT
+Future
+GT53
+3/1/2028
+60
+-
+$
+-
+$
+-
+$
+-
+$
+5,250,000
+$
+5,250,000
+$
+US Ehub
+6587US
+Core IT
+DPIT
+Future
+GT53
+3/1/2028
+84
+-
+$
+-
+$
+-
+$
+-
+$
+2,200,000
+$
+2,200,000
+$
+DPIT Networks
+90000227376
+6486
+Core IT
+DPIT
+Inflight
+GT53
+4/1/2023
+84
+111,929
+$
+-
+$
+-
+$
+-
+$
+-
+$
+111,929
+$
+DPIT Networks
+90000232539
+6486
+Core IT
+DPIT
+Inflight
+GT53
+3/19/2023
+60
+1,485,016
+$
+-
+$
+-
+$
+-
+$
+-
+$
+1,485,016
+$
+DPIT Networks
+90000232540
+6486
+Core IT
+DPIT
+Inflight
+GT53
+3/19/2023
+60
+2,783,049
+$
+-
+$
+-
+$
+-
+$
+-
+$
+2,783,049
+$
+DPIT Networks
+90000232541
+6486
+Core IT
+DPIT
+Inflight
+GT53
+3/19/2023
+60
+2,917,359
+$
+-
+$
+-
+$
+-
+$
+-
+$
+2,917,359
+$
+DPIT Networks
+90000232542
+6486
+Core IT
+DPIT
+Inflight
+GT53
+3/19/2023
+60
+2,635,666
+$
+-
+$
+-
+$
+-
+$
+-
+$
+2,635,666
+$
+DPIT Networks
+6682
+Core IT
+DPIT
+Inflight
+GT53
+10/1/2023
+60
+6,012,000
+$
+-
+$
+-
+$
+-
+$
+-
+$
+6,012,000
+$
+DPIT Networks
+6682
+Core IT
+DPIT
+Inflight
+GT53
+3/1/2024
+60
+6,012,000
+$
+-
+$
+-
+$
+-
+$
+-
+$
+6,012,000
+$
+DPIT Networks
+6682
+Core IT
+DPIT
+Inflight
+GT53
+10/1/2024
+60
+-
+$
+8,750,526
+$
+-
+$
+-
+$
+-
+$
+8,750,526
+$
+DPIT Networks
+6682
+Core IT
+DPIT
+Inflight
+GT53
+3/1/2025
+60
+-
+$
+8,750,526
+$
+-
+$
+-
+$
+-
+$
+8,750,526
+$
+DPIT Networks
+6682
+Core IT
+DPIT
+Inflight
+GT53
+10/1/2025
+60
+-
+$
+-
+$
+8,772,283
+$
+-
+$
+-
+$
+8,772,283
+$
+DPIT Networks
+6682
+Core IT
+DPIT
+Inflight
+GT53
+3/1/2026
+60
+-
+$
+-
+$
+8,772,283
+$
+-
+$
+-
+$
+8,772,283
+$
+DPIT Networks
+6682
+Core IT
+DPIT
+Inflight
+GT53
+10/1/2026
+60
+-
+$
+-
+$
+-
+$
+8,674,863
+$
+-
+$
+8,674,863
+$
+DPIT Networks
+6682
+Core IT
+DPIT
+Inflight
+GT53
+3/1/2027
+60
+-
+$
+-
+$
+-
+$
+8,674,863
+$
+-
+$
+8,674,863
+$
+DPIT Operations
+90000227381
+6485
+Core IT
+DPIT
+Inflight
+GT53
+3/29/2023
+84
+1,508,286
+$
+-
+$
+-
+$
+-
+$
+-
+$
+1,508,286
+$
+DPIT Operations
+90000227383
+6485
+Core IT
+DPIT
+Inflight
+GT53
+3/29/2023
+84
+2,340,530
+$
+-
+$
+-
+$
+-
+$
+-
+$
+2,340,530
+$
+DPIT Operations
+90000232499
+6485
+Core IT
+DPIT
+Inflight
+GT53
+3/29/2023
+84
+3,684,733
+$
+-
+$
+-
+$
+-
+$
+-
+$
+3,684,733
+$
+DPIT Operations
+6683US
+Core IT
+DPIT
+Inflight
+GT53
+10/1/2023
+84
+1,775,000
+$
+-
+$
+-
+$
+-
+$
+-
+$
+1,775,000
+$
+DPIT Operations
+6683US
+Core IT
+DPIT
+Inflight
+GT53
+3/1/2024
+84
+1,775,000
+$
+-
+$
+-
+$
+-
+$
+-
+$
+1,775,000
+$
+DPIT Operations
+6683US
+Core IT
+DPIT
+Inflight
+GT53
+10/1/2024
+84
+-
+$
+2,809,535
+$
+-
+$
+-
+$
+-
+$
+2,809,535
+$
+DPIT Operations
+6683US
+Core IT
+DPIT
+Inflight
+GT53
+3/1/2025
+84
+-
+$
+2,809,535
+$
+-
+$
+-
+$
+-
+$
+2,809,535
+$
+DPIT Operations
+6683US
+Core IT
+DPIT
+Inflight
+GT53
+10/1/2025
+84
+-
+$
+-
+$
+2,478,202
+$
+-
+$
+-
+$
+2,478,202
+$
+DPIT Operations
+6683US
+Core IT
+DPIT
+Inflight
+GT53
+3/1/2026
+84
+-
+$
+-
+$
+2,478,202
+$
+-
+$
+-
+$
+2,478,202
+$
+DPIT Operations
+6683US
+Core IT
+DPIT
+Inflight
+GT53
+10/1/2026
+84
+-
+$
+-
+$
+-
+$
+2,486,343
+$
+-
+$
+2,486,343
+$
+DPIT Operations
+6683US
+Core IT
+DPIT
+Inflight
+GT53
+3/1/2027
+84
+-
+$
+-
+$
+-
+$
+2,486,343
+$
+-
+$
+2,486,343
+$
+GridStack & Digital Platforms (6529-6565 both rolled up)
+90000229719
+6565
+Core IT
+DPIT
+Inflight
+GT53
+3/29/2023
+84
+1,757,067
+$
+-
+$
+-
+$
+-
+$
+-
+$
+1,757,067
+$
+GridStack & Digital Platforms (6529-6565 both rolled up)
+6678US
+Core IT
+DPIT
+Inflight
+GT53
+10/1/2023
+84
+5,785,508
+$
+-
+$
+-
+$
+-
+$
+-
+$
+5,785,508
+$
+GridStack & Digital Platforms (6529-6565 both rolled up)
+6678US
+Core IT
+DPIT
+Inflight
+GT53
+3/1/2024
+84
+5,260,000
+$
+-
+$
+-
+$
+-
+$
+-
+$
+5,260,000
+$
+GridStack & Digital Platforms (6529-6565 both rolled up)
+6678US
+Core IT
+DPIT
+Inflight
+GT53
+10/1/2024
+84
+-
+$
+7,004,660
+$
+-
+$
+-
+$
+-
+$
+7,004,660
+$
+GridStack & Digital Platforms (6529-6565 both rolled up)
+6678US
+Core IT
+DPIT
+Inflight
+GT53
+3/1/2025
+84
+-
+$
+7,004,660
+$
+-
+$
+-
+$
+-
+$
+7,004,660
+$
+GridStack & Digital Platforms (6529-6565 both rolled up)
+6678US
+Core IT
+DPIT
+Inflight
+GT53
+10/1/2025
+84
+-
+$
+-
+$
+7,024,212
+$
+-
+$
+-
+$
+7,024,212
+$
+GridStack & Digital Platforms (6529-6565 both rolled up)
+6678US
+Core IT
+DPIT
+Inflight
+GT53
+3/1/2026
+84
+-
+$
+-
+$
+7,024,212
+$
+-
+$
+-
+$
+7,024,212
+$
+GridStack & Digital Platforms (6529-6565 both rolled up)
+6678US
+Core IT
+DPIT
+Inflight
+GT53
+10/1/2026
+84
+-
+$
+-
+$
+-
+$
+7,223,577
+$
+-
+$
+7,223,577
+$
+GridStack & Digital Platforms (6529-6565 both rolled up)
+6678US
+Core IT
+DPIT
+Inflight
+GT53
+3/1/2027
+84
+-
+$
+-
+$
+-
+$
+7,223,577
+$
+-
+$
+7,223,577
+$
+INVP 6223 I&O US Data Center Transformation
+90000219982
+6223
+Core IT
+DPIT
+Inflight
+GT53
+4/1/2024
+84
+2,689,838
+$
+-
+$
+-
+$
+-
+$
+-
+$
+2,689,838
+$
+INVP 6223 I&O US Data Center Transformation
+90000220372
+6223
+Core IT
+DPIT
+Inflight
+GT53
+4/1/2024
+84
+2,619,224
+$
+-
+$
+-
+$
+-
+$
+-
+$
+2,619,224
+$
+INVP 6223 I&O US Data Center Transformation
+90000220374
+6223
+Core IT
+DPIT
+Inflight
+GT53
+4/1/2024
+84
+10,541,433
+$
+-
+$
+-
+$
+-
+$
+-
+$
+10,541,433
+$
+INVP 6223 I&O US Data Center Transformation
+90000220375
+6223
+Core IT
+DPIT
+Inflight
+GT53
+3/29/2023
+84
+12,238,309
+$
+-
+$
+-
+$
+-
+$
+-
+$
+12,238,309
+$
+INVP 6223 I&O US Data Center Transformation
+90000220376
+6223
+Core IT
+DPIT
+Inflight
+GT53
+4/1/2024
+84
+11,939,814
+$
+-
+$
+-
+$
+-
+$
+-
+$
+11,939,814
+$
+INVP 6223 I&O US Data Center Transformation
+6223
+Core IT
+DPIT
+Inflight
+GT53
+3/1/2024
+60
+12,325,688
+$
+-
+$
+-
+$
+-
+$
+-
+$
+12,325,688
+$
+INVP 6485 I&O US Operations
+90000227382
+6485
+Core IT
+DPIT
+Inflight
+GT53
+3/29/2023
+84
+278,009
+$
+-
+$
+-
+$
+-
+$
+-
+$
+278,009
+$
+INVP 6485 I&O US Operations
+90000227384
+6485
+Core IT
+DPIT
+Inflight
+GT53
+3/29/2023
+84
+42,380
+$
+-
+$
+-
+$
+-
+$
+-
+$
+42,380
+$
+INVP 6486 I&O US Networks
+90000227378
+6486
+Core IT
+DPIT
+Inflight
+GT53
+3/31/2023
+84
+713,954
+$
+-
+$
+-
+$
+-
+$
+-
+$
+713,954
+$
+INVP 6486 I&O US Networks
+90000227379
+6486
+Core IT
+DPIT
+Inflight
+GT53
+3/31/2023
+84
+(991,042)
+$
+-
+$
+-
+$
+-
+$
+-
+$
+(991,042)
+$
+INVP 6486 I&O US Networks
+90000227380
+6486
+Core IT
+DPIT
+Inflight
+GT53
+3/31/2023
+84
+291,830
+$
+-
+$
+-
+$
+-
+$
+-
+$
+291,830
+$
+INVP 6487 I&O US Digital Workplace Services
+90000232503
+6487
+Core IT
+DPIT
+Inflight
+GT53
+3/29/2023
+84
+3,889,033
+$
+-
+$
+-
+$
+-
+$
+-
+$
+3,889,033
+$
+INVP 6489 I&O US Cloud and Hosting
+90000232495
+6489
+Core IT
+DPIT
+Inflight
+GT53
+3/19/2023
+84
+186,242
+$
+-
+$
+-
+$
+-
+$
+-
+$
+186,242
+$
+INVP 6519 GridStack Foundations
+90000227922
+6519
+Core IT
+DPIT
+Inflight
+GT53
+3/29/2023
+84
+290,095
+$
+-
+$
+-
+$
+-
+$
+-
+$
+290,095
+$
+INVP 6519 GridStack Foundations
+90000227924
+6519
+Core IT
+DPIT
+Inflight
+GT53
+3/29/2023
+84
+1,928,394
+$
+-
+$
+-
+$
+-
+$
+-
+$
+1,928,394
+$
+INVP 6519 GridStack Foundations
+90000227925
+6519
+Core IT
+DPIT
+Inflight
+GT53
+3/29/2023
+84
+3,278,842
+$
+-
+$
+-
+$
+-
+$
+-
+$
+3,278,842
+$
+INVP 6519 GridStack Foundations
+90000227923
+6519
+Core IT
+DPIT
+Inflight
+GT53
+3/29/2023
+84
+158,627
+$
+-
+$
+-
+$
+-
+$
+-
+$
+158,627
+$
+INVP 6519 GridStack Foundations
+90000232511
+6519
+Core IT
+DPIT
+Inflight
+GT53
+3/29/2023
+84
+513,309
+$
+-
+$
+-
+$
+-
+$
+-
+$
+513,309
+$
+INVP 6519 GridStack Foundations
+90000232510
+6519
+Core IT
+DPIT
+Inflight
+GT53
+3/29/2023
+84
+285,374
+$
+-
+$
+-
+$
+-
+$
+-
+$
+285,374
+$
+INVP 6519 GridStack Foundations
+90000232513
+6519
+Core IT
+DPIT
+Inflight
+GT53
+3/29/2023
+84
+478,069
+$
+-
+$
+-
+$
+-
+$
+-
+$
+478,069
+$
+INVP 6641 Service Now Upgrade
+90000232757
+6641
+Core IT
+DPIT
+Inflight
+GT53
+3/29/2023
+84
+1,626,033
+$
+-
+$
+-
+$
+-
+$
+-
+$
+1,626,033
+$
+INVP 6652 MicroStrategy Sunset
+90000232765
+6652
+Core IT
+DPIT
+Inflight
+GT53
+6/30/2023
+84
+2,190,595
+$
+-
+$
+-
+$
+-
+$
+-
+$
+2,190,595
+$
+US Digital Workplace Services
+90000227393
+6487
+Core IT
+DPIT
+Inflight
+GT53
+3/29/2023
+84
+432,876
+$
+-
+$
+-
+$
+-
+$
+-
+$
+432,876
+$
+US Digital Workplace Services
+90000227394
+6487
+Core IT
+DPIT
+Inflight
+GT53
+3/29/2023
+84
+1,182,475
+$
+-
+$
+-
+$
+-
+$
+-
+$
+1,182,475
+$
+US Digital Workplace Services
+90000232504
+6487
+Core IT
+DPIT
+Inflight
+GT53
+3/29/2023
+84
+602,724
+$
+-
+$
+-
+$
+-
+$
+-
+$
+602,724
+$
+US Digital Workplace Services
+90000232505
+6487
+Core IT
+DPIT
+Inflight
+GT53
+3/29/2023
+84
+5,004,961
+$
+-
+$
+-
+$
+-
+$
+-
+$
+5,004,961
+$
+US Digital Workplace Services
+6681US
+Core IT
+DPIT
+Inflight
+GT53
+10/1/2023
+84
+8,144,000
+$
+-
+$
+-
+$
+-
+$
+-
+$
+8,144,000
+$
+US Digital Workplace Services
+6681US
+Core IT
+DPIT
+Inflight
+GT53
+3/1/2024
+84
+8,144,000
+$
+-
+$
+-
+$
+-
+$
+-
+$
+8,144,000
+$
+US Digital Workplace Services
+6681US
+Core IT
+DPIT
+Inflight
+GT53
+10/1/2024
+84
+-
+$
+10,725,184
+$
+-
+$
+-
+$
+-
+$
+10,725,184
+$
+US Digital Workplace Services
+6681US
+Core IT
+DPIT
+Inflight
+GT53
+3/1/2025
+84
+-
+$
+10,725,184
+$
+-
+$
+-
+$
+-
+$
+10,725,184
+$
+US Digital Workplace Services
+6681US
+Core IT
+DPIT
+Inflight
+GT53
+10/1/2025
+84
+-
+$
+-
+$
+9,894,699
+$
+-
+$
+-
+$
+9,894,699
+$
+US Digital Workplace Services
+6681US
+Core IT
+DPIT
+Inflight
+GT53
+3/1/2026
+84
+-
+$
+-
+$
+9,894,699
+$
+-
+$
+-
+$
+9,894,699
+$
+US Digital Workplace Services
+6681US
+Core IT
+DPIT
+Inflight
+GT53
+10/1/2026
+84
+-
+$
+-
+$
+-
+$
+10,934,081
+$
+-
+$
+10,934,081
+$
+US Digital Workplace Services
+6681US
+Core IT
+DPIT
+Inflight
+GT53
+3/1/2027
+84
+-
+$
+-
+$
+-
+$
+10,934,081
+$
+-
+$
+10,934,081
+$
+DPIT US Critical Network Infrastructure
+90000227386
+6488
+Core IT
+DPIT
+Inflight
+GT53
+4/1/2023
+84
+1,339,190
+$
+-
+$
+-
+$
+-
+$
+-
+$
+1,339,190
+$
+DPIT US Critical Network Infrastructure
+90000227387
+6488
+Core IT
+DPIT
+Inflight
+GT53
+4/1/2023
+84
+837,858
+$
+-
+$
+-
+$
+-
+$
+-
+$
+837,858
+$
+DPIT US Critical Network Infrastructure
+90000227389
+6488
+Core IT
+DPIT
+Inflight
+GT53
+4/1/2023
+84
+439,153
+$
+-
+$
+-
+$
+-
+$
+-
+$
+439,153
+$
+DPIT US Critical Network Infrastructure
+6680US
+Core IT
+DPIT
+Inflight
+GT53
+10/1/2023
+60
+1,815,000
+$
+-
+$
+-
+$
+-
+$
+-
+$
+1,815,000
+$
+DPIT US Critical Network Infrastructure
+6680US
+Core IT
+DPIT
+Inflight
+GT53
+3/1/2024
+60
+1,815,000
+$
+-
+$
+-
+$
+-
+$
+-
+$
+1,815,000
+$
+DPIT US Critical Network Infrastructure
+6680US
+Core IT
+DPIT
+Inflight
+GT53
+10/1/2024
+60
+-
+$
+1,673,102
+$
+-
+$
+-
+$
+-
+$
+1,673,102
+$
+DPIT US Critical Network Infrastructure
+6680US
+Core IT
+DPIT
+Inflight
+GT53
+3/1/2025
+60
+-
+$
+1,673,102
+$
+-
+$
+-
+$
+-
+$
+1,673,102
+$
+DPIT US Critical Network Infrastructure
+6680US
+Core IT
+DPIT
+Inflight
+GT53
+10/1/2025
+60
+-
+$
+-
+$
+1,653,612
+$
+-
+$
+-
+$
+1,653,612
+$
+DPIT US Critical Network Infrastructure
+6680US
+Core IT
+DPIT
+Inflight
+GT53
+3/1/2026
+60
+-
+$
+-
+$
+1,653,612
+$
+-
+$
+-
+$
+1,653,612
+$
+DPIT US Critical Network Infrastructure
+6680US
+Core IT
+DPIT
+Inflight
+GT53
+10/1/2026
+60
+-
+$
+-
+$
+-
+$
+1,665,420
+$
+-
+$
+1,665,420
+$
+DPIT US Critical Network Infrastructure
+6680US
+Core IT
+DPIT
+Inflight
+GT53
+3/1/2027
+60
+-
+$
+-
+$
+-
+$
+1,665,420
+$
+-
+$
+1,665,420
+$
+I&O US Cloud & Hosting
+90000227399
+6489
+Core IT
+DPIT
+Inflight
+GT53
+4/1/2023
+84
+471,294
+$
+-
+$
+-
+$
+-
+$
+-
+$
+471,294
+$
+I&O US Cloud & Hosting
+90000232493
+6489
+Core IT
+DPIT
+Inflight
+GT53
+3/19/2023
+84
+1,756,619
+$
+-
+$
+-
+$
+-
+$
+-
+$
+1,756,619
+$
+I&O US Cloud & Hosting
+6679US
+Core IT
+DPIT
+Inflight
+GT53
+10/1/2023
+60
+2,215,000
+$
+-
+$
+-
+$
+-
+$
+-
+$
+2,215,000
+$
+I&O US Cloud & Hosting
+6679US
+Core IT
+DPIT
+Inflight
+GT53
+3/1/2024
+60
+2,215,000
+$
+-
+$
+-
+$
+-
+$
+-
+$
+2,215,000
+$
+I&O US Cloud & Hosting
+6679US
+Core IT
+DPIT
+Inflight
+GT53
+10/1/2024
+60
+-
+$
+5,622,099
+$
+-
+$
+-
+$
+-
+$
+5,622,099
+$
+I&O US Cloud & Hosting
+6679US
+Core IT
+DPIT
+Inflight
+GT53
+3/1/2025
+60
+-
+$
+5,622,099
+$
+-
+$
+-
+$
+-
+$
+5,622,099
+$
+I&O US Cloud & Hosting
+6679US
+Core IT
+DPIT
+Inflight
+GT53
+10/1/2025
+60
+-
+$
+-
+$
+5,348,209
+$
+-
+$
+-
+$
+5,348,209
+$
+I&O US Cloud & Hosting
+6679US
+Core IT
+DPIT
+Inflight
+GT53
+3/1/2026
+60
+-
+$
+-
+$
+5,348,209
+$
+-
+$
+-
+$
+5,348,209
+$
+I&O US Cloud & Hosting
+6679US
+Core IT
+DPIT
+Inflight
+GT53
+10/1/2026
+60
+-
+$
+-
+$
+-
+$
+5,382,282
+$
+-
+$
+5,382,282
+$
+I&O US Cloud & Hosting
+6679US
+Core IT
+DPIT
+Inflight
+GT53
+3/1/2027
+60
+-
+$
+-
+$
+-
+$
+5,382,282
+$
+-
+$
+5,382,282
+$
+INVP 6485 I&O US Ops Unified Technology Operations Center
+90000232501
+6485
+Core IT
+DPIT
+Inflight
+GT53
+3/29/2023
+84
+762,052
+$
+-
+$
+-
+$
+-
+$
+-
+$
+762,052
+$
+US Ehub
+90000231812
+6587US
+Core IT
+DPIT
+Inflight
+GT53
+6/1/2023
+84
+741,654
+$
+-
+$
+-
+$
+-
+$
+-
+$
+741,654
+$
+US Ehub
+6587US
+Core IT
+DPIT
+Inflight
+GT53
+3/1/2025
+84
+-
+$
+2,074,347
+$
+-
+$
+-
+$
+-
+$
+2,074,347
+$
+US Ehub
+6587US
+Core IT
+DPIT
+Inflight
+GT53
+3/1/2026
+84
+-
+$
+-
+$
+2,107,936
+$
+-
+$
+-
+$
+2,107,936
+$
+US Ehub
+6587US
+Core IT
+DPIT
+Inflight
+GT53
+3/1/2027
+84
+-
+$
+-
+$
+-
+$
+2,216,204
+$
+-
+$
+2,216,204
+$
+INVP 5891C Field Collection System
+90000221921
+5891C
+Core IT
+Electric
+Inflight
+C903
+1/31/2023
+84
+1,652,515
+$
+-
+$
+-
+$
+-
+$
+-
+$
+1,652,515
+$
+Exhibit____(ITDP-4)
+Page 2 of 5
+
+
+--- Page 61 ---
+Enterprise Scalability and Resilience (ESR)
+6671C
+Core IT
+Gas
+Future
+C209
+3/31/2024
+84
+1,320,000
+$
+-
+$
+-
+$
+-
+$
+-
+$
+1,320,000
+$
+Enterprise Scalability and Resilience (ESR)
+6671C
+Core IT
+Gas
+Future
+C209
+3/31/2025
+84
+-
+$
+1,295,715
+$
+-
+$
+-
+$
+-
+$
+1,295,715
+$
+Enterprise Scalability and Resilience (ESR)
+6671C
+Core IT
+Gas
+Future
+C209
+3/31/2026
+84
+-
+$
+-
+$
+1,364,232
+$
+-
+$
+-
+$
+1,364,232
+$
+Enterprise Scalability and Resilience (ESR)
+6671C
+Core IT
+Gas
+Future
+C209
+3/31/2027
+84
+-
+$
+-
+$
+-
+$
+1,366,153
+$
+-
+$
+1,366,153
+$
+Enterprise Scalability and Resilience (ESR)
+6671C
+Core IT
+Gas
+Future
+C209
+3/31/2028
+84
+-
+$
+-
+$
+-
+$
+-
+$
+1,407,000
+$
+1,407,000
+$
+Gas Application Continuous Improvement (GACI)
+6671B
+Core IT
+Gas
+Future
+C209
+3/31/2024
+84
+1,230,000
+$
+-
+$
+-
+$
+-
+$
+-
+$
+1,230,000
+$
+Gas Application Continuous Improvement (GACI)
+6671B
+Core IT
+Gas
+Future
+C209
+3/31/2025
+84
+-
+$
+1,223,758
+$
+-
+$
+-
+$
+-
+$
+1,223,758
+$
+Gas Application Continuous Improvement (GACI)
+6671B
+Core IT
+Gas
+Future
+C209
+3/31/2026
+84
+-
+$
+-
+$
+1,216,001
+$
+-
+$
+-
+$
+1,216,001
+$
+Gas Application Continuous Improvement (GACI)
+6671B
+Core IT
+Gas
+Future
+C209
+3/31/2027
+84
+-
+$
+-
+$
+-
+$
+1,220,273
+$
+-
+$
+1,220,273
+$
+Gas Application Continuous Improvement (GACI)
+6671B
+Core IT
+Gas
+Future
+C209
+3/31/2028
+84
+-
+$
+-
+$
+-
+$
+-
+$
+1,260,000
+$
+1,260,000
+$
+Gas Application Lifecycle Management (ALM) Application Rationalization
+6671a
+Core IT
+Gas
+Future
+C209
+3/31/2024
+84
+400,000
+$
+-
+$
+-
+$
+-
+$
+-
+$
+400,000
+$
+Gas Application Lifecycle Management (ALM) Application Rationalization
+6671a
+Core IT
+Gas
+Future
+C209
+3/31/2025
+84
+-
+$
+1,205,319
+$
+-
+$
+-
+$
+-
+$
+1,205,319
+$
+Gas Data Modernization
+6671d
+Core IT
+Gas
+Future
+C207
+3/31/2024
+84
+900,000
+$
+-
+$
+-
+$
+-
+$
+-
+$
+900,000
+$
+Gas Data Modernization
+6671d
+Core IT
+Gas
+Future
+5210E
+3/31/2024
+84
+600,000
+$
+-
+$
+-
+$
+-
+$
+-
+$
+600,000
+$
+Gas Data Modernization
+6671d
+Core IT
+Gas
+Future
+C207
+3/31/2025
+84
+-
+$
+1,000,000
+$
+-
+$
+-
+$
+-
+$
+1,000,000
+$
+Gas Data Modernization
+6671d
+Core IT
+Gas
+Future
+5210E
+3/31/2025
+84
+-
+$
+1,000,000
+$
+-
+$
+-
+$
+-
+$
+1,000,000
+$
+Gas Data Modernization
+6671d
+Core IT
+Gas
+Future
+G911
+3/31/2025
+84
+-
+$
+2,589,000
+$
+-
+$
+-
+$
+-
+$
+2,589,000
+$
+Gas Data Modernization
+6671d
+Core IT
+Gas
+Future
+G911
+3/31/2026
+84
+-
+$
+-
+$
+1,247,330
+$
+-
+$
+-
+$
+1,247,330
+$
+Gas Data Modernization
+6671d
+Core IT
+Gas
+Future
+G911
+3/31/2027
+84
+-
+$
+-
+$
+-
+$
+1,065,906
+$
+-
+$
+1,065,906
+$
+Gas Data Modernization
+6671d
+Core IT
+Gas
+Future
+G911
+3/31/2028
+84
+-
+$
+-
+$
+-
+$
+-
+$
+976,475
+$
+976,475
+$
+New System Operating Procedure (SOP) Solution
+6663a
+Core IT
+Gas
+Future
+C209
+3/31/2025
+84
+-
+$
+1,341,288
+$
+-
+$
+-
+$
+-
+$
+1,341,288
+$
+New System Operating Procedure (SOP) Solution
+6663a
+Core IT
+Gas
+Future
+C209
+3/31/2026
+84
+-
+$
+-
+$
+1,338,459
+$
+-
+$
+-
+$
+1,338,459
+$
+Remote Methane Detector
+6664F
+Core IT
+Gas
+Future
+C225
+3/31/2025
+84
+-
+$
+1,335,000
+$
+-
+$
+-
+$
+-
+$
+1,335,000
+$
+Digital Asset & Work Management for I&R and CNG
+6663C
+Core IT
+Gas
+Future
+C209
+3/31/2025
+84
+-
+$
+1,776,394
+$
+-
+$
+-
+$
+-
+$
+1,776,394
+$
+Digital Asset & Work Management for I&R and CNG
+6663C
+Core IT
+Gas
+Future
+C209
+3/31/2026
+84
+-
+$
+-
+$
+1,771,746
+$
+-
+$
+-
+$
+1,771,746
+$
+Digital Asset & Work Management for I&R and CNG
+6663C
+Core IT
+Gas
+Future
+C209
+3/31/2027
+84
+-
+$
+-
+$
+-
+$
+976,574
+$
+-
+$
+976,574
+$
+Asset & Work Management for LNG Enhancements
+6663D
+Core IT
+Gas
+Future
+C209
+3/31/2025
+84
+-
+$
+1,556,555
+$
+-
+$
+-
+$
+-
+$
+1,556,555
+$
+Asset & Work Management for LNG Enhancements
+6663D
+Core IT
+Gas
+Future
+C209
+3/31/2026
+84
+-
+$
+-
+$
+672,441
+$
+-
+$
+-
+$
+672,441
+$
+KEDLI-NY Gas Smart Meter Solution
+6664B
+Core IT
+Gas
+Future
+C225
+3/31/2025
+84
+-
+$
+854,846
+$
+-
+$
+-
+$
+-
+$
+854,846
+$
+KEDLI-NY Gas Smart Meter Solution
+6664B
+Core IT
+Gas
+Future
+C225
+3/31/2027
+84
+-
+$
+-
+$
+-
+$
+3,951,000
+$
+-
+$
+3,951,000
+$
+KEDLI-NY Gas Smart Meter Solution
+6664B
+Core IT
+Gas
+Future
+C225
+3/31/2029
+84
+-
+$
+-
+$
+-
+$
+-
+$
+3,959,537
+$
+3,959,537
+$
+Field Tablet Refresh
+6665a
+Core IT
+Gas
+Future
+C209
+3/31/2027
+60
+-
+$
+-
+$
+-
+$
+2,735,326
+$
+-
+$
+2,735,326
+$
+Field Tablet Refresh
+6665a
+Core IT
+Gas
+Future
+C209
+3/31/2028
+60
+-
+$
+-
+$
+-
+$
+-
+$
+2,735,326
+$
+2,735,326
+$
+FC300 Replacement Project
+6665B
+Core IT
+Gas
+Future
+C903
+3/31/2027
+24
+-
+$
+-
+$
+-
+$
+688,000
+$
+-
+$
+688,000
+$
+FC300 Replacement Project
+6665B
+Core IT
+Gas
+Future
+C903
+3/31/2028
+24
+-
+$
+-
+$
+-
+$
+-
+$
+692,345
+$
+692,345
+$
+Field Collection Systems (FCS) Upgrade (Gas Only)
+90000232846
+5785Q
+Core IT
+Gas
+Inflight
+C209
+6/2/2025
+84
+540,298
+$
+-
+$
+-
+$
+-
+$
+-
+$
+540,298
+$
+Field Collection Systems (FCS) Upgrade (Gas Only)
+5785Q
+Core IT
+Gas
+Inflight
+C903
+3/31/2024
+84
+500,000
+$
+-
+$
+-
+$
+-
+$
+-
+$
+500,000
+$
+INVP 6481 Pathfinder for Leak Survey
+90000226564
+6481
+Core IT
+Gas
+Inflight
+C310
+3/31/2023
+84
+7,722,496
+$
+-
+$
+-
+$
+-
+$
+-
+$
+7,722,496
+$
+Enterprise Platform for Gas Retail Choice
+90000225878
+5787D
+Core IT
+Gas
+Inflight
+C209
+3/31/2024
+84
+2,782,155
+$
+-
+$
+-
+$
+-
+$
+-
+$
+2,782,155
+$
+Enterprise Platform for Gas Retail Choice
+90000231107
+5787D
+Core IT
+Gas
+Inflight
+GT53
+3/31/2024
+84
+4,771
+$
+-
+$
+-
+$
+-
+$
+-
+$
+4,771
+$
+Enterprise Platform for Gas Retail Choice
+5787D
+Core IT
+Gas
+Inflight
+C209
+3/31/2024
+84
+5,984,278
+$
+-
+$
+-
+$
+-
+$
+-
+$
+5,984,278
+$
+Enterprise Platform for Gas Retail Choice
+5787D
+Core IT
+Gas
+Inflight
+C209
+3/31/2025
+84
+-
+$
+4,900,000
+$
+-
+$
+-
+$
+-
+$
+4,900,000
+$
+Enterprise Platform for Gas Retail Choice
+5787D
+Core IT
+Gas
+Inflight
+C209
+3/31/2026
+84
+-
+$
+-
+$
+3,000,000
+$
+-
+$
+-
+$
+3,000,000
+$
+Gas Application Continuous Improvement
+90000229951
+6582
+Core IT
+Gas
+Inflight
+C209
+4/1/2023
+84
+459,263
+$
+-
+$
+-
+$
+-
+$
+-
+$
+459,263
+$
+Gas Storm using RSV
+90000188931
+4769
+Core IT
+Gas
+Inflight
+G225
+2/28/2023
+84
+6,444,012
+$
+-
+$
+-
+$
+-
+$
+-
+$
+6,444,012
+$
+Asset Mgmt. LNG
+90000213858
+4898
+Core IT
+Gas
+Inflight
+G239
+3/19/2023
+84
+7,640,523
+$
+-
+$
+-
+$
+-
+$
+-
+$
+7,640,523
+$
+Scalability and Resilience for Enterprise Gas Platforms
+90000225214
+6441
+Core IT
+Gas
+Inflight
+C209
+1/30/2023
+84
+2,641,060
+$
+-
+$
+-
+$
+-
+$
+-
+$
+2,641,060
+$
+LNG OT Cybersecurity Remediation
+90000231339
+6479
+Core IT
+Gas
+Inflight
+G443
+3/31/2023
+84
+63,231
+$
+-
+$
+-
+$
+-
+$
+-
+$
+63,231
+$
+LNG OT Cybersecurity Remediation
+6479
+Core IT
+Gas
+Inflight
+G443
+3/31/2024
+84
+1,277,000
+$
+-
+$
+-
+$
+-
+$
+-
+$
+1,277,000
+$
+Gas Management System (SCADA) Upgrade
+6550
+Core IT
+Gas
+Inflight
+C209
+3/31/2024
+84
+17,453,478
+$
+-
+$
+-
+$
+-
+$
+-
+$
+17,453,478
+$
+Gas Management System (SCADA) Upgrade
+6550
+Core IT
+Gas
+Inflight
+C209
+3/31/2026
+84
+-
+$
+5,500,000
+$
+-
+$
+-
+$
+-
+$
+5,500,000
+$
+Gas Management System (SCADA) Upgrade
+6550
+Core IT
+Gas
+Inflight
+C209
+3/31/2027
+84
+-
+$
+-
+$
+2,700,000
+$
+-
+$
+-
+$
+2,700,000
+$
+Gas Management System (SCADA) Upgrade
+90000231109
+6550
+Core IT
+Gas
+Inflight
+C209
+3/31/2025
+84
+756,547
+$
+-
+$
+-
+$
+-
+$
+-
+$
+756,547
+$
+Gas Meter Management System
+90000232761
+6642
+Core IT
+Gas
+Inflight
+C209
+3/31/2023
+84
+5,409,770
+$
+-
+$
+-
+$
+-
+$
+-
+$
+5,409,770
+$
+INVP 6392 Contractor iPad for Gas
+90000229966
+6392
+Core IT
+Gas
+Inflight
+C209
+3/31/2023
+84
+248,917
+$
+-
+$
+-
+$
+-
+$
+-
+$
+248,917
+$
+Enterprise Data Model
+6677
+Backoffice Refresh
+Backoffice Refresh
+Future
+GT53
+3/31/2025
+84
+-
+$
+3,859,722
+$
+-
+$
+-
+$
+-
+$
+3,859,722
+$
+Data Cleanse
+6677
+Backoffice Refresh
+Backoffice Refresh
+Future
+GT53
+3/31/2025
+84
+-
+$
+3,308,333
+$
+-
+$
+-
+$
+-
+$
+3,308,333
+$
+Enterprise Data Hub
+6677
+Backoffice Refresh
+Backoffice Refresh
+Future
+GT53
+3/31/2025
+84
+-
+$
+6,065,278
+$
+-
+$
+-
+$
+-
+$
+6,065,278
+$
+Enterprise Data Hub
+6677
+Backoffice Refresh
+Backoffice Refresh
+Future
+GT53
+3/31/2026
+84
+-
+$
+-
+$
+3,310,665
+$
+-
+$
+-
+$
+3,310,665
+$
+Cloud Foundation Migration
+6677
+Backoffice Refresh
+Backoffice Refresh
+Future
+GT53
+3/31/2025
+84
+-
+$
+5,513,889
+$
+-
+$
+-
+$
+-
+$
+5,513,889
+$
+Cloud Foundation Migration
+6677
+Backoffice Refresh
+Backoffice Refresh
+Future
+GT53
+3/31/2026
+84
+-
+$
+-
+$
+34,872,334
+$
+-
+$
+-
+$
+34,872,334
+$
+Payroll
+6677
+Backoffice Refresh
+Backoffice Refresh
+Future
+GT53
+3/31/2025
+84
+-
+$
+12,130,556
+$
+-
+$
+-
+$
+-
+$
+12,130,556
+$
+Payroll
+6677
+Backoffice Refresh
+Backoffice Refresh
+Future
+GT53
+3/31/2026
+84
+-
+$
+-
+$
+5,517,774
+$
+-
+$
+-
+$
+5,517,774
+$
+Portfolio App Rationalization/Deployment
+6677
+Backoffice Refresh
+Backoffice Refresh
+Future
+GT53
+3/31/2025
+84
+-
+$
+8,822,222
+$
+-
+$
+-
+$
+-
+$
+8,822,222
+$
+Portfolio App Rationalization/Deployment
+6677
+Backoffice Refresh
+Backoffice Refresh
+Future
+GT53
+3/31/2026
+84
+-
+$
+-
+$
+27,699,227
+$
+-
+$
+-
+$
+27,699,227
+$
+Portfolio App Rationalization/Deployment
+6677
+Backoffice Refresh
+Backoffice Refresh
+Future
+GT53
+3/31/2027
+84
+-
+$
+-
+$
+-
+$
+55,500,000
+$
+-
+$
+55,500,000
+$
+Annual HR & Payroll Mandatory Service Pack (HRSP)
+5612
+Core IT
+Group Functions
+Future
+GT53
+3/31/2024
+84
+1,130,000
+$
+-
+$
+-
+$
+-
+$
+-
+$
+1,130,000
+$
+Annual HR & Payroll Mandatory Service Pack (HRSP) FY25
+5924
+Core IT
+Group Functions
+Future
+GT53
+3/31/2025
+84
+-
+$
+1,220,000
+$
+-
+$
+-
+$
+-
+$
+1,220,000
+$
+Annual HR & Payroll Mandatory Service Pack (HRSP) FY26
+5625
+Core IT
+Group Functions
+Future
+GT53
+3/31/2026
+84
+-
+$
+-
+$
+1,220,000
+$
+-
+$
+-
+$
+1,220,000
+$
+Business Services Upgrades and Enhancements (Continuous improvements for ECC)
+6716US
+Core IT
+Group Functions
+Future
+GT53
+3/31/2024
+84
+400,000
+$
+-
+$
+-
+$
+-
+$
+-
+$
+400,000
+$
+Business Services Upgrades and Enhancements (Continuous improvements for ECC)
+6716US
+Core IT
+Group Functions
+Future
+GT53
+3/31/2025
+84
+-
+$
+410,000
+$
+-
+$
+-
+$
+-
+$
+410,000
+$
+Business Services Upgrades and Enhancements (Continuous improvements for ECC)
+6716US
+Core IT
+Group Functions
+Future
+GT53
+3/31/2026
+84
+-
+$
+-
+$
+400,000
+$
+-
+$
+-
+$
+400,000
+$
+ChatBot
+TBD19
+Core IT
+Group Functions
+Future
+GT53
+3/31/2025
+84
+-
+$
+270,000
+$
+-
+$
+-
+$
+-
+$
+270,000
+$
+ChatBot
+TBD19
+Core IT
+Group Functions
+Future
+GT53
+3/31/2026
+84
+-
+$
+-
+$
+490,000
+$
+-
+$
+-
+$
+490,000
+$
+ChatBot
+TBD19
+Core IT
+Group Functions
+Future
+GT53
+3/31/2027
+84
+-
+$
+-
+$
+-
+$
+430,000
+$
+-
+$
+430,000
+$
+ChatBot
+TBD19
+Core IT
+Group Functions
+Future
+GT53
+3/31/2028
+84
+-
+$
+-
+$
+-
+$
+-
+$
+430,000
+$
+430,000
+$
+Document Mgmt. System
+TBD6
+Core IT
+Group Functions
+Future
+GT53
+3/31/2026
+84
+-
+$
+-
+$
+650,000
+$
+-
+$
+-
+$
+650,000
+$
+Document Mgmt. System
+TBD6
+Core IT
+Group Functions
+Future
+GT53
+3/31/2027
+84
+-
+$
+-
+$
+-
+$
+1,150,000
+$
+-
+$
+1,150,000
+$
+Document Mgmt. System
+TBD6
+Core IT
+Group Functions
+Future
+GT53
+3/31/2028
+84
+-
+$
+-
+$
+-
+$
+-
+$
+1,000,000
+$
+1,000,000
+$
+External Reporting enhancing
+5842G
+Core IT
+Group Functions
+Future
+GT53
+3/31/2025
+84
+-
+$
+500,000
+$
+-
+$
+-
+$
+-
+$
+500,000
+$
+FTOM R2R: Robotic Process Automation of Manual Journal Entries - Phase 2
+6289H
+Core IT
+Group Functions
+Future
+GT53
+3/31/2024
+84
+960,000
+$
+-
+$
+-
+$
+-
+$
+-
+$
+960,000
+$
+FTOM R2R: Robotic Process Automation of Manual Journal Entries - Phase 2
+6289H
+Core IT
+Group Functions
+Future
+GT53
+3/31/2025
+84
+-
+$
+510,000
+$
+-
+$
+-
+$
+-
+$
+510,000
+$
+FTOM R2R: Robotic Process Automation of Manual Journal Entries - Phase 2
+6289H
+Core IT
+Group Functions
+Future
+GT53
+3/31/2026
+84
+-
+$
+-
+$
+350,000
+$
+-
+$
+-
+$
+350,000
+$
+FTOM R2R: Robotic Process Automation of Manual Journal Entries - Phase 2
+6289H
+Core IT
+Group Functions
+Future
+GT53
+3/31/2027
+84
+-
+$
+-
+$
+-
+$
+510,000
+$
+-
+$
+510,000
+$
+FTOM R2R: Robotic Process Automation of Manual Journal Entries - Phase 2
+6289H
+Core IT
+Group Functions
+Future
+GT53
+3/31/2028
+84
+-
+$
+-
+$
+-
+$
+-
+$
+500,000
+$
+500,000
+$
+Governance Risk & Compliance (GRC) program
+5842C
+Core IT
+Group Functions
+Future
+GT53
+3/31/2025
+84
+-
+$
+1,880,000
+$
+-
+$
+-
+$
+-
+$
+1,880,000
+$
+Group Legal Digital Evolution
+TBD21
+Core IT
+Group Functions
+Future
+GT53
+3/31/2025
+84
+-
+$
+870,000
+$
+-
+$
+-
+$
+-
+$
+870,000
+$
+Group Legal Digital Evolution
+TBD21
+Core IT
+Group Functions
+Future
+GT53
+3/31/2026
+84
+-
+$
+-
+$
+610,000
+$
+-
+$
+-
+$
+610,000
+$
+Group Legal Digital Evolution
+TBD21
+Core IT
+Group Functions
+Future
+GT53
+3/31/2027
+84
+-
+$
+-
+$
+-
+$
+560,000
+$
+-
+$
+560,000
+$
+Group Legal Digital Evolution
+TBD21
+Core IT
+Group Functions
+Future
+GT53
+3/31/2028
+84
+-
+$
+-
+$
+-
+$
+-
+$
+550,000
+$
+550,000
+$
+P2P Accounts Payable US
+TBD13
+Core IT
+Group Functions
+Future
+GT53
+3/31/2025
+84
+-
+$
+710,000
+$
+-
+$
+-
+$
+-
+$
+710,000
+$
+P2P Accounts Payable US
+TBD13
+Core IT
+Group Functions
+Future
+GT53
+3/31/2026
+84
+-
+$
+-
+$
+710,000
+$
+-
+$
+-
+$
+710,000
+$
+P2P Accounts Payable US
+TBD13
+Core IT
+Group Functions
+Future
+GT53
+3/31/2027
+84
+-
+$
+-
+$
+-
+$
+710,000
+$
+-
+$
+710,000
+$
+P2P Accounts Payable US
+TBD13
+Core IT
+Group Functions
+Future
+GT53
+3/31/2028
+84
+-
+$
+-
+$
+-
+$
+-
+$
+700,000
+$
+700,000
+$
+P2P Data Analysis Tool - Additional Strategies
+TBD22
+Core IT
+Group Functions
+Future
+GT53
+3/31/2025
+84
+-
+$
+880,000
+$
+-
+$
+-
+$
+-
+$
+880,000
+$
+Procurement Systems Digital Enablement (Global US)
+6693US
+Core IT
+Group Functions
+Future
+GT53
+3/31/2024
+84
+600,000
+$
+-
+$
+-
+$
+-
+$
+-
+$
+600,000
+$
+Procurement Systems Digital Enablement (Global US)
+6693US
+Core IT
+Group Functions
+Future
+GT53
+3/31/2025
+84
+-
+$
+600,000
+$
+-
+$
+-
+$
+-
+$
+600,000
+$
+Procurement Systems Digital Enablement (Global US)
+6693US
+Core IT
+Group Functions
+Future
+GT53
+3/31/2026
+84
+-
+$
+-
+$
+600,000
+$
+-
+$
+-
+$
+600,000
+$
+Procurement Systems Digital Enablement (Global US)
+6693US
+Core IT
+Group Functions
+Future
+GT53
+3/31/2027
+84
+-
+$
+-
+$
+-
+$
+600,000
+$
+-
+$
+600,000
+$
+Procurement Systems Digital Enablement (Global US)
+6693US
+Core IT
+Group Functions
+Future
+GT53
+3/31/2028
+84
+-
+$
+-
+$
+-
+$
+-
+$
+600,000
+$
+600,000
+$
+RightNow to ServiceNow (F&A)
+TBD3
+Core IT
+Group Functions
+Future
+GT53
+3/31/2025
+84
+-
+$
+670,000
+$
+-
+$
+-
+$
+-
+$
+670,000
+$
+Exhibit____(ITDP-4)
+Page 3 of 5
+
+
+--- Page 62 ---
+RightNow to ServiceNow (F&A)
+TBD3
+Core IT
+Group Functions
+Future
+GT53
+3/31/2026
+84
+-
+$
+-
+$
+700,000
+$
+-
+$
+-
+$
+700,000
+$
+RightNow to ServiceNow (F&A)
+TBD3
+Core IT
+Group Functions
+Future
+GT53
+3/31/2027
+84
+-
+$
+-
+$
+-
+$
+520,000
+$
+-
+$
+520,000
+$
+RightNow to ServiceNow (F&A)
+TBD3
+Core IT
+Group Functions
+Future
+GT53
+3/31/2028
+84
+-
+$
+-
+$
+-
+$
+-
+$
+510,000
+$
+510,000
+$
+RPA - Robotic Process Automation - J2L
+6716US
+Core IT
+Group Functions
+Future
+GT53
+3/31/2024
+84
+300,000
+$
+-
+$
+-
+$
+-
+$
+-
+$
+300,000
+$
+RPA - Robotic Process Automation - J2L
+6716US
+Core IT
+Group Functions
+Future
+GT53
+3/31/2025
+84
+-
+$
+270,000
+$
+-
+$
+-
+$
+-
+$
+270,000
+$
+RPA - Robotic Process Automation - J2L
+6716US
+Core IT
+Group Functions
+Future
+GT53
+3/31/2026
+84
+-
+$
+-
+$
+280,000
+$
+-
+$
+-
+$
+280,000
+$
+RSA Archer Upgrade & Refresh
+6695US
+Core IT
+Group Functions
+Future
+GT53
+3/31/2024
+84
+1,050,000
+$
+-
+$
+-
+$
+-
+$
+-
+$
+1,050,000
+$
+RSA Archer Upgrade & Refresh
+6695US
+Core IT
+Group Functions
+Future
+GT53
+3/31/2025
+84
+-
+$
+1,680,000
+$
+-
+$
+-
+$
+-
+$
+1,680,000
+$
+RSA Archer Upgrade & Refresh
+6695US
+Core IT
+Group Functions
+Future
+GT53
+3/31/2026
+84
+-
+$
+-
+$
+800,000
+$
+-
+$
+-
+$
+800,000
+$
+RSA Archer Upgrade & Refresh
+6695US
+Core IT
+Group Functions
+Future
+GT53
+3/31/2027
+84
+-
+$
+-
+$
+-
+$
+810,000
+$
+-
+$
+810,000
+$
+RSA Archer Upgrade & Refresh
+6695US
+Core IT
+Group Functions
+Future
+GT53
+3/31/2028
+84
+-
+$
+-
+$
+-
+$
+-
+$
+800,000
+$
+800,000
+$
+SAP and BackOffice Health Program (Upgrades)
+5843
+Core IT
+Group Functions
+Future
+GT53
+3/31/2024
+84
+1,530,000
+$
+-
+$
+-
+$
+-
+$
+-
+$
+1,530,000
+$
+SAP and BackOffice Health Program (Upgrades)
+5843
+Core IT
+Group Functions
+Future
+GT53
+3/31/2025
+84
+-
+$
+1,510,000
+$
+-
+$
+-
+$
+-
+$
+1,510,000
+$
+SAP and BackOffice Health Program (Upgrades)
+5843
+Core IT
+Group Functions
+Future
+GT53
+3/31/2026
+84
+-
+$
+-
+$
+1,410,000
+$
+-
+$
+-
+$
+1,410,000
+$
+SAP and BackOffice Health Program (Upgrades)
+5843
+Core IT
+Group Functions
+Future
+GT53
+3/31/2027
+84
+-
+$
+-
+$
+-
+$
+1,420,000
+$
+-
+$
+1,420,000
+$
+SAP and BackOffice Health Program (Upgrades)
+5843
+Core IT
+Group Functions
+Future
+GT53
+3/31/2028
+84
+-
+$
+-
+$
+-
+$
+-
+$
+1,400,000
+$
+1,400,000
+$
+SAP Cloud Analytics
+5842H
+Core IT
+Group Functions
+Future
+GT53
+3/31/2024
+84
+500,000
+$
+-
+$
+-
+$
+-
+$
+-
+$
+500,000
+$
+Group SHE Digital Evolution
+TBD20
+Core IT
+Group Functions
+Future
+GT53
+3/31/2025
+84
+-
+$
+550,000
+$
+-
+$
+-
+$
+-
+$
+550,000
+$
+Group SHE Digital Evolution
+TBD20
+Core IT
+Group Functions
+Future
+GT53
+3/31/2026
+84
+-
+$
+-
+$
+550,000
+$
+-
+$
+-
+$
+550,000
+$
+Group SHE Digital Evolution
+TBD20
+Core IT
+Group Functions
+Future
+GT53
+3/31/2027
+84
+-
+$
+-
+$
+-
+$
+530,000
+$
+-
+$
+530,000
+$
+Group SHE Digital Evolution
+TBD20
+Core IT
+Group Functions
+Future
+GT53
+3/31/2028
+84
+-
+$
+-
+$
+-
+$
+-
+$
+520,000
+$
+520,000
+$
+Sustainability Apps and Tools
+6657US
+Core IT
+Group Functions
+Future
+GT53
+3/31/2024
+84
+900,000
+$
+-
+$
+-
+$
+-
+$
+-
+$
+900,000
+$
+Sustainability Apps and Tools
+6657US
+Core IT
+Group Functions
+Future
+GT53
+3/31/2025
+84
+-
+$
+1,290,000
+$
+-
+$
+-
+$
+-
+$
+1,290,000
+$
+Sustainability Apps and Tools
+6657US
+Core IT
+Group Functions
+Future
+GT53
+3/31/2026
+84
+-
+$
+-
+$
+1,290,000
+$
+-
+$
+-
+$
+1,290,000
+$
+Sustainability Apps and Tools
+6657US
+Core IT
+Group Functions
+Future
+GT53
+3/31/2027
+84
+-
+$
+-
+$
+-
+$
+1,200,000
+$
+-
+$
+1,200,000
+$
+Sustainability Apps and Tools
+6657US
+Core IT
+Group Functions
+Future
+GT53
+3/31/2028
+84
+-
+$
+-
+$
+-
+$
+-
+$
+1,200,000
+$
+1,200,000
+$
+Tactical HR
+TBD15
+Core IT
+Group Functions
+Future
+GT53
+3/31/2028
+84
+-
+$
+-
+$
+-
+$
+-
+$
+250,000
+$
+250,000
+$
+Tactical HR
+6717US
+Core IT
+Group Functions
+Future
+GT53
+3/31/2024
+84
+550,000
+$
+-
+$
+-
+$
+-
+$
+-
+$
+550,000
+$
+Tactical HR
+6717US
+Core IT
+Group Functions
+Future
+GT53
+3/31/2025
+84
+-
+$
+540,000
+$
+-
+$
+-
+$
+-
+$
+540,000
+$
+Tactical HR
+6717US
+Core IT
+Group Functions
+Future
+GT53
+3/31/2026
+84
+-
+$
+-
+$
+370,000
+$
+-
+$
+-
+$
+370,000
+$
+Tactical HR
+6717US
+Core IT
+Group Functions
+Future
+GT53
+3/31/2027
+84
+-
+$
+-
+$
+-
+$
+270,000
+$
+-
+$
+270,000
+$
+US Group Function Minor Enhancements (SAP) - Minor Works
+6653
+Core IT
+Group Functions
+Future
+GT53
+3/31/2024
+84
+1,010,000
+$
+-
+$
+-
+$
+-
+$
+-
+$
+1,010,000
+$
+US Group Function Minor Enhancements (SAP) - Minor Works
+6653
+Core IT
+Group Functions
+Future
+GT53
+3/31/2025
+84
+-
+$
+990,000
+$
+-
+$
+-
+$
+-
+$
+990,000
+$
+US Group Function Minor Enhancements (SAP) - Minor Works
+6653
+Core IT
+Group Functions
+Future
+GT53
+3/31/2026
+84
+-
+$
+-
+$
+1,000,000
+$
+-
+$
+-
+$
+1,000,000
+$
+US Group Function Minor Enhancements (SAP) - Minor Works
+6653
+Core IT
+Group Functions
+Future
+GT53
+3/31/2027
+84
+-
+$
+-
+$
+-
+$
+1,000,000
+$
+-
+$
+1,000,000
+$
+US Group Function Minor Enhancements (SAP) - Minor Works
+6653
+Core IT
+Group Functions
+Future
+GT53
+3/31/2028
+84
+-
+$
+-
+$
+-
+$
+-
+$
+1,000,000
+$
+1,000,000
+$
+US Group Function: Record to Report Regulatory and Compliance
+6597
+Core IT
+Group Functions
+Future
+GT53
+3/31/2024
+84
+490,000
+$
+-
+$
+-
+$
+-
+$
+-
+$
+490,000
+$
+US Group Function: Record to Report Regulatory and Compliance
+6597
+Core IT
+Group Functions
+Future
+GT53
+3/31/2025
+84
+-
+$
+630,000
+$
+-
+$
+-
+$
+-
+$
+630,000
+$
+US Group Function: Record to Report Regulatory and Compliance
+6597
+Core IT
+Group Functions
+Future
+GT53
+3/31/2026
+84
+-
+$
+-
+$
+630,000
+$
+-
+$
+-
+$
+630,000
+$
+US Group Function: Record to Report Regulatory and Compliance
+6597
+Core IT
+Group Functions
+Future
+GT53
+3/31/2027
+84
+-
+$
+-
+$
+-
+$
+900,000
+$
+-
+$
+900,000
+$
+US Group Function: Record to Report Regulatory and Compliance
+6597
+Core IT
+Group Functions
+Future
+GT53
+3/31/2028
+84
+-
+$
+-
+$
+-
+$
+-
+$
+780,000
+$
+780,000
+$
+US Group Functions Operational Requests
+5902
+Core IT
+Group Functions
+Future
+GT53
+3/31/2024
+84
+1,097,730
+$
+-
+$
+-
+$
+-
+$
+-
+$
+1,097,730
+$
+US Group Functions Operational Requests
+5902
+Core IT
+Group Functions
+Future
+GT53
+3/31/2025
+84
+-
+$
+1,060,000
+$
+-
+$
+-
+$
+-
+$
+1,060,000
+$
+US Group Functions Operational Requests
+5902
+Core IT
+Group Functions
+Future
+GT53
+3/31/2026
+84
+-
+$
+-
+$
+980,000
+$
+-
+$
+-
+$
+980,000
+$
+US Group Functions Operational Requests
+5902
+Core IT
+Group Functions
+Future
+GT53
+3/31/2027
+84
+-
+$
+-
+$
+-
+$
+970,000
+$
+-
+$
+970,000
+$
+US Group Functions Operational Requests
+5902
+Core IT
+Group Functions
+Future
+GT53
+3/31/2028
+84
+-
+$
+-
+$
+-
+$
+-
+$
+960,000
+$
+960,000
+$
+US Group Functions: Tools and Technologies
+5895
+Core IT
+Group Functions
+Future
+GT53
+3/31/2024
+84
+550,000
+$
+-
+$
+-
+$
+-
+$
+-
+$
+550,000
+$
+US Group Functions: Tools and Technologies
+5895
+Core IT
+Group Functions
+Future
+GT53
+3/31/2025
+84
+-
+$
+280,000
+$
+-
+$
+-
+$
+-
+$
+280,000
+$
+US Group Functions: Tools and Technologies
+5895
+Core IT
+Group Functions
+Future
+GT53
+3/31/2026
+84
+-
+$
+-
+$
+280,000
+$
+-
+$
+-
+$
+280,000
+$
+US Group Functions: Tools and Technologies
+5895
+Core IT
+Group Functions
+Future
+GT53
+3/31/2027
+84
+-
+$
+-
+$
+-
+$
+290,000
+$
+-
+$
+290,000
+$
+US Group Functions: Tools and Technologies
+5895
+Core IT
+Group Functions
+Future
+GT53
+3/31/2028
+84
+-
+$
+-
+$
+-
+$
+-
+$
+280,000
+$
+280,000
+$
+US SAP: Infrastructure Landscape
+5608
+Core IT
+Group Functions
+Future
+GT53
+3/31/2024
+84
+3,099,920
+$
+-
+$
+-
+$
+-
+$
+-
+$
+3,099,920
+$
+US SAP: Infrastructure Landscape FY25
+5923
+Core IT
+Group Functions
+Future
+GT53
+3/31/2025
+84
+-
+$
+4,220,000
+$
+-
+$
+-
+$
+-
+$
+4,220,000
+$
+US SAP: Infrastructure Landscape FY26
+TBD2
+Core IT
+Group Functions
+Future
+GT53
+3/31/2026
+84
+-
+$
+-
+$
+4,770,000
+$
+-
+$
+-
+$
+4,770,000
+$
+US SAP: Infrastructure Landscape FY28
+TBD2
+Core IT
+Group Functions
+Future
+GT53
+3/31/2028
+84
+-
+$
+-
+$
+-
+$
+-
+$
+5,000,000
+$
+5,000,000
+$
+US SAP: Infrastructure Landscape FY27
+6669
+Core IT
+Group Functions
+Future
+GT53
+3/31/2027
+84
+-
+$
+-
+$
+-
+$
+5,000,000
+$
+-
+$
+5,000,000
+$
+Workforce Data Domain HR data governance Tools Processes EDM
+6716US
+Core IT
+Group Functions
+Future
+GT53
+3/31/2024
+84
+320,000
+$
+-
+$
+-
+$
+-
+$
+-
+$
+320,000
+$
+Workforce Data Domain HR data governance Tools Processes EDM
+6716US
+Core IT
+Group Functions
+Future
+GT53
+3/31/2025
+84
+-
+$
+220,000
+$
+-
+$
+-
+$
+-
+$
+220,000
+$
+Workforce Data Domain HR data governance Tools Processes EDM
+6716US
+Core IT
+Group Functions
+Future
+GT53
+3/31/2026
+84
+-
+$
+-
+$
+210,000
+$
+-
+$
+-
+$
+210,000
+$
+Workforce Data Domain HR data governance Tools Processes EDM
+6716US
+Core IT
+Group Functions
+Future
+GT53
+3/31/2027
+84
+-
+$
+-
+$
+-
+$
+210,000
+$
+-
+$
+210,000
+$
+Workforce Data Domain HR data governance Tools Processes EDM
+6716US
+Core IT
+Group Functions
+Future
+GT53
+3/31/2028
+84
+-
+$
+-
+$
+-
+$
+-
+$
+200,000
+$
+200,000
+$
+S2P Transformation R2: Supplier Onboarding (Global - US)
+6290B
+Core IT
+Group Functions
+Future
+GT53
+3/31/2024
+84
+3,000,000
+$
+-
+$
+-
+$
+-
+$
+-
+$
+3,000,000
+$
+Source to Pay Transformation
+6290
+Core IT
+Group Functions
+Future
+GT53
+3/31/2025
+84
+-
+$
+1,010,000
+$
+-
+$
+-
+$
+-
+$
+1,010,000
+$
+Source to Pay Transformation
+6290
+Core IT
+Group Functions
+Future
+GT53
+3/31/2026
+84
+-
+$
+-
+$
+1,000,000
+$
+-
+$
+-
+$
+1,000,000
+$
+Source to Pay Transformation
+6290
+Core IT
+Group Functions
+Future
+GT53
+3/31/2027
+84
+-
+$
+-
+$
+-
+$
+1,020,000
+$
+-
+$
+1,020,000
+$
+Source to Pay Transformation
+6290
+Core IT
+Group Functions
+Future
+GT53
+3/31/2028
+84
+-
+$
+1,010,000
+$
+-
+$
+-
+$
+1,000,000
+$
+2,010,000
+$
+Property Service/Real Estate/Fleet/Meter Shop/IMWM - IT System Modernization
+TBD
+Core IT
+Group Functions
+Future
+GT53
+3/31/2025
+84
+-
+$
+660,000
+$
+-
+$
+-
+$
+-
+$
+660,000
+$
+Property Service/Real Estate/Fleet/Meter Shop/IMWM - IT System Modernization
+TBD
+Core IT
+Group Functions
+Future
+GT53
+3/31/2026
+84
+-
+$
+-
+$
+660,000
+$
+-
+$
+-
+$
+660,000
+$
+Property Service/Real Estate/Fleet/Meter Shop/IMWM - IT System Modernization
+TBD
+Core IT
+Group Functions
+Future
+GT53
+3/31/2027
+84
+-
+$
+-
+$
+-
+$
+670,000
+$
+-
+$
+670,000
+$
+Property Service/Real Estate/Fleet/Meter Shop/IMWM - IT System Modernization
+TBD
+Core IT
+Group Functions
+Future
+GT53
+3/31/2028
+84
+-
+$
+-
+$
+-
+$
+-
+$
+650,000
+$
+650,000
+$
+Web Digital Evolution
+TBD
+Core IT
+Group Functions
+Future
+GT53
+3/31/2025
+84
+-
+$
+1,830,000
+$
+-
+$
+-
+$
+-
+$
+1,830,000
+$
+Web Digital Evolution
+TBD
+Core IT
+Group Functions
+Future
+GT53
+3/31/2026
+84
+-
+$
+-
+$
+820,000
+$
+-
+$
+-
+$
+820,000
+$
+Web Digital Evolution
+TBD
+Core IT
+Group Functions
+Future
+GT53
+3/31/2027
+84
+-
+$
+-
+$
+-
+$
+1,330,000
+$
+-
+$
+1,330,000
+$
+Web Digital Evolution
+TBD
+Core IT
+Group Functions
+Future
+GT53
+3/31/2028
+84
+-
+$
+-
+$
+-
+$
+-
+$
+1,500,000
+$
+1,500,000
+$
+MyHub2.0
+TBD
+Core IT
+Group Functions
+Future
+GT53
+3/31/2025
+84
+-
+$
+2,170,000
+$
+-
+$
+-
+$
+-
+$
+2,170,000
+$
+MyHub2.0
+TBD
+Core IT
+Group Functions
+Future
+GT53
+3/31/2026
+84
+-
+$
+-
+$
+1,900,000
+$
+-
+$
+-
+$
+1,900,000
+$
+MyHub2.0
+TBD
+Core IT
+Group Functions
+Future
+GT53
+3/31/2027
+84
+-
+$
+-
+$
+-
+$
+1,620,000
+$
+-
+$
+1,620,000
+$
+MyHub2.0
+TBD
+Core IT
+Group Functions
+Future
+GT53
+3/31/2028
+84
+-
+$
+-
+$
+-
+$
+-
+$
+1,555,000
+$
+1,555,000
+$
+ServiceNow Business Services Module
+TBD
+Core IT
+Group Functions
+Future
+GT53
+3/31/2025
+84
+-
+$
+510,000
+$
+-
+$
+-
+$
+-
+$
+510,000
+$
+ServiceNow Business Services Module
+TBD
+Core IT
+Group Functions
+Future
+GT53
+3/31/2026
+84
+-
+$
+-
+$
+1,480,000
+$
+-
+$
+-
+$
+1,480,000
+$
+ServiceNow Business Services Module
+TBD
+Core IT
+Group Functions
+Future
+GT53
+3/31/2027
+84
+-
+$
+-
+$
+-
+$
+1,480,000
+$
+-
+$
+1,480,000
+$
+ServiceNow Business Services Module
+TBD
+Core IT
+Group Functions
+Future
+GT53
+3/31/2028
+84
+-
+$
+-
+$
+-
+$
+-
+$
+1,350,000
+$
+1,350,000
+$
+Business Planning F&A (FP&A Enablement & Modelling Tool)
+6461USA
+Core IT
+Group Functions
+Inflight
+GT53
+4/1/2023
+84
+1,955,000
+$
+-
+$
+-
+$
+-
+$
+-
+$
+1,955,000
+$
+GRC Archer
+90000233861
+4418USC
+Core IT
+Group Functions
+Inflight
+GT53
+4/1/2023
+84
+472,325
+$
+-
+$
+-
+$
+-
+$
+-
+$
+472,325
+$
+INVP 3870B Real Estate / Right of Way
+90000231289
+3870B
+Core IT
+Group Functions
+Inflight
+GT53
+1/12/2023
+84
+1,124,357
+$
+-
+$
+-
+$
+-
+$
+-
+$
+1,124,357
+$
+INVP 5606 US SAP: Landscape Infrastructure
+Multiple
+5606
+Core IT
+Group Functions
+Inflight
+GT53
+5/31/2023
+84
+3,548,323
+$
+-
+$
+-
+$
+-
+$
+-
+$
+3,548,323
+$
+INVP 5606 US SAP: Landscape Infrastructure
+90000229234
+5606
+Core IT
+Group Functions
+Inflight
+G295
+5/31/2023
+84
+2,050,559
+$
+-
+$
+-
+$
+-
+$
+-
+$
+2,050,559
+$
+INVP 5843F US SAP PI/PO Upgrade
+90000232007
+5843F
+Core IT
+Group Functions
+Inflight
+GT53
+3/31/2024
+84
+5,083,418
+$
+-
+$
+-
+$
+-
+$
+-
+$
+5,083,418
+$
+INVP 5895B Everbridge Integration
+90000218742
+5895B
+Core IT
+Group Functions
+Inflight
+GT53
+2/28/2023
+84
+368,385
+$
+-
+$
+-
+$
+-
+$
+-
+$
+368,385
+$
+INVP 5983 DB Landscape Optimization
+90000225874
+5983
+Core IT
+Group Functions
+Inflight
+GT53
+1/28/2023
+84
+2,106,252
+$
+-
+$
+-
+$
+-
+$
+-
+$
+2,106,252
+$
+INVP 6220 US F&BS Minor Enhancements
+90000220446
+6220
+Core IT
+Group Functions
+Inflight
+GT53
+3/31/2023
+84
+487,009
+$
+-
+$
+-
+$
+-
+$
+-
+$
+487,009
+$
+INVP 6253US Cloud API Migration
+90000222466
+6253US
+Core IT
+Group Functions
+Inflight
+GT53
+3/31/2023
+84
+3,113,924
+$
+-
+$
+-
+$
+-
+$
+-
+$
+3,113,924
+$
+INVP 6258USB Data Archival_US
+90000225218
+6258USB
+Core IT
+Group Functions
+Inflight
+GT53
+4/1/2023
+84
+2,793,606
+$
+-
+$
+-
+$
+-
+$
+-
+$
+2,793,606
+$
+INVP 6273US Workforce Data
+90000222464
+6273US
+Core IT
+Group Functions
+Inflight
+GT53
+3/27/2023
+84
+3,317,490
+$
+-
+$
+-
+$
+-
+$
+-
+$
+3,317,490
+$
+INVP 6289F US GAAP Statutory Reporting
+90000228705
+6289F
+Core IT
+Group Functions
+Inflight
+GT53
+3/31/2023
+84
+438,982
+$
+-
+$
+-
+$
+-
+$
+-
+$
+438,982
+$
+INVP 6289G FTOM R2R Robotic Process Automation of Manual Journal Entries
+90000230670
+6289G
+Core IT
+Group Functions
+Inflight
+GT53
+3/31/2023
+84
+1,339,762
+$
+-
+$
+-
+$
+-
+$
+-
+$
+1,339,762
+$
+INVP 6290A Source to Pay
+90000223683
+6290A
+Core IT
+Group Functions
+Inflight
+GT53
+5/26/2023
+84
+13,627,993
+$
+-
+$
+-
+$
+-
+$
+-
+$
+13,627,993
+$
+INVP 6426 Investment Recovery Digitalization
+90000227077
+6426
+Core IT
+Group Functions
+Inflight
+GT53
+1/31/2023
+84
+1,172,212
+$
+-
+$
+-
+$
+-
+$
+-
+$
+1,172,212
+$
+INVP 6467 Union Bidding
+90000230804
+6467
+Core IT
+Group Functions
+Inflight
+GT53
+2/28/2023
+84
+266,846
+$
+-
+$
+-
+$
+-
+$
+-
+$
+266,846
+$
+INVP 6529 US Group Function Minor Works
+90000228702
+6529
+Core IT
+Group Functions
+Inflight
+GT53
+3/21/2023
+84
+591,492
+$
+-
+$
+-
+$
+-
+$
+-
+$
+591,492
+$
+INVP 6530 US Group Functions Operational Improvements
+90000228704
+6530
+Core IT
+Group Functions
+Inflight
+GT53
+4/1/2023
+84
+2,164,210
+$
+-
+$
+-
+$
+-
+$
+-
+$
+2,164,210
+$
+INVP 6549US SHE: Business Continuity
+90000233000
+6533US
+Core IT
+Group Functions
+Inflight
+GT53
+3/31/2024
+84
+25,701
+$
+-
+$
+-
+$
+-
+$
+-
+$
+25,701
+$
+Exhibit____(ITDP-4)
+Page 4 of 5
+
+
+--- Page 63 ---
+INVP 6621 US JML MyHub
+90000232124
+6621
+Core IT
+Group Functions
+Inflight
+GT53
+6/30/2023
+84
+4,573,219
+$
+-
+$
+-
+$
+-
+$
+-
+$
+4,573,219
+$
+Legal Operations
+6534US
+Core IT
+Group Functions
+Inflight
+GT53
+4/1/2023
+84
+1,200,000
+$
+-
+$
+-
+$
+-
+$
+-
+$
+1,200,000
+$
+SHE: Consolidated Incident Management and Reporting
+6533US
+Core IT
+Group Functions
+Inflight
+GT53
+3/31/2024
+84
+1,300,000
+$
+-
+$
+-
+$
+-
+$
+-
+$
+1,300,000
+$
+US SAP: BW/BI Upgrade
+5843E
+Core IT
+Group Functions
+Inflight
+GT53
+11/30/2023
+84
+1,200,000
+$
+-
+$
+-
+$
+-
+$
+-
+$
+1,200,000
+$
+INVP 6180US CV Talent Screening
+90000229739
+6180US
+Core IT
+Group Functions
+Inflight
+GT53
+4/1/2023
+84
+335,097
+$
+-
+$
+-
+$
+-
+$
+-
+$
+335,097
+$
+INVP 6183US HR Reporting
+90000224131
+6183US
+Core IT
+Group Functions
+Inflight
+GT53
+4/1/2023
+84
+200,547
+$
+-
+$
+-
+$
+-
+$
+-
+$
+200,547
+$
+INVP 6185US Onboarding 2.0
+90000226075
+6185US
+Core IT
+Group Functions
+Inflight
+GT53
+4/1/2023
+84
+80,362
+$
+-
+$
+-
+$
+-
+$
+-
+$
+80,362
+$
+Application and Platform Rationalization
+6568x & TBD
+Core IT
+IT Strategic Tooling
+Future
+GT53
+3/31/2024
+84
+900,000
+$
+-
+$
+-
+$
+-
+$
+-
+$
+900,000
+$
+Application and Platform Rationalization
+6568x & TBD
+Core IT
+IT Strategic Tooling
+Future
+GT53
+3/31/2025
+84
+-
+$
+2,300,000
+$
+-
+$
+-
+$
+-
+$
+2,300,000
+$
+Application and Platform Rationalization
+6568x & TBD
+Core IT
+IT Strategic Tooling
+Future
+GT53
+3/31/2026
+84
+-
+$
+-
+$
+2,369,000
+$
+-
+$
+-
+$
+2,369,000
+$
+Application and Platform Rationalization
+6568x & TBD
+Core IT
+IT Strategic Tooling
+Future
+GT53
+3/31/2027
+84
+-
+$
+-
+$
+-
+$
+2,440,070
+$
+-
+$
+2,440,070
+$
+Application and Platform Rationalization
+6568x & TBD
+Core IT
+IT Strategic Tooling
+Future
+GT53
+3/31/2028
+84
+-
+$
+-
+$
+-
+$
+-
+$
+2,250,000
+$
+2,250,000
+$
+Workboard
+6615US
+Core IT
+IT Strategic Tooling
+Future
+GT53
+3/31/2024
+24
+420,000
+$
+-
+$
+-
+$
+-
+$
+-
+$
+420,000
+$
+Workboard
+6615US
+Core IT
+IT Strategic Tooling
+Future
+GT53
+3/31/2025
+24
+-
+$
+760,000
+$
+-
+$
+-
+$
+-
+$
+760,000
+$
+Workboard
+6615US
+Core IT
+IT Strategic Tooling
+Future
+GT53
+3/31/2027
+24
+-
+$
+-
+$
+-
+$
+760,000
+$
+-
+$
+760,000
+$
+Apptio
+90000223526
+6264US
+Core IT
+IT Strategic Tooling
+Inflight
+GT53
+4/1/2023
+84
+988,295
+$
+-
+$
+-
+$
+-
+$
+-
+$
+988,295
+$
+Apptio
+6264US
+Core IT
+IT Strategic Tooling
+Inflight
+GT53
+3/31/2024
+84
+407,960
+$
+-
+$
+-
+$
+-
+$
+-
+$
+407,960
+$
+Apptio
+6264US
+Core IT
+IT Strategic Tooling
+Inflight
+GT53
+3/31/2025
+84
+-
+$
+1,400,000
+$
+-
+$
+-
+$
+-
+$
+1,400,000
+$
+Apptio
+6264US
+Core IT
+IT Strategic Tooling
+Inflight
+GT53
+3/31/2027
+84
+-
+$
+-
+$
+-
+$
+1,400,000
+$
+-
+$
+1,400,000
+$
+Jira Align
+90000229783
+6520US
+Core IT
+IT Strategic Tooling
+Inflight
+GT53
+3/31/2024
+84
+3,383,166
+$
+-
+$
+-
+$
+-
+$
+-
+$
+3,383,166
+$
+Jira Align
+6520US
+Core IT
+IT Strategic Tooling
+Inflight
+GT53
+3/31/2025
+84
+-
+$
+2,400,000
+$
+-
+$
+-
+$
+-
+$
+2,400,000
+$
+Jira Align
+6520US
+Core IT
+IT Strategic Tooling
+Inflight
+GT53
+3/31/2027
+84
+-
+$
+-
+$
+-
+$
+2,400,000
+$
+-
+$
+2,400,000
+$
+Identity and Access Management
+6613US
+Core IT
+Security
+Future
+GT53
+3/31/2025
+84
+-
+$
+4,910,000
+$
+-
+$
+-
+$
+-
+$
+4,910,000
+$
+Identity and Access Management
+6613US
+Core IT
+Security
+Future
+GT53
+3/31/2026
+84
+-
+$
+-
+$
+4,880,000
+$
+-
+$
+-
+$
+4,880,000
+$
+Identity and Access Management
+6613US
+Core IT
+Security
+Future
+GT53
+3/31/2027
+84
+-
+$
+-
+$
+-
+$
+4,350,000
+$
+-
+$
+4,350,000
+$
+Identity and Access Management
+6613US
+Core IT
+Security
+Future
+GT53
+3/31/2028
+84
+-
+$
+-
+$
+-
+$
+-
+$
+4,150,000
+$
+4,150,000
+$
+Network Security Program
+6700US
+Core IT
+Security
+Future
+GT53
+3/31/2024
+84
+3,100,000
+$
+-
+$
+-
+$
+-
+$
+-
+$
+3,100,000
+$
+Network Security Program
+6700US
+Core IT
+Security
+Future
+GT53
+3/31/2025
+84
+-
+$
+5,360,000
+$
+-
+$
+-
+$
+-
+$
+5,360,000
+$
+Network Security Program
+6700US
+Core IT
+Security
+Future
+GT53
+3/31/2026
+84
+-
+$
+-
+$
+5,520,000
+$
+-
+$
+-
+$
+5,520,000
+$
+Network Security Program
+6700US
+Core IT
+Security
+Future
+GT53
+3/31/2027
+84
+-
+$
+-
+$
+-
+$
+5,000,000
+$
+-
+$
+5,000,000
+$
+Network Security Program
+6700US
+Core IT
+Security
+Future
+GT53
+3/31/2028
+84
+-
+$
+-
+$
+-
+$
+-
+$
+5,850,000
+$
+5,850,000
+$
+Operational Technical Security
+5933
+Core IT
+Security
+Future
+GT53
+3/31/2024
+84
+8,500,000
+$
+-
+$
+-
+$
+-
+$
+-
+$
+8,500,000
+$
+Operational Technical Security
+5933
+Core IT
+Security
+Future
+GT53
+3/31/2025
+84
+-
+$
+10,000,000
+$
+-
+$
+-
+$
+-
+$
+10,000,000
+$
+Operational Technical Security
+5933
+Core IT
+Security
+Future
+GT53
+3/31/2026
+84
+-
+$
+-
+$
+12,000,000
+$
+-
+$
+-
+$
+12,000,000
+$
+Operational Technical Security
+5933
+Core IT
+Security
+Future
+GT53
+3/31/2027
+84
+-
+$
+-
+$
+-
+$
+10,000,000
+$
+-
+$
+10,000,000
+$
+Operational Technical Security
+5933
+Core IT
+Security
+Future
+GT53
+3/31/2028
+84
+-
+$
+-
+$
+-
+$
+-
+$
+8,000,000
+$
+8,000,000
+$
+Physical Security
+3617
+Core IT
+Security
+Future
+GT53
+3/31/2024
+84
+6,400,000
+$
+-
+$
+-
+$
+-
+$
+-
+$
+6,400,000
+$
+Physical Security
+3617
+Core IT
+Security
+Future
+GT53
+3/31/2025
+84
+-
+$
+7,210,000
+$
+-
+$
+-
+$
+-
+$
+7,210,000
+$
+Physical Security
+3617
+Core IT
+Security
+Future
+GT53
+3/31/2026
+84
+-
+$
+-
+$
+7,240,000
+$
+-
+$
+-
+$
+7,240,000
+$
+Physical Security
+3617
+Core IT
+Security
+Future
+GT53
+3/31/2027
+84
+-
+$
+-
+$
+-
+$
+7,380,000
+$
+-
+$
+7,380,000
+$
+Physical Security
+3617
+Core IT
+Security
+Future
+GT53
+3/31/2028
+84
+-
+$
+-
+$
+-
+$
+-
+$
+6,500,000
+$
+6,500,000
+$
+Platform Security
+6699US
+Core IT
+Security
+Future
+GT53
+3/31/2024
+84
+3,300,000
+$
+-
+$
+-
+$
+-
+$
+-
+$
+3,300,000
+$
+Platform Security
+6699US
+Core IT
+Security
+Future
+GT53
+3/31/2025
+84
+-
+$
+4,350,000
+$
+-
+$
+-
+$
+-
+$
+4,350,000
+$
+Platform Security
+6699US
+Core IT
+Security
+Future
+GT53
+3/31/2026
+84
+-
+$
+-
+$
+4,900,000
+$
+-
+$
+-
+$
+4,900,000
+$
+Platform Security
+6699US
+Core IT
+Security
+Future
+GT53
+3/31/2027
+84
+-
+$
+-
+$
+-
+$
+4,170,000
+$
+-
+$
+4,170,000
+$
+Platform Security
+6699US
+Core IT
+Security
+Future
+GT53
+3/31/2028
+84
+-
+$
+-
+$
+-
+$
+-
+$
+3,000,000
+$
+3,000,000
+$
+Security Orchestration Automation & Response (SOAR)
+6540US
+Core IT
+Security
+Future
+GT53
+3/31/2024
+84
+1,000,000
+$
+-
+$
+-
+$
+-
+$
+1,000,000
+$
+Security Orchestration Automation & Response (SOAR)
+6540US
+Core IT
+Security
+Future
+GT53
+3/31/2025
+84
+-
+$
+3,060,000
+$
+-
+$
+-
+$
+-
+$
+3,060,000
+$
+Security Orchestration Automation & Response (SOAR)
+6540US
+Core IT
+Security
+Future
+GT53
+3/31/2026
+84
+-
+$
+-
+$
+3,440,000
+$
+-
+$
+-
+$
+3,440,000
+$
+Security Orchestration Automation & Response (SOAR)
+6540US
+Core IT
+Security
+Future
+GT53
+3/31/2027
+84
+-
+$
+-
+$
+-
+$
+2,610,000
+$
+-
+$
+2,610,000
+$
+Security Orchestration Automation & Response (SOAR)
+6540US
+Core IT
+Security
+Future
+GT53
+3/31/2028
+84
+-
+$
+-
+$
+-
+$
+-
+$
+2,250,000
+$
+2,250,000
+$
+Security Vulnerability Management Program
+6417US
+Core IT
+Security
+Future
+GT53
+3/31/2024
+84
+1,000,000
+$
+-
+$
+-
+$
+-
+$
+-
+$
+1,000,000
+$
+Security Vulnerability Management Program
+6417US
+Core IT
+Security
+Future
+GT53
+3/31/2025
+84
+-
+$
+2,920,000
+$
+-
+$
+-
+$
+-
+$
+2,920,000
+$
+Security Vulnerability Management Program
+6417US
+Core IT
+Security
+Future
+GT53
+3/31/2026
+84
+-
+$
+-
+$
+2,200,000
+$
+-
+$
+-
+$
+2,200,000
+$
+Security Vulnerability Management Program
+6417US
+Core IT
+Security
+Future
+GT53
+3/31/2027
+84
+-
+$
+-
+$
+-
+$
+3,340,000
+$
+-
+$
+3,340,000
+$
+Security Vulnerability Management Program
+6417US
+Core IT
+Security
+Future
+GT53
+3/31/2028
+84
+-
+$
+-
+$
+-
+$
+-
+$
+3,500,000
+$
+3,500,000
+$
+INVP 3617A PS Equipment Replacement
+90000180292
+3617A
+Core IT
+Security
+Inflight
+GT53
+3/31/2023
+60
+451,590
+$
+-
+$
+-
+$
+-
+$
+-
+$
+451,590
+$
+INVP 5933 OT Intrusion Detection
+90000224936
+5933
+Core IT
+Security
+Inflight
+GT53
+3/31/2024
+84
+9,130,162
+$
+-
+$
+-
+$
+-
+$
+-
+$
+9,130,162
+$
+INVP 6245US SOAR
+90000223218
+6245US
+Core IT
+Security
+Inflight
+GT53
+3/31/2023
+84
+1,411,217
+$
+-
+$
+-
+$
+-
+$
+-
+$
+1,411,217
+$
+INVP 6417US Vulnerability Management
+90000227078
+6417US
+Core IT
+Security
+Inflight
+GT53
+3/31/2024
+84
+646,673
+$
+-
+$
+-
+$
+-
+$
+-
+$
+646,673
+$
+INVP 6480US Platform Tower
+90000229906
+6480US
+Core IT
+Security
+Inflight
+GT53
+3/28/2023
+84
+3,744,007
+$
+-
+$
+-
+$
+-
+$
+-
+$
+3,744,007
+$
+INVP 6510 OT PAW
+90000228238
+6510
+Core IT
+Security
+Inflight
+GT53
+4/1/2023
+84
+1,855,657
+$
+-
+$
+-
+$
+-
+$
+-
+$
+1,855,657
+$
+INVP 6526US Network Tower
+90000229306
+6526US
+Core IT
+Security
+Inflight
+GT53
+3/28/2023
+84
+3,140,669
+$
+-
+$
+-
+$
+-
+$
+-
+$
+3,140,669
+$
+INVP 6540US SOAR
+90000229019
+6540US
+Core IT
+Security
+Inflight
+GT53
+3/31/2024
+84
+730,867
+$
+-
+$
+-
+$
+-
+$
+-
+$
+730,867
+$
+INVP 6613US Identity Access Management Engineering Project
+90000232006
+6613US
+Core IT
+Security
+Inflight
+GT53
+4/30/2025
+84
+5,853,862
+$
+771
+$
+-
+$
+-
+$
+-
+$
+5,854,633
+$
+Total
+551,352,699
+$
+308,584,290
+$
+310,054,283
+$
+298,348,362
+$
+215,117,971
+$
+1,683,457,606
+$
+Exhibit____(ITDP-4)
+Page 5 of 5
+
+
+--- Page 64 ---
+  
+ 
+ 
+ 
+ 
+ 
+ 
+ 
+ 
+Exhibit ___ (ITDP-5) 
+ 
+Digital Platforms and Infrastructure Technology Investments 
+ 
+ 
+ 
+ 
+ 
+ 
+ 
+ 
+ 
+ 
+ 
+ 
+ 
+ 
+ 
+ 
+ 
+ 
+ 
+ 
+ 
+ 
+ 
+ 
+ 
+ 
+ 
+ 
+ 
+ 
+ 
+ 
+ 
+
+
+--- Page 65 ---
+Project/INVP#
+In Service
+Date(s)
+Description of Project/Benefits
+(INVPs 6486/6682)
+DPIT Networks
+3/31/2023 -
+3/31/2028
+This investment will continue to modernize the corporate network infrastructure at offices and substations to replace technical debt and sub-optimal end of
+service life (EoSL) hardware and software assets across the estate that are creating security and operational risks.
+Benefits:
+•Transforming the legacy WAN environment to SD-WAN across National Grid US sites to modernize infrastructure and increasing capacity driven by
+demand from digitalization and the continued demand to support our employees
+•Increasing Wi-Fi capacity to National Grid global sites resulting in better network performance and allowing for additional connected devices per end user
+•Improved resiliency, stability, and security with reduced Technical Debt
+•Delivering new unified communications capabilities within the US regional estate and decommissioning legacy infrastructure
+•Upgrading End-of-Life (EoL) LAN switches to support modern technologies across the National Grid estate
+•Fully migrating all connected devices from End-of-Life Secure Telecommunications Internet Gateway (STIG) core routing and switching infrastructure
+(edge routers and access and distribution switches) to a new modern switch infrastructure within each of the STIG locations
+(INVP 6485/6683US)
+DPIT Operations
+3/31/2023 -
+3/31/2028
+This project transforms technology operations from manual and reactive to proactive and automated. The functionality delivers near real-time status and
+performance data with automated anomaly detection to pin point the root cause of faults in seconds. Digitizing operations supports National Grid becoming
+an intelligent connected utility.The project also provides a centralized UTOC (Unified Technology Operations Centre) with the capability for 24/7/365
+continuous technology supervision, monitoring, and management on any technology that may benefit our customers and the company.
+Benefits:
+•Data driven analytics enables failures to be predicted and prevent - resulting in fewer incidents
+•Machine learning and service mapping enables identification of root cause in seconds - resulting in faster recover
+•Automated system failover reduced time and complexity of DR testing - resulting in less cost, higher compliance and less risk
+•Enable a "Service Aware" CMDB that covers our enterprise technology landscape
+•Enable AI Operations capability for use in the enterprise technology landscape
+•Build data repository to enable aggregation of technical insights for incident response (IR) and business use
+•Transform the way that our Infrastructure is managed, reducing complexity, cost and business risk and ultimately providing a better service to our
+customers and stakeholders.
+KEDNY KEDLI
+Exhibit_(ITDP-5) - Digital Platform and Infrastructure Technology Investments
+Exhibit ___ (ITDP-5) 
+Page 1 of 3
+
+
+--- Page 66 ---
+Project/INVP#
+In Service
+Date(s)
+Description of Project/Benefits
+KEDNY KEDLI
+Exhibit_(ITDP-5) - Digital Platform and Infrastructure Technology Investments
+(INVP
+6519/6529/6565/6678US)
+GridStack & Digital
+Platforms
+3/31/2023 -
+3/31/2028
+Digital Platforms establishes a portfolio of digital products across 5 different product lines, envisioned to lay down the critical foundation needed by
+National Grid digital teams to overcome some of the common frictions they encounter today and empower them by increased productivity, reduce costs,
+improved security and quality thereby enhancing customer satisfaction. The goals include
+Benefits:
+•Reduced Cost of Development
+•Accelerated speed to value
+•De-risking of value delivery
+•Increase productivity and drive efficiencies to reduce IT spend by developing reusable data elements and software components
+•Maintain/optimize out Trusted Platforms to an optimal level, enable adherence to contractual support agreements
+•Improve platform health, deliver a ServiceNow platform that is secure and compliant to National Grid requirements and provide the foundations for
+further digital transformation
+(INVP 6681US/6487)
+US Digital Workplace
+Services
+3/31/2023 -
+3/31/2028
+Digital Workplace Services implements new capabilities across key end user services that users interact with on a daily basis, leveraging emerging
+technologies to provide value by reducing the technical debt of the National Grid global estate for End User Assets and delivering a fast, responsive and
+frictionless digital workplace experience. Specific focus in the areas of improving support requests to enhance employee productivity, delivering "Ready
+Day 1" capabilities to new employees, delivering modern and efficient device experience, modernizing National Grid directory services to improve digital
+experience and reduce technical debt, and modernizing our digital document security to improve cyber security and digital experience.
+Benefits:
+•Reduced risk associated with outdated devices and computing systems
+• Prepare and enable the business to efficiently adopt our digital productivity and collaboration experiences
+•Licensing efficiencies
+•Automatic assist with data security classification and protection
+(INVP 6652)
+Microstrategy Sunset
+6/30/2023
+The MicroStrategy platform is used for mission critical, revenue generating and regulatory compliance reporting. It is currently running on outdated and
+out-of-support systems.
+Benefits:
+•Maintain reporting compliance
+•Less risk from outdated and unsupported systems
+•Reduce risk for Data Center Transformation completion (last time MicroStrategy servers were moved, they required a 6 week P2, which is being expected
+again).
+•Reduce the CTA for the modernization of the legacy applications (like EBB, MDSI, etc.), since the reports would already be in Power BI.
+•Increase data and application security posture of NG (the current MicroStrategy has many security exceptions since they do not support latest security
+guidelines, and reached EOL 10 years ago).
+(INVP 6488/6680US)
+US CNI
+3/31/2023 -
+3/31/2028
+This investment is to ensure to continued reliable delivery of energy to customers by ensuring that the Critical National Infrastructure assets remain secure,
+supported and reliable. 355 infrastructure assets which will not be able to receive security patches or hardware support will be replaced to ensure robust
+security and high availability of critical control systems. Data communications will be encrypted to reduce the potential for successful cyber security
+attacks.
+Benefits:
+•Reduced Security and Operational risks
+Exhibit ___ (ITDP-5) 
+Page 2 of 3
+
+
+--- Page 67 ---
+Project/INVP#
+In Service
+Date(s)
+Description of Project/Benefits
+KEDNY KEDLI
+Exhibit_(ITDP-5) - Digital Platform and Infrastructure Technology Investments
+(INVP 6489/6679US)
+I&O US Cloud & Hosting
+3/31/2023 -
+3/31/2028
+Cloud & Hosting is on a multi-year journey to transform the core computing infrastructure from traditional physical distributed IT assets to centralized
+Cloud Platforms (both public and private). The overarching goals are to deliver the necessary computing power to support our business applications in the
+most sustainable and cost-effective manner. This investment will build upon the existing Cloud Platform foundation. The activities will focus on improving
+the usability and cost effectiveness of the platforms to maximize the investment and start realizing the benefits of efficiently operated cloud platforms.
+Benefits:
+•Reduce time to improve developer productivity on cloud platforms and improve ease of use of the Cloud technology
+•Deliver consistent functionality, user experience and interoperability of the Cloud Platforms
+•Deliver on strategic commitments for Carbon footprint reductions, Tech debt containment and
+Security controls
+(INVP 6587US)
+Ehub
+6/1/2023 -
+3/31/2028
+This investment creates a strategic planning, enterprise architecture, and portfolio management tool (Enterprise Hub) to support National Grid's integrated
+strategic planning.
+Benefits:
+•The consolidation and maintenance of Business and IT Strategies in one platform
+•Integrated prioritization of investments across the Business and IT
+•Reduced US IT application portfolio costs
+INVP 6223 I&O US Data
+Center Transformation
+4/1/2024
+Data Center transformation will substantively change the way in which Cloud and Hosting contributes to the strategic objective and supports the overall IT
+organization to achieve the IT Digital Transformation goals. The goal is to provide National Grid with the best in class services for co-location, managed
+private cloud services, mainframe services, and transition to the new facilities and management environments. The key priorities are energy efficient data
+centers, resilient computing environments, automated digital operations, and reduced complexity achieved through a minimally disruptive transition.
+Benefits:
+•Reduce carbon footprint associated with data center hosting - environmental impacts to support NG strategy of achieving net zero carbon footprint by
+2050
+•Improved resiliency, stability, and security with reduced Technical Debt
+•Reduced Data Center Running Costs
+Exhibit ___ (ITDP-5) 
+Page 3 of 3
+
+
+--- Page 68 ---
+  
+ 
+ 
+ 
+ 
+ 
+ 
+ 
+ 
+Exhibit ___ (ITDP-6) 
+ 
+In-flight and Forecasted IT Operating Expenses 
+ 
+ 
+ 
+ 
+ 
+ 
+ 
+ 
+ 
+ 
+ 
+ 
+ 
+ 
+ 
+ 
+ 
+ 
+ 
+ 
+ 
+ 
+ 
+ 
+ 
+ 
+ 
+ 
+ 
+ 
+ 
+ 
+ 
+ 
+ 
+ 
+
+
+--- Page 69 ---
+Investment Name
+Program
+FY25 OPEX
+FY25 RTB
+FY26 OPEX
+FY26 RTB
+FY27 OPEX
+FY27 RTB
+FY28 OPEX
+FY28 RTB
+AIMS Enterprise Solution
+Customer
+790,000
+$
+-
+$
+310,000
+$
+920,000
+$
+360,000
+$
+940,000
+$
+360,000
+$
+940,000
+$
+Customer Data Platform (CDP)
+Customer
+460,000
+$
+4,390,000
+$
+490,000
+$
+4,560,000
+$
+510,000
+$
+4,730,000
+$
+510,000
+$
+4,730,000
+$
+Mandates
+Customer
+243,000
+$
+18,000
+$
+240,000
+$
+33,000
+$
+231,000
+$
+33,000
+$
+231,000
+$
+33,000
+$
+Mandates
+Customer
+1,360,800
+$
+100,800
+$
+1,344,000
+$
+184,800
+$
+1,293,600
+$
+184,800
+$
+1,293,600
+$
+184,800
+$
+Unified Web Portal (UWP)
+Customer
+420,000
+$
+650,000
+$
+400,000
+$
+650,000
+$
+460,000
+$
+650,000
+$
+460,000
+$
+650,000
+$
+Technical Debt-Customer Ecosystem Stabilization
+Customer
+690,000
+$
+120,000
+$
+120,000
+$
+120,000
+$
+120,000
+$
+DPIT Networks
+DPIT
+1,307,550
+$
+(1,250,000)
+$
+1,310,801
+$
+(1,250,000)
+$
+1,296,244
+$
+-
+$
+1,296,244
+$
+DPIT Networks
+DPIT
+1,307,550
+$
+(1,250,000)
+$
+1,310,801
+$
+(1,250,000)
+$
+1,296,244
+$
+-
+$
+1,296,244
+$
+DPIT Operations
+DPIT
+419,816
+$
+982,000
+$
+370,306
+$
+512,500
+$
+371,522
+$
+-
+$
+371,522
+$
+DPIT Operations
+DPIT
+419,816
+$
+982,000
+$
+370,306
+$
+512,500
+$
+371,522
+$
+-
+$
+371,522
+$
+GridStack & Digital Platforms
+DPIT
+1,038,523
+$
+-
+$
+1,041,421
+$
+-
+$
+1,070,980
+$
+-
+$
+1,070,980
+$
+GridStack & Digital Platforms
+DPIT
+1,038,523
+$
+-
+$
+1,041,421
+$
+-
+$
+1,070,980
+$
+-
+$
+1,070,980
+$
+INVP 6223 I&O US Data Center Transformation
+DPIT
+-
+$
+(4,800,065)
+$
+-
+$
+(4,839,721)
+$
+-
+$
+(4,805,143)
+$
+US Digital Workplace Services
+DPIT
+1,599,728
+$
+2,450,000
+$
+1,475,856
+$
+3,200,000
+$
+1,630,886
+$
+3,950,000
+$
+1,630,886
+$
+3,950,000
+$
+US Digital Workplace Services
+DPIT
+1,599,728
+$
+2,450,000
+$
+1,475,856
+$
+3,200,000
+$
+1,630,886
+$
+3,950,000
+$
+1,630,886
+$
+3,950,000
+$
+DPIT US CNI
+DPIT
+249,774
+$
+-
+$
+246,865
+$
+-
+$
+248,628
+$
+-
+$
+248,628
+$
+DPIT US CNI
+DPIT
+249,774
+$
+-
+$
+246,865
+$
+-
+$
+248,628
+$
+-
+$
+248,628
+$
+I&O US Cloud & Hosting
+DPIT
+834,662
+$
+-
+$
+794,000
+$
+-
+$
+799,059
+$
+-
+$
+799,059
+$
+I&O US Cloud & Hosting
+DPIT
+834,662
+$
+-
+$
+794,000
+$
+-
+$
+799,059
+$
+-
+$
+799,059
+$
+US Ehub
+DPIT
+254,383
+$
+-
+$
+258,502
+$
+-
+$
+271,779
+$
+-
+$
+271,779
+$
+Field Collection Systems (FCS) Upgrade (Gas Only)
+Gas
+-
+$
+160,000
+$
+-
+$
+160,000
+$
+-
+$
+160,000
+$
+160,000
+$
+FY24-27 Enterprise Scalability and Resilience (ESR)
+Gas
+158,897
+$
+70,000
+$
+-
+$
+-
+$
+-
+$
+-
+$
+FY24-27 Enterprise Scalability and Resilience (ESR)
+Gas
+-
+$
+-
+$
+167,300
+$
+70,000
+$
+-
+$
+-
+$
+FY24-27 Enterprise Scalability and Resilience (ESR)
+Gas
+-
+$
+-
+$
+-
+$
+-
+$
+167,535
+$
+50,000
+$
+FY24-27 Enterprise Scalability and Resilience (ESR)
+Gas
+173,000
+$
+50,000
+$
+FY24-27 Gas Application Continuous Improvement (GACI)
+Gas
+150,073
+$
+50,000
+$
+-
+$
+-
+$
+-
+$
+-
+$
+FY24-27 Gas Application Continuous Improvement (GACI)
+Gas
+-
+$
+-
+$
+149,122
+$
+50,000
+$
+-
+$
+-
+$
+FY24-27 Gas Application Continuous Improvement (GACI)
+Gas
+-
+$
+-
+$
+-
+$
+-
+$
+149,646
+$
+50,000
+$
+149,646
+$
+50,000
+$
+FY24-27 Gas Application Continuous Improvement (GACI)
+Gas
+150,000
+$
+50,000
+$
+Gas Application Lifecycle Management (ALM) Application Rationalization
+Gas
+147,812
+$
+230,000
+$
+-
+$
+-
+$
+-
+$
+-
+$
+Gas Data Modernization
+Gas
+111,302
+$
+50,000
+$
+-
+$
+-
+$
+Gas Data Modernization
+Gas
+779,117
+$
+350,000
+$
+Gas Data Modernization
+Gas
+152,964
+$
+700,000
+$
+Gas Data Modernization
+Gas
+130,715
+$
+100,000
+$
+Gas Data Modernization
+Gas
+119,748
+$
+100,000
+$
+New System Operating Procedure (SOP) Solution
+Gas
+164,486
+$
+-
+$
+-
+$
+-
+$
+-
+$
+-
+$
+New System Operating Procedure (SOP) Solution
+Gas
+-
+$
+-
+$
+164,139
+$
+-
+$
+-
+$
+50,000
+$
+200,000
+$
+Remote Methane Detector
+Gas
+165,000
+$
+100,000
+$
+Enterprise Platform for Gas Retail Choice
+Gas
+100,000
+$
+-
+$
+-
+$
+-
+$
+-
+$
+-
+$
+Enterprise Platform for Gas Retail Choice
+Gas
+-
+$
+-
+$
+100,000
+$
+-
+$
+-
+$
+-
+$
+Gas Application Continuous Improvement
+Gas
+-
+$
+500,000
+$
+-
+$
+500,000
+$
+-
+$
+-
+$
+FY25 Gas Regulatory and Operational Enhancements (Minor Works)
+Gas
+142,473
+$
+-
+$
+-
+$
+-
+$
+-
+$
+-
+$
+FY26 Gas Regulatory and Operational Enhancements (Minor Works)
+Gas
+-
+$
+-
+$
+142,473
+$
+-
+$
+-
+$
+-
+$
+FY27 & 28 Gas Regulatory and Operational Enhancements (Minor Works)
+Gas
+-
+$
+-
+$
+-
+$
+-
+$
+142,473
+$
+-
+$
+142,473
+$
+Scalability and Resilience for Enterprise Gas Platforms
+Gas
+-
+$
+656,000
+$
+-
+$
+656,000
+$
+-
+$
+656,000
+$
+656,000
+$
+Gas Management System (SCADA) Upgrade
+Gas
+40,000
+$
+-
+$
+-
+$
+-
+$
+-
+$
+Gas Management System (SCADA) Upgrade
+Gas
+-
+$
+-
+$
+50,000
+$
+-
+$
+-
+$
+1,238,000
+$
+Gas Meter Management System
+Gas
+366,850
+$
+366,850
+$
+366,850
+$
+366,850
+$
+Digital Asset & Work Management for I&R and CNG
+Gas
+217,844
+$
+-
+$
+-
+$
+-
+$
+-
+$
+-
+$
+Digital Asset & Work Management for I&R and CNG
+Gas
+-
+$
+-
+$
+217,274
+$
+-
+$
+-
+$
+-
+$
+Digital Asset & Work Management for I&R and CNG
+Gas
+-
+$
+-
+$
+-
+$
+-
+$
+119,760
+$
+100,000
+$
+200,000
+$
+Asset & Work Management for LNG Enhancements
+Gas
+190,885
+$
+-
+$
+-
+$
+-
+$
+-
+$
+-
+$
+FY28
+Exhibit_(ITDP-6) Project Operating Expenses (Project Opex) and Incremental Run-The-Business costs (iRTB)
+KeySpan Gas East Corporation d/b/a National Grid, The Brooklyn Union Gas Company d/b/a National Grid NY
+Investment Plan Project Opex/iRTB
+FY25
+FY26
+FY27
+Exhibit ___ (ITDP-6) 
+Page 1 of 3
+
+
+--- Page 70 ---
+Asset & Work Management for LNG Enhancements
+Gas
+-
+$
+-
+$
+82,463
+$
+200,000
+$
+-
+$
+200,000
+$
+200,000
+$
+KEDLI-NY Gas Smart Meter Solution
+Gas
+104,000
+$
+-
+$
+-
+$
+-
+$
+-
+$
+-
+$
+KEDLI-NY Gas Smart Meter Solution
+Gas
+-
+$
+-
+$
+-
+$
+-
+$
+485,000
+$
+-
+$
+KEDLI-NY Gas Smart Meter Solution
+Gas
+-
+$
+-
+$
+-
+$
+-
+$
+-
+$
+485,569
+$
+400,000
+$
+Field Tablet Refresh
+Gas
+-
+$
+-
+$
+-
+$
+-
+$
+335,441
+$
+-
+$
+Field Tablet Refresh
+Gas
+-
+$
+-
+$
+-
+$
+-
+$
+-
+$
+-
+$
+335,441
+$
+FC300 Replacement Project
+Gas
+-
+$
+-
+$
+-
+$
+-
+$
+84,000
+$
+-
+$
+FC300 Replacement Project
+Gas
+-
+$
+-
+$
+-
+$
+-
+$
+-
+$
+84,904
+$
+60,000
+$
+Annual HR & Payroll Mandatory Service Pack (HRSP) FY25
+Group Functions
+280,000
+$
+-
+$
+-
+$
+-
+$
+-
+$
+-
+$
+-
+$
+-
+$
+Annual HR & Payroll Mandatory Service Pack (HRSP) FY26
+Group Functions
+-
+$
+-
+$
+280,000
+$
+-
+$
+-
+$
+-
+$
+-
+$
+-
+$
+Business Services Upgrades and Enhancements (Continuous improvements for ECC) Group Functions
+100,000
+$
+50,000
+$
+90,000
+$
+50,000
+$
+-
+$
+50,000
+$
+-
+$
+50,000
+$
+ChatBot
+Group Functions
+60,000
+$
+50,000
+$
+110,000
+$
+50,000
+$
+100,000
+$
+50,000
+$
+-
+$
+50,000
+$
+Document Mgmt. System
+Group Functions
+-
+$
+-
+$
+150,000
+$
+50,000
+$
+270,000
+$
+50,000
+$
+External Reporting enhancing
+Group Functions
+200,000
+$
+FTOM R2R: Robotic Process Automation of Manual Journal Entries - Phase 2
+Group Functions
+80,000
+$
+-
+$
+50,000
+$
+80,000
+$
+80,000
+$
+Governance Risk & Compliance (GRC) program
+Group Functions
+290,000
+$
+Legal FY25+: Group Legal Digital Evolution
+Group Functions
+210,000
+$
+60,000
+$
+150,000
+$
+60,000
+$
+140,000
+$
+60,000
+$
+140,000
+$
+60,000
+$
+P2P Accounts Payable US
+Group Functions
+90,000
+$
+-
+$
+90,000
+$
+-
+$
+90,000
+$
+90,000
+$
+P2P Data Analysis Tool - Additional Strategies
+Group Functions
+120,000
+$
+Procurement Systems Digital Enablement (Global US)
+Group Functions
+100,000
+$
+-
+$
+100,000
+$
+100,000
+$
+100,000
+$
+RightNow to ServiceNow (F&A)
+Group Functions
+90,000
+$
+-
+$
+90,000
+$
+70,000
+$
+70,000
+$
+RPA - Robotic Process Automation - J2L
+Group Functions
+60,000
+$
+50,000
+$
+60,000
+$
+50,000
+$
+RSA Archer Upgrade & Refresh
+Group Functions
+180,000
+$
+170,000
+$
+90,000
+$
+170,000
+$
+90,000
+$
+170,000
+$
+SAP and BackOffice Health Program (Upgrades)
+Group Functions
+300,000
+$
+-
+$
+280,000
+$
+290,000
+$
+290,000
+$
+Group SHE Digital Evolution
+Group Functions
+140,000
+$
+340,000
+$
+130,000
+$
+340,000
+$
+130,000
+$
+340,000
+$
+130,000
+$
+340,000
+$
+Sustainability Apps and Tools
+Group Functions
+140,000
+$
+-
+$
+140,000
+$
+130,000
+$
+Tactical HR
+Group Functions
+130,000
+$
+50,000
+$
+90,000
+$
+50,000
+$
+60,000
+$
+50,000
+$
+US Group Function Minor Enhancements (SAP) - Minor Works
+Group Functions
+210,000
+$
+-
+$
+210,000
+$
+210,000
+$
+210,000
+$
+US Group Function: R2R Regulatory and Compliance
+Group Functions
+70,000
+$
+-
+$
+70,000
+$
+100,000
+$
+100,000
+$
+US Group Functions Operational Requests
+Group Functions
+140,000
+$
+-
+$
+130,000
+$
+130,000
+$
+130,000
+$
+US Group Functions: Tools and Technologies
+Group Functions
+20,000
+$
+-
+$
+20,000
+$
+20,000
+$
+US SAP: Infrastructure Landscape FY25
+Group Functions
+20,000
+$
+-
+$
+US SAP: Infrastructure Landscape FY26
+Group Functions
+20,000
+$
+Workforce Data Domain HR data governance Tools Processes EDM FY24+
+Group Functions
+50,000
+$
+80,000
+$
+50,000
+$
+80,000
+$
+50,000
+$
+80,000
+$
+50,000
+$
+80,000
+$
+Source to Pay Transformation
+Group Functions
+200,000
+$
+30,000
+$
+200,000
+$
+30,000
+$
+200,000
+$
+30,000
+$
+200,000
+$
+30,000
+$
+Property Service/Real Estate/Fleet/Meter Shop/IMWM - IT System Modernization
+Group Functions
+100,000
+$
+100,000
+$
+100,000
+$
+-
+$
+100,000
+$
+-
+$
+Web Digital Evolution
+Group Functions
+200,000
+$
+90,000
+$
+150,000
+$
+-
+$
+150,000
+$
+-
+$
+MyHub2.0
+Group Functions
+500,000
+$
+50,000
+$
+440,000
+$
+50,000
+$
+380,000
+$
+50,000
+$
+350,000
+$
+50,000
+$
+ServiceNow Business Services Module
+Group Functions
+120,000
+$
+1,350,000
+$
+340,000
+$
+1,350,000
+$
+340,000
+$
+1,350,000
+$
+340,000
+$
+1,350,000
+$
+Apptio
+IT Strategic Tooling
+-
+$
+700,000
+$
+-
+$
+700,000
+$
+-
+$
+700,000
+$
+-
+$
+700,000
+$
+Jira Align
+IT Strategic Tooling
+1,200,000
+$
+1,200,000
+$
+1,200,000
+$
+-
+$
+1,200,000
+$
+Workboard
+IT Strategic Tooling
+380,000
+$
+380,000
+$
+380,000
+$
+-
+$
+380,000
+$
+Identity and Access Management
+Security
+720,000
+$
+130,000
+$
+720,000
+$
+130,000
+$
+640,000
+$
+130,000
+$
+500,000
+$
+100,000
+$
+Network Security Program
+Security
+800,000
+$
+400,000
+$
+800,000
+$
+400,000
+$
+750,000
+$
+350,000
+$
+750,000
+$
+450,000
+$
+Operational Technical Security
+Security
+1,250,000
+$
+200,000
+$
+1,500,000
+$
+200,000
+$
+1,250,000
+$
+200,000
+$
+800,000
+$
+200,000
+$
+Platform Security
+Security
+720,000
+$
+150,000
+$
+730,000
+$
+150,000
+$
+770,000
+$
+150,000
+$
+60,000
+$
+125,000
+$
+Security Orchestration Automation & Response (SOAR)
+Security
+450,000
+$
+100,000
+$
+510,000
+$
+100,000
+$
+390,000
+$
+100,000
+$
+300,000
+$
+100,000
+$
+Security Vulnerability Management Program
+Security
+730,000
+$
+100,000
+$
+770,000
+$
+100,000
+$
+790,000
+$
+100,000
+$
+500,000
+$
+100,000
+$
+Subtotal Investment Plan Project Opex & iRTB
+$26,460,177
+$12,915,585
+$23,346,734
+$14,945,929
+$23,395,585
+$18,313,507
+$21,041,796
+$22,515,650
+Exhibit ___ (ITDP-6) 
+Page 2 of 3
+
+
+--- Page 71 ---
+Investment Name
+FY25 OPEX
+FY25 RTB
+FY26 OPEX
+FY26 RTB
+FY27 OPEX
+FY27 RTB
+FY28 OPEX
+FY28 RTB
+Customer Experience
+7,300,000
+$
+-
+$
+8,000,000
+$
+-
+$
+8,300,000
+$
+-
+$
+8,700,000
+$
+-
+$
+Total Customer Experience Transformation Project Opex
+7,300,000
+$
+-
+$
+8,000,000
+$
+-
+$
+8,300,000
+$
+-
+$
+8,700,000
+$
+-
+$
+CRIS to CSS
+15,140,000
+$
+-
+$
+1,893,000
+$
+-
+$
+2,070,000
+$
+-
+$
+-
+$
+-
+$
+Total CSS Project Opex
+15,140,000
+$
+-
+$
+1,893,000
+$
+-
+$
+2,070,000
+$
+-
+$
+-
+$
+-
+$
+Backoffice Refresh
+19,400,000
+$
+-
+$
+31,600,000
+$
+-
+$
+-
+$
+-
+$
+-
+$
+-
+$
+Total Backoffice Refresh Project Opex
+19,400,000
+$
+-
+$
+31,600,000
+$
+-
+$
+-
+$
+-
+$
+-
+$
+-
+$
+Energy Efficiency (Clean Energy 2.0 & Green Button Connect)
+7,900,000
+$
+2,540,000
+$
+7,610,000
+$
+2,840,000
+$
+7,380,000
+$
+2,990,000
+$
+7,380,000
+$
+2,990,000
+$
+Total Clean Energy 2.0 & Green Button Connect Opex & iRTB
+7,900,000
+$
+2,540,000
+$
+7,610,000
+$
+2,840,000
+$
+7,380,000
+$
+2,990,000
+$
+7,380,000
+$
+2,990,000
+$
+Continued Scaling & Evolution (CS&E)
+2,648,700
+$
+-
+$
+2,684,512
+$
+-
+$
+2,765,048
+$
+-
+$
+2,847,998
+$
+-
+$
+Total CS&E Project Opex
+2,648,700
+$
+-
+$
+2,684,512
+$
+-
+$
+2,765,048
+$
+-
+$
+2,847,998
+$
+-
+$
+78,848,877
+$
+15,455,585
+$
+75,134,246
+$
+17,785,929
+$
+43,910,633
+$
+21,303,507
+$
+39,969,794
+$
+25,505,650
+$
+FY25
+FY26
+FY27
+FY28
+Strategic Programs Project Opex/iRTB
+KeySpan Gas East Corporation d/b/a National Grid, The Brooklyn Union Gas Company d/b/a National Grid NY
+Exhibit_(ITDP-6) Project Operating Expenses (Project Opex) and Incremental Run-The-Business costs (iRTB)
+Exhibit ___ (ITDP-6) 
+Page 3 of 3
+
+
+--- Page 72 ---
+  
+ 
+ 
+ 
+ 
+ 
+ 
+ 
+ 
+Exhibit ___ (ITDP-7) 
+ 
+Total and Incremental IT Operating Expenses 
+ 
+ 
+ 
+ 
+ 
+ 
+ 
+ 
+ 
+ 
+ 
+ 
+ 
+ 
+ 
+ 
+ 
+ 
+ 
+ 
+ 
+ 
+ 
+ 
+ 
+
+
+--- Page 73 ---
+Line Operational Cost
+CY22 (HTY)
+FY25
+Data Year 1
+FY26
+Data Year 2
+FY27
+Data Year 3
+FY28
+Data Year 4
+1 Digital Platforms & Infrastructure Technology
+109.0
+109.6
+112.5
+114.6
+116.7
+2 Security
+33.0
+36.8
+37.8
+38.5
+39.2
+3 Vendor Management
+52.2
+70.6
+72.5
+73.8
+75.2
+4 CIDO New York
+11.8
+14.6
+15.0
+15.3
+15.6
+5 Customer
+4.8
+10.6
+10.9
+11.1
+11.3
+6 Group Functions & Other Administration
+11.8
+15.0
+15.4
+15.7
+16.0
+7 Product Office
+4.7
+6.4
+6.5
+6.7
+6.8
+8 Global Management
+2.7
+3.2
+3.3
+3.3
+3.4
+10 Burdens
+25.3
+25.9
+26.7
+26.6
+27.2
+11
+Subtotal Operational Cost
+255.3
+292.6
+300.7
+305.5
+311.3
+12
+13 IT Project Opex/incremental RTB
+14 Investment Plan Project Opex/iRTB
+44.3
+39.4
+38.3
+41.7
+43.6
+15 Customer Experience
+1.7
+7.3
+8.0
+8.3
+8.7
+16 Backoffice Refresh
+-
+19.4
+31.6
+-
+-
+17 CRIS to CSS (CIS)
+2.0
+15.1
+1.9
+2.1
+-
+19 Energy Efficiency (Clean Energy 2.0 & Green Button Connect)
+1.5
+10.4
+10.5
+10.4
+10.4
+20 GBE
+5.9
+-
+-
+-
+-
+21 Continued Scaling and Evolution
+-
+2.6
+2.7
+2.8
+2.8
+22 Burdens
+5.9
+5.9
+6.1
+6.2
+6.3
+24
+Subtotal Project Opex/incremental RTB
+61.3
+100.2
+99.0
+71.4
+71.8
+26 Total IT Opex
+316.6
+392.9
+399.7
+376.9
+383.1
+KeySpan Gas East Corporation d/b/a National Grid, The Brooklyn Union Gas Company d/b/a National Grid NY
+Exhibit_(ITDP-7) Total and Incremental Information Technology and Digital Operating Expenses ($Millions)
+Total IT Operating Expenses
+Exhibit ___ (ITDP-7) 
+Page 1 of 2
+
+
+--- Page 74 ---
+CY22 (HTY)
+FY25
+Data Year 1
+FY26
+Data Year 2
+FY27
+Data Year 3
+FY28
+Data Year 4
+27
+General Inflation Rates
+6.45%
+1.92%
+1.79%
+1.77%
+28
+29
+Total IT Opex in CY22 (HTY)
+316.6
+30
+Incremental Inflation
+20.4
+6.5
+6.1
+6.2
+31
+CY22 (HTY) Opex Adjusted for inflation (Already embedded in RR)
+337.0
+343.5
+349.6
+355.8
+32
+33
+Total IT Opex
+392.9
+399.7
+376.9
+383.1
+34
+Incremental RTB & Core project Opex
+13.2
+14.0
+16.4
+18.2
+35
+Incremental project opex/iRTB from Strategic Programs
+42.7
+42.2
+10.9
+9.1
+36
+Total Incremental IT Opex
+55.9
+56.2
+27.3
+27.3
+37
+55.9
+56.2
+27.3
+27.3
+38 Allocation of Incremental IT Opex
+39
+Allocation %
+40
+GT53 Allocator - KEDNY share of incremental IT RTB/OPEX
+15.36%
+2.0
+2.1
+2.5
+2.8
+41
+GT53 Allocator - KEDLI share of incremental IT RTB/OPEX
+9.09%
+1.2
+1.3
+1.5
+1.7
+42
+KEDNY share of Transformation - Opex/iRTB
+7.6
+7.0
+2.2
+1.8
+43
+KEDLI Share of Transformation - Opex/iRTB
+4.0
+3.9
+1.0
+0.9
+44
+45
+46
+Incremental allocation to The Brooklyn Union Gas Company (KEDNY)
+9.7
+9.1
+4.7
+4.6
+47
+Incremental allocation to KeySpan Gas Corporation (KEDLI)
+5.2
+5.2
+2.5
+2.5
+48
+41.1
+41.9
+20.0
+20.2
+49
+55.9
+56.2
+27.3
+27.3
+Exhibit_(ITDP-7) Total and Incremental Information Technology and Digital Operating Expenses ($Millions)
+Incremental IT Operating Expenses (HTY Adjusted for Inflation)
+KeySpan Gas East Corporation d/b/a National Grid, The Brooklyn Union Gas Company d/b/a National Grid NY
+Exhibit ___ (ITDP-7) 
+Page 2 of 2

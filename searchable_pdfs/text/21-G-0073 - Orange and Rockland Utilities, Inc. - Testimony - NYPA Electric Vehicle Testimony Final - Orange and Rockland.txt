@@ -1,0 +1,789 @@
+--- Page 1 ---
+State of New York  
+Public Service Commission 
+ 
+ 
+______________________________________________________ 
+Case 21-E-0074 and 21-G-0073 – Proceeding on Motion of the Commission  
+as to the Rates, Charges, Rules and Regulations of Orange and Rockland   
+Utilities, Inc. for Electric and Gas Service. 
+______________________________________________________ 
+ 
+ 
+DIRECT TESTIMONY OF JOHN MARKOWITZ 
+ON BEHALF OF THE NEW YORK POWER AUTHORITY 
+ 
+ 
+ 
+ 
+ 
+ 
+ 
+MAY 28, 2021 
+ 
+
+
+--- Page 2 ---
+Direct Testimony of John Markowitz, New York Power Authority 
+ 
+ 
+Cases 21-E-0074 et al. 
+ 
+ 
+May 28, 2021 
+Page 2 of 14 
+ 
+ 
+ 
+I. 
+INTRODUCTION AND QUALIFICATIONS 
+1 
+Q. 
+Please state your name and business address. 
+2 
+A. 
+My name is John Markowitz. My business address is 123 Main Street, White Plains, New 
+3 
+York 10601.  
+4 
+Q. 
+By whom are you employed? 
+5 
+A. 
+I am employed by the New York Power Authority (“NYPA”). 
+6 
+Q.  
+Please state your title, professional experience, and educational background. 
+7 
+A.  
+I am the Director of e-Mobility Technology and Engineering at NYPA. I am part of the 
+8 
+team leading NYPA’s electric vehicle (“EV”) charging infrastructure development 
+9 
+activities. In the last nineteen years at NYPA, I have implemented and managed various 
+10 
+customer-sited advanced technology programs for electric transportation, energy storage, 
+11 
+load control, solar, and wind power. Before joining NYPA, I worked for nine years in 
+12 
+technical support, marketing, and product development in the transportation, 
+13 
+telecommunications, and energy efficiency sectors.  
+14 
+I am a Licensed Professional Engineer and a Certified Energy Manager. I 
+15 
+received a Bachelor of Electrical Engineering from Manhattan College in 1986, and a 
+16 
+Master of Business Administration from Pace University in 1992. Also, I am a member 
+17 
+of the Association of Energy Engineers and the Society of Automotive Engineers.  
+18 
+Q.  
+Briefly describe your experience with EVs and EV charging infrastructure. 
+19 
+A.  
+In my current role, I am part of the team leading the EVolve NY program, a multi-year 
+20 
+initiative to stimulate EV ownership in New York State by making EV travel possible 
+21 
+throughout the State via a new network of 200 direct current fast chargers (“DCFCs”). 
+22 
+
+
+--- Page 3 ---
+Direct Testimony of John Markowitz, New York Power Authority 
+ 
+ 
+Cases 21-E-0074 et al. 
+ 
+ 
+May 28, 2021 
+Page 3 of 14 
+ 
+ 
+ 
+We are planning and building a network of DCFC chargers that NYPA will own and 
+1 
+operate on travel corridors and other convenient locations for EV drivers.  
+2 
+For almost two decades, I have worked on various programs for installing EV 
+3 
+charging equipment and increasing the adoption of EVs ranging from light-duty 
+4 
+passenger vehicles to heavy-duty vehicles like transit buses. I worked on the Clean 
+5 
+Commute Program, a component of which included testing the first plug-in hybrids with 
+6 
+major automakers, and I oversaw the installation of over 100 charging stations for a fleet 
+7 
+of EVs leased to commuters on the Metropolitan Transportation Authority’s (“MTA”) 
+8 
+railroads. I also managed a program to install over 100 public charging stations at 
+9 
+municipal parking lots, airports, and train stations throughout the state with funding from 
+10 
+the New York State Energy Research and Development Authority (“NYSERDA”). This 
+11 
+was the first large-scale deployment of open charge point protocol, or OCPP, software for 
+12 
+EV chargers in North America. To date, I have helped develop a total of 439 Level-2 
+13 
+(“L2”) charging ports at private workplace charging sites and public sector sites.  
+14 
+My team at NYPA also is working with the Thruway Authority to develop DCFC 
+15 
+and L2 charging stations at service plazas, welcome centers, and commuter lots across 
+16 
+New York. In addition, we are developing multiple DCFC hubs for the New York City 
+17 
+Department of Transportation. For heavy-duty vehicles, we oversee the planning and 
+18 
+construction of high-powered charging equipment at bus depots from Buffalo to New 
+19 
+York City in collaboration with the New York State Department of Environmental 
+20 
+Conservation (“DEC”) and NYSERDA.  
+21 
+
+
+--- Page 4 ---
+Direct Testimony of John Markowitz, New York Power Authority 
+ 
+ 
+Cases 21-E-0074 et al. 
+ 
+ 
+May 28, 2021 
+Page 4 of 14 
+ 
+ 
+ 
+Additionally, I have engaged in numerous EV and EV charging technical and 
+1 
+policy-focused committees and working groups. For example, I participated in EPRI’s 
+2 
+Infrastructure Working Committee. I provided input on electrical safety for EV charging 
+3 
+equipment that was submitted to the National Fire Protection Association that publishes 
+4 
+the National Electric Code. I also am a Board Member of the Empire Clean Cities 
+5 
+Coalition program to engage stakeholders and reduce fossil fuel usage.  
+6 
+Q. 
+ Have you testified before the Commission before? 
+7 
+A.  
+Yes. I provided pre-filed testimony in Case 20-E-0380 addressing electric rates, charges, 
+8 
+rules, and regulations for Niagara Mohawk Power Corporation d/b/a National Grid 
+9 
+(“National Grid”); Cases 19-E-0378 et al. addressing electric rates, charges, rules, and 
+10 
+regulations for New York State Electric & Gas Corporation and Rochester Gas & Electric 
+11 
+Corporation (“RG&E”); and Case 19-E-0065 addressing the electric rates, charges, rules, 
+12 
+and regulations for Consolidated Edison Company of New York, Inc (“Con Edison”).  
+13 
+EXHIBITS: 
+14 
+Q. 
+Are you sponsoring any exhibits in support of its testimony? 
+15 
+A. 
+No. 
+16 
+II. 
+BACKGROUND 
+17 
+Q.  
+What is the purpose of your testimony in these proceedings? 
+18 
+A.  
+The purpose of my testimony is to recommend that Orange and Rockland Utilities, Inc. 
+19 
+(“O&R” or “the Company”) adopt a managed charging program for medium- and heavy-
+20 
+duty vehicle fleets, including transit fleets. I also recommend that the Company 
+21 
+implement additional services through the Fleet Assessment Services program the 
+22 
+
+
+--- Page 5 ---
+Direct Testimony of John Markowitz, New York Power Authority 
+ 
+ 
+Cases 21-E-0074 et al. 
+ 
+ 
+May 28, 2021 
+Page 5 of 14 
+ 
+ 
+ 
+Company is developing, as directed by the Public Service Commission (“Commission”) 
+1 
+in its Order Establishing Electric Vehicle Infrastructure Make-Ready Program and Other 
+2 
+Programs (“Make-Ready Program”) issued on July 16, 2020 in the Proceeding on 
+3 
+Motion of the Commission regarding Electric Vehicle Supply Equipment and 
+4 
+Infrastructure (Case 18-E-0138).  
+5 
+Q. 
+What are New York State’s goals related to EV adoption? 
+6 
+A. 
+In October 2013, the State adopted the light-duty zero-emission vehicles (“ZEV”) 
+7 
+mandate, which requires 850,000 light-duty ZEV sales in New York by 2025. In January 
+8 
+2020, Governor Andrew Cuomo, as part of his 2020 State of the State (“SOTS”) Address, 
+9 
+established a requirement that five of the largest upstate and suburban transit authorities 
+10 
+electrify 25 percent of their fleets by 2025, and 100 percent by 2035. Additionally, in July 
+11 
+2020, the State adopted the Medium- and Heavy-Duty ZEV Procurement Memorandum 
+12 
+of Understanding (“MOU”), through which New York agreed to strive for all new 
+13 
+medium- and heavy-duty vehicles sold in New York State to be ZEVs by 2050, with an 
+14 
+interim target of at least 30 percent of such sales by 2030.  
+15 
+ 
+ 
+Additionally, on May 10, 2021, the Climate Action Council’s Transportation 
+16 
+Advisory Panel recommended that the State adopt a goal of 100 percent zero-emission 
+17 
+light-duty vehicles by 2035.  
+18 
+Q. 
+Why has New York adopted such aggressive targets for vehicle electrification? 
+19 
+A. 
+The 2019 Climate Leadership and Community Protection Act (“CLCPA”) obligated the 
+20 
+State to reduce greenhouse gas (“GHG”) emissions from all sources by 40 percent by 
+21 
+2030 and 85 percent by 2050, based on 1990 levels. According to the Department of 
+22 
+
+
+--- Page 6 ---
+Direct Testimony of John Markowitz, New York Power Authority 
+ 
+ 
+Cases 21-E-0074 et al. 
+ 
+ 
+May 28, 2021 
+Page 6 of 14 
+ 
+ 
+ 
+Environmental Conservation webpage on Reducing Greenhouse Gas Emissions, the 
+1 
+transportation sector accounts for approximately 36 percent of New York’s total GHG 
+2 
+emissions. Emissions reductions from this sector, therefore, are critical to achieving the 
+3 
+GHG emissions reduction target required by the CLCPA.  
+4 
+Q. 
+What role does NYPA play in the development of EV charging infrastructure? 
+5 
+A. 
+NYPA is committed to helping the state achieve its GHG emissions reduction and ZEV 
+6 
+targets by investing its capital and providing customers with project development 
+7 
+services. Under the EVolve NY program, NYPA plans to invest up to $250 million in EV 
+8 
+charging infrastructure, services, and customer awareness efforts. NYPA aims to develop, 
+9 
+own, and operate DCFC sites throughout the state to address range anxiety, achieve the 
+10 
+2020 SOTS Regional Economic Development Council charger deployment target, and 
+11 
+achieve the 2020 SOTS goal of 800 new charging stations in New York by 2025.  
+12 
+In addition to the EVolve NY Program, NYPA is providing public entities with 
+13 
+project development services, such as assistance with engineering and procurement of the 
+14 
+necessary EV charging hardware, to help them install public and workplace L2 and 
+15 
+public DCFC charging infrastructure at their sites or within their jurisdictions. NYPA 
+16 
+provides project management services that include construction oversight and procuring 
+17 
+charging stations and installation services on the cities’ behalf.  
+18 
+NYPA also is helping several of the state’s public transit agencies electrify their 
+19 
+bus fleets. NYPA is, or soon will be, managing the installation of DCFC chargers in bus 
+20 
+depots for several transit agencies, including the Niagara Frontier Transportation 
+21 
+Authority (“NFTA”), Rochester Regional Transit Service, Capital District Transportation 
+22 
+
+
+--- Page 7 ---
+Direct Testimony of John Markowitz, New York Power Authority 
+ 
+ 
+Cases 21-E-0074 et al. 
+ 
+ 
+May 28, 2021 
+Page 7 of 14 
+ 
+ 
+ 
+Authority (“CDTA”), and the Bee-Line Bus System (“Westchester County”). These 
+1 
+transit agencies are required to electrify 25 percent of their fleets by 2025 and 100 
+2 
+percent by 2035. NYPA also is working with Tompkins Consolidated Area Transit, 
+3 
+Ulster County Area Transit, New York City Transportation Authority, and the Port 
+4 
+Authority of New York and New Jersey to install the charging infrastructure necessary to 
+5 
+support their electrified fleets.  
+6 
+In addition to managing the installation of charging units for transit fleets in New 
+7 
+York, NYPA is working with NYSERDA and several of the state’s transit agencies to 
+8 
+provide them with a comprehensive master plan for electrifying their fleets. These master 
+9 
+plans will be transit agency specific, providing each entity with an analysis of their 
+10 
+infrastructure and readiness to transition to electric fleets. The master plans will include 
+11 
+analyses on route planning, building and electrical feasibility upgrades, make-ready costs 
+12 
+and schedules, charging logistics, charging infrastructure and electric bus technology 
+13 
+recommendations, and end-of-life considerations for electric transit buses and charging 
+14 
+infrastructure.  
+15 
+III. 
+FLEET ELECTRIFICATION PROGRAM 
+16 
+Q. 
+What are the primary barriers to deployment for fleets?  
+17 
+A. 
+Fleets face several barriers for EV adoption and charging infrastructure deployment. In 
+18 
+my experience working with transit agencies that are electrifying their fleets, estimating 
+19 
+the operating cost of using electricity as a transportation “fuel” is complex due to utility 
+20 
+rate structures with demand and volumetric charges that often have optionalities, such as 
+21 
+time-of-use or opt-in standby rates, and can vary based on actual usage. In contrast, 
+22 
+
+
+--- Page 8 ---
+Direct Testimony of John Markowitz, New York Power Authority 
+ 
+ 
+Cases 21-E-0074 et al. 
+ 
+ 
+May 28, 2021 
+Page 8 of 14 
+ 
+ 
+ 
+budgeting for diesel fuel is simple because it is proportional to the vehicle miles traveled. 
+1 
+Additionally, while fleet operators may plan to do most of their charging in off-peak 
+2 
+hours at night, they will often need some supplemental charging during the utilitity tariff 
+3 
+peak hours that can extend for most of the day. With high power DCFC, those short 
+4 
+charging periods can result in high demand charges for only a limited amount of a fleet’s 
+5 
+charging needs. Therefore, it is very difficult for fleets interested in pursuing 
+6 
+decarbonization to estimate the operational planning and savings they might realize from 
+7 
+electrification. 
+8 
+ 
+ 
+Fleets also face a complex undertaking to upgrade their utility service and install 
+9 
+the necessary chargers. Fleet managers will need to evaluate the different power levels 
+10 
+and rates for expanding service and may have the option of taking service from different 
+11 
+feeder lines depending on where on the site the chargers are installed.  
+12 
+ 
+ 
+These challenges also are coupled with high initial capital costs for installation 
+13 
+and electrical infrastructure make-ready costs. 
+14 
+Q. 
+Why is fleet electrification important for State policy goals?  
+15 
+A. 
+Fleet electrification will support State goals to improve the environment and benefit Low-
+16 
+to-Moderate Income (“LMI”) customers and customers that live in Environmental Justice 
+17 
+(“EJ”) communities. With respect to environmental benefits, the medium- and heavy-
+18 
+duty vehicle segments contribute a significant portion of the transportation sector GHG 
+19 
+emissions. According to the U.S. Environmental Protection Agency, medium- and heavy-
+20 
+duty vehicles accounted for approximately 23 percent of the GHG emissions from the 
+21 
+
+
+--- Page 9 ---
+Direct Testimony of John Markowitz, New York Power Authority 
+ 
+ 
+Cases 21-E-0074 et al. 
+ 
+ 
+May 28, 2021 
+Page 9 of 14 
+ 
+ 
+ 
+U.S. transportation sector in 2018.  Shifting transportation fuel from diesel to an 
+1 
+increasingly decarbonized electric supply will reduce emissions from this sector.   
+2 
+Electrification of medium- and heavy-duty fleet vehicles is also a significant issue 
+3 
+for LMI customers and customers that live in EJ communities. In New York City, 
+4 
+approximately 75 percent of the public transit bus depots are located in, and 
+5 
+predominately serve, LMI and EJ communities. These are the same areas where it is 
+6 
+expected that EV adoption rates will remain low for some time due to the higher initial 
+7 
+cost of the vehicles and lack of at-home charging options. Supporting the electrification 
+8 
+of medium- and heavy-duty fleets that operate in these neighborhoods would help ensure 
+9 
+they also realize the environmental and other benefits associated with transportation 
+10 
+electrification.  
+11 
+Q. 
+What support is provided for fleet electrification in the Make-Ready Program? 
+12 
+A. 
+The Make-Ready Program Order established a Medium- and Heavy-Duty Fleet Make-
+13 
+Ready Pilot Program (“Pilot Program”) in the investor-owned utility (“IOU”) service 
+14 
+territories, with a total budget of $15 million. Of this amount, Orange & Rockland is 
+15 
+expected to receive $2 million based on an implementation plan filed by the IOUs on 
+16 
+October 14, 2020. The Pilot Program will cover up to 90 percent of the utility-side make-
+17 
+ready infrastructure upgrade costs for eligible projects.  
+18 
+This Order also established an approximately $10 million Transit Authority 
+19 
+Make-Ready Program and directed Con Edison, National Grid, and RG&E to partner 
+20 
+with the Westchester County Bee-Line Bus System, CDTA, NFTA, and the Rochester-
+21 
+Genesee Regional Transit Authority to fund make-ready infrastructure work at bus depots 
+22 
+
+
+--- Page 10 ---
+Direct Testimony of John Markowitz, New York Power Authority 
+ 
+ 
+Cases 21-E-0074 et al. 
+ 
+ 
+May 28, 2021 
+Page 10 of 14 
+ 
+ 
+ 
+for electric transit fleet charging. These projects will be eligible for incentives that cover 
+1 
+100 percent of the make-ready costs. O&R was not allocated any funds under this 
+2 
+program.  
+3 
+The Commission also directed the IOUs to establish Fleet Assessment Services 
+4 
+programs to provide fleet advisory services to light-, medium-, and heavy-duty fleet 
+5 
+operators. The assessment is to provide fleet operators with site feasibility and rate 
+6 
+analysis to determine their best options for electrification.  
+7 
+Finally, the Make-Ready Program Order established a $20 million budget for 
+8 
+NYSERDA to demonstrate the viability of opportunities for medium- and heavy-duty 
+9 
+vehicle electrification. It will support projects that demonstrate commercially available 
+10 
+and viable technologies or strategies that reduce the cost of electric medium- and heavy-
+11 
+duty vehicle charging and associated electric upgrades to enable the adoption of these 
+12 
+vehicles at scale. This budget allocation also is intended to expand viable markets for 
+13 
+electrifying these vehicles to new applications/vocations, weight classes, and/or duty 
+14 
+cycles.  
+15 
+Q. 
+Did the Company propose in its rate filing any programs related to fleet 
+16 
+electrification? 
+17 
+A. 
+No, the Company did not propose any programs related to fleet vehicle electrification.  
+18 
+Q. 
+What action do you recommend the Company take to assist fleets in electrifying?  
+19 
+A. 
+The Company should adopt a managed charging program for fleets. In the subsequent 
+20 
+testimony, I often will refer specifically to what I have observed from working with 
+21 
+public transit agencies. Based on my years of experience in the industry and speaking 
+22 
+
+
+--- Page 11 ---
+Direct Testimony of John Markowitz, New York Power Authority 
+ 
+ 
+Cases 21-E-0074 et al. 
+ 
+ 
+May 28, 2021 
+Page 11 of 14 
+ 
+ 
+ 
+with other industry experts, however, it is my understanding that other medium- and 
+1 
+heavy-duty fleet electric vehicles will face many of the same challenges and barriers as 
+2 
+public transit electric vehicle fleets and also could benefit from my recommendations.  
+3 
+Q. 
+What is managed charging? 
+4 
+A. 
+Managed charging often is described as the intelligent charging of EVs, where charging 
+5 
+can be shifted based on grid loads and in accordance with the vehicle owner’s needs. It 
+6 
+can refer to utility-managed charging or user-managed charging.  
+7 
+Under utility-managed charging, the utility would control when an EV charges, 
+8 
+subject to certain restrictions. The EV owner would specify the daily time(s) by which a 
+9 
+full charge is needed.  
+10 
+Under user-managed charging, the EV owner would be incentivized to charge at 
+11 
+times that the utility wants the vehicle to charge, such as off-peak periods. Customers 
+12 
+would receive an incentive for enrolling in the program and charging during off-peak 
+13 
+periods. There also may be penalties or higher rates for charging during peak periods. 
+14 
+Q. 
+Why should the Company include a managed charging option for vehicle fleets in its 
+15 
+service territory? 
+16 
+A. 
+Managed charging enables the utility to use its real-time insight into when curtailment is 
+17 
+needed to signal the charging station to slow down or stop charging a particular vehicle. 
+18 
+This arrangement is mutually beneficial for the customer and the utility. It provides the 
+19 
+vehicle operator with confidence that the vehicle will be charged when needed for use. It 
+20 
+benefits utilities by increasing their flexibility to manage grid load, thus shaving peak 
+21 
+demand and avoiding costly infrastructure upgrades, all of which benefit ratepayers. 
+22 
+
+
+--- Page 12 ---
+Direct Testimony of John Markowitz, New York Power Authority 
+ 
+ 
+Cases 21-E-0074 et al. 
+ 
+ 
+May 28, 2021 
+Page 12 of 14 
+ 
+ 
+ 
+Furthermore, because electric fleet vehicles generally will require much more 
+1 
+electricity to charge individual vehicles due to the size of their batteries, high-speed and 
+2 
+high-power charging will be needed at the charging depots. This is particularly true for 
+3 
+the vehicles in a public transit agency’s fleet, which consist primarily of large buses. 
+4 
+When several of these chargers are used simultaneously, it will introduce a substantial 
+5 
+incremental electric demand to the charging depot. Charging fleet vehicle batteries during 
+6 
+the hours with the highest electric demand could impose constraints on the existing 
+7 
+electric distribution infrastructure. Conversely, charging fleet vehicles during low-
+8 
+demand hours can provide grid benefits by increasing the capacity utilization of 
+9 
+distribution and generation assets. Off-peak charging also may benefit the transit agency 
+10 
+by limiting impacts to dispatch scheduling by removing buses from service at times of 
+11 
+lower ridership. The costs and potential benefits arising from this incremental load make 
+12 
+behavioral strategy incentives, such as a managed charging option, effective tools to 
+13 
+promote low-demand period charging.  
+  
+14 
+Q. 
+Do you have any recommendations for how a managed charging option should be 
+15 
+implemented? 
+16 
+A. 
+The managed charging option will need to consider the operational constraints of fleet 
+17 
+operators, particularly transit agencies. Public transit buses might need to charge from 
+18 
+time to time during the peak hours of 7:00 a.m. to 10:00 p.m., Monday through Friday, to 
+19 
+serve commuters. Managed charging technologies and incentives should be used to 
+20 
+encourage transit charging primarily during off-peak hours to the extent practicable. 
+21 
+Utilities also should partner with fleet operators and transit agencies to determine the 
+22 
+
+
+--- Page 13 ---
+Direct Testimony of John Markowitz, New York Power Authority 
+ 
+ 
+Cases 21-E-0074 et al. 
+ 
+ 
+May 28, 2021 
+Page 13 of 14 
+ 
+ 
+ 
+optimal load shape in their service territories and they should permit limited charging 
+1 
+during on-peak hours, if necessary, for efficient scheduling dispatch. This approach 
+2 
+would provide fleet operators and transit agencies with the flexibility needed to charge 
+3 
+their vehicles in a timeframe that meets the needs of the fleet operator while still allowing 
+4 
+utilities to manage load effectively.  
+5 
+Q. 
+Do you recommend any other modifications to assist fleets in electrifying? 
+6 
+A. 
+Yes. O&R should also expand the fleet advisory services to provide fleet customers with 
+7 
+a roadmap to electrification. Given the complexity of switching to electric fleets, 
+8 
+additional hands-on service is needed for utilities to develop these new customers. These 
+9 
+services should include an electricity bill impact analysis, a site feasibility analysis, and 
+10 
+timelines for service upgrades. The site feasibility analysis should include elements such 
+11 
+as cost estimates for infrastructure upgrades on both the utility and customer sides of the 
+12 
+meter and optionality on upgrade sizing, transformer ownership, or recommendations 
+13 
+regarding alternate sites for charging depots. 
+14 
+Q. 
+Why is it important to adopt managed charging and additional fleet advisory 
+15 
+services in this rate proceeding? 
+16 
+A. 
+These changes will improve the economics of fleet electrification and ease the barrier for 
+17 
+conversion to an all-electric fleet. From my personal experience, the state’s transit 
+18 
+agencies are eager to electrify, some are required to electrify, but they all face stiff 
+19 
+financial and informational barriers to doing so. Implementing managed charging and 
+20 
+additional fleet advisory services as I recommend will allow transit agencies and other 
+21 
+fleet customers to increase their financial savings from the inception, or near-inception, 
+22 
+
+
+--- Page 14 ---
+Direct Testimony of John Markowitz, New York Power Authority 
+ 
+ 
+Cases 21-E-0074 et al. 
+ 
+ 
+May 28, 2021 
+Page 14 of 14 
+ 
+ 
+ 
+of their fleet electrification process and be better informed about their options when 
+1 
+making the decision to electrify their fleets.  
+2 
+Q. 
+Does this conclude your testimony? 
+3 
+A. 
+Yes, it does.  
+4 

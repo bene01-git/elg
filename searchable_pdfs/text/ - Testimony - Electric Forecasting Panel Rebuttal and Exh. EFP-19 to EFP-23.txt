@@ -1,0 +1,4258 @@
+--- Page 1 ---
+CASE NO. 22-E-0064 
+ 
+CONSOLIDATED EDISON COMPANY OF NEW YORK, INC. 
+ 
+ELECTRIC FORECASTING PANEL  
+REBUTTAL TESTIMONY 
+ 
+-1- 
+Q. 
+Would the members of the Forecasting Panel please state 
+1 
+their names? 
+2 
+A. 
+John Catuogno, Hock G. Ng, and Leanne M. Attanasio. 
+3 
+Q. 
+Have you previously submitted testimony in this proceeding? 
+4 
+A. 
+Yes, we submitted initial testimony and update testimony on 
+5 
+behalf of Consolidated Edison Company of New York, Inc. 
+6 
+(“Con Edison” or “Company”) as the Electric Forecasting 
+7 
+Panel (“Panel”). 
+8 
+Q. 
+What is the purpose of the Panel’s rebuttal testimony? 
+9 
+A. 
+We are responding to the testimony of the following 
+10 
+parties:  
+11 
+• 
+Department of Public Service Staff (“Staff”) 
+12 
+Forecasting Panel (“SFP”); and 
+13 
+• 
+Staff Rates Panel (“SRP”). 
+14 
+Q.  What were Staff’s concerns with the Company’s customer and 
+15 
+volume models? 
+16 
+A. 
+While Staff used similar econometric ARIMAX modeling 
+17 
+approach to develop their electric delivery volume forecast 
+18 
+as the Company did, they were concerned about the 
+19 
+independent variables used in the Company’s models.  In 
+20 
+particular, they were concerned about the Company’s use of 
+21 
+
+
+--- Page 2 ---
+CASE NO. 22-E-0064 
+ 
+CONSOLIDATED EDISON COMPANY OF NEW YORK, INC. 
+ 
+ELECTRIC FORECASTING PANEL  
+REBUTTAL TESTIMONY 
+ 
+-2- 
+mobility variables and of weather variables that are 
+1 
+adjusted for climate change.  
+2 
+Q. 
+What were Staff’s concerns and recommendations related to 
+3 
+the Company’s use of the mobility variables? 
+4 
+A. 
+SFP had the following concerns and recommendations 
+5 
+regarding the Company’s use of mobility variables: 
+6 
+1) SFP was concerned that the Company’s mobility variables 
+7 
+were constructed using Google’s Community Mobility 
+8 
+Reports (“CMR”) and argued that it is a private source 
+9 
+whose quality controls are not as transparent as a 
+10 
+government-supplied data series; 
+11 
+2) SFP noted that Google mobility data may be subject to 
+12 
+selection bias because the data is collected only from 
+13 
+mobile phone users that choose to share their location; 
+14 
+3) SFP indicated that it is not clear why the mobility of a 
+15 
+subset of Con Edison customers would provide the best 
+16 
+indication of the impact of the pandemic on its 
+17 
+customers’ willingness to consume electric energy; 
+18 
+4) SFP believes the Company’s forecast of the value of the 
+19 
+mobility variables are subjective due to what they 
+20 
+perceive to be the lack of independent third-party 
+21 
+source of forecasts; and 
+22 
+
+
+--- Page 3 ---
+CASE NO. 22-E-0064 
+ 
+CONSOLIDATED EDISON COMPANY OF NEW YORK, INC. 
+ 
+ELECTRIC FORECASTING PANEL  
+REBUTTAL TESTIMONY 
+ 
+-3- 
+5) SFP recommends the use of a combination of the retail 
+1 
+and leisure and hospitality employment data to create an 
+2 
+index that represents the impact of COVID on electric 
+3 
+customer numbers and usage. 
+4 
+Q. 
+Do you agree with Staff’s recommendations to replace the 
+5 
+mobility variable with their recommended COVID variable? 
+6 
+A. 
+No, we do not agree for the following reasons: 
+7 
+1) Mobile location data gathered from private mobile phone 
+8 
+companies have been used in several epidemiological 
+9 
+studies.  In fact, CMR seems to be viewed as an 
+10 
+acceptable source of mobility data by academia and there 
+11 
+are already a number of academic studies in relation to 
+12 
+the COVID-19 pandemic that use the CMR as a data source. 
+13 
+Below are a few relevant excerpts on the appropriateness 
+14 
+of CMR data:1 
+15 
+ 
+1 Governmental agencies have also relied on Google to obtain user information. 
+For instance, the New York City Comptroller’s office uses CMR to track the 
+return to office.   See https://comptroller.nyc.gov/newsroom/new-york-by-the-
+numbers-monthly-economic-and-fiscal-outlook-no-65-may-2nd-2022/. 
+
+
+--- Page 4 ---
+CASE NO. 22-E-0064 
+ 
+CONSOLIDATED EDISON COMPANY OF NEW YORK, INC. 
+ 
+ELECTRIC FORECASTING PANEL  
+REBUTTAL TESTIMONY 
+ 
+-4- 
+Citation 
+Excerpts/Comments 
+Sulyok, M., & Walker, M. 
+(2020). Community movement and 
+COVID-19: a global study using 
+Google's Community Mobility 
+Reports. Epidemiology and 
+Infection, 148, e284. 
+https://doi.org/10.1017/S09502
+68820002757 
+"These datasets are a useful, and 
+global, measure of social activity 
+and movement... These reports 
+provide the opportunity to study 
+the relationship between social 
+activity and mobility and COVID-19 
+incidence. In the absence of other 
+global sources of data for these 
+factors, Google's CMR data provide 
+a good indication of the effect 
+health recommendations and 
+governmental restrictions have had 
+on social activity and movement." 
+Kishore K, Jaswal V, Verma M, 
+Koushal V. Exploring the 
+Utility of Google Mobility 
+Data During the COVID-19 
+Pandemic in India: Digital 
+Epidemiological Analysis. JMIR 
+Public Health Surveill. 2021 
+Aug 30;7(8):e29957. doi: 
+10.2196/29957. PMID: 34174780; 
+PMCID: PMC8407437. 
+“A high correlation coefficient 
+between epidemiological and 
+mobility indicators was observed 
+for the lockdown and unlock phases 
+compared to the prelockdown 
+phase.” 
+Katafuchi, Y., Kurita, K. & 
+Managi, S. COVID-19 with 
+Stigma: Theory and Evidence 
+from Mobility Data. Economics 
+of Disasters and Climate 
+Change 5, 71–95 (2021). 
+https://doi.org/10.1007/s41885
+-020-00077-w 
+"This study analyzes the effects 
+of non-legally binding policies on 
+going-out behavior from two 
+perspectives: the construction of 
+a micro-theoretical model and an 
+empirical analysis using panel 
+data from the Google COVID-19 
+Community Mobility Reports." 
+2) The Company is confused regarding Staff’s concern that 
+1 
+location does not indicate willingness to consume 
+2 
+electric energy.  Google CMR is an indication of time 
+3 
+spent by consumers in a location.  The more time spent 
+4 
+in a location, the more likely consumers are to use more 
+5 
+
+
+--- Page 5 ---
+CASE NO. 22-E-0064 
+ 
+CONSOLIDATED EDISON COMPANY OF NEW YORK, INC. 
+ 
+ELECTRIC FORECASTING PANEL  
+REBUTTAL TESTIMONY 
+ 
+-5- 
+electric energy at that location.  The issue is not 
+1 
+“willingness” to use electric energy but where customers 
+2 
+are physically located. 
+3 
+3) Staff has raised a concern of selection bias based 
+4 
+solely on the voluntary nature of participation in CMR 
+5 
+data.  However, survey data used in statistical studies 
+6 
+are often obtained from voluntary survey participants 
+7 
+because there are limitations on what data that may be 
+8 
+collected without individual consent.  Indeed, the 
+9 
+employment data on which Staff bases its COVID variable 
+10 
+is obtained from the Current Employment Survey (CES) 
+11 
+conducted by the Bureau of Labor Statistics and, in New 
+12 
+York (and most states), participation in the survey is 
+13 
+voluntary.  The voluntary nature of location sharing 
+14 
+does not necessarily subject the data obtained from it 
+15 
+to selection bias and Staff has not articulated a 
+16 
+specific concern on the alleged nature or the impact of 
+17 
+the “selection bias” in CMR. 
+18 
+4) The COVID variable that Staff proposes is flawed as it 
+19 
+does not align with the characteristic waves of COVID 
+20 
+infections.  In contrast, the Company’s mobility 
+21 
+variables (M_RESI, M_WKPL, and M_RNR) move with the 
+22 
+
+
+--- Page 6 ---
+CASE NO. 22-E-0064 
+ 
+CONSOLIDATED EDISON COMPANY OF NEW YORK, INC. 
+ 
+ELECTRIC FORECASTING PANEL  
+REBUTTAL TESTIMONY 
+ 
+-6- 
+COVID infection waves in New York City.  Exhibit_(EFP-
+1 
+19) shows how the Company’s proxies for COVID seem to 
+2 
+follow similar patterns as the data for the average 
+3 
+monthly number of new COVID cases in New York City 
+4 
+(obtained from Center for Disease Control and 
+5 
+Prevention) and how Staff’s does not. 
+6 
+6) The Company’s forecast of the stable levels of its 
+7 
+mobility variables post-COVID are not randomly created 
+8 
+and were based on the following: 
+9 
+a) The timing of the mobility variables reaching their 
+10 
+stable points are based on Moody’s Analytics’ 
+11 
+forecast of the economy going back to pre-COVID 
+12 
+levels at the time.  At the time of the Company’s 
+13 
+forecast update, Moody’s Analytics forecasted that 
+14 
+employment in the Company’s service territory will 
+15 
+reach around pre-COVID levels after 2022. 
+16 
+b) The Company’s stable level of the mobility variable 
+17 
+for the workplace, M_WKPL, was based on a study by 
+18 
+the chief economist of Upwork, Adam Ozimek.2  The 
+19 
+study was based on a survey of 1,500 hiring managers.  
+20 
+ 
+2 Ozimek, Adam.” The Future of Remote Work,” Upwork. 27 May 2020, 
+https://www.upwork.com/press/releases/the-future-of-remote-work. 
+
+
+--- Page 7 ---
+CASE NO. 22-E-0064 
+ 
+CONSOLIDATED EDISON COMPANY OF NEW YORK, INC. 
+ 
+ELECTRIC FORECASTING PANEL  
+REBUTTAL TESTIMONY 
+ 
+-7- 
+According to the study, only 13.2% of the workforce 
+1 
+was working remotely full time prior to COVID.  
+2 
+During COVID, the study found over half of the 
+3 
+workers were working remotely (we rounded to 50% in 
+4 
+our analysis).  The study indicated that about 21.8% 
+5 
+of the workers will be working remotely full-time 
+6 
+post-COVID.  The Company adjusted that up to 30% to 
+7 
+also account for increases in the number of workers 
+8 
+who will be working remotely part-time.  Out of 100 
+9 
+workers, the Company calculated that during the 
+10 
+height of the pandemic, there was a 279% increase in 
+11 
+full-time remote workers from pre-pandemic levels 
+12 
+(increase from 13.2 workers to 50 workers).  With the 
+13 
+forecasted new normal of 30 workers remotely working 
+14 
+out of 100, that represents a 127% increase from pre-
+15 
+pandemic levels.  We also assume a 42% “pandemic 
+16 
+stable” drop in mobility – the average of M_WKPL 
+17 
+between June 2020 and March 2021 when the city 
+18 
+started to settle down and prior to widespread 
+19 
+vaccinations.  If a 279% increase in remote work led 
+20 
+to a 42% drop in mobility, it follows that a 127% 
+21 
+increase in remote work is expected to cause around a 
+22 
+
+
+--- Page 8 ---
+CASE NO. 22-E-0064 
+ 
+CONSOLIDATED EDISON COMPANY OF NEW YORK, INC. 
+ 
+ELECTRIC FORECASTING PANEL  
+REBUTTAL TESTIMONY 
+ 
+-8- 
+20% drop in mobility from pre-pandemic levels.  Thus, 
+1 
+M_WKPL stabilizes at 0.2.  We present this in further 
+2 
+detail in Exhibit_(EFP-20). 
+3 
+c) Due to the increased number of full-time and part-time 
+4 
+remote workers, the Company assumed that there should 
+5 
+also be an increase in the amount of time people spend 
+6 
+in their residences.  Thus, M_RESI should have a higher 
+7 
+stable level post-COVID at 0.05.  We roughly calculated 
+8 
+that there should be around 3.15% increase in the 
+9 
+residential mobility compared to pre-COVID levels, but 
+10 
+we rounded that up to 5% to account for a general 
+11 
+increase in home activity post-COVID (increase in 
+12 
+retirees, homeschoolers, etc.).  The details are also 
+13 
+found in Exhibit-(EFP-20).  
+14 
+Q. 
+What were Staff’s concerns and recommendations related to 
+15 
+the Company’s use of weather variables that account for 
+16 
+climate change? 
+17 
+A. 
+Staff was concerned that the long-term weather trends were 
+18 
+being applied to weather conditions for a shorter time 
+19 
+horizon (specifically, the rate years).  They were also 
+20 
+concerned about applying the growth rates derived from La 
+21 
+Guardia to the degree days obtained from Central Park.  
+22 
+
+
+--- Page 9 ---
+CASE NO. 22-E-0064 
+ 
+CONSOLIDATED EDISON COMPANY OF NEW YORK, INC. 
+ 
+ELECTRIC FORECASTING PANEL  
+REBUTTAL TESTIMONY 
+ 
+-9- 
+Staff recommends that the 10-year normal weather from 
+1 
+Central Park be used in the Company’s forecast, just as it 
+2 
+had done in the past. 
+3 
+Q. 
+Do you agree with Staff’s recommendations to remove the 
+4 
+Climate Change adjustment from the weather variables? 
+5 
+A. 
+No, we do not agree for the following reasons: 
+6 
+1) For the weather variable, Staff states that a study 
+7 
+would need to be done to determine the impact of climate 
+8 
+change and so recommends using a 10-year average for 
+9 
+“simplicity” in this case.  Staff argues this approach 
+10 
+was “endorsed” in 2009 Commission Order.  Given the 
+11 
+increasing impacts of climate change on the Company’s 
+12 
+service territory, it is not appropriate to use an 
+13 
+approach from 2009 that does not take into account 
+14 
+climate change.  While the Company agrees with Staff 
+15 
+that more studies will be needed and that future 
+16 
+forecasts will adjust to take into account such studies, 
+17 
+the Company finds it unreasonable to ignore the study 
+18 
+that has already been completed.     
+19 
+  
+20 
+ 
+21 
+
+
+--- Page 10 ---
+CASE NO. 22-E-0064 
+ 
+CONSOLIDATED EDISON COMPANY OF NEW YORK, INC. 
+ 
+ELECTRIC FORECASTING PANEL  
+REBUTTAL TESTIMONY 
+ 
+-10- 
+2) In terms of the perceived mismatch in data between La 
+1 
+Guardia and Central Park, according to the Company’s 
+2 
+Climate Change and Vulnerability Study, the degree days 
+3 
+obtained from La Guardia and in Central Park stations 
+4 
+are highly correlated.  Moreover, the growth rates 
+5 
+obtained using weather data from La Guardia station are 
+6 
+applied to the Central Park normal weather.  Thus, the 
+7 
+Company is still using the weather data obtained from 
+8 
+Central Park as the base.  The Company does not have any 
+9 
+reason to assume that the Central Park degree days 
+10 
+should have different growth rates from La Guardia’s. 
+11 
+Q. 
+Were there independent variables—other than those already 
+12 
+discussed prior—that Staff used in their models, but the 
+13 
+Company did not? 
+14 
+A. 
+Yes.  Staff used the number of households in the service 
+15 
+territory as an explanatory variable in its SC1 and SC9 
+16 
+customer models.  The Company used private non-
+17 
+manufacturing employment in its SC1 customer model and did 
+18 
+not use a variable to represent the economy in its SC9 
+19 
+customer model. 
+20 
+Q. 
+Did Staff object to the Company’s use of different 
+21 
+variables in the SC1 and SC9 customer models? 
+22 
+
+
+--- Page 11 ---
+CASE NO. 22-E-0064 
+ 
+CONSOLIDATED EDISON COMPANY OF NEW YORK, INC. 
+ 
+ELECTRIC FORECASTING PANEL  
+REBUTTAL TESTIMONY 
+ 
+-11- 
+A. 
+Staff did not object. 
+1 
+Q. 
+Did Staff make any post-model adjustments to their electric 
+2 
+volume forecast? 
+3 
+A. 
+Yes. 
+4 
+Q.  How are Staff’s post-model adjustments made and how do they 
+5 
+differ from the Company’s post-model adjustments? 
+6 
+A.  For Energy Efficiency (EE), Solar Generation (PV), and 
+7 
+Electric Vehicles (EV), Staff constructed econometric 
+8 
+models to measure the time trends for each of these 
+9 
+distributed energy resources (“DER”).  They then forecast 
+10 
+the volume impact of these DERs.  Staff maintains that the 
+11 
+forecasts from these models are already projected into the 
+12 
+Company’s volume model forecasts.  Thus, the forecasts from 
+13 
+the DER models must be taken off the Company’s post-model 
+14 
+adjustments.  The details are found in Exhibit__(SFP-6). 
+15 
+Q. 
+Do you agree with Staff’s post-model adjustments?  
+16 
+A. 
+No, we do not agree with Staff’s post-model adjustments for 
+17 
+the following reasons: 
+18 
+(1) 
+In constructing all DER trend models, Staff did not 
+19 
+use the same sample size as the volume models.  All 
+20 
+volume models were constructed with samples starting 
+21 
+from the first quarter of 1997 and ending the fourth 
+22 
+
+
+--- Page 12 ---
+CASE NO. 22-E-0064 
+ 
+CONSOLIDATED EDISON COMPANY OF NEW YORK, INC. 
+ 
+ELECTRIC FORECASTING PANEL  
+REBUTTAL TESTIMONY 
+ 
+-12- 
+quarter of 2021.  For its EE trend models, Staff used 
+1 
+samples starting only from 2009.  For its PV models, 
+2 
+they used samples starting only from 2001.  And for 
+3 
+its EV model, they use a sample starting only from 
+4 
+2012.  Because these trends were measured using sample 
+5 
+sizes that are different from the sample sizes used in 
+6 
+the volume models, the trends obtained from these DER 
+7 
+models are not representative of the trends that would 
+8 
+exist (if any) in the entire historical period used in 
+9 
+the volume models.  
+10 
+(2) 
+Because Staff did not include the earlier periods 
+11 
+where the DERs had no impact on volume, Staff most 
+12 
+likely overestimated the DER trends that they are 
+13 
+attempting to measure. 
+14 
+(3) 
+The Company does not agree with the functional form of 
+15 
+the DER trend models as presented in Staff 
+16 
+Exhibit__(SFP-6).  The functional forms used in 
+17 
+Staff’s trend analyses models are modeling the trend 
+18 
+of the growth rate of the DERs, instead of the 
+19 
+historical trend of the DER itself.  If their goal is 
+20 
+to estimate the time trend associated with the DER, 
+21 
+then the left-hand side variable of the trend model 
+22 
+
+
+--- Page 13 ---
+CASE NO. 22-E-0064 
+ 
+CONSOLIDATED EDISON COMPANY OF NEW YORK, INC. 
+ 
+ELECTRIC FORECASTING PANEL  
+REBUTTAL TESTIMONY 
+ 
+-13- 
+should be the raw historical data for the particular 
+1 
+DER. 
+2 
+(4) 
+The dependent variables in Staff’s trend models for 
+3 
+SC1 EE, SC9 EE, NYPA EE, and EV each has a unit root.  
+4 
+The results for the unit root tests on these variables 
+5 
+are presented in Exhibit_(EFP-21).  The non-
+6 
+stationarity of the dependent variables used by Staff 
+7 
+invalidates the trend models estimated from these 
+8 
+variables. 
+9 
+Q. 
+In order to compare the impact of Staff’s approach, did the 
+10 
+Company attempt to model the time trends that exist in the 
+11 
+historical data of the DERs? 
+12 
+A. 
+Yes, the Company estimated the trend models in EE, PV, and 
+13 
+EVs as presented in Exhibit__(EFP-22).  The exhibit also 
+14 
+presents the trends that are estimated to exist in the 
+15 
+Company’s volume forecasts.  
+16 
+Q. 
+Have you compared the Company’s forecasts from the Update 
+17 
+and the forecasts adjusted for DER trends? 
+18 
+A. 
+Yes, we prepared an exhibit that compares the Company’s 
+19 
+updated volume forecast by service classification to the 
+20 
+forecast if trends are removed.  With the removal of the 
+21 
+EE, PV, and EV trends from the volume forecast, the 
+22 
+
+
+--- Page 14 ---
+CASE NO. 22-E-0064 
+ 
+CONSOLIDATED EDISON COMPANY OF NEW YORK, INC. 
+ 
+ELECTRIC FORECASTING PANEL  
+REBUTTAL TESTIMONY 
+ 
+-14- 
+Company’s total volume forecast increases by 110 GWh to 
+1 
+51,606 GWh or 0.2% higher than its updated forecast of 
+2 
+51,496 GWh.  These results are presented in Exhibit-(EFP-
+3 
+23).  Thus, accounting for the DER trends in the volume 
+4 
+forecast resulted in a negligible change from the Company’s 
+5 
+updated forecast without the trends removed. 
+6 
+Q. 
+Have you compared the Company’s forecasts adjusted for 
+7 
+trends to Staff’s volume forecasts? 
+8 
+A. 
+Yes, the comparison between Staff’s forecasts and the 
+9 
+Company’s updated forecasts with the DER trends removed are 
+10 
+also presented in Exhibit__(EFP-23).  Staff’s total volume 
+11 
+forecast is 485 GWh higher than the Company’s updated 
+12 
+forecast with the DER trends removed.  This suggests that 
+13 
+Staff may be overestimating the DER trends that are being 
+14 
+carried through in the forecasts. 
+15 
+Q. 
+What are the Company’s conclusions pertaining to the choice 
+16 
+of volume forecasting models? 
+17 
+A. 
+The Company maintains that its volume forecasting models 
+18 
+are statistically valid and should be adopted instead of 
+19 
+the Staff models for the reasons stated above.  
+20 
+Furthermore, correcting for an estimated time trend in the 
+21 
+DERs does not result in a forecast that varies greatly from 
+22 
+
+
+--- Page 15 ---
+CASE NO. 22-E-0064 
+ 
+CONSOLIDATED EDISON COMPANY OF NEW YORK, INC. 
+ 
+ELECTRIC FORECASTING PANEL  
+REBUTTAL TESTIMONY 
+ 
+-15- 
+the Company’s volume forecast in its Update.  The small 
+1 
+variance between these two forecasts indicates that the 
+2 
+Company is not grossly double counting the effect of EE, 
+3 
+PV, and EVs in its current forecasting methodology.  
+4 
+Q. 
+Did the Company find other issues with Staff’s volume 
+5 
+forecast? 
+6 
+A. 
+Yes, the Company found the following issues: 
+7 
+(1) For SC12, in both Exhibit_(SFP-2) and Exhibit_(SRP-2), 
+8 
+Schedule 1, Staff indicates a volume forecast of 291 
+9 
+GWh.  The volume in both exhibits is inconsistent with 
+10 
+SFP’s volume model output and adjustments, which 
+11 
+should be 295 GWh.  We do note that the revenue they 
+12 
+presented in Exhibit__(SRP-2), Schedule 1 is priced on 
+13 
+the correct volume forecast. 
+14 
+(2) For NYPA, in both Exhibit_(SFP-2) and Exhibit_(SRP-2), 
+15 
+Schedule 1, Staff indicates a volume forecast of 9,450 
+16 
+GWh.  The volume in both exhibits is inconsistent with 
+17 
+SFP’s volume model output and adjustments in the 
+18 
+workpaper that SRP submitted, which should be 9,437 
+19 
+GWh.  
+20 
+Price-out of Staff’s Delivery Volume Forecasts 
+21 
+
+
+--- Page 16 ---
+CASE NO. 22-E-0064 
+ 
+CONSOLIDATED EDISON COMPANY OF NEW YORK, INC. 
+ 
+ELECTRIC FORECASTING PANEL  
+REBUTTAL TESTIMONY 
+ 
+-16- 
+Q. 
+Does the Company agree with SRP’s methodology in pricing 
+1 
+out the volume forecast for Con Edison customers? 
+2 
+A. 
+Yes, the Company agrees with the pricing methodology that 
+3 
+Staff used.  
+4 
+Q.  Did the Company find issues with Staff’s application of the 
+5 
+pricing methodology? 
+6 
+A. 
+While the Company agrees with the pricing methodology used, 
+7 
+it found issues with the application of the methodology 
+8 
+that resulted in Staff underpricing their volume forecast 
+9 
+by a total of $8,485 million.  The following are the 
+10 
+details: 
+11 
+(1) 
+SRP did not use SFP’s EE (DSM) adjustment for SC9 
+12 
+Conventional (CON) and SC9 Time-of-Day (TOD).  
+13 
+Instead, they incorrectly used the Company’s EE 
+14 
+adjustments in the pricing formulas.  When SRP priced 
+15 
+the volumes, the sum of the volumes for SC9 CON and 
+16 
+SC9 TOD, which are priced separately, was 271 GWh less 
+17 
+than the total volume for SC9.  The sum of CON and TOD 
+18 
+should be equal to the total volume.  If they used 
+19 
+SFP’s adjustments, the revenues for SC9 should be 
+20 
+$2,107.813 million, instead of $2,103.578 million as 
+21 
+shown in Exhibit__(SRP-2), Schedule 1.  Thus, Staff 
+22 
+
+
+--- Page 17 ---
+CASE NO. 22-E-0064 
+ 
+CONSOLIDATED EDISON COMPANY OF NEW YORK, INC. 
+ 
+ELECTRIC FORECASTING PANEL  
+REBUTTAL TESTIMONY 
+ 
+-17- 
+underpriced their SC9 volume forecast by $4.235 
+1 
+million. 
+2 
+2) 
+SRP priced NYPA volume at 9,437 GWh, instead of 9,450 
+3 
+GWh as presented in their exhibits.  Pricing out 9,450 
+4 
+GWh results in NYPA revenue of $663.149 million, 
+5 
+instead of $662.752 million as presented in 
+6 
+Exhibit_(SRP-2), Schedule 1.  Thus, Staff underpriced 
+7 
+their NYPA volume forecast by $0.397 million. 
+8 
+Q. 
+Does this conclude the Panel’s rebuttal testimony? 
+9 
+A. 
+Yes, it does. 
+10 
+
+
+--- Page 18 ---
+Exhibit___(EFP‐19)
+Page 1 of 1
+Comparison: Average New Cases in New York City vs. Staff and Company COVID Proxy Variables
+AVE_MTH_
+NEWCASE*
+COVID 
+(Staff 
+Variable)
+M_RNR
+M_WKPL
+M_RESI
+M_RNR_ABS** M_WKPL_ABS**
+31‐Mar‐20
+1,738
+          
+0.9570
+    
+(0.0641)
+   
+(0.0855)
+   
+0.0409
+    
+0.0641
+              
+0.0855
+                
+30‐Apr‐20
+4,010
+          
+0.9165
+    
+(0.5798)
+   
+(0.5664)
+   
+0.2397
+    
+0.5798
+              
+0.5664
+                
+31‐May‐20
+1,054
+          
+0.8809
+    
+(0.6353)
+   
+(0.6010)
+   
+0.2466
+    
+0.6353
+              
+0.6010
+                
+30‐Jun‐20
+366
+             
+0.8515
+    
+(0.5095)
+   
+(0.4984)
+   
+0.1919
+    
+0.5095
+              
+0.4984
+                
+31‐Jul‐20
+346
+             
+0.8294
+    
+(0.3794)
+   
+(0.4422)
+   
+0.1403
+    
+0.3794
+              
+0.4422
+                
+31‐Aug‐20
+263
+             
+0.8150
+    
+(0.3179)
+   
+(0.4334)
+   
+0.1206
+    
+0.3179
+              
+0.4334
+                
+30‐Sep‐20
+353
+             
+0.8077
+    
+(0.3004)
+   
+(0.4220)
+   
+0.1081
+    
+0.3004
+              
+0.4220
+                
+31‐Oct‐20
+671
+             
+0.8066
+    
+(0.2983)
+   
+(0.3881)
+   
+0.1078
+    
+0.2983
+              
+0.3881
+                
+30‐Nov‐20
+1,814
+          
+0.8107
+    
+(0.3279)
+   
+(0.3711)
+   
+0.1170
+    
+0.3279
+              
+0.3711
+                
+31‐Dec‐20
+3,870
+          
+0.8191
+    
+(0.3534)
+   
+(0.3853)
+   
+0.1318
+    
+0.3534
+              
+0.3853
+                
+31‐Jan‐21
+5,657
+          
+0.8313
+    
+(0.3981)
+   
+(0.4222)
+   
+0.1464
+    
+0.3981
+              
+0.4222
+                
+28‐Feb‐21
+4,060
+          
+0.8454
+    
+(0.4357)
+   
+(0.4267)
+   
+0.1503
+    
+0.4357
+              
+0.4267
+                
+31‐Mar‐21
+3,890
+          
+0.8612
+    
+(0.3557)
+   
+(0.4015)
+   
+0.1273
+    
+0.3557
+              
+0.4015
+                
+30‐Apr‐21
+2,584
+          
+0.8784
+    
+(0.2997)
+   
+(0.3989)
+   
+0.1100
+    
+0.2997
+              
+0.3989
+                
+31‐May‐21
+641
+             
+0.8957
+    
+(0.2560)
+   
+(0.3698)
+   
+0.0926
+    
+0.2560
+              
+0.3698
+                
+30‐Jun‐21
+212
+             
+0.9123
+    
+(0.2147)
+   
+(0.3608)
+   
+0.0770
+    
+0.2147
+              
+0.3608
+                
+31‐Jul‐21
+688
+             
+0.9272
+    
+(0.1988)
+   
+(0.3748)
+   
+0.0668
+    
+0.1988
+              
+0.3748
+                
+31‐Aug‐21
+1,870
+          
+0.9404
+    
+(0.1981)
+   
+(0.3716)
+   
+0.0653
+    
+0.1981
+              
+0.3716
+                
+30‐Sep‐21
+1,690
+          
+0.9515
+    
+(0.1897)
+   
+(0.3817)
+   
+0.0671
+    
+0.1897
+              
+0.3817
+                
+31‐Oct‐21
+1,152
+          
+0.9610
+    
+(0.1799)
+   
+(0.3241)
+   
+0.0575
+    
+0.1799
+              
+0.3241
+                
+30‐Nov‐21
+1,335
+          
+0.9689
+    
+(0.1825)
+   
+(0.2842)
+   
+0.0596
+    
+0.1825
+              
+0.2842
+                
+31‐Dec‐21
+12,918
+        
+0.9757
+    
+(0.1963)
+   
+(0.2886)
+   
+0.0669
+    
+0.1963
+              
+0.2886
+                
+**The absolute value of the Company's mobility variables, M_RNR and M_WKPL.
+*Daily number of new COVID 19 cases averaged for the month for New York City. Source: Daily data from CDC.  https://covid.cdc.gov/COVID‐data‐
+tracker/#trends_dailycases
+ ‐
+ 0.1000
+ 0.2000
+ 0.3000
+ 0.4000
+ 0.5000
+ 0.6000
+ 0.7000
+ 0.8000
+ 0.9000
+ 1.0000
+ ‐
+ 1,000
+ 2,000
+ 3,000
+ 4,000
+ 5,000
+ 6,000
+ 7,000
+ 8,000
+ 9,000
+ 10,000
+Mobility/COVID Variable
+AVE_MTH_NEWCASE*
+COVID (Staff Variable)
+M_RESI
+M_RNR_ABS**
+M_WKPL_ABS**
+
+
+--- Page 19 ---
+EXHIBIT__(EFP‐20)
+Page 1 of 2
+Basis for Company's Assumption of Stable Level of Mobility Variable (Workplace)
+M_WKPL
+Pre‐Covid
+Covid
+New Normal
+% of Workers Full Time Remote*
+13.20%
+50.00%
+30.00%
+Variance from base mobility**
+0.00%
+‐42.00%
+Number of Remote Workers Out of 100
+13.2
+50.0
+30.0
+% Change from Pre‐Covid Remote Worker Numbers
+279%
+127%
+A 279% increase in remote workers led to 42% drop in mobiltiy.
+A 127% increase in remote workers expected to cause 20% drop in mobiltiy (M_WKPL is (‐0.2)).
+*Based on results from survey cited in:
+Ozimek, Adam.” The Future of Remote Work,” Upwork. 27 May 2020, 
+https://www.upwork.com/press/releases/the‐future‐of‐remote‐work.
+**"Pandemic stable" level of M_WKPL: 42% drop from base period during the height of the pandemic.
+
+
+--- Page 20 ---
+EXHIBIT__(EFP‐20)
+Page 2 of 2
+Basis for Company's Assumption of Stable Level of Mobility Variable (Residential)
+M_RESI
+Population
+100
+Assume % Adults in the Population
+50%
+Number of Adults in Population (for every 100)
+50
+Assume % of Adults in the Labor Force
+75%
+Number of Adults in the Labor Force (for every 100)
+37.5
+Assum % of Working Adults ‐ Office Work
+50%
+Number of Working Adults ‐ Office Work (for every 100)
+18.75
+New Normal: % of Office Workers that are Remote
+30%
+Number Working from Home Post COVID (for every 100)
+5.625
+Variance in number of remote workers between Pre‐COVID 
+and Post‐COVID
+3.15
+% of Population Additional Staying At Home
+3.15% *
+*Round up to 5% (M_RESI is 0.05).
+
+
+--- Page 21 ---
+EXHIBIT ___ (EFP‐21)
+PAGE 1 OF 4
+UNIT ROOT TESTS OF STAFF TREND ANALYSIS VARIABLES
+D_EE01 = D(EE01,0,12)
+Null Hypothesis: D_EE01 has a unit root
+Exogenous: Constant
+Lag Length: 0 (Automatic ‐ based on SIC, maxlag=13)
+t‐Statistic
+  Prob.*
+Augmented Dickey‐Fuller test statistic
+‐1.5144
+0.5237
+Test critical values:
+1% level
+‐3.4755
+5% level
+‐2.8813
+10% level
+‐2.5774
+*MacKinnon (1996) one‐sided p‐values.
+Augmented Dickey‐Fuller Test Equation
+Dependent Variable: D(D_EE01)
+Method: Least Squares
+Sample (adjusted): 2009M11 2021M12
+Included observations: 146 after adjustments
+Variable
+Coefficient
+Std. Error
+t‐Statistic
+Prob.  
+D_EE01(‐1)
+‐0.01365
+0.00901
+‐1.51443
+0.13210
+C
+0.24893
+0.11336
+2.19585
+0.02970
+R‐squared
+0.0157     Mean dependent var
+0.1027
+Adjusted R‐squared
+0.0088     S.D. dependent var
+0.7214
+S.E. of regression
+0.7182     Akaike info criterion
+2.1895
+Sum squared resid
+74.2759     Schwarz criterion
+2.2303
+Log likelihood
+‐157.8302     Hannan‐Quinn criter.
+2.2061
+F‐statistic
+2.2935     Durbin‐Watson stat
+1.8601
+Prob(F‐statistic)
+0.1321
+Conclusion: Do not reject Null Hypothesis. Variable has unit root.
+
+
+--- Page 22 ---
+EXHIBIT ___ (EFP‐21)
+PAGE 2 OF 4
+UNIT ROOT TESTS OF STAFF TREND ANALYSIS VARIABLES
+D_EE09 = D(EE09,0,12)
+Null Hypothesis: D_EE09 has a unit root
+Exogenous: Constant
+Lag Length: 1 (Automatic ‐ based on SIC, maxlag=13)
+t‐Statistic
+  Prob.*
+Augmented Dickey‐Fuller test statistic
+‐1.5232
+0.5192
+Test critical values:
+1% level
+‐3.4758
+5% level
+‐2.8814
+10% level
+‐2.5774
+*MacKinnon (1996) one‐sided p‐values.
+Augmented Dickey‐Fuller Test Equation
+Dependent Variable: D(D_EE09)
+Method: Least Squares
+Sample (adjusted): 2009M12 2021M12
+Included observations: 145 after adjustments
+Variable
+Coefficient
+Std. Error
+t‐Statistic
+Prob.  
+D_EE09(‐1)
+‐0.02373
+0.01558
+‐1.52322
+0.12990
+D(D_EE09(‐1))
+‐0.28764
+0.08173
+‐3.51921
+0.00060
+C
+0.244611
+0.12337
+1.982741
+0.0493
+R‐squared
+0.0983     Mean dependent var
+0.0621
+Adjusted R‐squared
+0.0856     S.D. dependent var
+0.8098
+S.E. of regression
+0.7744     Akaike info criterion
+2.3470
+Sum squared resid
+85.1538     Schwarz criterion
+2.4086
+Log likelihood
+‐167.1561     Hannan‐Quinn criter.
+2.3720
+F‐statistic
+7.7439     Durbin‐Watson stat
+2.0339
+Prob(F‐statistic)
+0.0006
+Conclusion: Do not reject Null Hypothesis. Variable has unit root.
+
+
+--- Page 23 ---
+EXHIBIT ___ (EFP‐21)
+PAGE 3 OF 4
+UNIT ROOT TESTS OF STAFF TREND ANALYSIS VARIABLES
+D_NYPA_TOT= D(NYPA_TOT,0,12)
+Null Hypothesis: D_NYPA_TOT has a unit root
+Exogenous: Constant
+Lag Length: 12 (Automatic ‐ based on SIC, maxlag=12)
+t‐Statistic
+  Prob.*
+Augmented Dickey‐Fuller test statistic
+‐0.6334
+0.8579
+Test critical values:
+1% level
+‐3.4847
+5% level
+‐2.8852
+10% level
+‐2.5795
+*MacKinnon (1996) one‐sided p‐values.
+Augmented Dickey‐Fuller Test Equation
+Dependent Variable: D(D_NYPA_TOT)
+Method: Least Squares
+Sample (adjusted): 2011M11 2021M12
+Included observations: 122 after adjustments
+Variable
+Coefficient
+Std. Error
+t‐Statistic
+Prob.  
+D_NYPA_TOT(‐1)
+‐0.0188
+0.0297
+‐0.6334
+0.5278
+D(D_NYPA_TOT(‐1))
+‐0.2182
+0.0823
+‐2.6513
+0.0092
+D(D_NYPA_TOT(‐2))
+‐0.1599
+0.0907
+‐1.7637
+0.0806
+D(D_NYPA_TOT(‐3))
+0.0633
+0.0913
+0.6938
+0.4893
+D(D_NYPA_TOT(‐4))
+‐0.0608
+0.0942
+‐0.6456
+0.5199
+D(D_NYPA_TOT(‐5))
+‐0.0709
+0.0947
+‐0.7487
+0.4557
+D(D_NYPA_TOT(‐6))
+‐0.1273
+0.0940
+‐1.3543
+0.1785
+D(D_NYPA_TOT(‐7))
+‐0.1207
+0.0955
+‐1.2648
+0.2087
+D(D_NYPA_TOT(‐8))
+0.1090
+0.0946
+1.1526
+0.2516
+D(D_NYPA_TOT(‐9))
+0.1679
+0.0956
+1.7566
+0.0818
+D(D_NYPA_TOT(‐10))
+0.0043
+0.0968
+0.0440
+0.9650
+D(D_NYPA_TOT(‐11))
+0.0036
+0.0938
+0.0388
+0.9691
+D(D_NYPA_TOT(‐12))
+‐0.5981
+0.0938
+‐6.3768
+0.0000
+C
+0.1815
+0.1441
+1.2598
+0.2105
+R‐squared
+0.4017     Mean dependent var
+0.0246
+Adjusted R‐squared
+0.3297     S.D. dependent var
+0.8279
+S.E. of regression
+0.6778     Akaike info criterion
+2.1676
+Sum squared resid
+49.6111     Schwarz criterion
+2.4894
+Log likelihood
+‐118.2223     Hannan‐Quinn criter.
+2.2983
+F‐statistic
+5.5788     Durbin‐Watson stat
+1.9112
+Prob(F‐statistic)
+0.0000
+Conclusion: Do not reject Null Hypothesis. Variable has unit root.
+
+
+--- Page 24 ---
+EXHIBIT ___ (EFP‐21)
+PAGE 4 OF 4
+UNIT ROOT TESTS OF STAFF TREND ANALYSIS VARIABLES
+D_EVS= D(EVS,0,12)
+Null Hypothesis: D_EVS has a unit root
+Exogenous: Constant
+Lag Length: 12 (Automatic ‐ based on SIC, maxlag=12)
+t‐Statistic
+  Prob.*
+Augmented Dickey‐Fuller test statistic
+2.2287
+0.9999
+Test critical values:
+1% level
+‐3.4925
+5% level
+‐2.8887
+10% level
+‐2.5813
+*MacKinnon (1996) one‐sided p‐values.
+Augmented Dickey‐Fuller Test Equation
+Dependent Variable: D(D_EVS)
+Method: Least Squares
+Sample (adjusted): 2013M02 2021M12
+Included observations: 107 after adjustments
+Variable
+Coefficient
+Std. Error
+t‐Statistic
+Prob.  
+D_EVS(‐1)
+0.0230
+0.0103
+2.2287
+0.0282
+D(D_EVS(‐1))
+0.1992
+0.1006
+1.9792
+0.0508
+D(D_EVS(‐2))
+0.1376
+0.1039
+1.3247
+0.1885
+D(D_EVS(‐3))
+0.2350
+0.1023
+2.2961
+0.0239
+D(D_EVS(‐4))
+‐0.2247
+0.1052
+‐2.1360
+0.0353
+D(D_EVS(‐5))
+0.3137
+0.1067
+2.9402
+0.0041
+D(D_EVS(‐6))
+‐0.2691
+0.1318
+‐2.0415
+0.0440
+D(D_EVS(‐7))
+0.1580
+0.1343
+1.1761
+0.2426
+D(D_EVS(‐8))
+0.0534
+0.1392
+0.3835
+0.7022
+D(D_EVS(‐9))
+0.3038
+0.1388
+2.1886
+0.0311
+D(D_EVS(‐10))
+‐0.5976
+0.1374
+‐4.3509
+0.0000
+D(D_EVS(‐11))
+‐0.0060
+0.1847
+‐0.0326
+0.9740
+D(D_EVS(‐12))
+‐0.5985
+0.1882
+‐3.1798
+0.0020
+C
+13.3153
+21.5985
+0.6165
+0.5391
+R‐squared
+0.6233     Mean dependent var
+79.1495
+Adjusted R‐squared
+0.5706     S.D. dependent var
+200.2911
+S.E. of regression
+131.2491     Akaike info criterion
+12.7135
+Sum squared resid
+1602049.00     Schwarz criterion
+13.0632
+Log likelihood
+‐666.1736     Hannan‐Quinn criter.
+12.8553
+F‐statistic
+11.8348     Durbin‐Watson stat
+1.9372
+Prob(F‐statistic)
+0.0000
+Conclusion: Do not reject Null Hypothesis. Variable has unit root.
+
+
+--- Page 25 ---
+EXHIBIT ___ (EFP‐22)
+PAGE 1 OF 13
+CONSOLIDATED EDISON COMPANY OF NEW YORK, INC.
+TREND ANALYSIS ‐ EE
+SC 1 (RESIDENTIAL AND RELIGIOUS)
+Dependent Variable: EE01
+Method: Least Squares
+Sample: 1997M01 2021M12
+Included observations: 300
+Variable
+Coefficient
+Std. Error
+t‐Statistic
+Prob.  
+@TREND
+0.209943
+0.008824 23.7917
+0
+R‐squared
+0.5145     Mean dependent var
+24.06667
+Adjusted R‐squared
+0.5145     S.D. dependent var
+37.89771
+S.E. of regression
+26.4065     Akaike info criterion
+9.388422
+Sum squared resid
+208493.10     Schwarz criterion
+9.400768
+Log likelihood
+‐1407.26     Hannan‐Quinn criter.
+9.393363
+Durbin‐Watson stat
+0.00
+
+
+--- Page 26 ---
+EXHIBIT ___ (EFP‐22)
+PAGE 2 OF 13
+CONSOLIDATED EDISON COMPANY OF NEW YORK, INC.
+TREND ANALYSIS ‐ EE
+SC 2 (GENERAL ‐ SMALL)
+Dependent Variable: EE02
+Method: Least Squares
+Sample: 1997M01 2021M12
+Included observations: 300
+Variable
+Coefficient
+Std. Error
+t‐Statistic
+Prob.  
+@TREND
+0.012507
+0.000538
+23.22757
+0
+R‐squared
+0.5035     Mean dependent var
+1.43
+Adjusted R‐squared
+0.5035     S.D. dependent var
+2.286744
+S.E. of regression
+1.6113     Akaike info criterion
+3.79527
+Sum squared resid
+776.28     Schwarz criterion
+3.807616
+Log likelihood
+‐568.29     Hannan‐Quinn criter.
+3.80021
+Durbin‐Watson stat
+0.01
+
+
+--- Page 27 ---
+EXHIBIT ___ (EFP‐22)
+PAGE 3 OF 13
+CONSOLIDATED EDISON COMPANY OF NEW YORK, INC.
+TREND ANALYSIS ‐ EE
+SC 8 (MULTIPLE DWELLINGS ‐ REDISTRIBUTION)
+Dependent Variable: EE08
+Method: Least Squares
+Sample: 1997M01 2021M12
+Included observations: 300
+Variable
+Coefficient
+Std. Error
+t‐Statistic
+Prob.  
+@TREND
+0.00347
+0.000164
+21.13879
+0
+R‐squared
+0.4598     Mean dependent var
+0.393333
+Adjusted R‐squared
+0.4598     S.D. dependent var
+0.668415
+S.E. of regression
+0.4913     Akaike info criterion
+1.419639
+Sum squared resid
+72.16     Schwarz criterion
+1.431985
+Log likelihood
+‐211.95     Hannan‐Quinn criter.
+1.42458
+Durbin‐Watson stat
+0.03
+
+
+--- Page 28 ---
+EXHIBIT ___ (EFP‐22)
+PAGE 4 OF 13
+CONSOLIDATED EDISON COMPANY OF NEW YORK, INC.
+TREND ANALYSIS ‐ EE
+SC 9 (GENERAL ‐ LARGE)
+Dependent Variable: EE09
+Method: Least Squares
+Sample: 1997M01 2021M12
+Included observations: 300
+Variable
+Coefficient
+Std. Error
+t‐Statistic
+Prob.  
+@TREND
+0.131802
+0.005538
+23.79915
+0
+R‐squared
+0.5146     Mean dependent var
+15.11
+Adjusted R‐squared
+0.5146     S.D. dependent var
+23.7879
+S.E. of regression
+16.5727     Akaike info criterion
+8.456724
+Sum squared resid
+82122.09     Schwarz criterion
+8.469069
+Log likelihood
+‐1267.51     Hannan‐Quinn criter.
+8.461664
+Durbin‐Watson stat
+0.00
+
+
+--- Page 29 ---
+EXHIBIT ___ (EFP‐22)
+PAGE 5 OF 13
+CONSOLIDATED EDISON COMPANY OF NEW YORK, INC.
+TREND ANALYSIS ‐ EE
+NYPA
+Dependent Variable: NYPA_TOT
+Method: Least Squares
+Sample: 1997M01 2021M12
+Included observations: 300
+Variable
+Coefficient
+Std. Error
+t‐Statistic
+Prob.  
+@TREND
+0.079016
+0.003345
+23.61948
+0
+R‐squared
+0.5114     Mean dependent var
+9.046667
+Adjusted R‐squared
+0.5114     S.D. dependent var
+14.32136
+S.E. of regression
+10.0111     Akaike info criterion
+7.44859
+Sum squared resid
+29966.30     Schwarz criterion
+7.460936
+Log likelihood
+‐1116.29     Hannan‐Quinn criter.
+7.453531
+Durbin‐Watson stat
+0.00
+
+
+--- Page 30 ---
+EXHIBIT ___ (EFP‐22)
+PAGE 6 OF 13
+CONSOLIDATED EDISON COMPANY OF NEW YORK, INC.
+TREND ANALYSIS ‐ ESTIMATED EXISTING EE TRENDS IN VOLUME FORECAST (GWh)
+EE01
+EE02
+EE08
+EE09
+NYPA_TOT
+2022M01
+0.2099
+    
+0.0125
+  
+0.0035
+  
+0.1318
+  
+0.0790
+                            
+2022M02
+0.4199
+    
+0.0250
+  
+0.0069
+  
+0.2636
+  
+0.1580
+                            
+2022M03
+0.6298
+    
+0.0375
+  
+0.0104
+  
+0.3954
+  
+0.2370
+                            
+2022M04
+0.8398
+    
+0.0500
+  
+0.0139
+  
+0.5272
+  
+0.3161
+                            
+2022M05
+1.0497
+    
+0.0625
+  
+0.0174
+  
+0.6590
+  
+0.3951
+                            
+2022M06
+1.2597
+    
+0.0750
+  
+0.0208
+  
+0.7908
+  
+0.4741
+                            
+2022M07
+1.4696
+    
+0.0875
+  
+0.0243
+  
+0.9226
+  
+0.5531
+                            
+2022M08
+1.6795
+    
+0.1001
+  
+0.0278
+  
+1.0544
+  
+0.6321
+                            
+2022M09
+1.8895
+    
+0.1126
+  
+0.0312
+  
+1.1862
+  
+0.7111
+                            
+2022M10
+2.0994
+    
+0.1251
+  
+0.0347
+  
+1.3180
+  
+0.7902
+                            
+2022M11
+2.3094
+    
+0.1376
+  
+0.0382
+  
+1.4498
+  
+0.8692
+                            
+2022M12
+2.5193
+    
+0.1501
+  
+0.0416
+  
+1.5816
+  
+0.9482
+                            
+2023M01
+2.7293
+    
+0.1626
+  
+0.0451
+  
+1.7134
+  
+1.0272
+                            
+2023M02
+2.9392
+    
+0.1751
+  
+0.0486
+  
+1.8452
+  
+1.1062
+                            
+2023M03
+3.1491
+    
+0.1876
+  
+0.0521
+  
+1.9770
+  
+1.1852
+                            
+2023M04
+3.3591
+    
+0.2001
+  
+0.0555
+  
+2.1088
+  
+1.2643
+                            
+2023M05
+3.5690
+    
+0.2126
+  
+0.0590
+  
+2.2406
+  
+1.3433
+                            
+2023M06
+3.7790
+    
+0.2251
+  
+0.0625
+  
+2.3724
+  
+1.4223
+                            
+2023M07
+3.9889
+    
+0.2376
+  
+0.0659
+  
+2.5042
+  
+1.5013
+                            
+2023M08
+4.1989
+    
+0.2501
+  
+0.0694
+  
+2.6360
+  
+1.5803
+                            
+2023M09
+4.4088
+    
+0.2626
+  
+0.0729
+  
+2.7678
+  
+1.6593
+                            
+2023M10
+4.6187
+    
+0.2752
+  
+0.0763
+  
+2.8996
+  
+1.7384
+                            
+2023M11
+4.8287
+    
+0.2877
+  
+0.0798
+  
+3.0314
+  
+1.8174
+                            
+2023M12
+5.0386
+    
+0.3002
+  
+0.0833
+  
+3.1632
+  
+1.8964
+                            
+2024M01
+5.2486
+    
+0.3127
+  
+0.0868
+  
+3.2951
+  
+1.9754
+                            
+2024M02
+5.4585
+    
+0.3252
+  
+0.0902
+  
+3.4269
+  
+2.0544
+                            
+2024M03
+5.6685
+    
+0.3377
+  
+0.0937
+  
+3.5587
+  
+2.1334
+                            
+2024M04
+5.8784
+    
+0.3502
+  
+0.0972
+  
+3.6905
+  
+2.2124
+                            
+2024M05
+6.0883
+    
+0.3627
+  
+0.1006
+  
+3.8223
+  
+2.2915
+                            
+2024M06
+6.2983
+    
+0.3752
+  
+0.1041
+  
+3.9541
+  
+2.3705
+                            
+2024M07
+6.5082
+    
+0.3877
+  
+0.1076
+  
+4.0859
+  
+2.4495
+                            
+2024M08
+6.7182
+    
+0.4002
+  
+0.1110
+  
+4.2177
+  
+2.5285
+                            
+2024M09
+6.9281
+    
+0.4127
+  
+0.1145
+  
+4.3495
+  
+2.6075
+                            
+2024M10
+7.1381
+    
+0.4252
+  
+0.1180
+  
+4.4813
+  
+2.6865
+                            
+2024M11
+7.3480
+    
+0.4377
+  
+0.1215
+  
+4.6131
+  
+2.7656
+                            
+2024M12
+7.5579
+    
+0.4503
+  
+0.1249
+  
+4.7449
+  
+2.8446
+                            
+2025M01
+7.7679
+    
+0.4628
+  
+0.1284
+  
+4.8767
+  
+2.9236
+                            
+2025M02
+7.9778
+    
+0.4753
+  
+0.1319
+  
+5.0085
+  
+3.0026
+                            
+2025M03
+8.1878
+    
+0.4878
+  
+0.1353
+  
+5.1403
+  
+3.0816
+                            
+2025M04
+8.3977
+    
+0.5003
+  
+0.1388
+  
+5.2721
+  
+3.1606
+                            
+2025M05
+8.6077
+    
+0.5128
+  
+0.1423
+  
+5.4039
+  
+3.2397
+                            
+2025M06
+8.8176
+    
+0.5253
+  
+0.1457
+  
+5.5357
+  
+3.3187
+                            
+2025M07
+9.0275
+    
+0.5378
+  
+0.1492
+  
+5.6675
+  
+3.3977
+                            
+2025M08
+9.2375
+    
+0.5503
+  
+0.1527
+  
+5.7993
+  
+3.4767
+                            
+2025M09
+9.4474
+    
+0.5628
+  
+0.1562
+  
+5.9311
+  
+3.5557
+                            
+2025M10
+9.6574
+    
+0.5753
+  
+0.1596
+  
+6.0629
+  
+3.6347
+                            
+2025M11
+9.8673
+    
+0.5878
+  
+0.1631
+  
+6.1947
+  
+3.7138
+                            
+2025M12
+10.0773
+  
+0.6003
+  
+0.1666
+  
+6.3265
+  
+3.7928
+                            
+2022
+16
+            
+1
+            
+‐
+         
+10
+          
+6
+                                      
+2023
+47
+            
+3
+            
+1
+            
+29
+          
+18
+                                    
+2024
+77
+            
+5
+            
+1
+            
+48
+          
+29
+                                    
+2025
+107
+          
+6
+            
+2
+            
+67
+          
+40
+                                    
+
+
+--- Page 31 ---
+EXHIBIT ___ (EFP‐22)
+PAGE 7 OF 13
+CONSOLIDATED EDISON COMPANY OF NEW YORK, INC.
+TREND ANALYSIS ‐ PV
+SC 1 (RESIDENTIAL AND RELIGIOUS)
+Dependent Variable: RES_PV
+Method: Least Squares
+Sample: 1997M01 2021M12
+Included observations: 300
+Variable
+Coefficient
+Std. Error
+t‐Statistic
+Prob.  
+@TREND
+0.036597
+0.001956
+18.70849
+0
+R‐squared
+0.4051     Mean dependent var
+4.089782
+Adjusted R‐squared
+0.4051     S.D. dependent var
+7.589452
+S.E. of regression
+5.8539     Akaike info criterion
+6.375419
+Sum squared resid
+10246.15     Schwarz criterion
+6.387764
+Log likelihood
+‐955.31     Hannan‐Quinn criter.
+6.380359
+Durbin‐Watson stat
+0.05
+
+
+--- Page 32 ---
+EXHIBIT ___ (EFP‐22)
+PAGE 8 OF 13
+CONSOLIDATED EDISON COMPANY OF NEW YORK, INC.
+TREND ANALYSIS ‐ PV
+SC 9 (GENERAL ‐ LARGE)
+Dependent Variable: COM_PV
+Method: Least Squares
+Sample: 1997M01 2021M12
+Included observations: 300
+Variable
+Coefficient
+Std. Error
+t‐Statistic
+Prob.  
+@TREND
+0.024497
+0.001116
+21.94215
+0
+R‐squared
+0.4697     Mean dependent var
+2.838725
+Adjusted R‐squared
+0.4697     S.D. dependent var
+4.587917
+S.E. of regression
+3.3409     Akaike info criterion
+5.253684
+Sum squared resid
+3337.32     Schwarz criterion
+5.26603
+Log likelihood
+‐787.05     Hannan‐Quinn criter.
+5.258625
+Durbin‐Watson stat
+0.08
+
+
+--- Page 33 ---
+EXHIBIT ___ (EFP‐22)
+PAGE 9 OF 13
+CONSOLIDATED EDISON COMPANY OF NEW YORK, INC.
+TREND ANALYSIS ‐ PV
+NYPA
+Dependent Variable: PUB_PV
+Method: Least Squares
+Sample: 1997M01 2021M12
+Included observations: 300
+Variable
+Coefficient
+Std. Error
+t‐Statistic
+Prob.  
+@TREND
+0.003015
+0.000141
+21.3823
+0
+R‐squared
+0.4533     Mean dependent var
+0.352435
+Adjusted R‐squared
+0.4533     S.D. dependent var
+0.570611
+S.E. of regression
+0.4219     Akaike info criterion
+1.115326
+Sum squared resid
+53.23     Schwarz criterion
+1.127672
+Log likelihood
+‐166.30     Hannan‐Quinn criter.
+1.120267
+Durbin‐Watson stat
+0.08
+
+
+--- Page 34 ---
+EXHIBIT ___ (EFP‐22)
+PAGE 10 OF 13
+CONSOLIDATED EDISON COMPANY OF NEW YORK, INC.
+TREND ANALYSIS ‐ ESTIMATED EXISTING PV TRENDS IN VOLUME FORECAST (GWh)
+RES_PV
+COM_PV
+PUB_PV
+2022M01
+0.0366
+        
+0.0245
+        
+0.0030
+        
+2022M02
+0.0732
+        
+0.0490
+        
+0.0060
+        
+2022M03
+0.1098
+        
+0.0735
+        
+0.0090
+        
+2022M04
+0.1464
+        
+0.0980
+        
+0.0121
+        
+2022M05
+0.1830
+        
+0.1225
+        
+0.0151
+        
+2022M06
+0.2196
+        
+0.1470
+        
+0.0181
+        
+2022M07
+0.2562
+        
+0.1715
+        
+0.0211
+        
+2022M08
+0.2928
+        
+0.1960
+        
+0.0241
+        
+2022M09
+0.3294
+        
+0.2205
+        
+0.0271
+        
+2022M10
+0.3660
+        
+0.2450
+        
+0.0302
+        
+2022M11
+0.4026
+        
+0.2695
+        
+0.0332
+        
+2022M12
+0.4392
+        
+0.2940
+        
+0.0362
+        
+2023M01
+0.4758
+        
+0.3185
+        
+0.0392
+        
+2023M02
+0.5124
+        
+0.3430
+        
+0.0422
+        
+2023M03
+0.5490
+        
+0.3675
+        
+0.0452
+        
+2023M04
+0.5856
+        
+0.3920
+        
+0.0482
+        
+2023M05
+0.6221
+        
+0.4164
+        
+0.0513
+        
+2023M06
+0.6587
+        
+0.4409
+        
+0.0543
+        
+2023M07
+0.6953
+        
+0.4654
+        
+0.0573
+        
+2023M08
+0.7319
+        
+0.4899
+        
+0.0603
+        
+2023M09
+0.7685
+        
+0.5144
+        
+0.0633
+        
+2023M10
+0.8051
+        
+0.5389
+        
+0.0663
+        
+2023M11
+0.8417
+        
+0.5634
+        
+0.0693
+        
+2023M12
+0.8783
+        
+0.5879
+        
+0.0724
+        
+2024M01
+0.9149
+        
+0.6124
+        
+0.0754
+        
+2024M02
+0.9515
+        
+0.6369
+        
+0.0784
+        
+2024M03
+0.9881
+        
+0.6614
+        
+0.0814
+        
+2024M04
+1.0247
+        
+0.6859
+        
+0.0844
+        
+2024M05
+1.0613
+        
+0.7104
+        
+0.0874
+        
+2024M06
+1.0979
+        
+0.7349
+        
+0.0905
+        
+2024M07
+1.1345
+        
+0.7594
+        
+0.0935
+        
+2024M08
+1.1711
+        
+0.7839
+        
+0.0965
+        
+2024M09
+1.2077
+        
+0.8084
+        
+0.0995
+        
+2024M10
+1.2443
+        
+0.8329
+        
+0.1025
+        
+2024M11
+1.2809
+        
+0.8574
+        
+0.1055
+        
+2024M12
+1.3175
+        
+0.8819
+        
+0.1085
+        
+2025M01
+1.3541
+        
+0.9064
+        
+0.1116
+        
+2025M02
+1.3907
+        
+0.9309
+        
+0.1146
+        
+2025M03
+1.4273
+        
+0.9554
+        
+0.1176
+        
+2025M04
+1.4639
+        
+0.9799
+        
+0.1206
+        
+2025M05
+1.5005
+        
+1.0044
+        
+0.1236
+        
+2025M06
+1.5371
+        
+1.0289
+        
+0.1266
+        
+2025M07
+1.5737
+        
+1.0534
+        
+0.1296
+        
+2025M08
+1.6103
+        
+1.0779
+        
+0.1327
+        
+2025M09
+1.6469
+        
+1.1024
+        
+0.1357
+        
+2025M10
+1.6835
+        
+1.1269
+        
+0.1387
+        
+2025M11
+1.7201
+        
+1.1514
+        
+0.1417
+        
+2025M12
+1.7567
+        
+1.1759
+        
+0.1447
+        
+2022
+3
+                   
+2
+                   
+‐
+               
+2023
+8
+                   
+5
+                   
+1
+                   
+2024
+13
+                
+9
+                   
+1
+                   
+2025
+19
+                
+12
+                
+2
+                   
+
+
+--- Page 35 ---
+EXHIBIT ___ (EFP‐22)
+PAGE 11 OF 13
+CONSOLIDATED EDISON COMPANY OF NEW YORK, INC.
+TREND ANALYSIS ‐ ELECTRIC VEHICLES
+Dependent Variable: EVS
+Method: Least Squares
+Sample: 1997M01 2021M12
+Included observations: 300
+Variable
+Coefficient
+Std. Error
+t‐Statistic
+Prob.  
+@TREND
+26.88393
+1.504365
+17.87062
+0
+R‐squared
+0.3863     Mean dependent var
+2976.447
+Adjusted R‐squared
+0.3863     S.D. dependent var
+5746.622
+S.E. of regression
+4501.81     Akaike info criterion
+19.66567
+Sum squared resid
+6.06E+09     Schwarz criterion
+19.67802
+Log likelihood
+‐2948.85     Hannan‐Quinn criter.
+19.67062
+Durbin‐Watson stat
+0.00
+
+
+--- Page 36 ---
+EXHIBIT ___ (EFP‐22)
+PAGE 12 OF 13
+CONSOLIDATED EDISON COMPANY OF NEW YORK, INC.
+TREND ANALYSIS ‐ ESTIMATED EXISTING EV TRENDS IN VOLUME FORECAST
+Usage per 
+day per car 
+(KWh):
+13.32739285
+Billing Days
+EVS 
+(Number of 
+LDVs)
+Volume Impact 
+of Trend  (GWh)
+2022M01
+31.95
+27
+                 
+0.0114
+                
+2022M02
+30.52
+54
+                 
+0.0219
+                
+2022M03
+30.29
+81
+                 
+0.0326
+                
+2022M04
+29.48
+108
+               
+0.0422
+                
+2022M05
+29.48
+134
+               
+0.0528
+                
+2022M06
+30.67
+161
+               
+0.0659
+                
+2022M07
+30.71
+188
+               
+0.0770
+                
+2022M08
+29.52
+215
+               
+0.0846
+                
+2022M09
+30.52
+242
+               
+0.0984
+                
+2022M10
+29.86
+269
+               
+0.1070
+                
+2022M11
+30.67
+296
+               
+0.1209
+                
+2022M12
+31.63
+323
+               
+0.1360
+                
+2023M01
+32.08
+349
+               
+0.1494
+                
+2023M02
+30.52
+376
+               
+0.1531
+                
+2023M03
+30.33
+403
+               
+0.1630
+                
+2023M04
+28.66
+430
+               
+0.1643
+                
+2023M05
+28.81
+457
+               
+0.1755
+                
+2023M06
+30.67
+484
+               
+0.1978
+                
+2023M07
+30.67
+511
+               
+0.2088
+                
+2023M08
+29.57
+538
+               
+0.2119
+                
+2023M09
+30.52
+565
+               
+0.2296
+                
+2023M10
+29.86
+591
+               
+0.2354
+                
+2023M11
+30.67
+618
+               
+0.2527
+                
+2023M12
+31.63
+645
+               
+0.2720
+                
+2024M01
+32.08
+672
+               
+0.2874
+                
+2024M02
+30.52
+699
+               
+0.2843
+                
+2024M03
+30.33
+726
+               
+0.2934
+                
+2024M04
+29.38
+753
+               
+0.2947
+                
+2024M05
+29.52
+780
+               
+0.3067
+                
+2024M06
+30.62
+807
+               
+0.3291
+                
+2024M07
+30.71
+833
+               
+0.3411
+                
+2024M08
+29.52
+860
+               
+0.3385
+                
+2024M09
+30.57
+887
+               
+0.3614
+                
+2024M10
+29.63
+914
+               
+0.3610
+                
+2024M11
+30.18
+941
+               
+0.3785
+                
+2024M12
+33.10
+968
+               
+0.4269
+                
+2025M01
+32.38
+995
+               
+0.4293
+                
+2025M02
+31.05
+1,022
+           
+0.4227
+                
+2025M03
+30.05
+1,048
+           
+0.4199
+                
+2025M04
+29.38
+1,075
+           
+0.4211
+                
+2025M05
+29.71
+1,102
+           
+0.4364
+                
+2025M06
+30.52
+1,129
+           
+0.4593
+                
+2025M07
+30.67
+1,156
+           
+0.4725
+                
+2025M08
+29.48
+1,183
+           
+0.4647
+                
+2025M09
+30.86
+1,210
+           
+0.4976
+                
+2025M10
+29.48
+1,237
+           
+0.4859
+                
+2025M11
+30.47
+1,264
+           
+0.5131
+                
+2025M12
+32.03
+1,290
+           
+0.5509
+                
+2022
+1
+                          
+2023
+2
+                          
+2024
+4
+                          
+2025
+6
+                          
+
+
+--- Page 37 ---
+CONSOLIDATED EDISON COMPANY OF NEW YORK, INC.
+EXHIBIT ___ (EFP‐22)
+2022 ELECTRIC RATE FILING
+PAGE 13 OF 13
+SUMMARY OF TRENDS TO REMOVE FROM VOLUME ADJUSTMENTS PER SERVICE CLASSIFICATION
+GWh
+Observation
+SC 1
+SC 2
+SC 8
+SC 9
+NYPA
+SC 1
+SC 2
+SC 8
+SC 9
+SC 1
+SC 9
+NYPA
+2022M01
+0.0000
+0.0000
+0.0000
+0.0000
+0.000
+(0.0076) (0.0038)
+0.0000
+0.0000
+0.0366
+0.0245
+0.0030
+2022M02
+0.4199
+0.0250
+0.0069
+0.2636
+0.158
+(0.0164) (0.0055)
+0.0000
+0.0000
+0.0732
+0.0490
+0.0060
+2022M03
+0.6298
+0.0375
+0.0104
+0.3954
+0.237
+(0.0244) (0.0081)
+0.0000
+0.0000
+0.1098
+0.0735
+0.0090
+2022M04
+0.8398
+0.0500
+0.0139
+0.5272
+0.316
+(0.0317) (0.0106)
+0.0000
+0.0000
+0.1464
+0.0980
+0.0121
+2022M05
+1.0497
+0.0625
+0.0174
+0.6590
+0.395
+(0.0396) (0.0132)
+0.0000
+0.0000
+0.1830
+0.1225
+0.0151
+2022M06
+1.2597
+0.0750
+0.0208
+0.7908
+0.474
+(0.0494) (0.0165)
+0.0000
+0.0000
+0.2196
+0.1470
+0.0181
+2022M07
+1.4696
+0.0875
+0.0243
+0.9226
+0.553
+(0.0578) (0.0193)
+0.0000
+0.0000
+0.2562
+0.1715
+0.0211
+2022M08
+1.6795
+0.1001
+0.0278
+1.0544
+0.632
+(0.0635) (0.0212)
+0.0000
+0.0000
+0.2928
+0.1960
+0.0241
+2022M09
+1.8895
+0.1126
+0.0312
+1.1862
+0.711
+(0.0656) (0.0328)
+0.0000
+0.0000
+0.3294
+0.2205
+0.0271
+2022M10
+2.0994
+0.1251
+0.0347
+1.3180
+0.790
+(0.0713) (0.0357)
+0.0000
+0.0000
+0.3660
+0.2450
+0.0302
+2022M11
+2.3094
+0.1376
+0.0382
+1.4498
+0.869
+(0.0907) (0.0302)
+0.0000
+0.0000
+0.4026
+0.2695
+0.0332
+2022M12
+2.5193
+0.1501
+0.0416
+1.5816
+0.948
+(0.1020) (0.0340)
+0.0000
+0.0000
+0.4392
+0.2940
+0.0362
+2023M01
+2.7293
+0.1626
+0.0451
+1.7134
+1.027
+(0.0830) (0.0332) (0.0166) (0.0166)
+0.4758
+0.3185
+0.0392
+2023M02
+2.9392
+0.1751
+0.0486
+1.8452
+1.106
+(0.0851) (0.0340) (0.0170) (0.0170)
+0.5124
+0.3430
+0.0422
+2023M03
+3.1491
+0.1876
+0.0521
+1.9770
+1.185
+(0.0815) (0.0408) (0.0204) (0.0204)
+0.5490
+0.3675
+0.0452
+2023M04
+3.3591
+0.2001
+0.0555
+2.1088
+1.264
+(0.0821) (0.0411) (0.0205) (0.0205)
+0.5856
+0.3920
+0.0482
+2023M05
+3.5690
+0.2126
+0.0590
+2.2406
+1.343
+(0.0877) (0.0439) (0.0219) (0.0219)
+0.6221
+0.4164
+0.0513
+2023M06
+3.7790
+0.2251
+0.0625
+2.3724
+1.422
+(0.0989) (0.0494) (0.0247) (0.0247)
+0.6587
+0.4409
+0.0543
+2023M07
+3.9889
+0.2376
+0.0659
+2.5042
+1.501
+(0.1044) (0.0522) (0.0261) (0.0261)
+0.6953
+0.4654
+0.0573
+2023M08
+4.1989
+0.2501
+0.0694
+2.6360
+1.580
+(0.1059) (0.0530) (0.0265) (0.0265)
+0.7319
+0.4899
+0.0603
+2023M09
+4.4088
+0.2626
+0.0729
+2.7678
+1.659
+(0.1276) (0.0510) (0.0255) (0.0255)
+0.7685
+0.5144
+0.0633
+2023M10
+4.6187
+0.2752
+0.0763
+2.8996
+1.738
+(0.1308) (0.0523) (0.0262) (0.0262)
+0.8051
+0.5389
+0.0663
+2023M11
+4.8287
+0.2877
+0.0798
+3.0314
+1.817
+(0.1404) (0.0562) (0.0281) (0.0281)
+0.8417
+0.5634
+0.0693
+2023M12
+5.0386
+0.3002
+0.0833
+3.1632
+1.896
+(0.1511) (0.0604) (0.0302) (0.0302)
+0.8783
+0.5879
+0.0724
+2024M01
+5.2486
+0.3127
+0.0868
+3.2951
+1.975
+(0.1768) (0.0663) (0.0221) (0.0221)
+0.9149
+0.6124
+0.0754
+2024M02
+5.4585
+0.3252
+0.0902
+3.4269
+2.054
+(0.1750) (0.0656) (0.0219) (0.0219)
+0.9515
+0.6369
+0.0784
+2024M03
+5.6685
+0.3377
+0.0937
+3.5587
+2.133
+(0.1886) (0.0629) (0.0210) (0.0210)
+0.9881
+0.6614
+0.0814
+2024M04
+5.8784
+0.3502
+0.0972
+3.6905
+2.212
+(0.1895) (0.0632) (0.0211) (0.0211)
+1.0247
+0.6859
+0.0844
+2024M05
+6.0883
+0.3627
+0.1006
+3.8223
+2.291
+(0.1888) (0.0708) (0.0236) (0.0236)
+1.0613
+0.7104
+0.0874
+2024M06
+6.2983
+0.3752
+0.1041
+3.9541
+2.370
+(0.2116) (0.0705) (0.0235) (0.0235)
+1.0979
+0.7349
+0.0905
+2024M07
+6.5082
+0.3877
+0.1076
+4.0859
+2.449
+(0.2193) (0.0731) (0.0244) (0.0244)
+1.1345
+0.7594
+0.0935
+2024M08
+6.7182
+0.4002
+0.1110
+4.2177
+2.529
+(0.2083) (0.0781) (0.0260) (0.0260)
+1.1711
+0.7839
+0.0965
+2024M09
+6.9281
+0.4127
+0.1145
+4.3495
+2.608
+(0.2324) (0.0775) (0.0258) (0.0258)
+1.2077
+0.8084
+0.0995
+2024M10
+7.1381
+0.4252
+0.1180
+4.4813
+2.687
+(0.2320) (0.0773) (0.0258) (0.0258)
+1.2443
+0.8329
+0.1025
+2024M11
+7.3480
+0.4377
+0.1215
+4.6131
+2.766
+(0.2433) (0.0811) (0.0270) (0.0270)
+1.2809
+0.8574
+0.1055
+2024M12
+7.5579
+0.4503
+0.1249
+4.7449
+2.845
+(0.2668) (0.1067) (0.0267) (0.0267)
+1.3175
+0.8819
+0.1085
+2025M01
+7.7679
+0.4628
+0.1284
+4.8767
+2.924
+(0.2485) (0.1130) (0.0226) (0.0452)
+1.3541
+0.9064
+0.1116
+2025M02
+7.9778
+0.4753
+0.1319
+5.0085
+3.003
+(0.2583) (0.0939) (0.0235) (0.0470)
+1.3907
+0.9309
+0.1146
+2025M03
+8.1878
+0.4878
+0.1353
+5.1403
+3.082
+(0.2652) (0.0884) (0.0221) (0.0442)
+1.4273
+0.9554
+0.1176
+2025M04
+8.3977
+0.5003
+0.1388
+5.2721
+3.161
+(0.2659) (0.0886) (0.0222) (0.0443)
+1.4639
+0.9799
+0.1206
+2025M05
+8.6077
+0.5128
+0.1423
+5.4039
+3.240
+(0.2756) (0.0919) (0.0230) (0.0459)
+1.5005
+1.0044
+0.1236
+2025M06
+8.8176
+0.5253
+0.1457
+5.5357
+3.319
+(0.2756) (0.1148) (0.0230) (0.0459)
+1.5371
+1.0289
+0.1266
+2025M07
+9.0275
+0.5378
+0.1492
+5.6675
+3.398
+(0.2835) (0.1181) (0.0236) (0.0473)
+1.5737
+1.0534
+0.1296
+2025M08
+9.2375
+0.5503
+0.1527
+5.7993
+3.477
+(0.2935) (0.0978) (0.0245) (0.0489)
+1.6103
+1.0779
+0.1327
+2025M09
+9.4474
+0.5628
+0.1562
+5.9311
+3.556
+(0.2985) (0.1244) (0.0249) (0.0498)
+1.6469
+1.1024
+0.1357
+2025M10
+9.6574
+0.5753
+0.1596
+6.0629
+3.635
+(0.2915) (0.1215) (0.0243) (0.0486)
+1.6835
+1.1269
+0.1387
+2025M11
+9.8673
+0.5878
+0.1631
+6.1947
+3.714
+(0.3176) (0.1222) (0.0244) (0.0489)
+1.7201
+1.1514
+0.1417
+2025M12
+10.0773
+0.6003
+0.1666
+6.3265
+3.793
+(0.3505) (0.1252) (0.0250) (0.0501)
+1.7567
+1.1759
+0.1447
+2022
+16
+             
+1
+               
+‐
+            
+10
+             
+6
+               
+(1)
+           
+‐
+         
+‐
+         
+‐
+         
+3
+           
+2
+           
+‐
+                 
+2023
+47
+             
+3
+               
+1
+               
+29
+             
+18
+             
+(1)
+           
+(1)
+           
+‐
+         
+‐
+         
+8
+           
+5
+           
+1
+                    
+2024
+77
+             
+5
+               
+1
+               
+48
+             
+29
+             
+(3)
+           
+(1)
+           
+‐
+         
+‐
+         
+13
+         
+9
+           
+1
+                    
+2025
+107
+           
+6
+               
+2
+               
+67
+             
+40
+             
+(3)
+           
+(1)
+           
+‐
+         
+(1)
+           
+19
+         
+12
+         
+2
+                    
+SOLAR GENERATION
+DSM
+ELECTRIC VEHICLES
+
+
+--- Page 38 ---
+EXHIBIT ___ (EFP‐23)
+PAGE 1 OF 2
+CONSOLIDATED EDISON COMPANY OF NEW YORK, INC.
+IMPACT OF REMOVAL OF DER TIME TRENDS ON ELECTRIC SALES VOLUMES BY SERVICE CLASSIFICATION
+FOR THE 12 MONTHS ENDING DECEMBER 2023
+(GWh)
+CON EDISON CUSTOMERS
+RATE CASE 
+UPDATE 
+FORECAST
+EE TREND  PV TREND
+EV TREND
+TOTAL 
+VOLUME 
+WITH TRENDS 
+REMOVED
+1 RESIDENTIAL & RELIGIOUS 
+13,401
+        
+47
+8
+(1)
+13,455
+             
+2 GENERAL SMALL
+2,474
+          
+3
+(1)
+2,476
+               
+8 MULT. DWELL. REDISTRIBUTION
+1,729
+          
+1
+1,730
+               
+9 GENERAL LARGE
+23,180
+        
+29
+5
+23,214
+             
+12 MULT. DWELL. SPACE HEATING
+287
+              
+287
+                  
+   
+5 RAILROADS
+103
+              
+103
+                  
+6 STREET LIGHTING
+11
+                
+11
+                    
+STANDBY SERVICE *
+313
+              
+313
+                  
+TOTAL CON EDISON CUSTOMERS
+41,498
+        
+80
+13
+(2)
+41,589
+             
+RECHARGE NEW YORK (Below Allocation)
+688
+              
+688
+                  
+NYPA CUSTOMERS
+9,310
+          
+18
+1
+9,329
+               
+TOTAL SYSTEM
+51,496
+        
+51,606
+             
+110
+                  
+0.2%
+TOTAL IMPACT OF 
+REMOVAL OF TRENDS
+% IMPACT OF 
+REMOVAL OF TRENDS
+
+
+--- Page 39 ---
+EXHIBIT ___ (EFP‐23)
+PAGE 2 OF 2
+CONSOLIDATED EDISON COMPANY OF NEW YORK, INC.
+COMPARISON OF VOLUME FORECASTS
+FOR THE 12 MONTHS ENDING DECEMBER 2023
+(GWh)
+(A)
+(B)
+(C)
+(C) ‐ (A)
+(C) ‐ (B)
+CON EDISON CUSTOMERS
+Con Ed Rate 
+Case Update 
+Forecast
+Con Ed Total 
+Volume with 
+Trends 
+Removed
+Staff 
+Forecast
+Staff vs Con 
+Ed Update
+Staff vs Con 
+Ed Forecast 
+with Trends 
+Removed
+1 RESIDENTIAL & RELIGIOUS 
+13,401
+            
+13,455
+13,877
+476
+                  
+422
+                 
+2 GENERAL SMALL
+2,474
+               
+2,476
+2,481
+7
+                       
+5
+                     
+8 MULT. DWELL. REDISTRIBUTION
+1,729
+               
+1,730
+1,734
+5
+                       
+4
+                     
+9 GENERAL LARGE
+23,180
+            
+23,214
+23,143
+(37)
+                   
+(71)
+                  
+12 MULT. DWELL. SPACE HEATING
+287
+                  
+287
+291
+4
+                       
+4
+                     
+   
+5 RAILROADS
+103
+                  
+103
+103
+6 STREET LIGHTING
+11
+                    
+11
+11
+STANDBY SERVICE *
+313
+                  
+313
+313
+TOTAL CON EDISON CUSTOMERS
+41,498
+            
+41,589
+41,953
+455
+                  
+364
+                 
+RECHARGE NEW YORK (Below Allocation)
+688
+                  
+688
+688
+NYPA CUSTOMERS
+9,310
+               
+9,329
+9,450
+140
+                  
+121
+TOTAL SYSTEM
+51,496
+            
+51,606
+            
+52,091
+        
+595
+                  
+485
+                 
+1.16%
+0.94%
+% VARIANCE

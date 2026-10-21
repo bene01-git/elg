@@ -1,0 +1,2099 @@
+--- Page 1 ---
+ 
+ 
+ 
+ 
+ 
+BEFORE THE 
+STATE OF NEW YORK 
+PUBLIC SERVICE COMMISSION 
+ 
+ 
+ 
+In the Matter of 
+ 
+Central Hudson Gas & Electric Corporation 
+ 
+Cases 23-E-0418 & 23-G-0419 
+ 
+November 2023 
+ 
+ 
+Prepared Testimony of: 
+ 
+Mingdi Huang 
+ 
+Utility Engineering Specialist 1 
+Office of Rates and Tariffs 
+ 
+State of New York 
+Department of Public Service 
+Three Empire State Plaza 
+Albany, New York 12223-1350 
+ 
+
+
+--- Page 2 ---
+Cases 23-E-0418 & 23-G-0419 
+ 
+Mingdi Huang 
+ 
+ 
+1 
+ 
+Q.  Please state your name, employer, and business 
+1 
+address. 
+2 
+A.  My name is Mingdi Huang.  I am employed by the 
+3 
+New York State Department of Public Service, 
+4 
+referred to as the Department.  My business 
+5 
+address is Three Empire State Plaza, Albany, New 
+6 
+York 12223-1350. 
+7 
+Q.  What is your position in the Department?  
+8 
+A. 
+I am employed as a Utility Engineering 
+9 
+Specialist 1 in the Downstate Rates and Tariffs 
+10 
+section of the Office of Rates and Tariffs. 
+11 
+Q. 
+Please state your educational background and 
+12 
+professional experience. 
+13 
+A. 
+I graduated from Cornell University in 2010 with 
+14 
+a Bachelor of Science degree in Mechanical 
+15 
+Engineering.  I then attended Rensselaer 
+16 
+Polytechnic Institute and graduated in 2015 with 
+17 
+a Doctor of Philosophy in Mechanical 
+18 
+Engineering.  I joined the Department in 
+19 
+February 2019.  My duties at the Department 
+20 
+involve the engineering analysis of utility 
+21 
+operations as they relate to the ratemaking 
+22 
+process, as well as participation in various 
+23 
+reviews of the activities of local distribution 
+24 
+
+
+--- Page 3 ---
+Cases 23-E-0418 & 23-G-0419 
+ 
+Mingdi Huang 
+ 
+ 
+2 
+ 
+companies.   
+1 
+Q. 
+Have you previously testified before the 
+2 
+Commission?  
+3 
+A. 
+Yes.  I have testified in numerous rate 
+4 
+proceedings, including Cases 19-G-0309 and 19-G-
+5 
+0310, the Brooklyn Union Gas Company d/b/a 
+6 
+National Grid NY and KeySpan Gas East Corp. 
+7 
+d/b/a National Grid; Cases 19-G-0379 and 19-G-
+8 
+0381, New York State Electric & Gas Corporation 
+9 
+and Rochester Gas and Electric Corporation; 
+10 
+Cases 21-E-0073 and 21-G-0074, Orange & Rockland 
+11 
+Utilities, Inc; Cases 22-E-0064, 22-G-0065, and 
+12 
+22-S-0659, Consolidated Edison Company of New 
+13 
+York, Inc; and most recently, Case 23-W-0111, 
+14 
+Veolia Water New York, Inc. 
+15 
+Overview 
+16 
+Q. 
+What is the purpose of your testimony in these 
+17 
+proceedings? 
+18 
+A. 
+My testimony will: (1) provide a summary of 
+19 
+recommended changes to the proposed depreciation 
+20 
+expense levels of Central Hudson Gas & Electric 
+21 
+Corporation, also referred to as Central Hudson 
+22 
+or the Company, for the Rate Year, or the 12-
+23 
+months ending June 30, 2025; (2) review basic 
+24 
+
+
+--- Page 4 ---
+Cases 23-E-0418 & 23-G-0419 
+ 
+Mingdi Huang 
+ 
+ 
+3 
+ 
+depreciation terms and concepts and their role 
+1 
+in this testimony; (3) present my 
+2 
+recommendations for average service lives, or 
+3 
+ASLs, survivor curves, and net salvage factors; 
+4 
+(4) address the Company’s proposal regarding the 
+5 
+theoretical depreciation reserve recovery; (5) 
+6 
+provide recommendations for the treatment of the 
+7 
+calculated electric, gas, and common book to 
+8 
+theoretical reserve deficiencies; and (6) 
+9 
+discuss the plant in service model and the 
+10 
+incorporation of Staff’s capital adjustments 
+11 
+into the model.  
+12 
+Q. 
+In this testimony, will you refer to, or 
+13 
+otherwise rely upon, any information produced 
+14 
+during the discovery phase of these proceedings? 
+15 
+A. 
+Yes, I relied upon several of the Company’s 
+16 
+responses to Information Requests, or IRs, that 
+17 
+I used to develop my recommendations.  These 
+18 
+responses are included in Exhibit__(MH-1).  I 
+19 
+will refer to these IR responses by the 
+20 
+designation given to them by the Department, for 
+21 
+example, DPS-123.    
+22 
+Q. 
+Are you sponsoring any other exhibits? 
+23 
+A.  Yes.  Exhibit__(MH-2) contains an overview of 
+24 
+
+
+--- Page 5 ---
+Cases 23-E-0418 & 23-G-0419 
+ 
+Mingdi Huang 
+ 
+ 
+4 
+ 
+the Company’s current ASLs, survivor curves, net 
+1 
+salvage factors, depreciation rates, accruals, 
+2 
+and theoretical reserves for the electric, gas, 
+3 
+and common accounts, along with those proposed 
+4 
+in the Company’s 2022 Depreciation Study filed 
+5 
+in these proceedings on August 1, 2023, referred 
+6 
+to as the depreciation study, as well as my 
+7 
+recommendations.  Exhibit__(MH-3) contains a 
+8 
+list of current, depreciation study proposed, 
+9 
+and my recommended survivor curves for the 
+10 
+electric, gas, and common accounts where my 
+11 
+recommendations differ from the depreciation 
+12 
+study’s.  Exhibit__(MH-4) contains the current, 
+13 
+depreciation study proposed, and my recommended 
+14 
+net salvage rates for the electric, gas, and 
+15 
+common accounts where my recommendation differs 
+16 
+from the depreciation study’s.  Exhibit__(MH-5) 
+17 
+contains graphical plots of the current, 
+18 
+depreciation study proposed, and my recommended 
+19 
+survivor curves, for accounts for which I 
+20 
+recommend different survivor curves than the 
+21 
+depreciation study.  Exhibit__(MH-6) contains a 
+22 
+comparison between the Company’s and my net 
+23 
+plant levels. 
+24 
+
+
+--- Page 6 ---
+Cases 23-E-0418 & 23-G-0419 
+ 
+Mingdi Huang 
+ 
+ 
+5 
+ 
+Summary of Recommendations 
+1 
+Q. 
+Please briefly summarize your recommendations 
+2 
+regarding depreciation expense associated with 
+3 
+electric plant. 
+4 
+A. 
+Based on the depreciation factors I used for 
+5 
+electric plant, I recommend that the Company’s 
+6 
+proposed depreciation expense included in the 
+7 
+forecasted Rate Year for electric plant be 
+8 
+decreased by $4.4 million, from $75.4 million to 
+9 
+$70.9 million.   
+10 
+Q. 
+To what extent does your recommended level of 
+11 
+electric depreciation expense in the Rate Year 
+12 
+increase from the level currently included in 
+13 
+base rates? 
+14 
+A. 
+Based on the Company’s plant in service levels 
+15 
+on June 30, 2022, my recommended electric 
+16 
+depreciation expense would increase from the 
+17 
+level currently set in base rates by 
+18 
+approximately 2.1 percent, or from $58.5 million 
+19 
+to $59.7 million.  
+20 
+Q. 
+Please briefly summarize your recommendations 
+21 
+regarding the depreciation expense associated 
+22 
+with gas plant. 
+23 
+A. 
+Based on my depreciation factors for gas plant, 
+24 
+
+
+--- Page 7 ---
+Cases 23-E-0418 & 23-G-0419 
+ 
+Mingdi Huang 
+ 
+ 
+6 
+ 
+I recommend that the Company’s proposed 
+1 
+depreciation expense included in the forecasted 
+2 
+Rate Year for gas plant be decreased by 
+3 
+approximately $105,000, from $24.7 million to 
+4 
+$24.6 million.   
+5 
+Q. 
+To what extent does your recommended level of 
+6 
+gas depreciation expense in the Rate Year 
+7 
+increase from the level currently included in 
+8 
+base rates? 
+9 
+A. 
+Based on the Company’s plant in service levels 
+10 
+on June 30, 2022, my recommended gas 
+11 
+depreciation expense would increase from the 
+12 
+level currently set in base rates by 
+13 
+approximately 8.0 percent, or from $18.7 million 
+14 
+to $20.2 million.   
+15 
+Q. 
+Please briefly summarize your recommendations 
+16 
+regarding depreciation expense associated with 
+17 
+common plant. 
+18 
+A. 
+Based on my depreciation factors for common 
+19 
+plant, I recommend that the Company’s proposed 
+20 
+depreciation expense included in the forecasted 
+21 
+Rate Year for common plant be decreased by $3.7 
+22 
+million, from $39.2 million to $35.5 million.   
+23 
+Q. 
+Are the electric and gas depreciation expense 
+24 
+
+
+--- Page 8 ---
+Cases 23-E-0418 & 23-G-0419 
+ 
+Mingdi Huang 
+ 
+ 
+7 
+ 
+totals, as recommended by you, inclusive of 
+1 
+Staff’s recommended changes to Rate Year plant-
+2 
+in-service balances and allocation of common 
+3 
+plant? 
+4 
+A. 
+Yes.  My depreciation rates were used in the 
+5 
+plant in service model, along with Staff’s 
+6 
+recommended Rate Year levels of capital spending 
+7 
+as discussed in the testimonies of the Staff 
+8 
+Electric Infrastructure and Operations Panel, 
+9 
+the Staff Gas Infrastructure and Operations 
+10 
+Panel, the Staff Common Panel, and the Staff 
+11 
+Consumer Services Panel.  Consistent with the 
+12 
+Company, I have allocated the common plant 
+13 
+depreciation expense at 80 percent to electric 
+14 
+and 20 percent to gas. 
+15 
+Basic Depreciation Terms and Concepts 
+16 
+Q. 
+Please explain the terms “net salvage” and 
+17 
+“depreciation” as used in ratemaking. 
+18 
+A. 
+Net salvage is any cash received for the asset, 
+19 
+less the cost to remove it.  Depreciation is a 
+20 
+method of recovering capital costs, less net 
+21 
+salvage, related to plant in service over the 
+22 
+expected life of the plant.   
+23 
+Q. 
+Please define “average service life.” 
+24 
+
+
+--- Page 9 ---
+Cases 23-E-0418 & 23-G-0419 
+ 
+Mingdi Huang 
+ 
+ 
+8 
+ 
+A. 
+ASL is the arithmetic average of the lives of 
+1 
+the units of property, represented by the area 
+2 
+under the survivor curve from age zero to the 
+3 
+maximum life, divided by 100 percent. 
+4 
+Q. 
+What is a “survivor curve?” 
+5 
+A. 
+A survivor curve is a graphical indication of 
+6 
+the percentage of original plant, by age, that 
+7 
+is still in service.  Known curves, such as Iowa 
+8 
+or h-curves, are fit to the observed curve to 
+9 
+help determine an appropriate ASL.  These known 
+10 
+curves include a mode, which describes the 
+11 
+relative height of the curve.  Low mode curves 
+12 
+have wide retirement patterns.  In other words, 
+13 
+the assets retire over a wide range of lives and 
+14 
+less retirements occur near the average service 
+15 
+life.  Curves with higher modes have much 
+16 
+narrower retirement patterns, with more 
+17 
+retirements occurring near the ASL.  The area 
+18 
+under the survivor curve is the ASL or whole 
+19 
+life.  The observed curves are generated from a 
+20 
+mortality study that examines the actual 
+21 
+retirement patterns over multiple years. 
+22 
+Q. 
+Please define “depreciation rate.” 
+23 
+A. 
+A depreciation rate is a percentage rate that is 
+24 
+
+
+--- Page 10 ---
+Cases 23-E-0418 & 23-G-0419 
+ 
+Mingdi Huang 
+ 
+ 
+9 
+ 
+applied to the value of gross plant in service, 
+1 
+by account, in order to determine the annual 
+2 
+depreciation expense.  Depreciation rates are 
+3 
+made up of various independent variables 
+4 
+referred to as depreciation factors, such as 
+5 
+ASL, survivor curve and the net salvage factor.  
+6 
+Q. 
+Please define “depreciation expense.” 
+7 
+A. 
+Depreciation expense, in any given year, is the 
+8 
+product of gross plant in service multiplied by 
+9 
+the applicable depreciation rate.  Depreciation 
+10 
+expense allows for the recovery of an 
+11 
+investment, less net salvage, over the expected 
+12 
+life of the investment. 
+13 
+Q. 
+Please define “net salvage factor.” 
+14 
+A. 
+Net salvage factor refers to the component of 
+15 
+the depreciation rate that allows recovery of 
+16 
+the estimated net salvage.  It is expressed as a 
+17 
+percentage, based on the original cost of plant.  
+18 
+For example, let us assume that a unit of 
+19 
+property has a total installed cost of $1,000, 
+20 
+$0 estimated future salvage, and estimated costs 
+21 
+of removal of $500.  The net salvage factor is 
+22 
+calculated as follows: Rate = ($0 + (-$500)) / 
+23 
+$1,000.  This equates to a -0.50, or -50 percent 
+24 
+
+
+--- Page 11 ---
+Cases 23-E-0418 & 23-G-0419 
+ 
+Mingdi Huang 
+ 
+ 
+10 
+ 
+net salvage factor.  
+1 
+Q. 
+Please define “book reserve.” 
+2 
+A. 
+The book reserve is the continued accumulation 
+3 
+of the annual depreciation expense accruals, 
+4 
+less any retirements and cost of removal, plus 
+5 
+any salvage received.  The book reserve is 
+6 
+calculated by plant account and subtracted from 
+7 
+the gross plant, or original cost of the plant, 
+8 
+to calculate the net plant, or the remaining 
+9 
+plant balance that is not yet depreciated. 
+10 
+Q. 
+Please define “theoretical reserve.” 
+11 
+A. 
+The theoretical reserve is the amount of 
+12 
+depreciation expense that should have been 
+13 
+collected as of a particular date, given the 
+14 
+survivor curves, ASLs, and net salvage factors 
+15 
+used to determine the proposed depreciation 
+16 
+rates. 
+17 
+Q. 
+How are depreciation rates calculated? 
+18 
+A. 
+Depreciation rates are calculated differently 
+19 
+depending on the depreciation system used.  Each 
+20 
+system is composed of a method, a procedure, and 
+21 
+a technique. 
+22 
+Q. 
+What depreciation system did the Company use for 
+23 
+its plant accounts? 
+24 
+
+
+--- Page 12 ---
+Cases 23-E-0418 & 23-G-0419 
+ 
+Mingdi Huang 
+ 
+ 
+11 
+ 
+A. 
+As stated on page iii of the depreciation study, 
+1 
+the Company used the straight-line method, ASL 
+2 
+procedure, and whole life technique for most of 
+3 
+the depreciable accounts.  I provide more 
+4 
+background on the depreciation study later in my 
+5 
+testimony.   
+6 
+Q. 
+Please explain the straight-line method. 
+7 
+A. 
+The straight-line method recovers the cost of an 
+8 
+asset equally over its estimated useful life.  
+9 
+In other words, the amount recovered annually 
+10 
+through depreciation would not change over the 
+11 
+asset’s life. 
+12 
+Q. 
+Please explain the ASL procedure. 
+13 
+A. 
+In the ASL procedure, the depreciation rate is 
+14 
+based on the average life of the group and 
+15 
+applied to the remaining unrecovered balance.  
+16 
+This means that the cost of plant retired prior 
+17 
+to the average life is not fully recovered at 
+18 
+the time of retirement, while the cost of plant 
+19 
+retired after the average life is more than 
+20 
+fully recovered.  The costs not recovered before 
+21 
+the average life will be balanced out by the 
+22 
+costs recovered after the average life. 
+23 
+Q. 
+Please explain how the depreciation rate is 
+24 
+
+
+--- Page 13 ---
+Cases 23-E-0418 & 23-G-0419 
+ 
+Mingdi Huang 
+ 
+ 
+12 
+ 
+calculated following the whole life technique. 
+1 
+A. 
+Under the whole life technique, the depreciation 
+2 
+rate is calculated using the following formula: 
+3 
+ 
+Rate = (1-Net Salvage)/(ASL).  For example, if 
+4 
+the ASL for a plant account was 50 years and the 
+5 
+net salvage factor was negative 50 percent, then 
+6 
+the depreciation rate would be: R = (1-(-0.5)) / 
+7 
+50.  In such a case, the depreciation rate would 
+8 
+equal 0.03, or 3.0 percent.  The rate is then 
+9 
+multiplied by the gross plant to obtain the 
+10 
+depreciation expense for ratemaking purposes.   
+11 
+Q. 
+What is the next step in the process for 
+12 
+ratemaking purposes? 
+13 
+A. 
+The next step in the process for ratemaking 
+14 
+purposes is to compute composite rates, which 
+15 
+are weighted average rates based on gross plant 
+16 
+in service as of a specific date.  These 
+17 
+composite rates are taken into account alongside 
+18 
+capital spending to calculate the Rate Year 
+19 
+depreciation expense and accumulated reserve 
+20 
+used to determine revenue requirements.  
+ 
+21 
+Q. 
+What specific date did you use for the gross 
+22 
+plant in service?  
+23 
+A. 
+In these proceedings, I used the plant balances 
+24 
+
+
+--- Page 14 ---
+Cases 23-E-0418 & 23-G-0419 
+ 
+Mingdi Huang 
+ 
+ 
+13 
+ 
+as of June 30, 2022 to compute the composite 
+1 
+rates.   
+2 
+Survivor Curves and Average Service Lives 
+3 
+Q. 
+Provide an overview of the depreciation study 
+4 
+filed by the Company in these rate proceedings. 
+5 
+A.  The Company filed the depreciation study on 
+6 
+August 1, 2023 in these rate proceedings.  As 
+7 
+stated on page 12 of the direct testimony of the 
+8 
+Company’s Accounting and Tax Panel, the 
+9 
+Company’s depreciation consultant, Gannett 
+10 
+Fleming Valuation and Rate Consultants, LLC, 
+11 
+referred to as Gannett Fleming, prepared the 
+12 
+depreciation study for the Company’s electric, 
+13 
+gas, and common accounts.   
+14 
+Q. 
+What did Gannett Fleming propose in the 
+15 
+depreciation study? 
+16 
+A. 
+Gannett Fleming analyzed the Company’s 
+17 
+historical plant retirement data, reviewed the 
+18 
+Company’s practices with regards to plant assets 
+19 
+and recommended updated depreciation rates, net 
+20 
+salvage rates, and associated theoretical 
+21 
+reserves in its depreciation study. 
+22 
+Q. 
+What was the Company’s proposal with regards to 
+23 
+depreciation? 
+24 
+
+
+--- Page 15 ---
+Cases 23-E-0418 & 23-G-0419 
+ 
+Mingdi Huang 
+ 
+ 
+14 
+ 
+A. 
+As stated on page 13 of the direct testimony of 
+1 
+the Company’s Accounting and Tax Panel, the 
+2 
+Company proposes no changes in its depreciation 
+3 
+factors, despite what was presented in the 
+4 
+depreciation study.  Instead, the Company 
+5 
+proposes to maintain the ASL, net salvage 
+6 
+factors, and depreciation rates that were 
+7 
+approved in Central Hudson’s last rate cases, 
+8 
+Cases 20-E-0428 and 20-G-0429. 
+9 
+Q. 
+What is the Company’s justification for 
+10 
+maintaining its current depreciation factors? 
+11 
+A. 
+According to page 13 of the direct testimony of 
+12 
+the Company’s Accounting and Tax Panel, the 
+13 
+Company proposes to maintain its current 
+14 
+depreciation factors in order to mitigate the 
+15 
+increase in revenue requirements for the Rate 
+16 
+Year.   
+17 
+Q. 
+What would be the increase in depreciation 
+18 
+expense if the depreciation rates proposed in 
+19 
+the depreciation study were adopted? 
+20 
+A. 
+According to Exhibit__(ATP-4), the depreciation 
+21 
+expense would increase by $12.2 million for the 
+22 
+Rate Year, of which $4.8 million relates to 
+23 
+electric, $4.3 million to gas, and $3.1 million 
+24 
+
+
+--- Page 16 ---
+Cases 23-E-0418 & 23-G-0419 
+ 
+Mingdi Huang 
+ 
+ 
+15 
+ 
+to common. 
+1 
+Q. 
+Do you agree with the Company’s proposal to keep 
+2 
+the currently approved depreciation rates? 
+3 
+A. 
+No.  Though the Company’s intent to mitigate the 
+4 
+increase in revenue requirements is admirable, 
+5 
+the appropriate course of action is to update 
+6 
+the depreciation rates in accordance with any 
+7 
+changes since the Company’s previous 
+8 
+depreciation study, to ensure that the Company’s 
+9 
+depreciation expense is accurate.  
+10 
+Q. 
+What is your recommendation regarding 
+11 
+deprecation rates? 
+12 
+A. 
+I recommend adopting the depreciation rates 
+13 
+recommended in the depreciation study, except 
+14 
+for certain accounts where I recommend a 
+15 
+different ASL, survivor curve and net salvage 
+16 
+rate based on my review of the data presented in 
+17 
+the depreciation study. 
+18 
+Q. 
+How did you arrive at your recommended ASLs and 
+19 
+survivor curves for the electric plant accounts?   
+20 
+A. 
+I reviewed the mortality data as well as the 
+21 
+original and smooth survivor curves provided in 
+22 
+the depreciation study.  In a number of 
+23 
+instances, I found that a different smooth 
+24 
+
+
+--- Page 17 ---
+Cases 23-E-0418 & 23-G-0419 
+ 
+Mingdi Huang 
+ 
+ 
+16 
+ 
+survivor curve than that proposed by Gannett 
+1 
+Fleming better fits the actual historic data 
+2 
+points.  In other words, the curve hugged the 
+3 
+data much tighter than Gannett Fleming’s 
+4 
+proposed curves.  In these cases, I am 
+5 
+recommending different ASLs and Iowa-curve modes 
+6 
+from what is in the depreciation study.  
+7 
+Additionally, I am limiting my recommended 
+8 
+movements to 10 years from the ASLs currently 
+9 
+approved, following the principle of gradualism 
+10 
+to avoid significant impacts to the revenue 
+11 
+requirement. 
+12 
+Q. 
+What adjustments do you recommend to the 
+13 
+survivor curves and ASLs for the electric 
+14 
+accounts? 
+15 
+A.  I reviewed all electric depreciable plant 
+16 
+accounts associated with the 46 electric 
+17 
+survivor curves provided in the depreciation 
+18 
+study.  I recommend different survivor curves or 
+19 
+ASLs from what the depreciation study proposed 
+20 
+for eight accounts.  The eight accounts are 341 
+21 
+– Structures and Improvements; 342 – Fuel 
+22 
+Holders, Producers & Accessories; 344 – 
+23 
+Generators; 355 & 355.10 & 355.15 – Poles & 
+24 
+
+
+--- Page 18 ---
+Cases 23-E-0418 & 23-G-0419 
+ 
+Mingdi Huang 
+ 
+ 
+17 
+ 
+Fixtures; 356.1 & 356.15 – Overhead Conductors & 
+1 
+Devices; 362.3 – Station Equipment – 
+2 
+Electronics; 365 – Overhead Conductors & 
+3 
+Devices; and 367 – Underground Conductors & 
+4 
+Devices.   
+5 
+Q.  Do you agree with any ASLs for electric accounts 
+6 
+presented in the depreciation study? 
+7 
+A. 
+Yes.  I agree with the majority of the ASLs and 
+8 
+curve shapes presented in the depreciation 
+9 
+study.  Exhibit__(MH-3) contains a comparison, 
+10 
+by account, among the present, Gannett Fleming 
+11 
+proposed, and my recommended ASLs and survivor 
+12 
+curves for the depreciable electric plant 
+13 
+accounts.  In addition, Exhibit__(MH-5) contains 
+14 
+a comparison between the actual electric 
+15 
+survivor curves presented in the depreciation 
+16 
+study and those recommended by me for accounts 
+17 
+where we differ. 
+18 
+Q.  Did you use the same process in your review of 
+19 
+the depreciable gas plant accounts as you did 
+20 
+for the electric accounts? 
+21 
+A. 
+Yes.  I reviewed all depreciable gas accounts 
+22 
+associated with the 29 survivor curves provided 
+23 
+in the depreciation study, and recommend 
+24 
+
+
+--- Page 19 ---
+Cases 23-E-0418 & 23-G-0419 
+ 
+Mingdi Huang 
+ 
+ 
+18 
+ 
+different survivor curves or ASLs for four of 
+1 
+the Company’s accounts using the same 
+2 
+methodology as I did for the electric accounts.  
+3 
+The four accounts are 367 – Mains, 376 – Mains, 
+4 
+378.3 – Station Equipment – Electronics, and 380 
+5 
+– Services. 
+6 
+Q. 
+Do you agree with any ASLs for gas accounts 
+7 
+presented in the depreciation study? 
+8 
+A. 
+Yes, I agree with Gannett Fleming’s proposed 
+9 
+survivor curves and ASLs used for the majority 
+10 
+of the gas accounts.  Exhibit__(MH-3) contains a 
+11 
+comparison, by account, among the present, 
+12 
+Gannett Fleming proposed, and my recommended 
+13 
+ASLs and survivor curves for the depreciable gas 
+14 
+plant accounts.  In addition, Exhibit__(MH-5) 
+15 
+contains a graphical comparison between what is 
+16 
+presented in the depreciation study and my 
+17 
+recommended survivor curves. 
+18 
+Q.  Did you use the same process in your review of 
+19 
+the depreciable common plant accounts as you did 
+20 
+for the electric and gas accounts? 
+21 
+A. 
+Yes.  I reviewed all depreciable common accounts 
+22 
+associated with the 24 survivor curves provided 
+23 
+in the depreciation study, and recommend 
+24 
+
+
+--- Page 20 ---
+Cases 23-E-0418 & 23-G-0419 
+ 
+Mingdi Huang 
+ 
+ 
+19 
+ 
+different survivor curves or ASLs for five of 
+1 
+the Company’s accounts using the same 
+2 
+methodology as I did for the electric and gas 
+3 
+accounts.  The five accounts are 390.07 – 
+4 
+Structures & Improvements – Major Equipment, 
+5 
+390.15 – Structures & Improvements – 
+6 
+Landscaping, 391.11 – EDP Equipment – System and 
+7 
+Main Frame, 395 – Laboratory Equipment, and 
+8 
+397.1 – Communication Equipment – Radio. 
+9 
+Q. 
+Do you agree with any ASLs for common accounts 
+10 
+presented in the depreciation study? 
+11 
+A. 
+Yes, I agree with Gannett Fleming’s proposed 
+12 
+survivor curves and ASLs used for the majority 
+13 
+of the common accounts.  Exhibit__(MH-3) 
+14 
+contains a comparison, by account, among the 
+15 
+present ASLs and survivor curves, those 
+16 
+presented in the depreciation study, and my 
+17 
+recommended ASLs and survivor curves for the 
+18 
+depreciable common plant accounts.  In addition, 
+19 
+Exhibit__(MH-5) contains a graphical comparison 
+20 
+between Gannett Fleming’s proposed and my 
+21 
+recommended survivor curves. 
+22 
+Net Salvage 
+23 
+Q. 
+Please describe the information contained in the 
+24 
+
+
+--- Page 21 ---
+Cases 23-E-0418 & 23-G-0419 
+ 
+Mingdi Huang 
+ 
+ 
+20 
+ 
+net salvage statistics section of the 
+1 
+depreciation study provided by the Company. 
+2 
+A. 
+The depreciation study includes, for each plant 
+3 
+account and included year: a summary of regular 
+4 
+retirements, or original cost of plant retired; 
+5 
+cost of removal; the percent of cost of removal 
+6 
+compared to regular retirements; gross salvage; 
+7 
+percent of gross salvage compared to regular 
+8 
+retirements; net salvage; and percent of net 
+9 
+salvage compared to regular retirements.  The 
+10 
+summary of the net salvage statistics also 
+11 
+includes the totals for these categories for a 
+12 
+number of years, as well as a three-year moving 
+13 
+average of the data and the most recent five-
+14 
+year average, 2018 through 2022.   
+15 
+Q. 
+What does the Company propose with regards to 
+16 
+net salvage? 
+17 
+A. 
+The Company proposes keeping its currently 
+18 
+approved depreciation rates, which necessitates 
+19 
+keeping the currently approved net salvage 
+20 
+rates. 
+21 
+Q. 
+Do you agree with the Company’s proposal? 
+22 
+A. 
+No.  Like with the ASLs and survivor curves 
+23 
+above, I recommend adopting the net salvage 
+24 
+
+
+--- Page 22 ---
+Cases 23-E-0418 & 23-G-0419 
+ 
+Mingdi Huang 
+ 
+ 
+21 
+ 
+rates recommended by the depreciation study, 
+1 
+except for certain accounts where I recommend a 
+2 
+different net salvage rate. 
+3 
+Q. 
+Please discuss the method you used to determine 
+4 
+the net salvage factors you recommend. 
+5 
+A. 
+I reviewed the salvage statistics provided in 
+6 
+the depreciation study and looked for trends in 
+7 
+the annual and multiple yearly averages of the 
+8 
+historic net salvage data, as well as the 
+9 
+percentages of the net salvage to the original 
+10 
+cost of plant retired each year.  For accounts 
+11 
+with apparent trends that indicate costs of 
+12 
+removal are increasing, and thus net salvage is 
+13 
+becoming more negative, I recommend a more 
+14 
+negative net salvage factor for those accounts.  
+15 
+For example, for electric account 355 – Poles & 
+16 
+Fixtures, I recommend the Commission further 
+17 
+reduce the current negative net salvage factor 
+18 
+by 10 percent.  For accounts where there are no 
+19 
+apparent trends, such as for electric account 
+20 
+361 – Structures & Improvements, I recommend 
+21 
+that the net salvage factor remain the same as 
+22 
+approved in present rates.  For accounts where 
+23 
+the cost of removal is decreasing, I recommend a 
+24 
+
+
+--- Page 23 ---
+Cases 23-E-0418 & 23-G-0419 
+ 
+Mingdi Huang 
+ 
+ 
+22 
+ 
+less negative net salvage rate, such as for 
+1 
+electric account 332 – Reservoirs, Dams.  In 
+2 
+addition, I limited my recommendations to 10 
+3 
+percent movement from currently approved net 
+4 
+salvage factors, following the principle of 
+5 
+gradualism.  
+6 
+Q. 
+For which electric accounts do you recommend a 
+7 
+different net salvage factor than what was 
+8 
+presented in the depreciation study? 
+9 
+A. 
+Of the 46 electric accounts which have a net 
+10 
+salvage factor, I recommend a different net 
+11 
+salvage factor than the depreciation study for 
+12 
+fourteen electric accounts: 332 – Reservoirs, 
+13 
+Dams; 334.1 – Accessory Electric Equipment; 352 
+14 
+– Structures & Improvements; 355 & 355.1 & 
+15 
+355.15 – Poles & Fixtures; 356.1 & 356.15 – 
+16 
+Overhead Conductors & Devices; 356.2 & 356.25 – 
+17 
+345kV Overhead Lines, Clearing; 358 – 
+18 
+Underground Conductors & Devices; 361 – 
+19 
+Structures & Improvements; 365 – Overhead 
+20 
+Conductors & Devices; 366 – Underground Conduit; 
+21 
+367 – Underground Conductors & Devices; 369.1 – 
+22 
+Overhead Services; 369.2 – Underground Services; 
+23 
+and 371 – Installation on Customer Premises.   
+24 
+
+
+--- Page 24 ---
+Cases 23-E-0418 & 23-G-0419 
+ 
+Mingdi Huang 
+ 
+ 
+23 
+ 
+Q. 
+For which gas accounts do you recommend a 
+1 
+different net salvage factor than what was 
+2 
+presented in the depreciation study? 
+3 
+A. 
+Of the 29 gas accounts which have a net salvage 
+4 
+factor, I also recommend different net salvage 
+5 
+factors for six gas accounts: 367 – Mains, 375 – 
+6 
+Structures & Improvements, 376 – Mains, 380 – 
+7 
+Services, 366.5 – Structures & Improvements, and 
+8 
+369.51 – Station Equipment.   
+9 
+Q. 
+For which common accounts do you recommend a 
+10 
+different net salvage factor than what was 
+11 
+presented in the depreciation study? 
+12 
+A. 
+Of the 25 common accounts which have a net 
+13 
+salvage factor, I recommend different net 
+14 
+factors for four common accounts: 390 – 
+15 
+Structures & Improvements, 390.05 – Structures & 
+16 
+Improvements – Minor Equipment, 390.07 – 
+17 
+Structures & Improvements – Major Equipment, and 
+18 
+390.15 – Structures & Improvements – 
+19 
+Landscaping.   
+20 
+Q. 
+Do you provide an exhibit comparing your 
+21 
+recommendations and the Company’s proposal? 
+22 
+A. 
+Yes.  Exhibit__(MH-4) presents the current, the 
+23 
+Gannett Fleming’s proposed, and my recommended 
+24 
+
+
+--- Page 25 ---
+Cases 23-E-0418 & 23-G-0419 
+ 
+Mingdi Huang 
+ 
+ 
+24 
+ 
+net salvage factors. 
+1 
+Book Reserve Deficiency 
+2 
+Q. 
+Please explain the process of comparing the book 
+3 
+reserve to the theoretical reserve. 
+4 
+A. 
+When a depreciation study is performed, the 
+5 
+current book reserve is compared to the proposed 
+6 
+theoretical reserve.  The proposed theoretical 
+7 
+reserve incorporates any proposed changes to the 
+8 
+survivor curves, ASLs, and net salvage factors.  
+9 
+Typically, if the difference between the book 
+10 
+reserve and the theoretical reserve is within a 
+11 
+margin of 10 percent, above or below, no 
+12 
+adjustment is made to amortize the over- or 
+13 
+under-accruals.  However, if the difference is 
+14 
+greater than 10 percent, an adjustment can be 
+15 
+made to amortize some or all of the difference 
+16 
+between the theoretical and book reserves.  If 
+17 
+the book reserve is larger than the theoretical 
+18 
+reserve, some or all of the difference can be 
+19 
+used for other ratemaking treatments, rather 
+20 
+than a reduction to depreciation expense.  The 
+21 
+use of a 10 percent margin and the rate 
+22 
+treatment are discretionary.  An adjustment is 
+23 
+often made because the difference is too large 
+24 
+
+
+--- Page 26 ---
+Cases 23-E-0418 & 23-G-0419 
+ 
+Mingdi Huang 
+ 
+ 
+25 
+ 
+to be corrected on its own, going forward. 
+1 
+Q.  What are the Company’s depreciation reserve 
+2 
+deficiencies, using the depreciation rates in 
+3 
+the depreciation study? 
+4 
+A. 
+According to page 14 of the direct testimony of 
+5 
+the Company’s Accounting and Tax Panel, the 
+6 
+reserve deficiency would be $135.9 million, of 
+7 
+which $92.3 million is related to electric, 
+8 
+$33.0 million to gas, and $10.6 million to 
+9 
+common. 
+10 
+Q. 
+Is the Company currently recovering any 
+11 
+amortizations of these book-to-theoretical 
+12 
+reserve deficiencies? 
+13 
+A. 
+No. 
+14 
+Q. 
+Did the Company have any proposals related to 
+15 
+the depreciation reserve deficiency recovery? 
+16 
+A. 
+Yes, according to page 15 of the direct 
+17 
+testimony of its Accounting and Tax Panel, the 
+18 
+Company is proposing recovery of the reserve 
+19 
+deficiency based on the theoretical reserves in 
+20 
+the depreciation study, to be recovered over 10 
+21 
+years.  The Company is proposing to recover the 
+22 
+electric and common reserve deficiencies to 10 
+23 
+percent of the theoretical reserve, and to 
+24 
+
+
+--- Page 27 ---
+Cases 23-E-0418 & 23-G-0419 
+ 
+Mingdi Huang 
+ 
+ 
+26 
+ 
+recover all of the gas reserve deficiency.  This 
+1 
+would result in an annual deficiency recovery 
+2 
+amortization of $4.3 million for electric and 
+3 
+$3.3 million for gas. 
+4 
+Q. 
+Do you agree with the Company’s proposal 
+5 
+regarding the amortization of the theoretical 
+6 
+reserve deficiency? 
+7 
+A. 
+No.  First, reserve deficiencies are derived 
+8 
+from theoretical reserves that are based on 
+9 
+depreciation rates that should be approved by 
+10 
+the Commission.  However, in this case, the 
+11 
+Company proposes recovery of the reserve 
+12 
+deficiency based on the theoretical reserves in 
+13 
+the depreciation study, but does not otherwise 
+14 
+propose that the Commission adopt the 
+15 
+depreciation rates in that study.  Second, 
+16 
+typically reserve deficiencies are recovered 
+17 
+over 20 years, not 10.  Third, while the Company 
+18 
+seeks to minimize uncertainty with regards to 
+19 
+gas cost recovery due to the Climate Leadership 
+20 
+and Community Protection Act, as stated in the 
+21 
+response to IR DPS-257, it would be 
+22 
+inappropriate to recommend the recovery of the 
+23 
+entire reserve deficiency at this time without 
+24 
+
+
+--- Page 28 ---
+Cases 23-E-0418 & 23-G-0419 
+ 
+Mingdi Huang 
+ 
+ 
+27 
+ 
+further guidance on depreciation from the Gas 
+1 
+Planning Procedures proceeding in Case 20-G-
+2 
+0131. 
+3 
+Q. 
+What is your recommendation with regards to the 
+4 
+recovery of reserve deficiency through 
+5 
+amortization? 
+6 
+A. 
+I recommend that the Company recover its reserve 
+7 
+deficiency over 20 years, to 10 percent of each 
+8 
+of the electric, gas and common theoretical 
+9 
+reserves, based on the depreciation rates the 
+10 
+Commission approves in these rate cases.  
+11 
+Q. 
+Do your recommended depreciation rates result in 
+12 
+any amortization of reserve deficiency? 
+13 
+A. 
+No, the depreciation rates I recommend result in 
+14 
+theoretical reserves that differ from the book 
+15 
+reserve by less than 10 percent of the 
+16 
+theoretical reserve for electric, gas, and 
+17 
+common.  Therefore, my recommended depreciation 
+18 
+rates do not result in any amortization of 
+19 
+reserve deficiency. 
+20 
+Plant in Service Model 
+21 
+Q. 
+What is the net plant model? 
+22 
+A. 
+The net plant model is a tool used to forecast 
+23 
+projected plant and depreciation reserve 
+24 
+
+
+--- Page 29 ---
+Cases 23-E-0418 & 23-G-0419 
+ 
+Mingdi Huang 
+ 
+ 
+28 
+ 
+balances.  The plant model I used in these cases 
+1 
+begins with the most recent actual gross plant 
+2 
+as of May 31, 2023, and factors in forecasted 
+3 
+plant additions and retirements, respectively, 
+4 
+to forecast the gross plant on a month-to-month 
+5 
+basis.  Additionally, using the depreciation 
+6 
+rates recommended above, the net plant model can 
+7 
+forecast the depreciation expense and 
+8 
+depreciation reserve.  The net plant is the 
+9 
+gross plant minus the depreciation reserve.  
+10 
+Q. 
+How did you develop the forecast for net plant 
+11 
+and depreciation expense? 
+12 
+A. 
+I generally used Company net plant-related 
+13 
+workpapers to develop and adjust our forecasted 
+14 
+plant additions and retirements, resulting in my 
+15 
+recommended net plant, depreciation reserve, and 
+16 
+depreciation expense levels.  The Rate Year 
+17 
+depreciation rates used in my model were 
+18 
+recommended by me in this testimony.  
+19 
+Q. 
+Please state the level of electric net plant the 
+20 
+Company proposes in the Rate Year. 
+21 
+A. 
+For the Rate Year, the Company proposes an 
+22 
+average electric net plant level of $1.84 
+23 
+billion, including the allocation of common net 
+24 
+
+
+--- Page 30 ---
+Cases 23-E-0418 & 23-G-0419 
+ 
+Mingdi Huang 
+ 
+ 
+29 
+ 
+plant to electric of $266 million.  
+1 
+Q. 
+Please state the level of electric net plant you 
+2 
+recommend for the Rate Year. 
+3 
+A. 
+After incorporating the capital expense 
+4 
+adjustments discussed in the testimony of the 
+5 
+Staff Electric Infrastructure and Operations 
+6 
+Panel, and the recommended capital expense level 
+7 
+of common plant discussed in the testimonies of 
+8 
+the Staff Common Panel and the Staff Consumer 
+9 
+Services Panel, my recommended electric net 
+10 
+plant level for the Rate Year is $1.84 billion, 
+11 
+which includes the electric allocation of common 
+12 
+net plant of $267 million.  This is an overall 
+13 
+reduction of approximately $3.4 million from the 
+14 
+Company’s proposal.  A comparison between the 
+15 
+Company’s proposed and my recommended net plant 
+16 
+levels is also shown in Exhibit__(MH-6). 
+17 
+Q. 
+Please state the level of gas net plant the 
+18 
+Company proposes in the Rate Year. 
+19 
+A. 
+For the Rate Year, the Company proposes an 
+20 
+average gas net plant level of $802 million, 
+21 
+including the gas allocation of common net plant 
+22 
+of $67 million.  
+23 
+Q. 
+Please state the level of gas net plant you 
+24 
+
+
+--- Page 31 ---
+Cases 23-E-0418 & 23-G-0419 
+ 
+Mingdi Huang 
+ 
+ 
+30 
+ 
+recommend for the Rate Year. 
+1 
+A. 
+After incorporating the capital expense 
+2 
+adjustments discussed in the testimony of the 
+3 
+Staff Gas Infrastructure and Operations Panel, 
+4 
+and the recommended capital expense level of 
+5 
+common plant discussed in the testimonies of the 
+6 
+Staff Common Panel and the Staff Consumer 
+7 
+Services Panel, my recommended gas net plant 
+8 
+level for the Rate Year is $798 million, which 
+9 
+includes the gas allocation of common net plant 
+10 
+of $67 million.  This is an overall decrease of 
+11 
+approximately $3.6 million from the Company’s 
+12 
+proposal.  A comparison between the Company’s 
+13 
+proposed and my recommended net plant levels is 
+14 
+also shown in Exhibit__(MH-6). 
+15 
+Q. 
+Please state the level of common net plant the 
+16 
+Company proposes in the Rate Year. 
+17 
+A. 
+For the Rate Year, the Company proposes an 
+18 
+average common net plant level of approximately 
+19 
+$333 million, of which $267 million is allocated 
+20 
+to electric and $67 million is allocated to gas.  
+21 
+Q. 
+What is the level of common net plant you 
+22 
+recommend for the Rate Year? 
+23 
+A. 
+After incorporating the common capital expense 
+24 
+
+
+--- Page 32 ---
+Cases 23-E-0418 & 23-G-0419 
+ 
+Mingdi Huang 
+ 
+ 
+31 
+ 
+adjustments discussed in the testimonies of the 
+1 
+Staff Common Panel and the Staff Consumer 
+2 
+Services Panel, I recommend a common net plant 
+3 
+level for the Rate Year of approximately $334 
+4 
+million, of which $267 million is allocated to 
+5 
+electric and $67 million is allocated to gas, as 
+6 
+previously noted.       
+7 
+Q. 
+Briefly describe the Company’s current net plant 
+8 
+reconciliation mechanisms. 
+9 
+A. 
+As stated on pages 10 and 11 of the Joint 
+10 
+Proposal adopted by the Commission in Central 
+11 
+Hudson’s last rate cases, Cases 20-E-0428 and 
+12 
+20-G-0419, the Company’s actual electric and gas 
+13 
+net plant and depreciation expense will be 
+14 
+reconciled with the combined electric and gas 
+15 
+net plant and depreciation expense set forth in 
+16 
+the appendices of the Joint Proposal.  The 
+17 
+revenue requirement impact resulting from the 
+18 
+total difference will carry forward and, if, on 
+19 
+June 30, 2024, the cumulative incremental 
+20 
+revenue requirement impact is negative, then the 
+21 
+Company will defer the revenue requirement 
+22 
+impact for the benefit of customers.  If the 
+23 
+cumulative incremental revenue requirement 
+24 
+
+
+--- Page 33 ---
+Cases 23-E-0418 & 23-G-0419 
+ 
+Mingdi Huang 
+ 
+ 
+32 
+ 
+impact is positive, then there will be no 
+1 
+deferral.  Carrying charges at the pre-tax rate 
+2 
+of return will be applied to the amount deferred 
+3 
+until the effective date of the Company’s next 
+4 
+rate order. 
+5 
+Q. 
+What does the Company propose regarding the net 
+6 
+plant reconciliation mechanisms? 
+7 
+A. 
+According to Exhibit__(ATP-11), the Company 
+8 
+proposes to have the net plant deferral expire, 
+9 
+and there is no proposed replacement in 
+10 
+Exhibit__(ATP-12). 
+11 
+Q. 
+Do you agree with the Company’s proposal? 
+12 
+A. 
+No.  I recommend that a new deferral be 
+13 
+implemented, with the same provisions as in the 
+14 
+Joint Proposal from Cases 20-E-0428 and 20-G-
+15 
+0429, but with new net plant and depreciation 
+16 
+expense targets established in these rate cases.  
+17 
+This deferral will protect ratepayers from 
+18 
+overcollection if the Company does not spend the 
+19 
+entirety of its approved capital expenditure 
+20 
+budget. 
+21 
+Q. 
+What incremental training-related FTEs are the 
+22 
+Company proposing? 
+23 
+A. 
+As stated on pages 24 and 25 of the Testimony of 
+24 
+
+
+--- Page 34 ---
+Cases 23-E-0418 & 23-G-0419 
+ 
+Mingdi Huang 
+ 
+ 
+33 
+ 
+the Workforce, Compensation and Benefits Panel, 
+1 
+the Company is proposing to add seven FTEs by 
+2 
+the end of the RY.  Five during the bridge 
+3 
+period: one Logistics Coordinator, one 
+4 
+Instructional Designers, two Power Line 
+5 
+Technician Trainers and one Gas Mechanic 
+6 
+Trainer.  Two during the RY: one Instructional 
+7 
+Designer and one Technical Writer. 
+8 
+Q. 
+Do you have any adjustments to these FTEs? 
+9 
+A. 
+Yes, I recommend removing the Logistics 
+10 
+Coordinator and the second Instructional 
+11 
+Designer. 
+12 
+Q. 
+Explain. 
+13 
+A. 
+As described in the response to IR DPS-377, the 
+14 
+duties and responsibilities of the Logistics 
+15 
+Coordinator and Instructional Designer are 
+16 
+currently being performed by the existing 
+17 
+employees of the Training Department.  The 
+18 
+addition of an Instructional Designer and the 
+19 
+more specialized FTEs that the Company is 
+20 
+proposing will reduce the need to take the 
+21 
+responsibilities associated with a Logistics 
+22 
+Coordinator and Instructional Designer from the 
+23 
+existing employees of the Training Department.  
+24 
+
+
+--- Page 35 ---
+Cases 23-E-0418 & 23-G-0419 
+ 
+Mingdi Huang 
+ 
+ 
+34 
+ 
+Consequently, I recommend the removal of those 
+1 
+FTEs. 
+2 
+Q.  Does this conclude your testimony at this time? 
+3 
+A.  Yes. 
+4 

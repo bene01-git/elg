@@ -1,0 +1,2891 @@
+--- Page 1 ---
+ 
+ 
+ 
+ 
+ 
+ 
+485 Massachusetts Avenue, Suite 3 
+Cambridge, Massachusetts 02139 
+ 
+617.661.3248 | www.synapse-energy.com 
+ 
+ 
+ 
+Assessment of National Grid’s 
+Long-Term Capacity Report 
+Natural gas capacity needs and alternatives  
+ 
+Prepared for the Eastern Environmental Law Center 
+April 6, 2020 
+ 
+ 
+Kenji Takahashi 
+Asa Hopkins, PhD 
+John Rosenkranz 
+David White, PhD 
+Shelley Kwok 
+Nate Garner 
+ 
+ 
+ 
+
+
+--- Page 2 ---
+ 
+ 
+CONTENTS 
+EXECUTIVE SUMMARY ............................................................................................... 1 
+1 
+INTRODUCTION ................................................................................................ 2 
+2 
+BASELINE DEMAND FORECAST METHODOLOGY AND ASSUMPTIONS .............................. 5 
+2.1 
+Description of National Grid’s Baseline Demand Forecast .................................................5 
+2.2 
+Critique of the Baseline Demand Forecast....................................................................... 10 
+3 
+IMPACTS OF DEMAND-SIDE RESOURCES ON THE BASE FORECAST OF CAPACITY NEEDS ..... 17 
+3.1 
+Overview of National Grid’s Demand-Side Resource Analysis .......................................... 17 
+3.2 
+Impacts from Natural Gas Energy Efficiency Policies and Programs .................................. 19 
+3.3 
+Impacts from Demand Response Programs ..................................................................... 21 
+3.4 
+Impacts from Heat Pump Policies and Programs ............................................................. 23 
+3.5 
+Summary of Expected Design Day Demand Impacts for Filling the Demand and Supply Gap
+....31 
+4 
+LONG-TERM GAS SUPPLY RESOURCE OPTIONS ...................................................... 32 
+4.1 
+National Grid’s Existing Gas Supply Resources ................................................................ 32 
+4.2 
+National Grid’s Projected Gap Between Supply and Requirements .................................. 34 
+4.3 
+Gas Supply Resource Options ......................................................................................... 35 
+4.4 
+Critical Assessment of National Grid’s Evaluation of Supply Resource Options ................. 37 
+5 
+INCREMENTAL DEMAND-SIDE RESOURCE OPTIONS ................................................. 40 
+5.1 
+Summary of No Infrastructure solution ........................................................................... 40 
+5.2 
+Corrections to National Grid’s Cost and Benefit Assessments for Incremental Demand-Side 
+Measures ....................................................................................................................... 42 
+6 
+CONCLUSIONS ................................................................................................ 50 
+6.1 
+The Supply Gap Most Likely Does Not Exist ..................................................................... 50 
+6.2 
+National Grid has multiple cost-effective demand-side options to meet any foreseeable 
+need .............................................................................................................................. 51 
+6.3 
+National Grid’s analysis of long-term capacity options is not compatible with New York’s 
+climate change policies .................................................................................................. 52 
+ 
+
+
+--- Page 3 ---
+ 
+Synapse Energy Economics, Inc. 
+Assessment of National Grid Capacity Needs 
+1 
+EXECUTIVE SUMMARY 
+National Grid’s Long-Term Capacity Report projects a winter peak demand need and evaluates options 
+to meet it. National Grid projects a peak capacity shortfall of between 265 MDth/day (Low Demand 
+case) and 415 MDth/day (High Demand case) in the 2030s. Its analysis assumes a baseline future 
+projection (Baseline Demand forecast), and then applies gas peak reductions to account for existing 
+policies. However, our analysis found various errors in National Grid’s assessments. In particular, we 
+found that National Grid: 
+• 
+is overly conservative in its assumptions regarding the ability to contract for peaking gas 
+supply resources, and it did not include a planned enhancement to an existing LNG 
+facility; 
+• 
+overestimates the rate of conversion from oil to natural gas in the Baseline Demand 
+forecast, especially in the New York City area, by assuming that past rates of conversion 
+(which were accelerated by a now-completed policy) will continue; 
+• 
+failed to include the efficiency savings that will be acquired by NYSERDA in addition to 
+savings from the utility’s programs; and 
+• 
+did not properly account for the amount of electrification that will be induced by New 
+York City’s Local Law 97 and the electric utilities’ New Energy New York programs. 
+Correcting these errors, our analysis concludes that National Grid has not shown that it faces a supply 
+and demand gap. In fact, National Grid is expected to have a substantial surplus of supply capacity by 
+2034/35. 
+Figure ES-1. Closing the gas supply gap in 2034/35 with corrections to National Grid’s forecast—High Demand 
+scenario 
+ 
+415
+MDth/day
+-334
+MDth/day
+-25
+MDth/day
+-110
+MDth/day
+-240
+MDth/day
+-106
+MDth/day
+-268
+MDth/day
+-500
+-400
+-300
+-200
+-100
+0
+100
+200
+300
+400
+500
+Original supply
+gap estimates
+RNG/Hydrogen
+Peaking
+contracts and
+planned LNG
+Fuel
+conversion
+rates
+EE from
+NYSERDA
+Electrification
+Total excess
+capacity
+MDth per day
+
+
+--- Page 4 ---
+ 
+Synapse Energy Economics, Inc. 
+Assessment of National Grid Capacity Needs 
+2 
+Figure ES-2. Closing the gas supply gap in 2032/33 with corrections to National Grid’s forecast—Low Demand 
+scenario 
+ 
+Another major finding of our analysis is that even if the supply gaps were to exist (which our analysis 
+refuted), the No Infrastructure option is one of the least-cost solutions among all resource options 
+analyzed by National Grid. The No Infrastructure option is certainly substantially cheaper than all of the 
+large infrastructure options including the Northeast Supply Enhancement (NESE) pipeline and LNG 
+terminal options. We found that National Grid significantly overestimated the cost of incremental 
+energy efficiency and did not take into account the avoided costs of natural gas throughout and beyond 
+the study period, or the avoided costs of carbon emissions, in its cost-benefit analysis.  
+1 INTRODUCTION 
+A recent report filed with the New York Public Service Commission (PSC) by National Grid demonstrates 
+New York State’s new challenge in reconciling its long-term natural gas planning process with its long-
+term climate change targets under the Climate Leadership and Community Protection Act (CLCPA). 
+Specifically, New York faces the thorny question of whether the construction of new large natural gas 
+infrastructure projects make sense in the context of the deep decarbonization mandated by the CLCPA 
+(reducing greenhouse gas emissions (GHG) 85 percent by 2050, and net zero by 2050). Another, more 
+traditional question is whether there is a need to construct large new gas facilities to meet the state’s 
+natural gas demand in the long term. This question arises in the context not only of climate goals but 
+also of increasing options to deploy efficiency, demand response, and electrification to meet customer 
+needs as “non-pipeline alternatives” that are cost-effective and reduce emissions of GHGs and other 
+harmful pollutants. New York and its natural gas utilities are now facing a unique and very important 
+opportunity to explore these questions, with direct practical import for customers.  
+265
+MDth/day
+-440
+MDth/day
+-25
+MDth/day
+-110
+MDth/day
+-240
+MDth/day
+-106
+MDth/day
+-224
+MDth/day
+-500
+-400
+-300
+-200
+-100
+0
+100
+200
+300
+400
+500
+Original supply
+gap estimates
+RNG/Hydrogen
+Peaking
+contracts and
+planned LNG
+Fuel
+conversion
+rates
+EE from
+NYSERDA
+Electrification
+Total excess
+capacity
+MDth per day
+
+
+--- Page 5 ---
+ 
+Synapse Energy Economics, Inc. 
+Assessment of National Grid Capacity Needs 
+3 
+National Grid identified future needs for firm peak gas supply capacity to serve its customers in New 
+York City and Long Island, and signed a precedent agreement with a proposed pipeline project known as 
+the Northeast Supply Enhancement (NESE) project to meet these needs.1 When the NESE’s pipeline 
+project application was denied by the Department of Environmental Conservation (DEC), National Grid 
+placed a moratorium on all new gas service connections on or about May 15, 2019, causing an undue 
+hardship to 3,700 existing customers and potential new customers.2 This led the New York Public 
+Service Commission (PSC) to open a regulatory proceeding (Case 19-G-0678) that resulted in a 
+settlement between National Grid and the Department of Public Service. On November 26, 2019, NY 
+PSC issued an order approving the settlement and directed the Company, among other things, to 
+develop a Long-Term Capacity Report (“Capacity Report”) to address its gas capacity concerns in the 
+long term to allow for further gas connections. This Capacity Report was issued on February 24, 2020.  
+On behalf of the Eastern Environmental Law Center (EELC), Synapse conducted a comprehensive 
+assessment of National Grid’s Capacity Report. The Capacity Report detailed gas peak demand forecasts 
+through the winter of 2034/35. It showed two forecasts, called High Demand and Low Demand, based 
+on National Grid’s assessments of the impacts of recent policies and identified peak gas supply gaps of 
+265 to 415 thousand dekatherm per day (MDth/day) between 2020 and 2034/35. The report then 
+assessed various long-term gas solutions to fill these gaps. These potential solutions included the NESE 
+pipeline as well as a No Infrastructure option that solely relies on additional demand-side resources. 
+Our analysis found various errors in National Grid’s assessments of the rate of customer conversion 
+from oil to natural gas, expected levels and costs of energy efficiency and heat pumps under existing or 
+expanded policies and programs, and gas supply resources. This report on Synapse’s review of the 
+Capacity Report includes our assessment of National Grid’s analysis on the following issues: 
+a) Section 2 addresses the Baseline Demand forecast based on econometric modeling; 
+b) Section 3 addresses the impacts on peak demand forecasts from the implementation of 
+energy efficiency, demand response, and electrification measures expected from recent 
+policies and commitments including the New Efficiency New York (NENY) program and 
+New York City’s Local Law 97; 
+c) Section 4 addresses long-term supply resource options including contracts for peaking 
+supplies, planned upgrades to existing liquefied natural gas (LNG) facilities, and 
+renewable natural gas (RNG) and hydrogen; and 
+d) Section 5 addresses the impacts and costs of expanded demand-side measures included 
+in the No Infrastructure option. 
+ 
+1 Balaraman, K. Nov. 25, 2019, “National Grid lifts gas moratorium following deal with New York.” UtilityDive. Available at 
+https://www.utilitydive.com/news/national-grid-lifts-gas-moratorium-following-deal-with-new-york/568044/  
+2 Brachfeld, B. October 14, 2019. “State Orders National Grid to Immediately Connect 1,157 Customers with Gas Service, 
+Alleges Company Violated Law.” Bklyer. Available at https://bklyner.com/state-orders-national-grid-to-immediately-connect-
+1157-customers-with-gas-service-alleges-company-violated-law/ 
+
+
+--- Page 6 ---
+ 
+Synapse Energy Economics, Inc. 
+Assessment of National Grid Capacity Needs 
+4 
+The report concludes in Section 6 by bringing the assessments together to show that appropriate 
+treatment of demand-side measures, with or without small changes in National Grid’s supply planning 
+assumptions, eliminates the need for any of the large-scale infrastructure investments examined in the 
+Capacity Report. 
+ 
+ 
+
+
+--- Page 7 ---
+ 
+Synapse Energy Economics, Inc. 
+Assessment of National Grid Capacity Needs 
+5 
+2 BASELINE DEMAND FORECAST METHODOLOGY AND 
+ASSUMPTIONS 
+2.1 Description of National Grid’s Baseline Demand Forecast  
+2.1.1 Forecast overview 
+Natural gas utilities assess expected system peak demand based on an extreme cold weather day called 
+the design day. National Grid’s Capacity Report presents three design day gas demand forecasts for the 
+utility’s jurisdiction in Long Island and New York City as follows:  
+1. Baseline Demand forecast 
+2. Final High Demand scenario 
+3. Final Low Demand scenario 
+Figure 1 below shows these forecasts as presented in the Capacity Report. The compound average 
+growth rates (CAGR) for 2020 to 2035 for these three scenarios are 1.8 percent, 1.1 percent, and 0.8 
+percent, respectively, as shown in this figure.3 The High and Low Demand scenarios are discussed in 
+detail in Section 3 of this report. This section addresses the Baseline Demand forecast. 
+Figure 1. Historical and projected design day natural gas demand in Downstate New York, 2009–2035 
+ 
+Source: National Grid. 2020. Figure 1.  
+ 
+3 National Grid. 2020. Natural Gas Long-Term Capacity Report, Figure 1, page 8. 
+
+
+--- Page 8 ---
+ 
+Synapse Energy Economics, Inc. 
+Assessment of National Grid Capacity Needs 
+6 
+The starting design day load in 2020 is 2,836 MDth/day.4 Although the Capacity Report does not directly 
+provide actual design day demand loads each subsequent year, we were able to calculate it from several 
+values in the report, and also confirm it with Table 1 of the April 1 Technical Appendix.5 The overall 
+growth rate is about 1.76 percent which is rounded to 1.8 percent in Figure 1 of the report.  
+Table 1. Design day demand forecast increases 
+  
+2019/20 
+2034/35 Cases 
+MDth/day 
+Base 
+Baseline 
+Design Day Demand 
+2,836 
+3,687 
+Increase 
+  
+851 
+Percent Increase 
+  
+30% 
+ 
+The Baseline forecast is based on econometric modeling. The High and Low Demand forecasts are 
+created by adjusting the Baseline forecast for factors such as energy efficiency, demand response, and 
+electrification.6 We discuss these adjustments in more detail in Section 3.  
+2.1.2 Historical perspective 
+The Capacity Report shows historical design day natural gas demand as explained above and shown in 
+Figure 1. This is, however, a normalized design day value and not the actual peak demand in those years. 
+The Capacity Report does not provide the actual peak demand in those years, nor the conditions under 
+which they occurred. This is a shortcoming for understanding how these values relate to the actual 
+historical peak loads. 
+The Capacity Report contains some general information about the historical design day demand, but it is 
+scattered in different places.7 We have consolidated that information to produce the following 
+“historical” table which shows the changes from 2010 to 2019. We estimated that the annual growth 
+rate is 2.06 percent (Table 2). This significantly is less than the 2.4 percent shown in the Capacity Report 
+(See Figure 1 above). This inconsistency casts doubt on the accuracy of the material presented in that 
+report. 
+ 
+4 National Grid. 2020, Table 4. 
+5 Natural Gas Long-Term Capacity Report Technical Appendix to the Capacity Report issued on April 1, 2020, available at 
+https://ngridlongtermsolutions.com/. 
+6 National Grid. 2020. Section 5.2 
+7 National Grid. 2020, Tables 4 and 5. 
+
+
+--- Page 9 ---
+ 
+Synapse Energy Economics, Inc. 
+Assessment of National Grid Capacity Needs 
+7 
+Table 2. Design day gas demand 
+ 
+Volume (MDth/day) 
+10-year 
+change 
+% 
+change 
+Annual 
+Rate 
+Customers 
+2009/10 
+2019/20 
+Residential 
+1,458 
+1,709 
+251 
+17% 
+1.60% 
+C&I 
+593 
+726 
+133 
+22% 
+2.04% 
+Multi-Family 
+263 
+401 
+138 
+52% 
+4.31% 
+Total 
+2,314 
+2,836 
+522 
+23% 
+2.06% 
+Source: Synapse from Capacity Report Tables 4 and 5. 
+The residential customers represent about 60 percent of the current demand but had the lowest rate of 
+increase over the past 10 years. The greatest percentage increase was seen in multi-family customers. 
+Much of this was associated with the required conversion away from heavy fuel oils in New York City 
+(NYC). As discussed in Section 2.2.2, that process is now mostly completed in the NYC area and will not 
+impact the growth in the future as much as it did in the past.  
+Table 3 below shows the change in the number of customers over the same period. The greatest relative 
+increase here also was for the multi-family customers. The net change in the number of residential 
+customers represents an increase of 174,000 heating customers and a decline of 70,000 in non-heating 
+customers (many of them switching to gas heat).8  
+Table 3. Changes in number of customers 
+Number 
+(1000) 
+Change 
+% change 
+Customers 
+2010 
+2020 
+Residential 
+1,637 
+1,741 
+104 
+6% 
+C&I 
+103 
+112 
+9 
+8% 
+Multi-Family 
+18 
+23 
+5 
+28% 
+Total 
+1,758 
+1,877 
+119 
+7% 
+Source: Synapse from Capacity Report Tables 5 and 6. 
+Overall, the growth in demand has been driven by conversions from oil to gas, increased numbers of 
+customers, and increased usage per customer (primarily driven by an increasing portion of gas heating 
+customers). Historically, there has been a growth in the design day demand, but those trends may or not 
+continue in the future depending on a variety of factors.  
+ 
+8 The term “non-heating customers” refers to customers who use natural gas only for non-space heating related end-uses (e.g., 
+cooking and water heating). 
+
+
+--- Page 10 ---
+ 
+Synapse Energy Economics, Inc. 
+Assessment of National Grid Capacity Needs 
+8 
+2.1.3 Baseline forecast 
+National Grid developed its baseline design day natural gas demand forecast based on econometric 
+modeling. The basic approach is described as follows: 
+Project “Baseline” demand growth through a statistically validated econometric forecast 
+[is] driven by key variables under current policies and customer usage patterns. In this step, 
+it is assumed that current energy efficiency programs continue; that there are similar rates 
+of oil-to-gas conversions; and that any alternatives such as electrification continue at the 
+same rate as today. The model looks at the most predictive drivers of gas customer count 
+and usage per customer based on the last 10 years of actual data (with a higher weighting to 
+recent activity), and then projects future customer count and usage per customer based on 
+external forecasts of underlying macroeconomic drivers. Baseline demand growth is largely 
+driven by expected changes in number of customers due to population, housing, and 
+business growth; oil-to-gas conversions; and any changes in usage per customer based on 
+existing patterns and trends.9 
+We note that the Capacity Report provides no details about the econometric model itself. Instead the 
+Capacity Report only provides the results of the econometric modeling in terms of numbers of 
+customers and usage per customer with no information about how these are generated (Table 4 and 
+Table 5). 
+Table 4. Key drivers of baseline demand—number of customers 
+ 
+Source: National Grid. 2020. Table 9.  
+ 
+9 National Grid. 2020, Section 5.2, page 32. 
+
+
+--- Page 11 ---
+ 
+Synapse Energy Economics, Inc. 
+Assessment of National Grid Capacity Needs 
+9 
+Table 5. Key drivers of baseline demand – usage per customer 
+ 
+Source: National Grid. 2020. Table 9. 
+An even greater gap is that these tables provide no information about the actual demand growth 
+associated with these drivers. For example, what is the demand growth associated with the increase in 
+commercial customers? What is the relationship between annual energy use growth and design day 
+demand growth? This is key information that such a report should provide. 
+The Capacity Report issued on February 24 also did not provide design day demand load data for each 
+customer class for 2034/35, but we were able to calculate the load based on our estimates of 
+approximate demand growth rates we developed using the changes in the number of customers and 
+usage per customer provided in the tables above. For example, the commercial and industrial (C&I) 
+sector with a 0.4 percent customer growth rate combined with a 0.6 percent usage increase results in a 
+1.0 percent per year demand day load increase. For the multi-family sector, the overall increase is 3.7 
+percent per year (2.4 percent + 1.2 percent; difference due to rounding). Combining the drivers, we 
+calculated the overall residential growth rate to be about 1.6 percent per year. We confirmed these 
+growth rates and the resulting demand estimates for 2034/35 with the data provided in a Technical 
+Appendix that was issued in late March and updated on April 1.10 
+The table below shows the demand increases by sector based on the Technical Appendix. The residential 
+sector shows the greatest absolute increase, but the multi-family sector shows the greatest relative 
+increase. Since most of the remaining fuel conversions from oil to gas have already occurred in the 
+multi-family sector in National Grid’s NYC territory (KEDNY), it is not obvious that gas usage in this sector 
+will continue to increase at such a high rate.  
+ 
+10 Natural Gas Long-Term Capacity Report Technical Appendix to the Capacity Report issued on April 1, 2020, available at 
+https://ngridlongtermsolutions.com/. 
+
+
+--- Page 12 ---
+ 
+Synapse Energy Economics, Inc. 
+Assessment of National Grid Capacity Needs 
+10 
+Table 6. Baseline load increases (MDth/day) 
+  
+2019/20 
+Load 
+Growth 
+Rate 
+2034/35 
+Load 
+Increase 
+Residential 
+1,704 
+1.6% 
+2,152 
+448 
+Commercial & Industrial 
+725 
+1.0% 
+847 
+122 
+Multi-family 
+400 
+3.7% 
+688 
+288 
+Total 
+2,829 
+1.8% 
+3687 
+858 
+Source: National Grid 2020. Technical Appendix. Table 1. 
+We have also done a rough calculation of what the load increases would be if the number of customers 
+did not increase. For multi-family customers, the load would increase by only about 80 MDth—about 
+200 MDTh/day less than the Baseline forecast. Combined reductions for the other sectors would be 
+about 100 MDth/day. While a moratorium may not be appropriate or feasible, slowing customer 
+growth, especially for firm heating service, could have substantial capacity benefits.11 Energy efficiency, 
+demand response, and alternative energy systems such as heat pumps can play a critical role in this 
+effort.  
+Table 4 above highlights another notable point: a 13.1 percent decrease per year in the temperature-
+controlled customers.12 This means that this cohort of customers are essentially gone by 2035. If 
+National Grid wishes to control design day loads, then it should retain these customers and even expand 
+the number of such customers. By assuming in the Baseline that these customers essentially all convert 
+to full gas service, National Grid sets up a case where demand-side adjustments are required to 
+compensate. 
+2.2 Critique of the Baseline Demand Forecast 
+In this section, we discuss limitations of National Grid’s load forecast methodology and assumptions 
+with a focus on its econometric-based load modeling. We address two weaknesses in the Capacity 
+Report: (1) inconsistencies between the Capacity Report and National Grid testimony regarding energy 
+sales forecasts and (2) fuel conversion rate assumptions. We also express concern that the reliance on a 
+zero degree Fahrenheit design day may overstate the temperature extremes that National Grid’s 
+customers face. 
+As mentioned above, National Grid adjusts its load forecast based on its econometric modeling for 
+additional impacts from recent policies on demand-side measures and programs. We will discuss and 
+provide our assessment of such additional impacts in Section 3.  
+ 
+11 Some of these benefits are likely included in the High and Low Demand scenarios, but the extent of that is not clear from the 
+report. 
+12 Temperature-controlled customers are demand response customers that are required to switch from gas to an alternate fuel 
+when the temperature drops below a pre-set level (e.g., 16 Degrees Fahrenheit). This customer group consists of multi-
+family (85%) and commercial (15%) customers per the footnote to Table 4 of the Capacity Report. 
+
+
+--- Page 13 ---
+ 
+Synapse Energy Economics, Inc. 
+Assessment of National Grid Capacity Needs 
+11 
+2.2.1 Sales forecasts 
+The design day demand forecast should be consistent with the gas delivery forecast used in the National 
+Grid rate case proceeding in 2019 (Case 19-G-0309 and 19-G-310). However, there is no discussion of 
+that relationship in the Capacity Report. The sales forecast from the 2019 rate case has many detailed 
+aspects not reflected in the presentation of the demand forecast in the Capacity Report. It is not clear if 
+National Grid used the same assumptions. 
+Table 7 below summarizes the materials in Theodore Poe, Jr.’s testimony in the 2019 rate case. These 
+materials assessed historical gas deliveries and forecasted future deliveries. One point of interest here is 
+that the historical sales from 2013 through 2017 increased at an average rate of 2.9 percent, 
+corresponding to the central period of a claimed 2.4 percent CAGR increase in the design day gas 
+demand.13 This implies that design day demand may not grow as quickly as energy demand. In the rate 
+case, the projected future (2018–2024) increases in annual deliveries are much lower (0.6 to 1.0 
+percent). It is not clear what portion of this reduction is due to policy impacts, and what portion to 
+different modeling tools or assumptions. Regardless, this implies a lower growth rate than historically 
+for the design day demand. But as stated above, National Grid provides essentially no information about 
+how these forecasts are related. National Grid’s load forecast in the Capacity Report should at least 
+make references to the sales forecast in the rate case, indicate the common and different assumptions 
+and explain any common factors used to develop design day load forecasts. 
+Table 7. Annual deliveries—historical and forecast 
+Period 
+Growth Rate 
+Historical 2013-2017 
+2.9% 
+Rate Case Forecast (2018-2024) 
+April 2019 Testimony 
+1.0% 
+January 2020 Testimony 
+0.6% 
+Note: Based on TEP-4A and TEP-4B. 
+The macroeconomic factors presented in Table 7 of the Capacity Report are identified as being from 
+Moody’s Analytics, but the economic scenario and underlying assumptions are not given. The Capacity 
+Report does not provide the map between these inputs and the forecast results.  
+2.2.2 Fuel conversion rate assumptions 
+A key factor driving National Grids’ projected increase in gas load is the conversion from other fuels to 
+natural gas. In this section, we will assess the robustness of the Capacity Report’s assumptions on such 
+fuel conversion rates. As shown in the table below, the number of residential non-heating customers 
+have declined at a rate of 7,023 per year and the number of residential heating customers have 
+ 
+13 National Grid. 2020. Figure 1. 
+
+
+--- Page 14 ---
+ 
+Synapse Energy Economics, Inc. 
+Assessment of National Grid Capacity Needs 
+12 
+increased at an average rate of 17,436 per year, resulting in a net increase of about 10,000 residential 
+customers per year. The total increase in residential heating customers represents non-heating 
+customers switching to heating, new construction, and those switching from other fuels. The report 
+indicates that there were about ~5,400 new customers per year who switched from non-gas fuels.14 
+Most of those were probably residential customers, but there was also a considerable increase in multi-
+family customers probably also representing some fuel switching. Together the annual net customer 
+change was about 11,600 over the past 10 years (Table 8).  
+Table 8. Annual change in customer count, 2010–2019 
+  
+Source: National Grid. 2020. Table 6. 
+To estimate impacts of fuel conversions for the next 15 years, the Capacity Report assumes that the 
+historical trend over the past 10 years continues as follows: 
+In the Baseline Demand scenario, this conversion trend is expected to continue, with 
+almost 33% of building space in the Downstate NY area still heated by non-gas sources - 
+23% from oil heating and 10% from electric resistance, propane and other fuels.15  
+National Grid’s customer conversion assumption for future customers is not warranted primarily 
+because a large number of the buildings using other fuels in NYC have already converted to natural gas 
+to comply with NYC's fuel oil regulation, supported under the NYC Clean Heat Program. In fact, National 
+Grid summarizes this point in its 2018–2019 Winter Supply Review report for the fuel conversion rates in 
+NYC area (excluding Long Island) as follows: 
+Under the NYC Clean Heat program, National Grid has converted nearly all of the 
+approximately 800 buildings in its service territory from No. 4/6 oil to natural gas. As a 
+result, customer requirements have grown and infrastructure to support these 
+conversions has been installed where needed. 
+The City Clean Heat program deadline to phase out of all No. 6 heating oil was June 
+30th, 2015. To date, the NYC Department of Environmental Protection has achieved 
+99.8% compliance with the regulation. The deadline for the phase out of all No. 4 
+ 
+14 National Grid. 2020. Page 30. 
+15 National Grid. 2020. Page 30. 
+
+
+--- Page 15 ---
+ 
+Synapse Energy Economics, Inc. 
+Assessment of National Grid Capacity Needs 
+13 
+heating oil is January 1st, 2030. At this point the City has achieved it goals and is 
+focusing on pursuing other carbon reductions options.16 
+It is also important to note that according to the company’s own 2018 Winter Supply Review report, the 
+rate of fuel conversion requests to natural gas for the entire Downstate NYC service area under National 
+Grid jurisdiction has been declining over time. Based on this previous report, the number of requests in 
+FY2018 were less than half of the requests National Grid received five years ago in FY2014.17 It is 
+possible that the conversion rate was higher in the years leading up to FY2015 because the compliance 
+year for No. 6 fuel oil phase out was in 2015.  
+Based on this decreasing demand to convert to natural gas, we expect that going forward the fuel 
+conversion rates from non-natural gas fuels to natural gas should be substantially lower than what 
+National Grid assumes in its Capacity Report. We estimate alternative design day demand impacts using 
+a more realistic fuel conversion rate assumption. Since we do not have any data about fuel choice by 
+new construction buildings, this analysis conservatively assumes no change to the new construction 
+market. We then assume the fuel conversion rate from existing buildings will be half of National Grid’s 
+assumption, based on the fall in fuel conversion rates over the past several years. This results in a 33 
+percent reduction in the overall customer gas connection requests over the next 15 years.18 Properly 
+adjusting National Grid’s assumptions of customer count and usage growth analysis, we estimate that 
+National Grid’s design day demand growth is overestimated at least by approximately 240 MDth/day.  
+Table 9 and Table 10 below show our detailed analysis of design day demand impacts due to the 
+changes in the growth rate of the number of customers and usage. Table 9 replicates National Grid’s 
+analysis of design day demand growth by 2035. Using National Grid’s assumptions on the annual growth 
+rates and the current design day demand by customer class, we estimated that the total design day 
+growth demand by 2035 is approximately 850 MDth. (This value verifies as close to National Grid’s 
+estimate of 858 MDth/day.)19 In Table 10, we assumed that the growth rate in the number of customers 
+will be 30 percent less than the rates in Table 9. The resulting design day demand by 2035 grows to 
+approximately 601 MDth/day, approximately 240 MDth/day less than the 850 MDth estimate based on 
+National Grid’s assumptions. Lastly, note that if we assume natural gas connection requests will be 
+reduced by half instead of 30 percent (as could happen if more new construction were all-electric, for 
+ 
+16 National Grid. 2018. 2018-2019 Winter Supply Review, page 32. 
+17 National Grid. 2018. 2018-19 National Grid Winter Supply Review, page 30. 
+18 Based on our assessment of the growth rate in the number of households (0.3 percent) and the floor space in square footage 
+(0.9 percent) presented in the Capacity Report in Table 7, we assumed that the growth rates in net gas usage by new 
+buildings is approximately 0.6 percent. Since the overall annual growth rate assumed by National Grid is 1.8 percent, we 
+estimated that the net usage growth rate for the existing buildings is 1.2 percent (1.8 percent minus 0.6 percent). This 1.2 
+percent represents about 67 percent of the entire annual growth rate, so cutting fuel conversions in half would reduce the 
+overall growth rate by 33 percent.  
+19 National Grid. 2020. Natural Gas Long-Term Capacity Report Technical Appendix, Table 1, page 2, April 1, 2020. 
+
+
+--- Page 16 ---
+ 
+Synapse Energy Economics, Inc. 
+Assessment of National Grid Capacity Needs 
+14 
+example), design day demand in 2035 would be reduced by 350 MDth/day from the Baseline Demand 
+forecast.  
+Table 9. Annual gas peak demand growth rate for 2020–2035 and expected demand growth by 2035—National 
+Grid scenario on fuel conversion rate 
+  
+Annual Growth Rates 
+15 Year 
+Impact 
+Current Design 
+Day Demand 
+(MDth/day) 
+Net Increase 
+over 15 Years by 
+2035 (MDth) 
+  
+# of 
+Customers 
+Usage 
+Net Rate 
+Residential Non-heat 
+-1.30% 
+-0.50% 
+-1.8% 
+-24% 
+85 
+-20 
+Residential Heat 
+1.50% 
+0.20% 
+1.7% 
+29% 
+1,624 
+468 
+Commercial & Industrial 
+0.40% 
+0.60% 
+1.0% 
+16% 
+726 
+117 
+Multi-family 
+2.40% 
+1.20% 
+3.6% 
+71% 
+401 
+283 
+Total 
+  
+  
+1.8% 
+30% 
+2,836 
+848 
+Source: Synapse analysis based on National Grid’s annual growth rates. 
+Table 10. Annual gas peak demand growth rate for 2020-2035 and expected demand growth by 2035—realistic 
+fuel conservation rate scenario 
+  
+Annual Growth Rates 
+15 Year 
+Impact 
+Current Design 
+Day Demand 
+(MDth/day) 
+Net Increase 
+over 15 Years 
+by 2035 (MDth) 
+  
+# of 
+Customers 
+Usage 
+Net 
+Rate 
+Residential Non-heat 
+-0.87% 
+-0.50% 
+-1.4% 
+-19% 
+85 
+-16 
+Residential Heat 
+1.00% 
+0.20% 
+1.2% 
+20% 
+1,624 
+318 
+Commercial & Industrial 
+0.27% 
+0.60% 
+0.9% 
+14% 
+726 
+100 
+Multi-family 
+1.60% 
+1.20% 
+2.8% 
+51% 
+401 
+206 
+Total 
+  
+  
+1.3% 
+21% 
+2,836 
+601 
+Source: Synapse analysis based on corrected annual growth rates. 
+ 
+2.2.3 Design day calculation issues 
+The Capacity Report takes as given a design day average temperature of zero degrees Fahrenheit.20 The 
+Capacity Report notes that the last day that met the design day criteria was February 9, 1934—86 years 
+ago. Much has changed since then, and the climate is getting warmer on average. The report is missing 
+any discussion of (1) why this is an appropriate design temperature for the future and (2) what the 
+demand implications would be of a different design temperature. Hourly load, supply, and temperature 
+data would be required in order to perform a detailed assessment of the design temperature and 
+reliability. 
+ 
+20 National Grid 2020, Section 3.2. 
+
+
+--- Page 17 ---
+ 
+Synapse Energy Economics, Inc. 
+Assessment of National Grid Capacity Needs 
+15 
+Figure 2 shows the approximate heating degree days for the coldest day in Central Park in each of the 
+last 100 winters.21 We have added a line corresponding to the design day temperature of zero degrees. 
+The general trend is slightly downward, perhaps reflecting impacts of ongoing climate change. The 
+greatest HDD value in the most recent 70 years (1950 to 2020) is 61.5 (corresponding to a 3.5 degree 
+design day), which occurred in 1985 (35 years ago).  
+Figure 2. Annual HDD maximums for NYC, with a simple linear regression showing slight 
+warming over time 
+ 
+Source: Synapse analysis based on temperature data from the National Oceanic and Atmospheric Administration (NOAA).  
+In light of the actual temperatures experienced in the last 70 years, and the trend toward warmer 
+winters, we believe that the use of a zero-degree design day may be extreme, and result in National Grid 
+ratepayers paying for more capacity than is necessary to maintain reliability. Using a higher design day 
+temperature would reduce the design day demand. Using National Grid’s design day peak load data, we 
+have calculated daily load levels versus HDD values for the 2019/20 season (accounting for non-heating 
+loads). Based on these calculations, we have determined that a design day temperature of 3 degrees, for 
+example, would reduce the design load by about 107 MDth/day for the 2019/20 season. This represents 
+3.8 percent of that load.  
+ 
+21 We obtained historical daily high and low temperature data from the National Oceanic and Atmospheric Administration 
+(NOAA) from 1920 to the present (National Climate Data Center, https://www.ncdc.noaa.gov/cdo-web/search; Central Park 
+weather station). We took the simple average of the high and low to calculate the approximate HDD requirement based on 
+65 degrees. We then extracted the highest HDD value for each year, corresponding to the coldest average day. One thing of 
+note is that our calculated average temperature for 1934 is lower than the daily average used for the design day calculations. 
+We believe this is because our simple average of high and low temperatures does not correctly capture the hourly averages 
+(hourly temperatures for the full historical period are not available). 
+
+
+--- Page 18 ---
+ 
+Synapse Energy Economics, Inc. 
+Assessment of National Grid Capacity Needs 
+16 
+2.2.4 National Grid’s design hour issues 
+The natural gas industry transacts on a standard Gas Day, and gas pipeline services are scheduled as 
+daily quantities. Pipeline operators generally accommodate hourly variations in gas deliveries by 
+managing the gas pressure in the pipeline. At night, when the gas use is lower, the pressure is increased 
+to be ready for the early morning ramp-up in gas use. The pipeline operator then repeats this process 
+during the day to prepare for the evening peak. Because there are limits on the ability to manage hourly 
+variability using pipeline pressure, pipeline operators can require shippers to take gas at uniform hourly 
+rates if it becomes necessary to protect the operation of the system. Concerns about variable hourly 
+flows have increased as gas consumption has expanded, and gas use for power generation has 
+increased. However, these concerns are greater on some gas pipeline systems than on others. 
+Gas pipelines can be designed to provide non-uniform hourly deliveries. In some cases, firm hourly 
+flexibility is built into the pipeline operator’s standard gas transportation service. Iroquois Gas 
+Transmission System, which supplies National Grid, allows gas to be taken at 120 percent of the uniform 
+hourly quantity for up to three consecutive hours, two times per day.22 Other pipeline operators offer 
+non-standard transportation services with enhanced hourly flow rights, where the shipper contracts for 
+both a Maximum Daily Quantity (MDQ) and a Maximum Hourly Quantity (MHQ) that is greater than 
+1/24th of the MDQ. Texas Eastern Transmission, another National Grid supplier, offers transportation 
+service with a higher MHQ if the customer pays for the addition pipeline facilities needed to provide the 
+extra hourly flexibility.23  
+Most large gas distribution utilities also address high hourly flow requirements using on-system storage 
+and peaking. On the East Coast, where the geology does not allow gas to be stored underground, this 
+usually involves injecting vaporized LNG, CNG, or propane into the distribution system during peak hours 
+of the day. National Grid says that it plans to use CNG approximately four hours per day during periods 
+of high gas demand to increase supply during the morning and evening peaks. National Grid also plans 
+to upgrade one of its two LNG peaking facilities to increase the hourly vaporization capacity. 
+National Grid indicates that one reason for using a stricter design day weather standard is to account for 
+hourly variability in gas use.24 Inflating the design day demand forecast causes National Grid to hold 
+more gas delivery capacity, and it provides a buffer in the event that pipeline operators put restrictions 
+on hourly gas deliveries. However, this is a very imprecise approach to the problem and creates the risk 
+that National Grid will contract for more gas supply capacity than it actually needs. It would be better for 
+National Grid to quantify its Design Hour requirement and compare this to the hourly flexibility that will 
+be available from all upstream and on-system gas supply resources. 
+ 
+22 Iroquois Gas Transmission System, FERC Gas Tariff, General Terms & Conditions, Section 8.3. 
+23 Texas Eastern Transmission, FERC Gas Tariff, Rate Schedule FT-1, Section 2.3. 
+24 National Grid. 2020. page 19. 
+
+
+--- Page 19 ---
+ 
+Synapse Energy Economics, Inc. 
+Assessment of National Grid Capacity Needs 
+17 
+3 IMPACTS OF DEMAND-SIDE RESOURCES ON THE BASE FORECAST 
+OF CAPACITY NEEDS 
+National Grid’s baseline forecast is a purely econometric forecast, which does not account for recent 
+changes in state and local policies or technology adoption among the company’s customers. National 
+Grid modifies the baseline forecast through explicit accounting of these incremental changes in energy 
+efficiency, demand response, and electrification. Because the impact of these new programs and market 
+changes is uncertain, National Grid develops Low and High Demand forecasts, reflecting higher or low 
+impacts to reduce design day demand, respectively. This section evaluates and critiques the company’s 
+approach to accounting for the impact of incremental programs and technology adoption. 
+3.1 Overview of National Grid’s Demand-Side Resource Analysis 
+To develop the Low and High Demand forecasts, the Capacity Report estimated natural gas impacts 
+from the implementation of energy efficiency, demand response, and electrification measures expected 
+from recent policies and commitments as follows:  
+• 
+New Efficiency New York program: On January 16, 2020, the NY PSC established energy 
+efficiency and electrification targets for investor-owned utilities for 2020 through 
+2025.25 These targets are part of the state’s overall initiative called New Efficiency New 
+York (NENY). This order has two major components. First, the order approved increased 
+gas savings and budget targets for gas utilities. Secondly, NENY established energy 
+targets through heat pump installations for electric investor-owned utilities. PSEG Long 
+Island is voluntarily complying with NENY program targets.  
+• 
+Local Law 97: New York City has established building performance standards under 
+Local Law 97 (LL97). Under this regulation, buildings larger than 25,000 square feet will 
+be required to meet certain carbon dioxide (CO2) emissions limits based on building 
+type.  
+• 
+Recent settlement related to National Grid’s moratorium: As part of this settlement, 
+NY PSC directed National Grid to develop an implementation and contingency plan to 
+allow for lifting National Grid’s gas moratorium for new customers on an interim basis. 
+This plan includes an investment of $8 million to implement gas demand response and 
+energy efficiency programs.  
+Further, the Capacity Report included gas impacts from the expected increase in natural/organic 
+adoption of electric heat pumps. More specifically, National Grid anticipates that electric heat pumps in 
+the United States will reach cost parity with natural gas by the early 2030s.26 
+ 
+25 NY PSC. 2020. Order Authorizing Utility Energy Efficiency and Building Electrification Portfolios Through 2025. 
+26 National Grid. 2020, page 33. 
+
+
+--- Page 20 ---
+ 
+Synapse Energy Economics, Inc. 
+Assessment of National Grid Capacity Needs 
+18 
+Table 11 below provides the total design day demand reduction estimates by National Grid for energy 
+efficiency, demand response, and electrification measures. The combined effect in 2034/35 is to reduce 
+the design day demand by between 346 and 511 MDth/day, which represents about 9 to 14 percent of 
+the expected value of the baseline design day load forecast for 2034/35.  
+Table 11. Design day demand reduction estimates under the Low and High Demand scenarios 
+  
+Reduction of Design Day Demand (MDth/day) 
+Program 
+2019/20 
+2024/25 
+2029/30 
+2034/35 
+Energy Efficiency (EE) 
+1 
+39-49 
+129-161 
+199-249 
+Customer Demand Response (DR) 
+9 
+10-36 
+20-47 
+20-53 
+Electrification 
+0 
+8-11 
+32-46 
+127-209 
+TOTAL 
+10 
+47-96 
+181-254 
+346-511 
+Source: National Grid 2020. Table 11 and 13. 
+Figure 3 below summarizes the design day load reductions presented in the report. They are 
+347 MDth/day for the High Demand scenario and 511 MDth/day for the Low Demand scenario. The 
+Baseline demand increase over the same period is 870 MDth/day which results in supply gaps of 265 to 
+415 MDth/day, as identified in the Capacity Report. If the Baseline forecast is too high (as discussed in 
+Section 2), the actual supply gap is smaller. Similarly, if the existing policies and programs would result in 
+greater reductions than National Grid estimates, the actual supply gap is smaller. 
+Figure 3. Design day load reductions 2034/35 
+ 
+Source: Synapse from the National Grid Capacity Report. 
+0
+100
+200
+300
+400
+500
+600
+High Demand
+Low Demand
+MDth/day
+Commercial & multi-family gas to electric conversions
+Residential gas to electric conversions
+Residential new construction and oil conversions
+Customer Demand Response (DR)
+Energy Efficiency (EE)
+
+
+--- Page 21 ---
+ 
+Synapse Energy Economics, Inc. 
+Assessment of National Grid Capacity Needs 
+19 
+3.2 Impacts from Natural Gas Energy Efficiency Policies and Programs 
+In the Capacity Report, National Grid assumes the level of natural gas energy efficiency investments to 
+comply with the NENY program for 2020 to 2025, and yet neglects to account for NYSERDA’s energy 
+efficiency program targets that will affect natural gas use in National Grid’s service area. In addition, the 
+report assumes the same level of investments and savings as the 2025 levels beyond this timeframe 
+through 2035. This creates National Grid’s Low Demand scenario. For developing the High Demand 
+scenario, the Capacity report assumes that 80 percent of NENY targets are achieved. This scenario 
+results in 0.7 percent of sales in annual incremental gas savings by 2025, instead of 0.8 percent under 
+the Low Demand scenario. The projected impacts of these scenarios are presented in the following 
+table.  
+Table 12. National Grid’s projected impact of NENY energy efficiency programs 
+Area of Energy Efficiency 
+Incremental Impact on Design Day Demand (MDth/day) 
+2019/20 
+2024/25 
+2029/30 
+2034/35 
+High Demand scenario 
+1 
+39 
+129 
+199 
+Low Demand scenario 
+1 
+49 
+161 
+249 
+Source: National Grid 2020. Table 11. 
+When developing these gas energy efficiency program forecasts, National Grid made at least one 
+fundamental error: While National Grid’s obligation under the NENY program is approximately 0.8 
+percent of sales in 2025, NY PSC set an overall gas savings target of 1.3 percent including the gas savings 
+target by New York State Energy Research and Authority (NYSERDA). This 1.3 percent target was 
+estimated based on adjusted 2018 sales for cumulative energy efficiency savings.27 If the target is 
+compared with the sales without any savings adjustment, it would be about 1.2 percent.28 NY PSC made 
+the following statements regarding this target: 
+“This Order establishes the State’s commitment to reaching nation-leading annual levels 
+of efficiency savings by 2025 of 3% for electricity and 1.3% for gas.” (NY PSC. 2020. 
+Order p. 36) 
+“These target levels are necessary and realistic, as well as ambitious” (NY PSC. 2020. 
+Order p. 42)  
+To present a credible forecast of energy efficiency, National Grid must account for NYSERDA’s 
+contribution to natural gas savings under its own service territory. It failed to do so.  
+Based on the NYSERDA’s contribution toward the NENY target in all the investor-owned utilities’ service 
+territories, we developed design day demand reduction estimates of the savings that would be achieved 
+ 
+27 NY PSC. 2020.    
+28 This can be confirmed by estimating cumulative gas savings based on the data in Appendix B to NY PSC (2020). 
+
+
+--- Page 22 ---
+ 
+Synapse Energy Economics, Inc. 
+Assessment of National Grid Capacity Needs 
+20 
+by NYSERDA in National Grid’s Downtown NYC territory. Annual incremental gas demand savings by 
+NYSERDA and National Grid through 2025 are presented in Figure 4 below.  
+Figure 4. Expected annual incremental design day demand reduction impacts of gas 
+efficiency programs by NYSERDA and National Grid under the NENY program  
+ 
+ 
+We then estimated annual cumulative gas impacts through 2034/35, assuming that the level of savings 
+stays at the 2025/26 level as shown in Figure 5 below. The total cumulative design day impacts from 
+NYSERDA’s gas efficiency programs will be about 110 MDth/day by 2034/35. This incremental design 
+day load reduction is above and beyond that which National Grid included in the Capacity Report. 
+0
+5
+10
+15
+20
+25
+30
+35
+2019/20
+2020/21
+2021/22
+2022/23
+2023/24
+2024/25
+2025/26
+MDth per day
+Ngrid
+NYSERDA
+
+
+--- Page 23 ---
+ 
+Synapse Energy Economics, Inc. 
+Assessment of National Grid Capacity Needs 
+21 
+Figure 5. Expected annual cumulative design day demand reduction impacts by NYSERDA 
+and National Grid’s gas efficiency programs under the NENY program 
+ 
+ 
+3.3 Impacts from Demand Response Programs 
+There is currently no regulation that sets any peak reduction targets from demand response for National 
+Grid. However, National Grid has been testing demand response in its demand response REV (Reforming 
+the Energy Vision) demonstration project.29 Further, National Grid is now committed to implementing 
+demand response programs along with incentive enhancements to its energy efficiency programs as 
+part of the settlement agreement on its gas moratorium. National Grid agreed to invest $8 million in 
+these programs. The company proposed the following programs in the Implementation and Contingency 
+Plan filed to meet the settlement agreement: 
+ 
+• 
+Peak Demand Response: This program will provide incentives to customers who can reduce gas 
+usage by a predetermined amount when called upon during winter peak events. This program 
+will mainly target large customers.  
+• 
+Residential Demand Response: This program will engage residential customers to reduce their 
+usage during peak events. The program includes calling for voluntary load reduction during peak 
+demand periods and piloting a bring-your-own-device (BYOD) demand response program.30  
+• 
+Non-Firm Service Offerings: The Company will offer discounts for non-firm service offerings and 
+have a targeted marketing and outreach campaign to customers who recently switched to firm 
+service but still maintain dual-fuel equipment.  
+ 
+ 
+29 National Grid. 2019. National Grid: One-Page Summaries for Four Gas Rev Demonstration Projects. Case 16-G-0058 and Case 
+16-G-0059, February 15, 2019.  
+30 BYOD programs typically recruit customers who already have installed smart thermostats at home and provide a small 
+amount of financial incentive for participation (e.g., $50 per customer).  
+0
+50
+100
+150
+200
+250
+300
+350
+400
+MDth per day
+Ngrid
+NYSERDA
+
+
+--- Page 24 ---
+ 
+Synapse Energy Economics, Inc. 
+Assessment of National Grid Capacity Needs 
+22 
+National Grid projects up to 20 MDth/day of demand reduction from its demand response programs 
+under the High Demand scenario and 50 MDth/day under the Low Demand scenario as shown in Table 
+13.  
+Table 13. National Grid’s projected impact of demand response programs 
+Area of Demand Response 
+Incremental Impact on Design Day Demand (MDth/day) 
+2019/20 
+2024/25 
+2029/30 
+2034/35 
+High Demand scenario 
+9 
+10 
+20 
+20 
+Low Demand scenario 
+9 
+36 
+47 
+53 
+Source: National Grid 2020. Table 11. 
+National Grid’s assumptions for demand response for the Low and High Demand scenarios generally 
+follow these proposals, but they appear to extend these programs through 2035.  
+ 
+Details of the assumptions are provided in the table below.  
+ 
+• 
+Commercial & Industrial and Residential Heat Programs  
+o Select customers with access to other heating fuels will switch off gas during peak 
+events 
+o Select customers will participate in programs to reduce consumption during peak events 
+o Reduction in design day demand ramps from 9 to 20 MDth/day 
+• 
+Temperature Controlled Customers 
+o Under High Demand scenario, temperature-controlled (TC) customer conversions to 
+firm service will occur at historical rates 
+o Under Low Demand scenario, assume newly proposed temperature-controlled 
+customer tariff will go into effect and temperature-controlled customer conversion 
+rates are 25 percent slower than historical rates31 
+ 
+With the cumulative investments of $94 million under the High Demand scenario and $109 million 
+under the Low Demand scenario, National Grid expects to reduce design day peak demand by 20 
+MDth/day or 53 MDth/day by 2034/35, respectively. This results in the costs of saved peak daily gas of 
+$4,700 per Dth/day for the High scenario and $2,057 per Dth/day for the Low scenario.  
+ 
+31 National Grid. 2020. Table 10, page 36. 
+
+
+--- Page 25 ---
+ 
+Synapse Energy Economics, Inc. 
+Assessment of National Grid Capacity Needs 
+23 
+Table 14. National Grid’s demand response peak impacts and costs by 2034/35 under the 
+High and Low Demand scenarios  
+  
+High Demand 
+Low Demand 
+Design Day reduction by 
+2034/35 (MDth/day) 
+20 
+53 
+Cumulative investment 
+($ million) 
+$94 
+$109 
+$ per Dth/day 
+$4,700 
+$2,057 
+Source: National Grid. 2020. Table 11, page 36. 
+The Capacity Report does not provide sufficient data for us to fully examine the proposed demand 
+response plans for these scenarios. However, the cost assumptions appear to be reasonable compared 
+to the recent performance of large customer gas demand response programs in New York and 
+Massachusetts and other lower cost demand response programs. The incentives for the large customer 
+demand response programs in New York and Massachusetts are set from $300 to $400 per dekatherm 
+(Dth) reduction with a simple average of $350 per Dth.32 These numbers represent annual 
+compensation. Thus, if this type of program is offered over 15 years, the total cost would be about 
+$5,250 per Dth/day. National Grid’s cost estimate for the High Demand case ($4,700 per Dth/day) is 
+close to this value, but the cost estimate for the Low Demand case is much lower. As the portfolio of 
+National Grid’s demand response program would include the BYOD program and TC customer offerings 
+which we expect to cost generally lower than large customer demand response programs, the cost of 
+the entire program should be lower than these estimates. The cost for the Low Demand case is 
+substantially lower. This is primarily because all or most of the additional demand reduction in this case 
+beyond the Low Demand case comes from TC customers whose costs are low. Per the Technical 
+Appendix to the Capacity Report issued on April 1, National Grid assumes $6,500 per year incentives per 
+TC customer and 50 DTh/day of savings per customer. This results in an annual incentive level of only 
+$13 per therm/day.  
+3.4 Impacts from Heat Pump Policies and Programs 
+National Grid estimated impacts of heat pump installations on natural gas peak day loads due to the 
+following three factors: (a) New York City’s Local Law 97, (b) NENY Heat Pump targets by ConEd and 
+PSEG Long Island, and (c) organic adoption of heat pump technologies. We will discuss each of these 
+factors under this section.  
+In Table 13 of the Capacity Report, National Grid indicates electrification impacts of 127 to 209 
+MDth/day in 2034/35. The utility identifies the following categories for electrification (the range of 
+design day savings corresponds to low or high estimates for heat pump adoption within each category): 
+ 
+32 Kurt Roth. March 21, 2019. "Gas Demand Response: The Next Frontier." Presented at AEE East Energy Conference. Available 
+at https://cdn2.hubspot.net/hubfs/55819/Fraunhofer-GasDR-GlobalCon-FINAL-updated.pdf. 
+
+
+--- Page 26 ---
+ 
+Synapse Energy Economics, Inc. 
+Assessment of National Grid Capacity Needs 
+24 
+• 
+NENY and continued utility heat pump programs (labeled “residential new 
+construction and oil conversions” in the Capacity Report): 50-62 MDth/day 
+• 
+Organic adoption of residential heat pumps (labeled “residential gas to electric 
+conversions” in the Capacity Report): 26-43 MDth/day 
+• 
+Commercial & multi-family gas to electric conversions driven by Local Law 97 
+and organic adoption: 52-104 MDth/day 
+Electrification savings occur overwhelmingly in the last five years of National Grid’s analysis, as shown in 
+Table 15. 
+Table 15. National Grid’s projected impact of electrification resulting from LL97, NENY, and organic heat pump 
+adoption 
+ 
+Source: National Grid Capacity Report, Table 13. 
+3.4.1 Local Law 97 
+One important driver for increased efficiency and fuel switching is New York City’s Local Law 97 (LL97). 
+Under this regulation, buildings larger than 25,000 square feet will be required to meet certain CO2 
+emissions limits based on building type. The compliance period begins in 2024, and even stricter 
+guidelines are set for 2030. For building owners who currently do not meet the targets, stepping up 
+their energy efficiency measures will be crucial. However, certain buildings are so far past the threshold 
+that typical efficiency measures will not be enough to ensure compliance. In these cases, switching to 
+heat pump systems will be the most viable way to meaningfully reduce emissions. Even though the 
+electricity provided by New York’s Independent System Operator is not currently emissions-free, the 
+recently passed CLCPA mandates that 70 percent of electric sector generation be produced by 
+renewable energy by 2030. Therefore, CO2 emissions resulting from electrified heating will decrease 
+over time as the grid gets cleaner. Building owners looking ahead to 2030 compliance are likely to 
+consider heat pump systems so that their buildings’ emissions will fall without further capital investment 
+in their buildings. We show in this section how accounting for this electrification would reduce National 
+Grid’s claimed supply gap by between 49 and 245 MDth/day by 2030, depending on adoption 
+assumptions. 
+
+
+--- Page 27 ---
+ 
+Synapse Energy Economics, Inc. 
+Assessment of National Grid Capacity Needs 
+25 
+Using benchmarking data from Local Law 84 (LL84) related to energy usage in buildings,33 Synapse 
+analyzed the number of properties within National Grid’s service area that currently emit more than the 
+limits defined by LL97. In order to assess the magnitude of the impacts of LL97 before 2030, when the 
+second compliance period begins with stricter emission thresholds, we selected certain building types 
+for which we can match the right building categories in the LL84 database. These types also account for 
+a large share of total emissions among all building types (especially multi-family buildings). For these 
+building types, we identified the number and floor area of buildings that will be required to reduce their 
+emissions intensities by at least 25 percent in order to meet the 2030 emission thresholds. We assume 
+that this will be the share of buildings that will require major energy retrofits, likely to include 
+electrification, in order to comply with the 2030 emission thresholds.  
+Table 16. Portion of large buildings and floor area in major categories that will require major retrofits to comply 
+with the 2030 GHG emission limits established by Local Law 97 
+Benchmarking Dataset Category 
+Local Law 97 
+Category 
+Carbon 
+Limit 
+(kg 
+CO2e/SF) 
+Percent of 
+buildings that 
+will require 
+major retrofits 
+Percent of 
+square footage 
+that will 
+require major 
+retrofits 
+Multi-Family Housing 
+R-2 
+4.07 
+43% 
+35% 
+Office 
+B- Non Emergency 
+4.53 
+46% 
+39% 
+Hotel 
+R-1 
+5.26 
+38% 
+34% 
+Hospital (General Medical & Surgical) 
+B- Emergency 
+11.93 
+46% 
+33% 
+Weighted average 
+ 
+ 
+43% 
+35% 
+Source: Synapse analysis based on Local Law 84 benchmarking data. 
+The Capacity Report accounts for the impacts of LL97 by assuming that heat pumps’ share of the HVAC 
+replacement market will grow over time. However, the way that National Grid models the market 
+effects of LL97 is too conservative. First, National Grid assumes that the annual HVAC replacement rate 
+is 5 percent of the total HVAC stock (reflecting a 20-year HVAC equipment lifetime). Given that the strict 
+2030 compliance targets enter into force in just 10 years, and nearly one-third of building floor area will 
+require major retrofits to comply, this additional demand will add to the underlying equipment-turnover 
+dynamic. The result will be a faster equipment turnover rate in the coming decade. Second, National 
+Grid assumes that the impacts of LL97 are concentrated after 2030 (with design day savings in 2034/35 
+10 to 25 times those assumed in 2029/30). Instead, National Grid should have assumed that heat pump 
+share would grow earlier, and to a level sufficient to reach one-third of the building floor area by 2030. 
+Continued heat pump installations after the 2030 compliance date are likely, reflecting both a maturing 
+ 
+33 2018 Energy and Water Data Disclosure, available at 
+https://www1.nyc.gov/html/gbee/downloads/excel/nyc_benchmarking_disclosure_2017_consumption_data.xlsx 
+
+
+--- Page 28 ---
+ 
+Synapse Energy Economics, Inc. 
+Assessment of National Grid Capacity Needs 
+26 
+market and likely stricter LL97 requirements for the compliance period starting 2036. However, to be 
+conservative we assumed no further installations in our calculations.  
+We estimated the impact of National Grid’s overly conservative LL97 assumptions and produced a 
+comparative analysis that reflects the actual share of buildings likely to electrify before 2030. Even in the 
+Low Demand case, National Grid assumes that just 1.2 percent of KEDNY C&I floor area uses heat pumps 
+in 2030, and 1.1 percent of multi-family floor area.34 (In the High Demand case the fractions are even 
+lower: 0.3 percent for each market). Instead, we assume that one-third of C&I and multi-family floor 
+area electrify by 2030 (conservatively based on the analysis shown in Table 16). For further 
+conservativism, we assume that KEDNY electrification then ceases entirely after 2030, reflecting the 
+potential that LL97 compliance may lag the start of the compliance period by a few years (and one key 
+metric is the impact on demand in 2035). In our calculation, design day load in 2035 is 195 MDth/day 
+lower than National Grid’s Low Demand case, and 245 MDth/day lower than the High Demand case 
+(see Figure 6). Even if we very conservatively assume that electrification driven by LL97 is half as much 
+(one-sixth of floor area), design day demand would still be 49 MDth/day less than the Low Demand case, 
+and 99 MDth/day less than the High Demand case. 
+ 
+34 Calculated by Synapse based on the heat pump installations and share in the Capacity Report Technical Appendix, using data 
+from Figure 15 (page 31) of the Capacity Report and the assumptions in Table 12 on page 38. 
+
+
+--- Page 29 ---
+ 
+Synapse Energy Economics, Inc. 
+Assessment of National Grid Capacity Needs 
+27 
+Figure 6. Design day impact from LL97-driven electrification in KEDNY under National 
+Grid’s Low and High Demand cases, and corrected to electrify buildings that require a 
+major retrofit to comply with LL97 by 2030 
+ 
+  
+Source: Synapse analysis based on National Grid Capacity Report Technical Appendix and NYC LL84 
+benchmarking data.  
+3.4.2 NENY heat pump targets 
+The NENY program set targets for heat-pump-related energy savings for investor-owned utilities.35 
+While the NENY program does not have any specific target for PSEG Long Island, NY PSC’s January 2020 
+order that established the heat pump targets directed the utilities, the PSC staff, and NYSERDA to 
+coordinate with PSEG Long Island “to facilitate and ensure that heat pump deployment on Long Island is 
+consistent with the statewide framework.”36 National Grid’s Capacity Report underestimates the effect 
+of these programs on its design day demand. 
+ 
+National Grid’s analysis includes gas peak savings from heat pump programs by Con Edison and PSEG 
+Long Island under the NENY program because their service areas overlap with National Grid’s service 
+area. NENY targets are available through 2025. Thus, after 2025, National Grid assumes the same level 
+of program-driven heat pump installations at 2025 levels through 2035. National Grid also assumes that 
+30 percent of the heat pump targets by these two utilities result in the loss of gas heating customers 
+ 
+35 NY PSC. 2020. Order Authorizing Utility Energy Efficiency and Building Electrification Portfolios Through 2025. CASE 18-M-
+0084. January 16, 2020. 
+36 NY PSC. 2020, page 92. 
+
+
+--- Page 30 ---
+ 
+Synapse Energy Economics, Inc. 
+Assessment of National Grid Capacity Needs 
+28 
+from National Grid Downtown NY utilities.37 This ratio is informed by National Grid’s assessment based 
+on “geographic mismatches and the presence of fuel oil-heated buildings.”  
+ 
+National Grid’s assumption of the 30 percent factor to discount the impacts from Con Edison and PSEG 
+Long Island’s heat pump targets is not well supported. First of all, National Grid has failed to provide any 
+estimate or calculations of the impact of heat pump adoption by oil-heat customers on the rate of 
+conversion from those heat sources to natural gas. While the Capacity Report mentions this effect for oil 
+customers, the promised discussion in Section 5.2 is not provided.38 Instead, the only way that oil-heat 
+customers are accounted for in the electrification discussion is to minimize the potential impact of NENY 
+on gas customers by using the ability of NENY programs to target oil customers as a reason for the low 
+(30 percent) overlaps between NENY heat pump programs and National Grid gas customers.  
+Secondly, based on geographic area matches among utility service areas, National Grid’s Long Island 
+service area (KEDLI service area) and PSEG Long Island serve the same territory, and thus their overlap 
+area is 100 percent. Further, Con Edison’s service territory overlaps with National Grid’s NYC area 
+(KEDNY) by nearly 55 percent in terms of the population (Table 17). (It is likely that overlap for single-
+family or small multi-family buildings is higher, given the distribution of density and building typologies 
+within New York City.)  
+Table 17. Geographic match of National Grid area with Con Edison and PSEG Long Island based on population 
+  
+Population 
+ConEd and KEDNY overlapping area 
+4,913,658 
+ConEd only area 
+4,039,167 
+ConEd and KEDNY overlapping area (% of total) 
+55% 
+ 
+Lastly, it is not clear that National Grid has treated the presence of fuel oil heating homes appropriately 
+when calculating the NENY program overlap factor. Our key assumptions for KEDNY and KEDLI are 
+provided below:  
+• 
+KEDNY territory has a very limited number of oil heating customers. Thus, we simply 
+assume that 55 percent of the impact of Con Edison’s NENY heat pump program will 
+impact KEDNY’s natural gas customer base.  
+• 
+KEDLI still has a large portion of oil heated homes. According to National Grid’s 2018-
+2019 Winter Supply Review report, the oil heating saturation is likely to be about 53 
+percent.39 If we assume only 50 percent of such oil customers live close to gas 
+distribution (and are thus future KEDLI customers), and further assume that 70 percent 
+of heat pump installations under PSEG program are oil customers, we can expect about 
+ 
+37 National Grid. 2020. Table 12. Page 38. 
+38 See the Capacity Report in the Executive Summary on page 8 and Section 5.1 on page 30. 
+39 National Grid. 2018. 2018-2019 Winter Supply Review, page 31. 
+
+
+--- Page 31 ---
+ 
+Synapse Energy Economics, Inc. 
+Assessment of National Grid Capacity Needs 
+29 
+19 percent of the total population (53% x 50% x 70% = 19%) are the oil heating 
+customers who could switch to natural gas and are targeted by PSEG’s heat pump 
+program (Table 18). Using a similar logic, we estimate that about 14 percent of all 
+customers in Long Island are gas heating customers who will be targets of PSEG’s heat 
+pump program because about 30 percent of the targets of the heat pump program may 
+be gas customers (47% x 30% = 14%). These assumptions are provided in Table 18 
+below. Counting both gas and oil customers to estimate the total population whose 
+choice of a heat pump would affect KEDLI’s future growth, the total program overlap in 
+KEDLI area is approximately 33 percent.  
+Table 18. Calculations of NENY heat pump program factor for KEDLI 
+  
+LI fuel mix 
+HP market  
+applicability 
+HP program fuel 
+target 
+Total match 
+(customers selecting 
+HP over gas) 
+Gas 
+47% 
+100% 
+30% 
+14% 
+Oil 
+53% 
+50% 
+70% 
+19% 
+Total 
+100% 
+74%* 
+100% 
+33% 
+* Weighted average value   
+Finally, National Grid states that PSEG Long Island will target a similar level of heat pump installations 
+over the same period to the targets set for Con Edison. Thus, the combined overlap factor for KEDLI and 
+KEDNY territories is about 44 percent, which is a simple average between the 55 percent factor for 
+KEDNY and the 33 percent for KEDLI. 
+ 
+We reassessed the impacts of NENY heat pump programs in National Grid territory using a 44 percent 
+impact factor instead of National Grid’s assumption of 30 percent in Table 19 below. This calculation 
+results in total adjusted NENY program impacts of about 72 MDth/day for the High Demand scenario (an 
+increase of about 22 MDth) and about 90 MDth/day for the Low Demand scenario (an increase of 28 
+MDth). 
+Table 19. Adjusted heat pump impacts from NENY program in National Grid territory 
+  
+2034/35 
+Notes 
+High Demand 
+  
+  
+Total ConEd and PSEG LI HP 
+207 
+Based on NGrid's assumption 
+NGrid estimate on NENY heat pump 
+50 
+80% of the Low Demand scenario 
+Adjusted NENY heat pump 
+72 
+44% overlap instead of 30% 
+Difference from NGrid estimate 
+22 
+Calculated 
+Low Demand 
+  
+  
+Total ConEd and PSEG LI HP 
+207 
+Based on NGrid's assumption 
+NGrid estimate on NENY heat pump 
+62 
+Based on 30% overlap with ConEd and PSEG LI programs 
+Adjusted NENY heat pump impact 
+90 
+44% overlap instead of 30% 
+Difference from NGrid estimate 
+28 
+Calculated 
+
+
+--- Page 32 ---
+ 
+Synapse Energy Economics, Inc. 
+Assessment of National Grid Capacity Needs 
+30 
+ 
+3.4.3 Organic heat pump adoption 
+National Grid assumed no organic adoption of heat pumps in the residential portion of the KEDNY 
+territory, or in any portion of the KEDLI territory, until 2030. “Organic” adoption means adoption outside 
+of participation in any utility program (utility program participants are captured in the NENY analysis). 
+Further, heat pump adoption in commercial and multi-family buildings in KEDNY territory is assumed to 
+be captured in the analysis of LL97 compliance. The combined effect of National Grid’s assumptions for 
+NENY (adoption is flat after 2025 because programs are assumed to stop growing) and organic adoption 
+(beginning in 2030) is that the overall heat pump market share for non-LL97 buildings is flat between 
+2025 and 2030. By failing to include expanded utility programs and delaying organic adoption, the 
+analysis minimizes the potential cumulative design day savings that would accrue from steady market 
+growth. 
+National Grid’s assumption of flat heat pump adoption for five years, followed by increased adoption 
+only in the last few years of the analysis period, is arbitrary and unsupported in the face of reasonable 
+expectations for a maturing market and policy reality. We expect the heat pump market will mature 
+over the next decade, mainly driven by (a) NENY programs, (b) spillover into Long Island from installers 
+in New York City with commercial and multi-family heat pump experience to comply with LL97, and (c) 
+technological improvement in heat pumps. With such market maturity for heat pumps (with more 
+experienced installers and increased economies of scale) we expect that the economics of heat pumps 
+compared with alternatives will improve. Each building is unique and offers unique opportunities to 
+optimize customer economic and comfort needs. As customer economics for heat pumps improve 
+overall, more customers will find that heat pumps are the right fit for their buildings. 
+3.4.4 Summary of heat pump impacts 
+Our analysis found that National Grid failed to account for a substantial portion of the expected gas 
+impacts from heat pump installations associated with NENY utility programs as well as LL97. Table 20 
+provides a summary of our estimates of adjusted design day demand impacts from electrification 
+measures for the Low and High Demand scenarios. For the purpose of this analysis, we adopted National 
+Grid’s assumption of the impact of organic adoption of heat pumps as we do not have any specific 
+evidence to suggest alternative adoption rates (although as mentioned above we believe National Grid 
+underestimates the organic adoption rates in particular prior to 2031). Taken together, our estimates of 
+heat pump impacts from these policy and market factors result in approximately 370 to 410 MDth/day 
+reductions, which are about 250 MDth higher for the High Demand scenario, and about 200 MDth 
+higher for the Low Demand Scenario, than National Grid’s estimates.  
+
+
+--- Page 33 ---
+ 
+Synapse Energy Economics, Inc. 
+Assessment of National Grid Capacity Needs 
+31 
+Table 20. Summary of adjusted design day demand impacts from electrification for the Low and High Demand 
+scenarios 
+Area of Electrification 
+Incremental Impact on Design Day Demand (MDth/day) 
+2019/20 
+2024/25 
+2029/30 
+2034/35 
+Residential new 
+construction and oil 
+conversions (NENY impacts) 
+0 
+13-16 
+42-53 
+72-90 
+Residential gas to electric 
+conversions (organic heat 
+pumps adoption) 
+0 
+0-0.5 
+0-1 
+26-43 
+Commercial & multi-family 
+gas to electric conversions 
+0 
+72 
+292 
+297-300 
+TOTAL 
+0 
+85-89 
+334-346 
+395-433 
+National Grid Total 
+0 
+8-11 
+32-46 
+127-209 
+Difference 
+0 
+77-78 
+302-300 
+268-224 
+ 
+3.5 Summary of Expected Design Day Demand Impacts for Filling the Demand 
+and Supply Gap 
+In its Capacity Report, National Grid identified a future demand and supply gap ranging from 265 to 415 
+MDth/day, which represents a 12.4 percent load increase under the Low scenario and a 17.7 percent 
+increase under the High scenario.40 It is this gap that National Grid uses to justify the need for various 
+supply measures, including the NESE pipeline. Our analysis shows that the total expected impacts of 
+recent policies on energy efficiency, demand response, and electrification are substantial and National 
+Grid has failed to account for a large amount of the demand reductions expected from these policies.  
+We estimated that the total expected design day demand reductions from the recent policies range 
+from approximately 690 MDth/day to 820 MDth/day, as shown in Table 21 below. These reduction 
+estimates are about 340 MDth greater under the High Demand scenario and 310 MDth greater under 
+the Low Demand scenario than National Grid’s estimates. Under the Low Demand scenario, the 
+additional demand reduction estimate in fact easily exceeds the demand and supply gap of 265 
+MDth/day by about 30 percent. Under the High Demand scenario, the additional demand reduction 
+estimate is about 75 percent of the gap of 415 MDth/day. However, as we discussed in Section 2, we 
+conclude that National Grid overestimates its peak load by more than 240 MDth/day due to outdated 
+assumptions on fuel conversion rates. With this demand adjustment, the additional demand reduction 
+estimates under the High Demand scenario can easily surpass the supply gap and the Low Demand case 
+would project falling design day load. 
+ 
+40 The 265 gap is equivalent to a load of 3,190 MDth/day, and the 415 gap is equivalent to a load of 3,340 MDth/day on the 
+base supply level of 2,925 MDth/day. 
+
+
+--- Page 34 ---
+ 
+Synapse Energy Economics, Inc. 
+Assessment of National Grid Capacity Needs 
+32 
+Table 21. Summary of expected design day demand impacts from energy efficiency, demand response, and 
+electrification for the Low and High Demand scenarios 
+Program 
+ 
+Reduction of Design Day Demand (MDth/day) 
+2019/20 
+2024/25 
+2029/30 
+2034/35 
+National Grid Capacity Report 
+  
+  
+  
+  
+Energy Efficiency (EE) 
+1 
+39-49 
+129-161 
+199-249 
+Customer Demand Response (DR) 
+9 
+10-36 
+20-47 
+20-53 
+Electrification 
+0 
+8-11 
+32-46 
+127-209 
+TOTAL 
+10 
+47-96 
+181-254 
+346-511 
+Synapse Adjusted Estimates 
+  
+  
+  
+  
+Energy Efficiency (EE) 
+2 
+57-71 
+183-229 
+283-354 
+Customer Demand Response (DR) 
+9 
+10-36 
+20-47 
+20-53 
+Electrification 
+0 
+85-89 
+334-346 
+395-433 
+TOTAL 
+10 
+152-196 
+537-621 
+699-841 
+Difference 
+0 
+105-100 
+356-367 
+353-330 
+4 LONG-TERM GAS SUPPLY RESOURCE OPTIONS 
+As a state-regulated natural gas utility, National Grid must plan for the current and future requirements 
+of customers in its service area. National Grid’s primary supply planning goals are: (1) to maintain a 
+diverse portfolio of gas supply, storage, and transportation capacity contracts with varying terms and 
+pricing provisions; (2) to dispatch the gas supply portfolio under a least-cost strategy to reliably meet 
+projected primary firm demand; and (3) to implement a formal hedging program to mitigate price 
+volatility.41 National Grid also recognizes the need to support New York State’s decarbonization goals.42 
+This section examines how National Grid has identified and evaluated long-term resource options that 
+would be incorporated into an updated gas supply plan.  
+4.1 National Grid’s Existing Gas Supply Resources 
+National Grid’s gas resource portfolio includes pipeline-delivered supplies and on-system resources. 
+4.1.1 Pipeline-delivered gas supplies 
+National Grid physically connects to three interstate pipelines at five delivery meters (often 
+referred to as “city gates”). Through an arrangement with Con Edison, National Grid also has 
+access to a fourth upstream pipeline and can therefore receive gas at a total of 10 city gates.43  
+ 
+41 Cases 19-G-0309/19-G-0310, Testimony of Elizabeth D. Arangio, p. 17. 
+42 National Grid. 2020, p. 7. 
+43 National Grid. 2020, p. 22. 
+
+
+--- Page 35 ---
+ 
+Synapse Energy Economics, Inc. 
+Assessment of National Grid Capacity Needs 
+33 
+National Grid secures access to pipeline-delivered gas in two ways. First, National Grid contracts directly 
+with pipeline operators for gas transportation service from upstream supply points to New York City and 
+Long Island (NYC/LI) city gates. These are typically long-term contracts that give National Grid the right 
+to continue to take service after the end of the primary term. National Grid essentially “reserves” 
+pipeline capacity, up to the daily contract quantity, and can release capacity to another shipper when it 
+is not needed for system supply.  
+Transcontinental Gas Pipe Line (Transco) is National Grid’s largest pipeline supplier, and it accounts for 
+60 percent of the company-contracted capacity to National Grid city gates. 
+Table 22. National Grid long-term pipeline contracts, 2018–19 
+Pipeline Operator 
+Parent 
+MDth 
+% 
+Transcontinental Gas Pipe Line 
+Williams 
+1,288.5 
+59.6 
+Texas Eastern Transmission 
+Enbridge 
+406.4 
+18.8 
+Iroquois Gas Transmission System 
+TransCanada/ Dominion 
+400.7 
+18.5 
+Tennessee Gas Pipeline 
+Kinder Morgan 
+65.5 
+3.0 
+Total 
+ 
+2,161.2 
+100.0 
+Source: Cases 19-G-0309/19-G-0310, Testimony of Elizabeth D. Arangio, Exhibit EDA-1. 
+The second way that National Grid obtains pipeline-delivered gas supply is by buying gas delivered to its 
+city gates by the seller. In most cases National Grid enters into purchase contracts that give the 
+company a call on a defined quantity of gas during the winter heating season. National Grid currently 
+has long-term agreements with cogeneration plant operators whose facilities are located on the 
+National Grid distribution system. The company also has short-term agreements with gas marketers that 
+typically have terms of one to three years.  
+4.1.2 On-system resources 
+National Grid currently has three types of on-system gas supply resources.  
+Liquefied Natural Gas (LNG): National Grid operates two LNG peaking facilities. The Holtsville facility on 
+Long Island can store approximately 600 MDth, and it has daily production (vaporization) capability of 
+103 MDth. The daily refill (liquefaction) capability is 6 MDth. The larger Greenpoint facility in Brooklyn 
+has a storage capacity of 1,600 MDth, daily vaporization capability of 291 MDth, and daily liquefaction 
+capability of 7 to 8.5 MDth. 
+Compressed Natural Gas (CNG): National Grid operates two CNG receiving sites with a daily capacity of 
+16.8 MDth. The utility plans to develop two more sites by the end of 2021 to increase daily capacity to 
+53 MDth, based on approximately eight hours of operation per day. Injecting CNG into the distribution 
+system during the morning and evening, when gas use is the highest, helps address peak hour concerns. 
+Renewable Natural Gas (RNG): National Grid receives about 1.6 MDth of RNG from the Fresh Kills 
+landfill on Staten Island. A biogas project at the Newtown Creek wastewater treatment plant will add 
+another 1 MDth.  
+
+
+--- Page 36 ---
+ 
+Synapse Energy Economics, Inc. 
+Assessment of National Grid Capacity Needs 
+34 
+4.1.3 National Grid’s 2019–20 gas supply portfolio 
+National Grid’s supply portfolio for the 2019–20 winter season is shown below. 
+Table 23. National Grid gas supply, 2019–20 design day 
+ 
+MDth 
+% 
+Pipeline Contracts 
+2,102.8 
+70.2 
+Delivered Peaking – Long Term 
+65.1 
+2.2 
+Delivered Peaking – Short Term 
+415.4 
+13.9 
+LNG Peaking 
+394.5 
+13.2 
+Compressed Natural Gas 
+16.8 
+0.5 
+Renewable Natural Gas 
+1.6 
+<0.1 
+Total 
+2,996.2 
+100.0 
+Source: Case 19-M-382, November 8, 2019, Table 1a. 
+The city gate delivery capacity of National Grid’s pipeline contracts provides 70 percent of its design day 
+supply. For the 2019–20 winter, National Grid contracted for 480 MDth of delivered peaking supply, 
+which is 16 percent of the total. Production from on-system LNG peaking facilities provided another 13 
+percent. 
+4.2 National Grid’s Projected Gap Between Supply and Requirements  
+As discussed above, the Capacity Report includes a Baseline design day demand forecast that assumes 
+current policy and customer use patterns, and High Demand and Low Demand forecasts that include the 
+expected impact of energy efficiency, demand-side management, and electrification initiatives. The 
+average annual growth rate for design day demand over the 15-year planning period is reduced from 1.8 
+percent in the Baseline case to 1.1 percent for the High Demand case, and 0.8 percent for the Low 
+Demand case.  
+Even with lower demand growth rates, National Grid says that it will need to increase its gas delivery 
+capacity to avoid a design day deficit. With currently available resources, National Grid projects that gas 
+supplies could fall short of customer requirements under extreme winter conditions as soon as 2023. 
+With the High Demand forecast, the gap between projected customer requirements and gas delivery 
+capacity on the design day grows to approximately 415 MDth in the 2034–35 winter. For the Low 
+Demand case, the gap reaches 265 MDth in 2032–33, and then starts to decline.  
+
+
+--- Page 37 ---
+ 
+Synapse Energy Economics, Inc. 
+Assessment of National Grid Capacity Needs 
+35 
+Table 24. Design day gas supply vs. requirements (MDth) 
+ 
+2019–
+20 
+2024–25 
+2029–30 
+2034–35 
+Requirements 
+ 
+ 
+ 
+ 
+High Demand Forecast 
+2,819 
+3,043 
+3,237 
+3,341 
+Low Demand Forecast 
+2,819 
+3,015 
+3,164 
+3,176 
+Supply 
+ 
+ 
+ 
+ 
+Pipeline Contracts 
+2,103 
+2,112 
+2,112 
+2,112 
+Delivered Peaking Gas 
+480 
+365 
+365 
+365 
+LNG Peaking 
+395 
+393 
+393 
+393 
+Compressed Natural Gas 
+17 
+53 
+53 
+53 
+Renewable Natural Gas 
+1 
+3 
+3 
+3 
+Total 
+2,996 
+2,925 
+2,925 
+2,925 
+Surplus/(Deficit) 
+167 (90)/(118) (239)/(312) (251)/(416) 
+4.3 Gas Supply Resource Options 
+The Capacity Report presents several alternatives for expanding gas delivery capacity to the National 
+Grid distribution system. The supply resource options are grouped into two categories: large-scale 
+infrastructure options and “distributed” infrastructure options. All of the large-scale options are sized at 
+400 MDth, while each of the smaller distributed options would add 62 MDth to 100 MDth to design day 
+supply. National Grid does not make any recommendations as to which option or options are best, but it 
+gives each alternative a rating for cost, reliability, safety, environmental impact, and community impact. 
+4.3.1 Large-scale infrastructure options 
+Northeast Supply Enhancement (NESE) Pipeline Project 
+Expanding gas receipt capacity at a new city gate on the Rockaway Peninsula has been an element of 
+National Grid’s long-term resource plan for more than a decade. The Transco Rockaway Delivery Lateral, 
+which connects an existing offshore pipeline to the new delivery meter in Queens, was completed in 
+2015. A second Transco project, the New York Bay Expansion, was placed into service in 2017. 
+The NESE project is the next stage of Transco’s multi-year buildout plan. The 400 MDth expansion would 
+construct 14 miles of onshore pipeline, 22 miles of offshore pipeline, and 54,000 horsepower of 
+compression, at an estimated cost of $926.5 million. National Grid assumes that if all permits are 
+received by mid-2020, the NESE capacity could be in service by December 2021. 
+LNG Deliveries by Ship 
+National Grid considers building an offshore or onshore terminal to receive LNG transported by ship. 
+Both options would provide 400 MDth of design day supply. National Grid assumes that an onshore 
+facility could be brought online in 5–6 years, and that an offshore facility would take 6–8 years to 
+complete. The estimated capital cost is $800 million to $1,200 million. 
+
+
+--- Page 38 ---
+ 
+Synapse Energy Economics, Inc. 
+Assessment of National Grid Capacity Needs 
+36 
+4.3.2 Distributed infrastructure options 
+Enhancement by Compression (ExC) Pipeline Project 
+The Iroquois Gas Transmission System (IGTS) proposes to add gas compressors at three existing stations 
+in New York and Connecticut to increase its delivery capacity to existing delivery meters in Long Island 
+and the Bronx by 125 Dth. National Grid and Con Edison have each committed to 62.5 MDth of capacity 
+for an initial term of 20 years. IGTS filed a certificate application with the Federal Energy Regulatory 
+Commission for the ExC Project on January 31, 2020. The project has an estimated cost of $272 million, 
+and a planned in-service date in late 2023.  
+LNG Delivered by Barge 
+National Grid considers building a terminal to receive LNG that would be transported by barge. The daily 
+supply capacity would be 100 MDth with two barges off-loading simultaneously. The cost for a two-
+barge project is estimated to be $410 million, and the time for completion is assumed to be 5–6 years. 
+Clove Lakes Transmission Loop 
+National Grid is investigating a distribution system expansion project that would construct 
+approximately eight miles of 30-inch diameter transmission main on Staten Island. The project would 
+remove a bottleneck that currently limits gas receipts from Texas Eastern Transmission (TETCO) at the 
+Goethals city gate. National Grid assumes that it would also need to contract for upstream pipeline 
+capacity on TETCO. The project would increase pipeline-delivered gas supply by 70 MDth to 100 MDth. 
+The estimated cost of the new transmission main is $320 million, and the upstream pipeline service is 
+expected to cost $48 million per year. National Grid assumes that the additional capacity would be 
+available in five years. 
+New LNG peaking facility 
+National Grid considers building a third LNG peaking facility to provide up to 100 MDth of daily supply. 
+The company estimates that a new facility with 1,000 MDth of storage and on-site liquefaction would 
+cost $500 million to build. The estimated time to complete the project is 5–6 years. 
+Table 25. National Grid supply options 
+Supply Option 
+Daily 
+Supply 
+(MDth) 
+Capital 
+Cost 
+($Million) 
+Assumed 
+Availability 
+Transco NESE Project 
+400 
+1,000 
+2021 
+Offshore LNG Port 
+400 
+800 
+2026 
+LNG Import Terminal 
+400 
+1,200 
+2026 
+IGTS ExC Project 
+62.5 
+136 
+2023 
+LNG Barges  
+100 
+410 
+2026 
+Clove Lakes Loop 
+70-100 
+320 
+2026 
+LNG Peaking Facility 
+100 
+500 
+2026 
+
+
+--- Page 39 ---
+ 
+Synapse Energy Economics, Inc. 
+Assessment of National Grid Capacity Needs 
+37 
+4.4 Critical Assessment of National Grid’s Evaluation of Supply Resource 
+Options  
+4.4.1 National Grid overstates the size of the design day supply shortfall with existing 
+supply resources 
+National Grid’s assumptions about the availability of delivered peaking supplies are overly conservative  
+National Grid assumes that 65 MDth of supply from peaking arrangements with cogeneration plant 
+operators will continue to be available, and that another 300 MDth will come from short-term contracts 
+for delivered peaking supply. The 365 MDth estimate for total delivered peaking supplies appears to be 
+an assumption, not a hard constraint. 
+National Grid estimates that 700 MDth of short-term peaking supply is currently available in the market. 
+This number is consistent with the amount of pipeline capacity with primary delivery to New York and 
+Long Island delivery points that is held by gas producers and marketers. Table 26 shows that Transco 
+and TETCO expansions since 2013 have increased daily delivery capacity to NYC/LI city gates by more 
+than 1,200 MDth. Of this total, more than 800 MDth is under contract to non-LDC shippers. This includes 
+gas producers and marketers that are potential suppliers of delivered peaking supplies to National 
+Grid.44 
+Table 26. Recent gas pipeline expansion projects 
+ 
+Pipeline 
+ 
+Expansion Project 
+Start 
+Date 
+Total Capacity 
+NYC/LI City 
+Gates 
+LDC 
+Non-
+LDC 
+LDC 
+Non-
+LDC 
+TETCO 
+NJ-NY Project 
+2013 
+218 
+582 
+218 
+582 
+Transco 
+Northeast Supply Link 
+2013 
+- 
+250 
+- 
+200 
+Transco 
+Northeast Connector 
+2015 
+100 
+- 
+100 
+- 
+Transco 
+NY Bay Expansion 
+2017 
+115 
+- 
+115 
+- 
+Transco 
+Riverdale South  
+2019 
+- 
+190 
+- 
+50 
+ 
+ 
+ 
+433 
+1,022 
+433 
+832 
+Source: Transco and TETCO Index of Customers Reports for January 1, 2020. 
+National Grid cites two reasons for limiting short-term delivered peaking supplies to 300 MDth. First, 
+National Grid says that it is “operationally constrained” to 300 MDth. However, the fact that National 
+Grid contracted for 415 MDth of short-term peaking supplies for the 2019–20 winter season indicates 
+that it is able to accept more than 300 MDth of peaking supply into its system if the supply is available. 
+ 
+44 National Grid’s statement that only 274 MDth of capacity has been added over the last 10 years (National Grid. 2020, p. 42) is 
+misleading because it only includes capacity that National Grid has contracted for directly under long-term agreements. 
+
+
+--- Page 40 ---
+ 
+Synapse Energy Economics, Inc. 
+Assessment of National Grid Capacity Needs 
+38 
+The second reason National Grid gives for capping short-term peaking supply at 300 MDth is that, of the 
+700 MDth that is available in the market, Con Edison relies on 400 MDth. This number appears to be 
+high. Based on information from Con Edison’s more recent rate case, Con Edison contracted for 345 
+MDth of delivered peaking supply for the 2018–19 winter.45 
+The supply of delivered peaking gas to the New York market for the 2019–20 winter was relatively high 
+because of unusual operating restrictions imposed by TETCO.46 Nonetheless, based on the available 
+information, it appears reasonable to assume that at least 350 MDth of delivered peaking supply will be 
+available under short-term contracts in future years.  
+National Grid plans to add 60 MDth from an existing on-system peaking facility 
+National Grid’s capital plan includes investments to upgrade the Greenpoint LNG peaking facility by 
+expanding daily vaporization capacity by 60 MDth and adding truck loading/unloading capability. The 
+new vaporizers are expected to be completed in 2023.47 
+National Grid expects additional renewable natural gas supply to come online 
+The design day supply projections in Table 24 above only include the Fresh Kills and Newtown Creek 
+RNG projects. National Grid identifies six other RNG development projects that could add 23 MDth by 
+2026 and observes that there are opportunities to develop additional projects within its service area.48 
+For the High Demand Case, National Grid assumes that another 8 MDth of RNG supply will come online 
+by 2035. For the Low Demand Case, National Grid assumes an increase of 18 MDth by 2033. Our analysis 
+assumes the midpoint value of 13 MDth for additional RNG as a reasonably expected value. 
+Hydrogen blending and power-to-gas are emerging resource options 
+National Grid has proposed a hydrogen blending study to assess the opportunities to inject hydrogen 
+into the gas system as a supplement supply resource. National Grid estimates that hydrogen could 
+provide 4–16 MDth by 2035.49 Our analysis assumes the midpoint value of 10 MDth. 
+Table 27 shows the estimated design day shortfall with the following changes: (1) short-term delivered 
+peaking supply is increased from 300 MDth to 350 MDth; (2) supply from on-system peaking facilities 
+increases by 60 MDth by 2029–30; (3) 13 MDth of additional RNG supply comes online by 2029–30, and 
+(4) 10 MDth of hydrogen-based supply is available by 2034–35. The maximum design day shortfall over 
+the 15-year planning period is reduced to approximately 130 MDth in the Low Demand case and 300 
+ 
+45 Case 19-G-0066, Exhibit GIOSP 3. 
+46 Case 19-G-0678, Implementation and Contingency Plan, October 21, 2019, p. 9. 
+47 Cases 19-G-0309/19-G-0310, “Second Supplemental Testimony of Gas Infrastructure and Operations Panel”, December 13, 
+2019, pp. 12-14. 
+48 National Grid. 2020, p. 45. 
+49 National Grid. 2020, p. 47. 
+
+
+--- Page 41 ---
+ 
+Synapse Energy Economics, Inc. 
+Assessment of National Grid Capacity Needs 
+39 
+MDth in the High Demand case, without any of the new infrastructure projects that National Grid 
+identifies in the Capacity Report. This table also shows the amount of gas supply resources National Grid 
+assumed in the Capacity Report and our estimate of additional gas supply resources above the current 
+supply limits. For additional RNG/Hydrogen, we assumed a midpoint value of the range of the estimates 
+from 16 to 35 MDth/day provided by National Grid.  
+Table 27. Design day gas requirements vs. supply (MDth) 
+ 
+2024–25 
+2029–30 
+2034–35 
+National Grid’s 
+estimate 
+Additional 
+Supply 
+Requirements 
+ 
+ 
+ 
+ 
+ 
+High Demand Forecast 
+3,043 
+3,237 
+3,341 
+ 
+ 
+Low Demand Forecast 
+3,015 
+3,164 
+3,176 
+ 
+ 
+Supply 
+ 
+ 
+ 
+ 
+ 
+Pipeline Contracts 
+2,112 
+2,112 
+2,112 
+2,112 
+0 
+Delivered Peaking – Cogen 
+65 
+65 
+65 
+65 
+0 
+Delivered Peaking – Short-
+Term 
+350 
+350 
+350 
+300 
+50 
+LNG Peaking 
+393 
+453 
+453 
+393 
+60 
+Compressed Natural Gas 
+53 
+53 
+53 
+53 
+0 
+RNG/Hydrogen  
+3 
+16 
+26 
+ 
+19–38 (26 
+midpoint) 
+0 
+Total 
+2,976 
+3,036 
+3,046 
+2,924 
+110 
+Surplus/(Deficit) 
+(39)/(67) 
+(128)/(201) 
+(130)/(295) 
+ 
+ 
+Note: Numbers may not align or agree exactly due to rounding. 
+4.4.2 All of the large-scale infrastructure projects exceed the projected need 
+National Grid has based its gas supply planning on econometric forecasts that assumed current policies 
+and customer usage patterns. As recently as December 2019, National Grid filed a long-term supply-
+requirements forecast that shows a “net need” for design day gas supply of 385 MDth for the 2028–29 
+winter season.50 Table 27 shows that when the impact of energy efficiency programs and 
+decarbonization targets are incorporated into the demand forecast, and expected supply from existing 
+resources is added to the resource portfolio, the projected gap between supply and requirements at the 
+end of 10 years is roughly half of National Grid’s previous estimates. The large infrastructure options 
+examined in the Capacity Report that could provide 400 MDth/day are all at least 100 MDth/day larger 
+than the high end of the projected need, after correcting for available additional supply. 
+4.4.3 National Grid does not address opportunities to coordinate with Con Edison 
+Under the New York Facilities System agreement, National Grid and Con Edison jointly operate the high-
+pressure transmission mains that supply gas to both distribution utilities. The Capacity Report does not 
+provide any detail about how this interrelationship between the two utilities affects National Grid’s 
+ 
+50 Cases 19-G-0309/19-G-0310, Second Supplemental Testimony of Elizabeth D. Arangio, Exhibit EDA-6SS. 
+
+
+--- Page 42 ---
+ 
+Synapse Energy Economics, Inc. 
+Assessment of National Grid Capacity Needs 
+40 
+long-term gas supply planning. For example, National Grid acknowledges that the two companies 
+transact in the same market when acquiring delivered peaking supplies, but it does not discuss how Con 
+Edison’s initiatives to increase supply from other pipe and non-pipe resources will affect the availability 
+of delivered peaking supplies to National Grid.  
+5 INCREMENTAL DEMAND-SIDE RESOURCE OPTIONS  
+5.1 Summary of No Infrastructure solution 
+Because National Grid found a supply and demand gap under its Low and High Demand scenarios, it 
+examined the potential and the cost for additional demand-side resources beyond those included in the 
+Low and High Demand scenarios. The company’s detailed assumptions are provided in Table 28 below. 
+Based on these assumptions, National Grid estimated the total additional design day reductions of up to 
+410 MDth/day (in the High Demand case) could be met with 215 MDth/day from energy efficiency, 108 
+MDth/day from demand response, and 86 MDth/day from electrification (Table 29). Demand-side 
+resources also contribute in varying amounts to the design day performance of all of the infrastructure 
+solutions other than the NESE pipeline. 
+National Grid calculated that the No Infrastructure solution would have a present value cost of $2.62 
+billion in the High Demand case (compared with a $1.83 billion cost for the NESE pipeline, for example). 
+In the Low Demand case, National Grid estimated a cost of $1.51 billion. 
+
+
+--- Page 43 ---
+ 
+Synapse Energy Economics, Inc. 
+Assessment of National Grid Capacity Needs 
+41 
+Table 28. National Grid’s assumptions on its No Infrastructure solution 
+ 
+Source: National Grid 2020, Table 34. page 88 “*In excess of LL97, 80–100 percent of NENY and Downstate NY electric utility 
+electrification program targets, and 25-49 percent organic electrification of heat in retrofit buildings by 2035, all of which are 
+assumed in Demand forecasts ** In excess of planned demand response programs that are assumed to reduce Demand by up to 
+53 MDth by 2035.” 
+Table 29. National Grid’s estimates of reduction of design day demand for 
+No Infrastructure solution under the High Demand scenario (MDth/day) 
+Program 
+2034/35 
+Energy Efficiency (EE) 
+216 
+Customer Demand Response (DR) 
+108 
+Electrification 
+86 
+Total 
+410 
+Source: National Grid. 2020. Table 1, page 12. 
+
+
+--- Page 44 ---
+ 
+Synapse Energy Economics, Inc. 
+Assessment of National Grid Capacity Needs 
+42 
+5.2 Corrections to National Grid’s Cost and Benefit Assessments for 
+Incremental Demand-Side Measures 
+National Grid has overstated the net cost of demand-side solutions to meet either the High Demand or 
+Low Demand gaps. While earlier portions of this report have shown that the supply gap may not actually 
+exist, if we assume that the gap is as National Grid states the demand-side solutions are still highly likely 
+to be the key to a cost-effective approach. 
+We have identified four major corrections: accounting for NYSERDA efficiency programs; reducing per-
+unit costs of saved natural gas based on experience in other jurisdictions; including avoided costs of 
+carbon emissions; and including gas savings benefits beyond 2035. We also identified a few other 
+benefits not considered in National Grid’s benefit-cost analysis. These include co-benefits of energy 
+efficient air-conditioning with heat pumps, avoided costs of air pollution, and avoided risk of stranded 
+assets. 
+5.2.1 No incremental cost for NYSERDA programs 
+As discussed in Section 3, National Grid overlooked the portion of the gas peak reductions expected 
+from NYSERDA’s program within National Grid’s Downstate NYC territory. Our estimate of the gas peak 
+savings resulting from NYSERDA’s programs is about 105 MDth/day. This means that almost half of the 
+additional energy efficiency programs assumed by National Grid under the High Demand case (216 
+MDth/day) and the majority of the energy efficiency programs under the Low Demand case (110 
+MDth/day) result in no additional costs. This is because they are already part of the existing policy 
+impacts. Thus, the cost of the energy efficiency in the No Infrastructure solution should also be cut 
+accordingly.  
+High Demand case 
+National Grid estimates that the additional energy efficiency costs a net present value (NPV) of 
+approximately $1,600 million under the High Demand scenario (Figure 7).51 As NYSERDA’s program 
+contribution accounts for 49 percent of this program impact, National Grid overestimated the cost of 
+energy efficiency at least by $780 million under this scenario. With this one adjustment to the cost 
+estimate, the total cost of the No Infrastructure solution under the High Demand scenario would be 
+reduced from $2,620 million to about $1,840 million, a level almost equal to the cost of the NESE 
+pipeline option (Figure 7). With further adjustments to the costs and benefits of the No Infrastructure 
+solution that we will discuss later in this section, it is highly likely that this option would become one of 
+the least-cost options among the options National Grid considered.  
+ 
+51 National Grid. 2020. Figure 34, page 100. 
+
+
+--- Page 45 ---
+ 
+Synapse Energy Economics, Inc. 
+Assessment of National Grid Capacity Needs 
+43 
+Figure 7. National Grid’s estimates of net costs for different alternatives to close demand-supply gap—High 
+Demand scenario 
+ 
+Source: National Grid. 2020. Figure 34, page 100. 
+Low Demand case 
+Under the Low Demand scenario, National Grid estimates the impact of additional energy efficiency is 
+about 110 MDth/day.52 This amount is almost equal to our estimate of NYSERDA’s peak savings 
+contribution of 106 MDth/day (or 96 percent of 110 MDth/day) under the same scenario. Since the NPV 
+cost of additional energy efficiency is approximately $800 million as shown in Figure 8 and the savings 
+from NYSERDA’s program is $780 million, the majority of National Grid’s program cost estimate is not an 
+additional cost to the ratepayers. Taking this correction into account, the total incremental cost of the 
+No Infrastructure solution under the Low Demand scenario would be about $728 million, which makes 
+this scenario one of the lowest cost options among all scenarios.  
+ 
+52 National Grid. 2020. Figure A-20, page 116.  
+
+
+--- Page 46 ---
+ 
+Synapse Energy Economics, Inc. 
+Assessment of National Grid Capacity Needs 
+44 
+Figure 8. National Grid’s estimates of net costs for different alternatives to close demand-supply gap – Low 
+Demand scenario 
+ 
+Source: National Grid. 2020. Figure 35, page 100. 
+A summary of our cost adjustments for the Low and High Demand scenarios for the No Infrastructure 
+option is presented in Table 30 below.  
+Table 30. Synapse’ energy efficiency cost corrections to National Grid’s cost estimates for 
+the No Infrastructure solution  
+  
+High Demand 
+Low Demand 
+NGrid total EE cost (NPV $million) 
+$1,600 
+$800 
+NGrid total EE Savings (MDth/day) 
+216 
+110 
+NYSERDA EE savings (MDth/day) 
+106 
+106 
+NYSERDA EE savings (%) 
+49% 
+96% 
+NYSERDA EE cost (NPV $million) 
+($782) 
+($782) 
+NGrid-only EE cost (NPV $million) 
+$818 
+$18 
+Total cost of No Infrastructure solution 
+estimated by National Grid 
+$2,620 
+$1,510 
+Net cost of No Infrastructure solution  
+$1,838 
+$728 
+ 
+5.2.2 Natural gas efficiency costs are overstated 
+The cost of the No Infrastructure solution is likely to be even lower than the costs presented in Table 30 
+because National Grid’s assumption on the per-unit cost of saved energy (COSE) per therm appears to 
+be grossly overestimated. National Grid’s current COSE is $3.8 per therm of first year annual savings. 
+National Grid assumes this cost for its NENY energy efficiency program (reaching 0.8 percent savings by 
+2025) under the Low Demand scenario and $4.5 per therm for the High Demand scenario (which simply 
+
+
+--- Page 47 ---
+ 
+Synapse Energy Economics, Inc. 
+Assessment of National Grid Capacity Needs 
+45 
+assumes 80 percent savings achievement with the same amount of budget).53 However, to get to the 
+1.3 percent savings under the No Infrastructure solution to meet the supply gap, National Grid assumes 
+the COSE “will increase to $9.30–$9.60 per therm on average across customer segments.”54 This cost 
+assumption regarding energy efficiency is overestimated and not supported by any evidence.  
+We examined the performance of energy efficiency programs by leading gas utilities over the past 
+several years. Figure 9 below presents our assessment of COSE in dollars per lifetime therm savings and 
+savings as a percent of sales for five leading gas utilities’ efficiency programs in Massachusetts, Rhode 
+Island, Minnesota, and Michigan from 2010 through 2018.55 We observe two interesting points in this 
+graph. First, COSE are very different across utilities, even at the same savings level, but are closer to 
+each other within the same region or state.56 For example, the COSE data from the utilities in 
+Massachusetts and Rhode Island (Eversource and two National Grid data points) are closer to each other 
+than to the COSE from the two utilities in the Midwest (DTE Energy and Center Point).  
+Secondly, not all of these cases present a clear trend of cost increases when their savings levels were 
+increased. For example, DTE Energy and Center Point Gas in Minnesota did not find any increases in 
+COSE over time even though they increased savings substantially over the past several years (to 1.3 
+percent by DTE Energy and 1.8 percent by Center Point). On the other hand, gas efficiency programs by 
+National Grid and Eversource in Massachusetts, as well as National Grid Rhode Island, experienced 
+moderate increases in COSE.  
+ 
+53 National Grid. 2020. Page 35. 
+54 National Grid. 2020. Page 76 
+55 Data from 2010 to 2018 for National Grid MA and Eversource, from 2012 to 2018 for National Grid RI and DTE Energy, and 
+from 2013 to 2018 for Center Point Gas in Minnesota.  
+56 Levels of energy efficiency program costs generally differ by region because various aspects of energy efficiency programs 
+differ by region and by utility, including target markets, program designs, incentive levels, program delivery mechanism, 
+labor costs, etc. Thus, the costs in one region cannot be directly applied to another region. 
+
+
+--- Page 48 ---
+ 
+Synapse Energy Economics, Inc. 
+Assessment of National Grid Capacity Needs 
+46 
+Figure 9. Cost of saved energy lifetime vs. savings as a percentage of sales by leading gas 
+utilities 
+ 
+Sources: Mass Save Data, Available at https://www.masssavedata.com/Public/TimeSeries; National 
+Grid Rhode Island’s Energy Efficiency Year-End Report (from 2012-2018); DTE Energy’s Annual Report 
+on Energy Optimization (from 2012-2018); CenterPoint Energy’s Conservation Improvement Program 
+Status Report (from 2013-2018).  
+We examined the COSE data for the three utilities in Massachusetts and Rhode Island in detail (Table 31) 
+and found that their COSE only increased by about 13 to 16 percent when they increased efficiency 
+savings from a level at or close to 0.8 percent (the NENY target for National Grid) to a higher level at or 
+close to 1.3 percent (the target under the No Infrastructure option). On the other hand, National Grid in 
+New York assumes that the COSE will increase by 250 percent from the current $3.8 per therm (annual 
+savings) to about $9.5 per therm to get to the 1.3 percent savings level.  
+Table 31. COSE increases by leading gas utilities 
+  
+Mid savings level 
+High savings level 
+COSE % 
+increase 
+COSE lifetime 
+% of sales 
+COSE lifetime 
+% of sales 
+National Grid MA 
+$0.50 
+0.7% 
+$0.58 
+1.3% 
+16% 
+Eversource 
+$0.45 
+0.5% 
+$0.51 
+1.3% 
+13% 
+National Grid RI 
+$0.43 
+0.8% 
+$0.49 
+1.1% 
+15% 
+ 
+If we were to conservatively assume that the COSE for the energy efficiency program under the No 
+Infrastructure option will increase by 30 percent (which is 30 percent higher costs than experienced by 
+the utilities in Massachusetts and Rhode Island), the COSE for National Grid in New York will be only $4.9 
+per therm, or about half of National Grid’s cost assumption. Applying this factor to the remaining 
+efficiency program cost for National Grid (as shown in Table 32) reduces the total net cost of the No 
+Infrastructure solution by between $9 million and $393 million, reducing the net cost of this scenario to 
+
+
+--- Page 49 ---
+ 
+Synapse Energy Economics, Inc. 
+Assessment of National Grid Capacity Needs 
+47 
+just $1,450 million (High Demand) to $720 million (Low Demand) as shown in Table 32. These corrected 
+cost estimates for the No Infrastructure options are among the lowest cost options even when the same 
+energy efficiency cost adjustments are applied to other infrastructure options that include energy 
+efficiency programs, and they are substantially cheaper than all of the large infrastructure options.   
+However, it is important note that, as our analysis found under Section 3, none of the additional 
+demand-side measures included in the No Infrastructure solution are needed to close National Grid’s 
+purported supply gap. These additional measures would, however, help the state meet its long-term 
+climate change goals while providing savings and comfort benefits to National Grid customers.  
+Table 32. Synapse’ estimates of net cost of No Infrastructure solution adjusted for lower EE COSE 
+  
+High 
+Demand 
+Low 
+Demand 
+Total cost of No Infrastructure solution estimated by National Grid 
+$2,620  
+$1,510  
+Net cost of No Infrastructure solution  
+$1,838  
+$728  
+EE COSE adjustment/reduction 
+($393) 
+($9) 
+Net cost of No Infrastructure solution adjusted for EE COSE 
+$1,445  
+$719  
+  
+5.2.3 The value of energy savings needs to be accounted for 
+Using the values provided in National Grid’s Technical Appendix, we have evaluated the present value of 
+the costs for the No Infrastructure options shown in Figures A-19 and A-20 of the Capacity Report. The 
+Capacity Report states in its Figure 4 that the net present value (NPV) of net costs for the No 
+Infrastructure scenario is $2,620 million. However, examining Table 11 of the Technical Appendix, we 
+see that the NPV of the Net Cost, using the same 6.3 percent discount rate as National Grid, is $2,462 
+million. The NPV of the “Annual Cost”, however, is $2,627 million – within rounding error of the value 
+from Figure 4. Therefore, we are forced to conclude that National Grid has simply not included the 
+savings in commodity gas when evaluating the value of the No Infrastructure solutions. The same error 
+is repeated in the Low Demand case, where the total cost ($1,510 million) in Figure 5 of the Capacity 
+Report does not match the NPV of $1,422 million that would be calculated from the Technical Appendix.  
+Furthermore, perhaps because of the underlying error, National Grid has not included the benefits from 
+efficiency that would accrue to customers from reduced consumption after 2035. By ignoring these 
+benefits, the utility further understates the benefits that would accrue to customers into the 2040s from 
+the building shell improvements and other long-lasting gas efficiency measures that would be installed 
+as part of these programs. If we assume a 15-year measure life, these savings adjust the No 
+Infrastructure case by $81 million in the High Demand case and $29 million in the Low Demand case. 
+Combining these two corrections, the net cost of the No Infrastructure solution should be reduced by 
+$246 million in the High Demand case (to $1,199 million, when including the other corrections in Table 
+32) and $145 million in the Low Demand case (to $574 million). 
+
+
+--- Page 50 ---
+ 
+Synapse Energy Economics, Inc. 
+Assessment of National Grid Capacity Needs 
+48 
+5.2.4 The value of carbon emission reductions needs to be incorporated 
+National Grid’s Capacity Report made a critical oversight in evaluating options for the state’s long-term 
+energy investments: It is silent on how the gas infrastructure investment options are incompatible with 
+the Climate Leadership and Community Protection Act (CLCPA). The CLCPA mandates that all sectors of 
+the economy cumulatively achieve 40 percent emissions reductions from 1990 levels by 2030 and 85 
+percent emissions reductions by 2050, as well as achieve net zero GHGs by 2050. While National Grid 
+failed to address this major policy goal, it should at a minimum address the state’s climate change 
+mandate by incorporating the value of avoided carbon emissions in its benefit-cost analysis.  
+The NY PSC’s January 21, 2016 Order, “Order Establishing the Benefit Cost Analysis Framework” 
+established that the social cost of carbon emissions is an appropriate and relevant cost to include in 
+benefit-costs analysis when making decisions about utility investments in energy efficiency.57 More 
+specifically, the Order directed the use of U.S. Environmental Protection Agency’s social cost of carbon 
+value at a 3 percent discount rate, which ranges from $46 per ton in 2020 to $76 per ton in 2050.58 The 
+Order also directed each investor-owned utility to develop a Benefit-Cost Analysis (BCA) handbook. In 
+fact, National Grid’s own BCA handbook appropriately includes the social cost of carbon in its analysis.59 
+However, National Grid failed to consider and quantify this benefit from demand-side investments in its 
+Capacity Report. On other hand, when Con Edison filed an application for approval of its non-pipeline 
+solutions portfolio, it included the benefit of avoided carbon values using a $50 per ton carbon value.60 
+For consistency, benefits of avoided carbon emissions should also be included when evaluating utility 
+investments as part of a package of solutions to meet the supply gap.  
+National Grid has not supplied the annual fossil fuel gas combustion emissions associated with each 
+portfolio of solutions to the supply gap, but it is logical to assume that the portfolio with the greatest 
+investment in energy efficiency, demand response, and electrification will have the lowest emissions 
+compared to solution portfolios that increase fossil fuel supply. The resulting value of emission 
+reductions (or cost of emission increases) should be included in the present value calculations of the net 
+cost of each option.  
+ 
+57 NY PSC. 2016. Order Establishing the Benefit Cost Analysis Framework, January 21, 2016. CASE 14-M-0101.  
+58 NY PSC. 2016. Appendix B. Table A.  
+59 National Grid. 2018. Benefit-Cost Analysis Handbook Version 2.0, Case 14-M-0101 REV Proceeding, Available at 
+http://documents.dps.ny.gov/public/Common/ViewDoc.aspx?DocRefId=%7B95DCC733-8863-4A52-9DE5-
+CF5238F40BC3%7D.  
+60 Con Edison. 2018. Request for Approval of Non-Pipeline Solutions Portfolio in The Smart Solutions for Natural Gas Customers 
+Program. Case 17-G-0606. September 28, 2018, available at 
+http://documents.dps.ny.gov/public/MatterManagement/CaseMaster.aspx?MatterCaseNo=17-G-0606&submit=Search 
+
+
+--- Page 51 ---
+ 
+Synapse Energy Economics, Inc. 
+Assessment of National Grid Capacity Needs 
+49 
+5.2.5 Other benefits unaccounted for in National Grid’s benefit-cost analysis 
+Other benefits not included in the Capacity Report include co-benefits of energy efficient air-
+conditioning with heat pumps, avoided costs of air pollution, and avoided risk of stranded assets.  
+Efficient cooling: Heat pumps that are suitable for cold-climate conditions are energy efficient heating 
+and cooling systems. Thus, they can replace existing inefficient air-conditioning systems and save a 
+substantial amount of energy, as well as the capital cost of a separate air conditioner. National Grid 
+assumes a SEER 16 performance,61 but modern cold-climate minisplit units commonly achieve SEER 
+ratings of over 20.62 National Grid has not provided the necessary calculations to evaluate whether the 
+Capacity Report accurately accounts for capital savings, or to allow correction for the overly 
+conservative efficiency level. These corrections could improve the calculated cost-effectiveness of heat 
+pumps significantly. 
+Reduced illnesses: There are numerous studies that have found links between emissions from nitrogen 
+oxide emissions associated with indoor natural gas appliances and serious health problems such as 
+increased respiratory symptoms, asthma attacks, and hospital admissions in people with asthma.63 
+Further, smog and toxic air contaminants from natural gas extraction processes, especially in the form of 
+hydraulic fracturing, has been reported to be linked to various health threats such as eye, nose, and 
+throat irritation, respiratory illnesses, central nervous system damage, birth defects, cancer, or 
+premature death.64 National Grid has not accounted for these non-energy health damage costs when 
+comparing solutions. 
+Reduced stranded asset risk: Finally, any clean energy options, such as demand-side measures including 
+energy efficiency and heat pumps, can help avoid stranded asset risks from large-scale gas infrastructure 
+investments. Gas infrastructure is typically depreciated over many decades, but New York now has an 
+ambitious CLCPA policy mandate of reaching a net zero emission economy by 2050. While some of the 
+evaluated supply solutions would place this risk on the asset owners rather than on National Grid and its 
+ratepayers, other options that would involve direct National Grid ownership or investment must take 
+this short timeline of useful life into account when evaluating the cost to ratepayers. There is no 
+evidence that National Grid has accounted for the increased burden to ratepayers from stranded assets 
+when evaluating the cost of each option. 
+ 
+61 National Grid. 2020. Natural Gas Long-Term Capacity Report Technical Appendix, p. 9 
+62 See, for example, the Mitsubishi 1.5-ton wall-mounted minisplit unit MSZ-FH18NA2/MUZ-FH18NAH2, which offers a 21 
+SEER, 11 HSPF, and maintains rated capacity to 5 degrees. (http://meus1.mylinkdrive.com/files/MSZ-FH18NA2-MUZ-
+FH18NAH2_ProductDataSheet.pdf)  
+63 Sierra Club. n.d. “Gas: A Major Source of Indoor Air Pollution,” Available at 
+https://www.sierraclub.org/sites/www.sierraclub.org/files/sce-
+authors/u6902/Gas%20appliances%20indoor%20air%20pollution.pdf. 
+64 NRDC. 2014. Fracking Fumes: Air Pollution from Hydraulic Fracturing Threatens Public Health and Communities, Available at 
+https://www.nrdc.org/sites/default/files/fracking-air-pollution-IB.pdf. 
+
+
+--- Page 52 ---
+ 
+Synapse Energy Economics, Inc. 
+Assessment of National Grid Capacity Needs 
+50 
+6 CONCLUSIONS 
+National Grid’s Capacity Report projected a winter peak demand need and large amount of supply 
+capacity shortfalls in the 2030s. It analyzed various additional supply and demand options to meet its 
+purported supply gap. Our analysis found various errors in National Grid’s load forecasts and estimates 
+of supply resources and concludes that the supply gap most likely does not exist. Our analysis also found 
+National Grid grossly overestimated the costs of demand-side resources, in particular energy efficiency, 
+and grossly underestimates benefits of such resources. Finally, our analysis concludes that National 
+Grid’s analysis of long-term capacity options is not compatible with New York’s climate change policies 
+and identified the need to include the cost of avoided carbon emissions in the benefit-cost analysis.   
+6.1 The Supply Gap Most Likely Does Not Exist 
+The analysis presented in this report shows that National Grid’s projected Baseline demand is too high 
+by approximately 240 MDth/day or 6.5 percent of the Baseline demand forecast, primarily because of 
+overly optimistic projections of the rate of fuel conversion to natural gas. National Grid has also 
+underestimated the effects of current policies for electrification and energy efficiency in the 
+development of policy-consistent High Demand and Low Demand cases by approximately 330 to 350 
+MDth/day. Together, correcting these issues with National Grid’s Low Demand and High Demand cases 
+would entirely eliminate the supply gap. Further, our analysis found that National Grid is overly 
+conservative in its assumptions regarding the ability to contract for peaking gas supply resources, and it 
+did not include a planned enhancement to an existing LNG facility. We estimate that National Grid has 
+additional supply resources of approximately 110 MDth/day from peaking contracts, and planned LNG 
+facilities.65 A summary of these corrections to National Grid’s analysis is presented in Figure 10 and 
+Figure 11 below. We note that as these load changes from current policies are realized, the need to 
+contract for expensive peak gas supply through compressed natural gas trucking will be eliminated. 
+ 
+65 We agree that National Grid’s assumptions for the availability of RNG and Hydrogen are reasonable. 
+
+
+--- Page 53 ---
+ 
+Synapse Energy Economics, Inc. 
+Assessment of National Grid Capacity Needs 
+51 
+Figure 10. Closing the gas supply gap with corrections to National Grid’s forecast—High Demand scenario
+ 
+ 
+Figure 11. Closing the gas supply gap with corrections to National Grid’s forecast—Low Demand scenario 
+ 
+ 
+6.2 National Grid has multiple cost-effective demand-side options to meet any 
+foreseeable need 
+National Grid developed a portfolio of additional demand-side resources including energy efficiency, 
+demand response, and electrification to meet its supposed supply gap. It then estimated the cost of this 
+option along with the cost of other gas supply options. Our analysis concluded that, for this disputed 
+415
+MDth/day
+-334
+MDth/day
+-25
+MDth/day
+-110
+MDth/day
+-240
+MDth/day
+-106
+MDth/day
+-268
+MDth/day
+-500
+-400
+-300
+-200
+-100
+0
+100
+200
+300
+400
+500
+Original supply
+gap estimates
+RNG/Hydrogen
+Peaking
+contracts and
+planned LNG
+Fuel
+conversion
+rates
+EE from
+NYSERDA
+Electrification
+Total excess
+capacity
+MDth per day
+265
+MDth/day
+-440
+MDth/day
+-25
+MDth/day
+-110
+MDth/day
+-240
+MDth/day
+-106
+MDth/day
+-224
+MDth/day
+-500
+-400
+-300
+-200
+-100
+0
+100
+200
+300
+400
+500
+Original supply
+gap estimates
+RNG/Hydrogen
+Peaking
+contracts and
+planned LNG
+Fuel
+conversion
+rates
+EE from
+NYSERDA
+Electrification
+Total excess
+capacity
+MDth per day
+
+
+--- Page 54 ---
+ 
+Synapse Energy Economics, Inc. 
+Assessment of National Grid Capacity Needs 
+52 
+supply gap, the No Infrastructure option would be one of the least-cost solutions among all resource 
+options analyzed by National Grid. As one of its most critical errors, National Grid counted savings 
+equivalent to NYSERDA’s natural gas efficiency programs as additional energy efficiency programs even 
+though this initiative is already state policy. Our savings estimate from accounting for NYSERDA’s 
+program is approximately $780 million, which needs to be removed from the cost of the No 
+Infrastructure option. Further, our analysis of the COSE from leading natural gas energy efficiency 
+programs reveals that National Grid overestimated the COSE by at least 90 percent using a COSE of 
+$9.50 per first year therm savings. This led National Grid to overestimate the total cost by $390 million 
+under the High Demand scenario and about $10 million under the Low Demand scenario. National Grid 
+also neglected to include the value of energy saved through efficiency programs, which amounts to $123 
+million in the Low Demand case and $180 million in the High Demand case. Correcting for these factors, 
+we estimate that the No Infrastructure option costs $1,265 million under the High Demand scenario to 
+$596 million under the Low Demand scenario, as summarized in Table 33. This makes the No 
+Infrastructure option one of the most economic options, if not the most, and certainly substantially 
+lower than all of the large infrastructure options including NESE and LNG Terminal options in either the 
+High Demand or Low Demand cases.  
+Table 33. Summary of cost corrections to No Infrastructure option 
+  
+High Demand 
+Low Demand 
+Original total cost of No Infra. Option 
+$2,620  
+$1,510  
+NYSERDA EE cost 
+($782) 
+($782) 
+EE COSE adjustment 
+($393) 
+($9) 
+Energy savings value 
+($180) 
+($123) 
+Corrected total cost of No 
+Infrastructure option 
+$1,265  
+$596  
+ 
+6.3 National Grid’s analysis of long-term capacity options is not compatible 
+with New York’s climate change policies 
+As stated in this report, National Grid’s Capacity Report made a critical oversight dealing with the state’s 
+long-term energy investment: It is silent on how the gas infrastructure investment options are 
+incompatible with the state’s emission reduction policies. In particular, 85 percent emissions reductions 
+and net zero GHGs by 2050 require planning for retirement, rather than expansion, of fossil fuel 
+infrastructure. While National Grid may consider such an analysis outside of the scope of the Long-Term 
+Capacity Report, any long-term planning that neglects this issue is lacking. Investing in large-scale 
+natural gas infrastructure is likely to hinder more than help the state in meeting its climate policy 
+objectives.  
+One way to address this issue is to incorporate the value of avoided GHG emissions in benefit-cost 
+analysis. This is a minimum requirement of conducting an analysis of long-term energy solutions for the 
+
+
+--- Page 55 ---
+ 
+Synapse Energy Economics, Inc. 
+Assessment of National Grid Capacity Needs 
+53 
+state, in particular because the NY PSC’s 2016 order “Order Establishing the Benefit Cost Analysis 
+Framework” established that the social cost of carbon emissions is an appropriate and relevant cost to 
+include in benefit-cost analysis when making decisions about utility investments in energy efficiency.66 
+Following the state’s benefit-cost framework and to address the intention of the CLCPA, benefits of 
+avoided carbon emissions must be included when evaluating utility investments in efficiency as part of a 
+package of solutions to meet the purported gas supply gap. 
+In summary, the National Grid Capacity Report, and its accompanying Technical Appendix, is flawed in 
+several critical ways. It describes a supply gap based on an unrealistic load forecast that is out of touch 
+with current policies and market trends. Our analysis shows that this supply gap is highly unlikely to 
+emerge, based on our corrections to various errors National Grid made in constructing its load forecasts. 
+National Grid also overestimates the costs of the demand-side options in its No Infrastructure scenario, 
+thereby depriving ratepayers of what would be the least-cost solution to its purported supply gap. And 
+finally, it omits altogether any discussion of its proposed pipeline and other gas infrastructure solutions 
+in relation to New York’s climate targets, and whether such long-term infrastructure would either hinder 
+compliance or saddle ratepayers with stranded assets. A truly comprehensive planning exercise would 
+require remedying these flaws in order to best serve ratepayers and New York’s long-term goals. 
+ 
+ 
+66 NY PSC. 2016. Order Establishing the Benefit Cost Analysis Framework, January 21, 2016. CASE 14-M-0101.  

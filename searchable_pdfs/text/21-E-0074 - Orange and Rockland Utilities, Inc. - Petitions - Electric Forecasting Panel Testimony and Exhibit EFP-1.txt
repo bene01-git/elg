@@ -1,0 +1,3858 @@
+--- Page 1 ---
+ORANGE AND ROCKLAND UTILITIES, INC. 
+DIRECT TESTIMONY OF 
+ 
+ELECTRIC FORECASTING PANEL 
+ 
+-1- 
+TABLE OF CONTENTS 
+I. 
+INTRODUCTION ......................................... 2 
+II.  PURPOSE AND SUMMARY OF TESTIMONY ..................... 5 
+III. 
+DELIVERY AND SENDOUT VOLUMES ....................... 7 
+A. 
+Econometric Models ................................. 8 
+B. 
+Modeling Period .................................... 8 
+C. 
+Independent Variables .............................. 9 
+D. 
+Model Structure ................................... 10 
+E. 
+Assumptions for Model Variables ................... 13 
+F. 
+Energy Efficiency Programs ........................ 16 
+G. 
+Other Delivery Volume Adjustments ................. 17 
+H. 
+Sendout Forecast .................................. 19 
+IV.  REVENUE FORECAST .................................... 20 
+ 
+ 
+ 
+
+
+--- Page 2 ---
+ORANGE AND ROCKLAND UTILITIES, INC. 
+DIRECT TESTIMONY OF 
+ 
+ELECTRIC FORECASTING PANEL 
+ 
+-2- 
+I. 
+INTRODUCTION 
+1 
+Q. 
+Would the members of the Electric Forecasting Panel 
+2 
+(“Panel”) please state their names and business 
+3 
+address? 
+4 
+A. 
+John Catuogno, Hock G. Ng, and Berna Falay Ok. Our 
+5 
+business address is 4 Irving Place, New York, New York 
+6 
+10003. 
+7 
+Q. 
+By whom are you employed, in what capacity, and what are 
+8 
+your professional backgrounds and qualifications, and 
+9 
+current responsibilities? 
+10 
+A. 
+(Catuogno)  We are employed by Consolidated Edison 
+11 
+Company of New York, Inc. (“Con Edison”).  I am the 
+12 
+Director of Commodity Forecasting in Energy Management.  
+13 
+I graduated from Polytechnic University with a Bachelor 
+14 
+of Science degree in Mechanical Engineering in 1991 and 
+15 
+with a Master of Science degree in Management in 2002.  I 
+16 
+am an inactive Professional Engineer in the State of New 
+17 
+York. I am an Adjunct Assistant Professor in the 
+18 
+Mechanical Engineering Department of Manhattan College, 
+19 
+where I perform graduate lectures on energy and 
+20 
+sustainability. 
+21 
+ 
+I joined Con Edison in 1991 and have held various 
+22 
+positions of increasing responsibility in the Fossil 
+23 
+
+
+--- Page 3 ---
+ORANGE AND ROCKLAND UTILITIES, INC. 
+DIRECT TESTIMONY OF 
+ 
+ELECTRIC FORECASTING PANEL 
+ 
+-3- 
+Power, Nuclear Power Engineering, Steam Operations, and 
+1 
+Energy Management Organizations.  Since December 2013, I 
+2 
+have been the Director of Energy Management’s Commodity 
+3 
+Forecasting Department (formerly named Resource Planning 
+4 
+& Forecasting Department).  My responsibilities include 
+5 
+oversight of daily peak, annual peak, monthly/annual 
+6 
+energy revenue and delivery volume forecasts for the 
+7 
+electric, gas, and steam systems; and technical and 
+8 
+analytical support for long range plans, strategies, 
+9 
+industry trends and issues. I perform these 
+10 
+responsibilities, as applicable, for both Con Edison 
+11 
+and Orange and Rockland Utilities, Inc. (“Orange and 
+12 
+Rockland” or the “Company”). 
+13 
+(Ng)  I am the Section Manager of Electric Forecasting in 
+14 
+Energy Management.  I graduated from the University of 
+15 
+Western Australia with a Bachelor of Economics degree in 
+16 
+1983.  I also received a PhD degree in Economics in 1992 
+17 
+from Stanford University.  Prior to joining Con Edison, I 
+18 
+taught and performed research in economics and 
+19 
+econometrics at various universities.  In 2005, I began 
+20 
+my employment with Con Edison as a Senior Planning 
+21 
+Analyst in Corporate Accounting.  In April 2018, I was 
+22 
+promoted to my current position in Energy Management.  My 
+23 
+
+
+--- Page 4 ---
+ORANGE AND ROCKLAND UTILITIES, INC. 
+DIRECT TESTIMONY OF 
+ 
+ELECTRIC FORECASTING PANEL 
+ 
+-4- 
+responsibilities include overseeing the development of 
+1 
+the electric delivery volume and revenue forecast.  I 
+2 
+have also co-authored two articles dealing with forecast 
+3 
+modeling issues that have been published in the 
+4 
+International Journal of Forecasting, and Systems 
+5 
+Analysis Modeling Simulation. 
+6 
+(Falay Ok) I am a Senior Planning Analyst in the 
+7 
+Commodity Forecasting Department in Energy Management.  I 
+8 
+received a Bachelor’s degree in Mathematics from Yildiz 
+9 
+Technical University, in Turkey, in 2003.  I also 
+10 
+received a Master of Science degree in Economics from 
+11 
+Bilgi University in Turkey in 2007 and a Master of Arts 
+12 
+degree in Economics from Rutgers University in 2008.  
+13 
+Prior to joining Con Edison, I taught economics at 
+14 
+Rutgers University.  In 2008, I joined Con Edison in the 
+15 
+capacity of Senior Analyst as an experienced economic 
+16 
+modeler and forecaster.  I have developed econometric 
+17 
+time series models and forecasts for Orange and Rockland 
+18 
+and Con Edison.   
+19 
+Q. 
+Have you previously testified in regulatory 
+20 
+proceedings? 
+21 
+A. 
+(Catuogno)  Yes, I have testified in Cases 07-S-1315, 
+22 
+
+
+--- Page 5 ---
+ORANGE AND ROCKLAND UTILITIES, INC. 
+DIRECT TESTIMONY OF 
+ 
+ELECTRIC FORECASTING PANEL 
+ 
+-5- 
+09-S-0794, 09-S-0029, 13-S-0032, 19-E-0065, and 19-G-
+1 
+0065. 
+2 
+(Ng)  I have testified in previous electric rate 
+3 
+cases, including Cases 07-E-0523, 08-E-0539, and 13-E-
+4 
+0030, and submitted written testimony in Cases 09-E-
+5 
+0428, 15-E-0050, 16-E-0060, and 19-E-0065. 
+6 
+(Falay Ok)  I have testified in Case 14-E-0493. 
+7 
+II. PURPOSE AND SUMMARY OF TESTIMONY 
+8 
+Q. 
+What is the purpose of the Panel’s testimony? 
+9 
+A. 
+We present the forecast of Orange and Rockland 
+10 
+electric system sendout, delivery volumes, and 
+11 
+revenues for the three-month period ended December 31, 
+12 
+2020, the 12 months ending December 31, 2021, and the 
+13 
+12 months ending December 31, 2022 (“Rate Year” or 
+14 
+“RY1”). While, as discussed by the Company’s 
+15 
+Accounting Panel, the Company is not proposing a 
+16 
+multi-year rate plan in this electric rate case, the 
+17 
+Panel does present the Company’s forecast of electric 
+18 
+system sendout, delivery volumes and revenues for the 
+19 
+two years following the Rate Year in this proceeding.  
+20 
+For the sake of convenience, we refer to these two 
+21 
+years as RY2 (i.e., January 1, 2023 through December 
+22 
+
+
+--- Page 6 ---
+ORANGE AND ROCKLAND UTILITIES, INC. 
+DIRECT TESTIMONY OF 
+ 
+ELECTRIC FORECASTING PANEL 
+ 
+-6- 
+31, 2023) and RY3 (i.e., January 1, 2024 through 
+1 
+December 31, 2024).  We also discuss the methodologies 
+2 
+used to develop these forecasts. 
+3 
+Q. 
+What are the actual and normalized total delivery 
+4 
+volumes for the 12 months ended September 2020 
+5 
+(“Historic Year”)? 
+6 
+A. 
+The actual total delivery volume for the Historic Year 
+7 
+is 3,863,179 MWh.  The normalized total delivery 
+8 
+volume for the Historic Year is 3,825,536 MWh.   
+9 
+Q. 
+Please summarize, in aggregate form, your delivery 
+10 
+volume forecasts for the three months ended December 
+11 
+31, 2020, the 12 months ending December 31, 2021, and 
+12 
+RY1 through RY3, respectively. 
+13 
+A. 
+As set forth in Exhibit __ (EFP-1), Schedule 4, Page 1 
+14 
+of 5, for the three months ended December 31, 2020, 
+15 
+the Company’s total delivery volume forecast is 
+16 
+874,862 MWh.  For the 12 months ending December 31, 
+17 
+2021, the Company’s total delivery volume forecast is 
+18 
+3,770,131 MWh.  For RY1, the Company’s total delivery 
+19 
+volume forecast is 3,735,036 MWh, a decrease of 35,095 
+20 
+MWh.  This represents a 0.9% decrease from the 12 
+21 
+months ending December 31, 2021.  This decrease is a 
+22 
+
+
+--- Page 7 ---
+ORANGE AND ROCKLAND UTILITIES, INC. 
+DIRECT TESTIMONY OF 
+ 
+ELECTRIC FORECASTING PANEL 
+ 
+-7- 
+result of (a) the anticipated reduction from energy 
+1 
+efficiency (“EE”) programs; and (b) the installation 
+2 
+of solar panels in the Company’s service territory.  
+3 
+For RY2, the Company’s total delivery volume forecast 
+4 
+is 3,738,479 MWh. This represents an increase of 3,443 
+5 
+MWh, which keeps the volume forecast relatively flat 
+6 
+compared to the RY1 forecast.  The flat trend in 
+7 
+volume indicates that the forecasted increase in 
+8 
+volume makes up for the anticipated decrease in energy 
+9 
+usage associated with the EE programs and installation 
+10 
+of solar panels.  For RY3, the Company’s total 
+11 
+delivery volume forecast is 3,708,233, a decrease of 
+12 
+30,246 MWh.  This amounts to a 0.8% decrease from the 
+13 
+RY2 forecast.  The slight volume growth forecasted is 
+14 
+not enough to offset the anticipated decline in energy 
+15 
+usage associated with the EE programs and installation 
+16 
+of solar panels. 
+17 
+III. DELIVERY AND SENDOUT VOLUMES 
+18 
+Q. 
+What forecasting methodologies did you use to project 
+19 
+the Company’s electric delivery volumes described 
+20 
+above?   
+21 
+A. 
+The billed delivery volume forecasts are based on 
+22 
+
+
+--- Page 8 ---
+ORANGE AND ROCKLAND UTILITIES, INC. 
+DIRECT TESTIMONY OF 
+ 
+ELECTRIC FORECASTING PANEL 
+ 
+-8- 
+various econometric and time series models.  Models 
+1 
+used for forecasting billed delivery volumes are done 
+2 
+on a major classification basis, with the major 
+3 
+classifications defined as residential, secondary 
+4 
+including small primary, primary excluding small 
+5 
+primary, lighting, and other public authority.  These 
+6 
+major classifications are comprised of various Orange 
+7 
+and Rockland service classes.     
+8 
+A. 
+Econometric Models 
+9 
+Q. 
+Please describe the econometric time series models you 
+10 
+used including their modeling periods, the independent 
+11 
+variables included in them, and the model structures. 
+12 
+A. 
+Econometric time series models are used to forecast 
+13 
+the billed delivery volumes for residential, secondary 
+14 
+including small primary, primary excluding small 
+15 
+primary, lighting, and public authority.  The modeling 
+16 
+period, the independent variables, and the model 
+17 
+structure for these econometric models are described 
+18 
+below. 
+19 
+ 
+B. 
+Modeling Period 
+20 
+Q. 
+What modeling periods did the Panel use in its 
+21 
+forecast? 
+22 
+
+
+--- Page 9 ---
+ORANGE AND ROCKLAND UTILITIES, INC. 
+DIRECT TESTIMONY OF 
+ 
+ELECTRIC FORECASTING PANEL 
+ 
+-9- 
+A. 
+The econometric time series models are developed on a 
+1 
+quarterly basis.  The modeling period starts with the 
+2 
+first quarter of 1990 and ends with the third quarter 
+3 
+of 2020.  For the public authority and lighting 
+4 
+models, the modeling period starts in the first 
+5 
+quarter of 1994 (i.e., when data for the public 
+6 
+authority was first collected) and of 2002 (i.e., to 
+7 
+account for LED lighting), respectively. 
+8 
+ 
+C. 
+Independent Variables 
+9 
+Q. 
+Please describe the independent variables used in the 
+10 
+Company’s models. 
+11 
+A. 
+The econometric time series models employ two types of 
+12 
+independent variables – weather and economic. 
+13 
+Weather variables — in terms of heating degree days, 
+14 
+cooling degree days, and billing days — are included 
+15 
+in the models to account for delivery volume 
+16 
+variations due to changes in these factors.  Weather 
+17 
+variables are included for all service classes except 
+18 
+for lighting, whose model includes burn hours. Also 
+19 
+included are key economic variables such as real 
+20 
+average electric price, total non-farm employment, and 
+21 
+the number of customers. Finally, a dummy variable is 
+22 
+
+
+--- Page 10 ---
+ORANGE AND ROCKLAND UTILITIES, INC. 
+DIRECT TESTIMONY OF 
+ 
+ELECTRIC FORECASTING PANEL 
+ 
+-10- 
+included in the residential and secondary models to 
+1 
+capture the impact of the COVID pandemic on the volume 
+2 
+forecast.  
+3 
+The residential model includes real average electric 
+4 
+price, total non-farm employment, and the number of 
+5 
+customers as explanatory variables.  
+6 
+The secondary model includes total non-farm employment 
+7 
+and the number of customers.  
+8 
+The primary model includes total non-farm employment, 
+9 
+real average electric price, and the number of 
+10 
+customers. 
+11 
+The lighting model includes the number of customers 
+12 
+and burn hour variables.  
+13 
+The public authority model does not include any 
+14 
+economic variables and is therefore based solely on 
+15 
+weather and billing day variables. 
+16 
+ 
+D. 
+Model Structure 
+17 
+Q. 
+Please explain how the Company’s models are 
+18 
+structured. 
+19 
+A. 
+Each of the econometric time series models consists of 
+20 
+two components: the first component is similar to a 
+21 
+regression model, which correlates the delivery volume 
+22 
+
+
+--- Page 11 ---
+ORANGE AND ROCKLAND UTILITIES, INC. 
+DIRECT TESTIMONY OF 
+ 
+ELECTRIC FORECASTING PANEL 
+ 
+-11- 
+with a set of independent variables included in the 
+1 
+model; the second component is an autoregressive 
+2 
+integrated moving average (“ARIMA”) component.  The 
+3 
+combined model is often referred to as an ARIMAX model 
+4 
+in the econometric modeling literature, where the 
+5 
+letter “X” stands for the set of independent variables 
+6 
+included in the model.  The ARIMA component can take 
+7 
+different forms and each model has its own ARIMA 
+8 
+structure statistically determined according to the 
+9 
+data pattern of each major classification.   
+10 
+Q. 
+What is the purpose of including an ARIMA component in 
+11 
+the models? 
+12 
+A. 
+An empirical forecasting model can include only a few 
+13 
+key economic variables, such as real electric price, 
+14 
+number of customers, and employment.  All other 
+15 
+economic variables, which may have an effect on 
+16 
+electric delivery but either are not quantifiable or 
+17 
+have no data available, are excluded from the model.  
+18 
+The ARIMA mechanism captures some of the collective 
+19 
+effects of those excluded variables.  Furthermore, the 
+20 
+ARIMA mechanism smooths out autocorrelations in the 
+21 
+residuals, thereby reducing forecast error. 
+22 
+
+
+--- Page 12 ---
+ORANGE AND ROCKLAND UTILITIES, INC. 
+DIRECT TESTIMONY OF 
+ 
+ELECTRIC FORECASTING PANEL 
+ 
+-12- 
+Q. 
+What criteria are used to measure the accuracy of the 
+1 
+econometric models? 
+2 
+A. 
+Generally accepted criteria to measure the accuracy of 
+3 
+each model are used.  These criteria include a high R2, 
+4 
+low standard error, and a Durbin-Watson value near 
+5 
+two.   
+6 
+Q. 
+Have you prepared an exhibit showing the measures of 
+7 
+accuracy you have just described? 
+8 
+A. 
+Yes.  In the one-page document entitled “ELECTRIC 
+9 
+FORECASTING MODEL STATISTICS,” Exhibit ___ (EFP-1), 
+10 
+Schedule 1, we present measures of model performance 
+11 
+for the residential, primary excluding small primary, 
+12 
+and secondary including small primary classifications.  
+13 
+These three major classification models are featured 
+14 
+because they account for over 95 percent of total 
+15 
+Orange and Rockland billed delivery volume.  This 
+16 
+Exhibit lists the adjusted R2, standard error, and 
+17 
+Durbin-Watson statistic of the model for residential, 
+18 
+primary excluding small primary, and secondary 
+19 
+including small primary.  All three statistics 
+20 
+indicate that the models fit the historical data well. 
+21 
+ 
+22 
+
+
+--- Page 13 ---
+ORANGE AND ROCKLAND UTILITIES, INC. 
+DIRECT TESTIMONY OF 
+ 
+ELECTRIC FORECASTING PANEL 
+ 
+-13- 
+ 
+E. 
+Assumptions for Model Variables 
+1 
+Q. 
+You listed the key economic variables used in the 
+2 
+forecasting models as real average electric price, 
+3 
+total non-farm employment, COVID dummy, and number of 
+4 
+customers in each major classification.  What 
+5 
+assumption do the models use for the real average 
+6 
+electric price variable for forecasting purposes? 
+7 
+A. 
+For forecasting purposes, we assumed that the real 
+8 
+average electric price remains at the same level as 
+9 
+the 12 months ended September 2020.   
+10 
+Q. 
+Please explain how the historical data and the 
+11 
+forecast of the total non-farm employment are 
+12 
+obtained. 
+13 
+A. 
+Since we are modeling delivery volume that show 
+14 
+seasonality, we need an employment series that has not 
+15 
+been seasonally adjusted.  Non-seasonally adjusted 
+16 
+employment data for the Company’s service territory, 
+17 
+however, are not directly available from a public 
+18 
+source.  As such, we construct the total non-farm 
+19 
+employment variable using the methodology that was 
+20 
+recommended by Department of Public Service Staff 
+21 
+(“Staff”) in Case 18-E-0067.  The procedure takes the 
+22 
+
+
+--- Page 14 ---
+ORANGE AND ROCKLAND UTILITIES, INC. 
+DIRECT TESTIMONY OF 
+ 
+ELECTRIC FORECASTING PANEL 
+ 
+-14- 
+non-seasonally adjusted employment series from the 
+1 
+Current Employment Survey (“CES”) published by the 
+2 
+Bureau of Labor Statistics (“BLS”) for the three-
+3 
+county combined region of Orange, Rockland and 
+4 
+Westchester. The series is then broken down into the 
+5 
+separate counties by applying the ratios obtained from 
+6 
+county level employment data that are published by the 
+7 
+BLS in its Quarterly Census of Employment and Wages 
+8 
+(“QCEW”). Since QCEW is released at a six-month lag, 
+9 
+the latest ratios are assumed to hold for the lagged 
+10 
+period. The employment forecasts for Orange and 
+11 
+Rockland Counties are then estimated by applying 
+12 
+Moody’s Analytics’ most recent year-over-year 
+13 
+forecasted growth rates to the estimated county 
+14 
+employment levels constructed as described above.  For 
+15 
+the Company’s service territory, total non-farm 
+16 
+employment is projected to decrease by 9.7% in 2020.  
+17 
+It is then expected to increase by 1.1% in 2021, 4.1% 
+18 
+in 2022, 3.2% in 2023 and 1.5% in 2024.   
+19 
+Q. 
+What assumption do the models use for the COVID dummy 
+20 
+variable for forecasting purposes? 
+21 
+A. 
+The forecast of the COVID dummy reflects a gradual 
+22 
+
+
+--- Page 15 ---
+ORANGE AND ROCKLAND UTILITIES, INC. 
+DIRECT TESTIMONY OF 
+ 
+ELECTRIC FORECASTING PANEL 
+ 
+-15- 
+recovery from the pandemic starting in the second 
+1 
+quarter of 2021. It also assumes a residual impact of 
+2 
+20% from 2023 onwards. 
+3 
+Q. 
+Please explain the development of the number of 
+4 
+customers for the various major service 
+5 
+classifications. 
+6 
+A. 
+The forecasts of the number of customers for 
+7 
+residential and primary classes are based on ARIMA 
+8 
+models, using quarterly data from the first quarter of 
+9 
+1990 through the third quarter of 2020. The forecast 
+10 
+of the number of customers for secondary class is 
+11 
+based on an ARIMAX model (i.e., based on employment 
+12 
+and ARIMA components) using quarterly data from the 
+13 
+first quarter of 1990 through the third quarter of 
+14 
+2020. The forecasted number of customers for the 
+15 
+lighting class is based on an ARIMA model using 
+16 
+quarterly data from the first quarter of 1993 through 
+17 
+the third quarter of 2020. 
+18 
+Q. 
+Are the foregoing projections of employment, real 
+19 
+electric price, and the numbers of customers used as 
+20 
+inputs in the forecasting models to generate the 
+21 
+Orange and Rockland delivery volume forecasts? 
+22 
+
+
+--- Page 16 ---
+ORANGE AND ROCKLAND UTILITIES, INC. 
+DIRECT TESTIMONY OF 
+ 
+ELECTRIC FORECASTING PANEL 
+ 
+-16- 
+A. 
+Yes. 
+1 
+Q. 
+Are there any adjustments to the volume forecasts 
+2 
+generated by these models? 
+3 
+A. 
+Yes.  The Panel adjusted the primary model for three 
+4 
+large customers. The first customer has been taking 
+5 
+only supplemental power from the Company under Service 
+6 
+Classification (“SC”) 25 since February 2006.  
+7 
+Therefore, this Large Primary Customer’s full load was 
+8 
+subtracted from the billed Primary volumes as of 
+9 
+December 2001. Its volume currently under SC 25 is 
+10 
+forecasted separately on the basis of its recent 
+11 
+supplemental requirements. There are also two Data 
+12 
+Centers that are forecasted separately based on their 
+13 
+individual load growth profiles. 
+14 
+ 
+F. 
+Energy Efficiency Programs   
+15 
+Q. 
+Do your forecasts of the delivery volumes to Orange 
+16 
+and Rockland customers reflect the impact of EE 
+17 
+programs? 
+18 
+A. 
+Yes.  The forecasts are net of the impact of the EE 
+19 
+programs. This adjustment reflects the estimated 
+20 
+impact of EE programs under Orange and Rockland’s 
+21 
+current Electric Rate Plan, New Efficiency New York 
+22 
+
+
+--- Page 17 ---
+ORANGE AND ROCKLAND UTILITIES, INC. 
+DIRECT TESTIMONY OF 
+ 
+ELECTRIC FORECASTING PANEL 
+ 
+-17- 
+(“NENY”) electric and gas programs and the New York 
+1 
+State Energy Research and Development Authority 
+2 
+(“NYSERDA”) programs, as provided by the Orange and 
+3 
+Rockland Customer Energy Services group. 
+4 
+Q. 
+Have you treated EE savings in a similar fashion as in 
+5 
+the last rate case? 
+6 
+A. 
+Yes.  Our forecast is adjusted for the projected EE 
+7 
+savings in the same manner as in Case 18-E-0067.  The 
+8 
+forecasted delivery volumes from the models are 
+9 
+manually adjusted by the forecasted incremental EE 
+10 
+savings from these programs once the EE measures have 
+11 
+been installed. 
+12 
+ 
+G. 
+Other Delivery Volume Adjustments 
+13 
+Q. 
+Did the Panel make any other adjustments to the 
+14 
+delivery forecast? 
+15 
+A. 
+Yes.  The delivery volume forecast for Orange and 
+16 
+Rockland customers includes the following additional 
+17 
+adjustments: 
+18 
+1. 
+Solar/Photovoltaic generation (“PV”) – the impact 
+19 
+of the installation of solar panels to capture 
+20 
+delivery volume losses from customers generating 
+21 
+a portion of their energy requirements. 
+22 
+
+
+--- Page 18 ---
+ORANGE AND ROCKLAND UTILITIES, INC. 
+DIRECT TESTIMONY OF 
+ 
+ELECTRIC FORECASTING PANEL 
+ 
+-18- 
+2. 
+Electric Vehicles (“EV”) – to capture the 
+1 
+projected delivery volumes to customers who will 
+2 
+be operating EVs. 
+3 
+3. 
+Electrification of Heating (“EoH”) - to capture 
+4 
+the delivery volume to customers who install 
+5 
+electric heating systems to replace their oil or 
+6 
+gas heating systems or new dwelling 
+7 
+installations. 
+8 
+Q. 
+Have you prepared an exhibit showing the adjustments 
+9 
+you have made to the delivery volume forecast? 
+10 
+A. 
+Yes, we have prepared a two-page document entitled  
+11 
+ 
+“DELIVERY VOLUME ADJUSTMENTS,” Exhibit ___ (EFP-1), 
+12 
+Schedule 2.  In this exhibit, we provide the impacts 
+13 
+on delivery volume due to the items noted above. The 
+14 
+impacts are listed by SC for each rate year. 
+15 
+Q. 
+How was the quarterly volume forecast disaggregated 
+16 
+into monthly delivery volumes? 
+17 
+A. 
+The Panel divided quarterly forecasted delivery 
+18 
+volumes into monthly delivery volumes by reflecting 
+19 
+the patterns of weather-normalized historical monthly 
+20 
+delivery volumes of the past three years.  The Panel 
+21 
+also adjusted monthly delivery volumes for the 
+22 
+
+
+--- Page 19 ---
+ORANGE AND ROCKLAND UTILITIES, INC. 
+DIRECT TESTIMONY OF 
+ 
+ELECTRIC FORECASTING PANEL 
+ 
+-19- 
+appropriate billing days. 
+1 
+Q. 
+How was the major classification monthly delivery 
+2 
+volume disaggregated into service class volumes? 
+3 
+A. 
+The Panel allocated major classification monthly 
+4 
+delivery volumes to service class volumes based on the 
+5 
+12 months ended September 2020 monthly service class 
+6 
+delivery volumes.   
+7 
+ 
+H. 
+Sendout Forecast 
+ 
+8 
+Q. 
+How is the Company’s sendout forecast developed? 
+9 
+A. 
+The Panel used forecasted delivery volumes to develop 
+10 
+a sendout forecast.  We convert the billed delivery 
+11 
+volumes, which are based on the number of days in the 
+12 
+billing cycle and the respective cycle degree days, to 
+13 
+the calendar delivery volumes using the number of 
+14 
+calendar days within a month and the respective 
+15 
+calendar degree days.  Lastly, the final sendout is 
+16 
+developed by taking the calendar delivery volumes and 
+17 
+adding Company use, as well as line losses.  
+18 
+Q. 
+How does the Panel account for unbilled delivery 
+19 
+volumes in calculating the Company’s total delivery 
+20 
+volumes? 
+21 
+A. 
+The total delivery volumes are derived by estimating 
+22 
+
+
+--- Page 20 ---
+ORANGE AND ROCKLAND UTILITIES, INC. 
+DIRECT TESTIMONY OF 
+ 
+ELECTRIC FORECASTING PANEL 
+ 
+-20- 
+the unbilled delivery volumes and adding those volumes 
+1 
+to the billed volume forecast. 
+2 
+Q.   Please explain unbilled delivery volumes. 
+3 
+A. 
+Billed delivery volumes are recorded on a billing 
+4 
+cycle basis, which varies from the calendar month.  
+5 
+The unbilled delivery volumes translate the billed 
+6 
+delivery volumes from a billing cycle basis to 
+7 
+delivery volumes on a calendar month basis.  
+8 
+Q. 
+How are the unbilled delivery volumes estimated? 
+9 
+A. 
+The Panel derived unbilled delivery volumes by 
+10 
+subtracting the monthly billed volume forecast from 
+11 
+the calculated calendar month delivery volumes 
+12 
+forecast.           
+13 
+IV. REVENUE FORECAST 
+14 
+Q. 
+Please explain the method of estimating the Company’s 
+15 
+delivery revenues for the forecast period. 
+16 
+A. 
+The delivery revenue forecast consists of both the 
+17 
+non-competitive delivery revenues and the competitive 
+18 
+delivery revenues.  The non-competitive delivery 
+19 
+revenues represent revenues from customer charges and 
+20 
+energy and demand delivery rates. The competitive 
+21 
+delivery revenues are comprised of the Merchant 
+22 
+
+
+--- Page 21 ---
+ORANGE AND ROCKLAND UTILITIES, INC. 
+DIRECT TESTIMONY OF 
+ 
+ELECTRIC FORECASTING PANEL 
+ 
+-21- 
+Function Charge (“MFC”), Billing and Payment 
+1 
+Processing Charge (“BPP”), and Metering Charge 
+2 
+Revenues. 
+3 
+Q. 
+Please explain the method of estimating Orange and 
+4 
+Rockland’s non-competitive delivery revenues for the 
+5 
+forecast period. 
+6 
+A. 
+The Panel estimated the non-competitive delivery 
+7 
+revenues from the forecasted billed delivery volumes 
+8 
+to Orange and Rockland’s customers by month and by 
+9 
+service classification.  The individual service 
+10 
+classes have a customer charge that is multiplied by 
+11 
+the number of eligible customers for each class.  For 
+12 
+the energy delivery volumes, the Panel developed a 
+13 
+pricing equation by correlating historical average 
+14 
+billed transmission and distribution (“T&D”) revenue 
+15 
+to historical billed volumes and summer/winter rate 
+16 
+differentials, if applicable.  In addition, burn hours 
+17 
+were included as an explanatory variable in the energy 
+18 
+pricing models for the lighting classes. For the 
+19 
+demand classes that have a flat rate (i.e., SC  3, 9, 
+20 
+9s, 9t, 20, 21, 22, 22s, 22t), the Panel calculated 
+21 
+the demand T&D revenue by multiplying the forecasted 
+22 
+
+
+--- Page 22 ---
+ORANGE AND ROCKLAND UTILITIES, INC. 
+DIRECT TESTIMONY OF 
+ 
+ELECTRIC FORECASTING PANEL 
+ 
+-22- 
+service class demands by the tariff rate for the 
+1 
+service class.  For the demand classes that have block 
+2 
+rates (i.e., SC 2 secondary and SC 2 primary), the 
+3 
+Panel developed a demand pricing equation by 
+4 
+correlating the historical billed average.  The 
+5 
+pricing models are based upon the historical data for 
+6 
+the period August 2014 through July 2015.  For 
+7 
+purposes of this filing, revenues are priced at the 
+8 
+rates that became effective on January 1, 2019.  The 
+9 
+non-competitive delivery revenue for other public 
+10 
+authorities, which in this forecast represents one 
+11 
+customer, was priced at their current contract rate. 
+12 
+Lighting customers that are SC 5 and SC 6, SC 25 and 
+13 
+the Data Centers were all priced at their respective 
+14 
+tariff rates. For the unbilled delivery revenues, we 
+15 
+calculated average non-competitive rates for the 
+16 
+forecasted billed volumes for each SC by month.  We 
+17 
+then multiplied those rates to the forecasted unbilled 
+18 
+volumes in each SC by month.   
+19 
+ Q. Please explain the method of estimating Orange and 
+20 
+Rockland’s competitive delivery revenues for the 
+21 
+forecast periods. 
+22 
+
+
+--- Page 23 ---
+ORANGE AND ROCKLAND UTILITIES, INC. 
+DIRECT TESTIMONY OF 
+ 
+ELECTRIC FORECASTING PANEL 
+ 
+-23- 
+A. 
+The MFC revenues represent the supply and credit and 
+1 
+collection-related charges.  The Panel multiplied the 
+2 
+billed volumes for full-service customers by the 
+3 
+current MFC rate, as determined in Case 18-E-0067.  
+4 
+The Panel determined BPP revenues by applying the BPP 
+5 
+charge per bill to the forecasted number of bills.  
+6 
+This charge is at the level set in Case 18-E-0067 and 
+7 
+depends on the customer’s choice of billing option and 
+8 
+choice of service.  The Metering Charge is also on a 
+9 
+per bill basis and applies to demand classes only 
+10 
+(i.e., SC 2S, 2P, 3, 9, 20, 21, 22, and 25).  We 
+11 
+similarly forecasted this charge by using the rates 
+12 
+established in Case 18-E-0067. 
+13 
+Q.  Please explain the projection of billable demand for 
+14 
+Orange and Rockland’s commercial and industrial 
+15 
+customers. 
+16 
+A. 
+Billable demand is the ratio of the forecasts for 
+17 
+billed energy volumes and the average hours use.  
+18 
+Hours use is simply the ratio between billed delivery 
+19 
+volumes and billable demand. 
+20 
+Q. 
+How is the average hours use forecasted? 
+21 
+A. 
+The Panel used an analysis of the relationship between 
+22 
+
+
+--- Page 24 ---
+ORANGE AND ROCKLAND UTILITIES, INC. 
+DIRECT TESTIMONY OF 
+ 
+ELECTRIC FORECASTING PANEL 
+ 
+-24- 
+historical billed delivery volumes and billable demand 
+1 
+to project the average hours use.  
+2 
+Q. 
+The revenue forecast also includes Market Supply 
+3 
+Charge (“MSC”), System Benefit Charge (“SBC”), Revenue 
+4 
+Tax, PSA Fixed Charges, Intercompany Fuel & PSA Bill 
+5 
+Revenues, and Low Income Discount.  Please explain how 
+6 
+these components are forecasted. 
+7 
+A. 
+All of these components, except for Low Income 
+8 
+Discount, were supplied to us by the Orange and 
+9 
+Rockland Financial Services Department. The Low Income 
+10 
+Discount amounts were supplied to us by the Rate 
+11 
+Engineering Department.  
+12 
+Q. 
+Please describe what is shown on Exhibit __ (EFP-1), 
+13 
+Schedule 3.  
+14 
+A. 
+This page is a summary of the forecast and shows the 
+15 
+Company’s electric system sendout, delivery volumes, 
+16 
+and revenues derived from delivery volumes for the 
+17 
+three months ended December 31, 2020, the 12-month 
+18 
+period ending December 31, 2021, and RY1 through RY3, 
+19 
+respectively.  Line 1 shows the estimated sendout.  
+20 
+Lines 2 through 4 show the estimated electric delivery 
+21 
+volumes and lines 5 through 19 show estimated revenues 
+22 
+
+
+--- Page 25 ---
+ORANGE AND ROCKLAND UTILITIES, INC. 
+DIRECT TESTIMONY OF 
+ 
+ELECTRIC FORECASTING PANEL 
+ 
+-25- 
+for each of the periods.  For the Rate Year, as shown 
+1 
+in column 3, lines 20 to 22 show the proposed revenue 
+2 
+increases from delivery volumes to Orange and Rockland 
+3 
+customers, as well as the associated revenue taxes.  
+4 
+Line 23 shows total revenue at the proposed rates.  
+5 
+Q. 
+Please describe what is shown on the five pages of 
+6 
+Exhibit __ (EFP-1), Schedule 4. 
+7 
+A. 
+Page one of this Exhibit __ (EFP-1), Schedule 4, shows 
+8 
+electric delivery volumes and revenues by SC for the 
+9 
+three months ended December 31, 2020.  Delivery 
+10 
+volumes are shown in Column 1, the annual sum of the 
+11 
+monthly billable demand is shown in Column 2, non-
+12 
+competitive T&D delivery revenues at the currently 
+13 
+effective rates in Column 3, competitive service 
+14 
+revenues at the currently effective rates in Column 4, 
+15 
+Reactive Power revenue in Column 5, MSC revenues in 
+16 
+Columns 6, Temporary ECA in Column 7, SBC revenues in 
+17 
+Column 8, revenue taxes in Column 9, and total 
+18 
+revenues in Column 10.  Pages two through five are 
+19 
+similar in format to page one; page two covers the 
+20 
+forecast for the 12 months ending December 31, 2021, 
+21 
+page three covers the forecast for RY1, page four 
+22 
+
+
+--- Page 26 ---
+ORANGE AND ROCKLAND UTILITIES, INC. 
+DIRECT TESTIMONY OF 
+ 
+ELECTRIC FORECASTING PANEL 
+ 
+-26- 
+covers the forecast for RY2, and page five covers the 
+1 
+forecast for RY3.  For RY1, as shown on page 3, the 
+2 
+effect of the proposed changes in non-competitive 
+3 
+revenues are shown in Column 11, the effect of the 
+4 
+proposed changes in competitive revenues are shown in 
+5 
+Column 12, the effect of the proposed changes in 
+6 
+reactive power revenues are shown in Column 13, and 
+7 
+the associated increase in revenue taxes shown in 
+8 
+Column 14.  Column 15 shows the total revenue at 
+9 
+proposed rates.  The total proposed revenue increase 
+10 
+to Orange and Rockland’s customers of $24,665,000, 
+11 
+exclusive of gross receipts taxes, consists of the 
+12 
+non-competitive related delivery revenue increase of 
+13 
+$32,278,000, the competitive service revenue 
+14 
+requirement portion of the delivery revenue decrease 
+15 
+of $7,944,000, the Low Income discount decrease of 
+16 
+$143,000 and the reactive power related revenue 
+17 
+increase of $188,000.  The resulting proposed overall 
+18 
+increase for RY1, inclusive of the increase in rates 
+19 
+and charges of $509,000, for revenue taxes, amounts to 
+20 
+$25,174,000.  
+21 
+
+
+--- Page 27 ---
+ORANGE AND ROCKLAND UTILITIES, INC. 
+DIRECT TESTIMONY OF 
+ 
+ELECTRIC FORECASTING PANEL 
+ 
+-27- 
+Q. 
+Should this revenue forecast be used as the basis for 
+1 
+setting the target revenues in the revenue decoupling 
+2 
+mechanism (“RDM”)? 
+3 
+A. 
+Yes, the non-competitive delivery revenue forecast 
+4 
+shown in Columns 3, 5, 11, and 13 on page 3 of Exhibit 
+5 
+___ (EFP-1), Schedule 4. 
+6 
+Q. 
+Is the Company proposing any changes to the RDM? 
+7 
+A. 
+Yes, these proposed changes are discussed in the 
+8 
+direct testimony of the Electric Rate Panel. 
+9 
+Q. 
+Will you be revising this forecast as part of the 
+10 
+Company’s update? 
+11 
+A. 
+Yes, we will be revising this forecast to reflect more 
+12 
+current data during the update phase of this 
+13 
+proceeding. 
+14 
+Q.   Does the Panel have any comments regarding the 
+15 
+Company’s White Paper titled “O&R REV/DER/EEDM 
+16 
+Forecasting Tools,” which is sponsored by the Company 
+17 
+Electric Infrastructure Operations Panel (“EIOP”)? 
+18 
+A. 
+Yes.  The Panel supports this project and asks the 
+19 
+Commission to fully fund the development of this tool.  
+20 
+Q. 
+Why does the Panel support the development of this 
+21 
+forecasting tool? 
+22 
+
+
+--- Page 28 ---
+ORANGE AND ROCKLAND UTILITIES, INC. 
+DIRECT TESTIMONY OF 
+ 
+ELECTRIC FORECASTING PANEL 
+ 
+-28- 
+A. 
+With the rapidly changing gas and electric landscapes, 
+1 
+including the electrification of gas heating and other 
+2 
+programs current and future, the Company will need to 
+3 
+be able to project the impact of these programs and 
+4 
+the effect on electric volumes.  This tool will permit 
+5 
+an analytical review of programs implementing New York 
+6 
+State’s Climate Leadership Community Protection Act 
+7 
+(“CLCPA”) and other future programs to assess the 
+8 
+impact on electric volumes and provide the Company 
+9 
+with an accurate forecast to determine proper electric 
+10 
+volume changes. 
+11 
+Q.  In what ways does the Company plan to refine its            
+12 
+     forecasting related to load modifiers? 
+13 
+A. 
+The Company is planning to work with McKinsey & 
+14 
+Company to develop a REV/DER/EEDM Forecasting Tool 
+15 
+(“Forecasting Tool”) to assist in the forecast of 
+16 
+specific load modifiers. 
+17 
+Q. 
+Please provide an overview of the Forecasting Tool. 
+18 
+A. 
+The Forecasting Tool to be developed will be an 
+19 
+application software that will organize data and 
+20 
+sources of information and will contain algorithms 
+21 
+that are used to forecast the quantities of specific 
+22 
+
+
+--- Page 29 ---
+ORANGE AND ROCKLAND UTILITIES, INC. 
+DIRECT TESTIMONY OF 
+ 
+ELECTRIC FORECASTING PANEL 
+ 
+-29- 
+load modifiers and their impacts to electric delivery 
+1 
+volume at the system level, electric summer and winter 
+2 
+peak demand at the system, substation, and circuit 
+3 
+levels, all for a 20-year period. The Forecasting Tool 
+4 
+will include the following six modules: 
+5 
+ EoH; 
+6 
+ Battery Storage (“BS”); 
+7 
+ PV;  
+8 
+ Distributed Generation and Combined Heat and 
+9 
+Power (“DG/CHP”); 
+10 
+ EV; and 
+11 
+ Demand Response and Energy Efficiency (“EEDM”)  
+12 
+In addition, the EEDM module will forecast 
+13 
+programmatic measures through NENY and NYSERDA. It 
+14 
+will also forecast organic EE through new 
+15 
+technologies, natural conservation, and CLCPA. Similar 
+16 
+tools for EEDM and the aforementioned Distributed 
+17 
+Energy Resources and Load Modifiers were developed 
+18 
+with McKinsey & Company for Con Edison in 2017 and 
+19 
+2020, respectively. This project will build on these 
+20 
+tested and proven models to develop a combined tool 
+21 
+
+
+--- Page 30 ---
+ORANGE AND ROCKLAND UTILITIES, INC. 
+DIRECT TESTIMONY OF 
+ 
+ELECTRIC FORECASTING PANEL 
+ 
+-30- 
+for Orange and Rockland with multiple modules, as 
+1 
+described above. Please refer to the Company’s 
+2 
+Electric Infrastructure and Operations Panel’s direct 
+3 
+testimony and Exhibit __ (EIOP-1), which includes the 
+4 
+REV/DER/EEDM Forecasting Tool whitepaper, for further 
+5 
+details.  
+6 
+Q.   Does this conclude your direct testimony? 
+7 
+A. 
+Yes, it does. 
+8 
+
+
+--- Page 31 ---
+EXHIBIT___(EFP-1)
+SCHEDULE 1
+Adj R-Sqr *
+SER
+Durbin-Watson
+Residential
+0.9805
+2.60%
+2.218
+Primary less SC 2P
+0.9490
+2.64%
+2.180
+Secondary plus SC 2P
+0.9861
+2.07%
+1.987
+* When the models are in differenced form, their Adj R2 's are 
+lower than shown in the above table, because differencing
+accounts for a portion of the R2 values.
+Notes: - Adj R2 represents R2 adjusted for degrees of freedom.
+- SER represents Standard Error of the Regression.
+ORANGE & ROCKLAND UTILITIES, INC
+ELECTRIC  FORECASTING MODEL STATISTICS
+Model Statistics For
+Electric Sales Volume Forecasting Models
+
+
+--- Page 32 ---
+Total O&R
+Residential Secondary
+Primary
+Lighting
+Public Authority
+SC 25
+Volume impact
+3 months ending December 2020
+(10)
+(1)
+(6)
+0
+0
+0
+(17)
+12 months ending December 2021
+(47)
+(9)
+(38)
+0
+0
+0
+(94)
+RATE YEAR SUMMARY
+12 months ending December 2022
+(81)
+(18)
+(74)
+0
+0
+0
+(173)
+12 months ending December 2023
+(115)
+(28)
+(110)
+0
+0
+0
+(253)
+12 months ending December 2024
+(152)
+(40)
+(149)
+0
+0
+0
+(340)
+ORANGE AND ROCKLAND UTILITIES, INC.
+DELIVERY VOLUME ADJUSTMENTS
+Page 1 of 4
+SCHEDULE 2
+EXHIBIT__(EFP-1)
+Impact of DSM on Volumes - GWh
+O&R DSM Impact
+
+
+--- Page 33 ---
+Total O&R
+Residential
+Secondary
+Primary
+Lighting
+Public Authority
+SC 25
+Volume impact
+3 months ending December 2020
+(2)
+0
+0
+0
+0
+0
+(2)
+12 months ending December 2021
+(21)
+(1)
+(1)
+0
+0
+0
+(23)
+RATE YEAR SUMMARY
+12 months ending December 2022
+(41)
+(1)
+(2)
+0
+0
+0
+(44)
+12 months ending December 2023
+(50)
+(1)
+(3)
+0
+0
+0
+(54)
+12 months ending December 2024
+(58)
+(2)
+(4)
+0
+0
+0
+(64)
+EXHIBIT__(EFP-1)
+ORANGE AND ROCKLAND UTILITIES, INC.
+DELIVERY VOLUME ADJUSTMENTS
+Impact of Installation of Solar Generation on Volumes - GWh
+O&R Impact of Solar Panels
+SCHEDULE 2
+Page 2 of 4
+
+
+--- Page 34 ---
+Total O&R
+Residential
+Secondary
+Primary
+Lighting
+Public Authority
+SC 25
+Volume impact
+3 months ending December 2020
+0
+0
+0
+0
+0
+0
+0
+12 months ending December 2021
+1
+0
+0
+0
+0
+0
+1
+RATE YEAR SUMMARY
+12 months ending December 2022
+4
+0
+0
+0
+0
+0
+4
+12 months ending December 2023
+10
+0
+0
+0
+0
+0
+10
+12 months ending December 2024
+18
+0
+0
+0
+0
+0
+18
+EXHIBIT__(EFP-1)
+ORANGE AND ROCKLAND UTILITIES, INC.
+DELIVERY VOLUME ADJUSTMENTS
+Impact of Electric Vehicles on Volumes - GWh
+O&R Impact of Electric Vehicles
+Page 3 of 4
+SCHEDULE 2
+
+
+--- Page 35 ---
+Total O&R
+Residential
+Secondary
+Primary
+Lighting
+Public Authority
+SC 25
+Volume impact
+3 months ending December 2020
+0
+0
+0
+0
+0
+0
+0
+12 months ending December 2021
+0
+0
+0
+0
+0
+0
+0
+RATE YEAR SUMMARY
+12 months ending December 2022
+0
+0
+0
+0
+0
+0
+0
+12 months ending December 2023
+0
+0
+1
+0
+0
+0
+1
+12 months ending December 2024
+7
+0
+2
+0
+0
+0
+9
+EXHIBIT__(EFP-1)
+ORANGE AND ROCKLAND UTILITIES, INC.
+DELIVERY VOLUME ADJUSTMENTS
+Impact of Electrification of Heating on Volumes - GWh
+O&R Impact of Electrification of Heating
+Page 4 of 4
+SCHEDULE 2
+
+
+--- Page 36 ---
+Forecast
+Forecast
+Forecast
+Forecast
+Forecast
+Three Months Ending
+Year Ended
+Year Ended
+Year Ended
+Year Ended
+12/31/2020
+12/31/2021
+12/31/2022
+12/31/2023
+12/31/2024
+(1)
+(2)
+(3)
+(4)
+(5)
+1
+SENDOUT - THOUSAND KILOWATTHOURS
+906,869
+3,905,831
+3,869,616
+3,873,171
+3,841,961
+ 
+SALES VOLUMES - THOUSAND KILOWATTHOURS
+2
+BILLED
+882,859
+3,784,944
+3,717,202
+3,764,369
+3,688,156
+3
+UNBILLED
+(7,997)
+(14,813)
+17,834
+(25,890)
+20,077
+4
+                     TOTAL
+874,862
+3,770,131
+3,735,036
+3,738,479
+3,708,233
+REVENUES - $1000
+5
+       T&D NON COMPETITIVE REVENUES AT CURRENT RATES
+66,581
+318,362
+314,739
+313,739
+313,826
+6
+       T&D COMPETITIVE REVENUES AT CURRENT RATES
+3,438
+14,194
+13,980
+14,032
+13,984
+7
+       REACTIVE POWER REVENUES
+43
+167
+167
+167
+167
+8
+       MSC REVENUES
+19,574
+97,168
+94,715
+93,313
+88,062
+9
+TEMPORARY ECA
+0
+5,462
+0
+0
+0
+10
+       SYSTEM BENEFIT CHARGE REVENUES
+4,930
+21,134
+20,373
+19,935
+18,513
+11
+       REVENUE TAXES
+1,652
+7,979
+7,629
+7,546
+7,426
+12
+              SUB-TOTAL
+96,217
+464,466
+451,602
+448,732
+441,977
+13
+      RDM ACCRUAL
+2,211
+5,862
+14
+      MFC ACCRUAL
+(37)
+(57)
+236
+278
+410
+15
+      MFC Other
+94
+462
+434
+428
+396
+16
+      LOW INCOME DISCOUNT
+(2,525)
+(10,163)
+(10,163)
+(10,163)
+(10,163)
+17
+      PSA FIXED CHARGES
+2,051
+8,473
+9,997
+10,147
+10,490
+18
+      INTERCOMPANY FUEL & PSA BILL
+944
+5,246
+5,454
+5,853
+5,580
+19
+GRAND TOTAL
+98,956
+474,289
+457,560
+455,275
+448,691
+PROPOSED RATE INCREASE - ANNUALIZED
+20
+ORANGE AND ROCKLAND CUSTOMERS
+24,665
+21
+REVENUE TAXES
+509
+22
+            TOTAL PROPOSED RATE INCREASE
+25,174
+23
+GRAND TOTAL
+482,734
+ORANGE & ROCKLAND ELECTRIC
+FORECASTED ELECTRIC SENDOUT, DELIVERY VOLUMES AND REVENUES FOR
+THREE MONTHS ENDING DECEMBER 31 2020 AND YEARS ENDING  DECEMBER 31, 2021, DECEMBER 31, 2022, DECEMBER 31, 2023, AND DECEMBER 31, 2024
+FORECASTED
+SCHEDULE 3
+EXHIBIT___(EFP-1)
+
+
+--- Page 37 ---
+2020
+ORANGE & ROCKLAND ELECTRIC
+FORECASTED ELECTRIC DELIVERY VOLUMES AND REVENUES BY SERVICE CLASSIFICATION FOR
+THREE MONTHS ENDING DECEMBER 31, 2020
+SC NO.
+(Column 1)
+(Column 2)
+(Column 3)
+(Column 4)
+(Column 5)
+(Column 6)
+(Column 7)
+(Column 8)
+(Column 9)
+(Column 10)
+1
+361,108
+43,224
+1,612
+12,298
+2,017
+1,414
+60,565
+19
+16,394
+1,449
+43
+397
+92
+47
+2,027
+Total Residential
+377,502
+44,673
+1,655
+12,695
+0
+2,109
+1,461
+62,593
+2
+186,690
+735
+15,313
+1,605
+1
+3,515
+1,043
+183
+21,660
+20
+15,092
+35
+582
+34
+0
+107
+84
+7
+814
+Total Secondary
+201,782
+770
+15,895
+1,639
+1
+3,622
+0
+1,127
+190
+22,474
+2
+10,865
+32
+467
+21
+0
+215
+61
+6
+770
+3
+66,737
+174
+2,686
+47
+7
+429
+373
+30
+3,573
+9
+55,002
+158
+1,997
+21
+8
+269
+307
+22
+2,624
+9 substation
+57,666
+90
+832
+9
+5
+288
+321
+12
+1,467
+9 transmission
+4,872
+11
+77
+6
+1
+261
+27
+3
+374
+21
+7,125
+17
+233
+3
+1
+15
+40
+2
+294
+22
+50,077
+105
+1,312
+19
+13
+412
+279
+17
+2,051
+22 substation
+4,582
+13
+92
+0
+2
+0
+25
+1
+120
+22 transmission
+13,994
+24
+160
+6
+3
+252
+78
+4
+503
+Total Primary
+270,920
+624
+7,855
+132
+40
+2,141
+0
+1,512
+97
+11,776
+04
+3,152
+567
+0
+25
+18
+5
+615
+05
+516
+46
+0
+5
+3
+0
+54
+06
+901
+63
+35
+5
+1
+104
+16
+3,331
+707
+12
+133
+19
+7
+878
+Total Lighting
+7,900
+0
+1,383
+12
+198
+0
+44
+13
+1,650
+Total Public Authority 
+23,435
+38
+463
+1,255
+131
+16
+1,865
+25*
+1,320
+75
+127
+0
+2
+71
+7
+2
+209
+Total Billed
+882,859
+1,507
+70,396
+3,438
+43
+19,982
+0
+4,930
+1,779
+100,567
+Total Unbilled
+(7,997)
+(3,815)
+(408)
+0
+(68)
+(4,291)
+RDM Accrual
+2,211
+2,211
+MFC Accrual
+(37)
+0
+(37)
+MFC Other
+94
+1
+95
+Low Income Discount
+(2,525)
+(60)
+(2,585)
+Grand Total
+874,862
+1,507
+66,267
+3,495
+43
+19,574
+0
+4,930
+1,652
+95,960
+PSA Fixed Charges
+2,051
+Intercompany Fuel & PSA Bill
+944
+Grand Total Revenue
+98,956
+Note:    Excludes Company Use Revenues and Sales
+* Demand is Contracted Demand
+EXHIBIT__(EFP-1)
+Page 1 of 5
+REVENUES ($000s)
+Temporary ECA
+System Benefit 
+Charge
+Revenue Tax
+Total Revenue
+SCHEDULE 4
+Volumes 
+(Thousands 
+kWh)
+Sum of    
+Monthly Billable  
+Demand (MW)
+Non 
+Competitive 
+Delivery 
+Revenues at 
+Current Rates
+Competitive Service 
+Rates   
+BPP/MFC/Metering
+ Market Supply 
+Charge 
+ Reactive 
+Power 
+Revenue 
+
+
+--- Page 38 ---
+2021
+ORANGE & ROCKLAND ELECTRIC
+FORECASTED ELECTRIC DELIVERY VOLUMES AND REVENUES BY SERVICE CLASSIFICATION FOR
+YEAR ENDING DECEMBER 31, 2021
+REVENUES ($000s)
+SC NO.
+(Column 1)
+(Column 2)
+(Column 3)
+(Column 4)
+(Column 5)
+(Column 6)
+(Column 7)
+(Column 8)
+(Column 9)
+(Column 10)
+1
+1,581,251
+193,050
+6,833
+60,669
+3,352
+8,833
+6,518
+279,255
+19
+68,882
+6,931
+175
+1,883
+120
+385
+227
+9,720
+Total Residential
+1,650,133
+199,980
+7,008
+62,552
+3,472
+9,218
+6,745
+288,975
+2
+795,466
+2,960
+67,530
+6,440
+3
+16,938
+1,193
+4,444
+821
+97,369
+20
+76,711
+182
+4,109
+156
+0
+628
+69
+429
+46
+5,437
+Total Secondary
+872,177
+3,142
+71,639
+6,596
+3
+17,566
+1,262
+4,872
+867
+102,805
+2
+44,946
+129
+1,949
+84
+1
+1,004
+36
+251
+28
+3,354
+3
+294,878
+746
+14,242
+188
+32
+2,071
+242
+1,647
+157
+18,579
+9
+225,538
+515
+8,957
+85
+34
+1,247
+113
+1,260
+99
+11,795
+9 substation
+233,003
+357
+4,438
+36
+14
+1,116
+117
+1,296
+60
+7,076
+9 transmission
+26,112
+61
+410
+33
+3
+1,613
+13
+146
+19
+2,237
+21
+31,614
+73
+1,589
+12
+4
+79
+27
+177
+16
+1,903
+22
+197,760
+412
+6,370
+73
+46
+1,760
+99
+1,102
+80
+9,530
+22 substation
+17,629
+49
+455
+0
+9
+0
+9
+98
+5
+575
+22 transmission
+59,322
+102
+736
+37
+10
+1,223
+30
+331
+20
+2,387
+Total Primary
+1,130,802
+2,444
+39,146
+548
+152
+10,113
+685
+6,308
+484
+57,436
+04
+10,276
+2,176
+0
+92
+39
+57
+20
+2,384
+05
+2,051
+183
+0
+25
+11
+2
+221
+06
+3,099
+229
+144
+4
+17
+3
+397
+16
+11,738
+2,811
+42
+533
+66
+29
+3,480
+Total Lighting
+27,164
+0
+5,398
+42
+794
+42
+152
+54
+6,482
+Total Public Authority 
+100,468
+187
+2,325
+6,188
+561
+77
+9,152
+25*
+4,200
+300
+533
+0
+12
+257
+23
+7
+832
+Total Billed
+3,784,944
+6,073
+319,022
+14,194
+167
+97,470
+5,462
+21,134
+8,234
+465,683
+Total Unbilled
+(14,813)
+(660)
+(302)
+0
+(16)
+(978)
+RDM Accrual
+5,862
+5,862
+MFC Accrual
+(57)
+0
+(57)
+MFC Other
+462
+4
+466
+Low Income Discount
+(10,163)
+(243)
+(10,406)
+Grand Total
+3,770,131
+6,073
+314,061
+14,599
+167
+97,168
+5,462
+21,134
+7,979
+460,570
+PSA Fixed Charges
+8,473
+Intercompany Fuel & PSA Bill
+5,246
+Grand Total Revenue
+474,289
+Note:    Excludes Company Use Revenues and Sales
+* Demand is Contracted Demand
+  EXHIBIT__(EFP-1)
+Temporary ECA
+System Benefit 
+Charge
+Revenue Tax
+Total Revenue
+ SCHEDULE 4
+ Page 2 of 5
+Volumes 
+(Thousands 
+kWh)
+Sum of    
+Monthly Billable  
+Demand (MW)
+Non 
+Competitive 
+Delivery 
+Revenues at 
+Current Rates
+Competitive Service 
+Rates   
+BPP/MFC/Metering
+ Market Supply 
+Charge 
+ Reactive 
+Power 
+Revenue 
+
+
+--- Page 39 ---
+2022
+REVENUES ($000s)
+SC NO.
+(Column 1)
+(Column 2)
+(Column 3)
+(Column 4)
+(Column 5)
+(Column 6)
+(Column 7)
+(Column 8)
+(Column 9)
+(Column 10)
+(Column 11)
+(Column 12)
+(Column 13)
+(Column 14)
+(Column 15)
+1
+1,484,788
+184,946
+6,516
+56,628
+8,141
+6,124
+262,355
+20,278
+(1,475)
+449
+281,607
+19
+64,706
+6,585
+167
+1,783
+355
+212
+9,101
+610
+(55)
+13
+9,669
+Total Residential
+1,549,494
+191,530
+6,683
+58,411
+0
+8,496
+6,336
+271,456
+20,888
+(1,530)
+0
+462
+291,276
+2
+844,821
+3,163
+70,936
+6,539
+3
+17,841
+4,632
+850
+100,801
+9,990
+(5,664)
+3
+37
+105,167
+20
+81,464
+196
+4,384
+160
+0
+671
+447
+48
+5,710
+401
+(144)
+0
+2
+5,969
+Total Secondary
+926,285
+3,359
+75,320
+6,699
+3
+18,512
+0
+5,079
+898
+106,511
+10,391
+(5,808)
+3
+39
+111,136
+2
+47,707
+139
+2,096
+84
+1
+1,073
+262
+30
+3,545
+211
+(60)
+1
+1
+3,699
+3
+285,499
+727
+13,964
+188
+32
+2,012
+1,565
+151
+17,912
+303
+(156)
+36
+2
+18,097
+9
+218,083
+502
+8,830
+85
+34
+1,211
+1,196
+97
+11,453
+21
+(61)
+39
+0
+11,451
+9 substation
+230,881
+354
+4,431
+36
+14
+1,078
+1,261
+58
+6,877
+9
+(12)
+15
+0
+6,890
+9 transmission
+34,253
+83
+532
+45
+3
+2,117
+188
+25
+2,910
+0
+(9)
+3
+0
+2,904
+21
+30,615
+77
+1,666
+12
+4
+75
+168
+16
+1,940
+106
+(12)
+4
+1
+2,040
+22
+190,798
+398
+6,202
+70
+46
+1,705
+1,043
+77
+9,144
+(106)
+(46)
+52
+(1)
+9,043
+22 substation
+17,014
+48
+453
+0
+9
+0
+92
+5
+559
+(4)
+0
+10
+0
+566
+22 transmission
+57,512
+95
+690
+37
+10
+1,194
+315
+19
+2,265
+(12)
+(13)
+11
+0
+2,251
+Total Primary
+1,112,362
+2,423
+38,864
+557
+152
+10,465
+0
+6,090
+478
+56,606
+529
+(369)
+171
+3
+56,940
+04
+10,109
+2,143
+0
+92
+55
+19
+2,309
+197
+0
+2
+2,508
+05
+2,021
+180
+0
+25
+11
+2
+218
+18
+0
+0
+236
+06
+3,048
+226
+145
+17
+3
+390
+0
+0
+390
+16
+11,540
+2,765
+41
+530
+63
+29
+3,428
+260
+(5)
+2
+3,685
+Total Lighting
+26,718
+0
+5,313
+41
+792
+0
+146
+53
+6,346
+475
+(5)
+4
+6,820
+Total Public Authority 
+98,253
+185
+2,299
+6,068
+539
+76
+8,982
+0
+0
+8,982
+25*
+4,090
+300
+529
+0
+12
+252
+22
+7
+822
+(4)
+0
+13
+0
+831
+Total Billed
+3,717,202
+6,267
+313,856
+13,980
+167
+94,500
+0
+20,373
+7,848
+450,723
+32,278
+(7,712)
+188
+508
+475,985
+Total Unbilled
+17,834
+883
+215
+0
+18
+1,116
+0
+1,116
+MFC Accrual
+236
+2
+238
+(232)
+(2)
+4
+MFC Other
+434
+4
+438
+0
+438
+Low Income Discount
+(10,163)
+(243)
+(10,406)
+143
+3
+(10,260)
+Grand Total
+3,735,036
+6,267
+304,576
+14,650
+167
+94,715
+0
+20,373
+7,629
+442,109
+32,421
+(7,944)
+188
+509
+467,283
+PSA Fixed Charges
+9,997
+9,997
+Intercompany Fuel & PSA Bill
+5,454
+5,454
+Grand Total Revenue
+457,560
+482,734
+Note:    Excludes Company Use Revenues and Sales
+* Demand is Contracted Demand
+ Reactive 
+Power   
+Revenue 
+Revenue 
+Tax     From  
+Increase
+ORANGE & ROCKLAND ELECTRIC
+FORECASTED ELECTRIC DELIVERY VOLUMES AND REVENUES BY SERVICE CLASSIFICATION FOR
+YEAR ENDING DECEMBER 31, 2022
+Temporary 
+ECA
+Volumes 
+(Thousands 
+kWh)
+Sum of    
+Monthly Billable  
+Demand (MW)
+Non Competitive 
+Delivery 
+Revenues at 
+Current Rates
+Competitive Service 
+Rates   
+BPP/MFC/Metering
+ Market Supply 
+Charge 
+Page 3 of 5
+SCHEDULE 4
+System Benefit 
+Charge
+Revenue Tax
+Total Revenue 
+At Current Rates
+Total 
+Revenue At 
+Proposed 
+Rates
+Proposed 
+Change in Non 
+Competitive 
+Rates
+Proposed 
+Change in 
+Competitive 
+Rates
+Proposed 
+Change in 
+Reactive Power 
+Revenue
+
+
+--- Page 40 ---
+EXHIBIT__(EFP-1)
+
+
+--- Page 41 ---
+2023
+ORANGE & ROCKLAND ELECTRIC
+FORECASTED ELECTRIC DELIVERY VOLUMES AND REVENUES BY SERVICE CLASSIFICATION FOR
+YEAR ENDING DECEMBER 31, 2023
+REVENUES ($000s)
+SC NO.
+(Column 1)
+(Column 2)
+(Column 3)
+(Column 4)
+(Column 5)
+(Column 6)
+(Column 7)
+(Column 8)
+(Column 9)
+(Column 10)
+1
+1,476,849
+184,698
+6,480
+55,229
+             
+7,823
+               
+6,076
+260,306
+19
+64,360
+6,535
+164
+1,758
+               
+341
+                  
+210
+9,007
+Total Residential
+1,541,209
+191,233
+6,644
+56,987
+0
+8,164
+6,286
+269,314
+2
+868,552
+3,278
+72,460
+6,622
+3
+17,888
+             
+4,601
+               
+863
+102,436
+20
+83,871
+203
+4,537
+160
+0
+689
+                  
+444
+                  
+50
+5,880
+Total Secondary
+952,423
+3,481
+76,996
+6,782
+3
+18,577
+0
+5,045
+913
+108,316
+2
+49,060
+144
+2,165
+84
+1
+1,089
+               
+260
+                  
+31
+3,630
+3
+288,455
+738
+14,153
+186
+32
+2,008
+               
+1,528
+               
+152
+18,059
+9
+219,228
+498
+8,774
+85
+34
+1,203
+               
+1,161
+               
+96
+11,354
+9 substation
+239,239
+360
+4,507
+36
+14
+1,071
+               
+1,265
+               
+59
+6,952
+9 transmission
+45,255
+111
+696
+57
+3
+2,750
+               
+240
+                  
+32
+3,778
+21
+30,889
+69
+1,522
+12
+4
+75
+                   
+164
+                  
+15
+1,791
+22
+192,406
+404
+6,286
+70
+46
+1,692
+               
+1,017
+               
+77
+9,188
+22 substation
+17,155
+51
+474
+0
+9
+-
+                      
+90
+                   
+5
+578
+22 transmission
+58,057
+98
+711
+36
+10
+1,190
+               
+308
+                  
+19
+2,273
+Total Primary
+1,139,744
+2,473
+39,288
+566
+152
+11,078
+0
+6,032
+486
+57,602
+04
+9,938
+2,106
+0
+89
+                   
+53
+                   
+19
+2,267
+05
+1,986
+175
+0
+22
+                   
+11
+                   
+2
+210
+06
+2,994
+224
+140
+                  
+16
+                   
+3
+382
+16
+11,351
+2,722
+40
+511
+                  
+60
+                   
+28
+3,361
+Total Lighting
+26,269
+0
+5,226
+40
+762
+0
+139
+52
+6,220
+Total Public Authority 
+100,743
+189
+2,344
+6,141
+               
+534
+                  
+77
+9,096
+25*
+3,981
+300
+527
+0
+12
+238
+                  
+21
+                   
+7
+805
+Total Billed
+3,764,369
+6,443
+315,614
+14,032
+167
+93,783
+0
+19,935
+7,821
+451,352
+Total Unbilled
+(25,890)
+(1,875)
+(470)
+                
+(38)
+(2,383)
+MFC Accrual
+278
+2
+280
+MFC Other
+428
+4
+432
+Low Income Discount
+(10,163)
+(243)
+(10,406)
+Grand Total
+3,738,479
+6,443
+303,576
+14,738
+167
+93,313
+0
+19,935
+7,546
+439,275
+PSA Fixed Charge
+10,147
+Intercompany Fuel & PSA Bill
+5,853
+Grand Total Revenue
+455,275
+Note:    Excludes Company Use Revenues and Sales
+* Demand is Contracted Demand
+Volumes 
+(Thousands 
+kWh)
+Sum of    
+Monthly Billable  
+Demand (MW)
+Non 
+Competitive 
+Delivery 
+Revenues at 
+Current Rates
+Competitive Service 
+Rates   
+BPP/MFC/Metering
+ Market Supply 
+Charge 
+ Reactive 
+Power 
+Revenue 
+EXHIBIT__(EFP-1)
+Temporary ECA
+System Benefit 
+Charge
+Revenue Tax
+Total Revenue
+SCHEDULE 4
+Page 4 of 5
+
+
+--- Page 42 ---
+2024
+ORANGE & ROCKLAND ELECTRIC
+FORECASTED ELECTRIC DELIVERY VOLUMES AND REVENUES BY SERVICE CLASSIFICATION FOR
+YEAR ENDING DECEMBER 31, 2024
+REVENUES ($000s)
+SC NO.
+(Column 1)
+(Column 2)
+(Column 3)
+(Column 4)
+(Column 5)
+(Column 6)
+(Column 7)
+(Column 8)
+(Column 9)
+(Column 10)
+1
+1,454,024
+183,162
+6,385
+51,395
+7,300
+5,933
+254,175
+19
+63,343
+6,442
+162
+1,654
+318
+205
+8,781
+Total Residential
+1,517,367
+189,603
+6,547
+53,049
+0
+7,618
+6,138
+262,955
+2
+865,196
+3,287
+72,592
+6,669
+3
+16,782
+4,344
+853
+101,242
+20
+83,656
+204
+4,568
+160
+0
+652
+420
+49
+5,849
+Total Secondary
+948,852
+3,491
+77,160
+6,829
+3
+17,434
+0
+4,764
+902
+107,092
+2
+48,849
+144
+2,162
+84
+1
+1,037
+245
+30
+3,559
+3
+271,875
+702
+13,468
+184
+32
+1,808
+1,365
+143
+17,000
+9
+207,155
+473
+8,354
+84
+34
+1,088
+1,040
+90
+10,690
+9 substation
+233,864
+353
+4,436
+36
+14
+967
+1,174
+56
+6,683
+9 transmission
+49,100
+123
+754
+63
+3
+2,871
+247
+33
+3,971
+21
+29,153
+64
+1,440
+12
+4
+67
+146
+14
+1,683
+22
+181,911
+375
+5,862
+68
+46
+1,532
+911
+72
+8,491
+22 substation
+16,190
+49
+459
+0
+9
+0
+80
+5
+553
+22 transmission
+54,819
+89
+651
+36
+10
+1,076
+275
+17
+2,065
+Total Primary
+1,092,916
+2,372
+37,586
+567
+152
+10,446
+0
+5,484
+460
+54,695
+04
+9,830
+2,076
+0
+84
+49
+19
+2,228
+05
+1,961
+173
+0
+21
+10
+2
+206
+06
+2,962
+222
+131
+15
+3
+370
+16
+11,225
+2,686
+41
+484
+56
+28
+3,295
+Total Lighting
+25,978
+0
+5,157
+41
+720
+0
+130
+52
+6,100
+Total Public Authority 
+99,182
+187
+2,320
+5,783
+498
+73
+8,674
+25*
+3,861
+300
+524
+0
+12
+218
+19
+7
+780
+Total Billed
+3,688,156
+6,350
+312,350
+13,984
+167
+87,650
+0
+18,513
+7,632
+440,295
+Total Unbilled
+20,077
+1,476
+412
+31
+1,919
+MFC Accrual
+410
+3
+413
+MFC Other
+396
+3
+399
+Low Income Discount
+(10,163)
+(243)
+(10,406)
+Grand Total
+3,708,233
+6,350
+303,663
+14,790
+167
+88,062
+0
+18,513
+7,426
+432,620
+PSA Fixed Charge
+10,490
+Intercompany Fuel & PSA Bill
+5,580
+Grand Total Revenue
+448,691
+Note:    Excludes Company Use Revenues and Sales
+* Demand is Contracted Demand
+EXHIBIT__(EFP-1)
+Temporary ECA
+System Benefit 
+Charge
+Revenue Tax
+Total Revenue
+SCHEDULE 4
+ Page 5 of 5
+Volumes 
+(Thousands 
+kWh)
+Sum of    
+Monthly Billable  
+Demand (MW)
+Non 
+Competitive 
+Delivery 
+Revenues at 
+Current Rates
+Competitive Service 
+Rates   
+BPP/MFC/Metering
+ Market Supply 
+Charge 
+ Reactive 
+Power 
+Revenue 

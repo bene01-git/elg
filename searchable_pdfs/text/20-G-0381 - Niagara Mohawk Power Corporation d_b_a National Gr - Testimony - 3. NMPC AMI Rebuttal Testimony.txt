@@ -1,0 +1,2529 @@
+--- Page 1 ---
+ 
+ 
+ 
+ 
+ 
+ 
+ 
+ 
+ 
+ 
+ 
+ 
+ 
+Before the Public Service Commission 
+ 
+NIAGARA MOHAWK POWER CORPORATION d/b/a NATIONAL GRID 
+ 
+Rebuttal Testimony 
+ 
+of 
+ 
+The Advanced Metering Infrastructure Panel 
+ 
+ 
+ 
+ 
+ 
+ 
+ 
+ 
+ 
+ 
+ 
+ 
+ 
+ 
+ 
+ 
+ 
+ 
+Dated:  December 16, 2020 
+
+
+--- Page 2 ---
+Rebuttal Testimony of the Advanced Metering Infrastructure Panel 
+i 
+ 
+TABLE OF CONTENTS 
+ 
+I. 
+Introduction ..................................................................................................1 
+II. 
+Purpose of Testimony ..................................................................................1 
+III. 
+The Commission’s AMI Order ....................................................................3 
+IV. 
+Staff AMI Panel Testimony .......................................................................15 
+V. 
+Multiple Intervenors...................................................................................17 
+VI. 
+Utility Intervention Unit ............................................................................18 
+VII. 
+Public Utility Law Project .........................................................................20 
+VIII. 
+Mission:data ...............................................................................................22 
+IX. 
+Conclusion .................................................................................................24 
+ 
+ 
+ 
+ 
+
+
+--- Page 3 ---
+Rebuttal Testimony of the Advanced Metering Infrastructure Panel 
+Page 1 of 24 
+ 
+I. 
+Introduction 
+1 
+Q. 
+Please 
+introduce 
+the 
+members 
+of 
+the 
+Advanced 
+Metering 
+2 
+Infrastructure Panel. 
+3 
+A. 
+The Advanced Metering Infrastructure Panel (“Panel”) consists of 
+4 
+Kristoffer P. Kiefer and Nathan W. Boyce. 
+5 
+ 
+6 
+Q. 
+Is this the same Panel that previously submitted direct testimony in 
+7 
+this proceeding? 
+8 
+A. 
+Yes.  The terms defined in the Panel’s direct testimony have the same 
+9 
+meanings here. 
+10 
+ 
+11 
+II. 
+Purpose of Testimony 
+12 
+Q. 
+What is the purpose of the Panel’s rebuttal testimony? 
+13 
+A. 
+The primary purpose of the Panel’s rebuttal testimony is to address the 
+14 
+requirements of the Commission’s “Order Authorizing Implementation 
+15 
+of Advanced Metering Infrastructure with Modifications,” issued 
+16 
+November 20, 2020, in Cases 17-E-0238 and 17-G-0239 (“AMI Order”).  
+17 
+The AMI Order directed the Company to address several specific topics 
+18 
+in its rebuttal testimony in this case, including: the potential for 
+19 
+enhancing the resiliency of the AMI communications network; 
+20 
+
+
+--- Page 4 ---
+Rebuttal Testimony of the Advanced Metering Infrastructure Panel 
+Page 2 of 24 
+ 
+implementation of AMI-enabled methane detectors; potential project 
+1 
+incentives; and updates to the proposed AMI project metrics.   
+2 
+ 
+3 
+ 
+The Commission also directed the Company to address several other 
+4 
+issues related to AMI implementation in the context of this proceeding, 
+5 
+including AMI project cost allocation and the amortization of 
+6 
+unrecovered investments associated with the Company’s existing 
+7 
+automated meter reading (“AMR”) meters and gas modules.    
+8 
+ 
+9 
+ 
+The AMI Order also directed the Company to take additional actions in 
+10 
+parallel with this proceeding, including filing an AMI Benefits 
+11 
+Implementation Plan within 60 days of the AMI Order, as well as filing a 
+12 
+revised Customer Engagement Plan within six months of the AMI Order. 
+13 
+ 
+14 
+ 
+In addition to addressing the requirements from the AMI Order, the Panel 
+15 
+also responds to certain recommendations included within the separate 
+16 
+testimonies filed on November 25, 2020, in these proceedings by the 
+17 
+Staff AMI Panel (“SAMIP”), Jeffry Pollock for Multiple Intervenors 
+18 
+(“MI”), Danielle Panko for the Utility Intervention Unit (“UIU”), 
+19 
+William D. Yates, CPA, for the Public Utility Law Project of New York, 
+20 
+
+
+--- Page 5 ---
+Rebuttal Testimony of the Advanced Metering Infrastructure Panel 
+Page 3 of 24 
+ 
+Inc. (“PULP”), and Michael Murray for Mission:data Coalition 
+1 
+(“Mission:data”).   
+2 
+ 
+3 
+Q. 
+Does the Panel sponsor any exhibits as part of its rebuttal testimony? 
+4 
+A. 
+Yes.  The Panel sponsors the following exhibits that were prepared and 
+5 
+compiled under our direction and supervision: 
+6 
+(i) 
+Exhibit ___ (AMIP-4R) Updated Summary of AMI-Related 
+7 
+Expenditures (FY22 to FY26); and 
+8 
+(ii) 
+Exhibit ___ (AMIP-7R) Updated List of AMI Project Metrics. 
+9 
+ 
+10 
+III. 
+The Commission’s AMI Order 
+11 
+Q. 
+Please summarize the AMI Order.   
+12 
+A. 
+The AMI Order approved the Company’s AMI proposal with 
+13 
+modifications.  The Commission’s approval is based on a six-year project 
+14 
+deployment schedule (two years of back-office systems followed by four 
+15 
+years of meter deployment) to begin in the second quarter of calendar 
+16 
+year 2021.  In approving the Company’s AMI proposal, the Commission 
+17 
+made several modifications discussed further below, including 
+18 
+adjustments to the benefits-cost analysis (“BCA”) used to support the 
+19 
+proposal, reducing data latency, requiring the development of an AMI 
+20 
+Benefits Implementation Plan, and the filing of a revised Customer 
+21 
+
+
+--- Page 6 ---
+Rebuttal Testimony of the Advanced Metering Infrastructure Panel 
+Page 4 of 24 
+ 
+Engagement Plan.  In addition, the Commission determined that issues 
+1 
+such as cost allocation and the amortization of unrecovered plant 
+2 
+balances of the equipment being displaced by the AMI program were 
+3 
+matters that were appropriate for resolution as part of this pending rate 
+4 
+case.   
+5 
+ 
+6 
+Q. 
+What does the AMI Order provide regarding AMI cost recovery? 
+7 
+A. 
+The AMI Order establishes a capital cost cap of $475.2 million through 
+8 
+the first six years of AMI implementation.  Because the Company intends 
+9 
+to commence AMI project implementation before new rates become 
+10 
+effective in this case (July 1, 2021), the Commission authorized the 
+11 
+Company to defer up to $3.335 million for AMI-related O&M costs 
+12 
+incurred prior to new base rates.   
+13 
+ 
+14 
+Q. 
+Did the AMI Order direct program changes that affect the forecast 
+15 
+costs of the project? 
+16 
+A.  
+Yes.  The Commission directed the Company to implement a reduced data 
+17 
+latency period of 15-minute intervals with 30-45 minute presentment for 
+18 
+residential and commercial and industrial (“C&I”) electric customers.  
+19 
+That incremental capability increases the forecast 20-year project costs by 
+20 
+$9.07 million.  During the period being reviewed in this case, this change 
+21 
+
+
+--- Page 7 ---
+Rebuttal Testimony of the Advanced Metering Infrastructure Panel 
+Page 5 of 24 
+ 
+increases project cost by $0.377 million ($0.312 million capital and 
+1 
+$0.065 million expense) for FY 2024, and $0.731 million ($0.552 million 
+2 
+capital and $0.179 million expense) for FY 2025.  These changes in the 
+3 
+capital investments and operating expenditures are reflected in Exhibit __ 
+4 
+(AMIP-4R), and the revenue requirement changes are described in the 
+5 
+rebuttal testimony of the Company’s Revenue Requirements Panel.  The 
+6 
+AMI Order did not change the data latency or presentment periods 
+7 
+associated with gas services.     
+8 
+ 
+9 
+Q. 
+What specific AMI project topics did the Commission direct the 
+10 
+Company to address in its rebuttal testimony in these cases?  
+11 
+A. 
+The AMI Order requires the Company to address the following topics in 
+12 
+its rebuttal testimony:  
+13 
+• The potential to increase the resiliency of the AMI 
+14 
+communication system through the use of batteries or similar 
+15 
+means. 
+16 
+• The Company’s AMI-enabled residential methane detector 
+17 
+(“RMD”) proposal. 
+18 
+• The potential for positive and/or negative incentives related to the 
+19 
+AMI project.  
+20 
+
+
+--- Page 8 ---
+Rebuttal Testimony of the Advanced Metering Infrastructure Panel 
+Page 6 of 24 
+ 
+• Metric reporting and the corresponding frequency and dates for 
+1 
+commencement of each metric report, whether other potential 
+2 
+AMI tracking metrics should be added or modified, as well as 
+3 
+targets for all metrics. 
+4 
+In the time since the Commission issued the AMI Order, the Company 
+5 
+has worked to address these topics, and the Panel provides an initial 
+6 
+assessment of each area, below.  The Company will continue to refine the 
+7 
+responses as it develops the related components of the Benefits 
+8 
+Implementation Plan and revised Customer Engagement Plan.   
+9 
+ 
+10 
+A. 
+Resiliency Enhancements to AMI Communications System 
+11 
+Q. 
+What did the AMI Order direct the Company to do with respect to 
+12 
+potential AMI communication system resiliency enhancements? 
+13 
+A. 
+The Commission directed the Company to assess its ability to enhance the 
+14 
+resiliency of the AMI communication system through the use of extended 
+15 
+batteries that can last days without power, solar, mobile access points, or 
+16 
+other solutions.  The Commission directed the Company to report on the 
+17 
+results of its assessment and proposed solutions in this rebuttal testimony. 
+18 
+ 
+19 
+Q. 
+Please describe the Company’s assessment of the resiliency of the 
+20 
+AMI communication system. 
+21 
+
+
+--- Page 9 ---
+Rebuttal Testimony of the Advanced Metering Infrastructure Panel 
+Page 7 of 24 
+ 
+A. 
+The importance of maintaining and enhancing the resiliency of the utility 
+1 
+system is becoming increasingly apparent, as more frequent and volatile 
+2 
+weather events impact customers and affect the provision of essential 
+3 
+services.  The AMI project will provide new opportunities for monitoring 
+4 
+system reliability and performance, and enable the Company to more 
+5 
+effectively identify and respond to system anomalies.   
+6 
+ 
+7 
+ 
+The Company believes that the communication system it plans to 
+8 
+implement as part of the AMI project will be sufficiently robust to support 
+9 
+reliable and resilient system operation.  Among the communication system 
+10 
+features that promote such resiliency are: expansive communications 
+11 
+gateways and routers, a self-healing network solution, and autonomous 
+12 
+optimization of the peer-to-peer mesh network.    
+13 
+ 
+14 
+ 
+The Company is considering potential further opportunities to enhance 
+15 
+AMI communication system resiliency that it can evaluate during the 
+16 
+implementation phase of the project.  Such opportunities may include 
+17 
+adding backup power sources, reinforcing high traffic portions of the 
+18 
+system, and/or installing devices on strategic feeder locations.  As the 
+19 
+Company continues to evaluate these technologies, the incremental costs, 
+20 
+and the potential for providing customers enhanced benefits, it will further 
+21 
+
+
+--- Page 10 ---
+Rebuttal Testimony of the Advanced Metering Infrastructure Panel 
+Page 8 of 24 
+ 
+refine its implementation plans and look for opportunities to advance 
+1 
+additional features to the AMI communication system.    
+2 
+ 
+3 
+ 
+B. 
+AMI-Enabled Residential Methane Detectors 
+4 
+Q. 
+What did the AMI Order require regarding AMI-enabled RMDs? 
+5 
+A.  
+The AMI Order notes the Commission’s awareness that AMI-enabled 
+6 
+methane detectors have been deployed by utilities to alert them to 
+7 
+potentially hazardous leaks, theft of service, and improper piping.  The 
+8 
+Commission also acknowledged the Company’s proposal in this rate case 
+9 
+to deploy AMI-enabled methane detectors and indicated that the 
+10 
+Company’s proposal should be addressed in this case.      
+11 
+ 
+12 
+Q. 
+What is the status of the Company’s AMI-enabled RMD proposal? 
+13 
+A. 
+The Company’s Gas Safety Panel proposed three related programs that 
+14 
+leverage the AMI-enabled technology: (i) Low Pressure Zone Smart Meter 
+15 
+Program; (ii) Smart Gas Meter AMI Integration; and (iii) Smart RMD 
+16 
+Pilot Program.  The Smart RMD Pilot Program is an incremental 
+17 
+investment to the AMI project that would install smart RMDs near 
+18 
+customer meters throughout the Company’s service territory to enable 
+19 
+real-time communication regarding potential gas and carbon monoxide 
+20 
+leaks.  Smart RMDs will monitor methane levels at customer premises and 
+21 
+
+
+--- Page 11 ---
+Rebuttal Testimony of the Advanced Metering Infrastructure Panel 
+Page 9 of 24 
+ 
+activate alarms locally, as well as through the Company’s AMI network, 
+1 
+in the event of a gas reading above the allowable limit. 
+2 
+ 
+3 
+ 
+In the testimony of the Staff Pipeline Safety Panel (“SPSP”), Staff states 
+4 
+its support for the Company’s proposal to install AMI-enabled RMDs (at 
+5 
+67).  The SPSP also recommends that the Company report annually on, at 
+6 
+a minimum: the number of smart gas meters and RMDs installed the 
+7 
+previous calendar year, the total meters and RMDs installed, the annual 
+8 
+and total costs of the installations, the alarms received in the control 
+9 
+center for the preceding year, and the actions taken for each alarm 
+10 
+received (at 67-68).  The Company’s Gas Safety Panel responds to (and 
+11 
+generally agrees with) the SPSP’s reporting recommendations in its 
+12 
+rebuttal testimony. 
+13 
+ 
+14 
+ 
+C. 
+Potential Incentives Under the AMI Project 
+15 
+Q. 
+What did the AMI Order provide regarding potential incentives 
+16 
+under the AMI project? 
+17 
+A.  
+The Commission denied the Company’s proposed Capital Expenditure 
+18 
+Efficiency Savings sharing mechanism, but expressed support for the 
+19 
+concept of incentives related to the AMI project.  Specifically, the 
+20 
+Commission noted that positive incentives could be appropriate where 
+21 
+
+
+--- Page 12 ---
+Rebuttal Testimony of the Advanced Metering Infrastructure Panel 
+Page 10 of 24 
+ 
+the Company takes actions to increase net benefits to customers through 
+1 
+things like significant deployment schedule advancement or other 
+2 
+actions.  The Commission also noted that negative incentives might be 
+3 
+warranted in cases where promised outcomes that are key to the 
+4 
+implementation and success of the AMI project are not achieved.  The 
+5 
+Commission stated that the consideration of incentives should be 
+6 
+evaluated holistically in the context of a base rate proceeding such as this 
+7 
+rate case and could be presented in the context of this rebuttal testimony.   
+8 
+ 
+9 
+Q. 
+Has the Company developed any proposed incentive mechanisms for 
+10 
+consideration at this time? 
+11 
+A. 
+The Company has not developed any alternative incentive mechanisms 
+12 
+for consideration at this time.  As the Company moves forward with the 
+13 
+project, it will consider potential frameworks for positive incentive 
+14 
+mechanisms that would incentivize the Company to identify and generate 
+15 
+significant additional value for customers.  Given the time constraints 
+16 
+presented between the AMI Order and preparation of rebuttal testimony, 
+17 
+as well as the AMI meter deployment schedule, the Company believes 
+18 
+such potential incentives are more appropriately addressed in the 
+19 
+Company’s next rate case or in another separate proceeding.   
+20 
+ 
+21 
+
+
+--- Page 13 ---
+Rebuttal Testimony of the Advanced Metering Infrastructure Panel 
+Page 11 of 24 
+ 
+Q. 
+Does the Company support the inclusion of negative incentives 
+1 
+related to AMI project outcomes? 
+2 
+A. 
+No.  The AMI Order already includes a capital expenditure cap to ensure 
+3 
+the project solution is delivered in line with deployment expectations.  In 
+4 
+addition, the AMI Order requires the development of a Benefits 
+5 
+Implementation Plan, as well as revisions to the Customer Engagement 
+6 
+Plan, to further promote customer actions intended to drive benefits, 
+7 
+some of which are beyond the utility’s control (e.g., customer adoption 
+8 
+and response to energy usage information or adoption of a time-varying 
+9 
+pricing (“TVP”) rate structure).  Therefore, the Company does not 
+10 
+believe it would be appropriate to impose a negative incentive for new 
+11 
+types of performance expectations, particularly where those expectations 
+12 
+are outside the Company’s control. 
+13 
+ 
+14 
+ 
+D. 
+Metrics and Reporting 
+15 
+Q. 
+What did the AMI Order provide regarding AMI project metric 
+16 
+reporting? 
+17 
+A. 
+In its project proposal, the Company proposed reporting to the 
+18 
+Commission on several implementation and performance metrics, 
+19 
+including: awareness and customer knowledge of AMI, customer 
+20 
+participation in AMI platforms and functionality, and customer 
+21 
+
+
+--- Page 14 ---
+Rebuttal Testimony of the Advanced Metering Infrastructure Panel 
+Page 12 of 24 
+ 
+participation in pricing programs.  The Commission directed the 
+1 
+Company to expand the metrics it proposed to report.  Specifically, the 
+2 
+Commission directed the Company to include reporting on the following 
+3 
+(pp. 46-47): 
+4 
+• A metric to track the number of customers using the application 
+5 
+for smart phones and other devices that provides real-time usage 
+6 
+data under the Enablement/Empowerment/Tools category. 
+7 
+• Regarding Green Button Connect My Data (“GBC”), the 
+8 
+Company is to add two metrics: track the number of third-parties 
+9 
+who are onboarded with GBC; track the number of customers 
+10 
+who 
+are 
+sharing 
+their 
+data 
+via 
+GBC 
+under 
+the 
+11 
+Enablement/Empowerment/Tools category.  The Company also is 
+12 
+required to ensure that its GBC is certified and meets GBC 
+13 
+Alliance Standards once complete. 
+14 
+• Regarding customers that opt out of receiving an AMI meter, 
+15 
+provide a breakdown by the following customer types:  
+16 
+residential (all), low-income customers enrolled in the Energy 
+17 
+Affordability Program, small C&I, and large C&I. 
+18 
+• Regarding rates, the Commission deemed the metric unnecessary 
+19 
+as TVP is not approved at this time.   
+20 
+
+
+--- Page 15 ---
+Rebuttal Testimony of the Advanced Metering Infrastructure Panel 
+Page 13 of 24 
+ 
+• Add a metric to track the number of low voltage and outage cases 
+1 
+that the Company positively confirms through the AMI system. 
+2 
+• Within the reporting metric on the achievements of key program 
+3 
+milestones under the AMI Program Progress category, National 
+4 
+Grid shall also identify and track delays in meeting key program 
+5 
+milestones, the cause of such delays, and updates to the project 
+6 
+schedule by key milestone. National Grid shall include the key 
+7 
+milestones on which it will report. At a minimum these key 
+8 
+milestones shall include: progress under the AMI Benefits 
+9 
+Implementation Plan that is further discussed below, use of AMI 
+10 
+data for complex billing, and progress under the Customer 
+11 
+Engagement Plan. 
+12 
+ 
+13 
+Q. 
+Did the Commission direct the inclusion of any other metrics? 
+14 
+A. 
+The AMI Order provides that the Company, Staff, and intervenors in this 
+15 
+rate case should assess whether any other metrics should be added or 
+16 
+modified. Further, the Commission directs that the Company should 
+17 
+propose the commencement date for each metric report, the frequency of 
+18 
+each metric reporting, and the targets for all metrics.  The Commission 
+19 
+directed the Company to file rebuttal/update testimony in this proceeding 
+20 
+
+
+--- Page 16 ---
+Rebuttal Testimony of the Advanced Metering Infrastructure Panel 
+Page 14 of 24 
+ 
+that describes its AMI metrics proposals so as to provide Staff and 
+1 
+intervenors the opportunity to consider and respond to those proposals. 
+2 
+ 
+3 
+Q. 
+Please describe the metrics the Company is proposing.   
+4 
+A. 
+The updated AMI program metrics are captured in Exhibit___(AMIP-
+5 
+7R).  In the table, the Company removed references to the rate metrics, 
+6 
+identified targets for some of the deployment-related items and GBC, 
+7 
+proposed commencement dates, clarified the definitions of some metrics 
+8 
+(e.g., incremental load reductions in MWh from volt-VAR optimization), 
+9 
+and added a new metric to track emissions reductions attributed to 
+10 
+avoided meter investigations and remote connects/disconnects.  Many of 
+11 
+the customer-related metrics, as well as some of the deployment items, 
+12 
+include benefits, the timelines for which are subject to further 
+13 
+development or refinement as part of the Benefits Implementation Plan 
+14 
+and revisions to the Customer Engagement Plan.  The Company intends 
+15 
+to update the metrics as those related items are completed.     
+16 
+ 
+17 
+Q. 
+Does the Panel have any other matters raised in the AMI Order that 
+18 
+it wishes to address? 
+19 
+A. 
+Yes, there are two issues.  First, the AMI Order addressed the issue of the 
+20 
+Company’s implementation of the GBC project.  On December 10, 2020, 
+21 
+
+
+--- Page 17 ---
+Rebuttal Testimony of the Advanced Metering Infrastructure Panel 
+Page 15 of 24 
+ 
+the Company filed a Petition for Clarification or Reconsideration in 
+1 
+Cases 17-E-0238 and 17-G-0239 on the narrow issue of the timing for 
+2 
+the Company’s implementation of GBC. 
+3 
+ 
+4 
+ 
+Second, the AMI Order addressed the issue of meter testing for new AMI 
+5 
+meters but did not address the Company’s request for waiver of testing 
+6 
+for the approximately 1.7 million AMR meters the Company will be 
+7 
+retiring from service after the installation of the AMI meters.  The project 
+8 
+costs approved by the Commission are based on such mass scale 
+9 
+retirement testing not being required, and the Panel assumes that was the 
+10 
+Commission’s intention in the AMI Order, although not expressly stated.   
+11 
+ 
+12 
+IV. 
+Staff AMI Panel Testimony 
+13 
+Q. 
+What issues does the SAMIP address in its testimony? 
+14 
+A. 
+The testimony of the SAMIP provides a summary of the Commission’s 
+15 
+AMI Order.  The SAMIP also recommends that the Company implement 
+16 
+a downward only reconciliation for both the IT-related and non-IT-
+17 
+related O&M expenses incurred under the AMI project (at 16).      
+18 
+ 
+19 
+
+
+--- Page 18 ---
+Rebuttal Testimony of the Advanced Metering Infrastructure Panel 
+Page 16 of 24 
+ 
+Q. 
+Does the Company agree with the SAMIP’s recommendation for a 
+1 
+downward-only tracker for AMI project IT-related and non-IT-
+2 
+related O&M expense? 
+3 
+A. 
+No.  The Company is subject to a comprehensive downward-only capital 
+4 
+investment tracker, as well as an overall capital cost cap on the AMI 
+5 
+project.  Given these mechanisms, the Company is exposed to additional 
+6 
+risks of cost overruns for both capital and expense, even if the project 
+7 
+ultimately delivers value far in excess of project costs.  Imposing 
+8 
+additional downward trackers on O&M expense would increase the risk 
+9 
+that the Company under-recovers its costs, while not rewarding the 
+10 
+Company for effectively managing and reducing O&M costs.  For these 
+11 
+reasons, the Company opposes the proposed AMI project O&M trackers.   
+12 
+ 
+13 
+Q. 
+Did Staff state a position on the amortization of unrecovered meter 
+14 
+and gas module capital balances?  
+15 
+A. 
+Yes, Staff Witness Paul Darmetko addresses Company’s proposal to 
+16 
+amortize the unrecovered capital balances of electric AMR meters and 
+17 
+gas ERT modules commencing in the Rate Year.  The Company 
+18 
+proposes recovering the unamortized costs of these investments over ten 
+19 
+years, at a rate of approximately $10 million for the electric AMR meter 
+20 
+balance, and $2 million per year for the gas ERT modules.  In the AMI 
+21 
+
+
+--- Page 19 ---
+Rebuttal Testimony of the Advanced Metering Infrastructure Panel 
+Page 17 of 24 
+ 
+Order, the Commission found it reasonable to recover costs associated 
+1 
+with prudently incurred AMR meter and gas module investments (at 43).  
+2 
+Likewise, Staff Witness Darmetko does not question the reasonableness 
+3 
+of the Company’s recovery of these costs but recommends that such 
+4 
+recovery not be addressed in this case, and instead be addressed in a 
+5 
+future proceeding (at 21-22). 
+6 
+ 
+7 
+Q. 
+Does the Company agree with Staff Witness Darmetko’s 
+8 
+recommendation? 
+9 
+A. 
+No.  The Company explains its disagreement with this recommendation 
+10 
+in the rebuttal testimony of the Revenue Requirements Panel.   
+11 
+    
+12 
+V. 
+Multiple Intervenors 
+13 
+Q. 
+Please summarize MI’s testimony regarding the AMI project. 
+14 
+A. 
+MI actively participated in the AMI collaborative that shaped the 
+15 
+Company’s AMI project proposal.  The testimony of MI’s Witness Jeffry 
+16 
+Pollock notes that the Commission reserved the issue of AMI cost 
+17 
+allocation to these proceedings (at 41).  Mr. Pollock states that, subject to 
+18 
+further review, the Company’s proposed AMI cost allocation framework 
+19 
+did not raise any concerns for MI at this time (at 42).    
+20 
+ 
+21 
+
+
+--- Page 20 ---
+Rebuttal Testimony of the Advanced Metering Infrastructure Panel 
+Page 18 of 24 
+ 
+VI. 
+Utility Intervention Unit 
+1 
+Q. 
+What recommendations does UIU make regarding the Company’s 
+2 
+AMI project?  
+3 
+A. 
+UIU also was an active participant in the AMI collaborative in Cases 17-
+4 
+E-0238 and 17-G-0239.  In the testimony of UIU Witness Danielle Panko, 
+5 
+UIU raises two principal issues related to the AMI project: (1) cost 
+6 
+allocation; and (2) opt-out charges.  
+7 
+ 
+8 
+Q. 
+Does the Panel Agree with UIU’s recommendations on cost 
+9 
+allocation? 
+10 
+A. 
+No.  UIU Witness Panko describes UIU’s concern with the Company’s 
+11 
+proposed cost allocation for the AMI project and points to a January 2020 
+12 
+report from the Regulatory Assistance Project and a 2016 order from the 
+13 
+Maryland Public Service Commission in support of allocating a greater 
+14 
+proportion of AMI project costs to the C&I customer classes and away 
+15 
+from the residential class (at 63-68).  UIU Witness Panko recommends 
+16 
+that the Commission establish a distinct process and timeframes for 
+17 
+addressing AMI cost allocation and rate design issues, which should 
+18 
+commence following the Company’s filing of the Benefits Implementation 
+19 
+Plan as directed in the AMI Order (at 68).  UIU Witness Panko also states 
+20 
+that “this is a one-year litigated case; [therefore] the Company’s proposed 
+21 
+
+
+--- Page 21 ---
+Rebuttal Testimony of the Advanced Metering Infrastructure Panel 
+Page 19 of 24 
+ 
+AMI cost allocators would apply in Rate Year 1, not for the lifetime of the 
+1 
+investment as the Company testimony appears to propose” (at 57-58).  
+2 
+ 
+3 
+ 
+The AMI collaborative provided stakeholders an opportunity to propose 
+4 
+and advocate for their preferred cost allocation approach.  UIU and other 
+5 
+participants in the collaborative actively engaged and discussed with the 
+6 
+Company and other stakeholders the reasons for the cost allocation 
+7 
+methodologies they proposed.  Based on the information generated 
+8 
+through the collaborative process, the Company set forth its preferred cost 
+9 
+allocation approach and believes that allocation methodology is reasonable 
+10 
+and should be adopted by the Commission.   
+11 
+ 
+12 
+Q. 
+Does the Panel agree with UIU Witness Panko’s recommendations 
+13 
+regarding the AMI opt-out charges?  
+14 
+A. 
+No.  The proposed AMI opt-out charges are cost-based charged and are 
+15 
+aligned with the opt-out charges applicable today for customers who opt 
+16 
+out of automated metering reading (“AMR”).  UIU’s proposal to 
+17 
+significantly reduce the opt-out charges would create a significant cross 
+18 
+subsidy from customers with AMI meters to those without such meters, 
+19 
+necessitate continuation of the legacy processes, infrastructure and labor, 
+20 
+and potentially incentivize customers to delay adoption of AMI 
+21 
+
+
+--- Page 22 ---
+Rebuttal Testimony of the Advanced Metering Infrastructure Panel 
+Page 20 of 24 
+ 
+technology, which could significantly impact implementation costs, 
+1 
+potentially affect network performance, and reduce the benefits to be 
+2 
+realized from the implementation of AMI technology.     
+3 
+ 
+4 
+VII. 
+Public Utility Law Project 
+5 
+Q. 
+Does the Company agree with PULP’s testimony regarding the AMI 
+6 
+Project? 
+7 
+A. 
+No.  The assertion by PULP Witness William D. Yates, CPA, that the 
+8 
+business case presented in Cases 17-E-0238 and 17-G-0239 does not 
+9 
+warrant the roll-out of AMI ignores the rigorous review and thorough 
+10 
+consideration that took place as part of the collaborative process.  The 
+11 
+Commission’s AMI Order documented the extent of review by the 
+12 
+Company, Staff, and other parties that resulted in the AMI project 
+13 
+approved by the Commission (with modifications).  Further, in 
+14 
+considering the AMI project BCA, PULP Witness Yates criticizes the 
+15 
+Company’s use of TVP “opt-out” scenario assumptions to calculate the 
+16 
+BCA (at 31-32).  In approving the project, however, the Commission 
+17 
+modified the analysis to use an “opt-in” scenario; finding in the AMI 
+18 
+Order that “the use of conservative benefit assumptions suggests the 
+19 
+benefit-cost ratio is durably above one” (at 36).  Thus, even using “opt-in” 
+20 
+scenario, rather than “opt-out” assumption opposed by PULP Witness 
+21 
+
+
+--- Page 23 ---
+Rebuttal Testimony of the Advanced Metering Infrastructure Panel 
+Page 21 of 24 
+ 
+Yates, the Commission still determined that the AMI project provided 
+1 
+sufficient value for the Company to proceed.  Although PULP does not 
+2 
+agree with the outcome, that does not mean the outcome is not 
+3 
+appropriate.  The Commission considered all the information that was 
+4 
+before it, determined that the proposed AMI project is beneficial for 
+5 
+customers, helps achieve the State’s policy objectives, and approved it. 
+6 
+ 
+7 
+Q. 
+Does the Company agree with PULP’s testimony regarding the 
+8 
+Company’s use of the Clifton Park REV Demonstration to obtain 
+9 
+information to guide decisions on AMI and TVP? 
+10 
+A. 
+Although the Company agrees that having data from additional locations 
+11 
+that provide greater variability and diversity of customer types would be 
+12 
+informative and helpful in understanding potential responses and customer 
+13 
+behaviors, the Panel believes the information from the Clifton Park 
+14 
+Demonstration will provide useful insights as the Company develops and 
+15 
+tunes customer offerings in the AMI environment.  Moreover, at this time, 
+16 
+Clifton Park is the only community in the Company’s service territory 
+17 
+with AMI meters; so, additional pilot opportunities are not immediately 
+18 
+available.  Further, the Commission’s AMI Order deferred the 
+19 
+implementation of a TVP rate design to this proceeding, or even a 
+20 
+
+
+--- Page 24 ---
+Rebuttal Testimony of the Advanced Metering Infrastructure Panel 
+Page 22 of 24 
+ 
+subsequent proceeding, including the Clifton Park innovative pricing 
+1 
+proceeding (Case 19-E-0111).   
+2 
+ 
+3 
+Q.  
+What is the Company’s position regarding PULP Witness Yates’ 
+4 
+testimony on HEPFA compliance in the context of remote service 
+5 
+disconnections? 
+6 
+A. 
+The Company complies with HEFPA in its operations, including in the 
+7 
+context of service disconnections, and will continue to do so in the AMI 
+8 
+environment. Leveraging remote service disconnections will not 
+9 
+circumvent any protections afforded by HEFPA. The Company will 
+10 
+continue to follow all HEFPA provisions, including a final in-person 
+11 
+premise visitation, with the only modification resulting from the 
+12 
+disconnect occurring remotely, upon completion of all current protocols.  
+13 
+ 
+14 
+VIII. Mission:data 
+15 
+Q. 
+Does the Company agree with Mission:data’s recommended 
+16 
+moratorium on allowing use of any distributed intelligence capability 
+17 
+associated with AMI meters (at 5, 23)?   
+18 
+A. 
+No.  The Company does not agree that a moratorium on the potential use 
+19 
+of any distributed intelligence capabilities on the AMI meters is necessary 
+20 
+or reasonable.  The Company is charged with operating its system to 
+21 
+
+
+--- Page 25 ---
+Rebuttal Testimony of the Advanced Metering Infrastructure Panel 
+Page 23 of 24 
+ 
+provide safe and reliable service for the benefit of customers, and is 
+1 
+subject to appropriate codes of conduct to assure fair dealing.  A 
+2 
+moratorium that could deprive customers of access to the advanced 
+3 
+functionality available through AMI meters, including home-area network 
+4 
+capabilities, would delay and limit benefits and stifle progress towards 
+5 
+achieving a cleaner, more dynamic energy market. 
+6 
+ 
+7 
+Moreover, the benefits relied upon by the Company to support the AMI 
+8 
+project do not include any benefits directly related to distributed 
+9 
+intelligence at the meter.  Nevertheless, the Company recognizes potential 
+10 
+value and benefits that could be realized from distributed intelligence 
+11 
+functionality.  The Company, therefore, welcomes continued dialog with 
+12 
+Staff and other stakeholders regarding AMI distributed intelligence.    
+13 
+ 
+14 
+Q. 
+Please comment on Mission:data’s assertion that Niagara Mohawk 
+15 
+can discriminate against competitors to the detriment of customers (at 
+16 
+18-20).   
+17 
+A. 
+As stated above, the Company is subject to comprehensive code of 
+18 
+conduct designed to prevent the type of behavior Mission:data is 
+19 
+concerned about.  The Company is required to ensure the security of its 
+20 
+assets and customer information and intends to assure such security is 
+21 
+
+
+--- Page 26 ---
+Rebuttal Testimony of the Advanced Metering Infrastructure Panel 
+Page 24 of 24 
+ 
+safeguarded; however, the Company has no intention to unreasonably 
+1 
+limit third-party vendor solutions in this area. 
+2 
+  
+3 
+IX. 
+Conclusion 
+4 
+Q. 
+Does that conclude the Panel’s rebuttal testimony? 
+5 
+A. 
+Yes.
+6 
+
+
+--- Page 27 ---
+Rebuttal Testimony of the Advanced Metering Infrastructure Panel 
+ 
+ 
+ 
+ 
+INDEX OF EXHIBITS 
+ 
+ 
+Exhibit ___ (AMIP-4R):  
+Updated Summary of AMI-Related Expenditures (FY22 to FY26) 
+ 
+Exhibit ___ (AMIP-7R):  
+Updated List of AMI Project Metrics 
+ 
+ 
+ 
+ 
+ 
+ 
+ 
+ 
+ 
+ 
+ 
+ 
+ 
+ 
+ 
+ 
+ 
+ 
+ 
+ 
+ 
+
+
+--- Page 28 ---
+Rebuttal Testimony of the Advanced Metering Infrastructure Panel 
+ 
+ 
+ 
+ 
+ 
+ 
+ 
+Exhibit ___ (AMIP-4R):  
+Updated Summary of AMI-Related Expenditures (FY22 to FY26) 
+ 
+ 
+ 
+ 
+ 
+ 
+ 
+ 
+ 
+ 
+ 
+ 
+ 
+ 
+ 
+ 
+ 
+ 
+ 
+ 
+ 
+ 
+
+
+--- Page 29 ---
+Exhibit___(AMIP-4R)
+Schedule 1
+1 of 2
+AMI Project Total
+FY22
+FY23
+FY24
+FY25
+FY26
+Electric
+32,579,137
+$        
+34,781,688
+$       
+80,800,894
+$         
+125,659,920
+$       
+126,102,584
+$       
+Capex
+17,633,973
+$                   
+19,676,791
+$                   
+64,042,260
+$                      
+108,347,122
+$                    
+111,236,832
+$                    
+370
+1,352,935
+$                       
+7,423,734
+$                       
+60,694,529
+$                         
+104,262,397
+$                       
+105,047,669
+$                       
+397 - Comm
+-
+$                                 
+-
+$                                 
+2,065,461
+$                           
+3,512,555
+$                           
+3,561,730
+$                           
+Hardware
+2,444,296
+$                       
+1,525,327
+$                       
+990,070
+$                              
+387,038
+$                              
+-
+$                                     
+Software
+13,836,741
+$                     
+10,727,730
+$                     
+292,199
+$                              
+185,132
+$                              
+2,627,432
+$                           
+Opex
+14,945,164
+$                   
+15,104,897
+$                   
+15,562,926
+$                      
+15,178,354
+$                      
+12,688,513
+$                      
+901
+-
+$                                 
+-
+$                                 
+1,538,286
+$                           
+647,926
+$                              
+1,081,448
+$                           
+902
+-
+$                                 
+-
+$                                 
+162,937
+$                              
+457,487
+$                              
+764,335
+$                              
+903
+-
+$                                 
+913,414
+$                          
+2,770,580
+$                           
+3,553,660
+$                           
+3,955,889
+$                           
+908
+7,526,637
+$                       
+1,120,617
+$                       
+4,826,365
+$                           
+4,288,683
+$                           
+4,402,600
+$                           
+935
+-
+$                                 
+-
+$                                 
+205,499
+$                              
+565,123
+$                              
+924,746
+$                              
+OpEx
+7,418,527
+$                       
+13,070,866
+$                     
+6,059,258
+$                           
+8,528,373
+$                           
+9,590,382
+$                           
+Benefit
+-
+$                                 
+-
+$                                 
+-
+$                                     
+(2,862,897)
+$                          
+(8,030,888)
+$                          
+COR
+-
+$                                
+-
+$                                
+1,195,708
+$                         
+2,134,444
+$                         
+2,177,240
+$                         
+108: 370
+-
+$                                 
+-
+$                                 
+1,195,708
+$                           
+2,134,444
+$                           
+2,177,240
+$                           
+Gas
+11,472,429
+$        
+12,263,181
+$       
+25,496,783
+$         
+39,025,564
+$         
+40,375,168
+$         
+Capex
+6,335,704
+$                     
+7,153,247
+$                     
+18,203,427
+$                      
+29,780,696
+$                      
+30,848,014
+$                      
+381
+-
+$                                 
+-
+$                                 
+2,772,481
+$                           
+4,953,731
+$                           
+5,057,759
+$                           
+382
+-
+$                                 
+-
+$                                 
+710,110
+$                              
+1,268,789
+$                           
+1,295,434
+$                           
+397 - Comm
+-
+$                                 
+-
+$                                 
+1,476,613
+$                           
+2,555,971
+$                           
+2,588,658
+$                           
+397 - ERT
+502,688
+$                          
+2,758,318
+$                       
+12,767,790
+$                         
+20,789,612
+$                         
+20,929,929
+$                         
+Hardware
+908,188
+$                          
+566,741
+$                          
+367,865
+$                              
+143,806
+$                              
+-
+$                                     
+Software
+4,924,828
+$                       
+3,828,188
+$                       
+108,568
+$                              
+68,787
+$                                
+976,233
+$                              
+Opex
+5,136,725
+$                     
+5,109,934
+$                     
+5,305,167
+$                         
+5,695,281
+$                         
+5,905,893
+$                         
+901
+-
+$                                 
+-
+$                                 
+571,556
+$                              
+240,740
+$                              
+401,816
+$                              
+903
+-
+$                                 
+195,126
+$                          
+706,932
+$                              
+941,097
+$                              
+970,311
+$                              
+908
+2,796,552
+$                       
+416,370
+$                          
+1,793,255
+$                           
+1,593,477
+$                           
+1,635,804
+$                           
+935
+-
+$                                 
+-
+$                                 
+-
+$                                     
+-
+$                                     
+-
+$                                     
+OpEx
+2,340,173
+$                       
+4,498,439
+$                       
+2,233,423
+$                           
+3,150,474
+$                           
+3,544,702
+$                           
+Benefit
+-
+$                                 
+-
+$                                 
+-
+$                                     
+(230,506)
+$                             
+(646,740)
+$                             
+COR
+-
+$                                
+-
+$                                
+1,988,189
+$                         
+3,549,587
+$                         
+3,621,262
+$                         
+108: 382
+-
+$                                 
+-
+$                                 
+382,367
+$                              
+683,194
+$                              
+697,541
+$                              
+108: 397 ERT
+-
+$                                 
+-
+$                                 
+1,605,822
+$                           
+2,866,393
+$                           
+2,923,721
+$                           
+Grand Total
+44,051,566
+$  
+47,044,869
+$ 
+106,297,677
+$ 
+164,685,484
+$ 
+166,477,753
+$  
+AMI CapEx Total
+23,969,677
+$                   
+26,830,038
+$                   
+82,245,687
+$                      
+138,127,818
+$                    
+142,084,846
+$                    
+AMI OpEx Total
+20,081,889
+$                   
+20,214,831
+$                   
+20,868,092
+$                      
+20,873,635
+$                      
+18,594,405
+$                      
+AMI COR Total
+-
+$                                
+-
+$                                
+3,183,897
+$                         
+5,684,031
+$                         
+5,798,502
+$                         
+Electric Business AMI
+FY22
+FY23
+FY24
+FY25
+FY26
+NiMo
+$8,879,572
+$9,457,765
+$73,459,367
+$116,559,377
+$113,884,770
+Capex
+$1,352,935
+$7,423,734
+$62,759,991
+$107,774,952
+$108,609,399
+370
+$1,352,935
+$7,423,734
+$60,694,529
+$104,262,397
+$105,047,669
+397 - Comm
+$0
+$0
+$2,065,461
+$3,512,555
+$3,561,730
+Opex
+$7,526,637
+$2,034,031
+$9,503,668
+$6,649,981
+$3,098,131
+901
+$0
+$0
+$1,538,286
+$647,926
+$1,081,448
+902
+$0
+$0
+$162,937
+$457,487
+$764,335
+903
+$0
+$913,414
+$2,770,580
+$3,553,660
+$3,955,889
+908
+$7,526,637
+$1,120,617
+$4,826,365
+$4,288,683
+$4,402,600
+935
+$0
+$0
+$205,499
+$565,123
+$924,746
+Benefit
+$0
+$0
+$0
+($2,862,897)
+($8,030,888)
+COR
+$0
+$0
+$1,195,708
+$2,134,444
+$2,177,240
+108: 370
+$0
+$0
+$1,195,708
+$2,134,444
+$2,177,240
+ServCo
+$0
+$7,728,997
+$2,489,809
+$4,361,352
+$6,225,045
+Opex
+$0
+$7,728,997
+$2,489,809
+$4,361,352
+$6,225,045
+Grand Total
+$8,879,572
+$17,186,762
+$75,949,176
+$120,920,729
+$120,109,815
+Electric BU CapEx Total
+$1,352,935
+$7,423,734
+$62,759,991
+$107,774,952
+$108,609,399
+Electric BU OpEx Total
+$7,526,637
+$9,763,028
+$11,993,477
+$11,011,333
+$9,323,176
+Electric BU COR Total
+$0
+$0
+$1,195,708
+$2,134,444
+$2,177,240
+
+
+--- Page 30 ---
+Exhibit___(AMIP-4R)
+Schedule 1
+2 of 2
+Gas Business AMI
+FY22
+FY23
+FY24
+FY25
+FY26
+NiMo
+$3,299,240
+$3,369,813
+$22,786,928
+$35,662,498
+$35,854,234
+Capex
+$502,688
+$2,758,318
+$17,726,995
+$29,568,103
+$29,871,781
+381
+$0
+$0
+$2,772,481
+$4,953,731
+$5,057,759
+382
+$0
+$0
+$710,110
+$1,268,789
+$1,295,434
+397 - Comm
+$0
+$0
+$1,476,613
+$2,555,971
+$2,588,658
+397 - ERT
+$502,688
+$2,758,318
+$12,767,790
+$20,789,612
+$20,929,929
+Opex
+$2,796,552
+$611,495
+$3,071,744
+$2,544,808
+$2,361,191
+901
+$0
+$0
+$571,556
+$240,740
+$401,816
+903
+$0
+$195,126
+$706,932
+$941,097
+$970,311
+908
+$2,796,552
+$416,370
+$1,793,255
+$1,593,477
+$1,635,804
+935
+$0
+$0
+$0
+$0
+$0
+Benefit
+$0
+$0
+$0
+($230,506)
+($646,740)
+COR
+$0
+$0
+$1,988,189
+$3,549,587
+$3,621,262
+108: 382
+$0
+$0
+$382,367
+$683,194
+$697,541
+108: 397 ERT
+$0
+$0
+$1,605,822
+$2,866,393
+$2,923,721
+ServCo
+$0
+$2,871,740
+$925,099
+$1,620,478
+$2,312,940
+Opex
+$0
+$2,871,740
+$925,099
+$1,620,478
+$2,312,940
+Grand Total
+$3,299,240
+$6,241,553
+$23,712,026
+$37,282,976
+$38,167,174
+Gas BU CapEx Total
+$502,688
+$2,758,318
+$17,726,995
+$29,568,103
+$29,871,781
+Gas BU OpEx Total
+$2,796,552
+$3,483,235
+$3,996,842
+$4,165,285
+$4,674,131
+Gas BU COR Total
+$0
+$0
+$1,988,189
+$3,549,587
+$3,621,262
+IT AMI
+FY22
+FY23
+FY24
+FY25
+FY26
+Electric
+$23,699,565
+$17,594,925
+$4,851,718
+$4,739,191
+$5,992,769
+Capex
+$16,281,037
+$12,253,057
+$1,282,269
+$572,170
+$2,627,432
+Hardware
+$2,444,296
+$1,525,327
+$990,070
+$387,038
+$0
+Software
+$13,836,741
+$10,727,730
+$292,199
+$185,132
+$2,627,432
+Opex
+$7,418,527
+$5,341,868
+$3,569,448
+$4,167,021
+$3,365,337
+OpEx
+$7,418,527
+$5,341,868
+$3,569,448
+$4,167,021
+$3,365,337
+Gas
+$8,173,189
+$6,021,629
+$1,784,756
+$1,742,588
+$2,207,995
+Capex
+$5,833,016
+$4,394,929
+$476,432
+$212,592
+$976,233
+Hardware
+$908,188
+$566,741
+$367,865
+$143,806
+$0
+Software
+$4,924,828
+$3,828,188
+$108,568
+$68,787
+$976,233
+Opex
+$2,340,173
+$1,626,700
+$1,308,324
+$1,529,996
+$1,231,762
+OpEx
+$2,340,173
+$1,626,700
+$1,308,324
+$1,529,996
+$1,231,762
+Grand Total
+$31,872,754
+$23,616,554
+$6,636,474
+$6,481,779
+$8,200,764
+IT CapEx Total
+$22,114,053
+$16,647,986
+$1,758,702
+$784,762
+$3,603,665
+IT OpEx Total
+$9,758,700
+$6,968,568
+$4,877,773
+$5,697,017
+$4,597,099
+
+
+--- Page 31 ---
+Rebuttal Testimony of the Advanced Metering Infrastructure Panel 
+ 
+ 
+ 
+ 
+ 
+ 
+ 
+Exhibit ___ (AMIP-7R):  
+Updated List of AMI Project Metrics 
+ 
+ 
+ 
+ 
+ 
+ 
+ 
+ 
+ 
+ 
+ 
+ 
+ 
+ 
+ 
+ 
+
+
+--- Page 32 ---
+Exhibit___(AMIP-7R) 
+Schedule 1 
+Page 1 of 5 
+ 
+ 
+ 
+In accordance with the AMI Order,1 Niagara Mohawk Power Corporation d/b/a National Grid (“National Grid” or the “Company”) 
+provides an update of the advanced metering infrastructure (“AMI”) / smart meter metrics and reporting requirements initially proposed 
+as part of its AMI Implementation Plan Report.2  Many of the metric targets and reporting dates are tied to the development of the 
+Benefits Implementation Plan and revised Customer Engagement Plan, both of which will be filed after the rebuttal testimony in this 
+proceeding.  The metrics specifically associated with those ongoing efforts are identified as “to be determined” (“TBD”).  The 
+commencement dates for the annual and semi-annual reporting are set for 60-days after the mid-point (i.e., September 30) and end (i.e., 
+March 31) of the Company’s fiscal year.3  
+Customer Engagement Metrics 
+Category 
+Metric 
+Metric Targets 
+Frequency 
+(Commencing)
+Awareness 
+Customer knowledge of smart meters: Measurement of awareness of smart meter 
+technology, features, and benefits via survey. 
+TBD4 
+Semi-Annual/ 
+Annual post 
+meter deployment
+(May 31, 2023)
+Targeted Energy Forum Presentations: Number of forums to provide smart meter 
+information: 
+• 
+Type of forum (town hall, neighborhood, community group, expo, etc.). 
+• 
+Target audience (elected officials, customers, etc.). 
+• 
+Date and Frequency. 
+• 
+Attendance numbers.
+TBD5 
+Semi-Annual 
+(May 31, 2023) 
+                                                           
+1 Cases 17-E-0238 and 17-G-0239, Proceeding on Motion of the Commission as to the Rates, Charges, Rules and Regulations of Niagara Mohawk Power 
+Corporation for Electric and Gas Service (“2017 Rate Case Docket”), Order Authorizing Implementation of Advanced Metering Infrastructure with Modifications 
+(November 20, 2020) (the “AMI Order”) at page 52.  
+2 See 2017 Rate Case Docket, Report of Niagara Mohawk Power Corporation d/b/a National Grid on the Proposed Implementation of Advanced Metering 
+Infrastructure (“AMI Implementation Plan Report”) (November 15, 2018), Exhibit I, AMI Metrics and Reporting.  
+3 The Company’s fiscal year begins April 1 and ends March 31. 
+4 Beginning six months prior to AMI meter deployment, the Company will use pre-AMI roll out surveys to establish a baseline of customer AMI awareness.  See 
+Exhibit___(AMIP-1), Schedule 1, pages 173 and 246 of 313. 
+5 See AMI Order at pages 50 (“[T]he Commission finds that a general timeline with dates is needed to further improve the Customer Engagement Plan and allow 
+for adequate oversight.”) and page 51 (“National Grid shall file the revised Customer Engagement Plan within six months of the issuance of this Order.”). 
+ 
+Exhibit___(AMIP-7R) 
+Schedule 1 
+Page1 of 5
+
+
+--- Page 33 ---
+Exhibit___(AMIP-7R) 
+Schedule 1 
+Page 2 of 5 
+ 
+ 
+ 
+Category 
+Metric 
+Metric Targets 
+Frequency 
+(Commencing)
+Income-Eligible Customer Forum Presentations and Awareness: 
+• 
+Number of income-eligible events where smart meter information is presented. 
+• 
+Percent of new and returning income-eligible customers logging on to platform 
+during the reporting period.
+TBD6 
+Semi-Annual 
+(May 31, 2023) 
+Enablement/ 
+Empowerment 
+ 
+Customers Using the Customer Energy Management Platform: 
+• 
+Number of new and returning customers in each region with smart meters that 
+log onto the usage / analytics page at least once broken down by service class and 
+income-eligible customers. 
+• 
+Percent of customers logging on to platform more than once per reporting period.
+TBD7 
+Semi-Annual 
+(May 31, 2024) 
+Customers Using Customer Energy Management Platform Functions: 
+Breakdown of customers using specific platform functions: 
+• 
+Personalized insights.  
+• 
+High-bill / usage alerts. 
+• 
+Energy marketplaces (i.e., E-Commerce Platform and Solar Marketplace). 
+• 
+Measure percent of customers using platform year over year. 
+TBD8 
+Semi-Annual/ 
+Annual 
+(May 31, 2024) 
+Customer Energy Management Platform Satisfaction: 
+• 
+Measurement of satisfaction with Customer Energy Management Platform and 
+other tools via survey. 
+• 
+Measurement of smart meter awareness campaign effectiveness to drive actions.
+TBD9 
+Annual 
+(May 31, 2024) 
+Customer use of smart phone app to access real-time energy usage data: 
+• 
+Track number of customers using smart phone app to track real-time usage data.
+TBD10 
+Annual 
+(May 31, 2024) 
+Green Button Connect: 
+• 
+Track the number of third parties onboarded with Green Button Connect. 
+• 
+Track the number of customers sharing their data via Green Button Connect.
+The Company will 
+report this information 
+for tracking purposes. 
+Annual 
+(May 31, 2022) 
+                                                           
+6 See id. 
+7 See supra, note 5. 
+8 Id. 
+9 Id. 
+10 Id. 
+Exhibit___(AMIP-7R) 
+Schedule 1 
+Page2 of 5
+
+
+--- Page 34 ---
+Exhibit___(AMIP-7R) 
+Schedule 1 
+Page 3 of 5 
+ 
+ 
+ 
+Operational and Program Metrics 
+Category 
+Metric 
+Metric Targets 
+Reporting 
+Frequency 
+(Commencing)
+Deployment 
+ 
+Number and percentage of AMI electric meters and gas modules installed in comparison 
+to targets established by the AMI deployment schedule. 
+Year 1: 466,800 (20%)
+Year 2: 817,000 (35%)
+Year 3: 817,000 (35%)
+Year 4: 233,400 (10%)
+Semi-annual 
+(November 30, 
+2023) 
+Number and percentage of AMI electric meters and gas modules that were deemed to be 
+faulty during the installation process. 
+Year 1: 2,330 (0.5%) 
+Year 2: 4,090 (0.5%) 
+Year 3: 4,090 (0.5%) 
+Year 4: 1,170 (0.5%)
+Semi-Annual 
+(November 30, 
+2023) 
+Number and percentage of AMI gas meters that were required to be replaced during the 
+installation process (to accommodate gas module installation) in comparison to estimated 
+volume of replacements. 
+Year 1: 12,800 (10%) 
+Year 2: 22,400 (10%) 
+Year 3: 22,400 (10%) 
+Year 4: 6,400 (10%)
+Semi-Annual 
+(November 30, 
+2023) 
+Number and percentage of AMI network communications devices11 installed in comparison 
+to targets established by the AMI deployment schedule. 
+Year 1: 865 (20%) 
+Year 2: 1,510 (35%) 
+Year 3: 1,510 (35%)  
+Year 4: 430 (10%)
+Semi-Annual 
+(November 30, 
+2023) 
+Number and percent of residential customers who opt out of receiving a new AMI meter. 
+Year 1: 4,190 (1%) 
+Year 2: 7,330 (1%) 
+Year 3: 7,330 (1%) 
+Year 4: 2,090 (1%) 
+Annual 
+(May 31, 2024) 
+ 
+ 
+ 
+Number and percent of income-eligible customers enrolled in the Energy Affordability 
+Program who opt out of receiving a new AMI meter.
+TBD12 
+Annual 
+(May 31, 2024)
+                                                           
+11 For this metric, AMI network communication devices include connected grid routers and repeaters. 
+12 The Company assumed a 1% meter opt-out rate for purposes of developing the AMI BCA.  In doing so, the Company did not further identify what percentage 
+of the 1% would consist of income-eligible customers who are enrolled in the Energy Affordability Program.  In the absence of a specific target, the Company 
+will report this information for tracking purposes.  
+Exhibit___(AMIP-7R) 
+Schedule 1 
+Page3 of 5
+
+
+--- Page 35 ---
+Exhibit___(AMIP-7R) 
+Schedule 1 
+Page 4 of 5 
+ 
+ 
+ 
+Category 
+Metric 
+Metric Targets 
+Reporting 
+Frequency 
+(Commencing)
+Number and percent of small commercial and industrial (“C&I”) customers who opt out of 
+receiving a new AMI meter. 
+Year 1: 482 (1%) 
+Year 2: 844 (1%) 
+Year 3: 844 (1%) 
+Year 4: 241 (1%)
+Annual  
+(May 31, 2024) 
+Number and percent of large C&I customers who opt out of receiving a new AMI meter.
+N/A13
+N/A
+Billing 
+Percentage of bills that were estimated for accounts with AMI meters during the reporting 
+period. 
+TBD14 
+Semi-Annual 
+(November 30, 
+2023)
+Outage Management 
+Number of power restorations identified through AMI that the Company did not have to 
+send a crew or call to confirm. 
+TBD15 
+Semi-Annual 
+(November 30, 
+2023)
+Reduction in fuel consumption and vehicle emissions due to reduction in false outages 
+requiring a truck roll. 
+TBD16 
+Semi-Annual 
+(November 30, 
+2023)
+The number of outage cases17 that the Company positively confirms through the AMI 
+system. 
+TBD18 
+Semi-Annual  
+(November 30, 
+2023)
+Number of networks/feeders with AMI deployed and have implemented Volt-VAR 
+Optimization (“VVO”).
+TBD19 
+Semi-Annual 
+                                                           
+13 Large C&I customers typically have separate interval metering equipment installed and are not expected to be part of the initial AMI meter roll out. 
+14 See AMI Order at pages 49 to 50. (The Company is directed to develop a Benefits Implementation Plan with specific implementation actions and schedules.  
+The Commission directed the Company to file the Benefits Implementation Plan within 60 days of the issuance of the AMI Order.) 
+15 Id. 
+16 Id. 
+17 The AMI Order also included a reference to identifying “low-voltage” cases through the AMI system.  The Company proposes deleting this reference from the 
+metrics, as it has not tied a benefit to voltage analysis at each premise. 
+18 See supra, note 14. 
+19 Id. 
+ 
+Exhibit___(AMIP-7R) 
+Schedule 1 
+Page4 of 5
+
+
+--- Page 36 ---
+Exhibit___(AMIP-7R) 
+Schedule 1 
+Page 5 of 5 
+ 
+ 
+ 
+Category 
+Metric 
+Metric Targets 
+Reporting 
+Frequency 
+(Commencing)
+System Operation & 
+Environmental 
+Benefits 
+ 
+(November 30, 
+2023)
+Incremental load reduction (MWh) attributed to VVO. 
+TBD20 
+Semi-Annual 
+(November 30, 
+2023)
+Emissions reductions savings attributed to VVO. 
+TBD21 
+Semi-Annual 
+(November 30, 
+2023)
+Reduction in fuel consumption and vehicle emissions due to reductions in meter 
+investigations, connects, and disconnects requiring a truck roll. 
+TBD22 
+Semi-Annual 
+(November 30, 
+2023)
+AMI Program 
+Progress 
+Achievements of key program milestones. Program milestones, such as the completion of 
+the back-office systems, customer engagement solutions, and the number of meters 
+installed.23 These metrics will provide for the appropriate control and oversight of the 
+program. 
+The Company will 
+report this information 
+for tracking purposes. 
+Semi-Annual 
+(November 30, 
+2023) 
+Identify and track delays in meeting key program milestones, the cause of such delays, and 
+updates to the project schedule by key milestone.  At a minimum, these key milestones 
+shall include progress under the AMI Benefits Implementation Plan,24 use of AMI data for 
+complex billing, and progress under the Customer Engagement Plan.25
+The Company will 
+report this information 
+for tracking purposes. 
+Annual 
+(November 30, 
+2023) 
+ 
+                                                           
+20 Id. 
+21 Id. 
+22 Id. 
+23 Please note that there are separate metrics for tracking meter installations and network deployment. 
+24 As set forth in the AMI Order (page 53), the Benefits Implementation Plan must be filed within 60 days of the issuance of the AMI Order. 
+25 As set forth in the AMI Order (page 53), the revised Customer Engagement Plan must be filed within 120 days of the issuance of the AMI Order.  
+Exhibit___(AMIP-7R) 
+Schedule 1 
+Page5 of 5

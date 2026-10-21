@@ -1,0 +1,1268 @@
+--- Page 1 ---
+BEFORE THE NEW YORK STATE  
+PUBLIC SERVICE COMMISSION 
+ 
+ 
+ 
+ 
+ 
+Proceeding on Motion of the Commission 
+as to the Rates, Charges, Rules and 
+Regulations of Niagara Mohawk Power 
+Corporation d/b/a National Grid for Electric 
+Service. 
+ 
+ 
+) 
+) 
+) 
+) 
+ 
+ 
+ 
+ 
+       Case 20-E-0380 
+ 
+ 
+ 
+ 
+ 
+ 
+ 
+  
+DIRECT TESTIMONY OF MICHAEL MURRAY 
+ON BEHALF OF MISSION:DATA COALITION 
+  
+ 
+November 25, 2020 
+ 
+ 
+ 
+ 
+
+
+--- Page 2 ---
+Case 20-E-0380 
+ 
+ 
+ 
+ 
+ 
+Mission:data Direct: Michael Murray 
+November 25, 2020 
+Page 2 of 24 
+ 
+TABLE OF CONTENTS 
+ 
+I.       
+INTRODUCTION ................................................................................................ 3 
+II.       
+DISCUSSION ..................................................................................................... 6 
+A. 
+BACKGROUND ON DISTRIBUTED INTELLIGENCE ..................................................... 6 
+B. 
+THE NEED FOR COMMISSION OVERSIGHT OF DISTRIBUTED INTELLIGENCE 
+CAPABILITIES ......................................................................................................................10 
+C. 
+HARMS RESULTING FROM INACTION ....................................................................22 
+III.       
+CONCLUSION .............................................................................................. 23 
+ 
+ 
+ 
+ 
+LIST OF EXHIBITS 
+Ex. MM-1 
+Company Response to MISSION-005 
+Ex. MM-2 
+Company Response to MISSION-011 
+ 
+ 
+
+
+--- Page 3 ---
+Case 20-E-0380 
+ 
+ 
+ 
+ 
+ 
+Mission:data Direct: Michael Murray 
+November 25, 2020 
+Page 3 of 24 
+ 
+I.       INTRODUCTION 
+1 
+Q.     PLEASE STATE YOUR NAME, TITLE AND BUSINESS ADDRESS. 
+2 
+A.     My name is Michael Murray.  I am the President of Mission:data Coalition 
+3 
+(“Mission:data”).  My business address is 1752 NW Market Street #1513, Seattle, WA 
+4 
+98107. 
+5 
+Q.     PLEASE BRIEFLY DESCRIBE YOUR EDUCATIONAL BACKGROUND AND 
+6 
+YOUR RELEVANT PROFESSIONAL EXPERIENCE. 
+7 
+A.      I co-founded Mission:data in 2013 and have led our efforts to intervene at public 
+8 
+utility commissions nationwide on issues of data access, data privacy, advanced meters 
+9 
+and the benefits of electronic access to energy usage data. In 2013 I intervened at the 
+10 
+California Public Utilities Commission to successfully institute the first state-wide 
+11 
+implementation of Green Button Connect My Data among the state’s electric investor-
+12 
+owned utilities. I have authored many publications on the value of “energy data 
+13 
+portability” to consumers. I have presented at dozens of conferences on state 
+14 
+developments in energy data access, such as the National Association of Regulatory 
+15 
+Utility Commissioners’ summer and winter meetings. In 2012, I presented at the White 
+16 
+House with former Secretary of Energy Steven Chu and former U.S. Chief Technology 
+17 
+Officer Aneesh Chopra on Green Button. 
+18 
+I began my career in 2004 as co-founder and CEO of Lucid, an energy 
+19 
+management software company for commercial buildings, where I grew the company 
+20 
+from zero to 40 employees and raised $10 million in venture capital.  Lucid offers a 
+21 
+
+
+--- Page 4 ---
+Case 20-E-0380 
+ 
+ 
+ 
+ 
+ 
+Mission:data Direct: Michael Murray 
+November 25, 2020 
+Page 4 of 24 
+ 
+cloud-based service that analyzes real-time meter data from thousands of commercial 
+1 
+buildings across North America to support energy efficiency. Lucid’s customers include 
+2 
+over 350 organizations, eight of the eight Ivy League universities and others. I hold two 
+3 
+U.S. patents relating to energy data collection, sharing and analysis, #8,176,095 and 
+4 
+#8,375,068. I earned a B.A. with highest honors from Oberlin College in 2004. 
+5 
+Q.     HAVE YOU PREVIOUSLY TESTIFIED BEFORE THE NEW YORK PUBLIC 
+6 
+SERVICE COMMISSION? 
+7 
+A.     Yes. I testified in Cases 19-E-0065 and 19-G-0065 concerning Consolidated 
+8 
+Edison’s (“ConEd”) rates. This was on behalf of Pace University’s Energy and Climate 
+9 
+Center. 
+10 
+Q.     IN WHAT OTHER STATES HAVE YOU TESTIFIED BEFORE A PUBLIC 
+11 
+UTILITY REGULATOR? 
+12 
+A.     I have testified before the commissions of California, Colorado, Georgia, New 
+13 
+Hampshire, North Carolina, Ohio and Texas. 
+14 
+Q.     ON WHOSE BEHALF ARE YOU FILING THIS TESTIMONY? 
+15 
+A.     I am filing this testimony on behalf of Mission:data, an intervenor in this case. 
+16 
+Q.     WHAT IS THE MISSION:DATA COALITION? 
+17 
+A.     Mission:data Coalition is a non-profit national coalition of approximately 30 
+18 
+technology companies delivering data-enabled distributed energy resources (“DERs”) 
+19 
+
+
+--- Page 5 ---
+Case 20-E-0380 
+ 
+ 
+ 
+ 
+ 
+Mission:data Direct: Michael Murray 
+November 25, 2020 
+Page 5 of 24 
+ 
+for residential, commercial and industrial customers. Our members have developed 
+1 
+innovative services leveraging meter data and utility bill data that help customers reduce 
+2 
+their bills. These companies are focused on bringing energy management solutions to a 
+3 
+national market, and to realize that objective, it is vital that we empower consumers with 
+4 
+convenient access to their own energy data in a consistent manner from state to state. 
+5 
+Mission:data works with industry and policymakers to advance customers’ ability to 
+6 
+quickly and conveniently share their energy-related data with energy management 
+7 
+companies of their choice. 
+8 
+Q.     WHAT IS THE PURPOSE OF THIS TESTIMONY? 
+9 
+A.     The purpose of my testimony is to address the need for Commission oversight 
+10 
+over a novel and under-recognized technology that Niagara Mohawk Power Company 
+11 
+(“NMPC” or the “Company”) proposes to install in its smart meters: distributed 
+12 
+intelligence (“DI”). While DI capabilities could provide significant benefits to customers, 
+13 
+they also present large risks to fair competition between distributed energy resources 
+14 
+(“DERs”), energy service companies (“ESCOs”) and NMPC. Achieving New York’s 
+15 
+ambitious climate goals can be achieved only by harnessing the innovation available 
+16 
+from non-utility providers of data-driven DER products and services. While I believe the 
+17 
+Commission should approve the Company’s requested rate increase covering DI-
+18 
+capable meters and direct the company to move ahead with AMI installation, the 
+19 
+Commission should simultaneously prohibit NMPC from utilizing the DI capabilities until 
+20 
+the Commission has enacted safeguards and ensures fair competition with other 
+21 
+service providers, as I further explain below.   
+22 
+
+
+--- Page 6 ---
+Case 20-E-0380 
+ 
+ 
+ 
+ 
+ 
+Mission:data Direct: Michael Murray 
+November 25, 2020 
+Page 6 of 24 
+ 
+Q.     ARE YOU SPONSORING ANY EXHIBITS WITH YOUR TESTIMONY? 
+1 
+A.     Yes. I am sponsoring Exhibits ___ (MM-1) through ___ (MM-2). 
+2 
+II.       DISCUSSION 
+3 
+ 
+4 
+A. BACKGROUND ON DISTRIBUTED INTELLIGENCE 
+5 
+Q.     WHAT ARE “DISTRIBUTED INTELLIGENCE” CAPABILITIES? 
+6 
+A.     “Distributed Intelligence” (“DI”) is a recently-developed capability of advanced 
+7 
+meters that is defined as a generalized computing capability inside the meter itself. DI-
+8 
+capable meters are different from traditional smart meters because traditional smart 
+9 
+meters are limited to collecting energy usage information on intervals ranging from 5 
+10 
+minutes to 60 minutes, and then transmitting that information back to the utility for 
+11 
+processing. DI-capable meters, in contrast, have an on-board computer that allows for 
+12 
+significantly enhanced information gathering at much shorter time intervals, providing 
+13 
+insights into power consumption.  
+14 
+ 
+Major meter manufacturers, including Itron and Landis+Gyr, now offer DI-capable 
+15 
+meters, which allow software applications, or “apps,” to be deployed over the advanced 
+16 
+metering infrastructure’s (“AMI”) radio network and executed on the meter’s computer. 
+17 
+For example, Itron’s website states that DI allows software apps to “have access to the 
+18 
+meter’s data, implement algorithms, and then send the results of these computations to 
+19 
+
+
+--- Page 7 ---
+Case 20-E-0380 
+ 
+ 
+ 
+ 
+ 
+Mission:data Direct: Michael Murray 
+November 25, 2020 
+Page 7 of 24 
+ 
+a backend server for further analysis and/or display.”1  Third party app developers, such 
+1 
+as Mission:data’s member companies, as well as others, can help unlock the 
+2 
+technological potential of DI in the meters proposed by NMPC. DI apps could be both 
+3 
+utility-facing and customer-facing. For example, utility-facing apps could provide high 
+4 
+impedance detection, neutral line fault detection, or power theft detection. For 
+5 
+customers, DI apps could provide highly-accurate load disaggregation, breaking down 
+6 
+electricity usage by device or appliance, as I explain further below. 
+7 
+Q.     IS DISTRIBUTED INTELLIGENCE A NEW CAPABILITY OF SMART METERS? 
+8 
+A.     Yes. While the base functions of conventional smart meters are well-understood 
+9 
+and have been available for over a decade, DI capabilities are quite new. Based upon 
+10 
+press releases from Itron, only a handful of utilities nationwide have deployed DI-
+11 
+capable meters. Avista, in eastern Washington state, appears to be one of the utilities to 
+12 
+have purchased DI-capable meters, according to an Itron press release from 2016. In 
+13 
+2019, Xcel Energy and Itron announced an agreement to deploy DI-capable meters.2 
+14 
+One article authored by Itron’s Director of Information Management Outcomes, Tim 
+15 
+Driscoll, mentions the first field deployment of DI apps occurred in 2018.3 Further, I do 
+16 
+not believe that Consolidated Edison has DI-capable meters, despite the Commission 
+17 
+ 
+1 https://developer.itron.com/content/distributed-intelligence-introduction (accessed November 
+24, 2020).  
+2 https://investors.itron.com/news-releases/news-release-details/avista-selects-itron-transform-
+energy-network-and-enable-smart (accessed November 24, 2020). 
+3 https://www.power-grid.com/2020/10/27/the-possibilities-of-distributed-intelligence-are-
+endless/ (accessed November 24, 2020). 
+
+
+--- Page 8 ---
+Case 20-E-0380 
+ 
+ 
+ 
+ 
+ 
+Mission:data Direct: Michael Murray 
+November 25, 2020 
+Page 8 of 24 
+ 
+approving AMI only four years ago, in 2016. DI capabilities would therefore be brand 
+1 
+new to New York state. 
+2 
+Q.     WHAT IS A DISTRIBUTED INTELLIGENCE “APP STORE”? 
+3 
+A.     A DI App Store is just like Apple’s app store on iOS devices, or Google’s Play 
+4 
+store on Android devices, except it operates on advanced meters. According to Itron, 
+5 
+the DI App Store provides to the utility a listing of available software apps as well as a 
+6 
+deployment mechanism for loading apps onto meters. The DI App Store manages the 
+7 
+installation, configuration, licensing and monitoring of apps over time so that 
+8 
+deployment of software apps are seamless.4 
+9 
+Q.     WHO ADMINISTERS THE DISTRIBUTED INTELLIGENCE APP STORE? 
+10 
+A.     Based on my experience in other states with DI-capable meters, the utility – 
+11 
+NMPC in this case – will control the DI App Store, including what apps are loaded onto 
+12 
+meters. This includes whether and how apps are allowed to communicate with devices 
+13 
+inside the home using a wireless communications protocol such as Wifi. However, the 
+14 
+meter manufacturer (Itron, Landis+Gyr, etc.) is involved in reviewing apps to ensure 
+15 
+they do not damage the operation of the meter and to provide some level of technical 
+16 
+support to app developers.  
+17 
+ 
+4 https://developer.itron.com/content/distributed-intelligence-introduction (accessed November 
+24, 2020). 
+
+
+--- Page 9 ---
+Case 20-E-0380 
+ 
+ 
+ 
+ 
+ 
+Mission:data Direct: Michael Murray 
+November 25, 2020 
+Page 9 of 24 
+ 
+Q.     WHAT IS LOAD DISAGGREGATION? 
+1 
+A.     Load disaggregation – also known as non-intrusive load monitoring – refers to 
+2 
+statistical inferences about the energy usage of individual devices or appliances in a 
+3 
+home by analyzing the whole-home’s energy usage. Algorithms of different types can 
+4 
+analyze energy usage at various time intervals. From my research and experience in 
+5 
+this field, the accuracy of load disaggregation is inversely proportional to the sampling 
+6 
+interval, meaning that shorter time intervals lead to greater accuracy. DI capabilities 
+7 
+promise to dramatically increase the accuracy of load disaggregation as compared with 
+8 
+traditional smart meters, as shown in Figure 1 below. 
+9 
+ 
+10 
+Figure 1:  Load disaggregation with and without distributed intelligence ("DI") capabilities on advanced meters. 
+11 
+
+
+--- Page 10 ---
+Case 20-E-0380 
+ 
+ 
+ 
+ 
+ 
+Mission:data Direct: Michael Murray 
+November 25, 2020 
+Page 10 of 24 
+ 
+B. THE NEED FOR COMMISSION OVERSIGHT OF DISTRIBUTED 
+1 
+INTELLIGENCE CAPABILITIES 
+2 
+Q.     WHAT IS DIGITAL PLATFORM REGULATION? 
+3 
+A.     Digital platform regulation is a new way of thinking about government intervention 
+4 
+in digital sectors of the economy in order to promote competition and bolster benefits for 
+5 
+consumers. Recent attention to the power of large technology firms such as Facebook, 
+6 
+Apple and Google has led to academic scholarship and consumer advocacy on how 
+7 
+best to regulate digital platforms, as well as actions from government all around the 
+8 
+world, including the U.S., focused on curbing abuses of market power. The advent of 
+9 
+distributed intelligence capabilities in advanced metering systems calls for the 
+10 
+Commission to approach this issue based upon the dynamics of digital markets rather 
+11 
+than merely traditional cost-of-service regulation. 
+12 
+Several principles of digital platform regulation have been articulated by leading 
+13 
+consumer advocates. These principles stem from the recognition that digital platforms, 
+14 
+and app stores in particular, share many similarities, even when compared across 
+15 
+various industry sectors. The principles that support the greatest customer benefits 
+16 
+include: non-discrimination of app developers; supporting equal access to technical 
+17 
+information about the platform; preventing platform operators from duplicating 
+18 
+
+
+--- Page 11 ---
+Case 20-E-0380 
+ 
+ 
+ 
+ 
+ 
+Mission:data Direct: Michael Murray 
+November 25, 2020 
+Page 11 of 24 
+ 
+functionality provided by app developers; ensuring due process rights for app 
+1 
+developers; and preventing inappropriate or anti-competitive terms of use.5  
+2 
+Failure to regulate digital markets according to these principles has resulted in 
+3 
+harms to consumers and innovation in other sectors of the economy. Last month, the 
+4 
+U.S. House of Representatives Anti-Trust Subcommittee, chaired by Rep. David 
+5 
+Cicilline, issued a report (the “House Anti-Trust Report”) describing how large 
+6 
+technology firms have abused their position of control over app stores to the detriment 
+7 
+of the market as a whole. The 449-page report stated: 
+8 
+By controlling access to markets, these giants can pick winners and losers 
+9 
+throughout our economy. They not only wield tremendous power, but they 
+10 
+also abuse it by charging exorbitant fees, imposing oppressive contract 
+11 
+terms, and extracting valuable data from the people and businesses that 
+12 
+rely on them.6 
+13 
+Q.     WHAT ARE YOUR CONCERNS ABOUT DISTRIBUTED INTELLIGENCE 
+14 
+CAPABILITIES? 
+15 
+A.     The concerns stated above in the House Anti-Trust Report are directly analogous 
+16 
+to NMPC’s proposed DI capabilities. By virtue of NMPC’s control over a DI App Store, 
+17 
+ 
+5 See, e.g., Tending the Garden: How to Ensure that App Stores Put Users First. Bergmayer, 
+John for Public Knowledge. June 2020. Available at 
+https://www.publicknowledge.org/blog/software-platforms-benefit-by-empowering-developers-
+and-putting-users-first/.  
+6 Investigation of Competition in Digital Markets: Majority Staff Report and Recommendations. 
+United States House of Representatives Subcommittee on Antitrust, Commercial and 
+Administrative Law. 2020, at 6. Available at 
+https://judiciary.house.gov/uploadedfiles/competition_in_digital_markets.pdf.  
+
+
+--- Page 12 ---
+Case 20-E-0380 
+ 
+ 
+ 
+ 
+ 
+Mission:data Direct: Michael Murray 
+November 25, 2020 
+Page 12 of 24 
+ 
+NMPC will be in a position to charge exorbitant fees, impose oppressive contract terms, 
+1 
+and extract valuable data from app developers, harming energy innovation in New York. 
+2 
+It is imperative that the Commission intercede before this proverbial train leaves the 
+3 
+station and NMPC embraces an unregulated line of business built upon ratepayer-
+4 
+funded assets. 
+5 
+Specifically, I have three concerns about DI capabilities. First, critical information 
+6 
+about the DI App Store is not included in NMPC’s testimony. Negative outcomes for 
+7 
+ratepayers and unnecessary costs are likely to result if the Commission does not quickly 
+8 
+address questions such as who is eligible to make an app; how customers can load an 
+9 
+app of their choice on their meter; and what are the associated costs to customers and, 
+10 
+potentially, app developers of using DI capabilities. Second, DI capabilities provide 
+11 
+fertile new ground for NMPC to engage in anti-competitive activity such as self-dealing, 
+12 
+crippling features for competitors, and surveillance of competitors. The Commission 
+13 
+must dedicate itself to becoming a savvy digital platform regulator prior to allowing 
+14 
+NMPC to move forward with DI capabilities. Third, existing Commission policies 
+15 
+established in the Reforming the Energy Vision (“REV”) proceedings regarding access 
+16 
+to, and the costs of, customer data are rendered obsolete by the advent of DI 
+17 
+capabilities. For all of these reasons, I conclude that the Commission is currently 
+18 
+unprepared to effectively oversee the use of DI capabilities and should therefore 
+19 
+institute a temporary moratorium unless and until the Commission comprehensively 
+20 
+addresses the myriad issues raised by this novel technology, including, but not limited 
+21 
+to, the treatment of costs and revenues; eligibility criteria of app developers; terms and 
+22 
+conditions for app developers; and preventing NMPC from acquiring confidential and 
+23 
+
+
+--- Page 13 ---
+Case 20-E-0380 
+ 
+ 
+ 
+ 
+ 
+Mission:data Direct: Michael Murray 
+November 25, 2020 
+Page 13 of 24 
+ 
+proprietary business information of app developers merely through operation of the DI 
+1 
+App Store. 
+2 
+Q.     PLEASE EXPLAIN YOUR FIRST CONCERN. 
+3 
+A.     First, DI capabilities have received scant attention in NMPC’s previous AMI 
+4 
+filings, making the Commission unprepared and ill-equipped to evaluate DI capabilities. 
+5 
+It is the basics of this new technology – the who, what, where, when and why – that 
+6 
+have not been, and must be, established in order for both stakeholders and the 
+7 
+Commission to fully understand how to deliver the most ratepayer value from AMI 
+8 
+investments. Since 2016, there have been only six sentences in NMPC’s numerous, 
+9 
+voluminous filings that discuss DI capabilities. The following filings of NMPC include no 
+10 
+mention whatsoever of DI capabilities: 
+11 
+• Initial Distributed System Implementation Plan (“DSIP”) (June 30, 2016): No 
+12 
+mention of DI capabilities 
+13 
+• Supplemental DSIP (November 1, 2016): No mention of DI capabilities 
+14 
+• Initial testimony (AMI panel) in rate case 17-E-0238 (April 28, 2017): No mention 
+15 
+of DI capabilities, even in a section titled “New Products and Services” 
+16 
+• AMI Implementation Plan Report (November 15, 2018): No mention of DI 
+17 
+capabilities. There is a description of “load disaggregation software,” but this 
+18 
+does not specify on-board computing and could refer to analysis of conventional, 
+19 
+15-minute usage data 
+20 
+• Updated DSIP (June 30, 2020): No mention of DI capabilities 
+21 
+
+
+--- Page 14 ---
+Case 20-E-0380 
+ 
+ 
+ 
+ 
+ 
+Mission:data Direct: Michael Murray 
+November 25, 2020 
+Page 14 of 24 
+ 
+The only two filings that discuss DI capabilities are NMPC’s AMI Customer Engagement 
+1 
+Plan dated November 15, 2018, and NMPC’s Supplement to the Report on the 
+2 
+Proposed Implementation of AMI dated September 4, 2019. Only the following three 
+3 
+sentences apiece are devoted to describing this novel technology that is arguably the 
+4 
+largest development to occur in advanced metering in over a decade. The AMI 
+5 
+Customer Engagement Plan states: 
+6 
+1. “It will establish a two-way communication pathway between National Grid and 
+7 
+customers, a grid-edge computing platform including software applications that 
+8 
+are deployable to the meters, and smart home/business technology integration.”7 
+9 
+2. “First and foremost, the deployment of the smart meters and associated 
+10 
+communication network will provide significantly more granular data than is 
+11 
+available with current AMR technology, establish a two-way communication 
+12 
+pathway between National Grid and the customer, and establish a grid-edge 
+13 
+computing platform, including software applications that are deployable to the 
+14 
+meters.”8 
+15 
+3. “Accordingly, the Company is currently working with manufacturing partners 
+16 
+through the Company’s AMI procurement work stream to identify improved on-
+17 
+board computing and HAN options, including Wi-Fi-based communications.”9 
+18 
+The Supplement states: 
+19 
+The proposed AMI solution also offers distributed grid-edge computing 
+20 
+technologies; enabling the possibility of customer-facing and grid-facing 
+21 
+distributed intelligence use cases. Early examples of such opportunities 
+22 
+include: high impedance detection, theft detection, locational 
+23 
+ 
+7 Report of Niagara Mohawk Power Corporation d/b/a National Grid on the Proposed 
+Implementation of Advanced Metering Infrastructure. Cases 17-E-0238 and 17-G-0239. 
+November 15, 2018 at 48. Emphasis added. 
+8 Id. at 71. Emphasis added. 
+9 Id. at 73. Emphasis added. 
+
+
+--- Page 15 ---
+Case 20-E-0380 
+ 
+ 
+ 
+ 
+ 
+Mission:data Direct: Michael Murray 
+November 25, 2020 
+Page 15 of 24 
+ 
+awareness/grid mapping, intelligent voltage monitoring, reliability analysis, 
+1 
+and electrical fault identification. Collectively, the grid-edge capabilities 
+2 
+have the potential to improve reliability, better manage voltage fluctuations 
+3 
+with the proliferation of distributed energy resources, and, importantly, 
+4 
+improve safety by identifying unsafe conditions that customers can 
+5 
+proactively address.10 
+6 
+The above six sentences represent the totality of information NMPC has made available 
+7 
+to the Commission about DI capabilities to date. Not one of NMPC’s filings has ever 
+8 
+described the critical public policy issues that accompany this novel technology such as: 
+9 
+who is eligible to develop an app (only NMPC, or can ESCOs and DER providers 
+10 
+develop apps?); what fees will be charged, and to whom; what platform service 
+11 
+revenues does NMPC expect to earn; is the DI App Store part of NMPC’s certificated 
+12 
+monopoly; will NMPC “pick winners” or will NMPC operate the DI App Store on a non-
+13 
+discriminatory basis; what terms and conditions govern the relationship between NMPC 
+14 
+and app developers; etc. Put simply, I believe the Commission is severely under-
+15 
+informed about the extent to which DI capabilities dramatically alter the energy market 
+16 
+landscape in New York.  
+17 
+One of the key lessons learned from other states’ AMI deployments is that if new 
+18 
+technologies are not sufficiently thought through prior to Commission approval, then 
+19 
+consumer benefits will be very slow to materialize. This is because utilities have little 
+20 
+incentive to provide direct consumer benefits once they are assured cost recovery (and 
+21 
+profit) from a major investment. In California, for example, AMI approval for Southern 
+22 
+ 
+10 Supplemental to the Report of Niagara Mohawk Power Corporation d/b/a National 
+Grid on the Proposed Implementation of Advanced Metering Infrastructure. Cases 17-E-0238 
+and 17-G-0239. September 4, 2019 at 10-11. 
+
+
+--- Page 16 ---
+Case 20-E-0380 
+ 
+ 
+ 
+ 
+ 
+Mission:data Direct: Michael Murray 
+November 25, 2020 
+Page 16 of 24 
+ 
+California Edison (“SCE”) was granted in 2007. Contingent upon California’s approval 
+1 
+was the promise that AMI would deliver $816 million in consumer benefits, or 
+2 
+approximately $160 per customer, including energy savings as a result of improved 
+3 
+access to new energy-saving products and services. And yet it was in 2016 – nine years 
+4 
+later – when SCE finally made customer data “portable,” i.e. electronically accessible to 
+5 
+customer-authorized energy management providers. SCE’s advanced meters were 
+6 
+nearly halfway through the depreciation cycle before this essential customer benefit was 
+7 
+enabled.  
+8 
+SCE’s situation is analogous to NMPC: Although NMPC is planning to include 
+9 
+many laudable consumer benefits with AMI – including Green Button Connect, which I 
+10 
+strongly support – the novelty of DI does not excuse the Commission from taking steps 
+11 
+now to ensure that consumers can rapidly and directly realize the benefits of DI 
+12 
+immediately following AMI deployment. I note that NMPC itself admitted in discovery 
+13 
+that it is in the very early stages of evaluating DI, despite simultaneously claiming it has 
+14 
+thoroughly and comprehensively vetted its proposed AMI investment. NMPC stated, 
+15 
+“The Company has proposed deploying AMI-DI meters to all customers. The ability for 
+16 
+this technology to offer app-based functionalities (both grid- and customer-facing) 
+17 
+requires additional analysis.”11 It would be a mistake for the Commission to take a 
+18 
+passive, “wait and see” approach in which NMPC is free to exploit DI for its own 
+19 
+purposes while consumer benefits, such as access to an ecosystem of energy 
+20 
+management services that leverage DI capabilities, lag behind as an afterthought. 
+21 
+ 
+11 Exhibit MM-1 (Request of Mission:data Coalition, MISSION-005, to NMPC). 
+
+
+--- Page 17 ---
+Case 20-E-0380 
+ 
+ 
+ 
+ 
+ 
+Mission:data Direct: Michael Murray 
+November 25, 2020 
+Page 17 of 24 
+ 
+Finally, the lack of meaningful discussion about DI to date increases the 
+1 
+likelihood that costs to make full use of DI in the future will increase. Information 
+2 
+technology (“IT”) systems will be designed and built in the coming months, with NMPC 
+3 
+hiring an array of consultants and contractors. By proceeding to build DI capabilities 
+4 
+without guidance from the Commission, it is virtually inevitable that NMPC will make 
+5 
+design and build decisions that will need to be modified later, at significant cost, to 
+6 
+accommodate subsequent Commission determinations about how DI capabilities should 
+7 
+function. The reality that many utility IT projects involve expensive and unnecessary 
+8 
+“change requests,” because the requirements were not adequately defined up front, is 
+9 
+not a speculative or hypothetical concern: In California, despite approval of Pacific Gas 
+10 
+& Electric’s (“PG&E”) smart metering deployment that promised the capability of “over-
+11 
+the-air” firmware upgrades, PG&E later claimed it was necessary to charge customers 
+12 
+$41.90 per meter in “meter reprogramming” fees in order to accommodate a fairly 
+13 
+mundane change from 60-minute intervals to 15-minute intervals as was required for 
+14 
+residential customer demand response participation in the wholesale market, the 
+15 
+California Independent System Operator.12 Whether caused by vendor lock-in, poor 
+16 
+contract administration, lack of planning or other reasons, PG&E’s initial claims of 
+17 
+“future-proof” infrastructure and seamless upgrades at the time of AMI approval were 
+18 
+ultimately rendered false, with disastrous impacts on residential demand response in 
+19 
+California that cost ratepayers millions of dollars in unnecessary expenses to resolve. 
+20 
+ 
+12 Decision Addressing Budgets for Real-Time and Ancillary Services During the Initial 
+Implementation Step of Third-Party Demand Response Direct Participation. California Public 
+Utilities Commission, Decision D.16-03-008 (March 17, 2016) at 7. Available at 
+https://docs.cpuc.ca.gov/PublishedDocs/Published/G000/M159/K632/159632605.PDF.  
+
+
+--- Page 18 ---
+Case 20-E-0380 
+ 
+ 
+ 
+ 
+ 
+Mission:data Direct: Michael Murray 
+November 25, 2020 
+Page 18 of 24 
+ 
+For example, NMPC could claim in 2023 that it must charge exorbitant and innovation-
+1 
+destroying fees to deploy software apps to its meters, and the Commission will have 
+2 
+little ability to do anything about it because NMPC’s IT systems will have already been 
+3 
+built. This situation involving DI in New York can be prevented if the Commission 
+4 
+expeditiously rules on the policy issues raised in my testimony so as to minimize re-
+5 
+building, re-architecting or significantly modifying the IT systems in the future that 
+6 
+support DI. 
+7 
+Q.     PLEASE EXPLAIN YOUR SECOND CONCERN. 
+8 
+A.     Operating a DI App Store gives NMPC new and incredible power over energy 
+9 
+markets adjacent to the traditional wires-and-poles monopoly. Without rigorous 
+10 
+oversight by the Commission, it is not only possible but likely that fair competition 
+11 
+among NMPC, ESCOs, DERs and others will become difficult or impossible. For 
+12 
+example, NMPC will have the power to do the following: 
+13 
+• Restricting: Restrict access to the DI App Store to only those apps or app 
+14 
+developers who align with NMPC’s strategic interests, preventing customers from 
+15 
+accessing those products and services. Restrictions could be arbitrary and 
+16 
+capricious. 
+17 
+• Crippling: Cripple competitors’ access to certain meter features. For example, 
+18 
+NMPC could restrict access to voltage information on the meter, making third 
+19 
+party apps’ load disaggregations less accurate, thereby reserving superior 
+20 
+disaggregation functionality for NMPC’s apps. 
+21 
+
+
+--- Page 19 ---
+Case 20-E-0380 
+ 
+ 
+ 
+ 
+ 
+Mission:data Direct: Michael Murray 
+November 25, 2020 
+Page 19 of 24 
+ 
+• Self-preferencing: Grant special treatment to certain apps that align with NMPC’s 
+1 
+competitive position by pre-installing them on customer meters, while 
+2 
+disadvantaging other apps by making the customer take additional steps to 
+3 
+complete an app installation. 
+4 
+All of the above issues are not hypothetical; in fact, they have been seen in several app 
+5 
+stores in other contexts, notably on mobile devices, as documented in the House Anti-
+6 
+Trust Report. 
+7 
+ 
+Moreover, self-preferencing is of particular concern given that one of NMPC’s 
+8 
+affiliates, National Grid Partners, is a 9.4% owner in a venture capital fund whose 
+9 
+holdings include at least one firm that has publicly announced they are building software 
+10 
+apps for smart meters.13 This raises the possibility that NMPC will spend ratepayer 
+11 
+funds in order for its affiliate to profit. Energy Impact Partners (“EIP”) markets itself as 
+12 
+an investor that helps “shape the energy landscape of the future” by making strategic 
+13 
+investments on the part of electric utilities such as Xcel Energy, National Grid, Ameren, 
+14 
+Southern Company, and many others.14 EIP portfolio company Sense15 has announced 
+15 
+a partnership with Landis+Gyr to offer Sense’s load disaggregation technology as an 
+16 
+“app” on Landis+Gyr meters.16 If NMPC chooses Landis+Gyr for its metering 
+17 
+ 
+13 Exhibit MM-2 (Request of Mission:data Coalition, MISSION-011, to NMPC). 
+14 https://www.energyimpactpartners.com/partners/  
+15 For a list of EIP portfolio companies, see 
+https://www.energyimpactpartners.com/investments/equity/.  
+16 https://www.landisgyr.eu/news/landisgyr-partners-with-sense-to-add-next-generation-energy-
+management-solution-to-utility-iot-platform/  
+
+
+--- Page 20 ---
+Case 20-E-0380 
+ 
+ 
+ 
+ 
+ 
+Mission:data Direct: Michael Murray 
+November 25, 2020 
+Page 20 of 24 
+ 
+deployment, this clear conflict of interest could arise in the absence of the Commission 
+1 
+having a thorough understanding of how the DI App Store will operate, which app 
+2 
+developers are allowed to commercialize their products using DI, and who is getting 
+3 
+paid for deployment of their apps. The potential for self-dealing is yet another reason for 
+4 
+the Commission to issue a moratorium on the use of DI until these issues can be 
+5 
+comprehensively addressed. 
+6 
+Q.     DO NMPC’S PROCUREMENT GUIDELINES SUFFICIENTLY ADDRESS 
+7 
+THESE CONCERNS? 
+8 
+A.     No. The Company’s Global Procurement Strategic Sourcing Policy 
+9 
+(“Procurement Policy”) is designed for a non-digital world. Requirements such as 
+10 
+competitive bidding are necessary but not sufficient to address self-preferencing and 
+11 
+anti-competitive activity within the DI App Store. This is because the success or failure 
+12 
+of DI apps is not solely based upon clear measures such as price or functionality, topics 
+13 
+discussed in the Procurement Policy. For example, NMPC, as operator of a DI App 
+14 
+Store, could slow down the provision of technical support or app approval to those app 
+15 
+developers it does not like or it views as competitive, harming an app developer’s 
+16 
+commercial prospects merely through NMPC’s invisible neglect. A DI App Store 
+17 
+provides multiple ways for NMPC to conceal its treatment of app developers, whether 
+18 
+through deliberate crippling masquerading as inexplicable “bugs,” or the imposition of 
+19 
+imperceptible bandwidth decreases known as “throttling.” As the House Anti-Trust 
+20 
+Report confirms, anti-competitive activity and self-preferencing in app stores can occur 
+21 
+in myriad ways, none of which are addressed in the Procurement Policy.  
+22 
+
+
+--- Page 21 ---
+Case 20-E-0380 
+ 
+ 
+ 
+ 
+ 
+Mission:data Direct: Michael Murray 
+November 25, 2020 
+Page 21 of 24 
+ 
+Q.     PLEASE EXPLAIN YOUR THIRD CONCERN. 
+1 
+A.     Existing Commission policies established in the REV proceedings regarding 
+2 
+customer data are rendered obsolete by the advent of DI capabilities, providing another 
+3 
+reason for the Commission to issue a temporary moratorium on the use of DI. In the 
+4 
+REV Track 2 Order in Case 14-M-0101, the Commission established a definition of 
+5 
+“basic data” associated with AMI that must be provided free of charge to customers and 
+6 
+customer-authorized third parties. Basic data was defined as “the level of data 
+7 
+necessary to render, reconstruct and understand the customer’s bill.”17 Information 
+8 
+beyond basic data – generally understood to be aggregated or analyzed in some 
+9 
+fashion – could become a source of platform service revenue for utilities. However, in 
+10 
+2016, the Commission was entirely unaware of DI capabilities and therefore could not 
+11 
+consider this novel technology in its order; at the time, the only customer data collected 
+12 
+by advanced meters was 5-minute or 15-minute usage data, not usage, voltage and 
+13 
+current flows measured at 1/10,000th of a second. The REV Track 2 Order’s framing is 
+14 
+now outdated and confusing. For example, one could argue that DI-derived customer 
+15 
+insights should be considered “basic data” because ratepayers are being asked to fund 
+16 
+the meters and DI capabilities are built into every meter as a standard, non-optional 
+17 
+component. If DI-derived customer insights are deemed basic data, then NMPC has an 
+18 
+obligation to provide this information free of charge to customers and customer-
+19 
+authorized third parties, just as NMPC is promising to do with Green Button Connect; 
+20 
+however, no such capability is provided for in NMPC’s testimony. What NMPC’s 
+21 
+ 
+17 Order Adopting a Ratemaking and Utility Revenue Model Policy Framework. Case 14-M-
+0101, New York Public Service Commission. May 19, 2016 at 142. 
+
+
+--- Page 22 ---
+Case 20-E-0380 
+ 
+ 
+ 
+ 
+ 
+Mission:data Direct: Michael Murray 
+November 25, 2020 
+Page 22 of 24 
+ 
+obligations are to customers and customer-authorized third parties with respect to DI 
+1 
+capabilities are nebulous and undefined. All of this is to reiterate that NMPC’s proposed 
+2 
+DI capabilities raise serious public policy questions that need to be addressed by the 
+3 
+Commission prior to their use.  
+4 
+C. HARMS RESULTING FROM INACTION 
+5 
+Q.     WHAT HARMS COULD RESULT IF THE COMMISSION DOES NOT PROHIBIT 
+6 
+USE OF DI CAPABILITIES? 
+7 
+A.     There could be irreparable harm to DERs and ESCOs if NMPC is allowed to 
+8 
+move forward with DI in the absence of ground rules established by the Commission. 
+9 
+For example, NMPC could proceed to deploy advanced meters with their own 
+10 
+customer-facing apps pre-installed on meters, creating an asymmetry and barrier to 
+11 
+entry that cannot be undone. NMPC has already stated that it intends to use load 
+12 
+disaggregation apps; however, once NMPC’s own app is installed by default on the 
+13 
+meter, it creates a competitive disadvantage to other providers of disaggregation apps, 
+14 
+even if they are superior and more accurate. NMPC could take months or years to offer 
+15 
+the functionality for customers to authorize the installation of third party apps on their 
+16 
+meter via NMPC’s customer web portal, further entrenching NMPC’s market position in 
+17 
+a non-monopolistic market. Put simply, it is very difficult to “unscramble the omelet” 
+18 
+once NMPC begins using the DI capabilities to its advantage, no matter how diligent the 
+19 
+Commission’s decisions in the future may be. For these reasons, a temporary 
+20 
+moratorium is both warranted and necessary so that the Commission can ensure a level 
+21 
+playing field at the outset between regulated utilities and ESCOs and DERs. 
+22 
+
+
+--- Page 23 ---
+Case 20-E-0380 
+ 
+ 
+ 
+ 
+ 
+Mission:data Direct: Michael Murray 
+November 25, 2020 
+Page 23 of 24 
+ 
+Q.     DO YOU BELIEVE THAT DI CAPABILITIES SHOULD NEVER BE USED? 
+1 
+A.     No. I believe DI capabilities have the potential to provide significant value to 
+2 
+ratepayers in the form of enhanced analytics, energy savings offerings, and the like. 
+3 
+However, the most value from AMI will be realized when customers can choose various 
+4 
+products and services from competitive providers in a fair market. Permitting NMPC to 
+5 
+move ahead with DI – particularly when the Commission is gravely under-informed 
+6 
+about its public policy implications – would be unwise and could result in irreversible 
+7 
+negative consequences on energy innovation in New York. 
+8 
+ 
+9 
+III.       CONCLUSION 
+10 
+Q.     PLEASE SUMMARIZE YOUR RECOMMENDATIONS. 
+11 
+A.     I recommend that the Commission allow NMPC to move forward with AMI 
+12 
+deployment, but that the Commission should institute a temporary moratorium on the 
+13 
+use of DI capabilities pending Commission resolution of the topics I have addressed. 
+14 
+The Commission must consider, either in this docket or another one, issues including: is 
+15 
+the DI App Store within the Company’s certificated monopoly; who is eligible to make an 
+16 
+app; how customers can load an app of their choice on their meter; what are the 
+17 
+associated costs to customers and, potentially, app developers of using DI capabilities;  
+18 
+and how should NMPC’s activities be restrained to prevent anti-competitive activity such 
+19 
+as self-dealing, crippling features for competitors, and surveillance of competitors. 
+20 
+
+
+--- Page 24 ---
+Case 20-E-0380 
+ 
+ 
+ 
+ 
+ 
+Mission:data Direct: Michael Murray 
+November 25, 2020 
+Page 24 of 24 
+ 
+Q.     WHAT IS YOUR CONCLUSION? 
+1 
+A.     AMI’s promise is that it will provide direct benefits to ratepayers. However, it is 
+2 
+important to realize that many energy-saving and cost-saving benefits for consumers 
+3 
+will not come from NMPC directly, but rather indirectly through new energy 
+4 
+management tools and technologies provided by non-utility entities, whether they be 
+5 
+ESCOs, DERs or others. Consumers might hear about an energy management device 
+6 
+or application from their friends on Facebook or their neighbors, and not from NMPC. 
+7 
+For NMPC to truly provide a “platform” for consumer-focused energy innovation to 
+8 
+succeed, the platform must be open and non-discriminatory, and must operate without 
+9 
+undue interference from NMPC. The Company must not be permitted to operate the DI 
+10 
+capabilities and DI App Store without Commission oversight.  
+11 
+Q.     DOES THIS CONCLUDE YOUR TESTIMONY? 
+12 
+A.     Yes. 
+13 

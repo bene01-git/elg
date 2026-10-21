@@ -1,0 +1,2188 @@
+--- Page 1 ---
+ 
+BEFORE THE 
+NEW YORK STATE 
+PUBLIC SERVICE COMMISSION 
+----------------------------------------------------------------------------x 
+ 
+Proceeding on Motion of the Commission as to the 
+Rates, Charges, Rules and Regulations of  
+ 
+Case 20-E-0428 
+Central Hudson Gas & Electric Corporation 
+for Electric Service 
+ 
+----------------------------------------------------------------------------x 
+ 
+----------------------------------------------------------------------------x 
+ 
+Proceeding on Motion of the Commission as to the 
+Rates, Charges, Rules and Regulations of  
+ 
+Case 20-G-0429 
+Central Hudson Gas & Electric Corporation 
+for Gas Service 
+ 
+----------------------------------------------------------------------------x 
+ 
+ 
+ 
+ 
+ 
+ 
+ 
+REBUTTAL TESTIMONY OF THE 
+INFORMATION TECHNOLOGY PANEL 
+ 
+ 
+ 
+ 
+ 
+ 
+ 
+ 
+ 
+ 
+ 
+ 
+ 
+ 
+January 22, 2021 
+ 
+
+
+--- Page 2 ---
+Case 20-E-0428; Case 20-G-0429 
+ 
+REBUTTAL TESTIMONY OF THE INFORMATION TECHNOLOGY 
+PANEL 
+i 
+ 
+ 
+1 
+TABLE OF CONTENTS 
+2 
+I. 
+INTRODUCTION ......................................................................................... 1 
+3 
+II. 
+PURPOSE OF TESTIMONY ....................................................................... 5 
+4 
+III. 
+ERP TRANSFORMATION PROJECT ADJUSTMENTS ............................. 6 
+5 
+IV. 
+CUSTOMER EXPERIENCE IT CAPITAL ADJUSTMENTS ...................... 15 
+6 
+V. 
+CYBERSECURITY HARDWARE & SOFTWARE ADJUSTMENTS .......... 24 
+7 
+VI. 
+COMMUNICATION INVESTMENT ADJUSTMENTS ................................ 29 
+8 
+VII. 
+OTHER IT CAPITAL ADJUSTMENTS ...................................................... 29 
+9 
+VIII. IT FTE REQUIREMENTS ......................................................................... 33 
+10 
+11 
+
+
+--- Page 3 ---
+Case 20-E-0428; Case 20-G-0429 
+ 
+REBUTTAL TESTIMONY OF THE INFORMATION TECHNOLOGY 
+PANEL 
+ 
+ 
+I. 
+INTRODUCTION 
+1 
+Q. 
+Please state the names and roles of the members of the Information 
+2 
+Technology Panel (“Panel”) for the record. 
+3 
+A. 
+Our names are Donna L. Kladis, Zachary P. Miller, David J. Dittmann, 
+4 
+Donald L. DuBois, Lora J. Gescheidle, and Eileen M. Lomoriello.  
+5 
+Q.    
+Are the members of the Company’s Enterprise Resource Planning Panel 
+6 
+that previously sponsored direct testimony on behalf of Central Hudson 
+7 
+Gas & Electric Corporation (“Central Hudson” or the “Company”) 
+8 
+participating as members of this Panel? 
+9 
+A. 
+Yes, Donna L. Kladis, Donald L. DuBois, and Lora J. Gescheidle are the 
+10 
+same individuals that sponsored the Enterprise Resource Planning Panel. 
+11 
+These individuals, along with Eileen M. Lomoriello, Zachary P. Miller and 
+12 
+David J. Dittmann, compromise the Panel.  
+13 
+Q.    
+Ms. Lomoriello, please state your current employer, business address and 
+14 
+scope of responsibilities. 
+15 
+A. 
+I am employed by Central Hudson and my business address is 284 South 
+16 
+Avenue, Poughkeepsie, New York 12601. I am employed as Manager – 
+17 
+Customer Account Services. In that capacity, I am responsible for 
+18 
+customer operations including meter to cash field operations and 
+19 
+customer-facing operations in our Contact Center. I am also responsible 
+20 
+for the Company’s digital customer experience strategy.  
+21 
+
+
+--- Page 4 ---
+Case 20-E-0428; Case 20-G-0429 
+ 
+REBUTTAL TESTIMONY OF  THE INFORMATION TECHNOLOGY 
+PANEL 
+2 
+ 
+Q.    
+Ms. Lomoriello, what is your educational background and professional 
+1 
+experience? 
+2 
+A. 
+I am a 1996 graduate of the University of Pennsylvania with a Master of 
+3 
+Government Administration degree (Finance concentration), a 1992 
+4 
+graduate of Barnard College/Columbia University with a Bachelor of Arts 
+5 
+degree in Political Science and I have also substantially completed a 
+6 
+Bachelor of Science degree in Accounting at SUNY New Paltz. Prior to 
+7 
+joining Central Hudson, I held various positions in public accounting, 
+8 
+public sector management and tax and incentives consulting. I joined 
+9 
+Central Hudson as an Accountant in the Financial Reporting Group in 
+10 
+2006 and held various positions of increasing responsibility within the 
+11 
+Accounting organization through 2010. From 2010 through 2015, I ran 
+12 
+Central Hudson’s Credit & Collections operation within the Customer 
+13 
+Service group. In 2015, I moved into the role of Associate Director of 
+14 
+Strategic Planning and was promoted to Director in 2016, and then to 
+15 
+Manager of Financial Planning & Analysis. In July 2018, I assumed my 
+16 
+current role as Manager of Customer Account Services.  
+17 
+Q.    
+Ms. Lomoriello, have you previously testified before the New York State 
+18 
+Public Service Commission (“PSC” or the “Commission”)? 
+19 
+A. 
+Yes. I have testified before the Commission in Cases 17-E-0459 and 17-
+20 
+G-0460. 
+21 
+
+
+--- Page 5 ---
+Case 20-E-0428; Case 20-G-0429 
+ 
+REBUTTAL TESTIMONY OF  THE INFORMATION TECHNOLOGY 
+PANEL 
+3 
+ 
+Q.    
+Mr. Miller, please state your current employer, business address and 
+1 
+scope of responsibilities. 
+2 
+A. 
+I am employed by Central Hudson and my business address is 284 South 
+3 
+Avenue, Poughkeepsie, New York 12601. I am employed as PM – IT 
+4 
+Business & Strategy Office. In that capacity I am responsible for the 
+5 
+financial & strategic management and planning of the Information 
+6 
+Technology (“IT”), Operational Technology (“OT”) and Records 
+7 
+Management (“RM”) organization. 
+8 
+Q.    
+Mr. Miller, what is your educational background and professional 
+9 
+experience? 
+10 
+A. 
+ I am a 2018 graduate of Marist College with a Bachelor of Science 
+11 
+degree in Information Technology & Information Systems. I joined the 
+12 
+Company in 2018 as a Junior Project Manager in the IT Project 
+13 
+Management Office and have been promoted to several positions of 
+14 
+increasing responsibility. From 2018 through January 2020 I managed 
+15 
+projects within the IT portfolio including the initial assessment phases of 
+16 
+both CIS Modernization and the Enterprise Work and Asset Management 
+17 
+(“EWAM”) project (within the Enterprise Resource Planning 
+18 
+Transformation – Phase III). In 2020, I assumed my current role of PM – 
+19 
+IT Business & Strategy Office.  
+20 
+Q.    
+Mr. Miller, have you previously testified before the Commission? 
+21 
+A. 
+No, I have not. 
+22 
+
+
+--- Page 6 ---
+Case 20-E-0428; Case 20-G-0429 
+ 
+REBUTTAL TESTIMONY OF  THE INFORMATION TECHNOLOGY 
+PANEL 
+4 
+ 
+Q.    
+Mr. Dittmann, please state your current employer, business address and 
+1 
+scope of responsibilities. 
+2 
+A. 
+I am employed by Central Hudson and my business address is 284 South 
+3 
+Avenue, Poughkeepsie, New York 12601. I am employed as Manager – 
+4 
+OT, Networks & Cybersecurity. In that capacity I am responsible for the 
+5 
+OT, Networking and Cybersecurity teams. 
+6 
+Q.    
+Mr. Dittmann, what is your educational background and professional 
+7 
+experience? 
+8 
+A. 
+ I received a Bachelor of Science in Electrical Engineering from Clarkson 
+9 
+University in 1990, a Master of Engineering in Electric Power Engineering 
+10 
+from Rensselaer Polytechnic Institute in 1994 and a Master of Business 
+11 
+Administration from Rensselaer Polytechnic Institute in 2007.  I have a 
+12 
+prior registration as a Professional Engineer in New York State (currently 
+13 
+inactive).  Over the last 30 years, I have been an engineering and 
+14 
+management employee of Central Hudson.  I joined Central Hudson in 
+15 
+1990 as a Junior Engineer and have been promoted to several positions 
+16 
+within the utility, including Section Engineer – Electric System Design and 
+17 
+Manager of Customer Services, Manager of Electric Engineering, and my 
+18 
+current position Manager of OT, Networks and Cybersecurity.  
+19 
+Q.    
+Mr. Dittmann, have you previously testified before the Commission? 
+20 
+A. 
+Yes. I have testified before the Commission in Cases 17-E-0459 and 17-
+21 
+G-0460. 
+22 
+
+
+--- Page 7 ---
+Case 20-E-0428; Case 20-G-0429 
+ 
+REBUTTAL TESTIMONY OF  THE INFORMATION TECHNOLOGY 
+PANEL 
+5 
+ 
+ 
+1 
+II. 
+PURPOSE OF TESTIMONY 
+2 
+Q.    
+What is the overall purpose of the Panel’s rebuttal testimony? 
+3 
+A. 
+The Panel responds to certain aspects of the New York State Department 
+4 
+of Public Service (“Staff”) Common Capital Panel and Security Panel 
+5 
+testimony. More specifically, the Panel addresses the following topics: 
+6 
+1) Enterprise Resource Planning (“ERP”) Transformation project 
+7 
+(Phase III); 
+8 
+2) Customer Experience (“CX”) Information Technology (“IT”) 
+9 
+capital investment downward adjustments; 
+10 
+3) Cybersecurity Hardware & Software investment adjustments; 
+11 
+4) Communications investment adjustments; 
+12 
+5) Other IT Capital adjustments; and 
+13 
+6) All Information Technology Full Time Equivalent (“FTE”) staffing 
+14 
+requirements. 
+15 
+Q.    
+Is the Panel sponsoring any exhibits? 
+16 
+A. 
+Yes. The Panel is sponsoring the following exhibits:  
+17 
+Exhibit__ (ITP-1R) includes Staff responses to Company information 
+18 
+requests relied upon in the development of this rebuttal testimony; 
+19 
+Exhibit__ (ITP-2R) includes Company responses to Staff information 
+20 
+requests referenced in the Panel’s rebuttal testimony; 
+21 
+Exhibit__ (ITP-3R) which reflects 2018 – 2020 Chat Volumes by Month; 
+22 
+
+
+--- Page 8 ---
+Case 20-E-0428; Case 20-G-0429 
+ 
+REBUTTAL TESTIMONY OF  THE INFORMATION TECHNOLOGY 
+PANEL 
+6 
+ 
+Exhibit__ (ITP-4R) which reflects Cybersecurity Third-Party Research, 
+1 
+and; 
+2 
+ 
+Exhibit __ (ITP-5R) which reflects actual 2020 Cybersecurity Software and 
+3 
+Hardware Investments. 
+4 
+  
+5 
+III. 
+ERP TRANSFORMATION PROJECT ADJUSTMENTS 
+6 
+Q.    
+Does more than one Staff Panel address the ERP Transformation 
+7 
+Project? 
+8 
+A. 
+Yes. The Staff Security Panel and the Staff Common Capital Panel 
+9 
+(“SCCP”) both address aspects of the ERP Transformation Project. 
+10 
+Q.    
+Turning initially to the testimony of the Staff Security Panel, is Staff 
+11 
+generally in agreement with the Company’s ERP Panel’s and the Capital 
+12 
+Plan Panel’s testimony regarding the ERP Mainframe’s risks, in particular 
+13 
+the need for its replacement to address Cybersecurity concerns?  
+14 
+A. 
+Yes. The Staff Security Panel recognizes ERP Mainframe risks on page 
+15 
+18 of its testimony and states that it supports “…the concept of migrating 
+16 
+the remaining major functions and removing the mainframe in a timely 
+17 
+manner to mitigate the cybersecurity risks.” 
+18 
+Q.    
+Is Staff’s view that Cybersecurity risks support removal of the ERP 
+19 
+Mainframe in a “timely manner” in agreement and supportive of the 
+20 
+Company’s strategy regarding replacement of the ERP Mainframe? 
+21 
+A. 
+Yes. 
+22 
+
+
+--- Page 9 ---
+Case 20-E-0428; Case 20-G-0429 
+ 
+REBUTTAL TESTIMONY OF  THE INFORMATION TECHNOLOGY 
+PANEL 
+7 
+ 
+Q.    
+Turning to the SCCP testimony, is it in harmony with the Cybersecurity 
+1 
+recommendations of Staff’s Security Panel regarding timely replacement 
+2 
+of the Mainframe? 
+3 
+A. 
+No.  
+4 
+Q.    
+Please explain why not. 
+5 
+A. 
+The SCCP provides only a limited portion of the funding necessary to 
+6 
+execute the ERP Transformation project in the Rate Year. On page 20 of 
+7 
+the SCCP testimony, Staff recommends that the Company complete an 
+8 
+RFP for the Finance component of Phase III work to determine firm project 
+9 
+costs. Although funding associated with this RFP process was 
+10 
+inadvertently removed from the IT Capital Plan as an adjustment, Staff 
+11 
+confirmed in their response to the Company’s IR (CH to DPS (134) 
+12 
+(Exhibit__ (ITP-1R)) that the $770,000 funding for the RFP (“Financial 
+13 
+Assessment”) should be retained in the Company’s IT Capital Plan. 
+14 
+However, all other Capital, O&M and FTEs proposed by the Company and 
+15 
+necessary to begin execution of the project in the Rate Year were rejected 
+16 
+by the SCCP. 
+17 
+Q.    
+What reasons did Staff assert for the removal of all other Capital, O&M 
+18 
+and FTEs for execution of the ERP Transformation Project? 
+19 
+A. 
+On page 20 of the SCCP testimony, Staff states that based “on the 
+20 
+uncertainty surrounding the estimated total costs of this project, coupled 
+21 
+with implementing a project of this scale during the current economic 
+22 
+
+
+--- Page 10 ---
+Case 20-E-0428; Case 20-G-0429 
+ 
+REBUTTAL TESTIMONY OF  THE INFORMATION TECHNOLOGY 
+PANEL 
+8 
+ 
+environment, we recommend that no additional costs are allowed in a one-
+1 
+year rate case.” 
+2 
+Q.    
+Before turning to Staff’s rationale for denying funding, does the Company 
+3 
+agree with Staff regarding the performance of the Financial Assessment in 
+4 
+Q4 2021? 
+5 
+A. 
+Yes. Performing the Financial Assessment in Q4 2021 will further solidify 
+6 
+the total forecasted project costs and timelines.  
+7 
+Q.    
+Does the Company agree with Staff’s rationale for removing all additional 
+8 
+Capital, O&M and FTEs for the Company’s ERP Transformation Project? 
+9 
+A. 
+No. These resources are needed to allow the ERP Transformation Project 
+10 
+to commence immediately following completion of the Financial 
+11 
+Assessment. An immediate commencement of the ERP Transformation is 
+12 
+necessary to replace the ERP Mainframe in a “timely manner” while 
+13 
+addressing Cybersecurity risks identified not only by the Company but 
+14 
+also by the Staff Security Panel.  
+15 
+Q.    
+Please explain in greater detail why the SCCP’s recommended removal of 
+16 
+critical funding does not allow the Company to proceed with replacing the 
+17 
+ERP Mainframe in a timely manner. 
+18 
+A. 
+The Company’s project timeline, which was outlined in the Company’s 
+19 
+response to DPS – 334 Attachment 7 Confidential (Exhibit__ (ITP-2R)), 
+20 
+was designed to achieve an in-service date of Q1 2024. Modification to 
+21 
+the timeline, as proposed by the SCCP, would negatively impact 
+22 
+
+
+--- Page 11 ---
+Case 20-E-0428; Case 20-G-0429 
+ 
+REBUTTAL TESTIMONY OF  THE INFORMATION TECHNOLOGY 
+PANEL 
+9 
+ 
+achievement of the planned in-service date.  The current timeline takes 
+1 
+into account: 1) remediation of the identified risks in a timely manner; 2) 
+2 
+the foundational dependencies regarding completion of the ERP Project 
+3 
+following the CIS Modernization (“Phase II”); and 3) avoidance of 
+4 
+unnecessary investments in software & hardware upgrades. Without 
+5 
+increasing the existing risks and costs, preservation of the project timeline 
+6 
+with an in-service date of Q1 2024 requires that the ERP Transformation 
+7 
+project commence immediately following the completion of the Financial 
+8 
+Assessment. The SCCP’s removal of the needed Rate Year funding 
+9 
+unnecessarily delays the remediation of identified customer and Company 
+10 
+risks and significantly increases the Company’s operational risk profile 
+11 
+potentially leading to increased future costs for customers. These 
+12 
+operational risks are summarized in the Company’s IR response to DPS – 
+13 
+334 Attachment 7 Confidential (Exhibit__ (ITP-2R)). Risks include: 
+14 
+1. Cybersecurity: 
+15 
+a. Restrictive Cybersecurity capabilities, not meeting best-
+16 
+practice standards, as further outlined in the Company’s 
+17 
+response to DPS – 459 Confidential (Exhibit__ (ITP-2R)), 
+18 
+b. Restrictive Disaster Recovery design: This complex 
+19 
+architecture and aging technology leads to delayed system 
+20 
+restoration and potential data loss in the event of an incident. 
+21 
+2. Operational: 
+22 
+
+
+--- Page 12 ---
+Case 20-E-0428; Case 20-G-0429 
+ 
+REBUTTAL TESTIMONY OF  THE INFORMATION TECHNOLOGY 
+PANEL 
+10 
+ 
+a. Complex Technical Design and Processes Delaying 
+1 
+Business Decisions: Due to the complex system architecture 
+2 
+and limitations, real-time integration processing impedes 
+3 
+operational business decision making and customer 
+4 
+interactions. 
+5 
+b. Aging Technology resulting in Decreasing Availability of 
+6 
+Technical Workforce: This impacts the overall costs 
+7 
+associated with the maintenance and support of the ERP 
+8 
+Mainframe through decreased availability of a skilled 
+9 
+workforce and increased compensation, which has been 
+10 
+detailed in the Company’s IR response to DPS – 572 
+11 
+Confidential (Exhibit__ (ITP-2R)). 
+12 
+Q.    
+Is the Cybersecurity risk associated with the ERP Mainframe a key 
+13 
+concern of the Panel?   
+14 
+A. 
+Yes. The Cybersecurity risks fully support the Panel’s recommendation 
+15 
+that the ERP Mainframe be timely replaced. 
+16 
+Q.    
+Does Staff also acknowledge the cybersecurity risks associated with the 
+17 
+existing ERP Mainframe? 
+18 
+A. 
+The Staff Security Panel expressly recognizes the Cybersecurity risks on 
+19 
+page 18 of its testimony where Staff notes that “An evaluation of the 
+20 
+mainframe using the NIST CSF shows that it is either limited or incapable 
+21 
+of meeting best practices for critical infrastructure. Its replacement with an 
+22 
+
+
+--- Page 13 ---
+Case 20-E-0428; Case 20-G-0429 
+ 
+REBUTTAL TESTIMONY OF  THE INFORMATION TECHNOLOGY 
+PANEL 
+11 
+ 
+industry recognized enterprise solution eliminates or mitigates many 
+1 
+vulnerabilities, allows implementation of current cybersecurity capabilities 
+2 
+that the mainframe cannot support, as well as providing additional 
+3 
+resilience to incidents and capabilities for incident response and recovery.”  
+4 
+Q.    
+Are there other negative implications for customers and the Company 
+5 
+created by the SCCP recommendation to eliminate funding (other than the 
+6 
+Financial Assessment) for the replacement of the ERP Mainframe in the 
+7 
+Rate Year? 
+8 
+A. 
+Yes. The Company developed its filing and overall revenue requirement 
+9 
+based on the timeline that establishes a goal of achieving an in-service 
+10 
+date of Q1 2024 for the ERP Mainframe replacement. If the project is 
+11 
+delayed, as the SCCP’s proposed removal of funding in the Rate Year 
+12 
+would do, operational risks would persist longer. In addition, significant 
+13 
+costs would need to be provided for the ERP Mainframe extension that 
+14 
+are currently not included in the Company’s presentation of revenue 
+15 
+requirements. This was previously identified in the ERP Panel’s direct 
+16 
+testimony. In addition, certain expected savings outlined by the ERP Panel 
+17 
+would also be delayed. These additional costs and lost savings are 
+18 
+outlined in the Company’s response to DPS – 589 question 3 (Exhibit__ 
+19 
+(ITP-2R)) and summarized below: 
+20 
+ Annual System & Hardware support costs for the ERP Mainframe 
+21 
+of $1.4 million,  
+22 
+
+
+--- Page 14 ---
+Case 20-E-0428; Case 20-G-0429 
+ 
+REBUTTAL TESTIMONY OF  THE INFORMATION TECHNOLOGY 
+PANEL 
+12 
+ 
+ The natural attrition of existing ERP Mainframe support staff 
+1 
+(equating to six FTEs) would have to be replaced. These six FTEs 
+2 
+forecasted for retirement would be required to be replaced to 
+3 
+ensure continued system support, which is noted in the 
+4 
+Company’s IR response to DPS – 572 (Exhibit__ (ITP-2R)).  
+5 
+ Periodic software and hardware upgrades that are not included in 
+6 
+the Company’s proposed budget, amounting to $1 million, that 
+7 
+must be executed to maintain vendor support and compliance.  
+8 
+ All of the noted EWAM savings (as is outlined in the Company’s 
+9 
+response to DPS – 589 Attachment 1, in Exhibit__ (ITP-2R)). 
+10 
+ Additional emergent funds would be needed to address risks and 
+11 
+issues that will likely emerge given the continued reliance on the 
+12 
+ERP Mainframe well beyond its estimated useful life. 
+13 
+Q.    
+The SCCP also points to the current economic environment and the scale 
+14 
+of the project as a reason for denying the Company Rate Year funding for 
+15 
+the ERP Mainframe replacement project.  What is the Company’s 
+16 
+response to this concern? 
+17 
+A. 
+Although the Company understands Staff’s concern regarding the 
+18 
+economic environment that now exists as a result of the COVID-19 
+19 
+pandemic, it also fully recognizes the Company’s current and long-term 
+20 
+obligation to provide safe and reliable delivery service to its customers. 
+21 
+The ERP Mainframe replacement project is necessary to avoid critical 
+22 
+
+
+--- Page 15 ---
+Case 20-E-0428; Case 20-G-0429 
+ 
+REBUTTAL TESTIMONY OF  THE INFORMATION TECHNOLOGY 
+PANEL 
+13 
+ 
+risks to the Company’s ability to meet that obligation. Additionally, it is 
+1 
+important to note that the project has an in-service date that will not occur 
+2 
+until 2024. 
+3 
+Q.    
+Staff also raises uncertainty regarding project cost as a concern on page 
+4 
+20 of Staff’s Common Capital Testimony. Has this concern been mitigated 
+5 
+by the Company? 
+6 
+A. 
+Yes. As the Panel indicated previously, the Company will complete the 
+7 
+Financial Assessment sought by Staff. The Financial Assessment will be 
+8 
+completed in Q4 2021 to further solidify the overall project cost estimates 
+9 
+prior to project initiation. In addition, the Company is willing to explore 
+10 
+certain project timeline-based updates with Staff, as discussed later in our 
+11 
+testimony, to reduce uncertainty based on refined project timelines, scope 
+12 
+and costs. The completed Financial Assessment will provide the 
+13 
+information necessary to enable the Company to obtain a fixed-bid 
+14 
+contract with a third-party to support implementation of the project, which 
+15 
+will reduce volatility associated with vendor costs. For a project of this 
+16 
+magnitude, where an initial assessment is performed, a fixed-bid contract 
+17 
+with a third-party holds that party responsible for the accuracy of their 
+18 
+work performed in generating the implementation cost estimate. The 
+19 
+assessment is a direct input into the subsequent preparation and 
+20 
+blueprint/system design phase. Any concerns about excessive uncertainty 
+21 
+are further mitigated by the ability to analyze the identified project cost 
+22 
+
+
+--- Page 16 ---
+Case 20-E-0428; Case 20-G-0429 
+ 
+REBUTTAL TESTIMONY OF  THE INFORMATION TECHNOLOGY 
+PANEL 
+14 
+ 
+levers (found in the Company’s response to DPS – 334 Attachment 7 
+1 
+Confidential in Exhibit__ (ITP-2R)). Such cost levers form the basis of the 
+2 
+current project estimate and will be further refined in the Financial 
+3 
+Assessment.  
+4 
+Q.    
+Please provide additional details of the Company’s earlier proposal to 
+5 
+provide scheduled project updates to Staff. 
+6 
+A. 
+The Company is proposing to provide updates to Staff as described in the 
+7 
+Company’s response to DPS-334 Attachment 7 Confidential (Exhibit__ 
+8 
+(ITP-2R)). These updates have been identified at key points throughout 
+9 
+the project to demonstrate that the project is proceeding in a timely 
+10 
+manner thus mitigating Staff’s concern about project uncertainty. An 
+11 
+outline of the proposed updates, anticipated due dates, and the key 
+12 
+deliverables expected is below: 
+13 
+ 
+14 
+ 
+15 
+ 
+16 
+Q.    
+Please expand upon the first proposed Company update, which would 
+17 
+occur in the Rate Year.  
+18 
+A. 
+The first proposed update would follow completion of the Financial 
+19 
+Assessment and System Implementor (“SI”) RFP issuance in Q4 2021. At 
+20 
+Update Number 
+Update Date 
+Deliverable 
+1 – Completion of 
+Financial Assessment 
+End Q4 2021 All-inclusive refined project 
+cost baseline, a refined project 
+timeline and business case 
+2 – Completion of 
+Blueprinting Phase 
+(System Design) 
+End Q3 2022 Project update inclusive of 
+scope, budget and timeline 
+3 – Completion of 
+System Go-Live & 
+Stabilization 
+End Q4 2024 Cataloged anticipated benefits 
+and corresponding cost 
+efficiencies 
+
+
+--- Page 17 ---
+Case 20-E-0428; Case 20-G-0429 
+ 
+REBUTTAL TESTIMONY OF  THE INFORMATION TECHNOLOGY 
+PANEL 
+15 
+ 
+that time, the Company will identify total project costs, update the 
+1 
+schedule and further develop an all-inclusive business case for EWAM 
+2 
+and Finance. The key deliverables of this milestone will be an all-inclusive 
+3 
+refined project cost baseline, project timeline and business case for the 
+4 
+ERP Transformation Project (Phase III). 
+5 
+IV. 
+CUSTOMER EXPERIENCE IT CAPITAL ADJUSTMENTS  
+6 
+Q.    
+Moving beyond the ERP Project, does Staff’s Security Panel and Common 
+7 
+Capital Panel (“SCCP”) make downward adjustments that eliminated IT 
+8 
+funding associated with several critical Customer Experience projects? 
+9 
+A. 
+Yes. The SCCP on page 15 of its testimony recommends that costs 
+10 
+associated with three Customer Experience Projects be eliminated 
+11 
+primarily due to Staff’s assertion that the Company has not provided 
+12 
+sufficient detail regarding cost efficiencies and non-financial benefits that 
+13 
+will result from these projects. The three projects impacted are: 
+14 
+
+
+--- Page 18 ---
+Case 20-E-0428; Case 20-G-0429 
+ 
+REBUTTAL TESTIMONY OF  THE INFORMATION TECHNOLOGY 
+PANEL 
+16 
+ 
+Project Name 
+2021 
+2022 
+2023 
+2024 
+Robotic Process 
+Automation (“RPA”) 
+$408,000 
+$401,000 
+$0 
+$678,000 
+CIS/Customer 
+Experience (“CX”) 
+$2,316,000 
+$415,000 
+$340,000 
+$788,000 
+CIS – Customer 
+Relationship 
+Management (“CRM”) 
+$0 
+$0 
+$1,145,000 $5,421,000 
+ 
+1 
+The total proposed capital expenditures of these three projects is $12.8 
+2 
+million over a five-year forecasted period, with $1.9 million planned for the 
+3 
+Rate Year ending June 30, 2022.  
+4 
+Q.    
+Does the Company agree with the SCCP’s rationale for reducing these 
+5 
+Customer Experience IT Capital Investments? 
+6 
+A. 
+No, we strongly disagree with the elimination of capital for the RPA 
+7 
+project, the CRM project and the CIS/CX project. 
+8 
+Q.    
+Taking the three projects in order, please explain why the Company does 
+9 
+not agree with Staff on the elimination of the RPA project. 
+10 
+A. 
+The Robotic Process Automation (“RPA”) project should not be eliminated. 
+11 
+As Staff recognizes on page 14 of the SCCP testimony, the project 
+12 
+consists of system enhancements that automate high volume repetitive 
+13 
+work that is typically done manually, thus freeing up customer service 
+14 
+representatives to interact with customers. The RPA is critical to the 
+15 
+Company’s ability to deliver enhanced digital customer interactions, 
+16 
+operational efficiencies and potential O&M savings for customers.  
+17 
+
+
+--- Page 19 ---
+Case 20-E-0428; Case 20-G-0429 
+ 
+REBUTTAL TESTIMONY OF  THE INFORMATION TECHNOLOGY 
+PANEL 
+17 
+ 
+Q.    
+What other value would be created for Customers and the Company when 
+1 
+this project is implemented? 
+2 
+A. 
+Value will be provided to the Company through process efficiencies which 
+3 
+enable the Company to allocate employees to other activities that provide 
+4 
+greater and more direct value to our customers. Value will also be 
+5 
+provided to our customers as the project would enable customer 
+6 
+interactions outside of normal business hours and provide Spanish 
+7 
+language options. RPA Bots further provide value to customers through 
+8 
+enabling solutions that provide new customer interaction channels and 
+9 
+enable first contact resolution, eliminating the need for a phone call.  The 
+10 
+“Bots” will also provide customers with around the clock support coverage 
+11 
+in our digital channels such as chat, Interactive Voice Response (“IVR”) 
+12 
+and Web. In 2020, “live chat” usage essentially doubled as customers 
+13 
+engaged directly in chat through prominent links on the Company’s 
+14 
+website. This increase in use of chat is noted in the chart in Exhibit__ 
+15 
+(ITP-3R). This live chat is only available now during our regular hours of 
+16 
+operations – Monday through Friday 8am through 8pm and Saturdays 
+17 
+from 9am to 1pm.  In this specific case, a Bot will extend the availability of 
+18 
+this channel to customers at all hours, improving customer experience for 
+19 
+those customers who prefer to interact with the Company digitally.  
+20 
+
+
+--- Page 20 ---
+Case 20-E-0428; Case 20-G-0429 
+ 
+REBUTTAL TESTIMONY OF  THE INFORMATION TECHNOLOGY 
+PANEL 
+18 
+ 
+Q.    
+Please discuss the anticipated business processes the RPA project will 
+1 
+address.  
+2 
+A. 
+There are several business processes that the RPA project will target to 
+3 
+provide automation support. The processes summarized below are those 
+4 
+that are planned to be addressed with this RPA project. These have also 
+5 
+previously been outlined in the Company’s IR response to DPS – 667 
+6 
+question 2 (Exhibit__ (ITP-2R)).  
+7 
+ Manual Bi-Monthly Meter Reading/Interim Estimate: Currently, 
+8 
+customers can send in actual meter readings during the months 
+9 
+in which their bill is estimated– a common pain point for 
+10 
+customers. Customers submit their meter reads to the Contact 
+11 
+Center as a numeric index or a picture in an email which is then 
+12 
+manually reviewed and entered into the Company’s system. 
+13 
+During 2020, the Contact Center processed 11,139 such meter 
+14 
+readings through this process. With RPA, the Company could 
+15 
+automatically process these emails, validate the meter readings, 
+16 
+identify areas of exception and subsequently post the readings 
+17 
+in the CIS SAP S/4 Hana system. 
+18 
+ Integration into the IVR for speech to text request handling: 
+19 
+Currently our IVR is only responsive to key-touch responses. 
+20 
+With the implementation of an RPA bot on the IVR platform, the 
+21 
+
+
+--- Page 21 ---
+Case 20-E-0428; Case 20-G-0429 
+ 
+REBUTTAL TESTIMONY OF  THE INFORMATION TECHNOLOGY 
+PANEL 
+19 
+ 
+Company can enable speech responsiveness for self-service 
+1 
+requests and avoid calls flowing to the live CSRs. 
+2 
+ Managing system exceptions: Handling exceptions such as joint 
+3 
+invoicing, manual customer account notes, manual out sorts, bill 
+4 
+not invoiced and other error exceptions, thus avoiding a CSR to 
+5 
+handle. 
+6 
+ Processing system updates: Processing new services, creation 
+7 
+or mass updates of business master data. 
+8 
+ Reviewing and processing security deposit requests and 
+9 
+automated releases: Providing customers the ability to provide 
+10 
+security deposits and releases in a self-service manner thus 
+11 
+avoiding a live CSR contact and handling. 
+12 
+Q.  
+What would the impact be from Staff’s elimination of funding for the 
+13 
+RPA/Bots? 
+14 
+A. 
+There would be inadequate funding to develop the RPA bots proposed by 
+15 
+the Company, which would result in the elimination of all related customer 
+16 
+and Company benefits. 
+17 
+Q.    
+Please explain why the Company does not agree with Staff on the 
+18 
+elimination of the second customer experience project, the CIS/CX 
+19 
+Emergent Demand project. 
+20 
+A. 
+The CIS/CX Emergent Demand project, as is described in the Company’s 
+21 
+response to DPS – 507 (Exhibit__ (ITP-2R)), is a needed foundational 
+22 
+
+
+--- Page 22 ---
+Case 20-E-0428; Case 20-G-0429 
+ 
+REBUTTAL TESTIMONY OF  THE INFORMATION TECHNOLOGY 
+PANEL 
+20 
+ 
+project that the Company inadvertently initially categorized under 
+1 
+Transformational investments. This project actually supports “Business-
+2 
+as-Usual” requirements. This line item was identified subsequently as a 
+3 
+risk mitigation mechanism within the IT Capital forecast, a funding source 
+4 
+for mandatory software upgrades to remain in alignment with vendor 
+5 
+support and as funding for emergent demands due to changing business 
+6 
+needs or processes. If Staff’s recommendation to eliminate funding for this 
+7 
+project were to be adopted, the Company would have insufficient funds to 
+8 
+support these mandatory system upgrades or to address emerging local 
+9 
+rule and regulatory changes. Failure to upgrade these systems would 
+10 
+increase the Company’s operational and cybersecurity risks and 
+11 
+potentially jeopardize vendor support of critical systems due to support 
+12 
+compatibility. 
+13 
+Q.    
+Please describe further the value of the CIS/CX Emergent Demand project 
+14 
+and why it should be funded at the level recommended by the Panel. 
+15 
+A. 
+There are currently three forecasted mandatory upgrades for 2021 in 
+16 
+alignment with the CIS/CX funding project. These mandatory system 
+17 
+upgrades ensure that the Company continues to run the most recent 
+18 
+versions of software solutions – in accordance with Cybersecurity and 
+19 
+industry best practices. Should the Company not perform these mandatory 
+20 
+upgrades, there could be increased costs associated with extended 
+21 
+support or the systems could go unsupported, and an increased risk of 
+22 
+
+
+--- Page 23 ---
+Case 20-E-0428; Case 20-G-0429 
+ 
+REBUTTAL TESTIMONY OF  THE INFORMATION TECHNOLOGY 
+PANEL 
+21 
+ 
+Cybersecurity issues or loss of the system. An example of a mandatory 
+1 
+system upgrade is the SAP S/4 Hana System Support Pack update that is 
+2 
+anticipated in Q4 2021. This upgrade is mandatory for the Company to 
+3 
+remain in compliance with vendor support. The CIS/CX Emergent 
+4 
+Demand project will also support any needed investments to keep in 
+5 
+alignment with local rule and regulatory changes, as well as to adapt to 
+6 
+the changing demands of our customers and internal business processes. 
+7 
+Q.    
+Does the Company have a recent example of an emergent demand where 
+8 
+the CIS/CX project provided funding? 
+9 
+A. 
+Yes, examples of such emergent demand are the redesign of Digital 
+10 
+Deferred Payment Arrangements (“DPA”) and the development of the 
+11 
+DPA Portal on the Company’s website, which was executed in 2020. This 
+12 
+initiative was prompted by the COVID-19 pandemic.  The DPA Portal was 
+13 
+implemented as a method for the Company to provide a more convenient 
+14 
+way for customers to exercise choice and to evaluate the available DPA 
+15 
+options at any time of day or night. This was an emergent initiative that 
+16 
+was funded by leveraging the CIS/CX Emergent Demand project. 
+17 
+Examples of potential future emergent demand are system changes within 
+18 
+our digital platforms to enable services in Spanish language to better 
+19 
+serve our customer base, as well as system changes required by local 
+20 
+rules or regulatory orders. The Panel’s proposed capital funding for this 
+21 
+project should be maintained as it allows the Company to meet customer 
+22 
+
+
+--- Page 24 ---
+Case 20-E-0428; Case 20-G-0429 
+ 
+REBUTTAL TESTIMONY OF  THE INFORMATION TECHNOLOGY 
+PANEL 
+22 
+ 
+needs that are not anticipated in long-term planning but emerge as the 
+1 
+result of rapid changes in external conditions. 
+2 
+Q.    
+Turning to the third project, why does the Company disagree with Staff’s 
+3 
+Common Capital Panel’s downward adjustment to the CIS – Customer 
+4 
+Relationship Management (“CRM”) Project funding that would result in the 
+5 
+elimination of the project? 
+6 
+A. 
+The CRM project incorporates software to unify customer information into 
+7 
+one central location and provides a 360-degree view of the Customer, 
+8 
+which allows employees to provide enhanced and more proactive service 
+9 
+to customers. 
+10 
+Q.    
+Does the Company agree with the Staff Common Capital Panel’s 
+11 
+assertion related to the CRM project on page 16 of its testimony that the 
+12 
+Company has not provided “detailed information on cost efficiencies to be 
+13 
+achieved, processes that need to be replaced, or how they plan to 
+14 
+implement and monitor the success of the project”? 
+15 
+A. 
+No, we do not. As has been outlined in the Company’s response to DPS- 
+16 
+634 (Exhibit__ (ITP-2R)) question 3C, the CRM Project is currently 
+17 
+planned to begin in 2023 with conclusion in 2024. Given this timeline, 
+18 
+Staff’s criticism that there are no quantified benefits or success metrics at 
+19 
+this time provides little support for funding denial. Quantified benefits and 
+20 
+success metrics will be more precisely identified through a detailed 
+21 
+requirements documentation and benefits identification prior to project 
+22 
+
+
+--- Page 25 ---
+Case 20-E-0428; Case 20-G-0429 
+ 
+REBUTTAL TESTIMONY OF  THE INFORMATION TECHNOLOGY 
+PANEL 
+23 
+ 
+initiation in 2023. Additionally, this solution would bring new capabilities to 
+1 
+the Company and would not replace current processes or systems. For 
+2 
+example, it would enhance and build upon those processes existing with 
+3 
+the CIS SAP S/4 Hana solution, improving service quality to our 
+4 
+customers.  
+5 
+Q.    
+The Panel testified earlier that customer-facing employees would be able 
+6 
+to enhance customer service based on having a 360-degree view of the 
+7 
+customer. Can you please explain further the benefits of having a 360-
+8 
+degree view of a customer? 
+9 
+A. 
+The CRM project is designed to provide the Company with a 360-degree 
+10 
+view of the customer throughout all channels of communication. A CRM 
+11 
+solution will provide the Company and customers with many enhanced 
+12 
+benefits, including but not limited to the following: 
+13 
+ Maintain a centralized database across all customer 
+14 
+communication channels to improve customer experience and 
+15 
+ensure consistent messaging and service. 
+16 
+ Manage all communication and interactions with our customers with 
+17 
+expanded information to reduce fraud and Cybersecurity issues 
+18 
+ Automated data entry 
+19 
+ Remind customer facing employees to follow up with customers to 
+20 
+improve service in an automated fashion  
+21 
+
+
+--- Page 26 ---
+Case 20-E-0428; Case 20-G-0429 
+ 
+REBUTTAL TESTIMONY OF  THE INFORMATION TECHNOLOGY 
+PANEL 
+24 
+ 
+ Organize customer contact data for multi-channel services such as 
+1 
+voice, SMS text, email, chat, etc. 
+2 
+ Segment customers for analytics and operational efficiency 
+3 
+ Create better usage, service requests and other customer related 
+4 
+information reports to proactively service customers. 
+5 
+ Improve administrative task efficiency with a 360-degree customer 
+6 
+view 
+7 
+ Provide customers with an omni-channel interaction approach, 
+8 
+which allows employees to view all communications a customer 
+9 
+has had with the Company in a central location.  
+10 
+Given the benefits to both the Company and customers, this project 
+11 
+should be funded as recommended by the Panel.  
+12 
+ 
+13 
+V. 
+CYBERSECURITY HARDWARE & SOFTWARE ADJUSTMENTS 
+14 
+Q.    
+What was the recommendation of Staff’s Common Capital Panel and 
+15 
+Security Panel’s testimony for IT Cybersecurity Investments for Software 
+16 
+& Hardware? 
+17 
+A. 
+Pages 13 through 16 of the Staff Security Panel’s testimony recommends 
+18 
+reductions to Cybersecurity Hardware of 50% each year in 2021 and 2022 
+19 
+purportedly due to the lack of historical actual spending in this category. 
+20 
+Additionally, Staff recommended a significant reduction to the 
+21 
+
+
+--- Page 27 ---
+Case 20-E-0428; Case 20-G-0429 
+ 
+REBUTTAL TESTIMONY OF  THE INFORMATION TECHNOLOGY 
+PANEL 
+25 
+ 
+Cybersecurity Emergent Software in 2021 due to the lack of clarity 
+1 
+regarding the anticipated spending of such an amount. 
+ 
+2 
+Q.    
+Does the Information Technology Panel agree with Staff’s rationale and 
+3 
+recommendations to reduce Cybersecurity Software and Hardware 
+4 
+investments? 
+5 
+A. 
+No, the Company does not agree with the downward adjustments in 
+6 
+Cybersecurity Software and Hardware emergent funding. These emerging 
+7 
+funds remain critical to the Company’s ability to have in place software 
+8 
+and hardware that secure the Company’s system from emerging attacks, 
+9 
+threats and vulnerabilities, which as we will discuss later in our testimony, 
+10 
+are significantly evolving in both sophistication and number.  
+11 
+Q.    
+Please explain why Staff’s proposed reductions to investments in software 
+12 
+and hardware would be counterproductive and negatively impact the 
+13 
+Company’s ability to secure their IT systems. 
+14 
+A. 
+The 50% reduction to the Cybersecurity Hardware in 2021 and 2022, as 
+15 
+well as a significant reduction to Cybersecurity Software in 2021 would 
+16 
+prove detrimental to the Company’s ability to address remediations 
+17 
+identified and noted as a result of various third-party vendor threat 
+18 
+assessments, as well as address any emerging threats and vulnerabilities 
+19 
+subsequently identified by the industry through needed investment of 
+20 
+hardware and software solutions. As the research in Exhibit__ (ITP-4R), 
+21 
+notes, 56% of companies experienced a third-party data breach last year 
+22 
+
+
+--- Page 28 ---
+Case 20-E-0428; Case 20-G-0429 
+ 
+REBUTTAL TESTIMONY OF  THE INFORMATION TECHNOLOGY 
+PANEL 
+26 
+ 
+and the proliferation of cyber-attacks, such as the SolarWinds attack, are 
+1 
+becoming increasingly common with severe financial and operational 
+2 
+ramifications.  
+3 
+Q.    
+Can the Panel provide a recent example of how growing Cybersecurity 
+4 
+threats and vulnerabilities support the Panel’s recommended increase in 
+5 
+investment in the Company’s Cybersecurity program? 
+6 
+A. 
+Yes. An example of a recent Cybersecurity threat was the SolarWinds 
+7 
+incident on December 4th, 2020. This global incident showcased how 
+8 
+Cybersecurity threats are growing exponentially. Globally, many 
+9 
+corporations and government agencies were impacted. Companies 
+10 
+impacted even included Cybersecurity-focused companies such as 
+11 
+FireEye. The SolarWinds intrusion resulted in the theft of proactive 
+12 
+Cybersecurity customer security testing tools, commonly referred to as 
+13 
+“Red-Team” tools. The final disposition of these tools is unknown but 
+14 
+could possibly result in even more sophisticated subsequent attacks. This 
+15 
+is one example that illustrates the rapid evolution and sophistication of 
+16 
+cyber-attacks.  
+17 
+Q.    
+On page 13 of Staff’s Security Panel’s testimony, Staff asserts that the 
+18 
+Company did not display historic levels of investment similar to the 
+19 
+
+
+--- Page 29 ---
+Case 20-E-0428; Case 20-G-0429 
+ 
+REBUTTAL TESTIMONY OF  THE INFORMATION TECHNOLOGY 
+PANEL 
+27 
+ 
+increase the Panel recommends. Is historical spending a good leading 
+1 
+indicator for future capital expenditures associated with cybersecurity? 
+2 
+A. 
+No, it is not. As we noted regarding the recent SolarWinds incident, 
+3 
+emerging and rapidly evolving needs for capital expenditures associated 
+4 
+with cybersecurity cannot be forecast. Cybersecurity issues have the 
+5 
+capacity to emerge unexpectedly and suddenly while having significant 
+6 
+future impacts that necessitate emergent Capital investments. As with the 
+7 
+SolarWinds incident, these impacts can require companies to undertake 
+8 
+additional hardware and software expenditures. As a result, the 
+9 
+Company’s historical spend is not indicative of the Company’s future 
+10 
+investments to mature its Cybersecurity program and to undertake 
+11 
+remediation based on third-party vendor’s threat assessments of the 
+12 
+Company’s Cybersecurity program. Another example of an emergent 
+13 
+investment for 2020 included the implementation of a third-party solution 
+14 
+to support segmentation of the Company’s corporate network. This is a 
+15 
+critical initiative that was initiated by the recommendations of a third-party 
+16 
+vendor during an annual Cybersecurity assessment to secure the 
+17 
+Company’s information and digital assets. This amounted to 
+18 
+approximately $150,000 of Capital expenditures in 2020, that were 
+19 
+unplanned in nature. As shown in the 2020 Cybersecurity Software and 
+20 
+Hardware Investments in Confidential Exhibit__ (ITP-5R), the investments 
+21 
+
+
+--- Page 30 ---
+Case 20-E-0428; Case 20-G-0429 
+ 
+REBUTTAL TESTIMONY OF  THE INFORMATION TECHNOLOGY 
+PANEL 
+28 
+ 
+in 2020 rose to approximately $866,000 to address the remediations noted 
+1 
+and emerging needs throughout the year. 
+2 
+Q.    
+How does the Company plan to ensure that its Cybersecurity investments 
+3 
+are aligned with the evolving threats, vulnerabilities and standards of the 
+4 
+industry? 
+5 
+A. 
+The Company plans to execute an annual Cybersecurity program 
+6 
+assessment that will further identify new remediations that are needed. As 
+7 
+the demand for these remediations is not yet known (as the remediations 
+8 
+will only be identified after the assessment), the emergent dollars are 
+9 
+recommended to support the Company’s ability to remediate these issues. 
+10 
+As can be found in the research provided in Exhibit__ (ITP-4R), the 
+11 
+increased spending by the Company on Cybersecurity is in alignment with 
+12 
+other companies. 
+13 
+Q.    
+Please summarize the Panel’s position regarding Staff’s elimination of 
+14 
+emergent funds for Cybersecurity. 
+15 
+A. 
+The Panel opposes Staff’s elimination. Given the recent increase in 
+16 
+Cybersecurity incidents and their growing sophistication, the Panel’s 
+17 
+recommendation for emergent funds should be adopted. 
+18 
+
+
+--- Page 31 ---
+Case 20-E-0428; Case 20-G-0429 
+ 
+REBUTTAL TESTIMONY OF  THE INFORMATION TECHNOLOGY 
+PANEL 
+29 
+ 
+ 
+1 
+VI. 
+COMMUNICATION INVESTMENT ADJUSTMENTS 
+2 
+Q.    
+Were there downward adjustments made by Staff within the Company’s 
+3 
+Communications Category? 
+4 
+A. 
+Yes. Staff’s Common Capital Panel on page 23 of its testimony 
+5 
+recommends a budget for the Network Strategy Project of $0.24 million in 
+6 
+2021, $1.6 million in 2022, $1.6 million in 2023 and $1.4 million in 2024, 
+7 
+and for the Network Strategy Enhancements a budget of $0 in each of 
+8 
+2023 and 2024. The Panel opposes these downward adjustments as they 
+9 
+would be detrimental to the Network Strategy project, as well as the 
+10 
+overall Grid Modernization program execution. Notably, the Network 
+11 
+Strategy Enhancements provide stability and enhanced reliability for the 
+12 
+Company’s existing communication system as discussed in further detail 
+13 
+in the Company’s Capital Plan Panel rebuttal testimony. 
+14 
+VII. 
+OTHER IT CAPITAL ADJUSTMENTS 
+15 
+Q.    
+Were there other reductions made within the IT Capital Plan that the 
+16 
+Company does not agree with? 
+17 
+A. 
+Yes. Staff recommended reductions to 1) EWAM Emergent Demand, 2) 
+18 
+Emergency Management Software Upgrade & Enhancements, and 3) 
+19 
+Advanced Metering Infrastructure (“AMI”) Pilot.  
+20 
+
+
+--- Page 32 ---
+Case 20-E-0428; Case 20-G-0429 
+ 
+REBUTTAL TESTIMONY OF  THE INFORMATION TECHNOLOGY 
+PANEL 
+30 
+ 
+Q.    
+Would the Panel please describe Staff’s rationale for the removal of the 
+1 
+EWAM Emergent Demand? 
+2 
+A. 
+Staff indicated in response to the Company’s IR CH to DPS (132) 
+3 
+(Exhibit__ (ITP-1R)), that “[r]emoval of these costs are based on 
+4 
+uncertainty surrounding the estimated costs of the project and uncertainty 
+5 
+related to the initial planning stage not expected to be completed until the 
+6 
+first quarter of 2022 based on page 20 of the Company’s ERP Testimony”. 
+7 
+Q.    
+Staff also suggests in response to the Company’s IR CH to DPS (132) 
+8 
+(Exhibit__ (ITP-1R)) that the EWAM Emergent Demand is aligned to the 
+9 
+ERP Transformation Project (Phase III). Is that accurate? 
+10 
+A. 
+No, it is not. As is described in the Company’s response to DPS – 507 
+11 
+(Exhibit__ (ITP-2R)), the EWAM Emergent Demand project is separate 
+12 
+from the ERP Transformation Project (Phase III). It is a foundational 
+13 
+requirement the Company inadvertently and incorrectly categorized under 
+14 
+Transformational investments. This line item was subsequently identified 
+15 
+by the Company as a risk mitigation mechanism to the IT Capital forecast, 
+16 
+a funding source for mandatory software upgrades to remain in alignment 
+17 
+with vendor support and as funding for emergent demands due to 
+18 
+changing business needs or processes. 
+19 
+
+
+--- Page 33 ---
+Case 20-E-0428; Case 20-G-0429 
+ 
+REBUTTAL TESTIMONY OF  THE INFORMATION TECHNOLOGY 
+PANEL 
+31 
+ 
+Q.    
+What is the value of the EWAM Emergent Demand and why should the 
+1 
+recommended level of funding be retained? 
+2 
+A. 
+There are currently six forecasted mandatory upgrades for 2021 inclusive 
+3 
+within the EWAM funding project. These mandatory system upgrades 
+4 
+ensure that the Company continues to run the most recent versions of 
+5 
+software solutions – in accordance with Cybersecurity and industry best 
+6 
+practices. Should the Company not perform these mandatory upgrades, 
+7 
+there could be increased costs associated with extended support or the 
+8 
+systems could go unsupported and risk Cybersecurity issues or even loss 
+9 
+of the system. The EWAM Emergent Demand project also supports any 
+10 
+needed investments to adapt to the changing demands of our customers 
+11 
+and internal business processes.  
+12 
+Q.    
+Does the Company have an example of a recent emerging demand that 
+13 
+the EWAM Funding Project was intended to address? 
+14 
+A. 
+Yes, an example of such emergent demand was development and 
+15 
+implementation of the Incident Reporting System, a regulatory driven 
+16 
+initiative. This project was initiated by the replacement of IT systems at the 
+17 
+state level (retirement of the state’s Electric Incident Reporting System), 
+18 
+and the requirement to have harmonized reporting of incidents throughout 
+19 
+the state. This was an emergent initiative that was funded by leveraging 
+20 
+the EWAM Emergent Demand. 
+21 
+
+
+--- Page 34 ---
+Case 20-E-0428; Case 20-G-0429 
+ 
+REBUTTAL TESTIMONY OF  THE INFORMATION TECHNOLOGY 
+PANEL 
+32 
+ 
+Q.    
+Are Staff and the Company in agreement regarding Emergency 
+1 
+Management Software Upgrade & Enhancements? 
+2 
+A. 
+Yes. While Staff originally reduced funding, Staff’s response to the 
+3 
+Company’s IR CH to DPS (132) (Exhibit__ (ITP-1R)), indicates that the 
+4 
+"Emergency Management Software - Upgrades & Enhancements" was 
+5 
+“removed inadvertently.” As such, this funding is being retained as a 
+6 
+foundational investment within the IT Capital Program.  
+7 
+Q.    
+Please describe Staff’s downward adjustments to the AMI Pilot. 
+8 
+A. 
+Staff’s AMI and Demonstration Project Panel asserts on page 15 of its 
+9 
+testimony that the Company “…should revise its AMI strategy, using 
+10 
+lessons learned from other utilities within and outside New York State, 
+11 
+before proposing another AMI pilot program or full-scale AMI 
+12 
+implementation.” Staff also eliminated any funding for the AMI Pilot’s 
+13 
+software portion from the IT Capital Plan, as indicated on page 4 of Staff’s 
+14 
+Exhibit_(SCCP-2). 
+15 
+Q.    
+Please describe why the funding for the IT integration associated with the 
+16 
+AMI Pilot should be retained. 
+17 
+A. 
+The software portion of the AMI Pilot that the Company has proposed in 
+18 
+the IT Capital Plan is necessary for system implementation or 
+19 
+enhancements that prepare the Company for both an AMI pilot and full 
+20 
+system rollout. The Company’s proposed funding will enable the Company 
+21 
+to understand the internal system impacts that result from the significant 
+22 
+
+
+--- Page 35 ---
+Case 20-E-0428; Case 20-G-0429 
+ 
+REBUTTAL TESTIMONY OF  THE INFORMATION TECHNOLOGY 
+PANEL 
+33 
+ 
+increase of meter data. The funding also enables the Company to 
+1 
+understand costs associated with system integrations since every utility 
+2 
+has a unique mix of legacy and other systems and will incur varying 
+3 
+integration costs for AMI. In addition, the proposed AMI related funding 
+4 
+during the Rate Year allows the Company to develop and engage in a 
+5 
+more accurate IT and system impact analysis for the AMI Project. Finally, 
+6 
+this funding provides for foundational IT system changes needed to 
+7 
+support a broadscale roll out of the AMI program. As such, Staff’s 
+8 
+proposed reduction should be rejected, and the Panel’s recommended 
+9 
+level of AMI funding should be approved. Please refer to the Company’s 
+10 
+Climate and Energy Leadership Panel for further details of the AMI Pilot 
+11 
+proposed by the Company. 
+12 
+ 
+13 
+VIII. 
+IT FTE REQUIREMENTS 
+14 
+Q.    
+What was Staff’s proposed reductions to IT FTEs within the Common 
+15 
+Capital Panel’s testimony? 
+16 
+A. 
+Staff’s Common Capital Panel recommended the elimination of six IT 
+17 
+resources in 2020 and 2021. These resources were identified on page 26 
+18 
+of Staff’s Common Capital Panel testimony and include the IT SAP Report 
+19 
+Developer, both of the IT SAP Configurators, the IT SAP Developer, and 
+20 
+two of the three Microsoft Teams/SharePoint related positions – 
+21 
+
+
+--- Page 36 ---
+Case 20-E-0428; Case 20-G-0429 
+ 
+REBUTTAL TESTIMONY OF  THE INFORMATION TECHNOLOGY 
+PANEL 
+34 
+ 
+specifically the IT SharePoint Administrator and the IT Teams 
+1 
+Administrator.  
+2 
+Q.    
+What was Staff’s rationale for the elimination of the IT SAP positions? 
+3 
+A. 
+Staff indicated on page 26 of the Common Capital Panel’s testimony that 
+4 
+the IT SAP positions are being eliminated as Staff is not supporting the 
+5 
+ERP Project at this time and these corresponding positions are only 
+6 
+needed to support this project.  
+7 
+Q.    
+Does the Panel agree with Staff’s recommendation for elimination of these 
+8 
+positions? 
+9 
+A. 
+No, we do not. As we have testified, the Company opposes Staff’s 
+10 
+proposed elimination of the ERP Project, and as such does not agree with 
+11 
+the elimination of the IT SAP FTEs to support that project and to provide 
+12 
+ongoing support of the system after implementation. 
+13 
+Q.    
+Please explain the Company’s position regarding the two IT SAP 
+14 
+Configurators and one IT SAP Developer. 
+15 
+A. 
+We understand that the support of the two IT SAP Configurators and one 
+16 
+IT SAP Developer is contingent upon the approval of the ERP 
+17 
+Transformation Project (Phase III). However, as has been previously 
+18 
+outlined in this testimony, the Company does not agree with the reduction 
+19 
+of funds for commencement of ERP Transformation Project (excepting 
+20 
+funds for the Financial Assessment), and as a result these positions 
+21 
+remain necessary and should be retained.  
+22 
+
+
+--- Page 37 ---
+Case 20-E-0428; Case 20-G-0429 
+ 
+REBUTTAL TESTIMONY OF  THE INFORMATION TECHNOLOGY 
+PANEL 
+35 
+ 
+Q.    
+Why should the IT SAP Report Developer be retained regardless of the 
+1 
+status of the ERP Transformation project? 
+2 
+A. 
+The IT SAP Report Developer position is not dependent upon the approval 
+3 
+of the ERP Transformation project because the current CIS Modernization 
+4 
+Project requires this skill set during the remaining balance of the project as 
+5 
+well as for the support of the SAP Cloud Analytics (“SAC”) system. This 
+6 
+position will be responsible for maintaining the technical aspects of the 
+7 
+analytics and reports in SAC, as well as being tasked with developing 
+8 
+future reporting and analytics based upon business processes and 
+9 
+requirements developed by the business units. This position is necessary 
+10 
+and must be retained to ensure the stability of that system. 
+11 
+Q.    
+Did Staff provide incremental O&M required for contract resources to 
+12 
+support this system in lieu of the IT SAP Report Developer FTE? 
+13 
+A. 
+No, Staff did not. As outlined in Staff’s response to CH to DPS (133) 
+14 
+(Exhibit__ (ITP-1R)), “Staff did not add incremental O&M required for 
+15 
+contract resources to support development on these platforms and for 
+16 
+support thereafter.” 
+17 
+Q.    
+What was Staff’s rationale for the elimination of the Microsoft related 
+18 
+positions? 
+19 
+A. 
+The SCCP indicated on pages 26 and 27 of its direct testimony that it is 
+20 
+“proposing to allow just one of the three positions.” Staff asserts with little 
+21 
+or no support that the Microsoft applications are, “generally speaking, 
+22 
+
+
+--- Page 38 ---
+Case 20-E-0428; Case 20-G-0429 
+ 
+REBUTTAL TESTIMONY OF  THE INFORMATION TECHNOLOGY 
+PANEL 
+36 
+ 
+meant to be easy to use and maintain without significant technical support 
+1 
+and expertise’. Staff further states that it may be “ideal for the Company to 
+2 
+have multiple staff in these positions but considering the current economic 
+3 
+climate, we cannot support three additional FTEs for this role.”  
+4 
+Q.    
+Does the Panel agree with this recommendation?  
+5 
+A. 
+No, we do not. 
+6 
+Q.    
+Why are each of the three Microsoft positions necessary and how do they 
+7 
+impact user experience and the Company’s core IT competency?  
+8 
+A. 
+The three Microsoft related positions are unique in skill set and necessary 
+9 
+for the maintenance, support and sustainability of the Microsoft system in 
+10 
+the Company’s system. The one allowed position, Microsoft Office 365 / 
+11 
+SharePoint Team Lead, is critical to the successful implementation, 
+12 
+sustainment and optimization of the Microsoft Office 365 platform. The 
+13 
+platform is anticipated to subsume a subset of processes currently in the 
+14 
+ERP Mainframe – such as the physical key maintenance, and other 
+15 
+manual processes. This platform is also anticipated to be leveraged as a 
+16 
+document collaboration repository for the Company. The two eliminated 
+17 
+positions – Microsoft SharePoint Administrator/Developer and the 
+18 
+Microsoft Teams Administrator will also support this platform. The 
+19 
+SharePoint developer is critical as the Microsoft Office 365 platform allows 
+20 
+for custom development of applications, workflows and other capabilities 
+21 
+that would be able to support the processes of the business. This role will 
+22 
+
+
+--- Page 39 ---
+Case 20-E-0428; Case 20-G-0429 
+ 
+REBUTTAL TESTIMONY OF  THE INFORMATION TECHNOLOGY 
+PANEL 
+37 
+ 
+support the development, implementation and sustainment of these 
+1 
+solutions. This role is not the same skillset as the Microsoft Office 365 / 
+2 
+SharePoint Team Lead. The Microsoft Teams Administrator is a critical 
+3 
+resource to support the administration and sustainment of the Teams 
+4 
+application. The Microsoft Teams application has been critical to the 
+5 
+Company’s success in working remote during the COVID-19 pandemic 
+6 
+and will continue to be a strategic solution into the future. As such, this 
+7 
+resource will support the management of the system, and configuration 
+8 
+and release of new functionality to the organization. Notably, this skillset 
+9 
+aligns partly with that of the SharePoint developer and therefore 
+10 
+potentially could be available for critical backup and support if needed for 
+11 
+emergency or other vacancy reasons. Absent these Microsoft related 
+12 
+positions, the Company would face a significant void in a core internal IT 
+13 
+competency that would need to be augmented with long-term contract 
+14 
+resources.  
+15 
+Q.    
+Did Staff provide incremental O&M required for contract resources to 
+16 
+support this system in lieu of the Microsoft SharePoint 
+17 
+Administrator/Developer and Microsoft Teams Developer FTEs? 
+18 
+A. 
+No, Staff did not. As outlined in Staff’s response to CH to DPS (133) 
+19 
+(Exhibit__ (ITP-1R)), “Staff did not add incremental O&M required for 
+20 
+contract resources to support development on these platforms and for 
+21 
+support thereafter.” If neither the Panel’s recommended FTEs nor 
+22 
+
+
+--- Page 40 ---
+Case 20-E-0428; Case 20-G-0429 
+ 
+REBUTTAL TESTIMONY OF  THE INFORMATION TECHNOLOGY 
+PANEL 
+38 
+ 
+incremental O&M is provided, it would create a gap in the Company’s 
+1 
+workforce competency related to a core system which would create 
+2 
+significant risk with exponential impacts. Such impacts could result in 
+3 
+improper implementation or support of the Microsoft applications 
+4 
+supporting core business processes and could present cybersecurity risks 
+5 
+or stability risks to the IT system. 
+6 
+Q.    
+Does this conclude your rebuttal testimony at this time? 
+7 
+A. 
+Yes, it does. 
+8 

@@ -1,0 +1,2916 @@
+--- Page 1 ---
+ 
+ 
+ 
+Before the 
+New York State Public Service Commission 
+ 
+ 
+In the Matter of 
+ 
+Consolidated Edison Company of New York, Inc. 
+ 
+Case 22-E-0064 
+ 
+May 2022 
+ 
+ 
+ 
+Prepared Direct Testimony 
+ 
+Damien M. Tholomier 
+ 
+On Behalf of 
+ 
+The City of New York 
+ 
+ 
+
+
+--- Page 2 ---
+Case 22-E-0064 
+DAMIEN M. THOLOMIER 
+1 
+INTRODUCTION 
+1 
+Q. 
+PLEASE STATE YOUR NAME, OCCUPATION, AND BUSINESS ADDRESS. 
+2 
+A. 
+My name is Damien Tholomier. My business address is 876 McEachran Avenue, Montreal, 
+3 
+Quebec - H2V 3E1, Canada. 
+4 
+Q. 
+ON WHOSE BEHALF ARE YOU SUBMITTING THIS TESTIMONY? 
+5 
+A. 
+The City of New York. 
+6 
+Q. 
+PLEASE DESCRIBE YOUR EDUCATIONAL BACKGROUND. 
+7 
+A. 
+I graduated from Polytech Marseille in France. Polytech is Aix-Marseille University’s 
+8 
+post-graduate engineering school. It is part of the Conférence des Grandes Écoles, CGE 
+9 
+(which gathers French best schools of Management and Engineering) and of the Polytech 
+10 
+Group (a network of 14 post-graduate engineering schools from France’s largest 
+11 
+universities). The university is located in three (3) different science and technology 
+12 
+campus, and it offers eight (8) engineering specialties.  
+13 
+ 
+ 
+I have a Master of Science in industrial and computer engineering as well as a 
+14 
+Bachelor of Engineering in electrical, electro-technical and automation engineering.  
+15 
+Q. 
+PLEASE DESCRIBE YOUR PROFESSIONAL EXPERIENCE AND CURRENT 
+16 
+RESPONSIBILITIES. 
+17 
+A. 
+I am a senior executive with 30 years of experience working for Fortune 500 companies in 
+18 
+energy related sectors such as power, oil & gas, mining, transportation & renewables. I did 
+19 
+work for Varentec (USA), AECOM (Canada), Bechtel Power Corporation (Canada), 
+20 
+Schneider Electric (Canada), AREVA T&D (France, Canada), Alstom T&D (France), 
+21 
+GEC Alsthom T&D (Germany, France) and Concordia Sprecher (Germany). 
+22 
+
+
+--- Page 3 ---
+Case 22-E-0064 
+DAMIEN M. THOLOMIER 
+2 
+ 
+ 
+Thanks to my large experience, I have a solid product, software and engineering 
+1 
+solutions background complemented by a sharp business acumen and strategic vision in 
+2 
+developing High Voltage/Medium Voltage switchgear, protection & control products, 
+3 
+automation & telecom systems, and engineered & customized solutions. 
+4 
+ 
+I have been working more than 15 years by developing and implementing voltage 
+5 
+reduction programs and solutions. More recently I was the Executive Vice-President of 
+6 
+Product Management and Project Delivery at Varentec in California where I managed 
+7 
+Varentec’s entire product portfolio, professional services offerings, project delivery and 
+8 
+advanced research to support the deployment of Conservation Voltage Reduction, or CVR, 
+9 
+and Volt-VAr Optimization, or VVO, solutions. 
+10 
+ 
+ 
+Presently, I am working as an independent consultant on transmission and 
+11 
+distribution matters, and particularly on voltage regulation issues.  Also, I am the CEO of 
+12 
+a rural electric Co-op in Quebec, Canada. 
+13 
+ 
+ 
+A description of my qualification, duties and responsibilities is attached to my 
+14 
+testimony as Exhibit__(DMT-1). 
+15 
+Q. 
+HAVE YOU EVER TESTIFIED BEFORE ANY AGENCY OR COURT OR IN ANY 
+16 
+OTHER VENUE ON THE TOPICS YOU ADDRESS IN THIS TESTIMONY? 
+17 
+A. 
+No. 
+18 
+PURPOSE OF TESTIMONY 
+19 
+Q. 
+WHAT IS THE PURPOSE OF YOUR TESTIMONY? 
+20 
+A. 
+The purpose of my direct Testimony is to present the importance of managing distribution 
+21 
+voltage, especially for voltage sensitive equipment and related installations. Voltages must 
+22 
+
+
+--- Page 4 ---
+Case 22-E-0064 
+DAMIEN M. THOLOMIER 
+3 
+remain within a specified range for proper and safe operation of critical infrastructure and 
+1 
+its related equipment. 
+2 
+ 
+ 
+I will discuss the benefits of best industry practices and recommendations for 
+3 
+voltage reduction when deployed by distribution utilities. 
+4 
+Q. 
+ARE YOU SPONSORING ANY EXHIBITS WITH YOUR TESTIMONY?  
+5 
+A. 
+Yes.  I am sponsoring a series of exhibits which are described throughout my testimony.  
+6 
+In all, I am sponsoring 24 exhibits, including my qualifications and the discovery responses 
+7 
+which I referenced or relied upon in analyzing Con Edison’s approach to CVR/VVO and 
+8 
+preparing this testimony. 
+9 
+Q. 
+CON 
+EDISON 
+USES 
+THE 
+TERM 
+“CONSERVATION 
+VOLTAGE 
+10 
+OPTIMIZATION,” WHEREAS YOU USE “CONSERVATION VOLTAGE 
+11 
+REDUCTION.”  DO THESE TERMS REFER TO THE SAME TYPE OF 
+12 
+PROGRAM? 
+13 
+A. 
+Yes.  I am more accustomed to using the term CVR because it more clearly conveys what 
+14 
+is happening – voltage is reduced.  As used in my testimony, CVR and CVO should be 
+15 
+considered synonyms.   
+16 
+Q. 
+ARE CVO AND VVO SYNONYMS AS WELL? 
+17 
+A. 
+No.  CVO is a subset of VVO and describes the traditional adjustment of area substation 
+18 
+supply voltage in accordance with locally available measurements. With the right enabling 
+19 
+technologies, CVO can also optimize voltage to a lower value while providing adequate 
+20 
+voltage levels for all customers (optimize energy delivery efficiency by minimizing energy 
+21 
+consumption and/or demand and power losses) using real-time information.   
+22 
+
+
+--- Page 5 ---
+Case 22-E-0064 
+DAMIEN M. THOLOMIER 
+4 
+Q. 
+WHAT IS YOUR GENERAL OPINION REGARDING THE USE OF CVR/VVO? 
+1 
+A. 
+When deployed correctly – with proper monitoring and real-time action as appropriate, 
+2 
+CVR/VVO is a valuable tool.  It can be beneficial in reducing demand and controlling 
+3 
+supply costs while not adversely impacting the provision of adequate service to customers.  
+4 
+In my professional view, there is much merit to using CVR/VVO.  However, it must be 
+5 
+used correctly. 
+6 
+Utilities have recognized the benefits of managing voltage for many years. In the 
+7 
+early 1990s researchers recognized that voltage management could be a means of reducing 
+8 
+energy usage.  While voltage reduction is an emergency method to shed load in 
+9 
+transmission networks, daily management of voltage across distribution feeders is now 
+10 
+possible and used by several utilities across the country.  
+11 
+Q. 
+PLEASE SUMMARIZE YOUR CONCLUSIONS AND RECOMMENDATIONS. 
+12 
+A. 
+Con Edison’s CVO program, which is intended to enable the delivery of electricity on a 
+13 
+more efficient basis, currently makes no discernible effort to prioritize the delivery of the 
+14 
+deemed benefits that result from voltage optimization investments to highest performing 
+15 
+feeders – that is, feeders with a benefit-cost ratio greater than 1.  I recommend that the 
+16 
+Public Service Commission, or Commission, direct Con Edison to develop a ranking of 
+17 
+viable feeders based on an accurate assessment of potential energy savings achieved 
+18 
+annually and feeder enhancement costs to ensure no voltage violations.  
+19 
+Until more voltage data along the feeders and customer meters become available 
+20 
+through Supervisory Control And Data Acquisition, or SCADA, systems, and eventually 
+21 
+through Advanced Distribution Management Systems, or ADMS, and Advanced Metering 
+22 
+
+
+--- Page 6 ---
+Case 22-E-0064 
+DAMIEN M. THOLOMIER 
+5 
+Infrastructure, or AMI, systems, Con Edison must estimate voltages at the customer meters 
+1 
+(using load flow analysis and/or AMI data analysis) and ensure a proper voltage margin to 
+2 
+avoid any voltage violation and possibly power quality issues and customer complaints.  
+3 
+Con Edison should be required to deploy power quality meters at large industrial and 
+4 
+commercial facilities to ensure satisfactory starting of large motor drives and proper 
+5 
+operation of processes that might be equipped with undervoltage protection.  
+6 
+As an immediate action, I recommend that the Commission require Con Edison to 
+7 
+integrate into the existing AMI data analysis the notion of AMI data ranking using different 
+8 
+criteria such as an average root mean square, or RMS, voltage value, a minimum RMS 
+9 
+voltage value and number of samples below a threshold of 114 volts to identify and rank 
+10 
+the voltage outliers to determine the existing voltage margin prior to reducing the bus 
+11 
+voltage at area substations. The analysis also should be used to determine the available 
+12 
+voltage margin curve as function of the substation loading. 
+13 
+I also recommend that the Commission require Con Edison to deploy additional 
+14 
+voltage monitoring and data collection on the medium voltage side to help Con Edison 
+15 
+determine the optimal voltage reduction on any given substation but again with a sufficient 
+16 
+voltage margin due to the lack of voltage visibility at customer meters. 
+17 
+Finally, I recommend that the Commission direct Con Edison to review the 
+18 
+possibility of extending the CVO program to an ADMS-model-based VVO solution with 
+19 
+integration with the Company’s AMI and Distributed Energy Resource Management 
+20 
+System, or DERMS. 
+ 
+21 
+
+
+--- Page 7 ---
+Case 22-E-0064 
+DAMIEN M. THOLOMIER 
+6 
+DELIVERY VOLTAGE, VOLTAGE MANAGEMENT, SERVICE AND 
+1 
+UTILIZATION AND NAMEPLATE VOLTAGE 
+2 
+Q. 
+WHAT IS THE TYPICAL DELIVERY VOLTAGE TO CUSTOMER? 
+3 
+A. 
+ As shown in Exhibit__(DMT-2), electricity is transmitted at high voltage and across long 
+4 
+distances from a generating station and then stepped down for distribution to 
+5 
+customers/end-users.  
+6 
+ 
+ 
+Distribution customers are generally categorized as residential, commercial, 
+7 
+industrial, and institutional. Distribution systems typically operate at low and medium 
+8 
+voltage levels ranging from 120/240 volts to 69,000 volts. 
+9 
+ 
+ 
+As electric energy flows from a transmission substation to a distribution substation, 
+10 
+and then through the distribution system to the customer’s meter point, the voltage is 
+11 
+stepped down via transformers. Additionally, the voltage gradually decreases along the 
+12 
+distribution feeder lines to the customers due to technical losses, such as resistance in the 
+13 
+lines and transformer windings. The customer’s meter point is considered the demarcation 
+14 
+point between the utility’s facilities and the customer’s facilities. The customer meter or 
+15 
+demarcation point can be either on the low or medium voltage side. 
+16 
+ 
+ 
+Customers that are connected via distribution facilities can choose to receive 
+17 
+electrical service at standard nominal voltages either Low Voltage, also known as 
+18 
+secondary voltage, or LV, or Medium Voltage, also known as primary voltage or MV, 
+19 
+including:  
+20 
+1) 
+120/240 volts typical of LV residential and small commercial customers. 
+21 
+2) 
+120/208 volts or 277/480 volts or 347/600 volts typical of midsize 
+22 
+commercial / industrial / institutional LV customers. 
+23 
+
+
+--- Page 8 ---
+Case 22-E-0064 
+DAMIEN M. THOLOMIER 
+7 
+3) 
+4,000 volts to 69,000 volts typical of larger commercial / industrial / 
+1 
+institutional MV customers. 
+2 
+“120-volt nominal” is the voltage that most electrical users are familiar with. 
+3 
+Typical residential electric plugins and lighting operate at a nominal or normal voltage of 
+4 
+120 volts.   In my testimony “120-volt nominal” could be interchanged with 208 volts, 460 
+5 
+volts, 600 volts and standard MV voltages used in United States such as 4,160 volts, 12,470 
+6 
+volts, 13,200 volt, 13,800 volts, 24,940 volt, and 34,500 volts for four-wire systems and 
+7 
+69,000 volts for three-wire systems depending upon the delivery voltage that a customer 
+8 
+has chosen to receive at its facility.   Other voltage systems also are used in United States, 
+9 
+such as 2,400 volts, 4,800 volts, 6,900 volts, 8,320 volts, 12,000 volts, 20,780 volts, 22,860 
+10 
+volts, 23,000 volts, and 46,000 volts. 
+11 
+Q. 
+WHY IS VOLTAGE MANAGEMENT ON AN ELECTRIC DISTRIBUTION 
+12 
+SYSTEM IMPORTANT? 
+13 
+A. 
+Power systems must be designed based on voltage, current rating, and fault current values 
+14 
+according to recognized industry standards and major equipment manufacturers. Voltage 
+15 
+regulation and control in an electrical power system is important for proper operation of 
+16 
+the electrical power equipment to prevent damage such as overheating of generators and 
+17 
+motors.  Powering a sizable load block far from the main substation or power plant requires 
+18 
+special care. This is especially true if the load is supplied by an overhead line because it 
+19 
+has a higher impedance than an underground cable, which negatively impacts voltage 
+20 
+regulation performance. Choosing the optimal voltage level – an LV versus MV 
+21 
+distribution system – must be based on a comprehensive view of customers infrastructure 
+22 
+
+
+--- Page 9 ---
+Case 22-E-0064 
+DAMIEN M. THOLOMIER 
+8 
+and related electrical installations.  
+1 
+ 
+ 
+The voltage selection must incorporate both technical and financial aspects of the 
+2 
+end-user. The following should be considered:  
+3 
+ Quantity and type of customer loads to feed 
+4 
+ Voltage levels standardized in the industry and the region where the system is 
+5 
+located 
+6 
+ Expansion needs and new load additions 
+7 
+ The voltage requirements and cost of the electrical equipment and assets at 
+8 
+customer's infrastructure 
+9 
+MV distribution systems have many advantages over LV distribution systems, but 
+10 
+they also have some disadvantages. The choice must be the result of careful analysis, where 
+11 
+cost and safety are the prevailing factors. Advantages of MV systems include the use of 
+12 
+much less copper in the form of smaller conductors and fewer sets of conductors, fewer 
+13 
+power losses, lower voltage drop, and, as a result, distribution of much more power 
+14 
+capacity to the load.  
+15 
+Disadvantages of MV systems include larger equipment sizes, greater working 
+16 
+clearances required around the electrical equipment, more investments in training, and 
+17 
+longer maintenance periods to repair equipment. 
+18 
+ 
+ 
+Optimal voltage selection ensures good voltage regulation in both transient and 
+19 
+steady state, especially when starting a motor. As shown in Exhibit__(DMT-3), a steady-
+20 
+state response is the behavior of a circuit after a long time when steady conditions have 
+21 
+been reached after an external excitation. A system is said to be transient or in a transient 
+22 
+
+
+--- Page 10 ---
+Case 22-E-0064 
+DAMIEN M. THOLOMIER 
+9 
+state when a process variable or variables have been changed and the system has not yet 
+1 
+reached a steady state. The time taken for the circuit to change from one steady state to 
+2 
+another steady state is called the transient time.  
+3 
+ 
+ 
+Exhibit__(DMT-4) illustrates the annual voltage profile of a 25 kilovolt-amp 
+4 
+distribution service transformer serving a couple of residential customers. As seen in this 
+5 
+example, electricity demand is the highest during summer heat waves, as air-conditioners 
+6 
+are fully utilized.  In the example, as natural gas is used to heat houses during the winter 
+7 
+months, there is a moderate demand observed during December, January, and February. 
+8 
+ 
+As illustrated in Exhibit__(DMT-4), customer demand for electricity changes 
+9 
+throughout the day and the year. This means the power flowing through distribution 
+10 
+systems and voltage levels on distribution feeders increase and decrease throughout the 
+11 
+day and the year to meet changing end-user load requirements. 
+12 
+Utilities seek to provide electric service to customers within a specific voltage range 
+13 
+because customer equipment, appliances, and devices may not operate satisfactorily when 
+14 
+electricity is supplied at voltages outside of those appropriate ranges – that is, under or 
+15 
+overvoltage conditions.  Maintaining proper voltage levels across the electric distribution 
+16 
+system is one of the most important challenges, the utility industry faces. 
+17 
+ 
+ 
+With the increasing penetration of solar photovoltaics, or PVs, their intermittency 
+18 
+causes fast voltage fluctuations.  Alternatively, the abrupt charging of electric vehicles, or 
+19 
+EVs, causes voltage sags and unbalance conditions. Managing exacerbated voltage 
+20 
+fluctuation due to high levels of distributed energy resource, or DER, penetration, is a great 
+21 
+concern for distribution engineers. In some situations, voltage fluctuation can be so 
+22 
+
+
+--- Page 11 ---
+Case 22-E-0064 
+DAMIEN M. THOLOMIER 
+10 
+significant that it interferes with the operation of voltage regulation equipment and 
+1 
+capacitor banks. 
+2 
+Q. 
+WHAT IS THE APPROPRIATE AND STANDARD VOLTAGE LEVEL FOR 
+3 
+ELECTRIC SERVICE ON DISTRIBUTION SYSTEM? 
+4 
+A. 
+Utilities must regulate the voltage along its feeders or distribution circuits, in accordance 
+5 
+with established standards such as American National Standards Institute, or ANSI, for 
+6 
+Electric Power Systems and Equipment – Voltage Ratings (60 Hertz).  ANSI-standard 
+7 
+C84.1.2011 as shown in Exhibit__(DMT-5), has established two voltage and tolerance 
+8 
+ranges for service and utilization voltage variations: 
+9 
+a) 
+ANSI C84.1 - Range A: 
+10 
+ Service voltage, or supply voltage at the customer meter or delivery 
+11 
+point of service, which consists of a plus or minus 5 percent tolerance 
+12 
+from the nominal voltage of 120 volts (114-126 volts AC or a 10 percent 
+13 
+bandwidth) 
+14 
+ Utilization voltage, which allows for voltage drop in the customer 
+15 
+wiring’s system, which consists of a 4 percent to minus 10 percent from 
+16 
+the nominal voltage of 120 volts (108.0 volts and 124.8 volts or 14 
+17 
+percent bandwidth) 
+18 
+b) 
+ANSI C84.1 - Range B: 
+19 
+ Service voltage, which consists of a 5.8 percent to minus 8 percent from 
+20 
+the nominal voltage of 120 volts (110.4 volts and 127.0 volts or 13.8 
+21 
+percent bandwidth). 
+22 
+
+
+--- Page 12 ---
+Case 22-E-0064 
+DAMIEN M. THOLOMIER 
+11 
+ Utilization voltage, which consists of a 6 percent to minus 13 percent 
+1 
+from the nominal voltage of 120 volt (104.4 volt and 127.2 volt or 19 
+2 
+percent bandwidth). 
+3 
+ 
+ 
+All of the above-described voltages and tolerances are for continuous operation 
+4 
+without consideration of short-time alterations due to switching processes or the start-up 
+5 
+of large motors. 
+6 
+ 
+ 
+Many electric devices are designed to operate at a utilization voltage between 104 
+7 
+and 127 volts to perform satisfactorily. Generally, utilities seek to provide electric service 
+8 
+to customers at voltages within ANSI C84.1 - Range A; the provision of service outside of 
+9 
+ANSI C84.1 - Range A should be limited.  ANSI C84.1 - Range B includes voltage above 
+10 
+and below ANSI C84.1 - Range A limits that necessarily result from practical design and 
+11 
+operating conditions on supply or consumer systems, or both. 
+12 
+ 
+ 
+Exhibit__(DMT-6) illustrates the service voltage of around 6,000 meters connected 
+13 
+to a distribution circuit.  As shown in Exhibit__(DMT-6), the service voltage at the 
+14 
+customer meter ranges from 112.2 volts and 124.2 volts meaning a couple of customers 
+15 
+see voltage outside of ANSI C84.1 - Range A during summer peak period - July - but still 
+16 
+within ANSI C84.1 – Range B. 
+17 
+The difference between service voltage and utilization voltage allows for a voltage 
+18 
+drop in facility wiring between the point of utility delivery and the utilization equipment; 
+19 
+this is the permitted value of the voltage drop inside consumer system/installation 
+20 
+circuits/wires.  
+21 
+The National Electrical Code, or NEC, recommends that voltage drop in branch 
+22 
+
+
+--- Page 13 ---
+Case 22-E-0064 
+DAMIEN M. THOLOMIER 
+12 
+circuits (sub panel to utilization equipment) be less than 3 percent. It also recommends that 
+1 
+feeder (between main panel and subpanel) voltage drop be less than 3 percent, with the 
+2 
+combined voltage drop of branch plus feeder being less than a 5 percent drop. The 
+3 
+distribution utility and the electrical installer are responsible for the quality of this voltage 
+4 
+by the correct dimensioning of the MV / LV conductors and service transformer. 
+5 
+ 
+ 
+As stated by Con Edison in its Distributed System Implementation Plan, or DSIP, 
+6 
+dated June 30, 2016, on page 77 in section (g), entitled “Voltage Quality”,  
+7 
+ Service voltages provided to the customer at the metering point will meet all 
+8 
+applicable national standards and the requirements of the state regulatory 
+9 
+authorities.  
+10 
+ Due to practical design and operating condition limitations, excursions outside 
+11 
+of Range A will occur. According to DSIP, “these excursions should occur no 
+12 
+more than four times in 24 hours and be limited to five minutes per occurrence. 
+13 
+When voltages are in Range B, the Company states that corrective actions will 
+14 
+be taken within a reasonable amount of time to improve to Range A. Sustained 
+15 
+voltages outside of Range B will also occur due to conditions beyond local 
+16 
+utility control”.  According to the DSIP, “these should be infrequent and limited 
+17 
+to one minute”. Con Edison states that prompt and corrective action will be 
+18 
+taken if these conditions persist. 
+19 
+Q. 
+WHAT IS THE TYPICAL SUBSTATION VOLTAGE BUS AT CON EDISON’S 
+20 
+AREA SUBSTATION? 
+21 
+A. 
+As stated in Con Edison’s EO-2022 “General Specification for High Tension Service” 
+22 
+
+
+--- Page 14 ---
+Case 22-E-0064 
+DAMIEN M. THOLOMIER 
+13 
+procedure at page 2 - Description of High-Tension Service, and the DSIP at page 246 – 
+1 
+Appendix D – Standard Voltages, Con Edison provides service to high tension service 
+2 
+Customers at a nominal voltage of 4 kV, 13 kV, 27 kV, or 33 kV, depending on location 
+3 
+and to low tension service customers at a nominal voltage of 120, 208, 240, 265 and 460 
+4 
+volts. 
+5 
+  
+ 
+As stated in the DSIP  at page 78 - section (h), entitled “Voltage Regulation, 
+6 
+depending on load levels of the areas served by the substation and the time of day, 
+7 
+distribution substation bus voltage schedules are typically maintained within 0.98 per unit, 
+8 
+or p.u., and 1.03 p.u. of nominal voltages of 4 kV, 13 kV, 27 kV, or 33 kV, or between 114 
+9 
+volts and 126 volts, so as to maintain 122 volts, or 1.017 p.u., at the customer’s point of 
+10 
+service, under normal conditions with all supply facilities available.  
+11 
+Q. 
+WHAT ARE THE TYPICAL SECONDARY VOLTAGE LIMITS AT CON 
+12 
+EDISON’S AREA SUBSTATIONS, ALONG ITS FEEDERS, AND AT CUSTOMER 
+13 
+METERS? 
+14 
+A. 
+The DSIP mentions that the secondary voltage limits are documented in the Company’s 
+15 
+EO 2065 procedure and based on the ANSI specifications. By maintaining primary 
+16 
+distribution voltages between 123 and 118 volts, a three-volt drop through the distribution 
+17 
+transformer, secondaries, and service can be tolerated. This primary voltage drop allows a 
+18 
+minimum voltage at the customer’s meter of 115 volts at 0.96 p.u. 
+19 
+ 
+ 
+As stated in the DSIP on page 77, section (g), under system or statewide 
+20 
+contingency conditions, a five percent voltage reduction may be required, and bus voltages 
+21 
+may be lowered to 117 volts at 0.975 p.u. under these emergency situations.  Sustained 
+22 
+
+
+--- Page 15 ---
+Case 22-E-0064 
+DAMIEN M. THOLOMIER 
+14 
+voltages outside of Range B will occur for durations over five minutes.  
+1 
+ 
+ 
+In addition to supplying voltage within acceptable ranges, the phase voltages 
+2 
+provided in a three-phase service should be reasonably balanced to prevent loss of 
+3 
+efficiency and motor derating. To limit motor derating to 90 percent, a maximum sustained 
+4 
+imbalance of three percent is allowed at the meter under no-load conditions. 
+5 
+ 
+6 
+Q. 
+WHAT IS THE DIFFERENCE BETWEEN UTILITY NOMINAL VOLTAGE AND 
+7 
+APPLIANCE/MOTOR NAMEPLATE NOMINAL VOLTAGE? 
+8 
+A. 
+The ANSI C84.1 Standard does not explain that the nameplate nominal voltage of an 
+9 
+electrical appliance or motor is not the same as the utility nominal voltage, for example – 
+10 
+115 volts versus 120 volts.  
+11 
+ 
+The National Electrical Manufacturers Association, or NEMA, recommends that 
+12 
+all electrical appliances and motors should operate at nameplate plus or minus 10 percent 
+13 
+satisfactorily. The reason that the nameplate nominal is lower than the service voltage is 
+14 
+the acknowledgement that there will be a voltage drop within the electrical distribution 
+15 
+system of the customer’s premises.  
+16 
+ 
+ 
+As illustrated in Exhibit__(DMT-7), motors with a voltage nameplate of 115 volts 
+17 
+must be operated between 103.5 volts and 126.5 volts.  A refrigerator, for example, is 
+18 
+designed to operate between 108 volts and 132 volts, a typical range for a nominal 120 
+19 
+volts, plus or minus percent of nominal voltage. If voltage runs consistently below 108 
+20 
+volts on the circuit powering the refrigerator, the compressor motor will run hotter, 
+21 
+reducing its operation and service life. 
+22 
+
+
+--- Page 16 ---
+Case 22-E-0064 
+DAMIEN M. THOLOMIER 
+15 
+POWER QUALITY ISSUES 
+1 
+Q. 
+HOW DO UTILITIES TYPICALLY ENSURE THAT VOLTAGES STAY WITHIN 
+2 
+ACCEPTABLE LIMITS IN ORDER TO PROVIDE SERVICE? 
+3 
+A. 
+Power quality is an important topic in the utility world as it impacts the producer and the 
+4 
+customer of electricity along the grid operator. As mentioned earlier, distribution utilities 
+5 
+must guarantee the electricity supply for the customers, while fulfilling certain quality 
+6 
+requirements. 
+7 
+ 
+ 
+Utilities have traditionally used voltage regulating equipment, such as Load Tap 
+8 
+Changers or LTCs, Line Voltage Regulators or LVRs, and switched or fixed capacitor 
+9 
+banks located at substations and on feeders to keep customer voltages within a desired 
+10 
+range to meet ANSI Standard C84. 
+11 
+ 
+ 
+As shown in Exhibit__(DMT-8), the voltage is regulated at the substation at 122 
+12 
+volts (in the upper range of the ANSI standard – 120 volts and 126 volts), and the primary 
+13 
+and secondary voltages at the end of the feeder are at the bottom of the ANSI standard 
+14 
+range – 114 volts and 126 volts. 
+15 
+ 
+Due to having no or limited voltage monitoring along feeders, the determination of 
+16 
+the voltage required at the substation to ensure appropriate voltage levels throughout the 
+17 
+system is done through modeling of peak load conditions using modeling software such as 
+18 
+Cyme, Synergi or Millsoft as shown in Exhibit__(DMT-9) including switching under 
+19 
+emergency conditions, or through AMI data analysis. 
+20 
+Q. 
+WHAT HAPPENS WHEN VOLTAGE LEVELS ARE TOO HIGH OR TOO LOW? 
+21 
+A. 
+As mentioned previously, utilities ideally provide electric service to customers at a voltage 
+22 
+
+
+--- Page 17 ---
+Case 22-E-0064 
+DAMIEN M. THOLOMIER 
+16 
+level within ANSI Standard C84.1 – Range A and service outside that range should be 
+1 
+avoided.  
+2 
+Operating outside of ANSI C84.1 – Range B may result in problems with 
+3 
+equipment performance as it can trigger premature failure of equipment and its electrical 
+4 
+components due to overheating. The damage caused by overheating cumulates over time 
+5 
+and becomes irreversible. Typical symptoms of voltage problems include dimming or 
+6 
+overly bright lights, tripping of protective equipment (i.e., circuit breakers) to protect 
+7 
+equipment from failure or damage. Keeping sensitive electrical and electronic components 
+8 
+cool tends to ensure their lifespan. Slight reductions in voltage levels may permit many 
+9 
+electronics to perform perfectly well while minimizing their temperature. Of course, the 
+10 
+same is not true of motors.  
+11 
+As illustrated in Exhibit__(DMT-10), neither undervoltage nor overvoltage has an 
+12 
+especially positive effect on AC induction motors, therefore smallest possible tolerances 
+13 
+should be strived for. An AC induction motor is a constant power motor and can often 
+14 
+benefit from voltages that tend to be a little bit high. As the voltage level goes up, the 
+15 
+current is reduced, and lower current usually equates to less heat generation within the 
+16 
+motor windings. There is a point where the voltage level supplied can be so high as to 
+17 
+damage a motor, but this level is far higher than that for electronics.  
+18 
+Just as higher voltages can help reduce motor operating temperatures, lower 
+19 
+voltages are a major cause of overheating motors and triggering premature motor failures. 
+20 
+As I will discuss shortly, low voltage forces a motor to draw extra current to deliver the 
+21 
+power expected of it thereby overheating the motor windings. The rule of thumb for motors 
+22 
+
+
+--- Page 18 ---
+Case 22-E-0064 
+DAMIEN M. THOLOMIER 
+17 
+is that for every 10 degrees Celsius or 50 degrees Fahrenheit, a motor is operated above its 
+1 
+rated temperature, motor life will be decreased by 50% percent. 
+2 
+More than motors, circuit boards are at risk for damage when voltage levels are 
+3 
+outside this range, but chronic problems with either motors or circuit boards is often an 
+4 
+indication of a voltage problem. 
+5 
+Q. 
+HOW DOES VOLTAGE DROP IMPACT ELECTRICAL EQUIPMENT AND 
+6 
+INSTALLATION? 
+7 
+A. 
+In an electrical installation, determination of voltage drop from the point of supply to the 
+8 
+load is very important. Excessive voltage drop on the supply line impacts most electrical 
+9 
+equipment but not to the same degree. The impact of voltage drop on some key electrical 
+10 
+equipment is given below: 
+11 
+a) 
+Effects of Voltage Drop – Electric Motors 
+12 
+In an electric motor, the torque is proportional to the square of the supply voltage. 
+13 
+Therefore, if the voltage drops, the starting torque will also decrease, making it 
+14 
+more difficult to start up the motors. The maximum torque will also decrease. 
+15 
+b) 
+Incandescent Lamps 
+16 
+The more the voltage drops, the weaker the beam becomes, and the light takes on a 
+17 
+reddish tone. 
+18 
+c) 
+Discharge Lamps 
+19 
+In general, they are not very sensitive to small variations in voltage, but in certain 
+20 
+cases, great variations may cause them to switch off. 
+21 
+d) 
+Electronic Appliances 
+22 
+
+
+--- Page 19 ---
+Case 22-E-0064 
+DAMIEN M. THOLOMIER 
+18 
+They are very sensitive to variations in voltage and that is why they are often fitted 
+1 
+with internal stabilizer circuitry. 
+2 
+e) 
+Electromechanical Devices 
+3 
+Devices such as contactors and auxiliary releases have a minimum voltage below 
+4 
+which their performances cannot be guaranteed. For a contactor, for example, the 
+5 
+holding of the contacts becomes unreliable below 85 percent of the rated voltage. 
+6 
+f) 
+Voltage Drop Limits for Electrical Installations 
+7 
+To limit the voltage drop on electrical equipment, the ANSI C84.1 Standard states 
+8 
+that the voltage drop between the point of utility delivery and the utilization 
+9 
+equipment should not be greater than the limits specified in Exhibit__(DMT-7) 
+10 
+above. However, a greater voltage drop may be accepted for electric motors during 
+11 
+starting period. 
+12 
+ 
+ 
+The following temporary conditions are excluded from the voltage drop restrictions 
+13 
+in Exhibit__(DMT-7) above: 
+14 
+ Voltage transients 
+15 
+ Voltage variation due to abnormal operation 
+16 
+ 
+ 
+However, voltage variations must remain within the limits specified in the relevant 
+17 
+equipment standards specified by the Computer and Business Electronic Manufacturers 
+18 
+Association, or CBEMA, and Information Technology Industry Council, or ITIC.  Voltage 
+19 
+deviation curves are shown in Exhibit__(DMT-11). 
+20 
+Q. 
+THE CBEMA CURVE IS DATED 1977 AND NEW ITIC CURVE IS DATED 1996.  
+21 
+ARE THEY BOTH STILL VALID? 
+22 
+
+
+--- Page 20 ---
+Case 22-E-0064 
+DAMIEN M. THOLOMIER 
+19 
+A. 
+Yes. The CBEMA curve is one of the most frequently employed power acceptability 
+1 
+curves. It was developed by the CBEMA in the 1970s as a guideline for the organization’s 
+2 
+members in designing their power supplies. Despite its age, it is still widely used.   
+3 
+ 
+ 
+Basically, the CBEMA curve was originally derived to describe the tolerance of 
+4 
+mainframe computer business equipment to the magnitude and duration of voltage 
+5 
+variations on the power system.  Also, the association designed the curve to point out ways 
+6 
+in which system reliability could be provided for electronic equipment. Eventually, it 
+7 
+became a standard design target for sensitive equipment to be applied on the power system 
+8 
+and a common format for reporting power quality variation data. The CBEMA curve was 
+9 
+adapted from IEEE Standard 446 (Recommended Practice for Emergency and Standby 
+10 
+Power Systems for Industrial and Commercial Applications – Orange Book), which is 
+11 
+typically used in the analysis of power quality monitoring results. 
+12 
+However, in 1994, the ITIC, was formed by a working group of the CBEMA. They 
+13 
+developed the curve called the ITIC curve.  The ITIC curve is a modified version of the 
+14 
+CBEMA power acceptability curve. The intent was to derive a curve that can better reflect 
+15 
+the performance of typical single-phase 120-volt, 60 Hertz computers and their peripherals, 
+16 
+and other information technology items.  Both curves are used to define the withstand 
+17 
+capability of various loads and devices for protection from power quality variations. 
+18 
+Q. 
+HOW MAY VOLTAGE UNBALANCE IMPACT MOTOR OPERATION? 
+19 
+A. 
+An unbalanced three-phase systems can cause three-phase motors and other three-phase 
+20 
+loads to experience poor performance or premature failure because of the following 
+21 
+conditions: 
+22 
+
+
+--- Page 21 ---
+Case 22-E-0064 
+DAMIEN M. THOLOMIER 
+20 
+ Mechanical stresses in motor due to lower-than-normal torque input; 
+1 
+ Higher than normal current in motors and three-phase rectifiers; 
+2 
+ Unbalance current will flow in neutral conductors in three phase wye systems. 
+3 
+ 
+ 
+With AC systems, there can appear to be a voltage unbalance condition between 
+4 
+the individual phases or the phases and a possibly existing neutral conductor. The voltage 
+5 
+unbalance without load must not be more than 3 percent according to the ANSI C84.1 
+6 
+Standard.   
+7 
+ 
+ 
+The voltage unbalance, expressed as a percentage, is determined as 100 times the 
+8 
+maximum difference from the average voltage divided by the average voltage.  For 
+9 
+example, where the measured phase to phase voltage is 230 volts, 232 volts, and 225 volts, 
+10 
+the average voltage is 229 volts, and the largest difference from the average is 4 volts, the 
+11 
+voltage unbalance is 1.75 percent. 
+12 
+ 
+ 
+With motors, a voltage unbalance leads to a current unbalance. Voltage unbalance 
+13 
+at the motor terminals causes high current unbalanced, which can be 6 to 10 times as large 
+14 
+as the voltage unbalance. Unbalance currents lead to torque pulsation, increased vibration, 
+15 
+and mechanical stress, increases losses, and motor overheating. 
+16 
+Q. 
+WHAT ARE YOUR COMMENTS ON CON EDISON’S LOW TENSION SERVICE 
+17 
+VOLTAGE LIMITS SPECIFICATION EO-2065? 
+18 
+A. 
+As shown in Exhibit__(DMT-12), the first contingency rule used by Con Edison follows 
+19 
+ANSI C84.1 Standard – Range B.  Such conditions are a part of practical operations, but 
+20 
+they should be limited in extent, frequency, and duration, and reserved for emergency 
+21 
+conditions such as emergency peak reduction. When they occur, on sustained basis, 
+22 
+
+
+--- Page 22 ---
+Case 22-E-0064 
+DAMIEN M. THOLOMIER 
+21 
+corrective measures must be undertaken within a reasonable time to improve voltage to 
+1 
+meet ANSI C84.1 Standard – Range A requirements. 
+2 
+However, the secondary contingency rule used by Con Edison is very aggressive in 
+3 
+comparison with ANSI C84.1 Standard – Range B and NEMA recommendation that 
+4 
+voltages do not exceed plus or minus 10 percent of a motor’s operating voltage.  Under 
+5 
+Con Edison’s Specification EO 2065, the service voltage at the customer meter or delivery 
+6 
+point can vary between 105 volts and 126 volts, which ranges from a negative 12.5 percent 
+7 
+to 5 percent tolerance from the nominal voltage of 120 volts. The utilization voltage could 
+8 
+vary between 99.0 volts and 126.2 volts, which ranges from a negative 17.5 percent to 
+9 
+positive 5.2 percent.  
+10 
+Q. 
+WHAT IS THE EFFECT OF THESE VOLTAGE LEVELS ON A MOTOR? 
+11 
+A. 
+One characteristics of most motors is that they continue to produce the same output even 
+12 
+when provided with low voltage, unlike a resistive load/heater or incandescent lightbulb 
+13 
+which will produce less output/light when voltage is less.  If the voltage drop in the 
+14 
+customer’s wire causes the voltage at the motor to drop below 103.5 volts, which is a 
+15 
+13.75% percent voltage drop from the 120-volt supply, the current will increase by about 
+16 
+the same percentage to maintain the same level of power.  For example, a single-phase 15 
+17 
+Horsepower motor will require 117.5 amperes at 115 volts, assuming an energy efficiency 
+18 
+of 90 percent and a power factor of 92 percent.  If the service voltage drops by 13.75 percent 
+19 
+or 103.5 volts, the current will increase to 130.6 amperes, overloading the motor windings 
+20 
+by 11.1 percent.  If the motor operating voltage drops by 20 percent or to 96 volts, the 
+21 
+current will increase to 140.8 amperes, and it is likely the motor will, if loaded, pull out or 
+22 
+
+
+--- Page 23 ---
+Case 22-E-0064 
+DAMIEN M. THOLOMIER 
+22 
+stall.  Exhibit__(DMT-10) shows the effects of a 10 percent variation on a typical Design 
+1 
+B induction motor at full load. With a 10 percent increase or decrease in voltage from that 
+2 
+given on the nameplate, the heating at rated horsepower load may increase. Such operation 
+3 
+for extended periods of time may accelerate the deterioration of the insulation system.   
+4 
+Q. 
+PLEASE CONTINUE WITH YOUR COMMENTS ON CON EDISON’S LOW 
+5 
+TENSION SERVICE VOLTAGE LIMITS SPECIFICATION EO-2065. 
+6 
+A. 
+The secondary contingency rule is used in case of major emergency situations affecting 
+7 
+Con Edison’s electric system capability and stability. A major emergency differs somewhat 
+8 
+from the standard CVO program. As mentioned in the Company’s responses to City 
+9 
+Information Requests 135, 139, 143, 166 and 185, the bus voltage schedules are based on 
+10 
+station load changes during normal operation. However, during a system emergency, the 
+11 
+bus voltage could be lowered by 8% locally or remotely at the area substations which could 
+12 
+impact the correct operation of many electrical appliances and motors.   
+13 
+Critical infrastructure such as water and waste-water treatment facilities, oil and 
+14 
+gas pipelines, police and security services, transportation, hospitals, and emergency 
+15 
+operations are typically designed to operate without power disruption. Cogeneration power 
+16 
+plants or backup generators onsite to supply electricity in the case of a grid failure, offer 
+17 
+the opportunity to improve critical infrastructure resiliency by mitigating the impacts of a 
+18 
+system emergency and keeping critical facilities running without any interruption in 
+19 
+electric service. However, backup generators must operate only in case of a grid failure, 
+20 
+and not during a normal CVO operation where the voltage reduction is only one, two, or 
+21 
+three percent. 
+22 
+
+
+--- Page 24 ---
+Case 22-E-0064 
+DAMIEN M. THOLOMIER 
+23 
+There is also some conflicting information regarding the voltage threshold limits 
+1 
+used in EO-2065 compared to the DSIP.  The former states the minimum voltage at a 
+2 
+customer’s meter of 114 volts, as stated in the ANSI C84.1 Standard, but the DSIP states 
+3 
+the minimum voltage at the customer’s meter of 115 volts. The same applies for the 
+4 
+minimum primary voltage – 117 volts vs. 118 volts. 
+5 
+CONSERVATION VOLTAGE OPTIMIZATION, CONSERVATION VOLTAGE 
+6 
+REDUCTION, AND VOLT-VAR OPTIMIZATION 
+7 
+Q. 
+WHAT IS THE PURPOSE OF CVR/VVO? 
+8 
+A. 
+The main objectives of CVR/VVO are to reduce reactive power flows on a circuit, and then 
+9 
+lower the voltage to reduce demand and customer energy consumption as well as utility 
+10 
+distribution system losses. VVO optimizes capacitor bank operations to improve power 
+11 
+factor and reduce system losses. CVR utilizes voltage regulators, transformer load tap 
+12 
+changers, and capacitors to control and reduce end-user voltages, which, in turn, lowers 
+13 
+customers’ demand and energy consumption. 
+14 
+Q. 
+HOW DOES VVO OPTIMIZE VOLTAGE? 
+15 
+A. 
+As shown in Exhibit__(DMT-13), VVO is accomplished by “flattening” a feeder line’s 
+16 
+voltage profile, or, in other words, narrowing the bandwidth of the voltage from the head-
+17 
+end of the feeder to the tail-end in concert with capacitors and other voltage regulating 
+18 
+devices such as load tap changers and line voltage regulators for voltage support.  
+19 
+ 
+ 
+In the standard VVO model, voltage will be monitored continuously along the 
+20 
+feeder and at selected end points rather than only at the substation, allowing the head-end 
+21 
+voltage to be significantly lowered at most times.  
+22 
+
+
+--- Page 25 ---
+Case 22-E-0064 
+DAMIEN M. THOLOMIER 
+24 
+Q. 
+HOW DOES CVR REDUCE ENERGY CONSUMPTION AND DEMAND? 
+1 
+A. 
+As shown in Exhibit__(DMT-13), CVR is the intentional operation of the distribution 
+2 
+system to provide customer voltages in the lower end of the acceptable range by reducing 
+3 
+voltage at the head-end of the feeder, with the goal of achieving energy and/or demand 
+4 
+reductions for customers. Generally, CVR allows a distribution utility to shift feeder 
+5 
+voltage from the upper half of the voltage requirements – 120 to 126 volts – to the lower 
+6 
+half – 114 to 120 volts. 
+7 
+CVR/VVO manages and optimizes the overall voltage profile of a feeder and will 
+8 
+reduce demand and energy consumption while ensuring that voltage levels are adequate 
+9 
+for providing safe and reliable power to customers at all points along the distribution feeder 
+10 
+including the end of the feeders. 
+11 
+Importantly, CVR/VVO usually is accomplished by a SCADA / ADMS and 
+12 
+requires communication to field devices for real-time measurement reading and issuing 
+13 
+controls. 
+14 
+Q. 
+DO YOU HAVE ANY EXPERIENCE WITH A PROGRAM LIKE CON EDISON’S 
+15 
+CVO PROGRAM? 
+16 
+A. 
+Yes.  I have been working for more than 30 years in the transmission and distribution 
+17 
+industry, where I deployed VVO solutions including standalone, SCADA and ADMS-
+18 
+based CVR/VVO solutions.  
+19 
+Q. 
+PLEASE DESCRIBE TYPICAL VVO SOLUTIONS: 
+20 
+A. 
+In a conventional Volt/VAr Control, or VVC solution:  
+21 
+
+
+--- Page 26 ---
+Case 22-E-0064 
+DAMIEN M. THOLOMIER 
+25 
+ Voltage regulation is traditionally approached in a hierarchical structure: offline 
+1 
+optimization and online control; 
+2 
+ Fixed and switched capacitor banks are deployed to reduce reactive power flow 
+3 
+losses and maintain acceptable voltage levels. Substation transformers are typically 
+4 
+equipped with on-LTCs.  Single and three-phase LVRs can be also installed along 
+5 
+the line. A simple one-way communication systems like radio or power line carrier 
+6 
+is used.  Results could only be measured back at the substation and voltages out on 
+7 
+the feeder could only be estimated through system models. 
+8 
+ The offline optimization defines the optimal setpoint for LTCs and LVRs as well 
+9 
+as the optimal switching sequences of capacitor banks. This process is typically 
+10 
+performed day-ahead based on 24-hours load forecasting or once a year by running 
+11 
+a load flow analysis at peak conditions. The online LTC control is achieved by a 
+12 
+closed-loop regulation to maintain the bus voltage at the desired setpoint or the 
+13 
+estimated voltage at the feeder end by the line drop compensator. 
+14 
+ LTC controls with line drop compensation are set to the “end-of-line voltage for 
+15 
+CVR. This is the conventional approach used for many decades. VVC is managed 
+16 
+individually by independent standalone LTCs, LVRs, and fixed/switched capacitor 
+17 
+banks.  
+18 
+ In the most basic control architecture, capacitor banks and LVRs are monitored and 
+19 
+controlled locally by current/voltage sensors and standalone controllers, with 
+20 
+control parameters including power factor, load current, voltage, reactive power 
+21 
+
+
+--- Page 27 ---
+Case 22-E-0064 
+DAMIEN M. THOLOMIER 
+26 
+flow and temperature.  The local controllers send on/off signals to the capacitor 
+1 
+banks and LVRs.  
+2 
+ This conventional and low-cost approach is no longer suitable with a smart grid 
+3 
+deployment/need as the current scheme does not have any self-monitoring 
+4 
+functions, limited coordination between volt and reactive power controls, visibility 
+5 
+of the feeder apparatus/configuration, coordination with ADMS in case of routine 
+6 
+/ emergency peak demand, and it does not enable the integration of DERs. 
+7 
+ This kind of solution has typically delivered 0.5 to 1.0 percent demand 
+8 
+reduction/energy savings. 
+9 
+For a centralized VVC/VVO solution, voltage regulation is approached in a flat structure: 
+10 
+both optimization and control are done on-line and interconnected. 
+11 
+For a SCADA-based VVC solution: 
+12 
+ LTCs, LVRs, and capacitor banks have been equipped with intelligent electronic 
+13 
+devices and are monitored and controlled by a SCADA system; 
+14 
+ Two independent systems are implemented into the CVR/VVO processor, one to 
+15 
+control the reactive power injection, or control of the capacitor banks to reduce 
+16 
+electrical losses and improve power factor; and the second to control LTCs and/or 
+17 
+LVRs to reduce demand and/or energy consumption.  
+18 
+ This kind of solution is based on predetermined rules. Such a solution is today 
+19 
+difficult to scale due to the complexity of its communication deployment, and lack 
+20 
+of adaptability – meaning no dynamic rules change in case of feeder reconfiguration 
+21 
+
+
+--- Page 28 ---
+Case 22-E-0064 
+DAMIEN M. THOLOMIER 
+27 
+or operating rules modification and performance in the case of high DER 
+1 
+penetration. 
+2 
+ This kind of solution has typically delivered 1.0 to 1.5 percent demand 
+3 
+reduction/energy savings. 
+4 
+For an Integrated VVC solution: 
+5 
+ Real-time monitoring and control of the distribution substation, feeder equipment 
+6 
+and distribution primary end-of-line voltage feedback is needed.  This includes 
+7 
+monitoring of tap positions of substation transformers and LVRs, bank voltage, 
+8 
+status switch control of capacitor bank, line switch status, and measuring load and 
+9 
+voltage of the LVRs. 
+10 
+ The optimal set of control actions for all control equipment and commands will be 
+11 
+sent to the field controller via the SCADA system available in the substation.  
+12 
+ There is no dynamic operating model of the distribution system, so an accurate and 
+13 
+up-to-date electrical model is needed.  
+14 
+ Real-time distribution system information is processed to determine appropriate 
+15 
+VVC actions and provide close-loop feedback to LTCs and LVRs. 
+16 
+ No distribution models or predetermined switching rules are required, and this 
+17 
+solution is highly scalable. 
+18 
+ This kind of solution has typically delivered 1.5 to 2 percent demand 
+19 
+reduction/energy savings. 
+20 
+For an ADMS-based VVO solution: 
+21 
+
+
+--- Page 29 ---
+Case 22-E-0064 
+DAMIEN M. THOLOMIER 
+28 
+ This model based VVO approach takes the advantage of the most information and 
+1 
+tools available in an ADMS, including near real-time network configuration, AMI, 
+2 
+outage management system, geographic information system, and customer 
+3 
+information system to develop and execute an optimal switching plan for all the 
+4 
+controllable devices to reach a desired result.  
+5 
+ The core engine is an integrated volt-var controller, which runs an online power 
+6 
+flow analysis and optimization to create a VVO switching plan. 
+7 
+ A dynamic operating model of the distribution system is used in conjunction with 
+8 
+a mathematical optimization algorithm based on distribution connectivity model 
+9 
+and the as-operated power system state. This ensures that the LVRs, LTCs, and 
+10 
+fixed/switched capacitor bank states always reflect the present operating 
+11 
+configuration of the power system.  
+12 
+ The quality of the data used in the model is key as it will impact the load flow model 
+13 
+results. 
+14 
+ However, the solutions are complex and not easily scalable, and they have high 
+15 
+costs to implement, operate, and maintain. 
+16 
+ This kind of solution has typically delivered 0.5 to 2.0 percent demand 
+17 
+reduction/energy savings.  If the system leverages AMI and measures customer 
+18 
+voltages, it can deliver 1.5 to 3.0 percent demand reduction/energy savings. 
+19 
+Q. 
+WHAT IS AN ADMS? 
+20 
+A. 
+It is a software platform that integrates numerous utility information technology and 
+21 
+operating technology systems and provides automated outage restoration and optimization 
+22 
+
+
+--- Page 30 ---
+Case 22-E-0064 
+DAMIEN M. THOLOMIER 
+29 
+of distribution grid performance. ADMS functions can include automated fault location, 
+1 
+isolation, and service restoration, CVR, and VVO.  It transitions distribution utilities from 
+2 
+paperwork, manual processes, and siloed software systems to systems with real-time and 
+3 
+near-real-time data, automated processes, and integrated systems. 
+4 
+CVO DEPLOYMENT AT CON EDISON 
+5 
+Q. 
+BASED ON YOUR UNDERSTANDING, WHAT KIND OF SOLUTIONS IS USED 
+6 
+BY CON EDISON? 
+7 
+A. 
+Based on Con Edison’s response to City Information Request 167 and EO-4729, it appears 
+8 
+that Con Edison uses a combination standalone local/remote SCADA VVC solution with 
+9 
+a fixed bus voltage setpoint for area substations based on substation loading.  According to 
+10 
+the Company’s response to City Information Request 169, there is no automatic adjustment 
+11 
+to the voltage at the substation based on voltage at the feeder level.  Substation bus voltage 
+12 
+is commensurate with load as per the voltage schedule. If a customer has a voltage 
+13 
+complaint, the appropriate Regional Control center and Engineering team will investigate 
+14 
+the case to determine root cause and work to resolve the complaint. 24 x 7 x 365 voltage 
+15 
+monitoring is being considered, however, in a network system, the “end point” or “voltage 
+16 
+low point” is constantly changing and further analysis is required to determine if it is a 
+17 
+viable option. Implementation of such a design in a low voltage meshed grid system 
+18 
+requires further study.  
+19 
+Q. 
+DID THE COMPANY PROVIDE ANY ADDITIONAL INFORMATION AS TO 
+20 
+HOW IT IMPLEMENTS CVO? 
+21 
+
+
+--- Page 31 ---
+Case 22-E-0064 
+DAMIEN M. THOLOMIER 
+30 
+A. 
+Yes.  According to Company’s response to City Information Request 171, CVO is 
+1 
+implemented in two ways: 
+2 
+ by lowering the voltage schedule at area substations via a permanent reduction 
+3 
+to the historical voltage schedule;  
+4 
+ lowering the bus voltage by a fixed percentage value that can be changed in 
+5 
+response to system needs. 
+6 
+Con Edison uses both methods, sometimes in combination.  There is no dynamic feedback 
+7 
+system. 
+8 
+Q. 
+HOW DOES CON EDISON DETERMINE THE PERCENTAGE OF VOLTAGE 
+9 
+REDUCTION AT ITS SUBSTATIONS? 
+10 
+A. 
+According to Company’s responses to City Information Request 143, 144, 145 and 147, 
+11 
+system voltage is tracked by System Operations and Substation Operations staff.  The 
+12 
+voltage schedule at each area substation is reviewed by Distribution Engineering and the 
+13 
+respective regional engineering groups, each year. Customer complaints, the Company’s 
+14 
+Poly Voltage Load, or PVL, Flow Program studies, and CVO targets are taken into 
+15 
+consideration.  
+16 
+The Company’s engineering teams run though load flow analysis using PVL 
+17 
+models, as well as plans for next worse cases during contingencies.  PVL peak models are 
+18 
+built using summer peak demand.  The accuracy is claimed to be validated through 
+19 
+continuous operational use across its entire service territory.  If there are any discrepancies 
+20 
+between projections and actual data, corrections are made. 
+21 
+Q. 
+TO YOUR KNOWLEDGE, DOES CON EDISON USE AN ADMS? 
+22 
+
+
+--- Page 32 ---
+Case 22-E-0064 
+DAMIEN M. THOLOMIER 
+31 
+A. 
+Not yet.  According to the Company’s response to City Information Request 175, Con 
+1 
+Edison does not have an ADMS, nor does it have plans to enhance its existing CVO system 
+2 
+with an ADMS-model-based VVO.  However, plans for an ADMS are under review.  
+3 
+Further, according to the Company’s responses to City Information Requests 176, 177 and 
+4 
+178, the Company has no plans for the CVO system to interact with other systems such as 
+5 
+its AMI system.  That is, there will not be any real-time or near real-time interactions 
+6 
+between CVO and the AMI system to monitor actual voltage levels at customer premises. 
+7 
+Q. 
+IS CON EDISON’S CVO PROGRAM DEPENDENT ON ANY PARTICULAR 
+8 
+TECHNOLOGIES OR DEVICES? 
+9 
+A. 
+Yes.  Deployment of CVO functionality across the Con Edison’s service territory is 
+10 
+incremental to, and dependent on, its AMI rollout. The target for AMI-enabled CVO is 3.0 
+11 
+percent voltage reduction, which equates to approximately 1.5 percent energy savings, 
+12 
+subject to measurement and verification studies. However, the 3.0 percent voltage 
+13 
+reduction is expected to be achieved, which is quite unusual as explained earlier – that is, 
+14 
+fixed voltage setpoint versus dynamic voltage regulation using the AMI system to monitor 
+15 
+in real-time actual voltage levels at customer premises and adjust dynamically the bus 
+16 
+voltage at the area substation.. 
+17 
+Q. 
+HOW 
+DOES 
+THE 
+COMPANY’S 
+CVO 
+PROGRAM 
+UTILIZE 
+AMI 
+18 
+INFORMATION?  
+19 
+A. 
+The current CVO tool imports AMI data to be analyzed off-line. According to Con 
+20 
+Edison’s response to City Information Request 177, CVO reduction is based on the 
+21 
+outcome of the AMI analysis of interval data, not real-time data. 
+22 
+
+
+--- Page 33 ---
+Case 22-E-0064 
+DAMIEN M. THOLOMIER 
+32 
+Q. 
+TO YOUR KNOWLEDGE, DOES CON EDISON MONITOR VOLTAGE LEVELS 
+1 
+AND MAKE REAL-TIME ADJUSTMENTS TO ITS FIELD DEVICES WHEN IT 
+2 
+ENGAGES IN CVO? 
+3 
+A. 
+No, it does not.  As stated in the DSIP at page 69, “initially, the Company managed voltage 
+4 
+using hardware at the station. More recently, voltage is controlled at each station using 
+5 
+SCADA. Both methods control voltage by adjusting the area substation transformer tap 
+6 
+changer. The methods do not automatically switch capacitor banks or make other decisions. 
+7 
+Some of the Company’s grid modernization investments will enhance the control systems 
+8 
+and necessary components to automate this process, as well as increase accuracy for 
+9 
+appropriate measurement, verification, and control. Currently, the Company regulates 
+10 
+voltage with limited knowledge of the customer voltage. As the Company deploys AMI, it 
+11 
+will provide new voltage measurement capability at meters (i.e., what voltage the customer 
+12 
+is receiving), thus increasing the amount of information available to grid operators and 
+13 
+planners and enabling Con Edison to better control voltage across the system.”  
+14 
+According to the Company’s response to City Information Request 183, the 
+15 
+implemented CVO solution does not automatically adjust voltage levels to the optimum 
+16 
+range.   According to Company’s responses to City Information Requests 181 and 182, 
+17 
+Con Edison does not use any MV or LV sensors or its AMI smart meters or other grid edge 
+18 
+devices to control head-end voltage reduction at its area substations with a low voltage 
+19 
+constraint greater than or equal to 114 volts. Only the voltage at the area substation bus is 
+20 
+monitored by potential transformers at the substation, and then regulated via the adjustment 
+21 
+of LTCs, to follow a predefined voltage schedule. 
+22 
+
+
+--- Page 34 ---
+Case 22-E-0064 
+DAMIEN M. THOLOMIER 
+33 
+According to the Company’s responses to City Information Requests 132, 138 and 
+1 
+170, there is no automatic adjustment to the voltage at the substation, based on end point 
+2 
+feeder voltage. Substation bus voltage is commensurate with load as per the voltage 
+3 
+schedule. AMI data is collected on a continuous basis and is manually studied periodically.  
+4 
+Q. 
+HOW DOES CON EDISON MEASURE THE OVERALL PERFORMANCE OF 
+5 
+CVO? 
+6 
+A. 
+According to Company’s response to City Information Request 168, once CVO is 
+7 
+implemented, Regional Engineering studies the AMI endpoint voltage data to measure 
+8 
+performance at Summer and Non-Summer peaks.  However, the real performance is based 
+9 
+on reported customer complaints, a reactive rather than proactive approach. 
+10 
+Q. 
+DOES CON EDISON HAVE ANY SPECIAL RULES IN PLACE FOR FEEDERS 
+11 
+FEEDING 
+VOLTAGE 
+SENSITIVE 
+LOADS 
+SUCH 
+AS 
+CRITICAL 
+12 
+INFRASTRUCTURE? 
+13 
+A. 
+According to Company’s response to City Information Request 163, there are no special 
+14 
+rules in place such as for example, excluding critical asset feeders from CVO deployment, 
+15 
+or engaging with large commercial, industrial, or institutional customers and potentially 
+16 
+adjust the CVO operation limits based on their constraints. 
+17 
+Q. 
+HOW MANY FEEDERS WILL BE IMPACTED BY THE IMPLEMENTATION OF 
+18 
+THE COMPANY’S CVO PLANS? 
+19 
+A. 
+According to Company’s response to City Information Request 161, nearly all Con Edison 
+20 
+2,208 distribution feeders will be impacted by the implementation of the Company’s CVO 
+21 
+plans.  These feeders will carry less power, due to the energy savings from CVO. 
+22 
+
+
+--- Page 35 ---
+Case 22-E-0064 
+DAMIEN M. THOLOMIER 
+34 
+BEST PRACTICES WHEN DEPLOYING CVR/VVO 
+1 
+Q. 
+HOW DO UTILITIES TYPICALLY DETERMINE THE PERCENTAGE OF 
+2 
+VOLTAGE REDUCTION AT THE SUBSTATION/FEEDER AND VIABLE 
+3 
+CVR/VVO SUBSTATION/FEEDER CANDIDATES? 
+4 
+A. 
+By performing a load flow analysis or an analysis using data collected via AMI prior to 
+5 
+deploying a CVR/VVO solution, utilities can identify and find the lowest or worst 
+6 
+performing voltage nodes on the distribution system and confirm the available voltage 
+7 
+margins prior to initiating any voltage reduction at the substation, such as reducing load 
+8 
+tap changer operation.   
+9 
+ 
+ 
+Utilities typically have feeder/substation modeling tools such as Synergi, Cyme and 
+10 
+Millsoft. By running a load flow analysis, the voltage profile, or voltage as function as the 
+11 
+distance from main substation, can be determined as shown in Exhibit__(DMT-14).  
+12 
+ 
+ 
+When utilities deploy CVR/VVO solutions, the main objective is to lower the 
+13 
+overall voltage of the substation/feeder to achieve energy conservation and/or demand 
+14 
+reduction. However, low voltage points in some locations limit how far can the voltage be 
+15 
+dropped without violating ANSI limits. 
+16 
+As illustrated in Exhibit__(DMT-14), there are multiple service transformers with 
+17 
+a voltage below 114 volts, the minimum voltage at the customer’s meter. Therefore, no 
+18 
+voltage reduction at the area substation can be made without any system upgrade to fix the 
+19 
+existing voltage outliers.   
+20 
+As shown in Exhibit__(DMT-15), there is an existing voltage margin of 5 volts that 
+21 
+can be used to lower the voltage at the area substation. The LTC setpoint is lowered from 
+22 
+
+
+--- Page 36 ---
+Case 22-E-0064 
+DAMIEN M. THOLOMIER 
+35 
+123 volts to 118 volts, a 5 volt or 4.2 percent reduction at a 120-volt base. Considering a 
+1 
+CVR factor for energy of 1, the energy consumed by the aggregated load of the 
+2 
+feeder/substation is now reduced by the CVR factor multiple by the percentage voltage 
+3 
+reduction, or 4.2 percent. 
+4 
+ 
+As shown in Exhibit__(DMT-16), during peak conditions in July and December, 
+5 
+voltage drop could be higher due to the substation load, resulting in voltage nodes along 
+6 
+and at the end of the feeder that are in the lower range of the ANSI C84.1 Standard - Range 
+7 
+A.  In the example in Exhibit__(DMT-16), the lack of voltage margins during July and 
+8 
+December at the customer meter limits or prevents voltage reduction during peak 
+9 
+conditions.  During off-peak periods, the voltage margin will be above or around 4 percent, 
+10 
+which translates into energy savings. 
+11 
+Q. 
+HOW DO UTILITIES DETERMINE VOLTAGE MARGINS AND ENERGY 
+12 
+SAVINGS? 
+13 
+A. 
+To estimate the existing voltage margin and expected energy savings per substation/feeder, 
+14 
+utilities can create a voltage margin curve (percentage voltage margin and substation/feeder 
+15 
+load in MW) using field measurements as shown in Exhibit__(DMT-17).  By doing so, 
+16 
+utilities can determine the substation/feeder prioritization/viability of potential CVR/VVO 
+17 
+candidates and associated Benefit Cost Ratio, or BCR.  Using a load flow analysis of 
+18 
+substation/feeder characteristics involving load type, load density, feeder lengths, existing 
+19 
+voltage control settings, real and reactive loads, line voltage drops and losses, 
+20 
+switched/fixed cap banks and line regulators installed, and conductor loading helps utilities 
+21 
+to also estimate the potential impacts, estimated voltage margin, capacity reduction and 
+22 
+
+
+--- Page 37 ---
+Case 22-E-0064 
+DAMIEN M. THOLOMIER 
+36 
+energy savings, as well as the associated deployment costs such as system upgrades.  
+1 
+Q. 
+ARE THERE ALTERNATIVES TO PERFORMING A LOAD FLOW ANALYSIS? 
+2 
+A. 
+Yes.  The alternative to a load flow analysis is to run an AMI data analysis as shown in 
+3 
+Exhibit__(DMT-18). The AMI data analysis will show the voltage of each individual 
+4 
+customer meter across the year and rank the lowest or worst voltage nodes based on 15-
+5 
+minute AMI data.  As shown in Exhibit__(DMT-18), there are consistent voltage violations 
+6 
+observed in the AMI data, which prevents any voltage reduction at the substation.  In this 
+7 
+example, no voltage reductions should occur without first making system upgrades. 
+8 
+Q. 
+PLEASE SUMMARIZE THE BEST PRACTICES WHEN DEPLOYING 
+9 
+CVR/VVO. 
+10 
+A. 
+Best practices include examining each substation or feeder to determine whether 
+11 
+CVR/VVO implementation is appropriate.  It typically cannot be applied throughout a 
+12 
+utility’s service territory at every substation or feeder.  Indeed, in some situations, no 
+13 
+voltage reduction at an area substation can be made without a system reconfiguration 
+14 
+and/or upgrade to fix existing voltage outliers.  An upgrade could comprise a feeder 
+15 
+reconfiguration by switching line sections, load reconfiguration, deployment of new 
+16 
+primary or secondary capacitor banks or voltage regulators along the feeder, upgrading 
+17 
+service transformers, reconductoring line sections, or adding parallel feeders.  
+18 
+Additionally, upgrades may be required to monitor voltage at the substation and along the 
+19 
+feeders and to optimize/control voltage and reactive power flows all along the feeders. 
+20 
+ 
+ 
+Substations / feeders can then be categorized as viable or non-viable for CVR/VVO 
+21 
+implementation, and viable feeders must be prioritized based on a potential voltage-
+22 
+
+
+--- Page 38 ---
+Case 22-E-0064 
+DAMIEN M. THOLOMIER 
+37 
+reduction magnitude-sensitivity impact analysis, and subsequent energy savings/capacity 
+1 
+reduction potential and deployment costs.  The CVR/VVO deployment costs are primarily 
+2 
+to increase feeder efficiency, minimize voltage drop and monitor last customer and system 
+3 
+voltages on a continuous basis. 
+4 
+CVR/VVO is likely to be cost-effective for viable feeders having the highest level 
+5 
+estimated potential Total Resource Cost BCR. When CVR/VVO is deployed, utilities must 
+6 
+calculate the BCR and Levelized Cost of Energy for each viable substation / feeder 
+7 
+candidates by ranking each viable substation/feeder consecutively from highest savings 
+8 
+and costs to lowest, with the highest feeder rank representing the highest energy savings 
+9 
+potential with lowest implementation costs. Typically, 50% to 70% of the evaluated 
+10 
+distribution feeders will be classified as viable candidates. Non-viable candidates – those 
+11 
+with the lowest energy savings potential and highest implementation costs – typically refer 
+12 
+to feeders with high amounts of commercial/industrial loads or long lightly loaded lines 
+13 
+and having a BCR factor lower than 1. 
+14 
+Q. 
+ARE THERE OTHER BEST PRACTICES? 
+15 
+A. 
+Yes.  Analyzing AMI data can help to identify voltage outliers prior enabling a 
+16 
+CVR/VVO program, and then safely adjust the bus voltage at area substations without 
+17 
+causing voltage violations for any customer served by the substation.  
+18 
+While the availability of AMI data allows for powerful trending analysis of spot 
+19 
+meter anomalies to identify worst performer nodes, it does require the selection of enough 
+20 
+meters to provide adequate coverage across the feeder to capture the lowest and highest 
+21 
+average voltage for required time intervals.  Statistical analysis of historical voltage 
+22 
+
+
+--- Page 39 ---
+Case 22-E-0064 
+DAMIEN M. THOLOMIER 
+38 
+readings from AMI meters would provide a list of meters that typically have the highest 
+1 
+and lowest voltage. Because customer loading patterns change hourly, daily, and 
+2 
+seasonally, the list of meters used should change based on load patterns and the resulting 
+3 
+change in the voltage profiles. Typically, the meters used can change daily. 
+4 
+Q. 
+PLEASE CONTINUE WITH YOUR EXPLANATION OF BEST PRACTICES.  
+5 
+A. 
+Customer load diversity should be considered when selecting distribution substations / 
+6 
+feeders for estimating CVR/VVO benefits because residential, commercial, and industrial 
+7 
+customers have different percentages of equipment load composition. CVR effects are 
+8 
+closely related to classes of customers on the feeder as not all loads are suitable for CVR 
+9 
+implantation, such as water heaters.  That is, if the voltage is lower, less power is demanded 
+10 
+and therefore less heat is produced. This requires the device to run for a longer amount of 
+11 
+time, as the same amount of energy is needed to heat the water to the desired temperature.  
+12 
+In other words, the energy consumption remains the same while the demand reduces. 
+13 
+Viable CVR/VVO depends on the nature – resistive, inductive, or capacitive – and type of 
+14 
+the load – ZIP constant impedance Z, current I and power P: 
+15 
+ 
+Constant impedance <<Z>> means that if the voltage decreases the current will 
+16 
+decrease with the same ratio also and then the power at the square of the voltage. 
+17 
+In other words, electrical devices that are of constant impedance load require less 
+18 
+power when the voltage is low. Incandescent lamps and electric resistance heaters 
+19 
+are one of many examples of this type of load. 
+20 
+ 
+Constant power <<P>> means that the current will increase if the voltage decreases. 
+21 
+The power supplied to constant power load is constant even though the voltage of 
+22 
+
+
+--- Page 40 ---
+Case 22-E-0064 
+DAMIEN M. THOLOMIER 
+39 
+the load fluctuates. If the voltage drops, more current will be drawn to maintain the 
+1 
+amount of power. Most of industrial electrical motors are of constant power load. 
+2 
+If you reduce the voltage, the motor's speed will decrease slightly, and the current 
+3 
+being drawn will increase to provide the same torque and power which was being 
+4 
+produced at the higher voltage. 
+5 
+ 
+Constant current <<I>> means that the power will decrease with the same ratio if 
+6 
+the voltage decreases, or constant current load is proportional to voltage.  There are 
+7 
+only a few electrical devices that are of constant current load. 
+8 
+ 
+Although the quantitative CVR effects of each customer type may vary, there is a basic 
+9 
+conclusion that, compared with industrial loads that mainly have constant power P load, 
+10 
+reducing voltage could reduce more energy consumption for composite residential and 
+11 
+commercial customers since they have larger voltage sensitivities. 
+12 
+ 
+ 
+Typically, utilities will deploy CVR/VVO in distribution circuits with the highest 
+13 
+BCR ratio and where voltage reduction will have no or limited impact on customer 
+14 
+equipment.  In my experience, utilities will avoid substations / feeders serving large 
+15 
+industrial customers, substations / feeders serving residential customers will be preferred. 
+16 
+Q. 
+IN OTHER WORDS, IS IT APPROPRIATE TO IMPLEMENT CVR/VVO ON ALL 
+17 
+FEEDERS OR AT ALL OF A UTILITY’S SUBSTATIONS? 
+18 
+A. 
+No, it is not. A proactive utility identifies the top candidate locations for CVR/VVO and 
+19 
+will engage with customers having special needs or circumstances. Special rules must be 
+20 
+put in place such as for example, excluding critical asset feeders from CVR/VVO 
+21 
+deployment, or engaging with large commercial, industrial, and institutional customers and 
+22 
+
+
+--- Page 41 ---
+Case 22-E-0064 
+DAMIEN M. THOLOMIER 
+40 
+potentially adjust the CVR/VVO operation limits based on their constraints. Examples of 
+1 
+such customers include hospitals, research facilities, and data centers. 
+2 
+Q. 
+WHAT ARE THE CHALLENGES ASSOCIATED WITH IMPLEMENTING 
+3 
+CVR/VVO? 
+4 
+A. 
+Historically, the challenge implementing CVR/VVO has been that the voltage standards 
+5 
+applied at the customer meter, are where the utility has little to no visibility of the actual 
+6 
+load voltage data.  Therefore, when limited or zero visibility exists; or a good 
+7 
+understanding of the customer mix – residential, commercial, industrial, and institutional 
+8 
+– connected to the circuit, a voltage reduction at the area substation might create more 
+9 
+customer complaints than energy or demand savings.  
+10 
+ 
+ 
+Until sufficient voltage data along the feeders and customer meters become 
+11 
+available through SCADA, ADMS and AMI systems, distribution operators must estimate 
+12 
+voltages at the customer meters and proper voltage margins to avoid voltage violations and 
+13 
+possibly power quality issues and customer complaints, and they should deploy power 
+14 
+quality meters at large commercial, industrial, and institutional sites to ensure satisfactory 
+15 
+starting of large motor drives and proper operation of processes that might be equipped 
+16 
+with undervoltage protection.  
+17 
+ 
+ 
+Distribution automation and field communication networks associated with the 
+18 
+deployment of CVR/VVO solutions have allowed additional measurements from 
+19 
+downstream field devices such as voltage regulators, reclosers, switched capacitor banks 
+20 
+and end of line voltage sensors deployed on the primary and/or secondary side of the 
+21 
+distribution system as shown in Exhibit__(DMT-19).  
+22 
+
+
+--- Page 42 ---
+Case 22-E-0064 
+DAMIEN M. THOLOMIER 
+41 
+ 
+ 
+This additional voltage monitoring and data collection on the MV side can also help 
+utilities determine the optimal voltage reduction on any given substation/feeder but again 
+with a sufficient voltage margin due to the lack of voltage visibility at customer meters. 
+Q. 
+WHEN, OR UNDER WHAT CIRCUMSTANCES, IS CVO APPROPRIATE ON A 
+1 
+STAND-ALONE LOCAL/REMOTE SCADA BASIS? 
+2 
+A. 
+Due to the lack of continuous voltage visibility/monitoring all along the distribution feeder 
+3 
+and at customers’ meters, as well as the lack of a dynamic voltage regulation response to 
+4 
+ANSI voltage violations, a fixed bus voltage reduction setpoint at an area substation should 
+5 
+be done without causing any customer’s voltage violation.  That is, a minimum voltage of 
+6 
+114 volts at the meter or 117 volts at the MV delivery point. 
+7 
+Q. 
+WHEN ISN’T THE USE OF CVO APPROPRIATE? 
+8 
+A. 
+When there is no available voltage margin or visibility of the existing voltage margin prior 
+9 
+to reducing the bus voltage at the area substation.  As explained earlier, substation/feeder 
+10 
+models are not 100% accurate while AMI data analysis has also its own limitation – 
+11 
+particularly that data changes hourly, daily and seasonally.  In addition, I would 
+12 
+recommend being very cautious with substations / feeders having critical infrastructures. 
+13 
+Q. 
+YOU EXPLAINED THAT UTILITIES MAKE FIELD MEASUREMENTS AND 
+14 
+CREATE VOLTAGE MARGIN CURVES TO ESTIMATE VOLTAGE MARGINS 
+15 
+AND EXPECTED ENERGY SAVINGS.  TO YOUR KNOWLEDGE, DOES CON 
+16 
+EDISON MAKE SUCH MEASUREMENTS AND PERFORM SUCH ESTIMATES? 
+17 
+A. 
+Partially, based on my understanding. According to the Company’s response to City 
+18 
+Information Request 132, Con Edison monitors voltage levels:  
+19 
+
+
+--- Page 43 ---
+Case 22-E-0064 
+DAMIEN M. THOLOMIER 
+42 
+ At the area substation; 
+1 
+ on the low voltage side of network protectors; and 
+2 
+ at customer meters via AMI. 
+3 
+However, it does not appear that Con Edison creates voltage margin curves or calculate 
+4 
+energy savings per substation or feeder.  As Con Edison collects load and bus voltage data 
+5 
+at area substations, as well as AMI meter data, the Company should create voltage margin 
+6 
+curves to estimate the expected voltage margins and energy savings. 
+7 
+Q. 
+IS CON EDISON’S APPROACH TO CVO/VVO CONSISTENT WITH WHAT 
+8 
+OTHER UTILITIES DO? 
+9 
+A. 
+Not based on my latest experience.  Distribution utilities looking to leverage their AMI 
+10 
+technology for operational improvements are increasingly interested in CVR/VVO 
+11 
+programs because they can achieve 1 to 3 percent energy savings without requiring 
+12 
+customers to change their energy consumption behavior, but this can be achieved only 
+13 
+using a centralized ADMS with a VVO engine.  Con Edison does not have an ADMS or 
+14 
+any plans to add one. 
+15 
+Q. 
+WHAT OTHER CONCERNS HAVE YOU IDENTIFIED? 
+16 
+A. 
+According to the Company’s responses to City Information Requests 152, 154 and 155, its 
+17 
+implementation of CVO does not have any fixed costs, other than the cost of use of its 
+18 
+analytics tool, and no deployment nor operating costs such as voltage regulators, primary 
+19 
+capacitor banks, distribution automation, enterprise and/or mesh network controllers, or 
+20 
+feeder enhancements specifically as part of the CVO effort.  I am not aware of any utility 
+21 
+that has properly deployed CVR/VVO incurring no deployment costs, especially given the 
+22 
+
+
+--- Page 44 ---
+Case 22-E-0064 
+DAMIEN M. THOLOMIER 
+43 
+magnitude of the deployment being undertaken by Con Edison. 
+1 
+According to Company’s responses to City Information Request 148 and 161, Con 
+2 
+Edison does not breakdown the type of customers served by each substation, the 
+3 
+substation/feeder characteristics, such as peak and average load, length, and number of 
+4 
+customers, the type of loads on a substation / feeder, or estimated energy savings versus 
+5 
+deployment costs when considering whether to deploy CVO. The Company plans to deploy 
+6 
+the CVO program in nearly all of its 2,208 distribution feeders without collecting or 
+7 
+analyzing any of this information. 
+8 
+Q. 
+WHAT DOES THIS MEAN? 
+9 
+A. 
+The lack of any fixed or operating costs might indicate that Con Edison is not taking action 
+10 
+to increase its feeder efficiencies or minimize voltage drops from its area substation to its 
+11 
+customers’ meters.  Importantly, it also means that the Company is not monitoring system 
+12 
+conditions in real-time and has no awareness of the actual voltage levels on its feeders or 
+13 
+provided to its customers.  Indeed, the Company stated in response to City Information 
+14 
+Request 169 that it waits to hear from customers that those problems have arisen before 
+15 
+taking any action. 
+16 
+Q. 
+IS THAT APPROACH REASONABLE AND APPROPRIATE? 
+17 
+A. 
+No.  The Company does not advise its customers about its CVO activities – especially large 
+18 
+customers with sensitive loads voltage or critical infrastructures, and many customers are 
+19 
+not aware that problems they are experiencing could be due to low voltages from Con 
+20 
+Edison.  
+21 
+ 
+ 
+Most customers do not have voltage meters on their wiring or equipment and have 
+22 
+
+
+--- Page 45 ---
+Case 22-E-0064 
+DAMIEN M. THOLOMIER 
+44 
+no readily available way of measuring the voltages they are receiving. Typically, utilities 
+1 
+would be proactive in their approach to CVR/VVO and actively monitor system conditions 
+2 
+and make real-time adjustments as appropriated or engage and talk with them about their 
+3 
+load and protection and replan prior to reducing voltage. 
+4 
+Q. 
+DOES CON EDISON FOLLOW THE BEST PRACTICES YOU DESCRIBED? 
+5 
+A. 
+Based on the information I have reviewed and my discussions with Company personnel 
+6 
+and other customers, it does not appear to me that Con Edison is doing so.  Rather, it is 
+7 
+applying, or going to apply, CVO throughout its service territory regardless of the type or 
+8 
+nature of customers served in any network and of the level of potential energy savings.  In 
+9 
+my view, and based on my experience, this is not a safe approach as voltage issues will for 
+10 
+sure be experienced by customers, and eventually have a negative impact on CVO 
+11 
+deployment.   
+12 
+Moreover, as stated in its DSIP, Con Edison regulates voltage with limited 
+13 
+knowledge of its customers’ voltage levels.  As the Company deploys AMI, it will provide 
+14 
+additional off-line voltage measurement capability at meters, thus increasing the amount 
+15 
+of data available to grid operators and planners.  However, the Company does not plan to 
+16 
+engage in any real-time or near real-time monitoring of voltage levels or otherwise interact 
+17 
+with an ADMS.  In contrast, the industry today is moving to an ADMS model-based VVO 
+18 
+solution with near real-time integration with AMI head-end systems to integrate AMI 
+19 
+meters and improve voltage visibility.  
+20 
+According to the Company’s response to City Information Request 174, Con 
+21 
+Edison does not have capacitor banks on most of its feeders. The Company plans to install 
+22 
+
+
+--- Page 46 ---
+Case 22-E-0064 
+DAMIEN M. THOLOMIER 
+45 
+SCADA controlled capacitor banks, but they will have only upstream visibility.  In 
+1 
+addition, the CVO system does not use dynamic voltage regulation meaning that the 
+2 
+Company cannot automatically adjust area substation supply voltage due to live voltage 
+3 
+data even if voltage sensors were installed along the feeders and at selected end points. 
+4 
+It is my opinion that the Company’s approach is not consistent with utility best 
+5 
+practices or with a smart grid deployment as there is no coordination between voltage and 
+6 
+reactive power controls, no visibility of the feeder apparatus/configuration, no coordination 
+7 
+with ADMS in case of routine / emergency peak demand, and no ability to enable the 
+8 
+integration of DERs in future due to the exacerbation of voltage variations. 
+9 
+Q. 
+WHAT OTHER PROBLEMS DO YOU SEE WITH CON EDISON’S APPROACH? 
+10 
+A. 
+CVR is an established idea and one of the most cost-effective ways to save energy and 
+11 
+reduce demand. However, there still exists skepticism on CVR performance and its 
+12 
+potential negative effects on system reliability and power quality. Con Edison’s CVO 
+13 
+approach creates a barrier to the social acceptance of CVR due the lack of visibility and 
+14 
+limited levering of new technologies such as AMI and ADMS to operate in near real-time.  
+15 
+ 
+ 
+Further, the effectiveness of CVO, as a subset of VVO, to optimize voltage levels 
+16 
+in distribution networks will diminish as the quantity of modern electrical appliances such 
+17 
+as CF/LED lighting and consumer electronics and the penetration of solar photovoltaics 
+18 
+and electric vehicles increase, and Con Edison needs to consider these changes.  There also 
+19 
+can be power quality impacts associated with CVO, such as voltage unbalance and voltage 
+20 
+violations, and the Company must be aware of the potential for such impacts and take 
+21 
+action to prevent or minimize them.  As I explained earlier, VVO is accomplished by 
+22 
+
+
+--- Page 47 ---
+Case 22-E-0064 
+DAMIEN M. THOLOMIER 
+46 
+flattening a feeder line’s voltage profile in concert with capacitor banks and voltage 
+1 
+regulators.  In the standard VVO model, voltage will be monitored continuously along the 
+2 
+feeder and at selected end points (rather than only at the substation), allowing the head-end 
+3 
+voltage to be significantly lowered at most times.   Con Edison does not do so, but it should 
+4 
+do so. 
+5 
+Q. 
+WHAT SHOULD CON EDISON BE DOING IN DEPLOYING CVO? 
+6 
+A. 
+Con Edison provides service to industrial customers at a nominal voltage of 4 kV, 13 kV, 
+7 
+27 kV or 33 kV depending on location.  Con Edison owns and maintains its feeders up to 
+8 
+the customer property or meter location and the customer designs, installs, owns, and 
+9 
+operates all equipment from the meter or property line termination point, including cables, 
+10 
+circuit breakers, transformers, and associated equipment.   While the customer may receive 
+11 
+high voltage service and step it down using its own substation, Con Edison evaluates the 
+12 
+design and construction of the area substation to ensure that it will not have an adverse 
+13 
+impact on the electric distribution system.  
+14 
+ 
+ 
+When deploying CVR/VVO, Con Edison must ensure that a voltage reduction at 
+15 
+the area substation will not impact its industrial customers by delivering voltage below 
+16 
+ANSI C84.1 Standards. That means medium voltage (high tension voltage) must be 
+17 
+regulated between 117 volts and 126 volts or 4,056 volts and 4,368 volts if the customer is 
+18 
+connected to a step-down transformer 13,200 volts / 4,160 volts at the delivery point. 
+19 
+Q. 
+DO YOU HAVE ANY ADDITIONAL COMMENTS REGARDING CON EDISON’S 
+20 
+APPROACH TO CVO? 
+21 
+A. 
+I have reviewed Con Edison’s responses to the City’s discovery requests related to voltage 
+22 
+
+
+--- Page 48 ---
+Case 22-E-0064 
+DAMIEN M. THOLOMIER 
+47 
+reduction issues.  The Company’s responses to City Information Requests 132, 133, 134, 
+1 
+and 177 state that CVO tool imports AMI data to be analyzed and CVO reduction is based 
+2 
+on the outcome of the analysis and voltage is monitored at various levels at various points, 
+3 
+including at customer meters via AMI.  However, the response to City Information Request 
+4 
+169 stated  
+5 
+ There is no automatic adjustment to the voltage at the substation, based on 
+6 
+voltage at the feeder level.  Substation bus voltage is commensurate with load 
+7 
+as per the voltage schedule.  
+8 
+ If a customer has a voltage complaint, the appropriate Regional Control Center 
+9 
+and engineering team will investigate the case to determine root cause and work 
+10 
+to resolve the complaint.  
+11 
+ 24 x 7 x 365 voltage monitoring is being considered, however, in a network 
+12 
+system, the “end point” or “voltage low point” is constantly changing and 
+13 
+further analysis is required to determine if it is a viable option. Implementation 
+14 
+of such a design in a low voltage meshed grid system requires further study. 
+15 
+ System modeling, AMI data, and response to customer complaints have been 
+16 
+successful in solving voltage issues. 
+17 
+ 
+ 
+As illustrated in Exhibit__(DMT-20), looking at the daily average voltage at the 
+18 
+Department of Environmental Protection’s, or DEP’s, Owls Head Wastewater Treatment 
+19 
+Plant in Brooklyn (ref. VOLTAGE REDUCTION ANALYSIS 2020 to 2021 at 
+20 
+Wastewater Treatment Resource and Recovery Facility - WRRF), the voltage at the Con 
+21 
+Edison’s delivery point is continuously below the ANSI C84.1 Standard.  The daily average 
+22 
+
+
+--- Page 49 ---
+Case 22-E-0064 
+DAMIEN M. THOLOMIER 
+48 
+voltage on the MV side at 9 am is always below 4,056 volts, which can explain the voltage 
+1 
+issues experienced by that facility.  On an equivalent basis for 120-volt service, the voltage 
+2 
+range must be between 117 volts and 126 volts as set forth in the ANSI Standard, but the 
+3 
+service to this facility is always below 117 volts, as observed by DEP. 
+4 
+Q. 
+WHAT ELSE DID YOU DISCOVER? 
+5 
+A. 
+The Owls Head facility is served by the Greenwood Area Substation.  That substation went 
+6 
+into a 1 percent CVO reduction on October 13, 2020, and a 2 percent CVO reduction on 
+7 
+January 29, 2021.  As illustrated in Exhibit__(DMT-21), DEP observed a voltage reduction 
+8 
+trend of 6 percent over the period May 2020 to March 2021, with a voltage ranging between 
+9 
+106.4 volts and 116.3 volts and an average voltage of 112.8 volts. 
+10 
+ 
+ 
+As indicated in the Company’s responses to City Information Requests 343, 350 
+11 
+and 351, the Company reviews customer voltage conditions before implementing CVO 
+12 
+reductions to determine whether or not to implement CVO in an area and at what 
+13 
+percentage reduction.  After CVO reductions, the Company claims that it reviews the 
+14 
+impacts of the reduction on meter voltage in the area. 
+15 
+ 
+ 
+Since the Greenwood Substation had more than 80% AMI meter saturation in 
+16 
+October 2020, the Company used AMI data to assess customer voltage and determine the 
+17 
+appropriate CVO reduction. The Company did not use load flow analysis to determine the 
+18 
+CVO reduction at the Greenwood Substation because it believed assessing voltage 
+19 
+conditions using AMI provided more accurate results.  However, this belief would have 
+20 
+been correct only if all AMI meter data was available and monitored, including data from 
+21 
+the MV delivery points. Brooklyn-Queens Regional Engineering carried out this analysis 
+22 
+
+
+--- Page 50 ---
+Case 22-E-0064 
+DAMIEN M. THOLOMIER 
+49 
+and defined meters falling below the first contingency voltage threshold of 110 volts as 
+1 
+LV. Brooklyn-Queens Regional Engineering considered a group of ten or more meters in 
+2 
+LV conditions to be an LV cluster that should be investigated prior to implementing CVO 
+3 
+reductions in a given area. 
+4 
+Prior to enabling 1 percent CVO in Greenwood, Brooklyn-Queens Regional 
+5 
+Engineering used AMI data from September 1, 2020 to determine the voltage conditions 
+6 
+of customer meters.  The Company identified one LV cluster of 10 meters.  However, since 
+7 
+that LV cluster occurred during the end of summer when system load was relatively high, 
+8 
+the Company expected the cluster would resolve when the load decreased later in the year 
+9 
+and thus did not prevent the Company from moving forward with the 1 percent CVO 
+10 
+reduction.  
+11 
+As confirmed by Con Edison, the voltage at DEP’s Owl’s Head facility is lower 
+12 
+than it has historically been and voltage at Greenwood Substation, which supplies Owl’s 
+13 
+Head, has “been in CVO” since late 2020.  It is unclear whether Con Edison’s analysis 
+14 
+prior to implementing CVO at the Greenwood Substation included the DEP facility or was 
+15 
+identified as a potential LV outlier.  An option suggested by Con Edison to fix the power 
+16 
+quality issue reported by DEP is to change the tap setting of the DEP transformers. 
+17 
+However, this is a reactive proposal based on a customer complaint rather than a proactive 
+18 
+approach where Con Edison can anticipate voltage issues by running load flow analysis or 
+19 
+AMI data analysis prior going into CVO voltage reduction.  Moreover, this suggestion 
+20 
+ignores that significant cost a customer would have to bear to conduct an engineering 
+21 
+analysis to determine whether the tap setting can be changed and what the impact of the 
+22 
+
+
+--- Page 51 ---
+Case 22-E-0064 
+DAMIEN M. THOLOMIER 
+50 
+change on a customer’s operations may be.   
+1 
+The cost of avoiding problems associated with CVO should be borne by the 
+2 
+Company, not its customers.  Indeed, as I discussed previously, other utilities do not 
+3 
+implement CVO throughout their systems specifically to avoid the problem Con Edison 
+4 
+has created for DEP. 
+5 
+Q. 
+WHAT OTHER PROBLEMS DID YOU IDENTIFY? 
+6 
+A. 
+It looks to me that the voltage reduction was based on a snapshot of AMI meter data and 
+7 
+considered AMI average voltage value below 110 volts.  It does not appear that the 
+8 
+Company considered one year of historical data including summer and winter peak days 
+9 
+and months, or that it utilized any AMI ranking methodology.  
+10 
+The ranking of AMI data must be made using different criteria such as an average 
+11 
+RMS voltage value, a minimum RMS voltage value and number of samples, such as 15-
+12 
+minute or hourly, below a certain threshold – typically 114 volts to allow for operations 
+13 
+within the ANSI Standard Range B.  The final AMI ranking should be based on a weighted 
+14 
+average of all the above criteria and not as suggested by an LV cluster of 10 meters in the 
+15 
+area, especially if they are not connected to the same service transformer or have different 
+16 
+voltage delivery points.  LV and MV delivery points will require different voltage 
+17 
+thresholds, but it does not appear that Con Edison considered that factor, either. 
+18 
+ 
+ 
+DEP has observed similar low voltages at other facilities as illustrated in 
+19 
+Exhibit__(DMT-22) and Exhibit__(DMT-23). 
+20 
+Q. 
+ARE THE CONCERNS EXPERIENCED BY DEP UNIQUE? 
+21 
+
+
+--- Page 52 ---
+Case 22-E-0064 
+DAMIEN M. THOLOMIER 
+51 
+A. 
+No.  It is my understanding that other large customers are experiencing similar problems 
+1 
+with Con Edison’s approach to CVO.  However, because customers do not have voltage 
+2 
+meters that continuously monitor the voltages received from Con Edison, I cannot say with 
+3 
+absolute certainty that Con Edison’s practices are the cause, or the sole cause, of problems 
+4 
+that have been experienced.   
+5 
+ 
+For example, I was advised that some New York City Housing Authority buildings 
+6 
+experienced equipment problems at times when Con Edison may have been engaged in 
+7 
+voltage reductions, including unbalance voltage and undervoltage conditions.  
+8 
+Unfortunately, I do not have data that would allow me to determine whether there was a 
+9 
+direct correlation between the Company’s actions and the customer’s experiences. 
+10 
+Q. 
+PLEASE COMPARE CON EDISON’S PRACTICES TO INDUSTRY 
+11 
+PRACTICES. 
+12 
+A. 
+As mentioned earlier, CVO is a subset of VVO. The industry today is moving to an ADMS-
+13 
+model-based VVO solution with a near real-time integration with AMI head-end system to 
+14 
+integrate AMI meters and improve voltage visibility. 
+15 
+Q. 
+WHAT OTHER OBSERVATIONS DO YOU HAVE? 
+16 
+A. 
+It is also important for Con Edison to understand the type of loads connected to the 
+17 
+distribution feeders. CVR effects change from season to season as the load compositions, 
+18 
+weather patterns, and human behavior vary.  As the type of loads on the system change 
+19 
+over time, the CVR/VVO system must evolve, and Con Edison must better understand the 
+20 
+system reaction to voltage reductions. As an example, there are already residential feeders 
+21 
+where dropping the voltage reduces the load during daytime but increases the load during 
+22 
+
+
+--- Page 53 ---
+Case 22-E-0064 
+DAMIEN M. THOLOMIER 
+52 
+the evenings. This is due to the progressive shift in the type of residential loads from 
+1 
+resistive loads to more constant-power loads. If the objective of the CVO program is to 
+2 
+lower the demand during morning and evening times, the system will have to adapt by 
+3 
+lowering the voltage to reduce loads when the loads are mainly resistive and then start 
+4 
+raising the voltage to reduce the demand as the loads are becoming more constant power. 
+5 
+ 
+Additionally, Con Edison needs to contemplate the integration of future DERs 
+6 
+equipped with smart inverters into its CVO plans.  Traditional Volt/VAr equipment such 
+7 
+as capacitor banks and voltage regulators are controlled heuristically to flatten the voltages 
+8 
+to lower values while smart inverters work autonomously; thus, legacy devices and smart 
+9 
+inverters are not really coordinated to meet the system-wide objectives. Therefore, it will 
+10 
+be important to integrate the DERMS system in the CVR/VVO scheme. 
+11 
+Q. 
+WHY IS RELYING ON CUSTOMER COMPLAINTS RATHER THAN ACTIVE 
+12 
+MONITORING IMPROPER? 
+13 
+A. 
+Con Edison should be proactive and engage with its customers.  Instead, my understanding, 
+14 
+based on DEP’s and other customers’ experiences; and Company’s responses, is that the 
+15 
+Company’s approach has been to be reactive and focus on repairing problems.   
+16 
+Q. 
+WHAT RECOMMENDATION DO YOU HAVE? 
+17 
+A. 
+The Commission should require Con Edison to notify its large customers in any network 
+18 
+in which it plans to apply voltage reductions.  The Commission also should direct the 
+19 
+Company to install monitoring devices at those customers’ premises to monitor in real-
+20 
+time the voltage levels being delivered to their meters on the primary or secondary voltage 
+21 
+delivery point.  Where customers are consistently impacted by voltage violations, the 
+22 
+
+
+--- Page 54 ---
+Case 22-E-0064 
+DAMIEN M. THOLOMIER 
+53 
+Company should either abandon CVO or install corrective measures.  This should be a 
+1 
+Company obligation, not a customer cost. 
+2 
+ 
+ 
+Additionally, as a good utility practice, voltage reduction applications should be 
+3 
+tested annually on light load days to validate the available voltage margin and to determine 
+4 
+the proper protocols with large customers who may be adversely impacted by the voltage 
+5 
+reductions. 
+6 
+Q. 
+PLEASE COMMENT ON THE PROPRIETY OF ENGAGING IN EMERGENCY 
+7 
+VOLTAGE REDUCTIONS OF 5 PERCENT OR 8 PERCENT IN AREAS WHERE 
+8 
+CVO HAS BEEN DEPLOYED. 
+9 
+A. 
+Con Edison will have to make sure that the 5 percent or 8 percent voltage reductions are 
+10 
+not additive to CVO voltage reductions.  Otherwise, the Company likely will create power 
+11 
+quality issues for its customers, and the problems could be extensive in some networks 
+12 
+depending on the nature of the affected customers’ loads. 
+13 
+Q. 
+DOES THIS CONCLUDE YOUR TESTIMONY AT THIS TIME? 
+14 
+A. 
+Yes. 
+15 

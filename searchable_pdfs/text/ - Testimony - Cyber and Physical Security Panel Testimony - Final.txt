@@ -1,0 +1,3200 @@
+--- Page 1 ---
+ BEFORE THE 
+ STATE OF NEW YORK 
+ PUBLIC SERVICE COMMISSION 
+Proceeding on Motion of the Commission as to the Rates, 
+Charges, Rules and Regulations of Consolidated Edison 
+Company of New York, Inc. for Electric and Gas Service. 
+Case 25-E-XXXX, 25-G-XXXX 
+January 2025 
+Prepared Testimony of: 
+Cyber and Physical 
+Security Panel   
+Nicholas Boshears 
+4 Irving Place
+New York, New York, 10003 
+Angel Cardoza  
+4 Irving Place 
+New York, New York, 10003
+Kurt John   
+4 Irving Place 
+New York, New York, 10003
+
+
+--- Page 2 ---
+-1- 
+25-E-XXXX & 25-G-XXXX 
+ 
+ 
+CONSOLIDATED EDISON COMPANY OF NEW YORK, INC. 
+DIRECT TESTIMONY OF CYBER AND PHYSICAL SECURITY PANEL 
+ 
+ 
+ 
+TABLE OF CONTENTS 
+I. Introduction................................................ 2 
+1 
+A. Introduction and Qualifications of Panel Members ................ 2 
+2 
+B. Purpose of Filing ............................................... 6 
+3 
+D. Background ..................................................... 13 
+4 
+II. Project and Program Discussion............................ 20 
+5 
+A. Summary Information ............................................ 20 
+6 
+B. Cyber Security Projects and Programs ........................... 21 
+7 
+C. Physical Security Projects and Programs ........................ 38 
+8 
+ 
+ 
+ 
+
+
+--- Page 3 ---
+-2- 
+25-E-XXXX & 25-G-XXXX 
+ 
+ 
+CONSOLIDATED EDISON COMPANY OF NEW YORK, INC. 
+DIRECT TESTIMONY OF CYBER AND PHYSICAL SECURITY PANEL 
+ 
+ 
+ 
+I. INTRODUCTION 
+1 
+A. Introduction and Qualifications of Panel Members 
+2 
+Q. 
+Would the members of the Cyber and Physical Security Panel 
+3 
+(Security Panel or Panel) please state your names and 
+4 
+business addresses? 
+5 
+A. 
+Our names are Nicholas Boshears, Angel Cardoza, and Kurt 
+6 
+John. Our business address is 4 Irving Place, New York, New 
+7 
+York 10003.  
+8 
+Q. 
+By whom are the Panel members employed? 
+9 
+A. 
+We are all employed by Consolidated Edison Company of New 
+10 
+York, Inc. (“Con Edison” or the “Company”). 
+11 
+Q. 
+Please explain your current role and responsibilities as 
+12 
+well as your work history.   
+13 
+A. 
+(Boshears) I am the Director of Corporate Security. In this 
+14 
+role, I am responsible for managing all security-related 
+15 
+investigations, tactical response situations, physical 
+16 
+security assessments and mitigations, security-related 
+17 
+capital projects, the Insider Threat program, and the 
+18 
+Security Operations Centers for Con Edison and O&R.  
+19 
+ 
+Prior to joining Con Edison in December 2023, I was 
+20 
+employed with the Federal Bureau of Investigation (FBI) for 
+21 
+24 years, holding positions of increasing responsibility 
+22 
+
+
+--- Page 4 ---
+-3- 
+25-E-XXXX & 25-G-XXXX 
+ 
+ 
+CONSOLIDATED EDISON COMPANY OF NEW YORK, INC. 
+DIRECT TESTIMONY OF CYBER AND PHYSICAL SECURITY PANEL 
+ 
+ 
+ 
+focusing on domestic and international criminal, 
+1 
+counterintelligence, and counterterrorism investigations. 
+2 
+In my last assignment with the FBI, I served as Special 
+3 
+Agent-in-Charge, New York Field Office, Operational Support 
+4 
+Division, which included responsibility for the FBI’s 
+5 
+personnel security, crisis management, crisis intervention 
+6 
+and response teams, information technology, internal 
+7 
+affairs investigations, insider threat, and physical 
+8 
+security programs in the New York City metropolitan area.  
+9 
+ 
+(Cardoza) I started my career in the Company in 1998. I am 
+10 
+currently the Vice President of Substation Operations, but 
+11 
+as of February 1, 2025, I will be the Vice President of 
+12 
+System and Transmission Operations (STO). In Substations, I 
+13 
+am responsible for the construction of new substations and 
+14 
+for the operations and maintenance of 103 substations, 
+15 
+which includes compliance with applicable standards.  
+16 
+ 
+In STO, I will be responsible for several departments, 
+17 
+including Transmission Planning, which plans the overall 
+18 
+development of the electric bulk power transmission system, 
+19 
+coordinating with the New York Independent System Operator 
+20 
+(NYISO) and neighboring utilities; System Operations, which 
+21 
+ensures the safe operation of our electric and steam 
+22 
+
+
+--- Page 5 ---
+-4- 
+25-E-XXXX & 25-G-XXXX 
+ 
+ 
+CONSOLIDATED EDISON COMPANY OF NEW YORK, INC. 
+DIRECT TESTIMONY OF CYBER AND PHYSICAL SECURITY PANEL 
+ 
+ 
+ 
+systems; Transmission Operations, which constructs, 
+1 
+inspects, maintains, and repairs the underground and 
+2 
+overhead transmission system; and Transmission Project 
+3 
+Development, which coordinates the project portfolio of 
+4 
+transmission investment. 
+5 
+ 
+My previous general manager positions at Con Edison include 
+6 
+Protective Systems Testing in Substation Operations, and 
+7 
+Gas Engineering. I was also a general manager in Electric 
+8 
+Operations, the Control Center, and Substation Operations 
+9 
+at Orange and Rockland Utilities, Inc. (O&R). 
+10 
+ 
+(John) I am a Senior Cybersecurity Technology Executive 
+11 
+with extensive Cybersecurity experience in creating and 
+12 
+scaling agile, resilient, and secure technology ecosystems.  
+13 
+I joined Con Edison in October 2024 as Vice President and 
+14 
+Chief Information Security Officer. I am responsible for 
+15 
+governance, strategy, and operations of Cybersecurity 
+16 
+across Con Edison. This includes the security of all 
+17 
+corporate data, customer information, as well as our 
+18 
+business operations (including gas, electric, and steam). 
+19 
+Prior to Con Edison, I served as Chief Information Officer 
+20 
+(CIO) and Chief Security Officer (CSO) at Expedia Group, 
+21 
+where I oversaw enterprise IT, reliability and platform 
+22 
+
+
+--- Page 6 ---
+-5- 
+25-E-XXXX & 25-G-XXXX 
+ 
+ 
+CONSOLIDATED EDISON COMPANY OF NEW YORK, INC. 
+DIRECT TESTIMONY OF CYBER AND PHYSICAL SECURITY PANEL 
+ 
+ 
+ 
+engineering, physical security, cybersecurity, and privacy. 
+1 
+Prior to Expedia, I was Chief Cybersecurity Officer for 
+2 
+Siemens USA, where I managed product and information 
+3 
+security for Siemens' $25 billion in United States 
+4 
+business. Leading up to my role at Siemens, I spent 10 
+5 
+years performing technology and Cybersecurity consulting 
+6 
+and advisory services across various industries. 
+7 
+Q. 
+Please state your educational background. 
+8 
+A. 
+(Boshears) In 1990, I graduated from Oregon State 
+9 
+University with a Bachelor of Science degree. Additionally, 
+10 
+in 2012, I graduated from the Marine Corps University with 
+11 
+a Master of Science degree and am a Certified Fire and 
+12 
+Explosion Investigator. I also completed the Carnegie 
+13 
+Mellon University Insider Threat Program Manager 
+14 
+Certificate course. 
+15 
+ 
+(Cardoza) In 1998, I graduated from the City College of New 
+16 
+York with a Bachelor of Engineering degree in Electrical 
+17 
+Engineering. In 2009, I graduated from Mercy College with a 
+18 
+Master of Science degree in Organizational Leadership. In 
+19 
+2017, I graduated from Fordham University with a Master of 
+20 
+Business Administration degree.  
+21 
+
+
+--- Page 7 ---
+-6- 
+25-E-XXXX & 25-G-XXXX 
+ 
+ 
+CONSOLIDATED EDISON COMPANY OF NEW YORK, INC. 
+DIRECT TESTIMONY OF CYBER AND PHYSICAL SECURITY PANEL 
+ 
+ 
+ 
+ 
+(John) In 2008, I graduated from University of the West 
+1 
+Indies with a Bachelor of Science degree in Computer 
+2 
+Science. Additionally, I am a Certified Information 
+3 
+Security Professional.  
+4 
+B. Purpose of Filing 
+5 
+Q. 
+Before summarizing the purpose of this testimony, please 
+6 
+explain the Company’s thoughts on security. 
+7 
+A. 
+Maintaining both the cyber and physical security of our 
+8 
+assets is paramount to the Company. We must be able to 
+9 
+build and operate our systems safely and securely.   
+10 
+On the cyber side, cybersecurity incident risk has increased 
+11 
+dramatically in recent years, as multiple organizations 
+12 
+have experienced impacts to their operations and lost 
+13 
+confidential customer information. And attackers have 
+14 
+become more sophisticated. In particular, the utility 
+15 
+industry has seen a 70% increase in attacks from 2023 to 
+16 
+2024. (Cyberattacks on US utilities surged 70% this year, 
+17 
+says Check Point, September 11, 2024, 
+18 
+https://www.reuters.com/technology/cybersecurity/cyberattac
+19 
+ks-us-utilities-surged-70-this-year-says-check-point-2024-
+20 
+09-11/). Consequently, we must continue to develop our 
+21 
+capabilities and implement technology. 
+22 
+
+
+--- Page 8 ---
+-7- 
+25-E-XXXX & 25-G-XXXX 
+ 
+ 
+CONSOLIDATED EDISON COMPANY OF NEW YORK, INC. 
+DIRECT TESTIMONY OF CYBER AND PHYSICAL SECURITY PANEL 
+ 
+ 
+ 
+Q. 
+Please explain the need for cybersecurity investments. 
+1 
+A. 
+Cybersecurity investments must address current risk 
+2 
+exposure. In addition to known everyday threats, emerging 
+3 
+trends, regulations, and incident reports from peers, the 
+4 
+Company also monitors emerging technologies that will drive 
+5 
+cybersecurity investment, including:  
+6 
+• Application of Artificial Intelligence (AI) and Machine 
+7 
+Learning (ML) for defensive and offensive cyber 
+8 
+protection; and  
+9 
+• The continued implementation of the industry standard 
+10 
+zero-trust security model(s).  
+11 
+Each of these indicators has the potential to alter the 
+12 
+tools, resourcing, and architecture of cybersecurity.  
+13 
+AI/ML capabilities are essential due to the growing 
+14 
+complexity, sophistication, and volume of cyber threats. 
+15 
+Traditional cybersecurity tools often struggle to keep pace 
+16 
+with the dynamic nature of modern attacks, and AI/ML can 
+17 
+enhance the detection, prevention, and response 
+18 
+capabilities of these tools.  
+19 
+Unlike traditional security models that rely on perimeter 
+20 
+defenses, zero trust assumes no entity can be trusted by 
+21 
+default and that threats can come from both outside and 
+22 
+
+
+--- Page 9 ---
+-8- 
+25-E-XXXX & 25-G-XXXX 
+ 
+ 
+CONSOLIDATED EDISON COMPANY OF NEW YORK, INC. 
+DIRECT TESTIMONY OF CYBER AND PHYSICAL SECURITY PANEL 
+ 
+ 
+ 
+inside the network, and it treats every user, device, and 
+1 
+network component as potentially untrusted until verified.  
+2 
+Hardware and software technologies continue to advance and 
+3 
+require additional functionality to mitigate these evolving 
+4 
+cybersecurity risks.  
+5 
+Q. 
+Please continue with the physical security side. 
+6 
+A. 
+Physical security risks have also increased dramatically.  
+7 
+Utilities throughout the Country continue to see attacks on 
+8 
+physical assets, theft of property, and harm to personnel. 
+9 
+Terrorism, whether domestic or foreign, remains a threat 
+10 
+and the Department of Homeland Security’s (DHS) Homeland 
+11 
+Threat Assessment for 2025 indicates that the terrorism 
+12 
+threat environment will remain “high.”  
+13 
+In New York City, we recently experienced a CEO of a large 
+14 
+corporation murdered in Manhattan. Workplace violence 
+15 
+remains a concern, particularly with the threats and 
+16 
+assaults committed by the public against our employees. The 
+17 
+increasing level of displaced and unhoused individuals in 
+18 
+New York City also causes those individuals to attempt to 
+19 
+access facilities where they can stay warm (or cool) and 
+20 
+sleep comfortably.  
+21 
+Despite local and federal regulations, drone activity near 
+22 
+
+
+--- Page 10 ---
+-9- 
+25-E-XXXX & 25-G-XXXX 
+ 
+ 
+CONSOLIDATED EDISON COMPANY OF NEW YORK, INC. 
+DIRECT TESTIMONY OF CYBER AND PHYSICAL SECURITY PANEL 
+ 
+ 
+ 
+our critical infrastructure remains increasingly high; 
+1 
+however, no specific authority has been granted to mitigate 
+2 
+this threat.  
+3 
+Throughout 2024, there was an increase in propaganda and 
+4 
+rhetoric from ISIS and Al-Qaeda calling for the targeting 
+5 
+of the U.S. and in particular, critical infrastructure. 
+6 
+Last, the threat posed by Nation State Actors and other 
+7 
+foreign intelligence entities remains at an extremely high 
+8 
+level due to the Company delivering energy to the financial 
+9 
+markets, United Nations, other diplomatic facilities, and 
+10 
+military installations. The National Counterintelligence 
+11 
+Security Center stated this threat is at an unprecedented 
+12 
+level in breadth, volume, and impact.  
+13 
+Q. 
+Please summarize and briefly explain the purpose of the Panel’s 
+14 
+testimony. 
+15 
+A. 
+We explain the Company’s security philosophy and present 
+16 
+the Company’s proposed cyber and physical security projects 
+17 
+and programs and their respective funding requirements. 
+18 
+Specifically, this testimony covers the capital and O&M 
+19 
+funding requirements for the Company’s security programs 
+20 
+and initiatives.  
+21 
+
+
+--- Page 11 ---
+-10- 
+25-E-XXXX & 25-G-XXXX 
+ 
+ 
+CONSOLIDATED EDISON COMPANY OF NEW YORK, INC. 
+DIRECT TESTIMONY OF CYBER AND PHYSICAL SECURITY PANEL 
+ 
+ 
+ 
+ 
+We also explain the potential for an update as we expect 
+1 
+regulations may be issued for which we are not requesting 
+2 
+funding since the actual requirements are currently 
+3 
+unknown. 
+4 
+Q. 
+Will these projects also affect O&R? 
+5 
+A. 
+Many projects and programs discussed in our testimony are 
+6 
+common to the Company’s electric, gas, and steam 
+7 
+businesses, and, in most cases, to O&R. The Company’s 
+8 
+Accounting Panel explains how costs are allocated across 
+9 
+Con Edison’ businesses and, where applicable, to O&R. 
+10 
+Q. 
+What organizations have projects for this Security Panel? 
+11 
+A. 
+Enterprise Cybersecurity, Corporate Security, STO 
+12 
+(specifically, for the Energy Control Centers), and 
+13 
+Substation Operations have included cyber and/or physical 
+14 
+security projects/programs in this testimony. 
+15 
+Q. 
+Please discuss the coordination among these organizations. 
+16 
+A. 
+We coordinate cyber and physical security projects and 
+17 
+programs internally and on an enterprise-wide basis.   
+18 
+Q. 
+What period does your testimony cover? 
+19 
+A. 
+Our testimony covers the 12-month period ending December 
+20 
+31, 2026 (Rate Year, Rate Year 1, or RY1), the 12-month 
+21 
+period ending December 31, 2027 (Rate Year 2 or RY2), and 
+22 
+
+
+--- Page 12 ---
+-11- 
+25-E-XXXX & 25-G-XXXX 
+ 
+ 
+CONSOLIDATED EDISON COMPANY OF NEW YORK, INC. 
+DIRECT TESTIMONY OF CYBER AND PHYSICAL SECURITY PANEL 
+ 
+ 
+ 
+the 12-month period ending December 31, 2028 (Rate Year 3 
+1 
+or RY3). The Company has proposed a rate plan for RY1 only 
+2 
+but, as the Accounting Panel explains, is interested in 
+3 
+pursuing a multi-year rate plan in settlement discussions 
+4 
+with Staff and interested parties. We have provided RY2 and 
+5 
+RY3 data for the purpose of facilitating any such 
+6 
+discussions.   
+7 
+Q. 
+How have you arranged this testimony? 
+8 
+A. 
+We explain the Company’s Security projects and programs, 
+9 
+which we divide into two sections:  
+10 
+• Cyber Security Projects and Programs; and  
+11 
+• Physical Security Projects and Programs.  
+12 
+Throughout the project and program discussions, the Panel 
+13 
+explains any additional full time equivalent (FTE) 
+14 
+positions needed to implement the projects and programs 
+15 
+described in our testimony and execute on the Company’s 
+16 
+goals. 
+17 
+Q. 
+Will you be introducing any exhibits as part of your 
+18 
+testimony? 
+19 
+A. 
+Yes, we will be introducing the following exhibits: 
+20 
+• Exhibit ___ (CPSP-1) titled “Cyber and Physical 
+21 
+Security Capital Project/Program Summary”; 
+22 
+
+
+--- Page 13 ---
+-12- 
+25-E-XXXX & 25-G-XXXX 
+ 
+ 
+CONSOLIDATED EDISON COMPANY OF NEW YORK, INC. 
+DIRECT TESTIMONY OF CYBER AND PHYSICAL SECURITY PANEL 
+ 
+ 
+ 
+• Exhibit ___ (CPSP-2) titled “Cyber and Physical 
+1 
+Security O&M Program Change Summary”;  
+2 
+• Exhibit ___ (CPSP-3) titled “Cyber and Physical 
+3 
+Security FTE Summary”; and 
+4 
+• Exhibit ___ (CPSP-4) titled “Cyber and Physical 
+5 
+Security White papers.” 
+6 
+ 
+7 
+Q. 
+Please explain what is reflected in Exhibit ___ (CPSP-1).  
+8 
+A. 
+Exhibit ___ (CPSP-1) summarizes the Company’s projected 
+9 
+capital expenditures for Cyber and Physical Security 
+10 
+projects and programs in RY1, RY2, and RY3. These capital 
+11 
+expenditures are organized into the main areas shown on the 
+12 
+exhibit and noted above. 
+13 
+Q. 
+Please explain what is reflected in Exhibit ___ (CPSP-2).  
+14 
+A. 
+Exhibit ___ (CPSP-2) summarizes the Company’s projected 
+15 
+incremental O&M expenses for Cyber and Physical Security 
+16 
+projects and programs in RY1, RY2, and RY3, compared to the 
+17 
+12-month period ending on September 30, 2024 (Historic 
+18 
+Year). 
+19 
+Q. 
+Please explain what is reflected in Exhibit ___ (CPSP-3).  
+20 
+A. 
+Exhibit ___ (CPSP-3) summarizes the FTE positions needed by 
+21 
+the Company to implement the Cyber and Physical Security 
+22 
+projects and programs presented in this testimony and the 
+23 
+other accompanying exhibits. 
+24 
+Q. 
+Please explain what is reflected in Exhibit ___ (CPSP-4).  
+25 
+
+
+--- Page 14 ---
+-13- 
+25-E-XXXX & 25-G-XXXX 
+ 
+ 
+CONSOLIDATED EDISON COMPANY OF NEW YORK, INC. 
+DIRECT TESTIMONY OF CYBER AND PHYSICAL SECURITY PANEL 
+ 
+ 
+ 
+A. 
+Exhibit ___ (CPSP -4) presents detailed capital and/or O&M 
+1 
+white papers associated with the Cyber and Physical 
+2 
+Security projects and programs discussed in this testimony. 
+3 
+Q. 
+Were these exhibits prepared under your direction and 
+4 
+supervision?  
+5 
+A. 
+Yes. 
+6 
+MARK FOR IDENTIFICATION AS EXHIBITS __ (CPSP-1), ___ (CPSP-2), 
+7 
+___ (CPSP-3) and __ (CPSP-4) 
+8 
+D. Background 
+9 
+Q. 
+What is security and why is it important? 
+10 
+A. 
+Cybersecurity is the governance, strategy, and operations 
+11 
+associated with keeping our networks, data, and operations 
+12 
+safe from cyberattacks and disruption. Physical security 
+13 
+focuses on ensuring that our employees, contractors, 
+14 
+visitors to company facilities, and assets remain protected 
+15 
+and secure from physical attacks, whether emanating from an 
+16 
+external threat or from an insider.  
+17 
+Cyber and physical security are critical for protecting the 
+18 
+Company’s personnel, facilities, operations, and data. 
+19 
+These are core to maintaining the Company’s viability and 
+20 
+continued operations. It is also imperative for protecting 
+21 
+the privacy of our employee and customer data, as well as 
+22 
+
+
+--- Page 15 ---
+-14- 
+25-E-XXXX & 25-G-XXXX 
+ 
+ 
+CONSOLIDATED EDISON COMPANY OF NEW YORK, INC. 
+DIRECT TESTIMONY OF CYBER AND PHYSICAL SECURITY PANEL 
+ 
+ 
+ 
+our Critical Energy/Electric Infrastructure Information 
+1 
+(CEII). As a critical infrastructure company, Con Edison 
+2 
+faces physical and cyber threats from both domestic and 
+3 
+foreign adversaries. Continuing investment in our security 
+4 
+programs is critical for keeping up with the increasing 
+5 
+risks and threats.  
+6 
+Q. 
+Please further explain what is meant by cybersecurity. 
+7 
+A. 
+Cybersecurity is the protection of the Company’s computing 
+8 
+system, whether it be Informational Technology (IT) or 
+9 
+Operational Technology (OT) or any other computing system. 
+10 
+Cybersecurity risks and incidents continue to increase, as 
+11 
+can be seen by multiple other organizations experiencing 
+12 
+impacts to their operations and losing confidential 
+13 
+customer information.  
+14 
+Q. 
+What is meant by OT? 
+15 
+A. 
+OT, or Operational Technology, refers to hardware and 
+16 
+software that detects or causes changes through direct 
+17 
+monitoring and control of physical devices, processes, and 
+18 
+events in the enterprise. 
+19 
+Q. 
+Does this testimony contain requests for both mandated 
+20 
+regulatory projects as well as projects that will enhance 
+21 
+our cyber or physical security posture? 
+22 
+
+
+--- Page 16 ---
+-15- 
+25-E-XXXX & 25-G-XXXX 
+ 
+ 
+CONSOLIDATED EDISON COMPANY OF NEW YORK, INC. 
+DIRECT TESTIMONY OF CYBER AND PHYSICAL SECURITY PANEL 
+ 
+ 
+ 
+A. 
+Yes. This testimony addresses projects associated with IT, 
+1 
+OT, North American Electric Reliability Corporation (NERC) 
+2 
+Critical Infrastructure Protection (CIP), and the federal 
+3 
+Transportation Security Administration (TSA) that are 
+4 
+required for cyber and/or physical security purposes.  
+5 
+Q. 
+Are there other cyber-related projects discussed elsewhere 
+6 
+in this filing? 
+7 
+A. 
+Projects involving updates or patches to maintain pace with 
+8 
+manufacturer changes or new systems are covered in the IT 
+9 
+Panel testimony.    
+10 
+Q. 
+What is NERC? 
+11 
+A. 
+NERC is a not-for-profit international regulatory authority 
+12 
+whose mission is to ensure the effective and efficient 
+13 
+reduction of risks to the reliability and security of the 
+14 
+transmission system. NERC develops and enforces Reliability 
+15 
+Standards; annually assesses seasonal and long‐term 
+16 
+reliability; monitors the bulk power system through system 
+17 
+awareness; and educates, trains, and certifies industry 
+18 
+personnel. NERC’s area of responsibility spans the 
+19 
+continental United States, Canada, and the northern portion 
+20 
+of Baja California, Mexico. NERC is the Electric 
+21 
+Reliability Organization (ERO) for North America, subject 
+22 
+
+
+--- Page 17 ---
+-16- 
+25-E-XXXX & 25-G-XXXX 
+ 
+ 
+CONSOLIDATED EDISON COMPANY OF NEW YORK, INC. 
+DIRECT TESTIMONY OF CYBER AND PHYSICAL SECURITY PANEL 
+ 
+ 
+ 
+to oversight by the Federal Energy Regulatory Commission 
+1 
+(FERC) and governmental authorities in Canada. NERC's 
+2 
+jurisdiction includes users, owners, and operators of the 
+3 
+bulk power system, which serves nearly 400 million people. 
+4 
+Q. 
+What is North American Electric Reliability Corporation 
+5 
+Critical Infrastructure Protection (NERC CIP)? 
+6 
+A. 
+NERC CIP is a set of standards aimed at regulating, 
+7 
+enforcing, monitoring, and managing the security of the 
+8 
+Bulk Electric System (BES). These standards apply 
+9 
+specifically to the cyber and physical aspects of 
+10 
+protecting the BES. The CIP standards provide a 
+11 
+cybersecurity as well as a physical security framework to 
+12 
+identify and secure critical assets that can impact the 
+13 
+efficient and reliable supply of electricity. 
+14 
+Q. 
+What assets are covered by NERC CIP? 
+15 
+A. 
+The BES, that is, in general, assets greater than or equal 
+16 
+to 100 KV.   
+17 
+Q. 
+What is a High Value Network (HVN) or Asset? 
+18 
+A. 
+Con Edison has a segmented computing system, that is, 
+19 
+higher value assets are not in the same area as lower value 
+20 
+assets. A HVN is a network that contains critical 
+21 
+technology needed to operate our electric, gas, and steam 
+22 
+
+
+--- Page 18 ---
+-17- 
+25-E-XXXX & 25-G-XXXX 
+ 
+ 
+CONSOLIDATED EDISON COMPANY OF NEW YORK, INC. 
+DIRECT TESTIMONY OF CYBER AND PHYSICAL SECURITY PANEL 
+ 
+ 
+ 
+infrastructure. It is critical to keep this infrastructure 
+1 
+secure and reliable. 
+2 
+Q.  Is a HVN the same as or different than a NERC CIP asset? 
+3 
+A. 
+HVN includes NERC CIP assets as well as other critical 
+4 
+distribution assets. Con Edison has critical assets used as 
+5 
+part of service delivery that are not part of the BES but 
+6 
+are considered HVN. For example, this would cover our 
+7 
+distribution system. 
+8 
+Q. 
+What is the TSA’s role in regulating cyber and physical 
+9 
+security? 
+10 
+A. 
+After the 2021 Colonial Pipeline incident, the TSA issued 
+11 
+security directives, covering cyber and physical 
+12 
+requirements, to certain qualifying utilities with gas 
+13 
+pipelines. The TSA subsequently issued several security 
+14 
+directives and may issue permanent requirements in 2025. 
+15 
+Q. 
+Please provide an example of TSA’s requirements. 
+16 
+A. 
+The TSA conducts a nationwide Corporate Security Review 
+17 
+program for pipeline security. One requirement is the 
+18 
+presence and review of the Company’s physical security plan 
+19 
+for natural gas pipelines as well as an incident response 
+20 
+plan for cyber events. Following review of these plans, the 
+21 
+TSA provides improvement recommendations. 
+22 
+
+
+--- Page 19 ---
+-18- 
+25-E-XXXX & 25-G-XXXX 
+ 
+ 
+CONSOLIDATED EDISON COMPANY OF NEW YORK, INC. 
+DIRECT TESTIMONY OF CYBER AND PHYSICAL SECURITY PANEL 
+ 
+ 
+ 
+Q. 
+Please explain what is meant by physical security. 
+1 
+A. 
+Physical Security includes essential equipment and 
+2 
+practices designed to protect physical assets, facilities, 
+3 
+and personnel from unauthorized access, theft, vandalism, 
+4 
+and other physical threats. Components of physical security 
+5 
+include access control, perimeter security, surveillance 
+6 
+and monitoring, security personnel, physical barriers, 
+7 
+security lighting, intrusion detection systems, and visitor 
+8 
+management. 
+9 
+Q. 
+Please explain the term Insider Threat. 
+10 
+A. 
+Insider Threat describes the threat posed by employees, 
+11 
+contractors, vendors, and visitors who may cause harm or 
+12 
+damage through intentional or unintentional actions. The 
+13 
+Company’s Insider Threat Program works across all 
+14 
+organizations in the enterprise, including IT, 
+15 
+Cybersecurity, Human Resources, Supply Chain, and Finance, 
+16 
+among others, to identify risks posed by insiders and 
+17 
+mitigate potential physical and/or cyber threats as well as 
+18 
+threats posed by external or foreign intelligence entities. 
+19 
+Q. 
+What kind of work does Corporate Security perform? 
+20 
+A. 
+Corporate Security is responsible for overall physical 
+21 
+security at Company locations. This includes providing 
+22 
+
+
+--- Page 20 ---
+-19- 
+25-E-XXXX & 25-G-XXXX 
+ 
+ 
+CONSOLIDATED EDISON COMPANY OF NEW YORK, INC. 
+DIRECT TESTIMONY OF CYBER AND PHYSICAL SECURITY PANEL 
+ 
+ 
+ 
+access to facilities, performing vulnerability assessments 
+1 
+at critical facilities, managing two 24x7 Security 
+2 
+Operations Centers, reviewing footage from thousands of 
+3 
+cameras, investigating incidents involving potential 
+4 
+criminal conduct by employees or the public targeting 
+5 
+Company employees and assets, communicating with federal, 
+6 
+state and local partners, participating in interagency and 
+7 
+industry exercises and drills, delivering travel security 
+8 
+briefings, and coordinating counterintelligence defensive 
+9 
+briefings to address insider threats.   
+10 
+Q. 
+What are the Company’s objectives and general 
+11 
+considerations when evaluating and selecting Security 
+12 
+investments? 
+13 
+A. 
+The Company considers several factors when evaluating and 
+14 
+selecting Security investments.  
+15 
+ 
+For any enterprise risk, including cyber and physical 
+16 
+security, we review and align risks with our business 
+17 
+strategy and vision planning process, and implement 
+18 
+solutions, policies, and procedures to provide robust 
+19 
+protection and uninterrupted operations. We also engage in 
+20 
+interactions with advisors, vendors, and Company 
+21 
+stakeholders to select the most optimal solutions for our 
+22 
+
+
+--- Page 21 ---
+-20- 
+25-E-XXXX & 25-G-XXXX 
+ 
+ 
+CONSOLIDATED EDISON COMPANY OF NEW YORK, INC. 
+DIRECT TESTIMONY OF CYBER AND PHYSICAL SECURITY PANEL 
+ 
+ 
+ 
+needs. This collaborative approach allows us to maintain 
+1 
+the goal of staying ahead in the ever-evolving business and 
+2 
+technology landscape and deliver the best outcomes for Con 
+3 
+Edison. 
+ 
+4 
+II. PROJECT AND PROGRAM DISCUSSION 
+5 
+A. Summary Information 
+6 
+Q. 
+How much capital investment is the Company proposing for 
+7 
+Cyber and Physical Security projects and programs?  
+8 
+A. 
+We are proposing capital investments of $133.1 million in 
+9 
+RY1, $108.9 million in RY2, and $260.0 million in RY3. 
+10 
+Q. 
+How much additional O&M is the Company proposing for Cyber 
+11 
+and Physical Security projects and programs?  
+12 
+A. 
+For O&M, we are proposing to spend $67.4 million in RY1, 
+13 
+$79.1 million in RY2, and $85.5 million in RY3. Of these 
+14 
+amounts, O&M program changes account for a $22.4 million 
+15 
+increase in RY1, with increases of $11.8 million in RY2 and 
+16 
+$6.4 million in RY3. 
+17 
+Q. 
+How many incremental Full time Equivalents (FTEs) are being 
+18 
+requested by the Panel? 
+19 
+A. 
+The Panel is requesting a total of 104 incremental FTEs, 
+20 
+consisting of 78 FTEs to support cyber security projects 
+21 
+
+
+--- Page 22 ---
+-21- 
+25-E-XXXX & 25-G-XXXX 
+ 
+ 
+CONSOLIDATED EDISON COMPANY OF NEW YORK, INC. 
+DIRECT TESTIMONY OF CYBER AND PHYSICAL SECURITY PANEL 
+ 
+ 
+ 
+and programs, and 26 FTEs to support physical security 
+1 
+projects and programs. 
+2 
+B. Cyber Security Projects and Programs 
+3 
+Background 
+4 
+Q. 
+Does the Company have a cybersecurity program? 
+5 
+A. 
+Yes. The Company’s strategy employs the defense-in-depth 
+6 
+concept. As new risks are identified, and the capabilities 
+7 
+of adversaries increase, the Company reassesses current 
+8 
+security controls, implements new processes, and invests in 
+9 
+new technologies to maintain its security posture and try 
+10 
+to stay ahead of malicious actors. Risks include operating 
+11 
+failures of control systems, damage to transmission and 
+12 
+distribution (T&D) assets, the loss of sensitive data, and 
+13 
+employee and public safety due to a cyberattack or 
+14 
+unauthorized access to systems or data. 
+15 
+Q. 
+Does the Company work with others regarding cybersecurity? 
+16 
+A. 
+The Company engages in collaborative defense efforts with 
+17 
+ industry, federal, state, and local partners. We also work 
+18 
+on and participate in local, regional, and national level 
+19 
+cybersecurity drills. We benchmark with and share best 
+20 
+practices with peers within and outside the industry. Our 
+21 
+cybersecurity protection program relies on a Collective 
+22 
+
+
+--- Page 23 ---
+-22- 
+25-E-XXXX & 25-G-XXXX 
+ 
+ 
+CONSOLIDATED EDISON COMPANY OF NEW YORK, INC. 
+DIRECT TESTIMONY OF CYBER AND PHYSICAL SECURITY PANEL 
+ 
+ 
+ 
+Defense and Collective Response framework. 
+1 
+Q. 
+How has the Company been addressing the cybersecurity 
+2 
+challenge? 
+3 
+A. 
+The Company continues to address cybersecurity in alignment 
+4 
+with the National Institute of Standards and Technology 
+5 
+(NIST) Cybersecurity Framework: (1) Identify; (2) Protect; 
+6 
+(3) Detect; (4) Respond; and (5) Recover.  
+7 
+Q. 
+What is meant by identify and protect? 
+8 
+A. 
+Identification and protection aim to avoid attacks on our 
+9 
+system and are achieved through risk management processes, 
+10 
+architecture and security reviews, and implementation of 
+11 
+multiple technologies at multiple security zones to prevent 
+12 
+unauthorized access to our systems and data, and to prevent 
+13 
+disruptions to our operations. In addition, the Company has 
+14 
+segmented its network into multiple areas to minimize the 
+15 
+likelihood of an attacker accessing all parts of our 
+16 
+network, i.e., reducing the impact of a cyberattack.   
+17 
+Q. 
+Turning to the third step, detection, what does the Company 
+18 
+do? 
+19 
+A. 
+The Company operates a 24x7 Cybersecurity Operations Center 
+20 
+(CSOC), which monitors our computing network to detect 
+21 
+threats, anomalies, and vulnerabilities. We also partner 
+22 
+
+
+--- Page 24 ---
+-23- 
+25-E-XXXX & 25-G-XXXX 
+ 
+ 
+CONSOLIDATED EDISON COMPANY OF NEW YORK, INC. 
+DIRECT TESTIMONY OF CYBER AND PHYSICAL SECURITY PANEL 
+ 
+ 
+ 
+with external entities that provide the Company with 
+1 
+intelligence to help mitigate potential threats. 
+2 
+Q. 
+Please explain the fourth and fifth cybersecurity areas: 
+3 
+Respond and Recover. 
+4 
+A. 
+There are multiple approaches to addressing this area.   
+5 
+To respond and recover, we have plans and procedures to 
+6 
+respond to cyberattacks and data breaches, which the 
+7 
+Company drills regularly. We also have contracts with cyber 
+8 
+forensic experts, who provide forensic analysis, as well as 
+9 
+an in-house cyber forensic team. In the event of an 
+10 
+incident, we will acquire the necessary resources to both 
+11 
+respond and recover. We also have disaster recovery and 
+12 
+business continuity plans.  
+13 
+Q. 
+Is there more work to do in the cybersecurity area?  
+14 
+A. 
+Yes. Given the significant rise in the sophistication, 
+15 
+volume, and impact of cybersecurity threats, we must 
+16 
+continue to grow and develop our capabilities, implement 
+17 
+technology, and enhance processes to further protect our 
+18 
+systems and data, and to improve detection, resiliency, and 
+19 
+recoverability. 
+20 
+Q. 
+How are you addressing the continued work? 
+21 
+
+
+--- Page 25 ---
+-24- 
+25-E-XXXX & 25-G-XXXX 
+ 
+ 
+CONSOLIDATED EDISON COMPANY OF NEW YORK, INC. 
+DIRECT TESTIMONY OF CYBER AND PHYSICAL SECURITY PANEL 
+ 
+ 
+ 
+A. 
+To stay ahead of the current and evolving threats, we must 
+1 
+have technology in place to prevent and detect threats and 
+2 
+upgrade these technologies as the risks evolve. Staying 
+3 
+ahead of the threats means continuing and enhancing the 
+4 
+work discussed above. The Company will also continue to 
+5 
+work with others, partnering with law enforcement across 
+6 
+federal, state, and local agencies, and benchmarking best 
+7 
+practices with our industry peers. 
+8 
+Potential for Updates 
+9 
+Q. 
+Are there other potential regulatory and legislative 
+10 
+requirements regarding cybersecurity that may be needed in 
+11 
+the next three years? 
+12 
+A. 
+Yes. At the federal level, there are several pending 
+13 
+rulemakings. For example, the DHS is developing regulations 
+14 
+to implement the 2021 Cyber Incident Reporting for Critical 
+15 
+Infrastructure Act (CIRCIA), which requires reporting for 
+16 
+incidents within 72 hours; DHS though TSA has a pending 
+17 
+rulemaking regarding gas pipelines cyber and physical 
+18 
+security issues; and DHS through the Coast Guard also has a 
+19 
+pending rulemaking. The Department of Treasury also sought 
+20 
+comments as to whether the federal government should be the 
+21 
+cyber insurance backstop. 
+22 
+
+
+--- Page 26 ---
+-25- 
+25-E-XXXX & 25-G-XXXX 
+ 
+ 
+CONSOLIDATED EDISON COMPANY OF NEW YORK, INC. 
+DIRECT TESTIMONY OF CYBER AND PHYSICAL SECURITY PANEL 
+ 
+ 
+ 
+ 
+FERC issued an order creating CIP 15 in 2024, requiring 
+1 
+utilities to address internal network security monitoring 
+2 
+for high and certain medium facilities.  At the same time, 
+3 
+FERC stated that the CIP requirement did not go far enough 
+4 
+and NERC is developing a rule for endpoint monitoring.     
+5 
+ 
+Recently, on January 17, 2025, the National Association of 
+6 
+Regulatory Commissioners (NARUC) issued Cyber Distribution 
+7 
+Baselines for utilities with the intent that States would 
+8 
+implement these baselines. 
+9 
+Q. 
+What about actions at the state level? 
+10 
+A. 
+The New York State Public Service Commission (PSC or 
+11 
+Commission) recently introduced a proceeding intended to 
+12 
+review both IT and OT protections and perhaps mandate 
+13 
+requirements. 
+14 
+Q. 
+Please continue. 
+15 
+A. 
+It is also important to note that at the end of the prior 
+16 
+Trump administration, there were two executive Orders 
+17 
+relating to purchasing equipment from certain nations, 
+18 
+which may have required utilities to “rip and replace” 
+19 
+existing equipment. It is possible that similar orders may 
+20 
+be issued in the new administration. 
+21 
+Q. 
+Does this filing address any of these costs? 
+22 
+
+
+--- Page 27 ---
+-26- 
+25-E-XXXX & 25-G-XXXX 
+ 
+ 
+CONSOLIDATED EDISON COMPANY OF NEW YORK, INC. 
+DIRECT TESTIMONY OF CYBER AND PHYSICAL SECURITY PANEL 
+ 
+ 
+ 
+A. 
+No. Given that these requirements are new and emerging, the 
+1 
+Company does not know the costs yet.   
+2 
+Q. 
+Will the Company provide additional information regarding 
+3 
+any cyber related regulations or laws? 
+4 
+A. 
+The Company will update any information on these items as 
+5 
+they become available, which may come after update. We will 
+6 
+address any available information at update.       
+7 
+Projects and Programs 
+8 
+Q. 
+On an overall basis, what is the Company’s forecasted 
+9 
+capital request for the cybersecurity projects and 
+10 
+programs. 
+11 
+A. 
+To continue enhancing the Company’s security posture, the 
+12 
+Company will invest in multiple cybersecurity efforts to 
+13 
+secure both the IT and OT (i.e., segments of our network 
+14 
+that support operational equipment, such as substations and 
+15 
+electrical switches). The total RY1 capital request is 
+16 
+$47.6 million; RY2 is $47.8 million; and RY3 is $47.9 
+17 
+million, for a total of $143.2 million. 
+18 
+Q. 
+Please describe the forecasted O&M request for each rate 
+19 
+year under the cybersecurity projects and programs. 
+ 
+20 
+
+
+--- Page 28 ---
+-27- 
+25-E-XXXX & 25-G-XXXX 
+ 
+ 
+CONSOLIDATED EDISON COMPANY OF NEW YORK, INC. 
+DIRECT TESTIMONY OF CYBER AND PHYSICAL SECURITY PANEL 
+ 
+ 
+ 
+A. 
+The Company requests incremental O&M funding of $17.7 
+1 
+million in RY1, $9.7 million in RY2, and $3.6 million in 
+2 
+RY3, totaling $31 million. 
+3 
+Q.  Please describe total FTE request for the cybersecurity 
+4 
+projects and programs. 
+5 
+A.  There are 78 FTEs for the cybersecurity projects. 
+6 
+Q. 
+Please breakdown the cybersecurity projects the Company 
+7 
+plans to undertake.   
+8 
+A.  The Company proposes investments in the following areas: 
+9 
+• 
+Cybersecurity, requesting capital funding of $17.1 
+10 
+million in RY1, $17.2 million in RY2, $17.8 million in 
+11 
+RY3, and incremental O&M funding of $14.4 million in RY1, 
+12 
+$7.1 million in RY2, and $3.0 million in RY3, which 
+13 
+includes 46 FTEs.  
+14 
+ 
+15 
+• 
+Cybersecurity Infrastructure (Cyber for High Value 
+16 
+Networks (HVN)), requesting capital funding of $5.8 
+17 
+million in RY1, $6.9 million in RY2, $7.0 million in RY3 
+18 
+and incremental O&M funding of $2.4 million in RY1, $2.5 
+19 
+million in RY2, and $0.6 million in RY3, which includes 
+20 
+20 FTEs.  
+21 
+ 
+22 
+• 
+System and Transmission Operations (S&TO) Cyber Security 
+23 
+and NERC Compliance, requesting capital funding of $7.2 
+24 
+million in RY1, $6.2 million in RY2, $5.7 million in RY3, 
+25 
+and incremental O&M funding of $0.9 million in RY1, and 
+26 
+$0.1 million in RY2, which includes 10 FTEs. 
+27 
+ 
+28 
+• 
+Substation Critical Infrastructure Protection (CIP) NERC 
+29 
+Cyber Security compliance, requesting capital funding of 
+30 
+$15 million in each of RY1-RY3.  
+31 
+ 
+32 
+
+
+--- Page 29 ---
+-28- 
+25-E-XXXX & 25-G-XXXX 
+ 
+ 
+CONSOLIDATED EDISON COMPANY OF NEW YORK, INC. 
+DIRECT TESTIMONY OF CYBER AND PHYSICAL SECURITY PANEL 
+ 
+ 
+ 
+• 
+Transmission Network Visualization System (TNVS), 
+1 
+requesting capital funding of $2.5 million in each of 
+2 
+RY1-RY3, which includes 2 FTEs. 
+3 
+ 
+4 
+  
+5 
+Q.  Do the first two projects – Cybersecurity and Cybersecurity 
+6 
+for HVNs go together? 
+7 
+A. 
+Yes. These programs are managed by the Enterprise 
+8 
+Cybersecurity team and are intended to protect our HVN 
+9 
+environment.  
+10 
+Q. 
+Please explain the request for the Cybersecurity program. 
+11 
+A.  There are projects needed at the corporate level to protect 
+12 
+computing systems and networks. These programs use a risk-
+13 
+based approach and aim to reduce the risk in areas which 
+14 
+continue to see an increase in both scale and velocity of 
+15 
+attacks. Some key aspects of the program include: 
+16 
+• Cloud security enhancements to combine various security 
+17 
+capabilities, such as network protection, zero trust and 
+18 
+others into a single cloud-delivered platform, which is 
+19 
+important as we continue to shift more programs and data 
+20 
+into the Cloud; 
+21 
+• An advanced defense initiative to discover and visualize 
+22 
+potential attack paths, helping us to better protect our 
+23 
+
+
+--- Page 30 ---
+-29- 
+25-E-XXXX & 25-G-XXXX 
+ 
+ 
+CONSOLIDATED EDISON COMPANY OF NEW YORK, INC. 
+DIRECT TESTIMONY OF CYBER AND PHYSICAL SECURITY PANEL 
+ 
+ 
+ 
+information assets and respond more quickly in the event 
+1 
+of a breach; and  
+2 
+• Continue to identify and isolate the applications 
+3 
+requiring the highest levels of security and protection 
+4 
+so they are supported by only trusted individuals. 
+5 
+Q. 
+Is this the complete list of work to be done under these 
+6 
+two projects? 
+7 
+A. 
+No. Other areas of focus include further securing 
+8 
+applications used to operate our business; managing 
+9 
+vulnerabilities; detecting unauthorized activity and 
+10 
+incident response; protecting data, including personally 
+11 
+identifiable information; securing our overall network 
+12 
+environments; and refreshing software and hardware that are 
+13 
+coming to their end-of-life.  
+14 
+Q.  Please explain the Cyber for HVN program. 
+15 
+A.  This program aims to address cybersecurity of our HVNs, 
+16 
+ensuring that we keep the most sensitive aspects of our 
+17 
+operations protected. Key projects include: 
+18 
+• Expanding Password Management programs, such as 
+19 
+Privileged Access Management (PAM);   
+20 
+• Expanding application controls in the HVN to protect 
+21 
+systems and data by allowing only approved, trusted 
+22 
+
+
+--- Page 31 ---
+-30- 
+25-E-XXXX & 25-G-XXXX 
+ 
+ 
+CONSOLIDATED EDISON COMPANY OF NEW YORK, INC. 
+DIRECT TESTIMONY OF CYBER AND PHYSICAL SECURITY PANEL 
+ 
+ 
+ 
+applications to run while blocking all other potentially 
+1 
+harmful software;  
+2 
+• Enhancing HVN Endpoint Detection and Response (EDR) to 
+3 
+improve our ability to protect end-user devices and 
+4 
+increase our ability to detect and respond to malicious 
+5 
+activity; and  
+6 
+• Enhancing asset and vulnerability management to aggregate 
+7 
+asset information and associated vulnerability details to 
+8 
+allow for better prioritization and faster response 
+9 
+within our HVNs.  
+10 
+Q. 
+Please explain the enhancements from these projects. 
+11 
+A. 
+Overall, as described, these projects (Cybersecurity and 
+12 
+Cyber for HVN) enable us to develop enhanced capabilities, 
+13 
+technology, and processes to protect our systems and data, 
+14 
+and improve detection, resiliency, and recoverability, and 
+15 
+stay ahead of the current and evolving cybersecurity 
+16 
+threats.  
+17 
+Q.  Does the Company need to replace end-of-life hardware and 
+18 
+software for these two programs? 
+19 
+A.  Yes. We need to replace end-of-life hardware and software 
+20 
+to benefit from the latest advancements in technology, 
+21 
+maintain high levels of security, and ensure the 
+22 
+
+
+--- Page 32 ---
+-31- 
+25-E-XXXX & 25-G-XXXX 
+ 
+ 
+CONSOLIDATED EDISON COMPANY OF NEW YORK, INC. 
+DIRECT TESTIMONY OF CYBER AND PHYSICAL SECURITY PANEL 
+ 
+ 
+ 
+reliability and availability of our network, business 
+1 
+applications, and infrastructure. 
+2 
+Q. 
+Please explain the incremental O&M costs associated with 
+3 
+these programs.  
+4 
+A. 
+The O&M increase is primarily attributable to subscription 
+5 
+and maintenance costs for these technologies. As noted by 
+6 
+the IT Panel, the costs for maintaining purchased 
+7 
+technology are growing. The Company’s purchased technology 
+8 
+has an annual subscription requirement and associated cost.  
+9 
+Examples of increased subscription costs include cloud 
+10 
+security enhancement subscriptions and costs for tools such 
+11 
+as our Security Information and Event Management (SIEM) 
+12 
+tool. In addition, we face costs associated with required 
+13 
+contractor services for cybersecurity operations 
+14 
+automation, technology activities support, and security 
+15 
+testing and assessments.  
+16 
+Q.  Please discuss the request for FTEs for both Cybersecurity 
+17 
+programs. 
+18 
+A.  To address evolving risks and continue improving and 
+19 
+elevating the program, the Company has hired and continues 
+20 
+to onboard talent to help address the increasing threat 
+21 
+landscape. During the upcoming rate years, the Company 
+22 
+
+
+--- Page 33 ---
+-32- 
+25-E-XXXX & 25-G-XXXX 
+ 
+ 
+CONSOLIDATED EDISON COMPANY OF NEW YORK, INC. 
+DIRECT TESTIMONY OF CYBER AND PHYSICAL SECURITY PANEL 
+ 
+ 
+ 
+intends to increase Enterprise Cybersecurity headcount by 
+1 
+66 incremental FTEs, consisting of 46 FTEs to support our 
+2 
+Cybersecurity program and 20 FTEs to support our 
+3 
+Cybersecurity Infrastructure or Cyber for HVN program. 
+4 
+Examples of some of the requested positions include: 
+5 
+• Improving the cybersecurity program by hiring five new 
+6 
+FTEs at the Vice President and Director levels to 
+7 
+provide enhanced senior level oversight and expertise in 
+8 
+this challenging threat environment; 
+9 
+• Developing a dedicated HVN team to help improve our 
+10 
+Cybersecurity posture, including Cyber operations, 
+11 
+vulnerability management within the HVN, and improved 
+12 
+identity and access management, comprising 20 FTEs; 
+13 
+• Enhancing the vulnerability management operations team 
+14 
+to leverage best-in-class technologies and proactively 
+15 
+identify vulnerabilities, assess the risks they present, 
+16 
+and work with other stakeholders to mitigate these 
+17 
+risks, comprising 5 FTEs; and 
+18 
+• Developing a dedicated application security and 
+19 
+governance team to oversee effective security measures 
+20 
+that help address rising security threats to software 
+21 
+applications, comprising 2 FTEs. 
+22 
+
+
+--- Page 34 ---
+-33- 
+25-E-XXXX & 25-G-XXXX 
+ 
+ 
+CONSOLIDATED EDISON COMPANY OF NEW YORK, INC. 
+DIRECT TESTIMONY OF CYBER AND PHYSICAL SECURITY PANEL 
+ 
+ 
+ 
+The staffing increases proposed will improve our cyber 
+1 
+security protections, increasing our maturity level.  
+2 
+Q. 
+Will these enhancements guarantee that the Company will not 
+3 
+face a cyberattack or incident? 
+4 
+A. 
+Unfortunately, there are no guarantees regarding cyber-
+5 
+risks. The opponents we face are vast and, in many cases, 
+6 
+are well funded, including some by nation states. Our goal 
+7 
+is to minimize the likelihood of an attack as well as the 
+8 
+potential impact in the event of such an attack. This work 
+9 
+will enhance our posture and confirm that we are performing 
+10 
+our due diligence and due care; however, our adversaries, 
+11 
+like the Company, are always improving. 
+12 
+Q. 
+Turning to the next project, what is the STO Cyber NERC 
+13 
+Compliance Program? 
+14 
+A. 
+This program improves the cybersecurity of the Energy 
+15 
+Control Center and energy management systems to prevent 
+16 
+intrusions, and to further comply with NERC standards such 
+17 
+as CIP 3, 5, 10.  
+18 
+Q. 
+What are the requirements associated with NERC CIP 3, 5, 
+19 
+and 10? 
+20 
+A. 
+CIP 3 deals with security management controls around 
+21 
+protecting BES Cyber Systems. We address this with patch 
+22 
+
+
+--- Page 35 ---
+-34- 
+25-E-XXXX & 25-G-XXXX 
+ 
+ 
+CONSOLIDATED EDISON COMPANY OF NEW YORK, INC. 
+DIRECT TESTIMONY OF CYBER AND PHYSICAL SECURITY PANEL 
+ 
+ 
+ 
+management, networking port security, and firewall 
+1 
+configuration management solutions to further increase our 
+2 
+capabilities.  
+3 
+CIP 5 covers managing electronic access to BES Cyber 
+4 
+Systems in support of an Electronic Security Perimeter. The 
+5 
+proposed networking port security solution will help meet 
+6 
+this CIP requirement.  
+7 
+CIP 10 covers configuration change management and 
+8 
+vulnerability assessments. The patch management solution 
+9 
+will help meet this standard.   
+10 
+Q. 
+How is NERC CIP cyber addressed at the Control Center now? 
+11 
+A. 
+Due to the separation requirement for NERC CIP systems, STO 
+12 
+has three Cybersecurity teams: Threat Management, Network 
+13 
+Security, and Vulnerability Management. The Control Center 
+14 
+also has a dedicated Cyber Security Operations Center 
+15 
+(SOC), which will continue to monitor network traffic and 
+16 
+potential threats posed against the ECC 24/7/365.   
+17 
+Q. 
+What will this program do? 
+18 
+A. 
+This program expands the ECC’s protections by implementing 
+19 
+existing corporate technology, such as a network security 
+20 
+platform, user endpoint behavior analytics, and load 
+21 
+balancers, within the segregated ECC. Additionally, the 
+22 
+
+
+--- Page 36 ---
+-35- 
+25-E-XXXX & 25-G-XXXX 
+ 
+ 
+CONSOLIDATED EDISON COMPANY OF NEW YORK, INC. 
+DIRECT TESTIMONY OF CYBER AND PHYSICAL SECURITY PANEL 
+ 
+ 
+ 
+program will allow us to fully staff the ECC SOC on a 
+1 
+24/7/365 basis.   
+2 
+Q. 
+What are the benefits of this program? 
+3 
+A. 
+This program allows for more robust cybersecurity 
+4 
+capabilities and protections.    
+5 
+Q. 
+Are there any FTEs associated with this program? 
+6 
+A. 
+There are ten FTEs associated with this program.  
+7 
+Q. 
+What work will the FTEs do? 
+8 
+A. 
+Seven FTEs will staff the dedicated Cybersecurity 
+9 
+Operations Center focused on the security of the ECC 
+10 
+network.  
+11 
+Two FTEs are for our Threat Management group and expanding 
+12 
+existing technologies, such as our SIEM, Multi Factor 
+13 
+Authentication, and Anti-Virus. They will also be working 
+14 
+on our planned User Endpoint Behavior Analytics solution.  
+15 
+Two other FTEs are for Network Security to help implement 
+16 
+our network port security solution, and firewall 
+17 
+configuration management tool. They will also assist in 
+18 
+replacing our firewall hardware and will support other 
+19 
+capital efforts within STO, such as firewall policies.      
+20 
+Q. 
+Please explain the Critical Infrastructure (NERC) Security 
+21 
+Upgrades program for Substations. 
+22 
+
+
+--- Page 37 ---
+-36- 
+25-E-XXXX & 25-G-XXXX 
+ 
+ 
+CONSOLIDATED EDISON COMPANY OF NEW YORK, INC. 
+DIRECT TESTIMONY OF CYBER AND PHYSICAL SECURITY PANEL 
+ 
+ 
+ 
+A. 
+Because Verizon is changing its communication protocols, 
+1 
+the Company needs to upgrade its Substation communication 
+2 
+protocols from “serial” communications to routable 
+3 
+communications. (Serial refers to “point-to-point” 
+4 
+communication, whereas routable refers to “bi-directional” 
+5 
+communication). This protocol change requires the Company 
+6 
+to meet NERC compliance requirements for substations with 
+7 
+External Routable Connectivity (ERC). These requirements 
+8 
+include over 100 requirements across Medium and Low 
+9 
+substations, such as placing firewalls at every location 
+10 
+and having situational awareness using various security 
+11 
+requirements.   
+12 
+Q. 
+What will this project do? 
+13 
+A. 
+This project will allow the Company to meet the NERC 
+14 
+Compliance ERC requirements. This will include 
+15 
+implementing, for example, new cyber security tools, 
+16 
+servers, firewalls, password management, and role-based 
+17 
+access.  
+18 
+Q. 
+What is the final cybersecurity project you will discuss? 
+19 
+A. 
+The Transmission Network Visualization System (TNVS). 
+20 
+Q. 
+What is this system and what does it do? 
+21 
+
+
+--- Page 38 ---
+-37- 
+25-E-XXXX & 25-G-XXXX 
+ 
+ 
+CONSOLIDATED EDISON COMPANY OF NEW YORK, INC. 
+DIRECT TESTIMONY OF CYBER AND PHYSICAL SECURITY PANEL 
+ 
+ 
+ 
+A. 
+TNVS is an application designed to provide situational 
+1 
+awareness and provides backup capability for the Energy 
+2 
+Management System (EMS). TNVS provides operators with tools 
+3 
+to monitor and manage the transmission network even under 
+4 
+the most adverse conditions. 
+5 
+Q. 
+Please explain the project being requested. 
+6 
+A. 
+We plan to add Data Diode servers to the TNVS applications, 
+7 
+along with the established Disturbance Monitoring Equipment 
+8 
+(DME) servers.  
+9 
+Q. 
+Before we continue, please explain what a data diode is? 
+10 
+A. 
+Data diodes are hardware-based devices designed to provide 
+11 
+unidirectional data flow, meaning data can only travel in 
+12 
+one direction. This technology prevents data from flowing 
+13 
+back into the source network.   
+14 
+Q. 
+Please continue. 
+15 
+A. 
+The project objectives are to: 
+16 
+• Establish connectivity from Data Diode servers to the 
+17 
+TNVS substation configuration. 
+18 
+• Implement a process to send information files from Data 
+19 
+Diode servers to the TNVS server. 
+20 
+• Develop software and data structures on the TNVS server 
+21 
+to receive and process information from Data Diodes. 
+22 
+
+
+--- Page 39 ---
+-38- 
+25-E-XXXX & 25-G-XXXX 
+ 
+ 
+CONSOLIDATED EDISON COMPANY OF NEW YORK, INC. 
+DIRECT TESTIMONY OF CYBER AND PHYSICAL SECURITY PANEL 
+ 
+ 
+ 
+Q. 
+What are the benefits of this project? 
+1 
+A. 
+Increased safety, reliability, and customer satisfaction: 
+2 
+The TNVS project aims to enhance situational awareness and 
+3 
+reduce the likelihood of human error, enhancing the 
+4 
+cybersecurity and physical security measures of the TNVS 
+5 
+application and network.  
+6 
+Q. 
+Are any FTEs needed? 
+7 
+A. 
+Two FTEs are being requested for the TNVS project.   
+8 
+Q. 
+Please discuss the work the FTEs will do? 
+9 
+A. 
+The FTEs will be responsible for overseeing the 
+10 
+installation and integration of necessary equipment. This 
+11 
+includes firewalls, modems, media converters, and other 
+12 
+resources across all 40 transmission and 63 sub-
+13 
+transmission substations.  
+14 
+C. Physical Security Projects and Programs 
+15 
+Background  
+16 
+Q. 
+What are Physical Security projects and programs? 
+17 
+A. 
+Physical Security projects and programs focus on providing 
+18 
+barriers, controls, and systems to protect and defend 
+19 
+against physical attacks targeting the Company’s 
+20 
+facilities, infrastructure, employees, supply chain, and 
+21 
+operations.  
+22 
+
+
+--- Page 40 ---
+-39- 
+25-E-XXXX & 25-G-XXXX 
+ 
+ 
+CONSOLIDATED EDISON COMPANY OF NEW YORK, INC. 
+DIRECT TESTIMONY OF CYBER AND PHYSICAL SECURITY PANEL 
+ 
+ 
+ 
+Q. 
+How do physical Security projects and programs create value 
+1 
+for customers? 
+2 
+A. 
+Physical Security projects and programs protect the people 
+3 
+and assets that deliver safe and reliable energy service to 
+4 
+Con Edison’s customers. Such projects and programs also 
+5 
+help mitigate potential security risks and protect 
+6 
+sensitive data including customer information. In these 
+7 
+ways, Physical Security projects and programs create value 
+8 
+for Con Edison’s customers. 
+9 
+Q. 
+How does Corporate Security manage and address Con Edison’s 
+10 
+physical security risks and needs? 
+11 
+A. 
+Corporate Security implements projects and programs 
+12 
+designed to address and mitigate Con Edison’s evolving 
+13 
+threat landscape including physical security risks, while 
+14 
+meeting the needs of the Company’s operating departments. 
+15 
+Corporate Security uses a “defense-in-depth” strategy to 
+16 
+deter, deny, detect, and delay potential threats. The first 
+17 
+objective is to deter any type of attack. The second 
+18 
+objective is to deny adversaries access to the targeted 
+19 
+assets. Where the first two strategies fail, the third 
+20 
+objective is to quickly detect the attack or situation, 
+21 
+using surveillance, intrusion detection systems, human 
+22 
+
+
+--- Page 41 ---
+-40- 
+25-E-XXXX & 25-G-XXXX 
+ 
+ 
+CONSOLIDATED EDISON COMPANY OF NEW YORK, INC. 
+DIRECT TESTIMONY OF CYBER AND PHYSICAL SECURITY PANEL 
+ 
+ 
+ 
+observation, and/or technology that identifies 
+1 
+inconsistencies, such as perimeter breaches. Once an 
+2 
+intrusion or attack is attempted or in progress, the fourth 
+3 
+objective is to delay the perpetrator using physical 
+4 
+security and targeted hardening methods. Corporate Security 
+5 
+personnel perform vulnerability assessments and leverage 
+6 
+NERC-CIP, TSA, and industry best practices to address 
+7 
+identified vulnerabilities, and respond to alarms and 
+8 
+incidents.  
+9 
+Q. 
+Is Corporate Security the only organization within Con 
+10 
+Edison that addresses physical security risks and needs? 
+11 
+A. 
+No. As with cyber security, STO, Substations, and 
+12 
+Facilities play an important role in addressing physical 
+13 
+security risks and needs, including through compliance with 
+14 
+NERC CIP and PSC physical security recommendations. 
+15 
+Corporate Security, STO, Substations, and Facilities work 
+16 
+together to design and implement coordinated physical 
+17 
+security improvements. The projects and programs discussed 
+18 
+below reflect the Company’s plan to continue synchronizing 
+19 
+physical security priorities across the enterprise.  
+20 
+Funding Request 
+21 
+
+
+--- Page 42 ---
+-41- 
+25-E-XXXX & 25-G-XXXX 
+ 
+ 
+CONSOLIDATED EDISON COMPANY OF NEW YORK, INC. 
+DIRECT TESTIMONY OF CYBER AND PHYSICAL SECURITY PANEL 
+ 
+ 
+ 
+Q. 
+What is the Company’s total projected capital investment in 
+1 
+Physical Security projects and programs for the three rate 
+2 
+years?  
+3 
+A. 
+We are proposing a total capital investment of $358.8 
+4 
+million for the three rate years. This amount includes 
+5 
+capital investments of $85.5 million in RY1, $61.1 million 
+6 
+in RY2, and $212.2 million in RY3. 
+7 
+Q. 
+What is the Company’s total projected funding need for O&M 
+8 
+program changes related to Physical Security projects and 
+9 
+programs for the three rate years?  
+10 
+A. 
+We are proposing incremental O&M spending of $9.5 million 
+11 
+across the three rate years. This amount includes 
+12 
+incremental O&M spending of $4.6 million in RY1, $2.0 
+13 
+million in RY2 and $2.8 million in RY3.  
+14 
+Q. 
+How many FTEs are associated with these requests? 
+15 
+A. 
+The Company is requesting 26 FTEs to support its Physical 
+16 
+Security projects and programs. 
+17 
+Projects and Programs 
+18 
+Q. 
+What are some of the Physical Security projects and 
+19 
+programs that the Company will undertake? 
+20 
+A. 
+The Company plans to undertake the following Physical 
+21 
+Security projects and programs during the rate years:  
+22 
+
+
+--- Page 43 ---
+-42- 
+25-E-XXXX & 25-G-XXXX 
+ 
+ 
+CONSOLIDATED EDISON COMPANY OF NEW YORK, INC. 
+DIRECT TESTIMONY OF CYBER AND PHYSICAL SECURITY PANEL 
+ 
+ 
+ 
+• Protective Intelligence and Countermeasures, with a total 
+1 
+capital investment of $19.5 million, consisting of $5.5 
+2 
+million in RY1, $4.8 million in RY2, and $9.2 million in 
+3 
+RY3, as well as incremental O&M spending of $4.0 million 
+4 
+in RY1, $1.6 million in RY2, and $2.7 million in RY3. 
+5 
+ 
+6 
+• Perimeter Enhancements, with a total capital investment 
+7 
+of $9.0 million, consisting of $3.0 million in each of 
+8 
+RY1, RY2, and RY3.  
+9 
+ 
+10 
+• Substation Physical Security Enhancements, with a total 
+11 
+capital investment of $30.0 million, consisting of $10.0 
+12 
+million in each of RY1, RY2, and RY3.   
+13 
+ 
+14 
+• ECC Physical Security Enhancements, with a total capital 
+15 
+investment of $14.7 million, consisting of $5.8 million 
+16 
+in RY1, $4.5 million in RY2, and $4.4 million in RY3, as 
+17 
+well as incremental O&M spending of $1.4 million in RY1, 
+18 
+$400,000 in RY2, and $600,000 in RY3.  
+19 
+ 
+20 
+• ECC Relocation, with a total capital investment of $265 
+21 
+million, consisting of $55 million in RY1, $35 million in 
+22 
+RY2, and $180 million in RY3. 
+23 
+ 
+24 
+Q. 
+Please describe the Protective Intelligence and 
+25 
+Countermeasures program. 
+26 
+A. 
+The Protective Intelligence and Countermeasures Program 
+27 
+will align the Company’s Physical Security program with the 
+28 
+DHS Cyber Security and Infrastructure Security Agency’s 
+29 
+(CISA) guidance for assessing, deterring, detecting, and 
+30 
+delaying threats.   
+31 
+Q. 
+What do CISA’s guidelines suggest? 
+32 
+A. 
+The DHS/CISA Office of Bombing Prevention guidelines focus 
+33 
+on performing Random Anti-Terrorism Measures, which provide 
+34 
+
+
+--- Page 44 ---
+-43- 
+25-E-XXXX & 25-G-XXXX 
+ 
+ 
+CONSOLIDATED EDISON COMPANY OF NEW YORK, INC. 
+DIRECT TESTIMONY OF CYBER AND PHYSICAL SECURITY PANEL 
+ 
+ 
+ 
+for methodical deployment of security resources to 
+1 
+potential facility targets. Such measures involve varied 
+2 
+levels of screening, surveillance, and detection 
+3 
+capabilities above and beyond permanent security systems.  
+4 
+Q. 
+Please provide examples of measures the Company will put in 
+5 
+place to address the guidelines. 
+6 
+A. 
+The Company intends to address many of the measures 
+7 
+suggested by the DHS/CISA Office of Bombing Prevention. For 
+8 
+example, we intend to implement Random Anti-Terrorism 
+9 
+Measures by randomly deploying countermeasures at different 
+10 
+Company locations.  
+11 
+ 
+As another example, the Company plans to improve its 
+12 
+incident investigation methodology by implementing new case 
+13 
+management software, which will provide for improved data 
+14 
+integration and analysis, including threat detection 
+15 
+information. This new software will also help enhance 
+16 
+collaboration between Investigations, Insider Threat, 
+17 
+Executive Protection, Physical Security, and Business 
+18 
+Ethics and Compliance.    
+19 
+ 
+Finally, we plan to build out our Insider Threat program to 
+20 
+strengthen the Company’s ability to identify associations 
+21 
+and affiliations with adversaries targeting our critical 
+22 
+
+
+--- Page 45 ---
+-44- 
+25-E-XXXX & 25-G-XXXX 
+ 
+ 
+CONSOLIDATED EDISON COMPANY OF NEW YORK, INC. 
+DIRECT TESTIMONY OF CYBER AND PHYSICAL SECURITY PANEL 
+ 
+ 
+ 
+infrastructure. These improvements, which will help the 
+1 
+Company meet the CISA guidelines and recommendations, 
+2 
+include the use of software that will help us identify 
+3 
+threats posed by Nation State Actors targeting our 
+4 
+employees, data, and systems. 
+5 
+ 
+These items, and the others described in the program white 
+6 
+paper, presented in Exhibit ___ (CPSP-4), will provide an 
+7 
+enhanced physical security program during these times of 
+8 
+heightened threats.   
+9 
+Q. 
+Are you proposing to hire additional FTEs to support this 
+10 
+program? 
+11 
+A. 
+Yes. As part of the Protective Intelligence and 
+12 
+Countermeasures program, the Company is proposing to hire 
+13 
+23 incremental FTEs by the end of RY1 to enhance its Threat 
+14 
+Intelligence platform, Insider Threat program, Random Anti-
+15 
+Terrorism Measures, Investigations/Tactical Response Team 
+16 
+Investigations, and Executive Protection program. These 23 
+17 
+incremental FTEs will be allocated as follows: 
+18 
+• 6 to support the Insider Threat program; 
+19 
+• 4 to support the Executive Protection program; 
+20 
+• 2 to support Random Anti-Terrorism Measures; 
+21 
+• 4 to support Facilities Security; 
+22 
+
+
+--- Page 46 ---
+-45- 
+25-E-XXXX & 25-G-XXXX 
+ 
+ 
+CONSOLIDATED EDISON COMPANY OF NEW YORK, INC. 
+DIRECT TESTIMONY OF CYBER AND PHYSICAL SECURITY PANEL 
+ 
+ 
+ 
+• 5 to support Investigations and Tactical Response; and 
+1 
+• 2 to support Supply Chain. 
+2 
+Q.  Please explain why current staffing levels are 
+3 
+insufficient. 
+4 
+A. 
+Current staffing levels are inadequate due to contractor 
+5 
+attrition and turnover in the Security Operations Center, 
+6 
+work volume assigned to investigators, requirements for 
+7 
+analytical and counterintelligence expertise focused on 
+8 
+Insider Threat matters, and protective screening duties to 
+9 
+comply with Con Edison policy and New York State laws. 
+10 
+Q. 
+How did you arrive at these required staffing levels? 
+11 
+A. 
+These staffing levels are based on turnover rate within the 
+12 
+SOC as well as current and anticipated work requirements to 
+13 
+support the Protective Intelligence and Countermeasures 
+14 
+Program, including Insider Threat, Executive Protection, 
+15 
+and Random Anti-Terrorism Measures, during the rate years.  
+16 
+Q. 
+Does the Company’s funding request include O&M program 
+17 
+changes for the 23 incremental FTEs discussed above? 
+18 
+A. 
+No. The Company’s funding request includes O&M program 
+19 
+changes for 14 of the 23 incremental FTEs discussed above. 
+20 
+The details including funding requirements for the other 
+21 
+nine FTEs were not developed in time to be included in this 
+22 
+
+
+--- Page 47 ---
+-46- 
+25-E-XXXX & 25-G-XXXX 
+ 
+ 
+CONSOLIDATED EDISON COMPANY OF NEW YORK, INC. 
+DIRECT TESTIMONY OF CYBER AND PHYSICAL SECURITY PANEL 
+ 
+ 
+ 
+filing. For this reason, the Company plans to present the 
+1 
+additional FTE details and funding requirements in its 
+2 
+update filing. 
+3 
+Q. 
+Are you submitting any exhibits that detail the Protective 
+4 
+Intelligence and Countermeasures program? 
+5 
+A. 
+Yes. We have prepared a detailed white paper discussing 
+6 
+this program. This white paper is titled “Protective 
+7 
+Intelligence & Countermeasures Program” and is provided in 
+8 
+Exhibit ___ (CPSP-4). 
+9 
+Q. 
+Please describe the Perimeter Enhancement program. 
+10 
+A. 
+The Perimeter Enhancement program focuses on strengthening 
+11 
+layers of protection or “barriers” surrounding Company 
+12 
+facilities to deter, detect, deny, delay, and defend 
+13 
+against potential physical intrusions. Such “barriers” 
+14 
+include physical fences and gates, and around-the-clock 
+15 
+security guards.   
+16 
+Q. 
+Please describe what the Company is proposing with its 
+17 
+Perimeter Enhancement program. 
+18 
+A. 
+The Company is proposing to replace older 2-inch x 2-inch 
+19 
+mesh fencing with enhanced high-security hardened fencing.  
+20 
+Q. 
+Why is this program needed? 
+21 
+
+
+--- Page 48 ---
+-47- 
+25-E-XXXX & 25-G-XXXX 
+ 
+ 
+CONSOLIDATED EDISON COMPANY OF NEW YORK, INC. 
+DIRECT TESTIMONY OF CYBER AND PHYSICAL SECURITY PANEL 
+ 
+ 
+ 
+A. 
+Recent experiences at Con Edison and other utilities have 
+1 
+demonstrated that the existing 2-inch x 2-inch mesh fencing 
+2 
+is no longer an effective security barrier, although such 
+3 
+fencing does generally delay intrusions. The enhanced 
+4 
+hardened fencing provides a more effective deterrent and 
+5 
+delays potential intrusions.   
+6 
+Q. 
+Are you submitting any exhibits that detail the Perimeter 
+7 
+Enhancement program? 
+8 
+A. 
+Yes. We have prepared a detailed white paper discussing 
+9 
+this program. This white paper is titled “Corporate 
+10 
+Security Perimeter Enhancement” and is provided in Exhibit 
+11 
+___ (CPSP-4).   
+12 
+Q. 
+Please describe the Substation Physical Security 
+13 
+Enhancement Program.   
+14 
+A. 
+The Substation Physical Security Enhancements program 
+15 
+focuses on upgrading fencing and camera systems at several 
+16 
+Con Edison substations, including, for example, the 
+17 
+Jamaica, East 179th Street, Dunwoodie, and Sprain Brook 
+18 
+substations.  
+19 
+Q. 
+What are the benefits of this program? 
+20 
+A. 
+The Substation Physical Security Enhancements program will 
+21 
+install new anti-climb fencing and cameras equipped with AI 
+22 
+
+
+--- Page 49 ---
+-48- 
+25-E-XXXX & 25-G-XXXX 
+ 
+ 
+CONSOLIDATED EDISON COMPANY OF NEW YORK, INC. 
+DIRECT TESTIMONY OF CYBER AND PHYSICAL SECURITY PANEL 
+ 
+ 
+ 
+technology and intrusion detection capabilities. Both 
+1 
+efforts will help protect our perimeter. 
+2 
+Q. 
+Turning to the next program, please describe the Energy 
+3 
+Control Center (ECC) Security Enhancements Program. 
+4 
+A. 
+The ECC Security Enhancements Program provides support for 
+5 
+the uninterrupted operation of the Company’s bulk power 
+6 
+control centers, consisting of the ECC and the Alternate 
+7 
+Energy Control Center (AECC). For these facilities, 
+8 
+uninterrupted operation is essential for maintaining the 
+9 
+reliable and safe operation of the BES and Steam System. 
+10 
+This involves compliance with regulatory requirements 
+11 
+including NERC CIP standards and other requirements from 
+12 
+the New York State Reliability Council (NYSRC) and the 
+13 
+Northeast Power Coordinating Council, Inc. (NPCC). 
+14 
+Q. 
+What will this program do? 
+15 
+A. 
+This project will focus on: 
+16 
+• Enhancing emergency evacuation systems at control 
+17 
+centers. 
+18 
+• Implementing detection systems for chemical and 
+19 
+biological threats in HVAC systems. 
+20 
+• Continuing implementation of drone detection systems. 
+21 
+• Upgrading card access control systems and 
+22 
+
+
+--- Page 50 ---
+-49- 
+25-E-XXXX & 25-G-XXXX 
+ 
+ 
+CONSOLIDATED EDISON COMPANY OF NEW YORK, INC. 
+DIRECT TESTIMONY OF CYBER AND PHYSICAL SECURITY PANEL 
+ 
+ 
+ 
+ 
+physical access control systems. 
+1 
+• Replacing battery systems for ECC UPS units to ensure 
+2 
+uninterrupted power supply. 
+3 
+Q. 
+What are the benefits of this program? 
+4 
+A. 
+This program will enhance security of the ECC so that we 
+5 
+continue to keep pace with technology. These enhancements 
+6 
+are needed at the existing ECC for regulatory compliance 
+7 
+with NERC CIP.   
+8 
+Q. 
+Is the Company requesting additional FTEs to support this 
+9 
+program? 
+10 
+A. 
+Yes. The Company is requesting two incremental FTEs to 
+11 
+support this program. 
+12 
+Q. 
+What will these incremental FTEs do? 
+13 
+A. 
+These incremental FTEs will be dedicated to managing 
+14 
+essential security functions, including card access 
+15 
+systems, video analytics, security cameras, drone detection 
+16 
+equipment, biometric screening systems, and other critical 
+17 
+tasks. 
+18 
+These roles will address emergent security needs and 
+19 
+bolster monitoring capabilities within the control centers, 
+20 
+thereby maintaining high levels of security and operational 
+21 
+reliability for the BES and Steam System. 
+22 
+
+
+--- Page 51 ---
+-50- 
+25-E-XXXX & 25-G-XXXX 
+ 
+ 
+CONSOLIDATED EDISON COMPANY OF NEW YORK, INC. 
+DIRECT TESTIMONY OF CYBER AND PHYSICAL SECURITY PANEL 
+ 
+ 
+ 
+Q. 
+Before turning to the next project, ECC Relocation Project, 
+1 
+please explain why are there two ECC projects? 
+2 
+A. 
+One project focuses on current enhancements, while the 
+3 
+other is a long-term project to relocate the ECC, which 
+4 
+will take approximately a decade. 
+5 
+Q. 
+Please describe the last project, the ECC Relocation 
+6 
+Project. 
+7 
+A. 
+Con Edison’s ECC is in Manhattan, a densely populated area 
+8 
+no longer suitable for a modern BES control center. The 
+9 
+location is adjacent to several high-risk targets and above 
+10 
+a substation.  
+11 
+ 
+To address these challenges, Con Edison plans to relocate 
+12 
+the ECC to a new location, where the Company can 
+13 
+incorporate industry best practices. These best practices 
+14 
+will include, for example, having a 300-foot perimeter 
+15 
+fence setback and a winding entrance road. This project is 
+16 
+an investment designed to strengthen the Company’s energy 
+17 
+control infrastructure against potential non-climate 
+18 
+hazards and vulnerabilities. This project will address and 
+19 
+mitigate the physical security risks associated with the 
+20 
+existing ECC.  
+21 
+Q. 
+What are the benefits of this project? 
+22 
+
+
+--- Page 52 ---
+-51- 
+25-E-XXXX & 25-G-XXXX 
+ 
+ 
+CONSOLIDATED EDISON COMPANY OF NEW YORK, INC. 
+DIRECT TESTIMONY OF CYBER AND PHYSICAL SECURITY PANEL 
+ 
+ 
+ 
+A. 
+The new ECC will provide for reliable and resilient 
+1 
+operation and monitoring of the BES, particularly including 
+2 
+areas with critical infrastructure such as the financial 
+3 
+markets, airports, transportation hubs, and hospitals. 
+4 
+Q. 
+What level of capital funding is needed to support this 
+5 
+project’s lifecycle?  
+6 
+A. 
+This project has an estimated timeline of ten years, 
+7 
+covering three rate cases. The total as for this project is 
+8 
+estimated at $1.1 billion.  
+9 
+Q. 
+What level of capital funding is needed to support this 
+10 
+project during the three rate years? 
+11 
+A. 
+We are proposing a total capital investment of $270 million 
+12 
+during the three upcoming rate years. This amount includes 
+13 
+proposed capital investments of $55 million in RY1, $35 
+14 
+million in RY2, and $180 million in RY3. These amounts are 
+15 
+related to consultants, design work, and property 
+16 
+purchase(s). 
+17 
+Q.  Are there any other Physical Security projects or programs 
+18 
+in which the Company plans to make capital investments 
+19 
+during the upcoming rate years? 
+20 
+A. 
+Yes. The Company also plans to make capital investments in 
+21 
+the three additional Physical Security programs summarized 
+22 
+
+
+--- Page 53 ---
+-52- 
+25-E-XXXX & 25-G-XXXX 
+ 
+ 
+CONSOLIDATED EDISON COMPANY OF NEW YORK, INC. 
+DIRECT TESTIMONY OF CYBER AND PHYSICAL SECURITY PANEL 
+ 
+ 
+ 
+below. Additional information regarding these projects and 
+1 
+programs can be found in the white papers provided in 
+2 
+Exhibit ___ (CPSP-4). 
+3 
+• Corporate Security Technology and Equipment Enhancement 
+4 
+program (also referred to as the Network Video Recorder 
+5 
+and Digital Video Recorder Replacement program), which 
+6 
+will enhance security technology and replace equipment 
+7 
+that has reached its end-of-life. For this project, the 
+8 
+Company is requesting capital funding of $1.71 million in 
+9 
+RY1, and $1.5 million in each of RY2 and RY3, as well as 
+10 
+incremental O&M funding of $860,000 in RY1, and $750,000 
+11 
+in each of RY2 and RY3. The Company is requesting 1 FTE 
+12 
+to support this program. This FTE is needed to assist 
+13 
+with the operational responsibilities for our Card Access 
+14 
+system. 
+15 
+ 
+16 
+• Company-Wide Camera Rollout program, which will replace 
+17 
+legacy cameras with new digital cameras at all Company 
+18 
+locations. For this program, the Company is requesting 
+19 
+capital funding of $1.688 million in RY1, and $1.5 
+20 
+million in each of RY2 and RY3. 
+21 
+ 
+22 
+• Facilities Security Upgrade program, which will involve 
+23 
+physical security upgrades and enhancements to various 
+24 
+buildings and yards managed by Facilities. For this 
+25 
+project/program, the Company is requesting capital 
+26 
+funding of $4 million in RY1, and $3 million in each of 
+27 
+RY2 and RY3. 
+28 
+ 
+29 
+Q. 
+Does this conclude the Panel’s direct testimony? 
+30 
+A. 
+Yes, it does. 
+31 

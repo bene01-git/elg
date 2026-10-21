@@ -1,0 +1,1935 @@
+--- Page 1 ---
+ 
+ 
+ 
+ 
+ 
+BEFORE THE 
+STATE OF NEW YORK 
+PUBLIC SERVICE COMMISSION 
+ 
+ 
+ 
+In the Matter of 
+ 
+Consolidated Edison Company of New York, Inc. 
+ 
+Cases 22-E-0064 and 22-G-0065 
+ 
+May 2022 
+ 
+ 
+Prepared Testimony of: 
+Staff Depreciation Panel 
+ 
+Jeff Tengeler 
+Utility Engineering Specialist 2 
+ 
+Mingdi Huang 
+Utility Engineering Specialist 1 
+ 
+Office of Electric, Gas and 
+Water 
+State of New York 
+Department of Public Service 
+Three Empire State Plaza 
+Albany, New York 12223-1350 
+ 
+
+
+--- Page 2 ---
+Cases 22-E-0064 and 22-G-0065 
+ 
+Staff Depreciation Panel 
+ 
+ 
+1 
+ 
+Q. 
+Would the members of the Staff Depreciation 
+1 
+Panel, referred to as the Panel, please state 
+2 
+your names, employer, and business addresses? 
+3 
+A.  Our names are Jeff Tengeler and Mingdi Huang.  
+4 
+We are employed by the New York State Department 
+5 
+of Public Service, referred to as the 
+6 
+Department.  Our business address is Three 
+7 
+Empire State Plaza, Albany, New York 12223-1350. 
+8 
+Q. 
+Mr. Tengeler, what is your position at the 
+9 
+Department? 
+10 
+A. 
+I am employed as a Utility Engineering 
+11 
+Specialist 2 in the Downstate Rates and Tariffs 
+12 
+section in the Office of Electric, Gas and 
+13 
+Water, or OEGW. 
+14 
+Q. 
+Mr. Tengeler, please state your educational 
+15 
+background and professional experience. 
+16 
+A. 
+In May 2014, I received a Bachelor of Science 
+17 
+degree in Civil Engineering from Rensselaer 
+18 
+Polytechnic Institute.  My employment with the 
+19 
+Department began in June 2015 as a Junior 
+20 
+Engineer in the Electric Rates and Tariffs 
+21 
+section of OEGW.  Since joining the Department, 
+22 
+I have worked on depreciation, plant in service 
+23 
+models, earnings adjustment mechanism metric 
+24 
+
+
+--- Page 3 ---
+Cases 22-E-0064 and 22-G-0065 
+ 
+Staff Depreciation Panel 
+ 
+ 
+2 
+ 
+development, revenue price-out models, rate 
+1 
+design, revenue allocation, and the development 
+2 
+of revenue decoupling mechanism targets. 
+3 
+Q. 
+Mr. Tengeler, have you previously testified 
+4 
+before the Public Service Commission, or 
+5 
+Commission?  
+6 
+A. 
+Yes, I have testified in numerous proceedings 
+7 
+regarding depreciation, plant in service 
+8 
+modeling, delivery and revenue price-out 
+9 
+modeling, revenue allocation, rate design, as 
+10 
+well as other various rates related issues.  I 
+11 
+testified in the rate proceedings of 
+12 
+Consolidated Edison Company of New York, Inc., 
+13 
+referred to as Con Edison or the Company, in 
+14 
+Cases 16-E-0060 and 16-G-0061; New York State 
+15 
+Electric & Gas Corporation, or NYSEG, and 
+16 
+Rochester Gas and Electric Corporation, or RG&E, 
+17 
+in Cases 19-E-0378, et al.; and most recently, 
+18 
+Central Hudson Gas & Electric Corporation in 
+19 
+Cases 20-E-0428 and 20-G-0429.    
+20 
+Q.  Mr. Huang, what is your position in the 
+21 
+Department?  
+22 
+A. 
+I am employed as a Utility Engineering 
+23 
+Specialist 1 in the Downstate Rates and Tariffs 
+24 
+
+
+--- Page 4 ---
+Cases 22-E-0064 and 22-G-0065 
+ 
+Staff Depreciation Panel 
+ 
+ 
+3 
+ 
+section of OEGW. 
+1 
+Q. 
+Mr. Huang, please state your educational 
+2 
+background and professional experience. 
+3 
+A. 
+I graduated from Cornell University in 2010 with 
+4 
+a Bachelor of Science degree in Mechanical 
+5 
+Engineering.  I then attended Rensselaer 
+6 
+Polytechnic Institute and graduated in 2015 with 
+7 
+a Doctor of Philosophy in Mechanical 
+8 
+Engineering.  I joined the Department in 
+9 
+February 2019.  My duties at the Department 
+10 
+involve the engineering analysis of utility 
+11 
+operations as they relate to the ratemaking 
+12 
+process, as well as participating in various 
+13 
+reviews of the activities of local distribution 
+14 
+companies.   
+15 
+Q. 
+Mr. Huang, have you previously testified before 
+16 
+the Commission?  
+17 
+A. 
+Yes.  I have testified in numerous rate 
+18 
+proceedings, including Cases 19-G-0309 and 19-G-
+19 
+0310, the Brooklyn Union Gas Company d/b/a 
+20 
+National Grid NY and KeySpan Gas East Corp. 
+21 
+d/b/a National Grid; Cases 19-G-0379 and 19-G-
+22 
+0381, NYSEG and RG&E; and Cases 21-E-0073 and 
+23 
+21-G-0074, Orange & Rockland Utilities, Inc. 
+24 
+
+
+--- Page 5 ---
+Cases 22-E-0064 and 22-G-0065 
+ 
+Staff Depreciation Panel 
+ 
+ 
+4 
+ 
+Overview 
+1 
+Q. 
+What is the purpose of the Panel’s testimony in 
+2 
+these proceedings? 
+3 
+A. 
+The Panel’s testimony will: (1) provide a 
+4 
+summary of recommended changes to the Company’s 
+5 
+proposed depreciation expense levels for the 
+6 
+Rate Year, or the 12-months ending December 31, 
+7 
+2023; (2) review basic depreciation terms and 
+8 
+concepts and their role in the Panel’s 
+9 
+testimony; (3) address the Company’s proposal 
+10 
+regarding the recovery of its leak prone pipe, 
+11 
+or LPP, related assets when its replacement 
+12 
+program is expected to be completed in 2040; (4) 
+13 
+present recommendations for average service 
+14 
+lives, or ASLs, survivor curves, and net salvage 
+15 
+factors for several of the accounts listed in 
+16 
+the depreciation study that differ from what the 
+17 
+Company has proposed; and (5) provide 
+18 
+recommendations for the treatment of the 
+19 
+calculated electric, gas, and common book to 
+20 
+theoretical reserve deficiencies.  
+21 
+Q. 
+In this testimony, will the Panel refer to, or 
+22 
+otherwise rely upon, any information produced 
+23 
+during the discovery phase of these proceedings? 
+24 
+
+
+--- Page 6 ---
+Cases 22-E-0064 and 22-G-0065 
+ 
+Staff Depreciation Panel 
+ 
+ 
+5 
+ 
+A. 
+Yes, the Panel relies upon several of the 
+1 
+Company’s responses to Information Requests, or 
+2 
+IRs, that we used to develop our 
+3 
+recommendations.  These responses are included 
+4 
+in Exhibit___(SDP-1).      
+5 
+Q. 
+Is the Panel sponsoring any other exhibits? 
+6 
+A.  Yes.  Exhibit___(SDP-2) contains an overview of 
+7 
+the present, Company proposed, and Staff 
+8 
+recommended ASLs, survivor curves, net salvage 
+9 
+factors, depreciation rates, accruals, and 
+10 
+theoretical reserves for the electric, gas, and 
+11 
+common accounts.  Exhibit___(SDP-3) contains a 
+12 
+list of current, Company proposed, and Staff 
+13 
+recommended survivor curves for the electric, 
+14 
+gas, and common accounts.  Exhibit___(SDP-4) 
+15 
+contains the current, Company proposed, and 
+16 
+Staff recommended net salvage factors for the 
+17 
+electric, gas, and common accounts.  
+18 
+Exhibit___(SDP-5) contains graphical plots of 
+19 
+the Company’s proposed survivor curves and 
+20 
+Staff’s recommended survivor curves, for 
+21 
+accounts in which we recommend different 
+22 
+survivor curves than the Company proposes. 
+23 
+Q. 
+Please briefly summarize the Panel’s 
+24 
+
+
+--- Page 7 ---
+Cases 22-E-0064 and 22-G-0065 
+ 
+Staff Depreciation Panel 
+ 
+ 
+6 
+ 
+recommendations regarding depreciation expense 
+1 
+associated with electric plant. 
+2 
+A. 
+Based on the depreciation factors we used for 
+3 
+electric plant, we recommend a reduction to the 
+4 
+Company’s proposed increase in depreciation 
+5 
+expense included in the forecast Rate Year for 
+6 
+electric plant by $34.7 million, from $1.355 
+7 
+billion to $1.320 billion.  We further recommend 
+8 
+that the Company recover $66.35 million per year 
+9 
+in relation to its existing electric plant 
+10 
+reserve deficiency, a reduction of approximately 
+11 
+$14.7 million from the Company’s proposal.  
+12 
+Lastly, we agree with the Company’s proposal to 
+13 
+continue its recovery of $3.8 million per year 
+14 
+regarding the stranded costs associated with the 
+15 
+Hudson Avenue Station.  
+16 
+Q. 
+To what extent does the Panel’s recommended 
+17 
+level of electric depreciation expense in the 
+18 
+Rate Year increase from the level currently 
+19 
+included in base rates? 
+20 
+A. 
+Our recommended electric depreciation expense, 
+21 
+which also includes our recommended book to 
+22 
+theoretical reserve deficiency recovery and 
+23 
+recovery of the Hudson Avenue Station, would 
+24 
+
+
+--- Page 8 ---
+Cases 22-E-0064 and 22-G-0065 
+ 
+Staff Depreciation Panel 
+ 
+ 
+7 
+ 
+increase by approximately two percent, from 
+1 
+$1.363 billion to $1.39 billion.  
+2 
+Q. 
+Please briefly summarize the Panel’s 
+3 
+recommendations regarding the depreciation 
+4 
+expense associated with gas plant. 
+5 
+A. 
+Based on the Panel’s recommended depreciation 
+6 
+factors for the gas plant, we recommend a 
+7 
+reduction to the Company’s proposed increase in 
+8 
+depreciation expense included in the forecast 
+9 
+Rate Year for gas plant by $28.04 million, from 
+10 
+$443.91 million to $415.88 million.  We further 
+11 
+recommend that the Company recover approximately 
+12 
+$11.54 million per year due to its existing gas 
+13 
+plant reserve deficiency, a reduction of 
+14 
+approximately $10.9 million from the Company’s 
+15 
+proposal.  
+16 
+Q. 
+To what extent does the Panel’s recommended 
+17 
+level of gas depreciation expense in the Rate 
+18 
+Year increase from the level currently included 
+19 
+in base rates? 
+20 
+A. 
+Our recommended gas depreciation expense, which 
+21 
+also includes our recommended book to 
+22 
+theoretical reserve deficiency recovery, would 
+23 
+increase by approximately 18.2 percent, or from 
+24 
+
+
+--- Page 9 ---
+Cases 22-E-0064 and 22-G-0065 
+ 
+Staff Depreciation Panel 
+ 
+ 
+8 
+ 
+$361.7 million to $427.4 million.   
+1 
+Q. 
+Please briefly summarize the Panel’s 
+2 
+recommendations regarding depreciation expense 
+3 
+associated with common plant. 
+4 
+A. 
+Based on the Panel’s review of the common plant 
+5 
+accounts, we agree with the Company that no 
+6 
+changes should be made to the common accounts. 
+7 
+Q. 
+Are the electric and gas depreciation expense 
+8 
+totals, as recommended by the Panel, inclusive 
+9 
+of Staff’s recommended changes to Rate Year 
+10 
+plant-in-service balances and allocation of 
+11 
+common plant? 
+12 
+A. 
+Yes.  Our depreciation rates were used in the 
+13 
+plant in service model, along with Staff’s 
+14 
+recommended Rate Year levels of capital spending 
+15 
+as discussed in the testimonies of the Staff 
+16 
+Electric Infrastructure and Operations Panel, 
+17 
+the Staff Gas Infrastructure and Operations 
+18 
+Panel, Staff Witness Seshadri, the Staff 
+19 
+Municipal Infrastructure Support Panel, the 
+20 
+Staff Clean Energy Programs Panel, the Staff 
+21 
+Security Panel, the Staff Consumer Services 
+22 
+Panel, and the Staff Information Technology 
+23 
+Panel.  Consistent with the Company, the Panel 
+24 
+
+
+--- Page 10 ---
+Cases 22-E-0064 and 22-G-0065 
+ 
+Staff Depreciation Panel 
+ 
+ 
+9 
+ 
+has allocated the common plant depreciation 
+1 
+expense as 83 percent to electric and 17 percent 
+2 
+to gas.  
+3 
+Q. 
+Can you please explain the terms “net salvage” 
+4 
+and “depreciation” as used in ratemaking? 
+5 
+A. 
+Net salvage is any cash received for the asset, 
+6 
+less the cost to remove it.  Depreciation is a 
+7 
+method of recovering capital costs, less net 
+8 
+salvage, related to plant in service over the 
+9 
+expected life of the plant.   
+10 
+Q. 
+Please define “average service life.” 
+11 
+A. 
+ASL is the arithmetic average of the lives of 
+12 
+the units of property, represented by the area 
+13 
+under the survivor curve from age zero to the 
+14 
+maximum life, divided by 100 percent. 
+15 
+Q. 
+What is a “survivor curve?” 
+16 
+A. 
+A survivor curve is a graphical indication of 
+17 
+the percentage of original plant, by age, that 
+18 
+is still in service.  Known curves, such as Iowa 
+19 
+or h-curves, are fit to the observed curve to 
+20 
+help determine an appropriate ASL.  These known 
+21 
+curves include a mode, which describes the 
+22 
+relative height of the curve.  Low mode curves 
+23 
+have wide retirement patterns, i.e., the assets 
+24 
+
+
+--- Page 11 ---
+Cases 22-E-0064 and 22-G-0065 
+ 
+Staff Depreciation Panel 
+ 
+ 
+10 
+ 
+retire over a wide range of lives and less 
+1 
+retirements occur near the average service life.  
+2 
+Curves with higher modes have much narrower 
+3 
+retirement patterns, with more retirements 
+4 
+occurring near the ASL.  The area under the 
+5 
+survivor curve is the ASL or whole life.  The 
+6 
+observed curves are generated from a mortality 
+7 
+study that examines the actual retirement 
+8 
+patterns over multiple years. 
+9 
+Q. 
+Please define “depreciation rate.” 
+10 
+A. 
+A depreciation rate is a percentage rate that is 
+11 
+applied to the value of gross plant in service, 
+12 
+by account, to determine the annual depreciation 
+13 
+expense. 
+14 
+Q. 
+Please define “depreciation expense.” 
+15 
+A. 
+Depreciation expense in any given year is the 
+16 
+product of gross plant in service multiplied by 
+17 
+the applicable depreciation rate.  Depreciation 
+18 
+expense allows for the recovery of an 
+19 
+investment, less net salvage, over the expected 
+20 
+life of the investment. 
+21 
+Q. 
+Please define “net salvage factor.” 
+22 
+A. 
+Net salvage factor refers to the component of 
+23 
+the depreciation rate that allows recovery of 
+24 
+
+
+--- Page 12 ---
+Cases 22-E-0064 and 22-G-0065 
+ 
+Staff Depreciation Panel 
+ 
+ 
+11 
+ 
+the estimated net salvage.  It is expressed as a 
+1 
+percentage based on the original cost of plant.  
+2 
+For example, let us assume that a unit of 
+3 
+property has a total installed cost of $1,000, 
+4 
+$0 estimated future salvage, and estimated costs 
+5 
+of removal of $500.  The net salvage factor is 
+6 
+calculated as follows: Rate = ($0 + (-$500)) / 
+7 
+$1,000.  This equates to a -0.50, or -50 percent 
+8 
+net salvage factor.  
+9 
+Q. 
+Please define “book reserve.” 
+10 
+A. 
+The book reserve is the continued accumulation 
+11 
+of the annual depreciation expense accruals, 
+12 
+less any retirements and cost of removal, plus 
+13 
+any salvage received.  The book reserve is 
+14 
+calculated by plant account and subtracted from 
+15 
+the gross plant, or original cost of the plant, 
+16 
+to calculate the net plant, or the remaining 
+17 
+plant balance that is not yet depreciated. 
+18 
+Q. 
+Please define “theoretical reserve.” 
+19 
+A. 
+The theoretical reserve is the amount of 
+20 
+depreciation expense that should have been 
+21 
+collected as of a particular date, given the 
+22 
+survivor curves, ASLs, and net salvage factors 
+23 
+used to determine the proposed depreciation 
+24 
+
+
+--- Page 13 ---
+Cases 22-E-0064 and 22-G-0065 
+ 
+Staff Depreciation Panel 
+ 
+ 
+12 
+ 
+rates. 
+1 
+Q. 
+How are depreciation rates calculated? 
+2 
+A. 
+Depreciation rates are calculated differently 
+3 
+depending on the depreciation system used.  Each 
+4 
+system is composed of a method, a procedure, and 
+5 
+a technique. 
+6 
+Q. 
+What depreciation system did Con Edison use for 
+7 
+its plant accounts? 
+8 
+A. 
+As stated on page 11 of the initial testimony of 
+9 
+the Depreciation Panel, Con Edison used the 
+10 
+straight-line method, broad group procedure, and 
+11 
+whole life technique for most of the depreciable 
+12 
+accounts.  Additionally, as stated on page 24 of 
+13 
+the initial testimony of the Depreciation Panel, 
+14 
+the Company also uses the life span method for 
+15 
+the electric plant generation and the liquefied 
+16 
+natural gas, or LNG, storage gas plant accounts.  
+17 
+The life span method is sometimes used to 
+18 
+depreciate large assets that do not fit the 
+19 
+mortality characteristics of mass property 
+20 
+accounts such as poles.  Each of the electric 
+21 
+plant generation and LNG storage accounts have 
+22 
+common projected retirement dates.    
+23 
+Q. 
+Please explain how the depreciation rate is 
+24 
+
+
+--- Page 14 ---
+Cases 22-E-0064 and 22-G-0065 
+ 
+Staff Depreciation Panel 
+ 
+ 
+13 
+ 
+calculated following the whole life technique. 
+1 
+A. 
+Under the whole life technique, the depreciation 
+2 
+rate is calculated using the following formula: 
+3 
+ 
+Rate = (1-Net Salvage)/(ASL).    
+4 
+ 
+For example, if the ASL for a plant account was 
+5 
+50 years and the net salvage factor was negative 
+6 
+50 percent, then the depreciation rate would be: 
+7 
+R = (1-(-0.5)) / 50.  In such a case, the 
+8 
+depreciation rate would equal 0.03, or 3.0 
+9 
+percent.  The rate is then multiplied by the 
+10 
+gross plant to obtain the depreciation expense 
+11 
+for ratemaking purposes.  The next step in the 
+12 
+process for ratemaking purposes is to compute 
+13 
+composite rates, which are weighted average 
+14 
+rates based on gross plant in service as of a 
+15 
+specific date.  In these proceedings, both the 
+16 
+Company and Staff Depreciation Panels used the 
+17 
+plant balances as of December 31, 2020.  These 
+18 
+composite rates were then taken into account 
+19 
+alongside the capital spending adjustments 
+20 
+recommended in the testimonies of the Staff 
+21 
+Electric Infrastructure and Operations Panel, 
+22 
+the Staff Gas Infrastructure and Operations 
+23 
+Panel, Staff Witness Seshadri, the Staff 
+24 
+
+
+--- Page 15 ---
+Cases 22-E-0064 and 22-G-0065 
+ 
+Staff Depreciation Panel 
+ 
+ 
+14 
+ 
+Municipal Infrastructure Support Panel, the 
+1 
+Staff Clean Energy Programs Panel, the Staff 
+2 
+Security Panel, the Staff Consumer Services 
+3 
+Panel, and the Staff Information Technology 
+4 
+Panel to calculate the Rate Year depreciation 
+5 
+expense and accumulated reserve adjustments.  
+6 
+These adjustments were provided to the Staff 
+7 
+Accounting Panel for inclusion in Staff’s 
+8 
+recommended revenue requirements in these 
+9 
+proceedings.   
+10 
+Q. 
+Did the information in the depreciation studies 
+11 
+provided by the Company lead the Panel to 
+12 
+recommend depreciation rates different than 
+13 
+those currently in effect and/or those proposed 
+14 
+by Con Edison? 
+15 
+A. 
+Yes.  After analyzing the data found in the 
+16 
+depreciation study, we recommend several changes 
+17 
+from both existing and Company proposed rates.   
+18 
+Survivor Curves and Average Service Lives 
+19 
+Q.  Did the Company incorporate the use of a 
+20 
+depreciation study?  
+21 
+A.  Yes. As stated on page six of the initial 
+22 
+testimony of the Depreciation Panel, the 
+23 
+Company’s depreciation consultant, Gannett 
+24 
+
+
+--- Page 16 ---
+Cases 22-E-0064 and 22-G-0065 
+ 
+Staff Depreciation Panel 
+ 
+ 
+15 
+ 
+Fleming Valuation and Rate Consultants, LLC, 
+1 
+referred to as Gannett Fleming, prepared a 
+2 
+depreciation study for its electric, gas, and 
+3 
+common accounts with plant balances as of 
+4 
+December 31, 2020.  This depreciation study was 
+5 
+filed as Exhibit___(DP-1) in these proceedings. 
+6 
+Q. 
+How did the Panel arrive at its recommended ASLs 
+7 
+and survivor curves for the electric plant 
+8 
+accounts?   
+9 
+A. 
+We reviewed the mortality data provided in the 
+10 
+depreciation study, as well as the original and 
+11 
+smooth survivor curves provided by the Company 
+12 
+in its filings.  The Company did not supply 
+13 
+rolling and shrinking bands or fit indices for 
+14 
+its selected Iowa-curves as part of its 
+15 
+depreciation study, which we would normally 
+16 
+review in addition to visual fitting.  The 
+17 
+rolling and shrinking bands provide more 
+18 
+information regarding trends in service lives, 
+19 
+while the fit indices provide statistical 
+20 
+information regarding how well the selected 
+21 
+smooth survivor curve fits the mortality data.  
+22 
+In a number of instances, a different smooth 
+23 
+survivor curve than that proposed by the Company 
+24 
+
+
+--- Page 17 ---
+Cases 22-E-0064 and 22-G-0065 
+ 
+Staff Depreciation Panel 
+ 
+ 
+16 
+ 
+better fit the actual historic data points.  In 
+1 
+other words, the curve hugged the data much 
+2 
+tighter than the Company’s proposed curves.  In 
+3 
+these cases, we are recommending different ASLs 
+4 
+and Iowa-curve modes from what the Company 
+5 
+proposed. 
+6 
+Q. 
+What adjustments does the Panel recommend to the 
+7 
+survivor curves and ASLs for the electric 
+8 
+accounts? 
+9 
+A.  We reviewed all electric depreciable plant 
+10 
+accounts associated with the 30 electric 
+11 
+survivor curves provided in the Company’s 
+12 
+depreciation study.  We recommend different 
+13 
+survivor curves and ASLs from what the Company 
+14 
+proposed for two accounts.  The two accounts, 
+15 
+both in distribution, are 366.00 & 366.10 - 
+16 
+Underground Conduit and 369.20 – Services – 
+17 
+Underground.  The Panel recommends maintaining 
+18 
+the current survivor curves for both accounts.   
+19 
+Q.  Does the Panel agree with any ASLs proposed by 
+20 
+the Company? 
+21 
+A. 
+Yes.  The Panel agrees with the majority of the 
+22 
+ASLs and curve shapes proposed by the Company’s 
+23 
+Depreciation Panel.  Exhibit___(SDP-3), page 1, 
+24 
+
+
+--- Page 18 ---
+Cases 22-E-0064 and 22-G-0065 
+ 
+Staff Depreciation Panel 
+ 
+ 
+17 
+ 
+contains a comparison, by account, among the 
+1 
+present, Company proposed, and Panel recommended 
+2 
+ASLs and survivor curves for the depreciable 
+3 
+electric plant accounts.  In addition, a 
+4 
+comparison between the actual electric survivor 
+5 
+curves proposed by the Company and those 
+6 
+recommended by the Panel for accounts where we 
+7 
+differ can be found in Exhibit___(SDP-5). 
+8 
+Q.  Did the Panel use the same process in its review 
+9 
+of the depreciable gas plant accounts as it did 
+10 
+for the electric accounts? 
+11 
+A. 
+Yes.  The Panel reviewed all depreciable gas 
+12 
+accounts associated with the 20 survivor curves 
+13 
+provided in the Company’s depreciation study and 
+14 
+recommends different survivor curves and ASLs 
+15 
+for seven of the Company’s accounts. 
+16 
+Q. 
+Please explain how the Company developed its 
+17 
+selected gas survivor curves and ASLs for 
+18 
+certain longer-lived gas accounts as proposed in 
+19 
+its filing. 
+20 
+A. 
+As explained on page 31 of the initial testimony 
+21 
+of the Depreciation Panel, the Company’s 
+22 
+proposal includes a reduction to the ASLs for 
+23 
+eight of the longer-lived gas accounts.  Gannett 
+24 
+
+
+--- Page 19 ---
+Cases 22-E-0064 and 22-G-0065 
+ 
+Staff Depreciation Panel 
+ 
+ 
+18 
+ 
+Fleming first performed an analysis of the 
+1 
+historic survivor data and established potential 
+2 
+survivor curves for each of the transmission and 
+3 
+distribution gas accounts.  This first analysis 
+4 
+was based primarily on the retirement data 
+5 
+provided in the depreciation study.  Gannett 
+6 
+Fleming then incorporated survivor curves with a 
+7 
+further reduction of 10 years to eight of the 
+8 
+longer-lived accounts that currently have ASLs 
+9 
+in the 35 years or more range.  This further 10-
+10 
+year reduction is intended to incorporate an 
+11 
+accelerated recovery on these longer-lived 
+12 
+assets to avoid potential impacts related to the 
+13 
+Climate Leadership and Community Protection Act, 
+14 
+or CLCPA.  The impacted accounts are: 366.00 - 
+15 
+Structures and Improvements, 369.00 – Measuring 
+16 
+and Regulating Station Equipment, 376.12 - Mains 
+17 
+– All Other, 380.10 - Services, 381.00 – Meters 
+18 
+- Purchases, 382.00 - Meter Installations, 
+19 
+383.00 - House Regulators – Purchases, and 
+20 
+384.00 - House Regulator - Installations.  These 
+21 
+adjusted ASLs and survivor curves, along with 
+22 
+their computed rates, can be found in the 
+23 
+Company’s Exhibit___(DP-2).   
+24 
+
+
+--- Page 20 ---
+Cases 22-E-0064 and 22-G-0065 
+ 
+Staff Depreciation Panel 
+ 
+ 
+19 
+ 
+Q. 
+Are these the adjusted ASLs that the Company 
+1 
+used in developing depreciation rates that were 
+2 
+then used to calculate the Company’s Rate Year 
+3 
+revenue requirement? 
+4 
+A. 
+No.  As stated on page 38 of the initial 
+5 
+testimony of the Depreciation Panel, given the 
+6 
+significant overall revenue requirement impact 
+7 
+associated with the 10-year reduction in ASLs, 
+8 
+the Company’s Accounting Panel instead 
+9 
+incorporated a five-year reduction to the ASLs 
+10 
+of selected gas accounts.  These adjusted ASLs 
+11 
+and corresponding depreciation rates that are 
+12 
+used to calculate the Company’s Rate Year 
+13 
+revenue requirement can be found in the 
+14 
+Company’s Exhibit___(DP-4).    
+15 
+Q. 
+Has the Panel reviewed the Company’s reasoning 
+16 
+for reducing the ASLs of certain longer lived 
+17 
+gas assets in consideration of the potential 
+18 
+impacts related to the CLCPA? 
+19 
+A. 
+Yes. 
+20 
+Q. 
+Does the Panel agree with the Company’s 
+21 
+approach? 
+22 
+A. 
+No.  In its May 12, 2022 Order Adopting Gas 
+23 
+System Planning Process, issued in Cases 20-G-
+24 
+
+
+--- Page 21 ---
+Cases 22-E-0064 and 22-G-0065 
+ 
+Staff Depreciation Panel 
+ 
+ 
+20 
+ 
+0131, et al., the Commission directed the 
+1 
+State’s gas local distribution companies, or 
+2 
+LDCs, including Con Edison, to file depreciation 
+3 
+studies with certain scenarios, including a 
+4 
+scenario that depreciates all existing gas plant 
+5 
+by 2050 and another that fully depreciates all 
+6 
+new gas plant installed beginning in 2022 by 
+7 
+2050, with the goal of examining the structure 
+8 
+of accelerated depreciation and its potential 
+9 
+impact on ratepayers.  For each scenario, the 
+10 
+LDCs must provide revenue requirement and 
+11 
+approximate bill impacts to residential and 
+12 
+commercial ratepayers.  The Commission explained 
+13 
+that these studies will inform future 
+14 
+discussions of how best to recover the costs of 
+15 
+these assets and reduce potential stranded 
+16 
+assets.  Since the Commission is evaluating this 
+17 
+issue in that proceeding, we do not recommend 
+18 
+adjusting the ASLs as proposed by the Company in 
+19 
+this case.         
+20 
+ Q. Does the Panel agree with any ASLs and survivor 
+21 
+curves that the Company proposes to use for its 
+22 
+gas accounts in its Rate Year revenue 
+23 
+requirement? 
+24 
+
+
+--- Page 22 ---
+Cases 22-E-0064 and 22-G-0065 
+ 
+Staff Depreciation Panel 
+ 
+ 
+21 
+ 
+A. 
+With the exception of seven transmission and 
+1 
+distribution accounts, the Panel agrees with the 
+2 
+Company’s proposed survivor curves and ASLs used 
+3 
+for its gas accounts.  We disagree with the 
+4 
+Company on the following seven accounts: 367.10 
+5 
+- Mains - All Other, 369.00 – Measuring and 
+6 
+Regulating Equipment, 376.12 Mains – All Other, 
+7 
+381.00 – Meters - Purchases, 382.00 – Meter - 
+8 
+Installations, 383.00 – House Regulators - 
+9 
+Purchases, and 384.00 – House Regulators - 
+10 
+Installations.  Exhibit___(SDP-3), page 2, 
+11 
+contains a comparison, by account, among the 
+12 
+present, the Company’s proposed, and the Panel’s 
+13 
+recommended ASLs and survivor curves for the 
+14 
+depreciable gas plant accounts.  In addition, a 
+15 
+comparison between the Company’s proposed and 
+16 
+Staff’s recommended survivor curves on these 
+17 
+seven accounts can be found in Exhibit___(SDP-
+18 
+5). 
+19 
+Q. 
+What did the Company propose for its LPP 
+20 
+recovery in the Rate Year? 
+21 
+A. 
+As stated in the initial testimony of the 
+22 
+Depreciation Panel starting on page 30, the 
+23 
+Company separated the non-LPP and LPP related 
+24 
+
+
+--- Page 23 ---
+Cases 22-E-0064 and 22-G-0065 
+ 
+Staff Depreciation Panel 
+ 
+ 
+22 
+ 
+assets in its mains and services accounts into 
+1 
+their own separate accounts in its depreciation 
+2 
+study.  The Company is proposing to recover the 
+3 
+remaining asset and removal costs associated 
+4 
+with the LPP accounts over the duration of the 
+5 
+replacement program, which is scheduled to end 
+6 
+in 2040. 
+7 
+Q. 
+Does the Panel agree with the Company’s LPP 
+8 
+recovery proposal? 
+9 
+A. 
+Yes.  Collecting the LPP asset and removal costs 
+10 
+during the remaining period of the replacement 
+11 
+program ensures that the Company will collect 
+12 
+its invested costs during the time the assets 
+13 
+would be providing service.  This approach would 
+14 
+help to avoid potential unrecovered costs or 
+15 
+intergenerational inequities for customers that 
+16 
+could pay for these assets, along with its 
+17 
+return on rate base, after the replacement 
+18 
+program has ended.  The Panel recommends that 
+19 
+the Company continue to track the LPP related 
+20 
+assets separately from the non-LPP related 
+21 
+assets.      
+22 
+Net Salvage 
+23 
+Q. 
+Please describe the information contained in the 
+24 
+
+
+--- Page 24 ---
+Cases 22-E-0064 and 22-G-0065 
+ 
+Staff Depreciation Panel 
+ 
+ 
+23 
+ 
+net salvage statistics section of the 
+1 
+depreciation study provided by the Company. 
+2 
+A. 
+The depreciation study includes, for each plant 
+3 
+account and year included, a summary of regular 
+4 
+retirements, or original cost of plant retired; 
+5 
+cost of removal; the percent of cost of removal 
+6 
+compared to regular retirements; gross salvage; 
+7 
+percent of gross salvage compared to regular 
+8 
+retirements; net salvage; and percent of net 
+9 
+salvage compared to regular retirements.  The 
+10 
+summary of the net salvage statistics also 
+11 
+includes the totals for these categories for a 
+12 
+number of years, as well as a three-year moving 
+13 
+average of the data and the most recent five-
+14 
+year average (2016 through 2020).   
+15 
+Q. 
+Please discuss the method the Panel used to 
+16 
+determine the net salvage factors it recommends. 
+17 
+A. 
+Our review of the net salvage statistics 
+18 
+employed a method very similar to that used by 
+19 
+the Company in determining its net salvage 
+20 
+factors.  Like the Company, we reviewed the 
+21 
+present net salvage amounts, as well as prior 
+22 
+Commission decisions regarding net salvage 
+23 
+factors.  The Panel reviewed the salvage 
+24 
+
+
+--- Page 25 ---
+Cases 22-E-0064 and 22-G-0065 
+ 
+Staff Depreciation Panel 
+ 
+ 
+24 
+ 
+statistics provided by the Company’s 
+1 
+depreciation study and looked for trends in the 
+2 
+annual and multiple yearly averages of the 
+3 
+historic net salvage data, as well as the 
+4 
+percentages of the net salvage to the original 
+5 
+cost of plant retired each year.  For accounts 
+6 
+with apparent trends that indicate costs of 
+7 
+removal are increasing, and thus net salvage is 
+8 
+becoming more negative, we recommend a more 
+9 
+negative net salvage factor for those accounts.  
+10 
+For example, for electric account 369.20 – 
+11 
+Services - Underground, we recommend the 
+12 
+Commission further reduce the current negative 
+13 
+net salvage factor by five percent.  For 
+14 
+accounts where there are no apparent trends, 
+15 
+such as in electric account 373.20 - Underground 
+16 
+Street Lighting and Signal Systems, we recommend 
+17 
+that the net salvage factor remain the same as 
+18 
+approved in present rates.    
+19 
+Q. 
+For which accounts did the Panel recommend a 
+20 
+different net salvage factor than what the 
+21 
+Company proposed? 
+22 
+A. 
+Of the 32 accounts in the electric plant which 
+23 
+have a net salvage factor, we recommend a 
+24 
+
+
+--- Page 26 ---
+Cases 22-E-0064 and 22-G-0065 
+ 
+Staff Depreciation Panel 
+ 
+ 
+25 
+ 
+different net salvage factor than the Company 
+1 
+for seven electric accounts: 354.00 – Towers and 
+2 
+Fixtures; 362.00 – Station Equipment; 364.00 – 
+3 
+Poles, Towers and Fixtures; 367.00 – Underground 
+4 
+Conductors and Devices; 369.10 – Services – 
+5 
+Overhead; 369.20 – Services – Underground; and 
+6 
+373.20 – Underground Street Lighting and Signal 
+7 
+Systems.  Of the 21 accounts in the gas plant 
+8 
+which have a net salvage factor, we recommend 
+9 
+different net salvage factors for six gas 
+10 
+accounts: 367.10 – Mains – All Other, 368.00 – 
+11 
+Compressor Station Equipment, 376.12 – Mains – 
+12 
+All Other, 376.12 - Mains – Leak Prone Pipe, 
+13 
+380.10 – Services, and 380.10 - Services – Leak 
+14 
+Prone Pipe.  Our Exhibit___(SDP-4) presents the 
+15 
+current, the Company’s proposed, and the Panel’s 
+16 
+recommended net salvage factors. 
+17 
+Book Reserve Deficiency 
+18 
+Q. 
+Please explain the process of comparing the book 
+19 
+reserve to the theoretical reserve. 
+20 
+A. 
+When a depreciation study is performed, the 
+21 
+current book reserve is compared to the proposed 
+22 
+theoretical reserve.  The proposed theoretical 
+23 
+reserve incorporates any proposed changes to the 
+24 
+
+
+--- Page 27 ---
+Cases 22-E-0064 and 22-G-0065 
+ 
+Staff Depreciation Panel 
+ 
+ 
+26 
+ 
+survivor curves, ASLs, and net salvage factors.  
+1 
+Typically, if the difference between the book 
+2 
+reserve and the theoretical reserve is within a 
+3 
+margin of 10 percent, above or below, no 
+4 
+adjustment is made to amortize the over or 
+5 
+under-accruals.  However, if the difference is 
+6 
+greater than 10 percent, an adjustment can be 
+7 
+made to amortize some or all of the difference 
+8 
+between the theoretical and book reserves.  If 
+9 
+the book reserve is larger than the theoretical 
+10 
+reserve, some or all of the difference can be 
+11 
+used for other ratemaking treatments, rather 
+12 
+than a reduction to depreciation expense.  The 
+13 
+use of a 10 percent margin and the rate 
+14 
+treatment are discretionary.  An adjustment is 
+15 
+often made because the difference is too large 
+16 
+to be corrected on its own, going forward. 
+17 
+Q.  What are the Company’s depreciation reserve 
+18 
+deficiencies using its proposed depreciation 
+19 
+rates? 
+20 
+A. 
+On pages 53-54 of its initial testimony, the 
+21 
+Company’s Depreciation Panel explains that the 
+22 
+deficiencies in both its electric and gas plant 
+23 
+reserves have significantly grown over the 
+24 
+
+
+--- Page 28 ---
+Cases 22-E-0064 and 22-G-0065 
+ 
+Staff Depreciation Panel 
+ 
+ 
+27 
+ 
+years, as shown in Figure 1 and Figure 2.  
+1 
+Figures 1 and 2 show the level of the electric 
+2 
+and gas plant reserves, respectively, that were 
+3 
+in excess or deficient from 2011, based on the 
+4 
+Company’s most recent depreciation study at that 
+5 
+time, to 2020, based on the Company’s proposed 
+6 
+survival curves and net salvage factors in its 
+7 
+most recent depreciation study filed in these 
+8 
+proceedings.  Figure 1 shows that the deficiency 
+9 
+for Con Edison’s electric plant reserve has 
+10 
+grown from approximately $680 million in 2011, 
+11 
+to $2.7 billion in 2020.  Figure 2 shows that 
+12 
+the Company’s gas plant reserve had an excess of 
+13 
+approximately $92 million in 2011 and went to a 
+14 
+deficiency of approximately $944 million in 
+15 
+2020.  This gas plant reserve deficiency, 
+16 
+however, is based on a 10-year reduction of the 
+17 
+ASLs of certain long-lived gas accounts.  When 
+18 
+using the Company’s proposal to reduce the ASLs 
+19 
+of these gas accounts by five years, which 
+20 
+produces a lower overall theoretical reserve 
+21 
+than that of the 10-year ASL reduction, the 2020 
+22 
+gas plant deficiency level is approximately $693 
+23 
+million.   
+24 
+
+
+--- Page 29 ---
+Cases 22-E-0064 and 22-G-0065 
+ 
+Staff Depreciation Panel 
+ 
+ 
+28 
+ 
+Q. 
+Is the Company currently recovering any 
+1 
+amortizations of these book to theoretical 
+2 
+reserve deficiencies? 
+3 
+A. 
+As authorized in the Order Adopting Terms of 
+4 
+Joint Proposal and Establishing Electric and Gas 
+5 
+Rate Plan, issued January 6, 2020, in Cases 19-
+6 
+E-0065 and 19-G-0066, referred to as the 2020 
+7 
+Rate Order, the Company is recovering 
+8 
+approximately $82.9 million annually for its 
+9 
+electric deficiency and $8.0 million annually 
+10 
+for its gas deficiency.  While these 
+11 
+amortizations have shown an impact, the total 
+12 
+deficiencies are still quite large and remain on 
+13 
+the books.  As shown in Figure 1, however, the 
+14 
+electric reserve began to recede somewhat 
+15 
+between 2017 and 2020. 
+16 
+Q. 
+What is the Company requesting in these 
+17 
+proceedings for its electric and gas book to 
+18 
+theoretical reserve deficiency recoveries? 
+19 
+A. 
+The Company discusses this on pages 59 to 61 of 
+20 
+the initial testimony of its Depreciation Panel.  
+21 
+For its electric plant reserve deficiency of 
+22 
+$2.62 billion, approximately $1.62 billion is 
+23 
+within the 10 percent tolerance band of the 
+24 
+
+
+--- Page 30 ---
+Cases 22-E-0064 and 22-G-0065 
+ 
+Staff Depreciation Panel 
+ 
+ 
+29 
+ 
+theoretical reserve.  Amortizing this over 20 
+1 
+years produces an annual recovery of $81 million 
+2 
+which is included in the Company’s electric 
+3 
+revenue requirement in the Rate Year.  For its 
+4 
+gas plant reserve deficiency of $693 million, 
+5 
+approximately $449 million is within the 10 
+6 
+percent tolerance band of the theoretical 
+7 
+reserve.  Amortizing this over 20 years produces 
+8 
+an annual recovery of $22.5 million, which is 
+9 
+included in the Company’s gas revenue 
+10 
+requirement in the Rate Year.   
+11 
+Q. 
+Does the Panel agree with the Company’s proposed 
+12 
+amortization amount for its electric book to 
+13 
+theoretical reserve deficiency? 
+14 
+A. 
+No.  Under our recommended depreciation rates, 
+15 
+the electric plant reserve deficiency is 
+16 
+approximately $2.3 billion, or $327 million less 
+17 
+than the Company’s reserve deficiency.  Applying 
+18 
+the 10 percent tolerance band would result in a 
+19 
+recovery of approximately $1.33 billion over 20 
+20 
+years, or an annual amortization of $66.35 
+21 
+million, which is $14.7 million less than the 
+22 
+Company’s proposal in the Rate Year. 
+23 
+Q. 
+Explain the Panel’s recommendation with regards 
+24 
+
+
+--- Page 31 ---
+Cases 22-E-0064 and 22-G-0065 
+ 
+Staff Depreciation Panel 
+ 
+ 
+30 
+ 
+to the gas book to theoretical reserve 
+1 
+deficiency. 
+2 
+A. 
+Under our recommended depreciation rates, the 
+3 
+gas plant reserve deficiency is approximately 
+4 
+$451 million, or $242 million less than the 
+5 
+Company’s reserve deficiency.  After applying 
+6 
+the 10 percent tolerance band, the Company would 
+7 
+recover approximately $230.8 million over 20 
+8 
+years, resulting in an annual amortization of 
+9 
+$11.54 million, approximately $10.9 million less 
+10 
+than the Company’s proposal.    
+11 
+Q. 
+To what extent is the common plant reserve 
+12 
+deficient or in excess? 
+13 
+A. 
+On pages 58 to 59 of the initial testimony of 
+14 
+the Depreciation Panel, the Company states that 
+15 
+its common book to theoretical reserve shows an 
+16 
+approximate deficiency of $75.7 million, or 6.3 
+17 
+percent above the book reserve. 
+18 
+Q. 
+Does the Company propose to amortize this common 
+19 
+plant reserve deficiency? 
+20 
+A. 
+No. 
+21 
+Q. 
+Does the Panel agree with the Company regarding 
+22 
+the common plant reserve deficiency? 
+23 
+A. 
+Yes.  We agree with the Company that no 
+24 
+
+
+--- Page 32 ---
+Cases 22-E-0064 and 22-G-0065 
+ 
+Staff Depreciation Panel 
+ 
+ 
+31 
+ 
+amortization of the common plant deficiency is 
+1 
+necessary as it is within the 10 percent 
+2 
+tolerance band of the book to theoretical 
+3 
+reserve. 
+4 
+Q. 
+Are there any other amortizations the Company is 
+5 
+requesting?  
+6 
+A. 
+Yes.  As stated on page 60 of the initial 
+7 
+testimony of the Depreciation Panel, the Company 
+8 
+also proposes to continue its $3.8 million per 
+9 
+year recovery of the stranded costs associated 
+10 
+with its Hudson Avenue substation.  This 
+11 
+recovery was authorized in the January 25, 2017 
+12 
+Order Approving Electric and Gas Rate Plans, 
+13 
+issued in Case 16-E-0060, and was continued in 
+14 
+the 2020 Rate Order.   
+15 
+Q. 
+Does the Panel agree with the Company’s proposal 
+16 
+to continue the recovery of the Hudson Avenue 
+17 
+Station? 
+18 
+A. 
+Yes. 
+19 
+Q.  Does this conclude the Panel’s testimony at this 
+20 
+time? 
+21 
+A.  Yes. 
+22 
+ 
+23 
+ 
+24 

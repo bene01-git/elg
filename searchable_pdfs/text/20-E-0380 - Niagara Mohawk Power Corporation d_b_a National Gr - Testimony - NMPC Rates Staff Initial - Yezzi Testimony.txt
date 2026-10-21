@@ -1,0 +1,1302 @@
+--- Page 1 ---
+ 
+ 
+ 
+BEFORE THE 
+STATE OF NEW YORK 
+PUBLIC SERVICE COMMISSION 
+ 
+ 
+ 
+In the Matter of 
+ 
+Niagara Mohawk Power Corporation d/b/a National Grid 
+ 
+Cases 20-E-0380 & 20-G-0381 
+ 
+November 25, 2020 
+ 
+ 
+ 
+Prepared Testimony of: 
+ 
+McKenzie Yezzi 
+Senior Economist 
+ 
+Office of 
+Regulatory Economics 
+ 
+State of New York 
+Department of Public Service 
+Three Empire State Plaza 
+Albany, New York 12223-1350 
+ 
+
+
+--- Page 2 ---
+Cases 20-E-0380 & 20-G-0381 
+YEZZI 
+ 
+ 
+1 
+ 
+Q. 
+Please state your name and business address. 
+1 
+A. 
+My name is McKenzie Yezzi.  My business address 
+2 
+is Three Empire State Plaza, Albany, NY 12223. 
+3 
+Q. 
+By whom are you employed, and in what capacity? 
+4 
+A. 
+I am employed by the Department of Public 
+5 
+Service (Department) as a Senior Economist. 
+6 
+Q. 
+Please briefly discuss your related educational 
+7 
+background and professional experience. 
+8 
+A. 
+I received a Bachelor of Arts in Economics from 
+9 
+The George Washington University in 2012 and a 
+10 
+Master of Science in Applied Economics from the 
+11 
+University of North Dakota in 2016.  Prior to 
+12 
+joining the Department, I worked for the New 
+13 
+York Independent System Operator, Inc. from 2013 
+14 
+through 2015 as a Settlements Operation Analyst, 
+15 
+where I was responsible for reconciling 
+16 
+operational metering, generator, and transaction 
+17 
+data for settlement purposes.  Previously, I 
+18 
+worked for the State University of New York at 
+19 
+Albany as a Business Advisor from 2015 through 
+20 
+2017.  I have worked for the Department since 
+21 
+July 2017. 
+22 
+Q. 
+Ms. Yezzi, have you previously filed testimony 
+23 
+before the Commission? 
+24 
+
+
+--- Page 3 ---
+Cases 20-E-0380 & 20-G-0381 
+YEZZI 
+ 
+ 
+2 
+ 
+A. 
+Yes.  I testified before the Commission on sales 
+1 
+forecasting issues in Case 17-E-0459, the 
+2 
+Central Hudson electric rate proceeding; Cases 
+3 
+18-E-0067 and 18-G-0068, the Orange & Rockland 
+4 
+Utilities, Inc. electric and gas rate 
+5 
+proceedings; and Cases 19-E-0380 and 19-E-0378, 
+6 
+Rochester Gas and Electric Corporation and New 
+7 
+York State Electric & Gas Corporation rate 
+8 
+proceedings, respectively. I also testified 
+9 
+before the New York State Board on Electric 
+10 
+Generation Siting and the Environment regarding 
+11 
+the siting of Bluestone Wind, LLC in Case 16-F-
+12 
+0559, the siting of Mohawk Solar, LLC in Case 
+13 
+17-F-0182 and the siting of East Point Energy 
+14 
+Center, LLC in Case 17-F-0599 under Public 
+15 
+Service Law Article 10. 
+16 
+ 
+17 
+Purpose of Testimony and Forecast Summary 
+18 
+Q. 
+What is the purpose of your testimony in these 
+19 
+proceedings? 
+20 
+A. 
+The purpose of my testimony is to present 
+21 
+Staff’s evaluation of the gas customer count and 
+22 
+delivery forecasts filed by Niagara Mohawk Power 
+23 
+Corporation d/b/a National Grid (NMPC or the 
+24 
+
+
+--- Page 4 ---
+Cases 20-E-0380 & 20-G-0381 
+YEZZI 
+ 
+ 
+3 
+ 
+Company) within the testimony prepared by 
+1 
+Company expert Theodore E. Poe, Jr.  I also 
+2 
+propose alternative forecasts when appropriate. 
+3 
+Q. 
+Are you sponsoring any exhibits? 
+4 
+A. 
+Yes, I am sponsoring three exhibits.  
+5 
+Exhibit__(MY-1) contains the Companies’ 
+6 
+responses to interrogatories (IR).  When 
+7 
+referring to the responses to IRs, I will refer 
+8 
+to the designation given to them when issued, 
+9 
+e.g., “DPS-123.”  Exhibit__(MY-2) contains my 
+10 
+recommended gas delivery forecasts for the Rate 
+11 
+Year and outlying years.  Exhibit__(MY-3) 
+12 
+contains my econometric customer and volume 
+13 
+models and related statistical output. 
+14 
+Q. 
+Please summarize the Company’s forecast of gas 
+15 
+deliveries for the 12 months ending June 30, 
+16 
+2022 (Rate Year). 
+17 
+A. 
+The Company’s updated testimony filed on 
+18 
+October 15, 2020 forecasts total gas deliveries 
+19 
+of 1,685 million therms for the Rate Year.  This 
+20 
+represents a 1.98 percent increase over the 
+21 
+Company’s actual deliveries of 1,652 therms for 
+22 
+the 12 months ending July 31, 2020.  Weather-
+23 
+normalized deliveries, according to the 
+24 
+
+
+--- Page 5 ---
+Cases 20-E-0380 & 20-G-0381 
+YEZZI 
+ 
+ 
+4 
+ 
+Company’s normalization process, were 1,692 
+1 
+therms during the same time period. 
+2 
+Q. 
+Do you agree with the Rate Year gas delivery 
+3 
+forecasts presented by the Company in these 
+4 
+proceedings? 
+5 
+A. 
+No.  I have three concerns regarding the gas 
+6 
+customer count and delivery forecasts presented 
+7 
+by the Company, as follows.  First, the Company 
+8 
+omitted the most recent available economic data 
+9 
+from its customer and delivery models.  Second, 
+10 
+several of the Company’s delivery models lack 
+11 
+relevant explanatory independent variables.  
+12 
+Third, the Company used a 30-year weather 
+13 
+average to forecast normal weather in its 
+14 
+delivery models.  I will discuss these concerns 
+15 
+in greater detail later in my testimony.  
+16 
+Q. 
+Did you develop your own gas customer count and 
+17 
+delivery forecasts for this case? 
+18 
+A. 
+Yes.  I developed customer forecasts for the 
+19 
+Residential Heat and Commercial customer groups 
+20 
+for both the East Gate and West Gate regions.  I 
+21 
+also developed delivery forecasts for the 
+22 
+Residential Heat, Commercial, and Other customer 
+23 
+groups, for both the East Gate and West Gate 
+24 
+
+
+--- Page 6 ---
+Cases 20-E-0380 & 20-G-0381 
+YEZZI 
+ 
+ 
+5 
+ 
+regions. 
+1 
+Q. 
+Do you recommend any adjustments to the customer 
+2 
+forecasts for the Residential Non-Heat, 
+3 
+Industrial or Other customer groups filed by the 
+4 
+Company? 
+5 
+A. 
+No.  I do not recommend any adjustments to the 
+6 
+customer forecasts for the Residential Non-Heat, 
+7 
+Industrial or Other customer groups.  Both the 
+8 
+Industrial and Other customer groups consist of 
+9 
+a few larger gas customers known to the Company.  
+10 
+Thus, the Company may likely possess more direct 
+11 
+knowledge regarding these customers’ plans to 
+12 
+either join or remove from service.  In 
+13 
+addition, groups with fewer and more varied 
+14 
+types of customers are less conducive to 
+15 
+econometric modelling than large customer groups 
+16 
+of generally homogeneous customers. 
+17 
+Q. 
+Do you recommend any adjustments to the delivery 
+18 
+forecasts for the Residential Non-Heat or 
+19 
+Industrial customer groups? 
+20 
+A. 
+No.  I do not recommend any adjustments to the 
+21 
+Company’s delivery forecasts for these customer 
+22 
+groups.  However, I recommend that the Company 
+23 
+update the delivery forecasts for these customer 
+24 
+
+
+--- Page 7 ---
+Cases 20-E-0380 & 20-G-0381 
+YEZZI 
+ 
+ 
+6 
+ 
+groups to reflect a 10-year weather average as 
+1 
+part of the Company’s responsive testimony.  
+2 
+This process will result in different forecasted 
+3 
+deliveries than those presented by the Company 
+4 
+in their earlier “Corrections and Updates” 
+5 
+filing in this proceeding. 
+6 
+Q. 
+Did the Company perform any adjustments to the 
+7 
+gas customer count and delivery forecasts 
+8 
+outside of the econometric models used to 
+9 
+develop these forecasts? 
+10 
+A. 
+Yes.  The Company performed manual adjustments 
+11 
+to its econometric customer and delivery 
+12 
+forecasts to reflect the impact of several 
+13 
+simultaneously occurring phenomena: energy 
+14 
+efficiency savings associated with the Enhanced 
+15 
+Efficiency and New Efficiency: New York 
+16 
+programs; electrification of heat; the proposed 
+17 
+reassignment of customers to other service 
+18 
+classifications as part of this proceeding; and 
+19 
+conversion from meter count to customer count 
+20 
+forecasts.  I describe these as “manual 
+21 
+adjustments” as these adjustments were made 
+22 
+outside of the econometric modelling process. 
+23 
+Q. 
+Did you evaluate the above manual adjustments 
+24 
+
+
+--- Page 8 ---
+Cases 20-E-0380 & 20-G-0381 
+YEZZI 
+ 
+ 
+7 
+ 
+contained in the Company’s forecasting process? 
+1 
+A. 
+Yes.  I reviewed the Company’s manual 
+2 
+adjustments for energy efficiency and 
+3 
+electrification of heat and found them to be 
+4 
+reasonable.  I incorporated these same 
+5 
+adjustments into my recommended gas customer and 
+6 
+delivery forecasts.  Likewise, I have been 
+7 
+informed that the customer service class 
+8 
+reassignments proposed by the Company in this 
+9 
+proceeding have been accepted by the Staff 
+10 
+Electric and Gas Rates Panel.  Accordingly, I 
+11 
+reflected this in developing my customer count 
+12 
+forecasts. 
+13 
+Q. 
+Please summarize your gas deliveries forecast 
+14 
+for the Rate Year. 
+15 
+A. 
+As shown in Exhibit___(MY-2), I forecast total 
+16 
+gas deliveries of 1,649 million therms for the 
+17 
+Rate Year.  This forecast is 2.22 percent below 
+18 
+the Company’s updated forecast for the Rate 
+19 
+Year.  My forecast is 0.19 percent different 
+20 
+from the most recent 12 months of actual 
+21 
+delivery data ending in July 2020.  
+22 
+ 
+23 
+ 
+24 
+
+
+--- Page 9 ---
+Cases 20-E-0380 & 20-G-0381 
+YEZZI 
+ 
+ 
+8 
+ 
+Review of Econometric Models 
+1 
+Q. 
+Please give a brief overview of the econometric 
+2 
+models used by the Company to produce its 
+3 
+forecasts of Residential Heat, Commercial, and 
+4 
+Other gas sales. 
+5 
+A. 
+The Company developed econometric on- and off-
+6 
+peak gas delivery forecasts for the Residential 
+7 
+Heat, Commercial and Other customer groups for 
+8 
+both the East and West Gate areas, with the 
+9 
+exception of the off-peak Other delivery 
+10 
+forecast in East Gate, for which no econometric 
+11 
+model was provided.  All of the Company’s gas 
+12 
+delivery forecasts were created via use-per-
+13 
+customer model estimates that the Company 
+14 
+multiplied by its customer model estimates. 
+15 
+Q. 
+What forecast drivers did the Company use to 
+16 
+define its delivery models? 
+17 
+A. 
+The volume forecasts presented by the Company 
+18 
+rely primarily on weather as the driving factor.  
+19 
+In fact, weather is frequently the only 
+20 
+structural explanatory variable included in the 
+21 
+Company’s econometric models, with no economic 
+22 
+variable included to help predict the demand for 
+23 
+future gas deliveries. 
+24 
+
+
+--- Page 10 ---
+Cases 20-E-0380 & 20-G-0381 
+YEZZI 
+ 
+ 
+9 
+ 
+Q. 
+For what forecasts did the Company not include 
+1 
+any explanatory variables other than weather? 
+2 
+A. 
+Neither the on-peak nor the off-peak Residential 
+3 
+Heat volume models in both East and West Gate 
+4 
+use any explanatory variables other than 
+5 
+weather.  In addition, the on-peak Other volume 
+6 
+model for the West Gate region also relies 
+7 
+solely on weather as an explanatory variable, 
+8 
+and the off-peak Other delivery forecast for the 
+9 
+East Gate region did not use an econometric 
+10 
+estimating structure. 
+11 
+Q. 
+Which of the Company’s delivery models include 
+12 
+explanatory variables other than weather? 
+13 
+A. 
+The East Gate on-peak Commercial delivery model 
+14 
+includes GDP and the East Gate off-peak 
+15 
+Commercial delivery model includes non-
+16 
+manufacturing employment alongside weather.  The 
+17 
+East Gate on-peak Other delivery model includes 
+18 
+manufacturing employment in addition to weather.  
+19 
+The West Gate on-peak Commercial delivery model 
+20 
+includes retail sales and the West Gate off-peak 
+21 
+Commercial delivery model includes GDP alongside 
+22 
+weather.  The West Gate off-peak Other delivery 
+23 
+model includes NMPC’s industrial gas price. 
+24 
+
+
+--- Page 11 ---
+Cases 20-E-0380 & 20-G-0381 
+YEZZI 
+ 
+ 
+10 
+ 
+Q. 
+Please give a brief overview of the econometric 
+1 
+models the Company used to produce its forecasts 
+2 
+of Residential Heat and Commercial gas 
+3 
+customers. 
+4 
+A. 
+The Company forecasts the number of Residential 
+5 
+Heat and Commercial customers using econometric 
+6 
+models.  The Residential Heat customer models 
+7 
+use households in the East Gate region and 
+8 
+income and a time-trend variable in the West 
+9 
+Gate region as explanatory variables.  The 
+10 
+Commercial customer models use GDP and the gas-
+11 
+to-oil price ratio in the East Gate region and 
+12 
+GDP and manufacturing employment in the West 
+13 
+Gate region as explanatory variables. 
+14 
+Q. 
+Is there any other pertinent information to 
+15 
+discuss regarding the gas customer count 
+16 
+forecasts? 
+17 
+A. 
+Yes.  Although colloquially referred to as 
+18 
+“customer count” forecasts in both the Company 
+19 
+and Staff’s testimony, it is important to note 
+20 
+that the econometric models actually forecast 
+21 
+meter counts.  The meter counts are then 
+22 
+converted to customer counts based on service 
+23 
+classification specific meter-to-customer 
+24 
+
+
+--- Page 12 ---
+Cases 20-E-0380 & 20-G-0381 
+YEZZI 
+ 
+ 
+11 
+ 
+ratios. 
+1 
+Q. 
+How do your recommended econometric models 
+2 
+differ from those presented by the Company? 
+3 
+A. 
+Generally, my econometric models focus on 
+4 
+capturing relevant economic explanatory 
+5 
+variables to most accurately predict future gas 
+6 
+customers and deliveries.  One of the primary 
+7 
+purposes of econometric analysis and forecasting 
+8 
+is to identify and quantify the predictive 
+9 
+relationships surrounding a dependent variable 
+10 
+of interest in order to better understand the 
+11 
+impact of these relationships on the variable 
+12 
+being estimated.  Thorough and proper model 
+13 
+specification is crucial to predicting future 
+14 
+gas customers and deliveries, while 
+15 
+underspecified models risk excluding relevant 
+16 
+information that can explain future behavior of 
+17 
+these series.  My volume models also rely on a 
+18 
+10-year weather average.  
+19 
+Q. 
+Are your models structured similarly to the 
+20 
+model format presented by the Company? 
+21 
+A. 
+Like the Company’s, my Residential Heat and 
+22 
+Commercial customer count models break out the 
+23 
+East Gate and West Gate regions.  However, I 
+24 
+
+
+--- Page 13 ---
+Cases 20-E-0380 & 20-G-0381 
+YEZZI 
+ 
+ 
+12 
+ 
+developed annual/total delivery models for the 
+1 
+Residential Heat, Commercial, and Other customer 
+2 
+groups for both East Gate and West Gate.  The 
+3 
+Company developed on- and off-peak volume models 
+4 
+for each customer group to account for seasonal 
+5 
+variations in volumes, for a total of four 
+6 
+delivery forecasts per customer group.  Instead, 
+7 
+I modelled seasonality as an endogenous part of 
+8 
+an annual delivery model. 
+9 
+ 
+10 
+Issues with Company’s Forecasts 
+11 
+Q. 
+Did the Company update any its forecast models 
+12 
+in its October 15 Corrections and Updates filing 
+13 
+in this proceeding? 
+14 
+A. 
+Yes.  The Company updated its gas customer count 
+15 
+and delivery forecasts to include more recently 
+16 
+available historical customer count and delivery 
+17 
+data.  In its initial filing, the Company 
+18 
+included customer count and delivery data 
+19 
+through March 2020.  In the Corrections and 
+20 
+Updates filing, it added historical customer 
+21 
+count and delivery data from March through July 
+22 
+2020.  The Company also updated the weather data 
+23 
+used in its modelling through 2019. 
+24 
+
+
+--- Page 14 ---
+Cases 20-E-0380 & 20-G-0381 
+YEZZI 
+ 
+ 
+13 
+ 
+Q. 
+Why is it important to update forecast models 
+1 
+with the freshest-available data? 
+2 
+A. 
+In general, a given forecast’s accuracy 
+3 
+decreases the farther it moves from known data 
+4 
+into a future period.  For this reason, forecast 
+5 
+accuracy and performance can be maximized by 
+6 
+utilizing the most recent available data. 
+7 
+Q. 
+In light of this, did the Company also update 
+8 
+the Moody’s economic data used for explanatory 
+9 
+variables as part of its October 15 Corrections 
+10 
+and Updates filing? 
+11 
+A. 
+No.  The Company’s updated forecast contains the 
+12 
+same economic data as its original filing, 
+13 
+dating back to April 2020. 
+14 
+Q. 
+Do you agree with this approach? 
+15 
+A. 
+No.  As mentioned above, forecasts benefit from 
+16 
+the most recent historical data as a jumping off 
+17 
+point into future predicted periods.  These past 
+18 
+four months of new economic data spanning May-
+19 
+August 2020 become even more important during a 
+20 
+time of widespread national, statewide and 
+21 
+regional socioeconomic changes associated with 
+22 
+the COVID-19 global pandemic, which presents a 
+23 
+substantive source of change to forecasts of gas 
+24 
+
+
+--- Page 15 ---
+Cases 20-E-0380 & 20-G-0381 
+YEZZI 
+ 
+ 
+14 
+ 
+customers and deliveries that is not represented 
+1 
+in historical data.  More recent economic data 
+2 
+can reflect the many impacts COVID-19 has had 
+3 
+this year, including impacts to commercial 
+4 
+business productivity, population movement 
+5 
+between regions of New York State, and higher 
+6 
+unemployment rates.  The Commission’s Order 
+7 
+instituting Case 20-M-0266 indicates that “the 
+8 
+COVID-19 pandemic has meaningfully affected the 
+9 
+public health and the daily lives of the people 
+10 
+of the State of New York, and is creating a 
+11 
+downturn for the economy of the State of New 
+12 
+York, as well as the world.”  
+13 
+Q.  Are there any other issues arising from the 
+14 
+Company’s decision not to incorporate a more 
+15 
+recent Moody’s update in their sales forecasts? 
+16 
+A.  Yes.  Not only does Moody’s update its 
+17 
+historical economic data as it becomes 
+18 
+available, but Moody’s also updates and changes 
+19 
+its forecasts of key economic measures in the 
+20 
+future period with every release.  The economic 
+21 
+outlook and forecast at the beginning of the 
+22 
+pandemic in Spring 2020 may differ substantially 
+23 
+from the economic outlook in Fall 2020 and 
+24 
+
+
+--- Page 16 ---
+Cases 20-E-0380 & 20-G-0381 
+YEZZI 
+ 
+ 
+15 
+ 
+beyond as the pandemic continues to progress.  
+1 
+For instance, the forecasts of socioeconomic 
+2 
+measures such as GDP, employment, and population 
+3 
+are partially dependent on the extent of the 
+4 
+disease spread, the potential for continued 
+5 
+shutdowns, and the depth and breadth of the 
+6 
+recession.  The significant impact of the 
+7 
+pandemic as well as its wide-ranging economic 
+8 
+implications makes the importance of using an 
+9 
+updated economic forecast more pivotal than 
+10 
+ever. 
+11 
+Q. 
+Do you have any additional concerns regarding 
+12 
+the Company’s econometric sales models? 
+13 
+A. 
+Yes.  Some of the Company’s econometric models, 
+14 
+including its Residential Heat and Other volume 
+15 
+models, do not contain relevant economic 
+16 
+explanatory variables. 
+17 
+Q. 
+Is this cause for concern? 
+18 
+A. 
+Yes.  This could result in model under-
+19 
+specification, which occurs when a model omits 
+20 
+relevant explanatory variables.  Model under-
+21 
+specification can create statistical issues in 
+22 
+the estimation procedure that degrade the 
+23 
+accuracy and interpretation of the model’s 
+24 
+
+
+--- Page 17 ---
+Cases 20-E-0380 & 20-G-0381 
+YEZZI 
+ 
+ 
+16 
+ 
+statistical output.  Omitted variable bias can 
+1 
+result in too much weight being given to the 
+2 
+explanatory power of the limited number of 
+3 
+variables included in the model.  Such 
+4 
+specification errors can also result in a biased 
+5 
+forecast.   
+6 
+Q. 
+Why is it important for an econometric model to 
+7 
+be properly specified? 
+8 
+A. 
+Econometric regression models attempt to 
+9 
+mathematically describe or predict the behavior 
+10 
+of a variable of interest, called a dependent 
+11 
+variable, through that variable’s relationship 
+12 
+with other independent or explanatory variables.  
+13 
+Selecting and defining the appropriate 
+14 
+independent variables is critical in producing 
+15 
+accurate and econometrically sound model 
+16 
+coefficient estimates and forecasts. 
+17 
+Q. 
+How do you interpret those Company delivery 
+18 
+models which do not contain any independent 
+19 
+economic variables? 
+20 
+A. 
+The absence of economic explanatory variables in 
+21 
+the Company’s four Residential Heat delivery 
+22 
+models, East Gate off-peak Other delivery model, 
+23 
+and West Gate on-peak Other delivery model lead 
+24 
+
+
+--- Page 18 ---
+Cases 20-E-0380 & 20-G-0381 
+YEZZI 
+ 
+ 
+17 
+ 
+me to infer that the Company presumes these 
+1 
+volumes are not responsive to nor meaningfully 
+2 
+impacted by socioeconomic trends and changes.  
+3 
+However, this assumption is not consistent with 
+4 
+basic economic principles, which state that 
+5 
+consumption of most goods and services is 
+6 
+partially determined by income, price, and other 
+7 
+economic measures.  In fact, roughly 50 percent 
+8 
+of the Company’s forecasted deliveries for the 
+9 
+Rate Year are developed from econometric models 
+10 
+which assume no socioeconomic influence on gas 
+11 
+delivery levels.  
+12 
+Q. 
+Do you have any other concerns regarding the 
+13 
+Company’s forecasts in this proceeding? 
+14 
+A. 
+Yes.  The Company relies on a 30-year average to 
+15 
+weather normalize its gas sales forecasts.  In 
+16 
+contrast, I propose normalizing the gas delivery 
+17 
+forecasts used for rate year rate design 
+18 
+purposes using a 10-year average.  On page 15 of 
+19 
+its Order Adopting Recommended Decision With 
+20 
+Modifications, issued on June 22, 2009 in Cases 
+21 
+08-E-0887, 08-G-0888, and 09-M-0004, the 
+22 
+Commission stated, “[t]herefore, consistent with 
+23 
+the approach taken by the EIA, we will adopt the 
+24 
+
+
+--- Page 19 ---
+Cases 20-E-0380 & 20-G-0381 
+YEZZI 
+ 
+ 
+18 
+ 
+most recent 10-year averages for purposes of 
+1 
+providing heating and cooling degree-day inputs 
+2 
+to the sales forecasts in this case.  
+3 
+Furthermore, we expect these averages to be 
+4 
+utilized for forecasting purposes in future rate 
+5 
+filings.”  A 10-year average weather 
+6 
+normalization more reasonably reflects 
+7 
+anticipated weather trends relevant to 
+8 
+forecasting monthly billed sales for rate 
+9 
+setting purposes. 
+10 
+Q. 
+Since the Commission’s June 22, 2009 Order in 
+11 
+Cases 08-E-0887, 08-G-0888, and 09-M-0004, has 
+12 
+there been any more recent evidence to support 
+13 
+the reasonableness of using a 10-year weather 
+14 
+average for the Upstate New York region? 
+15 
+A. 
+Yes.  In December 2019, The New York Independent 
+16 
+System Operator issued a Climate Change Impact 
+17 
+Study, which found that the statewide average 
+18 
+temperature has increased by 1.1 degrees on 
+19 
+average per decade beginning in 1992.  The study 
+20 
+specifically anticipates that NMPC’s service 
+21 
+territory will experience an average temperature 
+22 
+increase of 0.7 degrees during the decade that 
+23 
+began in 2020.  
+24 
+
+
+--- Page 20 ---
+Cases 20-E-0380 & 20-G-0381 
+YEZZI 
+ 
+ 
+19 
+ 
+Q. 
+Are there any potential issues related to the 
+1 
+use of a 30-year weather average rather than a 
+2 
+10-year weather average in the development of 
+3 
+retail sales forecasts? 
+4 
+A. 
+Yes.  Given the trend of increasing 
+5 
+temperatures, the use of a 30-year weather 
+6 
+average would improperly overstate the 
+7 
+anticipated number of HDD in the rate year 
+8 
+forecast period, resulting in a sales forecast 
+9 
+that is partially predicated upon colder weather 
+10 
+than the Upstate New York region can be expected 
+11 
+to typically experience. This would result in an 
+12 
+unreasonably higher and biased sales forecast 
+13 
+and would lead to inaccurate decisions regarding 
+14 
+rate design as well as revenue recovery.  
+15 
+Q. 
+Why is the proper modelling of weather 
+16 
+conditions important in developing gas sales 
+17 
+forecasts for rate design purposes? 
+18 
+A. 
+The purpose of a retail sales forecast is to 
+19 
+predict deliveries with the highest degree of 
+20 
+accuracy in order to generate reasonable retail 
+21 
+delivery rates for ratepayers.  A sales forecast 
+22 
+premised on unduly conservative or aggressive 
+23 
+assumptions compromises the sales forecast’s 
+24 
+
+
+--- Page 21 ---
+Cases 20-E-0380 & 20-G-0381 
+YEZZI 
+ 
+ 
+20 
+ 
+role in establishing appropriate rate design and 
+1 
+revenue collection mechanisms.  The retail sales 
+2 
+forecast predicts future deliveries based not 
+3 
+only on trends in past customer and usage data, 
+4 
+but also on anticipated changes in trends 
+5 
+relevant to gas usage levels, be they 
+6 
+macroeconomic, policy-based, or weather-related. 
+7 
+A retail sales forecast must be forward-facing 
+8 
+and responsive to anticipated changes in the 
+9 
+forecast period in order to accurately predict 
+10 
+future deliveries and allow for appropriate rate 
+11 
+design. 
+12 
+ 
+13 
+Recommendations 
+14 
+Q. 
+What is your final recommendation regarding gas 
+15 
+sales forecasting in this case? 
+16 
+A. 
+The Commission should adopt my gas sales 
+17 
+forecasts for the Residential Heat, Commercial 
+18 
+and Other customer groups because they reflect 
+19 
+the more current economic conditions and outlook 
+20 
+with respect to COVID-19.  Additionally, I 
+21 
+developed them based on more reasonable 
+22 
+econometric models.  Furthermore, I used a 10-
+23 
+year weather average that more reasonably 
+24 
+
+
+--- Page 22 ---
+Cases 20-E-0380 & 20-G-0381 
+YEZZI 
+ 
+ 
+21 
+ 
+considers changing weather patterns in New York 
+1 
+State.   
+2 
+Q. 
+Does this conclude your testimony at this time? 
+3 
+A. 
+Yes. 
+4 
+ 
+5 
+ 
+6 
+ 
+7 
+ 
+8 
+ 
+9 
+ 
+10 
+ 
+11 
+ 
+12 
+ 
+13 
+ 
+14 
+ 
+15 
+ 
+16 
+ 
+17 
+ 
+18 
+ 
+19 
+ 
+20 
+ 
+21 
+ 
+22 
+ 
+23 
+ 
+24 

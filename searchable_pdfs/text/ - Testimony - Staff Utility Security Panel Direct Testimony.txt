@@ -1,0 +1,2111 @@
+--- Page 1 ---
+ 
+ 
+ 
+ 
+ 
+ 
+BEFORE THE 
+STATE OF NEW YORK 
+PUBLIC SERVICE COMMISSION 
+ 
+ 
+ 
+In the Matter of 
+ 
+Consolidated Edison Company of New York, Inc. 
+ 
+Cases 25-E-0072 and 25-G-0073 
+ 
+May 2022 
+______________________________________________________________ 
+ 
+Prepared Testimony of the Staff 
+Utility Security Panel 
+ 
+Keith Haugen, Utility Supervisor  
+ 
+Thomas McNaughton, Utility 
+Security Specialist 2  
+ 
+Eric Kerr, Utility Security 
+Specialist 2 
+ 
+ 
+Office of Resilience, Nuclear 
+Affairs, Security & Emergency 
+Preparedness  
+State of New York 
+Department of Public Service 
+Three Empire State Plaza 
+Albany, New York 12223-1350 
+
+
+--- Page 2 ---
+Cases 25-E-0072 & 25-G-0073   STAFF UTIITY SECURITY PANEL 
+  
+ 
+ 
+1 
+ 
+Q. 
+Members of the Staff Physical and Cybersecurity 
+1 
+Panel, referred to as the SPCSP or Panel, please 
+2 
+state your names, employer, and business 
+3 
+addresses. 
+4 
+A. 
+I am Keith Haugen.  I am employed by the 
+5 
+Department of Public Service, referred to as 
+6 
+Department, Three Empire State Plaza, Albany, 
+7 
+New York 12223.  
+8 
+Q. 
+Mr. Haugen, what is your position at the 
+9 
+Department? 
+10 
+A. 
+I am a Utility Supervisor, assigned to the 
+11 
+Utility Security Section within the Office of 
+12 
+Resilience and Emergency Preparedness. 
+13 
+Q. 
+Please provide a summary of your educational and 
+14 
+professional experience 
+15 
+A. 
+I graduated with a B.S. in Information 
+16 
+Technology from Empire State College in May of 
+17 
+2016.  I am also certified as a Certified 
+18 
+Information Systems Security Professional 
+19 
+(CISSP) and a GIAC Systems and Network Auditor 
+20 
+(GSNA).  Beyond that, I have attended numerous 
+21 
+courses and workshops on cybersecurity.  My 
+22 
+previous professional work experience consists 
+23 
+of five years as a computer programmer for 
+24 
+
+
+--- Page 3 ---
+Cases 25-E-0072 & 25-G-0073   STAFF UTIITY SECURITY PANEL 
+  
+ 
+ 
+2 
+ 
+Newkirk Products, where I started as a junior 
+1 
+programmer and eventually a senior programmer 
+2 
+and supervisor of my unit, overseeing the work 
+3 
+of six to seven programmers of varying skill 
+4 
+levels.  For two years following Newkirk, I 
+5 
+developed workflow applications for Higher 
+6 
+Education Systems Corporation as an IT 
+7 
+Specialist 2.  I joined the Utility Security 
+8 
+Section in July of 2008.    
+9 
+Q. 
+Please describe your current duties with the 
+10 
+Utility Security Section. 
+11 
+A. 
+My current responsibilities include conducting 
+12 
+cyber security vulnerability assessments of 
+13 
+critical facilities and corporate IT systems, 
+14 
+which are owned and operated by the energy, gas, 
+15 
+telecommunications, and water utilities.  
+16 
+Q. 
+Have you previously testified before the Public 
+17 
+Service Commission, referred to as Commission? 
+18 
+A. 
+Yes.  I testified in Cases 19-G-0309 and 19-G-
+19 
+0310, The Brooklyn Union Gas Company, d/b/a 
+20 
+National Grid and NY KeySpan Gas East 
+21 
+Corporation, d/b/a National Grid. 
+22 
+A. 
+I am Thomas P. McNaughton.  I am employed by the 
+23 
+Department and my work address is Three Empire 
+24 
+
+
+--- Page 4 ---
+Cases 25-E-0072 & 25-G-0073   STAFF UTIITY SECURITY PANEL 
+  
+ 
+ 
+3 
+ 
+State Plaza, Albany, New York 12223.  
+1 
+Q. 
+Mr. McNaughton, what is your position at the 
+2 
+Department? 
+3 
+A. 
+I am employed as a Utility Security Specialist 2 
+4 
+in the Utility Security Section within the 
+5 
+Office of Resilience, Utility security, Nuclear 
+6 
+Affairs & Emergency Preparedness.  
+7 
+Q.  Please state your educational background and 
+8 
+professional experience. 
+9 
+A. 
+Before I joined the Department in 2019, I was 
+10 
+employed by the Time Warner Cable/Spectrum 
+11 
+Communications, responsible for Physical 
+12 
+Security, Internal, External and Compliance 
+13 
+related investigations.  Prior to that I was 
+14 
+employed by the NYS Department of Insurance, The 
+15 
+NYS Attorney General’s Office Organized Crime 
+16 
+Task Force, and The City of Buffalo Police 
+17 
+Department.  I am certified in numerous Incident 
+18 
+Command System Disaster and Preparedness 
+19 
+training, Criminal and Investigative Training 
+20 
+and Critical Infrastructure Security Training.  
+21 
+Collectively, I have over 30 years of law 
+22 
+enforcement, investigative, compliance, and 
+23 
+security training and experience.  
+24 
+
+
+--- Page 5 ---
+Cases 25-E-0072 & 25-G-0073   STAFF UTIITY SECURITY PANEL 
+  
+ 
+ 
+4 
+ 
+Q.  Please describe your present duties in the 
+1 
+Utility Security Section.  
+2 
+A. 
+My current responsibilities include performing 
+3 
+physical and electronic security vulnerability 
+4 
+assessments of critical facilities which are 
+5 
+owned and operated by the energy, water and 
+6 
+telecommunication utilities regulated by the 
+7 
+Commission. 
+8 
+Q. 
+Mr. McNaughton, have you previously testified 
+9 
+before the Commission? 
+10 
+A. 
+Yes. I have previously testified before the 
+11 
+Commission in several rate proceedings, 
+12 
+including, but not limited to, the following: 
+13 
+Cases 22-E-0064 and 22-G-0065, Consolidated 
+14 
+Edison Company of New York Inc., referred to as 
+15 
+Con Edison or the Company, as well as Cases 24-
+16 
+E-0322 and 24-G-0323, Niagara Mohawk Power 
+17 
+Corporation, d/b/a National Grid. 
+18 
+Q. 
+Mr. Kerr, what is your position at the 
+19 
+Department?  
+20 
+A. 
+I am employed by the Department of Public 
+21 
+Service, as a Utility Security Specialist 2 in 
+22 
+the Utility Security Section within the Office  
+23 
+
+
+--- Page 6 ---
+Cases 25-E-0072 & 25-G-0073   STAFF UTIITY SECURITY PANEL 
+  
+ 
+ 
+5 
+ 
+of Resilience, Utility Security, Nuclear Affairs 
+1 
+and Emergency Preparedness.  
+2 
+Q.  Please summarize your education and work 
+3 
+experience.  
+4 
+A. 
+Prior to joining the Department in 2024, I was 
+5 
+employed by the Office of Developmental 
+6 
+Disabilities as an Emergency Manager.  My 
+7 
+responsibilities included but were not limited 
+8 
+to, regional Emergency Management with emergency 
+9 
+preparedness and response across New York State.  
+10 
+I am Certified in Incident Command System 
+11 
+Disaster and Preparedness Training, and I 
+12 
+received my Critical Infrastructure Protection 
+13 
+Certificate through the Texas A&M University.   
+14 
+Q.   Please describe your current duties with the 
+15 
+Utility Security Section at the Department.  
+16 
+A.   Since joining the Utility Security Section in 
+17 
+2024, my responsibilities have included 
+18 
+performing physical security vulnerability 
+19 
+assessments of critical facilities which are 
+20 
+owned or operated by energy, water and 
+21 
+telecommunication utilities regulated by the New 
+22 
+York Public Service Commission, referred to as 
+23 
+the Commission.   
+24 
+
+
+--- Page 7 ---
+Cases 25-E-0072 & 25-G-0073   STAFF UTIITY SECURITY PANEL 
+  
+ 
+ 
+6 
+ 
+Q. 
+Mr. Kerr, have you previously submitted 
+1 
+testimony in proceedings before the Commission 
+2 
+A. 
+I testified in Case 24-G-0447 Corning Natural   
+3 
+Gas and Cases 24-E-0461 and 24-G-0462, Central 
+4 
+Hudson Gas & Electric Corporation.   
+5 
+Summary of Testimony 
+6 
+Q.  What is the purpose of the Panel’s testimony in 
+7 
+these proceedings?  
+8 
+A. 
+The Panel’s testimony will summarize the Company 
+9 
+proposals for cybersecurity and physical 
+10 
+security programs and projects, discuss our 
+11 
+review process, and recommend adjustments 
+12 
+related to Company proposed cybersecurity 
+13 
+capital expenditures (CAPEX) and Operating & 
+14 
+Maintenance (O&M) expenses for the Rate Year. 
+15 
+Q. 
+Please define the Historic Test Year and Rate 
+16 
+Year.  
+17 
+A. 
+The Historic Test Year is the 12-month period 
+18 
+ending September 30, 2024.  The Rate Year, or 
+19 
+RY, is the 12-month period ending December 31, 
+20 
+2026. 
+21 
+Q. 
+In your testimony, will the Panel refer to, or 
+22 
+otherwise rely upon, any information produced 
+23 
+during the discovery phase of this proceeding? 
+24 
+
+
+--- Page 8 ---
+Cases 25-E-0072 & 25-G-0073   STAFF UTIITY SECURITY PANEL 
+  
+ 
+ 
+7 
+ 
+A. 
+Yes, we will refer to, and have relied upon in 
+1 
+our testimony, several responses to Staff 
+2 
+Interrogatories, referred to as IRs.  The IR 
+3 
+responses that the Panel relied upon are 
+4 
+included in Exhibit__(SUSP-1).  
+5 
+Q. 
+Are you sponsoring any other exhibits?  
+6 
+A. 
+No. 
+7 
+Review Process 
+8 
+Q.  Please describe the Panel’s approach for 
+9 
+assessing the Company’s proposed cybersecurity 
+10 
+and physical security CAPEX and O&M 
+11 
+expenditures.  
+12 
+A.  We approached the review of the Company’s 
+13 
+proposed security projects and associated CAPEX 
+14 
+and O&M  expenditures with multiple 
+15 
+considerations.   
+First, we reviewed the 
+16 
+Company’s justification for projects and 
+17 
+consideration of alternatives to assess whether 
+18 
+the Company selected projects that are necessary 
+19 
+and most beneficial for securing critical 
+20 
+infrastructure and customer data while 
+21 
+maintaining customer affordability.  Second, 
+22 
+this Panel investigated whether the proposed 
+23 
+projects were appropriate for providing secure 
+24 
+
+
+--- Page 9 ---
+Cases 25-E-0072 & 25-G-0073   STAFF UTIITY SECURITY PANEL 
+  
+ 
+ 
+8 
+ 
+and reliable service at just and reasonable 
+1 
+rates.  Third, we considered whether the cost 
+2 
+estimates are reasonable and based on historical 
+3 
+costs, and, if not, whether the Company provided 
+4 
+adequate justification with reasonable 
+5 
+assumptions for deviating from historical costs.  
+6 
+In addition, where the Company used historic 
+7 
+project costs to forecast future CAPEX spending, 
+8 
+we analyzed those historic unit costs.  Finally, 
+9 
+we reviewed the Company’s past proposals in 
+10 
+prior rate cases and the Company’s historic 
+11 
+performance in achieving those proposed project 
+12 
+schedules at the originally forecasted costs.  
+13 
+Cybersecurity Adjustment Summary 
+14 
+Q. 
+Does the Panel recommend adjustments to any of 
+15 
+Con Edison’s proposed cyber security programs? 
+16 
+A. 
+Yes.  The Panel recommends CAPEX and O&M 
+17 
+adjustments to the proposed Cybersecurity, Cyber 
+18 
+Security Infrastructure (Cyber for High Value 
+19 
+Networks (HVN)), and Cyber Security and NERC 
+20 
+Compliance programs.  We also recommend CAPEX 
+21 
+adjustments to the North American Electric 
+22 
+Reliability Corporation (NERC) Cyber and 
+23 
+Physical Security Critical Infrastructure 
+24 
+
+
+--- Page 10 ---
+Cases 25-E-0072 & 25-G-0073   STAFF UTIITY SECURITY PANEL 
+  
+ 
+ 
+9 
+ 
+Upgrade program. 
+1 
+Q. 
+What adjustments do you recommend for the 
+2 
+specific cybersecurity investments proposed by 
+3 
+the Company for the Rate Year?  
+4 
+A. 
+The adjustments fall into the following 
+5 
+categories: (1) CAPEX adjustments; (2) Non-labor 
+6 
+O&M budget adjustments; (3) labor-related O&M 
+7 
+budget adjustments; and (4) adjustments to full-
+8 
+time equivalent, or FTE, positions proposed for 
+9 
+specific cybersecurity programs. 
+10 
+Q. 
+Have the Panel’s recommendations taken inflation 
+11 
+into account? 
+12 
+A. 
+Yes.  The recommended Rate Year budgets account 
+13 
+for inflation at the rate specified by Staff 
+14 
+witness Gadomski in his direct testimony. 
+15 
+Q. 
+Are your CAPEX, O&M, and FTE adjustments 
+16 
+reflected in the Staff Rates and Accounting 
+17 
+Panel’s recommended revenue requirement? 
+18 
+A. 
+Yes. 
+19 
+Cybersecurity  
+20 
+Q. 
+Please describe the objectives of the Company’s 
+21 
+Cybersecurity program proposed in these 
+22 
+proceedings. 
+23 
+A. 
+The Company’s proposed program would implement 
+24 
+
+
+--- Page 11 ---
+Cases 25-E-0072 & 25-G-0073   STAFF UTIITY SECURITY PANEL 
+  
+ 
+ 
+10 
+ 
+projects at the corporate level to protect 
+1 
+computing systems and networks.  These programs 
+2 
+use a risk-based approach and aim to reduce the 
+3 
+risk in areas that continue to see an increase 
+4 
+in both scale and velocity of attacks.  Key 
+5 
+aspects of the project include Cloud security 
+6 
+enhancements, an advanced defense initiative, 
+7 
+and continuous identification and isolation of 
+8 
+applications requiring the highest levels of 
+9 
+security and protection.  
+10 
+Q.  What funding does the Company request for its 
+11 
+proposed CAPEX and O&M expenditures for its 
+12 
+Cybersecurity  program? 
+13 
+A. 
+According to Exhibit___(CPSP-4), Con Edison 
+14 
+requests CAPEX budgets of approximately $16.81 
+15 
+million for the Rate Year, $16.92 million for RY 
+16 
+2, and $17.50 million for RY 3, for a three-year 
+17 
+total of $51.50 million for requested CAPEX.  
+18 
+For O&M, the Company requests budgets of $38.37 
+19 
+million for RY1, $45.47 million for RY2, and 
+20 
+$48.45 million for RY3, totaling $132.30 
+21 
+million.  
+22 
+ 
+23 
+Q. 
+Is the Company requesting additional FTEs to 
+24 
+
+
+--- Page 12 ---
+Cases 25-E-0072 & 25-G-0073   STAFF UTIITY SECURITY PANEL 
+  
+ 
+ 
+11 
+ 
+support its Cybersecurity  program? 
+1 
+A. 
+Yes.  Con Edison requests 46 additional FTEs to 
+2 
+support the projects for the Cybersecurity 
+3 
+program, including at the Vice President and 
+4 
+Director levels, which the Company claims will 
+5 
+provide enhanced senior level oversight and 
+6 
+expertise. 
+7 
+Q. 
+What is the Panel’s overall assessment of the 
+8 
+request for the Cybersecurity program described 
+9 
+in the Company’s filing? 
+10 
+A. 
+The dollar amounts stated above for Rate Year 1 
+11 
+through Rate Year 3 are in-line with the $52.35 
+12 
+million CAPEX that Con Edison requested for 2023 
+13 
+through 2025 in Cases 22-E-0064 and 22-G-0065 on 
+14 
+page 7 of Exhibit___(IT-7).  However, the 
+15 
+Company’s forecasted O&M is significantly higher 
+16 
+than the previous three rate years’ total of $76 
+17 
+million.  Additionally, the Company’s requested 
+18 
+increase to FTEs is substantially higher than 
+19 
+the two FTEs per rate year (six total) the 
+20 
+Company initially requested in the previous rate 
+21 
+case. 
+22 
+Q. 
+Did the Company provide adequate support for its 
+23 
+requested capital budget, or the additional O&M 
+24 
+
+
+--- Page 13 ---
+Cases 25-E-0072 & 25-G-0073   STAFF UTIITY SECURITY PANEL 
+  
+ 
+ 
+12 
+ 
+costs and FTEs?                 
+1 
+A. 
+No. In neither the Cyber and Physical Panel 
+2 
+testimony, nor Exhibit__(CSPS-3) or 
+3 
+Exhibit__(CSPS-4), did Con Edison adequately 
+4 
+substantiate the need for a significant increase 
+5 
+to its capital budget, O&M, or FTEs. The Company 
+6 
+did not provide vendor quotes, third party risk 
+7 
+assessments, or demonstrate established forms of 
+8 
+budget forecast analysis to justify its 
+9 
+estimates.   
+10 
+Q.  What did the Company base its cost projections 
+11 
+on? 
+12 
+A. 
+As stated on page 55 of Exhibit__(CPSP-4), Con 
+13 
+Edison relied on “Historic purchases ... vendor 
+14 
+presentations and Internet sources.”   
+15 
+Q. 
+Why are these sources inadequate?  
+16 
+A. 
+It is the Panel’s position that sources such as 
+17 
+vendor quotes, risk assessments, or other forms 
+18 
+of budget analysis are necessary for accurate 
+19 
+cost estimates.  Furthermore, in response to 
+20 
+DPS-1030, Attachment 1, the Company projects 
+21 
+proposed in this program are ongoing from the 
+22 
+previous rate case.  Therefore, without any 
+23 
+further detail of changes, costs should be in 
+24 
+
+
+--- Page 14 ---
+Cases 25-E-0072 & 25-G-0073   STAFF UTIITY SECURITY PANEL 
+  
+ 
+ 
+13 
+ 
+line with historic spending. 
+1 
+Q.  What does the Panel recommend? 
+2 
+A. 
+Due to the lack of justification for the 
+3 
+additional capital above historic levels the 
+4 
+Company requested for O&M and FTEs, the Panel 
+5 
+recommends budgets based on the historical 
+6 
+three-year average from 2023 through 2025 of 
+7 
+actual capital and O&M spending as provided in 
+8 
+response to DPS-309, Attachment 1.  
+9 
+Q.  What does the Panel recommend specifically 
+10 
+regarding the capital expenditures for the 
+11 
+Cybersecurity program? 
+12 
+A. 
+We recommend capital expenditures of $13.16 
+13 
+million for the Cybersecurity program in the 
+14 
+Rate Year, which is a decrease of $3.69 million 
+15 
+from the $16.8 million requested by Con Edison.  
+16 
+Q. 
+What is the Panel’s recommended level of IT 
+17 
+Cybersecurity program O&M for the Rate Year?  
+18 
+A. 
+For O&M, the Panel recommends $20.5 million for 
+19 
+Rate Year 1, which is a decrease of $17.8 
+20 
+million.  
+21 
+Q. 
+Does the Panel recommend any adjustments to the 
+22 
+FTEs requested by the Company? 
+23 
+A. 
+Yes.  The Panel recommends rejecting a number of 
+24 
+
+
+--- Page 15 ---
+Cases 25-E-0072 & 25-G-0073   STAFF UTIITY SECURITY PANEL 
+  
+ 
+ 
+14 
+ 
+the proposed FTEs without negatively impacting 
+1 
+enterprise-wide security standards.  
+2 
+Q. 
+What is the Panel’s recommended staffing levels 
+3 
+for the Cybersecurity program? 
+4 
+A. 
+Staff recommends the following staffing 
+5 
+reductions to the Company’s Cybersecurity 
+6 
+program FTE requests for the Rate Year: three 
+7 
+(3) Directors, one (1) Vice President, and 12 
+8 
+Senior System Cyber Analysts. 
+9 
+Q. 
+What is your basis for these FTE reductions? 
+10 
+A. 
+The Company did not substantiate the need for 
+11 
+additional upper management and staff when the 
+12 
+Company has managed its cybersecurity programs 
+13 
+in previous years through the last rate plan 
+14 
+specifically with no stated issues.  
+15 
+ 
+ 
+16 
+Cyber Security Infrastructure (Cyber for High Value 
+17 
+Networks (HVN)) 
+18 
+Q. 
+What is the Cyber Security Infrastructure (HVN) 
+19 
+program? 
+20 
+A. 
+This program aims to address the cybersecurity 
+21 
+of the Company’s HVNs, ensuring that the Company 
+22 
+maintains the most sensitive aspects of the 
+23 
+operations protected.  As stated on pages 29-30 
+24 
+
+
+--- Page 16 ---
+Cases 25-E-0072 & 25-G-0073   STAFF UTIITY SECURITY PANEL 
+  
+ 
+ 
+15 
+ 
+of the Cyber and Physical Panel testimony, key 
+1 
+projects within this program include: “Expanding 
+2 
+Password Management programs, such as Privileged 
+3 
+Access Management (PAM); expanding application 
+4 
+controls in the HVN to protect systems and data 
+5 
+by allowing only approved, trusted applications 
+6 
+to run while blocking all other potentially 
+7 
+harmful software; enhancing HVN Endpoint 
+8 
+Detection and Response (EDR) to improve the 
+9 
+Company’s ability to protect end-user devices 
+10 
+and increase the Company’s ability to detect and 
+11 
+respond to malicious activity; and enhancing 
+12 
+asset and vulnerability management to aggregate 
+13 
+asset information and associated vulnerability 
+14 
+details to allow for better prioritization and 
+15 
+faster response within their HVNs.”  
+16 
+Q.  What funding does the Company request for its 
+17 
+proposed CAPEX and O&M expenditures? 
+18 
+A.  According to Exhibit___(CPSP-4), Con Edison 
+19 
+requests CAPEX budgets of approximately $5.79 
+20 
+million for the Rate Year, $6.91 million for 
+21 
+RY2, and $6.92 million for RY3, for a three-year 
+22 
+total request of $19.63 million of CAPEX.  For 
+23 
+O&M, the Company requests budgets of $3.42 
+24 
+
+
+--- Page 17 ---
+Cases 25-E-0072 & 25-G-0073   STAFF UTIITY SECURITY PANEL 
+  
+ 
+ 
+16 
+ 
+million for RY1, $5.91 million for RY2, and 
+1 
+$6.50 million for RY3, totaling $15.83 million. 
+2 
+Q. 
+Is the Company requesting additional FTEs to 
+3 
+support its Cyber Security Infrastructure (HVN) 
+4 
+program? 
+5 
+A. 
+Con Edison requests 20 FTEs to staff a dedicated 
+6 
+HVN team to help improve the HVN’s Cybersecurity 
+7 
+posture, including Cyber operations, 
+8 
+vulnerability management within the HVN, and 
+9 
+improved identity and access management.  Q.
+10 
+ 
+What is the Panel’s overall assessment of 
+11 
+the request for the Cybersecurity Infrastructure 
+12 
+(HVN) described in the Company’s filing? 
+13 
+A. 
+The dollar amounts stated above for Rate Year 1 
+14 
+through Rate Year 3 are in excess of the $8.65 
+15 
+million CAPEX that Con Edison requested for 2023 
+16 
+through 2025 in Cases 22-E-0064 and 22-G-0065 on 
+17 
+page 7 of Exhibit___(IT-7).  The Company’s 
+18 
+forecasted O&M is also significantly higher than 
+19 
+the previous three rate years’ total of $ 7.1 
+20 
+million.  Additionally, the Company had not 
+21 
+requested additional FTEs for the Cybersecurity 
+22 
+Infrastructure (HVN) program in the previous 
+23 
+rate case. 
+24 
+
+
+--- Page 18 ---
+Cases 25-E-0072 & 25-G-0073   STAFF UTIITY SECURITY PANEL 
+  
+ 
+ 
+17 
+ 
+ 
+1 
+Q.  What did the Company base its cost projections 
+2 
+on? 
+3 
+A. 
+As stated on page 47 of Exhibit__(CPSP-4), Con 
+4 
+Edison relied on “Historic purchases ... vendor 
+5 
+presentations and Internet sources.”  
+6 
+Q. 
+Why are these sources inadequate? A. 
+As we 
+7 
+previously stated, sources such as vendor 
+8 
+quotes, risk assessments, or other forms of 
+9 
+budget analysis are necessary for accurate cost 
+10 
+estimates.  The projects proposed in this 
+11 
+program are also ongoing and, therefore, without 
+12 
+further details from the Company indicating any 
+13 
+changes in these programs, costs should be in 
+14 
+line with historic spending. 
+15 
+Q. 
+What does the Panel recommend? 
+16 
+A. 
+Due to this lack of justification for the level 
+17 
+of incremental capital and O&M requested, the 
+18 
+Panel recommends budgets consistent with the 
+19 
+historical three-year average from 2023 through 
+20 
+2025 of actual capital and O&M spending as 
+21 
+provided in response to DPS-310, Attachment 1.   
+22 
+Q.  What does the Panel recommend regarding the 
+23 
+capital expenditures for the Cyber Security 
+24 
+
+
+--- Page 19 ---
+Cases 25-E-0072 & 25-G-0073   STAFF UTIITY SECURITY PANEL 
+  
+ 
+ 
+18 
+ 
+Infrastructure (HVN) Program? 
+1 
+A. 
+We recommend capital expenditures of $3.36 
+2 
+million for the Cyber Security Infrastructure 
+3 
+(HVN) program in the Rate Year, which is a 
+4 
+decrease of $2.43 million of the $5.79 million 
+5 
+proposed by Con Edison.  
+6 
+Q. 
+What is the Panel’s recommended level of 
+7 
+Cybersecurity (HVN) O&M for the Rate Year?  
+8 
+A. 
+For O&M, the Panel recommends $0.88 million for 
+9 
+Rate Year 1, which is a decrease of $2.54 
+10 
+million.  
+11 
+Q. 
+Does the Panel recommend adjustments to the FTEs 
+12 
+requested by the Company? 
+13 
+A. 
+Yes, we recommend rejecting a number of the 
+14 
+requested FTEs, as the Company failed to 
+15 
+quantify what Cyber Security Infrastructure 
+16 
+(HVN) related improvements would be realized or 
+17 
+to clearly establish duties and responsibilities 
+18 
+for these positions that differ from existing 
+19 
+duties and responsibilities of current 
+20 
+employees. 
+21 
+Q. 
+What FTE positions do you recommend the 
+22 
+Commission reject? 
+23 
+A. 
+We recommend the Cyber Security Infrastructure 
+24 
+
+
+--- Page 20 ---
+Cases 25-E-0072 & 25-G-0073   STAFF UTIITY SECURITY PANEL 
+  
+ 
+ 
+19 
+ 
+(HVN) programs’ FTE request be reduced by one 
+1 
+Director and 13 Senior System Analysts. 
+2 
+ 
+3 
+Q. 
+What is your basis for these FTE reductions? 
+4 
+A. 
+The Company did not substantiate the need for 
+5 
+additional upper management and staff when the 
+6 
+Company has managed its Cyber Security 
+7 
+Infrastructure (HVN)  through the last rate plan 
+8 
+specifically with no stated issues.  
+9 
+  
+10 
+Cyber Security and NERC Compliance   
+11 
+Q. 
+Please describe System and Transmission 
+12 
+Operations (S&TO); Cyber Security and NERC 
+13 
+Compliance program. 
+14 
+A. 
+This program improves the cybersecurity of the 
+15 
+Energy Control Center (ECC) and energy 
+16 
+management systems to prevent intrusions, and to 
+17 
+further comply with NERC CIP standards.  
+18 
+Q.  What CAPEX and O&M funding is the Company 
+19 
+requesting for this program? 
+20 
+A. 
+According to Exhibit___(CPSP-4), Con Edison 
+21 
+requests CAPEX budgets of approximately $7.2 
+22 
+million for RY1, $6.2 million for RY2, and $5.7 
+23 
+million for RY3, for a three-year total CAPEX of 
+24 
+
+
+--- Page 21 ---
+Cases 25-E-0072 & 25-G-0073   STAFF UTIITY SECURITY PANEL 
+  
+ 
+ 
+20 
+ 
+$19.1 million.  For O&M, the Company requests 
+1 
+budgets of $0.89 million for RY1, $1.03 million 
+2 
+for RY2, and $1.03 million for RY3, totaling 
+3 
+$2.9 million. 
+4 
+Q. 
+Is the Company requesting additional FTEs to 
+5 
+support its Cyber Security and NERC Compliance 
+6 
+program? 
+7 
+A. 
+The Company requests ten FTEs with six to staff 
+8 
+the dedicated Cybersecurity Operations Center 
+9 
+focused on the security of the ECC network.  Two 
+10 
+FTEs are for the Threat Management group and 
+11 
+expanding existing technologies, such as the 
+12 
+Security Incident Event Management (SIEM) 
+13 
+system, Multi Factor Authentication, and Anti-
+14 
+Virus.  The Company will also be working on its 
+15 
+planned User Endpoint Behavior Analytics 
+16 
+solution.  Two FTEs are for Network Security to 
+17 
+help implement the network port security 
+18 
+solution, and firewall configuration management 
+19 
+tool.   
+20 
+Q. 
+What is the Panel’s overall assessment of the 
+21 
+request for the Cyber Security and NERC 
+22 
+Compliance program described in the Company’s 
+23 
+filing? 
+24 
+
+
+--- Page 22 ---
+Cases 25-E-0072 & 25-G-0073   STAFF UTIITY SECURITY PANEL 
+  
+ 
+ 
+21 
+ 
+A. 
+The Panel acknowledges that the cybersecurity 
+1 
+risks, threat actors/vectors, and technologies 
+2 
+involved are constantly changing and increasing 
+3 
+in complexity, necessitating the implementation 
+4 
+of projects that comprise the ST&O’s Cyber 
+5 
+Security and NERC Compliance program, as well as 
+6 
+the mandated requirements for maintaining NERC 
+7 
+CIP compliance.  However, the Company did not 
+8 
+provide specifics or demonstrate analysis for 
+9 
+determining the Company’s forecast of cost. 
+10 
+Q. 
+How did the capital and O&M spending levels lack 
+11 
+justification? 
+12 
+A. 
+Con Edison did not provide vendor quotes, third 
+13 
+party risk assessments, or other budget forecast 
+14 
+analysis to justify its estimate.   
+15 
+Q.  What did the Company base its cost projections 
+16 
+on? 
+17 
+A. 
+As stated on page 69 of Exhibit__(CPSP-4), Con 
+18 
+Edison’s basis for its estimate was “Historic 
+19 
+purchases ... vendor presentations and Internet 
+20 
+sources.” 
+21 
+Q. 
+Why are these sources inadequate?  
+22 
+A. 
+As we previously stated, sources such as vendor 
+23 
+quotes, risk assessments, or other forms of 
+24 
+
+
+--- Page 23 ---
+Cases 25-E-0072 & 25-G-0073   STAFF UTIITY SECURITY PANEL 
+  
+ 
+ 
+22 
+ 
+budget analysis are necessary for accurate cost 
+1 
+estimates.  The projects proposed in this 
+2 
+program are also ongoing and, therefore, without 
+3 
+further details from the Company indicating any 
+4 
+changes in these programs, costs should be in 
+5 
+line with historic spending. 
+6 
+Q. 
+What does the Panel recommend? 
+7 
+A. 
+The Panel recommends a budget consistent with  
+8 
+the historical three-year average from 2023 
+9 
+through 2025 of actual capital spending as 
+10 
+provided in response to DPS-313, Attachment 1.  
+11 
+Q.  What does the Panel recommend regarding the 
+12 
+capital expenditures for the Cybersecurity and 
+13 
+NERC Compliance program? 
+14 
+A. 
+We recommend capital expenditures of $4.34 
+15 
+million for the Cyber Security and NERC 
+16 
+Compliance program in the Rate Year, which is a 
+17 
+decrease of $2.85 million of the $7.20 million 
+18 
+proposed by Con Edison.  
+19 
+Q. 
+What is the Panel’s recommended level of O&M for 
+20 
+the Rate Year?  
+21 
+A. 
+For O&M, the Panel recommends $.67 million for 
+22 
+Rate Year 1, which is a decrease of $0.22 
+23 
+million. 
+24 
+
+
+--- Page 24 ---
+Cases 25-E-0072 & 25-G-0073   STAFF UTIITY SECURITY PANEL 
+  
+ 
+ 
+23 
+ 
+NERC Cyber and Physical Security Critical  
+1 
+Infrastructure Upgrade 
+2 
+Q. 
+Please describe Substation Operations (SSO); 
+3 
+NERC Cyber and Physical Security Critical 
+4 
+Infrastructure Upgrade program. 
+5 
+A. 
+Due to vendor changes to its telecommunications 
+6 
+infrastructure, Con Edison will be forced to 
+7 
+convert from serial to Internet Protocol (IP) 
+8 
+based communications.  As explained on page 58 
+9 
+of Exhibit___(CPSP-4), this conversion to 
+10 
+externally routable protocols will result in 
+11 
+substation cyber assets that will be required to 
+12 
+comply with additional 40 additional NERC CIP 
+13 
+requirements.  
+14 
+Q.  What capital expenditures and operations and 
+15 
+maintenance funding did the Company request for 
+16 
+this program? 
+17 
+A. 
+According to Exhibit___(CPSP-4), Con Edison 
+18 
+requests CAPEX budgets of approximately $15 
+19 
+million for the RY1, $15 million for RY2, and 
+20 
+$15 million for RY3, for a three-year total 
+21 
+CAPEX request of $45 million.  The Company did 
+22 
+not request incremental operations and 
+23 
+maintenance funding or additional FTEs. 
+24 
+
+
+--- Page 25 ---
+Cases 25-E-0072 & 25-G-0073   STAFF UTIITY SECURITY PANEL 
+  
+ 
+ 
+24 
+ 
+Q. 
+What is the Panel’s overall assessment of the 
+1 
+request for the Substation Critical 
+2 
+Infrastructure Protection (CIP) program 
+3 
+described in the Company’s filing? 
+4 
+A. 
+The Panel acknowledges that due to the discussed 
+5 
+changes to communications infrastructure, both 
+6 
+the cybersecurity risks to SSO infrastructure 
+7 
+and resulting escalation of NERC CIP compliance 
+8 
+standards will necessitate the changes proposed 
+9 
+by the Company.  However, the Company has not 
+10 
+provided sufficient justification for capital 
+11 
+expenditures above previous historic performance 
+12 
+spending levels.  As stated on page 58 of 
+13 
+Exhibit__(CSPS-4), the Company’s plan is to 
+14 
+first initiate a pilot phase and convert two 
+15 
+substations as pilot stations.  Then once the 
+16 
+pilot phase is completed, Con Edison will 
+17 
+commence with converting “another 30 substations 
+18 
+under NERC CIP compliance in future rate years”. 
+19 
+Furthermore, per the Company response to DPS-
+20 
+312, Con Edison has historically been 
+21 
+underbudget by 25% the previous three rate 
+22 
+years. 
+23 
+ Q. What is the basis for the Panel’s capital 
+24 
+
+
+--- Page 26 ---
+Cases 25-E-0072 & 25-G-0073   STAFF UTIITY SECURITY PANEL 
+  
+ 
+ 
+25 
+ 
+adjustments? 
+1 
+A. 
+The Panel recommends a budget consistent with 
+2 
+the historical three-year average from 2023 
+3 
+through 2025 of actual capital spending as 
+4 
+provided in response to DPS-312, Attachment 1. 
+5 
+Q.  What does the Panel recommend regarding the 
+6 
+capital expenditures for the Substation Critical 
+7 
+Infrastructure Protection (CIP) program? 
+8 
+A. 
+We recommend the Commission determine capital 
+9 
+expenditures of $0.43 million for the 
+10 
+Cybersecurity Program in the Rate Year, which is 
+11 
+a decrease of $14.57 million of the $15.00 
+12 
+million proposed by Con Edison.  
+13 
+Physical Security 
+14 
+Q.  What is the Company’s overall approach to 
+15 
+physical security?   
+16 
+A.    In the Cyber and Physical Security Panel 
+17 
+Testimony, page 39, the Company states 
+18 
+‘Corporate Security implements projects and 
+19 
+programs designed to address and mitigate Con 
+20 
+Edison’s evolving threat landscape including 
+21 
+physical security risks, while meeting the needs 
+22 
+of the Company’s operating departments. 
+23 
+Corporate Security uses a “defense-in-depth” 
+24 
+
+
+--- Page 27 ---
+Cases 25-E-0072 & 25-G-0073   STAFF UTIITY SECURITY PANEL 
+  
+ 
+ 
+26 
+ 
+strategy to deter, deny, detect, and delay 
+1 
+potential threats.’ 
+2 
+Q. 
+Please list the Company’s proposals related to 
+3 
+Physical Security. 
+4 
+A. 
+For Physical Security the Company proposes eight 
+5 
+programs throughout its filings in these 
+6 
+proceedings.  The eight programs are: Corporate 
+7 
+Security Technology and Equipment Enhancement 
+8 
+Program; Protective Intelligence & 
+9 
+Countermeasures Program; Facility Security 
+10 
+Upgrades Program; Corporate Security – Company 
+11 
+Wide Camera Rollout Program; Energy Control 
+12 
+Center (ECC & Alternate Energy Control Center, 
+13 
+(AECC)) Security Enhancements Program; Corporate 
+14 
+Security – Perimeter Enhancement Program; 
+15 
+Substations Security Enhancements Program; and 
+16 
+the Energy Control Center Relocation Project.  
+17 
+Within these programs there are multiple 
+18 
+subprojects.  
+19 
+Q. 
+Panel, please discuss the CAPEX programs, what 
+20 
+they are, and the total aggregated cost for 
+21 
+these programs for the rate year. 
+22 
+A. 
+Each of the eight programs have CAPEX costs 
+23 
+associated with them.  The total aggregated cost 
+24 
+
+
+--- Page 28 ---
+Cases 25-E-0072 & 25-G-0073   STAFF UTIITY SECURITY PANEL 
+  
+ 
+ 
+27 
+ 
+for Rate Year 1 is $30,517,000, Rate Year 2 is 
+1 
+$28,336,000 and Rate Year 3 is $32,158,000 with 
+2 
+a total of $86,301,000. 
+3 
+Q. 
+Panel, turning to the O&M programs, please 
+4 
+explain what they are, and the total aggregated 
+5 
+cost for these programs for the rate year. 
+6 
+A. 
+The programs for which Con Edison seeks funding 
+7 
+for O&M costs are: Corporate Security Technology 
+8 
+and Equipment Enhancement Program; Protective 
+9 
+Intelligence & Countermeasures Program; and the 
+10 
+Energy Control Center’s (ECC & AECC) Security 
+11 
+Enhancements Program.  The total aggregated cost 
+12 
+for Rate Year 1 is $4,990,000, Rate Year 2 
+13 
+$7,015,000, and Rate Year 3 is $9,808,000 with a 
+14 
+total of $21,813,000.  A total of 16 FTEs is 
+15 
+included in support of these projects.  
+16 
+Q. 
+Does the Panel recommend adjustments to any of 
+17 
+Con Edison’s proposed physical security 
+18 
+programs? 
+19 
+A. 
+Yes.  The Panel recommends CAPEX and O&M 
+20 
+adjustments to the Protective Intelligence & 
+21 
+Counter Measures Program, the Energy Control 
+22 
+Center’s (ECC & AECC) Security Enhancements  
+23 
+program, the Facility Security Upgrades Program 
+24 
+
+
+--- Page 29 ---
+Cases 25-E-0072 & 25-G-0073   STAFF UTIITY SECURITY PANEL 
+  
+ 
+ 
+28 
+ 
+and the Energy Control Center Relocation project. 
+1 
+Protective Intelligence & Countermeasures Program 
+2 
+Q. 
+Please describe the Protective Intelligence & 
+3 
+Countermeasures Program. 
+4 
+A. 
+As discussed in Exhibit___(CPSP-4UpD), pp. 10 - 
+5 
+17, the Company proposes a Protective 
+6 
+Intelligence & Countermeasures Program, which is 
+7 
+a newly created program that is comprised of 
+8 
+three components.  These components are (1) 
+9 
+Random Antiterrorism Measures Project, (2) 
+10 
+Threat Intelligence Platform, and (3) The 
+11 
+Facility Security Enhancement Project.   
+12 
+ 
+According to Exhibit___(CPSP-4UpD), the Company 
+13 
+requests CAPEX budgets of approximately $5.5 
+14 
+million for RY1, $4.8 million for RY2, and $9.2 
+15 
+million for RY3, for a three-year total CAPEX 
+16 
+request of $19.5 million.  For O&M, the Company 
+17 
+requests budgets of $3.9 million for RY1, $5.7 
+18 
+million for RY2, and $8.4 million for RY3, 
+19 
+totaling $18 million. 
+20 
+Q.  Does the Panel recommend any adjustment to the 
+21 
+Company’s Protective Intelligence and 
+22 
+Countermeasures Program? 
+23 
+A. 
+Yes, in response to DPS-324, DPS-425, DPS-866, 
+24 
+
+
+--- Page 30 ---
+Cases 25-E-0072 & 25-G-0073   STAFF UTIITY SECURITY PANEL 
+  
+ 
+ 
+29 
+ 
+DPS-936, we disagree with the level of spending 
+1 
+proposed by the Company for the Protective 
+2 
+Intelligence and Countermeasures Program. Staff 
+3 
+does not agree with the proposed expenditures 
+4 
+for the Sensitive Compartmentalized Information 
+5 
+Facility and the bullet proof/anti intrusion 
+6 
+rating of windows at 4 Irving Place. The company 
+7 
+did not provide any information that the windows 
+8 
+to be upgraded were to protect critical assets 
+9 
+and no data was provided of any incident where 
+10 
+windows were broken due to gunfire or intrusion. 
+11 
+Staff also disagrees with two of the three 
+12 
+proposed vehicles due to the reduction of 2 FTEs 
+13 
+in this program. These components of this 
+14 
+program do not align with industry requirements.  
+15 
+Staff recommends CAPEX expenditures of $3.497 
+16 
+million in the Rate Year, which is a decrease of 
+17 
+$2.02 million of the $5.5 million proposed by 
+18 
+the Company. 
+19 
+Q. 
+Is the Company requesting additional FTEs to 
+20 
+support its Protective Intelligence and 
+21 
+Countermeasures Program? 
+22 
+A. 
+Yes, Con Edison requests 13 FTEs to support 
+23 
+corporate security. 
+24 
+
+
+--- Page 31 ---
+Cases 25-E-0072 & 25-G-0073   STAFF UTIITY SECURITY PANEL 
+  
+ 
+ 
+30 
+ 
+Q. 
+Does the Panel have adjustments to the FTEs 
+1 
+requested by the Company? 
+2 
+A. 
+Yes.  We recommend that the Commission reject 
+3 
+six of the 13 proposed FTEs in this project, 
+4 
+because the Company did not provide adequate 
+5 
+justification to substantiate the need for the 
+6 
+additional FTEs.  Thus, we recommend a $961,460 
+7 
+reduction for the rate year. 
+8 
+Facility Security Upgrades 
+9 
+Q. 
+Please describe the Facility Security Upgrades 
+10 
+Program. 
+11 
+A. 
+In the Company’s Cyber & Physical Security Panel 
+12 
+Exhibit___(CPSP-4), pp. 23-26, Facilities 
+13 
+Security Upgrades are proposed for Astoria and 
+14 
+East 16th Street.  
+15 
+Q. 
+Does the Panel recommend any adjustment to the 
+16 
+Company’s proposal for the Facilities Security 
+17 
+Upgrades? 
+18 
+A. 
+Yes, after review of the Company’s response to 
+19 
+DPS-1027, staff recommends an elimination of 
+20 
+this program and four subprojects.  The Company 
+21 
+did not provide sufficient security 
+22 
+justification and cost estimates for the 
+23 
+projects within the Facility Security Upgrade 
+24 
+
+
+--- Page 32 ---
+Cases 25-E-0072 & 25-G-0073   STAFF UTIITY SECURITY PANEL 
+  
+ 
+ 
+31 
+ 
+Program. 
+1 
+Q. 
+What is the panel’s rationale for the assessment 
+2 
+that the company did not provide sufficient 
+3 
+justification?  
+4 
+A.  In response to DPS-1027 the company provided 
+5 
+project descriptions, including components of 
+6 
+each subproject and applicable fence lengths. 
+7 
+However, the Company did not provide any known 
+8 
+cost industry standard cost or third-party 
+9 
+vendor estimates.  Further, the CCompany did not 
+10 
+provide the cost estimate per subproject or any 
+11 
+further breakdown of project costs.  Without any 
+12 
+of these further details or references to costs, 
+13 
+we are not able assess the accuracy or 
+14 
+reasonability of the program.  
+15 
+Energy Control Center & Alternate Energy Control 
+16 
+Center (ECC & AECC) Security Enhancements 
+17 
+Q. 
+Please describe the Energy Control Center 
+18 
+Security Enhancements Project. 
+19 
+A. 
+This project is explained in Exhibit___(CPSP-4), 
+20 
+pp. 31-37, Energy Control Center’s (ECC & AECC) 
+21 
+Security Enhancements.  A total of eight 
+22 
+components are proposed.  The components are: 1) 
+23 
+Emergency Evacuation System Project; 2) Chemical 
+24 
+
+
+--- Page 33 ---
+Cases 25-E-0072 & 25-G-0073   STAFF UTIITY SECURITY PANEL 
+  
+ 
+ 
+32 
+ 
+and Biological HVAC Detection System Project; 3) 
+1 
+Phase III of the Drone Detection Project; 4) 
+2 
+Physical Security Point Project; 5) Card Access 
+3 
+Control System Project; 6) Security-Related 
+4 
+Hardware and Software Project; 7) Physical 
+5 
+Access Control System Upgrade; 8) ECC 
+6 
+Uninterrupted Power Supply (UPS) Units Battery 
+7 
+Replacement.  
+8 
+Q. 
+Does the Panel recommend any adjustment to the 
+9 
+Company’s proposal for Energy Control Center’s 
+10 
+(ECC & AECC) Security Enhancements? 
+11 
+A. 
+Yes, in response to DPS-322, DPS-323, DPS-652, 
+12 
+DPS-656, DPS-692, DPS-694, staff recommends the 
+13 
+reductions based upon the company not providing 
+14 
+adequate justification to substantiate the need 
+15 
+for the additional funds for the following 
+16 
+subprojects: Chemical and Biological HVAC 
+17 
+Detection System Project; Phase III of the Drone 
+18 
+Detection Project; Physical Security Point 
+19 
+Project; and the Physical Access Control System 
+20 
+Upgrade.  
+21 
+Q. 
+What is the Panel’s rationale for your 
+22 
+assessment that the Company did not provide 
+23 
+sufficient justification?  
+24 
+
+
+--- Page 34 ---
+Cases 25-E-0072 & 25-G-0073   STAFF UTIITY SECURITY PANEL 
+  
+ 
+ 
+33 
+ 
+A. 
+The Chemical and Biological HVAC Detection 
+1 
+System Project and the Phase III of the Drone 
+2 
+Detection Project do not align with industry 
+3 
+requirements.  The Company also did not provide 
+4 
+adequate information to substantiate the 
+5 
+necessity of each.  The Physical Security Point 
+6 
+Project and the Physical Access Control System 
+7 
+Upgrade are not supported, based on the Panel’s 
+8 
+review of the Company’s physical security 
+9 
+assessments of the ECC & AECC locations.   The 
+10 
+Company did not note any assessed deficiencies 
+11 
+in any components within either subproject.  As 
+12 
+such, we recommend CAPEX expenditures of $3.02 
+13 
+million for the Energy Control Center’s Security 
+14 
+Enhancements Project in the Rate Year, which is 
+15 
+a decrease of $2.86 million from the $5.89 
+16 
+million proposed by the Company.      
+17 
+Q. 
+Is the Company requesting additional FTEs to 
+18 
+support its Energy Control Center’s (ECC & AECC) 
+19 
+Security Enhancements? 
+20 
+A. 
+This program is requesting two FTEs to support 
+21 
+the Energy Control Center.  
+22 
+Q. 
+Does Staff have adjustments to the FTEs 
+23 
+requested by the Company? 
+24 
+
+
+--- Page 35 ---
+Cases 25-E-0072 & 25-G-0073   STAFF UTIITY SECURITY PANEL 
+  
+ 
+ 
+34 
+ 
+A. 
+Yes.  Staff recommends rejecting both proposed 
+1 
+FTEs.  The Company not providing adequate 
+2 
+justification to substantiate the need for the 
+3 
+additional FTEs. 
+4 
+Energy Control Center Relocation 
+5 
+Q. 
+Please describe the Energy Control Center 
+6 
+Relocation Project. 
+7 
+A. 
+In the Company’s Cyber & Physical Security Panel 
+8 
+Exhibit___(CPSP-4), pp. 38-43, Energy Control 
+9 
+Center’s Relocation Project the Company proposes 
+10 
+to relocate the existing Energy Control Center 
+11 
+from its current location in Manhattan.  
+12 
+Q. 
+Describe any physical security concerns that 
+13 
+support the relocation. 
+14 
+A. 
+After reviewing the Company’s Security 
+15 
+Assessments which were provided in response to 
+16 
+DPS-323, there is no evidence to support the 
+17 
+current physical location of the ECC as a 
+18 
+vulnerability.  
+19 
+Q.   Does this conclude the Panel’s testimony?  
+20 
+A.   Yes, at this time.  
+21 

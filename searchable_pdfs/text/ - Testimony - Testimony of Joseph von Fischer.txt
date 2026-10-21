@@ -1,0 +1,2632 @@
+--- Page 1 ---
+ 
+Page 1 of 27 
+ 
+PROCEEDING ON MOTION OF THE 
+COMMISSION AS TO THE RATES, 
+CHARGES, RULES AND 
+REGULATIONS OF THE BROOKLYN 
+UNION GAS COMPANY FOR GAS 
+SERVICE 
+ 
+ 
+PROCEEDING ON MOTION OF THE 
+COMMISSION AS TO THE RATES, 
+CHARGES, RULES AND 
+REGULATIONS OF KEYSPAN GAS 
+EAST CORPORATION FOR GAS 
+SERVICE 
+ 
+Testimony and Exhibits of: 
+Joseph von Fischer  
+ 
+May 20, 2016 
+ 
+Submitted to: 
+New York State Public Service Commission 
+Case 16-G-0058 
+Case 16-G-0059 
+ 
+Submitted by: 
+Environmental Defense Fund 
+ 
+ 
+ 
+ 
+ 
+
+
+--- Page 2 ---
+16-G-0058 
+         
+16-G-0059   
+JOSEPH VON FISCHER 
+ 
+Page 2 of 27 
+ 
+ 
+ 
+ 
+ 
+ 
+ 
+ 
+Before the Public Service Commission 
+ 
+ 
+THE BROOKLYN UNION GAS COMPANY d/b/a NATIONAL GRID NY 
+and KEYSPAN GAS EAST CORPORATION d/b/a NATIONAL GRID 
+ 
+Direct Testimony 
+ 
+of 
+ 
+Joseph von Fischer 
+ 
+ 
+ 
+ 
+ 
+ 
+ 
+ 
+ 
+ 
+ 
+ 
+ 
+ 
+ 
+ 
+May 20, 2016 
+ 
+ 
+ 
+ 
+ 
+
+
+--- Page 3 ---
+16-G-0058 
+         
+16-G-0059   
+JOSEPH VON FISCHER 
+ 
+Page 3 of 27 
+ 
+I. 
+BACKGROUND 
+1 
+ 
+2 
+Q. Please state your name, title, and business address.  
+3 
+A. My name is Joseph C. von Fischer. My title is Associate Professor and Associate Chair of 
+4 
+Biology, Colorado State University. My business address is 100 W. Lake Street, Fort Collins, CO 
+5 
+80523. 
+6 
+Q. On whose behalf are you submitting testimony in this proceeding? 
+7 
+A. I am submitting this testimony on behalf of Environmental Defense Fund (“EDF”).  
+8 
+Q. Please provide a summary of your education and experience.  
+9 
+ 
+10 
+A. My primary research expertise is in greenhouse gases and unraveling the mechanisms that control 
+11 
+how much gas is exchanged between the land surface and the atmosphere.  I earned my PhD in 
+12 
+Ecology and Evolutionary Biology at Cornell University in 2002 and did post-doctoral training at 
+13 
+Princeton from 2002 - 2003.  I have been on the faculty at Colorado State University (“CSU”) for 
+14 
+over a decade, having joined in 2003.  I have attached a copy of my curriculum vitae in Exhibit I. 
+15 
+Q. Are you providing any appendices or attachments to your testimony? 
+16 
+A. Yes, I have five exhibits.   
+17 
+Exhibit I: Curriculum Vitae of Joseph von Fischer   
+18 
+Exhibit II: Table 1 - Leak summary table for areas surveyed 
+19 
+Exhibit III: Figure 1 - Graphical representation of leak attribution methodology 
+20 
+Exhibit IV: Figure 2 - A fictitious representation of leaks in a grid cell 
+21 
+Exhibit V: Table 2 - A fictitious set of grids ordered by leak flow rate from high to low 
+22 
+ 
+23 
+II. 
+SUMMARY, PURPOSE AND SCOPE OF TESTIMONY 
+24 
+Q. What is the purpose and scope of your testimony? 
+25 
+A. The purpose of my testimony is to share my scientific knowledge of quantification of natural gas 
+26 
+leakage from natural gas distribution systems using methane sensors mounted on mobile 
+27 
+
+
+--- Page 4 ---
+16-G-0058 
+         
+16-G-0059   
+JOSEPH VON FISCHER 
+ 
+Page 4 of 27 
+platforms, and to provide recommendations as to the use of spatially referenced leak flow rate 
+1 
+data collected using advanced leak detection and quantification methods in the context of the 
+2 
+accelerated pipe replacement and leak repair efforts proposed by The Brooklyn Union Gas 
+3 
+Company d/b/a National Grid NY (“KEDNY”) and KeySpan Gas East Corporation d/b/a 
+4 
+National Grid (“KEDLI”) (together, “National Grid” or “the Companies”).     
+5 
+I expect that my testimony will further the resolution of issues in this proceeding by 
+6 
+presenting information and recommendations relating to the use of advanced leak detection and 
+7 
+leak quantification methods for the prioritization of the Companies’ proposed accelerated leak 
+8 
+repair and pipe replacement activities.   
+9 
+Q. Please provide a summary of your testimony. 
+10 
+A. My research suggests that accelerated pipe replacement programs are associated with an average 
+11 
+95% reduction in the normalized system leakage rate as compared to other cities. Therefore, if 
+12 
+properly designed and executed, the Companies' proposed accelerated pipe replacement efforts 
+13 
+are likely to accelerate the reduction of their overall system leakage rates, and are therefore likely 
+14 
+to be beneficial from the perspective of enhancing system integrity, and advancing ratepayer and 
+15 
+environmental interests.  
+16 
+My analysis of data on distribution system leaks in a range of cities across the U.S. 
+17 
+suggests that the majority of methane emissions from natural gas distribution systems are 
+18 
+attributable to a relatively small number of large leaks, as opposed to clusters of small leaks. This 
+19 
+conclusion is supported by several independent sources. Therefore, the most prudent economic 
+20 
+approach in implementing pipe replacement and leak repair efforts would be to triage the leaks, 
+21 
+focusing repair and replacement efforts first on safety needs and then on the largest leaks or 
+22 
+leakiest pipeline stretches, as appropriate.  It follows that the Companies would enhance the cost-
+23 
+effectiveness of their leak repair and pipe replacement programs by considering leak flow rate 
+24 
+data as a factor in prioritizing pipeline replacement and leak repair. This approach is aligned with 
+25 
+
+
+--- Page 5 ---
+16-G-0058 
+         
+16-G-0059   
+JOSEPH VON FISCHER 
+ 
+Page 5 of 27 
+emerging best practice in the industry as detailed in my testimony. Accordingly, I recommend 
+1 
+that KEDLI draw on leak flow rate data that will be gathered by EDF in its Long Island service 
+2 
+territory to prioritize its leak repair and replacement activities there across the Data Year and Rate 
+3 
+Years, as appropriate. Similarly, I would recommend that KEDNY employ such data previously 
+4 
+gathered by EDF in its service territory in Staten Island to prioritize its leak repair and 
+5 
+replacement activities there across the Data Year and Rate Years, as appropriate. This 
+6 
+Commission has already fostered significant efforts to advance the development and use of 
+7 
+industry best practice by New York utilities, and should continue to do so by recognizing the 
+8 
+benefits of this approach leveraging new technological solutions, in the context of the 
+9 
+Companies’ proposed system modernization and maintenance efforts.   
+10 
+Over the longer term, the Companies can enhance their system modernization and asset 
+11 
+maintenance efforts by exploring the inclusion of leak flow rate as a new variable, with the 
+12 
+appropriate weight, into their hazard ranking algorithms which form the basis of their main 
+13 
+replacement prioritization scheme.   
+14 
+ 
+15 
+III. 
+THE COMPANIES’ PROPOSED PIPELINE INTEGRITY AND RELIABILITY 
+16 
+PROGRAMS 
+17 
+Q. Please summarize your understanding of the Companies’ proposed Pipeline Integrity and 
+18 
+Reliability Programs, and other initiatives proposed by the Companies to minimize leaks 
+19 
+and improve system integrity and reliability.  
+20 
+A. The Companies propose a Gas Safety and Reliability Surcharge to implement their proposed 
+21 
+accelerated leak prone pipe (“LPP”) replacement efforts. While KEDNY proposes to replace at 
+22 
+least 50 miles per year, KEDLI proposes to replace at least 115 miles per year.1 These targets 
+23 
+represent a significant increase in both Companies’ rate of LPP replacement - in KEDNY’s case, 
+24 
+                                                        
+1 Testimony of the Gas Infrastructure & Operations Panel, Book 4 – KEDLI, at page 17.   
+
+
+--- Page 6 ---
+16-G-0058 
+         
+16-G-0059   
+JOSEPH VON FISCHER 
+ 
+Page 6 of 27 
+this new target represents a 100 percent increase over its 2012 target, and KEDLI’s new target 
+1 
+represents a 130 percent increase over its 2014 target.2  
+2 
+Additionally, National Grid proposes an incentive mechanism to fund increases in LPP 
+3 
+replacement going beyond the proposed annual baseline targets by more than five and 20 miles 
+4 
+respectively.3 The Companies would eliminate all LPP on their systems within 20 years if these 
+5 
+incentive targets are met.4  
+6 
+ 
+As far as leak repair efforts are concerned, the Companies propose to reduce their 
+7 
+backlog of non-hazardous leaks annually by an average of 100 and 500 leaks, respectively, over a 
+8 
+three-year period starting with the Rate Year, with a view to enhancing system performance and 
+9 
+reducing methane emissions.5 It is proposed that the Gas Reliability and Safety Surcharge be used 
+10 
+to fund the repair of leaks beyond the above baseline targets based on their respective average 
+11 
+leak repair costs, subject to a total cap of 50 additional leaks per year.6 The Companies are also 
+12 
+proposing additional leak surveillance activities, and targets for reducing their hazardous leaks.7  
+13 
+National Grid further proposes to utilize technology that will extend the life of LPP until 
+14 
+such time as they can be replaced (e.g. Cast Iron Joint Sealing Robot (“CISBOT”), a robot which 
+15 
+seals joints in large diameter leak prone mains at lower cost than traditional joint sealing, and 
+16 
+cured in place (“CIP”) lining, which can increase the longevity of LPP until it is replaced).8   
+17 
+Q. Please summarize the benefits of utilities using leak flow rate data to prioritize leak repair 
+18 
+and pipeline replacement programs.  
+19 
+A. Our data show that natural gas leakage from distribution pipelines is widespread in U.S. cities. 
+20 
+This leakage is costly from the perspective of ratepayers and the environment. Methane, the 
+21 
+                                                        
+2 Testimony of the Gas Infrastructure & Operations Panel, Book 4 – KEDLI, at page 28.   
+3 Testimony of Kenneth D. Daly, Book 1, at page 40.   
+4 Id.  
+5 Testimony of the Gas Safety Panel, Book 6, at page 46.  
+6 Ibid, at page 50.   
+7 Ibid, at page 46.   
+8 Testimony of the Gas Infrastructure & Operations Panel, Book 4 – KEDLI, at page 32.   
+ 
+
+
+--- Page 7 ---
+16-G-0058 
+         
+16-G-0059   
+JOSEPH VON FISCHER 
+ 
+Page 7 of 27 
+principal component of natural gas, is a potent greenhouse gas that, pound for pound, traps 84 
+1 
+times more heat than carbon dioxide over the first 20 years it is released, and is therefore a 
+2 
+significant contributor to climate change.   
+3 
+We have found that leaks vary widely in magnitude such that the larger leaks are often 
+4 
+10-fold to 100-fold larger than the smaller leaks, so that a relatively small number of large leaks 
+5 
+are responsible for the majority of methane emissions and natural gas leaked from distribution 
+6 
+systems. Given the great costs associated with pipeline replacement, the most prudent economical 
+7 
+approach would be to triage the leaks, focusing repair and replacement efforts first on safety 
+8 
+needs and then on the largest leaks or leakiest pipeline stretches, as appropriate.  Leak 
+9 
+quantification can thus help utilities verify and validate the need for both leak repair and pipe 
+10 
+replacement programs, facilitate the cost effective design and implementation of such programs 
+11 
+by allowing for the prioritization of the largest emitters/leakiest segments of pipe, as the case may 
+12 
+be, and allow public utility commissions to consider the need for, and progress of, the relevant 
+13 
+programs. 
+14 
+ 
+15 
+IV. 
+EDF AND CSU’S COLLABORATIVE PROJECT TO SURVEY DISTRIBUTION 
+16 
+SYSTEM LEAKS AND ENGAGEMENT WITH GAS UTILITIES   
+17 
+Q. Please provide a brief overview of EDF and CSU’s collaborative project to survey methane 
+18 
+leaks from distribution systems, and engagement with gas utilities on the use of leak 
+19 
+quantification to prioritize pipe replacement and leak repair efforts (the “Project”).  
+20 
+A. I collaborate with EDF and Google on a unique project aimed at gathering data on the location 
+21 
+and relative size of methane leaks from natural gas distribution systems using three Google Street 
+22 
+View (“GSV”) cars that are specially equipped with methane sensors.  
+23 
+The goal of the Project is to document patterns in the location and magnitude of natural 
+24 
+gas leakage from the distribution systems of different utilities, demonstrate the benefits of using 
+25 
+
+
+--- Page 8 ---
+16-G-0058 
+         
+16-G-0059   
+JOSEPH VON FISCHER 
+ 
+Page 8 of 27 
+leak quantification technology to prioritize utilities’ pipe replacement and leak repair activities, 
+1 
+and to create the impetus for, and facilitate, the integration of this technology into utilities’ 
+2 
+regular leak operations.   
+3 
+The GSV vehicles that collect data as part of this initiative use a Picarro methane 
+4 
+concentration analyzer that has a closed-path design with a sampling frequency of one data point 
+5 
+every half-second, resulting in samples every 13 feet when driving at 20 miles per hour. These 
+6 
+vehicles are also equipped with a Hemispheres Global Positioning System (“GPS”) Receiver to 
+7 
+document patterns in methane concentration in space.  Drivers are asked to drive every public 
+8 
+street in a study area at least twice to ensure accuracy. Re-driving helps confirm the persistence of 
+9 
+elevated methane readings and characterize their emission rate accurately. 
+10 
+Data collected in urban systems and during controlled release experiments informed our 
+11 
+development of a data analysis algorithm to interpret data collected through this Project. We 
+12 
+conducted a number of “controlled release” studies at CSU by releasing methane at known rates 
+13 
+and then drove through the resulting plume with the GSV car.  We analyzed this data for patterns 
+14 
+in plume size and shape to develop an algorithm that predicts leak size from measured patterns in 
+15 
+methane concentration.   
+16 
+Q. In how many cities has EDF mapped methane leaks from natural gas distribution pipelines 
+17 
+as part of the Project? Please summarize key findings and implications for utilities’ pipeline 
+18 
+replacement and leak repair programs. 
+19 
+A. To date, EDF has published methane maps for leaks from natural gas distribution systems in 9 
+20 
+cities: Boston, MA; Burlington, VT; Chicago, IL; Dallas, TX; Indianapolis, IN; Jacksonville, FL; 
+21 
+Los Angeles, CA; New York City (Staten Island), NY and Syracuse, NY. In general, leaks were 
+22 
+encountered more frequently in systems with high levels of older, leak-prone materials on their 
+23 
+distribution systems. That is, a high number of leaks per mile ratio (indicating a greater frequency 
+24 
+of leaks observed), correlates with a higher percentage of leak-prone mains on the relevant utility 
+25 
+
+
+--- Page 9 ---
+16-G-0058 
+         
+16-G-0059   
+JOSEPH VON FISCHER 
+ 
+Page 9 of 27 
+system. Error! Reference source not found. in Exhibit II demonstrates this correlation.  We 
+1 
+found that cities with more leak prone pipe are also more likely to have leaks of larger magnitude. 
+2 
+Data gathered through this Project suggests that the majority of methane emissions from 
+3 
+natural gas distribution systems are attributable to a relatively small number of large leaks, as 
+4 
+opposed to clusters of small leaks. This finding is supported by multiple independent sources. For 
+5 
+instance, a 2014 Stanford University study noted, based on many independent experiments, that a 
+6 
+small number of large leaks are responsible for a large fraction of the leakage from natural gas 
+7 
+systems.9 Together, these findings underscore the need for utilities to replace leak prone pipelines 
+8 
+on their distribution systems, and the benefits of using data on leak flow rate (i.e. the volume of 
+9 
+methane emissions released from a given leak over time) to prioritize the largest leaks for repair 
+10 
+or the leakiest pipe segments for replacement, as the case may be, after addressing those that pose 
+11 
+a safety threat. 
+12 
+Q.  How does the technology that is being used as part of this Project compare with current 
+13 
+practices used by utilities for leak quantification?  
+14 
+A. It is my understanding that few, if any, utilities are routinely using leak flow rate data as a factor 
+15 
+in prioritizing pipeline replacement or leak repair activities.   
+16 
+There are two aspects of our Project that are technologically novel.  First, our group 
+17 
+deploys instruments using highly-sensitive laser absorption spectroscopy to develop ultra-
+18 
+sensitive and precise measures of methane concentration. This sharply contrasts with the less 
+19 
+sensitive instruments that are commonly used by utilities. Less sensitive instruments are not able 
+20 
+to detect small variations above background methane levels, and thus require a higher minimum 
+21 
+methane concentration to identify a leak. Many standard instruments are also unable to 
+22 
+discriminate between methane and other hydrocarbons like gasoline. The use of high-precision 
+23 
+                                                        
+9 A. R. Brandt et al., “Methane Leaks from North American Natural Gas Systems”, Science, Vol. 343, 14 February 
+2011, available at http://www.novim.org/images/pdf/ScienceMethane.02.14.14.pdf.  
+
+
+--- Page 10 ---
+16-G-0058 
+         
+16-G-0059   
+JOSEPH VON FISCHER 
+ 
+Page 10 of 27 
+laser-based instruments (e.g., commercially available methane analyzers manufactured by 
+1 
+companies such as Picarro, LiCor or Los Gatos Research) allows us to use a faster automobile 
+2 
+platform to scan cities for natural gas leaks in a relatively short timeframe.  Second, we have done 
+3 
+research to estimate leak flow rate from the spatial patterns in methane concentration, to arrive at 
+4 
+the volume of methane emitted over time.  In contrast, it is my understanding that utilities 
+5 
+generally do not calculate such leak magnitude estimates from their measures of gas 
+6 
+concentration. 
+7 
+Q. Please explain the controlled release experiments that were used to develop the algorithm 
+8 
+used for the Project.  
+9 
+A. We conducted controlled release experiments between June 2013 and May 2014 by releasing 
+10 
+methane at a range of rates (2, 10, 20 and 40 liters per minute (L min-1)), and repeatedly drove the 
+11 
+sampling vehicle through the plume, varying both the distance between source and vehicle (5, 10, 
+12 
+20 and 40 meters), and vehicle identity (we used 2 of the 3 GSV vehicles on this Project). The 
+13 
+magnitudes of release rates were based on likely leak sizes from urban natural gas distribution 
+14 
+systems.  Distances were based on the plausible distances for a vehicle driving on a public street 
+15 
+to be within range of a natural gas pipeline.  We replicated the controlled release experiments for 
+16 
+each level of methane release rate, in order to collect 10 to 12 observations per level of methane 
+17 
+release rate. 
+18 
+A methane release system was designed to emulate street level gas leaks between 2 and 
+19 
+40 L min-1.  Chemically pure methane from a compressed gas cylinder10 was routed to a mass 
+20 
+flow controller (“MFC”)11 which was set to the desired leak flow rate.   
+21 
+The flow rate from the MFC was verified in the field during each experiment using a 
+22 
+primary volumetric flow meter.12 Methane from the MFC was mixed with ambient air in a 45 liter 
+23 
+                                                        
+10 CY-ME CP200, Airgas USA LLC. 
+11 MCP-50SLPM-D-30PSIA, Alicat Scientific, Tucson, AZ. 
+
+
+--- Page 11 ---
+16-G-0058 
+         
+16-G-0059   
+JOSEPH VON FISCHER 
+ 
+Page 11 of 27 
+mixing chamber to safe working concentrations that were just below the lower explosive limit 
+1 
+(“LEL”).  Concentrations in the mixing chamber were measured continuously with an LEL 
+2 
+sensor13 and we regulated the rate of dilution by adjusting the inlet of a small fan that forced 
+3 
+ambient air into the chamber. Methane-enriched air from the mixing chamber was then routed to 
+4 
+a three-meter section of perforated plastic pipe. This section of pipe was placed on the ground to 
+5 
+emulate a short line-source leak as might occur along a crack in the pavement.  Output from the 
+6 
+MFC and LEL sensors were sampled once per second and logged every minute using a 
+7 
+datalogger.14 
+8 
+Even though distance is a significant factor in shaping the observed peak, the distance 
+9 
+between the vehicle and a real natural gas leak cannot be known a priori.  Therefore, we 
+10 
+aggregated the controlled release data from all distances because estimates of leak magnitude 
+11 
+must operate without that information. As a result, the leak flow rate algorithm was developed 
+12 
+using the best fit for data from all controlled releases within 20 meters (m) of the vehicle.  
+13 
+To develop a predictive equation of the rates of unknown leaks in situ, we fit a General 
+14 
+Linear Model with the peak properties (maximum methane concentration, peak area, and kurtosis, 
+15 
+which is characterized as the ratio of maximum methane concentration to peak area) as 
+16 
+predictors.  This model uses a log-linear relationship between properties of observed methane 
+17 
+leaks and predicted leak flow rate of unknown leaks. This log-linear relationship was indicated as 
+18 
+a best fit during statistical analysis of the data.  The metric used by the algorithm to identify leaks 
+19 
+is maximum methane concentration, which is simply the highest concentration recorded for that 
+20 
+peak.  The total plume area, reported as methane parts per million (ppm) parts of air across meters 
+21 
+(m) of distance between measurements (ppm*meters), is calculated from the excess methane 
+22 
+concentration (observed methane concentration minus background methane concentration 
+23 
+                                                                                                                                                                                  
+12 Defender 510, Mesa Labs, Butler, NJ.  
+13 SEC Millennium, Sensor Electronics Corporation, Minneapolis, Minnesota.  
+14 CR800, Campbell Scientific, Logan, UT.  
+
+
+--- Page 12 ---
+16-G-0058 
+         
+16-G-0059   
+JOSEPH VON FISCHER 
+ 
+Page 12 of 27 
+normally present in air) summed over the length of the peak.  Of the three predictors, kurtosis had 
+1 
+the greatest explanatory power in predicting leak flow rate, but the other predictors were 
+2 
+significant as well. 
+3 
+Q. Were any field tests conducted to validate leak magnitude estimates? If so, what were the 
+4 
+results?   
+5 
+A. We have conducted two validation studies.  The first was conducted at the time of algorithm 
+6 
+development.  In this validation, we drove a GSV vehicle through controlled release methane 
+7 
+plumes of 2, 10, 20 and 40 L min-1 at distances of 5, 10 and 20 m from the vehicle. In all, we 
+8 
+collected 58 observations.   
+9 
+As with the training data, we merged data from all distances and used the predictive 
+10 
+equation from the linear model to estimate the leak flow rate.  We had an overall 86% assignment 
+11 
+success; 88% of low leaks (14 of 16) and 86% for medium leaks (36 of 42) were correctly 
+12 
+assigned. Two of the low leaks were erroneously assigned to medium.  Six medium leaks were 
+13 
+erroneously assigned to low.  None were erroneously assigned to the high category.   
+14 
+In this test, we also varied the driving speed between 16 and 32 kilometers per hour (km 
+15 
+h-1), but we found that differences between speeds had no statistically significant effect on the 
+16 
+predicted emission rate. However, we anticipate that vehicle speed may ultimately impact the 
+17 
+parameters in the model, especially maximum methane concentration, due to the dynamic 
+18 
+instrument response and dilution effects of the air sampling system.  
+19 
+The second test was conducted in an urban environment in Fort Collins, CO.  Data were 
+20 
+collected on July 24, 28 and August 7, 2015 on city streets with active traffic flow.  These urban 
+21 
+conditions were unlike the unobstructed research site where cars were driven at relatively 
+22 
+constant speeds with trajectories that were near perpendicular to the plume trajectory. Instead, the 
+23 
+streets were tree-lined to varying degrees, and roads varied in width and traffic flow from heavy 
+24 
+traffic divided arterial roadway (40° 34' 37.7004'' N, 105° 4' 44.4900'' W), to medium traffic 
+25 
+
+
+--- Page 13 ---
+16-G-0058 
+         
+16-G-0059   
+JOSEPH VON FISCHER 
+ 
+Page 13 of 27 
+divided roadway (40° 34' 32.5560'' N, 105° 5' 45.0708'' W) to relatively quiet three-lane through 
+1 
+street (40° 34' 40.5480'' N, 105° 5' 1.1760'' W).  One location was studied per sample date using 
+2 
+the same release and dilution equipment described above.  The release rates were 0.5, 1, 10, 25, 
+3 
+45 and 50 L min-1, which is somewhat expanded from the range of rates used in the calibration 
+4 
+phase.  The release point was established at a single point 50 centimeters off the edge of the 
+5 
+roadway, and the resulting plumes were driven past at distances ranging from 5 to 21 m, 
+6 
+depending on lane position and driving direction.  Vehicle drive speeds varied with traffic 
+7 
+condition, but generally ranged from 15 to 40 km h-1.  Four to six passes were made for each 
+8 
+release rate at each location.  We made results of this urban test more comparable to field data by 
+9 
+calculating average emission rates from pairs of passes.  
+10 
+Our analysis indicates that leak flow rate estimates from this urban test were accurately 
+11 
+assigned to leak categories.  We had an overall assignment success of 76%; 83% for low leaks (5 
+12 
+of 6) and 88% for medium leaks (22 of 25). One of the low leak flow rates was erroneously 
+13 
+assigned to the medium category and three medium leak flow rates were erroneously assigned to 
+14 
+the low category. There was a tendency to underestimate the category of high leak flow rates; 
+15 
+only 29% (2 of 7) were correctly assigned to the high category, while the other 5 leaks were 
+16 
+incorrectly assigned to the medium category. However, we have consistently found in cities 
+17 
+nationwide with a high abundance of leak-prone pipe that both medium and high leak flow rates 
+18 
+are rare, as they are typically flagged for accelerated repair and addressed promptly after 
+19 
+detection by utilities.  
+20 
+Results from this urban controlled release indicate an overall lack of bias in our 
+21 
+quantitative estimates of leakage rate.  Regression of true vs. estimated release rates indicate that 
+22 
+our estimated rates are unbiased:  estimated slope of 0.959±0.09 (1 standard deviation (“SD”)) 
+23 
+was not different from 1 and the intercept of 1.28±2.1 was not different from 0.  
+24 
+Q. What are the criteria for finding a leak/elevated methane reading? 
+25 
+
+
+--- Page 14 ---
+16-G-0058 
+         
+16-G-0059   
+JOSEPH VON FISCHER 
+ 
+Page 14 of 27 
+A. We characterized methane concentrations as elevated by comparing individual data points with 
+1 
+average background concentrations.  We found background methane levels were highly variable 
+2 
+within and among cities and in time, and thus found a fixed threshold suboptimal. Instead, we 
+3 
+defined local background methane concentrations as a moving average long enough for the 
+4 
+baseline itself to be unaffected by large natural gas leaks, yet small enough to reflect local 
+5 
+variations.  Controlled release experiments described above indicated that a two-minute window 
+6 
+optimized this tradeoff; for example, a large (40 L min-1) leak caused methane to be elevated for 
+7 
+40 m or about 5 seconds at a typical 40 km h-1 driving speed, and so a large leak would have less 
+8 
+than 5% impact on the baseline methane concentration over a 2 minute period. As noted above, 
+9 
+leaks are binned into low, medium and high categories, depending on leak flow rate – that is, the 
+10 
+magnitude of elevated concentrations observed over time. 
+11 
+We developed a protocol for flagging methane readings as significantly above 
+12 
+background based on typical instrument precision and results from controlled release 
+13 
+experiments. The threshold for defining elevated methane concentrations was greater than 10% or 
+14 
+greater than 4 SD above background, whichever is greater. In an examination of data collected in 
+15 
+urban areas, we found that the 10% threshold was invoked for more than 90% of readings as 
+16 
+compared to the 4 SD threshold; the latter only defined the threshold in areas with high 
+17 
+background and/or highly variable methane readings. 
+18 
+Q. Please explain how leaks are binned into “small”, “medium” and “large” categories. How 
+19 
+accurate is the binning?   
+20 
+A. A regression of known vs. predicted leak flow rates reveals a statistically significant (p<0.0001) 
+21 
+and useful (r2 = 0.43) relationship between the known and estimated leak flow rate. Some of the 
+22 
+unexplained variation arises because distance to the source was treated as an unknown; the size of 
+23 
+leaks 15-20 m away were underestimated, those 0-5 m were overestimated, and the prediction 
+24 
+was most accurate about 10 m away. As a result of this uncertainty, we sought not to predict 
+25 
+
+
+--- Page 15 ---
+16-G-0058 
+         
+16-G-0059   
+JOSEPH VON FISCHER 
+ 
+Page 15 of 27 
+discrete  leak flow rates, but to rather segregate the leaks into classes, low (0-6 L min-1), medium 
+1 
+(6-40 L min-1) or high (above our highest release rate or >40 L min-1). 
+2 
+In our communications with the public and with utilities about the sizes of individual 
+3 
+leaks, we sought to convey the analytical uncertainty associated with the size of each leak.  
+4 
+Previous studies in science communication have indicated that this uncertainty can cause 
+5 
+confusion and therefore limit the usefulness of the leak magnitude information.15  Following the 
+6 
+work of Severtson (2015),16 we assigned leaks to categorical bins. In our conversations with 
+7 
+utilities, utility experts identified the primary need as discriminating small leak flow rate < 6 L 
+8 
+min-1 from medium leak flow rates (6-40 L min-1).  We also developed a high bin (> 40 L min-1) 
+9 
+for leak rates estimated to be larger than our highest controlled release rate. These bins allowed a 
+10 
+high degree of accuracy for assigning individual leaks to the correct bins: 97% of low leaks (33 of 
+11 
+34) and 92% of medium leaks (98 of 107) were correctly assigned.    
+12 
+Q. Are there mechanisms for screening out “false negatives” and “false positives”?  
+13 
+A. We screened out false positives using spatial and temporal features that were relatively unique to 
+14 
+natural gas leaks.  Firstly, controlled release experiments revealed that leaks at or below 40 L 
+15 
+min-1 typically caused elevated methane to occur on spatial scales within 100 m, and so we 
+16 
+assumed elevated methane readings extending further than 100 m were not natural gas leaks.  
+17 
+This spatial criterion may lead to conservative results where multiple leaks in close proximity 
+18 
+cause elevated methane to occur along greater distances than 100 m of roadway, causing those 
+19 
+leaks to be discarded from the data set.  
+20 
+Secondly, because natural gas is under relatively constant pressure in the distribution 
+21 
+lines, we set a temporal criterion of persistently elevated methane concentrations. Elevated 
+22 
+readings measured only once were assumed not to come from natural gas leaks. This last step 
+23 
+                                                        
+15 Severtson DJ (2015) Testing Map Features Designed to Convey the Uncertainty of Cancer Risk: Insights Gained 
+From Assessing Judgments of Information Adequacy and Communication Goals. Sci Commun 37(1):59–88. 
+16 Id. 
+
+
+--- Page 16 ---
+16-G-0058 
+         
+16-G-0059   
+JOSEPH VON FISCHER 
+ 
+Page 16 of 27 
+required a GIS analysis to identify when the midpoint of observed peaks were within 100 m of 
+1 
+each other.   
+2 
+Thus, we defined a “leak” as an elevated readings that were found more than once within a 100 m 
+3 
+distance of each other.   
+4 
+To further reduce false detections from wetlands or landfills, which also produce 
+5 
+methane, we excluded any readings from the analysis where the average baseline concentrations 
+6 
+were more than 2.8 ppm.  For example, this situation has been consistently observed around 
+7 
+landfills like the Freshkills landfill on Staten Island. We excluded roads where traffic moved 
+8 
+faster than 70 km h-1 because the magnitude of vehicle-induced wind movement could cause 
+9 
+dilution, and increased location uncertainty that would yield low-quality observations.        
+10 
+Q.  Please explain the protocols for data collection and analysis as part of the Project.   
+11 
+A.  The analyzer and GPS system continuously deliver quality control metrics to help identify data to 
+12 
+be excluded based on degraded instrument performance.  Data points are excluded on the basis of 
+13 
+poor GPS position lock or poor methane analyzer performance.  These errors affect less than 1% 
+14 
+of the total data. GSV car drivers are instructed to drive every public road in the study area at 
+15 
+least two times. Data that passes quality control metrics is then analyzed to find where methane 
+16 
+concentrations are significantly above background levels, excluding roads and driving speeds 
+17 
+faster than 70 km h-1.  For each area in which we have conducted a leak survey, the final data set 
+18 
+includes only those leaks that passed the above filters and are reported as the average leak 
+19 
+location, the estimated leak flow rate and the associated leak flow rate category. 
+20 
+Q. Please explain the stochastic nature of leak observation as part of this study. What are the 
+21 
+implications?    
+22 
+A. The probability of observing a leak from low-pressure natural gas pipes appears to be influenced 
+23 
+by leak magnitude, with larger leaks observed more frequently.  As a consequence, the data that 
+24 
+we have collected reflects a sample of the natural gas leaks in any given city, not a 
+25 
+
+
+--- Page 17 ---
+16-G-0058 
+         
+16-G-0059   
+JOSEPH VON FISCHER 
+ 
+Page 17 of 27 
+comprehensive inventory, because even when leaks are persistent, they are not observed all the 
+1 
+time.  Atmospheric stability, wind speed and direction, traffic effects and other factors can 
+2 
+prevent a sampling vehicle from detecting a natural gas plume.  Observation of the plume is thus 
+3 
+an unpredictable event to some degree, but this stochasticity can be greatly reduced with 
+4 
+increased observations.  
+5 
+There are several important implications of the stochastic nature of methane plume 
+6 
+detection.  First, our survey of natural gas leaks is a sample and not a complete census.  The 
+7 
+probability of observing all of the leaks in a city rises with sampling effort, with 8 or 9 
+8 
+observations of a stretch of road required to measure at least 90% of the true population of leaks.  
+9 
+In comparison, routine utility leak surveys are intended to be a complete census, though it seems 
+10 
+likely that those efforts also miss some leaks.  When we compared our leak maps with utilities’, 
+11 
+we consistently identified leaks that the utilities were unaware of, and vice versa. Second, these 
+12 
+stochastic effects and our requirement of two or more observations suggest that our estimates of 
+13 
+total leak frequency and magnitude should be considered underestimates of the true rates. 
+14 
+Q. What were the findings of the Project? How do cities with older, more leak prone 
+15 
+distribution systems compare with those that have newer, less leak prone distribution 
+16 
+systems? 
+17 
+A. My work shows that cities differ sharply in the number of leaks observed, depending, in part, on 
+18 
+whether, and the extent to which, they had conducted accelerated pipeline replacement programs 
+19 
+(“APRPs”).  In general, cities that are known to have relatively newer, less leak prone distribution 
+20 
+systems were found to have fewer leaks than cities with older, more leak prone systems. For 
+21 
+instance, Burlington, VT and Indianapolis, IN registered 11 and 5 leaks, respectively, while we 
+22 
+found hundreds or thousands of leaks in cities known to have older, more leak prone gas 
+23 
+infrastructure such as Boston, MA, Staten Island, NY and Syracuse, NY.   
+24 
+
+
+--- Page 18 ---
+16-G-0058 
+         
+16-G-0059   
+JOSEPH VON FISCHER 
+ 
+Page 18 of 27 
+For a more direct comparison, these leak counts should be normalized to the length of 
+1 
+distribution lines or to the gas flow rate beneath the survey area, but appropriate data and/or 
+2 
+infrastructure information were not in place to make this estimate. As a surrogate for this 
+3 
+analysis, I calculated the frequency of leaks per unique km of roadway surveyed.  This 
+4 
+normalization did not alter our broad conclusions from an analysis of the raw data; there only 
+5 
+were 6 leaks per 100 km in Burlington and 0.4 per 100 km in Indianapolis, while Boston had 56 
+6 
+per 100 km, Staten Island had 63 per 100 km and Syracuse had 28 per 100 km. 
+7 
+In all cities, low leak flow rates were far more common (83% to 100% of cities’ leaks) 
+8 
+than medium (0% to 17%) or high (0% to 2%).  
+9 
+We estimated the average leak flow rates for each city as the sum of estimated leak flow 
+10 
+rates per 100 km of roadway surveyed.  When multiplied by the length of roadways in each city, 
+11 
+we conservatively estimate that these leaks from Boston amount to at least 1300 tons methane yr-
+12 
+1, 1000 tons methane yr-1 in Staten Island and 300 tons methane yr-1 in Syracuse. 
+13 
+Many sectors of the natural gas supply system have a “fat tail problem” where large, 
+14 
+infrequent leaks cause a significant proportion of the total system leakage.  Our data suggest that 
+15 
+APRPs generally achieve their goals of significantly reducing the frequency of these larger leaks. 
+16 
+The magnitude of the potential for leak reduction is stark:  cities that were known to have 
+17 
+relatively newer, less leak prone systems due to the implementation of APRP programs show an 
+18 
+average 95% reduction in the normalized system leakage rate as compared to other cities.  
+19 
+Q. Have the results of this study been published in a peer reviewed scientific journal? 
+20 
+A. My colleagues and I have submitted this study to Environmental Science and Technology.  It is 
+21 
+undergoing the review and revision process at this time.  We currently anticipate that it will be 
+22 
+published before the end of 2016.   
+23 
+ 
+24 
+V. 
+ONGOING AND COMPLETED PILOT PROGRAMS WITH UTILITIES  
+25 
+
+
+--- Page 19 ---
+16-G-0058 
+         
+16-G-0059   
+JOSEPH VON FISCHER 
+ 
+Page 19 of 27 
+Q. Please provide an overview of the utility focused collaborative leak quantification pilot 
+1 
+programs that you have been engaged with as part of the Project.   
+2 
+A. Currently, as part of the Project, we are collaborating with Con Edison to quantify and map the 
+3 
+utility’s backlog of approximately 300 leaks that they have shared with my team at CSU and 
+4 
+EDF. These leaks have been graded by Con Edison as Type 3,non-hazardous leaks. Type 3 leaks 
+5 
+are typically monitored and re-graded over time if they become hazardous, however, unlike Type 
+6 
+1, 2, and 2A leaks, there is no regulatory requirement for Type 3 leaks in New York to be 
+7 
+repaired within a specified timeframe.17   
+8 
+As a part of my and EDF’s collaboration with Con Edison, the utility has stated an 
+9 
+intention to prioritize the repair of a specified percentage of these Type 3 leaks classified based 
+10 
+on emissions flow rate and/or leaks totaling a specified percentage of emissions – this specified 
+11 
+percentage will be determined by Con Edison in consultation with relevant stakeholders.   
+12 
+As of May 2016, a GSV car has been deployed to map and measure leak flow rates in 
+13 
+Con Edison’s service area based on the general locations of Type 3 leaks that Con Edison has 
+14 
+provided.  My team will analyze the data to assign each leak to small, medium and large size 
+15 
+categories, as appropriate, to arrive at the number of leaks in each size category, the percentage of 
+16 
+total leak flow rate represented by a given leak, and the leak flow rate normalized by mile of 
+17 
+roadway and mile of pipeline. 
+18 
+Along similar lines, last year, EDF and CSU engaged with New Jersey’s oldest and 
+19 
+largest utility, Public Service Electric & Gas (“PSE&G”) on a collaborative pilot project in the 
+20 
+context of that utility’s proposed accelerated pipe replacement program. As part of this project, 
+21 
+EDF gathered leak flow rate data from leaking pipes in PSE&G’s service territory through a 
+22 
+mobile leak survey using GSV cars that were specially outfitted with methane sensors. PSE&G 
+23 
+shared information with EDF on the location and type of its pipelines, enabling the collection of 
+24 
+                                                        
+17 16 CRR-NY 255.817 (2016).  
+
+
+--- Page 20 ---
+16-G-0058 
+         
+16-G-0059   
+JOSEPH VON FISCHER 
+ 
+Page 20 of 27 
+spatially referenced leak flow rate data, attributing leaks to specific pipes targeted for 
+1 
+replacement. Using this leak flow rate data, PSE&G is applying a grid method to prioritize pipe 
+2 
+segments for replacement.18 This methodological approach, illustrating how leak flow rate data 
+3 
+can be used to better prioritize pipe replacement and leak repair activities in order to optimize 
+4 
+ratepayer, environmental and system-wide outcomes, is outlined below.  
+5 
+First, PSE&G’s distribution system was mapped and divided into equally sized grids, 
+6 
+each measuring approximately one square mile. Using its Hazard Risk Index Model, PSE&G 
+7 
+ranked grids for pipeline replacement based on the Hazard Index per mile of cast iron in each 
+8 
+grid.19  
+9 
+Next, using GSV cars equipped with mobile mounted methane detection equipment, EDF 
+10 
+surveyed 30 grids targeted for pipe replacement in order to detect individual leaks in each grid, 
+11 
+and to quantify the leak flow rate for each leak. 
+12 
+ 
+Leak flow rates for all leaks detected in a given grid were then summed and divided by 
+13 
+the total number of miles of pipe in each grid to arrive at the estimated leak flow rate per mile of 
+14 
+pipe in each grid. This metric allowed for the ranking of grids by overall leak flow rate per mile 
+15 
+of pipe (see sample table generated using fictitious data in Error! Reference source not found., 
+16 
+Exhibit V). This data was used to develop maps of each grid cell (see sample map generated 
+17 
+using fictitious data in Error! Reference source not found., Attachment IVError! Reference 
+18 
+source not found.Error! Reference source not found.Error! Reference source not found.), 
+19 
+                                                        
+18 PSE&G. (2015, November 16). PSE&G Receives Approval of $905 Million Program to Accelerate Replacement 
+of Aging Gas Infrastructure. PSE&G Newsroom. Newark, NJ. Retrieved from 
+https://www.pseg.com/info/media/newsreleases/2015/2015-11-16.jsp#.VuoR_XoXdS1.  
+19 PSE&G conducts an annual study using this model to evaluate each cast iron main segment that has had a break to 
+rank each segment for replacement based on a combination of break history and environmental factors. Each map 
+grid is ranked by adding the hazard indexes for individual pipe segments within the grid and dividing them by the 
+total miles of utilization pressure cast iron in the grid, arriving at a hazard index per mile for each map grid.  Using 
+the hazard index per mile results, grids were ranked by highest to lowest and then placed into A, B, C and D priority 
+grids categories.  
+
+
+--- Page 21 ---
+16-G-0058 
+         
+16-G-0059   
+JOSEPH VON FISCHER 
+ 
+Page 21 of 27 
+presenting a visual depiction of the relative size, frequency and location of leaks in each grid cell, 
+1 
+and attributing each leak to particular segments of utility infrastructure. 
+2 
+This information was used by PSE&G in conjunction with results derived using its 
+3 
+hazard risk index model and other operational factors to prioritize grids for replacement. 
+4 
+Specifically, for grids with comparable hazard ranks, the overall leak flow rate/mile of pipe was 
+5 
+considered to identify and prioritize the leakier grids for replacement.  Large individual leaks 
+6 
+were also targeted for urgent repair. 
+7 
+Q. Please describe the procedure used for attribution of leaks to PSE&G infrastructure under 
+8 
+this leak quantification pilot project.  
+9 
+A. To attribute an elevated reading to a location, a series of buffering and consolidation procedures 
+10 
+are used, which are graphically represented in sequential order in Error! Reference source not 
+11 
+found.of Exhibit III. First, the series of points representing an elevated methane reading is 
+12 
+buffered using a 20 meter buffer (Steps 1 and 2). This buffer distance represents the average 
+13 
+width of a plume of gas at the distances from curbside likely to be encountered while driving a 
+14 
+city street, as identified by the controlled release testing described above. Each 20 meter buffer is 
+15 
+then consolidated into a single point, that is, the centroid (Step 3), each of which is again buffered 
+16 
+using a 20 meter buffer (Step 4). Overlapping buffers (hereafter an “Observed Reading Cluster” 
+17 
+or “ORC”) are then merged into a single buffer, the centroid of which is the location assigned to a 
+18 
+“verified leak” (Steps 5, 6 and 7). A verified leak is constituted of at least two overlapping 
+19 
+buffers; in other words, a leak must have been detected on at least two separate sampling drives 
+20 
+for it to constitute a verified leak.  
+21 
+Any verified leak with an associated ORC intersecting the utility’s pipe is attributed to 
+22 
+that pipe. In instances where an ORC intersects multiple pipes, such as pipeline intersections, a 
+23 
+leak cannot be attributed to a specific utility pipe segment, but can still generally be attributed to 
+24 
+the utility’s infrastructure. The size of the mapped ORCs represents the relative uncertainty of 
+25 
+
+
+--- Page 22 ---
+16-G-0058 
+         
+16-G-0059   
+JOSEPH VON FISCHER 
+ 
+Page 22 of 27 
+verified leak locations. The larger the plume of leaked gas, and the resulting ORC, the greater the 
+1 
+uncertainty of the actual leak location.  
+2 
+Only ORCs and verified leaks attributable to the utility’s infrastructure are included on 
+3 
+the leak maps. As such, these maps represent only a subset of the total number of leaks identified 
+4 
+for each drive area comprising a particular “grid” or parcel of a utility’s pipelines.  
+5 
+Q. What purpose do the maps serve in the leak attribution analysis performed as part of the 
+6 
+PSE&G pilot project? 
+7 
+A. For each of the grids driven, two maps were developed. I present two fictitious, side-by-side 
+8 
+sample maps in my testimony (Error! Reference source not found., Exhibit IV) to reflect the 
+9 
+underlying methodological approach employed in collaboration with PSE&G in New Jersey in 
+10 
+the context of that utility’s pipe replacement program. The map on the left represents ORCs that 
+11 
+intersect the utility’s pipe and are therefore attributable to the utility’s infrastructure. The map on 
+12 
+the right reflects the corresponding verified leaks. The map on the left is important in that it 
+13 
+reflects the relative locational uncertainty of each leak (locational uncertainty of each leak is 
+14 
+reflected in the size of the corresponding ORC, as discussed above). By way of clarification, 
+15 
+while legends for the map on the left relate to the relative size of each ORC, i.e. each cluster of 
+16 
+observed readings, the legends for the map on the right relate to the size of each individual 
+17 
+verified leak.   
+18 
+Q.  Please describe the pilot projects that EDF is conducting in collaboration with National 
+19 
+Grid. 
+20 
+A.  EDF and National Grid have agreed to collaborate on a range of new pilot projects, in order to 
+21 
+advance the use of new technological solutions, including advanced leak detection and 
+22 
+quantification methods, to build on National Grid’s ongoing efforts to enhance its system 
+23 
+modernization and maintenance efforts.  
+24 
+
+
+--- Page 23 ---
+16-G-0058 
+         
+16-G-0059   
+JOSEPH VON FISCHER 
+ 
+Page 23 of 27 
+As explained in further detail below, these projects build on EDF’s previous collaborative 
+1 
+efforts with major utilities, including National Grid, as well as the utility’s own efforts to advance 
+2 
+the integration of new technologies to address distribution system leaks. These projects are aimed 
+3 
+at providing additional data and perspective around underground infrastructure condition, 
+4 
+leakiness and program need, to help National Grid and the Commission balance the need for pipe 
+5 
+replacement/repair efforts with the associated costs.   
+6 
+• 
+Pilot project addressing National Grid’s leak-prone infrastructure in Staten Island 
+7 
+This is a pilot project aimed at using leak flow rate data gathered through EDF’s survey of 
+8 
+National Grid’s service territory in Staten Island in 2014 to address the company’s leak-prone 
+9 
+infrastructure in Staten Island. This pilot will use a two pronged approach.   
+10 
+As part of Phase 1 of this pilot, EDF will (a) share with National Grid leak magnitude 
+11 
+information for areas surveyed in Staten Island, and (b) compare leak data gathered through the 
+12 
+2014 survey with National Grid’s current leak inventory for Staten Island to identify medium and 
+13 
+large sized leaks detected as part of the EDF survey that have not yet been repaired. National Grid 
+14 
+will then use this information in prioritizing repair of these large leaks in order to reduce its 
+15 
+overall system-wide emissions in Staten Island in an efficient manner.  
+16 
+As part of Phase 2 of the pilot, EDF and National Grid, working together, will divide 
+17 
+National Grid’s service territory into a number of comparable, similarly sized polygons. Using 
+18 
+leak flow rate data gathered by EDF, polygons with a relatively high leak density (i.e., high 
+19 
+number of leaks per mile of roadway or mile of pipeline) will then be identified, and prioritized 
+20 
+for pipe replacement, after addressing segments of pipe with high risk ranking per mile scores. It 
+21 
+is anticipated that this project will be commenced in the 2016 timeframe.        
+22 
+• 
+Pilot project addressing National Grid’s leak-prone infrastructure in Long Island 
+23 
+This project is aimed at piloting the same two pronged methodological approach outlined for the 
+24 
+first project above, in National Grid’s service territory in Long Island to address the company’s 
+25 
+
+
+--- Page 24 ---
+16-G-0058 
+         
+16-G-0059   
+JOSEPH VON FISCHER 
+ 
+Page 24 of 27 
+leak-prone infrastructure located there. EDF proposes to dispatch a GSV car to Long Island to 
+1 
+survey sections of the company’s service territory located there that have been identified for pipe 
+2 
+replacement in 2017. It is anticipated that the leak survey will be commenced in spring 2017 or 
+3 
+earlier, depending on resource availability.   
+4 
+• 
+Development of emission factors for CISBOT 
+5 
+Emission factors have not specifically been developed for CISBOT, making it 
+6 
+challenging to accurately estimate its impact in reducing system-wide emissions. This project is 
+7 
+aimed at addressing this challenge by developing emission factors specifically for CISBOT, 
+8 
+potentially by comparing emissions data gathered by EDF through a contemporaneous leak 
+9 
+survey of National Grid’s service territory where CISBOT has been employed (“treatment area”) 
+10 
+with areas where it has not been employed (“control area”).  It is anticipated that National Grid’s 
+11 
+service territory in New York City (and potentially other locations, where CISBOT has been used 
+12 
+more intensively than in other parts of National Grid’s service territory) may be best suited for 
+13 
+this proposed leak survey aimed at developing emission factors for CISBOT.  
+14 
+• 
+Explore integration of leak flow rate into hazard ranking algorithm 
+15 
+Finally, from a longer term perspective, EDF and National Grid will collaborate to consider the 
+16 
+potential for leak flow rate to be incorporated as a distinct variable, with the appropriate weight, 
+17 
+into National Grid’s existing hazard ranking algorithm. 
+18 
+Q.  What are your recommendations with respect to KEDLI and KEDNY’s proposed 
+19 
+accelerated pipe replacement and leak repair efforts? 
+20 
+A.  As discussed above, data that I have reviewed as part of the Project suggests that accelerated pipe 
+21 
+replacement programs are associated with an average 95% reduction in the normalized system 
+22 
+leakage rate as compared to other cities. If properly designed and executed, the Companies' 
+23 
+proposed accelerated pipe replacement efforts are therefore likely to accelerate the reduction of 
+24 
+their overall system leakage rates. 
+25 
+
+
+--- Page 25 ---
+16-G-0058 
+         
+16-G-0059   
+JOSEPH VON FISCHER 
+ 
+Page 25 of 27 
+Data collected through the Project shows that leaks vary widely in magnitude such that 
+1 
+the larger leaks are often 10-fold to 100-fold larger than the smaller leaks, so that a relatively 
+2 
+small number of large leaks are responsible for the majority of methane emissions and natural gas 
+3 
+leaked from distribution systems. This conclusion is supported by multiple independent sources. 
+4 
+Therefore, the most prudent economic approach in implementing pipe replacement and leak 
+5 
+repair efforts would be to triage the leaks, focusing repair and replacement efforts first on safety 
+6 
+needs and then on the largest leaks or leakiest pipeline stretches, as appropriate.  It follows that 
+7 
+the Companies would enhance the cost-effectiveness of their leak repair and pipe replacement 
+8 
+programs by using data on leak flow rate, such as that being provided by EDF, as a factor in 
+9 
+prioritizing pipeline replacement and leak repair.  
+10 
+Accordingly, I would recommend that KEDLI draw on leak flow rate data that will be 
+11 
+gathered by EDF in its Long Island service territory to prioritize its leak repair and replacement 
+12 
+activities there across the Data Year and Rate Years, as appropriate. Similarly, I would 
+13 
+recommend that KEDNY employ such data previously gathered by EDF in its service territory in 
+14 
+Staten Island to prioritize its leak repair and replacement activities there across the Data Year and 
+15 
+Rate Years. This approach is an emerging industry best practice. The Commission should 
+16 
+continue its efforts to foster and advance the use of industry best practices by New York utilities 
+17 
+by recognizing the benefits of this approach and creating a pathway for its integration in the 
+18 
+context of the Companies’ proposed accelerated pipe replacement and leak repair efforts.     
+19 
+Over the longer term, New York utilities and this Commission should move in the 
+20 
+direction of enhancing the foundational basis of utilities’ system modernization and maintenance 
+21 
+efforts. The Companies can enhance their system modernization and asset maintenance efforts by 
+22 
+exploring the inclusion of leak flow rate as a new variable, with the appropriate weight, into their 
+23 
+hazard ranking algorithms, which form the basis of their main replacement prioritization 
+24 
+framework. Currently, the Companies prioritize main replacement using a risk ranking model that 
+25 
+
+
+--- Page 26 ---
+16-G-0058 
+         
+16-G-0059   
+JOSEPH VON FISCHER 
+ 
+Page 26 of 27 
+considers factors such as leak repair history, types of leak, pipe material, surrounding geography, 
+1 
+segment length, nearby construction activity, field conditions, customer issues, open leaks and 
+2 
+engineering judgment.20 Factors such as pipeline pressure and diameter may serve as proxies for 
+3 
+leak flow rate. However, with leak quantification methodologies rapidly evolving and becoming 
+4 
+commercially available, actual, measured leak flow rate can be used to enhance utility system 
+5 
+modernization and maintenance efforts.      
+6 
+V.   CONCLUSION 
+7 
+Q. Please summarize your recommendations and conclusions.   
+8 
+A. My main recommendations and conclusions are summarized below: 
+9 
+• 
+Data that I have reviewed as part of the Project suggests that accelerated pipe replacement 
+10 
+programs are associated with an average 95% reduction in the normalized system leakage 
+11 
+rate as compared to other cities. If properly designed and executed, the Companies' proposed 
+12 
+accelerated pipe replacement efforts are likely to accelerate the reduction of their overall 
+13 
+system leakage rates.   
+14 
+• 
+The Companies would enhance the cost-effectiveness of their leak repair and pipe 
+15 
+replacement programs by using data on leak flow rate as a factor in prioritizing pipeline 
+16 
+replacement and leak repair. By addressing the largest leaks first, after fixing those that pose 
+17 
+a safety threat, the Companies will provide enhanced benefits to ratepayers by reducing the 
+18 
+amount of lost gas, and also capture environmental benefits. The Commission should 
+19 
+continue its efforts to advance the use of industry best practices by New York utilities by 
+20 
+recognizing the benefits of this emerging best practice and creating a pathway for its 
+21 
+integration in the context of the Companies’ proposed accelerated pipe replacement and leak 
+22 
+repair efforts.     
+23 
+                                                        
+20 Testimony of the Gas Infrastructure & Operations Panel, Book 4 – KEDLI, at pages 54-55.    
+
+
+--- Page 27 ---
+16-G-0058 
+         
+16-G-0059   
+JOSEPH VON FISCHER 
+ 
+Page 27 of 27 
+• 
+From a longer term perspective, New York utilities and this Commission should move in the 
+1 
+direction of enhancing the foundational basis of utilities’ system modernization and 
+2 
+maintenance efforts. Accordingly, I recommend that KEDLI and KEDNY consider the 
+3 
+scope for including leak flow rate as a new variable, with the appropriate weight, in their 
+4 
+hazard ranking algorithms. This additional information can enhance the foundational basis 
+5 
+of the Companies’ system modernization and maintenance efforts.     
+6 
+Q. Does this conclude your testimony? 
+7 
+A. Yes. 
+8 
+
+
+--- Page 28 ---
+ 
+ 
+ 
+ 
+ 
+Testimony of Joseph Von Fischer 
+ 
+Exhibit___(JVF-1) 
+ 
+Resume of Joseph Von Fischer 
+ 
+ 
+ 
+ 
+ 
+ 
+ 
+ 
+ 
+ 
+ 
+ 
+ 
+ 
+ 
+ 
+ 
+ 
+ 
+ 
+ 
+ 
+ 
+ 
+ 
+ 
+ 
+ 
+ 
+ 
+ 
+
+
+--- Page 29 ---
+Exhibit___(JVF-1) 
+Page 1 of 14 
+Joseph C. von Fischer 
+Curriculum Vitae 
+May 2016 
+Address 
+Department of Biology 
+Colorado State University 
+Fort Collins, CO 80523 
+(970) 491-2679  jcvf@colostate.edu 
+http://www.biology.colostate.edu/faculty/jcvf 
+ 
+Research Interests 
+Greenhouse gases, ecosystem ecology, microbial ecology, terrestrial biogeochemistry, 
+anthropogenic methane sources, natural gas, climate change, plant-soil-microbe interactions, 
+stable isotopes, paleoclimate, grasslands, wetlands, Arctic tundra. 
+ 
+Current Appointments 
+Associate Chair, Department of Biology, Colorado State University.  August 2014 – present.  
+Associate Professor with tenure, Department of Biology, Colorado State University,  
+August 2012 – present. 
+Advising Faculty, Graduate Degree Program in Ecology, Colorado State University.  
+2003 – present.  
+Affiliate Scientist, Natural Resource Ecology Laboratory, Colorado State University,  
+2009 – Present. 
+ 
+Education 
+Postdoctoral Fellow, Department of Geosciences, Princeton University, Princeton, NJ.   
+2001 – 2003.  Advisor: Michael Bender. 
+Ph.D., Ecology and Evolutionary Biology, Cornell University, Ithaca, NY, 2002. “Gross Methane 
+Transformations and Methanogenic Microsites along Natural Soil Moisture Gradients.”   
+Participant in the graduate program: Biogeochemistry and Environmental Change.  
+Advisor: Lars Hedin. 
+B.A., Biology, Augustana College, Sioux Falls, SD. 1992. 
+ 
+Professional Experience 
+Merkator Fellow, Friedrich Schiller University, Jena, Germany.  Host Kirsten Küssel.  November 
+2013 – July 2014.  
+Visiting Scientist in Residence (sabbatical), Max Planck Institute for Biogeochemistry, Jena, 
+Germany.  Host Susan Trumbore.  August 2103 – July 2014. 
+Assistant Professor, Department of Biology, Colorado State University,  
+August 2007 – July 2012. 
+Research Scientist I, Natural Resource Ecology Laboratory, Colorado State University.  
+2003 – 2009.  
+
+
+--- Page 30 ---
+ 
+Exhibit___(JVF-1) 
+Page 2 of 14 
+ 
+ 
+Special Assistant Professor, non-tenure track, Department of Biology, Colorado State 
+University, Fort Collins, CO. August 2003 – August 2007.  
+Visiting Researcher, Santa Fe Institute, Santa Fe, NM. May – July 2003.  
+Research Technician Michigan State University at the W.K. Kellogg Biological Station, Hickory 
+Corners, MI.  With Lars Hedin. 1992 – 1993.  
+ 
+Publications (*graduate student, †undergraduate student) 
+von Fischer, J.C., D. Cooley, A. Gaylorda, C.J. Griebenow, S.P. Hamburg, J. Salo, R. 
+Schumacher, D. Theobald and J. Ham. (submitted) “Rapid Identification of location and 
+magnitude of urban natural gas pipeline leaks” at Environmental Science and 
+Technology.   
+Evans*, S.E., P.E. Brewer*, J.G. Ernakovich*, J.M. Steinweg* and J.C. von Fischer (in revision) 
+“Anoxic microsites in upland ecosystems:  a review of evidence and implications for 
+nutrient dynamics, trace gas flux, carbon storage, and biodiversity.  Ecosystems. 
+Judd, C, A. Koyama, P.E. Brewer, M.P. Simmons, and J.C. von Fischer (2016) “Co-variation in 
+methanotroph community composition and activity in three temperate grassland soils.” 
+Soil Biology and Biochemistry. doi:10.1016/j.soilbio.2015.12.014 
+Jochum*, T., von Fischer, J.C., Trumbore, S., Popp, J., Frosch, T. (2015) "Multi-gas leakage 
+correction in static environmental chambers using sulfur hexafluoride and Raman 
+spectroscopy"  Analytical Chemistry 87 (21):11137–11142.  
+doi: 10.1021/acs.analchem.5b03312 
+Nowak, M.E., S.E. Trumbore, J.C. von Fischer, (2015) “Autotrophic fixation of geogenic CO2 by 
+microorganisms contributes to soil organic matter formation and alters isotope 
+signatures in a wetland mofette” Biogeosciences 12: 7169-7183.  doi:10.5194/bg-12-
+7169-2015. 
+Wilcox*, K.R., J.C. von Fischer, J.M. Muscha, Mark K. Peterson and A.K. Knapp (2015) 
+“Contrasting above- and belowground sensitivity of three Great Plains grasslands to 
+altered rainfall regimes.” Global Change Biology 21(1):335-344. doi: 10.1111/gcb.12673 
+Fest*, B.K., S.J. Livesly, J.C. von Fischer and S.K. Arndt (2015) “Repeated fuel reduction burns 
+have little long-term impact on soil greenhouse gas exchange in a dry sclerophyll 
+eucalypt forests.”  Agricultural and Forest Meteorology 201:17-25. 
+doi:10.1016/j.agrformet.2014.11.006 
+Augustine, David J., Paul Brewer*, Dana M. Blumenthal, Justin D. Derner, and Joseph C. von 
+Fischer. (2014) “Prescribed Fire, Soil Nitrogen Dynamics and Plant Responses in a 
+Semiarid Grassland” Journal of Arid Environments 104:59-66 
+Blunier, T., M.L. Bender, B. Barnett and J.C. von Fischer (2012) “Planetary fertility during the 
+past 400ka based on the triple isotope composition of O2 in trapped gases from the 
+Vostok ice core.” Climate of the Past 8:1509-1526. doi:10.5194/cp-8-1509-2012 
+Dijkstra, F.A, D.J. Augustine, P.E. Brewer and J.C. von Fischer (2012) “Nitrogen cycling and 
+water pulses in semiarid grasslands: are microbial and plant processes temporally 
+asynchronous?” Oecologia  doi:10.1007/s00442-012-2336-6  
+Dijkstra, F. A., J. A. Morgan, J. C. von Fischer, and R. F. Follett (2011), Elevated CO2 and 
+warming effects on CH4 uptake in a semiarid grassland below optimum soil moisture, J. 
+Geophys. Res., 116, G01007, doi:10.1029/2010JG001288. 
+
+
+--- Page 31 ---
+ 
+Exhibit___(JVF-1) 
+Page 3 of 14 
+ 
+ 
+von Fischer, J. C., R. C. Rhew, G. M. Ames*, B. K. Fosdick†, and P. E. von Fischer (2010), 
+Vegetation height and other controls of spatial variability in methane emissions from the 
+Arctic coastal tundra at Barrow, Alaska, Journal of Geophysical Research, 115, G00I03, 
+doi:10.1029/2009JG001283 
+Ostrom, N.E., R. Sutka, P.H. Ostrom, A.S. Grandy, K.M. Huzinga, H. Gandhi, J.C. von Fischer 
+and G.P. Robertson (2010) “Isotopologue data reveal bacterial denitrification as the 
+primary source of N2O during a high flux event following cultivation of a native temperate 
+grassland” Soil Biology and Biochemistry 42:499-506. 
+Mazéas, O., J. C. von Fischer, and R. C. Rhew (2009), Impact of terrestrial carbon input on 
+methane emissions from an Alaskan Arctic lake, Geophysical Research Letters, 36, 
+L18501, doi:10.1029/2009GL039861. 
+von Fischer, J. C., G. Butters, P. C. Duchateau, R. J. Thelwell*, and R. Siller (2009), In situ 
+measures of methanotroph activity in upland soils: A reaction-diffusion model and field 
+observation of water stress, Journal of Geophysical. Research, 114, G01015, 
+doi:10.1029/2008JG000731. Figures featured on journal website. 
+Nordt, L., J. von Fischer, L.L Tieszen and J. Tubbs. (2008). "Coherent changes in relative C4 
+plant productivity and climate during the late Quaternary in the North American Great 
+Plains." Quaternary Science Reviews 27(15-16): 1600-1611. 
+von Fischer, J.C., L.L. Tieszen and D.S. Schimel (2008) “Climate controls on C3 vs. C4 
+productivity in North American grasslands from carbon isotope composition of soil 
+organic matter.” Global Change Biology 14(5): 1141-1155. 
+von Fischer, J. C., and L. O. Hedin (2007) "Controls on soil methane fluxes: Tests of biophysical 
+mechanisms using stable isotope tracers", Global Biogeochemical Cycles, 21, GB2007, 
+doi:10.1029/2006GB002687. 
+Nordt L., J.C. von Fischer and L.L. Tieszen (2007) “Late Quaternary temperature record from 
+buried soils of the North American Great Plains.” Geology 35:159-162.   
+Suwa, M., J.C. von Fischer, M.L. Bender, A. Landais, and E.J. Brook (2006) "Chronology 
+reconstruction for the disturbed bottom section of the GISP2 and the GRIP ice cores: 
+Implications for Termination II in Greenland." Journal of Geophysical Research, 111, 
+D02101, doi:10.1029/2005JD006032.  
+von Fischer J.C. and L.O. Hedin (2002) “Separating methane production and consumption with 
+a field-based isotope pool dilution technique.”  Global Biogeochemical Cycles 16(3) 8.1-
+8.12.  
+Ostrom N.E., L.O. Hedin, J.C. von Fischer and G.P. Robertson. (2002) “Nitrogen 
+transformations at a soil-stream interface: a stable isotope approach.” Ecological 
+Applications 12(4) 1027-1043.  
+Cleveland C.C., A.R. Townsend, D.S. Schimel, H. Fisher, R.W. Howarth, L.O. Hedin, S.S. 
+Perakis, E.F. Latty, J.C. von Fischer, A. Elseroad, M.F. Wasson (1999) “Global patterns 
+of terrestrial biological nitrogen (N2) fixation in natural ecosystems.” Global 
+Biogeochemical Cycles 13:623-645.  
+Hedin L.O., J.C. von Fischer, N.E. Ostrom, B.P. Kennedy, M.G. Brown, and G.P. Robertson 
+(1998) “Thermodynamic constraints on nitrogen transformations and other 
+biogeochemical processes at soil-stream interfaces.” Ecology 79(2):684-703.  
+von Fischer J.C. and L.L Tieszen (1995) “Carbon isotope characterization of four tropical forests 
+in Luquillo, Puerto Rico.” Biotropica 27(2):138-148.  
+
+
+--- Page 32 ---
+ 
+Exhibit___(JVF-1) 
+Page 4 of 14 
+ 
+ 
+ 
+Grants and Fellowships 
+ 
+Current awards 
+PI, “Interpretation of Street-Level Methane Concentrations” $800,000 from The Environmental 
+Defense Fund with 4 CSU co-PI’s.  2012-2016. 
+PI, “Methane uptake by grassland soils: Biogeochemistry, microbial ecology and integrative 
+modeling.” $1,200,000 from NSF DEB Ecosystems with 4 co-PI’s.  2011-2015. 
+ 
+Past awards 
+Partner Investigator (equivalent to co-PI), “Methane uptake of forest soils.” AU$270,000 from 
+the Australian Research Council Discovery grant program to S. Arndt (PI) and S. 
+Livesley, 2011 – 2015. 
+Co-PI, “Site-Specific Nitrous Oxide Isotope Analyzer for Measuring Bioremediation,” $108,194 
+subcontract for DOE Phase I SBIR grant with Los Gatos Research.  2013-2014. 
+Senior Personnel, Shortgrass Steppe Long Term Ecological Research Site.  2005 – 2014.  
+$940,000 per year from NSF DEB, with 15 co-investigators. 
+Co-PI, “Site-Specific Nitrous Oxide Isotope Analyzer for Measuring Bioremediation,” $40,000 
+subcontract for DOE Phase I SBIR grant with Los Gatos Research.  2012. 
+Partner-Investigator “International collaboration for Methane Biogeochemistry and Microbial 
+Ecology” from University of Melbourne Research Office.  $14,576  with S. Arndt and S. 
+Livesley (Univ. Melbourne). 2009 
+Visiting Research Fellowship, University of Melbourne, November 2008. 
+Co-PI, LTER program "Catalyzing cross-site comparisons of microbial diversity and function: A 
+proposed LTER Workshop" with PI Tom Schmidt (Michigan State Univ.) and 4 others.  
+$9,000 from LTER Network Office.  2007. 
+Co-Leader, CSU Course Redesign Proposal for General Ecology (BIO320 and LAND220), with 
+Indy Burke (CSU). $20,000.  2007. 
+PI, “Additions of Physical and Biogeochemical Tracers to Wetland Soils Can Reveal 
+Mechanisms Underlying the Productivity-Methane Emission Relationship.” with co-PI’s 
+Dennis Ojima (Colorado State Univ.) and M. Todd Walter (Cornell Univ.).  $500,000 from 
+NSF DEB Ecosystems.  2005 – 2009, plus 2 REU supplements.  
+Faculty Fellow Award, National Academies Education Program in the Life Sciences, for the 
+2004 National Academies Summer Institute in Biology.   
+USGS Contract, EROS Data Center.  Technical support for Carbon in US and Africa Program to 
+investigate controls of carbon isotope composition of soil organic matter in the US Great 
+Plains.  $50,000.  2004 – 2005.  
+NOAA Post-Doctoral Fellowship, NOAA Climate and Global Change Program, for “How does 
+the productivity of the biosphere respond to changes in climate?  Global scale evidence 
+from periods of rapid climate change as recorded in ice cores.” $84,750. 2001 – 2002.  
+NASA Graduate Fellowship in Earth System Science $66,000 over 3 years. 1999 – 2001.  
+
+
+--- Page 33 ---
+ 
+Exhibit___(JVF-1) 
+Page 5 of 14 
+ 
+ 
+NSF RTG Graduate Fellowship, NSF Research Training Group in Biogeochemistry and 
+Environmental Change, Cornell University. 1997 – 1999.  
+NSF RTG Graduate Fellowship, NSF Research Training Group in Ecology, Michigan State 
+University at the W.K. Kellogg Biological Station. 1993.  
+ 
+Service & Administration 
+University: Notable invited, appointed & elected 
+Invited member, Building Committee for new Biology Department Building ($73M), 2014 – 2017. 
+Invited member, Strategic Plan Area Review Committee, university-level funding 
+recommendations for Faculty and Staff, AY 2014-15. 
+Invited Member, Executive Committee, CSU School of Global Environmental Sustainability, Fall 
+2012-2014.  
+Elected Member, Executive Committee, CSU Graduate Degree Program in Ecology, Fall 2011 – 
+2013. 
+Director, Colorado Laboratory for Environmental Mass Spectrometry, Colorado State University.  
+2004 – 2009.  
+ 
+University: other service  
+School of Global Environmental Sustainability, Scholar, since 2012. 
+Invited member, College of Natural Science Awards Committee, April 2013. 
+Search committee chair for faculty positions 
+ 
+Science Education, Dept. of Biology, Fall 2014. 
+Search Committee Chair for Staff positions 
+ 
+Academic Support Coordinator, Dept. of Biology, Spring 2012, Fall 2012, Fall 2014. 
+ 
+Program Aide, Dept. of Biology 
+Invited Member, Shortgrass Steppe Research and Interpretive Center Users Committee. Spring 
+2011 – present. 
+Invited Participant, CSU Institute for the Built Environment LENSES (Living Environments in 
+Natural Social & Economic Systems) workshop for “green building” materials. May 19, 
+2010. 
+Graduate Affairs Committee, Department of Biology, Colorado State University, 2007 – 2009, 
+2011 – 2013. 
+Co-organizer, NREL seminar series “Using stable isotopes to understand ecological processes 
+and global change.” Included 13 speakers, Fall 2009. 
+Science Steering Committee, Shortgrass Steppe Long-Term Ecological Research Site, 
+Colorado State University, January 2009 – present. 
+Judging graduate and undergraduate presentations: Front Range Student Ecology Symposium, 
+CSU Celebrate Undergraduate Research and Creativity. Annually since 2004. 
+Co-Director and co-founder, Student Ecology Research Program. An enrichment program to 
+improve the educational experience of undergraduate employee researchers through bi-
+weekly seminars and discussions. 2004 – 2010. 
+Member, Executive Steering Committee, Cornell Boyce Thompson Stable Isotope Lab, Cornell 
+University 1998 – 2001. 
+ 
+
+
+--- Page 34 ---
+ 
+Exhibit___(JVF-1) 
+Page 6 of 14 
+ 
+ 
+University:  Notable initiatives 
+Major renovations to first floor of Anatomy-Zoology building, making the space more attractive 
+and useful for undergraduate students.  Spring 2012.  $85,000 from CSU College of 
+Natural Sciences. 
+ 
+Outside Service 
+Invited panelist, Google, April 2015 
+Special Session Convenor and chair, 14 presentations in the session “Processes and 
+Mechanisms Controlling Soil Methane Oxidation” at the Annual Meeting of the American 
+Geophysical Union, San Francisco, CA. with colleagues from the Univ. Melbourne, 
+Australia:  Benedikt Fest, Stefan Arndt and Philipp Nauer.  December 2015. 
+Invited participant, Department of Energy ARPA-E (Advanced Research Projects Agency – 
+Energy) Workshop on Natural Gas Methane.  April 2013. 
+Invited Member, External Advisory Board for the NSF-funded Sevilleta Long Term Ecological 
+Research project, University of New Mexico. 2013. 
+Associate Editor, Journal of Geophysical Research Biogeosciences, January 2010 – 2012. 
+Manuscript Reviews: Annals of Botany, Biogeochemistry, Ecological Applications, Ecosystems, 
+Global Change Biology, FEMS Microbiology Ecology, Geochimica et Cosmocimica Acta, 
+Global Biogeochemical Cycles, ISME, Journal of Geophysical Research 
+Biogeosciences, New Phytologist, Oecologia, PNAS, Soil Biology & Biochemistry, 
+Teaching Issues & Experiments in Ecology. 
+Review Panelist: NSF LTER Program, Washington D.C., April 2012 
+Review Panelist: DOE Terrestrial Ecology program, Washington D.C., January 2012. 
+Review Panelist: EPA STAR Graduate Fellowships, Washington D.C., March 2011. 
+Ad hoc Proposal Reviews: National Science Foundation, NASA, European Science Foundation, 
+National Environment Research Council (UK). 
+Review Panelist, NASA Terrestrial Ecology Program, Washington, D.C., March 2009. 
+Invited Participant, National Ecological Observatory Network (NEON) Microbial Ecology 
+planning meeting, Baton Rouge, LA. February 2008. 
+Invited Participant, National Center for Atmospheric Research, Junior Faculty Forum 
+"Downscaling Climate Change: Extreme Events, Regional Impacts, and Ecosystems." 
+Boulder, CO. 2005. 
+Invited Participant, North American Carbon Program special workshop on the global methane 
+cycle, Durham, NH. 2002. 
+Member, Ecological Society of America (1998 – present). 
+Member, American Geophysical Union (1999 – present). 
+Member, European Geophysical Union (2013 – present). 
+ 
+Teaching 
+Instructor for “Ecosystems Ecology” (ECOL 610, 3cr.) Colorado State University.  Fall 
+semesters 2010 to present. 
+Instructor for "Ecology" (Life 320, 3cr.), Colorado State University.  Fall semesters from 2003 to 
+2009. 
+
+
+--- Page 35 ---
+ 
+Exhibit___(JVF-1) 
+Page 7 of 14 
+ 
+ 
+Co-Instructor for "Global Change Ecology, Impacts and Mitigation" (BZ/NR 380, 3cr.), Colorado 
+State University. Spring semesters from 2008 to present. 
+Co-Instructor for “Biology of Organisms” (LIFE103, 3cr.), Colorado State University, Spring 
+semester from 2009 to present. 
+Instructor for Special Topics in Ecology (ECOL 592, 1cr.)  “Microbial ecology and 
+biogeochemistry.” Spring 2010. 
+Instructor for Special Topics in Ecology (EY592, 1cr.) “The struggle to unify human-scale and 
+microbial ecology.” Spring 2004.  
+Teaching awards 
+Awarded “Excellence in Graduate Teaching and Mentoring” for teaching of ECOL 610 
+Ecosystem Ecology, CSU Dept. of Biology, Spring 2011. 
+Awarded “Distinguished Member” CSU National Society of Collegiate Scholars, 2009 
+Nominated for “Best Teacher Award” CSU Alumni Association, 2008. 
+Nominated “CSU Honors Professor” CSU Undergraduate Honors Program, 2005. 
+Course redesign: Development of active learning modules for CSU Ecology courses (BIO 320 
+and LAND/SOCR 220).  With Indy Burke, trained teams of graduate students and faculty 
+to design active learning modules for ecology.  These 10 modules are now available and 
+are being used in CSU Ecology courses.  2007-2008. 
+Guest lectures at Colorado State University: Numerous 
+ 
+Advising & Supervision 
+Post-doctoral associates 
+ 
+Akihiro Koyama, 2011 - 2015 
+ 
+Nels Johnson, 2011 - 2015 
+ 
+Graduate Advisor: 
+Stephanie Owens (M.S., Graduate Degree Program in Ecology), completed 2008 
+Craig Judd (M.S., Graduate Degree Program in Ecology), completed 2011 
+Paul Brewer (Ph.D., Graduate Degree Program in Ecology), current 
+Sam Dunn (Ph.D., Graduate Degree Program in Ecology), current 
+Charlotte Alster (Ph.D., Graduate Degree Program in Ecology), current 
+Emily Stuchiner ((Ph.D., Graduate Degree Program in Ecology), current 
+ 
+Graduate Committee, Colorado State University: 
+ 
+Completed 
+Douglas Van Hoewyk (M.S., Biology) completed 2006 
+Eliana Bontti (Ph.D., Graduate Degree Program in Ecology) completed 2008 
+Mark Gathany (Ph.D., Graduate Degree Program in Ecology) completed 2008 
+
+
+--- Page 36 ---
+ 
+Exhibit___(JVF-1) 
+Page 8 of 14 
+ 
+ 
+Jeff Dereume (M.S., Geosciences) completed 2010 
+Sarah Evans (Ph.D., Graduate Degree Program in Ecology) completed 2012 
+Parker Kraus (M.S., Atmospheric Sciences) completed 2012 
+Stormy Lindblom (Ph.D., Biology) completed 2012 
+Brooke Osborne (M.S., Graduate Degree Program in Ecology) completed 2012 
+Warren Newby (M.S., Geosciences), completed 2012 
+Anna Waido (Ph.D., Education), completed 2013 
+Caroline Melle (M.S., Graduate Degree Program in Ecology), completed 2013 
+Damien Borcovsky (M.S., Geosciences), completed 2013 
+Syed Shah (Ph.D., Graduate Degree Program in Ecology), completed 2013 
+Andrew Horton (M.S., Graduate Degree Program in Ecology) completed 2013 
+David Millar (Ph.D., Graduate Degree Program in Ecology), completed 2014 
+David Hoover (Ph.D., Graduate Degree Program in Ecology), completed 2014 
+Will Horner (M.S., Geoscience), completed 2015 
+Catherine Compton (M.S., Geosciences), completed 2015 
+Kevin Wilcox (Ph.D., Graduate Degree Program in Ecology), completed 2015 
+Cameron Toloee (M.S., Computer Science), completed 2015 
+ 
+Current 
+Osman Hamden (Ph.D., Graduate Degree Program in Ecology) 
+Jason Reynolds (Ph.D., Botany) 
+Alyssa Cochran (Ph.D., Botany) 
+David Markman (Ph.D., Graduate Degree Program in Ecology) 
+Cheryl Bowker (Ph.D., Graduate Degree Program in Ecology) 
+Steven Mantrell (M.S., Civil & Environmental Engineering) 
+Kathryn Schuller (M.S., Geoscience) 
+Judy Daniels (Ph.D., Soil & Crop Sciences) 
+Daniel Kotter (Ph.D., Graduate Degree Program in Ecology) 
+Alexandra Blevins (M.S., Bioagricultural Sciences & Pest Management) 
+Johnson Charles Arulswamy (M.S., Computer Science) 
+Dana Flett, (M.S., Graduate Degree Program in Ecology) 
+ 
+International Graduate Committees 
+Benedikt Fest, (Ph.D., Plant Biology) Universtiy of Melbourne, Australia.  Completed 
+2013 
+
+
+--- Page 37 ---
+ 
+Exhibit___(JVF-1) 
+Page 9 of 14 
+ 
+ 
+Saadat Malghani, (Ph.D., Biogeochemistry), Frierich, Schiller University, Jena, Germany.  
+Completed 2014 
+Martin Nowak, (Ph.D., Biogeochemistry), Frierich Schiller University, Jena, Germany. 
+Current. 
+Tobias Jochum (Ph.D., Chemical Physics), Frierich Schiller University, Jena, Germany.  
+Current 
+ 
+Undergraduate Honors Theses 
+Hannah Shadis (advisor) 2005 
+Natalie Akagi (committee member) 2006 
+Lilli Welch (committee member) 2007 
+Dyllon Martini (committee member) 2008 
+Elin Franzen (committee member) 2008 
+Stephen Meyer (advisor) 2009 
+Elizabeth Moses (advisor) 2011 
+Olivia Shoup (committee member) 2012 
+Jamie Bunker (advisor) 2013 
+Jenna Tustin (advisor) 2013 
+ 
+Undergraduate Lab Researchers (n=30 since 2004) 
+Chris Anderson (2009), Liesel Brutlag† (2009), Jamie Bunker (2010-2011), Ariel 
+Carmichael* (2011- 2012), Mariah Coler† (2011), Sara Cummings* (2005), Tanner Hill* 
+(2005 - 2009), Lisa Fernholz* (2011- 2013), Nicholas Framsted (2015 - ), Claire 
+Griebenow* (2011- 2013), David Hoesly (2005-2006), Rachel Jorgensen (2011- 2012), 
+Jeff Kimbrel* (2004-2006), Paige Koutlas (2012 – 2014), Jason Lutz (2006), Elizabeth 
+Mortensen* (2008-2010), Darcy MacPhee (2005), Claire Ojima† (2004), Deanna Olson 
+(2012 - 2014), Shreya Pokharel (2011 - 2013), Ashley Quick Bear (2012 - 2013), Evan 
+Rosenlieb* (2011 - 2013), Richard Siller* (2005), Jacqueline Sitko (2011- 2014), 
+Matthew Stout (2011), Kelsey Thompson (2011 - 2014), Lucas Thompson (2012- 2014), 
+Mike Weltzer* (2006), Sere Williams (2006), Breana Wolfe (2005). 
+*went on to graduate school (n=10), †went on to professional school (n=3) 
+ 
+Research technical staff 
+ 
+Anita Kear, 2004 – 2006 
+ 
+Evan Rosenlieb, 2011 – 2014 
+ 
+Jaqueline Sitko, 2013 – 2014 
+ 
+Claire Greibenow, 2013 – 2014 
+ 
+Adam Gaylord, 2014 – 2015. 
+ 
+
+
+--- Page 38 ---
+ 
+Exhibit___(JVF-1) 
+Page 10 of 14 
+ 
+ 
+Invited Presentations  (*international) 
+ 
+2015 
+“Methane uptake in Great Plains grassland soils:  does microbial community 
+composition matter for ecosystem function?” Graduate student invited seminar 
+for University of Wyoming, Department of Botany.   
+2014* 
+“Methane oxidation in upland soils:  a model system for synthesis in biogeochemistry 
+and microbial ecology.”  Seminar for Department of Soil Ecology, University 
+Freiburg, Germany. 
+2014* 
+“Isotopic studies of trace gas biogeochemistry” Seminar for Bio-Geo seminar, 
+Institute for Geosciences, Friedrich Schiller University, Jena, Germany. 
+2013* 
+“When does knowledge of microbial community composition improve biogeochemical 
+models?”  Seminar for Department of Geology, Stockholm University, Sweden.  
+2013* 
+“Physical, biological and social controls of methane emissions: an overview of my 
+interests & invitation to new collaborations.”  Colloquium seminar, Max Planck 
+Institute for Biogeochemistry, Jena, Germany. 
+2013 
+“Mechanisms controlling terrestrial and aquatic methane release from the Arctic 
+Coastal Tundra at Barrow, Alaska.” Boston University Biogeochemistry Seminar 
+Series, Boston, MA. 
+2012 
+“Interpretation of street-level methane concentrations.” Robertson Scholar Program, 
+Duke University. 
+2012 
+“When does knowledge of microbial community composition improve ecosystem 
+models?”  Biology Department seminar, University of Northern Colorado, Greely. 
+2012 
+“Boil yourself alive in a test tube: using the scientific method to make career 
+choices.” CSU Greek Month of the Scholar academic achievement event. 
+2012 
+“When does knowledge of microbial community composition improve biogeochemical 
+models?” Seminar for Max Planck Institute for Biogeochemistry, Jena, Germany. 
+2011 
+“Boil yourself alive in a test tube: using the scientific method to make career 
+choices.” CSU College of Natural Sciences Mentoring Program. 
+2011 
+“Climate Change: The Physical Scientific Basis” for the Hubert H. Humphrey 
+International Fellows program, hosted by the CSU Office of International 
+Programs. 
+2011 
+“Plant allometry outperforms biogeochemical predictors of methane emission from 
+the Arctic Coastal Tundra at Barrow, Alaska.”  Dept. of Botany seminar, 
+University of Wyoming. 
+2010 
+“Soil microbes that consume greenhouse gases: do they use spoons or forks?” 
+Biology Department Seminar, Augustana College, Sioux Falls, SD. 
+2010 
+“When does knowledge of microbial community composition improve biogeochemical 
+models?”  Seminar for Program in Biogeochemistry and Environmental 
+Biocomplexity, Cornell University, Ithaca, NY. 
+2010 
+“Mechanisms controlling terrestrial and aquatic methane release from the Arctic 
+Coastal Tundra at Barrow, Alaska.”  Dept. of Geography colloquium, University of 
+California, Berkeley, CA. 
+
+
+--- Page 39 ---
+ 
+Exhibit___(JVF-1) 
+Page 11 of 14 
+ 
+ 
+2009 
+“Mechanisms controlling terrestrial and aquatic methane release from the Arctic 
+Coastal Tundra at Barrow, Alaska.”  Institute for Arctic and Alpine Research 
+(INSTAAR), University of Colorado, Boulder, CO. 
+2008* 
+“Methane oxidation in upland soils: peeling away physics to see the ecology” 
+University of Melbourne at Creswick, Creswick, NSW, Australia. 
+2008 
+“Methane oxidation in upland soils: putting the bio in biogeochemistry,” Michigan 
+State University, Kellogg Biological Station, Hickory Corners, MI. 
+2007 
+“Ecosystem-scale controls on methane emissions” NOAA Climate Monitoring & 
+Diagnostics Laboratory, Boulder, CO. 
+2006 
+“Gas transport vs. methane production:  What drives methane emission rates in 
+Typha wetlands?”  Special session on methane biogeochemistry.  Annual 
+Meeting of the American Geophysical Union. 
+2005 
+“Evidence and implications of habitat diversity for soil microbes from upland and 
+wetland soils.”  Dept. of Geology, Baylor University, Waco, TX.   
+2005 
+“5 things that everyone should know about global climate change.”  Honors program, 
+Colorado State University.   
+2005 
+“How much bio in biogeochemistry?  Physical vs. biological controls of soil methane 
+fluxes.” Dept. of Earth System Sciences at the University of California, Irvine. 
+2004 
+“Linking microbial community properties to ecosystem function:  methane 
+consumption on the Shortgrass Steppe” Shortgrass Steppe LTER seminar 
+series, Colorado State University. 
+2004 
+“Less than 1% of soil volume is anoxic, but it matters for upland ecosystem 
+biogeochemistry.” Dept. of Soil and Crop Sciences, Colorado State University.  
+2004 
+“Less than 1% of soil volume is anoxic, but it matters for upland ecosystem 
+biogeochemistry.” Institute for Arctic and Alpine Research (INSTAAR), University 
+of Colorado, Boulder. 
+2004 
+“Soil heterogeneity:  Evidence and implications of anoxic microzones in oxic soils.” 
+Dept. of Soil Science, University of Wisconsin, Madison. 
+2003 
+“Diverse perspectives on climate change:  soil anoxic microsites and glacial changes 
+in global photosynthesis.”  Santa Fe Institute, Santa Fe, NM. 
+2002 
+“Microsites, Ecosystems and Global Change” Natural Resources Ecology 
+Laboratory, Colorado State University. 
+2002* 
+“The triple isotopic composition of molecular oxygen reveals past rates of primary 
+production.”  Biogeomon International Symposium on Ecosystem Behaviour, 
+Reading, UK. 
+ 
+Conference Presentations (not including secondary authorships) 
+2015 
+von Fischer, J.C. and J. Ham.  "Rapid Identification of Location and Magnitude of 
+Urban Natural Gas Leaks" EPA 2015 International Emission Inventory 
+Conference "Air Quality Challenges: Tackling the Changing Face of Emissions" 
+San Diego, California - April 13 - 16, 2015 
+2015 
+von Fischer, J.C., A. Koyama, N.G. Johnson and C.T. Webb “A hierarchical 
+examination of methane uptake: field patterns, lab physiology, community 
+
+
+--- Page 40 ---
+ 
+Exhibit___(JVF-1) 
+Page 12 of 14 
+ 
+ 
+composition and biogeography”  Poster presentation at the Annual Meeting of the 
+American Geophysical Union, San Francisco, CA. 
+2013 
+von Fischer, Joseph Jessica Salo, Claire Griebenow, Linde Bischak, Daniel Cooley, 
+Jay Ham, and Russ Schumacher. “Development of an algorithm to meaningfully 
+interpret patterns in street-level methane concentrations” Solicited oral 
+presentation at the annual meeting of the European Geophysical Union, Vienna 
+Austria.  April 2013 
+2012 
+Jorgensen, R.J., A. Koyama, J.C. von Fischer and M. Gupta. “Exploring potentials of 
+a Los Gatos Research isotopic N2O analyzer capable of real time 
+measurements.”  Poster presentation at the Annual Meeting of the American 
+Geophysical Union, San Francisco, CA. 
+2010 
+von Fischer, J.C., A. Angert, D. Augustine, C. Brown, F. Dijkstra, J. Derner, R. 
+Hufbauer, N. Fierer, D. Milchunas, J. Moore, H. Steltzer, M. Wallenstein.  
+“Timescales of biogeochemical and organismal responses to individual 
+precipitation events.”  Organized oral session at the Annual Meeting of the 
+American Geophysical Union, San Francisco, CA. 
+2009 
+von Fischer, J.C. “Criteria to demonstrate that microbial community composition is 
+important for biogeochemical function.” Organized oral session at the Annual 
+Meeting of the American Geophysical Union, San Francisco, CA. 
+2009 
+von Fischer, J.C., C.R. Judd and C.T. Webb “The intersection of methanotroph 
+community ecology and methane biogeochemistry.” Organized oral session at 
+the Ecological Society of America, Albuquerque, NM. 
+2008 
+von Fischer, J.C. and R. Rhew “Methane emission rates from the Arctic coastal 
+tundra at Barrw are log-normally distributed:  Is this a tail that wags climate?” 
+Oral presentation at the Annual Meeting of the American Geophysical Union, San 
+Francisco, CA. 
+2007 
+von Fischer, J.C., G. Ames, R. Rhew and W.C. Oechel "Methane emission rates 
+from the Arctic coastal tundra at Barrow:  temporal and spatial variability and 
+response to an experimental carbon addition."  Poster presentation at the Annual 
+Meeting of the American Geophysical Union, San Francisco, CA. 
+2006 
+von Fischer, J.C. and G. Butters “Physics or Biology?  What controls variability in 
+methane flux rates on the Shortgrass Steppe LTER site?”  Poster presentation at 
+the LTER All Scientists Meeting, Estes Park, CO.   
+2006 
+von Fischer, J.C.  "Biology is more important than diffusion for regulating methane 
+fluxes on the Shorgrass Steppe LTER."  Oral presentation at the Annual Meeting 
+of the Ecological Society of America. 
+2005 
+von Fischer, J.C., “Diffusion or biology?  What drives variability in methane 
+consumption of upland soils?”  Poster presentation at the Annual Meeting of the 
+American Geophysical Union, San Francisco, CA. 
+2004 
+von Fischer, J.C. and L.L. Tieszen “Soil Organic Matter δ13C across the Great Plains 
+grasslands:  both rainfall and temperature control C3 vs. C4 productivity.  Oral 
+presentation at the Annual Meeting of the American Geophysical Union, San 
+Francisco, CA. 
+
+
+--- Page 41 ---
+ 
+Exhibit___(JVF-1) 
+Page 13 of 14 
+ 
+ 
+2004 
+von Fischer, J.C. and R.J. Thelwell “Rates and importance of methane production in 
+oxic soils.” Oral presentation at the Annual Meeting of the Ecological Society of 
+America, Portland OR. 
+2004 
+von Fischer, J.C., M.L. Bender and T. Blunier “A record of global photosynthesis to 
+150ka derived from the triple isotopes of O2 in polar ice cores.”  Oral presentation 
+at the Annual Meeting of the American Geophysical Union, Montreal, Quebec, 
+Canada. 
+2002 
+von Fischer, J.C., M.L. Bender and T. Blunier “Triple isotope composition of O2 and 
+the record of global O2 production.”  Poster presentation at the Annual Meeting of 
+the American Geophysical Union, San Francisco, CA. 
+2002 
+von Fischer, J.C., and L.O. Hedin “Do soil microsites drive methane flux?” Oral 
+presentation at the Annual Meeting of the Ecological Society of America, Tucson, 
+AZ. 
+ 
+Technical Briefings 
+2015 
+von Fischer, J.C. “State of science on natural gas leak quantification.”  California 
+Public Utility Commission, deliberation of SB1371.  San Francisco, CA. 27 
+October 2015.  Led to adoption of mobile methane mapping as a “best practice” 
+for leak detection.  
+http://docs.cpuc.ca.gov/PublishedDocs/Efile/G000/M159/K670/159670815.PDF  
+ 
+Outreach 
+2013 
+Training workshop on Methane Leakage from the Natural Gas Supply Chain for the 
+Duke University Robertson Scholar Program.  Colorado State University, January 
+16-20.  Co-hosted with Steve Hamburg, Chief Scientist, Environmental Defense 
+Fund. 
+2011 
+Updated the Wikipedia entry on Atmospheric Methane and created a new entry for 
+Wetland Methane Emissions with CSU undergraduate student Olivia Shoup, as 
+part of her CO301 class on Technical Writing.  Edits are as user “OSJVFCO301” 
+on 27 February 2011. 
+http://en.wikipedia.org/wiki/Atmospheric_methane  
+ 
+ 
+http://en.wikipedia.org/wiki/Wetland_Methane_Emissions  
+ 
+ 
+Popular press and other coverage 
+2014-16 
+Extensive popular press coverage for work with the Environmental Defense Fund to 
+map natural gas leaks using Google Streetview cars.   
+2013 
+Quoted in article about mapping methane leakage from cities “Uprising” in Matter, 
+February 2013.  https://www.readmatter.com/uprising-preview/  
+2012 
+Quoted in article about the role of methane in rapid global warming.  “Global 
+Warming: Faster than Expected?” Scientific American, November 2012. 
+2010 
+Presentation at 2009 Annual Meeting of the Ecological Society of America received 
+expanded coverage in a special report:   
+     Yuko Hasegawa, John E. Hobbie (2010) Organized Oral Session 27. 
+Application of Molecular Knowledge of Microbes to Studies of Ecological 
+Processes: Why the Integration is so Challenging. Bulletin of the Ecological 
+Society of America: Vol. 91, No. 1, pp. 68-79. doi:10.1890/0012-9623-91.1.68 
+
+
+--- Page 42 ---
+ 
+Exhibit___(JVF-1) 
+Page 14 of 14 
+ 
+ 
+2010 
+Quoted in article about new instruments that allow scientists to more easily measure 
+greenhouse gas emissions.  “Greenhouse Gases: Who's Cheating?” in 
+Bloomberg Business Week, 11January 2010, p18-19. 
+http://www.businessweek.com/magazine/content/10_02/b4162018066076.htm?c
+han=magazine+channel_new+business 
+2009 
+Research photographs and discussions with artist John Kelly included in his book 
+Flood Cycle: Notes from a Changing Planet. Signal Books, Oxford, U.K. 2009 
+2009 
+Figures from von Fischer et al. (2009) featured in “Image Highlights” section on the 
+website of Journal of Geophysical Research Biogeosciences.  
+2009 
+Mentioned in article “Ice Capades” Outside Magazine, January 2009 issue.  
+http://outside.away.com/outside/destinations/200901/arctic-ocean-global-
+warming-4.html  
+2008 
+Interview with Monkia Seynsche on Deutschlandradio (German Public Radio) 
+February 13 discussing research on methane emissions from the Arctic.  
+http://www.dradio.de/dlf/sendungen/forschak/738992/ 
+
+
+--- Page 43 ---
+ 
+Testimony of Joseph Von Fischer 
+ 
+Exhibit___(JVF-2) 
+ 
+Leak Summary Table 
+
+
+--- Page 44 ---
+Exhibit__(JVF-2) 
+Page 1 of 1 
+ 
+Table 1 Leak summary table for areas surveyed 
+Name of Utility/City 
+Dates 
+Mapped 
+Avg. Miles 
+/Leak  
+ Leak-Prone 
+Material as a 
+% of Total 
+Miles of 
+Mains1 
+Percent of 
+leaks in the 
+Medium 
+Category  
+(6 – 40 L/min) 
+Percent of 
+leaks in the 
+High 
+Category  
+(40 + L/min) 
+National Grid 
+(Boston) 
+Mar - June 
+2013 
+1 
+43% 
+13% 
+< 1 % 
+National Grid (Staten 
+Island) 
+Jan - Apr 
+2014 
+1 
+29.5%2 
+10% 
+< 1% 
+National Grid 
+(Syracuse) 
+Apr - Aug 
+2014 
+2 
+29.5%3 
+17% 
+0% 
+Peoples Gas 
+(Chicago) 
+Sept - Dec 
+2014 
+3 
+37% 
+10% 
+0% 
+Atmos Energy Mid-
+Tex (Dallas) 
+Jan 2014 – 
+Feb 2016 
+4 
+13% 
+14% 
+< 1 % 
+Southern California 
+Gas Company (Los 
+Angeles) 
+Aug 2014 
+- Feb 2015 
+6 
+16% 
+11% 
+2% 
+TECO Energy 
+Peoples Gas 
+(Jacksonville) 
+Jan -  June 
+2015 
+9 
+3% 
+15% 
+0% 
+Vermont Gas 
+Systems (Burlington) 
+Oct 2014 
+10 
+Zero reported 
+0% 
+0% 
+Citizens Energy 
+Group (Indianapolis) 
+Jun 2013 
+153 
+Zero reported  
+0% 
+0% 
+ 
+ 
+                                                        
+1 PHMSA Annual Distribution Data. (2014).  
+2 Pipeline mains material mileage is based on each utility’s entire system, whereas surveys in National Grid’s 
+service area were limited to discrete sections of the utility’s service territory in Staten Island and Syracuse. 
+3 See note on Staten Island. 
+
+
+--- Page 45 ---
+ 
+Testimony of Joseph Von Fischer 
+ 
+Exhibit___(JVF-3) 
+ 
+Graphical representation of leak attribution methodology 
+ 
+
+
+--- Page 46 ---
+Exhibit__(JVF-3) 
+Page 1 of 1 
+ 
+Graphical representation of leak attribution methodology 
+ 
+ 
+Figure 1 Graphical representation of leak attribution 
+methodology
+ 
+ 
+
+
+--- Page 47 ---
+ 
+Testimony of Joseph Von Fischer 
+ 
+Exhibit___(JVF-4) 
+ 
+A fictitious representation of leaks in a grid cell 
+ 
+ 
+ 
+ 
+ 
+ 
+ 
+ 
+ 
+ 
+ 
+ 
+ 
+ 
+
+
+--- Page 48 ---
+Exhibit__(JVF-4) 
+Page 1 of 1 
+ 
+ 
+Figure 1 A fictitious representation of leaks in a grid cell 
+ 
+ 
+
+
+--- Page 49 ---
+ 
+ 
+Testimony of Joseph Von Fischer 
+ 
+Exhibit___(JVF-5) 
+ 
+A fictitious set of grids ordered by leak flow rate from high to low 
+ 
+ 
+ 
+ 
+ 
+ 
+ 
+ 
+ 
+ 
+ 
+ 
+ 
+ 
+ 
+ 
+ 
+ 
+ 
+ 
+ 
+ 
+ 
+ 
+ 
+
+
+--- Page 50 ---
+Exhibit__(JVF-5) 
+Page 1 of 1 
+ 
+ 
+ 
+ 
+Table 1 A fictitious set of grids ordered by leak flow rate from high to low 
+Grid 
+No. Verified Leaks in 
+Grid 
+Total Estimated Flow Rate 
+(L/min) 
+Rank By Total Estimated Flow 
+Rate 
+B-5 
+22 
+183.3 
+1 
+B-8 
+24 
+166.8 
+2 
+D-8 
+26 
+163.9 
+3 
+C-1 
+13 
+142.3 
+4 
+A-1 
+10 
+142.0 
+5 
+H-6 
+19 
+102.9 
+6 
+A-2 
+17 
+98.7 
+7 
+G-1 
+6 
+93.0 
+8 
+A-7 
+13 
+90.6 
+9 
+H-2 
+10 
+88.5 
+10 
+B-3 
+8 
+88.4 
+11 
+F-3 
+11 
+66.6 
+12 
+H-4 
+5 
+60.6 
+13 
+F-2 
+16 
+55.5 
+14 
+B-2 
+12 
+45.5 
+15 
+B-7 
+12 
+34.6 
+16 
+A-4 
+6 
+30.2 
+17 
+F-6 
+4 
+27.8 
+18 
+D-5 
+8 
+24.2 
+19 
+D-6 
+0 
+0.0 
+20 
+ 
+ 
+ 
+ 
+ 

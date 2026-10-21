@@ -1,0 +1,1791 @@
+--- Page 1 ---
+BEFORE THE 
+STATE OF NEW YORK 
+PUBLIC SERVICE COMMISSION 
+ 
+ 
+ 
+Proceeding on Motion of the Commission as to the Rates, 
+Charges, Rules and Regulations of Consolidated Edison 
+Company of New York, Inc. for Gas Service. 
+ 
+25-G-XXXX 
+ 
+January 2025 
+ 
+ 
+ 
+Prepared Testimony of: 
+Gas Forecasting Panel 
+ 
+Kathleen Trischitta 
+4 Irving Place 
+Andrew Nicholas 
+4 Irving Place 
+New York, New York, 10003 
+New York, New York, 10003 
+Joan Tolosa 
+4 Irving Place 
+New York, New York, 10003 
+ 
+
+
+--- Page 2 ---
+25-G-XXXX 
+ 
+CONSOLIDATED EDISON COMPANY OF NEW YORK, INC. 
+ 
+GAS FORECASTING PANEL  
+ 
+   
+ 
+TABLE OF CONTENTS 
+ 
+ 
+I.   INTRODUCTION..........................................1 
+II.  PURPOSE OF TESTIMONY..................................5 
+III. DELIVERY VOLUMES BY SERVICE CLASSIFICATION............6 
+IV.  FIRM VOLUME FORECAST..................................7 
+V.   NON-FIRM (INTERRUPTIBLE) VOLUME FORECAST.............19 
+VI.  REVENUE FORECAST.....................................20 
+VII. ADDITIONAL RESOURCES.................................26 
+ 
+ 
+
+
+--- Page 3 ---
+25-G-XXXX 
+ 
+ 
+CONSOLIDATED EDISON COMPANY OF NEW YORK, INC. 
+GAS FORECASTING PANEL 
+ 
+1 
+ 
+ 
+I. INTRODUCTION 
+Q. 
+Would the members of the Gas Forecasting Panel please 
+1 
+state their names and business address? 
+2 
+A. 
+Kathleen Trischitta, Johan Tolosa, and Andrew Nichols, 4  
+3 
+Irving Place, New York, New York 10003. 
+4 
+Q.  By whom are you employed, in what capacity, what are your 
+5 
+professional backgrounds and qualifications, and describe 
+6 
+your current responsibilities?  
+7 
+A.  (Trischitta) We are employed by Consolidated Edison 
+8 
+Company of New York, Inc. (“Con Edison” or the 
+9 
+“Company”). I am the Director of Commodity Forecasting in 
+10 
+Energy Management.  I hold a bachelor’s degree in 
+11 
+Electrical Engineering from the State University of New 
+12 
+York at Stony Brook. I joined Con Edison in 1993 and 
+13 
+have held various positions in Con Edison’s Gas 
+14 
+Operations and Fuel Supply, Unregulated Retail 
+15 
+Operations and Energy Trading organizations.  Upon 
+16 
+completion of Con Edison’s engineering intern program 
+17 
+with Gas Operations, I joined Fuel Supply’s newly 
+18 
+formed off-system sales organization with 
+19 
+responsibility for developing and implementing some of 
+20 
+the Company’s first strategies for gas asset 
+21 
+
+
+--- Page 4 ---
+25-G-XXXX 
+ 
+ 
+CONSOLIDATED EDISON COMPANY OF NEW YORK, INC. 
+GAS FORECASTING PANEL 
+ 
+2 
+ 
+ 
+optimization.  In 1997, I transferred to the newly 
+1 
+formed unregulated subsidiary of Consolidated Edison, 
+2 
+Inc. (“CEI”), Con Edison Solutions, and was 
+3 
+responsible for the implementation of the retail gas 
+4 
+business. I was Managing Director of the Energy 
+5 
+Trading organization within Con Edison Energy, another 
+6 
+unregulated subsidiary of CEI, responsible for the 
+7 
+oversight of electricity, gas, oil and renewable 
+8 
+energy credit trading. From January 2016 through April 
+9 
+of 2024, I worked as the Director of Commodity 
+10 
+Operations in the Energy Management organization, 
+11 
+overseeing commodity purchasing and scheduling, gas 
+12 
+planning, and commodity hedging. In April 2024, I 
+13 
+assumed my current position where I oversee 
+14 
+development of the daily peak, annual peak, 
+15 
+monthly/annual energy revenue and volume forecasts for 
+16 
+the electric, gas, and steam systems; and technical 
+17 
+and analytical support for long range plans, 
+18 
+strategies, and industry trends and issues that affect 
+19 
+the Company related to gas, steam, and electricity. 
+20 
+ 
+21 
+
+
+--- Page 5 ---
+25-G-XXXX 
+ 
+ 
+CONSOLIDATED EDISON COMPANY OF NEW YORK, INC. 
+GAS FORECASTING PANEL 
+ 
+3 
+ 
+ 
+ 
+(Nichols) I am a Senior Planning Analyst in the Gas and 
+1 
+Steam Forecasting Section of the Commodity Forecasting 
+2 
+Department in Energy Management. My background is as 
+3 
+follows: I received a Bachelor of Arts degree in 
+4 
+Economics from Bucknell University in 2017. In 2017, I 
+5 
+joined Con Edison in the Electric Operations Organization 
+6 
+where I worked in an internal auditing group tracking 
+7 
+performance in the organization. In October 2019, I 
+8 
+assumed my present position where I have been responsible 
+9 
+for the production of forecasts for volumes and revenues 
+10 
+for Con Edison’s Steam System, as well as a long term 
+11 
+peak demand forecast for Steam.  Currently, I work on 
+12 
+developing econometric time series models for Con 
+13 
+Edison’s gas system. 
+14 
+ 
+(Tolosa) I am the Section Manager of Gas and Steam 
+15 
+Forecasting of the Commodity Forecasting Department in 
+16 
+the Energy Management organization. My background is as 
+17 
+follows: I graduated from the City College of New York 
+18 
+with a Bachelor of Engineering degree in Mechanical 
+19 
+Engineering in 2009. I also received a Master of Science 
+20 
+degree in Finance from Pace University in 2016. I joined 
+21 
+Con Edison in 2009 as a Management Intern, with 
+22 
+assignments in the Steam and the Electric Operations 
+23 
+
+
+--- Page 6 ---
+25-G-XXXX 
+ 
+ 
+CONSOLIDATED EDISON COMPANY OF NEW YORK, INC. 
+GAS FORECASTING PANEL 
+ 
+4 
+ 
+ 
+Departments. After graduating the Management Intern 
+1 
+Program, I took a permanent position as an Associate 
+2 
+Engineer in Central Engineering supporting Steam 
+3 
+Operations from 2011 to 2015. In June 2015, I became an 
+4 
+Operating Supervisor for the Gas Conversions Group in Gas 
+5 
+Operations where I worked until the end of 2017. I joined 
+6 
+the Energy Management organization in December 2017 where 
+7 
+I have held various roles. My current responsibilities 
+8 
+include overseeing the development of Con Edison gas 
+9 
+delivery volume and revenue forecast, as well as Con 
+10 
+Edison’s long-term peak demand forecast.     
+11 
+Q.  Have you previously submitted testimony to the New York 
+12 
+State Public Service Commission (“Commission”)?  
+13 
+A. 
+(Trischitta) Yes. I have submitted testimony before the 
+14 
+Commission on behalf of the Company and its affiliate, 
+15 
+Orange and Rockland Utilities, Inc. in previous electric, 
+16 
+gas and steam proceedings.   
+17 
+(Nichols) Yes, I have submitted testimony in Case No. 22-
+18 
+S-0659. 
+19 
+(Tolosa) Yes, I have submitted testimony in Case Nos. 21-
+20 
+G-0073, 22-G-0065, 22-S-0659, and 24-G-0061. 
+21 
+ 
+22 
+ 
+23 
+
+
+--- Page 7 ---
+25-G-XXXX 
+ 
+ 
+CONSOLIDATED EDISON COMPANY OF NEW YORK, INC. 
+GAS FORECASTING PANEL 
+ 
+5 
+ 
+ 
+II. PURPOSE OF TESTIMONY 
+Q.  What is the purpose of the Gas Forecasting Panel’s 
+1 
+testimony in this proceeding?  
+2 
+A.   The Gas Forecasting Panel’s testimony presents the 
+3 
+Company’s forecast of gas delivery volumes (both full 
+4 
+service and transportation combined), and revenues for 
+5 
+the 12 months ending December 31, 2026 (“Rate Year”) also 
+6 
+known as (“RY1”), and two additional 12-month periods 
+7 
+ending December 31, 2027 and December 31, 2028 (which we 
+8 
+refer to as “RY2” and “RY3,” respectively).  The 
+9 
+testimony explains the development of these forecasts 
+10 
+starting from the 12 months ending September 30, 2024 
+11 
+(“Historic Year” or “Base Period”), and the key factors 
+12 
+expected to impact future delivery volumes through the 
+13 
+end of RY3.   
+14 
+Q. 
+Will you please summarize, in aggregate form, your firm 
+15 
+delivery volume forecast? 
+16 
+A. 
+The firm delivery volume forecast for the three months 
+17 
+ending December 2024 is 41,340 MDt.  The firm delivery 
+18 
+volume forecast for the 12 months ending December 2025 is 
+19 
+167,931 MDt.  The firm delivery volume forecast is 
+20 
+166,036 MDt for 12 months ending December 2026 (i.e., 
+21 
+RY1), 162,648 MDt for the 12 months ending 2027 (i.e., 
+22 
+
+
+--- Page 8 ---
+25-G-XXXX 
+ 
+ 
+CONSOLIDATED EDISON COMPANY OF NEW YORK, INC. 
+GAS FORECASTING PANEL 
+ 
+6 
+ 
+ 
+RY2), and 162,223 MDt for the 12 months ending 2028 
+1 
+(i.e., RY3).  The drivers of the changes in the 
+2 
+forecasted volumes are discussed further in Section IV.  
+3 
+Q. 
+What is the purpose of the delivery volume and sendout 
+4 
+forecast? 
+5 
+A. 
+The firm delivery volume forecast is used to determine 
+6 
+the revenue forecast.  The sendout forecast is also used 
+7 
+by the Company‘s Gas Supply Panel to develop a gas supply 
+8 
+cost forecast.   
+9 
+Q. 
+Do you have any exhibits that accompany this testimony? 
+10 
+A. 
+Yes, we are presenting five exhibits, Exhibit ___(GFP-1) 
+11 
+through Exhibit ___ (GFP-5). 
+12 
+Q. 
+Were these five exhibits prepared under the Panel’s 
+13 
+direction and supervision? 
+14 
+A. 
+Yes.  We describe each of these exhibits below in our 
+15 
+testimony.   
+16 
+III. DELIVERY VOLUMES BY SERVICE CLASSIFICATION 
+Q. 
+Which customers are included in the delivery volume 
+17 
+forecast? 
+18 
+A. 
+Both firm and non-firm customers are included in the 
+19 
+delivery volume forecast.  Firm customer classes include: 
+20 
+• 
+SC-1 – Residential and religious customers; 
+21 
+• 
+SC-2 – Rate 1 (General commercial and industrial 
+22 
+
+
+--- Page 9 ---
+25-G-XXXX 
+ 
+ 
+CONSOLIDATED EDISON COMPANY OF NEW YORK, INC. 
+GAS FORECASTING PANEL 
+ 
+7 
+ 
+ 
+customers); 
+1 
+• 
+SC-2 – Rate 1 Rider H (General commercial and 
+2 
+industrial customers); 
+3 
+• 
+SC-2 – Rate 2 (General commercial and industrial 
+4 
+customers);  
+5 
+• 
+SC-3 – Residential (1 to 4 family dwelling units); 
+6 
+• 
+SC-3 – Residential Rider J (1 to 4 family dwelling 
+7 
+units); 
+8 
+• 
+SC-3 – Residential (>4 family dwelling units); 
+9 
+• 
+SC-13 – Seasonal off-peak water heating; 
+10 
+• 
+SC-14 – Natural gas vehicles; and 
+11 
+• 
+Special Contract Customers. 
+12 
+Non-firm (Interruptible) customer classes include: 
+13 
+• 
+SC-9 – Transportation service customers who would 
+14 
+otherwise take SC-12 service;  
+15 
+• 
+SC-12 Rate 1 – Non-firm (interruptible) customers; and 
+16 
+• 
+SC-12 Rate 2 – Off-peak firm customers.  
+17 
+IV. FIRM VOLUME FORECAST  
+Q.  How did the panel derive the base period sales volumes 
+18 
+for the forecast? 
+19 
+A. 
+The GFP began with the total sendout data from the 
+20 
+Company's Gas Daily Operations (GDO) system for each of 
+21 
+
+
+--- Page 10 ---
+25-G-XXXX 
+ 
+ 
+CONSOLIDATED EDISON COMPANY OF NEW YORK, INC. 
+GAS FORECASTING PANEL 
+ 
+8 
+ 
+ 
+the twelve billing cycles within the base period. The GFP 
+1 
+then adjusted the daily sendout data in order to align 
+2 
+said data with the monthly billing cycles.  The estimated 
+3 
+line loss for each month was subtracted (using a five-
+4 
+year average of line losses) to derive the estimated 
+5 
+total sales. These total sales were allocated among the 
+6 
+service classes based on the average distribution of 
+7 
+sales amongst the service classes for the base period 
+8 
+over the previous five years.  This approach accounts for 
+9 
+the issue identified in the Company’s letter to the 
+10 
+Commission "Case 22-G-0464 Con Edison GCF Reconciliation 
+11 
+-12 months ended August 2024 - Final" filed on November 
+12 
+14, 2024. 
+13 
+Q. 
+What are the key factors expected to impact future gas 
+14 
+delivery volume? 
+15 
+A. 
+The key factors expected to impact future gas delivery 
+16 
+volume in the various service classifications are:  
+17 
+• 
+Normalized Historic Year volume;  
+18 
+• 
+Energy Efficiency including both programmatic and 
+19 
+organic; 
+20 
+• 
+Electrification of heating load; and 
+21 
+• 
+Electrification of non-heating natural gas load.  
+22 
+Q. 
+How did you derive your forecast for RY1 Firm Volume? 
+23 
+
+
+--- Page 11 ---
+25-G-XXXX 
+ 
+ 
+CONSOLIDATED EDISON COMPANY OF NEW YORK, INC. 
+GAS FORECASTING PANEL 
+ 
+9 
+ 
+ 
+A. 
+We began with the Historic Year volume and adjusted to: 
+1 
+• 
+Normalize the impact of actual weather conditions to a 
+2 
+30-year average condition measured in Heating Degree 
+3 
+Days;  
+4 
+• 
+Normalize the impact of actual water temperature to an 
+5 
+historical average of water temperature condition 
+6 
+measured as an average cycle water temperatures; 
+7 
+• 
+Account for the transferring of customers between non-
+8 
+firm service and firm service; 
+9 
+• 
+Seasonality of A/C volumes;  
+10 
+• 
+Normalize billing days. 
+11 
+Q.  Please explain the weather normalization adjustment. 
+12 
+A. 
+The weather normalization adjustment is performed to 
+13 
+adjust volumes to the 30 years ending 2023 normal level 
+14 
+of Heating Degree Days.  The Company used a 30-year 
+15 
+normal of Heating Degree Days in accordance with the 
+16 
+Commission’s requirement in the Order Approving Electric, 
+17 
+Gas and Steam Rate Plans in Accord with Joint Proposal, 
+18 
+in Case 16-G-0061, et al.  We calculated the monthly 
+19 
+impact on firm delivery volume for firm heating service 
+20 
+classifications by multiplying the variation between 
+21 
+normal and actual Heating Degree Days, measured on a 
+22 
+billing cycle basis, by a use per heating degree-day per 
+23 
+
+
+--- Page 12 ---
+25-G-XXXX 
+ 
+ 
+CONSOLIDATED EDISON COMPANY OF NEW YORK, INC. 
+GAS FORECASTING PANEL 
+ 
+10 
+ 
+ 
+bill factor times the actual number of bills by 
+1 
+applicable service classification.   
+2 
+Q.  How is average weather normalized use per bill 
+3 
+calculated? 
+4 
+A.  Con Edison calculates the average weather normalized use 
+5 
+per bill by dividing monthly volume in a historic a 12-
+6 
+month period by the monthly number of bills during the 
+7 
+period.  This number is then divided by the number of 
+8 
+billing days in the month.   
+9 
+Q. 
+What did you do next with the Heating Degree Day 
+10 
+calculation? 
+11 
+A. 
+We used regression analysis of the adjusted actual 
+12 
+monthly billed volumes per customer per billing day 
+13 
+versus actual monthly billing cycle heating degree days 
+14 
+per billing day to determine the normalization factors by 
+15 
+service classification.  
+16 
+Q.  Please explain the remaining adjustments made to the 
+17 
+Historic Year volume. 
+18 
+A. 
+We also performed the following adjustments: 
+19 
+• 
+We performed the water normalization adjustment to the 
+20 
+Base Period volume for deviations from normal average 
+21 
+water temperatures to the actual average water 
+22 
+temperatures to adjust for the impact on water heating 
+23 
+
+
+--- Page 13 ---
+25-G-XXXX 
+ 
+ 
+CONSOLIDATED EDISON COMPANY OF NEW YORK, INC. 
+GAS FORECASTING PANEL 
+ 
+11 
+ 
+ 
+requirements.  The Adjustment for SC-1 and SC-2 rate 1 
+1 
+is for all 12 months.  We determined the usage per 
+2 
+degree of average water temperature factors for the 
+3 
+average customer of each class by regression analysis, 
+4 
+which demonstrated a correlation between sales and 
+5 
+water temperature.  We applied these factors in a 
+6 
+similar manner as the space heating factors were 
+7 
+applied in the weather normalization adjustment to 
+8 
+derive the water normalization adjustment. 
+9 
+• 
+We made adjustments to account for customers 
+10 
+transferring from non-firm to firm service during the 
+11 
+Base Period.  We performed this adjustment to 
+12 
+annualize the transfers occurring in the historic 
+13 
+period.  These customers moved either electively or 
+14 
+because their gas usage did not meet interruptible 
+15 
+tariff terms.   
+16 
+• 
+We performed seasonal adjustments for air conditioning 
+17 
+volumes where billing is outside the cooling season. 
+18 
+• 
+We adjusted the number of billing days to account for 
+19 
+the difference between the number of days billed in 
+20 
+the Historic Year versus the number of expected 
+21 
+billing days in each forecast Year.     
+22 
+Q.  Please discuss the adjustment to the 30-year normal to 
+23 
+
+
+--- Page 14 ---
+25-G-XXXX 
+ 
+ 
+CONSOLIDATED EDISON COMPANY OF NEW YORK, INC. 
+GAS FORECASTING PANEL 
+ 
+12 
+ 
+ 
+reflect the impact of Climate Change. 
+1 
+A. 
+After using the 30-year normal ending 2023 to adjust 
+2 
+volumes for the test year, we reviewed the Company’s 
+3 
+industry-leading proactive Climate Change Vulnerability 
+4 
+Study and determined the annual rate of climate change to 
+5 
+get to the Study’s 2030 normal.  Using that change, we 
+6 
+adjusted the normal used for the test and bridge years to 
+7 
+reflect a new climate normal for RY1 (2026), RY2 (2027), 
+8 
+RY3 (2028), and continued for years 2029 and 2030 to 
+9 
+complete the Company’s six-year forecast. 
+10 
+Q.  Please explain the electrification of heating.  
+11 
+A. 
+The adjustment reflects the Company’s estimated impact of 
+12 
+gas customers converting their heating systems to use 
+13 
+electric service in support of the initiatives outlined 
+14 
+in the Climate Leadership and Community Protection Act 
+15 
+and Local Law 97.  Customers in all service classes, and 
+16 
+their associated volumes, are adjusted in the forecast to 
+17 
+reflect the estimated future loss of gas heating as 
+18 
+customers switch to electrify their heating.  
+19 
+Q.  Please explain the electrification of non-heating.  
+20 
+A. 
+This adjustment reflects the Company’s estimated impact 
+21 
+of gas customers that will convert their gas stoves, gas 
+22 
+dryers, and gas water heaters to use electric service in 
+23 
+
+
+--- Page 15 ---
+25-G-XXXX 
+ 
+ 
+CONSOLIDATED EDISON COMPANY OF NEW YORK, INC. 
+GAS FORECASTING PANEL 
+ 
+13 
+ 
+ 
+support of the initiatives to reduce greenhouse gas 
+1 
+emissions.  Customers in all service classes, and their 
+2 
+associated usage are adjusted to reflect the loss of 
+3 
+forecasted non-heating gas customers and associated 
+4 
+volumes for the electricification of appliances.  
+5 
+Q.  Have you prepared an exhibit showing the RY1 firm gas 
+6 
+volumes? 
+7 
+A. 
+Yes, we prepared a three-page Exhibit ___ (GFP-1), the 
+8 
+first page of which is titled “CONSOLIDATED EDISON 
+9 
+COMPANY OF NEW YORK, INC. - DEVELOPMENT OF 12 MONTHS 
+10 
+ENDING DECEMBER 31, 2026 - FORECASTED FIRM GAS VOLUMES 
+11 
+(MDts)” with this information. 
+12 
+MARK FOR IDENTIFICATION AS EXHIBIT ___ (GFP-1) 
+13 
+Q. 
+Please describe page 1, line 1 of Exhibit ___ (GFP-1). 
+14 
+A. 
+Page 1, line 1 of Exhibit ___ (GFP-1) shows the adjusted 
+15 
+actual firm gas volumes recorded during the Historic Year 
+16 
+on a service classification basis. 
+17 
+Q. 
+Please describe page 1, line 2 of Exhibit ___ (GFP-1). 
+18 
+A. 
+Page 1, line 2 of Exhibit ___ (GFP-1) shows the adjusted 
+19 
+volumes associated from the weather normalization.  
+20 
+Q. 
+Please describe page 1, line 3 of Exhibit ___ (GFP-1). 
+21 
+A. 
+Page 1, line 3 of Exhibit ___ (GFP-1) shows the adjusted 
+22 
+volumes associated from the water normalization.  Water 
+23 
+
+
+--- Page 16 ---
+25-G-XXXX 
+ 
+ 
+CONSOLIDATED EDISON COMPANY OF NEW YORK, INC. 
+GAS FORECASTING PANEL 
+ 
+14 
+ 
+ 
+temperatures during the Historic Year were warmer than 
+1 
+normal.  As a result, the Historic Year delivery volumes 
+2 
+were lower than they otherwise would have been under 
+3 
+normal conditions.  This resulted in an upward adjustment 
+4 
+to firm volumes of 191 MDt.  
+5 
+Q. 
+Please explain the annualization adjustment labeled 
+6 
+“Transfers From Interruptible Service” on line 5.  
+7 
+A. 
+The delivery volumes on line 5 reflects the net of delivery 
+8 
+volumes of customer movement between firm and interruptible 
+9 
+service during the Historic Year.     
+10 
+Q. 
+Please explain line 6 “Billing Schedule Adjustment.” 
+11 
+A. 
+The Billing Schedule Adjustement represents the 
+12 
+variations in the meter reading schedule from Historic 
+13 
+Year to the rate years.  
+14 
+Q. 
+What does line 7, “Base Estimate” represent?  
+15 
+A. 
+The Base Estimate represents the Historic Year volume 
+16 
+with the adjustments described previously in this 
+17 
+section.  The Base Estimate is the starting point for the 
+18 
+Rate Year’s firm delivery volume forecast.  We then apply 
+19 
+the adjustments described below to develop the firm 
+20 
+delivery volume forecast. 
+21 
+Q.    Please explain the “Oil to Gas Conversions” forecast 
+22 
+shown on line 8.   
+23 
+
+
+--- Page 17 ---
+25-G-XXXX 
+ 
+ 
+CONSOLIDATED EDISON COMPANY OF NEW YORK, INC. 
+GAS FORECASTING PANEL 
+ 
+15 
+ 
+ 
+A.    The Oil to Gas Conversions forecast are forecasted 
+1 
+volumes for anticipated new business from customers 
+2 
+converting to natural gas from heating oils.   
+3 
+Q.  
+What is the New Business forecast on line 9? 
+4 
+A.  
+The forecast on line 9:  
+5 
+(1) 
+annualizes the volumes associated with customers 
+6 
+added or lost during the Historic Year that were not 
+7 
+fully realized in the Historic Year and customers 
+8 
+that have switched from one service class to another 
+9 
+as mentioned previously in this testimony; and  
+10 
+(2) 
+estimates the expected volume to be realized in the 
+11 
+Rate Year associated with new construction.   
+12 
+Q.  
+Please explain how the New Business forecast was 
+13 
+developed. 
+14 
+A.  
+The New Business volume forecast begins with a forecast 
+15 
+of the number of customers for SC-1, SC-2 rate 1, SC-2 
+16 
+rate 2, and SC-3 split between 1 to 4 dwelling units and 
+17 
+greater than 4 dwelling units.   
+18 
+As mentioned previously in this testimony, we also used 
+19 
+the weather-normalized average use per customer during 
+20 
+the base period.  We multiplied the weather-normalized 
+21 
+average use by the forecast of the number of customers 
+22 
+resulting in the New Business forecast. 
+23 
+
+
+--- Page 18 ---
+25-G-XXXX 
+ 
+ 
+CONSOLIDATED EDISON COMPANY OF NEW YORK, INC. 
+GAS FORECASTING PANEL 
+ 
+16 
+ 
+ 
+Q. 
+In developing the New Business volume forecast, how was 
+1 
+the forecast of customers developed?  
+2 
+A. 
+We developed the forecast of customers primarily based on 
+3 
+time-series econometric regression models using customer 
+4 
+count history.  Regression models were used to forecast 
+5 
+customers for service classifications SC-1 – Residential 
+6 
+and religious customers, SC-2 rate 1 (General commercial 
+7 
+and industrial customers), SC-2 rate 2 (General 
+8 
+commercial and industrial customers), SC-3 – Residential 
+9 
+(1 to 4 family dwelling units), and SC-3 – Residential 
+10 
+(>4 family dwelling units).  These regressions by service 
+11 
+classification used historical customer data as dependent 
+12 
+variables.  We adjusted the historical customer counts 
+13 
+for historical oil-to-gas conversions in service 
+14 
+classifications SC-2 rate 2 (General commercial and 
+15 
+industrial customers), SC-3 – Residential (1 to 4 family 
+16 
+dwelling units), and SC-3 – Residential (>4 family 
+17 
+dwelling units) to account for the Company’s historical 
+18 
+programs that provided incentives to customers who 
+19 
+converted from heating oils.   
+20 
+Q. 
+Explain how you developed the 30-day bills forecast. 
+21 
+A. 
+We created the 30-day bills forecast in this filing by 
+22 
+converting the customer forecast as mentioned previously 
+23 
+
+
+--- Page 19 ---
+25-G-XXXX 
+ 
+ 
+CONSOLIDATED EDISON COMPANY OF NEW YORK, INC. 
+GAS FORECASTING PANEL 
+ 
+17 
+ 
+ 
+in the description of the New Business Forecast in this 
+1 
+section.  This customer count forecast was adjusted based 
+2 
+on the future number of billing days in the months 
+3 
+contained in the forecast horizon, normalizing the number 
+4 
+of future billing days to 30. 
+5 
+Q. 
+What is the “Energy Efficiencies” forecast shown on line 
+6 
+10? 
+7 
+A. 
+The Company’s Energy Efficiency Department develops the 
+8 
+Energy Efficiency forecast.  This forecast reflects the 
+9 
+expected impact of energy efficiency plans and programs 
+10 
+as well as forecasted non-programmatic organic 
+11 
+conservation by customers in the service territory. 
+12 
+Q. 
+Please explain the basis of the “Energy Efficiencies” 
+13 
+forecast shown on line 10.  
+14 
+A. 
+The Company develops the forecast based on programs and 
+15 
+plans that include: New Efficiency: New York (NE:NY) and 
+16 
+Clean Heat programs.  In addition, the forecast includes 
+17 
+expected savings from the New York State Energy Research 
+18 
+and Development Authority (“NYSERDA”).  These programs 
+19 
+provide resources and incentives to the residential (1 to 
+20 
+4 dwelling units), multi-family and commercial customer 
+21 
+segments to promote energy efficiency.  The Company also 
+22 
+develops a forecast of organic, or non-programmatic 
+23 
+
+
+--- Page 20 ---
+25-G-XXXX 
+ 
+ 
+CONSOLIDATED EDISON COMPANY OF NEW YORK, INC. 
+GAS FORECASTING PANEL 
+ 
+18 
+ 
+ 
+energy efficiency that customers pursue without the aid 
+1 
+of the programs mentioned previously.   
+2 
+Q. 
+Please explain the basis of the “Electrification” 
+3 
+forecast shown on line 11.  
+4 
+A.  The Electrification on line 11 forecasts the Company’s 
+5 
+forecasted reduction in gas delivery volume related to 
+6 
+existing and future customers switching from gas to 
+7 
+electric service for both heating and non-heating 
+8 
+purposes.  
+9 
+Q.    What do pages two and three of Exhibit (GFP-1) show?  
+10 
+A.   These pages quantify the impacts that the forecast 
+11 
+drivers previously discussed in this section (e.g. 
+12 
+weather-normalization, energy efficiency)are expected to 
+13 
+have on RY2 and RY3, respectively.  
+14 
+Q.  Based on page one of Exhibit __ (GFP-1), what are the 
+15 
+projected firm delivery volumes for the Rate Year?  
+16 
+A.  Line 12 on page one of Exhibit __ (GFP-1) summarizes the 
+17 
+firm delivery volume forecast for the Rate Year.  Firm 
+18 
+delivery volume is estimated to total 166,036 MDt.  This 
+19 
+represents a decrease of 3,641 MDt from the Historic 
+20 
+Year’s volume adjusted to normal weather, water, 
+21 
+transfers to and from interruptible, and billing schedule 
+22 
+adjustments.    
+23 
+
+
+--- Page 21 ---
+25-G-XXXX 
+ 
+ 
+CONSOLIDATED EDISON COMPANY OF NEW YORK, INC. 
+GAS FORECASTING PANEL 
+ 
+19 
+ 
+ 
+Q. 
+Are the volumes shown by service classification and in 
+1 
+total on page one of Exhibit __ (GFP-1) the volumes the 
+2 
+Panel is recommending to be used for rate setting 
+3 
+forecasting? 
+4 
+A. 
+Yes.  These are the service class delivery volumes for 
+5 
+this rate filing. 
+6 
+V. NON-FIRM (INTERRUPTIBLE) VOLUME FORECAST 
+Q.  How was the volume projected for SC-12 rate 1 Non-Firm 
+7 
+(Interruptible) and SC-12 rate 2 Off-Peak Firm developed?  
+8 
+A.  We developed the forecast of the future volume for SC-12 
+9 
+rate 1 Non-Firm (Interruptible) and SC-12 rate 2 Off-Peak 
+10 
+Firm by making adjustments to the Historic Year volumes.   
+11 
+These adjustments include: 
+12 
+(1) 
+a weather adjustment that was computed in a manner 
+13 
+similar to the weather normalization adjustments for 
+14 
+the weather sensitive firm rate classifications; 
+15 
+(2) 
+an adjustment for the service interruptions that 
+16 
+occurred within the Historic Year for the 
+17 
+interruptible service classes; and 
+18 
+(3) 
+an adjustment for the transfer of customers between 
+19 
+interruptible and firm service discussed earlier.   
+20 
+Q.  Based on Exhibit __ (GFP-3), described later, what are 
+21 
+the projected non-firm sendout volumes for the Rate Year?  
+22 
+
+
+--- Page 22 ---
+25-G-XXXX 
+ 
+ 
+CONSOLIDATED EDISON COMPANY OF NEW YORK, INC. 
+GAS FORECASTING PANEL 
+ 
+20 
+ 
+ 
+A.  Line 13 of Exhibit __ (GFP-3 page 1) summarizes the non-
+1 
+firm sendout volume forecast for the Rate Year.  We 
+2 
+forecast that Non-Firm sendout volume will be  22,777 
+3 
+MDt.  
+4 
+VI. REVENUE FORECAST 
+Q. 
+Were Exhibits ___ (GFP-2)and (GFP-3), which are entitled 
+5 
+“CONSOLIDATED EDISON COMPANY OF NEW YORK, INC. – 
+6 
+FORECSATED GAS VOLUMES AND REVENUES,” prepared under the 
+7 
+Gas Forecasting Panels supervision and direction? 
+8 
+A. 
+Yes, they were.  
+9 
+MARK FOR IDENTIFICATION AS EXHIBIT ___ (GFP-2) and 
+10 
+(GFP-3) 
+11 
+Q. 
+Please explain what page 1 of Exhibit ___ (GFP-2)shows? 
+12 
+A. 
+Page 1 shows forecasted volumes and revenues for the 
+13 
+three months ended December 31, 2024 at January 1, 2024 
+14 
+rates. 
+15 
+Q. 
+What does column 1 “Gas Delivery Volumes (MDt)” of this 
+16 
+exhibit show? 
+17 
+A.  Column 1 shows by service classification grouping the gas 
+18 
+volumes forecasted for the three months ending December 
+19 
+31, 2024.   
+20 
+The firm gas service classifications are:  
+21 
+• 
+SC-1 - Residential and Religious;  
+22 
+
+
+--- Page 23 ---
+25-G-XXXX 
+ 
+ 
+CONSOLIDATED EDISON COMPANY OF NEW YORK, INC. 
+GAS FORECASTING PANEL 
+ 
+21 
+ 
+ 
+• 
+SC-2R1 – General Commercial and Industrial;  
+1 
+• 
+SC-2R1 – Rider H - General Commercial and Industrial 
+2 
+(customer using gas service for on site Distributed 
+3 
+Generation);  
+4 
+• 
+SC-2R1 – Contract General Commercial and Industrial 
+5 
+(non-heating);  
+6 
+• 
+SC-2R2 – General Commercial and Industrial 
+7 
+(heating);  
+8 
+• 
+SC-3 - Residential and Religious (heating);  
+9 
+• 
+SC-3 – Rider J -  Residential and Religious 
+10 
+(customer using gas service for on site generation);  
+11 
+• 
+SC-13 – Seasonal Off Peak Water Heating; and  
+12 
+• 
+SC-14 – Natural Gas Vehicles.  
+13 
+Column 1 also shows projected SC 12 Rate 1 Non-Firm and 
+14 
+SC-12 rate 2 Off-Peak Firm volumes for the three months 
+15 
+ending December 31, 2024.   
+16 
+Q.  Please explain how the Base Revenues, shown in column 2 
+17 
+on page 1, for firm related volumes were determined.  
+18 
+A. 
+For SC-1, SC-2 rate 1, SC-2 rate 2, SC-3, and SC-13, we 
+19 
+computed the forecasted Base Revenues by month on a 
+20 
+billing determinant basis.  The forecast is the product 
+21 
+of three steps:  
+22 
+
+
+--- Page 24 ---
+25-G-XXXX 
+ 
+ 
+CONSOLIDATED EDISON COMPANY OF NEW YORK, INC. 
+GAS FORECASTING PANEL 
+ 
+22 
+ 
+ 
+(1) 
+the estimated number of 30-day bills associated with 
+1 
+the forecasted usage is multiplied by the minimum 
+2 
+charge rate to obtain minimum charge revenues;  
+3 
+(2) 
+the forecast usage is broken down into usage by rate 
+4 
+block and multiplied by the associated rates as they 
+5 
+appear in the Company’s gas rate leafs for each rate 
+6 
+block; and  
+7 
+(3) 
+the minimum charge revenues and block charge 
+8 
+revenues are summed to obtain total Base Revenues.   
+9 
+The air conditioning volumes of certain customers within 
+10 
+these service classifications are charged lower rates for 
+11 
+associated incremental volumes and were priced 
+12 
+separately.  Volumes to distributed generation customers 
+13 
+and contract customers were priced according to their 
+14 
+appropriate rate/contract terms.  The volumes related to 
+15 
+SC-14 were priced at the rate in effect at the time the 
+16 
+forecast was developed.      
+17 
+Q.  Please explain how the Base Revenues related to the 
+18 
+projected volumes for SC-12 rate 1 Non-Firm were 
+19 
+determined.  
+20 
+A.  SC-12 rate 1 Non-Firm Base Revenue was calculated by 
+21 
+separating the service classification customers into 
+22 
+commercial and residential.  Volumes were then broken 
+23 
+
+
+--- Page 25 ---
+25-G-XXXX 
+ 
+ 
+CONSOLIDATED EDISON COMPANY OF NEW YORK, INC. 
+GAS FORECASTING PANEL 
+ 
+23 
+ 
+ 
+down into usage by rate block and multiplied by the 
+1 
+associated rates as they appear in the Company’s gas rate 
+2 
+leafs for each rate block. 
+3 
+Q.   Please explain how the Base Revenues, shown in column 2, 
+4 
+related to the projected volumes for SC-12 rate 2 Off-
+5 
+Peak Firm, were determined.  
+6 
+A.  SC-12 rate 2 Non–Firm Base Revenue was provided by 
+7 
+Accounting reflecting the base period’s actual revenue.   
+8 
+Q. 
+Please describe the revenues shown in columns 3,4,5,6, 
+9 
+and 7 on page 1. 
+10 
+A.  Column 3 on page 1 shows Competitive Charges, which are 
+11 
+the associated Merchant Function charges for Supply, 
+12 
+Credit and Collections, plus Billing and Payment 
+13 
+Processing revenues.  Column 4 through 7 on page 1 are 
+14 
+revenues supplied by Financial Planning and Analysis for 
+15 
+this Exhibit.  Column 4 that is listed as “Other Charges” 
+16 
+include various complonents of Monthly Rate Adjustment, 
+17 
+Uncollectibe Bills, Purchase of Receivables.  Column 5 is 
+18 
+System Benefit Charges. Column 6 is the Gas Cost 
+19 
+revenues.  Column 7 is the revenue taxes associated with 
+20 
+columns 2 through 6, and column 8 shows the total 
+21 
+revenues of column 2 through column 7.  
+22 
+Q. 
+Please explain what page 2 of Exibit ___ (GFP-2)shows. 
+23 
+
+
+--- Page 26 ---
+25-G-XXXX 
+ 
+ 
+CONSOLIDATED EDISON COMPANY OF NEW YORK, INC. 
+GAS FORECASTING PANEL 
+ 
+24 
+ 
+ 
+A. 
+Page 2 in the same format shows forecasted volumes and 
+1 
+revenues for the 12 months that lead up to the Rate Year, 
+2 
+12 months ending December 31, 2025 at January 1, 2025 
+3 
+rates. 
+4 
+Q. 
+Please explain Exhibit ___ (GFP-3). 
+5 
+A. 
+GFP-3 is similar to Exhibit ___ GFP-2 as it shows the Gas 
+6 
+Delivery Volume and Revenues for the Rate Year, RY2, and 
+7 
+RY3 at current rates.  The Rate Year shown on page 1 of 
+8 
+Exhibit GFP-3 has three additional columns, columns 9, 
+9 
+10, and 11, to include the Proposed Rate Increase and 
+10 
+additional Revenue tax.  Column 9 is the proposed change 
+11 
+in non-competitive revenues.  Column 10 is the proposed 
+12 
+change in competitive revenues.  Column 11 is additional 
+13 
+taxes and column 12 is the grand total of the proposed 
+14 
+rate increase and associated taxes added to the Total 
+15 
+Revenues at current rates shown in colum 8.  
+16 
+Q. 
+What is the firm rate increase proposed in the Company’s 
+17 
+rate filing? 
+18 
+A. 
+The total proposed firm rate increase inclusive of the 
+19 
+low income discount is $440.6 million.  
+20 
+Q.  You stated above that you developed the Rate Year base 
+21 
+revenue forecast by using billing determinants.  Did you 
+22 
+
+
+--- Page 27 ---
+25-G-XXXX 
+ 
+ 
+CONSOLIDATED EDISON COMPANY OF NEW YORK, INC. 
+GAS FORECASTING PANEL 
+ 
+25 
+ 
+ 
+develop exhibits summarizing the details of the billing 
+1 
+determinant forecast?   
+2 
+A.  Yes.  This data is shown for the three rate years on a 
+3 
+three-page exhibit, the first page of which is entitled 
+4 
+“CONSOLIDATED EDISON COMPANY OF NEW YORK, INC. – 
+5 
+FORECASTED GAS VOLUMES AND BASE REVENUES - 12 MONTHS 
+6 
+ENDING DECEMBER 31, 2026 AT CURRENT RATES BY BILLING 
+7 
+DETERMINANTS.” 
+8 
+ 
+MARK FOR IDENTIFICATION AS EXHIBIT ___ (GFP-4) 
+9 
+Q.  Please describe what this exhibit shows.  
+10 
+A.   This exhibit shows, where applicable, the firm volumes by 
+11 
+billing determinant.  The volumes by billing determinant 
+12 
+were developed using actual billing determinant volumes 
+13 
+for the Historic Year, modified to reflect the impact of 
+14 
+the variables previously discussed.  The allocation of 
+15 
+the impact of each of those variables on billing 
+16 
+determinant volumes was assessed on an individual basis.  
+17 
+For example, based on historical customer behavior and 
+18 
+the nature of the block structure, the impact of 
+19 
+adjustments related to weather has a relatively greater 
+20 
+impact on penultimate and terminal billing determinant 
+21 
+usage than on the blocks associated with smaller size new 
+22 
+business customers.  
+23 
+
+
+--- Page 28 ---
+25-G-XXXX 
+ 
+ 
+CONSOLIDATED EDISON COMPANY OF NEW YORK, INC. 
+GAS FORECASTING PANEL 
+ 
+26 
+ 
+ 
+We based the forecast of firm delivery revenues from 
+1 
+tariff customers (other than special contract customers 
+2 
+and SC-14) based on billing determinants.  Firm delivery 
+3 
+revenues from special contract customers were based on 
+4 
+their current contract terms.  We developed the firm 
+5 
+delivery revenues SC-14 revenues by using prices in 
+6 
+effect during the Historic Year.  
+7 
+VII. ADDITIONAL RESOURCES 
+Q.  Are there any O&M requests outside of capital projects? 
+8 
+A.  Yes, there are two O&M requests totaling $358,000. The 
+9 
+Company is requesting $50,000 of funding for the support 
+10 
+of the Energy Management Analytics (“EMA”) work and 
+11 
+$308,000 of funding for the support of the Gas 
+12 
+Distribution Forecasting Tool over the rate years.  
+13 
+No capital funds are requested through Gas Revenue and 
+14 
+Volume Forecasting. Instead, the EMA capital project 
+15 
+costs are requested under the Enterprise Data & Analytics 
+16 
+effort. The capital work includes utilizing Energy 
+17 
+Management energy price data and customer consumption 
+18 
+data to create infographics on the cost rates of 
+19 
+consumption per service class per hour, and to assess for 
+20 
+the localized economic benefits of disbursing battery 
+21 
+
+
+--- Page 29 ---
+25-G-XXXX 
+ 
+ 
+CONSOLIDATED EDISON COMPANY OF NEW YORK, INC. 
+GAS FORECASTING PANEL 
+ 
+27 
+ 
+ 
+storage per service classes. The O&M costs are IT costs 
+1 
+to maintain the enhancements.    
+2 
+Gas Daily Forecasting Tool (GDFT) is a firm gas 
+3 
+distribution forecasting model that forecasts firm gas 
+4 
+peak demand at design weather conditions with increased 
+5 
+granularity. The forecast considers historical meter-
+6 
+level consumption trends, and the new business, new 
+7 
+construction, demand response, steam-to-gas customers, 
+8 
+energy efficiency (“EE”), distributed generation, oil to 
+9 
+gas conversion, building electrification (“BE”) in its 
+10 
+modeling. Using this new tool, the Company will be able 
+11 
+to project firm gas peak day demand into Districts and 
+12 
+Regulators for a 20-year horizon at the distribution 
+13 
+level. This ongoing capital project is slated to conclude 
+14 
+in the Second Quarter of 2025. The O&M funding request 
+15 
+will support costs of the maintenance contract with the 
+16 
+vendor to recalibrate the meter-level patterns as they 
+17 
+change with time towards maintaining accurate localized 
+18 
+trending. Recalibration support of the application is 
+19 
+integral to the reliability and performance of the 
+20 
+application. 
+21 
+Q.  Are there any employee labor O&M requests?  
+22 
+ 
+23 
+
+
+--- Page 30 ---
+25-G-XXXX 
+ 
+ 
+CONSOLIDATED EDISON COMPANY OF NEW YORK, INC. 
+GAS FORECASTING PANEL 
+ 
+28 
+ 
+ 
+A.  Yes, The Company is requesting one (1) additional 
+1 
+employee to fulfill the functions of Gas Peak Demand 
+2 
+and Volume Forecasting, with the intention to 
+3 
+onboard the employee in 2026. The primary 
+4 
+responsibilities of this new role will include using 
+5 
+and supporting the Gas Distribution Forecasting 
+6 
+Tool. This encompasses running models with various 
+7 
+"What-If" scenarios, re-establishing baselines for 
+8 
+the application using updated customer metering 
+9 
+data, recalibrating gas transmission nodal 
+10 
+information, troubleshooting the application as 
+11 
+needed, and integrating the gas system peak 
+12 
+forecasts into the models. Additionally, the new 
+13 
+employee will present these models to various 
+14 
+departments for downstream integration of results. 
+15 
+Furthermore, the new employee will synchronize all 
+16 
+forecast simulations and forecasts to the Company's 
+17 
+volumetric forecast to ensure alignment. This role 
+18 
+will also include the responsibility of using the 
+19 
+Integrated Forecasting Pathways Sensitivity Model, 
+20 
+which is being designed by McKinsey. 
+21 
+Q. 
+Has the Panel prepared an Exhibit showing the additional 
+22 
+resources that you have just described? 
+23 
+
+
+--- Page 31 ---
+25-G-XXXX 
+ 
+ 
+CONSOLIDATED EDISON COMPANY OF NEW YORK, INC. 
+GAS FORECASTING PANEL 
+ 
+29 
+ 
+ 
+A. 
+Yes. We have prepared EXHIBIT ___ (GFP-5) entitled 
+1 
+“GAS FORECASTING – 2025 OM WP.”   
+2 
+Q.   Does this conclude the Gas Forecasting Panel’s testimony?  
+3 
+A.  
+Yes.  It does. 
+4 

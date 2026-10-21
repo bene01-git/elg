@@ -1,0 +1,4468 @@
+--- Page 1 ---
+ 
+ 
+ 
+BEFORE THE 
+STATE OF NEW YORK 
+PUBLIC SERVICE COMMISSION 
+ 
+ 
+ 
+In the Matter of 
+ 
+The Brooklyn union Gas Company d/b/a National Grid NY & 
+KeySpan Gas East Corporation d/b/a National Grid 
+ 
+Case 19-G-0309 & 19-G-0310 
+ 
+August 2019 
+ 
+ 
+Prepared Testimony of: 
+Staff Information Technology Panel 
+Jennifer Park 
+Assistant Engineer 
+Brian Fisher 
+Utility Engineering Specialist 2 
+Office of Electric, Gas and Water 
+Keith Haugen 
+Utility Analyst 3 (Cyber) 
+Office of Resiliency and Emergency 
+Preparedness 
+Luke Quackenbush 
+Auditor 2 (Public Utilities) 
+Office of Accounting, Audits, and 
+Finance 
+Chelsea Kruger 
+Utility Analyst 2 
+Office of Consumer Services 
+State of New York 
+Department of Public Service 
+Three Empire State Plaza 
+Albany, New York 12223-1350 
+
+
+--- Page 2 ---
+Cases 19-G-0309 and 19-G-0310  
+SITP 
+ 
+ 
+1 
+ 
+Q. 
+Please introduce the members of the Staff 
+1 
+Information Technology Panel. 
+2 
+A. 
+The panel members are Jennifer Park, Brian 
+3 
+Fisher, Keith Haugen, Luke Quackenbush, Chelsea 
+4 
+Kruger 
+5 
+Q. 
+Ms. Park, are you the same Jennifer Park 
+6 
+testifying as part of Staff’s Gas Supply Panel? 
+7 
+A. 
+Yes, my credentials are provided in that Panel’s 
+8 
+testimony. 
+9 
+Q. 
+Mr. Fisher, did you provide your educational and 
+10 
+professional experience in other testimony in 
+11 
+this proceeding? 
+12 
+A. 
+Yes, my professional and educational experience 
+13 
+are discussed in the prepared testimony of the 
+14 
+Gas Infrastructure and Operations Panel. 
+15 
+Q. 
+Mr. Haugen, in what capacity are you employed by 
+16 
+the Department? 
+17 
+A. 
+I am employed by the Department of Public 
+18 
+Service as a Utility Analyst 3 – Cyber Security, 
+19 
+assigned to the Utility Security Section within 
+20 
+the Office of Electric, Gas and Water. 
+21 
+Q. 
+Please provide a summary of your educational and 
+22 
+professional experience. 
+23 
+A. 
+I have a B.S. in Information Technology from 
+24 
+
+
+--- Page 3 ---
+Cases 19-G-0309 and 19-G-0310  
+SITP 
+ 
+ 
+2 
+ 
+Empire State College. I am also certified as a 
+1 
+Certified Information Systems Security 
+2 
+Professional (CISSP) and a GIAC Systems and 
+3 
+Network Auditor (GSNA). Beyond that, I have 
+4 
+attended numerous courses and workshops on cyber 
+5 
+security. My previous professional work 
+6 
+experience consists of 5 years as a computer 
+7 
+programmer for Newkirk Products, where I started 
+8 
+as a junior programmer and worked my way up to 
+9 
+senior programmer. I also became supervisor of 
+10 
+my unit, overseeing the work of 6-7 programmers 
+11 
+of varying skill levels. For two years following 
+12 
+Newkirk, I developed workflow applications for 
+13 
+Higher Education Systems Corporation as an IT 
+14 
+Specialist 2. 
+15 
+Q. 
+Please describe your current duties with the 
+16 
+Utility Security Section of the Office of 
+17 
+Reliability and Emergency Preparedness. 
+18 
+A. 
+I joined the Utility Security Section in 2008. 
+19 
+My current responsibilities include conducting 
+20 
+cyber security vulnerability assessments of 
+21 
+critical facilities and corporate IT systems, 
+22 
+which are owned and operated by the energy, gas, 
+23 
+telecommunications and water utilities. 
+24 
+
+
+--- Page 4 ---
+Cases 19-G-0309 and 19-G-0310  
+SITP 
+ 
+ 
+3 
+ 
+Q. 
+Have you previously testified before the 
+1 
+Commission? 
+2 
+A. 
+Yes. I testified on behalf of the Utility 
+3 
+Security Section in Case 16-E-0060 and 16-G-
+4 
+0061, Consolidated Edison Company of New York, 
+5 
+Inc. 
+6 
+Q. 
+Mr. Quackenbush, are you the same Luke 
+7 
+Quackenbush testifying as part of the Staff 
+8 
+Accounting Panel? 
+9 
+A. 
+Yes, my credentials are provided in that Panel’s 
+10 
+testimony.  
+11 
+Q. 
+Ms. Kruger, are you the same Chelsea Kruger 
+12 
+testifying as part of the Staff Consumer 
+13 
+Services Panel? 
+14 
+A. 
+Yes, my credentials are provided in that Panel’s 
+15 
+testimony. 
+16 
+ 
+17 
+Summary of Testimony 
+18 
+Q. 
+What is the purpose of the Panel’s testimony in 
+19 
+this proceeding? 
+20 
+A. 
+Our testimony will summarize The Brooklyn Union 
+21 
+Gas Company d/b/a National Grid NY’s (KEDNY) and 
+22 
+KeySpan Gas East Corporation d/b/a National Grid 
+23 
+(KEDLI), together the Companies, request for its 
+24 
+
+
+--- Page 5 ---
+Cases 19-G-0309 and 19-G-0310  
+SITP 
+ 
+ 
+4 
+ 
+new Information Technology (IT) programs and 
+1 
+projects, discuss our review process, including 
+2 
+the review of Cyber Security and Gas Business 
+3 
+Enablement (GBE) projects, recommend a number of 
+4 
+adjustments related to the proposed IT projects, 
+5 
+and make recommendations to improve the 
+6 
+transparency of the Company’s IT sanctioning and 
+7 
+reporting processes going forward.  Our 
+8 
+testimony will recommend an overall level of IT 
+9 
+Capital Expenditures for KEDNY and KEDLI for the 
+10 
+Rate Year, and a level of rent expense to be 
+11 
+reflected in the Companies’ revenue 
+12 
+requirements.  It is our position that the 
+13 
+Companies should spend at the levels they deem 
+14 
+appropriate to provide safe and adequate 
+15 
+service. 
+16 
+Q. 
+What adjustments are you recommending to the 
+17 
+Companies proposed IT investments? 
+18 
+A. 
+We recommend the following revenue requirements 
+19 
+adjustments: (1) an adjustment to address the 
+20 
+removal of IT projects; (2) an adjustment to 
+21 
+address the removal of the GBE contingency 
+22 
+amount; (3) a forecasting adjustment to KEDNY 
+23 
+and KEDLI’s IT capital budget forecast; and (4) 
+24 
+
+
+--- Page 6 ---
+Cases 19-G-0309 and 19-G-0310  
+SITP 
+ 
+ 
+5 
+ 
+an adjustment to the KEDNY and KEDLI return on 
+1 
+IT capital investments; and (5) a downward-only 
+2 
+Service Company Rent IT and GBE Program Net 
+3 
+Utility Plant and Depreciation Expense 
+4 
+Reconciliation Mechanism.  . 
+5 
+Q. 
+Please define the Historic Test Year, Rate Year, 
+6 
+and Data Years in these proceedings. 
+7 
+A. 
+The Historic Test Year is the twelve-month 
+8 
+period ending December 31, 2018.  The Rate Year 
+9 
+is the twelve-month period ending March 31, 
+10 
+2021.  The Data Years, One, Two, and Three, are 
+11 
+subsequent twelve-month periods ending March 31, 
+12 
+2022, March 31, 2023, and March 31, 2024, 
+13 
+respectively. 
+14 
+Q. 
+What are KEDNY’s and KEDLI’s fiscal years (FY)? 
+15 
+A. 
+The Companies’ FY runs from April 1 to March 31.  
+16 
+They are identified by the calendar year in 
+17 
+which the FY ends, such that FY 2021 begins on 
+18 
+April 1, 2020, ends on March 31, 2021, and is 
+19 
+identical to the Rate Year. 
+20 
+Q. 
+In your testimony, will you refer to, or 
+21 
+otherwise rely on, any information obtained 
+22 
+during the discovery phase of this proceeding? 
+23 
+A. 
+Yes.  We rely on several responses provided by 
+24 
+
+
+--- Page 7 ---
+Cases 19-G-0309 and 19-G-0310  
+SITP 
+ 
+ 
+6 
+ 
+the Company to information requests, or IRs.  
+1 
+These responses are included in Exhibit___(SITP-
+2 
+1) and will be identified using the reference 
+3 
+number originally assigned by the Department.  
+4 
+For instance, the Department’s first IR was 
+5 
+identified as “DPS-001.” 
+6 
+Q. 
+Is the Panel sponsoring any other exhibits? 
+7 
+A. 
+Yes, we are sponsoring the following additional 
+8 
+exhibits: Exhibit___(SITP-2), which includes a 
+9 
+summary of, and calculations related to, the 
+10 
+Panel’s proposed adjustments, and 
+11 
+Exhibit___(SITP-3), which shows the GBE 
+12 
+adjustment. 
+13 
+ 
+14 
+The Companies’ IT Proposal 
+15 
+Q. 
+What is the role of Information Technology (IT) 
+16 
+at National Grid? 
+17 
+A. 
+According to pages 9 and 10 of the pre-filed 
+18 
+direct testimony of the Companies’ IT Panel, IT 
+19 
+serves a wide range of services, from critical 
+20 
+gas transmission / distribution support systems 
+21 
+to standard office desktop applications, and is 
+22 
+vital for the “safe, reliable, and secure 
+23 
+physical and commercial operation of KEDNY and 
+24 
+
+
+--- Page 8 ---
+Cases 19-G-0309 and 19-G-0310  
+SITP 
+ 
+ 
+7 
+ 
+KEDLI’s gas distribution business”.  IT also 
+1 
+provides the necessary software applications to 
+2 
+serve the customer needs and to efficiently and 
+3 
+effectively manage and operate KEDNY and KEDLI. 
+4 
+Q. 
+What does IT provide to the Companies? 
+5 
+A. 
+On page 12 of the pre-filed direct testimony of 
+6 
+the Companies’ IT Panel, IT “provides, 
+7 
+maintains, and manages the computer hardware, 
+8 
+software, security (cyber and physical) 
+9 
+telecommunications, and other related 
+10 
+infrastructure, systems, and services for 
+11 
+National Grid’s business operations across all 
+12 
+National Grid service territories”.  
+13 
+Q. 
+Do the Companies develop their own IT projects 
+14 
+and investments?  
+15 
+A. 
+No, as most of the IT projects are used by 
+16 
+multiple operating companies and subsidiaries of 
+17 
+National Grid, IT projects are designed and 
+18 
+accounted for by National Grid USA Service 
+19 
+Company (Service Company).  The associated 
+20 
+project costs are allocated to the appropriate 
+21 
+operating companies using the allocation factors 
+22 
+showed in Exhibit___(ITP-2).  The associated 
+23 
+project costs for each operating company is in 
+24 
+
+
+--- Page 9 ---
+Cases 19-G-0309 and 19-G-0310  
+SITP 
+ 
+ 
+8 
+ 
+the form of rent expense. 
+1 
+Q. 
+Describe the total Service Company Rent expense 
+2 
+for IT projects and investments to KEDNY and 
+3 
+KEDLI in the Historic Test Year and Rate Year. 
+4 
+A. 
+The Service Company Rent expenses associated 
+5 
+with IT projects and investments to KEDNY and 
+6 
+KEDLI in the Historic Test Year was $27.1 
+7 
+million and $21.3 million, respectively, as 
+8 
+shown in Exhibit___(RRP-3CU), Schedule 9.  The 
+9 
+projected rent expense associated with total IT 
+10 
+costs and investments for KEDNY and KEDLI in the 
+11 
+Rate Year is $43.7 million and $32.2 million, 
+12 
+respectively, as set forth in Exhibit___(RRP-
+13 
+3CU).  The Companies claim that the major driver 
+14 
+of the increase in rent expense are the 
+15 
+forecasted IT capital projects. 
+16 
+Q. 
+What are the types of IT capital programs that 
+17 
+the Service Company proposed and why are these 
+18 
+investments necessary? 
+19 
+A. 
+There are several types of IT capital programs 
+20 
+that the Service Company proposes in this rate 
+21 
+case: Technology Modernization; Cyber and 
+22 
+Physical Security; Customer Information System 
+23 
+(CIS) Replacement; SAP S/4 HANA; Gas Business 
+24 
+
+
+--- Page 10 ---
+Cases 19-G-0309 and 19-G-0310  
+SITP 
+ 
+ 
+9 
+ 
+Enablement (GBE) Program; Customer 
+1 
+Transformation; and other IT capital work 
+2 
+streams. 
+3 
+ 
+First, Technology Modernization is a program 
+4 
+that is aimed to update “National Grid’s IT 
+5 
+infrastructure and applications to enable 
+6 
+continued reliable and efficient operation”.  
+7 
+Some of the major projects in this program 
+8 
+include the Application Rationalization project, 
+9 
+the Infrastructure Remediation and Lifecycle 
+10 
+Refresh project, and the Network Security 
+11 
+Infrastructure program.   
+12 
+ 
+Second, the Cyber Security Program is aimed to 
+13 
+enhance National Grid’s cyber capabilities and 
+14 
+“address cyber security threats to the 
+15 
+Enterprise, Critical Network Infrastructure 
+16 
+(“CNI”), and Operational Technology network 
+17 
+systems and environments.”  The Physical 
+18 
+Security Program is intended to mitigate 
+19 
+physical security threats, such as vandalizing 
+20 
+property, equipment or facilities, by 
+21 
+distributing enhanced security systems across 
+22 
+National Grid’s networks and facilities. 
+23 
+ 
+Third, the proposed CIS will replace its aging 
+24 
+
+
+--- Page 11 ---
+Cases 19-G-0309 and 19-G-0310  
+SITP 
+ 
+ 
+10 
+ 
+legacy system in order to have a “fully 
+1 
+functional customer system designed to meet 
+2 
+customer expectations and address marketplace 
+3 
+and regulatory objectives”.  A detailed Business 
+4 
+Case for CIS is shown in Exhibit___(SSP-5) in 
+5 
+the Company’s Shared Service Panel.  
+6 
+ 
+Fourth, the SAP S/4 HANA project will replace 
+7 
+the Company’s current SAP ECC 6.0, which is a 
+8 
+back-office platform that supports various 
+9 
+functions, such as Payroll and Human Resources.  
+10 
+The main reason for the timing of this decision 
+11 
+is because SAP will no longer support the 
+12 
+current version National Grid is using after 
+13 
+2025. 
+14 
+ 
+Fifth, the GBE Program is “a comprehensive 
+15 
+framework of new technology solution and 
+16 
+business process changes necessary to strengthen 
+17 
+and improve the performance of National Grid’s 
+18 
+US gas business.”   
+19 
+ 
+Sixth, the Customer Transformation Program would 
+20 
+change how National Grid interacts with 
+21 
+customers.  The program will help “mitigate 
+22 
+existing risks to National Grid’s self-service 
+23 
+billing, payment, and communications portals” 
+24 
+
+
+--- Page 12 ---
+Cases 19-G-0309 and 19-G-0310  
+SITP 
+ 
+ 
+11 
+ 
+while improving customer experience through 
+1 
+different service options, i.e., web.  
+2 
+ 
+Seventh and finally, IT will be implementing 
+3 
+projects in the following areas:  Gas 
+4 
+Operations, to help consolidate gas control 
+5 
+rooms and upgrades to hardware and operating 
+6 
+systems, including current SCADA system; Complex 
+7 
+Capital Delivery, to update the IT systems that 
+8 
+support the capital delivery service in order to 
+9 
+further improve developing and executing the 
+10 
+capital plan; Compliance and Mandates, to 
+11 
+account for necessary implementation of support 
+12 
+capabilities and equipment which are driven by 
+13 
+new regulations and safety and reliability 
+14 
+requirements; and Corporate IT, to ensure 
+15 
+systems are in place to manage and support 
+16 
+corporate activities, including Human Resources, 
+17 
+assurance, legal, tax, treasury, audit, claims, 
+18 
+and other functions. 
+19 
+Q. 
+Are the IT investments divided into spending 
+20 
+categories? 
+21 
+A. 
+Yes.  As shown in Tables 1 and 2 on page 18 of 
+22 
+the Companies’ pre-filed Informational 
+23 
+Technology Panel testimony, IT Investments are 
+24 
+
+
+--- Page 13 ---
+Cases 19-G-0309 and 19-G-0310  
+SITP 
+ 
+ 
+12 
+ 
+broken down into the following six categories:  
+1 
+Existing Projects, Technology Modernization, 
+2 
+Cyber Security, Compliance & Mandates, Gas 
+3 
+Business Enablement or GBE, Consumer Information 
+4 
+System or CIS, and other initiatives. 
+5 
+ 
+6 
+The Development of the IT Investment Plan 
+7 
+Q. 
+Describe the Service Company’s proposed IT 
+8 
+capital spending plan for the Rate Year and FYs 
+9 
+2022 through 2024, which the Companies refer to 
+10 
+in their filings as Data Years One, Two and 
+11 
+Three. 
+12 
+A. 
+As shown in the Exhibit___(ITP-4CU), the 
+13 
+proposed IT spending levels are $243.8 million, 
+14 
+$382.8 million, $180.8 million and $299.2 for 
+15 
+the Rate Year, FY 22, FY 23, and FY 24, 
+16 
+respectively, for the Service Company. 
+17 
+Q. 
+Describe the Companies’ Corporate IT budgeting 
+18 
+process.  
+19 
+A. 
+As stated in the Companies’ response to IR DPS-
+20 
+432, the Companies state that their Corporate IT 
+21 
+budgeting process consists of two components: 
+22 
+the IT Capital Investment Planning Process and 
+23 
+the O&M Planning Process.  The IT Capital 
+24 
+
+
+--- Page 14 ---
+Cases 19-G-0309 and 19-G-0310  
+SITP 
+ 
+ 
+13 
+ 
+Investment Planning Process starts in May, where 
+1 
+the budgets are developed, projects and 
+2 
+prioritized, and estimates refined for the 
+3 
+upcoming fiscal year, which begins the following 
+4 
+April.  The O&M Planning Process starts in 
+5 
+September, where the associated operating 
+6 
+expenses are developed by using historical 
+7 
+spending trends and estimating the impact of any 
+8 
+new projects.  In November, the investment plan 
+9 
+and O&M budget are implemented in the IT budget 
+10 
+process and submitted to the global and U.S. 
+11 
+Chief of Information office for approval.  After 
+12 
+implementation of the investment, different 
+13 
+types of monthly meetings are held to discuss 
+14 
+actual versus budget variances, updates on 
+15 
+investment spending, and validate or review an 
+16 
+investment plan that may need to be changed. 
+17 
+Q. 
+Is the Companies’ Corporate IT budgeting process 
+18 
+appropriate? 
+19 
+A. 
+Yes. 
+20 
+Q. 
+Describe the typical life cycle analysis of an 
+21 
+IT project and how the individual project 
+22 
+budgets developed. 
+23 
+A. 
+As shown in the response to IR DPS-1003, the 
+24 
+
+
+--- Page 15 ---
+Cases 19-G-0309 and 19-G-0310  
+SITP 
+ 
+ 
+14 
+ 
+Company explained the five stages of an IT 
+1 
+project life cycle: pre start-up, start-up, 
+2 
+requirements and design, development and 
+3 
+implementation, and close.  The pre start-up 
+4 
+phase captures the problems and needs to develop 
+5 
+scope, context, and cost estimates, which is 
+6 
+shown in the Investment Request Paper (IRS).  
+7 
+The IRS papers provides a cost estimate of 
+8 
+project to have a variance of plus 200 percent 
+9 
+or minus 50 percent.  Next, the project goes 
+10 
+into the start-up phase, where a project manager 
+11 
+is assigned to the project to develop a team, 
+12 
+work plan, and a partial sanction paper.  The 
+13 
+partial sanction narrows down the variances of 
+14 
+the projects estimates to plus 25 percent and 
+15 
+minus 25 percent.  After the partial sanction is 
+16 
+approved, the project goes into the Development 
+17 
+and Implementation phase, where the team 
+18 
+determines the technical requirements needed for 
+19 
+the project, designs the solution and develops 
+20 
+the full sanction paper.  The full sanction 
+21 
+further reduces the variances of the project 
+22 
+estimates to plus 10 percent to minus 10 
+23 
+percent.  The sanction paper is submitted to 
+24 
+
+
+--- Page 16 ---
+Cases 19-G-0309 and 19-G-0310  
+SITP 
+ 
+ 
+15 
+ 
+either the US Sanctioning Committee for projects 
+1 
+exceeding $1 million or the IT Sanctioning 
+2 
+Committee for project below $1 million.  After 
+3 
+the sanction is approved, the team builds the 
+4 
+solution and tests to see if it operates as 
+5 
+required and designed in the development and 
+6 
+implementation phase.  The solution is 
+7 
+implemented, and the transitions begins with 
+8 
+necessary support provided.  Finally, a closure 
+9 
+paper is developed to ensure a clear, efficient, 
+10 
+and cost-effective shutdown to the project 
+11 
+activity.  
+12 
+Q. 
+Did you, or members of Staff under your 
+13 
+supervision, conduct a review of projects in 
+14 
+each budget category? 
+15 
+A. 
+Yes, we sampled projects to analyze the status 
+16 
+of the projects proposed projects.  In the 
+17 
+response to IR DPS-487, the Companies provided 
+18 
+IRS, partial sanction, and sanction papers for 
+19 
+each project depending, on the stage of the 
+20 
+project development. 
+21 
+Q. 
+Describe the project sanctioning process. 
+22 
+A. 
+The sanctioning process identifies the 
+23 
+appropriate spending levels, by specific 
+24 
+
+
+--- Page 17 ---
+Cases 19-G-0309 and 19-G-0310  
+SITP 
+ 
+ 
+16 
+ 
+programs or projects.  The process is used to 
+1 
+seek and obtain approval to spend money on 
+2 
+project development.  The sanction request may 
+3 
+address the full project cost, or a partial 
+4 
+sanction may be submitted to request enough 
+5 
+funding to advance to the next stage of the 
+6 
+project development. 
+7 
+Q. 
+What types of sanctions does the Companies 
+8 
+employ for IT capital programs or projects? 
+9 
+A. 
+There are four types of sanctions that the 
+10 
+Companies employ: partial sanction, sanction, 
+11 
+re-sanction, and closure paper.  A partial 
+12 
+sanction paper is generally submitted to advance 
+13 
+a project when a sanction paper cannot be 
+14 
+submitted due to lack of a complete scope and 
+15 
+final cost.  Unlike the partial sanction paper, 
+16 
+the sanction paper is generally prepared for the 
+17 
+full scope and cost of the project and is 
+18 
+considered the final approval to undertake the 
+19 
+project.  A re-sanction paper must be filed 
+20 
+within the 60 days of notice that the cost of a 
+21 
+project is forecasted to exceed the tolerance 
+22 
+approved in the sanction paper.  A closure paper 
+23 
+is prepared at the completion of a project that 
+24 
+
+
+--- Page 18 ---
+Cases 19-G-0309 and 19-G-0310  
+SITP 
+ 
+ 
+17 
+ 
+details the financial and objective outcomes of 
+1 
+the project. 
+2 
+Q. 
+What information is contained in the sanction 
+3 
+papers? 
+4 
+A. 
+The sanction papers typically provide cost and 
+5 
+project details, as well as potential 
+6 
+alternatives and the ramifications of those 
+7 
+alternatives, so that the Companies can make 
+8 
+informed decisions regarding capital projects, 
+9 
+including the risks and benefits to the 
+10 
+Companies and their customers.  More 
+11 
+specifically, the sanction paper includes a 
+12 
+summary of the amount being requested for 
+13 
+sanctioning, broken down into capital and 
+14 
+operating expenditures by year, and a summary of 
+15 
+the project, including what is being proposed, 
+16 
+what is being replaced, drivers, background, 
+17 
+benefits, and any business or customer issues.  
+18 
+As some sanctions can be done for multiple 
+19 
+projects, a summary of projects is listed.  The 
+20 
+prior sanctioning history shows each partial or 
+21 
+prior sanction before the current sanction 
+22 
+paper, along with the sanctioned amount, the 
+23 
+next planned sanction, all key milestones, and 
+24 
+
+
+--- Page 19 ---
+Cases 19-G-0309 and 19-G-0310  
+SITP 
+ 
+ 
+18 
+ 
+the cost estimation tolerance around the 
+1 
+sanction requested amount.  Each sanction paper 
+2 
+categorizes the project as mandatory, policy-
+3 
+driven, justified net present value or other.  
+4 
+Q. 
+What other information do the sanction papers 
+5 
+include. 
+6 
+A. 
+Each sanction paper also defines an asset 
+7 
+management, risk score, primary risk score 
+8 
+driver, complexity level, and process hazard 
+9 
+assessment.  The resources to complete the 
+10 
+project, whether internal or external, 
+11 
+availability of the resources, and any potential 
+12 
+operational and procurement impact are also 
+13 
+noted.  Other key issues and potential impact to 
+14 
+climate change are also noted.  The project 
+15 
+alternatives that were considered are listed, 
+16 
+along with potential risks faced in project 
+17 
+implementation.  Any cost assumptions and cost 
+18 
+benefit analysis or net present value analysis 
+19 
+performed are listed or marked not applicable.  
+20 
+The recovery of the project costs and financial 
+21 
+impact to the Service Company are defined.  If a 
+22 
+fully developed sanction is completed, there 
+23 
+will be an estimate of expected implementation 
+24 
+
+
+--- Page 20 ---
+Cases 19-G-0309 and 19-G-0310  
+SITP 
+ 
+ 
+19 
+ 
+operating costs and ongoing run the business 
+1 
+expenses.  Finally, a list of operating 
+2 
+companies that will benefit from – and pay for – 
+3 
+the project is included, which a plan for 
+4 
+customer outreach, if applicable.   
+5 
+Q. 
+Do all papers in the sanctioning process include 
+6 
+all of the information you described? 
+7 
+A. 
+No.  Depending on the status of a project’s 
+8 
+development, it may be in different stages of 
+9 
+sanctioning and only preliminary information is 
+10 
+included in the documentation.  
+11 
+Q. 
+What information is contained in the IRS papers? 
+12 
+A. 
+IRS papers show the key personnel involved in 
+13 
+developing the project, as well as the project 
+14 
+category, primary policy driver, description and 
+15 
+background, expected benefits, scope, 
+16 
+dependencies, and assumptions.  Estimated costs 
+17 
+by year are listed, as well as costs by delivery 
+18 
+phase.  A breakdown of the project 
+19 
+prioritization and cost by capital, operating, 
+20 
+and expected run the business costs is included, 
+21 
+along with a score for investment risk and 
+22 
+complexity.  An estimate of the resources needed 
+23 
+to complete the project, the key, known 
+24 
+
+
+--- Page 21 ---
+Cases 19-G-0309 and 19-G-0310  
+SITP 
+ 
+ 
+20 
+ 
+milestone dates, and benefitting operating 
+1 
+companies are also listed.   
+2 
+Q. 
+Do all IRS papers include the information you 
+3 
+described above in the sanction process? 
+4 
+A. 
+No.  Depending on the status of each individual 
+5 
+project, the amount of detail in each IRS paper 
+6 
+will vary. 
+7 
+Q. 
+Why is less information available in the IRS 
+8 
+papers? 
+9 
+A. 
+IRS papers may contain less information, or more 
+10 
+broadly defined information, than full sanction 
+11 
+papers because, as described previously, these 
+12 
+are used at the earliest stage of project 
+13 
+development. 
+14 
+Q. 
+Explain how the Companies estimate the 
+15 
+preliminary project costs for IT projects on the 
+16 
+IRS papers. 
+17 
+A. 
+As stated in the Companies’ response to IR DPS-
+18 
+880, the IT Business Consultants (BC) and 
+19 
+Project Managers (PM) develop the preliminary 
+20 
+costs, based on their experience with delivering 
+21 
+projects of similar size, scope, and complexity.  
+22 
+Costs may also be estimated by using labor hours 
+23 
+spent on prior projects of similar size, scope, 
+24 
+
+
+--- Page 22 ---
+Cases 19-G-0309 and 19-G-0310  
+SITP 
+ 
+ 
+21 
+ 
+and complexity, combined with vendor rate cards 
+1 
+and internal labor.  When applicable, historical 
+2 
+documents such as previous statement of work 
+3 
+from vendors that show estimated hardware or 
+4 
+network costs and sanctioning/closure papers are 
+5 
+used. 
+6 
+ 
+7 
+IT Investment Recovery 
+8 
+Q. 
+How do the Service Companies’ IT capital 
+9 
+expenditures impact the KEDNY and KEDLI revenue 
+10 
+requirements? 
+11 
+A. 
+IT project costs are incurred at the Service 
+12 
+Company level.  The costs are then allocated to 
+13 
+the individual operating companies that use the 
+14 
+IT services.  KEDNY and KEDLI thus are allocated 
+15 
+its proportionate share of IT projects costs for 
+16 
+each solution it utilized that was developed or 
+17 
+obtained by the Service Company. 
+18 
+Q. 
+What types of IT costs are allocated to KEDNY 
+19 
+and KEDLI? 
+20 
+A. 
+The Companies divide their IT program costs into 
+21 
+three categories: capital expenditures, 
+22 
+operating expenses, and “run the business,” or 
+23 
+RTB, expenses. 
+24 
+
+
+--- Page 23 ---
+Cases 19-G-0309 and 19-G-0310  
+SITP 
+ 
+ 
+22 
+ 
+Q. 
+Please describe the capital expenditures 
+1 
+category. 
+2 
+A. 
+Capital expenditures represent the costs to buy 
+3 
+or create the project that will be included as 
+4 
+an asset at the Service Company.  
+5 
+Exhibit___(ITP-4CU), shows the forecast capital 
+6 
+expenditures, by project, for the Rate Year, as 
+7 
+well as FYs 2022, 2023, and 2024.   
+8 
+Q. 
+How do these capital expenditures translate to 
+9 
+KEDNY and KEDLI’s revenue requirements? 
+10 
+A. 
+Once the project is closed to plant in service 
+11 
+on the Service Company’s books, the Service 
+12 
+Company begins to charge KEDNY and KEDLI for its 
+13 
+portion of the amortization expense of the 
+14 
+projects, as well as a return on the unamortized 
+15 
+project costs.  This process is similar to that 
+16 
+used for “traditional” gas plant, whereby the 
+17 
+Companies incur depreciation expense and also 
+18 
+earns a return on the net book value when the 
+19 
+plant is included in rate base. 
+20 
+Q. 
+Do the IT assets move to KEDNY or KEDLI’s books 
+21 
+after being placed in service? 
+22 
+A. 
+No.  These assets remain on the Service 
+23 
+Company’s books after KEDNY and KEDLI begin 
+24 
+
+
+--- Page 24 ---
+Cases 19-G-0309 and 19-G-0310  
+SITP 
+ 
+ 
+23 
+ 
+using them.  The Service Company recovers both 
+1 
+the return on and the return of the IT asset 
+2 
+investment through Service Company Rent Expense, 
+3 
+which is a component of Operations and 
+4 
+Maintenance expense, or O&M.  Service Company 
+5 
+Rent expense is shown in both of KEDNY and 
+6 
+KEDLI’s Exhibit____(RRP-3), Schedule 9. 
+7 
+Q. 
+How much Service Company Rent expense do KEDNY 
+8 
+and KEDLI forecast during the Rate Year? 
+9 
+A. 
+KEDNY and KEDLI forecast $43.7 million and $32.2 
+10 
+million of Rate Year Service Company Rent 
+11 
+expense, respectively.  Of these amounts, $9.2 
+12 
+million and $10.3 million are facilities, $14.4 
+13 
+million and $8.6 million are for existing gas 
+14 
+projects, and $20.1 million and $13.3 million 
+15 
+are for new gas IT projects, for KEDNY and 
+16 
+KEDLI, respectively. 
+17 
+Q. 
+Please describe the IT operating expenses. 
+18 
+A. 
+As described on page 52 of the Companies’ IT 
+19 
+Panel’s Direct Testimony, IT operating expenses 
+20 
+consist of initial project expenses and post-
+21 
+implementation costs incurred with new projects.  
+22 
+These costs are spread throughout multiple 
+23 
+components of the revenue requirement. 
+24 
+
+
+--- Page 25 ---
+Cases 19-G-0309 and 19-G-0310  
+SITP 
+ 
+ 
+24 
+ 
+Q. 
+How are operating expenses incurred in the 
+1 
+Historic Test Year reflected in the Rate Year 
+2 
+revenue requirement? 
+3 
+A. 
+As shown in Exhibit___(ITP-8CU), the Service 
+4 
+Company incurred operating expenses of 
+5 
+approximately $30.6 million in the historic test 
+6 
+year.  The Companies expect the level of 
+7 
+operating expenses incurred in the historic test 
+8 
+year to continue in the Rate Year.  After 
+9 
+accounting for inflation and allocations to 
+10 
+KEDNY and KEDLI, the various components of the 
+11 
+Rate Year revenue requirement include 
+12 
+approximately $4.271 million and $2.660 million 
+13 
+of these expenses for KEDNY and KEDLI, 
+14 
+respectively. 
+15 
+Q. 
+What level of operating expenses associated with 
+16 
+new IT projects are forecast to be incurred 
+17 
+during the Rate Year? 
+18 
+A. 
+As shown in Exhibit___(ITP-7CU), the Service 
+19 
+Company expects to incur an additional $33.375 
+20 
+million of operating expenses in the Rate Year 
+21 
+associated with new IT projects, not including 
+22 
+the CIS project and SAP S4 HANA.  After 
+23 
+allocating to KEDNY and KEDLI, these forecast 
+24 
+
+
+--- Page 26 ---
+Cases 19-G-0309 and 19-G-0310  
+SITP 
+ 
+ 
+25 
+ 
+costs result in incremental Rate Year expenses 
+1 
+of $3.386 million and $2.109 million for KEDNY 
+2 
+and KEDLI, respectively.  These expenses are 
+3 
+included in the Other Initiatives expense line 
+4 
+in O&M, as shown in Exhibit___(RRP-3CU), 
+5 
+Schedule 27.  Additionally, the calculation is 
+6 
+shown in Exhibit___(SITP-2). 
+7 
+Q. 
+Please describe the IT RTB expenses. 
+8 
+A. 
+As explained on page 52 of the Companies’ IT 
+9 
+Panel Direct Testimony, RTB expenses are costs 
+10 
+of running a project once it is in service, 
+11 
+inclusive of licensing and maintenance 
+12 
+agreements, third party contracts, consultant 
+13 
+and contractor costs, and internal labor.  
+14 
+Similar to the upfront operating expenses, RTB 
+15 
+expenses are included in many areas of the 
+16 
+revenue requirement. 
+17 
+Q. 
+How are the RTB expenses incurred in the 
+18 
+historic test year reflected in the Rate Year 
+19 
+revenue requirement? 
+20 
+A. 
+As shown in Exhibit___(ITP-8CU), the Service 
+21 
+Company incurred approximately $213.3 million of 
+22 
+RTB expenses in the historic test year.  The 
+23 
+Companies expect the level of RTB expenses 
+24 
+
+
+--- Page 27 ---
+Cases 19-G-0309 and 19-G-0310  
+SITP 
+ 
+ 
+26 
+ 
+incurred in the historic rate year to continue 
+1 
+into the Rate Year.  After accounting for 
+2 
+inflation and allocations to KEDNY and KEDLI, 
+3 
+the various components of the Rate Year revenue 
+4 
+requirement include approximately $29.773 
+5 
+million and $18.544 million of these expenses 
+6 
+for KEDNY and KEDLI, respectively. 
+7 
+Q. 
+What level of RTB expenses associated with new 
+8 
+IT projects are forecast to be incurred during 
+9 
+the Rate Year? 
+10 
+A. 
+As shown in Exhibit___(ITP-7CU), the Service 
+11 
+Company expects to incur an additional $28.543 
+12 
+million of RTB expenses in the Rate Year 
+13 
+associated with new IT projects, not including 
+14 
+the CIS project and SAP S/4 HANA.  After 
+15 
+allocation to the Companies, these forecast 
+16 
+costs result in incremental Rate Year expenses 
+17 
+of $2.896 million and $1.803 million for KEDNY 
+18 
+and KEDLI, respectively.  These expenses are 
+19 
+included in the Other Initiatives expense line 
+20 
+in O&M, as shown in Exhibit___(RRP-3CU), 
+21 
+Schedule 27.  Additionally, the calculation is 
+22 
+shown in Exhibit___(SITP-2). 
+23 
+Q. 
+Does the Rate Year revenue requirement reflect 
+24 
+
+
+--- Page 28 ---
+Cases 19-G-0309 and 19-G-0310  
+SITP 
+ 
+ 
+27 
+ 
+upfront operating expenses for CIS? 
+1 
+A. 
+Yes.  The Companies included operating expenses 
+2 
+of $10.526 million and $4.885 million for KEDNY 
+3 
+and KEDLI, respectively, to implement CIS.  
+4 
+These expenses are included in the Other 
+5 
+Initiatives expense line in O&M, as shown in 
+6 
+Exhibit___(RRP-3CU), Schedule 27.  Additionally, 
+7 
+the calculation is shown in Exhibit___(SITP-2). 
+8 
+Q. 
+Does the Rate Year revenue requirement reflect 
+9 
+RTB expenses for CIS? 
+10 
+A. 
+No.  As shown on Exhibit___(ITP-7CU), the 
+11 
+Companies do not include any Rate Year RTB 
+12 
+expenses related to the CIS project because the 
+13 
+in-service date does not fall within the Rate 
+14 
+Year. 
+15 
+Q. 
+Please summarize KEDNY and KEDLI’s Rate Year 
+16 
+revenue requirement as it related to IT 
+17 
+projects. 
+18 
+A. 
+KEDNY and KEDLI have included approximately 
+19 
+$94.598 million and $62.237 million of IT-
+20 
+related project costs in the revenue 
+21 
+requirements for their gas businesses, 
+22 
+respectively.  This is comprised of gas capital-
+23 
+related costs of $43.746 million and $32.236 
+24 
+
+
+--- Page 29 ---
+Cases 19-G-0309 and 19-G-0310  
+SITP 
+ 
+ 
+28 
+ 
+million for KEDNY and KEDLI, respectively, which 
+1 
+are incurred as Service Company Rent expenses; 
+2 
+upfront operating expenses of $18.183 million 
+3 
+and $9.654 million, and RTB expenses of $32.669 
+4 
+million and $20.347 million for KEDNY and KEDLI, 
+5 
+respectively. 
+6 
+Q. 
+How much of this revenue requirement is 
+7 
+incremental to what was included in the historic 
+8 
+test year and associated with new IT projects? 
+9 
+A. 
+Of the amounts previously provided, 
+10 
+approximately $36.932 million and $22.115 
+11 
+million are incremental for KEDNY and KEDLI, 
+12 
+respectively.  This is comprised of incremental 
+13 
+Service Company Rent expense of $20.124 million 
+14 
+and $13.318 million, respectively, and operating 
+15 
+and RTB expenses of $16.808 million and $8.797 
+16 
+million for KEDNY and KEDLI, respectively. 
+17 
+ 
+18 
+Staff’s Review Process 
+19 
+Q. 
+Describe the process you used to review the 
+20 
+Companies proposed IT investments. 
+21 
+A. 
+We took several steps to review the proposed IT 
+22 
+investments.  First, we held two technical 
+23 
+sessions with the Companies to discuss their IT 
+24 
+
+
+--- Page 30 ---
+Cases 19-G-0309 and 19-G-0310  
+SITP 
+ 
+ 
+29 
+ 
+budgeting process, sanctioning process, proposed 
+1 
+IT investment plan and the overall goals and 
+2 
+objectives of the Companies’ proposed IT 
+3 
+investments.  Next, we reviewed the Service 
+4 
+Company’s historic IT capital spending from 
+5 
+Fiscal Year 2015 to Fiscal Year 2019 to gauge 
+6 
+its ability to complete IT projects.  Then, we 
+7 
+reviewed the proposed IT projects and associated 
+8 
+expenses, through IRS and sanction papers.  
+9 
+Finally, we analyzed the variances between the 
+10 
+cost estimates of the IT capital projects and 
+11 
+the final estimates shown in the closure papers.   
+12 
+Q. 
+Describe the Panel’s method of reviewing the 
+13 
+proposed projects. 
+14 
+A. 
+Exhibit___(ITP-4CU) shows the IT projects and 
+15 
+their associated capital expenditures for the 
+16 
+Rate Year and Data Years, totaling 163 IT 
+17 
+projects.  We focused on reviewing projects that 
+18 
+were either starting or continuing in the Rate 
+19 
+Year.  We reviewed the project using the IRS and 
+20 
+sanction papers that were provided in response 
+21 
+to IR DPS-487, and found that most of the 
+22 
+projects only had IRS papers. 
+23 
+Q. 
+Is the Panel comfortable with most of the 
+24 
+
+
+--- Page 31 ---
+Cases 19-G-0309 and 19-G-0310  
+SITP 
+ 
+ 
+30 
+ 
+proposed projects only having IRS papers?  
+1 
+A. 
+No.  As discussed earlier, IRS papers are 
+2 
+generated in the pre start-up phase and show 
+3 
+cost estimates that can have a variance of minus 
+4 
+50 percent to plus 200 percent.  In addition, 
+5 
+the IRS papers do not provide a well-defined 
+6 
+scope, therefore, we are not confident that the 
+7 
+Companies’ can execute the proposed IT 
+8 
+investments on time given where the investments 
+9 
+currently stand.   
+10 
+Q. 
+What other information did you learn from your 
+11 
+review of the Companies’ IRS and sanctioning 
+12 
+processes? 
+13 
+A. 
+To get a better understanding of how accurate 
+14 
+the preliminary project costs shown in the IRS 
+15 
+papers or early sanction papers are compared to 
+16 
+the final project costs shown in the closure 
+17 
+papers, we asked for the variances between the 
+18 
+two costs, shown in the Companies’ response to 
+19 
+IR DPS-880.  We found that the variances from 
+20 
+the preliminary and final project costs ranged 
+21 
+from minus 100 percent to plus 918 percent.  We 
+22 
+understand that the cost estimates shown on the 
+23 
+IRS could range from minus 50 percent to plus 
+24 
+
+
+--- Page 32 ---
+Cases 19-G-0309 and 19-G-0310  
+SITP 
+ 
+ 
+31 
+ 
+200 percent; however, the variances between the 
+1 
+preliminary and final costs show, in actuality, 
+2 
+that the Companies’ proposed project costs could 
+3 
+significantly change and thus significantly 
+4 
+impact the Rate Year budget. 
+5 
+ 
+6 
+Historic Review 
+7 
+Q. 
+What did you observe when you reviewed the 
+8 
+historic IT Capital Spending? 
+9 
+A. 
+We made several observations.  First, we 
+10 
+reviewed the historic IT Capital Spending and 
+11 
+found the actual IT capital spending levels in 
+12 
+FYs 2015 through 2019 were $74.3 million, $81.4 
+13 
+million, $121.9 million, $94.6 million, and 
+14 
+$115.2 million, respectively.  Second, we 
+15 
+determined that the Service Company underspent 
+16 
+its budgets in FY 2015, 2016, 2018, and 2019, 
+17 
+but significantly overspent in FY 2017.  Lastly, 
+18 
+for completed IT projects, we observed 
+19 
+significant variances between the preliminary 
+20 
+project costs and final costs that were included 
+21 
+in the closure papers. 
+22 
+Q. 
+Please explain the variances you have mentioned 
+23 
+above.   
+24 
+
+
+--- Page 33 ---
+Cases 19-G-0309 and 19-G-0310  
+SITP 
+ 
+ 
+32 
+ 
+A. 
+As shown in Exhibit___(SITP-2), which was 
+1 
+developed using the Companies’ response to IR 
+2 
+DPS-432, there were significant variances 
+3 
+between the actual and budgeted spending in each 
+4 
+of the last five years, FYs 2015 through 2019.  
+5 
+In each of those years, the Companies underspent 
+6 
+their annual budget by an average of $8.8 
+7 
+million, or 8 percent.  The most significant 
+8 
+underspend was in FY 2015, when the Companies 
+9 
+underspent their $113.8 million budget by $39.6 
+10 
+million, or 35 percent.  In FY 2017, however, 
+11 
+the Companies’ significantly exceeded their 
+12 
+budget, spending $122 million, or 84 percent, 
+13 
+over their budget of $66.4 million.  However, 
+14 
+$62.1 million, or 49 percent, of the FY 2017 
+15 
+overspend was incurred in March 2017, which is 
+16 
+the last month of the fiscal year. 
+17 
+Q. 
+Explain the reasoning behind the significant 
+18 
+overspend in March 2017, the last month of FY 
+19 
+2017. 
+20 
+A. 
+The Companies’ stated in response to IR DPS-937 
+21 
+that $54.5 million of the $62.1 million, or 88 
+22 
+percent, of the spend was due to the projects 
+23 
+associated for the Technology Improvement 
+24 
+
+
+--- Page 34 ---
+Cases 19-G-0309 and 19-G-0310  
+SITP 
+ 
+ 
+33 
+ 
+Program (TIP), which was the starting point for 
+1 
+Technology Modernization Program.  The TIP 
+2 
+brought forward several investments that were 
+3 
+planned for FY 2018 and beyond, prioritizing the 
+4 
+infrastructure, software, and applications that 
+5 
+needed to be replaced first.   
+6 
+Q. 
+Does the Panel think the Companies’ overspending 
+7 
+of their budget in 2017 is an outlier? 
+8 
+A. 
+Yes.  The Companies’ overspend in FY 2017 was a 
+9 
+unique occurrence due to ramping up TIP in one 
+10 
+month and we do not expect a significant 
+11 
+accelerated spend of capital expenditures like 
+12 
+this to happen again.  
+13 
+Q. 
+What is the Panel’s opinion of the Companies’ 
+14 
+proposed IT capital budgets considering their 
+15 
+historic IT spending performance? 
+16 
+A. 
+Despite historical IT budgets being 
+17 
+significantly lower than the proposed Rate Year 
+18 
+Service Company IT budget of $243.8 million, the 
+19 
+Companies have consistently underspent their 
+20 
+budget.  As such, we have concerns that the 
+21 
+Companies can deliver on their Rate Year IT 
+22 
+budget.  While the Service Company has made 
+23 
+improvements stemming from the Commission’s rate 
+24 
+
+
+--- Page 35 ---
+Cases 19-G-0309 and 19-G-0310  
+SITP 
+ 
+ 
+34 
+ 
+order in Cases 17-E-0238 and 17-G-0239, these 
+1 
+process improvements have not yet resulted in 
+2 
+improved performance. 
+3 
+ 
+4 
+Cyber Security 
+5 
+Q. 
+What do KEDNY and KEDLI propose with respect to 
+6 
+cyber security? 
+7 
+A. 
+KEDNY and KEDLI explain that the Service Company 
+8 
+proposes to complete 12 projects in the Rate 
+9 
+Year, and eight in the Data Years.  KEDNY and 
+10 
+KEDLI also propose to complete 17 cyber security 
+11 
+projects that are expected to be in service 
+12 
+after the Historic Test Year, but prior to the 
+13 
+Rate Year.  There are an additional seven 
+14 
+ongoing annual programs that will incur costs 
+15 
+throughout the Rate Year and Data Years. 
+16 
+Q. 
+What will these projects address? 
+17 
+A. 
+These projects will address a wide range of 
+18 
+cyber security issues, including:  
+19 
+ 
+Ensuring adequate security protection to cyber 
+20 
+assets supporting critical reliability functions 
+21 
+across KEDNY and KEDLI’s networks and systems; 
+22 
+ 
+Providing security information and event 
+23 
+management capabilities to analyze security 
+24 
+
+
+--- Page 36 ---
+Cases 19-G-0309 and 19-G-0310  
+SITP 
+ 
+ 
+35 
+ 
+alerts in real time, and to collect, store and 
+1 
+report on data for compliance and forensic 
+2 
+analysis across critical assets and business 
+3 
+functions; 
+4 
+ 
+Strengthening identity, access and authorization 
+5 
+management capabilities to ensure that only 
+6 
+authorized personnel can access critical assets 
+7 
+and perform only those functions for which they 
+8 
+are authorized; and  
+9 
+ 
+System modernization cyber security framework 
+10 
+utilizing a “defense-in-depth” approach for 
+11 
+ensuring a reliable and secure electricity and 
+12 
+gas infrastructure and protecting the 
+13 
+confidentiality and integrity of sensitive data. 
+14 
+Defense in depth, or “layered security” as it is 
+15 
+also known, reduces the chance of a successful 
+16 
+attack by incorporating redundant security 
+17 
+mechanisms.  This would require an attacker to 
+18 
+circumvent each mechanism to gain access to a 
+19 
+digital asset.  
+20 
+Q. 
+What are the proposed costs of these projects? 
+21 
+A. 
+The cyber security projects are forecast to 
+22 
+require incremental capital investment of $27.8 
+23 
+million through FY 20, $10.2 million in the Rate 
+24 
+
+
+--- Page 37 ---
+Cases 19-G-0309 and 19-G-0310  
+SITP 
+ 
+ 
+36 
+ 
+Year, $16.5 million in Data Year 1, $17.7 
+1 
+million in Data Year 2, and $17.3 million in 
+2 
+Data Year 3. 
+3 
+Q. 
+Please identify the Companies’ five Rate Year 
+4 
+Cyber Security proposals that you found 
+5 
+especially notable due to cost and complexity. 
+6 
+A. 
+The five Cyber Security proposals are: High 
+7 
+Value Discovery & Implementation, CNI Forensic 
+8 
+Packet Capture, Enhanced DLP Gateway & Endpoint, 
+9 
+CNI Security Enhancements Phase I, and Insider 
+10 
+Threat Protection. 
+11 
+Q.  Please describe the High Value Discovery & 
+12 
+Implementation program. 
+13 
+A. 
+The High Value Asset Discovery & Implementation 
+14 
+program, formerly referred to as the IT/OT 
+15 
+Discovery and Implementation Phase, is intended 
+16 
+to provide KEDNY and KEDLI a holistic view of 
+17 
+its company assets across the corporation, 
+18 
+including infrastructure, business systems, 
+19 
+operational technology and information 
+20 
+technology assets. High Value Assets are primary 
+21 
+targets for cyber-attacks.  Having the ability 
+22 
+to effectively identify, control, and monitor 
+23 
+High Value Assets is a key component of ensuring 
+24 
+
+
+--- Page 38 ---
+Cases 19-G-0309 and 19-G-0310  
+SITP 
+ 
+ 
+37 
+ 
+continued security and reliability. 
+1 
+Q.  Please describe the CNI Forensic Packet Capture 
+2 
+project and how it will enhance the Companies’ 
+3 
+ability to protect their critical 
+4 
+infrastructure? 
+5 
+A. 
+The end goal for the CNI Forensic Packet Capture 
+6 
+project is to provide the Companies the 
+7 
+capability to capture network packets for 
+8 
+forensic analysis to help identify threats 
+9 
+laterally across CNI networks.  The current 
+10 
+solution in place lies on the Internet perimeter 
+11 
+gateway, allowing only for analysis of vertical 
+12 
+network traffic. 
+13 
+Q. 
+Please describe the CNI Security Enhancements 
+14 
+Phase I project and the cyber security concerns 
+15 
+it will address? 
+16 
+A. 
+The CNI Security Enhancements Phase I project 
+17 
+will address the lack of visibility of cloud 
+18 
+services being used through the company and the 
+19 
+data that is hosted on those services that can 
+20 
+lead to unauthorized access and disclosure of 
+21 
+information.  As well as lack of visibility and 
+22 
+monitoring on those services, the organization 
+23 
+has limited ability to enforce security policies 
+24 
+
+
+--- Page 39 ---
+Cases 19-G-0309 and 19-G-0310  
+SITP 
+ 
+ 
+38 
+ 
+on those services.  This project will address 
+1 
+these architectural weaknesses. 
+2 
+Q. 
+Please describe the Enhanced DLP Gateway & 
+3 
+Endpoint project and the cyber security benefits 
+4 
+it will deliver? 
+5 
+A. 
+DLP stands for Data Loss Prevention.  The 
+6 
+Enhanced DLP Gateway & Endpoint project will 
+7 
+deliver new processes and enhance the identity, 
+8 
+detection and response capabilities associated 
+9 
+with malware attacks by introduction of a DLP 
+10 
+gateway at the perimeter.  This gateway will 
+11 
+inspect network traffic and keep known malware 
+12 
+off the network, monitor for malware, and 
+13 
+continuously update malware signatures and 
+14 
+internet addresses of servers hosting the 
+15 
+malware. 
+16 
+Q. 
+Explain the risks of insider threats and how the 
+17 
+Insider Threat Protection program will address 
+18 
+them. 
+19 
+A. 
+Insider threats pose a significant risk to an 
+20 
+organization, having the intimate knowledge of 
+21 
+systems and information that if used maliciously 
+22 
+can affect operations and put disclosure of 
+23 
+confidential information at risk.  A high 
+24 
+
+
+--- Page 40 ---
+Cases 19-G-0309 and 19-G-0310  
+SITP 
+ 
+ 
+39 
+ 
+percentage of breaches are associated with 
+1 
+insiders, usually inadvertently by employees.  
+2 
+Insider Threat Protection will provide the 
+3 
+Companies with the capabilities of continuous 
+4 
+monitoring and behavior anomaly detection.  The 
+5 
+solution will integrate with systems and 
+6 
+applications to collect data and analyze users, 
+7 
+security events and physical access to identify 
+8 
+abnormal behavior associated with data misuse, 
+9 
+fraud, or IT sabotage.  
+10 
+Q. 
+What is your overall assessment of the need for 
+11 
+the capital and O&M programs described in the 
+12 
+Companies’ filing? 
+13 
+A. 
+We believe that these investments are needed to 
+14 
+address ongoing cyber threats.  The 
+15 
+implementation of these cyber security 
+16 
+countermeasures is essential for establishing a 
+17 
+high level of cyber security monitoring and 
+18 
+protection.  The field of cyber security is one 
+19 
+in which the risks, threat actors/vectors, and 
+20 
+technologies involved are constantly changing 
+21 
+and increasing in complexity at a breakneck 
+22 
+pace.  As a component of the nation’s critical 
+23 
+energy infrastructure, there is every reason to 
+24 
+
+
+--- Page 41 ---
+Cases 19-G-0309 and 19-G-0310  
+SITP 
+ 
+ 
+40 
+ 
+believe that probes and surveillance of the 
+1 
+Companies’ network and supporting electronic 
+2 
+devices will increase in frequency for the 
+3 
+foreseeable future, especially as more 
+4 
+information is shared at ever-increasing volumes 
+5 
+using next-generation mobile devices and 
+6 
+cutting-edge technologies, such as cloud-based 
+7 
+storage and data analysis tools.  Furthermore, 
+8 
+the types of information handled on KEDNY and 
+9 
+KEDLI’s network will inevitably become more 
+10 
+critical to their operations in the future and 
+11 
+thus, a more tempting target for cyber criminals 
+12 
+and hostile nation-states.  This ever-escalating 
+13 
+cyber threat to business and critical 
+14 
+infrastructure information requires that 
+15 
+utilities remain constantly vigilant and seek 
+16 
+new and innovative ways to bolster their cyber 
+17 
+security posture.  
+18 
+Q. 
+Explain how the cyber security programs are 
+19 
+developed. 
+20 
+A. 
+Each project in the cyber security program has 
+21 
+its own Investment Proposal Summary, benefits 
+22 
+case, cost estimate, list of benefitting 
+23 
+companies, RTB breakdown, project plan, and 
+24 
+
+
+--- Page 42 ---
+Cases 19-G-0309 and 19-G-0310  
+SITP 
+ 
+ 
+41 
+ 
+project milestones.  The Information Security 
+1 
+(IS) Portfolio Delivery Board reviews and 
+2 
+approves each project based on that information.  
+3 
+A short form Investment Proposal paper for all 
+4 
+projects approved by the IS Portfolio Delivery 
+5 
+Board is provided to, and formally noted by, the 
+6 
+US Sanctioning Committee.  Each project will 
+7 
+report financial actual spending, forecasts, and 
+8 
+budget variances back to the IS Portfolio 
+9 
+Delivery Board.  The Board will summarize 
+10 
+financial data to the program level and manage 
+11 
+within the authorized spending cap.  
+12 
+Q. 
+How well has the process you described worked in 
+13 
+recent years? 
+14 
+A. 
+Despite the project development process that I 
+15 
+just described, actual spending versus budget 
+16 
+for cyber security for the previous five rate 
+17 
+years was 23% less than forecasted.  The 
+18 
+Companies have also demonstrated a history of 
+19 
+delaying projects due to shifting priorities.  
+20 
+For example, the High Value Asset Discovery & 
+21 
+Implementation program was delayed due to a 
+22 
+review of cyber security strategy in 2018.   
+23 
+Q. 
+What do you recommend? 
+24 
+
+
+--- Page 43 ---
+Cases 19-G-0309 and 19-G-0310  
+SITP 
+ 
+ 
+42 
+ 
+A. 
+We recommend that KEDNY and KEDLI’s cyber 
+1 
+security programs be included in the IT project 
+2 
+update meetings to ensure timely, consistent 
+3 
+progress of the cyber security projects proposed 
+4 
+in these proceedings.  The IT project update 
+5 
+meetings are held quarterly to provide Staff 
+6 
+with a progress report on KEDNY and KEDLI’s IT 
+7 
+projects.  We also recommend that the Companies 
+8 
+notify appropriate Department Staff as projects 
+9 
+get sanctioned or partially sanctioned. 
+10 
+ 
+11 
+Gas Business Enablement 
+12 
+Q. 
+Please explain the Gas Business Enablement (GBE) 
+13 
+Program. 
+14 
+A. 
+The GBE program is an overhaul of National Grid 
+15 
+USA’s gas business systems that are at or 
+16 
+approaching end of life.  The overhaul is needed 
+17 
+due to the age of the systems in order to 
+18 
+support improved safety performance, new capital 
+19 
+investment, and evolving regulatory and customer 
+20 
+demands.   
+21 
+Q. 
+When did the GBE program commence? 
+22 
+A. 
+The GBE program was proposed by Niagara Mohawk, 
+23 
+thoroughly reviewed by Staff, and authorized, 
+24 
+
+
+--- Page 44 ---
+Cases 19-G-0309 and 19-G-0310  
+SITP 
+ 
+ 
+43 
+ 
+with customer protections, in the Niagara Mohawk 
+1 
+Rate Order.  The first costs were incurred in FY 
+2 
+2017 for the development of the business case, 
+3 
+assessment of processes and applications, and 
+4 
+high-level program design.  The FY 2017 costs 
+5 
+were $20.1 million, which were not included in 
+6 
+the approved rates in Case 17-G-0239 and are not 
+7 
+proposed for recovery in these cases.  The total 
+8 
+cost of the GBE program at the Service Company 
+9 
+level, $458.1 million - exclusive of the $20.1 
+10 
+million - was extensively vetted in Cases 17-G-
+11 
+0238 and 17-G-0239, as the source of the 
+12 
+authorized portion allocated to Niagara Mohawk 
+13 
+through rent expense.  In addition, there was 
+14 
+also a Service Company level contingency of 
+15 
+$61.0 million. 
+16 
+Q. 
+Do the Companies propose changes to the GBE 
+17 
+program in the instant cases? 
+18 
+A. 
+Yes.  The Service Company is transitioning from 
+19 
+a multi-vendor integrator to a single system 
+20 
+integrator.   
+21 
+Q. 
+Did the Companies explain why? 
+22 
+A. 
+Yes.  According to the response to IR DPS-684, 
+23 
+the Service Company selected a multi-integrator 
+24 
+
+
+--- Page 45 ---
+Cases 19-G-0309 and 19-G-0310  
+SITP 
+ 
+ 
+44 
+ 
+approach because it provided the best risk score 
+1 
+during evaluation and the Service Company was 
+2 
+able to align its vendor with the perceived 
+3 
+strengths of program integration.  However, the 
+4 
+implementation schedule became a challenge and 
+5 
+by November 2018, the Service Company determined 
+6 
+that the increased complexity of managing 
+7 
+dependencies across multiple vendors out-weighed 
+8 
+the perceived benefits for which it originally 
+9 
+selected a multi-vendor approach.  The Service 
+10 
+Company worked to simplify the strategy and went 
+11 
+through a rebid and recontract for the remaining 
+12 
+program scope in order to mitigate increased 
+13 
+cost and delayed implementation duration that 
+14 
+would result due to the multi-vendor related 
+15 
+complications. 
+16 
+Q. 
+Are there any changes to the forecasted budget? 
+17 
+A. 
+The Service Company has sanctioned $57.4 million 
+18 
+of the $61.0 million contingency and reflected 
+19 
+this amount in the Companies rate request.  The 
+20 
+increase is related to several changes. 
+21 
+Q. 
+Please describe the changes. 
+22 
+A. 
+The Service Company is planning increased 
+23 
+testing and training costs of $12.196 million 
+24 
+
+
+--- Page 46 ---
+Cases 19-G-0309 and 19-G-0310  
+SITP 
+ 
+ 
+45 
+ 
+related to technical training, Subject Matter 
+1 
+Expert testing resources, external testing, and 
+2 
+end-user training support.  Changes include 
+3 
+costs related to greater than anticipated 
+4 
+complexity, despite foresight knowing it would 
+5 
+be a very difficult and complex integration of 
+6 
+the legacy interfaces, of approximately $21.168 
+7 
+million.  The final change is an additional 
+8 
+$24.025 million for Allowance for Funds Used 
+9 
+During Construction (AFUDC).  The GBE program 
+10 
+initially had $0 for AFUDC because of the 
+11 
+“agile” development method the Service Company 
+12 
+was using for the proposed program.  This 
+13 
+approach means working in short-cycles and 
+14 
+prioritize functionality and implementing of 
+15 
+minimum viable products for portions of the 
+16 
+program as they becomes available.  In addition, 
+17 
+based on the implementation of the program thus 
+18 
+far, the Service Company has adjusted various 
+19 
+project implementation timelines to ensure a 
+20 
+better, smoother rollout. 
+21 
+Q. 
+Does the Panel have any adjustments to the 
+22 
+proposed increase of $57.4 million? 
+23 
+A. 
+Yes.  At this time, we recommend reflecting $0 
+24 
+
+
+--- Page 47 ---
+Cases 19-G-0309 and 19-G-0310  
+SITP 
+ 
+ 
+46 
+ 
+of the $57.4 million request in the Companies’ 
+1 
+rates.  The Service Company went through a 
+2 
+rigorous development process to forecast the GBE 
+3 
+program using two independent consultants; one 
+4 
+to develop the costs and roadmap, and the other 
+5 
+to ensure cost accuracy and that the program was 
+6 
+aligned with industry standards.  The Service 
+7 
+Company has since run into some trouble with 
+8 
+implementation, yet took proactive steps to keep 
+9 
+the overall program on a path towards success by 
+10 
+moving from a multiple to single system 
+11 
+integrator and modifying the roadmap and 
+12 
+rollout.  However, we recommend,  to shield 
+13 
+customers from delays and excessive costs, the 
+14 
+Service Company work towards a successful on-
+15 
+time and on-budget implementation that provides 
+16 
+the forecast customer benefits without seeking 
+17 
+recovery of additional expenses from customers 
+18 
+during this or subsequent rate proceedings. 
+19 
+Q. 
+How do you recommend reflecting the $57.4 
+20 
+million adjustment? 
+21 
+A. 
+Based on the Companies’ responses to IRs DPS-684 
+22 
+and DPS-725, we recommend adjustments to several 
+23 
+GBE programs at the Service Company level.  
+24 
+
+
+--- Page 48 ---
+Cases 19-G-0309 and 19-G-0310  
+SITP 
+ 
+ 
+47 
+ 
+These programs – Asset Management, Asset 
+1 
+Management/GIS, and Work Management (Maximo) – 
+2 
+and the adjustments to each are shown on 
+3 
+Exhibit__(SITP-3).  We recommend splitting the 
+4 
+$24.1 million adjustment for AFUDC between FY20 
+5 
+and FY21 based on the Companies’ response to IR 
+6 
+DPS-725, part 3, which stated that only $2.114 
+7 
+million was in FY21, and $21.968 million prior 
+8 
+to FY21.  The AFUDC adjustments for the previous 
+9 
+amounts, and the $12.2 million for testing and 
+10 
+training and $21.2 million adjustment for legacy 
+11 
+integration complexity, were all based on the 
+12 
+forecast FY21 ending balance of each program.  
+13 
+The revenue requirement impact of our 
+14 
+recommendation on Service Company Rent expense 
+15 
+is discussed later in our testimony. 
+16 
+Q. 
+Are you proposing customer protections? 
+17 
+A. 
+Yes, we recommend the same customer protections 
+18 
+recommended by the Staff Gas Business Enablement 
+19 
+Panel (SGBEP) in Case 17-G-0239 be imposed in 
+20 
+the instant cases. 
+21 
+Q. 
+Please describe those protections. 
+22 
+A. 
+The protections include the general protections 
+23 
+for all IT investments, which we will recommend 
+24 
+
+
+--- Page 49 ---
+Cases 19-G-0309 and 19-G-0310  
+SITP 
+ 
+ 
+48 
+ 
+later in our testimony.  These include a 
+1 
+downward-only reconciliation of net plant and 
+2 
+depreciation expense and quarterly reporting.  
+3 
+In addition to these general protections, we 
+4 
+also recommend additional protections to ensure 
+5 
+that the Companies deliver the GBE program 
+6 
+benefits, which they identified to support the 
+7 
+program, as scheduled and to the full degree 
+8 
+envisioned.  The additional protections include 
+9 
+an overall cap on the amount that can be 
+10 
+recovered from customers for GBE, and 
+11 
+instituting benchmarks to ensure that the 
+12 
+Service Company delivers the incremental 
+13 
+benefits of GBE compared to the backbone 
+14 
+alternative.  Our recommended protections can be 
+15 
+found in the Joint Proposal adopted by the 
+16 
+Commission in the rate order issued in Cases 17-
+17 
+E-0238 and 17-G-0239.  The protections are 
+18 
+discussed on pages 44-48 of that Joint Proposal 
+19 
+and in Appendix 10 to that Joint Proposal. 
+20 
+Q. 
+What cap do you recommend imposing on the amount 
+21 
+KEDNY and KEDLI can recover from ratepayers for 
+22 
+GBE? 
+23 
+A. 
+The Companies’ response to IR DPS-970 shows the 
+24 
+
+
+--- Page 50 ---
+Cases 19-G-0309 and 19-G-0310  
+SITP 
+ 
+ 
+49 
+ 
+breakdown of total GBE costs proposed in these 
+1 
+cases, $515.4 million, into total capital 
+2 
+expenditures, $381.7 million, and total 
+3 
+operating expenses, $133.7 million.  However, we 
+4 
+recommend reducing the proposed capital 
+5 
+expenditures by $57.4 million.  The result is a 
+6 
+cap on the portion of the GBE Project recovered 
+7 
+from KEDNY and KEDLI customers of $101.9 million 
+8 
+and $47.2 million in total capital expenditures, 
+9 
+respectively, and $45.2 million and $20.9 
+10 
+million in total operating expenses, 
+11 
+respectively. 
+12 
+ 
+13 
+Staff Adjustments 
+14 
+Removal of IT Projects 
+15 
+Q. 
+Are you addressing the capital and operating 
+16 
+costs associated with any specific IT projects? 
+17 
+A. 
+Yes.  We recommend removing the capital 
+18 
+expenditures and operating costs associated with 
+19 
+the CIS project and the Community Distributed 
+20 
+Generation (CDG) Low Income Bill Discount 
+21 
+program. 
+22 
+Q. 
+Explain why the Panel recommends removing the 
+23 
+CIS project. 
+24 
+
+
+--- Page 51 ---
+Cases 19-G-0309 and 19-G-0310  
+SITP 
+ 
+ 
+50 
+ 
+A. 
+The reasons for removing the CIS program are 
+1 
+discussed in the Staff Consumer Services Panel’s 
+2 
+testimony. 
+3 
+Q. 
+Explain why the Panel recommends the removal of 
+4 
+the CDG Low Income Bill Discount program. 
+5 
+A. 
+As stated in the Companies’ responses to IR DPS-
+6 
+620, the wrong allocation code was included on 
+7 
+this program, as this program only applies to 
+8 
+Niagara Mohawk.  The Companies stated in 
+9 
+response to IR DPS-882 that the error was 
+10 
+identified shortly prior to the corrections and 
+11 
+updates and therefore Exhibit__(ITP-4) and the 
+12 
+revenue requirement was not updated to remove 
+13 
+this program.  The Companies agree that an 
+14 
+adjustment to the revenue requirement is 
+15 
+warranted. 
+16 
+Q. 
+Please explain the Rate Year costs associated 
+17 
+with the CIS project. 
+18 
+A. 
+CIS project costs are found in the line items 
+19 
+Service Company Rent Expense and Other 
+20 
+Initiatives.  Capital costs associated with the 
+21 
+forecasted project are included the Service 
+22 
+Company Rent Expense capital budget, however 
+23 
+because the project is not projected to go into 
+24 
+
+
+--- Page 52 ---
+Cases 19-G-0309 and 19-G-0310  
+SITP 
+ 
+ 
+51 
+ 
+service until October 2022, there is no expense 
+1 
+related to the project included in Service 
+2 
+Company Rent Expense during the Rate Year.  The 
+3 
+operating costs associated with CIS, included in 
+4 
+Other Initiatives for the Rate Year, are $10.526 
+5 
+million and $4.885 million for KEDNY and KEDLI, 
+6 
+respectively. 
+7 
+Q. 
+Please explain the Rate Year costs associated 
+8 
+with the CDG Low Income Bill Discount program. 
+9 
+A. 
+The CDG Low Income Bill Discount program project 
+10 
+costs are found in the line items Service 
+11 
+Company Rent Expense and Other Initiatives.  For 
+12 
+Service Company Rent expense, the costs for the 
+13 
+Rate Year are $0.061 million and $0.032 million 
+14 
+for KEDNY and KEDLI, respectively.  The 
+15 
+operating expense amounts included for this 
+16 
+program in Other Initiatives are immaterial. 
+17 
+Q. 
+Do you recommend making an adjustment for these 
+18 
+costs? 
+19 
+A. 
+Yes, we are removing the capital and operating 
+20 
+costs associated with CIS.  For Service Company 
+21 
+Rent Expense, because the project is not in 
+22 
+service, there are no impacts to the Rate Year, 
+23 
+however it does reduce the capital budget.  For 
+24 
+
+
+--- Page 53 ---
+Cases 19-G-0309 and 19-G-0310  
+SITP 
+ 
+ 
+52 
+ 
+Other Initiatives, we recommend removing the 
+1 
+operating costs associated with CIS totaling 
+2 
+$10.526 million and $4.885 million for KEDNY and 
+3 
+KEDLI, respectively.  We also recommend removing 
+4 
+Service Company Rent expense costs associated 
+5 
+with the CDG Low Income Bill Discount program, 
+6 
+which amounts to $0.061 million and $0.032 
+7 
+million for KEDNY and KEDLI, respectively. 
+8 
+ 
+9 
+Removal of GBE Contingency Amount 
+10 
+Q. 
+What is the Panel’s adjustment to reflect 
+11 
+removal of GBE sanctioned $57.4 million 
+12 
+contingency? 
+13 
+A. 
+We are removing capital expenditures of $57.4 
+14 
+million from Service Company Rent expense. 
+15 
+Q. 
+Explain how the removal of $57.4 million was 
+16 
+calculated. 
+17 
+A. 
+As stated above, the $57.4 million was allocated 
+18 
+to, and removed from, GBE capital costs through 
+19 
+the line items ‘Asset Management,’ ‘Asset 
+20 
+Management / GIS,’ and ‘Work Management 
+21 
+(Maximo).’  Once allocated, and removed, we 
+22 
+calculated the adjustment for the return on and 
+23 
+return of GBE in the Forecasted Projects Rent 
+24 
+
+
+--- Page 54 ---
+Cases 19-G-0309 and 19-G-0310  
+SITP 
+ 
+ 
+53 
+ 
+expense model. 
+1 
+Q. 
+What is the impact on Service Company Rent 
+2 
+expense in KEDNY and KEDLI’s revenue 
+3 
+requirements? 
+4 
+A. 
+This adjustment reduces KEDNY and KEDLI Service 
+5 
+Company Rent expense by $2.136 million and 
+6 
+$1.526 million, respectively. 
+7 
+ 
+8 
+Forecasting Adjustment 
+9 
+Q. 
+What is the Panel’s forecasting adjustment? 
+10 
+A. 
+Our forecasting adjustment reflects a decrease 
+11 
+to Rate Year capital expenditures based on a 
+12 
+linear regression of the historic actual 
+13 
+spending.  
+14 
+Q. 
+What is linear regression? 
+15 
+A. 
+A linear regression is a statistical technique 
+16 
+used to model the relationship for a set of 
+17 
+data.  The results of a linear regression 
+18 
+provide an R-squared value, and two 
+19 
+coefficients, one being the slope of the line 
+20 
+and the other being the y-intercept.  Using 
+21 
+these two coefficients and the equation of a 
+22 
+line (y=mx+b), it is possible to reasonable 
+23 
+predict future trends. 
+24 
+
+
+--- Page 55 ---
+Cases 19-G-0309 and 19-G-0310  
+SITP 
+ 
+ 
+54 
+ 
+Q. 
+What is the R-squared value and what does it 
+1 
+represent? 
+2 
+A. 
+The R-squared value is a statistical term that 
+3 
+indicates how well the line fits to the data, 
+4 
+which ranges from 0.0 to 1.0, 1.0 being a 
+5 
+perfect fit.  For any R-squared value below 0.9 
+6 
+it was determined that the historical data did 
+7 
+not show a high enough correlation and the 
+8 
+regression analyses for that group was not 
+9 
+utilized in our forecast.  
+10 
+Q. 
+Describe how the Panel used linear regression 
+11 
+analysis to develop its forecasted rate year 
+12 
+budget. 
+13 
+A. 
+We employed linear regression over FY 2015, 
+14 
+2016, 2018, and 2019.  We did not use FY 2017 
+15 
+because we determined the year to be an outlier, 
+16 
+as discussed earlier in our testimony.   
+17 
+Q. 
+Describe the results of the linear regressions. 
+18 
+A. 
+As shown in Exhibit___(SITP-2), our analysis of 
+19 
+the historic data showed a good statistical fit, 
+20 
+an R-squared of 0.932, which shows that the 
+21 
+historical data we used was a good fit.  We 
+22 
+found the forecasted Service Company IT capital 
+23 
+expenditures to be $129.4 million. 
+24 
+
+
+--- Page 56 ---
+Cases 19-G-0309 and 19-G-0310  
+SITP 
+ 
+ 
+55 
+ 
+Q. 
+Why is a forecasting adjustment appropriate in 
+1 
+this case? 
+2 
+A. 
+As discussed previously, we are not supportive 
+3 
+of the Companies’ proposed Rate Year Service 
+4 
+Company IT capital expenditures of $243.8 
+5 
+million based on the Companies’ historic 
+6 
+spending on IT projects and the fact that the 
+7 
+proposed IT investments in the Rate Year are 
+8 
+primarily based on IRS documents.  We 
+9 
+acknowledge the fact that the Companies’ actual 
+10 
+spending compared to the budgeted amount has 
+11 
+improved each year in the last five years, 
+12 
+however, we recommend the Service Company IT 
+13 
+capital expenditures budget be $129.4 million in 
+14 
+the Rate Year. 
+15 
+Q. 
+Please explain how the forecasting adjustment 
+16 
+impacts the Companies’ proposed Rate Year 
+17 
+budget. 
+18 
+A. 
+The proposed Rate Year Service Company IT 
+19 
+capital expenditures is $243.8 million.  We 
+20 
+recommend first removing CIS from the total 
+21 
+capital budget in the Rate Year, which would 
+22 
+result in an adjusted IT capital budget of 
+23 
+$173.6 million, or a $70.2 million downward 
+24 
+
+
+--- Page 57 ---
+Cases 19-G-0309 and 19-G-0310  
+SITP 
+ 
+ 
+56 
+ 
+adjustment.  Our recommended Service Company IT 
+1 
+capital expenditures budget for the Rate Year is 
+2 
+$129.4 million or a 25.5% reduction to our 
+3 
+adjusted IT capital budget.  In total, with the 
+4 
+CIS and forecasting adjustment, there is a total 
+5 
+downward adjustment of $114.4 million for the 
+6 
+Companies’ proposed IT capital expenditures 
+7 
+budget. 
+8 
+Q. 
+What is the impact on Service Company Rent 
+9 
+expense in KEDNY and KEDLI’s revenue 
+10 
+requirements? 
+11 
+A. 
+This adjustment reduces revenue requirement for 
+12 
+KEDNY and KEDLI Service Company Rent expense by 
+13 
+$4.527 million and $2.988 million, respectively. 
+14 
+Staff calculated this adjustment by taking the 
+15 
+forecast IT projects expense according to the 
+16 
+Companies and making the following adjustments: 
+17 
+(1) remove the impact of reducing GBE 
+18 
+contingency CapEx, (2) remove the impact of 
+19 
+reducing the CDG Low Income Program costs, then 
+20 
+(3) applying the 25.5 percent reduction to the 
+21 
+remaining forecast IT project Rent expense 
+22 
+portion. 
+23 
+Q. 
+What is the impact on Other Initiatives expense 
+24 
+
+
+--- Page 58 ---
+Cases 19-G-0309 and 19-G-0310  
+SITP 
+ 
+ 
+57 
+ 
+in KEDNY and KEDLI’s revenue requirements? 
+1 
+A. 
+This adjustment reduces revenue requirement for 
+2 
+KEDNY and KEDLI Other Initiatives by $1.600 
+3 
+million and $0.996 million, respectively. 
+4 
+ 
+5 
+SAP S/4 HANA 
+6 
+Q. 
+Briefly explain the SAP S/4 HANA project. 
+7 
+A. 
+As explained on pages 35 and 36 of the initial 
+8 
+testimony of the Companies’ IT Panel, the 
+9 
+Companies’ currently use the SAP ECC 6.0, 
+10 
+implemented in 2012, for their back-office 
+11 
+platform supporting various essential functions, 
+12 
+including Finance, Payroll, Human Resources, and 
+13 
+Supply Chain.  The Companies’ propose to replace 
+14 
+the SAP ECC 6.0 with SAP S/4 HANA because SAP 
+15 
+will no longer support the SAP ECC 6.0 by 2025.  
+16 
+The Companies claim that without the support, 
+17 
+they would have the “inability to implement any 
+18 
+critical security or compliance patches issued 
+19 
+by SAP to address any vulnerabilities 
+20 
+discovered, software incompatibility with future 
+21 
+products and services offered by SAP, inability 
+22 
+to scale in an increasing digital world to take 
+23 
+advantage of leading practices, and overall 
+24 
+
+
+--- Page 59 ---
+Cases 19-G-0309 and 19-G-0310  
+SITP 
+ 
+ 
+58 
+ 
+higher operating costs, decreased performance, 
+1 
+and reduced overall reliability.” 
+2 
+Q. 
+What is the timeline for this project? 
+3 
+A. 
+On pages 38 and 39 of the initial testimony of 
+4 
+the Companies’ IT Panel, the Companies stated 
+5 
+that they would start their discovery phase in 
+6 
+FY 20 and design phase in FY 21.  
+7 
+Q. 
+What is the current status of this project? 
+8 
+A. 
+The Companies have finished the discovery phase 
+9 
+of the project.  As shown in response to IR DPS-
+10 
+942, the Companies stated that the discovery 
+11 
+phase was a 12-week effort that ran from 
+12 
+February 2019 to May 2019 and resulted in a 
+13 
+“roadmap” for future implementation of the SAP 
+14 
+project.  The Companies worked with 
+15 
+PricewaterhouseCoopers and SAP consultants to 
+16 
+map the Companies’ current process inventory to 
+17 
+a best practice utility standard process; 
+18 
+determine the SAP modules that should be 
+19 
+included in the solution; define a draft future 
+20 
+process scope and structure to improve and 
+21 
+optimize current process based on user feedback 
+22 
+and lessons learned; and rationalize level of 
+23 
+customizations needed based on experience with 
+24 
+
+
+--- Page 60 ---
+Cases 19-G-0309 and 19-G-0310  
+SITP 
+ 
+ 
+59 
+ 
+current version of SAP.  The Companies then 
+1 
+developed estimated capital and operating 
+2 
+expenditures.  The Companies plan to begin the 
+3 
+design phase in January 2020 but this may change 
+4 
+as this phase has not yet been approved or 
+5 
+sanctioned. 
+6 
+Q. 
+Briefly describe what the Companies propose for 
+7 
+project costs associated with the SAP S/4 HANA 
+8 
+project. 
+9 
+A. 
+As shown on page 7, Exhibit___(ITP-4CU), and 
+10 
+Exhibit___(ITP-8CU) in the Companies’ 
+11 
+corrections and updates filing, the Companies 
+12 
+propose a Service Company capital and operating 
+13 
+expenditure of $48.6 million $30.6 million, 
+14 
+respectively.  The Companies also propose to 
+15 
+defer for future recovery the differences 
+16 
+between the costs recovered in rates and the 
+17 
+Companies’ actual costs, as explained on page 40 
+18 
+of the initial testimony of the Companies’ IT 
+19 
+Panel. 
+20 
+Q. 
+How did the Companies develop the capital and 
+21 
+operating expenditures for the SAP S/4 HANA 
+22 
+project? 
+23 
+A. 
+According to the Companies’ response to IR DPS-
+24 
+
+
+--- Page 61 ---
+Cases 19-G-0309 and 19-G-0310  
+SITP 
+ 
+ 
+60 
+ 
+942, the Companies developed the estimated 
+1 
+capital and operating expenditures utilizing a 
+2 
+PricewaterhouseCoopers model.  The model 
+3 
+utilizes a detailed bottom up resource plan for 
+4 
+labor for all parts of the project and adds the 
+5 
+estimated non-labor costs associated with the 
+6 
+project. 
+7 
+Q. 
+Does the Panel agree with this project? 
+8 
+A. 
+Yes.  We agree with the need for the project and 
+9 
+the proposed operating expenditures needed for 
+10 
+the design phase of the project.  However, due 
+11 
+to the design phase not being sanctioned yet and 
+12 
+uncertainty as to when the design phase will 
+13 
+actually begin, the Companies should adjust the 
+14 
+capital expenditures for the project for the 
+15 
+Rate Year to work within our forecasted budget 
+16 
+of $129.4 million. 
+17 
+Q. 
+Does the Panel agree with the Companies’ 
+18 
+proposal to defer the differences between the 
+19 
+costs recovered in rates and the Companies’ 
+20 
+actual costs for future recovery from customers? 
+21 
+A. 
+No.  We understand that the Companies’ proposed 
+22 
+costs are preliminary estimates and may 
+23 
+significantly vary; however, we believe 
+24 
+
+
+--- Page 62 ---
+Cases 19-G-0309 and 19-G-0310  
+SITP 
+ 
+ 
+61 
+ 
+customers should not be required to pay if the 
+1 
+Companies’ overspend the budget they developed 
+2 
+in the discovery phase.  Instead, as we will 
+3 
+describe later in our testimony, we recommend a 
+4 
+downward only mechanism for all IT projects. 
+5 
+ 
+6 
+Service Company Asset Recovery Charge 
+7 
+Q. 
+As discussed earlier, the IT project assets 
+8 
+remain on the Service Company’s books after 
+9 
+KEDNY and KEDLI begin using them.  The Service 
+10 
+Company recovers the return on the IT asset 
+11 
+investment from KEDNY and KEDLI, and the other 
+12 
+National Grid operating companies, through 
+13 
+Service Company Rent Expense.  What rate of 
+14 
+return did the Companies request to apply to the 
+15 
+return on of IT capital costs in the Rate Year? 
+16 
+A. 
+The Companies proposed to use a pre-tax weighted 
+17 
+average cost of capital of 8.69 percent in their 
+18 
+original filings, which is based on a Return on 
+19 
+Equity, or ROE, of 9.65 percent with a capital 
+20 
+structure comprised of 50 percent common equity 
+21 
+and 50 percent long-term debt.  This is shown on 
+22 
+pages 16 and 17 of the direct testimony of the 
+23 
+Companies’ witness Jonathan Cohen.  The 
+24 
+
+
+--- Page 63 ---
+Cases 19-G-0309 and 19-G-0310  
+SITP 
+ 
+ 
+62 
+ 
+Companies updated this amount during Corrections 
+1 
+and Updates, filed on July 3, 2019.  In the 
+2 
+update filing, the Companies proposes to use an 
+3 
+updated pre-tax weighted average cost of capital 
+4 
+of 8.52 percent. 
+5 
+Q. 
+Do you agree with Mr. Cohen’s proposal to use 
+6 
+the Service Company rate of return, which 
+7 
+includes a 50 percent common equity ratio? 
+8 
+A. 
+No.  We understand that the Staff Finance Panel 
+9 
+is recommending for KEDNY and KEDLI a common 
+10 
+equity ratio of 48 percent and a return on 
+11 
+equity of 8.20 percent.  Accordingly, we 
+12 
+recommend that the common equity ratio and cost 
+13 
+rates for common equity and long-term debt 
+14 
+recommended by the Staff Finance Panel also 
+15 
+should be used in the development of revenue 
+16 
+requirement for Service Company Rent expense.  
+17 
+This would result in a pre-tax weighted average 
+18 
+cost of capital of 7.58 percent and 7.54 percent 
+19 
+for KEDNY and KEDLI, respectively.  We recommend 
+20 
+this rate be applied to assets at the Service 
+21 
+Company level so as to avoid requiring customers 
+22 
+to pay a higher return on these assets solely 
+23 
+because the Companies have chosen to have a 
+24 
+
+
+--- Page 64 ---
+Cases 19-G-0309 and 19-G-0310  
+SITP 
+ 
+ 
+63 
+ 
+Service Company provide the assets. 
+1 
+Q. 
+What is your adjustment for this reduction in 
+2 
+the use of the Staff Finance Panel rate of 
+3 
+return? 
+4 
+A. 
+This adjustment reduces KEDNY and KEDLI Service 
+5 
+Company Rent expense by $3.553 million and 
+6 
+$2.805 million, respectively. 
+7 
+ 
+8 
+Adjustments Summary 
+9 
+Q. 
+Please summarize your revenue requirement 
+10 
+adjustments related to IT projects. 
+11 
+A. 
+For KEDNY and KEDLI, respectively, our revenue 
+12 
+requirement adjustments decrease Service Company 
+13 
+Rent expense by $10.322 million and $7.355 
+14 
+million; and IT Operating and RTB expenses, 
+15 
+which are included in Other Initiatives expense, 
+16 
+by $12.126 million and $5.881 million. 
+17 
+ 
+18 
+Downward Only Reconciliation 
+19 
+Q. 
+Is the Panel concerned that the Service Company 
+20 
+will under-spend its Rate Year IT budget? 
+21 
+A. 
+Yes.  As previously discussed, the Service 
+22 
+Company’s historical data shows that there have 
+23 
+been significant variances between the capital 
+24 
+
+
+--- Page 65 ---
+Cases 19-G-0309 and 19-G-0310  
+SITP 
+ 
+ 
+64 
+ 
+budget and actual expenditures.  As discussed 
+1 
+earlier, the Service Company is planning a 
+2 
+substantial increase in IT spending.  However, 
+3 
+the Service Company has not provided enough 
+4 
+support to show that it can ramp-up its spending 
+5 
+to complete all of the proposed IT investments.  
+6 
+For these reasons, there is a significant risk 
+7 
+that the Service Company will again fail to 
+8 
+execute its spending plan fully and timely, 
+9 
+thereby forcing KEDNY’s and KEDLI’s customers to 
+10 
+pay rates based on a level of new plant that is 
+11 
+not actually deployed. 
+12 
+Q. 
+Does the Panel’s forecasted budgeting adjustment 
+13 
+address this concern? 
+14 
+A. 
+Partially.  Our forecasted budget adjustment, as 
+15 
+well as the adjustment to remove CIS, reduces 
+16 
+the allowed Service Company capital IT spending 
+17 
+to $129.4 million in the Rate Year.  However, 
+18 
+despite this reduction to the Companies’ request 
+19 
+of $243.8 million, it still exceeds the IT 
+20 
+capital spend in prior years by a significant 
+21 
+amount.  FY 18 and 19 had IT capital spends of 
+22 
+$94.6 million and $115.2 million, respectively.  
+23 
+Although FY 17 reported an IT capital spend of 
+24 
+
+
+--- Page 66 ---
+Cases 19-G-0309 and 19-G-0310  
+SITP 
+ 
+ 
+65 
+ 
+$122.0 million, we have concerns about the data 
+1 
+for that period, as we previously discussed. 
+2 
+Q. 
+What do you recommend to address this concern? 
+3 
+A. 
+Similar to what the Commission approved in the 
+4 
+Niagara Mohawk Rate Order, we recommend a 
+5 
+Service Company Rents IT and GBE Program Net 
+6 
+Utility Plant and Depreciation Expense 
+7 
+Reconciliation Mechanism to protect customers 
+8 
+from paying delivery rates higher than necessary 
+9 
+to support the IT assets actually implemented. 
+10 
+Q. 
+Briefly describe the proposed Service Company 
+11 
+Rents IT and GBE program Net Utility Plant and 
+12 
+Depreciation Expense Reconciliation Mechanism. 
+13 
+A. 
+Our recommended mechanism would require the 
+14 
+Companies to reconcile its respective actual IT 
+15 
+and GBE program average net utility plant and 
+16 
+depreciation expense revenue requirements to the 
+17 
+forecast revenue requirements.  The IT and GBE 
+18 
+program average net utility plant and 
+19 
+depreciation expense revenue requirement would 
+20 
+be calculated by applying the Companies’ 
+21 
+authorized pre-tax weighted average cost of 
+22 
+capital in the Rate Year to the IT and GBE 
+23 
+program average net utility plant balance and 
+24 
+
+
+--- Page 67 ---
+Cases 19-G-0309 and 19-G-0310  
+SITP 
+ 
+ 
+66 
+ 
+adding the depreciation expense to the product.  
+1 
+At the end of the Rate Year, if the actual IT 
+2 
+and GBE program average net utility plant and 
+3 
+depreciation expense revenue requirement is less 
+4 
+than the target average net utility plant and 
+5 
+depreciation expense revenue requirement, the 
+6 
+Companies would defer the revenue requirement 
+7 
+impact for the benefit of customers. 
+8 
+Q. 
+Should this mechanism be symmetrical? 
+9 
+A. 
+No.  The mechanism should be a one-way, downward 
+10 
+only true-up.  Therefore, if actual Service 
+11 
+Company Rent expense exceeds the approved Rate 
+12 
+Year allowance, a regulatory liability would not 
+13 
+be established for the Companies to recover from 
+14 
+customers at a later date.  The calculations for 
+15 
+the effects of this mechanism for the Rate Year 
+16 
+should be filed with the Secretary on or before 
+17 
+July 31st after the close of the Rate Year. 
+18 
+Q. 
+Why does the Panel recommend that the mechanism 
+19 
+be a one-way, downward-only true-up mechanism? 
+20 
+A. 
+Budgeting and spending are activities wholly 
+21 
+within the Companies’ control.  Improving their 
+22 
+performance in these areas also is within the 
+23 
+Companies’ control.  A symmetrical true-up will 
+24 
+
+
+--- Page 68 ---
+Cases 19-G-0309 and 19-G-0310  
+SITP 
+ 
+ 
+67 
+ 
+not provide an incentive for the Companies to 
+1 
+improve their budgeting and spending processes.  
+2 
+Customers have no control over the Companies’ 
+3 
+level and pace of spending, yet they bear the 
+4 
+risk that the Companies’ historic challenges in 
+5 
+spending to projected levels will continue and 
+6 
+will be reflected in rates.  The true-up 
+7 
+mechanism, therefore, should reconcile only 
+8 
+underspending to allocate these risks equitably 
+9 
+between the Companies and customers. 
+10 
+ 
+11 
+Process Improvements 
+12 
+Q. 
+Do you have any recommendations for process 
+13 
+improvements? 
+14 
+A. 
+Yes.  We recommend to: (1) continue the process 
+15 
+improvements that were required in the Niagara 
+16 
+Mohawk Rate Order; (2) make improvements to the 
+17 
+Service Company’s IRS and sanction papers; and 
+18 
+(3) implement Key Performance Indicators (KPIs) 
+19 
+for projects. 
+20 
+Q. 
+Please explain the process improvements required 
+21 
+in the Niagara Mohawk Rate Order. 
+22 
+A. 
+The improvements addressed reporting and 
+23 
+processes for IT.  For reporting requirements, 
+24 
+
+
+--- Page 69 ---
+Cases 19-G-0309 and 19-G-0310  
+SITP 
+ 
+ 
+68 
+ 
+Niagara Mohawk was required to make quarterly 
+1 
+and annual filings.  Prior to each of its rate 
+2 
+years, Niagara Mohawk is required to file its IT 
+3 
+Capital Investment Plan for that upcoming rate 
+4 
+year, including the overall IT investment plan 
+5 
+for that year, the process for developing the 
+6 
+plan, and identifying the proposed IT projects 
+7 
+and their estimated costs.  Niagara Mohawk is 
+8 
+also required to file quarterly variance reports 
+9 
+within 60 days of the end of each rate year 
+10 
+quarter to address the status of the Service 
+11 
+Company IT programs/projects and budgets.  The 
+12 
+variance reports include (i) a narrative 
+13 
+explaining overall IT investment plan approach; 
+14 
+(ii) a description of defined program categories 
+15 
+that form the spending rationale for IT 
+16 
+projects; (ii) detail on budgets and actual 
+17 
+sending for each of the program categories, and 
+18 
+for the top ten projects by budget within the 
+19 
+program categories; (iv) explanations of 
+20 
+variances between budgets and actual spending; 
+21 
+(v) identification of allocations to Niagara 
+22 
+Mohawk; and (vi) a report on budget expectations 
+23 
+by program category and top ten projects based 
+24 
+
+
+--- Page 70 ---
+Cases 19-G-0309 and 19-G-0310  
+SITP 
+ 
+ 
+69 
+ 
+on allocations to Niagara Mohawk.  The variance 
+1 
+report in the last quarter would also include 
+2 
+(i) an explanation of any cost or timeline 
+3 
+differences exceeding ten percent for projects 
+4 
+completed; and the latest, partial, full, re-
+5 
+sanction or closure paper for any projects 
+6 
+exceeding $1 million that were authorized during 
+7 
+the previous rate year.   
+8 
+Q. 
+Are there additional requirements? 
+9 
+A. 
+Yes.  Niagara Mohawk is required to meet with 
+10 
+Staff on a semi-annual basis to (i) discuss 
+11 
+proposed projects for the next six months; (ii) 
+12 
+provide an update on the status of in-flight 
+13 
+projects; (iii) discuss proposed projects for 
+14 
+the next six months; and (iv) review quarterly 
+15 
+filings.  The Commission required that, in the 
+16 
+first meeting, Niagara Mohawk work with Staff to 
+17 
+develop a mutually agreeable sanction paper 
+18 
+enhancements needed to justify the IT 
+19 
+investments and allow for adequate review.  The 
+20 
+enhancements would include minimum cost 
+21 
+alternative analyses, as appropriate, based on 
+22 
+the type of IT investment (e.g., regular 
+23 
+upgrades versus build of new function), and the 
+24 
+
+
+--- Page 71 ---
+Cases 19-G-0309 and 19-G-0310  
+SITP 
+ 
+ 
+70 
+ 
+consensus enhancements were to be implemented no 
+1 
+later than the end of that first rate year.  
+2 
+Niagara Mohawk and Staff would also determine if 
+3 
+additional or different information would be 
+4 
+useful for the quarterly variance reports.    
+5 
+Q. 
+Does the Panel recommend the same reporting and 
+6 
+process requirements, which were approved in the 
+7 
+Niagara Mohawk Rate Order, for KEDNY and KEDLI? 
+8 
+A. 
+Yes, we recommend the Companies implement the 
+9 
+same reporting requirements and meet with Staff 
+10 
+on a semi-annual basis to discuss the topics 
+11 
+mentioned above.  We realize that the reporting 
+12 
+and meeting can be combined for all New York 
+13 
+operating companies for efficiency purposes.  We 
+14 
+also recommend additional reporting and process 
+15 
+requirements. 
+16 
+Q. 
+Please explain your recommendation for 
+17 
+additional reporting and process requirements.  
+18 
+A. 
+We recommend the following additional 
+19 
+requirements to be included in the variance 
+20 
+reports: charts showing the governance structure 
+21 
+for each of the top ten projects; identification 
+22 
+of major implementation risks and the plans to 
+23 
+manage & mitigate them; and an explanation of 
+24 
+
+
+--- Page 72 ---
+Cases 19-G-0309 and 19-G-0310  
+SITP 
+ 
+ 
+71 
+ 
+the root cause(s) of said variances & plans to 
+1 
+eliminate the root causes(s).  For the semi-
+2 
+annual meetings, we recommend that the following 
+3 
+also be discussed: updates on the status of any 
+4 
+attendant shut-down operations that are supposed 
+5 
+to produce savings; review strategic-level risks 
+6 
+and issues related to the implementation of in-
+7 
+flight projects; and discuss any salient changes 
+8 
+to governance, contracted resources, or 
+9 
+staffing. 
+10 
+Q. 
+Should these reporting requirements continue 
+11 
+beyond the Rate Year? 
+12 
+A. 
+Yes.  We believe it is important for the 
+13 
+Commission to monitor the Companies’ capital 
+14 
+investment plans on an ongoing basis.  
+15 
+Informational reports at regular intervals are 
+16 
+critical to maintain oversight of the IT 
+17 
+investment plans.  These recommendations are 
+18 
+consistent with existing reporting requirements 
+19 
+for the Companies’ gas operations and for 
+20 
+Niagara Mohawk.  They are critical to 
+21 
+establishing a foundation for Staff to conduct 
+22 
+comprehensive, project-specific examinations of 
+23 
+IT projects in future rate proceedings, 
+24 
+
+
+--- Page 73 ---
+Cases 19-G-0309 and 19-G-0310  
+SITP 
+ 
+ 
+72 
+ 
+comparable to Staff’s current examination of gas 
+1 
+capital plans. 
+2 
+Q. 
+Please explain your recommendations regarding 
+3 
+information provided in the IRS and sanction 
+4 
+papers. 
+5 
+A. 
+We recommend that the Companies more fully 
+6 
+support its cost estimates and work 
+7 
+collaboratively with Staff to show that such 
+8 
+estimates are reasonable.  We also recommend 
+9 
+that the Service Company IT sanction paper or 
+10 
+IRS document should state if the solution chosen 
+11 
+was the minimum-cost alternative.  If the 
+12 
+Companies chose a higher cost, or enhanced, 
+13 
+program, the sanction paper should present an 
+14 
+analysis that compares the benefits and costs 
+15 
+associated with the project life cycle.  The 
+16 
+analysis should also further explain how the 
+17 
+results support the decision to pursue the 
+18 
+alternative solution. 
+19 
+Q. 
+Please explain your recommendations for the 
+20 
+KPIs. 
+21 
+A. 
+We recommend the Companies develop KPIs to track 
+22 
+and quantify benefits stated in Sanction papers 
+23 
+and compare and report on the actual benefits 
+24 
+
+
+--- Page 74 ---
+Cases 19-G-0309 and 19-G-0310  
+SITP 
+ 
+ 
+73 
+ 
+versus what was originally proposed. 
+1 
+Q. 
+Does this conclude your testimony at this time? 
+2 
+A. 
+Yes. 
+3 
+ 
+4 
+ 
+5 
+ 
+6 
+ 
+7 
+ 
+8 
+ 
+9 
+ 
+10 
+ 
+11 
+ 
+12 
+ 
+13 
+ 
+14 
+ 
+15 
+ 
+16 
+ 
+17 
+ 
+18 
+ 
+19 
+ 
+20 
+ 
+21 
+ 
+22 
+ 
+23 
+ 
+24 

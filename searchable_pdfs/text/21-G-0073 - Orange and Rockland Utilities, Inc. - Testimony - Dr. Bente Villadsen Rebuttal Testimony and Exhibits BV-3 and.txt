@@ -1,0 +1,2795 @@
+--- Page 1 ---
+BEFORE THE NEW YORK STATE 
+PUBLIC SERVICE COMMISSION 
+ 
+ 
+---------------------------------------------------------------x 
+Proceeding on Motion of the Commission 
+: 
+as to the Rates, Charges, Rules and 
+: 
+Regulations of Orange and Rockland 
+: 
+Case 21-G-0073 
+Utilities, Inc. for Gas Service. 
+: 
+---------------------------------------------------------------------x 
+ 
+---------------------------------------------------------------x 
+Proceeding on Motion of the Commission 
+: 
+as to the Rates, Charges, Rules and 
+: 
+Regulations of Orange and Rockland 
+: 
+Case 21-E-0074 
+Utilities, Inc. for Electric Service. 
+: 
+---------------------------------------------------------------------x 
+ 
+ 
+ 
+DR. BENTE VILLADSEN  
+(RETURN ON EQUITY) 
+REBUTTAL TESTIMONY 
+ 
+ 
+ 
+ 
+ 
+ 
+ 
+ 
+ 
+ 
+ 
+ 
+ 
+ 
+Orange and Rockland Utilities 
+One Blue Hill Plaza 
+Pearl River, NY  10965-9006 
+www.oru.com  
+ 
+ 
+
+
+--- Page 2 ---
+  
+BEFORE THE 
+STATE OF NEW YORK PUBLIC SERVICE COMMISSION 
+ 
+ 
+CASE 21-E-0074 
+ 
+ 
+ 
+ 
+ 
+CASE 21-G-0073 
+) 
+) 
+) 
+) 
+) 
+) 
+) 
+) 
+) 
+) 
+Proceeding on Motion of the Commission as to the 
+Rates, Charges, Rules and Regulations of Orange 
+and Rockland Utilities, Inc. for Electric Service. 
+ 
+ 
+Proceeding on Motion of the Commission as to the 
+Rates, Charges, Rules and Regulations of Orange 
+and Rockland Utilities, Inc. for Gas Service. 
+ 
+ 
+ 
+ 
+ 
+ 
+REBUTTAL TESTIMONY OF DR. BENTE VILLADSEN 
+ 
+ 
+RETURN ON EQUITY 
+ 
+ 
+ 
+June 18, 2021 
+ 
+ 
+
+
+--- Page 3 ---
+CASES 21-G-0073 & 21-E-0074 
+ORANGE AND ROCKLAND UTILITIES, INC.  
+VILLADSEN 
+ 
+TABLE OF CONTENTS 
+1. 
+INTRODUCTION ..................................................................................................................1 
+2. 
+SUMMARY OF RECOMMENDATIONS ............................................................................3 
+3. 
+STAFF’S APPROACH TO ESTIMATING THE COST OF EQUITY .................................5 
+A. 
+Overall Approach ...........................................................................................................5 
+B. 
+Proxy Group ...................................................................................................................6 
+C. 
+Staff’s CAPM and Zero-Beta CAPM ............................................................................8 
+D. 
+Staff’s DCF ..................................................................................................................11 
+E. 
+Risk Premium Model ...................................................................................................14 
+F. 
+Weighting of DCF and CAPM results .........................................................................17 
+G. 
+Flotation Costs .............................................................................................................19 
+4. 
+FINANCIAL LEVERAGE ADJUSTMENTS .....................................................................20 
+A. 
+Preliminaries ................................................................................................................20 
+B. 
+Financial Economics ....................................................................................................21 
+C. 
+Precedents ....................................................................................................................28 
+5. 
+CAPITAL MARKETS UPDATE .........................................................................................30 
+  
+
+
+--- Page 4 ---
+CASES 21-G-0073 & 21-E-0074 
+ORANGE AND ROCKLAND UTILITIES, INC.  
+VILLADSEN 
+ 
+ 
+Page 1 of 36 
+BEFORE THE 
+STATE OF NEW YORK PUBLIC SERVICE COMMISSION 
+ 
+ 
+CASE 21-E-0074 
+ 
+ 
+ 
+ 
+ 
+CASE 21-G-0073 
+) 
+) 
+) 
+) 
+) 
+) 
+) 
+) 
+) 
+) 
+Proceeding on Motion of the Commission as to 
+the Rates, Charges, Rules and Regulations of 
+Orange and Rockland Utilities, Inc. for Electric 
+Service. 
+ 
+ 
+Proceeding on Motion of the Commission as to 
+the Rates, Charges, Rules and Regulations of 
+Orange and Rockland Utilities, Inc. for Gas 
+Service. 
+ 
+1. INTRODUCTION 
+1 
+Q1: Please state your name, occupation, and business address for the record. 
+2 
+A1: My name is Bente Villadsen and I am a Principal of The Brattle Group, whose business 
+3 
+address is One Beacon Street, Suite 2600, Boston, Massachusetts, 02108. 
+4 
+Q2: Are you the same Bente Villadsen who filed Direct Testimony in this matter? 
+5 
+A2: Yes. 
+6 
+Q3: What is the purpose of your Rebuttal Testimony? 
+7 
+A3: I have been asked to review and comment on the Direct Testimony of the Staff Finance Panel 
+8 
+as it pertains to cost of capital and capital structure for Orange and Rockland Utilities, Inc. 
+9 
+(“Orange and Rockland” or the “Company”).1 
+10 
+Q4: Is there anything in the Staff Testimony that caused you to change your 
+11 
+recommended return on equity (“ROE”) for Orange and Rockland? 
+12 
+ 
+1 Prepared Testimony of Staff Finance Panel, Kristine A. Prylo, Vincent S. Califano, and Hasan Ahmed, Cases 21-
+G-0073 and 21-E-0074, May 2021 (“Staff Testimony”). 
+
+
+--- Page 5 ---
+CASES 21-G-0073 & 21-E-0074 
+ORANGE AND ROCKLAND UTILITIES, INC.  
+VILLADSEN 
+ 
+ 
+Page 2 of 36 
+A4: No. Having reviewed the Staff Testimony, I continue to find that my original 
+1 
+recommendation for a ROE of 9.75 percent (9.95% including flotation costs) at the requested 
+2 
+50.0% equity capital structure is reasonable. I also find that the Company’s requested ROE 
+3 
+of 9.50 percent at the requested 50.0% equity capital structure remains very reasonable.2 I 
+4 
+acknowledge that since my Direct Testimony, economic conditions have changed as 
+5 
+COVID-19 vaccine distributions allow social distancing measures to be relaxed and the 
+6 
+economy to re-open. Additionally, a new administration has taken office and economic 
+7 
+stimuli has been passed.  I address the impacts of these changes in further detail in Section 
+8 
+5 below.  
+9 
+Q5: Please summarize your Rebuttal Testimony. 
+10 
+A5: Having reviewed the Staff Testimony, I summarize my findings below as follows: 
+11 
+A. The ROE recommended by Staff is much too low and is out of line with prevailing 
+12 
+market conditions and the ROEs that are available to similarly situated utilities in 
+13 
+other jurisdictions. I reviewed the allowed ROEs for other electric utilities and find 
+14 
+that Staff’s recommendation is well below what has recently been awarded. If the 
+15 
+New York Public Service Commission (“Commission”) awarded Staff’s 
+16 
+recommendation, it would be the lowest ROE in the country awarded in the normal 
+17 
+course of service regulation. 
+18 
+B. Staff’s recommendation is downwardly biased due to the choice of inputs to Staff’s 
+19 
+Discounted Cash Flow (“DCF”) model, Capital Asset Pricing Model (“CAPM”), and 
+20 
+Zero-beta CAPM. Staff also fails to consider results from other well-recognized 
+21 
+models (e.g., the Risk Premium Model).  The mechanical weighting that puts 2/3 
+22 
+weight on the DCF and much less weight on the CAPM and Zero-beta CAPM also 
+23 
+downward biases the results. 
+24 
+C. Staff fails to properly account for the impact of financial leverage. The approaches 
+25 
+used in my analysis—the after-tax weighted average cost of capital and the Hamada 
+26 
+ 
+2 My Direct Testimony found a range of 9.5 to 10.0 percent to be reasonable. 
+
+
+--- Page 6 ---
+CASES 21-G-0073 & 21-E-0074 
+ORANGE AND ROCKLAND UTILITIES, INC.  
+VILLADSEN 
+ 
+ 
+Page 3 of 36 
+method—are standard methodologies taught in MBA textbooks and are considered 
+1 
+in several regulatory jurisdictions. 
+2 
+Broadly speaking, it is imperative that the Commission allow a ROE that not only fulfils the 
+3 
+capital attraction criteria (recognized by Staff) but also allows Orange and Rockland the 
+4 
+opportunity to earn a return that is comparable to that available on similar risk investments. 
+5 
+I view the ROE awarded to other electric utilities as one benchmark and Staff’s proposed 
+6 
+ROE is out of line with that benchmark. 
+7 
+2. SUMMARY OF RECOMMENDATIONS 
+8 
+Q6: Please summarize the Staff Testimony recommendations. 
+9 
+A6: Figure R-1 below summarizes the recommended allowed ROE for Orange and Rockland 
+10 
+and also shows the recommendation from my Direct Testimony. 
+11 
+FIGURE R-1: SUMMARY OF RECOMMENDEDS FOR ORANGE AND ROCKLAND 
+12 
+ 
+Recommended 
+ROE 
+Range 
+Villadsen 
+9.75% 
+9.5% - 10.0% 
+Staff Finance 
+Panel 
+8.75% 
+8.4% - 9.56% 
+Source: Staff Testimony, pp. 93-94. Does not include flotation costs.  
+13 
+The Staff Testimony recommends a ROE of 8.75 percent on a 48.0% equity capital 
+14 
+structure.3 Staff bases its ROE recommendation on a multi-stage version of the DCF model 
+15 
+that uses a sustainable growth rate, the CAPM, and a version of the Zero-beta CAPM. Staff 
+16 
+weights its DCF estimate by 2/3 and the average of its CAPM and Zero-beta CAPM estimates 
+17 
+by 1/3. 
+18 
+ 
+3 Staff Testimony, p. 10. 
+
+
+--- Page 7 ---
+CASES 21-G-0073 & 21-E-0074 
+ORANGE AND ROCKLAND UTILITIES, INC.  
+VILLADSEN 
+ 
+ 
+Page 4 of 36 
+An important observation is that both Staff’s and my range include the Company’s requested 
+1 
+9.5% ROE. 
+2 
+Q7: What is your reaction to Staff’s recommended ROE? 
+3 
+A7: Staff’s recommended ROE is far too low. Staff’s recommendation does not account for risks 
+4 
+associated with the on-going heightened market uncertainty or Orange and Rockland’s 
+5 
+specific risks relative to Staff’s proxy sample. Staff’s recommended ROE also does not 
+6 
+account for differences in financial leverage between the proxy group and the Company, a 
+7 
+standard financial technique used by financial professions and used in other regulatory 
+8 
+settings. Staff also relies on a mechanical weighting of the DCF and CAPM models, which 
+9 
+fails to recognize that different models may capture different aspects of the cost of equity 
+10 
+under different financial and economic conditions. Finally, Staff relies on inputs that reflect 
+11 
+current market conditions and not the conditions that are expected to prevail over the relevant 
+12 
+rate period, resulting in downwardly biased results.  
+13 
+Q8: What is your reaction to Staff’s recommended capital structure? 
+14 
+A8: Staff states that 
+15 
+[Orange and Rockland’s] requested ROE is excessive and unnecessary in 
+16 
+order for the Company to continue to attract capital at reasonable terms.4 
+17 
+And 
+18 
+We believe that authorization of a 48.00% common equity ratio will be 
+19 
+sufficient for the Company to continue to attract capital at reasonable 
+20 
+terms.5 
+21 
+And 
+22 
+Adopting our recommendations should result in financial metrics that 
+23 
+would be sufficient for [Orange and Rockland] to maintain its current credit 
+24 
+ratings.6 
+25 
+ 
+4 Id. 
+5 Ibid., p. 19. 
+6 Ibid., pp. 139-140. 
+
+
+--- Page 8 ---
+CASES 21-G-0073 & 21-E-0074 
+ORANGE AND ROCKLAND UTILITIES, INC.  
+VILLADSEN 
+ 
+ 
+Page 5 of 36 
+The requirements to the allowed ROE is not whether the Company is able to attract capital 
+1 
+on reasonable terms or maintain its credit rating. Rather, as noted in my Direct Testimony, 
+2 
+the allowed ROE must satisfy the following three-pronged test as set forth in the seminal 
+3 
+U.S. Supreme Court cases of Bluefield and Hope:7 
+4 
+• The return on equity should be commensurate with returns on investments in other 
+5 
+enterprises having corresponding risks; 
+6 
+• The return should be reasonably sufficient to assure confidence in the financial 
+7 
+soundness of the utility; and  
+8 
+• The return should be adequate, under efficient and economical management for the 
+9 
+utility to maintain and support its credit and enable it to raise the money necessary 
+10 
+for the proper discharge of its public duties. 
+11 
+Staff’s statements fail to consider the first prong of the Hope and Bluefield decisions, albeit 
+12 
+Staff in other statements appears to acknowledge the need for a comparable return.8 
+13 
+I also disagree with Staff’s conclusion that the Company’s requested ROE of 9.50 percent at 
+14 
+a proposed 50% equity capital structure is “excessive and unnecessary.”  As a matter of fact 
+15 
+the 9.50 percent ROE is very much in line with the approximately 9.50% ROE the average 
+16 
+electric utility has been awarded in 2021 year-to-date on an equity percentage of about 
+17 
+50.4%.9 
+18 
+3. STAFF’S APPROACH TO ESTIMATING THE COST OF EQUITY 
+19 
+A. OVERALL APPROACH 
+20 
+Q9: How does Staff approach estimating the cost of equity for Orange and Rockland? 
+21 
+ 
+7 Bluefield Water Works & Improvement Co. v. Public Service Com’n of West Virginia, 262 U.S.  679 (1923) 
+(“Bluefield”), and Federal Power Com’n v. Hope Natural Gas Co., 320 U.S. 591 (1944) (“Hope”). 
+8 Ibid., pp. 11-12. 
+9 S&P Global Intelligence, Rate Case History, accessed June 9, 2021. 
+
+
+--- Page 9 ---
+CASES 21-G-0073 & 21-E-0074 
+ORANGE AND ROCKLAND UTILITIES, INC.  
+VILLADSEN 
+ 
+ 
+Page 6 of 36 
+A9: Staff estimates the cost of equity for Orange and Rockland using three models – a multi-
+1 
+stage DCF model, a CAPM analyses, and a Zero-beta CAPM analysis. Staff relies on a proxy 
+2 
+group of 26 electric utility companies, similar to the electric utility proxy group that I use 
+3 
+my analysis. However, Staff does not consider other highly regulated utilities in their 
+4 
+analyses, such as gas utilities.10 When deriving ROE estimates from the DCF and CAPM 
+5 
+models, Staff does not use standard financial techniques to calculate the impacts of financial 
+6 
+leverage in their analyses. Finally, Staff arrives at its recommended ROE of 8.75% by 
+7 
+weighting their DCF results by two-thirds and weighting the average of their CAPM analyses 
+8 
+by one-third. 
+9 
+B. PROXY GROUP 
+10 
+Q10: How does Staff’s proxy group criteria compare to your proxy group criteria? 
+11 
+A10: Both Staff and I select a proxy group from publicly-traded holding companies deemed by 
+12 
+Value Line to be “electric utilities.”11 Staff and I then apply several selection criteria to arrive 
+13 
+at our final sets of proxy companies. We both agree that proxy companies need to be 
+14 
+dividend paying and investment grade. We also agree that merger or acquisition (“M&A”) 
+15 
+activities could impact the estimation process. However, Staff excludes companies involved 
+16 
+in merger or acquisition activities at the time of their analysis, whereas I exclude companies 
+17 
+that engaged in such activities during the estimation period.12 Finally, Staff and I consider 
+18 
+the degree to which a company is involved in regulated activities. Staff uses revenues as 
+19 
+their metric and requires that at least 70% of revenues be from regulated activities. Whereas, 
+20 
+I consider the degree to which the companies’ assets are subject to regulation. I require that 
+21 
+the majority of a company’s assets be subject to regulation. Finally, Staff also eliminated 
+22 
+Fortis Inc. because it reports earnings in a foreign currency and Evergy, Inc. because it has 
+23 
+ 
+10 See Section 5A of my Direct Testimony where I discuss why natural gas utilities are an appropriate proxy sample 
+for a combination electric and natural gas utility, such as Orange and Rockland. 
+11 I also consider a proxy group of highly regulated natural gas utilities. 
+12 I use a five-year estimation period because the Value Line betas are based on five years of weekly data. 
+
+
+--- Page 10 ---
+CASES 21-G-0073 & 21-E-0074 
+ORANGE AND ROCKLAND UTILITIES, INC.  
+VILLADSEN 
+ 
+ 
+Page 7 of 36 
+only been publicly traded since June 2018.13 Staff also included MGE and Hawaiian Electric 
+1 
+Industries despite these companies failing Staff’s credit rating criteria.14 
+2 
+Q11: What are the resulting differences in Staff’s and the Company’s proxy groups? 
+3 
+A11: Staff includes CenterPoint, Duke, and NextEra, which I excluded from my electric proxy 
+4 
+group due to recent dividend cuts (CenterPoint) and merger or acquisition activity (Duke 
+5 
+and NextEra). In turn, I included DTE Energy, Exelon, Otter Tail, and Public Service 
+6 
+Enterprise Group, which all have a substantial amount of regulated assets but not 70% 
+7 
+revenues from regulated assets. I also included PPL which at the time of my analysis was 
+8 
+not engaged in recent merger or acquisition activity.15 Lastly, I included Unitil in my proxy 
+9 
+group, however Staff excluded it because it lacked a Value Line dividend forecast.16 I was 
+10 
+able to obtain a growth rate for Unitil from IBES.17  
+11 
+Staff also did not consider any natural gas utilities (as classified by Value Line) in its proxy 
+12 
+samples, whereas I also included a proxy group of nine highly regulated natural gas 
+13 
+utilities.18 Staff argues that because Orange and Rockland only derives approximately one-
+14 
+third of its total operations from natural gas and is thus not comparable to natural gas 
+15 
+utilities.19 Staff also argues that a sample of nine companies is not a sufficiently large sample 
+16 
+to provide meaningful information about the risks involved in a given enterprise.20 
+17 
+Q12: What comments do you have on Staff’s proxy group? 
+18 
+A12: First, I find that Staff’s use of regulated revenue is not an appropriate metric for proxy group 
+19 
+selection criteria. Instead, I use assets to determine the degree to which a company is 
+20 
+regulated because it is assets that are fundamentally regulated—the revenue requirement is 
+21 
+ 
+13 Staff Testimony, p. 65.  However, Evergy Inc. is the continuation of two well-established electric utilities: KCPL 
+and Westar Energy. 
+14 Ibid., p. 66. 
+15 Ibid., p. 106. PPL announced its divesture on March 18, 2021 – well after the date of my estimation cutoff. 
+16 Id. 
+17 Villadsen Exhibit BV-3. 
+18 See Villadsen Direct Testimony, Section 5A. 
+19 Staff Testimony p. 108. 
+20 Ibid., p. 109 
+
+
+--- Page 11 ---
+CASES 21-G-0073 & 21-E-0074 
+ORANGE AND ROCKLAND UTILITIES, INC.  
+VILLADSEN 
+ 
+ 
+Page 8 of 36 
+derived from the regulated assets of a utility. Stated differently, assets are used as an input 
+1 
+to determine a regulated utility’s revenues. Finance also utilizes the equity and asset betas 
+2 
+to assess the risk characteristics of companies.21 Therefore, I find that assets are the more 
+3 
+appropriate metric of whether a company is sufficiently regulated. 22 
+4 
+Second, I disagree with Staff’s assertion that natural gas utilities are less comparable to 
+5 
+Orange and Rockland and therefore should not be included in the proxy group. 
+6 
+Fundamentally, Orange and Rockland is a combination electric and gas utility, so gas utilities 
+7 
+are plainly one benchmark.  Also, similar to electric utilities, natural gas utilities are highly 
+8 
+regulated and operate a network of assets to deliver commodities to end-use customers. Both 
+9 
+types of utilities are capital intensive, requiring substantial investments in fixed assets to 
+10 
+generate revenue. Staff’s assertion that a sample size of nine gas utilities is too small is ill-
+11 
+founded and Staff provides no analysis to substantiate this claim. My sample of nine natural 
+12 
+gas utilities represents over half of the “universe” of companies classified as natural gas 
+13 
+utilities by Value Line.23 In addition, the Federal Energy Regulatory Commission (“FERC”) 
+14 
+has stated its willingness to accept proxy groups of “at least four and preferably at least five 
+15 
+members” in pipeline cost of capital cases.24 Lastly, as noted in my Direct Testimony, my 
+16 
+ROE recommendation focuses on the results from the electric utility proxy group.25 
+17 
+C. STAFF’S CAPM AND ZERO-BETA CAPM 
+18 
+Q13: Please summarize Staff’s CAPM and Zero-beta CAPM analyses. 
+19 
+A13: Staff implements a standard CAPM analyses and a Zero-beta CAPM analyses. Staff’s risk 
+20 
+free rate is based on the average current yield on 10-year and 30-year Treasury bonds over 
+21 
+the three month period of January to March 2021. This results in a risk-free rate of 1.69%.26 
+22 
+ 
+21 See, e.g., Brealey, Myers and Allen (2011), pp. 174-175 and 220-221. 
+22 I do not take issue with Staff eliminating companies that currently are engaged in M&A or which lack data. 
+23 Value Line, as of October 15, 2020. 
+24 FERC, “Inquiring Regarding the Commission’s Policy for Determining Return on Equity,” 171 FERC ¶61,155 
+Docket No. PL19-4-000, Issued May 21, 2020. 
+25 Villadsen Direct Testimony, p. 5. 
+26 Staff Testimony, p. 84. 
+
+
+--- Page 12 ---
+CASES 21-G-0073 & 21-E-0074 
+ORANGE AND ROCKLAND UTILITIES, INC.  
+VILLADSEN 
+ 
+ 
+Page 9 of 36 
+Staff uses the average Value Line beta for its proxy group, 0.88.27 Staff relies on data from 
+1 
+Merrill Lynch for its market risk premium (“MRP”). Merrill Lynch reports the forecasted 
+2 
+market return is 10.35% from which Staff subtracts its risk-free rate (1.69%) to obtain an 
+3 
+MRP of 8.66%.28 Staff also implements a Zero-beta CAPM, which uses the same inputs as 
+4 
+the CAPM but makes adjustments to correct for empirical findings that the Security Market 
+5 
+Line is flatter than predicted by CAPM. Staff’s Zero-beta CAPM analysis is similar to the 
+6 
+ECAPM I use in my analyses. Staff’s CAPM and Zero-beta CAPM result in a cost of equity 
+7 
+estimate of 9.30% and 9.56%, respectively. Staff then averages the two to arrive at a CAPM 
+8 
+estimate of 9.43%.29 
+9 
+Q14: What are your comments regarding Staff’s implementation? 
+10 
+A14: First, the three-month average risk-free rate is, in my opinion, not representative of the risk-
+11 
+free rate that will prevail during the relevant regulatory period and especially not at this point 
+12 
+in time, when the risk-free rate is almost at a record low. As discussed in further detail in 
+13 
+Section 5 below, yields on U.S. Government bonds are near historic lows due to on-going 
+14 
+quantitative easing programs by the Federal Reserve. In recent months, measures of inflation 
+15 
+have increased. If these inflation trends persist it will put upward pressure on Treasury 
+16 
+yields. Instead, I find it more appropriate to use a forecasted risk-free rate when estimating 
+17 
+the cost of capital – specifically, I used a  risk-free rate of 2.15% based on forecast of U.S. 
+18 
+Government bond yields from Blue Chip Economic Indicators.30 I note that the current yield 
+19 
+on 20-year U.S. Government bond is 2.22%, above Staff’s “current” risk-free rate (1.69%) 
+20 
+and closer to the risk-free rate used in my analysis.31 The June 2021 publication of Blue Chip 
+21 
+Economic Indicators forecasts that yields on 10-Year U.S. Government bond will average 
+22 
+ 
+27 Ibid. p. 85. 
+28 Ibid., pp. 88-89. 
+29 Ibid., p. 93. 
+30 Villadsen Direct Testimony, p. 48. The October 2020 Blue Chip Economic Indicators (“BCEI”) estimated the 10-
+year U.S. Treasury bond yields will be 1.4% in 2022. I then adjusted this upwards by 50 basis points to reflect the 
+historical maturity premium between 10-year and 20-year treasuries. I also added 25 basis to reflect half of the 
+currently elevated spread between utility bond yields and U.S. Government bond yields.  
+31 U.S. Department of the Treasury, Daily Treasury Yield Curve Rates, data as of June 1, 2021, accessed June 7, 
+2021. https://www.treasury.gov/resource-center/data-chart-center/interest-rates/pages/textview.aspx?data=yield  
+
+
+--- Page 13 ---
+CASES 21-G-0073 & 21-E-0074 
+ORANGE AND ROCKLAND UTILITIES, INC.  
+VILLADSEN 
+ 
+ 
+Page 10 of 36 
+2.1% in 2022.32 Staff does not apply standard financial techniques to take leverage into 
+1 
+account when estimating the ROE (I discuss this further in Section 4 below).  Lastly, Staff 
+2 
+averages the 10-year and the 30-year U.S. Government bond yield to obtain their risk-free 
+3 
+rate. 
+4 
+Staff and I both implement a version of the Zero-beta CAPM. While the formula I use in my 
+5 
+ECAPM analysis is different than that used in Staff’s Zero-beta CAPM, both formulas take 
+6 
+into account the empirical findings that CAPM underestimates the required return on equity 
+7 
+for companies with betas less than 1.0. Therefore, I shall not address the formula used in 
+8 
+Staff’s Zero-beta CAPM. 
+9 
+Q15: What are the consequences of Staff’s implementation choices? 
+10 
+A15: In Figure R-2 below, I adjust Staff’s CAPM and Zero-beta CAPM analyses to reflect the 
+11 
+forecasted risk-free rate for 2022; which is 2.6% using the forecast from Blue Chip Economic 
+12 
+Indicators as of June 2021 and adjusting for historic maturity premium between 10-year and 
+13 
+20-year U.S. Government bond yields.33 I also adjust Staff’s MRP to reflect the higher risk-
+14 
+free rate. Staff uses a forecasted market return of 10.35%, from which I subtract the new risk 
+15 
+free rate (2.6%) to arrive at a MRP of 7.75%. The resulting impacts of these adjustments are 
+16 
+as follows: 
+17 
+ 
+32 Wolters Kluwer Blue Chip Economic Indicators and PwC Analysis, Consensus Forecasts, June 2021, p. 3. 
+33 Wolters Kluwer Blue Chip Economic Indicators and PwC Analysis, Consensus Forecasts, June 2021, p. 3. 
+Historic maturity premium is approximately 50 basis points. 
+
+
+--- Page 14 ---
+CASES 21-G-0073 & 21-E-0074 
+ORANGE AND ROCKLAND UTILITIES, INC.  
+VILLADSEN 
+ 
+ 
+Page 11 of 36 
+FIGURE R-2: STAFF’S CAPM AND ZERO-BETA CAPM 
+1 
+ADJUSTED TO USE FORECASTED RISK FREE RATE 
+2 
+ 
+3 
+As shown in Figure R-2 above, Staff’s use of a historic yield downwardly biases the 
+4 
+estimated ROE by 11 basis points.34 Importantly, this simple modification to Staff’s inputs 
+5 
+results in an average ROE that is slightly above the Company’s requested ROE.  In Section 
+6 
+4 below, I demonstrate the extent to which Staff’s CAPM estimates are downwardly biased 
+7 
+due to not considering financial leverage. 
+8 
+D. STAFF’S DCF 
+9 
+Q16: How does Staff implement its DCF Model? 
+10 
+A16: Staff implements a two-stage DCF where the first stage uses Value Line’s forecasted 
+11 
+dividend growth rates through 2026. The second stage uses a sustainable growth rate and 
+12 
+goes for 195 years.35 Staff’s sustainable growth rate is calculated as: 
+13 
+g2 = b×r + s×v 
+14 
+ 
+34 Calculated as the new CAPM average of 9.54% minus Staff’s calculated average of 9.43%. 
+35 Staff Testimony, p. 74. Theoretically, the DCF model considers an indefinite horizon, rather than relying on a 
+200-year dividend stream. I do not believe it makes a difference to the calculated ROE. 
+Model
+Risk Free 
+Rate
+Staff Sample 
+Average Beta
+Market Risk 
+Premium
+Cost of Equity 
+Estimate
+[1]
+[2]
+[3]
+[4]
+CAPM
+[a]
+2.6%
+0.88
+7.8%
+9.42%
+Zero-Beta CAPM
+[b]
+2.6%
+0.88
+7.8%
+9.65%
+Average
+[c]
+9.54%
+Sources and Notes:
+[2]: Staff Testimony P. 85.
+[3] = 10.35% - [1], where 10.35% represents Staff's market return input assumption.
+[4][a] = [1][a] + [2][a] x [3][a]
+[4][b] = [1][b] + ([2][b] x 0.75 x [3][b]) + (1 x 0.25 x [3][b])
+[1]: BCEI June 2021 p. 3; projection of 10-year US Treasury Note yield for 2022 plus 50bps maturity 
+premium adjustment.
+
+
+--- Page 15 ---
+CASES 21-G-0073 & 21-E-0074 
+ORANGE AND ROCKLAND UTILITIES, INC.  
+VILLADSEN 
+ 
+ 
+Page 12 of 36 
+Where b is the dividend retention rate, r is the expected accounting ROE, s is growth in 
+1 
+shares, and v is the growth from share prices above book value.36  
+2 
+Q17: What concerns do you have with Staff’s DCF methodology? 
+3 
+A17: There are several inherent problems with Staff’s approach. First, the DCF model 
+4 
+fundamentally states that the discounted cash flow that accrues to shareholders equals the 
+5 
+stock price.37  However, the use of dividend growth without any consideration of other 
+6 
+means of distributing cash is problematic. Companies increasingly use share buybacks to 
+7 
+distribute to investors, but this is not captured in this approach. The reliance on cash flow or 
+8 
+earnings instead of dividends ensure that over time all cash flow to shareholders are counted 
+9 
+as such. 
+10 
+Second, there are apparent inconsistencies in Staff’s data or in the approach that they use. 
+11 
+The average and median ROE in 2025 for Staff’s proxy sample is 10.70% and 10.67%, 
+12 
+respectively.38 But the average and median ROE estimated by Staff are about 230 basis 
+13 
+points lower at 8.40% and 8.21%, respectively. This inconsistency indicated in the data or 
+14 
+methodology used to estimate the ROE in Staff’s DCF calculation, as I see no logical 
+15 
+explanation why Value Line predicts a ROE of well over 10.0 percent while Staff estimate a 
+16 
+ROE that is over 200 basis points lower. 
+17 
+Lastly, Staff only uses Value Line to obtain its forecasted data. As a result, Staff is relying 
+18 
+on a single analyst’s forecast to perform the DCF. Instead, Staff should incorporate 
+19 
+consensus estimates from other data providers, such as Thomson Reuters IBES or 
+20 
+Bloomberg. 
+21 
+Q18: What are the consequences of Staff’s ROE methodology? 
+22 
+A18: Staff’s reliance on dividend growth in the first stage of its DCF model downwardly biases 
+23 
+its estimated ROE because it ignores other means by which companies can distribute cash 
+24 
+ 
+36 Staff Testimony, Exhibit FP-6. 
+37 Stocks have no terminal date so the use of 195 years is not reflective of the model.  I shall not address this issue as 
+the impact on the results is small. 
+38 Staff Testimony, Exhibit FP-6, average and median of column P. 
+
+
+--- Page 16 ---
+CASES 21-G-0073 & 21-E-0074 
+ORANGE AND ROCKLAND UTILITIES, INC.  
+VILLADSEN 
+ 
+ 
+Page 13 of 36 
+to shareholders, such as through share buy-backs. Additionally, as discussed above, Staff’s 
+1 
+data appears to suffer from data or methodological inconsistencies. In Figure R-3 below, I 
+2 
+implement a single-stage DCF model using Staff’s dividend growth rate and find an average 
+3 
+and median ROE of 9.2% and 9.7%, respectively. The results are 80 to 130 basis points 
+4 
+higher than Staff’s DCF result of 8.40%, plainly indicating a non-trivial downward bias in 
+5 
+Staff’s DCF model. I note that neither the results in Figure R-3 nor Staff’s DCF results 
+6 
+account for the impact of financial leverage.  Again, this simple modification results in a 
+7 
+DCF result near the Company’s requested ROE of 9.5%. 
+8 
+FIGURE R-3: SINGLE-STAGE DCF USING STAFF’S INPUTS 
+9 
+ 
+10 
+Of note, the DCF estimates that result from this simple modification to Staff’s model produce 
+11 
+an average and median ROE that is slightly below and slightly above the Company’s 
+12 
+Company
+2021 Dividends
+ per Share
+Jan-Mar 2021 
+Average Price
+Dividends per 
+Share Growth Rate
+Forward
+Dividend Yield
+Implied Cost of 
+Equity
+[1]
+[2]
+[3]
+[4] = [1] / [2] x (1 + [3])
+[5] = [3]  + [4]
+Allete Inc
+$2.52
+$65.27
+3.7%
+4.0%
+7.7%
+Alliant Energy Corp
+$1.61
+$49.28
+6.4%
+3.5%
+9.9%
+Ameren Corp
+$2.20
+$74.54
+7.4%
+3.2%
+10.6%
+American Electric Power Co. Inc
+$3.00
+$79.86
+5.8%
+4.0%
+9.7%
+Avista Corp
+$1.62
+$40.74
+4.2%
+4.1%
+8.3%
+Black Hills Corp
+$2.17
+$61.51
+6.0%
+3.7%
+9.7%
+CenterPoint Energy Inc
+$0.65
+$21.06
+7.2%
+3.3%
+10.5%
+CMS Energy Corp
+$1.74
+$57.36
+7.3%
+3.3%
+10.6%
+Consolidated Edison Inc
+$3.10
+$70.02
+3.0%
+4.6%
+7.6%
+Dominion Energy
+$2.52
+$72.24
+6.4%
+3.7%
+10.1%
+Duke Energy Corp
+$3.90
+$91.15
+2.2%
+4.4%
+6.6%
+Edison International
+$2.58
+$58.22
+3.8%
+4.6%
+8.4%
+Entergy Corp
+$3.86
+$93.68
+5.6%
+4.3%
+9.9%
+Eversource Energy
+$2.40
+$84.50
+5.7%
+3.0%
+8.7%
+Hawaiian Electric Industries Inc
+$1.32
+$36.28
+2.0%
+3.7%
+5.7%
+IDACORP  Inc
+$2.72
+$91.13
+6.6%
+3.2%
+9.8%
+MGE Energy Inc
+$1.52
+$66.96
+5.9%
+2.4%
+8.3%
+NextEra Energy Inc
+$1.54
+$77.37
+9.8%
+2.2%
+12.0%
+NorthWestern Corp.
+$2.40
+$58.65
+3.5%
+4.2%
+7.7%
+OGE Energy Corp
+$1.64
+$31.19
+4.9%
+5.5%
+10.4%
+Pinnacle West Capital Corp
+$3.23
+$76.06
+5.8%
+4.5%
+10.3%
+Portland General Electric Co.
+$1.59
+$43.28
+6.0%
+3.9%
+9.9%
+Sempra Energy
+$4.18
+$122.31
+7.6%
+3.7%
+11.2%
+Southern Co
+$2.62
+$59.61
+2.9%
+4.5%
+7.4%
+WEC Energy Group
+$2.71
+$87.25
+6.1%
+3.3%
+9.4%
+Xcel Energy Inc
+$1.72
+$62.86
+5.7%
+2.9%
+8.6%
+Average
+5.4%
+3.8%
+9.2%
+Median
+5.8%
+3.7%
+9.7%
+Sources and Notes:
+[1] - [3]: Staff Exhibit FP-6 p. 1 and 2.
+
+
+--- Page 17 ---
+CASES 21-G-0073 & 21-E-0074 
+ORANGE AND ROCKLAND UTILITIES, INC.  
+VILLADSEN 
+ 
+ 
+Page 14 of 36 
+requested ROE, respectively. This demonstrates the reasonableness of Orange and 
+1 
+Rockland’s request. 
+2 
+Q19: Do you have any comments on Staff’s critique of your DCF? 
+3 
+A19: Yes. Staff criticizes my use of earnings growth forecasts.39  I prefer earnings growth 
+4 
+forecasts as earnings growth is available from multiple sources, so it is possible to use a 
+5 
+consensus forecast – which is not the case for dividend growth.  Also, as noted above, 
+6 
+dividends fail to capture all cash flow that accrue to shareholders. 
+7 
+E. RISK PREMIUM MODEL 
+8 
+Q20: Does Staff consider the risk premium model when estimating an ROE for Orange and 
+9 
+Rockland? 
+10 
+A20: No. Staff objects to the Risk Premium Model because the Commission has not relied on the 
+11 
+Risk Premium Model in the past; the model reflects “returns which are an inferior alternative 
+12 
+to a direct estimate of the company’s own cost of equity;” and the method does not account 
+13 
+for risk-reducing regulatory mechanisms of New York State that are not used in other 
+14 
+jurisdictions.40 Staff also takes issue with the use of a forecasted risk-free rate in the Risk 
+15 
+Premium Model.41 
+16 
+Q21: How do you respond? 
+17 
+A21: Investors consider all information that is available to them when making investment 
+18 
+decisions, including the allowed ROE and capital structure of other utilities. To attract capital 
+19 
+from investors, Orange and Rockland must offer a return that is on equal terms with other 
+20 
+utilities with similar risk profiles. The Risk Premium Model measures the premium that 
+21 
+investors in other regulated utilities have access to and then the model uses this premium to 
+22 
+derive a cost of equity using the forecasted risk-free rates that are expected to prevail over 
+23 
+the regulatory period. While the Risk Premium Model does not have the theoretical support 
+24 
+ 
+39 Staff Testimony, pp. 113-114 
+40 Staff Testimony, pp. 127-128. 
+41 Ibid., pp. 128-129. 
+
+
+--- Page 18 ---
+CASES 21-G-0073 & 21-E-0074 
+ORANGE AND ROCKLAND UTILITIES, INC.  
+VILLADSEN 
+ 
+ 
+Page 15 of 36 
+that the CAPM and DCF models do, it does provide a direct benchmark for the return 
+1 
+available to other regulated electric and natural gas utilities, like Orange and Rockland.  
+2 
+Ignoring the results from Risk Premium Model disregards the information available about 
+3 
+the returns available to equity owners holding assets with commensurate risks.42 The Risk 
+4 
+Premium model is commonly considered in regulatory proceedings, such as at the FERC,43 
+5 
+and should be considered when determining Orange and Rockland’s ROE. I note that Staff 
+6 
+points to FERC Opinion 569-A to argue against the use of my single-stage DCF; however, 
+7 
+Staff ignores the fact that Order 569-A re-introduced the Risk Premium as a valid model in 
+8 
+FERC proceedings.44  I note that Staff also ignores the fact that the FERC uses a constant-
+9 
+growth DCF with the constant growth being a blend of 80% IBES analysts’ forecasts and 
+10 
+20% GDP growth. 
+11 
+Q22: How do you respond to Staff’s concern with the use of forecasted risk-free rate in the 
+12 
+Risk Premium Model? 
+13 
+A22: As discussed in my Direct Testimony, it is important to use a forecasted risk-free rate which 
+14 
+reflects the yields that are expected to prevail during the relevant rate period.45 This is 
+15 
+particularly important given the current financial and economic conditions (discussed in 
+16 
+Section 5 below). Yields on U.S. Government bond yields are near historic lows due to 
+17 
+quantitative easing and other accommodative monetary policies resulting from the COVID-
+18 
+19 pandemic. As economic and financial conditions improve, yields are expected to rise. 
+19 
+The June issue of Blue Chip Economic Indicators shows yields on 10-year U.S. Government 
+20 
+bond to increase to 2.1% in 2022.46 Similarly, if recent upward trends in inflation persist, 
+21 
+there could be further upward pressure on bond yields.47  
+22 
+ 
+42 Bluefield Water Works & Improvement Co. v. Public Service Com’n of West Virginia, 262 U.S.  679 (1923) 
+(“Bluefield”), and Federal Power Com’n v. Hope Natural Gas Co., 320 U.S. 591 (1944) (“Hope”). 
+43 Federal Energy Regulatory Commission, “Opinion No. 569-A, Order on Rehearing,” Docket EL14-12-004 and 
+EL15-45-013, 171¶61,154, May 21, 2020. FERC considers the Risk Premium Model along with the CAPM and 
+DCF Models. 
+44 Id. and Staff Testimony, p. 111. 
+45 Villadsen Direct Testimony, p. 26. 
+46 Wolters Kluwer Blue Chip Economic Indicators, June 2021, pp. 2-3 
+47 See Figure R-12. 
+
+
+--- Page 19 ---
+CASES 21-G-0073 & 21-E-0074 
+ORANGE AND ROCKLAND UTILITIES, INC.  
+VILLADSEN 
+ 
+ 
+Page 16 of 36 
+This is particularly important for the Risk Premium Model because the lower the risk-free 
+1 
+rate, the higher the risk premium is over the risk-free rate. Therefore, if interest rates are 
+2 
+expected to increase, the expectation is that the risk premium over the risk-free rate will 
+3 
+decrease. It is important to take these phenomena into account and adjust both the going-
+4 
+forward risk-free rate and risk premium.  My implied risk premium model does exactly that.  
+5 
+If I were to base the estimate on contemporaneous risk-free rates, the estimated ROE would 
+6 
+be downwardly biased (and the risk premium upwardly biased). 
+7 
+Q23: Do you agree with Staff’s assertion that the Risk Premium Model is not valid because 
+8 
+it does not account for New York State specific regulations? 
+9 
+A23: No. I disagree with Staff that the methodology is somehow flawed because different 
+10 
+jurisdictions rely on different regulatory mechanisms. According to Regulatory Research 
+11 
+Associates, most jurisdictions have regulatory riders, trackers, and alternative rate 
+12 
+mechanisms. For example, electric infrastructure adjustment clauses exist in Colorado, 
+13 
+Connecticut, Delaware, District of Columbia, Hawaii, Illinois, Indiana, Kentucky, 
+14 
+Louisiana, Maryland, Massachusetts, Minnesota, Missouri, New Hampshire, New Jersey, 
+15 
+New Mexico, North Dakota, Ohio, Oklahoma, Pennsylvania, South Dakota, Texas, Virginia, 
+16 
+and West Virginia. 48 Many jurisdictions have multiple adjustment mechanisms. Therefore, 
+17 
+even if the reliance on such mechanisms impacts the ROE it would already be captured in 
+18 
+my ROE estimate. 
+19 
+Q24: What are the implications of Staff ignoring the Risk Premium Model? 
+20 
+A24: By ignoring the Risk Premium Model, Staff fails to recognize that investors consider the 
+21 
+ROEs and capital structures awarded to other utilities when making investment decisions. 
+22 
+The Risk Premium Model measures the premium that investors in other regulated utilities 
+23 
+have access to, consistent with the criteria set in Hope and Bluefield. The Risk Premium 
+24 
+Model is used in other regulatory jurisdictions, such as the FERC. If Staff had included a 
+25 
+Risk Premium Model for electric utilities and a forecasted risk-free rate of 2.15%, it would 
+26 
+ 
+48 S&P Market Intelligence, Alternative Regulations Provisions In Place (as of March 31, 2020), accessed June 8, 
+2021.  
+
+
+--- Page 20 ---
+CASES 21-G-0073 & 21-E-0074 
+ORANGE AND ROCKLAND UTILITIES, INC.  
+VILLADSEN 
+ 
+ 
+Page 17 of 36 
+resulted in an ROE estimate of 9.5%.49 Therefore, by ignoring the Risk Premium Model, 
+1 
+Staff downwardly biases its ROE recommendation of 8.75%.  
+2 
+F. WEIGHTING OF DCF AND CAPM RESULTS 
+3 
+Q25: What weights does Staff assign to the results from its CAPM and DCF models? 
+4 
+A25: Staff assigns two-thirds weight to the estimate from its DCF model. It then assigns one-third 
+5 
+weight to the average of the CAPM and Zero-beta CAPM estimates. 
+6 
+Q26: What comments do you have on this approach? 
+7 
+A26: Staff’s weighting of its CAPM and DCF models is mechanical and provides no flexibility to 
+8 
+account for impacts of economic and financial conditions on each model. For example, as 
+9 
+discussed in my Direct Testimony, the DCF model requires forecasted growth rates that are 
+10 
+based on stable economic conditions to satisfy the constant dividend growth assumptions. 
+11 
+Growth rate estimates from analysts may be slower than dividend yields to reflect the on-
+12 
+going market uncertainties. As a result, I concluded that the multi-stage estimates may be at 
+13 
+or below the low-end of what is reasonable.50 This is evident when comparing Staff’s DCF 
+14 
+estimate to recently allowed ROEs for electric distribution utilities. Staff’s DCF estimate of 
+15 
+8.40% is 90 basis points lower than the average allowed ROE (9.5%) in decisions issued in 
+16 
+2020 or 2021.51 I note not a single utility was awarded a ROE of 8.4% or lower in the normal 
+17 
+course of service regulation.52  
+18 
+By mechanically weighting the DCF by two-thirds and not accounting for current economic 
+19 
+and financial conditions, Staff downwardly biases its recommended ROE. For example, had 
+20 
+Staff weighted its CAPM / Zero beta CAPM and DCF equally, the ROE would increase by 
+21 
+more than 50 basis points.  When developing my recommended ROE for Orange and 
+22 
+ 
+49 As of September 30, 2020, Villadsen, Exhibit BV-4. 
+50 Villadsen Direct Testimony, pp. 60-61. 
+51 S&P Market Intelligence, Rate Case History, accessed June 8, 2021.   
+52 I exclude electric utilities in Illinois because they operate with a negotiated formulaic ROE.  I also exclude Central 
+Maine Power because their 8.25% ROE reflected a 100 basis points downward adjustment for poor service 
+according to S&P Global Intelligence, “Central Maine Power Company: ME: D-2018-00194 | Case Profile.” 
+
+
+--- Page 21 ---
+CASES 21-G-0073 & 21-E-0074 
+ORANGE AND ROCKLAND UTILITIES, INC.  
+VILLADSEN 
+ 
+ 
+Page 18 of 36 
+Rockland, I do not mechanically apply Staff’s weighting of the CAPM and DCF models. 
+1 
+Instead, I consider the impacts of ongoing market uncertainties on each of the models when 
+2 
+determining an appropriate ROE.  
+3 
+Q27: Please summarize how Staff’s implementation of the CAPM and DCF models 
+4 
+downwardly biases their ROE estimates. 
+5 
+A27: Staff makes several choices when implementing the CAPM and DCF that downwardly bias 
+6 
+their ROE results. Staff does not consider other highly regulated utilities with similar 
+7 
+business risks to Orange and Rockland, such as natural gas utilities. For their risk-free rate, 
+8 
+Staff uses a historic three-month average of U.S. Government bond yields. Treasury yields 
+9 
+are currently near historic lows due to on-going monetary policy actions by the Federal 
+10 
+Reserve. Current bond yields also do not accurately reflect yields that are expected to prevail 
+11 
+during the relevant regulatory period. In their DCF analysis, Staff utilizes a dividend growth 
+12 
+rate, which ignores considerations of other means by which companies distribute cash to 
+13 
+shareholders, such as through share buybacks. Staff’s DCF model also suffers from data or 
+14 
+methodological inconsistencies, which results in ROE values 200 basis points lower than 
+15 
+those shown in Value Line. Staff also ignores the Risk Premium Model, which reflects the 
+16 
+premium that investors in other regulated utilities have access to. The Risk Premium Model 
+17 
+is used in other regulatory jurisdictions, such as at the FERC. Finally, Staff mechanically 
+18 
+weights its DCF and CAPM estimates, disregarding how the models and their inputs are 
+19 
+impacted by financial and economic conditions. 
+20 
+In Figure R-4 below, I summarize the ROE estimates from my adjustment to Staff’s CAPM 
+21 
+and Zero-Beta CAPM.53 I also show the results from the Single-Stage DCF and Risk 
+22 
+Premium models, discussed above. For illustrative purposes, if I disregard the Multi-Stage 
+23 
+DCF and give equal weight to all four remaining models, I arrive at an average ROE of 
+24 
+9.44%, which is 69 basis points above Staff’s recommended ROE of 8.75% and in line with 
+25 
+the Company’s requested ROE of 9.5%. I note that it is evident that the Multi-Stage DCF is 
+26 
+not in line with any of the other models estimates and the two-third weighting on the Multi-
+27 
+Stage DCF downwardly biases the results. 
+28 
+ 
+53 See Figure R-2 above. 
+
+
+--- Page 22 ---
+CASES 21-G-0073 & 21-E-0074 
+ORANGE AND ROCKLAND UTILITIES, INC.  
+VILLADSEN 
+ 
+ 
+Page 19 of 36 
+FIGURE R-4: SUMMARY OF STAFF’S ADJUSTED CAPM RESULTS AND ADDITIONAL MODELS  
+1 
+  
+2 
+Even after considering the above, Staff’s ROE results are further downwardly biased due to 
+3 
+its failure to make standard adjustments for financial leverage. I discuss this in further detail 
+4 
+in Section 4 below.  
+5 
+G. FLOTATION COSTS 
+6 
+Q28: Please address the issue of flotation costs for Orange and Rockland. 
+7 
+A28: Staff does not recommend an adjustment for flotation costs at this time because the Company 
+8 
+has not indicated whether it would issue equity (via CEI) during the Rate Year.54 Staff 
+9 
+acknowledges my estimated adjustment for flotation costs of 20 basis points.55 I maintain 
+10 
+my position that it is important for the utility to recover costs associated with the issuance 
+11 
+of equity and as noted in my Direct Testimony, the specified calculation I presented was one 
+12 
+potential method. 
+13 
+ 
+54 Staff Testimony, p. 133. 
+55 Ibid, p. 132.  
+Weight
+ROE
+CAPM (Adj)
+[A]
+0.250
+9.42%
+Zero-Beta CAPM (Adj)
+[B]
+0.250
+9.65%
+Single-Stage DCF
+[C]
+0.250
+9.19%
+Risk Premium
+[D]
+0.250
+9.49%
+Average ROE
+[E]
+9.44%
+Note: Does not reflect adjustment for financial leverage
+[A], [B]: Figure R-2
+[C]: Figure R-3
+[D]: Villadsen Exhibit BV-4, Schedule BV-16
+[E]: Simple Averages of [A], [B], [C], [D]
+
+
+--- Page 23 ---
+CASES 21-G-0073 & 21-E-0074 
+ORANGE AND ROCKLAND UTILITIES, INC.  
+VILLADSEN 
+ 
+ 
+Page 20 of 36 
+4. FINANCIAL LEVERAGE ADJUSTMENTS 
+1 
+A. PRELIMINARIES 
+2 
+Q29: What do you cover in this section of your rebuttal testimony? 
+3 
+A29: I respond to the critiques and misunderstandings of my Direct Testimony regarding financial 
+4 
+leverage. Specifically, I address the concerns of Staff regarding the use of the market value 
+5 
+capital structure rather than book value capital structures in my adjustments, given the 
+6 
+differences in capitalization between utility holding companies and utility subsidiaries. 56 I 
+7 
+also address Staff’s assertion that the sample company has comparable levels of financial 
+8 
+risk and therefore standard adjustments for financial leverage should not be used.57 Finally, 
+9 
+I assess the impacts on Staff’s CAPM and DCF estimates for not taking the impact of capital 
+10 
+structure into account in their recommended ROEs. 
+11 
+Q30: How do you respond to Staff’s concerns regarding market value capital structure? 
+12 
+A30: Staff comments are based on a misunderstanding of the application of the ROE. Both the 
+13 
+CAPM and DCF models rely on market data to estimate the cost of equity for sample 
+14 
+companies, so the results reflect the value of the capital that investors hold during the 
+15 
+estimation period (market values). The allowed ROE is applied to rate base, which is 
+16 
+determined using the historical cost and hence reflects the net book value of assets at the 
+17 
+utility operating company. The strict application of a cost of equity that is estimated from 
+18 
+market value and hence is based on market value capital structures to a book value capital 
+19 
+structure leads to a mismatch between the two.  To my knowledge there is no dispute that 
+20 
+the rate base is and should be determined using book values. I therefore make clear that the 
+21 
+rate base is measured using book values, and that nothing about my analysis of financial risk 
+22 
+involves the application of the allowed return to a market value rate base. 
+23 
+Taking differences in financial leverage into consideration does not change the value of rate 
+24 
+base and consequently does not depart from original cost ratemaking principles. Adjustment 
+25 
+ 
+56 Staff Testimony, pp. 115-118. 
+57 Ibid., p. 120. 
+
+
+--- Page 24 ---
+CASES 21-G-0073 & 21-E-0074 
+ORANGE AND ROCKLAND UTILITIES, INC.  
+VILLADSEN 
+ 
+ 
+Page 21 of 36 
+for differences in leverage does consider the fact that the more debt a company has, the 
+1 
+higher the financial risk associated with an equity investment in that company (as 
+2 
+acknowledged by Staff).58  
+3 
+Q31: Do you agree with Staff’s assertion that standard financial leverage adjustments are 
+4 
+not needed due to the comparable level of financial risk? 
+5 
+A31: I disagree. Staff points to the average book value common equity ratio of my proxy samples 
+6 
+(46.4%-50.9%) and compares it to Orange and Rockland’s book value common equity ratio 
+7 
+(45.9%).59 With this information Staff argues that the proxy companies and Orange and 
+8 
+Rockland’s have “comparable levels of financial risk” and therefore it is reasonable to just 
+9 
+consider unadjusted CAPM and DCF results.60  Staff’s argument is not based on financial 
+10 
+theory. I am not aware of any level of “comparable” financial risk whereby differences in 
+11 
+leverage can be simply ignored. As discussed further below, adjustments for financial 
+12 
+leverage are standard financial techniques, regardless of the relative differences in capital 
+13 
+structure (let alone on a book value basis). 
+14 
+B. FINANCIAL ECONOMICS 
+15 
+Q32: How should capital structure be taken into account so that the allowed returns meet 
+16 
+the fair return standard? 
+17 
+A32: The proportion of debt in the capital structure—also known as financial leverage—
+18 
+influences the risk borne by equity investors. For a given degree of business risk, a higher 
+19 
+proportion of debt financing increases the expected variability of equity returns. Thus, to 
+20 
+compare the fair returns of two otherwise identical firms, on a risk adjusted basis, the capital 
+21 
+structures must be taken into account. For example, if more debt is used, the greater financial 
+22 
+risk imposed by the greater financial leverage must be compensated by a commensurately 
+23 
+higher expected ROE. Otherwise, the more leveraged firm will not receive a fair return and 
+24 
+will be at a disadvantage in the competition to attract capital in equity markets.  
+25 
+ 
+58 Ibid., p. 118. 
+59 Ibid., p. 120. 
+60 Id. 
+
+
+--- Page 25 ---
+CASES 21-G-0073 & 21-E-0074 
+ORANGE AND ROCKLAND UTILITIES, INC.  
+VILLADSEN 
+ 
+ 
+Page 22 of 36 
+Q33: Please briefly explain the relationship between leverage and the cost of equity. 
+1 
+A33: Financial risk or capital structure is a large topic in financial economics. The principle that 
+2 
+financial leverage amplifies the variability of equity returns and thereby increases the 
+3 
+financial risk to equity investors is a firmly established core principle of corporate finance. 
+4 
+It is directly connected to the Modigliani Miller proposition that, except as influenced by the 
+5 
+tax-deductibility of debt and the cost of financial distress, the value of a firm’s assets is 
+6 
+independent of its choice of financing. This intuitive framework means that some measures 
+7 
+of the overall cost of capital for firms with comparable systematic business risk should be 
+8 
+the same regardless of capital structure,61 even if the cost of the equity and/or debt 
+9 
+components of financing vary in proportion to the degree of financial leverage.  
+10 
+It is commonly recognized in finance textbooks that financial leverage impacts the cost of 
+11 
+equity for a company. A replication from a standard MBA textbook is provided below:62 
+12 
+ 
+13 
+As Professors Berk and DeMarzo further note: 
+14 
+The levered equity return equals the unlevered equity return, plus an extra 
+15 
+“kick” due to leverage…The amount of additional risk depends on the 
+16 
+amount of leverage, measured by the firm’s market value debt-equity 
+17 
+ratio, D/E…63  (emphasis added) 
+18 
+This relationship is further illustrated in Figure R-5 below, reproduced from the seminal 
+19 
+textbook Principles of Corporate Finance by Brealey, Myers, and Allen. It illustrates that as 
+20 
+capital structure shifts to use a greater proportion of lower cost debt financing, the investor 
+21 
+ 
+61  Except in cases of extremely high or low leverage, where the tax and financial distress effects may dominate. 
+62  Jonathan Berk and Peter DeMarzo, “Corporate Finance,” Third Edition, 2013 (Berk & DeMarzo 2013), p. 492. 
+63  Berk & Peter DeMarzo 2013, p. 489.  Similar comments appear in Richard A. Brealey, Stewart C. Myers, and 
+Franklin Allen, 2014, Principles of Corporate Finance, 11th edition, McGraw-Hill Irwin (Brealey, Myers & Allen 
+2014), p. 433. 
+
+
+--- Page 26 ---
+CASES 21-G-0073 & 21-E-0074 
+ORANGE AND ROCKLAND UTILITIES, INC.  
+VILLADSEN 
+ 
+ 
+Page 23 of 36 
+required ROE (and debt, especially at higher leverage ratios) increases to compensate for the 
+1 
+greater financial risk, such that the overall required return on assets remain unchanged. 
+2 
+FIGURE R-5: ILLUSTRATION OF THE MODIGLIANI MILLER PRINCIPLE64 
+3 
+ 
+4 
+Financial economics simply do not leave any doubt that the cost of equity increases with 
+5 
+financial leverage and that the relevant measure of financial leverage depends on market 
+6 
+value. I—like other witnesses—estimate the cost of equity using market data in the CAPM 
+7 
+and DCF-based models. Since the Risk Premium Model is based on book values, the relevant 
+8 
+leverage for this methodology is book value based. 
+9 
+Q34: Could you provide a numerical example to illustrate the impact of financial leverage 
+10 
+on cost of equity? 
+11 
+A34: Yes. As a simple example, think of an investor who takes money out of her savings and 
+12 
+invests $100,000 in real estate. The future value of the real estate is uncertain. If the real 
+13 
+estate market booms, she will realize a gain. However, if the real estate market declines, she 
+14 
+will realize a loss. Figure R-6 below provides an illustration of this: 
+15 
+ 
+64  Brealey, Myers, and Allen, Principles of Corporate Finance, 10th Ed. (2011), p. 429, Figure 17.2. 
+
+
+--- Page 27 ---
+CASES 21-G-0073 & 21-E-0074 
+ORANGE AND ROCKLAND UTILITIES, INC.  
+VILLADSEN 
+ 
+ 
+Page 24 of 36 
+FIGURE R-6: RETURN ON AN ALL EQUITY INVESTMENT 
+1 
+ 
+2 
+Compare this to the situation illustrated in Figure R-7 below, where the investor finances the 
+3 
+same real estate purchase using 50% cash from her savings (equity) and finances 50% using 
+4 
+funds from a mortgage (debt). In this case, the variability in the investor’s expected equity 
+5 
+return is two-times greater than in Figure R-6. The entire fluctuation of 10% from rising or 
+6 
+falling real estate prices falls on the investor’s equity investment, which is smaller ($50,000) 
+7 
+for the leveraged investment depicted in Figure R-7 as compared to the all-equity $100,000 
+8 
+investment shown in Figure R-6. The equity return for the leveraged investment goes up or 
+9 
+down by 20% in the leverage scenario even though the actual change in the value of the real 
+10 
+estate (+/- 10%) is the same as depicted in Figure R-6 for the all-equity investment. The 
+11 
+lesson from this example is obvious: debt adds risk because, while there is more potential 
+12 
+gain on the equity investment by using debt, there is a higher potential loss on that equity 
+13 
+investment that goes with it. This concept is colloquially referred to as “high risk, high 
+14 
+reward.” 
+15 
+
+
+--- Page 28 ---
+CASES 21-G-0073 & 21-E-0074 
+ORANGE AND ROCKLAND UTILITIES, INC.  
+VILLADSEN 
+ 
+ 
+Page 25 of 36 
+FIGURE R-7: RETURN ON A LEVERAGED EQUITY INVESTMENT 
+1 
+ 
+2 
+Q35: Do finance textbooks also address the question of how financial leverage affects the 
+3 
+cost of equity? 
+4 
+A35: Yes. Standard textbooks on corporate finance provide examples, like the one I presented 
+5 
+above, to illustrate how the introduction of debt financing amplifies the variability of equity 
+6 
+returns and thus increasing the risk to equity holders which causes them to demand higher 
+7 
+expected returns. For example, Professors Brealey, Myers, and Allen write: 
+8 
+Our example shows how borrowing creates financial leverage or gearing. 
+9 
+Financial leverage does not affect the risk or the expected return on the 
+10 
+firm’s assets, but it does push up the risk of the common stock. Shareholders 
+11 
+demand a correspondingly higher return because of this financial risk.65 
+12 
+Similarly, Professors Berk and DeMarzo summarize the effect of leverage on the cost of 
+13 
+capital as follows. 
+14 
+…[L]everage increases the risk of equity even when there is no risk that the 
+15 
+firm will default. Thus, while debt may be cheaper when considered on its 
+16 
+own, it raises the cost of capital for equity. Considering both sources of 
+17 
+ 
+65  Brealey, Myers and Allen (2017), Principles of Corporate Finance, 12th Edition, p. 446 (emphasis in original). 
+
+
+--- Page 29 ---
+CASES 21-G-0073 & 21-E-0074 
+ORANGE AND ROCKLAND UTILITIES, INC.  
+VILLADSEN 
+ 
+ 
+Page 26 of 36 
+capital together, the firm’s average cost of capital with leverage is … the 
+1 
+same as for the unlevered firm.66 
+2 
+These statements by preeminent finance scholars in widely-used corporate finance textbooks 
+3 
+highlight two important points that can also be intuitively observed based on the real estate 
+4 
+investment example: 
+5 
+• The variability of returns on the asset itself (e.g., the piece of real estate) is unchanged 
+6 
+by the introduction of financial leverage, therefore “leverage does not affect the risk 
+7 
+or the expected return on the firm’s assets.”  Rather, it is the risk and required returns 
+8 
+of the equity and debt financing instruments that are changed by the degree of 
+9 
+financial leverage. 
+10 
+• The mechanism by which leverage adds variability to returns is independent of any 
+11 
+effect of increased leverage on the risk that the firm will be unable to fulfill its fixed 
+12 
+financial obligations, and thus (as Berk and DeMarzo put it) “leverage increases the 
+13 
+risk of equity even when there is no risk that the firm will default.” 
+14 
+Q36: What are the implications of these fundamental financial principals for Staff’s CAPM 
+15 
+results? 
+16 
+A36: Failing to recognize the impact of financial leverage on the cost of equity results in a non-
+17 
+trivial downward bias in Staff’s ROE estimates. This is shown in Figure R-8 below by 
+18 
+comparing the Value Line betas obtained at Staff’s proxy group’s market value and the same 
+19 
+beta measured at the Company’s requested 50% equity capital structure. To do so, I first 
+20 
+calculate the asset (or zero debt financing) beta using the market value capital structure of 
+21 
+Staff’s proxy group. Next, I calculate a re-levered beta using the 50% equity capital structure 
+22 
+requested by the Company. It is evident that the betas used by Staff downwardly bias the 
+23 
+CAPM estimates by 90 to 120 basis points.  
+24 
+ 
+66  Berk and DeMarzo (2014), Corporate Finance, 3rd Ed., p. 482 (emphasis in original). 
+
+
+--- Page 30 ---
+CASES 21-G-0073 & 21-E-0074 
+ORANGE AND ROCKLAND UTILITIES, INC.  
+VILLADSEN 
+ 
+ 
+Page 27 of 36 
+FIGURE R-8: ILLUSTRATIVE IMPACT OF LEVERAGE ADJUSTMENT TO STAFF’S CAPM 
+1 
+ 
+2 
+Q37: What are the implications for Staff’s DCF estimates? 
+3 
+A37: The impact on the DCF results is similar, which are shown in Figure R-9 below. I hold 
+4 
+Staff’s DCF implied After-Tax Weighted Average Cost of Capital of 6.4% constant and then 
+5 
+adjust the capital structure to the Company’s requested 50% equity capital structure.  
+6 
+FIGURE R-9: ILLUSTRATIVE IMPACT OF LEVERAGE ADJUSTMENT TO STAFF’S DCF 
+7 
+ 
+8 
+The downward bias due to no consideration of financial leverage is even larger for Staff’s 
+9 
+DCF model than for Staff’s CAPM models. The estimate is downwardly biased by 100 basis 
+10 
+points (9.4% minus 8.4%). 
+11 
+Recommendations
+Staff'S Sample 
+Average Beta
+Assumed 
+Debt Beta
+Market 
+Equity
+Asset 
+Beta
+Recommended 
+Debt%
+Equity 
+Beta
+Increase in 
+ROE
+[1]
+[2]
+[3]
+[4]
+[5]
+[6]
+[8]
+Traditional CAPM
+0.88
+0.05
+60%
+0.61
+50.0%
+1.02
+9.3% - 10.5%
+1.2%
+Zero Beta CAPM 
+0.88
+0.05
+60%
+0.61
+50.0%
+1.02
+9.6% - 10.5%
+0.9%
+Sources and Notes:
+  [1]: Staff Finance Panel May 2021, Cases 21-G-0073 & 21-E-0074.
+  [2]: Corporate Finance, Berk and Demarzo, 3rd Edition, p. 413.
+  [3]: Exhibit_(FP-5) Page 2.
+  [4] Unlevered Asset Beta with Tax.
+  [5] Assumed.
+  [6] Beta relevered to recommended equity percentage using Hamada formula with tax.
+  [7] Original Cost of Equity as presented in Staff work product and ROE with Hamada adjustments
+  Zero Beta CAPM = Rf + (.75 x Beta x MRP) + (.25 x MRP).
+ROE (Original vs. 
+Hamada Adj.)
+[7]
+Staff Sample Average Market Value Equity Ratio
+[a]
+59.9%
+Staff Recommended ROE
+[b]
+8.40%
+Staff Recommended Cost of Debt
+[c]
+4.60%
+Combined State and Corporate Tax Rate
+[d]
+26.1%
+After-Tax Weighted Average Cost of Capital
+[e]
+6.4%
+Implied ROE at 50% Equity
+[f]
+9.4%
+Sources and Notes:
+[a]: From Bloomberg as of March 12, 2021
+[b]: Staff Exhibit FP-6 p. 3.
+[c]: Staff Testimony p. 10.
+[e] = [b] x [a] + [c] x (1 - [a]) x (1 - [d])
+[f] = ([e] - [c] x (50%) x (1 - [d]) / 50%
+
+
+--- Page 31 ---
+CASES 21-G-0073 & 21-E-0074 
+ORANGE AND ROCKLAND UTILITIES, INC.  
+VILLADSEN 
+ 
+ 
+Page 28 of 36 
+Q38: What do you conclude from the discussion above? 
+1 
+A38: I conclude that Staff’s ROE estimates are downwardly biased because they fail to account 
+2 
+for the impact of financial leverage on the cost of equity, using standard financial techniques. 
+3 
+C. PRECEDENTS 
+4 
+Q39: Are adjustments for financial leverage used by other regulatory agencies?  
+5 
+A39: Yes. Multiple regulatory agencies in the U.S. and most outside of North America have 
+6 
+adopted a similar approach. In the U.S., the Federal Communications Commission (“FCC”), 
+7 
+the Surface Transportation Board (“STB”) and the FERC have accepted the use of weighted-
+8 
+average cost of capital methodologies to determine the cost of capital. Specifically, the FCC 
+9 
+in a 2016 order acknowledged that it is reasonable (1) to use market values to estimate the 
+10 
+capital structure and (2) derive an implied return on equity from the estimated weighted 
+11 
+average cost of capital.67 Thus, the FCC acknowledged that market value capital structures 
+12 
+are the relevant measure of leverage and impact the ROE using an approach similar to what 
+13 
+I used. The FERC, in Cost of New Entry (“CONE”) studies for the PJM,68 has used the 
+14 
+weighted average cost of capital and the Surface Transportation Board calculates the 
+15 
+weighted average cost of capital to assess the revenue adequacy for freight railroads.69  
+16 
+Finally, the Alabama Public Service Commission has found the method “compelling”:   
+17 
+[t]he Commission recognizes that the [after tax weighted average cost of 
+18 
+capital] analysis is not a prevalent methodology in the United States; 
+19 
+however, the focus of that methodology on the relationship between the 
+20 
+market value and the associated financial risk of the utility is compelling.70 
+21 
+ 
+67 Federal Communications Commission, “Report and Order, Order and Order on Reconsideration, and Further 
+Notice of Proposed Rulemaking,” FCC 16-33, issued March 30, 2016 ¶270 and ¶ 322.  
+68 Federal Energy Regulatory Commission, “Order Conditionally Accepting Tariff Revisions Subject to Compliance 
+Filing,” Docket ER14-2940-000, November 28, 2014, ¶59.  See also, Federal Energy Regulatory Commission, 
+“Order Accepting Proposed Tariff Revisions,” Docket ER19-105-001 and ER19-105-002, April 15, 2019. 
+69 See, for example, Surface Transportation Board, “Docket No. EP 558 (Sub-No. 22), dated August 5, 2019, p. 15. 
+70 Report and Order, In re: Public Proceedings established to consider any necessary modifications to the Rate 
+Stabilization and Equalization mechanism applicable to the electric service of Alabama Power Company, Dockets 
+18117 and 18416, August 21, 2013, p. 20. 
+
+
+--- Page 32 ---
+CASES 21-G-0073 & 21-E-0074 
+ORANGE AND ROCKLAND UTILITIES, INC.  
+VILLADSEN 
+ 
+ 
+Page 29 of 36 
+Considering next the Hamada approach, I note that the California Public Utilities 
+1 
+Commission in the past has relied on results from the method,71  the Oregon Public Service 
+2 
+Commission staff commonly relies on a version of the Hamada method to assess the impact 
+3 
+of leverage on the cost of equity,72 and the Florida Public Service Commission uses an 
+4 
+equivalent methodology to determine the ROE for small water utilities.73    
+5 
+Looking outside the U.S., Mexico’s Comisión Reguladora de Energía74 relies on the Hamada 
+6 
+method, while regulators in the U.K., the Netherlands, Australia, and New Zealand rely on a 
+7 
+mixture of an after-tax weighted average cost of capital and the Hamada method.75 
+8 
+Q40: Are the methods unorthodox in utility regulation? 
+9 
+A40: No. While not all methods I rely upon are widely used by regulatory commissions, several 
+10 
+regulatory entities have found the methods used in financial economics to consider leverage 
+11 
+useful. Several of the adoptions are relatively new in that the FERC (for CONE studies) and 
+12 
+the FCC only adopted the leverage adjustment within the last five years. Thus, these 
+13 
+jurisdictions have moved towards accepting the importance of leverage. The methods are 
+14 
+also standard curriculum in finance textbooks and commonly used by practitioners who 
+15 
+provide cost of capital measures.76  
+16 
+ 
+71 The California Public Utilities Commission (“CPUC”) relied on Hamada unlevered / relevered data in D.12-12-
+034 at. 38. Here the CPUC pointed to Southern California Edison’s CAPM results and ROE range of 9.73 percent to 
+11.71 percent, which was derived using the Hamada method. 
+72 Opening Testimony of Matt Muldoon in Docket No. UE 319, Staff Exhibit 500, p. 15. 
+73Florida PUC for water and wastewater utilities (Order No. PSC-12-0339-PAA-WS); “Florida 2012 Order”), p. 4. 
+74 CRE, “Directiva sobre la determinación de tarifas y el traslado de precios para las actividades reguladas en 
+materia de gas natural DIR-GAS-001-2207.” 
+75 Villadsen, Bente et. al, “Risk and Return for Regulated Industries,” Academic Press, 2017, Chapter 9 and 
+references herein. 
+76 For an example of a commercial data provider’s application, see Duff & Phelps, “2019 Valuation Handbook – 
+U.S. Guide to Cost of Capital,” Chapter 1 pp. 1-21 For examples of tax authorities applications, see, for example, 
+Utah Rule R884-24P-62 “Valuation of State Assessed Unitary Properties Pursuant to Utah Code Ann. Section 59-2-
+201”, which states “The discount rate (k) shall be based upon a weighted average cost of capital (WACC) 
+considering current market debt rates and equity yields.” (https://rules.utah.gov/publicat/code/r884/r884-
+24p.htm#T32).   
+I understand it is common for taxes based on net present values to use a market value based after-tax weighted-
+average cost of capital as the discount rate. 
+
+
+--- Page 33 ---
+CASES 21-G-0073 & 21-E-0074 
+ORANGE AND ROCKLAND UTILITIES, INC.  
+VILLADSEN 
+ 
+ 
+Page 30 of 36 
+Q41: Does the fact that you have not addressed all criticisms of your testimony mean that 
+1 
+you agree with those criticisms? 
+2 
+A41: No. 
+3 
+5. CAPITAL MARKETS UPDATE 
+4 
+Q42: What has changed since you filed your Direct Testimony? 
+5 
+A42: Since filing my Direct Testimony, long standing economic uncertainties weighted on capital 
+6 
+markets have subsided somewhat. Vaccines are now being widely distributed across the U.S. 
+7 
+and portions of the economy are beginning to fully reopen as social distancing measures are 
+8 
+relaxed.77 According to the U.S. Bureau of Economic Analysis, real GDP grew by 6.4% in 
+9 
+the first quarter of 2021.78 
+10 
+Since January 2021, several government assistance programs were passed, which intended 
+11 
+to stimulate the U.S. economy. In early March, the Government passed a $1.9 trillion 
+12 
+American Rescue Plan which provided direct economic impact payments and extended 
+13 
+unemployment benefits.79 Other programs, such as the Paycheck Protection Program 
+14 
+continued to disburse aid to businesses. This infusion of cash into the economy has created 
+15 
+concerns about inflation. The Consumer Price Index (“CPI”), a common measure of 
+16 
+inflation, increased by 4.2% from April 2020 to  April 2021 – the largest 12-month increase 
+17 
+since September 2008.80 Rising inflation is introducing new uncertainties to the financial 
+18 
+markets and increasing the return required by investors to hold risky assets.  Specifically, 
+19 
+because the allowed ROE is a nominal return, an increase in inflation would result in a 
+20 
+reduction in the value of any allowed ROE.  Thus, with the risk of inflation increasing, there 
+21 
+ 
+77 I note that there are still concerns more globally about vaccine distribution and the spread of novel variants of the 
+COVID-19 virus.  
+78 U.S. Bureau of Economic Analysis, “Gross Domestic Product, First Quarter 2021,” April 29, 2021, accessed May 
+24, 2021, https://www.bea.gov/news/blog/2021-04-29/gross-domestic-product-first-quarter-2021  
+79 Alan Fram, “Congress Oks $1.9T virus relief bill in win for Biden, Dems,” Associated Press, March 11, 2021, 
+accessed May 24, 2021, https://apnews.com/article/joe-biden-bills-legislation-coronavirus-pandemic-
+7eb383e58c8fcf50f6f586b6d5cfc523   
+80 U.S. Bureau of Labor Statistics, “Consumer Price Index up 4.2% from April 2020 to April 2021,” May 19, 2021, 
+accessed May 24, 2021, https://www.bls.gov/opub/ted/2021/consumer-price-index-up-4-2-percent-from-april-2020-
+to-april-2021.htm.  
+
+
+--- Page 34 ---
+CASES 21-G-0073 & 21-E-0074 
+ORANGE AND ROCKLAND UTILITIES, INC.  
+VILLADSEN 
+ 
+ 
+Page 31 of 36 
+is an increased risk that the allowed ROE will be downward biased within a relatively short 
+1 
+time; e.g., a year. 
+2 
+Q43: How have recent global events impacted capital markets and the economy? 
+3 
+A43: Over the past several months, vaccines have become widely accessible throughout the U.S., 
+4 
+which has allowed portions of the economy to fully re-open. At the same time, concerns 
+5 
+about global vaccine distribution, COVID-19 variants, and inflation are presenting new 
+6 
+financial and economic uncertainties. As a result, the premium that investors require to hold 
+7 
+risky assets remains elevated, especially when measured on forward-looking methodologies 
+8 
+that estimate expected market returns. The VIX, which measures near-term volatility in the 
+9 
+market, reached an all-time high of 82.69 in March 2020 at the height of the pandemic. 
+10 
+However, the VIX has recently retreated to its long-term average or slightly below--between 
+11 
+16.25 and 37.21--with the highest level seen on January 27, 2021.81  
+12 
+FIGURE R- 10: VIX 
+13 
+ 
+14 
+ 
+81 Bloomberg accessed May 24, 2021 and Cboe VIX, accessed May 24, 2021, 
+https://www.cboe.com/tradable_products/vix/vix_historical_data/  
+0
+10
+20
+30
+40
+50
+60
+70
+80
+90
+2000
+2002
+2004
+2006
+2008
+2010
+2012
+2014
+2016
+2018
+2020
+Index Level
+Source: Bloomberg as of 4/30/2021
+Long Run Average: 19.5
+(1/2/1990 - 4/30/2021)
+Peak during Financial 
+Crisis of 80.86 
+(11/20/2008)
+VIX reaches all time high 
+of 82.69 (3/16/2020)
+
+
+--- Page 35 ---
+CASES 21-G-0073 & 21-E-0074 
+ORANGE AND ROCKLAND UTILITIES, INC.  
+VILLADSEN 
+ 
+ 
+Page 32 of 36 
+Other measures of investor risk, such as Bloomberg’s forward looking MRP remains 
+1 
+elevated relative to pre-pandemic levels. Bloomberg’s estimate of the MRP for the U.S. 
+2 
+increased to 8.95% as of the end of April, which is the highest level since March 2020. At 
+3 
+the time of my Direct Testimony, Bloomberg’s MRP was 7.85%.82 Bloomberg’s MRP 
+4 
+estimate remains elevated relative to pre-pandemic levels, even as 10-Year U.S. Treasury 
+5 
+yields increase (see Figure R-11 below). The lingering uncertainty in the market is further 
+6 
+evidenced by the MRP measured using FERC’s methodology, which has increased to 
+7 
+11.17% as of April 30, 2021. 
+8 
+FIGURE R-11: BLOOMBERG’S DAILY MARKET EQUITY RISK PREMIUM AND RISK FREE RATE 
+9 
+ 
+10 
+Source: Bloomberg accessed May 24, 2021, data through April 30, 2021. 
+11 
+Yields on U.S. Government bonds remain near historic lows despite improvements since the 
+12 
+historic low levels in 2020. (see Figure R-13 below). Yields on 10-year U.S. Treasury bonds 
+13 
+are currently at 1.63%.83 At the time of my Direct Testimony, yields were on 10-year U.S. 
+14 
+ 
+82 Bloomberg MRP estimates are measured relative to a 10-Year U.S. Treasury bond yield. 
+83 U.S. Department of Treasury, Daily Treasury Yield Curve Rates, accessed May 24, 2021, data as of May 21, 
+2021. https://www.treasury.gov/resource-center/data-chart-center/interest-rates/Pages/TextView.aspx?data=yield  
+0.00%
+2.00%
+4.00%
+6.00%
+8.00%
+10.00%
+12.00%
+
+
+--- Page 36 ---
+CASES 21-G-0073 & 21-E-0074 
+ORANGE AND ROCKLAND UTILITIES, INC.  
+VILLADSEN 
+ 
+ 
+Page 33 of 36 
+Treasury bonds were at 0.96%.84 Accomodative monetary policy, such as the Federal 
+1 
+Reserve’s quantitative easing program, continues to put downward pressure on interest rates 
+2 
+to support the financial markets and stimulate the economy.85  
+3 
+In the past year, several measures have been passed to provide direct aid to households and 
+4 
+businesses across the U.S. This infusion of cash into the economy and the initial re-opening 
+5 
+of the economy has led to a substantial increase in inflation over a relatively short period of 
+6 
+time. Since the time of my Direct Testimony, the CPI increased from 0.3(January 2021) to 
+7 
+0.8 (April 2021).86 As noted previously, the CPI has increased 4.2% in the past 12 months – 
+8 
+the largest 12 month increase since 2008.87 As shown in Figure R-12 below, the CPI is 
+9 
+currently higher than at any time in the past 10 years. If rising inflation trends persist, utilities 
+10 
+will face increasing cost recovery risks to the extent that actual costs exceed those measured 
+11 
+by a utility during its test period. 
+12 
+ 
+84 Villadsen Direct Testimony, p. 4. 
+85 U.S. Federal Reserve, “Federal Reserve Press Release,” April 28, 2021, 
+https://www.federalreserve.gov/monetarypolicy/files/monetary20210428a1.pdf 
+86 U.S. Bureau of Labor Statistics, CPI for All Urban Consumers 1 Month Change, Series ID CUSR0000SA0, 
+accessed May 24, 2021, https://data.bls.gov/timeseries/CUSR0000SA0&output_view=pct_1mth 
+87 U.S. Bureau of Labor Statistics, “Consumer Price Index up 4.2% from April 2020 to April 2021,” May 19, 2021, 
+accessed May 24, 2021, https://www.bls.gov/opub/ted/2021/consumer-price-index-up-4-2-percent-from-april-2020-
+to-april-2021.htm. 
+
+
+--- Page 37 ---
+CASES 21-G-0073 & 21-E-0074 
+ORANGE AND ROCKLAND UTILITIES, INC.  
+VILLADSEN 
+ 
+ 
+Page 34 of 36 
+FIGURE R-12: CONSUMER PRICE INDEX (ALL URBAN CONSUMERS) 
+1 
+ 
+2 
+Q44: What are the expectations going forward? 
+3 
+A44: The impact on the economy and unemployment will depend on how long the economy 
+4 
+remains partially shut down, but the economy is expected to continue to recover in mid-2021 
+5 
+based on recent forecasts. Recent surveys by economists, such as Blue Chip Economic 
+6 
+Indicators survey, indicate that U.S. real GDP will increase by 6.7% in 2021 and 4.4% in 
+7 
+2022 for a nominal GDP growth of about 9.7% and 6.8%, respectively.88 In August 2020, 
+8 
+the Federal Reserve announced a policy change whereby they would target inflation of 2% 
+9 
+on average, noting that the Federal Reserve would hold overnight borrowing interest rates 
+10 
+lower for longer.89 Recent projections from the FOMC clarified that policy rates will remain 
+11 
+at current levels through at least 202390 and will continue its quantitative easing programs 
+12 
+ 
+88 Wolters Kluwer Blue Chip Economic Indicators, June 2021, pp. 2-3. 
+89 U.S. Federal Reserve, “Federal Open Market Committee announces approval of updates to its Statement on 
+Longer-Run Goals and Monetary Policy Strategy,” August 27, 2020, accessed March 2, 2021, 
+https://www.federalreserve.gov/newsevents/pressreleases/monetary20200827a.htm. 
+90 U.S. Federal Reserve, “March 17, 2021: FOMC Projections materials, accessible version,” March 17, 2020, 
+https://www.federalreserve.gov/monetarypolicy/fomcprojtabl20210317.htm. 
+-0.8
+-0.6
+-0.4
+-0.2
+0
+0.2
+0.4
+0.6
+0.8
+1
+Jan-11
+Sep-11
+May-12
+Jan-13
+Sep-13
+May-14
+Jan-15
+Sep-15
+May-16
+Jan-17
+Sep-17
+May-18
+Jan-19
+Sep-19
+May-20
+Jan-21
+Consumer Price Index
+
+
+--- Page 38 ---
+CASES 21-G-0073 & 21-E-0074 
+ORANGE AND ROCKLAND UTILITIES, INC.  
+VILLADSEN 
+ 
+ 
+Page 35 of 36 
+until economic conditions improve.91 This will likely continue to exert downward pressure 
+1 
+on interest rates over the near to medium term. Blue Chip Economic Indicators forecasts 10-
+2 
+year U.S. Government bond yields to average 1.7% in 2021 and 2.1% in 2022 (see Figure 
+3 
+R-13 below).92 
+4 
+FIGURE R-13: HISTORICAL AND PROJECTED 10-YEAR TREASURY BOND YIELDS 
+5 
+ 
+6 
+Source: Historic data from Bloomberg accessed May 24, 2021, data through April 30, 2021; 
+7 
+Forecasts from Blue Chip Economic Indicators March 2021 and June 2021. 
+8 
+Q45: How does this affect the cost of equity estimation for Orange and Rockland? 
+9 
+A45: As stated in my Direct Testimony, the cost of equity and capital structure set forth in this 
+10 
+proceeding are expected to be in effect beyond the current extraordinary impacts of the 
+11 
+COVID-19 pandemic. Consequently, the analysis and recommendations should reflect 
+12 
+expected market conditions that will prevail over the relevant rate period and not exclusively 
+13 
+current market conidtions. As discussed above, many of the inputs to the cost of equity 
+14 
+estimation methodologies currently remain at unprecedented levels. Relying only on current 
+15 
+economic and financial conditions to estimate Orange and Rockland’ cost of equity would 
+16 
+ 
+91 U.S. Federal Reserve, “Federal Reserve Press Release,” April 28, 2021, 
+https://www.federalreserve.gov/monetarypolicy/files/monetary20210428a1.pdf  
+92 Wolters Kluwer Blue Chip Economic Indicators, June 2021, pp. 2-3. 
+0%
+1%
+2%
+3%
+4%
+5%
+6%
+7%
+2000
+2001
+2002
+2003
+2004
+2005
+2006
+2007
+2008
+2009
+2010
+2011
+2012
+2013
+2014
+2015
+2016
+2017
+2018
+2019
+2020
+2021
+2022
+2023
+2024
+Yield
+Historical 10 year
+U.S. Treasury Bond
+Forecasts
+
+
+--- Page 39 ---
+CASES 21-G-0073 & 21-E-0074 
+ORANGE AND ROCKLAND UTILITIES, INC.  
+VILLADSEN 
+ 
+ 
+Page 36 of 36 
+unfairly lock Orange and Rockland and their customers into the current economic and 
+1 
+financial environment and would not provide a fair return. The current financial and 
+2 
+economic conditions continue to create an exorbinante amount of uncertainty about the 
+3 
+future.   
+4 
+Q46: Does this conclude your Rebuttal Testimony? 
+5 
+A46: Yes, it does. 
+6 
+
+
+--- Page 40 ---
+Full Sample
+Estimated Growth Rates of the Full Sample
+Thomson Reuters IBES Estimate
+Value Line
+Company
+Long-Term 
+Growth Rate
+Number of 
+Estimates
+EPS Year 
+2020 Estimate
+EPS Year 2023-
+2025 Estimate
+Annualized
+Growth
+Rate
+Combined Growth 
+Rate
+[1]
+[2]
+[3]
+[4]
+[5]
+[6]
+ALLETE
+7.0%
+1
+3.10
+4.25
+8.2%
+7.6%
+Alliant Energy
+5.5%
+2
+2.45
+3.00
+5.2%
+5.4%
+Amer. Elec. Power
+5.4%
+2
+4.25
+5.50
+6.7%
+5.8%
+Ameren Corp.
+6.0%
+2
+3.50
+4.50
+6.5%
+6.2%
+Atmos Energy
+7.3%
+2
+4.70
+6.00
+6.3%
+6.9%
+Avista Corp.
+5.8%
+1
+1.85
+2.50
+7.8%
+6.8%
+Black Hills
+4.7%
+1
+3.55
+4.25
+4.6%
+4.6%
+Chesapeake Utilities
+4.7%
+1
+3.90
+5.50
+9.0%
+6.9%
+CMS Energy Corp.
+7.1%
+2
+2.60
+3.50
+7.7%
+7.3%
+Consol. Edison
+2.5%
+3
+3.95
+5.00
+6.1%
+3.4%
+Dominion Energy
+2.7%
+3
+3.05
+4.25
+8.6%
+4.2%
+DTE Energy
+5.9%
+4
+6.70
+8.50
+6.1%
+6.0%
+Edison Int'l
+1.2%
+2
+1.25
+5.25
+43.2%
+15.2%
+Entergy Corp.
+5.4%
+2
+5.00
+7.00
+8.8%
+6.5%
+Eversource Energy
+6.4%
+4
+3.60
+4.50
+5.7%
+6.3%
+Exelon Corp.
+-3.5%
+2
+2.70
+3.50
+6.7%
+-0.1%
+Hawaiian Elec.
+3.3%
+1
+1.75
+2.00
+3.4%
+3.3%
+IDACORP Inc.
+2.6%
+1
+4.65
+5.50
+4.3%
+3.4%
+MGE Energy
+4.4%
+1
+2.65
+3.00
+3.1%
+3.8%
+New Jersey Resources
+6.0%
+1
+1.90
+2.40
+6.0%
+6.0%
+NiSource Inc.
+1.8%
+1
+1.30
+2.05
+12.1%
+6.9%
+Northwest Natural
+3.3%
+1
+2.35
+3.20
+8.0%
+5.7%
+NorthWestern Corp.
+3.7%
+3
+3.30
+4.00
+4.9%
+4.0%
+OGE Energy
+2.4%
+1
+2.10
+2.50
+4.5%
+3.4%
+ONE Gas Inc.
+5.0%
+1
+3.50
+4.75
+7.9%
+6.5%
+Otter Tail Corp.
+9.0%
+1
+2.15
+2.75
+6.3%
+7.7%
+Pinnacle West Capital
+3.4%
+3
+4.95
+6.00
+4.9%
+3.8%
+Portland General
+4.3%
+2
+1.45
+3.00
+19.9%
+9.5%
+PPL Corp.
+-16.2%
+1
+2.40
+2.75
+3.5%
+-6.4%
+Public Serv. Enterprise
+1.5%
+3
+3.40
+4.25
+5.7%
+2.5%
+Sempra Energy
+6.3%
+3
+7.20
+9.75
+7.9%
+6.7%
+South Jersey Inds.
+10.7%
+1
+1.50
+2.50
+13.6%
+12.2%
+Southern Co.
+4.6%
+2
+3.10
+3.75
+4.9%
+4.7%
+Southwest Gas
+4.0%
+1
+3.85
+6.25
+12.9%
+8.4%
+Spire Inc.
+4.7%
+2
+1.10
+5.15
+47.1%
+18.8%
+Unitil Corp.
+4.8%
+1
+n/a
+n/a
+n/a
+4.8%
+WEC Energy Group
+5.9%
+3
+3.75
+4.75
+6.1%
+6.0%
+Xcel Energy Inc.
+5.9%
+2
+2.75
+3.50
+6.2%
+6.0%
+Sources and Notes:
+[1] - [2]: Thomson Reuters as of October 15, 2020.
+[3] - [4]: From Valueline Investment Analyzer as of October 15, 2020.
+[5]: ([4] / [3]) ^ (1/4) - 1.
+[6]: ([1] x [2] + [5]) / ([2] + 1).
+Weighted average growth rate. If information is missing from one source, the weighted average is based solely on the other source.
+Exhibit___BV-3
+Page 1 of 1
+
+
+--- Page 41 ---
+Schedule No. BV-16 
+Risk Premiums Determined by Relationship Between 
+Authorized ROEs111 and Long-term Treasury Bond Rates 
+During the Period 1990 - 2020 
+Includes Utility Yield Spread Adjustment 
+Electric Utilities 
+Risk Premium = A0 + (A1 x Treasury Bond Rate) 
+R Squared 
+Estimate of Intercept (Ao) 
+Estimate of Slope (A1 ) 
+Predicted Risk 
+Premium 
+7.34% 
+Sources and Notes: 
++ 
+0.853 
+8.53% 
+-0.551 
+Exp. Treasury 
+Bond Rate 
+2.15% 
+= 
+Est. Cost of Equity for All 
+Natural Gas Utilities 
+9.5% 
+[1]: Authorized ROE Data from S&P Market Intelligence as of 09/30/2020. 
+[2]: October 2020 Blue Chip consensus forecast for 2022 10 year T-bill yield+ maturity 
+premium between 10 year and 20 year U.S. Government bonds+ utility yield spread 
+adjustment. 
+See Regression Results for derivation of regression coefficients Ao and A1 
+Exhibit___BV-4
+Page 1 of 1

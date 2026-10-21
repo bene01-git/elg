@@ -1,0 +1,2510 @@
+--- Page 1 ---
+BEFORE THE 
+STATE OF NEW YORK 
+PUBLIC SERVICE COMMISSION 
+ 
+ 
+Proceeding on Motion of the Commission as 
+to the Rates, Charges, Rules and Regulations 
+of New York State Electric & Gas Corporation 
+for Electric Service 
+ 
+Proceeding on Motion of the Commission as 
+to the Rates, Charges, Rules and Regulations 
+of New York State Electric & Gas Corporation 
+for Gas Service 
+ 
+Proceeding on Motion of the Commission as 
+to the Rates, Charges, Rules and Regulations 
+of Rochester Gas and Electric Corporation for 
+Electric Service 
+ 
+Proceeding on Motion of the Commission as 
+to the Rates, Charges, Rules and Regulations 
+of Rochester Gas and Electric Corporation for 
+Gas Service 
+ 
+ 
+ 
+ 
+CASE NO.  22-E-0317 
+ 
+ 
+ 
+ 
+CASE NO.  22-G-0318 
+ 
+ 
+ 
+ 
+CASE NO.  22-E-0319 
+ 
+ 
+ 
+ 
+CASE NO.  22-G-0320 
+ 
+ 
+ 
+ 
+Direct Testimony 
+ 
+of 
+ 
+JEFFRY POLLOCK 
+ 
+On Behalf of 
+ 
+Multiple Intervenors 
+ 
+ 
+ 
+ 
+ 
+September 26, 2022 
+ 
+ 
+ 
+
+
+--- Page 2 ---
+Jeffry Pollock 
+ 
+Direct Testimony 
+ 
+Page i 
+ 
+ 
+ 
+ 
+J . P O L L O C K  
+I N C O R P O R A T E D  
+BEFORE THE 
+STATE OF NEW YORK 
+PUBLIC SERVICE COMMISSION 
+ 
+ 
+Proceeding on Motion of the Commission as 
+to the Rates, Charges, Rules and Regulations 
+of New York State Electric & Gas Corporation 
+for Electric Service 
+ 
+Proceeding on Motion of the Commission as 
+to the Rates, Charges, Rules and Regulations 
+of New York State Electric & Gas Corporation 
+for Gas Service 
+ 
+Proceeding on Motion of the Commission as 
+to the Rates, Charges, Rules and Regulations 
+of Rochester Gas and Electric Corporation for 
+Electric Service 
+ 
+Proceeding on Motion of the Commission as 
+to the Rates, Charges, Rules and Regulations 
+of Rochester Gas and Electric Corporation for 
+Gas Service 
+ 
+ 
+ 
+ 
+CASE NO.  22-E-0317 
+ 
+ 
+ 
+ 
+CASE NO.  22-G-0318 
+ 
+ 
+ 
+ 
+CASE NO.  22-E-0319 
+ 
+ 
+ 
+ 
+CASE NO.  22-G-0320 
+ 
+ 
+ 
+TABLE OF CONTENTS 
+ 
+ 
+TABLE OF CONTENTS ................................................................................................... i 
+GLOSSARY OF ACRONYMS ......................................................................................... ii 
+1. INTRODUCTION, QUALIFICATIONS AND SUMMARY .............................................. 1 
+Summary ................................................................................................................. 4 
+2. ELECTRIC ECOS STUDIES ....................................................................................... 8 
+Allocation of Transmission Costs ............................................................................. 9 
+Revised Electric ECOS Studies ............................................................................. 15 
+3. GAS ECOS STUDIES ............................................................................................... 16 
+4.  CLASS REVENUE ALLOCATION ............................................................................ 17 
+5.  RATE DESIGN ......................................................................................................... 24 
+Customer Charges ................................................................................................. 25 
+Standby Rates ....................................................................................................... 26 
+Revenue Decoupling Mechanism ........................................................................... 29 
+6.  CONCLUSION ......................................................................................................... 33 
+
+
+--- Page 3 ---
+Jeffry Pollock 
+ 
+Direct Testimony 
+ 
+Page ii 
+ 
+ 
+J . P O L L O C K  
+I N C O R P O R A T E D  
+ 
+GLOSSARY OF ACRONYMS 
+ 
+Term 
+Definition 
+1CP 
+Demand Coincident With the Annual System Peak 
+2CP 
+Demand Coincident With the July/August System Peaks 
+12CP 
+Twelve Coincident Peak 
+Commission 
+New York State Public Service Commission 
+Companies 
+New York State Electric & Gas Corporation and Rochester 
+Gas and Electric Corporation, collectively 
+CP 
+Coincident Peak 
+ECOS 
+Embedded Cost-of-Service 
+FERC 
+Federal Energy Regulatory Commission 
+kW / kWh 
+Kilowatt / Kilowatt-Hour 
+MCOS 
+Marginal Cost-of-Service 
+MI 
+Multiple Intervenors 
+NYSEG 
+New York State Electric & Gas Corporation 
+RDM 
+Revenue Decoupling Mechanism 
+RG&E 
+Rochester Gas and Electric Corporation 
+RROR 
+Relative Rate of Return 
+SC 
+Service Class 
+SC 1 
+NYSEG’s Residential Regular RG&E’s Residential 
+SC 1S C 
+RG&E’s Commercial Sales 
+SC 1S H 
+NYSEG’s Residential Heating 
+SC 1S IM 
+RG&E’s Industrial and Municipal Sales 
+SC 1S NH 
+NYSEG’s Residential Non-Heating 
+SC 1S RH 
+RG&E’s Residential Heating Sales 
+SC 1S RNH 
+RG&E’s Residential Non-Heat Sales 
+SC 1T 
+NYSEG’s SC 1 Large Firm Transportation 
+SC 2 
+NYSEG’s General Service with Demand < 500 kW 
+RG&E’s General Service Small 
+SC 2S 
+NYSEG’s General Service 
+SC 3P 
+NYSEG’s Primary with Demand > 500 kW 
+SC 3S 
+NYSEG’s Sub-transmission with Demand > 500 kW 
+SC 3 
+RG&E’s SC 3 Transport used when referencing SC 3 LC 
+and SC 3 IM in the aggregate 
+
+
+--- Page 4 ---
+Jeffry Pollock 
+ 
+Direct Testimony 
+ 
+Page iii 
+ 
+ 
+J . P O L L O C K  
+I N C O R P O R A T E D  
+Term 
+Definition 
+SC 3 HP 
+RG&E’s SC 3 High Pressure Transport 
+SC 3 IM 
+RG&E’s SC 3 Industrial and Municipal Transport 
+SC 3 LC 
+RG&E’s SC 3 Large Commercial Transport 
+SC 4 
+RG&E’s Residential TOU 
+SC 5T 
+NYSEG’s Small Firm Transportation 
+SC 5T RH 
+RG&E’s Residential Heating Transport 
+SC 5T RNH 
+RG&E’s Residential Non-Heat Transport 
+SC 5T SC 
+RG&E’s Small Commercial Transport 
+SC 5T IM 
+RG&E’s Industrial and Municipal Transport 
+SC 6 
+NYSEG’s General Service Without Demand 
+SC 7 
+RG&E’s General Service 12 kW Minimum 
+SC 7-1 
+NYSEG’s SC 7 Secondary sub-class 
+SC 7-2 
+NYSEG’s SC 7 Primary sub-class 
+SC 7-3 
+NYSEG’s SC 7 Sub-transmission sub-class 
+SC 7-4 
+NYSEG’s SC 7 Transmission sub-class 
+SC 7T DG 
+RG&E Non-Residential Distribution Generation Transport 
+SC 8 
+NYSEG’s Residential TOU 
+SC 8P 
+RG&E’s SC 8 Primary sub-class 
+SC 8S 
+RG&E’s SC 8 Secondary sub-class 
+SC 8ST 
+RG&E’s SC 8 Sub-transmission sub-classes, used when 
+referencing SC 8STI and SC 8STC in the aggregate 
+SC 8STC 
+RG&E’s SC 8 Sub-transmission Commercial sub-class 
+SC 8STI 
+RG&E’s SC 8 Sub-transmission Industrial sub-class 
+SC 8SubS 
+RG&E’s SC 8 Substation sub-class 
+SC 8T 
+RG&E’s SC 8 Transmission sub-class 
+SC 9 
+NYSEG’s General Service Without Demand TOU 
+RG&E’s General Service TOU 
+SC 9S 
+NYSEG’s Industrial Manufacturing 
+SC 12 
+NYSEG’s Residential Large TOU 
+SC 13T H 
+NYSEG’s Residential Aggregation Heat 
+SC 13T NH 
+NYSEG’s Residential Aggregation Non-Heat 
+SC 14T 
+NYSEG’s Non-Residential Aggregation 
+SC 16T 
+NYSEG’s Non-Residential Distribution Generation 
+
+
+--- Page 5 ---
+Jeffry Pollock 
+ 
+Direct Testimony 
+ 
+Page 1 
+ 
+1.  Introduction, Qualifications, 
+ and Summary 
+ 
+J . P O L L O C K  
+I N C O R P O R A T E D  
+DIRECT TESTIMONY OF JEFFRY POLLOCK 
+1. INTRODUCTION, QUALIFICATIONS AND SUMMARY 
+Q 
+PLEASE STATE YOUR NAME AND BUSINESS ADDRESS. 
+1 
+A 
+Jeffry Pollock; 12647 Olive Blvd., Suite 585, St. Louis, MO 63141. 
+2 
+Q 
+WHAT IS YOUR OCCUPATION AND BY WHOM ARE YOU EMPLOYED? 
+3 
+A 
+I am an energy advisor and President of J. Pollock, Incorporated. 
+4 
+Q 
+PLEASE STATE YOUR EDUCATIONAL BACKGROUND AND EXPERIENCE. 
+5 
+A 
+I have a Bachelor of Science Degree in Electrical Engineering and a Master of 
+6 
+Business Administration from Washington University, in St. Louis.  Since graduating 
+7 
+in 1975, I have been engaged in a variety of consulting assignments, including energy 
+8 
+procurement and regulatory matters in the United States and several Canadian 
+9 
+provinces. Additional details concerning my qualifications are provided in 
+10 
+Exhibit ___ (JP-1) to this testimony.  A partial list of my appearances in regulatory 
+11 
+proceedings is provided in Exhibit ___ (JP-2).   
+12 
+Q 
+ON WHOSE BEHALF ARE YOU TESTIFYING IN THESE PROCEEDINGS? 
+13 
+A 
+I am testifying on behalf of Multiple Intervenors (“MI”), an association of approximately 
+14 
+55 large industrial, commercial, and institutional energy consumers with manufacturing 
+15 
+and other facilities located throughout New York State, including the New York State 
+16 
+Electric & Gas Corporation (“NYSEG”) and Rochester Gas and Electric Corporation 
+17 
+(“RG&E”) service territories.  NYSEG and RG&E collectively are referred to herein as 
+18 
+the “Companies.” 
+19 
+
+
+--- Page 6 ---
+Jeffry Pollock 
+ 
+Direct Testimony 
+ 
+Page 2 
+ 
+1.  Introduction, Qualifications, 
+ and Summary 
+ 
+J . P O L L O C K  
+I N C O R P O R A T E D  
+Q 
+WHAT ISSUES ARE YOU ADDRESSING IN YOUR TESTIMONY? 
+1 
+A 
+I am addressing: 
+2 
+• 
+The Electric Embedded Cost-of-Service (“ECOS”) studies filed by the 
+3 
+Companies;  
+4 
+• 
+The Gas ECOS studies filed by the Companies;  
+5 
+• 
+Electric and gas class revenue allocation;  
+6 
+• 
+Electric and gas rate design for large non-residential customers only, 
+7 
+specifically those taking electric delivery service under NYSEG’s SC 7 
+8 
+and RG&E’s SC 8, and gas delivery service under NYSEG’s SC 1T and 
+9 
+RG&E’s SC 3; 
+10 
+• 
+The design of the “status-quo” standby rates;1 and 
+11 
+• 
+The proposed changes to the Revenue Decoupling Mechanism 
+12 
+(“RDM”).    
+13 
+In discussing the Electric ECOS studies, revenue allocation and rate design issues, 
+14 
+my testimony reflects the fact that NYSEG’s SC 7 and RG&E’s SC 8 include several 
+15 
+different sub-classes based primarily on service voltage.  NYSEG’s SC 7 has the 
+16 
+following four sub-classes:  
+17 
+(1) SC 7-1 (Secondary);  
+18 
+(2) SC 7-2 (Primary);  
+19 
+(3) SC 7-3 (Sub-transmission); and  
+20 
+(4) SC 7-4 (Transmission).   
+21 
+RG&E’s SC 8 has the following six sub-classes:  
+22 
+(1) SC 8P (Primary);  
+23 
+(2) SC 8S (Secondary);  
+24 
+(3) SC 8SubT Comm (Sub-transmission Commercial);  
+25 
+ 
+1 In Case No. 15-E-0751, the Commission approved an optional phase-in period for customers to 
+provide transition from the current standby rates to future standby rates pursuant to a recently-
+approved, new methodology for calculating standby rates.  See In the Matter of the Value of Distributed 
+Energy Resources, Case No. 15-E-0751, Order Establishing an Allocated Cost of Service Methodology 
+for Standby and Buyback Service Rates and Energy storage Contract Demand Charge Exemptions at 
+98 (March 16, 2022).   
+
+
+--- Page 7 ---
+Jeffry Pollock 
+ 
+Direct Testimony 
+ 
+Page 3 
+ 
+1.  Introduction, Qualifications, 
+ and Summary 
+ 
+J . P O L L O C K  
+I N C O R P O R A T E D  
+(4) SC 8SubT Ind (Sub-transmission Industrial);  
+1 
+(5) SC 8Sub (Substation); and  
+2 
+(6) SC 8T (Transmission).  
+3 
+In discussing the Gas ECOS studies, revenue allocation and rate design issues, my 
+4 
+testimony reflects the fact that large firm transportation service is provided by NYSEG 
+5 
+under SC 1T and by RG&E under SC 3.  RG&E’s SC 3 includes the following sub-
+6 
+classes:  
+7 
+(1) 
+Large Transportation Service (“SC 3”); and  
+8 
+(2) 
+High Pressure Transportation (“SC 3-HP”). 
+9 
+Additionally, for certain Gas ECOS Study purposes, RG&E separates SC 3 into two 
+10 
+groups of customers: (a) Large Commercial Transportation (“SC 3 LC”); and (b) 
+11 
+Industrial and Municipal Transportation ("SC 3 IM"), notwithstanding the fact that all 
+12 
+SC 3 customers – other than those electing the High Pressure (HP) Transportation 
+13 
+option – are subject to the same firm transportation rates regardless of whether they 
+14 
+are large commercial, industrial, or municipal customers.      
+15 
+Q 
+ARE YOU SPONSORING ANY EXHIBITS WITH YOUR TESTIMONY?   
+16 
+A 
+Yes.  I am sponsoring Exhibit ___ (JP-1) through Exhibit ___ (JP-7). 
+17 
+Q 
+DO YOU AGREE WITH OR SUPPORT THE COMPANIES’ PROPOSED ELECTRIC 
+18 
+AND GAS REVENUE REQUIREMENTS? 
+19 
+A 
+No.  The scope of my testimony does not include the Companies’ proposed revenue 
+20 
+requirements.  For ease of review and understanding, the information presented in my 
+21 
+testimony, and in certain of my exhibits, reflects the Companies’ proposed revenue 
+22 
+requirements.  Importantly, they are being used herein solely for illustrative purposes 
+23 
+
+
+--- Page 8 ---
+Jeffry Pollock 
+ 
+Direct Testimony 
+ 
+Page 4 
+ 
+1.  Introduction, Qualifications, 
+ and Summary 
+ 
+J . P O L L O C K  
+I N C O R P O R A T E D  
+to depict MI’s recommended electric and gas revenue allocations.  Nothing in my 
+1 
+testimony or exhibits is intended to convey that MI supports or accepts the Companies’ 
+2 
+proposed revenue requirements in these proceedings.  In fact, it is my understanding 
+3 
+that MI opposes the Companies’ proposed electric and gas revenue requirements. 
+4 
+Summary 
+5 
+Q 
+PLEASE SUMMARIZE YOUR FINDINGS AND RECOMMENDATIONS. 
+6 
+A 
+My findings and recommendations are as follows:   
+7 
+Electric ECOS Studies 
+8 
+• 
+The Companies’ Electric ECOS studies have been significantly improved since the 
+9 
+last rate proceedings (Case No. 19-E-0378 et al.).  Specifically, the Companies have 
+10 
+provided a current analysis of the customer-related portion of the distribution network, 
+11 
+which properly results in classifying 63.3% (NYSEG) and 51.1% (RG&E) of distribution 
+12 
+plant and related expenses as a customer-related cost. 
+13 
+• 
+However, the Companies continue to allocate transmission costs to service classes 
+14 
+using the average of the twelve coincident peak (“12CP”) method.  The 12CP method 
+15 
+fails to recognize cost causation because both NYSEG and RG&E are predominately 
+16 
+summer-peaking utilities.  It is also contrary to how the Companies are allocating 
+17 
+production demand-related costs, which recognizes the importance of the summer 
+18 
+peaks.  Specifically, for production demand-related costs, RG&E is proposing to use 
+19 
+the contribution to the annual system peak (“1CP”) method, while NYSEG is proposing 
+20 
+to average the contributions to the summer and winter annual peak.   
+21 
+• 
+NYSEG’s annual winter peak demand is only 87% of the annual system peak.  
+22 
+Accordingly, it is inappropriate to average annual summer and winter peak demands 
+23 
+to allocate demand-related costs.  The better approach is to average the coincident 
+24 
+demands in July and August (“2CP”) because it would better reflect the cost drivers 
+25 
+for both production and transmission capacity than averaging either the annual 
+26 
+summer/winter or 12CPs.   
+27 
+• 
+Accordingly, MI recommends the 2CP (1CP) method to allocate production demand 
+28 
+and transmission plant and related expenses for NYSEG (RG&E).   
+ 
+29 
+
+
+--- Page 9 ---
+Jeffry Pollock 
+ 
+Direct Testimony 
+ 
+Page 5 
+ 
+1.  Introduction, Qualifications, 
+ and Summary 
+ 
+J . P O L L O C K  
+I N C O R P O R A T E D  
+Gas ECOS Studies 
+1 
+• 
+Like the Electric ECOS studies, the Gas ECOS studies have been improved since the 
+2 
+Companies’ last rate proceedings.  This includes conducting a more current analysis 
+3 
+to determine that 51.5% (43.6%) of distribution mains should be classified as a 
+4 
+customer-related cost for NYSEG (RG&E).  
+5 
+• 
+With this refinement, the Gas ECOS studies are appropriate and should be used to 
+6 
+determine class revenue allocation in this proceeding. 
+7 
+Class Revenue Allocation 
+8 
+• 
+The results of MI’s revised Electric ECOS studies should be the primary factor in 
+9 
+determining class revenue allocation.  In addition, gradualism, rate administration, and 
+10 
+stability also should be considered. 
+11 
+• 
+The results of the Companies’ updated Gas ECOS studies should be the primary factor 
+12 
+in determining the allocation of any gas delivery rate increase authorized in this 
+13 
+proceeding.  In addition, gradualism, rate administration, and stability also should be 
+14 
+considered. 
+15 
+• 
+MI does not object to the proposed 15% tolerance band.   
+16 
+• 
+MI does not object to a cap of 1.25 times the system average increase for those 
+17 
+classes that are under-contributing (i.e., with relative rates of return below 0.85) and 
+18 
+0.75 times the system average increase for those classes that are over-contributing 
+19 
+(i.e., with relative rates of return above 1.15).  However, the Companies’ proposed 
+20 
+electric class revenue allocations do not adhere to the proposed cap and floor 
+21 
+increases.  In some instances, the electric customer classes that are under-
+22 
+contributing would receive less than 1.25 times the system average increase, while 
+23 
+customer classes above the tolerance band would receive increases above the 0.75 
+24 
+times floor. 
+25 
+• 
+MI recommends the classes that are under-contributing should receive delivery rate 
+26 
+increases as closely as practicable to the proposed 1.25 times cap, while classes that 
+27 
+are over-contributing should receive delivery rate increases as closely as practicable 
+28 
+to the proposed 0.75 times floor. 
+29 
+Rate Design 
+30 
+• 
+The Companies are proposing no increase in the electric Customer charges applicable 
+31 
+to the large customers with the exception of SC 7-1 and SC 7-2.  In these instances, 
+32 
+NYSEG is proposing to increase the Customer charges based on the results of the 
+33 
+Marginal Cost-of-Service (“MCOS”) Study. 
+34 
+
+
+--- Page 10 ---
+Jeffry Pollock 
+ 
+Direct Testimony 
+ 
+Page 6 
+ 
+1.  Introduction, Qualifications, 
+ and Summary 
+ 
+J . P O L L O C K  
+I N C O R P O R A T E D  
+• 
+With respect to gas transportation rates, the Companies are proposing to increase the 
+1 
+NYSEG SC 1T Minimum Monthly charge but retain the current RG&E SC 3 Minimum 
+2 
+Monthly charge.  The increase in the SC 1T Minimum Monthly charge is supported by 
+3 
+NYSEG’s Gas MCOS study.  However, RG&E Gas MCOS study also supports an 
+4 
+increase in the SC 3 Minimum Monthly charge to up to $3,100 per month. 
+5 
+• 
+Absent changing the SC 3 Minimum Monthly charge, all of the increases would be 
+6 
+recovered in the Delivery charges.  As a result, large SC 3 customers would 
+7 
+experience increases as high as 38% — nearly 3 times the class average delivery rate 
+8 
+increase. 
+9 
+• 
+RG&E’s SC 3 Minimum Monthly charge should be increased to at least $2,800 per 
+10 
+month, which is the same as NYSEG’s proposed SC 1T Minimum Monthly charge.   
+11 
+Standby Rates 
+12 
+• 
+Consistent with the Commission’s Order in Case No. 15-E-0751, the Companies are 
+13 
+proposing to give customers an option to transition from the standby rates as designed 
+14 
+using the previously approved methodology to the new standby rate methodology for 
+15 
+up to five years.  Alternatively, customers can opt to migrate immediately to rates 
+16 
+calculated using the new standby rate methodology. 
+17 
+• 
+In implementing standby rates using the existing methodology, some of the increases 
+18 
+proposed by the Companies would be drastically higher than the increases to the 
+19 
+corresponding parent rates.  For example, the Contract Demand and Daily Demand 
+20 
+charges for RG&E’s SC 8 SubT Comm customers would increase by 45.1%, whereas 
+21 
+the parent Demand charge would increase by only 22.3%.   
+22 
+• 
+Raising the SC 8 SubT Comm standby Demand charges substantially more than the 
+23 
+corresponding increase in the SC 8 SubT Demand charges is unreasonable, and it 
+24 
+unduly discriminates against standby customers.   
+25 
+• 
+Accordingly, the increases in the standby Contract and Daily Demand charges for the 
+26 
+SC 8 SubT Comm sub-class should more closely approximate the corresponding 
+27 
+increase in the SC 8 SubT Demand charges. 
+28 
+Revenue Decoupling Mechanism 
+29 
+• 
+The Companies’ proposals to extend the RDM to include standby rates should be 
+30 
+rejected.  Standby service, by its very nature, is highly variable and non-reoccurring.  
+31 
+It would be impossible for the Companies to accurately forecast standby usage.  Thus, 
+32 
+implementing an RDM for standby rates could cause dramatic swings (both up and 
+33 
+down).  This is incompatible with sound rate design. 
+ 
+34 
+
+
+--- Page 11 ---
+Jeffry Pollock 
+ 
+Direct Testimony 
+ 
+Page 7 
+ 
+1.  Introduction, Qualifications, 
+ and Summary 
+ 
+J . P O L L O C K  
+I N C O R P O R A T E D  
+• 
+There is no justification for extending the RDM to NYSEG’s SC 7-4.  The RDM is 
+1 
+effectively a sales true up because it allows the Companies to impose a surcharge 
+2 
+(refund) on a class/sub-class where actual sales revenues fall below (exceed) 
+3 
+predicted sales revenues.  Thus, RDM absolves the Companies from forecast risk and 
+4 
+shifts that risk onto customers.   
+5 
+• 
+SC 7-4 customers are large and relatively few in number.  They are engaged in 
+6 
+manufacturing and commodity businesses prone to variations due to economic and 
+7 
+business cycles and geopolitical conditions.  Imposing an RDM would be 
+8 
+unnecessarily punitive and incompatible with sound rate design.  
+9 
+
+
+--- Page 12 ---
+Jeffry Pollock 
+ 
+Direct Testimony 
+ 
+Page 8 
+ 
+2.  Electric ECOS Study 
+ 
+J . P O L L O C K  
+I N C O R P O R A T E D  
+2. ELECTRIC ECOS STUDIES 
+Q 
+WHAT IS AN EMBEDDED COST-OF-SERVICE STUDY? 
+1 
+A 
+An ECOS study is an analysis used to determine each class’s responsibility for a 
+2 
+utility’s costs.  Thus, it determines whether the revenues a class generates cover the 
+3 
+class’s cost of service.  An ECOS study separates the utility's total costs into portions 
+4 
+incurred on behalf of the various customer groups.  Most of a utility's costs are incurred 
+5 
+to jointly serve many customers.  For purposes of revenue allocation and rate design, 
+6 
+customers are grouped into homogeneous classes according to their usage patterns 
+7 
+and service characteristics.  The procedures typically used in an ECOS study are 
+8 
+described in more detail in Exhibit ___ (JP-3).   
+9 
+Q 
+HAVE THE COMPANIES CONDUCTED ELECTRIC ECOS STUDIES IN THESE 
+10 
+PROCEEDINGS?  
+11 
+A 
+Yes.  The Companies each presented an Electric ECOS study in the initial filing.  
+12 
+These studies were subsequently updated.2  My review focused on the updated 
+13 
+Electric ECOS studies.   
+14 
+Q 
+HAVE THE COMPANIES MADE ANY SIGNIFICANT CHANGES IN THEIR 
+15 
+ELECTRIC ECOS STUDIES SINCE THE LAST RATE PROCEEDINGS? 
+16 
+A 
+Yes.  The Companies have made significant improvements since the last rate 
+17 
+proceedings.  In addition to addressing many of MI’s primary concerns in those 
+18 
+proceedings, the Companies have conducted and used a current study to quantify the 
+19 
+portion of distribution network costs (investment booked to FERC Account Nos. 364-
+20 
+ 
+2  Companies’ Supplemental Responses to MI-3 (NYRC-0711) and MI-5 (NYRC-0713). 
+
+
+--- Page 13 ---
+Jeffry Pollock 
+ 
+Direct Testimony 
+ 
+Page 9 
+ 
+2.  Electric ECOS Study 
+ 
+J . P O L L O C K  
+I N C O R P O R A T E D  
+368, and associated expenses) that should be classified as customer-related costs.  
+1 
+These studies show that 63.3% (51.1%) of NYSEG’s (RG&E’s) distribution network 
+2 
+cost should be customer related.  Recognizing a customer component of the 
+3 
+distribution network is consistent with both accepted industry practice and past 
+4 
+Commission precedent. 
+5 
+Q 
+DO THE ELECTRIC ECOS STUDIES GENERALLY COMPORT WITH THE 
+6 
+PRINCIPLES 
+OF 
+COST 
+CAUSATION 
+AND 
+ACCEPTED 
+ALLOCATION 
+7 
+PRACTICES? 
+8 
+A 
+Yes, with one notable exception relating to the allocation of transmission costs.  With 
+9 
+this issue corrected as recommended, the Electric ECOS studies should be approved.  
+10 
+As discussed below, the Companies are proposing to use the 12CP method to allocate 
+11 
+transmission costs, which fails to recognize cost causation because the Companies 
+12 
+are both predominately summer-peaking utilities.  Further, transmission facilities must 
+13 
+be sized to meet the expected peak demand — if transmission was sized only to meet 
+14 
+the average of the 12CP demands, the Companies could not provide reliable delivery 
+15 
+service during system peaks.  In contrast, when transmission is sized to meet the 
+16 
+system peak or peaks, delivery service also will be reliable during non-peak periods. 
+17 
+Allocation of Transmission Costs 
+18 
+Q 
+WHY ARE THE COMPANIES USING 12CP TO ALLOCATE TRANSMISSION 
+19 
+COSTS? 
+20 
+A 
+The Companies’ ECOS witness, Mr. Bickey Rimal, stated that 12CP is consistent with 
+21 
+the methodology used to calculate the transmission revenue requirement at FERC.  
+22 
+He also asserts that 12CP represents the twelve highest peaks during the year and 
+23 
+
+
+--- Page 14 ---
+Jeffry Pollock 
+ 
+Direct Testimony 
+ 
+Page 10 
+ 
+2.  Electric ECOS Study 
+J . P O L L O C K  
+I N C O R P O R A T E D  
+ 
+further, that NYSEG and RG&E plan generation facilities year-round to provide for the 
+1 
+delivery of a diversified mix of energy resources.3   
+2 
+Q 
+HOW ARE THE 12CP ALLOCATION FACTORS DETERMINED? 
+3 
+A 
+The 12CP method assigns cost responsibility based on the loads that occur coincident 
+4 
+(on the same date and time) with each of the Companies’ twelve monthly system peak 
+5 
+demands.   
+6 
+Q 
+IS 12CP JUSTIFIED BASED ON HOW THE COMPANIES PLAN THEIR 
+7 
+RESPECTIVE GENERATION SYSTEMS? 
+8 
+A 
+No.  Unlike vertically integrated electric utilities, NYSEG and RG&E purchase 
+9 
+electricity from the wholesale market for resale to their customers.  The market 
+10 
+provides a diverse mix of generation resources.  Neither NYSEG nor RG&E plan 
+11 
+generation to serve their customers.  Thus, this consideration does not support the 
+12 
+proposed use of the 12CP allocation factor in the case of NYSEG and RG&E.   
+13 
+Q 
+DOES THE 12CP METHOD ACCURATELY RECOGNIZE THE COMPANIES’ 
+14 
+SYSTEM LOAD CHARACTERISTICS? 
+15 
+A 
+No.  The 12CP method places equal weight to all 12 monthly peaks.  That is, March and 
+16 
+April (which are generally low demand months) are treated the same as June through 
+17 
+September (which are always high demand months). This equal weighting fails to 
+18 
+recognize that both Companies have pronounced peaks in the summer.  This is shown in 
+19 
+Exhibit ___(JP-4), which graphically illustrates the highly seasonal nature of each 
+20 
+Companies’ monthly peak loads.  Page 1 pertains to NYSEG, while page 2 pertains to 
+21 
+RG&E.  
+22 
+ 
+3  Direct Testimony of Bickey Rimal at 21.   
+
+
+--- Page 15 ---
+Jeffry Pollock 
+ 
+Direct Testimony 
+ 
+Page 11 
+ 
+2.  Electric ECOS Study 
+ 
+J . P O L L O C K  
+I N C O R P O R A T E D  
+The red bars show the month in which the annual system peak occurred. The bars 
+1 
+with red tips indicate months where the monthly peak exceeded 90% of the annual 
+2 
+system peak.  Months where the load did not exceed 90% of the annual system peak 
+3 
+are shown in blue.  As can be seen, both Companies experienced predominantly 
+4 
+summer peaks during the historical test period.4  NYSEG’s winter demands are entirely 
+5 
+blue, meaning that they were less than 90% of the annual system peak.   
+6 
+Q 
+IS FERC’S USE OF THE 12CP METHOD RELEVANT IN DETERMINING RETAIL 
+7 
+COST CAUSATION? 
+8 
+A 
+No.  Cost causation identifies the factors that cause a utility to incur costs.  The 
+9 
+transmission system integrates the entire bulk power system, which also includes 
+10 
+generating units.  Power flow is a function of load.  Thus, the transmission system 
+11 
+must accommodate the maximum demands imposed on it.  The maximum demands 
+12 
+of NYSEG and RG&E generally occur during the summer months.  However, the 
+13 
+summer period is more critical because transmission facilities have a lower current-
+14 
+carrying capability during periods of high temperature and/or high relative humidity.  
+15 
+The lower current-carrying capability reduces the amount of power that transmission 
+16 
+facilities can safely accommodate during the peak summer period.   
+17 
+Finally, even though the Companies may have diverse capabilities to provide 
+18 
+safe and adequate service for all hours of the year, these capabilities are, at best, a 
+19 
+by-product of meeting the annual summer peak.  Peak demand is the “cost causer,” 
+20 
+and the appropriate measure of peak demand should be used to allocate transmission 
+21 
+plant-related costs.   
+22 
+ 
+4  TME April 30, 2021. 
+
+
+--- Page 16 ---
+Jeffry Pollock 
+ 
+Direct Testimony 
+ 
+Page 12 
+ 
+2.  Electric ECOS Study 
+ 
+J . P O L L O C K  
+I N C O R P O R A T E D  
+Q 
+DO ALL NEW YORK UTILITIES USE 12CP TO ALLOCATE TRANSMISSION 
+1 
+COSTS? 
+2 
+A 
+No.  For instance, in prior rate cases in New York, neither Niagara Mohawk Power 
+3 
+Corporation d/b/a National Grid nor Central Hudson Gas & Electric Corporation used 
+4 
+the 12CP method to allocate transmission costs.5   
+5 
+Q 
+IS THE COMMISSION OBLIGATED TO ACCEPT FERC’S ALLOCATION 
+6 
+PRACTICES IN SETTING RETAIL RATES? 
+7 
+A 
+No.  It is not uncommon for state regulators to approve different cost allocation 
+8 
+methods for retail classes than are used for wholesale jurisdictional separation.  This 
+9 
+is because FERC typically approves the 12CP method to allocate production and 
+10 
+transmission plant-related costs between retail and wholesale jurisdictions.  To 
+11 
+prevent costs from being “trapped” between regulatory jurisdictions, state regulators 
+12 
+generally use the same 12CP method to determine retail and wholesale revenue 
+13 
+requirements, but often rely on a different method for retail cost allocation purposes.  
+14 
+For example, the Public Utility Commission of Texas uses 12CP for jurisdictional 
+15 
+separation and an Average & Excess Four CP for retail cost allocation.  Thus, state 
+16 
+regulators need not be compelled to adopt the same allocation methods used by FERC 
+17 
+in determining the cost allocation to the retail customer classes.   
+18 
+ 
+5  See, e.g., Proceeding on Motion of the Commission as to the Rates, Charges, Rules and Regulations 
+of Niagara Mohawk Power Corporation d/b/a National Grid for Electric Service, Case No. 20-E-0380 
+and 20-G-0381 et al.; Proceeding on Motion of the Commission as to the Rates, Charges and 
+Regulations of Central Hudson Gas & Electric Corporation for Electric and Gas Service; Case Nos. 20-
+E-0428 and 20-G-0429.  
+
+
+--- Page 17 ---
+Jeffry Pollock 
+ 
+Direct Testimony 
+ 
+Page 13 
+ 
+2.  Electric ECOS Study 
+ 
+J . P O L L O C K  
+I N C O R P O R A T E D  
+Q 
+IF TRANSMISSION FACILITIES WERE SIZED TO MEET THE AVERAGE OF THE 
+1 
+TWELVE-MONTH SYSTEM PEAKS, COULD THE COMPANIES PROVIDE 
+2 
+RELIABLE DELIVERY SERVICE? 
+3 
+A 
+No.  During the historical test year, the 12CP demands were 2,500 MW (NYSEG) and 
+4 
+1,174 MW (RG&E).  However, the corresponding annual system peak demands were 
+5 
+3,006 MW (NYSEG) and 1,560 MW (RG&E).  Thus, if transmission (and generation) 
+6 
+capacity was sized to meet only the 12CP demands, neither Company could provide 
+7 
+reliable delivery service.   
+8 
+Q 
+HOW SHOULD TRANSMISSION PLANT AND RELATED COSTS BE ALLOCATED 
+9 
+TO RETAIL SERVICE CLASSES AND SUB-CLASSES IN THESE CASES? 
+10 
+A 
+I recommend allocating transmission plant and related expenses using the historical 
+11 
+period annual summer system peaks.  With respect to NYSEG, there is almost no 
+12 
+difference between the July and August peaks.  Thus, I recommend an average of the 
+13 
+July/August peaks (2 summer CPs).  RG&E is proposing to use the 1CP method for 
+14 
+production demand-related costs.  Accordingly, the same 1CP method should also be 
+15 
+used for transmission costs.  These methods are consistent with the predominantly 
+16 
+summer-peaking characteristics of both systems, and they recognize how peak 
+17 
+demands are the driver.   
+18 
+Q 
+HAVE YOU DEVELOPED REVISED TRANSMISSION COST ALLOCATION 
+19 
+FACTORS BY CLASS? 
+20 
+A 
+Yes.  The derivation of the 2CP allocation factors for NYSEG is shown in 
+21 
+Exhibit ___ (JP-5), page 1.  The derivation of the 1CP allocation factors for RG&E is 
+22 
+shown in Exhibit ___ (JP-5), page 2.  The 2CP and 1CP allocation factors were 
+23 
+
+
+--- Page 18 ---
+Jeffry Pollock 
+ 
+Direct Testimony 
+ 
+Page 14 
+ 
+2.  Electric ECOS Study 
+ 
+J . P O L L O C K  
+I N C O R P O R A T E D  
+derived from the same monthly load profiles that the Companies used in developing 
+1 
+their proposed 12CP allocation factors.  In both cases, the factors were based on the 
+2 
+months with the highest total peak demand.   
+3 
+Q 
+DID YOU DERIVE THE 2CP DEMAND ALLOCATION FACTORS IN THE SAME 
+4 
+MANNER THAT NYSEG DID? 
+5 
+A 
+No.  NYSEG’s 2CP, which it used to allocate production demand-related costs, was 
+6 
+based on the average of its summer and winter peak demands.  In contrast, the 2CP 
+7 
+allocation factors shown in Exhibit ___ (JP-5), page 1 were derived from the peak 
+8 
+demands during July and August.  As can be seen in Exhibit ___ (JP-4), page 1, 
+9 
+NYSEG’s two highest monthly peak demands occurred in July (the annual system 
+10 
+peak), and August peak, which was 97% of the July peak demand.   
+11 
+Q 
+SHOULD THE 2CP METHOD AS PROPOSED BY NYSEG BE ADOPTED? 
+12 
+A 
+No.  The winter peak used in NYSEG’s 2CP method was only 87% of the annual 
+13 
+system peak that occurred during the summer months.  Thus, it does not accurately 
+14 
+measure the peak demands that drive the need for production/transmission capacity.  
+15 
+As with 12CP, if NYSEG only had to meet the average of the summer/winter peak 
+16 
+demands (which is approximately 2,800 MW) it would not have sufficient capacity to 
+17 
+meet the (over 3,000 MW) summer peak demand.   
+18 
+ 
+ 
+Accordingly, for NYSEG, the 2CP (i.e., the average of the July/August peaks) 
+19 
+should be used to allocate both production demand and transmission plant and related 
+20 
+expenses.    
+21 
+
+
+--- Page 19 ---
+Jeffry Pollock 
+ 
+Direct Testimony 
+ 
+Page 15 
+ 
+2.  Electric ECOS Study 
+ 
+J . P O L L O C K  
+I N C O R P O R A T E D  
+Revised Electric ECOS Studies 
+1 
+Q 
+HAVE 
+YOU 
+RE-RUN 
+THE 
+COMPANIES’ 
+ELECTRIC 
+ECOS 
+STUDIES 
+2 
+INCORPORATING YOUR RECOMMENDATION TO USE YOUR CORRECTED  2CP 
+3 
+(1CP) METHOD TO ALLOCATE TRANSMISSION COSTS FOR NYSEG (RG&E)? 
+4 
+A 
+Yes.  Revised Electric ECOS studies are provided for NYSEG and RG&E in 
+5 
+Exhibit ___ (JP-6) and Exhibit ___ (JP-7), respectively.  The results of these studies 
+6 
+should be used in determining the appropriate electric class revenue allocation in 
+7 
+these proceedings.    
+8 
+
+
+--- Page 20 ---
+Jeffry Pollock 
+ 
+Direct Testimony 
+ 
+Page 16 
+ 
+3.  Gas ECOS Study 
+ 
+ 
+J . P O L L O C K  
+I N C O R P O R A T E D  
+3. GAS ECOS STUDIES 
+Q 
+HAVE THE COMPANIES CONDUCTED ECOS STUDIES FOR NATURAL GAS 
+1 
+DELIVERY SERVICE IN THESE PROCEEDINGS?  
+2 
+A 
+Yes.  The Companies each presented a Gas ECOS study in their original filing, which 
+3 
+were subsequently updated.6  My review relied on the updated Gas ECOS studies. 
+4 
+Q 
+HAVE THE COMPANIES MADE ANY REFINEMENTS TO THEIR RESPECTIVE 
+5 
+GAS ECOS STUDIES SINCE THE LAST RATE PROCEEDINGS? 
+6 
+A 
+Yes.  In addition to addressing several of MI’s concerns from the last rate proceedings, 
+7 
+the Companies have conducted an analysis to quantify the portion of distribution mains 
+8 
+that should be treated as a customer-related cost.  According to the updated analysis, 
+9 
+51.5% (43.6%) of NYSEG’s (RG&E’s) distribution mains should be treated as a 
+10 
+customer-related cost.  This treatment is consistent with both accepted industry 
+11 
+practice and past Commission precedent. 
+12 
+Q 
+WITH THIS REFINEMENT TO THE COMPANIES’ GAS ECOS STUDIES, DO THEY 
+13 
+COMPORT WITH GENERALLY ACCEPTED REGULATORY PRACTICE? 
+14 
+A 
+Yes.  Accordingly, the Companies’ Gas ECOS studies should be used for determining 
+15 
+the allocation of any gas delivery rate increase authorized by the Commission in this 
+16 
+proceeding. 
+17 
+ 
+6  Companies’ Supplemental Responses to MI-7 (NYRC-0715) and MI-9 (NYRC-0717). 
+
+
+--- Page 21 ---
+Jeffry Pollock 
+ 
+Direct Testimony 
+ 
+Page 17 
+ 
+4.  Class Revenue Allocation 
+ 
+ 
+J . P O L L O C K  
+I N C O R P O R A T E D  
+4.  CLASS REVENUE ALLOCATION 
+Q 
+WHAT IS CLASS REVENUE ALLOCATION? 
+1 
+A 
+Class revenue allocation is the process of determining how any delivery revenue 
+2 
+change approved by the Commission will be spread to each customer class served by 
+3 
+the utility.   
+4 
+Q 
+HOW SHOULD ANY CHANGE IN DELIVERY REVENUES APPROVED IN THESE 
+5 
+PROCEEDINGS BE SPREAD AMONG THE VARIOUS SERVICE CLASSES 
+6 
+SERVED BY THE COMPANIES? 
+7 
+A 
+Delivery revenues should reflect the actual cost of providing service as closely as 
+8 
+practicable.  As a general rule, rates should be set at cost.  However, regulators 
+9 
+sometimes limit the immediate movement to cost based on other considerations, such 
+10 
+as gradualism concerns.  Gradualism is a concept that this and many other 
+11 
+Commissions have historically used to prevent a class from receiving an overly-large 
+12 
+rate increase.  Under this practice, the movement to cost of service is made gradually 
+13 
+over a period of time, rather than all at once.   
+14 
+In addition, rate administration and rate stability also are considerations.  Rate 
+15 
+administration means designing rates that will mitigate customer migration, thereby 
+16 
+ensuring that the rates collect the intended revenues.  This is particularly important 
+17 
+when an ECOS study allocates costs to the various sub-classes subsumed in a 
+18 
+particular customer class.  For example, in the Electric ECOS studies, NYSEG’s SC 7 
+19 
+and RG&E’s SC 8 are differentiated based on delivery voltage.  In its Gas ECOS study, 
+20 
+RG&E’s SC 3 class is differentiated by customer type (i.e., commercial, industrial) 
+21 
+rather than usage characteristics.  Rate stability means preventing major cost shifts 
+22 
+
+
+--- Page 22 ---
+Jeffry Pollock 
+ 
+Direct Testimony 
+ 
+Page 18 
+ 
+4.  Class Revenue Allocation 
+ 
+ 
+J . P O L L O C K  
+I N C O R P O R A T E D  
+due to the changing usage characteristics of a customer class.  This criterion typically 
+1 
+applies to very sparsely populated customer classes, such as RG&E’s SC 8T, which 
+2 
+consists of only one customer.7  These further considerations may make it appropriate 
+3 
+to consolidate (but not eliminate) classes for revenue allocation purposes.   
+4 
+Q 
+WHY SHOULD THE RESULTS OF A COST-OF-SERVICE STUDY BE THE 
+5 
+PRIMARY FACTOR IN DETERMINING HOW ANY BASE REVENUE CHANGE 
+6 
+SHOULD BE ALLOCATED? 
+7 
+A 
+Cost-based rates will send the proper price signals to customers.  Cost-based rates 
+8 
+also are equitable, and they provide efficiency (cost minimization) and revenue 
+9 
+stability, while promoting conservation.   
+10 
+Q 
+ARE THE COMPANIES PROPOSING TO MOVE EACH SERVICE CLASS CLOSER 
+11 
+TO COST? 
+12 
+A 
+Yes.  The Companies state that their ultimate goal is to move each service class rate 
+13 
+of return toward the system rate of return.8   
+14 
+Q 
+WOULD ALL SERVICE CLASSES BE MOVED IMMEDIATELY TO COST? 
+15 
+A 
+No.  The Companies applied a three-step process to determine how each service class 
+16 
+would move closer to cost.  First, the Companies established a 15% tolerance band to 
+17 
+the results of the ECOS studies.  Those classes producing relative rates of return 
+18 
+(“RRORs”) between 0.85 and 1.15 initially would receive the overall system average 
+19 
+ 
+7  Direct Testimony of Bickey Rimal, Exhibit ___ (ECOS-B9) at 2. 
+8  Direct Testimony of Revenue Allocation and Rate Design Panel at 12. 
+
+
+--- Page 23 ---
+Jeffry Pollock 
+ 
+Direct Testimony 
+ 
+Page 19 
+ 
+4.  Class Revenue Allocation 
+ 
+ 
+J . P O L L O C K  
+I N C O R P O R A T E D  
+revenue increase.  The classes having RRORs above 1.15 are over-contributing and 
+1 
+would receive below-system average increases.  The classes having RRORs below 
+2 
+0.85 are under-contributing and would receive above-system average increases.9 
+3 
+ 
+ 
+Second, the Companies constrained the revenue increase to between 0.75 
+4 
+times the overall system average increase (floor) for those classes that are over-
+5 
+contributing and 1.25 times the overall system average increase (cap) for those 
+6 
+classes that are under-contributing.10   
+7 
+ 
+ 
+Third, any remaining revenue deficiency or surplus was allocated to all service 
+8 
+classes, except those that were over-contributing.11  
+9 
+Q 
+HAVE THE COMPANIES CONSISTENTLY APPLIED THE CAP AND FLOOR IN 
+10 
+DETERMINING THE PROPOSED INCREASES BY SERVICE CLASS? 
+11 
+A 
+No.  Tables 1 and 2 below summarize the Companies’ proposed electric delivery rate 
+12 
+increases by service class.  Also shown are the results of MI’s revised Electric ECOS 
+13 
+studies.  The yellow highlighted cells indicate the changes in the ECOS study results 
+14 
+as a result of allocating transmission plant on a 2CP (1CP) basis for NYSEG (RG&E). 
+15 
+ 
+ 
+In general, the Companies have implemented the three-step process 
+16 
+described earlier.  However, there are some inconsistencies.   
+17 
+With respect to NYSEG, Table 1 demonstrates that the 1.25 times cap was 
+18 
+only applied to SC 7-3 and SC 7-4, which were under-contributing under NYSEG’s 
+19 
+Electric ECOS study.  None of the other under-contributing classes would receive 
+20 
+ 
+9  Id.  
+10  Id. at 13. 
+11  Id.   
+
+
+--- Page 24 ---
+Jeffry Pollock 
+ 
+Direct Testimony 
+ 
+Page 20 
+ 
+4.  Class Revenue Allocation 
+ 
+ 
+J . P O L L O C K  
+I N C O R P O R A T E D  
+increases even close to the 1.25 times cap.  Similarly, several classes that were over-
+1 
+contributing would receive increases higher than the 0.75 times floor (e.g., SC 2, SC 
+2 
+7-1, SC 3, SC 7-2). 
+3 
+Table 1 
+NYSEG 
+Proposed Class Revenue Allocation 
+Using MI’s Revised Electric ECOS Study 
+Service  
+Class 
+Current  
+Contribution 
+Based on 15%  
+Tolerance Band 
+Proposed Vs. 
+System Avg. 
+Increase 
+SC 1 
+Under 
+1.11 
+SC 8  
+Within 
+0.89 
+SC 12 
+Over 
+0.79 
+SC 6 
+Under 
+1.10 
+SC 9 
+Within  
+Over 
+0.88 
+SC 2 
+Over 
+0.78 
+SC 7-1 
+Over 
+0.83 
+SC 3S 
+Over 
+0.80 
+SC 3P 
+Over 
+0.85 
+SC 7-2 
+Over 
+0.87 
+SC 7-3 
+Under 
+Within 
+1.25 
+SC 7-4 
+Under 
+1.25 
+Lighting 
+Over 
+0.75 
+SC 5 
+Under 
+1.10 
+Q 
+WHAT DO YOU RECOMMEND FOR NYSEG? 
+4 
+A 
+Based on MI’s revised Electric ECOS study, NYSEG’s SC 9 class would be over-
+5 
+contributing while the SC 7-3 class would be within the 15% tolerance band.  
+6 
+Accordingly, NYSEG’s SC 9 should receive an increase closer to the 0.75 times floor, 
+7 
+while SC 7-3 should receive a system average increase.  Further, with respect to the 
+8 
+other over-contributing classes, the increases should all be reduced to 0.75 times the 
+9 
+system average, as closely as practicable.  Any revenue shortfall resulting from 
+10 
+
+
+--- Page 25 ---
+Jeffry Pollock 
+ 
+Direct Testimony 
+ 
+Page 21 
+ 
+4.  Class Revenue Allocation 
+ 
+ 
+J . P O L L O C K  
+I N C O R P O R A T E D  
+moving these classes closer to the floor should be recovered by increasing the under-
+1 
+contributing classes (SC 1, SC 5, and SC 6) closer to the 1.25 times cap. 
+2 
+With respect to RG&E, there are similar inconsistencies:  namely, the over-
+3 
+contributing classes were, in most instances, receiving increases above the 0.75 times 
+4 
+floor, while the under-contributing classes were receiving increases much less than 
+5 
+the 1.25 times cap. 
+6 
+Table 2 
+RG&E 
+Proposed Class Revenue Allocation 
+Using MI’s Revised Electric ECOS Study 
+Service  
+Class 
+Current  
+Contribution 
+Based on 15%  
+Tolerance Band 
+Proposed Vs. 
+System Avg. 
+Increase 
+SC 1 
+Under 
+1.14 
+SC 4-I 
+Over 
+0.73 
+SC 4-II 
+Over 
+0.81 
+SC 2 
+Under 
+1.15 
+SC 3 
+Over 
+Within 
+0.77 
+SC 7 
+Over 
+0.75 
+SC 8P 
+Over 
+0.78 
+SC 8S 
+Over 
+0.78 
+SC 8SubTComm 
+Over 
+0.84 
+SC 8SubTInd 
+Over 
+0.87 
+SC 8T 
+Over 
+0.82 
+SC 8SubS 
+Over 
+0.81 
+SC 9 
+Over 
+0.78 
+Lighting 
+Over 
+0.74 
+Q 
+WHAT DO YOU RECOMMEND FOR RG&E? 
+7 
+A 
+Based on MI’s revised Electric ECOS study, the SC 3 class would be within the 15% 
+8 
+tolerance band and should receive an average (rather than a below-average) increase.  
+9 
+Similarly, the SC 8 classes, which are all over-contributing, should receive increases 
+10 
+
+
+--- Page 26 ---
+Jeffry Pollock 
+ 
+Direct Testimony 
+ 
+Page 22 
+ 
+4.  Class Revenue Allocation 
+ 
+ 
+J . P O L L O C K  
+I N C O R P O R A T E D  
+closer to the 0.75 times floor.  Any shortfall resulting from reducing the increases for 
+1 
+these classes should be recovered from the classes that are under-contributing (i.e., 
+2 
+SC 1 and SC 2). 
+3 
+Q 
+ARE THE COMPANIES’ PROPOSED GAS DELIVERY RATE INCREASES 
+4 
+CONSISTENT WITH THE RESULTS OF THEIR GAS ECOS STUDIES? 
+5 
+A  
+Yes.  Each Company’s proposed Gas ECOS study results and gas delivery rate 
+6 
+increases by service class are shown in Tables 3 and 4. 
+7 
+Table 3 
+NYSEG 
+Gas ECOS Study and  
+Proposed Class Revenue Allocation 
+Service  
+Class 
+Current  
+Contribution 
+Based on 15%  
+Tolerance Band 
+Proposed Vs. 
+System Avg. 
+Increase 
+SC1 
+Under 
+1.13 
+SC13  
+Under 
+1.13 
+SC2 
+Over 
+0.73 
+SC14T 
+Over 
+0.73 
+SC1T 
+Over 
+0.74 
+SC5T 
+Over 
+0.73 
+With respect to both NYSEG and RG&E, the over-contributing classes were assigned 
+8 
+increases at, or slightly below, the 0.75 times floor, while the remaining increases were 
+9 
+assigned to the other classes.  This resulted in increases significantly below the 1.25 
+10 
+times cap for the NYSEG SC 1 and SC 13 classes, and only slightly above average 
+11 
+increases for RG&E’s SC 1 and SC 5 classes, which were both contributing within the 
+12 
+15% tolerance band. 
+13 
+
+
+--- Page 27 ---
+Jeffry Pollock 
+ 
+Direct Testimony 
+ 
+Page 23 
+ 
+4.  Class Revenue Allocation 
+ 
+ 
+J . P O L L O C K  
+I N C O R P O R A T E D  
+Table 4 
+RG&E 
+Gas ECOS Study and  
+Proposed Class Revenue Allocation 
+Service  
+Class 
+Current  
+Contribution 
+Based on 15%  
+Tolerance Band 
+Proposed Vs. 
+System Avg. 
+Increase 
+SC1 
+Within 
+1.02 
+SC5 
+Within 
+1.02 
+SC3 
+Over 
+0.75 
+SC3HP 
+Over 
+0.75 
+ 
+For these reasons, the proposed gas delivery revenue allocations are consistent with 
+1 
+the results of each Company’s Gas ECOS study and would move all rates closer to 
+2 
+cost.    
+3 
+
+
+--- Page 28 ---
+Jeffry Pollock 
+ 
+Direct Testimony 
+ 
+Page 24 
+ 
+5. Rate Design  
+ 
+J . P O L L O C K  
+I N C O R P O R A T E D  
+ 
+5.  RATE DESIGN 
+Q 
+WHAT RATE DESIGN ISSUES DO YOU ADDRESS? 
+1 
+A 
+I address the design of Customer charges in NYSEG’s SC 7 and RG&E’s SC 8 electric 
+2 
+delivery rates and in NYSEG’s SC 1T and RG&E’s SC 3 gas transportation rates.  I 
+3 
+also address the design of the standby rates under the previously approved 
+4 
+methodology and the proposal to extend the RDM to the standby rates.   
+5 
+Q 
+WHAT IS RATE DESIGN? 
+6 
+A  
+Rate design is the continuation of the cost allocation process.  Accordingly, consistent 
+7 
+with this Commission’s established practice, the Customer and Demand charges 
+8 
+should reflect the results of both the Electric ECOS and MCOS studies while avoiding 
+9 
+rate shock.  The same objectives should also be pursued in designing the gas 
+10 
+Customer (or Minimum Monthly) charge and Delivery (or throughput) charges.   
+11 
+Q 
+DO THE SAME PRINCIPLES GENERALLY APPLY TO RATE DESIGN AS IN 
+12 
+DETERMINING THE CLASS REVENUE ALLOCATION? 
+13 
+A 
+Yes.  In addition to moving the Customer and Demand charges closer to cost, rate 
+14 
+design also should recognize the principle of gradualism; that is, the movement to cost 
+15 
+should not result in customers receiving unduly large or abrupt increases in a single 
+16 
+proceeding.  Recognizing gradualism means that even if raising the Customer charge 
+17 
+may not, strictly speaking, be consistent with the results of either the ECOS or MCOS 
+18 
+studies, it may be necessary to do so to prevent rate shock. 
+19 
+
+
+--- Page 29 ---
+Jeffry Pollock 
+ 
+Direct Testimony 
+ 
+Page 25 
+ 
+5. Rate Design  
+ 
+J . P O L L O C K  
+I N C O R P O R A T E D  
+ 
+Customer Charges 
+1 
+Q 
+WHAT CHANGES ARE THE COMPANIES PROPOSING IN THE CUSTOMER 
+2 
+CHARGES?  
+3 
+A 
+The companies are proposing no change in the electric Customer charges applicable 
+4 
+to NYSEG SC 7 and RG&E SC 8 classes, other than for NYSEG SC 7-1 and SC 7-2.  
+5 
+In the latter case, NYSEG is proposing to increase the SC 7-1 and SC 7-2 Customer 
+6 
+charges because the current Customer charge is well below the customer-related 
+7 
+costs as derived in NYSEG’s MCOS study.12 
+8 
+ 
+ 
+However, with respect to gas transportation rates, although NYSEG is 
+9 
+proposing to increase the SC 1T Minimum Monthly charge, RG&E is proposing to 
+10 
+retain the current SC 3 and SC 3HP Minimum Monthly charges.13 
+11 
+Q 
+DO YOU HAVE ANY CONCERNS WITH THE PROPOSAL TO RETAIN THE 
+12 
+CURRENT MINIMUM MONTHLY CHARGES? 
+13 
+A 
+Yes.  Absent changing the SC 3 Minimum Monthly charge, all of the increase would 
+14 
+be recovered in the Delivery charges.  As a result, large SC 3 customers would 
+15 
+experience delivery rate increases as high as 38%.  This would be nearly three times 
+16 
+the class average delivery rate increase.  This result is not consistent with the principle 
+17 
+of gradualism as discussed previously. 
+18 
+Q 
+WHAT DO YOU RECOMMEND? 
+19 
+A 
+The proposed increase in NYSEG’s SC 1T Minimum Monthly charge is supported 
+20 
+by the Gas MCOS study.  However, RG&E’s Gas MCOS study reveals that the SC 3 
+21 
+ 
+12  Direct Testimony of Revenue Allocation and Rate Design Panel at 15-16. 
+13  Id. at 28. 
+
+
+--- Page 30 ---
+Jeffry Pollock 
+ 
+Direct Testimony 
+ 
+Page 26 
+ 
+5. Rate Design  
+ 
+J . P O L L O C K  
+I N C O R P O R A T E D  
+ 
+ 
+customer cost is over $3,100 per month.  This is 40% higher than the current SC 3 
+1 
+Minimum Monthly charge.  Given this result, and to avoid rate shock, the SC 3 
+2 
+Minimum Monthly charge should be increased to at least $2,800 per month, which 
+3 
+would be the same as the proposed SC 1T Minimum Monthly charge.   
+4 
+With respect to the electric Customer charges, although increasing the NYSEG 
+5 
+SC 7 and RG&E SC 8 Customer charges do not appear to be supported by the 
+6 
+Companies’ MCOS studies, gradualism may warrant spreading some modest portion 
+7 
+of any electric delivery increases approved in these proceedings for those classes to 
+8 
+the Customer charges, as opposed to recovering the entirety of the increases via 
+9 
+Demand charges. 
+10 
+Q 
+IF THE COMMISSION WERE TO SCALE BACK THE PROPOSED INCREASES, 
+11 
+HOW SHOULD THAT SCALE BACK BE APPLIED? 
+12 
+A 
+If the Commission scales back the proposed increases to NYSEG’s SC 7 electric and 
+13 
+SC 1T transportation and RG&E’s SC 8 electric and SC 3 transportation rates, the 
+14 
+proposed/recommended Customer/Monthly Minimum charges should be retained. 
+15 
+Standby Rates 
+16 
+Q 
+HAVE YOU REVIEWED THE COMPANIES’ PROPOSED STANDBY RATES 
+17 
+BASED ON THE PREVIOUSLY APPROVED METHODOLOGY? 
+18 
+A 
+Yes.  Under the methodology in effect prior to the Commission’s recent order in Case 
+19 
+No. 15-E-0751, a portion of the demand-related costs (ranging from 15% to over 80%) 
+20 
+are recoverable through the Contract Demand charge, and the remaining costs are 
+21 
+recovered in Daily Demand charges.  Both charges are derived from the demand-
+22 
+related costs allocated to the parent service classes.
+23 
+
+
+--- Page 31 ---
+Jeffry Pollock 
+ 
+Direct Testimony 
+ 
+Page 27 
+ 
+5. Rate Design  
+ 
+J . P O L L O C K  
+I N C O R P O R A T E D  
+ 
+ 
+ 
+Although the Companies appear to have properly applied the methodology, the 
+1 
+results are anomalous in some instances.  For some service classes, the proposed 
+2 
+increase in the Contract Demand and Daily Demand charges would be dramatically 
+3 
+higher than the corresponding increase in the parent Demand charges.  Table 5 
+4 
+summarizes these apparent anomalous results. 
+5 
+Table 5 
+Proposed Increases in Demand Charges 
+Parent Versus Standby Rates 
+($/kW) 
+Service Class 
+Parent 
+Rate 
+Contract 
+Demand 
+Daily 
+Demand 
+SC 7-3 
+55.8% 
+89.0% 
+87.8% 
+SC 7-4 
+60.4% 
+107.1% 
+108.9% 
+SC 8ST Comm 
+22.3% 
+45.1% 
+45.1% 
+For example, the proposed SC 8ST Comm parent Demand charge would increase by 
+6 
+22.3%, while the Contract Demand and Daily Demand charges would increase by 
+7 
+45.1%, or over 20 basis points higher.  Similarly, the increases in standby charges for 
+8 
+the SC 7-3 and 7-4 classes would be over 30 and over 40 basis points higher than the 
+9 
+corresponding increases in the parent Demand charges.   
+10 
+Q 
+DOES IT MAKE SENSE THAT THE INCREASES IN THE STANDBY DEMAND 
+11 
+CHARGES WOULD BE OVER 20 TO OVER 40 BASIS POINTS HIGHER THAN THE 
+12 
+INCREASES IN THE CORRESPONDING PARENT DEMAND CHARGES? 
+13 
+A 
+No.  Raising standby rates substantially more than non-standby rates would treat 
+14 
+standby customers unfairly.  To illustrate, based on the Companies’ proposals, 
+15 
+standby customers would pay higher monthly Demand charges for using delivery 
+16 
+
+
+--- Page 32 ---
+Jeffry Pollock 
+ 
+Direct Testimony 
+ 
+Page 28 
+ 
+5. Rate Design  
+ 
+J . P O L L O C K  
+I N C O R P O R A T E D  
+ 
+service for an entire month than would a corresponding non-standby customer.  This 
+1 
+is shown in Table 6. 
+2 
+Table 6 
+Monthly Demand Costs for a 500 kW Load 
+At Proposed Rates 
+Service  
+Class 
+Non- 
+Standby 
+Standby 
+Difference 
+SC 7-3 
+$1,605 
+$2,013  
+$408  
+SC 7-4 
+$890 
+$1,537  
+$647  
+SC 8ST Comm 
+$6,212 
+$6,903  
+$691  
+Q 
+PLEASE EXPLAIN TABLE 6. 
+3 
+A 
+Table 6 quantifies the Demand charges paid by non-standby and standby customers, 
+4 
+respectively, under the SC 7-3, SC 7-4, and SC 8ST Comm service classes.  Both 
+5 
+customers are assumed to have a 500 kilowatt (“kW”) on-peak maximum demand.  
+6 
+Standby service is provided during on-peak hours for all 21+ average weekdays during 
+7 
+a typical billing month. 
+8 
+ 
+ 
+As Table 6 demonstrates, the standby customers in the SC 7-3, SC 7-4 and 
+9 
+SC 8ST Comm service classes would pay higher monthly demand costs than 
+10 
+corresponding non-standby customers would pay.   
+11 
+Q 
+SHOULD STANDBY CUSTOMERS INCUR HIGHER COSTS FOR THE SAME 
+12 
+SERVICE PROVIDED TO NON-STANDBY CUSTOMERS? 
+13 
+A 
+No.  Standby service is a derivative of full requirements service.  Accordingly, if a 
+14 
+standby customer purchases electricity in a manner similar to a full requirements (non-
+15 
+standby) customer, there should be no difference in the underlying costs. 
+16 
+
+
+--- Page 33 ---
+Jeffry Pollock 
+ 
+Direct Testimony 
+ 
+Page 29 
+ 
+5. Rate Design  
+ 
+J . P O L L O C K  
+I N C O R P O R A T E D  
+ 
+Q 
+WHAT DO YOU RECOMMEND? 
+1 
+A 
+To prevent the disparate outcomes shown in Table 6, the increases in the Contract 
+2 
+Demand and Daily Demand charges should more closely approximate the 
+3 
+corresponding increases in the parent Demand charges.  Under no circumstances 
+4 
+should a standby customer ever pay higher total monthly Demand charges than a non-
+5 
+standby customer. 
+6 
+ 
+ 
+Accordingly, I recommend that the SC 7-3, SC 7-4 and SC 8ST Comm Contract 
+7 
+Demand and Daily Demand charges not be increased by more than 15% above the 
+8 
+increase in the applicable parent Demand charges.  By limiting the increases to not 
+9 
+more than 15% above the corresponding increase in parent Demand charge the 
+10 
+disparate outcomes shown in Table 6 would be avoided. 
+11 
+Revenue Decoupling Mechanism 
+12 
+Q 
+WHAT CHANGES ARE BEING PROPOSED TO THE REVENUE DECOUPLING 
+13 
+MECHANISM? 
+14 
+A 
+The Companies are proposing to extend the applicability of the RDM to NYSEG’s SC 
+15 
+7-4 service class in order to include standby and buyback service in the mechanism.14 
+16 
+Q 
+WHAT IS THE REVENUE DECOUPLING MECHANISM? 
+17 
+A 
+RDM is a mechanism that reconciles actual billed delivery service revenue to the 
+18 
+allowed delivery service revenue on a rate class specific basis.  As described in 
+19 
+Appendix FF of the Joint Proposal filed in the last rate proceedings: 
+ 
+20 
+ 
+14  Id. at 19. 
+
+
+--- Page 34 ---
+Jeffry Pollock 
+ 
+Direct Testimony 
+ 
+Page 30 
+ 
+5. Rate Design  
+ 
+J . P O L L O C K  
+I N C O R P O R A T E D  
+ 
+For each service class or subclass subject to the RDM, each Company will, on 
+1 
+a monthly basis, compare actual billed delivery service revenue exclusive of 
+2 
+the COVID-19 Customer Bill Credit to a delivery service revenue target. If the 
+3 
+monthly actual billed delivery service revenue exceeds the delivery service 
+4 
+revenue target, the delivery service revenue excess will be accrued for refund 
+5 
+to customers at the end of the Rate Year. Likewise, if the monthly actual billed 
+6 
+delivery service revenue is less than the delivery service revenue target, the 
+7 
+delivery revenue shortfall will be accrued for recovery from customers at the 
+8 
+end of the Rate Year. 
+9 
+At the end of the Rate Year, total delivery service revenues will be compared 
+10 
+to cumulative monthly target revenues for each service class or subclass. Any 
+11 
+variance from cumulative target revenues will be either refunded / surcharged 
+12 
+to customers over the 12-month period beginning August 1 following the Rate 
+13 
+Year. Any surcharge or credit (RDM Adjustment) amount will reflect interest at 
+14 
+the then-effective other customer deposit rate and will be either recovered or 
+15 
+returned on a service class or subclass specific basis. For reconciliation 
+16 
+purposes the residential service classes will be combined as an RDM class at 
+17 
+each Company, NYSEG service classes 1, 8 and 12 will be combined and 
+18 
+RG&E service classes 1 and 4 will be combined. The surcharge or credit for 
+19 
+each applicable service class or subclass shall be determined by dividing the 
+20 
+amount to be refunded / surcharged to customers in that service class or 
+21 
+subclass by estimated kWh or kW deliveries to customers in that service class 
+22 
+or subclass over a 12-month period or RDM Adjustment Period. A per kW 
+23 
+surcharge or credit will be applied for those classes that do not have a kWh 
+24 
+delivery charge and a per kWh surcharge or credit will apply for all other 
+25 
+classes.15 
+26 
+ 
+Thus, if the Companies overestimate the estimated annual delivery revenues for a 
+27 
+particular class or sub-class, it can implement a surcharge on the customers in the 
+28 
+class or sub-class to compensate for the revenue shortfall. 
+ 
+29 
+ 
+15  Proceeding on Motion of the Commission as to the Rates, Charges, Rules and Regulations of New 
+York State Electric & Gas Corporation for Electric Service, Case No. 19-E-0378 et al, Order Approving 
+Electric and Gas Rate Plans in Accord with Joint Proposal, with Modifications, Attachment 1, Appendix 
+FF at 1 (Nov. 19, 2020). 
+
+
+--- Page 35 ---
+Jeffry Pollock 
+ 
+Direct Testimony 
+ 
+Page 31 
+ 
+5. Rate Design  
+ 
+J . P O L L O C K  
+I N C O R P O R A T E D  
+ 
+Q 
+IS THE REVENUE DECOUPLING MECHANISM ACTUALLY DESIGNED TO 
+1 
+SEVER THE CONNECTION BETWEEN SALES AND REVENUES? 
+2 
+A 
+No.  Instead of decoupling sales and revenues, RDM has morphed into a full-fledged 
+3 
+sales true-up adjustment that completely insulates the Companies from any 
+4 
+forecasting errors. 
+5 
+Q 
+SHOULD THE REVENUE DECOUPLING MECHANISM APPLY TO STANDBY 
+6 
+SERVICE? 
+7 
+A 
+No.  First, customers purchase standby service when they need to replace the power 
+8 
+that is normally generated from their behind-the-meter generating facilities and to 
+9 
+serve any load in excess of their generation.  Thus, the extent to which customers 
+10 
+require standby service can vary based on either planned or forced outages of the 
+11 
+generators.  By their very nature, forced outages are random events.  Further, planned 
+12 
+outages will depend on the wear and tear on the generators, coupled with necessary 
+13 
+inspections and occasional equipment overhauls.  Thus, standby service is clearly 
+14 
+different than full requirements service.   
+15 
+ 
+ 
+In either case, the use of standby service, and the corresponding operating 
+16 
+revenues, will vary from month to month and from year to year.  Thus, standby service 
+17 
+is non-reoccurring.  Therefore, standby service is not conducive to an RDM, which 
+18 
+requires accurate sales and revenue forecasting.  It is even less conducive when the 
+19 
+corresponding parent service class is also prone to significant forecasting errors.  
+20 
+
+
+--- Page 36 ---
+Jeffry Pollock 
+ 
+Direct Testimony 
+ 
+Page 32 
+ 
+5. Rate Design  
+ 
+J . P O L L O C K  
+I N C O R P O R A T E D  
+ 
+Q 
+HAVE THE COMPANIES OFFERED ANY OTHER REASON FOR EXTENDING THE 
+1 
+REVENUE DECOUPLING MECHANISM TO THE SC 7-4 CLASS? 
+2 
+A 
+No.  The SC 7-4 sub-class is comprised of a relatively few (only 19) very large 
+3 
+customers which are engaged in a broad range of manufacturing and other 
+4 
+commodity-intensive businesses.  The average monthly peak demand is 
+5 
+approximately 9,000 kW per customer per month.   
+6 
+Q 
+WOULD EXTENDING THE REVENUE DECOUPLING MECHANISM TO SC 7-4 
+7 
+CUSTOMERS SERVE ANY PUBLIC POLICY OBJECTIVE? 
+8 
+A 
+No.  Electricity sales to SC 7-4 customers can be affected by a host of economic and 
+9 
+geopolitical factors that are not within the customers’ (or the Companies’) direct 
+10 
+control.  Economic, business and geopolitical events are inherently difficult to forecast.  
+11 
+Thus, extending the RDM to SC 7-4 customers would likely result in significant rate 
+12 
+swings (up or down) solely because the Companies over-(under-)forecast annual 
+13 
+delivery revenues. 
+14 
+ 
+ 
+Similarly, as with standby service, the RDM would subject SC 7-4 customers 
+15 
+to potentially large rate swings depending on the accuracy of NYSEG’s sales and 
+16 
+revenue forecast.  Variations in SC 7-4 sales are naturally occurring due to economic 
+17 
+and business cycles as well geopolitical circumstances.  No public policy service is 
+18 
+served by punishing customers solely to insulate the Companies from forecasting 
+19 
+errors.  Forecasting is normal business risk.   
+20 
+Q 
+SHOULD THE REVENUE DECOUPLING MECHANISM BE EXTENDED TO 
+21 
+INCLUDE THE SC 7-4 SUB-CLASS. 
+22 
+A 
+No.   
+23 
+
+
+--- Page 37 ---
+Jeffry Pollock 
+ 
+Direct Testimony 
+ 
+Page 33 
+ 
+6. Conclusion 
+ 
+ 
+J . P O L L O C K  
+I N C O R P O R A T E D  
+ 
+6.  CONCLUSION 
+Q 
+WHAT FINDINGS SHOULD THE COMMISSION MAKE BASED ON THE ISSUES 
+1 
+RAISED IN YOUR DIRECT TESTIMONY?  
+2 
+A 
+The Commission should make the following findings: 
+3 
+• 
+Reject the 12CP method of allocating transmission plant and related expenses. 
+4 
+• 
+Revise the Companies’ Electric ECOS studies by allocating production demand 
+5 
+and transmission plant and related expenses using the 2 (summer) CP (1CP) 
+6 
+method for NYSEG (RG&E). 
+7 
+• 
+Adopt the Companies’ Gas ECOS studies. 
+8 
+• 
+Reject each Companies’ electric class revenue allocation proposals. 
+9 
+• 
+Approve revenue increases of up to 1.25 times the system average increase for 
+10 
+all classes that are under-contributing, and revenue increases of 0.75 times the 
+11 
+system average increase for those classes that are over-contributing, to the 
+12 
+maximum extent practicable. 
+13 
+• 
+Reject RG&E’s proposal to retain the current Gas SC 3 Minimum Monthly charge. 
+14 
+• 
+Consistent with RG&E’s MCOS study and the principle of gradualism, approve a 
+15 
+$2,800 per month Minimum Monthly charge for Gas SC 3. 
+16 
+• 
+Reject the Companies’ proposals to extend the RDM to standby and buyback 
+17 
+services as well as to the NYSEG SC 7-4 sub-class. 
+18 
+Q 
+DOES THIS CONCLUDE YOUR DIRECT TESTIMONY? 
+19 
+A 
+Yes.   
+20 

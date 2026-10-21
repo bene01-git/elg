@@ -1,0 +1,1739 @@
+--- Page 1 ---
+ 
+ 
+ 
+ 
+ 
+BEFORE THE 
+STATE OF NEW YORK 
+PUBLIC SERVICE COMMISSION 
+ 
+ 
+ 
+In the Matter of 
+ 
+Consolidated Edison Company of New York, Inc. 
+ 
+Cases 22-E-0064 and 22-G-0065  
+ 
+May  2022 
+ 
+ 
+ 
+Prepared Redacted Testimony of 
+the Staff Security Panel 
+ 
+Keith Haugen, Utility Analyst 3 
+(Cyber Security) 
+ 
+Thomas McNaughton, Utility 
+Security Specialist 2 
+ 
+State of New York 
+Department of Public Service 
+Three Empire State Plaza 
+Albany, New York 12223-1350 
+ 
+ 
+ 
+
+
+--- Page 2 ---
+Cases 22-E-0064 and 22-G-0065  
+ 
+STAFF SECURITY PANEL 
+  
+ 
+ 
+1 
+ 
+Q. 
+Will the members of the panel please state your 
+1 
+names, employer, and business address. 
+2 
+A. 
+I am Keith Haugen.  I am employed by the 
+3 
+Department of Public Service, referred to as 
+4 
+Department, Three Empire State Plaza, Albany, 
+5 
+New York 12223.  
+6 
+Q. 
+Mr. Haugen, what is your position at the 
+7 
+Department? 
+8 
+A. 
+I am a Utility Analyst 3 – Cyber Security, 
+9 
+assigned to the Utility Security Section within 
+10 
+the Office of Resilience and Emergency 
+11 
+Preparedness. 
+12 
+Q.   Please provide a summary of your educational and 
+13 
+professional experience 
+14 
+A.   I graduated with a B.S. in Information 
+15 
+Technology from Empire State College in May of 
+16 
+2016.  I am also certified as a Certified 
+17 
+Information Systems Security Professional 
+18 
+(CISSP) and a GIAC Systems and Network Auditor 
+19 
+(GSNA).  Beyond that, I have attended numerous 
+20 
+courses and workshops on cyber security.  My 
+21 
+previous professional work experience consists 
+22 
+of five years as a computer programmer for 
+23 
+Newkirk Products, where I started as a junior 
+24 
+
+
+--- Page 3 ---
+Cases 22-E-0064 and 22-G-0065  
+ 
+STAFF SECURITY PANEL 
+  
+ 
+ 
+2 
+ 
+programmer and eventually a senior programmer 
+1 
+and supervisor of my unit, overseeing the work 
+2 
+of six to seven programmers of varying skill 
+3 
+levels.  For two years following Newkirk, I 
+4 
+developed workflow applications for Higher 
+5 
+Education Systems Corporation as an IT 
+6 
+Specialist 2.  I joined the Utility Security 
+7 
+Section in July of 2008.    
+8 
+Q.   Please describe your current duties with the 
+9 
+Utility Security Section. 
+10 
+ 
+My current responsibilities include conducting 
+11 
+cyber security vulnerability assessments of 
+12 
+critical facilities and corporate IT systems 
+13 
+which are owned and operated by the energy, gas, 
+14 
+telecommunications, and water utilities.  
+15 
+Q. 
+Have you previously testified before the Public 
+16 
+Service Commission, referred to as Commission? 
+17 
+A. 
+Yes.  I testified in Case 19-G-0309 and 19-G-
+18 
+0310, The Brooklyn Union Gas Company, d/b/a 
+19 
+National Grid and NY KeySpan Gas East 
+20 
+Corporation, d/b/a National Grid. 
+21 
+A. 
+I am Thomas P. McNaughton.  I am employed by the 
+22 
+Department and my work address is Three Empire 
+23 
+State Plaza, Albany, New York 12223.  
+24 
+
+
+--- Page 4 ---
+Cases 22-E-0064 and 22-G-0065  
+ 
+STAFF SECURITY PANEL 
+  
+ 
+ 
+3 
+ 
+Q. 
+Mr. McNaughton, what is your position at the 
+1 
+Department? 
+2 
+A. 
+I am employed as a Utility Security Specialist 2 
+3 
+in the Utility Security Section of the Office of 
+4 
+Electric, Gas and Water.  
+5 
+Q.  Please state your educational background and 
+6 
+professional experience. 
+7 
+A. 
+Before I joined the Department in 2019, I was 
+8 
+employed by the Time Warner Cable/Spectrum 
+9 
+Communications, responsible for Physical 
+10 
+Security, Internal, External and Compliance 
+11 
+related investigations, prior to that I was 
+12 
+employed by the NYS Department of Insurance, The 
+13 
+NYS Attorney General’s Office Organized Crime 
+14 
+Task Force and, The City of Buffalo Police 
+15 
+Department. I am Certified in numerous Incident 
+16 
+Command System Disaster and Preparedness 
+17 
+training, Criminal and Investigative Training 
+18 
+and Critical Infrastructure Security Training. 
+19 
+Collectively I have over 30 years of Law 
+20 
+Enforcement, investigative, compliance and 
+21 
+security training and experience.  
+22 
+Q.  Please describe your present duties in the 
+23 
+Utility Security Section.  
+24 
+
+
+--- Page 5 ---
+Cases 22-E-0064 and 22-G-0065  
+ 
+STAFF SECURITY PANEL 
+  
+ 
+ 
+4 
+ 
+A. 
+My current responsibilities include performing 
+1 
+physical and electronic security vulnerability 
+2 
+assessments of critical facilities which are 
+3 
+owned and operated by the energy, water and 
+4 
+telecommunication utilities regulated by the 
+5 
+Commission. 
+6 
+Q. 
+Mr. McNaughton, have you previously testified 
+7 
+before the Commission? 
+8 
+A. 
+No. 
+9 
+Summary of Testimony 
+10 
+Q.  What is the purpose of the Panel’s testimony in 
+11 
+these proceedings?  
+12 
+A.   The Panel’s testimony will summarize 
+13 
+Consolidated Edison Company of New York, Inc.’s, 
+14 
+referred to as Con Edison or the Company, 
+15 
+proposals for cybersecurity and physical 
+16 
+security programs and projects, discuss our 
+17 
+review process, and recommend adjustments 
+18 
+related to Company proposed cybersecurity 
+19 
+capital expenditures and Operating & 
+20 
+Maintenance, referred to as O&M, expenses for 
+21 
+the Rate Year. 
+22 
+Q. 
+Please define the Historic Test Year and Rate 
+23 
+Year.  
+24 
+
+
+--- Page 6 ---
+Cases 22-E-0064 and 22-G-0065  
+ 
+STAFF SECURITY PANEL 
+  
+ 
+ 
+5 
+ 
+A. 
+The Historic Test Year is the 12-month period 
+1 
+ending September 30, 2021.  The Rate Year, or 
+2 
+RY, is the 12-month period ending December 31, 
+3 
+2023. 
+4 
+Q. 
+In the testimony, will the Panel refer to, or 
+5 
+otherwise rely upon, any information produced 
+6 
+during the discovery phase of this proceeding? 
+7 
+A. 
+Yes, we will refer to, and have relied upon in 
+8 
+our testimony, several responses to Staff 
+9 
+Interrogatories, referred to as IRs.  The IR 
+10 
+responses that the Panel relied upon are 
+11 
+included in Exhibit__ (SP-1).  
+12 
+Q. 
+Are you sponsoring any other exhibits?  
+13 
+A. 
+No. 
+14 
+Review Process 
+15 
+Q.  Please describe the Panel’s approach for 
+16 
+assessing the Company’s proposed cybersecurity 
+17 
+and physical security capital and O&M 
+18 
+expenditures.  
+19 
+A.  We approached the review of the Company’s 
+20 
+proposed capital and O&M proposals with the 
+21 
+following considerations:  
+22 
+ 
+First, we reviewed the whitepapers for project 
+23 
+justification and alternatives that were 
+24 
+
+
+--- Page 7 ---
+Cases 22-E-0064 and 22-G-0065  
+ 
+STAFF SECURITY PANEL 
+  
+ 
+ 
+6 
+ 
+considered by the Company to ensure the projects 
+1 
+were necessary and the best option was selected. 
+2 
+ 
+Second, the Panel investigated whether the 
+3 
+proposed projects were appropriate for providing 
+4 
+secure and reliable service at just and 
+5 
+reasonable rates.  
+6 
+ 
+Third, consideration was given as to whether the 
+7 
+cost estimates are reasonable based on 
+8 
+historical costs, and, if not, whether the 
+9 
+Company provided adequate justification with 
+10 
+reasonable assumptions for deviating from 
+11 
+historical costs.  In addition, when historic 
+12 
+costs were used to project future capital 
+13 
+spending, those historic unit costs analyzed.  
+14 
+Finally, we reviewed the Company’s past 
+15 
+proposals in prior rate cases and the Company’s 
+16 
+historic performance in achieving the proposed 
+17 
+project schedule at the forecasted costs.  
+18 
+Cybersecurity 
+19 
+Q. 
+Does the Panel recommend adjustments to any of 
+20 
+Con Edison’s proposed cyber security programs? 
+21 
+A. 
+Yes.  The Panel recommends capital and O&M 
+22 
+adjustments to the proposed Cybersecurity 
+23 
+Program.  We also recommend capital adjustments 
+24 
+
+
+--- Page 8 ---
+Cases 22-E-0064 and 22-G-0065  
+ 
+STAFF SECURITY PANEL 
+  
+ 
+ 
+7 
+ 
+to the Cyber Forensic Equipment program and the 
+1 
+Cyber Security Upgrade (Substations) program. 
+2 
+Q. 
+What adjustments do you recommend for the 
+3 
+specific cybersecurity investments proposed by 
+4 
+the Company for the Rate Year?  
+5 
+A. 
+The adjustments fall into the following 
+6 
+categories: (1) Capital expenditures, referred 
+7 
+to as CAPEX, adjustments; (2) Non-labor O&M 
+8 
+budget adjustments; and (3) adjustments to the 
+9 
+labor-related O&M budgets of specific 
+10 
+cybersecurity programs.  
+11 
+Cybersecurity Program 
+12 
+Q. 
+Please describe the objectives of the Company’s 
+13 
+Cybersecurity Program proposed in these 
+14 
+proceedings. 
+15 
+A. 
+According to page 60 of the Information 
+16 
+Technology Panel testimony, the Cybersecurity 
+17 
+Program is a specific name for a group of 
+18 
+proposed activities that implement new 
+19 
+technologies and increase Con Edison’s ability 
+20 
+to address cybersecurity risks. BEGIN 
+21 
+CONFIDENTIAL INFORMATION  
+ 
+22 
+ 
+23 
+ 
+24 
+
+
+--- Page 9 ---
+Cases 22-E-0064 and 22-G-0065  
+ 
+STAFF SECURITY PANEL 
+  
+ 
+ 
+8 
+ 
+ 
+1 
+. 
+2 
+ 
+3 
+ 
+4 
+ 
+5 
+ 
+6 
+ 
+7 
+ END CONFIDENTIAL INFORMATION 
+8 
+Q.  What funding does the Company request for its 
+9 
+proposed CAPEX and O&M expenditures? 
+10 
+A. 
+According to page 7 of Exhibit___(IT-7), Con 
+11 
+Edison requests CAPEX budgets of approximately 
+12 
+$16.38 million for the Rate Year, $16.95 million 
+13 
+for RY 2, and $19.02 million for RY3, for a 
+14 
+three-year total of $52.35 million of CAPEX 
+15 
+requested.  For O&M, the Company requests 
+16 
+budgets of $21.39 million for 2023, $26.8 
+17 
+million for 2024, and $27.9 million for 2025, 
+18 
+totaling $76.09 million.  
+19 
+Q. 
+What is the Panel’s overall assessment of the 
+20 
+request for the Cybersecurity Program described 
+21 
+in the Company’s filing? 
+22 
+A. 
+The dollar amounts stated above for Rate Year 1 
+23 
+through Rate Year 3 are significantly higher 
+24 
+
+
+--- Page 10 ---
+Cases 22-E-0064 and 22-G-0065  
+ 
+STAFF SECURITY PANEL 
+  
+ 
+ 
+9 
+ 
+than then the $18.4 million CAPEX and $10.2 
+1 
+million O&M that Con Edison requested for 2019 
+2 
+through 2021 in Cases 19-E-0065 and 19-G-0066 
+3 
+Information Technology Panel’s initial 
+4 
+testimony, page 28.  The funding requested for 
+5 
+2023 alone on page 7 of Exhibit___(IT-7) is 
+6 
+$16.4 million in CAPEX and $21.4 million O&M.  
+7 
+The Company did not provide enough detailed 
+8 
+justification for the substantial increases.  
+9 
+For example, on page 3 of Exhibit___(IT-7), the 
+10 
+Company requests BEGIN CONFIDENTIAL INFORMATION 
+11 
+ 
+12 
+ 
+13 
+ 
+14 
+ 
+15 
+ 
+16 
+ END CONFIDENTIAL INFORMATION  
+17 
+Furthermore, the response to DPS-18-516, 
+18 
+provided in Exhibit___(SP-1), did not provide 
+19 
+the level of detail to support the costs of the 
+20 
+projects or demonstrate adequate analysis.  The 
+21 
+Panel acknowledges that the cybersecurity risks, 
+22 
+threat actors/vectors, and technologies involved 
+23 
+are constantly changing and increasing in 
+24 
+
+
+--- Page 11 ---
+Cases 22-E-0064 and 22-G-0065  
+ 
+STAFF SECURITY PANEL 
+  
+ 
+ 
+10 
+ 
+complexity, necessitating the implementation of 
+1 
+the projects that comprise the Cybersecurity 
+2 
+program to ensure a high level of cybersecurity 
+3 
+monitoring and protection. However, Con Edison 
+4 
+did not provide adequate explanation or analysis 
+5 
+for such a substantial increase in funding for 
+6 
+its cybersecurity program when the Company 
+7 
+managed to successfully implement its 
+8 
+cybersecurity programs in previous years with 
+9 
+significantly less funding. 
+10 
+Q.  What does the Panel recommend? 
+11 
+A. 
+Because of a lack of justification for both 
+12 
+capital and O&M, the Panel recommends budgets 
+13 
+based on the historical three-year average from 
+14 
+2019 through 2021 of actual capital and O&M 
+15 
+spending as provided in response to DPS-18-518, 
+16 
+Attachment 1, contained in Exhibit___(SP-1). 
+17 
+Q.  What does the Panel recommend regarding the 
+18 
+capital expenditures for the Cybersecurity 
+19 
+Program? 
+20 
+A. 
+We recommend capital expenditures of BEGIN 
+21 
+CONFIDENTIAL INFORMATION 
+ 
+22 
+ 
+23 
+ 
+24 
+
+
+--- Page 12 ---
+Cases 22-E-0064 and 22-G-0065  
+ 
+STAFF SECURITY PANEL 
+  
+ 
+ 
+11 
+ 
+ END CONFIDENTIAL 
+1 
+INFORMATION   
+2 
+Q. 
+Have the Panel’s recommendations taken inflation 
+3 
+into account? 
+4 
+A. 
+Yes.  The recommended Rate Year budgets account 
+5 
+for inflation at the rate specified by Staff 
+6 
+witness Gadomski in his direct testimony. 
+7 
+Q. 
+What is the Panel’s recommended level of IT 
+8 
+Cybersecurity Program O&M for the Rate Year?  
+9 
+A. 
+For O&M, the Panel recommends $9.7 million for 
+10 
+Rate Year 1, which is a decrease of BEGIN 
+11 
+CONFIDENTIAL INFORMATION 
+ END 
+12 
+CONFIDENTIAL INFORMATION 
+13 
+Q. 
+Did you provide your CAPEX and O&M adjustments 
+14 
+to the Staff Accounting Panel so they could 
+15 
+include them in Staff’s recommended revenue 
+16 
+requirements? 
+17 
+A. 
+Yes. 
+18 
+ 
+Cyber Security - Forensic Equipment Program 
+19 
+Q. 
+What is the Cyber Security – Cyber Forensic 
+20 
+Equipment program? 
+21 
+A. 
+According to pages 24-25 of Exhibit__(IT-7), 
+22 
+under this program, Con Edison would update the 
+23 
+Corporate Security Cyber Forensic 
+24 
+
+
+--- Page 13 ---
+Cases 22-E-0064 and 22-G-0065  
+ 
+STAFF SECURITY PANEL 
+  
+ 
+ 
+12 
+ 
+Investigations, or CSCFI, unit’s investigatory 
+1 
+equipment used to analyze breaches and malware 
+2 
+for identifying root causes of cyber-related 
+3 
+incidents. 
+4 
+Q. 
+What is Con Edison’s justification for this 
+5 
+proposal? 
+6 
+A. 
+The CSCFI team needs to periodically update and 
+7 
+maintain its investigatory equipment and ensure 
+8 
+that its personnel receive up-to-date devices to 
+9 
+fulfill its mission of protecting the Company’s 
+10 
+networks and critical cyber assets from attack 
+11 
+and investigating all incidents.  
+12 
+Q.  What is the Company requesting for capital 
+13 
+expenditures? 
+14 
+A. 
+According to page 27 of Exhibit__(IT-7), the 
+15 
+Company seeks $260,000 for each Rate Year 1  
+16 
+RY3.  
+17 
+Q. 
+What is the Panel’s assessment of the request 
+18 
+for this program described in the Company’s 
+19 
+filing? 
+20 
+A. 
+The implementation of the Cyber Security – Cyber 
+21 
+Forensic Equipment program is necessary in order 
+22 
+for the Company to properly respond to cyber 
+23 
+related incidents.  The program provides Con 
+24 
+
+
+--- Page 14 ---
+Cases 22-E-0064 and 22-G-0065  
+ 
+STAFF SECURITY PANEL 
+  
+ 
+ 
+13 
+ 
+Edison the ability to both compile evidence of a 
+1 
+cyber incident and perform root cause analysis 
+2 
+of a breach.  However, Con Edison did not 
+3 
+provide adequate explanation for the increase in 
+4 
+the proposed levels of funding when compared to 
+5 
+previous levels.  The responses to DPS-28-709, 
+6 
+provided in Exhibit___(SP-1) were equivocal and 
+7 
+did not provide sufficient information to 
+8 
+justify the level of funding requested by the 
+9 
+Company.  For example, the Company’s response to 
+10 
+question 2(e) of DPS-28-709, Con Edison’s 
+11 
+justification for its 8.98 percent budget 
+12 
+overrun states “we were slightly over budget due 
+13 
+to some unexpected overhead charges.”  
+14 
+Q. 
+What is the Panel’s recommended capital 
+15 
+expenditures for Cyber Security – Cyber Forensic 
+16 
+Equipment program?  
+17 
+A. 
+The Panel recommends a budget of $116,000 of 
+18 
+capital expenditures in the Rate Year, a 
+19 
+decrease of $144,000 to the Company’s proposal 
+20 
+of $260,000.   
+21 
+Q.  How did the Panel determine the recommended 
+22 
+budgets? 
+23 
+A. 
+Due to the lack of detail and analysis for 
+24 
+
+
+--- Page 15 ---
+Cases 22-E-0064 and 22-G-0065  
+ 
+STAFF SECURITY PANEL 
+  
+ 
+ 
+14 
+ 
+justifying the amounts requested, our 
+1 
+recommended budgets are based on the Company’s 
+2 
+actual capital expenditure for 2020 as 
+3 
+documented in the response to DPS-29-709.    
+4 
+Q.  Do the Panel’s recommendations take inflation 
+5 
+into account? 
+6 
+A. 
+Yes.  The recommended Rate Year budgets account 
+7 
+for inflation as specified by Staff witness 
+8 
+Gadomski.  
+9 
+Q. 
+Did you provide your CAPEX and O&M adjustments 
+10 
+to the Staff Accounting Panel so they could 
+11 
+include them in Staff’s recommended revenue 
+12 
+requirements? 
+13 
+A. 
+Yes. 
+14 
+Substations - Cyber Security Upgrade Proposal 
+15 
+Q. 
+Please describe the Critical Infrastructure 
+16 
+Protection Cyber Security Upgrade Program 
+17 
+(Substations). 
+18 
+A. 
+As explained on page 10 of Exhibit___(EIOP-8), 
+19 
+this is a continuation of a program which funds 
+20 
+security enhancements that will be implemented 
+21 
+at 101 Substation Operations facilities per NERC 
+22 
+Critical Infrastructure Protection , or CIP, 
+23 
+version 6 requirements. All 39 transmission 
+24 
+
+
+--- Page 16 ---
+Cases 22-E-0064 and 22-G-0065  
+ 
+STAFF SECURITY PANEL 
+  
+ 
+ 
+15 
+ 
+substations are complete. The current focus is 
+1 
+to baseline cyber assets and place cyber 
+2 
+security controls in the area substations.  
+3 
+Q.  What CAPEX funding is the Company requesting for 
+4 
+this program? 
+5 
+A. 
+In Exhibit___(EIOP-8), Schedule 2, page 13, Con 
+6 
+Edison requests $1.0 million for RY1, $1.0 
+7 
+million for RY2, and $1.0 million for RY3. 
+8 
+Q. 
+What did the Panel learn during its review of 
+9 
+the Cybersecurity Upgrade Program? 
+10 
+A. 
+Overall, that Con Edison’s actual spending was 
+11 
+less than its previously approved budgets.  
+12 
+According to the Company’s response to DPS-2-
+13 
+260, Attachment 1, Tab EIOP 8 Safety + Security 
+14 
+Cap, provided in Exhibit___(SP-1), actual vs. 
+15 
+budget from 2017 through 2021, on average, was 
+16 
+50 percent under budget. 
+17 
+Q. 
+Was there any reason for the underspend? 
+18 
+A. 
+Due to the pandemic, the Company was unable to 
+19 
+implement the Cyber Security Upgrade Program 
+20 
+(Substations) during the years 2020 and 2021.  
+21 
+This is reflected in the amount spent on the 
+22 
+program in 2020 through 2021.   
+23 
+Q.  What does the Panel recommend? 
+24 
+
+
+--- Page 17 ---
+Cases 22-E-0064 and 22-G-0065  
+ 
+STAFF SECURITY PANEL 
+  
+ 
+ 
+16 
+ 
+A. 
+The Panel recommends the budget be reduced to 
+1 
+account for the Company’s consistent historical 
+2 
+underspending in the years 2017 through 2021.  
+3 
+However, we recommend the Commission take into 
+4 
+account the justifiable underspend in 2020 
+5 
+through 2021 due to the COVID-19 pandemic.  
+6 
+Therefore, the Panel recommends an adjustment 
+7 
+for the proposed capital expenditures be based 
+8 
+on the Company’s average three-year 2017 through 
+9 
+2019 actual spending, as provided in the 
+10 
+response to DPS-2-260, Attachment 1, included in 
+11 
+Exhibit___(SP-1).  
+12 
+Q. 
+What does the Panel recommend for the Cyber 
+13 
+Security Upgrade Program (Substations)for the 
+14 
+Rate Year?  
+15 
+A. 
+The Panel recommends $625,000 of capital 
+16 
+expenditures in the Rate Year, a decrease of 
+17 
+$375,000 from the Company’s proposal.   
+18 
+Q.  Have your adjustments taken inflation into 
+19 
+account? 
+20 
+A. 
+Yes. The recommended Rate Year budgets account 
+21 
+for inflation as specified by Staff witness 
+22 
+Gadomski.  
+23 
+Q. 
+Did you provide your CAPEX and O&M adjustments 
+24 
+
+
+--- Page 18 ---
+Cases 22-E-0064 and 22-G-0065  
+ 
+STAFF SECURITY PANEL 
+  
+ 
+ 
+17 
+ 
+to the Staff Accounting Panel so they could 
+1 
+include them in Staff’s recommended revenue 
+2 
+requirements? 
+3 
+A. 
+Yes. 
+4 
+Other Cybersecurity Programs 
+5 
+Q. 
+Are there other cybersecurity programs proposed 
+6 
+in the Company’s filing? 
+7 
+A. 
+Yes.  They are Cybersecurity Infrastructure, 
+8 
+Cybersecurity and Operations Network for EMS 
+9 
+(Energy Management System), Cybersecurity and 
+10 
+NERC CIP Compliance, and Cyber Security Upgrade 
+11 
+Program (Transmission). 
+12 
+Q. 
+Does the Panel have any recommendations for 
+13 
+these programs? 
+14 
+A. 
+No.  
+15 
+Corporate Security Perimeter Enhancement Program 
+16 
+Q. 
+Please list the Company’s proposals related to 
+17 
+Physical Security. 
+18 
+A. 
+For Physical Security the Company proposes seven 
+19 
+programs throughout its filings in these 
+20 
+proceedings.  In the Company’s Shared Services 
+21 
+Panel Exhibit___(SSP-3), pp. 3 - 7, they propose 
+22 
+Corporate Security, Perimeter Security 
+23 
+Enhancement.  In the Company’s Shared Service 
+24 
+
+
+--- Page 19 ---
+Cases 22-E-0064 and 22-G-0065  
+ 
+STAFF SECURITY PANEL 
+  
+ 
+ 
+18 
+ 
+Panel Exhibit ___(SSP-6) Facilities and Field 
+1 
+services, p. 44, Facilities Security Upgrades 
+2 
+are proposed.  In the Company’s Information 
+3 
+Technology Panel Exhibit___(IT-7), Confidential 
+4 
+IT programs, p. 29, they propose Corporate 
+5 
+Security Corporate Wide Camera Roll out, and on 
+6 
+p. 34, they propose Corporate Security Network 
+7 
+Video Recorder and Digital Video Recorder 
+8 
+Replacements.  In the Company’s Electric 
+9 
+Information and Operations Panel, Transmission 
+10 
+and Distribution Safety and Security, 
+11 
+Exhibit___(EIOP-8), they propose Energy Control 
+12 
+Center Security/Alternate Energy Control Center 
+13 
+Security Upgrades, p. 19, and Substation 
+14 
+Security Upgrades Program, p. 27.  In the 
+15 
+Company’s Gas Infrastructure and Operations 
+16 
+Panel, Exhibit___(GIOSP-1), they propose LNG 
+17 
+Security, p. 190.  
+18 
+Q. 
+Please explain which programs discussed in the 
+19 
+Shared Services Panel initial testimony? 
+20 
+A. 
+The Company’s Shared Services Panel proposes two 
+21 
+security programs, the Facilities Security 
+22 
+Upgrades program and Corporate Security 
+23 
+Perimeter Enhancement program.  For each 
+24 
+
+
+--- Page 20 ---
+Cases 22-E-0064 and 22-G-0065  
+ 
+STAFF SECURITY PANEL 
+  
+ 
+ 
+19 
+ 
+program, Con Edison requests $3 million in Rate 
+1 
+Year 1, or a total of $6 million. 
+2 
+Q. 
+Please describe the Corporate Security Perimeter 
+3 
+Enhancement Program? 
+4 
+A. 
+The Corporate Security Perimeter Enhancement 
+5 
+program as described in Corporate Security, 
+6 
+Exhibit___(SSP-3), calls for BEGIN CONFIDENTIAL 
+7 
+INFORMATION 
+ END CONFIDENTIAL 
+8 
+INFORMATION at corporate sites beyond 
+9 
+transmission or distribution sites.  According 
+10 
+to the response to DPS-35-778, the Company 
+11 
+requests funding to support the installation of 
+12 
+BEGIN CONFIDENTIAL INFORMATION 
+ 
+13 
+ 
+14 
+ 
+15 
+. END CONFIDENTIAL 
+16 
+INFORMATION  
+17 
+Q. 
+What did the panel learn during its review of 
+18 
+the Company’s funding? 
+19 
+A. 
+The Company’s justification for this program as 
+20 
+stated in the Exhibit provided in the Shared 
+21 
+Services Panel, Corporate Security pp. 3 of 7 
+22 
+Exhibit___(SSP-3) is only that most locations 
+23 
+use older BEGIN CONFIDENTIAL INFORMATION 
+ 
+24 
+
+
+--- Page 21 ---
+Cases 22-E-0064 and 22-G-0065  
+ 
+STAFF SECURITY PANEL 
+  
+ 
+ 
+20 
+ 
+ 
+1 
+ END 
+2 
+CONFIDENTIAL INFORMATION  While some corporate 
+3 
+sites are not directly related to distribution 
+4 
+or transmission, they may, for any number of 
+5 
+reasons that might impact that site’s risk 
+6 
+profile, call for BEGIN CONFIDENTIAL INFORMATION 
+7 
+ END CONFIDENTIAL 
+8 
+INFORMATION most do not.  The business nature of 
+9 
+these sites is not consistent with the need for 
+10 
+BEGIN CONFIDENTIAL INFORMATION 
+ 
+11 
+ END CONFIDENTIAL INFORMATION and those 
+12 
+perimeter security needs can be adequately met 
+13 
+with the use of BEGIN CONFIDENTIAL INFORMATION 
+14 
+ END CONFIDENTIAL INFORMATION.  
+15 
+Q. 
+Has the Panel any recommendations relating to 
+16 
+the Perimeter Enhancement program? 
+17 
+A. 
+Yes.  The Panel recommends that the Commission 
+18 
+reject the Company’s plan to install BEGIN 
+19 
+CONFIDENTIAL INFORMATION 
+ END 
+20 
+CONFIDENTIAL INFORMATION fencing at sites not 
+21 
+considered critical to transmission or 
+22 
+distribution is unnecessary.  Securing storage 
+23 
+yards, parking lots and work out or service 
+24 
+
+
+--- Page 23 ---
+Cases 22-E-0064 and 22-G-0065  
+ 
+STAFF SECURITY PANEL 
+  
+ 
+ 
+22 
+ 
+INFORMATION as it will provide sufficient 
+1 
+protection for the type of facilities covered by 
+2 
+this program.  In the response to DPS-35-778, 
+3 
+Con Edison indicated it expects to install 
+4 
+approximately BEGIN CONFIDENTIAL INFORMATION 
+ 
+5 
+ END CONFIDENTIAL 
+6 
+INFORMATION per rate year.  At a cost of $27,621 
+7 
+per BEGIN CONFIDENTIAL INFORMATION 
+ 
+8 
+, END 
+9 
+CONFIDENTIAL INFORMATION the Panel recommends a 
+10 
+budget of $1.7 million for each rate year, which 
+11 
+is a decrease of $1.3 million. 
+12 
+Q. 
+Did you provide your adjustments to the Staff 
+13 
+Accounting Panel so they could include them in 
+14 
+Staff’s recommended revenue requirements? 
+15 
+A. 
+Yes.   
+16 
+Facility Security Upgrade Program 
+17 
+Q. 
+Describe the Facility Security Upgrades. 
+18 
+A. 
+The Company requests funding for Facility 
+19 
+Security Upgrades, as described in the Company’s 
+20 
+Shared Services Panel’s Exhibit___(SSP-6), which 
+21 
+calls for site specific security updates, 
+22 
+including BEGIN CONFIDENTIAL INFORMATION 
+23 
+ 
+24 
+
+
+--- Page 24 ---
+Cases 22-E-0064 and 22-G-0065  
+ 
+STAFF SECURITY PANEL 
+  
+ 
+ 
+23 
+ 
+ 
+1 
+ 
+2 
+ 
+3 
+ 
+4 
+ END CONFIDENTIAL 
+5 
+INFORMATION.  Over three (3) rate years, these 
+6 
+upgrades are scheduled for five (5) sites  
+7 
+Q. 
+Does the Panel have any concerns? 
+8 
+A. 
+Yes.  Con Edison failed to describe in detail 
+9 
+what work would be performed at each location.  
+10 
+Any information provided was only at a high 
+11 
+level.  The Company should have detailed 
+12 
+requirements for BEGIN CONFIDENTIAL INFORMATION 
+13 
+ END 
+14 
+CONFIDENTIAL INFORMATION expected to be 
+15 
+addressed at each of the previously identified 
+16 
+locations, including but not limited to, BEGIN 
+17 
+CONFIDENTIAL INFORMATION 
+ 
+18 
+ 
+19 
+ 
+20 
+ END CONFIDENTIAL 
+21 
+INFORMATION   
+22 
+Q. 
+Please continue. 
+23 
+A. 
+The Company White Paper lacked detail regarding 
+24 
+
+
+--- Page 25 ---
+Cases 22-E-0064 and 22-G-0065  
+ 
+STAFF SECURITY PANEL 
+  
+ 
+ 
+24 
+ 
+the specific components scheduled for 
+1 
+replacement or installation, time frame required 
+2 
+and alternatives.  In fact, there is no evidence 
+3 
+that the Company considered alternate solutions, 
+4 
+despite having a specific section of the White 
+5 
+Paper dedicated to alternatives.  Rather than 
+6 
+stating potential alternative, Con Edison simply 
+7 
+states reasons to use its proposed solution.  As 
+8 
+a result, Con Edison has not adequately 
+9 
+justified the scope and cost of the program.  
+10 
+The Company also failed to provide evidence 
+11 
+indicating that BEGIN CONFIDENTIAL INFORMATION 
+12 
+ 
+13 
+ 
+14 
+ END 
+15 
+CONFIDENTIAL INFORMATION. 
+16 
+Q. 
+Are there specific concerns regarding BEGIN 
+17 
+CONFIDENTIAL INFORMATION 
+ END 
+18 
+CONFIDENTIAL INFORMATION? 
+19 
+A. 
+Yes.  Similar to the Perimeter Security Fencing 
+20 
+Enhancement Program, Con Edison’s plan to 
+21 
+install BEGIN CONFIDENTIAL INFORMATION 
+ 
+22 
+ END CONFIDENTIAL INFORMATION  
+23 
+at sites under this program is not necessary and 
+24 
+
+
+--- Page 26 ---
+Cases 22-E-0064 and 22-G-0065  
+ 
+STAFF SECURITY PANEL 
+  
+ 
+ 
+25 
+ 
+the securing of BEGIN CONFIDENTIAL INFORMATION 
+1 
+ 
+2 
+ 
+3 
+ END CONFIDENTIAL INFORMATION.  
+4 
+By doing so, forecasted BEGIN CONFIDENTIAL 
+5 
+INFORMATION 
+ END CONFIDENTIAL 
+6 
+INFORMATION can be reduced by 44.6 percent, as 
+7 
+previously discussed under the Perimeter 
+8 
+Enhancement Program. 
+9 
+Q. 
+Did the Panel find any inefficiencies with this 
+10 
+program? 
+11 
+A. 
+Yes.  As previously discussed, various panels 
+12 
+for Con Edison propose in their initial 
+13 
+testimonies capital expenditures with similar 
+14 
+work plans.  We recommend that the BEGIN 
+15 
+CONFIDENTIAL INFORMATION 
+ END 
+16 
+CONFIDENTIAL INFORMATION portion of this program 
+17 
+would be best served if merged with Con Edison’s 
+18 
+Perimeter Enhancement Program (discussed in the 
+19 
+Shared Services Panel, Corporate Security, 
+20 
+Exhibit___(SSP-3) pp. 3 of 7) which is solely 
+21 
+designed to BEGIN CONFIDENTIAL INFORMATION 
+22 
+ 
+23 
+ END 
+24 
+
+
+--- Page 27 ---
+Cases 22-E-0064 and 22-G-0065  
+ 
+STAFF SECURITY PANEL 
+  
+ 
+ 
+26 
+ 
+CONFIDENTIAL INFORMATION.  Better yet, the most 
+1 
+efficient approach would be to put all BEGIN 
+2 
+CONFIDENTIAL INFORMATION 
+ 
+3 
+ END CONFIDENTIAL INFORMATION 
+4 
+ 
+Similar to BEGIN CONFIDENTIAL INFORMATION 
+5 
+ END CONFIDENTIAL INFORMATION, the Panel 
+6 
+recommends that the BEGIN CONFIDENTIAL 
+7 
+INFORMATION 
+ END CONFIDENTIAL 
+8 
+INFORMATION at identified sites addressed under 
+9 
+this program would be best served if merged with 
+10 
+the Corporate Security Company-Wide Camera Roll 
+11 
+out Program, which is solely designed to assess 
+12 
+and design BEGIN CONFIDENTIAL INFORMATION 
+ 
+13 
+ 
+14 
+ END CONFIDENTIAL INFORMATION.   
+15 
+Q. 
+Does the Panel suggest any recommendations for 
+16 
+this program? 
+17 
+A. 
+In recognition of insufficient support of work 
+18 
+activities and our recommendation that standard 
+19 
+BEGIN CONFIDENTIAL INFORMATION 
+ 
+20 
+ END CONFIDENTIAL INFORMATION would 
+21 
+suffice, thereby reducing the associated 
+22 
+estimated cost by a factor of 44.6 percent, the 
+23 
+Panel recommends the program be reduced from its 
+24 
+
+
+--- Page 28 ---
+Cases 22-E-0064 and 22-G-0065  
+ 
+STAFF SECURITY PANEL 
+  
+ 
+ 
+27 
+ 
+proposed levels.  Due to the lack of information 
+1 
+provided (e.g. BEGIN CONFIDENTIAL INFORMATION 
+2 
+ END CONFIDENTIAL 
+3 
+INFORMATION), the Panel is unable to perform a 
+4 
+bottoms-up calculation to establish an 
+5 
+appropriate budget.  Therefore, the Panel 
+6 
+recommends Con Edison’s proposed budget be 
+7 
+reduced by 50 percent due to the 44 percent  
+8 
+cost reduction as a result of using 1”x1” chain 
+9 
+Link fencing as opposed to BEGIN CONFIDENTIAL 
+10 
+INFORMATION 
+ END CONFIDENTIAL 
+11 
+INFORMATION fencing and the lack of detail 
+12 
+regarding access control or camera replacement 
+13 
+for each site.  This results in the Panel 
+14 
+recommending a budget of BEGIN CONFIDENTIAL 
+15 
+INFORMATION 
+ END CONFIDENTIAL 
+16 
+INFORMATION for each Rate Year.   
+17 
+Q. 
+Which programs in Con Edison’s Information 
+18 
+Technology Panel were reviewed? 
+19 
+A. 
+The Panel reviewed the Corporate Security NVR 
+20 
+and DVR Replacement program, Corporate Security 
+21 
+program, and Corporate wide Camera Roll out  
+22 
+Q. 
+Do you have any adjustments to these programs? 
+23 
+A. 
+No.  These programs were justified, and the 
+24 
+
+
+--- Page 29 ---
+Cases 22-E-0064 and 22-G-0065  
+ 
+STAFF SECURITY PANEL 
+  
+ 
+ 
+28 
+ 
+funding requested is reasonable.  The Panel 
+1 
+recommends no adjustment to these programs.  
+2 
+Q. 
+Which programs in Con Edison’s Electric 
+3 
+Infrastructure and Operations Panel and Gas 
+4 
+Infrastructure and Operations Panel were 
+5 
+reviewed? 
+6 
+A. 
+The Panel reviewed the Energy Control Center and 
+7 
+Alternate Energy Control Center Facility 
+8 
+Security Enhancements and LNG Security Program.  
+9 
+Q. 
+Do you have any adjustments to these programs? 
+10 
+A. 
+No.  These programs were justified, and the 
+11 
+funding requested is reasonable.  The Panel 
+12 
+recommends no adjustment to these programs.   
+13 
+Q.  Does this conclude your testimony at this time? 
+14 
+A. 
+Yes. 
+15 

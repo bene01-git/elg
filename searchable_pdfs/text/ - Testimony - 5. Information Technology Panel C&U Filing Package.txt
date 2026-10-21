@@ -1,0 +1,10735 @@
+--- Page 1 ---
+ 
+ 
+ 
+ 
+ 
+ 
+ 
+ 
+ 
+ 
+ 
+ 
+ 
+ 
+ 
+Before the Public Service Commission 
+ 
+THE BROOKLYN UNION GAS COMPANY d/b/a NATIONAL GRID NY 
+and KEYSPAN GAS EAST CORPORATION d/b/a NATIONAL GRID 
+ 
+Corrections and Updates Testimony 
+ 
+of the 
+ 
+Information Technology Panel 
+ 
+ 
+ 
+ 
+ 
+ 
+ 
+ 
+ 
+ 
+ 
+ 
+ 
+ 
+ 
+ 
+Dated: July 3, 2019 
+ 
+ 
+ 
+ 
+ 
+ 
+
+
+--- Page 2 ---
+ 
+ 
+ 
+ 
+ 
+ 
+ 
+ 
+ 
+TABLE OF CONTENTS 
+ 
+I. 
+Introduction ......................................................................................................................... 1 
+II. 
+Corrections & Updates ........................................................................................................ 3 
+CIS Project .................................................................................................................................. 3 
+Reduced Mandated Projects Budget ........................................................................................... 5 
+Project INVP 5130 ...................................................................................................................... 6 
+SAP S/4 HANA .......................................................................................................................... 7 
+Omitted Run-the-Business Costs ................................................................................................ 9 
+III. 
+Conclusion……………………………………………………………………………….10 
+ 
+
+
+--- Page 3 ---
+Corrections and Updates Testimony of the Information Technology Panel 
+Page 1 of 10 
+I. 
+Introduction 
+1 
+Q. 
+Please introduce the members of the Information Technology (“IT”) Panel. 
+2 
+A. 
+The Panel consists of Stephen Olive, Daniel J. DeMauro, Mukund Ravipaty, and 
+3 
+Jeffrey Martin. 
+4 
+ 
+5 
+Q. 
+Is this the same Panel that previously submitted prepared direct testimony in 
+6 
+these proceedings?  
+7 
+A. 
+Yes.  This Panel provided direct testimony as part of the Companies’ April 30, 
+8 
+2019 filings.  The defined terms in the Panel’s direct testimony have the same 
+9 
+meanings in this corrections and updates testimony.     
+10 
+ 
+11 
+Q. 
+What is the purpose of the Panel’s corrections and updates testimony? 
+12 
+A. 
+The Panel’s corrections and updates testimony explains and supports certain 
+13 
+corrections and/or updates to the Companies’ proposals and projected costs of 
+14 
+various IT projects included in the Companies’ April 30, 2019 base rate filings in 
+15 
+these proceedings.   
+16 
+ 
+17 
+Q. 
+Does the Panel sponsor any exhibits as part of its Corrections and Updates 
+18 
+testimony? 
+19 
+A. 
+Yes.  The Panel sponsors the following exhibits, all of which were prepared by or 
+20 
+under the supervision and direction of one or more members of the Panel:  
+21 
+
+
+--- Page 4 ---
+ 
+Corrections and Updates Testimony of the Information Technology Panel 
+Page 2 of 10 
+Exhibit ___ (ITP-4CU) IT Capital Projects;  
+1 
+Exhibit ___ (ITP-7CU) IT Project OPEX Costs; and 
+2 
+Exhibit ___ (ITP-8CU) IT Total and Incremental Operating Expenses.  
+3 
+ 
+4 
+Q. 
+Please identify the corrections and/or updates presented by the Panel. 
+5 
+A. 
+The Companies have identified the following corrections and updates related to 
+6 
+National Grid’s IT projects and costs: 
+7 
+i. Correction for the inadvertent omission of an allowance for funds used 
+8 
+during construction (“AFUDC”) associated with the replacement of the 
+9 
+customer information system (“CIS”); 
+10 
+ii. Update to the planned in-service dates for CIS; 
+11 
+iii.  Update to the capital and operating expense budgets for mandated IT 
+12 
+investments anticipated to occur during the Rate Years and Data Years;  
+13 
+iv. Update to reflect revised allocation of costs from project INVP 5130; 
+14 
+v. Update to the in-service date for the IT/OT program, which was identified 
+15 
+in the Companies’ response to Information Request No. DPS-577; 
+16 
+vi. Update to the costs projected for the SAP S/4 HANA project; and 
+17 
+vii. Correction to include inadvertently omitted run-the-business (“RTB”) 
+18 
+operating expenses associated with certain projects that went, or will go, 
+19 
+into service prior to the end of the Rate Year. 
+20 
+ 
+
+
+--- Page 5 ---
+ 
+Corrections and Updates Testimony of the Information Technology Panel 
+Page 3 of 10 
+II. 
+Corrections & Updates 
+1 
+ 
+CIS Project 
+2 
+Q. 
+Please describe the corrections and updates associated with the proposed CIS 
+3 
+project. 
+4 
+ A. 
+There are two changes related to the CIS project: (i) inclusion of inadvertently 
+5 
+omitted AFUDC; and (ii) an update to the in-service dates initially proposed. 
+6 
+ 
+7 
+Q. 
+Please describe the correction to include AFUDC in the determination of the 
+8 
+cost of the CIS project. 
+ 
+9 
+A. 
+Large, longer-term capital projects, such as the planned CIS project, require 
+10 
+utilities to finance the cost of development prior to the asset going in-service and 
+11 
+becoming used and useful.  Utilities in New York are compensated for their costs 
+12 
+to finance such projects through the accrual of AFUDC for recovery in rates.  In 
+13 
+their initial filings in these proceedings, the Companies inadvertently failed to 
+14 
+include any AFUDC amount associated with the CIS project in the model used to 
+15 
+determine the revenue requirements for KEDNY and KEDLI.  The Companies are 
+16 
+correcting that error by including the appropriate AFUDC amount in their 
+17 
+corrected and updated revenue requirements.  
+18 
+ 
+19 
+
+
+--- Page 6 ---
+ 
+Corrections and Updates Testimony of the Information Technology Panel 
+Page 4 of 10 
+Q. 
+What is the amount of AFUDC included for the CIS project? 
+1 
+A. 
+The total forecast AFUDC amount attributable to the CIS project is approximately 
+2 
+$41 million.  Of that amount, $26.7 million is associated with projects that go into 
+3 
+service during the Rate Years and Data Years, and it is therefore appropriate to 
+4 
+include KEDNY and KEDLI’s allocable share of this amount in the determination 
+5 
+of the Companies’ revenue requirements in these proceedings. 
+6 
+ 
+7 
+Q. 
+Please describe the update to the planned in-service date for the CIS project. 
+8 
+A. 
+As described in the testimony of the Shared Services Panel, National Grid has 
+9 
+moved the CIS project start date from September 2019 to April 2020.   This 
+10 
+change results in a corresponding change of the in-service date for the CIS project 
+11 
+from April 1, 2022 to October 1, 2022 for both KEDNY and KEDLI.  See Exhibit 
+12 
+__ (ITP-4CU), page 1 of 5, which reflects the new planned in-service dates.     
+13 
+ 
+14 
+Q. 
+What are the revenue requirement impacts from the CIS project AFUDC 
+15 
+correction and in-service schedule update?    
+16 
+A. 
+There is no change in the Rate Year or Data Year 1 revenue requirements for 
+17 
+KEDNY or KEDLI from the inclusion of the CIS project AFUDC and the update 
+18 
+to the in-service date.   In Data Year 2, these changes result in a decrease in rent 
+19 
+expense to KEDNY and KEDLI of $1.316 million and $0.611 million, 
+20 
+respectively.  In Data Year 3, these changes result in an increase in rent expense 
+21 
+
+
+--- Page 7 ---
+ 
+Corrections and Updates Testimony of the Information Technology Panel 
+Page 5 of 10 
+to KEDNY and KEDLI of $4.098 million and $1.902 million, respectively.   
+1 
+Exhibit __ (RRP-11CU), the Workpapers to Exhibit __ (RRP-3CU), Schedule 9, 
+2 
+Workpapers 3, 6, 9, and 12 show the updated forecast rent expense associated 
+3 
+with the CIS project for KEDNY and KEDLI. 
+4 
+ 
+5 
+Changes To The Mandated Projects Budget    
+6 
+Q. 
+Please describe the updates to the capital and operation expense budgets for 
+7 
+mandated IT investments anticipated to occur during the Rate Year and 
+8 
+Data Years. 
+9 
+A. 
+Each year, National Grid is required to invest significant amounts in IT projects 
+10 
+needed to implement requirements imposed by governmental authorities.  Such 
+11 
+authorities include state and federal utility regulators, state or federal lawmakers, 
+12 
+taxing authorities, and similar bodies.  Based on the experience of being subject to 
+13 
+annual emergent mandatory IT obligations, National Grid proactively budgets for 
+14 
+such expenditures and includes an amount in its annual budget for anticipated 
+15 
+mandatory projects, the details of which are generally not known at the start of the 
+16 
+budget year.  In their April 30, 2019 filings, the Companies included $20 million 
+17 
+per year of capital investment for mandated IT projects across National Grid’s US 
+18 
+operations for the Rate Year and each Data Year as shown in Exhibit __ (ITP-4), 
+19 
+page 1 of 5, and annual operating expenses of between $1.5 million and $2.5 
+20 
+million for such projects as shown in Exhibit __ (ITP-7), page 1 of 2.  Subsequent 
+21 
+
+
+--- Page 8 ---
+ 
+Corrections and Updates Testimony of the Information Technology Panel 
+Page 6 of 10 
+to the April 30, 2019 filing, National Grid reexamined the inputs and historical 
+1 
+information used to estimate the annual mandatory projects capital and operating 
+2 
+expense budgets and determined that the capital investment amount should be 
+3 
+reduced to $14 million per year for each of the Rate Year and the Data Years, and 
+4 
+the operating expense budget should be increased to $6 million per year.   These 
+5 
+changes are reflected in Exhibit __ (ITP-4CU), page 1 of 5, and Exhibit __ (ITP-
+6 
+7CU), page 1 of 2.   
+7 
+ 
+8 
+ 
+Project INVP 5130  
+9 
+Q. 
+Please describe the update to reflect revised allocation of costs from project 
+10 
+INVP 5130 – CIAC Process Systems Enhancements. 
+11 
+A. 
+In their April 30, 2019 filings, the Companies included a project INVP 5130 in 
+12 
+Exhibit __ (ITP-4), page 2 of 5, with a total project capital investment of $1 
+13 
+million, and corresponding annual operating expenses shown on Exhibit __ (ITP-
+14 
+7), page 1 of 2.  The Companies anticipated that a portion of the costs associated 
+15 
+with this project would be allocated to KEDNY and KEDLI.  Subsequent to the 
+16 
+April 30 filings, the Companies determined that KEDNY and KEDLI would not 
+17 
+benefit from this particular project.  Accordingly, the project has been removed 
+18 
+from the IT capital projects list for KEDNY and KEDLI and its associated costs 
+19 
+are being removed from the Companies’ revenue requirements.     
+20 
+ 
+ 
+
+
+--- Page 9 ---
+ 
+Corrections and Updates Testimony of the Information Technology Panel 
+Page 7 of 10 
+IT/OT Discovery Project 
+1 
+Q. 
+Please describe the update concerning the status of the IT/OT project. 
+2 
+A. 
+The IT/OT Discovery Project is a cybersecurity project designed to enable 
+3 
+National Grid to better protect high value operational assets.  Exhibit __ (ITP-4) 
+4 
+mistakenly included a projected in-service date of July 2019 for this project; 
+5 
+whereas the proper date is February 2021.  The date has been updated in 
+6 
+Exhibit__ (ITP-4CU)     
+7 
+ 
+8 
+ 
+SAP S/4 HANA 
+9 
+Q. 
+Please describe updates projected for the SAP S/4 HANA project. 
+10 
+A. 
+In the April 30, 2019 filings, the Companies forecast $34.650 million of operating 
+11 
+expense in the Rate Year for the design phase of the SAP S/4 HANA project that 
+12 
+National Grid will be undertaking in FY21.  Although there were no capital costs 
+13 
+in the initial filing for this project, the Panel noted (at page 40) that until the 
+14 
+design phase had matured, National Grid would not have a clear estimate of 
+15 
+potential project costs.  The Panel further indicated that it would provide the 
+16 
+Commission an update of project costs as part of this corrections and updates 
+17 
+filing.  Although the design phase has not begun, as a result of work completed 
+18 
+during the “Discovery Roadmap” phase of the project, which began after the 
+19 
+April 30, 2019 rate filings, National Grid now has a more detailed estimate of 
+20 
+
+
+--- Page 10 ---
+ 
+Corrections and Updates Testimony of the Information Technology Panel 
+Page 8 of 10 
+future costs.  This estimate will be further refined during the “Design phase” once 
+1 
+the project is started. 
+2 
+ 
+3 
+Q.  
+What work was completed in the Discovery Roadmap phase that resulted in 
+4 
+the revised estimate? 
+5 
+A. 
+The project team developed a draft project scope by consulting with various 
+6 
+National Grid process areas affected by the project. As part of that review, the 
+7 
+team also looked at the integration assumptions, change assumptions, control 
+8 
+impacts, capability gaps, improvement opportunities, and implementation 
+9 
+considerations for each of the major process areas.  This information allowed 
+10 
+National Grid to develop an initial proposed solution that will be further refined 
+11 
+during the design phase.  The Discovery Roadmap phase also produced a brief 
+12 
+overview and timeline for the pre-implementation phase of the project as well as 
+13 
+potential sequencing options designed to maximize the proposed investment and 
+14 
+avoid rework with other existing or future initiatives.  
+15 
+ 
+16 
+Q. 
+What are the projected costs for the SAP S/4 Hana project? 
+17 
+A. 
+Based on the investigation performed in the Discovery Roadmap phase described 
+18 
+above, National Grid estimates capital expenditures of $373.5 million and 
+19 
+operating expenditures of $93.5 million over a 5-year period CY20 – CY24.  
+20 
+KEDNY and KEDLI’s allocated share of these costs is estimated to be $80.6 
+21 
+
+
+--- Page 11 ---
+ 
+Corrections and Updates Testimony of the Information Technology Panel 
+Page 9 of 10 
+million in capital expenditures and $20.3 million of operating expenditures. These 
+1 
+estimates do not include AFUDC or RTB costs expected to be incurred in the 
+2 
+Rate Years and Data Years.  Future updates after the Design phase will provide 
+3 
+these amounts. 
+4 
+ 
+5 
+Updated RTB Costs  
+6 
+Q. 
+Please describe the correction to address omitted RTB costs for projects that 
+7 
+went or will go into service prior to the end of the Rate Year.   
+8 
+A. 
+RTB costs are the costs of operating and maintaining an IT project once it is in 
+9 
+service.  Such costs include costs associated with software licensing and 
+10 
+maintenance agreements, hardware maintenance agreements, and application 
+11 
+support contracts, as well as consultant/contractor costs, and internal labor.   
+12 
+ 
+13 
+ 
+National Grid continually puts new IT projects into service and incurs RTB costs 
+14 
+associated with such projects.  In developing its operating expense forecast for the 
+15 
+April 30, 2019 filing, the Companies failed to identify the RTB costs for the 
+16 
+projects that went in-service, or are planned to go in-service, in the time period 
+17 
+between the Historic Test Year and the Rate Year.  Additionally, the Companies 
+18 
+inadvertently omitted RTB costs in Data Years 1, 2, and 3 for certain projects that 
+19 
+were properly reflected in the forecast for the Rate Year.  The updated RTB costs 
+20 
+are reflected on Exhibits __ (ITP-7CU) and (ITP-8CU) and total $28.5 million in 
+21 
+
+
+--- Page 12 ---
+ 
+Corrections and Updates Testimony of the Information Technology Panel 
+Page 10 of 10 
+the Rate Year, an increase of $1.7 million and $1.0 million for KEDNY and 
+1 
+KEDLI, respectively, above the level included in the Companies’ April 30 filings.  
+2 
+ 
+3 
+Q. 
+Does this conclude the Panel’s corrections and updates testimony? 
+4 
+A. 
+Yes, it does.
+5 
+
+
+--- Page 13 ---
+Corrections and Updates Testimony of Information Technology Panel 
+  
+ 
+ 
+  
+ 
+ 
+ 
+ 
+ 
+INDEX OF EXHIBITS 
+ 
+ 
+ 
+Exhibit____(ITP-4CU):      IT Capital Projects 
+ 
+Exhibit____(ITP-7CU):      IT Projected OPEX Costs 
+ 
+Exhibit ___ (ITP-8CU):      IT Total and Incremental Operating Expenses 
+ 
+ 
+ 
+ 
+ 
+ 
+ 
+ 
+ 
+ 
+ 
+ 
+ 
+ 
+ 
+ 
+ 
+ 
+ 
+ 
+ 
+ 
+ 
+ 
+ 
+
+
+--- Page 14 ---
+Corrections and Updates Testimony of Information Technology Panel 
+  
+ 
+ 
+ 
+ 
+ 
+ 
+Exhibit ___ (ITP-4CU) 
+ 
+IT Capital Projects 
+ 
+ 
+ 
+ 
+ 
+ 
+ 
+ 
+ 
+ 
+ 
+ 
+ 
+ 
+ 
+ 
+ 
+ 
+ 
+ 
+ 
+ 
+ 
+ 
+ 
+ 
+ 
+ 
+ 
+ 
+ 
+ 
+ 
+ 
+ 
+ 
+ 
+ 
+ 
+ 
+ 
+
+
+--- Page 15 ---
+Investment Name
+Program
+INVP #
+Bill Pool
+In Service Date
+Amortization 
+Period
+Inception to Date+ 
+FY20
+FY21 CAPEX
+FY22 CAPEX
+FY23 CAPEX
+FY24 CAPEX
+Total US Capex 
+Spend
+S4HANA Project (Capital Costs Phase 1 Deployment)
+S4HANA
+G020
+3/31/2021
+120
+-
+$
+ 
+48,597,416
+$      
+-
+$
+ 
+-
+$
+ 
+-
+$
+ 
+48,597,416
+$         
+S4HANA Project (Capital Costs Phase 2 Deployment)
+S4HANA
+G020
+3/31/2022
+120
+-
+$
+ 
+-
+$
+ 
+189,480,162
+$    
+-
+$
+ 
+-
+$
+ 
+189,480,162
+$       
+S4HANA Project (Capital Costs Phase 3 Deployment)
+S4HANA
+G020
+3/31/2024
+120
+-
+$
+ 
+-
+$
+ 
+-
+$
+ 
+-
+$
+ 
+135,423,272
+$    
+135,423,272
+$       
+Customer Information Systems Replacement(R1)
+CIS
+5503
+C239
+10/1/2022
+120
+1,742,943
+$
+ 
+44,000,838
+$      
+49,080,977
+$      
+22,749,332
+$      
+-
+$
+ 
+117,574,091
+$       
+Customer Information Systems Replacement (R1.1)
+CIS
+5503
+C239
+3/31/2023
+120
+-
+$
+ 
+-
+$
+ 
+-
+$
+ 
+11,436,985
+$      
+-
+$
+ 
+11,436,985
+$         
+Customer Information Systems Replacement (R2)
+CIS
+5503
+CR2
+11/1/2024
+120
+1,320,249
+$
+ 
+12,278,214
+$      
+11,174,230
+$      
+12,633,773
+$      
+38,618,304
+$      
+76,024,770
+$         
+Customer Information Systems Replacement (R3)
+CIS
+5503
+C175
+11/1/2026
+120
+1,436,220
+$
+ 
+13,356,730
+$      
+12,155,772
+$      
+10,127,923
+$      
+10,547,504
+$      
+47,624,150
+$         
+Capital Delivery IS Initiative  US
+Complex Capital Delivery
+4771B
+G148
+5/28/2019
+84
+2,385,539
+$
+ 
+-
+$
+ 
+-
+$
+ 
+-
+$
+ 
+-
+$
+ 
+2,385,539
+$           
+Primavera Upgrade/Stabilization
+Complex Capital Delivery
+4990
+G004
+2/28/2020
+84
+2,818,548
+$
+ 
+-
+$
+ 
+-
+$
+ 
+-
+$
+ 
+-
+$
+ 
+2,818,548
+$           
+Downstate NY Capacity Automation Enhancement 
+Complex Capital Delivery
+5136
+G225
+12/1/2020
+84
+-
+$
+ 
+480,000
+$           
+-
+$
+ 
+-
+$
+ 
+-
+$
+ 
+480,000
+$              
+New Storms Response Management System
+Complex Capital Delivery
+5274
+G148
+3/31/2021
+84
+507,000
+$
+ 
+457,000
+$           
+-
+$
+ 
+-
+$
+ 
+-
+$
+ 
+964,000
+$              
+CDI Demand Enablement Program
+Complex Capital Delivery
+5599
+G004
+3/31/2021
+84
+-
+$
+ 
+4,000,000
+$        
+-
+$
+ 
+-
+$
+ 
+-
+$
+ 
+4,000,000
+$           
+CDI Demand Enablement Program
+Complex Capital Delivery
+5599
+G004
+3/31/2022
+84
+-
+$
+ 
+-
+$
+ 
+1,700,000
+$        
+-
+$
+ 
+-
+$
+ 
+1,700,000
+$           
+Document Management System for CDI
+Complex Capital Delivery
+4945
+G148
+1/31/2023
+84
+-
+$
+ 
+-
+$
+ 
+1,700,000
+$        
+2,544,000
+$        
+-
+$
+ 
+4,244,000
+$           
+Post Award Non-Complex Contract Management System
+Complex Capital Delivery
+5275
+G148
+1/31/2023
+84
+-
+$
+ 
+-
+$
+ 
+1,800,000
+$        
+1,669,000
+$        
+-
+$
+ 
+3,469,000
+$           
+CDI Demand Enablement Program
+Complex Capital Delivery
+5599
+G004
+3/31/2023
+84
+-
+$
+ 
+-
+$
+ 
+-
+$
+ 
+2,000,000
+$        
+-
+$
+ 
+2,000,000
+$           
+CDI Demand Enablement Program
+Complex Capital Delivery
+5599
+G004
+3/31/2024
+84
+-
+$
+ 
+-
+$
+ 
+-
+$
+ 
+-
+$
+ 
+840,000
+$           
+840,000
+$              
+GTIS Datamart and Advanced Reporting Capability
+Complex Capital Delivery
+5602
+G210
+9/1/2024
+84
+-
+$
+ 
+-
+$
+ 
+-
+$
+ 
+800,000
+$           
+400,000
+$           
+1,200,000
+$           
+NY Gas Service Line Inspection
+Compliance & Mandates
+5175
+G116
+3/29/2019
+84
+820,563
+$
+ 
+-
+$
+ 
+-
+$
+ 
+-
+$
+ 
+-
+$
+ 
+820,563
+$              
+EPA Portfolio Manager Integration Phase 
+Compliance & Mandates
+5099
+C175
+4/11/2019
+84
+387,788
+$
+ 
+-
+$
+ 
+-
+$
+ 
+-
+$
+ 
+-
+$
+ 
+387,788
+$              
+Docusign
+Compliance & Mandates
+4802
+G020
+4/29/2019
+84
+486,740
+$
+ 
+-
+$
+ 
+-
+$
+ 
+-
+$
+ 
+-
+$
+ 
+486,740
+$              
+Lease Accounting Updates and Contract Ma
+Compliance & Mandates
+5360
+G020
+6/1/2019
+84
+4,798,941
+$
+ 
+-
+$
+ 
+-
+$
+ 
+-
+$
+ 
+-
+$
+ 
+4,798,941
+$           
+AVLS  Old 3G Modem Replacement 
+Compliance & Mandates
+5226
+G175
+8/31/2019
+84
+3,096,619
+$
+ 
+-
+$
+ 
+-
+$
+ 
+-
+$
+ 
+-
+$
+ 
+3,096,619
+$           
+Gas Storm Hardening Using Remote Service
+Compliance & Mandates
+4769
+G225
+9/20/2019
+84
+5,671,511
+$
+ 
+-
+$
+ 
+-
+$
+ 
+-
+$
+ 
+-
+$
+ 
+5,671,511
+$           
+NY Tax Remittance and Reporting Correction
+Compliance & Mandates
+4821
+G116
+10/25/2019
+84
+1,643,240
+$
+ 
+-
+$
+ 
+-
+$
+ 
+-
+$
+ 
+-
+$
+ 
+1,643,240
+$           
+FY20 Mandated Projects
+Compliance & Mandates
+5343
+G020
+2/29/2020
+84
+5,200,000
+$
+ 
+-
+$
+ 
+-
+$
+ 
+-
+$
+ 
+-
+$
+ 
+5,200,000
+$           
+Annual HR & Payroll Mandatory Service Pack Upgrade (HRSP) FY20
+Compliance & Mandates
+5379
+G020
+2/29/2020
+84
+1,157,000
+$
+ 
+-
+$
+ 
+-
+$
+ 
+-
+$
+ 
+-
+$
+ 
+1,157,000
+$           
+CDG Low Income Bill Discount Program
+Compliance & Mandates
+5474
+G116
+6/30/2020
+84
+1,800,000
+$
+ 
+600,000
+$           
+-
+$
+ 
+-
+$
+ 
+-
+$
+ 
+2,400,000
+$           
+Annual HR & Payroll Mandatory Service Pack Upgrade (HRSP) FY21
+Compliance & Mandates
+5609
+G020
+3/1/2021
+84
+-
+$
+ 
+1,200,000
+$        
+-
+$
+ 
+-
+$
+ 
+-
+$
+ 
+1,200,000
+$           
+FY21 Mandated Projects
+Compliance & Mandates
+5650
+G020
+3/31/2021
+84
+-
+$
+ 
+14,000,000
+$      
+-
+$
+ 
+-
+$
+ 
+-
+$
+ 
+14,000,000
+$         
+Flood Zone Protection Packages
+Compliance & Mandates
+5161
+C225
+7/31/2021
+84
+-
+$
+ 
+355,000
+$           
+158,000
+$           
+-
+$
+ 
+-
+$
+ 
+513,000
+$              
+AMAG: Automated Interface for New Hires
+Compliance & Mandates
+4997
+N012
+9/30/2021
+84
+-
+$
+ 
+-
+$
+ 
+301,408
+$           
+-
+$
+ 
+-
+$
+ 
+301,408
+$              
+Annual HR & Payroll Mandatory Service Pack Upgrade (HRSP) FY22
+Compliance & Mandates
+5610
+G020
+3/1/2022
+84
+-
+$
+ 
+-
+$
+ 
+1,200,000
+$        
+-
+$
+ 
+-
+$
+ 
+1,200,000
+$           
+FY22 Mandated Projects
+Compliance & Mandates
+5650
+G020
+3/31/2022
+84
+-
+$
+ 
+-
+$
+ 
+14,000,000
+$      
+-
+$
+ 
+-
+$
+ 
+14,000,000
+$         
+Annual HR & Payroll Mandatory Service Pack Upgrade (HRSP) FY23
+Compliance & Mandates
+5611
+G020
+3/1/2023
+84
+-
+$
+ 
+-
+$
+ 
+-
+$
+ 
+1,200,000
+$        
+-
+$
+ 
+1,200,000
+$           
+FY23 Mandated Projects
+Compliance & Mandates
+5650
+G020
+3/31/2023
+84
+-
+$
+ 
+-
+$
+ 
+-
+$
+ 
+14,000,000
+$      
+-
+$
+ 
+14,000,000
+$         
+Annual HR & Payroll Mandatory Service Pack Upgrade (HRSP) FY24
+Compliance & Mandates
+5612
+G020
+3/1/2024
+84
+-
+$
+ 
+-
+$
+ 
+-
+$
+ 
+-
+$
+ 
+1,200,000
+$        
+1,200,000
+$           
+FY24 Mandated Projects
+Compliance & Mandates
+5650
+G020
+3/31/2024
+84
+-
+$
+ 
+-
+$
+ 
+-
+$
+ 
+-
+$
+ 
+14,000,000
+$      
+14,000,000
+$         
+Software License Asset Management
+Corporate IT
+5364US
+G020
+11/25/2019
+84
+639,328
+$
+ 
+-
+$
+ 
+-
+$
+ 
+-
+$
+ 
+-
+$
+ 
+639,328
+$              
+Materials, Repair, Operation Optimization
+Corporate IT
+5544
+G004
+1/31/2020
+84
+558,000
+$
+ 
+-
+$
+ 
+-
+$
+ 
+-
+$
+ 
+-
+$
+ 
+558,000
+$              
+Upgrade Servers for CCAE Reporting
+Corporate IT
+4904
+G020
+2/29/2020
+84
+300,000
+$
+ 
+-
+$
+ 
+-
+$
+ 
+-
+$
+ 
+-
+$
+ 
+300,000
+$              
+Program Delivery Enablement Project
+Corporate IT
+3431
+G020
+3/31/2020
+84
+1,230,000
+$
+ 
+-
+$
+ 
+-
+$
+ 
+-
+$
+ 
+-
+$
+ 
+1,230,000
+$           
+US Global Assurance: NY Certification and Rate Case Track Re-platform
+Corporate IT
+5477
+G020
+3/31/2020
+84
+250,000
+$
+ 
+-
+$
+ 
+-
+$
+ 
+-
+$
+ 
+-
+$
+ 
+250,000
+$              
+US Legal: Document Management
+Corporate IT
+5507
+G020
+3/31/2020
+84
+400,000
+$
+ 
+-
+$
+ 
+-
+$
+ 
+-
+$
+ 
+-
+$
+ 
+400,000
+$              
+Digital Finance
+Corporate IT
+5559
+G020
+3/31/2020
+84
+325,000
+$
+ 
+-
+$
+ 
+-
+$
+ 
+-
+$
+ 
+-
+$
+ 
+325,000
+$              
+Total Reward Statement
+Corporate IT
+5461
+G020
+4/1/2020
+84
+310,000
+$
+ 
+-
+$
+ 
+-
+$
+ 
+-
+$
+ 
+-
+$
+ 
+310,000
+$              
+Billing and Payments Implementation
+Corporate IT
+5345
+G148
+4/20/2020
+84
+846,000
+$
+ 
+154,000
+$           
+-
+$
+ 
+-
+$
+ 
+-
+$
+ 
+1,000,000
+$           
+Lease Accounting Updates and CMM - Phase 2
+Corporate IT
+5497
+G020
+6/30/2020
+84
+2,600,000
+$
+ 
+292,000
+$           
+-
+$
+ 
+-
+$
+ 
+-
+$
+ 
+2,892,000
+$           
+Allegro Upgrade to Horizon
+Corporate IT
+4998
+G020
+10/31/2020
+84
+1,300,000
+$
+ 
+700,000
+$           
+-
+$
+ 
+-
+$
+ 
+-
+$
+ 
+2,000,000
+$           
+Program Delivery Enablement Project
+Corporate IT
+3431
+G020
+3/31/2021
+84
+-
+$
+ 
+650,000
+$           
+-
+$
+ 
+-
+$
+ 
+-
+$
+ 
+650,000
+$              
+MyHub Compliance & Enhancements
+Corporate IT
+5158
+G020
+3/31/2021
+84
+1,330,000
+$
+ 
+400,000
+$           
+-
+$
+ 
+-
+$
+ 
+-
+$
+ 
+1,730,000
+$           
+Future of HR Programme
+Corporate IT
+5362
+G020
+3/31/2021
+84
+1,500,000
+$
+ 
+650,000
+$           
+-
+$
+ 
+-
+$
+ 
+-
+$
+ 
+2,150,000
+$           
+AMAG HW and SW Upgrade 
+Corporate IT
+5466
+G020
+6/30/2021
+84
+2,330,000
+$
+ 
+2,800,000
+$        
+315,000
+$           
+-
+$
+ 
+-
+$
+ 
+5,445,000
+$           
+Future of Finance Program of Work
+Corporate IT
+5380
+G020
+3/31/2022
+84
+4,750,000
+$
+ 
+18,000,000
+$      
+7,000,000
+$        
+-
+$
+ 
+-
+$
+ 
+29,750,000
+$         
+Digital Services
+Corporate IT
+5614
+G020
+3/31/2022
+84
+-
+$
+ 
+-
+$
+ 
+650,000
+$           
+-
+$
+ 
+-
+$
+ 
+650,000
+$              
+US Corporate Strategic Program
+Corporate IT
+5630
+G020
+3/31/2022
+84
+-
+$
+ 
+2,000,000
+$        
+2,000,000
+$        
+-
+$
+ 
+-
+$
+ 
+4,000,000
+$           
+IT Strategic Tooling
+Corporate IT
+5619
+G020
+12/30/2022
+84
+-
+$
+ 
+-
+$
+ 
+1,300,000
+$        
+-
+$
+ 
+-
+$
+ 
+1,300,000
+$           
+Legal Strategic Tooling
+Corporate IT
+5620
+G020
+12/30/2022
+84
+-
+$
+ 
+-
+$
+ 
+1,365,000
+$        
+-
+$
+ 
+-
+$
+ 
+1,365,000
+$           
+Implementation costs following F& A for Property Systems ReviewNew
+Corporate IT
+5623
+G020
+3/31/2023
+84
+-
+$
+ 
+-
+$
+ 
+689,000
+$           
+811,000
+$           
+-
+$
+ 
+1,500,000
+$           
+Future of Finance Program of Work
+Corporate IT
+5380
+G020
+3/31/2024
+84
+-
+$
+ 
+-
+$
+ 
+-
+$
+ 
+7,000,000
+$        
+7,000,000
+$        
+14,000,000
+$         
+MyHub Upgrade & Refresh
+Corporate IT
+5621
+G020
+3/31/2024
+84
+-
+$
+ 
+-
+$
+ 
+1,300,000
+$        
+5,200,000
+$        
+2,600,000
+$        
+9,100,000
+$           
+US Corporate Strategic Program
+Corporate IT
+5630
+G020
+3/31/2024
+84
+-
+$
+ 
+-
+$
+ 
+-
+$
+ 
+2,000,000
+$        
+2,000,000
+$        
+4,000,000
+$           
+Enable Transactional Email in CRS
+Customer Transformation
+5180
+C343
+1/28/2019
+84
+513,940
+$
+ 
+-
+$
+ 
+-
+$
+ 
+-
+$
+ 
+-
+$
+ 
+513,940
+$              
+KeySpan Gas East Corporation d/b/a National Grid, The Brooklyn Union Gas Company d/b/a National Grid NY
+ITP-4 In-Flight and Forecasted Information Technology (IT) Capital Projects
+Exhibit __ (ITP-4CU) 
+              Page 1 of 5
+
+
+--- Page 16 ---
+Investment Name
+Program
+INVP #
+Bill Pool
+In Service Date
+Amortization 
+Period
+Inception to Date+ 
+FY20
+FY21 CAPEX
+FY22 CAPEX
+FY23 CAPEX
+FY24 CAPEX
+Total US Capex 
+Spend
+KeySpan Gas East Corporation d/b/a National Grid, The Brooklyn Union Gas Company d/b/a National Grid NY
+ITP-4 In-Flight and Forecasted Information Technology (IT) Capital Projects
+CXT MyAccount - Customer Personalization Management
+Customer Transformation
+4750H
+C175
+1/31/2020
+84
+930,000
+$
+ 
+-
+$
+ 
+-
+$
+ 
+-
+$
+ 
+-
+$
+ 
+930,000
+$              
+CXT MyAccount MVP
+Customer Transformation
+4750D
+C175
+2/6/2020
+84
+15,157,332
+$             
+-
+$
+ 
+-
+$
+ 
+-
+$
+ 
+-
+$
+ 
+15,157,332
+$         
+CXT - AIMS Evolution Program
+Customer Transformation
+5066
+C175
+5/31/2020
+84
+1,131,342
+$
+ 
+339,000
+$           
+-
+$
+ 
+-
+$
+ 
+-
+$
+ 
+1,470,342
+$           
+CXT MyAccount - CSS Responsive Web
+Customer Transformation
+4750F
+C175
+5/1/2021
+84
+1,727,000
+$
+ 
+4,204,000
+$        
+-
+$
+ 
+-
+$
+ 
+-
+$
+ 
+5,931,000
+$           
+CIAC process system enhancements program
+Customer Transformation
+5130
+C284
+7/31/2021
+84
+-
+$
+ 
+800,000
+$           
+200,000
+$           
+-
+$
+ 
+-
+$
+ 
+1,000,000
+$           
+Low Income Order Additional Compliance scope
+Customer Transformation
+5386
+C170
+8/31/2021
+84
+-
+$
+ 
+800,000
+$           
+200,000
+$           
+-
+$
+ 
+-
+$
+ 
+1,000,000
+$           
+Customer Experience Transformation (CXT) Phase 2 Program - MyAccount
+Customer Transformation
+5129
+C175
+3/31/2022
+84
+-
+$
+ 
+-
+$
+ 
+3,000,000
+$        
+-
+$
+ 
+-
+$
+ 
+3,000,000
+$           
+Customer Experience Transformation (CXT) Phase 2 Program - MyAccount
+Customer Transformation
+5129
+C175
+3/31/2023
+84
+-
+$
+ 
+-
+$
+ 
+-
+$
+ 
+3,000,000
+$        
+-
+$
+ 
+3,000,000
+$           
+Customer Experience Transformation (CXT) Phase 2 Program - MyAccount
+Customer Transformation
+5129
+C175
+3/31/2024
+84
+-
+$
+ 
+-
+$
+ 
+-
+$
+ 
+-
+$
+ 
+3,000,000
+$        
+3,000,000
+$           
+Perimeter enhancements 
+Cyber Security
+4975USA
+G020
+2/28/2019
+84
+257,154
+$
+ 
+-
+$
+ 
+-
+$
+ 
+-
+$
+ 
+-
+$
+ 
+257,154
+$              
+CASB 2
+Cyber Security
+3683USAQ
+G020
+3/29/2019
+84
+994,679
+$
+ 
+-
+$
+ 
+-
+$
+ 
+-
+$
+ 
+-
+$
+ 
+994,679
+$              
+Gateway Upgrades
+Cyber Security
+4975USG
+G020
+3/29/2019
+84
+422,988
+$
+ 
+-
+$
+ 
+-
+$
+ 
+-
+$
+ 
+-
+$
+ 
+422,988
+$              
+IAM: Role Based Access control
+Cyber Security
+3683USP
+G020
+4/17/2019
+84
+779,707
+$
+ 
+103,900
+$           
+-
+$
+ 
+-
+$
+ 
+-
+$
+ 
+883,607
+$              
+CNI Intrusion Detection System (IDS) ref
+Cyber Security
+4975USB
+G020
+5/22/2019
+84
+505,793
+$
+ 
+-
+$
+ 
+-
+$
+ 
+-
+$
+ 
+-
+$
+ 
+505,793
+$              
+CNI Secure Communication
+Cyber Security
+3614B7
+G020
+5/31/2019
+84
+7,368,875
+$
+ 
+-
+$
+ 
+-
+$
+ 
+-
+$
+ 
+-
+$
+ 
+7,368,875
+$           
+IAM Privilege Access Management (PAM)  
+Cyber Security
+3683USAP
+G020
+5/31/2019
+84
+781,288
+$
+ 
+-
+$
+ 
+-
+$
+ 
+-
+$
+ 
+-
+$
+ 
+781,288
+$              
+Multi factor Authentication (MFA)
+Cyber Security
+4975USC
+G020
+5/31/2019
+84
+799,506
+$
+ 
+-
+$
+ 
+-
+$
+ 
+-
+$
+ 
+-
+$
+ 
+799,506
+$              
+IT/OT Discovery and Implementation Phase
+Cyber Security
+3683USAO
+G020
+2/25/2021
+84
+2,039,917
+$
+ 
+1,579,354
+$        
+-
+$
+ 
+-
+$
+ 
+-
+$
+ 
+3,619,271
+$           
+Develop Robust Incident Response
+Cyber Security
+3683USD
+G020
+7/31/2019
+84
+1,747,634
+$
+ 
+-
+$
+ 
+-
+$
+ 
+-
+$
+ 
+-
+$
+ 
+1,747,634
+$           
+DNS Resolution & Protection
+Cyber Security
+3683USAN
+G020
+8/14/2019
+84
+433,935
+$
+ 
+-
+$
+ 
+-
+$
+ 
+-
+$
+ 
+-
+$
+ 
+433,935
+$              
+US Endpoint Security
+Cyber Security
+3683USA
+G020
+10/31/2019
+84
+2,175,866
+$
+ 
+-
+$
+ 
+-
+$
+ 
+-
+$
+ 
+-
+$
+ 
+2,175,866
+$           
+Enterprise Centralized Patch Management
+Cyber Security
+3683USF
+G020
+12/4/2019
+84
+268,937
+$
+ 
+-
+$
+ 
+-
+$
+ 
+-
+$
+ 
+-
+$
+ 
+268,937
+$              
+Azure CoE Vulnerability Scanning
+Cyber Security
+3683USAR
+G020
+1/13/2020
+84
+325,356
+$
+ 
+-
+$
+ 
+-
+$
+ 
+-
+$
+ 
+-
+$
+ 
+325,356
+$              
+Sustainable RedTeam Service Model
+Cyber Security
+3683USI
+G020
+1/22/2020
+84
+482,044
+$
+ 
+-
+$
+ 
+-
+$
+ 
+-
+$
+ 
+-
+$
+ 
+482,044
+$              
+Gas Business Enablement Cyber Security E
+Cyber Security
+5571
+G210
+1/30/2020
+84
+685,000
+$
+ 
+-
+$
+ 
+-
+$
+ 
+-
+$
+ 
+-
+$
+ 
+685,000
+$              
+CNI Forensic Pack capture
+Cyber Security
+3683USV
+G020
+1/30/2020
+84
+55,650
+$
+ 
+1,197,360
+$        
+-
+$
+ 
+-
+$
+ 
+-
+$
+ 
+1,253,010
+$           
+Continuous review of Reference Security 
+Cyber Security
+3683USZ
+G020
+2/12/2020
+84
+706,562
+$
+ 
+23,409
+$             
+-
+$
+ 
+-
+$
+ 
+-
+$
+ 
+729,971
+$              
+Application Security As a Service
+Cyber Security
+3683USX
+G020
+2/25/2020
+84
+401,300
+$
+ 
+-
+$
+ 
+-
+$
+ 
+-
+$
+ 
+-
+$
+ 
+401,300
+$              
+Network Segregation
+Cyber Security
+3683USO
+G020
+3/30/2020
+84
+1,919,564
+$
+ 
+-
+$
+ 
+-
+$
+ 
+-
+$
+ 
+-
+$
+ 
+1,919,564
+$           
+Internal Public Key Infrastructure (PKI)
+Cyber Security
+4975USF
+G020
+3/31/2020
+84
+1,229,901
+$
+ 
+-
+$
+ 
+-
+$
+ 
+-
+$
+ 
+-
+$
+ 
+1,229,901
+$           
+Enhanced Phishing protection & awareness
+Cyber Security
+3683USG
+G020
+6/1/2020
+84
+707,118
+$
+ 
+133,954
+$           
+-
+$
+ 
+-
+$
+ 
+-
+$
+ 
+841,071
+$              
+Security Data Visualization
+Cyber Security
+3683USAH
+G020
+8/27/2020
+84
+-
+$
+ 
+-
+$
+ 
+1,207,101
+$        
+-
+$
+ 
+-
+$
+ 
+1,207,101
+$           
+Insider Threat Detection
+Cyber Security
+3683USL
+G020
+9/27/2020
+84
+477,000
+$
+ 
+1,478,607
+$        
+-
+$
+ 
+-
+$
+ 
+-
+$
+ 
+1,955,607
+$           
+Security Research Lab
+Cyber Security
+3683USR
+G020
+11/30/2020
+84
+377,685
+$
+ 
+50,000
+$             
+-
+$
+ 
+-
+$
+ 
+-
+$
+ 
+427,685
+$              
+Threat Behavior Modeling
+Cyber Security
+3683USS
+G020
+11/30/2020
+84
+365,680
+$
+ 
+612,112
+$           
+-
+$
+ 
+-
+$
+ 
+-
+$
+ 
+977,792
+$              
+Virtualized Browser
+Cyber Security
+3683USM
+G020
+12/31/2020
+84
+127,190
+$
+ 
+214,637
+$           
+-
+$
+ 
+-
+$
+ 
+-
+$
+ 
+341,827
+$              
+AntiMalware Gateway
+Cyber Security
+3683USY
+G020
+2/1/2021
+84
+328,600
+$
+ 
+-
+$
+ 
+-
+$
+ 
+-
+$
+ 
+-
+$
+ 
+328,600
+$              
+Enhanced DLP Gateway & Endpoint
+Cyber Security
+3683USAB
+G020
+3/1/2021
+84
+-
+$
+ 
+2,765,203
+$        
+17,122
+$             
+-
+$
+ 
+-
+$
+ 
+2,782,325
+$           
+CNI Security Enhancements: Phase 1
+Cyber Security
+3683USAM
+G020
+5/1/2021
+84
+-
+$
+ 
+1,584,180
+$        
+15,900
+$             
+-
+$
+ 
+-
+$
+ 
+1,600,080
+$           
+CNI Intrusion Detection/Prevention: Phase 2
+Cyber Security
+3683USAC
+G020
+3/1/2022
+84
+-
+$
+ 
+-
+$
+ 
+1,033,435
+$        
+31,798
+$             
+-
+$
+ 
+1,065,233
+$           
+Operational Technology Cyber Security Program
+Cyber Security
+5591
+G020
+3/31/2022
+84
+-
+$
+ 
+-
+$
+ 
+3,281,216
+$        
+-
+$
+ 
+-
+$
+ 
+3,281,216
+$           
+Security Operations and Monitoring Cyber Security Program
+Cyber Security
+5592
+G020
+3/31/2022
+84
+-
+$
+ 
+-
+$
+ 
+2,415,501
+$        
+-
+$
+ 
+-
+$
+ 
+2,415,501
+$           
+Enhance the Foundation Cyber Security Program
+Cyber Security
+5593
+G020
+3/31/2022
+84
+-
+$
+ 
+-
+$
+ 
+371,021
+$           
+-
+$
+ 
+-
+$
+ 
+371,021
+$              
+Culture and Awareness Cyber Security Program
+Cyber Security
+5594
+G020
+3/31/2022
+84
+-
+$
+ 
+-
+$
+ 
+463,776
+$           
+-
+$
+ 
+-
+$
+ 
+463,776
+$              
+Threat Resistant Networks Cyber Security Program
+Cyber Security
+5595
+G020
+3/31/2022
+84
+-
+$
+ 
+-
+$
+ 
+425,128
+$           
+-
+$
+ 
+-
+$
+ 
+425,128
+$              
+Robust Identity and Controls Cyber Security Program
+Cyber Security
+5596
+G020
+3/31/2022
+84
+-
+$
+ 
+-
+$
+ 
+1,352,680
+$        
+-
+$
+ 
+-
+$
+ 
+1,352,680
+$           
+Secure Endpoints Cyber Security Program
+Cyber Security
+5597
+G020
+3/31/2022
+84
+-
+$
+ 
+-
+$
+ 
+966,200
+$           
+-
+$
+ 
+-
+$
+ 
+966,200
+$              
+IAM: Shared Area Access Management
+Cyber Security
+3683USAG
+G020
+6/1/2022
+84
+-
+$
+ 
+-
+$
+ 
+3,076,457
+$        
+31,798
+$             
+-
+$
+ 
+3,108,255
+$           
+Removable Media Control - Full Roll out
+Cyber Security
+3683USW
+G020
+6/1/2022
+84
+-
+$
+ 
+489,200
+$           
+798,619
+$           
+23,849
+$             
+-
+$
+ 
+1,311,668
+$           
+GPS Project
+Cyber Security
+3683USAA
+G020
+11/1/2022
+84
+-
+$
+ 
+-
+$
+ 
+324,458
+$           
+-
+$
+ 
+-
+$
+ 
+324,458
+$              
+Security Incident & Event Management: Phase 5
+Cyber Security
+3683USAF
+G020
+11/1/2022
+84
+-
+$
+ 
+-
+$
+ 
+357,728
+$           
+1,273,755
+$        
+-
+$
+ 
+1,631,482
+$           
+Big Data Security Analytics: Phase 2
+Cyber Security
+3683USAD
+G020
+12/31/2022
+84
+-
+$
+ 
+-
+$
+ 
+397,475
+$           
+3,165,124
+$        
+-
+$
+ 
+3,562,599
+$           
+Big Data Security Analytics: Phase 1
+Cyber Security
+3683USQ
+G020
+12/31/2022
+84
+1,076,397
+$
+ 
+-
+$
+ 
+-
+$
+ 
+-
+$
+ 
+-
+$
+ 
+1,076,397
+$           
+Operational Technology Cyber Security Program
+Cyber Security
+5591
+G020
+3/31/2023
+84
+-
+$
+ 
+-
+$
+ 
+-
+$
+ 
+5,148,910
+$        
+-
+$
+ 
+5,148,910
+$           
+Security Operations and Monitoring Cyber Security Program
+Cyber Security
+5592
+G020
+3/31/2023
+84
+-
+$
+ 
+-
+$
+ 
+-
+$
+ 
+3,432,607
+$        
+-
+$
+ 
+3,432,607
+$           
+Enhance the Foundation Cyber Security Program
+Cyber Security
+5593
+G020
+3/31/2023
+84
+-
+$
+ 
+-
+$
+ 
+-
+$
+ 
+396,070
+$           
+-
+$
+ 
+396,070
+$              
+Culture and Awareness Cyber Security Program
+Cyber Security
+5594
+G020
+3/31/2023
+84
+-
+$
+ 
+-
+$
+ 
+-
+$
+ 
+528,093
+$           
+-
+$
+ 
+528,093
+$              
+Threat Resistant Networks Cyber Security Program
+Cyber Security
+5595
+G020
+3/31/2023
+84
+-
+$
+ 
+-
+$
+ 
+-
+$
+ 
+660,117
+$           
+-
+$
+ 
+660,117
+$              
+Robust Identity and Controls Cyber Security Program
+Cyber Security
+5596
+G020
+3/31/2023
+84
+-
+$
+ 
+-
+$
+ 
+-
+$
+ 
+1,980,350
+$        
+-
+$
+ 
+1,980,350
+$           
+Secure Endpoints Cyber Security Program
+Cyber Security
+5597
+G020
+3/31/2023
+84
+-
+$
+ 
+-
+$
+ 
+-
+$
+ 
+1,056,187
+$        
+-
+$
+ 
+1,056,187
+$           
+Operational Technology Cyber Security Program
+Cyber Security
+5591
+G020
+3/31/2024
+84
+-
+$
+ 
+-
+$
+ 
+-
+$
+ 
+-
+$
+ 
+7,104,893
+$        
+7,104,893
+$           
+Security Operations and Monitoring Cyber Security Program
+Cyber Security
+5592
+G020
+3/31/2024
+84
+-
+$
+ 
+-
+$
+ 
+-
+$
+ 
+-
+$
+ 
+4,852,122
+$        
+4,852,122
+$           
+Enhance the Foundation Cyber Security Program
+Cyber Security
+5593
+G020
+3/31/2024
+84
+-
+$
+ 
+-
+$
+ 
+-
+$
+ 
+-
+$
+ 
+519,870
+$           
+519,870
+$              
+Culture and Awareness Cyber Security Program
+Cyber Security
+5594
+G020
+3/31/2024
+84
+-
+$
+ 
+-
+$
+ 
+-
+$
+ 
+-
+$
+ 
+519,870
+$           
+519,870
+$              
+Threat Resistant Networks Cyber Security Program
+Cyber Security
+5595
+G020
+3/31/2024
+84
+-
+$
+ 
+-
+$
+ 
+-
+$
+ 
+-
+$
+ 
+693,160
+$           
+693,160
+$              
+Robust Identity and Controls Cyber Security Program
+Cyber Security
+5596
+G020
+3/31/2024
+84
+-
+$
+ 
+-
+$
+ 
+-
+$
+ 
+-
+$
+ 
+2,599,351
+$        
+2,599,351
+$           
+Secure Endpoints Cyber Security Program
+Cyber Security
+5597
+G020
+3/31/2024
+84
+-
+$
+ 
+-
+$
+ 
+-
+$
+ 
+-
+$
+ 
+1,039,740
+$        
+1,039,740
+$           
+Gas Capacity Review Database 
+Gas Operations
+4468
+C210
+2/12/2019
+84
+1,447,759
+$
+ 
+-
+$
+ 
+-
+$
+ 
+-
+$
+ 
+-
+$
+ 
+1,447,759
+$           
+Gas Service Database  DNY (LI and NYC)
+Gas Operations
+3948
+G225
+3/10/2019
+84
+408,889
+$
+ 
+-
+$
+ 
+-
+$
+ 
+-
+$
+ 
+-
+$
+ 
+408,889
+$              
+US CNI GMSSCADA Upgrade and Consolidation
+Gas Operations
+3737
+C210
+3/20/2019
+84
+16,272,805
+$             
+-
+$
+ 
+-
+$
+ 
+-
+$
+ 
+-
+$
+ 
+16,272,805
+$         
+Fortis Upgrade
+Gas Operations
+5531
+G210
+12/31/2019
+84
+387,000
+$
+ 
+-
+$
+ 
+-
+$
+ 
+-
+$
+ 
+-
+$
+ 
+387,000
+$              
+Exhibit __ (ITP-4CU) 
+              Page 2 of 5
+
+
+--- Page 17 ---
+Investment Name
+Program
+INVP #
+Bill Pool
+In Service Date
+Amortization 
+Period
+Inception to Date+ 
+FY20
+FY21 CAPEX
+FY22 CAPEX
+FY23 CAPEX
+FY24 CAPEX
+Total US Capex 
+Spend
+KeySpan Gas East Corporation d/b/a National Grid, The Brooklyn Union Gas Company d/b/a National Grid NY
+ITP-4 In-Flight and Forecasted Information Technology (IT) Capital Projects
+AVLS Modem Reconfiguration
+Gas Operations
+5486
+G434
+5/31/2020
+84
+855,000
+$                  
+232,949
+$           
+-
+$                   
+-
+$                   
+-
+$                   
+1,087,949
+$           
+Gas Control Center Investments 
+Gas Operations
+5590
+G210
+3/31/2021
+84
+-
+$                         
+2,000,000
+$        
+-
+$                   
+-
+$                   
+-
+$                   
+2,000,000
+$           
+Gas Control Center Investments 
+Gas Operations
+5590
+G210
+3/31/2022
+84
+-
+$                         
+-
+$                   
+3,000,000
+$        
+-
+$                   
+-
+$                   
+3,000,000
+$           
+Gas Business Systems Maintenance of Business Projects
+Gas Operations
+5651
+G210
+3/31/2022
+84
+-
+$                         
+-
+$                   
+500,000
+$           
+-
+$                   
+-
+$                   
+500,000
+$              
+Gas Advanced Meter Infrastructure (AMI)
+Gas Operations
+5645
+G225
+12/30/2022
+84
+-
+$                         
+750,000
+$           
+3,000,000
+$        
+1,500,000
+$        
+-
+$                   
+5,250,000
+$           
+Gas Control Center Investments 
+Gas Operations
+5590
+G210
+3/31/2023
+84
+-
+$                         
+-
+$                   
+-
+$                   
+3,000,000
+$        
+-
+$                   
+3,000,000
+$           
+Gas Business Systems Maintenance of Business Projects
+Gas Operations
+5651
+G210
+3/31/2023
+84
+-
+$                         
+-
+$                   
+-
+$                   
+500,000
+$           
+-
+$                   
+500,000
+$              
+Gas Control Center Investments 
+Gas Operations
+5590
+G210
+3/31/2024
+84
+-
+$                         
+-
+$                   
+-
+$                   
+-
+$                   
+5,000,000
+$        
+5,000,000
+$           
+Gas Business Systems Maintenance of Business Projects
+Gas Operations
+5651
+G210
+3/31/2024
+84
+-
+$                         
+-
+$                   
+-
+$                   
+-
+$                   
+500,000
+$           
+500,000
+$              
+Identity and Access Management Business 
+Identity & Access Management
+5278
+G020
+6/30/2020
+84
+2,785,903
+$               
+1,218,226
+$        
+-
+$                   
+-
+$                   
+-
+$                   
+4,004,130
+$           
+Physical Security
+Physical Security
+3617
+G020
+3/31/2019
+60
+989,571
+$                  
+-
+$                   
+-
+$                   
+-
+$                   
+-
+$                   
+989,571
+$              
+Physical Security
+Physical Security
+3617
+G020
+3/31/2020
+60
+1,070,000
+$               
+-
+$                   
+-
+$                   
+-
+$                   
+-
+$                   
+1,070,000
+$           
+Physical Security
+Physical Security
+3617
+G251
+3/31/2020
+60
+65,000
+$                    
+-
+$                   
+-
+$                   
+-
+$                   
+-
+$                   
+65,000
+$                
+Physical Security
+Physical Security
+3617
+5220G
+3/31/2020
+60
+340,000
+$                  
+-
+$                   
+-
+$                   
+-
+$                   
+-
+$                   
+340,000
+$              
+Physical Security
+Physical Security
+3617
+5230G
+3/31/2020
+60
+178,000
+$                  
+-
+$                   
+-
+$                   
+-
+$                   
+-
+$                   
+178,000
+$              
+Physical Security
+Physical Security
+3617
+G020
+3/31/2021
+60
+-
+$                         
+1,112,000
+$        
+-
+$                   
+-
+$                   
+-
+$                   
+1,112,000
+$           
+Physical Security
+Physical Security
+3617
+G251
+3/31/2021
+60
+-
+$                         
+75,000
+$             
+-
+$                   
+-
+$                   
+-
+$                   
+75,000
+$                
+Physical Security
+Physical Security
+3617
+5220G
+3/31/2021
+60
+-
+$                         
+345,000
+$           
+-
+$                   
+-
+$                   
+-
+$                   
+345,000
+$              
+Physical Security
+Physical Security
+3617
+5230G
+3/31/2021
+60
+-
+$                         
+192,000
+$           
+-
+$                   
+-
+$                   
+-
+$                   
+192,000
+$              
+Physical Security
+Physical Security
+3617
+G020
+3/31/2022
+60
+-
+$                         
+-
+$                   
+1,025,000
+$        
+-
+$                   
+-
+$                   
+1,025,000
+$           
+Physical Security
+Physical Security
+3617
+G251
+3/31/2022
+60
+-
+$                         
+-
+$                   
+330,000
+$           
+-
+$                   
+-
+$                   
+330,000
+$              
+Physical Security
+Physical Security
+3617
+5220G
+3/31/2022
+60
+-
+$                         
+-
+$                   
+420,000
+$           
+-
+$                   
+-
+$                   
+420,000
+$              
+Physical Security
+Physical Security
+3617
+5230G
+3/31/2022
+60
+-
+$                         
+-
+$                   
+350,000
+$           
+-
+$                   
+-
+$                   
+350,000
+$              
+Physical Security
+Physical Security
+3617
+G020
+3/31/2023
+60
+-
+$                         
+-
+$                   
+-
+$                   
+1,025,000
+$        
+-
+$                   
+1,025,000
+$           
+Physical Security
+Physical Security
+3617
+G251
+3/31/2023
+60
+-
+$                         
+-
+$                   
+-
+$                   
+300,000
+$           
+-
+$                   
+300,000
+$              
+Physical Security
+Physical Security
+3617
+5220G
+3/31/2023
+60
+-
+$                         
+-
+$                   
+-
+$                   
+520,000
+$           
+-
+$                   
+520,000
+$              
+Physical Security
+Physical Security
+3617
+5230G
+3/31/2023
+60
+-
+$                         
+-
+$                   
+-
+$                   
+370,000
+$           
+-
+$                   
+370,000
+$              
+Physical Security
+Physical Security
+3617
+G020
+3/31/2024
+60
+-
+$                         
+-
+$                   
+-
+$                   
+-
+$                   
+1,025,000
+$        
+1,025,000
+$           
+Physical Security
+Physical Security
+3617
+G251
+3/31/2024
+60
+-
+$                         
+-
+$                   
+-
+$                   
+-
+$                   
+310,000
+$           
+310,000
+$              
+Physical Security
+Physical Security
+3617
+5220G
+3/31/2024
+60
+-
+$                         
+-
+$                   
+-
+$                   
+-
+$                   
+490,000
+$           
+490,000
+$              
+Physical Security
+Physical Security
+3617
+5230G
+3/31/2024
+60
+-
+$                         
+-
+$                   
+-
+$                   
+-
+$                   
+410,000
+$           
+410,000
+$              
+US SAP: FERC on HANA (FOH) Upgrade
+SAP
+4563
+G020
+8/7/2019
+84
+2,928,269
+$               
+-
+$                   
+-
+$                   
+-
+$                   
+-
+$                   
+2,928,269
+$           
+US SAP: Business Warehouse (BW) Consolidation to HANA Enterprise Cloud (HEC)
+SAP
+4562
+G020
+4/30/2020
+84
+1,000,000
+$               
+239,000
+$           
+-
+$                   
+-
+$                   
+-
+$                   
+1,239,000
+$           
+Vision FM Replacement
+Strategic Business Services
+3870
+G327
+9/30/2020
+84
+805,000
+$                  
+695,000
+$           
+-
+$                   
+-
+$                   
+-
+$                   
+1,500,000
+$           
+Revenue Cycle Mgmt. Non-CIS
+Strategic Business Services
+5625
+G020
+3/31/2021
+84
+-
+$                         
+2,000,000
+$        
+-
+$                   
+-
+$                   
+-
+$                   
+2,000,000
+$           
+Decision Software Analytics Implementation
+Strategic Business Services
+5624
+G020
+3/31/2022
+84
+-
+$                         
+-
+$                   
+1,000,000
+$        
+-
+$                   
+-
+$                   
+1,000,000
+$           
+Revenue Cycle Mgmt. Non-CIS
+Strategic Business Services
+5627
+G020
+3/31/2022
+84
+-
+$                         
+-
+$                   
+2,000,000
+$        
+-
+$                   
+-
+$                   
+2,000,000
+$           
+Revenue Cycle Mgmt. Non-CIS
+Strategic Business Services
+5628
+G020
+3/31/2023
+84
+-
+$                         
+-
+$                   
+-
+$                   
+2,000,000
+$        
+-
+$                   
+2,000,000
+$           
+Revenue Cycle Mgmt. Non-CIS
+Strategic Business Services
+5629
+G020
+3/31/2024
+84
+-
+$                         
+-
+$                   
+-
+$                   
+-
+$                   
+2,000,000
+$        
+2,000,000
+$           
+Supervisor Enablement iPads Rollout
+Supervisor Enablement
+4811
+N012
+9/17/2019
+60
+859,272
+$                  
+-
+$                   
+-
+$                   
+-
+$                   
+-
+$                   
+859,272
+$              
+Supervisor Enablement iPad Advanced Capabilities
+Supervisor Enablement
+5384
+G148
+9/30/2020
+84
+253,697
+$                  
+298,303
+$           
+-
+$                   
+-
+$                   
+-
+$                   
+552,000
+$              
+Apps Interface Remediation
+Technology Modernization
+4706
+G020
+12/11/2018
+84
+765,419
+$                  
+-
+$                   
+-
+$                   
+-
+$                   
+-
+$                   
+765,419
+$              
+Data Visualization Evolution
+Technology Modernization
+4768
+G020
+1/25/2019
+84
+2,426,754
+$               
+-
+$                   
+-
+$                   
+-
+$                   
+-
+$                   
+2,426,754
+$           
+End User  US T430 Refresh
+Technology Modernization
+5316
+N012
+1/31/2019
+60
+2,346,121
+$               
+-
+$                   
+-
+$                   
+-
+$                   
+-
+$                   
+2,346,121
+$           
+UPS Replacement for Data Communication C
+Technology Modernization
+4003
+G020
+2/5/2019
+60
+154,193
+$                  
+-
+$                   
+-
+$                   
+-
+$                   
+-
+$                   
+154,193
+$              
+Unix51 Interface Migration
+Technology Modernization
+4461
+G020
+3/29/2019
+84
+1,476,487
+$               
+-
+$                   
+-
+$                   
+-
+$                   
+-
+$                   
+1,476,487
+$           
+Windows 10 HW
+Technology Modernization
+5089
+G020
+3/31/2019
+60
+486,085
+$                  
+-
+$                   
+-
+$                   
+-
+$                   
+-
+$                   
+486,085
+$              
+Data Visualization
+Technology Modernization
+5582
+G020
+3/31/2019
+84
+320,000
+$                  
+-
+$                   
+-
+$                   
+-
+$                   
+-
+$                   
+320,000
+$              
+Virtual Desktop  DaaS
+Technology Modernization
+4727
+G020
+4/25/2019
+84
+431,583
+$                  
+-
+$                   
+-
+$                   
+-
+$                   
+-
+$                   
+431,583
+$              
+NetMod eBond/NSSR/SVC Catalog
+Technology Modernization
+5314
+G020
+4/26/2019
+84
+352,479
+$                  
+-
+$                   
+-
+$                   
+-
+$                   
+-
+$                   
+352,479
+$              
+AIX upgrade
+Technology Modernization
+5199
+G020
+4/30/2019
+84
+2,045,422
+$               
+-
+$                   
+-
+$                   
+-
+$                   
+-
+$                   
+2,045,422
+$           
+NetMod Zscaler Cloud Security Gateway
+Technology Modernization
+5313
+G020
+5/8/2019
+84
+336,185
+$                  
+-
+$                   
+-
+$                   
+-
+$                   
+-
+$                   
+336,185
+$              
+EMM Phase2
+Technology Modernization
+4714
+G020
+5/31/2019
+84
+1,435,290
+$               
+-
+$                   
+-
+$                   
+-
+$                   
+-
+$                   
+1,435,290
+$           
+US Foundation Hosting Renewal
+Technology Modernization
+4761
+G020
+6/23/2019
+84
+8,475,183
+$               
+-
+$                   
+-
+$                   
+-
+$                   
+-
+$                   
+8,475,183
+$           
+ICE Replacement
+Technology Modernization
+4491
+G020
+6/28/2019
+84
+9,616,970
+$               
+-
+$                   
+-
+$                   
+-
+$                   
+-
+$                   
+9,616,970
+$           
+Active Directory Improvements
+Technology Modernization
+4489
+G020
+8/6/2019
+84
+1,724,651
+$               
+-
+$                   
+-
+$                   
+-
+$                   
+-
+$                   
+1,724,651
+$           
+Data Centre Decommission Melville
+Technology Modernization
+4377B
+G020
+8/30/2019
+84
+378,851
+$                  
+-
+$                   
+-
+$                   
+-
+$                   
+-
+$                   
+378,851
+$              
+NetMod Infoblox
+Technology Modernization
+5311
+G020
+9/3/2019
+84
+2,678,616
+$               
+-
+$                   
+-
+$                   
+-
+$                   
+-
+$                   
+2,678,616
+$           
+NetMod Ethernet/SD WAN Upgrade
+Technology Modernization
+5312
+G020
+9/11/2019
+84
+1,232,514
+$               
+-
+$                   
+-
+$                   
+-
+$                   
+-
+$                   
+1,232,514
+$           
+Netmod Governance
+Technology Modernization
+5310
+G020
+9/17/2019
+84
+524,952
+$                  
+-
+$                   
+-
+$                   
+-
+$                   
+-
+$                   
+524,952
+$              
+Customer Contact Center / SDC Technology
+Technology Modernization
+3932
+C175
+10/18/2019
+84
+23,114,687
+$             
+-
+$                   
+-
+$                   
+-
+$                   
+-
+$                   
+23,114,687
+$         
+GRC Archer  Risk and Migration
+Technology Modernization
+5472
+G020
+10/18/2019
+84
+1,525,276
+$               
+-
+$                   
+-
+$                   
+-
+$                   
+-
+$                   
+1,525,276
+$           
+DMS Replacement  Delivery
+Technology Modernization
+4408
+G149
+11/22/2019
+84
+11,954,452
+$             
+-
+$                   
+-
+$                   
+-
+$                   
+-
+$                   
+11,954,452
+$         
+Data Center Buildout (Hicksville)
+Technology Modernization
+5154
+G020
+12/6/2019
+84
+813,265
+$                  
+-
+$                   
+-
+$                   
+-
+$                   
+-
+$                   
+813,265
+$              
+Collaboration & Unified Communications
+Technology Modernization
+5487
+G020
+3/31/2020
+84
+3,410,000
+$               
+-
+$                   
+-
+$                   
+-
+$                   
+-
+$                   
+3,410,000
+$           
+Customer Experience
+Technology Modernization
+5488
+G175
+3/31/2020
+84
+2,843,000
+$               
+-
+$                   
+-
+$                   
+-
+$                   
+-
+$                   
+2,843,000
+$           
+Emerging Technology
+Technology Modernization
+5489
+N012
+3/31/2020
+84
+572,000
+$                  
+-
+$                   
+-
+$                   
+-
+$                   
+-
+$                   
+572,000
+$              
+Modern Workplace
+Technology Modernization
+5490
+G020
+3/31/2020
+84
+4,542,000
+$               
+-
+$                   
+-
+$                   
+-
+$                   
+-
+$                   
+4,542,000
+$           
+Enterprise Platforms
+Technology Modernization
+5505
+G020
+3/31/2020
+84
+604,000
+$                  
+-
+$                   
+-
+$                   
+-
+$                   
+-
+$                   
+604,000
+$              
+Integration Services
+Technology Modernization
+5506
+G020
+3/31/2020
+84
+1,490,000
+$               
+-
+$                   
+-
+$                   
+-
+$                   
+-
+$                   
+1,490,000
+$           
+LAN Infrastructure Program
+Technology Modernization
+5521
+G020
+3/31/2020
+84
+1,047,000
+$               
+-
+$                   
+-
+$                   
+-
+$                   
+-
+$                   
+1,047,000
+$           
+Network Security Infrastructure Program
+Technology Modernization
+5522
+G020
+3/31/2020
+84
+3,141,000
+$               
+-
+$                   
+-
+$                   
+-
+$                   
+-
+$                   
+3,141,000
+$           
+Voice Infrastructure Program
+Technology Modernization
+5523
+G020
+3/31/2020
+84
+1,047,000
+$               
+-
+$                   
+-
+$                   
+-
+$                   
+-
+$                   
+1,047,000
+$           
+Exhibit __ (ITP-4CU) 
+              Page 3 of 5
+
+
+--- Page 18 ---
+Investment Name
+Program
+INVP #
+Bill Pool
+In Service Date
+Amortization 
+Period
+Inception to Date+ 
+FY20
+FY21 CAPEX
+FY22 CAPEX
+FY23 CAPEX
+FY24 CAPEX
+Total US Capex 
+Spend
+KeySpan Gas East Corporation d/b/a National Grid, The Brooklyn Union Gas Company d/b/a National Grid NY
+ITP-4 In-Flight and Forecasted Information Technology (IT) Capital Projects
+WAN Infrastructure Program
+Technology Modernization
+5524
+G020
+3/31/2020
+84
+3,141,000
+$
+ 
+-
+$
+ 
+-
+$
+ 
+-
+$
+ 
+-
+$
+ 
+3,141,000
+$           
+Wireless Infrastructure Program
+Technology Modernization
+5525
+G020
+3/31/2020
+84
+2,094,000
+$
+ 
+-
+$
+ 
+-
+$
+ 
+-
+$
+ 
+-
+$
+ 
+2,094,000
+$           
+Infrastructure Remediation and Lifecycle refresh 
+Technology Modernization
+5540
+G020
+3/31/2020
+84
+5,573,000
+$
+ 
+-
+$
+ 
+-
+$
+ 
+-
+$
+ 
+-
+$
+ 
+5,573,000
+$           
+Infrastructure New Capability
+Technology Modernization
+5541
+G020
+3/31/2020
+84
+419,000
+$
+ 
+-
+$
+ 
+-
+$
+ 
+-
+$
+ 
+-
+$
+ 
+419,000
+$              
+Hosting RFP Build & Market Release 
+Technology Modernization
+5579
+G020
+3/31/2020
+84
+1,750,000
+$
+ 
+-
+$
+ 
+-
+$
+ 
+-
+$
+ 
+-
+$
+ 
+1,750,000
+$           
+Managed Workspace Services Transition & Tx
+Technology Modernization
+5580
+G020
+3/31/2020
+84
+2,000,000
+$
+ 
+-
+$
+ 
+-
+$
+ 
+-
+$
+ 
+-
+$
+ 
+2,000,000
+$           
+DXC Hosting Tx Initiatives
+Technology Modernization
+5581
+G020
+3/31/2020
+84
+3,000,000
+$
+ 
+-
+$
+ 
+-
+$
+ 
+-
+$
+ 
+-
+$
+ 
+3,000,000
+$           
+Application Rationalization 
+Technology Modernization
+5598
+G331
+3/31/2020
+84
+7,686,000
+$
+ 
+-
+$
+ 
+-
+$
+ 
+-
+$
+ 
+-
+$
+ 
+7,686,000
+$           
+SOE (Windows) Upgrade and Device Refresh
+Technology Modernization
+4987
+G020
+3/31/2021
+84
+2,302,764
+$
+ 
+3,201,429
+$        
+-
+$
+ 
+-
+$
+ 
+-
+$
+ 
+5,504,193
+$           
+Collaboration & Unified Communications
+Technology Modernization
+5487
+G020
+3/31/2021
+84
+-
+$
+ 
+4,318,000
+$        
+-
+$
+ 
+-
+$
+ 
+-
+$
+ 
+4,318,000
+$           
+Customer Experience
+Technology Modernization
+5488
+G175
+3/31/2021
+84
+-
+$
+ 
+3,598,000
+$        
+-
+$
+ 
+-
+$
+ 
+-
+$
+ 
+3,598,000
+$           
+Emerging Technology
+Technology Modernization
+5489
+N012
+3/31/2021
+84
+-
+$
+ 
+720,000
+$           
+-
+$
+ 
+-
+$
+ 
+-
+$
+ 
+720,000
+$              
+Modern Workplace
+Technology Modernization
+5490
+G020
+3/31/2021
+84
+-
+$
+ 
+5,757,000
+$        
+-
+$
+ 
+-
+$
+ 
+-
+$
+ 
+5,757,000
+$           
+Enterprise Platforms
+Technology Modernization
+5505
+G020
+3/31/2021
+84
+-
+$
+ 
+765,000
+$           
+-
+$
+ 
+-
+$
+ 
+-
+$
+ 
+765,000
+$              
+Integration Services
+Technology Modernization
+5506
+G020
+3/31/2021
+84
+-
+$
+ 
+1,887,000
+$        
+-
+$
+ 
+-
+$
+ 
+-
+$
+ 
+1,887,000
+$           
+LAN Infrastructure Program
+Technology Modernization
+5521
+G020
+3/31/2021
+84
+-
+$
+ 
+1,326,000
+$        
+-
+$
+ 
+-
+$
+ 
+-
+$
+ 
+1,326,000
+$           
+Network Security Infrastructure Program
+Technology Modernization
+5522
+G020
+3/31/2021
+84
+-
+$
+ 
+3,978,000
+$        
+-
+$
+ 
+-
+$
+ 
+-
+$
+ 
+3,978,000
+$           
+Voice Infrastructure Program
+Technology Modernization
+5523
+G020
+3/31/2021
+84
+-
+$
+ 
+1,326,000
+$        
+-
+$
+ 
+-
+$
+ 
+-
+$
+ 
+1,326,000
+$           
+WAN Infrastructure Program
+Technology Modernization
+5524
+G020
+3/31/2021
+84
+-
+$
+ 
+3,978,000
+$        
+-
+$
+ 
+-
+$
+ 
+-
+$
+ 
+3,978,000
+$           
+Wireless Infrastructure Program
+Technology Modernization
+5525
+G020
+3/31/2021
+84
+-
+$
+ 
+2,652,000
+$        
+-
+$
+ 
+-
+$
+ 
+-
+$
+ 
+2,652,000
+$           
+Infrastructure Remediation and Lifecycle refresh 
+Technology Modernization
+5540
+G020
+3/31/2021
+84
+-
+$
+ 
+7,058,000
+$        
+-
+$
+ 
+-
+$
+ 
+-
+$
+ 
+7,058,000
+$           
+Infrastructure New Capability
+Technology Modernization
+5541
+G020
+3/31/2021
+84
+-
+$
+ 
+530,000
+$           
+-
+$
+ 
+-
+$
+ 
+-
+$
+ 
+530,000
+$              
+Hosting RFP Build & Market Release 
+Technology Modernization
+5579
+G020
+3/31/2021
+84
+-
+$
+ 
+765,000
+$           
+-
+$
+ 
+-
+$
+ 
+-
+$
+ 
+765,000
+$              
+Managed Workspace Services Transition & Tx
+Technology Modernization
+5580
+G020
+3/31/2021
+84
+-
+$
+ 
+2,040,000
+$        
+-
+$
+ 
+-
+$
+ 
+-
+$
+ 
+2,040,000
+$           
+DXC Hosting Tx Initiatives
+Technology Modernization
+5581
+G020
+3/31/2021
+84
+-
+$
+ 
+2,040,000
+$        
+-
+$
+ 
+-
+$
+ 
+-
+$
+ 
+2,040,000
+$           
+Application Rationalization 
+Technology Modernization
+5598
+G331
+3/31/2021
+84
+-
+$
+ 
+7,403,000
+$        
+-
+$
+ 
+-
+$
+ 
+-
+$
+ 
+7,403,000
+$           
+Collaboration & Unified Communications
+Technology Modernization
+5487
+G020
+3/31/2022
+84
+-
+$
+ 
+-
+$
+ 
+4,404,000
+$        
+-
+$
+ 
+-
+$
+ 
+4,404,000
+$           
+Customer Experience
+Technology Modernization
+5488
+G175
+3/31/2022
+84
+-
+$
+ 
+-
+$
+ 
+3,670,000
+$        
+-
+$
+ 
+-
+$
+ 
+3,670,000
+$           
+Emerging Technology
+Technology Modernization
+5489
+N012
+3/31/2022
+84
+-
+$
+ 
+-
+$
+ 
+734,000
+$           
+-
+$
+ 
+-
+$
+ 
+734,000
+$              
+Modern Workplace
+Technology Modernization
+5490
+G020
+3/31/2022
+84
+-
+$
+ 
+-
+$
+ 
+5,872,000
+$        
+-
+$
+ 
+-
+$
+ 
+5,872,000
+$           
+Enterprise Platforms
+Technology Modernization
+5505
+G020
+3/31/2022
+84
+-
+$
+ 
+-
+$
+ 
+780,000
+$           
+-
+$
+ 
+-
+$
+ 
+780,000
+$              
+Integration Services
+Technology Modernization
+5506
+G020
+3/31/2022
+84
+-
+$
+ 
+-
+$
+ 
+1,925,000
+$        
+-
+$
+ 
+-
+$
+ 
+1,925,000
+$           
+LAN Infrastructure Program
+Technology Modernization
+5521
+G020
+3/31/2022
+84
+-
+$
+ 
+-
+$
+ 
+1,353,000
+$        
+-
+$
+ 
+-
+$
+ 
+1,353,000
+$           
+Network Security Infrastructure Program
+Technology Modernization
+5522
+G020
+3/31/2022
+84
+-
+$
+ 
+-
+$
+ 
+4,058,000
+$        
+-
+$
+ 
+-
+$
+ 
+4,058,000
+$           
+Voice Infrastructure Program
+Technology Modernization
+5523
+G020
+3/31/2022
+84
+-
+$
+ 
+-
+$
+ 
+1,353,000
+$        
+-
+$
+ 
+-
+$
+ 
+1,353,000
+$           
+WAN Infrastructure Program
+Technology Modernization
+5524
+G020
+3/31/2022
+84
+-
+$
+ 
+-
+$
+ 
+4,058,000
+$        
+-
+$
+ 
+-
+$
+ 
+4,058,000
+$           
+Wireless Infrastructure Program
+Technology Modernization
+5525
+G020
+3/31/2022
+84
+-
+$
+ 
+-
+$
+ 
+2,705,000
+$        
+-
+$
+ 
+-
+$
+ 
+2,705,000
+$           
+Infrastructure Remediation and Lifecycle refresh 
+Technology Modernization
+5540
+G020
+3/31/2022
+84
+-
+$
+ 
+-
+$
+ 
+7,200,000
+$        
+-
+$
+ 
+-
+$
+ 
+7,200,000
+$           
+Infrastructure New Capability
+Technology Modernization
+5541
+G020
+3/31/2022
+84
+-
+$
+ 
+-
+$
+ 
+541,000
+$           
+-
+$
+ 
+-
+$
+ 
+541,000
+$              
+Hosting RFP Build & Market Release 
+Technology Modernization
+5579
+G020
+3/31/2022
+84
+-
+$
+ 
+-
+$
+ 
+780,000
+$           
+-
+$
+ 
+-
+$
+ 
+780,000
+$              
+Managed Workspace Services Transition & Tx
+Technology Modernization
+5580
+G020
+3/31/2022
+84
+-
+$
+ 
+-
+$
+ 
+2,081,000
+$        
+-
+$
+ 
+-
+$
+ 
+2,081,000
+$           
+DXC Hosting Tx Initiatives
+Technology Modernization
+5581
+G020
+3/31/2022
+84
+-
+$
+ 
+-
+$
+ 
+2,081,000
+$        
+-
+$
+ 
+-
+$
+ 
+2,081,000
+$           
+Application Rationalization 
+Technology Modernization
+5598
+G331
+3/31/2022
+84
+-
+$
+ 
+-
+$
+ 
+8,070,000
+$        
+-
+$
+ 
+-
+$
+ 
+8,070,000
+$           
+Case & Customer Complaint Management Solution
+Technology Modernization
+5169
+G116
+10/30/2022
+84
+-
+$
+ 
+-
+$
+ 
+552,273
+$           
+348,000
+$           
+-
+$
+ 
+900,273
+$              
+Collaboration & Unified Communications
+Technology Modernization
+5487
+G020
+3/31/2023
+84
+-
+$
+ 
+-
+$
+ 
+-
+$
+ 
+4,492,000
+$        
+-
+$
+ 
+4,492,000
+$           
+Customer Experience
+Technology Modernization
+5488
+G175
+3/31/2023
+84
+-
+$
+ 
+-
+$
+ 
+-
+$
+ 
+3,743,000
+$        
+-
+$
+ 
+3,743,000
+$           
+Emerging Technology
+Technology Modernization
+5489
+N012
+3/31/2023
+84
+-
+$
+ 
+-
+$
+ 
+-
+$
+ 
+749,000
+$           
+-
+$
+ 
+749,000
+$              
+Modern Workplace
+Technology Modernization
+5490
+G020
+3/31/2023
+84
+-
+$
+ 
+-
+$
+ 
+-
+$
+ 
+5,989,000
+$        
+-
+$
+ 
+5,989,000
+$           
+Enterprise Platforms
+Technology Modernization
+5505
+G020
+3/31/2023
+84
+-
+$
+ 
+-
+$
+ 
+-
+$
+ 
+796,000
+$           
+-
+$
+ 
+796,000
+$              
+Integration Services
+Technology Modernization
+5506
+G020
+3/31/2023
+84
+-
+$
+ 
+-
+$
+ 
+-
+$
+ 
+1,963,000
+$        
+-
+$
+ 
+1,963,000
+$           
+LAN Infrastructure Program
+Technology Modernization
+5521
+G020
+3/31/2023
+84
+-
+$
+ 
+-
+$
+ 
+-
+$
+ 
+1,380,000
+$        
+-
+$
+ 
+1,380,000
+$           
+Network Security Infrastructure Program
+Technology Modernization
+5522
+G020
+3/31/2023
+84
+-
+$
+ 
+-
+$
+ 
+-
+$
+ 
+4,139,000
+$        
+-
+$
+ 
+4,139,000
+$           
+Voice Infrastructure Program
+Technology Modernization
+5523
+G020
+3/31/2023
+84
+-
+$
+ 
+-
+$
+ 
+-
+$
+ 
+1,380,000
+$        
+-
+$
+ 
+1,380,000
+$           
+WAN Infrastructure Program
+Technology Modernization
+5524
+G020
+3/31/2023
+84
+-
+$
+ 
+-
+$
+ 
+-
+$
+ 
+4,139,000
+$        
+-
+$
+ 
+4,139,000
+$           
+Wireless Infrastructure Program
+Technology Modernization
+5525
+G020
+3/31/2023
+84
+-
+$
+ 
+-
+$
+ 
+-
+$
+ 
+2,759,000
+$        
+-
+$
+ 
+2,759,000
+$           
+Infrastructure Remediation and Lifecycle refresh 
+Technology Modernization
+5540
+G020
+3/31/2023
+84
+-
+$
+ 
+-
+$
+ 
+-
+$
+ 
+7,344,000
+$        
+-
+$
+ 
+7,344,000
+$           
+Infrastructure New Capability
+Technology Modernization
+5541
+G020
+3/31/2023
+84
+-
+$
+ 
+-
+$
+ 
+-
+$
+ 
+552,000
+$           
+-
+$
+ 
+552,000
+$              
+Hosting RFP Build & Market Release 
+Technology Modernization
+5579
+G020
+3/31/2023
+84
+-
+$
+ 
+-
+$
+ 
+-
+$
+ 
+796,000
+$           
+-
+$
+ 
+796,000
+$              
+Managed Workspace Services Transition & Tx
+Technology Modernization
+5580
+G020
+3/31/2023
+84
+-
+$
+ 
+-
+$
+ 
+-
+$
+ 
+2,122,000
+$        
+-
+$
+ 
+2,122,000
+$           
+DXC Hosting Tx Initiatives
+Technology Modernization
+5581
+G020
+3/31/2023
+84
+-
+$
+ 
+-
+$
+ 
+-
+$
+ 
+2,122,000
+$        
+-
+$
+ 
+2,122,000
+$           
+Application Rationalization 
+Technology Modernization
+5598
+G331
+3/31/2023
+84
+-
+$
+ 
+-
+$
+ 
+-
+$
+ 
+8,489,664
+$        
+-
+$
+ 
+8,489,664
+$           
+Collaboration & Unified Communications
+Technology Modernization
+5487
+G020
+3/31/2024
+84
+-
+$
+ 
+-
+$
+ 
+-
+$
+ 
+-
+$
+ 
+4,582,000
+$        
+4,582,000
+$           
+Customer Experience
+Technology Modernization
+5488
+G175
+3/31/2024
+84
+-
+$
+ 
+-
+$
+ 
+-
+$
+ 
+-
+$
+ 
+3,818,000
+$        
+3,818,000
+$           
+Exhibit __ (ITP-4CU) 
+              Page 4 of 5
+
+
+--- Page 19 ---
+Investment Name
+Program
+INVP #
+Bill Pool
+In Service Date
+Amortization 
+Period
+Inception to Date+ 
+FY20
+FY21 CAPEX
+FY22 CAPEX
+FY23 CAPEX
+FY24 CAPEX
+Total US Capex 
+Spend
+KeySpan Gas East Corporation d/b/a National Grid, The Brooklyn Union Gas Company d/b/a National Grid NY
+ITP-4 In-Flight and Forecasted Information Technology (IT) Capital Projects
+Emerging Technology
+Technology Modernization
+5489
+N012
+3/31/2024
+84
+-
+$
+ 
+-
+$
+ 
+-
+$
+ 
+-
+$
+ 
+764,000
+$           
+764,000
+$              
+Modern Workplace
+Technology Modernization
+5490
+G020
+3/31/2024
+84
+-
+$
+ 
+-
+$
+ 
+-
+$
+ 
+-
+$
+ 
+6,109,000
+$        
+6,109,000
+$           
+Enterprise Platforms
+Technology Modernization
+5505
+G020
+3/31/2024
+84
+-
+$
+ 
+-
+$
+ 
+-
+$
+ 
+-
+$
+ 
+812,000
+$           
+812,000
+$              
+Integration Services
+Technology Modernization
+5506
+G020
+3/31/2024
+84
+-
+$
+ 
+-
+$
+ 
+-
+$
+ 
+-
+$
+ 
+2,002,000
+$        
+2,002,000
+$           
+LAN Infrastructure Program
+Technology Modernization
+5521
+G020
+3/31/2024
+84
+-
+$
+ 
+-
+$
+ 
+-
+$
+ 
+-
+$
+ 
+1,407,000
+$        
+1,407,000
+$           
+Network Security Infrastructure Program
+Technology Modernization
+5522
+G020
+3/31/2024
+84
+-
+$
+ 
+-
+$
+ 
+-
+$
+ 
+-
+$
+ 
+4,221,000
+$        
+4,221,000
+$           
+Voice Infrastructure Program
+Technology Modernization
+5523
+G020
+3/31/2024
+84
+-
+$
+ 
+-
+$
+ 
+-
+$
+ 
+-
+$
+ 
+1,407,000
+$        
+1,407,000
+$           
+WAN Infrastructure Program
+Technology Modernization
+5524
+G020
+3/31/2024
+84
+-
+$
+ 
+-
+$
+ 
+-
+$
+ 
+-
+$
+ 
+4,221,000
+$        
+4,221,000
+$           
+Wireless Infrastructure Program
+Technology Modernization
+5525
+G020
+3/31/2024
+84
+-
+$
+ 
+-
+$
+ 
+-
+$
+ 
+-
+$
+ 
+2,814,000
+$        
+2,814,000
+$           
+Infrastructure Remediation and Lifecycle refresh 
+Technology Modernization
+5540
+G020
+3/31/2024
+84
+-
+$
+ 
+-
+$
+ 
+-
+$
+ 
+-
+$
+ 
+7,490,000
+$        
+7,490,000
+$           
+Infrastructure New Capability
+Technology Modernization
+5541
+G020
+3/31/2024
+84
+-
+$
+ 
+-
+$
+ 
+-
+$
+ 
+-
+$
+ 
+563,000
+$           
+563,000
+$              
+Hosting RFP Build & Market Release 
+Technology Modernization
+5579
+G020
+3/31/2024
+84
+-
+$
+ 
+-
+$
+ 
+-
+$
+ 
+-
+$
+ 
+812,000
+$           
+812,000
+$              
+Managed Workspace Services Transition & Tx
+Technology Modernization
+5580
+G020
+3/31/2024
+84
+-
+$
+ 
+-
+$
+ 
+-
+$
+ 
+-
+$
+ 
+2,165,000
+$        
+2,165,000
+$           
+DXC Hosting Tx Initiatives
+Technology Modernization
+5581
+G020
+3/31/2024
+84
+-
+$
+ 
+-
+$
+ 
+-
+$
+ 
+-
+$
+ 
+2,165,000
+$        
+2,165,000
+$           
+Application Rationalization 
+Technology Modernization
+5598
+G331
+3/31/2024
+84
+-
+$
+ 
+-
+$
+ 
+-
+$
+ 
+-
+$
+ 
+8,659,457
+$        
+8,659,457
+$           
+Gas Transportation System Phase 3 GTIS
+Technology Modernization
+5388
+G210
+12/31/2024
+84
+-
+$
+ 
+-
+$
+ 
+1,704,644
+$        
+3,418,654
+$        
+2,500,000
+$        
+7,623,297
+$           
+Total
+253,165,534
+$           
+243,846,019
+$    
+382,820,282
+$    
+180,836,988
+$    
+299,204,544
+$    
+1,359,873,367
+$    
+Exhibit __ (ITP-4CU) 
+              Page 5 of 5
+
+
+--- Page 20 ---
+Corrections and Updates Testimony of Information Technology Panel 
+  
+ 
+ 
+ 
+ 
+ 
+ 
+ 
+ 
+ 
+ 
+ 
+Exhibit ___ (ITP-7CU) 
+ 
+IT Projected OPEX Costs 
+ 
+ 
+ 
+ 
+ 
+ 
+ 
+ 
+ 
+ 
+ 
+ 
+ 
+ 
+ 
+ 
+ 
+ 
+ 
+ 
+ 
+ 
+ 
+ 
+ 
+ 
+ 
+ 
+ 
+ 
+ 
+ 
+ 
+ 
+ 
+ 
+
+
+--- Page 21 ---
+Exhibit__(ITP-7CU)
+Page 1 of 2
+Investment Name
+Program
+INVP #
+FY21 OPEX
+FY21 RTB
+FY22 OPEX
+FY22 RTB
+FY23 OPEX
+FY23 RTB
+FY24 OPEX
+FY24 RTB
+Document Management System for CDI
+Complex Capital Delivery
+4945
+-
+$
+ 
+-
+$
+ 
+655,000
+$             
+-
+$
+ 
+281,000
+$             
+578,000
+$          
+-
+$
+ 
+660,000
+$            
+Downstate NY Capacity Automation Enhancement 
+Complex Capital Delivery
+5136
+120,000
+$             
+-
+$
+ 
+-
+$
+ 
+-
+$
+ 
+-
+$
+ 
+-
+$
+ 
+-
+$
+ 
+-
+$
+ 
+New Storms Response Management System
+Complex Capital Delivery
+5274
+259,000
+$             
+108,000
+$            
+-
+$
+ 
+215,000
+$         
+-
+$
+ 
+215,000
+$          
+-
+$
+ 
+215,000
+$            
+Post Award Non-Complex Contract Management System
+Complex Capital Delivery
+5275
+-
+$
+ 
+-
+$
+ 
+1,000,000
+$          
+-
+$
+ 
+451,000
+$             
+1,942,000
+$        
+-
+$
+ 
+1,924,000
+$         
+CDI Demand Enablement Program
+Complex Capital Delivery
+5599
+159,000
+$             
+-
+$
+ 
+51,000
+$              
+-
+$
+ 
+13,000
+$              
+-
+$
+ 
+88,000
+$              
+-
+$
+ 
+GTIS Datamart and Advanced Reporting Capability
+Complex Capital Delivery
+5602
+-
+$
+ 
+-
+$
+ 
+-
+$
+ 
+-
+$
+ 
+200,000
+$             
+-
+$
+ 
+100,000
+$             
+-
+$
+ 
+Contract Management Solution for CCDI
+Complex Capital Delivery
+4771A
+617,000
+$            
+617,000
+$         
+617,000
+$          
+617,000
+$            
+Capital Delivery IS Initiative  US
+Complex Capital Delivery
+4771B
+-
+$
+ 
+652,088
+$            
+-
+$
+ 
+652,088
+$         
+-
+$
+ 
+652,088
+$          
+-
+$
+ 
+652,088
+$            
+Gas Storm Hardening Using Remote Service Valves (RSVs)
+Compliance & Mandates
+4769
+-
+$
+ 
+324,000
+$            
+-
+$
+ 
+324,000
+$         
+-
+$
+ 
+324,000
+$          
+-
+$
+ 
+324,000
+$            
+DocuSign
+Compliance & Mandates
+4802
+12,000
+$              
+12,000
+$           
+12,000
+$            
+12,000
+$              
+AMAG: Automated Interface for New Hires
+Compliance & Mandates
+4997
+-
+$
+ 
+-
+$
+ 
+602,817
+$             
+-
+$
+ 
+-
+$
+ 
+-
+$
+ 
+-
+$
+ 
+-
+$
+ 
+Flood Zone Protection Packages
+Compliance & Mandates
+5161
+73,000
+$              
+-
+$
+ 
+33,000
+$              
+17,500
+$           
+-
+$
+ 
+30,000
+$            
+-
+$
+ 
+30,000
+$              
+NY Gas Service Line Inspection
+Compliance & Mandates
+5175
+-
+$
+ 
+86,000
+$              
+-
+$
+ 
+86,000
+$           
+-
+$
+ 
+86,000
+$            
+-
+$
+ 
+86,000
+$              
+AVLS  Old 3G Modem Replacement 
+Compliance & Mandates
+5226
+-
+$
+ 
+20,000
+$              
+-
+$
+ 
+20,000
+$           
+-
+$
+ 
+20,000
+$            
+-
+$
+ 
+20,000
+$              
+NYC Permit System
+Compliance & Mandates
+5306
+-
+$
+ 
+10,000
+$              
+-
+$
+ 
+10,000
+$           
+-
+$
+ 
+10,000
+$            
+-
+$
+ 
+10,000
+$              
+Lease Accounting Updates and Contract Ma
+Compliance & Mandates
+5360
+-
+$
+ 
+480,000
+$            
+-
+$
+ 
+360,000
+$         
+-
+$
+ 
+360,000
+$          
+-
+$
+ 
+360,000
+$            
+CDG Low Income Bill Discount Program
+Compliance & Mandates
+5474
+150,000
+$             
+-
+$
+ 
+-
+$
+ 
+-
+$
+ 
+-
+$
+ 
+-
+$
+ 
+-
+$
+ 
+-
+$
+ 
+Annual HR & Payroll Mandatory Service Pack Upgrade (HRSP) FY21
+Compliance & Mandates
+5609
+400,000
+$             
+-
+$
+ 
+-
+$
+ 
+-
+$
+ 
+-
+$
+ 
+-
+$
+ 
+-
+$
+ 
+-
+$
+ 
+Annual HR & Payroll Mandatory Service Pack Upgrade (HRSP) FY22
+Compliance & Mandates
+5610
+-
+$
+ 
+-
+$
+ 
+400,000
+$             
+-
+$
+ 
+-
+$
+ 
+-
+$
+ 
+-
+$
+ 
+-
+$
+ 
+Annual HR & Payroll Mandatory Service Pack Upgrade (HRSP) FY23
+Compliance & Mandates
+5611
+-
+$
+ 
+-
+$
+ 
+-
+$
+ 
+-
+$
+ 
+400,000
+$             
+-
+$
+ 
+-
+$
+ 
+-
+$
+ 
+Annual HR & Payroll Mandatory Service Pack Upgrade (HRSP) FY24
+Compliance & Mandates
+5612
+-
+$
+ 
+-
+$
+ 
+-
+$
+ 
+-
+$
+ 
+-
+$
+ 
+-
+$
+ 
+400,000
+$             
+-
+$
+ 
+FY21-FY24 Mandated Projects
+Compliance & Mandates
+5650
+6,000,000
+$          
+-
+$
+ 
+6,000,000
+$          
+-
+$
+ 
+6,000,000
+$          
+-
+$
+ 
+6,000,000
+$          
+-
+$
+ 
+Program Delivery Enablement Project
+Corporate IT
+3431
+330,000
+$             
+200,000
+$            
+-
+$
+ 
+200,000
+$         
+-
+$
+ 
+200,000
+$          
+-
+$
+ 
+200,000
+$            
+Legal Hold System Hardware and Software Upgrades
+Corporate IT
+3910
+-
+$
+ 
+212,000
+$            
+-
+$
+ 
+212,000
+$         
+-
+$
+ 
+212,000
+$          
+-
+$
+ 
+212,000
+$            
+Allegro Upgrade to Horizon
+Corporate IT
+4998
+180,000
+$             
+-
+$
+ 
+-
+$
+ 
+-
+$
+ 
+-
+$
+ 
+-
+$
+ 
+-
+$
+ 
+-
+$
+ 
+MyHub Compliance & Enhancements
+Corporate IT
+5158
+200,000
+$             
+-
+$
+ 
+130,000
+$             
+-
+$
+ 
+-
+$
+ 
+-
+$
+ 
+-
+$
+ 
+-
+$
+ 
+Billing and Payments Implementation
+Corporate IT
+5345
+46,000
+$              
+-
+$
+ 
+-
+$
+ 
+-
+$
+ 
+-
+$
+ 
+-
+$
+ 
+-
+$
+ 
+-
+$
+ 
+Future of HR Programme
+Corporate IT
+5362
+300,000
+$             
+500,000
+$            
+-
+$
+ 
+500,000
+$         
+-
+$
+ 
+500,000
+$          
+-
+$
+ 
+500,000
+$            
+Future of Finance Program of Work
+Corporate IT
+5380
+3,000,000
+$          
+200,000
+$            
+3,000,000
+$          
+200,000
+$         
+5,000,000
+$          
+200,000
+$          
+4,000,000
+$          
+200,000
+$            
+Integration of background Check with SAP SuccessFactors
+Corporate IT
+5464
+-
+$
+ 
+8,000
+$
+ 
+-
+$
+ 
+8,000
+$             
+-
+$
+ 
+8,000
+$
+ 
+-
+$
+ 
+8,000
+$
+ 
+AMAG HW and SW Upgrade 
+Corporate IT
+5466
+50,000
+$              
+-
+$
+ 
+210,000
+$             
+-
+$
+ 
+-
+$
+ 
+-
+$
+ 
+-
+$
+ 
+-
+$
+ 
+Lease Accounting Updates and CMM - Phase 2
+Corporate IT
+5497
+165,000
+$             
+-
+$
+ 
+-
+$
+ 
+-
+$
+ 
+-
+$
+ 
+-
+$
+ 
+-
+$
+ 
+-
+$
+ 
+US Legal: Document Management
+Corporate IT
+5507
+30,000
+$              
+-
+$
+ 
+-
+$
+ 
+-
+$
+ 
+-
+$
+ 
+-
+$
+ 
+-
+$
+ 
+-
+$
+ 
+Materials, Repair, Operation Optimization
+Corporate IT
+5544
+-
+$
+ 
+12,000
+$              
+-
+$
+ 
+12,000
+$           
+-
+$
+ 
+12,000
+$            
+-
+$
+ 
+12,000
+$              
+Digital Services
+Corporate IT
+5614
+-
+$
+ 
+-
+$
+ 
+325,000
+$             
+-
+$
+ 
+260,000
+$             
+-
+$
+ 
+-
+$
+ 
+-
+$
+ 
+IT Strategic Tooling
+Corporate IT
+5619
+-
+$
+ 
+-
+$
+ 
+260,000
+$             
+-
+$
+ 
+65,000
+$              
+-
+$
+ 
+260,000
+$             
+-
+$
+ 
+Legal Strategic Tooling
+Corporate IT
+5620
+-
+$
+ 
+-
+$
+ 
+390,000
+$             
+-
+$
+ 
+-
+$
+ 
+195,000
+$             
+-
+$
+ 
+MyHub Upgrade & Refresh
+Corporate IT
+5621
+-
+$
+ 
+-
+$
+ 
+130,000
+$             
+-
+$
+ 
+325,000
+$             
+-
+$
+ 
+130,000
+$             
+-
+$
+ 
+Implementation costs following F& A for Property Systems ReviewNew
+Corporate IT
+5623
+-
+$
+ 
+-
+$
+ 
+345,000
+$             
+75,000
+$           
+405,000
+$             
+45,000
+$            
+-
+$
+ 
+-
+$
+ 
+US Corporate Strategic Program
+Corporate IT
+5630
+750,000
+$             
+-
+$
+ 
+750,000
+$             
+-
+$
+ 
+750,000
+$             
+-
+$
+ 
+750,000
+$             
+-
+$
+ 
+Software License Asset Management
+Corporate IT
+5364US
+-
+$
+ 
+-
+$
+ 
+25,000
+$           
+25,000
+$            
+-
+$
+ 
+25,000
+$              
+CXT MyAccount MVP
+Customer Transformation
+4750D
+101,000
+$             
+2,111,000
+$         
+-
+$
+ 
+2,121,000
+$      
+-
+$
+ 
+2,121,000
+$        
+-
+$
+ 
+2,121,000
+$         
+CXT MyAccount - CSS Responsive Web
+Customer Transformation
+4750F
+157,000
+$             
+-
+$
+ 
+281,000
+$             
+-
+$
+ 
+-
+$
+ 
+-
+$
+ 
+-
+$
+ 
+-
+$
+ 
+CXT MyAccount - Two way Outage SMS Communication
+Customer Transformation
+4750G
+-
+$
+ 
+7,000
+$
+ 
+-
+$
+ 
+7,000
+$             
+-
+$
+ 
+7,000
+$
+ 
+-
+$
+ 
+7,000
+$
+ 
+CXT - AIMS Evolution Program
+Customer Transformation
+5066
+76,256
+$              
+20,000
+$              
+-
+$
+ 
+30,000
+$           
+-
+$
+ 
+30,000
+$            
+-
+$
+ 
+30,000
+$              
+Customer Solutions Technology Upgrade Program
+Customer Transformation
+5100
+100,000
+$         
+200,000
+$          
+300,000
+$            
+Customer Experience Transformation (CXT) Phase 2 Program - MyAccount
+Customer Transformation
+5129
+-
+$
+ 
+-
+$
+ 
+300,000
+$             
+100,000
+$         
+300,000
+$             
+100,000
+$          
+300,000
+$             
+200,000
+$            
+CIAC process system enhancements program
+Customer Transformation
+5130
+200,000
+$             
+30,000
+$              
+50,000
+$           
+-
+$
+ 
+50,000
+$            
+-
+$
+ 
+50,000
+$              
+Customer Minor Works FY20
+Customer Transformation
+5383
+15,000
+$              
+15,000
+$           
+15,000
+$            
+15,000
+$              
+Low Income Order Additional Compliance scope
+Customer Transformation
+5386
+200,000
+$             
+30,000
+$              
+100,000
+$             
+50,000
+$           
+-
+$
+ 
+50,000
+$            
+-
+$
+ 
+50,000
+$              
+Gas Business Enablement Cyber Security E
+Cyber Security
+5571
+-
+$
+ 
+-
+$
+ 
+-
+$
+ 
+250,000
+$         
+-
+$
+ 
+250,000
+$          
+-
+$
+ 
+250,000
+$            
+Operational Technology Cyber Security Program
+Cyber Security
+5591
+-
+$
+ 
+-
+$
+ 
+496,892
+$             
+-
+$
+ 
+1,281,704
+$          
+258,847
+$          
+1,414,804
+$          
+800,323
+$            
+Security Operations and Monitoring Cyber Security Program
+Cyber Security
+5592
+-
+$
+ 
+-
+$
+ 
+365,792
+$             
+-
+$
+ 
+854,469
+$             
+190,553
+$          
+966,207
+$             
+562,330
+$            
+Enhance the Foundation Cyber Security Program
+Cyber Security
+5593
+-
+$
+ 
+-
+$
+ 
+56,186
+$              
+-
+$
+ 
+98,593
+$              
+29,269
+$            
+103,522
+$             
+76,535
+$              
+Culture and Awareness Cyber Security Program
+Cyber Security
+5594
+-
+$
+ 
+-
+$
+ 
+70,232
+$              
+-
+$
+ 
+131,457
+$             
+36,586
+$            
+103,533
+$             
+98,145
+$              
+Threat Resistant Networks Cyber Security Program
+Cyber Security
+5595
+-
+$
+ 
+-
+$
+ 
+64,379
+$              
+-
+$
+ 
+164,321
+$             
+33,537
+$            
+138,030
+$             
+103,168
+$            
+Robust Identity and Controls Cyber Security Program
+Cyber Security
+5596
+-
+$
+ 
+-
+$
+ 
+204,844
+$             
+-
+$
+ 
+492,963
+$             
+106,710
+$          
+517,611
+$             
+319,261
+$            
+Secure Endpoints Cyber Security Program
+Cyber Security
+5597
+-
+$
+ 
+-
+$
+ 
+146,317
+$             
+-
+$
+ 
+262,914
+$             
+76,221
+$            
+207,044
+$             
+201,168
+$            
+CNI Secure Communication
+Cyber Security
+3614B7
+-
+$
+ 
+760,513
+$            
+-
+$
+ 
+760,513
+$         
+-
+$
+ 
+760,513
+$          
+-
+$
+ 
+760,513
+$            
+US Endpoint Security
+Cyber Security
+3683USA
+-
+$
+ 
+994,068
+$            
+-
+$
+ 
+1,031,500
+$      
+-
+$
+ 
+1,031,500
+$        
+-
+$
+ 
+1,031,500
+$         
+GPS Project
+Cyber Security
+3683USAA
+331,900
+$             
+-
+$
+ 
+84,230
+$              
+-
+$
+ 
+-
+$
+ 
+58,695
+$            
+-
+$
+ 
+58,695
+$              
+Enhanced DLP Gateway & Endpoint
+Cyber Security
+3683USAB
+372,995
+$             
+55,900
+$              
+-
+$
+ 
+335,400
+$         
+-
+$
+ 
+335,400
+$          
+-
+$
+ 
+335,400
+$            
+CNI Intrusion Detection/Prevention: Phase 2
+Cyber Security
+3683USAC
+316,795
+$             
+-
+$
+ 
+-
+$
+ 
+24,375
+$           
+-
+$
+ 
+146,250
+$          
+-
+$
+ 
+146,250
+$            
+Big Data Security Analytics: Phase 2
+Cyber Security
+3683USAD
+-
+$
+ 
+-
+$
+ 
+991,980
+$             
+-
+$
+ 
+-
+$
+ 
+425,100
+$          
+-
+$
+ 
+425,100
+$            
+Security Incident & Event Management: Phase 5
+Cyber Security
+3683USAF
+-
+$
+ 
+-
+$
+ 
+616,792
+$             
+-
+$
+ 
+-
+$
+ 
+208,650
+$          
+-
+$
+ 
+208,650
+$            
+IAM: Shared Area Access Management
+Cyber Security
+3683USAG
+733,746
+$             
+-
+$
+ 
+-
+$
+ 
+66,137
+$           
+-
+$
+ 
+396,825
+$          
+-
+$
+ 
+396,825
+$            
+Security Data Visualization
+Cyber Security
+3683USAH
+347,622
+$             
+-
+$
+ 
+-
+$
+ 
+109,200
+$         
+-
+$
+ 
+163,800
+$          
+-
+$
+ 
+163,800
+$            
+CNI Security Enhancements: Phase 1
+Cyber Security
+3683USAM
+264,000
+$             
+-
+$
+ 
+-
+$
+ 
+190,000
+$         
+-
+$
+ 
+190,000
+$          
+-
+$
+ 
+190,000
+$            
+DNS Resolution & Protection
+Cyber Security
+3683USAN
+-
+$
+ 
+-
+$
+ 
+-
+$
+ 
+388,500
+$         
+-
+$
+ 
+388,500
+$          
+-
+$
+ 
+388,500
+$            
+IT/OT Discovery and Implementation Phase
+Cyber Security
+3683USAO
+16,140
+$              
+-
+$
+ 
+32,280
+$              
+348,000
+$         
+-
+$
+ 
+348,000
+$          
+-
+$
+ 
+348,000
+$            
+CASB 2
+Cyber Security
+3683USAQ
+-
+$
+ 
+540,000
+$            
+-
+$
+ 
+540,000
+$         
+-
+$
+ 
+540,000
+$          
+-
+$
+ 
+540,000
+$            
+Azure CoE Vulnerability Scanning
+Cyber Security
+3683USAR
+-
+$
+ 
+27,000
+$              
+-
+$
+ 
+27,000
+$           
+-
+$
+ 
+27,000
+$            
+-
+$
+ 
+27,000
+$              
+Develop Robust Incident Response
+Cyber Security
+3683USD
+-
+$
+ 
+150,000
+$            
+-
+$
+ 
+150,000
+$         
+-
+$
+ 
+150,000
+$          
+-
+$
+ 
+150,000
+$            
+Enhanced Phishing protection & awareness
+Cyber Security
+3683USG
+68,420
+$              
+160,000
+$            
+-
+$
+ 
+240,000
+$         
+-
+$
+ 
+240,000
+$          
+-
+$
+ 
+240,000
+$            
+Firewall Rule Clean Up
+Cyber Security
+3683USH
+-
+$
+ 
+24,000
+$              
+-
+$
+ 
+24,000
+$           
+-
+$
+ 
+24,000
+$            
+-
+$
+ 
+24,000
+$              
+Sustainable Red-Team Service Model
+Cyber Security
+3683USI
+-
+$
+ 
+34,000
+$              
+-
+$
+ 
+34,000
+$           
+-
+$
+ 
+34,000
+$            
+-
+$
+ 
+34,000
+$              
+Removable Media Control Pilot
+Cyber Security
+3683USJ
+-
+$
+ 
+41,000
+$              
+-
+$
+ 
+41,000
+$           
+-
+$
+ 
+41,000
+$            
+-
+$
+ 
+41,000
+$              
+Insider Threat Detection
+Cyber Security
+3683USL
+-
+$
+ 
+150,000
+$            
+-
+$
+ 
+257,000
+$         
+-
+$
+ 
+257,000
+$          
+-
+$
+ 
+257,000
+$            
+Virtualized Browser
+Cyber Security
+3683USM
+-
+$
+ 
+56,360
+$              
+-
+$
+ 
+56,355
+$           
+-
+$
+ 
+56,355
+$            
+-
+$
+ 
+56,355
+$              
+Network Segregation
+Cyber Security
+3683USO
+82,000
+$              
+-
+$
+ 
+-
+$
+ 
+-
+$
+ 
+-
+$
+ 
+-
+$
+ 
+-
+$
+ 
+-
+$
+ 
+IAM: Role Based Access control
+Cyber Security
+3683USP
+56,865
+$              
+267,150
+$            
+-
+$
+ 
+267,150
+$         
+-
+$
+ 
+267,150
+$          
+-
+$
+ 
+267,150
+$            
+Big Data Security Analytics: Phase 1
+Cyber Security
+3683USQ
+-
+$
+ 
+144,000
+$            
+-
+$
+ 
+866,000
+$         
+-
+$
+ 
+866,000
+$          
+-
+$
+ 
+866,000
+$            
+Security Research Lab
+Cyber Security
+3683USR
+-
+$
+ 
+56,550
+$              
+-
+$
+ 
+56,550
+$           
+-
+$
+ 
+56,550
+$            
+-
+$
+ 
+56,550
+$              
+Threat Behavior Modeling
+Cyber Security
+3683USS
+-
+$
+ 
+67,795
+$              
+-
+$
+ 
+116,220
+$         
+-
+$
+ 
+116,220
+$          
+-
+$
+ 
+116,220
+$            
+Enterprise Wide Agreed Information Classification
+Cyber Security
+3683UST
+-
+$
+ 
+32,000
+$              
+-
+$
+ 
+32,000
+$           
+-
+$
+ 
+32,000
+$            
+-
+$
+ 
+32,000
+$              
+Network Access Control
+Cyber Security
+3683USU
+-
+$
+ 
+10,000
+$              
+-
+$
+ 
+25,000
+$           
+-
+$
+ 
+25,000
+$            
+-
+$
+ 
+25,000
+$              
+CNI Forensic Pack capture
+Cyber Security
+3683USV
+90,222
+$              
+40,625
+$              
+-
+$
+ 
+243,750
+$         
+-
+$
+ 
+243,750
+$          
+-
+$
+ 
+243,750
+$            
+Removable Media Control - Full Roll out
+Cyber Security
+3683USW
+260,589
+$             
+-
+$
+ 
+-
+$
+ 
+-
+$
+ 
+-
+$
+ 
+181,350
+$          
+-
+$
+ 
+181,350
+$            
+Application Security As a Service
+Cyber Security
+3683USX
+-
+$
+ 
+432,000
+$            
+-
+$
+ 
+432,000
+$         
+-
+$
+ 
+432,000
+$          
+-
+$
+ 
+432,000
+$            
+Anti-Malware Gateway
+Cyber Security
+3683USY
+23,000
+$              
+137,000
+$         
+137,000
+$          
+137,000
+$            
+Continuous review of Reference Security 
+Cyber Security
+3683USZ
+-
+$
+ 
+77,463
+$              
+-
+$
+ 
+34,856
+$           
+-
+$
+ 
+34,856
+$            
+-
+$
+ 
+34,856
+$              
+CNI Intrusion Detection System (IDS) ref
+Cyber Security
+4975USB
+-
+$
+ 
+11,328
+$              
+-
+$
+ 
+11,328
+$           
+-
+$
+ 
+11,328
+$            
+-
+$
+ 
+11,328
+$              
+Multi factor Authentication (MFA)
+Cyber Security
+4975USC
+-
+$
+ 
+(350,448)
+$           
+-
+$
+ 
+(352,965)
+$        
+-
+$
+ 
+(352,965)
+$         
+-
+$
+ 
+(352,965)
+$           
+Internal Public Key Infrastructure (PKI)
+Cyber Security
+4975USF
+-
+$
+ 
+552,000
+$            
+-
+$
+ 
+552,000
+$         
+-
+$
+ 
+552,000
+$          
+-
+$
+ 
+552,000
+$            
+US CNI GMSSCADA Upgrade and Consolidati
+Gas Operations
+3737
+-
+$
+ 
+885,000
+$            
+-
+$
+ 
+885,000
+$         
+-
+$
+ 
+885,000
+$          
+-
+$
+ 
+885,000
+$            
+Gas Service Database  DNY (LI and NYC)
+Gas Operations
+3948
+-
+$
+ 
+9,300
+$
+ 
+-
+$
+ 
+-
+$
+ 
+-
+$
+ 
+-
+$
+ 
+-
+$
+ 
+-
+$
+ 
+Gas Capacity Review Database 
+Gas Operations
+4468
+-
+$
+ 
+60,000
+$              
+-
+$
+ 
+-
+$
+ 
+-
+$
+ 
+-
+$
+ 
+-
+$
+ 
+-
+$
+ 
+Asset Management System for LNG
+Gas Operations
+4898
+775,000
+$             
+100,000
+$            
+660,000
+$             
+100,000
+$         
+-
+$
+ 
+100,000
+$          
+-
+$
+ 
+100,000
+$            
+Single Voice Dispatch System
+Gas Operations
+4978
+-
+$
+ 
+19,000
+$              
+-
+$
+ 
+19,000
+$           
+-
+$
+ 
+19,000
+$            
+-
+$
+ 
+19,000
+$              
+AVLS Modem Reconfiguration
+Gas Operations
+5486
+10,000
+$              
+-
+$
+ 
+-
+$
+ 
+-
+$
+ 
+-
+$
+ 
+-
+$
+ 
+-
+$
+ 
+-
+$
+ 
+Fortis Upgrade
+Gas Operations
+5531
+-
+$
+ 
+8,000
+$
+ 
+-
+$
+ 
+8,000
+$             
+-
+$
+ 
+8,000
+$
+ 
+-
+$
+ 
+8,000
+$
+ 
+Gas Control Center Investments 
+Gas Operations
+5590
+-
+$
+ 
+200,000
+$            
+-
+$
+ 
+200,000
+$         
+200,000
+$          
+200,000
+$            
+KeySpan Gas East Corporation d/b/a National Grid, The Brooklyn Union Gas Company d/b/a National Grid NY
+ITP-7 Information Technology (IT) Investment Plan Project Operating Expenses (Opex) & Run the Business (RTB)
+FY21
+Rate Year
+FY22
+Data Year
+FY23
+Data Year
+FY24
+Data Year
+
+
+--- Page 22 ---
+Exhibit__(ITP-7CU)
+Page 2 of 2
+Investment Name
+Program
+INVP #
+FY21 OPEX
+FY21 RTB
+FY22 OPEX
+FY22 RTB
+FY23 OPEX
+FY23 RTB
+FY24 OPEX
+FY24 RTB
+KeySpan Gas East Corporation d/b/a National Grid, The Brooklyn Union Gas Company d/b/a National Grid NY
+ITP-7 Information Technology (IT) Investment Plan Project Operating Expenses (Opex) & Run the Business (RTB)
+FY21
+Rate Year
+FY22
+Data Year
+FY23
+Data Year
+FY24
+Data Year
+Gas Advanced Meter Infrastructure (AMI)
+Gas Operations
+5645
+500,000
+$             
+150,000
+$            
+500,000
+$             
+150,000
+$         
+500,000
+$             
+150,000
+$          
+-
+$
+ 
+1,500,000
+$         
+Gas Business Systems Maintenance of Business Projects
+Gas Operations
+5651
+-
+$
+ 
+-
+$
+ 
+1,550,000
+$          
+-
+$
+ 
+1,450,000
+$          
+-
+$
+ 
+1,350,000
+$          
+-
+$
+ 
+Identity and Access Management Business
+Identity & Access Manageme
+5278
+278,176
+$             
+-
+$
+ 
+-
+$
+ 
+-
+$
+ 
+-
+$
+ 
+-
+$
+ 
+-
+$
+ 
+-
+$
+ 
+US SAP: Business Warehouse (BW) Consolidation to HANA Enterprise Cloud (HEC)
+SAP
+4562
+84,000
+$              
+-
+$
+ 
+-
+$
+ 
+-
+$
+ 
+-
+$
+ 
+-
+$
+ 
+-
+$
+ 
+-
+$
+ 
+Vision FM Replacement
+Strategic Business Services
+3870
+274,000
+$             
+40,000
+$              
+-
+$
+ 
+46,000
+$           
+-
+$
+ 
+53,000
+$            
+-
+$
+ 
+61,000
+$              
+Property Management Systems Review
+Strategic Business Services
+3903
+49,000
+$              
+-
+$
+ 
+-
+$
+ 
+-
+$
+ 
+-
+$
+ 
+-
+$
+ 
+-
+$
+ 
+-
+$
+ 
+Decision Software Analytics Implementation
+Strategic Business Services
+5624
+-
+$
+ 
+-
+$
+ 
+1,000,000
+$          
+-
+$
+ 
+-
+$
+ 
+-
+$
+ 
+-
+$
+ 
+-
+$
+ 
+Revenue Cycle Mgmt. Non-CIS
+Strategic Business Services
+5625
+1,000,000
+$          
+-
+$
+ 
+-
+$
+ 
+-
+$
+ 
+-
+$
+ 
+-
+$
+ 
+-
+$
+ 
+-
+$
+ 
+Revenue Cycle Mgmt. Non-CIS
+Strategic Business Services
+5627
+-
+$
+ 
+-
+$
+ 
+1,000,000
+$          
+-
+$
+ 
+-
+$
+ 
+-
+$
+ 
+-
+$
+ 
+-
+$
+ 
+Revenue Cycle Mgmt. Non-CIS
+Strategic Business Services
+5628
+-
+$
+ 
+-
+$
+ 
+-
+$
+ 
+-
+$
+ 
+1,000,000
+$          
+-
+$
+ 
+-
+$
+ 
+-
+$
+ 
+Revenue Cycle Mgmt. Non-CIS
+Strategic Business Services
+5629
+-
+$
+ 
+-
+$
+ 
+-
+$
+ 
+-
+$
+ 
+-
+$
+ 
+-
+$
+ 
+1,000,000
+$          
+-
+$
+ 
+Supervisor Enablement iPads Roll-out
+Supervisor Enablement
+4811
+-
+$
+ 
+20,000
+$              
+-
+$
+ 
+250,000
+$         
+-
+$
+ 
+250,000
+$          
+-
+$
+ 
+250,000
+$            
+Supervisor Enablement iPad Advanced Capabilities
+Supervisor Enablement
+5384
+73,000
+$              
+86,000
+$              
+-
+$
+ 
+86,000
+$           
+-
+$
+ 
+86,000
+$            
+-
+$
+ 
+86,000
+$              
+Customer Contact Center Technology Upgrade
+Technology Modernization
+3932
+-
+$
+ 
+3,488,000
+$         
+-
+$
+ 
+3,488,000
+$      
+-
+$
+ 
+3,488,000
+$        
+-
+$
+ 
+3,488,000
+$         
+US WAN bandwidth upgrades
+Technology Modernization
+4267
+-
+$
+ 
+180,000
+$            
+-
+$
+ 
+180,000
+$         
+-
+$
+ 
+180,000
+$          
+-
+$
+ 
+180,000
+$            
+Document Management System Replacement Delivery
+Technology Modernization
+4408
+-
+$
+ 
+1,746,000
+$         
+-
+$
+ 
+1,746,000
+$      
+-
+$
+ 
+1,746,000
+$        
+-
+$
+ 
+1,746,000
+$         
+Active Directory Improvements
+Technology Modernization
+4489
+-
+$
+ 
+99,100
+$              
+-
+$
+ 
+99,100
+$           
+-
+$
+ 
+99,100
+$            
+-
+$
+ 
+99,100
+$              
+ICE Replacement
+Technology Modernization
+4491
+-
+$
+ 
+1,945,020
+$         
+-
+$
+ 
+1,945,020
+$      
+-
+$
+ 
+1,945,020
+$        
+-
+$
+ 
+1,945,020
+$         
+Virtual Desktop - DaaS
+Technology Modernization
+4727
+200,000
+$            
+200,000
+$         
+200,000
+$          
+200,000
+$            
+US Foundation Hosting Renewal
+Technology Modernization
+4761
+-
+$
+ 
+-
+$
+ 
+-
+$
+ 
+-
+$
+ 
+Data Visualization Evolution
+Technology Modernization
+4768
+-
+$
+ 
+1,013,000
+$         
+-
+$
+ 
+1,013,000
+$      
+-
+$
+ 
+1,013,000
+$        
+-
+$
+ 
+1,013,000
+$         
+SOE (Windows) Upgrade and Device Refresh
+Technology Modernization
+4987
+319,000
+$             
+150,000
+$            
+-
+$
+ 
+150,000
+$         
+-
+$
+ 
+150,000
+$          
+-
+$
+ 
+150,000
+$            
+Case & Customer Complaint Management Solution
+Technology Modernization
+5169
+-
+$
+ 
+-
+$
+ 
+350,000
+$             
+60,000
+$           
+150,000
+$             
+100,000
+$          
+-
+$
+ 
+100,000
+$            
+NerMod Governance
+Technology Modernization
+5310
+-
+$
+ 
+241,000
+$            
+-
+$
+ 
+241,000
+$         
+-
+$
+ 
+241,000
+$          
+-
+$
+ 
+241,000
+$            
+NetMod Infoblox
+Technology Modernization
+5311
+-
+$
+ 
+765,867
+$            
+-
+$
+ 
+765,867
+$         
+-
+$
+ 
+765,867
+$          
+-
+$
+ 
+765,867
+$            
+NetMod Ethernet/SD WAN Upgrade
+Technology Modernization
+5312
+-
+$
+ 
+2,062,476
+$         
+-
+$
+ 
+2,062,476
+$      
+-
+$
+ 
+2,062,476
+$        
+-
+$
+ 
+2,062,476
+$         
+NetMod Zscaler Cloud Security Gateway
+Technology Modernization
+5313
+-
+$
+ 
+1,514,100
+$         
+-
+$
+ 
+1,514,100
+$      
+-
+$
+ 
+1,514,100
+$        
+-
+$
+ 
+1,514,100
+$         
+NetMod eBond/NSSR/SVC Catalog
+Technology Modernization
+5314
+-
+$
+ 
+19,320
+$              
+-
+$
+ 
+19,320
+$           
+-
+$
+ 
+19,320
+$            
+-
+$
+ 
+19,320
+$              
+Gas Transportation System Phase 3 GTIS
+Technology Modernization
+5388
+-
+$
+ 
+-
+$
+ 
+394,333
+$             
+1,040,000
+$      
+790,833
+$             
+1,040,000
+$        
+3,418,654
+$          
+1,040,000
+$         
+GRC Archer  Risk and Migration
+Technology Modernization
+5472
+-
+$
+ 
+(76,524)
+$             
+-
+$
+ 
+(76,524)
+$          
+-
+$
+ 
+(76,524)
+$           
+-
+$
+ 
+(76,524)
+$             
+Collaboration & Unified Communications
+Technology Modernization
+5487
+529,000
+$             
+235,000
+$            
+540,000
+$             
+240,000
+$         
+551,000
+$             
+245,000
+$          
+562,000
+$             
+250,000
+$            
+Customer Experience
+Technology Modernization
+5488
+441,000
+$             
+51,000
+$              
+450,000
+$             
+52,000
+$           
+459,000
+$             
+53,000
+$            
+468,000
+$             
+54,000
+$              
+Emerging Technology
+Technology Modernization
+5489
+88,000
+$              
+-
+$
+ 
+90,000
+$              
+-
+$
+ 
+92,000
+$              
+-
+$
+ 
+94,000
+$              
+-
+$
+ 
+Modern Workplace
+Technology Modernization
+5490
+706,000
+$             
+245,000
+$            
+720,000
+$             
+250,000
+$         
+734,000
+$             
+255,000
+$          
+749,000
+$             
+260,000
+$            
+Enterprise Platforms
+Technology Modernization
+5505
+530,000
+$             
+-
+$
+ 
+541,000
+$             
+-
+$
+ 
+552,000
+$             
+-
+$
+ 
+563,000
+$             
+-
+$
+ 
+Integration Services
+Technology Modernization
+5506
+530,000
+$             
+125,000
+$            
+541,000
+$             
+128,000
+$         
+552,000
+$             
+131,000
+$          
+563,000
+$             
+134,000
+$            
+LAN Infrastructure Program
+Technology Modernization
+5521
+102,000
+$             
+46,000
+$              
+104,000
+$             
+47,000
+$           
+106,000
+$             
+48,000
+$            
+108,000
+$             
+49,000
+$              
+Network Security Infrastructure Program
+Technology Modernization
+5522
+316,000
+$             
+-
+$
+ 
+323,000
+$             
+-
+$
+ 
+329,000
+$             
+-
+$
+ 
+336,000
+$             
+-
+$
+ 
+Voice Infrastructure Program
+Technology Modernization
+5523
+102,000
+$             
+20,000
+$              
+104,000
+$             
+20,000
+$           
+106,000
+$             
+20,000
+$            
+108,000
+$             
+20,000
+$              
+WAN Infrastructure Program
+Technology Modernization
+5524
+316,000
+$             
+1,530,000
+$         
+323,000
+$             
+1,560,000
+$      
+329,000
+$             
+1,590,000
+$        
+336,000
+$             
+1,620,000
+$         
+Wireless Infrastructure Program
+Technology Modernization
+5525
+214,000
+$             
+81,000
+$              
+218,000
+$             
+83,000
+$           
+223,000
+$             
+85,000
+$            
+227,000
+$             
+87,000
+$              
+Infrastructure Remediation and Lifecycle refresh
+Technology Modernization
+5540
+2,703,000
+$          
+1,224,000
+$         
+2,757,000
+$          
+1,248,000
+$      
+2,812,000
+$          
+1,272,000
+$        
+2,868,000
+$          
+1,296,000
+$         
+Infrastructure New Capability
+Technology Modernization
+5541
+459,000
+$             
+51,000
+$              
+468,000
+$             
+52,000
+$           
+478,000
+$             
+53,000
+$            
+487,000
+$             
+54,000
+$              
+Hosting RFP Build & Market Release 
+Technology Modernization
+5579
+1,530,000
+$          
+-
+$
+ 
+1,561,000
+$          
+-
+$
+ 
+1,592,000
+$          
+-
+$
+ 
+1,624,000
+$          
+-
+$
+ 
+Managed Workspace Services Transition & Tx
+Technology Modernization
+5580
+1,020,000
+$          
+-
+$
+ 
+1,040,000
+$          
+-
+$
+ 
+1,061,000
+$          
+-
+$
+ 
+1,082,000
+$          
+-
+$
+ 
+DXC Hosting Tx Initiatives
+Technology Modernization
+5581
+1,530,000
+$          
+-
+$
+ 
+1,561,000
+$          
+-
+$
+ 
+1,592,000
+$          
+-
+$
+ 
+1,624,000
+$          
+-
+$
+ 
+Application Rationalization 
+Technology Modernization
+5598
+3,010,000
+$          
+-
+$
+ 
+2,888,000
+$          
+-
+$
+ 
+3,183,000
+$          
+-
+$
+ 
+3,247,000
+$          
+-
+$
+ 
+$33,375,726
+$28,543,051
+$37,776,074
+$33,183,816
+$36,378,253
+$38,017,997
+$36,488,405
+$41,096,205
+Total Investment Plan Project Opex/RTB
+$61,918,777
+$70,959,890
+$74,396,250
+$77,584,610
+Customer Information Systems Replacement - KEDNY's Allocated Project Opex 
+CIS
+5503
+10,526,189
+$        
+-
+$
+ 
+12,848,184
+$        
+-
+$
+ 
+16,403,052
+$        
+-
+$
+ 
+1,141,961
+$          
+-
+$
+ 
+Customer Information Systems Replacement - KEDLI's Allocated Project Opex
+CIS
+5503
+4,884,644
+$          
+-
+$
+ 
+5,962,159
+$          
+-
+$
+ 
+7,611,784
+$          
+-
+$
+ 
+529,923
+$             
+-
+$
+ 
+Customer Information Systems Replacement - KEDNY's Allocated RTB
+CIS
+5503
+-
+$
+ 
+-
+$
+ 
+-
+$
+ 
+-
+$
+ 
+-
+$
+ 
+730,395
+$          
+-
+$
+ 
+1,637,202
+$         
+Customer Information Systems Replacement - KEDLI's Allocated RTB
+CIS
+5503
+-
+$
+ 
+-
+$
+ 
+-
+$
+ 
+-
+$
+ 
+-
+$
+ 
+338,938
+$          
+-
+$
+ 
+759,866
+$            
+Total Customer Information System Replacement (CIS) Opex/RTB
+15,410,833
+$        
+-
+$
+ 
+18,810,343
+$        
+-
+$
+ 
+24,014,836
+$        
+1,069,333
+$        
+1,671,884
+$          
+2,397,068
+$         
+SAP: S4 Hana (Design Phase)
+SAP
+5646
+30,556,767
+$        
+-
+$
+14,434,283
+$        
+-
+$
+15,683,514
+$        
+-
+$
+ 
+6,192,455
+$          
+-
+$
+ 
+Total Investment Plan Project Opex/RTB
+30,556,767
+$        
+-
+$
+ 
+14,434,283
+$        
+-
+$
+ 
+15,683,514
+$        
+-
+$
+ 
+6,192,455
+$          
+-
+$
+ 
+
+
+--- Page 23 ---
+Corrections and Updates Testimony of Information Technology Panel 
+  
+ 
+ 
+ 
+ 
+ 
+ 
+ 
+ 
+ 
+ 
+ 
+Exhibit ___ (ITP-8CU) 
+ 
+IT Total and Incremental Operating Expenses 
+ 
+ 
+ 
+ 
+ 
+ 
+ 
+ 
+ 
+ 
+ 
+ 
+ 
+ 
+ 
+ 
+ 
+ 
+ 
+ 
+ 
+ 
+ 
+ 
+ 
+ 
+ 
+ 
+ 
+ 
+ 
+ 
+ 
+
+
+--- Page 24 ---
+Exhibit__(ITP-8CU) 
+Page 1 of 2
+Operational Cost 
+CY18 (HTY)
+FY21
+Rate Year
+FY22
+Data Year 1
+FY23
+Data Year 2
+FY24
+Data Year 3
+Commercial Supplier Management
+21.0 
+22.1 
+22.5 
+23.0 
+23.4 
+Cyber Security
+9.5 
+10.0 
+10.2 
+10.4 
+10.6 
+Physical Security
+11.6 
+12.2 
+12.4 
+12.7 
+12.9 
+Group Functions
+1.6 
+1.7 
+1.7 
+1.8 
+1.8 
+Infrastructure & Operations
+              125.6 
+110.8              113.1               115.3              117.5 
+Enterprise Projects (GBE RTB)  (1)
+0.4 
+-                      -   
+-                      -   
+Administration
+23.1 
+24.2 
+24.7 
+25.2 
+25.6 
+Burdens
+20.4 
+21.3 
+21.8 
+22.2 
+22.6 
+Subtotal Operational Cost
+$213.3 
+$202.3 
+$206.4 
+$210.5 
+$214.6 
+Investment Plan Project Opex/RTB (2)
+28.4
+ 
+61.9
+ 
+71.0
+ 
+74.4
+ 
+77.6
+ 
+Customer Information System Replacement (CIS) Opex/RTB
+- 
+15.4
+ 
+18.8
+ 
+24.0
+ 
+1.7
+ 
+SAP S4 Hana (Design Phase)
+- 
+30.6
+ 
+14.4
+ 
+15.7
+ 
+6.2
+ 
+Burdens
+2.1
+ 
+2.5
+ 
+2.9
+ 
+2.7
+ 
+2.8
+ 
+Investment Plan Inflation
+6.0
+ 
+2.0
+ 
+2.0
+ 
+2.0
+ 
+Investment Plan
+$30.6
+$116.4
+$109.0
+$118.8
+$90.2
+CTA (IT Transformation)
+$0.3
+$0.0
+$0.0
+$0.0
+$0.0
+Total IT Opex
+$244.2
+$318.7
+$315.5
+$329.4
+$304.8
+(1) Run the business (RTB) costs associated Gas Business Enablement (GBE) is included in GBE Testimony
+(2) Project Details for Investment Plan Project Opex/RTB are found in IT Panel Testimony on Exhibit_ITP‐7
+KeySpan Gas East Corporation d/b/a National Grid, The Brooklyn Union Gas Company d/b/a National Grid NY
+ITP-8 Information Technology (IT) Total and Incremental Operating Expenses ($Millions)
+Total IT Operating Expenses
+Exhibit __ (ITP-8CU) 
+              Page 1 of 2
+
+
+--- Page 25 ---
+Exhibit__(ITP-8)
+Page 2 of 2
+CY18 (HTY)
+FY21
+Rate Year
+FY22
+Data Year 1
+FY23
+Data Year 2
+FY24
+Data Year 3
+General Inflation Rates
+4.87%
+2.04%
+1.99%
+1.92%
+Total IT Opex in CY18 (HTY)
+$244.2
+Incremental Inflation 
+$11.9
+$5.2
+$5.2
+$5.1
+CY18 (HTY) Opex Adjusted for inflation (Already embedded in RR)
+$256.1
+$261.3
+$266.5
+$271.6
+Forecasted Spend (Less CIS Project)
+$303.3
+$296.7
+$305.4
+$303.1
+CIS Project
+$15.4
+$18.8
+$24.0
+$1.7
+Total IT Opex
+$318.7
+$315.5
+$329.4
+$304.8
+Incremental Forecasted Spend (Less CIS Project)
+$47.2
+$35.4
+$38.9
+$31.5
+Incremental Spend for CIS Project
+$15.4
+$18.8
+$24.0
+$1.7
+Total Incremental IT Opex
+$62.6
+$54.2
+$62.9
+$33.2
+Allocation %
+G012 Allocator - KEDNY share of IT OPEX (Excluding CIS Project)
+13.31%
+$6.3
+$4.7
+$5.2
+$4.2
+G012 Allocator - KEDLI Share of IT OPEX (Excluding CIS Project)
+8.29%
+$3.9
+$2.9
+$3.2
+$2.6
+KEDNY share of CIS Project - Opex
+$10.5
+$12.8
+$16.4
+$1.1
+KEDLI Share of CIS Project - Opex
+$4.9
+$6.0
+$7.6
+$0.5
+KEDNY share of CIS RTB
+$0.0
+$0.0
+$0.7
+$1.6
+KEDLI Share of CIS RTB
+$0.0
+$0.0
+$0.3
+$0.8
+Incremental IT Opex Allocated to The Brooklyn Union Gas Company (KEDNY)
+$16.8
+$17.6
+$22.3
+$7.0
+Incremental IT Opex Allocated to KeySpan Gas Corporation (KEDLI)
+$8.8
+$8.9
+$11.2
+$3.9
+Incremental IT Opex Allocated to other operating companies
+$37.0
+$27.7
+$29.4
+$22.3
+$62.6
+$54.2
+$62.9
+$33.2
+ITP-8 Information Technology (IT) Total and Incremental Operating Expenses ($Millions)
+Incremental IT Operating Expenses (HTY Adjusted for Inflation)
+Allocation of Incremental IT Opex 
+KeySpan Gas East Corporation d/b/a National Grid, The Brooklyn Union Gas Company d/b/a National Grid NY
+Exhibit __ (ITP-8CU) 
+              Page 2 of 2

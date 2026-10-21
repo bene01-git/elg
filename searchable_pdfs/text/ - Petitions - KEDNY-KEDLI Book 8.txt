@@ -1,0 +1,15736 @@
+--- Page 1 ---
+ 
+ 
+PROCEEDING ON MOTION OF THE 
+COMMISSION AS TO THE RATES, 
+CHARGES, RULES AND 
+REGULATIONS OF THE BROOKLYN 
+UNION GAS COMPANY FOR GAS 
+SERVICE 
+ 
+PROCEEDING ON MOTION OF THE 
+COMMISSION AS TO THE RATES, 
+CHARGES, RULES AND 
+REGULATIONS OF KEYSPAN GAS 
+EAST CORPORATION FOR GAS 
+SERVICE 
+ 
+ 
+ 
+Testimony and Exhibits of: 
+ 
+Theodore Poe, Jr. 
+ 
+Book 8  
+Exhibits__(TEP-10A) – (TEP-14B) 
+ 
+January 29, 2016 
+ 
+Submitted to: 
+New York State Public Service Commission 
+Case 16-G-____ 
+Case 16-G-____ 
+ 
+ 
+Submitted by: 
+The Brooklyn Union Gas Company and 
+KeySpan Gas East Corporation  
+ 
+ 
+
+
+--- Page 2 ---
+Exhibit__ (TEP-10A) 
+ 
+ 
+ 
+ 
+ 
+ 
+ 
+ 
+ 
+ 
+ 
+ 
+ 
+ 
+ 
+ 
+ 
+ 
+ 
+ 
+ 
+ 
+ 
+ 
+ 
+ 
+ 
+ 
+ 
+ 
+ 
+ 
+ 
+ 
+ 
+ 
+
+
+--- Page 3 ---
+Testimony of Theodore Poe, Jr. 
+ 
+ 
+ 
+ 
+ 
+ 
+ 
+ 
+ 
+ 
+ 
+Exhibit __ (TEP-10A) 
+ 
+Delivery Forecast Model Specifications – KEDNY – Meter Count 
+1
+
+
+--- Page 4 ---
+ 
+ 
+ 
+ 
+ 
+ 
+Delivery Forecast Model Specifications 
+KEDNY 
+Meter Count 
+ 
+ 
+Exhibit__(TEP-10A) 
+Page 1 of 41
+2
+
+
+--- Page 5 ---
+SC 1A Resi Non Heat Sales 
+Rate Class: 
+SC 1A Resi Non Heat Sales 
+Rate Code: 
+1A 
+Description: 
+RESIDENTIAL NON-HEATING 
+Model: 
+Meter Count 
+Equation: 
+753017.60 
++ 
+-62569.94 
+* 
+log ( time +  
+-5.91 
+) 
+R2 
+0.98998 
+F 
+2.32694e+07 
+ 
+SC 1AR Reduced Rate Resi Non Heat Sales 
+Rate Class: 
+SC 1AR Reduced Rate Resi Non Heat Sales 
+Rate Code: 
+1AR 
+Description
+: 
+RESIDENTIAL NON-HEATING (REDUCED RATE) 
+Model: 
+Meter Count 
+Equation: 
+29412.91 
++
+-2948.41 
+*
+log ( time +  
+-21.14 
+) 
+R2 
+0.979088 
+F 
+393751 
+ 
+SC 1B Resi Heat Sales 
+Rate Class: 
+SC 1B Resi Heat Sales 
+Rate Code: 
+1B 
+Description: 
+RESIDENTIAL HEATING 
+Model: 
+Meter Count 
+Equation: 
+0*x+428354 
+  
+  
+  
+  
+RV 
+120545000 
+ 
+ 
+ 
+Exhibit__(TEP-10A) 
+Page 2 of 41
+3
+
+
+--- Page 6 ---
+ 
+SC 1BR Resi Heat Reduced Rate Sales 
+Rate Class: 
+SC 1BR Resi Heat Reduced Rate Sales 
+Rate Code: 
+1BR 
+Description: 
+RESIDENTIAL HEATING (REDUCED RATE) 
+Model: 
+Meter Count 
+Equation: 
+4800.55 
++ 
+4757.00 
+* 
+log ( time +  
+24.21 
+) 
+R2 
+0.791389 
+F 
+1.92579e+06 
+ 
+SC 1B-DG Resi Dist Gen Sales 
+Rate Class: 
+SC 1B-DG Resi Dist Gen Sales 
+Rate Code: 
+1BRDG 
+Description: 
+RESIDENTIAL HEATING (DISTRIBUTED GENERATION) 
+Model: 
+Meter Count 
+Equation: 
+0*x+2 
+    
+  
+  
+RV 
+1.29907 
+ 
+SC 2-1 Non Resi Non Heat Sales 
+Rate Class: 
+SC 2-1 Non Resi Non Heat Sales 
+Rate Code: 
+2-1R 
+Description: 
+GENERAL NON-HEATING (FORMERLY RATE 1) 
+Model: 
+Meter Count 
+Equation: 
+869.0089 
++ 
+1.4122 
+* 
+time 
+R2 
+0.137455 
+RV 
+17015.3 
+ 
+ 
+ 
+Exhibit__(TEP-10A) 
+Page 3 of 41
+4
+
+
+--- Page 7 ---
+ 
+Rate Class: 
+SC 2-1 Non Resi Non Heat Sales 
+Rate Code: 
+N025 
+Description: S C 20 WITH ECONOMIC INCENTIVE DISCOUNT (w/  NH associated 2-1 & 2-2) 
+Model: 
+Meter Count 
+Equation: 
+6-3/(1+exp(-0.888889*(t-65.75))) 
+  
+  
+R2 
+0.691388 
+RV 
+1.43593 
+ 
+Rate Class: 
+SC 2-1 Non Resi Non Heat Sales 
+Rate Code: 
+2-1 
+Description: 
+GENERAL NON-HEATING 
+Model: 
+Meter Count 
+Equation: 
+b1 + b2/(1 + exp( - b3*(x1 - b4))) 
+  
+b1 
+10426.5576 
+b2 
+-3154.243 
+b3 
+0.11119 
+b4 
+56.2116 
+x1 
+time 
+R2 
+0.970635 
+F 
+87925.1 
+ 
+SC 2-2 Non Resi Heat Sales 
+Rate Class: 
+SC 2-2 Non Resi Heat Sales 
+Rate Code: 
+2-2 
+Description: 
+GENERAL HEATING 
+Model: 
+Meter Count 
+Equation: 
+19950.46 
++ 
+1021.65 
+* 
+log ( time +  
+0.44 
+) 
+R2 
+0.943067 
+F 
+183701 
+Exhibit__(TEP-10A) 
+Page 4 of 41
+5
+
+
+--- Page 8 ---
+ 
+Rate Class: 
+SC 2-2 Non Resi Heat Sales 
+Rate Code: 
+H025 
+Description: 
+S C 20 WITH ECONOMIC INCENTIVE DISCOUNT (w/ H associated 2-1 & 2-2) 
+Model: 
+Meter Count 
+Equation: 
+b1 + b2/(1 + exp( - b3*(x1 - b4))) 
+  
+b1 
+162.9018 
+b2 
+-154.2489 
+b3 
+0.073136 
+b4 
+-0.23519 
+x1 
+time 
+R2 
+0.992851 
+F 
+2.94593 
+ 
+Rate Class: 
+SC 2-2 Non Resi Heat Sales 
+Rate Code: 
+2-2R 
+Description: 
+GENERAL HEATING (AREA DEVELOPMENT RATE) 
+Model: 
+Meter Count 
+Equation: 
+b1 + b2/(1 + exp( - b3*(x1 - b4))) 
+  
+b1 
+223.5268 
+b2 
+-211.0376 
+b3 
+0.036642 
+b4 
+117.5434 
+x1 
+time 
+R2 
+0.93376 
+F 
+134.509 
+ 
+ 
+ 
+Exhibit__(TEP-10A) 
+Page 5 of 41
+6
+
+
+--- Page 9 ---
+ 
+SC 3 Multi Family Sales 
+Rate Class: 
+SC 3 Multi Family Sales 
+Rate Code: 
+H030 
+Description
+: 
+MULTI-FAMILY (6+ FAM) SPACE AND/OR WATER HEATING - Heat Portion 
+Model: 
+Meter Count 
+Equation: 
+8990.67+1075.33/(1+exp(-0.183509*(t-23.3514))) 
+R2 
+0.0310295 
+RV 
+505191 
+ 
+Rate Class: 
+SC 3 Multi Family Sales 
+Rate Code: 
+N030 
+Description: 
+MULTI-FAMILY (6+ FAM) SPACE AND/OR WATER HEATING - NonHeat Portion 
+Model: 
+Meter Count 
+Equation: 
+b1 +- 459/(1 + exp( - b2*(x1 - b3))) 
+x1 
+time 
+b1 
+996.81 
+b2 
+0.02 
+b3 
+26.08 
+R2 
+0.969699 
+F 
+91.8214 
+ 
+ 
+ 
+Exhibit__(TEP-10A) 
+Page 6 of 41
+7
+
+
+--- Page 10 ---
+ 
+SC 4A High Load Factor Sales 
+Rate Class: 
+SC 4A High Load Factor Sales 
+Rate Code: 
+4A 
+Description: 
+HIGH LOAD FACTOR (COGENERATION) 
+Model: 
+Meter Count 
+Equation: 
+46.2992 
++ 
+0.027043 
+* 
+time 
+R2 
+0.0842928 
+RV 
+11.1436 
+ 
+SC 4A-CNG Wholesale NGV Sales 
+Rate Class: 
+SC 4A-CNG Wholesale NGV Sales 
+Rate Code: 
+4ACNG 
+Description: 
+COMPRESSED NATURAL GAS 
+Model: 
+Meter Count 
+Equation: 
+0+6/(1+exp(-1.55556*(t-14.1429))) 
+  
+  
+R2 
+0.382701 
+RV 
+4.56905 
+ 
+SC 4B Yr Round Space Conditioning Sales 
+Rate Class: 
+SC 4B Yr Round Space Conditioning Sales 
+Rate Code: 
+4B 
+Description: 
+YEAR-ROUND AIR CONDITIONING (NON RESIDENTIAL) 
+Model: 
+Meter Count 
+Equation: 
+67-30/(1+exp(-0.177778*(t-65))) 
+  
+  
+R2 
+0.932731 
+RV 
+16.6228 
+ 
+ 
+ 
+Exhibit__(TEP-10A) 
+Page 7 of 41
+8
+
+
+--- Page 11 ---
+ 
+SC 6C TC Comm / Ind Sales 
+Rate Class: 
+SC 6C TC Comm / Ind Sales 
+Rate Code: 
+6C-1 
+Description: 
+TC COMMERCIAL RS 
+6C-1 
+Model: 
+Meter Count 
+Equation: 
+124.3601 
++ 
+-0.542650 
+* 
+time 
+R2 
+0.969873 
+RV 
+15.4566 
+ 
+Rate Class: 
+SC 6C TC Comm / Ind Sales 
+Rate Code: 
+6C-2 
+Description: 
+TC COMMERCIAL RS 2 
+Model: 
+Meter Count 
+Equation: 
+b1 + b2/(1 + exp( - b3*(x1 - b4))) 
+  
+b1 
+107.1971 
+b2 
+-81.8423 
+b3 
+0.069188 
+b4 
+49.0067 
+x1 
+time 
+R2 
+0.995507 
+F 
+5.93033 
+ 
+ 
+ 
+Exhibit__(TEP-10A) 
+Page 8 of 41
+9
+
+
+--- Page 12 ---
+ 
+Rate Class: 
+SC 6C TC Comm / Ind Sales 
+Rate Code: 
+6CT-1 
+Description: 
+TC COMMERCIAL RS 1 (NO PBT) 
+Model: 
+Meter Count 
+Equation: 
+b1 + b2/(1 + exp( - b3*(x1 - b4))) 
+  
+b1 
+58.8198 
+b2 
+-30.188 
+b3 
+0.051219 
+b4 
+63.0047 
+x1 
+time 
+R2 
+0.988659 
+F 
+1.83723 
+ 
+Rate Class: 
+SC 6C TC Comm / Ind Sales 
+Rate Code: 
+6CT-2 
+Description: 
+TC COMMERCIAL RS 2 (NO PBT) 
+Model: 
+Meter Count 
+Equation: 
+b1 + b2/(1 + exp( - b3*(x1 - b4))) 
+  
+b1 
+58.9593 
+b2 
+-42.0917 
+b3 
+0.063971 
+b4 
+66.2567 
+x1 
+time 
+R2 
+0.990631 
+F 
+2.80561 
+ 
+ 
+ 
+Exhibit__(TEP-10A) 
+Page 9 of 41
+10
+
+
+--- Page 13 ---
+ 
+SC 6G TC Governmental Sales 
+Rate Class: 
+SC 6G TC Governmental Sales 
+Rate Code: 
+Kingsboro 
+Description: 
+TC GOVERNMENT RS 3 (KINGSBORO PSYCHIATRIC CENTER) 
+Model: 
+Meter Count 
+Equation: 
+0*x+1 
+    
+  
+  
+RV 
+0 
+ 
+Rate Class: 
+SC 6G TC Governmental Sales 
+Rate Code: 
+NYSGS 
+Description: 
+TC GOVERNMENT RS 3 (NYS GENERAL SERVICES) 
+Model: 
+Meter Count 
+Equation: 
+0*x+13 
+   
+  
+  
+RV 
+0.925234 
+ 
+Rate Class: 
+SC 6G TC Governmental Sales 
+Rate Code: 
+NYCDGS 
+Description: 
+TC GOVERNMENT RS 3 (NYC DGS) 
+Model: 
+Meter Count 
+Equation: 
+0*x+4 
+   
+  
+  
+RV 
+0 
+ 
+ 
+ 
+Exhibit__(TEP-10A) 
+Page 10 of 41
+11
+
+
+--- Page 14 ---
+ 
+Rate Class: 
+SC 6G TC Governmental Sales 
+Rate Code: 
+6G-2 
+Description: 
+TC GOVERNMENT RS 2 
+Model: 
+Meter Count 
+Equation: 
+205.333-18.3333/(1+exp(-0.290909*(t-118.625))) 
+R2 
+0.857235 
+RV 
+11.7937 
+ 
+Rate Class: 
+SC 6G TC Governmental Sales 
+Rate Code: 
+6G-1 
+Description: 
+TC GOVERNMENT RS 1 
+Model: 
+Meter Count 
+Equation: 
+b1 + b2/(1 + exp( - b3*(x1 - b4))) 
+  
+b1 
+194.1013 
+b2 
+-24.5606 
+b3 
+0.036597 
+b4 
+94.8608 
+x1 
+time 
+R2 
+0.934947 
+F 
+2.3774 
+ 
+SC 6M TC Multi-Family Sales 
+Rate Class: 
+SC 6M TC Multi-Family Sales 
+Rate Code: 
+TRPb 
+Description: 
+TC MULTI-FAMILY RS 3 (TRUMP B) 
+Model: 
+Meter Count 
+Equation: 
+0*x+0 
+    
+  
+  
+RV 
+1.32061 
+Exhibit__(TEP-10A) 
+Page 11 of 41
+12
+
+
+--- Page 15 ---
+ 
+Rate Class: 
+SC 6M TC Multi-Family Sales 
+Rate Code: 
+TRPa 
+Description: 
+TC MULTI-FAMILY RS 3 (TRUMP A) 
+Model: 
+Meter Count 
+Equation: 
+0*x+4 
+    
+  
+  
+RV 
+1 
+ 
+Rate Class: 
+SC 6M TC Multi-Family Sales 
+Rate Code: 
+6M-1 
+Description: 
+TC MULTI-FAMILY RS 
+1 
+Model: 
+Meter Count 
+Equation: 
+542.7191 
++ 
+0.209660 
+* 
+time 
+R2 
+0.174615 
+RV 
+368.536 
+ 
+Rate Class: 
+SC 6M TC Multi-Family Sales 
+Rate Code: 
+LFKa 
+Description: 
+TC MULTI-FAMILY RS 3 (LEFRAK A) 
+Model: 
+Meter Count 
+Equation: 
+0*x+0 
+    
+  
+  
+RV 
+1.35514 
+ 
+ 
+ 
+Exhibit__(TEP-10A) 
+Page 12 of 41
+13
+
+
+--- Page 16 ---
+ 
+Rate Class: 
+SC 6M TC Multi-Family Sales 
+Rate Code: 
+LFKb 
+Description: 
+TC MULTI-FAMILY RS 3 (LEFRAK B) 
+Model: 
+Meter Count 
+Equation: 
+0*x+0 
+    
+  
+  
+RV 
+15.4766 
+ 
+Rate Class: 
+SC 6M TC Multi-Family Sales 
+Rate Code: 
+6M-2 
+Description: 
+TC MULTI-FAMILY RS 2 
+Model: 
+Meter Count 
+Equation: 
+1724.33-330.333/(1+exp(-0.185671*(t-65.4891))) 
+R2 
+0.960881 
+RV 
+2594.98 
+ 
+Rate Class: 
+SC 6M TC Multi-Family Sales 
+Rate Code: 
+6M-3 
+Description: 
+TC MULTI-FAMILY RS 3 
+Model: 
+Meter Count 
+Equation: 
+516-167/(1+exp(-0.0638723*(t-66.1875))) 
+  
+R2 
+0.972582 
+RV 
+109.919 
+ 
+ 
+ 
+Exhibit__(TEP-10A) 
+Page 13 of 41
+14
+
+
+--- Page 17 ---
+ 
+Rate Class: 
+SC 6M TC Multi-Family Sales 
+Rate Code: 
+6M-4 
+Description: 
+TC MULTI-FAMILY RS 4 
+Model: 
+Meter Count 
+Equation: 
+53-25/(1+exp(-0.0533333*(t-73.5))) 
+  
+  
+R2 
+0.936202 
+RV 
+6.45963 
+ 
+SC 7 Seasonal Off-Peak Sales 
+Rate Class: 
+SC 7 Seasonal Off-Peak Sales 
+Rate Code: 
+7 
+Description: 
+SEASONAL OFF PEAK 
+Model: 
+Meter Count 
+Equation: 
+b1 + b2/(1 + exp( - b3*(x1 - b4))) 
+  
+b1 
+1.5324 
+b2 
+-0.55374 
+b3 
+3908.1304 
+b4 
+-285345.7587 
+x1 
+time 
+R2 
+-2.21106e-10 
+F 
+1.66243 
+ 
+ 
+ 
+Exhibit__(TEP-10A) 
+Page 14 of 41
+15
+
+
+--- Page 18 ---
+ 
+SC 17-1A  Resi Non Heat Transport 
+Rate Class: 
+SC 17-1A  Resi Non Heat Transport 
+Rate Code: 
+T1A 
+Description: 
+TRANSPORTATION RESIDENTIAL NON-HEATING 
+Model: 
+Meter Count 
+Equation: 
+32313+76489/(1+exp(-0.108477*(t-58.2212))) 
+  
+R2 
+0.972022 
+RV 
+37460200 
+ 
+SC 17-1AR Resi Non Heat Reduced Rate Transp 
+Rate Class: 
+SC 17-1AR Resi Non Heat Reduced Rate Transp 
+Rate Code: 
+T1AR 
+Description: 
+TRANSPORTATION RESIDENTIAL NON-HEATING (REDUCED RATE) 
+Model: 
+Meter Count 
+Equation: 
+1122+4743/(1+exp(-0.202404*(t-52.6507))) 
+  
+R2 
+0.985459 
+RV 
+67877.5 
+ 
+SC 17-1B Resi Heat Transport 
+Rate Class: 
+SC 17-1B Resi Heat Transport 
+Rate Code: 
+T1B 
+Description: 
+TRANSPORTATION RESIDENTIAL HEATING 
+Model: 
+Meter Count 
+Equation: 
+56403+54486/(1+exp(-0.0576295*(t-70.1473))) 
+  
+R2 
+0.983988 
+RV 
+34334200 
+ 
+ 
+ 
+Exhibit__(TEP-10A) 
+Page 15 of 41
+16
+
+
+--- Page 19 ---
+ 
+SC 17-1BR Resi Heat Reduced Rate Transp 
+Rate Class: 
+SC 17-1BR Resi Heat Reduced Rate Transp 
+Rate Code: 
+T1BR 
+Description: 
+TRANSPORTATION RESIDENTIAL HEATING (REDUCED RATE) 
+Model: 
+Meter Count 
+Equation: 
+1740.67+9234.33/(1+exp(-0.105115*(t-70.785))) 
+R2 
+0.990572 
+RV 
+268647 
+ 
+SC 17-2-1 Non Resi Non Heat Transport 
+Rate Class: 
+SC 17-2-1 Non Resi Non Heat Transport 
+Rate Code: 
+N325 
+Description: S C 17 RATE 325 ECONOMIC INCENTIVE DISCOUNT(w/ NH associated 2-1 & 2-2) 
+Model: 
+Meter Count 
+Equation: 
+3.66667+9.33333/(1+exp(-0.571429*(t-58.75))) 
+  
+R2 
+0.925005 
+RV 
+8.34015 
+ 
+Rate Class: 
+SC 17-2-1 Non Resi Non Heat Transport 
+Rate Code: 
+T2-1R 
+Description
+: 
+TRANSPORTATION GENERAL NON-HEATING (AREA DEVELOPMENT RATE) 
+Model: 
+Meter Count 
+Equation: 
+36.3333+3.66667/(1+exp(-1.81818*(t-30.9))) 
+  
+R2 
+0.370953 
+RV 
+33.8619 
+ 
+ 
+ 
+Exhibit__(TEP-10A) 
+Page 16 of 41
+17
+
+
+--- Page 20 ---
+ 
+SC 17-2-2 Non Resi Heat Transport 
+Rate Class: 
+SC 17-2-2 Non Resi Heat Transport 
+Rate Code: 
+H325 
+Description: 
+S C 17 RATE 325 ECONOMIC INCENTIVE DISCOUNT(w/ H associated 2-1 & 2-2) 
+Model: 
+Meter Count 
+Equation: 
+14-7/(1+exp(-1.52381*(t-50.1875))) 
+  
+  
+R2 
+0.443963 
+RV 
+9.99265 
+ 
+Rate Class: 
+SC 17-2-2 Non Resi Heat Transport 
+Rate Code: 
+T2-2 
+Description: 
+TRANSPORTATION GENERAL HEATING 
+Model: 
+Meter Count 
+Equation: 
+4758.33+4350.67/(1+exp(-0.0848912*(t-72.4621))) 
+R2 
+0.995043 
+RV 
+16437.3 
+ 
+ 
+ 
+Exhibit__(TEP-10A) 
+Page 17 of 41
+18
+
+
+--- Page 21 ---
+ 
+Rate Class: 
+SC 17-2-2 Non Resi Heat Transport 
+Rate Code: 
+T2-2R 
+Description: 
+TRANSPORTATION GENERAL HEATING (AREA DEVELOPMENT RATE) 
+Model: 
+Meter Count 
+Equation: 
+b1 + b2/(1 + exp( - b3*(x1 - b4))) 
+  
+b1 
+64.9914 
+b2 
+47.9929 
+b3 
+0.15874 
+b4 
+67.6169 
+x1 
+time 
+R2 
+0.965519 
+F 
+48.277 
+ 
+SC 17-3 Multi Family Transport 
+Rate Class: 
+SC 17-3 Multi Family Transport 
+Rate Code: 
+N330 
+Description: 
+TRANSPORTATION MULTI-FAMILY (6+ FAM) SPACE AND/OR WATER HEATING - NonHeat 
+Portion 
+Model: 
+Meter Count 
+Equation: 
+122.4671 
++ 
+1.296600 
+* 
+time 
+R2 
+0.868884 
+RV 
+430.623 
+ 
+ 
+ 
+Exhibit__(TEP-10A) 
+Page 18 of 41
+19
+
+
+--- Page 22 ---
+ 
+Rate Class: 
+SC 17-3 Multi Family Transport 
+Rate Code: 
+H330 
+Description
+: 
+TRANSPORTATION MULTI-FAMILY (6+ FAM) SPACE AND/OR WATER HEATING - Heat 
+Portion 
+Model: 
+Meter Count 
+Equation: 
+1413.1273 
++ 
+37.889100 
+* 
+time 
+R2 
+0.909013 
+RV 
+206040 
+ 
+SC 17-4A High Load Factor Transport 
+Rate Class: 
+SC 17-4A High Load Factor Transport 
+Rate Code: 
+T4A 
+Description: 
+TRANSPORTATION HIGH LOAD FACTOR (COGENERATION) 
+Model: 
+Meter Count 
+Equation: 
+38.8288 
++ 
+0.076680 
+* 
+time 
+R2 
+0.289272 
+RV 
+24.9568 
+ 
+SC 17-4A-CNG Wholesale NGV Transport 
+Rate Class: 
+SC 17-4A-CNG Wholesale NGV Transport 
+Rate Code: 
+T4ACNG 
+Description: 
+TRANSPORTATION COMPRESSED NATURAL GAS 
+Model: 
+Meter Count 
+Equation: 
+1.7851 
++ 
+-0.012870 
+*
+time 
+R2 
+0.453208 
+RV 
+0.289613 
+ 
+ 
+Exhibit__(TEP-10A) 
+Page 19 of 41
+20
+
+
+--- Page 23 ---
+SC 17-4B Yr Round Space Conditioning Transport 
+Rate Class: 
+SC 17-4B Yr Round Space Conditioning Transport 
+Rate Code: 
+T4B 
+Description: 
+TRANSPORTATION YEAR-ROUND AIR CONDITIONING (NON RESIDENTIAL) 
+Model: 
+Meter Count 
+Equation: 
+0*x+31 
+  
+  
+  
+  
+RV 
+9.15888 
+ 
+SC 17-7 Seasonal Off-Peak Transport  
+Rate Class: 
+SC 17-7 Seasonal Off-Peak Transport  
+Rate Code: 
+T7 
+Description: 
+TRANSPORTATION SEASONAL OFF PEAK 
+Model: 
+Meter Count 
+Equation: 
+0*x+0 
+   
+  
+  
+RV 
+0.954198 
+ 
+SC 18-5A Non-Core Transport 
+ 
+SC 18 Small Electric Generator Transport 
+ 
+ 
+Exhibit__(TEP-10A) 
+Page 20 of 41
+21
+
+
+--- Page 24 ---
+ 
+SC 18-6C TC Comm / Ind Transport 
+Rate Class: 
+SC 18-6C TC Comm / Ind Transport 
+Rate Code: 
+T6C-1 
+Description: 
+TRANSPORTATION TC COMMERCIAL RS 1 
+Model: 
+Meter Count 
+Equation: 
+16.868 
++ 
+0.076434 
+* 
+FNMA 
+R2 
+0.611473 
+RV 
+4.55874 
+ 
+Rate Class: 
+SC 18-6C TC Comm / Ind Transport 
+Rate Code: 
+T6CT-1 
+Description: 
+TRANSPORTATION TC COMMERCIAL RS 1 (NO PBT) 
+Model: 
+Meter Count 
+Equation: 
+0+3/(1+exp(-1.77778*(t-64.375))) 
+  
+  
+R2 
+0.778161 
+RV 
+2.12689 
+ 
+Rate Class: 
+SC 18-6C TC Comm / Ind Transport 
+Rate Code: 
+T6CT-2 
+Description: 
+TRANSPORTATION TC COMMERCIAL RS 2 (NO PBT) 
+Model: 
+Meter Count 
+Equation: 
+4+6/(1+exp(-0.444444*(t-38.5))) 
+  
+  
+R2 
+0.881769 
+RV 
+6.53313 
+ 
+ 
+ 
+Exhibit__(TEP-10A) 
+Page 21 of 41
+22
+
+
+--- Page 25 ---
+ 
+Rate Class: 
+SC 18-6C TC Comm / Ind Transport 
+Rate Code: 
+T6C-2 
+Description: 
+TRANSPORTATION TC COMMERCIAL RS 2 
+Model: 
+Meter Count 
+Equation: 
+6+7/(1+exp(-0.190476*(t-38.5))) 
+  
+  
+R2 
+0.854933 
+RV 
+4.44377 
+ 
+SC 18-6G TC Governmental Transport 
+Rate Class: 
+SC 18-6G TC Governmental Transport 
+Rate Code: 
+T6G-1 
+Description: 
+TRANSPORTATION TC GOVERNMENT RS 1 
+Model: 
+Meter Count 
+Equation: 
+0*x+1 
+     
+  
+RV 
+0.53271 
+ 
+Rate Class: 
+SC 18-6G TC Governmental Transport 
+Rate Code: 
+T6G-2 
+Description: 
+TRANSPORTATION TC GOVERNMENT RS 2 
+Model: 
+Meter Count 
+Equation: 
+0*x+4 
+     
+  
+RV 
+5.96947 
+ 
+ 
+ 
+Exhibit__(TEP-10A) 
+Page 22 of 41
+23
+
+
+--- Page 26 ---
+ 
+SC 18-6M TC Multi-Family Transport 
+Rate Class: 
+SC 18-6M TC Multi-Family Transport 
+Rate Code: 
+T6M-1 
+Description: 
+TRANSPORTATION TC MULTI-FAMILY RS 1 
+Model: 
+Meter Count 
+Equation: 
+32.6589 
++ 
+0.106180 
+* 
+time 
+R2 
+0.428387 
+RV 
+28.3797 
+ 
+Rate Class: 
+SC 18-6M TC Multi-Family Transport 
+Rate Code: 
+T6M-4 
+Description: 
+TRANSPORTATION TC MULTI-FAMILY RS 4 
+Model: 
+Meter Count 
+Equation: 
+7+3/(1+exp(-0.888889*(t-30.75))) 
+  
+  
+R2 
+0.268531 
+RV 
+7.90029 
+ 
+Rate Class: 
+SC 18-6M TC Multi-Family Transport 
+Rate Code: 
+T6M-2 
+Description: 
+TRANSPORTATION TC MULTI-FAMILY RS 2 
+Model: 
+Meter Count 
+Equation: 
+81+42/(1+exp(-1.5873*(t-34.8))) 
+  
+  
+R2 
+0.638803 
+RV 
+1177.32 
+ 
+ 
+ 
+Exhibit__(TEP-10A) 
+Page 23 of 41
+24
+
+
+--- Page 27 ---
+ 
+Rate Class: 
+SC 18-6M TC Multi-Family Transport 
+Rate Code: 
+T6M-3 
+Description: 
+TRANSPORTATION TC MULTI-FAMILY RS 3 
+Model: 
+Meter Count 
+Equation: 
+84+9/(1+exp(-1.33333*(t-37.1667))) 
+  
+  
+R2 
+0.449116 
+RV 
+234.815 
+ 
+SC 20 Large Electric Generator Transport 
+ 
+ 
+Exhibit__(TEP-10A) 
+Page 24 of 41
+25
+
+
+--- Page 28 ---
+ 
+Metamodels 
+ 
+Rate Class: 
+#N/A 
+Rate Code: 
+C & I NGV 
+Description: 
+#N/A 
+Model: 
+Meter Count 
+Equation: 
+0*x+104 
+  
+  
+  
+  
+RV 
+145.421 
+ 
+Rate Class: 
+#N/A 
+Rate Code: 
+High Load Factor 
+Description: 
+#N/A 
+Model: 
+Meter Count 
+Equation: 
+0*x+14095--time 
+  
+  
+  
+RV 
+500544 
+ 
+Rate Class: 
+#N/A 
+Rate Code: 
+Res DG Sales 
+Description: 
+#N/A 
+Model: 
+Meter Count 
+Equation: 
+0*x+2 
+  
+  
+  
+  
+RV 
+1.29907 
+ 
+Rate Class: 
+#N/A 
+Rate Code: 
+Res Distributed Generation 
+Exhibit__(TEP-10A) 
+Page 25 of 41
+26
+
+
+--- Page 29 ---
+Description: 
+#N/A 
+Model: 
+Meter Count 
+Equation: 
+0*x+2 
+  
+  
+  
+  
+RV 
+1.29907 
+ 
+Rate Class: 
+#N/A 
+Rate Code: 
+TC Multi Family 
+Description: 
+#N/A 
+Model: 
+Meter Count 
+Equation: 
+0*x+2615 
+  
+  
+  
+  
+RV 
+101742 
+ 
+Rate Class: 
+#N/A 
+Rate Code: 
+Res Heat Sales 
+Description: 
+#N/A 
+Model: 
+Meter Count 
+Equation: 
+0*x+456977 
+  
+  
+  
+  
+RV 
+100889000 
+ 
+Rate Class: 
+#N/A 
+Rate Code: 
+C & I NGV Trans 
+Description: 
+#N/A 
+Model: 
+Meter Count 
+Equation: 
+0*x+48 
+  
+  
+  
+  
+Exhibit__(TEP-10A) 
+Page 26 of 41
+27
+
+
+--- Page 30 ---
+RV 
+48.3551 
+ 
+Rate Class: 
+#N/A 
+Rate Code: 
+TC Govt Trans 
+Description: 
+#N/A 
+Model: 
+Meter Count 
+Equation: 
+0*x+5 
+  
+  
+  
+  
+RV 
+9.03053 
+ 
+Rate Class: 
+#N/A 
+Rate Code: 
+C & I NGV Sales 
+Description: 
+#N/A 
+Model: 
+Meter Count 
+Equation: 
+0*x+56 
+  
+  
+  
+  
+RV 
+89.7383 
+ 
+Rate Class: 
+#N/A 
+Rate Code: 
+Multi Family Heating 
+Description: 
+#N/A 
+Model: 
+Meter Count 
+Equation: 
+10101.0708 
++ 
+47.542000 
+* 
+time 
+R2 
+0.992848 
+RV 
+21030 
+ 
+Rate Class: 
+#N/A 
+Rate Code: 
+Multi Family 
+Description: 
+#N/A 
+Model: 
+Meter Count 
+Exhibit__(TEP-10A) 
+Page 27 of 41
+28
+
+
+--- Page 31 ---
+Equation: 
+10956.8521 
++ 
+47.891200 
+* 
+time 
+R2 
+0.993104 
+RV 
+21345.7 
+ 
+Rate Class: 
+#N/A 
+Rate Code: 
+Residential 
+Description: 
+#N/A 
+Model: 
+Meter Count 
+Equation: 
+1110105.55 
++ 
+411.536100 
+* 
+time 
+R2 
+0.902701 
+RV 
+12546600 
+ 
+Rate Class: 
+#N/A 
+Rate Code: 
+Firm 
+Description: 
+#N/A 
+Model: 
+Meter Count 
+Equation: 
+1161988.67 
++ 
+518.025000 
+* 
+time 
+R2 
+0.945926 
+RV 
+11227400 
+ 
+Rate Class: 
+#N/A 
+Rate Code: 
+FIRM SENDOUT 
+Description: 
+#N/A 
+Model: 
+Meter Count 
+Equation: 
+1161988.67 
++ 
+518.025000 
+* 
+time 
+R2 
+0.945926 
+RV 
+11227400 
+ 
+Rate Class: 
+#N/A 
+Exhibit__(TEP-10A) 
+Page 28 of 41
+29
+
+
+--- Page 32 ---
+Rate Code: 
+All 
+Description: 
+#N/A 
+Model: 
+Meter Count 
+Equation: 
+1166002.01 
++ 
+512.524200 
+* 
+time 
+R2 
+0.945693 
+RV 
+10971400 
+ 
+Rate Class: 
+#N/A 
+Rate Code: 
+Multi Heat Trans 
+Description: 
+#N/A 
+Model: 
+Meter Count 
+Equation: 
+1413.1273 
++ 
+37.889100 
+* 
+time 
+R2 
+0.909013 
+RV 
+206040 
+ 
+Rate Class: 
+#N/A 
+Rate Code: 
+Multi 
+Trans 
+Description: 
+#N/A 
+Model: 
+Meter Count 
+Equation: 
+1829.411 
++ 
+36.943000 
+* 
+time 
+R2 
+0.900205 
+RV 
+220463 
+ 
+Rate Class: 
+#N/A 
+Rate Code: 
+Non-Firm Trans 
+Description: 
+#N/A 
+Model: 
+Meter Count 
+Equation: 
+200.0116 
++ 
+1.021700 
+* 
+time 
+Exhibit__(TEP-10A) 
+Page 29 of 41
+30
+
+
+--- Page 33 ---
+R2 
+0.292758 
+RV 
+4289.14 
+ 
+Rate Class: 
+#N/A 
+Rate Code: 
+TC Trans 
+Description: 
+#N/A 
+Model: 
+Meter Count 
+Equation: 
+200.0116 
++ 
+1.021700 
+* 
+time 
+R2 
+0.292758 
+RV 
+4289.14 
+ 
+Rate Class: 
+#N/A 
+Rate Code: 
+TC Multi Family Trans 
+Description: 
+#N/A 
+Model: 
+Meter Count 
+Equation: 
+225.9532 
++ 
+0.453040 
+* 
+time 
+R2 
+0.0885765 
+RV 
+3610.43 
+ 
+Rate Class: 
+#N/A 
+Rate Code: 
+TC Multi Family Sales 
+Description: 
+#N/A 
+Model: 
+Meter Count 
+Equation: 
+3064.9409 
++ 
+-5.465600 
+* 
+time 
+R2 
+0.885629 
+RV 
+6559.46 
+ 
+Rate Class: 
+#N/A 
+Rate Code: 
+TC Sales 
+Description: 
+#N/A 
+Model: 
+Meter Count 
+Exhibit__(TEP-10A) 
+Page 30 of 41
+31
+
+
+--- Page 34 ---
+Equation: 
+3872.2614 
++ 
+-7.808200 
+* 
+time 
+R2 
+0.912593 
+RV 
+9820.72 
+ 
+Rate Class: 
+#N/A 
+Rate Code: 
+LLF Trans 
+Description: 
+#N/A 
+Model: 
+Meter Count 
+Equation: 
+3971.2278 
++ 
+40.342000 
+* 
+time 
+R2 
+0.876708 
+RV 
+332951 
+ 
+Rate Class: 
+#N/A 
+Rate Code: 
+Non-Firm 
+Description: 
+#N/A 
+Model: 
+Meter Count 
+Equation: 
+4039.484 
++ 
+-6.567200 
+* 
+time 
+R2 
+0.928247 
+RV 
+7471.74 
+ 
+Rate Class: 
+#N/A 
+Rate Code: 
+TC 
+Description: 
+#N/A 
+Model: 
+Meter Count 
+Equation: 
+4039.484 
++ 
+-6.567200 
+* 
+time 
+R2 
+0.928247 
+RV 
+7471.74 
+ 
+Exhibit__(TEP-10A) 
+Page 31 of 41
+32
+
+
+--- Page 35 ---
+Rate Class: 
+#N/A 
+Rate Code: 
+Res Heat Trans 
+Description: 
+#N/A 
+Model: 
+Meter Count 
+Equation: 
+41357.6721 
++ 
+624.813800 
+* 
+time 
+R2 
+0.872922 
+RV 
+85488600 
+ 
+Rate Class: 
+#N/A 
+Rate Code: 
+Comm & Indust 
+Description: 
+#N/A 
+Model: 
+Meter Count 
+Equation: 
+41656.9846 
++ 
+52.123500 
+* 
+time 
+R2 
+0.965743 
+RV 
+159339 
+ 
+Rate Class: 
+#N/A 
+Rate Code: 
+TC Govt 
+Description: 
+#N/A 
+Model: 
+Meter Count 
+Equation: 
+447.3008 
++ 
+-0.478150 
+* 
+time 
+R2 
+0.872031 
+RV 
+49.2245 
+ 
+Rate Class: 
+#N/A 
+Rate Code: 
+TC Govt Sales 
+Description: 
+#N/A 
+Model: 
+Meter Count 
+Equation: 
+451.0594 
++ 
+-0.545490 
+* 
+time 
+Exhibit__(TEP-10A) 
+Page 32 of 41
+33
+
+
+--- Page 36 ---
+R2 
+0.889406 
+RV 
+67.2806 
+ 
+Rate Class: 
+#N/A 
+Rate Code: 
+Res Heating 
+Description: 
+#N/A 
+Model: 
+Meter Count 
+Equation: 
+480597.341 
++ 
+754.355300 
+* 
+time 
+R2 
+0.947625 
+RV 
+20992400 
+ 
+Rate Class: 
+#N/A 
+Rate Code: 
+Res NH Sales 
+Description: 
+#N/A 
+Model: 
+Meter Count 
+Equation: 
+589498.394 
++ 
+-
+927.339500 
+* 
+time 
+R2 
+0.913814 
+RV 
+133756000 
+ 
+Rate Class: 
+#N/A 
+Rate Code: 
+C & I Trans 
+Description: 
+#N/A 
+Model: 
+Meter Count 
+Equation: 
+6243.0963 
++ 
+64.604700 
+* 
+time 
+R2 
+0.897187 
+RV 
+694206 
+ 
+Rate Class: 
+#N/A 
+Rate Code: 
+Res Non-Heating 
+Exhibit__(TEP-10A) 
+Page 33 of 41
+34
+
+
+--- Page 37 ---
+Description: 
+#N/A 
+Model: 
+Meter Count 
+Equation: 
+628259.631 
++ 
+-
+333.720400 
+* 
+time 
+R2 
+0.985531 
+RV 
+2257040 
+ 
+Rate Class: 
+#N/A 
+Rate Code: 
+Res Trans 
+Description: 
+#N/A 
+Model: 
+Meter Count 
+Equation: 
+70856.3339 
++ 
+1290.2888 
+* 
+time 
+R2 
+0.863962 
+RV 
+429030000 
+ 
+Rate Class: 
+#N/A 
+Rate Code: 
+Firm Trans 
+Description: 
+#N/A 
+Model: 
+Meter Count 
+Equation: 
+84532.1408 
++ 
+1347.6973 
+* 
+time 
+R2 
+0.869732 
+RV 
+431726000 
+ 
+Rate Class: 
+#N/A 
+Rate Code: 
+All Trans 
+Description: 
+#N/A 
+Model: 
+Meter Count 
+Equation: 
+84765.8671 
++ 
+1348.4661 
+* 
+time 
+R2 
+0.869291 
+Exhibit__(TEP-10A) 
+Page 34 of 41
+35
+
+
+--- Page 38 ---
+RV 
+433832000 
+ 
+Rate Class: 
+#N/A 
+Rate Code: 
+TC Comm Trans 
+Description: 
+#N/A 
+Model: 
+Meter Count 
+Equation: 
+25+18/(1+exp(-0.592593*(t-37.5))) 
+  
+  
+R2 
+0.810441 
+RV 
+23.6806 
+ 
+Rate Class: 
+#N/A 
+Rate Code: 
+Multi Family Non-Heating 
+Description: 
+#N/A 
+Model: 
+Meter Count 
+Equation: 
+883.333+18.6667/(1+exp(-0.214286*(t-69.6667))) 
+R2 
+0.702991 
+RV 
+38.3913 
+ 
+Rate Class: 
+#N/A 
+Rate Code: 
+Multi 
+Sales 
+Description: 
+#N/A 
+Model: 
+Meter Count 
+Equation: 
+9759.67+918.333/(1+exp(-0.268603*(t-22.2297))) 
+R2 
+0.0128033 
+RV 
+473522 
+ 
+Rate Class: 
+#N/A 
+Rate Code: 
+HLF Trans 
+Description: 
+#N/A 
+Model: 
+Meter 
+Exhibit__(TEP-10A) 
+Page 35 of 41
+36
+
+
+--- Page 39 ---
+Count 
+Equation: 
+b1 + 8283/(1 + exp( - b2*(x1 - b3))) 
+x1 
+time 
+b1 
+989.26 
+b2 
+0.02 
+b3 
+35.11 
+R2 
+0.96578 
+F 
+37788.6 
+ 
+Rate Class: 
+#N/A 
+Rate Code: 
+LLF Sales 
+Description: #N/A 
+Model: 
+Meter 
+Count 
+Equation: 
+20712.02 
++ 
+901.66 
+* 
+log ( time +  
+-0.66 
+) 
+R2 
+0.913735 
+F 
+189870 
+ 
+Rate Class: 
+#N/A 
+Rate Code: 
+Res NH 
+Trans 
+Description: #N/A 
+Model: 
+Meter Count 
+Equation: 
+246727.70 
++ 
+76721.99 
+* 
+log ( time +  
+1.49 
+) 
+R2 
+0.956852 
+F 
+7.68669e+07 
+ 
+Rate Class: 
+#N/A 
+Rate Code: 
+Non-Firm Sales 
+Description: #N/A 
+Model: 
+Meter 
+Exhibit__(TEP-10A) 
+Page 36 of 41
+37
+
+
+--- Page 40 ---
+Count 
+Equation: 
+5064.46 
++ 
+-449.68 
+* 
+log ( time +  
+-12.40 
+) 
+R2 
+0.946433 
+F 
+4341.82 
+ 
+Rate Class: 
+#N/A 
+Rate Code: 
+Multi Non-Heating Trans 
+Description: #N/A 
+Model: 
+Meter 
+Count 
+Equation: 
+717.36 
++ 
+199.92 
+* 
+log ( time +  
+39.68 
+) 
+R2 
+0.941965 
+F 
+208.718 
+ 
+Rate Class: 
+#N/A 
+Rate Code: 
+Low Load Factor 
+Description: #N/A 
+Model: 
+Meter 
+Count 
+Equation: 
+91468.96 
++ 
+21107.73 
+* 
+log ( time +  
+266.30 
+) 
+R2 
+0.922579 
+F 
+708840 
+ 
+Rate Class: 
+#N/A 
+Rate Code: 
+TC Comm Sales 
+Description: #N/A 
+Model: 
+Meter 
+Count 
+Equation: 
+921.65 
++ 
+-159.33 
+* 
+log ( time +  
+19.55 
+) 
+Exhibit__(TEP-10A) 
+Page 37 of 41
+38
+
+
+--- Page 41 ---
+R2 
+0.986347 
+F 
+46.6045 
+ 
+Rate Class: 
+#N/A 
+Rate Code: 
+TC Comm 
+Description: #N/A 
+Model: 
+Meter Count 
+Equation: 
+954.09 
++ 
+-154.01 
+* 
+log ( time +  
+33.10 
+) 
+R2 
+0.986389 
+F 
+34.6901 
+ 
+Rate Class: 
+#N/A 
+Rate Code: 
+HLF Sales 
+Description: 
+#N/A 
+Model: 
+Meter Count 
+Equation: 
+b1 + b2/(1 + exp( - b3*(x1 - b4))) 
+  
+b1 
+11085.0909 
+b2 
+-2568.533 
+b3 
+0.11861 
+b4 
+57.2676 
+x1 
+time 
+R2 
+0.956752 
+F 
+85011 
+ 
+Rate Class: 
+#N/A 
+Rate Code: 
+Res Sales 
+Description: 
+#N/A 
+Model: 
+Meter Count 
+Equation: 
+b1 + b2/(1 + exp( - b3*(x1 - b4))) 
+  
+b1 
+1109629.704 
+Exhibit__(TEP-10A) 
+Page 38 of 41
+39
+
+
+--- Page 42 ---
+b2 
+-
+198507.2787 
+b3 
+0.051476 
+b4 
+54.7823 
+x1 
+time 
+R2 
+0.977998 
+F 
+7.02472e+07 
+ 
+Rate Class: 
+#N/A 
+Rate Code: 
+Firm Sales 
+Description: 
+#N/A 
+Model: 
+Meter Count 
+Equation: 
+b1 + b2/(1 + exp( - b3*(x1 - b4))) 
+  
+b1 
+1121085.234 
+b2 
+-
+174432.5345 
+b3 
+0.038709 
+b4 
+58.6008 
+x1 
+time 
+R2 
+0.969393 
+F 
+6.22109e+07 
+ 
+Rate Class: 
+#N/A 
+Rate Code: 
+All Sales 
+Description: 
+#N/A 
+Model: 
+Meter Count 
+Equation: 
+b1 + b2/(1 + exp( - b3*(x1 - b4))) 
+  
+b1 
+1125655.997 
+b2 
+-
+176049.4801 
+b3 
+0.03864 
+b4 
+58.3362 
+x1 
+time 
+Exhibit__(TEP-10A) 
+Page 39 of 41
+40
+
+
+--- Page 43 ---
+R2 
+0.969878 
+F 
+6.16491e+07 
+ 
+Rate Class: 
+#N/A 
+Rate Code: 
+C & I Sales 
+Description: 
+#N/A 
+Model: 
+Meter Count 
+Equation: 
+b1 + b2/(1 + exp( - b3*(x1 - b4))) 
+  
+b1 
+35317.1192 
+b2 
+-2033.4086 
+b3 
+0.1147 
+b4 
+75.9673 
+x1 
+time 
+R2 
+0.740256 
+F 
+459772 
+ 
+Rate Class: 
+#N/A 
+Rate Code: 
+Multi Non-Heating Sales 
+Description: 
+#N/A 
+Model: 
+Meter Count 
+Equation: 
+b1 + b2/(1 + exp( - b3*(x1 - b4))) 
+  
+b1 
+759.3556 
+b2 
+-152.22 
+b3 
+0.069495 
+b4 
+69.9784 
+x1 
+time 
+R2 
+0.993756 
+F 
+25.0605 
+ 
+Rate Class: 
+#N/A 
+Rate Code: 
+Multi Heat Sales 
+Description: 
+#N/A 
+Exhibit__(TEP-10A) 
+Page 40 of 41
+41
+
+
+--- Page 44 ---
+Model: 
+Meter Count 
+Equation: 
+b1 + b2/(1 + exp( - b3*(x1 - b4))) 
+  
+b1 
+9303.3438 
+b2 
+747.4195 
+b3 
+0.60659 
+b4 
+122.8928 
+x1 
+time 
+R2 
+0.22301 
+F 
+121093 
+ 
+Exhibit__(TEP-10A) 
+Page 41 of 41
+42
+
+
+--- Page 45 ---
+ 
+ 
+Exhibit__ (TEP-10B) 
+ 
+ 
+ 
+ 
+ 
+ 
+ 
+ 
+ 
+ 
+ 
+ 
+ 
+ 
+ 
+ 
+ 
+ 
+ 
+ 
+ 
+ 
+ 
+ 
+ 
+ 
+ 
+ 
+ 
+ 
+ 
+ 
+ 
+ 
+ 
+ 
+ 
+ 
+ 
+
+
+--- Page 46 ---
+Testimony of Theodore Poe, Jr. 
+ 
+ 
+ 
+ 
+ 
+ 
+ 
+ 
+ 
+ 
+ 
+Exhibit __ (TEP-10B) 
+ 
+Delivery Forecast Model Specifications – KEDNY – Use Per Customer 
+43
+
+
+--- Page 47 ---
+ 
+ 
+ 
+ 
+ 
+ 
+Delivery Forecast Model Specifications 
+KEDNY 
+Use Per Customer 
+ 
+ 
+Exhibit__(TEP-10B) 
+Page 1 of 53
+44
+
+
+--- Page 48 ---
+SC 1A Resi Non Heat Sales 
+ 
+ 
+SC 1AR Reduced Rate Resi Non Heat Sales 
+ 
+ 
+ 
+Rate Class:
+SC 1A Resi Non Heat Sales
+Rate Code:
+1A
+Description:
+RESIDENTIAL NON-HEATING
+Model:
+Use Per Customer
+Submodel:
+model
+Equation:
+0.15155
++
+0.001441
+*
+FELHA
+SE
+0.043143
+0.000440
+t
+3.5128
+3.275400
+p
+0.0079296
+0.011265
+R2
+0.57286
+F
+10.7291
+Rate Class:
+SC 1AR Reduced Rate Resi Non Heat Sales
+Rate Code:
+1AR
+Description:
+RESIDENTIAL NON-HEATING (REDUCED RATE)
+Model:
+Use Per Customer
+Submodel:
+model
+Equation:
+0.13035
++
+0.000981
+*
+FELHA
+SE
+0.014647
+0.000149
+t
+8.8993
+6.565200
+p
+2.0127E-05
+0.000176
+R2
+0.84346
+F
+43.1046
+Exhibit__(TEP-10B) 
+Page 2 of 53
+45
+
+
+--- Page 49 ---
+ 
+SC 1B Resi Heat Sales 
+ 
+ 
+ 
+SC 1BR Resi Heat Reduced Rate Sales 
+ 
+Rate Class:
+SC 1B Resi Heat Sales
+Rate Code:
+1B
+Description:
+RESIDENTIAL HEATING
+Model:
+Use Per Customer
+Submodel:
+slopemodel
+Equation:
+0.212599
++
+0.000000
+*
+constant
+Overall R2
+NULL
+Rate Class:
+SC 1B Resi Heat Sales
+Rate Code:
+1B
+Description:
+RESIDENTIAL HEATING
+Model:
+Use Per Customer
+Submodel:
+basemodel
+Equation:
+1.2643
++
+-0.176240
+* log ( time + 
+-2001.3047
+ )
+SE
+0.35205
+0.125070
+3.8802
+t
+3.5913
+-1.409100
+-515.7725
+p
+0.0070709
+0.196470
+2.2362E-19
+R2
+0.8855
+F
+NaN
+Rate Class:
+SC 1BR Resi Heat Reduced Rate Sales
+Rate Code:
+1BR
+Description:
+RESIDENTIAL HEATING (REDUCED RATE)
+Model:
+Use Per Customer
+Submodel:
+slopemodel
+Equation:
+0.201166
++
+0.000000
+*
+constant
+Overall R2
+NULL
+Exhibit__(TEP-10B) 
+Page 3 of 53
+46
+
+
+--- Page 50 ---
+ 
+ 
+SC 1B-DG Resi Dist Gen Sales 
+ 
+ 
+SC 2-1 Non Resi Non Heat Sales 
+ 
+Rate Class:
+SC 1BR Resi Heat Reduced Rate Sales
+Rate Code:
+1BR
+Description:
+RESIDENTIAL HEATING (REDUCED RATE)
+Model:
+Use Per Customer
+Submodel:
+basemodel
+Equation:
+0.48883
++
+0.007059
+*
+FEMFA
+SE
+0.08464
+0.001503
+t
+5.7754
+4.697100
+p
+0.0002676
+0.001125
+R2
+0.71026
+F
+22.0625
+Rate Class:
+SC 1B-DG Resi Dist Gen Sales
+Rate Code:
+1BRDG
+Description:
+RESIDENTIAL HEATING (DISTRIBUTED GENERATION)
+Model:
+Use Per Customer
+Submodel:
+model
+Equation:
+46.4016
++
+0.000363
+*
+FYPCPIA
+SE
+#VALUE!
+#VALUE!
+t
+#VALUE!
+#VALUE!
+p
+0.040768
+0.027645
+R2
+6.3852
+F
+-9.4856
+Rate Class:
+SC 2-1 Non Resi Non Heat Sales
+Rate Code:
+2-1R
+Description:
+GENERAL NON-HEATING (FORMERLY RATE 1)
+Model:
+Use Per Customer
+Submodel:
+model
+Equation:
+21.3636
++
+0.000000
+*
+constant
+Overall R2
+0.61082801
+Exhibit__(TEP-10B) 
+Page 4 of 53
+47
+
+
+--- Page 51 ---
+ 
+ 
+ 
+SC 2-2 Non Resi Heat Sales 
+ 
+Rate Class:
+SC 2-1 Non Resi Non Heat Sales
+Rate Code:
+N025
+Description:
+S C 20 WITH ECONOMIC INCENTIVE DISCOUNT (w/  NH associated 2-1 & 2-2)
+Model:
+Use Per Customer
+Submodel:
+model
+Equation:
+1526.6788
++
+0.593850
+*
+FLBEA
+SE
+732.4149
+0.265340
+t
+-2.0844
+2.238100
+p
+0.070625
+0.055590
+R2
+0.38532
+F
+5.0149
+Rate Class:
+SC 2-1 Non Resi Non Heat Sales
+Rate Code:
+2-1
+Description:
+GENERAL NON-HEATING
+Model:
+Use Per Customer
+Submodel:
+model
+Equation:
+126.4888
++
+32.582800
+* log ( time + 
+-1940.2742
+)
+SE
+1925.5639
+367.791900
+779.2944
+t
+-0.065689
+0.088590
+-2.4898
+p
+0.94946
+0.931890
+0.04161
+R2
+0.81899
+F
+NaN
+Rate Class:
+SC 2-2 Non Resi Heat Sales
+Rate Code:
+2-2
+Description:
+GENERAL HEATING
+Model:
+Use Per Customer
+Submodel:
+basemodel
+Equation:
+1.80123
++
+0.000000
+*
+constant
+Overall R2
+NULL
+Exhibit__(TEP-10B) 
+Page 5 of 53
+48
+
+
+--- Page 52 ---
+ 
+ 
+ 
+Rate Class:
+SC 2-2 Non Resi Heat Sales
+Rate Code:
+H025
+Description:
+S C 20 WITH ECONOMIC INCENTIVE DISCOUNT (w/ H associated 2-1 & 2-2)
+Model:
+Use Per Customer
+Submodel:
+basemodel
+Equation:
+24.7768
++
+0.000000
+*
+constant
+Overall R2
+NULL
+Rate Class:
+SC 2-2 Non Resi Heat Sales
+Rate Code:
+2-2
+Description:
+GENERAL HEATING
+Model:
+Use Per Customer
+Submodel:
+slopemodel
+Equation:
+1.2563
++
+0.000655
+*
+FLBEA
+SE
+0.57136
+0.000206
+t
+-2.1987
+3.185800
+p
+0.055456
+0.011081
+R2
+0.54358
+F
+10.7185
+Rate Class:
+SC 2-2 Non Resi Heat Sales
+Rate Code:
+2-2R
+Description:
+GENERAL HEATING (AREA DEVELOPMENT RATE)
+Model:
+Use Per Customer
+Submodel:
+basemodel
+Equation:
+41.6562
++
+1.951000
+*
+FE51A
+SE
+14.513
+0.633850
+t
+-2.8703
+3.078000
+p
+0.018469
+0.013182
+R2
+0.51408
+F
+9.5215
+Exhibit__(TEP-10B) 
+Page 6 of 53
+49
+
+
+--- Page 53 ---
+ 
+ 
+ 
+SC 3 Multi Family Sales 
+ 
+Rate Class:
+SC 2-2 Non Resi Heat Sales
+Rate Code:
+2-2R
+Description:
+GENERAL HEATING (AREA DEVELOPMENT RATE)
+Model:
+Use Per Customer
+Submodel:
+slopemodel
+Equation:
+30.5564
++
+-5.980400
+* log ( time + 
+-1875.6875
+)
+SE
+587.5624
+99.721100
+2220.894
+t
+0.052005
+-0.059971
+-0.84456
+p
+0.9598
+0.953650
+0.42289
+R2
+0.82046
+F
+NaN
+Rate Class:
+SC 2-2 Non Resi Heat Sales
+Rate Code:
+H025
+Description:
+S C 20 WITH ECONOMIC INCENTIVE DISCOUNT (w/ H associated 2-1 & 2-2)
+Model:
+Use Per Customer
+Submodel:
+slopemodel
+Equation:
+78.1831
++
+15.345300
+* log ( time + 
+-1825.9851
+)
+SE
+9849.9178
+1586.337300
+18909.9128
+t
+-0.0079374
+0.009673
+-0.096562
+p
+0.99386
+0.992520
+0.92545
+R2
+0.2001
+F
+NaN
+Rate Class:
+SC 3 Multi Family Sales
+Rate Code:
+N030
+Description:
+MULTI-FAMILY (6+ FAM) SPACE AND/OR WATER HEATING - NonHeat Portion
+Model:
+Use Per Customer
+Submodel:
+model
+Equation:
+7.70006
++
+0.000000
+*
+constant
+Overall R2
+0.80612699
+Exhibit__(TEP-10B) 
+Page 7 of 53
+50
+
+
+--- Page 54 ---
+ 
+ 
+ 
+SC 4A High Load Factor Sales 
+ 
+Rate Class:
+SC 3 Multi Family Sales
+Rate Code:
+H030
+Description:
+MULTI-FAMILY (6+ FAM) SPACE AND/OR WATER HEATING - Heat Portion
+Model:
+Use Per Customer
+Submodel:
+slopemodel
+Equation:
+2.0964
++
+-0.003188
+*
+FLBUA
+SE
+0.13142
+0.000522
+t
+15.9517
+-6.107800
+p
+6.6045E-08
+0.000178
+R2
+0.81815
+F
+40.4923
+Rate Class:
+SC 3 Multi Family Sales
+Rate Code:
+H030
+Description:
+MULTI-FAMILY (6+ FAM) SPACE AND/OR WATER HEATING - Heat Portion
+Model:
+Use Per Customer
+Submodel:
+basemodel
+Equation:
+38.5046
++
+0.529100
+*
+FE23A
+SE
+18.2271
+0.211750
+t
+-2.1125
+2.498700
+p
+0.06381
+0.033936
+R2
+0.41361
+F
+6.3482
+Rate Class:
+SC 4A High Load Factor Sales
+Rate Code:
+4A
+Description:
+HIGH LOAD FACTOR (COGENERATION)
+Model:
+Use Per Customer
+Submodel:
+model
+Equation:
+28266.5288
++
+-7011.224700
+* log ( time + 
+-1960.6669
+)
+SE
+399426.562
+81772.089700
+566.4902
+t
+0.070768
+-0.085741
+-3.4611
+p
+0.94556
+0.934070
+0.010532
+R2
+0.65674
+F
+NaN
+Exhibit__(TEP-10B) 
+Page 8 of 53
+51
+
+
+--- Page 55 ---
+ 
+SC 4A-CNG Wholesale NGV Sales 
+ 
+ 
+SC 4B Yr Round Space Conditioning Sales 
+ 
+ 
+ 
+Rate Class:
+SC 4A-CNG Wholesale NGV Sales
+Rate Code:
+4ACNG
+Description:
+COMPRESSED NATURAL GAS
+Model:
+Use Per Customer
+Submodel:
+model
+Equation:
+2548.85
++
+0.000000
+*
+constant
+Overall R2
+0.00091483
+Rate Class:
+SC 4B Yr Round Space Conditioning Sales
+Rate Code:
+4B
+Description:
+YEAR-ROUND AIR CONDITIONING (NON RESIDENTIAL)
+Model:
+Use Per Customer
+Submodel:
+model
+Equation:
+1259.1942
++
+-218.553200
+* log ( time + 
+-1798.4919
+)
+SE
+278911.198
+43911.440600
+42381.7139
+t
+0.0045147
+-0.004977
+-0.042436
+p
+0.99652
+0.996170
+0.96734
+R2
+0.11056
+F
+NaN
+Exhibit__(TEP-10B) 
+Page 9 of 53
+52
+
+
+--- Page 56 ---
+ 
+SC 6C TC Comm / Ind Sales 
+ 
+ 
+ 
+Rate Class:
+SC 6C TC Comm / Ind Sales
+Rate Code:
+6C-2
+Description:
+TC COMMERCIAL RS 2
+Model:
+Use Per Customer
+Submodel:
+model
+Equation:
+11106.0074
++
+-2188.923500
+* log ( time + 
+-1881.6601
+)
+SE
+274376.814
+46900.408000
+2736.8444
+t
+0.040477
+-0.046672
+-0.68753
+p
+0.96884
+0.964080
+0.51388
+R2
+0.77286
+F
+NaN
+Rate Class:
+SC 6C TC Comm / Ind Sales
+Rate Code:
+6CT-1
+Description:
+TC COMMERCIAL RS 1 (NO PBT)
+Model:
+Use Per Customer
+Submodel:
+model
+Equation:
+112.2015
++
+-1.823400
+* log ( time + 
+-1979.9154
+)
+SE
+4660.9004
+1064.851900
+17028.5596
+t
+0.024073
+-0.001712
+-0.11627
+p
+0.98147
+0.998680
+0.9107
+R2
+0.0013151
+F
+NaN
+Rate Class:
+SC 6C TC Comm / Ind Sales
+Rate Code:
+6CT-2
+Description:
+TC COMMERCIAL RS 2 (NO PBT)
+Model:
+Use Per Customer
+Submodel:
+model
+Equation:
+2569.7864
++
+-465.936100
+* log ( time + 
+-1979.671
+)
+SE
+18419.9322
+4200.249800
+265.0892
+t
+0.13951
+-0.110930
+-7.4679
+p
+0.89298
+0.914790
+0.00014106
+R2
+0.54096
+F
+NaN
+Exhibit__(TEP-10B) 
+Page 10 of 53
+53
+
+
+--- Page 57 ---
+ 
+SC 6G TC Governmental Sales 
+ 
+ 
+ 
+Rate Class:
+SC 6G TC Governmental Sales
+Rate Code:
+NYSGS
+Description:
+TC GOVERNMENT RS 3 (NYS GENERAL SERVICES)
+Model:
+Use Per Customer
+Submodel:
+model
+Equation:
+193.28
++
+0.000000
+*
+constant
+Overall R2
+0.79493814
+Rate Class:
+SC 6G TC Governmental Sales
+Rate Code:
+Kingsboro
+Description:
+TC GOVERNMENT RS 3 (KINGSBORO PSYCHIATRIC CENTER)
+Model:
+Use Per Customer
+Submodel:
+model
+Equation:
+14891.4282
++
+5.895000
+*
+FLBEA
+SE
+3944.6041
+1.429000
+t
+-3.7751
+4.125200
+p
+0.0054257
+0.003320
+R2
+0.68042
+F
+17.0326
+Rate Class:
+SC 6G TC Governmental Sales
+Rate Code:
+6G-1
+Description:
+TC GOVERNMENT RS 1
+Model:
+Use Per Customer
+Submodel:
+model
+Equation:
+267.4228
++
+15.506100
+*
+FE51A
+SE
+101.4747
+4.419200
+t
+-2.6354
+3.508800
+p
+0.029928
+0.007976
+R2
+0.62096
+F
+13.1062
+Exhibit__(TEP-10B) 
+Page 11 of 53
+54
+
+
+--- Page 58 ---
+ 
+ 
+ 
+ 
+Rate Class:
+SC 6C TC Comm / Ind Sales
+Rate Code:
+6C-1
+Description:
+TC COMMERCIAL RS 1
+Model:
+Use Per Customer
+Submodel:
+model
+Equation:
+320.7978
++
+17.697400
+*
+FE51A
+SE
+98.2443
+4.278600
+t
+-3.2653
+4.136300
+p
+0.011436
+0.003270
+R2
+0.69357
+F
+18.1067
+Rate Class:
+SC 6G TC Governmental Sales
+Rate Code:
+NYCDGS
+Description:
+TC GOVERNMENT RS 3 (NYC DGS)
+Model:
+Use Per Customer
+Submodel:
+model
+Equation:
+38947.4243
++
+1956.405900
+*
+FE51A
+SE
+11793.2895
+513.599300
+t
+-3.3025
+3.809200
+p
+0.010818
+0.005169
+R2
+0.64518
+F
+14.5467
+Rate Class:
+SC 6G TC Governmental Sales
+Rate Code:
+6G-2
+Description:
+TC GOVERNMENT RS 2
+Model:
+Use Per Customer
+Submodel:
+model
+Equation:
+8086.8536
++
+-1500.367400
+* log ( time + 
+-1839.5737
+)
+SE
+442906.861
+72193.103000
+8172.3525
+t
+0.018259
+-0.020783
+-0.2251
+p
+0.98594
+0.984000
+0.82833
+R2
+0.57524
+F
+NaN
+Exhibit__(TEP-10B) 
+Page 12 of 53
+55
+
+
+--- Page 59 ---
+SC 6M TC Multi-Family Sales 
+ 
+ 
+ 
+Rate Class:
+SC 6M TC Multi-Family Sales
+Rate Code:
+LFKa
+Description:
+TC MULTI-FAMILY RS 3 (LEFRAK A)
+Model:
+Use Per Customer
+Submodel:
+model
+Equation:
+1.72819
++
+0.000000
+*
+constant
+Overall R2
+0.01233962
+Rate Class:
+SC 6M TC Multi-Family Sales
+Rate Code:
+6M-1
+Description:
+TC MULTI-FAMILY RS 1
+Model:
+Use Per Customer
+Submodel:
+model
+Equation:
+48.43
++
+0.266420
+*
+FEMFA
+SE
+3.9217
+0.068434
+t
+12.3493
+3.893100
+p
+1.7223E-06
+0.004589
+R2
+0.68316
+F
+17.2489
+Rate Class:
+SC 6M TC Multi-Family Sales
+Rate Code:
+6M-4
+Description:
+TC MULTI-FAMILY RS 4
+Model:
+Use Per Customer
+Submodel:
+model
+Equation:
+51302.77
++
+-25.104000
+*
+TimeLinear
+SE
+15460.9714
+7.691000
+t
+3.3182
+-3.264100
+p
+0.010568
+0.011457
+R2
+0.6132
+F
+12.6827
+Exhibit__(TEP-10B) 
+Page 13 of 53
+56
+
+
+--- Page 60 ---
+ 
+ 
+ 
+Rate Class:
+SC 6M TC Multi-Family Sales
+Rate Code:
+LFKb
+Description:
+TC MULTI-FAMILY RS 3 (LEFRAK B)
+Model:
+Use Per Customer
+Submodel:
+model
+Equation:
+6736.3634
++
+2.617300
+*
+FLBEA
+SE
+2104.654
+0.762460
+t
+-3.2007
+3.432600
+p
+0.012599
+0.008920
+R2
+0.69292
+F
+18.052
+Rate Class:
+SC 6M TC Multi-Family Sales
+Rate Code:
+6M-2
+Description:
+TC MULTI-FAMILY RS 2
+Model:
+Use Per Customer
+Submodel:
+model
+Equation:
+90.6694
++
+0.487590
+*
+FEMFA
+SE
+13.3622
+0.233170
+t
+6.7855
+2.091100
+p
+0.00013988
+0.069900
+R2
+0.43809
+F
+6.2373
+Rate Class:
+SC 6M TC Multi-Family Sales
+Rate Code:
+TRPb
+Description:
+TC MULTI-FAMILY RS 3 (TRUMP B)
+Model:
+Use Per Customer
+Submodel:
+model
+Equation:
+1707.6876
++
+-583.502700
+* log ( time + 
+-1993.7104
+)
+SE
+7655.2249
+2056.242500
+52.8194
+t
+0.22307
+-0.283770
+-37.7458
+p
+0.82985
+0.784800
+2.3827E-09
+R2
+0.67311
+F
+NaN
+Exhibit__(TEP-10B) 
+Page 14 of 53
+57
+
+
+--- Page 61 ---
+ 
+ 
+ 
+SC 7 Seasonal Off-Peak Sales 
+ 
+ 
+ 
+Rate Class:
+SC 6M TC Multi-Family Sales
+Rate Code:
+6M-3
+Description:
+TC MULTI-FAMILY RS 3
+Model:
+Use Per Customer
+Submodel:
+model
+Equation:
+214.0066
++
+7.391800
+* log ( time + 
+-2004.8313
+)
+SE
+15.6253
+8.935000
+0.78333
+t
+13.6961
+0.827290
+-2559.369
+p
+2.6066E-06
+0.435360
+3.6715E-22
+R2
+0.41393
+F
+NaN
+Rate Class:
+SC 6M TC Multi-Family Sales
+Rate Code:
+TRPa
+Description:
+TC MULTI-FAMILY RS 3 (TRUMP A)
+Model:
+Use Per Customer
+Submodel:
+model
+Equation:
+2829.2485
++
+-553.798800
+* log ( time + 
+-1876.1084
+)
+SE
+93531.9874
+15872.365500
+3820.1801
+t
+0.030249
+-0.034891
+-0.4911
+p
+0.97671
+0.973140
+0.63837
+R2
+0.70002
+F
+NaN
+Rate Class:
+SC 7 Seasonal Off-Peak Sales
+Rate Code:
+7
+Description:
+SEASONAL OFF PEAK
+Model:
+Use Per Customer
+Submodel:
+model
+Equation:
+16.0271
++
+0.000000
+*
+constant
+Overall R2
+0.85980667
+Exhibit__(TEP-10B) 
+Page 15 of 53
+58
+
+
+--- Page 62 ---
+ 
+SC 17-1A  Resi Non Heat Transport 
+ 
+ 
+SC 17-1AR Resi Non Heat Reduced Rate Transp 
+ 
+ 
+SC 17-1B Resi Heat Transport 
+ 
+Rate Class:
+SC 17-1A  Resi Non Heat Transport
+Rate Code:
+T1A
+Description:
+TRANSPORTATION RESIDENTIAL NON-HEATING
+Model:
+Use Per Customer
+Submodel:
+model
+Equation:
+0.611386
++
+0.000000
+*
+constant
+Overall R2
+0.9275859
+Rate Class:
+SC 17-1AR Resi Non Heat Reduced Rate Transp
+Rate Code:
+T1AR
+Description:
+TRANSPORTATION RESIDENTIAL NON-HEATING (REDUCED RATE)
+Model:
+Use Per Customer
+Submodel:
+model
+Equation:
+0.254233
++
+0.000000
+*
+constant
+Overall R2
+0.9759249
+Rate Class:
+SC 17-1B Resi Heat Transport
+Rate Code:
+T1B
+Description:
+TRANSPORTATION RESIDENTIAL HEATING
+Model:
+Use Per Customer
+Submodel:
+slopemodel
+Equation:
+0.32488
++
+-0.034602
+* log ( time + 
+-1999.1695
+ )
+SE
+0.051912
+0.016426
+3.8867
+t
+6.2582
+-2.106600
+-514.3668
+p
+0.00024353
+0.068232
+2.2855E-19
+R2
+0.96268
+F
+NaN
+Exhibit__(TEP-10B) 
+Page 16 of 53
+59
+
+
+--- Page 63 ---
+ 
+ 
+SC 17-1BR Resi Heat Reduced Rate Transp 
+ 
+Rate Class:
+SC 17-1B Resi Heat Transport
+Rate Code:
+T1B
+Description:
+TRANSPORTATION RESIDENTIAL HEATING
+Model:
+Use Per Customer
+Submodel:
+basemodel
+Equation:
+1.2445
++
+-0.133640
+* log ( time + 
+-2001.7241
+ )
+SE
+0.31875
+0.117070
+4.2664
+t
+3.9043
+-1.141600
+-469.1804
+p
+0.0045172
+0.286650
+4.7692E-19
+R2
+0.77883
+F
+NaN
+Rate Class:
+SC 17-1BR Resi Heat Reduced Rate Transp
+Rate Code:
+T1BR
+Description:
+TRANSPORTATION RESIDENTIAL HEATING (REDUCED RATE)
+Model:
+Use Per Customer
+Submodel:
+slopemodel
+Equation:
+0.69936
++
+-0.148530
+* log ( time + 
+-1981.6545
+ )
+SE
+1.0663
+0.248330
+44.7867
+t
+0.65586
+-0.598110
+-44.2465
+p
+0.53032
+0.566310
+7.513E-11
+R2
+0.96247
+F
+NaN
+Exhibit__(TEP-10B) 
+Page 17 of 53
+60
+
+
+--- Page 64 ---
+ 
+ 
+SC 17-2-1 Non Resi Non Heat Transport 
+ 
+Rate Class:
+SC 17-1BR Resi Heat Reduced Rate Transp
+Rate Code:
+T1BR
+Description:
+TRANSPORTATION RESIDENTIAL HEATING (REDUCED RATE)
+Model:
+Use Per Customer
+Submodel:
+basemodel
+Equation:
+1.3246
++
+-0.178430
+* log ( time + 
+-1999.0625
+ )
+SE
+0.75458
+0.237710
+11.0781
+t
+1.7554
+-0.750610
+-180.4514
+p
+0.11727
+0.474380
+9.953E-16
+R2
+0.77214
+F
+NaN
+Rate Class:
+SC 17-2-1 Non Resi Non Heat Transport
+Rate Code:
+T2-1
+Description:
+TRANSPORTATION GENERAL NON-HEATING
+Model:
+Use Per Customer
+Submodel:
+model
+Equation:
+34.3176
++
+0.000457
+*
+FYPCPIA
+SE
+#VALUE!
+#VALUE!
+t
+#VALUE!
+#VALUE!
+p
+0.068443
+0.004234
+R2
+2.0508
+F
+-15.6132
+Exhibit__(TEP-10B) 
+Page 18 of 53
+61
+
+
+--- Page 65 ---
+ 
+ 
+ 
+SC 17-2-2 Non Resi Heat Transport 
+ 
+Rate Class:
+SC 17-2-1 Non Resi Non Heat Transport
+Rate Code:
+N325
+Description:
+S C 17 RATE 325 ECONOMIC INCENTIVE DISCOUNT(w/ NH associated 2-1 & 2-2)
+Model:
+Use Per Customer
+Submodel:
+model
+Equation:
+61967.2171
++
+-30.679300
+*
+TimeLinear
+SE
+10968.997
+5.456500
+t
+5.6493
+-5.622600
+p
+0.00048181
+0.000497
+R2
+0.81044
+F
+34.2029
+Rate Class:
+SC 17-2-1 Non Resi Non Heat Transport
+Rate Code:
+T2-1R
+Description:
+TRANSPORTATION GENERAL NON-HEATING (AREA DEVELOPMENT RATE)
+Model:
+Use Per Customer
+Submodel:
+model
+Equation:
+2484.5042
++
+556.911400
+* log ( time + 
+-1899.5525
+)
+SE
+50455.2838
+8852.999100
+1745.8495
+t
+-0.049242
+0.062907
+-1.088
+p
+0.9621
+0.951600
+0.31261
+R2
+0.83985
+F
+NaN
+Rate Class:
+SC 17-2-2 Non Resi Heat Transport
+Rate Code:
+T2-2
+Description:
+TRANSPORTATION GENERAL HEATING
+Model:
+Use Per Customer
+Submodel:
+slopemodel
+Equation:
+1.10179
++
+0.000000
+*
+constant
+Overall R2
+NULL
+Exhibit__(TEP-10B) 
+Page 19 of 53
+62
+
+
+--- Page 66 ---
+ 
+ 
+ 
+Rate Class:
+SC 17-2-2 Non Resi Heat Transport
+Rate Code:
+H325
+Description:
+S C 17 RATE 325 ECONOMIC INCENTIVE DISCOUNT(w/ H associated 2-1 & 2-2)
+Model:
+Use Per Customer
+Submodel:
+basemodel
+Equation:
+133.47
++
+0.000000
+*
+constant
+Overall R2
+NULL
+Rate Class:
+SC 17-2-2 Non Resi Heat Transport
+Rate Code:
+T2-2
+Description:
+TRANSPORTATION GENERAL HEATING
+Model:
+Use Per Customer
+Submodel:
+basemodel
+Equation:
+20.1264
++
+0.000138
+*
+FYHHMEDA
+SE
+9.8288
+0.000056
+t
+-2.0477
+2.481600
+p
+0.070877
+0.034900
+R2
+0.41506
+F
+6.3861
+Rate Class:
+SC 17-2-2 Non Resi Heat Transport
+Rate Code:
+T2-2R
+Description:
+TRANSPORTATION GENERAL HEATING (AREA DEVELOPMENT RATE)
+Model:
+Use Per Customer
+Submodel:
+basemodel
+Equation:
+21.0979
++
+0.647450
+*
+FEMFA
+SE
+6.4298
+0.114160
+t
+-3.2813
+5.671300
+p
+0.0095097
+0.000305
+R2
+0.78146
+F
+32.1826
+Exhibit__(TEP-10B) 
+Page 20 of 53
+63
+
+
+--- Page 67 ---
+ 
+ 
+ 
+SC 17-3 Multi Family Transport 
+ 
+Rate Class:
+SC 17-2-2 Non Resi Heat Transport
+Rate Code:
+H325
+Description:
+S C 17 RATE 325 ECONOMIC INCENTIVE DISCOUNT(w/ H associated 2-1 & 2-2)
+Model:
+Use Per Customer
+Submodel:
+slopemodel
+Equation:
+386.2956
++
+-0.190520
+*
+TimeLinear
+SE
+154.6693
+0.076952
+t
+2.4976
+-2.475800
+p
+0.033998
+0.035232
+R2
+0.41928
+F
+6.4981
+Rate Class:
+SC 17-2-2 Non Resi Heat Transport
+Rate Code:
+T2-2R
+Description:
+TRANSPORTATION GENERAL HEATING (AREA DEVELOPMENT RATE)
+Model:
+Use Per Customer
+Submodel:
+slopemodel
+Equation:
+4.517
++
+-0.198820
+*
+WACOG
+SE
+0.30499
+0.035715
+t
+14.8105
+-5.566800
+p
+1.2597E-07
+0.000349
+R2
+0.78197
+F
+32.2791
+Rate Class:
+SC 17-3 Multi Family Transport
+Rate Code:
+H330
+Description:
+TRANSPORTATION MULTI-FAMILY (6+ FAM) SPACE AND/OR WATER HEATING - Heat Portio
+Model:
+Use Per Customer
+Submodel:
+basemodel
+Equation:
+28.8099
++
+0.000000
+*
+constant
+Overall R2
+NULL
+Exhibit__(TEP-10B) 
+Page 21 of 53
+64
+
+
+--- Page 68 ---
+ 
+ 
+ 
+SC 17-4A High Load Factor Transport 
+ 
+ 
+ 
+Rate Class:
+SC 17-3 Multi Family Transport
+Rate Code:
+H330
+Description:
+TRANSPORTATION MULTI-FAMILY (6+ FAM) SPACE AND/OR WATER HEATING - Heat Portio
+Model:
+Use Per Customer
+Submodel:
+slopemodel
+Equation:
+4.65249
++
+0.000000
+*
+constant
+Overall R2
+NULL
+Rate Class:
+SC 17-3 Multi Family Transport
+Rate Code:
+N330
+Description:
+TRANSPORTATION MULTI-FAMILY (6+ FAM) SPACE AND/OR WATER HEATING - NonHeat Po
+Model:
+Use Per Customer
+Submodel:
+model
+Equation:
+21.6254
++
+0.000209
+*
+FGDP$A
+SE
+5.4116
+0.000032
+t
+-3.9961
+6.584400
+p
+0.0039712
+0.000172
+R2
+0.84922
+F
+45.056
+Rate Class:
+SC 17-4A High Load Factor Transport
+Rate Code:
+T4A
+Description:
+TRANSPORTATION HIGH LOAD FACTOR (COGENERATION)
+Model:
+Use Per Customer
+Submodel:
+model
+Equation:
+26682.5666
++
+10.439900
+*
+FLBEA
+SE
+8128.0742
+2.944600
+t
+-3.2828
+3.545400
+p
+0.011142
+0.007560
+R2
+0.61114
+F
+12.5731
+Exhibit__(TEP-10B) 
+Page 22 of 53
+65
+
+
+--- Page 69 ---
+ 
+SC 17-4A-CNG Wholesale NGV Transport 
+ 
+ 
+SC 17-4B Yr Round Space Conditioning Transport 
+ 
+ 
+ 
+Rate Class:
+SC 17-4A-CNG Wholesale NGV Transport
+Rate Code:
+T4ACNG
+Description:
+TRANSPORTATION COMPRESSED NATURAL GAS
+Model:
+Use Per Customer
+Submodel:
+model
+Equation:
+2087.299
++
+21.055700
+*
+FEGVA
+SE
+915.6075
+8.900500
+t
+-2.2797
+2.365700
+p
+0.052097
+0.045552
+R2
+0.41172
+F
+5.5989
+Rate Class:
+SC 17-4B Yr Round Space Conditioning Transport
+Rate Code:
+T4B
+Description:
+TRANSPORTATION YEAR-ROUND AIR CONDITIONING (NON RESIDENTIAL)
+Model:
+Use Per Customer
+Submodel:
+model
+Equation:
+3566.4075
++
+6.749300
+*
+FHSTK1A
+SE
+562.3316
+1.033100
+t
+-6.3422
+6.532900
+p
+0.00022247
+0.000182
+R2
+0.84321
+F
+43.0248
+Exhibit__(TEP-10B) 
+Page 23 of 53
+66
+
+
+--- Page 70 ---
+ 
+SC 17-7 Seasonal Off-Peak Transport  
+ 
+ 
+SC 18-5A Non-Core Transport 
+ 
+SC 18 Small Electric Generator Transport 
+ 
+SC 18-6C TC Comm / Ind Transport 
+ 
+Rate Class:
+SC 17-7 Seasonal Off-Peak Transport 
+Rate Code:
+T7
+Description:
+TRANSPORTATION SEASONAL OFF PEAK
+Model:
+Use Per Customer
+Submodel:
+model
+Equation:
+6.76627
++
+0.000000
+*
+constant
+Overall R2
+0.54792347
+Rate Class:
+SC 18-6C TC Comm / Ind Transport
+Rate Code:
+T6CT-1
+Description:
+TRANSPORTATION TC COMMERCIAL RS 1 (NO PBT)
+Model:
+Use Per Customer
+Submodel:
+model
+Equation:
+132.453
++
+0.000000
+*
+constant
+Overall R2
+0.68880965
+Exhibit__(TEP-10B) 
+Page 24 of 53
+67
+
+
+--- Page 71 ---
+ 
+ 
+ 
+ 
+Rate Class:
+SC 18-6C TC Comm / Ind Transport
+Rate Code:
+T6C-2
+Description:
+TRANSPORTATION TC COMMERCIAL RS 2
+Model:
+Use Per Customer
+Submodel:
+model
+Equation:
+102260.799
++
+-50.504400
+*
+TimeLinear
+SE
+30700.3211
+15.271700
+t
+3.3309
+-3.307100
+p
+0.01037
+0.010745
+R2
+0.58146
+F
+11.1138
+Rate Class:
+SC 18-6C TC Comm / Ind Transport
+Rate Code:
+T6CT-2
+Description:
+TRANSPORTATION TC COMMERCIAL RS 2 (NO PBT)
+Model:
+Use Per Customer
+Submodel:
+model
+Equation:
+123744.222
++
+-61.020400
+*
+TimeLinear
+SE
+36251.5075
+18.033100
+t
+3.4135
+-3.383800
+p
+0.0091757
+0.009588
+R2
+0.59271
+F
+11.642
+Rate Class:
+SC 18-6C TC Comm / Ind Transport
+Rate Code:
+T6C-1
+Description:
+TRANSPORTATION TC COMMERCIAL RS 1
+Model:
+Use Per Customer
+Submodel:
+model
+Equation:
+8486.197
++
+-4.166300
+*
+TimeLinear
+SE
+2978.2446
+1.481500
+t
+2.8494
+-2.812200
+p
+0.021499
+0.022765
+R2
+0.49825
+F
+7.9443
+Exhibit__(TEP-10B) 
+Page 25 of 53
+68
+
+
+--- Page 72 ---
+SC 18-6G TC Governmental Transport 
+ 
+ 
+ 
+SC 18-6M TC Multi-Family Transport 
+ 
+Rate Class:
+SC 18-6G TC Governmental Transport
+Rate Code:
+T6G-2
+Description:
+TRANSPORTATION TC GOVERNMENT RS 2
+Model:
+Use Per Customer
+Submodel:
+model
+Equation:
+24433.5158
++
+12.647200
+*
+FHSTKMFA
+SE
+7535.7699
+3.854000
+t
+-3.2423
+3.281600
+p
+0.011836
+0.011162
+R2
+0.60341
+F
+12.1721
+Rate Class:
+SC 18-6G TC Governmental Transport
+Rate Code:
+T6G-1
+Description:
+TRANSPORTATION TC GOVERNMENT RS 1
+Model:
+Use Per Customer
+Submodel:
+model
+Equation:
+611.7887
++
+0.003448
+*
+FYPDPIA
+SE
+115.3474
+0.000598
+t
+-5.3039
+5.769300
+p
+0.00072499
+0.000420
+R2
+0.80625
+F
+33.2896
+Rate Class:
+SC 18-6M TC Multi-Family Transport
+Rate Code:
+T6M-2
+Description:
+TRANSPORTATION TC MULTI-FAMILY RS 2
+Model:
+Use Per Customer
+Submodel:
+model
+Equation:
+109.871
++
+0.000000
+*
+constant
+Overall R2
+0.84449059
+Exhibit__(TEP-10B) 
+Page 26 of 53
+69
+
+
+--- Page 73 ---
+ 
+ 
+ 
+ 
+SC 20 Large Electric Generator Transport 
+ 
+ 
+Rate Class:
+SC 18-6M TC Multi-Family Transport
+Rate Code:
+T6M-3
+Description:
+TRANSPORTATION TC MULTI-FAMILY RS 3
+Model:
+Use Per Customer
+Submodel:
+model
+Equation:
+216.378
++
+0.000000
+*
+constant
+Overall R2
+0.84523128
+Rate Class:
+SC 18-6M TC Multi-Family Transport
+Rate Code:
+T6M-1
+Description:
+TRANSPORTATION TC MULTI-FAMILY RS 1
+Model:
+Use Per Customer
+Submodel:
+model
+Equation:
+208.274
++
+0.001551
+*
+FYHHMEDA
+SE
+101.2003
+0.000573
+t
+-2.058
+2.704700
+p
+0.073584
+0.026878
+R2
+0.48316
+F
+7.4787
+Rate Class:
+SC 18-6M TC Multi-Family Transport
+Rate Code:
+T6M-4
+Description:
+TRANSPORTATION TC MULTI-FAMILY RS 4
+Model:
+Use Per Customer
+Submodel:
+model
+Equation:
+3038.174
++
+38.078400
+*
+FEGVA
+SE
+1291.2353
+12.551900
+t
+-2.3529
+3.033700
+p
+0.046469
+0.016218
+R2
+0.62746
+F
+13.4743
+Exhibit__(TEP-10B) 
+Page 27 of 53
+70
+
+
+--- Page 74 ---
+ 
+Metamodels 
+ 
+ 
+ 
+ 
+Rate Class:
+#N/A
+Rate Code:
+Res Heat Sales
+Description:
+#N/A
+Model:
+Use Per Customer
+Submodel:
+slopemodel
+Equation:
+0.211885
++
+0.000000
+*
+constant
+Overall R2
+NULL
+Rate Class:
+#N/A
+Rate Code:
+Res Heating
+Description:
+#N/A
+Model:
+Use Per Customer
+Submodel:
+slopemodel
+Equation:
+0.215737
++
+0.000000
+*
+constant
+Overall R2
+NULL
+Rate Class:
+#N/A
+Rate Code:
+All Trans
+Description:
+#N/A
+Model:
+Use Per Customer
+Submodel:
+slopemodel
+Equation:
+0.282689
++
+0.000000
+*
+constant
+Overall R2
+NULL
+Rate Class:
+#N/A
+Rate Code:
+LLF Trans
+Description:
+#N/A
+Model:
+Use Per Customer
+Submodel:
+slopemodel
+Equation:
+1.12804
++
+0.000000
+*
+constant
+Overall R2
+NULL
+Exhibit__(TEP-10B) 
+Page 28 of 53
+71
+
+
+--- Page 75 ---
+ 
+ 
+ 
+ 
+Rate Class:
+#N/A
+Rate Code:
+Res NH Trans
+Description:
+#N/A
+Model:
+Use Per Customer
+Submodel:
+model
+Equation:
+0.592736
++
+0.000000
+*
+constant
+Overall R2
+0.92960376
+Rate Class:
+#N/A
+Rate Code:
+LLF Sales
+Description:
+#N/A
+Model:
+Use Per Customer
+Submodel:
+basemodel
+Equation:
+1.85355
++
+0.000000
+*
+constant
+Overall R2
+NULL
+Rate Class:
+#N/A
+Rate Code:
+TC Multi Family Trans
+Description:
+#N/A
+Model:
+Use Per Customer
+Submodel:
+model
+Equation:
+158.872
++
+0.000000
+*
+constant
+Overall R2
+0.82012769
+Rate Class:
+#N/A
+Rate Code:
+C & I NGV
+Description:
+#N/A
+Model:
+Use Per Customer
+Submodel:
+model
+Equation:
+1652.58
++
+0.000000
+*
+constant
+Overall R2
+0.69564934
+Exhibit__(TEP-10B) 
+Page 29 of 53
+72
+
+
+--- Page 76 ---
+ 
+ 
+ 
+ 
+ 
+ 
+Rate Class:
+#N/A
+Rate Code:
+Low Load Factor
+Description:
+#N/A
+Model:
+Use Per Customer
+Submodel:
+basemodel
+Equation:
+2.42079
++
+0.000000
+*
+constant
+Overall R2
+NULL
+Rate Class:
+#N/A
+Rate Code:
+Multi Heat Trans
+Description:
+#N/A
+Model:
+Use Per Customer
+Submodel:
+basemodel
+Equation:
+28.8099
++
+0.000000
+*
+constant
+Overall R2
+NULL
+Rate Class:
+#N/A
+Rate Code:
+Multi Heat Trans
+Description:
+#N/A
+Model:
+Use Per Customer
+Submodel:
+slopemodel
+Equation:
+4.65249
++
+0.000000
+*
+constant
+Overall R2
+NULL
+Rate Class:
+#N/A
+Rate Code:
+Multi Trans
+Description:
+#N/A
+Model:
+Use Per Customer
+Submodel:
+basemodel
+Equation:
+28.0713
++
+0.000000
+*
+constant
+Overall R2
+NULL
+Exhibit__(TEP-10B) 
+Page 30 of 53
+73
+
+
+--- Page 77 ---
+ 
+ 
+ 
+Rate Class:
+#N/A
+Rate Code:
+Multi Trans
+Description:
+#N/A
+Model:
+Use Per Customer
+Submodel:
+slopemodel
+Equation:
+4.46525
++
+0.000000
+*
+constant
+Overall R2
+NULL
+Rate Class:
+#N/A
+Rate Code:
+Multi Non-Heating Sales
+Description:
+#N/A
+Model:
+Use Per Customer
+Submodel:
+model
+Equation:
+7.70004
++
+0.000000
+*
+constant
+Overall R2
+0.80612674
+Rate Class:
+#N/A
+Rate Code:
+Residential
+Description:
+#N/A
+Model:
+Use Per Customer
+Submodel:
+slopemodel
+Equation:
+0.066802
++
+0.000358
+*
+FEPSA
+SE
+0.0066126
+0.000062
+t
+10.1022
+5.759500
+p
+3.2875E-06
+0.000273
+R2
+0.79029
+F
+33.9163
+Exhibit__(TEP-10B) 
+Page 31 of 53
+74
+
+
+--- Page 78 ---
+ 
+ 
+ 
+Rate Class:
+#N/A
+Rate Code:
+Residential
+Description:
+#N/A
+Model:
+Use Per Customer
+Submodel:
+basemodel
+Equation:
+0.40034
++
+0.002721
+*
+FEMFA
+SE
+0.054755
+0.000972
+t
+7.3115
+2.798400
+p
+0.00004509
+0.020766
+R2
+0.46532
+F
+7.8326
+Rate Class:
+#N/A
+Rate Code:
+Comm & Indust
+Description:
+#N/A
+Model:
+Use Per Customer
+Submodel:
+slopemodel
+Equation:
+0.22359
++
+0.001655
+*
+FEEHA
+SE
+0.078972
+0.000176
+t
+-2.8313
+9.390900
+p
+0.01968
+0.000006
+R2
+0.90855
+F
+89.4165
+Rate Class:
+#N/A
+Rate Code:
+Res Trans
+Description:
+#N/A
+Model:
+Use Per Customer
+Submodel:
+slopemodel
+Equation:
+0.086501
++
+0.004188
+*
+FEMFA
+SE
+0.032636
+0.000579
+t
+-2.6505
+7.227300
+p
+0.026455
+0.000049
+R2
+0.85367
+F
+52.5031
+Exhibit__(TEP-10B) 
+Page 32 of 53
+75
+
+
+--- Page 79 ---
+ 
+ 
+ 
+ 
+Rate Class:
+#N/A
+Rate Code:
+Res Trans
+Description:
+#N/A
+Model:
+Use Per Customer
+Submodel:
+basemodel
+Equation:
+0.52021
++
+0.023419
+*
+FEMFA
+SE
+0.14657
+0.002602
+t
+-3.5492
+8.999300
+p
+0.0062233
+0.000009
+R2
+0.9001
+F
+81.0926
+Rate Class:
+#N/A
+Rate Code:
+Res Non-Heating
+Description:
+#N/A
+Model:
+Use Per Customer
+Submodel:
+model
+Equation:
+0.14202
++
+0.001976
+*
+FELHA
+SE
+0.036179
+0.000369
+t
+3.9254
+5.356500
+p
+0.004385
+0.000681
+R2
+0.78197
+F
+28.6925
+Rate Class:
+#N/A
+Rate Code:
+Res NH Sales
+Description:
+#N/A
+Model:
+Use Per Customer
+Submodel:
+model
+Equation:
+0.14909
++
+0.001441
+*
+FELHA
+SE
+0.041945
+0.000428
+t
+3.5543
+3.368900
+p
+0.0074625
+0.009802
+R2
+0.58657
+F
+11.3502
+Exhibit__(TEP-10B) 
+Page 33 of 53
+76
+
+
+--- Page 80 ---
+ 
+ 
+ 
+Rate Class:
+#N/A
+Rate Code:
+Low Load Factor
+Description:
+#N/A
+Model:
+Use Per Customer
+Submodel:
+slopemodel
+Equation:
+0.35449
++
+0.003068
+*
+FEPSA
+SE
+0.14013
+0.001316
+t
+2.5297
+2.332000
+p
+0.032251
+0.044600
+R2
+0.37678
+F
+5.441
+Rate Class:
+#N/A
+Rate Code:
+Firm Trans
+Description:
+#N/A
+Model:
+Use Per Customer
+Submodel:
+slopemodel
+Equation:
+0.41044
++
+-0.000494
+*
+FLBUA
+SE
+0.038488
+0.000153
+t
+10.6639
+-3.229200
+p
+2.0904E-06
+0.010335
+R2
+0.53686
+F
+10.4325
+Rate Class:
+#N/A
+Rate Code:
+C & I Sales
+Description:
+#N/A
+Model:
+Use Per Customer
+Submodel:
+slopemodel
+Equation:
+0.41301
++
+0.000624
+*
+FETA
+SE
+0.085237
+0.000062
+t
+-4.8454
+10.100500
+p
+0.00091419
+0.000003
+R2
+0.9202
+F
+103.7808
+Exhibit__(TEP-10B) 
+Page 34 of 53
+77
+
+
+--- Page 81 ---
+ 
+ 
+ 
+Rate Class:
+#N/A
+Rate Code:
+Res Heating
+Description:
+#N/A
+Model:
+Use Per Customer
+Submodel:
+basemodel
+Equation:
+0.41673
++
+0.008892
+*
+FEMFA
+SE
+0.089434
+0.001588
+t
+4.6597
+5.599700
+p
+0.0011858
+0.000334
+R2
+0.777
+F
+31.3585
+Rate Class:
+#N/A
+Rate Code:
+All
+Description:
+#N/A
+Model:
+Use Per Customer
+Submodel:
+basemodel
+Equation:
+0.55442
++
+0.008506
+*
+FE23A
+SE
+0.22558
+0.002621
+t
+2.4577
+3.245600
+p
+0.036295
+0.010068
+R2
+0.54802
+F
+10.9123
+Rate Class:
+#N/A
+Rate Code:
+Res Sales
+Description:
+#N/A
+Model:
+Use Per Customer
+Submodel:
+basemodel
+Equation:
+0.75548
++
+0.056041
+*
+FE51A
+SE
+0.36796
+0.016070
+t
+-2.0532
+3.487200
+p
+0.070251
+0.006860
+R2
+0.58124
+F
+12.4921
+Exhibit__(TEP-10B) 
+Page 35 of 53
+78
+
+
+--- Page 82 ---
+ 
+ 
+ 
+Rate Class:
+#N/A
+Rate Code:
+C & I Trans
+Description:
+#N/A
+Model:
+Use Per Customer
+Submodel:
+slopemodel
+Equation:
+0.8982
++
+-0.008615
+*
+NGPRCC
+SE
+0.048123
+0.003435
+t
+18.6645
+-2.508100
+p
+1.6688E-08
+0.033412
+R2
+0.46499
+F
+7.8221
+Rate Class:
+#N/A
+Rate Code:
+Firm Sales
+Description:
+#N/A
+Model:
+Use Per Customer
+Submodel:
+basemodel
+Equation:
+1.0568
++
+-0.033076
+*
+FLBRA
+SE
+0.067552
+0.008070
+t
+15.6445
+-4.098600
+p
+7.8242E-08
+0.002682
+R2
+0.65118
+F
+16.8011
+Rate Class:
+#N/A
+Rate Code:
+LLF Sales
+Description:
+#N/A
+Model:
+Use Per Customer
+Submodel:
+slopemodel
+Equation:
+1.2157
++
+0.000643
+*
+FLBEA
+SE
+0.49221
+0.000177
+t
+-2.4699
+3.630200
+p
+0.035576
+0.005484
+R2
+0.61303
+F
+14.2576
+Exhibit__(TEP-10B) 
+Page 36 of 53
+79
+
+
+--- Page 83 ---
+ 
+ 
+ 
+Rate Class:
+#N/A
+Rate Code:
+All Sales
+Description:
+#N/A
+Model:
+Use Per Customer
+Submodel:
+basemodel
+Equation:
+1.3906
++
+-0.001588
+*
+FLBUA
+SE
+0.076181
+0.000303
+t
+18.2542
+-5.249500
+p
+2.0288E-08
+0.000528
+R2
+0.75381
+F
+27.5574
+Rate Class:
+#N/A
+Rate Code:
+Multi Sales
+Description:
+#N/A
+Model:
+Use Per Customer
+Submodel:
+slopemodel
+Equation:
+1.9714
++
+-0.090580
+*
+FLBRA
+SE
+0.13922
+0.016632
+t
+14.1605
+-5.446200
+p
+1.8584E-07
+0.000408
+R2
+0.78002
+F
+31.9128
+Rate Class:
+#N/A
+Rate Code:
+Non-Firm Sales
+Description:
+#N/A
+Model:
+Use Per Customer
+Submodel:
+model
+Equation:
+12836.2753
++
+-6.300600
+*
+TimeLinear
+SE
+2173.3598
+1.081100
+t
+5.9062
+-5.827800
+p
+0.00035923
+0.000393
+R2
+0.8173
+F
+35.7878
+Exhibit__(TEP-10B) 
+Page 37 of 53
+80
+
+
+--- Page 84 ---
+ 
+ 
+ 
+Rate Class:
+#N/A
+Rate Code:
+TC Sales
+Description:
+#N/A
+Model:
+Use Per Customer
+Submodel:
+model
+Equation:
+12836.2753
++
+-6.300600
+*
+TimeLinear
+SE
+2173.3598
+1.081100
+t
+5.9062
+-5.827800
+p
+0.00035923
+0.000393
+R2
+0.8173
+F
+35.7878
+Rate Class:
+#N/A
+Rate Code:
+HLF Sales
+Description:
+#N/A
+Model:
+Use Per Customer
+Submodel:
+model
+Equation:
+13.5558
++
+0.020383
+*
+FNMA
+SE
+0.24474
+0.003234
+t
+55.3877
+6.301900
+p
+1.2527E-11
+0.000232
+R2
+0.84539
+F
+43.7418
+Rate Class:
+#N/A
+Rate Code:
+All Trans
+Description:
+#N/A
+Model:
+Use Per Customer
+Submodel:
+basemodel
+Equation:
+130.0849
++
+-0.063314
+*
+TimeLinear
+SE
+53.5399
+0.026638
+t
+2.4297
+-2.376900
+p
+0.038002
+0.041440
+R2
+0.38582
+F
+5.6536
+Exhibit__(TEP-10B) 
+Page 38 of 53
+81
+
+
+--- Page 85 ---
+ 
+ 
+ 
+Rate Class:
+#N/A
+Rate Code:
+Non-Firm
+Description:
+#N/A
+Model:
+Use Per Customer
+Submodel:
+model
+Equation:
+13259.4933
++
+-6.508500
+*
+TimeLinear
+SE
+2518.6533
+1.252900
+t
+5.2645
+-5.194800
+p
+0.00076033
+0.000828
+R2
+0.78253
+F
+28.7868
+Rate Class:
+#N/A
+Rate Code:
+TC
+Description:
+#N/A
+Model:
+Use Per Customer
+Submodel:
+model
+Equation:
+13259.4933
++
+-6.508500
+*
+TimeLinear
+SE
+2518.6533
+1.252900
+t
+5.2645
+-5.194800
+p
+0.00076033
+0.000828
+R2
+0.78253
+F
+28.7868
+Rate Class:
+#N/A
+Rate Code:
+TC Govt Trans
+Description:
+#N/A
+Model:
+Use Per Customer
+Submodel:
+model
+Equation:
+19031.8194
++
+9.855400
+*
+FHSTKMFA
+SE
+6475.6095
+3.311800
+t
+-2.939
+2.975800
+p
+0.018738
+0.017713
+R2
+0.56741
+F
+10.4933
+Exhibit__(TEP-10B) 
+Page 39 of 53
+82
+
+
+--- Page 86 ---
+ 
+ 
+ 
+Rate Class:
+#N/A
+Rate Code:
+Multi Heat Sales
+Description:
+#N/A
+Model:
+Use Per Customer
+Submodel:
+slopemodel
+Equation:
+2.0964
++
+-0.003188
+*
+FLBUA
+SE
+0.13142
+0.000522
+t
+15.9517
+-6.107800
+p
+6.6045E-08
+0.000178
+R2
+0.81815
+F
+40.4923
+Rate Class:
+#N/A
+Rate Code:
+Multi Family Non-Heating
+Description:
+#N/A
+Model:
+Use Per Customer
+Submodel:
+model
+Equation:
+2.56
++
+0.066454
+*
+FELHA
+SE
+0.96777
+0.009868
+t
+2.6452
+6.734200
+p
+0.029474
+0.000147
+R2
+0.85005
+F
+45.3496
+Rate Class:
+#N/A
+Rate Code:
+C & I NGV Sales
+Description:
+#N/A
+Model:
+Use Per Customer
+Submodel:
+model
+Equation:
+2071.8886
++
+57.203000
+*
+FEMFA
+SE
+441.5294
+7.704800
+t
+-4.6925
+7.424300
+p
+0.0015564
+0.000074
+R2
+0.87824
+F
+57.7019
+Exhibit__(TEP-10B) 
+Page 40 of 53
+83
+
+
+--- Page 87 ---
+ 
+ 
+ 
+Rate Class:
+#N/A
+Rate Code:
+Multi Non-Heating Trans
+Description:
+#N/A
+Model:
+Use Per Customer
+Submodel:
+model
+Equation:
+21.626
++
+0.000209
+*
+FGDP$A
+SE
+5.4115
+0.000032
+t
+-3.9963
+6.584600
+p
+0.0039703
+0.000172
+R2
+0.84922
+F
+45.0586
+Rate Class:
+#N/A
+Rate Code:
+C & I NGV Trans
+Description:
+#N/A
+Model:
+Use Per Customer
+Submodel:
+model
+Equation:
+26412.8806
++
+10.322700
+*
+FLBEA
+SE
+9837.5686
+3.563900
+t
+-2.6849
+2.896500
+p
+0.027715
+0.020000
+R2
+0.5119
+F
+8.3902
+Rate Class:
+#N/A
+Rate Code:
+Non-Firm Trans
+Description:
+#N/A
+Model:
+Use Per Customer
+Submodel:
+model
+Equation:
+265.9215
++
+0.311580
+*
+FHX1MEDA
+SE
+127.3066
+0.081658
+t
+-2.0888
+3.815700
+p
+0.070146
+0.005121
+R2
+0.64589
+F
+14.5918
+Exhibit__(TEP-10B) 
+Page 41 of 53
+84
+
+
+--- Page 88 ---
+ 
+ 
+ 
+Rate Class:
+#N/A
+Rate Code:
+TC Trans
+Description:
+#N/A
+Model:
+Use Per Customer
+Submodel:
+model
+Equation:
+265.9215
++
+0.311580
+*
+FHX1MEDA
+SE
+127.3066
+0.081658
+t
+-2.0888
+3.815700
+p
+0.070146
+0.005121
+R2
+0.64589
+F
+14.5918
+Rate Class:
+#N/A
+Rate Code:
+HLF Trans
+Description:
+#N/A
+Model:
+Use Per Customer
+Submodel:
+model
+Equation:
+34.3714
++
+0.000469
+*
+FYPCPIA
+SE
+11.0892
+0.000079
+t
+-3.0995
+5.965200
+p
+0.014676
+0.000336
+R2
+0.81647
+F
+35.5898
+Rate Class:
+#N/A
+Rate Code:
+Multi Sales
+Description:
+#N/A
+Model:
+Use Per Customer
+Submodel:
+basemodel
+Equation:
+35.7371
++
+0.495370
+*
+FE23A
+SE
+17.1826
+0.199620
+t
+-2.0798
+2.481600
+p
+0.067283
+0.034902
+R2
+0.41032
+F
+6.2626
+Exhibit__(TEP-10B) 
+Page 42 of 53
+85
+
+
+--- Page 89 ---
+ 
+ 
+ 
+Rate Class:
+#N/A
+Rate Code:
+Multi Heat Sales
+Description:
+#N/A
+Model:
+Use Per Customer
+Submodel:
+basemodel
+Equation:
+38.5046
++
+0.529100
+*
+FE23A
+SE
+18.2271
+0.211750
+t
+-2.1125
+2.498700
+p
+0.06381
+0.033936
+R2
+0.41361
+F
+6.3482
+Rate Class:
+#N/A
+Rate Code:
+Comm & Indust
+Description:
+#N/A
+Model:
+Use Per Customer
+Submodel:
+basemodel
+Equation:
+4.625
++
+0.020554
+*
+FEPSA
+SE
+0.74824
+0.007024
+t
+6.1812
+2.926200
+p
+0.0001625
+0.016860
+R2
+0.48757
+F
+8.5633
+Rate Class:
+#N/A
+Rate Code:
+Res DG Sales
+Description:
+#N/A
+Model:
+Use Per Customer
+Submodel:
+model
+Equation:
+46.3423
++
+0.000363
+*
+FYPCPIA
+SE
+#VALUE!
+#VALUE!
+t
+#VALUE!
+#VALUE!
+p
+0.040084
+0.027140
+R2
+6.0787
+F
+-9.5752
+Exhibit__(TEP-10B) 
+Page 43 of 53
+86
+
+
+--- Page 90 ---
+ 
+ 
+ 
+Rate Class:
+#N/A
+Rate Code:
+Res Distributed Generation
+Description:
+#N/A
+Model:
+Use Per Customer
+Submodel:
+model
+Equation:
+46.3423
++
+0.000363
+*
+FYPCPIA
+SE
+#VALUE!
+#VALUE!
+t
+#VALUE!
+#VALUE!
+p
+0.040084
+0.027140
+R2
+6.0787
+F
+-9.5752
+Rate Class:
+#N/A
+Rate Code:
+TC Comm
+Description:
+#N/A
+Model:
+Use Per Customer
+Submodel:
+model
+Equation:
+46109.6037
++
+-22.754000
+*
+TimeLinear
+SE
+5278.927
+2.626000
+t
+8.7347
+-8.665000
+p
+2.3079E-05
+0.000024
+R2
+0.90537
+F
+76.5432
+Rate Class:
+#N/A
+Rate Code:
+TC Multi Family
+Description:
+#N/A
+Model:
+Use Per Customer
+Submodel:
+model
+Equation:
+62.544
++
+1.409000
+*
+FEMFA
+SE
+21.1572
+0.369200
+t
+2.9562
+3.816300
+p
+0.018253
+0.005117
+R2
+0.67884
+F
+16.9099
+Exhibit__(TEP-10B) 
+Page 44 of 53
+87
+
+
+--- Page 91 ---
+ 
+ 
+ 
+Rate Class:
+#N/A
+Rate Code:
+TC Multi Family Sales
+Description:
+#N/A
+Model:
+Use Per Customer
+Submodel:
+model
+Equation:
+7600.7802
++
+-3.712000
+*
+TimeLinear
+SE
+1876.9329
+0.933670
+t
+4.0496
+-3.975700
+p
+0.0036864
+0.004086
+R2
+0.68958
+F
+17.7711
+Rate Class:
+#N/A
+Rate Code:
+Multi Family
+Description:
+#N/A
+Model:
+Use Per Customer
+Submodel:
+slopemodel
+Equation:
+8.3357
++
+0.000074
+*
+FYPCPIA
+SE
+0.96454
+0.000007
+t
+-8.6421
+10.894900
+p
+1.1885E-05
+0.000002
+R2
+0.92953
+F
+118.7057
+Rate Class:
+#N/A
+Rate Code:
+Multi Family Heating
+Description:
+#N/A
+Model:
+Use Per Customer
+Submodel:
+slopemodel
+Equation:
+8.5211
++
+0.000076
+*
+FYPCPIA
+SE
+1.0379
+0.000007
+t
+-8.2099
+10.425900
+p
+1.7987E-05
+0.000003
+R2
+0.92354
+F
+108.7019
+Exhibit__(TEP-10B) 
+Page 45 of 53
+88
+
+
+--- Page 92 ---
+ 
+ 
+ 
+Rate Class:
+#N/A
+Rate Code:
+C & I Trans
+Description:
+#N/A
+Model:
+Use Per Customer
+Submodel:
+basemodel
+Equation:
+8.5457
++
+0.003153
+*
+FHX1MEDA
+SE
+1.5808
+0.001014
+t
+5.4059
+3.109000
+p
+0.0004297
+0.012538
+R2
+0.55588
+F
+11.2647
+Rate Class:
+#N/A
+Rate Code:
+TC Govt
+Description:
+#N/A
+Model:
+Use Per Customer
+Submodel:
+model
+Equation:
+973.8859
++
+55.419000
+*
+FE51A
+SE
+311.1202
+13.549300
+t
+-3.1303
+4.090200
+p
+0.01401
+0.003485
+R2
+0.67727
+F
+16.7883
+Rate Class:
+#N/A
+Rate Code:
+TC Govt Sales
+Description:
+#N/A
+Model:
+Use Per Customer
+Submodel:
+model
+Equation:
+983.7644
++
+55.801700
+*
+FE51A
+SE
+331.9356
+14.455800
+t
+-2.9637
+3.860100
+p
+0.018043
+0.004808
+R2
+0.65153
+F
+14.9578
+Exhibit__(TEP-10B) 
+Page 46 of 53
+89
+
+
+--- Page 93 ---
+ 
+ 
+ 
+Rate Class:
+#N/A
+Rate Code:
+All
+Description:
+#N/A
+Model:
+Use Per Customer
+Submodel:
+slopemodel
+Equation:
+0.093152
++
+0.032288
+* log ( time + 
+-1997.8748
+ )
+SE
+0.10438
+0.031490
+9.46
+t
+0.89246
+1.025300
+-211.1929
+p
+0.39819
+0.335210
+2.8282E-16
+R2
+0.89593
+F
+NaN
+Rate Class:
+#N/A
+Rate Code:
+Res Sales
+Description:
+#N/A
+Model:
+Use Per Customer
+Submodel:
+slopemodel
+Equation:
+0.12557
++
+0.062254
+* log ( time + 
+-1971.937
+ )
+SE
+1.4206
+0.308500
+181.6202
+t
+-0.088395
+0.201790
+-10.8575
+p
+0.93174
+0.845110
+0.000004578
+R2
+0.81393
+F
+NaN
+Rate Class:
+#N/A
+Rate Code:
+All Sales
+Description:
+#N/A
+Model:
+Use Per Customer
+Submodel:
+slopemodel
+Equation:
+0.13621
++
+0.007501
+* log ( time + 
+-2002.0372
+ )
+SE
+0.029362
+0.011099
+6.5113
+t
+4.6391
+0.675830
+-307.4731
+p
+0.0016682
+0.518210
+1.4016E-17
+R2
+0.53537
+F
+NaN
+Exhibit__(TEP-10B) 
+Page 47 of 53
+90
+
+
+--- Page 94 ---
+ 
+ 
+ 
+Rate Class:
+#N/A
+Rate Code:
+Res Heat Trans
+Description:
+#N/A
+Model:
+Use Per Customer
+Submodel:
+slopemodel
+Equation:
+0.36009
++
+-0.047140
+* log ( time + 
+-1997.0798
+ )
+SE
+0.092611
+0.027263
+6.1305
+t
+3.8882
+-1.729100
+-325.7626
+p
+0.0046211
+0.122060
+8.8286E-18
+R2
+0.96447
+F
+NaN
+Rate Class:
+#N/A
+Rate Code:
+FIRM SENDOUT
+Description:
+#N/A
+Model:
+Use Per Customer
+Submodel:
+basemodel
+Equation:
+0.4641
++
+0.236040
+* log ( time + 
+-1996.7909
+ )
+SE
+1.1171
+0.326160
+15.0932
+t
+0.41546
+0.723720
+-132.2973
+p
+0.68873
+0.489860
+1.1915E-14
+R2
+0.85096
+F
+NaN
+Rate Class:
+#N/A
+Rate Code:
+Firm
+Description:
+#N/A
+Model:
+Use Per Customer
+Submodel:
+basemodel
+Equation:
+0.4641
++
+0.236040
+* log ( time + 
+-1996.7909
+ )
+SE
+1.1171
+0.326160
+15.0932
+t
+0.41546
+0.723720
+-132.2973
+p
+0.68873
+0.489860
+1.1915E-14
+R2
+0.85096
+F
+NaN
+Exhibit__(TEP-10B) 
+Page 48 of 53
+91
+
+
+--- Page 95 ---
+ 
+ 
+ 
+Rate Class:
+#N/A
+Rate Code:
+Firm Sales
+Description:
+#N/A
+Model:
+Use Per Customer
+Submodel:
+slopemodel
+Equation:
+0.48565
++
+0.139240
+* log ( time + 
+-1929.5864
+ )
+SE
+9.3286
+1.736200
+987.7328
+t
+-0.05206
+0.080199
+-1.9536
+p
+0.95976
+0.938050
+0.086516
+R2
+0.75182
+F
+NaN
+Rate Class:
+#N/A
+Rate Code:
+Multi Family
+Description:
+#N/A
+Model:
+Use Per Customer
+Submodel:
+basemodel
+Equation:
+0.81131
++
+5.342000
+* log ( time + 
+-2001.3205
+ )
+SE
+9.4916
+3.376100
+3.4415
+t
+0.085477
+1.582300
+-581.5223
+p
+0.93398
+0.152240
+8.5635E-20
+R2
+0.89527
+F
+NaN
+Rate Class:
+#N/A
+Rate Code:
+Multi Family Heating
+Description:
+#N/A
+Model:
+Use Per Customer
+Submodel:
+basemodel
+Equation:
+1.0462
++
+5.472400
+* log ( time + 
+-2001.5172
+ )
+SE
+9.2492
+3.339500
+3.1544
+t
+0.11311
+1.638700
+-634.521
+p
+0.91273
+0.139910
+4.2621E-20
+R2
+0.89175
+F
+NaN
+Exhibit__(TEP-10B) 
+Page 49 of 53
+92
+
+
+--- Page 96 ---
+ 
+ 
+ 
+Rate Class:
+#N/A
+Rate Code:
+Res Heat Sales
+Description:
+#N/A
+Model:
+Use Per Customer
+Submodel:
+basemodel
+Equation:
+1.2509
++
+-0.171290
+* log ( time + 
+-2001.3928
+ )
+SE
+0.3354
+0.119940
+3.7424
+t
+3.7295
+-1.428100
+-534.7837
+p
+0.005792
+0.191110
+1.674E-19
+R2
+0.88615
+F
+NaN
+Rate Class:
+#N/A
+Rate Code:
+Res Heat Trans
+Description:
+#N/A
+Model:
+Use Per Customer
+Submodel:
+basemodel
+Equation:
+1.2611
++
+-0.141980
+* log ( time + 
+-2001.5013
+ )
+SE
+0.35296
+0.127280
+4.654
+t
+3.573
+-1.115500
+-430.0628
+p
+0.0072621
+0.297020
+9.5696E-19
+R2
+0.78667
+F
+NaN
+Rate Class:
+#N/A
+Rate Code:
+High Load Factor
+Description:
+#N/A
+Model:
+Use Per Customer
+Submodel:
+model
+Equation:
+1.3388
++
+9.164600
+* log ( time + 
+-2000.5452
+ )
+SE
+25.8518
+8.423700
+6.8694
+t
+-0.051789
+1.088000
+-291.2265
+p
+0.96014
+0.312650
+1.4861E-15
+R2
+0.89718
+F
+NaN
+Exhibit__(TEP-10B) 
+Page 50 of 53
+93
+
+
+--- Page 97 ---
+ 
+ 
+ 
+Rate Class:
+#N/A
+Rate Code:
+FIRM SENDOUT
+Description:
+#N/A
+Model:
+Use Per Customer
+Submodel:
+slopemodel
+Equation:
+1.9718
++
+0.443760
+* log ( time + 
+-1891.1983
+ )
+SE
+18.621
+3.228200
+855.9687
+t
+-0.10589
+0.137460
+-2.2094
+p
+0.91828
+0.894060
+0.058133
+R2
+0.94823
+F
+NaN
+Rate Class:
+#N/A
+Rate Code:
+Firm
+Description:
+#N/A
+Model:
+Use Per Customer
+Submodel:
+slopemodel
+Equation:
+1.9718
++
+0.443760
+* log ( time + 
+-1891.1983
+ )
+SE
+18.621
+3.228200
+855.9686
+t
+-0.10589
+0.137460
+-2.2094
+p
+0.91828
+0.894060
+0.058133
+R2
+0.94823
+F
+NaN
+Rate Class:
+#N/A
+Rate Code:
+C & I Sales
+Description:
+#N/A
+Model:
+Use Per Customer
+Submodel:
+basemodel
+Equation:
+10.2154
++
+-1.972300
+* log ( time + 
+-1990.9872
+ )
+SE
+17.4859
+4.533500
+39.4467
+t
+0.58421
+-0.435040
+-50.4729
+p
+0.57518
+0.675030
+2.6294E-11
+R2
+0.8968
+F
+NaN
+Exhibit__(TEP-10B) 
+Page 51 of 53
+94
+
+
+--- Page 98 ---
+ 
+ 
+ 
+Rate Class:
+#N/A
+Rate Code:
+TC Comm Sales
+Description:
+#N/A
+Model:
+Use Per Customer
+Submodel:
+model
+Equation:
+10064.9662
++
+-2081.823300
+* log ( time + 
+-1901.9848
+)
+SE
+138839.131
+24457.177300
+1261.6193
+t
+0.072494
+-0.085121
+-1.5076
+p
+0.94424
+0.934550
+0.1754
+R2
+0.89688
+F
+NaN
+Rate Class:
+#N/A
+Rate Code:
+Res DG Trans
+Description:
+#N/A
+Model:
+Use Per Customer
+Submodel:
+model
+Equation:
+0.000001
++
+0.000000
+* log ( time + 
+-2004
+)
+SE
+#VALUE!
+#VALUE!
+#VALUE!
+t
+#VALUE!
+#VALUE!
+#VALUE!
+p
+#VALUE!
+#VALUE!
+#VALUE!
+R2
+1
+F
+NaN
+Rate Class:
+#N/A
+Rate Code:
+Firm Trans
+Description:
+#N/A
+Model:
+Use Per Customer
+Submodel:
+basemodel
+Equation:
+21.9587
++
+-3.988300
+* log ( time + 
+-1881.9814
+)
+SE
+1164.6385
+199.300500
+6340.9535
+t
+0.018855
+-0.020011
+-0.2968
+p
+0.98542
+0.984520
+0.77418
+R2
+0.33767
+F
+NaN
+Exhibit__(TEP-10B) 
+Page 52 of 53
+95
+
+
+--- Page 99 ---
+ 
+ 
+Rate Class:
+#N/A
+Rate Code:
+TC Comm Trans
+Description:
+#N/A
+Model:
+Use Per Customer
+Submodel:
+model
+Equation:
+5297.571
++
+-1425.488100
+* log ( time + 
+-1982.9942
+)
+SE
+12117.1013
+2841.295300
+51.8851
+t
+0.4372
+-0.501700
+-38.2189
+p
+0.67514
+0.631270
+2.1846E-09
+R2
+0.95039
+F
+NaN
+Rate Class:
+#N/A
+Rate Code:
+LLF Trans
+Description:
+#N/A
+Model:
+Use Per Customer
+Submodel:
+basemodel
+Equation:
+9.9435
++
+-2.139800
+* log ( time + 
+-1995.2661
+)
+SE
+23.8887
+6.710500
+39.52
+t
+0.41625
+-0.318870
+-50.4875
+p
+0.68817
+0.757990
+2.6233E-11
+R2
+0.58421
+F
+NaN
+Exhibit__(TEP-10B) 
+Page 53 of 53
+96
+
+
+--- Page 100 ---
+ 
+ 
+ 
+Exhibit__ (TEP-10C) 
+ 
+ 
+ 
+ 
+ 
+ 
+ 
+ 
+ 
+ 
+ 
+ 
+ 
+ 
+ 
+ 
+ 
+ 
+ 
+ 
+ 
+ 
+ 
+ 
+ 
+ 
+ 
+ 
+ 
+ 
+ 
+ 
+ 
+ 
+ 
+ 
+
+
+--- Page 101 ---
+Testimony of Theodore Poe, Jr. 
+ 
+ 
+ 
+ 
+ 
+ 
+ 
+ 
+ 
+ 
+ 
+Exhibit __ (TEP-10C) 
+ 
+Delivery Forecast Model Specifications – KEDLI – Meter Count 
+97
+
+
+--- Page 102 ---
+ 
+ 
+ 
+ 
+ 
+ 
+Delivery Forecast Model Specifications 
+KEDLI 
+Meter Count 
+ 
+ 
+Exhibit__(TEP-10C) 
+Page 1 of 32
+98
+
+
+--- Page 103 ---
+SC 1A Resi General Sales  
+ 
+ 
+SC 1A Resi Water Heat Sales 
+ 
+ 
+SC 1AR Resi General Reduced Rate Sales  
+ 
+ 
+Rate Class:
+SC 1A Resi General Sales 
+Rate Code:
+120
+Description:
+Residential - Non-Heating (Cooking/Drying)
+Model:
+Meter Count
+Equation:
+98619.1933
++
+-243.582900
+*
+time
+R2
+0.990955
+RV
+800221
+Rate Class:
+SC 1A Resi Water Heat Sales
+Rate Code:
+130
+Description:
+Residential - Non-Heating (Hot Water)
+Model:
+Meter Count
+Equation:
+48357.0609
++
+-107.765900
+*
+time
+R2
+0.980931
+RV
+301642
+Rate Class:
+SC 1AR Resi General Reduced Rate Sales 
+Rate Code:
+R120
+Description:
+Reduced Residential - Non-Heating (Cooking/Drying)
+Model:
+Meter Count
+Equation:
+constant
+RV
+37251.0014
+Exhibit__(TEP-10C) 
+Page 2 of 32
+99
+
+
+--- Page 104 ---
+SC 1AR Resi Water Heat Reduced Rate Sales 
+ 
+ 
+SC 1B Resi Space Heat Sales 
+ 
+ 
+SC 1BDG Resi Dist Gen Sales 
+ 
+ 
+Rate Class:
+SC 1AR Resi Water Heat Reduced Rate Sales
+Rate Code:
+R130
+Description:
+Reduced Residential - Non-Heating (Hot Water)
+Model:
+Meter Count
+Equation:
+constant
+RV
+9092.0997
+Rate Class:
+SC 1B Resi Space Heat Sales
+Rate Code:
+140
+Description:
+Residential - Heating
+Model:
+Meter Count
+Equation:
+298610.518
++
+406.089700
+*
+time
+R2
+0.803093
+RV
+64083600
+Rate Class:
+SC 1BDG Resi Dist Gen Sales
+Rate Code:
+150
+Description:
+Residential - Distributed Generation
+Model:
+Meter Count
+Equation:
+constant
+RV
+7.0319
+Exhibit__(TEP-10C) 
+Page 3 of 32
+100
+
+
+--- Page 105 ---
+SC 1BR Resi Space Heat Reduced Rate Sales 
+ 
+ 
+SC 2A Non Resi General Sales 
+ 
+ 
+ 
+Rate Class:
+SC 1BR Resi Space Heat Reduced Rate Sales
+Rate Code:
+R140
+Description:
+Reduced Residential - Heating
+Model:
+Meter Count
+Equation:
+30327.49
++
+8114.29
+*
+log ( time + 
+13.20
+)
+R2
+0.93425
+F
+715746
+Rate Class:
+SC 2A Non Resi General Sales
+Rate Code:
+250
+Description:
+Commercial - Non-Heating (General Use)
+Model:
+Meter Count
+Equation:
+6890.2608
++
+1.680300
+*
+time
+R2
+0.0412097
+RV
+114665
+Exhibit__(TEP-10C) 
+Page 4 of 32
+101
+
+
+--- Page 106 ---
+ 
+SC 2A Non Resi Water Heat Sales 
+ 
+ 
+SC 2B Non Resi Space Heat Sales 
+ 
+ 
+ 
+Rate Class:
+SC 2A Non Resi Water Heat Sales
+Rate Code:
+160
+Description:
+Commercial - Non-Heating (Hot Water)
+Model:
+Meter Count
+Equation:
+b1 + b2/(1 + exp( - b3*(x1 - b4)))
+b1
+838.95
+b2
+-734.6926
+b3
+0.054115
+b4
+52.9404
+x1
+time
+R2
+0.993327
+F
+545.49
+Rate Class:
+SC 2B Non Resi Space Heat Sales
+Rate Code:
+170
+Description:
+Commercial - Heating
+Model:
+Meter Count
+Equation:
+74181.6522
++
+0.700710
+*
+FYHHMEDA 
+R2
+0
+RV
+4511490
+Exhibit__(TEP-10C) 
+Page 5 of 32
+102
+
+
+--- Page 107 ---
+ 
+SC 3A Multi Family Non Heat Sales  
+ 
+ 
+SC 3B Multi Family Heat Sales  
+ 
+ 
+ 
+Rate Class:
+SC 3A Multi Family Non Heat Sales 
+Rate Code:
+151
+Description:
+Multi-Family - Heating
+Model:
+Meter Count
+Equation:
+958.972
++
+-4.975600
+*
+FLBUA
+R2
+0
+RV
+2362.31
+Rate Class:
+SC 3B Multi Family Heat Sales 
+Rate Code:
+152
+Description:
+Multi-Family - Non-Heating (Hot Water)
+Model:
+Meter Count
+Equation:
+b1 + b2/(1 + exp( - b3*(x1 - b4)))
+b1
+51.7343
+b2
+-20.9215
+b3
+0.91296
+b4
+58.9151
+x1
+time
+R2
+0.959399
+F
+4.90841
+Exhibit__(TEP-10C) 
+Page 6 of 32
+103
+
+
+--- Page 108 ---
+ 
+SC 4 Interruptible Sales 
+ 
+ 
+ 
+SC 5-1A Resi General Transport 
+ 
+ 
+ 
+Rate Class:
+SC 4 Interruptible Sales
+Rate Code:
+320/321
+Description:
+Interruptible Sales - Tariff B (PBT Exempt)
+Model:
+Meter Count
+Equation:
+149-137/(1+exp(-0.0973236*(t-75.75)))
+R2
+0.965145
+RV
+300.902
+Rate Class:
+SC 4 Interruptible Sales
+Rate Code:
+310/311
+Description:
+Interruptible Sales - Tariff A (PBT Exempt)
+Model:
+Meter Count
+Equation:
+210-181/(1+exp(-0.0441989*(t-68.9167))) 
+R2
+0.968653
+RV
+193.865
+Rate Class:
+SC 5-1A Resi General Transport
+Rate Code:
+127
+Description:
+Transportation - Residential - Non-Heating (Cooking/Drying)
+Model:
+Meter Count
+Equation:
+662.784
++
+45.117200
+*
+time
+R2
+0.94164
+RV
+171882
+Exhibit__(TEP-10C) 
+Page 7 of 32
+104
+
+
+--- Page 109 ---
+ 
+SC 5-1A Resi Water Heat Transport 
+ 
+ 
+SC 5-1AR Resi General Reduced Rate Transport 
+ 
+ 
+SC 5-1AR Resi Water Heat Reduced Rate Transport 
+ 
+Rate Class:
+SC 5-1A Resi Water Heat Transport
+Rate Code:
+137
+Description:
+Transportation - Residential - Non-Heating (Hot Water)
+Model:
+Meter Count
+Equation:
+353.8339
++
+21.718800
+*
+time
+R2
+0.800942
+RV
+159964
+Rate Class:
+SC 5-1AR Resi General Reduced Rate Transport
+Rate Code:
+R127
+Description:
+Reduced Transportation - Residential - Non-Heating (Cooking/Drying)
+Model:
+Meter Count
+Equation:
+27+60/(1+exp(-0.177778*(t-80.75))) 
+R2
+0.970374
+RV
+23.9689
+Rate Class:
+SC 5-1AR Resi Water Heat Reduced Rate Transport
+Rate Code:
+R137
+Description:
+Reduced Transportation - Residential - Non-Heating (Hot Water)
+Model:
+Meter Count
+Equation:
+constant
+RV
+403.7673
+Exhibit__(TEP-10C) 
+Page 8 of 32
+105
+
+
+--- Page 110 ---
+ 
+SC 5-1B Resi Space Heat Transport 
+ 
+ 
+SC 5-1BR Resi Space Heat Reduced Rate Transport 
+ 
+ 
+SC 5-2A Non Resi General Transport  
+ 
+Rate Class:
+SC 5-1B Resi Space Heat Transport
+Rate Code:
+147
+Description:
+Transportation - Residential - Heating
+Model:
+Meter Count
+Equation:
+14905.1672
++
+190.621400
+*
+time
+R2
+0.634237
+RV
+32308900
+Rate Class:
+SC 5-1BR Resi Space Heat Reduced Rate Transport
+Rate Code:
+R147
+Description:
+Reduced Transportation - Residential - Heating
+Model:
+Meter Count
+Equation:
+0+1254/(1+exp(-0.191388*(t-76.5667)))
+R2
+0.979202
+RV
+12582.3
+Rate Class:
+SC 5-2A Non Resi General Transport 
+Rate Code:
+257
+Description:
+Transportation - Commercial - Non-Heating (General Use)
+Model:
+Meter Count
+Equation:
+1922.5912
++
+20.286100
+*
+time
+R2
+0.681873
+RV
+320219
+Exhibit__(TEP-10C) 
+Page 9 of 32
+106
+
+
+--- Page 111 ---
+ 
+SC 5-2A Non Resi Water Heat Transport 
+ 
+ 
+SC 5-2B Non Resi Space Heat Transport 
+ 
+ 
+SC 5-3A Multi Family Non Heat Transport  
+ 
+ 
+Rate Class:
+SC 5-2A Non Resi Water Heat Transport
+Rate Code:
+167
+Description:
+Transportation - Commercial - Non-Heating (Hot Water)
+Model:
+Meter Count
+Equation:
+0+21/(1+exp(-1.77778*(t-33.0536))) 
+R2
+0.692586
+RV
+1063.01
+Rate Class:
+SC 5-2B Non Resi Space Heat Transport
+Rate Code:
+177
+Description:
+Transportation - Commercial - Heating
+Model:
+Meter Count
+Equation:
+13680.64
++
+5725.31
+*
+log ( time + 
+-1.30
+)
+R2
+0.917167
+F
+769484
+Rate Class:
+SC 5-3A Multi Family Non Heat Transport 
+Rate Code:
+158
+Description:
+Transportation - Multi-Family
+Model:
+Meter Count
+Equation:
+358.7222
++
+4.746200
+*
+time
+R2
+0.686258
+RV
+17760.4
+Exhibit__(TEP-10C) 
+Page 10 of 32
+107
+
+
+--- Page 112 ---
+SC 5-3B Multi Family Heat Transport  
+ 
+ 
+SC 5-9 Wholesale NGV Transport 
+ 
+ 
+SC 5-15 High Load Factor Transport 
+ 
+ 
+ 
+Rate Class:
+SC 5-3B Multi Family Heat Transport 
+Rate Code:
+159
+Description:
+Transportation - Multi-Family
+Model:
+Meter Count
+Equation:
+48.41
++
+20.71
+*
+log ( time + 
+-7.72
+)
+R2
+0.775344
+F
+38.16
+Rate Class:
+SC 5-9 Wholesale NGV Transport
+Rate Code:
+NGV-Trans
+Description:
+Transportation - Compressed NGV
+Model:
+Meter Count
+Equation:
+1.8198
++
+0.124430
+*
+time
+R2
+0.757076
+RV
+8.54086
+Rate Class:
+SC 5-15 High Load Factor Transport
+Rate Code:
+267
+Description:
+Transportation - Commercial - High Load Factor
+Model:
+Meter Count
+Equation:
+12+37/(1+exp(-0.144144*(t-62.375)))
+R2
+0.960126
+RV
+36.7441
+Exhibit__(TEP-10C) 
+Page 11 of 32
+108
+
+
+--- Page 113 ---
+ 
+SC 5-16 Yr Round Space Conditioning Transport 
+ 
+ 
+SC 5-17 Dist Gen Transport  
+ 
+ 
+SC 7 Interruptible Transport 
+ 
+Rate Class:
+SC 5-16 Yr Round Space Conditioning Transport
+Rate Code:
+277
+Description:
+Transportation - Commercial - Air Conditioning
+Model:
+Meter Count
+Equation:
+constant
+RV
+384.5558
+Rate Class:
+SC 5-17 Dist Gen Transport 
+Rate Code:
+347
+Description:
+Transportation - DG Rate 1 (<1MW)
+Model:
+Meter Count
+Equation:
+constant
+RV
+0.27412
+Rate Class:
+SC 7 Interruptible Transport
+Rate Code:
+7191
+Description:
+Interruptible Transportation - Individual Customer broken out
+Model:
+Meter Count
+Equation:
+constant
+RV
+0
+Exhibit__(TEP-10C) 
+Page 12 of 32
+109
+
+
+--- Page 114 ---
+ 
+ 
+ 
+ 
+Rate Class:
+SC 7 Interruptible Transport
+Rate Code:
+710
+Description:
+#N/A
+Model:
+Meter Count
+Equation:
+constant
+RV
+6.8681
+Rate Class:
+SC 7 Interruptible Transport
+Rate Code:
+711
+Description:
+#N/A
+Model:
+Meter Count
+Equation:
+constant
+RV
+0.54869
+Rate Class:
+SC 7 Interruptible Transport
+Rate Code:
+720
+Description:
+#N/A
+Model:
+Meter Count
+Equation:
+constant
+RV
+17.1633
+Rate Class:
+SC 7 Interruptible Transport
+Rate Code:
+721
+Description:
+#N/A
+Model:
+Meter Count
+Equation:
+constant
+RV
+0.10149
+Exhibit__(TEP-10C) 
+Page 13 of 32
+110
+
+
+--- Page 115 ---
+ 
+ 
+ 
+SC 7 Small Electric Generator Transport  
+ 
+SC 9 Wholesale NGV Sales 
+ 
+ 
+ 
+Rate Class:
+SC 7 Interruptible Transport
+Rate Code:
+7110
+Description:
+Interruptible Transportation - Individual Customer broken out
+Model:
+Meter Count
+Equation:
+constant
+RV
+0.24722
+Rate Class:
+SC 7 Interruptible Transport
+Rate Code:
+7291
+Description:
+Interruptible Transportation - Individual Customer broken out
+Model:
+Meter Count
+Equation:
+constant
+RV
+0.25191
+Rate Class:
+SC 9 Wholesale NGV Sales
+Rate Code:
+NGV-Sales
+Description:
+Uncompressed NGV
+Model:
+Meter Count
+Equation:
+constant
+RV
+34.7085
+Exhibit__(TEP-10C) 
+Page 14 of 32
+111
+
+
+--- Page 116 ---
+ 
+SC 12 TC Rate 1 Sales 
+ 
+ 
+SC 12 TC Rate 2 Sales 
+ 
+ 
+ 
+ 
+Rate Class:
+SC 12 TC Rate 1 Sales
+Rate Code:
+330
+Description:
+Temperature-Controlled Service - Rate 1
+Model:
+Meter Count
+Equation:
+99.3333-81.3333/(1+exp(-0.196721*(t-86.5)))
+R2
+0.938456
+RV
+140.625
+Rate Class:
+SC 12 TC Rate 2 Sales
+Rate Code:
+332
+Description:
+Temperature-Controlled Service - Rate 3
+Model:
+Meter Count
+Equation:
+constant
+RV
+0
+Rate Class:
+SC 12 TC Rate 2 Sales
+Rate Code:
+331
+Description:
+Temperature-Controlled Service - Rate 2
+Model:
+Meter Count
+Equation:
+340.667-307.667/(1+exp(-0.104009*(t-82.9375)))
+R2
+0.98134
+RV
+360.84
+Exhibit__(TEP-10C) 
+Page 15 of 32
+112
+
+
+--- Page 117 ---
+ 
+SC 13 TC Rate 1 Transport  
+ 
+ 
+SC 13 TC Rate 2 Transport  
+ 
+ 
+ 
+ 
+Rate Class:
+SC 13 TC Rate 1 Transport 
+Rate Code:
+730
+Description:
+Transportation - TC Rate 1
+Model:
+Meter Count
+Equation:
+constant
+RV
+0
+Rate Class:
+SC 13 TC Rate 2 Transport 
+Rate Code:
+731
+Description:
+Transportation - TC Rate 2
+Model:
+Meter Count
+Equation:
+constant
+RV
+2.4864
+Rate Class:
+SC 13 TC Rate 2 Transport 
+Rate Code:
+732
+Description:
+Transportation - TC Rate 3
+Model:
+Meter Count
+Equation:
+constant
+RV
+0
+Exhibit__(TEP-10C) 
+Page 16 of 32
+113
+
+
+--- Page 118 ---
+ 
+SC 14 Large Electric Generator Transport 
+ 
+SC 15 High Load Factor Sales 
+ 
+ 
+ 
+SC 16 Yr Round Space Conditioning Sales 
+ 
+Rate Class:
+SC 15 High Load Factor Sales
+Rate Code:
+340
+Description:
+DG Rate 1 (<1MW)
+Model:
+Meter Count
+Equation:
+constant
+RV
+0.53221
+Rate Class:
+SC 15 High Load Factor Sales
+Rate Code:
+260
+Description:
+Commercial - High Load Factor
+Model:
+Meter Count
+Equation:
+46.6667-25.6667/(1+exp(-0.207792*(t-68.125)))
+R2
+0.933984
+RV
+16.7293
+Rate Class:
+SC 16 Yr Round Space Conditioning Sales
+Rate Code:
+270
+Description:
+Commercial - Air Conditioning
+Model:
+Meter Count
+Equation:
+constant
+RV
+55.2926
+Exhibit__(TEP-10C) 
+Page 17 of 32
+114
+
+
+--- Page 119 ---
+ 
+Metamodels 
+ 
+ 
+ 
+ 
+Rate Class:
+#N/A
+Rate Code:
+Non-Firm Trans
+Description:
+#N/A
+Model:
+Meter Count
+Equation:
+constant
+RV
+38.8013
+Rate Class:
+#N/A
+Rate Code:
+Interruptible Trans
+Description:
+#N/A
+Model:
+Meter Count
+Equation:
+constant
+RV
+38.9789
+Rate Class:
+#N/A
+Rate Code:
+TC Trans
+Description:
+#N/A
+Model:
+Meter Count
+Equation:
+constant
+RV
+2.5364
+Exhibit__(TEP-10C) 
+Page 18 of 32
+115
+
+
+--- Page 120 ---
+ 
+ 
+ 
+ 
+Rate Class:
+#N/A
+Rate Code:
+High Load Factor
+Description:
+#N/A
+Model:
+Meter Count
+Equation:
+constant
+RV
+89476.417
+Rate Class:
+#N/A
+Rate Code:
+C & I DG
+Description:
+#N/A
+Model:
+Meter Count
+Equation:
+constant
+RV
+0.38926
+Rate Class:
+#N/A
+Rate Code:
+C & I DG Sales
+Description:
+#N/A
+Model:
+Meter Count
+Equation:
+constant
+RV
+0.53221
+Rate Class:
+#N/A
+Rate Code:
+C & I DG Trans
+Description:
+#N/A
+Model:
+Meter Count
+Equation:
+constant
+RV
+0.27412
+Exhibit__(TEP-10C) 
+Page 19 of 32
+116
+
+
+--- Page 121 ---
+ 
+ 
+ 
+ 
+Rate Class:
+#N/A
+Rate Code:
+C & I NGV
+Description:
+#N/A
+Model:
+Meter Count
+Equation:
+constant
+RV
+92.124
+Rate Class:
+#N/A
+Rate Code:
+C & I NGV Sales
+Description:
+#N/A
+Model:
+Meter Count
+Equation:
+constant
+RV
+34.7085
+Rate Class:
+#N/A
+Rate Code:
+C & I NGV Trans
+Description:
+#N/A
+Model:
+Meter Count
+Equation:
+constant
+RV
+45.9609
+Rate Class:
+#N/A
+Rate Code:
+Res DG Sales
+Description:
+#N/A
+Model:
+Meter Count
+Equation:
+constant
+RV
+7.0319
+Exhibit__(TEP-10C) 
+Page 20 of 32
+117
+
+
+--- Page 122 ---
+ 
+ 
+ 
+ 
+Rate Class:
+#N/A
+Rate Code:
+Res Distributed Generation
+Description:
+#N/A
+Model:
+Meter Count
+Equation:
+constant
+RV
+7.0319
+Rate Class:
+#N/A
+Rate Code:
+TC
+Description:
+#N/A
+Model:
+Meter Count
+Equation:
+434-380/(1+exp(-0.0596491*(t-84.3529))) 
+R2
+0.983341
+RV
+1109.51
+Rate Class:
+#N/A
+Rate Code:
+Multi Non-Heating Sales
+Description:
+#N/A
+Model:
+Meter Count
+Equation:
+52-29/(1+exp(-0.367816*(t-60.0625)))
+R2
+0.950562
+RV
+36.136
+Rate Class:
+#N/A
+Rate Code:
+Non-Firm
+Description:
+#N/A
+Model:
+Meter Count
+Equation:
+820.667-724.667/(1+exp(-0.0680773*(t-80.2162)))
+R2
+0.987348
+RV
+1097.07
+Exhibit__(TEP-10C) 
+Page 21 of 32
+118
+
+
+--- Page 123 ---
+ 
+ 
+ 
+ 
+Rate Class:
+#N/A
+Rate Code:
+Multi Family Heating
+Description:
+#N/A
+Model:
+Meter Count
+Equation:
+1002.7964
++
+4.095200
+*
+time
+R2
+0.977744
+RV
+519.193
+Rate Class:
+#N/A
+Rate Code:
+Multi Sales
+Description:
+#N/A
+Model:
+Meter Count
+Equation:
+1003.8207
++
+-5.117200
+*
+FLBUA 
+R2
+0
+RV
+2452.09
+Rate Class:
+#N/A
+Rate Code:
+Multi Family
+Description:
+#N/A
+Model:
+Meter Count
+Equation:
+1073.7425
++
+4.143100
+*
+time
+R2
+0.975071
+RV
+587.455
+Rate Class:
+#N/A
+Rate Code:
+Res Trans
+Description:
+#N/A
+Model:
+Meter Count
+Equation:
+14419.6873
++
+269.707300
+*
+time
+R2
+0.698476
+RV
+46297000
+Exhibit__(TEP-10C) 
+Page 22 of 32
+119
+
+
+--- Page 124 ---
+ 
+ 
+ 
+ 
+Rate Class:
+#N/A
+Rate Code:
+Res NH Sales
+Description:
+#N/A
+Model:
+Meter Count
+Equation:
+145867.565
++
+-335.313000
+*
+time
+R2
+0.989256
+RV
+1662390
+Rate Class:
+#N/A
+Rate Code:
+Res Heat Trans
+Description:
+#N/A
+Model:
+Meter Count
+Equation:
+14725.0112
++
+201.925600
+*
+time
+R2
+0.633449
+RV
+36434800
+Rate Class:
+#N/A
+Rate Code:
+Res Non-Heating
+Description:
+#N/A
+Model:
+Meter Count
+Equation:
+152416.863
++
+-318.376600
+*
+time
+R2
+0.992073
+RV
+1112740
+Rate Class:
+#N/A
+Rate Code:
+HLF Trans
+Description:
+#N/A
+Model:
+Meter Count
+Equation:
+2066.2884
++
+20.171200
+*
+time
+R2
+0.620518
+RV
+412971
+Exhibit__(TEP-10C) 
+Page 23 of 32
+120
+
+
+--- Page 125 ---
+ 
+ 
+ 
+ 
+Rate Class:
+#N/A
+Rate Code:
+Firm Trans
+Description:
+#N/A
+Model:
+Meter Count
+Equation:
+22453.4531
++
+348.695100
+*
+time
+R2
+0.714521
+RV
+73871200
+Rate Class:
+#N/A
+Rate Code:
+All Trans
+Description:
+#N/A
+Model:
+Meter Count
+Equation:
+22465.336
++
+348.639500
+*
+time
+R2
+0.714451
+RV
+73892800
+Rate Class:
+#N/A
+Rate Code:
+Comm & Indust
+Description:
+#N/A
+Model:
+Meter Count
+Equation:
+24678.1664
++
+93.700000
+*
+FHSTK1A
+R2
+0.976012
+RV
+38058.2
+Rate Class:
+#N/A
+Rate Code:
+Low Load Factor
+Description:
+#N/A
+Model:
+Meter Count
+Equation:
+27488.0558
++
+0.109320
+*
+FYHHMEDA 
+R2
+0.561566
+RV
+234824
+Exhibit__(TEP-10C) 
+Page 24 of 32
+121
+
+
+--- Page 126 ---
+ 
+ 
+ 
+ 
+Rate Class:
+#N/A
+Rate Code:
+Res Heat Sales
+Description:
+#N/A
+Model:
+Meter Count
+Equation:
+298227.92
++
+484.372800
+*
+time
+R2
+0.875547
+RV
+51533500
+Rate Class:
+#N/A
+Rate Code:
+Multi Heat Trans
+Description:
+#N/A
+Model:
+Meter Count
+Equation:
+358.7222
++
+4.746200
+*
+time
+R2
+0.686258
+RV
+17760.4
+Rate Class:
+#N/A
+Rate Code:
+Multi Trans
+Description:
+#N/A
+Model:
+Meter Count
+Equation:
+381.4442
++
+4.980000
+*
+time
+R2
+0.702063
+RV
+18142.1
+Rate Class:
+#N/A
+Rate Code:
+Res Sales
+Description:
+#N/A
+Model:
+Meter Count
+Equation:
+444754.02
++
+144.562400
+*
+time
+R2
+0.320374
+RV
+68144200
+Exhibit__(TEP-10C) 
+Page 25 of 32
+122
+
+
+--- Page 127 ---
+ 
+ 
+ 
+ 
+Rate Class:
+#N/A
+Rate Code:
+Residential
+Description:
+#N/A
+Model:
+Meter Count
+Equation:
+459950.203
++
+408.545200
+*
+time
+R2
+0.990566
+RV
+3216560
+Rate Class:
+#N/A
+Rate Code:
+Firm Sales
+Description:
+#N/A
+Model:
+Meter Count
+Equation:
+493528.087
++
+82.879700
+*
+time
+R2
+0.0944627
+RV
+103196000
+Rate Class:
+#N/A
+Rate Code:
+All Sales
+Description:
+#N/A
+Model:
+Meter Count
+Equation:
+494510.458
++
+76.108000
+*
+time
+R2
+0.0806828
+RV
+103717000
+Rate Class:
+#N/A
+Rate Code:
+Res NH Trans
+Description:
+#N/A
+Model:
+Meter Count
+Equation:
+578.8716
++
+60.678900
+*
+time
+R2
+0.840151
+RV
+1228580
+Exhibit__(TEP-10C) 
+Page 26 of 32
+123
+
+
+--- Page 128 ---
+ 
+ 
+ 
+ 
+Rate Class:
+#N/A
+Rate Code:
+C & I Trans
+Description:
+#N/A
+Model:
+Meter Count
+Equation:
+7015.6005
++
+79.633500
+*
+time
+R2
+0.664664
+RV
+5470540
+Rate Class:
+#N/A
+Rate Code:
+LLF Sales
+Description:
+#N/A
+Model:
+Meter Count
+Equation:
+74181.6522
++
+0.700710
+*
+FYHHMEDA 
+R2
+0
+RV
+4511490
+Rate Class:
+#N/A
+Rate Code:
+Multi Heat Sales
+Description:
+#N/A
+Model:
+Meter Count
+Equation:
+958.972
++
+-4.975600
+*
+FLBUA
+R2
+0
+RV
+2362.31
+Rate Class:
+#N/A
+Rate Code:
+LLF Trans
+Description:
+#N/A
+Model:
+Meter Count
+Equation:
+13680.64
++
+5725.31
+*
+log ( time + 
+-1.30
+)
+R2
+0.917167
+F
+769484
+Exhibit__(TEP-10C) 
+Page 27 of 32
+124
+
+
+--- Page 129 ---
+ 
+ 
+ 
+ 
+Rate Class:
+#N/A
+Rate Code:
+All
+Description:
+#N/A
+Model:
+Meter Count
+Equation:
+265543.52
++
+138657.49
+*
+log ( time + 
+280.31
+)
+R2
+0.989797
+F
+2.48074e+06
+Rate Class:
+#N/A
+Rate Code:
+FIRM SENDOUT
+Description:
+#N/A
+Model:
+Meter Count
+Equation:
+295317.29
++
+143298.62
+*
+log ( time + 
+285.36
+)
+R2
+0.990364
+F
+2.43951e+06
+Rate Class:
+#N/A
+Rate Code:
+Firm
+Description:
+#N/A
+Model:
+Meter Count
+Equation:
+295317.29
++
+143298.62
+*
+log ( time + 
+285.36
+)
+R2
+0.990364
+F
+2.43951e+06
+Rate Class:
+#N/A
+Rate Code:
+Multi Non-Heating Trans
+Description:
+#N/A
+Model:
+Meter Count
+Equation:
+48.41
++
+20.71
+*
+log ( time + 
+-7.72
+)
+R2
+0.775344
+F
+38.16
+Exhibit__(TEP-10C) 
+Page 28 of 32
+125
+
+
+--- Page 130 ---
+ 
+ 
+ 
+Rate Class:
+#N/A
+Rate Code:
+Multi Family Non-Heating
+Description:
+#N/A
+Model:
+Meter Count
+Equation:
+58.27
++
+4.20
+*
+log ( time + 
+-16.25
+)
+R2
+0.78485
+F
+2.3595
+Rate Class:
+#N/A
+Rate Code:
+Interruptible
+Description:
+#N/A
+Model:
+Meter Count
+Equation:
+b1 + b2/(1 + exp( - b3*(x1 - b4)))
+b1
+503.4312
+b2
+-466.0858
+b3
+0.031327
+b4
+52.586
+x1
+time
+R2
+0.993039
+F
+123.227
+Rate Class:
+#N/A
+Rate Code:
+Res Heating
+Description:
+#N/A
+Model:
+Meter Count
+Equation:
+b1 + b2/(1 + exp( - b3*(x1 - b4)))
+b1
+109776.2658
+b2
+1104542.549
+b3
+0.002442
+b4
+192.7718
+x1
+time
+R2
+0.997061
+F
+1.61184e+06
+Exhibit__(TEP-10C) 
+Page 29 of 32
+126
+
+
+--- Page 131 ---
+ 
+ 
+Rate Class:
+#N/A
+Rate Code:
+Interruptible Sales
+Description:
+#N/A
+Model:
+Meter Count
+Equation:
+b1 + b2/(1 + exp( - b3*(x1 - b4)))
+b1
+433.2289
+b2
+-387.1321
+b3
+0.036434
+b4
+60.7506
+x1
+time
+R2
+0.99215
+F
+110.846
+Rate Class:
+#N/A
+Rate Code:
+TC Sales
+Description:
+#N/A
+Model:
+Meter Count
+Equation:
+b1 + b2/(1 + exp( - b3*(x1 - b4)))
+b1
+482.6801
+b2
+-422.815
+b3
+0.069052
+b4
+80.0135
+x1
+time
+R2
+0.989662
+F
+252.128
+Exhibit__(TEP-10C) 
+Page 30 of 32
+127
+
+
+--- Page 132 ---
+ 
+ 
+Rate Class:
+#N/A
+Rate Code:
+C & I Sales
+Description:
+#N/A
+Model:
+Meter Count
+Equation:
+b1 + b2/(1 + exp( - b3*(x1 - b4)))
+b1
+48647.6074
+b2
+-10265.0033
+b3
+0.082647
+b4
+63.1458
+x1
+time
+R2
+0.960278
+F
+797879
+Rate Class:
+#N/A
+Rate Code:
+Non-Firm Sales
+Description:
+#N/A
+Model:
+Meter Count
+Equation:
+b1 + b2/(1 + exp( - b3*(x1 - b4)))
+b1
+841.7914
+b2
+-724.9734
+b3
+0.058046
+b4
+76.7311
+x1
+time
+R2
+0.991347
+F
+567.624
+Exhibit__(TEP-10C) 
+Page 31 of 32
+128
+
+
+--- Page 133 ---
+ 
+ 
+Rate Class:
+#N/A
+Rate Code:
+HLF Sales
+Description:
+#N/A
+Model:
+Meter Count
+Equation:
+b1 + b2/(1 + exp( - b3*(x1 - b4)))
+b1
+9066.0646
+b2
+-1803.9118
+b3
+0.074203
+b4
+36.5335
+x1
+time
+R2
+0.900937
+F
+40966.1
+Exhibit__(TEP-10C) 
+Page 32 of 32
+129
+
+
+--- Page 134 ---
+ 
+ 
+ 
+ 
+Exhibit__ (TEP-10D) 
+ 
+ 
+ 
+ 
+ 
+ 
+ 
+ 
+ 
+ 
+ 
+ 
+ 
+ 
+ 
+ 
+ 
+ 
+ 
+ 
+ 
+ 
+ 
+ 
+ 
+ 
+ 
+ 
+ 
+ 
+ 
+ 
+ 
+ 
+ 
+ 
+
+
+--- Page 135 ---
+Testimony of Theodore Poe, Jr. 
+ 
+ 
+ 
+ 
+ 
+ 
+ 
+ 
+ 
+ 
+ 
+Exhibit __ (TEP-10D) 
+ 
+Delivery Forecast Model Specifications – KEDLI – Use Per Customer 
+130
+
+
+--- Page 136 ---
+ 
+ 
+ 
+ 
+ 
+ 
+Delivery Forecast Model Specifications 
+KEDLI 
+Use Per Customer 
+ 
+ 
+Exhibit__(TEP-10D) 
+Page 1 of 49
+131
+
+
+--- Page 137 ---
+SC 1A Resi General Sales  
+ 
+ 
+SC 1A Resi Water Heat Sales 
+ 
+ 
+SC 1AR Resi General Reduced Rate Sales  
+ 
+ 
+Rate Class:
+SC 1A Resi General Sales 
+Rate Code:
+120
+Description:
+Residential - Non-Heating (Cooking/Drying)
+Model:
+Use Per Customer
+Submodel:
+model
+Equation:
+1.2944
++
+0.016455
+*
+FELHA
+SE
+0.33652
+0.003250
+t
+-3.8463
+5.063500
+p
+0.0049034
+0.000973
+R2
+0.76219
+F
+25.6408
+Rate Class:
+SC 1A Resi Water Heat Sales
+Rate Code:
+130
+Description:
+Residential - Non-Heating (Hot Water)
+Model:
+Use Per Customer
+Submodel:
+model
+Equation:
+1.7266
++
+0.027867
+*
+FELHA
+SE
+0.33172
+0.003203
+t
+-5.2051
+8.699600
+p
+0.00081729
+0.000024
+R2
+0.90592
+F
+77.0347
+Exhibit__(TEP-10D) 
+Page 2 of 49
+132
+
+
+--- Page 138 ---
+ 
+SC 1AR Resi Water Heat Reduced Rate Sales 
+ 
+ 
+ 
+SC 1B Resi Space Heat Sales 
+ 
+Rate Class:
+SC 1AR Resi General Reduced Rate Sales 
+Rate Code:
+R120
+Description:
+Reduced Residential - Non-Heating (Cooking/Drying)
+Model:
+Use Per Customer
+Submodel:
+model
+Equation:
+0.34966
++
+0.322740
+* log ( time + 
+-2002.3195
+)
+SE
+0.97862
+0.354220
+5.7503
+t
+-0.3573
+0.911140
+-348.2103
+p
+0.7314
+0.392520
+4.2541E-16
+R2
+0.78995
+F
+NaN
+Rate Class:
+SC 1AR Resi Water Heat Reduced Rate Sales
+Rate Code:
+R130
+Description:
+Reduced Residential - Non-Heating (Hot Water)
+Rate Class:
+R130
+Model:
+Use Per Customer
+Submodel:
+model
+Equation:
+1.49405
++
+0.000000
+*
+constant
+Overall R2
+0.91349826
+Rate Class:
+SC 1B Resi Space Heat Sales
+Rate Code:
+140
+Description:
+Residential - Heating
+Model:
+Use Per Customer
+Submodel:
+slopemodel
+Equation:
+0.26431
++
+-0.026528
+* log ( time + 
+-1997.1096
+)
+SE
+0.1143
+0.033676
+13.4137
+t
+2.3125
+-0.787740
+-148.8855
+p
+0.049497
+0.453560
+4.6327E-15
+R2
+0.85971
+F
+NaN
+Exhibit__(TEP-10D) 
+Page 3 of 49
+133
+
+
+--- Page 139 ---
+ 
+ 
+SC 1BDG Resi Dist Gen Sales 
+ 
+ 
+ 
+Rate Class:
+SC 1B Resi Space Heat Sales
+Rate Code:
+140
+Description:
+Residential - Heating
+Model:
+Use Per Customer
+Submodel:
+basemodel
+Equation:
+1.7356
++
+0.495580
+* log ( time + 
+-1755.6078
+)
+SE
+1553.7345
+237.764900
+121536.9956
+t
+-0.001117
+0.002084
+-0.014445
+p
+0.99914
+0.998390
+0.98883
+R2
+0.021513
+F
+NaN
+Rate Class:
+SC 1BDG Resi Dist Gen Sales
+Rate Code:
+150
+Description:
+Residential - Distributed Generation
+Model:
+Use Per Customer
+Submodel:
+model
+Equation:
+7.2685
++
+4.651600
+* log ( time + 
+-2000.8069
+)
+SE
+15.0716
+4.973100
+7.6545
+t
+-0.48226
+0.935340
+-261.391
+p
+0.64433
+0.380750
+3.1667E-15
+R2
+0.86251
+F
+NaN
+Exhibit__(TEP-10D) 
+Page 4 of 49
+134
+
+
+--- Page 140 ---
+SC 1BR Resi Space Heat Reduced Rate Sales 
+ 
+ 
+ 
+SC 2A Non Resi General Sales 
+ 
+ 
+Rate Class:
+SC 1BR Resi Space Heat Reduced Rate Sales
+Rate Code:
+R140
+Description:
+Reduced Residential - Heating
+Model:
+Use Per Customer
+Submodel:
+slopemodel
+Equation:
+1.4571
++
+0.000012
+*
+FYPDPIA
+SE
+0.4294
+0.000003
+t
+-3.3933
+3.731200
+p
+0.0079568
+0.004689
+R2
+0.60798
+F
+13.958
+Rate Class:
+SC 1BR Resi Space Heat Reduced Rate Sales
+Rate Code:
+R140
+Description:
+Reduced Residential - Heating
+Model:
+Use Per Customer
+Submodel:
+basemodel
+Equation:
+2.1909
++
+1.178200
+* log ( time + 
+-1998.2953
+)
+SE
+5.0647
+1.550000
+12.1241
+t
+-0.43258
+0.760110
+-164.8202
+p
+0.67674
+0.469000
+2.0543E-15
+R2
+0.80741
+F
+NaN
+Rate Class:
+SC 2A Non Resi General Sales
+Rate Code:
+250
+Description:
+Commercial - Non-Heating (General Use)
+Rate Class:
+250
+Model:
+Use Per Customer
+Submodel:
+model
+Equation:
+14.5122
++
+0.000000
+*
+constant
+Overall R2
+0.36364852
+Exhibit__(TEP-10D) 
+Page 5 of 49
+135
+
+
+--- Page 141 ---
+SC 2A Non Resi Water Heat Sales 
+ 
+ 
+SC 2B Non Resi Space Heat Sales 
+ 
+Rate Class:
+SC 2A Non Resi Water Heat Sales
+Rate Code:
+160
+Description:
+Commercial - Non-Heating (Hot Water)
+Model:
+Use Per Customer
+Submodel:
+model
+Equation:
+9.2224
++
+-1.732900
+* log ( time + 
+-2002.6952
+)
+SE
+6.9492
+2.594600
+7.0673
+t
+1.3271
+-0.667910
+-283.3731
+p
+0.22612
+0.525590
+1.7995E-15
+R2
+0.61343
+F
+NaN
+Rate Class:
+SC 2B Non Resi Space Heat Sales
+Rate Code:
+170
+Description:
+Commercial - Heating
+Model:
+Use Per Customer
+Submodel:
+slopemodel
+Equation:
+0.83311
++
+-0.014351
+*
+NGPRCC
+SE
+0.087682
+0.005896
+t
+9.5015
+-2.433900
+p
+5.4676E-06
+0.037740
+R2
+0.44129
+F
+7.1085
+Exhibit__(TEP-10D) 
+Page 6 of 49
+136
+
+
+--- Page 142 ---
+ 
+ 
+SC 3A Multi Family Non Heat Sales  
+ 
+ 
+ 
+Rate Class:
+SC 2B Non Resi Space Heat Sales
+Rate Code:
+170
+Description:
+Commercial - Heating
+Model:
+Use Per Customer
+Submodel:
+basemodel
+Equation:
+4.4767
++
+-0.031338
+*
+FLBUA
+SE
+0.52794
+0.005962
+t
+8.4796
+-5.256700
+p
+1.3861E-05
+0.000523
+R2
+0.75441
+F
+27.6458
+Rate Class:
+SC 3A Multi Family Non Heat Sales 
+Rate Code:
+151
+Description:
+Multi-Family - Heating
+Rate Class:
+151
+Model:
+Use Per Customer
+Submodel:
+basemodel
+Equation:
+21.9433
++
+0.000000
+*
+constant
+Overall R2
+NULL
+Rate Class:
+SC 3A Multi Family Non Heat Sales 
+Rate Code:
+151
+Description:
+Multi-Family - Heating
+Model:
+Use Per Customer
+Submodel:
+slopemodel
+Equation:
+454.7578
++
+-0.224430
+*
+TimeLinear
+SE
+121.3001
+0.060350
+t
+3.749
+-3.718700
+p
+0.0045615
+0.004780
+R2
+0.61113
+F
+14.1439
+Exhibit__(TEP-10D) 
+Page 7 of 49
+137
+
+
+--- Page 143 ---
+SC 3B Multi Family Heat Sales  
+ 
+ 
+SC 4 Interruptible Sales 
+ 
+Rate Class:
+SC 3B Multi Family Heat Sales 
+Rate Code:
+152
+Description:
+Multi-Family - Non-Heating (Hot Water)
+Model:
+Use Per Customer
+Submodel:
+model
+Equation:
+205.1163
++
+3.205000
+*
+FEFIA
+SE
+24.278
+0.324980
+t
+-8.4486
+9.862200
+p
+2.9423E-05
+0.000009
+R2
+0.92412
+F
+97.4311
+Rate Class:
+SC 4 Interruptible Sales
+Rate Code:
+320/321
+Description:
+Interruptible Sales - Tariff B (PBT Exempt)
+Model:
+Use Per Customer
+Submodel:
+model
+Equation:
+375.3219
++
+-48.437900
+* log ( time + 
+-2003.2844
+)
+SE
+390.1883
+154.721400
+12.2905
+t
+0.9619
+-0.313070
+-162.9943
+p
+0.36814
+0.763350
+8.634E-14
+R2
+0.20576
+F
+NaN
+Exhibit__(TEP-10D) 
+Page 8 of 49
+138
+
+
+--- Page 144 ---
+ 
+ 
+SC 5-1A Resi General Transport 
+ 
+ 
+ 
+Rate Class:
+SC 4 Interruptible Sales
+Rate Code:
+310/311
+Description:
+Interruptible Sales - Tariff A (PBT Exempt)
+Model:
+Use Per Customer
+Submodel:
+model
+Equation:
+409.3731
++
+-141.276500
+* log ( time + 
+-2002.1767
+)
+SE
+384.3628
+137.641800
+5.2912
+t
+1.0651
+-1.026400
+-378.394
+p
+0.3222
+0.338850
+2.3774E-16
+R2
+0.82037
+F
+NaN
+Rate Class:
+SC 5-1A Resi General Transport
+Rate Code:
+127
+Description:
+Transportation - Residential - Non-Heating (Cooking/Drying)
+Model:
+Use Per Customer
+Submodel:
+model
+Equation:
+0.90278
++
+0.007312
+*
+FEEHA
+SE
+0.33686
+0.001516
+t
+-2.68
+4.822800
+p
+0.027926
+0.001317
+R2
+0.76254
+F
+25.6898
+Exhibit__(TEP-10D) 
+Page 9 of 49
+139
+
+
+--- Page 145 ---
+SC 5-1A Resi Water Heat Transport 
+ 
+ 
+SC 5-1AR Resi General Reduced Rate Transport 
+ 
+ 
+ 
+Rate Class:
+SC 5-1A Resi Water Heat Transport
+Rate Code:
+137
+Description:
+Transportation - Residential - Non-Heating (Hot Water)
+Model:
+Use Per Customer
+Submodel:
+model
+Equation:
+5.4003
++
+0.129430
+*
+FE81A
+SE
+1.513
+0.028185
+t
+-3.5694
+4.592200
+p
+0.0073002
+0.001773
+R2
+0.72903
+F
+21.5232
+Rate Class:
+SC 5-1AR Resi General Reduced Rate Transport
+Rate Code:
+R127
+Description:
+Reduced Transportation - Residential - Non-Heating (Cooking/Drying)
+Model:
+Use Per Customer
+Submodel:
+model
+Equation:
+28.376
++
+6.541300
+* log ( time + 
+-1929.2694
+)
+SE
+404.6431
+75.163900
+920.0217
+t
+-0.070126
+0.087027
+-2.097
+p
+0.94605
+0.933090
+0.074201
+R2
+0.83838
+F
+NaN
+Exhibit__(TEP-10D) 
+Page 10 of 49
+140
+
+
+--- Page 146 ---
+SC 5-1AR Resi Water Heat Reduced Rate Transport 
+ 
+ 
+SC 5-1B Resi Space Heat Transport 
+ 
+Rate Class:
+SC 5-1AR Resi Water Heat Reduced Rate Transport
+Rate Code:
+R137
+Description:
+Reduced Transportation - Residential - Non-Heating (Hot Water)
+Model:
+Use Per Customer
+Submodel:
+model
+Equation:
+1.2155
++
+1.163100
+* log ( time + 
+-2002.6165
+)
+SE
+3.7587
+1.393700
+5.789
+t
+-0.32339
+0.834510
+-345.9341
+p
+0.75585
+0.431550
+4.4539E-16
+R2
+0.73441
+F
+NaN
+Rate Class:
+SC 5-1B Resi Space Heat Transport
+Rate Code:
+147
+Description:
+Transportation - Residential - Heating
+Model:
+Use Per Customer
+Submodel:
+slopemodel
+Equation:
+5.0152
++
+-0.002387
+*
+TimeLinear
+SE
+1.921
+0.000956
+t
+2.6107
+-2.497500
+p
+0.02824
+0.034003
+R2
+0.40935
+F
+6.2374
+Exhibit__(TEP-10D) 
+Page 11 of 49
+141
+
+
+--- Page 147 ---
+ 
+ 
+SC 5-1BR Resi Space Heat Reduced Rate Transport 
+ 
+ 
+Rate Class:
+SC 5-1B Resi Space Heat Transport
+Rate Code:
+147
+Description:
+Transportation - Residential - Heating
+Model:
+Use Per Customer
+Submodel:
+basemodel
+Equation:
+53.07
++
+0.026945
+*
+TimeLinear
+SE
+25.596
+0.012735
+t
+-2.0734
+2.115900
+p
+0.067991
+0.063461
+R2
+0.33275
+F
+4.4882
+Rate Class:
+SC 5-1BR Resi Space Heat Reduced Rate Transport
+Rate Code:
+R147
+Description:
+Reduced Transportation - Residential - Heating
+Model:
+Use Per Customer
+Submodel:
+slopemodel
+Equation:
+0.005606
++
+0.085011
+* log ( time + 
+-2003.1704
+)
+SE
+0.15055
+0.066856
+1.8819
+t
+-0.037237
+1.271600
+-1064.4573
+p
+0.97121
+0.239250
+6.7949E-22
+R2
+0.66274
+F
+NaN
+Rate Class:
+SC 5-1BR Resi Space Heat Reduced Rate Transport
+Rate Code:
+R147
+Description:
+Reduced Transportation - Residential - Heating
+Model:
+Use Per Customer
+Submodel:
+basemodel
+Equation:
+3.6405
++
+1.653900
+* log ( time + 
+-1995.7617
+)
+SE
+8.1452
+2.315100
+16.8829
+t
+-0.44695
+0.714370
+-118.2122
+p
+0.66676
+0.495310
+2.9311E-14
+R2
+0.87093
+F
+NaN
+Exhibit__(TEP-10D) 
+Page 12 of 49
+142
+
+
+--- Page 148 ---
+ 
+SC 5-2A Non Resi General Transport  
+ 
+ 
+SC 5-2A Non Resi Water Heat Transport 
+ 
+ 
+ 
+Rate Class:
+SC 5-2A Non Resi General Transport 
+Rate Code:
+257
+Description:
+Transportation - Commercial - Non-Heating (General Use)
+Model:
+Use Per Customer
+Submodel:
+model
+Equation:
+26.5892
++
+6.611900
+* log ( time + 
+-2003.67
+)
+SE
+22.0293
+9.193800
+4.4767
+t
+1.207
+0.719170
+-447.5732
+p
+0.26663
+0.495340
+7.3397E-17
+R2
+0.5265
+F
+NaN
+Rate Class:
+SC 5-2A Non Resi Water Heat Transport
+Rate Code:
+167
+Description:
+Transportation - Commercial - Non-Heating (Hot Water)
+Model:
+Use Per Customer
+Submodel:
+model
+Equation:
+256.9626
++
+1.031200
+*
+FETLA
+SE
+68.0832
+0.256570
+t
+-3.7742
+4.019000
+p
+0.0054326
+0.003847
+R2
+0.69707
+F
+18.4083
+Exhibit__(TEP-10D) 
+Page 13 of 49
+143
+
+
+--- Page 149 ---
+SC 5-2B Non Resi Space Heat Transport 
+ 
+ 
+ 
+SC 5-3A Multi Family Non Heat Transport  
+ 
+Rate Class:
+SC 5-2B Non Resi Space Heat Transport
+Rate Code:
+177
+Description:
+Transportation - Commercial - Heating
+Model:
+Use Per Customer
+Submodel:
+slopemodel
+Equation:
+10.4017
++
+0.069277
+*
+FHSTKMFA
+SE
+2.8962
+0.017099
+t
+-3.5915
+4.051500
+p
+0.0058252
+0.002878
+R2
+0.67303
+F
+18.5256
+Rate Class:
+SC 5-2B Non Resi Space Heat Transport
+Rate Code:
+177
+Description:
+Transportation - Commercial - Heating
+Model:
+Use Per Customer
+Submodel:
+basemodel
+Equation:
+50.3126
++
+0.749720
+*
+FEMFA
+SE
+8.9476
+0.115290
+t
+-5.6231
+6.503200
+p
+0.00032457
+0.000111
+R2
+0.82689
+F
+42.9905
+Rate Class:
+SC 5-3A Multi Family Non Heat Transport 
+Rate Code:
+158
+Description:
+Transportation - Multi-Family
+Rate Class:
+158
+Model:
+Use Per Customer
+Submodel:
+basemodel
+Equation:
+38.5926
++
+0.000000
+*
+constant
+Overall R2
+NULL
+Exhibit__(TEP-10D) 
+Page 14 of 49
+144
+
+
+--- Page 150 ---
+ 
+ 
+SC 5-3B Multi Family Heat Transport  
+ 
+ 
+ 
+ 
+Rate Class:
+SC 5-3A Multi Family Non Heat Transport 
+Rate Code:
+158
+Description:
+Transportation - Multi-Family
+Model:
+Use Per Customer
+Submodel:
+slopemodel
+Equation:
+4.2483
++
+0.318240
+* log ( time + 
+-2001.314
+)
+SE
+3.0782
+1.094400
+18.7574
+t
+1.3801
+0.290800
+-106.6944
+p
+0.20489
+0.778600
+6.6525E-14
+R2
+0.23419
+F
+NaN
+Rate Class:
+SC 5-3B Multi Family Heat Transport 
+Rate Code:
+159
+Description:
+Transportation - Multi-Family
+Rate Class:
+159
+Model:
+Use Per Customer
+Submodel:
+basemodel
+Equation:
+27.4336
++
+0.000000
+*
+constant
+Overall R2
+NULL
+Rate Class:
+SC 5-3B Multi Family Heat Transport 
+Rate Code:
+159
+Description:
+Transportation - Multi-Family
+Model:
+Use Per Customer
+Submodel:
+slopemodel
+Equation:
+0.88162
++
+0.745920
+* log ( time + 
+-1997.0087
+)
+SE
+7.915
+2.325300
+33.2922
+t
+-0.11139
+0.320790
+-59.9843
+p
+0.91405
+0.756590
+6.629E-12
+R2
+0.51794
+F
+NaN
+Exhibit__(TEP-10D) 
+Page 15 of 49
+145
+
+
+--- Page 151 ---
+SC 5-9 Wholesale NGV Transport 
+ 
+ 
+SC 5-15 High Load Factor Transport 
+ 
+ 
+ 
+Rate Class:
+SC 5-9 Wholesale NGV Transport
+Rate Code:
+NGV-Trans
+Description:
+Transportation - Compressed NGV
+Model:
+Use Per Customer
+Submodel:
+model
+Equation:
+112619.538
++
+23551.866900
+* log ( time + 
+-1886.6966
+)
+SE
+1751904.91
+301534.712200
+1570.8381
+t
+-0.064284
+0.078107
+-1.2011
+p
+0.95054
+0.939930
+0.26878
+R2
+0.90158
+F
+NaN
+Rate Class:
+SC 5-15 High Load Factor Transport
+Rate Code:
+267
+Description:
+Transportation - Commercial - High Load Factor
+Rate Class:
+267
+Model:
+Use Per Customer
+Submodel:
+model
+Equation:
+616.965
++
+0.000000
+*
+constant
+Overall R2
+0.58738764
+Exhibit__(TEP-10D) 
+Page 16 of 49
+146
+
+
+--- Page 152 ---
+SC 5-16 Yr Round Space Conditioning Transport 
+ 
+ 
+SC 5-17 Dist Gen Transport  
+ 
+ 
+SC 7 Interruptible Transport 
+ 
+Rate Class:
+SC 5-16 Yr Round Space Conditioning Transport
+Rate Code:
+277
+Description:
+Transportation - Commercial - Air Conditioning
+Model:
+Use Per Customer
+Submodel:
+model
+Equation:
+66211.6891
++
+398.345500
+*
+FHSTKMFA
+SE
+6784.0959
+40.076200
+t
+-9.7598
+9.939700
+p
+1.0174E-05
+0.000009
+R2
+0.9251
+F
+98.8096
+Rate Class:
+SC 5-17 Dist Gen Transport 
+Rate Code:
+347
+Description:
+Transportation - DG Rate 1 (<1MW)
+Rate Class:
+347
+Model:
+Use Per Customer
+Submodel:
+model
+Equation:
+143.956
++
+0.000000
+*
+constant
+Overall R2
+0.78069822
+Rate Class:
+SC 7 Interruptible Transport
+Rate Code:
+720
+Description:
+#N/A
+Rate Class:
+720
+Model:
+Use Per Customer
+Submodel:
+model
+Equation:
+0.000001
++
+0.000000
+*
+constant
+Overall R2
+NULL
+Exhibit__(TEP-10D) 
+Page 17 of 49
+147
+
+
+--- Page 153 ---
+ 
+ 
+ 
+Rate Class:
+SC 7 Interruptible Transport
+Rate Code:
+7291
+Description:
+Interruptible Transportation - Individual Customer broken out
+Model:
+Use Per Customer
+Submodel:
+model
+Equation:
+17279.5213
++
+0.113800
+*
+FYHHMEDA
+SE
+3840.4894
+0.024583
+t
+-4.4993
+4.629400
+p
+0.0020039
+0.001689
+R2
+0.72819
+F
+21.4321
+Rate Class:
+SC 7 Interruptible Transport
+Rate Code:
+711
+Description:
+#N/A
+Model:
+Use Per Customer
+Submodel:
+model
+Equation:
+3183.2056
++
+45.323600
+*
+FEFIA
+SE
+1512.8406
+20.250200
+t
+-2.1041
+2.238200
+p
+0.068497
+0.055583
+R2
+0.38512
+F
+5.0106
+Rate Class:
+SC 7 Interruptible Transport
+Rate Code:
+7110
+Description:
+Interruptible Transportation - Individual Customer broken out
+Model:
+Use Per Customer
+Submodel:
+model
+Equation:
+73.7409
++
+377.128800
+*
+FHSTKOTA
+SE
+18.5074
+67.480200
+t
+-3.9844
+5.588700
+p
+0.0040368
+0.000517
+R2
+0.79611
+F
+31.2362
+Exhibit__(TEP-10D) 
+Page 18 of 49
+148
+
+
+--- Page 154 ---
+ 
+ 
+ 
+SC 7 Small Electric Generator Transport  
+ 
+ 
+Rate Class:
+SC 7 Interruptible Transport
+Rate Code:
+721
+Description:
+#N/A
+Model:
+Use Per Customer
+Submodel:
+model
+Equation:
+0.000001
++
+0.000000
+* log ( time + 
+-2004
+)
+SE
+#VALUE!
+#VALUE!
+#VALUE!
+t
+#VALUE!
+#VALUE!
+#VALUE!
+p
+#VALUE!
+#VALUE!
+#VALUE!
+R2
+NaN
+F
+NaN
+Rate Class:
+SC 7 Interruptible Transport
+Rate Code:
+710
+Description:
+#N/A
+Model:
+Use Per Customer
+Submodel:
+model
+Equation:
+2866.9331
++
+-1235.155600
+* log ( time + 
+-2002.1157
+)
+SE
+7185.9931
+2562.027400
+11.4331
+t
+0.39896
+-0.482100
+-175.1163
+p
+0.70181
+0.644440
+5.2261E-14
+R2
+0.51663
+F
+NaN
+Exhibit__(TEP-10D) 
+Page 19 of 49
+149
+
+
+--- Page 155 ---
+SC 9 Wholesale NGV Sales 
+ 
+ 
+SC 12 TC Rate 1 Sales 
+ 
+ 
+ 
+Rate Class:
+SC 9 Wholesale NGV Sales
+Rate Code:
+NGV-Sales
+Description:
+Uncompressed NGV
+Model:
+Use Per Customer
+Submodel:
+model
+Equation:
+19989.3045
++
+-3960.890400
+* log ( time + 
+-1860.4518
+)
+SE
+3449817.25
+574601.810200
+21608.7736
+t
+0.0057943
+-0.006893
+-0.086097
+p
+0.99554
+0.994690
+0.9338
+R2
+0.4082
+F
+NaN
+Rate Class:
+SC 12 TC Rate 1 Sales
+Rate Code:
+330
+Description:
+Temperature-Controlled Service - Rate 1
+Model:
+Use Per Customer
+Submodel:
+model
+Equation:
+1006.8337
++
+-203.915800
+* log ( time + 
+-1914.033
+)
+SE
+26318.8186
+4735.504200
+2213.7853
+t
+0.038255
+-0.043061
+-0.8646
+p
+0.97055
+0.966860
+0.4159
+R2
+0.64139
+F
+NaN
+Exhibit__(TEP-10D) 
+Page 20 of 49
+150
+
+
+--- Page 156 ---
+SC 12 TC Rate 2 Sales 
+ 
+ 
+ 
+ 
+Rate Class:
+SC 12 TC Rate 2 Sales
+Rate Code:
+332
+Description:
+Temperature-Controlled Service - Rate 3
+Model:
+Use Per Customer
+Submodel:
+model
+Equation:
+15038.715
++
+209.628200
+*
+FEFIA
+SE
+4353.5609
+58.274900
+t
+-3.4543
+3.597200
+p
+0.0086393
+0.007010
+R2
+0.62283
+F
+13.2107
+Rate Class:
+SC 12 TC Rate 2 Sales
+Rate Code:
+331
+Description:
+Temperature-Controlled Service - Rate 2
+Model:
+Use Per Customer
+Submodel:
+model
+Equation:
+44451.0373
++
+-22.016600
+*
+TimeLinear
+SE
+6213.136
+3.090700
+t
+7.1544
+-7.123500
+p
+9.6677E-05
+0.000100
+R2
+0.86857
+F
+52.8676
+Exhibit__(TEP-10D) 
+Page 21 of 49
+151
+
+
+--- Page 157 ---
+SC 13 TC Rate 1 Transport  
+ 
+ 
+SC 13 TC Rate 2 Transport  
+ 
+Rate Class:
+SC 13 TC Rate 1 Transport 
+Rate Code:
+730
+Description:
+Transportation - TC Rate 1
+Model:
+Use Per Customer
+Submodel:
+model
+Equation:
+133.4027
++
+1.351800
+*
+FELHA
+SE
+41.5265
+0.401000
+t
+-3.2125
+3.371000
+p
+0.012378
+0.009771
+R2
+0.64051
+F
+14.2538
+Rate Class:
+SC 13 TC Rate 2 Transport 
+Rate Code:
+731
+Description:
+Transportation - TC Rate 2
+Model:
+Use Per Customer
+Submodel:
+model
+Equation:
+5153.7836
++
+99.392300
+*
+FE81A
+SE
+843.691
+15.717300
+t
+-6.1086
+6.323700
+p
+0.00028674
+0.000227
+R2
+0.83526
+F
+40.5603
+Exhibit__(TEP-10D) 
+Page 22 of 49
+152
+
+
+--- Page 158 ---
+ 
+ 
+SC 14 Large Electric Generator Transport 
+ 
+SC 15 High Load Factor Sales 
+ 
+Rate Class:
+SC 13 TC Rate 2 Transport 
+Rate Code:
+732
+Description:
+Transportation - TC Rate 3
+Model:
+Use Per Customer
+Submodel:
+model
+Equation:
+0.000001
++
+0.000000
+* log ( time + 
+-2004
+)
+SE
+#VALUE!
+#VALUE!
+#VALUE!
+t
+#VALUE!
+#VALUE!
+#VALUE!
+p
+#VALUE!
+#VALUE!
+#VALUE!
+R2
+NaN
+F
+NaN
+Rate Class:
+SC 15 High Load Factor Sales
+Rate Code:
+260
+Description:
+Commercial - High Load Factor
+Model:
+Use Per Customer
+Submodel:
+model
+Equation:
+19132.452
++
+14.065000
+*
+FLBEA
+SE
+3013.5914
+2.164300
+t
+-6.3487
+6.498500
+p
+0.00022091
+0.000188
+R2
+0.84176
+F
+42.5565
+Exhibit__(TEP-10D) 
+Page 23 of 49
+153
+
+
+--- Page 159 ---
+ 
+ 
+SC 16 Yr Round Space Conditioning Sales 
+ 
+ 
+ 
+Rate Class:
+SC 15 High Load Factor Sales
+Rate Code:
+340
+Description:
+DG Rate 1 (<1MW)
+Model:
+Use Per Customer
+Submodel:
+model
+Equation:
+868.0317
++
+36.214400
+*
+FE51A
+SE
+190.6954
+7.264400
+t
+-4.5519
+4.985200
+p
+0.0018696
+0.001073
+R2
+0.75983
+F
+25.3103
+Rate Class:
+SC 16 Yr Round Space Conditioning Sales
+Rate Code:
+270
+Description:
+Commercial - Air Conditioning
+Rate Class:
+270
+Model:
+Use Per Customer
+Submodel:
+model
+Equation:
+487.549
++
+0.000000
+*
+constant
+Overall R2
+0.31985966
+Exhibit__(TEP-10D) 
+Page 24 of 49
+154
+
+
+--- Page 160 ---
+ 
+Metamodels 
+ 
+ 
+ 
+Rate Class:
+#N/A
+Rate Code:
+Res Sales
+Description:
+#N/A
+Rate Class:
+Res Sales
+Model:
+Use Per Customer
+Submodel:
+slopemodel
+Equation:
+0.149981
++
+0.000000
+*
+constant
+Overall R2
+NULL
+Rate Class:
+#N/A
+Rate Code:
+Residential
+Description:
+#N/A
+Rate Class:
+Residential
+Model:
+Use Per Customer
+Submodel:
+slopemodel
+Equation:
+0.153455
++
+0.000000
+*
+constant
+Overall R2
+NULL
+Rate Class:
+#N/A
+Rate Code:
+Firm Trans
+Description:
+#N/A
+Rate Class:
+Firm Trans
+Model:
+Use Per Customer
+Submodel:
+slopemodel
+Equation:
+0.496079
++
+0.000000
+*
+constant
+Overall R2
+NULL
+Exhibit__(TEP-10D) 
+Page 25 of 49
+155
+
+
+--- Page 161 ---
+ 
+ 
+ 
+ 
+Rate Class:
+#N/A
+Rate Code:
+C & I Sales
+Description:
+#N/A
+Rate Class:
+C & I Sales
+Model:
+Use Per Customer
+Submodel:
+slopemodel
+Equation:
+0.567876
++
+0.000000
+*
+constant
+Overall R2
+NULL
+Rate Class:
+#N/A
+Rate Code:
+Res Heat Sales
+Description:
+#N/A
+Rate Class:
+Res Heat Sales
+Model:
+Use Per Customer
+Submodel:
+basemodel
+Equation:
+1.13799
++
+0.000000
+*
+constant
+Overall R2
+NULL
+Rate Class:
+#N/A
+Rate Code:
+Res Heating
+Description:
+#N/A
+Rate Class:
+Res Heating
+Model:
+Use Per Customer
+Submodel:
+basemodel
+Equation:
+1.15909
++
+0.000000
+*
+constant
+Overall R2
+NULL
+Rate Class:
+#N/A
+Rate Code:
+All
+Description:
+#N/A
+Rate Class:
+All
+Model:
+Use Per Customer
+Submodel:
+basemodel
+Equation:
+1.90354
++
+0.000000
+*
+constant
+Overall R2
+NULL
+Exhibit__(TEP-10D) 
+Page 26 of 49
+156
+
+
+--- Page 162 ---
+ 
+ 
+ 
+ 
+Rate Class:
+#N/A
+Rate Code:
+C & I DG
+Description:
+#N/A
+Rate Class:
+C & I DG
+Model:
+Use Per Customer
+Submodel:
+model
+Equation:
+143.935
++
+0.000000
+*
+constant
+Overall R2
+0.77564805
+Rate Class:
+#N/A
+Rate Code:
+C & I DG Trans
+Description:
+#N/A
+Rate Class:
+C & I DG Trans
+Model:
+Use Per Customer
+Submodel:
+model
+Equation:
+143.935
++
+0.000000
+*
+constant
+Overall R2
+0.78065852
+Rate Class:
+#N/A
+Rate Code:
+C & I Trans
+Description:
+#N/A
+Rate Class:
+C & I Trans
+Model:
+Use Per Customer
+Submodel:
+basemodel
+Equation:
+18.8709
++
+0.000000
+*
+constant
+Overall R2
+NULL
+Rate Class:
+#N/A
+Rate Code:
+Multi Heat Sales
+Description:
+#N/A
+Rate Class:
+Multi Heat Sales
+Model:
+Use Per Customer
+Submodel:
+basemodel
+Equation:
+21.9433
++
+0.000000
+*
+constant
+Overall R2
+NULL
+Exhibit__(TEP-10D) 
+Page 27 of 49
+157
+
+
+--- Page 163 ---
+ 
+ 
+ 
+ 
+Rate Class:
+#N/A
+Rate Code:
+Multi Trans
+Description:
+#N/A
+Rate Class:
+Multi Trans
+Model:
+Use Per Customer
+Submodel:
+basemodel
+Equation:
+38.0853
++
+0.000000
+*
+constant
+Overall R2
+NULL
+Rate Class:
+#N/A
+Rate Code:
+Multi Heat Trans
+Description:
+#N/A
+Rate Class:
+Multi Heat Trans
+Model:
+Use Per Customer
+Submodel:
+basemodel
+Equation:
+38.5926
++
+0.000000
+*
+constant
+Overall R2
+NULL
+Rate Class:
+#N/A
+Rate Code:
+Multi Family
+Description:
+#N/A
+Rate Class:
+Multi Family
+Model:
+Use Per Customer
+Submodel:
+slopemodel
+Equation:
+4.02193
++
+0.000000
+*
+constant
+Overall R2
+NULL
+Rate Class:
+#N/A
+Rate Code:
+Multi Family Heating
+Description:
+#N/A
+Rate Class:
+Multi Family Heating
+Model:
+Use Per Customer
+Submodel:
+slopemodel
+Equation:
+4.17167
++
+0.000000
+*
+constant
+Overall R2
+NULL
+Exhibit__(TEP-10D) 
+Page 28 of 49
+158
+
+
+--- Page 164 ---
+ 
+ 
+ 
+Rate Class:
+#N/A
+Rate Code:
+TC Trans
+Description:
+#N/A
+Rate Class:
+TC Trans
+Model:
+Use Per Customer
+Submodel:
+model
+Equation:
+419.92
++
+0.000000
+*
+constant
+Overall R2
+0.10803915
+Rate Class:
+#N/A
+Rate Code:
+Firm Trans
+Description:
+#N/A
+Rate Class:
+Firm Trans
+Model:
+Use Per Customer
+Submodel:
+basemodel
+Equation:
+6.68153
++
+0.000000
+*
+constant
+Overall R2
+NULL
+Rate Class:
+#N/A
+Rate Code:
+All Trans
+Description:
+#N/A
+Rate Class:
+All Trans
+Model:
+Use Per Customer
+Submodel:
+basemodel
+Equation:
+6.70854
++
+0.000000
+*
+constant
+Overall R2
+NULL
+Exhibit__(TEP-10D) 
+Page 29 of 49
+159
+
+
+--- Page 165 ---
+ 
+ 
+ 
+Rate Class:
+#N/A
+Rate Code:
+All
+Description:
+#N/A
+Model:
+Use Per Customer
+Submodel:
+slopemodel
+Equation:
+0.16024
++
+0.000271
+*
+FEEHA
+SE
+0.019692
+0.000087
+t
+8.1372
+3.101700
+p
+1.9319E-05
+0.012688
+R2
+0.51866
+F
+9.6979
+Rate Class:
+#N/A
+Rate Code:
+LLF Sales
+Description:
+#N/A
+Model:
+Use Per Customer
+Submodel:
+slopemodel
+Equation:
+0.82146
++
+-0.014083
+*
+NGPRCC
+SE
+0.090058
+0.006056
+t
+9.1215
+-2.325500
+p
+7.6497E-06
+0.045079
+R2
+0.4181
+F
+6.4665
+Rate Class:
+#N/A
+Rate Code:
+Res NH Sales
+Description:
+#N/A
+Model:
+Use Per Customer
+Submodel:
+model
+Equation:
+1.4735
++
+0.020563
+*
+FELHA
+SE
+0.35283
+0.003407
+t
+-4.1764
+6.035400
+p
+0.003095
+0.000311
+R2
+0.81996
+F
+36.4339
+Exhibit__(TEP-10D) 
+Page 30 of 49
+160
+
+
+--- Page 166 ---
+ 
+ 
+ 
+Rate Class:
+#N/A
+Rate Code:
+Res Non-Heating
+Description:
+#N/A
+Model:
+Use Per Customer
+Submodel:
+model
+Equation:
+1.5583
++
+0.021564
+*
+FELHA
+SE
+0.31392
+0.003031
+t
+-4.9639
+7.113700
+p
+0.0011015
+0.000101
+R2
+0.86355
+F
+50.6285
+Rate Class:
+#N/A
+Rate Code:
+HLF Trans
+Description:
+#N/A
+Model:
+Use Per Customer
+Submodel:
+model
+Equation:
+1291.1101
++
+1.302400
+*
+FHSTKA
+SE
+317.9602
+0.308100
+t
+-4.0606
+4.227300
+p
+0.0036304
+0.002887
+R2
+0.69353
+F
+18.104
+Rate Class:
+#N/A
+Rate Code:
+HLF Sales
+Description:
+#N/A
+Model:
+Use Per Customer
+Submodel:
+model
+Equation:
+163.4412
++
+0.128640
+*
+FLBEA
+SE
+78.7252
+0.056540
+t
+-2.0761
+2.275300
+p
+0.071548
+0.052456
+R2
+0.39295
+F
+5.1785
+Exhibit__(TEP-10D) 
+Page 31 of 49
+161
+
+
+--- Page 167 ---
+ 
+ 
+ 
+Rate Class:
+#N/A
+Rate Code:
+C & I Sales
+Description:
+#N/A
+Model:
+Use Per Customer
+Submodel:
+basemodel
+Equation:
+17.4844
++
+0.000137
+*
+FYHHMEDA
+SE
+6.9833
+0.000045
+t
+-2.5037
+3.045800
+p
+0.033655
+0.013887
+R2
+0.50777
+F
+9.2843
+Rate Class:
+#N/A
+Rate Code:
+Firm Sales
+Description:
+#N/A
+Model:
+Use Per Customer
+Submodel:
+basemodel
+Equation:
+2.0485
++
+0.000020
+*
+FYHHMEDA
+SE
+0.54934
+0.000004
+t
+-3.7291
+5.790200
+p
+0.0047042
+0.000263
+R2
+0.80113
+F
+36.2547
+Rate Class:
+#N/A
+Rate Code:
+Multi Non-Heating Sales
+Description:
+#N/A
+Model:
+Use Per Customer
+Submodel:
+model
+Equation:
+205.1174
++
+3.205000
+*
+FEFIA
+SE
+24.2779
+0.324970
+t
+-8.4487
+9.862300
+p
+2.9421E-05
+0.000009
+R2
+0.92412
+F
+97.4331
+Exhibit__(TEP-10D) 
+Page 32 of 49
+162
+
+
+--- Page 168 ---
+ 
+ 
+ 
+Rate Class:
+#N/A
+Rate Code:
+C & I NGV
+Description:
+#N/A
+Model:
+Use Per Customer
+Submodel:
+model
+Equation:
+230590.135
++
+115.047500
+*
+TimeLinear
+SE
+69401.7353
+34.523500
+t
+-3.3225
+3.332400
+p
+0.0105
+0.010347
+R2
+0.58127
+F
+11.1054
+Rate Class:
+#N/A
+Rate Code:
+Multi Family
+Description:
+#N/A
+Model:
+Use Per Customer
+Submodel:
+basemodel
+Equation:
+26.4373
++
+0.000367
+*
+FYPA
+SE
+11.7901
+0.000078
+t
+-2.2423
+4.707100
+p
+0.051646
+0.001109
+R2
+0.71117
+F
+22.1605
+Rate Class:
+#N/A
+Rate Code:
+Res NH Trans
+Description:
+#N/A
+Model:
+Use Per Customer
+Submodel:
+model
+Equation:
+3.2225
++
+0.079780
+*
+FE81A
+SE
+1.0448
+0.019464
+t
+-3.0843
+4.098800
+p
+0.01502
+0.003443
+R2
+0.68381
+F
+17.3011
+Exhibit__(TEP-10D) 
+Page 33 of 49
+163
+
+
+--- Page 169 ---
+ 
+ 
+ 
+Rate Class:
+#N/A
+Rate Code:
+Multi Sales
+Description:
+#N/A
+Model:
+Use Per Customer
+Submodel:
+basemodel
+Equation:
+35.0377
++
+-2.206300
+*
+FLBRA
+SE
+6.1941
+1.037500
+t
+5.6566
+-2.126500
+p
+0.00031096
+0.062376
+R2
+0.33443
+F
+4.5222
+Rate Class:
+#N/A
+Rate Code:
+Multi Family Heating
+Description:
+#N/A
+Model:
+Use Per Customer
+Submodel:
+basemodel
+Equation:
+35.5489
++
+0.000426
+*
+FYPA
+SE
+13.268
+0.000088
+t
+-2.6793
+4.857600
+p
+0.025235
+0.000899
+R2
+0.72393
+F
+23.6
+Rate Class:
+#N/A
+Rate Code:
+C & I Trans
+Description:
+#N/A
+Model:
+Use Per Customer
+Submodel:
+slopemodel
+Equation:
+39.9179
++
+0.020405
+*
+TimeLinear
+SE
+14.6813
+0.007304
+t
+-2.719
+2.793500
+p
+0.023648
+0.020933
+R2
+0.50825
+F
+9.3018
+Exhibit__(TEP-10D) 
+Page 34 of 49
+164
+
+
+--- Page 170 ---
+ 
+ 
+ 
+Rate Class:
+#N/A
+Rate Code:
+LLF Sales
+Description:
+#N/A
+Model:
+Use Per Customer
+Submodel:
+basemodel
+Equation:
+4.4383
++
+-0.031095
+*
+FLBUA
+SE
+0.52117
+0.005885
+t
+8.5159
+-5.283800
+p
+0.00001339
+0.000505
+R2
+0.75628
+F
+27.9274
+Rate Class:
+#N/A
+Rate Code:
+All Sales
+Description:
+#N/A
+Model:
+Use Per Customer
+Submodel:
+basemodel
+Equation:
+4.5142
++
+0.000037
+*
+FYHHMEDA
+SE
+1.294
+0.000008
+t
+-3.4884
+4.469300
+p
+0.006847
+0.001556
+R2
+0.68938
+F
+19.9748
+Rate Class:
+#N/A
+Rate Code:
+Low Load Factor
+Description:
+#N/A
+Model:
+Use Per Customer
+Submodel:
+slopemodel
+Equation:
+4.9544
++
+0.033840
+*
+FHSTKMFA
+SE
+#VALUE!
+#VALUE!
+t
+#VALUE!
+#VALUE!
+p
+0.027189
+0.013859
+R2
+32.6317
+F
+-9.2845
+Exhibit__(TEP-10D) 
+Page 35 of 49
+165
+
+
+--- Page 171 ---
+ 
+ 
+ 
+Rate Class:
+#N/A
+Rate Code:
+Multi Sales
+Description:
+#N/A
+Model:
+Use Per Customer
+Submodel:
+slopemodel
+Equation:
+418.3357
++
+-0.206410
+*
+TimeLinear
+SE
+113.4637
+0.056451
+t
+3.687
+-3.656400
+p
+0.005021
+0.005265
+R2
+0.60278
+F
+13.6577
+Rate Class:
+#N/A
+Rate Code:
+Multi Heat Sales
+Description:
+#N/A
+Model:
+Use Per Customer
+Submodel:
+slopemodel
+Equation:
+454.7578
++
+-0.224430
+*
+TimeLinear
+SE
+121.3001
+0.060350
+t
+3.749
+-3.718700
+p
+0.0045615
+0.004780
+R2
+0.61113
+F
+14.1439
+Rate Class:
+#N/A
+Rate Code:
+FIRM SENDOUT
+Description:
+#N/A
+Model:
+Use Per Customer
+Submodel:
+slopemodel
+Equation:
+5.1656
++
+0.002677
+*
+TimeLinear
+SE
+1.1195
+0.000557
+t
+-4.6143
+4.805500
+p
+0.0012645
+0.000966
+R2
+0.71967
+F
+23.1055
+Exhibit__(TEP-10D) 
+Page 36 of 49
+166
+
+
+--- Page 172 ---
+ 
+ 
+ 
+Rate Class:
+#N/A
+Rate Code:
+Firm
+Description:
+#N/A
+Model:
+Use Per Customer
+Submodel:
+slopemodel
+Equation:
+5.1656
++
+0.002677
+*
+TimeLinear
+SE
+1.1195
+0.000557
+t
+-4.6143
+4.805500
+p
+0.0012645
+0.000966
+R2
+0.71967
+F
+23.1055
+Rate Class:
+#N/A
+Rate Code:
+Comm & Indust
+Description:
+#N/A
+Model:
+Use Per Customer
+Submodel:
+slopemodel
+Equation:
+5.9758
++
+0.002346
+*
+FPOPA
+SE
+0.88477
+0.000312
+t
+-6.7541
+7.516600
+p
+8.3264E-05
+0.000036
+R2
+0.8626
+F
+56.5025
+Rate Class:
+#N/A
+Rate Code:
+LLF Trans
+Description:
+#N/A
+Model:
+Use Per Customer
+Submodel:
+basemodel
+Equation:
+50.7423
++
+0.754770
+*
+FEMFA
+SE
+8.5887
+0.110660
+t
+-5.908
+6.820500
+p
+0.0002268
+0.000077
+R2
+0.84028
+F
+47.3487
+Exhibit__(TEP-10D) 
+Page 37 of 49
+167
+
+
+--- Page 173 ---
+ 
+ 
+ 
+Rate Class:
+#N/A
+Rate Code:
+Res Heat Trans
+Description:
+#N/A
+Model:
+Use Per Customer
+Submodel:
+basemodel
+Equation:
+51.5674
++
+0.026196
+*
+TimeLinear
+SE
+25.4632
+0.012669
+t
+-2.0252
+2.067800
+p
+0.073506
+0.068611
+R2
+0.32264
+F
+4.2868
+Rate Class:
+#N/A
+Rate Code:
+Low Load Factor
+Description:
+#N/A
+Model:
+Use Per Customer
+Submodel:
+basemodel
+Equation:
+6.438
++
+-0.611660
+*
+FLBRA
+SE
+0.63532
+0.106420
+t
+10.1335
+-5.747600
+p
+3.2038E-06
+0.000277
+R2
+0.78826
+F
+33.5051
+Rate Class:
+#N/A
+Rate Code:
+Interruptible Trans
+Description:
+#N/A
+Model:
+Use Per Customer
+Submodel:
+model
+Equation:
+6674.4708
++
+92.490400
+*
+FEMFA
+SE
+1537.6577
+19.639900
+t
+-4.3407
+4.709300
+p
+0.0024761
+0.001523
+R2
+0.73794
+F
+22.5269
+Exhibit__(TEP-10D) 
+Page 38 of 49
+168
+
+
+--- Page 174 ---
+ 
+ 
+ 
+Rate Class:
+#N/A
+Rate Code:
+Non-Firm Trans
+Description:
+#N/A
+Model:
+Use Per Customer
+Submodel:
+model
+Equation:
+8141.0216
++
+113.284300
+*
+FEMFA
+SE
+1615.9704
+20.640200
+t
+-5.0379
+5.488500
+p
+0.0010043
+0.000582
+R2
+0.79017
+F
+30.1266
+Rate Class:
+#N/A
+Rate Code:
+Comm & Indust
+Description:
+#N/A
+Model:
+Use Per Customer
+Submodel:
+basemodel
+Equation:
+85.5429
++
+0.108310
+*
+FHSTK1A
+SE
+#VALUE!
+#VALUE!
+t
+#VALUE!
+#VALUE!
+p
+0.00012018
+0.000064
+R2
+1.226
+F
+-48.8271
+Rate Class:
+#N/A
+Rate Code:
+C & I DG Sales
+Description:
+#N/A
+Model:
+Use Per Customer
+Submodel:
+model
+Equation:
+867.958
++
+36.211300
+*
+FE51A
+SE
+190.6663
+7.263300
+t
+-4.5522
+4.985500
+p
+0.0018689
+0.001072
+R2
+0.75986
+F
+25.3137
+Exhibit__(TEP-10D) 
+Page 39 of 49
+169
+
+
+--- Page 175 ---
+ 
+ 
+ 
+Rate Class:
+#N/A
+Rate Code:
+LLF Trans
+Description:
+#N/A
+Model:
+Use Per Customer
+Submodel:
+slopemodel
+Equation:
+9.1629
++
+0.061879
+*
+FHSTKMFA
+SE
+2.8784
+0.016994
+t
+-3.1833
+3.641200
+p
+0.011126
+0.005391
+R2
+0.62271
+F
+14.8543
+Rate Class:
+#N/A
+Rate Code:
+Firm Sales
+Description:
+#N/A
+Model:
+Use Per Customer
+Submodel:
+slopemodel
+Equation:
+0.18899
++
+-0.004085
+* log ( time + 
+-2003.5136
+)
+SE
+0.011502
+0.005573
+2.1778
+t
+16.4315
+-0.732930
+-919.9594
+p
+1.8973E-07
+0.484520
+2.183E-21
+R2
+0.42427
+F
+NaN
+Rate Class:
+#N/A
+Rate Code:
+Res Heating
+Description:
+#N/A
+Model:
+Use Per Customer
+Submodel:
+slopemodel
+Equation:
+0.2607
++
+-0.025714
+* log ( time + 
+-1997.7091
+)
+SE
+0.091396
+0.027426
+10.5473
+t
+2.8524
+-0.937560
+-189.4053
+p
+0.0214
+0.375910
+6.7567E-16
+R2
+0.88821
+F
+NaN
+Exhibit__(TEP-10D) 
+Page 40 of 49
+170
+
+
+--- Page 176 ---
+ 
+ 
+ 
+Rate Class:
+#N/A
+Rate Code:
+Res Heat Trans
+Description:
+#N/A
+Model:
+Use Per Customer
+Submodel:
+slopemodel
+Equation:
+0.2732
++
+-0.024398
+* log ( time + 
+-1999.2349
+)
+SE
+0.11862
+0.037634
+12.5085
+t
+2.3032
+-0.648310
+-159.8298
+p
+0.050218
+0.534950
+2.627E-15
+R2
+0.71197
+F
+NaN
+Rate Class:
+#N/A
+Rate Code:
+All Sales
+Description:
+#N/A
+Model:
+Use Per Customer
+Submodel:
+slopemodel
+Equation:
+0.27647
++
+-0.032077
+* log ( time + 
+-1994.762
+)
+SE
+0.27114
+0.075309
+30.8695
+t
+1.0197
+-0.425940
+-64.6192
+p
+0.33772
+0.681380
+3.6588E-12
+R2
+0.75756
+F
+NaN
+Rate Class:
+#N/A
+Rate Code:
+Res Heat Sales
+Description:
+#N/A
+Model:
+Use Per Customer
+Submodel:
+slopemodel
+Equation:
+0.33802
++
+-0.047927
+* log ( time + 
+-1989.8288
+)
+SE
+0.34276
+0.087362
+33.4896
+t
+0.98616
+-0.548600
+-59.4164
+p
+0.35294
+0.598250
+7.1521E-12
+R2
+0.89404
+F
+NaN
+Exhibit__(TEP-10D) 
+Page 41 of 49
+171
+
+
+--- Page 177 ---
+ 
+ 
+ 
+Rate Class:
+#N/A
+Rate Code:
+All Trans
+Description:
+#N/A
+Model:
+Use Per Customer
+Submodel:
+slopemodel
+Equation:
+0.46635
++
+0.029423
+* log ( time + 
+-2003.6993
+)
+SE
+0.079131
+0.040886
+1.5116
+t
+5.8934
+0.719650
+-1325.5513
+p
+0.00036446
+0.492230
+1.175E-22
+R2
+0.31132
+F
+NaN
+Rate Class:
+#N/A
+Rate Code:
+Res Sales
+Description:
+#N/A
+Model:
+Use Per Customer
+Submodel:
+basemodel
+Equation:
+0.82831
++
+0.007976
+* log ( time + 
+-2003.9762
+)
+SE
+0.037012
+0.021957
+0.26964
+t
+22.3791
+0.363260
+-7431.9116
+p
+1.6815E-08
+0.725820
+1.2034E-28
+R2
+0.19571
+F
+NaN
+Rate Class:
+#N/A
+Rate Code:
+FIRM SENDOUT
+Description:
+#N/A
+Model:
+Use Per Customer
+Submodel:
+basemodel
+Equation:
+10.2199
++
+2.825000
+* log ( time + 
+-1943.3479
+)
+SE
+87.0184
+16.793000
+388.8467
+t
+-0.11744
+0.168230
+-4.9977
+p
+0.9094
+0.870580
+0.0010558
+R2
+0.90991
+F
+NaN
+Exhibit__(TEP-10D) 
+Page 42 of 49
+172
+
+
+--- Page 178 ---
+ 
+ 
+ 
+Rate Class:
+#N/A
+Rate Code:
+Firm
+Description:
+#N/A
+Model:
+Use Per Customer
+Submodel:
+basemodel
+Equation:
+10.2199
++
+2.825000
+* log ( time + 
+-1943.3479
+)
+SE
+87.0184
+16.793000
+388.8467
+t
+-0.11744
+0.168230
+-4.9977
+p
+0.9094
+0.870580
+0.0010558
+R2
+0.90991
+F
+NaN
+Rate Class:
+#N/A
+Rate Code:
+High Load Factor
+Description:
+#N/A
+Model:
+Use Per Customer
+Submodel:
+model
+Equation:
+11.311
++
+10.049400
+* log ( time + 
+-2003.4381
+)
+SE
+19.1501
+7.738900
+2.7755
+t
+0.59065
+1.298600
+-721.8182
+p
+0.57332
+0.235240
+2.5868E-18
+R2
+0.79992
+F
+NaN
+Rate Class:
+#N/A
+Rate Code:
+TC
+Description:
+#N/A
+Model:
+Use Per Customer
+Submodel:
+model
+Equation:
+1108.0492
++
+-318.864000
+* log ( time + 
+-1991.5941
+)
+SE
+3884.9192
+1007.240100
+54.3379
+t
+0.28522
+-0.316570
+-36.652
+p
+0.78373
+0.760800
+2.9246E-09
+R2
+0.79074
+F
+NaN
+Exhibit__(TEP-10D) 
+Page 43 of 49
+173
+
+
+--- Page 179 ---
+ 
+ 
+ 
+Rate Class:
+#N/A
+Rate Code:
+C & I NGV Trans
+Description:
+#N/A
+Model:
+Use Per Customer
+Submodel:
+model
+Equation:
+112619.417
++
+###########
+* log ( time + 
+-1886.697
+)
+SE
+1751878.44
+###########
+1570.8098
+t
+-0.064285
+0.078108
+-1.2011
+p
+0.95054
+0.939930
+0.26877
+R2
+0.90158
+F
+NaN
+Rate Class:
+#N/A
+Rate Code:
+Multi Non-Heating Trans
+Description:
+#N/A
+Model:
+Use Per Customer
+Submodel:
+model
+Equation:
+14.7984
++
+19.465700
+* log ( time + 
+-2003.1705
+)
+SE
+49.2204
+19.264300
+3.9819
+t
+0.30066
+1.010500
+-503.075
+p
+0.77241
+0.345920
+3.2382E-17
+R2
+0.72932
+F
+NaN
+Rate Class:
+#N/A
+Rate Code:
+TC Sales
+Description:
+#N/A
+Model:
+Use Per Customer
+Submodel:
+model
+Equation:
+1594.8197
++
+-445.155300
+* log ( time + 
+-1985.8106
+)
+SE
+6672.2322
+1608.122500
+83.6599
+t
+0.23902
+-0.276820
+-23.7367
+p
+0.81793
+0.789920
+5.9861E-08
+R2
+0.83509
+F
+NaN
+Exhibit__(TEP-10D) 
+Page 44 of 49
+174
+
+
+--- Page 180 ---
+ 
+ 
+ 
+Rate Class:
+#N/A
+Rate Code:
+C & I NGV Sales
+Description:
+#N/A
+Model:
+Use Per Customer
+Submodel:
+model
+Equation:
+19989.857
++
+-3960.976500
+* log ( time + 
+-1860.4473
+)
+SE
+3450041.72
+574636.300000
+21610.2554
+t
+0.0057941
+-0.006893
+-0.086091
+p
+0.99554
+0.994690
+0.9338
+R2
+0.40815
+F
+NaN
+Rate Class:
+#N/A
+Rate Code:
+Res DG Trans
+Description:
+#N/A
+Model:
+Use Per Customer
+Submodel:
+model
+Equation:
+0.000001
++
+0.000000
+* log ( time + 
+-2004
+)
+SE
+#VALUE!
+#VALUE!
+#VALUE!
+t
+#VALUE!
+#VALUE!
+#VALUE!
+p
+#VALUE!
+#VALUE!
+#VALUE!
+R2
+1
+F
+NaN
+Rate Class:
+#N/A
+Rate Code:
+Res Trans
+Description:
+#N/A
+Model:
+Use Per Customer
+Submodel:
+slopemodel
+Equation:
+2.093
++
+-0.394640
+* log ( time + 
+-1885.8597
+)
+SE
+36.9912
+6.364000
+1983.6259
+t
+0.056581
+-0.062012
+-0.95071
+p
+0.95627
+0.952070
+0.36958
+R2
+0.79753
+F
+NaN
+Exhibit__(TEP-10D) 
+Page 45 of 49
+175
+
+
+--- Page 181 ---
+ 
+ 
+ 
+Rate Class:
+#N/A
+Rate Code:
+Residential
+Description:
+#N/A
+Model:
+Use Per Customer
+Submodel:
+basemodel
+Equation:
+2.9065
++
+0.777020
+* log ( time + 
+-1883.1546
+)
+SE
+309.9732
+53.129100
+8595.9394
+t
+-0.0093768
+0.014625
+-0.21907
+p
+0.99275
+0.988690
+0.83208
+R2
+0.2574
+F
+NaN
+Rate Class:
+#N/A
+Rate Code:
+Multi Trans
+Description:
+#N/A
+Model:
+Use Per Customer
+Submodel:
+slopemodel
+Equation:
+3.6815
++
+0.447310
+* log ( time + 
+-1999.1155
+)
+SE
+5.7092
+1.802400
+33.2521
+t
+0.64485
+0.248170
+-60.12
+p
+0.53708
+0.810250
+6.5105E-12
+R2
+0.28263
+F
+NaN
+Rate Class:
+#N/A
+Rate Code:
+Multi Heat Trans
+Description:
+#N/A
+Model:
+Use Per Customer
+Submodel:
+slopemodel
+Equation:
+4.2483
++
+0.318240
+* log ( time + 
+-2001.3141
+)
+SE
+3.0781
+1.094300
+18.7569
+t
+1.3802
+0.290800
+-106.6977
+p
+0.20487
+0.778600
+6.6509E-14
+R2
+0.23419
+F
+NaN
+Exhibit__(TEP-10D) 
+Page 46 of 49
+176
+
+
+--- Page 182 ---
+ 
+ 
+ 
+Rate Class:
+#N/A
+Rate Code:
+Interruptible Sales
+Description:
+#N/A
+Model:
+Use Per Customer
+Submodel:
+model
+Equation:
+409.6357
++
+-112.314900
+* log ( time + 
+-2002.295
+)
+SE
+394.3821
+142.481300
+6.6885
+t
+1.0387
+-0.788280
+-299.3647
+p
+0.3335
+0.456390
+1.2254E-15
+R2
+0.72357
+F
+NaN
+Rate Class:
+#N/A
+Rate Code:
+Interruptible
+Description:
+#N/A
+Model:
+Use Per Customer
+Submodel:
+model
+Equation:
+469.8841
++
+-143.043900
+* log ( time + 
+-2002.7721
+)
+SE
+400.0006
+150.386600
+4.8476
+t
+1.1747
+-0.951170
+-413.1435
+p
+0.27852
+0.373190
+1.2853E-16
+R2
+0.75673
+F
+NaN
+Rate Class:
+#N/A
+Rate Code:
+Multi Family Non-Heating
+Description:
+#N/A
+Model:
+Use Per Customer
+Submodel:
+model
+Equation:
+508.2755
++
+-95.653500
+* log ( time + 
+-1884.2205
+)
+SE
+16347.3536
+2804.031600
+3669.3164
+t
+0.031092
+-0.034113
+-0.51351
+p
+0.97606
+0.973740
+0.6234
+R2
+0.64065
+F
+NaN
+Exhibit__(TEP-10D) 
+Page 47 of 49
+177
+
+
+--- Page 183 ---
+ 
+ 
+ 
+Rate Class:
+#N/A
+Rate Code:
+Non-Firm
+Description:
+#N/A
+Model:
+Use Per Customer
+Submodel:
+model
+Equation:
+548.1826
++
+-164.865400
+* log ( time + 
+-2000.8741
+)
+SE
+493.0632
+163.241000
+7.0085
+t
+1.1118
+-1.010000
+-285.4937
+p
+0.30295
+0.346150
+1.708E-15
+R2
+0.86787
+F
+NaN
+Rate Class:
+#N/A
+Rate Code:
+Non-Firm Sales
+Description:
+#N/A
+Model:
+Use Per Customer
+Submodel:
+model
+Equation:
+599.7755
++
+-176.102900
+* log ( time + 
+-1999.0957
+)
+SE
+710.2931
+218.279200
+11.3476
+t
+0.84441
+-0.806780
+-176.1684
+p
+0.42636
+0.446340
+5.0116E-14
+R2
+0.86583
+F
+NaN
+Rate Class:
+#N/A
+Rate Code:
+Res DG Sales
+Description:
+#N/A
+Model:
+Use Per Customer
+Submodel:
+model
+Equation:
+7.279
++
+4.653100
+* log ( time + 
+-2000.7987
+)
+SE
+15.0819
+4.974500
+7.6646
+t
+-0.48263
+0.935390
+-261.0453
+p
+0.64408
+0.380720
+3.1961E-15
+R2
+0.86268
+F
+NaN
+Exhibit__(TEP-10D) 
+Page 48 of 49
+178
+
+
+--- Page 184 ---
+ 
+ 
+ 
+Rate Class:
+#N/A
+Rate Code:
+Res Distributed Generation
+Description:
+#N/A
+Model:
+Use Per Customer
+Submodel:
+model
+Equation:
+7.279
++
+4.653100
+* log ( time + 
+-2000.7987
+)
+SE
+15.0819
+4.974500
+7.6646
+t
+-0.48263
+0.935390
+-261.0453
+p
+0.64408
+0.380720
+3.1961E-15
+R2
+0.86268
+F
+NaN
+Rate Class:
+#N/A
+Rate Code:
+Res Trans
+Description:
+#N/A
+Model:
+Use Per Customer
+Submodel:
+basemodel
+Equation:
+9.178
++
+2.016100
+* log ( time + 
+-1852.8807
+)
+SE
+845.2019
+139.699400
+10810.5339
+t
+-0.010859
+0.014432
+-0.1714
+p
+0.9916
+0.988840
+0.86817
+R2
+0.30005
+F
+NaN
+Exhibit__(TEP-10D) 
+Page 49 of 49
+179
+
+
+--- Page 185 ---
+ 
+ 
+ 
+ 
+ 
+Exhibit__ (TEP-11) 
+ 
+ 
+ 
+ 
+ 
+ 
+ 
+ 
+ 
+ 
+ 
+ 
+ 
+ 
+ 
+ 
+ 
+ 
+ 
+ 
+ 
+ 
+ 
+ 
+ 
+ 
+ 
+ 
+ 
+ 
+ 
+ 
+ 
+ 
+ 
+ 
+
+
+--- Page 186 ---
+Testimony of Theodore Poe, Jr. 
+ 
+ 
+ 
+ 
+ 
+ 
+ 
+ 
+ 
+ 
+ 
+Exhibit __ (TEP-11) 
+ 
+30-Year Normal Heating Degree Days 
+180
+
+
+--- Page 187 ---
+Month
+Jul
+Aug
+Sep
+Oct
+Nov
+Dec
+Jan
+Feb
+Mar
+Apr
+May
+Jun
+Total
+30-Year
+Normal
+1985-86
+to
+2014-15
+0
+1
+32
+249
+509
+826
+968
+835
+681
+350
+122
+14
+4,587
+Exhibit__(TEP-11) 
+Page 1 of 1
+181
+
+
+--- Page 188 ---
+Exhibit__ (TEP-12A) 
+ 
+ 
+ 
+ 
+ 
+ 
+ 
+ 
+ 
+ 
+ 
+ 
+ 
+ 
+ 
+ 
+ 
+ 
+ 
+ 
+ 
+ 
+ 
+ 
+ 
+ 
+ 
+ 
+ 
+ 
+ 
+ 
+ 
+ 
+ 
+ 
+
+
+--- Page 189 ---
+Testimony of Theodore Poe, Jr. 
+ 
+ 
+ 
+ 
+ 
+ 
+ 
+ 
+ 
+ 
+ 
+Exhibit __ (TEP-12A) 
+ 
+KEDNY Calendar Year Actual Use Per Customer by Service 
+and Revenue Class for the Period 2010 – 2014
+182
+
+
+--- Page 190 ---
+KEDNY Calendar Year Actual Use Per Customer by Service and Revenue Class for the Period 2010 - 2014
+(therms)
+2010
+2011
+2012
+2013
+2014
+SC 1A Resi Non Heat Sales
+98
+101
+99
+110
+119
+SC 1AR Reduced Rate Resi Non Heat Sales
+80
+84
+81
+85
+90
+SC 1B Resi Heat Sales
+1,187
+1,253
+1,037
+1,208
+1,310
+SC 1BR Resi Heat Reduced Rate Sales
+1,099
+1,237
+1,023
+1,215
+1,280
+SC 1B-DG Resi Dist Gen Sales
+6,207
+1,283
+2,804
+1,419
+2,941
+SC 2-1 Non Resi Non Heat Sales
+4,741
+4,928
+4,661
+4,720
+5,381
+SC 2-2 Non Resi Heat Sales
+2,845
+3,365
+2,606
+3,288
+3,779
+SC 3 Multi Family Sales
+6,541
+6,905
+5,826
+7,419
+8,160
+SC 4A High Load Factor Sales
+210,404
+219,575
+202,969
+162,382
+224,234
+SC 4A-CNG Wholesale NGV Sales
+0
+923,696
+940,330
+1,038,211
+826,854
+SC 4B Yr Round Space Conditioning Sales
+35,891
+36,829
+29,620
+26,965
+28,474
+SC 6C TC Comm / Ind Sales
+118,905
+111,462
+104,088
+97,646
+98,534
+SC 6G TC Governmental Sales
+110,184
+114,057
+92,854
+108,752
+98,933
+SC 6M TC Multi-Family Sales
+49,516
+51,406
+45,949
+49,997
+46,747
+SC 7 Seasonal Off-Peak Sales
+4,077
+4,044
+8,657
+4,985
+5,127
+SC 14 Retail NGV Sales
+0
+0
+0
+0
+0
+SC 17-1A  Resi Non Heat Transport
+202
+202
+195
+211
+221
+SC 17-1AR Resi Non Heat Reduced Rate Transp
+81
+90
+87
+93
+95
+SC 17-1B Resi Heat Transport
+1,290
+1,290
+1,111
+1,329
+1,506
+SC 17-1BR Resi Heat Reduced Rate Transp
+1,054
+1,068
+960
+1,172
+1,277
+SC 17-2-1 Non Resi Non Heat Transport
+11,989
+11,804
+11,337
+11,303
+12,179
+SC 17-2-2 Non Resi Heat Transport
+5,051
+5,510
+4,699
+5,760
+6,627
+SC 17-3 Multi Family Transport
+28,447
+28,960
+25,104
+28,729
+32,281
+SC 17-4A High Load Factor Transport
+857,323
+865,957
+856,698
+963,366
+945,033
+SC 17-4A-CNG Wholesale NGV Transport
+0
+64,880
+62
+6,843
+13,687
+SC 17-4B Yr Round Space Conditioning Transport
+41,456
+49,923
+40,661
+37,222
+41,445
+SC 17-7 Seasonal Off-Peak Transport 
+0
+0
+0
+2,511
+2,431
+SC 18-5A Non-Core Transport
+#N/A
+#N/A
+9,795,545
+10,088,940
+9,198,660
+SC 18-6C TC Comm / Ind Transport
+249,273
+199,024
+156,333
+172,405
+166,409
+SC 18-6G TC Governmental Transport
+0
+183,596
+158,990
+114,631
+149,012
+SC 18-6M TC Multi-Family Transport
+62,922
+55,226
+49,920
+66,894
+64,890
+SC 18 Small Electric Generator Transport
+#N/A
+#N/A
+#N/A
+#N/A
+92,341,860
+SC 20 Large Electric Generator Transport
+#N/A
+#N/A
+#N/A
+#N/A
+64,214,660
+SC 21 Dist Gen Sales
+0
+0
+0
+0
+0
+Average
+1,172
+1,240
+1,112
+1,277
+1,708
+Average Excluding Non-Core and Electric Gen
+1,172
+1,240
+1,096
+1,261
+1,362
+Exhibit__(TEP-12A) 
+Page 1 of 1
+183
+
+
+--- Page 191 ---
+ 
+ 
+Exhibit__ (TEP-12B) 
+ 
+ 
+ 
+ 
+ 
+ 
+ 
+ 
+ 
+ 
+ 
+ 
+ 
+ 
+ 
+ 
+ 
+ 
+ 
+ 
+ 
+ 
+ 
+ 
+ 
+ 
+ 
+ 
+ 
+ 
+ 
+ 
+ 
+ 
+ 
+ 
+
+
+--- Page 192 ---
+Testimony of Theodore Poe, Jr. 
+ 
+ 
+ 
+ 
+ 
+ 
+ 
+ 
+ 
+ 
+ 
+Exhibit __ (TEP-12B) 
+ 
+KEDLI Calendar Year Actual Use Per Customer by Service  
+and Revenue Class for the Period 2010 – 2014 
+ 
+184
+
+
+--- Page 193 ---
+KEDLI Calendar Year Actual Use Per Customer by Service and Revenue Class for the Period 2010 - 2014
+(therms)
+2010
+2011
+2012
+2013
+2014
+SC 1A Resi General Sales 
+116
+120
+118
+151
+212
+SC 1AR Resi General Reduced Rate Sales 
+121
+109
+107
+116
+169
+SC 1A Resi Water Heat Sales
+353
+362
+356
+426
+500
+SC 1AR Resi Water Heat Reduced Rate Sales
+424
+445
+389
+438
+502
+SC 1B Resi Space Heat Sales
+1,220
+1,226
+1,053
+1,213
+1,331
+SC 1BR Resi Space Heat Reduced Rate Sales
+1,025
+1,046
+933
+1,021
+1,079
+SC 1BDG Resi Dist Gen Sales
+1,176
+1,440
+1,397
+1,560
+1,385
+SC 2A Non Resi Water Heat Sales
+1,985
+1,950
+1,567
+1,941
+2,598
+SC 2A Non Resi General Sales
+4,680
+4,193
+3,730
+4,037
+4,737
+SC 2B Non Resi Space Heat Sales
+2,766
+2,792
+2,266
+2,961
+3,799
+SC 3A Multi Family Non Heat Sales 
+24,589
+23,829
+19,138
+21,565
+21,538
+SC 3B Multi Family Heat Sales 
+8,781
+8,916
+7,666
+7,921
+8,629
+SC 4 Interruptible Sales
+51,211
+57,665
+62,440
+68,422
+52,838
+SC 5-1A Resi General Transport
+262
+232
+211
+253
+285
+SC 5-1AR Resi General Reduced Rate Transport
+166
+140
+142
+181
+209
+SC 5-1A Resi Water Heat Transport
+556
+527
+499
+568
+617
+SC 5-1AR Resi Water Heat Reduced Rate Transport
+521
+497
+415
+448
+520
+SC 5-1B Resi Space Heat Transport
+1,364
+1,356
+1,180
+1,337
+1,491
+SC 5-1BR Resi Space Heat Reduced Rate Transport
+1,182
+1,124
+1,034
+1,097
+1,175
+SC 5-2A Non Resi Water Heat Transport
+3,237
+3,169
+3,205
+4,352
+6,763
+SC 5-2A Non Resi General Transport 
+15,366
+14,602
+13,586
+13,701
+14,034
+SC 5-2B Non Resi Space Heat Transport
+7,277
+7,693
+6,662
+8,071
+8,697
+SC 5-3A Multi Family Non Heat Transport 
+36,417
+38,388
+33,608
+33,675
+38,941
+SC 5-3B Multi Family Heat Transport 
+21,035
+20,849
+20,701
+19,393
+18,665
+SC 5-9 Wholesale NGV Transport
+159,643
+314,315
+503,526
+492,963
+536,269
+SC 5-15 High Load Factor Transport
+302,776
+296,636
+253,933
+238,956
+210,722
+SC 5-16 Yr Round Space Conditioning Transport
+572,079
+640,414
+588,239
+532,123
+563,620
+SC 5-17 Dist Gen Transport 
+0
+70,675
+54,484
+48,374
+49,552
+SC 7 Interruptible Transport
+214,382
+36,758
+27,766
+44,597
+18,898
+SC 7 Small Electric Generator Transport 
+#N/A
+#N/A
+#N/A
+#N/A
+9,676,070
+SC 9 Wholesale NGV Sales
+109,763
+466,112
+41,328
+25,668
+-48,781
+SC 12 TC Rate 1 Sales
+28,366
+29,157
+24,011
+24,461
+30,788
+SC 12 TC Rate 2 Sales
+70,732
+65,651
+56,581
+51,759
+69,998
+SC 13 TC Rate 1 Transport 
+0
+0
+0
+48,508
+14,717
+SC 13 TC Rate 2 Transport 
+0
+59,675
+95,141
+145,792
+131,419
+SC 14 Large Electric Generator Transport
+#N/A
+#N/A
+#N/A
+#N/A
+52,925,262
+SC 15 High Load Factor Sales
+233,176
+30,687
+18,724
+58,163
+159,534
+SC 16 Yr Round Space Conditioning Sales
+411,383
+278,188
+148,967
+204,903
+200,612
+Average
+1,584
+1,608
+1,416
+1,627
+3,416
+Average Excluding Small and Large Electric Gen
+1,584
+1,608
+1,416
+1,627
+1,780
+Exhibit__(TEP-12B) 
+Page 1 of 1
+185
+
+
+--- Page 194 ---
+ 
+ 
+ 
+Exhibit__ (TEP-13A) 
+ 
+ 
+ 
+ 
+ 
+ 
+ 
+ 
+ 
+ 
+ 
+ 
+ 
+ 
+ 
+ 
+ 
+ 
+ 
+ 
+ 
+ 
+ 
+ 
+ 
+ 
+ 
+ 
+ 
+ 
+ 
+ 
+ 
+ 
+ 
+ 
+
+
+--- Page 195 ---
+Testimony of Theodore Poe, Jr. 
+ 
+ 
+ 
+ 
+ 
+ 
+ 
+ 
+ 
+ 
+ 
+Exhibit __ (TEP-13A) 
+ 
+KEDNY Calendar Year Normalized Use Per Customer by Service 
+ and Revenue Class for the Period 2010 – 2014
+186
+
+
+--- Page 196 ---
+KEDNY Calendar Year Normalized Use Per Customer by Service and Revenue Class for the Period 2010 - 2014
+(therms)
+2010
+2011
+2012
+2013
+2014
+SC 1A Resi Non Heat Sales
+100
+102
+104
+109
+113
+SC 1AR Reduced Rate Resi Non Heat Sales
+81
+85
+84
+85
+86
+SC 1B Resi Heat Sales
+1,244
+1,238
+1,184
+1,201
+1,201
+SC 1BR Resi Heat Reduced Rate Sales
+1,153
+1,217
+1,164
+1,204
+1,173
+SC 1B-DG Resi Dist Gen Sales
+4,879
+1,698
+2,955
+1,463
+2,825
+SC 2-1 Non Resi Non Heat Sales
+4,719
+4,929
+4,719
+4,818
+5,185
+SC 2-2 Non Resi Heat Sales
+2,942
+3,306
+3,045
+3,263
+3,449
+SC 3 Multi Family Sales
+6,866
+6,868
+6,668
+7,243
+7,668
+SC 4A High Load Factor Sales
+211,708
+226,982
+182,113
+177,371
+219,658
+SC 4A-CNG Wholesale NGV Sales
+0
+471,283
+956,031
+1,009,639
+828,267
+SC 4B Yr Round Space Conditioning Sales
+36,021
+37,748
+31,267
+27,395
+27,769
+SC 6C TC Comm / Ind Sales
+121,114
+112,515
+105,959
+97,871
+99,351
+SC 6G TC Governmental Sales
+113,165
+114,899
+107,342
+104,407
+96,465
+SC 6M TC Multi-Family Sales
+51,924
+52,361
+50,904
+48,263
+45,921
+SC 7 Seasonal Off-Peak Sales
+4,068
+4,188
+7,963
+5,100
+5,191
+SC 14 Retail NGV Sales
+0
+0
+0
+0
+0
+SC 17-1A  Resi Non Heat Transport
+205
+201
+203
+211
+215
+SC 17-1AR Resi Non Heat Reduced Rate Transp
+83
+90
+90
+92
+92
+SC 17-1B Resi Heat Transport
+1,355
+1,283
+1,268
+1,322
+1,380
+SC 17-1BR Resi Heat Reduced Rate Transp
+1,112
+1,066
+1,083
+1,165
+1,170
+SC 17-2-1 Non Resi Non Heat Transport
+11,921
+11,845
+11,539
+11,322
+11,914
+SC 17-2-2 Non Resi Heat Transport
+5,297
+5,472
+5,345
+5,746
+6,092
+SC 17-3 Multi Family Transport
+29,933
+29,233
+28,087
+28,777
+29,840
+SC 17-4A High Load Factor Transport
+839,668
+878,039
+893,924
+930,637
+949,682
+SC 17-4A-CNG Wholesale NGV Transport
+0
+30,144
+4,496
+8,417
+11,406
+SC 17-4B Yr Round Space Conditioning Transport
+42,739
+47,397
+40,988
+37,883
+42,304
+SC 17-7 Seasonal Off-Peak Transport 
+0
+0
+0
+1,843
+2,526
+SC 18-5A Non-Core Transport
+#N/A
+#N/A
+9,795,545
+10,088,940
+9,198,660
+SC 18-6C TC Comm / Ind Transport
+261,466
+200,502
+159,634
+167,985
+168,855
+SC 18-6G TC Governmental Transport
+0
+183,785
+164,425
+107,030
+147,215
+SC 18-6M TC Multi-Family Transport
+65,792
+57,231
+53,657
+65,137
+63,863
+SC 18 Small Electric Generator Transport
+#N/A
+#N/A
+#N/A
+#N/A
+92,341,860
+SC 20 Large Electric Generator Transport
+#N/A
+#N/A
+#N/A
+#N/A
+64,214,660
+SC 21 Dist Gen Sales
+0
+0
+0
+0
+0
+Average
+1,216
+1,235
+1,237
+1,266
+1,620
+Average Excluding Non-Core and Electric Gen
+1,216
+1,235
+1,221
+1,250
+1,275
+Exhibit__(TEP-13A) 
+Page 1 of 1
+187
+
+
+--- Page 197 ---
+ 
+ 
+ 
+ 
+Exhibit__ (TEP-13B) 
+ 
+ 
+ 
+ 
+ 
+ 
+ 
+ 
+ 
+ 
+ 
+ 
+ 
+ 
+ 
+ 
+ 
+ 
+ 
+ 
+ 
+ 
+ 
+ 
+ 
+ 
+ 
+ 
+ 
+ 
+ 
+ 
+ 
+ 
+ 
+ 
+
+
+--- Page 198 ---
+Testimony of Theodore Poe, Jr. 
+ 
+ 
+ 
+ 
+ 
+ 
+ 
+ 
+ 
+ 
+ 
+ 
+Exhibit __ (TEP-13B) 
+ 
+KEDLI Calendar Year Normalized Use Per Customer by Service 
+and Revenue Class for the Period 2010 - 2014 
+188
+
+
+--- Page 199 ---
+KEDLI Calendar Year Normalized Use Per Customer by Service and Revenue Class for the Period 2010 - 2014
+(therms)
+2010
+2011
+2012
+2013
+2014
+SC 1A Resi General Sales 
+117
+120
+127
+152
+200
+SC 1AR Resi General Reduced Rate Sales 
+117
+111
+112
+123
+155
+SC 1A Resi Water Heat Sales
+358
+361
+373
+421
+481
+SC 1AR Resi Water Heat Reduced Rate Sales
+444
+439
+410
+437
+475
+SC 1B Resi Space Heat Sales
+1,246
+1,227
+1,186
+1,222
+1,247
+SC 1BR Resi Space Heat Reduced Rate Sales
+1,051
+1,051
+1,057
+1,034
+1,001
+SC 1BDG Resi Dist Gen Sales
+1,290
+1,394
+1,511
+1,515
+1,354
+SC 2A Non Resi Water Heat Sales
+2,104
+1,894
+1,803
+1,888
+2,317
+SC 2A Non Resi General Sales
+4,717
+4,202
+3,814
+4,085
+4,613
+SC 2B Non Resi Space Heat Sales
+2,906
+2,747
+2,652
+3,031
+3,456
+SC 3A Multi Family Non Heat Sales 
+25,033
+23,838
+22,205
+20,713
+20,712
+SC 3B Multi Family Heat Sales 
+9,151
+8,828
+8,059
+7,999
+8,280
+SC 4 Interruptible Sales
+56,185
+59,301
+63,641
+69,725
+51,467
+SC 5-1A Resi General Transport
+260
+234
+230
+245
+276
+SC 5-1AR Resi General Reduced Rate Transport
+174
+141
+141
+183
+199
+SC 5-1A Resi Water Heat Transport
+566
+526
+527
+555
+602
+SC 5-1AR Resi Water Heat Reduced Rate Transport
+527
+495
+438
+428
+499
+SC 5-1B Resi Space Heat Transport
+1,405
+1,358
+1,331
+1,359
+1,387
+SC 5-1BR Resi Space Heat Reduced Rate Transport
+1,226
+1,131
+1,179
+1,104
+1,097
+SC 5-2A Non Resi Water Heat Transport
+3,290
+3,228
+3,574
+4,626
+6,132
+SC 5-2A Non Resi General Transport 
+15,321
+14,533
+13,867
+13,646
+13,947
+SC 5-2B Non Resi Space Heat Transport
+7,603
+7,671
+7,789
+7,840
+8,181
+SC 5-3A Multi Family Non Heat Transport 
+37,252
+38,504
+37,664
+34,707
+35,287
+SC 5-3B Multi Family Heat Transport 
+21,194
+20,828
+21,147
+19,516
+17,903
+SC 5-9 Wholesale NGV Transport
+174,178
+321,073
+497,566
+489,444
+557,662
+SC 5-15 High Load Factor Transport
+290,831
+305,739
+263,404
+232,001
+210,500
+SC 5-16 Yr Round Space Conditioning Transport
+591,850
+616,543
+604,060
+553,856
+550,948
+SC 5-17 Dist Gen Transport 
+0
+58,239
+57,100
+52,146
+46,357
+SC 7 Interruptible Transport
+157,164
+29,684
+32,880
+29,402
+25,938
+SC 7 Small Electric Generator Transport 
+#N/A
+#N/A
+#N/A
+#N/A
+9,676,070
+SC 9 Wholesale NGV Sales
+132,609
+408,499
+47,104
+33,816
+19,175
+SC 12 TC Rate 1 Sales
+29,791
+29,962
+28,605
+26,917
+27,861
+SC 12 TC Rate 2 Sales
+76,063
+68,065
+63,419
+57,770
+64,187
+SC 13 TC Rate 1 Transport 
+0
+0
+0
+12,642
+14,059
+SC 13 TC Rate 2 Transport 
+0
+50,829
+97,296
+156,292
+128,944
+SC 14 Large Electric Generator Transport
+#N/A
+#N/A
+#N/A
+#N/A
+52,925,262
+SC 15 High Load Factor Sales
+221,942
+43,850
+22,457
+65,920
+145,697
+SC 16 Yr Round Space Conditioning Sales
+376,286
+262,450
+160,012
+182,255
+197,614
+Average
+1,625
+1,605
+1,577
+1,636
+3,311
+Average Excluding Small and Large Electric Gen
+1,625
+1,605
+1,577
+1,636
+1,676
+Exhibit__(TEP-13B) 
+Page 1 of 1
+189
+
+
+--- Page 200 ---
+ 
+ 
+ 
+ 
+ 
+Exhibit__ (TEP-14A) 
+ 
+ 
+ 
+ 
+ 
+ 
+ 
+ 
+ 
+ 
+ 
+ 
+ 
+ 
+ 
+ 
+ 
+ 
+ 
+ 
+ 
+ 
+ 
+ 
+ 
+ 
+ 
+ 
+ 
+ 
+ 
+ 
+ 
+ 
+ 
+ 
+
+
+--- Page 201 ---
+Testimony of Theodore Poe, Jr. 
+ 
+ 
+ 
+ 
+ 
+ 
+ 
+ 
+ 
+ 
+Exhibit __ (TEP-14A) 
+ 
+KEDNY Forecast Calendar Year Use Per Customer by Service  
+and Revenue Class for the Period 2015 through 2019 
+ 
+190
+
+
+--- Page 202 ---
+KEDNY Forecast Calendar Year Use Per Customer by Service and Revenue Class for the Period 2015 - 2019
+(therms)
+2015
+2016
+2017
+2018
+2019
+SC 1A Resi Non Heat Sales
+116
+107
+84
+82
+81
+SC 1AR Reduced Rate Resi Non Heat Sales
+87
+86
+85
+84
+83
+SC 1B Resi Heat Sales
+1,216
+1,197
+1,203
+1,203
+1,199
+SC 1BR Resi Heat Reduced Rate Sales
+1,167
+1,192
+1,178
+1,180
+1,177
+SC 1B-DG Resi Dist Gen Sales
+2,115
+1,311
+1,896
+1,831
+1,785
+SC 2-1 Non Resi Non Heat Sales
+5,040
+5,019
+5,003
+4,991
+4,991
+SC 2-2 Non Resi Heat Sales
+3,368
+3,301
+3,276
+3,287
+3,287
+SC 3 Multi Family Sales
+7,888
+7,748
+7,624
+7,575
+7,504
+SC 4A High Load Factor Sales
+211,974
+212,298
+204,881
+198,290
+192,752
+SC 4A-CNG Wholesale NGV Sales
+900,452
+898,701
+883,431
+866,544
+861,480
+SC 4B Yr Round Space Conditioning Sales
+29,427
+31,713
+31,286
+30,335
+29,797
+SC 6C TC Comm / Ind Sales
+114,440
+128,746
+141,632
+153,881
+167,676
+SC 6G TC Governmental Sales
+94,367
+98,344
+98,941
+96,350
+97,771
+SC 6M TC Multi-Family Sales
+45,809
+49,950
+50,853
+51,393
+51,536
+SC 7 Seasonal Off-Peak Sales
+5,515
+5,609
+5,854
+5,658
+5,594
+SC 14 Retail NGV Sales
+0
+0
+0
+0
+0
+SC 17-1A  Resi Non Heat Transport
+211
+211
+208
+205
+204
+SC 17-1AR Resi Non Heat Reduced Rate Transp
+88
+89
+88
+88
+87
+SC 17-1B Resi Heat Transport
+1,275
+1,272
+1,248
+1,240
+1,228
+SC 17-1BR Resi Heat Reduced Rate Transp
+1,113
+1,139
+1,132
+1,131
+1,122
+SC 17-2-1 Non Resi Non Heat Transport
+12,741
+14,426
+15,001
+15,413
+15,682
+SC 17-2-2 Non Resi Heat Transport
+6,029
+6,140
+6,079
+6,080
+6,067
+SC 17-3 Multi Family Transport
+29,019
+28,897
+28,737
+28,691
+28,676
+SC 17-4A High Load Factor Transport
+921,372
+911,575
+915,653
+920,790
+915,625
+SC 17-4A-CNG Wholesale NGV Transport
+182
+256
+0
+0
+0
+SC 17-4B Yr Round Space Conditioning Transport
+39,922
+40,034
+39,806
+39,247
+39,605
+SC 17-7 Seasonal Off-Peak Transport 
+1,309
+2,978
+1,539
+1,890
+1,792
+SC 18-5A Non-Core Transport
+9,679,679
+15,322,440
+15,322,440
+15,322,440
+15,322,440
+SC 18-6C TC Comm / Ind Transport
+178,096
+204,465
+231,645
+239,478
+250,838
+SC 18-6G TC Governmental Transport
+159,562
+178,321
+231,287
+282,923
+189,996
+SC 18-6M TC Multi-Family Transport
+59,456
+65,056
+66,081
+65,867
+66,630
+SC 18 Small Electric Generator Transport
+90,745,008
+90,880,902
+90,880,902
+90,880,902
+90,880,902
+SC 20 Large Electric Generator Transport
+66,069,166
+66,567,761
+66,567,761
+66,567,761
+66,567,761
+SC 21 Dist Gen Sales
+0
+0
+0
+0
+0
+Average
+1,623
+1,650
+1,653
+1,662
+1,669
+Average Excluding Non-Core and Electric Gen
+1,281
+1,313
+1,317
+1,327
+1,336
+Exhibit__(TEP-14A) 
+Page 1 of 1
+191
+
+
+--- Page 203 ---
+Exhibit__ (TEP-14B) 
+ 
+ 
+ 
+ 
+ 
+ 
+ 
+ 
+ 
+ 
+ 
+ 
+ 
+ 
+ 
+ 
+ 
+ 
+ 
+ 
+ 
+ 
+ 
+ 
+ 
+ 
+ 
+ 
+ 
+ 
+ 
+ 
+ 
+ 
+ 
+ 
+
+
+--- Page 204 ---
+Testimony of Theodore Poe, Jr. 
+ 
+ 
+ 
+ 
+ 
+ 
+ 
+ 
+ 
+ 
+Exhibit __ (TEP-14B) 
+ 
+KEDLI Forecast Calendar Year Use Per Customer by Service  
+and Revenue Class for the Period 2015 through 2019 
+192
+
+
+--- Page 205 ---
+KEDLI Forecast Calendar Year Use Per Customer by Service and Revenue Class for the Period 2015 - 2019
+(therms)
+2015
+2016
+2017
+2018
+2019
+SC 1A Resi General Sales 
+186
+162
+163
+167
+170
+SC 1AR Resi General Reduced Rate Sales 
+157
+160
+158
+157
+155
+SC 1A Resi Water Heat Sales
+528
+555
+338
+323
+308
+SC 1AR Resi Water Heat Reduced Rate Sales
+526
+525
+518
+515
+514
+SC 1B Resi Space Heat Sales
+1,219
+1,174
+1,172
+1,161
+1,153
+SC 1BR Resi Space Heat Reduced Rate Sales
+1,035
+1,040
+1,036
+1,035
+1,037
+SC 1BDG Resi Dist Gen Sales
+1,375
+1,398
+1,385
+1,367
+1,361
+SC 2A Non Resi Water Heat Sales
+1,603
+899
+778
+733
+741
+SC 2A Non Resi General Sales
+5,144
+4,861
+4,811
+4,820
+4,838
+SC 2B Non Resi Space Heat Sales
+3,713
+3,393
+3,339
+3,359
+3,391
+SC 3A Multi Family Non Heat Sales 
+20,844
+21,994
+21,822
+21,880
+21,889
+SC 3B Multi Family Heat Sales 
+8,382
+8,935
+9,511
+9,629
+9,545
+SC 4 Interruptible Sales
+49,260
+58,292
+60,017
+59,779
+56,428
+SC 5-1A Resi General Transport
+265
+257
+262
+267
+274
+SC 5-1AR Resi General Reduced Rate Transport
+213
+214
+211
+211
+212
+SC 5-1A Resi Water Heat Transport
+623
+627
+624
+624
+627
+SC 5-1AR Resi Water Heat Reduced Rate Transport
+504
+505
+502
+502
+505
+SC 5-1B Resi Space Heat Transport
+1,408
+1,391
+1,385
+1,384
+1,382
+SC 5-1BR Resi Space Heat Reduced Rate Transport
+1,130
+1,105
+1,095
+1,088
+1,088
+SC 5-2A Non Resi Water Heat Transport
+6,371
+4,336
+4,202
+4,169
+4,442
+SC 5-2A Non Resi General Transport 
+15,055
+15,176
+15,284
+15,445
+15,699
+SC 5-2B Non Resi Space Heat Transport
+7,333
+7,526
+7,704
+7,837
+7,863
+SC 5-3A Multi Family Non Heat Transport 
+37,414
+35,890
+35,665
+35,542
+35,650
+SC 5-3B Multi Family Heat Transport 
+16,324
+15,843
+16,015
+15,740
+15,889
+SC 5-9 Wholesale NGV Transport
+647,488
+690,707
+753,427
+819,799
+885,258
+SC 5-15 High Load Factor Transport
+223,241
+204,358
+202,378
+202,969
+205,073
+SC 5-16 Yr Round Space Conditioning Transport
+564,501
+556,411
+552,470
+549,391
+553,708
+SC 5-17 Dist Gen Transport 
+50,880
+47,637
+47,467
+47,768
+48,683
+SC 7 Interruptible Transport
+39,208
+48,313
+50,676
+53,635
+57,280
+SC 7 Small Electric Generator Transport 
+13,079,642
+11,115,482
+11,115,482
+11,115,482
+11,115,482
+SC 9 Wholesale NGV Sales
+55,900
+64,930
+64,493
+63,199
+61,873
+SC 12 TC Rate 1 Sales
+25,438
+27,389
+27,322
+27,340
+27,330
+SC 12 TC Rate 2 Sales
+67,793
+75,473
+73,598
+72,966
+72,263
+SC 13 TC Rate 1 Transport 
+26,387
+25,064
+25,664
+26,493
+27,396
+SC 13 TC Rate 2 Transport 
+165,996
+165,534
+166,933
+168,602
+170,412
+SC 14 Large Electric Generator Transport
+56,940,211
+54,726,005
+54,726,005
+54,726,005
+54,726,005
+SC 15 High Load Factor Sales
+124,217
+97,169
+92,285
+92,451
+94,790
+SC 16 Yr Round Space Conditioning Sales
+148,173
+127,959
+122,878
+123,893
+124,203
+Average
+3,431
+3,310
+3,298
+3,295
+3,294
+Average Excluding Small and Large Electric Gen
+1,678
+1,645
+1,645
+1,654
+1,666
+Exhibit__(TEP-14B) 
+Page 1 of 1
+193

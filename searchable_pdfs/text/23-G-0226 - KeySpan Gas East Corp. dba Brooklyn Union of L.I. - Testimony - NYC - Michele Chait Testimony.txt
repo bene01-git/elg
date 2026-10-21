@@ -1,0 +1,3091 @@
+--- Page 1 ---
+ 
+ 
+ 
+Before the 
+New York State Public Service Commission 
+ 
+ 
+In the Matter of 
+ 
+THE BROOKLYN UNION GAS COMPANY d/b/a NATIONAL GRID NY 
+AND 
+KEYSPAN GAS EAST CORPORATION d/b/a NATIONAL GRID 
+Cases 23-G-0225 AND 23-G-0226 
+ 
+September 1, 2023 
+ 
+ 
+Prepared Direct Testimony of 
+ 
+Michele Chait 
+ 
+On Behalf of: 
+ 
+The City of New York 
+ 
+ 
+
+
+--- Page 2 ---
+Cases 23-G-0225 / 23-G-0226 
+ 
+MICHELE CHAIT 
+1 
+ 
+INTRODUCTION 
+1 
+,
+2 
+My name is Michele Chait.  I am an independent economic and regulatory consultant in 
+3 
+the energy sector.  My business, Michele Chait LLC, is located at 455 Pinewood Drive, 
+4 
+San Rafael, California 94903. 
+5 
+6 
+The City of New York. 
+7 
+. 
+8 
+A.
+I hold an undergraduate degree in mathematics and Middle Eastern studies from University 
+9 
+of California, Berkeley and a master’s degree in Business Administration from the 
+10 
+University of Chicago. 
+11 
+Q.
+PLEASE DESCRIBE YOUR
+ AND CURRENT 
+12 
+RESPONSIBILITIES  
+13 
+A. 
+A summary of my experience is attached in Exhibit__(Chait-1). 
+14 
+Q. 
+HAVE YOU EVER TESTIFIED BEFORE ANY AGENCY OR COURT OR IN ANY 
+15 
+OTHER VENUE ON THE TOPICS YOU ADDRESS IN THIS TESTIMONY? 
+16 
+A. 
+Yes.  I have previously testified before the California Public Utilities Commission on rate 
+17 
+design matters.  I also recently submitted testimony in the Consolidated Edison Company 
+18 
+of New York, Inc. electric and gas rate cases (Case 22-E-0064 and Case 22-G-0065) and 
+19 
+the Consolidated Edison Company of New York, Inc. steam rate case (Case 22-S-0659).   
+20 
+PURPOSE OF TESTIMONY 
+21 
+Q. 
+WHAT IS THE PURPOSE OF YOUR TESTIMONY? 
+22 
+
+
+--- Page 3 ---
+Cases 23-G-0225 / 23-G-0226 
+ 
+MICHELE CHAIT 
+2 
+ 
+A. 
+I reviewed each Company’s Rate Design Panel Direct Testimony and Exhibits and Load 
+1 
+Forecasting Panel Direct Testimony and exhibits, including Corrections and Updates.  I 
+2 
+also reviewed discrete aspects of the Brooklyn Union Gas Company d/b/a National Grid 
+3 
+NY and Keyspan Gas East Corporation d/b/a National Grid (“KEDLI”) (together 
+4 
+“Companies”) Climate Leadership and Community Protection Act Panel Direct Testimony 
+5 
+and Exhibits, Customer Panel Direct Testimony and Exhibits, Direct Testimony of The 
+6 
+Policy Panel, and the Brooklyn Union Gas Company D/B/A National Grid NY 
+7 
+(“KEDNY”) Capital Structure Panel Direct Testimony. My testimony addresses the 
+8 
+following: 
+9 
+• Use of a minimum-system study in an embedded cost of service study (“ECOSS”) 
+10 
+to classify distribution mains costs into customer and demand-related components; 
+11 
+• Calculation of the customer-related share of distribution mains costs; 
+12 
+• The Companies’ ECOSS cost allocation methodology; 
+13 
+• The Companies’ load forecast and allocation of usage to blocks used in rate design; 
+14 
+• Rate design and bill impacts for the Companies’ non-firm demand response 
+15 
+(“NFDR”) customers; 
+16 
+• The Companies’ proposal to share the net dollar impact of the annual Gas 
+17 
+Adjustment Clause (“GAC”) imbalance plus the System Performance Adjustment 
+18 
+(“SPA”) mechanism among NFDR and firm customers through a volumetric rate; 
+19 
+• The Companies’ proposal to eliminate the demand capacity surcharge mechanism 
+20 
+(“DCSM”); 
+21 
+• The Companies’ proposal to create a rate adjustment mechanism (“RAM”);  
+22 
+
+
+--- Page 4 ---
+Cases 23-G-0225 / 23-G-0226 
+ 
+MICHELE CHAIT 
+3 
+ 
+• The Companies’ proposed uncollectible rate; 
+1 
+• The Companies’ proposals to create new reconciliation mechanisms for 
+2 
+uncollectible expenses, late payment charges, residential credit card and debit card 
+3 
+fees, and to true-up long-term debt; 
+4 
+• The Companies’ proposal to implement two new Energy Adjustment Mechanisms 
+5 
+(“EAMs”); and 
+6 
+• The Companies’ proposal to resume the uncollectibles incentive in Rate Year 2. 
+7 
+8 
+A. 
+Yes.  Exhibit__(Chait-1) is a summary of my experience and qualifications.  
+9 
+Exhibit__(Chait-2) is a compilation of interrogatory responses I reviewed in preparing my 
+10 
+testimony.     
+11 
+Q. 
+PLEASE SUMMARIZE YOUR CONCLUSIONS AND RECOMMENDATIONS.  
+12 
+A. 
+My conclusions and recommendations are summarized as follows: 
+13 
+• I support use of a minimum-system study to determine the customer-related share 
+14 
+of gas distribution mains costs. 
+15 
+• I do not support the Companies’ proposal to average the three most recent 
+16 
+minimum-system study results to determine the customer-related share of 
+17 
+distribution mains costs. I support using the results of only the most recent 
+18 
+minimum-system study to determine the customer-related share of distribution 
+19 
+mains costs, with mitigation of adverse delivery cost increase allocations to service 
+20 
+classifications addressed through the established tolerance band and manual 
+21 
+adjustment mechanisms. 
+22 
+
+
+--- Page 5 ---
+Cases 23-G-0225 / 23-G-0226 
+ 
+MICHELE CHAIT 
+4 
+ 
+• The ECOSS filed by each Company is reasonable and should be accepted by the 
+1 
+Commission. However, if a lower delivery revenue requirement is approved, I 
+2 
+would support allocating a material share of the reduction to the classes that are 
+3 
+overcontributing in order to reduce existing subsidies more quickly. 
+4 
+• I strongly support the Companies’ proposed phase-in of rate increases if a multi-
+5 
+year rate plan is implemented. 
+6 
+• Regarding the Companies’ proposal to use the FY19-FY22 historical block usage 
+7 
+percentages to allocate the Rate Year load forecast to blocks, I recommend that for 
+8 
+service classifications where the historical average differs from the Rate Year (“FY 
+9 
+2025”) forecast by more than a reasonable value, such as 10%, the block allocation 
+10 
+for each class instead should be based on the historical year with average usage per 
+11 
+customer most similar to the Rate Year forecast average. 
+12 
+• I support the Companies’ proposal to increase its target discounts for NFDR Tiers 
+13 
+1 and 2 to 55% and 65%, respectively.   
+14 
+• I recommend that in designing rates for KEDNY’s and KEDLI’s NFDR customers, 
+15 
+the Companies should evaluate increasing the customer charge and decreasing the 
+16 
+tail block rates (or Tier-1 energy charges, if necessary to maintain target discounts).  
+17 
+• I oppose the Companies’ NFDR gas cost reconciliation mechanism proposal to 
+18 
+share the net dollar impact of the annual GAC imbalance plus the SPA mechanism 
+19 
+among NFDR and firm customers via a volumetric rate.  To minimize cost shifts, I 
+20 
+recommend that a separate reconciliation mechanism is developed for NFDR 
+21 
+customers that differs from that for firm customers. 
+22 
+
+
+--- Page 6 ---
+Cases 23-G-0225 / 23-G-0226 
+ 
+MICHELE CHAIT 
+5 
+ 
+• I support the Companies’ proposal to eliminate the DCSM; 
+1 
+• I support the Companies’ proposal to recover non-labor demand response program 
+2 
+capacity and performance payment costs in the demand response O&M (“DROM”) 
+3 
+component of the delivery rate adjustment.   
+4 
+• I oppose the Companies’ proposal to recover marketing and administrative costs 
+5 
+for the load shedding and Bring Your Own Thermostat (“BYOT”) program via the 
+6 
+DROM.  I support recovery of these costs via base delivery rates. 
+7 
+• I support the Companies’ proposal to collect the long-term capital capacity projects 
+8 
+revenue requirement via base delivery rates, with certain caveats. 
+9 
+• I oppose the Companies’ proposal to establish the uncollectible rate using historical 
+10 
+data for the three calendar years 2017-2019.  I support establishing the uncollectible 
+11 
+rate using data for calendar year 2019 only. 
+12 
+• I oppose the Companies’ proposal to implement new reconciliation mechanisms for 
+13 
+uncollectible expenses, late payment charges, residential credit card/debit card 
+14 
+(CC/DC) fees, and long-term debt.  If any of these reconciliation mechanisms are 
+15 
+approved, I recommend that each Company’s return on equity and equity share of 
+16 
+capital structure be adjusted to reflect the resulting reduction in risk borne by 
+17 
+shareholders. 
+18 
+• I oppose creation of the Companies’ proposed RAM surcharge. If the RAM is 
+19 
+implemented, I support the use of a cap but not the Companies’ proposal to limit 
+20 
+RAM balances to a cap of 2.5% of prior year aggregate revenues. 
+21 
+
+
+--- Page 7 ---
+Cases 23-G-0225 / 23-G-0226 
+ 
+MICHELE CHAIT 
+6 
+ 
+• I oppose the Companies’ proposal to alter the existing property tax reconciliation 
+1 
+mechanism. 
+2 
+• I oppose the Companies’ proposed Low-and-Moderate Income (“LMI”) Energy 
+3 
+Assistance Program and Gas Demand Response EAMs. 
+4 
+• Lastly, I oppose re-instating the uncollectibles Incentive in Rate Year 2.  Instead, I 
+5 
+recommend that the proposal to re-instate the uncollectibles Incentive is examined 
+6 
+in the next rate case.   
+7 
+MINIMUM-SYSTEM STUDY 
+8 
+Q.  
+DID YOU REVIEW THE COMPANIES’ EMBEDDED COST OF SERVICE 
+9 
+STUDIES (ECOSS)?  
+10 
+A.  
+Yes.  
+11 
+Q. 
+HOW ARE ECOSS COSTS CLASSIFIED? 
+12 
+A. 
+KEDNY Rate Design Panel Direct Testimony, lines 9-18 on page 23 of 75, explains that 
+13 
+the Company’s gas distribution system is designed to meet three primary objectives: (a) 
+14 
+connect customers to the Company’s distribution system; (b) meet the aggregate peak 
+15 
+design day capacity requirements of all customers entitled to service on the peak day; and 
+16 
+(c) deliver natural gas commodity to customers.  Corresponding to these objectives, each 
+17 
+functionalized cost element is classified as being customer-related, demand-related, or 
+18 
+commodity-related.  Customer-related costs include metering, billing, and the costs of 
+19 
+connecting customer premises to the distribution system.    
+20 
+
+
+--- Page 8 ---
+Cases 23-G-0225 / 23-G-0226 
+ 
+MICHELE CHAIT 
+7 
+ 
+Q. 
+HOW DOES THE ECOSS CLASSIFY DISTRIBUTION MAINS COSTS?  
+1 
+A.  
+KEDNY Rate Design Panel Direct Testimony, page 25 lines 10-16, explains that because 
+2 
+distribution mains both connect customers to the distribution system and provide capacity 
+3 
+to meet customer demand, distribution mains costs are classified into customer-and 
+4 
+demand-related components.   
+5 
+Q. 
+IS CLASSIFYING A SHARE OF DISTRIBUTION MAINS COSTS AS 
+6 
+CUSTOMER-RELATED A GENERALLY ACCEPTABLE APPROACH? 
+7 
+A. 
+Yes.  The National Association of Regulatory Utility Commissioners (NARUC) discuss 
+8 
+this approach in their June 1989 Gas Distribution Rate Design Manual (“NARUC 
+9 
+Manual”).  Regarding cost classification, the NARUC Manual states “[a] portion of the 
+10 
+costs associated with the distribution system may be included as customer cost.”  
+11 
+Q. 
+IS A MINIMUM-SYSTEM STUDY A GENERALLY ACCEPTED METHOD OF 
+12 
+DETERMINING THE CUSTOMER-RELATED SHARE OF DISTRIBUTION 
+13 
+MAINS COSTS? 
+14 
+A. 
+Yes.  The NARUC Manual states “[o]ne argument for inclusion of distribution related 
+15 
+items in the customer cost classification is the ‘zero or minimum size main theory.’ This 
+16 
+theory assumes that there is a zero or minimum size main necessary to connect the customer 
+17 
+to the system and thus affords the customer an opportunity to take service if [they] so 
+18 
+desire.”   
+19 
+
+
+--- Page 9 ---
+Cases 23-G-0225 / 23-G-0226 
+ 
+MICHELE CHAIT 
+8 
+ 
+Q.  
+HAS THE COMMISSION ACCEPTED A MINIMUM SYSTEM APPROACH TO 
+1 
+CLASSIFY THE COST OF GAS DISTRIBUTION MAINS IN PRIOR RATE 
+2 
+CASES?  
+3 
+A.  
+Yes. The Commission accepted the use of a minimum-system methodology to classify 
+4 
+distribution costs for National Grid Cases 19-G-0309 and 16-G-0059.  Most recently, in 
+5 
+Case 22-G-0065, the approved Joint Proposal integrated the minimum-system 
+6 
+methodology described in Consolidated Edison Company of New York, Inc. Gas Rate 
+7 
+Panel Direct Testimony.   There, Exhibit___(GRP-1) Page 19 of 59 stated that PSC 
+8 
+Account 376 (Mains) was functionalized to the Distribution-Demand (“Demand 
+9 
+Component”) and Distribution-Customer (“Customer Component”) functions based on the 
+10 
+development of the Minimum System for Gas Mains.  Page 8 of 59 of that same testimony 
+11 
+states the Customer Component consists of the distribution mains system that would be 
+12 
+required to connect gas customers with a minimum predominant size pipe, regardless of 
+13 
+their demand for gas. 
+14 
+Q. 
+WHAT ANALYSIS DO THE COMPANIES PROPOSE TO DETERMINE THE 
+15 
+SHARE OF DISTRIBUTION MAINS THAT IS CUSTOMER RELATED? 
+16 
+A. 
+The analysis is carried out in two steps.  First, the Companies perform a minimum-system 
+17 
+study to determine the minimum-system ratio.  The Companies define the minimum-
+18 
+system ratio as the ratio of (X), the cost of replacing the entire mains distribution system 
+19 
+with the minimum component which is two-inch plastic, to (Y), the cost of replacing the 
+20 
+entire mains distribution system with plastic of the same diameters as the installed system.   
+21 
+
+
+--- Page 10 ---
+Cases 23-G-0225 / 23-G-0226 
+ 
+MICHELE CHAIT 
+9 
+ 
+Q. 
+WHAT IS THE SECOND STEP? 
+1 
+A. 
+In the second step, the Companies average the minimum-system ratios from the three most 
+2 
+recent minimum-system studies to arrive at the customer-related share of distribution mains 
+3 
+costs for the ECOSS.   
+4 
+Q. 
+WHAT 
+IS 
+THE 
+PROPOSED 
+CUSTOMER-RELATED 
+SHARE 
+OF 
+5 
+DISTRIBUTION MAINS COSTS? 
+6 
+A. 
+KEDNY proposes a customer share 44.29%.  For KEDLI, the customer share is reported 
+7 
+as 47.44%. Table 1 below displays the minimum-system ratios calculated in the last three 
+8 
+KEDNY and KEDLI rate cases and the customer-related share proposed for KEDNY and 
+9 
+KEDLI in the instant case. For KEDNY, the minimum-system ratio has increased by 26% 
+10 
+( = 0. 4788 ÷ 0.3791 -1) since the study performed in Case 16-G-0059, and for KEDLI the 
+11 
+increase is 30.8% since the study performed in Case 16-G-0058 ( = 0. 5451 ÷ 0.4165 - 1). 
+12 
+Table 1:  Minimum-system Ratios from Prior Rate Cases and Proposed Customer-related 
+13 
+Share 
+14 
+Rate Cases  
+KEDNY 
+Minimum-system Ratio 
+KEDLI 
+Minimum-system Ratio 
+23-G-0225, 23-G-0026  
+47.88% 
+54.51% 
+, 19-G-0310  
+47.08% 
+46.17% 
+, 16-G-0058 
+37.91% 
+41.65% 
+Average (Proposed 
+Customer-related Share) 
+44.29% 
+47.44% 
+ 
+15 
+
+
+--- Page 11 ---
+Cases 23-G-0225 / 23-G-0226 
+ 
+MICHELE CHAIT 
+10 
+ 
+Q. 
+HAVE THE COMPANIES PREVIOUSLY AVERAGED MINIMUM-SYSTEM 
+1 
+RATIOS FROM PRIOR MINIMUM-SYSTEM STUDIES TO DETERMINE THE 
+2 
+CUSTOMER-RELATED SHARE OF DISTRIBUTION MAINS COSTS? 
+3 
+A. 
+Based on minimum system study information from the prior rate cases listed in Table 1, it 
+4 
+does not appear that the Companies have previously proposed to average minimum-system 
+5 
+ratio results from prior studies. 
+6 
+Q. 
+WHAT RATIONALE DID THE COMPANIES GIVE WHEN PROPOSING TO 
+7 
+AVERAGE THE PRIOR MINIMUM-SYSTEM RATIO RESULTS? 
+8 
+A.
+The Companies state they averaged the results of the current study and the two prior studies 
+9 
+to promote stability and to broaden the period of data used in the study. 
+10 
+Q. 
+DO YOU SUPPORT THIS METHODOLOGY? 
+11 
+A.  
+I support classifying distribution mains into customer- and demand-related components.  I 
+12 
+also support the use of a minimum-system study to estimate the minimum-system ratio.  
+13 
+However, I do not support the Companies’ proposed minimum-system ratio here.  
+14 
+Q. 
+WHAT METHODOLOGIES HAVE THE COMPANIES USED IN PRIOR RATE 
+15 
+CASES? 
+16 
+A. 
+ In Case 16-G-0059, decades of historical cost data were escalated to 2014 dollars per 
+17 
+Handy-Whitman factors.  Cost data from all historical years were used.  In Case 19-G-
+18 
+0309, un-escalated cost data from 2016 and 2017 were used to calculate the minimum-
+19 
+system ratio.  In each of these proceedings, the minimum-system ratio was the customer-
+20 
+related share of distribution mains costs.  In the instant case, un-escalated cost data from 
+21 
+2018-2021 is utilized to calculate the minimum-system ratio. However, unlike the prior 
+22 
+
+
+--- Page 12 ---
+Cases 23-G-0225 / 23-G-0226 
+ 
+MICHELE CHAIT 
+11 
+ 
+two Cases, here the Companies propose that the customer-related share be the average of 
+1 
+the minimum-system ratios from these last three studies.    
+2 
+Q. 
+WHAT DO YOU RECOMMEND? 
+3 
+A. 
+I recommend the Commission approve the minimum-system methodology for classifying 
+4 
+and allocating the cost of distribution mains.  However, the proposal to calculate the 
+5 
+customer-related share by averaging the three most recent minimum-system study results 
+6 
+is sub-optimal.  Instead, I support utilizing the results of only the most recent minimum-
+7 
+system study (Cases 23-G-0225, 23-G-0226), which utilizes the most current data to 
+8 
+determine the customer-related share of distribution mains costs. To the extent mitigation 
+9 
+of adverse delivery cost increases is necessary, this should be addressed through the 
+10 
+established tolerance band and manual adjustment mechanisms per Rate Design Panel 
+11 
+Exhibit ___ (RDP-4) Schedule 1. 
+12 
+COST ALLOCATION 
+13 
+Q. 
+HOW DO THE COMPANIES ALLOCATE THE REVENUE REQUIREMENT TO 
+14 
+CUSTOMER CLASSES? 
+15 
+A. 
+Generally, the Companies rely on a combination of revenue based on current rates and Test 
+16 
+Year sales, the minimum system study, and the 2022 calendar year ECOSS to allocate 
+17 
+revenue increases to customer classes.  The Companies also employ tolerance bands and 
+18 
+manual adjustments to adjust the revenue allocation for certain customer classes.   
+19 
+
+
+--- Page 13 ---
+Cases 23-G-0225 / 23-G-0226 
+ 
+MICHELE CHAIT 
+12 
+ 
+Q.  
+DO YOU SUPPORT THE ECOSS? 
+1 
+A.  
+Generally, yes.  The goal of the ECOSS is to functionalize, classify and allocate the Rate 
+2 
+Year cost of service to customer classes.  I believe that the allocation factors utilized in the 
+3 
+ECOSS reasonably approximate the underlying cost drivers.   
+4 
+Q. 
+HOW ARE THE CUSTOMER- AND DEMAND-RELATED DISTRIBUTION 
+5 
+MAINS COSTS ALLOCATED TO CUSTOMER CLASSES? 
+6 
+A. 
+The customer portion is allocated based on the number of customers. The demand portion 
+7 
+is allocated based on the contribution to design-day demand. I support this approach. 
+8 
+Q. 
+WHAT IS A TOLERANCE BAND? 
+9 
+A. 
+The tolerance band is a mechanism employed to support grouping service classifications 
+10 
+into categories based on the  degree to which each class over- or under-contributes revenues 
+11 
+relative to the costs that are allocated to them.  The tolerance band therefore informs to 
+12 
+what degree the pure cost-based allocation of the distribution revenue change to individual 
+13 
+service classifications should be adjusted.  KEDNY Rate Design Panel Direct Testimony, 
+14 
+page 35 of 75 lines 10 – 11, states that using a tolerance band is intended to avoid disputes 
+15 
+about minor issues in the ECOSS. 
+16 
+Q. 
+PLEASE DESCRIBE THE PROCESS THE COMPANIES UTILIZE TO 
+17 
+DETERMINE 
+WHETHER 
+MODIFICATIONS 
+TO 
+THE 
+PURE 
+COST 
+18 
+ALLOCATION ARE NECESSARY. 
+19 
+A. 
+The process consists of five steps.  First, delivery revenue at present rates is calculated per 
+20 
+the product of ECOSS billing determinants and current rates.  Second, net operating income 
+21 
+is calculated per total operating revenues minus ECOSS expenses.  Third, return at present 
+22 
+
+
+--- Page 14 ---
+Cases 23-G-0225 / 23-G-0226 
+ 
+MICHELE CHAIT 
+13 
+ 
+rates (%) is calculated by dividing net operating income by rate base.  The resulting system 
+1 
+rate of return at present rates for KEDNY is 2.75%; for KEDLI it is 2.94%.  Fourth, the 
+2 
+rate of return at present rates for each customer class is unitized by dividing each class’s 
+3 
+rate of return by the system rate of return.  This step produces the Relative Return at Present 
+4 
+Rates result.  Fifth, the Relative Rate of Return is evaluated versus the tolerance band.  For 
+5 
+each service classification, if the Relative Return at Present Rates falls outside of the 
+6 
+tolerance band, the class is deemed to be over- or under-contributing; if the Relative Return 
+7 
+at Present Rates does not exceed the tolerance band values, the class is deemed to be within 
+8 
+the tolerance band.    
+9 
+Q. 
+HOW DO THE COMPANIES MITIGATE THE ALLOCATION OF THE 
+10 
+INCREASED DISTRIBUTION REVENUES BEING SOUGHT HERE? 
+11 
+A. 
+Manual adjustments are generally required if the Relative Return is not within the tolerance 
+12 
+band. Tolerance bands are not static and can and do deviate from utility to utility.   
+13 
+ Q. 
+PLEASE DESCRIBE THE MANUAL ADJUSTMENTS. 
+14 
+A. 
+Table 2 below summarizes information from Exhibit ___ (RDP-4CU) Schedule 1 Page 1 
+15 
+of 2 from Corrections and Updates Testimony of the KEDNY and KEDLI Rate Design 
+16 
+Panels.   The “Increase” column in this table shows class-specific increases ranging from 
+17 
+25% to 37% for KEDNY, and ranges of 22.809% to 38.309% for KEDLI.   These values 
+18 
+are the manual adjustments used by the Companies to allocate the pro forma delivery 
+19 
+revenue change to customer classes.  These values are established exogenously; they are 
+20 
+not calculated using tolerance band information.  For example, the increase (%) assigned 
+21 
+to customer classes with unitized returns falling within the 0.60 to 1.40 tolerance band was 
+22 
+
+
+--- Page 15 ---
+Cases 23-G-0225 / 23-G-0226 
+ 
+MICHELE CHAIT 
+14 
+ 
+set at 31.4572% for KEDNY, lower than at the 31.52% system average distribution revenue 
+1 
+change that would normally be indicated for classes falling within the tolerance band.   
+2 
+Table 2:  Manual Adjustments per Exhibit___ (RDP-4CU) Schedule 1 Page 1 of 2 
+3 
+ 
+4 
+RANGE 
+KEDNY 
+KEDLI 
+Bottom 
+Top 
+Increase 
+Caption 
+Increase 
+Caption 
+ 
+(7.24)/(3.30) 
+37% 
+Low 
+38.309% 
+Low 
+(7.24)/ 
+0.60 
+37% 
+Under 
+37.309% 
+Under 
+0.60 
+1.40 
+31.4572% 
+Within 
+31.827% 
+Within 
+1.40 
+2.01 
+30% 
+Over 
+27.809% 
+Over 
+2.01 
+6.00 
+28.5% 
+High 
+25.309% 
+High 
+6.00 
+7.02/26.28 
+25% 
+V High 
+22.809% 
+V High 
+ 
+5 
+Q. 
+WHAT TOLERANCE BAND WAS UTILIZED IN THE ECOSS? 
+6 
+A. 
+The tolerance band originally proposed by the Companies was set at + / - 35%.   In the 
+7 
+Corrections and Updates Testimony of the KEDNY and KEDLI Rate Design Panels, the 
+8 
+Companies increased the proposed tolerance band from + / - 35% to + / - 40%.  The 
+9 
+rationale for this change was not discussed.   
+10 
+Q. 
+WHAT TOLERANCE BAND WAS EMPLOYED IN THE 2019 ECOSS? 
+11 
+A. 
+ In 19-G-0309, KEDNY Rate Design Panel Direct Testimony, lines 15-17 on page 26 of 
+12 
+75, states that the tolerance band was + / - 25%. In 19-G-0310, KEDLI Rate Design Panel 
+13 
+Direct Testimony, lines 15-17 on page 26 of 74, discusses the same 25% tolerance band. 
+14 
+
+
+--- Page 16 ---
+Cases 23-G-0225 / 23-G-0226 
+ 
+MICHELE CHAIT 
+15 
+ 
+Q. 
+WHAT ARE THE IMPLICATIONS OF EMPLOYING THE WIDER +/- 40% 
+1 
+TOLERANCE BAND? 
+2 
+A. 
+Table 3 below summarizes information from Exhibit ___ (RDP-4CU) Schedule 1 Page 2 
+3 
+of 2 from Corrections and Updates Testimony of the KEDNY Rate Design Panel.  Table 3 
+4 
+shows that the distribution revenue change is $444,943 ($000s) and the Return on Rate 
+5 
+Base is 7.09%.  The table shows that the Relative Return at Present Rates for SC1-B, the 
+6 
+only class within the +/- 40% tolerance band, is 1.38.  This class would fall outside of a +/- 
+7 
+35% tolerance band.  
+8 
+Table 3:  Proposed Cost Allocation Using 0.60 to 1.40 Tolerance Band per KEDNY 
+9 
+Exhibit___ (RDP-4CU) Schedule 1 Page 1 of 2 
+10 
+ 
+11 
+Q. 
+WHAT ARE THE RESULTS IF A +/- 35% TOLERANCE BAND, AS 
+12 
+ORIGINALLY PROPOSED, WERE UTILIZED? 
+13 
+A. 
+Table 4 below shows results for KEDNY for the scenario where the tolerance band is 
+14 
+changed from +/- 40% to +/- 35% and no other changes are made.  The results show that, 
+15 
+Class
+Relative 
+Return at 
+Present Rates
+Caption
+Distribution 
+Revenue 
+Change
+($000s)
+Manual 
+Adjustment 
+(Target % 
+Increase)
+Return on 
+Rate Base
+Total
+1.00
+               
+0
+444,943
+$         
+44494264.63%
+7.09%
+SC-1A Residential NonHeat
+-0.52
+Under
+70,155
+$           
+37.000%
+3.73%
+SC-1B Residential Heat
+1.38
+Within
+242,364
+$         
+31.457%
+7.75%
+SC-1DG Res. DG
+-2.79
+Under
+2
+$                    
+37.000%
+-2.55%
+SC-2-1 Non-Res. NonHeat
+4.28
+High
+18,382
+$           
+28.500%
+15.73%
+SC-2-2 Non-Res. Heat
+1.83
+Over
+36,803
+$           
+30.000%
+8.80%
+SC-3 Multiple Family
+-0.13
+Under
+65,179
+$           
+37.000%
+5.01%
+SC-4A High Load Factor
+2.95
+High
+2,887
+$             
+28.500%
+13.69%
+SC-4A CNG
+3.77
+High
+439
+$                
+28.500%
+20.23%
+SC-4B Year-Round AC
+5.39
+High
+295
+$                
+28.500%
+18.02%
+SC22/18-22 Non-Firm
+6.02
+V High
+7,380
+$             
+25.000%
+18.27%
+SC-7 Seasonal
+-6.24
+Under
+2
+$                    
+37.000%
+11.21%
+SC-21 DG Sales
+-5.72
+Under
+1,055
+$             
+37.000%
+-8.50%
+
+
+--- Page 17 ---
+Cases 23-G-0225 / 23-G-0226 
+ 
+MICHELE CHAIT 
+16 
+ 
+indeed, SC1-B is now captioned “Over.”  Additionally, with no change to the manual 
+1 
+adjustments, the return on rate base falls to 6.96% and the distribution revenue change falls 
+2 
+to $434,010 ($000s).  Because rates are designed to fully collect the distribution revenue 
+3 
+change, this can only be corrected by increasing one or more manual adjustments.   
+4 
+Table 4:  KEDNY Cost Allocation Changing Only the Tolerance Band to +/- 35% 
+5 
+ 
+6 
+ 
+7 
+Q. 
+DO THE RESULTS FOR KEDLI HAVE THE SAME ISSUE? 
+8 
+A. 
+Yes.  Table 5 below summarizes information from Exhibit ___ (RDP-4CU) Schedule 1 
+9 
+Page 2 of 2 from Corrections and Updates Testimony of the KEDLI Rate Design Panel.  
+10 
+Table 5 shows that the Relative Return at Present Rates for SC1-B, the only class within 
+11 
+the tolerance band, is 0.71.   This class would fall inside of a +/- 35% tolerance band but 
+12 
+outside of a +/- 25% tolerance band.   
+13 
+Table 5:  Proposed Cost Allocation Using 0.60 to 1.40 Tolerance Band per KEDLI Exhibit___ 
+14 
+(RDP-4CU) Schedule 1 Page 1 of 2 
+15 
+Class
+Relative 
+Return at 
+Present Rates
+Caption
+Distribution 
+Revenue 
+Change 
+($000s)
+Manual 
+Adjustment 
+(Target % 
+Increase)
+Return on 
+Rate Base
+Total
+1.00
+               
+0
+434,010
+$         
+44494264.63%
+6.96%
+SC-1A Residential NonHeat
+-0.52
+Under
+70,155
+$           
+37.000%
+3.73%
+SC-1B Residential Heat
+1.38
+Over
+231,137
+$         
+30.000%
+7.52%
+SC-1DG Res. DG
+-2.79
+Under
+2
+$                    
+37.000%
+-2.55%
+SC-2-1 Non-Res. NonHeat
+4.28
+High
+18,382
+$           
+28.500%
+15.73%
+SC-2-2 Non-Res. Heat
+1.83
+Over
+36,803
+$           
+30.000%
+8.80%
+SC-3 Multiple Family
+-0.13
+Under
+65,179
+$           
+37.000%
+5.01%
+SC-4A High Load Factor
+2.95
+High
+2,887
+$             
+28.500%
+13.69%
+SC-4A CNG
+3.77
+High
+439
+$                
+28.500%
+20.23%
+SC-4B Year-Round AC
+5.39
+High
+295
+$                
+28.500%
+18.02%
+SC22/18-22 Non-Firm
+6.02
+V High
+7,675
+$             
+26.000%
+18.54%
+SC-7 Seasonal
+-6.24
+Under
+2
+$                    
+37.000%
+11.21%
+SC-21 DG Sales
+-5.72
+Under
+1,055
+$             
+37.000%
+-8.50%
+
+
+--- Page 18 ---
+Cases 23-G-0225 / 23-G-0226 
+ 
+MICHELE CHAIT 
+17 
+ 
+ 
+1 
+ 
+2 
+Q. 
+HOW WOULD THESE RESULTS CHANGE IF A +/- 35% TOLERANCE BAND 
+3 
+WERE UTILIZED FOR KEDLI? 
+4 
+A. 
+For a +/- 35% tolerance band, no changes to caption categories or manual adjustments 
+5 
+would be required.  This result occurs because the Relative Return at Present Rates for each 
+6 
+service classification would remain within the relevant bottom and top range bands that 
+7 
+define the manual adjustment categories.   
+8 
+Q. 
+WHAT IS THE RESULTING ALLOCATION OF THE DISTRIBUTION 
+9 
+REVENUE CHANGE FOR KEDNY? 
+10 
+A. 
+The overall distribution revenue change, expressed as a share of pro forma distribution 
+11 
+revenue, is 32.51% ( = $444.943 million ÷ $1,368.484 million).  The service classifications 
+12 
+marked “Under” are the customer classes that under-contribute and therefore receive a 
+13 
+greater than 32.51% allocation of the distribution revenue change to support movement 
+14 
+Class
+Relative 
+Return at 
+Present Rates
+Caption
+Distribution 
+Revenue 
+Change 
+($000s)
+Manual 
+Mitigation 
+Adjustment 
+(Target % 
+Increase)
+Return on 
+Rate Base
+Total
+1.00
+               
+0
+269,682
+$         
+26968185.22%
+7.05%
+SC-1A Residential NonHeat
+-0.74
+Under
+13,386
+$           
+37.309%
+2.46%
+SC-1B Residential Heat
+0.71
+Within
+181,067
+$         
+31.827%
+6.26%
+SC-1DG Res. DG
+-2.30
+Under
+3
+$                    
+37.309%
+-2.71%
+SC-2-1 Non-Res. NonHeat
+5.85
+V High
+12,084
+$           
+22.809%
+20.30%
+SC-2-2 Non-Res. Heat
+1.53
+Over
+49,475
+$           
+27.809%
+8.25%
+SC-3 Multiple Family
+3.34
+High
+154
+$                
+25.309%
+26.08%
+SC-4A High Load Factor
+0.47
+Under
+7,918
+$             
+37.309%
+6.36%
+SC-4A CNG
+25.28
+V High
+908
+$                
+22.809%
+76.82%
+SC-4B Year-Round AC
+3.58
+High
+674
+$                
+25.309%
+15.43%
+SC22/18-22 Non-Firm
+1.75
+Over
+1,707
+$             
+27.809%
+9.80%
+SC-7 Seasonal
+3.86
+High
+2,301
+$             
+25.309%
+15.35%
+SC-21 DG Sales
+2.81
+High
+5
+$                    
+25.309%
+12.63%
+
+
+--- Page 19 ---
+Cases 23-G-0225 / 23-G-0226 
+ 
+MICHELE CHAIT 
+18 
+ 
+towards the system average rate of return, or the cost of providing service.  Service 
+1 
+classifications that are classified as “Within,” “Over,” “High” or “V High” fall above or 
+2 
+within the tolerance band and therefore receive a lower than 32.51% allocation of the 
+3 
+distribution revenue change. 
+4 
+Q. 
+FOLLOWING APPLICATION OF THE MANUAL ADJUSTMENTS, WHICH 
+5 
+SERVICE CLASSIFICATIONS OVER-CONTRIBUTE? 
+6 
+A. 
+As indicated by Table 3, after the application of manual adjustments, several KEDNY 
+7 
+service classifications continue to show return on rate base results that are greater than  the 
+8 
+system average rate of return of 7.09%.  SC-2-1, SC-4A-CNG, SC-4B and SC-22/18-22 
+9 
+are more than double the system average.  All of the service classifications with a return 
+10 
+on rate base exceeding the system average rate of return are subsidizing the remaining 
+11 
+classes.   Similar trends are experienced for the KEDLI service classifications. 
+12 
+Q. 
+DO YOU SUPPORT THE PROPOSED 1.4 / 0.6 TOLERANCE BANDS? 
+13 
+A. 
+I do not oppose them.  As demonstrated above, moving to the +/- 40% tolerance band has 
+14 
+no impact on the KEDLI ECOS results.  For KEDNY, moving to the +/- 40% tolerance 
+15 
+band from the +/- 35% tolerance band required changes in one or more manual adjustments.  
+16 
+I note that it is probable that different manual adjustment groupings would likely result if 
+17 
+a materially narrower tolerance band were used.   Using KEDNY as an example, and 
+18 
+depending upon how the manual adjustment bands are defined, SC2-2 could possibly fall 
+19 
+into the “High” caption and SC-2-1 and SC-4B could arguably fall in the “V High” caption.      
+20 
+
+
+--- Page 20 ---
+Cases 23-G-0225 / 23-G-0226 
+ 
+MICHELE CHAIT 
+19 
+ 
+Q. 
+DO YOU SUPPORT THE PROPOSED MANUAL ADJUSTMENTS? 
+1 
+A. 
+The proposed manual adjustments made by the Rate Panels attempt to thread the needle in 
+2 
+terms of balancing the need to move classes closer to cost of service with a desire not to 
+3 
+overburden under-contributing service classifications. Given these considerations, I do not 
+4 
+oppose the proposed manual adjustments.  
+5 
+Q. 
+IF THE COMMISSION WERE TO APPROVE A LOWER DISTRIBUTION 
+6 
+REVENUE 
+CHANGE, 
+DO 
+YOU 
+HAVE 
+ANY 
+RECOMMENDATIONS 
+7 
+REGARDING HOW THE RESULTING DISTRIBUTION REVENUE CHANGE 
+8 
+SHOULD RE-ALLOCATED AMONG SERVICE CLASSIFICATIONS?  
+9 
+A. 
+Yes.  Given the degree of over-contribution for certain services classifications as discussed 
+10 
+above, if the Commission were to approve a lower increase in the revenue requirements 
+11 
+for the Companies, the Commission should consider allocating a material share of the 
+12 
+reduction to the classes that are overcontributing in order to reduce existing subsidies more 
+13 
+quickly.   
+14 
+Q. 
+DOES THE COMPANY PROPOSE TO PHASE-IN RATE INCREASES? 
+15 
+A.
+On page 75 of 75 
+, lines 4-6, KEDNY states 
+16 
+that, to ease the impact on customer bills, the Company will consider options to phase-in 
+17 
+the proposed revenue increases over the term of a multi-year plan, instead of re-aligning 
+18 
+rates immediately. Again, given the magnitude of the overall rate increases being 
+19 
+requested, I strongly support this approach. 
+20 
+ 
+21 
+
+
+--- Page 21 ---
+Cases 23-G-0225 / 23-G-0226 
+ 
+MICHELE CHAIT 
+20 
+ 
+LOAD FORECAST 
+1 
+Q. 
+PLEASE DESCRIBE THE COMPANY’S PROPOSAL TO ALLOCATE USAGE 
+2 
+TO BLOCKS BASED ON A THREE-YEAR HISTORICAL AVERAGE.   
+3 
+A. 
+KEDNY Rate Design Panel Direct Testimony, page 14 of 75 lines 2-4, states that deliveries 
+4 
+were allocated to the usage blocks within each service class using a three-year average 
+5 
+percentage of historical actual billed block usage.  To normalize for the impacts of the 
+6 
+COVID-19 pandemic, the Company averaged historic billed block usage for calendar years 
+7 
+2019, 2021 and 2022.   
+8 
+Q. 
+HAVE THE COMPANIES PREVIOUSLY EMPLOYED THIS THREE-YEAR 
+9 
+AVERAGE METHODOLOGY TO ESTIMATE BILLED BLOCK USAGE? 
+10 
+A. 
+No.  The Companies’ Rate Design Panel Direct Testimonies indicate the Companies 
+11 
+previously used an Ogive analysis to allocate usage to blocks within each service 
+12 
+classification. 
+13 
+Q. 
+HOW DOES THIS 3-YEAR AVERAGE COMPARE TO THE ESTIMATED 
+14 
+KEDNY USAGE PER CUSTOMER FOR FY2025? 
+15 
+A. 
+Table 6 below shows actual FY2019, FY2021, FY2022 average therms per customer, 
+16 
+derived from Exhibit ___ (GLF-12A), Page 1 of 1 (gray highlighted column), and forecast 
+17 
+FY2025 therms per customer per KEDNY Gas Load Forecasting Panel Direct Testimony 
+18 
+Exhibit ___ (GLF-14ACU), Page 1 of 1.  Table 6 shows that, for the majority of service 
+19 
+classifications, projected FY2025 therms per customer are greater than the three-year 
+20 
+historical average therms per customer.   
+21 
+
+
+--- Page 22 ---
+Cases 23-G-0225 / 23-G-0226 
+ 
+MICHELE CHAIT 
+21 
+ 
+Table 6:  Comparison of KEDNY Actual FY19, FY21, FY22 Three-year Average Therms 
+1 
+per Customer versus Projected FY2025 Therms per Customer  
+2 
+ 
+3 
+Service Classification
+FY25
+FY19 FY21 FY22 
+Average
+Forecast Minus 
+Historical Avg
+Percent 
+Change
+SC
+1A
+81                         86 
+(5)
+                          
+-5%
+SC
+1AR
+71                         72 
+(1)
+                          
+-1%
+SC
+1B
+1,096                    1,143 
+(47)
+                        
+-4%
+SC
+1BR
+1,072                    1,088 
+(16)
+                        
+-2%
+SC
+1B-DG
+2,309                    2,273 
+36
+                          
+2%
+SC
+3
+9,612                    9,158 
+454
+                       
+5%
+SC
+2-1
+5,433                    4,932 
+501
+                       
+10%
+SC
+2-2
+4,077                    3,969 
+108
+                       
+3%
+SC
+4A
+109,759               104,238 
+5,521
+                    
+5%
+SC
+4A-CNG
+895,395               796,225 
+99,170
+                  
+12%
+SC
+4B
+30,042                  33,307 
+(3,265)
+                   
+-10%
+SC
+7
+4,713                          -   
+4,713
+                    
+n/a
+SC
+17-1A
+394                       267 
+127
+                       
+48%
+SC
+17-1AR
+82                         76 
+6
+                            
+8%
+SC
+17-1B
+1,979                    1,406 
+573
+                       
+41%
+SC
+17-1BR
+1,650                    1,312 
+338
+                       
+26%
+SC
+17-3
+37,521                  33,781 
+3,740
+                    
+11%
+SC
+17-2-1
+13,828                  12,727 
+1,101
+                    
+9%
+SC
+17-2-2
+8,274                    7,115 
+1,159
+                    
+16%
+SC
+17-4A
+639,351               666,083 
+(26,732)
+                 
+-4%
+SC
+17-4A-CNG
+13,150                  33,673 
+(20,523)
+                 
+-61%
+SC
+17-4B
+42,145                  38,258 
+3,887
+                    
+10%
+SC
+21DGSales
+268,588               274,068 
+(5,480)
+                   
+-2%
+SC
+21dg7-21-1
+209,020               210,526 
+(1,506)
+                   
+-1%
+SC
+21dg17-21-3
+13,755,636          12,020,908 
+1,734,728
+             
+14%
+NFDR
+T1Sales
+52,204                  54,080 
+(1,876)
+                   
+-3%
+NFDR
+T2Sales
+129,262               116,336 
+12,926
+                  
+11%
+NFDR
+T1Transport
+63,150                  60,900 
+2,250
+                    
+4%
+NFDR
+T2Transport
+250,421               128,069 
+122,352
+                
+96%
+
+
+--- Page 23 ---
+Cases 23-G-0225 / 23-G-0226 
+ 
+MICHELE CHAIT 
+22 
+ 
+Q. 
+WHAT ARE THE IMPLICATIONS OF THIS OUTCOME WITH RESPECT TO 
+1 
+USE OF THE THREE-YEAR HISTORICAL AVERAGE METHOD OF 
+2 
+ALLOCATING USAGE TO BLOCKS? 
+3 
+A.  
+Use of the three-year historical average appears to systematically under-state per customer 
+4 
+usage—over 65% of service classifications are projected to have increased usage per 
+5 
+customer.  For these service classifications, the share of FY2025 usage allocated to tail 
+6 
+blocks is lower than it would be if the allocation were better aligned with forecasted 
+7 
+FY2025 usage.  Because of this, the proposed tail block rates are higher than if they were 
+8 
+calculated with block allocations using FY2025 usage per customer.  For service 
+9 
+classifications with lower FY2025 forecast usage than historical averages, the opposite 
+10 
+trends will occur. 
+11 
+Q. 
+PLEASE PROVIDE AN EXAMPLE. 
+12 
+A. 
+Table 6 indicates that SC 2-1 has three-year average annual usage per customer of 4,932 
+13 
+therms ( = 411 therms per month) and forecast FY2025 annual usage per customer of 5,433 
+14 
+therms ( = 453 therms per month), or a 10% increase over the historical average.  Table 7 
+15 
+below demonstrates that, based on this average usage per customer, the share of therms 
+16 
+allocated to the tail block for an average customer is lower under the three-year historical 
+17 
+average scenario than it is for FY2025.  The table also shows the share of consumption for 
+18 
+the remaining blocks is higher under the three-year average than it is for FY2025.   
+19 
+Table 7:  Comparison of Block Allocation for SC-2-1  
+20 
+
+
+--- Page 24 ---
+Cases 23-G-0225 / 23-G-0226 
+ 
+MICHELE CHAIT 
+23 
+ 
+ 
+1 
+ 
+2 
+Q. 
+HOW ARE RATE DESIGN AND BILL IMPACTS AFFECTED? 
+3 
+A. 
+For the majority of customer classes, use of the three-year historical average block 
+4 
+allocations is expected to result in higher tail block rates and lower rates for the remaining 
+5 
+blocks than if the block usage allocations were closer to the FY2025 values.   
+6 
+Q.  
+DOES KEDLI DATA SHOW THE SAME TRENDS? 
+7 
+A. 
+Yes.  Table 8 below shows actual FY2019, FY2021, FY2022 average therms per customer, 
+8 
+derived from Exhibit ___ (GLF-12BCU) Page 1 of 1 (gray highlighted column) and 
+9 
+forecast FY2025 therms per customer per Exhibit ___ (GLF-14BCU) Page 1 of 1.  Table 
+10 
+8 shows that for the majority of service classifications, projected FY2025 therms per 
+11 
+customer are greater than the three-year historical average therms per customer.   
+12 
+Table 8:  Comparison of KEDLI Actual FY19, FY21, FY22 Three-year Average Therms 
+13 
+per Customer versus Projected FY2025 Therms per Customer  
+14 
+Block
+Therms
+Share (%) Therms
+Share (%)
+Block 1
+3
+0.7%
+3
+0.7%
+Block 2
+87
+21.2%
+87
+19.2%
+Block 3
+321
+78.1%
+363
+80.1%
+Block 4
+0
+0.0%
+0
+0.0%
+Total
+411
+100.0%
+453
+100.0%
+FY2025
+Three-year Avg
+
+
+--- Page 25 ---
+Cases 23-G-0225 / 23-G-0226 
+ 
+MICHELE CHAIT 
+24 
+ 
+ 
+1 
+Service Classification
+FY25
+FY19 FY21 FY22 
+Average
+Forecast minus 
+Historical Avg
+Percent 
+Change
+SC1A
+                    142                        150 
+(8)
+                        
+-5%
+SC1AR
+                      74                        100 
+(26)
+                      
+-26%
+SC1A
+                    353                        358 
+(5)
+                        
+-1%
+SC1AR
+                    246                        310 
+(64)
+                      
+-21%
+SC1B
+                 1,195                     1,218 
+(23)
+                      
+-2%
+SC1BR
+                    945                     1,022 
+(77)
+                      
+-8%
+SC1DG
+                 3,015                     2,890 
+125
+                     
+4%
+SC3B
+              22,947                   21,711 
+1,236
+                  
+6%
+SC3A
+                 7,795                     7,264 
+531
+                     
+7%
+SC2A
+                 1,388                     1,523 
+(135)
+                    
+-9%
+SC2A
+                 6,247                     6,162 
+85
+                       
+1%
+SC2B
+                 3,868                     3,882 
+(14)
+                      
+0%
+SC15
+            207,770                186,198 
+21,572
+                
+12%
+SC16
+            132,536                124,135 
+8,401
+                  
+7%
+SC17
+                 9,304                     9,269 
+35
+                       
+0%
+SC9
+            294,855                139,791 
+155,064
+              
+111%
+SC5-1A
+                    194                        160 
+34
+                       
+21%
+SC5-1AR
+                      53                          80 
+(27)
+                      
+-34%
+SC5-1A
+                    509                        388 
+121
+                     
+31%
+SC5-1AR
+                    348                        588 
+(240)
+                    
+-41%
+SC5-1B
+                 1,938                     1,483 
+455
+                     
+31%
+SC5-1BR
+                    868                        990 
+(122)
+                    
+-12%
+SC5-2A
+              25,008                   21,944 
+3,064
+                  
+14%
+SC5-2B
+              13,073                     8,710 
+4,363
+                  
+50%
+SC5-3B
+              36,582                   36,542 
+40
+                       
+0%
+SC5-3A
+              16,685                   17,436 
+(751)
+                    
+-4%
+SC5-2A
+              21,347                   17,049 
+4,298
+                  
+25%
+SC5-15
+              91,347                119,057 
+(27,710)
+              
+-23%
+SC5-16
+            809,319                690,352 
+118,967
+              
+17%
+SC5-17
+              71,252                   56,840 
+14,412
+                
+25%
+SC5-9
+            687,008                641,898 
+45,110
+                
+7%
+NFDRTier1Sales
+              57,070                   56,868 
+202
+                     
+0%
+NFDRTier1Transport             567,781                289,365 
+278,416
+              
+96%
+NFDRTier2Sales
+              82,134                   70,483 
+11,651
+                
+17%
+NFDRTier2Transport               51,819                   45,764 
+6,055
+                  
+13%
+SC7
+       20,127,690           19,717,080 
+410,610
+              
+2%
+SC14
+       15,252,522           16,447,060 
+(1,194,538)
+         
+-7%
+
+
+--- Page 26 ---
+Cases 23-G-0225 / 23-G-0226 
+ 
+MICHELE CHAIT 
+25 
+ 
+ 
+1 
+Q. 
+WHAT IS YOUR RECOMMENDATION? 
+2 
+A. 
+To better estimate usage shares by block, the Companies should consider employing block 
+3 
+consumption shares from the historical year that most closely matches FY2025 usage per 
+4 
+customer.  For example, in the case of the SC 2-1, analysis of historical data contained in 
+5 
+Exhibit ___ (GLF-12ACU), Page 1 of 1, indicates that usage per customer most closely 
+6 
+matching the FY2025 value occurs in FY2020 (a value of 5,265 therms).  The Company 
+7 
+could use FY2020 to inform the block consumption share for this class, and so on.  To 
+8 
+minimize the administrative burden, this revision could be carried out for service 
+9 
+classifications with forecast changes in usage greater than a reasonable threshold, for 
+10 
+example, +/-10%. 
+11 
+RATE DESIGN AND BILL IMPACTS 
+12 
+Q. 
+DO YOU HAVE ANY RECOMMENDATIONS REGARDING THE COMPANIES’ 
+13 
+PROPOSED RATE DESIGNS? 
+14 
+A. 
+Yes.  I have a recommendation regarding rate design for NFDR customers. 
+15 
+Q.  
+HOW 
+ARE 
+RATES 
+FOR 
+NFDR 
+CUSTOMERS 
+DESIGNED, 
+AFTER 
+16 
+ACCOUNTING FOR THE LOW-INCOME CUSTOMER DISCOUNT? 
+17 
+A. 
+KEDNY Workpapers RDP-4CU Schedule 4 indicate that the proposed SC-22/18-22 Tier-
+18 
+1 Commercial/Government and Tier-1 Multi-family rates are designed to achieve a 
+19 
+discount of 54.0% on the tail block rate of SC-2-2 and SC-3, respectively ( = 1 – 0.335 ÷ 
+20 
+0.7285 and 1 – 0.2786 ÷ 0.6058, respectively).  Proposed SC-22/18-22 Tier-2 
+21 
+
+
+--- Page 27 ---
+Cases 23-G-0225 / 23-G-0226 
+ 
+MICHELE CHAIT 
+26 
+ 
+Commercial/Government and Tier-2 Multi-family rates are designed to achieve a discount 
+1 
+of 63.2% on the tail block rate of SC-2-2 and SC-3, respectively ( = 1 – 0.2681 ÷ 0.7285 
+2 
+and 1 – 0.2229 ÷ 0.6058, respectively).  The proposed rates feature a $375 monthly 
+3 
+customer charge that is unchanged from the current customer charge.  KEDLI Workpapers 
+4 
+RDP-4CU Schedule 4 indicate a monthly charge of $375 and discounts of 55.0% and 
+5 
+64.0%, respectively.    
+6 
+Q. 
+DO YOU HAVE RECOMMENDATIONS FOR THE RATE DESIGN FOR THESE 
+7 
+CUSTOMERS? 
+8 
+A. 
+Yes.  KEDNY Rate Design Panel, lines 12-13 on page 42 of 75, lists target discounts of 
+9 
+55% and 65% for Tiers 1 and 2, respectively.  Increasing the customer charge would enable 
+10 
+the discounts to move closer to this target while still enabling the target class revenue to be 
+11 
+collected.  Additionally, Exhibit_(RDP-4CU), Schedule 4 Pages 20 through 23, show 
+12 
+negative bill impacts for customers with usage up to 10 therms.   Increasing the customer 
+13 
+charge while decreasing the tail block slightly would also help resolve this issue.  For 
+14 
+KEDLI’s Non-Firm Demand Response Tier 1 and Tier 2 customers, KEDLI 
+15 
+Exhibit_(RDP-4CU) Schedule 4 Pages 19 and 20 of 20 also show negative bill impacts for 
+16 
+customers with usage up to 10 therms, suggesting that increasing the customer charge while 
+17 
+decreasing Tier-2 and/or Tier-1 energy charges (such that the target discounts are 
+18 
+maintained) would similarly be a reasonable solution. 
+19 
+
+
+--- Page 28 ---
+Cases 23-G-0225 / 23-G-0226 
+ 
+MICHELE CHAIT 
+27 
+ 
+Q. 
+DO YOU SUPPORT THE TARGET 55% AND 65% DISCOUNT LEVELS FOR 
+1 
+NFDR TIER 1 AND TIER 2 RATES? 
+2 
+A.  
+Yes. The Companies’ Rate Design Panel Direct Testimony (KEDNY page 42 of 75, lines 
+3 
+12-16 and KEDLI page 43 of 74, lines 11-15) justifies the increased discounts for 
+4 
+interruptible customers because Company’s ability to interrupt this class is critical to 
+5 
+providing firm customers with uninterrupted service, and the discounts are necessary to 
+6 
+provide an incentive for NFDR customers to remain as non-firm customers.  Moreover, 
+7 
+using KEDNY as an example, I note that the SC-22/18-22 rates are designed to collect the 
+8 
+allocated revenue requirement and that, regardless of the discount to the SC2-2 and SC-3 
+9 
+tail block rates, the SC-22/18-22 class is proposed to produce a surplus with a proposed 
+10 
+return of over 18% versus the overall 7.09% return on rate base.   
+11 
+PROPOSAL TO INCLUDE NFDR GAS SUPPLY COSTS AND THEIR REVENUES IN 
+12 
+THE ANNUAL GAC RECONCILIATION 
+13 
+Q. 
+WHY ARE THE COMPANIES PROPOSING A GAS COST RECONCILIATION 
+14 
+FOR NFDR CUSTOMERS? 
+15 
+A. 
+Pursuant to the Order Approving Joint Proposal, as Modified, and Imposing Additional 
+16 
+Requirements (the “2021 Joint Proposal”), Section 3.5.1, the Companies are required to 
+17 
+develop and propose a non-firm gas cost reconciliation mechanism to be included in the 
+18 
+instant proceeding.  Lines 10-12 in KEDNY Rate Design Panel Direct Testimony, page 58 
+19 
+of 75, state that because the Company has a combined (KEDNY and KEDLI) Firm and 
+20 
+
+
+--- Page 29 ---
+Cases 23-G-0225 / 23-G-0226 
+ 
+MICHELE CHAIT 
+28 
+ 
+Non-Firm gas supply portfolio, it cannot separately reconcile NFDR customer gas supply 
+1 
+costs. 
+2 
+Q. 
+HOW IS THE COMMODITY PRICE FOR NFDR CUSTOMERS CURRENTLY 
+3 
+ESTABLISHED? 
+4 
+A. 
+The 2021 Joint Proposal, page 261 of 991, states that for NFDR customers, the commodity 
+5 
+price, also referred to as the “Weighted Monthly ICOG,”  is (a) the Incremental Cost of 
+6 
+Gas (“ICOG”) weighted by the upstream pipeline city gates and volumes used to determine 
+7 
+deliveries to non-firm customers (the “Weighted ICOG”), plus (b) the demand charge 
+8 
+reduced to ten percent of the allocated pipeline transportation costs, plus (c) the applicable 
+9 
+Lost and Unaccounted for Gas (“LAUF”) factor.  The Weighted Monthly ICOG rate for 
+10 
+NFDR sales customers is capped at the Monthly Cost of Gas (excluding adjustments) for 
+11 
+the otherwise applicable firm service class.  Joint Proposal Appendix 3 Schedule 5.1 Page 
+12 
+1 of 1 indicates that the LAUF factor is applied only to the Weighted ICOG.   
+13 
+Q. 
+HOW ARE NFDR NATURAL GAS REVENUES CURRENTLY RECONCILED?   
+14 
+A. 
+As described in KEDNY Rate Panel Direct Testimony, pages 58 –59 of 75, the Companies 
+15 
+do not currently reconcile gas costs for non-firm sales customers.  NFDR revenues are 
+16 
+excluded from the actual gas expense in the annual GAC reconciliation. The difference 
+17 
+between the total adjusted GAC revenue and the total purchased gas expense is the GAC 
+18 
+year over/under collection. The over/under collection is divided by firm customer annual 
+19 
+sales to derive the annual gas imbalance surcharge or refund.   
+20 
+
+
+--- Page 30 ---
+Cases 23-G-0225 / 23-G-0226 
+ 
+MICHELE CHAIT 
+29 
+ 
+Q. 
+WHAT IS THE SPA RECONCILIATION? 
+1 
+A. 
+The System Performance Adjustment (SPA) reconciles actual system LAUF to the LAUF 
+2 
+targets established in a rate case proceeding.  The LAUF targets are based on 5-year 
+3 
+historical averages.   
+4 
+Q. 
+ARE 
+NFDR 
+CUSTOMERS 
+CURRENTLY 
+ASSESSED 
+THE 
+SPA 
+5 
+RECONCILIATION? 
+6 
+A. 
+No, the Company does not currently recover or refund the SPA surcharge/refund from 
+7 
+NFDR sales or transportation customers.   
+8 
+Q. 
+HOW ARE FIRM SERVICE CUSTOMERS CURRENTLY ASSESSED LAUF 
+9 
+COSTS? 
+10 
+A. 
+For firm service customers, the LAUF factor is applied to (A) the Weighted Average Cost 
+11 
+of Gas plus (B) the Average Fixed Cost of Gas net of any Average Fixed Cost Credits.   
+12 
+Q. 
+IS THE SHARE OF LAUF COSTS ASSESSED ON FIRM CUSTOMERS THE 
+13 
+SAME AS THE SHARE OF LAUF COSTS ASSESSED ON NFDR CUSTOMERS? 
+14 
+A. 
+No.  The share of LAUF costs assessed on firm customer commodity and capacity-related 
+15 
+amounts (components (A) and (B) above) is greater than the share of LAUF costs assessed 
+16 
+on corresponding amounts for NFDR customers.  
+17 
+Q.   
+PLEASE EXPLAIN WHY THIS IS TRUE WITH RESPECT TO COMMODITY 
+18 
+AMOUNTS.  
+19 
+A. 
+For NFDR customers, the Weighted Monthly ICOG is capped at (is less than or equal to) 
+20 
+the firm customer Weighted Average Cost of Gas (item (A) above).    Therefore, for the 
+21 
+
+
+--- Page 31 ---
+Cases 23-G-0225 / 23-G-0226 
+ 
+MICHELE CHAIT 
+30 
+ 
+same consumption, LAUF charges assessed on NFDR customer commodity amounts must 
+1 
+be less than LAUF charges assessed on firm customer commodity amounts.   
+2 
+Q.   
+PLEASE EXPLAIN WHY THIS IS TRUE WITH RESPECT TO CAPACITY-
+3 
+RELATED AMOUNTS.   
+4 
+A. 
+Firm customers are assessed the Average Fixed Cost of Gas net of any Average Fixed Cost 
+5 
+Credits (item (B) above).  The demand charge for non-firm customers is reduced to ten 
+6 
+percent of the allocated pipeline transportation costs included in the Annual Fixed Cost of 
+7 
+Gas calculation.  Therefore, for the same consumption, LAUF charges assessed on NFDR 
+8 
+capacity-related amounts must be less than LAUF charges assessed on firm customer 
+9 
+capacity-related amounts.    
+10 
+Q. 
+PLEASE 
+DESCRIBE 
+THE 
+COMPANIES’ 
+NON-FIRM 
+GAS 
+COST 
+11 
+RECONCILIATION PROPOSAL. 
+12 
+A. 
+Under the Companies’ proposal, the net dollar impact of the annual GAC imbalance plus 
+13 
+the SPA mechanism would be shared among NFDR and firm customers through a single 
+14 
+volumetric rate.  Because the LAUF factor impacts GAC rates, the Company does not 
+15 
+believe it is appropriate to assess the GAC to NFDR customers without assessing the SPA.  
+16 
+Because the SPA is proposed to be assessed on NFDR customers, no change is proposed 
+17 
+to current LAUF treatment.    
+18 
+Q. 
+DO YOU SUPPORT THE COMPANIES’ PROPOSAL? 
+19 
+A. 
+No.  I conclude that the Companies’ proposal will shift costs to NFDR customers.  I come 
+20 
+to this conclusion because, as discussed above, the energy- and capacity-related gas costs 
+21 
+on which the LAUF factor is assessed are greater for firm customers than for NFDR 
+22 
+
+
+--- Page 32 ---
+Cases 23-G-0225 / 23-G-0226 
+ 
+MICHELE CHAIT 
+31 
+ 
+customers. In other words, applying the same volumetric rates will shift costs from firm 
+1 
+customers to NFDR customers.    
+2 
+Q. 
+DO YOU SUPPORT THE COMPANIES’ PROPOSAL?  
+3 
+A. 
+The Companies’ non-firm gas cost reconciliation proposal is unfair and would result in an 
+4 
+over-allocation of LAUF costs to NFDR customers.  The Joint Proposal requires that the 
+5 
+Companies propose a non-firm gas cost reconciliation mechanism, however, it does not 
+6 
+require that the same volumetric rate be implemented for both NFDR and firm service 
+7 
+customers.   
+8 
+Q. 
+WHAT DO YOU RECOMMEND? 
+9 
+ A. 
+I recommend that a single volumetric rate is not implemented and that separate GAC and 
+10 
+SPA reconciliations are developed for NFDR customers.  This proposal will help minimize 
+11 
+cost shifting among firm and NFDR customers.   
+12 
+RATE ADJUSTMENT MECHANISM (RAM) PROPOSAL 
+13 
+Q. 
+PLEASE DESCRIBE THE COMPANIES’ RAM PROPOSAL. 
+14 
+A. 
+Each Company proposes to implement a RAM surcharge for the recovery/refund of certain 
+15 
+deferral balances from/to customers during the rate plan.  Specifically, the Companies 
+16 
+propose to collect the following balances via the RAM: the Uncollectible Expense 
+17 
+reconciliation; the Property Tax reconciliation; the EAP reconciliation; the Late Payment 
+18 
+Charge Revenue reconciliation; the No Fee Credit/Debit Card reconciliation; the Long-
+19 
+Term Debt reconciliation; January 2023 – March 2024 “linking period” amounts for any 
+20 
+existing deferrals; and fiscal year ending March 2024 incremental Energy Efficiency 
+21 
+
+
+--- Page 33 ---
+Cases 23-G-0225 / 23-G-0226 
+ 
+MICHELE CHAIT 
+32 
+ 
+program costs. Each Company also envisions that the RAM would be used to recover 
+1 
+additional deferrals that may be authorized by the Commission in the future.   
+2 
+Q. 
+WHICH OF THE ABOVE DEFERRAL MECHANISMS CURRENTLY EXIST? 
+3 
+A. 
+The Property Tax and EAP reconciliation mechanisms currently exist.  The Companies 
+4 
+propose implementing new reconciliation mechanisms for uncollectible expenses, late 
+5 
+payment charges, residential CC/DC fees, long-term debt and fiscal year ending March 
+6 
+2024 incremental Energy Efficiency program costs.   For the reasons set forth below, I am 
+7 
+opposed to creating the new reconciliation mechanisms and, therefore, find the RAM  
+8 
+unnecessary.  Instead, the Property Tax and EAP mechanisms should remain separate.  
+9 
+Q.  
+PLEASE 
+EXPLAIN 
+THE 
+COMPANIES’ 
+UNCOLLECTIBLE 
+EXPENSE 
+10 
+RECONCILIATION MECHANISM PROPOSAL.   
+11 
+A. 
+Each Company proposes to implement a two-way reconciliation mechanism that would 
+12 
+reconcile the uncollectible expense recovered in base rates against actual write-offs. The 
+13 
+reconciliation would include the commodity portion of uncollectible expense. This would 
+14 
+be deferred for future recovery or refund to customers via the proposed RAM. 
+15 
+Q. 
+DO YOU SUPPORT THE COMPANIES’ PROPOSAL TO RECONCILE 
+16 
+UNCOLLECTIBLE EXPENSES AMOUNTS? 
+17 
+A. 
+No.  The Companies have not demonstrated that the uncollectibles expense proposed to be 
+18 
+collected in rates is expected to be materially different from future uncollectibles.   
+19 
+
+
+--- Page 34 ---
+Cases 23-G-0225 / 23-G-0226 
+ 
+MICHELE CHAIT 
+33 
+ 
+Q. 
+PLEASE EXPLAIN THE COMPANIES’ PROPOSAL TO RECONCILE AND 
+1 
+COLLECT LATE PAYMENT CHARGE DEFERRAL BALANCES. 
+2 
+A. 
+In Rate Design Panel testimony, the Companies allege that because of the uncertainty in 
+3 
+the Historic Test Year ratio used to develop the late payment charge revenue forecast and 
+4 
+the effects of the Phase 1 and Phase 2 Electric and Gas Bill Relief Program on late payment 
+5 
+charges, there is a need to reconcile the Late Payment Charge revenue included in base 
+6 
+delivery rates versus actual revenue billed to customers.  This would be deferred for future 
+7 
+recovery or refund to customers via the proposed RAM.      
+8 
+Q. 
+DO YOU SUPPORT THE COMPANIES’ PROPOSAL TO COLLECT LATE 
+9 
+PAYMENT CHARGE DEFERRAL BALANCES? 
+10 
+A. 
+No.  The Companies have not provided sufficient evidence demonstrating why this 
+11 
+treatment is necessary.  Reconciliation mechanisms should be the exception, not the rule.  
+12 
+The Companies have not attempted to provide any evidence that demonstrates why they 
+13 
+cannot use available data to provide a reasonable forecast of Late Payment Charge 
+14 
+revenues. 
+15 
+Q. 
+DO YOU SUPPORT THE COMPANIES’ PROPOSAL TO ASSESS NO VENDOR 
+16 
+FEES ON THE USE OF CREDIT CARDS OR DEBIT CARDS FOR RESIDENTIAL 
+17 
+CUSTOMER BILL PAYMENTS? 
+18 
+A. 
+Yes.  I believe this could help improve revenue collection. 
+19 
+
+
+--- Page 35 ---
+Cases 23-G-0225 / 23-G-0226 
+ 
+MICHELE CHAIT 
+34 
+ 
+Q. 
+DO YOU SUPPORT THE COMPANIES’ PROPOSAL TO RECONCILE THE NO 
+1 
+FEE CREDIT/DEBIT CARD (CC/DC) EXPENSES AND COLLECT BALANCES 
+2 
+VIA THE RAM? 
+3 
+A. 
+No.  Because this offering would be new for residential customers, I support evaluating the 
+4 
+need for any reconciliation in a future rate case proceeding. 
+5 
+Q. 
+PLEASE 
+DESCRIBE 
+THE 
+COMPANIES’ 
+PROPOSAL 
+FOR 
+THE 
+6 
+RECOVERY/REFUND OF LONG-TERM DEBT DEFERRAL BALANCES. 
+7 
+A. 
+Each Company is proposing to establish a long-term debt true-up mechanism that would 
+8 
+reconcile the difference between the forecast costs of long-term debt embedded in 
+9 
+authorized rates and each Company’s actual debt costs during each of the Rate Years and 
+10 
+Data Years.   
+11 
+Q. 
+WHAT IS THE RATIONALE GIVEN FOR THIS PROPOSAL? 
+12 
+A. 
+The Companies assert in the Capital Structure Panel Direct Testimony that historical 
+13 
+volatility increases the likelihood that the actual cost of debt rates for future debt issuances 
+14 
+will be either lower or higher than those assumed.  
+15 
+Q. 
+DO YOU SUPPORT THE COMPANIES' PROPOSAL TO TRUE-UP LONG-
+16 
+TERM DEBT INTEREST RATES? 
+17 
+A. 
+No.   The Companies have not provided evidence that recent historical long-term debt 
+18 
+interest rate volatility is expected to impact the future cost of new long-term debt in the 
+19 
+Rate Year and Data Years.  Thus, the proposal to create a new long-term debt reconciliation 
+20 
+mechanism should be rejected. 
+21 
+
+
+--- Page 36 ---
+Cases 23-G-0225 / 23-G-0226 
+ 
+MICHELE CHAIT 
+35 
+ 
+Q. 
+DO YOU SUPPORT THE COMPANIES’ PROPOSAL TO COLLECT 
+1 
+INCREMENTAL NE:NY EE PROGRAM COSTS VIA THE RAM? 
+2 
+A. 
+No.  As discussed below, in Customer Panel Direct Testimony, the Companies state they 
+3 
+believe that energy efficiency costs are best recovered in base rates rather than being 
+4 
+recovered in part through a surcharge.  I support recovery of energy efficiency costs in base 
+5 
+delivery rates and therefore do not support creation of a surcharge to collect incremental 
+6 
+energy efficiency costs.  
+7 
+Q.  
+DO YOU SUPPORT RECOVERY OF ADDITIONAL DEFERRALS THAT MAY 
+8 
+BE AUTHORIZED BY THE COMMISSION IN THE FUTURE VIA THE RAM? 
+9 
+A. 
+No.  I support evaluating any future recovery of additional deferral balances on a case-by-
+10 
+case basis.    
+11 
+Q. 
+WITH 
+RESPECT 
+TO 
+THE 
+PROPOSED 
+NEW 
+RECONCILIATION 
+12 
+MECHANISMS DISCUSSED ABOVE, ARE THERE ANY OTHER ISSUES THAT 
+13 
+CONCERN YOU? 
+14 
+A. 
+Yes.  Any new reconciliation mechanisms that are approved would mitigate the risks borne 
+15 
+by the Companies.  If the proposed new mechanisms are approved, which I do not support, 
+16 
+then each Company’s equity return and equity share of capital structure should be evaluated 
+17 
+in this context to appropriately reflect the reduced risks expected to be borne by equity 
+18 
+shareholders. 
+19 
+
+
+--- Page 37 ---
+Cases 23-G-0225 / 23-G-0226 
+ 
+MICHELE CHAIT 
+36 
+ 
+Q. 
+PLEASE 
+EXPLAIN 
+THE 
+COMPANIES’ 
+PROPERTY 
+TAX 
+EXPENSE 
+1 
+RECONCILIATION PROPOSAL.   
+2 
+A. 
+The Companies propose to replace the current property tax reconciliation mechanism with 
+3 
+a two-way fully symmetrical reconciliation mechanism.  
+4 
+Q. 
+DO YOU SUPPORT THE COMPANIES’ PROPOSAL TO REVISE THE 
+5 
+PROPERTY TAX RECONCILIATION AND COLLECT BALANCES AND ANY 
+6 
+“LINKING PERIOD” AMOUNTS VIA THE RAM? 
+7 
+A. 
+No.  The current rate plans provide for variances from the rate allowance for each 
+8 
+Company’s property taxes to be shared 10 percent Company/90 percent customers with a 
+9 
+cap on the Company’s share equal to 7.5 basis points for Rate Year 1 (FY2021), 5.0 basis 
+10 
+points for Rate Year 2 (FY2022), and 2.5 basis points for Rate Year 3 (FY2023).  I support 
+11 
+retaining the current mechanism; the Companies have not provided an adequate basis for 
+12 
+changing it.   
+13 
+Q. 
+DO YOU SUPPORT THE COMPANIES’ PROPOSAL TO COLLECT EAP OVER- 
+14 
+OR UNDER-RECOVERIES AND ANY “LINKING PERIOD” AMOUNTS VIA 
+15 
+THE RAM? 
+16 
+A. 
+No, I support continuation of the current treatment which establishes a deferred charge or 
+17 
+credit for future recovery from all customers.   
+18 
+Q. 
+IF THE RAM IS IMPLEMENTED, DO YOU SUPPORT THE COMPANY’S 
+19 
+PROPOSED 2.5% THRESHOLD CAP ON RAM BALANCES? 
+20 
+A. 
+If the RAM is implemented, which I do not believe is necessary, I would support a cap.  
+21 
+However, I do not support a value of 2.5% assessed on a basis of prior year aggregate 
+22 
+
+
+--- Page 38 ---
+Cases 23-G-0225 / 23-G-0226 
+ 
+MICHELE CHAIT 
+37 
+ 
+revenues.  The dollar value of any cap would need to be commensurate with balances 
+1 
+permitted to be collected via the RAM and these values are not currently known.  
+2 
+Furthermore, I do not support the inclusion of commodity-related revenues in the threshold 
+3 
+basis.   
+4 
+Q. 
+RESPONSE TO DPS-433 INDICATES THAT IF THE RAM IS IMPLEMENTED, 
+5 
+THE COMPANY PROPOSES TO ALLOCATE LONG-TERM DEBT, PROPERTY 
+6 
+TAX, EAP, AND NO FEE CC/DC BALANCES USING THE “TOT REV” (TOTAL 
+7 
+REVENUE) ALLOCATOR.  DO YOU SUPPORT THIS PROPOSAL? 
+8 
+A. 
+Initially, as noted above, I do not support the creation of the RAM.  If the RAM is created, 
+9 
+I would support using the “Tot Rev” allocator for EAP, No Fee CC/DC, and EAP balances.  
+10 
+However, I do not support using the ‘Tot Rev’ allocator for Long-term Debt and Property 
+11 
+Tax because these costs are driven by capital investments.   
+12 
+PROPOSAL TO ELIMINATE THE DEMAND CAPACITY SURCHARGE MECHANISM 
+13 
+(DCSM)  
+14 
+Q. 
+WHAT 
+COSTS 
+ARE 
+CURRENTLY 
+COLLECTED 
+VIA 
+THE 
+DCSM 
+15 
+SURCHARGE? 
+16 
+A. 
+The DCSM surcharge collects four types of costs:  (1) 50% of the estimated cost of non-
+17 
+labor demand response program costs consisting primarily of capacity and performance 
+18 
+incentive payments; (2) as indicated by lines 5-6 on page 124 of 148 of Customer Panel 
+19 
+Direct Testimony, “a very small amount” of marketing and administrative costs for the 
+20 
+Load Shedding and BYOT program; (3) incremental NE:NY Energy Efficiency program 
+21 
+
+
+--- Page 39 ---
+Cases 23-G-0225 / 23-G-0226 
+ 
+MICHELE CHAIT 
+38 
+ 
+costs; and (4) the revenue requirement, excluded from delivery rates, that is associated with 
+1 
+Long-Term Capital Capacity Projects subject to the Capacity Demand Metrics. 
+2 
+Q. 
+WHY ARE THE COMPANIES PROPOSING TO ELIMINATE THE DCSM? 
+3 
+A. 
+Customer Panel Direct Testimony, page 133 of 148 lines 18-20, indicates that the 2019 
+4 
+Joint Proposal provided that there was to be no “presumption that the DCSM will continue 
+5 
+in subsequent rate proceedings.” Therefore, the Panel proposes to end it. 
+6 
+Q. 
+HOW DO THE COMPANIES PROPOSE TO RECOVER NON-LABOR RELATED 
+7 
+DEMAND 
+RESPONSE 
+PROGRAM 
+CAPACITY 
+AND 
+PERFORMANCE 
+8 
+PAYMENTS COSTS? 
+9 
+A. 
+The Companies propose to recover these costs via the DROM component of the Delivery 
+10 
+Rate Adjustment. 
+11 
+Q. 
+DO YOU SUPPORT THIS PROPOSAL? 
+12 
+A. 
+Yes.  If approved by the Commission, I also support collecting the true-up portion of fiscal 
+13 
+year 2024 non-labor demand response costs via the DROM.  I support this proposal because 
+14 
+it has a lower administrative burden and because the non-labor demand response costs can 
+15 
+be collected via the DROM surcharge more timely after they are incurred.  
+16 
+Q. 
+DO YOU SUPPORT THE COMPANIES’ PROPOSAL TO RECOVER 
+17 
+INCREMENTAL NE:NY ENERGY EFFICIENCY PROGRAM COSTS VIA THE 
+18 
+PROPOSED RAM SURCHARGE? 
+19 
+A. 
+No.  In Customer Panel Direct Testimony, page 135 of 148 lines 2-8, the Companies state 
+20 
+they believe that energy efficiency costs are best recovered in base rates rather than being 
+21 
+recovered in part through a surcharge. Despite this, the Panel requests that, if base rates are 
+22 
+
+
+--- Page 40 ---
+Cases 23-G-0225 / 23-G-0226 
+ 
+MICHELE CHAIT 
+39 
+ 
+established in this proceeding before any incremental costs are authorized in the Interim 
+1 
+Review, a surcharge be established to permit recovery of incremental energy efficiency 
+2 
+costs.  As a preliminary matter, I do not support creation of the RAM surcharge because, 
+3 
+as discussed above, I do not believe it is necessary.  Furthermore, as the Companies assert, 
+4 
+energy efficiency amounts are ongoing costs and should be addressed in base delivery 
+5 
+rates.   
+6 
+Q. 
+DO YOU SUPPORT THE COMPANIES’ PROPOSAL TO RECOVER 
+7 
+MARKETING AND ADMINISTRATIVE COSTS FOR THE LOAD SHEDDING 
+8 
+AND BYOT PROGRAM VIA THE DROM? 
+9 
+A. 
+No.  These costs are incurred by the Companies on an ongoing basis and should be 
+10 
+addressed in base delivery rates rather than via a surcharge.   
+ 
+11 
+Q. 
+DO YOU SUPPORT THE COMPANIES’ PROPOSAL TO COLLECT THE 
+12 
+APPROVED REVENUE REQUIREMENT FOR LONG-TERM CAPITAL 
+13 
+CAPACITY PROJECTS VIA BASE DELIVERY RATES? 
+14 
+A. 
+Currently, to recover costs for a proposed project, the Companies must first demonstrate 
+15 
+compliance with Capacity Demand Metrics and then an independent consultant must 
+16 
+certify the project meets the standard for need described in the Joint Proposal.  I believe 
+17 
+that these criteria are reasonable and I support collection of long-term capital capacity 
+18 
+project costs in base delivery rates after thorough review by the Commission provided that 
+19 
+(1) such costs are not collected prior to the project becoming operational, (2) the project 
+20 
+has achieved any criteria established by the Commission prior to inclusion in base delivery 
+21 
+
+
+--- Page 41 ---
+Cases 23-G-0225 / 23-G-0226 
+ 
+MICHELE CHAIT 
+40 
+ 
+rates, such as the aforementioned capacity demand metrics, and (3) the project supports 
+1 
+Climate Leadership and Community Projection Act (“CLCPA”) objectives.   
+2 
+Q. 
+DO YOU SUPPORT THE COMPANY’S PROPOSAL TO ELIMINATE THE 
+3 
+DCSM? 
+4 
+A. 
+Yes, provided that the DCSM cost components are collected per my recommendations 
+5 
+above. 
+6 
+NEW EAMS PROPOSALS 
+7 
+Q. 
+HOW ARE THE COMPANIES PROPOSING TO CHANGE THEIR EARNINGS 
+8 
+ADJUSTMENT MECHANISM (EAM) OFFERINGS? 
+9 
+A.   
+The Companies propose to continue their two existing energy efficiency EAMs:   the Gas 
+10 
+Share-the-Savings (“STS EAM”) for non-low-income customers and the Gas Low-and-
+11 
+Moderate Income (“LMI EAM”) for LMI customers.   The Companies propose to 
+12 
+implement two new EAMS:  one supporting LMI Energy Assistance Program enrollment 
+13 
+(“EAP EAM”) and the second supporting achievement of Gas Demand Response (“DR 
+14 
+EAM”).  The Companies proposes to recover any earned EAM incentives through its 
+15 
+existing EAM surcharge mechanism. 
+16 
+Q.   
+PLEASE DESCRIBE THE EXISTING “LMI EAM.” 
+17 
+A. 
+In alignment with CLCPA goals, the LMI EAM incentivizes the Companies to exceed the 
+18 
+energy efficiency targets for LMI customers established per the NE:NY order and also 
+19 
+directs energy efficiency savings towards Disadvantaged Communities.   
+20 
+
+
+--- Page 42 ---
+Cases 23-G-0225 / 23-G-0226 
+ 
+MICHELE CHAIT 
+41 
+ 
+Q. 
+PLEASE SUMMARIZE THE EXISTING “STS EAM.” 
+1 
+A. 
+Under the STS EAM applicable to non-LMI customers, the Companies can receive 
+2 
+incentives for reducing total gas portfolio expenditures and/or by achieving energy savings 
+3 
+above the approved baseline level of lifetime energy savings. The realized difference in the 
+4 
+expected and actual unit cost per dekatherm is shared between customers and the Company 
+5 
+on a 70%-30% basis.   
+6 
+Q. 
+PLEASE SUMMARIZE THE PROPOSED “EAP EAM.”  
+7 
+A. 
+Under the EAP EAM, the Companies would receive an incentive for EAP enrollment 
+8 
+above a customer participant baseline established per the most recent historical EAP 
+9 
+program year (December 1 through November 30).   
+10 
+Q.   
+DO YOU SUPPORT IMPLEMENTATION OF THE EAP EAM? 
+11 
+A. 
+No.  A utility’s financial health can be impacted by the reduced throughput associated with 
+12 
+energy efficiency, such as the LMI EAM.  However, the Companies’ financial health is not 
+13 
+impacted by customer participation in EAP.   Moreover, the Companies have a duty to 
+14 
+ensure that LMI customers are identified and encouraged to participate in the program.  For 
+15 
+this reason, I do not believe that the EAP EAM is necessary to incentivize EAP enrollment 
+16 
+efforts. 
+17 
+Q. 
+PLEASE DESCRIBE THE PROPOSED “DR EAM.” 
+18 
+A. 
+Under this proposed EAM, the Companies would receive an incentive for achieving 
+19 
+savings via the Companies’ firm gas demand response portfolio that currently comprises 
+20 
+the Load Shedding, Load Shifting, and BYOT programs. Savings would be measured based 
+21 
+
+
+--- Page 43 ---
+Cases 23-G-0225 / 23-G-0226 
+ 
+MICHELE CHAIT 
+42 
+ 
+on actual performance during events versus a baseline proposed to be determined using a 
+1 
+logarithmic regression of actual performance data from the preceding three winter seasons.  
+2 
+Q.  
+DO YOU SUPPORT CREATION OF THE DR EAM? 
+3 
+A. 
+No.  Given existing system capacity constraints, it is the Companies’ responsibility to 
+4 
+operate its system in a manner that will achieve optimal savings from its firm gas demand 
+5 
+response programs.  The Commission, and customers, should not have to provide an 
+6 
+incentive for responsible management of the gas system. Should the DR EAM be 
+7 
+implemented, any targets for providing rewards should be stretch targets that are far beyond 
+8 
+prior historical savings achieved.  In addition, I would recommend that any new staff 
+9 
+engaged to support these efforts be funded from program savings.   
+10 
+CALCULATION OF THE UNCOLLECTIBLES WRITE-OFF RATES 
+11 
+Q. 
+WHAT WRITE-OFF RATE DOES EACH COMPANY PROPOSE? 
+12 
+A. 
+The Companies propose to update their net write-off rates using an aggregated average 
+13 
+uncollectible rate over three-year period for calendar years 2017-2019.  This approach 
+14 
+results in an average uncollectible rate of 0.8388% for KEDNY and 0.6076% for KEDLI.     
+15 
+Q. 
+DO YOU SUPPORT THIS PROPOSAL?  
+16 
+A. 
+No.  The Companies have not explained why it is necessary to average three years of data 
+17 
+in order to establish the uncollectible rate.  I support using the uncollectible rate for 2019 
+18 
+alone, for two reasons.  First, this is the most recent pre-COVID year.  Second, use of the 
+19 
+three-year average unnecessarily inflates the uncollectible rate.  The Companies’ 
+20 
+Exhibit__(RDP-6CU) Schedule 3 Page 3 of 10 indicates that the 2019 rate is 0.8077% and 
+21 
+
+
+--- Page 44 ---
+Cases 23-G-0225 / 23-G-0226 
+ 
+MICHELE CHAIT 
+43 
+ 
+the corresponding rate for KEDLI is 0.5852%.  Use of these values would result in 
+1 
+appropriate uncollectibles components in base rates versus the proposed figures of 
+2 
+0.8388% for KEDNY and 0.6076% for KEDLI . 
+3 
+UNCOLLECTIBLES INCENTIVE 
+4 
+Q. 
+PLEASE DESCRIBE THE COMPANY’S PROPOSAL TO REINSTATE THE 
+5 
+UNCOLLECTIBLES INCENTIVE. 
+6 
+A. 
+The Companies’ Customer Panel Direct Testimony lines 3-11 on page 75 of 148 states that 
+7 
+while the Companies are concerned with efforts to further reduce the level of terminations, 
+8 
+due to the uncertainty of resuming collection activities after being paused during COVID, 
+9 
+they propose to resume uncollectibles performance incentive measures beginning with 
+10 
+Data Year 2. 
+11 
+Q. 
+WHAT UNCOLLECTIBLES TARGETS ARE PROPOSED FOR THE RATE 
+12 
+YEAR AND DATA YEARS? 
+13 
+A.  
+Lines 3-4 on page 78 of 148 in Companies’ Customer Panel Direct Testimony states that 
+14 
+the Companies’ targets for the performance measure are those established in the 2016 
+15 
+KEDNY and KEDLI Rate Cases. 
+16 
+Q. 
+DO YOU SUPPORT THE COMPANY’S PROPOSAL TO REINSTATE THE 
+17 
+UNCOLLECTIBLES INCENTIVE IN RATE YEAR 2? 
+18 
+A. 
+No.  I support examining whether this incentive should be re-instated during the next rate 
+19 
+case.  The appropriate incentive level should be examined at that time.  In addition to 
+20 
+providing more time for resolving the uncertainty of post-COVID activities, this approach 
+21 
+
+
+--- Page 45 ---
+Cases 23-G-0225 / 23-G-0226 
+ 
+MICHELE CHAIT 
+44 
+ 
+will also allow uncollectibles balances to reflect improvements due to the impact of any 
+1 
+no-fee credit card or debit card bill payments.  
+2 
+Q. 
+DOES THIS CONCLUDE YOUR TESTIMONY?  
+3 
+A. 
+Yes.   
+4 

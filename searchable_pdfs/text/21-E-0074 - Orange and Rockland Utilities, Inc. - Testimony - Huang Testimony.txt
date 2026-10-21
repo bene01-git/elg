@@ -1,0 +1,1758 @@
+--- Page 1 ---
+ 
+ 
+ 
+ 
+ 
+BEFORE THE 
+STATE OF NEW YORK 
+PUBLIC SERVICE COMMISSION 
+ 
+ 
+ 
+In the Matter of 
+ 
+Orange and Rockland Utilities, Inc. 
+ 
+Cases 21-G-0073 and 21-E-0074 
+ 
+May 2021 
+ 
+ 
+Prepared Testimony of: 
+ 
+Mingdi Huang 
+Utility Engineering Specialist 1 
+Office of Electric, Gas and 
+Water   
+        
+ 
+State of New York 
+Department of Public Service 
+Three Empire State Plaza 
+Albany, New York 12223-1350 
+ 
+ 
+ 
+ 
+
+
+--- Page 2 ---
+Cases 21-G-0073, et al. 
+    
+HUANG 
+ 
+ 
+-1- 
+ 
+Q. 
+Please state your name, employer, and business 
+1 
+address. 
+2 
+A. 
+My name is Mingdi Huang.  I am employed by the 
+3 
+New York State Department of Public Service, 
+4 
+referred to as the Department, and my business 
+5 
+address is Three Empire State Plaza, Albany, New 
+6 
+York 12223. 
+7 
+Q. 
+Mr. Huang, what is your position at the 
+8 
+Department? 
+9 
+A. 
+I am a Utility Engineering Specialist 1 in the 
+10 
+Downstate Rates and Tariffs section of the 
+11 
+Office of Electric, Gas and Water. 
+12 
+Q. 
+Please describe your educational experience. 
+13 
+A. 
+I graduated from Cornell University in 2010 with 
+14 
+a Bachelor of Science degree in Mechanical 
+15 
+Engineering.  I then attended Rensselaer 
+16 
+Polytechnic Institute and graduated in 2015 with 
+17 
+a Ph.D. in Mechanical Engineering. 
+18 
+Q. 
+What are your responsibilities and duties at the 
+19 
+Department? 
+20 
+A. 
+My duties involve the engineering analysis of 
+21 
+utility operations as they relate to the 
+22 
+ratemaking process, as well as participating in 
+23 
+various reviews of the activities of local 
+24 
+
+
+--- Page 3 ---
+Cases 21-G-0073, et al. 
+    
+HUANG 
+ 
+ 
+-2- 
+ 
+distribution companies.  I have had these 
+1 
+responsibilities and duties since I joined the 
+2 
+Department in February 2019. 
+3 
+Q.  Have you previously testified in a proceeding 
+4 
+before the New York State Public Service 
+5 
+Commission, referred to as the Commission? 
+6 
+A.  Yes.  I testified in Cases 19-G-0309 and 19-G-
+7 
+0310, the Brooklyn Union Gas Company d/b/a 
+8 
+National Grid NY and KeySpan Gas East Corp. 
+9 
+d/b/a National Grid; as well as Cases 19-G-0379 
+10 
+and 19-G-0381, New York State Electric & Gas 
+11 
+Corporation and Rochester Gas and Electric 
+12 
+Corporation. 
+ 
+13 
+Overview 
+14 
+Q.  What is the Rate Year, also referred to as the 
+15 
+RY, in these proceedings? 
+16 
+A.  The RY is the 12-month period ending December 
+17 
+31, 2022.  Orange and Rockland Utilities, Inc, 
+18 
+referred to as O&R or the Company, has referred 
+19 
+to Calendar Years 2023 and 2024, the two years 
+20 
+following the Rate Year, as Rate Year 2, or RY2, 
+21 
+and Rate Year 3, or RY3, respectively.  For ease 
+22 
+of reference, I will use the same references as 
+23 
+O&R in its initial testimony. 
+24 
+
+
+--- Page 4 ---
+Cases 21-G-0073, et al. 
+    
+HUANG 
+ 
+ 
+-3- 
+ 
+Q. 
+Mr. Huang, what is the purpose of your 
+1 
+testimony? 
+2 
+A. 
+My testimony will 1) review the basic terms and 
+3 
+concepts related to depreciation; 2) summarize 
+4 
+O&R’s depreciation study and proposals, along 
+5 
+with a summary of my depreciation expense 
+6 
+recommendations; 3) present my recommendations 
+7 
+for average service lives, or ASLs, survivor 
+8 
+curves and net-salvage factors for several 
+9 
+electric accounts that differ from what O&R has 
+10 
+proposed for the RY; and 4) provide the annual 
+11 
+depreciation expense for the RY, as well as the 
+12 
+theoretical reserves resulting from my 
+13 
+recommended depreciation rates. 
+14 
+Q. 
+In this testimony, will you refer to, or 
+15 
+otherwise rely upon, any information produced 
+16 
+during the discovery phase of these proceedings? 
+17 
+A. 
+Yes.  I will refer to, and have relied upon, 
+18 
+responses to Department Staff Information 
+19 
+Requests, or IRs.  These IRs are collected and 
+20 
+provided in Exhibit__(MMH-1). 
+21 
+Q. 
+Are you sponsoring any other exhibits? 
+22 
+A. 
+Yes, I am sponsoring four additional exhibits. 
+23 
+
+
+--- Page 5 ---
+Cases 21-G-0073, et al. 
+    
+HUANG 
+ 
+ 
+-4- 
+ 
+• Exhibit__(MMH-2) contains an overview of all 
+1 
+depreciation components that are currently 
+2 
+effective, proposed by the Company, and 
+3 
+recommended by me.  These components include the 
+4 
+survivor curves, depreciation rates, net salvage 
+5 
+factors, and the depreciation expense and 
+6 
+theoretical reserves based on plant balances as 
+7 
+of December 31, 2019, for electric, gas and 
+8 
+common accounts. 
+9 
+• Exhibit__(MMH-3) contains a graphical 
+10 
+representation of Company-proposed and my 
+11 
+recommended survivor curves on accounts where 
+12 
+the Company and I differ. 
+13 
+• Exhibit__(MMH-4) contains a comparison of the 
+14 
+currently effective, Company-proposed and my 
+15 
+recommended depreciation rates. 
+16 
+• Exhibit__(MMH-5) contains a comparison of the 
+17 
+currently effective, Company-proposed and my 
+18 
+recommended net salvage factors. 
+19 
+Depreciation Terms and Concepts 
+20 
+Q.  Please explain the terms “net salvage” and 
+21 
+“depreciation” as used in ratemaking. 
+22 
+A.  Net salvage is the value received for the asset, 
+23 
+less any expenses incurred to remove it once the 
+24 
+
+
+--- Page 6 ---
+Cases 21-G-0073, et al. 
+    
+HUANG 
+ 
+ 
+-5- 
+ 
+plant is no longer in service.  Depreciation is 
+1 
+a method of recovering capital costs, less net 
+2 
+salvage, related to plant-in-service over the 
+3 
+plant’s expected life.   
+4 
+Q. 
+Please explain the term “ASL.” 
+5 
+A. 
+ASL is the arithmetic average of the lives of 
+6 
+the units of property included in a given plant 
+7 
+account and is the area under a survivor curve 
+8 
+from age zero to the maximum age divided by 100 
+9 
+percent. 
+10 
+Q. 
+Please explain the term “survivor curve.” 
+11 
+A. 
+A survivor curve is a graphical representation 
+12 
+of the percentage of original plant that is 
+13 
+still in service as a function of age.  Known 
+14 
+curves, such as Iowa or h-curves, are fit to the 
+15 
+observed historical survivor data to help 
+16 
+determine an appropriate ASL.  These known 
+17 
+curves include a mode that describes the 
+18 
+relative height of the curve.  Low mode curves 
+19 
+have wide retirement patterns where assets 
+20 
+retire over a wide range of lives and few 
+21 
+retirements occur near the average, while high 
+22 
+mode curves are the opposite, with narrower 
+23 
+retirement patterns near the ASL.  The area 
+24 
+
+
+--- Page 7 ---
+Cases 21-G-0073, et al. 
+    
+HUANG 
+ 
+ 
+-6- 
+ 
+under the survivor curve is the ASL.  The 
+1 
+observed historical survivor data is generated 
+2 
+from a mortality study that examines the actual 
+3 
+retirement patterns over multiple years of 
+4 
+plant-in-service by account.   
+5 
+Q. 
+Please explain the term “depreciation expense.” 
+6 
+A. 
+Depreciation expense is the amount collected, 
+7 
+typically annually, to recover the cost of an 
+8 
+investment, less net salvage, over the expected 
+9 
+useful life of an asset. 
+10 
+Q. 
+Please explain the term “depreciation rate.” 
+11 
+A. 
+A depreciation rate is a percentage rate that is 
+12 
+applied to the value of gross plant-in-service, 
+13 
+by account, to determine the annual depreciation 
+14 
+expense.   
+15 
+Q. 
+How is the depreciation rate determined for a 
+16 
+given plant account? 
+17 
+A. 
+The depreciation rate is a function of the ASL 
+18 
+and net salvage factor, and is calculated such 
+19 
+that the amount of depreciation expense 
+20 
+collected over the plant account’s service life 
+21 
+will recover the original cost of the plant, 
+22 
+including net salvage. 
+23 
+Q. 
+Please explain the term “net salvage factor.” 
+24 
+
+
+--- Page 8 ---
+Cases 21-G-0073, et al. 
+    
+HUANG 
+ 
+ 
+-7- 
+ 
+A. 
+The net salvage factor refers to the component 
+1 
+of the depreciation rate that allows recovery of 
+2 
+estimated net salvage.  It is expressed as a 
+3 
+percentage based on the original cost of plant.  
+4 
+The net salvage factor can be positive or 
+5 
+negative, depending on the cost of removal and 
+6 
+the value that can be recovered from a retired 
+7 
+asset.  If the retired asset can be sold for 
+8 
+more than its cost of removal, then it can 
+9 
+reduce the original cost that needs to be 
+10 
+recovered through depreciation expense.  
+11 
+However, if the cost of removal is more than the 
+12 
+sale price of the retired asset, then it 
+13 
+increases the amount that needs to be collected 
+14 
+through depreciation expense.  For example, let 
+15 
+us assume that a unit of property has a total 
+16 
+installed cost of $1,000, $0 estimated future 
+17 
+salvage, and estimated cost of removal of $500.  
+18 
+The net salvage factor is calculated as follows: 
+19 
+Rate = ($0 + ($-500)) / $1000.  This equates to 
+20 
+a -0.50 or a negative 50 percent net salvage 
+21 
+factor. 
+22 
+Q. 
+Please explain the term “book reserve.” 
+23 
+A. 
+The book reserve is the accumulated depreciation 
+24 
+
+
+--- Page 9 ---
+Cases 21-G-0073, et al. 
+    
+HUANG 
+ 
+ 
+-8- 
+ 
+expense of the plant account, less any plant 
+1 
+retirements and cost of removal, plus any gross 
+2 
+salvage received.  The book reserve represents 
+3 
+the amount of the original plant cost that has 
+4 
+already been recovered through depreciation.  
+5 
+The net plant is the remaining plant balance 
+6 
+that has yet to be depreciated and is calculated 
+7 
+by subtracting the book reserve from the 
+8 
+original cost of the plant. 
+9 
+Q. 
+Please explain the term “theoretical reserve.” 
+10 
+A. 
+The theoretical reserve is the amount of 
+11 
+depreciation expense that should have been 
+12 
+collected at a particular date, if the proposed 
+13 
+survivor curves, ASLs and net salvage factors 
+14 
+were used throughout the entire life of the 
+15 
+plant account.  The difference between the book 
+16 
+reserve and the theoretical reserve indicates 
+17 
+whether the Company is recovering its gross 
+18 
+plant costs properly with the associated rates.  
+19 
+If the book reserve is smaller or greater than 
+20 
+the theoretical reserve, that represents an 
+21 
+under-collection or over-collection, 
+22 
+respectively.  Usually, if the absolute 
+23 
+difference between the book and theoretical 
+24 
+
+
+--- Page 10 ---
+Cases 21-G-0073, et al. 
+    
+HUANG 
+ 
+ 
+-9- 
+ 
+reserve is greater than 10 percent of the book 
+1 
+reserve, an amortization to recover or refund a 
+2 
+portion of the difference over 10 percent is 
+3 
+recommended to reduce the possibility of under-
+4 
+recovered/over-recovered costs once the plant 
+5 
+has been retired. 
+6 
+Q.  How are the depreciation rates calculated? 
+7 
+A.  The rates are calculated differently depending 
+8 
+on the depreciation system used.  Each system 
+9 
+consists of a method, a procedure and a 
+10 
+technique. 
+11 
+Q. 
+What depreciation system did the Company use to 
+12 
+calculate its proposed depreciation rates? 
+13 
+A. 
+The Company used the straight-line method, broad 
+14 
+group ASL procedure and whole life technique for 
+15 
+its depreciable accounts. 
+16 
+Q. 
+Please briefly explain the straight-line method. 
+17 
+A. 
+In the straight-line method, the original cost 
+18 
+of the plant is divided and recovered equally 
+19 
+over each year of service life.  
+20 
+Q. 
+Please briefly explain the broad group ASL 
+21 
+procedure. 
+22 
+A. 
+In the broad group ASL procedure, all assets 
+23 
+belonging to a given plant account are 
+24 
+
+
+--- Page 11 ---
+Cases 21-G-0073, et al. 
+    
+HUANG 
+ 
+ 
+-10- 
+ 
+considered as a single group regardless of 
+1 
+installation date, and a single ASL is used for 
+2 
+all assets collectively.   
+3 
+Q.  Please explain how the depreciation rate is 
+4 
+calculated using the whole life technique. 
+5 
+A.  After determining each account’s proposed ASLs 
+6 
+and net salvage factors, the Company used the 
+7 
+following equation to calculate depreciation 
+8 
+rates for each account:  Rate = (100 percent - 
+9 
+net salvage factor) / (ASL).  For example, if 
+10 
+the net salvage factor is negative 50 percent 
+11 
+and the ASL is 50 years, then the depreciation 
+12 
+rate would be: Rate = (100% – (-50%)) / 50 years 
+13 
+= 3%/year.  The depreciation rate would equal 
+14 
+three percent for this example plant account. 
+15 
+Depreciation Proposal Summary 
+16 
+Q. 
+Summarize the Company’s proposals for the 
+17 
+electric and gas depreciation expense in the RY. 
+18 
+A. 
+As presented in Schedules 7.1 and 7.2 of the 
+19 
+Accounting Panel’s Exhibit__(AP-E3) and 
+20 
+Exhibit__(AP-D3), filed as part of O&R’s 
+21 
+preliminary update on March 31, 2021, the 
+22 
+Company’s proposal would increase the annual 
+23 
+electric depreciation expense for the RY by 
+24 
+
+
+--- Page 12 ---
+Cases 21-G-0073, et al. 
+    
+HUANG 
+ 
+ 
+-11- 
+ 
+approximately $2.2 million, from $62.0 million 
+1 
+to $64.2 million.  The annual gas depreciation 
+2 
+expense for the RY would decrease by 
+3 
+approximately $67,000, from $28.7 million to 
+4 
+$28.6 million.  These expenses include the 
+5 
+common depreciation expense levels, which are 
+6 
+allocated by 72.4 percent to electric plant and 
+7 
+27.6 percent to gas plant for software assets 
+8 
+and 66.9 percent to electric and 33.1 percent 
+9 
+for all other common assets.   
+10 
+Q. 
+Summarize the Company’s depreciation expense 
+11 
+proposals for RY2 and RY3. 
+12 
+A. 
+As presented in the Accounting Panel’s updated 
+13 
+Exhibit__(AP-E3) and Exhibit__(AP-D3), the 
+14 
+Company’s proposals would increase the electric 
+15 
+depreciation expense in RY2 by approximately 
+16 
+$2.3 million, from $66.3 million to $68.6 
+17 
+million, and in RY3 by approximately $2.5 
+18 
+million, from $76.5 million to $79.0 million.  
+19 
+For the gas depreciation expense, it would 
+20 
+increase in RY2 by approximately $3.2 million, 
+21 
+from $31.4 million to $34.6 million, and 
+22 
+increase in RY3 by approximately $5.4 million, 
+23 
+from $33.9 million to $39.3 million.  Similar to 
+24 
+
+
+--- Page 13 ---
+Cases 21-G-0073, et al. 
+    
+HUANG 
+ 
+ 
+-12- 
+ 
+the expense levels for the RY, the expense 
+1 
+levels for RY2 and RY3 also include the common 
+2 
+depreciation expense allocation. 
+3 
+Q. 
+Did the Company propose any changes to its 
+4 
+depreciation rates used to determine its 
+5 
+proposed depreciation expense? 
+6 
+A. 
+Yes.  The Company proposes several changes to 
+7 
+the depreciation rates for its electric, gas, 
+8 
+and common accounts.  The Company proposes that 
+9 
+its new electric and common depreciation rates 
+10 
+become effective at the start of the RY; 
+11 
+however, the Company proposes its new gas 
+12 
+depreciation rates become effective at the start 
+13 
+of RY2 in order to mitigate customer bill 
+14 
+impacts in light of the COVID-19 pandemic. 
+15 
+Q. 
+Please briefly summarize your recommendations 
+16 
+regarding depreciation expense associated with 
+17 
+both electric, gas and common plant for the RY. 
+18 
+A. 
+Using the forecasted capital expense levels as 
+19 
+provided by the Staff Electric Infrastructure 
+20 
+and Operations Panel, referred to as the SEIOP, 
+21 
+and the depreciation factors I recommend for 
+22 
+electric plant, I recommend a RY electric plant 
+23 
+depreciation expense of $53.6 million, a 
+24 
+
+
+--- Page 14 ---
+Cases 21-G-0073, et al. 
+    
+HUANG 
+ 
+ 
+-13- 
+ 
+decrease of $1.9 million from the Company’s 
+1 
+proposal.  Using the forecasted capital expense 
+2 
+levels as provided by the Staff Gas 
+3 
+Infrastructure and Operations Panel, referred to 
+4 
+as the SGIOP, and the current gas depreciation 
+5 
+rates, as proposed by the Company and 
+6 
+recommended by me, I recommend a RY gas plant 
+7 
+depreciation expense of $23.0 million, a 
+8 
+decrease of $150,000 from the Company’s 
+9 
+proposal.  Using the forecasted common capital 
+10 
+expense levels as provided by the Staff 
+11 
+Information Technology and Common Panel and the 
+12 
+depreciation factors I recommend for common 
+13 
+plant, which are consistent with those proposed 
+14 
+by the Company, I recommend a RY common plant 
+15 
+depreciation expense of $16.0 million, an 
+16 
+increase of $1,000 from the Company’s proposal.  
+17 
+Q. 
+Did you provide composite depreciation rates for 
+18 
+the net plant models used by the SEIOP and 
+19 
+SGIOP? 
+20 
+A. 
+Yes, I used the Company’s workpapers provided in 
+21 
+the response to IR DPS-26-527, included in 
+22 
+Exhibit__(MMH-1), to calculate the appropriate 
+23 
+composite rates from my recommendations.  
+24 
+
+
+--- Page 15 ---
+Cases 21-G-0073, et al. 
+    
+HUANG 
+ 
+ 
+-14- 
+ 
+Average Service Lives and Survivor Curves 
+1 
+Q. 
+Did the Company incorporate the use of a 
+2 
+depreciation study? 
+3 
+A. 
+Yes, the Company submitted its 2019 Depreciation 
+4 
+Study, performed by Gannett Fleming, contained 
+5 
+in Exhibit__(DP-E1) and Exhibit__(DP-G1), which 
+6 
+incorporates historic data through December 31, 
+7 
+2019.  Its findings were used to inform the 
+8 
+Company’s proposed depreciation rates. 
+9 
+Q. 
+Is the Company proposing other considerations 
+10 
+that would affect depreciation rates beyond the 
+11 
+results of the 2019 Depreciation Study? 
+12 
+A. 
+The Company is not proposing anything that would 
+13 
+affect electric or common depreciation rates 
+14 
+other than the results of the 2019 Depreciation 
+15 
+Study.  However, the Company has three gas 
+16 
+policy proposals that affect gas depreciation 
+17 
+rates.  The first proposal is to fully 
+18 
+depreciate the plant assets planned to be 
+19 
+replaced through the Company’s leak prone pipe, 
+20 
+or LPP, replacement program by the program’s end 
+21 
+in 2029.  The second proposal is to reduce the 
+22 
+ASLs by five years for certain longer-lived gas 
+23 
+plant accounts.  The third proposal is to 
+24 
+
+
+--- Page 16 ---
+Cases 21-G-0073, et al. 
+    
+HUANG 
+ 
+ 
+-15- 
+ 
+amortize the entire gas reserve deficiency over 
+1 
+the next 20 years. 
+2 
+Q. 
+Describe the Company’s proposal to fully 
+3 
+depreciate the gas plant assets that will be 
+4 
+replaced through the LPP replacement program by 
+5 
+the program’s end. 
+6 
+A. 
+As agreed to in the Joint Proposal adopted by 
+7 
+the Commission in the March 14, 2019 Order 
+8 
+Adopting Terms of Joint Proposal and 
+9 
+Establishing Electric and Gas Rate Plans in 
+10 
+Cases 18-E-0067 and 18-G-0068, referred to as 
+11 
+the 2019 Rate Order, the Company separated its 
+12 
+gas mains and services plant accounts by 
+13 
+material type in its 2019 Depreciation Study.  
+14 
+The Company also separated out the gas mains and 
+15 
+services that are planned to be replaced through 
+16 
+the Company’s LPP replacement program.  Because 
+17 
+the Company plans to complete this replacement 
+18 
+program by 2029, it is proposing to set 
+19 
+depreciation rates beginning in RY2 for these 
+20 
+LPP gas accounts to ensure the assets are fully 
+21 
+depreciated by the time the program ends. 
+22 
+Q. 
+What effect will this proposal have on the 
+23 
+depreciation expense? 
+24 
+
+
+--- Page 17 ---
+Cases 21-G-0073, et al. 
+    
+HUANG 
+ 
+ 
+-16- 
+ 
+A. 
+Starting in RY2, with the gross plant balances 
+1 
+as of December 31, 2019, under this proposal 
+2 
+these accounts would have an annual depreciation 
+3 
+expense of approximately $787,600, which 
+4 
+represents an annual increase in expense of 
+5 
+approximately $545,800 above the approximately 
+6 
+$241,800 expense level at current depreciation 
+7 
+rates. 
+8 
+Q. 
+What is your position regarding depreciation 
+9 
+rates for LPP accounts? 
+10 
+A. 
+For the RY, I agree with the Company’s proposal 
+11 
+and recommend the continuation of the currently 
+12 
+approved depreciation rates for the LPP 
+13 
+accounts.  For beyond the RY, while it is 
+14 
+reasonable to reduce intergenerational 
+15 
+inequities by recovering the costs of the LPP 
+16 
+accounts from customers who have benefited from 
+17 
+those assets, it may be more reasonable at this 
+18 
+time to delay the LPP recovery to account for 
+19 
+the financial impacts of the COVID-19 pandemic.   
+20 
+Q. 
+Describe the Company’s proposal to reduce by 
+21 
+five years the ASL of certain longer-lived gas 
+22 
+plant accounts. 
+23 
+A. 
+In the 2019 Depreciation Study, the Company 
+24 
+
+
+--- Page 18 ---
+Cases 21-G-0073, et al. 
+    
+HUANG 
+ 
+ 
+-17- 
+ 
+began to plan for the impact of achieving the 
+1 
+Climate Leadership and Community Protection Act, 
+2 
+referred to as the CLCPA, on its recovery of its 
+3 
+existing gas infrastructure through 
+4 
+depreciation.  The Company is proposing to 
+5 
+reduce the ASLs of certain gas plant accounts by 
+6 
+five years, beginning in RY2, as a preliminary 
+7 
+first step that can be continued or accelerated, 
+8 
+if necessary, as the path to achieve the CLCPA’s 
+9 
+goals becomes more clear. 
+10 
+Q. 
+Which accounts are affected by this proposal? 
+11 
+A. 
+Specifically, 367.00 – Plastic Transmission 
+12 
+Mains, 367.10 – Steel Transmission Mains, 375.00 
+13 
+– Structures and Improvements, 376.00 – Plastic 
+14 
+Distribution Mains, 376.10 – Steel Distribution 
+15 
+Mains, 380.00 – Plastic Services, 380.10 – Steel 
+16 
+Services, 382.00 – Meter Installations, 382.40 – 
+17 
+Meter Bar Installations, and 384.00 – House 
+18 
+Regulators Installations. 
+19 
+Q. 
+What effect will this proposal have on the 
+20 
+depreciation expense? 
+21 
+A. 
+Starting in RY2, with the gross plant balances 
+22 
+as of December 31, 2019, under this proposal, 
+23 
+these accounts would have an annual depreciation 
+24 
+
+
+--- Page 19 ---
+Cases 21-G-0073, et al. 
+    
+HUANG 
+ 
+ 
+-18- 
+ 
+expense of approximately $18.8 million, which 
+1 
+represents an annual increase of approximately 
+2 
+$2.6 million above the approximately $16.3 
+3 
+million current annual expense. 
+4 
+Q. 
+What is your position regarding the five-year 
+5 
+reduction of ASLs for certain plant accounts? 
+6 
+A. 
+For the RY, I recommend using the currently 
+7 
+approved ASLs and depreciation rates, consistent 
+8 
+with the Company’s proposal.  For beyond the RY, 
+9 
+while I agree with and support achieving the 
+10 
+goals of the CLCPA, the Company’s proposal 
+11 
+represents a significant increase over the 
+12 
+current depreciation expense and may be 
+13 
+premature.  In the absence of further specific 
+14 
+guidance on achieving the goals of the CLCPA, it 
+15 
+may be more reasonable at this time to 
+16 
+prioritize rate mitigation measures due to the 
+17 
+financial impact of the COVID-19 pandemic.     
+18 
+Q. 
+Will you address the Company’s third proposal, 
+19 
+to amortize its entire gas reserve deficiency? 
+20 
+A. 
+I discuss the Company’s third proposal later in 
+21 
+the Reserve Deficiency/Amortizations section of 
+22 
+my testimony.  
+23 
+Q. 
+Did your review of the information in the 2019 
+24 
+
+
+--- Page 20 ---
+Cases 21-G-0073, et al. 
+    
+HUANG 
+ 
+ 
+-19- 
+ 
+Depreciation Study lead you to recommend 
+1 
+different ASLs and survivor curves from those 
+2 
+currently in effect or proposed by the Company? 
+3 
+A. 
+Based on my review and analysis of the data 
+4 
+received, I am in agreement with the Company’s 
+5 
+proposals concerning the common depreciation 
+6 
+factors and the continued use of the currently 
+7 
+approved gas depreciation factors for the RY; 
+8 
+however, I am recommending different survivor 
+9 
+curves and associated ASLs for certain electric 
+10 
+accounts based on the fit of retirement data.  
+11 
+Q. 
+Please explain how you conducted your review. 
+12 
+A. 
+From the 2019 Depreciation Study, I reviewed the 
+13 
+service lives and survivor curve history 
+14 
+presented, which included mortality and 
+15 
+retirement data for each electric, gas, and 
+16 
+common plant account.  I also reviewed the 
+17 
+Company’s proposal for the survivor curve and 
+18 
+associated ASL for each account.  In addition to 
+19 
+analyzing the data provided in the 2019 
+20 
+Depreciation Study and the Company’s response to 
+21 
+IR DPS-9-329, included in Exhibit__(MMH-1), I 
+22 
+performed statistical analyses on the retirement 
+23 
+data for several accounts and requested plots of 
+24 
+
+
+--- Page 21 ---
+Cases 21-G-0073, et al. 
+    
+HUANG 
+ 
+ 
+-20- 
+ 
+several curves from the Company in IR DPS-28-
+1 
+550, which is included in Exhibit__(MMH-1).  
+2 
+Using this data, I was able to select various 
+3 
+survivor curves and ASLs and compare them both 
+4 
+statistically and visually to the Company-
+5 
+proposed survivor curves and ASLs to determine 
+6 
+the best fit to the historical retirement data. 
+7 
+Q. 
+What are your recommended survivor curves and 
+8 
+ASLs for the RY that differ from the Company’s 
+9 
+proposal? 
+10 
+A. 
+Specifically, I recommend an ASL of 60 years 
+11 
+instead of the Company-proposed 55 years for 
+12 
+electric account 364.00 – Poles, Towers and 
+13 
+Fixtures, and an ASL of 70 years and survivor 
+14 
+curve of R-1.0 instead of the Company-proposed 
+15 
+65 years and R-1.5, respectively, for electric 
+16 
+account 365.00 – Overhead Conductors and 
+17 
+Devices.   
+18 
+Q. 
+Where are your recommended survivor curves, ASLs 
+19 
+and depreciation rates presented? 
+20 
+A. 
+I present an overview of the currently approved, 
+21 
+Company-proposed and my recommended survivor 
+22 
+curves, ASLs and depreciation rates, among other 
+23 
+depreciation components, in Exhibit__(MMH-2).  
+24 
+
+
+--- Page 22 ---
+Cases 21-G-0073, et al. 
+    
+HUANG 
+ 
+ 
+-21- 
+ 
+Additionally, a graphical comparison of the 
+1 
+Company-proposed and my recommended survivor 
+2 
+curves for the accounts where they differ is 
+3 
+presented in Exhibit__(MMH-3).  Finally, a 
+4 
+direct comparison of the currently approved, 
+5 
+Company-proposed and my recommended depreciation 
+6 
+rates is presented in Exhibit__(MMH-4).   
+7 
+Net Salvage 
+8 
+Q.  Please describe the information contained in the 
+9 
+net salvage statistics section of the 2019 
+10 
+Depreciation Study provided by O&R. 
+11 
+A.  The 2019 Depreciation Study contains, for each 
+12 
+plant account and year included, the original 
+13 
+cost of plant retired, the amount of salvage 
+14 
+received, the cost of removal, and the net 
+15 
+salvage amount, which is the sum of the amount 
+16 
+of salvage received and the cost of removal.  
+17 
+For each year, the 2019 Depreciation Study also 
+18 
+shows, as a percentage of original cost retired, 
+19 
+the salvage received, the cost of removal and 
+20 
+the net salvage, as well as the three-year 
+21 
+rolling average of each and the average of each 
+22 
+for the five years ending December 31, 2019. 
+23 
+Q.  Please discuss the method you used to determine 
+24 
+
+
+--- Page 23 ---
+Cases 21-G-0073, et al. 
+    
+HUANG 
+ 
+ 
+-22- 
+ 
+your recommended net salvage factors. 
+1 
+A. 
+I reviewed the net salvage statistics provided 
+2 
+by the Company in its 2019 Depreciation Study, 
+3 
+analyzing the historical annual, three-year, and 
+4 
+five-year averages of net salvage costs for 
+5 
+noticeable trends.  Where trends indicate that 
+6 
+costs of removal are increasing, I recommend 
+7 
+more negative net salvage factors for those 
+8 
+accounts.  Where there are no apparent trends, I 
+9 
+recommend that the net salvage factor remain the 
+10 
+same as approved in current rates.  For accounts 
+11 
+where the net salvage is increasing, I recommend 
+12 
+less negative net salvage factors.  
+13 
+Additionally, since net salvage can vary 
+14 
+significantly from year to year, my recommended 
+15 
+adjustments to the net salvage factor are 
+16 
+limited to 10 percentage points from current net 
+17 
+salvage factors.  
+18 
+Q. 
+Why do you recommend limiting movement from 
+19 
+current net salvage factors to 10 percentage 
+20 
+points? 
+21 
+A. 
+Net salvage can and does vary significantly 
+22 
+between depreciation studies due to a variety of 
+23 
+factors, including, but not limited to, the age 
+24 
+
+
+--- Page 24 ---
+Cases 21-G-0073, et al. 
+    
+HUANG 
+ 
+ 
+-23- 
+ 
+of the assets retired, the quantity of the 
+1 
+assets retired, the quality or value of the 
+2 
+assets retired, the cost of labor needed to 
+3 
+remove the assets, and the type of equipment 
+4 
+utilized to remove assets.  In addition, net 
+5 
+salvage for a given plant account can be highly 
+6 
+variable from year to year, such that the 
+7 
+Company may experience significant negative net 
+8 
+salvage in some years and little to no or even 
+9 
+positive net salvage in other years.  Thus, it 
+10 
+is reasonable to avoid drastic changes, which is 
+11 
+why I recommend limiting the movement taken 
+12 
+based on the results of the 2019 Depreciation 
+13 
+Study. 
+14 
+Q. 
+Discuss the net salvage adjustments you 
+15 
+recommend for the RY. 
+16 
+A. 
+Compared to the Company’s proposed electric net 
+17 
+salvage factors, I recommend adjusting accounts 
+18 
+355.00 – Poles and Fixtures – Wood, 355.10 – 
+19 
+Poles and Fixtures – Steel, 366.00 – Underground 
+20 
+Conduit and 367.00 – Underground Conductors and 
+21 
+Devices to be less negative by 10 points, and 
+22 
+accounts 365.00 – Overhead Conductors and 
+23 
+Devices, 365.10 – Overhead Conductor and Devices 
+24 
+
+
+--- Page 25 ---
+Cases 21-G-0073, et al. 
+    
+HUANG 
+ 
+ 
+-24- 
+ 
+– Cablecure, 369.10 – Services – Overhead and 
+1 
+369.20 – Services – Underground to be less 
+2 
+negative by five points.  Finally, I recommend 
+3 
+accounts 373.10 – Street Light and Signal 
+4 
+Systems - Overhead and 373.20 – Street Light and 
+5 
+Signal Systems – Underground to be more negative 
+6 
+by 10 points.  I have no adjustments to gas or 
+7 
+common net salvage factors that differ from the 
+8 
+Company’s proposals for the RY. 
+9 
+Q. 
+Where are your recommended net salvage factors 
+10 
+presented? 
+11 
+A. 
+A direct comparison of the currently approved, 
+12 
+Company-proposed and my recommended net salvage 
+13 
+factors is presented in Exhibit__(MMH-5).   
+14 
+Reserve Deficiency/Amortizations  
+15 
+Q. 
+Summarize the theoretical reserves and reserve 
+16 
+deficiencies under the Company’s proposal. 
+17 
+A. 
+Under the Company’s proposal, using the gross 
+18 
+plant balances as of December 31, 2019, the 
+19 
+electric theoretical reserve is approximately 
+20 
+$475.0 million, or approximately $2.2 million 
+21 
+greater than the electric book reserve of 
+22 
+approximately $472.7 million.  The gas 
+23 
+theoretical reserve for the RY, using the 
+24 
+
+
+--- Page 26 ---
+Cases 21-G-0073, et al. 
+    
+HUANG 
+ 
+ 
+-25- 
+ 
+currently approved depreciation rates, is 
+1 
+approximately $273.7 million, or approximately 
+2 
+$3.3 million greater than the gas book reserve 
+3 
+of approximately $270.4 million.  The common 
+4 
+theoretical reserve is approximately $135.8 
+5 
+million, or approximately $1.2 million greater 
+6 
+than the common book reserve of approximately 
+7 
+$134.6 million. 
+8 
+Q. 
+Describe the Company’s proposal regarding the 
+9 
+gas reserve deficiency. 
+10 
+A. 
+Using the depreciation factors proposed by the 
+11 
+Company to become effective in RY2, the gas 
+12 
+theoretical reserve is approximately $307.6 
+13 
+million, or approximately $37.2 million or 13.8 
+14 
+percent greater than the gas book reserve.  
+15 
+Typically, if a reserve deficiency is greater 
+16 
+than 10 percent of the book reserve, an 
+17 
+amortization of the excess deficiency beyond 10 
+18 
+percent is recommended.  However, due to the 
+19 
+policy goals of the CLCPA and the uncertainty of 
+20 
+gas infrastructure in the future, the Company 
+21 
+proposes to begin amortizing in RY3 the entire 
+22 
+gas reserve deficiency of $37.2 million over 20 
+23 
+years.  The intent, according to the Company, is 
+24 
+
+
+--- Page 27 ---
+Cases 21-G-0073, et al. 
+    
+HUANG 
+ 
+ 
+-26- 
+ 
+to minimize the possibility that O&R would not 
+1 
+be able to recover the full costs of its assets 
+2 
+from ratepayers who benefit from those assets 
+3 
+while they are still in service.  Notably, the 
+4 
+Company proposes to begin amortizing the entire 
+5 
+gas reserve deficiency even if the deficiency is 
+6 
+less than 10 percent of the book reserve. 
+7 
+Q. 
+What is the effect of this proposal on the 
+8 
+depreciation expense? 
+9 
+A. 
+The Company’s proposal would result in an annual 
+10 
+amortization of approximately $1.9 million. 
+11 
+Q. 
+What is your position on amortizing the gas 
+12 
+reserve deficiency? 
+13 
+A. 
+While I understand the need for the Company to 
+14 
+ultimately recover the cost of its assets, 
+15 
+without further guidance on how to achieve the 
+16 
+goals of the CLCPA, the recovery of the entire 
+17 
+gas reserve deficiency over a short period of 
+18 
+time may be excessive and unnecessarily 
+19 
+burdensome on customers, particularly 
+20 
+considering the financial impacts of the COVID-
+21 
+19 pandemic.   
+22 
+Q. 
+Summarize the effect of your recommendations on 
+23 
+the theoretical reserves and reserve 
+24 
+
+
+--- Page 28 ---
+Cases 21-G-0073, et al. 
+    
+HUANG 
+ 
+ 
+-27- 
+ 
+deficiencies in the RY. 
+1 
+A. 
+Based on the plant balances as of December 31, 
+2 
+2019, my recommendations would result in an 
+3 
+electric theoretical reserve in the RY of $456.2 
+4 
+million, with a reserve excess of $16.5 million, 
+5 
+or 3.5 percent of the book reserve, a reduction 
+6 
+of $18.7 million from the Company’s proposed 
+7 
+reserve deficiency.  As I am in agreement with 
+8 
+the Company in using the currently approved gas 
+9 
+depreciation factors for the RY, my 
+10 
+recommendations would also result in a gas 
+11 
+theoretical reserve in the RY of $273.7 million, 
+12 
+with a reserve deficiency of $3.3 million, or 
+13 
+1.2 percent of the book reserve.  As I have no 
+14 
+adjustments to the common depreciation factors 
+15 
+proposed by the Company, my recommended common 
+16 
+theoretical reserve of $135 million and reserve 
+17 
+deficiency of $1.2 million, or 0.9 percent of 
+18 
+the book reserve, are consistent with the 
+19 
+Company’s.  Since my calculated reserve 
+20 
+deficiency is not greater or less than 10 
+21 
+percent of the book reserve, I recommend no 
+22 
+change. 
+23 
+ Q. Are there any other proposals you wish to 
+24 
+
+
+--- Page 29 ---
+Cases 21-G-0073, et al. 
+    
+HUANG 
+ 
+ 
+-28- 
+ 
+discuss? 
+1 
+A. 
+Yes, the Company is proposing to continue its 
+2 
+amortization of legacy meters originally 
+3 
+approved in the 2019 Rate Order. 
+4 
+Q. 
+Describe the legacy meters amortization. 
+5 
+A. 
+The Company began an initiative in 2017 to 
+6 
+replace its meters with advanced metering 
+7 
+infrastructure, or AMI, meters, resulting in the 
+8 
+retirement of older legacy meters before they 
+9 
+were fully depreciated.  This initiative was 
+10 
+completed in December 2020.  The 2019 Rate Order 
+11 
+directed the Company to amortize the unrecovered 
+12 
+costs of these retired legacy meters beginning 
+13 
+in 2019 at approximately $1.6 million per year.  
+14 
+Once AMI was fully deployed in December 2020, 
+15 
+the remaining undepreciated legacy asset of 
+16 
+approximately $19 million was to be deferred as 
+17 
+a regulatory asset to be recovered over a 15-
+18 
+year period. 
+19 
+Q. 
+Do you agree with this proposal? 
+20 
+A. 
+Yes, I recommend continuing the amortization at 
+21 
+the level approved in the 2019 Rate Order. 
+22 
+Q. 
+Does this conclude your testimony at this time? 
+23 
+A. 
+Yes. 
+24 

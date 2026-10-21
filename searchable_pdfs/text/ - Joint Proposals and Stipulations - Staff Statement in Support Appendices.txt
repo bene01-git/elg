@@ -1,0 +1,432 @@
+--- Page 1 ---
+STATE OF NEW YORK 
+DEPARTMENT OF PUBLIC SERVICE 
+ 
+Case 19-G-0309 - Proceeding on Motion of the Commission as to the Rates, Charges, Rules and 
+Regulations of The Brooklyn Union Gas Company d/b/a National Grid NY for 
+Gas Service. 
+ 
+Case 19-G-0310 - Proceeding on Motion of the Commission as to the Rates, Charges, Rules and 
+Regulations of KeySpan Gas East Corp. d/b/a National Grid for Gas Service. 
+ 
+Case 18-M-0270 - Petition for Approval Pursuant to Public Service Law Section 113(2), of a 
+Proposed Allocation of Certain Tax Refunds between KeySpan Gas East 
+Corporation d/b/a National Grid and Ratepayers. 
+ 
+ 
+STAFF STATEMENT IN SUPPORT OF THE JOINT PROPOSAL 
+ 
+APPENDIX 1 
+ 
+ 
+ 
+Appendix 1 to the Staff Statement in Support of the Joint Proposal contains the 
+response to information request DPS-286.  Attachment 2 and Attachment 3 to the response are 
+provided as separate MS Excel files named “Staff Initial Statement Appendix 1 – Attachment 2 
+to DPS-286” and “Staff Initial Statement Appendix 1 – Attachment 3 to DPS-286.” 
+
+
+--- Page 2 ---
+Form 103 
+Date of Request:  May 30, 2019 
+Request No. DPS-286
+Due Date:  June 10, 2019 
+NG Request No. NG-342
+KEYSPAN GAS EAST CORPORATION d/b/a NATIONAL GRID 
+THE BROOKLYN UNION GAS COMPANY d/b/a NATIONAL GRID NY 
+Case Nos. 19-G-0309 & 19-G-0310 
+Gas Utilities Rates 
+Request for Information 
+FROM: 
+DPS Staff, Jennifer Park 
+TO: 
+National Grid, Elizabeth D. Arangio 
+SUBJECT:
+KEDNY/KEDLI Gas Supply 
+Request: 
+Note: In all interrogatories, all requests for workpapers or supporting calculations shall be 
+construed as requesting any Word, Excel or other computer spreadsheet models in 
+original electronic format with all formulae intact and unlocked. 
+Referring to chart titled “Downstate NY Peak Day Supply/Demand Balance” on p. 15 of 
+KEDNY and KEDLI’s Gas Supply testimony, provide workpapers supporting the methodology 
+for how the Company developed the forecasted demand and peak day supply portfolio for both 
+Companies. 
+Response: 
+Attachment 1 provides an overview of the Companies’ methodology for their retail and 
+wholesale forecasting, which establishes the forecast demand and peak day supply portfolio for 
+both Companies. 
+Attachment 2 is the spreadsheet used by the Companies to determine their customer 
+requirements under normal and design weather conditions, as filed in its initial filing. 
+Attachment 3 is the spreadsheet used to determine the peak day supply portfolio for both 
+Companies. 
+Name of Respondent: 
+Date of Reply:
+Elizabeth D. Arangio and Theodore Poe, Jr.  
+June 7, 2019
+Cases 19-G-0309 et al.
+Appendix 1
+2 of 11
+
+
+--- Page 3 ---
+National Grid:  Retail and Wholesale Gas Load Forecasting
+KeySpan Gas East Corporation
+The Brooklyn Union Gas Company
+d/b/a National Grid
+Case 19-G-0309/0310
+Attachment 1 to DPS-286
+Page 1 of 9
+Cases 19-G-0309 et al.
+Appendix 1
+3 of 11
+
+
+--- Page 4 ---
+National Grid:  Retail and Wholesale Gas Load Forecasting
+Retail Forecast: Meter Count
+External Data (e.g. HDD)
+Rate Code Definitions
+Internal Data (Monthly volume
+and meter count); Calculate 
+UPC
+R Code for Forecasting MC
+External Data (economic, 
+demographic, pricing)
+R Code Forecasts of MC
+(monthly) by rate group
+Spline MC from quarters
+To months
+KeySpan Gas East Corporation
+The Brooklyn Union Gas Company
+d/b/a National Grid
+Case 19-G-0309/0310
+Attachment 1 to DPS-286
+Page 2 of 9
+Cases 19-G-0309 et al.
+Appendix 1
+4 of 11
+
+
+--- Page 5 ---
+National Grid:  Retail and Wholesale Gas Load Forecasting
+Retail Forecast: Volume
+External Data (e.g. HDD)
+Rate Code Definitions
+Internal Data (Monthly volume
+and meter count); Calculate 
+UPC
+R Code for Forecasting UPC
+External Data (economic, 
+demographic, pricing)
+R Code Forecasts of UPC
+(quarterly)
+Calculate quarterly 
+volumes
+Allocate volumes to 
+months
+Forecasts of VOL
+(monthly) by rate group
+KeySpan Gas East Corporation
+The Brooklyn Union Gas Company
+d/b/a National Grid
+Case 19-G-0309/0310
+Attachment 1 to DPS-286
+Page 3 of 9
+Cases 19-G-0309 et al.
+Appendix 1
+5 of 11
+
+
+--- Page 6 ---
+National Grid:  Retail and Wholesale Gas Load Forecasting
+Retail Forecast: Summary
+R Code Forecasts of MC
+(monthly) by rate group
+Forecasts of VOL
+(monthly) by rate group
+Rate Group Forecasts of
+MC, VOL, and UPC
+Allocate MC from Rate
+Group to internal Rate
+Code based on most
+Recent observations
+Allocate VOL/UPC from 
+Rate Group to internal 
+Rate Code based on 
+Historical averages
+Final Retail Forecasts of
+MC, VOL, UPC
+Exhibits
+KeySpan Gas East Corporation
+The Brooklyn Union Gas Company
+d/b/a National Grid
+Case 19-G-0309/0310
+Attachment 1 to DPS-286
+Page 4 of 9
+Cases 19-G-0309 et al.
+Appendix 1
+6 of 11
+
+
+--- Page 7 ---
+National Grid:  Retail and Wholesale Gas Load Forecasting
+Conversion of Retail to Wholesale Forecast - 1
+Historical Retail
+Volumes
+Historical Citygate
+Volumes
+Calculate most 
+recent 12 months’
+UFG
+Calculate historical 
+UFGs for Sep-Aug
+Time periods
+Inflate historical
+retail volumes by
+UFGs
+Historical Citygate-
+Equivalent retail 
+volumes
+KeySpan Gas East Corporation
+The Brooklyn Union Gas Company
+d/b/a National Grid
+Case 19-G-0309/0310
+Attachment 1 to DPS-286
+Page 5 of 9
+Cases 19-G-0309 et al.
+Appendix 1
+7 of 11
+
+
+--- Page 8 ---
+National Grid:  Retail and Wholesale Gas Load Forecasting
+Conversion of Retail to Wholesale Forecast - 2
+Historical Citygate-
+Equivalent retail 
+volumes
+Historical Citygate
+Volumes
+Calculate relationship
+between ΔDD and
+ΔVolume
+Historical monthly
+HDD and BDD
+Final Retail VOL
+Forecast
+Normal
+HDD and BDD
+Most recent
+UFG
+Inflate forecast retail
+VOL by most recent UFG,
+Adjust for billing lag
+Citygate-equivalent
+monthly wholesale
+volume forecast
+KeySpan Gas East Corporation
+The Brooklyn Union Gas Company
+d/b/a National Grid
+Case 19-G-0309/0310
+Attachment 1 to DPS-286
+Page 6 of 9
+Cases 19-G-0309 et al.
+Appendix 1
+8 of 11
+
+
+--- Page 9 ---
+National Grid:  Retail and Wholesale Gas Load Forecasting
+Daily Historical Wholesale Regression
+Historical monthly
+HDD
+Historical monthly
+citygate volumes
+Weekday / 
+Weekend
+Calendar
+For most recent Apr-Mar time period, calculate
+segmented regression equation of citygate 
+volume vs HDD with weekend dummy.
+KeySpan Gas East Corporation
+The Brooklyn Union Gas Company
+d/b/a National Grid
+Case 19-G-0309/0310
+Attachment 1 to DPS-286
+Page 7 of 9
+Cases 19-G-0309 et al.
+Appendix 1
+9 of 11
+
+
+--- Page 10 ---
+National Grid:  Retail and Wholesale Gas Load Forecasting
+Forecasted Wholesale Volumes: Normal
+Normal daily
+HDD
+Segmented
+regression
+equation
+Weekday / 
+Weekend
+Calendar
+Distribute citygate-equivalent monthly wholesale
+volume forecast to the daily level using the
+regression equation and normal HDD
+Forecast of wholesale customer requirements 
+volumes under normal weather conditions
+KeySpan Gas East Corporation
+The Brooklyn Union Gas Company
+d/b/a National Grid
+Case 19-G-0309/0310
+Attachment 1 to DPS-286
+Page 8 of 9
+Cases 19-G-0309 et al.
+Appendix 1
+10 of 11
+
+
+--- Page 11 ---
+National Grid:  Retail and Wholesale Gas Load Forecasting
+Forecasted Wholesale Volumes: Design
+Design daily
+HDD
+Segmented
+regression
+equation
+Weekday / 
+Weekend
+Calendar
+Distribute citygate-equivalent monthly wholesale
+volume forecast to the daily level using the
+regression equation and design HDD
+Forecast of wholesale customer requirements 
+volumes under design weather conditions
+including design day
+KeySpan Gas East Corporation
+The Brooklyn Union Gas Company
+d/b/a National Grid
+Case 19-G-0309/0310
+Attachment 1 to DPS-286
+Page 9 of 9
+Cases 19-G-0309 et al.
+Appendix 1
+11 of 11
+
+
+--- Page 12 ---
+STATE OF NEW YORK 
+DEPARTMENT OF PUBLIC SERVICE 
+ 
+Case 19-G-0309 - Proceeding on Motion of the Commission as to the Rates, Charges, Rules and 
+Regulations of The Brooklyn Union Gas Company d/b/a National Grid NY for 
+Gas Service. 
+ 
+Case 19-G-0310 - Proceeding on Motion of the Commission as to the Rates, Charges, Rules and 
+Regulations of KeySpan Gas East Corp. d/b/a National Grid for Gas Service. 
+ 
+Case 18-M-0270 - Petition for Approval Pursuant to Public Service Law Section 113(2), of a 
+Proposed Allocation of Certain Tax Refunds between KeySpan Gas East 
+Corporation d/b/a National Grid and Ratepayers. 
+ 
+ 
+STAFF STATEMENT IN SUPPORT OF THE JOINT PROPOSAL 
+ 
+APPENDIX 2 
+ 
+ 
+ 
+Appendix 2 to the Staff Statement in Support of the Joint Proposal contains the 
+response to information request AGREE-007. 
+
+
+--- Page 13 ---
+Form 103 
+Date of Request:  May 21, 2021 
+Request No. AGREE-007
+Due Date:  May 26, 2021 
+NG Request No. NG-1557
+ 
+KEYSPAN GAS EAST CORPORATION d/b/a NATIONAL GRID 
+THE BROOKLYN UNION GAS COMPANY d/b/a NATIONAL GRID NY 
+Case Nos. 19-G-0309 & 19-G-0310 
+Gas Utilities Rates 
+ 
+Request for Information 
+ 
+FROM: 
+Alliance for a Green Economy, Jessica Azulay 
+ 
+TO: 
+National Grid 
+ 
+SUBJECT:
+Joint Proposal 
+ 
+Request: 
+ 
+ 
+7.    
+Page 33-34 of the Joint Proposal states: “In Case 19-G-0678, the Commission approved a 
+settlement agreement wherein the Companies agreed to identify  potential  solutions  for    
+addressing the  gap  between  the  Companies’ supply of natural gas and the forecast of 
+firm demands of customers.  As part of  a  portfolio  of  solutions  to  meet  peak  
+demand,  the  Companies  have  identified  opportunities to implement certain 
+incremental non-infrastructure solutions (i.e., demand response and incremental energy 
+efficiency programs).  As discussed in Section IV.5.3 of this  Joint  Proposal,  the  
+Companies  are  also  considering certain  Long-Term Capital Capacity Projects to 
+address the supply/demand gap.”   
+a. 
+Please quantify the “gap between the Companies’ supply of natural gas and the 
+forecast of firm demands of customers.” Please quantify this gap for each of the 
+next 5 years, including 2021. 
+b. 
+Please describe the assumptions made when calculating this gap, including but not 
+limited to: the impact of new customer connections, the impact of the companies’ 
+numerous commitments under the “Future of Heat” section of the Joint Proposal, 
+and the requirements of the New Efficiency New York order. 
+Response: 
+ 
+ 
+Please see the Companies’ “Supply and Demand Analysis Related to Service Areas with Known 
+Supply Constraint Vulnerabilities,” filed on July 17, 2020, in Case 20-G-0131.    
+ 
+ Section 2 provides an overview of the Companies’ service territory.  It generally 
+describes the geographic areas and number of customers the Companies’ serve, the 
+portfolio of supply sources, and a description of how the Companies procure and deliver 
+various supply resources to customers through a combination of owned infrastructure and 
+contracts with third parties. 
+Cases 19-G-0309 et al.
+Appendix 2
+2 of 3
+
+
+--- Page 14 ---
+Form 103 
+ Section 3 provides an overview of the general approach National Grid has applied to 
+define and identify “vulnerable locations,” if any, in the service territory. 
+ Section 4 describes the Companies’ demand forecasting methodology, design criteria, 
+supply portfolio, system level supply/demand outlook, and specific methodology to 
+identify vulnerable locations.  
+ Section 5 describes each vulnerable location in detail, including options under 
+consideration as part of a plan to resolve each potential supply/demand imbalance. 
+ 
+Figure 18 (page 28) depicts National Grid’s Downstate NY gas supply portfolio and shows how 
+the supply stack compares to forecast Design Day requirements (with and without the assumed 
+impacts of increasing energy efficiency, demand response, and electrification) over the next ten 
+years.  
+ 
+The filing is available at 
+http://documents.dps.ny.gov/public/MatterManagement/CaseMaster.aspx?MatterSeq=62227&M
+NO=20-G-
+0131http://documents.dps.ny.gov/public/MatterManagement/CaseMaster.aspx?MatterSeq=6222
+7&MNO=20-G-0131 
+ 
+ 
+Name of Respondent: 
+Date of Reply:
+Philip DeCicco 
+                                                  May 26, 2021  
+ 
+Cases 19-G-0309 et al.
+Appendix 2
+3 of 3

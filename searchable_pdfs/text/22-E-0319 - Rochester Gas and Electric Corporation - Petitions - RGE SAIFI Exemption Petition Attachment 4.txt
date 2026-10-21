@@ -1,0 +1,200 @@
+--- Page 1 ---
+Attachment #4 - Outage Event Report Addendum - National Grid 4-977 Line 
+11/7/2025
+RG&E -Station 168, Canandaigua Division
+Description of Station 168 Project
+RG&E’s project at Station 168 is a complete rebuild of the substation that moves from the previous
+configuration — two 115 kV / 34 kV transformers tapped off National Grid’s Trunk #2 and Line 4-977 —
+to an arrangement that bisects two nearby transmission lines to have four 115 kV sources into the
+Station 168 load pocket.
+At the time of this event, Station 168 was in an abnormal configuration due to ongoing project
+construction activities. The abnormal configuration had a single 115 kV feed into Station 168 being
+provided by National Grid’s Line 4-977. The other three 115 kV transmission sources into the new 115 kV
+bus at Station 168 were de-energized as part of a planned transmission outage to maintain safe
+electrical clearances during ongoing construction activities. This loss of foreign supply event
+occurred on a Friday, September 26, at approximately 11:58 AM; at this time construction crews were
+working in and around Station 168 to complete construction work and restore the new facility to a
+configuration with additional transmission sources later that day.
+Additional Event Description
+The cause of this event was the loss of foreign supply caused by a trip of the National Grid Trunk 4 I
+977 Line between Border City Substation and Station 168. The distance from Border City Substation
+to the fault was estimated at approximately 5.8 miles (i.e., about 13 miles from Station 168)1.
+Following the trip of National Grid’s Trunk 4 1 977 Line, the NMP422 breaker at Station 168, correctly,
+did not reclose as not all the required conditions (i.e., live 115 kV bus) were met. Energy Control Center
+(ECC) Operators responded by reviewing alarms and sequence of events, as well as contacting field
+personnel to determine what had occurred. In circumstances where a facility trips with construction
+crews nearby, extreme care is taken to ensure that no personnel were involved in, or affected by, an
+incident, and that all crews are safely clear of hazards. To safely to close the NMP422 breaker
+remotely through the SCADA system it was necessary for ECC operators to:
+• 
+Determine what type of fault had occurred,
+• 
+Where the fault had occurred and what equipment was involved,
+• 
+Determine if there were any field crews or first responders in proximity to the fault, and
+• 
+Receive permission from the NYSIO to close the breaker, as this 115 kV breaker is under their
+jurisdiction.
+Given the ongoing construction status of Station 168, the presence of field crews, and the
+coordination required with National Grid and NYISO it would have been nearly impossible to evaluate
+all conditions and determine it was safe to manually close the NMP422 breaker from the ECC within 5
+minutes.
+1 Station 168 relaying was not able to accurately calculate a distance to the fault as it was fed radially did not measure any fault current,
+which is required for the fault distance calculation.
+
+
+--- Page 2 ---
+Discussion of Automatic Reclosing Settings
+The Station 168 project team had considered utilizing temporary reclosing settings for the abnormal
+configuration at Station 168, but determined that this temporary relay logic would only be beneficial
+for temporary faults and, in fact, could increase exposure due to the use of a non-standard and
+unfamiliar reclosing design.2 It is important to note that, for this event, the use of a custom reclosing
+configuration would not have had mitigated this event as Station 168 had been approved to return to
+a more normal configuration with additional transmission sources approximately 90 minutes before
+this event occurred. One step of this “return to normal" process would have been reverting to the
+normal reclosing settings, the same that were in place during the event.
+The reclosing for the new NMP422 breaker that tripped for the 115 kV line fault is correctly configured
+to reclose for either a “hot-bus, hot-line” condition or a “hot-bus, dead-line” condition.3 The Operating
+Instructions for the NMP422 breaker at Station 168 indicated that it did have the ability to reclose, but
+the instructions did not enumerate the conditions required for reclosing. Station Operating
+Instructions used by operators are drafted based on the System Protection Requirements (SPR) for a
+facility. During design and construction there can be multiple revisions made to the SPR and,
+consequentially, the Operating Instructions based on as-built conditions — this may be particularly
+true during large or complex projects. The project at Station 168 included a significant amount of new
+equipment, including six 115 kV circuit breakers and all associated protective and control relaying.
+Reconfiguration of this area’s 115 kV system required a significant update to the station Operating
+Instructions for the new equipment, including insertion of Station 168 into the line protection and
+reclosing schemes in the area. Accordingly, updates to the station operating instructions had not yet
+been finalized at the time of this event.
+Finally, Operating Instructions are generally written to describe how the facility will respond when
+moving from a system normal (N-0 state) to an N-l state; operating instructions typically do not
+include station behavior for loss of additional elements when already in an N-l state (i.e., N-1-0). At a
+substation like Station 168 with multiple 115 kV sources, the “dead-bus, live-line” condition that
+preempted reclosing for this event requires the Loss of at least two system elements (e.g., both line
+breakers connected to one of the 115 kV buses being tripped).4
+After Event Review
+Following this event, RG&E personnel performed a review of the event, including analysis of the
+sequence of events as well as determination of any necessary follow-up actions. The findings of this
+review are documented in Attachment 2 “Outage Event Report 4-977 Line 09-26-25.” Follow-up
+actions included:
+• 
+Helicopter patrol of the line to identify any potential causes of the temporary fault,
+• 
+Review of the reclosing configuration at Station 168, and
+2 A permanent fault would have prevented automatic reclosing from successful re-energizing Station 168.
+3 This means that the breaker will not reclose unless the 115 kV bus at Station 168 is energized. Because the blSTI Line was the only
+source feeding Station 168 at the time, the bus was de-energized, thus disabling automatic reclosing.
+4 This condition could indicate a more significant issue like a relay misoperation, 115 kV bus fault, extreme system condition, or
+equipment and failure where automatic reclosing may not be appropriate.
+
+
+--- Page 3 ---
+• 
+Updates to the Station 168 Operating Instructions to include a more detailed description of
+the auto-reclosing behavior of the new 115 kV equipment at Station 168.
+Customer Outage Count
+Following the event, RG&E's Operational Performance group continued to review outage records for
+9/26/25 to identify the proper number of customers that were outaged due to the loss of foreign
+supply. The final, accurate, number of customer outages for this event following data scrubbing is
+22,743.
+Discrepancies between the final affected customer count (22,743 customers) and the initial data
+included in the Utility Event Dashboard (21,056 customers), the “Preliminary Notice of Non-Utility
+Controlled Outage Events - September 2025” (18,789 customers) and the Outage Event Report
+(22,999 customers) can be attributed to initial customer outage quantities that were generated
+automatically after the event occurred (the UED and Outage Event Report data) or to outages that
+had incorrect cause codes, so they were not initially attributed to the Loss of Foreign Supply event
+(the Preliminary Notice). Table 1, below, includes a summary of the finalized outage data for the
+9/26/25 Loss of Foreign Supply Event.
+Table 1 - Outage Statistics for 9/25 Loss of Foreign Supply (4-977 Line)
+Event
+Start Date
+Initiating Event
+Cause Description
+Station/
+Facility
+# Affected
+Dist.
+Circuits
+Customers
+Impacted
+9/26/25
+Trip of Nat. Grid 4-977 Line
+Loss of Foreign Supply
+0142
+4
+3697
+9/26/25
+Trip of Nat. Grid 4-977 Line
+Loss of Foreign Supply
+0143
+2
+1724
+9/26/25
+Trip of Nat. Grid 4-977 Line
+Loss of Foreign Supply
+0144
+4
+1125
+9/26/25
+Trip of Nat. Grid 4-977 Line
+Loss of Foreign Supply
+0145
+3
+2130
+9/26/25
+Trip of Nat. Grid 4-977 Line
+Loss of Foreign Supply
+0146
+2
+1798
+9/26/25
+Trip of Nat. Grid 4-977 Line
+Loss of Foreign Supply
+0148
+2
+1254
+9/26/25
+Trip of Nat. Grid 4-977 Line
+Loss of Foreign Supply
+0149
+1
+132
+9/26/25
+Trip of Nat. Grid 4-977 Line
+Loss of Foreign Supply
+0153
+3
+1599
+9/26/25
+Trip of Nat. Grid 4-977 Line
+Loss of Foreign Supply
+0155
+3
+1348
+9/26/25
+Trip of Nat. Grid 4-977 Line
+Loss of Foreign Supply
+0156
+3
+953
+9/26/25
+Trip of Nat. Grid 4-977 Line
+Loss of Foreign Supply
+0168
+3
+3508
+9/26/25
+Trip of Nat. Grid 4-977 Line
+Loss of Foreign Supply
+0428
+4
+3444
+9/26/25
+Trip of Nat. Grid 4-977 Line
+Loss of Foreign Supply
+Sub-T
+Cust.
+N/A
+31
+Total Oust. Affected 
+22,743

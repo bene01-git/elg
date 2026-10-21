@@ -1,0 +1,1853 @@
+--- Page 1 ---
+ 
+ 
+ 
+ 
+ 
+BEFORE THE 
+STATE OF NEW YORK 
+PUBLIC SERVICE COMMISSION 
+ 
+ 
+ 
+In the Matter of 
+ 
+Central Hudson Gas & Electric Corporation 
+ 
+Cases 23-E-0418 & 23-G-0419 
+ 
+November 2023 
+ 
+ 
+Prepared REDACTED Testimony of: 
+ 
+Staff Security Panel 
+ 
+Philip Tabor 
+Utility Analyst 2 
+(Cybersecurity) 
+Office of Resilience, Utility 
+Security, Nuclear Affairs & 
+Emergency Preparedness 
+ 
+Paul Hammond 
+Utility Analyst 1 
+Office of Resilience, Utility 
+Security, Nuclear Affairs & 
+Emergency Preparedness 
+ 
+State of New York 
+Department of Public Service 
+Three Empire State Plaza 
+Albany, New York  12223-1350 
+
+
+--- Page 2 ---
+Cases 23-E-0418 & 23-G-0419 
+ 
+Staff Security Panel 
+ 
+ 
+1 
+ 
+Introduction 
+1 
+Q. 
+Members of the Staff Security Panel, referred to 
+2 
+as the Panel, please state your names, employer, 
+3 
+and business addresses. 
+4 
+A. 
+Our names are Philip Tabor and Paul Hammond.  We 
+5 
+are employed by the New York State Department of 
+6 
+Public Service, referred to as the Department.  
+7 
+Our business address is One Empire State Plaza, 
+8 
+Albany, New York 12223. 
+9 
+Q. 
+Mr. Tabor, what is your position at the 
+10 
+Department? 
+11 
+A. 
+I am employed by the Department as a Utility 
+12 
+Analyst 2 (Cybersecurity), assigned to the 
+13 
+Utility Security Section within the Office of 
+14 
+Resilience, Utility Security, Nuclear Affairs & 
+15 
+Emergency Preparedness, or OREP. 
+16 
+Q. 
+Please summarize your education and work 
+17 
+experience. 
+18 
+A. 
+I graduated from Colby College in 1990 with a 
+19 
+Bachelor of Arts Degree in Psychology, studied 
+20 
+graduate coursework at the University of 
+21 
+Connecticut, and I am currently enrolled in the 
+22 
+graduate certificate program at the University 
+23 
+of Albany School of Emergency Preparedness, 
+24 
+
+
+--- Page 3 ---
+Cases 23-E-0418 & 23-G-0419 
+ 
+Staff Security Panel 
+ 
+ 
+2 
+ 
+Homeland Security and Cybersecurity.  I have the 
+1 
+Security+ certification from CompTIA.  Beyond 
+2 
+that I have attended several workshops and 
+3 
+courses on cyber security, including training 
+4 
+from the US Department of Homeland Security 
+5 
+Industrial Control System Cyber Emergency 
+6 
+Response Team. 
+7 
+Q. 
+Please describe your current duties with the 
+8 
+Utility Security Section. 
+9 
+A. 
+I joined the Utility Security Section in 2016.  
+10 
+I am familiar with federal and state regulations 
+11 
+and guidelines for cyber security for critical 
+12 
+national infrastructure, as well as the cyber 
+13 
+security operations of the major utility 
+14 
+companies in New York State.  My current 
+15 
+responsibilities include conducting cyber 
+16 
+security assessments of critical infrastructure 
+17 
+facilities and corporate IT systems, which are 
+18 
+owned and operated by the regulated energy, gas, 
+19 
+and water utilities of New York. 
+20 
+Q. 
+Have you previously testified before the 
+21 
+Commission? 
+22 
+A. 
+Yes, I testified in the Matter of Central Hudson 
+23 
+Gas & Electric Corporation, referred to as 
+24 
+
+
+--- Page 4 ---
+Cases 23-E-0418 & 23-G-0419 
+ 
+Staff Security Panel 
+ 
+ 
+3 
+ 
+Central Hudson or the Company, Cases 20-E-0428 
+1 
+and 20-G-0429, December 2020; New York State 
+2 
+Electric & Gas Corporation and Rochester Gas and 
+3 
+Electric Corporation, Cases 22-E-0317, 22-G-
+4 
+0318, 22-E-0319, and 22-G-0320; and Niagara 
+5 
+Mohawk Power Company d/b/a National Grid, Cases 
+6 
+20-E-0380 and 20-G-0381. 
+7 
+Q. 
+Mr. Hammond what is your position at the 
+8 
+Department? 
+9 
+A. 
+I am employed by the Department as a Utility 
+10 
+Security Specialist 1, assigned to the Utility 
+11 
+Security Section within OREP, referred to as 
+12 
+USS. 
+13 
+Q. 
+Please summarize your education and work 
+14 
+experience. 
+15 
+A. 
+I graduated with a Bachelor of Arts Degree in 
+16 
+History in 1983 from the State University 
+17 
+College at Fredonia.  I joined the Utility 
+18 
+Security Section in 2022.  My current 
+19 
+responsibilities included assisting with 
+20 
+physical security vulnerability assessments of 
+21 
+electric, gas, and water critical facilities.  I 
+22 
+have successfully completed many courses 
+23 
+regarding Physical Security and Emergency 
+24 
+
+
+--- Page 5 ---
+Cases 23-E-0418 & 23-G-0419 
+ 
+Staff Security Panel 
+ 
+ 
+4 
+ 
+Preparedness including courses sponsored by FEMA 
+1 
+and Homeland Security. 
+2 
+Q. 
+Have you previously testified before the 
+3 
+Commission? 
+4 
+A. 
+Yes, in the Matter of The Brooklyn Union Gas 
+5 
+Company d/b/a National Grid NY, Cases 23-G-0225 
+6 
+and 23-G-0226. 
+7 
+Q. 
+What is the purpose of your testimony? 
+8 
+A. 
+The purpose of our testimony is to address the 
+9 
+following topics: the physical security and 
+10 
+cyber security proposals as described in the 
+11 
+direct testimonies of Central Hudson’s Common 
+12 
+Capital and Operations Panel, referred to as 
+13 
+CCOP, Electric Capital and Operations Panel, 
+14 
+referred to as ECOP, and Technology Capital and 
+15 
+Operations Panel, referred to as TCOP.  Staff 
+16 
+reviewed these portions of the Company’s 
+17 
+testimony to ensure that the requests are just, 
+18 
+reasonable, and necessary to providing safe and 
+19 
+reliable service. 
+20 
+Q. 
+In your testimony, will you refer to, or 
+21 
+otherwise rely upon, any information produced 
+22 
+during the discovery phase of this proceeding? 
+23 
+A. 
+Yes.  We will refer to, or otherwise rely upon 
+24 
+
+
+--- Page 6 ---
+Cases 23-E-0418 & 23-G-0419 
+ 
+Staff Security Panel 
+ 
+ 
+5 
+ 
+several responses to Staff Information Requests, 
+1 
+referred to as IRs.  The responses to IRs that 
+2 
+we have relied upon are included in 
+3 
+Exhibit__(SSP-1).  We will refer to these IR 
+4 
+responses by the designation given to them by 
+5 
+the Department, for example, DPS-123. 
+6 
+Q. 
+Are you sponsoring any other exhibits? 
+7 
+A. 
+Yes, we are sponsoring one additional exhibit.  
+8 
+Exhibit__(SSP-2) is a copy of OREP USS’ 
+9 
+“Recommended Physical and Cyber Security 
+10 
+Practices for Public Utilities” which includes a 
+11 
+summation of industry best practices.   
+12 
+Review Process 
+13 
+Q. 
+Please describe the general nature of your 
+14 
+review process. 
+15 
+A. 
+Our review process focused on the need, timing, 
+16 
+and effectiveness of the Company’s physical and 
+17 
+cyber security projects and programs.  We 
+18 
+reviewed the justification provided by the 
+19 
+Company in its testimony and exhibits, and 
+20 
+analyzed the Company’s responses to IRs in order 
+21 
+to assess whether a proposed project is 
+22 
+necessary for the provision of safe and reliable 
+23 
+service.  In addition to assessing the need for 
+24 
+
+
+--- Page 7 ---
+Cases 23-E-0418 & 23-G-0419 
+ 
+Staff Security Panel 
+ 
+ 
+6 
+ 
+each project and program reviewed, we considered 
+1 
+whether the timing of the project’s inclusion in 
+2 
+the Company’s security posture was consistent 
+3 
+with industry best practices.  We compared the 
+4 
+capabilities of the Company’s programs with 
+5 
+industry standards and best practices, and 
+6 
+looked at possible alternatives to assess their 
+7 
+flexibility and scalability to match a threat 
+8 
+landscape that can change significantly over a 
+9 
+short period of time. 
+10 
+Q. 
+What standards and best practices do you 
+11 
+reference for your review of physical security? 
+12 
+A. 
+The OREP Utility Security Section produces the 
+13 
+“Recommended Physical and Cyber Security 
+14 
+Practices for Public Utilities” which includes a 
+15 
+summation of industry best practices and is 
+16 
+included as Exhibit_(SSP-2).  Sources for this 
+17 
+document include Transportation Security 
+18 
+Administration, or TSA, Pipeline Security 
+19 
+Guidelines, the Department of Homeland 
+20 
+Security’s National Terrorism Advisory System 
+21 
+(NTAS), and the American Society for Industrial 
+22 
+Security’s “General Security Risk Assessment 
+23 
+Guidelines”, and the Critical Infrastructure 
+24 
+
+
+--- Page 8 ---
+Cases 23-E-0418 & 23-G-0419 
+ 
+Staff Security Panel 
+ 
+ 
+7 
+ 
+Protection (CIP) standards from the National 
+1 
+Electric Reliability Corporation, referred to as 
+2 
+NERC, specifically CIP-014.  This document is 
+3 
+updated periodically and shared with the 
+4 
+regulated utilities of New York State.  The most 
+5 
+recent version is 2023. 
+6 
+Q. 
+What standards and best practices do you 
+7 
+reference for your review of cybersecurity? 
+8 
+A. 
+The Panel relies on the National Institute of 
+9 
+Standards and Technology’s, or NIST, 
+10 
+Cybersecurity Framework, or CSF, as the basis of 
+11 
+our review.  It is a recognized collection of 
+12 
+flexible and comprehensive standards, 
+13 
+guidelines, and practices related to cyber 
+14 
+security, which includes Special Publications, 
+15 
+or SP, that provide additional, specific 
+16 
+cybersecurity-related guidelines, technical 
+17 
+specifications, recommendations, and reference 
+18 
+materials.  We also reference the Center for 
+19 
+Internet Security’s “Critical Security 
+20 
+Controls;” the NIST-funded MITRE Corporation’s 
+21 
+“Adversary, Tactics, Techniques and Common 
+22 
+Knowledge (ATT&CK)” framework; the TSA Pipeline 
+23 
+Security Guidelines; and NERC CIP standards.  
+24 
+
+
+--- Page 9 ---
+Cases 23-E-0418 & 23-G-0419 
+ 
+Staff Security Panel 
+ 
+ 
+8 
+ 
+The “Recommended Physical and Cyber Security 
+1 
+Practices for Public Utilities” discussed 
+2 
+previously in this testimony is also based on 
+3 
+these standards and guidance. 
+4 
+Physical Security Proposals 
+5 
+Q. 
+Please summarize the Company’s proposals with 
+6 
+respect to physical security. 
+7 
+A. 
+The Company proposes two projects related to 
+8 
+physical security.  The first proposed project, 
+9 
+as described in the Company’s response to DPS-
+10 
+488, is a program to upgrade existing camera 
+11 
+systems at five Critical Sites.  The second 
+12 
+proposed project, as described in the CCOP’s 
+13 
+testimony beginning on page 25, as well as the 
+14 
+Company’s response to DPS-468, is the addition 
+15 
+of a new level of contracted security guard, for 
+16 
+Central Hudson’s Primary Control Center and 
+17 
+Security Operations Center, or SOC. 
+18 
+Q. 
+What characteristics and standards are 
+19 
+considered when determining whether a utility 
+20 
+site or asset is “critical”? 
+21 
+A. 
+The NERC CIP-014-3 requires operators “To 
+22 
+identify and protect Transmission stations and 
+23 
+Transmission substations, and their associated 
+24 
+
+
+--- Page 10 ---
+Cases 23-E-0418 & 23-G-0419 
+ 
+Staff Security Panel 
+ 
+ 
+9 
+ 
+primary control centers, that if rendered 
+1 
+inoperable or damaged as a result of a physical 
+2 
+attack could result in instability, uncontrolled 
+3 
+separation, or Cascading within an 
+4 
+Interconnection.”  Sites and facilities 
+5 
+identified under this standard are considered 
+6 
+“critical” and must be adequately protected from 
+7 
+threats to physical security.  Additionally, a 
+8 
+site or asset may be considered “critical” by 
+9 
+OREP USS when it provides essential service to 
+10 
+unrelated critical infrastructure, such as 
+11 
+hospitals. 
+12 
+Q. 
+Do the sites listed by the Company in its rate 
+13 
+filing as “Critical Sites” meet the NERC CIP 
+14 
+014-3 and/or OREP USS standards for 
+15 
+identification as “critical”? 
+16 
+A. 
+Yes. 
+17 
+Q. 
+Please elaborate on the Company’s security 
+18 
+camera proposal. 
+19 
+A. 
+As the Company explained in its responses to 
+20 
+DPS-258 and DPS-488, BEGIN CONFIDENTIAL 
+21 
+INFORMATION <
+ 
+22 
+ 
+23 
+ 
+24 
+
+
+--- Page 11 ---
+Cases 23-E-0418 & 23-G-0419 
+ 
+Staff Security Panel 
+ 
+ 
+10 
+ 
+ 
+1 
+ 
+2 
+ 
+3 
+ 
+4 
+ 
+5 
+ 
+6 
+ 
+7 
+ 
+8 
+ 
+9 
+ 
+10 
+ 
+11 
+ 
+12 
+ 
+13 
+ 
+> END CONFIDENTIAL 
+14 
+INFORMATION. 
+15 
+Q. 
+Does the Panel agree with the Company’s security 
+16 
+camera proposal? 
+17 
+A. 
+Yes.  Based on our review, we believe this 
+18 
+proposal is an appropriate investment for the 
+19 
+Company to make to improve upon its current 
+20 
+physical security posture.  BEGIN CONFIDENTIAL 
+21 
+INFORMATION <
+ 
+22 
+ 
+23 
+ 
+24 
+
+
+--- Page 12 ---
+Cases 23-E-0418 & 23-G-0419 
+ 
+Staff Security Panel 
+ 
+ 
+11 
+ 
+ 
+1 
+ 
+2 
+ 
+3 
+ 
+4 
+ 
+5 
+ 
+6 
+ 
+7 
+ 
+8 
+ 
+9 
+ 
+10 
+ 
+11 
+ 
+12 
+ 
+13 
+ 
+14 
+ 
+>END 
+15 
+CONFIDENTIAL INFORMATION. 
+16 
+Q. 
+Please elaborate on the Company’s proposal for 
+17 
+additional security guards. 
+18 
+A. 
+According to the CCOP’s testimony, beginning on 
+19 
+page 25, the Company seeks additional staffing 
+20 
+sufficient to provide coverage to its new 
+21 
+Primary Control Center.  The Company also 
+22 
+proposes to modify its security guard tiers, 
+23 
+tasks, and responsibilities from their current 
+24 
+
+
+--- Page 13 ---
+Cases 23-E-0418 & 23-G-0419 
+ 
+Staff Security Panel 
+ 
+ 
+12 
+ 
+three-levels to four.  Each security level would 
+1 
+require a different level of security guard 
+2 
+skillset and experience, with differing minimum 
+3 
+qualifications and responsibilities. 
+4 
+Q. 
+Why does the Company believe additional security 
+5 
+guards are necessary? 
+6 
+A. 
+According to the CCOP’s testimony, beginning on 
+7 
+page 25, the new level of contracted security 
+8 
+guard is needed for the Company to meet the 
+9 
+security needs of the Company’s new Primary 
+10 
+Control Center and SOC.  The new level of guard 
+11 
+would ensure the integrity of the Physical 
+12 
+Security Perimeter, referred to as the PSP, at 
+13 
+all times, and ensure that visitors entering the 
+14 
+PSP have authorized physical access or are 
+15 
+properly documented and escorted at all times.  
+16 
+The Company further states that unescorted 
+17 
+access at the Primary Control Center facility is 
+18 
+highly restricted to those individuals that have 
+19 
+completed a Personal Risk Assessment and 
+20 
+specific Cyber Security training modules, and 
+21 
+the security officers working within this 
+22 
+facility must not only meet these criteria to 
+23 
+have unescorted access to perform their required 
+24 
+
+
+--- Page 15 ---
+Cases 23-E-0418 & 23-G-0419 
+ 
+Staff Security Panel 
+ 
+ 
+14 
+ 
+ 
+1 
+ 
+2 
+ 
+3 
+ 
+4 
+ 
+5 
+Q. 
+6 
+ 
+7 
+A. 
+ 
+8 
+ 
+9 
+ 
+10 
+ 
+11 
+ 
+12 
+ 
+13 
+ 
+14 
+ 
+15 
+ 
+16 
+Q. 
+ 
+17 
+ 
+18 
+A. 
+ 
+19 
+ 
+20 
+ 
+21 
+ 
+22 
+ 
+23 
+ 
+24 
+
+
+--- Page 16 ---
+Cases 23-E-0418 & 23-G-0419 
+ 
+Staff Security Panel 
+ 
+ 
+15 
+ 
+ 
+1 
+ 
+2 
+ 
+3 
+ 
+4 
+ 
+5 
+ 
+6 
+ 
+7 
+ 
+8 
+ 
+9 
+ 
+10 
+ 
+11 
+ 
+12 
+ 
+>END CONFIDENTIAL 
+13 
+INFORMATION. 
+14 
+Q. 
+Based on the foregoing, does the Panel agree 
+15 
+with the Company’s proposal to add additional 
+16 
+security guards? 
+17 
+A. 
+Yes.  Based on our review we believe the 
+18 
+proposal is a necessary and appropriate 
+19 
+investment for the Company to maintain and 
+20 
+enhance its current level of security.  The 
+21 
+additional security staff will ensure that NERC 
+22 
+CIP Standards are followed. 
+23 
+ 
+24 
+
+
+--- Page 17 ---
+Cases 23-E-0418 & 23-G-0419 
+ 
+Staff Security Panel 
+ 
+ 
+16 
+ 
+Cyber Security Proposals 
+1 
+Q. 
+Please summarize the Company’s proposals with 
+2 
+respect to cyber security. 
+3 
+A. 
+The Company proposals consist of several line 
+4 
+items.  For ease of reference, we have grouped 
+5 
+them into three general categories.  The first 
+6 
+category is Network Segregation projects and the 
+7 
+second category is Hardware and Software 
+8 
+projects.  These projects are generally 
+9 
+described in the Company’s response to DPS-258, 
+10 
+Attachment 1.  The third category includes 
+11 
+several incremental cybersecurity Full Time 
+12 
+Equivalents, referred to as FTEs. 
+13 
+Q. 
+Please describe the Company’s cybersecurity 
+14 
+Network Segregation capital proposal. 
+15 
+A. 
+The Company proposes to continue and expand the 
+16 
+work it started in its previous rate case to 
+17 
+segregate its networks and to upgrade the 
+18 
+infrastructure that supports them.  This work 
+19 
+includes upgrading the components of the 
+20 
+Company’s network architecture, providing 
+21 
+redundant communications paths to endpoints in 
+22 
+its wide area network, or WAN, and replacing 
+23 
+equipment that is approaching end of support, 
+24 
+
+
+--- Page 18 ---
+Cases 23-E-0418 & 23-G-0419 
+ 
+Staff Security Panel 
+ 
+ 
+17 
+ 
+such as routers.  In addition to the router 
+1 
+replacement, the Company also proposes to 
+2 
+acquire software tools that assist in managing 
+3 
+and monitoring its networks. 
+4 
+Q. 
+Does the Panel agree with the Company’s 
+5 
+proposal? 
+6 
+A. 
+Yes. 
+7 
+Q. 
+Why does the Panel agree with the Company’s 
+8 
+proposed network segregation activities? 
+9 
+A. 
+Network segregation, in and of itself, is a 
+10 
+cybersecurity best practice and an important 
+11 
+part of building a multi-layered cybersecurity 
+12 
+defense.  Network segregation can be viewed as 
+13 
+the equivalent of putting up walls to close off 
+14 
+parts of the network from each other, only 
+15 
+allowing access to those parts by individuals 
+16 
+with proper permission.  The Company is also 
+17 
+increasing its network resilience by ensuring 
+18 
+endpoints on its WAN have redundant connections.  
+19 
+In the event that one connection is interrupted 
+20 
+or blocked, the redundant pathway will allow the 
+21 
+endpoint to continue to share the network 
+22 
+instead of suffering a loss of communications. 
+23 
+Q. 
+Why does the Panel agree with the Company’s 
+24 
+
+
+--- Page 19 ---
+Cases 23-E-0418 & 23-G-0419 
+ 
+Staff Security Panel 
+ 
+ 
+18 
+ 
+proposal to replace routers and acquire new 
+1 
+software tools? 
+2 
+A. 
+As shown in its response to DPS-638, the Company 
+3 
+is replacing a model of router in its networks, 
+4 
+because those routers will reach end-of-support 
+5 
+in 2027.  Devices that have reached end-of-
+6 
+support no longer have security patches 
+7 
+developed and released by the device 
+8 
+manufacturer.  Patching vulnerabilities in 
+9 
+devices’ operating systems and firmware is a 
+10 
+cornerstone of cybersecurity.  It is therefore a 
+11 
+best practice to remove devices that are out of 
+12 
+support from the network, and replace them with 
+13 
+supported devices.  The Panel also agrees with 
+14 
+the Company’s proposal to acquire software tools 
+15 
+that assist in managing and monitoring its 
+16 
+networks.  Network segmentation greatly 
+17 
+increases the complexity of managing and 
+18 
+monitoring a network, so tools that assist and 
+19 
+automate as much of the work as possible reduce 
+20 
+the need for vendors, contractors, or FTEs to 
+21 
+operate the more complicated network. 
+22 
+Q. 
+Does the Panel have any adjustments to this 
+23 
+proposal? 
+24 
+
+
+--- Page 20 ---
+Cases 23-E-0418 & 23-G-0419 
+ 
+Staff Security Panel 
+ 
+ 
+19 
+ 
+A. 
+No.  Based on our review, we believe the 
+1 
+proposal is a necessary investment for the 
+2 
+Company to make to maintain its current level of 
+3 
+security. 
+4 
+Q. 
+Please describe the Company’s cybersecurity 
+5 
+Hardware and Software capital proposals. 
+6 
+A. 
+In the TCOP’s testimony, on pages 36 to 37 and 
+7 
+beginning on page 45, and in the Company’s 
+8 
+response to DPS-258, the Company proposes several 
+9 
+cybersecurity hardware and software line items.  
+10 
+These include Identity and Access Management, or 
+11 
+IDAM, tools and upgrades, ServiceNow security 
+12 
+tools, and a collection of other cybersecurity 
+13 
+tools.  The Company provided additional details 
+14 
+regarding these proposals in its responses to 
+15 
+DPS-556, DPS-567, DPS-568, DPS-748, and DPS-749. 
+16 
+Q. 
+What is IDAM? 
+17 
+A. 
+According to NIST SP 800-63-3 through 63-3B, 
+18 
+Identity and Access Management is a fundamental 
+19 
+and critical cybersecurity capability that seeks 
+20 
+to ensure the correct people and things have the 
+21 
+correct access to the correct resources at the 
+22 
+correct time.  Successful implementation of 
+23 
+Identity and Access Management limits the 
+24 
+
+
+--- Page 21 ---
+Cases 23-E-0418 & 23-G-0419 
+ 
+Staff Security Panel 
+ 
+ 
+20 
+ 
+possibility of unauthorized external access to a 
+1 
+utility’s networks.  In the event unauthorized 
+2 
+access does occur, it would mitigate the impact 
+3 
+by limiting access to narrow sections of the 
+4 
+network and data.  It would also cause an 
+5 
+intruder to make more “noise” in the network if 
+6 
+they attempt break into other sections, so they 
+7 
+would be more likely to be detected, and 
+8 
+detected earlier. 
+9 
+Q. 
+What is the Company’s justification for its 
+10 
+proposed IDAM implementation? 
+11 
+A. 
+BEGIN CONFIDENTIAL INFORMATION <
+ 
+12 
+ 
+13 
+ 
+14 
+ 
+15 
+ 
+16 
+ 
+17 
+  
+18 
+ 
+19 
+ 
+20 
+ 
+21 
+ 
+22 
+ 
+> END CONFIDENTIAL 
+23 
+INFORMATION. 
+24 
+
+
+--- Page 22 ---
+Cases 23-E-0418 & 23-G-0419 
+ 
+Staff Security Panel 
+ 
+ 
+21 
+ 
+Q. 
+Does the Panel agree with the Company’s proposed 
+1 
+Identity and Access Management tools and 
+2 
+upgrades? 
+3 
+A. 
+Yes.  IDAM is another cybersecurity cornerstone, 
+4 
+and is a necessary component of the best 
+5 
+practice of a multi-layered defense.  The IDAM 
+6 
+tools that the Company proposes will offer 
+7 
+improvements over what it currently employs, and 
+8 
+the Panel agrees with the Company’s stated 
+9 
+reasons for its proposed IDAM upgrades. 
+10 
+Q. 
+Please describe the Company’s proposed 
+11 
+ServiceNow investment. 
+12 
+A. 
+According to pages 36 to 37 of the TCOP’s 
+13 
+testimony, Central Hudson has formally adopted 
+14 
+the NIST CSF as its Cybersecurity governance 
+15 
+framework.  This framework requires Central 
+16 
+Hudson to centralize Governance, Risk, and 
+17 
+Compliance, or GRC, tracking, which is currently 
+18 
+being performed manually across many different 
+19 
+solutions, business processes, and teams.  The 
+20 
+Company states that, in support of this 
+21 
+initiative, the ServiceNow’s GRC module would 
+22 
+provide policy and control tracking, risk 
+23 
+management, and audit management.  The Company’s 
+24 
+
+
+--- Page 23 ---
+Cases 23-E-0418 & 23-G-0419 
+ 
+Staff Security Panel 
+ 
+ 
+22 
+ 
+response to DPS-749 further discusses the 
+1 
+proposed role of ServiceNow in mitigating the 
+2 
+impact of attacks through improved preventative, 
+3 
+detective, and deterrent controls. 
+4 
+Q. 
+Does the Panel agree with the Company’s proposed 
+5 
+use of ServiceNow tools? 
+6 
+A. 
+Yes.  BEGIN CONFIDENTIAL INFORMATION <
+ 
+7 
+ 
+8 
+ 
+9 
+ 
+10 
+ 
+11 
+ 
+12 
+ 
+13 
+ 
+14 
+ 
+15 
+ 
+16 
+ 
+17 
+ 
+18 
+ 
+19 
+ 
+20 
+ 
+21 
+ 
+22 
+ 
+23 
+ 
+> END CONFIDENTIAL 
+24 
+
+
+--- Page 24 ---
+Cases 23-E-0418 & 23-G-0419 
+ 
+Staff Security Panel 
+ 
+ 
+23 
+ 
+INFORMATION. 
+1 
+Q. 
+Describe the other collection of cybersecurity 
+2 
+tools that the Company is proposing. 
+3 
+A. 
+In its responses to DPS-258 and DPS-556, the 
+4 
+Company proposes a number of investments that 
+5 
+would provide capabilities in vulnerability 
+6 
+management, security analytics, and incident 
+7 
+response that would further improve the 
+8 
+Company’s cybersecurity posture.  These 
+9 
+investments include: BEGIN CONFIDENTIAL 
+10 
+INFORMATION <
+ 
+11 
+ 
+12 
+ 
+13 
+> END 
+14 
+CONFIDENTIAL INFORMATION. 
+15 
+Q. 
+What is vulnerability management’s role in 
+16 
+cybersecurity? 
+17 
+A. 
+Patching is part of vulnerability management, 
+18 
+and according to NIST SP 800-40 Rev. 4, patch 
+19 
+management is the process of identifying, 
+20 
+prioritizing, installing, and verifying the 
+21 
+installation of patches, updates, and upgrades 
+22 
+throughout an organization.  Patching and patch 
+23 
+management are considered critical components of 
+24 
+
+
+--- Page 25 ---
+Cases 23-E-0418 & 23-G-0419 
+ 
+Staff Security Panel 
+ 
+ 
+24 
+ 
+preventive maintenance for computing 
+1 
+technologies.  This means the Company must 
+2 
+monitor several sources for disclosure of 
+3 
+vulnerabilities in software and firmware across 
+4 
+all of the Company networks and devices.  When 
+5 
+vulnerabilities are reported, the Company must 
+6 
+evaluate and prioritize which vulnerabilities to 
+7 
+patch, or, if patching is not feasible, how to 
+8 
+otherwise mitigate the vulnerability.  Patches 
+9 
+also need to be tested and evaluated for 
+10 
+compatibility with the Company’s systems. 
+11 
+Q. 
+What are security analytics’ role in 
+12 
+cybersecurity? 
+13 
+A.   Security analytics improve visibility into the 
+14 
+Company’s networks and the activity on them. 
+15 
+Security analytics can mitigate threats like 
+16 
+zero-day vulnerabilities and insider threats by 
+17 
+detecting and alerting suspicious activity or 
+18 
+behavior.  
+19 
+Q. 
+What is the role of incident response in 
+20 
+cybersecurity? 
+21 
+A. 
+According to NIST SP 800-61 Rev. 2 computer 
+22 
+security incident handling is necessary for 
+23 
+rapidly detecting incidents, minimizing loss and 
+24 
+
+
+--- Page 26 ---
+Cases 23-E-0418 & 23-G-0419 
+ 
+Staff Security Panel 
+ 
+ 
+25 
+ 
+destruction, mitigating the weaknesses that were 
+1 
+exploited, and restoring services.  
+2 
+Q. 
+Did the Company provide justification for these 
+3 
+investments? 
+4 
+A. 
+Yes.  BEGIN CONFIDENTIAL INFORMATION <
+ 
+5 
+ 
+6 
+ 
+7 
+ 
+8 
+ 
+9 
+ 
+10 
+ 
+11 
+ 
+12 
+ 
+13 
+> END CONFIDENTIAL 
+14 
+INFORMATION. 
+15 
+Q. 
+Does the Panel agree with the proposed 
+16 
+collection of other cybersecurity tools? 
+17 
+A. 
+Yes, for all the reasons just listed.   
+18 
+Q. 
+Does the Panel have any adjustments to the 
+19 
+Company’s proposed cybersecurity investments? 
+20 
+A. 
+No.  Based on our review we believe the 
+21 
+proposals are a necessary investment for the 
+22 
+Company to make to maintain and enhance its 
+23 
+current level of security. 
+24 
+
+
+--- Page 27 ---
+Cases 23-E-0418 & 23-G-0419 
+ 
+Staff Security Panel 
+ 
+ 
+26 
+ 
+Q. 
+Please describe the Company’s proposal for 
+1 
+cybersecurity FTEs. 
+2 
+A. 
+The Company proposes seven incremental FTEs that 
+3 
+we reviewed for cybersecurity roles.  The FTEs, 
+4 
+as included in the publicly available response 
+5 
+to DPS-260 Attachment 1, are as follows: three 
+6 
+Cybersecurity Analysts, one Cybersecurity 
+7 
+Analyst/Project Leader, one Technology 
+8 
+Compliance Analyst, and two Infrastructure 
+9 
+Support Analysts. 
+10 
+Q. 
+Does the Panel agree with the Company’s 
+11 
+Cybersecurity Analyst and Analyst/Project Leader 
+12 
+FTE proposals? 
+13 
+A. 
+Yes.  Based on the Company response to DPS-260, 
+14 
+the Cybersecurity Analysts and Analyst/Project 
+15 
+Leader positions are necessary for the Company’s 
+16 
+efforts to implement and maintain its projects 
+17 
+for Identity and Access Management, as explained 
+18 
+on page 45 of the TCOP’s testimony.  The 
+19 
+importance of Identity and Access Management is 
+20 
+discussed previously in this testimony. 
+21 
+Q. 
+Does the Panel agree with the Company’s 
+22 
+Infrastructure Support Analyst FTE proposal? 
+23 
+A. 
+Yes.  The Infrastructure Support Analysts are 
+24 
+
+
+--- Page 28 ---
+Cases 23-E-0418 & 23-G-0419 
+ 
+Staff Security Panel 
+ 
+ 
+27 
+ 
+necessary for performing application support, 
+1 
+and system and application patching.  Patching 
+2 
+and vulnerability management are discussed 
+3 
+previously in this testimony. 
+4 
+Q. 
+Does the Panel agree with the Company’s 
+5 
+Technology Compliance Analyst FTE proposal? 
+6 
+A. 
+Yes.  The Technology Compliance Analyst is 
+7 
+necessary to meet the compliance requirements 
+8 
+for a steadily increasing number of 
+9 
+cybersecurity regulations.  The Panel notes 
+10 
+that, in the past three years, NERC has added 
+11 
+two CIP standards, CIP-012 and CIP-013, related 
+12 
+to communications between control centers and 
+13 
+supply chain risk management, respectively. In 
+14 
+particular the CIP-013 requirements for electric 
+15 
+utilities to identify and address cybersecurity 
+16 
+risks in procuring equipment and software, 
+17 
+vendor notification of incidents or 
+18 
+vulnerabilities, verification of software 
+19 
+integrity and authenticity, and coordinating 
+20 
+interactive remote access necessitated 
+21 
+evaluation and modification of their established 
+22 
+business practices.  The New York State 
+23 
+legislature has also considered several bills in 
+24 
+
+
+--- Page 29 ---
+Cases 23-E-0418 & 23-G-0419 
+ 
+Staff Security Panel 
+ 
+ 
+28 
+ 
+recent years that include cybersecurity 
+1 
+requirements for critical infrastructure.  
+2 
+Moreover, fines for NERC CIP violations can 
+3 
+reach $100,000 per day per violation, and a $10 
+4 
+million fine has already been issued to another 
+5 
+electric utility in another state.  In other 
+6 
+words, failure to comply with cybersecurity 
+7 
+regulations could result in significant and 
+8 
+unnecessary costs for a utility like Central 
+9 
+Hudson. 
+10 
+Q. 
+Is the proposed Technology Compliance Analyst 
+11 
+FTE consistent with cyber compliance FTEs 
+12 
+authorized for other New York utilities? 
+13 
+A. 
+Yes. For example, New York State Electric & Gas 
+14 
+Corporation, Rochester Gas & Electric 
+15 
+Corporation, Niagara Mohawk Power Corporation 
+16 
+d/b/a National Grid, and Consolidated Edison 
+17 
+Company of New York, Inc. all employ compliance 
+18 
+analysts similar to the position proposed by 
+19 
+Central Hudson. 
+20 
+Q. 
+Based on the foregoing, does the Panel have any 
+21 
+adjustments to the Company’s proposed FTEs? 
+22 
+A. 
+No.  Based on our review, we believe the 
+23 
+proposed FTEs are necessary for two reasons.  
+24 
+
+
+--- Page 30 ---
+Cases 23-E-0418 & 23-G-0419 
+ 
+Staff Security Panel 
+ 
+ 
+29 
+ 
+First, some of the FTEs match the projects the 
+1 
+Company proposes; and are necessary to implement 
+2 
+and operate the cybersecurity infrastructure and 
+3 
+capabilities for the proposals.  Second, the 
+4 
+cybersecurity landscape is continuing to evolve 
+5 
+and change year over year, and the Company will 
+6 
+need the skills that these FTEs will bring in 
+7 
+order for the Company to maintain its current 
+8 
+level of security. 
+9 
+Additional Recommendations 
+10 
+Q. 
+Do you have any additional recommendations? 
+11 
+A. 
+Yes.  First, we recommend that the Commission 
+12 
+require Central Hudson, as part of its reporting 
+13 
+requirements, to notify appropriate Department 
+14 
+Staff as physical security or cybersecurity 
+15 
+projects reach significant milestones, are 
+16 
+merged with other projects, or are discontinued.  
+17 
+Second, we recommend that Central Hudson, as 
+18 
+part of its reporting requirements, be required 
+19 
+to notify appropriate Department Staff when 
+20 
+significant changes are made to cybersecurity-
+21 
+related FTEs.  Examples of significant changes 
+22 
+include when management-level physical and cyber 
+23 
+security personnel leave their positions, or an 
+24 
+
+
+--- Page 31 ---
+Cases 23-E-0418 & 23-G-0419 
+ 
+Staff Security Panel 
+ 
+ 
+30 
+ 
+empty position is filled.  Notification should 
+1 
+also occur when cybersecurity FTE positions are 
+2 
+added, removed, altered, or merged with other 
+3 
+positions. 
+4 
+Q 
+Why does the Panel believe these reporting 
+5 
+requirements are necessary? 
+6 
+A. 
+First, due to reasons such as supply chain 
+7 
+issues and changes in technology, the Company 
+8 
+may need to change the scope or scale of a 
+9 
+project, or possibly even switch to a different 
+10 
+project to accomplish the same goals.  In that 
+11 
+case, the Department will need to understand how 
+12 
+the Company’s cybersecurity capabilities are 
+13 
+changing.  Second, cybersecurity staffing is in 
+14 
+flux, and it can be difficult to either hire or 
+15 
+retain personnel with needed skill sets.  The 
+16 
+Panel believes the Company should have the 
+17 
+flexibility to acquire the needed skill sets 
+18 
+through a variety of means.  In the event that 
+19 
+hiring, or retaining personnel with necessary 
+20 
+skill sets proves difficult, or affects 
+21 
+cybersecurity projects, Department Staff needs 
+22 
+to know how this affects the Company’s existing 
+23 
+security capabilities and any modification of 
+24 
+
+
+--- Page 32 ---
+Cases 23-E-0418 & 23-G-0419 
+ 
+Staff Security Panel 
+ 
+ 
+31 
+ 
+planned security projects. 
+1 
+Q. 
+Does this conclude your testimony at this time? 
+2 
+A. 
+Yes. 
+3 

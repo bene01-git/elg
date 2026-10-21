@@ -1,0 +1,3647 @@
+--- Page 1 ---
+  
+ BEFORE THE 
+ STATE OF NEW YORK 
+ PUBLIC SERVICE COMMISSION 
+ 
+ 
+ 
+ 
+ 
+ 
+ 
+Proceeding on Motion of the Commission as to the Rates, 
+Charges, Rules and Regulations of Consolidated Edison 
+Company of New York, Inc. for Electric and Gas Service. 
+ 
+Cases 25-E-0072, 25-G-0073 
+ 
+June 24, 2025 
+ 
+ 
+Rebuttal Testimony of: 
+Cyber and Physical 
+Security Panel   
+ 
+ 
+ 
+Nicholas Boshears 
+4 Irving Place  
+New York, New York 10003 
+Kurt John 
+4 Irving Place  
+New York, New York 10003 
+ 
+ 
+ 
+Angel Cardoza 
+4 Irving Place  
+New York, New York 10003 
+ 
+Natalia Saldarriaga 
+4 Irving Place  
+New York, New York 10003 
+ 
+ 
+ 
+ 
+Margaret Walters 
+4 Irving Place  
+New York, New York 10003 
+ 
+ 
+ 
+ 
+ 
+ 
+ 
+ 
+ 
+ 
+ 
+ 
+ 
+
+
+--- Page 2 ---
+25-E-0072 & 25-G-0073 
+ 
+CONSOLIDATED EDISON COMPANY OF NEW YORK, INC. 
+REBUTTAL TESTIMONY OF CYBER AND PHYSICAL SECURITY PANEL 
+ 
+1 
+ 
+ 
+TABLE OF CONTENTS 
+I. INTRODUCTION.............................................. 2 
+II. REBUTTAL................................................. 5 
+A. Adjustments to Cybersecurity ......................... 5 
+B. Adjustments to Physical Security .................... 36 
+ 
+REDACTED VERSION
+
+
+--- Page 3 ---
+25-E-0072 & 25-G-0073 
+ 
+CONSOLIDATED EDISON COMPANY OF NEW YORK, INC. 
+REBUTTAL TESTIMONY OF CYBER AND PHYSICAL SECURITY PANEL 
+ 
+2 
+ 
+I. INTRODUCTION 
+1 
+Q. 
+Would the members of the Cyber and Physical Security 
+2 
+(“Panel”) please state your names? 
+3 
+A.  
+Our names are Kurt John, Nicholas Boshears, Angel Cardoza, 
+4 
+Margaret Walters, and Natalia Saldarriaga.   
+5 
+Q. 
+Has the Panel previously submitted testimony in this 
+6 
+proceeding? 
+7 
+A. 
+(John, Boshears, and Cardoza) Yes. We submitted both direct 
+8 
+and update testimony under the Panel. (Walters) Yes. I have 
+9 
+submitted both direct and update testimony under the 
+10 
+Electric Infrastructure and Operations Panel. (Saldarriaga) 
+11 
+Yes. I have submitted both direct and update testimony 
+12 
+under the Company’s Shared Services Panel. 
+13 
+Q. 
+What is the purpose of the Panel’s rebuttal testimony? 
+14 
+A. 
+We respond to the testimonies of: 
+15 
+• Department of Public Service Staff (Staff) Utility 
+16 
+Security Panel (SUSP) regarding capital and O&M 
+17 
+adjustments to various projects and programs, including 
+18 
+reductions in incremental full-time equivalents (FTEs). 
+19 
+• Staff Electric Infrastructure and Operations Panel 
+20 
+(SEIOP) and New York City Electric Infrastructure and 
+21 
+REDACTED VERSION
+
+
+--- Page 4 ---
+25-E-0072 & 25-G-0073 
+ 
+CONSOLIDATED EDISON COMPANY OF NEW YORK, INC. 
+REBUTTAL TESTIMONY OF CYBER AND PHYSICAL SECURITY PANEL 
+ 
+3 
+ 
+Operations Panel (NYCEIOP) regarding the Energy Control 
+1 
+Center (ECC) relocation project. 
+2 
+To the extent that an issue is raised by Staff or 
+3 
+intervenors but not addressed specifically by this Panel, 
+4 
+the positions stated therein should not be viewed or 
+5 
+considered to have been accepted by the Company. 
+6 
+Q. 
+Do you have any exhibits that you will reference in this 
+7 
+testimony? 
+8 
+A. 
+Yes, we are introducing Exhibit __ (CPSP-6), which contains 
+9 
+numerous discovery responses that we refer to in our 
+10 
+testimony, as noted below. 
+11 
+ 
+  
+Company Response to  
+ 
+Exhibit __ (CPSP-6) 
+12 
+ 
+  
+Information Request: 
+ 
+Page Number:   
+13 
+ 
+  
+DPS-18-441 
+ 
+ 
+ 
+ 
+2 
+14 
+ 
+  
+DPS-21-539 
+ 
+ 
+ 
+ 
+62 
+15 
+ 
+  
+DPS-21-539-Supp1 
+ 
+ 
+ 
+64 
+ 
+16 
+ 
+  
+DPS-27-653 
+ 
+ 
+ 
+ 
+157 
+17 
+ 
+  
+DPS-35-791 
+ 
+ 
+ 
+ 
+161  
+18 
+ 
+  
+DPS-46-948 
+ 
+ 
+ 
+ 
+178 
+19 
+ 
+  
+DPS-50-1027-Supp1 
+ 
+ 
+ 
+187 
+20 
+ 
+  
+DPS-50-1027-Supp2 
+ 
+ 
+ 
+193 
+21 
+Q. 
+Is the Panel providing any other exhibits? 
+22 
+REDACTED VERSION
+
+
+--- Page 5 ---
+25-E-0072 & 25-G-0073 
+ 
+CONSOLIDATED EDISON COMPANY OF NEW YORK, INC. 
+REBUTTAL TESTIMONY OF CYBER AND PHYSICAL SECURITY PANEL 
+ 
+4 
+ 
+A. 
+Yes, we provide additional information and documents to 
+1 
+support projects and programs, as listed below: 
+2 
+ 
+ 
+Exhibit Number:  
+Project/Program: 
+ 
+3 
+ 
+ 
+CPSP-7 
+ 
+ 
+Cybersecurity 
+4 
+ 
+ 
+CPSP-8 
+ 
+ 
+Cyber Security Infrastructure  
+5 
+ 
+ 
+ 
+ 
+ 
+ 
+(Cyber for HVN) 
+6 
+ 
+ 
+CPSP-9 
+ 
+ 
+Cyber Security and NERC Compliance 
+ 
+7 
+ 
+ 
+CPSP-10 
+ 
+ 
+Protective Intelligence  
+8 
+ 
+ 
+ 
+ 
+ 
+ 
+and Countermeasures 
+9 
+ 
+ 
+CPSP-11 
+ 
+ 
+ECC and AECC Security Enhancements 
+10 
+ 
+ 
+CPSP-12 
+ 
+ 
+ECC Relocation 
+11 
+Q. 
+Were these exhibits prepared under the Panel’s supervision 
+12 
+and direction? 
+13 
+A. 
+Yes. 
+14 
+Q.  Have you reviewed Staff’s proposed adjustments to the 
+15 
+Company’s capital and O&M funding requests? 
+16 
+A.  Yes.  
+17 
+Q.  What does Staff propose? 
+18 
+A. 
+For Cyber and Physical security, Staff proposes adjustments 
+19 
+reducing the Company’s capital expenditures by 
+20 
+approximately $77 million in RY1, $45 million in RY2 and 
+21 
+$122 million in RY3. In addition, Staff proposes 
+22 
+adjustments reducing the Company’s total O&M expenses by 
+23 
+REDACTED VERSION
+
+
+--- Page 6 ---
+25-E-0072 & 25-G-0073 
+ 
+CONSOLIDATED EDISON COMPANY OF NEW YORK, INC. 
+REBUTTAL TESTIMONY OF CYBER AND PHYSICAL SECURITY PANEL 
+ 
+5 
+ 
+approximately $22 million in RY1, $32 million in RY2, and 
+1 
+$36 million in RY3. Staff also proposes reductions to the 
+2 
+FTEs requested by the Company. 
+3 
+Q. 
+Do you agree with these recommendations? 
+4 
+A. 
+No, we do not. 
+5 
+Q.  Will you respond to each of Staff’s proposed adjustments? 
+6 
+A.  Yes, we address the adjustments by project under the cyber 
+7 
+and physical categories.  
+8 
+Q.  Are there any comments or adjustments associated with the 
+9 
+Energy Control Center relocation project? 
+10 
+A. 
+Yes. As noted earlier, Staff EIOP and the City discuss this 
+11 
+project, and we explain why the project is needed in the 
+12 
+physical security section.   
+13 
+II. REBUTTAL 
+14 
+A. Adjustments to Cybersecurity  
+15 
+Introduction 
+16 
+Q. 
+Please summarize the Company’s approach to cybersecurity. 
+17 
+A.  Our Cybersecurity program is a Company-wide program 
+18 
+intended to protect computer systems and information, 
+19 
+detect threats and attacks as well as respond to and 
+20 
+recover from cybersecurity incidents. Using a risk-based 
+21 
+approach, this program aims to reduce the risk in areas 
+22 
+REDACTED VERSION
+
+
+--- Page 7 ---
+25-E-0072 & 25-G-0073 
+ 
+CONSOLIDATED EDISON COMPANY OF NEW YORK, INC. 
+REBUTTAL TESTIMONY OF CYBER AND PHYSICAL SECURITY PANEL 
+ 
+6 
+ 
+which continue to see an increase in both scale and 
+1 
+velocity of attacks.  
+2 
+Q. 
+Is cybersecurity a risk for the Company? 
+3 
+A. 
+Cybersecurity is among the most critical risks facing 
+4 
+organizations today, including Con Edison. Industry data 
+5 
+and government advisories from the Federal Bureau of 
+6 
+Investigations (FBI) and the Cybersecurity and 
+7 
+Infrastructure Security Agency (CISA) show that cyber-
+8 
+attacks against critical infrastructure providers are on 
+9 
+the rise. Our own monitoring further corroborates this 
+10 
+trend, with a noticeable increase in attempted penetrations 
+11 
+and attempted phishing campaigns (14 percent between 2022 
+12 
+and 2024). 
+13 
+Q. 
+Has the threat and technology landscape changed? 
+14 
+A. 
+The cyber threat landscape is evolving rapidly. Both the 
+15 
+frequency and sophistication of attacks are increasing, 
+16 
+driven by heightened geo-political tensions and advances in 
+17 
+threat actor capabilities. Even since the initial filing, 
+18 
+the threat landscape has shifted, with threats growing 
+19 
+since that time. 
+20 
+ 
+The speed at which cybersecurity technologies are changing 
+21 
+is remarkable, driven by the increasing complexity of cyber 
+22 
+REDACTED VERSION
+
+
+--- Page 8 ---
+25-E-0072 & 25-G-0073 
+ 
+CONSOLIDATED EDISON COMPANY OF NEW YORK, INC. 
+REBUTTAL TESTIMONY OF CYBER AND PHYSICAL SECURITY PANEL 
+ 
+7 
+ 
+threats. Advancements in AI and machine learning (ML) are 
+1 
+enhancing threat detection and response capabilities, with 
+2 
+tools capable of autonomously identifying anomalous 
+3 
+behavior in real-time. For example, if you asked someone 
+4 
+about the future of AI in 2022, they may not have even 
+5 
+understood what you were asking. Now, vendors are selling 
+6 
+AI tools to both protect against cyber-attack as well as to 
+7 
+cause a cyber-attack – an incredible journey in two short 
+8 
+years! 
+9 
+Q. 
+Please explain the geo-political cyber landscape, including 
+10 
+some of the recent changes. 
+11 
+A. 
+Over the past several years, cyber-attacks targeting   
+12 
+ 
+critical infrastructure have surged. Notable incidents  
+13 
+ 
+include the October 2024 Tennessee water utility attack, 
+14 
+ 
+where hackers attempted to manipulate chemical levels in  
+15 
+ 
+the water supply as well as the Colonial Pipeline  
+16 
+ 
+incident. Nation-state actors have also executed broad  
+17 
+espionage campaigns, such as the Salt Typhoon operation,  
+18 
+across U.S. telecommunications and infrastructure. 
+19 
+The FBI and CISA provide advisories on threats, 
+20 
+specifically the increased threat posed by China-linked 
+21 
+REDACTED VERSION
+
+
+--- Page 9 ---
+25-E-0072 & 25-G-0073 
+ 
+CONSOLIDATED EDISON COMPANY OF NEW YORK, INC. 
+REBUTTAL TESTIMONY OF CYBER AND PHYSICAL SECURITY PANEL 
+ 
+8 
+ 
+actors seeking to gain a foothold for future disruption of 
+1 
+the U.S. electric and gas grid.  
+2 
+Ongoing geopolitical tensions, particularly those involving 
+3 
+Russia, Ukraine, China, Iran, and Israel, further compound 
+4 
+the complexity and risk of the current cyber environment. 
+5 
+The federal government has also changed tactics, for 
+6 
+example, decreasing offensive cyber operations and 
+7 
+deferring cyber regulations to states. 
+8 
+Given the prominence of Con Edison’s service territory, the 
+9 
+Company faces heightened exposure to a cyber-attack in 
+10 
+response to kinetic warfare elsewhere in the globe. 
+11 
+Q. 
+Please discuss the emergence of AI in cyber. 
+12 
+A. 
+Not only have threat actors refined their hacking 
+13 
+techniques, but emerging technologies, like Generative AI, 
+14 
+provide malicious actors with access to low-cost hacking 
+15 
+and have simplified the exploitation of existing 
+16 
+vulnerabilities, enabling adversaries to craft attacks that 
+17 
+could cause serious disruption to corporate operations and 
+18 
+networks, including our critical energy infrastructure. 
+19 
+Finally, malicious actors continue to target sensitive and 
+20 
+confidential information, inclusive of customer and 
+21 
+employee Personally Identifiable Information (PII), 
+22 
+REDACTED VERSION
+
+
+--- Page 10 ---
+25-E-0072 & 25-G-0073 
+ 
+CONSOLIDATED EDISON COMPANY OF NEW YORK, INC. 
+REBUTTAL TESTIMONY OF CYBER AND PHYSICAL SECURITY PANEL 
+ 
+9 
+ 
+threatening the safety of our customers’ and employees’ 
+1 
+personal data.  
+2 
+Additionally, cybersecurity industry reports suggest that 
+3 
+there has been a significant increase in cybersecurity 
+4 
+attacks, with about 160 percent more incidents reported in 
+5 
+2023 over 2021, resulting in more than 353 million people 
+6 
+affected in just 2023. This trend was consistent in 2024, 
+7 
+showing a 75 percent increase between Q3/2023 and Q3/2024, 
+8 
+with 47 percent of the incidents reported coming from the 
+9 
+utility industry. 
+10 
+Q. 
+Are there any other technology changes being made that rely 
+11 
+on new concepts? 
+12 
+A. 
+Yes. There are several examples. 
+13 
+ 
+First, we are shifting to Zero Trust architecture, which 
+14 
+considers every access request as untrusted, thereby 
+15 
+shifting the Identity and Access Management (IAM) burden 
+16 
+from passwords to more evolved authentication methods, such 
+17 
+as password-less authentication leveraging security keys or 
+18 
+authentication objects. Zero Trust architecture was a 
+19 
+concept five years ago; now it is being implemented and 
+20 
+improving IAM capabilities and security engineering. 
+21 
+REDACTED VERSION
+
+
+--- Page 11 ---
+25-E-0072 & 25-G-0073 
+ 
+CONSOLIDATED EDISON COMPANY OF NEW YORK, INC. 
+REBUTTAL TESTIMONY OF CYBER AND PHYSICAL SECURITY PANEL 
+ 
+10 
+ 
+ 
+Second, as more organizations migrate their capabilities to 
+1 
+the cloud, cloud security technologies provided by Cloud 
+2 
+Service Providers (CSPs) are evolving to secure cloud 
+3 
+environments. Capabilities and access to these environments 
+4 
+are growing, replacing on-premise installations. 
+5 
+ 
+Third, Ransomware-as-a-Service (RaaS) also contributes to 
+6 
+the rise in attacks. The number of groups selling RaaS has 
+7 
+increased, making it easier for less sophisticated 
+8 
+attackers to launch ransom campaigns, resulting in more 
+9 
+organizations being targeted. In response to the rise of 
+10 
+ransomware, technology has evolved also in the data 
+11 
+recovery space, allowing for quicker restoration of lost 
+12 
+data.  
+13 
+ 
+Finally, with the increase in ransom amount requests (with 
+14 
+increases of 20 percent annually since 2022), cybersecurity 
+15 
+firms have also increased the cost of their capabilities, 
+16 
+given the relevance of the services offered. These 
+17 
+increases create a feedback loop which entices more threat 
+18 
+actors to engage in attacks on organizations. 
+19 
+Q. 
+Please discuss Identity Management. 
+20 
+A.  IAM is a foundational pillar of cybersecurity. It only 
+21 
+allows authorized individuals — and increasingly, machines 
+22 
+REDACTED VERSION
+
+
+--- Page 12 ---
+25-E-0072 & 25-G-0073 
+ 
+CONSOLIDATED EDISON COMPANY OF NEW YORK, INC. 
+REBUTTAL TESTIMONY OF CYBER AND PHYSICAL SECURITY PANEL 
+ 
+11 
+ 
+— to access specific systems, data, and applications. This 
+1 
+is critical for maintaining the confidentiality, integrity, 
+2 
+and availability of information, in cybersecurity circles 
+3 
+often referred to as the "CIA triad." 
+4 
+Q. 
+What is an identity based cyber attack? 
+5 
+A. 
+Identity-based cyberattacks are threats where attackers 
+6 
+exploit user identities such as usernames, passwords, 
+7 
+credentials, or access privileges to gain unauthorized 
+8 
+access to systems, data, or networks. Rather than pure 
+9 
+technical means, these attacks focus on compromising or 
+10 
+impersonating legitimate users, making them especially 
+11 
+difficult to detect and prevent. 
+12 
+Q. 
+Please continue. 
+13 
+A. 
+As an example, recent CISA and Microsoft reports highlight 
+14 
+a sharp rise in identity-based cyberattacks, particularly 
+15 
+targeting critical infrastructure sectors, such as energy 
+16 
+and manufacturing. Microsoft alone is tracking over 1,500 
+17 
+threat actors, many of which are actively exploiting IAM 
+18 
+weaknesses to infiltrate Operational Technology (OT) 
+19 
+environments. 
+20 
+Q. 
+Do the current cyber security frameworks reflect these 
+21 
+events? 
+22 
+REDACTED VERSION
+
+
+--- Page 13 ---
+25-E-0072 & 25-G-0073 
+ 
+CONSOLIDATED EDISON COMPANY OF NEW YORK, INC. 
+REBUTTAL TESTIMONY OF CYBER AND PHYSICAL SECURITY PANEL 
+ 
+12 
+ 
+A. 
+Yes. Significant changes to the cybersecurity threat 
+1 
+landscape are also confirmed by the updates introduced to 
+2 
+industry accepted cybersecurity frameworks, like the 
+3 
+National Institute of Standards and Technology (NIST) 
+4 
+framework(s). Such changes have also introduced new 
+5 
+complexity in the overall Company cybersecurity strategy, 
+6 
+given its alignment with NIST. 
+7 
+Q. 
+Turning to another subject, please explain the O&M tail. 
+8 
+A. 
+While the implementation of software technologies is 
+9 
+typically capitalized, the software industry has migrated 
+10 
+to a business model that uses subscription licenses, 
+11 
+resulting in an increased correlation between capital 
+12 
+projects and O&M spend.  
+13 
+ 
+For every capital cybersecurity project, there is a 
+14 
+corresponding O&M tail. The O&M cost, therefore, increases 
+15 
+annually, as more capital (and associated O&M) projects are 
+16 
+implemented to meet the evolving threat landscape. 
+17 
+Accounting for inflation, the O&M tails will continue to 
+18 
+increase.  
+19 
+Q. 
+Has this occurred for cyber? 
+20 
+A. 
+Yes. Recent vendor offerings are subscriptions or term 
+21 
+licenses versus perpetual licenses, particularly following 
+22 
+REDACTED VERSION
+
+
+--- Page 14 ---
+25-E-0072 & 25-G-0073 
+ 
+CONSOLIDATED EDISON COMPANY OF NEW YORK, INC. 
+REBUTTAL TESTIMONY OF CYBER AND PHYSICAL SECURITY PANEL 
+ 
+13 
+ 
+the cloud evolution. With subscription or term licenses, 
+1 
+the implementation period subscription costs may typically 
+2 
+be charged to capital; however, the same amount recurs year 
+3 
+after year, post the implementation period, as O&M.  
+4 
+ 
+Vendors have changed their models, where previously, most 
+5 
+licenses were perpetual, and the recurring charge was only 
+6 
+20 percent of the initial investment.  Now, the annual O&M 
+7 
+charge for a software, post implementation, is 100% of the 
+8 
+initial investment. Two examples of this change are: the 
+9 
+Cyber security logging and response tool and the PII 
+10 
+response tool. For the logging and response tool, the 
+11 
+annual subscription cost for this is expected to be 
+12 
+approximately $7 million in RY1 (see previous purchase 
+13 
+order attached in Exhibit __ (CPSP-7). The PII protection 
+14 
+tool costs approximately $1.7 million of annual recurring 
+15 
+O&M post implementation (see quote attached in Exhibit __ 
+16 
+(CPSP-7). 
+17 
+ 
+O&M for the Cybersecurity program will increase as 
+18 
+additional capital projects/tools, such as API Security and 
+19 
+additional Cloud Protections, such as the single Cloud 
+20 
+delivered platform, are implemented. Staff proposes to 
+21 
+reduce our total O&M from RY1 to RY2 and again in RY3. In 
+22 
+REDACTED VERSION
+
+
+--- Page 15 ---
+25-E-0072 & 25-G-0073 
+ 
+CONSOLIDATED EDISON COMPANY OF NEW YORK, INC. 
+REBUTTAL TESTIMONY OF CYBER AND PHYSICAL SECURITY PANEL 
+ 
+14 
+ 
+this area, Staff’s reduced O&M budget does not support the 
+1 
+needs of the Company’s cyber program. 
+2 
+Staff Cybersecurity Program Adjustments  
+3 
+Q. 
+On an overall basis, does Staff recommend any adjustments 
+4 
+to the Company’s Cybersecurity funding requests? 
+5 
+A. 
+Yes, Staff adjusted four projects and programs: (1) 
+6 
+Cybersecurity program; (2) Cyber Security Infrastructure 
+7 
+(Cyber for High Value Networks (HVN)) project; (3) Cyber 
+8 
+Security and NERC Compliance project; and (4) NERC Cyber 
+9 
+and Physical Security Critical Infrastructure Upgrade 
+10 
+program.  
+11 
+Q. 
+In total, what reductions did Staff make? 
+12 
+A. 
+Regarding the Company’s Cybersecurity funding requests, 
+13 
+Staff proposes adjustments reducing the Company’s capital 
+14 
+expenditures by approximately $24 million in RY1, $25 
+15 
+million in RY2, and $25 million in RY3. In addition, Staff 
+16 
+proposes adjustments reducing the Company’s total O&M 
+17 
+expenses by approximately $21 million in RY1, $31 million 
+18 
+in RY2, and $35 million in RY3. Staff also proposes 
+19 
+reductions to the FTEs requested by the Company. Below we 
+20 
+address each adjustment in this category. 
+21 
+REDACTED VERSION
+
+
+--- Page 16 ---
+25-E-0072 & 25-G-0073 
+ 
+CONSOLIDATED EDISON COMPANY OF NEW YORK, INC. 
+REBUTTAL TESTIMONY OF CYBER AND PHYSICAL SECURITY PANEL 
+ 
+15 
+ 
+Company Cybersecurity Program 
+1 
+Q.  What was Staff’s adjustment to the Company’s Cybersecurity 
+2 
+program? 
+3 
+A.   For RY1 capital expenditures, Staff recommends decreasing 
+4 
+the request to $13.16 million, a decrease of $3.66 million.  
+5 
+Further, Staff, through a workpaper, recommends RY2 capital 
+6 
+expenditures of $12.64 million, a decrease of $4.29 
+7 
+million; and in RY3, Staff recommends capital expenditures 
+8 
+of $12.59 million, a decrease of $4.912 million.  
+9 
+For O&M, Staff recommends a $17.8 million O&M reduction for 
+10 
+RY1, reducing cybersecurity O&M to $20.75 million from 
+11 
+$38.37 million, $3 million less than the O&M level the 
+12 
+Company spent in the test year ($23.77 million). Staff 
+13 
+indicates decreases for RY2 and RY3 O&M: in RY2, a $25.72 
+14 
+million reduction to $19.76 million, and, in RY3, a $28.76 
+15 
+million reduction to $19.69 million. 
+16 
+Q. 
+In addition to Staff’s adjustments, are there any other 
+17 
+differences between the Company’s and Staff’s capital 
+18 
+amounts? 
+19 
+A. 
+Yes. Staff’s Cybersecurity program total is different from 
+20 
+the Company’s Cybersecurity total in both the initial and 
+21 
+update testimony, Exhibit __ (CPSP-4), and Exhibits __ 
+22 
+REDACTED VERSION
+
+
+--- Page 17 ---
+25-E-0072 & 25-G-0073 
+ 
+CONSOLIDATED EDISON COMPANY OF NEW YORK, INC. 
+REBUTTAL TESTIMONY OF CYBER AND PHYSICAL SECURITY PANEL 
+ 
+16 
+ 
+(CPSP 1-3) ($17.68 in RY1, $17.177 in RY2, and $17.76 in 
+1 
+RY3). We believe this is due to the inclusion of the 
+2 
+capital for the Cyber Forensic Equipment budget in the 
+3 
+program. 
+4 
+Q. 
+What justification does Staff use for its adjustments? 
+5 
+A. 
+Staff justifies its adjustments based on five main points: 
+6 
+o The Company has not had “stated issues” with the 
+7 
+current level of cyber security spending;  
+8 
+o There was no similar request in the last rate case; 
+9 
+o Spending should be in line with a three-year historic 
+10 
+average, including “ongoing” programs; 
+11 
+o The Company did not provide adequate support for the 
+12 
+requested amounts, suggesting that vendor quotes, 
+13 
+third-party risk assessments, or established forms of 
+14 
+budget forecast analysis are necessary to justify 
+15 
+estimates. Staff concludes that the Company’s reliance 
+16 
+on "historic purchases, vendor presentations, and 
+17 
+internet sources" are insufficient for accurate cost 
+18 
+projections; and    
+19 
+o The labor request is above prior years and not 
+20 
+justified. 
+21 
+Q. 
+Do you agree with the philosophy behind these adjustments? 
+22 
+REDACTED VERSION
+
+
+--- Page 18 ---
+25-E-0072 & 25-G-0073 
+ 
+CONSOLIDATED EDISON COMPANY OF NEW YORK, INC. 
+REBUTTAL TESTIMONY OF CYBER AND PHYSICAL SECURITY PANEL 
+ 
+17 
+ 
+A. 
+No. As explained herein, the Cybersecurity area is 
+1 
+undergoing rapid change and transformation. The fact that a 
+2 
+program was not done in the past or the expenditures in the 
+3 
+past were not at the level requested now does not 
+4 
+invalidate the need for the program or the project. 
+5 
+Moreover, recent changes have necessitated additional 
+6 
+programs, including FTEs, to keep pace with adversaries and 
+7 
+technology advances. Staff’s adjustments do not reflect the 
+8 
+Company’s Cybersecurity program needs in the rate years. 
+9 
+Q. 
+Staff states (p. 14) that the Company has managed its 
+10 
+cybersecurity programs “…with no stated issues.” Please 
+11 
+respond.    
+12 
+A. 
+As noted earlier, the lack of historical cyber issues does 
+13 
+not reduce the likelihood of potential future events.  
+14 
+Q. 
+Is relying on the request in the last rate case 
+15 
+appropriate? 
+16 
+A. 
+Not at all. As we explained, the landscape has changed in 
+17 
+the last few years.   
+18 
+For example, the last rate case did not include a request 
+19 
+for personnel dedicated to maintaining Identity and Access 
+20 
+Management systems. This work, however, is now needed and 
+21 
+we address that gap by proposing new roles specifically 
+22 
+REDACTED VERSION
+
+
+--- Page 19 ---
+25-E-0072 & 25-G-0073 
+ 
+CONSOLIDATED EDISON COMPANY OF NEW YORK, INC. 
+REBUTTAL TESTIMONY OF CYBER AND PHYSICAL SECURITY PANEL 
+ 
+18 
+ 
+tasked with managing and securing identity infrastructure. 
+1 
+These employees will expand privileged access management 
+2 
+support, authentication tools, and directory services. 
+3 
+Because identity-related failures, such as weak passwords, 
+4 
+lack of multi-factor authentication, and poor credential 
+5 
+hygiene, are among the most common and effective entry 
+6 
+points for attackers, the Company is requesting additional 
+7 
+personnel, without which the Company is vulnerable to these 
+8 
+increasingly sophisticated identity-based threats. 
+9 
+Q. 
+Why is a three-year average unsuitable for cybersecurity 
+10 
+spending?  
+11 
+A. 
+Staff’s position that future cybersecurity spending should 
+12 
+be based on a three-year historical average does not 
+13 
+comport with the current and expected threat environment.   
+14 
+Q.   Please address Staff’s statement that in response to DPS-
+15 
+51-1030, Attachment 1, the projects proposed in this 
+16 
+program are ongoing from the previous rate case. 
+17 
+A.  There are some continuing projects and 26 new projects (see 
+18 
+response to DPS-51-1030 Attachment 1 in Staff Exhibit SUSP-
+19 
+1). There are 13 projects in flight or “wrapping up.” These 
+20 
+projects, needed to maintain pace with the evolving threat 
+21 
+landscape, require O&M support costs, which were not 
+22 
+REDACTED VERSION
+
+
+--- Page 20 ---
+25-E-0072 & 25-G-0073 
+ 
+CONSOLIDATED EDISON COMPANY OF NEW YORK, INC. 
+REBUTTAL TESTIMONY OF CYBER AND PHYSICAL SECURITY PANEL 
+ 
+19 
+ 
+captured in either the historic year or in the last rate 
+1 
+case. 
+2 
+Q. 
+Are there risks associated with maintaining current levels 
+3 
+of cybersecurity spending? 
+4 
+A. 
+Yes. The current cybersecurity spending level was set three 
+5 
+years ago based on then-current cybersecurity landscape 
+6 
+threats. As stated previously, both the technology and the 
+7 
+threat landscape have changed significantly. Therefore, 
+8 
+maintaining the current level of spending exposes the 
+9 
+Company to the risk of falling short when compared to the 
+10 
+threat actors and the technology they have available, and 
+11 
+increases the chances of a cybersecurity incident. 
+12 
+Q. 
+Are there concerns with the O&M adjustment? 
+13 
+A. 
+Yes. Several. First, the adjusted level of O&M leaves the 
+14 
+Company with an O&M amount below the historic year O&M 
+15 
+spending. A large driver of the O&M spending is the O&M 
+16 
+tail. In fact, for RY1, approximately $22 million of 
+17 
+Staff’s proposed $20 million budget is already committed 
+18 
+through signed contracts from ongoing, or already 
+19 
+implemented, capital projects, and O&M tails (maintenance 
+20 
+and subscriptions). This leaves little room to continue to 
+21 
+appropriately protect the Company; it does not allow for 
+22 
+REDACTED VERSION
+
+
+--- Page 21 ---
+25-E-0072 & 25-G-0073 
+ 
+CONSOLIDATED EDISON COMPANY OF NEW YORK, INC. 
+REBUTTAL TESTIMONY OF CYBER AND PHYSICAL SECURITY PANEL 
+ 
+20 
+ 
+current labor expenses, not to mention any additional FTEs 
+1 
+or additional project implementations. Thus, Staff’s 
+2 
+proposed O&M adjustments do not reflect the Company’s 
+3 
+Cybersecurity funding needs in the rate years.   
+4 
+Q. 
+Please provide a general statement on Staff’s lack of 
+5 
+detail argument.  
+  
+6 
+A. 
+Overall, given the threat, it is not possible for the 
+7 
+Company to describe every future threat that it will have 
+8 
+to face to protect its systems. As an example, CISOs did 
+9 
+not worry about malware being put into upgrades until Solar 
+10 
+Winds. And lateral movement within systems was not a 
+11 
+concern until the Solar Winds event. As a result, and in 
+12 
+addition to other industry changes related to Solar Winds, 
+13 
+FERC has mandated new Critical Infrastructure Protection 
+14 
+(CIP) requirements for internal lateral movement. 
+15 
+Q. 
+Staff states that your request lacks detail. Do you agree?  
+16 
+A. 
+No. The Company’s filing describes the projects that it 
+17 
+will undertake, including Exhibit ___ (CPSP-4, pp. 49-52).  
+18 
+Q. 
+Do you agree with Staff’s statement that the basis for the 
+19 
+Company’s estimates is not adequate?  
+20 
+A.   No. Quotes obtained for previous similar initiatives, 
+21 
+reputable internet sources, and preliminary vendor 
+22 
+REDACTED VERSION
+
+
+--- Page 22 ---
+25-E-0072 & 25-G-0073 
+ 
+CONSOLIDATED EDISON COMPANY OF NEW YORK, INC. 
+REBUTTAL TESTIMONY OF CYBER AND PHYSICAL SECURITY PANEL 
+ 
+21 
+ 
+presentations (when available), are sufficient to provide 
+1 
+reasonable cost estimate to be incurred from those 
+2 
+projects. Estimates do not need to be based on quotes to be 
+3 
+considered adequate.  
+4 
+ 
+In fact, for cyber, it is not typical practice to obtain 
+5 
+quotes. Importantly, software vendors are typically 
+6 
+unwilling to provide a specific quote before evaluations 
+7 
+and contract negotiations. The nature of cybersecurity 
+8 
+enhancements necessitates that providers gain a 
+9 
+thorough understanding of the underlying infrastructure and 
+10 
+environment to deliver effective enhancements. This process 
+11 
+can be time-consuming, and therefore, it is essential for a 
+12 
+negotiated contract to be established beforehand.  
+13 
+ 
+The projects expected for RY1-RY3 are not yet at evaluation 
+14 
+and, certainly not at the negotiation phase, when a 
+15 
+discounted quote would be available. 
+16 
+ 
+The Company has found that quotes obtained for previous 
+17 
+similar initiatives, reputable internet sources, and 
+18 
+preliminary vendor presentations (when available), provide 
+19 
+a reasonable estimate of the costs to be incurred from 
+20 
+those projects. In the case of lifecycle replacements, such 
+21 
+as for Privileged Access Management and for our Virtual 
+22 
+REDACTED VERSION
+
+
+--- Page 23 ---
+25-E-0072 & 25-G-0073 
+ 
+CONSOLIDATED EDISON COMPANY OF NEW YORK, INC. 
+REBUTTAL TESTIMONY OF CYBER AND PHYSICAL SECURITY PANEL 
+ 
+22 
+ 
+Private Network Solution, and, quotes obtained for past 
+1 
+purchases, are the most accurate way to estimate, since we 
+2 
+are replacing hardware and the associated licenses that 
+3 
+were previously purchased. Life cycle replacements comprise 
+4 
+$7.2 million of our three-year capital request. Prices of 
+5 
+these items continue to increase as well.  
+6 
+Q.  Please discuss Staff’s labor adjustment in the Company 
+7 
+cybersecurity program. 
+8 
+A.  Staff’s adjustment removed funding for three Directors, one 
+9 
+Vice President, and 12 Senior System Cyber Analysts.  
+10 
+Q.  Do you agree with these changes? 
+11 
+A.  No. 
+12 
+The new FTEs are necessary and, in fact, several of these 
+13 
+positions have already been filled, demonstrating the 
+14 
+Company’s commitment to cybersecurity and the need for the 
+15 
+positions.  
+16 
+  
+These positions elevate the cybersecurity department as the 
+17 
+threat landscape evolves. Cybersecurity is no longer just a 
+18 
+technology problem; it's a Company-wide challenge that 
+19 
+extends beyond threat actors, adversaries, and our 
+20 
+customers.  
+21 
+REDACTED VERSION
+
+
+--- Page 24 ---
+25-E-0072 & 25-G-0073 
+ 
+CONSOLIDATED EDISON COMPANY OF NEW YORK, INC. 
+REBUTTAL TESTIMONY OF CYBER AND PHYSICAL SECURITY PANEL 
+ 
+23 
+ 
+Additionally, benchmarking against peer utilities showed 
+1 
+that nearly all senior cybersecurity leaders operate at the 
+2 
+Vice President level or higher, underscoring the need to 
+3 
+elevate the CISO role to competitively position Con Edison 
+4 
+to align with industry best practices (NextEra Energy, Duke 
+5 
+Energy, Southern Company, Dominion Energy, Exelon). 
+6 
+Q.  Please discuss why the Company disagrees with the reduction 
+7 
+of the other FTEs (Senior System Cyber Analysts). 
+8 
+A.  The 16 Senior System Cyber Analysts requested via the 
+9 
+Cybersecurity program will strengthen and fortify the below 
+10 
+teams: Red Team, Vulnerability Management, Application 
+11 
+Security and Governance, Cybersecurity Governance and 
+12 
+Information Protection, Engineering, Cyber Security 
+13 
+Infrastructure, Identity and Access Management, Cyber 
+14 
+Security Operations, Portfolio Management Office and 
+15 
+Forensics Investigation.  
+16 
+ 
+The Company’s initial testimony and response to DPS-8-324 
+17 
+described the need for these positions. These additional 
+18 
+FTEs enhance capabilities that require additional personnel 
+19 
+and expertise. As an example, recent revisions to the NIST 
+20 
+framework introduced new guidelines and best practices but 
+21 
+also required organizations to adapt their cybersecurity 
+22 
+REDACTED VERSION
+
+
+--- Page 25 ---
+25-E-0072 & 25-G-0073 
+ 
+CONSOLIDATED EDISON COMPANY OF NEW YORK, INC. 
+REBUTTAL TESTIMONY OF CYBER AND PHYSICAL SECURITY PANEL 
+ 
+24 
+ 
+strategies to remain compliant and effective. To meet these 
+1 
+new standards and adequately protect our assets, we need to 
+2 
+expand the team to include experts who can focus on key 
+3 
+areas, such as red team, incident response, security 
+4 
+engineering, and continuous monitoring. Without these FTEs, 
+5 
+we may fall behind in adapting our cybersecurity posture to 
+6 
+the changing threat and technology landscape. 
+7 
+ 
+Overall, due to the criticality of these positions, we have 
+8 
+already filled 14 (30%) of the 46 FTEs requested for this 
+9 
+program.  
+10 
+Cyber Security Infrastructure (Cyber for HVN) 
+11 
+Q. 
+Please summarize the proposed Cyber Security Infrastructure 
+12 
+(Cyber for HVN) project. 
+13 
+A.  This project adds additional security capabilities into our 
+14 
+high value network environments. 
+15 
+Q.  Please describe Staff’s adjustment to the Cyber for HVN 
+16 
+project. 
+17 
+A.  Staff recommends: RY1 capital expenditures of $3.36 million 
+18 
+for the program, a decrease of $2.43 million; RY2 capital 
+19 
+expenditures of $3.23 million, a decrease of $3.68 million, 
+20 
+and RY3 capital expenditures of $3.22 million, a decrease 
+21 
+of $3.71 million. 
+22 
+REDACTED VERSION
+
+
+--- Page 26 ---
+25-E-0072 & 25-G-0073 
+ 
+CONSOLIDATED EDISON COMPANY OF NEW YORK, INC. 
+REBUTTAL TESTIMONY OF CYBER AND PHYSICAL SECURITY PANEL 
+ 
+25 
+ 
+ 
+For O&M, Staff recommends $88,000 for RY1, a decrease of 
+1 
+$2.54 million, an amount below the test year cybersecurity 
+2 
+O&M spending of $98,000; in RY2, a reduction from $5.91 
+3 
+million to $85,000; and in RY3, a reduction from $6.50 
+4 
+million to $84,000. They also recommend reducing the 
+5 
+programs’ FTE request be reduced by one Director and 13 
+6 
+Senior System Analysts.  
+7 
+Q.  What is Staff’s rationale for its cost reductions? 
+8 
+A.  Staff bases its adjustment on requests from the current 
+9 
+rate plan, applies a three-year historical average, notes 
+10 
+that the estimates are not adequate, and states projects 
+11 
+are ongoing and that costs should be in line with historic 
+12 
+spending. 
+13 
+Q. 
+How did Staff justify its FTE reductions? 
+14 
+A. 
+In a similar manner. For example, Staff notes that 
+15 
+additional FTEs for the Cyber for HVN program were not 
+16 
+requested in the previous rate case and, therefore, 
+17 
+additional FTEs are unnecessary.  
+18 
+ 
+Staff claims that the Company fails to quantify what Cyber 
+19 
+for HVN related improvements would be realized or to 
+20 
+clearly establish duties and responsibilities for these 
+21 
+REDACTED VERSION
+
+
+--- Page 27 ---
+25-E-0072 & 25-G-0073 
+ 
+CONSOLIDATED EDISON COMPANY OF NEW YORK, INC. 
+REBUTTAL TESTIMONY OF CYBER AND PHYSICAL SECURITY PANEL 
+ 
+26 
+ 
+positions that differ from existing duties and 
+1 
+responsibilities of current employees.  
+2 
+Q.  Do you agree with the changes proposed by Staff? 
+3 
+ 
+No. To begin, many of the arguments previously mentioned 
+4 
+are applicable to this project as well. 
+5 
+ 
+HVN is an ongoing program, and like Cybersecurity, 
+6 
+additional capital funding and FTEs are needed to support 
+7 
+new capabilities that have not yet been implemented in the 
+8 
+HVN environment. Examples include the implementation of 
+9 
+Endpoint Detection and Response (EDR), Micro-segmentation 
+10 
+across critical servers and application, the implementation 
+11 
+of the OT Intrusion Detection System (IDS) to support our 
+12 
+substations that being converted to routable communications 
+13 
+(discussed herein) 
+ 
+14 
+ based on historic implementation in other 
+15 
+environments; see Exhibit __ (CPSP-8) for sample prior 
+16 
+invoice for two sensors), and 
+ 
+17 
+ 
+18 
+ 
+19 
+ see Exhibit __ (CPSP-8) for sample prior 
+20 
+invoices).  
+21 
+Q.  Do you agree with the FTE reduction? 
+22 
+REDACTED
+REDACTED
+REDACTED
+REDACTED
+REDACTED
+REDACTED
+REDACTED VERSION
+
+
+--- Page 28 ---
+25-E-0072 & 25-G-0073 
+ 
+CONSOLIDATED EDISON COMPANY OF NEW YORK, INC. 
+REBUTTAL TESTIMONY OF CYBER AND PHYSICAL SECURITY PANEL 
+ 
+27 
+ 
+A.  No. Staff’s reduction does not reflect the Company’s 
+1 
+funding needs in the rate years. The integration of 
+2 
+Information Technology (IT) and Operational Technology (OT) 
+3 
+networks has created new vulnerabilities and attack vectors 
+4 
+that our current staffing levels cannot adequately address. 
+5 
+The proposed funding and headcount are essential to 
+6 
+establish a dedicated security team with specialized OT 
+7 
+expertise. This team will develop tailored security 
+8 
+strategies and deploy advanced threat detection and 
+9 
+response capabilities specifically for HVN systems.  
+10 
+ 
+Additionally, cybersecurity threat landscape changes and 
+11 
+NIST frameworks changes require the Company to update its 
+12 
+current strategy, work functions and tools.  For example, 
+13 
+NIST continues to issue and update its new AI Risk 
+14 
+Management Framework introducing new guidelines for 
+15 
+assessing AI system risks and integrating AI into existing 
+16 
+risk management frameworks. It also introduced new 
+17 
+guidelines regarding supply chain risk, privacy risk 
+18 
+integration into the overall cybersecurity practices, and 
+19 
+emergency technologies like quantum computing and advanced 
+20 
+manufacturing. These updates reflect NIST's proactive 
+21 
+approach to addressing the rapidly changing cybersecurity 
+22 
+REDACTED VERSION
+
+
+--- Page 29 ---
+25-E-0072 & 25-G-0073 
+ 
+CONSOLIDATED EDISON COMPANY OF NEW YORK, INC. 
+REBUTTAL TESTIMONY OF CYBER AND PHYSICAL SECURITY PANEL 
+ 
+28 
+ 
+landscape and the need for organizations to adapt their 
+1 
+practices to emerging technologies and threats. Not only do 
+2 
+these changes indicate that the threat landscape has 
+3 
+evolved but also introduce new complexity to the overall 
+4 
+Company’s cybersecurity strategy, given the Company’s its 
+5 
+alignment with the NIST framework. 
+6 
+Q. 
+Please continue. 
+7 
+A. 
+Staff proposed to cut 13 Senior System Cyber Analysts when 
+8 
+we only requested 12 new Senior System Cyber Analysts.  
+9 
+As noted earlier, these analysts are an important component 
+10 
+of this program. 
+11 
+Q. 
+Is this Company hiring for these positions? 
+12 
+A.  Yes.  These positions are necessary immediately and we are 
+13 
+not waiting until the next rate period starts to hire for 
+14 
+these jobs. Of the open positions for the Cybersecurity 
+15 
+Infrastructure program, the Company has already hired two 
+16 
+of the 20 FTEs; these two positions are Senior Cyber 
+17 
+Analysts, which are part of the 13 Senior Cyber Analysts 
+18 
+that Staff is proposing to cut. The Company provided this 
+19 
+information in response to DPS-35-791, included in Exhibit 
+20 
+CPSP-6.   
+21 
+REDACTED VERSION
+
+
+--- Page 30 ---
+25-E-0072 & 25-G-0073 
+ 
+CONSOLIDATED EDISON COMPANY OF NEW YORK, INC. 
+REBUTTAL TESTIMONY OF CYBER AND PHYSICAL SECURITY PANEL 
+ 
+29 
+ 
+Q. 
+Why does the current O&M level not support the labor and 
+1 
+non-labor O&M needed for this program? 
+2 
+A.  We already have contracted O&M of approximately $1.2M in 
+3 
+RY1, while Staff allowed $880,000, leaving us almost 
+4 
+$400,000 short. This funding level will not allow for the 
+5 
+O&M tail for future projects, such as the Endpoint 
+6 
+Detection and Response and expansion of the OT Intrusion 
+7 
+Detection System.   
+8 
+Cyber Security and NERC Compliance 
+9 
+Q.  Please summarize the proposed Cyber Security and NERC 
+10 
+Compliance project. 
+11 
+A.  This project provides cybersecurity protections for the 
+12 
+Energy Control Center (ECC) and our bulk power system 
+13 
+through the deployment of technologies, controls, and 
+14 
+monitoring. Cybersecurity continues to be an increasing 
+15 
+risk which, if not reduced, can result in outages to our 
+16 
+customers.  This request is a NERC compliance requirement, 
+17 
+needed for compliance with CIP-005, CIP-007, CIP-010, CIP-
+18 
+011, and CIP-012. 
+19 
+Q.  Please describe Staff’s adjustment to the Cyber Security 
+20 
+and NERC Compliance project. 
+21 
+REDACTED VERSION
+
+
+--- Page 31 ---
+25-E-0072 & 25-G-0073 
+ 
+CONSOLIDATED EDISON COMPANY OF NEW YORK, INC. 
+REBUTTAL TESTIMONY OF CYBER AND PHYSICAL SECURITY PANEL 
+ 
+30 
+ 
+A.   In RY1, Staff recommends a capital expenditure of $4.34 
+1 
+million, a decrease of $2.856 million. Staff’s workpaper 
+2 
+indicates decreases to RY2 and RY3. In RY2, Staff 
+3 
+recommends capital expenditures of $4.173 million, a 
+4 
+decrease of $2.027 million. In RY3, Staff recommends 
+5 
+capital expenditures of $4.157 million, a decrease of 
+6 
+$1.544 million.    
+7 
+For O&M, in RY1, Staff recommends $676,000, which is a 
+8 
+decrease of $215,000. Staff’s workpaper indicates RY2 O&M 
+9 
+of $650,000, a decrease of $383,000, and in RY3, Staff 
+10 
+recommends $647,000, a decrease of $386,000.  
+11 
+Q.  Please comment on Staff’s rationale for its reductions. 
+12 
+A.  Staff stated that Con Edison did not provide enough quotes, 
+13 
+third party assessments or other analysis to justify the 
+14 
+capital and O&M estimates. Staff claims that estimating 
+15 
+based off historic purchases, vendor presentations, and 
+16 
+internet sources are not sufficient. They also state that 
+17 
+costs should be consistent with the historical three-year 
+18 
+average from 2023 to 2025 for capital.  
+19 
+Q.  Do you agree with the changes proposed by Staff, and if 
+20 
+not, what is your reasoning? 
+21 
+REDACTED VERSION
+
+
+--- Page 32 ---
+25-E-0072 & 25-G-0073 
+ 
+CONSOLIDATED EDISON COMPANY OF NEW YORK, INC. 
+REBUTTAL TESTIMONY OF CYBER AND PHYSICAL SECURITY PANEL 
+ 
+31 
+ 
+A.   No. We need to implement new capabilities within our bulk 
+1 
+power control center.  
+2 
+Q. 
+What projects are necessary now? 
+3 
+A. 
+Due to the upcoming requirements for CIP-015, the Company 
+4 
+must implement a packet broker solution to meet CIP-015 
+5 
+requirements prior to enforcement. The networking port 
+6 
+solution is necessary to secure connections from only 
+7 
+approved devices. These efforts awaited the completion of a 
+8 
+networking infrastructure upgrade, which occurred in 2024.  
+9 
+Q. 
+Has the Company provided information for this request? 
+10 
+A.   Quotes from purchases for prior similar work completed for 
+11 
+our corporate network are provided in Exhibit __ (CPSP-9).  
+12 
+ 
+For capital, in RY1, we plan to implement a packet broker 
+13 
+solution, which based on a 2023 quote (Packet Broker 
+14 
+Solution PDF), is estimated at $2.93 million before taxes. 
+15 
+The networking port security platform we plan to implement 
+16 
+is estimated at $.545 million (Network Port Security PDF). 
+17 
+We are also looking to implement load balancing and a patch 
+18 
+management solution. For RY2, we plan to purchase and 
+19 
+implement an automation solution for our cyber watch, code 
+20 
+scanning for internally built applications, a user endpoint 
+21 
+behavior analytics tool, deception technology which is 
+22 
+REDACTED VERSION
+
+
+--- Page 33 ---
+25-E-0072 & 25-G-0073 
+ 
+CONSOLIDATED EDISON COMPANY OF NEW YORK, INC. 
+REBUTTAL TESTIMONY OF CYBER AND PHYSICAL SECURITY PANEL 
+ 
+32 
+ 
+forecasted at approximately $2.5 million based on historic 
+1 
+implementation in other environments and replacing 
+2 
+firewalls that are end of life. For RY3, we plan to 
+3 
+implement a firewall management solution, replacing our 
+4 
+security information event manager hardware, and 
+5 
+implementing other technology that will be needed as 
+6 
+technology and cybersecurity risks evolve. The major driver 
+7 
+in capital cost for RY3 is replacing the hardware for our 
+8 
+SIEM technology as we have requirements around retention 
+9 
+and redundancy that require a significant amount of digital 
+10 
+storage space.    
+11 
+For O&M, we have implemented additional technologies in 
+12 
+previous years that are coming up for renewal and are 
+13 
+driving the request, because these costs will now be 
+14 
+charged to O&M, since the implementation period has ended. 
+15 
+Staff’s adjustments do not reflect the O&M tail associated 
+16 
+with these projects.  
+17 
+NERC Cyber and Physical Security Critical Infrastructure Upgrade 
+18 
+Q.  Please summarize the proposed NERC Cyber and Physical 
+19 
+Security Critical Infrastructure Upgrade program. 
+20 
+A. 
+The NERC Cyber and Physical Security Critical 
+21 
+Infrastructure Upgrade program is essential to comply with 
+22 
+REDACTED VERSION
+
+
+--- Page 34 ---
+25-E-0072 & 25-G-0073 
+ 
+CONSOLIDATED EDISON COMPANY OF NEW YORK, INC. 
+REBUTTAL TESTIMONY OF CYBER AND PHYSICAL SECURITY PANEL 
+ 
+33 
+ 
+NERC CIP Standards and to strengthen cyber security 
+1 
+controls and practices associated with BES Cyber Systems. 
+2 
+Under CIP standard 005 “Electronic Security Perimeter,” if 
+3 
+existing layer 2 non-routable serial communications, are 
+4 
+changed to layer 3 routable communications, significant 
+5 
+changes in substation infrastructure must be made for the 
+6 
+reliability and security of the electric system.  
+7 
+This program enables the transition to leased ethernet 
+8 
+circuits from Verizon and well as company owned multi-
+9 
+packet label switched (MPLS) circuits. NERC CIP considers 
+10 
+these packet-based communication systems are considered 
+11 
+Externally Routable Communications (ERC), mandating 
+12 
+compliance with over 40 additional requirements, including 
+13 
+access controls, remote password management, intrusion 
+14 
+detection and more. Aside from NERC CIP compliance, if the 
+15 
+proper cyber security controls are not in place as we 
+16 
+transition to these new circuits, substations will become 
+17 
+vulnerable to potential cyber-attacks. 
+18 
+Q. 
+Is the Company changing from serial to routable 
+19 
+communications? 
+20 
+A. 
+Yes.  But not based on the Company’s wishes.  The legacy 
+21 
+serial communication systems that provide critical controls 
+22 
+REDACTED VERSION
+
+
+--- Page 35 ---
+25-E-0072 & 25-G-0073 
+ 
+CONSOLIDATED EDISON COMPANY OF NEW YORK, INC. 
+REBUTTAL TESTIMONY OF CYBER AND PHYSICAL SECURITY PANEL 
+ 
+34 
+ 
+and indications to the ECC are no longer supported by the 
+1 
+telecom industry. In addition, critical protective relay 
+2 
+circuits utilize the same legacy serial-based 
+3 
+communications which have become obsolete and must be 
+4 
+replaced with packet-based communications.   
+5 
+Q. 
+What work will be done under this project? 
+6 
+A. 
+The Company will transition to ERC to meet regulatory and 
+7 
+security requirements. This will upgrade the backbone IT 
+8 
+infrastructure needed to properly place all necessary cyber 
+9 
+security controls in substations.  
+10 
+The Company will pilot the project in two substations to 
+11 
+confirm that the program works and is ready to be deployed 
+12 
+into another 30, and ultimately to all 100 plus 
+13 
+substations.  
+14 
+Q. 
+Is the backbone infrastructure needed for this project? 
+15 
+A. 
+Yes. The backbone IT infrastructure, regardless of how many 
+16 
+substations are connected to it, has the same capital cost 
+17 
+needed to establish firewalls, servers, cyber security 
+18 
+tools and other support equipment. (See the Company’s 
+19 
+response to DPS-21-539-Supp1, provided in see Exhibit __ 
+20 
+(CPSP-6)).    
+21 
+Q. 
+Please continue. 
+22 
+REDACTED VERSION
+
+
+--- Page 36 ---
+25-E-0072 & 25-G-0073 
+ 
+CONSOLIDATED EDISON COMPANY OF NEW YORK, INC. 
+REBUTTAL TESTIMONY OF CYBER AND PHYSICAL SECURITY PANEL 
+ 
+35 
+ 
+A. 
+This program will enable the transition to leased ethernet 
+1 
+circuits from Verizon and well as Company owned multi-
+2 
+packet label switched (MPLS) circuits.  These packet-based 
+3 
+communication systems are considered ERC in the eyes of 
+4 
+NERC CIP, requiring additional compliance, including access 
+5 
+controls, remote password management, intrusion detection 
+6 
+and more. Aside from NERC CIP compliance, if the proper 
+7 
+cyber security controls are not in place as we transition 
+8 
+to these new circuits, substations will become vulnerable 
+9 
+to potential cyber-attacks. As explained, the cyber threat 
+10 
+landscape is becoming more complex with utilities being a 
+11 
+main target. We need to create a comprehensive cyber 
+12 
+security system for substation operations. 
+13 
+Q.  Please describe Staff’s adjustment to the NERC Cyber and 
+14 
+Physical Security Critical Infrastructure Upgrade program. 
+15 
+A.  As it relates to the capital request, for RY1, Staff 
+16 
+recommends a $429,000 budget for RY1, a decrease of $ 
+17 
+14.571 million; for RY2, Staff recommends a $412,000 
+18 
+budget, decrease of $14.588; and for RY3, Staff recommends 
+19 
+$410,000, a decrease of $14.590 million.   
+20 
+Q.  What is Staff’s rationale for its reductions? 
+21 
+A.  This recommendation was based on historical spend. 
+22 
+REDACTED VERSION
+
+
+--- Page 37 ---
+25-E-0072 & 25-G-0073 
+ 
+CONSOLIDATED EDISON COMPANY OF NEW YORK, INC. 
+REBUTTAL TESTIMONY OF CYBER AND PHYSICAL SECURITY PANEL 
+ 
+36 
+ 
+Q. 
+Should historical spend be considered for this project? 
+1 
+A. 
+Absolutely not. The Company was not previously required to 
+2 
+comply with this requirement so there is no spending in the 
+3 
+historic year for this project. This funding is for pilot 
+4 
+program for two substations and then subsequently further 
+5 
+deployed.  
+6 
+Q. 
+Is this amount for the two substations and the backbone IT 
+7 
+system? 
+8 
+A. 
+Yes. The backbone IT infrastructure, regardless of how many 
+9 
+substations are connected to it, must be implemented before 
+10 
+connecting to one or 30 substations.    
+11 
+B. Adjustments to Physical Security 
+12 
+Q. 
+Does Staff recommend any adjustments to the Company’s 
+13 
+funding requests for physical security projects and 
+14 
+programs? 
+15 
+A. 
+Yes. Staff recommends adjustments to four projects and 
+16 
+programs: (1) Protective Intelligence and Countermeasures 
+17 
+program; (2) Facilities Security Upgrades program; (3) ECC 
+18 
+and Alternate ECC (AECC) Security Enhancements program; and 
+19 
+(4) ECC Relocation project. Each is discussed below. 
+20 
+Q.  In total, what reductions did Staff make? 
+21 
+REDACTED VERSION
+
+
+--- Page 38 ---
+25-E-0072 & 25-G-0073 
+ 
+CONSOLIDATED EDISON COMPANY OF NEW YORK, INC. 
+REBUTTAL TESTIMONY OF CYBER AND PHYSICAL SECURITY PANEL 
+ 
+37 
+ 
+A. 
+Regarding the Company’s physical security funding requests, 
+1 
+Staff proposes adjustments reducing the Company’s capital 
+2 
+expenditures by approximately $54 million in RY1, $20 
+3 
+million in RY2, and $97 million in RY3. In addition, Staff 
+4 
+proposes adjustments reducing the Company’s total O&M 
+5 
+expenses by approximately $1.2 million in RY1, $1.2 million 
+6 
+in RY2, and $1.2 million in RY3. Staff also proposes 
+7 
+reductions to the FTEs requested by the Company. Below we 
+8 
+address each adjustment in this category. 
+9 
+Protective Intelligence and Countermeasures 
+10 
+Q.  Please summarize the proposed Protective Intelligence and  
+11 
+Countermeasures program. 
+12 
+A.  This program will strengthen the Company’s ability to 
+13 
+deter, detect, delay, and defend its people, critical 
+14 
+infrastructure, and sensitive information against threats 
+15 
+and adversaries. The program consists of the following 
+16 
+three projects: (1) Random Anti-terrorism Measures (RAM); 
+17 
+(2) Threat Intelligence Platform; and (3) Facility Security 
+18 
+Enhancement. Together, these three projects will provide 
+19 
+the Company with capabilities that meet NERC and CISA 
+20 
+Office of Bombing Prevention requirements and guidelines. 
+21 
+This program will also implement security industry best 
+22 
+REDACTED VERSION
+
+
+--- Page 39 ---
+25-E-0072 & 25-G-0073 
+ 
+CONSOLIDATED EDISON COMPANY OF NEW YORK, INC. 
+REBUTTAL TESTIMONY OF CYBER AND PHYSICAL SECURITY PANEL 
+ 
+38 
+ 
+practices and support operational excellence consistent 
+1 
+with International Standards Organization (ISO) standards 
+2 
+relevant to personnel, physical, and supply chain security.  
+3 
+Q.  Please describe Staff’s adjustments to the Protective 
+4 
+Intelligence and Countermeasures program. 
+5 
+A.  Staff recommends a reduced capital budget of $3.5 million 
+6 
+in RY1, compared to the Company’s proposed budget of $5.50 
+7 
+million. These adjustments eliminate the proposed: 
+8 
+ballistic/anti-intrusion window project at the Company’s 
+9 
+Headquarters at 4 Irving Place; construction of a Sensitive 
+10 
+Compartmentalized Information Facility (SCIF) at 4 Irving 
+11 
+Place; and two of the three requested vehicles. 
+12 
+Additionally, Staff reduced the capital budget to $3.876 
+13 
+million in RY2 and $3.533 million in RY3. 
+14 
+  
+Staff also recommends a reduced O&M budget of $2.597 
+15 
+million in RY1, compared to the Company’s proposed budget 
+16 
+of $3.558 million in RY1. Staff also recommends a reduced 
+17 
+O&M budget of $4.462 million in RY2 and $7.145 million in 
+18 
+RY3. 
+19 
+ 
+These adjustments reduce the number of requested FTEs from 
+20 
+14 to 7.  
+21 
+REDACTED VERSION
+
+
+--- Page 40 ---
+25-E-0072 & 25-G-0073 
+ 
+CONSOLIDATED EDISON COMPANY OF NEW YORK, INC. 
+REBUTTAL TESTIMONY OF CYBER AND PHYSICAL SECURITY PANEL 
+ 
+39 
+ 
+ Q.  What is Staff’s rationale for its adjustments in these 
+1 
+areas? 
+2 
+A.  Staff generally states that it does not agree with the 
+3 
+Company’s proposed expenditures for the SCIF and the bullet 
+4 
+proof/anti intrusion rating of windows at 4 Irving Place. 
+5 
+Staff similarly states that it does not agree with two of 
+6 
+the three vehicles requested by the Company due to Staff’s 
+7 
+reduction of FTEs under this program. According to Staff, 
+8 
+these program components do not align with industry 
+9 
+requirements. Staff also claims that the Company did not 
+10 
+provide any information indicating that the windows to be 
+11 
+upgraded at 4 Irving Place are for the protection of 
+12 
+critical assets and did not provide any data of incidents 
+13 
+where windows were broken due to gunfire or intrusion.  
+14 
+Q.  Do you agree with the adjustments proposed by Staff? 
+15 
+A.  No. Overall, the Company’s requests are designed to meet 
+16 
+the changing physical security environment, including the 
+17 
+increasing threat landscape posed by domestic and 
+18 
+international terrorists, foreign intelligence entities, 
+19 
+Nation State Actors, and criminals. The Company delivers 
+20 
+energy to New York City, the largest and most populous city 
+21 
+in the United States, which has been the primary target of 
+22 
+REDACTED VERSION
+
+
+--- Page 41 ---
+25-E-0072 & 25-G-0073 
+ 
+CONSOLIDATED EDISON COMPANY OF NEW YORK, INC. 
+REBUTTAL TESTIMONY OF CYBER AND PHYSICAL SECURITY PANEL 
+ 
+40 
+ 
+numerous acts of terrorism throughout the 20th and 21st 
+1 
+centuries. New York City was the main target of the 1993 
+2 
+and 2001 attacks on the World Trade Center, which caused 
+3 
+significant loss of life and extensive damage to 
+4 
+infrastructure, including the Company’s energy systems. New 
+5 
+York City was also targeted in the October 2017 terrorist 
+6 
+attack, which resulted in loss of life.  
+7 
+In addition, over the last two years, utility companies in 
+8 
+several nearby states, including Maryland, Tennessee, and 
+9 
+New Jersey, have experienced attempted terrorist attacks 
+10 
+targeting their critical energy infrastructure. Although 
+11 
+these attacks were disrupted by the FBI, intelligence and 
+12 
+information released by various governmental agencies – 
+13 
+including the Office of the Director of National 
+14 
+Intelligence (ODNI), DHS, FBI, and National 
+15 
+Counterterrorism Threat Center, and state/local law 
+16 
+enforcement – continue to highlight increasing threats 
+17 
+targeting critical infrastructure by terrorists and foreign 
+18 
+intelligence entities. These evolving threats are well 
+19 
+documented in the DHS, National Counterintelligence 
+20 
+Security Center, ODNI, and state/local reports and 
+21 
+bulletins provided in Exhibit __ (CPSP-10). 
+22 
+REDACTED VERSION
+
+
+--- Page 42 ---
+25-E-0072 & 25-G-0073 
+ 
+CONSOLIDATED EDISON COMPANY OF NEW YORK, INC. 
+REBUTTAL TESTIMONY OF CYBER AND PHYSICAL SECURITY PANEL 
+ 
+41 
+ 
+Q. 
+Has the Company experienced instances of violence at 4 
+1 
+Irving Place and other Company locations? 
+2 
+A. 
+Yes. We have had two examples at 4 Irving Place in recent 
+3 
+years and numerous other examples elsewhere. For example, 
+4 
+on April 3, 2020, an intruder broke a second-floor window 
+5 
+at 4 Irving Place and gained access throughout the 
+6 
+building. Moreover, during protests in 2020, individuals 
+7 
+broke glass and caused other property damage at 4 Irving 
+8 
+Place.   
+9 
+These events justify the need to install ballistic 
+10 
+resistant windows and anti-intrusion film at 4 Irving 
+11 
+Place. Specifically, the windows at the Company 
+12 
+headquarters, which 
+ 
+13 
+ 
+14 
+ 
+ 
+ 
+ 
+ 
+ 
+ 
+ 
+  
+19 
+Q. 
+What will these windows do? 
+20 
+A. 
+The upgraded windows will reduce the risk posed by 
+21 
+potential terrorists and criminals seeking to enter 4 
+22 
+REDACTED
+REDACTED
+REDACTED
+REDACTED VERSION
+
+
+--- Page 43 ---
+25-E-0072 & 25-G-0073 
+ 
+CONSOLIDATED EDISON COMPANY OF NEW YORK, INC. 
+REBUTTAL TESTIMONY OF CYBER AND PHYSICAL SECURITY PANEL 
+ 
+42 
+ 
+Irving Place or otherwise harm persons or property within 
+1 
+the building.  
+2 
+Q. 
+Did the Company provide information justifying the need for 
+3 
+these windows? 
+4 
+A. 
+Yes. In its response to DPS-18-441, included in Exhibit __ 
+5 
+(CPSP-6), the Company provided information explaining the 
+6 
+need for these upgraded windows and describing the April 3, 
+7 
+2020 incident involving intrusion through a broken window. 
+8 
+Q. 
+Please discuss the proposed SCIF. 
+9 
+A. 
+Construction of a SCIF will enable the Company to secure 
+10 
+real-time access to sensitive and classified intelligence 
+11 
+provided by government agencies and enable authorized 
+12 
+personnel to review and analyze classified intelligence 
+13 
+without delay or requiring travel or access to a facility 
+14 
+controlled by an external government agency. The proposed 
+15 
+SCIF will also support time-sensitive decision-making for 
+16 
+regional and national security, including the security of 
+17 
+the Company’s energy systems; reduce the risk of potential 
+18 
+data leaks that could compromise security, intellectual 
+19 
+property, and research and development efforts; enable 
+20 
+effective, timely, and secure communications with DHS/CISA, 
+21 
+FBI, and the National Security Agency during a 
+22 
+REDACTED VERSION
+
+
+--- Page 44 ---
+25-E-0072 & 25-G-0073 
+ 
+CONSOLIDATED EDISON COMPANY OF NEW YORK, INC. 
+REBUTTAL TESTIMONY OF CYBER AND PHYSICAL SECURITY PANEL 
+ 
+43 
+ 
+cybersecurity incident involving a State-sponsored advanced 
+1 
+persistent threat or ransom incident requiring 
+2 
+communication of classified unlock codes. Installation of a 
+3 
+SCIF at 4 Irving Place will support NERC CIP-014-3(R4) 
+4 
+requirements and provide protection against insider threats 
+5 
+and espionage; prevent Nation State Actors, hackers, and 
+6 
+foreign intelligence entities from intercepting critical 
+7 
+information; limit unauthorized personnel from overhearing 
+8 
+or accessing sensitive, proprietary, and classified 
+9 
+information; and support continuity of operations (COOP) 
+10 
+and emergency response by enabling the Company to operate 
+11 
+its critical energy infrastructure without interruption 
+12 
+during security incidents and crises.  
+13 
+Q. 
+Does the Company agree with Staff’s vehicle adjustment? 
+14 
+A. 
+No. The three additional vehicles are required to meet the 
+15 
+operational needs within Corporate Security, including the 
+16 
+Capital Projects team, Insider Threat Program, and RAM 
+17 
+personnel assigned to the Investigations/Tactical Response 
+18 
+Teams. These teams conduct perimeter checks, perform camera 
+19 
+maintenance, respond to incidents, and perform other 
+20 
+duties, as assigned.  
+21 
+Q. 
+Does the Company agree with Staff’s FTE adjustment? 
+22 
+REDACTED VERSION
+
+
+--- Page 45 ---
+25-E-0072 & 25-G-0073 
+ 
+CONSOLIDATED EDISON COMPANY OF NEW YORK, INC. 
+REBUTTAL TESTIMONY OF CYBER AND PHYSICAL SECURITY PANEL 
+ 
+44 
+ 
+A. 
+No. The 14 incremental FTEs requested by the Company are 
+1 
+intended to protect Company personnel and critical 
+2 
+infrastructure from increasing threats posed by terrorists, 
+3 
+foreign intelligence entities, and criminals. These 
+4 
+additional FTEs will benefit customers through increased 
+5 
+risk/threat identification and mitigation by performing 
+6 
+skilled counterterrorism, counterintelligence, protective 
+7 
+intelligence, tactical response, and supply chain security 
+8 
+functions.  
+9 
+Facilities Security Upgrades 
+10 
+Q.  Please summarize the Facilities Security Upgrades program. 
+11 
+A. 
+This program includes proposed physical security upgrades 
+12 
+at the Company’s Astoria and East 16th Street facilities. 
+13 
+These proposed upgrades involve replacement of deteriorated 
+14 
+perimeter fencing with high-security, anti-cut, anti-climb 
+15 
+fencing and installation of lighting, cameras, access 
+16 
+controls, turnstiles, and gates. 
+17 
+Q.  Please describe Staff’s adjustments to the Facilities 
+18 
+Security Upgrades program. 
+19 
+A.  Staff proposes to eliminate this program entirely. 
+20 
+Q.  What is the basis for Staff’s proposal? 
+21 
+REDACTED VERSION
+
+
+--- Page 46 ---
+25-E-0072 & 25-G-0073 
+ 
+CONSOLIDATED EDISON COMPANY OF NEW YORK, INC. 
+REBUTTAL TESTIMONY OF CYBER AND PHYSICAL SECURITY PANEL 
+ 
+45 
+ 
+A.  Staff claims that the Company did not provide adequate 
+1 
+justification including detailed cost estimates for the 
+2 
+subprojects proposed under this program. 
+3 
+Q.  Does the Company agree with Staff’s proposal? 
+4 
+A. 
+No. The projects proposed under this program involve 
+5 
+replacement of perimeter fencing that protects 
+6 
+infrastructure, including electric switchgear, power plant 
+7 
+property, liquefied natural gas facilities, important 
+8 
+material storage areas, backup transformers, and our 
+9 
+emergency mobile generator yard. These areas are critical 
+10 
+and must remain protected. The proactive projects proposed 
+11 
+under this program will provide for such protection. 
+12 
+Q. 
+What happens if the proposed work is not performed? 
+13 
+A. 
+There can be security issues. For example, at the 28th 
+14 
+Street Service Center, over 250 feet of perimeter fencing 
+15 
+collapsed suddenly in March 2021 due to structural 
+16 
+deterioration. This failure compromised physical security 
+17 
+by exposing the site to the public and created a serious 
+18 
+safety hazard because the heavy fencing fell onto a public 
+19 
+sidewalk. Delaying the work proposed under this program 
+20 
+will increase the risk of a similar fence failure and 
+21 
+potential security breach at the proposed project sites. 
+22 
+REDACTED VERSION
+
+
+--- Page 47 ---
+25-E-0072 & 25-G-0073 
+ 
+CONSOLIDATED EDISON COMPANY OF NEW YORK, INC. 
+REBUTTAL TESTIMONY OF CYBER AND PHYSICAL SECURITY PANEL 
+ 
+46 
+ 
+Proceeding with these upgrades is essential to protect the 
+1 
+Company’s facilities. 
+2 
+Q. 
+Does the Company have detailed cost estimates for the 
+3 
+recent Facilities Security Upgrades performed at the 
+4 
+Farrington Service Center that would help Staff assess the 
+5 
+current funding requests under this program? 
+6 
+A. 
+Yes. The Company has a detailed cost estimate for the 
+7 
+upgraded fencing recently installed under this program at 
+8 
+the Farrington Service Center. As part of that work, 
+9 
+completed in May 2022, the Company installed new rolling 
+10 
+gates for both pedestrian and vehicle entry, with upgraded 
+11 
+cameras and card access equipment. The Company also 
+12 
+installed upgraded high-security, no-cut, no-climb fencing 
+13 
+to strengthen perimeter protection. This work was necessary 
+14 
+because the Company had experienced repeated security 
+15 
+breaches at the Farrington yard, including perimeter 
+16 
+intrusions, inventory theft, and instances of vehicle 
+17 
+vandalism. The unit costs of the Farrington project are 
+18 
+consistent with the cost of projects proposed under this 
+19 
+program.  
+20 
+The Company also has a detailed draft cost estimate for the 
+21 
+proposed project at the Astoria Luyster Creek site. A final 
+22 
+REDACTED VERSION
+
+
+--- Page 48 ---
+25-E-0072 & 25-G-0073 
+ 
+CONSOLIDATED EDISON COMPANY OF NEW YORK, INC. 
+REBUTTAL TESTIMONY OF CYBER AND PHYSICAL SECURITY PANEL 
+ 
+47 
+ 
+detailed estimate will be available for the Astoria Luyster 
+1 
+Creek project upon completion of design work.  
+2 
+Copies of these cost estimates were provided to Staff in 
+3 
+the Company’s response to DPS-50-1027-Supp1. The Company 
+4 
+also provided additional work scope information for each 
+5 
+proposed subproject in its response to DPS-50-1027-Supp2. 
+6 
+Copies of these responses are included in Exhibit __ (CPSP-
+7 
+6).   
+8 
+ECC and Alternate ECC Security Enhancements 
+9 
+Q.  Please summarize the ECC and AECC Security Enhancements 
+10 
+program. 
+11 
+A.  This program includes multiple technology upgrades to 
+12 
+strengthen the existing security posture of both the ECC 
+13 
+and AECC against current and emerging physical and cyber 
+14 
+threats. These proposed enhancements address physical 
+15 
+security risks, cyber vulnerabilities with physical 
+16 
+security systems, and other evolving threats, including 
+17 
+potential drone incursions and chemical/biological attacks. 
+18 
+This program also provides for ongoing compliance with 
+19 
+regulatory requirements established by FERC, NERC, NYSRC, 
+20 
+and NPCC.  
+21 
+REDACTED VERSION
+
+
+--- Page 49 ---
+25-E-0072 & 25-G-0073 
+ 
+CONSOLIDATED EDISON COMPANY OF NEW YORK, INC. 
+REBUTTAL TESTIMONY OF CYBER AND PHYSICAL SECURITY PANEL 
+ 
+48 
+ 
+Q.  Please describe Staff’s adjustments to the ECC and AECC 
+1 
+Security Enhancements program. 
+2 
+A.   Staff recommends a reduced capital budget of $3.110 million 
+3 
+in RY1, compared to the Company’s proposed budget of $5.89 
+4 
+million. These adjustments eliminate funding for the 
+5 
+proposed Chemical and Biological HVAC Detection System 
+6 
+project; the Drone Detection project (Phase III); the 
+7 
+Physical Security Point project; and the Physical Access 
+8 
+Control System upgrade. Staff also recommends a reduced 
+9 
+capital budget of $3.115 million in RY2 and $1.154 million 
+10 
+in RY3.  
+11 
+Additionally, Staff recommends rejecting the incremental 
+12 
+FTEs proposed by the Company under this program. 
+13 
+Q.  What is Staff’s rationale for its adjustments to this 
+14 
+program? 
+15 
+A.  Staff claims that the Company did not provide adequate 
+16 
+information to substantiate the need for these projects or 
+17 
+the associated incremental FTEs. Staff also contends that 
+18 
+the Chemical and Biological HVAC Detection System Project 
+19 
+and the Drone Detection Project (Phase III) do not align 
+20 
+with industry requirements.  
+21 
+REDACTED VERSION
+
+
+--- Page 50 ---
+25-E-0072 & 25-G-0073 
+ 
+CONSOLIDATED EDISON COMPANY OF NEW YORK, INC. 
+REBUTTAL TESTIMONY OF CYBER AND PHYSICAL SECURITY PANEL 
+ 
+49 
+ 
+Q.  Does the Company agree with the adjustments proposed by 
+1 
+Staff? 
+2 
+A. 
+No, we do not. The Company’s physical security methodology 
+3 
+focuses on protecting people, assets, and facilities from 
+4 
+physical threats, including unauthorized access, theft, 
+5 
+vandalism, terrorism, and natural disasters. These goals 
+6 
+are achieved through various proactive strategies involving 
+7 
+Risk Assessment, Security Planning, Access Control, 
+8 
+Surveillance and Detection, Response and Recovery, Testing 
+9 
+and Auditing, and Continuous Improvements. This approach 
+10 
+requires the Company to regularly modify and upgrade 
+11 
+physical security equipment and processes at both the ECC 
+12 
+and AECC to address existing vulnerabilities and the 
+13 
+evolving threat landscape.  
+14 
+The ECC and AECC are designed with matching operational and 
+15 
+security practices. The AECC is located 
+ 
+16 
+ 
+17 
+ This 
+18 
+creates potential security risk for the AECC because 
+ 
+19 
+ 
+20 
+, which is present at the 
+21 
+ECC. This 
+ at the 
+22 
+REDACTED
+REDACTED
+REDACTED
+REDACTED
+REDACTED
+REDACTED
+REDACTED
+REDACTED VERSION
+
+
+--- Page 51 ---
+25-E-0072 & 25-G-0073 
+ 
+CONSOLIDATED EDISON COMPANY OF NEW YORK, INC. 
+REBUTTAL TESTIMONY OF CYBER AND PHYSICAL SECURITY PANEL 
+ 
+50 
+ 
+AECC. In addition,
+ 
+1 
+ 
+2 
+ Thus, 
+ 
+3 
+ at the AECC. In its response to DPS-
+4 
+27-653, provided in Exhibit __ (CPSP-6), the Company 
+5 
+explained that the proposed Physical Security Point project 
+6 
+and Access Control System Upgrade are needed to keep up 
+7 
+with evolving security threats and to comply with NERC CIP 
+8 
+standards.  
+9 
+Q. 
+Do the Chemical and Biological HVAC Detection System 
+10 
+project as well as the Drone Detection project align with 
+11 
+industry standards? 
+12 
+A. 
+Yes. The Company’s proposed Chemical and Biological HVAC 
+13 
+Detection System project and the Drone Detection project 
+14 
+(Phase III) align with industry standards and best 
+15 
+practices widely adopted by federal, state, and local 
+16 
+agencies, as well as critical infrastructure operators, and 
+17 
+high-security commercial building owners. Such standards 
+18 
+and best practices can be found in the New York City Police 
+19 
+Department (NYPD) Engineering Security Manual; the DHS 
+20 
+Homeland Security Science and Technology Advisory Committee 
+21 
+(HSSTAC) Chemical, Biological, Radiological, and Nuclear 
+22 
+REDACTED
+REDACTED
+REDACTED
+REDACTED
+REDACTED
+REDACTED VERSION
+
+
+--- Page 52 ---
+25-E-0072 & 25-G-0073 
+ 
+CONSOLIDATED EDISON COMPANY OF NEW YORK, INC. 
+REBUTTAL TESTIMONY OF CYBER AND PHYSICAL SECURITY PANEL 
+ 
+51 
+ 
+defense (CBRN) Detection White Paper; and the CISA & 
+1 
+National Infrastructure Advisory Council (NIAC) Final 
+2 
+Report. Copies of these documents are provided in Exhibit 
+3 
+__ (CPSP-11).    
+4 
+Q.  Does the Company agree with Staff’s adjustment for the 
+5 
+incremental FTEs requested under this program? 
+6 
+A.  No, we do not. The two incremental FTEs requested by the 
+7 
+Company support several key aspects of strengthening the 
+8 
+security posture at the ECC and AECC under this program, 
+9 
+including: 
+10 
+• Layered Security Operations – Additional staffing 
+11 
+provides a more robust barrier against potential threats. 
+12 
+• Emergency Response and Continuity – In the event of an 
+13 
+emergency, operational security and communication can be 
+14 
+handled while other FTEs support the response.   
+15 
+• Continuous Coverage and Redundancy - Additional staffing 
+16 
+provides flexibility, redundancy, and continuity with 
+17 
+coverage gaps. 
+18 
+• Compliance with Industry Standards - Standards like NERC 
+19 
+CIP, FEMA 426, and DHS CISA recommend multi-person 
+20 
+security teams for critical infrastructure to ensure 
+21 
+redundancy and resilience. 
+22 
+REDACTED VERSION
+
+
+--- Page 53 ---
+25-E-0072 & 25-G-0073 
+ 
+CONSOLIDATED EDISON COMPANY OF NEW YORK, INC. 
+REBUTTAL TESTIMONY OF CYBER AND PHYSICAL SECURITY PANEL 
+ 
+52 
+ 
+• Enhanced Deterrence and Visibility - A larger, visible 
+1 
+security presence deters threats more effectively. 
+2 
+ECC Relocation 
+3 
+Q. 
+Please summarize the Energy Control Center Relocation 
+4 
+project. 
+5 
+A.  The Company’s existing ECC has been in operation at its 
+6 
+current location in midtown Manhattan for over sixty years. 
+7 
+This project involves the initial stages of planning and 
+8 
+property acquisition to support construction of a new ECC 
+9 
+at a different location outside of New York City. The 
+10 
+Company has not yet identified a location for the new ECC.  
+11 
+Q. 
+Why does the Company need to relocate the ECC? 
+12 
+A. 
+There are several reasons to relocate the ECC, including: 
+13 
+• System Reliability 
+14 
+The operators and systems at the ECC enable the Company 
+15 
+to maintain world-class reliability. The ECC is therefore 
+16 
+critical to Con Edison’s customers, including: 
+17 
+o 8.5 million residents in New York City. 
+18 
+o 1 million residents in Westchester County. 
+19 
+o The Nation’s financial center and many other 
+20 
+industries, including the advertising, theater, and 
+21 
+restaurant industries.  
+22 
+REDACTED VERSION
+
+
+--- Page 54 ---
+25-E-0072 & 25-G-0073 
+ 
+CONSOLIDATED EDISON COMPANY OF NEW YORK, INC. 
+REBUTTAL TESTIMONY OF CYBER AND PHYSICAL SECURITY PANEL 
+ 
+53 
+ 
+o The Metropolitan Transportation Authority (MTA), which 
+1 
+operates the largest commuter transit system in the 
+2 
+country, serving New York City, southeastern New York, 
+3 
+Long Island, and parts of Connecticut, with 
+4 
+approximately 2.6 billion trips annually. 
+5 
+o Two major regional airports.  
+6 
+o Various hospitals and medical centers. 
+7 
+Issues or problems at the ECC can significantly affect 
+8 
+system-wide reliability and millions of customers across 
+9 
+the tri-state area. For example, 
+ 
+10 
+ 
+11 
+ 
+ 
+ 
+ 
+ 
+ 
+ 
+ 
+ 
+16 
+• Natural Disasters 
+17 
+The ECC was constructed in the 1960s, before New York 
+18 
+City established modern building requirements for 
+19 
+hurricanes and flooding in the 1980s and for earthquakes 
+20 
+in the mid-1990s. As a result, the current ECC is not 
+21 
+REDACTED
+REDACTED
+REDACTED
+REDACTED VERSION
+
+
+--- Page 55 ---
+25-E-0072 & 25-G-0073 
+ 
+CONSOLIDATED EDISON COMPANY OF NEW YORK, INC. 
+REBUTTAL TESTIMONY OF CYBER AND PHYSICAL SECURITY PANEL 
+ 
+54 
+ 
+built to withstand the impact of major hurricanes and 
+1 
+earthquakes. 
+2 
+• Physical Security 
+3 
+The ECC is located in a highly congested area of midtown 
+4 
+Manhattan, surrounded by buildings and constant 
+5 
+pedestrian and vehicle traffic. The facility is also 
+6 
+surrounded 
+ 
+7 
+ 
+8 
+. The current location and site layout provide no 
+9 
+room for installation of 
+ 
+10 
+ 
+ 
+ 
+12 
+The site is bordered on the west side by
+ 
+13 
+with 
+. To the east, 
+14 
+the site is bordered by 
+, 
+15 
+with 
+. The north 
+16 
+and south sides are bordered by high rise buildings with 
+17 
+  
+18 
+The ECC is within walking distance of Lincoln Center, the 
+19 
+1, 2, 3, B, and D subway lines, and five bus routes. The 
+20 
+ECC is two miles from Penn Station and Grand Central 
+21 
+Terminal. The mass transportation entrances and exits 
+22 
+REDACTED
+REDACTED
+REDACTED
+REDACTED
+REDACTED
+REDACTED
+REDACTED
+REDACTED
+REDACTED
+REDACTED
+REDACTED VERSION
+
+
+--- Page 56 ---
+25-E-0072 & 25-G-0073 
+ 
+CONSOLIDATED EDISON COMPANY OF NEW YORK, INC. 
+REBUTTAL TESTIMONY OF CYBER AND PHYSICAL SECURITY PANEL 
+ 
+55 
+ 
+increase pedestrian and vehicle traffic in the area, with 
+1 
+many one-way streets causing vehicle choke points.  
+2 
+These factors create a heavily congested area around the 
+3 
+existing ECC. Certain risks and threats, including 
+4 
+potential civil unrest, accidents, and terrorism, are 
+5 
+greater in this type of highly congested location. 
+6 
+• Physical Space 
+7 
+There is no more available space at the ECC to meet the 
+8 
+Company’s needs in terms of additional workspace, 
+9 
+headcount, and equipment. The Company has a total of 179 
+10 
+employees currently working at the ECC across all shifts. 
+11 
+Our Certificate of Occupancy for the ECC permits a total 
+12 
+of 115 people at any given time between the second-floor 
+13 
+office spaces and the third floor including the control 
+14 
+rooms. Thus, The Company is currently at full headcount 
+15 
+capacity for the ECC.  
+16 
+The Company will need to build a new desk at the ECC to 
+17 
+support the Reliable Clean City Projects (RCCPs), which 
+18 
+are intended to bring 6-16 GW of battery storage and 
+19 
+approximately 7.6 GW of offshore wind generation by 2040, 
+20 
+to meet electrification and clean energy targets. This 
+21 
+new desk is therefore needed to manage and monitor these 
+22 
+REDACTED VERSION
+
+
+--- Page 57 ---
+25-E-0072 & 25-G-0073 
+ 
+CONSOLIDATED EDISON COMPANY OF NEW YORK, INC. 
+REBUTTAL TESTIMONY OF CYBER AND PHYSICAL SECURITY PANEL 
+ 
+56 
+ 
+additional loads at the ECC. This new RCCP desk will 
+1 
+require additional space for equipment cabinets and 
+2 
+display boards. However, there is no more available space 
+3 
+for such equipment at the ECC. All available spaces on 
+4 
+the sides of existing major display boards are occupied 
+5 
+with other equipment. Adding new workspaces will not be 
+6 
+possible without a significant structural addition to the 
+7 
+building. 
+8 
+Q. 
+Can the Company renovate the existing ECC to address 
+9 
+current and future needs? 
+10 
+A. 
+The Company does not believe that the current ECC can be 
+11 
+cost-effectively renovated to meet its current and future 
+12 
+needs. 
+13 
+Q. 
+Please explain. 
+14 
+A. 
+The current ECC was built in the 1960s with major 
+15 
+renovations in the 1980s and again in 2007. Thus, the 
+16 
+existing ECC is due for a major renovation. 
+17 
+The existing building needs significant upgrades to 
+18 
+incorporate technological advances since the last major 
+19 
+renovation. The existing building also needs more 
+20 
+workspaces to accommodate additional equipment and 
+21 
+increases in staffing. However, the only option for 
+22 
+REDACTED VERSION
+
+
+--- Page 58 ---
+25-E-0072 & 25-G-0073 
+ 
+CONSOLIDATED EDISON COMPANY OF NEW YORK, INC. 
+REBUTTAL TESTIMONY OF CYBER AND PHYSICAL SECURITY PANEL 
+ 
+57 
+ 
+creating additional workspaces at the existing ECC is to 
+1 
+build upward, which would be a challenging, time-consuming, 
+2 
+and expensive process.  
+3 
+Q. 
+Please discuss the challenges of adding another floor to 
+4 
+the existing building. 
+5 
+A. 
+Adding another floor to a large building, especially in 
+6 
+midtown Manhattan, would require careful planning and 
+7 
+execution, including structural assessments, complex design 
+8 
+considerations, and adherence to local building codes. This 
+9 
+type of project would also involve engineering evaluations 
+10 
+to confirm that the existing structure and substation could 
+11 
+support the added weight of a new floor; designing the new 
+12 
+floor's layout and materials; and addressing many other 
+13 
+potential issues, including height restrictions, 
+14 
+ventilation, possible asbestos abatement, and architectural 
+15 
+compatibility. This level of construction would likely 
+16 
+require the Company to bring existing building components 
+17 
+and systems up to code, further increasing costs. For 
+18 
+example, the LAN rooms are the only areas within the ECC 
+19 
+that have a fire suppression system (FM200). The building 
+20 
+itself has been grandfathered and is not required to have a 
+21 
+fire suppression system. This type of system, however, is 
+22 
+REDACTED VERSION
+
+
+--- Page 59 ---
+25-E-0072 & 25-G-0073 
+ 
+CONSOLIDATED EDISON COMPANY OF NEW YORK, INC. 
+REBUTTAL TESTIMONY OF CYBER AND PHYSICAL SECURITY PANEL 
+ 
+58 
+ 
+required for new buildings and buildings that undergo 
+1 
+significant renovations. As such, the Company could be 
+2 
+required to install a fire suppression system serving the 
+3 
+entire building if significant renovations are undertaken. 
+4 
+Adding another floor could also require the Company to 
+5 
+temporarily relocate portions of the ECC during 
+6 
+construction, which would also increase costs.  
+7 
+Q. 
+Please continue. 
+8 
+A. 
+Moreover, a full renovation of the ECC would incorporate 
+9 
+improvements to meet NERC best practices, including 
+10 
+ 
+11 
+. Some NERC best practices, however, 
+12 
+would be impossible to meet at the current location. For 
+13 
+example, at the ECC’s current location, it would be 
+14 
+impossible to provide the recommended property line setback 
+15 
+of 300 feet. These best practices are discussed in the NERC 
+16 
+Security Considerations High-Impact Control Centers 
+17 
+Guideline document. These best practices are also discussed 
+18 
+in the North American Transmission Forum (NATF) 
+19 
+Transmission Operations Control Center Design, 
+20 
+Construction, and Environment Reference Document. Copies of 
+21 
+these NERC and NATF documents are provided in Exhibit __ 
+22 
+REDACTED
+REDACTED
+REDACTED VERSION
+
+
+--- Page 60 ---
+25-E-0072 & 25-G-0073 
+ 
+CONSOLIDATED EDISON COMPANY OF NEW YORK, INC. 
+REBUTTAL TESTIMONY OF CYBER AND PHYSICAL SECURITY PANEL 
+ 
+59 
+ 
+(CPSP-12). It would also be impossible to completely 
+1 
+mitigate the threats and risks posed by the ECC’s current 
+2 
+location in midtown Manhattan, in the vicinity of other 
+3 
+potential terrorist targets.  
+4 
+The cost of fully renovating the existing ECC to address 
+5 
+security concerns, add new workspaces, and bring the 
+6 
+building up to date and in compliance with City codes and 
+7 
+regulations, would be significant. In total, such costs may 
+8 
+be comparable to (if not greater than) the cost of building 
+9 
+a new ECC at another location. A full renovation, however, 
+10 
+would not be able to address many of the security concerns 
+11 
+with the current location.  
+12 
+Q.  Please describe Staff’s adjustments to the ECC Relocation 
+13 
+project. 
+14 
+A.  Staff proposes to eliminate this project. Additionally, 
+15 
+SEIOP proposes to remove funding for this project.  
+16 
+Q. 
+Why does Staff recommend no funding for this project? 
+17 
+A. 
+SUSP contends that there is no evidence to support the 
+18 
+current physical location of the ECC as a vulnerability.  
+19 
+ 
+In addition, SEIOP claims that the Company’s need for 
+20 
+additional workspace, including for incremental FTEs to 
+21 
+monitor increasing wind farms and transmission-level 
+22 
+REDACTED VERSION
+
+
+--- Page 61 ---
+25-E-0072 & 25-G-0073 
+ 
+CONSOLIDATED EDISON COMPANY OF NEW YORK, INC. 
+REBUTTAL TESTIMONY OF CYBER AND PHYSICAL SECURITY PANEL 
+ 
+60 
+ 
+battery systems, can be met by creating permanent 
+1 
+workstations at the Company’s Alternate ECC.  
+2 
+Q.  Does the Company agree with these adjustments? 
+3 
+A. 
+No. As discussed above, there are multiple reasons to 
+4 
+relocate the ECC. Additionally, the rationale provided by 
+5 
+SUSP does not consider current physical security conditions 
+6 
+and limitations at the existing location, including the 
+7 
+Company’s inability to meet industry best practices. These 
+8 
+physical security conditions and limitations were 
+9 
+identified in the Company’s response to DPS-46-948, 
+10 
+provided in Exhibit __ (CPSP-6). 
+11 
+Q. 
+Can incremental FTEs be assigned to new permanent 
+12 
+workstations created at the Company’s AECC, as suggested by 
+13 
+SEIOP? 
+14 
+A. 
+No. The AECC was designed as the backup control center for 
+15 
+use during emergency operations where the ECC is not 
+16 
+available. The AECC has limited physical space and does not 
+17 
+have sufficient capacity for new permanent FTE 
+18 
+workstations, as suggested by SEIOP.  
+19 
+Q. 
+Please describe the City’s recommendations concerning the 
+20 
+ECC Relocation project. 
+21 
+REDACTED VERSION
+
+
+--- Page 62 ---
+25-E-0072 & 25-G-0073 
+ 
+CONSOLIDATED EDISON COMPANY OF NEW YORK, INC. 
+REBUTTAL TESTIMONY OF CYBER AND PHYSICAL SECURITY PANEL 
+ 
+61 
+ 
+A. 
+NYCEIOP recommends that an in-depth review of cost-
+1 
+effective solutions including a plan to address 
+2 
+infrastructure replacement should be performed before the 
+3 
+ECC Relocation project moves forward. 
+4 
+Q.  Does the Company agree with the City’s recommendation? 
+5 
+A. 
+No, we do not. The Company has considered available 
+6 
+solutions and has determined that relocating the ECC is the 
+7 
+most cost-effective option.   
+8 
+Q. 
+Does this conclude your rebuttal testimony? 
+9 
+A. 
+Yes. 
+10 
+REDACTED VERSION

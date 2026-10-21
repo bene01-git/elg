@@ -1,0 +1,2957 @@
+--- Page 1 ---
+ 
+ 
+BEFORE THE 
+NEW YORK STATE 
+PUBLIC SERVICE COMMISSION 
+----------------------------------------------------------------------------x 
+ 
+Proceeding on Motion of the Commission as to the 
+Rates, Charges, Rules and Regulations of  
+ 
+ 
+Case 22-E- ____ 
+New York State Electric & Gas Corporation 
+for Electric Service 
+ 
+Proceeding on Motion of the Commission as to the 
+Rates, Charges, Rules and Regulations of  
+ 
+ 
+Case 22-G- ____ 
+New York State Electric & Gas Corporation 
+for Gas Service 
+ 
+Proceeding on Motion of the Commission as to the 
+Rates, Charges, Rules and Regulations of  
+ 
+ 
+Case 22-E- ____ 
+Rochester Gas and Electric Corporation 
+for Electric Service 
+ 
+Proceeding on Motion of the Commission as to the 
+Rates, Charges, Rules and Regulations of  
+ 
+ 
+Case 22-G- ____ 
+Rochester Gas and Electric Corporation 
+for Gas Service 
+----------------------------------------------------------------------------x 
+ 
+ 
+DIRECT TESTIMONY OF DELIVERIES AND REVENUES PANEL 
+(NEW YORK STATE ELECTRIC & GAS CORPORATION) 
+ 
+Alexandra G. Boecke 
+David L. Houlihan 
+Michael J. Purtell 
+Laura J. Wakefield 
+Shari M. Wells 
+John J. Zdimal III 
+ 
+ 
+ 
+ 
+May 26, 2022 
+ 
+ 
+
+
+--- Page 2 ---
+Case 22-E-____; Case 22-G-____; Case 22-E-____; Case 22-G-____ 
+DIRECT TESTIMONY OF NYSEG DELIVERIES AND REVENUES PANEL 
+i 
+TABLE OF CONTENTS 
+1 
+I.
+INTRODUCTION ..................................................................................................... 1 
+2 
+II.
+OVERVIEW OF TESTIMONY ................................................................................ 5 
+3 
+III.
+IDENTIFICATION AND SUMMARY OF EXHIBITS ........................................... 7 
+4 
+IV.
+ELECTRIC DELIVERIES AND CUSTOMERS ...................................................... 9 
+5 
+A.
+Electric Deliveries Forecast ................................................................................. 9 
+6 
+B.
+Electric Customer Forecast ................................................................................ 23 
+7 
+C.
+Model Validation................................................................................................ 25 
+8 
+V.
+ELECTRIC DELIVERY REVENUE ...................................................................... 26 
+9 
+VI.
+ELECTRIC REVENUE DECOUPLING MECHANISM ....................................... 34 
+10 
+VII. NATURAL GAS DELIVERIES AND CUSTOMERS FORECAST ..................... 34 
+11 
+A.
+Natural Gas Deliveries Forecast ......................................................................... 34 
+12 
+B.
+Natural Gas Customer Forecast.......................................................................... 40 
+13 
+C.
+Allocation of Forecasts Among Sales and Transportation Service Classes ....... 41 
+14 
+D.
+Model Validation................................................................................................ 41 
+15 
+VIII. GAS DELIVERY REVENUES ............................................................................... 42 
+16 
+IX.
+GAS REVENUE DECOUPLING MECHANISM .................................................. 47 
+17 
+ 
+
+
+--- Page 3 ---
+Case 22-E-____; Case 22-G-____; Case 22-E-____; Case 22-G-____ 
+ 
+DIRECT TESTIMONY OF NYSEG DELIVERIES AND REVENUES PANEL 
+ 
+ 
+I. INTRODUCTION 
+1 
+ 
+Please state the names of the members on this New York State Electric & Gas 
+2 
+Corporation Deliveries and Revenues Panel (“Panel”).  
+3 
+A. 
+We are Alexandra G. Boecke, David L. Houlihan, Michael J.  Purtell, Laura J. Wakefield, 
+4 
+Shari M. Wells, and John J. Zdimal III. 
+5 
+ 
+Ms. Boecke, please state your title and business address. 
+6 
+A. 
+I am the Manager of Sales and Load Forecasting in the Rates and Regulatory Economics 
+7 
+Department.  My business address is 18 Link Drive, Binghamton, New York 13902. 
+8 
+ 
+Please summarize your work experience and educational background. 
+9 
+A. 
+I have been with New York State Electric & Gas Corporation (“NYSEG” or the 
+10 
+“Company”) since 2009.  I started my career in NYSEG’s Gas Supply group where I held 
+11 
+various positions through 2018.  I held a Program Manager position with NYSEG from 
+12 
+2018-2020 and in 2020 started serving as Manager of Sales and Load Forecasting for 
+13 
+NYSEG and Rochester Gas and Electric Corporation (“RG&E” and together with 
+14 
+NYSEG, the “Companies”).  I received a BS in Financial Economics from Binghamton 
+15 
+University and an MBA from Empire State College.  My Curriculum Vitae (“CV”) is set 
+16 
+forth in Exhibit __ (NYSEGDRP-1) 
+17 
+ 
+Have you previously testified in other proceedings before the New York State Public 
+18 
+Service Commission (“PSC” or “Commission”) or any other state or federal regulatory 
+19 
+agency? 
+20 
+A. 
+Yes.  I testified in the Companies’ most recent cases, Cases 19-E-0378 et al. (the “2019 
+21 
+Rate Case”). 
+22 
+
+
+--- Page 4 ---
+Case 22-E-____; Case 22-G-____; Case 22-E-____; Case 22-G-____ 
+ 
+DIRECT TESTIMONY OF NYSEG DELIVERIES AND REVENUES PANEL 
+ 
+2 
+ 
+Mr. Houlihan, please state your title and business address. 
+1 
+ 
+I am a Lead Analyst in the Rates and Regulatory Economics Department.  My business 
+2 
+address is 18 Link Drive, Binghamton, New York 13902. 
+3 
+ 
+Please summarize your work experience and educational background. 
+4 
+A. 
+I graduated with a BS in finance from Syracuse University in 1977.  I have been with 
+5 
+NYSEG since 1996, beginning as an internal auditor.  Since then, I have worked as a 
+6 
+Lead Analyst in the Budget department and in the Electric Supply group.  I have been a 
+7 
+Lead Analyst in the Sales and Forecasting section of the Rates and Regulatory 
+8 
+Economics Department since 2010.  My CV is set forth in Exhibit __ (NYSEGDRP-1). 
+9 
+ 
+Have you previously testified in other proceedings before the Commission or any other 
+10 
+state or federal regulatory agency? 
+11 
+A. 
+Yes.  I previously testified before the Commission in the 2019 Rate Case.   
+12 
+ 
+Mr. Purtell, please state your title and business address. 
+13 
+A. 
+My title is Director – Regulatory.  My business address is 18 Link Drive, Binghamton, 
+14 
+New York 13902. 
+15 
+ 
+Please summarize your work experience and educational background. 
+16 
+A. 
+I have been with NYSEG since 1991 and have been its sales forecaster since 2001.  By 
+17 
+2003, I was responsible for preparing electric and gas sales forecasts for both NYSEG 
+18 
+and RG&E.  In 2010, I was named Manager of Sales and Load Forecasting for NYSEG, 
+19 
+RG&E, and Central Maine Power (“CMP”).  Since 2020, I have served as Director-
+20 
+Regulatory responsible for overseeing sales and load forecasting across the Avangrid 
+21 
+Networks companies.  I received a BS in Mathematics from Franciscan University in 
+22 
+
+
+--- Page 5 ---
+Case 22-E-____; Case 22-G-____; Case 22-E-____; Case 22-G-____ 
+ 
+DIRECT TESTIMONY OF NYSEG DELIVERIES AND REVENUES PANEL 
+ 
+3 
+1989 and a MS in Systems Science from Binghamton University's Watson School of 
+1 
+Engineering in 2003.  My CV is set forth in Exhibit __ (NYSEGDRP-1). 
+2 
+ 
+Have you previously testified in other proceedings before the Commission or any other 
+3 
+state or federal regulatory agency? 
+4 
+A. 
+Yes.  I previously testified before the Commission in numerous cases, including in the 
+5 
+2019 Rate Case.  In addition, I was a witness for CMP Company in Dockets No. 
+6 
+2013-00168 and 2018-00194 and I was a witness for Maine Natural Gas in Docket No. 
+7 
+2015-00005 before the Maine Public Utilities Commission.  
+8 
+ 
+Ms. Wells, please state your title and business address. 
+9 
+A. 
+I am a Lead Analyst in the Rates and Regulatory Economics Department.  My business 
+10 
+address is 18 Link Drive, Binghamton, New York 13904. 
+11 
+ 
+Please summarize your work experience and educational background. 
+12 
+A. 
+I have been with NYSEG since 1988.  I started my career in Gas Operations moving to 
+13 
+the Gas Transportation Department where I held various positions through 2001.  I have 
+14 
+been a Lead Analyst in Sales and Load Forecasting for the past 21 years, responsible for 
+15 
+preparing gas revenue forecasts, margin analysis and rate calculation/reconciliations.  My 
+16 
+CV is set forth in Exhibit __ (NYSEGDRP-1). 
+17 
+ 
+Have you previously testified in other proceedings before the Commission or any other 
+18 
+state or federal regulatory agency? 
+19 
+A. 
+Yes.  I testified on several occasions before the Commission, including Cases 09-G-0716, 
+20 
+15-G-0284 and the 2019 Rate Case. 
+21 
+
+
+--- Page 6 ---
+Case 22-E-____; Case 22-G-____; Case 22-E-____; Case 22-G-____ 
+ 
+DIRECT TESTIMONY OF NYSEG DELIVERIES AND REVENUES PANEL 
+ 
+4 
+ 
+Ms. Wakefield, please state your title and business address. 
+1 
+A. 
+I am a Lead Analyst in the Rates and Regulatory Economics Department.  My business 
+2 
+address is 18 Link Drive, Binghamton, New York 13902. 
+3 
+ 
+Please summarize your work experience and educational background.  
+4 
+ 
+I have been employed by NYSEG since 2007 in various positions, including customer 
+5 
+service, energy supply as well as my current role in Sales and Load Forecasting where I 
+6 
+am the Lead Analyst responsible for electric revenue forecasting and analysis.  I hold a 
+7 
+BS in Marketing from the State University of New York at Oswego.  My CV is set forth 
+8 
+in Exhibit __ (NYSEGDRP-1). 
+9 
+ 
+Have you previously testified in other proceedings before the Commission or any other 
+10 
+state or federal regulatory agency? 
+11 
+A. 
+Yes.  I testified before the Commission in the 2019 Rate Case. 
+12 
+ 
+Mr. Zdimal, please state your title and business address. 
+13 
+A. 
+I am a Lead Analyst in the Rates and Regulatory Economics Department.  My business 
+14 
+address is 18 Link Drive, Binghamton, New York 13902. 
+15 
+ 
+Please summarize your work experience and educational background. 
+16 
+ 
+I have been with NYSEG since 2014.  I started my career in NYSEG’s Customer Service 
+17 
+Call Center.  In 2015, I moved to Energy Supply where I held numerous positions 
+18 
+including Lead Analyst Energy Buyer until 2021.  In 2021, I joined the Sales and Load 
+19 
+Forecasting team as a Lead Analyst.  I received two BS degrees in Statistics and 
+20 
+Mathematics from the State University of New York College at Oneonta.  My CV is set 
+21 
+forth in Exhibit __ (NYSEGDRP-1). 
+22 
+
+
+--- Page 7 ---
+Case 22-E-____; Case 22-G-____; Case 22-E-____; Case 22-G-____ 
+ 
+DIRECT TESTIMONY OF NYSEG DELIVERIES AND REVENUES PANEL 
+ 
+5 
+ 
+Have you previously testified in other proceedings before the Commission or any other 
+1 
+state or federal regulatory agency? 
+2 
+A. 
+No. 
+3 
+II. OVERVIEW OF TESTIMONY 
+4 
+ 
+Please provide an overview of the Panel’s testimony. 
+5 
+ 
+The Panel discusses five topics in our testimony.  First, we will present NYSEG’s 
+6 
+forecast of monthly electric deliveries and customers for the period May 1, 2023 through 
+7 
+April 30, 2024 (the “Rate Year”).  Second, the Panel will present the electric delivery 
+8 
+revenue forecast for the Rate Year based on currently effective base delivery rates, 
+9 
+establish a link between the historical Test Year (i.e., the twelve months ending 
+10 
+December 31, 2021) and the Rate Year, and explain the revenue adjustments.  Third, the 
+11 
+Panel will present the Company’s forecast of monthly natural gas deliveries and 
+12 
+customers for the Rate Year.  Fourth, we will present the natural gas delivery revenue 
+13 
+forecast for the Rate Year based on currently effective delivery rates, establish a link 
+14 
+between the Test Year and the Rate Year, and explain the revenue adjustments.  Fifth, the 
+15 
+Panel will discuss the Company’s electric and gas Revenue Decoupling Mechanisms 
+16 
+(“RDM”), including our proposal to include: 1) two additional service classes (SC11 
+17 
+(Standby) and SC7-4) in the electric RDM; and 2) late payment charges (“LPCs”) in the 
+18 
+electric and gas RDMs.          
+19 
+ 
+Please summarize the Panel’s testimony. 
+20 
+A. 
+Based on our forecasts, the Panel expects that the Company’s overall electric deliveries 
+21 
+volume will increase, on average, by 0.4% annualized between the Test Year, weather-
+22 
+normalized, and the Rate Year.  The Panel also expects the overall number of electric 
+23 
+
+
+--- Page 8 ---
+Case 22-E-____; Case 22-G-____; Case 22-E-____; Case 22-G-____ 
+ 
+DIRECT TESTIMONY OF NYSEG DELIVERIES AND REVENUES PANEL 
+ 
+6 
+customers to increase, on average, by 0.5% annually between the Test Year and the Rate 
+1 
+Year.  The total electric revenue adjustment between the Test Year and the Rate Year is 
+2 
+an increase of $13,611,000.  The Panel also expects that the overall natural gas deliveries 
+3 
+will decrease by an average annualized percentage of 0.3% from the Test Year, weather-
+4 
+normalized deliveries, compared to the Rate Year.  The Panel also expects the number of 
+5 
+gas customers to increase, on average, by 0.1% annually between the Test Year and the 
+6 
+Rate Year.  The total gas delivery revenue adjustment between the Test Year and the Rate 
+7 
+Year is an increase of $3,839,000.  As noted above, NYSEG also proposes to include: 
+8 
+1) two additional service classes (SC11 (Standby) and SC7-4) in the electric RDM; and 
+9 
+2) LPCs in the electric and gas RDMs.          
+10 
+ 
+How have the current public health and economic conditions affected NYSEG’s 
+11 
+deliveries? 
+12 
+A. 
+The COVID-19 Pandemic (“Pandemic”) significantly changed electric deliveries since 
+13 
+the second quarter of 2020 and continuing through 2021.  Normally expected commercial 
+14 
+and industrial deliveries declined while residential deliveries increased above normal 
+15 
+levels.  Remote working and schooling from home contributed to the increased 
+16 
+residential use.  In addition, COVID restrictions have adversely impacted commercial 
+17 
+and industrial activity.  Between 2019 and 2021, residential electric deliveries increased 
+18 
+4.9% (331,547 MWh) and commercial and industrial electric deliveries declined 4.2% 
+19 
+(-364,216 MWh).  As 2022 commences, restrictions are easing, leading to a modified 
+20 
+return to usual activity and a post-pandemic “new normal” is anticipated in the Electric  
+21 
+Deliveries forecast.  For example, with this “new normal,” it is anticipated that the recent 
+22 
+increases in residential electric deliveries will decline and the commercial and industrial 
+23 
+
+
+--- Page 9 ---
+Case 22-E-____; Case 22-G-____; Case 22-E-____; Case 22-G-____ 
+ 
+DIRECT TESTIMONY OF NYSEG DELIVERIES AND REVENUES PANEL 
+ 
+7 
+deliveries will grow.  To date, the Companies have not experienced any significant 
+1 
+impact on gas deliveries as a result of the pandemic.   
+2 
+ 
+Does this forecast reflect other trends? 
+3 
+A. 
+Yes.  Based on the January 2022 Moody’s Analytics’ projection for Total Upstate Real 
+4 
+Gross State Product, the Upstate New York economy will grow modestly over the next 
+5 
+decade and the Company’s forecasts reflect this projection.  Moody’s Analytics is a 
+6 
+nationally recognized independent provider of economic analysis, data, and forecasting 
+7 
+services.  The Electric Deliveries forecast also reflects the positive impact of State policy 
+8 
+and the Climate Leadership and Community Protection Act’s (“CLCPA”) goals on 
+9 
+expanding energy efficiency, reducing customer demand, growing Distributed Energy 
+10 
+Resources (“DER”), and increasing beneficial electrification.   
+11 
+ 
+What is the impact of these trends? 
+12 
+A. 
+With organic customer growth and beneficial electrification, such as electric vehicles and 
+13 
+heat pumps, and energy reductions such energy efficiency improvements and 
+14 
+photovoltaic (“PV”) installations, the Panel’s forecast shows an Electric Deliveries 
+15 
+increase of 0.9% between the Rate Year and the Test Year.  As previously noted, to date, 
+16 
+the Companies have not experienced any significant impact on gas deliveries as a result 
+17 
+of the pandemic.    
+18 
+III. IDENTIFICATION AND SUMMARY OF EXHIBITS 
+19 
+ 
+ Is this Panel sponsoring any exhibits? 
+20 
+A. 
+ Yes.  This Panel sponsors the following exhibits: 
+21 
+1) Exhibit __ (NYSEGDRP-1) contains the CVs of the Panel witnesses; 
+22 
+
+
+--- Page 10 ---
+Case 22-E-____; Case 22-G-____; Case 22-E-____; Case 22-G-____ 
+ 
+DIRECT TESTIMONY OF NYSEG DELIVERIES AND REVENUES PANEL 
+ 
+8 
+2) Exhibit __ (NYSEGDRP-2) includes a table showing historical Test Year sales by 
+1 
+Account Determination ID (“AD ID”) as well as the Panel’s forecast for the Rate 
+2 
+Year; 
+3 
+3) Exhibit __ (NYSEGDRP-3) illustrates NYSEG’s electric customer and deliveries 
+4 
+forecasts.  The deliveries and customer schedules include both actual and weather 
+5 
+normalized, historical billed deliveries data from January 1, 2020 through December 
+6 
+31, 2021, and forecasted data from January 1, 2022 through April 30, 2024.  
+7 
+Forecasted adjustments based on NYSEG’s Energy Efficiency Plans and adjustments 
+8 
+for forecasted Net Metered (“NM”) PV interconnections are in this exhibit.  The 
+9 
+exhibit also includes a chart with historical and forecasted PV interconnections; 
+10 
+4) Exhibit __ (NYSEGDRP-4) shows the electric model specifications and the results of 
+11 
+NYSEG’s validation tests of the models used to develop the forecasts of monthly 
+12 
+electric deliveries and customers; 
+13 
+5) Exhibit __ (NYSEGDRP-5) presents historical electric delivery revenue data for 
+14 
+2019, 2020 and the Test Year, and projected electric delivery revenue data for the 
+15 
+Rate Year at current rates; 
+16 
+6) Exhibit __ (NYSEGDRP-6) provides information about the Company’s Electric 
+17 
+RDM; 
+18 
+7) Exhibit __ (NYSEGDRP-7) illustrates NYSEG’s natural gas customer and deliveries 
+19 
+forecasts.  The deliveries and customer schedules include both actual and weather 
+20 
+normalized, historical billed deliveries data from January 1, 2016 through December 
+21 
+31, 2021, forecasted data from January 1, 2022 through December 31, 2023,  the Rate 
+22 
+Year, and forecasted adjustments based on Energy Efficiency Plans; 
+23 
+
+
+--- Page 11 ---
+Case 22-E-____; Case 22-G-____; Case 22-E-____; Case 22-G-____ 
+ 
+DIRECT TESTIMONY OF NYSEG DELIVERIES AND REVENUES PANEL 
+ 
+9 
+8) Exhibit __ (NYSEGDRP-8) shows the natural gas model specifications and the 
+1 
+results of NYSEG’s validation tests of the models used to develop the forecasts of 
+2 
+monthly gas deliveries and customers; 
+3 
+9) Exhibit __ (NYSEGDRP-9) presents historical gas delivery revenue data for 2019, 
+4 
+2020, and the Test Year, and projected natural gas delivery revenue data for the Rate 
+5 
+Year at current rates; and 
+6 
+10) Exhibit __ (NYSEGDRP-10) sets out NYSEG’s Gas RDM. 
+7 
+A copy of the Panel’s workpapers along with an index of such workpapers will be 
+8 
+provided to the New York State Department of Public Service Staff (“Staff”). 
+9 
+IV. ELECTRIC DELIVERIES AND CUSTOMERS  
+10 
+A. Electric Deliveries Forecast 
+11 
+ 
+Please summarize the historical Test Year electric billed deliveries and electric customers 
+12 
+by AD ID as well as the Panel’s forecast for the Rate Year. 
+13 
+A. 
+Exhibit __ (NYSEGDRP-2) shows NYSEG’s electric billed deliveries (MWh) and 
+14 
+electric customers by AD ID for the Test Year and Rate Year. 
+15 
+ 
+How did the Panel forecast monthly electric billed deliveries? 
+16 
+ 
+We used an econometric modeling methodology to estimate the relationship between 
+17 
+certain explanatory, or independent, variables and the dependent variable, which, in this 
+18 
+case, is the monthly billed electric deliveries by customer class.  We examined various 
+19 
+functional forms of the models, including linear, log-linear, semi-log linear, and log-log. 
+20 
+The log-log form of the models produced the best model results.  Best model results were 
+21 
+selected by evaluating the fit of the sample as determined by the model’s summary 
+22 
+
+
+--- Page 12 ---
+Case 22-E-____; Case 22-G-____; Case 22-E-____; Case 22-G-____ 
+ 
+DIRECT TESTIMONY OF NYSEG DELIVERIES AND REVENUES PANEL 
+ 
+10 
+statistics, and also the ability of the model to forecast well as demonstrated in ex-post 
+1 
+testing. 
+2 
+ 
+What is econometric modeling? 
+3 
+ 
+Econometric modeling applies statistical techniques, such as linear regression, to estimate 
+4 
+the relationship between certain explanatory, or independent variables, and the dependent 
+5 
+variable, which, in this case, is monthly deliveries data.  An econometric model, also 
+6 
+known as a linear regression model, is an estimate of a best-fit line between one 
+7 
+dependent variable and one or more explanatory variables.  The term “best-fit” refers to 
+8 
+the line with the lowest sum of squared errors. 
+9 
+ 
+Has NYSEG employed such a methodology for electric deliveries forecasting in previous 
+10 
+rate cases? 
+11 
+A. 
+Yes.  NYSEG most recently used econometric modeling for electric deliveries 
+12 
+forecasting in the 2019 Rate Case. 
+13 
+ 
+Did the Panel use the same econometric models for this case? 
+14 
+A. 
+The general underlying assumptions with respect to the model specifications are the same 
+15 
+with the following exceptions.  In the commercial deliveries model, Commercial 
+16 
+Employment was used in place of Commercial Customers.  In the industrial model, 
+17 
+Manufacturing Employees was used in place of Real Manufacturing Gross Domestic 
+18 
+Product (“GDP”).  In the municipal model, Population was used in place of Real 
+19 
+Disposable Income, and a variable identifying the New York State Local Tax Cap was 
+20 
+eliminated.  In the Street Lighting model, a variable was added representing 
+21 
+improvements in streetlight efficiency.  NYSEG made these changes because these 
+22 
+variables proved to be more statistically significant. 
+23 
+
+
+--- Page 13 ---
+Case 22-E-____; Case 22-G-____; Case 22-E-____; Case 22-G-____ 
+ 
+DIRECT TESTIMONY OF NYSEG DELIVERIES AND REVENUES PANEL 
+ 
+11 
+ 
+How did the Panel develop the econometric models? 
+1 
+A. 
+Section XXXII of the Joint Proposal adopted in the Commission’s November 19, 2020 
+2 
+Order Approving Electric and Gas Rate Plans in Accord with Joint Proposals, with 
+3 
+Modifications issued in Cases 19-E-0378 et al. (“2020 Rate Order”) required that 
+4 
+NYSEG produce electric sales forecasts models using a “widely available statistical 
+5 
+platform used by [the New York State Department of Public Service Staff (“Staff”)] (e.g., 
+6 
+Stata, Eviews, SAS).”  Consistent with this requirement, we have used a computer 
+7 
+program called EViews 12 to develop the models. 
+8 
+ 
+Did the Panel make any out of model adjustments to the residential, commercial, 
+9 
+industrial, and municipal deliveries forecasts? 
+10 
+A. 
+Yes.  An out of model adjustment was made to the econometric forecasts to account for 
+11 
+factors that have an effect on projected sales which cannot be adequately accounted for 
+12 
+within the econometric model.  Out of model adjustments were made to account for 
+13 
+NYSEG’s Energy Efficiency Plans in the residential, commercial, industrial, and 
+14 
+municipal deliveries forecasts.  Because the expected decrease to load due to incremental 
+15 
+Energy Efficiency impacts is not reflected in the historical data used in our econometric 
+16 
+models, it was necessary to make out of model adjustments to the forecasted residential, 
+17 
+commercial, industrial, and municipal load. 
+18 
+ 
+How did the Panel calculate the Energy Efficiency Plans out of model adjustments? 
+19 
+A. 
+We obtained estimates from the NYSEG/RG&E Energy Efficiency group.  This 
+20 
+information is based on the Energy Efficiency spending authorized by the Commission in 
+21 
+its Order Authorizing Utility Energy Efficiency and Building Electrification Portfolios 
+22 
+through 2025 issued on January 16, 2020, in Case 18-M-0084.  The Energy Efficiency 
+23 
+
+
+--- Page 14 ---
+Case 22-E-____; Case 22-G-____; Case 22-E-____; Case 22-G-____ 
+ 
+DIRECT TESTIMONY OF NYSEG DELIVERIES AND REVENUES PANEL 
+ 
+12 
+group also provided allocations of the targets by residential, commercial, industrial, and 
+1 
+municipal revenue classes.  A summary of the annual out of model adjustments by 
+2 
+revenue class for May 2023 to April 2024 can be found in Exhibit __ (NYSEGDRP-3).  
+3 
+The annual targets were then allocated monthly according to each revenue class’s 
+4 
+monthly load shape. 
+5 
+ 
+Did the Panel make any other out of model adjustments to the residential, commercial, 
+6 
+industrial, and municipal deliveries forecasts? 
+7 
+A. 
+Yes.  Out of model adjustments were made to account for the impact of new installations 
+8 
+of customer-owned PV systems in the residential, commercial, and municipal deliveries 
+9 
+forecasts.  These installations operate “behind the meter” and reduce deliveries to these 
+10 
+customers.  The impact of new PV installations is not captured in our econometric 
+11 
+models, and thus, it is necessary to make out of model adjustments. 
+12 
+ 
+Please explain how the Panel calculated the out of model adjustment for customer-owned 
+13 
+PV systems. 
+14 
+A. 
+First, the Panel developed a monthly megawatt capacity forecast of new installations 
+15 
+beginning in January of 2022.  The forecast included the following types of PV 
+16 
+installations:  NM, Community Distributed Generation (“CDG”) and Remote Net Meter 
+17 
+(“RNM”).  For each of these categories, we considered current pending interconnection 
+18 
+applications and the recent historical rate of interconnections.  We also used forecasts by 
+19 
+the New York Independent System Operator (“NYISO”) from the 2021 Load and 
+20 
+Capacity Data Report (Table I-9d, p. 41) for years beyond the horizon of our current 
+21 
+interconnection applications and established a “glide path” to meet NYSEG’s share.  
+22 
+Exhibit __ (NYSEGDRP-3) includes a chart and summary of actual and forecasted PV 
+23 
+
+
+--- Page 15 ---
+Case 22-E-____; Case 22-G-____; Case 22-E-____; Case 22-G-____ 
+ 
+DIRECT TESTIMONY OF NYSEG DELIVERIES AND REVENUES PANEL 
+ 
+13 
+interconnections for 2012 to 2030.  After establishing the monthly capacity forecast, we 
+1 
+converted that forecast to monthly megawatt hour output with software obtained from the 
+2 
+National Renewable Energy Laboratory (“NREL”), using Binghamton, New York as a 
+3 
+proxy location.  The software is called System Advisor Model and it may be used for any 
+4 
+purpose.  NYSEG used version 2013.1.15. 
+5 
+ 
+How does each type of PV installation affect billed deliveries? 
+6 
+A. 
+For NM PV installations, the output will reduce load on the customer meter and thus 
+7 
+reduce billed kilowatt hour (“kWh”) amounts to the customer.  As a result, an out of 
+8 
+model adjustment is required.  For CDG and RNM PV installations, customers receive 
+9 
+financial adjustments.  Therefore, NYSEG did not include these types of installations in 
+10 
+the out of model adjustments. 
+11 
+ 
+How did the Panel allocate the out of model adjustments to the residential, commercial, 
+12 
+industrial, and municipal revenue classes? 
+13 
+A. 
+The Interconnection Queue database identifies NM PV installations by residential and 
+14 
+non-residential.  We allocated residential NM PV installations to the residential class 
+15 
+because these installations reduce the billed deliveries to the residential customers.  
+16 
+Additionally, we estimated the non-residential NM PV installations 80% commercial and 
+17 
+20% municipal based on customer participation in these classes as these installations will 
+18 
+reduce the billed deliveries to the customers in these classes.  The Company made no 
+19 
+allocations to the industrial class as this class has little or no instance of participation in 
+20 
+PV,  Monthly details of the out of model adjustments for PV are in Exhibit __ 
+21 
+(NYSEGDRP-3). 
+22 
+
+
+--- Page 16 ---
+Case 22-E-____; Case 22-G-____; Case 22-E-____; Case 22-G-____ 
+ 
+DIRECT TESTIMONY OF NYSEG DELIVERIES AND REVENUES PANEL 
+ 
+14 
+ 
+Were there any out of model adjustments made to reflect anticipated beneficial 
+1 
+electrification? 
+2 
+A. 
+Yes.  We made out of model adjustments representing increased electric load due to 
+3 
+electric vehicles (“EV”) and heat pumps.  These are considered beneficial electrification 
+4 
+because this use of electricity is expected to reduce the carbon footprint of automobiles 
+5 
+and space heating. 
+6 
+ 
+How were the values used in the out of model adjustments for the beneficial 
+7 
+electrification due to EV and heat pumps determined? 
+8 
+A. 
+Estimates for EV and heat pump use were provided by the Smart Grid Innovation 
+9 
+Programs group.  Exhibit __ (NYSEGDRP-3) includes a chart and summary of 
+10 
+forecasted EV and heat pump use from 2022 to 2030. 
+11 
+ 
+What types of explanatory variables did the Panel use? 
+12 
+A. 
+We used five categories of explanatory variables: economic variables; price variables; 
+13 
+weather variables; binary variables (also known as “dummy variables”); and a 
+14 
+demographic variable. 
+15 
+ 
+Why did the Panel use these five categories of explanatory variables? 
+16 
+A. 
+Our general underlying assumption was that monthly electric deliveries are a function of 
+17 
+these types of variables.  In our experience, we have found that these variables can 
+18 
+explain and estimate commercial, industrial, and municipal electric sales forecasts. 
+19 
+ 
+How much historical data was used in the database? 
+20 
+A. 
+We have monthly historical data from January 1980 through December 2021 for each of 
+21 
+the major deliveries class econometric models.  This historical time period allowed for 
+22 
+sufficient degrees of freedom and efficient estimates of econometric model coefficients. 
+23 
+
+
+--- Page 17 ---
+Case 22-E-____; Case 22-G-____; Case 22-E-____; Case 22-G-____ 
+ 
+DIRECT TESTIMONY OF NYSEG DELIVERIES AND REVENUES PANEL 
+ 
+15 
+The use of monthly data improves model stability, and more accurately estimates the 
+1 
+seasonal impact of sales.  In some models, we used shortened time periods to improve 
+2 
+model results as determined by model specifications.  For the industrial, municipal, and 
+3 
+street lighting classes, monthly historical data from January 2000 to December 2021 was 
+4 
+used.  For the Interdepartmental and Borderline classes, the last 12 months of actual 
+5 
+usage was used as the forecast.  This is a small group of customers with consistent usage 
+6 
+without any changes.  The Panel considers last year’s usage as the best indicator of future 
+7 
+behavior. 
+8 
+ 
+Please describe the economic variables category. 
+9 
+A. 
+This category represents the fiscal health of the economy of the Upstate New York area. 
+10 
+Among the economic variables used by NYSEG are variables for Income and Upstate 
+11 
+New York Manufacturing and Non-Manufacturing GDP. 
+12 
+ 
+How did the Panel obtain the economic variable data? 
+13 
+A. 
+Moody’s Analytics provided all the data. 
+14 
+ 
+What is Moody’s Analytics? 
+15 
+A. 
+Moody’s Analytics (formerly known as Moodys-Economy.com) is a nationally 
+16 
+recognized independent provider of economic analysis, data, and forecasting services.  It 
+17 
+has over 500 clients in 50 countries, including governments at all levels, utilities, 
+18 
+commercial and investment banks, insurance companies, financial services firms, 
+19 
+manufacturers, money managers, and industrial and technology constituents.  Among its 
+20 
+vast clientele are the major New York utilities, the NYISO, ISO New England, Inc., and 
+21 
+numerous federal governmental bodies. 
+22 
+
+
+--- Page 18 ---
+Case 22-E-____; Case 22-G-____; Case 22-E-____; Case 22-G-____ 
+ 
+DIRECT TESTIMONY OF NYSEG DELIVERIES AND REVENUES PANEL 
+ 
+16 
+ 
+When were the economic forecasts provided by Moody’s Analytics that were used to 
+1 
+prepare the Company’s electric deliveries forecasts released? 
+2 
+A. 
+We used January 2022 forecasts from Moody’s Analytics. 
+3 
+ 
+What are price variables? 
+4 
+A. 
+Price variables are electric prices.  The electric prices used by this Panel are the actual 
+5 
+average retail sales prices (sales revenues divided by sales units) for each customer class 
+6 
+during the period January 1980 through December 2021, adjusted by specific price 
+7 
+indices or deflators.  In particular, electric prices are deflated by the Consumer Price 
+8 
+Index for the residential class, adjusted by the GDP implicit price deflator for the 
+9 
+commercial and municipal classes, and the Producer Price Index for the industrial class. 
+10 
+ 
+What are weather variables? 
+11 
+A. 
+Weather variables measure monthly heating and cooling degree days, and variations from 
+12 
+normal monthly heating and cooling degree days.  The term “normal degree days” is 
+13 
+defined as a rolling 10-year normal (2012-2021) of degree days ending with the last 
+14 
+complete calendar year of actual data.  Using a 10-year normal weather period is 
+15 
+consistent with the U.S. Department of Energy’s Energy Information Administration 
+16 
+(“EIA”) which now uses a 10-year average to define normal weather for forecasting 
+17 
+purposes.  The same approach is reflected in the Commission’s Order Adopting 
+18 
+Recommended Decision with Modifications, issued June 22, 2009 in Central Hudson Gas 
+19 
+and Electric Corporation’s 2008 rate cases, Cases 08-E-0887 et al.; the Companies’ Joint 
+20 
+Proposal adopted in the Order Establishing Rate Plan issued September 21, 2010 in Cases 
+21 
+09-E-0715 et al. (the “2010 Rate Order”); the Joint Proposal adopted in the June 15, 2016 
+22 
+
+
+--- Page 19 ---
+Case 22-E-____; Case 22-G-____; Case 22-E-____; Case 22-G-____ 
+ 
+DIRECT TESTIMONY OF NYSEG DELIVERIES AND REVENUES PANEL 
+ 
+17 
+Order Approving Electric and Gas Rate Plans in Accord with Joint Proposal in the 2015 
+1 
+Rate Case (“2016 Rate Order”) and the 2020 Rate Order. 
+2 
+ 
+How did the Panel obtain the weather variables? 
+3 
+A. 
+Heating and cooling degree days were obtained from the National Weather Service for 
+4 
+the Binghamton, Buffalo, Syracuse, Albany, and Burlington, Vermont weather stations. 
+5 
+A composite weather variable was constructed by using a weighted average that reflects 
+6 
+billed deliveries in each area. 
+7 
+ 
+Did the Panel use any other form of weather variable? 
+8 
+A. 
+Yes.  In the residential model, a trended weather variable was created using the Billing 
+9 
+Month Cooling Degree Day variations from normal weather and a yearly trend variable.  
+10 
+ 
+What is the purpose of using this trended weather variable? 
+11 
+A. 
+This trended weather variable was used in the model to represent the increasing use of 
+12 
+electric air conditioning by NYSEG’s residential customers.  This variable was calculated 
+13 
+by multiplying the Billing Month Cooling Degree Day variations from normal weather by 
+14 
+an integer that increased by one every fourth year. 
+15 
+ 
+What are binary variables? 
+16 
+A. 
+Binary variables take a value of “1” when a condition is present and assume a value of 
+17 
+“0” when the condition is not present.  For example, a variable called “January” takes a 
+18 
+value of “1” in January and “0” in any other month.  Binary variables are merely shape 
+19 
+variables and do not represent any underlying trends.  Monthly binary variables were 
+20 
+used in the models to reflect the seasonality of billed electric deliveries. 
+21 
+
+
+--- Page 20 ---
+Case 22-E-____; Case 22-G-____; Case 22-E-____; Case 22-G-____ 
+ 
+DIRECT TESTIMONY OF NYSEG DELIVERIES AND REVENUES PANEL 
+ 
+18 
+ 
+Did the Panel use any other types of binary variables? 
+1 
+A. 
+Yes.  In the commercial model, we used specific year-month binary variables for the 
+2 
+months of March 2006 and April 2006 to correct for apparent usage anomalies.  The 
+3 
+industrial model included two binary variables to correct for those anomalies occurring in 
+4 
+June 2006 and May 2020. 
+5 
+ 
+What demographic variables did the Panel use? 
+6 
+A. 
+The commercial model used one demographic variable: the number of non-
+7 
+manufacturing employees per month. 
+8 
+ 
+Please identify the explanatory variables that the Panel used from these five categories to 
+9 
+develop the total electric deliveries forecast for the residential class. 
+10 
+A. 
+We used variables representing the number of residential customers, Upstate New York 
+11 
+Real Disposable Personal Income, Real Residential Price, Billing Month Heating-Degree 
+12 
+Day variations from normal weather, trended Cooling Degree Day variations from 
+13 
+normal weather, forecasted customers, monthly binary variables, and the number of 
+14 
+billing days in the month.  Our dataset consisted of monthly historical data from January 
+15 
+1980 through December 2021. 
+16 
+ 
+What is the average annualized growth rate for the residential class total deliveries for the 
+17 
+forecast period? 
+18 
+A. 
+The average annualized growth rate for residential billed deliveries between the Test 
+19 
+Year, weather-normalized, and the Rate Year is -0.5%.  The Rate Year forecast includes 
+20 
+an out of model adjustment of -148,671 MWh resulting from Energy Efficiency 
+21 
+programs, an out of model adjustment of -13,730 MWh resulting from new PV 
+22 
+installations and an out of model adjustment of +57,201 MWh resulting from beneficial 
+23 
+
+
+--- Page 21 ---
+Case 22-E-____; Case 22-G-____; Case 22-E-____; Case 22-G-____ 
+ 
+DIRECT TESTIMONY OF NYSEG DELIVERIES AND REVENUES PANEL 
+ 
+19 
+electrification.  Without the impact of out of model adjustments, the expected growth rate 
+1 
+would be 0.1%. 
+2 
+ 
+What was the next step after the residential billed deliveries forecast was created? 
+3 
+A. 
+The residential deliveries were then allocated between service classifications (“SCs”) 
+4 
+based on historical distributions of monthly deliveries.  As discussed later in this 
+5 
+testimony, the SC units are then used to calculate the forecasted delivery revenues at 
+6 
+existing rates. 
+7 
+ 
+What specific variables are used in the historical monthly database to develop the total 
+8 
+electric billed deliveries forecast for the commercial class? 
+9 
+A. 
+We used the following variables: Upstate New York Real Non-Manufacturing GDP; Real 
+10 
+Commercial Price; Billing Month Heating and Cooling Degree Day variations from 
+11 
+normal weather; commercial employment; monthly binary variables; and the number of 
+12 
+billing days in the month.  The Panel’s dataset consisted of monthly historical data from 
+13 
+January 1980 through December 2021.  The database contained variables representing the 
+14 
+number of commercial customers, 
+15 
+ 
+What is the commercial class deliveries growth rate for the forecast period? 
+16 
+A. 
+The average annualized growth rate between the Test Year, weather-normalized, and the 
+17 
+Rate Year is +2.0%.  The Rate Year forecast includes an out of model adjustment 
+18 
+of -132,547 MWh resulting from Energy Efficiency programs, an out of model 
+19 
+adjustment of -39,389 MWh resulting from new PV installations and an out of model 
+20 
+adjustment of +14,848 MWh resulting from beneficial electrification.  Without the 
+21 
+impact of out of model adjustments, the expected growth rate would be +3.6%. 
+22 
+
+
+--- Page 22 ---
+Case 22-E-____; Case 22-G-____; Case 22-E-____; Case 22-G-____ 
+ 
+DIRECT TESTIMONY OF NYSEG DELIVERIES AND REVENUES PANEL 
+ 
+20 
+ 
+What did the Panel do after determining the commercial class deliveries forecast? 
+1 
+A. 
+As discussed later in this testimony, we then allocated the commercial deliveries units 
+2 
+among the SCs using the historical distribution of monthly deliveries to calculate 
+3 
+revenues. 
+4 
+ 
+What particular variables did the Panel include in the historical monthly database to 
+5 
+develop the total electric billed deliveries forecast for the industrial class? 
+6 
+A. 
+The database consists of variables for Upstate New York Manufacturing Employment, 
+7 
+Real Industrial Price, monthly binary variables, and the number of billing days in the 
+8 
+month.  The Panel’s dataset consisted of monthly historical data from January 2000 
+9 
+through December 2021. 
+10 
+ 
+What is the industrial class deliveries growth rate over the forecast period? 
+11 
+A. 
+The average annualized growth rate between the Test Year, weather-normalized, and the 
+12 
+Rate Year is +2.2%.  The Rate Year forecast includes an out of model adjustment 
+13 
+of -85,358 MWh resulting from Energy Efficiency programs.  Without the impact of 
+14 
+Energy Efficiency programs, the expected average annualized growth rate would be 
+15 
++3.6%.  There was no out of model adjustment for PV or beneficial electrification for the 
+16 
+industrial class deliveries.   
+17 
+ 
+How did the Panel allocate deliveries once it determined the industrial class deliveries 
+18 
+forecast? 
+19 
+A. 
+As discussed later in this testimony, we allocated deliveries among the industrial SCs 
+20 
+using historical monthly deliveries distributions for revenue calculations. 
+21 
+
+
+--- Page 23 ---
+Case 22-E-____; Case 22-G-____; Case 22-E-____; Case 22-G-____ 
+ 
+DIRECT TESTIMONY OF NYSEG DELIVERIES AND REVENUES PANEL 
+ 
+21 
+ 
+What specific explanatory variables did the Panel use to develop the total electric 
+1 
+deliveries forecast for the municipal class? 
+2 
+A. 
+We used the following variables: Upstate New York Population; Real Municipal Price; 
+3 
+Billing Month Heating and Cooling Degree Day variations from normal weather;  
+4 
+monthly binary variables; a yearly binary variable representing the loss of a major 
+5 
+customer; and the number of billing days in the month.  The Panel’s dataset consisted of 
+6 
+monthly historical data from January 2000 through December 2021. 
+7 
+ 
+Please explain the use of a yearly binary variable representing the loss of a major 
+8 
+customer. 
+9 
+A. 
+In late 2009, a single large municipal customer converted most of its load from NYSEG 
+10 
+deliveries service to self-generation, significantly reducing its required deliveries load 
+11 
+from NYSEG.  The binary variable was used to identify the succeeding period, 
+12 
+commencing January 2010, when this customer’s conversion caused a notable reduction 
+13 
+in NYSEG’s total municipal load.  The municipal model now includes 108 months 
+14 
+(January 2010 to December 2018) of diminished total municipal deliveries, which reflects 
+15 
+the time that this customer was self-generating and receiving significantly fewer loads 
+16 
+delivered by NYSEG.  The use of this yearly binary variable allows the model to 
+17 
+distinguish between the time period when said customer’s full load was delivered by 
+18 
+NYSEG (identified in the model as before year 2010) and when NYSEG’s delivered load 
+19 
+to this customer was significantly curtailed, and thus the model reflects this change in the 
+20 
+forecast. 
+21 
+
+
+--- Page 24 ---
+Case 22-E-____; Case 22-G-____; Case 22-E-____; Case 22-G-____ 
+ 
+DIRECT TESTIMONY OF NYSEG DELIVERIES AND REVENUES PANEL 
+ 
+22 
+ 
+What is the municipal class deliveries growth rate over the forecast period?   
+1 
+A. 
+The average annualized growth rate between the Test Year, weather-normalized, and the 
+2 
+Rate Year is -4.1%.  The Rate Year forecast includes an out of model adjustment 
+3 
+of -34,406 MWh resulting from Energy Efficiency programs and an out of model 
+4 
+adjustment of -9,847 MWh resulting from new PV installations.  There was no out of 
+5 
+model adjustment resulting from beneficial electrification, due to lack of available data. 
+6 
+Without the impact of out of model adjustments, the expected growth rate would 
+7 
+be -2.5%.   
+8 
+ 
+What was the next step after determining the municipal class billed deliveries forecast? 
+9 
+A. 
+As discussed later in this testimony, the deliveries were then allocated among the 
+10 
+municipal SCs based on historical monthly deliveries distributions for revenue 
+11 
+calculations. 
+12 
+ 
+Please describe the explanatory variables that the Panel used to develop the total electric 
+13 
+deliveries forecast for the street lighting class. 
+14 
+A. 
+The street lighting total deliveries forecast is based upon an econometric model that 
+15 
+utilizes the average monthly burning hours, outlined in the Company’s tariff, as the main 
+16 
+explanatory variable.  We also included a trend variable representing improvements to 
+17 
+street lighting efficiency, due to the conversion to LED streetlights. 
+18 
+ 
+What is the growth rate over the forecast period for the street lighting class? 
+19 
+A. 
+The average annualized growth rate between the Test Year and the Rate Year is -5.0%. 
+20 
+There were no out of model adjustments in the street lighting class.   
+21 
+
+
+--- Page 25 ---
+Case 22-E-____; Case 22-G-____; Case 22-E-____; Case 22-G-____ 
+ 
+DIRECT TESTIMONY OF NYSEG DELIVERIES AND REVENUES PANEL 
+ 
+23 
+ 
+What methodology did the Panel use to develop the total electric deliveries forecast for 
+1 
+NYSEG’s Interdepartmental and Borderline classes? 
+2 
+A. 
+The Interdepartmental and Borderline deliveries forecasts are set at the actual delivery 
+3 
+levels from the historical data for the last 12 months of actual use. 
+4 
+ 
+Please summarize the total electric billed deliveries forecast for the NYSEG service 
+5 
+territory. 
+6 
+A. 
+Based on the forecasts that we have described, NYSEG expects that the overall electric 
+7 
+deliveries volume will decrease, on average, by -0.4% annualized between the Test Year, 
+8 
+weather-normalized, and the Rate Year.  The electric deliveries forecast is illustrated in 
+9 
+Exhibit __ (NYSEGDRP-3), Schedule A.  Historical actual and weather-normalized 
+10 
+deliveries from January 2020 through December 2021 and forecasted deliveries from 
+11 
+January 2022 through April 2024 are presented in this exhibit.  This electric deliveries 
+12 
+forecast is based heavily on economic variables, and the forecast may need to be updated 
+13 
+to reflect changes in economic conditions. 
+14 
+B. Electric Customer Forecast 
+15 
+ 
+Please describe the development of the electric customer forecast for the residential 
+16 
+customer class. 
+17 
+A. 
+The number of residential customers is typically forecasted with an econometric model 
+18 
+that uses Moody’s Analytics’ Upstate New York Households forecast as the main 
+19 
+explanatory variable.  However, the last several iterations of Moody’s Analytics’ 
+20 
+Household and Population data sets did not correlate well with recent residential 
+21 
+customer growth patterns.  As a result, we chose to use an exponential smoothing model 
+22 
+to forecast residential customer growth.  An exponential smoothing model is a univariate, 
+23 
+
+
+--- Page 26 ---
+Case 22-E-____; Case 22-G-____; Case 22-E-____; Case 22-G-____ 
+ 
+DIRECT TESTIMONY OF NYSEG DELIVERIES AND REVENUES PANEL 
+ 
+24 
+or one variable, forecasting method that is widely used in business forecasting.  This 
+1 
+methodology allows us to capture both trend and seasonal components that exist in the 
+2 
+customer counts. 
+3 
+ 
+What is the growth rate of residential customers over the forecast period? 
+4 
+A. 
+The average annualized growth rate between the Test Year and the Rate Year is +0.5%. 
+5 
+ 
+How did the Panel develop the electric customer forecasts for non-residential customer 
+6 
+classes, including the commercial, industrial, municipal, and street lighting classes? 
+7 
+A. 
+We developed those forecasts using exponential smoothing models for each of the 
+8 
+nonresidential customer classes. 
+9 
+ 
+Why are exponential smoothing models appropriate for those classes? 
+10 
+A. 
+An exponential smoothing model is a univariate, or one variable, forecasting method that 
+11 
+is widely used in business forecasting.  This methodology allows us to capture both trend 
+12 
+and seasonal components that exist in the customer counts of these non-residential 
+13 
+classes. 
+14 
+ 
+What are the growth rates of the commercial, industrial, municipal (also known as public 
+15 
+authority), and street lighting classes over the forecast period? 
+16 
+A. 
+For the commercial class, the average annualized growth rate between the Test Year and 
+17 
+the Rate Year is +0.8%.  For the industrial class, the average annualized growth rate 
+18 
+between the Test Year and the Rate Year is -3.0%.  For the municipal class, the average 
+19 
+annualized growth rate between the Test Year and the Rate Year is +0.2%.  Finally, for 
+20 
+the street lighting class, the average annualized growth rate between the Test Year and 
+21 
+the Rate Year is -0.1%. 
+22 
+
+
+--- Page 27 ---
+Case 22-E-____; Case 22-G-____; Case 22-E-____; Case 22-G-____ 
+ 
+DIRECT TESTIMONY OF NYSEG DELIVERIES AND REVENUES PANEL 
+ 
+25 
+ 
+What are the overall results of the electric customer forecast? 
+1 
+A. 
+The overall result of the electric customer forecast is illustrated in Exhibit __ 
+2 
+(NYSEGDRP-3), Schedule B.  The historical actual number of customers from January 
+3 
+2020 through December 2021 and the forecasted number of customers from January 2022 
+4 
+through March 2024 are presented in the exhibit.  Based on the forecasts we have 
+5 
+described, NYSEG expects the overall number of electric customers to increase, on 
+6 
+average, by +0.5% annually between the Test Year and the Rate Year. 
+7 
+C. Model Validation 
+8 
+ 
+How did the Panel validate the models used to develop the forecasts of monthly electric 
+9 
+deliveries and customers? 
+10 
+A. 
+The Panel analyzed “Goodness of Fit” tests to determine what percentage of the variation 
+11 
+in the dependent variable can be explained by the explanatory variables that we selected. 
+12 
+In other words, these tests check a model’s summary statistics that may explain how well 
+13 
+the model fits or explains a dataset.  The first test statistic is called the Coefficient of 
+14 
+Determination, better known as the R-squared.  An R-squared value of 1 means that the 
+15 
+dependent variable is, on average, completely explained by the explanatory variables, 
+16 
+while a value of 0 means that no explanatory relationship between the dependent variable 
+17 
+and the independent variables can be estimated from the sample data.  The second test 
+18 
+statistic is called the Mean Absolute Percent Error (“MAPE”).  The MAPE is the ratio of 
+19 
+the absolute value difference between the monthly forecast value derived from the model 
+20 
+and the actual monthly value averaged over the entire dataset of actual values.  The 
+21 
+smaller the MAPE, the better.  A model that results in a high R-squared value and a small 
+22 
+MAPE is said to have strong summary statistics.  One of the most common tests for 
+23 
+
+
+--- Page 28 ---
+Case 22-E-____; Case 22-G-____; Case 22-E-____; Case 22-G-____ 
+ 
+DIRECT TESTIMONY OF NYSEG DELIVERIES AND REVENUES PANEL 
+ 
+26 
+checking if a model performs well is the Ex Post forecast test.  For this test, a portion of 
+1 
+the sample is withheld and the model is estimated on the remaining sample.  An estimate 
+2 
+or forecast of the withheld data is then generated by the model which is compared to the 
+3 
+withheld dataset.  Summary statistics are analyzed to see how well the model actually 
+4 
+forecasts the withheld sample.  The primary statistic analyzed for an Ex Post test is the 
+5 
+MAPE.  We have performed Ex Post forecast tests on all customer and billed unit models 
+6 
+presented in this testimony for two- and four-year periods to demonstrate how well the 
+7 
+models forecast two and four years out.  Exhibit __ (NYSEGDRP-4) summarizes the 
+8 
+statistics for all the models. 
+9 
+ 
+What are the results of the Panel’s validation tests? 
+10 
+A. 
+The test results and model specifications are shown in Exhibit __ (NYSEGDRP-4). They 
+11 
+establish that the econometric models used by NYSEG for electric forecasting have very 
+12 
+strong summary statistics, fit the datasets, and generalize well. 
+13 
+V. ELECTRIC DELIVERY REVENUE 
+14 
+ 
+Please describe how the forecast of Electric Billed Delivery Revenue is calculated in 
+15 
+Exhibit __ (NYSEGDRP-5). 
+16 
+ 
+A four-step process is used to calculate the forecasted monthly Electric Billed Delivery 
+17 
+Revenue for each customer class (e.g., residential, and commercial) and service class.  
+18 
+Once the delivery revenues are calculated, they are summarized by customer class.  With 
+19 
+the exception of the Integrated Energy Data Resource (“IEDR”) Surcharge referenced 
+20 
+below, this is the same process that NYSEG has used in prior cases. 
+21 
+
+
+--- Page 29 ---
+Case 22-E-____; Case 22-G-____; Case 22-E-____; Case 22-G-____ 
+ 
+DIRECT TESTIMONY OF NYSEG DELIVERIES AND REVENUES PANEL 
+ 
+27 
+ 
+What is the first step? 
+1 
+A. 
+The first step of the electric revenue forecasting process is to incorporate the monthly 
+2 
+forecasted deliveries and electric customers by SC and customer class, by month, into a 
+3 
+revenue model.  The monthly forecasted kWh sales are allocated to on-peak, mid-peak, 
+4 
+and off-peak for applicable SCs based on historical distributions.  Additionally, the 
+5 
+kilowatt (“kW”) demand forecast for applicable SCs was developed by using a three-year 
+6 
+historical ratio of kW to kWh, and then applying that ratio to the forecasted kWh units.  
+7 
+Reactive (“rkvah”) is also developed looking at a historical ratio of rkvah to kWh and 
+8 
+allocating that ratio to the applicable SCs. 
+9 
+ 
+Please describe the second step. 
+10 
+ 
+Once the deliveries and customers have been allocated to the appropriate SC by month, 
+11 
+the current tariff base delivery rates are applied to the forecasted monthly billing 
+12 
+determinants to develop the Gross Base Delivery revenue amounts by SC. 
+13 
+ 
+What does the third step include? 
+14 
+ 
+The forecasted deliveries, where applicable, are multiplied by the forecasted rates for 
+15 
+Clean Energy Fund (“CEF”) Surcharge, Dynamic Load Management (“DLM”) 
+16 
+Surcharge, the Merchant Function Charge (“MFC”), and the IEDR Surcharge. 
+17 
+ 
+What is the final step in developing the electric revenues forecast? 
+18 
+ 
+The resulting tariff revenue amounts are then multiplied by the applicable state and local 
+19 
+gross revenue tax (“GRT”) to determine the total delivery revenue amounts, per month, 
+20 
+per SC.   
+21 
+
+
+--- Page 30 ---
+Case 22-E-____; Case 22-G-____; Case 22-E-____; Case 22-G-____ 
+ 
+DIRECT TESTIMONY OF NYSEG DELIVERIES AND REVENUES PANEL 
+ 
+28 
+ 
+Please list and describe briefly the SCs that were used by the Company in calculating the 
+1 
+delivery revenue. 
+2 
+ 
+The SCs are as follows: 
+3 
+PSC No. 120 Service Classifications: 
+4 
+SC-1   
+Residential Regular 
+5 
+SC-1S   
+Residential Seasonal  
+6 
+SC-8   
+Residential Day-Night 
+7 
+SC-8S   
+Residential Day-Night Seasonal 
+8 
+SC-12   
+Residential Time of Use 
+9 
+SC-6   
+General Service Regular 
+10 
+SC-9   
+General Service Day-Night 
+11 
+SC-2   
+General Service-w/Demand 
+12 
+SC-3P   
+Primary Service 
+13 
+SC-3S   
+Sub-transmission Service 
+14 
+SC-7-1  
+General Service-Time of Use 
+15 
+SC-7-2  
+Primary Service-Time of Use 
+16 
+SC-7-3  
+Sub-transmission-Time of Use 
+17 
+SC-7-4  
+Transmission-Time of Use 
+18 
+SC-11   
+Standby Service 
+19 
+SC-5   
+Outdoor Lighting 
+20 
+ 
+ 
+21 
+PSC No. 121 Service Classifications: 
+22 
+SC-1  
+Street Lighting Service with contributory provisions  
+ 
+ 
+23 
+ 
+ 
+(grandfathered) 
+ 
+24 
+SC-2  
+Street Lighting Service-Customer Owned Equipt. 
+25 
+SC-3  
+Standard Street Lighting Service  
+26 
+SC-4  
+Street Lighting Service-Energy Only  
+27 
+ 
+28 
+ 
+Please describe Exhibit __ (NYSEGDRP-5).  
+29 
+ 
+Exhibit __ (NYSEGDRP-5), Pages 1 through 3 of 5, show actual monthly delivery 
+30 
+revenue for 2019, 2020, and the Test Year, respectively.  Page 4 of 5 shows forecasted 
+31 
+monthly delivery revenue for the Rate Year.  Lastly, page 5 of 5 shows a summary of the 
+32 
+Test Year and Rate Year revenues. 
+33 
+
+
+--- Page 31 ---
+Case 22-E-____; Case 22-G-____; Case 22-E-____; Case 22-G-____ 
+ 
+DIRECT TESTIMONY OF NYSEG DELIVERIES AND REVENUES PANEL 
+ 
+29 
+ 
+What is included in the line item Gross Base Delivery Charge? 
+1 
+ 
+Gross Base Delivery Charges consist of customer charges, volumetric (kWh) delivery 
+2 
+charges, demand (kW) charges, and reactive charges.   
+3 
+ 
+Please describe how economic development rate discounts are addressed in the forecast. 
+4 
+A. 
+Currently, there are no customers enrolled in the economic development rate discount 
+5 
+programs, therefore this was not forecasted in the Rate Year. 
+6 
+ 
+Please explain the RDM Charge. 
+7 
+ 
+The RDM Charge represents the collection or refund of revenues that were either under-
+8 
+collected or over-collected for each service classification in the prior RDM year. 
+9 
+ 
+Is an RDM Charge included in the Rate Year revenues? 
+10 
+ 
+No.  The Rate Year forecast assumes there were no over- or under-collections in the prior 
+11 
+RDM year. 
+12 
+ 
+What is included in the line item MFC? 
+13 
+ 
+The MFC represents the revenue charged to full-service customers to recover their share 
+14 
+of credit, collection, call center, and administrative costs associated with the Company’s 
+15 
+electric commodity program.  
+16 
+ 
+What does the line item labeled CEF represent? 
+17 
+ 
+The CEF surcharge recovers from customers the Company’s payments to the State Clean 
+18 
+Energy Fund. 
+19 
+ 
+Please explain the line item labeled DLM Surcharge. 
+20 
+ 
+The surcharge recovers the collection of costs associated with the Company’s load 
+21 
+management and reduction programs. 
+22 
+
+
+--- Page 32 ---
+Case 22-E-____; Case 22-G-____; Case 22-E-____; Case 22-G-____ 
+ 
+DIRECT TESTIMONY OF NYSEG DELIVERIES AND REVENUES PANEL 
+ 
+30 
+ 
+Please explain the item labeled IEDR Surcharge. 
+1 
+A. 
+The IEDR surcharge recovers from customers the Company’s payments to the State for 
+2 
+the implementation of a statewide Integrated Energy Data Resource Program, consistent 
+3 
+with the Commission’s February 11, 2021 Order in Case 20-M-0082 (“IEDR Order”). 
+4 
+ 
+What does the GRT Surcharge represent? 
+5 
+ 
+This line item represents a delivery revenue surcharge that collects GRT from customers 
+6 
+that are subsequently remitted by the Company to New York State and various 
+7 
+municipalities. 
+8 
+ 
+What is the Bill Issuance & Payment Processing Charge (“BIPP”)? 
+9 
+ 
+BIPP is a charge per invoice to recover the cost of billing customers and processing their 
+10 
+payments.  BIPP was unbundled from the monthly customer charge in 2007, consistent 
+11 
+with the Commission’s Order Providing for Customer Choice of Billing Entity issued on 
+12 
+March 22, 2000 in Case 99-M-0631 (“Customer Choice Order”).  
+13 
+ 
+Please explain the Purchase of Receivables (“POR”) Charge. 
+14 
+ 
+The POR Charge represents the revenue charged to energy service companies (“ESCOs”) 
+15 
+through the POR discount rate to recover the credit, collection, and call center costs 
+16 
+associated with the Company’s purchased commodity receivables. 
+17 
+ 
+Please explain the line item entitled Wholesale Transmission Revenues. 
+18 
+A. 
+This line item represents the amount of transmission revenue that is embedded in delivery 
+19 
+rates.  Any difference between actual transmission revenues and the level embedded in 
+20 
+Delivery rates is recovered or returned through the Non-Bypassable Wires Charge 
+21 
+(“NBC”).   
+22 
+
+
+--- Page 33 ---
+Case 22-E-____; Case 22-G-____; Case 22-E-____; Case 22-G-____ 
+ 
+DIRECT TESTIMONY OF NYSEG DELIVERIES AND REVENUES PANEL 
+ 
+31 
+ 
+What are the primary items included in the line entitled Miscellaneous Revenue? 
+1 
+ 
+Miscellaneous Revenue consists primarily of reconnection and other service fees and 
+2 
+rental income. 
+3 
+ 
+What does the line item labeled Damage and Third Party Payments represent? 
+4 
+A. 
+This line item consists primarily of reimbursements for O&M expenditures related to 
+5 
+make ready pole work, and pole and property damage repair. 
+6 
+ 
+What does the line item labeled Joint Use Property Rental represent? 
+7 
+A. 
+This line item represents the pole attachment revenues from joint use poles. 
+8 
+ 
+Does the Rate Year include similar revenues as the Test Year? 
+9 
+ 
+The Test Year contains four revenue items not included in the Rate Year: 1) the Rate 
+10 
+Adjustment Mechanism (“RAM”) Surcharge representing both TYPE I (recovery of 
+11 
+COVID-relief bill credits) and TYPE 2 recovery (all other RAM eligible costs) and is 
+12 
+offset by a regulatory amortization which is not presented in the Rate Year revenue 
+13 
+requirements; 2) the Value of Distributed Energy Resources (“VDER”) Surcharge 
+14 
+representing recovery of VDER credits to qualifying customers which are not presented 
+15 
+in the Rate Year revenue requirements; 3) the Earnings Adjustment Mechanism (“EAM”) 
+16 
+Surcharge to remove the item from consideration in the Rate Year revenue requirements; 
+17 
+and 4) the aforementioned RDM Charge. 
+18 
+ 
+Please explain the revenue adjustments between the actual Test Year and the forecasted 
+19 
+Rate Year revenues.  
+20 
+ 
+The total revenue adjustment between the Test Year and the Rate Year is an increase of 
+21 
+$13,611,000, which is attributed to the following: 
+22 
+
+
+--- Page 34 ---
+Case 22-E-____; Case 22-G-____; Case 22-E-____; Case 22-G-____ 
+ 
+DIRECT TESTIMONY OF NYSEG DELIVERIES AND REVENUES PANEL 
+ 
+32 
+a) Gross Base Delivery Revenues – $54,582,000 increase reflecting the Rate Year 
+1 
+being priced out at the Rate Year 3 tariff rates of the current rate plan, whereas the 
+2 
+Test Year pricing was a combination of Rate Year 1 and Rate Year 2 rates of the 
+3 
+current rate plan. 
+4 
+b) CEF Surcharge – $9,508,000 decrease to incorporate the required level of 
+5 
+collections in the Commission’s Order Authorizing the Clean Energy Fund 
+6 
+Framework, issued January 21, 2016 in Cases 14-M-0094 et al.  
+7 
+c) DLM – $3,119,000 increase to incorporate the required level of collections in the 
+8 
+Commission’s Order Directing Tariff Filings, issued April 19, 2018, in Case 15-E-
+9 
+0188. 
+10 
+d) IEDR – $360,000 increase to incorporate the required level of collections in the 
+11 
+Commission’s Order Implementing and Integrating Energy Data Resource, issued 
+12 
+February 11 ,2021 in Case 20-M-0082. 
+13 
+e) GRT Surcharge – $1,158,000 increase to incorporate revenue levels identified 
+14 
+above.  In addition, the Test Year includes Transition Surcharge revenues, which 
+15 
+were negative for certain SCs.  The Rate Year does not include Transition 
+16 
+Surcharges and, as a result, the Revenue Tax is calculated on higher revenues. 
+17 
+f) BIPP Charge – $43,000 increase to reflect the higher customer count in the Rate 
+18 
+Year. 
+19 
+g) Late Payment Charge – $3,478,000 increase reflecting termination in October 
+20 
+2021 of the State’s LPC moratorium commenced in April 2020 in light of COVID, 
+21 
+and the higher level of forecasted customer revenues in the Rate Year. 
+22 
+
+
+--- Page 35 ---
+Case 22-E-____; Case 22-G-____; Case 22-E-____; Case 22-G-____ 
+ 
+DIRECT TESTIMONY OF NYSEG DELIVERIES AND REVENUES PANEL 
+ 
+33 
+h) Wholesale Transmission Revenues  – $6,875,000 decrease in transmission 
+1 
+revenues based on a five-year historical average.  See Table 1 for details of the 
+2 
+Historical Revenues and the Rate Year forecast. 
+3 
+Table 1: Wholesale Transmission Revenues 
+4 
+                       
+ 
+5 
+ 
+6 
+i) Damage and Third Party Payments – $315,000 decrease based on application of 
+7 
+the general inflation factor to all “other” reimbursements to match the forecasts of 
+8 
+the corresponding costs.  The decrease reflects the removal of mutual aid prior to 
+9 
+the application of the general inflator. 
+10 
+j) Joint Use Property Sales – $838,000 decrease pursuant to pole counts licensed, 
+11 
+field audit (ownership and attachment) reconciliations and annual rate review. 
+12 
+k) Miscellaneous Revenue – $399,000 increase based primarily on the increased 
+13 
+connect/disconnect revenue in the Rate Year compared to decrease of credit related 
+14 
+shut offs in the Test Year due to the State’s COVID moratorium on 
+15 
+disconnections. 
+16 
+
+
+--- Page 36 ---
+Case 22-E-____; Case 22-G-____; Case 22-E-____; Case 22-G-____ 
+ 
+DIRECT TESTIMONY OF NYSEG DELIVERIES AND REVENUES PANEL 
+ 
+34 
+VI. ELECTRIC REVENUE DECOUPLING MECHANISM 
+1 
+ 
+Is the Panel proposing any changes to the electric revenue decoupling mechanism 
+2 
+(“RDM”)? 
+3 
+A. 
+Yes.  The Panel proposes to include the standby customer class (SC11) and SC7-4 in the 
+4 
+RDM to be consistent with other New York State utilities.  The Panel also proposes to 
+5 
+include LPCs in the RDM.  The Company proposes to work with Staff to further develop 
+6 
+this proposal. 
+7 
+VII. NATURAL GAS DELIVERIES AND CUSTOMERS FORECAST 
+8 
+A. Natural Gas Deliveries Forecast 
+9 
+ 
+How did the Panel forecast monthly natural gas billed deliveries? 
+10 
+ 
+Like the electric billed forecast, we also used an econometric modeling methodology to 
+11 
+estimate the relationship between certain explanatory, or independent, variables and the 
+12 
+dependent variable, which, in this case, is monthly billed natural gas deliveries by 
+13 
+customer class.  We also utilized econometric modeling to forecast the number of 
+14 
+residential customers. 
+15 
+ 
+Did the Panel estimate the economic relationships between natural gas usage and the 
+16 
+explanatory variables using the same computer software used to develop the electric 
+17 
+forecasting models? 
+18 
+ 
+No. We utilized MetrixND computer software. 
+19 
+ 
+What is MetrixND? 
+20 
+A. 
+Itron, Inc. created this forecasting software specifically for utilities.  More than 100 
+21 
+utilities and independent system operators use this software, including the NYISO. 
+22 
+
+
+--- Page 37 ---
+Case 22-E-____; Case 22-G-____; Case 22-E-____; Case 22-G-____ 
+ 
+DIRECT TESTIMONY OF NYSEG DELIVERIES AND REVENUES PANEL 
+ 
+35 
+ 
+Has NYSEG used this software in the past? 
+1 
+A. 
+NYSEG utilized this software in our 2019 Rate Case. 
+2 
+ 
+Did the Panel use the same source for demographic and economic variable data that was 
+3 
+used to develop the electric forecasting models? 
+4 
+A. 
+Yes.  The demographic and economic variable forecasts are from Moody’s Analytics 
+5 
+released in December 2021. 
+6 
+ 
+Did the Panel use the same categories of variables that were used to forecast monthly 
+7 
+electric deliveries, as discussed above? 
+8 
+A. 
+Yes, with two differences.  
+9 
+ 
+What is the first difference?  
+10 
+A. 
+For the residential class, we used a residential use per customer model.  The forecasted 
+11 
+number of residential customers is multiplied by the forecasted residential average use 
+12 
+per customer to determine the forecasted monthly residential billed deliveries forecast.   
+13 
+A demographic variable was not used in the use per customer model.  A demographic 
+14 
+variable was used in the model to forecast the number of residential customers. 
+15 
+ 
+What is the second difference?  
+16 
+ 
+For the natural gas deliveries forecast, we used an empirical method of weather 
+17 
+normalization.  We employed this methodology to better analyze the historical data and 
+18 
+calculate true growth rates.  Using this method, the historical data is weather-normalized 
+19 
+and subsequently brought into the model.  For this reason, it is not necessary to include a 
+20 
+weather variable in the model, and it allows consistency of application for each customer 
+21 
+class.  This methodology is consistent with prior rate case forecasts. 
+22 
+
+
+--- Page 38 ---
+Case 22-E-____; Case 22-G-____; Case 22-E-____; Case 22-G-____ 
+ 
+DIRECT TESTIMONY OF NYSEG DELIVERIES AND REVENUES PANEL 
+ 
+36 
+ 
+Please describe the natural gas weather normalization methodology. 
+1 
+A. 
+We used billing month weather for the residential, commercial, municipal, and industrial 
+2 
+classes.  The first step is to take the actual deliveries for each year and subtract the base 
+3 
+load deliveries.  The term “base load” is defined as the average of the non-weather-
+4 
+related deliveries during the two months having the lowest level of gas consumption 
+5 
+observed during the calendar year.  The second step is to divide the remaining (weather- 
+6 
+related) deliveries load by the actual billing month heating degree days (“HDDs”).  This 
+7 
+yields the actual weather response per HDD for the billing month.  The third step was to 
+8 
+multiply the quotient by the normal billing month HDDs.  The term “normal degree 
+9 
+days” in this context is defined as the 30-year rolling average (1992-2021) of degree days 
+10 
+for any given calendar day as obtained from the National Oceanic and Atmospheric 
+11 
+Administration.  The last step is to add the base load that was originally removed. 
+12 
+ 
+How much historical data was used in the models? 
+13 
+A. 
+Monthly historical data from January 2010 through December 2021 was used for the 
+14 
+residential econometric model.  Monthly historical data from January 1995 through 
+15 
+December 2021 was used for the non-residential econometric models.  This data sample 
+16 
+allows for efficient estimates of econometric model coefficients. 
+17 
+ 
+Please explain the residential sales forecasting model. 
+18 
+A. 
+The residential model relates weather normalized use per customer to price and a generic 
+19 
+trend variable.  Total residential deliveries are determined by multiplying the average use 
+20 
+per customer by the estimated number of residential customers to determine the monthly 
+21 
+residential billed deliveries forecast for the Rate Year. 
+22 
+
+
+--- Page 39 ---
+Case 22-E-____; Case 22-G-____; Case 22-E-____; Case 22-G-____ 
+ 
+DIRECT TESTIMONY OF NYSEG DELIVERIES AND REVENUES PANEL 
+ 
+37 
+ 
+Why was an average use per customer model used instead of a billed deliveries model to 
+1 
+estimate residential sales? 
+2 
+A. 
+Within the natural gas industry, it is a generally accepted methodology to use average use 
+3 
+per customer to estimate residential sales. 
+4 
+ 
+What specific explanatory variables did the Panel employ in the average use per customer 
+5 
+econometric model? 
+6 
+A. 
+We used the following variables: real residential price; monthly binary variables; the 
+7 
+number of billing days in the month; and a generic trend variable. In our experience, we 
+8 
+have found that these variables can explain and estimate natural gas use per residential 
+9 
+customer. 
+10 
+ 
+What is the expected growth rate for the residential class? 
+11 
+A. 
+The average annualized growth rate for the residential class between the Test Year, 
+12 
+weather-normalized, and Rate Year 1 is -0.95%.  
+13 
+ 
+How were the commercial, industrial, and municipal sales forecasts developed? 
+14 
+ 
+We used econometric modeling that relates monthly weather-normalized deliveries to 
+15 
+economic and price related drivers. 
+16 
+ 
+Please identify the explanatory variables that the Panel used to develop commercial, 
+17 
+industrial, and municipal sales forecast. 
+18 
+A. 
+The database for the weather-normalized total commercial class consisted of the 
+19 
+following variables: Real Commercial Price; Upstate New York Non-Manufacturing 
+20 
+Employment; the number of NYSEG commercial customers; the number of billing days 
+21 
+in the month; and monthly binary variables.  The database for the weather-normalized 
+22 
+industrial class consisted of the following variables: Real Industrial Price; Upstate New 
+23 
+
+
+--- Page 40 ---
+Case 22-E-____; Case 22-G-____; Case 22-E-____; Case 22-G-____ 
+ 
+DIRECT TESTIMONY OF NYSEG DELIVERIES AND REVENUES PANEL 
+ 
+38 
+York Employment Manufacturing; the number of NYSEG industrial customers; and 
+1 
+monthly binary variables.  The database for the weather-normalized total municipal class 
+2 
+consisted of the following variables: Real Municipal Price; the number of NYSEG 
+3 
+residential customers; a generic trend variable; the number of billing days in the month; 
+4 
+and monthly binary variables.  
+5 
+ 
+Why did the Panel use these categories of explanatory variables? 
+6 
+A. 
+ In our experience, we have found that these variables can best explain and estimate 
+7 
+commercial, industrial, and municipal natural gas sales forecasts. 
+8 
+ 
+Why did the Panel use the number of residential customers for the municipal class?  
+9 
+A. 
+The basis of the assumption is that a municipal customer, which includes town/village 
+10 
+offices and schools, will grow or decline based on the population it serves.  Its 
+11 
+constituency is comprised, for the most part, of NYSEG’s residential customers.  
+12 
+ 
+What are the average annualized growth rates for the commercial, industrial, and 
+13 
+municipal classes? 
+14 
+ 
+The average annualized growth rates between the Test Year and the Rate Year  
+15 
+are -0.27% for the commercial class, 0.98% for the industrial class, and -0.99% for the 
+16 
+municipal class.  In total, the non-residential classes increased by 0.06%.  
+17 
+ 
+What are the results of the total natural gas deliveries forecast? 
+18 
+A. 
+Based on the forecasts that we have described, NYSEG expects that the overall natural 
+19 
+gas deliveries volume will decrease by an average annualized percentage of 0.35% from 
+20 
+the Test Year, weather-normalized deliveries, compared to the Rate Year.  The natural 
+21 
+gas deliveries forecast is shown in Exhibit __ (NYSEGDRP-7), Schedule A.  Historical 
+22 
+weather-normalized deliveries from January 1, 2016 through December 31, 2021 and 
+23 
+
+
+--- Page 41 ---
+Case 22-E-____; Case 22-G-____; Case 22-E-____; Case 22-G-____ 
+ 
+DIRECT TESTIMONY OF NYSEG DELIVERIES AND REVENUES PANEL 
+ 
+39 
+forecasted deliveries from January 1, 2022 through April 30, 2026 are presented in this 
+1 
+exhibit. 
+2 
+ 
+Did the Panel make any out of model adjustments to the natural gas deliveries forecasts? 
+3 
+A. 
+Yes.  An out of model adjustment is made to econometric forecasts to account for factors 
+4 
+that have an effect on projected sales that cannot be accounted for within the econometric 
+5 
+model itself.  One out of model adjustment was made to account for the targets related to 
+6 
+NYSEG’s Energy Efficiency plans.  Because the expected decrease in load due to 
+7 
+incremental impacts from NYSEG’s Energy Efficiency programs are not reflected in the 
+8 
+historical data used in our econometric models, it was necessary to make out of model 
+9 
+adjustments to the forecasted residential, commercial, industrial, and municipal load. 
+10 
+ 
+Would the Panel please identify the adjustments for Energy Efficiency? 
+11 
+A. 
+The Company based the total out of model adjustments for Energy Efficiency programs 
+12 
+from the NYSEG/RG&E Energy Efficiency group.  A summary of the annual out of model 
+13 
+adjustments by revenue class for years 2022 to 2025 can be found in Exhibit __ 
+14 
+(NYSEGDRP-7), Schedule B.  NYSEG then allocated the annual targets on a monthly 
+15 
+basis according to each revenue classes’ monthly load shape.  The average annualized 
+16 
+growth rate between the Test Year and the Rate Year was -0.39% for the residential class 
+17 
+and 0.21% for the total non-residential classes, prior to the Energy Efficiency adjustment.  
+18 
+The average total annualized growth rate between the Test Year and the Rate Year for total 
+19 
+NYSEG gas deliveries prior to the adjustments was -0.03%.   
+20 
+
+
+--- Page 42 ---
+Case 22-E-____; Case 22-G-____; Case 22-E-____; Case 22-G-____ 
+ 
+DIRECT TESTIMONY OF NYSEG DELIVERIES AND REVENUES PANEL 
+ 
+40 
+B. Natural Gas Customer Forecast 
+1 
+ 
+How did the Panel develop the natural gas customer forecast for the residential customer 
+2 
+class? 
+3 
+A. 
+The number of residential customers is forecasted with an econometric model that uses 
+4 
+Moody’s Analytics’ forecast of the number of households in upstate New York as the 
+5 
+main explanatory demographic variable, a one-month lag of NYSEG residential 
+6 
+customers and monthly binary variables.  
+7 
+ 
+Why is econometric modeling appropriate for the residential customer class? 
+8 
+A. 
+The number of residential customers is highly correlated, and dependent upon, the 
+9 
+number of households in Upstate New York.  This causal relationship can be accurately 
+10 
+estimated using econometric modeling.  It follows then that an accurate forecast of 
+11 
+Upstate New York households, as provided by Moody’s Analytics, would yield an 
+12 
+accurate forecast of residential customers. 
+13 
+ 
+What is the growth of residential customers over the forecast period compared to the Test 
+14 
+Year? 
+15 
+A. 
+The average annualized growth rate for the Test Year compared to the Rate Year is 
+16 
+0.20%.     
+17 
+ 
+How did the Panel develop the natural gas customer forecast for commercial, industrial, 
+18 
+and municipal classes? 
+19 
+A. 
+We developed the natural gas customer forecast for these classes by applying the 
+20 
+historical customer data to an exponential smoothing model.  An exponential smoothing 
+21 
+model is a univariate, or one variable, forecasting method that is widely used in business 
+22 
+forecasting. 
+23 
+
+
+--- Page 43 ---
+Case 22-E-____; Case 22-G-____; Case 22-E-____; Case 22-G-____ 
+ 
+DIRECT TESTIMONY OF NYSEG DELIVERIES AND REVENUES PANEL 
+ 
+41 
+ 
+What are the growth rates of the commercial, industrial, and municipal classes over the 
+1 
+forecast period compared to the Test Year? 
+2 
+A. 
+For the commercial class, the average annualized growth rate for the Test Year compared 
+3 
+to the Rate Year is -0.16%.  For the industrial class, the growth rate for the Rate Year  
+4 
+compared to the Test Year is -3.34%.  For the municipal class, the average rate for the 
+5 
+Test Year compared to the Rate Year is 0.49%.  For the non-residential classes, the total 
+6 
+average annualized growth rate for the Test Year compared to the Rate Year is -0.15%.  
+7 
+C. Allocation of Forecasts Among Sales and Transportation Service Classes 
+8 
+ 
+How did the Panel allocate its forecast of residential, commercial, industrial and 
+9 
+municipal deliveries and customers to the sales and transportation service classes? 
+10 
+A. 
+We allocated the forecasts to the sales and transportation service classes using historical 
+11 
+monthly distributions and trends. 
+12 
+D. Model Validation 
+13 
+ 
+Did the Panel validate the models used to develop the forecasts of monthly natural gas 
+14 
+deliveries? 
+15 
+A. 
+Yes.  As with our models used to develop the forecasts of monthly electric deliveries and 
+16 
+customers, we validated our natural gas models using the same “Goodness of Fit” tests 
+17 
+and MAPE statistics.  Ex Post tests were performed where the MAPE statistic is also used 
+18 
+to demonstrate how well the models forecast. 
+19 
+ 
+What are the results of the validation tests? 
+20 
+ 
+The results and model specifications are shown in Exhibit __ (NYSEGDRP-8), Schedule 
+21 
+A.  They establish that the models used for natural gas forecasting have very strong 
+22 
+summary statistics and generalize well. 
+23 
+
+
+--- Page 44 ---
+Case 22-E-____; Case 22-G-____; Case 22-E-____; Case 22-G-____ 
+ 
+DIRECT TESTIMONY OF NYSEG DELIVERIES AND REVENUES PANEL 
+ 
+42 
+VIII. GAS DELIVERY REVENUES 
+1 
+ 
+Please provide a brief description of the NYSEG gas service classes. 
+2 
+ 
+NYSEG has customers taking service under the following SCs: 
+3 
+ 
+PSC No. 87 Service Classifications: 
+4 
+SC-1S   
+Residential Service 
+5 
+SC-2S  
+General Service 
+6 
+SC-3S  
+Interruptible Sales Service 
+7 
+SC-5S   
+Seasonal Gas Cooling Service 
+8 
+  
+9 
+ 
+PSC No. 88 Service Classifications: 
+10 
+SC-1T  
+Firm Transportation Service 
+11 
+SC-2T  
+Interruptible Transportation Service 
+12 
+SC-5T  
+Small Firm Transportation Service 
+13 
+SC-7T  
+Firm or Limited Firm Negotiated Transportation Service 
+14 
+SC-13T  
+Residential Firm Aggregation Transportation Service  
+15 
+SC-14T  
+Non-Residential Firm Aggregation Transportation Service 
+16 
+SC-16T 
+Non-Residential Distributed Generation Transportation 
+17 
+ 
+18 
+Note: PSC No. 87 SC-9S Industrial Manufacturing or Processing Purposes (Binghamton 
+19 
+Area).  The last customer on this grandfathered service class left the service class and 
+20 
+therefore SC-9S is discontinued. 
+21 
+ 
+22 
+ 
+Please describe how the Billed Gas Delivery Revenues are calculated in Exhibit __ 
+23 
+(NYSEGDRP-9). 
+24 
+ 
+A five-step process is used to calculate the forecasted monthly Billed Gas Delivery 
+25 
+Revenues, as set forth in Exhibit __ (NYSEGDRP-9).  This is the same process that 
+26 
+NYSEG has used in prior cases. 
+27 
+ 
+What is the first step? 
+28 
+A. 
+The first step of the gas delivery revenue forecast is to incorporate the forecasted 
+29 
+deliveries and customers for SC-1S, SC-2S, SC-5S, SC-1T, SC-5T, SC-13T, SC-14T and 
+30 
+SC-16T into the Gas Revenue Model.  The monthly forecasted delivery volumes are 
+31 
+allocated to the gas rate blocks established in NYSEG’s gas tariff based on distributions 
+32 
+
+
+--- Page 45 ---
+Case 22-E-____; Case 22-G-____; Case 22-E-____; Case 22-G-____ 
+ 
+DIRECT TESTIMONY OF NYSEG DELIVERIES AND REVENUES PANEL 
+ 
+43 
+derived from block analyses covering January 2019 to December 2021.  The individual 
+1 
+month used for the block analysis was based on the month in the three-year period where 
+2 
+the actual billing month HDD was closest to normal HDD.  The forecasted deliveries by 
+3 
+block are then multiplied by the current tariff rates, effective as of May 1, 2022, for the 
+4 
+respective SCs, and the customer counts are multiplied by the fixed monthly customer 
+5 
+charge for the respective SCs to derive forecasted base delivery revenues.  The SC-3S 
+6 
+and SC-2T classes are calculated as above using discounted rates based on the customers’ 
+7 
+otherwise applicable service class’s firm delivery rates.  
+8 
+ 
+What is the second step?  
+9 
+ 
+The forecasted sales for SC-7T are multiplied by average contract rates by rate area.   
+10 
+ 
+What is the third step? 
+11 
+A. 
+The calculated distribution revenues by SC are then allocated to Revenue Class based on 
+12 
+the deliveries forecast data. 
+13 
+ 
+What is the fourth step? 
+14 
+A. 
+The forecasted deliveries, where applicable, are multiplied by the forecasted tariff rates to 
+15 
+derive the forecasted revenue from the MFC/POR and the R&D Surcharge.   
+16 
+ 
+What is the fifth step in developing the Billed Gas Delivery Revenue forecast? 
+17 
+A. 
+The fifth and final step is to apply the GRT rates to the delivery revenues using the actual 
+18 
+revenue tax rates for service type (i.e., sales vs. transportation), and customer type (i.e., 
+19 
+residential vs. non-residential). 
+20 
+ 
+Please describe Exhibit __ (NYSEGDRP-9). 
+21 
+ 
+Exhibit __ (NYSEGDRP-9), pages 1 through 4 of 9 show actual monthly delivery 
+22 
+revenues for 2019 and 2020, respectively.  Pages 5 and 6 of 9 show actual monthly 
+23 
+
+
+--- Page 46 ---
+Case 22-E-____; Case 22-G-____; Case 22-E-____; Case 22-G-____ 
+ 
+DIRECT TESTIMONY OF NYSEG DELIVERIES AND REVENUES PANEL 
+ 
+44 
+delivery revenue for the Test Year.  Pages 7 and 8 of 9 show forecasted monthly delivery 
+1 
+revenue for the Rate Year.  Page 9 of 9 shows a summary of the Test Year and the Rate 
+2 
+Year. 
+3 
+ 
+What does the line item labeled Gross Base Delivery Charges represent in Exhibit __ 
+4 
+(NYSEGDRP-9)? 
+5 
+A. 
+The line item labeled Gross Base Delivery Charges represents fixed monthly customer 
+6 
+charges and the volumetric block deliveries charges at standard (non-discounted) rates.   
+7 
+ 
+What does the MFC line item represent in Exhibit __ (NYSEGDRP-9)?  
+8 
+A. 
+The MFC represents the revenue charged to sales customers to recover their share of 
+9 
+credit, collection, call center, and administrative costs associated with the Company’s gas 
+10 
+merchant activities. 
+11 
+ 
+Please explain the RDM Surcharge. 
+12 
+A. 
+The RDM Surcharge represents the collection or refund of revenues that were either 
+13 
+under-collected or over-collected in the prior RDM year. 
+14 
+ 
+Is the RDM Surcharge included in the Rate Year revenues? 
+15 
+A. 
+No.  The Rate Year forecast assumes there was no over- or under-collections in the prior 
+16 
+RDM year. 
+17 
+ 
+Please explain the RAM Surcharge. 
+18 
+A. 
+The RAM Surcharge represents the recovery of bill credits provided to customers.   
+19 
+ 
+Is the RAM Surcharge included in the Rate Year revenues? 
+20 
+ 
+No.  The Rate Year forecast assumes there was no recovery of bill credits. 
+21 
+
+
+--- Page 47 ---
+Case 22-E-____; Case 22-G-____; Case 22-E-____; Case 22-G-____ 
+ 
+DIRECT TESTIMONY OF NYSEG DELIVERIES AND REVENUES PANEL 
+ 
+45 
+ 
+What does the line item labeled R&D Surcharge represent? 
+1 
+A. 
+The line item labeled R&D Surcharge represents the surcharge applied to all deliveries to 
+2 
+recover R&D expenditures of $650,000 per year. 
+3 
+ 
+What does the line item labeled GRT Surcharge represent in Exhibit __ (NYSEGDRP-
+4 
+9)? 
+5 
+A. 
+The line item labeled GRT Surcharge represents a delivery revenue surcharge to provide 
+6 
+recovery of revenue taxes (in Taxes Other Than Income Taxes) paid by the Company to 
+7 
+New York State and various municipalities. 
+8 
+ 
+What is the BIPP Charge? 
+9 
+A. 
+The BIPP Charge is a per invoice charge to recover the cost of billing customers and 
+10 
+processing their payment.  It was unbundled from the monthly customer charge in 2007 
+11 
+consistent with the Customer Choice Order. 
+12 
+ 
+Please explain the POR Charge. 
+13 
+A. 
+The POR Charge represents the revenue charged to ESCOs through the POR discount 
+14 
+rate to recover the credit, collection, and call center costs associated with the Company’s 
+15 
+purchased commodity receivables. 
+16 
+ 
+What are the primary items included in the line entitled Miscellaneous Revenue? 
+17 
+ 
+Miscellaneous Revenue consists primarily of rental income and special service fees. 
+18 
+ 
+What does the line labeled Damage and Third-Party Payments represent? 
+19 
+ 
+The line item consists primarily of reimbursements for O&M expenditures related to of 
+20 
+damage reimbursement, elevated pressure fees, meter relocations, meter upgrades, and 
+21 
+mutual aid service (Test Year only). 
+22 
+
+
+--- Page 48 ---
+Case 22-E-____; Case 22-G-____; Case 22-E-____; Case 22-G-____ 
+ 
+DIRECT TESTIMONY OF NYSEG DELIVERIES AND REVENUES PANEL 
+ 
+46 
+ 
+Does the Rate Year revenue include similar revenue as the Test Year? 
+1 
+ 
+Yes. 
+2 
+ 
+Please explain the revenue adjustments in Exhibit __ (NYSEGDRP-9), page 9 of 9, 
+3 
+between the Test Year and the forecasted Rate Year. 
+4 
+ 
+The total delivery revenue adjustment between the Test Year and the Rate Year is an 
+5 
+increase of $3,839,000, which is attributed to the following:  
+6 
+a) An increase of $3,839,000 due to higher base delivery revenues from a full year of 
+7 
+rates for Rate Year 3 under the current rate plan compared to only eight months of 
+8 
+those rates in the Test Year, as well as a larger number of customers in the Rate Year. 
+9 
+b) An increase of $386,000 due to higher sales. 
+10 
+c) An decrease in RDM Charges of $292,000 to eliminate the Test Year refund of prior 
+11 
+year net over-collections.  The Rate Year forecast assumes no over or under-
+12 
+collections in the preceding RDM year. 
+13 
+d) An decrease in RAM Charges of $185,000 to eliminate the Test Year bill credits.  
+14 
+The Rate Year forecast assumes no over or under-collections in the preceding year. 
+15 
+e) An increase of $22,000 to recover R&D expenditures of $650,000 per year. 
+16 
+f) A decrease of $4,000 in GRT to incorporate revenue levels identified above. 
+17 
+g) An increase in BIPP Charges of $3,000 to reflect the higher customer count in the 
+18 
+Rate Year. 
+19 
+h) A decrease in the POR Charge of $313,000 to present the Rate Year amount, in 
+20 
+combination with MFC Revenue, as the amount allowed in 2020 Rate Order. 
+21 
+
+
+--- Page 49 ---
+Case 22-E-____; Case 22-G-____; Case 22-E-____; Case 22-G-____ 
+ 
+DIRECT TESTIMONY OF NYSEG DELIVERIES AND REVENUES PANEL 
+ 
+47 
+i) An increase in Late Payment Charges of $1,011,000 reflecting a forecasting process 
+1 
+in which forecasted delivery revenues are multiplied by the three-year historical ratio 
+2 
+of LPCs before the COVID-19 Pandemic to delivery revenues. 
+3 
+j) An increase in Miscellaneous Revenue of $244,000 to reflect the use of a three-year 
+4 
+normalized historical average to forecast the miscellaneous items where a specific 
+5 
+forecast was not obtained. 
+6 
+k) An increase in Damages and Third-Party Payments of $205,000 to reflect the 
+7 
+application of the general inflation factor to all other reimbursements to match the 
+8 
+forecasts of the corresponding costs. 
+9 
+ 
+How is the Late Payment Charge calculated for the Rate Year? 
+10 
+A. 
+Three years of historical LPCs before COVID (i.e., 2017-2019) were divided by billed 
+11 
+revenues from the same time period to calculate a percentage that is applied against 
+12 
+forecast billed revenues. 
+13 
+ 
+How are Other Revenues determined for the Rate Year? 
+14 
+A. 
+Connection/Disconnection Service Income and Third Party Damage Fees represent a 
+15 
+forecast provided by the respective departments.  Otherwise, a normalized three-year 
+16 
+average was used. 
+17 
+IX. GAS REVENUE DECOUPLING MECHANISM 
+18 
+ 
+Is the Panel proposing any changes to the gas RDM? 
+19 
+A. 
+Yes.  The Panel proposes to include LPCs in the RDM.  The Company proposes to work 
+20 
+with Department of Public Service Staff to further develop this proposal.     
+21 
+Q. 
+Does this complete the Panel’s testimony at this time?  
+22 
+A. 
+Yes, it does. 
+23 

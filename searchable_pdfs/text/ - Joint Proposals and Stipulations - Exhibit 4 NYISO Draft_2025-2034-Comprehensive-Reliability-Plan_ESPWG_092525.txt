@@ -1,0 +1,2902 @@
+--- Page 1 ---
+  
+ 
+Draft – For Discussion Purposes Only 
+ 
+2025-2035 Comprehensive Reliability Plan |   i 
+ 
+ 
+  
+ 
+2025-2034 
+Comprehensive 
+Reliability Plan 
+ 
+A Report from the    
+New York Independent  
+System Operator 
+Draft 1  
+For Sept 25, 2025 ESPWG/TPAS 
+ 
+DRAFT – For Discussion Purposes Only 
+
+
+--- Page 2 ---
+  
+ 
+Draft – For Discussion Purposes Only 
+ 
+2025-2035 Comprehensive Reliability Plan |   ii 
+ 
+ 
+Table of Contents 
+TABLE OF CONTENTS ............................................................................................................................................................. 
+EXECUTIVE SUMMARY ......................................................................................................................................................... 5 
+BACKGROUND ..................................................................................................................................................................... 6 
+State of the Grid ................................................................................................................................................. 6 
+Regulatory Policies Affecting the Grid ............................................................................................................. 11 
+June 2025 Heatwave ....................................................................................................................................... 12 
+Short-Term Reliability ....................................................................................................................................... 13 
+2025-2034 COMPREHENSIVE RELIABILITY PLAN ................................................................................................................. 15 
+2024 RNA and Resolution of the 2033 New York City Reliability Need ....................................................... 15 
+Future Projects and Assumptions in the CRP ................................................................................................ 17 
+PLANNING FOR UNCERTAINTY ........................................................................................................................................... 21 
+Aging Generation .............................................................................................................................................. 22 
+Demand-Side Uncertainty ................................................................................................................................ 26 
+Large Loads ...................................................................................................................................................... 28 
+Weather Variability ........................................................................................................................................... 30 
+Reliance on Imports ......................................................................................................................................... 32 
+Demand Response .......................................................................................................................................... 34 
+Potential Transmission and Generation Project Delays ................................................................................ 35 
+Additional Resources ....................................................................................................................................... 38 
+Plausible Combinations of System Risks ....................................................................................................... 40 
+POTENTIAL PATHWAYS TO A RELIABLE GRID ..................................................................................................................... 44 
+Lower Demand Forecast .................................................................................................................................. 45 
+Baseline Demand Forecast ............................................................................................................................. 46 
+Higher Demand Forecast ................................................................................................................................. 48 
+Reliability Planning Role in Identifying Solutions ........................................................................................... 50 
+ALIGNING RELIABILITY PLANNING WITH OPERATIONAL REALITIES .................................................................................... 52 
+Lessons Learned from June 2025 Heatwave ................................................................................................ 52 
+Resource Planning for Normal Operation ....................................................................................................... 52 
+Comprehensive System Voltage Support ....................................................................................................... 55 
+THE ROLE OF COMPETITIVE WHOLESALE MARKETS ........................................................................................................... 60 
+CONCLUSIONS AND RECOMMENDED ACTIONS ................................................................................................................. 61 
+ 
+ 
+ 
+ 
+ 
+ 
+ 
+
+
+--- Page 3 ---
+  
+ 
+Draft – For Discussion Purposes Only 
+ 
+2025-2035 Comprehensive Reliability Plan |   iii 
+ 
+ 
+ 
+Table of Figures 
+Figure 1: NYCA Load Zones .......................................................................................................................................................... 7 
+Figure 2: Summer Installed Capacity (MW) by Fuel Source – Statewide, Upstate, & Downstate New York: 2025 ..................... 8 
+Figure 3: Energy Production by Fuel Source (GWh) – Statewide, Upstate, & Downstate New York: 2024 ................................. 9 
+Figure 4: Statewide Resource Availability: Summer 2025 ......................................................................................................... 10 
+Figure 5: Historical Generating Capacity Fuel Mix in New York State: 2005-2023 .................................................................... 11 
+Figure 6 : Additions and Deactivations Since 2019 .................................................................................................................... 12 
+Figure 7: June Heatwave Load Comparison to Load Forecast ................................................................................................... 13 
+Figure 8: New York City Forecast Comparison ........................................................................................................................... 16 
+Figure 9: New York City Margin Comparison ............................................................................................................................. 17 
+Figure 10 2026-2034 Demand Forecasts ................................................................................................................................... 18 
+Figure 11: Planned Statewide Generation Mix .......................................................................................................................... 19 
+Figure 12: Planned Generation Additions and Deactivations by Year ....................................................................................... 19 
+Figure 13: Range of Statewide Margins  .................................................................................................................................... 22 
+Figure 14: National Average Generator Age .............................................................................................................................. 23 
+Figure 15: Aging Generation Risk Projection ............................................................................................................................. 25 
+Figure 16: Statewide Margin Impact of Aging Generation ........................................................................................................ 25 
+Figure 17: Demand-Side Uncertainty ......................................................................................................................................... 27 
+Figure 18: Statewide Margin Impact of Demand-Side Uncertainty ........................................................................................... 27 
+Figure 19: Large Load Interconnection Projects ........................................................................................................................ 29 
+Figure 20: Statewide Margin Impact of Large Load Interconnection Projects .......................................................................... 30 
+Figure 21: Weather Variability ................................................................................................................................................... 31 
+Figure 22: Statewide Margin Impact of Weather Variability ..................................................................................................... 32 
+Figure 23: Imports from Neighbors ........................................................................................................................................... 33 
+Figure 24: Statewide Margin Impact of Imports ........................................................................................................................ 33 
+Figure 25: Zone J Transmission Security Margin with Impact of Imports .................................................................................. 34 
+Figure 26: Zone K Transmission Security Margin with Impact of Imports ................................................................................. 34 
+Figure 29: Special Case Resources ............................................................................................................................................. 35 
+Figure 30: Statewide Margin Impact of Special Case Resources ............................................................................................... 35 
+Figure 29: Resource Additions ................................................................................................................................................... 36 
+Figure 30: Statewide Margin Impact of Project Delays ............................................................................................................. 37 
+Figure 31: Zone J Transmission Security Margin with Impact of Project Delays ....................................................................... 37 
+Figure 32: Zone K Transmission Security Margin with Impact of Project Delays ....................................................................... 38 
+Figure 33: Additional Resources from CBA Case ........................................................................................................................ 38 
+
+
+--- Page 4 ---
+  
+ 
+Draft – For Discussion Purposes Only 
+ 
+2025-2035 Comprehensive Reliability Plan |   iv 
+ 
+ 
+Figure 34: Statewide Margin Impact of Additional Resources .................................................................................................. 39 
+Figure 35: Summer Statewide Margin Risks .............................................................................................................................. 41 
+Figure 36: Winter Statewide Margin Risks ................................................................................................................................. 41 
+Figure 37: NYCA LOLE with Lower Demand Forecast Table ....................................................................................................... 45 
+Figure 38: NYCA LOLE with Lower Demand Forecast Graph...................................................................................................... 46 
+Figure 39: NYCA LOLE with Baseline Forecast Table .................................................................................................................. 47 
+Figure 40: NYCA LOLE with Baseline Forecast Graph................................................................................................................. 47 
+Figure 41: Resource Adequacy Reliability Indices ...................................................................................................................... 48 
+Figure 42: 2034 LOLE Results with Impacts of Uncertainty ....................................................................................................... 48 
+Figure 43: NYCA LOLE with Higher Demand Forecast Table ...................................................................................................... 49 
+Figure 44: NYCA LOLE with Higher Demand Forecast Graph ..................................................................................................... 50 
+Figure 45: June Heatwave Observations and Planning Recommendations ............................................................................... 52 
+Figure 46: Comparison of LOLH and Statewide Transmission Security Margin ......................................................................... 54 
+Figure 47: Number of Voltage Support Service Calls ................................................................................................................. 56 
+Figure 48: Statewide Areas of Concern for Voltage Performance ............................................................................................. 57 
+ 
+ 
+
+
+--- Page 5 ---
+  
+ 
+Draft – For Discussion Purposes Only 
+ 
+2025-2035 Comprehensive Reliability Plan |   5 
+ 
+ 
+Executive Summary 
+ 
+ 
+
+
+--- Page 6 ---
+  
+ 
+Draft – For Discussion Purposes Only 
+ 
+2025-2035 Comprehensive Reliability Plan |   6 
+ 
+ 
+Background 
+This 2025-2034 Comprehensive Reliability Plan (CRP) completes the 2024-2025 cycle of the NYISO’s 
+Reliability Planning Process. The 2024 Reliability Needs Assessment (RNA), approved by the NYISO Board 
+of Directors in November 2024, was the first step of the current cycle. This CRP follows the 2024 RNA and 
+provides the regional transmission plan, incorporating findings and solutions from the quarterly Short-
+Term Reliability Process, as available, to maintain reliability over the ten-year planning horizon. 
+This section provides an overview of the current state of New York’s electric grid, recent operational 
+events, and findings from short-term reliability planning studies. Together, these elements offer context for 
+understanding the system’s evolving reliability landscape and inform the longer-term outlook presented in 
+the CRP. 
+State of the Grid 
+New York’s power grid is dramatically changing how it serves consumers and is evolving to meet the 
+state’s clean energy objectives. The NYISO offers two annual publications—the Load & Capacity Data 
+Report1 (Gold Book) and Power Trends2—that provide independent sources of information and analysis on 
+New York’s electric system.  
+The New York Control Area (NYCA) is comprised of 11 geographical zones from western New York 
+(Zone A) through Long Island (Zone K). At various points, this CRP refers to these zones to provide 
+locational details regarding system demand, projected resource mixes, and anticipated transmission 
+constraints. A map of the NYCA zones is shown in Figure 1. 
+ 
+ 
+ 
+1 2024 Load & Capacity Data Report (Gold Book) 
+2 2024 Power Trends 
+
+
+--- Page 7 ---
+  
+ 
+Draft – For Discussion Purposes Only 
+ 
+2025-2035 Comprehensive Reliability Plan |   7 
+ 
+ 
+Figure 1: NYCA Load Zones 
+ 
+A summary of the current system resources is provided below. Figure 2 depicts the projected mix of 
+resource capacity that was expected to be available for the 2025 summer capability period, and Figure 3 
+provides the energy production by fuel sources in 2024.  
+ 
+
+
+--- Page 8 ---
+  
+ 
+Draft – For Discussion Purposes Only 
+ 
+2025-2035 Comprehensive Reliability Plan |   8 
+ 
+ 
+Figure 2: Summer Installed Capacity (MW) by Fuel Source – Statewide, Upstate, & Downstate New York: 2025 
+ 
+
+
+--- Page 9 ---
+  
+ 
+Draft – For Discussion Purposes Only 
+ 
+2025-2035 Comprehensive Reliability Plan |   9 
+ 
+ 
+Figure 3: Energy Production by Fuel Source (GWh) – Statewide, Upstate, & Downstate New York: 2024 
+ 
+ 
+
+
+--- Page 10 ---
+  
+ 
+Draft – For Discussion Purposes Only 
+ 
+2025-2035 Comprehensive Reliability Plan |   10 
+ 
+ 
+The total resource capability in the NYCA for the summer of 2025 was projected to be 40,910 MW, 
+which includes 37,654 MW of generating capability, 1,487 MW of demand response, and 1,769 MW of net 
+long-term purchases and sales with neighboring control areas. 
+The New York system’s minimum Installed Reliability Margin (IRM) is established every year by the 
+New York State Reliability Committee (NYSRC). The IRM represents the minimum level of capacity, beyond 
+the forecasted peak demand, which must be procured to serve consumers. The IRM is established every 
+year for each following capability year (May 1 through April 30) and is used to quantify the minimum 
+capacity required to meet the Northeast Power Coordinating Council (NPCC) and NYSRC resource 
+adequacy rules. The NYISO, in assisting NYSRC, analyzes forecasted demand, supplier performance, 
+transmission capability, and factors such as extreme weather, to measure the grid’s ability to meet 
+reliability requirements. NYSRC has noted in several of its annual Installed Capacity Requirement Technical 
+Study reports3 that the inclusion of intermittent resources to the grid is a leading factor in establishing 
+higher IRM requirements. The IRM for the May 1, 2025 - April 30, 2026 capability year is 24.4% of the 
+forecasted NYCA peak load, representing an increase from the 22% established last year.  
+Figure 4: Statewide Resource Availability: Summer 2025 
+ 
+ 
+The historical generating capacity fuel mix in New York State from 2000 through 2023 is depicted in 
+the Figure 5 below. 
+ 
+3 NYSRC’s IRM Reports: https://www.nysrc.org/NYSRC_NYCA_ICR_Reports.html.  
+
+
+--- Page 11 ---
+  
+ 
+Draft – For Discussion Purposes Only 
+ 
+2025-2035 Comprehensive Reliability Plan |   11 
+ 
+ 
+Figure 5: Historical Generating Capacity Fuel Mix in New York State: 2005-2023 
+ 
+Regulatory Policies Affecting the Grid 
+Increasingly ambitious environmental and energy policies, evolving market rules, technological 
+advancements, and economic factors impact the decisions by market participants and are accelerating the 
+transition in the state’s resource supply mix. During this transition, the pace of both the addition of new 
+resource additions and the retirement of older, higher-emitting resources are projected to exceed historical 
+levels. Changes to demand patterns and the generation fleet driven by federal, state, and local government 
+regulatory programs may impact the operation and reliability of New York’s bulk power system. 
+Compliance with federal and state regulatory initiatives and environmental and permitting requirements 
+may require investment by the owners of New York’s existing thermal power plants in order to continue 
+operation. If the owners of those plants must make significant investments to comply, the increased cost to 
+continue operating could lead to the retirement of these resources needed to maintain the reliability of 
+New York’s bulk power system and, therefore, could necessitate replacement.  
+Balancing the grid throughout this transition not only requires maintaining sufficient capacity to meet 
+demand but also requires that new resources entering service comparably replace the capabilities and 
+attributes of the resources leaving the system (e.g., fast starting/ramping and dispatchable both up and 
+down, available when and for as long as needed, providing essential reliability services such as voltage and 
+frequency control, support system’s stability during disturbances). Continued dialogue and engagement 
+among Market Participants, policymakers, and the NYISO will be essential to support the planning 
+processes in order to identify the needs and services required to maintain a reliable system during and 
+after this transition period. 
+
+
+--- Page 12 ---
+  
+ 
+Draft – For Discussion Purposes Only 
+ 
+2025-2035 Comprehensive Reliability Plan |   12 
+ 
+ 
+Figure 6 : Additions and Deactivations Since 2019 
+ 
+ 
+June 2025 Heatwave 
+Between June 23 and 25, 2025, the NYISO experienced one of the most challenging operating 
+conditions in recent years as New York and much of the Eastern Interconnect experienced a heat wave. 
+This section provides details of system conditions, operational actions, and resource performance during 
+the event, offering context for understanding the reliability risks and planning implications in the CRP.  
+On June 24, 2025, peak net load reached 31,857 MW during the hour beginning 18:00 (HB18), after 
+reductions of 995 MW of demand response. Without demand response reductions, the load would have 
+been just 381 MW below the 90/10 forecast. 33,233 MW. The gross load for HB16 on June 24th was 34,491 
+MW and actually higher than HB18, but 2,675 MW of BTM solar and 1,096 MW of demand response 
+reduced the net load, delaying the system peak load hour by two hours due to the solar and demand 
+response contributions. 
+ 
+ 
+ 
+
+
+--- Page 13 ---
+  
+ 
+Draft – For Discussion Purposes Only 
+ 
+2025-2035 Comprehensive Reliability Plan |   13 
+ 
+ 
+Figure 7: June Heatwave Load Comparison to Load Forecast 
+ 
+ 
+The NYISO declared a “Major Emergency” for a little over an hour and half on the evening of June 24th 
+due to operating reserve deficiencies based on the following: 
+■ Approximately 7,000 MW of capacity was unavailable at the peak load hour;  
+■ Approximately 2,000 MW of external imports were curtailed from PJM, ISO-NE, and IESO 
+limited import capability. The NYISO curtailed exports to ISO-NE and PJM; 
+■ The NYISO procured 1,960 MW of emergency energy from neighbors; and 
+■ Voltage reduction measures were counted as operating reserve, and demand response 
+programs (EDRP/SCR) were activated across all zones. 
+ 
+Short-Term Reliability  
+The NYISO’s Short-Term Reliability Process works in parallel with the longer-term Reliability Planning 
+Process, providing updates and assessments that occur more frequently than the two-year reliability 
+planning cycle. Findings from quarterly Short-Term Assessments of Reliability are incorporated into the 
+CRP to ensure that recent developments are reflected in the longer-term outlook and planning 
+assumptions.  
+
+
+--- Page 14 ---
+  
+ 
+Draft – For Discussion Purposes Only 
+ 
+2025-2035 Comprehensive Reliability Plan |   14 
+ 
+ 
+The Short-Term Assessment of Reliability: 2023 Quarter 2 (“2023 Q2 STAR”)4  and the Short-Term 
+Assessment of Reliability: 2025 Quarter 2 (“2025 Quarter 2 STAR”)5 are particularly noteworthy because 
+they identify and address specific reliability impacts and expected changes to future demand forecasts. 
+In 2019, the New York State Department of Environmental Conservation (DEC) enacted regulations to 
+limit Nitrogen Oxide (NOx) emissions, which has become known as the “Peaker Rule.” This resulted in 
+1,027 MW of affected fossil-fired generators being deactivated or limited as of May 1, 2023 and an 
+additional 590 MW becoming unavailable by May of 2025, unless a fossil-fired generator is identified as 
+necessary to ensure the reliability of the system. 
+The 2023 Q2 STAR, issued on July 14, 2023, identified a Short-Term Reliability Process Need due to a 
+deficiency of up to 446 MW within New York City, resulting in violations of transmission security criteria, 
+beginning in summer 2025. The need was driven by a combination of forecasted increases in peak demand 
+and the assumed unavailability of certain generation in New York City affected by the “Peaker Rule.” 
+In accordance with the Short-Term Reliability Process, the NYISO issued a solicitation for solutions 
+seeking solutions to resolve the reliability need. The NYISO determined that the Gowanus 2 & 3 and 
+Narrows 1 & 2 generation units, which have a combined capacity of 508 MW, were necessary to continue to 
+operate in order to satisfy the transmission security margin and maintain reliability of the system. As a 
+result, the NYISO’s designated these generation plants as necessary for reliability, which allowed their 
+continued operation beyond May 2025, consistent with provisions in the “Peaker Rule.” The NYISO 
+described the continued operation of the Gowanus and Narrows units in the STAR as a temporary solution 
+until the CHPE transmission project enters service and fully addresses the need for the remainder of the 
+STAR’s five-year study period. 
+After the conclusion of the 2023 Q2 STAR, the NYISO continued to evaluate the reliability of the system 
+in each subsequent quarterly STAR and continued to confirm whether system changes mitigate the New 
+York City deficiency or it was necessary for the NYISO to extend the identification of the Gowanus 2 & 3 and 
+Narrows 1 & 2 as necessary to maintain the reliability of the system for an additional two-year period 
+beyond 2027 to allow a permanent solution to enter service, as permitted by the “Peaker Rule.” 
+ 
+ 
+ 
+4 Short-Term Assessment of Reliability: 2023 Quarter 2, available at https://www.nyiso.com/documents/20142/39103148/ 
+2023-Q2-STAR-Report-Final.pdf.  
+5 Short-Term Assessment of Reliability: 2025 Quarter 2, available at https://www.nyiso.com/documents/20142/39103148/ 
+2025-Q2-STAR-Report.pdf/. 
+
+
+--- Page 15 ---
+  
+ 
+Draft – For Discussion Purposes Only 
+ 
+2025-2035 Comprehensive Reliability Plan |   15 
+ 
+ 
+2025-2034 Comprehensive Reliability Plan 
+The Comprehensive Reliability Plan to reliably serve New York demand for the 2025-2034 timeframe 
+requires forecasting the balance between demand, generation, and transmission and managing growing 
+uncertainty. This CRP is outlined in the following sections: 
+■ Comprehensive Reliability Plan (this section): This section summarizes the findings of the 
+2024 RNA and describes the resolution of the identified Reliability Need in New York City. It 
+also presents key future projects and planning assumptions that form the baseline conditions 
+for the CRP. These baseline assumptions serve as reference points for scenario analyses 
+conducted throughout the remainder of the plan, which explore uncertainties and associated 
+reliability risks. 
+■ Planning for Uncertainty: To better understand the range of possible futures, the CRP 
+examines the uncertainty around key system factors—i.e., aging generation, demand, weather 
+variability, imports, project delays, demand response, and additional resources—and their 
+individual influence on system performance. The CRP then further examines combinations of 
+these uncertainties and highlights how different plausible configurations can impact system 
+reliability margins. This section uses statewide system margin calculations to quantify the 
+relative and combined impacts of the different uncertainties. 
+■ Potential Pathways to a Reliable Grid: The CRP explores certain combinations of demand 
+and aging generation risks to gauge when, and under what conditions, Reliability Needs could 
+be identified in the future. If scenarios are found to violate criteria, different scenarios of 
+resource additions are modeled to demonstrate potential solution sets. 
+■ Aligning Reliability Planning with Operational Reliability: The CRP examines (a) lessons 
+learned from the June 2025 heatwave, (b) resource planning for normal conditions, and (c) 
+comprehensive need for system voltage support. Together, these observations point to the 
+need for a planning framework that better reflects operational realities and anticipates 
+emerging reliability risks. 
+ 
+2024 RNA and Resolution of the 2033 New York City Reliability Need 
+The 2024 RNA evaluated the reliability of the New York bulk electric grid from 2028 through 2034, 
+considering forecasts of peak power demand, planned upgrades to the transmission system, and changes to 
+the generation mix. The RNA assesses a “base case” set of assumptions to identify actionable Reliability 
+Needs if there is a violation of applicable Reliability Criteria. Based on the base case assumptions, the 2024 
+RNA identified a Reliability Need beginning in summer 2033 within New York City primarily driven by a 
+combination of forecasted increases in peak demand, limited additional supply, the assumed retirement of 
+the NYPA small gas plants based on state legislation, and the assumed unavailability of generators 
+impacted by the DEC Peaker Rule. Accounting for these factors, the RNA initially found that the Bulk Power 
+
+
+--- Page 16 ---
+  
+ 
+Draft – For Discussion Purposes Only 
+ 
+2025-2035 Comprehensive Reliability Plan |   16 
+ 
+ 
+Transmission Facilities (BPTF) will not be able to securely and reliability serve the forecasted demand in 
+New York City. When accounting for forecasted economic growth and policy-driven increases in demand, 
+the 2024 RNA found that New York City (Zone J) will be deficient starting in summer 2033 by as much as 
+17 MW for 1 hour and increasing to 97 MW for 3 hours in summer 2034 on the peak day during expected 
+weather conditions.  
+After the completion of the 2024 RNA, the NYISO considered relevant updates to Local Transmission 
+Owner Plans (LTPs) and other system updates to determine if the Reliability Need is reduced or eliminated 
+in accordance with its procedures. Following the release of the 2024 RNA, the 2025 Load & Capacity Report 
+(“Gold Book”) included the latest forecast and generation Dependable Maximum Net Capacity. The updated 
+New York City peak demand forecast was roughly 200 MW lower each of the next ten years over the 10-
+year planning horizon compared to the 2024 Gold Book’s forecasts used in determining the New York City 
+Reliability Need. 
+ 
+Figure 8: New York City Forecast Comparison 
+ 
+Taking into account these system updates, the analysis showed that the revised system margin 
+through 2034 would be positive and the Reliability Need identified in the 2024 RNA was eliminated. As a 
+result, the NYISO notified stakeholders that a solicitation for solutions was not required to address the 
+Reliability Need identified in the 2024 RNA in May 2025. Figure 9 below shows how the New York City 
+transmission security margin deficiency identified in the 2024 RNA is addressed by the system updates. 
+Item
+2025
+2026
+2027
+2028
+2029
+2030
+2031
+2032
+2033
+2034
+Zone J Baseline Demand Forecast (2024 
+Goldbook) (MW)
+10,960
+10,990
+11,020
+11,040
+11,050
+11,080
+11,130
+11,220
+11,310
+11,390
+Zone J Baseline Demand Forecast (Preliminary 
+2025 Goldbook) (MW)
+10,764
+10,790
+10,820
+10,840
+10,860
+10,880
+10,930
+11,010
+11,080
+11,170
+Impact (MW)
+196
+200
+200
+200
+190
+200
+200
+210
+230
+220
+Item
+2025
+2026
+2027
+2028
+2029
+2030
+2031
+2032
+2033
+2034
+Zone J High Demand Forecast (2024 Goldbook) 
+(MW)
+11,140
+11,270
+11,400
+11,530
+11,660
+11,800
+11,940
+12,100
+12,260
+12,430
+Zone J High Demand Forecast (Preliminary 2025 
+Goldbook) (MW)
+10,800
+10,920
+11,040
+11,170
+11,330
+11,510
+11,650
+11,800
+11,960
+12,130
+Impact (MW)
+340
+350
+360
+360
+330
+290
+290
+300
+300
+300
+Comparison of 2024 Zone J Goldbook Forecast and 2025 Preliminary Zone J Forecast
+
+
+--- Page 17 ---
+  
+ 
+Draft – For Discussion Purposes Only 
+ 
+2025-2035 Comprehensive Reliability Plan |   17 
+ 
+ 
+Figure 9: New York City Margin Comparison 
+ 
+ 
+Future Projects and Assumptions in the CRP 
+The analysis in the CRP was performed using the 2025 reliability planning model. This model is similar 
+to that used in the 2024 RNA and has been updated with the 2025 Gold Book demand forecasts and other 
+updates consistent with the 2025 Q3 STAR.6 This section summarizes the key future projects and 
+assumptions that have been included as part of this CRP. 
+Demand Forecast 
+The 2025 Gold Book provides an in-depth review of the load forecast and changing resource mix. 
+Baseline energy and coincident peak demand increases significantly throughout the 30-year forecast 
+period in the Gold Book, driven largely by large load project growth in the early forecast years and 
+electrification of space heating, non-weather sensitive appliances, and electric vehicle charging in the outer 
+forecast years. As discussed further in the CRP, there is uncertainty in the demand forecast driven by 
+uncertainties in key assumptions, such as population and economic growth, energy efficiency, the 
+installation of behind-the-meter renewable energy resources, and electric vehicle adoption and charging 
+patterns. These risks to the baseline demand forecast are seen through the incorporation of the lower and 
+ 
+6 Short-Term Assessment of Reliability: 2025 Quarter 2, available at [to be added]. 
+
+
+--- Page 18 ---
+  
+ 
+Draft – For Discussion Purposes Only 
+ 
+2025-2035 Comprehensive Reliability Plan |   18 
+ 
+ 
+higher demand forecast, which provide a bounding to the range of forecasted conditions during expected 
+weather. 
+Figure 10 2026-2034 Demand Forecasts 
+ 
+ 
+Planned Generation 
+Figure 11 provides a graphical representation of generation capability that is included in the CRP. 
+Figure 12 highlights the planned future generation projects and deactivations. A new generation resource 
+is included in reliability studies when the project has reached a key milestone in the NYISO interconnection 
+process and is making significant progress in construction, project financing, and/or regulatory approvals. 
+The additional generation modeled in this CRP includes a total of 656 MW of land-based wind generation, 
+1,740 MW of offshore wind generation, 1,993 MW of solar generation, and 35 MW of battery storage 
+planned to be in service by summer 2028. The NYISO continues to track numerous additional generation 
+projects active in the interconnection process. 
+For deactivations, the CRP assumes approximately 1,615 MW of generation removed because the 
+generator is (1) in a deactivation state, (2) operationally impacted by the DEC Peaker Rule, or (3) a NYPA 
+small gas plant that is assumed retired at the end of 2030 based on state legislation. 
+ 
+ 
+22,000
+24,000
+26,000
+28,000
+30,000
+32,000
+34,000
+36,000
+38,000
+2026
+2027
+2028
+2029
+2030
+2031
+2032
+2033
+2034
+MW
+Year
+Demand-side Uncertainty
+NYCA Summer Baseline Expected Weather Forecast
+NYCA Winter Baseline Expected Weather Forecast
+Summer High Demand Forecast
+Winter High Demand Forecast
+Summer Low Demand Forecast
+Winter Low Demand Forecast
+
+
+--- Page 19 ---
+  
+ 
+Draft – For Discussion Purposes Only 
+ 
+2025-2035 Comprehensive Reliability Plan |   19 
+ 
+ 
+Figure 11: Planned Statewide Generation Mix 
+ 
+Figure 12: Planned Generation Additions and Deactivations by Year 
+ 
+Consistent with the 2024 RNA and NYSRC reliability rules, approximately 6,400 MW of generation 
+with non-firm gas contracts, primarily in eastern New York, is assumed to be unavailable under expected 
+winter weather peak demand conditions. 
+
+
+--- Page 20 ---
+  
+ 
+Draft – For Discussion Purposes Only 
+ 
+2025-2035 Comprehensive Reliability Plan |   20 
+ 
+ 
+Planned Transmission 
+The major additions to the New York transmission system assumed in the CRP include the following: 
+■ December 2025: Smart Path Connect NYPA/National Grid’s Northern New York Priority 
+Transmission Project proposed under the New York State Accelerated Renewable Energy 
+Growth and Community Benefit Act December 2025 
+■ May 2026: Champlain Hudson Power Express (CHPE) 1,250 MW HVDC project from Quebec 
+to Astoria Annex 345 kV in New York City (Zone J), awarded under NYSERDA’s Tier 4 REC 
+program. The facility is expected to provide capacity in the summer but not in the winter. The 
+planned in-service date is spring 2026. 
+■ May 2030: Propel NY T051 Energy Solution proposed jointly by NYPA and New York 
+Transco, LLC through the NYISO’s Public Policy Transmission Planning Process. The project 
+adds three new AC tie lines between Long Island and the rest of New York and a 345 kV 
+backbone across western/central Long Island.  
+ 
+ 
+ 
+
+
+--- Page 21 ---
+  
+ 
+Draft – For Discussion Purposes Only 
+ 
+2025-2035 Comprehensive Reliability Plan |   21 
+ 
+ 
+Planning for Uncertainty 
+Reliability planning must account for how uncertainties in key system trends may interact and 
+compound over time; it is not enough to study each risk in isolation. The NYISO identified numerous risk 
+factors that could adversely affect the implementation of the CRP and hence system reliability over the 
+planning horizon. These risk factors may arise due to uncertainty in, among other things, weather and 
+climate, economic development, or federal and state regulatory and policy adoptions. While each of these 
+factors presents its own set of risks, their combined effects can be far more consequential. A single 
+uncertainty may reduce reliability margins but multiple uncertainties occurring together—such as higher 
+demand coinciding with delayed transmission projects or overreliance on aging generation—can result in 
+critical supply shortfalls. 
+To better understand the range of possible futures, the CRP uses scenarios to first examine the 
+uncertainty around each individual key system factor—i.e., aging generation, demand, weather variability, 
+imports, project delays, demand response, and additional resources—to assess its specific influence on 
+system performance. The CRP then further examines combinations of these uncertainties and highlights 
+the magnitude of the impact that different plausible configurations can have on system reliability margins. 
+These examinations—both the individual and combinations—provide insight into the level and range of 
+system reliability. Figure 13 below provides a high-level summary of the plausible range of statewide 
+margins based on these examinations. The following sections detail the NYISO’s examination and findings 
+related the uncertainty from individual system factors and the combinations of those uncertainties.  
+
+
+--- Page 22 ---
+  
+ 
+Draft – For Discussion Purposes Only 
+ 
+2025-2035 Comprehensive Reliability Plan |   22 
+ 
+ 
+Figure 13: Range of Statewide Margins [To be revised to include Winter] 
+ 
+Aging Generation  
+New York’s generation fleet is among the oldest in the country. Compared to other generation in other 
+Independent System Operator (ISO)/Regional Transmission Operator (RTO) regions in the United States,7 
+NYCA generation ranks among the oldest or second oldest in each of the natural gas steam turbine, 
+combustion turbine, and combined cycle technology types. This is particularly apparent in New York City 
+where the average age of a steam turbine is 65 years.  
+ 
+7 U.S. Energy Information Administration, Form EIA-860 Detailed Data, available at https://www.eia.gov/electricity/data/ 
+eia860/.  
+(12,000)
+(10,000)
+(8,000)
+(6,000)
+(4,000)
+(2,000)
+0
+2,000
+4,000
+6,000
+2026
+2027
+2028
+2029
+2030
+2031
+2032
+2033
+2034
+Statewide Margin (MW)
+Plausable Range of Summer Statewide Margin
+
+
+--- Page 23 ---
+Draft – For Discussion Purposes Only 
+2025-2035 Comprehensive Reliability Plan |   23 
+Figure 14: National Average Generator Age 
+As they age, fossil-fuel thermal generators tend to experience more frequent and longer outages. For 
+instance, owners will have greater difficulties in maintaining and finding replacement parts for older 
+equipment. In New York, owners are also faced with these maintenance difficulties while considering the 
+impact of policies to restrict or eliminate emissions. These factors may drive aging generators to deactivate 
+or be more susceptible to catastrophic failure and, in turn, may exacerbate the NYISO’s trend of declining 
+reliability margins. Reliability concerns associated with the age and condition of New York’s fossil-fuel 
+generation fleet were underscored this past winter by the units entering ICAP Ineligible Forced Outages.8 
+To account for the risks of the NYCA’s reliance on aging generation in reliability planning studies, the 
+NYISO developed a statistical retirement risk model. This method, described in detail in Appendix [*], uses 
+a data-driven approach to represent the risk of end-of-life failures for generating units as they advance in 
+age. The method begins with retirement information for existing and retired generating units from the U.S. 
+Energy Information Administration’s EIA-860 data form.9 Observed retirement behavior is transformed 
+into survival (or retirement) curves for different generator types—e.g., natural gas steam turbines, 
+combined cycle, etc. At the point in which a NYCA generator reaches the age at which 95% of peer units 
+8 Generator Status Updates, https://www.nyiso.com/ny-power-system-information-outlook.  
+9 See generally, U.S. Energy Information Administration, Form EIA-860 Detailed Data, available at 
+https://www.eia.gov/electricity/data/eia860/. 
+
+
+--- Page 24 ---
+  
+ 
+Draft – For Discussion Purposes Only 
+ 
+2025-2035 Comprehensive Reliability Plan |   24 
+ 
+ 
+would have retired, a derate is applied to account for that generator’s increasing retirement or failure risk 
+with age. This derate is applied only to fossil-fuel thermal generators as nuclear, hydro, and renewables 
+have failure and retirement risks that are not as correlated to age. Figure 15 shows how the risk, calculated 
+in unavailable MW, grows in time as the fleet ages during the course of the planning horizon. 
+
+
+--- Page 25 ---
+  
+ 
+Draft – For Discussion Purposes Only 
+ 
+2025-2035 Comprehensive Reliability Plan |   25 
+ 
+ 
+Figure 15: Aging Generation Risk Projection 
+ 
+Figure 16: Statewide Margin Impact of Aging Generation 
+ 
+0
+500
+1000
+1500
+2000
+2500
+3000
+3500
+2026
+2027
+2028
+2029
+2030
+2031
+2032
+2033
+2034
+MW
+Year
+Aging Generation Risks
+Aging Generation Risk Projection
+(12,000)
+(10,000)
+(8,000)
+(6,000)
+(4,000)
+(2,000)
+0
+2,000
+4,000
+6,000
+2026
+2027
+2028
+2029
+2030
+2031
+2032
+2033
+2034
+Statewide Margin (MW)
+NYCA Summer Margin
+Baseline Margin
+Age-Based Retirement Scenario
+(12,000)
+(10,000)
+(8,000)
+(6,000)
+(4,000)
+(2,000)
+0
+2,000
+4,000
+6,000
+2026
+2027
+2028
+2029
+2030
+2031
+2032
+2033
+2034
+Statewide Margin (MW)
+NYCA Winter Margin
+Baseline Margin
+Age Based Retirement Scenario
+
+
+--- Page 26 ---
+  
+ 
+Draft – For Discussion Purposes Only 
+ 
+2025-2035 Comprehensive Reliability Plan |   26 
+ 
+ 
+Demand-Side Uncertainty  
+The 2025 Gold Book includes three demand forecasts: Lower Demand, Baseline, and Higher Demand. 
+Each of these forecasts contain differing inputs on economic, electrification, and large load assumptions. 
+The behind-the-meter (BTM) Solar, BTM distributed generation, and energy storage forecasts are 
+consistent across all scenarios. Further details of the Higher Demand and Lower Demand forecasts are 
+summarized as follows: 
+■ Higher Demand – The Higher Demand forecast is developed to broadly reflect levels of 
+heating electrification and EV adoption commensurate with the achievement of New York’s 
+policy targets. However, the Higher Demand forecast does not include the full potential of 
+peak-mitigating factors, such as managed EV charging and other flexible load and efficiency 
+measures. The Higher Demand forecast assumes additional large load growth beyond that 
+included in the baseline forecast. The Higher Demand econometric and EV and building 
+electrification forecasts assume an increasing population and number of households over the 
+duration of the forecast horizon, and stronger than expected economic growth. 
+■ Lower Demand – The Lower Demand forecast assumes a slower EV adoption rate with a 
+greater share of managed charging and a lower saturation of electric heating than the baseline 
+forecast. Lower Demand forecast assumes reduced large load growth and weaker than 
+expected economic growth relative to the baseline forecast.  
+The result of the differences in the forecasts is that the Higher Demand and Lower Demand forecasts 
+produce lower and upper bounds around the Baseline forecast. Figure 17 provides a visual depiction of the 
+three forecasts. Figure 18 shows the difference in the summer and winter statewide margin for each of the 
+three forecasts. 
+
+
+--- Page 27 ---
+  
+ 
+Draft – For Discussion Purposes Only 
+ 
+2025-2035 Comprehensive Reliability Plan |   27 
+ 
+ 
+Figure 17: Demand-Side Uncertainty  
+  
+Figure 18: Statewide Margin Impact of Demand-Side Uncertainty  
+ 
+ 
+ 
+22,000
+24,000
+26,000
+28,000
+30,000
+32,000
+34,000
+36,000
+38,000
+2026
+2027
+2028
+2029
+2030
+2031
+2032
+2033
+2034
+MW
+Year
+Demand-side Uncertainty
+NYCA Summer Baseline Expected Weather Forecast
+NYCA Winter Baseline Expected Weather Forecast
+Summer High Demand Forecast
+Winter High Demand Forecast
+Summer Low Demand Forecast
+Winter Low Demand Forecast
+(12,000)
+(10,000)
+(8,000)
+(6,000)
+(4,000)
+(2,000)
+0
+2,000
+4,000
+6,000
+2026
+2027
+2028
+2029
+2030
+2031
+2032
+2033
+2034
+Statewide Margin (MW)
+NYCA Summer Margin
+Baseline Margin
+Higher Demand Margin
+Lower Demand Margin
+(12,000)
+(10,000)
+(8,000)
+(6,000)
+(4,000)
+(2,000)
+0
+2,000
+4,000
+6,000
+2026
+2027
+2028
+2029
+2030
+2031
+2032
+2033
+2034
+Statewide Margin (MW)
+NYCA Winter Margin
+Baseline Margin
+Higher Demand Margin
+Lower Demand Margin
+
+
+--- Page 28 ---
+  
+ 
+Draft – For Discussion Purposes Only 
+ 
+2025-2035 Comprehensive Reliability Plan |   28 
+ 
+ 
+Large Loads  
+The recent increase of interconnection requests for large load projects poses a risk to reliability as the 
+magnitude and speed of these requests are far exceeding that of additional resources that would be needed 
+to serve them. Given the NYISO’s approach in developing the demand forecasts and how that aligns with 
+the progress of the large load interconnection requests, the forecasts do not account for all of the large load 
+projects seeking to interconnect to the system. As of early September 2025, there are over 8,000 MW of 
+additional requested large load interconnection projects in the NYISO interconnection queue compared to 
+the loads projects included in the Baseline forecast for the 2024 RNA. Figure 19, below, summarizes the 
+load interconnection projects that are in service and have pending interconnection requests in the NYISO’s 
+queue compared to the large load interconnection projects included in the Baseline forecast.  
+Similar to interconnection requests for resources, not all of the load interconnection projects will 
+timely move forward. This CRP, therefore, examines different assumptions for the large load 
+interconnection requests to better understand the uncertainty to the reliability of the system. 
+■ No New Large Load In Service – Assumes that no large loads go into service over the planning 
+horizon, including the future load projects accounted for in the Baseline forecast.  
+■ No Large Load Flexibility – Consistent with the 2024 RNA, the NYISO assumed in the baseline 
+analyses that cryptocurrency mining and hydrogen production large loads will be flexible 
+during both summer and winter system peak demand conditions. That assumption was based 
+on communications with load project developers and recent operating experience. The values 
+presented for this impact assume that all large loads, regardless of their end-use, are inflexible 
+and would draw power from the grid under all system conditions.  
+■ All Proposed Large Load In Service – Assumes that all proposed large load interconnection 
+requests as of September 5, 2025 are in service and operating at their full requested loads. 
+Figure 20 details the impact of each of the above changes in the assumptions for the large load projects 
+on the statewide margin in both the summer and winter periods. 
+
+
+--- Page 29 ---
+  
+ 
+Draft – For Discussion Purposes Only 
+ 
+2025-2035 Comprehensive Reliability Plan |   29 
+ 
+ 
+Figure 19: Large Load Interconnection Projects 
+ 
+
+
+--- Page 30 ---
+  
+ 
+Draft – For Discussion Purposes Only 
+ 
+2025-2035 Comprehensive Reliability Plan |   30 
+ 
+ 
+Figure 20: Statewide Margin Impact of Large Load Interconnection Projects 
+ 
+Weather Variability 
+Weather is a separate variable in forecasting demand from the policy and economic development 
+considerations mentioned in the previous sections. The design condition of the baseline peak forecasts, as 
+published each year in the NYISO Gold Book, are designed by the Transmission Owners at 67th percentile 
+weather conditions for the Con Edison and Orange and Rockland service territories, and at the 50th 
+percentile in the remaining transmission districts. The baseline forecasts are representative of expected 
+weather for a given period. The baseline summer peak day daily maximum temperature is 92 degrees, and 
+the baseline winter daily minimum temperature is 8 degrees. 
+■ Heatwave (90/10) - The 90th percentile summer peak forecast represents a warmer than 
+expected summer peak day with the daily maximum temperature being 95 degrees. 
+■ Coldsnap (90/10) - The 90th percentile winter peak forecast represents a colder than 
+expected winter peak day with the daily minimum temperature being 0 degrees. 
+■ Mild Summer (10/90) - The 10th percentile summer peak forecast represents a milder than 
+expected seasonal peak day, with cooler weather during the summer peak and a daily 
+maximum temperature of 87 degrees. 
+■ Mild Winter (10/90) - The 10th percentile winter peak forecast represents a milder than 
+expected seasonal peak day, with warmer weather during the winter peak and a daily 
+maximum temperature of 19 degrees. 
+(12,000)
+(10,000)
+(8,000)
+(6,000)
+(4,000)
+(2,000)
+0
+2,000
+4,000
+6,000
+2026
+2027
+2028
+2029
+2030
+2031
+2032
+2033
+2034
+Statewide Margin (MW)
+NYCA Summer Margin
+Baseline Margin
+No New Large Loads Margin
+No Large Load Flexibility Margin
+All Queue Large Loads Margin
+(12,000)
+(10,000)
+(8,000)
+(6,000)
+(4,000)
+(2,000)
+0
+2,000
+4,000
+6,000
+2026
+2027
+2028
+2029
+2030
+2031
+2032
+2033
+2034
+Statewide Margin (MW)
+NYCA Winter Margin
+Baseline Margin
+No New Large Loads Margin
+No Large Load Flexibility Margin
+All Queue Large Loads Margin
+
+
+--- Page 31 ---
+  
+ 
+Draft – For Discussion Purposes Only 
+ 
+2025-2035 Comprehensive Reliability Plan |   31 
+ 
+ 
+The design condition serves as a balanced benchmark used in planning studies. However, the NYISO 
+still needs to operate the system reliably throughout the various weather variations and, therefore, the 
+actual peaks will vary from the baseline peak forecast. As a reference point, the actual peak during the cold 
+snap that occurred between January 18 and January 23, 2025 was approximately 99th percentile (99/1) of 
+the winter 2024/2025 baseline forecast, and the mid-June 2025 heat wave that occurred between June 23 
+and June 25 approached the summer 90th percentile (90/10) forecast. 
+Figure 21, below, summarizes the variability of the forecasts based on the variability of the weather 
+compared to the summer and winter baseline expected weather forecast for the NYCA.  Figure 22 then 
+shows the impact of the 90/10 and 10/90 weather forecasts on the statewide margin for summer and 
+winter periods. 
+Figure 21: Weather Variability 
+ 
+22,000
+24,000
+26,000
+28,000
+30,000
+32,000
+34,000
+36,000
+38,000
+2026
+2027
+2028
+2029
+2030
+2031
+2032
+2033
+2034
+MW
+Year
+Statewide Weather Variability 
+NYCA Summer Baseline Expected Weather Forecast
+NYCA Winter Baseline Expected Weather Forecast
+Heatwave (90/10) Weather Forecast
+Coldsnap (90/10) Weather Forecast
+Mild Summer (10/90) Weather Forecast
+Mild Winter (10/90) Weather Forecast
+
+
+--- Page 32 ---
+  
+ 
+Draft – For Discussion Purposes Only 
+ 
+2025-2035 Comprehensive Reliability Plan |   32 
+ 
+ 
+Figure 22: Statewide Margin Impact of Weather Variability 
+ 
+ 
+Reliance on Imports  
+The baseline statewide margin calculation assumes that all firm scheduled imports from neighboring 
+systems, as determined by the Eastern Interconnection Reliability Assessment Group’s annual processes, 
+are available. Figure 23 summarizes the assumed interface flows used for the transmission security margin 
+calculations. In summer peak conditions, the NYISO is expected to receive a net total of 3,094 MW from 
+neighboring systems—of which 734 MW is assumed to be delivered to NYCA during winter peak 
+conditions. However, during peak conditions when the New York system is stressed, neighboring systems 
+may not be able to deliver power to New York due to their own system needs. 
+To assess uncertainty from neighboring systems being unable to deliver power to New York, this CRP 
+assessed different scenarios of import limitation: 
+■ The unavailability of imports Hydro Quebec over CHPE 
+■ The unavailability of imports from PJM over Neptune 
+■ The unavailability imports from PJM over Linden VFT 
+■ The unavailability of all firm imports into the NYCA 
+(12,000)
+(10,000)
+(8,000)
+(6,000)
+(4,000)
+(2,000)
+0
+2,000
+4,000
+6,000
+2026
+2027
+2028
+2029
+2030
+2031
+2032
+2033
+2034
+Statewide Margin (MW)
+NYCA Summer Margin
+Baseline Margin
+Extreme Weather (9010) Margin
+Mild Weather (1090) Margin
+(12,000)
+(10,000)
+(8,000)
+(6,000)
+(4,000)
+(2,000)
+0
+2,000
+4,000
+6,000
+2026
+2027
+2028
+2029
+2030
+2031
+2032
+2033
+2034
+Statewide Margin (MW)
+NYCA Winter Margin
+Baseline Margin
+Extreme Weather (9010) Margin
+Mild Weather (1090) Margin
+
+
+--- Page 33 ---
+  
+ 
+Draft – For Discussion Purposes Only 
+ 
+2025-2035 Comprehensive Reliability Plan |   33 
+ 
+ 
+Figure 24 summarizes the impacts to the statewide margin in both summer and winter.  Figures 25 
+and 26 summarize the impacts to specifics zones within the NYCA for the unavailability of imports over 
+CHPE and Linden VFT and Neptune.  
+Figure 23: Imports from Neighbors 
+ 
+ 
+ 
+Figure 24: Statewide Margin Impact of Imports 
+ 
+(12,000)
+(10,000)
+(8,000)
+(6,000)
+(4,000)
+(2,000)
+0
+2,000
+4,000
+6,000
+2026
+2027
+2028
+2029
+2030
+2031
+2032
+2033
+2034
+Statewide Margin (MW)
+NYCA Summer Margin
+Baseline Margin
+CHPE Unavailable Margin
+Neptune Unavailable Margin
+Loss of All Firm Imports Margin
+(12,000)
+(10,000)
+(8,000)
+(6,000)
+(4,000)
+(2,000)
+0
+2,000
+4,000
+6,000
+2026
+2027
+2028
+2029
+2030
+2031
+2032
+2033
+2034
+Statewide Margin (MW)
+NYCA Winter Margin
+Baseline Margin
+CHPE Unavailable Margin
+Neptune Unavailable Margin
+Loss of All Firm Imports Margin
+
+
+--- Page 34 ---
+  
+ 
+Draft – For Discussion Purposes Only 
+ 
+2025-2035 Comprehensive Reliability Plan |   34 
+ 
+ 
+Figure 25: Zone J Transmission Security Margin with Impact of Imports 
+ 
+Figure 26: Zone K Transmission Security Margin with Impact of Imports 
+ 
+ 
+Demand Response  
+Demand response includes Special Case Resources (SCRs) for which the load is capable of being 
+interrupted at the direction of the NYISO or have a Local Generator that can be operated to reduce load 
+from the New York State Transmission System or the distribution system at the direction of the NYISO. In 
+the NYISO’s reliability planning studies, SCRs are not applied for transmission security analysis of normal 
+operations but are included for emergency operations.  
+
+
+--- Page 35 ---
+  
+ 
+Draft – For Discussion Purposes Only 
+ 
+2025-2035 Comprehensive Reliability Plan |   35 
+ 
+ 
+Figure 29 shows the SCR enrollment and derated values based on historic performance that assumed 
+in the CRP.  
+Figure 27: Special Case Resources 
+ 
+Figure 28: Statewide Margin Impact of Special Case Resources 
+ 
+ 
+Potential Transmission and Generation Project Delays 
+Recently, supply chain issues have led to long lead times for the delivery of equipment needed to 
+construct energy infrastructure. Additionally, delays in acquiring the permits that are required to build 
+projects add additional risk for planned projects to meet their proposed in-service dates. This includes the 
+potential for delay of key transmission projects like CHPE and Propel NY Alternate Solution 5, which are 
+expected to have, among other things, a positive impact on overall system reliability. Transmission Owner 
+(12,000)
+(10,000)
+(8,000)
+(6,000)
+(4,000)
+(2,000)
+0
+2,000
+4,000
+6,000
+2026
+2027
+2028
+2029
+2030
+2031
+2032
+2033
+2034
+Statewide Margin (MW)
+NYCA Summer Margin
+Baseline Margin
+SCR Historical Performance Margin
+SCR All Enrolled Margin
+(12,000)
+(10,000)
+(8,000)
+(6,000)
+(4,000)
+(2,000)
+0
+2,000
+4,000
+6,000
+2026
+2027
+2028
+2029
+2030
+2031
+2032
+2033
+2034
+Statewide Margin (MW)
+NYCA Winter Margin
+Baseline Margin
+SCR Historical Performance Margin
+SCR All Enrolled Margin
+
+
+--- Page 36 ---
+  
+ 
+Draft – For Discussion Purposes Only 
+ 
+2025-2035 Comprehensive Reliability Plan |   36 
+ 
+ 
+Local Transmission Plans (“LTPs”) and additional resources planned through the NYISO interconnection 
+process may also be postponed.  
+Currently, the Reliability Planning Process base cases assume over 4,400 MW of planned additional 
+resources will be in service by the end of 2028. Recent actions taken by the federal government have 
+drastically impacted the prospects for the development and construction of offshore wind and other 
+renewable resources. The delay or cancellation of these resources coming into service will have adverse 
+effects on system reliability. The total of nameplate additions assumed by fuel type are summarized in 
+Figure 29. 
+Figure 29: Resource Additions 
+ 
+■ CHPE Unavailable – Assumes the unavailability or delay of CHPE entering service past 
+summer 2026.  The CHPE connection from Quebec, Canada to New York City is currently 
+scheduled to enter service in spring 2026 and is assumed to provide 1,250 MW to New York 
+City in summer but 0 MW in winter.  
+■ Propel NY Alternate Solution 5 Project Delay – Assumes the delay of the Propel NY 
+Alternate Solution 5 project, which in-service date is currently identified as May 2030.  The 
+transmission infrastructure from this project will increase the import capability into Long 
+Island from upstate by about 1,300 MW.  
+■ Status Quo – Assumes that transmission and generation projects that are currently planned 
+for in the Reliability Planning base cases but not currently in service (3,600 MW generation 
+projects, as described above) do not enter service during the planning horizon, while 
+maintaining the assumption that demand grows as forecasted, including large load 
+development.  
+210
+1613
+1993
+0
+117
+656
+0
+816
+1740
+15
+35
+35
+0
+200
+400
+600
+800
+1000
+1200
+1400
+1600
+1800
+2000
+2026
+2027
+2028+
+MW
+Year
+Running Total of Namplate MW Additions
+Solar
+Land-Based Wind
+Off-shore Wind
+Energy Storage
+
+
+--- Page 37 ---
+  
+ 
+Draft – For Discussion Purposes Only 
+ 
+2025-2035 Comprehensive Reliability Plan |   37 
+ 
+ 
+Figure 26 shows the statewide impact of Status Quo and CHPE Unavailable scenarios, while Figure 31 
+and Figure 28 show the significant impact of CHPE or Propel NY to the New York City and Long Island 
+transmission security margines, respectively.  
+Figure 30: Statewide Margin Impact of Project Delays 
+ 
+Figure 31: Zone J Transmission Security Margin with Impact of Project Delays 
+ 
+(12,000)
+(10,000)
+(8,000)
+(6,000)
+(4,000)
+(2,000)
+0
+2,000
+4,000
+6,000
+2026
+2027
+2028
+2029
+2030
+2031
+2032
+2033
+2034
+Statewide Margin (MW)
+NYCA Summer Margin
+Baseline Margin
+CHPE Unavailable Margin
+Status Quo Margin
+(12,000)
+(10,000)
+(8,000)
+(6,000)
+(4,000)
+(2,000)
+0
+2,000
+4,000
+6,000
+2026
+2027
+2028
+2029
+2030
+2031
+2032
+2033
+2034
+Statewide Margin (MW)
+NYCA Winter Margin
+Baseline Margin
+CHPE Unavailable Margin
+Status Quo Margin
+
+
+--- Page 38 ---
+  
+ 
+Draft – For Discussion Purposes Only 
+ 
+2025-2035 Comprehensive Reliability Plan |   38 
+ 
+ 
+Figure 32: Zone K Transmission Security Margin with Impact of Project Delays 
+ 
+ 
+Additional Resources 
+Narrowing statewide reliability margins are observed in the baseline statewide system margin results, 
+indicating that no surplus power would remain by 2034 without further resource development. As 
+discussed above, the calculation of the baseline statewide margin in this CRP only assumes a subset of the 
+total resources in the NYISO’s interconnection queue. The narrowing reliability margins could be positively 
+impacted by the advancement of projects that have completed the NYISO interconnection process, as well 
+as the retention or replacement of existing generators. This assessment of additional resources evaluates: 
+■ Cluster Baseline Assessment (CBA) Case –  The generation projects summarized in Figure 33 
+have previously accepted cost allocation through the NYISO interconnection process, but do 
+not yet meet other requirements of the reliability planning base case inclusion rules. Two 
+scenarios, storage on and off, consider the impact if the energy storage projects have sufficient 
+stage of charge to deliver power during the duration of the peak demand periods.  
+Figure 33: Additional Resources from CBA Case  
+ 
+
+
+--- Page 39 ---
+  
+ 
+Draft – For Discussion Purposes Only 
+ 
+2025-2035 Comprehensive Reliability Plan |   39 
+ 
+ 
+Additionally, this assessment considers the impact of retaining or replacing existing units with 
+functionally equivalent resources. For example, the impact of the potential retirement or replacement of 
+the NYPA small natural gas power plants is shown. 
+■ NYPA Small Gas Plants – The baseline analysis assumes NYPA’s seven small natural gas 
+power plants (simple-cycle combustion turbines) in New York City and Long Island are 
+removed by 2031, despite having a relatively young age of 27 years. This scenario looks at the 
+impact if the 517 MW plants are either retained or replaced by functionally equivalent 
+generation. 
+ 
+Figure 34: Statewide Margin Impact of Additional Resources  
+ 
+[New York City charts to be added in a future draft] 
+ 
+ 
+(12,000)
+(10,000)
+(8,000)
+(6,000)
+(4,000)
+(2,000)
+0
+2,000
+4,000
+6,000
+2026
+2027
+2028
+2029
+2030
+2031
+2032
+2033
+2034
+Statewide Margin (MW)
+NYCA Summer Margin
+Baseline Margin
+CBA Storage Off Margin
+CBA Storage On Margin
+Retain/Replace NYPA GTs Margin
+(12,000)
+(10,000)
+(8,000)
+(6,000)
+(4,000)
+(2,000)
+0
+2,000
+4,000
+6,000
+2026
+2027
+2028
+2029
+2030
+2031
+2032
+2033
+2034
+Statewide Margin (MW)
+NYCA Winter Margin
+Baseline Margin
+CBA Storage Off Margin
+CBA Storage On Margin
+Retain NYPA GTs Margin
+
+
+--- Page 40 ---
+  
+ 
+Draft – For Discussion Purposes Only 
+ 
+2025-2035 Comprehensive Reliability Plan |   40 
+ 
+ 
+ 
+Plausible Combinations of System Risks 
+In addition to the assessment of the uncertainty around each individual key system factor discussed 
+above, this CRP takes the additional step to examine combinations of these uncertainties to understand and 
+highlight how different plausible configurations can benefit or harm system reliability margins beyond the 
+assumed “baseline” condition. Figure 35 and Figure 36 show that, in most of the combinations assessed, 
+which are more fully described herein, the statewide system margins during summer and winter peak 
+conditions decrease over time. Most of the combinations of scenarios show decreasing margins through 
+2034 with the range of future margins growing over time. The most optimistic scenario combinations show 
+positive margins by 2034 that are roughly equivalent to today’s margins in the positive 2,000 MW range. 
+On the other hand, the most pessimistic scenario combinations show deficiencies of up to 10,000 MW by 
+2034. While a negative statewide system margin is not, on its own, a violation of a Reliability Criterion, it is 
+a leading indicator of the inability to securely meet system load under applicable normal system conditions.  
+
+
+--- Page 41 ---
+  
+ 
+Draft – For Discussion Purposes Only 
+ 
+2025-2035 Comprehensive Reliability Plan |   41 
+ 
+ 
+Figure 35: Summer Statewide Margin Risks 
+ 
+ 
+Figure 36: Winter Statewide Margin Risks 
+ 
+(12,000)
+(10,000)
+(8,000)
+(6,000)
+(4,000)
+(2,000)
+0
+2,000
+4,000
+6,000
+2026
+2027
+2028
+2029
+2030
+2031
+2032
+2033
+2034
+Statewide Margin (MW)
+NYCA Summer Margin Scenario Combinations
+B1
+S1
+S2
+S3
+S4
+S5
+S6
+S7
+S8
+S9
+B2
+Base
+(12,000)
+(10,000)
+(8,000)
+(6,000)
+(4,000)
+(2,000)
+0
+2,000
+4,000
+6,000
+2026
+2027
+2028
+2029
+2030
+2031
+2032
+2033
+2034
+Statewide Margin (MW)
+NYCA Winter Margin Scenario Combinations
+B1
+S1
+S2
+S3
+S4
+S5
+S6
+S7
+S8
+S9
+B2
+Base
+
+
+--- Page 42 ---
+  
+ 
+Draft – For Discussion Purposes Only 
+ 
+2025-2035 Comprehensive Reliability Plan |   42 
+ 
+ 
+Short summaries are given below to describe how each scenario combination differs from the baseline 
+statewide transmission security margin assessed in this CRP. Some factors describe long-term trends, such 
+as generation construction and retirements, while others describe load or generation behavior on the peak 
+hour, such as battery storage discharging or use of SCRs. Two combination scenarios (i.e., B1 – Boundary 
+Scenario 1 and B2 – Boundary Scenario 2, as detailed below) are designated as boundary scenarios because 
+between them, they capture a realistic range of statewide transmission security margins. The grey shaded 
+area between boundary scenario margins is used as a reference for the statewide margin charts in the rest 
+of the CRP.  
+■ Baseline 
+• 
+Assumed System Conditions: Conditions on the peak hour align with baseline statewide 
+transmission security margin assumptions for load, weather, conventional generation 
+availability, solar and wind generation levels, and import availability.  
+• 
+Expected Statewide Margin in 2034: Summer is deficient by approximately 500 MW; 
+winter is deficient by approximately 2,300 MW. 
+■ B1 – Boundary Scenario 1 
+• 
+Assumed System Conditions: Demand growth follows the Lower Demand forecast from 
+the 2025 Gold Book. 
+• 
+Expected Statewide Margin in 2034: Summer is sufficient by approximately 2,500 MW; 
+winter is sufficient by approximately 800 WM. 
+■ S1 – Scenario Combination 1 
+• 
+Assumed System Conditions: All generation in the queue is constructed on schedule, 
+and battery storage is discharging at maximum output during the peak hour. 
+• 
+Expected Statewide Margin in 2034: Summer is sufficient by approximately 2,800 MW; 
+winter is sufficient by approximately 600 MW. 
+■ S2 – Scenario Combination 2 
+• 
+Assumed System Conditions: All generation in the queue is constructed on schedule, 
+and no battery storage is discharging during the peak hour. 
+• 
+Expected Statewide Margin in 2034: Summer is sufficient by approximately 100 WM, 
+winter is deficient by approximately 2,100 MW. 
+■ S3 – Scenario Combination 3 
+• 
+Assumed System Conditions: A summer heatwave occurs, and SCRs are called and 
+respond in line with historical performance. 
+• 
+Expected Statewide Margin in 2034: Summer is deficient by approximately 100 MW, 
+winter is deficient by approximately 2,600 MW. 
+■ S4 – Scenario Combination 4 
+• 
+Assumed System Conditions: A summer heatwave occurs. 
+• 
+Expected Statewide Margin in 2034: Summer is deficient by approximately 1,900 MW, 
+winter is deficient by approximately 3,300 MW. 
+
+
+--- Page 43 ---
+  
+ 
+Draft – For Discussion Purposes Only 
+ 
+2025-2035 Comprehensive Reliability Plan |   43 
+ 
+ 
+■ S5 – Scenario Combination 5 
+• 
+Assumed System Conditions: Aging generation retires in line with NYISO’s preliminary 
+forecasting method; SCRs are called and respond in line with historical performance; 
+and NYPA small plants are retained or replaced with functional equivalents. 
+• 
+Expected Statewide Margin in 2034: Summer is deficient by approximately 1,700 MW, 
+winter is deficient by approximately 3,000 MW. 
+■ S6 – Scenario Combination 6 
+• 
+Assumed System Conditions: Aging generation retires in line with NYISO’s preliminary 
+forecasting method. 
+• 
+Expected Statewide Margin in 2034: Summer is deficient by approximately 2,900 MW, 
+winter is deficient by approximately 4,100 MW. 
+■ S7 – Scenario Combination 7 
+• 
+Assumed System Conditions: All large loads currently in the interconnection process 
+connect to the NYCA; SCRs are called and respond in line with historical performance, 
+NYPA small plants are retained or replaced with functional equivalents; all generation 
+in the queue is constructed on schedule; and all battery storage is discharging at 
+maximum output during the peak hour. 
+• 
+Expected Statewide Margin in 2034: Summer is deficient by approximately 4,100 MW, 
+winter is deficient by approximately 6,400 MW. 
+■ S8 – Scenario Combination 8 
+• 
+Assumed System Conditions: All large loads currently in the interconnection process 
+connect to the NYCA. 
+• 
+Expected Statewide Margin in 2034: Summer is deficient by approximately 8,600 MW, 
+winter is deficient by approximately 10,300 MW. 
+■ S9 – Scenario Combination 9 
+• 
+Assumed System Conditions: Demand growth follows the Higher Demand forecast, 
+aging generation retires in line with NYISO’s preliminary forecasting method; SCRs are 
+called and respond in line with historical performance; NYPA small plants are retained 
+or replaced with functional equivalents; all generation in the queue is constructed on 
+schedule; and all battery storage is discharging at maximum output during the peak 
+hour. 
+• 
+Expected Statewide Margin in 2034: Summer is deficient by approximately 1,500 MW, 
+winter is deficient by approximately 6,000 MW. 
+■ B2 – Boundary Scenario 2 
+• 
+Assumed System Conditions: Demand growth follows the Higher Demand forecast and 
+aging generation retires in line with NYISO’s preliminary forecasting method. 
+• 
+Expected Statewide Margin in 2034: Summer is deficient by approximately 6,100 MW, 
+winter is deficient by approximately 10,000 MW. 
+ 
+ 
+
+
+--- Page 44 ---
+  
+ 
+Draft – For Discussion Purposes Only 
+ 
+2025-2035 Comprehensive Reliability Plan |   44 
+ 
+ 
+Potential Pathways to a Reliable Grid 
+The 2022 RNA and 2024 RNA show a clear trend toward narrowing reliability margins, which are only 
+compounded by the risks and uncertainties highlighted earlier in the CRP. The two biggest uncertainties 
+that affect the future reliability of the New York system are demand growth (including large loads) and the 
+reliance on the aging thermal generation fleet. The CRP explored the interaction of these two key factors 
+and potential pathways to maintain reliability for different scenarios.  The CRP takes it a step further by 
+using certain combination scenarios and assessing the system for violation of resource adequacy that 
+would result in the identification of Reliability Needs and necessitate solutions, as follows: 
+■ Resource adequacy was assessed over the 2026-2034 period;  
+■ The Lower Demand, Baseline, and Higher Demand forecasts are assessed to evaluate reliability 
+over the range of demand uncertainty; 
+■ Effects of aging generation are modeled in each of the three demand forecasts using the 
+statistical retirement risk model described in Appendix [*]; and 
+■ If any of the scenarios exceed the 0.1 event-days/year LOLE criterion, different generalized 
+scenarios are modeled to try to address the resource deficiency: 
+• 
+CBA: Generation and storage projects are added that have accepted cost allocation in 
+the generator interconnection process, but do not yet meet reliability base case 
+inclusion rules. This scenario adds 4,219 MW of solar, 1,158 MW of wind, and 2,519 
+MW of storage. 
+• 
+CBA + NYPA Small Plants: The NYPA small gas plants, totaling 517 MW in Zones J and K, 
+are modeled as in-service past 2031 to represent either retention or inclusion of a 
+comparable replacement. This scenario is intended to highlight the beneficial 
+contribution to reliability from the power and operating characteristics of the NYPA 
+small gas plants after 2030. This scenario is not intended to assess or reflect NYPA’s 
+May 2025 plan, which includes assessments that would conduct detailed evaluations of 
+emissions impacts from deactivating its small gas plants and would evaluate impacts 
+and retirements on a plant-by-plant basis, including the reuse of these sites  for battery 
+energy storage.10 
+• 
+CBA + NYPA Small Plants + Additional Generation: Compensatory MW in the form of 
+perfect capacity additions are added statewide to indicate the remaining resources that 
+would have to be procured to bring the system within LOLE criterion.   
+The figure below illustrates the sequence of analysis. 
+ 
+10 NY Power Authority, Small Natural Gas Power Plants, https://www.nypa.gov/small-natural-gas-power-plants (last visited 
+September 19, 2025). 
+
+
+--- Page 45 ---
+  
+ 
+Draft – For Discussion Purposes Only 
+ 
+2025-2035 Comprehensive Reliability Plan |   45 
+ 
+ 
+ 
+Lower Demand Forecast 
+Figure 37 below compares the annual, summer, and winter NYCA LOLE of the Lower Demand forecast 
+with and without the effect of aging generation risks. As expected, aging generation increased the LOLE 
+from the analysis with solely the Lower Demand forecast; however, the NYCA LOLE is still below the 0.1 
+event-days/year criterion, with the Lower Demand forecast.  
+Figure 37: NYCA LOLE with Lower Demand Forecast Table 
+ 
+ 
+ 
+ 
+ 
+ 
+ 
+ 
+Baseline
++ Aging
++ CBA
++ NYPA GTs
+Potential Pathways to a Reliable Grid
+Aging Gen:
+~3,000 MW 
+of theremal 
+gen 
+removed
+Baseline
+Risk
+Level in 
+2034
+CBA 
+Projects: 
+~8,000 MW 
+PV, wind, 
+storage
+added
+NYPA
+Small 
+Plants:
+~500 MW 
+thermal 
+added
+0.1 LOLE
+NYCA LOLE (event-days/yr) 
+Case 
+Season 
+2026 
+2027 
+2028 
+2029 
+2030 
+2031 
+2032 
+2033 
+2034 
+Lower Demand 
+Annual 
+0.011 
+0.003 
+0.004 
+0.003 
+0.000 
+0.002 
+0.001 
+0.001 
+0.001 
+  
+Summer 
+0.011 
+0.003 
+0.004 
+0.003 
+0.000 
+0.002 
+0.001 
+0.001 
+0.001 
+  
+Winter 
+0.000 
+0.000 
+0.000 
+0.000 
+0.000 
+0.000 
+0.000 
+0.000 
+0.000 
++ Aging 
+Annual 
+0.011 
+0.004 
+0.006 
+0.007 
+0.002 
+0.007 
+0.010 
+0.014 
+0.020 
+  
+Summer 
+0.011 
+0.004 
+0.006 
+0.007 
+0.002 
+0.007 
+0.010 
+0.013 
+0.019 
+  
+Winter 
+0.000 
+0.000 
+0.000 
+0.000 
+0.000 
+0.000 
+0.000 
+0.000 
+0.001 
+ 
+
+
+--- Page 46 ---
+  
+ 
+Draft – For Discussion Purposes Only 
+ 
+2025-2035 Comprehensive Reliability Plan |   46 
+ 
+ 
+Figure 38: NYCA LOLE with Lower Demand Forecast Graph  
+ 
+ 
+Baseline Demand Forecast 
+Figure 39 below compares the annual, summer, and winter NYC LOLE of the Baseline demand forecast 
+with and without the effect of aging generation risks. As expected, the Baseline demand forecast with the 
+aging generation increased the LOLE compared to the LOLE for the Baseline demand forecast with 
+violations of the criterion starting in 2033.  
+The following additional scenarios were performed to further characterize the nature of the criterion 
+violations and identify the impact of possible solutions: 
+• 
+Baseline Demand Forecast + Aging Generation + CBA Scenario: The CBA scenario of 
+adding roughly 8,000 MW of proposed renewable and storage projects addressed the NYCA 
+LOLE violations in 2033 and lowered the LOLE in 2024, but not below its criterion of 0.1 
+event-days/year.  
+• 
+Baseline Demand Forecast + Aging Generation + CBA + NYPA Small Plants Scenario: To 
+further address the remaining violation in year 2034, the NYPA small plants were modeled as 
+in-service starting in 2031. This further lowers the NYCA LOLE; however, it is still not below 
+0.00
+0.02
+0.04
+0.06
+0.08
+0.10
+2026
+2027
+2028
+2029
+2030
+2031
+2032
+2033
+2034
+LOLE (event-days/yr, log scale)
+NYCA LOLE Lower Demand 
+Lower Demand
++ Aging
+Criterion
+
+
+--- Page 47 ---
+  
+ 
+Draft – For Discussion Purposes Only 
+ 
+2025-2035 Comprehensive Reliability Plan |   47 
+ 
+ 
+its criterion. 
+These additional scenario analyses identified that roughly 400 MW of additional “perfect capacity” is 
+needed in the scenario with the addition of the CBA assumption to remain within criterion through 2033 
+and about 175 MW with the addition of both the CBA and NYPA Small Plants assumptions to remain within 
+criterion out to 2034.  
+Figure 39: NYCA LOLE with Baseline Forecast Table 
+ 
+ 
+Figure 40: NYCA LOLE with Baseline Forecast Graph 
+ 
+Case
+Season
+2026
+2027
+2028
+2029
+2030
+2031
+2032
+2033
+2034
+Baseline
+Annual
+0.015
+0.007
+0.009
+0.010
+0.008
+0.019
+0.024
+0.029
+0.052
+Summer
+0.015
+0.007
+0.008
+0.010
+0.008
+0.019
+0.024
+0.026
+0.031
+Winter
+0.000
+0.000
+0.000
+0.000
+0.000
+0.000
+0.000
+0.004
+0.021
++ Aging
+Annual
+0.016
+0.009
+0.013
+0.025
+0.019
+0.049
+0.083
+0.170
+0.415
+Summer
+0.016
+0.009
+0.013
+0.025
+0.019
+0.049
+0.081
+0.142
+0.244
+Winter
+0.000
+0.000
+0.000
+0.000
+0.000
+0.000
+0.001
+0.028
+0.171
++ CBA
+Annual
+0.014
+0.003
+0.004
+0.005
+0.004
+0.015
+0.027
+0.060
+0.152
+Summer
+0.014
+0.003
+0.004
+0.005
+0.004
+0.015
+0.027
+0.051
+0.086
+Winter
+0.000
+0.000
+0.000
+0.000
+0.000
+0.000
+0.000
+0.009
+0.066
+400
+         
++ NYPA GTs
+Annual
+0.014
+0.003
+0.004
+0.005
+0.004
+0.010
+0.019
+0.041
+0.119
+Summer
+0.014
+0.003
+0.004
+0.005
+0.004
+0.010
+0.019
+0.032
+0.053
+Winter
+0.000
+0.000
+0.000
+0.000
+0.000
+0.000
+0.000
+0.009
+0.066
+175
+         
+NYCA LOLE (event-days/yr)
+Compensatory MW (LOLE = 0.1 event-days/yr), Load Ratio
+Compensatory MW (LOLE = 0.1 event-days/yr), Load Ratio
+0.00
+0.05
+0.10
+0.15
+0.20
+0.25
+0.30
+0.35
+0.40
+0.45
+2026
+2027
+2028
+2029
+2030
+2031
+2032
+2033
+2034
+LOLE (event-days/yr)
+NYCA LOLE Baseline Demand 
+Baseline
++ Aging
++ CBA
++ NYPA GTs
+Criterion
+
+
+--- Page 48 ---
+  
+ 
+Draft – For Discussion Purposes Only 
+ 
+2025-2035 Comprehensive Reliability Plan |   48 
+ 
+ 
+The figure below visually depicts three reliability indices by summer versus winter and shows summer has 
+more risk than winter within the 10-year study period. 
+Figure 41: Resource Adequacy Reliability Indices 
+ 
+ 
+Figure 42: 2034 LOLE Results with Impacts of Uncertainty 
+ 
+ 
+Higher Demand Forecast 
+Figure 43 below compares the annual, summer, and winter NYCA LOLE of the Higher Demand forecast 
+with and without the effect of aging generation risks. With solely the Higher Demand forecast, the NYCA 
+LOLE is above its criterion starting in year 2031. The addition of the aging generation assumption further 
+increased the NYCA LOLE across all years studied; however, it advanced the first year that the LOLE 
+exceeded criterion to be year 2030. Notably, with the aging generation assumption, the LOLE is at criterion 
+beginning in 2029.  
+
+
+--- Page 49 ---
+  
+ 
+Draft – For Discussion Purposes Only 
+ 
+2025-2035 Comprehensive Reliability Plan |   49 
+ 
+ 
+Based on the foregoing, the CRP conducted additional scenarios to further characterize the nature of 
+the criterion violations and to identify the impact of possible solutions. 
+• 
+Higher Demand Forecast + Aging Generation + CBA Scenario: This CBA scenario added 
+roughly 8,000 MW of proposed renewable and storage projects but, in doing so, shifted the 
+criterion violation later by only one year with the NYCA LOLE violations starting in year 2031 
+as opposed to year 2030.  
+• 
+Higher Demand Forecast + Aging Generation + CBA + NYPA Small Plants Scenario:  To 
+further address the remaining violation in year 2034, the NYPA small plants were modeled as 
+in-service starting in year 2031. This additional assumption further lowers the NYCA LOLE; 
+however, the system is still not below its criterion starting in year 2031. 
+These additional scenario analyses also identified that bring NYCA LOLE to or below criterion, roughly 
+4,800 MW of additional “perfect capacity” is needed in the scenario with the addition of the CBA 
+assumption and about 4,675 MW with the addition of both the CBA and NYPA small plant assumptions.  
+ 
+Figure 43: NYCA LOLE with Higher Demand Forecast Table 
+ 
+ 
+ 
+Case
+Season
+2026
+2027
+2028
+2029
+2030
+2031
+2032
+2033
+2034
+Higher Demand Annual
+0.026
+0.022
+0.036
+0.073
+0.073
+0.195
+0.358
+0.950
+2.469
+Summer
+0.026
+0.022
+0.033
+0.050
+0.069
+0.171
+0.264
+0.363
+0.620
+Winter
+0.000
+0.000
+0.003
+0.022
+0.004
+0.024
+0.094
+0.587
+1.848
++ Aging
+Annual
+0.027
+0.041
+0.044
+0.100
+0.153
+0.417
+1.030
+3.772
+7.866
+Summer
+0.027
+0.041
+0.042
+0.080
+0.148
+0.379
+0.781
+1.914
+4.043
+Winter
+0.000
+0.000
+0.003
+0.020
+0.005
+0.038
+0.249
+1.858
+3.823
++ CBA
+Annual
+0.023
+0.012
+0.018
+0.035
+0.049
+0.184
+0.434
+1.478
+3.845
+Summer
+0.023
+0.012
+0.017
+0.028
+0.049
+0.173
+0.349
+0.715
+1.613
+Winter
+0.000
+0.000
+0.001
+0.007
+0.001
+0.011
+0.085
+0.763
+2.232
+4,800
+     
++ NYPA GTs
+Annual
+0.023
+0.012
+0.018
+0.035
+0.049
+0.135
+0.346
+1.241
+3.216
+Summer
+0.023
+0.012
+0.017
+0.028
+0.048
+0.125
+0.262
+0.520
+1.134
+Winter
+0.000
+0.000
+0.001
+0.007
+0.001
+0.011
+0.084
+0.721
+2.082
+4,675
+     
+NYCA LOLE (event-days/yr)
+Compensatory MW (LOLE = 0.1 event-days/yr), Load Ratio
+Compensatory MW (LOLE = 0.1 event-days/yr), Load Ratio
+
+
+--- Page 50 ---
+  
+ 
+Draft – For Discussion Purposes Only 
+ 
+2025-2035 Comprehensive Reliability Plan |   50 
+ 
+ 
+Figure 44: NYCA LOLE with Higher Demand Forecast Graph 
+ 
+ 
+Reliability Planning Role in Identifying Solutions 
+When accounting for the risks associated with the system’s reliance on aging generation, the 
+preliminary scenario findings of this CRP show the likelihood of identifying resource adequacy deficiencies 
+within the 10-year planning horizon for all scenarios that are based on the Baseline and Higher Demand 
+forecasts.  
+If a future RNA identifies a Reliability Need, the NYISO would solicit for solutions that fall into three 
+categories: 
+■ Market-based solutions – solutions that may include generation, merchant transmission, or 
+demand response resources for which the developer of the project is responsible for the cost of 
+the project and will not recover the costs through a regulated rate; 
+■ Regulated backstop solutions – solutions submitted by a Responsible Transmission Owner in 
+accordance with, among other things, the tariff that serve as a backstop in the absence of other 
+viable and sufficient solutions being able to address the Reliability Need.  Such solutions may 
+include generation, transmission, or demand side resources and seek cost recovery through a 
+regulated rate either through the NYISO’s tariff for transmission facilities or through an 
+established cost recovery procedure established by an appropriate state entity; and 
+0.00
+1.00
+2.00
+3.00
+4.00
+5.00
+6.00
+7.00
+8.00
+2026
+2027
+2028
+2029
+2030
+2031
+2032
+2033
+2034
+LOLE (event-days/yr)
+NYCA LOLE Higher Demand 
+Higher Demand
++ Aging
++ CBA
++ NYPA GTs
+Criterion
+
+
+--- Page 51 ---
+  
+ 
+Draft – For Discussion Purposes Only 
+ 
+2025-2035 Comprehensive Reliability Plan |   51 
+ 
+ 
+■ Alternative regulated solutions – solutions submitted by a Transmission Owner or other 
+developer that seek a regulated rate and, while principally aimed at transmission solutions that 
+would be considered for selection as the more efficient or cost-effective solution to the 
+Reliability Need, may include generation, transmission, or demand-response resources.  
+The NYISO’s process to identify solutions to an identified Reliability Need in the Reliability Planning 
+Process gives priority to viable and sufficient market-based solutions as these projects do not require out-
+of-market actions. If the NYISO does not receive any viable and sufficient market-based solutions that 
+address the Reliability Need, then NYISO would rely on the regulated backstop solution and/or alternative 
+regulated solutions to address the need. However, in the case of a statewide resource deficiency, it may be 
+impossible or impractical for transmission to solve the need. 
+ 
+ 
+ 
+ 
+
+
+--- Page 52 ---
+  
+ 
+Draft – For Discussion Purposes Only 
+ 
+2025-2035 Comprehensive Reliability Plan |   52 
+ 
+ 
+Aligning Reliability Planning with Operational Realities 
+Operational experience from the June 2025 heatwave revealed how quickly tight resource margins and 
+limited system flexibility can lead to stressed conditions, even when overall resource adequacy appears 
+sufficient. These events emphasized the importance of incorporating real-world system behavior into 
+planning assumptions. At the same time, planning studies continue to show a growing disconnect between 
+resource adequacy metrics, which assume emergency actions are available, and transmission security 
+assessments, which must prove reliability under normal operating conditions. Compounding these 
+challenges, voltage performance across the system is becoming increasingly difficult to manage, requiring 
+more frequent operator intervention. Together, these observations point to the need for a planning 
+framework that better reflects operational realities and anticipates emerging reliability risks. 
+Lessons Learned from June 2025 Heatwave 
+The reliability challenges experienced during the June 2025, revealed critical insights into system 
+performance under extreme conditions. The following table summarizes key observations and planning 
+considerations for incorporation into future reliability planning studies. 
+Figure 45: June Heatwave Observations and Planning Recommendations  
+Category 
+Observation 
+Recommendation to Aligning Reliability 
+Planning with Operational Realities 
+Load Conditions 
+Peak load: 31,857 MW on 6/24 HB18, 
+near 90/10 forecast 
+Test load forecasting models for extreme 
+weather; assess risks to operation due to 
+under forecasting (see “Plausible 
+Combinations of System Risks” Section of this 
+CRP) 
+System-wide Impact 
+90/10 heat wave, ~2,000 MW external 
+curtailments, ~7,000 MW internal derates 
+Further explore reliability impacts under wide-
+area extreme weather events 
+New York Resource 
+Availability 
+~7,000 MW capacity unavailable; low DER 
+contribution during peak 
+Conduct root cause analysis to investigate 
+resource unavailability (see “Plausible 
+Combinations of System Risks” Section of this 
+CRP)   
+Demand Forecast 
+Notable under-forecast during afternoon 
+peak 
+Consider forecast uncertainty (see “Plausible 
+Combinations of System Risks” Section of this 
+CRP)  
+ 
+ 
+Resource Planning for Normal Operation 
+In reliability planning standards, system reliability is determined by resource adequacy and 
+
+
+--- Page 53 ---
+  
+ 
+Draft – For Discussion Purposes Only 
+ 
+2025-2035 Comprehensive Reliability Plan |   53 
+ 
+ 
+transmission security analyses, described below, according to Reliability Criteria established by NERC, 
+NPCC, and NYSRC. 
+■ Resource Adequacy: The ability of the electric systems to supply the aggregate electrical 
+demand and energy requirements of their customers at all times, taking into account scheduled 
+and reasonably expected unscheduled outages of system elements.  
+■ Transmission Security: The ability of the power system to withstand disturbances, such as 
+electric short circuits or unanticipated loss of system elements and continue to supply and 
+deliver electricity. Transmission security is assessed deterministically with potential 
+disturbances being applied without concern for the likelihood of the disturbance in the 
+assessment. 
+Transmission security is governed by standards that ensure the system can reliably deliver power 
+under typical conditions, including adherence to N-1-1 contingency criteria and sustainable operating 
+limits. In contrast, resource adequacy standards are based solely on emergency criteria assumes that 
+operators can routinely deploy all tools available to them—such as voltage reductions, higher operating 
+limits that can fatigue equipment, and emergency assistance from neighboring systems—to maintain 
+reliability. This assumption introduces systemic risk, as these tools are not guaranteed to be available or 
+effective under all circumstances. Critically, this also creates a divide between the resource adequacy 
+evaluations intended to ensure sufficient resources to meet demand and the transmission security 
+evaluations intended to ensure the transmission system is capable of delivering those resources to each 
+demand customer. 
+A clear illustration of this disconnect was seen in the development of power flow cases used in the 
+2024 RNA transmission security analysis. Resource adequacy studies showed there was sufficient capacity 
+in the system to meet the 0.1 event-days/year LOLE criterion for study year 2034. However, there was an 
+1,800 MW resource shortfall when representing expected winter peak demand system conditions without 
+employing techniques beyond normal operating criteria—i.e., increasing imports beyond contracted 
+amounts; invoking SCRs; reducing reserves; or reducing load. While these tools are available to operators, 
+they are not consistent with normal system conditions studied in transmission security and, therefore, not 
+assumed.  
+The New York power system, as modeled for transmission security analyses, reflects a future with 
+shrinking generation reserves due to generator retirements, the intermittent nature of new solar and wind 
+generation, and the increase in load during the expected most stressed snapshots in time. This low level of 
+reserves restricts the ability to redispatch the system to secure for potential thermal overloads or voltage 
+violations as first observed in the 2024 RNA.  
+
+
+--- Page 54 ---
+  
+ 
+Draft – For Discussion Purposes Only 
+ 
+2025-2035 Comprehensive Reliability Plan |   54 
+ 
+ 
+While the NYISO has not reported any specific transmission security reliability criteria violations on 
+the BPTF from its steady-state or stability analyses in the 2024 RNA or recent STAR studies, the NYISO has 
+observed that more potential issues appear in the analysis. This is concerning because it means that NYISO 
+operators will have utilized the tools in their toolbox, such as Emergency Operating Procedure (EOP) steps, 
+more often since the “just right” system condition in planning is often more optimistic than typical 
+conditions experienced by operators, such as the number of generators and transmission lines out of 
+service. 
+To bridge this divide, the NYISO can apply metrics, such as Expected Unserved Energy (EUE) or Loss 
+of Load Hours (LOLH), to the probabilistic resource adequacy simulation results before EOPs are invoked. 
+These metrics quantify reliability impacts under normal conditions and provide a more holistic view of 
+system performance than just considering the LOLE after the use of all emergency procedures. The figures 
+below compare the statewide system margin to the pre-EOP LOLH. There is a clear correlation between 
+decreasing the deterministic statewide margin, which is a good indicator of the tight conditions seen in the 
+transmissions security analysis, and increasing pre-EOP LOLH from the probabilistic results. 
+ 
+ 
+Figure 46: Comparison of LOLH and Statewide Transmission Security Margin 
+ 
+ 
+[EUE chart to be included] 
+ 
+ 
+By evaluating resource adequacy through the lens of EUE or LOLH, the NYISO can identify scenarios 
+
+
+--- Page 55 ---
+  
+ 
+Draft – For Discussion Purposes Only 
+ 
+2025-2035 Comprehensive Reliability Plan |   55 
+ 
+ 
+where the system appears adequate but fails to meet reliability expectations without relying on emergency 
+interventions. It also supports better alignment with operational realities and market participant 
+expectations, ensuring that emergency tools remain reserved for true emergencies rather than routine 
+reliability management. 
+ 
+Comprehensive System Voltage Support 
+An important aspect of reliability is control of power system voltage. In order for New York’s grid to 
+operate and transfer power across the state, voltages must be maintained within narrow limits. Voltages 
+must be maintained within these limits in real-time, and the system must be operated such that any single 
+failure on the system cannot cause a low or high voltage criteria violation. The requirement to respect 
+voltage limits to avoid dangerous conditions can constrain the amount of power that may be moved across 
+the state, also known as transfer capability.  
+In general, voltage control is provided by generators, switched reactive devices, and dynamic reactive 
+devices. When operating, generators control voltage in their area in addition to generating power. Switched 
+reactive devices, shunt reactors, and shunt capacitors can provide slow-acting, course control over voltage 
+as they are switched on or off in large discrete blocks. Dynamic reactive devices, including static 
+synchronous compensators (STATCOMs), static var compensators (SVCs), and synchronous condensers, 
+can provide fine control over voltage and are fast acting with the ability to change their output to respond 
+to faults on the system.  
+High-load levels and highly loaded transmission lines tend to cause low voltages, while low-load levels 
+and lightly loaded transmission lines tend to cause high voltages. Voltage control is a relatively local issue 
+due to the fundamental physics of the power grid. While it is common for generators to supply power to 
+customers over long distances, it is not possible for a generator or reactive device to control voltages over a 
+wide area.  
+Insufficient control of voltage can lead to dangerous situations that may rapidly degrade into a 
+blackout. While detailed investigation into the 2025 Iberian blackout is ongoing, initial public reports 
+underscore the risks of inadequate voltage control as a factor, especially due to the high levels of inverter-
+based resources (IBRs).11 A NERC presentation at the June 26, 2025 FERC Open Meeting similarly noted 
+that one primary contributing factor to the blackout was insufficient dynamic voltage regulation.12  
+ 
+11 ENTSOE Page: https://www.entsoe.eu/publications/blackout/28-april-2025-iberian-blackout/   
+12 NERC Presentation: https://www.ferc.gov/sites/default/files/2025-06/Iberian%20Peninsula%20Blackout%20April 
+%202025_final.pdf. 
+
+
+--- Page 56 ---
+  
+ 
+Draft – For Discussion Purposes Only 
+ 
+2025-2035 Comprehensive Reliability Plan |   56 
+ 
+ 
+System voltage performance in New York is becoming increasingly difficult to maintain in real-time 
+operations and in forward-looking planning studies. Figure 47 below shows that the number of calls for 
+voltage support services has consistently grown over time. In the first half of 2025, the number of calls is 
+over ten times more than in all of 2018.  
+Figure 47: Number of Voltage Support Service Calls 
+ 
+As the flow patterns of the system change due to BTM solar adoption, new intermittent generation, 
+and new transmission projects, operators are seeing new high voltage issues that require manual operator 
+intervention. Furthermore, large load interconnections, generator retirements, and changes to neighboring 
+systems could exacerbate voltage-limited transfer capability across the system.  
+The NYISO has identified common areas of concern for voltage control in both system planning and 
+grid operations, illustrated in Figure 48 and explained in detail below.  While the system is operated 
+reliably, these areas of concern highlight the challenges that may limit economic dispatch of the system in 
+real-time and may lead to criteria violations in future planning studies if trends continue. For each area of 
+concern identified below, the CRP recommends either monitoring how the system evolves or identifies 
+opportunities for “no regrets” voltage support investments.  These recommendations serve as information 
+to support proactive investment on the bulk and local systems and should not be interpreted as the NYISO 
+identifying a transmission need due to an identified Reliability Criteria violation in the current cycle of the 
+Reliability Planning Process.  
+
+
+--- Page 57 ---
+  
+ 
+Draft – For Discussion Purposes Only 
+ 
+2025-2035 Comprehensive Reliability Plan |   57 
+ 
+ 
+Figure 48: Statewide Areas of Concern for Voltage Performance 
+ 
+Region 1 – Low voltages in Western NY 
+■ In the Interconnection Studies for the ongoing Cluster Study, low voltages could occur when 
+large quantities of energy storage in Zone A, around Niagara and down the shore of Lake Erie, 
+are charging simultaneously.  
+■ Recommendation: Continue to monitor the system conditions as new energy storage resources 
+are coming into service.  These issues as they will only be seen in future real-time operations if 
+a large portion of the energy storage projects in the Cluster Study are built and charging 
+simultaneously.   
+Region 2 – Voltage transfer limitations in Central NY 
+■ Low voltages could occur under summer peak conditions that limit voltage transfer ability in 
+System Impact Studies of large load projects and other voltage transfer analysis.  Limitations 
+are driven by load interconnection projects that draw large amounts of real power from 
+sourcing subsystems, leading to significant voltage drop across the interfaces. Large loads may 
+fundamentally change the way power flows across the New York system compared to past 
+behavior.   
+■ Recommendation: Continue to monitor the system conditions as new large loads are coming 
+into service. To maintain the ability to move power across the system reliably, voltage support 
+is needed. Load interconnection processes may lead to construction of additional switched 
+reactive devices in these areas. Strategically placed dynamic reactive devices could more 
+
+
+--- Page 58 ---
+  
+ 
+Draft – For Discussion Purposes Only 
+ 
+2025-2035 Comprehensive Reliability Plan |   58 
+ 
+ 
+efficient solution than fragmented shunt devices and provide greater operability.   
+Region 3 - High voltages in Northern NY  
+■ High voltage is a concern in this area in both operations and planning studies, particularly in 
+light load conditions. Long transmission lines in this area tend to cause high voltages when 
+lightly loaded, and flow patterns through this part of the system may change due to load 
+growth or interchange with neighboring areas. 
+■ Recommendation: Continue to monitor the system conditions as the system condition evolves. 
+Region 4 – High voltages in Mohawk Valley  
+■ High voltages have been observed in this area under light load conditions in operations. High 
+voltages persisted even after switched reactive devices were adjusted. Calls for voltage support 
+from the existing dynamic reactive device in this location contribute to the increase seen in 
+Figure 48 above.  
+■ Recommendation: Add voltage support in this area, such as Edic 345 kV substation, to help 
+mitigate issues currently observed. 
+Region 5 – High and low voltages in Capital Region 
+■ The Capital Region shows both high and low voltage challenges depending on system 
+conditions. Operators have seen issues in real time and Planning studies have had challenges 
+under winter peak conditions.  
+■ Recommendation: Add dynamic voltage support in this area, such as Gordon Road 345 kV 
+substation, to help mitigate issues currently observed. As dynamic reactive devices typically 
+have the ability to address both high and low voltages, unlike single switched reactive devices, 
+a dynamic reactive device may be uniquely useful in this location. 
+Region 6 – High voltages in Southeastern NY 
+■ High voltages have been observed in this area under light load conditions, both in operations 
+and in planning studies. High voltages here are driven by the large number of transmission 
+lines in the area that were built to be able to supply downstate loads under peak load 
+conditions but that are left lightly loaded when downstate demand is low.  
+■ Recommendation: Add dynamic voltage support in this area, such as Pleasant Valley 345 kV, to 
+help mitigate issues currently observed. A dynamic reactive device in this area could help 
+manage the high voltage problems under light load conditions while also supporting voltage 
+when power flow from upstate to downstate is high. While low voltages in this area have not 
+yet been a major constraint, the flexibility of a dynamic reactive device would offer a degree of 
+future proofing for this important section of the New York grid.  
+Region 7 – High voltages in Long Island 
+■ High voltages have been observed in western Long Island for daytime light load 
+conditions. The main driver is low load, high levels of BTM solar and the resulting low 
+commitment of synchronous generators that would normally be available to control 
+voltages.  Currently, when these high voltages occur, operators frequently have to switch 
+transmission lines in and out of service to maintain voltages during these periods. Additionally, 
+certain generators must run to provide voltage control even when they would not be needed 
+
+
+--- Page 59 ---
+  
+ 
+Draft – For Discussion Purposes Only 
+ 
+2025-2035 Comprehensive Reliability Plan |   59 
+ 
+ 
+for supplying power to loads.   
+■ Recommendation: Add dynamic voltage support in this area, such as East Garden City 345 kV, 
+to help mitigate issues currently observed. A dynamic reactive device in this area could help 
+manage the high voltage challenge while reducing the need for generators to run primarily for 
+voltage control.  
+Dynamic reactive support devices, such as static synchronous compensators (STATCOMs) or static var 
+compensators (SVCs), have inherent benefits compared to traditional capacitor or reactor shunt banks in 
+their operating speed and ability to continuously control voltage across its operating range rather than in 
+discrete, “lumpy” steps. A comprehensive planning approach for addressing voltage performance utilizing 
+dynamic reactive devices would allow for effective voltage control solutions that (i) are sited at diverse 
+locations; (ii) could control both high and low voltage issues; and (iii) require minimal operator interaction. 
+Figure 48 shows existing major dynamic reactive support devices in New York and opportunities for the 
+locations for future, “no regrets” dynamic reactive support devices.  
+ 
+ 
+
+
+--- Page 60 ---
+  
+ 
+Draft – For Discussion Purposes Only 
+ 
+2025-2035 Comprehensive Reliability Plan |   60 
+ 
+ 
+ 
+The Role of Competitive Wholesale Markets 
+ 
+ 
+
+
+--- Page 61 ---
+  
+ 
+Draft – For Discussion Purposes Only 
+ 
+2025-2035 Comprehensive Reliability Plan |   61 
+ 
+ 
+Conclusions and Recommended Actions  
+ 
+ 
+ 

@@ -1,0 +1,1898 @@
+--- Page 1 ---
+ 
+ 
+ 
+ 
+ 
+ 
+ 
+ 
+ 
+ 
+ 
+ 
+ 
+Before the Public Service Commission 
+ 
+THE BROOKLYN UNION GAS COMPANY d/b/a NATIONAL GRID NY 
+AND KEYSPAN GAS EAST CORPORATION d/b/a NATIONAL GRID 
+ 
+Rebuttal Testimony 
+ 
+of the 
+ 
+Information Technology Panel 
+ 
+ 
+ 
+ 
+ 
+ 
+Case 19-G-0309 
+Case 19-G-0310 
+ 
+ 
+ 
+ 
+ 
+ 
+ 
+ September 18, 2019 
+ 
+ 
+ 
+ 
+ 
+ 
+ 
+ 
+ 
+
+
+--- Page 2 ---
+ 
+ 
+ 
+ 
+ 
+ 
+TABLE OF CONTENTS 
+ 
+I. 
+Introduction ......................................................................................................................... 1 
+II. 
+Staff’s IT Recommendations .............................................................................................. 3 
+III. 
+Removal of Projects from IT Capital Forecast ................................................................... 4 
+IV. 
+$57.4 Million Adjustment to GBE Program Budget .......................................................... 8 
+V. 
+“Forecasting” Adjustment ................................................................................................... 8 
+VI. 
+Adjustment to the Companies’ Return on IT Capital Investments ................................... 21 
+VII. 
+SAP S/4 HANA ................................................................................................................ 22 
+VIII. 
+Proposed Sanction Process Changes and Performance Indicators ................................... 23 
+IX. 
+Conclusion ........................................................................................................................ 28 
+ 
+
+
+--- Page 3 ---
+ 
+Rebuttal Testimony of the Information Technology Panel 
+Page 1 of 28 
+I. 
+Introduction 
+1 
+Q. 
+Please introduce the members of the Information Technology (“IT”) 
+2 
+Panel. 
+3 
+A. 
+The Panel consists of Stephen Olive, Daniel J. DeMauro, Mukund Ravipaty, 
+4 
+and Jeffrey Martin. 
+5 
+ 
+6 
+Q. 
+Is this the same Panel that previously submitted direct and corrections 
+7 
+and updates testimony in these proceedings?  
+8 
+A. 
+Yes.  Capitalized terms defined in the Panel’s direct and corrections and 
+9 
+updates testimony have the same meanings here.    
+10 
+ 
+11 
+Q. 
+What is the purpose of the Panel’s testimony? 
+12 
+A. 
+ The purpose of the Panel’s rebuttal testimony is to respond to certain 
+13 
+recommendations presented in the testimonies of the following Department 
+14 
+of Public Service Staff (“Staff”) witness panels:  Staff Policy Panel (“SPP”); 
+15 
+Staff Consumer Services Panel (“SCSP”); and Staff Information Technology 
+16 
+Panel (“SITP”).   
+17 
+
+
+--- Page 4 ---
+ 
+Rebuttal Testimony of the Information Technology Panel 
+Page 2 of 28 
+ 
+1 
+Q. 
+Does the Panel sponsor any exhibits as part of its rebuttal testimony? 
+2 
+A. 
+Yes.  The Panel sponsors the following exhibits, all of which were prepared 
+3 
+by or under the supervision and direction of one or more members of the 
+4 
+Panel:  
+5 
+• Exhibit ___ (ITP-1R) – Linear Regression Analysis, FY2015-2019. 
+6 
+• Exhibit ___ (ITP-2R) – Service Company Rents Adjustments 
+7 
+Reconciliation. 
+8 
+ 
+9 
+Q. 
+Please summarize the Companies’ response to Staff’s testimony. 
+10 
+A. 
+The Companies filed rates for the Rate Year commencing April 1, 2020, and 
+11 
+submitted additional information to enable the Public Service Commission 
+12 
+(the “Commission”) to set rates for the subsequent three years (i.e., April 1, 
+13 
+2021 through March 31, 2024, which are collectively referred to hereinafter as 
+14 
+the “Data Years” and individually as a “Data Year”).  Staff conducted a 
+15 
+review of the Companies’ IT plans; however, the SITP limited its testimony 
+16 
+and recommendations for the Rate Year only.  As we explain below, in some 
+17 
+instances, the Companies agree with Staff’s recommendations.  In other areas, 
+18 
+however, the Companies disagree with Staff’s proposed adjustments.  Where 
+19 
+the Companies accept an adjustment or agree with an issue raised by Staff, 
+20 
+such acceptance or agreement is affirmatively noted.  Where the Companies 
+21 
+
+
+--- Page 5 ---
+ 
+Rebuttal Testimony of the Information Technology Panel 
+Page 3 of 28 
+disagree with Staff’s position, or where more information is needed to clarify 
+1 
+the record, we indicate that in our rebuttal testimony.   
+2 
+ 
+3 
+II. 
+Staff’s IT Recommendations 
+4 
+Q. 
+What recommendations does Staff make regarding the Companies’ IT 
+5 
+plans?   
+6 
+A. 
+Staff’s recommended adjustments and changes to the Companies’ IT plans are 
+7 
+summarized at pages 4-5 of the SITP’s testimony, which proposes the 
+8 
+following: 
+9 
+(i) an adjustment to remove certain projects from the IT capital 
+10 
+forecast;  
+11 
+(ii) an adjustment to remove $57.4 million from the GBE Program 
+12 
+budget;  
+13 
+(iii) a “forecasting” adjustment to the Companies’ IT capital budget 
+14 
+forecast;  
+15 
+(iv) an adjustment to the Companies’ return on IT capital investments;  
+16 
+(v) a downward-only Service Company Rent IT and GBE Program Net 
+17 
+Utility Plant and Depreciation Expense Reconciliation Mechanism; 
+18 
+and 
+19 
+(vi) rejection of the Companies’ proposal to defer the difference 
+20 
+between the projected and actual costs of its SAP S/4 HANA project. 
+21 
+
+
+--- Page 6 ---
+ 
+Rebuttal Testimony of the Information Technology Panel 
+Page 4 of 28 
+In addition to the foregoing adjustments and recommendations, Staff also 
+1 
+proposes a number of changes relating to the process for sanctioning IT 
+2 
+projects and performance metrics related thereto, as well as a recommendation 
+3 
+for enhanced reporting of and visibility on the Companies’ IT efforts.   
+4 
+ 
+5 
+III. 
+Removal of Projects from IT Capital Forecast 
+6 
+Q. 
+Please describe the SITP’s proposal to remove certain projects from the 
+7 
+Companies’ IT capital forecast. 
+8 
+A. 
+The SITP proposes to remove capital expenditures and operating costs from 
+9 
+the Rate Year associated with the Community Distributed Generation 
+10 
+(“CDG”) Low Income Discount program and the Customer Information 
+11 
+System (“CIS”) project.   
+12 
+ 
+13 
+The Companies agree that the costs of the CDG Low Income Discount 
+14 
+program should be removed.  That program is an electric-only program and 
+15 
+was included in the Companies’ costs inadvertently.  The Companies 
+16 
+acknowledged this error in their response to Information Request (“IR”) DPS-
+17 
+882 (Exhibit __ (SITP-1, p. 1427)).  Although the Companies agree that the 
+18 
+costs of the CDG Low Income Discount program should be removed, 
+19 
+however, the amount of the adjustment the SITP made for this item is 
+20 
+
+
+--- Page 7 ---
+ 
+Rebuttal Testimony of the Information Technology Panel 
+Page 5 of 28 
+incorrect.  The correct amount of the adjustment is discussed later in the 
+1 
+Panel’s testimony. 
+2 
+ 
+3 
+Q. 
+What is the Companies’ position regarding the SITP’s adjustment to 
+4 
+remove CIS costs from the Rate Year?  
+5 
+A. 
+The Companies strongly disagree with the SITP’s proposed adjustment.  The 
+6 
+SITP proposes removing $15.411 million of operating expense associated 
+7 
+with the CIS project in the Rate Year.  The SITP further proposes to reduce 
+8 
+the Service Company’s Rate Year capital forecast by $70.2 million to reflect 
+9 
+the elimination of CIS-related capital expenditures.   
+10 
+ 
+11 
+As described by the Companies’ Shared Services Panel in its direct testimony, 
+12 
+National Grid is planning to implement a new CIS to replace legacy systems 
+13 
+that are currently 30 years old for KEDNY and over 20 years old for KEDLI.  
+14 
+A new CIS will create business agility to enable the Companies to bring new 
+15 
+customer services and billing system options to market quickly and deliver on 
+16 
+National Grid’s goals of an effortless customer experience with increased 
+17 
+choice and flexibility.  To the extent that the Companies do not obtain funding 
+18 
+for CIS, those benefits will be delayed and the Companies will be exposed to 
+19 
+increased risks from having to operate and maintain outdated legacy systems. 
+20 
+ 
+21 
+
+
+--- Page 8 ---
+ 
+Rebuttal Testimony of the Information Technology Panel 
+Page 6 of 28 
+While the Companies acknowledge that there is a degree of uncertainty 
+1 
+surrounding the final costs of the CIS project and that the Companies continue 
+2 
+to look for ways to finalize the project as efficiently as possible, there is no 
+3 
+doubt that the Companies need to incur at least the $15.4 million of operating 
+4 
+expenses and $70.2 million of capital expenditures forecast for the Rate Year 
+5 
+to proceed with the project.  Moreover, there is no doubt that, regardless of 
+6 
+whether there may be adjustments to the final CIS solution, National Grid will 
+7 
+need to expend far more than the CIS-related capital and O&M expenditures 
+8 
+that are forecast for the Rate Year to complete the project.  Under these 
+9 
+circumstances, it is reasonable for the Commission to authorize the CIS-
+10 
+related expenditures that would enable the Companies to proceed with the first 
+11 
+phase of the CIS project. 
+12 
+ 
+13 
+The failure to sufficiently fund the CIS project will only result in further delay 
+14 
+in the implementation of a modern solution needed to address the needs of 
+15 
+utility customers today. 
+16 
+17 
+
+
+--- Page 9 ---
+ 
+Rebuttal Testimony of the Information Technology Panel 
+Page 7 of 28 
+ 
+1 
+Q. 
+What is the Companies’ position regarding the proposal by the SCSP that 
+2 
+the Companies continue to advance the CIS project and file a separate 
+3 
+petition at a later date for approval?  
+4 
+A. 
+The Companies disagree with the SCSP’s proposal.  The Commission will be 
+5 
+establishing rates for the Companies for the period beginning April 1, 2020.  
+6 
+The Companies are projecting that they will incur substantial costs during the 
+7 
+Rate Year and beyond to implement the CIS project.  The Companies 
+8 
+acknowledge that they continue to refine cost estimates and schedules, but the 
+9 
+best information available today supports the conclusion that there will be 
+10 
+material expenditures during the Rate Year to progress this project for the 
+11 
+benefit of customers.  The SCSP’s proposal of a separate petition outside of 
+12 
+the ongoing rate case process would introduce an element of uncertainty into 
+13 
+the Companies’ financial planning that is both unreasonable and unnecessary.  
+14 
+Given that the best information available at this time indicates the Companies 
+15 
+will be making significant expenditures during the Rate Year on the CIS 
+16 
+project, and that the Companies filed the necessary cost and schedule 
+17 
+information to support recovery of CIS project costs as part of this rate case, 
+18 
+the SCSP’s proposal that the CIS project costs be handled outside the context 
+19 
+of this rate case should be rejected.   
+20 
+    
+21 
+
+
+--- Page 10 ---
+ 
+Rebuttal Testimony of the Information Technology Panel 
+Page 8 of 28 
+IV. 
+$57.4 Million Adjustment to GBE Program Budget  
+1 
+Q. 
+Please address the SITP’s proposal to remove $57.4 million from the 
+2 
+Companies’ GBE Program forecast budget. 
+3 
+A. 
+The SITP proposes an adjustment to reduce the investment forecast for the 
+4 
+GBE Program by $57.4 million.  As discussed in the Rebuttal Testimony of 
+5 
+the Companies’ Witness Connolly, the Companies disagree with this proposed 
+6 
+adjustment.   
+7 
+ 
+8 
+V. 
+“Forecasting” Adjustment 
+9 
+Q. 
+Please address the SITP’s proposed “forecasting” adjustment. 
+10 
+A. 
+The SITP proposes a “forecasting” adjustment that, combined with Staff’s 
+11 
+other recommended adjustments to the Companies’ IT plans, would reduce 
+12 
+the Rate Year IT capital expenditure amount to $129.4 million from the 
+13 
+$243.8 million Rate Year forecast proposed by the Companies.  The SITP’s 
+14 
+testimony describes using a linear regression analysis of the Companies’ 
+15 
+actual IT capital spending in FY 2015, FY 2016, FY 2018, and FY 2019 to 
+16 
+arrive at its recommended $129.4 million budget level.  The SITP omits the 
+17 
+actual results of FY 2017 from its analysis based on its finding that the level 
+18 
+of IT capital spending in that year was an “outlier.” 
+19 
+ 
+20 
+
+
+--- Page 11 ---
+ 
+Rebuttal Testimony of the Information Technology Panel 
+Page 9 of 28 
+ 
+The SITP then calculates an additional adjustment factor by:  (i) reducing the 
+1 
+Rate Year IT capital forecast by $70.2 million related to the CIS capital 
+2 
+adjustment discussed above; and (ii) comparing the post-CIS adjusted forecast 
+3 
+($173.6 million) to the $129.4 million result of their linear regression analysis.  
+4 
+The result is a 25.5 percent adjustment factor presented by Staff (1 – 
+5 
+129.4/173.6 = 25.5%).           
+6 
+ 
+7 
+Q. 
+How would the SITP’s recommendation affect the Companies’ ability to 
+8 
+carry out its IT capital plan in the Rate Year? 
+9 
+A. 
+Basically, the SITP’s proposed capital spending level would provide funding 
+10 
+only for the Companies’ baseline technology, Technology Modernization, and 
+11 
+Cyber and Physical Security projects, but would provide no capital for the 
+12 
+proposed CIS or SAP S/4 HANA projects.  The Rate Year capital 
+13 
+expenditures forecast for those programs, $70.2 million for CIS and $48.6 
+14 
+million for SAP S/4 HANA, are effectively eliminated from the Companies’ 
+15 
+IT capital plan by the SITP’s adjustments.  These major projects are vital to 
+16 
+the effective future operations of the Companies and failure to provide any 
+17 
+capital funding for them is unreasonable.  
+18 
+ 
+19 
+Q. 
+Do the Companies agree with the $129.4 million adjusted IT capital level 
+20 
+and the forecasting adjustment proposed by the SITP? 
+21 
+
+
+--- Page 12 ---
+ 
+Rebuttal Testimony of the Information Technology Panel 
+Page 10 of 28 
+A. 
+No.  The Companies disagree with the SITP’s recommended IT capital level 
+1 
+of $129.4 million and the proposed forecasting adjustment for several reasons. 
+2 
+  
+3 
+ 
+First, the need for incremental IT investment in the utility industry continues 
+4 
+to accelerate.  The Companies’ proposed IT capital investments for 2020 and 
+5 
+beyond were not based on their IT budgets in 2015 or 2016.  Rather, the 
+6 
+budgets were based largely on a bottom-up determination of individual 
+7 
+projects that the Companies plan to invest in before the end of the Rate Year, 
+8 
+including the CIS and SAP S/4 HANA projects.  That analysis is presented on 
+9 
+a project-by-project basis on Exhibit __ (ITP-4CU).  Establishing IT budgets 
+10 
+based primarily on a backward-looking analysis would leave the business 
+11 
+insufficiently funded to meet the future needs of customers.   
+12 
+ 
+13 
+ 
+In reviewing the Companies’ IT capital budget, the SITP appears to have 
+14 
+become overly focused on the Companies’ overall annual capital spending as 
+15 
+compared to budgets in past years and lost sight of the need for all of the IT 
+16 
+projects on which the Companies are proposing to expend capital in the Rate 
+17 
+Year.  As we explained in our direct testimony, the need for the capital 
+18 
+projects listed on Exhibit __ (ITP-4CU) is driven by the fact that many of the 
+19 
+critical systems employed by the Companies are nearing the end of their 
+20 
+useful lives and must be replaced and upgraded in the near future to meet the 
+21 
+
+
+--- Page 13 ---
+ 
+Rebuttal Testimony of the Information Technology Panel 
+Page 11 of 28 
+demands of the business.  Moreover, many other new systems are required by 
+1 
+the business to address operational, financial, regulatory, and other needs.  
+2 
+The Companies will not be able to meet the demands of the business or their 
+3 
+customers and regulators if their IT capital plan is significantly curtailed.  The 
+4 
+SITP’s forecast adjustment would impose an arbitrary 25.5 percent 
+5 
+curtailment on the Companies’ non-CIS IT capital programs without any 
+6 
+consideration of the impact on individual IT projects or the ability to meet 
+7 
+current and future demands for information technology services.  
+8 
+ 
+9 
+Q. 
+Is there evidence in this case that demonstrates that the need for 
+10 
+incremental IT investment will continue in the future? 
+11 
+A. 
+Yes.  In testimony in this case, the New York City Policy Panel (at 33-34) 
+12 
+recommends further modifications to the Companies’ systems to include the 
+13 
+ability to collect data on energy efficiency and demand response programs, 
+14 
+incentives provided to customers, and data associated with renewable gas 
+15 
+projects.  Leaving aside the merits of these recommendations, they are 
+16 
+nonetheless illustrative of the ongoing and frequently changing demands that 
+17 
+are made upon the Companies’ IT systems.  Such changing demands will 
+18 
+continue to require the Companies to invest in their IT systems. 
+19 
+ 
+20 
+
+
+--- Page 14 ---
+ 
+Rebuttal Testimony of the Information Technology Panel 
+Page 12 of 28 
+Q. 
+Is National Grid the only utility that has seen a need for increased 
+1 
+investment in IT systems in recent years? 
+2 
+A. 
+No.  Consolidated Edison Company of New York, Inc.’s (“ConEd”) most 
+3 
+recent rate filing with the Commission reflected $989 million in requested 
+4 
+capital and O&M expenditures for IT projects over a three-year period.  Like 
+5 
+National Grid, ConEd is proposing a significant level of incremental IT capital 
+6 
+spending to meet accelerating business demands.  ConEd’s proposed IT 
+7 
+spending level provides a relevant point of comparison that demonstrates that 
+8 
+National Grid’s proposal to spend $243 million on IT projects in the Rate 
+9 
+Year is reasonably driven by the demands placed upon utilities in today’s 
+10 
+marketplace. 
+11 
+ 
+12 
+Q. 
+Does the Panel have any specific concerns with the particular regression 
+13 
+analysis performed by the SITP to forecast IT capital expenditures in the 
+14 
+Rate Year? 
+15 
+A. 
+Yes.  The linear regression analysis used by the SITP provides no useful 
+16 
+information concerning what the appropriate level of IT investment should be 
+17 
+in the Rate Year.  Linear regression is used to determine whether a linear 
+18 
+relationship exists in a data set such that the relationship can be used to predict 
+19 
+future results.  The data set is comprised of points that measure the 
+20 
+relationship between at least two variables:  an independent variable, which is 
+21 
+
+
+--- Page 15 ---
+ 
+Rebuttal Testimony of the Information Technology Panel 
+Page 13 of 28 
+expected to be the causative variable, and a dependent variable, which is 
+1 
+supposed to be the effect.  There is no basis for concluding that a linear 
+2 
+relationship exists or should exist between fiscal years and IT capital 
+3 
+investment levels.  Indeed, the Companies’ proposed IT capital investment 
+4 
+levels fluctuate up and down year over year depending on the nature of 
+5 
+projected capital investments planned for a given year.  Therefore, a linear 
+6 
+regression analysis is simply not an appropriate tool to use to forecast future 
+7 
+investment levels or to develop appropriate levels of IT investment for 
+8 
+ratemaking purposes. 
+9 
+ 
+10 
+ 
+Further, for a regression analysis of past performance to be used to predict 
+11 
+future results, there should be an expectation that future conditions will be 
+12 
+similar to the past conditions used for the analysis.  Here, however, the 
+13 
+regression analysis covers a period that does not include spending such as 
+14 
+proposed for the CIS or SAP S/4 HANA projects, and therefore is not 
+15 
+representative of the Company’s future investment expectations.   
+16 
+ 
+17 
+Q. 
+Does the Panel have any concerns with the data used by the SITP in 
+18 
+obtaining its regression result? 
+19 
+A. 
+The weaknesses of the SITP’s regression analysis are demonstrated by a 
+20 
+review of the data itself.  While the SITP proposed to analyze the levels of IT 
+21 
+
+
+--- Page 16 ---
+ 
+Rebuttal Testimony of the Information Technology Panel 
+Page 14 of 28 
+spending in the period 2015 - 2019, the SITP simply ignored the data for one 
+1 
+of the five fiscal years, FY 2017, arbitrarily dismissing it as an “outlier.”  At 
+2 
+the same time, however, as the SITP acknowledges (at 32-33), a significant 
+3 
+portion of the 2017 IT capital spend characterized as an “outlier” was the 
+4 
+result of advancing planned investments on projects in the Companies’ 
+5 
+Technology Improvement Project from “2018 and beyond.”  In other words, a 
+6 
+significant portion of the FY 2017 actual spend had the effect of suppressing 
+7 
+actual spending in FY 2018 and beyond; a result that Staff’s regression 
+8 
+equation makes no adjustment for in 2018 and 2019.   
+9 
+ 
+10 
+Q. 
+What result would the SITP’s regression analysis have produced if FY 
+11 
+2017 data had been included? 
+12 
+A. 
+The results are shown on Exhibit __ (ITP-1R).  Most significantly, the R-
+13 
+squared value of the equation would have dropped from 0.932 in the SITP’s 
+14 
+results to 0.526; a result the SITP itself would have rejected.  Given this 
+15 
+result, it is clear that Staff’s regression analysis provides no meaningful 
+16 
+information concerning what the Companies’ actual IT budget should be in 
+17 
+the Rate Year or what the actual level of such spending is likely to be.         
+18 
+ 
+19 
+Q. 
+Do the Companies disagree with Staff’s observations that the Companies 
+20 
+have underspent their projected IT capital budgets? 
+21 
+
+
+--- Page 17 ---
+ 
+Rebuttal Testimony of the Information Technology Panel 
+Page 15 of 28 
+A. 
+No.  The Companies acknowledge that, over the past five fiscal years, actual 
+1 
+total IT capital spend has not met budget.   In addition, the Companies do not 
+2 
+disagree with the SITP that in FY 2015 - FY 2019, the Companies underspent 
+3 
+their annual budget by an average of approximately $8.8 million, or eight 
+4 
+percent.  However, an eight percent average of budget underspending over the 
+5 
+past five fiscal years does not support the SITP’s proposed downward IT 
+6 
+capital investment adjustment of nearly 47 percent or even the 25.5 percent 
+7 
+reduction derived from the SITP’s forecasting adjustment.   
+8 
+ 
+9 
+Q. 
+Have the Companies taken steps to ensure that they will be able to 
+10 
+complete the projects as budgeted for the Rate Year? 
+11 
+A. 
+Yes.  The SITP unreasonably ignores the efforts that National Grid has 
+12 
+undertaken to ensure the timely and cost-effective delivery of the forecast 
+13 
+Rate Year capital program.  Specifically, as described at pages 50-51 of the 
+14 
+Panel’s direct testimony, the Companies have insourced numerous key 
+15 
+technology roles to enhance project delivery, capability, and modernize the 
+16 
+solution delivery process.  Moreover, the Companies have increased the 
+17 
+number of IT solution vendors from two to four, thereby increasing National 
+18 
+Grid’s ability to scale up and respond to increases in business demands.  The 
+19 
+Companies have taken reasonable steps to address past resource deficiencies 
+20 
+
+
+--- Page 18 ---
+ 
+Rebuttal Testimony of the Information Technology Panel 
+Page 16 of 28 
+that may have prevented them from completing IT capital projects in a timely 
+1 
+manner. 
+2 
+ 
+ 
+3 
+Q. 
+Do the Companies agree with the SITP’s calculation to adjust the Service 
+4 
+Company rent expense to reflect the SITP’s recommendations described 
+5 
+above?   
+6 
+A. 
+No.  Even assuming the SITP described adjustment were adopted, there are 
+7 
+several errors in SITP’s calculations of how those adjustments would be 
+8 
+reflected as shown in Exhibit __(ITP-2R).  These errors include:  a double 
+9 
+count of adjustment amounts, the application of a rate of return (“ROR”) for 
+10 
+certain adjustments that does not agree with the SITP’s proposed ROR, 
+11 
+clerical errors, and most notably, the misapplication of the proposed 25.5 
+12 
+percent forecasting adjustment as a direct 25.5 percent reduction to Service 
+13 
+Company rent expense. 
+14 
+ 
+15 
+Q. 
+Do the identified errors have a significant impact on the SITP’s proposed 
+16 
+adjustment? 
+17 
+A. 
+Yes, even accepting for the sake of argument all of the SITP’s recommended 
+18 
+reductions, the SITP’s total proposed Service Company rent expense 
+19 
+reductions of $10.32 million for KEDNY and $7.35 million for KEDLI would 
+20 
+be accurately calculated as reductions of only approximately $3.73 million 
+21 
+
+
+--- Page 19 ---
+ 
+Rebuttal Testimony of the Information Technology Panel 
+Page 17 of 28 
+and $2.91 million for KEDNY and KEDLI, respectively.  The SITP has over-
+1 
+adjusted Service Company rent expense by $6.6 million for KEDNY and $4.4 
+2 
+million for KEDLI. 
+3 
+ 
+4 
+Q. 
+Please describe the errors in the SITP’s proposed adjustment to remove 
+5 
+$57.4 million from the Companies’ GBE Program forecast budget. 
+6 
+A. 
+The SITP’s adjustment to remove $57.446 million of forecast GBE Program 
+7 
+spending was calculated for both KEDNY and KEDLI using an ROR of 7.515 
+8 
+percent rather than the SITP’s proposed ROR of 7.584 percent for KEDNY 
+9 
+and 7.543 percent for KEDLI.  In addition, there were clerical errors in the 
+10 
+SITP’s calculation of the rent adjustment specific to the GIS investment and 
+11 
+the Maximo investment for KEDLI.  These errors resulted in an excess 
+12 
+adjustment of approximately $0.155 million for KEDNY and $0.086 million 
+13 
+for KEDLI. 
+14 
+ 
+15 
+ 
+The SITP also prorated the $57.446 million adjustment among the individual 
+16 
+GBE Program investments based on the capital balances at Fiscal Year 2020.  
+17 
+It would have been more appropriate to prorate the removal of the forecast 
+18 
+spending based on the proposed FY 2021 incremental spending in which these 
+19 
+forecast amounts are included.  Although this results in a skewed adjustment 
+20 
+
+
+--- Page 20 ---
+ 
+Rebuttal Testimony of the Information Technology Panel 
+Page 18 of 28 
+to the individual investment balances, it has no net effect on the combined 
+1 
+GBE Program calculated rent expense adjustment. 
+2 
+ 
+3 
+Q. 
+Please describe the errors in the SITP’s proposed adjustment to remove 
+4 
+the CDG Low Income Discount program. 
+5 
+A. 
+The full amount of the revenue requirement included in rent expense was 
+6 
+$83,406 and $50,405 for KEDNY and KEDLI, respectively.  The SITP’s 
+7 
+proposed adjustment did not remove the full revenue requirement associated 
+8 
+with the program resulting in an under adjustment of $21,775 and $13,158 for 
+9 
+KEDNY and KEDLI, respectively. 
+10 
+ 
+11 
+Q. 
+Please describe the errors in the SITP’s proposed 25.5 percent forecasting 
+12 
+adjustment. 
+13 
+A. 
+The SITP incorrectly applied the proposed forecasting adjustment of 25.5 
+14 
+percent directly to the Service Company rent expense rather than to the 
+15 
+forecast Rate Year capital spending associated with the Service Company IT 
+16 
+projects.  This results in overstating the adjustment to reduce rent expense by 
+17 
+approximately $4.446 million for KEDNY and $2.908 million for KEDLI.  In 
+18 
+response to IR NG-05, the SITP indicated that “Staff did not apply a 25.5% 
+19 
+reduction to Service Company Rent expense.  Rather, the SITP applied a 
+20 
+25.5% reduction only to the forecasted capital projects portion of service 
+21 
+
+
+--- Page 21 ---
+ 
+Rebuttal Testimony of the Information Technology Panel 
+Page 19 of 28 
+Company Rent expense.”   However, this is incorrect.  As demonstrated by the 
+1 
+SITP’s calculation found on page 5 of Exhibit__(SITP-2), Staff applied a 25.5 
+2 
+percent reduction directly to the Service Company rent expense remaining 
+3 
+after adjustments to remove the forecast GBE Program contingency capital 
+4 
+spending and the CDG Low Income Discount program were taken from the 
+5 
+Companies’ corrections and updates filed Service Company rent expense of 
+6 
+$20.124 million and $13.318 million for KEDNY and KEDLI, respectively.  
+7 
+It should also be noted that the SITP’s calculation of the Net Service 
+8 
+Company rent expense of $17.951 million for KEDNY and $11.731 million 
+9 
+for KEDLI on page 5 of Exhibit__(SITP-2) contained a formula link error that 
+10 
+resulted in KEDLI’s CDG Low Income Discount program adjustment being 
+11 
+applied to KEDNY’s net Service Company rent expense calculation and vice 
+12 
+versa for KEDLI’s net Service Company rent expense calculation.  The 
+13 
+correction of these errors is appropriately reflected in the Companies’ 
+14 
+corrected calculation presented in Exhibit__(ITP-2R). 
+15 
+ 
+16 
+To illustrate the magnitude of the SITP’s overstatement of the forecasting 
+17 
+adjustment, the rent expense reductions proposed by the SITP of $4.572 
+18 
+million for KEDNY and $2.988 million for KEDLI could not be achieved 
+19 
+with a complete elimination of the entire forecast rate year IT capital program 
+20 
+spending, including all of the forecast Rate Year spending for the GBE 
+21 
+
+
+--- Page 22 ---
+ 
+Rebuttal Testimony of the Information Technology Panel 
+Page 20 of 28 
+Program.  All else equal, removing 100 percent of the forecast capital 
+1 
+spending for the Rate Year from the Service Company rent model would only 
+2 
+result in a reduction to the Companies’ filed Service Company rent expense of 
+3 
+$2.902 million for KEDNY and $2.005 million for KEDLI, amounts that are 
+4 
+significantly less than the amounts presented by the SITP on Exhibit __ 
+5 
+(SITP-2) to reflect the 25.5 percent forecasting adjustment. 
+6 
+ 
+7 
+Q. 
+Please describe the errors noted in the SITP’s proposed ROR adjustment. 
+8 
+A. 
+The SITP’s proposed ROR adjustments of $2.443 million for KEDNY and 
+9 
+$1.902 million for KEDLI are significantly larger than what would be 
+10 
+expected given that small changes in the ROR do not typically yield 
+11 
+significant adjustments to Service Company rent expense.  The re-calculated 
+12 
+ROR adjustments should be $0.435 million for KEDNY and $0.441 million 
+13 
+for KEDLI.  It appears from the calculation of the SITP’s ROR adjustment on 
+14 
+page 6 of Exhibit__(SITP-2) that the large discrepancy results primarily from 
+15 
+the SITP incorrectly including the adjustments for the removal of GBE 
+16 
+Program capital expenditures and the CDG Low Income Discount program in 
+17 
+the SITP Forecast Expense balance used to measure the ROR adjustment.  
+18 
+This overstates the ROR adjustment and has the effect of double counting 
+19 
+these adjustments in the SITP’s total Service Company rent expense 
+20 
+reductions.   To illustrate the magnitude of the SITP's incorrect proposed ROR 
+21 
+
+
+--- Page 23 ---
+ 
+Rebuttal Testimony of the Information Technology Panel 
+Page 21 of 28 
+adjustments, the service company rent model used to calculate the 
+1 
+Companies’ filed Service Company rent expense would require a ROR of 
+2 
+approximately 3.36 percent for KEDNY and 4.37 percent for KEDLI to 
+3 
+achieve the SITP's proposed ROR adjustments (shown in the SITP Forecast 
+4 
+Expense balance on page 2 of Exhibit __ (SITP-2)).  Such RORs are clearly 
+5 
+far below what the SITP has recommended. 
+6 
+ 
+7 
+Q. 
+The SITP recommends the adoption of a downward only Service 
+8 
+Company Rents IT and GBE program Net Utility Plant and Depreciation 
+9 
+Expense Reconciliation Mechanism.  Do you agree with this 
+10 
+recommendation? 
+11 
+A. 
+No.  Although a tracker may be appropriate for a multi-year rate plan, such as 
+12 
+the plan adopted by the Commission for NMPC, the rationale for such a 
+13 
+mechanism is less persuasive for a litigated one-year rate case.  Accordingly, 
+14 
+the Companies do not support a downward-only tracker for the IT program.   
+15 
+   
+16 
+VI. 
+Adjustment to the Companies’ Return on IT Capital Investments 
+17 
+Q. 
+Please address the SITP’s proposed adjustment to the return applicable 
+18 
+to IT capital investments.   
+19 
+A. 
+The Companies disagree with the SITP’s proposal to apply the Staff’s 
+20 
+proposed cost of capital and capital structure to the IT investments of the 
+21 
+
+
+--- Page 24 ---
+ 
+Rebuttal Testimony of the Information Technology Panel 
+Page 22 of 28 
+Service Company.  The matter is addressed in the Rebuttal Testimony of the 
+1 
+Companies’ Witness Jonathan Cohen.   
+2 
+ 
+3 
+VII. 
+SAP S/4 HANA 
+4 
+ Q. 
+The SITP recommends (at 59-60) that (i) the Companies’ rates should 
+5 
+reflect the Companies’ portion of Service Company’s projected operating 
+6 
+expenditures of $30.6 million for the SAP S/4 HANA project, (ii) the 
+7 
+Companies should be required to manage the capital costs for the project 
+8 
+within the context of the SITP’s IT capital budget of $129.4 million, and 
+9 
+(iii) the Companies’ request for deferral of costs in excess of the amount 
+10 
+of costs reflected in rates should be rejected.  Do you agree? 
+11 
+A. 
+The Companies appreciate the SITP’s recognition of the importance of the 
+12 
+SAP S/4 HANA project and willingness to include the operating costs of the 
+13 
+project in rates.  Moreover, the Panel already explained why it disagrees with 
+14 
+the SITP’s recommendation concerning the amount of the IT capital budget to 
+15 
+be reflected in rates. 
+16 
+ 
+17 
+ 
+In addition, given the importance and size of the SAP S/4 HANA project, the 
+18 
+Companies request that the Commission grant the Companies authority to 
+19 
+defer costs in excess of the current cost projections.  As the SITP recognizes, 
+20 
+the Companies’ cost projection for this project are very preliminary and 
+21 
+
+
+--- Page 25 ---
+ 
+Rebuttal Testimony of the Information Technology Panel 
+Page 23 of 28 
+therefore there is a possibility that the actual costs of the project will 
+1 
+materially differ from the current projection.  As an alternative to a blanket 
+2 
+deferral authorization, at a minimum, the Companies request the Commission 
+3 
+to explicitly determine that the Companies would have the right to seek 
+4 
+deferral of costs of the SAP S/4 HANA project in excess of the level reflected 
+5 
+in rates by filing a separate petition.  Specifically, the Companies request the 
+6 
+Commission to confirm that such a deferral petition would not be rejected 
+7 
+because there is an allowance for the costs of the SAP S/4 HANA project 
+8 
+reflected in rates. 
+9 
+ 
+10 
+VIII. Proposed Sanction Process Changes and Performance Indicators 
+11 
+Q. 
+Please address the SITP’s recommendation that the Companies adopt 
+12 
+certain IT-related process improvements. 
+13 
+A. 
+The SITP proposes that (i) IT process improvements implemented for NMPC 
+14 
+in Case 17-E-0233 et al. be applied to the Companies, and (ii) that Service 
+15 
+Company should make improvements to its investment request summary 
+16 
+(“IRS”) and sanction papers.  The Companies generally agree with these 
+17 
+recommendations as set forth on pages 67-72 of the SITP testimony. 
+18 
+ 
+19 
+
+
+--- Page 26 ---
+ 
+Rebuttal Testimony of the Information Technology Panel 
+Page 24 of 28 
+Q. 
+What is the Companies’ position regarding the SITP’s recommendation 
+1 
+to implement specific performance benchmarks related to sanction 
+2 
+papers?  
+3 
+A. 
+The Companies oppose the Staff’s recommendation regarding developing 
+4 
+performance indicators relating to sanction papers.  The metrics Staff 
+5 
+proposes would require substantial resources and time to develop and track.  
+6 
+Further, although performance benchmarks may be appropriate as part of a 
+7 
+negotiated resolution of a multi-year rate plan, there is less of a basis for them 
+8 
+in a one-year litigated case.  Therefore, unless this matter were to proceed to 
+9 
+negotiation that resulted in a multi-year resolution, the Companies oppose 
+10 
+establishing performance indicators relating to sanction papers.   
+11 
+ 
+12 
+Q. 
+The SITP further recommends (at 42) that KEDNY and KEDLI’s cyber 
+13 
+security program be included in the quarterly IT project update meetings 
+14 
+that are held with Staff, and that the Companies notify appropriate Staff 
+15 
+as cybersecurity projects get sanctioned or partially sanctioned.  Do you 
+16 
+agree with their recommendations? 
+17 
+A. 
+Yes.  
+18 
+ 
+19 
+
+
+--- Page 27 ---
+ 
+Rebuttal Testimony of the Information Technology Panel 
+Page 25 of 28 
+Q. 
+Please address the SITP’s recommendation that the Companies 
+1 
+implement enhanced reporting requirements and meet with Staff 
+2 
+periodically regarding the IT program.   
+3 
+A. 
+The Companies support periodic reporting on IT project status to Staff.  The 
+4 
+Companies believe greater transparency on IT project selection, prioritization, 
+5 
+timeline, and budget status will promote increased collaboration between the 
+6 
+Companies and Staff on the selection and delivery of IT projects and facilitate 
+7 
+Staff’s review of IT projects as part of rate proceedings for the benefit of New 
+8 
+York customers.  Indeed, NMPC, KEDNY, and KEDLI provide quarterly 
+9 
+reporting and meet with Staff on a regular basis regarding their respective 
+10 
+electric and gas capital investments; and similar to the reporting processes for 
+11 
+electric and gas assets, NMPC has agreed to provide regular status reports on 
+12 
+IT projects as part of the Joint Proposal adopted by the Commission in Case 
+13 
+17-E-0238 et al.  These regular status reports include: 
+14 
+ 
+(1) 
+an IT Capital Investment Plan for each rate year, including a narrative 
+15 
+explaining the overall IT investment plan and identifying the proposed 
+16 
+IT projects and their estimated costs;  
+17 
+ 
+(2) 
+quarterly variance reports on the status and budgets of major projects, 
+18 
+details and explanations of budget and timeline variances, reports on 
+19 
+budget exceptions, and identification of allocations to NMPC; and 
+20 
+
+
+--- Page 28 ---
+ 
+Rebuttal Testimony of the Information Technology Panel 
+Page 26 of 28 
+ 
+(3) 
+a year-end report that includes, in addition to quarterly reporting, 
+1 
+sanction papers for any projects exceeding $1 million that were 
+2 
+authorized during the previous Rate Year, and reporting on 
+3 
+performance on any IT projects selected for a cost incentive with Staff. 
+4 
+ 
+In addition to these regular status reports, NMPC has agreed to meet with 
+5 
+Staff on a semi-annual basis to: 
+6 
+ 
+ 
+● discuss budget and actual spending to date, status of in-flight 
+7 
+projects, proposed projects for the next six months; 
+8 
+ 
+ 
+● review quarterly filings; 
+9 
+ 
+ 
+● develop mutually agreeable sanction paper enhancements needed to 
+10 
+justify IT investments and allow for adequate review; and 
+11 
+ 
+ 
+● discuss whether different or additional information would be useful 
+12 
+to include in the quarterly reports. 
+13 
+ 
+The Companies would agree to include KEDNY and KEDLI in these 
+14 
+requirements and processes. 
+15 
+ 
+16 
+Q. 
+The SPP (at 23) recommends that the Companies’ adopt the following 
+17 
+process improvements: 
+18 
+ 
+(1) 
+proposed budgets included in a rate filing should be supported by 
+19 
+sanction papers;  
+20 
+
+
+--- Page 29 ---
+ 
+Rebuttal Testimony of the Information Technology Panel 
+Page 27 of 28 
+ 
+(2)  
+once the sanction papers are developed, National Grid’s Chief 
+1 
+Information Officer (“CIO”) should attest to the costs and benefits 
+2 
+of the programs that make up the approved budget;  
+3 
+ 
+(3)  
+after the projects are closed, National Grid’s CIO should attest to 
+4 
+and report on the actual costs and benefits achieved through the 
+5 
+IT investment plan, and  
+6 
+ 
+(4) 
+these improvements should be incorporated into the IT reporting 
+7 
+requirements. 
+8 
+ 
+Do you agree? 
+9 
+A. 
+Not entirely.  The Companies oppose the recommendations for attestation of 
+10 
+costs and benefits by National Grid’s CIO.  From the Companies’ perspective, 
+11 
+it is not clear what the benefit of such attestations would be or what they 
+12 
+might be used for.  As we noted previously, the Companies are willing to 
+13 
+provide their IT Capital Investment plans and reports on the performance of 
+14 
+those plans.  This information should be sufficient to permit Staff to make a 
+15 
+determination concerning the reasonableness of the costs and benefits of the 
+16 
+Companies’ IT programs.   
+17 
+ 
+18 
+With respect to the SPP’s proposal that future proposed rate case budgets be 
+19 
+supported by projects only with completed sanction papers, the Companies 
+20 
+disagree.  The dynamic nature of an operating utility results in the maturity of 
+21 
+
+
+--- Page 30 ---
+ 
+Rebuttal Testimony of the Information Technology Panel 
+Page 28 of 28 
+IT projects within investment plans varying with time.  Although the 
+1 
+Companies strive to ensure that the information supporting the proposed IT 
+2 
+budget reflects the most current and developed information available at the 
+3 
+time, it may not be possible or practical to establish going-forward budgets 
+4 
+based solely on projects that have completed the National Grid sanction 
+5 
+process.  This is especially the case where the Companies are attempting to 
+6 
+present multi-year spending plans and budgets.  Although the Companies are 
+7 
+open to collaborating with Staff on opportunities to improve the process for 
+8 
+developing IT plan budgets, we do not accept this SPP recommendation. 
+9 
+ 
+10 
+IX. 
+Conclusion 
+11 
+Q. 
+Does this conclude the Panel’s rebuttal testimony? 
+12 
+A. 
+Yes, it does. 
+13 
+
+
+--- Page 31 ---
+Rebuttal Testimony of the Information Technology Panel 
+  
+ 
+ 
+  
+ 
+ 
+ 
+INDEX OF EXHIBITS 
+ 
+ 
+ 
+ 
+Exhibit __ (ITP-1R):   
+Linear Regression Analysis, FY2015-2019    
+Exhibit __ (ITP-2R):   
+Service Company Rents Adjustments Reconciliation 
+ 
+ 
+ 
+ 
+ 
+ 
+ 
+ 
+ 
+ 
+ 
+ 
+ 
+ 
+ 
+ 
+ 
+ 
+ 
+ 
+ 
+ 
+ 
+ 
+ 
+ 
+ 
+
+
+--- Page 32 ---
+Rebuttal Testimony of the Information Technology Panel 
+  
+ 
+ 
+ 
+ 
+ 
+ 
+ 
+ 
+ 
+ 
+Exhibit ___ (ITP-1R) 
+ 
+Linear Regression Analysis, FY2015-2019 
+ 
+ 
+ 
+ 
+ 
+ 
+ 
+ 
+ 
+ 
+ 
+ 
+ 
+ 
+ 
+ 
+ 
+ 
+ 
+ 
+ 
+ 
+ 
+ 
+ 
+ 
+ 
+ 
+ 
+ 
+ 
+ 
+ 
+
+
+--- Page 33 ---
+Staff Information Technology Panel Linear Regression: FY2015-FY2019, excluding FY2017 
+SUMMARY OUTPUT
+Regression Statistics
+Multiple R
+0.965232591
+R Square
+0.931673954
+Adjusted R Square
+0.897510932
+Standard Error
+5753171.222
+Observations
+4
+ANOVA
+df
+SS
+MS
+F
+Significance F
+Regression
+1
+9.02656E+14
+9.02656E+14
+27.27141447
+0.034767409
+Residual
+2
+6.6198E+13
+3.3099E+13
+Total
+3
+9.68854E+14
+Coefficients
+Standard Error
+t Stat
+P-value
+Lower 95%
+Upper 95%
+Lower 95.0%
+Upper 95.0%
+Intercept
+(19,071,763,102)
+         
+3,669,554,406
+        
+(5)
+                   
+0
+                   
+(34,860,581,382)
+       
+(3,282,944,822)
+        
+(34,860,581,382)
+       
+(3,282,944,822)
+       
+X Variable 1
+9,500,821
+                    
+1,819,312
+               
+5
+                    
+0
+                   
+1,672,951
+                  
+17,328,691
+              
+1,672,951
+                  
+17,328,691
+             
+129,395,937
+               
+                                                 Exhibit__(ITP-1R)
+                                                             Page 1 of 2
+
+
+--- Page 34 ---
+Staff Information Technology Panel Linear Regression: FY2015-FY2019, including FY2017
+SUMMARY OUTPUT
+Regression Statistics
+Multiple R
+0.725278051
+R Square
+0.526028251
+Adjusted R Square
+0.368037669
+Standard Error
+16465396.65
+Observations
+5
+ANOVA
+df
+SS
+MS
+F
+Significance F
+Regression
+1
+9.02656E+14
+9.02656E+14 3.329491175
+0.165544105
+Residual
+3
+8.13328E+14
+2.71109E+14
+Total
+4
+1.71598E+15
+Coefficients
+Standard Error
+t Stat
+P-value
+Lower 95%
+Upper 95%
+Lower 95.0%
+Upper 95.0%
+Intercept
+(19,065,651,106)
+   
+10,502,149,644
+   
+(2)
+                   
+0
+                   
+(52,488,178,437)
+       
+14,356,876,224
+       
+(52,488,178,437)
+ 
+14,356,876,224
+ 
+X Variable 1
+9,500,821
+              
+5,206,816
+             
+2
+                     
+0
+                   
+(7,069,590)
+                 
+26,071,232
+              
+(7,069,590)
+           
+26,071,232
+        
+135,507,933
+          
+                                                 Exhibit__(ITP-1R)
+                                                             Page 2 of 2
+
+
+--- Page 35 ---
+Rebuttal Testimony of the Information Technology Panel 
+  
+ 
+ 
+ 
+ 
+ 
+ 
+ 
+ 
+ 
+ 
+ 
+Exhibit ___ (ITP-2R) 
+ 
+Service Company Rents Adjustments Reconciliation 
+ 
+ 
+ 
+ 
+ 
+ 
+ 
+ 
+ 
+ 
+ 
+ 
+ 
+ 
+
+
+--- Page 36 ---
+KEDNY
+Adjustment 
+per Staff
+Adjustment 
+per Company
+Difference
+SC Rent Expense - Forecasted Projects per C&U
+20,124,244
+20,124,244
+Adjust to remove GBE Contingency CapEx
+(2,136,184)
+(1,980,859)
+155,325
+Adjust to remove specific projects
+(61,631)
+(83,406)
+(21,775)
+25.5% Forecast Adjustment
+(4,571,565)
+(125,937)
+4,445,628
+Adjust for ROR
+(2,449,000)
+(435,275)
+2,013,725
+Adjusted SC Rent Expense - Forecasted Projects
+10,905,864
+17,498,768
+6,592,903
+SC Rent Expense - Existing Projects per C&U
+14,368,639
+14,368,639
+Adjust for ROR
+(262,023)
+(262,023)
+0
+Adjusted SC Rent Expense - Existing Projects
+14,106,616
+14,106,616
+0
+SC Rent Expense - Facilities per C&U
+9,253,433
+9,253,433
+Adjust for ROR
+(840,938)
+(840,938)
+0
+Adjusted SC Rent Expense - Facilities
+8,412,495
+8,412,495
+0
+Total SC Rent Adjustment
+(10,321,341)
+(3,728,438)
+6,592,903
+The Brooklyn Union Gas Company d/b/a/ National Grid NY
+PSC Case No. 19-G-0309
+Company Rebuttal
+Service Company Rents Adjustments Reconciliation
+Exhibit___(ITP-2R)
+Page 1 of 2
+
+
+--- Page 37 ---
+KEDLI
+Adjustment 
+per Staff
+Adjustment 
+per Company
+Difference
+SC Rent Expense - Forecasted Projects per C&U
+13,317,700
+13,317,700
+Adjust to remove GBE Contingency CapEx
+(1,525,517)
+(1,439,191)
+86,326
+Adjust to remove specific projects
+(37,247)
+(50,405)
+(13,158)
+25.5% Forecast Adjustment
+(2,987,557)
+(79,191)
+2,908,366
+Adjust for ROR
+(1,902,000)
+(441,463)
+1,460,537
+Adjusted SC Rent Expense - Forecasted Projects
+6,865,379
+11,307,450
+4,442,071
+SC Rent Expense - Existing Projects per C&U
+8,618,524
+8,618,524
+Adjust for ROR
+(164,569)
+(164,569)
+0
+Adjusted SC Rent Expense - Existing Projects
+8,453,955
+8,453,955
+0
+SC Rent Expense - Facilities per C&U
+10,298,701
+10,298,701
+Adjust for ROR
+(738,029)
+(738,029)
+0
+Adjusted SC Rent Expense - Facilities
+9,560,672
+9,560,672
+0
+Total SC Rent Adjustment
+(7,354,919)
+(2,912,848)
+4,442,071
+Keyspan Gas East Corporation d/b/a/ National Grid
+PSC Case No. 19-G-0310
+Company Rebuttal
+Service Company Rents Adjustments Reconciliation
+Exhibit___(ITP-2R)
+Page 2 of 2

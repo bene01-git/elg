@@ -1,0 +1,847 @@
+--- Page 1 ---
+ 
+BEFORE THE 
+NEW YORK STATE 
+PUBLIC SERVICE COMMISSION 
+----------------------------------------------------------------------------x 
+ 
+Proceeding on Motion of the Commission as to the 
+Rates, Charges, Rules and Regulations of  
+ 
+ 
+Case 22-E-____ 
+New York State Electric & Gas Corporation 
+for Electric Service 
+ 
+Proceeding on Motion of the Commission as to the 
+Rates, Charges, Rules and Regulations of  
+ 
+ 
+Case 22-G-____ 
+New York State Electric & Gas Corporation 
+for Gas Service 
+ 
+Proceeding on Motion of the Commission as to the 
+Rates, Charges, Rules and Regulations of  
+ 
+ 
+Case 22-E- ____ 
+Rochester Gas and Electric Corporation 
+for Electric Service 
+ 
+Proceeding on Motion of the Commission as to the 
+Rates, Charges, Rules and Regulations of  
+ 
+ 
+Case 22-G-____ 
+Rochester Gas and Electric Corporation 
+for Gas Service 
+ 
+----------------------------------------------------------------------------x 
+ 
+ 
+DIRECT TESTIMONY OF  
+AMPARO NIETO  
+(GAS MARGINAL COST STUDIES) 
+ 
+ 
+ 
+ 
+ 
+ 
+ 
+ 
+ 
+ 
+ 
+May 26, 2022
+
+
+--- Page 2 ---
+Case 22-E-____; Case 22-G-____; Case 22-E-____; Case 22-G-____ 
+ 
+DIRECT TESTIMONY OF AMPARO NIETO (GAS MARGINAL COST STUDIES) 
+ 
+i 
+TABLE OF CONTENTS 
+1 
+I. 
+INTRODUCTION ..................................................................................................................1 
+2 
+II. 
+IDENTIFICATION AND SUMMARY OF EXHIBITS ........................................................2 
+3 
+III. OVERVIEW OF MARGINAL COST STUDY .....................................................................4 
+4 
+IV. USE OF THE MCOS STUDY FOR RATE DESIGN............................................................7
+5 
+
+
+--- Page 3 ---
+Case 22-E-____; Case 22-G-____; Case 22-E-____; Case 22-G-____  
+ 
+DIRECT TESTIMONY OF AMPARO NIETO (GAS MARGINAL COST STUDIES) 
+ 
+ 
+ 
+ 
+I. INTRODUCTION 
+1 
+Q. 
+Please state your name.   
+2 
+A. 
+My name is Amparo Nieto. 
+3 
+Q. 
+Ms. Nieto, please state your title and business address. 
+4 
+A. 
+I am Senior Director at Energy and Environmental Economics (“E3”).  My office is 
+5 
+located at 44 Montgomery Street, San Francisco, California. 
+6 
+Q. 
+Please summarize your work experience and educational background. 
+7 
+A. 
+I am an economist with over 25 years of experience providing advisory and expert 
+8 
+witness services in the energy field, and in particular in the context of energy regulatory 
+9 
+policy design, electricity and natural gas marginal cost-based rates, including enhanced 
+10 
+time of use (“TOU”) rate options, and pricing mechanisms to support cost-effective 
+11 
+adoption of distributed energy resources (“DERs”).  I have extensively advised utilities as 
+12 
+part of electricity rate cases as well as during stand-alone ratemaking proceedings on net 
+13 
+energy metering and electrification rates.  I have designed improvements to utility rates 
+14 
+and development of new rate structures to achieve clean policy goals more cost-
+15 
+effectively across the US and in Canada, and provided training to energy regulatory 
+16 
+commissions in Australia, Ireland, Spain, Africa, Latin America and the Caribbean.  For 
+17 
+many years, I have directed membership-based utility working groups that discuss rate 
+18 
+innovation and regulatory strategies.  Prior to joining E3, I worked as a Vice President at 
+19 
+NERA Economic Consulting, and as Senior Vice President at Economics Incorporated.  I 
+20 
+hold a Masters’ degree in Economic Analysis and Public Finance from the Madrid 
+21 
+Institute for Fiscal Studies, in Madrid and a B.A. in Economics from the University of 
+22 
+
+
+--- Page 4 ---
+Case 22-E-____; Case 22-G-____; Case 22-E-____; Case 22-G-____ 
+ 
+DIRECT TESTIMONY OF AMPARO NIETO (GAS MARGINAL COST STUDIES) 
+ 
+2 
+Carlos III of Madrid.  My curriculum vitae is set forth in Exhibit __ (ANE-1), which is 
+1 
+attached to my Direct Testimony regarding the Electric Marginal Cost Studies. 
+2 
+Q. 
+Have you previously testified in other proceedings before the New York State Public 
+3 
+Service Commission (“PSC” or the “Commission”) or any other state or federal 
+4 
+regulatory agency? 
+5 
+A. 
+Yes, I have filed direct testimony on marginal electricity and natural gas costs before the 
+6 
+Commission in prior rate cases of New York State Electric & Gas Corporation 
+7 
+(“NYSEG”) and Rochester Gas and Electric Corporation (“RG&E” and, together with 
+8 
+NYSEG, the “Companies”).  In addition, I have testified in rate proceedings before 
+9 
+regulatory commissions in California, Arizona, New York, Maine, Minnesota, New 
+10 
+Hampshire, North Dakota, South Dakota and North Carolina. 
+11 
+II. IDENTIFICATION AND SUMMARY OF EXHIBITS 
+12 
+Q. 
+Are you sponsoring any exhibits? 
+13 
+A. 
+Yes.  I sponsor one Exhibit: 
+14 
+Exhibit __ (ANG-1): Marginal Cost of Natural Gas Distribution for NYSEG and RG&E. 
+15 
+Q. 
+What is the purpose of your testimony? 
+16 
+A. 
+I was retained by the Companies to conduct an update to the electricity and natural gas 
+17 
+marginal delivery cost of service studies (“MCOS”) performed in the Companies’ prior 
+18 
+rate cases.  In my testimony, I summarize the methods that I adopted for the natural gas 
+19 
+MCOS study updates.  A summary of the results by rate class is provided for each of the 
+20 
+Companies.  More detailed summaries of the marginal cost estimates for each component 
+21 
+of the study are provided in Exhibit __ (ANG-1).  The MCOS study results are useful to 
+22 
+
+
+--- Page 5 ---
+Case 22-E-____; Case 22-G-____; Case 22-E-____; Case 22-G-____ 
+ 
+DIRECT TESTIMONY OF AMPARO NIETO (GAS MARGINAL COST STUDIES) 
+ 
+3 
+inform the potential changes that would help provide efficient price signals and relative 
+1 
+contribution of customer class to overall incremental cost of service. 
+2 
+Q. 
+Please describe the key objectives of undertaking the MCOS Studies. 
+3 
+A. 
+The MCOS study results are useful to inform the potential changes in rate design that meet 
+4 
+efficiency and equity goals.  System expansion is influenced by energy use levels and 
+5 
+patterns, pricing below marginal costs may lead to unnecessary investment in delivery 
+6 
+facilities.  Pricing above marginal cost may lead to inefficiently low consumption, poor 
+7 
+utilization of existing facilities, and net social deadweight loss. 
+8 
+Q.  
+Are there differences in the natural gas marginal costing approaches you used for this 
+9 
+case compared to those used in the Companies’ last-filed marginal cost studies? 
+10 
+A. 
+No, the approaches used for the Companies’ last natural gas marginal cost studies 
+11 
+continue to be appropriate for this case, but all components of the study have been updated 
+12 
+with new data. 
+13 
+Q.  
+Are there any fundamental differences in the marginal gas delivery cost estimates that the 
+14 
+studies have produced among the two Companies, and if so, what is driving those 
+15 
+differences? 
+16 
+A. 
+Both Companies are currently expecting similar low level of growth-related projects due 
+17 
+to having sufficient capacity to accommodate growth, which results in low marginal 
+18 
+costs.  The main difference between the two Companies is that NYSEG has higher 
+19 
+connection costs due to higher installation labor costs, as well as longer distances due to 
+20 
+NYSEG’s more rural service territory. 
+21 
+
+
+--- Page 6 ---
+Case 22-E-____; Case 22-G-____; Case 22-E-____; Case 22-G-____ 
+ 
+DIRECT TESTIMONY OF AMPARO NIETO (GAS MARGINAL COST STUDIES) 
+ 
+4 
+III. OVERVIEW OF MARGINAL COST STUDY 
+1 
+Q.  
+Please describe the elements of marginal cost of gas delivery in your study. 
+2 
+A. 
+The MCOS study evaluates all components of the marginal distribution costs of service, 
+3 
+taking into account the specific characteristics of the Companies’ gas distribution systems 
+4 
+and their customers.  The following elements of marginal distribution costs were 
+5 
+examined: 
+6 
+a) 
+Marginal costs of transmission, high-pressure regulator stations, and upper 
+7 
+medium-pressure mains.  These plant components are sized based on near-
+8 
+term design-day demands and expanded as load grows;   
+9 
+b) 
+Marginal costs of local facilities, including medium- and low-pressure 
+10 
+regulator stations and lower medium- and low-pressure mains and their 
+11 
+associated operations and maintenance (“O&M”) expense.  These costs vary 
+12 
+with customers’ long-term expected peak-day demands (“design demand”); 
+13 
+and   
+14 
+c) 
+Marginal customer-related costs—meter, regulator, relief valve and service 
+15 
+lateral and their associated O&M, and customer-related expenses.    
+16 
+Q. 
+What approach did you use for estimating marginal transportation mains? 
+17 
+A. 
+I reviewed RG&E and NYSEG’s plans for gas transmission projects and there are no 
+18 
+such projects in its near-term plans.  Consequently, I treated the marginal cost of this 
+19 
+component as zero in the near term. 
+20 
+
+
+--- Page 7 ---
+Case 22-E-____; Case 22-G-____; Case 22-E-____; Case 22-G-____ 
+ 
+DIRECT TESTIMONY OF AMPARO NIETO (GAS MARGINAL COST STUDIES) 
+ 
+5 
+Q.  
+What approach did you use for estimating marginal high-pressure regulator station and 
+1 
+upper-medium pressure mains? 
+2 
+A.  
+High-pressure regulator stations connect the high-pressure transmission system to the 
+3 
+upper medium-pressure system, as illustrated above.  They are sized based on expected 
+4 
+downstream design-day demand in the near-term, to maintain system reliability.  The 
+5 
+Companies do not expect any capacity expansion needs at the regulator stations, and 
+6 
+therefore this component of the study was zero in the current study update.  The 
+7 
+Companies do identify expansion needs for the upper-medium pressure mains in the next 
+8 
+planning period.  To estimate growth-related investment in upper-medium pressure mains 
+9 
+I divided, for each of the Companies, the planned five-year investment in upper medium-
+10 
+pressure mains by their estimated capacity.  Finally, since I intended to estimate a region-
+11 
+wide marginal cost, the estimated marginal investment needed to be adjusted to reflect 
+12 
+the near-term excess capacity situation.  Expected high-pressure regulator station and 
+13 
+upper-medium pressure mains capacity in the overall service area is larger than the 
+14 
+minimum required to handle expected load growth in the near term.  The Companies 
+15 
+expect that natural gas growth will trigger investment only in a small fraction of their 
+16 
+system, particularly in the case of NYSEG.  I estimated the share of the system’s design 
+17 
+day demand in upper-medium pressure that is driving new investment in each Company, 
+18 
+and applied these percentages to the marginal upper-medium pressure main investment to 
+19 
+compute a system-wide marginal cost for each Company.  These percentages were only 
+20 
+2% for NYSEG and about 15% for RG&E.  The next step was to apply the economic 
+21 
+carrying charges, marginal operation and maintenance expenses, and marginal loading 
+22 
+factors to the marginal investment to convert these costs into annual costs .  The 
+23 
+
+
+--- Page 8 ---
+Case 22-E-____; Case 22-G-____; Case 22-E-____; Case 22-G-____ 
+ 
+DIRECT TESTIMONY OF AMPARO NIETO (GAS MARGINAL COST STUDIES) 
+ 
+6 
+annualized marginal costs were then allocated to the winter months December through 
+1 
+March, since the design day demand is expected to continue occurring in those months. 
+2 
+Q. 
+How did you estimate marginal local gas delivery costs? 
+3 
+A. 
+The Companies provided the replacement cost of typical medium- and low-pressure 
+4 
+regulator stations (including farm tap regulators) in 2022 dollars, as well as the current 
+5 
+number of regulator stations and farm tap regulators.  I computed the weighted average of 
+6 
+the replacement cost of medium and low-pressure stations and multiplied them by the 
+7 
+number of regulators on the system.  To estimate the marginal cost of all existing lower-
+8 
+medium and low-pressure mains the replacement cost (stated in 2022 dollars) was 
+9 
+divided by the aggregate medium and low-pressure design demand at the customer 
+10 
+premises as of year 2021.  The next step was to apply the economic carrying charges to 
+11 
+obtain an annualized cost, and marginal operation and maintenance expenses, and and 
+12 
+general plant loading factors to convert marginal investment into annual costs. 
+13 
+Q. 
+Please describe your computation of gas customer-related costs. 
+14 
+A. 
+The Companies provided the current installed cost of gas meters, house regulators and 
+15 
+relief valves, by customer class.  To these costs, I added the installed cost of the 
+16 
+communicating module that the Companies plan to begin deploying late this year for the 
+17 
+majority of the customers, to enable advanced metering infrastructure (“AMI”) 
+18 
+functionality.  The Companies also provided typical costs of service laterals by class.  
+19 
+These costs were annualized using the economic carrying charge for service laterals  
+20 
+Marginal service lateral O&M expenses were added, taking into account recent O&M 
+21 
+service expenses per customer, and the average number of services per customer.  The 
+22 
+marginal customer cost also includes an estimate of per-customer customer accounts 
+23 
+
+
+--- Page 9 ---
+Case 22-E-____; Case 22-G-____; Case 22-E-____; Case 22-G-____ 
+ 
+DIRECT TESTIMONY OF AMPARO NIETO (GAS MARGINAL COST STUDIES) 
+ 
+7 
+expenses, composed mainly of billing expenses and uncollectibles, excluding expenses 
+1 
+associated with the merchant function from the marginal delivery cost estimates.  
+2 
+Customer allocation of these expenses relied on the Companies’ 2022 embedded cost 
+3 
+study that identifies the cost per customer for each class.   
+4 
+IV. USE OF THE MCOS STUDY FOR RATE DESIGN 
+5 
+Q.  
+Please summarize your view on the key guiding principles regarding use of marginal cost 
+6 
+information for rate design. 
+7 
+A. 
+Efficient pricing would use a rate design that mirrors the structure of the Companies’ 
+8 
+marginal cost of service, and sets charges for each rate component at marginal cost as a 
+9 
+starting point, before reconciliation to meet the class revenue requirement.  Efficient rate 
+10 
+designs for gas delivery service customers would consist of a monthly local facilities 
+11 
+charge per MCF of design demand, which use meter capacity as a proxy, as this study has 
+12 
+relied on, and a monthly customer charge.  For service classifications with similar design 
+13 
+demands or connected loads, the per-kW facilities change could be combined with the 
+14 
+customer charge. The facilities costs do not change month by month with variations in 
+15 
+customer usage and therefore they are best recovered in a facilities charge or a per-
+16 
+customer charge.  Tables 1 and 2 below show what efficient, marginal cost-based charges 
+17 
+before reconciliation with revenue target for each Company would look like, using the 
+18 
+current rate structure. 
+19 
+
+
+--- Page 10 ---
+Case 22-E-____; Case 22-G-____; Case 22-E-____; Case 22-G-____ 
+ 
+DIRECT TESTIMONY OF AMPARO NIETO (GAS MARGINAL COST STUDIES) 
+ 
+8 
+Table 1. Comparison of NYSEG Gas Rates and Marginal Costs by Existing Rate Structure 
+1 
+Current
+Current
+Marginal
+Rates
+Rates
+Costs ($2022)
+Customer charge
+Per Therm
+All Therms 
+SC1S 
+$16.30
+Customer Cost
+$32.69
+$0.73
+Facilities Cost
+$68.16
+0 -3
+$17.03
+$100.85
+$0.0000
+$0.0014
+4 -50
+$0.5193
+Over 50
+$0.1220
+SC1S NON-HEAT
+$12.30
+Customer Cost
+$32.19
+$0.73
+Facilities Cost
+$44.05
+0 3
+$13.03
+$76.24
+$0.0000
+$0.0014
+4 50
+$0.5193
+Over 50
+$0.1220
+SC2S  
+$23.60
+Customer Cost
+$52.42
+$0.73
+Facilities Cost
+$132.99
+0 3
+$24.33
+$185.41
+$0.0000
+$0.0014
+4 500
+$0.3378
+501 15,000
+$0.1946
+Over 15,000
+$0.1197
+SC3S Interruptible Sales
+Customer Cost
+$280.15
+$0.0014
+Facilities Cost
+$2,701.40
+$2,981.55
+SC5S Seasonal Gas Cooling
+$16.86
+Customer Cost
+$12.86
+$0.73
+Facilities Cost
+$43.33
+0 3
+$17.59
+$56.19
+$0.0000
+$0.0014
+Over 3
+$0.0314
+SC9S Industrial (Binghamton Only)
+$243.87
+Customer Cost
+$144.12
+$0.73
+Facilities Cost
+$3,117.00
+0 500
+$244.60
+$3,261.12
+$0.0000
+$0.0014
+501 15,000
+$0.1655
+Over 15,000
+$0.1200
+SC13T (Res Agg-Heat) 
+$16.30
+Customer Cost
+$34.79
+$0.73
+Facilities Cost
+$68.16
+0 3
+$17.03
+$102.95
+$0.0000
+$0.0014
+4 50
+$0.5193
+Over 50
+$0.1220
+SC13T (Res Agg Non-Heat)
+$12.30
+Customer Cost
+$34.32
+$0.73
+Facilities Cost
+$68.16
+0 3
+$13.03
+$102.48
+$0.0000
+$0.0014
+4 50
+$0.5193
+Over 50
+$0.1220
+SC14T (Non-Res Agg) 
+$23.60
+Customer Cost
+$100.07
+$0.73
+Facilities Cost
+$208.11
+0 - 3
+$24.33
+$308.18
+$0.0000
+$0.0014
+4- 500
+$0.3378
+501 15,000
+$0.1946
+Over 15,000
+$0.1197
+Basic Service Charge
+Bill Issuance Charge
+Basic Service Charge
+Bill Issuance Charge
+Bill Issuance Charge
+Basic Service Charge
+Bill Issuance Charge
+Basic Service Charge
+Basic Service Charge
+Bill Issuance Charge
+Basic Service Charge
+Bill Issuance Charge
+Basic Service Charge
+Bill Issuance Charge
+Marginal
+Costs ($2022)
+Basic Service Charge
+Bill Issuance Charge
+Monthly Fixed Cost ($2022)
+
+
+--- Page 11 ---
+Case 22-E-____; Case 22-G-____; Case 22-E-____; Case 22-G-____ 
+ 
+DIRECT TESTIMONY OF AMPARO NIETO (GAS MARGINAL COST STUDIES) 
+ 
+9 
+Table 2. Comparison of RG&E Gas Rates and Marginal Costs by Existing Rate Structure 
+1 
+ 
+------------------$/customer/mo.----------------------  
+----------------------------$/therm--------------------------
+Current
+Current
+Marginal
+Rates
+Rates
+Costs (2022$)
+Customer
+Volumetric
+All
+Charge
+ 
+Rate
+Therms
+SC 1 Residential Non Heat
+Bill issuance charge:
+$0.93
+Facilities Cost:
+$25.56
+Next 97:
+$0.27422
+First 3 therms:
+$18.30
+Customer Cost:
+$20.61
+Next 400:
+$0.25561
+$19.23
+$46.18
+Next 500:
+$0.22784
+$0.01036
+Over 1000:
+$0.09703
+SC 1 Residential Heat
+Bill issuance charge:
+$0.93
+Facilities Cost:
+$25.56
+Next 97:
+$0.27422
+First 3 therms:
+$18.30
+Customer Cost:
+$21.04
+Next 400:
+$0.25561
+$19.23
+$46.61
+Next 500:
+$0.22784
+$0.01036
+Over 1000:
+$0.09703
+SC 1 Commercial 
+Bill issuance charge:
+$0.93
+Facilities Cost:
+$59.75
+Next 97:
+$0.27422
+First 3 therms:
+$18.30
+Customer Cost:
+$38.99
+Next 400:
+$0.25561
+$19.23
+$98.74
+Next 500:
+$0.22784
+$0.01036
+Over 1000:
+$0.09703
+SC 1 Industrial
+Bill issuance charge:
+$0.93
+Facilities Cost:
+$218.62
+Next 97:
+$0.27422
+First 3 therms:
+$18.30
+Customer Cost:
+$50.83
+Next 400:
+$0.25561
+$0.01036
+$19.23
+$269.45
+Next 500:
+$0.22784
+Over 1000:
+$0.09703
+SC 1 Municipal
+Bill issuance charge:
+$0.93
+Facilities Cost:
+$172.79
+Next 97:
+$0.27422
+$0.01036
+First 3 therms:
+$18.30
+Customer Cost:
+$47.80
+Next 400:
+$0.25561
+$19.23
+$220.59
+Next 500:
+$0.22784
+Over 1000:
+$0.09703
+SC 3 Large T Commercial 
+Bill issuance charge:
+$0.93
+Facilities Cost:
+$1,521.52
+Next 29,000:
+$0.04372
+$0.01036
+First 1000:
+$2,239.18
+Customer Cost:
+$179.66
+Next 70,000:
+$0.03493
+$2,240.11
+$1,701.18
+Next 900,000:
+$0.01352
+Over 1,000,000:
+$0.00635
+SC 3 Large T Industrial
+Bill issuance charge:
+$0.93
+Facilities Cost:
+$2,882.88
+Next 29,000:
+$0.04372
+$0.01036
+First 1000:
+$2,239.18
+Customer Cost:
+$292.22
+Next 70,000:
+$0.03493
+$2,240.11
+$3,175.10
+Next 900,000:
+$0.01352
+Over 1,000,000:
+$0.00635
+SC 3 Large T Municipal
+Bill issuance charge:
+$0.93
+Facilities Cost:
+$1,349.04
+Next 29,000:
+$0.04372
+$0.01036
+First 1000:
+$2,239.18
+Customer Cost:
+$168.31
+Next 70,000:
+$0.03493
+$2,240.11
+$1,517.35
+Next 900,000:
+$0.01352
+Over 1,000,000:
+$0.00635
+Costs
+Marginal
+Costs (2022$)
+Monthly Fixed
+
+
+--- Page 12 ---
+Case 22-E-____; Case 22-G-____; Case 22-E-____; Case 22-G-____ 
+ 
+DIRECT TESTIMONY OF AMPARO NIETO (GAS MARGINAL COST STUDIES) 
+ 
+10 
+Q. 
+Does this conclude your direct testimony at this time? 
+1 
+A. 
+Yes, it does. 
+2 

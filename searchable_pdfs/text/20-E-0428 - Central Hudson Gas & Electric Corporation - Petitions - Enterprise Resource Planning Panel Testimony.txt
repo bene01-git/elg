@@ -1,0 +1,1305 @@
+--- Page 1 ---
+ 
+BEFORE THE 
+NEW YORK STATE 
+PUBLIC SERVICE COMMISSION 
+----------------------------------------------------------------------------x 
+ 
+Proceeding on Motion of the Commission as to the 
+Rates, Charges, Rules and Regulations of  
+ 
+Case 20-E-____ 
+Central Hudson Gas & Electric Corporation 
+for Electric Service 
+ 
+----------------------------------------------------------------------------x 
+ 
+----------------------------------------------------------------------------x 
+ 
+Proceeding on Motion of the Commission as to the 
+Rates, Charges, Rules and Regulations of  
+ 
+Case 20-G-____ 
+Central Hudson Gas & Electric Corporation 
+for Gas Service 
+ 
+----------------------------------------------------------------------------x 
+ 
+ 
+ 
+ 
+ 
+ 
+ 
+DIRECT TESTIMONY OF THE 
+ENTERPRISE RESOURCE PLANNING PANEL 
+ 
+ 
+ 
+ 
+ 
+ 
+ 
+ 
+ 
+ 
+ 
+ 
+ 
+ 
+August 27, 2020 
+
+
+--- Page 2 ---
+ 
+i 
+ 
+ 
+1 
+TABLE OF CONTENTS 
+2 
+I. 
+INTRODUCTION ...................................................................................................... 1 
+3 
+II. PURPOSE OF TESTIMONY ......................................................................... 4 
+4 
+III.   BACKGROUND ............................................................................................. 6 
+5 
+IV. PATH TO NEW ERP SOLUTION ................................................................ 13 
+6 
+ 
+7 
+ 
+8 
+ 
+9 
+ 
+10 
+ 
+11 
+ 
+12 
+ 
+13 
+
+
+--- Page 3 ---
+Case 20-E-____; Case 20-G-____ 
+ 
+DIRECT TESTIMONY OF THE ENTERPRISE RESOURCE 
+PLANNING PANEL 
+1 
+ 
+I. 
+INTRODUCTION 
+1 
+Q. 
+Please state the names of the members of the Enterprise Resource 
+2 
+Planning Panel (“Panel”). 
+3 
+A. 
+Our names are Donna Kladis, Donald L. DuBois, and Lora J. Gescheidle. 
+4 
+Q. 
+Ms. Kladis, please state your current employer and business address. 
+5 
+A. 
+I am employed by Central Hudson Gas & Electric Corporation (“Central 
+6 
+Hudson” or the “Company”) and my business address is 284 South 
+7 
+Avenue, Poughkeepsie, New York 12601. 
+8 
+Q. 
+Ms. Kladis, in what capacity are you employed by Central Hudson and 
+9 
+what is your scope of responsibilities? 
+10 
+A. 
+I am employed by Central Hudson as Chief Technology Officer. In that 
+11 
+capacity, I am responsible for the Information Technology (“IT”) 
+12 
+department which includes Application Development, Infrastructure, IT 
+13 
+Project and Portfolio Management Office, and Cybersecurity. I am also 
+14 
+responsible for Operational Technology and Records Management.  
+15 
+Q. 
+Ms. Kladis, what is your educational background and professional 
+16 
+experience? 
+17 
+A. 
+I have a Bachelor of Science in Professional Computer Studies from Pace 
+18 
+University and various Executive program Certificates from Wharton, Bryn 
+19 
+Mawr and other institutes. I have over 25 years of experience in 
+20 
+technology across various industries and specialize in Global Business 
+21 
+Transformation. I joined Central Hudson in January 2020. 
+22 
+
+
+--- Page 4 ---
+Case 20-E-____; Case 20-G-____ 
+ 
+DIRECT TESTIMONY OF THE ENTERPRISE RESOURCE 
+PLANNING PANEL 
+2 
+ 
+Q. 
+Ms. Kladis, have you previously testified before the New York State Public 
+1 
+Service Commission (“PSC” or the “Commission”)? 
+2 
+A. 
+No, I have not previously testified before the Commission.  
+3 
+Q. 
+Mr. DuBois, please state your current employer and business address. 
+4 
+A. 
+I am employed by Central Hudson and my business address is 284 South 
+5 
+Avenue, Poughkeepsie, New York 12601. 
+6 
+Q. 
+Mr. DuBois, in what capacity are you employed by Central Hudson and 
+7 
+what is your scope of responsibilities? 
+8 
+A. 
+I currently serve as the Company’s Manager of Work and Asset 
+9 
+Management. This is a new division intended to focus on developing a 
+10 
+more consistent approach to work planning, work management, and asset 
+11 
+management on an enterprise basis. The Work and Asset Management 
+12 
+Division also includes oversight of the Project Management and Drafting 
+13 
+and GIS Departments to improve the focus on creating and maintaining 
+14 
+the available work inventories to support internal and contractor work 
+15 
+plans for both electric and gas.  
+16 
+Q. 
+Mr. DuBois, what is your educational background and professional 
+17 
+experience? 
+18 
+A. 
+I received a Bachelor of Science in Mechanical Engineering from Union 
+19 
+College in 1986. I have been continuously employed at Central Hudson 
+20 
+since 1986 with assignments in its Production, Mechanical Engineering, 
+21 
+Gas & Mechanical Engineering, Fuels Resources, Operation Services, 
+22 
+
+
+--- Page 5 ---
+Case 20-E-____; Case 20-G-____ 
+ 
+DIRECT TESTIMONY OF THE ENTERPRISE RESOURCE 
+PLANNING PANEL 
+3 
+ 
+System Construction and Customer Services groups. Prior to my current 
+1 
+assignment, I served as the Manager of Electric Transmission and 
+2 
+Distribution. In 2019, I assumed my new role of Manager of Work and 
+3 
+Asset Management.  
+4 
+Q. 
+Mr. DuBois, have you previously testified before the Commission? 
+5 
+A. 
+Yes. I have testified before this Commission in Cases 00-E-1273, 00-G-
+6 
+1274, 05-E-0934, 05-G0935, 08-E-0887, 08-G-0888, 09-E-0588, 09-G-
+7 
+0589, 14-E-0318, 14-G-0319, 17-E-0459, and 17-G-0460. 
+8 
+Q. 
+Ms. Gescheidle, please state your current employer and business 
+9 
+address. 
+10 
+A. 
+I am employed by Central Hudson and my business address is 284 South 
+11 
+Avenue, Poughkeepsie, New York 12601. 
+12 
+Q. 
+Ms. Gescheidle, in what capacity are you employed by Central Hudson 
+13 
+and what is your scope of responsibilities? 
+14 
+A. 
+I am employed by Central Hudson as the Controller. In that capacity, I am 
+15 
+responsible for the supervision of the Financial Reporting & Research, 
+16 
+Plant Accounting and Tax departments. 
+17 
+Q. 
+Ms. Gescheidle, what is your educational background and professional 
+18 
+business experience? 
+19 
+A. 
+I am a Certified Public Accountant (“CPA”) and have a Bachelor of 
+20 
+Science degree in Accounting from Seton Hall University. From 1999 to 
+21 
+2004, I was employed by the public accounting firm Ernst & Young LLP as 
+22 
+
+
+--- Page 6 ---
+Case 20-E-____; Case 20-G-____ 
+ 
+DIRECT TESTIMONY OF THE ENTERPRISE RESOURCE 
+PLANNING PANEL 
+4 
+ 
+an auditor. I have been employed by Central Hudson since September 
+1 
+2004. From 2004 to 2007, I worked as an auditor in the Internal Audit 
+2 
+Department and performed various financial and operational audits. From 
+3 
+2007 to March 2009, I worked as an accountant in the Financial Reporting 
+4 
+and Research Department. In March 2009, I was promoted to the Director 
+5 
+of Financial Reporting and Research. In January 2013, I was promoted to 
+6 
+Assistant Manager of General Accounting. In August 2014, I was 
+7 
+promoted to Manager of General Accounting and in October 2016, I was 
+8 
+promoted to Controller. My work experience in both auditing and 
+9 
+accounting has centered primarily on overall accounting theory and 
+10 
+reporting. 
+11 
+Q. 
+Ms. Gescheidle, have you previously testified before the Commission? 
+12 
+A. 
+Yes. I have testified before this Commission in Cases 09-E-0588, 09-G-
+13 
+0589, 14-E-0318, 14-G-0319, 17-E-0459 and 17-G-0460. 
+14 
+II. 
+PURPOSE OF TESTIMONY 
+15 
+Q. 
+What is the purpose of the Panel’s testimony in these proceedings? 
+16 
+A. 
+The purpose of this testimony is to outline the Company’s Enterprise 
+17 
+Resource Planning (“ERP”) Transformation Strategy, focusing on the 
+18 
+Company’s final Phase (identified as Phase III within Exhibit __ (ERPP-1)) 
+19 
+to move all its remaining business processes off the aging ERP Mainframe 
+20 
+solution and to further leverage the new SAP S/4 ERP solution that will be 
+21 
+implemented with the Phase II: CIS Project in 2021. With the final phase, 
+22 
+
+
+--- Page 7 ---
+Case 20-E-____; Case 20-G-____ 
+ 
+DIRECT TESTIMONY OF THE ENTERPRISE RESOURCE 
+PLANNING PANEL 
+5 
+ 
+Phase III implementation, we will mitigate several risks pertaining to 
+1 
+cybersecurity, disaster recovery and obsolesce while providing a new 
+2 
+sustainable technology platform that will deliver on best practices to help 
+3 
+the business run more effectively and efficiently.  
+4 
+Q. 
+Is the Panel sponsoring any exhibits in support of its testimony? 
+5 
+A. 
+Yes. This Panel is sponsoring Exhibit __ (ERPP-1) entitled “Central 
+6 
+Hudson ERP Mainframe Transformation” which is a brief overview of the 
+7 
+ERP Mainframe’s risks and components as well as a timeline and phased 
+8 
+strategy depicting the migration off the ERP Mainframe solution to the 
+9 
+SAP S/4 ERP solution. The Panel is also sponsoring Exhibit __ (ERPP-2) 
+10 
+entitled “SAP ERP 2020 Assessment” which is a high level representation 
+11 
+of the alignment of the ERP Mainframe’s functionality as compared to 
+12 
+SAP’s ERP S/4 solution. The Panel is also sponsoring Confidential Exhibit 
+13 
+__ (ERPP-3) entitled “Cybersecurity Assessments 2013-2020”. 
+14 
+Additionally, the Panel is also sponsoring Exhibit __ (ERPP-4) - “ERP 
+15 
+Transformation: Directional Estimated Benefits” which was developed in 
+16 
+collaboration with the professional services vendor that assisted with the 
+17 
+Enterprise Work and Asset Management (“EWAM”) Assessment and 
+18 
+outlines the directional estimates of benefits anticipated as a result of the 
+19 
+ERP Transformation. Notably, these directional estimates only reflect the 
+20 
+savings corresponding to the EWAM capabilities, not the full EWAM and 
+21 
+Finance Capabilities. Further detailed analysis is required during the 
+22 
+
+
+--- Page 8 ---
+Case 20-E-____; Case 20-G-____ 
+ 
+DIRECT TESTIMONY OF THE ENTERPRISE RESOURCE 
+PLANNING PANEL 
+6 
+ 
+planning and design milestones of the project to solidify the full benefits for 
+1 
+both EWAM and Finance. Lastly, the Panel is sponsoring Exhibit __ 
+2 
+(ERPP-5) – “ERP Transformation: Key Project Activities & Benefits 
+3 
+Timeline” which outlines the expected timeline of the transformation and 
+4 
+the corresponding benefits and avoided investments that result. 
+5 
+Q. 
+What are the capital expenditures and Operations and Maintenance 
+6 
+(“O&M”) expenses corresponding to Phase III (EWAM & Finance) of the 
+7 
+ERP Transformation being requested? 
+8 
+A. 
+The Capital expenditures for Phase III (EWAM & Finance), total $51.5 
+9 
+million during the Five Year forecast period, with $15.3 million planned for 
+10 
+the Rate Year ended June 30, 2022 (“Rate Year”). These expenditures 
+11 
+are a subset of the transformational investments within the Five Year IT 
+12 
+Capital Plan. The O&M expenditures associated with implementation and 
+13 
+post go-live support specific to this initiative are $1.2 million during the 
+14 
+Rate Year and an annual average of $2.4 million for the remainder of the 
+15 
+Five Year forecast period. 
+16 
+III.  
+BACKGROUND 
+17 
+Q. 
+Please describe the Company’s existing ERP Mainframe solution. 
+18 
+A. 
+Central Hudson has been a customer of Software AG (“SAG”) since 1981 
+19 
+and utilizes its proprietary database, Adabas, to custom develop the 
+20 
+current ERP Mainframe modules in-house using the Natural programming 
+21 
+language. The ERP Mainframe solution supports crucial business 
+22 
+
+
+--- Page 9 ---
+Case 20-E-____; Case 20-G-____ 
+ 
+DIRECT TESTIMONY OF THE ENTERPRISE RESOURCE 
+PLANNING PANEL 
+7 
+ 
+processes for Customer Information Management, EWAM, Supply Chain, 
+1 
+Finance, and Human Capital Management. The ERP Mainframe solution 
+2 
+includes the following ten applications, commonly referred to as “functional 
+3 
+modules,” which are core to business operations: Customer Information 
+4 
+System (“CIS”), Financial Accounting System (“FAS”), Materials 
+5 
+Management System (“MMS”), Time Management System (“TMS”), 
+6 
+Transmission & Distribution System (“TDS”), Field Operating System 
+7 
+(“FOS”), Human Resource System (“HRS”), Maintenance Request System 
+8 
+(“MRS”), Document Information System (“DIS”), and Integrated Energy 
+9 
+Accounting (“IEA”). These mainframe modules have been custom 
+10 
+developed in-house over the past four decades.   
+11 
+Q. 
+Are there any risks to continuing to run these business processes on the 
+12 
+current ERP Mainframe technology? 
+13 
+A. 
+Yes, there are several risks pertaining to the Company continuing to run 
+14 
+core business processes on the current ERP Mainframe solution. These 
+15 
+risks can be summarized into three areas; increasingly complex system 
+16 
+design, restrictive and limited Cybersecurity features and Disaster 
+17 
+Recovery capabilities, and the decreasing availability of the necessary 
+18 
+technical workforce. 
+19 
+Q. 
+Please elaborate further on the risk associated with the increasingly 
+20 
+complex design of the current ERP Mainframe solution. 
+21 
+
+
+--- Page 10 ---
+Case 20-E-____; Case 20-G-____ 
+ 
+DIRECT TESTIMONY OF THE ENTERPRISE RESOURCE 
+PLANNING PANEL 
+8 
+ 
+A. 
+As we noted previously, over the last 40 years ten major functional 
+1 
+modules have been developed in-house with over 300 file exchanges to 
+2 
+support business processes. During this timeframe data redundancy has 
+3 
+increased significantly and data accuracy and controls have become very 
+4 
+difficult to support. Because the data is not normalized, harmonized or in 
+5 
+one place, Microsoft Office’s Excel is commonly used to combine and 
+6 
+interpret data, making Excel a single source for interpretation. This data 
+7 
+complexity coupled with the old “Natural” Mainframe coding language 
+8 
+makes the system fragile when seeking to further enhance and support 
+9 
+business process changes. System enhancements are expensive, due to 
+10 
+the limited supply of consultants with knowledge of the Adabas/Natural 
+11 
+programming language and it takes a long time to gain proficiency of the 
+12 
+custom code as there is limited documentation. Enhancements such as 
+13 
+the need for a Work Management system as noted in Recommendation 
+14 
+28.2 of the Company’s most recent Management Audit are not possible 
+15 
+within the current ERP Mainframe solution due to the complex system 
+16 
+architecture. Such architecture also requires traditional, intensive system 
+17 
+monitoring for transactional process breakage. 
+18 
+Q. 
+Please define transactional process breakage and why it poses a risk for 
+19 
+the Company. 
+20 
+A.  
+Transactional breakage refers to an instance where a scheduled program 
+21 
+or process within the system fails due to a variety of reasons such as lack 
+22 
+
+
+--- Page 11 ---
+Case 20-E-____; Case 20-G-____ 
+ 
+DIRECT TESTIMONY OF THE ENTERPRISE RESOURCE 
+PLANNING PANEL 
+9 
+ 
+of data harmonization and/or normalization across monolithic systems, 
+1 
+lack of automated system integration, or unexpected business data or 
+2 
+processes changes. Transactional processes are fundamental to an ERP 
+3 
+system; however, our ERP Mainframe system was designed in a 
+4 
+monolithic architecture with complex integration and data redundancy for 
+5 
+the individual functional modules to extend the business process over the 
+6 
+past four decades. A modernized ERP system like SAP S/4 is designed 
+7 
+with single source of truth for master data that is shared across 
+8 
+transactions and processes, thus eliminating transactional breakage, 
+9 
+reconciliation and complex integration. Transactional process breakage 
+10 
+poses a risk to the Company as it results in a failure that could significantly 
+11 
+impact the completion or accuracy of a critical business process, inclusive 
+12 
+of financial reporting.  
+13 
+Q.  
+Please discuss any risks associated with Cybersecurity and Disaster 
+14 
+Recovery (“DR”) options. 
+15 
+A.  
+The ERP Mainframe has been restrictive in its system architecture 
+16 
+presenting complex and limited password capabilities for end users that 
+17 
+result in cumbersome enhancements to support evolving cybersecurity 
+18 
+best practices, such as centrally authenticated user credentials via a 
+19 
+Single Sign-On approach.  
+20 
+Disaster Recovery (“DR”) options are limited to a few Professional 
+21 
+Service Vendors that will support the Mainframe technology in any modern 
+22 
+
+
+--- Page 12 ---
+Case 20-E-____; Case 20-G-____ 
+ 
+DIRECT TESTIMONY OF THE ENTERPRISE RESOURCE 
+PLANNING PANEL 
+10 
+ 
+and scalable DR design. The DR options that are available are costly to 
+1 
+implement and demand larger long-term investment due to regular 
+2 
+hardware replacements and the complex support that is necessary. 
+3 
+Options including the ERP Mainframe are estimated at $0.5 million of 
+4 
+incremental expenditures during the five year period as compared to those 
+5 
+without the Mainframe. 
+6 
+Q. 
+Are there any other risks to the Company with regard to the ERP 
+7 
+Mainframe solution? 
+8 
+A.  
+In addition to the other risks described, this antiquated technology’s usage 
+9 
+has been declining and thus the availability of properly trained and 
+10 
+experienced professionals has also continued to decline. Continuing to 
+11 
+support the Mainframe technology past 2024 requires the Company to 
+12 
+become increasingly insular and reliant on internally trained employees 
+13 
+who are nearing retirement. Additionally, moving off of a mainframe based 
+14 
+system would avoid the expenses associated with hiring and training six 
+15 
+full time equivalents to replace retiring staff as well as hiring Professional 
+16 
+Services vendors to thoroughly document the system would be extremely 
+17 
+difficult. Current workforce trends show that new talent is not interested in 
+18 
+learning and training on antiquated technologies. 
+19 
+ 
+In summary, the complex system design, the scarce availability of 
+20 
+the workforce coupled with the incapability to meet emergent 
+21 
+
+
+--- Page 13 ---
+Case 20-E-____; Case 20-G-____ 
+ 
+DIRECT TESTIMONY OF THE ENTERPRISE RESOURCE 
+PLANNING PANEL 
+11 
+ 
+cybersecurity and DR technologies are the risks presented by the current 
+1 
+ERP Mainframe solution. 
+2 
+Q. 
+Have you considered enhancing the ERP Mainframe solution instead of 
+3 
+retiring it? 
+4 
+A.  
+Yes, enhancing this system has been the strategy employed for the past 
+5 
+40 years, but it is becoming increasingly difficult to support integrating new 
+6 
+processes and technologies. If the enhancement strategy was to continue, 
+7 
+investments in additional hardware and system upgrades as well as 
+8 
+enhancements to the functional modules would continue, but the risks and 
+9 
+gaps in capabilities previously discussed would remain and likely increase. 
+10 
+Q. 
+What additional investments would be required if the Company remains on 
+11 
+the ERP Mainframe past 2024? 
+12 
+A. 
+Additional investments would be necessary to reengineer 100+ programs 
+13 
+and reports to reduce the areas of potential transactional breakage, further 
+14 
+enhance the functional modules to match the evolving business 
+15 
+requirements, remediate cybersecurity weaknesses, and acquire 
+16 
+additional hardware assets in addition to supporting maintenance for both 
+17 
+the SAP S/4 ERP and the ERP Mainframe. This complexity presents 
+18 
+significant cost and risk to the business. Hardware upgrades for all 
+19 
+instances (i.e. Development, Test, Production) are estimated at $1.0 
+20 
+million in incremental capital expenditures. We would also continue to 
+21 
+incur on-going system O&M costs for the ERP Mainframe of 
+22 
+
+
+--- Page 14 ---
+Case 20-E-____; Case 20-G-____ 
+ 
+DIRECT TESTIMONY OF THE ENTERPRISE RESOURCE 
+PLANNING PANEL 
+12 
+ 
+approximately $1.4 million per year to sustain the Financial and EWAM 
+1 
+functions that remain once the migration of Phase II (CIS) is completed. 
+2 
+This would be incremental to the forecasted O&M expenditures of $1.0 
+3 
+million for the SAP S/4 ERP solution. Supporting both the ERP Mainframe 
+4 
+solution and SAP S/4 ERP solution results in twice the amount of annual 
+5 
+expense and demands six or more incremental staff to support both due to 
+6 
+the different skillsets required. This would not be an optimal solution 
+7 
+financially, or from a risk perspective. 
+8 
+Q. 
+Were these ERP Mainframe risks identified or substantiated by any third 
+9 
+parties? 
+10 
+A. 
+Yes, various Cybersecurity penetration assessments, a 2019 
+11 
+Cybersecurity Risk Management Program (“CRMP”) report, the 
+12 
+Company’s most recent Management Audit performed by Overland 
+13 
+Consulting and the recent EWAM assessment all described these risks 
+14 
+discussed. Notably, the Cybersecurity Professional Services Vendors 
+15 
+have described the necessary maturity of the Cybersecurity program with 
+16 
+regard to Identity Access Management (“IAM”). Such maturity would prove 
+17 
+
+
+--- Page 15 ---
+Case 20-E-____; Case 20-G-____ 
+ 
+DIRECT TESTIMONY OF THE ENTERPRISE RESOURCE 
+PLANNING PANEL 
+13 
+ 
+complex to maintain and would not be fully obtainable with the current 
+1 
+ERP Mainframe’s restrictive credential design previously described.   
+2 
+Q.  
+In addition to addressing the risks discussed, are there any anticipated 
+3 
+business benefits and/or cost savings to implementing the ERP 
+4 
+Transformation Strategy? 
+5 
+A. 
+Yes. Cost reductions and avoidances are directional at this point, similar 
+6 
+to the implementation estimates, and are anticipated in the years following 
+7 
+the full completion of the implementation (system stabilization). This is a 
+8 
+result of the stabilization period required after the solution is implemented. 
+9 
+Any potential savings will be further developed at the onset and 
+10 
+throughout the project milestones as the Company has only considered 
+11 
+those referencing the EWAM capabilities, not the full Financial capabilities. 
+12 
+At this time, these savings are estimated at an average of $3.8 million in 
+13 
+annual O&M benefits (cost savings and avoided costs) and $3.0 million in 
+14 
+annual capital benefits (reduced and avoided capital). Please refer to 
+15 
+additional testimony below and to Exhibit __ (ERPP-4) - “ERP 
+16 
+Transformation: Directional Estimated Benefits” and Exhibit __ (ERPP-5) – 
+17 
+“ERP Transformation: Key Project Activities & Benefits Timeline” for 
+18 
+further details. 
+19 
+IV. PATH TO NEW ERP SOLUTION 
+20 
+Q. 
+Why was SAP chosen to be the new ERP solution for the Company? 
+21 
+
+
+--- Page 16 ---
+Case 20-E-____; Case 20-G-____ 
+ 
+DIRECT TESTIMONY OF THE ENTERPRISE RESOURCE 
+PLANNING PANEL 
+14 
+ 
+A. 
+In 2019, following a thorough and detailed assessment and evaluation of 
+1 
+available solutions, the SAP S/4 ERP solution was chosen to be the new 
+2 
+CIS technology platform. In order to leverage economies of scale, reduce 
+3 
+complexity, minimize IT skill set requirements and avoid incremental O&M 
+4 
+expense, we evaluated the SAP S/4 ERP solution to determine if it could 
+5 
+also be leveraged for Finance and EWAM through conducting capability 
+6 
+gap/fit assessments. The high-level capability assessment concluded that 
+7 
+the SAP S/4 ERP solution could be leveraged for the Finance and EWAM 
+8 
+capabilities.  
+9 
+Q. 
+What assessments has the Company completed to support replacing the 
+10 
+ERP Mainframe with SAP S/4 ERP solution? 
+11 
+A. 
+In recent years, the Company has completed two separate assessments.  
+12 
+ 
+In 2019, a thorough and detailed assessment for EWAM was completed to 
+13 
+develop the business requirements for a future state. This assessment 
+14 
+was recommended by Overland Consulting (Recommendation 28.2) in the 
+15 
+Company’s most recent Management Audit in Case 16-M-0001. The 
+16 
+recommendation was to develop a business case for purchasing and 
+17 
+implementing a Work Management System (“WMIS”) for Electric T&D. 
+18 
+This assessment documented the current processes, challenges and 
+19 
+opportunities for improvement. The scope included the functionality 
+20 
+provided by the MMS, TDS and FOS ERP Mainframe solution’s functional 
+21 
+modules. There were approximately 1,600 Business Requirements 
+22 
+
+
+--- Page 17 ---
+Case 20-E-____; Case 20-G-____ 
+ 
+DIRECT TESTIMONY OF THE ENTERPRISE RESOURCE 
+PLANNING PANEL 
+15 
+ 
+identified during the EWAM assessment. It was determined that only 18% 
+1 
+of these requirements could be satisfied utilizing the existing ERP 
+2 
+Mainframe solution. This further solidified the continued business risk of 
+3 
+using the ERP Mainframe and current business processes. As a result, 
+4 
+Central Hudson determined that a more consistent approach to both Work 
+5 
+and Asset Management was needed on an enterprise basis to provide 
+6 
+better visibility, and to identify opportunities and synergies to improve 
+7 
+operational and financial performance. The assessment also 
+8 
+recommended that the remaining ERP Mainframe finance functions (FAS, 
+9 
+MRS, IEA and DIS) should be included in scope to reduce system 
+10 
+integration complexities and transformation costs.   
+11 
+In 2020, as is shown in Exhibit __ (ERPP-2) - “SAP ERP 2020 
+12 
+Assessment”, an SAP gap-fit assessment of the remaining ERP 
+13 
+Mainframe solution’s financial capabilities was completed to solidify the 
+14 
+strategy to replace the ERP Mainframe with SAP S/4 ERP solution. This 
+15 
+assessment concluded that SAP was a viable replacement and would 
+16 
+fulfill the necessary financial requirements along with other ancillary 
+17 
+capabilities. It is anticipated that a portion of these ancillary capabilities 
+18 
+can be replaced prior to the completion of the ERP Mainframe retirement 
+19 
+in 2024.  
+20 
+ 
+In summary, there have been several assessments that have taken 
+21 
+place in recent years that have concluded that continued use of the ERP 
+22 
+
+
+--- Page 18 ---
+Case 20-E-____; Case 20-G-____ 
+ 
+DIRECT TESTIMONY OF THE ENTERPRISE RESOURCE 
+PLANNING PANEL 
+16 
+ 
+Mainframe solution is not an optimal path forward for the Company, and 
+1 
+migration to the SAP S/4 ERP solution is suggested.  
+2 
+Q. 
+Are there any business and technical efficiencies anticipated as part of 
+3 
+implementing this new technology?  
+4 
+A. 
+Yes. Due to the technical architecture of the SAP S/4 ERP system, there 
+5 
+are significant technical and business process efficiencies associated with 
+6 
+implementing this technology. The SAP S/4 ERP solution would provide 
+7 
+increased business process insights and analytic capabilities. Business 
+8 
+processes will be designed using industry best practices and allow the 
+9 
+Company to operate more efficiently. Examples of these efficiencies 
+10 
+associated with the EWAM portion of Phase III (EWAM & Finance) are 
+11 
+captured in Exhibit __ (ERPP-4). There is also less infrastructure support 
+12 
+and maintenance required as the SAP S/4 ERP solution is a cloud-based 
+13 
+platform and is inclusive of High Availability and Disaster Recovery. This 
+14 
+provides reduced risk to the Company through a more reliable and 
+15 
+sustainable solution. As previously mentioned, the savings we have 
+16 
+discussed are considered directional estimates at this time as a further 
+17 
+detailed assessment is necessary for the inclusion of the financial 
+18 
+
+
+--- Page 19 ---
+Case 20-E-____; Case 20-G-____ 
+ 
+DIRECT TESTIMONY OF THE ENTERPRISE RESOURCE 
+PLANNING PANEL 
+17 
+ 
+capabilities and refinement of the EWAM savings. This assessment will 
+1 
+occur during the initial project milestones. 
+2 
+Q. 
+What is the Company’s strategy to migrate off the aging ERP Mainframe 
+3 
+technology to SAP S/4 ERP solution?  
+4 
+A. 
+The ERP Mainframe transformation has been broken down into three 
+5 
+Phases; Phase I (HRS), Phase II (CIS), Phase III (EWAM and Finance). 
+6 
+Phase I (HRS) included moving a majority of the Human Resource 
+7 
+System (“HRS”) business processes off the ERP Mainframe solution to 
+8 
+Workday, the Company’s HRS, by the end of 2020. The remaining HRS 
+9 
+function is the “Post and Bid” process for the classified employees which 
+10 
+is planned for 2021.  
+11 
+Phase II, Customer Information System (“CIS”), commenced Q1 
+12 
+2020 and is inclusive of replacing the Mainframe core Meter-to-Cash 
+13 
+business processes with the SAP S/4 ERP solution. This new SAP S/4 
+14 
+ERP solution will bring best practices to the Meter-to-Cash business 
+15 
+processes, improve the user experience, and meet regulatory 
+16 
+requirements associated with flexibility in customer billing. This 
+17 
+implementation is scheduled to be completed in 2021. 
+18 
+ 
+ 
+Phase III (EWAM and Finance) of the transformation, the final 
+19 
+phase, which is initiated within the Rate Year, will migrate the remaining 
+20 
+Financial and Work & Asset Management business processes off the ERP 
+21 
+Mainframe to the SAP S/4 ERP solution. This will allow the Company to 
+22 
+
+
+--- Page 20 ---
+Case 20-E-____; Case 20-G-____ 
+ 
+DIRECT TESTIMONY OF THE ENTERPRISE RESOURCE 
+PLANNING PANEL 
+18 
+ 
+leverage its new technology investment to its fullest potential, thus gaining 
+1 
+economies of scale. Once Phase III (EWAM & Finance) is completed, we 
+2 
+will retire the ERP Mainframe solution and will then begin to realize the 
+3 
+benefits previously described.  
+4 
+Q. 
+Is the CIS Project, Phase II of the transformation, a prerequisite to 
+5 
+commencing Phase III (EWAM & Finance)? 
+6 
+A. 
+Yes, Phase II (CIS), is required to be successfully completed prior to the 
+7 
+start of Phase III (EWAM & Finance). Phase II (CIS) will set up the 
+8 
+technical infrastructure and foundational system components that will be 
+9 
+leveraged in Phase III (EWAM & Finance). Thus, if Phase II (CIS) is 
+10 
+delayed, it could impact the start date of Phase III (EWAM & Finance). 
+11 
+Q. 
+What costs will be incurred if Phase II, the CIS Project, is delayed? 
+12 
+A. 
+Should Phase II (CIS) be delayed, Phase III (EWAM & Finance) would be 
+13 
+respectively delayed and result in an increase in costs related to an 
+14 
+extended time period to continue servicing the current mainframe system. 
+15 
+This delay is estimated to cause $1.4 million in annual incremental O&M 
+16 
+costs related to system supports.  
+17 
+Q. 
+Since Phase I (HRS) is completed and Phase II (CIS) is in flight, did the 
+18 
+Company review a risk mitigation and an alternate implementation 
+19 
+strategy for Phase III (EWAM & Finance)?   
+20 
+A. 
+As a risk mitigation strategy, the Company did review the option to 
+21 
+implement Finance and EWAM as separate phases but found that the 
+22 
+
+
+--- Page 21 ---
+Case 20-E-____; Case 20-G-____ 
+ 
+DIRECT TESTIMONY OF THE ENTERPRISE RESOURCE 
+PLANNING PANEL 
+19 
+ 
+prolonged timeline results in extended business disruption and decreased 
+1 
+business and technical resource; thus it was not favorable and is 
+2 
+estimated to cost more. Doing EWAM and Finance in separate Phases 
+3 
+also highlighted a potential resource risk for the Company where 
+4 
+resources slated to participate in the implementation could be at the point 
+5 
+of retirement prior to completion of the project. This would present a gap in 
+6 
+the workforce of both business and technical knowledge. The Panel 
+7 
+strongly recommends implementing Finance and EWAM together as one 
+8 
+Phase to reduce risks such as business disruption, loss of subject matter 
+9 
+expertise within the business, and technical skills attrition.   
+10 
+Q. 
+What is the expected timeline to complete Phase III (EWAM & Finance) 
+11 
+Implementation? 
+12 
+A. 
+The expected timeline to complete Phase III (EWAM & Finance) 
+13 
+implementation is approximately 18-24 months and is currently targeted 
+14 
+for end of 2023 or early 2024 go-live. Upon successful completion, the 
+15 
+retirement of the entirety of the current ERP Mainframe environment is 
+16 
+expected in 2024. 
+17 
+Q. 
+Are there any other necessary steps that the Company must take next in 
+18 
+order to solidify the implementation strategy, budget and/or timeline for 
+19 
+Phase III (EWAM & Finance)? 
+20 
+A. 
+Yes, as the Company prepares for the final phase of the transformation, 
+21 
+Phase III (EWAM & Finance), the Company will perform a thorough and 
+22 
+
+
+--- Page 22 ---
+Case 20-E-____; Case 20-G-____ 
+ 
+DIRECT TESTIMONY OF THE ENTERPRISE RESOURCE 
+PLANNING PANEL 
+20 
+ 
+detailed assessment for the Finance system similar to the assessments 
+1 
+performed for EWAM and CIS, will identify a system implementer to assist 
+2 
+with the project, fully scope and estimate the costs and will begin the initial 
+3 
+planning milestones of the project. 
+4 
+Q. 
+Please describe the initial planning milestones of the Phase III 
+5 
+Transformation Project. 
+6 
+A. 
+During the initial planning milestones of the project, commonly referred to 
+7 
+as Initiation and Analysis, the internal team will be put in place, the system 
+8 
+implementer will be selected and requirements for the implementation will 
+9 
+be solidified. Once the requirements are solidified, the system 
+10 
+implementer and the project team will establish a baseline project budget 
+11 
+and timeline. The completion of this planning phase is expected to be 
+12 
+completed by the first quarter of 2022. The budgetary estimates provided 
+13 
+within this rate case are directional based upon the CIS project and other 
+14 
+experience.  
+15 
+Q. 
+Please describe how the budget for this final phase of the transformation 
+16 
+has been derived. 
+17 
+A. 
+The budgets included within this rate case filing are estimated directional 
+18 
+costs. We built a “bottoms up” resource plan based upon our learnings 
+19 
+from the CIS project and other experience. We then applied different rates 
+20 
+provided by third parties to develop the expected costs of the system 
+21 
+implementer. The $51.5 million capital cost and $9.7 million O&M cost 
+22 
+
+
+--- Page 23 ---
+Case 20-E-____; Case 20-G-____ 
+ 
+DIRECT TESTIMONY OF THE ENTERPRISE RESOURCE 
+PLANNING PANEL 
+21 
+ 
+estimates were based on using the lowest hourly rates identified for the 
+1 
+system implementer’s resources. During the initial phase of the project, a 
+2 
+Request for Proposal for the system implementer will solidify the cost of 
+3 
+implementation, which could result in costs significantly different than 
+4 
+costs reflected in the five year capital program.  
+5 
+Q. 
+Based on the uncertainty associated with the directional estimates 
+6 
+available at this time, does the Company propose any accounting deferral 
+7 
+treatment associated with Phase III? 
+8 
+A.  
+Yes, the Company is proposing the revenue requirement effect of the 
+9 
+capital investment associated with Phase III be segregated into its own 
+10 
+Net Plant target with symmetrical deferral. This approach will allow the 
+11 
+Company to continue with its risk mitigation mainframe replacement 
+12 
+strategy, while providing protection to the customers and the Company 
+13 
+regarding the uncertainty of the costs at this stage in the transformation 
+14 
+process. Please refer to the Accounting and Tax Panel testimony for 
+15 
+further discussion of this proposed modification to the existing Net Plant 
+16 
+and Depreciation target deferral mechanism. 
+17 
+Q. 
+How does the Company plan to track the benefits associated with this 
+18 
+project? 
+19 
+A.  
+The Company does not expect savings associated with ERP Phase III 
+20 
+(EWAM & Finance) to occur within the Rate Year. However, the Company 
+21 
+is willing to work collaboratively with New York State Department of Public 
+22 
+
+
+--- Page 24 ---
+Case 20-E-____; Case 20-G-____ 
+ 
+DIRECT TESTIMONY OF THE ENTERPRISE RESOURCE 
+PLANNING PANEL 
+22 
+ 
+Service Staff to identify appropriate tracking mechanisms associated with 
+1 
+project status and defined timelines within any settlement negotiations 
+2 
+regarding a multi-year agreement. 
+3 
+Q. 
+What is the incremental headcount being requested in Information 
+4 
+Technology during the Rate Year to support this Transformation? 
+5 
+A.  
+We are requesting an additional three full time equivalents (“FTEs”) during 
+6 
+the Rate Year, which are directly aligned to the support of the 
+7 
+implementation and support of the SAP S/4 ERP. These resources will 
+8 
+have specific SAP ERP solution knowledge and experience that will allow 
+9 
+them to configure best practices into the SAP S/4 ERP solution. Their 
+10 
+skillsets include business process knowledge as well as technical SAP 
+11 
+skillsets. Post implementation they will focus on enhancing the system to 
+12 
+continuously improve operations and support local rule and regulatory 
+13 
+changes. Please refer to the Exhibit __ (SAM-2) provided by Company 
+14 
+Witness McGinnis for further information.   
+15 
+Q. 
+Does this conclude your direct testimony at this time? 
+16 
+A. 
+Yes, it does. 
+17 

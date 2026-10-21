@@ -1,0 +1,3227 @@
+--- Page 1 ---
+ 
+BEFORE THE 
+STATE OF NEW YORK 
+PUBLIC SERVICE COMMISSION 
+ 
+ 
+PROCEEDING 
+ON 
+MOTION 
+OF 
+THE 
+COMMISSION AS TO THE RATES, CHARGES, 
+RULES AND REGULATIONS OF CENTRAL 
+HUDSON GAS & ELECTRIC CORPORATION  
+FOR ELECTRIC SERVICE 
+ 
+ 
+PROCEEDING 
+ON 
+MOTION 
+OF 
+THE 
+COMMISSION AS TO THE RATES, CHARGES, 
+RULES AND REGULATIONS OF CENTRAL 
+HUDSON GAS & ELECTRIC CORPORATION  
+FOR GAS SERVICE 
+ 
+ 
+ 
+ 
+ 
+CASE NO.  20-E-0428 
+ 
+ 
+ 
+ 
+ 
+ 
+CASE NO.  20-G-0429 
+ 
+ 
+ 
+ 
+ 
+Direct Testimony 
+ 
+of 
+ 
+JEFFRY POLLOCK 
+ 
+ 
+ 
+ 
+On Behalf of 
+ 
+Multiple Intervenors 
+ 
+ 
+ 
+ 
+December 22, 2020 
+ 
+ 
+ 
+
+
+--- Page 2 ---
+Jeffry Pollock 
+ 
+Direct Testimony 
+ 
+Page i 
+ 
+ 
+ 
+ 
+J . P O L L O C K  
+I N C O R P O R A T E D  
+BEFORE THE 
+STATE OF NEW YORK 
+PUBLIC SERVICE COMMISSION 
+ 
+ 
+PROCEEDING 
+ON 
+MOTION 
+OF 
+THE 
+COMMISSION AS TO THE RATES, CHARGES, 
+RULES AND REGULATIONS OF CENTRAL 
+HUDSON GAS & ELECTRIC CORPORATION  
+FOR ELECTRIC SERVICE 
+ 
+ 
+PROCEEDING 
+ON 
+MOTION 
+OF 
+THE 
+COMMISSION AS TO THE RATES, CHARGES, 
+RULES AND REGULATIONS OF CENTRAL 
+HUDSON GAS & ELECTRIC CORPORATION  
+FOR GAS SERVICE 
+ 
+ 
+ 
+ 
+ 
+CASE NO.  20-E-0428 
+ 
+ 
+ 
+ 
+ 
+ 
+CASE NO.  20-G-0429 
+ 
+ 
+TABLE OF CONTENTS 
+ 
+TABLE OF CONTENTS ................................................................................................... i 
+GLOSSARY OF ACRONYMS ......................................................................................... ii 
+1. INTRODUCTION, QUALIFICATIONS AND SUMMARY .............................................. 1 
+Summary ................................................................................................................. 2 
+2. ELECTRIC ECOS STUDY .......................................................................................... 7 
+Legacy Generation ................................................................................................... 8 
+Transmission Plant Allocation ................................................................................ 14 
+SC-13 Substation Demand Metrics ........................................................................ 15 
+Deferred Income Tax Expense ............................................................................... 18 
+Revised Electric ECOS Study ................................................................................ 19 
+3. GAS ECOS STUDY .................................................................................................. 21 
+Demand Allocation Factor ...................................................................................... 22 
+Distribution Mains .................................................................................................. 26 
+Revised Gas ECOS Study ..................................................................................... 27 
+4. ELECTRIC AND GAS CLASS REVENUE ALLOCATION .......................................... 29 
+5. LARGE NON-RESIDENTIAL RATE DESIGN ............................................................ 35 
+SC-3 and SC-13 (Electric) ...................................................................................... 35 
+SC-11 (Gas) ........................................................................................................... 37 
+6. REVENUE DECOUPLING MECHANISM .................................................................. 40 
+7. CONCLUSION .......................................................................................................... 44 
+
+
+--- Page 3 ---
+Jeffry Pollock 
+ 
+Direct Testimony 
+ 
+Page ii 
+ 
+ 
+ 
+ 
+ 
+J . P O L L O C K  
+I N C O R P O R A T E D  
+GLOSSARY OF ACRONYMS 
+Term 
+Definition 
+CHG&E or Company 
+Central Hudson Gas & Electric Corporation 
+Commission 
+State of New York Public Service Commission 
+CP 
+Coincident Peak 
+ECAM 
+Energy Cost Adjustment Mechanism 
+ECOS 
+Embedded Class Cost-of-Service  
+HDD 
+Heating Degree Days 
+Historical 
+Calendar Year 2018 
+MDQ 
+Maximum Daily Quantity 
+MI 
+Multiple Intervenors 
+National Grid 
+Niagara Mohawk Power Corporation d/b/a National Grid 
+NCP 
+Non-Coincident Peak 
+PDD 
+Peak Design Day 
+SC 
+Service Classification  
+RDM 
+Revenue Decoupling Mechanism  
+Rate Year 
+Year Ending June 30, 2022 
+ 
+
+
+--- Page 4 ---
+Jeffry Pollock 
+ 
+Direct Testimony 
+ 
+Page 1 
+ 
+ 
+1. Introduction, Qualifications 
+and Summary 
+ 
+J . P O L L O C K  
+I N C O R P O R A T E D  
+DIRECT TESTIMONY OF JEFFRY POLLOCK 
+1. INTRODUCTION, QUALIFICATIONS AND SUMMARY 
+Q 
+PLEASE STATE YOUR NAME AND BUSINESS ADDRESS. 
+1 
+A 
+Jeffry Pollock; 12647 Olive Boulevard., Suite 585, St. Louis, Missouri 63141. 
+2 
+Q 
+WHAT IS YOUR OCCUPATION AND BY WHOM ARE YOU EMPLOYED? 
+3 
+A 
+I am an energy advisor and President of J. Pollock, Incorporated. 
+4 
+Q 
+PLEASE STATE YOUR EDUCATIONAL BACKGROUND AND EXPERIENCE. 
+5 
+A 
+I have a Bachelor of Science Degree in Electrical Engineering and a Master’s Degree 
+6 
+in Business Administration from Washington University.  Since graduation in 1975, I 
+7 
+have been engaged in a variety of consulting assignments, including energy 
+8 
+procurement and regulatory matters in the United States and several Canadian 
+9 
+provinces.  Additional details concerning my qualifications are provided in Exhibit ___ 
+10 
+(JP-1) to this testimony.  A partial list of my appearances is provided in Exhibit ___ 
+11 
+(JP-2).   
+12 
+Q 
+ON WHOSE BEHALF ARE YOU TESTIFYING IN THIS PROCEEDING? 
+13 
+A 
+I am testifying on behalf of Multiple Intervenors (“MI”), an association of approximately 
+14 
+60 large industrial, commercial and institutional energy consumers with manufacturing 
+15 
+and other facilities located throughout New York State, including the Central Hudson 
+16 
+Gas & Electric Corporation (hereinafter referred to as “CHG&E” or “the Company”) 
+17 
+service territory.  MI members purchase electric and gas delivery services primarily 
+18 
+under Electric Service Classification Nos. (“SC”) 3 and SC-13 and Gas SC-11D and 
+19 
+SC-11T.   
+20 
+
+
+--- Page 5 ---
+Jeffry Pollock 
+ 
+Direct Testimony 
+ 
+Page 2 
+ 
+ 
+1. Introduction, Qualifications 
+and Summary 
+ 
+J . P O L L O C K  
+I N C O R P O R A T E D  
+Q 
+WHAT ISSUES ARE YOU ADDRESSING IN YOUR TESTIMONY? 
+1 
+A 
+I am addressing: 
+2 
+ 
+CHG&E’s Electric embedded class cost-of-service (“ECOS”) studies 
+3 
+(hereinafter, Electric ECOS Studies); 1   
+4 
+ 
+CHG&E’s Gas ECOS studies (hereinafter, Gas ECOS Studies);2 
+5 
+ 
+Electric and Gas class revenue allocation; 
+6 
+ 
+Customer charges applicable to SC-3 and SC-13 (Electric)3 and SC-11 
+7 
+(Gas);4 and 
+8 
+ 
+The Company’s proposal to extend the Revenue Decoupling 
+9 
+Mechanism (“RDM”) to the SC-13 (Electric) and SC-11 (Gas) classes. 
+10 
+Q 
+ARE YOU SPONSORING ANY EXHIBITS WITH YOUR TESTIMONY?   
+11 
+A 
+Yes.  I am sponsoring Exhibits ___ (JP-1) through ____ (JP-11).  The exhibits were 
+12 
+prepared under my supervision and direction.   
+13 
+Summary 
+14 
+Q 
+PLEASE SUMMARIZE YOUR FINDINGS AND CONCLUSIONS. 
+15 
+A 
+My findings and conclusions are as follows:   
+16 
+Electric ECOS Studies 
+17 
+ 
+The Historical and Rate Year Electric ECOS Studies generally comport with 
+18 
+accepted industry practice.  However, there are five material flaws in the 
+19 
+Company’s Electric ECOS Studies.  They are: 
+20 
+                                               
+1  Electric and Gas ECOS Studies were filed for calendar year 2018 and year ending June 30, 2022 
+(hereinafter “Historical” and “Rate Year,” respectively). 
+2  Id. 
+3  SC-13 (Electric) has two subclasses: (i) Transmission and (ii) Substation. 
+4  The SC-11 (Gas) has is comprised of four separate services: (i) Transmission, (ii) Distribution, (iii) 
+Distribution – Large Mains, and (iv) Electric Generation (hereinafter referred to as SC-11T, SC-11D, 
+SC-11DLM, and SC-11EG respectively). 
+
+
+--- Page 6 ---
+Jeffry Pollock 
+ 
+Direct Testimony 
+ 
+Page 3 
+ 
+ 
+1. Introduction, Qualifications 
+and Summary 
+ 
+J . P O L L O C K  
+I N C O R P O R A T E D  
+o Allocating legacy hydro-electric non-fuel costs on the basis of total 
+1 
+delivered energy instead of the commodity energy purchased by 
+2 
+CHG&E solely for its full-service customers.  
+3 
+o Violating the Matching Principle by including the non-fuel related 
+4 
+costs of, but not the corresponding benefits derived from, CHG&E’s 
+5 
+legacy generation.   
+6 
+o Use of the average summer and winter coincident peak (“CP”) to 
+7 
+allocate transmission substations, despite the fact that CHG&E is a 
+8 
+summer-peaking utility and utilizes only summer CP to allocate 
+9 
+transmission lines.   
+10 
+o Overstating the Historical period summer CP and class peak 
+11 
+demands for the SC-13 Substation class.  Because the Historical 
+12 
+period metrics were used to derive the corresponding Rate Year 
+13 
+values, the Rate Year summer CP and class peak are also 
+14 
+overstated.   
+15 
+o Allocating deferred income tax expense based on taxable income 
+16 
+rather than plant in service.   
+17 
+ 
+CHG&E uses its legacy hydro facilities as a load modifier; that is, the 
+18 
+energy produced partially offsets the energy purchased by CHG&E for its 
+19 
+full-service customers.  Accordingly, because the hydro generation is used 
+20 
+to serve full-service customers, they alone should bear the costs.  Retail 
+21 
+access customers should not have to pay for any of the legacy hydro costs.   
+22 
+ 
+Applying the Matching Principle, the revenues/benefits of the legacy 
+23 
+generation also should be included therein.  If such revenues/benefits are 
+24 
+not included, then, alternatively, either the legacy generation costs also 
+25 
+should be removed, or they should be allocated in the same manner as the 
+26 
+other delivery costs.  The latter would recognize that CHG&E’s delivery 
+27 
+rates are subsidizing its legacy generation.   
+28 
+ 
+Transmission lines and substations have to be sized to meet the expected 
+29 
+system peak demands.  Because CHG&E is a summer-peaking utility, both 
+30 
+transmission lines and substations should be allocated using the summer 
+31 
+CP.   
+32 
+ 
+The SC-13 Substation class’s summer CP and peak demands cannot be 
+33 
+higher than the corresponding billing demand.  This is because billing 
+34 
+demand is the sum of each customer’s highest measured demand during 
+35 
+a month, whereas the CP and class peak demands reflect the diversified 
+36 
+demands of the entire class.  Therefore, the summer CP and class peak 
+37 
+demands used in the Electric ECOS Studies must be reduced to properly 
+38 
+recognize the class’s diversity.   
+39 
+
+
+--- Page 7 ---
+Jeffry Pollock 
+ 
+Direct Testimony 
+ 
+Page 4 
+ 
+ 
+1. Introduction, Qualifications 
+and Summary 
+ 
+J . P O L L O C K  
+I N C O R P O R A T E D  
+ 
+Deferred income tax expense is directly related to tax depreciation, which, 
+1 
+in turn, is related to the recovery of plant in service.  It is unrelated to how 
+2 
+much taxable income a class is providing.  Accordingly, this expense 
+3 
+should be allocated on the basis of the previously allocated plant in service.   
+4 
+Gas ECOS Studies 
+5 
+ 
+The Historical and Rate Year Gas ECOS Studies generally comport with 
+6 
+accepted industry practice.  However, there are several material flaws in 
+7 
+the Company’s Gas ECOS Studies. 
+8 
+ 
+CHG&E should correct the Peak Design Day (“PDD”) criterion used in the 
+9 
+Rate Year Gas ECOS Study.  The filed Study is based on 70 heating 
+10 
+degree days (“HDD”).  However, CHG&E uses a 73 HDD design day 
+11 
+criterion.   
+12 
+ 
+CHG&E uses PDD to allocate demand-related costs.  This is consistent 
+13 
+with cost causation because it recognizes that gas pipelines must be sized 
+14 
+(in part) to meet the maximum expected throughput.  Further, the PDD is, 
+15 
+by definition, the most critical time of the year for maintaining reliability.   
+16 
+ 
+Although CHG&E estimates the PDD demand for each of the gas sales 
+17 
+classes, it uses Maximum Daily Quantity (“MDQ”) as a proxy for PDD 
+18 
+demand for the SC-11 (firm transportation) classes.  MDQ is not a 
+19 
+reasonable proxy for PDD demand because SC-11 customers do not fully 
+20 
+utilize their MDQ on a PDD.  Over the past five years, the volumes 
+21 
+transported by SC-11 customers have averaged from 53% to 93% of their 
+22 
+respective MDQs.  Accordingly, the MDQs should be reduced by up to 47% 
+23 
+in deriving the PDD demands for the SC-11 classes.   
+24 
+ 
+The PDD demand for the gas sales classes is based on the amount of 
+25 
+temperature-sensitive load.  However, in determining the temperature-
+26 
+sensitive load, CHG&E used different months to measure the maximum 
+27 
+and base (or non-temperature sensitive) loads for the different sales 
+28 
+classes.  Because CHG&E’s peak day send-out typically occurs in January, 
+29 
+each class’s maximum load should be based on January volumes.  Further, 
+30 
+the amount of non-temperature sensitive (or base) demand should reflect 
+31 
+the summer volumes.   
+32 
+ 
+Similar to the Electric ECOS Studies, CHG&E’s proposal to allocate 
+33 
+deferred income tax expense based on taxable income rather than plant in 
+34 
+service is improper. 
+35 
+ 
+CHG&E properly classifies a portion of distribution mains as a customer-
+36 
+related cost.  This is consistent with accepted and long-standing regulatory 
+37 
+practices.  However, the customer-related portion (35%) was adopted in 
+38 
+
+
+--- Page 8 ---
+Jeffry Pollock 
+ 
+Direct Testimony 
+ 
+Page 5 
+ 
+ 
+1. Introduction, Qualifications 
+and Summary 
+ 
+J . P O L L O C K  
+I N C O R P O R A T E D  
+CHG&E’s 2008 rate case, which was based on a Niagara Mohawk Power 
+1 
+Corporation d/b/a National Grid (“National Grid”) study that was adopted by 
+2 
+the Commission in Case No. 08-G-0609.  In its pending rate case, National 
+3 
+Grid classified approximately 46% of distribution mains as customer-
+4 
+related.   
+5 
+ 
+CHG&E should update its Gas ECOS Studies to, at a minimum, classify 
+6 
+46% of its distribution mains as a customer-related cost.  However, 46% 
+7 
+may be a conservative estimate because, over the past 10 years, CHG&E 
+8 
+installed 2 inch plastic pipe (the minimum size component) at an average 
+9 
+cost per foot that exceeded 94% of the average cost per foot of all installed 
+10 
+pipe.  Thus, CHG&E should conduct its own minimum size study and 
+11 
+present the results in its next rate proceeding.   
+12 
+Class Revenue Allocation 
+13 
+ 
+Consistent with long-standing precedent, rates should move closer to cost 
+14 
+as measured using a Rate Year ECOS Study.   
+15 
+ 
+CHG&E is proposing to use a 15% bandwidth to determine the movement 
+16 
+of rates closer to cost.  This proposal is reasonable.   
+17 
+ 
+It is inappropriate to rely on the results of the Historical ECOS Studies to 
+18 
+spread any authorized electric and gas delivery rate increases because 
+19 
+they do not measure class rates of return on a fully-adjusted basis.  The 
+20 
+Historical studies are merely based on actual, per books results.  Thus, the 
+21 
+class rates of return derived from the Historical studies do not measure the 
+22 
+going-forward profitability of each service class.  This makes any direct 
+23 
+comparisons of the class rates of return between the Historical and Rate 
+24 
+Year ECOS Studies meaningless.   
+25 
+Large Non-Residential Rate Design 
+26 
+ 
+Cost-based Customer (Minimum) charges should be designed to recover 
+27 
+customer-related costs as derived in an ECOS study as closely as 
+28 
+practicable.   
+29 
+ 
+CHG&E’s proposed Customer charges for the SC-3 and SC-13 (Electric) 
+30 
+classes do not properly reflect customer-related costs because the 
+31 
+Company inappropriately treated the costs of direct-assigned transmission 
+32 
+lines and substations as demand-related.  Treating these costs as 
+33 
+customer-related would justify raising the proposed Customer charges to 
+34 
+approximately $3,800, $9,000, and $40,000 per month for the SC-3, SC-13 
+35 
+Substation, and SC-13 Transmission classes, respectively.  Accordingly, in 
+36 
+this proceeding, I recommend increasing the SC-3 and SC-13 Customer 
+37 
+
+
+--- Page 9 ---
+Jeffry Pollock 
+ 
+Direct Testimony 
+ 
+Page 6 
+ 
+ 
+1. Introduction, Qualifications 
+and Summary 
+ 
+J . P O L L O C K  
+I N C O R P O R A T E D  
+charges by at least twice the increase in the corresponding Demand 
+1 
+charges.   
+2 
+ 
+Similarly, the SC-11 (Gas) Minimum charges would increase by only $100 
+3 
+per month under CHG&E’s proposal.  As a result, they would remain 
+4 
+substantially below the SC-11 customer-related costs.  Accordingly, I 
+5 
+recommend raising the SC-11 Minimum charges by at least $300 per 
+6 
+month.   
+7 
+Revenue Decoupling Mechanism 
+8 
+ 
+CHG&E is proposing to extend the RDM to the SC-13 (Electric) and SC-11 
+9 
+(Gas) classes.  It is also proposing to restructure the Gas RDM to a target 
+10 
+annual revenue, which is the same structure as the current Electric RDM.   
+11 
+ 
+The SC-13 and SC-11 classes have very few customers, but there are also 
+12 
+several very large customers in each class.  Thus, the gain or loss of a 
+13 
+single customer could have a substantial impact on the existing/remaining 
+14 
+customers.   
+15 
+ 
+The gain or loss of customers is a risk properly born by the utility, not the 
+16 
+very limited number of remaining customers in those classes.   
+17 
+ 
+Accordingly, the RDM should not be extended to the SC-13 and SC-11 
+18 
+classes.  If the Commission decides otherwise, then RDM reconciliations 
+19 
+should exclude either the gain or loss in revenues caused by a change in 
+20 
+the number of customers served in these classes.   
+21 
+
+
+--- Page 10 ---
+Jeffry Pollock 
+ 
+Direct Testimony 
+ 
+Page 7 
+ 
+ 
+2.  Electric ECOS Study 
+ 
+J . P O L L O C K  
+I N C O R P O R A T E D  
+2. ELECTRIC ECOS STUDY 
+Q 
+WHAT IS AN EMBEDDED CLASS COST-OF-SERVICE STUDY? 
+1 
+A 
+An ECOS study is an analysis used to determine each class’s responsibility for a 
+2 
+utility’s costs.  Thus, it determines whether the revenues a class generates cover the 
+3 
+class’s cost of service.  An ECOS study separates the utility's total costs into portions 
+4 
+incurred on behalf of the various customer groups.  Most of a utility's costs are incurred 
+5 
+to jointly serve many customers.  For purposes of revenue allocation and rate design, 
+6 
+customers are grouped into homogeneous classes according to their usage patterns 
+7 
+and service characteristics.  The procedures typically used in an ECOS study are 
+8 
+described in more detail in Exhibit ___ (JP-3).   
+9 
+Q 
+HAS CHG&E CONDUCTED ECOS STUDIES FOR ELECTRICITY SERVICE IN THIS 
+10 
+PROCEEDING?  
+11 
+A 
+Yes.  CHG&E presented and is relying primarily on ECOS studies for two time periods: 
+12 
+ 
+Calendar year ended December 31, 2018 (Exhibit ___ (COSP-1), 
+13 
+Schedule A (“Historical”); and 
+14 
+ 
+The proposed Rate Year ending June 30, 2022 (Exhibit ___ (COSP-1), 
+15 
+Schedule B (“Rate Year”).5   
+16 
+ 
+In addition, the Company filed a third ECOS study, which included only delivery costs 
+17 
+based on the Historical period.   
+18 
+Q 
+HAVE YOU REVIEWED THE THREE ELECTRIC ECOS STUDIES? 
+19 
+A 
+Yes.   
+20 
+                                               
+5  Direct Testimony of the Cost of Service Panel at 6 and Exhibit ____ (COSP-1). 
+
+
+--- Page 11 ---
+Jeffry Pollock 
+ 
+Direct Testimony 
+ 
+Page 8 
+ 
+ 
+2.  Electric ECOS Study 
+ 
+J . P O L L O C K  
+I N C O R P O R A T E D  
+Q 
+DO THE COMPANY’S ECOS STUDIES COMPORT WITH ACCEPTED INDUSTRY 
+1 
+PRACTICES? 
+2 
+A 
+Yes.  With the material exceptions discussed below, the Historical and Rate Year 
+3 
+ECOS Studies generally comport with accepted industry practice.  Other than the 
+4 
+exceptions discussed in more detail below, these studies recognize the different types 
+5 
+of costs incurred by the utility, as well as the different ways electricity is delivered to, 
+6 
+and used by, the various types of customers.   
+7 
+Q 
+IN WHAT WAYS ARE THE COMPANY’S ELECTRIC ECOS STUDIES FLAWED? 
+8 
+A 
+The flaws in the Company’s Electric ECOS Studies include:   
+9 
+ 
+Allocating legacy hydro-electric non-fuel costs on the basis of total 
+10 
+delivered energy, rather than the commodity energy purchased by 
+11 
+CHG&E for its full-service customers.  
+12 
+ 
+Violating the Matching Principle by including the non-fuel related costs 
+13 
+of, but not the corresponding benefits derived from, CHG&E’s legacy 
+14 
+generation.   
+15 
+ 
+Using the average summer and winter CP to allocate transmission 
+16 
+substations, despite the fact that CHG&E is a summer-peaking utility 
+17 
+and utilizes only the summer CP to allocate transmission lines.   
+18 
+ 
+Overstating the summer CP and class peak demands for the SC-13 
+19 
+Substation class.   
+20 
+ 
+Allocating deferred income tax expense using taxable income rather 
+21 
+than plant in service.   
+22 
+Legacy Generation 
+23 
+Q 
+WHAT LEGACY GENERATION COSTS WERE INCLUDED IN THE ECOS 
+24 
+STUDIES? 
+25 
+A 
+CHG&E included the non-fuel costs associated with its remaining legacy generation 
+26 
+in its proposed ECOS Studies.  The non-fuel costs include: 
+27 
+
+
+--- Page 12 ---
+Jeffry Pollock 
+ 
+Direct Testimony 
+ 
+Page 9 
+ 
+ 
+2.  Electric ECOS Study 
+ 
+J . P O L L O C K  
+I N C O R P O R A T E D  
+ 
+Plant-related costs (i.e., return on investment, depreciation, property 
+1 
+taxes, income taxes); and 
+2 
+ 
+Non-fuel operation and maintenance expenses. 
+3 
+ 
+These costs account for approximately $19.4 million of CHG&E’s claimed $423 million 
+4 
+test-year delivery revenue requirement.  Obviously, legacy generation costs and 
+5 
+revenues are not related or integral to the provision of electric delivery service.   
+6 
+Q 
+HOW DID CHG&E ALLOCATE THESE COSTS TO CUSTOMER CLASSES IN ITS 
+7 
+ELECTRIC ECOS STUDIES? 
+8 
+A 
+The costs of the hydro-electric facilities were allocated based on the energy delivered 
+9 
+to all CHG&E customers: both full-service and retail access.  The thermal generation 
+10 
+costs were allocated based on the summer CP.   
+11 
+Q 
+DO YOU AGREE WITH CHG&E’S PROPOSED ALLOCATION OF THE LEGACY 
+12 
+GENERATION COSTS? 
+13 
+A 
+No.  The allocation of the legacy hydro facilities on the energy delivered to all 
+14 
+customers assumes that all customers use these facilities.  However, CHG&E’s legacy 
+15 
+hydro-electric resources are used as “load modifiers” to displace load that would 
+16 
+otherwise require CHG&E to purchase energy in the day-ahead market for its full-
+17 
+service customers.6  Because full-service customers are directly served from these 
+18 
+facilities, the hydro facility costs should be allocated to them.   
+19 
+Q 
+SPECIFICALLY HOW SHOULD THE HYDRO FACILITY COSTS BE ALLOCATED? 
+20 
+A 
+Consistent with CHG&E’s use of these facilities as load modifiers only for certain 
+21 
+customers, the costs should be allocated in proportion to the commodity energy 
+22 
+                                               
+6  CHG&E Response to MI-07, IR-084. 
+
+
+--- Page 13 ---
+Jeffry Pollock 
+ 
+Direct Testimony 
+ 
+Page 10 
+ 
+ 
+2.  Electric ECOS Study 
+ 
+J . P O L L O C K  
+I N C O R P O R A T E D  
+purchased for full-service customers.  Deliveries to retail access customers should be 
+1 
+excluded.   
+2 
+Q 
+HAVE YOU DEVELOPED REVISED ENERGY ALLOCATION FACTORS THAT 
+3 
+EXCLUDE DELIVERIES TO RETAIL ACCESS CUSTOMERS?  
+4 
+A 
+Yes.  Exhibit ___ (JP-4) shows the derivation of the revised energy allocation factors 
+5 
+for both the Historical and Rate Year periods.   
+6 
+Q 
+DO YOU HAVE ANY OTHER CONCERNS ABOUT THE LEGACY GENERATION 
+7 
+COSTS INCLUDED IN THE COMPANY’S ELECTRIC ECOS STUDIES? 
+8 
+A 
+Yes.  Although CHG&E included the legacy generation costs in the Electric ECOS 
+9 
+Studies, which were allocated to the various service classes, it did not include the 
+10 
+associated revenues or benefits derived from market sales.  Including the costs, but 
+11 
+not the corresponding benefits, of CHG&E’s legacy generation violates the Matching 
+12 
+Principle and is inequitable to certain service classes.   
+13 
+Q 
+WHAT IS THE MATCHING PRINCIPLE? 
+14 
+A 
+The Matching Principle is one of the cornerstones of ratemaking.  In essence, the 
+15 
+Matching Principle means that all ratemaking components (e.g., rate base, revenues, 
+16 
+expenses, allocation factors, billing determinants) should be based on the same set of 
+17 
+assumptions (i.e., a test year).  This will provide a consistent and realistic measure of 
+18 
+the utility’s revenue requirements, as well as the costs incurred to serve the utility’s 
+19 
+various service classes.  As applied to ECOS Studies, the Matching Principle means 
+20 
+that the same assumptions should be used in determining both the costs and the 
+21 
+revenues.   
+22 
+
+
+--- Page 14 ---
+Jeffry Pollock 
+ 
+Direct Testimony 
+ 
+Page 11 
+ 
+ 
+2.  Electric ECOS Study 
+ 
+J . P O L L O C K  
+I N C O R P O R A T E D  
+For example, assume a customer class is purchasing interruptible rather than 
+1 
+firm service.  Because interruptible service is a lower quality of service than firm 
+2 
+service, this class’s revenues are lower than the revenues from an identical class that 
+3 
+receives firm service.  However, if an ECOS study allocates costs to the interruptible 
+4 
+class in the same manner that costs were allocated to firm service classes, the 
+5 
+Matching Principle would be violated.  This is because the lower revenues assume 
+6 
+that service is interruptible, but the allocated costs assume that the service is firm.   
+7 
+In this specific instance, CHG&E’s ECOS Studies allocate both delivery costs 
+8 
+and delivery revenues to the various service classes; yet, for its legacy generation, 
+9 
+only the costs – but not the associated revenues or benefits – have been included, 
+10 
+thereby distorting the study results.   
+11 
+Q 
+WHAT REVENUES DID CHG&E’S LEGACY GENERATION FACILITIES DERIVE 
+12 
+FROM MARKET SALES? 
+13 
+A 
+CHG&E’s legacy generation facilities provided approximately $6.6 million in revenues 
+14 
+during the Historical period.  Table 1 provides a further breakdown.   
+15 
+Table 1 
+2018 Legacy Generation Revenues 
+($000) 
+Description 
+Amount 
+Hydro Facilities: 
+$3,494 
+Thermal Facilities: 
+  Energy Revenue 
+$27 
+  Capacity Revenue 
+$3,095 
+     Total Thermal Revenue 
+$3,122 
+Total Legacy Revenues 
+$6,616 
+Source: CHG&E Response to MI-03, IR-050. 
+
+
+--- Page 15 ---
+Jeffry Pollock 
+ 
+Direct Testimony 
+ 
+Page 12 
+ 
+ 
+2.  Electric ECOS Study 
+ 
+J . P O L L O C K  
+I N C O R P O R A T E D  
+Q 
+ARE THE REVENUES FROM MARKET SALES RECOGNIZED IN RATES?  
+1 
+A 
+Yes.  The legacy generation revenues are recognized in the Energy Cost Adjustment 
+2 
+Mechanism (“ECAM”).  Specifically, the Miscellaneous Charges Factor of the ECAM 
+3 
+is defined as follows: 
+4 
+Miscellaneous Charges Factor 
+5 
+The Miscellaneous Charges factor is designed to recover from or 
+6 
+refund to all delivery customers the cost or benefit of non-
+7 
+avoidable, variable energy related revenues and costs associated 
+8 
+with the Company's remaining generating facilities and from 
+9 
+mandatory IPP purchases, as well as Public Service Commission 
+10 
+approved adjustments. The cost or benefit associated with the 
+11 
+Company's remaining generating facilities and mandatory IPP 
+12 
+purchases will be determined as the difference between the actual 
+13 
+variable energy related costs of these facilities or purchases and either 
+14 
+the revenue from the sale of output or the cost included in the MPC for 
+15 
+these same facilities or purchases.  An allowance for bad debts and 
+16 
+working capital costs will also be included in the Miscellaneous 
+17 
+Charges Factor.7  
+18 
+Although legacy generation revenues are recognized in rates, they are disregarded in 
+19 
+the Electric ECOS Studies.  Thus, although the costs of legacy generation that are 
+20 
+included in the Electric ECOS Studies are recovered from customers in the delivery 
+21 
+rates, the benefits of the generation are omitted from the Electric ECOS Studies and 
+22 
+separately distributed through a different rate.  To be clear, the distribution of legacy 
+23 
+generation revenues to customers via the ECAM is not objected to here; rather, the 
+24 
+flaw is the inclusion of the underlying costs in the ECOS Studies but not the resulting 
+25 
+revenues or benefits. 
+26 
+                                               
+7  PSC No. 15 Electricity, Tariff Leaf No. 106 (emphasis added).  
+
+
+--- Page 16 ---
+Jeffry Pollock 
+ 
+Direct Testimony 
+ 
+Page 13 
+ 
+ 
+2.  Electric ECOS Study 
+ 
+J . P O L L O C K  
+I N C O R P O R A T E D  
+Q 
+WHY DO YOU ASSERT THAT THE COMPANY’S ELECTRIC ECOS STUDIES 
+1 
+VIOLATE THE MATCHING PRINCIPLE? 
+2 
+A 
+The Matching Principle is violated because legacy generation costs were included in 
+3 
+CHG&E’s ECOS Studies without recognizing the associated revenues/benefits 
+4 
+produced by this generation.  Consistent with the Matching Principle, both the costs 
+5 
+and the revenues/benefits of CHG&E’s legacy generation should be recognized in (or, 
+6 
+alternatively, excluded from) the ECOS Studies.   
+7 
+Q 
+WHAT DO YOU RECOMMEND? 
+8 
+A 
+In addition to allocating the legacy hydro costs in proportion to each class’s commodity 
+9 
+energy purchases, the revenues from the market sales of CHG&E’s legacy generation 
+10 
+should be included in the Electric ECOS Studies.  Specifically, the capacity payments 
+11 
+should be allocated on the summer CP, while the energy payments should be 
+12 
+allocated on the amount of commodity energy purchases.  Including the legacy 
+13 
+generation revenues in the Electric ECOS Studies would be consistent with the 
+14 
+Matching Principle. 
+15 
+ 
+ 
+Alternatively, if, arguendo, it is decided for any reason to exclude the 
+16 
+revenues/benefits from CHG&E’s legacy generation for purposes of the Electric ECOS 
+17 
+Studies, then the costs of the legacy generation should either be excluded or allocated 
+18 
+to the various service classes in the same manner as all other (non-production related) 
+19 
+delivery costs because the latter are subsidizing the former.   
+20 
+
+
+--- Page 17 ---
+Jeffry Pollock 
+ 
+Direct Testimony 
+ 
+Page 14 
+ 
+ 
+2.  Electric ECOS Study 
+ 
+J . P O L L O C K  
+I N C O R P O R A T E D  
+Transmission Plant Allocation 
+1 
+Q 
+HOW IS CHG&E PROPOSING TO ALLOCATE ITS TRANSMISSION LINES AND 
+2 
+TRANSMISSION SUBSTATIONS? 
+3 
+A 
+CHG&E is proposing to allocate transmission lines using the summer CP and 
+4 
+transmission substations using an average of the summer and winter CPs.   
+5 
+Q 
+HAS THE COMPANY EXPLAINED WHY IT USES DIFFERENT ALLOCATION 
+6 
+METHODS FOR TRANSMISSION LINES AND TRANSMISSION SUBSTATIONS? 
+7 
+A 
+No.   
+8 
+Q 
+DOES IT MAKE SENSE TO EMPLOY DIFFERENT ALLOCATION METHODS FOR 
+9 
+TRANSMISSION LINES AND TRANSMISSION SUBSTATIONS? 
+10 
+A 
+No, not at all.  There is no dispute that CHG&E is a summer-peaking utility.  This 
+11 
+means that transmission lines and transmission substations must be sized to meet the 
+12 
+maximum demands imposed on them.  Further, transmission facilities have a lower 
+13 
+load carrying capability during the summer months.  Accordingly, a summer CP should 
+14 
+be used for both the transmission lines and the transmission substations.   
+15 
+Q 
+HAVE 
+YOU 
+CALCULATED 
+REVISED 
+ALLOCATION 
+FACTORS 
+FOR 
+16 
+TRANSMISSION SUBSTATIONS? 
+17 
+A 
+Yes.  CHG&E’s proposed and my revised allocation of transmission lines and 
+18 
+substations are quantified in Exhibit ___ (JP-5), which is based on the Rate Year 
+19 
+ECOS Study.   
+20 
+
+
+--- Page 18 ---
+Jeffry Pollock 
+ 
+Direct Testimony 
+ 
+Page 15 
+ 
+ 
+2.  Electric ECOS Study 
+ 
+J . P O L L O C K  
+I N C O R P O R A T E D  
+SC-13 Substation Demand Metrics 
+1 
+Q 
+PLEASE ELABORATE ON YOUR CONCERNS ABOUT THE TREATMENT OF THE 
+2 
+SC-13 SUBSTATION CLASS IN THE ELECTRIC ECOS STUDY. 
+3 
+A 
+Based on my review of the supporting workpapers, I observed several anomalies in 
+4 
+the demand metrics used to both allocate demand-related costs and to quantify the 
+5 
+annual revenues.  These anomalies are shown in Table 2.   
+6 
+Table 2 
+SC-13 Substation Demand Data At The Meter 
+(MW) 
+Month 
+2018 Class 
+Peak 
+Demand 
+2018 
+Coincident 
+Peak 
+Billing Demand 
+2018 
+Actual 
+Rate  
+Year 1 
+Jan. 
+27.4 
+20.3 
+18.3 
+17.1 
+Feb. 
+27.4 
+ 
+19.2 
+16.2 
+Mar. 
+27.4 
+19.2 
+16.6 
+Apr. 
+27.9 
+18.0 
+16.1 
+May. 
+29.8 
+19.1 
+17.3 
+Jun. 
+32.1 
+20.2 
+16.8 
+Jul. 
+33.4 
+31.5 
+23.2 
+18.5 
+Aug. 
+35.0 
+22.3 
+18.6 
+Sep. 
+34.4 
+23.3 
+17.9 
+Oct. 
+31.7 
+24.7 
+17.6 
+Nov. 
+26.5 
+21.2 
+16.2 
+Dec. 
+28.5 
+20.8 
+16.3 
+Sources: CHG&E’s Response to MI-7 & 8.   
+ 
+It compares various demand metrics for the Historical period with the corresponding 
+7 
+actual and Rate Year billing demands.   
+8 
+Q 
+PLEASE EXPLAIN THE DEMAND METRICS SHOWN IN TABLE 2.   
+9 
+A 
+The demand metrics include: 
+10 
+ 
+Class Peak Demand: The SC-13 Substation class’s maximum 
+11 
+diversified peak; 
+12 
+
+
+--- Page 19 ---
+Jeffry Pollock 
+ 
+Direct Testimony 
+ 
+Page 16 
+ 
+ 
+2.  Electric ECOS Study 
+ 
+J . P O L L O C K  
+I N C O R P O R A T E D  
+ 
+Coincident Peak: The SC-13 Substation class’s demand coincident 
+1 
+with CHG&E’s winter and summer system peaks; and 
+2 
+ 
+Billing Demand:  The sum of each SC-13 Substation customer’s 
+3 
+maximum measured demand.   
+4 
+Q 
+WHAT ANOMALIES ARE REVEALED IN TABLE 2?  
+5 
+A 
+Billing demand measures the highest monthly demand of each SC-13 Substation 
+6 
+customer.  The class and CP demands, by contrast, measure the diversified demands 
+7 
+of the entire SC-13 Substation class.  By definition, billing demand has to be higher 
+8 
+than the diversified peak demand of the entire SC-13 class, as well as the SC-13 
+9 
+classes’ contribution to the Company’s summer and winter system peak demands.  As 
+10 
+a matter of principle, billing demand can never be less than either the CP or class peak 
+11 
+demands. 
+12 
+Q 
+WHY ARE THESE DEMAND METRICS IMPORTANT? 
+13 
+A 
+Billing demand is a primary determinant of the amount of delivery revenues.  The CP 
+14 
+demand is used to allocate production and transmission costs, while class peak 
+15 
+demand is used to allocate distribution substation costs.  Thus, if either the billing 
+16 
+demands are understated (which, in turn, would result in understating the revenue) or 
+17 
+the CP and class peak demands are overstated (thus, resulting in a higher allocation 
+18 
+of production, transmission and distribution substation costs), the SC-13 Substation 
+19 
+class’s rate of return will be understated, potentially severely. 
+20 
+Q 
+ARE THE DEMAND METRICS SHOWN IN TABLE 2 USED IN DEVELOPING THE 
+21 
+RATE YEAR ELECTRIC ECOS STUDY? 
+22 
+A 
+Yes.  The Company uses the Historical period metrics as a base for determining the 
+23 
+Rate Year CP and class peak demands.  Similarly, the Rate Year billing demands are 
+24 
+
+
+--- Page 20 ---
+Jeffry Pollock 
+ 
+Direct Testimony 
+ 
+Page 17 
+ 
+ 
+2.  Electric ECOS Study 
+ 
+J . P O L L O C K  
+I N C O R P O R A T E D  
+projected based on the Historical period load factors.  Thus, if the historical CP and 
+1 
+class peaks are overstated or, alternatively, the Historical period billing demands are 
+2 
+understated, the same problems will exist during the Rate Year. 
+3 
+Q 
+WHAT DO YOU RECOMMEND? 
+4 
+A 
+As previously explained, the Rate Year billing demand must be higher than both the 
+5 
+Rate Year CP and class peak demands.  Thus, CHG&E should correct its Electric 
+6 
+ECOS Studies either by (i) increasing the SC-13 Substation billing demand and the 
+7 
+corresponding revenues or (ii) reducing the CP and class peak demands.   
+8 
+Q 
+HAVE YOU ESTIMATED THE IMPACT OF CORRECTING THE OBSERVED 
+9 
+ANOMALIES? 
+10 
+A 
+Yes.  Exhibit ___ (JP-6) shows the adjustments to remove the observed anomalies.  
+11 
+First, I corrected the SC-13 Substation class’s summer CP based on an assumption 
+12 
+that the diversity between billing demand (line 2) and summer CP (line 3) would be 
+13 
+similar to the corresponding diversity for the SC-3 and SC-13 Transmission classes.  
+14 
+Applying the same diversity ratio (line 5), the SC-13 Substation class’s summer CP 
+15 
+would be reduced to 12,883 kW, excluding directly assigned substations (line 6).  This 
+16 
+results in a loss-adjusted summer CP of 13,212 kW (line 7). 
+17 
+The revised class peak demand was derived using the SC-13 Substation 
+18 
+class’s diversity between the class peak (line 8) and the summer CP (line 9) of the 
+19 
+SC-13 Substation class.  Applying the diversity factor to the derived summer CP 
+20 
+results in a class peak of 17,658 kW (line 12), excluding directly assigned substations.   
+21 
+The impact of using the adjusted SC-13 Substation demand metrics on the 
+22 
+Rate Year summer CP and class peak demand allocation factors is shown in 
+23 
+
+
+--- Page 21 ---
+Jeffry Pollock 
+ 
+Direct Testimony 
+ 
+Page 18 
+ 
+ 
+2.  Electric ECOS Study 
+ 
+J . P O L L O C K  
+I N C O R P O R A T E D  
+Exhibit ___ (JP-7).  Page 1 shows the derivation of the revised Rate Year summer 
+1 
+CP demand allocation factors, while page 2 shows the derivation of the revised Rate 
+2 
+Year class peak demand allocation factors.   
+3 
+Q 
+HAVE YOU CALLED THESE ANOMALIES TO THE COMPANY’S ATTENTION? 
+4 
+A 
+Yes.  The Company is reviewing the underlying assumptions.  I am advised that it will 
+5 
+file supplemental information that addresses the SC-13 Substation anomalies.  This 
+6 
+filing is expected to be made the week that direct testimony is due.   
+7 
+Q 
+WILL 
+YOU 
+SUPPLEMENT 
+YOUR 
+TESTIMONY 
+TO 
+REFLECT 
+THE 
+8 
+SUPPLEMENTAL INFORMATION? 
+9 
+A 
+Yes.  I will include a revised Rate Year Electric ECOS Study in my rebuttal testimony.   
+10 
+Deferred Income Tax Expense 
+11 
+Q 
+WHY DO YOU ASSERT THAT DEFERRED INCOME TAX EXPENSE SHOULD BE 
+12 
+ALLOCATED ON A PLANT-IN-SERVICE BASIS? 
+13 
+A 
+Deferred income tax expense is directly related to the difference between tax and book 
+14 
+depreciation.  By definition, depreciation reflects the recovery of plant investment over 
+15 
+time.  Hence, deferred income taxes are directly related to plant balances. 
+16 
+Q 
+ARE DEFERRED TAXES DIRECTLY RELATED TO TAXABLE INCOME? 
+17 
+A 
+No.  Deferred income tax expense is related to depreciation, not taxable income.  
+18 
+Thus, a class’s taxable income will have no bearing whatsoever in determining the 
+19 
+amount of deferred taxes incurred by the Company.  Thus, CHG&E’s allocation of 
+20 
+deferred income tax based on class taxable income is inconsistent with cost-causation 
+21 
+principles. 
+22 
+
+
+--- Page 22 ---
+Jeffry Pollock 
+ 
+Direct Testimony 
+ 
+Page 19 
+ 
+ 
+2.  Electric ECOS Study 
+ 
+J . P O L L O C K  
+I N C O R P O R A T E D  
+Q 
+WHAT DO YOU RECOMMEND? 
+1 
+A 
+Deferred income tax expense should be allocated based on plant in service. 
+2 
+Revised Electric ECOS Study 
+3 
+Q 
+HAVE YOU REVISED THE ELECTRIC ECOS STUDY TO REFLECT YOUR 
+4 
+RECOMMENDED CHANGES? 
+5 
+A 
+Yes.  I have prepared a revised Electric ECOS Study for the Rate Year.  It reflects my 
+6 
+recommended changes to the allocation of legacy hydro generation costs, the 
+7 
+inclusion of legacy generation revenues, use of the summer CP to allocate both 
+8 
+transmission lines and substations, and lower SC-13 Substation CP and class peak 
+9 
+demands.  The rate of return statement is shown in Exhibit ___ (JP-8).  The results 
+10 
+are summarized in Table 3. 
+11 
+Table 3 
+Summary MI’s Revised Rate Year 
+Electric ECOS Study Results 
+Service Classification 
+RROR 
+Tolerance 
+Band 
+Residential 
+SC-1  
+82 
+Below 
+SC-6 TOU 
+126 
+Above 
+Small General  
+Service 
+SC-2-ND 
+24 
+Below 
+SC-2-Sec-Dem 
+177 
+Above 
+SC-2-Pri-Dem 
+193 
+Above 
+Large General  
+Service 
+SC-3 Primary 
+148 
+Above 
+SC-13 Substation 
+117 
+Above 
+SC-13 Transmission 
+140 
+Above 
+Area Lighting 
+SC-5 
+-5 
+Negative 
+Street Lighting 
+SC-8 
+321 
+Extreme 
+Traffic Lighting SC-9 
+351 
+Extreme 
+
+
+--- Page 23 ---
+Jeffry Pollock 
+ 
+Direct Testimony 
+ 
+Page 20 
+ 
+ 
+2.  Electric ECOS Study 
+ 
+J . P O L L O C K  
+I N C O R P O R A T E D  
+Q 
+WHAT DO THE RESULTS SHOW?  
+1 
+A 
+The results show that all of the classes are outside of the 15% bandwidth that the 
+2 
+Company uses to determine whether a class would receive an average, below-
+3 
+average, or above-average increase.  I address class revenue allocation in part 4 of 
+4 
+this testimony. 
+5 
+
+
+--- Page 24 ---
+Jeffry Pollock 
+ 
+Direct Testimony 
+ 
+Page 21 
+ 
+ 
+3.  Gas ECOS Study 
+ 
+J . P O L L O C K  
+I N C O R P O R A T E D  
+3. GAS ECOS STUDY 
+Q 
+HAS CHG&E CONDUCTED ECOS STUDIES FOR NATURAL GAS SERVICE IN 
+1 
+THIS PROCEEDING?  
+2 
+A 
+Yes.  CHG&E presented, and is relying primarily on, ECOS Studies for two time 
+3 
+periods: 
+4 
+ 
+Calendar year ended December 31, 2018 (Exhibit ___ (COSP-2), 
+5 
+Schedule A (Historical); and 
+6 
+ 
+The proposed rate year ending June 30, 2022 (Exhibit ___ (COSP-2), 
+7 
+Schedule B (Rate Year).8   
+8 
+ 
+In addition, CHG&E filed a third ECOS study, which included only delivery costs based 
+9 
+on the Historical period.  Subsequent to the initial filing, CHG&E filed an updated Rate 
+10 
+Year Gas ECOS Study.   
+11 
+Q 
+HAVE YOU REVIEWED THESE STUDIES? 
+12 
+A 
+Yes.  However, I am relying on the updated Rate Year Gas ECOS Study.   
+13 
+Q 
+DO THE GAS ECOS STUDIES COMPORT WITH ACCEPTED INDUSTRY 
+14 
+PRACTICES? 
+15 
+A 
+With several material exceptions detailed below, the Gas ECOS Studies comport with 
+16 
+accepted industry practice.  But for these exceptions, the studies recognize the 
+17 
+different types of costs, as well as the different ways natural gas is delivered to, and 
+18 
+used by, the various types of customers.   
+19 
+                                               
+8  Direct Testimony of the Cost of Service Panel at 6 and Exhibit ____ (COSP-2).   
+
+
+--- Page 25 ---
+Jeffry Pollock 
+ 
+Direct Testimony 
+ 
+Page 22 
+ 
+ 
+3.  Gas ECOS Study 
+ 
+J . P O L L O C K  
+I N C O R P O R A T E D  
+Q 
+HOW ARE THE GAS ECOS STUDIES FLAWED? 
+1 
+A 
+First, CHG&E used inconsistent metrics to derive the PDD demand that is used to 
+2 
+allocate demand-related costs.  Specifically, for the sales classes (i.e., SC-1, SC-2, 
+3 
+SC-6, SC-12 and SC-13), CHG&E quantified the PDD demand using the relationship 
+4 
+between the amount of temperature-sensitive load and HDD.  This is a standard 
+5 
+practice.  As discussed later, however, the temperature-sensitive loads were not 
+6 
+calculated in the same manner for all of the sales classes.   
+7 
+Significantly, however, for the firm transportation (i.e., SC-11DLM, SC-11T, 
+8 
+and SC-11D) classes, CHG&E used each customer’s MDQ as a proxy for the PDD 
+9 
+demand.  As discussed later, MDQ is a very poor proxy for the PDD demand of the 
+10 
+SC-11 classes.   
+11 
+ 
+ 
+The second flaw is with the allocation of deferred income tax expense.  CHG&E 
+12 
+is proposing to allocate deferred income tax expense on taxable income.  As with the 
+13 
+Electric ECOS Studies, deferred income taxes are plant related, and, therefore, they 
+14 
+should be allocated to classes based on the allocated plant in service.   
+15 
+In addition, although CHG&E properly classifies a portion of its distribution 
+16 
+mains as a customer-related cost, it continues to assume that 35% is correct.  As 
+17 
+discussed later, CHG&E should update the 35% to reflect more current circumstances.  
+18 
+Finally, after discussing several specific issues with the Company, I corrected 
+19 
+an error in the design day criterion used to derive the Rate Year PDD demand.   
+20 
+Demand Allocation Factor 
+21 
+Q 
+HOW IS THE COMPANY PROPOSING TO ALLOCATE DEMAND-RELATED 
+22 
+COSTS IN THE GAS ECOS STUDY? 
+23 
+A 
+The Company is proposing to use the PDD demand to allocate demand-related costs.   
+24 
+
+
+--- Page 26 ---
+Jeffry Pollock 
+ 
+Direct Testimony 
+ 
+Page 23 
+ 
+ 
+3.  Gas ECOS Study 
+ 
+J . P O L L O C K  
+I N C O R P O R A T E D  
+Q 
+IS THE PEAK DESIGN DAY AN APPROPRIATE METHOD FOR ALLOCATING 
+1 
+DEMAND-RELATED COSTS? 
+2 
+A 
+Yes.  PDD is the computed quantity of gas which would be supplied on a day when 
+3 
+the mean temperature of CHG&E’s service territory is -8 degrees Fahrenheit.  This is 
+4 
+the equivalent of 73 HDD.9  Thus, it measures the demand during the most critical 
+5 
+times of the year that a gas distribution system must be designed to meet.  Therefore, 
+6 
+PDD demand is consistent with cost causation.   
+7 
+Q 
+DO YOU HAVE ANY CONCERNS ABOUT HOW THE COMPANY ESTIMATED THE 
+8 
+PDD DEMAND? 
+9 
+A 
+Yes.  First, the Company used a different set of metrics to estimate the PDD demand 
+10 
+for firm transportation customers than it used for gas sales customers.  Second, the 
+11 
+Company derived the PDD demands for the gas sales customers in an inconsistent 
+12 
+manner.   
+13 
+Q 
+HOW 
+DID 
+THE 
+COMPANY 
+ESTIMATE 
+THE 
+PDD 
+FOR 
+THE 
+FIRM 
+14 
+TRANSPORTATION CUSTOMERS? 
+15 
+A 
+The PDD demand for the SC-11 customers was based on each customer’s MDQ.  The 
+16 
+MDQ represents the maximum amount of gas that each SC-11 customer is entitled to 
+17 
+transport under its existing contract. 
+18 
+Q 
+IS THE MAXIMUM DAILY QUANTITY OF EACH SC-11 CUSTOMER REASONABLY 
+19 
+REPRESENTATIVE OF THE SC-11 CUSTOMER’S PDD? 
+20 
+A 
+No.  First, SC-11 customers have rarely transported 100% of their MDQ on the peak 
+21 
+                                               
+9  The PDD used in the updated Rate Year Gas ECOS Study inadvertently was based on 70 HDD.   
+
+
+--- Page 27 ---
+Jeffry Pollock 
+ 
+Direct Testimony 
+ 
+Page 24 
+ 
+ 
+3.  Gas ECOS Study 
+ 
+J . P O L L O C K  
+I N C O R P O R A T E D  
+days.  My analysis reveals that over the past five years the SC-11 peak day send-out 
+1 
+ranged from 53% to 93% of the corresponding MDQ.  Therefore, it is reasonable to 
+2 
+expect that the PDD demand would be significantly below the corresponding MDQ for 
+3 
+SC-11 classes.  Therefore, MDQ is an especially poor proxy for PDD demand.    
+4 
+Q 
+WHY ELSE WOULD IT BE INAPPROPRIATE TO USE MDQ TO APPROXIMATE 
+5 
+THE PDD DEMAND FOR THE SC-11 CLASSES? 
+6 
+A 
+The customary and appropriate practice is to use the same metric to allocate demand-
+7 
+related costs.  PDD demand and MDQ are not the same metric.  It is just as 
+8 
+inappropriate to assume MDQ as a proxy for PDD demand in a gas ECOS study as it 
+9 
+would be to assume non-coincident peak (“NCP”) as a proxy for CP demand in an 
+10 
+electric ECOS study.   
+11 
+ 
+ 
+Further, using the MDQ treats the firm transportation service classes differently 
+12 
+from the sales classes.  That difference results in significantly over-allocating demand-
+13 
+related costs to the former.  An over-allocation occurs because CHG&E assumes, 
+14 
+inaccurately, that each SC-11 customer would transport 100% of its MDQ on the PDD.  
+15 
+Because SC-11 customers transport significantly less than 100% of their respective 
+16 
+MDQs on peak days, the Company’s approach substantially overstates the demand-
+17 
+related costs allocated to the SC-11 classes.   
+18 
+Q 
+DO YOU HAVE ANY CONCERNS ABOUT THE ESTIMATED PEAK DESIGN DAY 
+19 
+DEMANDS FOR THE SALES CLASSES? 
+20 
+A 
+Yes.  In estimating the PDD demands for the sales classes, the Company used 
+21 
+different periods to quantify the amount of temperature sensitive load.  The amount of 
+22 
+temperature-sensitive load is the difference between the maximum monthly load and 
+23 
+
+
+--- Page 28 ---
+Jeffry Pollock 
+ 
+Direct Testimony 
+ 
+Page 25 
+ 
+ 
+3.  Gas ECOS Study 
+ 
+J . P O L L O C K  
+I N C O R P O R A T E D  
+the minimum monthly load.  For example, the residential heating class experienced its 
+1 
+maximum and minimum monthly loads in February and July, respectively.  However, 
+2 
+the commercial and industrial classes experienced their maximum and minimum 
+3 
+monthly loads in January and August, respectively.   
+4 
+Q 
+DOES IT MAKES SENSE TO USE DIFFERENT MONTHS TO QUANTIFY THE 
+5 
+AMOUNT OF TEMPERATURE SENSITIVE LOAD? 
+6 
+A 
+No.  The Company’s peak day send-out typically occurs in January.  Thus, it would 
+7 
+make more sense to use the January volumes for all of the sales classes in quantifying 
+8 
+the amount of temperature-sensitive load. 
+9 
+Q 
+SHOULD THE SAME PERIOD ALSO BE USED TO DEFINE EACH CLASS’S BASE 
+10 
+OR NON-TEMPERATURE-SENSITIVE LOAD? 
+11 
+A 
+Yes.  However, using only one month may not properly reflect each class’s base load. 
+12 
+Q 
+WHAT DO YOU RECOMMEND? 
+13 
+A 
+Each class’s base load should be based on average load during the summer months:  
+14 
+June, July, August and September.  The amount of temperature-sensitive load should 
+15 
+be the difference between the January loads and the average summer month loads.   
+16 
+Q 
+HAVE YOU REVISED THE PEAK DESIGN DAY DEMAND ALLOCATION 
+17 
+FACTORS FOR BOTH SALES AND TRANSPORTATION SERVICE CLASSES? 
+18 
+A 
+Yes.  Exhibit ___ (JP-9) provides the derivation of the revised PDD demand allocation 
+19 
+factors.  CHG&E’s proposed allocation factors are also shown for comparison 
+20 
+purposes.   
+21 
+
+
+--- Page 29 ---
+Jeffry Pollock 
+ 
+Direct Testimony 
+ 
+Page 26 
+ 
+ 
+3.  Gas ECOS Study 
+ 
+J . P O L L O C K  
+I N C O R P O R A T E D  
+Distribution Mains 
+1 
+Q 
+DO YOU HAVE ANY CONCERNS REGARDING THE TREATMENT OF 
+2 
+DISTRIBUTION MAINS IN THE COMPANY’S GAS ECOS STUDY? 
+3 
+A 
+Yes.  Although I agree that a portion of distribution mains is customer-related, the 
+4 
+assumption that 35% is the proper customer-related portion is dated and without basis 
+5 
+in fact with respect to CHG&E.   
+6 
+Q 
+WHEN WAS THE 35% RATIO DETERMINED?  
+7 
+A 
+It is my understanding that the 35% ratio was originally established in a 2008 CHG&E 
+8 
+rate case (Case 08-G-0888).  However, the 35% was based on a study conducted by 
+9 
+National Grid in a 2008 rate case (Case No. 08-G-0609), which the Commission 
+10 
+adopted.10  
+11 
+Q 
+IS THERE ANY REASON TO RECONSIDER THE PORTION OF DISTRIBUTION 
+12 
+MAINS THAT IS CURRENTLY BEING CLASSIFIED AS A CUSTOMER-RELATED 
+13 
+COST? 
+14 
+A 
+Yes, there are several reasons to do so.  First, in its pending rate case, National Grid 
+15 
+is proposing to classify approximately 46% of its distribution mains as a customer-
+16 
+related cost.  This proposal is based on an updated minimum size study.11   
+17 
+Second, based on distribution mains installed during the period 2009 through 
+18 
+2019, the average cost of the 2 inch plastic pipe installed by CHG&E (which is the 
+19 
+                                               
+10  Case No. 08-G-0888, Proceeding on Motion of the Commission as to the Rates, Charges, Rules 
+and Regulations of Central Hudson Gas & Electric Corporation for Gas Service, Order Adopting 
+Recommended Decision With Modifications  at 47-48 (Jun. 22, 2009).  
+11  Case No. 20-G-0381 Proceeding on Motion of the Commission as to the Rates, Charges, Rules and 
+Regulations of Niagara Mohawk Power Corporation d/b/a for Gas Service, Direct Testimony of the Gas 
+Rate Design Panel at 20 (Jul. 31, 2020).   
+
+
+--- Page 30 ---
+Jeffry Pollock 
+ 
+Direct Testimony 
+ 
+Page 27 
+ 
+ 
+3.  Gas ECOS Study 
+J . P O L L O C K  
+I N C O R P O R A T E D  
+smallest most predominant type of pipe installed over the same period) is $21.60 per 
+1 
+foot.  However, this is over 90% of the average installed cost per foot of all distribution 
+2 
+mains, regardless of size and type, installed during the same period.  This information 
+3 
+is shown in Exhibit ___ (JP-10).  This analysis strongly suggests that a larger portion 
+4 
+of distribution mains probably should be classified as a customer-related cost than in 
+5 
+the case of National Grid.  
+6 
+Q 
+WHAT DO YOU RECOMMEND? 
+7 
+A 
+I recommend that the Commission order the Company to update its distribution mains 
+8 
+analysis to determine the portion of distribution mains costs that should be classified 
+9 
+as customer-related.  The updated study should be presented in CHG&E’s next rate 
+10 
+proceeding.   
+11 
+Revised Gas ECOS Study 
+12 
+Q 
+HAVE YOU PREPARED A REVISED GAS ECOS STUDY BASED ON YOUR 
+13 
+RECOMMENDED CHANGES? 
+14 
+A 
+Yes.  My revised Gas ECOS Study is shown in Exhibit ___ (JP-11).  It is based on 
+15 
+the Rate Year and reflects my recommended changes in the PDD demand allocation 
+16 
+factors and deferred tax expense allocation as previously discussed.  The results are 
+17 
+summarized in Table 4. 
+18 
+Table 4 
+Summary MI’s Revised  
+Updated Rate Year Gas ECOS Study Results 
+Service Classification 
+RROR 
+Tolerance 
+Band 
+Residential 
+SC-1 & 12 
+103 
+Within 
+Commercial/Industrial SC-2, 6, & 13 
+92 
+Within 
+Firm Transportation 
+SC-11T/EG 
+568 
+Extreme 
+SC-11D 
+223 
+Extreme 
+SC-11DLM 
+107 
+Within 
+
+
+--- Page 31 ---
+Jeffry Pollock 
+ 
+Direct Testimony 
+ 
+Page 28 
+ 
+ 
+3.  Gas ECOS Study 
+ 
+J . P O L L O C K  
+I N C O R P O R A T E D  
+ 
+The results show that two of the SC-11 subclasses are well outside the 15% bandwidth 
+1 
+that the Company uses to determine whether a class would receive an average, below-
+2 
+average, or above-average increase.  As discussed in part 4 of my testimony, the 
+3 
+Commission should rely solely on the results of the Rate Year ECOS Studies in 
+4 
+determining class revenue allocation. 
+5 
+Q 
+WHY HAVE YOU COMBINED THE SC-11T AND SC-11EG SUBCLASSES?  
+6 
+A 
+Both subclasses are served directly from the gas transmission system.  Further, the 
+7 
+Company also combined these subclasses in its Gas ECOS Studies.   
+8 
+
+
+--- Page 32 ---
+Jeffry Pollock 
+ 
+Direct Testimony 
+ 
+Page 29 
+ 
+ 
+4.  Electric and Gas Class  
+Revenue Allocation 
+ 
+J . P O L L O C K  
+I N C O R P O R A T E D  
+4. ELECTRIC AND GAS CLASS REVENUE ALLOCATION 
+Q 
+WHAT IS CLASS REVENUE ALLOCATION? 
+1 
+A 
+Class revenue allocation is the process of determining how any delivery revenue 
+2 
+change approved by the Commission should be spread to each service class served 
+3 
+by the utility.   
+4 
+Q 
+HOW SHOULD ANY CHANGE IN DELIVERY REVENUES APPROVED IN THIS 
+5 
+PROCEEDING BE SPREAD AMONG THE VARIOUS SERVICE CLASSES SERVED 
+6 
+BY CHG&E? 
+7 
+A 
+Delivery revenues should reflect the actual cost of providing service as closely as 
+8 
+practicable.  As a general rule, rates should be set at cost.  However, regulators 
+9 
+sometimes limit the immediate movement to cost based on other considerations, such 
+10 
+as gradualism concerns.  Gradualism is a concept that the Commission historically 
+11 
+has used to prevent a class from receiving an overly-large rate increase.  Under this 
+12 
+practice, the movement to cost-of-service is made gradually, rather than all at once.   
+13 
+Q 
+WHY SHOULD THE RESULTS OF AN ECOS STUDY BE THE PRIMARY FACTOR 
+14 
+IN DETERMINING HOW ANY BASE REVENUE CHANGE SHOULD BE 
+15 
+ALLOCATED? 
+16 
+A 
+Cost-based rates will send the proper price signals to customers.  The other reasons 
+17 
+for adhering to cost-of-service principles are equity, engineering efficiency (cost-
+18 
+minimization), stability and conservation. 
+19 
+
+
+--- Page 33 ---
+Jeffry Pollock 
+ 
+Direct Testimony 
+ 
+Page 30 
+ 
+ 
+4.  Electric and Gas Class  
+Revenue Allocation 
+ 
+J . P O L L O C K  
+I N C O R P O R A T E D  
+Q 
+WHY ARE COST-BASED RATES EQUITABLE? 
+1 
+A 
+Rates that primarily reflect cost-of-service considerations are equitable because each 
+2 
+customer pays what it actually costs the utility to serve that customer – no more and 
+3 
+no less.  If rates are not based on cost, then some customers must pay part of the cost 
+4 
+of providing service to other customers, which is inequitable. 
+5 
+Q 
+HOW DO COST-BASED RATES PROMOTE ENGINEERING EFFICIENCY? 
+6 
+A 
+With respect to engineering efficiency, when rates are designed so that customer, 
+7 
+demand and/or energy charges are properly reflected in the rate structure, customers 
+8 
+are provided with the proper incentive to minimize their costs which will, in turn, 
+9 
+minimize the costs to the utility. 
+10 
+Q 
+HOW CAN COST-BASED RATES PROVIDE STABILITY? 
+11 
+A 
+When rates are tied closely to cost, the utility's earnings are stabilized because 
+12 
+changes in customer use patterns result in parallel changes in revenues and 
+13 
+expenses.  If rates are not based on cost, then an increase in usage by subsidized 
+14 
+classes or a decrease in usage by classes providing subsidies would adversely affect 
+15 
+the utility’s earnings.  That is because, as subsidized classes grow, a utility’s revenue 
+16 
+shortfall also will grow over time.  Conversely, as an overcharged customer class 
+17 
+grows, its customers become increasingly important to utility earnings, while those 
+18 
+customers are simultaneously given greater incentives to reduce their use of the 
+19 
+utility’s system.   
+20 
+Q 
+HOW DO COST-BASED RATES ENCOURAGE CONSERVATION? 
+21 
+A 
+By providing customers with balanced price signals against which to make 
+22 
+consumption decisions, cost-based rates encourage conservation (of both peak day 
+23 
+
+
+--- Page 34 ---
+Jeffry Pollock 
+ 
+Direct Testimony 
+ 
+Page 31 
+ 
+ 
+4.  Electric and Gas Class  
+Revenue Allocation 
+ 
+J . P O L L O C K  
+I N C O R P O R A T E D  
+and total usage), which is properly defined as the avoidance of wasteful or inefficient 
+1 
+use (and not just less use).  If rates are not based on a class cost-of-service study, 
+2 
+then consumption choices are distorted.  CHG&E’s Rate Year Electric ECOS Study 
+3 
+and Rate Year Gas ECOS Study, with the modifications advanced by MI herein, should 
+4 
+be used to set rates in this proceeding.   
+5 
+Q 
+DOES THE COMMISSION’S STATED POLICY SUPPORT THE MOVEMENT OF 
+6 
+UTILITY RATES TOWARD ACTUAL COST?  
+7 
+A 
+Yes.  The Commission has supported cost-based rates in numerous proceedings.   
+8 
+Q 
+DOES THE COMPANY SUPPORT A POLICY OF SETTING RATES TO REFLECT 
+9 
+ACTUAL COSTS? 
+10 
+A 
+Yes.  The testimony filed by CHG&E’s Forecasting and Rates Panel states: 
+11 
+While the Company fully supports movement toward the costs reflected 
+12 
+in ECOSS…12 
+13 
+Q 
+HAS CHG&E FOLLOWED THROUGH WITH MOVING DELIVERY RATES CLOSER 
+14 
+TO THE COST OF PROVIDING SERVICE? 
+15 
+A 
+Generally, yes.  However, the Company’s proposed class revenue allocation relies on 
+16 
+the results of both the Historical and Rate Year ECOS Studies.  The Historical ECOS 
+17 
+Studies do not measure class rates of return on a fully-adjusted basis.  They are 
+18 
+merely studies based on actual, per books results.  Thus, the revenues and expenses 
+19 
+do not reflect the same assumptions as the corresponding Rate Year revenues and 
+20 
+expenses (which helps to explain why the results of CHG&E’s Rate Year ECOS 
+21 
+Studies are so different than the results of its Historical ECOS Studies).   
+22 
+                                               
+12  Direct Testimony of the Forecasting and Rates Panel at 65. 
+
+
+--- Page 35 ---
+Jeffry Pollock 
+ 
+Direct Testimony 
+ 
+Page 32 
+ 
+ 
+4.  Electric and Gas Class  
+Revenue Allocation 
+ 
+J . P O L L O C K  
+I N C O R P O R A T E D  
+Q 
+IS THE COMPANY’S PROPOSED REVENUE REQUIREMENT BASED ON 
+1 
+ACTUAL PER BOOKS (HISTORICAL) RESULTS? 
+2 
+A 
+No.  The Company’s proposed revenue requirement is based on fully adjusted sales, 
+3 
+revenues, expenses and investments.  The revenue deficiency would be substantially 
+4 
+less if it were determined using actual per books results.   
+5 
+Q 
+ARE THE RESULTS OF THE HISTORICAL ECOS STUDIES MEANINGFUL? 
+6 
+A 
+No.  The Historical (i.e., per books) and Rate Year ECOS Studies are based on a wide 
+7 
+range of different assumptions.  For example, the Historical revenues reflect the rates 
+8 
+that were in effect at that time rather than the rates that are currently in effect.  Further, 
+9 
+the Historical and Rate Year costs are different.  Because the rates authorized in this 
+10 
+case will be based on the Rate Year revenues and costs, the Rate Year ECOS Studies 
+11 
+are more reflective of the costs that will determine CHG&E’s overall revenue 
+12 
+requirement.  Therefore, it makes more sense to use the Rate Year ECOS Studies to 
+13 
+measure the going-forward profitability of each service class.   
+14 
+Q 
+WHAT DO YOU RECOMMEND? 
+15 
+A 
+The electric and gas class revenue allocations should be based solely on the results 
+16 
+of the Rate Year ECOS Studies, as revised by my recommendations.   
+17 
+Q 
+HAVE YOU PREPARED A REVISED ELECTRIC CLASS REVENUE ALLOCATION 
+18 
+INCORPORATING YOUR RECOMMENDATIONS? 
+19 
+A 
+Yes.  My recommended electric class revenue allocation is provided in Table 5.  It 
+20 
+uses the same 15% bandwidth as the Company.   
+21 
+
+
+--- Page 36 ---
+Jeffry Pollock 
+ 
+Direct Testimony 
+ 
+Page 33 
+ 
+ 
+4.  Electric and Gas Class  
+Revenue Allocation 
+ 
+J . P O L L O C K  
+I N C O R P O R A T E D  
+Table 5 
+Target Electric Class Delivery Rate Increase 
+Expressed as a Multiple of the System Average Increase 
+Service Classification 
+Company 
+MI-Revised 
+Residential 
+SC-1  
+1.00 
+1.12 
+SC-6 TOU 
+1.00 
+0.70 
+Small General  
+Service 
+SC-2-ND 
+1.00 
+1.12 
+SC-2-Sec-Dem 
+1.00 
+0.70 
+SC-2-Pri-Dem 
+1.00 
+0.70 
+Large General  
+Service 
+SC-3 Primary 
+1.00 
+0.70 
+SC-13 Substation 
+1.25 
+0.70 
+SC-13 Transmission 
+1.25 
+0.70 
+Area Lighting 
+SC-5 
+1.00 
+1.75 
+Street Lighting 
+SC-8 
+0.75 
+0 
+Traffic Lighting 
+SC-9 
+0.75 
+0 
+ 
+Classes with relative rates of return above the bandwidth are assigned below-average 
+1 
+increases, and vice versa for classes with relative rates of return below the bandwidth.  
+2 
+Exceptions were made in extreme cases, such as for the lighting classes.  Specifically, 
+3 
+because of their very high relative rates of return, I assigned no increase to the Street 
+4 
+and Traffic Lighting classes.  Similarly, the Area Lighting class was assigned a higher 
+5 
+increase than the other below-cost classes due to its negative relative rate of return.   
+6 
+Q 
+HAVE YOU PREPARED A REVISED GAS CLASS REVENUE ALLOCATION 
+7 
+INCORPORATING YOUR RECOMMENDATIONS? 
+8 
+A 
+Yes.  My recommended gas class revenue allocation is provided in Table 6.  I applied 
+9 
+the same criteria as with my recommended electric class revenue allocation.  
+10 
+Specifically, I recommend no increase to SC-11T, SC-11D, and SC-11EG because 
+11 
+these subclasses are providing excessive relative rates of return.   
+12 
+
+
+--- Page 37 ---
+Jeffry Pollock 
+ 
+Direct Testimony 
+ 
+Page 34 
+ 
+ 
+4.  Electric and Gas Class  
+Revenue Allocation 
+ 
+J . P O L L O C K  
+I N C O R P O R A T E D  
+Table 6 
+Target Gas Class Delivery Rate Increase 
+Expressed as a Multiple of the System Average Increase 
+Service Classification 
+Company 
+MI-Revised 
+Residential 
+SC-1 & 12 
+1.00 
+1.02 
+Commercial/Industrial SC-2, 6, & 13 
+1.00 
+1.02 
+Firm Transportation 
+SC-11T 
+1.00 
+0 
+SC-11D 
+1.25 
+0 
+SC-11DLM 
+1.00 
+1.02 
+SC-11EG 
+1.00 
+0 
+Q 
+WOULD 
+YOUR 
+RECOMMENDATIONS 
+CHANGE 
+IF 
+THE 
+COMMISSION 
+1 
+AUTHORIZES LOWER ELECTRIC AND GAS REVENUE INCREASES THAN THE 
+2 
+COMPANY HAS PROPOSED? 
+3 
+A 
+Yes.  If the Commission authorizes a lower electric delivery revenue increase, the 
+4 
+Street and Traffic Lighting rates should be reduced.  Otherwise, the same revised 
+5 
+target relative increases shown in Table 5 should be applied.   
+6 
+ 
+ 
+Similarly, if the Commission authorizes a lower gas delivery revenue increase, 
+7 
+the SC-11T, SC-11EG, and SC-11D rates should be reduced.  Otherwise, the same 
+8 
+revised target relative increases shown in Table 6 should be applied.  
+9 
+
+
+--- Page 38 ---
+Jeffry Pollock 
+ 
+Direct Testimony 
+ 
+Page 35 
+ 
+ 
+ 
+5.  Customer Charges 
+ 
+J . P O L L O C K  
+I N C O R P O R A T E D  
+ 
+5. LARGE NON-RESIDENTIAL RATE DESIGN 
+Q 
+WHAT RATE DESIGN ISSUES DO YOU ADDRESS? 
+1 
+A 
+I address the design of CHG&E’s SC-3 and SC-13 (Electric) and SC-11 (Gas) delivery 
+2 
+rates.  Rate design is a continuation of the cost allocation process in that, once the 
+3 
+revenue responsibility for each service class is calculated, it is necessary to determine 
+4 
+how the rates for each individual class should be designed to produce the targeted 
+5 
+level of revenues.  Once again, I favor the adoption of cost-based rates.  Accordingly, 
+6 
+the applicable Customer and Demand charges (electric) and Minimum and Delivery 
+7 
+charges (gas) should reflect the appropriate customer- and non-customer-related 
+8 
+costs derived in the Rate Year ECOS Studies while avoiding rate shock.   
+9 
+SC-3 and SC-13 (Electric) 
+10 
+Q 
+HAVE YOU REVIEWED CHG&E’S PROPOSED SC-3 AND 13 (ELECTRIC) RATE 
+11 
+DESIGNS? 
+12 
+A 
+Yes.  CHG&E is proposing to increase the SC-3 Primary and SC-13 Transmission 
+13 
+Customer charges by 1.3% and 5.6%, respectively.  No change is being proposed to 
+14 
+the SC-13 Substation Customer charge.  These changes are summarized in Table 7.  
+15 
+Table 7 
+CHG&E’s Proposed Customer Charges  
+Service  
+Classification 
+Present 
+Rates 
+Proposed 
+Rates 
+Percent 
+Change 
+SC-3 Primary 
+$1,950 
+$1,975 
+1.3% 
+SC-13 Substation 
+$5,400 
+$5,400 
+0.0% 
+SC-13 Transmission 
+$9,000 
+$9,500 
+5.6% 
+Source:  Exhibit ____ (FRP-14), Schedules E and J.   
+
+
+--- Page 39 ---
+Jeffry Pollock 
+ 
+Direct Testimony 
+ 
+Page 36 
+ 
+ 
+ 
+5.  Customer Charges 
+ 
+J . P O L L O C K  
+I N C O R P O R A T E D  
+ 
+ Q 
+DO YOU AGREE WITH CHG&E’S PROPOSED CHANGES TO THE CUSTOMER 
+1 
+CHARGE? 
+2 
+A 
+No, not entirely.  The proposed SC-13 Customer charges do not reflect the customer-
+3 
+related costs as derived from the Rate Year Electric ECOS Study.  Table 8 compares 
+4 
+the Proposed Customer charges and the customer-related costs derived from 
+5 
+CHG&E’s Rate Year Electric ECOS Study.   
+6 
+Table 8 
+Proposed Customer Charges Versus 
+Customer-Related Costs 
+Service  
+Classification 
+Proposed 
+Customer 
+Charge 
+Customer- 
+Related  
+Costs 
+Percent  
+of Cost 
+SC-3 Primary 
+$1,975 
+$3,789 
+52% 
+SC-13 Substation 
+$5,400 
+$9,080 
+59% 
+SC-13 Transmission 
+$9,500 
+$40,122 
+24% 
+Sources:  Exhibit ____ (FRP-14), Schedules E and J.  Customer 
+costs were derived from Exhibit ___ (COSP-1), Schedule B. 
+ 
+As Table 8 demonstrates, the proposed SC-3 and SC-13 Customer charges would be 
+7 
+significantly below the appropriate cost-based Customer charges.   
+8 
+Q 
+ARE THE CUSTOMER CHARGES AS PROPOSED BY THE COMPANY 
+9 
+APPROPRIATE? 
+10 
+A 
+No.  A cost-based rate design should closely track the corresponding costs as derived 
+11 
+in an ECOS study.  Thus, Customer charges should closely reflect customer-related 
+12 
+costs.  This would not be the case under CHG&E’s proposed SC-3 and SC-13 rate 
+13 
+designs.  An increase in both the SC-3 and SC-13 Customer charges is both timely 
+14 
+and appropriate. 
+15 
+
+
+--- Page 40 ---
+Jeffry Pollock 
+ 
+Direct Testimony 
+ 
+Page 37 
+ 
+ 
+ 
+5.  Customer Charges 
+ 
+J . P O L L O C K  
+I N C O R P O R A T E D  
+ 
+Q 
+WHAT DO YOU RECOMMEND? 
+1 
+A 
+I recommend that the SC-3 and SC-13 Customer charges be increased by at least 
+2 
+twice the increase in the corresponding Demand charges.   
+3 
+Q 
+WOULD INCREASING THE CUSTOMER CHARGES BY AT LEAST TWICE THE 
+4 
+INCREASE IN THE CORRESPONDING DEMAND CHARGES CAUSE RATE 
+5 
+SHOCK? 
+6 
+A 
+No.  The Customer charge applicable to SC-3 and SC-13 customers is typically the 
+7 
+smallest portion of the total bill for delivery service.  The Demand charge is usually a 
+8 
+much more significant cost component.  Thus, increasing the SC-3 and SC-13 
+9 
+Customer charges by twice the increase in the corresponding Demand charges will 
+10 
+not result in rate shock to customers in those service classes.   
+11 
+SC-11 (Gas) 
+12 
+Q 
+IS THE COMPANY PROPOSING TO INCREASE THE SC-11 GAS MINIMUM 
+13 
+CHARGES? 
+14 
+A 
+Yes.  CHG&E is proposing to increase the SC-11 Minimum charges by $100 per 
+15 
+month.   
+16 
+Q 
+ARE THE MINIMUM CHARGES THE SAME AS A CUSTOMER CHARGE? 
+17 
+A 
+No.  The SC-11 Minimum charges include volumetric charges for between 1,200 and 
+18 
+1,800 Ccf.  Thus, the “effective” customer charges are lower.   
+19 
+
+
+--- Page 41 ---
+Jeffry Pollock 
+ 
+Direct Testimony 
+ 
+Page 38 
+ 
+ 
+ 
+5.  Customer Charges 
+ 
+J . P O L L O C K  
+I N C O R P O R A T E D  
+ 
+Q 
+IS THE COMPANY’S PROPOSED $100 PER MONTH INCREASE IN THE MINIMUM 
+1 
+CHARGES CONSISTENT WITH THE RESULTS OF ITS UPDATED RATE YEAR 
+2 
+GAS ECOS STUDY?  
+3 
+A 
+No.  The effective customer charge should reflect the customer-related costs derived 
+4 
+from the Rate Year Gas ECOS Study.  However, as shown in Table 9, the effective 
+5 
+SC-11 customer charges are substantially below the customer-related costs. 
+6 
+Table 9 
+Proposed Effective Customer Charges Versus 
+Customer-Related Costs 
+Service  
+Classification 
+Proposed 
+Customer-
+Related 
+Costs 
+Percent  
+Of Cost 
+SC-11DLM 
+$6,629 
+$11,556 
+57% 
+SC-11T 
+$3,382 
+$6,535 
+52% 
+SC-11D 
+$869 
+$1,159 
+75% 
+Source: Exhibit ____ (FRP-15), Schedule B.  Customer costs were  
+derived from the updated Rate Year Gas ECOS Study. 
+Q 
+IS CHG&E’S PROPOSED CHANGE TO THE SC-11 MINIMUM CHARGES 
+7 
+APPROPRIATE? 
+8 
+A 
+No.  A cost-based rate design should closely track the corresponding costs as derived 
+9 
+in a Gas ECOS study.  Thus, Minimum charges should closely reflect customer-related 
+10 
+costs.  This would not be the case under CHG&E’s proposed SC-11 rate design 
+11 
+because the Minimum charge would be substantially below the customer-related costs 
+12 
+allocated to the SC-11 classes.  Thus, the proposed $100 increase in the Minimum 
+13 
+charges is inadequate.   
+14 
+
+
+--- Page 42 ---
+Jeffry Pollock 
+ 
+Direct Testimony 
+ 
+Page 39 
+ 
+ 
+ 
+5.  Customer Charges 
+ 
+J . P O L L O C K  
+I N C O R P O R A T E D  
+ 
+Q 
+WHAT DO YOU RECOMMEND? 
+1 
+A 
+I recommend that the SC-11 Minimum charges be increased by at least $300 per 
+2 
+month.  It is important to remember that Minimum charges comprise a relatively small 
+3 
+portion of a large non-residential transportation customer’s delivery bill, particularly for 
+4 
+SC-11 customers.  Many, if not most, of these customers operate energy-intensive 
+5 
+businesses and such customers tend to be much more sensitive to increases in 
+6 
+volumetric charges.  Therefore, larger increases in the SC-11 Minimum charges would 
+7 
+not only be consistent with cost-based ratemaking, it would not result in rate shock. 
+8 
+
+
+--- Page 43 ---
+Jeffry Pollock 
+ 
+Direct Testimony 
+ 
+Page 40 
+ 
+ 
+ 
+6.  Revenue Decoupling Mechanism 
+ 
+J . P O L L O C K  
+I N C O R P O R A T E D  
+ 
+6. REVENUE DECOUPLING MECHANISM 
+Q 
+WHAT CHANGES ARE CHG&E PROPOSING TO ITS REVENUE DECOUPLING 
+1 
+MECHANISM IN THIS PROCEEDING? 
+2 
+A 
+CHG&E is proposing to extend the application of its electric RDM to SC-13 and to 
+3 
+extend the application of its gas RDM to SC-11.  It is also proposing to restructure the 
+4 
+gas RDM to emulate the structure of the current electric RDM.  Currently, SC-13 
+5 
+(electric) and SC-11 (gas) are not subject to the RDM. 
+6 
+Q 
+WHY IS CHG&E PROPOSING TO EXTEND THE RDM TO THESE SERVICE 
+7 
+CLASSES? 
+8 
+A 
+CHG&E states that recent changes have provided customers in these service classes 
+9 
+access to energy efficiency funding and, accordingly, they should be included in the 
+10 
+RDM.13 
+11 
+Q 
+DO YOU HAVE ANY CONCERNS ABOUT THE RDM? 
+12 
+A 
+Yes.  The proposed electric and gas RDMs are problematic, especially for the SC-13 
+13 
+(electric) and SC-11 (gas) classes.  CHG&E projects that the SC-13 classes will serve 
+14 
+only 15 customers in the aggregate, while the SC-11 classes will serve only five 
+15 
+customers in the aggregate.  Several very large SC-13 customers comprise 
+16 
+approximately 80% of the sales.  Under these circumstances, the gain or loss of a 
+17 
+single customer alone that would cause a variance between the delivery revenues 
+18 
+received and the established target delivery revenues would trigger a significant rate 
+19 
+adjustment to the remaining customers within the group. 
+20 
+                                               
+13  Direct Testimony of Forecasting and Rates Panel at 83-84. 
+
+
+--- Page 44 ---
+Jeffry Pollock 
+ 
+Direct Testimony 
+ 
+Page 41 
+ 
+ 
+ 
+6.  Revenue Decoupling Mechanism 
+ 
+J . P O L L O C K  
+I N C O R P O R A T E D  
+ 
+Q 
+HOW IS THE ELECTRIC RDM STRUCTURED? 
+1 
+A 
+The electric RDM establishes delivery revenue targets by month for each service 
+2 
+classification based on the Rate Years ending June 20, 2019, June 30, 2020, and June 
+3 
+30, 2021 as set forth in Case 17-E-0459, adjusted to exclude the New York Power 
+4 
+Authority’s ReCharge New York Program.14   
+5 
+Q 
+HOW IS THIS STRUCTURE DIFFERENT FROM THE GAS RDM? 
+6 
+A 
+The gas RDM establishes revenue per customer targets based on actual billed 
+7 
+revenue based on the revenue and customer forecasts as set forth in Case 17-G-0460 
+8 
+for the Rate Year ending June 30, 2021.  Merchant Function Charges are excluded.   
+9 
+Q 
+IS THE COMPANY PROPOSING TO CHANGE THE STRUCTURE OF ITS GAS 
+10 
+RDM? 
+11 
+A 
+Yes.  The Company is proposing to replace the current revenue per customer target 
+12 
+with a delivery revenue target.  Thus, if approved, both the electric and gas RDMs 
+13 
+would have the same structure.   
+14 
+Q 
+HOW WOULD A RATE ADJUSTMENT BE TRIGGERED UNDER THE PROPOSED 
+15 
+ELECTRIC AND GAS RDMS? 
+16 
+A 
+Under the proposed electric and gas RDMs, any cumulative variations between the 
+17 
+actual and target revenues over a six month period would be either refunded or 
+18 
+surcharged to customers.  Thus, rates would be automatically reduced or increased 
+19 
+for those service classifications subject to the RDM mechanisms.    
+20 
+                                               
+14  PSC No. 15 Electricity, Tariff Leaf No. 163.5.4. 
+
+
+--- Page 45 ---
+Jeffry Pollock 
+ 
+Direct Testimony 
+ 
+Page 42 
+ 
+ 
+ 
+6.  Revenue Decoupling Mechanism 
+ 
+J . P O L L O C K  
+I N C O R P O R A T E D  
+ 
+Q 
+SHOULD AN RDM ADJUSTMENT BE TRIGGERED AS A RESULT OF THE GAIN 
+1 
+OR LOSS OF CUSTOMERS? 
+2 
+A 
+No.  RDMs are designed to cushion the impact of energy efficiency programs on a 
+3 
+utility’s earnings, although it also reduces a utility’s risks associated with variations in 
+4 
+weather and business cycles.  An RDM should not be designed to recognize gains or 
+5 
+losses in the number of customers.  Customers come and go — the gain or loss of 
+6 
+customers is a risk that all delivery utilities should assume.  This is not a risk that 
+7 
+should be borne by customers.  This is especially true where the classes at issue have 
+8 
+an extremely-low number of customers.   
+9 
+I would note that in the current National Grid electric and gas rate proceeding, 
+10 
+the Staff Electric and Gas Rates Panel opposed extension of the utility’s gas RDM to 
+11 
+SC-5 and SC-8 firm transportation service classes because they had so few 
+12 
+customers.  Specifically, that Panel testified that: 
+13 
+…we recommend that the Company not expand the gas RDM to SC-5 
+14 
+and SC-8 classes due to the limited number of customers in those 
+15 
+service classes.  Since there are so few customers in these classes, 
+16 
+and since these customers may not always have consistent loads … 
+17 
+there is a risk of large RDM imbalances which could be detrimental to 
+18 
+the customers in these service classes.  Additionally, the delivery 
+19 
+service revenues to these customer classes make up only a small 
+20 
+portion of the Company’s gas delivery revenues and the Company has 
+21 
+been at risk for the revenue variations of these customers.15  
+22 
+In comparison to National Grid’s SC-5 and SC-8 (gas), Central Hudson’s SC-13 
+23 
+(electric) and SC-11 (gas) have far fewer numbers of customers.  
+24 
+                                               
+15  Cases 20-E-0380 and 20-G-0381, Proceeding on Motion of the Commission as to the Rates, 
+Charges, Rules, and Regulations of Niagara Mohawk Power Corporation d/b/a National Grid for Electric 
+and Gas Service, Direct Testimony of Staff Electric and Gas Rates Panel at 59-60 (Nov. 25, 2020). 
+
+
+--- Page 46 ---
+Jeffry Pollock 
+ 
+Direct Testimony 
+ 
+Page 43 
+ 
+ 
+ 
+6.  Revenue Decoupling Mechanism 
+ 
+J . P O L L O C K  
+I N C O R P O R A T E D  
+ 
+Q 
+WHAT DO YOU RECOMMEND? 
+1 
+A 
+The Commission should reject the Company’s proposal to extend the electric and gas 
+2 
+RDMs to the SC-13 and SC-11 classes.  The proposed RDMs could subject these 
+3 
+rates to substantial volatility, which is no fault of the affected customers.   
+4 
+ 
+ 
+If, notwithstanding my recommendation, the Commission approves extending 
+5 
+the RDMs to these classes, the Company’s proposal should be revised so that no 
+6 
+adjustment is triggered if the revenue variation is solely the result of the gain or loss of 
+7 
+customers.  This would ensure that CHG&E, and not its customers, bears the impact 
+8 
+of changes in the number of electric and gas customers.    
+9 
+
+
+--- Page 47 ---
+Jeffry Pollock 
+ 
+Direct Testimony 
+ 
+Page 44 
+ 
+ 
+ 
+7. Conclusion 
+ 
+J . P O L L O C K  
+I N C O R P O R A T E D  
+ 
+7. CONCLUSION 
+Q 
+PLEASE SUMMARIZE YOUR RECOMMENDATIONS. 
+1 
+A 
+The Commission should approve the following: 
+2 
+ 
+Modify CHG&E’s Electric ECOS studies by (i) allocating hydro costs based 
+3 
+on commodity energy purchases and not total delivered energy; (ii) 
+4 
+including the legacy generation revenues or, alternatively, removing the 
+5 
+legacy generation costs; (iii) using the summer CP method to allocate both 
+6 
+transmission lines and substations; and (iv) allocating deferred income tax 
+7 
+expense using the previously allocated plant-in-service balance.   
+8 
+ 
+Modify CHG&E’s Gas ECOS studies by (i) using consistent assumptions to 
+9 
+quantify the PDD demand for both the sales and transportation service 
+10 
+classes that determines the allocation of demand-related gas delivery 
+11 
+costs; (ii) allocating deferred income tax expense using the previously 
+12 
+allocated plant-in-service balance; and (iii) conducting an updated 
+13 
+minimum size study for use in its next rate case.   
+14 
+ 
+Use the results of the Rate Year ECOS Studies, as modified by MI’s 
+15 
+recommendations herein, and a 15% bandwidth to determine class 
+16 
+revenue allocation and adopt MI’s recommended electric and gas revenue 
+17 
+allocations.   
+18 
+ 
+Increase the SC-3 and SC-13 Customer charges by at least twice the 
+19 
+corresponding increase in the Demand charges.   
+20 
+ 
+Increase the SC-11D and SC-11T Minimum charges by at least $300 per 
+21 
+month.   
+22 
+ 
+Reject the proposal to extend the RDMs to the SC-13 (Electric) and SC-11 
+23 
+(Gas) classes, or, alternatively, revise CHG&E’s proposed RDMs to 
+24 
+exclude any revenue impacts due to any change in the number of SC-13 
+25 
+and SC-11 customers served.   
+26 
+Q 
+DOES THIS CONCLUDE YOUR DIRECT TESTIMONY? 
+27 
+A 
+Yes.   
+28 

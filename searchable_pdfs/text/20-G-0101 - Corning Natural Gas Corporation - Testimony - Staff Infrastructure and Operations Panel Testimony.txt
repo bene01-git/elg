@@ -1,0 +1,1782 @@
+--- Page 1 ---
+ 
+ 
+ 
+ 
+ 
+BEFORE THE 
+STATE OF NEW YORK 
+PUBLIC SERVICE COMMISSION 
+ 
+ 
+ 
+In the Matter of 
+ 
+Corning Natural Gas Corporation 
+ 
+Case 20-G-0101 
+ 
+June 2020 
+ 
+ 
+Prepared Testimony of: 
+ 
+Staff Infrastructure and 
+Operations Panel  
+ 
+Johanna Miller 
+Utility Engineering Specialist 3 
+ 
+John Vecchio 
+Utility Engineering Specialist 1 
+ 
+Office of Electric, Gas and 
+Water 
+State of New York 
+Department of Public Service 
+Three Empire State Plaza 
+Albany, New York 12223-1350 
+ 
+Keith Haugen 
+Utility Analyst 3  
+(Cyber-Security) 
+ 
+Office of Resilience and 
+Emergency Preparedness  
+State of New York 
+Department of Public Service 
+Three Empire State Plaza 
+Albany, New York 12223-1350
+
+
+--- Page 2 ---
+Case 20-G-0101 
+ 
+SIOP 
+ 
+ 
+1 
+ 
+Q. 
+Would the members of the Staff Infrastructure 
+1 
+and Operations Panel (Panel) please state your 
+2 
+names, employer, and business address. 
+3 
+A. 
+Johanna Miller, John Vecchio and Keith Haugen.  
+4 
+We are employed by the New York State Department 
+5 
+of Public Service (Department).  Our business 
+6 
+address is Three Empire State Plaza, Albany, New 
+7 
+York 12223. 
+8 
+Q. 
+Ms. Miller, what is your position at the 
+9 
+Department? 
+10 
+A. 
+I am a Utility Engineering Specialist 3, 
+11 
+currently assigned to the Downstate Rates and 
+12 
+Tariffs section in the Office of Electric, Gas 
+13 
+and Water. 
+14 
+Q. 
+Please summarize your education and professional 
+15 
+experience. 
+16 
+A. 
+I received a Bachelor of Science degree in 
+17 
+Mechanical Engineering from the University of 
+18 
+Delaware in 2008.  I joined the Department in 
+19 
+2008 as a Junior Engineer.  My responsibilities 
+20 
+at the Department involve the engineering 
+21 
+analysis of utility operations as they relate to 
+22 
+the ratemaking process, as well as reviewing 
+23 
+various other utility filings. 
+24 
+
+
+--- Page 3 ---
+Case 20-G-0101 
+ 
+SIOP 
+ 
+ 
+2 
+ 
+Q. 
+Have you filed testimony before the Public 
+1 
+Service Commission (Commission) in other 
+2 
+proceedings? 
+3 
+A. 
+Yes, I have previously testified in Central 
+4 
+Hudson Gas and Electric Corporation Cases 08-G-
+5 
+0888, 09-G-0589, and 17-G-0460; Corning Natural 
+6 
+Gas Corporation Cases 11-G-0280 and 16-G-0369; 
+7 
+Consolidated Edison Company of New York, Inc. 
+8 
+Cases 13-E-0030 and 16-G-0061; and Orange and 
+9 
+Rockland Utilities, Inc. Cases 14-G-0494 and 18-
+10 
+G-0068 regarding various rate design issues 
+11 
+including revenue allocation, rate design, 
+12 
+depreciation, capital expenditures, and net 
+13 
+plant. 
+14 
+Q. 
+Mr. Vecchio, what is your position at the 
+15 
+Department? 
+16 
+A. 
+I am a Utility Engineering Specialist 1, 
+17 
+currently assigned to the Downstate Rates and 
+18 
+Tariffs section in the Office of Electric, Gas 
+19 
+and Water. 
+20 
+Q. 
+Please provide a summary of your educational and 
+21 
+professional experience. 
+22 
+A. 
+I graduated from Alfred University in May 2018 
+23 
+with a Bachelor of Science Degree in Mechanical 
+24 
+
+
+--- Page 4 ---
+Case 20-G-0101 
+ 
+SIOP 
+ 
+ 
+3 
+ 
+Engineering.  I joined the Department in March 
+1 
+2019.  My responsibilities include reviewing 
+2 
+utility proposals such as cost of service 
+3 
+studies, revenue allocation, and rate design, 
+4 
+conducting analyses and then drafting reports 
+5 
+and/or testimony of my findings.     
+6 
+Q. 
+Have you testified before the Commission in 
+7 
+other proceedings? 
+8 
+A. 
+Yes, I have previously testified in KeySpan Gas 
+9 
+East Corporation d/b/a National Grid 19-G-0310; 
+10 
+Brooklyn Union Gas Company d/b/a National Grid 
+11 
+NY 19-G-0309; Rochester Gas and Electric 
+12 
+Corporation Case 19-G-0381; and New York State 
+13 
+Electric and Gas Corporation Case 19-G-0379 
+14 
+regarding various issues including revenue 
+15 
+forecasting, revenue allocation, and rate 
+16 
+design. 
+17 
+Q.   Mr. Haugen, Please summarize your education and 
+18 
+professional experience. 
+19 
+A. 
+I am employed by the as a Utility Analyst 3 – 
+20 
+Cyber Security, assigned to the Utility Security 
+21 
+section within the Office of Resilience and 
+22 
+Emergency Preparedness. 
+23 
+Q.   Please provide a summary of your educational and 
+24 
+
+
+--- Page 5 ---
+Case 20-G-0101 
+ 
+SIOP 
+ 
+ 
+4 
+ 
+professional experience. 
+1 
+A.   I earned a Bachelor of Science Degree in 
+2 
+Information Technology (IT) from Empire State 
+3 
+College.  I am also a Certified Information 
+4 
+Systems Security Professional and a Global 
+5 
+Information Assurance Certification Systems and 
+6 
+Network Auditor.  I have attended numerous cyber 
+7 
+security conferences, courses and workshops on 
+8 
+an ongoing basis.  My previous professional work 
+9 
+experience consists of five years as a computer 
+10 
+programmer for Newkirk Products, where I started 
+11 
+as a junior programmer and worked my way up to 
+12 
+senior programmer.  I also became supervisor of 
+13 
+my unit, overseeing the work of seven 
+14 
+programmers of varying skill levels.  Following 
+15 
+my employment at Newkirk, for two years, I 
+16 
+developed workflow applications for the Higher 
+17 
+Education Systems Corporation as an IT 
+18 
+Specialist 2. 
+19 
+Q.   Please describe your current duties with the 
+20 
+Utility Security section. 
+21 
+A.   My current responsibilities include conducting 
+22 
+cyber security vulnerability assessments of 
+23 
+critical facilities and corporate IT systems 
+24 
+
+
+--- Page 6 ---
+Case 20-G-0101 
+ 
+SIOP 
+ 
+ 
+5 
+ 
+owned and operated by the energy, gas, 
+1 
+telecommunications and water utilities. 
+2 
+Q. 
+Have you previously testified before the 
+3 
+Commission? 
+4 
+A. 
+Yes.  I testified in Cases 19-G-0309 and 19-G-
+5 
+0309, Brooklyn Union Gas Company, d/b/a National 
+6 
+Grid NY and KeySpan Gas East Corporation, d/b/a 
+7 
+National Grid regarding cyber security related 
+8 
+capital expenditures and operation and 
+9 
+maintenance programs. 
+10 
+Summary of Testimony 
+11 
+Q. 
+Panel, what is the purpose of your testimony in 
+12 
+this proceeding? 
+13 
+A. 
+The purpose of our testimony is to address: (1) 
+14 
+the gas capital expenditures proposed by Corning 
+15 
+Natural Gas Corporation (Corning or the 
+16 
+Company); (2) depreciation rates; (3) the 
+17 
+development of net plant and depreciation 
+18 
+expenses; (4) the continuation of the net plant 
+19 
+reconciliation mechanism; (5) capital 
+20 
+expenditure reporting requirements; and, (6) 
+21 
+Corning’s proposed operations and maintenance 
+22 
+(O&M) expense.  Specifically, we recommend 
+23 
+adjustments to the spending levels for the 
+24 
+
+
+--- Page 7 ---
+Case 20-G-0101 
+ 
+SIOP 
+ 
+ 
+6 
+ 
+Company’s proposed capital programs, which will 
+1 
+impact not only revenue requirement but also the 
+2 
+net plant-in-service balances and depreciation 
+3 
+expenses.  Our adjustments reflect the level of 
+4 
+capital additions we believe the Company 
+5 
+justified in its initial and updated testimony, 
+6 
+as well as through responses to requests for 
+7 
+information during the discovery phase of this 
+8 
+proceeding. 
+9 
+Q. 
+Did you rely on any information produced during 
+10 
+the discovery phase of this proceeding? 
+11 
+A. 
+Yes, we relied on responses to numerous 
+12 
+interrogatory requests, or IRs, which are in 
+13 
+Exhibit __ (SIOP-1). 
+14 
+Q. 
+Is the Panel sponsoring any other exhibits? 
+15 
+A. 
+Yes, we are also sponsoring the following 
+16 
+exhibits:  Exhibit __ (SIOP-2) contains the 
+17 
+Panel’s recommended capital expenditures; 
+18 
+Exhibit __ (SIOP-3) contains the Panel’s 
+19 
+recommended depreciation accrual rates; Exhibit 
+20 
+__ (SIOP-4) contains the Panel’s recommended net 
+21 
+plant; and Exhibit __ (SIOP-5) contains an 
+22 
+example of the net plant reconciliation 
+23 
+mechanism. 
+24 
+
+
+--- Page 8 ---
+Case 20-G-0101 
+ 
+SIOP 
+ 
+ 
+7 
+ 
+Capital Expenditures 
+1 
+Q. 
+Please explain the scope of the Panel’s review 
+2 
+of the Company’s proposed capital programs and 
+3 
+projects. 
+4 
+A. 
+We are testifying to the level of capital 
+5 
+spending for the Rate Year (RY), which is the 
+6 
+twelve months ending January 31, 2022.  
+7 
+Therefore, we reviewed all projects proposed for 
+8 
+calendar years (CY) 2021 and 2022.  The Company 
+9 
+also addressed capital expenditures for CY 2023 
+10 
+and CY 2024, and we have reviewed these capital 
+11 
+budgets as well and provide recommendations so 
+12 
+to inform the Commission as to what it might 
+13 
+expect in subsequent rate cases if it only sets 
+14 
+rates for the RY.  We also discuss the plant-in-
+15 
+service balances that should be used in setting 
+16 
+rates for the RY.  As part of our review, we 
+17 
+examined the capital budget forecasts from both 
+18 
+an overall perspective, comparing the proposals 
+19 
+to historic expenditures, as well as on a 
+20 
+project-by-project basis.  Additionally, we met 
+21 
+with Company personnel to discuss the scope and 
+22 
+timing of the Company’s capital projects.      
+23 
+Q. 
+Please state the level of capital expenditures 
+24 
+
+
+--- Page 9 ---
+Case 20-G-0101 
+ 
+SIOP 
+ 
+ 
+8 
+ 
+Corning proposes in the RY. 
+1 
+A. 
+Corning’s Exhibit___(CNG-8), Schedule 1, 
+2 
+presents proposed projects and capital 
+3 
+expenditure levels for CY 2020 through 2024.  In 
+4 
+Corning’s May 12, 2020 update filing, the 
+5 
+Company proposed revised capital expenditure 
+6 
+levels.  The Company’s update filing also 
+7 
+addresses the impact of the COVID-19 pandemic on 
+8 
+the Company’s operations and the resulting 
+9 
+delays to Corning’s forecasted capital 
+10 
+expenditures.  As a result, approximately $1.427 
+11 
+million in CY 2020 capital spending was delayed.   
+12 
+ 
+Therefore, Corning’s current proposed capital 
+13 
+expenditure levels are $4,517,539 for CY 2020, 
+14 
+$5,563,905 for CY 2021, $6,072,446 for CY 2022, 
+15 
+$4,814,118 for CY 2023, and $4,533,309 for CY 
+16 
+2024.  The Company’s proposed capital 
+17 
+expenditures for the RY is approximately 
+18 
+$5,574,076.   
+19 
+Q. 
+What is the level of capital expenditures this 
+20 
+Panel recommends for calendar years 2020 through 
+21 
+2024 and in the RY? 
+22 
+A. 
+We recommend a total capital budget of 
+23 
+approximately $4,517,539 for CY 2020, $5,264,489 
+24 
+
+
+--- Page 10 ---
+Case 20-G-0101 
+ 
+SIOP 
+ 
+ 
+9 
+ 
+for CY 2021, $6,277,667 million for CY 2022, 
+1 
+$4,736,359 million for CY 2023, and $4,548,643 
+2 
+million for CY 2024.  The total capital budget 
+3 
+we recommend for the RY is approximately 
+4 
+$5,436,882, or $137,194 lower than Corning’s 
+5 
+proposal. 
+6 
+Q. 
+How does the Company categorize its capital 
+7 
+budget? 
+8 
+A. 
+As shown in Exhibit___(CNG-8), Schedule 1, 
+9 
+Corning categorizes its capital budget into 
+10 
+fourteen project categories which include: 
+11 
+services, meters and regulators, distribution 
+12 
+main, high pressure distribution main, 
+13 
+distribution main extensions, cathodic 
+14 
+protection, SCADA, meter and regulator stations, 
+15 
+transportation equipment, tools and equipment, 
+16 
+safety and training, general office, IT 
+17 
+equipment, and major projects.   
+18 
+Q. 
+Under which project categories is the Panel 
+19 
+recommending adjustments to the Company’s 
+20 
+proposed spending levels? 
+21 
+A. 
+Based on our review, we recommend adjustments to 
+22 
+the following project categories: services, 
+23 
+distribution main, and general office. 
+24 
+
+
+--- Page 11 ---
+Case 20-G-0101 
+ 
+SIOP 
+ 
+ 
+10 
+ 
+Q. 
+What adjustments does the Panel recommend to the 
+1 
+services project category? 
+2 
+A. 
+We recommend adjustments to Project 1.2 for 
+3 
+systematic replacement of services. 
+4 
+Q. 
+Please explain Project 1.2 and how the Company 
+5 
+developed its budget.   
+6 
+A. 
+As described by Company Witness Cook on page 4 
+7 
+of his direct testimony, Project 1.2 relates to 
+8 
+service lines replaced as part of the Company’s 
+9 
+bare steel services replacement program.  
+10 
+Beginning in CY 2021, the Company plans to 
+11 
+replace 200-270 bare and unprotected service 
+12 
+lines per year.  However, the Company reflected 
+13 
+a higher number of service line replacements per 
+14 
+year in its proposed capital budget.  To develop 
+15 
+the annual forecasted spending for Project 1.2, 
+16 
+the Company first developed a unit cost of 
+17 
+$2,500 for leak prone service replacements based 
+18 
+on historic actual spending, as shown in the 
+19 
+response to DPS-96 (Exhibit___(SIOP-1)).  The 
+20 
+Company then multiplied the unit cost by the 
+21 
+forecasted number of leak prone service lines to 
+22 
+be replaced per year to develop the total annual 
+23 
+budget.  A two percent inflation factor was 
+24 
+
+
+--- Page 12 ---
+Case 20-G-0101 
+ 
+SIOP 
+ 
+ 
+11 
+ 
+applied to the unit cost each year.  This 
+1 
+resulted in the following proposed budgets for 
+2 
+service line replacements: $812,636 in CY 2021, 
+3 
+$637,607 in CY 2022, $845,466 in CY 2023, 
+4 
+$862,376 in CY 2024.  
+5 
+Q. 
+Does the Panel agree with the Company’s proposed 
+6 
+budget for service replacements? 
+7 
+A. 
+We agree with Corning’s proposed unit cost for 
+8 
+leak prone service replacements; however, we 
+9 
+have reflected the Staff Gas Pipeline Safety 
+10 
+Panel’s recommendation of 250 leak prone service 
+11 
+replacements per year in our calculation of the 
+12 
+total cost of leak prone service replacements, 
+13 
+as shown in Exhibit___(SIOP-2).  Therefore, we 
+14 
+recommend the following budgets for service line 
+15 
+replacements: $625,105 in CY 2021, $637,607 in 
+16 
+CY 2022, $650,359 in CY 2023, $663,366 in CY 
+17 
+2024.  
+18 
+Q. 
+What adjustments does the Panel recommend to the 
+19 
+distribution main project category? 
+20 
+A. 
+We recommend adjustments to Project 3.2 for 
+21 
+systematic replacement of distribution mains. 
+22 
+Q. 
+Please explain Project 3.2 and how the Company 
+23 
+developed its budget. 
+24 
+
+
+--- Page 13 ---
+Case 20-G-0101 
+ 
+SIOP 
+ 
+ 
+12 
+ 
+A. 
+As described by Company witness Cook in his 
+1 
+direct testimony on page 14, Corning proposes to 
+2 
+continue its leak prone pipe (LPP) replacement 
+3 
+program by replacing bare and coated/unprotected 
+4 
+main remaining on its system.  The Company’s 
+5 
+proposed LPP replacement targets are as follows: 
+6 
+9.6 miles in CY 2021, 8.6 miles in CY 2022, and 
+7 
+8.6 miles in CY 2023.  These LPP replacement 
+8 
+targets are the sum of all distribution main 
+9 
+replacement work and any high-pressure 
+10 
+distribution main replacement work.  To forecast 
+11 
+the annual spending for distribution main 
+12 
+replacement, the Company first developed a cost 
+13 
+per foot for distribution main replacement of 
+14 
+$33.96 based on historic actual spending, as 
+15 
+shown in response to DPS-97 (Exhibit___(SIOP-
+16 
+1)).  The Company then multiplied the cost per 
+17 
+foot by the forecasted number of feet of 
+18 
+distribution main to be replaced per year to 
+19 
+develop the total annual budget.  A two percent 
+20 
+inflation factor was applied to the cost per 
+21 
+foot each year.  This resulted in the following 
+22 
+proposed budgets: $1,452,222 in CY 2021, 
+23 
+$841,213 in 2022, $1,324,362 in 2023, and 
+24 
+
+
+--- Page 14 ---
+Case 20-G-0101 
+ 
+SIOP 
+ 
+ 
+13 
+ 
+$1,350,849 in 2024. 
+1 
+Q. 
+Does the Panel agree with the Company’s proposed 
+2 
+budget for distribution main replacement? 
+3 
+A. 
+We agree with Corning’s proposed cost per foot 
+4 
+for distribution main replacement; however, we 
+5 
+have reflected the Staff Gas Pipeline Safety 
+6 
+Panel’s recommendation of ten miles of LPP 
+7 
+replaced per year in our calculation of the 
+8 
+total cost of distribution main and high 
+9 
+pressure distribution main replacement, as shown 
+10 
+in Exhibit___(SIOP-2).  Since this target 
+11 
+includes the total combined replacement of 
+12 
+distribution main and high-pressure distribution 
+13 
+main, we adjusted the total number of feet of 
+14 
+distribution main to be replaced each year for 
+15 
+Corning to meet the replacement target of ten 
+16 
+miles per year.  Therefore, we recommend the 
+17 
+following budgets for distribution main 
+18 
+replacement: $1,523,937 in CY 2021, $1,097,234 
+19 
+in 2022, $1,492,239 in 2023, $1,617,214 in 2024. 
+20 
+Q. 
+What adjustments does the Panel recommend to the 
+21 
+General Office project category? 
+22 
+A. 
+We recommend adjustments to Project 12.2 for 
+23 
+parking lot refurbishment and Project 12.6 for 
+24 
+
+
+--- Page 15 ---
+Case 20-G-0101 
+ 
+SIOP 
+ 
+ 
+14 
+ 
+roof and skylight replacement. 
+1 
+Q. 
+Please explain Project 12.2 and the Company’s 
+2 
+proposed budget. 
+3 
+A. 
+In Mr. Cook’s testimony on page 19, Corning 
+4 
+proposes to refurbish its service center parking 
+5 
+lots, which include customer parking, employee 
+6 
+parking, garage and warehouse parking and 
+7 
+driveways due to their age and deteriorating 
+8 
+condition.  The Company proposes $50,000 in CY 
+9 
+2021, $51,000 in CY 2022, and $52,020 in CY 2023 
+10 
+for Project 12.2.  
+11 
+Q. 
+What adjustment is the Panel recommending for 
+12 
+Project 12.2? 
+13 
+A. 
+In the 2017 Rate Order in Case 16-G-0369, the 
+14 
+Commission approved funding in CYs 2017 through 
+15 
+2019 for Corning to refurbish the same parking 
+16 
+lots and driveways.  As stated in response to 
+17 
+DPS-334 (Exhibit___(SIOP-1)), the Company did 
+18 
+not perform this work and redirected these funds 
+19 
+to other capital projects.  Since Corning has 
+20 
+yet to quote this work to date, we do not 
+21 
+believe the Company will perform the parking lot 
+22 
+refurbishment in the RY and, therefore, 
+23 
+recommend that the Commission deny funding 
+24 
+
+
+--- Page 16 ---
+Case 20-G-0101 
+ 
+SIOP 
+ 
+ 
+15 
+ 
+associated with Project 12.2 from the capital 
+1 
+budget.   
+2 
+Q. 
+Please explain Project 12.6 and the Company’s 
+3 
+proposed budget. 
+4 
+A. 
+In Mr. Cook’s testimony on page 17, Corning 
+5 
+proposes to replace the roofs of some of the 
+6 
+Company’s facilities.  Specifically, Project 
+7 
+12.6 includes the replacement of the warehouse 
+8 
+roof in CY 2020 and the office roof in CY 2021.  
+9 
+The replacement of the warehouse roof includes 
+10 
+the removal of the old roof, replacement of 
+11 
+insulation as needed, replacement of skylights 
+12 
+as needed, and the installation of the new roof.  
+13 
+The replacement of the office roof includes 
+14 
+removal of the old roof, an additional layer of 
+15 
+insulation installed to bring the building up to 
+16 
+current codes, the replacement of three 
+17 
+skylights, and the installation of the new roof.  
+18 
+The cost estimates were based on a vendor quote 
+19 
+provided in response to DPS-335 
+20 
+(Exhibit___(SIOP-1)).    
+21 
+Q. 
+What does the Panel recommend for Project 12.6, 
+22 
+roof and skylight replacement? 
+23 
+A. 
+In the 2017 Rate Order, the Commission approved 
+24 
+
+
+--- Page 17 ---
+Case 20-G-0101 
+ 
+SIOP 
+ 
+ 
+16 
+ 
+funding in CYs 2018 and 2019 for roof and 
+1 
+skylight replacement, which included the 
+2 
+warehouse roof previously identified.   As 
+3 
+stated in response to DPS-335 (Exhibit___(SIOP-
+4 
+1)), the Company did not perform the warehouse 
+5 
+roof replacement and redirected these funds to 
+6 
+other capital projects.  Since the Company was 
+7 
+previously provided funding and did not complete 
+8 
+the scheduled work, we recommend the Commission 
+9 
+deny the requested funding associated with the 
+10 
+warehouse roof from the capital budget.  This 
+11 
+results in a budget reduction of $180,000 in CY 
+12 
+2021 for Project 12.6. 
+13 
+Q. 
+Does the Panel have any additional adjustments 
+14 
+to Corning’s proposed General Office budget? 
+15 
+A. 
+Yes, based on the Staff Gas Pipeline Safety 
+16 
+Panel’s recommendation, we have included 
+17 
+additional capital funding of $78,000 in CY 2021 
+18 
+for a gas training center listed as Project 12.7 
+19 
+in Exhibit___(SIOP-2).    
+20 
+Depreciation 
+21 
+Q. 
+Panel, please explain the terms “net salvage” 
+22 
+and “depreciation”, as they are used in 
+23 
+ratemaking. 
+24 
+
+
+--- Page 18 ---
+Case 20-G-0101 
+ 
+SIOP 
+ 
+ 
+17 
+ 
+A. 
+Net salvage is any cash received for an asset 
+1 
+removed from service, less the cost to remove 
+2 
+it.  Depreciation is a method of recovering 
+3 
+capital cost, less net salvage, related to plant 
+4 
+in service over the plant’s expected useful 
+5 
+life. 
+6 
+Q. 
+Please explain the term “average service life”. 
+7 
+A. 
+The average service life is the time period, in 
+8 
+years, over which the original cost of plant 
+9 
+should be depreciated.   
+10 
+Q. 
+Please define “depreciation rate” and 
+11 
+“depreciation expense”. 
+12 
+A. 
+A depreciation rate is a percentage rate applied 
+13 
+to the gross plant in service, by account, to 
+14 
+determine the annual depreciation expense.  The 
+15 
+annual depreciation expense is the product of 
+16 
+gross plant-in-service and the applicable 
+17 
+depreciation rate and allows for the recovery of 
+18 
+an investment, less net salvage, over the 
+19 
+expected life of the investment. 
+20 
+Q. 
+Did Corning file a depreciation study in this 
+21 
+proceeding? 
+22 
+A. 
+Yes, the Company performed a depreciation study 
+23 
+as presented in the testimony of Paul M. Normand 
+24 
+
+
+--- Page 19 ---
+Case 20-G-0101 
+ 
+SIOP 
+ 
+ 
+18 
+ 
+- Depreciation.  The Company’s proposed 
+1 
+depreciation accrual rates are shown in 
+2 
+Exhibit___(CNG-11, Schedule A).   
+3 
+Q. 
+How are depreciation rates calculated? 
+4 
+A. 
+Depreciation rates are calculated differently 
+5 
+depending on the depreciation system used.  Each 
+6 
+system is composed of a method, a procedure, and 
+7 
+a technique.   
+8 
+Q. 
+What depreciation system did Corning use for its 
+9 
+plant accounts? 
+10 
+A. 
+Corning’s accrual rates were developed by using 
+11 
+a straight-line method, broad group average 
+12 
+service life procedure, and a whole life 
+13 
+depreciation technique. 
+14 
+Q. 
+Please explain how the depreciation rate is 
+15 
+calculated following the whole life technique.   
+16 
+A. 
+Under the whole life technique, the depreciation 
+17 
+rate is calculated using the following formula: 
+18 
+Rate = (1-Net Salvage)/(Average Service Life).  
+19 
+The rate is then multiplied by the gross plant 
+20 
+to obtain the depreciation expense for 
+21 
+ratemaking purposes.  Composite rates are then 
+22 
+calculated, which are weighted average rates 
+23 
+based on gross plant in service as of a specific 
+24 
+
+
+--- Page 20 ---
+Case 20-G-0101 
+ 
+SIOP 
+ 
+ 
+19 
+ 
+date.  In this proceeding, the Company used the 
+1 
+plant balances as of December 31, 2018.      
+2 
+Q. 
+Does the Panel agree with the depreciation rates 
+3 
+proposed by Corning? 
+4 
+A. 
+After analyzing the data in the depreciation 
+5 
+study, we agree with Corning’s proposed 
+6 
+depreciation rates provided in Exhibit___(CNG-
+7 
+11, Schedule A), except for those associated 
+8 
+with LPP.   
+9 
+Q. 
+Did Corning include any additional depreciation 
+10 
+proposals? 
+11 
+A. 
+Yes, the Company proposes to amortize the 
+12 
+remaining plant balances associated with LPP 
+13 
+over seven years.   
+14 
+Q. 
+Does the Panel agree with Corning’s proposal?   
+15 
+A. 
+Yes, we agree with amortizing the remaining LPP 
+16 
+plant balance over the time period of expected 
+17 
+removal, which, for Corning, is approximately 
+18 
+seven years.  Doing so will limit any 
+19 
+intergenerational inequity and reduce rate base 
+20 
+for assets that are no longer used and useful.  
+21 
+However, we disagree with the Company’s 
+22 
+calculation of the net salvage factor for LPP. 
+23 
+Q. 
+How did Corning propose to calculate the net 
+24 
+
+
+--- Page 21 ---
+Case 20-G-0101 
+ 
+SIOP 
+ 
+ 
+20 
+ 
+salvage factor for LPP? 
+1 
+A. 
+As shown in response to DPS-196 
+2 
+(Exhibit___(SIOP-1)), the Company calculated the 
+3 
+net salvage for mains and services on an annual 
+4 
+basis from 2011 through 2018.  The net salvage 
+5 
+factor was then calculated as a ratio of the net 
+6 
+salvage to the original cost of the plant 
+7 
+retired.  The Company then used the net salvage 
+8 
+factor calculated over three different time 
+9 
+periods to estimate a final net salvage factor 
+10 
+of -125 for mains and -200 for services.     
+11 
+Q. 
+How does the Panel recommend the net salvage 
+12 
+percentage for LPP be calculated? 
+13 
+A. 
+We agree with the Company’s general calculation 
+14 
+of the net salvage factor; however, based on the 
+15 
+Company’s response to DPS-321 (Exhibit___(SIOP-
+16 
+1)), we excluded the retirements of mains and 
+17 
+services for CY 2016 due to the anomaly caused 
+18 
+by the Company’s implementation of a new fixed 
+19 
+asset system module.  Because of this new 
+20 
+system, cost of removal close outs to plant were 
+21 
+not recorded in 2016.  Therefore, we believe the 
+22 
+2016 data should be excluded from the net 
+23 
+salvage factor calculation, resulting in a net 
+24 
+
+
+--- Page 22 ---
+Case 20-G-0101 
+ 
+SIOP 
+ 
+ 
+21 
+ 
+salvage factor of -100 for mains and -150 for 
+1 
+services.  
+2 
+Q. 
+Did the Company make any additional depreciation 
+3 
+proposals? 
+4 
+A. 
+Yes, as discussed in Company witness Sarhangi’s 
+5 
+testimony on page 6 and witness Normand’s 
+6 
+testimony on page 14, for asset classes with 
+7 
+average service lives greater than 30 years, the 
+8 
+Company proposes to reduce the service lives of 
+9 
+these assets to 30 years for the calculation of 
+10 
+depreciation expense.  The Company states that 
+11 
+this proposal is based on the Climate Leadership 
+12 
+and Community Protection Act (CLCPA).  The 
+13 
+Company’s proposed depreciation rates are 
+14 
+presented in Exhibit___(CNG-11, Schedule C).   
+15 
+Q. 
+Does the Panel agree with the Company’s 
+16 
+proposal? 
+17 
+A. 
+No, we believe it is premature to make any major 
+18 
+change to the average service lives over which 
+19 
+gas assets are depreciated, other than LPP, due 
+20 
+to the potential for large bill impacts to 
+21 
+customers and the uncertainty regarding how 
+22 
+CLCPA will be implemented.  In addition, the 
+23 
+CLCPA’s implementation process requires that the 
+24 
+
+
+--- Page 23 ---
+Case 20-G-0101 
+ 
+SIOP 
+ 
+ 
+22 
+ 
+New York Climate Action Council prepare a 
+1 
+scoping plan to achieve the goals of the CLCPA.  
+2 
+That scoping plan is expected two years after 
+3 
+the effective date of the CLCPA, which is in 
+4 
+July 2021, so at this time, we do not know what 
+5 
+the scoping plan will recommend regarding the 
+6 
+beneficial electrification of space and water 
+7 
+heating (CLCPA §75-0103(13)). 
+8 
+Q. 
+What depreciation rates does the Panel 
+9 
+recommend?  
+10 
+A. 
+Our depreciation accrual rates are presented in 
+11 
+Exhibit___(SIOP-3).  
+12 
+Utility Plant-in-Service 
+13 
+Q. 
+Please state the level of net plant and 
+14 
+depreciation expense Corning proposes in the RY. 
+15 
+A. 
+As shown in revised Exhibit___(CNG-4), Schedule 
+16 
+1, Corning witness Sarhangi proposes a RY net 
+17 
+plant amount of $71,732,896 and $4,981,044 of 
+18 
+depreciation expense.  
+19 
+Q. 
+How did the Panel develop its forecast for gross 
+20 
+plant, depreciation reserve, and depreciation 
+21 
+expense? 
+22 
+A. 
+We utilized Company workpapers and the response 
+23 
+to DPS-236 (Exhibit___(SIOP-1)) to develop our 
+24 
+
+
+--- Page 24 ---
+Case 20-G-0101 
+ 
+SIOP 
+ 
+ 
+23 
+ 
+net plant model to forecast gross plant, 
+1 
+depreciation reserve, and depreciation expense. 
+2 
+Q. 
+What is the net plant model? 
+3 
+A. 
+The net plant model is a forecasting model that 
+4 
+uses the latest available plant and depreciation 
+5 
+reserve balances, while incorporating the 
+6 
+forecasts of capital expenditures, plant 
+7 
+additions, depreciation rates, removal costs, 
+8 
+and net salvage to determine the net plant and 
+9 
+depreciation expense for the RY. 
+10 
+Q. 
+Does the Panel’s net plant model roll the gross 
+11 
+plant and the depreciation reserve forward on a 
+12 
+month to month basis? 
+13 
+A. 
+Yes.  Our model rolls the plant forward 
+14 
+incorporating the forecasted plant additions, 
+15 
+retirements, cost of removal, and net salvage 
+16 
+using the actual plant and depreciation reserve 
+17 
+balances as of April 30, 2020, provided in 
+18 
+response to DPS-362 (Exhibit___(SIOP-1)). 
+19 
+Q. 
+Did you incorporate your recommended 
+20 
+depreciation rates? 
+21 
+A. 
+Yes, as shown in Exhibit___(SIOP-3), we 
+22 
+reflected our recommended depreciation rates, in 
+23 
+the net plant model. 
+24 
+
+
+--- Page 25 ---
+Case 20-G-0101 
+ 
+SIOP 
+ 
+ 
+24 
+ 
+Q. 
+What is the effect of your net plant 
+1 
+adjustments? 
+2 
+A. 
+After incorporating our recommended changes to 
+3 
+Corning’s capital budget forecast and 
+4 
+depreciation rates, our recommended RY net plant 
+5 
+is $70,163,767 million or $1,569,129 million 
+6 
+lower than Corning’s proposal, and our 
+7 
+recommended depreciation expense is $2,525,056 
+8 
+million or $2,455,988 million lower than 
+9 
+Corning’s proposal, as shown in 
+10 
+Exhibit____(SIOP-4).   
+11 
+Net Plant Reconciliation Mechanism 
+12 
+Q. 
+Does the Panel recommend the implementation of a 
+13 
+downward only net plant reconciliation mechanism 
+14 
+in this case? 
+15 
+A. 
+Yes.  The Commission approved a downward only 
+16 
+reconciliation mechanism in the 2017 Rate Order.  
+17 
+We recommend that this reconciliation mechanism 
+18 
+continue in the RY.  We recommend that the 
+19 
+Company be required to defer for the benefit of 
+20 
+customers, the revenue requirement impact of the 
+21 
+amount by which the Company’s actual 
+22 
+expenditures for gas capital programs and 
+23 
+projects result in actual average net plant that 
+24 
+
+
+--- Page 26 ---
+Case 20-G-0101 
+ 
+SIOP 
+ 
+ 
+25 
+ 
+is less than the amount included in the gas net 
+1 
+plant balances included in our Exhibit___(SIOP-
+2 
+5).   
+3 
+Q. 
+Why does the Panel recommend that the mechanism 
+4 
+continue to be a one-way downward-only true up 
+5 
+mechanism? 
+6 
+A. 
+Customers provide a return on a forecasted level 
+7 
+of capital expenditures.  The downward only 
+8 
+mechanism protects customers if the Company were 
+9 
+to under-spend its capital budget or if there is 
+10 
+significant slippage, or delay, in closing 
+11 
+projects to plant-in-service.  Since the Company 
+12 
+has full control over capital expenditures, 
+13 
+there is no need to protect the Company from 
+14 
+over-spending.   
+ 
+15 
+Reporting Requirements 
+16 
+Q. 
+What does the Panel recommend regarding capital 
+17 
+expenditure and variance reporting requirements? 
+18 
+A. 
+It is important for Staff and the Commission to 
+19 
+monitor the Company’s capital work.  To that 
+20 
+end, we recommend that the Company be required 
+21 
+to make regular annual report filings with this 
+22 
+information submitted to the Secretary to the 
+23 
+Commission within 45 days after the end of each 
+24 
+
+
+--- Page 27 ---
+Case 20-G-0101 
+ 
+SIOP 
+ 
+ 
+26 
+ 
+calendar year. 
+1 
+Q. 
+What information does the Panel recommend the 
+2 
+Company be required to include in these annual 
+3 
+reports? 
+4 
+A. 
+We recommend that the Commission require that 
+5 
+these reports include: (1) a final variance 
+6 
+summary of capital expenditures for all capital 
+7 
+projects and programs including all on-going and 
+8 
+active construction projects and programs; (2) a 
+9 
+narrative explaining any cost or timeline 
+10 
+differences from estimated costs in the 
+11 
+project’s white paper; (3) a narrative on 
+12 
+project design, permitting and or construction 
+13 
+status, including a detailed construction 
+14 
+schedule for each project, for any ongoing 
+15 
+projects; and, (4) a description of any new 
+16 
+projects or programs with, at minimum, 
+17 
+information that is provided in a white paper. 
+18 
+Operation and Maintenance Expense 
+19 
+Q. 
+Panel, turning to O&M expense, the Company is 
+20 
+seeking funds for cyber-security.  Has Corning 
+21 
+recently experienced any cyber-security threats?  
+22 
+A. 
+Yes, as described by Company witness Russell S. 
+23 
+Miller on page 14 of his testimony, in December 
+24 
+
+
+--- Page 28 ---
+Case 20-G-0101 
+ 
+SIOP 
+ 
+ 
+27 
+ 
+2019 Corning was a victim of a ransomware attack 
+1 
+on the Company’s accounting and customer service 
+2 
+systems.  This attack left the systems 
+3 
+inoperable for four days.   
+4 
+Q. 
+Does the Company propose any changes due to this 
+5 
+event? 
+6 
+A. 
+Yes.  The Company proposes to hire and train two 
+7 
+additional full-time employees (FTE).  These two 
+8 
+IT technicians would be responsible for learning 
+9 
+Corning’s internal systems, supporting daily 
+10 
+operations, and acting as a tiger team to 
+11 
+optimize the Company’s response to internal and 
+12 
+external IT and cyber-security incidents.  
+13 
+Corning anticipates hiring the first FTE before 
+14 
+September 2020 and the second FTE before June 
+15 
+2021.   
+16 
+Q. 
+What level of O&M expense is the Company 
+17 
+requesting for these FTEs? 
+18 
+A. 
+In the direct testimony of Russell Miller on 
+19 
+page 15, the Company is requesting $100,000 per 
+20 
+year for each FTE.  
+21 
+Q. 
+Does the Panel agree with the Company’s O&M 
+22 
+proposal? 
+23 
+A. 
+We agree with the Company’s proposal to hire an 
+24 
+
+
+--- Page 29 ---
+Case 20-G-0101 
+ 
+SIOP 
+ 
+ 
+28 
+ 
+additional two IT technicians.  The recovery of 
+1 
+Corning’s system after the ransomware attack 
+2 
+took four days.  If not for the diligent 
+3 
+response of the Company’s single IT technician, 
+4 
+the recovery of Corning’s systems would have 
+5 
+taken significantly longer.  Having only one 
+6 
+full-time IT technician creates a single point 
+7 
+of failure, putting critical customer and 
+8 
+utility services at an unacceptable level of 
+9 
+risk.  However, in response to DPS-370 
+10 
+(Exhibit___(SIOP-1), the Company states that one 
+11 
+of these IT positions has been filled by a 
+12 
+consultant at a cost of $72,000 per year.  
+13 
+Therefore, the Staff Accounting Panel has 
+14 
+reflected the O&M expense associated with the 
+15 
+one additional FTE and one IT consultant.     
+16 
+Q. 
+Does this conclude the Panel’s testimony at this 
+17 
+time? 
+18 
+A. 
+Yes.  
+19 

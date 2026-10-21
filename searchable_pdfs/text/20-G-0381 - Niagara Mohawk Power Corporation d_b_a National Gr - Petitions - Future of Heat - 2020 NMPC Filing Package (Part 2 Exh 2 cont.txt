@@ -1,0 +1,9147 @@
+--- Page 1 ---
+ 
+28 
+4.2 
+Explaining Differences in Heat Pump Performance 
+4.2.1 Comparing High- and Low-Stage Heat Pump COP 
+We aggregated that data into hourly values and then identified intervals where each heat pump ran the 
+entire hour (continuously) at full load conditions at high stage.  Since the heat pumps are dual stage, we 
+also identified hourly intervals where the heat pump ran continuously but was at a lower power level.  
+These points were identified as continuous low stage operation.   Figure 8 shows hourly data and 
+specifically identifies the high- and low-stage operating points for HP1 and HP3.  Figure 9 uses the 
+hourly data to show the heating COP changes with heat pump output and also shows the high- and low-
+stage operating points.   
+The net heating COP at low stage, which in theory should be higher according to the AHRI-rated unit 
+performance data in Table 3, is typically lower than or the same as the full load COP at high stage.  This 
+occurs because the loop pumps operate at the same flow regardless of compressor stage.  Therefore, the 
+net heating COP at low stage, which includes the same amount of pumping power at high stage, results in 
+lower system COP.  In summary, the single stage pumping combined with a dual stage heat pump unit 
+actually results in a lower average COP than would occur for a single stage unit.  Since the unit spends 
+most of the operating hours at low-stage, the seasonal COP is strongly affected by this combination of 
+single-stage pumping with a dual stage unit.  
+Figure 10 confirms the difference between high- and low-stage COPs by showing a few hours of 
+operation on a cold day for HP7.  While the COPs calculated at 5-minute intervals are somewhat scattered 
+(due to the resolution of the power measurement), the COP does increase during the few minutes of high-
+stage operation around 6 am on this day.      
+ 
+Exhibit __ (FOH-2) 
+Page 153 of 241
+
+
+--- Page 2 ---
+ 
+29 
+Figure 8.  Compressor Power vs. Runtime to Show Low- and High-Stage Operation: HP1 & HP3    
+ 
+ 
+Unit 1 - 02/01/18 to 04/29/18 - Hourly
+0.0
+0.2
+0.4
+0.6
+0.8
+1.0
+Comp Runtime (h)
+0.0
+0.5
+1.0
+1.5
+2.0
+2.5
+Comp Power (kW)
+Unit 3 - 02/01/18 to 04/30/18 - Hourly
+0.0
+0.2
+0.4
+0.6
+0.8
+1.0
+Comp Runtime (h)
+0.0
+0.5
+1.0
+1.5
+2.0
+2.5
+Comp Power (kW)
+Low Stage / SS 
+High Stage / SS 
+Low Stage / SS 
+High Stage / SS 
+Exhibit __ (FOH-2) 
+Page 154 of 241
+
+
+--- Page 3 ---
+ 
+30 
+Figure 9.  Heating COP vs Heating Output for HP1 & HP3    
+ 
+ 
+Unit 1 - 02/01/18 to 04/29/18 - Hourly (Steady-State, Q>23)
+0
+5
+10
+15
+20
+25
+30
+Heating Capacity (MBtu/h)
+0.0
+0.5
+1.0
+1.5
+2.0
+2.5
+3.0
+Heating COP (-)
+Unit 3 - 02/01/18 to 12/30/18 - Hourly (Steady-State, Q>32)
+0
+20
+40
+Heating Capacity (MBtu/h)
+0
+1
+2
+3
+4
+5
+6
+Heating COP (-)
+Low Stage / SS 
+High Stage / SS 
+Low Stage / SS 
+High Stage / SS 
+Exhibit __ (FOH-2) 
+Page 155 of 241
+
+
+--- Page 4 ---
+ 
+31 
+Figure 10.  A few Hour of Operation When HP7 goes into High Stage     
+ 
+4.2.2 Examining Peak Hour Heat Pump Performance 
+Table 19 below shows power, flow, and temperature data for the peak hour for each heat pump system.  
+There is considerable variation in loop pumping power, loop flow rate, and fan power for each home.  
+Loop flows vary from 6 to 11 gpm and pumping power varies from 155 to 407 Watts.  Fan power ranges 
+from 324 to 466 Watts, due to the differences in the existing ductwork and the actual airflows at each site. 
+Notes that these values in the table were a snapshot for one hour.  Appendix D shows that loop flows, 
+pump power, and fan power at some sites did vary somewhat as settings were changed (or conditions 
+varied) across the 24-month period.      
+Unit 7 - 02/05/18 to 02/05/18  (WC=blk, WF=red, WP=grn)
+:30
+:0
+:30
+:0
+:30
+:0
+:30
+:0
+:30
+:0
+:30
+:0
+4:
+5:
+6:
+7:
+8:
+9:
+10:
+0.0
+0.5
+1.0
+1.5
+2.0
+2.5
+Power (kW)
+Unit 7 - 02/05/18 to 02/05/18  (QH=blk, Qw=red)
+:30
+:0
+:30
+:0
+:30
+:0
+:30
+:0
+:30
+:0
+:30
+:0
+4:
+5:
+6:
+7:
+8:
+9:
+10:
+0
+10
+20
+30
+40
+MBtu/h
+Unit 7 - 02/05/18 to 02/05/18  COP
+:30
+:0
+:30
+:0
+:30
+:0
+:30
+:0
+:30
+:0
+:30
+:0
+4:
+5:
+6:
+7:
+8:
+9:
+10:
+2
+4
+6
+COP (-)
+High-Stage COP 
+Low-Stage COP 
+Exhibit __ (FOH-2) 
+Page 156 of 241
+
+
+--- Page 5 ---
+ 
+32 
+Table 19. Measured Performance at a Peak Hour of Heating Operation 
+ 
+ 
+Table 20 breaks out the data related to pumping.  It compares the heating COP for this peak hour to the 
+pump power and other loop related values.  Units 1, 2 and 6 had the highest pump power (highlighted as 
+red) and this showed some correspondence to the lowest COP (shaded rows).  Figure 11 shows there is 
+some indication that higher pumping power is related to low COP.    
+ 
+Table 20. Pump Performance Metrics at Peak Heating Hour 
+ 
+Appendix D shows the variation of loop flow and pumping power across the entire monitoring period.  
+The values in the tables above were a snapshot at one particular hour when the unit was in high-stage 
+heating.  The plots in Appendix D show that loop flows did vary as adjustments were made to some 
+pumps over the period (particularly to units HP3, HP4 and HP5).       
+Unit
+WC (kW)
+WF (kW) WP (kW)
+FW 
+(gpm)
+TWS (F)
+DT‐Water 
+(F)
+TAS (F) DT‐Air (F)
+QW 
+(MBtu/h)
+QH 
+(MBtu/h)
+SC (h)
+1
+3/20/2018
+3:00:00
+2.168
+0.453
+0.342
+8.403
+43.8
+4.09
+96.2
+21.54
+16.71
+25.65
+1.029
+2
+3/13/2018
+11:00:00
+2.188
+0.324
+0.407
+9.322
+40.4
+4.49
+98.3
+24.30
+20.51
+29.08
+0.999
+3
+3/13/2018
+7:00:00
+2.462
+0.362
+0.155
+6.029
+42.9
+8.01
+103.3
+30.45
+22.99
+32.62
+1.026
+4
+11/16/2019
+23:00:00
+1.778
+0.35
+0.317
+8.634
+49.3
+5.17
+101.3
+27.47
+21.79
+29.05
+0.998
+5
+2/3/2018
+3:00:00
+1.834
+0.466
+0.318
+7.73
+39.9
+4.41
+89.1
+18.71
+16.37
+24.21
+0.999
+6
+3/22/2018
+6:00:00
+2.032
+0.428
+0.37
+10.962
+41.8
+3.30
+90.8
+19.80
+16.84
+25.24
+1.002
+7
+2/5/2018
+6:00:00
+1.954
+0.353
+0.325
+8.383
+42.2
+5.53
+90.5
+24.88
+22.83
+30.71
+0.999
+8
+2/9/2018
+8:00:00
+2.008
+0.35
+0.332
+8.364
+39.8
+4.41
+90.0
+22.61
+18.04
+26.08
+0.998
+9
+2/14/2018
+21:00:00
+2.221
+0.346
+0.329
+9.162
+44.6
+4.54
+99.1
+24.95
+20.38
+29.14
+1.001
+10
+2/9/2018
+7:00:00
+2.072
+0.37
+0.165
+8.051
+39.2
+4.95
+92.2
+21.98
+19.36
+27.69
+1.003
+Date & Time
+Unit
+COP
+WP
+gpm
+Loop 
+Delta‐T
+W/gpm
+1
+2.5
+342
+8.4
+4.1
+40.7
+2
+2.9
+407
+9.3
+4.5
+43.7
+3
+3.2
+155
+6.0
+8.0
+25.7
+4
+3.5
+317
+8.6
+5.2
+36.7
+5
+2.7
+318
+7.7
+4.4
+41.1
+6
+2.6
+370
+11.0
+3.3
+33.8
+7
+3.4
+325
+8.4
+5.5
+38.8
+8
+2.8
+332
+8.4
+4.4
+39.7
+9
+2.9
+329
+9.2
+4.5
+35.9
+10
+3.1
+165
+8.1
+5.0
+20.5
+Exhibit __ (FOH-2) 
+Page 157 of 241
+
+
+--- Page 6 ---
+ 
+33 
+Figure 11.  Comparing Heating COP to Pumping Power for all HP Systems    
+ 
+ 
+Table 21 compares the system COP for this peak hour to the fan power and airside data.  The fan power 
+for HP1, HP5 and HP6 was the highest, so those values are highlighted as red in the table.  The shade 
+rows in the table highlight the units with the 3 lowest COPs.  Figure 12 shows there is some indication 
+that higher fan power is related to lower COPs. 
+Table 21. Fan Performance Metrics at Peak Heating Hour 
+ 
+2.0
+2.2
+2.4
+2.6
+2.8
+3.0
+3.2
+3.4
+3.6
+150
+200
+250
+300
+350
+400
+450
+Net COP (‐)
+Power (W)
+WP
+Unit
+COP
+WF
+Air Delta‐
+T
+Implied 
+cfm
+W/cfm
+1
+2.5
+453
+21.5
+1102
+0.41
+2
+2.9
+324
+24.3
+1108
+0.29
+3
+3.2
+362
+30.4
+992
+0.36
+4
+3.5
+350
+27.5
+979
+0.36
+5
+2.7
+466
+18.7
+1198
+0.39
+6
+2.6
+428
+19.8
+1180
+0.36
+7
+3.4
+353
+24.9
+1143
+0.31
+8
+2.8
+350
+22.6
+1068
+0.33
+9
+2.9
+346
+24.9
+1081
+0.32
+10
+3.1
+370
+22.0
+1167
+0.32
+Exhibit __ (FOH-2) 
+Page 158 of 241
+
+
+--- Page 7 ---
+ 
+34 
+Figure 12.  Comparing Heating COP to Fan Power for all HP systems 
+ 
+ 
+ 
+2.0
+2.2
+2.4
+2.6
+2.8
+3.0
+3.2
+3.4
+3.6
+150
+200
+250
+300
+350
+400
+450
+500
+Net COP (‐)
+Power (W)
+WF
+Exhibit __ (FOH-2) 
+Page 159 of 241
+
+
+--- Page 8 ---
+ 
+35 
+4.2.3 Differences in Dual Stage Fan Control 
+By looking at the hourly data we also observed differences between how the fan was controlled for the 
+dual stage HP units.  Figure 13 shows the trend of fan power with compressor power for HP1 and HP3.  
+The high- and low-stage hourly intervals with continuous operation are identified.  HP3 shows the 
+expected performance trend, with low-stage compressor operation corresponding to a lower level of fan 
+power (and a lower air flow rate).  In contrast, HP1 shows that the fan power was at the same level for 
+both low- and high-stage operation.  This implies the airflow did not modulate with capacity as expected.  
+Table 22 summarizes which HP systems demonstrated which operating pattern.  HP1, HP2 and HP5 did 
+not modulate airflow with compressor stage, which would be expected to lower the seasonal heating 
+COP.  HP4 never operated at high-stage, so we were not able to confirm if airflow modulation was 
+staged.   
+Table 22. Fan Power Difference Between Low-Stage and High-Stage Operation 
+HP 
+Low Stage Fan 
+(kW) 
+High Stage Fan 
+(kW) 
+Fan Control 
+1 
+0.45 
+0.45 
+Same 
+2 
+0.33 
+0.33 
+Same 
+3 
+0.18 
+0.37 
+Staged 
+4 
+0.35 
+never observed 
+? 
+5 
+0.48 
+0.48 
+Same 
+6 
+0.25 
+0.42 
+Staged 
+7 
+0.20 
+0.35 
+Staged 
+8 
+0.20 
+0.35 
+Staged 
+9 
+0.20 
+0.35 
+Staged 
+10 
+0.18 
+0.33 
+Staged 
+Exhibit __ (FOH-2) 
+Page 160 of 241
+
+
+--- Page 9 ---
+ 
+36 
+Figure 13.  Comparing Hourly Fan Power to Compressor Power for HP1 & HP3    
+ 
+ 
+Unit 1 - 02/01/18 to 04/29/18 - Hourly (Steady-State, Q>23)
+0.0
+0.5
+1.0
+1.5
+2.0
+2.5
+Comp Power (kW)
+0.00
+0.10
+0.20
+0.30
+0.40
+0.50
+Fan Power (kW)
+Unit 3 - 02/01/18 to 04/30/18 - Hourly (Steady-State, Q>32)
+0.0
+0.5
+1.0
+1.5
+2.0
+2.5
+Comp Power (kW)
+0.0
+0.2
+0.4
+Fan Power (kW)
+Low Stage / SS 
+High Stage / SS 
+Low Stage / SS 
+High Stage / SS 
+Exhibit __ (FOH-2) 
+Page 161 of 241
+
+
+--- Page 10 ---
+ 
+37 
+4.2.4 Summary of Observed Performance Differences 
+ Table 23 summarizes the observed differences between the units and how these factors at least partially 
+explain the differences in observed seasonal heating COPs.  The observations are based on the issues 
+discussed in this sub-section (pump power, fan power, fan modulation) as well as other issues apparent 
+from the seasonal table (HP type, resistance element operation).  The Packaged HPs had the highest COPs 
+of 3.5 and 3.7.  The Split unit COPs ranged from 2.2 to 3.0.    
+Table 23. Summary of Observed Differences Between GSHP Systems 
+Unit 
+HP Type 
+Peak 
+Heating 
+COP 
+Net 
+Seasonal 
+Heating 
+COP 
+Observations 
+ 
+1 
+Split 
+ 
+2.5 
+ 
+2.2 
+Fan power is high, pump power is high, fan power does not 
+modulate with compressor stage 
+ 
+2 
+Split 
+ 
+2.9 
+ 
+2.9 
+Pump power is high, fan power does not modulate with 
+stage.   Very little high stage operation. 
+ 
+3 
+Packaged 
+ 
+3.2 
+ 
+3.7 
+Packaged unit has higher COP.  Loop flow is only 6 
+gpm and pump power is lower, so COP is higher 
+ 
+4 
+Split 
+ 
+3.5 
+ 
+2.5 
+Unit oversized, so it cycles frequently (peak COP is 3.5, 
+seasonal COP is 2.5).  No heating operation at high stage. 
+ 
+5 
+Split 
+ 
+2.7 
+ 
+2.6 
+Fan power is high, fan power does not modulate with 
+stage. 
+ 
+6 
+Split 
+ 
+2.6 
+ 
+2.4 
+Fan power is high, pump power is high, aux resistance heat 
+comes on occasionally on coldest days 
+7 
+Packaged 
+3.4 
+3.5 
+Packaged unit has higher COP 
+8 
+Split 
+2.8 
+2.7 
+ 
+9 
+Split 
+2.9 
+2.8 
+ 
+10 
+Split 
+3.1 
+3.0 
+ 
+Notes:  Rated COPs (from Table 2) for Packaged units are 10-14% higher than Split units.  Peak COP is from Table 
+20.  Seasonal COPs are from Table 8. 
+ 
+ 
+Exhibit __ (FOH-2) 
+Page 162 of 241
+
+
+--- Page 11 ---
+ 
+38 
+ 
+4.3 
+Ground Loop Temperatures 
+Figure 14 shows the hourly ground loop temperatures for the entire 24-month period when the heat 
+pump(s) operated.  The supply temperature from the loop (TWS) is shown as a black while the return 
+temperature to the loop (TWR) is shown as red.   Temperatures are shown for HP3 since they were 
+available for the entire period.  Data for the main loop temperatures started on June 20, 2018 and are 
+shown with thicker lines.  The loop design temperatures are also shown on the plot as horizontal dotted 
+lines.  The loop was sized to have a maximum entering water temperature (TWSmax) of 80°F in the 
+summer and a minimum entering water temperature (TWSmin) of 37°F (these design details are takes from 
+Figure 5).   
+The long-term temperature profile shows the expected performance trends: 
+ 
+The supply temperature is about 5-6°F warmer than the return in the winter when the system is 
+extracting heat from the loop 
+ 
+The supply temperature is about 8-10°F lower than the return in the summer when the system is 
+rejecting heat to the earth 
+ 
+The loop temperatures settled into a seasonal pattern after about the first year of operation.  The 
+supply temperatures at the end of 2019 were similar to temperatures at the end of the previous 
+year.   
+The loop supply temperatures were slightly higher in the summer of 2018 compare to the summer of 
+2019.   
+Overall, the summertime loop supply temperatures were typically near 65°F and rarely exceeded 70°F –
+well below the design condition of 80°F.  Similarly, the winter temperatures were typically around 45°F, 
+well above the design point of 37°F. 
+ 
+ 
+Exhibit __ (FOH-2) 
+Page 163 of 241
+
+
+--- Page 12 ---
+ 
+39 
+Figure 14.  Loop Supply (TWS) and Return (TWR) Temperatures (thick lines are Main Loop) 
+ 
+ 
+ 
+Q1
+Q2
+Q3
+Q4
+Q1
+Q2
+Q3
+Q4
+2018
+2019
+2020
+40
+60
+80
+Temperature (F)
+TWS Design 80°F 
+TWS Design 37°F 
+Exhibit __ (FOH-2) 
+Page 164 of 241
+
+
+--- Page 13 ---
+ 
+40 
+4.4 
+Ground Loop Load Diversity 
+To assess the level of load diversity on the ground loop, we compared the measured peak load imposed on 
+the ground loop by each heat pump to the measured load imposed on the entire loop.  Figure 15 shows the 
+measured loads imposed on the ground loop by all the units for each hour.  The peak heat rejection load 
+imposed on the loop in an hour was 320 MBtu/h in July 2019.  The peak hourly heat extraction load was 
+160 MBtu/h in early 2019 (note that these heat transfer rates are both expressed as absolute values).  
+Figure 15.  Plot of Hourly Loads Imposed on the Ground Loop 
+ 
+Table 24 compares these measured loop loads to the sum of the non-coincident loads imposed by each 
+heat pump in both summer and winter.  For reference the table also includes the maximum expected heat 
+rejection (summer) and heat extraction (winter) based on the capacity and efficiency of each heat pump 
+unit (these values are from the loop design report).  The results show that the measured peak loop load in 
+summer is about 85% of the sum of the (non-coincident) peak loads imposed by each heat pump.   This 
+coincidence factor is 82% in the winter. 
+   
+Q3
+Q4
+Q1
+Q2
+Q3
+Q4
+Q1
+2018
+2019
+2020
+0
+200
+400
+Loop Heat (MBtu/h)
+Pk Cooling: 320
+Pk Heating: 160
+Exhibit __ (FOH-2) 
+Page 165 of 241
+
+
+--- Page 14 ---
+ 
+41 
+Table 24. Comparing Non-coincident HP Loop Loads to Total Loop Loads    
+ 
+Peak Load Imposed on Ground Loop (MBtu/h) 
+ 
+Summer 
+Measured 
+Summer 
+Expected 
+Winter 
+Measured 
+Winter 
+Expected 
+HP1 
+33 
+44.1 
+17 
+22.5 
+HP2 
+39 
+44.1 
+20 
+22.5 
+HP3 (XT packaged) 
+40 
+46.5 
+19 
+25.5 
+HP4 
+39 
+44.1 
+20 
+22.5 
+HP5 
+25 
+44.1 
+18 
+22.5 
+HP6 
+36 
+44.1 
+19 
+22.5 
+HP7 (XT packaged) 
+47 
+46.5 
+26 
+25.5 
+HP8 
+37 
+44.1 
+20 
+22.5 
+HP9 
+38 
+44.1 
+21 
+22.5 
+HP10 
+42 
+44.1 
+16 
+22.5 
+Sum of all HPs 
+376 
+445.9 
+196 
+231.0 
+Measured Ground Loop 
+320 
+160 
+Coincidence Factor 
+85% 
+72% 
+82% 
+69% 
+Notes:  Expected loop heat transfer rates based on heating capacity and efficiency for the installed units (RT unit:  
+30.9 Mtu/h and 3.68 COP;  XT Unit:  33.4 MBtu/h and 4.2 COP) as well as the cooling capacity and efficiency:  (RT 
+Unit: 35.6 Btu/h and 14.27 EER; XT Unit:  38.3 and 15.93 EER)     
+ 
+The expected loop loads for each heat pump based on its capacity and efficiency are even larger than the 
+measured loads for each heat pump.  The sum of the expected loads is 18-19% larger than the sum of the 
+measured loads for each heat pump. The coincidence factor comparing measured loop loads to the 
+expected heat transfer based on the capacity and efficiency of each heat pump is 72% in summer and 69% 
+in winter. 
+Overall, this result shows that even for community loops with similar homes – where very little load 
+diversity might be expected – the peak loads imposed on the ground loop in any hour are 80% of simple 
+sum of the individual loads and 70% of the expected equipment loads.   This implies that future designs 
+of community loops could take advantage of this peak load diversity and reduce the size of the ground 
+heat exchanger by some amount.  Since the loop design process considers both peak, monthly, and annual 
+loads, the size reduction may be somewhat less than the 20 or 30% reduction in peak loads but should still 
+be significant.  If we assume loop size can be reduced by 15%, the reduction in loop field installed costs 
+would be $12,000 at this site.       
+Exhibit __ (FOH-2) 
+Page 166 of 241
+
+
+--- Page 15 ---
+ 
+42 
+4.5 
+Impact of Reversed Loop Piping 
+Figure 4 above shows the locations of all the houses and bores and Figure 6 schematically shows the loop 
+piping. Figure 18 below shows the headering between the loop and the heat pumps during construction.   
+Figure 16 and Figure 17 compare the main loop supply and return temperatures to the supply and return 
+for each heat pump (green and red, respectively).  Surprisingly, the supply temperatures for some of heat 
+pumps are closer to the return than the supply.    
+  
+Figure 16.  Comparing Main Loop TWS & TWR (lines) to HP TWS (green) and TWR (red) – HPs 1 to 
+4  
+ 
+ 
+ 
+HP1
+0: 2: 4: 6: 8: 10:12:14:16:18:20:22:0:
+23
+4
+60
+80
+100
+Temperature (F)
+HP2
+0: 2: 4: 6: 8: 10:12:14:16:18:20:22:0:
+23
+4
+60
+80
+100
+Temperature (F)
+HP3
+0: 2: 4: 6: 8: 10:12:14:16:18:20:22:0:
+23
+4
+60
+80
+100
+Temperature (F)
+HP4
+0: 2: 4: 6: 8: 10:12:14:16:18:20:22:0:
+23
+4
+60
+80
+100
+Temperature (F)
+Exhibit __ (FOH-2) 
+Page 167 of 241
+
+
+--- Page 16 ---
+ 
+43 
+Figure 17.  Comparing Main Loop TWS & TWR (lines) to HP TWS (green) and TWR (red) – HPs 5 to 
+10  
+ 
+ 
+ 
+HP5
+0: 2: 4: 6: 8: 10:12:14:16:18:20:22:0:
+23
+4
+60
+80
+100
+Temperature (F)
+HP6
+0: 2: 4: 6: 8: 10:12:14:16:18:20:22:0:
+23
+4
+60
+80
+100
+Temperature (F)
+HP7
+0: 2: 4: 6: 8: 10:12:14:16:18:20:22:0:
+23
+4
+60
+80
+100
+Temperature (F)
+HP8
+0: 2: 4: 6: 8: 10:12:14:16:18:20:22:0:
+23
+4
+60
+80
+100
+Temperature (F)
+HP9
+0: 2: 4: 6: 8: 10:12:14:16:18:20:22:0:
+23
+4
+60
+80
+100
+Temperature (F)
+HP10
+0: 2: 4: 6: 8: 10:12:14:16:18:20:22:0:
+23
+4
+60
+80
+100
+Temperature (F)
+Did not Operate 
+Exhibit __ (FOH-2) 
+Page 168 of 241
+
+
+--- Page 17 ---
+ 
+44 
+Figure 18.  Photos Showing Header Details from Ground Loop Heat Exchanger to Each HP    
+ 
+ 
+ 
+Headering for each Heat Pump 
+Valve to each HP circuit shown 
+(from Turley Inspection Report) 
+ 
+ 
+Main      
+TWS & TWR 
+HP1 
+HP2 
+HP9 
+HP10 
+HP8 
+Supply 
+Header 
+Return 
+Header 
+HP3 
+HP5 
+HP4 
+HP7 
+HP6 
+Exhibit __ (FOH-2) 
+Page 169 of 241
+
+
+--- Page 18 ---
+ 
+45 
+One possible explanation for the unexpected temperatures is that when the supply and return piping 
+comes to the surface near each heat pump the lines were inadvertently switched during installation, as 
+shown by Figure 19.  The fact that some heat pumps have intermediate temperatures between the supply 
+and return could be explained by the relative position of that heat pump circuit on the loop header.  
+Depending on the circuit location, the flow from the heat pump on the reversed circuit could directly feed 
+a neighboring heat pump circuit (making that temperature high).  Or the entering water from the heat 
+pump could pull water from a mix of neighboring heat pump circuits and the ground loop (making it in 
+between the supply and return).   
+Figure 19.  Example of How Piping Could be Switched at the Heat Pump 
+ 
+Another observation corroborating the possibility of one or more reversed HP circuits is shown in Figure 
+20.   The sum of the individual HP flows for each heat pump typically add up to be less than the measured 
+flow on the main loop.  Each data point is a 15-minute interval where all the flow data is valid.  The data 
+naturally clump into various groupings corresponding to the mix of heat pumps that are operating.  The 
+red symbols correspond to periods with all 10 HPs operating at the same time.  The summed heat pump 
+flow is 90 gpm (i.e., at the expected design flow), however the flow on the main loop is only 67-75 gpm.  
+Figure 21 shows a similar plot for the heat extraction summed for all the BTU meters on each heat pump 
+compared to the main loop BTU Meter.  The is a slight degree of bias due to the uncertainty of summing 
+up 10 individual measurements, though the heat comparison is still in better agreement than the flow 
+comparison.  
+Heat Pump 
+Flow 
+Center 
+BTU 
+Meter 
+Loop 
+Piping  
+Heat Pump 
+Flow 
+Center 
+BTU 
+Meter 
+Loop 
+Piping  
+Exhibit __ (FOH-2) 
+Page 170 of 241
+
+
+--- Page 19 ---
+ 
+46 
+Figure 20.  Comparing Sum of Heat Pump Flows to the Main Loop Flow (red data is when all 10 
+HPs are ON)  
+ 
+ 
+0
+20
+40
+60
+80
+100
+Main Loop Flow (gpm)
+0
+20
+40
+60
+80
+100
+Sum of Flows (gpm)
+Exhibit __ (FOH-2) 
+Page 171 of 241
+
+
+--- Page 20 ---
+ 
+47 
+Figure 21.  Comparing Sum of BTU Meter Heat Rates to the Main Loop Heat Rates (red data is 
+when all 10 HPs are ON) 
+ 
+ 
+ 
+0
+100
+200
+300
+400
+500
+Main Heat (MBtu/h)
+0
+100
+200
+300
+400
+500
+Sum of Heat (MBtu/h)
+Exhibit __ (FOH-2) 
+Page 172 of 241
+
+
+--- Page 21 ---
+ 
+48 
+4.5.5 Test to Show the Impact of Backwards Flow on HP2 
+Because the supply temperature for HP2 was very close to the main loop return temperature (as shown in 
+Figure 16), we suspected this unit was the issue.   On mid-day September 6, 2018, the contractor visited 
+the site and shut off the flow center for heat pump HP2.  Figure 22 shows that when the flow to HP2 was 
+shut off, the sum of all the flows converged with the main loop flow, as expected.  The deviation between 
+these flows for other parts of the day was about 20 gpm (or 2 times 9-10 gpm).   
+Figure 22 Flow Data for September 6 When Flow was Shutoff 
+ 
+Figure 23 and Figure 24– which are the same plot as Figure 16 and Figure 17 but focused the middle of 
+the day on September 6—show that the entering water temperatures (green data) to several heat pumps 
+(HP6 through HP10) converged to the main loop entering water temperatures when the flow through HP2 
+stopped.  The photos in Figure 18 and Figure 25 show that these HPs are farther from the main supply 
+line than HP2, therefore, they were significantly affected by the warmer water discharged from HP2.    
+This result confirmed that the piping to HP2 had been unintentionally switched. 
+:30
+:0
+:30
+:0
+:30
+:0
+:30
+:0
+:30
+:0
+:30
+:0
+:30
+:0
+:30
+:0
+9:
+10:
+11:
+12:
+13:
+14:
+15:
+16:
+17:
+6
+September
+2018
+0
+20
+40
+60
+80
+100
+Flow (gpm)
+HP2 
+Main 
+Loop 
+Flow 
+Sum of 
+Flows 
+Exhibit __ (FOH-2) 
+Page 173 of 241
+
+
+--- Page 22 ---
+ 
+49 
+Figure 23 Loop Temperature Data for September 6 When Flow was Shutoff – HP1 to HP4 
+ 
+ 
+ 
+ 
+HP1
+:0
+:0
+:0
+:0
+:0
+:0
+:0
+:0
+9:10: 11: 12: 13: 14: 15: 16: 17:
+60
+80
+100
+Temperature (F)
+HP2
+:0
+:0
+:0
+:0
+:0
+:0
+:0
+:0
+9:10: 11: 12: 13: 14: 15: 16: 17:
+60
+80
+100
+Temperature (F)
+HP3
+:0
+:0
+:0
+:0
+:0
+:0
+:0
+:0
+9:10: 11: 12: 13: 14: 15: 16: 17:
+60
+80
+100
+Temperature (F)
+HP4
+:0
+:0
+:0
+:0
+:0
+:0
+:0
+:0
+9:10: 11: 12: 13: 14: 15: 16: 17:
+60
+80
+100
+Temperature (F)
+HP2 Flow 
+is Off 
+We are 
+unsure 
+why HP4 
+was not 
+affected 
+Exhibit __ (FOH-2) 
+Page 174 of 241
+
+
+--- Page 23 ---
+ 
+50 
+Figure 24 Loop Temperature Data for September 6 When Flow was Shutoff – HP5 to HP10 
+ 
+ 
+ 
+ 
+ 
+ 
+HP5
+:0
+:0
+:0
+:0
+:0
+:0
+:0
+:0
+9:10: 11: 12: 13: 14: 15: 16: 17:
+60
+80
+100
+Temperature (F)
+HP6
+:0
+:0
+:0
+:0
+:0
+:0
+:0
+:0
+9:10: 11: 12: 13: 14: 15: 16: 17:
+60
+80
+100
+Temperature (F)
+HP7
+:0
+:0
+:0
+:0
+:0
+:0
+:0
+:0
+9:10: 11: 12: 13: 14: 15: 16: 17:
+60
+80
+100
+Temperature (F)
+HP8
+:0
+:0
+:0
+:0
+:0
+:0
+:0
+:0
+9:10: 11: 12: 13: 14: 15: 16: 17:
+60
+80
+100
+Temperature (F)
+HP9
+:0
+:0
+:0
+:0
+:0
+:0
+:0
+:0
+9:10: 11: 12: 13: 14: 15: 16: 17:
+60
+80
+100
+Temperature (F)
+HP10
+:0
+:0
+:0
+:0
+:0
+:0
+:0
+:0
+9:10: 11: 12: 13: 14: 15: 16: 17:
+60
+80
+100
+Temperature (F)
+EWT drops 
+to Normal 
+EWT drops 
+to Normal 
+Exhibit __ (FOH-2) 
+Page 175 of 241
+
+
+--- Page 24 ---
+ 
+51 
+Figure 25 Supply Header Circuiting Details Showing HP 6 through HP10 are Downstream of HP2 
+ 
+On November 6, 2018 the piping was repaired, as shown by Figure 27.  The piping fix increased entering 
+temperatures by 4-5°F for more than half of the heat pumps in the heating mode.  In cooling mode, the 
+entering temperatures for half of the heat pumps were lowered by 8-10°F.  Since each 1°F change in 
+entering temperature changes both heating and cooling efficiency by about 1%, this fix had a significant 
+impact on HP energy use.  The efficiencies for about half the heat pumps were lower by about 4-8% 
+before this correction was implemented.        
+ 
+ 
+HP1 
+HP2 
+HP9 
+HP10 
+HP8 
+HP3 
+HP5 
+HP4 (un-affected) 
+HP7 
+HP6 
+Exhibit __ (FOH-2) 
+Page 176 of 241
+
+
+--- Page 25 ---
+ 
+52 
+Figure 26 Schematic Showing Impact of Reversed Piping for HP2 
+ 
+Figure 27 Plot Showing When Piping change was Made for HP2 on November 6, 2018 
+ 
+0:
+12:
+0:
+12:
+0:
+12:
+0:
+12:
+0:
+12:
+0:
+12:
+0:
+3
+4
+5
+6
+7
+8
+9
+November
+2018
+45
+50
+55
+60
+Supply Temperature (F)
+HP1
+HP2
+HP3
+HP4
+HP5
+HP6
+HP7
+HP8
+HP9
+HP10
+FW 
+TWS 
+TW
+Ground 
+Loop 
+Reversed 
+Pump for 
+HP2 
+Pump for downstream HPs 
+HP2 
+HP6 
+HP10 
+HP9 
+HP7 
+HP8 
+Piping Fixed 
+Exhibit __ (FOH-2) 
+Page 177 of 241
+
+
+--- Page 26 ---
+ 
+53 
+4.6 
+Estimated Cost Savings 
+The measured annual data for the GSHP units from Table 8 (for the July 2018 to June 2019 period) were 
+used to evaluate cost savings at each site.  Table 25 summarizes the performance data for the GSHP units 
+and Table 26 summarizes the base case assumptions used to determine heating cost savings for both the 
+base and GSHP cases.  Table 27 summarizes cooling cost savings.  We used average costs for these fuels 
+for the during the 2018-2019 monitoring period (regional cost for propane was $3.19 per gallon; statewide 
+average kerosene cost was $3.62 per gallon).  The actual fuel costs from the 7 homes that provided fuel 
+delivery logs are provided in Appendix A for reference.    We estimated fuel use to meet the measured 
+(post-retrofit) heating loads with the appropriate fuel factors (92 MBtu/gal & 78% efficiency for propane; 
+134 Mbtu/gal & 81% efficiency for kerosene). Appendix A provides the base case fuel use from these 
+homes and showed that the pre-retrofit fuel delivery data were in reasonable agreement with the fuel use 
+determined from measured heating loads (post-retrofit) –after considering the impact of weatherization 
+improvements.  We assumed that electric costs were under LIPA Rate 180 for base case and LIPA Rate 
+580 for the GSHP system.  With these rates, electric cost for cooling was always $0.21 per kWh.  For 
+heating the base cost was $0.21 per kWh and with GSHPs installed the electric rate was be 2 cents lower.  
+Table 25. Summary of Annual Measured Load, Efficiency and Energy Use Data for Each Home 
+Unit 
+Annual 
+Heating 
+Load 
+(MMBtu) 
+GSHP 
+Seasonal 
+Heating 
+COP 
+GSHP 
+Heating 
+Use 
+(kWh) 
+Annual 
+Cooling 
+Load 
+(MMBtu) 
+GSHP 
+Seasonal 
+Cooling 
+EER 
+GSHP 
+Cooling 
+Use 
+(kWh) 
+ HP1 
+33.3 
+2.20 
+4,438 
+10.1 
+9.5 
+1,066 
+HP2 
+33.2 
+2.92 
+3,327 
+21.6 
+12.8 
+1,686 
+HP3 
+28.4 
+3.71 
+2,240 
+18.6 
+14.2 
+1,309 
+HP4 
+26.7 
+2.48 
+3,155 
+15.7 
+9.8 
+1,607 
+HP5 
+22.9 
+2.55 
+2,627 
+5.1 
+12.8 
+397 
+HP6 
+39.4 
+2.40 
+4,811 
+9.3 
+11.9 
+782 
+HP7 
+34.2 
+3.50 
+2,867 
+10.9 
+15.1 
+724 
+HP8 
+41.5 
+2.74 
+4,438 
+3.0 
+10.4 
+286 
+HP9 
+23.1 
+2.81 
+2,404 
+9.4 
+12.4 
+757 
+HP10 
+27.5 
+2.95 
+2,726 
+14.9 
+13.4 
+1,112 
+ 
+ 
+ 
+Exhibit __ (FOH-2) 
+Page 178 of 241
+
+
+--- Page 27 ---
+ 
+54 
+Table 26. Summary of Annual Operating Cost Savings from Heating for each Home 
+Unit 
+Base Fuel 
+Base 
+Annual 
+Fuel Use 
+(Gal) 
+Base 
+Furnace 
+Fan Use 
+(kWh) 
+Base 
+Furnace 
+Costs 
+GSHP 
+Heating 
+Costs 
+Heating 
+Cost 
+Savings 
+Heating 
+% Cost 
+Savings 
+HP1 
+Propane 
+464 
+200 
+$1,521 
+$843 
+$677 
+45% 
+HP2 
+Propane 
+463 
+200 
+$1,518 
+$632 
+$886 
+58% 
+HP3 
+Propane 
+395 
+200 
+$1,302 
+$426 
+$877 
+67% 
+HP4 
+Propane 
+373 
+200 
+$1,231 
+$600 
+$631 
+51% 
+HP5 
+Kerosene 
+211 
+200 
+$805 
+$499 
+$306 
+38% 
+HP6 
+Kerosene 
+363 
+200 
+$1,357 
+$914 
+$443 
+33% 
+HP7 
+Kerosene 
+315 
+200 
+$1,184 
+$545 
+$639 
+54% 
+HP8 
+Kerosene 
+382 
+200 
+$1,426 
+$843 
+$583 
+41% 
+HP9 
+Kerosene 
+213 
+200 
+$812 
+$457 
+$355 
+44% 
+HP10 
+Kerosene 
+253 
+200 
+$958 
+$518 
+$440 
+46% 
+Total 
+ 
+ 
+ 
+$12,113 
+$6,276 
+$5,837 
+48% 
+Notes:    Average fuel costs are $3.19/gal for propane and $3.62/gal for kerosene.  Appendix A shows actual costs for  
+               each home.  Propane costs are the average for Long Island for 2018-2019.  Kerosene costs are the 
+              average statewide for 2018-2019.  Heating costs are $0.21/kWh for base case (LIPA Rate 180) and  
+             $0.19/kWh for GSHP case (LIPA Rate 580).  
+Base fuel use calculated from measured heating load using propane factors of 92 MBtu/gal & 78% efficiency 
+and Kerosene factors of 134 MBtu/gal & 81% efficiency   
+ 
+Table 27. Summary of Annual Operating Cost Savings from Cooling for each Home 
+Unit 
+Base AC 
+Cooling 
+Costs 
+GSHP 
+Cooling 
+Costs 
+Cooling 
+Cost 
+Savings 
+Cooling % 
+Cost 
+Savings 
+Total 
+Savings 
+Total % 
+Cost 
+Savings 
+HP1 
+$236 
+$224 
+$12 
+5% 
+$689 
+39% 
+HP2 
+$505 
+$354 
+$151 
+30% 
+$1,036 
+51% 
+HP3 
+$435 
+$275 
+$160 
+37% 
+$1,037 
+60% 
+HP4 
+$367 
+$338 
+$29 
+8% 
+$661 
+41% 
+HP5 
+$118 
+$83 
+$35 
+29% 
+$341 
+37% 
+HP6 
+$216 
+$164 
+$52 
+24% 
+$495 
+31% 
+HP7 
+$255 
+$152 
+$103 
+40% 
+$742 
+52% 
+HP8 
+$69 
+$60 
+$9 
+13% 
+$592 
+40% 
+HP9 
+$219 
+$159 
+$60 
+28% 
+$415 
+40% 
+HP10 
+$347 
+$233 
+$114 
+33% 
+$554 
+42% 
+Total 
+$2,767 
+$2,042 
+$725 
+25% 
+$6,562 
+43% 
+Notes:    Assumed electric costs are $0.21/kWh for summer months. 
+ 
+Base cooling EER is 9 Btu/Wh 
+ 
+Exhibit __ (FOH-2) 
+Page 179 of 241
+
+
+--- Page 28 ---
+ 
+55 
+Annual cost savings for heating ranged from $306 to $886 (33% to 67%, average of 48%).  The sites with 
+propane generally showed higher cost savings.  Cooling cost savings ranged from $9 to $160 (5 to 40%, 
+average of 25%).  Total Savings ranged from $341 to $1,037 (31 to 60%, average of 43%). 
+Table 28 summarizes the greenhouse gas (GHG) reductions for each house considering both heating and 
+cooling.  The percent reduction in emissions ranged from 11% to 51%, with an average of 35%. 
+Table 28. Summary of Annual Greenhouse Gas Reductions 
+Unit 
+Base GHG 
+Emissions 
+(lb/yr CO2 
+equivalent) 
+GSHP GHG 
+Emissions 
+(lb/yr CO2 
+equivalent) 
+Reduced GHG 
+Emissions 
+(lb/yr CO2 
+equivalent) 
+% GHG 
+Emissions 
+Reductions 
+HP1 
+ 7,324  
+ 6,485  
+ 838  
+11% 
+HP2 
+ 8,824  
+ 5,907  
+ 2,917  
+33% 
+HP3 
+ 7,591  
+ 4,181  
+ 3,410  
+45% 
+HP4 
+ 6,930  
+ 5,612  
+ 1,318  
+19% 
+HP5 
+ 5,572  
+ 3,564  
+ 2,008  
+36% 
+HP6 
+ 9,504  
+ 6,590  
+ 2,914  
+31% 
+HP7 
+ 8,659  
+ 4,232  
+ 4,427  
+51% 
+HP8 
+ 9,097  
+ 5,566  
+ 3,532  
+39% 
+HP9 
+ 6,178  
+ 3,725  
+ 2,453  
+40% 
+HP10 
+ 7,794  
+ 4,522  
+ 3,272  
+42% 
+Total 
+77,473 
+50,383 
+27,091 
+35% 
+Assumed emission factors:  electricity - 1.18 lb CO2 equivalent per kWh for Long Island electric grid,  
+propane - 12.44 lb CO2 equivalent per gal, kerosene - 22.17 lb CO2 equivalent per gal  
+ 
+Exhibit __ (FOH-2) 
+Page 180 of 241
+
+
+--- Page 29 ---
+ 
+56 
+5 
+Homeowner Survey Results 
+All the homeowners completed an on-line survey around the time the ground source heat pumps were 
+installed and then again after 12 months had passed.  At one site the owners changed, and that new 
+homeowner also completed the survey. 
+5.1 
+Motivations for Participation 
+The survey results show that homeowners – who were recruited to have their heat pump installed– were 
+primarily motivated by having a better cooling system, reducing heating energy bills and eliminating the 
+hassle and safety issues of delivered fossil fuels.   
+Figure 28 Survey Results on Homeowner Motivations to Participate in the GSHP Pilot 
+ 
+ 
+0
+1
+2
+3
+4
+5
+6
+7
+8
+Ability to control temperature separately in each room
+Reduced peak load and need for more electric generating plants
+Modern, trendy technology
+Dehumidification during summer
+Reduced greenhouse gas emissions
+Recommended by someone I trust
+Quieter than existing heating/cooling system(s)
+Lower life cycle cost due to longer equipment lifetime
+Reduce or remove chance of carbon monoxide poisoning
+Lower maintenance costs
+Consistent room temperature
+Reduced installation costs compared to alternate HVAC system
+Lower operating costs (save on energy bills)
+Ability to both heat and cool
+Number of Respondents
+How important were the following in your decision 
+to participate in this demonstration project?
+Very Important
+Somewhat Important
+Not at All Important
+Exhibit __ (FOH-2) 
+Page 181 of 241
+
+
+--- Page 30 ---
+ 
+57 
+5.2 
+Overall Satisfaction 
+Overall, satisfaction with HVAC systems increased, though one respondent reported decreased 
+satisfaction after the upgrade. 
+Figure 29 Survey Results on Overall Homeowner Satisfaction with the GSHP System 
+ 
+ 
+ 
+ 
+ 
+ 
+ 
+ 
+ 
+ 
+ 
+ 
+ 
+0
+1
+2
+3
+4
+5
+6
+7
+8
+9
+10
+Overall, how satisfied or dissatisfied are you with
+your ground source heat pump system?
+Overall, how satisfied or dissatisfied are/were you with
+your cooling system prior to the heat pump upgrade?
+Overall, how satisfied or dissatisfied are/were you with
+your heating system prior to the heat pump upgrade?
+Number of Respondents
+Overall Satisfaction with Heating and Cooling Systems: Before and After Upgrade
+Very satisfied
+Somewhat satisfied
+Neither satisfied nor dissatisfied
+Somewhat dissatisfied
+Very dissatisfied
+Exhibit __ (FOH-2) 
+Page 182 of 241
+
+
+--- Page 31 ---
+ 
+58 
+5.2.1 Perceived Heating Performance 
+Generally, respondents were happy with the heating performance of their new system compared to the 
+original system. 
+Figure 30 Survey Results on Perception of Heating Performance Before and After Upgrade 
+ 
+ 
+ 
+ 
+ 
+ 
+ 
+ 
+0
+1
+2
+3
+4
+5
+6
+7
+8
+9
+10
+How does your ground source heat pump system
+perform during winter?
+How did your home heating system perform over the
+most recent winter, prior to the heat pump upgrade?
+Number of Respondents
+Perceived Heating Performance: Before and After Upgrade
+My desired temperature was maintained in all rooms
+of my home.
+My desired temperature was maintained in some
+rooms, but not in others (i.e., it was warm enough in
+some rooms but too cold in others).
+My desired temperature was not reached in any area
+in my home (i.e., it was too cold in every room).
+0
+1
+2
+3
+4
+5
+6
+7
+8
+9
+10
+Overall, how do you feel your heat pump maintains desired temperatures
+throughout your home during winter compared to before the heat pump
+upgrade?
+Overall, how do you expect your heat pump will maintain desired
+temperatures throughout your home in the winter compared to before
+the heat pump upgrade?
+Number of Respondents
+Expected and Experienced  Improvements in Heating Performance
+Much better
+Slightly better
+About the same
+Slightly worse
+Much worse
+Exhibit __ (FOH-2) 
+Page 183 of 241
+
+
+--- Page 32 ---
+ 
+59 
+5.2.2 Perceived Cooling Performance 
+Overall, the new GSHP system is performing better during summer than the previous cooling system. 
+Some homeowners did not have cooling prior or used window air conditioners.  All respondents reported 
+cooling maintaining desired temperatures throughout the home during summer to be about the same or 
+better. 
+Figure 31 Survey Results on Perception of Cooling Performance Before and After Upgrade 
+ 
+ 
+ 
+ 
+ 
+0
+1
+2
+3
+4
+5
+6
+7
+8
+9
+10
+How does your ground source heat pump system
+perform during summer?
+How did your home cooling system perform over the
+most recent summer, prior to the heat pump
+upgrade?
+Number of Respondents
+Perceived Cooling Performance: Before and After Upgrade
+My desired temperature was maintained in all rooms
+of my home.
+My desired temperature is maintained in some rooms,
+but not in others (i.e., it gets cool enough in some
+rooms but too hot in others).
+My desired temperature was not reached in any area
+of my home (i.e., it was too hot in every room).
+0
+2
+4
+6
+8
+10
+12
+Overall, how well do feel your heat pump maintains desired temperatures
+throughout your home in the summer compared to before the heat pump
+upgrade?
+Overall, how well do you expect your heat pump will maintain desired
+temperatures throughout your home in the summer compared to before
+the heat pump upgrade?
+Number of Respondents
+Expected and Experienced  Improvements in Cooling Performance
+Much better
+Slightly better
+About the same
+Slightly worse
+Much worse
+Exhibit __ (FOH-2) 
+Page 184 of 241
+
+
+--- Page 33 ---
+ 
+60 
+5.3 
+Operating Costs 
+5.3.3 Perceived Heating Costs 
+Respondents were overall unhappy with their heating costs prior to the upgrade. One-third of respondents 
+expected a decrease in heating costs, and one-third expected an increase in heating costs after the ground-
+source heat pump upgrade.  It was also a mixed bag in experienced results in heating costs, with some 
+thinking their energy bills were lower than expected, some higher than expected, and some about as 
+expected.   
+Of course, homeowner perceptions on heating costs may be focused on the increase in their electric bills 
+without fully remembering the fuel bill that they no longer had to pay.  Actual heating savings were of 
+course the net change in these two bills and ranged from $306 to $886 as shown in the previous section 
+(Table 26).  
+Figure 32 Survey Results on Perception of Heating Costs Before and After Upgrade 
+ 
+ 
+ 
+ 
+ 
+0
+2
+4
+6
+8
+10
+How do/did you feel about the cost of energy
+from your
+heating system prior to the heat pump…
+Number of Respondents
+Too low
+Slightly too low
+About right
+Slightly too high
+Very high
+0
+2
+4
+6
+8
+10
+How do you expect your winter energy bills to
+change overall after the heat pump upgrade?
+Number of Respondents
+Decrease
+Little to no change
+Increase
+0
+2
+4
+6
+8
+10
+Now that you have a ground source heat pump system,
+how do your winter electricity bills compare to what
+you expected prior to the upgrade?
+Number of Respondents
+Lower than expected
+About as expected
+Higher than expected
+Exhibit __ (FOH-2) 
+Page 185 of 241
+
+
+--- Page 34 ---
+ 
+61 
+5.3.4 Perceived Cooling Costs 
+Respondents were also unhappy overall with their original cooling costs, but the experiences after the 
+ground-source heat pump was installed was more positive.  While most survey respondents expected a 
+decrease in cooling energy costs, about half reported lower electricity bills than expected, and the other 
+half reported bills about as expected.  The actual cost savings were all greater than zero (see Table 26), 
+though it is possible that some homes were originally under cooled.  Some of the concerns about high 
+utility bills may have been due to thermostat issues experienced by some owners (i.e., some homes had 
+unexpectedly low cooling setpoints which could increase costs).   
+This shows that some clearer delivery of expectations is needed upfront to customers on increased heating 
+costs, and no change is needed in delivery of expectations in cooling costs. 
+Figure 33 Survey Results on Perception of Cooling Costs Before and After Upgrade 
+ 
+ 
+ 
+ 
+ 
+ 
+0
+2
+4
+6
+8
+10
+How do/did you feel about the cost of energy from your
+cooling system prior to the heat pump upgrade?
+Number of Respondents
+Too low
+Slightly too low
+About right
+Slightly too high
+Very high
+0
+2
+4
+6
+8
+10
+How do you expect your summer energy bills to
+change overall after the heat pump upgrade?
+Number of Respondents
+Decrease
+Little to no change
+Increase
+0
+2
+4
+6
+8
+10
+Now that you have a ground source heat pump system,
+how do your summer electricity bills compare to what
+you expected prior to the upgrade?
+Number of Respondents
+Lower than expected
+About as expected
+Higher than expected
+Exhibit __ (FOH-2) 
+Page 186 of 241
+
+
+--- Page 35 ---
+ 
+62 
+5.4 
+The Heat Pump Installation Process 
+Generally, respondents did not find the heat pump installation a more onerous or invasive process than 
+other types of HVAC equipment such as a furnace.  One respondent though the installation was less 
+invasive. 
+Figure 34 Survey Results on GSHP Installation Process 
+ 
+5.5 
+Highlights from Phone Interviews 
+Phone surveys were conducted with seven homeowners around the time of heat pump installation, and 
+with five after a year or more.  In total we had 12 phone conversations with eight different owners. These 
+calls were held in conjunction with an online survey to give the homeowners a chance to freely describe 
+their expectations and experience. The following key points arose from these surveys: 
+ 
+Testimonials matter. Many of the homeowners knew very little about ground-source heat 
+pumps before being introduced to this pilot program, and they did their research and talked to as 
+many people as they could before signing up. People inside their social and family networks 
+were mentioned specifically. For example, one homeowner stated that they trusted that the park 
+owner wouldn’t go forward with the project if it wouldn’t be good for them. Other homeowners 
+shared how they had talked through the whole process of installing ground-source heat pumps 
+with someone who had already gone through it. 
+ 
+Existing HVAC problems are a decision factor. One owner stated that their furnace would 
+overheat and then let the temperature drop quickly, resulting in fluctuating temperatures. Many 
+owners complained of outer areas of their home being cooler than the inner areas during winter. 
+All expressed hope that the new system and associated weatherization measures would resolve 
+these issues. 
+ 
+Airflow is a concern for some, but not others. Residents who are used to radiant heating—
+and those who like the feel of warm furnace air blowing and expected the heat pump system to 
+be the same—complained of the feel of cold air blowing out of the vents. Residents who were 
+used to forced air HVAC and had moderate setbacks of 2-3°F at night seemed happy with the 
+air flow. One homeowner stated that the airflow seemed better than before even though there 
+were no changes to the distribution system. 
+ 
+Airflow aside, comfort is improved. Some specific points mentioned during the surveys 
+include: central air conditioning is much nicer than having window air conditioner units; we are 
+0
+2
+4
+6
+8
+10
+How did you feel about the installation process compared to an
+equipment replacement (e.g. replacing your old boiler with a new
+boiler)
+Number of Respondents
+It was less invasive
+There was little to no difference
+It was more invasive
+Exhibit __ (FOH-2) 
+Page 187 of 241
+
+
+--- Page 36 ---
+ 
+63 
+feeling warm for the first time since being in the house; the heat pump heats the house to a nice 
+temperature; and there is more even heat throughout the house than ever before. One 
+homeowner did mention however that floors were cold despite underfloor insulation. 
+ 
+Noise is a concern for some, but not others. Perception of noise depends on experience and 
+expectations. Like airflow, one resident that was accustomed to radiant heat complained of the 
+noise of the system. In contrast, multiple homeowners expressed their delight at the decreased 
+noise when compared to their previous furnace and central air conditioning—they no longer had 
+to turn up the volume on the TV when the HVAC system came on. One homeowner mentioned 
+having a noisy system when it was first installed, but after a contractor came in and adjusted the 
+fan it was quiet. 
+ 
+The air in and around the home is cleaner. Many of these homes were previously heated by 
+kerosene, stored in a tank next to their house. Multiple homeowners were pleased that they no 
+longer had the smell of kerosene lingering both outside and inside their home. 
+ 
+Advanced thermostats come with benefits and drawbacks. Some benefits that homeowners 
+reported included: it is more controllable than their old thermostat (e.g. scheduling), it is easy to 
+turn the temperature up or down, they love just setting it and leaving it, and they can check on 
+and regulate temperature when on vacation (with a smart thermostat and a phone app). One 
+resident did not appear to understand the thermostat when asked about it. However, another 
+resident stated that not only did the installers help them program the thermostat, they also had a 
+number to dial and get help immediately over the phone, which they had a good experience 
+with. 
+ 
+Cost counts—and it’s difficult to understand. Many homeowners were motivated to switch to 
+a ground-source heat pump system from the high and fluctuating costs of kerosene, and an 
+understanding that it was supposed to save them money in the long run for heating. One 
+homeowner mentioned the “sticker shock” from filling a kerosene tank from empty; another 
+would even go and read the tank themselves and call in the delivery at half a tank to avoid the 
+big bill. Post-installation, costs were still a big concern for residents. There seemed to be 
+varying expectations—some expected the cost to be higher than fuel oil, some expected it to be 
+a little cheaper, and others expected it to be much cheaper. Some residents thought “electric is 
+expensive” – not fully understanding the difference between electric resistance heat and electric 
+heat pumps. Some homeowners stated that the first bills coming in were higher than expected. 
+This seemed to be a combination of the result of an extended cold snap, a two-month cycle 
+between meter readings, and changes in utility rates not happening immediately. Many 
+homeowners mentioned some version of “we’ve made some adjustments to temperatures, 
+setbacks, and scheduling, and we are going to wait and see if this helps the next bill”. It may be 
+beneficial to provide homeowners with more immediate feedback on how their actions impact 
+energy use. One resident with cost complaints set the thermostat to 70°F during the day and 
+60°F during the night throughout winter. Another stated that if they didn’t see lower bills, 
+they’re going to use electric resistance space heaters instead and tear the system out. Multiple 
+owners understood that they should only drop the temperature by 2-3°F degrees at night, but 
+many didn’t understand why.  
+ 
+Uninsulated pipes above-ground will freeze. Several homes experienced freezing pipes as 
+temperatures dropped or were identified as being at risk of having freezing pipes. These homes 
+are above-ground with a crawl space underneath. These pipes were later insulated properly and 
+Exhibit __ (FOH-2) 
+Page 188 of 241
+
+
+--- Page 37 ---
+ 
+64 
+covered with spray foam.  In our view this was an issue with the homes themselves and was not 
+really related to the GSHP upgrade. 
+ 
+Some technical issues with thermostats. One resident stated that their thermostat incorrectly 
+called for emergency heat when in heating mode. This issue was corrected by replacement of a 
+malfunctioning part by the contractor. Another homeowner stated that their thermostat had a 
+default setpoint of 50°F which they were unable to override. This issue was corrected, but it 
+took nine days to fix. Another homeowner is upset with the location of their thermostat by the 
+water heater, as they believe that location is not a good representation of the temperature of the 
+living space. 
+ 
+More customer training is needed. One homeowner claimed they were told they should leave 
+the house at 65°F when they were not home. After a month away, they were upset with how 
+high the electric bill was for an unoccupied house. More detailed instructions should have been 
+provided on when it makes sense to turn down the heat to provide optimum savings. Another 
+homeowner understood that it was necessary to clean the filter regularly, but found difficulty 
+pulling it out, and then after washing it, ended up buying another filter to use while it dried, 
+assuming it couldn’t be put back in while wet. 
+ 
+Contractor work and interactions were satisfactory. All homeowners were satisfied with the 
+work and the manner of interactions with the various contractors. One stated that they were 
+happy with the level of communication—they were told in advance when someone was going to 
+be there. Another mentioned that at the time of installation, they felt like they had a lot of 
+people coming in and out of their home. This was more than they expected when comparing to a 
+simple changeout of their old system but looking back now it doesn’t seem so bad. 
+ 
+The rest. A homeowner was confused why a heat pump unit with a three-year warranty 
+stamped on the unit had only a year of warranty left after the installation date.  Another 
+homeowner had done their research, and they were happy that it was a two-stage system going 
+in, so it didn’t need to work on full if it wasn’t needed. 
+Exhibit __ (FOH-2) 
+Page 189 of 241
+
+
+--- Page 38 ---
+ 
+65 
+6 
+Summary and Conclusions 
+National Grid and NYSERDA undertook this demonstration project to understand the potential benefits 
+of a ground source heat pump system that serves multiple homes using a community or common ground 
+loop.  The community loop, ground source heat pump system was installed in an existing housing 
+development in Riverhead, NY.  The single-family, detached homes ranged from 900 to 1600 square feet 
+and included new homes as well as existing homes built as early as the 1970s.  A community loop with 20 
+vertical bores was installed in a common area close to the ten homes.  The system included about 150 ft 
+of vertical bore per installed ton.  Dual-stage, 3-ton heat pumps were installed each home.  Due to space 
+limitations in the furnace closets in the homes, eight heat pumps were split units with separate indoor and 
+outdoor sections.  These split systems had approximately 10% lower rated efficiencies.  
+A data acquisition system with BTU Meters and power meters was installed on each heat pump to 
+quantify the capacity and efficiency of each unit in the heating and cooling modes.  Total loop 
+performance was also measured.  The power use and runtime of key components were also measured to 
+understand performance differences.         
+6.1 
+Overall Heat Pump Performance 
+Overall the average seasonal heating COP was 2.83 for the all the HP units, or about 70% lower than the 
+COPs implied by the full and part load AHRI-rated COPs (the average of full and part load rated COPs 
+was 4.0).  The seasonal average COP for the different units ranged from 2.20 to 3.71.  Some of the 
+reasons for the measured differences in heating efficiency were: 
+ 
+The two packaged units had measured COPs of 3.7 and 3.5, and average of 3.6.  The measured 
+COPs for split systems ranged from 2.2 to 2.95, and average of 2.63. 
+ 
+The fan power associated with the units ranged from 232 to 466 Watts, most-likely due to 
+differences in the ductwork and different air flows in each house.  The implied airflows ranged 
+from 978 to 1198 cfm, or 326 to 400 cfm per ton.  A trend of higher COP with lower fan power 
+was observed.   
+ 
+Pump power ranged from 165 to 407 Watts as the loop flow through each heat pump varied 
+from 6 to 11 gpm.  The trend of higher COP with lower flow and power was observed.  
+ 
+Three of the heat pump units (all split systems) did NOT vary fan power (and airflow) as the 
+compressor changed between high- and low-stage operation.  This resulted in excess fan power 
+and a lower net system COP for low-stage operation.    
+ 
+We also noted the that system design with a dual-stage heat pump combined with constant speed pumping 
+resulted in a lower COP for low-stage operation.  Since units were generally oversized (see Appendix B), 
+the units all spent the vast majority of their operating time at low stage.  The measured data showed that 
+Exhibit __ (FOH-2) 
+Page 190 of 241
+
+
+--- Page 39 ---
+ 
+66 
+the low-stage COP was generally 5-15% lower than in high-stage operation.  The theoretical analysis with 
+manufacturer’s data at the end of Appendix C corroborated this impact.  
+ 
+6.2 
+Ground Loop Performance 
+The supply temperatures from ground loop heat exchanger stayed well within the stated design conditions 
+of 37°F minimum in heating and 80°F maximum for cooling.  The resulting loop sizing was 150 ft of 
+vertical bore per installed ton.  Since the heat pumps were generally oversized, the load on the system 
+resulted in supply temperatures that rarely dropped below 45°F in the winter or rarely exceeded 70°F in 
+the summer. 
+We observed that the coincident peak load imposed on the ground heat exchanger was less than the sum 
+individual (non-coincident) loads of each heat pump.  This peak load coincidence was 85% in the summer 
+and 82% in the winter – more diversity than might be expected given the very similar load characteristics 
+of these single-family homes.       
+One problem we found was that the piping from the ground loop to HP2 was hooked up backwards.  This 
+caused the entering temperatures for HP2 to be at the return conditions:  i.e., warmer in the summer and 
+colder in the winter.  Even worse, this pumping mistake negatively impacted the entering water 
+temperatures for at least four additional heat pumps. 
+This mistake of switching pipes occurred because the system used a common loop with individual flow 
+stations on each heat pump.  In a conventional geothermal system with a single heat pump, the problem of 
+keeping track of the supply and return piping in the trenches is unnecessary.  For a larger system with a 
+common ground loop and centralized pumping, reversed flow issues are easier to detect and fix during 
+normal course of test and balancing.  The common loop with individual pumping creates a new issue –not 
+normally considered by loop installers – that must be carefully tracked during loop construction.  In this 
+case, a very thorough commissioning process implemented by a highly qualified loop inspector was not 
+able to detect the problem.  It was only found after the fact using detailed monitored data in the summer 
+months.                       
+6.3 
+Cost Savings 
+The cost savings for each home were determined using an assumed electric cost and regional or statewide 
+fuel costs. Heating savings ranged from $306 to $886 per year (33% to 67%, average of 48%).  The site 
+with propane had the largest savings.  Cooling savings ranged from $9 to $160 (5% to 40%, average of 
+25%).  Total savings range from $341 to $1037 (31% to 60%, average of 43%).  Annual savings for all 10 
+sites was $6,562.  The system cost of $301,570 results in a simple payback of 46 years. 
+Exhibit __ (FOH-2) 
+Page 191 of 241
+
+
+--- Page 40 ---
+ 
+67 
+The average greenhouse gas savings were 35%.     
+6.4 
+Survey Results 
+We conducted on-line surveys of the homeowners when the heat pumps were first installed and then after 
+a year of operation.  At most sites, we followed with phone interviews.   
+The survey results show that homeowners who participated in this project were primarily motivated by: 1) 
+having a better cooling system, 2) reducing heating energy bills and 3) eliminating the hassle and 
+safety/health issues of delivered fossil fuels. 
+Homeowners were generally satisfied with the performance of the new cooling system and operating 
+costs of their cooling system, though some did perceive higher than expected costs.  For heating, their 
+perception of operating costs below expectations for slightly more than half of the respondents – even 
+though we demonstrated that all of the homes had heating cost savings based on measured data.  One 
+issue driving expectations could be the fact that homeowners might tend to “forget” the fuel bill they no 
+longer pay but clearly “remember” the larger electric bill that continues to come each month.   This may 
+skew their perception of any net savings between the two bills. 
+Some homeowners reported problems using and understanding with the new electronic thermostats.  To 
+corroborate this, we observed that several homes seemed to have cooling set points that were 
+unexpectedly low (70°F, 66°F, etc.).  We also observed some heat set points in the low 60s.  Problems 
+with maintaining desired temperatures and controlling set back seemed to have been an issue for some 
+homeowners.      
+6.5 
+Conclusions and Lessons 
+As a result of this study, we make the following observations and lessons for future applications of 
+community ground source heat pump systems as well as for residential GSHP systems in general.   
+GSHP Retrofits are Difficult in Some Existing Homes.  The single-family homes in this project were all 
+originally heated by fuel-fired furnaces.  The furnace closets in these manufactured homes were space 
+constrained so that less-efficient, split-system GSHP units had be installed in eight of the homes.  In 
+addition, the existing furnace ductwork in some homes was undersized relative to the higher airflows 
+required by the heat pump units.  Some leaks in this ductwork also had to be repaired before the heat 
+Exhibit __ (FOH-2) 
+Page 192 of 241
+
+
+--- Page 41 ---
+ 
+68 
+pumps were installed.  The result was higher installation costs, lower heat pump efficiency, and greater 
+fan power than might be expected in more ideal applications.          
+Common Loops Have Benefits and Drawbacks.   
+ 
+Leveraging Load Diversity.  Installing multiple heat pumps on a common ground loop has 
+potential benefits of improved load diversity.  At this site we measured 80% coincidence of 
+peak loads (where 100% equates to perfect coincidence or no diversity).  Load diversity (or lack 
+of coincidence) can result in better overall performance than dedicated loops installed to serve 
+each heat pump with the same number of vertical bores.  Load diversity is highest with mixed 
+applications, such as combining retail and residential, and lowest when the loads are the same, 
+such as a group of single-family homes.   
+ 
+Loop Pumping.  Common loops with centralized variable speed loop pumping offer significant 
+pumping savings at part load – which is one of the largest benefits of a common ground loop.  
+Common loops with individual pumping offer smaller pumping savings, since the Watts per 
+actual gpm remain constant as part load.  In general, we estimate centralized variable speed 
+pumping might reduce annual pumping energy by a factor of two compared to individual 
+pumping.   
+ 
+Construction Costs.  The cost of constructing a common loop with individual pumping (as used 
+in this study) was greater than the cost of installing multiple individual ground loops for each 
+heat pump as one construction project.  If designers can take advantage of the load diversity in 
+common loops by installing a smaller ground heat exchanger to reduce cost and also reap the 
+operating benefits of centralized variable speed pumping, then the cost and performance 
+benefits of common loops may be greater than the drawbacks.     
+ 
+Modulating Heat Pumps Require Modulating Flows. Heat pumps that are dual-stage or variable-speed 
+should also be able to vary loop flow and airflow to achieve the best performance.  The dual stage heat 
+pumps in this study were designed with constant speed pumping.  As a result, the low-stage COP was 
+about 10-15% lower than the high-stage COP – negating the expected seasonal efficiency benefit of the 
+dual stage unit.  In addition, the airflow on three heat pumps did not vary with heat pump capacity as 
+expected (presumably due to an improper unit setting).  Care must be taken during installation, setup and 
+commissioning to ensure modulating flow is achieved.  For GSHP units in this project, using a single 
+stage thermostat with only the unit’s high-stage would have improved seasonal system efficiency.       
+Higher System Efficiency at Modest Flows.  While the efficiency of a heat pump unit can be higher at 
+higher airflows and loop flows, the efficiency of the combined system, including pumps and fans, usually 
+decreases at higher flows.  Meeting or exceeding common rule-of-thumb targets for loop flows and 
+airflows usually result in lower overall system COPs.  In terms of airflow, HVAC systems often have 
+Exhibit __ (FOH-2) 
+Page 193 of 241
+
+
+--- Page 42 ---
+ 
+69 
+optimal efficiency at flow rates from 350-375 cfm per installed ton.   Similarly, loop flowrates should be 
+selected to ensure reliable operation at all operating conditions.  The most efficient loop flow rate is 
+usually lower than 3 gpm per installed ton. 
+    
+                 
+Exhibit __ (FOH-2) 
+Page 194 of 241
+
+
+--- Page 43 ---
+ 
+A-1 
+Appendix A: Analysis of Fuel Bills from Existing 
+Homes  
+Fuel delivery logs were available for 7 of 8 existing homes.  The logs included the amount of fuel 
+delivered for each period and the fuel cost.  Table A-1 summarizes the collected fuel use data determined 
+by summing up the fuel deliveries for the year (i.e., the “Simple Sum”).  We also use the loads lines 
+developed from regression analysis to predict annual fuel use using the TMY-2 bin temperature data for 
+JFK airport (see Figures A-1 to A-7).  The simple summation sometimes crossed the 12-month boundary, 
+so the annual total fuel use determined from the temperature bin analysis was thought to be more 
+accurate.    
+Table A-1.  Summary of Annual Fuel Use and Costs   
+HP 
+Unit 
+No 
+House 
+Original Heating 
+System 
+Average Fuel 
+Cost ($/gal) 
+Annual Fuel Use - 
+Simple Sum 
+(gal/yr) 
+Annual Fuel Use - 
+Bin Analysis 
+(gal/yr) 
+HP1 
+156B 
+Propane Furnace 
+  
+ 
+ 
+HP2 
+156C 
+Propane Furnace 
+2.6 
+575 
+500 
+HP3 
+164 
+ 
+  
+ 
+ 
+HP4 
+165 
+ 
+  
+ 
+ 
+HP5 
+168B 
+Kerosene Furnace 
+3.39 
+230 
+227 
+HP6 
+168C 
+Kerosene Furnace 
+2.96 
+318 
+381 
+HP7 
+361 
+Kerosene Furnace 
+2.75 
+296 
+393 
+HP8 
+362 
+Kerosene Furnace 
+3 
+757 
+489 
+HP9 
+363 
+Kerosene Furnace 
+2.73 
+229 
+237 
+HP10 
+364 
+Kerosene Furnace 
+3.71 
+362 
+444 
+ 
+Table A-2 compares the annual heating load determined from measured data to the annual load implied 
+by the fuel use data.  Generally, the heating loads implied by the annual fuel use (before weatherization) 
+are 8 to 75% higher than the measured (post-retrofit) heating loads with the new heat pumps.  This makes 
+sense given that weatherization activities should have decreased the heating load served by the GSHP 
+system.  However, HP2 and HP9 were not weatherized yet still show 8 and 11% differences, respectively 
+– providing some indication of the uncertainty of this bill-based comparison         
+ 
+Exhibit __ (FOH-2) 
+Page 195 of 241
+
+
+--- Page 44 ---
+ 
+A-2 
+Table A-2.  Comparing Measured Heating Loads to Annual Fuel Use  
+HP 
+Unit 
+No 
+Air Tightness 
+Insulation 
+Added 
+Annual 
+Fuel Use 
+(gal/yr) 
+Heating 
+Load - 
+Implied by 
+Fuel Use 
+(MMBtu) 
+Heating 
+Load – 
+Measured 
+Data 
+(MMBtu) 
+Fuel-
+Measured 
+Percentage 
+Difference 
+HP1 
+None 
+  
+  
+ 
+33.3 
+ 
+HP2 
+None 
+ 
+500 
+35.9 
+33.2 
++8% 
+HP3 
+None 
+ 
+ 
+ 
+28.4 
+ 
+HP4 
+None 
+ 
+ 
+ 
+26.7 
+ 
+HP5 
+Tighter by 47% 
+Underfloor 
+227 
+24.6 
+22.9 
++8% 
+HP6 
+Tighter by 23% 
+Underfloor 
+381 
+41.4 
+39.4 
++5% 
+HP7 
+Tighter by 33% 
+Underfloor 
+393 
+42.7 
+34.2 
++25% 
+HP8 
+Tighter by 15% 
+Underfloor 
+489 
+53.1 
+41.5 
++28% 
+HP9 
+None 
+ 
+237 
+25.7 
+23.1 
++11% 
+HP10 
+Tighter by 40% 
+Previously 
+444 
+48.2 
+27.5 
++75% 
+Notes:  Assumed factors for Propane:  92 MBtu/gal & 78% efficiency.  Kerosene:   134 MBtu/gal and 81% efficiency 
+ 
+The largest variation between pre- and post-weatherization loads was for HP10 at 75%.  At this site the 
+air tightness was improved by 40%, but no other work was done.  However, the homeowner reported that 
+their home had been previously weatherized before this project as part of another LIPA program.  Since 
+the measured fuel use data for HP10 was from the 2015-2016 period (see Figure A-7), it appears that this 
+unknown weatherization happened after that period and therefore the savings (in Table A-2) also include 
+the impact of this activity.  The implied savings from weatherization at HP5 to HP8 ranged from 8 to 
+28%.  The average implied reduction in heating load due to weatherization was 17% for the four homes. 
+Exhibit __ (FOH-2) 
+Page 196 of 241
+
+
+--- Page 45 ---
+ 
+A-3 
+Figure A-1.  Fuel Delivery Logs vs. Outdoor Temperature for Site 1  
+ 
+Figure A-2.  Fuel Delivery Logs vs. Outdoor Temperature for Site 5  
+ 
+NGRID-GHP  Unit 2 Riverhead   WUG: JFK  MTR: #N/A
+35
+40
+45
+50
+55
+Outdoor Temperature (F)
+0.0
+0.5
+1.0
+1.5
+2.0
+Propane (gal/day)
+2016
+2017
+Space Htg:  Propane
+Balance Pt (F): *****
+ Total Peak @ 10F:   1.4
+ Offset/Slope:   1.409 /   0.004
+Space Htg:  Propane
+NGRID-GHP  Unit 5 Riverhead   WUG: JFK  MTR: #N/A
+20
+40
+60
+80
+Outdoor Temperature (F)
+0.0
+0.2
+0.4
+0.6
+0.8
+1.0
+1.2
+1.4
+Kerosene (gal/day)
+2015
+2016
+2017
+Space Htg:  Kerosene
+Balance Pt (F):  70.5
+ Total Peak @ 10F:   2.1
+ Offset/Slope:   2.445 /  -0.035
+Space Htg:  Kerosene
+Exhibit __ (FOH-2) 
+Page 197 of 241
+
+
+--- Page 46 ---
+ 
+A-4 
+Figure A-3.  Fuel Delivery Logs vs. Outdoor Temperature for Site 6  
+ 
+Figure A-4.  Fuel Delivery Logs vs. Outdoor Temperature for Site 7  
+ 
+NGRID-GHP  Unit 6 Riverhead   WUG: JFK  MTR: #N/A
+20
+30
+40
+50
+60
+70
+Outdoor Temperature (F)
+0.0
+0.5
+1.0
+1.5
+2.0
+2.5
+Kerosene (gal/day)
+2015
+2016
+2017
+Space Htg:  Kerosene
+Balance Pt (F):  69.6
+ Total Peak @ 10F:   3.6
+ Offset/Slope:   4.218 /  -0.061
+Space Htg:  Kerosene
+NGRID-GHP  Unit 7 Riverhead   WUG: JFK  MTR: #N/A
+35
+40
+45
+50
+55
+60
+65
+Outdoor Temperature (F)
+0.0
+0.5
+1.0
+1.5
+2.0
+2.5
+Kerosene (gal/day)
+2015
+2016
+Space Htg:  Kerosene
+Balance Pt (F):  69.2
+ Total Peak @ 10F:   3.8
+ Offset/Slope:   4.459 /  -0.064
+Space Htg:  Kerosene
+Exhibit __ (FOH-2) 
+Page 198 of 241
+
+
+--- Page 47 ---
+ 
+A-5 
+Figure A-5.  Fuel Delivery Logs vs. Outdoor Temperature for Site 8  
+ 
+Figure A-6.  Fuel Delivery Logs vs. Outdoor Temperature for Site 9  
+ 
+NGRID-GHP  Unit 8 Riverhead   WUG: JFK  MTR: #N/A
+41.0
+41.5
+42.0
+42.5
+43.0
+43.5
+44.0
+Outdoor Temperature (F)
+0.0
+0.5
+1.0
+1.5
+2.0
+2.5
+Kerosene (gal/day)
+2016
+2017
+Space Htg:  Kerosene
+Balance Pt (F):  55.0
+ Total Peak @ 10F:   7.6
+ Offset/Slope:   9.313 /  -0.169
+Space Htg:  Kerosene
+NGRID-GHP  Unit 9 Riverhead   WUG: JFK  MTR: #N/A
+30
+35
+40
+45
+50
+55
+60
+Outdoor Temperature (F)
+0.0
+0.5
+1.0
+1.5
+Kerosene (gal/day)
+2013
+2014
+2015
+2016
+Space Htg:  Kerosene
+Balance Pt (F):  74.7
+ Total Peak @ 10F:   2.0
+ Offset/Slope:   2.312 /  -0.031
+Space Htg:  Kerosene
+Exhibit __ (FOH-2) 
+Page 199 of 241
+
+
+--- Page 48 ---
+ 
+A-6 
+Figure A-7.  Fuel Delivery Logs vs. Outdoor Temperature for Site 10  
+NGRID-GHP  Unit 10 Riverhead   WUG: JFK  MTR: #N/A
+20
+30
+40
+50
+60
+70
+Outdoor Temperature (F)
+0
+2
+4
+Kerosene (gal/day)
+2015
+2016
+Space Htg:  Kerosene
+Balance Pt (F):  69.0
+ Total Peak @ 10F:   4.3
+ Offset/Slope:   5.066 /  -0.073
+Space Htg:  Kerosene
+Exhibit __ (FOH-2) 
+Page 200 of 241
+
+
+--- Page 49 ---
+ 
+B-1 
+Appendix B: Comparing Measured Heating Load Data 
+to Manual J Peak Loads  
+This appendix compares the measured heating load data to the load lines implied by the calculated 
+Manual J heating load (Figures B-1 to B-10).  The heating load data are the daily total values (MBtu/day) 
+converted to an average rate across the day (MBtu/h) and then plotted against the daily average 
+temperatures.  The line uses the Manual J heating load reported by the HVAC contractor which were 
+presumably calculated at the local 1% design temperature (e.g., 15°F for JFK airport).  The load line 
+assumes the heating load goes to zero at an outdoor temperature (or balance point) of 57.5°F.  The tile of 
+each plot gives the Manual J heating load (MJ) in MBtu/h as well as the annual heating load for the year 
+(YR) in MMBtu. 
+Generally, the Manual J design loads over-predicted the heating loads compared to the measured data.  
+Some of this difference may be explained by the fact that Manual J load calculations do not consider 
+internal gains in the homes.  The real homes have internal gains from occupants and electric consumption.  
+It is also possible that the HVAC contractor under predicted the impact of the weatherization 
+improvements implemented in each home.  It is also noteworthy that while the Manual J peak loads range 
+from 30 to 39 MBtu/h, the floor areas range from 900 to 1600 square feet.  It is possible that the Manual J 
+calculations did not accurately represent the actual thermal characteristics of each building.          
+ 
+ 
+ 
+Exhibit __ (FOH-2) 
+Page 201 of 241
+
+
+--- Page 50 ---
+ 
+B-2 
+Figure B-1.  Daily Heating Load Data Compared to Load Line Implied by Manual J Load  - HP1 
+ 
+Figure B-2.  Daily Heating Load Data Compared to Load Line Implied by Manual J Load  - HP2 
+ 
+0
+5
+10
+15
+20
+25
+30
+35
+0
+10
+20
+30
+40
+50
+60
+70
+80
+AVG Heating Load (Mbtu/h)
+Outdoor Temperature (F)
+Unit 1 ( MJ= 32 MBtu/h, YR=  33 MMBtu)
+0
+5
+10
+15
+20
+25
+30
+35
+40
+0
+10
+20
+30
+40
+50
+60
+70
+AVG Heating Load (Mbtu/h)
+Outdoor Temperature (F)
+Unit 2 ( MJ= 35 MBtu/h, YR=  33 MMBtu)
+Exhibit __ (FOH-2) 
+Page 202 of 241
+
+
+--- Page 51 ---
+ 
+B-3 
+Figure B-3.  Daily Heating Load Data Compared to Load Line Implied by Manual J Load  - HP3 
+ 
+Figure B-4.  Daily Heating Load Data Compared to Load Line Implied by Manual J Load  - HP4 
+ 
+ 
+ 
+ 
+0
+5
+10
+15
+20
+25
+30
+35
+0
+10
+20
+30
+40
+50
+60
+70
+AVG Heating Load (Mbtu/h)
+Outdoor Temperature (F)
+Unit 3 ( MJ= 32 MBtu/h, YR=  28 MMBtu)
+0
+5
+10
+15
+20
+25
+30
+35
+0
+10
+20
+30
+40
+50
+60
+70
+AVG Heating Load (Mbtu/h)
+Outdoor Temperature (F)
+Unit 4 ( MJ= 32 MBtu/h, YR=  26 MMBtu)
+Exhibit __ (FOH-2) 
+Page 203 of 241
+
+
+--- Page 52 ---
+ 
+B-4 
+ 
+Figure B-5.  Daily Heating Load Data Compared to Load Line Implied by Manual J Load  - HP5 
+ 
+Figure B-6.  Daily Heating Load Data Compared to Load Line Implied by Manual J Load  - HP6 
+ 
+ 
+ 
+0
+5
+10
+15
+20
+25
+30
+35
+0
+10
+20
+30
+40
+50
+60
+70
+80
+AVG Heating Load (Mbtu/h)
+Outdoor Temperature (F)
+Unit 5 ( MJ= 30 MBtu/h, YR=  22 MMBtu)
+0
+5
+10
+15
+20
+25
+30
+35
+40
+0
+10
+20
+30
+40
+50
+60
+70
+80
+AVG Heating Load (Mbtu/h)
+Outdoor Temperature (F)
+Unit 6 ( MJ= 34 MBtu/h, YR=  39 MMBtu)
+Exhibit __ (FOH-2) 
+Page 204 of 241
+
+
+--- Page 53 ---
+ 
+B-5 
+Figure B-7.  Daily Heating Load Data Compared to Load Line Implied by Manual J Load  - HP7 
+ 
+Figure B-8.  Daily Heating Load Data Compared to Load Line Implied by Manual J Load  - HP8 
+ 
+ 
+ 
+0
+5
+10
+15
+20
+25
+30
+35
+40
+45
+0
+10
+20
+30
+40
+50
+60
+70
+AVG Heating Load (Mbtu/h)
+Outdoor Temperature (F)
+Unit 7 ( MJ= 38 MBtu/h, YR=  34 MMBtu)
+0
+5
+10
+15
+20
+25
+30
+35
+40
+0
+10
+20
+30
+40
+50
+60
+70
+80
+AVG Heating Load (Mbtu/h)
+Outdoor Temperature (F)
+Unit 8 ( MJ= 34 MBtu/h, YR=  41 MMBtu)
+Exhibit __ (FOH-2) 
+Page 205 of 241
+
+
+--- Page 54 ---
+ 
+B-6 
+Figure B-9.  Daily Heating Load Data Compared to Load Line Implied by Manual J Load  - HP9 
+ 
+Figure B-10.  Daily Heating Load Data Compared to Load Line Implied by Manual J Load  - HP10 
+ 
+0
+5
+10
+15
+20
+25
+30
+35
+40
+0
+10
+20
+30
+40
+50
+60
+70
+80
+AVG Heating Load (Mbtu/h)
+Outdoor Temperature (F)
+Unit 9 ( MJ= 35 MBtu/h, YR=  23 MMBtu)
+0
+5
+10
+15
+20
+25
+30
+35
+40
+0
+10
+20
+30
+40
+50
+60
+70
+80
+AVG Heating Load (Mbtu/h)
+Outdoor Temperature (F)
+Unit 10 ( MJ= 34 MBtu/h, YR=  27 MMBtu)
+Exhibit __ (FOH-2) 
+Page 206 of 241
+
+
+--- Page 55 ---
+ 
+C-1 
+Appendix C: Comparing Measured HP Performance to 
+Manufacturers Data   
+C.1 Steady State HP Performance 
+As a check on the validity of the measured data, we compared measured steady state performance to the 
+manufacturer’s published performance data.  The manufacturers data for the XT036 unit are given below.  
+The performance data includes, HC, the heating capacity at 70°F entering w/o fan Watts.  COP is also 
+without fan Watts. 
+Table C-1.  Manufacturer’s Steady State Performance Data for XT series packaged unit 
+ 
+20D214-04NN XT, Rev.: A 
+ 
+For this comparison, we focused on the XT series package units since these heat pumps are factory-
+charged with refrigerant.  The split units (RT series) were charged in the field (and there could have been 
+errors in this process).  Figure C-1 and C-2 show that the green data points – which represent hours with 
+continuous operation at full load.  The measured heating capacity and COP were calculated with 
+equations 3 & 4 from Section 3 of the report.  The red line represents the manufacturers data.  The 
+measured performance data at steady state are in approximate agreement with the manufacturers data.  
+Some of the variation may be explained by the slight differences in the actual airflow and loop flow 
+compared to the manufacturer’s table.    
+ 
+Exhibit __ (FOH-2) 
+Page 207 of 241
+
+
+--- Page 56 ---
+ 
+C-2 
+Figure C-1.  Comparing Measured Steady State Performance to Manufacturer’s Data for HP3 
+ 
+Figure C-2.  Comparing Measured Steady State Performance to Manufacturer’s Data for HP7 
+ 
+20
+40
+60
+80
+Loop Temperature (F)
+2
+4
+6
+Refrig Heating COP (-)
+20
+40
+60
+80
+Loop Temperature (F)
+0
+2
+4
+Comp Power (kW)
+20
+40
+60
+80
+Loop Temperature (F)
+0
+20
+40
+Ref Capacity (MBtu/h)
+Unit 3 - 01/03/18 to 04/29/18 - Hourly (Steady-State, Q>31)
+LINE = XT036, 9 gpm, 1200 cfm, full load
+Green Pts = Full Load/SS
+Pink Pts = Low Stg/SS
+30
+35
+40
+45
+50
+55
+Loop Temperature (F)
+2
+4
+6
+Refrig Heating COP (-)
+30
+35
+40
+45
+50
+55
+Loop Temperature (F)
+0
+2
+4
+Comp Power (kW)
+30
+35
+40
+45
+50
+55
+Loop Temperature (F)
+0
+20
+40
+Ref Capacity (MBtu/h)
+Unit 7 - 01/03/18 to 04/28/18 - Hourly (Steady-State, Q>27)
+LINE = XT036, 9 gpm, 1200 cfm, full load
+Green Pts = Full Load/SS
+Pink Pts = Low Stg/SS
+Actual flows: 
+992 cfm        
+6 gpm 
+Actual flows: 
+1143 cfm        
+8.4 gpm 
+Exhibit __ (FOH-2) 
+Page 208 of 241
+
+
+--- Page 57 ---
+ 
+C-3 
+C.1 Theoretical Impact of One Stage Pumping 
+This section uses the published data (Table C-1) from the manufacturer to theoretically show the impact 
+of constant speed pumping on a dual stage heat pump unit.  The AHRI-rated part load COP (4.6) is higher 
+than the rated full load COP (4.2) for this dual stage unit, mostly due to the different entering water 
+temperatures.  However, the COPs for full and part load are fairly similar at the same operating condition.  
+In this case the low stage COP is actually lower at 40°F. 
+The table applies different levels of pumping power to demonstrate the impact on Net Heating COP.  At 
+any level of pumping power, the high stage COP is more than 10% better than the low stage COP.  
+Table C-2.  Impact of Constant Speed Pump Operation on High- and Low-Stage COPs 
+  
+20D214‐04NN XT, Rev.: A
+0.15
+0.25
+0.35
+0.45
+Rated COP
+COP at 
+40F
+Heat 
+Capacity 
+(Mbtu/h)
+Unit 
+Power 
+(kW)
+Fan 
+Power 
+(lW)
+Relative 
+Pumping 
+Power
+Low 1050 cfm / 6 gpm
+4.6 at 41F
+3.92
+23.6
+1.76
+0.32
+3.24
+3.10
+2.98
+2.86
+100%
+High 1200 cfm / 9 gpm
+4.2 at 32F
+4.30
+34.3
+2.34
+0.42
+3.60
+3.48
+3.37
+3.26
+100%
+11%
+12%
+13%
+14%
+Net Heating COP
+Pumping Power (kW)
+Catalog Data
+Exhibit __ (FOH-2) 
+Page 209 of 241
+
+
+--- Page 58 ---
+ 
+D-1 
+Appendix D: Variations in Pump and Fan Operation 
+and Fan-Compressor Operating Patterns   
+D.1 Trend of Loop Flow, Pump Power and Fan Power 
+The plots on pages D-2 to D-4 show the trends of loop flow, pumping power and fan power across the 
+entire monitoring period.  These plots were used to detect changes in the loop flow or airflows.  Table D-
+1 summarizes the observed loop flow changes observed across the period.   
+Table D-1.  Changes in Loop Flow Rates 
+Unit 
+Change in Loop Flow 
+HP3 
+Dropped from 12 to 6 gpm on March 10, 2018 
+Increased from 7 to 9 gpm on June 20, 2018 
+HP4 
+Increased from 10 to 13 gpm on May 30, 2018  
+Decreased from 13 to 10 gpm on June 20, 2018 
+HP5 
+Increased from 7 to 12 gpm on February 1, 2019 
+ 
+The loop flow data also confirm the expected trend of loop flow changing with fluid temperatures across 
+the year.  In the winter months, the loop fluid is around 40°F and the higher viscosity results in a lower 
+flow compared to the summer when loop temperatures are closer to 65°F.  The winter-to-summer flow 
+variations are typically 1-2 gpm.    
+D.2 Operating Patterns for Compressor and Fan Power 
+The shade plots on pages D-5 to D-14 compare the patterns of fan and compressor power for HP1 to 
+HP10 over a one-month period (for December 2018). Each day is represented as a vertical stripe on the 
+plot.  Subsequent days are shown along x-axis.  Each 5-minute interval is shown with a shade of gray.  
+Darker shades indicate more power use and light gray indicates zero use.  The maximum and minimum 
+power is listed at the bottom of each plot.  Intervals with missing data is indicated as white.  These plots 
+show: 
+ 
+The pattern of thermostat setback used by some homeowners (HP1, HP6 and HP9) as indicated 
+by the consistent increase in compressor energy use in early morning hours. 
+ 
+The similar operating patterns for compressor power and fan power indicate that the fan always 
+cycled on and off with the compressor.  This fan operating pattern was observed across all 
+months (except for the first couple weeks of operation on HP4 in May 2018).    
+ 
+ 
+Exhibit __ (FOH-2) 
+Page 210 of 241
+
+
+--- Page 59 ---
+Flow Rates
+Q4
+Q1
+Q2
+Q3
+Q4
+Q1
+Q2
+Q3
+Q4
+2017 2018
+2019
+2020
+4
+6
+8
+10
+12
+14
+Flow (gpm)
+HP1
+HP2
+HP3
+HP4
+HP5
+Flow Rates
+Q4
+Q1
+Q2
+Q3
+Q4
+Q1
+Q2
+Q3
+Q4
+2017 2018
+2019
+2020
+4
+6
+8
+10
+12
+14
+Flow (gpm)
+HP6
+HP7
+HP8
+HP9
+HP10
+Exhibit __ (FOH-2) 
+Page 211 of 241
+Exhibit __ (FOH-2) 
+Page 211 of 241
+
+
+--- Page 60 ---
+Pump Power
+Q4
+Q1
+Q2
+Q3
+Q4
+Q1
+Q2
+Q3
+Q4
+2017 2018
+2019
+2020
+0.0
+0.2
+0.4
+0.6
+Pump (kW)
+HP1
+HP2
+HP3
+HP4
+HP5
+Pump Power
+Q4
+Q1
+Q2
+Q3
+Q4
+Q1
+Q2
+Q3
+Q4
+2017 2018
+2019
+2020
+0.0
+0.2
+0.4
+0.6
+Pump (kW)
+HP6
+HP7
+HP8
+HP9
+HP10
+Exhibit __ (FOH-2) 
+Page 212 of 241
+Exhibit __ (FOH-2) 
+Page 212 of 241
+
+
+--- Page 61 ---
+Fan Power
+Q4
+Q1
+Q2
+Q3
+Q4
+Q1
+Q2
+Q3
+Q4
+2017 2018
+2019
+2020
+0.0
+0.2
+0.4
+0.6
+Fan (kW)
+HP1
+HP2
+HP3
+HP4
+HP5
+Fan Power
+Q4
+Q1
+Q2
+Q3
+Q4
+Q1
+Q2
+Q3
+Q4
+2017 2018
+2019
+2020
+0.0
+0.2
+0.4
+0.6
+Fan (kW)
+HP6
+HP7
+HP8
+HP9
+HP10
+Exhibit __ (FOH-2) 
+Page 213 of 241
+Exhibit __ (FOH-2) 
+Page 213 of 241
+
+
+--- Page 62 ---
+WC:  HP1  12/01/18
+Day   (MAX/MIN =       3.83/   0.00 kW)
+1
+2
+3
+4
+5
+6
+7
+8
+9
+10 11 12 13 14 15 16 17 18 19 20 21 22 23 24 25 26 27 28 29 30 31
+December
+0
+2
+4
+6
+8
+10
+12
+14
+16
+18
+20
+22
+24
+Hour of Day
+WF:  HP1  12/01/18
+Day   (MAX/MIN =       0.85/   0.00 kW)
+1
+2
+3
+4
+5
+6
+7
+8
+9
+10 11 12 13 14 15 16 17 18 19 20 21 22 23 24 25 26 27 28 29 30 31
+December
+0
+2
+4
+6
+8
+10
+12
+14
+16
+18
+20
+22
+24
+Hour of Day
+Exhibit __ (FOH-2) 
+Page 214 of 241
+Exhibit __ (FOH-2) 
+Page 214 of 241
+
+
+--- Page 63 ---
+WC:  HP2  12/01/18
+Day   (MAX/MIN =       3.10/   0.00 kW)
+1
+2
+3
+4
+5
+6
+7
+8
+9
+10 11 12 13 14 15 16 17 18 19 20 21 22 23 24 25 26 27 28 29 30 31
+December
+0
+2
+4
+6
+8
+10
+12
+14
+16
+18
+20
+22
+24
+Hour of Day
+WF:  HP2  12/01/18
+Day   (MAX/MIN =       0.64/   0.00 kW)
+1
+2
+3
+4
+5
+6
+7
+8
+9
+10 11 12 13 14 15 16 17 18 19 20 21 22 23 24 25 26 27 28 29 30 31
+December
+0
+2
+4
+6
+8
+10
+12
+14
+16
+18
+20
+22
+24
+Hour of Day
+Exhibit __ (FOH-2) 
+Page 215 of 241
+Exhibit __ (FOH-2) 
+Page 215 of 241
+
+
+--- Page 64 ---
+WC:  HP3  12/01/18
+Day   (MAX/MIN =       2.82/   0.00 kW)
+1
+2
+3
+4
+5
+6
+7
+8
+9
+10 11 12 13 14 15 16 17 18 19 20 21 22 23 24 25 26 27 28 29 30 31
+December
+0
+2
+4
+6
+8
+10
+12
+14
+16
+18
+20
+22
+24
+Hour of Day
+WF:  HP3  12/01/18
+Day   (MAX/MIN =       0.52/   0.00 kW)
+1
+2
+3
+4
+5
+6
+7
+8
+9
+10 11 12 13 14 15 16 17 18 19 20 21 22 23 24 25 26 27 28 29 30 31
+December
+0
+2
+4
+6
+8
+10
+12
+14
+16
+18
+20
+22
+24
+Hour of Day
+Exhibit __ (FOH-2) 
+Page 216 of 241
+Exhibit __ (FOH-2) 
+Page 216 of 241
+
+
+--- Page 65 ---
+WC:  HP4  12/01/18
+Day   (MAX/MIN =       1.58/   0.00 kW)
+1
+2
+3
+4
+5
+6
+7
+8
+9
+10 11 12 13 14 15 16 17 18 19 20 21 22 23 24 25 26 27 28 29 30 31
+December
+0
+2
+4
+6
+8
+10
+12
+14
+16
+18
+20
+22
+24
+Hour of Day
+WF:  HP4  12/01/18
+Day   (MAX/MIN =       0.60/   0.00 kW)
+1
+2
+3
+4
+5
+6
+7
+8
+9
+10 11 12 13 14 15 16 17 18 19 20 21 22 23 24 25 26 27 28 29 30 31
+December
+0
+2
+4
+6
+8
+10
+12
+14
+16
+18
+20
+22
+24
+Hour of Day
+Exhibit __ (FOH-2) 
+Page 217 of 241
+Exhibit __ (FOH-2) 
+Page 217 of 241
+
+
+--- Page 66 ---
+WC:  HP5  12/01/18
+Day   (MAX/MIN =       2.31/   0.00 kW)
+1
+2
+3
+4
+5
+6
+7
+8
+9
+10 11 12 13 14 15 16 17 18 19 20 21 22 23 24 25 26 27 28 29 30 31
+December
+0
+2
+4
+6
+8
+10
+12
+14
+16
+18
+20
+22
+24
+Hour of Day
+WF:  HP5  12/01/18
+Day   (MAX/MIN =       0.74/   0.00 kW)
+1
+2
+3
+4
+5
+6
+7
+8
+9
+10 11 12 13 14 15 16 17 18 19 20 21 22 23 24 25 26 27 28 29 30 31
+December
+0
+2
+4
+6
+8
+10
+12
+14
+16
+18
+20
+22
+24
+Hour of Day
+Exhibit __ (FOH-2) 
+Page 218 of 241
+Exhibit __ (FOH-2) 
+Page 218 of 241
+
+
+--- Page 67 ---
+WC:  HP6  12/01/18
+Day   (MAX/MIN =       3.19/   0.00 kW)
+1
+2
+3
+4
+5
+6
+7
+8
+9
+10 11 12 13 14 15 16 17 18 19 20 21 22 23 24 25 26 27 28 29 30 31
+December
+0
+2
+4
+6
+8
+10
+12
+14
+16
+18
+20
+22
+24
+Hour of Day
+WF:  HP6  12/01/18
+Day   (MAX/MIN =       0.72/   0.00 kW)
+1
+2
+3
+4
+5
+6
+7
+8
+9
+10 11 12 13 14 15 16 17 18 19 20 21 22 23 24 25 26 27 28 29 30 31
+December
+0
+2
+4
+6
+8
+10
+12
+14
+16
+18
+20
+22
+24
+Hour of Day
+Exhibit __ (FOH-2) 
+Page 219 of 241
+Exhibit __ (FOH-2) 
+Page 219 of 241
+
+
+--- Page 68 ---
+WC:  HP7  12/01/18
+Day   (MAX/MIN =       2.87/   0.00 kW)
+1
+2
+3
+4
+5
+6
+7
+8
+9
+10 11 12 13 14 15 16 17 18 19 20 21 22 23 24 25 26 27 28 29 30 31
+December
+0
+2
+4
+6
+8
+10
+12
+14
+16
+18
+20
+22
+24
+Hour of Day
+WF:  HP7  12/01/18
+Day   (MAX/MIN =       0.47/   0.00 kW)
+1
+2
+3
+4
+5
+6
+7
+8
+9
+10 11 12 13 14 15 16 17 18 19 20 21 22 23 24 25 26 27 28 29 30 31
+December
+0
+2
+4
+6
+8
+10
+12
+14
+16
+18
+20
+22
+24
+Hour of Day
+Exhibit __ (FOH-2) 
+Page 220 of 241
+Exhibit __ (FOH-2) 
+Page 220 of 241
+
+
+--- Page 69 ---
+WC:  HP8  12/01/18
+Day   (MAX/MIN =       3.08/   0.00 kW)
+1
+2
+3
+4
+5
+6
+7
+8
+9
+10 11 12 13 14 15 16 17 18 19 20 21 22 23 24 25 26 27 28 29 30 31
+December
+0
+2
+4
+6
+8
+10
+12
+14
+16
+18
+20
+22
+24
+Hour of Day
+WF:  HP8  12/01/18
+Day   (MAX/MIN =       0.62/   0.00 kW)
+1
+2
+3
+4
+5
+6
+7
+8
+9
+10 11 12 13 14 15 16 17 18 19 20 21 22 23 24 25 26 27 28 29 30 31
+December
+0
+2
+4
+6
+8
+10
+12
+14
+16
+18
+20
+22
+24
+Hour of Day
+Exhibit __ (FOH-2) 
+Page 221 of 241
+Exhibit __ (FOH-2) 
+Page 221 of 241
+
+
+--- Page 70 ---
+WC:  HP9  12/01/18
+Day   (MAX/MIN =       4.14/   0.00 kW)
+1
+2
+3
+4
+5
+6
+7
+8
+9
+10 11 12 13 14 15 16 17 18 19 20 21 22 23 24 25 26 27 28 29 30 31
+December
+0
+2
+4
+6
+8
+10
+12
+14
+16
+18
+20
+22
+24
+Hour of Day
+WF:  HP9  12/01/18
+Day   (MAX/MIN =       0.69/   0.00 kW)
+1
+2
+3
+4
+5
+6
+7
+8
+9
+10 11 12 13 14 15 16 17 18 19 20 21 22 23 24 25 26 27 28 29 30 31
+December
+0
+2
+4
+6
+8
+10
+12
+14
+16
+18
+20
+22
+24
+Hour of Day
+Exhibit __ (FOH-2) 
+Page 222 of 241
+Exhibit __ (FOH-2) 
+Page 222 of 241
+
+
+--- Page 71 ---
+WC:  HP10  12/01/18
+Day   (MAX/MIN =       3.17/   0.00 kW)
+1
+2
+3
+4
+5
+6
+7
+8
+9
+10 11 12 13 14 15 16 17 18 19 20 21 22 23 24 25 26 27 28 29 30 31
+December
+0
+2
+4
+6
+8
+10
+12
+14
+16
+18
+20
+22
+24
+Hour of Day
+WF:  HP10  12/01/18
+Day   (MAX/MIN =       0.65/   0.00 kW)
+1
+2
+3
+4
+5
+6
+7
+8
+9
+10 11 12 13 14 15 16 17 18 19 20 21 22 23 24 25 26 27 28 29 30 31
+December
+0
+2
+4
+6
+8
+10
+12
+14
+16
+18
+20
+22
+24
+Hour of Day
+Exhibit __ (FOH-2) 
+Page 223 of 241
+Exhibit __ (FOH-2) 
+Page 223 of 241
+
+
+--- Page 72 ---
+ 
+ 
+ 
+ 
+ 
+ 
+ 
+ 
+ 
+ 
+ 
+Appendix E 
+Geothermal Gas REV Demonstration Project 
+Q4 2019 Report  
+ 
+ 
+ 
+ 
+ 
+ 
+ 
+ 
+ 
+ 
+ 
+Exhibit __ (FOH-2) 
+Page 224 of 241
+
+
+--- Page 73 ---
+ 
+ 
+ 
+The Project Implementation Plan and previous quarterly reports for the Project are available on 
+the dps.ny.gov website and via the following links:  
+ 
+Public Filings
+Project Implementation Plan http://documents.dps.ny.gov/public/Common/ViewDoc.aspx?D
+ocRefId={6B46DC05-BA52-4992-A56B-B1AB28C020D7}  
+Q3 2017 
+http://documents.dps.ny.gov/public/Common/ViewDoc.aspx?D
+ocRefId={0290587D-7CB5-4EB5-8B1E-CA29EDAD7978}  
+Q4 2017 
+http://documents.dps.ny.gov/public/Common/ViewDoc.aspx?D
+ocRefId={6B74BB95-926C-4CA0-B502-B2830E390E91}  
+Q1 2018 
+http://documents.dps.ny.gov/public/Common/ViewDoc.aspx?D
+ocRefId={46430712-C78F-49E6-BBCA-E3FFC39DCD5E}  
+Q2 2018 
+http://documents.dps.ny.gov/public/Common/ViewDoc.aspx?D
+ocRefId={3052D3BE-53C9-4032-8198-A95FC315A782}  
+Q3 2018 
+http://documents.dps.ny.gov/public/Common/ViewDoc.aspx?D
+ocRefId={9BDDAA25-C91E-4084-BF9B-3524B59CBC01}  
+Q4 2018 
+http://documents.dps.ny.gov/public/Common/ViewDoc.aspx?D
+ocRefId={7756FBC5-B41F-491C-877B-7A50EB34CCCC}  
+Q1 2019 
+http://documents.dps.ny.gov/public/Common/ViewDoc.aspx?D
+ocRefId={D82359B3-55A4-4D00-AE54-C3F8BCC83E01}  
+Q2 2019 
+http://documents.dps.ny.gov/public/Common/ViewDoc.aspx?D
+ocRefId={8E60FD80-B31E-469A-BE8E-9E43B4AE3861}  
+Q3 2019 
+http://documents.dps.ny.gov/public/Common/ViewDoc.aspx?D
+ocRefId={1B702C00-9DE7-4EF2-95F6-B6817A8B087F}  
+ 
+The Q4 2019 Report is provided in its entirety in this Appendix E as follows.  
+ 
+ 
+ 
+ 
+ 
+Exhibit __ (FOH-2) 
+Page 225 of 241
+
+
+--- Page 74 ---
+ 
+ 
+ 
+ 
+ 
+ 
+ 
+ 
+ 
+ 
+ 
+ 
+ 
+Geothermal 
+Gas REV Demonstration Project 
+Long Island, New York 
+ 
+ 
+ 
+Q4 2019 Report 
+ 
+ 
+ 
+ 
+ 
+ 
+ 
+ 
+ 
+ 
+ 
+ 
+April 3, 2020 
+ 
+ 
+Exhibit __ (FOH-2) 
+Page 226 of 241
+
+
+--- Page 75 ---
+ 
+ 
+ 
+i 
+Table of Contents 
+1. 
+Executive Summary ................................................................................................... 1 
+2. 
+Highlights in Q4 2019 ................................................................................................ 2 
+2.1 
+Major Task Activities ...................................................................................................... 2 
+2.1.1   Stakeholder Engagement ................................................................................................. 2 
+2.1.2 Data Collection ................................................................................................................ 2 
+3. 
+Work Plan & Budget Review .................................................................................... 2 
+3.1  Project Work Plan ................................................................................................................ 3 
+4. 
+Appendix A. ............................................................................................................... 5 
+ 
+ 
+ 
+  
+ 
+ 
+ 
+ 
+ 
+ 
+ 
+ 
+ 
+ 
+ 
+Exhibit __ (FOH-2) 
+Page 227 of 241
+
+
+--- Page 76 ---
+ 
+Page 
+1
+1. Executive Summary 
+ 
+KeySpan Gas East Corporation d/b/a National Grid (“National Grid” or the “Company”) is testing 
+a shared geothermal well system to provide a cost-effective heating and cooling solution using 
+ground source heat pumps (“GSHPs”) as an alternative to extending natural gas pipes to a 
+residential community (Glenwood Village Site) and a single geothermal well system for a veterans 
+group home in the Hamlet of Medford, Town of Brookhaven (“Medford Site”).  Both Project sites 
+are within the Company’s service territory.1 
+ 
+GSHP is a renewable heating and cooling technology that has the potential to decarbonize the 
+heating and cooling sector while providing homeowners with significant energy cost savings and 
+comfort-related benefits. The technology also has the potential to deliver benefits to the gas and 
+electric systems by reducing peak loads.  
+ 
+The Company is committed to supporting the achievement of New York State’s greenhouse gas 
+(“GHG”) emissions reductions goals of 40% reduction of GHG emissions reductions by 2030, and 
+the enhanced GHG emissions reductions goal of 85% by 2050 established in the signed Climate 
+Leadership and Community Protection Act. This Geothermal Gas REV Demonstration Project 
+(“Project”) will provide the Company with a test-and-learn opportunity to validate the benefits of 
+GSHP with the New York State Energy Research and Development Authority (“NYSERDA”), 
+confirm GSHP and district loop performance, and evaluate market strategies to increase 
+technology adoption, including utility ownership of geothermal assets.  
+ 
+ 
+Figure 1. The concept of a shared a GHP system providing service to multiple homes.   
+ 
+In Q4 2019 and January 2020, the Project team worked on project closeout tasks and the heat pump 
+installation at the Medford Site. Data collection at the Glenwood Village Site continued through 
+December 31, 2019. This quarterly report highlights major activities undertaken in Q4 2019 and 
+January 2020 of this Project.2 This is the final quarterly report for the Project.  
+  
+                                                      
+1 The Project was approved in the 2016 KEDLI Rate Case.  See Cases 16-G-0058 et al., Proceeding on Motion of the 
+Commission as to the Rates, Charges, Rules and Regulations of KeySpan Gas East Corporation d/b/a National Grid 
+for Gas Service et al., Order Adopting Terms of Joint Proposal and Establishing Gas Rate Plans (issued December 16, 
+2016).   
+2 Final Project activites that extended into early Q1 2020 have been incorporated into the Q4 2019 Report for 
+efficiency.   
+Exhibit __ (FOH-2) 
+Page 228 of 241
+
+
+--- Page 77 ---
+ 
+Page 
+2
+2. Highlights in Q4 2019 
+2.1 
+Major Task Activities 
+ 
+The Project team worked on three primary tasks during the reporting period. First, the heat pump 
+was installed at the Medford Site following the completion of building plumbing, electrical and 
+ductwork in January 2020. As a result of construction delays, limited performance data exists as 
+of the writing of this report.  
+ 
+Second, the Project team continued to collect data and monitor the system at Glenwood Village to 
+ensure proper system function during the transition from cooling season to the heating season. 
+System temperatures operated within the design parameters. The heat pumps achieved high 
+coefficients of performance (“COPs”) due to mild average outdoor temperatures.  
+ 
+Finally, the Project team worked on project closeout tasks to prepare the final report. Closeout 
+activities included vendor and partner engagement for final deliverables. 
+2.1.1   Stakeholder Engagement  
+o The Project team continued to work with NYSERDA during Q4 2019 on data collection 
+and project closeout tasks. The Project team and NYSERDA also agreed to complete 
+the evaluation, measurement, and verification (“EM&V”) report in March 2020.    
+2.1.2 Data Collection 
+• The installed ground heat exchanger at Glenwood Village ranged from 44˚F to 67˚F 
+and an average outdoor temperature of 45˚F from October 2019 to December 2019.  
+o The performance data of each heat pump at Glenwood Village was calculated. 
+Individual performance values can be found in Appendix A. 
+ 
+3. Work Plan & Budget Review  
+ 
+Table 3. Budget Information Updated for Q4 2019.  
+Project Task 
+4rd Quarter 
+Actual Spend 
+Project Total 
+Spend to Date 
+Project Budget 
+Remaining 
+Balance 
+CapEx 
+ 
+$0
+$0
+$0 
+$0
+OpEx 
+Implementation 
+$11,550
+$430,788
+$450,000 
+$19,211
+Total 
+$11,550
+$430,788
+$450,000 
+$19,211
+Exhibit __ (FOH-2) 
+Page 229 of 241
+
+
+--- Page 78 ---
+ 
+Page 
+3
+3.1  Project Work Plan 
+ 
+ 
+ 
+The red arrow indicates shifting the timeline for the completion of work at the Medford Site due to the schedule associated with developer 
+construction delays. Additionally, the final report will be drafted in March after results are compiled.  A Focused View of the remaining 
+tasks can be viewed below.  
+Geothermal Heat Pump Pilot Program - Implementatio
+Activities
+Jan-17
+Feb-17
+Mar-17
+Apr-17
+May-17
+Jun-17
+Jul-17
+Aug-17
+Sep-17
+Oct-17
+Nov-17
+Dec-17
+Jan-18
+Feb-18
+Mar-18
+Apr-18
+May-18
+Jun-18
+Jul-18
+Aug-18
+Sep-18
+Oct-18
+Nov-18
+Dec-18
+Jan-19
+Feb-19
+Mar-19
+Apr-19
+May-19
+Jun-19
+Jul-19
+Aug-19
+Sep-19
+Oct-19
+Nov-19
+Dec-19
+Jan-20
+Feb-20
+Mar-20
+Apr-20
+1.00 External Stakeholder Outreach (Jan17 - Feb17)
+1.10
+Initiate discussions with interested entities -  Suffolk 
+County, PSEG-LI, NYSERDA, GEONII, local water utility, etc.
+1.20 Review Pilot Project Goals & Objectives
+1.30 Identification of optimal site/location criteria
+1.40 Utility Coordination - PSEG, Water Utility 
+2.00 Recruitment - Participant Site Selection (Mar17 - Jun17)
+2.10 Identify areas without gas service availability
+2.20 Identify/Develop target participant criteria (Low Income, 
+Public Building, Multi-family, etc.)
+2.30 Customer Outreach & Education - discuss Geothermal 
+Pilot ownership model for below/above ground assets
+2.40 List of Potential Customer Pilot Sites - Internal Review
+ 
+2.50 Participant Site Selection/Notify Selected Site(s)
+3.00 Develop Customer Service Agreement (Mar17 - Sep17)
+3.10 Develop Customer Agreement(s) & Terms & Conditions
+3.20 Develop Geothermal pilot participant monthly access 
+charge
+3.20 Identify any Real Estate Issues/future Easements as 
+needed
+4.00 Internal Planning & Operational Issues (Jun17-Oct17)
+4.10 Determine Metering Requirements, Equipment 
+Selection, Data Monitoring & Reporting, Installer
+4.20 Develop Customer Billing "White Bill" format with 
+Specialty Billing Group
+4.30  Geothermal ground loop Construction-Contractor 
+oversight, infrastructure mapping, Level of Company 
+Crew Involvement, future O&M, etc.
+5.00 Procurement-Geothermal Contractor Selection (Apr17-Aug17)
+5.10 Identify Supply Pool of Qualified Geothermal Contractors 
+(DEC certified, below ground scope), Design Engineers, 
+and local HVAC Contractors (above ground scope)
+5.20 Finalize Scope of Work Document, Design Specifications, 
+Project Schedule
+5.30 Execute Sourcing strategy - Develop and issue RFP to pre-
+qualified Geothermal Contractor Team (Turnkey EPC 
+Contractor, Design-Build)
+5.40 Develop Geothermal Pilot Construction Contract
+5.50 Review & Evaluate Contractor Proposals & Select 
+GeothermalContractor  
+5.60 Execute Contract with Geothermal Contractor
+6.00 Geothermal Pilot Installation (Jul17-Jun18)
+6.10 Testing, Permitting, Construction, & Installation of 
+Geothermal Ground Loop System
+6.20 Customer HVAC Equipment Installation
+6.30 System Testing/Commissioning/Post Inspection
+7.00 Engineering Technical Assistance  (Nov17-Aug19)
+7.10 Energy Use Data collection & analysis
+7.20 Conduct Ongoing Technical Study on Geothermal Pilot 
+Project Objectives including: validate installation costs & 
+customer energy savings, cost/benefit analysis on gas & 
+electric peak demand-cost avoidance, Environmental and 
+Economic Benefit Analysis, Life Cycle Cost Savings, etc.
+7.30
+Periodic Regulatory Updates/Status Reporting on 
+Geothermal Pilot Project Performance 
+8.00 Final Summary Report to Regulators (Dec19)
+8.10 Compile Results & Issue Final Report
+8.20 Review of Policy Options/Recommendations, Future 
+Business Models/Ownership, Market Potential 
+Assessment/Scalability, Economic/Societal/Customer 
+value-added benefits, cost-effectiveness and 
+affordability
+CY' 2020
+CY 2017
+CY 2018
+CY' 2019
+Exhibit __ (FOH-2) 
+Page 230 of 241
+Exhibit __ (FOH-2) 
+Page 230 of 241
+
+
+--- Page 79 ---
+ 
+Page 
+4
+ 
+ 
+ 
+ 
+ 
+ 
+ 
+ 
+ 
+ 
+ 
+ 
+ 
+ 
+ 
+ 
+ 
+ 
+Geothermal Heat Pump Pilot Program - Implementatio
+Activities
+Jul-17
+Aug-17
+Sep-17
+Oct-17
+Nov-17
+Dec-17
+Jan-19
+Feb-19
+Mar-19
+Apr-19
+May-19
+Jun-19
+Jul-19
+Aug-19
+Sep-19
+Oct-19
+Nov-19
+Dec-19
+Jan-20
+Feb-20
+Mar-20
+Apr-20
+6.00 Geothermal Pilot Installation (Jul17-Jun18)
+6.10 Testing, Permitting, Construction, & Installation of 
+Geothermal Ground Loop System
+6.20 Customer HVAC Equipment Installation
+6.30 System Testing/Commissioning/Post Inspection
+7.00 Engineering Technical Assistance  (Nov17-Aug19)
+7.10 Energy Use Data collection & analysis
+7.20 Conduct Ongoing Technical Study on Geothermal Pilot 
+Project Objectives including: validate installation costs & 
+customer energy savings, cost/benefit analysis on gas & 
+electric peak demand-cost avoidance, Environmental and 
+Economic Benefit Analysis, Life Cycle Cost Savings, etc.
+7.30
+Periodic Regulatory Updates/Status Reporting on 
+Geothermal Pilot Project Performance 
+8.00 Final Summary Report to Regulators (Dec19)
+8.10 Compile Results & Issue Final Report
+8.20 Review of Policy Options/Recommendations, Future 
+Business Models/Ownership, Market Potential 
+Assessment/Scalability, Economic/Societal/Customer 
+value-added benefits, cost-effectiveness and 
+affordability
+CY' 2020
+CY 2017
+CY' 2019
+Exhibit __ (FOH-2) 
+Page 231 of 241
+Exhibit __ (FOH-2) 
+Page 231 of 241
+
+
+--- Page 80 ---
+ 
+Page 
+5
+4. Appendix A.  
+GSHP Performance Analysis  
+ 
+Table 5. The Monthly Average Heating COP from January 2018 to December 2018 at Glenwood Village.3,4  
+Month 
+2017 
+Heating 
+Degree Days 
+(HDD, Base 
+65) 
+2018 
+Heating 
+Degree 
+Days (HDD, 
+Base 65) 
+Unit 1 
+Unit 2 
+Unit 3 
+Unit 4 
+Unit 5 
+Unit 6 
+Unit 7 
+Unit 8 
+Unit 9 
+Unit 10 
+Avg. 
+COP 
+Jan 
+965 
+1167 
+2.1 
+3.2 
+3.3 
+NA 
+2.6 
+2.5 
+3.5 
+2.8 
+3.3 
+4.5 
+3.1 
+Feb 
+836 
+778 
+2.2 
+2.9 
+3.1 
+NA 
+2.4 
+2.3 
+3.3 
+2.7 
+2.7 
+3.1 
+2.7 
+Mar 
+929 
+851 
+2.2 
+2.8 
+3.4 
+NA 
+2.5 
+2.2 
+3.4 
+2.8 
+2.8 
+3.1 
+2.8 
+Apr 
+460 
+662 
+2.2 
+3 
+3.6 
+NA 
+2.5 
+2.4 
+3.5 
+2.8 
+2.9 
+3.2 
+2.9 
+May 
+301 
+190 
+3.3 
+5.6 
+5.3 
+2.6 
+3.1 
+4 
+4.4 
+4.9 
+4.5 
+4.1 
+4.2 
+Jun 
+84 
+89 
+4.2 
+5.7 
+5.8 
+6.6 
+5.5 
+5.4 
+6.1 
+5 
+5.7 
+6.6 
+5.7 
+Jul 
+5 
+10 
+- 
+- 
+- 
+- 
+- 
+- 
+- 
+- 
+- 
+- 
+- 
+Aug 
+13 
+3 
+- 
+- 
+- 
+- 
+- 
+- 
+- 
+- 
+- 
+- 
+- 
+Sep 
+72 
+39 
+- 
+- 
+- 
+- 
+- 
+- 
+- 
+- 
+- 
+- 
+- 
+Oct 
+614 
+365 
+2.4 
+3.7 
+4.6 
+5 
+3.1 
+2.4 
+4.4 
+3.8 
+5.4 
+5 
+4.0 
+Nov 
+1091 
+692 
+2.3 
+3 
+4.2 
+3.5 
+2.6 
+2.4 
+3.8 
+3.4 
+4.9 
+5.5 
+3.6 
+Dec 
+901 
+901 
+2.2 
+2.9 
+4.4 
+3.6 
+3 
+2.4 
+3.8 
+4.8 
+3.7 
+5.3 
+3.6 
+Avg.   
+Total  
+6271 
+Total  
+5747 
+2.6 
+3.6 
+4.2 
+4.3 
+3.0 
+2.9 
+4.0 
+3.7 
+4.0 
+4.5 
+3.6 
+ 
+ 
+ 
+ 
+ 
+ 
+                                                      
+3 Note: 5, 6, 9, 10 had data gaps during January 2018. 
+4 Past weather data were retrieved from Long Island McCarthur Airport available on www.wunderground.com.   
+Exhibit __ (FOH-2) 
+Page 232 of 241
+Exhibit __ (FOH-2) 
+Page 232 of 241
+
+
+--- Page 81 ---
+ 
+Page 
+6
+Table 6. The Monthly Average Heating COP from January 2019 to December 2019 at Glenwood Village.5 
+ Month 
+2018 
+Heating 
+Degree 
+Days 
+(HDD, 
+Base 
+65) 
+2019 
+Heating 
+Degree 
+Days 
+(HDD, 
+Base 
+65) 
+Unit 1 
+Unit 2 
+Unit 3 
+Unit 4 
+Unit 5 
+Unit 6 
+Unit 7 
+Unit 8 
+Unit 9 
+Unit 
+10 
+Avg. 
+COP  
+Jan 
+1167 
+1044 
+2.2 
+2.9 
+3.6 
+3.3 
+2.6 
+2.9 
+3.5 
+3.0 
+2.8 
+3.1 
+3.0 
+Feb 
+778 
+982 
+2.2 
+2.9 
+3.5 
+3.3 
+2.6 
+2.8 
+3.4 
+3.2 
+2.8 
+3.0 
+3.0 
+Mar 
+851 
+808 
+2.1 
+2.9 
+3.5 
+3.2 
+2.4 
+2.9 
+3.4 
+3.1 
+2.8 
+3.0 
+2.9 
+Apr 
+662 
+450 
+2.2 
+3.1 
+3.6 
+4.3 
+2.6 
+2.6 
+4.1 
+3.9 
+3.0 
+3.4 
+3.3 
+May 
+190 
+205 
+2.8 
+5.7 
+5.3 
+6.0 
+2.9 
+2.9 
+3.7 
+- 
+2.9 
+6.1 
+4.3 
+Jun 
+89 
+77 
+- 
+- 
+- 
+- 
+- 
+- 
+- 
+- 
+- 
+- 
+- 
+Jul 
+10 
+0 
+- 
+- 
+- 
+- 
+- 
+- 
+- 
+- 
+- 
+- 
+- 
+Aug 
+3 
+1 
+- 
+- 
+- 
+- 
+- 
+- 
+- 
+- 
+- 
+- 
+- 
+Sep 
+39 
+28 
+- 
+- 
+- 
+- 
+- 
+- 
+- 
+- 
+- 
+- 
+- 
+Oct 
+365 
+231 
+2.6 
+ -  
+5.2 
+5.6 
+3.0 
+4.6 
+4.5 
+4.8 
+4.5 
+5.4 
+4.5 
+Nov 
+692 
+682 
+2.6 
+- 
+3.9 
+3.8 
+2.7 
+2.5 
+3.7 
+3.0 
+3.9 
+5.3 
+3.5 
+Dec 
+901 
+863 
+3.0 
+- 
+3.7 
+3.6 
+2.7 
+2.5 
+3.6 
+4.1 
+3.4 
+4.9 
+3.5 
+Avg 
+Total 
+Total 
+2.5 
+3.5 
+4.0 
+4.1 
+2.7 
+3.0 
+3.7 
+3.6 
+3.3 
+4.3 
+3.5 
+5747 
+5371 
+Note: Data was not available for Unit 2 in Q4 2019 due to issues with data quality.  
+ 
+ 
+ 
+ 
+ 
+ 
+ 
+ 
+                                                      
+5 Past weather data were retrieved from Long Island McCarthur Airport available on www.wunderground.com.   
+Exhibit __ (FOH-2) 
+Page 233 of 241
+Exhibit __ (FOH-2) 
+Page 233 of 241
+
+
+--- Page 82 ---
+ 
+Page 
+7
+Table 7. The Monthly Average Cooling Energy Efficiency Ratio (“EER”) from May 2018 to December 2018 at Glenwood Village 
+ 
+Month 
+2017 
+Cooling 
+Degree 
+Days 
+(HDD, 
+Base 65) 
+2018 
+Cooling 
+Degree 
+Days 
+(HDD, 
+Base 65) 
+Unit 1 
+Unit 2 
+Unit 3 
+Unit 4 
+Unit 5 Unit 6 
+Unit 7 
+Unit 8 
+Unit 9 
+Unit 10 
+Avg. 
+EER  
+May 
+16 
+9 
+5.7
+12.6
+11.3
+3.5
+4
+7.6 
+8.7
+10.3
+8.8
+7.1
+8
+Jun 
+96 
+86 
+8.3
+12.6
+12.9
+16.3
+12.4
+11.8 
+14.5
+10.3
+12.7
+15.4
+12.7
+July 
+203 
+543 
+10.3
+12.5
+13.5
+18.4
+12.4
+11.9 
+15
+11.2
+12.5
+15.4
+13.3
+Aug 
+133 
+285 
+10.1
+12.4
+13.4
+18.2
+13.2
+12 
+14.6
+8.1
+12.2
+15.2
+12.9
+Sept 
+93 
+118 
+7.9
+12.4
+14
+17.6
+12.5
+11.1 
+14.8
+10
+12.5
+15.7
+12.9
+Oct 
+1 
+26 
+2.4
+6.6
+9.5
+- 
+4.8
+- 
+- 
+- 
+- 
+- 
+5.8
+Nov 
+0 
+0 
+- 
+- 
+- 
+- 
+- 
+- 
+- 
+- 
+- 
+- 
+- 
+Dec 
+0 
+0 
+- 
+- 
+- 
+- 
+- 
+- 
+- 
+- 
+- 
+- 
+- 
+Avg.  
+Total 
+542 
+Total  
+1067 
+7.5
+11.5
+12.4
+14.8
+9.9
+10.9 
+13.5
+10.0
+11.7
+13.8
+10.9
+ 
+ 
+ 
+ 
+ 
+ 
+ 
+ 
+ 
+ 
+ 
+ 
+ 
+ 
+ 
+Exhibit __ (FOH-2) 
+Page 234 of 241
+Exhibit __ (FOH-2) 
+Page 234 of 241
+
+
+--- Page 83 ---
+ 
+Page 
+8
+Table 8. The Monthly Average Cooling EER from May 2019 to December 2019 at Glenwood Village 
+ 
+Month 
+2018 
+Cooling 
+Degree 
+Days 
+(HDD, 
+Base 
+65) 
+2019 
+Cooling 
+Degree 
+Days 
+(HDD, 
+Base 
+65) 
+Unit 1 
+Unit 2 
+Unit 3 
+Unit 4 
+Unit 5 
+Unit 6 
+Unit 7 
+Unit 8 
+Unit 9 
+Unit 
+10 
+Avg. 
+EER  
+May 
+9 
+22 
+3.4 
+13.5 
+12.0 
+0.0 
+4.2 
+4.3 
+0.0 
+0.0 
+0.0 
+14.6 
+5.2 
+Jun 
+86 
+138 
+9.1 
+14.9 
+15.8 
+0.0 
+13.3 
+13.4 
+15.6 
+0.0 
+13.2 
+16.8 
+11.2 
+Jul 
+543 
+394 
+15.9 
+13.9 
+15.9 
+18.0 
+13.2 
+12.2 
+15.9 
+11.2 
+12.9 
+15.5 
+14.5 
+Aug 
+285 
+254 
+15.9 
+12.6 
+15.9 
+17.9 
+13.3 
+11.7 
+15.2 
+11.0 
+13.1 
+15.4 
+14.2 
+Sep 
+118 
+92 
+16.4 
+- 
+16.4 
+- 
+13.7 
+12.8 
+15.9 
+13.9 
+12.6 
+16.0 
+14.7 
+Oct 
+26 
+19 
+3.6 
+- 
+11.5 
+14.3 
+- 
+9.2 
+8.6 
+9.6 
+8.7 
+11.3 
+9.6 
+Nov 
+0 
+0 
+- 
+- 
+- 
+- 
+- 
+- 
+- 
+- 
+- 
+- 
+- 
+Dec 
+0 
+0 
+- 
+- 
+- 
+- 
+- 
+- 
+- 
+- 
+- 
+- 
+- 
+Avg.  
+Total 
+Total 
+10.7 
+13.7 
+14.6 
+10.0 
+11.5 
+10.6 
+11.9 
+7.6 
+10.1 
+14.9 
+12.0 
+1067 
+919 
+ 
+ 
+ 
+ 
+Exhibit __ (FOH-2) 
+Page 235 of 241
+Exhibit __ (FOH-2) 
+Page 235 of 241
+
+
+--- Page 84 ---
+ 
+ 
+ 
+Geothermal Gas REV Demo Project 
+Q4 20196 
+Overall Status (Completed) 
+ 
+Project Start Date:  01/01/2017 
+Project End Date: 03/31/2020 
+Budget: $450,000 
+ 
+ 
+Current Quarter Spend: $11,550 
+ 
+Cumulative Spend: $430,788 
+ 
+ 
+ 
+Project Summary: This Project is a test-and-learn demonstration being undertaken by the KeySpan Gas East Corporation 
+d/b/a National Grid (“National Grid” or the “Company”) involving design and installation of both a shared geothermal 
+loop system and a single loop system owned by National Grid to provide cost-effective heating and cooling using ground 
+source heat pumps (“GSHP”) as an alternative to extending natural gas to Long Island communities in the National Grid 
+service territory. The Project partners are NYSERDA, PSEG-LI, Miller Environmental, and GEO-NII.   
+Cumulative Lessons Learned 
+The Customer 
+Market Partners 
+Utility Operations 
+• 
+Project participants widely 
+exhibit a high satisfaction touting 
+the plethora of added comfort-
+related benefits compared to their 
+conventional systems.  
+• 
+Annual cost savings for 
+participants at Glenwood Village 
+ranged from $341 to $1,037 or 
+31% to 60%. 
+• 
+Minimal to no auxiliary electric 
+heat was required for most homes 
+during the 2019 heating season.   
+• 
+GSHP represents less than 1% of 
+the HVAC market; lack of 
+volume increases overall cost in 
+the current market.   
+• 
+There are a small number of 
+qualified industry professionals; 
+workforce development is vital to 
+address as part of a market scale-
+up. 
+• 
+The industry is highly reliant on 
+utility and government incentives. 
+The market experienced a sharp 
+reduction of GSHP installations 
+when the federal ITC expired in 
+2016.  
+• 
+Utility backing and marketing can 
+improve technology confidence 
+and accelerate market adoption. 
+• 
+Utility ownership of GSHP can 
+reduce the upfront cost barrier 
+and offer lower systems cost with 
+scale. NYSERDA estimates an 
+additional cost reduction of a 
+minimum of 10% with utility 
+ownership, through economies of 
+scale.   
+• 
+Utility involvement can ensure 
+that systems are correctly 
+installed to promote durability 
+and maximize system 
+performance.  
+• 
+GSHP can provide an abundance 
+of both electric and gas grid 
+benefits if adequately designed 
+and installed.  
+ 
+ 
+Application of Lessons Learned: Through this test-and-learn demonstration, the Company gathered experience around 
+the technology benefits, market potential, and customer preference for a renewable heating and cooling system. The 
+Company plans to use the takeaways from the Project to propose a geothermal program in the Downstate New York 
+service territory. This ambition is consistent with the Company’s Northeast 80x50 Pathway, the REV objectives, and 
+supporting the State’s clean energy agenda.    
+Issues Identified: None 
+Solutions Identified: None 
+Recent Milestones/Targets Met: The Project team completed all construction-related activities at the Medford Site. Data 
+collection and performance validation for the Glenwood Village Site was completed.  
+Upcoming Milestones/Targets: Draft and submit the final report. 
+                                                      
+6 Final Project activites that extended into early Q1 2020 have been incorporated into the Q4 2019 Report for efficiency as this is the 
+final quarterly report for the Project.   
+Staff Approval: 
+Jan 2017 
+Glenwood Install 
+Completed 
+United Way Install  
+Mar’19 – Oct’19
+Data Analysis and 
+final report Dec’19
+Anticipated Project 
+Completion Mar’20 
+Progress Bar to indicate which phase the project is in 
+Exhibit __ (FOH-2) 
+Page 236 of 241
+
+
+--- Page 85 ---
+ 
+ 
+ 
+ 
+ 
+Appendix F 
+Installation Photos 
+Exhibit __ (FOH-2) 
+Page 237 of 241
+
+
+--- Page 86 ---
+ 
+ 
+ 
+ 
+ 
+ 
+The community park at the beginning of construction, midway after pressure testing, and 
+final landscape restoration at the Glenwood Village Site. 
+ 
+ 
+Photo of the well cuttings being shoveled out of the portable mud pit at the Glenwood 
+Village Site. 
+ 
+ 
+Exhibit __ (FOH-2) 
+Page 238 of 241
+
+
+--- Page 87 ---
+ 
+ 
+ 
+ 
+ 
+ 
+Photo of the geothermal pipes being installed after well boring completion at the Glenwood 
+Village Site. 
+ 
+ 
+Photo of the pipe headers and valves in the community part at the Glenwood Village Site.  
+Exhibit __ (FOH-2) 
+Page 239 of 241
+
+
+--- Page 88 ---
+ 
+ 
+ 
+ 
+ 
+ 
+The outdoor split system at the Glenwood Village Site.  
+ 
+The indoor split system with front panels removed at the Glenwood Village Site. 
+ 
+ 
+Exhibit __ (FOH-2) 
+Page 240 of 241
+
+
+--- Page 89 ---
+ 
+ 
+ 
+ 
+ 
+Photo of the Project GSHP setup at the Medford Site with equipment from left to right 
+consisting of the WaterFurnace® 7 Series, flow center, domestic hot water tank, and 
+landlord-provided hybrid electric water heater.  
+Exhibit __ (FOH-2) 
+Page 241 of 241
+
+
+--- Page 90 ---
+Testimony of Future of Heat Panel 
+  
+ 
+ 
+ 
+ 
+ 
+ 
+ 
+ 
+ 
+Exhibit ___ (FOH-3) 
+ 
+Description of RNG Interconnection Proposals 
+ 
+ 
+ 
+ 
+ 
+ 
+ 
+ 
+ 
+ 
+ 
+ 
+ 
+ 
+ 
+ 
+ 
+ 
+ 
+ 
+ 
+ 
+ 
+ 
+ 
+ 
+ 
+ 
+ 
+ 
+ 
+ 
+ 
+ 
+ 
+ 
+
+
+--- Page 91 ---
+Exhibit ___ (FOH-3) 
+Page 1 of 5 
+ 
+ 
+ 
+Description of RNG Interconnection Proposals 
+ 
+Justification: 
+ 
+The Company is proposing two RNG interconnection programs (1) a Direct RNG 
+Interconnection Program and, (2) a Centralized RNG Interconnection Facility. Programs that 
+encourage the development of local RNG resulting in environmental and economic benefits. As 
+the third largest dairy state in the U.S., New York has a unique opportunity to develop local 
+supplies of dairy-based RNG. A Centralized RNG Interconnection Facility is an ideal solution 
+for enabling the development of RNG feedstock sources that are plentiful but too far away from 
+the gas network, or too small to directly connect on their own. The Direct RNG Interconnection 
+program will lower costs for RNG opportunities that are able to connect directly to the gas 
+network, encouraging development. 
+ 
+Environmental Benefits – In addition to offsetting fossil fuel use, manure-based RNG 
+has the significant additional benefit of destroying methane that would otherwise be 
+vented into the atmosphere. Due to these dual emissions benefits, manure-based RNG is 
+an energy that provides negative greenhouse gas emissions1. RNG can also contribute to 
+local air quality improvements. Compared to on-site combustion of biogas, upgrading to 
+RNG reduces emissions of health-related pollutants by 90% or more2. RNG programs 
+encourage waste collection and management, which can help mitigate the impact of 
+organic waste on local water quality.  
+ 
+System Benefits - As RNG production increases, it diversifies local energy sources. 
+RNG facilities typically have high availability rates. This additional supply of pipeline 
+quality gas can help address network constraints and improve resiliency.  
+ 
+Economic Benefits - RNG is derived from local resources, which means that it creates 
+local jobs and spurs local economic development. 
+ 
+ 
+1.  RNG Direct Connect Program 
+Description: 
+Purpose – Lowering the cost of interconnection, to encourage the development and 
+injection of RNG from upstate New York feedstocks sources. From conversations with 
+RNG developers and feedstock owners (e.g. dairy’s) the Company understands that the 
+high costs associated with interconnecting RNG is one of the factors that has restricted 
+development of this valuable clean energy resource. The proposed program would allow 
+the Company to invest in interconnection equipment at RNG injection sites. Much of the 
+cost of interconnection is due to equipment required by gas utilities, including meters, 
+                                                          
+1 https://ww2.arb.ca.gov/resources/documents/lcfs-pathway-certified-carbon-intensities 
+2 https://nepis.epa.gov/Exe/ZyPDF.cgi/P100QCXZ.PDF?Dockey=P100QCXZ.PDF 
+
+
+--- Page 92 ---
+Exhibit ___ (FOH-3) 
+Page 2 of 5 
+ 
+ 
+ 
+odorization systems and gas quality analyzers. Under the current process, project 
+developers are responsible for the cost of this equipment, while the equipment itself is 
+maintained and operated by the utility. The Companies’ proposed Direct RNG 
+Interconnection program would unburden project developers from bearing the cost of 
+equipment that is core to utility functions - i.e., equipment required to verify gas quality 
+and quantity before it is received into the gas network.  The Company is proposing to 
+offer one interconnection investment each year, starting in FY 2021 and scaling up to two 
+interconnection investments in FY 2025 ($0.45M capex/project). 
+Cost: 
+Request included in the 2020 NMPC Rate Case 
+ 
+FY22 
+FY23 
+FY24 
+FY25 
+CapEx 
+$927,000  
+$478,000  
+$487,000  
+$994,000  
+Non-Labor OpEx 
+$110,000 
+$165,000 
+$220,000 
+$330,000 
+ 
+Alternatives Considered: 
+1. Continue to support interconnection proposals/evaluations, without owning injection 
+equipment. 
+ 
+ 
+ 
+2. Centralized RNG Interconnection Facility 
+ 
+Description: 
+ 
+Purpose - A Centralized RNG Interconnection Facility will enable the injection of RNG 
+from multiple feedstocks sources, i.e. dairy farms, that are unable to directly connect to 
+the natural gas network. The Company has observed feedstock sources that could be 
+dedicated to producing RNG have been stymied due to their distance from the natural gas 
+network or because they do not achieve the necessary economies of scale on their own. 
+The Company believes that a Centralized RNG Interconnection Facility will enable the 
+development of this valuable, local energy resource. Centralizing the interconnection 
+eliminates the need for an individual RNG project to invest in interconnection equipment, 
+such as pipeline and metering, resulting in lower costs per RNG project. A similar 
+concept has been pursued by natural gas utilities in California, which has seen several 
+“dairy clusters” connect to the natural gas network since the California Public Utility 
+Commission issued Decision D.17-12-004 which established the necessary framework to 
+direct gas utilities to implement not less than five dairy biomethane pilot projects.3 
+ 
+                                                          
+3https://www.cpuc.ca.gov/uploadedFiles/CPUC_Website/Content/Utilities_and_Industries/Energy/Energy_Progra
+ms/Gas/Natural_Gas_Market/SB1383JUDraftSolicitation.pdf 
+
+
+--- Page 93 ---
+Exhibit ___ (FOH-3) 
+Page 3 of 5 
+ 
+ 
+ 
+Ownership - Facility will be owned by the Company, while equipment upstream of the 
+Facility will be the responsibility of a third party or multiple third parties. Company-
+owned equipment will include equipment downstream of the biogas conditioning and 
+upgrading equipment and biogas delivery system, as outlined in figure 1 below. As a part 
+of the development process, the Company will issue an RFP to select the third party RNG 
+producers that will have access to the Centralized RNG Interconnection Facility. 
+Examples of potential third parties include farm co-ops which collectively aggregate 
+manure or coordinate the development of RNG production facilities, or an independent 
+RNG developer. Several bids may be selected to meet the full capacity of the Centralized 
+RNG Interconnection facility.  
+1 
+2 
+3 
+4 
+5 
+Digester 
+(located at each dairy 
+or centrally located) 
+Biogas treatment 
+facilities and 
+collection lines 
+(located at each 
+dairy or centrally 
+located) 
+Biogas 
+conditioning and 
+upgrading facility 
+(located at each 
+dairy or centrally 
+located) 
+Biogas delivery 
+system 
+ 
+Interconnection 
+(point of receipt) 
+ 
+ 
+ 
+ 
+ 
+ 
+ 
+ 
+ 
+ 
+ 
+ 
+ 
+Treatment, 
+monitoring/metering
+, and compression 
+equipment 
+ 
+ 
+ 
+ 
+ 
+ 
+ 
+ 
+ 
+ 
+ 
+ 
+ 
+Trucking or 
+pipeline lateral 
+ 
+ 
+ 
+ 
+ 
+Monitoring/metering 
+and any necessary 
+decompression/comp
+ression 
+Third-party owned 
+Utility Owned 
+Figure 1: Outline of Proposed Ownership Structure 
+The Company believes that this model of part utility ownership and part third-party 
+ownership balances the need to reduce costs of RNG development, while also controlling 
+program costs. In addition, leaving flexibility in the upstream system design will allow 
+RNG producers to optimize for manure collection, digestion, and gas upgrading system 
+arrangements that are most economic. 
+Additional Financial Assistance - Although the proposed Facility will alleviate the cost 
+of interconnection from RNG producers, the Company understands that significant 
+upfront costs are also associated with upstream portions of RNG production. The 
+Company will work with RNG producers to leverage economic assistance and clean 
+energy incentive opportunities. The Company will also explore additional ways to lower 
+the upfront cost for RNG producers through partnerships with NYSERDA and the New 
+York State Department of Agriculture, including NYSERDA’s PON 3739. 
+Site Selection - The ultimate location of the Centralized RNG Interconnection Facility 
+will be selected based on several factors including: 
+
+
+--- Page 94 ---
+Exhibit ___ (FOH-3) 
+Page 4 of 5 
+ 
+ 
+ 
+• The beneficial impact the additional local supply would have on the gas network, e.g., 
+increasing resiliency or alleviating supply constraint issues. 
+• The ability of the location to take the anticipated volume of RNG, year-round 
+• The proximity and number of willing dairy farms 
+The areas currently under consideration by the Company are identified in in Figure 2.  
+ 
+Figure 2: Areas under consideration for a Centralized RNG Interconnection Facility shown as 
+stars. Large Farms shown as red dots (source: 
+https://www.rit.edu/affiliate/nysp2i/OrganicResourceLocator/) 
+ 
+ 
+Cost: 
+ 
+ Request included in the 2020 NMPC Rate Case 
+ 
+FY22 
+FY23 
+FY24 
+FY25 
+CapEx 
+ 
+$ 1,500,000  
+$7,500,000  
+ 
+Non-Labor OpEx 
+ 
+ 
+$   250,000  
+$ 250,000  
+ 
+Final costs for this project will depend on the site selected and the specific makeup of the system. 
+National Grid is already working with RNG stakeholders to evaluate possible locations in upstate 
+NY. 
+ 
+ 
+
+
+--- Page 95 ---
+Exhibit ___ (FOH-3) 
+Page 5 of 5 
+ 
+ 
+ 
+Anticipated Line Items 
+ 
+Low Estimate 
+High 
+Estimate 
+Real Estate and Permitting (highly variable and site 
+specific) 
+$200,000 
+$1,500,000 
+Civil and Pipeline 
+S2,000,000 
+$3,000,000 
+Decompression and Metering (assuming 4-6 trailer 
+hookups) 
+$2,000,000 
+$3,000,000 
+Analyzers and Buildings 
+$1,500,000 
+$2,000,000 
+Installation and Startup 
+$500,000 
+$500,000 
+Total 
+$6,200,000 
+$10,000,000 
+ 
+Alternatives Considered: 
+ 
+1. Focus interconnection efforts on projects proposed by RNG developers – i.e., mirroring 
+the KEDNY/KEDLI RNG Interconnection proposal. 
+ 
+ 
+
+
+--- Page 96 ---
+Testimony of Future of Heat Panel 
+  
+ 
+ 
+ 
+ 
+ 
+ 
+ 
+ 
+ 
+Exhibit ___ (FOH-4) 
+ 
+Navigant Business Case 
+ 
+ 
+ 
+ 
+ 
+ 
+ 
+ 
+ 
+ 
+ 
+ 
+ 
+ 
+ 
+ 
+ 
+ 
+ 
+ 
+ 
+ 
+ 
+ 
+ 
+ 
+ 
+ 
+ 
+ 
+ 
+ 
+ 
+ 
+ 
+ 
+ 
+ 
+
+
+--- Page 97 ---
+ 
+ nyrevconnect.com 
+ 
+ 
+ 
+.  
+VERSATILE, CLEAN, DISTRIBUTED 
+HYDROGEN FOR MULTIPLE MARKETS 
+Business Case 
+ 
+Summary 
+ 
+This business case details an innovative and versatile business model to enable the development and 
+growth of markets for hydrogen fuel by capturing value from multiple applications and allocating the 
+benefits between utilities, customers, and market partners. The diverse array of services includes 
+demand/energy cost savings and backup power for host customers, fast fueling/charging for drivers of 
+fuel cell and/or battery electric vehicles, the potential for investment deferral for electric and gas 
+distribution utilities, and renewable gas for gas utilities.  
+ 
+This model can accelerate the deployment of distributed hydrogen systems, seeding growth of the 
+hydrogen vehicle market. The flexibility in this model supports adaptation of distributed hydrogen projects 
+to the opportunities and constraints currently present at specific grid locations and supports flexibility in 
+the mix of services provided by individual projects over time as markets evolve. It also facilitates variable 
+up-front capital contributions from utilities and third-party financiers, supporting greater investment from 
+utilities in the early stages of market development, then a transition toward greater non-utility capital as 
+markets mature. 
+ 
+ 
+Table of Contents 
+1. THE OPPORTUNITY ................................................................................................................................ 1 
+1.1 Description of the Opportunity ............................................................................................................. 1 
+1.2 The Scope of the Business Case ........................................................................................................ 2 
+1.3 Requirements to Implement ................................................................................................................ 3 
+1.4 Market Impact and Potential ................................................................................................................ 4 
+1.5 The Value of a Partnership .................................................................................................................. 5 
+2. BUSINESS MODEL DESCRIPTION ........................................................................................................ 7 
+2.1 Business Model Overview ................................................................................................................... 7 
+2.2 Quantifiable Value Assessment .......................................................................................................... 9 
+2.3 REV Financial Mechanisms............................................................................................................... 12 
+2.4 Roles and Responsibilities ................................................................................................................ 12 
+2.5 Advancement of REV Objectives and Innovation ............................................................................. 13 
+3. CAPABILITIES OF MARKET PARTNER .............................................................................................. 16 
+3.1 Standard Hydrogen ........................................................................................................................... 16 
+ 
+ 
+Prepared by: 
+Version 1 
+Navigant Consulting, Inc. 
+October 2018 
+Exhibit ___ (FOH-4) 
+Page 1 of 17 
+
+
+--- Page 98 ---
+VERSATILE, CLEAN, DISTRIBUTED HYDROGEN FOR MULTIPLE MARKETS 
+ 
+ 
+Confidential and Proprietary 
+Do not distribute or copy 
+Page 1 
+1. THE OPPORTUNITY 
+1.1 Description of the Opportunity 
+Hydrogen (H2) fuel offers a versatile medium that can serve a wide array of markets (Figure 1). 
+Traditionally, hydrogen gas has been primarily used for industrial processes, including ammonia 
+production and hydrocracking of petroleum. Additionally, it can be produced through electrolysis, stored 
+and coupled with a fuel cell to serve as electrical energy storage and converted back into electricity to 
+provide grid services. Unlike other typical distributed storage solutions, it can be injected as fuel into the 
+natural gas distribution system, either directly as H2 or after methanation. Perhaps most notably, 
+hydrogen can serve as a fuel for transportation markets, serving hydrogen fuel cell vehicles (FCVs), (after 
+methanation) compressed natural gas (CNG) vehicles, and/or (after conversion by a fuel cell) battery 
+electric vehicles. If generated by clean, renewable power, hydrogen can help to meet Renewable Fuel 
+Standards and other regulatory requirements. Furthermore, vehicles powered by hydrogen-based fuels 
+address several issues facing electric vehicles (EVs), including offering short vehicle charging (filling) 
+times and minimizing grid infrastructure requirements. 
+ 
+Several major vehicle manufacturers are now  
+producing mass-market hydrogen-fueled vehicles 
+that provide these benefits, and multiple others 
+have announced plans to do so. However, adoption 
+of these vehicles has been hampered by very 
+limited numbers of H2 fueling stations and a high 
+fuel cost. Likewise, the number of H2 fueling stations 
+has been severely limited due to the small number 
+of fuel cell vehicles on the road. The idea proposed 
+here – the Hydrogen Energy Transfer Station2 – 
+addresses this problem through the creation of a 
+system that produces and uses hydrogen not only 
+to fuel vehicles, but also to provide backup power, 
+grid services and other hydrogen-driven services 
+(e.g. natural gas pipeline injection), with the 
+flexibility to change the mix of services as markets 
+evolve. Doing so fulfills the goal to create hydrogen 
+fueling capability while providing additional revenue 
+to pay for the necessary equipment from other 
+services until such time that there are large enough 
+numbers of hydrogen fueled vehicles on the road to warrant vehicle-only stations. 
+ 
+In addition to providing various services to utilities, host customers, drivers, and other off-takers, these 
+systems can facilitate market development, create new jobs in New York’s clean energy sector, and 
+reduce harmful emissions to improve the health and well-being of New York’s citizens. 
+ 
+                                                     
+ 
+ 
+1 U.S. Department of Energy, H2@ Scale (2016). https://www.energy.gov/eere/fuelcells/h2-scale  
+2 Standard Hydrogen Corporation solution 
+ 
+Figure 1 Applications of hydrogen (Source: US 
+DOE1)  
+Exhibit ___ (FOH-4) 
+Page 2 of 17 
+
+
+--- Page 99 ---
+VERSATILE, CLEAN, DISTRIBUTED HYDROGEN FOR MULTIPLE MARKETS 
+ 
+ 
+Confidential and Proprietary 
+Do not distribute or copy 
+Page 2 
+Because markets for hydrogen fuel are in their infancy, utility investment can play a critical role in seeding 
+market growth. The proposed business model offers a flexible framework enabling greater capital 
+contributions from utilities initially, then a shift toward greater non-utility capital as the market matures. 
+1.2 The Scope of the Business Case 
+This business case focuses on distributed hydrogen systems that incorporate clean hydrogen production 
+(electrolysis powered by renewable energy), storage (compressed hydrogen gas to support various 
+services), conversion (fuel cell to provide grid services), distribution (injection into natural gas systems), 
+and vehicle fueling stations (H2 fueling and EV charging). 
+ 
+These systems enable generation of revenue and savings from electricity services (for wholesale 
+markets, distribution utilities, and host customers), natural gas distribution services (renewable gas supply 
+and demand reduction), and transportation services (FCV fueling and EV charging). Costs (capital and 
+operating) and benefits (savings and revenues) are allocated among different utilities, market partners, 
+customers, and other off-takers via shared capital investment, shared savings/revenue, services fees and 
+financing payments. Table 1 provides an overview of the scope of this business case with additional 
+details. 
+ 
+Table 1 Business case scope description 
+Trend Area 
+Energy Storage, EV Adoption 
+and Integration, Clean 
+Heating & Cooling 
+The distributed hydrogen systems incorporate renewable hydrogen 
+generation and storage, a fuel cell provides grid services (as well as 
+grid services from controllable electrolyzer load), transportation fueling 
+infrastructure (for hydrogen fueling and EV charging), and clean 
+heating and cooling (renewable hydrogen blending in pipelines). 
+Offering 
+Bundled offering 
+The system may be owned by one or more parties (including the utility, 
+market partner, and/or third party) and sells various products and 
+services over time to multiple off-takers (e.g., host customer, drivers, 
+electric and gas utilities, and wholesale markets). 
+Value Monetization 
+Defer or reduce utility cost, 
+Shared customer savings, 
+Market revenue 
+Value is monetized depending upon the mix of services provided at 
+each system site. Market revenue can be generated by selling 
+wholesale electricity market services, fueling and charging vehicles, 
+and providing backup power to host customers. Electric and gas 
+utilities may be able to directly avoid, defer, or reduce capital and 
+operating costs. The system may also generate savings for behind-
+the-meter customers through on-site peak shaving and demand 
+management. These revenue and savings stream may be shared in 
+various ways between owners and off-takers. 
+Partnership Structure 
+Shared savings, Shared 
+revenue 
+The business model offers sole or shared capital investment for 
+utilities (electric and/or gas) and market partners (including via third 
+party financiers). Benefits and revenue are allocated accordingly 
+through sale of services to utilities, shared revenue/savings, and fixed 
+lease payments. 
+Customer Segment 
+Large Commercial and 
+Industrial 
+The system is primarily targeted at large commercial and industrial 
+customers (including via energy service companies) due to the scale 
+of the system, including the power and land requirements. These 
+systems may also be co-located with central renewable generation 
+facilities or on utility property. 
+Exhibit ___ (FOH-4) 
+Page 3 of 17 
+
+
+--- Page 100 ---
+VERSATILE, CLEAN, DISTRIBUTED HYDROGEN FOR MULTIPLE MARKETS 
+ 
+ 
+Confidential and Proprietary 
+Do not distribute or copy 
+Page 3 
+1.3 Requirements to Implement 
+Table 2 summarizes different requirements for implementation of a project employing the hydrogen 
+system. Some of the items may not be essential for any individual project but may be critical for capturing 
+one or more value streams. For example, wholesale services require the project assets to be eligible to 
+participate and for the utility to be able to derive revenue from a project providing those services; electric 
+and natural gas system services require sufficient capacity of local infrastructure; transportation services 
+require proximity to FCV drivers. In addition, a willing site host is required that has sufficient land to host 
+the system’s assets.  
+ 
+Table 2 Summary of requirements to implement 
+Grid equipment / 
+other hardware 
+• Sufficient grid equipment capacity to support electrolysis (can 
+minimize infrastructure requirements via on-site generation and 
+electrolyzer curtailment) 
+• Nearby natural gas infrastructure with sufficient capacity for H2 
+injection 
+• Potential additional metering infrastructure 
+• Potential need for methanation prior to natural gas pipeline injection 
+• Additional equipment for O2 compression, storage, and distribution in 
+order to monetize byproduct 
+• Responsive and efficient electrolyzer3 
+IT/OT equipment 
+• SCADA systems, communications, and data exchange between 
+hydrogen system, host customer, and utility to respond to customer 
+and grid needs 
+Changes in market rules 
+• Ability for utilities to make non-traditional capital investments in 
+projects 
+• Ability for utility to capture revenue from system generating revenue 
+via wholesale markets 
+• Ability for system assets to participate in wholesale markets 
+• Investment risk would decrease with more certainty regarding 
+transmission and distribution (T&D) value (e.g., value of distributed 
+energy resources (VDER) tariffs) and natural gas value (e.g., long-
+term renewable natural gas (RNG) value) 
+Customer engagement 
+• Customer is willing to host 
+• Site reasonably accessible for H2 off-takers 
+• Site has sufficient land and buffer space available to host assets 
+                                                     
+ 
+ 
+3 Analysis herein assumes 73% efficiency 
+Exhibit ___ (FOH-4) 
+Page 4 of 17 
+
+
+--- Page 101 ---
+VERSATILE, CLEAN, DISTRIBUTED HYDROGEN FOR MULTIPLE MARKETS 
+ 
+ 
+Confidential and Proprietary 
+Do not distribute or copy 
+Page 4 
+1.4 Market Impact and Potential 
+The current market for industrial hydrogen is large and well-established. Approximately 10 M tonnes per 
+year of hydrogen are produced globally, with about one-sixth produced in the United States. Most of this 
+hydrogen supply is produced by steam reformation of natural gas, and the vast majority of hydrogen is 
+used for either ammonia production or hydrocracking of petroleum. The price of this hydrogen as a 
+chemical feedstock is less than $2/kg, though prices at current hydrogen fueling stations typically exceed 
+$10/kg (reflecting the cost of centralized production and long-distance truck deliveries). Even with a large 
+current supply of hydrogen, there is insufficient infrastructure to distribute and store hydrogen, fuel 
+vehicles, and convert it into electricity for grid services. Moreover, the current supply is not renewably 
+generated. 
+ 
+While demand for hydrogen fuel in vehicles may be low now, there is significant potential for market 
+growth due to the introduction of FCVs by large automotive companies (including but not limited to 
+Toyota, General Motors, Hyundai and Mercedes Benz). Hydrogen enables rapid fueling of vehicles 
+without the issues currently faced by fast charging of electric vehicles (e.g., high demand charges, 
+burdens on local grid infrastructure, technological limitations of batteries). Although hydrogen FCVs 
+occupy a niche market now, additional fueling infrastructure is expected to accelerate market growth. 
+Initial projects can be sited with an anchor customer (e.g., C&I customer fleet) and hydrogen not used to 
+fuel vehicles may be utilized for electric and gas system services, including charging of battery electric 
+vehicles. 
+ 
+The addressable market in New York State was evaluated from three different perspectives, as described 
+below and summarized in Figure 2.4 
+• 
+Host customer demand – The analysis considers the total load in New York State among 
+commercial and industrial customers,5 typical customer load factors,6 the fraction of customer 
+load in target segments with addressable demand for backup power and/or demand charge 
+management,7 and the power rating of the system relative to the host customer’s peak load.8 
+Based upon this analysis, the addressable market in NYS is about 900 MW or about 200,000 
+tonne/yr hydrogen.  
+                                                     
+ 
+ 
+4 The addressable market is calculated based on current electric, natural gas, and vehicle market sizes, which may grow over time, 
+increasing the addressable market. 
+5 Source: US Energy Information Administration (EIA) 
+6 Assumes 45% load factor for commercial customers and 55% load factor for industrial customers 
+7 Assumes load for C&I customers by segment in NY proportional to US average, per US EIA data. Target commercial segments 
+include health care, public order and safety, warehouse and storage, and laboratory. Target industrial segments include food, 
+beverage and tobacco products, plastics and rubber products, fabricated metal products, computer and electronic products, and 
+non-manufacturing. Assumes 33% of target customers have addressable demand for backup power and/or demand charge 
+management. 
+8 Assumes 50% ratio between system and customer load (i.e., 1 MW electrolyzer per 2 MW customer peak load) 
+ 
+ 
+ 
+Exhibit ___ (FOH-4) 
+Page 5 of 17 
+
+
+--- Page 102 ---
+VERSATILE, CLEAN, DISTRIBUTED HYDROGEN FOR MULTIPLE MARKETS 
+ 
+ 
+Confidential and Proprietary 
+Do not distribute or copy 
+Page 5 
+• 
+Natural gas sector demand – The analysis considers annual natural gas consumption in NYS9 
+and assumes that existing infrastructure can accommodate up to 10% hydrogen. Based upon this 
+analysis, the addressable market in NYS is about 300,000 tonne/yr hydrogen. 
+• 
+Transportation sector demand – The analysis considers the potential demand if all vehicles in 
+NYS were FCVs, based upon on annual gasoline consumption in NYS10 and the equivalent 
+amount of hydrogen.11 Based upon this analysis, the addressable market in NYS is about 
+550,000 ton/yr hydrogen. 
+ 
+As illustrated in Figure 2, a single hydrogen system (assuming a 1 MW electrolyzer) represents well under 
+0.1% of the total addressable market of the vehicle fueling market, so the opportunity for growth is 
+significant. However, because a single project provides enough fuel to support the annual consumption of 
+about 4,000 FCVs,12 initial demand from the transportation sector will be insufficient. However, the natural 
+gas system provides near-term opportunities for renewable gas to consume the bulk of the hydrogen 
+produced, and the electric grid provides lucrative opportunities during peak hours. 
+ 
+ 
+Figure 2 Addressable market in NYS and fraction of addressable market per project 
+ 
+1.5 The Value of a Partnership 
+The proposed partnership between utilities and market partners can be instrumental in seeding and 
+accelerating market growth. Hydrogen has the potential to offer significant value to utilities and ratepayers 
+by providing services to electric, natural gas, and transportation markets. However, as noted above, the 
+hydrogen systems must be sited in locations that offer these benefits without constraining local utility 
+                                                     
+ 
+ 
+9 Source: NY Department of Motor Vehicles (DMV) 
+10 Source: US EIA 
+11 Assumes 132 MJ/gal gasoline with 25% conversion efficiency and 120 MJ/kg H2 with 45% conversion efficiency 
+12 Assumes equivalent average consumption of hydrogen per vehicle based upon average gasoline consumption per registered NY 
+vehicle, using data from NY DMV for registered vehicles and US EIA for gasoline. 
+Exhibit ___ (FOH-4) 
+Page 6 of 17 
+
+
+--- Page 103 ---
+VERSATILE, CLEAN, DISTRIBUTED HYDROGEN FOR MULTIPLE MARKETS 
+ 
+ 
+Confidential and Proprietary 
+Do not distribute or copy 
+Page 6 
+infrastructure. Thus, a partnership can enable the utility and market partner to work collaboratively to 
+identify appropriate sites and off-takers, as well as acquire host customers. 
+ 
+Further, the utility and market partner offer complementary abilities to monetize the benefits provided by 
+these systems. While the market partner may be able to directly monetize hydrogen fuel sales and 
+wholesale electricity market revenue, utilities are in a better position to monetize the value for benefits 
+provided to electric and natural gas distribution systems. 
+ 
+Given that the target hydrogen markets are in their infancy, it may be challenging to attract private capital 
+at a reasonable cost, and host customers are unlikely to be willing to make significant capital investments 
+outside of their core business. Utilities could provide capital for early projects to seed the market, then 
+transition toward non-utility investment and ownership as the market matures. 
+ 
+Exhibit ___ (FOH-4) 
+Page 7 of 17 
+
+
+--- Page 104 ---
+VERSATILE, CLEAN, DISTRIBUTED HYDROGEN FOR MULTIPLE MARKETS 
+ 
+ 
+Confidential and Proprietary 
+Do not distribute or copy 
+Page 7 
+2. BUSINESS MODEL DESCRIPTION 
+2.1 Business Model Overview 
+The business model generates benefit for all stakeholders involved, as depicted in Figure 3, which 
+illustrates how value flows between the various stakeholders benefited by the solution. 
+ 
+ 
+Figure 3 Overview of the partnership business model 
+The financial and operational model is summarized below, with revenue and savings value streams 
+summarized outlined in Table 4. 
+• 
+The utility and market partner co-invest and share ownership of the assets. 
+• 
+The market partner has primary control of operations, and the utility may convey operating 
+instructions under certain conditions (e.g., peak shaving needs, emergency shut down). 
+• 
+The site host owns the site and receives a lease payment or in-kind services. 
+• 
+The utility monetizes avoided costs from electric and natural gas distribution system services – 
+such as non-wires alternative (NWA) and non-pipes alternative (NPA) savings – as well as other 
+utility benefits such as earnings adjustment mechanisms (EAMs). 
+Exhibit ___ (FOH-4) 
+Page 8 of 17 
+
+
+--- Page 105 ---
+VERSATILE, CLEAN, DISTRIBUTED HYDROGEN FOR MULTIPLE MARKETS 
+ 
+ 
+Confidential and Proprietary 
+Do not distribute or copy 
+Page 8 
+• 
+The market partner pays system operating costs and monetizes market revenue from wholesale 
+services and transportation services. 
+• 
+The customer monetizes reductions in energy bills. 
+• 
+Revenue and savings are shared between the utility, market partner and customer through 
+shared revenue/savings agreements, lease payments for capital, and/or power purchase 
+agreements (PPAs) for power and natural gas services, where applicable. 
+ 
+Table 4 Revenue and savings allocation 
+Revenue / Savings 
+Site Host 
+Market Partner(s) 
+Electric + Gas Utility 
+Wholesale services 
+Shared revenue 
+Market revenue 
+Share (if allowed) 
+Distribution services 
+Shared revenue  
+PPA, shared savings 
+Avoided cost (NWA) 
+Customer services 
+Shared excess 
+savings 
+Monetized savings, 
+Backup fee 
+- 
+Gas services 
+Shared savings / 
+revenue 
+PPA, shared savings 
+/ revenue 
+Avoided cost (NPA, 
+RNG) 
+Transportation services 
+Shared revenue 
+Market revenue 
+Share (if allowed) 
+Other 
+Land lease 
+- 
+Fixed return, EAM 
+ 
+The value accruing to key stakeholders is summarized in Table 3. The business model and value 
+proposition from each stakeholder’s perspective is described below. 
+ 
+Table 3 The value for each partner 
+Utility 
+Reduced capital and operating costs for both electricity and gas 
+distribution; EAMs for improved system efficiency, carbon reduction; 
+revenue/returns for invested capital 
+Market Partner(s) 
+Support for site and off-taker acquisition; access to capital; access to 
+additional revenue streams 
+Participating Customers 
+Backup power; lower energy bills; shared savings/revenue; 
+achievement of corporate sustainability initiatives; improved access to 
+hydrogen fuel and EV charging 
+Non-Participating 
+Customers 
+Reduced emissions; reduced energy costs; source of H2 and EV 
+charging for private and/or fleet vehicles 
+ 
+The electric distribution utility is able to capture multiple value streams. The services provided by the 
+system can serve to reduce capital costs (through avoided/deferred upgrades) and operating costs 
+(through lower supply costs) by providing stored, curtailed, and generated power during peak hours. The 
+system can facilitate beneficial electrification to improve system efficiency, as well as provide clean 
+energy, enabling utilities to meet regulatory requirements and increase revenue via earnings adjustment 
+mechanisms (EAMs). As an investor in the project, the utility can receive a share of revenues generated 
+by the project, as feasible. As necessary (e.g., if wholesale electricity market revenues may not be 
+shared), the utility may instead receive a fixed return for invested capital. 
+Exhibit ___ (FOH-4) 
+Page 9 of 17 
+
+
+--- Page 106 ---
+VERSATILE, CLEAN, DISTRIBUTED HYDROGEN FOR MULTIPLE MARKETS 
+ 
+ 
+Confidential and Proprietary 
+Do not distribute or copy 
+Page 9 
+ 
+The gas utility is also able to capture multiple value streams, including similar reductions in capital and 
+operating costs by providing hydrogen during peak hours. The system can also enable achievement of 
+targets for renewable fuel supply. For the latter, the gas utility supports the pathways required to establish 
+a Renewable Identification Number (RIN),13 a renewable attribute traded in a volatile open market 
+recently valued at $45 per MMBtu, several times the cost of natural gas. 
+ 
+The market partner is able to benefit from the utility partnership to support acquisition of customers and 
+off-takers, as well as access additional value streams for utility services. The system generates direct 
+revenue for the market partner via sale of wholesale electricity services and transportation fuels. Value 
+generated for electric and gas utilities may be captured via shared savings/revenue models (which may 
+incentivize greater utilization of fueling and charging infrastructure) or via power purchase agreements. 
+Backup power may be provided for a fee to host customers, and any bill savings provided to host 
+customers may be shared with the market partner.  
+ 
+The participating customers include the site host and drivers. The site host receives backup power, 
+reduced energy bills, and potentially a share of project revenues/savings. In addition, the project may help 
+site hosts to achieve corporate sustainability initiatives. Drivers receive improved access to hydrogen 
+fueling and EV charging infrastructure.  
+ 
+Non-participating customers benefit from reduced emissions and improved system efficiency, as well 
+as reduced energy costs resulting from savings and revenues generated for electric and gas utilities. 
+ 
+2.2 Quantifiable Value Assessment  
+The value assessment first considered the value of each individual application to prioritize applications for 
+the system (Figure 4), then considered the value of an individual project based upon the assumed use of 
+assets across applications, then considered total market potential based upon the market size relative to 
+a single project. Depending upon assumptions the net present value per project varies from $3M to over 
+$15M (Figure 5). Assuming a value of $5M per project and that each project represents 0.1% of the 
+addressable market (Figure 3), the total addressable market in NYS is about $5B. As the market matures, 
+prices will be driven down, so this value will diminish, but the opportunity remains significant nonetheless. 
+Note that this analysis considers only direct revenue and savings to utilities, site hosts, and market 
+partners. In addition, there is considerable societal value in creation of clean energy jobs and reductions 
+in harmful emissions. 
+ 
+Figure 4 illustrates the value of an individual application per kW of resource providing the service under 
+base assumptions considering typical values for NYS (NY Avg), typical values for target customers in 
+National Grid’s territory (NG Target), and upper end values across NYS (Optimistic). Hydrogen fueling is 
+the primary revenue driver, but other services can offer significant value as well. These other services are 
+important not only to effectively utilize hydrogen when initial demand for hydrogen fuel is insufficient, but 
+                                                     
+ 
+ 
+13 1 RIN is the renewable equivalent of one gallon of ethanol, 77,000 Btu LHV.  See pricing for a D% RIN in 2018 
+https://www.epa.gov/fuels-registration-reporting-and-compliance-help/rin-trades-and-price-information 
+Exhibit ___ (FOH-4) 
+Page 10 of 17 
+
+
+--- Page 107 ---
+VERSATILE, CLEAN, DISTRIBUTED HYDROGEN FOR MULTIPLE MARKETS 
+ 
+ 
+Confidential and Proprietary 
+Do not distribute or copy 
+Page 10 
+also to provide additional revenue streams once a mature hydrogen market depresses the price of 
+hydrogen fuel. 
+ 
+ 
+Figure 4 Normalized annual value by application for multiple valuation scenarios14 
+To consider the assumed use case for an individual project, the value assessment considered the 
+compatibility between applications, particularly the utilization and commitment requirements. Adjustment 
+factors were applied by asset and application for each use case to allocate the consumption of hydrogen 
+across different applications.  
+ 
+High-utilization applications, such as H2 fueling, are used daily and consume large amounts of hydrogen. 
+Because H2 fueling is the highest-value high-utilization application, other high-utilization applications are 
+largely excluded (e.g., frequency regulation, energy arbitrage, TOU arbitrage). However, depending upon 
+the price of renewable gas (e.g., RNG, H2), pipeline injection could serve as a high-value alternative in the 
+absence of sufficient H2 vehicle fuel demand. However, EV charging also offers reasonably high value, 
+although the EVSE capacity is a factor that limits the volume of hydrogen consumed. Some high-
+utilization applications have negative values, because the unit cost of hydrogen exceeds the unit revenue. 
+ 
+Other applications tend to consume little hydrogen, but have high commitment requirements, which 
+means that capacity must be available when needed. Examples include capacity, demand charge 
+management, and backup power. However, because the electrolyzer load is controllable, and the H2 
+storage volume is relatively large compared to the size of the fuel cell (~16 hr of storage), commitment 
+conflicts are less of a concern. Relevant applications that the system can support include capacity, T&D 
+deferral (NWA), gas demand response (NPA), demand charge management, backup power. 
+ 
+                                                     
+ 
+ 
+14 Values represent net marginal operational value, incorporating both revenue and cost (e.g., power cost to produce hydrogen). 
+Hence, negative values indicate a marginal cost that exceeds marginal revenue. 
+Exhibit ___ (FOH-4) 
+Page 11 of 17 
+
+
+--- Page 108 ---
+VERSATILE, CLEAN, DISTRIBUTED HYDROGEN FOR MULTIPLE MARKETS 
+ 
+ 
+Confidential and Proprietary 
+Do not distribute or copy 
+Page 11 
+The value assessment considers an individual project with a 1 MW electrolyzer system, 0.5 tonne H2 
+storage, 500 kW fuel cell, 0.4 tonne/day H2 fueling station, and 100 kW EV DC fast charging. Figure 5 
+shows the results for scenarios based upon assumptions for National Grid’s territory. The base case 
+generates a very high net present value (NPV = $16M) and internal rate of return (IRR = 30%). Even if 
+revenue drops nearly in half (H2 fuel prices drop from $14/kg to $7/kg), the returns remain positive ($3M 
+NPV; 6% IRR). 
+ 
+ 
+Figure 5 Project NPV and IRR by scenario, with stacked NPV by application 
+An important factor was to consider was the method of generating renewable hydrogen. The base case 
+considered charging from the grid. Alternatives evaluated include on-site PV, a mix of on-site PV and off-
+site renewables, and a mix of on-site PV and on-site biofuels. All renewables were assumed to be 
+procured through PPAs.15 The on-site PV scenario assumed a larger electrolyzer that follows PV output, 
+thereby generating the same quantity of hydrogen. While the benefits remained similar, the higher capital 
+cost yields lower returns ($7M NPV, 7% IRR). Additionally, on-site land requirements would be 
+substantial. A mix of on-site PV and off-site renewables, keeping the system assets the same, provides 
+similar returns to the base case. A mix of on-site PV and on-site biofuel provides high, but reduced, 
+returns ($10M NPV, 20% IRR) due to a higher-cost PPA that reduces operating margins. 
+ 
+Other factors considered were the mix and utilization of assets. Elimination of EVSE did not substantially 
+impact economics. Assuming a higher amount and utilization of EVSE with a lower overall utilization of 
+hydrogen (50% capacity factor for the electrolyzer) may be a more reasonable base assumption, which 
+yields favorable returns ($6M NPV, 10% IRR). Elimination of the fuel cell increased returns despite 
+reducing revenue, due to the relatively large reduction in cost. However, this significantly reduces the 
+                                                     
+ 
+ 
+15 Assumed PPA prices: on-site PV = $80/MWh, on-site biofuel = $150/MWh, off-site renewables = $70/MWh 
+ 
+ 
+ 
+Exhibit ___ (FOH-4) 
+Page 12 of 17 
+
+
+--- Page 109 ---
+VERSATILE, CLEAN, DISTRIBUTED HYDROGEN FOR MULTIPLE MARKETS 
+ 
+ 
+Confidential and Proprietary 
+Do not distribute or copy 
+Page 12 
+value that the system may offer to the distribution utility. Furthermore, reductions in fuel costs over time 
+will improve project economics. For example, the utilization of novel membranes and catalysts provides 
+good opportunities for significant reductions in cost and increases in performance. Fuel cell costs are 
+expected to fall about 50% over the next 5-10 years.16 
+ 
+Other changes in the market over time can impact the economics of these projects –. In addition to 
+changes in the cost of assets, changes in demand for various services and the prices for those services 
+could enhance the economic value of these projects. While this analysis largely considers prevailing 
+prices today with simple assumptions for escalation over time, actual market dynamics are more complex.  
+2.3 REV Financial Mechanisms 
+The proposed business model and partnership structure leverage multiple REV financial mechanisms, as 
+described in Table 4. 
+ 
+Table 4 Alignment of proposed partnership to REV objectives 
+Financial Mechanism 
+How the partnership enables utilities to use the mechanism 
+Reduction in utility capital 
+spending (non-wires 
+solutions) 
+Reduce capital and operating costs for both electric and gas utilities by 
+dispatching generation and storage, as well as curtailing load, during 
+peak hours 
+Platform Service Revenues 
+(PSR) 
+Generate revenue from capital investment through shared 
+revenue/savings for wholesale, customer, and transportation services; 
+alternatively, generate revenue through fixed payments for capital 
+investment 
+Earnings Adjustment 
+Mechanisms (EAM) 
+Reduce emissions through renewable generation; improve system 
+efficiency through peak reduction 
+2.4 Roles and Responsibilities 
+Successful deployment of these hydrogen systems requires coordination between multiple stakeholders 
+including the market partner, electric utility, gas utility, site host, and drivers (see Table 5). Collaboration 
+between the utility and market partner on site host and off-taker acquisition can reduce the cost of 
+customer acquisition, ensure that the system is deployed in an area that is beneficial for the utilities, and 
+enable the system to access greater and higher-value revenue streams. 
+ 
+To deploy the system, the site host provides the site and interconnections, while the electric and gas 
+utilities also support interconnection. The market partner provides the equipment and installation. The 
+utility and market partner may co-invest in the system and share ownership, subject to regulatory 
+considerations. 
+ 
+The market partner manages ongoing operation and maintenance, including system control based upon 
+customer, hydrogen system, electric system, and gas system data. The host customer may have limited 
+                                                     
+ 
+ 
+16 Per discussion with Standard Hydrogen Corporation 
+Exhibit ___ (FOH-4) 
+Page 13 of 17 
+
+
+--- Page 110 ---
+VERSATILE, CLEAN, DISTRIBUTED HYDROGEN FOR MULTIPLE MARKETS 
+ 
+ 
+Confidential and Proprietary 
+Do not distribute or copy 
+Page 13 
+maintenance responsibilities to respond to any system notifications, while utilities may need to send 
+requests for grid services. Drivers and utilities both serve as off-takers of energy and pay for services 
+provided. The market partner pays system operating costs, including any electricity costs to power the 
+system. 
+ 
+Table 5 Summary of business model roles and responsibilities 
+Role / Responsibility 
+Site Host + Drivers 
+Market Partner(s) 
+Electric + Gas Utility 
+Site host + off-taker 
+acquisition 
+- 
+Logistics, outreach 
+Grid needs, outreach, 
+customer 
+relationship, credit 
+enablement/validation  
+System implementation 
+Site, interconnection 
+Equipment, 
+installation 
+Interconnection 
+(electric and gas) 
+Up-front capital 
+- 
+Co-investment 
+Co-investment 
+Ownership 
+- 
+Shared ownership 
+Shared ownership 
+Operation 
+Business rules, 
+consumption 
+Control, management 
+Grid requests, gas 
+consumption 
+Data 
+Load 
+Project 
+Distribution system, 
+gas system 
+Maintenance 
+Basic notification 
+response 
+Management 
+- 
+Operating costs 
+Fueling purchases 
+Electricity costs, fixed 
+O&M 
+Payment for services 
+2.5 Advancement of REV Objectives and Innovation 
+2.5.1 Alignment to REV objectives 
+The proposed business model and partnership structure are in alignment with the REV objectives, as 
+described in Table 6. 
+ 
+Table 6 Alignment of proposed partnership to REV objectives 
+Objective 
+How the partnership aligns with this objective 
+Boost system reliability and 
+resilience 
+Provides backup power from the fuel cell and other on-site generation 
+Enable new energy markets 
+and leverage ratepayer 
+contributions 
+Serves multiple markets – including multiple types of power, natural 
+gas, and transportation services – from a customer-sited system; 
+hydrogen infrastructure opens up new markets and services not 
+available from other traditional generation and storage technologies 
+Exhibit ___ (FOH-4) 
+Page 14 of 17 
+
+
+--- Page 111 ---
+VERSATILE, CLEAN, DISTRIBUTED HYDROGEN FOR MULTIPLE MARKETS 
+ 
+ 
+Confidential and Proprietary 
+Do not distribute or copy 
+Page 14 
+Enhance customer 
+knowledge and capabilities 
+Creates prosumers through customer-sited systems; visible hydrogen 
+infrastructure creates broader consumer awareness 
+Ensure fuel and resource 
+diversity 
+Generates renewable energy supply for power and natural gas 
+services; facilitates greater adoption FCVs and EVs 
+Improve system-wide 
+efficiency 
+Improves utilization of infrastructure through peak reduction; supports 
+beneficial electrification 
+Reduce carbon emissions 
+Supports low-carbon transportation through renewable generation of 
+hydrogen; may capture and monetize curtailed renewables17 
+2.5.2 Alignment to DSP functionality 
+The proposed business model and partnership structure also aligns with distribution system platform 
+(DSP) functionality, as described in Table 7. 
+ 
+Table 7 Alignment of proposed partnership to DSP functionality 
+Functionality 
+How the partnership aligns with this functionality 
+Grid Planning: analysis and 
+planning for system needs 
+integrating DER 
+Targets sites with highest value for utilities (e.g., NWA); Supports 
+infrastructure for FCV and EV transportation 
+Grid Operations: safe and 
+reliable service with 
+integration of DER 
+Utilizes customer-sited resources to mitigate system peaks and 
+improve system efficiency 
+Market Operations: pricing 
+and market settlement for 
+DER 
+Compensates distributed resources for providing services to the 
+distribution system; facilitates sharing of revenue/savings between 
+utility, customer, and market partner 
+2.5.3 Uniqueness to New York State and local utilities 
+The proposed hydrogen system is unique both within and beyond NYS. While each of the components of 
+the system have been deployed elsewhere, the complete integrated solution is unique. Furthermore, the 
+business model is unique, enabling co-investment and sharing of revenue/savings to provide incentives 
+for the utility, market partner, and customer to work together to deploy profitable, highly-utilized hydrogen 
+systems that generate value for New Yorkers. 
+ 
+Several major vehicle manufacturers are now producing mass market hydrogen-fueled vehicles, but 
+these FCVs will require access to hydrogen fuel to support broad adoption. California has put significant 
+                                                     
+ 
+ 
+17 22 GWh of economic curtailment in NYS in 2016 per the following source: T. Dina, NY Wind – Overview and 2016 Operation. 
+NYISO (2017). 
+Exhibit ___ (FOH-4) 
+Page 15 of 17 
+
+
+--- Page 112 ---
+VERSATILE, CLEAN, DISTRIBUTED HYDROGEN FOR MULTIPLE MARKETS 
+ 
+ 
+Confidential and Proprietary 
+Do not distribute or copy 
+Page 15 
+investment into a network of H2 fueling stations to serve limited numbers of commercially available FCVs, 
+but these systems are not grid interactive.  
+ 
+Prior H2 fueling activities in NYS have been limited to vehicle testing programs/demonstrations, which 
+also did not provide services to the grid. No known projects have injected H2 in the natural gas distribution 
+system. By capturing multiple different value streams across power, natural gas, and transportation 
+markets and allocating that value between the market partner, utility, and host customer, this business 
+case provides a flexible model that can evolve with various markets as they mature. Thus, this model 
+provides a strong foundation for future hydrogen market growth. 
+ 
+Exhibit ___ (FOH-4) 
+Page 16 of 17 
+
+
+--- Page 113 ---
+VERSATILE, CLEAN, DISTRIBUTED HYDROGEN FOR MULTIPLE MARKETS 
+ 
+ 
+Confidential and Proprietary 
+Do not distribute or copy 
+Page 16 
+3. CAPABILITIES OF MARKET PARTNER 
+This section provides an overview of the market partner (Standard Hydrogen) that submitted the idea for 
+this business case to REV Connect. 
+3.1 Standard Hydrogen 
+The Standard Hydrogen Corporation (SHC) team brings together over sixty years of energy and 
+automotive expertise, founding members of seven (7) new ventures, first-hand experience installing and 
+operating 12 hydrogen refueling stations, and a record of managing tens of millions of dollars in joint 
+development agreements.  
+ 
+SHC is partnered with Proton OnSite, the leading manufacturer of PEM electrolyzers in the world. Proton 
+OnSite is now part of Nel, the world’s largest pure play hydrogen company, with a market cap of $339M. 
+Proton has been manufacturing hydrogen production systems in Connecticut for more than 21 years and 
+has a well-established engineering and service support operation. 
+ 
+SHC’s proposed solution is directly aligned with this business case, which was developed collaboratively 
+by SHC and National Grid. SHC proposes to partner with National Grid on at least one project site with 
+the following components and approximate size:  1 MW electrolyzer system, 0.5 tonne H2 storage, 500 
+kW fuel cell, 0.40 tonne/day H2 fueling station, and 100 kW EV DC fast charging. The solution would take 
+approximately 18 months to deploy from initial design to commissioning and operation.  
+ 
+The following 18 months would focus on operational evaluation for the demonstration project. The 
+demonstration project seeks to evaluate the following hypotheses: 
+• 
+A single hydrogen facility can concurrently provide multiple revenue-generating services to host 
+customers, drivers, electric and gas distribution utilities, and wholesale markets. 
+• 
+Hydrogen is an effective tool to provide renewable energy to consumers at similar or lower costs 
+than incumbent technologies and energy systems. 
+• 
+Deployment of hydrogen systems providing these services facilitates greater adoption of clean 
+transportation, including both FCVs and battery EVs.  
+ 
+Exhibit ___ (FOH-4) 
+Page 17 of 17 
+
+
+--- Page 114 ---
+Testimony of Future of Heat Panel 
+  
+ 
+ 
+ 
+ 
+ 
+ 
+ 
+ 
+ 
+Exhibit ___ (FOH-5) 
+ 
+BCA for Geothermal proposal 
+ 
+ 
+ 
+ 
+ 
+ 
+ 
+ 
+ 
+ 
+ 
+ 
+ 
+ 
+ 
+ 
+ 
+ 
+ 
+ 
+ 
+ 
+ 
+ 
+ 
+ 
+ 
+ 
+ 
+ 
+ 
+ 
+ 
+ 
+ 
+ 
+
+
+--- Page 115 ---
+Testimony of Future of Heat Panel 
+  
+ 
+ 
+ 
+ 
+ 
+ 
+ 
+ 
+ 
+Exhibit ___ (FOH-5) 
+ 
+Schedule 1 
+ 
+ 
+ 
+ 
+ 
+ 
+ 
+ 
+ 
+ 
+ 
+ 
+ 
+ 
+ 
+ 
+ 
+ 
+ 
+ 
+ 
+ 
+ 
+ 
+ 
+ 
+ 
+ 
+ 
+ 
+ 
+ 
+ 
+ 
+ 
+ 
+
+
+--- Page 116 ---
+Niagara Mohawk Power Corporation d/b/a National Grid
+Summary
+Exhibit___(FOH‐5)
+Schedule 1
+Page 1 of 1
+NMPC
+Portfolio BCA
+4.46 *not including qualitative benefits
+Total Benefits
+$5,038,287
+Total Costs
+$1,130,465
+Delta
+$3,907,822
+NMPC
+Portfolio BCA
+0.00 *not including qualitative benefits
+Total Benefits
+$0
+Total Costs
+$1,130,465
+Delta
+($1,130,465)
+NMPC
+Portfolio BCA
+4.46 *not including qualitative benefits
+Total Benefits
+$5,038,287
+Total Costs
+$1,130,465
+Delta
+$3,907,822
+Portfolio SCT BCA
+Portfolio UCT BCA
+Portfolio RIM BCA
+
+
+--- Page 117 ---
+Testimony of Future of Heat Panel 
+  
+ 
+ 
+ 
+ 
+ 
+ 
+ 
+ 
+ 
+Exhibit ___ (FOH-5) 
+ 
+Schedule 2 
+ 
+ 
+ 
+ 
+ 
+ 
+ 
+ 
+ 
+ 
+ 
+ 
+ 
+ 
+ 
+ 
+ 
+ 
+ 
+ 
+ 
+ 
+ 
+ 
+ 
+ 
+ 
+ 
+ 
+ 
+ 
+ 
+ 
+ 
+ 
+ 
+
+
+--- Page 118 ---
+Niagara Mohawk Power Corporation d/b/a National Grid
+Avoided CO2 Benefits
+Exhibit___(FOH‐5)
+Schedule 2
+Page 1 of 1
+Year
+1
+2
+3
+4
+5
+6
+7
+8
+9
+10
+11
+12
+13
+14
+15
+16
+17
+18
+19
+20
+21
+22
+23
+24
+25
+26
+Calendar Year
+2021
+2022
+2023
+2024
+2025
+2026
+2027
+2028
+2029
+2030
+2031
+2032
+2033
+2034
+2035
+2036
+2037
+2038
+2039
+2040
+2041
+2042
+2043
+2044
+2045
+2046
+Counterfactual (oil)
+Oil ‐ Heating Emissions kgCO2e per home
+9,819
+            
+9,819
+      
+9,819
+         
+9,819
+         
+9,819
+         
+9,819
+         
+9,819
+         
+9,819
+         
+9,819
+         
+9,819
+         
+9,819
+         
+9,819
+         
+9,819
+         
+9,819
+         
+9,819
+         
+9,819
+         
+9,819
+         
+9,819
+         
+9,819
+         
+9,819
+         
+9,819
+         
+9,819
+         
+9,819
+         
+9,819
+         
+9,819
+         
+9,819
+         
+GSHP ‐Heating Emissions kgCO2e per conversion
+1,383
+            
+1,383
+      
+1,383
+         
+1,383
+         
+1,383
+         
+1,383
+         
+1,383
+         
+1,383
+         
+1,383
+         
+1,383
+         
+1,383
+         
+1,383
+         
+1,383
+         
+1,383
+         
+1,383
+         
+1,383
+         
+1,383
+         
+1,383
+         
+1,383
+         
+1,383
+         
+1,383
+         
+1,383
+         
+1,383
+         
+1,383
+         
+1,383
+         
+1,383
+         
+ Annual Emissions Saved/Conversion MTCO2e 
+               8.44           8.44              8.44              8.44              8.44              8.44              8.44              8.44              8.44              8.44              8.44              8.44              8.44              8.44              8.44              8.44              8.44              8.44              8.44              8.44              8.44              8.44              8.44              8.44              8.44              8.44 
+# of Conversions
+85
+                  
+137
+          
+270
+            
+377
+            
+‐
+             
+‐
+             
+‐
+             
+‐
+             
+‐
+             
+‐
+             
+‐
+             
+‐
+             
+‐
+             
+‐
+             
+‐
+             
+‐
+             
+‐
+             
+‐
+             
+‐
+             
+‐
+             
+‐
+             
+‐
+             
+‐
+             
+‐
+             
+‐
+             
+‐
+             
+Cumulative # of Customers
+85
+                  
+222
+          
+492
+            
+869
+            
+869
+            
+869
+            
+869
+            
+869
+            
+869
+            
+869
+            
+869
+            
+869
+            
+869
+            
+869
+            
+869
+            
+869
+            
+869
+            
+869
+            
+869
+            
+869
+            
+869
+            
+869
+            
+869
+            
+869
+            
+869
+            
+869
+            
+Annual Savings MTCO2e
+717
+                
+1,873
+      
+4,151
+         
+7,331
+         
+7,331
+         
+7,331
+         
+7,331
+         
+7,331
+         
+7,331
+         
+7,331
+         
+7,331
+         
+7,331
+         
+7,331
+         
+7,331
+         
+7,331
+         
+7,331
+         
+7,331
+         
+7,331
+         
+7,331
+         
+7,331
+         
+7,331
+         
+7,331
+         
+7,331
+         
+7,331
+         
+7,331
+         
+7,331
+         
+Social Cost of Carbon (2018$ per metric ton CO2e)
+52.08
+$          
+52.08
+$    
+53.32
+$      
+54.56
+$      
+55.80
+$      
+57.04
+$      
+58.28
+$      
+59.52
+$      
+60.76
+$      
+62.00
+$      
+63.24
+$      
+64.48
+$      
+65.72
+$      
+66.96
+$      
+68.20
+$      
+69.44
+$      
+70.68
+$      
+71.92
+$      
+73.16
+$      
+74.40
+$      
+75.64
+$      
+76.88
+$      
+78.12
+$      
+79.36
+$      
+80.60
+$      
+81.84
+$      
+Annual Value of Carbon Savings ($)
+37,347
+$        
+97,541
+$  
+221,319
+$  
+399,998
+$  
+409,089
+$  
+418,180
+$  
+427,271
+$  
+436,362
+$  
+445,452
+$  
+454,543
+$  
+463,634
+$  
+472,725
+$  
+481,816
+$  
+490,907
+$  
+499,998
+$  
+509,089
+$  
+518,179
+$  
+527,270
+$  
+536,361
+$  
+545,452
+$  
+554,543
+$  
+563,634
+$  
+572,725
+$  
+581,815
+$  
+590,906
+$  
+599,997
+$  
+NPV
+5,038,287
+$  
+Exhibit___(FOH-5) 
+Schedule 2
+Page 1 of 1
+
+
+--- Page 119 ---
+Testimony of Future of Heat Panel 
+  
+ 
+ 
+ 
+ 
+ 
+ 
+ 
+ 
+ 
+ 
+Exhibit ___ (FOH-5) 
+ 
+Schedule 3 
+ 
+ 
+ 
+ 
+ 
+ 
+ 
+ 
+ 
+ 
+ 
+ 
+ 
+ 
+ 
+ 
+ 
+ 
+ 
+ 
+ 
+ 
+ 
+ 
+ 
+ 
+ 
+ 
+ 
+ 
+ 
+ 
+ 
+ 
+ 
+
+
+--- Page 120 ---
+Niagara Mohawk Power Corporation d/b/a National Grid
+Program Admin Costs
+Exhibit___(FOH‐5)
+Schedule 3
+Page 1 of 1
+Year
+1
+2
+3
+4
+Calendar Year
+2021
+2022
+2023
+2024
+Approximate Cost per FTE
+200,000.00
+$  
+200,000.00
+$      
+225,000.00
+$      
+250,000.00
+$      
+Number of Incremental FTEs
+1.0
+                   
+1.0
+                       
+2.0
+                       
+2.0
+                       
+Annual Infrastructure Cost ($)
+200,000.00
+$  
+200,000.00
+$      
+450,000.00
+$      
+500,000.00
+$      
+NPV
+1,130,465
+$    
+
+
+--- Page 121 ---
+Testimony of Future of Heat Panel 
+  
+ 
+ 
+ 
+ 
+ 
+ 
+ 
+ 
+ 
+ 
+Exhibit ___ (FOH-5) 
+ 
+Schedule 4 
+ 
+ 
+ 
+ 
+ 
+ 
+ 
+ 
+ 
+ 
+ 
+ 
+ 
+ 
+ 
+ 
+ 
+ 
+ 
+ 
+ 
+ 
+ 
+ 
+ 
+ 
+ 
+ 
+ 
+ 
+ 
+ 
+ 
+ 
+ 
+
+
+--- Page 122 ---
+Niagara Mohawk Power Corporation d/b/a National Grid
+GSHP CapEx Pricing
+Exhibit___(FOH‐5)
+Schedule 4
+Page 1 of 1
+Value
+Units
+Description
+Source
+Link
+Reasoning
+$34,500.00  $/Install
+GSHP CapEx Cost ‐ UNY ‐ Single 
+Family (new)
+NYSERDA Analysis of Resi Heat 
+Pump Potential and Economics 
+(2019) Table 5‐1
+https://www.nyserda.ny.gov/‐
+/media/Files/Publications/PPSE
+R/NYSERDA/18‐44‐
+HeatPump.pdf
+NYSERDA tracks residential 
+natural gas prices and is a 
+trusted source of information
+$34,500.00  $/Install
+GSHP CapEx Cost ‐ UNY ‐ Single 
+Family (existing)
+NYSERDA Analysis of Resi Heat 
+Pump Potential and Economics 
+(2019) Table 5‐1
+https://www.nyserda.ny.gov/‐
+/media/Files/Publications/PPSE
+R/NYSERDA/18‐44‐
+HeatPump.pdf
+NYSERDA tracks residential 
+natural gas prices and is a 
+trusted source of information
+$29,247.00  $/Install
+GSHP CapEx Cost ‐ Upstate
+Dandelion (without rebate)
+https://dandelionenergy.com/f
+aqs/
+Dandelion is a GSHP vendor 
+that is offering installs in NY 
+state using a similar business 
+model
+‐4%
+‐4%
+‐4%
+2021
+2022
+2023
+2024
+3‐ton Ground‐Loop Cost
+12,500.00
+$                                   
+12,000.00
+$                                   
+11,500.00
+$                                   
+11,000.00
+$                                   
+Above‐ground Costs
+$20,249.00
+$19,439.04
+$18,629.08
+$17,819.12
+Total
+32,749.00
+$                                   
+31,439.04
+$                                   
+30,129.08
+$                                   
+28,819.12
+$                                   
+Loop Cost Including Overhead
+16,000.00
+$                                   
+15,360.00
+$                                   
+14,720.00
+$                                   
+14,080.00
+$                                   
+Cost per ton
+5,333.33
+$                                    
+5,120.00
+$                                    
+4,906.67
+$                                    
+4,693.33
+$                                    
+CapEx Costs include overhead at the applicable rate for NMPC
+Levelized Cost for Loop Access (3‐ton)
+68.06
+$                                          
+per
+customer per month (2020 dollars)
+22.69
+$                                          
+per
+ton per month (2020 dollars)
+Exhibit___(FOH-5) 
+Schedule 4
+Page 1 of 1
+
+
+--- Page 123 ---
+Testimony of Future of Heat Panel 
+  
+ 
+ 
+ 
+ 
+ 
+ 
+ 
+ 
+ 
+ 
+Exhibit ___ (FOH-5) 
+ 
+Schedule 5 
+ 
+ 
+ 
+ 
+ 
+ 
+ 
+ 
+ 
+ 
+ 
+ 
+ 
+ 
+ 
+ 
+ 
+ 
+ 
+ 
+ 
+ 
+ 
+ 
+ 
+ 
+ 
+ 
+ 
+ 
+ 
+ 
+ 
+ 
+ 
+
+
+--- Page 124 ---
+Niagara Mohawk Power Corporation d/b/a National Grid
+Natural Gas Pricing
+Exhibit___(FOH‐5)
+Schedule 5
+Page 1 of 1
+Value
+Units
+Description
+Source
+Link
+Reasoning
+$/Mcf
+Natural Gas ‐ NY 
+Statewide Residential 
+Price
+NYSERDA
+https://www.nyserda.ny
+.gov/Researchers‐and‐
+Policymakers/Energy‐
+Prices/Natural‐
+Gas/Monthly‐Average‐
+Price‐of‐Natural‐Gas‐
+Residential 
+NYSERDA tracks 
+residential natural gas 
+prices and is a trusted 
+source of information
+1.037 MMBTU/Mcf
+Natural Gas ‐ Heat 
+Content
+EIA
+https://www.eia.gov/en
+ergyexplained/index.php
+?page=about_energy_un
+its
+EIA is a trusted source of 
+energy information
+Average Heating Season NG Price
+$/MCF
+$/MMBtu
+$11.97 
+$11.55 
+2019
+2018
+2017
+2016
+2015
+2014
+Average
+January
+ $                              12.31   $                                9.51   $                                9.86   $                              10.30 
+10.51
+$                              
+11.18
+$                              
+ $                              10.61 
+February
+ $                              11.47   $                              11.23   $                              11.04   $                                9.45 
+9.79
+$                                 
+11.32
+$                              
+ $                              10.72 
+March
+ $                              10.88   $                              12.10   $                              10.81   $                                9.64 
+9.34
+$                                 
+11.78
+$                              
+ $                              10.76 
+April
+ $                              12.13   $                              11.29   $                              11.10   $                                9.88 
+10.19
+$                              
+12.49
+$                              
+ $                              11.18 
+May
+ $                              14.03   $                              14.20   $                              14.45   $                              10.99 
+12.68
+$                              
+14.55
+$                              
+ $                              13.48 
+June
+ $                              17.11   $                              19.32   $                              16.28   $                              14.69 
+16.26
+$                              
+17.99
+$                              
+ $                              16.94 
+July
+ $                              19.92   $                              20.11   $                              19.13   $                              16.64 
+17.09
+$                              
+18.99
+$                              
+ $                              18.65 
+August
+ $                              20.20   $                              20.83   $                              19.05   $                              17.86 
+17.30
+$                              
+18.88
+$                              
+ $                              19.02 
+September
+ $                              20.04   $                              20.16   $                              18.12   $                              17.34 
+17.50
+$                              
+17.86
+$                              
+ $                              18.50 
+October
+ $                              16.96   $                              17.16   $                              17.16   $                              14.87 
+14.24
+$                              
+15.99
+$                              
+ $                              16.06 
+November
+ $                              12.49   $                              12.18   $                              13.07   $                              10.95 
+12.26
+$                              
+12.27
+$                              
+ $                              12.20 
+December
+ $                              10.78   $                              11.66   $                              10.52   $                                9.60 
+11.43
+$                              
+10.66
+$                              
+ $                              10.78 
+Exhibit___(FOH-5) 
+Schedule 5
+Page 1 of 1
+
+
+--- Page 125 ---
+Testimony of Future of Heat Panel 
+  
+ 
+ 
+ 
+ 
+ 
+ 
+ 
+ 
+ 
+Exhibit ___ (FOH-5) 
+ 
+Schedule 6 
+ 
+ 
+ 
+ 
+ 
+ 
+ 
+ 
+ 
+ 
+ 
+ 
+ 
+ 
+ 
+ 
+ 
+ 
+ 
+ 
+ 
+ 
+ 
+ 
+ 
+ 
+ 
+ 
+ 
+ 
+ 
+ 
+ 
+ 
+ 
+ 
+
+
+--- Page 126 ---
+Niagara Mohawk Power Corporation d/b/a National Grid
+Electricity Pricing
+Exhibit___(FOH‐5)
+Schedule 6
+Page 1 of 1
+Value
+Units
+Description
+Source
+Link
+Reasoning
+$/kWh
+Residential Electric 
+Heating Rates
+NYSERDA Analysis of 
+Resi Heat Pump 
+Potential and Economics 
+(2019) Table 6‐5
+https://www.nyserda.ny
+.gov/‐
+/media/Files/Publication
+s/PPSER/NYSERDA/18‐
+44‐HeatPump.pdf 
+NYSERDA is a trusted 
+resource for energy 
+information
+Energy
+Fixed
+$/kWh
+$/mo
+Geography
+Utility
+Rate
+Summer (Jun‐
+Sep) 
+Winter (Oct‐
+May)
+All
+Upstate/Western NY
+National Grid
+SC1
+ $
+0.09   $
+0.09   $
+17.00 
+Upstate/Western NY
+NYSEG
+1 Residential Regular
+ $
+0.14   $
+0.14   $
+15.11 
+Upstate/Western NY
+Rochester Gas and 
+Electric
+SC1 ‐ Residential
+ $
+0.10   $
+0.10   $
+21.38 
+Average
+0.11
+$
+ 
+0.11
+$
+ 
+17.83
+$
+ 
+Exhibit___(FOH-5) 
+Schedule 6
+Page 1 of 1
+
+
+--- Page 127 ---
+Testimony of Future of Heat Panel 
+  
+ 
+ 
+ 
+ 
+ 
+ 
+ 
+ 
+ 
+ 
+Exhibit ___ (FOH-5) 
+ 
+Schedule 7 
+ 
+ 
+ 
+ 
+ 
+ 
+ 
+ 
+ 
+ 
+ 
+ 
+ 
+ 
+ 
+ 
+ 
+ 
+ 
+ 
+ 
+ 
+ 
+ 
+ 
+ 
+ 
+ 
+ 
+ 
+ 
+ 
+ 
+ 
+ 
+
+
+--- Page 128 ---
+Niagara Mohawk Power Corporation d/b/a National Grid
+Oil Pricing
+Exhibit___(FOH‐5)
+Schedule 7
+Page 1 of 1
+Value
+Units
+Description
+Source
+Link
+Reasoning
+Average Home Heating 
+Oil Prices NYC
+NYSERDA
+https://www.nyserda.ny
+.gov/Researchers‐and‐
+Policymakers/Energy‐
+Prices/Home‐Heating‐
+Oil/Average‐Home‐
+Heating‐Oil‐Prices#NYC
+NYSERDA is a trusted 
+source of information
+138,500 BTUs per Gallon
+Heating Oil ‐ Energy 
+Content
+EIA
+https://www.eia.gov/en
+ergyexplained/index.php
+?page=about_energy_un
+its
+EIA is also a trusted 
+source of energy 
+information
+Average Heating Season 
+Oil Price
+$/Gal
+$/MMBtu
+$3.19 
+$23.00 
+Current Year
+Last Year
+Date:
+Price (cents per gallon):
+Price (cents per gallon):
+% Change:
+3/23/2020
+254.3
+298.2
+‐14.7
+3/16/2020
+263.5
+297
+‐11.3
+3/9/2020
+280
+297
+‐5.7
+3/2/2020
+282.3
+296.7
+‐4.9
+2/24/2020
+287.2
+295
+‐2.6
+2/17/2020
+287.2
+295
+‐2.6
+2/10/2020
+287.9
+294.2
+‐2.1
+2/3/2020
+290.6
+294.2
+‐1.2
+1/27/2020
+296.9
+295
+0.6
+1/20/2020
+301.6
+295
+2.2
+1/13/2020
+303.3
+292.3
+3.8
+1/6/2020
+303.9
+289.8
+4.9
+12/30/2019
+299.2
+289.4
+3.4
+12/23/2019
+298.4
+290.2
+2.8
+12/16/2019
+295.4
+298.2
+‐0.9
+12/9/2019
+292.5
+298.2
+‐1.9
+12/2/2019
+292.5
+300.9
+‐2.8
+11/25/2019
+291.2
+306.9
+‐5.1
+11/18/2019
+291.2
+308.5
+‐5.6
+11/11/2019
+291.2
+312.8
+‐6.9
+11/4/2019
+289.6
+312.6
+‐7.4
+10/28/2019
+289.6
+314.2
+‐7.8
+10/21/2019
+289.6
+314.6
+‐7.9
+10/14/2019
+289.6
+313
+‐7.5
+10/7/2019
+290.4
+310.1
+‐6.4
+9/30/2019
+291.8
+306.2
+‐4.7
+9/23/2019
+293
+301.5
+‐2.8
+9/16/2019
+288.1
+301.5
+‐4.4
+9/9/2019
+284.2
+301.2
+‐5.6
+9/2/2019
+285.3
+300.3
+‐5
+8/26/2019
+284.6
+297.7
+‐4.4
+8/12/2019
+285.3
+297.4
+‐4.1
+7/29/2019
+286.9
+296.2
+‐3.1
+7/15/2019
+287.2
+296.6
+‐3.2
+6/24/2019
+288.1
+296.4
+‐2.8
+6/10/2019
+290.7
+298.6
+‐2.6
+5/27/2019
+295.2
+300
+‐1.6
+5/13/2019
+296
+297.6
+‐0.5
+4/29/2019
+297.6
+296.2
+0.5
+4/15/2019
+297.2
+299.6
+‐0.8
+
+
+--- Page 129 ---
+Testimony of Future of Heat Panel 
+  
+ 
+ 
+ 
+ 
+ 
+ 
+ 
+ 
+ 
+Exhibit ___ (FOH-5) 
+ 
+Schedule 8 
+ 
+ 
+ 
+ 
+ 
+ 
+ 
+ 
+ 
+ 
+ 
+ 
+ 
+ 
+ 
+ 
+ 
+ 
+ 
+ 
+ 
+ 
+ 
+ 
+ 
+ 
+ 
+ 
+ 
+ 
+ 
+ 
+ 
+ 
+ 
+ 
+
+
+--- Page 130 ---
+Niagara Mohawk Power Corporation d/b/a National Grid
+Assumptions
+Exhibit___(FOH‐5)
+Schedule 8
+Page 1 of 1
+Value
+Units
+Description
+Source
+Link
+Reasoning
+Carbon Intensity
+                                              0.225   kg/kWh 
+Electricity ‐ NY
+NYISO (reported on Electricity 
+Map)
+https://www.electricitymap.or
+g/?page=map&solar=false&re
+mote=true&wind=false
+NYISO is the energy grid 
+operator for NY so their data is 
+likely to be most accurate
+                                              74.39 
+ kg/dekatherm (DTh) or 
+MMBTU 
+Oil ‐ Home Heating Oil
+NYSERDA Residential Heat 
+Pump Report
+https://www.nyserda.ny.gov/‐
+/media/Files/Publications/PPS
+ER/NYSERDA/18‐44‐
+HeatPump.pdf
+                                              53.07 
+ kg/dekatherm (DTh) or 
+MMBTU 
+Fossil‐based NG
+NYSERDA Residential Heat 
+Pump Report
+https://www.nyserda.ny.gov/‐
+/media/Files/Publications/PPS
+ER/NYSERDA/18‐44‐
+HeatPump.pdf
+Value
+Volume
+Per
+Time
+Description
+Source
+Link
+Reasoning
+Single‐Family Annual Energy 
+Purchase (appliance Efficiency 
+included)
+132 MMBTU
+per
+Year
+Oil ‐ Heating ‐ Residential
+NYSERDA Analysis of Resi Heat 
+Pump Potential and Economics 
+(2019) Table 6‐3
+https://www.nyserda.ny.gov/‐
+/media/Files/Publications/PPS
+ER/NYSERDA/18‐44‐
+HeatPump.pdf
+NYSERDA is a trusted resource 
+for energy information
+115 MMBTU
+per
+Year
+Natural Gas ‐ Heating ‐ 
+Residential
+NYSERDA Analysis of Resi Heat 
+Pump Potential and Economics 
+(2019) Table 6‐3
+https://www.nyserda.ny.gov/‐
+/media/Files/Publications/PPS
+ER/NYSERDA/18‐44‐
+HeatPump.pdf
+NYSERDA is a trusted resource 
+for energy information
+6146 kWh
+per
+Year
+GSHP Elecricity ‐ Heating ‐ 
+Residential
+NYSERDA Analysis of Resi Heat 
+Pump Potential and Economics 
+(2019) Table 6‐2
+https://www.nyserda.ny.gov/‐
+/media/Files/Publications/PPS
+ER/NYSERDA/18‐44‐
+HeatPump.pdf
+NYSERDA is a trusted resource 
+for energy information
+Value
+Description
+Source
+Link
+Reasoning
+6.33% Discount Rate (%) ‐ NMPC
+RY1 WACC for the NMPC Rate 
+Case
+1.59% Inflation
+1.24% Inflation 2007 to 2019
+Bureau of Labor Statistics
+https://data.bls.gov/cgi‐
+bin/cpicalc.pl?cost1=1&year1=
+200701&year2=201901
+Program Year
+Number of tons installed
+Equivalent # of 3‐ton systems
+1
+255
+85
+2
+411
+137
+3
+810
+270
+4
+1131
+377
+Program Details ‐ tons installed per year
+Exhibit___(FOH-5) 
+Schedule 8
+Page 1 of 1
+
+
+--- Page 131 ---
+Testimony of Future of Heat Panel 
+  
+ 
+ 
+ 
+ 
+ 
+ 
+ 
+ 
+ 
+Exhibit ___ (FOH-5) 
+ 
+Schedule 9 
+ 
+ 
+ 
+ 
+ 
+ 
+ 
+ 
+ 
+ 
+ 
+ 
+ 
+ 
+ 
+ 
+ 
+
+
+--- Page 132 ---
+Niagara Mohawk Power Corporation d/b/a National Grid
+EPA ‐ Social Cost of Carbon
+Exhibit___(FOH‐5)
+Schedule 9
+Page 1 of 1
+Year
+5% Average
+3% Average
+2.5% Average
+High Impact (95 
+Pct at 3%)
+3% Average 
+(2019$/ 
+MTCO2e)
+2020
+12.00
+$              
+42.00
+$              
+62.00
+$                  
+123.00
+$                
+52.08
+$               
+2021
+12.00
+$              
+42.00
+$              
+63.00
+$                  
+126.00
+$                
+52.08
+$               
+2022
+13.00
+$              
+43.00
+$              
+64.00
+$                  
+129.00
+$                
+53.32
+$               
+2023
+13.00
+$              
+44.00
+$              
+65.00
+$                  
+132.00
+$                
+54.56
+$               
+2024
+13.00
+$              
+45.00
+$              
+66.00
+$                  
+135.00
+$                
+55.80
+$               
+2025
+14.00
+$              
+46.00
+$              
+68.00
+$                  
+138.00
+$                
+57.04
+$               
+2026
+14.00
+$              
+47.00
+$              
+69.00
+$                  
+141.00
+$                
+58.28
+$               
+2027
+15.00
+$              
+48.00
+$              
+70.00
+$                  
+143.00
+$                
+59.52
+$               
+2028
+15.00
+$              
+49.00
+$              
+71.00
+$                  
+146.00
+$                
+60.76
+$               
+2029
+15.00
+$              
+49.00
+$              
+72.00
+$                  
+149.00
+$                
+60.76
+$               
+2030
+16.00
+$              
+50.00
+$              
+73.00
+$                  
+152.00
+$                
+62.00
+$               
+2031
+16.00
+$              
+51.00
+$              
+74.00
+$                  
+155.00
+$                
+63.24
+$               
+2032
+17.00
+$              
+52.00
+$              
+75.00
+$                  
+158.00
+$                
+64.48
+$               
+2033
+17.00
+$              
+53.00
+$              
+76.00
+$                  
+161.00
+$                
+65.72
+$               
+2034
+18.00
+$              
+54.00
+$              
+77.00
+$                  
+164.00
+$                
+66.96
+$               
+2035
+18.00
+$              
+55.00
+$              
+78.00
+$                  
+168.00
+$                
+68.20
+$               
+2036
+19.00
+$              
+56.00
+$              
+79.00
+$                  
+171.00
+$                
+69.44
+$               
+2037
+19.00
+$              
+57.00
+$              
+81.00
+$                  
+174.00
+$                
+70.68
+$               
+2038
+20.00
+$              
+58.00
+$              
+82.00
+$                  
+177.00
+$                
+71.92
+$               
+2039
+20.00
+$              
+59.00
+$              
+83.00
+$                  
+180.00
+$                
+73.16
+$               
+2040
+21.00
+$              
+60.00
+$              
+84.00
+$                  
+183.00
+$                
+74.40
+$               
+2041
+21.00
+$              
+61.00
+$              
+85.00
+$                  
+186.00
+$                
+75.64
+$               
+2042
+22.00
+$              
+61.00
+$              
+86.00
+$                  
+189.00
+$                
+75.64
+$               
+2043
+22.00
+$              
+62.00
+$              
+87.00
+$                  
+192.00
+$                
+76.88
+$               
+2044
+23.00
+$              
+63.00
+$              
+88.00
+$                  
+194.00
+$                
+78.12
+$               
+Table A1: Annual SC‐CO2 Values: 2010‐2050 (2007$/metric ton CO2)
+https://19january2017snapshot.epa.gov/sites/production/files/2016‐
+12/documents/sc_co2_tsd_august_2016.pdf

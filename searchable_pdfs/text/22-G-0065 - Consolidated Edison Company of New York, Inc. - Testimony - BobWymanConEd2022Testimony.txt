@@ -1,0 +1,2028 @@
+--- Page 1 ---
+BEFORE THE
+NEW YORK STATE
+PUBLIC SERVICE COMMISSION
+Proceeding on Motion of the Commission
+as to the Rates, Charges, Rules and
+Regulations of Consolidated Edison
+Company of New York, Inc. for Electric
+Service.
+)
+)
+)
+)
+)
+Case Number: 19-E-0065
+Proceeding on Motion of the Commission
+as to the Rates, Charges, Rules and
+Regulations of Consolidated Edison
+Company of New York, Inc. for Gas Service.
+)
+)
+)
+)
+Case Number: 19-G-0066
+DIRECT TESTIMONY TESTIMONY OF BOB WYMAN
+May 20, 2022
+
+
+--- Page 2 ---
+Cases 22-E-0064 & 22-G-0065
+Bob Wyman
+Direct Testimony
+Table of Contents
+1
+1
+Introduction
+3
+2
+2
+Purpose of Testimony
+4
+3
+3
+Depreciation
+8
+4
+3.1
+Straight-Line Depreciation
+. . . . . . . . . . . . . . . . . . . . . . . . . . . .
+9
+5
+3.1.1
+Per Unit Costs . . . . . . . . . . . . . . . . . . . . . . . . . . . . . . . .
+13
+6
+3.1.2
+The Coming Death Spiral . . . . . . . . . . . . . . . . . . . . . . . . .
+17
+7
+4
+Equity Ratio
+19
+8
+5
+Return on Equity
+21
+9
+6
+Leak Prone Pipe (LPP) Replacement
+28
+10
+7
+Changes to SC-1 Rate IV
+29
+11
+8
+Home Area Network (HAN) Access to AMI Smart Meters
+31
+12
+9
+Seasonal Rate Differentials
+36
+13
+May 20, 2022
+Page 2
+
+
+--- Page 3 ---
+Cases 22-E-0064 & 22-G-0065
+Bob Wyman
+Direct Testimony
+1
+Introduction
+1
+Q. What is your name?
+2
+A. I am commonly known as Bob Wyman. My formal name is Robert Mark Wyman.
+3
+Q. Mr. Wyman, have you previously testiﬁed before the Commission?
+4
+A. Yes. I presented direct testimony during the previous ConEd rate case and have also
+5
+participated in a number of other rate cases, including those of Central Hudson, Or-
+6
+ange & Rockland, KEDNY/KEDLI, NYSEG/RGE, and Corning Gas. I have also given
+7
+verbal testimony at a variety of PSC public hearings, have helped others prepare tes-
+8
+timony for a variety of PSC proceedings, and am an active party in a variety of PSC
+9
+matters.
+10
+Q. Do you always participate in PSC matters as an individual, representing only your-
+11
+self?
+12
+A. No. In addition to participating in PSC proceedings as an individual, I have, from
+13
+time to time, assisted others in preparing for these proceedings or have spoken for
+14
+them. For instance, I have several times assisted NY-GEO1 in developing testimony
+15
+and/or evidence. I also represented NY-GEO as a participant in ConEd’s “Peak Gas
+16
+Collaborative” which had been established as a result of a prior ConEd rate case (16-
+17
+G-0061).2.
+18
+Q. What is your background?
+19
+A. I am a New York City-based advocate for renewable energy and Beneﬁcial Electriﬁ-
+20
+cation with a focus on clean, sustainable, and efﬁcient geothermal heat pumps. I am
+21
+a member of the New York Geothermal Energy Organization, (NY-GEO)3 and the In-
+22
+1https://ny-geo.org/
+216-G-0061, Proceeding on Motion of the Commission as to the Rates, Charges, Rules and Regulations
+of Consolidated Edison Company of New York, Inc. for Gas Service.
+3https://ny-geo.org/
+May 20, 2022
+Page 3
+
+
+--- Page 4 ---
+Cases 22-E-0064 & 22-G-0065
+Bob Wyman
+Direct Testimony
+ternational Ground Source Heat Pump Association (IGSHPA)4. I am a co-founder and
+1
+shareholder, but not an employee, of Dandelion Energy5, the Google X6 spin-off com-
+2
+pany that currently installs geothermal heat pump systems in New York and several
+3
+surrounding states.
+4
+Although most of my career was spent in the computer software business, during
+5
+which I worked for a variety of companies, including Digital Equipment Corporation,
+6
+Microsoft, Google, Medio Multimedia, and Pubsub Concepts,7 I have been advocat-
+7
+ing on energy related issues for almost 50 years, having ﬁrst given public testimony
+8
+in hearings concerning Pres. Nixon’s "Project Independence"8 in 1973.
+9
+2
+Purpose of Testimony
+10
+Q. What is your purpose in submitting this testimony?
+11
+A. I wish to comment on several aspects of the proposals made by Consolidated Edison
+12
+of New York, Inc. ("The Company") in the current cases and to advocate for several
+13
+modiﬁcations or additions to those proposals. My testimony is intended to ensure a
+14
+more complete record of the relevant issues and to advocate for policies that will be
+15
+more fair, more in the public interest, and more likely than those proposed by the
+16
+Company to conform to existing State policy goals.
+17
+The issues that I wish to discuss include the Company’s proposals concerning
+18
+• Cost recovery:
+19
+– Depreciation
+20
+4https://igshpa.org/
+5https://dandelionenergy.com/
+6https://x.company/
+7See my LinkedIn proﬁle for more detail: https://www.linkedin.com/in/bobwyman/
+8https://en.wikipedia.org/wiki/Project_Independence
+May 20, 2022
+Page 4
+
+
+--- Page 5 ---
+Cases 22-E-0064 & 22-G-0065
+Bob Wyman
+Direct Testimony
+– Equity Ratio (i.e. leverage)
+1
+– Return on Equity (ROE)
+2
+• Leak Prone Pipe Replacement
+3
+• SC-1 Rate IV
+4
+• Home Area Network (HAN) access to AMI Smart Meters
+5
+• Seasonal Rate Differentials
+6
+In a prior time, the Company’s proposals might have been accepted as reasonable, or
+7
+only somewhat excessive. But, we do not live in the past – when the Company could
+8
+reasonably assume that demand for its gas service would grow in every future year.
+9
+The focus of a rate case should be on current and future conditions and requirements,
+10
+including those of our State’s CLCPA and other laws or policies, as well as New York
+11
+City’s Local Laws and recently passed ban on new gas hookups in most buildings.
+12
+These requirements of public authorities ensure that gas consumption in the homes
+13
+and buildings served by the Company will decline dramatically and that it may even
+14
+be eliminated entirely within the lives of at least some of us.
+15
+Given the certain prospect of decades of decline in gas demand, accompanied by in-
+16
+creases in the demand for electricity, the Company should have presented a rate pro-
+17
+posal that directly and adequately addressed the problem of funding its operations
+18
+and the recovery of its costs during a time when gas demand will be declining. The
+19
+Company did not do so. Given the Company’s failure to adequately address current
+20
+and certain future conditions in its proposal, the Commission should either direct
+21
+the Company to submit a revised and more responsive proposal or it should modify
+22
+the Company’s proposal to better ﬁt the realities of the world we live in.
+23
+Q. Please summarize your concerns with the Company’s proposal.
+24
+May 20, 2022
+Page 5
+
+
+--- Page 6 ---
+Cases 22-E-0064 & 22-G-0065
+Bob Wyman
+Direct Testimony
+A. I am concerned with, at least, the following components of the Company’s proposal:
+1
+• The Company’s proposals for the recovery of the gas rate base cannot be sup-
+2
+ported:
+3
+– The Company proposes the continued use of “Straight-Line” depreciation
+4
+for gas assets even though that method of depreciation is intended for use
+5
+only when demand is either constant or growing. The continued use of
+6
+Straight-Line depreciation, during a period of demand decline, must in-
+7
+evitably lead to a requirement to dramatically increase gas delivery rates
+8
+in the future – imposing signiﬁcant burdens on future ratepayers, many of
+9
+whom will be Low and Moderate Income (LMI) consumers.
+10
+– The Company proposes expected average service lives (ASL), over which
+11
+costs are to be recovered, that are excessive given the current requirements
+12
+of public authorities. When the CLCPA requires an 85% reduction in CO2e
+13
+emissions (relative to 1990) before 2050, only 28 years from now, the Com-
+14
+pany proposes ASLs far in excess of 28 years. Such unrealistic ASLs en-
+15
+sure the accumulation of stranded assets and signiﬁcant burdens for future
+16
+ratepayers.
+17
+• At a time when it is essential to lower the weighted average cost of capital
+18
+(WACC), and thus allow the more rapid managed decapitalization of the Com-
+19
+pany’s gas assets without excessively burdening ratepayers, the Company has
+20
+proposed actions which will, in fact, increase the WACC. They propose:
+21
+– Increasing the gas Equity-Ratio to 50% and thus increasing the portion of
+22
+the rate base which is ﬁnanced using the relatively expensive shareholder
+23
+capital. Given the circumstances, and accepting that all parties should ac-
+24
+cept some sacriﬁce in addressing the current conditions, it would be more
+25
+appropriate to lower WACC by relying more on relatively cheaper debt.
+26
+May 20, 2022
+Page 6
+
+
+--- Page 7 ---
+Cases 22-E-0064 & 22-G-0065
+Bob Wyman
+Direct Testimony
+– Increasing the Return-On-Equity (ROE) for gas investments. This will also
+1
+increase WACC and make more rapid decapitalization of gas assets even
+2
+more difﬁcult.
+3
+• The new, optional SC-1 Rate IV, introduced in the last rate case has been proven
+4
+to provide a small number of residential users with signiﬁcant bill reductions
+5
+and more equitable rates. However, the adoption of that rate is severely limited
+6
+since demand-based rates are unfamiliar to more residential customers. In or-
+7
+der to ensure further adoption of this rate, the rate should be modiﬁed to allow
+8
+those selecting it an option to switch back to a previously used rate if, in fact, the
+9
+use of SC-1 Rate IV results in increases to their electric bills.
+10
+• The Company proposes to continue the practice of aggressively replacing Leak
+11
+Prone Pipe (LPP), even when there is no evidence that such pipe is actually
+12
+leaking to an extent that compromises the safety and reliability of their gas ser-
+13
+vice. While this program might have been appropriate in the past, it ensures the
+14
+continued growth of the Company’s ratebase and thus further complicates the
+15
+problem of reducing the ratebase as demand falls.
+16
+• The Company has long been required by the Commission to provide those cus-
+17
+tomers served by AMI “Smart Meters” with Home Area Network (HAN) access to
+18
+realtime data provided by those meters. However, such access has not yet been
+19
+provided. The Company should be required to either begin providing such ac-
+20
+cess or present a plan demonstrating how such access will be provided in the
+21
+near future.
+22
+• Until recently, the Company has failed to update the Seasonal Rate Differen-
+23
+tials used in various electric rates to reﬂect actual conditions. Given that it is
+24
+reasonable to assume that seasonal demand patterns will change continuously
+25
+over the next few decades as the adoption of Beneﬁcial Electriﬁcation grows, the
+26
+May 20, 2022
+Page 7
+
+
+--- Page 8 ---
+Cases 22-E-0064 & 22-G-0065
+Bob Wyman
+Direct Testimony
+Company should be required to regularly update its Seasonal Rate Differentials,
+1
+and rates with rely on them.
+2
+• Given the compelling need to avoid any but legally required expansions of gas
+3
+service in the future, the Company should commit to avoid any activities or pro-
+4
+grams whose effect is to encourage either the increased or continued use of gas.
+5
+They should expend no ratepayer money on marketing gas, stating that its use
+6
+is beneﬁcial, or providing incentives for its continued or prospective use.
+7
+3
+Depreciation
+8
+Q. Please summarize what is meant by “Depreciation.”
+9
+A. Utilities don’t immediately recover from ratepayers the cost of installing new infras-
+10
+tructure. Rather, to reduce the volatility of rates and to ensure a more equitable distri-
+11
+bution of costs, cost recovery is spread over time using a process known as Deprecia-
+12
+tion. The goal of depreciation is to assign to each, typically annual, accounting period
+13
+during which an asset is in use, a dollar amount that reasonably reﬂects the reduction
+14
+in worth or value of the asset that occurred during that period. Costs are not recov-
+15
+ered when they are incurred, but rather over time and in proportion to the expected
+16
+use or consumption of the asset.
+17
+A variety of depreciation methods may be used, including:
+18
+• Straight-Line (SL)
+19
+• Unit of Production (UoP)
+20
+• Sum of Years Digits (SYD) (A special case of UoP)
+21
+Q. What depreciation method has the Company used in the past and proposes for use
+22
+in the future?
+23
+May 20, 2022
+Page 8
+
+
+--- Page 9 ---
+Cases 22-E-0064 & 22-G-0065
+Bob Wyman
+Direct Testimony
+A. ConEd and other utilities have traditionally used Straight-Line Depreciation, which
+1
+allocates capital costs equally to each accounting period during an assets’ expected
+2
+depreciable life (typically the average expected service life or the time until 50% of
+3
+the asset has been retired from service.). But, as many accounting texts are careful
+4
+to point out, straight-line depreciation is only appropriately used with assets whose
+5
+use will either be constant over time or growing. While this method has served utili-
+6
+ties well in the past, today we reasonably expect that consumer demand for gas util-
+7
+ity service will decline in the future and will eventually be substantially, if not com-
+8
+pletely, eliminated. This expected decline in use, when combined with a depreciation
+9
+method best used when demand is not falling, creates a great risk of dramatically
+10
+negative impacts on consumers including dramatic increases in the per-unit cost of
+11
+delivered gas whether or not the wholesale cost of the gas commodity increases. The
+12
+simple arithmetic reality is that if the number of delivered units are reduced, while
+13
+the cost of the assets required to deliver those units remains constant, the per-unit
+14
+cost of delivery (i.e.
+Delivery Cost
+Units Delivered) must increase dramatically.
+15
+The growing inadequacy of the straight-line method requires that we ﬁrst do our best
+16
+to understand that methods’ impacts and that we then also explore alternatives that
+17
+might ensure a more Fair, Reasonable and Non-Discriminatory (FRAND) allocation
+18
+of gas infrastructure costs.
+19
+3.1
+Straight-Line Depreciation
+20
+Q. Please explain how Straight-Line Deprecation works.
+21
+A. Using traditional utility straight-line depreciation, or cost-recovery, if assets of some
+22
+type are expected to have an Average Service Life (ASL) of 55 years, then 1
+55 = 1.82% of
+23
+the assets’ initial cost will be scheduled for recovery from ratepayers during each of
+24
+May 20, 2022
+Page 9
+
+
+--- Page 10 ---
+Cases 22-E-0064 & 22-G-0065
+Bob Wyman
+Direct Testimony
+the 55 years following the assets’ installation or acquisition. Thus, an asset’s full cost
+1
+will have been recovered from ratepayers once 50% of that asset has been removed
+2
+from service.
+3
+Different classes of assets (e.g. pipes, meters, real estate, vehicles) will typically have
+4
+different expected average service lives. When rates are set in a rate case, both an asset
+5
+class’ expected average service life and its remaining unrecovered value will used to
+6
+determine the Depreciation Expense that must be recovered from rate payers during
+7
+each accounting period or Rate Year. The sum of all depreciation expense for the rate
+8
+year is then added to that rate year’s Revenue Requirement, which is the sum of all
+9
+expenses that must be recovered from ratepayers during the rate year. The Revenue
+10
+Requirement will also include the cost of ﬁnancing, at the utility’s Weighted Average
+11
+Cost of Capital (WACC) and an allocation of the assets’ expected removal costs – the
+12
+costs that will be incurred when the assets are eventually taken out of service. (Most
+13
+utility assets have little or no salvage value.) Just as the expected service lives differ
+14
+between asset classes, so will the expected removal costs. It costs less to remove a
+15
+meter than it does to remove a main.
+16
+Removal costs are typically calculated as a percentage of the initial cost of installing
+17
+an asset and, if only because of inﬂation, those costs tend to rise over time. Removal
+18
+costs are often more than 50% of the nominal cost of initially installing an asset. In
+19
+some cases, removal costs actually exceed the initial cost of installation. Table 1 pro-
+20
+vides a small selection of average service lives and removal costs proposed by ConEd
+21
+for use in their 2022 rate case (DMM Case 22-G-0065).
+22
+Figure 1 illustrates the combined depreciation expense, removal costs, and ﬁnance
+23
+costs over the life of an asset expected to have an average service life of 55 years,
+24
+ﬁnanced at 7% WACC, and with an estimated removal cost equal to 70% of the as-
+25
+May 20, 2022
+Page 10
+
+
+--- Page 11 ---
+Cases 22-E-0064 & 22-G-0065
+Bob Wyman
+Direct Testimony
+Account
+Description
+ASL
+Removal
+376.12
+Mains
+75
+90%
+380.10
+Services
+55
+70%
+381.00
+Meters
+30
+10%
+383.00
+House Regulators
+40
+10%
+Table 1: Selected Average Service Life (ASL) and Removal Cost proposed for ConEd Gas
+Assets
+Figure 1: Total annual expense as percent of initial cost when using Straight-Line de-
+preciation
+set’s initial cost. (i.e. similar to assets in Account 380.10 – Services.) Assuming that
+1
+Straight-Line depreciation is used, the annual depreciation expense in each year is
+2
+ﬁxed. Although removal costs are also shown as ﬁxed, it should be understood that
+3
+removal costs will vary from year to year and will tend to grow greater over time due
+4
+to the impact of inﬂation. However, this complexity is omitted in order to simplify the
+5
+discussion.
+6
+Figure 1 also clearly illustrates that Straight-Line cost-recovery for utility assets is dis-
+7
+tinctly different from that used for mortgages, consumer loans, and other common
+8
+May 20, 2022
+Page 11
+
+
+--- Page 12 ---
+Cases 22-E-0064 & 22-G-0065
+Bob Wyman
+Direct Testimony
+loans which usually vary principal payments over the life of the loan in order to en-
+1
+sure a ﬁxed payment per accounting period. Such traditional ﬁnancing mechanisms
+2
+typically require very small principal payments, analogous to depreciation expense,
+3
+early in the loan’s life when the interest payments are highest. At the end of a loan’s
+4
+life, after the interest payments have declined, the principal payment will dominate
+5
+the annual cost recovery.
+6
+The fact that total payments decline over the life of an asset under straight-line de-
+7
+preciation challenges the intuitive claim that allocating depreciation expense equally
+8
+across accounting periods results in an equitable recovery of costs. If we look only at
+9
+the ﬁxed depreciation expense, it may seem equitable, but if we include, as we should,
+10
+the cost of ﬁnancing as-yet-uncovered assets, it is clear that Straight-Line deprecia-
+11
+tion leads to “front-end loaded” cost recovery. Earlier ratepayers, as a class, pay much
+12
+more for installed assets than do later ratepayers. Depreciation expense may be allo-
+13
+cated equally to all accounting periods, but the total cost of owning the asset is not
+14
+equally allocated. This is particularly true if we consider that costs are typically recov-
+15
+ered over the average expected life of an asset, not the full expected life. Thus, once an
+16
+asset’s costs have been fully recovered over its average expected life, we should expect
+17
+that about 50% of that asset’s useful life will remain.
+18
+While Straight-Line depreciation may appear to inequitably frontend load total costs
+19
+of speciﬁc assets, the reduction of each future accounting period’s total cost alloca-
+20
+tion for previously existing investments allows some additional investments to be
+21
+made without increasing rates. (i.e. If the sum of a new investment’s capital, ﬁnance,
+22
+and removal costs is less than or equal to the real costs of retiring investments, rates
+23
+can remain stable.) This aspect of Straight-Line depreciation has been very impor-
+24
+tant in the past since most utilities have experienced either a constant or growing de-
+25
+May 20, 2022
+Page 12
+
+
+--- Page 13 ---
+Cases 22-E-0064 & 22-G-0065
+Bob Wyman
+Direct Testimony
+mand for their service and have thus been able to justify continued investment in as-
+1
+sets. They have needed to at least replace retired assets in order to maintain safe and
+2
+reliable service. Because of these new investments, whose costs are at least initially
+3
+dominated by ﬁnance costs, rates don’t decline as older assets’ costs are recovered.
+4
+However, if usage is declining, and one must assume that gas utility usage will decline,
+5
+one can anticipate that the need to invest in new gas infrastructure will also decline.
+6
+Gas utilities should have less need to expand or replace their assets in the future.
+7
+Unfortunately, a reduction in the rate of investment won’t relieve the burden borne by
+8
+future ratepayers. If gas use declines, an equal allocation of costs across accounting
+9
+periods means that those equal costs will be recovered from the sale of fewer units
+10
+of delivered gas. That will force the per-unit cost of gas to rise even if the total costs
+11
+allocated to each period either don’t rise or even if they decline, but decline at a rate
+12
+slower than the decline in usage.
+13
+3.1.1
+Per Unit Costs
+14
+Q. If Straight-Line depreciation results in falling total costs each year and thus allows
+15
+additional investment, what’s the problem?
+16
+A. If demand for gas service was constant or growing, Straight-Line depreciation would
+17
+not, in fact, cause a problem. It’s use would be appropriate, as we have learned over
+18
+the many previous years of the Company’s gas service. However, when demand in not
+19
+constant or growing, when it is declining, the continued use of Straight-Line depre-
+20
+ciation causes the per-unit costs of gas delivery to increase dramatically over time to
+21
+unacceptably high levels.
+22
+This issue is not that there is anything fundamentally wrong with Straight-Line depre-
+23
+ciation. The issue is that Straight-Line depreciation is only appropriately used when
+24
+May 20, 2022
+Page 13
+
+
+--- Page 14 ---
+Cases 22-E-0064 & 22-G-0065
+Bob Wyman
+Direct Testimony
+demand is constant or growing, not when it is declining – as it must decline in the
+1
+future.
+2
+Q. Please explain the impact on per-unit costs of using Straight-Line depreciation when
+3
+demand is declining.
+4
+A. Gas delivery rates are typically “volumetric,” thus gas bills are dependent on the vol-
+5
+ume or number of units of gas delivered to the ratepayer. The per-unit rates that ap-
+6
+pear on ratepayers’ monthly bills (e.g. $/kWh or $/therm) are simply calculated by
+7
+dividing the revenue requirement by the expected volume of deliveries to all ratepay-
+8
+ers during the rate year. Because of this, during rate cases, most of the focus is on
+9
+determining the revenue requirement and the expected volume of deliveries. The ac-
+10
+tual rates levied are then the result of a simple calculation which is performed once
+11
+the rate determinants have been agreed upon. For any given revenue requirement,
+12
+the greater the expected deliveries, the lower the per-unit delivery rate will be, and,
+13
+the lower the expected deliveries, the higher the per-unit rates will be.
+14
+Given a ﬁxed cost of delivery, the relationship between a per-unit cost recovery and
+15
+either increased or decreased unit deliveries is illustrated in Figure 2. As shown, if
+16
+deliveries decline by 50%, then the per-unit cost recovery must be doubled. However,
+17
+if deliveries double (i.e. a 100% change or ∆), then per-unit cost recovery will decrease
+18
+by 50%. Rate increases due to demand decline are essentially unlimited while rate
+19
+decreases due to increased demand are capped at a maximum of 100%. Rates can
+20
+rise much higher than they can fall.
+21
+Just as Straight-Line depreciation can sometimes work to reduce the rate impact of an
+22
+investment over time, increases in customer demand reduce assets’ impact on rates.
+23
+However, while signiﬁcant increases in assets’ utilization have always been common
+24
+May 20, 2022
+Page 14
+
+
+--- Page 15 ---
+Cases 22-E-0064 & 22-G-0065
+Bob Wyman
+Direct Testimony
+−100%
+−50%
+0%
+50%
+100%
+0%
+200%
+400%
+600%
+800%
+1,000%
+∆Annual Unit Deliveries
+∆Per Unit Cost Recovery
+Figure 2: Response of Per Unit Cost Recovery to a change in annual unit deliveries
+when using Straight-Line Depreciation and volumetric rates.
+for both electric and gas utilities, and while such increases will certainly continue
+1
+to be common for electric utilities, we should expect that the usage of gas assets
+2
+will decline as customers switch to more sustainable, Non-Pipe Alternatives (NPAs)
+3
+such as heat pumps. Unfortunately, reduced utilization has a much greater impact
+4
+on rates than increased utilization. Thus, as gas use declines, we can reasonably ex-
+5
+pect dramatic increases in gas assets’ rate impact. In fact, if gas use in New York State
+6
+is reduced by 85% before 2050, in order to achieve the State’s goal of reducing CO2e
+7
+emissions by 85%, we should expect to see long-lived gas assets’ nominal rate impact
+8
+increase to almost seven times their current level (i.e.
+1
+1−0.85 =
+1
+0.15 = 6.67).
+9
+A more concrete visualization of the impact of declining demand with largely ﬁxed
+10
+costs can be seen in Figure 3 which uses the same data as in Figure 1 above, but as-
+11
+sumes that demand is declining. (For Figure 1, the assumption was that demand was
+12
+constant over the service life.) To simplify the discussion, I have assumed that the
+13
+fall in demand will be “straight-line” or equally distributed across all periods, just as
+14
+May 20, 2022
+Page 15
+
+
+--- Page 16 ---
+Cases 22-E-0064 & 22-G-0065
+Bob Wyman
+Direct Testimony
+Figure 3: Cost Per Unit over time using Straight-Line Depreciation with SoYD demand
+decline.
+straight-line depreciation distributes capital costs equally between all periods. Such
+1
+a decline in demand is that which would be the result of a Sum of Years Digits calcu-
+2
+lation.9
+3
+In Figure 3, because the unrecovered capital cost and the demand are falling at the
+4
+same rate, the interest per-unit is constant over the full service life. However, the total
+5
+cost per unit, as a percentage of the total cost in the ﬁrst year, grows increasingly, to
+6
+dramatic heights, due to the fact that the depreciation has been allocated equally to
+7
+each year even though demand is falling. Given the formula Depreciation Expense
+Demand
+, if the
+8
+numerator, Depreciation Expense, is constant, but the denominator, Demand, falls,
+9
+then the resulting value must increase. As shown in Figure 2, after half the service life
+10
+(i.e. 55
+2 = 27.5 years) the Depreciation Expense per unit will have doubled, relative to
+11
+its level in the ﬁrst year, and, as each year passes, the rate of increase in Total cost per
+12
+unit will increase. Thus, the impact of straight-line depreciation is relatively mild in
+13
+9Using SoYD, for any year of an asset’s full Service Life, the demand decline during that year, as a per-
+centage of the full Service Life, is deﬁned as: (Service Life−Year+1)∗100
+Service Life∗Service Life+1
+2
+.
+May 20, 2022
+Page 16
+
+
+--- Page 17 ---
+Cases 22-E-0064 & 22-G-0065
+Bob Wyman
+Direct Testimony
+the early years, but it becomes dramatically higher in the later years.
+1
+A signiﬁcant difference between Figure 1 and Figure 3 is that the cost per unit in-
+2
+creases over time even though the total expense falls. This implies that any addi-
+3
+tional investment in capital assets will result in increased rates and thus increased
+4
+burden on ratepayers. When demand is either constant or growing, the gradual re-
+5
+duction of the ratebase will always afford the opportunity to make at least some new
+6
+investments without raising rates. Unfortunately, this is not the case when demand is
+7
+falling.
+8
+3.1.2
+The Coming Death Spiral
+9
+Q. What will be the impact of increased future per-unit costs as demand declines?
+10
+A. The dynamics described above are the deﬁnition of the often invoked idea of a Utility
+11
+Death Spiral. The key factor limiting the rate at which gas customers abandon gas
+12
+service and adopt alternatives, such as heat pumps, is the high relative cost of paying
+13
+for the conversion. However, while the conversion cost may be perceived as relatively
+14
+high today, if there is any reduction in demand, with its attendant increases in gas
+15
+rates, the result will a reduction in gas’ cost advantage. As per-unit rates rise, more and
+16
+more customers will decide to abandon gas. Their abandonment will cause further
+17
+rate increases which will then motivate even more customers to abandon gas. This
+18
+positive feedback creates the feared Death Spiral – an ever-accelerating rate of service
+19
+abandonment.
+20
+Of course, customers’ differing ﬁnancial circumstances will make them more or less
+21
+sensitive to increases in the per unit cost of gas delivery. Customers who are fortunate
+22
+enough to have either the wealth or access to capital required to fund the up-front
+23
+costs of converting to heat pumps will be the ﬁrst to abandon their gas service since
+24
+May 20, 2022
+Page 17
+
+
+--- Page 18 ---
+Cases 22-E-0064 & 22-G-0065
+Bob Wyman
+Direct Testimony
+they will be the ﬁrst who can afford the cheaper, more sustainable alternatives to
+1
+legacy gas service. But, less fortunate customers, with lesser ﬁnancial capacity, will
+2
+tend to tolerate even signiﬁcant increases in per-unit costs before they ﬁnally ﬁnd the
+3
+cost of maintaining gas service to be unacceptable. Thus, we’re likely to see that Low
+4
+and Moderate Income (LMI) customers will be the last to abandon gas service. Over
+5
+time, as the wealthier customers leave behind the LMI customers, gas will become
+6
+increasingly viewed as a “poor man’s fuel.” LMI customers, who can least afford to
+7
+pay high per unit rates, and who would beneﬁt most from the then cheaper and more
+8
+sustainable alternatives to gas, will be the ones who will bear the full burden of paying
+9
+for assets abandoned earlier by the wealthier ex-customers.
+10
+Q. What should be done to address these issues?
+11
+A. Given that the impact of continued use of Straight-Line depreciation during a period
+12
+of demand decline is so clear, it is essential that the Company adopt a plan which
+13
+limits the systemic economic discrimination and inequity that will be created by an
+14
+otherwise obscure technical decision to continue the use of Straight-Line Deprecia-
+15
+tion in the face of certain demand decline.
+16
+The Company should consider alternative depreciation methods, such as Unit of Pro-
+17
+duction (UoP), which are intended for use in cases where demand is declining. Ad-
+18
+ditionally, the Company should pursue a course that lowers the weighted average
+19
+cost of capital and limit, to the greatest degree possible, programs, such as LPP re-
+20
+placment, which increase the gas ratebase, or speculative research programs, such as
+21
+RNG or Hydrogen development, that increase near-term ratepayers’ costs without a
+22
+certainty of providing long-term beneﬁt.
+23
+May 20, 2022
+Page 18
+
+
+--- Page 19 ---
+Cases 22-E-0064 & 22-G-0065
+Bob Wyman
+Direct Testimony
+4
+Equity Ratio
+1
+Q. Please explain what is meant by Equity-Ratio and why it matters.
+2
+A. In New York, it is common for utilities’ capital structure to be split roughly equally
+3
+between debt and shareholder equity, with some small amount of capital provided
+4
+by customer deposits. The Equity-Ratio is a metric that shows what portion of the
+5
+ratebase has been funded by equity, rather than other sources.
+6
+The allowed equity ratio (
+Equity
+Total Capital) is reviewed and set during each rate case. Given
+7
+a 50% equity ratio, or a equity-to-debt ratio ( Debt
+Equity) of 1.0x, one half of the utility’s
+8
+capital will consist of loans and other obligations to external capital sources such as
+9
+banks, bond holders, etc., while the remaining half of its capital is funded by share-
+10
+holder equity.
+11
+Because debt is much cheaper than equity, the Equity Ratio is a key determinant of
+12
+the WACC. The lower the equity-ratio, and thus the smaller the share of capital pro-
+13
+vided by shareholders, the lower is the WACC. Thus, ratepayers would normally prefer
+14
+that the equity-ratio be as low as possible since that would reduce WACC, and thus,
+15
+their rates. On the other hand, the equity-ratio determines how much of the utility’s
+16
+capital structure is able to generate the relatively expensive shareholder returns. As
+17
+a result, utilities often seek to increase the allowed equity-ratio. The need to manage
+18
+this conﬂict between the interests of ratepayers and shareholders is why setting the
+19
+equity-ratio is an important, and often hotly contested, part of every rate case.
+20
+The WACC assumed in Figure 1 is 7%. That WACC is based on an assumption that
+21
+debt capital will be available at an annual cost of about 4% while equity capital
+22
+will be much more expensive, costing ratepayers 10% per year, as per the Com-
+23
+pany’s proposal, or 2.5 times more than debt. Given these assumptions, and as-
+24
+May 20, 2022
+Page 19
+
+
+--- Page 20 ---
+Cases 22-E-0064 & 22-G-0065
+Bob Wyman
+Direct Testimony
+suming an equity ratio of 50%, the weighted average cost of capital is calculated as
+1
+WACC = (4%∗50%)+(10%∗50%) = 2%+5% = 7%. Anything which works to lower the
+2
+return requirements of either debt of equity, or that would reduce the Equity Ratio,
+3
+will result in a lower WACC and thus lower rates.
+4
+Q. How is the Equity-Ratio set?
+5
+A. The equity-ratio is set or adjusted in each rate case, often as a result of negotiations
+6
+leading to a settlement agreement.
+7
+There is no rule of ﬁnance that requires that the equity ratio be set at 50%. It is simply
+8
+a matter of tradition and precedent; the cumulative result of many negotiated settle-
+9
+ments. One can argue that lowering the equity ratio excessively would expose equity
+10
+investors to greater risks, since debt has a superior claim on revenues, however, one
+11
+can reasonably argue about the correct level for the equity ratio. Certainly, 50% is
+12
+higher than “too low.”
+13
+While utilities have often argued for increasing the equity ratio, it is quite likely that
+14
+shareholders will soon see value in its reduction. They will want to reduce the eq-
+15
+uity ratio in order to reduce their own exposure to the growth of gas utility stranded
+16
+assets and, by supplanting their current investments in legacy gas infrastructure, to
+17
+enable them to shift their capital to more long-term, sustainable investments such as
+18
+GeoGrids which provide thermal service rather than gas service. Given that reducing
+19
+the equity ratio serves the interests of both shareholders and ratepayers, this option
+20
+should be aggressively pursued.
+21
+In any case, it must be recognized that the higher the equity ratio, the higher the bur-
+22
+den on ratepayers. Thus, the rate making process should seek to reduce the equity
+23
+ratio to the lowest level which allows the proper operation of the utility’s services.
+24
+May 20, 2022
+Page 20
+
+
+--- Page 21 ---
+Cases 22-E-0064 & 22-G-0065
+Bob Wyman
+Direct Testimony
+If additional, cheaper debt capital is available, then it should be used to reduce the
+1
+burden of expensive equity. The utility exists ﬁrst to provide safe, reliable, fair, and
+2
+reasonably priced service to ratepayers – it is only secondarily a source of proﬁts for
+3
+shareholders and it only earns its numerous risk-limiting protections from compe-
+4
+tition, its preferred access to municipal property, and other beneﬁts when it fulﬁlls
+5
+its obligation to efﬁciently and effectively provide services which are in the public
+6
+interest. That is the “Regulatory Compact.”
+7
+Q. What can, or should, be done to reduce the Equity-Ratio?
+8
+A. The Company’s request to increase the Equity-Ratio should be denied and the
+9
+Equity-Ratio should be reduced with a target of reaching a 30% ratio before the com-
+10
+mencement of next rate case or within three years. In order to ensure that the Com-
+11
+pany is motivated to take the actions necessary to increase leverage, a negative per-
+12
+formance based Earning Adjustment Mechanism should be negotiated during set-
+13
+tlement that sets waypoint targets for each rate year, penalities for failure to achieve
+14
+those targets, and rewards if the targets are exceeded. If no settlement agreement is
+15
+made, then the Commission should deﬁne an appproriate EAM.
+16
+It is recognized that in order to attract additional non-equity capital, actions may
+17
+need to be taken to reduce the apparent risk of the Company’s debt. These could
+18
+include an acceleration of depreciation which would increase positive cash ﬂow while
+19
+also reducing the long-term risk of standed asset accumulation.
+20
+5
+Return on Equity
+21
+Q. How is return on equity set?
+22
+A. In every rate case, the return that the utility will be allowed to earn on its investments
+23
+May 20, 2022
+Page 21
+
+
+--- Page 22 ---
+Cases 22-E-0064 & 22-G-0065
+Bob Wyman
+Direct Testimony
+in assets is hotly and long debated. Utilities don’t make money by marking up the cost
+1
+of the commodity (electricity or gas) that they deliver and they don’t make any money
+2
+by marking up their operational expenses. The source of almost all their proﬁts is the
+3
+return on the equity (ROE) that they have invested in assets. During rate cases, the
+4
+maximum ROE that the utility will be allowed to earn in future years is determined.
+5
+That maximum ROE is just that, a maximum, it is not a guaranteed return. Actual
+6
+returns may exceed the ROE limit, in which case the excess earnings might either
+7
+be returned to or shared with ratepayers. If the actual ROE is below the maximum
+8
+allowed, ratepayers are in no way obligated to “true up” the shareholder’s returns.
+9
+Q. Are utilities’ and ratepayers’ interests in ROE aligned?
+10
+A. Given that proﬁts come only from ROE, it is very much in the utilities’ interest to re-
+11
+ceive the highest ROE allowance that their regulators will permit. It is also in the utili-
+12
+ties’ interest to increase, as much as possible, the value of assets whose costs have not
+13
+been recovered. As a result, utilities normally press hard for a higher ROE, for greater
+14
+investments in assets, and for longer asset service lives and thus slower depreciation.
+15
+If they are successful, their return, their proﬁts, and their stock price will all increase.
+16
+A utility’s ﬁnancial incentives do not necessarily align with the interests of ratepayers.
+17
+Q. What impact does ROE have on WACC?
+18
+A. The higher is the utility’s allowed ROE, and the greater the equity premium over debt’s
+19
+return, the higher will be the weighted average cost of capital. So, lowering the al-
+20
+lowed ROE will lower the WACC and reduce the difference between the cost of debt
+21
+and the cost of equity ﬁnance. As shown in Figure 4, anything done to reduce the
+22
+WACC will reduce ratepayers’ costs.
+23
+Lowering the allowed ROE seems simple enough. Assuming that the equity ratio re-
+24
+May 20, 2022
+Page 22
+
+
+--- Page 23 ---
+Cases 22-E-0064 & 22-G-0065
+Bob Wyman
+Direct Testimony
+Figure 4: WACC Impact on Annual and Total Cost
+mains unchanged at 50%, the Public Service Commission (PSC) can reduce the WACC
+1
+by 1% for every 2% reduction in the ROE by, for instance, reducing the ROE from the
+2
+proposed 10% to 8%. Lowering both the ROE and the Equity-Ratio would provide
+3
+even more beneﬁt and, by reducing the rate impact of the necessary more rapid de-
+4
+preciation of assets, would reduce the long-term risk or severity of a Death Spiral.
+5
+However, it is reasonable to expect that such an action would be vigorously opposed
+6
+by the Company.
+7
+Q. Does the utility have some legal right to a high ROE?
+8
+A. Even though reducing the ROE might greatly reduce ratepayers’ burdens, utilities of-
+9
+ten point out that the US Supreme Court, in its Blueﬁeld10 decision, set a standard
+10
+that constrains regulators’ ability to limit ROE. The Court wrote:
+11
+A public utility is entitled to such rates as will permit it to earn a return
+12
+on the value of property which it employs for the convenience of the pub-
+13
+lic equal to that generally being made at the same time and in the same
+14
+10See: Blueﬁeld Water Works Co. v. Public Service Commission., 262 U.S. 679 (1923). See also: Federal
+Power Commission. v. Hope Natural Gas Co., 320 U.S. 591 (1944).
+May 20, 2022
+Page 23
+
+
+--- Page 24 ---
+Cases 22-E-0064 & 22-G-0065
+Bob Wyman
+Direct Testimony
+general part of the country on investments in other business undertakings
+1
+which are attended by corresponding risks and uncertainties; but it has no
+2
+constitutional right to proﬁts such as are realized or anticipated in highly
+3
+proﬁtable enterprises or speculative ventures.
+4
+Given this, utilities unerringly argue that the ROE they enjoy must, at least, equal
+5
+that of other “comparable” companies. (With the understanding that the utilty’s ROE
+6
+should normally be lower than the usually higher ROE earned by unregulated ven-
+7
+tures that experience much greater risk than regulated utilities do.)
+8
+However, the very next sentence in the Supreme Court’s decision, a sentence rarely
+9
+quoted by utilities in their rate ﬁlings pleading for higher ROE allowances, deﬁnes a
+10
+second standard whose application will often lead to lower than “comparable” ROE.
+11
+That second standard reads:
+12
+The return should be reasonably sufﬁcient to assure conﬁdence in the ﬁ-
+13
+nancial soundness of the utility, and should be adequate, under efﬁcient
+14
+and economical management, to maintain and support its credit and en-
+15
+able it to raise the money necessary for the proper discharge of its public
+16
+duties. A rate of return may be reasonable at one time and become too high
+17
+or too low by changes affecting opportunities for investment, the money
+18
+market, and business conditions generally.
+19
+While the utilities stress the ﬁrst of these two standards for a fair rate of return, the
+20
+Supreme Court actually established two standards that should be applied. The ap-
+21
+parent conﬂict between these two standards was addressed as long ago as 1961 by
+22
+James Bonbright on page 257 of his famous text, Principles of Public Utility Rates.
+23
+Bonbright wrote about the Blueﬁeld decision:
+24
+Here, as in the Hope case, are suggested not just one standard of a fair rate
+25
+May 20, 2022
+Page 24
+
+
+--- Page 25 ---
+Cases 22-E-0064 & 22-G-0065
+Bob Wyman
+Direct Testimony
+of return but two. In the ﬁrst place, the rate must be equal to that currently
+1
+earned on “investments” in other equally risky business enterprises. But,
+2
+in the second place, it must also sufﬁce to maintain the credit and capital-
+3
+attracting ability of the very company whose case is at bar. And the ques-
+4
+tion arises what should be done in the likely event that the rate indicated
+5
+by the one test is higher or lower than the rate indicated by the other. A
+6
+severely literal construction of the Blueﬁeld opinion would seem to re-
+7
+quire the acceptance of whichever rate of return happens to be higher
+8
+in any given case. But, this interpretation would run so contrary to com-
+9
+mon sense that it has not won acceptance.
+10
+Faced with this problem of judicial interpretation, my own preferred inter-
+11
+pretation has been that the courts have not intended to set up two conﬂict-
+12
+ing standards of reasonable utility rates. Instead, the credit-maintenance
+13
+or capital-attraction standard is primary, while the comparable-risk
+14
+standard is secondary and ancillary. (Emphasis added.)
+15
+The primary determinant of a corporation’s ability to maintain its credit ratings, and
+16
+thus keep borrowing expenses low, is the rate and reliability with which the company
+17
+generates positive cash ﬂow that can be used to pay loans’ principal and interest.
+18
+Similarly, potential equity investors are primarily focused on the the company’s cash
+19
+ﬂow – not the detailed decisions, such as ROE allowances, that are part of generating
+20
+that cash ﬂow. Thus, it isn’t ROE itself that determines the credit- and investment-
+21
+worthiness of the company, but rather the determinant is the end result of all factors
+22
+that contribute to the company’s expected cash ﬂow over time.
+23
+Actions which increase the “efﬁcient and economical management” of a company
+24
+May 20, 2022
+Page 25
+
+
+--- Page 26 ---
+Cases 22-E-0064 & 22-G-0065
+Bob Wyman
+Direct Testimony
+may reduce that company’s new capital requirements and perceived risk while in-
+1
+creasing cash ﬂow and thus allowing the company to attract both credit and capital
+2
+at lower rates than otherwise – even if no other “comparable” company were so efﬁ-
+3
+ciently and economically operated.
+4
+To insist that a company’s ROE must be equal to that of comparable companies,
+5
+which may be less well run, would risk burdening the ratepayers of a well-run com-
+6
+pany with an obligation to provide unnecessarily generous returns to its investors.
+7
+Such a result would be nonsensical and could not have been what the US Supreme
+8
+Court intended in its opinion.
+9
+Q. Could reducing the ROE impact the Company’s ability to raise new equity invest-
+10
+ments?
+11
+A. Yes. However, actions can be taken to compensate for that risk.
+12
+Attenuation of the ability to raise new equity investment could have a signiﬁcant fu-
+13
+ture impact on an electric utility that must anticipate the need to make substantial
+14
+new capital investments in order to address the expected dramatic increases in elec-
+15
+tricity distribution capacity that will be the result of Beneﬁcial Electriﬁcation and the
+16
+many policies and programs that encourage “Electrify Everything!.” But, a reduced
+17
+ability to raise new equity may have less impact on a gas utility that should anticipate
+18
+a reduced requirement to expand gas infrastructure investments as demand for util-
+19
+ity gas declines. Of course, even a gas utility in decline will need to fund investments
+20
+which are necessary to ensure the safety and reliability of their system’s use.
+21
+Nonetheless, gas utilities’ need for new gas capital should diminish in the future as
+22
+their need to invest is reduced by declining demand. As a result, some reduction in
+23
+ROE allowance should be achievable without unacceptably negative consequences
+24
+May 20, 2022
+Page 26
+
+
+--- Page 27 ---
+Cases 22-E-0064 & 22-G-0065
+Bob Wyman
+Direct Testimony
+particularly if there is a simultaneous increase in the rate of cashﬂow generation from
+1
+depreciation. We must also expect that existing gas utilities will eventually not only
+2
+be allowed, but encouraged, to focus less on gas infrastructure and more on the Ge-
+3
+oGrids (distributed geothermal district heating) which will replace existing gas infras-
+4
+tructure. (Gas utilities are likely to soon learn that they should “Pump Heat, Not Gas!,”
+5
+if only as a “business continuation” strategy.) The transition to sustainable, long-term
+6
+investments in GeoGrids will require that utilities, and others who participate in that
+7
+soon to be growing market, have access to substantial quantities of capital. The recy-
+8
+cling of capital recovered through the depreciation of legacy gas infrastructure may
+9
+be a good source for that capital.
+10
+Costs recovered from previous investments provide utilities with essentially fresh
+11
+capital that can be reinvested to meet new needs. If the rate at which cost-recovery
+12
+for previous investments generates re-investable capital is less than or equal to the
+13
+rate at which new investments must be made, then a utility would not need to pull
+14
+new capital from the market. However, it appears that cost-recovery doesn’t normally
+15
+provide sufﬁcient capital to cover investment needs. As an example, ConEd says that
+16
+cost-recovery from existing assets only funded 47% of its capital investments during
+17
+202011 and that, in 2019, the average ratio of depreciation to capital expense for what
+18
+they consider a representative set of utilities was only 62.3%12. Nonetheless, it should
+19
+be recognized that one important reason that ConEd’s current gas cost recovery cov-
+20
+ers so little of the cost of new investments is that the Company estimates the average
+21
+service life of its assets to be much longer than those of many other similar utilities. If
+22
+service life expectations were reduced, as they must be in response to CLCPA require-
+23
+ments, the result would be more rapid cost recovery and thus more capital that can
+24
+11ConEd Cost of Capital Panel Testimony, page 54.
+12ConEd Cost of Capital Panel Testimony, Exhibit YS-17
+May 20, 2022
+Page 27
+
+
+--- Page 28 ---
+Cases 22-E-0064 & 22-G-0065
+Bob Wyman
+Direct Testimony
+be recycled into new uses providing higher ROE, such as GeoGrids.
+1
+Q. What ROE would be set in this rate case?
+2
+A. The Company’s ROE on at least its gas investments should be reduced to no more
+3
+than 8%, or a premium of between 350 and 500 basis points above the cost of com-
+4
+monly available debt capital. Given that the Company, as a regulated business, is pro-
+5
+tected from most market forces, and is thus able to run a largely risk-free enterprise,
+6
+any higher premium is unwarranted. In fact, many would argue that an even lower
+7
+premium would be easily justiﬁed.
+8
+If the Company ﬁnds that the allowed ROE restricts its ability to obtain sufﬁcient new
+9
+equity capital for investment in its gas assets, it should either work to reduce the Eq-
+10
+uity Ratio or acclerate depreciation.
+11
+6
+Leak Prone Pipe (LPP) Replacement
+12
+Q. Why is it appropriate to end the Leak Prone Pipe Replacement Program?
+13
+A. While replacing LPP made sense when the Company could expect that its gas in-
+14
+frastructure would continue to be used, at current or higher demand levels, for at
+15
+least the full technically expected life of replacement pipes, the current reality is that
+16
+the CLCPA, New York City Local Laws, and other laws, regulations, or policies, now
+17
+make it inevitable that gas demand will decline signiﬁcantly in the future. Thus, new
+18
+pipe, installed to replace LPP, bears a signiﬁcant risk, if not a certainty, of becoming
+19
+stranded assets.
+20
+Rather than continuing to install new, long-lived, gas infrastructure, the priority of
+21
+the Company should be to pursue a process of the managed decapitalization of its
+22
+gas infrastructure and on preparing the additional electric infrastructure that will be
+23
+May 20, 2022
+Page 28
+
+
+--- Page 29 ---
+Cases 22-E-0064 & 22-G-0065
+Bob Wyman
+Direct Testimony
+required to servce customers who will abandon the use of oil, gas, and other com-
+1
+bustibles in favor of Beneﬁcial Electriﬁcation technologies, such as heat pumps.
+2
+Q. Won’t ending LPP replacement increase risks?
+3
+A. Perhaps, but not signiﬁcantly. We should remember that “leak prone pipe” is not
+4
+actually “leaking” pipe. While LPP is prone to leak, many of the pipes that are now
+5
+scheduled for replacement, at the cost of many 10’s of billions of dollars before they
+6
+are all replaced, have been in place for many decades without presenting safety
+7
+problems. While slow leaks from these pipes clearly increase methane emissions, we
+8
+would be better served by abandoning those pipes, without replacement, rather than
+9
+investing massive amounts of money in new infrastructure that will have a short life.
+10
+Q. What should be done instead of LPP replacement?
+11
+A. The Company should focus its efforts on the replacement of pipe which is actually
+12
+leaking and presenting safety or reliability dangers, rather than replacing pipe which
+13
+is merely prone to leak. In pursuing this focus, they should invigorate and expand
+14
+their efforts to detect and monitor leaks so that leaking pipes may be more readily
+15
+and rapidly identiﬁed.
+16
+Additionally, the Company should aggressively seek Non-Pipe Alternatives (NPA) that
+17
+can be employed to allow the abandonment, without replacement, of existing LPP
+18
+and of any leaking pipe that may be discovered.
+19
+7
+Changes to SC-1 Rate IV
+20
+Q. Why should SC-1 Rate IV be modiﬁed?
+21
+A. While it is little used, the recently adopted SC-1 Rate IV optional, demand-based,
+22
+three-part rate has been proven to provide substantial rate reductions for those few
+23
+May 20, 2022
+Page 29
+
+
+--- Page 30 ---
+Cases 22-E-0064 & 22-G-0065
+Bob Wyman
+Direct Testimony
+residential consumers who have been adventurous enough to select it. However, it
+1
+has also become apparent that the primary reason that this rate has not been adopted
+2
+by more residential customers is that most of them are unfamiliar with the idea and
+3
+implications of demand-based rates. Residential rates have always been volumetric
+4
+in the past. Consumers are afraid that adoption of SC-1 Rate IV could result in higher
+5
+electric bills, rather than lower bills.
+6
+Given that SC-1 Rate IV promises to provide more equitable rates for a growing num-
+7
+ber of residential customers as adoption of Beneﬁcial Electriﬁcation grows, efforts
+8
+should be made to adjust the rate’s terms to reduce consumer’s hesitancy to try this
+9
+rate.
+10
+Q. What should be done to reduce consumer’s hesitancy?
+11
+A. As with other optional or experimental rates which are a departure from established
+12
+practice, those who select SC-1 Rate IV should be allowed a period, of at least one full
+13
+year, but ideally two, during which their adoption is provisional. During the provi-
+14
+sional period, consumers who ﬁnd that the use of SC-1 Rate IV creates unacceptable
+15
+bill impacts should be permitted to switch back to whatever rate they had been using
+16
+earlier, or to some other SC-1 rate if they are new customers. If a consumer switches
+17
+back during the provisional period, they should receive a bill credit for the difference
+18
+between what they were billed under SC-1 Rate IV and what they would have been
+19
+billed under their prior rate.
+20
+Q. Anything else?
+21
+A. Yes. For at least the next ﬁve years, the Company should be required to continue to
+22
+provide reports on the adoption and use of SC-1 Rate IV. Those reports should, with-
+23
+out exposing personally identiﬁed information, provide those data elements reported
+24
+in response to the requirements of the last rate case. However, future reports should
+25
+May 20, 2022
+Page 30
+
+
+--- Page 31 ---
+Cases 22-E-0064 & 22-G-0065
+Bob Wyman
+Direct Testimony
+record the number of customers who abandon the SC-1 Rate IV, the quantity of bill
+1
+credits provided, and some discussion of any reasons given by customers for their
+2
+abandonment decisions.
+3
+8
+Home Area Network (HAN) Access to AMI Smart Meters
+4
+Q. What do you have to say about HAN access to Smart Meters?
+5
+A. HAN Access to AMI Smart Meters must be provided.
+6
+The Commission has clearly ordered that utilities who install AMI Smart Meters must
+7
+provide "customers direct, real-time access to electric meter data.” and that AMI sys-
+8
+tems must “connect with a home area network (HAN).”13 Additionally, the Company’s
+9
+AMI Business plan was adopted by the Commission based, in part, on the expecta-
+10
+tion that the Company would satisfy the before-mentioned minimum requirements
+11
+by installing and enabling ZigBee® chips in each AMI Smart Meter.14 It should also
+12
+be noted that representatives of the Company, including its President,15 have regu-
+13
+13In Appendix 1 of its 13-Feb-2009 Order Adopting Minimum Functional Requirements for Advanced
+Metering Infrastructure Systems and Initiating an Inquiry into Beneﬁt-Cost Methodologies, the PSC estab-
+lished “Advanced Metering Infrastructure Minimum Functional Requirements.” Those minimum require-
+ments include, in part, the following:
+(f) AMI systems must have the ability to provide customers direct, real-time access to elec-
+tric meter data. The data access must be provided in an open non proprietary format.
+(h) At the point where the customer or the customer’s agent interfaces with the AMI system,
+the data exchange must be in an open, standard, non-proprietary format.
+(j) AMI systems must have the ability to send signals to customer equipment to trigger
+demand response functions and connect with a home area network (HAN) to provide
+direct or customer-activated load control.
+(l) AMI systems must have the following security capabilities
+[Note: list of capabilities omitted for brevity]
+14On page 34 of its March 17, 2016 Order Approving Advanced Metering Infrastructure Business Plan
+Subject to Conditions, the PSC wrote:
+“To allow the AMI meters to communicate with customers who wish to install a HAN, BAN or
+similar systems, a ZigBee® chip will be installed in each AMI meter.”
+15During his address to the NY-GEO Annual Conference on April 10, 2019, Timothy P. Cawley, President
+of Consolidated Edison Company of New York, brieﬂy described ConEd’s plans for Smart Meters. In re-
+May 20, 2022
+Page 31
+
+
+--- Page 32 ---
+Cases 22-E-0064 & 22-G-0065
+Bob Wyman
+Direct Testimony
+larly promised that these minimum requirement would be met. In fact, this ability
+1
+has been said to be one of the most compelling reasons for rate payers to carry the
+2
+substantial ﬁnancial burden of installing AMI Smart Meters.
+3
+Nonetheless, the Company has, without formal authorization from the Commission,
+4
+chosen to disable HAN access and has no plans to enable such access.
+5
+Q. Why has the Company disabled HAN access?
+6
+A. In responses to discovery requests in this and the previous rate case, as well as in a va-
+7
+riety of other forms, the Company argues that it is not comfortable with the potential
+8
+“security risks” that might result from providing HAN access via the equipment that
+9
+they have chosen to install in customer’s buildings. Thus, although numerous other
+10
+utilities have found that they can provide such access to their ratepayers without sig-
+11
+niﬁcant security risks, the Company claims that its own decisions and equipment
+12
+have created a situation of such signiﬁcant security risk that satisfying the Commis-
+13
+sion’s order, and its own committments, would not be reasonable at this time.
+14
+The Company also claims that the provision of delayed access to data, provided via
+15
+their remote website or on monthly bills, is a reasonable substitute for realtime data
+16
+access via home area network. They appear to argue that data which is delayed at
+17
+least by hours, often 24-hours, can be described as “near realtime” and should be
+18
+considered just as useful as data which is actually “realtime.” (No, I’m not making this
+19
+up.)
+20
+Q. Why is HAN access to Smart Meters important?
+21
+A. While there are many reasons for providing such access, I am particularly interested
+22
+sponse to an audience question, immediately following his formal presentation, Mr. Cawley expanded on
+his prepared statements, saying that ConEd “will allow these meters to speak to appliances through home
+area networks and so you’ll be able to sort of have a smart home in part enabled by the data.”
+May 20, 2022
+Page 32
+
+
+--- Page 33 ---
+Cases 22-E-0064 & 22-G-0065
+Bob Wyman
+Direct Testimony
+in ensuring that residential customers who adopt either Rider-Z or SC-1 Rate IV, and
+1
+thus switch from volumetric to demand-based rates, are able to receive, in real time,
+2
+the information they need in order to optimize their use of electric system capacity.
+3
+The ability to monitor a home or building’s aggregate demand (kW) is extremely im-
+4
+portant to any customer using demand-based rates. Such an ability would also allow
+5
+the providers of devices, such as heat pumps, the ability to modify their control soft-
+6
+ware so that the devices not only attempt to optimize the consumption of electricity
+7
+(kWh) but also the size and timing of demand (kW) presented by such devices.
+8
+Q. Can you provide an example for how a heat pump might respond to demand data?
+9
+A. Yes. Imagine that someone in a home begins to use a hair dryer. The use of that hair
+10
+dryer might increase the home’s demand by 1.5kW. In theory, a heat pump or other
+11
+device that was monitoring whole-house demand, as reported by the Smart Meter
+12
+through the HAN, could choose to switch to a lower demand level in order to trim the
+13
+hair dryer’s 1.5kW demand increase to something less than 1.5kW. If appropriately
+14
+timed, this shifting of the device’s demand could result in signiﬁcant savings for the
+15
+home owner as well as a smoothing of aggregate system demand and thus a beneﬁt
+16
+for all rate payers.
+17
+Q. Do heat pumps currently exist that provide the kind of dynamic demand manage-
+18
+ment that you describe above?
+19
+A. No. Nor do other other devices intended for the residential market – although energy
+20
+management systems that do pay attention to “whole building” demand are becom-
+21
+ing more common commercial buildings which often use demand-based electricity
+22
+rates. This current absence of such demand-responsive equipment intended for use
+23
+in homes is, of course, because demand-based rates are rarely provide to residential
+24
+home owners. Thus, homeowners, and their equipment providers have never before
+25
+May 20, 2022
+Page 33
+
+
+--- Page 34 ---
+Cases 22-E-0064 & 22-G-0065
+Bob Wyman
+Direct Testimony
+had a ﬁnancial motivation to optimize whole-house kW demand in ways that beneﬁts
+1
+the electric grid. The focus of consumer and manufacturer optimization efforts has
+2
+been exclusively on providing greater efﬁciency through reduced kWh consumption
+3
+rather than the beneﬁcial reduction of kW demand.
+4
+With the introduction of Rider-Z and SC-1 Rate IV, which are both demand-based
+5
+rates intended for home use, we can expect that the number of homes using such
+6
+rates will increase in the future.
+7
+Q. Are heat pumps the only devices that might exploit realtime data on “whole-house”
+8
+demand?
+9
+A. No. Any device that contains a reasonably ﬂexible control logic, presents signiﬁcant
+10
+demand while operating, and is able to connected to a HAN could exploit such data.
+11
+For instance, electric vehicle chargers, water heaters, clothes dryers, etc. could all rea-
+12
+sonably adjust their operation to minimize peak whole-house demand while they op-
+13
+erate. Also, there is no reason why we should not expect the home market to be able
+14
+to exploit “Building Energy Management (BEM)” technologies in the same way that
+15
+commercial buildings already do.
+16
+Q. What evidence, if any, is there that device manufacturers would use real-time data in
+17
+their device control logic?
+18
+A. Over the last several years, I have engaged in numerous and detailed discussions with
+19
+all major providers of geothermal heat pumps in the United States and have been as-
+20
+sured by them that if access to realtime whole-house demand were be provided to a
+21
+substantial number of customers by AMI Smart Meters, they would pursue the op-
+22
+portunity to provide value to those customers, and to the electric grid, by upgrading
+23
+their control software to use realtime data in optimizing both kW demand as well as
+24
+kWh consumption.
+25
+May 20, 2022
+Page 34
+
+
+--- Page 35 ---
+Cases 22-E-0064 & 22-G-0065
+Bob Wyman
+Direct Testimony
+Q. What should be done in this rate case?
+1
+A. Many years ago, the Company was ordered by the Commission to provide realtime
+2
+HAN access to Smart Meters. The Company accepted its responsibilty to do so and its
+3
+ofﬁcers have, from time to time, promised to do so. Additionally, the Company con-
+4
+tinues to install Smart Meters which include optional chips, at ratepayers’ expense,
+5
+so that HAN access can be provided. At present, none of those chips are “used and
+6
+useful...”
+7
+While the Company may have, since 2013, discovered some security issue which re-
+8
+sults from their past decisions concerning which Smart Meter technology to adopt,
+9
+they should now accept the responsbility to correct their earlier mistakes and pro-
+10
+vide Smart Meters which can satisfacorily provide the required capabilities, including
+11
+HAN access.
+12
+While explanations for why the Company has yet to meet the Commission’s require-
+13
+ments, and its own commitments, are informative, the Company should nonetheless
+14
+be required to correct its mistakes, ﬁnd a satisfactory solution, and provide the re-
+15
+quired HAN access to realtime Smart Meter data, for those customers who request it,
+16
+without further delay.
+17
+May 20, 2022
+Page 35
+
+
+--- Page 36 ---
+Cases 22-E-0064 & 22-G-0065
+Bob Wyman
+Direct Testimony
+9
+Seasonal Rate Differentials
+1
+Q. What are “Seasonal Rate Differentials?”
+2
+A. Seasonal rate differentials quantify the seasonal differences in the use of the electric
+3
+grid. For instance, today, the grid is more heavily used during the summer months,
+4
+due to the widespread and growing use of air conditioning equipment. Grid use is
+5
+lower during the winter when air conditioners are used less, or not at all, and space
+6
+conditioning is typically provided by fossil fuel burning equipment such as oil or gas
+7
+furnaces.
+8
+Q. Why do Seasonal Rate Differentials matter?
+9
+A. If the costs of grid use are to be fairly and equitably allocated, the allocation of those
+10
+costs should reﬂect a reasonable assessment of “cost causation.” Given that the grid’s
+11
+transmission and distribution costs are driven by annual peak demand, rather than
+12
+consumption, it is fair and equitable to charge more for electricity during periods of
+13
+high demand than during periods of low demand.
+14
+The Seasonal Rate Differentials, by providing a measure of grid use during various
+15
+seasons, allows rates to be designed that more equitably reﬂect cost-causation. To-
+16
+day, that means that rates will be higher during the summer months and lower during
+17
+the winter months. However, while that is reasonable today, as more and more con-
+18
+sumers adopt Beneﬁcial Electriﬁcation technologies while abandoning fossil fueled
+19
+devices, such as furnaces, we are seeing a slow shift from a summer peak to a winter
+20
+peak. The rate of this shifting is likely to accelerate signiﬁcantly in future years until,
+21
+eventually, it becomes as common to expect a winter peak as it is to expect a summer
+22
+peak today.
+23
+Q. Will Seasonal Rate Differentials change more rapidly in the future?
+24
+May 20, 2022
+Page 36
+
+
+--- Page 37 ---
+Cases 22-E-0064 & 22-G-0065
+Bob Wyman
+Direct Testimony
+A. Yes, while the general pattern of electricity usage has been relatively stable in the past
+1
+(e.g. summer peaks), we can reasonably expect that the adoption of Beneﬁcial Elec-
+2
+triﬁcation will tend to shift the annual peak to the winter and, particularly as electric
+3
+vehicles become more popular, to shift demand from the day and evening into later
+4
+hours of the night. So, while it may not have been necessary to update Seasonal Rate
+5
+Differentials frequently in the past, we can anticipate that the shifts that occur be-
+6
+tween future rates cases will be signiﬁcant enough to justify recalculation and adjust-
+7
+ment of the differentials.
+8
+Q. Has the Company updated its Seasonal Rate Differentials recently?
+9
+A. Yes. As ordered in the last rate case, the Company, after many years of not doing so,
+10
+recalculated and updated its Seasonal Rate Differentials. It then further updated the
+11
+differentials as part of this rate case. Those updated differentials have been applied
+12
+to the Company’s rate proposals in this rate case.
+13
+Q. What do you propose?
+14
+A. While the Company has communicated its willingness and intention to more dili-
+15
+gently maintain up-to-date and accurate Seasonal Rate Differentials in the future,
+16
+these differentials are important enough to the maintenance of fair and equitable
+17
+rates that we should not rely soley on the Company’s goodwill, or the memory of its
+18
+employees, to ensure that we never see the kind of long delay in updating the differ-
+19
+entials that was allowed to continue for so long. Thus, I recommend that the Com-
+20
+mission’s order in this case should explictly require that Seasonal Rate Differentials
+21
+must be recalculated, adjusted, and reﬂected in rate proposals at least as part of ev-
+22
+ery future rate case and at the time of any rate modiﬁcation or creation proposal that
+23
+might be made in between rate cases.
+24
+May 20, 2022
+Page 37
+
+
+--- Page 38 ---
+Cases 22-E-0064 & 22-G-0065
+Bob Wyman
+Direct Testimony
+Q. Does that conclude your direct testimony in this case?
+1
+A. Yes.
+2
+May 20, 2022
+Page 38

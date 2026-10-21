@@ -1,0 +1,7671 @@
+--- Page 1 ---
+CONSOLIDATED EDISON COMPANY OF NEW YORK, INC. 
+ 
+ELECTRIC FORECASTING PANEL 
+ 
+ 
+ 
+ 
+ 
+ 
+ 
+ 
+ 
+ 
+ 
+TABLE OF CONTENTS 
+ 
+ 
+ 
+ 
+ 
+ 
+ 
+ 
+ 
+Page   
+ 
+I. 
+INTRODUCTION ............................................. 1 
+II.  PURPOSE AND SUMMARY OF TESTIMONY ......................... 4 
+III.  DELIVERY VOLUMES BY SERVICE CLASSIFICATION .............. 7 
+A. 
+Econometric Models ................................. 8 
+B. 
+Modeling Periods ................................... 9 
+C. 
+Independent Variables .............................. 9 
+D. 
+Model Structure ................................... 11 
+E. 
+Model Assumptions ................................. 14 
+F. 
+New York Power Authority Volumes .................. 22 
+G. 
+Recharge New York Volumes ......................... 25 
+H. 
+Demand Side Management Programs ................... 25 
+I. 
+Other Volume Adjustments .......................... 27 
+IV.  REVENUE FORECAST ........................................ 30 
+A. 
+Non-Competitive Revenues .......................... 31 
+B. 
+Competitive Revenues .............................. 33 
+C. 
+NYPA Revenues ..................................... 34 
+D. 
+Other Revenues .................................... 36 
+V. 
+SENDOUT FORECAST ........................................ 37 
+VI.  FORECAST SUMMARY ........................................ 39 
+ 
+ 
+ 
+ 
+ 
+ 
+
+
+--- Page 2 ---
+CONSOLIDATED EDISON COMPANY OF NEW YORK, INC. 
+ 
+ELECTRIC FORECASTING PANEL 
+ 
+ 
+ 
+ 
+ 
+ 
+ 
+ 
+ 
+-1- 
+ 
+ 
+I. 
+INTRODUCTION 
+1 
+Q. 
+Would the members of the Forecasting Panel please state 
+2 
+their names and business address?   
+3 
+A. 
+John Catuogno, Hock G. Ng, and Leanne M. Attanasio, 4 
+4 
+Irving Place, New York, New York 10003. 
+5 
+Q. 
+By whom are you employed, in what capacity, and what are 
+6 
+your professional backgrounds and qualifications, and 
+7 
+current responsibilities? 
+8 
+A. 
+(Catuogno)  We are employed by Consolidated Edison 
+9 
+Company of New York, Inc. (“Con Edison” or the 
+10 
+“Company”).  I am the Director of Energy Management’s 
+11 
+Commodity Forecasting Department.  I graduated from 
+12 
+Polytechnic University with a Bachelor of Science degree 
+13 
+in Mechanical Engineering in 1991 and with a Master of 
+14 
+Science degree in Management in 2002.  I have also 
+15 
+completed the Siemens PTI power system transmission 
+16 
+course/certification. 
+17 
+     I am a licensed Professional Engineer in the State of New 
+18 
+York and an Adjunct Assistant Professor in the Mechanical 
+19 
+Engineering Department of Manhattan College, where I 
+20 
+present graduate lectures on energy and sustainability. 
+21 
+
+
+--- Page 3 ---
+CONSOLIDATED EDISON COMPANY OF NEW YORK, INC. 
+ 
+ELECTRIC FORECASTING PANEL 
+ 
+ 
+ 
+ 
+ 
+ 
+ 
+ 
+ 
+-2- 
+ 
+ 
+I joined Con Edison in 1991 as a Management Intern and 
+1 
+have held various positions of increasing responsibility 
+2 
+in the Fossil Power, Nuclear Power Engineering, Steam 
+3 
+Operations, and Energy Management Organizations.  Since 
+4 
+December 2013, I have been the Director of Energy 
+5 
+Management’s Commodity Forecasting  Department.  My 
+6 
+responsibilities include oversight of daily peak, annual 
+7 
+peak, monthly/annual energy revenue and volume forecasts 
+8 
+for the electric, gas, and steam systems; electric 
+9 
+resource planning; and technical and analytical support 
+10 
+for long range plans, strategies, and industry trends and 
+11 
+issues that affect the Company. 
+12 
+(Ng)  I am the Section Manager of Electric Forecasting in 
+13 
+Energy Management.  I graduated from the University of 
+14 
+Western Australia with a Bachelor of Economics degree in 
+15 
+1983.  I also received a PhD degree in Economics in 1992 
+16 
+from Stanford University.  Prior to joining Con Edison, I 
+17 
+taught and performed research in economics and 
+18 
+econometrics at various universities.  In 2005, I began 
+19 
+my employment with Con Edison as a Senior Planning 
+20 
+Analyst in Corporate Accounting.  In April 2018, I was 
+21 
+promoted to my current position in Energy Management.  My 
+22 
+responsibilities include overseeing the development of 
+23 
+
+
+--- Page 4 ---
+CONSOLIDATED EDISON COMPANY OF NEW YORK, INC. 
+ 
+ELECTRIC FORECASTING PANEL 
+ 
+ 
+ 
+ 
+ 
+ 
+ 
+ 
+ 
+-3- 
+ 
+the electric delivery volume and revenue forecast.  I 
+1 
+have also co-authored two articles dealing with forecast 
+2 
+modeling issues that have been published in the 
+3 
+International Journal of Forecasting, and Systems 
+4 
+Analysis Modeling Simulation. 
+5 
+(Attanasio)  I am a Senior Planning Analyst in the 
+6 
+Electric Forecasting Section in Energy Management.  I 
+7 
+received a Bachelor’s degree in Economics (Honors 
+8 
+Program) from Ateneo de Manila University in 1998.  I 
+9 
+received a Master of Arts degree in Economics in 2008 and 
+10 
+a Doctorate in Economics in 2010, both from Fordham 
+11 
+University.  I also hold the Chartered Financial Analyst® 
+12 
+designation.  Prior to joining Con Edison, I taught 
+13 
+Economics and Statistics at Fordham and also managed the 
+14 
+University’s Master of Arts Program in International 
+15 
+Political Economy and Development.  Other positions I 
+16 
+have held in the past involved derivatives trading and 
+17 
+macroeconomic forecasting.  In 2013, I joined Con Edison 
+18 
+in an Analyst position as an experienced economic modeler 
+19 
+and forecaster.  I have developed econometric time series 
+20 
+models and forecasts for Con Edison and Orange and 
+21 
+Rockland.   
+22 
+
+
+--- Page 5 ---
+CONSOLIDATED EDISON COMPANY OF NEW YORK, INC. 
+ 
+ELECTRIC FORECASTING PANEL 
+ 
+ 
+ 
+ 
+ 
+ 
+ 
+ 
+ 
+-4- 
+ 
+Q. 
+Have you previously testified or submitted testimony in 
+1 
+any proceedings before the New York State Public Service 
+2 
+Commission? 
+3 
+A. 
+(Catuogno) Yes, I have submitted testimony in Case Nos. 
+4 
+21-G-0073, 21-E-0074, 19-E-0065, 19-G-0066, 18-E-0067, 
+5 
+18-G-0068, 16-E-0060, 16-G-0061, 13-S-0032, 09-S-0794, 
+6 
+09-S-0029, and 07-S-1315. 
+7 
+(Ng)  I have testified in previous electric rate cases, 
+8 
+including Cases 13-E-0030, 08-E-0539, and 07-E-0523, and 
+9 
+submitted written testimony in Cases 21-E-0074, 19-E-
+10 
+0065, 16-E-0060, 15-E-0050, and 09-E-0428. 
+11 
+(Attanasio)  I have submitted written testimony in Cases 
+12 
+19-E-0065 and 18-E-0067. 
+13 
+II. 
+PURPOSE AND SUMMARY OF TESTIMONY 
+14 
+Q. 
+What is the purpose of the Forecasting Panel’s testimony? 
+15 
+A. 
+The Panel presents the Company’s forecast of electric 
+16 
+delivery volumes, revenues, and system sendout for 
+17 
+October 1, 2021 through December 31, 2025, and discusses 
+18 
+the methodologies used to develop these forecasts.  
+19 
+Q. 
+What is the difference between delivery volume and 
+20 
+sendout? 
+21 
+A. 
+Sendout refers to the total amount of electric energy 
+22 
+that was sent out by the Company.  Delivery volume refers 
+23 
+
+
+--- Page 6 ---
+CONSOLIDATED EDISON COMPANY OF NEW YORK, INC. 
+ 
+ELECTRIC FORECASTING PANEL 
+ 
+ 
+ 
+ 
+ 
+ 
+ 
+ 
+ 
+-5- 
+ 
+to the amount of electric energy delivered to the 
+1 
+customer as recorded at the customer’s meter.  The latter 
+2 
+differs from the former because of line loss in the 
+3 
+system. 
+4 
+Q. 
+What is the purpose of the delivery volume and sendout 
+5 
+forecasts? 
+6 
+A. 
+The delivery volume forecast is used to determine the 
+7 
+revenue forecast.  The delivery volume and revenue 
+8 
+forecasts are then used by the Company’s Rate Engineering 
+9 
+department to determine rates per service class.  The 
+10 
+sendout forecast is used by Company Witness Kimball to 
+11 
+develop the electricity supply cost forecast.  
+12 
+Q. 
+What were the actual and normalized delivery volumes for 
+13 
+the 12 months ended September 2021? 
+14 
+A. 
+The actual CECONY service territory delivery volume for 
+15 
+the 12 months ended September 2021 was 50,775 gigawatt 
+16 
+hours (“GWh”).  The normalized delivery volume for this 
+17 
+period was 50,828 GWh.  The normalization procedure is 
+18 
+detailed in the Company’s response to DPS-1-92. 
+19 
+Q. 
+Would you please summarize, in aggregate form, your 
+20 
+delivery volume forecast? 
+21 
+A. 
+The delivery volume forecast for the three months ending 
+22 
+December 2021 is 11,936 GWh.  The delivery volume 
+23 
+
+
+--- Page 7 ---
+CONSOLIDATED EDISON COMPANY OF NEW YORK, INC. 
+ 
+ELECTRIC FORECASTING PANEL 
+ 
+ 
+ 
+ 
+ 
+ 
+ 
+ 
+ 
+-6- 
+ 
+forecast for the 12 months ending December 2022 is 51,030 
+1 
+GWh.  The delivery volume forecasts are 50,858 GWh for 
+2 
+the 12 months ending December 2023 (“Rate Year” or 
+3 
+“RY1”), 50,474 GWh for the 12 months ending December 2024 
+4 
+(which we will refer to as “RY2”), and 49,710 GWh for the 
+5 
+12 months ending December 2025 (which we will refer to as 
+6 
+“RY3”).  
+7 
+Q. 
+Would you please summarize, in aggregate form, your 
+8 
+delivery revenue forecast? 
+9 
+A. 
+The delivery revenue forecasts are $8,557.6 million for 
+10 
+the 12 months ending December 2022, $8,464.0 million for 
+11 
+RY1, $8,439.6 million for RY2, and $8,473.0 million for 
+12 
+RY3. 
+13 
+Q. 
+What is the actual and normalized sendout for the 12 
+14 
+months ended September 2021? 
+15 
+A. 
+The actual franchise area sendout for the 12 months ended 
+16 
+September 2021 was 55,526 GWh.  The normalized sendout 
+17 
+for the same period was 55,507 GWh.   
+18 
+Q. 
+Please summarize your sendout forecasts. 
+19 
+A. 
+The sendout forecast for the three months ended December 
+20 
+2021 is 12,627 GWh.  The sendout forecast for the 12 
+21 
+months ending December 2022 is 55,245 GWh.  The sendout 
+22 
+
+
+--- Page 8 ---
+CONSOLIDATED EDISON COMPANY OF NEW YORK, INC. 
+ 
+ELECTRIC FORECASTING PANEL 
+ 
+ 
+ 
+ 
+ 
+ 
+ 
+ 
+ 
+-7- 
+ 
+forecasts are 55,269 GWh for RY1, 54,827 GWh for RY2, and  
+1 
+53,786 GWh for RY3. 
+2 
+Q. 
+Do you have any exhibits that accompany this testimony? 
+3 
+A. 
+Yes, we are presenting nine exhibits, Exhibit ___ (EFP-1) 
+4 
+through Exhibit ___ (EFP-9).  
+5 
+Q. 
+Were these nine exhibits prepared under the Panel’s 
+6 
+direction and supervision? 
+7 
+A. 
+Yes.  We will describe each of these exhibits in the 
+8 
+course of our testimony. 
+9 
+III. DELIVERY VOLUMES BY SERVICE CLASSIFICATION 
+10 
+Q. 
+What forecasting methodologies are used to project the 
+11 
+electric delivery volumes for each service classification 
+12 
+(“SC”)? 
+13 
+A. 
+The forecasts of delivery volumes for all SCs, except SC 
+14 
+5 (Electric Traction Systems), SC 6 (Public and Private 
+15 
+Street Lighting), and SC 13 (Bulk Power – Housing 
+16 
+Development) are based on econometric models.  The 
+17 
+forecasts of delivery volumes for SC 5 and SC 6 are 
+18 
+performed on a deterministic basis, meaning we assume 
+19 
+that delivery volumes remain at their current levels for 
+20 
+these two SCs.  The only customer in SC 13 is on Standby 
+21 
+Service and the forecast for that customer is included as 
+22 
+
+
+--- Page 9 ---
+CONSOLIDATED EDISON COMPANY OF NEW YORK, INC. 
+ 
+ELECTRIC FORECASTING PANEL 
+ 
+ 
+ 
+ 
+ 
+ 
+ 
+ 
+ 
+-8- 
+ 
+part of the forecast for Standby Service customers, which 
+1 
+we discuss in Section III-I. 
+2 
+Q. 
+Please explain why the Company uses a different 
+3 
+methodology for SC 5 and SC 6. 
+4 
+A. 
+SC 5 and SC 6 are small service classifications and their 
+5 
+delivery volumes have not changed significantly over 
+6 
+time.  
+7 
+Q. 
+Are there any other delivery volume forecasts that are 
+8 
+not based on econometric models? 
+9 
+A. 
+Yes.  For commercial customers receiving the Company’s 
+10 
+Business Incentive Rate (“BIR”), the Company forecasts 
+11 
+delivery volumes by extending recent trends.  For 
+12 
+customers under the Recharge New York (“RNY”) program, 
+13 
+the Company forecasts the delivery volume (“below-the-
+14 
+allocation”) that is exempt from the System Benefits 
+15 
+Charge (“SBC”) and Renewable Portfolio Standard (“RPS”) 
+16 
+charge on a deterministic basis.  For customers under 
+17 
+Standby Service programs (85 existing customers and 12 
+18 
+projected new customers), the Company performs an 
+19 
+analysis of each individual customer’s recent usage. 
+20 
+A. 
+Econometric Models 
+21 
+Q. 
+For which service classes did the Company use econometric 
+22 
+models? 
+23 
+
+
+--- Page 10 ---
+CONSOLIDATED EDISON COMPANY OF NEW YORK, INC. 
+ 
+ELECTRIC FORECASTING PANEL 
+ 
+ 
+ 
+ 
+ 
+ 
+ 
+ 
+ 
+-9- 
+ 
+A. 
+The Company used econometric models to forecast electric 
+1 
+delivery volumes for SC 1 (Residential), SC 2 (Small 
+2 
+Commercial), SC 8 (Master Metered Apartments), SC 9 
+3 
+(Large Commercial), and SC 12 (Multiple Dwelling Space 
+4 
+Heating).  The Company’s modeling periods, independent 
+5 
+variables, and model structure are described below. 
+6 
+B. 
+Modeling Periods 
+7 
+ 
+The Company developed the SC 12 econometric model on a 
+8 
+monthly basis, using data from October 1996 through 
+9 
+September 2021.  The Company developed all other 
+10 
+econometric models on a quarterly basis, using data from 
+11 
+the fourth quarter of 1996 through the third quarter of 
+12 
+2021.  Due to data availability issues, SC 12 had to be 
+13 
+modeled with monthly data in the past.  We continue to 
+14 
+use the same model for SC 12 because it has performed 
+15 
+well. 
+16 
+C. 
+Independent Variables 
+17 
+The Company employs four types of independent variables – 
+18 
+weather, dummy, mobility, and economic. Weather 
+19 
+variables, in terms of heating degree days (“HDD”) and 
+20 
+cooling degree days (“CDD”), are included in all models 
+21 
+to account for delivery variations due to differences in 
+22 
+weather conditions.   
+23 
+
+
+--- Page 11 ---
+CONSOLIDATED EDISON COMPANY OF NEW YORK, INC. 
+ 
+ELECTRIC FORECASTING PANEL 
+ 
+ 
+ 
+ 
+ 
+ 
+ 
+ 
+ 
+-10- 
+ 
+Dummy variables are included in the SC 12 model to 
+1 
+account for structural breaks in the data.  Each dummy 
+2 
+variable can take the value of zero or one and is used to 
+3 
+indicate the presence of sudden shifts in the level of 
+4 
+the data.  The inclusion of such a variable allows us to 
+5 
+isolate the impact of sudden breaks in the trend of a 
+6 
+data series.  The mobility variables are ratio variables 
+7 
+that proxy for the COVID impact on sales. These are based 
+8 
+on the Google mobility data that indicate the 
+9 
+proportional deviation of daily customer mobility in 
+10 
+segments of the economy relative to a base week in 
+11 
+February 2020. Mobility in the residential segment 
+12 
+impacts SC 1, 8, and 12; mobility in the rest and 
+13 
+recreation segment impacts SC 2; and mobility in the 
+14 
+workplace segment impacts SC 9. 
+15 
+Economic variables are included in the various models as 
+16 
+follows:  
+17 
+ 
+The SC 2 and SC 9 models, which apply to small and 
+18 
+large commercial customers, respectively, include 
+19 
+the number of customers in the class, real 
+20 
+electric price of the class, which refers to the 
+21 
+price of electricity expressed in constant base-
+22 
+year dollars, and private non-manufacturing 
+23 
+
+
+--- Page 12 ---
+CONSOLIDATED EDISON COMPANY OF NEW YORK, INC. 
+ 
+ELECTRIC FORECASTING PANEL 
+ 
+ 
+ 
+ 
+ 
+ 
+ 
+ 
+ 
+-11- 
+ 
+employment.  The private non-manufacturing 
+1 
+employment variable has not been seasonally 
+2 
+adjusted. 
+3 
+ 
+The SC 1 model, which applies to residential 
+4 
+customers, includes the real electric price of the 
+5 
+class and real disposable income. 
+6 
+ 
+The SC 8 model includes the real electric price of 
+7 
+the class. 
+8 
+D. 
+Model Structure 
+9 
+Each econometric model consists of two parts: a 
+10 
+regression model, which correlates the delivery volume 
+11 
+with the set of independent variables selected into the 
+12 
+model; and an autoregressive integrated moving average 
+13 
+(“ARIMA”) model, which is discussed below.  The combined 
+14 
+model is often referred to as an ARIMAX model in modeling 
+15 
+literature, where the letter “X” stands for the set of 
+16 
+independent variables included in the model.  The ARIMA 
+17 
+model can take many different forms, and each model has 
+18 
+its own ARIMA structure, statistically determined 
+19 
+according to the data pattern of each SC. 
+20 
+Q. 
+What is the purpose of including ARIMA as part of the 
+21 
+modeling? 
+22 
+
+
+--- Page 13 ---
+CONSOLIDATED EDISON COMPANY OF NEW YORK, INC. 
+ 
+ELECTRIC FORECASTING PANEL 
+ 
+ 
+ 
+ 
+ 
+ 
+ 
+ 
+ 
+-12- 
+ 
+A. 
+In forecast modeling, the model includes only a few key 
+1 
+economic variables, such as real electric price, number 
+2 
+of customers, income and/or employment.  Although other 
+3 
+economic variables may have an effect on electric 
+4 
+delivery, they cannot be included in the model because 
+5 
+they are not quantifiable, or there are no data available 
+6 
+on them.  The ARIMA mechanism captures the collective 
+7 
+effect of these other variables.  In addition, ARIMA also 
+8 
+smooths out autocorrelations in the data.  
+9 
+Autocorrelation is the situation where the current value 
+10 
+of a variable is significantly related to its own values 
+11 
+in the recent past.  It is frequently present in time 
+12 
+series data.  If left unaddressed, the presence of 
+13 
+autocorrelation leads to high forecast errors.      
+14 
+Q. 
+Have you prepared an Exhibit showing the models that you 
+15 
+have just described? 
+16 
+A. 
+Yes, we have prepared a six-page document entitled 
+17 
+“VOLUME FORECASTING MODELS.”  In the Exhibit, we provide 
+18 
+the econometric models used for forecasting delivery 
+19 
+volume for SCs 1, 2, 8, 9, and 12, as well as the sendout 
+20 
+model. 
+21 
+MARK FOR IDENTIFICATION AS EXHIBIT ___ (EFP-1) 
+22 
+
+
+--- Page 14 ---
+CONSOLIDATED EDISON COMPANY OF NEW YORK, INC. 
+ 
+ELECTRIC FORECASTING PANEL 
+ 
+ 
+ 
+ 
+ 
+ 
+ 
+ 
+ 
+-13- 
+ 
+Q. 
+What criteria are used to measure the accuracy of the 
+1 
+econometric models? 
+2 
+A. 
+The Company uses generally accepted criteria to measure 
+3 
+the accuracy of each model.  The Company tests many 
+4 
+different model structures for each SC, with variations 
+5 
+especially in the structure of the ARIMA part of the 
+6 
+model.  As was done in Cases 13-E-0030, 16-E-0060, and 
+7 
+19-E-0065, we use a Durbin-Watson value near two, a low 
+8 
+standard error, and a high R2 as criteria to select the 
+9 
+full econometric model in each SC for forecasting. 
+10 
+Q. 
+Have you prepared an Exhibit showing the measures of 
+11 
+accuracy you have just described? 
+12 
+A. 
+Yes, we have prepared a one-page document entitled 
+13 
+“ELECTRIC FORECASTING MODEL STATISTICS.”  In this 
+14 
+Exhibit, we present measures of model performance for SCs 
+15 
+1, 2, and 9.  These three service classifications are 
+16 
+featured in the Exhibit because they account for over 90 
+17 
+percent of total Con Edison delivery volumes.  
+18 
+MARK FOR IDENTIFICATION AS EXHIBIT ___ (EFP-2) 
+19 
+Q. 
+Please explain this Exhibit. 
+20 
+A. 
+The Exhibit lists the adjusted R2, standard error, and 
+21 
+Durbin-Watson statistic of the models for SCs 1, 2, and 
+22 
+9.  All three statistics satisfy the criteria discussed 
+23 
+
+
+--- Page 15 ---
+CONSOLIDATED EDISON COMPANY OF NEW YORK, INC. 
+ 
+ELECTRIC FORECASTING PANEL 
+ 
+ 
+ 
+ 
+ 
+ 
+ 
+ 
+ 
+-14- 
+ 
+above, indicating that the models fit the historical data 
+1 
+very well. 
+2 
+E. 
+Model Assumptions 
+3 
+Q.  Did you consider the impact of climate change on your 
+4 
+weather variables? 
+5 
+A. 
+Yes.  We incorporated the impact of climate change on HDD 
+6 
+and CDD by adjusting the normal HDD and normal CDD in the 
+7 
+forecast period.  Thus, the delivery volume forecasts 
+8 
+from the econometric models reflect the impact of climate 
+9 
+change. 
+10 
+Q.  Please describe the adjustments made to the normal CDD 
+11 
+and normal HDD to reflect climate change. 
+12 
+A. 
+The Company’s Climate Change and Vulnerability Study 
+13 
+(2019) indicates that “normal” weather is going to be 
+14 
+warmer in upcoming years.  As such, we adjusted the 
+15 
+normal weather in each year of our forecasts using the 
+16 
+implied annual rates of change in CDD and HDD from the 
+17 
+study. CDD were increased, and HDD were reduced, year to 
+18 
+year, by the respective implied annual growth rates. The 
+19 
+CDD and HDD were allocated to the months according to the 
+20 
+allocations in 2020. 
+21 
+Q. 
+You listed the key economic variables used in the 
+22 
+forecasting models as private non-manufacturing 
+23 
+
+
+--- Page 16 ---
+CONSOLIDATED EDISON COMPANY OF NEW YORK, INC. 
+ 
+ELECTRIC FORECASTING PANEL 
+ 
+ 
+ 
+ 
+ 
+ 
+ 
+ 
+ 
+-15- 
+ 
+employment, real electric price, real disposable income, 
+1 
+the number of customers in each SC, and mobility.  Please 
+2 
+explain how the data for private non-manufacturing 
+3 
+employment are developed. 
+4 
+A. 
+For the historical period, the Company uses the Bureau of 
+5 
+Labor Statistics Current Employment Survey (“CES”) data 
+6 
+for New York City (through September 2021).  Because CES 
+7 
+employment data for individual counties has been 
+8 
+discontinued, data for Westchester is not directly 
+9 
+available.  The Company uses the methodology proposed by 
+10 
+Department of Public Service Staff in pages 13 through 15 
+11 
+of its testimony in Case No. 18-E-0067 to construct the 
+12 
+employment data for Westchester. Thus, the historical 
+13 
+data for Westchester is constructed based on CES data 
+14 
+through September 2021 and Quarterly Census of Employment 
+15 
+and Wages (QCEW) data through March 2021. 
+16 
+Q. 
+How is the forecast for private non-manufacturing 
+17 
+employment developed? 
+18 
+A. 
+The private non-manufacturing employment forecast is 
+19 
+developed using the forecast from Moody’s.  The Moody’s 
+20 
+forecast is also used by the New York Independent System 
+21 
+Operator and other New York State utilities.  The Moody’s 
+22 
+forecast is developed for New York State as a whole and 
+23 
+
+
+--- Page 17 ---
+CONSOLIDATED EDISON COMPANY OF NEW YORK, INC. 
+ 
+ELECTRIC FORECASTING PANEL 
+ 
+ 
+ 
+ 
+ 
+ 
+ 
+ 
+ 
+-16- 
+ 
+for individual regions and counties within the State.  
+1 
+The Company developed its forecast for New York City by 
+2 
+applying the annual growth rates available in the Moody’s 
+3 
+database in September 2021 (the most current available at 
+4 
+the time the forecast was developed) to the CES actuals.  
+5 
+The Company developed its forecast for Westchester County 
+6 
+by applying the annual growth rates available in Moody’s 
+7 
+database in September 2021 to the constructed historical 
+8 
+data for Westchester. 
+9 
+Q. 
+What is Moody’s projection based on data through 
+10 
+September 2021  for private non-manufacturing employment? 
+11 
+A. 
+For the Company’s service territory, private non-
+12 
+manufacturing employment is projected to increase by 1.6% 
+13 
+in 2021 and by 3.0% in 2022. It is then projected to 
+14 
+decline by 0.9% in 2023, by 0.2% in 2024, and by 1.3% in 
+15 
+2025. 
+16 
+Q. 
+How does the Company develop the forecast for real 
+17 
+disposable income? 
+18 
+A. 
+We use the forecast for real disposable income provided 
+19 
+by Moody’s. 
+20 
+Q. 
+What is Moody’s projection for real personal disposable 
+21 
+income? 
+22 
+
+
+--- Page 18 ---
+CONSOLIDATED EDISON COMPANY OF NEW YORK, INC. 
+ 
+ELECTRIC FORECASTING PANEL 
+ 
+ 
+ 
+ 
+ 
+ 
+ 
+ 
+ 
+-17- 
+ 
+A. 
+For the Company’s service territory, Moody’s projects 
+1 
+that real personal disposable income will decline by 2.1% 
+2 
+in 2021 and by 0.2% in 2022. It is then projected to 
+3 
+increase by 0.8% in 2023, 2.0% in 2024, and 0.9% in 2025. 
+4 
+Q. 
+How is the data for real electric price developed? 
+5 
+A. 
+For the historical period, we calculated the nominal 
+6 
+electric price for each SC by dividing the total delivery 
+7 
+revenue of full service customers in the SC by their 
+8 
+delivery volume.  We then divided the nominal electric 
+9 
+price by a price deflator to obtain the real electric 
+10 
+price. 
+11 
+Q. 
+What assumption does the model use for the real electric 
+12 
+price variable in the forecast period? 
+13 
+A. 
+As was done in Cases 16-E-0060 and 19-E-0065, we assume 
+14 
+that the real electric price in the forecast period 
+15 
+remains at the level it was during the most recent 12-
+16 
+month period, which in this case is the 12 months ended 
+17 
+September 2021. 
+18 
+Q. 
+Did you account for COVID? 
+19 
+A. 
+Yes, through the mobility variable. 
+20 
+Q. 
+What is the mobility variable? 
+21 
+A. 
+Google has been collecting data to track movement trends 
+22 
+by region and across different categories of space (e.g. 
+23 
+
+
+--- Page 19 ---
+CONSOLIDATED EDISON COMPANY OF NEW YORK, INC. 
+ 
+ELECTRIC FORECASTING PANEL 
+ 
+ 
+ 
+ 
+ 
+ 
+ 
+ 
+ 
+-18- 
+ 
+Residential, Rest and Recreation, Workplace, etc.) via 
+1 
+mobile phone location. Each mobility variable shows how 
+2 
+visitors to (or time spent in) categorized places change, 
+3 
+relative to Google’s baseline days (the baseline day is 
+4 
+the median value from the 5-week period Jan 3 – Feb 6, 
+5 
+2020). 
+6 
+Q. 
+Why is the mobility variable a reasonable way to account 
+7 
+for COVID? 
+8 
+A. 
+Because the mobility variables track the variance  
+9 
+between mobile phone users’ movement pre-COVID and post-
+10 
+COVID, these variables inform the Company on changes in 
+11 
+electric usage , by customer group, caused by the 
+12 
+pandemic. 
+13 
+Q. 
+How is the data for the mobility variable developed? 
+14 
+A. 
+Daily Google mobility for each segment (Residential, Rest 
+15 
+and Recreation, and Workplace) are available for each of 
+16 
+the New York City boroughs and Westchester (Google 
+17 
+LLC "Google COVID-19 Community Mobility Reports". 
+18 
+https://www.google.com/covid19/mobility/). We created a 
+19 
+single variable for each segment using the number of 
+20 
+customers from each borough and Westchester. Billing-day-
+21 
+weighted quarterly and monthly mobility variables are 
+22 
+then created for use in the models as appropriate. 
+23 
+
+
+--- Page 20 ---
+CONSOLIDATED EDISON COMPANY OF NEW YORK, INC. 
+ 
+ELECTRIC FORECASTING PANEL 
+ 
+ 
+ 
+ 
+ 
+ 
+ 
+ 
+ 
+-19- 
+ 
+Q. 
+What assumption does the Company use for the mobility 
+1 
+variables in the forecast period? 
+2 
+A. 
+Based on Moody’s Analytics’ assumption that the economy 
+3 
+will go back to full employment in 2023, we assume that 
+4 
+workplace mobility will gradually increase until 2023.  
+5 
+However, it will settle at 0.2 lower than the base period 
+6 
+from 2023 onwards due to permanent work-from-home (full- 
+7 
+or part- time) arrangements for some employees. 
+8 
+Similarly, because a certain proportion of the workforce 
+9 
+will continue to work from home, residential mobility 
+10 
+will remain about 0.05 higher than the base period. 
+11 
+Finally, we assume that rest and recreation will return 
+12 
+to normal, thus the rest and recreation mobility variable 
+13 
+will go down to zero (back to pre-pandemic levels) from 
+14 
+2023 onwards.  
+15 
+Q.  Are the foregoing projections of employment, real 
+16 
+disposable income, real electric price, and mobility used 
+17 
+as inputs in the forecasting models to generate the Con 
+18 
+Edison delivery volume forecasts? 
+19 
+A. 
+Yes. 
+20 
+Q. 
+Please explain how you developed the customer forecasts 
+21 
+for the various service classifications. 
+22 
+
+
+--- Page 21 ---
+CONSOLIDATED EDISON COMPANY OF NEW YORK, INC. 
+ 
+ELECTRIC FORECASTING PANEL 
+ 
+ 
+ 
+ 
+ 
+ 
+ 
+ 
+ 
+-20- 
+ 
+A. 
+The forecasted number of customers for SCs 1, 2, 8, and 9 
+1 
+are based on quarterly ARIMA models, using data from the 
+2 
+fourth quarter of 1996 through the third quarter of 2021.   
+3 
+The forecasted number of SC 12 customers is based on a 
+4 
+monthly ARIMA model, using data from October 1996 through 
+5 
+September 2021.   
+6 
+The forecasted number of customers for SC 5 and SC 6 are 
+7 
+done on a deterministic basis.   
+8 
+Q. 
+How does the Company use the customer forecasts? 
+9 
+A. 
+The forecasted number of customers in each service class 
+10 
+is used to forecast the number of bills, which in turn is 
+11 
+used in calculating the competitive delivery revenues, 
+12 
+which we will explain later in our testimony.  
+13 
+Q. 
+Have you prepared an exhibit showing the ARIMA models 
+14 
+used for forecasting the number of customers? 
+15 
+A. 
+Yes, we have prepared a five-page document entitled 
+16 
+“CUSTOMERS FORECASTING MODELS.”  In the Exhibit, we 
+17 
+provide the ARIMA models used to forecast the number of 
+18 
+customers for SCs 1, 2, 8, 9 and 12.    
+19 
+MARK FOR IDENTIFICATION AS EXHIBIT ___ (EFP-3) 
+20 
+Q. 
+Based upon the foregoing methodologies, what are the 
+21 
+projections for customers for SC 1, SC 2, and SC 9? 
+22 
+
+
+--- Page 22 ---
+CONSOLIDATED EDISON COMPANY OF NEW YORK, INC. 
+ 
+ELECTRIC FORECASTING PANEL 
+ 
+ 
+ 
+ 
+ 
+ 
+ 
+ 
+ 
+-21- 
+ 
+A. 
+We project the number of customers for SC 1, SC 2 and SC 
+1 
+9 to grow by the percentages in the table below.  These 
+2 
+three service classes account for over 99% of the total 
+3 
+number of customers. 
+4 
+ 
+2021 
+2022 
+2023 
+2024 
+2025 
+SC 1 
+-0.12% 
+0.90% 
+0.36% 
+0.58% 
+0.40% 
+SC 2 
+3.55% 
+1.69% 
+2.38% 
+1.53% 
+1.85% 
+SC 9 
+-0.74% 
+0.12% 
+0.30% 
+0.33% 
+0.44% 
+ 
+Q. 
+Are the foregoing customer projections used as inputs in 
+5 
+the forecasting models to generate the Con Edison 
+6 
+delivery volume forecasts? 
+7 
+A. 
+For SCs 2 and 9, these customer forecasts are used as 
+8 
+inputs in their respective forecasting models.  In 
+9 
+addition, customer forecasts for all Con Edison service 
+10 
+classes are used to project the number of bills to 
+11 
+determine competitive charge revenues, as explained later 
+12 
+in our testimony. 
+13 
+Q. 
+Have you prepared an exhibit showing the economic 
+14 
+assumptions you have described? 
+15 
+A. 
+Yes, we have prepared a one-page document entitled 
+16 
+“ECONOMIC ASSUMPTIONS.”  In this Exhibit, we provide 
+17 
+
+
+--- Page 23 ---
+CONSOLIDATED EDISON COMPANY OF NEW YORK, INC. 
+ 
+ELECTRIC FORECASTING PANEL 
+ 
+ 
+ 
+ 
+ 
+ 
+ 
+ 
+ 
+-22- 
+ 
+projected values of the economic variables during the 
+1 
+forecast period.    
+2 
+MARK FOR IDENTIFICATION AS EXHIBIT ___ (EFP-4) 
+3 
+F. 
+New York Power Authority Volumes 
+4 
+Q. 
+Are there other delivery volumes that are included in the 
+5 
+forecast? 
+6 
+A. 
+Yes.  We also include New York Power Authority (“NYPA”) 
+7 
+volumes. 
+8 
+Q. 
+Please describe the methodology for forecasting NYPA 
+9 
+volumes. 
+10 
+A. 
+We developed the NYPA volumes using a combination of 
+11 
+methodologies – some items were developed on a 
+12 
+deterministic basis and others based on econometric 
+13 
+models. 
+14 
+For SC 66 (Westchester Street Lighting) and SC 80 (New 
+15 
+York City Street Lighting), we forecast delivery volume 
+16 
+on a deterministic basis based on recent billing data.  
+17 
+We forecast the delivery volume for the development of 
+18 
+Hudson Yards based on data provided by Con Edison’s 
+19 
+Energy Services Department.  
+20 
+We used econometric models to forecast the power supplied 
+21 
+by Kennedy International Airport Cogeneration (“KIAC”) to 
+22 
+
+
+--- Page 24 ---
+CONSOLIDATED EDISON COMPANY OF NEW YORK, INC. 
+ 
+ELECTRIC FORECASTING PANEL 
+ 
+ 
+ 
+ 
+ 
+ 
+ 
+ 
+ 
+-23- 
+ 
+JFK Airport and to forecast delivery volumes for all 
+1 
+other NYPA service classes.  
+2 
+Q. 
+Please describe the econometric models used for NYPA. 
+3 
+A. 
+The Company developed monthly econometric models for the 
+4 
+NYPA service classes and for KIAC. The modeling period is 
+5 
+from October 1996 through September 2021. Like CECONY, 
+6 
+NYPA models include four types of independent variables – 
+7 
+weather, dummy, mobility, and economic. Dummy variables 
+8 
+are included in the SC 91 and SC 62 models to account for 
+9 
+structural breaks in the data. The other variables impact 
+10 
+the NYPA SCs as follows: 
+11 
+ 
+The SC 91 model, which applies to majority of NYPA 
+12 
+customers, includes weather and the mobility 
+13 
+variable for the rest and recreation segment. 
+14 
+ 
+The SC 62 model, which applies to small commercial 
+15 
+customers, includes total non manufacturing 
+16 
+employment (not seasonally adjusted) for the 
+17 
+service territory. Historical data for this 
+18 
+variable is constructed similarly as the 
+19 
+employment variable used in the CECONY models. 
+20 
+Forecasts are also based on Moody’s Analytics 
+21 
+projections. 
+22 
+
+
+--- Page 25 ---
+CONSOLIDATED EDISON COMPANY OF NEW YORK, INC. 
+ 
+ELECTRIC FORECASTING PANEL 
+ 
+ 
+ 
+ 
+ 
+ 
+ 
+ 
+ 
+-24- 
+ 
+ 
+The KIAC model includes weather and the passenger 
+1 
+variable. The passenger variable is a ratio 
+2 
+variable, similar to the mobility variables 
+3 
+described above, that proxy for the COVID impact 
+4 
+on KIAC sales. This variable is based on the 
+5 
+paying passenger data, known as revenue passenger 
+6 
+data, obtained from the Port Authority of NY/NJ 
+7 
+that indicates the proportional deviation of the 
+8 
+number of revenue passengers in a given month 
+9 
+relative to the same month of the base year. The 
+10 
+base year is from March 2019 through February 
+11 
+2020. These months were selected as the base 
+12 
+months as they were the 12 months immediately 
+13 
+preceding the COVID pandemic. The variable is 
+14 
+expected to increase at the beginning of the 
+15 
+forecast period, but settle at 0.10 below the base 
+16 
+year levels from 2023 onwards due to an expected 
+17 
+decrease in business travel going forward. 
+18 
+Q. 
+Have you prepared an exhibit showing the models that you 
+19 
+have just described? 
+20 
+A. 
+Yes, we have prepared a three-page document entitled 
+21 
+“NYPA VOLUME FORECASTING MODELS.”  In this Exhibit, we 
+22 
+
+
+--- Page 26 ---
+CONSOLIDATED EDISON COMPANY OF NEW YORK, INC. 
+ 
+ELECTRIC FORECASTING PANEL 
+ 
+ 
+ 
+ 
+ 
+ 
+ 
+ 
+ 
+-25- 
+ 
+provide the econometric models used for forecasting NYPA 
+1 
+delivery volume.  
+2 
+MARK FOR IDENTIFICATION AS EXHIBIT ___ (EFP-5) 
+3 
+G. 
+Recharge New York Volumes 
+4 
+Q. 
+What is Recharge New York? 
+5 
+A. 
+Recharge New York is a statewide economic development 
+6 
+program administered by NYPA to provide low cost electric 
+7 
+power to non-profits and small businesses. 
+8 
+Q. 
+Please describe how you develop the RNY delivery volume 
+9 
+forecast. 
+10 
+A. 
+We develop the delivery volume forecast for RNY by using 
+11 
+historical data for the 12 month period that ended 
+12 
+September 2021 of the customers who have accepted a RNY 
+13 
+allocation offered by NYPA.    
+14 
+Q. 
+How are the total delivery volumes for the franchise area 
+15 
+derived? 
+16 
+A. 
+The total delivery volumes are equal to the sum of Con 
+17 
+Edison, NYPA, and RNY volumes. 
+18 
+H. 
+Demand Side Management Programs 
+19 
+Q. 
+Does your forecast of delivery volumes reflect the impact 
+20 
+of demand side management (“DSM”) programs? 
+21 
+A. 
+A. 
+Yes.  The forecasts are net of the impacts of Con 
+22 
+Edison’s New Efficiency: New York (NE:NY) and Clean Heat 
+23 
+
+
+--- Page 27 ---
+CONSOLIDATED EDISON COMPANY OF NEW YORK, INC. 
+ 
+ELECTRIC FORECASTING PANEL 
+ 
+ 
+ 
+ 
+ 
+ 
+ 
+ 
+ 
+-26- 
+ 
+programs, and the Company’s current Non-Wires Solutions 
+1 
+(“NWS”) portfolio, including the Brooklyn Queens Demand 
+2 
+Management Program (“BQDM”) and other NWS programs.  The 
+3 
+forecast also includes projected reductions attributable 
+4 
+to other energy reduction programs, such as approved 
+5 
+NYSERDA Clean Energy Fund (“CEF”) programs, as well as 
+6 
+NYPA’s planned efficiency projects in the Company’s 
+7 
+service territory. 
+8 
+Q. 
+What sources are used for energy efficiency program 
+9 
+forecasts? 
+10 
+A. 
+The energy efficiency program forecasts are based on the 
+11 
+energy efficiency programs described in the Customer 
+12 
+Energy Solutions Panel testimony (including NYPA 
+13 
+projects) and additional Company modeling of the energy 
+14 
+efficiency savings required to achieve CLCPA goals. 
+15 
+Q. 
+What sources are used in other program forecasts? 
+16 
+A. 
+The Company included projected energy savings from its 
+17 
+BQDM Program based on Case 14-E-0302 and other NWS 
+18 
+programs. 
+19 
+Q. 
+Is NYSERDA’s CEF included in this forecast? 
+20 
+A. 
+Yes, savings related to the NYSERDA CEF are included in 
+21 
+this forecast. We based forecasted energy savings on the 
+22 
+estimated market development benefits found in the Clean 
+23 
+
+
+--- Page 28 ---
+CONSOLIDATED EDISON COMPANY OF NEW YORK, INC. 
+ 
+ELECTRIC FORECASTING PANEL 
+ 
+ 
+ 
+ 
+ 
+ 
+ 
+ 
+ 
+-27- 
+ 
+Energy Investment Plan: Budget Accounting and Benefits 
+1 
+Chapter submitted by NYSERDA in Matter 16-00681, In the 
+2 
+Matter of the Clean Energy Fund Investment Plan, and 
+3 
+adjusted for expected future energy reductions in the 
+4 
+CECONY service territory. 
+5 
+I. 
+Other Volume Adjustments 
+6 
+Q. 
+Are there any other adjustments to the delivery forecast? 
+7 
+A. 
+Yes.  The delivery volume forecast for CECONY customers 
+8 
+includes the following additional adjustments: 
+9 
+1. 
+Solar generation – to account for the projected 
+10 
+reduction in delivery volumes associated with the 
+11 
+installation of solar panels by customers who will 
+12 
+then generate a portion or all of their energy 
+13 
+requirements. 
+14 
+2. 
+Standby service (DG/CHP) - to reflect the projected 
+15 
+delivery volumes from customers who plan to convert 
+16 
+a portion, or all, of their existing load to on-site 
+17 
+generation and will pay standby rates. 
+18 
+3. 
+Conservation Voltage Optimization - to account for 
+19 
+the projected reduction in delivery volumes 
+20 
+associated with voltage optimization that is made 
+21 
+possible when advanced metering infrastructure 
+22 
+
+
+--- Page 29 ---
+CONSOLIDATED EDISON COMPANY OF NEW YORK, INC. 
+ 
+ELECTRIC FORECASTING PANEL 
+ 
+ 
+ 
+ 
+ 
+ 
+ 
+ 
+ 
+-28- 
+ 
+(“AMI”) is installed (which the Company expects to 
+1 
+be completed in 2023). 
+2 
+4. 
+Hudson Yards – to capture the projected delivery 
+3 
+volumes from the development of the Hudson Yards, 
+4 
+excluding the accounts that are eligible for NYPA 
+5 
+rates.  This adjustment is based on data provided by 
+6 
+Con Edison’s Energy Services Department.  
+7 
+5. 
+Steam air-conditioning conversions – to capture the 
+8 
+projected delivery volumes to customers who 
+9 
+currently operate steam air-conditioning chillers 
+10 
+and plan to convert to electric chillers. 
+11 
+6. 
+Electric Vehicles – to capture the projected 
+12 
+delivery volumes to customers who will be operating 
+13 
+electric vehicles. 
+14 
+7. 
+Electrification of Heating – to capture the delivery 
+15 
+volume to customers who we have forecasted to 
+16 
+install electric heating systems.1 
+17 
+8. 
+Electrification of Cooking, Hot Water, and Dryers - 
+18 
+to capture the delivery volume to customers who 
+19 
+might switch gas appliances to electric. 
+20 
+ 
+1The Company does not expect the recent NYC electrification law to 
+impact the Company’s forecasts for RY1, RY2 or RY3, but will further 
+evaluate this issue for the Update filing. 
+
+
+--- Page 30 ---
+CONSOLIDATED EDISON COMPANY OF NEW YORK, INC. 
+ 
+ELECTRIC FORECASTING PANEL 
+ 
+ 
+ 
+ 
+ 
+ 
+ 
+ 
+ 
+-29- 
+ 
+9. 
+Battery Storage - to capture the delivery volume to 
+1 
+customers who might install battery storage. 
+2 
+Q. 
+Are you making any adjustments to the NYPA delivery 
+3 
+volumes? 
+4 
+A. 
+Yes.  We adjusted the NYPA delivery volume forecast to 
+5 
+reflect the impacts of DSM; solar generation; 
+6 
+electrification of heating; electrification of cooking, 
+7 
+hot water, & dryers; electric vehicles; and battery 
+8 
+storage.  We also adjusted the NYPA delivery volume 
+9 
+forecast to reflect the projected reduction in delivery 
+10 
+volumes from NYPA customers who plan to convert all or a 
+11 
+portion of their existing load to on-site generation and 
+12 
+the Hudson Yards accounts that are supplied by NYPA. 
+13 
+Q. 
+Have you prepared an exhibit showing the adjustments you 
+14 
+have made to the delivery volume forecast? 
+15 
+A. 
+Yes, we have prepared a five-page document entitled 
+16 
+“DELIVERY AND SENDOUT ADJUSTMENTS.”  In this Exhibit, we 
+17 
+provide the impacts on delivery volume due to items noted 
+18 
+above.  The impacts are listed, by service class, for 
+19 
+each rate year.  
+20 
+MARK FOR IDENTIFICATION AS EXHIBIT ___ (EFP-6) 
+21 
+Q. 
+For what periods are delivery volumes forecasted? 
+22 
+
+
+--- Page 31 ---
+CONSOLIDATED EDISON COMPANY OF NEW YORK, INC. 
+ 
+ELECTRIC FORECASTING PANEL 
+ 
+ 
+ 
+ 
+ 
+ 
+ 
+ 
+ 
+-30- 
+ 
+A. 
+Quarterly.  However, the quarterly delivery volumes need 
+1 
+to be disaggregated into monthly amounts. 
+2 
+Q. 
+Why do you need to disaggregate the quarterly delivery 
+3 
+volumes into monthly forecasts? 
+4 
+A. 
+Monthly delivery volumes are required to calculate 
+5 
+revenues. 
+6 
+Q. 
+How are the quarterly delivery volumes disaggregated into 
+7 
+monthly delivery volumes? 
+8 
+A. 
+Quarterly delivery volumes are divided into monthly 
+9 
+delivery volumes by replicating the patterns of 
+10 
+historical weather-normalized monthly delivery volumes.  
+11 
+Monthly delivery volumes are also adjusted to reflect the 
+12 
+differences in forecasted billing cycle days. 
+13 
+IV. 
+REVENUE FORECAST 
+14 
+Q. 
+Please explain the method of estimating Con Edison’s 
+15 
+delivery revenues. 
+16 
+A. 
+The delivery revenue forecast consists of both the non-
+17 
+competitive delivery revenues and the competitive 
+18 
+delivery revenues.  The non-competitive delivery revenues 
+19 
+include revenues from customer charges, and the energy 
+20 
+and demand delivery rates while the competitive delivery 
+21 
+revenues are comprised of the Merchant Function Charge 
+22 
+
+
+--- Page 32 ---
+CONSOLIDATED EDISON COMPANY OF NEW YORK, INC. 
+ 
+ELECTRIC FORECASTING PANEL 
+ 
+ 
+ 
+ 
+ 
+ 
+ 
+ 
+ 
+-31- 
+ 
+(“MFC”), Billing and Payment Processing Charge (“BPP”), 
+1 
+and Metering Charge Revenues. 
+2 
+A. 
+Non-Competitive Revenues 
+3 
+Q. 
+Please explain the method of forecasting Con Edison’s 
+4 
+non-competitive transmission and distribution delivery 
+5 
+(“T&D”) revenues for the forecast periods. 
+6 
+A. 
+The T&D revenues from the forecasted delivery volumes to 
+7 
+Con Edison’s customers are estimated by month and by 
+8 
+service classification.  For each of the energy-only 
+9 
+classes (SCs 1 and 2), the Company develops a pricing 
+10 
+equation by correlating the monthly average T&D revenue 
+11 
+of the class to the monthly volume of the class, the 
+12 
+number of billing days, and summer/winter rate 
+13 
+differentials, if applicable, using 12 month pricing 
+14 
+data.1   
+15 
+For each of the commercial classes (SCs 5, 8, 9, and 
+16 
+12), where energy and demand charges apply, the Company 
+17 
+also develops a demand pricing equation by correlating 
+18 
+ 
+1The Company’s 12 month pricing data is based on the period February 
+2015 through January 2017, which is the last period where the Company 
+had 13 months or more without a rate change. Twelve months of billing 
+data at the same rates are required to run the regressions on the 
+pricing equations.  Because of the billing cycles, we need to have 13 
+months at the same rates to get the 12 months of bills at the same 
+rates. 
+
+
+--- Page 33 ---
+CONSOLIDATED EDISON COMPANY OF NEW YORK, INC. 
+ 
+ELECTRIC FORECASTING PANEL 
+ 
+ 
+ 
+ 
+ 
+ 
+ 
+ 
+ 
+-32- 
+ 
+monthly average T&D revenue of the class to monthly 
+1 
+billed demand of the class, the number of billing-days, 
+2 
+and summer/winter rate differentials, if applicable, 
+3 
+using its 12 month pricing data.  The T&D energy revenues 
+4 
+for commercial classes are based upon pricing equations 
+5 
+similar to those developed for the energy only classes.  
+6 
+The delivery volume, billed demand, and revenues of 
+7 
+customers receiving BIR under Rider J and RNY customers 
+8 
+are excluded from the data used in these commercial 
+9 
+pricing equations.  These pricing equations are then 
+10 
+applied to the delivery and demand forecast of the 
+11 
+respective service classes to obtain revenue at rates 
+12 
+that went into effect on January 1, 2015.  The revenue 
+13 
+from the pricing models is then adjusted to reflect the 
+14 
+rate changes that went into effect on January 1, 2017, 
+15 
+January 1, 2018, January 1, 2019, January 1, 2020, 
+16 
+January 1, 2021, and January 1, 2022.   
+17 
+Q. 
+How do you forecast the revenues for customers not 
+18 
+included in the pricing equations? 
+19 
+A. 
+The forecast of T&D energy and demand revenues for BIR 
+20 
+customers are based on the trend of actual BIR revenues 
+21 
+over the 36 months ended December 2020, adjusted to 
+22 
+reflect current rates.   
+23 
+
+
+--- Page 34 ---
+CONSOLIDATED EDISON COMPANY OF NEW YORK, INC. 
+ 
+ELECTRIC FORECASTING PANEL 
+ 
+ 
+ 
+ 
+ 
+ 
+ 
+ 
+ 
+-33- 
+ 
+The forecast of T&D revenues for the allocated 
+1 
+portion of RNY customers are based on historical billing 
+2 
+data for the period October 2020 to September 2021 to 
+3 
+develop the delivery volume forecast.   
+4 
+The T&D revenues for SC 6 and customers in SCs 8, 9, 
+5 
+12, and 13 that are taking service under standby service 
+6 
+were estimated by applying the appropriate tariff rates. 
+7 
+B. 
+Competitive Revenues 
+8 
+Q. 
+Please explain the method of estimating Con Edison’s 
+9 
+competitive delivery revenues for the forecast periods. 
+10 
+A. 
+The MFC revenues represent the supply and credit and 
+11 
+collection related charges.  The service class delivery 
+12 
+volumes for full service customers only were multiplied 
+13 
+by the current MFC rate as determined in Case 19-E-0065. 
+14 
+The BPP revenues are determined by applying the BPP 
+15 
+charge per bill to the forecasted number of bills.  This 
+16 
+charge is at the level set in Case 19-E-0065 and depends 
+17 
+on the customer’s choice of billing option and choice of 
+18 
+service. 
+19 
+Q. 
+Please explain the development of the forecasts of the 
+20 
+number of bills for the various service classifications. 
+21 
+A. 
+We determine the forecasted monthly number of bills by 
+22 
+service class by adding the monthly year over year change 
+23 
+
+
+--- Page 35 ---
+CONSOLIDATED EDISON COMPANY OF NEW YORK, INC. 
+ 
+ELECTRIC FORECASTING PANEL 
+ 
+ 
+ 
+ 
+ 
+ 
+ 
+ 
+ 
+-34- 
+ 
+in the number of customers to the monthly number of bills 
+1 
+for the twelve months ended December 31, 2013 (i.e., the 
+2 
+historical period for which detailed billing data is 
+3 
+available), as was provided to us by the Electric Rate 
+4 
+Panel.  For January 2014 through September 2021, this 
+5 
+change in the number of customers is based on actual 
+6 
+customer counts.  For the forecast period, the change in 
+7 
+the number of bills is based on the number of customers 
+8 
+forecast.      
+9 
+Q.  Please explain the projection of billable demand for Con 
+10 
+Edison’s commercial customers. 
+11 
+A. 
+The billable demand forecast is the ratio of the 
+12 
+forecasts for energy volume and the average hours use.   
+13 
+Q. 
+How is the average hours use forecasted? 
+14 
+A. 
+For each SC, the Company performs a detailed analysis of 
+15 
+the relationship between historical delivery volumes and 
+16 
+billable demand to determine the average number of hours 
+17 
+of usage in each month.  We then project these historical 
+18 
+monthly averages as the forecasted hours use. 
+19 
+C. 
+NYPA Revenues 
+20 
+Q. 
+Please explain the method of estimating NYPA delivery 
+21 
+service revenues for the forecast periods. 
+22 
+
+
+--- Page 36 ---
+CONSOLIDATED EDISON COMPANY OF NEW YORK, INC. 
+ 
+ELECTRIC FORECASTING PANEL 
+ 
+ 
+ 
+ 
+ 
+ 
+ 
+ 
+ 
+-35- 
+ 
+A. 
+We forecast NYPA delivery service revenues by applying 
+1 
+monthly average demand rates to the estimated billable 
+2 
+demand.  The estimated monthly demand rates are based 
+3 
+upon the average actual demand rates for the 12 months 
+4 
+ended September 2021, adjusted to reflect the rate 
+5 
+changes that went into effect on January 1, 2020, January 
+6 
+1, 2021, and January 1, 2022.  For NYPA standby service, 
+7 
+the energy only classes, KIAC, and Hudson Yards, the 
+8 
+delivery revenues are estimated by applying the 
+9 
+appropriate tariff rates to our forecast. 
+10 
+Q. 
+Please explain the method of arriving at the estimated 
+11 
+NYPA demand. 
+12 
+A. 
+For NYPA SC91, consistent with the methodology for 
+13 
+CECONY, the billable demand forecast is the ratio of the 
+14 
+forecasts for energy volume and the average hours use. 
+15 
+For SC80, we based the monthly billable demand 
+16 
+projections on an analysis of historical growth patterns 
+17 
+and a full year average billable demand.  Billable demand 
+18 
+is not applicable to small general services and non-New 
+19 
+York City street lighting that only have an energy charge 
+20 
+component.  
+21 
+Q. 
+Please explain the method of arriving at KIAC billable 
+22 
+demand. 
+23 
+
+
+--- Page 37 ---
+CONSOLIDATED EDISON COMPANY OF NEW YORK, INC. 
+ 
+ELECTRIC FORECASTING PANEL 
+ 
+ 
+ 
+ 
+ 
+ 
+ 
+ 
+ 
+-36- 
+ 
+A. 
+KIAC billable demand forecast is also calculated by 
+1 
+taking the ratio of the energy volume forecast and the 
+2 
+average hours use.   
+3 
+Q. 
+How are the average hours use for NYPA and KIAC 
+4 
+forecasted? 
+5 
+A. 
+We project average hours use by using the relationship 
+6 
+between NYPA and KIAC’s historical delivery volumes and 
+7 
+billable demand. 
+8 
+Q. 
+Please explain the method of estimating Hudson Yards 
+9 
+billable demand. 
+10 
+A. 
+We develop the Hudson Yards billable demand forecast 
+11 
+based on a deterministic method using the estimated load 
+12 
+levels provided by the Company’s Energy Services 
+13 
+Department. 
+14 
+D. 
+Other Revenues 
+15 
+Q. 
+The revenue forecast also includes Market Supply Charge 
+16 
+(“MSC”) and Monthly Adjustment Clause (“MAC”) revenues.  
+17 
+Please explain how these components are forecast. 
+18 
+A. 
+Rates for the MSC and MAC charges for each service class 
+19 
+are supplied by the Electric Rate Panel.  These rates are 
+20 
+then multiplied into the delivery volume forecast for the 
+21 
+respective service classes to determine, by service 
+22 
+class, the MSC and MAC charges. 
+23 
+
+
+--- Page 38 ---
+CONSOLIDATED EDISON COMPANY OF NEW YORK, INC. 
+ 
+ELECTRIC FORECASTING PANEL 
+ 
+ 
+ 
+ 
+ 
+ 
+ 
+ 
+ 
+-37- 
+ 
+V. 
+SENDOUT FORECAST 
+1 
+Q.  How is the franchise area sendout forecast developed? 
+2 
+A. 
+We use an econometric model to forecast the franchise 
+3 
+area sendout on a quarterly basis.   
+4 
+Q.  What variables are used in the sendout model? 
+5 
+A. 
+We use weather variables in terms of heating and cooling 
+6 
+degree days to account for variations due to differences 
+7 
+in weather conditions.  Like the delivery volume 
+8 
+forecast, the key economic variables included in the 
+9 
+sendout model are real electric price, total employment, 
+10 
+real disposable income, the number of customers, and a 
+11 
+mobility variable to represent the impact of the COVID-19 
+12 
+pandemic.  As with the private non-manufacturing 
+13 
+employment series used in the delivery volume forecasting 
+14 
+models, the total employment series used in the sendout 
+15 
+model is not seasonally adjusted. 
+16 
+Q. 
+Please explain how the forecast variables are derived. 
+17 
+A. 
+The bases for the real electric price and real disposable 
+18 
+income are the same as for the delivery volume forecast.  
+19 
+Total employment is the sum of private employment and 
+20 
+governmental employment.  The employment projection is 
+21 
+based on Moody’s Analytics’ forecast of total employment 
+22 
+in our service territory.  Total employment is projected 
+23 
+
+
+--- Page 39 ---
+CONSOLIDATED EDISON COMPANY OF NEW YORK, INC. 
+ 
+ELECTRIC FORECASTING PANEL 
+ 
+ 
+ 
+ 
+ 
+ 
+ 
+ 
+ 
+-38- 
+ 
+to increase by 1.2% in 2021, 5.4% in 2022, 2.3% in 2023, 
+1 
+1.1% in 2024, and 0.4% in 2025.  The number of customers 
+2 
+is represented by a sales-weighted index of the number of 
+3 
+customers in SCs 1, 2, 8, and 9.  
+4 
+Q. 
+Does your forecast of system sendout reflect the impact 
+5 
+of DSM programs? 
+6 
+A. 
+Yes.  Like the delivery volume forecast, the sendout 
+7 
+forecast is net of the impact of the DSM programs.  
+8 
+Q. 
+Are there any other adjustments made to the sendout 
+9 
+forecast? 
+10 
+A. 
+Yes.  The sendout forecast is also adjusted for projected 
+11 
+changes in each of the factors affecting delivery volumes 
+12 
+as discussed in Section III above.  
+13 
+Q. 
+How do you determine the sendout forecasts for the 
+14 
+different categories of delivery volumes, such as NYPA, 
+15 
+RNY, and retail access delivery volumes? 
+16 
+A. 
+The NYPA and RNY sendout forecasts are derived from their 
+17 
+respective delivery volume forecasts.  We apply the 
+18 
+historical averages of distribution efficiency factors to 
+19 
+the delivery volume forecast to account for the line loss 
+20 
+in the system.  Forecasts for retail access customers are 
+21 
+done using a proportional allocation.   
+22 
+
+
+--- Page 40 ---
+CONSOLIDATED EDISON COMPANY OF NEW YORK, INC. 
+ 
+ELECTRIC FORECASTING PANEL 
+ 
+ 
+ 
+ 
+ 
+ 
+ 
+ 
+ 
+-39- 
+ 
+Q. 
+How was the sendout for Con Edison full service customers 
+1 
+derived? 
+2 
+A. 
+It is derived by subtracting the sendout forecasts for 
+3 
+NYPA, RNY, and retail access customers from the franchise 
+4 
+area sendout. 
+5 
+Q. 
+Do you need to disaggregate the quarterly sendout 
+6 
+forecasts into monthly forecasts? 
+7 
+A. 
+Yes.  Company Witness Kimball, Electricity Supply, 
+8 
+requires the monthly full service sendout for forecasting 
+9 
+fuel costs. 
+10 
+Q. 
+How are the quarterly sendout forecasts disaggregated 
+11 
+into monthly sendouts? 
+12 
+A. 
+Quarterly sendouts are divided into monthly sendouts by 
+13 
+reflecting the patterns of historical weather-normalized 
+14 
+monthly sendout figures. 
+15 
+VI. 
+FORECAST SUMMARY 
+16 
+Q. 
+I show the Panel a one-page document entitled “ELECTRIC 
+17 
+SENDOUT, DELIVERY VOLUMES, AND REVENUES FROM DELIVERY 
+18 
+VOLUMES – FORECASTED THREE MONTHS ENDING DECEMBER 31, 
+19 
+2021, AND YEARS ENDING DECEMBER 31, 2022, DECEMBER 31, 
+20 
+20223, DECEMBER 31, 2024, AND DECEMBER 31, 2025” and ask 
+21 
+if it was prepared under the Panel’s supervision and 
+22 
+direction? 
+23 
+
+
+--- Page 41 ---
+CONSOLIDATED EDISON COMPANY OF NEW YORK, INC. 
+ 
+ELECTRIC FORECASTING PANEL 
+ 
+ 
+ 
+ 
+ 
+ 
+ 
+ 
+ 
+-40- 
+ 
+A. 
+Yes, it was. 
+1 
+MARK FOR IDENTIFICATION AS EXHIBIT ___ (EFP-7) 
+2 
+Q. 
+Will you please describe what is shown on this Exhibit? 
+3 
+A. 
+Yes.  This Exhibit shows the forecast of electric system 
+4 
+sendout, delivery volumes, and revenues from delivery 
+5 
+volumes for the three months ended December 31, 2021 and 
+6 
+the twelve months ending December 31, 2022, December 31, 
+7 
+2023 – RY1, December 31, 2024 – RY2, and December 31, 
+8 
+2025 – RY3.  Lines 1 through 4 show sendout categories 
+9 
+within the Con Edison franchise area, and the total 
+10 
+sendout for each period.  Lines 5 through 8 show electric 
+11 
+system delivery volumes for the same categories.  Lines 9 
+12 
+through 23 show revenues for each of the periods.  For 
+13 
+RY1, as shown in column 3, lines 24 through 29 show the 
+14 
+proposed revenue increases from delivery volumes to Con 
+15 
+Edison and NYPA customers, decreased revenues from 
+16 
+discounts to low income customers, as well as the 
+17 
+associated revenue taxes, and line 30 shows total revenue 
+18 
+at the proposed rates. 
+19 
+Q. 
+I show the Panel a document consisting of five pages, 
+20 
+entitled “ELECTRIC DELIVERY VOLUMES AND REVENUES FROM 
+21 
+DELIVERY VOLUMES BY SERVICE CLASSIFICATION” and ask if 
+22 
+
+
+--- Page 42 ---
+CONSOLIDATED EDISON COMPANY OF NEW YORK, INC. 
+ 
+ELECTRIC FORECASTING PANEL 
+ 
+ 
+ 
+ 
+ 
+ 
+ 
+ 
+ 
+-41- 
+ 
+this Exhibit was prepared under the Panel’s supervision 
+1 
+and direction? 
+2 
+A. 
+Yes, it was. 
+3 
+MARK FOR IDENTIFICATION AS EXHIBIT ___ (EFP-8) 
+4 
+Q. 
+Does this Exhibit set forth the results of the forecasts? 
+5 
+A. 
+Yes.  This Exhibit sets forth in greater detail, by 
+6 
+service classification, the data that were shown in 
+7 
+summary form on Exhibit ___ (EFP-7).  Page 1 of this 
+8 
+Exhibit shows the forecasted electric delivery volumes 
+9 
+and revenues by service classification for the three 
+10 
+months ended December 31, 2021.  GWh delivery volumes are 
+11 
+shown in Column 1, the sum of the monthly billable demand 
+12 
+for Con Edison and NYPA in Column 2, non-competitive 
+13 
+transmission and distribution delivery revenues at the 
+14 
+current rates in Column 3, competitive service revenues 
+15 
+at the current rates in Column 4, Reactive Power revenues 
+16 
+at the current rates in Column 5, System Benefit 
+17 
+Charge/Renewable Portfolio Standard revenues in Column 6, 
+18 
+MSC, MAC, and DLM revenues in Column 7, revenue taxes in 
+19 
+Column 8, and total revenues at current rates in Column 
+20 
+9.  Pages 2 through 5 are similar in format to page 1; 
+21 
+page 2 covers the forecast for 12 months ending December 
+22 
+31 2022, page 3 covers the forecast for RY1, page 4 
+23 
+
+
+--- Page 43 ---
+CONSOLIDATED EDISON COMPANY OF NEW YORK, INC. 
+ 
+ELECTRIC FORECASTING PANEL 
+ 
+ 
+ 
+ 
+ 
+ 
+ 
+ 
+ 
+-42- 
+ 
+covers the forecast for RY2, and page 5 covers the 
+1 
+forecast for RY3.  For the rate years, the low income 
+2 
+discounts are shown as a separate item on line 9 at the 
+3 
+level proposed by the Customer Operations Panel.  For 
+4 
+RY1, as shown on page 3, the effect of the proposed 
+5 
+changes in revenues, annualized for the Rate Year, are 
+6 
+shown in Columns 10 through 13, with the associated 
+7 
+increase in revenue taxes shown in Column 14.  The 
+8 
+proposed change in revenues from the purchase of 
+9 
+receivables, as supplied by the Electric Rate Panel, is 
+10 
+shown on line 10.  Column 15 shows the total revenues at 
+11 
+proposed rates.  The total proposed revenue increase to 
+12 
+be collected from Con Edison’s customers of 
+13 
+$1,028,583,000, exclusive of Gross Receipts Tax (“GRT”), 
+14 
+consists of the non-competitive T&D related delivery 
+15 
+revenue increase of $885,153,000, the customer charge 
+16 
+increase of $138,405,000, the competitive service revenue 
+17 
+decrease of $4,154,000, reactive power revenue increase 
+18 
+of $455,000, and a MAC increase of $8,724,000.  The 
+19 
+proposed rates also result in increases, exclusive of 
+20 
+GRT, in NYPA delivery revenue of $136,704,000.  The 
+21 
+resultant proposed overall increase for RY1, inclusive of 
+22 
+
+
+--- Page 44 ---
+CONSOLIDATED EDISON COMPANY OF NEW YORK, INC. 
+ 
+ELECTRIC FORECASTING PANEL 
+ 
+ 
+ 
+ 
+ 
+ 
+ 
+ 
+ 
+-43- 
+ 
+the increase in rates and charges of $37,288,000 for 
+1 
+revenue taxes, amounts to $1,202,575,000. 
+2 
+Q. 
+Should this revenue forecast be used as the basis for 
+3 
+setting the target revenues in the revenue decoupling 
+4 
+mechanism (“RDM”)? 
+5 
+A. 
+Yes, the non-competitive delivery revenue forecast shown 
+6 
+in Columns 3, 5, 10, and 12 on Page 3 of Exhibit ___ 
+7 
+(EFP-8) should be the basis for setting the target 
+8 
+revenue for each relevant service classification. 
+9 
+Q. 
+Please explain the current RDM methodology. 
+10 
+A. 
+The current RDM is based on a total class revenue 
+11 
+approach.  That is, at the end of each rate year, the 
+12 
+Company will reconcile, by service class, the actual 
+13 
+delivery revenues including reactive power revenue to the 
+14 
+allowed delivery revenues, which include reactive power 
+15 
+revenue.  The Company refunds to customers if the actual 
+16 
+delivery revenues are more than the allowed delivery 
+17 
+revenues and surcharges customers if the actual delivery 
+18 
+revenues are less than the allowed delivery revenues.  
+19 
+The RDM is applicable to SCs 1, 2/6, 8, 9/5, 12, and 
+20 
+NYPA.  BIR, RNY, and Standby Service customers, which 
+21 
+includes SC 13, are currently excluded from the RDM. 
+22 
+Q. 
+Is the Company proposing any changes to the RDM?   
+23 
+
+
+--- Page 45 ---
+CONSOLIDATED EDISON COMPANY OF NEW YORK, INC. 
+ 
+ELECTRIC FORECASTING PANEL 
+ 
+ 
+ 
+ 
+ 
+ 
+ 
+ 
+ 
+-44- 
+ 
+A. 
+Yes, we are proposing to extend the applicability of the 
+1 
+RDM to all Standby Service customers, and combine SC 8 
+2 
+and SC 13 into one target on January 1, 2024.  Details of 
+3 
+the proposal are provided in the Electric Rate Panel’s 
+4 
+testimony. 
+5 
+Q. 
+Assuming that retail access customers’ supply costs were 
+6 
+equivalent to the supply cost projected by the Company to 
+7 
+its full service customers, and assuming that NYPA 
+8 
+customers’ supply costs were $0.075620/kWh, as specified 
+9 
+in the testimony of the Electric Rate Panel, what is the 
+10 
+percentage increase in total overall revenues?   
+11 
+A. 
+The percentage increase for RY1 is approximately 14.2 
+12 
+percent. 
+13 
+Q. 
+Has the Electric Forecasting Panel prepared an exhibit 
+14 
+that shows the future average prices of delivery and 
+15 
+supply by service class, taking into account both the 
+16 
+increase in proposed delivery rates and other expected 
+17 
+changes, such as changes in the MSC and MAC? 
+18 
+A. 
+Yes, we have prepared a one-page document entitled 
+19 
+“FUTURE AVERAGE DELIVERY AND SUPPLY PRICES BY SERVICE 
+20 
+CLASSIFICATION.”  In this Exhibit, we provide the 
+21 
+forecast of the average price of T&D Delivery and Supply 
+22 
+for each service classification for the three rate years.  
+23 
+
+
+--- Page 46 ---
+CONSOLIDATED EDISON COMPANY OF NEW YORK, INC. 
+ 
+ELECTRIC FORECASTING PANEL 
+ 
+ 
+ 
+ 
+ 
+ 
+ 
+ 
+ 
+-45- 
+ 
+The supply charges reflect the effect of projected MSC 
+1 
+and MAC charges based on the electric supply cost 
+2 
+projections made by Company Witness Kimball.  The 
+3 
+delivery charges consist of projected non-competitive T&D 
+4 
+charges and projected competitive service charges based 
+5 
+on three years of proposed delivery revenue increases as 
+6 
+provided to us by the Electric Rate Panel. 
+7 
+MARK FOR IDENTIFICATION AS EXHIBIT ___ (EFP-9) 
+8 
+Q. 
+Does this conclude the Panel’s direct testimony?  
+9 
+A. 
+Yes, it does.  
+10 
+
+
+--- Page 47 ---
+EXHIBIT ___ (EFP-1)
+PAGE 1 OF 6
+SC 1 (RESIDENTIAL AND RELIGIOUS)
+Dependent Variable: DLOG(GWH01/BDA0,0,4)
+Method: ARMA Maximum Likelihood (OPG - BHHH)
+Sample: 1996Q4 2021Q3
+Included observations: 100
+Convergence achieved after 19 iterations
+Coefficient covariance computed using outer product of gradients
+Variable
+Coefficient
+Std. Error
+t-Statistic
+Prob.  
+C
+0.00576
+0.01664
+0.34641
+0.7299
+DLOG(PRICE01(-1),0,4)
+-0.02878
+0.03145
+-0.91510
+0.3626
+DLOG(DPYR(-2),0,4)
+0.13290
+0.13115
+1.01335
+0.3137
+D(WCDD0/BDA0,0,4)
+0.00034
+0.00005
+7.22507
+0.0000
+D(WCDD3/BDA0,0,4)
+0.00026
+0.00006
+4.51578
+0.0000
+D(WHDD0/BDA0,0,4)
+0.00008
+0.00002
+4.12404
+0.0001
+D(M_RESI,0,4)
+0.24348
+0.14724
+1.65364
+0.1018
+AR(1)
+0.98685
+0.02281
+43.2615
+0.0000
+SAR(4)
+-0.58478
+0.11524
+-5.07461
+0.0000
+MA(1)
+-0.72207
+0.09142
+-7.89881
+0.0000
+SMA(8)
+-0.35943
+0.13827
+-2.59941
+0.0110
+SIGMASQ
+0.00041
+0.00007
+5.54200
+0.0000
+R-squared
+0.87725     Mean dependent var
+0.009785
+Adjusted R-squared
+0.86191     S.D. dependent var
+0.058380
+S.E. of regression
+0.02169     Akaike info criterion
+-4.688317
+Sum squared resid
+0.04142     Schwarz criterion
+-4.375697
+Log likelihood
+246.416     Hannan-Quinn criter.
+-4.561794
+F-statistic
+57.1755     Durbin-Watson stat
+1.914811
+Prob(F-statistic)
+0.00000
+Inverted AR Roots
+0.99
+     .62+.62i
+   .62+.62i
+-.62-.62i
+-.62-.62i
+Inverted MA Roots
+0.88
+0.72
+   .62-.62i
+ .62+.62i
+-.00-.88i
+    -.00+.88i
+  -.62+.62i
+-.62+.62i
+-0.88
+CONSOLIDATED EDISON COMPANY OF NEW YORK, INC.
+VOLUME FORECASTING MODELS
+
+
+--- Page 48 ---
+EXHIBIT ___ (EFP-1)
+PAGE 2 OF 6
+SC 2 (GENERAL - SMALL)
+Dependent Variable: DLOG(GWH02/BDA0,0,4)
+Method: ARMA Maximum Likelihood (OPG - BHHH)
+Sample: 1996Q4 2021Q3
+Included observations: 100
+Convergence achieved after 19 iterations
+Coefficient covariance computed using outer product of gradients
+Variable
+Coefficient
+Std. Error
+t-Statistic
+Prob.  
+C
+0.003018
+0.002641
+1.14290
+0.2561
+DLOG(PRICE02(-1),0,4)
+-0.026626
+0.026160
+-1.01783
+0.3115
+DLOG(PNEMP_PSC,0,4)
+0.189888
+0.133645
+1.42083
+0.1588
+DLOG(NC02,0,4)
+0.299837
+0.105849
+2.83268
+0.0057
+D(M_RNR,0,4)
+0.112697
+0.021407
+5.26443
+0.0000
+D(WCDD0/BDA0,0,4)
+0.000242
+0.000021
+11.6628
+0.0000
+D(WHDD0/BDA0,0,4)
+0.000091
+0.000013
+7.18337
+0.0000
+AR(1)
+-0.778967
+0.172878
+-4.50589
+0.0000
+MA(1)
+0.918559
+0.123797
+7.41988
+0.0000
+SIGMASQ
+0.000258
+0.000036
+7.15396
+0.0000
+R-squared
+0.795251     Mean dependent var
+0.007414
+Adjusted R-squared
+0.774776     S.D. dependent var
+0.035680
+S.E. of regression
+0.016933     Akaike info criterion
+-5.221745
+Sum squared resid
+0.025805     Schwarz criterion
+-4.961228
+Log likelihood
+271.0872     Hannan-Quinn criter.
+-5.116309
+F-statistic
+38.84028     Durbin-Watson stat
+2.182316
+Prob(F-statistic)
+0.000000
+Inverted AR Roots
+-0.78
+Inverted MA Roots
+-0.92
+CONSOLIDATED EDISON COMPANY OF NEW YORK, INC.
+VOLUME FORECASTING MODELS
+
+
+--- Page 49 ---
+EXHIBIT ___ (EFP-1)
+PAGE 3 OF 6
+SC 8 (MULTIPLE DWELLINGS - REDISTRIBUTION)
+Dependent Variable: DLOG(GWH08/(BDA0),0,4)
+Method: ARMA Maximum Likelihood (OPG - BHHH)
+Sample: 1996Q4 2021Q3
+Included observations: 100
+Convergence achieved after 38 iterations
+Coefficient covariance computed using outer product of gradients
+Variable
+Coefficient
+Std. Error
+t-Statistic
+Prob.  
+DLOG(PRICE08(-4),0,4)
+-0.035271
+0.026617
+-1.32516
+0.1885
+D(WCDD0/BDA0,0,4)
+0.000386
+6.45E-05
+5.99527
+0.0000
+D(WCDD3/BDA0,0,4)
+7.22E-05
+7.29E-05
+0.99105
+0.3243
+D(WHDD0/BDA0,0,4)
+6.07E-05
+1.63E-05
+3.71988
+0.0003
+D(M_RESI,0,4)
+0.027088
+0.065306
+0.41478
+0.6793
+AR(1)
+0.993745
+0.013277
+74.8461
+0.0000
+SAR(4)
+-0.566793
+0.111669
+-5.07566
+0.0000
+MA(1)
+-0.727802
+0.085524
+-8.50996
+0.0000
+SMA(8)
+-0.416937
+0.148712
+-2.80366
+0.0062
+SIGMASQ
+0.000390
+6.24E-05
+6.25334
+0.0000
+R-squared
+0.84157     Mean dependent var
+-0.001981
+Adjusted R-squared
+0.82572     S.D. dependent var
+0.049858
+S.E. of regression
+0.02081     Akaike info criterion
+-4.782061
+Sum squared resid
+0.03899     Schwarz criterion
+-4.521544
+Log likelihood
+249.103     Hannan-Quinn criter.
+-4.676625
+Durbin-Watson stat
+1.86431
+Inverted AR Roots
+0.99
+     .61+.61i
+   .61+.61i
+-.61-.61i
+-.61-.61i
+Inverted MA Roots
+0.9
+0.73
+   .63-.63i
+ .63+.63i
+-.00-.90i
+    -.00+.90i
+  -.63-.63i
+-.63-.63i
+-0.9
+CONSOLIDATED EDISON COMPANY OF NEW YORK, INC.
+VOLUME FORECASTING MODELS
+
+
+--- Page 50 ---
+EXHIBIT ___ (EFP-1)
+PAGE 4 OF 6
+SC 9 (GENERAL - LARGE)
+Dependent Variable: DLOG((GWH09)/BDA0,0,4)
+Method: ARMA Maximum Likelihood (OPG - BHHH)
+Sample: 1996Q4 2021Q3
+Included observations: 100
+Convergence achieved after 59 iterations
+riance computed using outer product of gradients
+Variable
+Coefficient
+Std. Error
+t-Statistic
+Prob.  
+C
+-0.010182
+0.003340
+-3.04811
+0.0030
+DLOG(PRICE09(-4),0,4)
+-0.020877
+0.021341
+-0.97825
+0.3306
+DLOG(PNEMP_PSC,0,4)
+0.122236
+0.100804
+1.21261
+0.2285
+DLOG(NC09,0,4)
+1.406658
+0.198474
+7.08736
+0.0000
+D(WCDD0/BDA0,0,4)
+1.86E-04
+1.85E-05
+10.0447
+0.0000
+D(WHDD0/BDA0,0,4)
+4.92E-05
+7.91E-06
+6.22360
+0.0000
+D(M_WKPL,0,4)
+0.249423
+0.024178
+10.3163
+0.0000
+AR(1)
+0.447778
+0.110071
+4.06807
+0.0001
+SAR(4)
+-0.456078
+0.107594
+-4.23888
+0.0001
+MA(3)
+0.399296
+0.115683
+3.45164
+0.0009
+SIGMASQ
+0.000176
+3.03E-05
+5.79397
+0.0000
+R-squared
+0.888034     Mean dependent var
+0.002044
+Adjusted R-squared
+0.875454     S.D. dependent var
+0.039810
+S.E. of regression
+0.014050     Akaike info criterion
+-5.571826
+Sum squared resid
+0.017568     Schwarz criterion
+-5.285257
+Log likelihood
+289.5913     Hannan-Quinn criter.
+-5.455847
+F-statistic
+70.58861     Durbin-Watson stat
+2.004766
+Prob(F-statistic)
+0.000000
+Inverted AR Roots
+ .58+.58i
+     .58+.58i
+0.45
+-.58-.58i
+-.58-.58i
+Inverted MA Roots
+ .37-.64i
+     .37+.64i
+-0.74
+CONSOLIDATED EDISON COMPANY OF NEW YORK, INC.
+VOLUME FORECASTING MODELS
+
+
+--- Page 51 ---
+EXHIBIT ___ (EFP-1)
+PAGE 5 OF 6
+SC 12 (MULTIPLE DWELLING SPACE HEATING)
+Dependent Variable: DLOG(GWH12,0,12)
+Method: ARMA Maximum Likelihood (OPG - BHHH)
+Sample: 1996M10 2021M09
+Included observations: 300
+Convergence achieved after 41 iterations
+Coefficient covariance computed using outer product of gradients
+Variable
+Coefficient
+Std. Error
+t-Statistic
+Prob.  
+C
+-0.011249
+0.009565
+-1.17614
+0.2405
+D(CDD0,0,12)
+0.000314
+1.16E-04
+2.71490
+0.0070
+D(CDD0(-1),0,12)
+0.000446
+1.21E-04
+3.67429
+0.0003
+D(HDD0,0,12)
+0.000391
+5.34E-05
+7.31397
+0.0000
+D(HDD0(-1),0,12)
+0.000575
+0.000053
+10.7864
+0.0000
+DLOG(NC12,0,12)
+0.959799
+0.500978
+1.91585
+0.0564
+D(M_RESI,0,12)
+1.079799
+0.152160
+7.09648
+0.0000
+D(D201305,0,12)
+0.402512
+0.114477
+3.51611
+0.0005
+D(D2013M11,0,12)
+0.178377
+0.030744
+5.80209
+0.0000
+AR(1)
+0.161295
+0.060992
+2.64455
+0.0086
+SAR(6)
+0.957245
+0.038083
+25.1357
+0.0000
+MA(6)
+-0.729640
+0.071567
+-10.1953
+0.0000
+SMA(12)
+-0.771806
+0.063767
+-12.1036
+0.0000
+SIGMASQ
+0.005291
+0.00043
+12.3104
+0.0000
+R-squared
+0.73243     Mean dependent var
+-0.016079
+Adjusted R-squared
+0.72027     S.D. dependent var
+0.140858
+S.E. of regression
+0.07450     Akaike info criterion
+-2.285292
+Sum squared resid
+1.58736     Schwarz criterion
+-2.112449
+Log likelihood
+356.794     Hannan-Quinn criter.
+-2.216120
+F-statistic
+60.2209     Durbin-Watson stat
+2.058032
+Prob(F-statistic)
+0.00000
+Inverted AR Roots
+0.99
+     .50+.86i
+   .50-.86i
+0.16
+-.50+.86i
+    -.50-.86i
+-0.99
+Inverted MA Roots
+0.98
+0.95
+   .85+.49i
+ .85-.49i
+ .49-.85i
+     .49+.85i
+   .47-.82i
+ .47+.82i
+-.00-.98i
+    -.00+.98i
+  -.47+.82i
+-.47-.82i
+-.49-.85i
+    -.49+.85i
+  -.85+.49i
+-.85-.49i
+-0.95
+-0.98
+CONSOLIDATED EDISON COMPANY OF NEW YORK, INC.
+VOLUME FORECASTING MODELS
+
+
+--- Page 52 ---
+EXHIBIT ___ (EFP-1)
+PAGE 6 OF 6
+SENDOUT
+Dependent Variable: DLOG(GWHSO,0,4)
+Method: ARMA Maximum Likelihood (OPG - BHHH)
+Sample: 1996Q4 2021Q3
+Included observations: 100
+Convergence achieved after 31 iterations
+Coefficient covariance computed using outer product of gradients
+Variable
+Coefficient
+Std. Error
+t-Statistic
+Prob.  
+C
+-0.013305
+0.003941
+-3.37627
+0.0011
+DLOG(PRICE(-2),0,4)
+-0.011736
+0.022012
+-0.53315
+0.5953
+DLOG(EMP_PSC,0,4)
+0.196679
+0.174146
+1.12939
+0.2618
+DLOG(NCINDEX,0,4)
+1.831639
+3.10E-01
+5.90296
+0.0000
+D(CDD,0,4)
+2.72E-04
+1.68E-05
+16.1910
+0.0000
+D(HDD,0,4)
+0.000063
+0.000009
+6.96169
+0.0000
+D(MOB_INDEX,0,4)
+0.176857
+0.116430
+1.51900
+0.1323
+D(D201204,0,4)
+-0.032466
+0.009112
+-3.56298
+0.0006
+AR(1)
+0.591190
+0.090138
+6.55876
+0.0000
+MA(4)
+-0.551822
+0.099523
+-5.54466
+0.0000
+SIGMASQ
+0.000162
+2.72E-05
+5.94521
+0.0000
+R-squared
+0.887724     Mean dependent var
+0.003659
+Adjusted R-squared
+0.875109     S.D. dependent var
+0.038157
+S.E. of regression
+0.013484     Akaike info criterion
+-5.653656
+Sum squared resid
+0.016183     Schwarz criterion
+-5.367087
+Log likelihood
+293.6828     Hannan-Quinn criter.
+-5.537676
+F-statistic
+70.36890     Durbin-Watson stat
+1.981566
+Prob(F-statistic)
+0.000000
+Inverted AR Roots
+0.59
+Inverted MA Roots
+0.86
+     .00+.86i
+  -.00-.86i
+-0.86
+CONSOLIDATED EDISON COMPANY OF NEW YORK, INC.
+VOLUME FORECASTING MODELS
+
+
+--- Page 53 ---
+EXHIBIT ___ (EFP-2)
+CONSOLIDATED EDISON COMPANY OF NEW YORK, INC.
+ELECTRIC FORECASTING MODEL STATISTICS
+Adj R-Sqr *
+SER
+SC1
+0.9879
+2.1%
+SC2
+0.9701
+1.7%
+SC9
+0.9834
+1.4%
+* When the models are in differenced form, their Adj R-Sqr's are 
+lower than shown in the table, because differencing accounts 
+for a portion of the R-Sqr values.
+Notes: Adj R-Sqr represents R Square adjusted for degrees of freedom.
+SER represents Standard Error of Regression.
+1.970
+2.008
+Model Statistics For
+Durbin-Watson
+Electric Sales Volume Forecasting Models
+1.909
+
+
+--- Page 54 ---
+EXHIBIT ___ (EFP-3)
+PAGE 1 OF 5
+SC 1 (RESIDENTIAL AND RELIGIOUS)
+Dependent Variable: DLOG(NC01,0,4)
+Method: ARMA Maximum Likelihood (OPG - BHHH)
+Sample: 1996Q4 2021Q3
+Included observations: 100
+Convergence achieved after 230 iterations
+Coefficient covariance computed using outer product of gradients
+Variable
+Coefficient
+Std. Error
+t-Statistic
+Prob.  
+C
+0.004849
+0.001909
+2.53965
+0.0128
+DLOG(PNEMP_PSC(-2),0,4)
+0.017244
+0.026384
+0.65356
+0.5150
+D(M_RESI(-1),0,4)
+-0.016540
+0.003317
+-4.98629
+0.0000
+AR(1)
+0.830174
+0.085003
+9.76638
+0.0000
+SAR(4)
+-0.548780
+0.219149
+-2.50414
+0.0140
+MA(1)
+0.517216
+0.140070
+3.69254
+0.0004
+SIGMASQ
+3.56E-06
+3.29E-07
+10.8094
+0.0000
+R-squared
+0.861606     Mean dependent var
+0.004746
+Adjusted R-squared
+0.852678     S.D. dependent var
+0.005097
+S.E. of regression
+0.001956     Akaike info criterion
+-9.535573
+Sum squared resid
+0.000356     Schwarz criterion
+-9.353211
+Log likelihood
+483.7786     Hannan-Quinn criter.
+-9.461768
+F-statistic
+96.49937     Durbin-Watson stat
+1.360833
+Prob(F-statistic)
+0.000000
+Inverted AR Roots
+0.83
+     .61+.61i
+   .61+.61i
+-.61-.61i
+-.61-.61i
+Inverted MA Roots
+-0.52
+CONSOLIDATED EDISON COMPANY OF NEW YORK, INC.
+CUSTOMERS FORECASTING MODELS
+
+
+--- Page 55 ---
+EXHIBIT ___ (EFP-3)
+PAGE 2 OF 5
+SC 2 (GENERAL - SMALL)
+Dependent Variable: DLOG(NC02,0,4)
+Method: ARMA Maximum Likelihood (OPG - BHHH)
+Sample: 1996Q4 2021Q3
+Included observations: 100
+Convergence achieved after 102 iterations
+Coefficient covariance computed using outer product of gradients
+Variable
+Coefficient
+Std. Error
+t-Statistic
+Prob.  
+C
+0.014290
+0.009204
+1.55250
+0.1240
+DLOG(PNEMP_PSC,0,4)
+0.043593
+0.039862
+1.09360
+0.2770
+D(M_RNR,0,4)
+0.011459
+0.002371
+4.83367
+0.0000
+D(D2020Q3,0,4)
+-6.96E-03
+1.16E-03
+-6.02904
+0.0000
+AR(1)
+0.943184
+0.042579
+22.1513
+0.0000
+SAR(4)
+-0.635580
+0.107726
+-5.89995
+0.0000
+MA(1)
+0.871471
+0.061806
+14.1000
+0.0000
+SIGMASQ
+1.83E-05
+2.30E-06
+7.93991
+0.0000
+R-squared
+0.93248     Mean dependent var
+0.016768
+Adjusted R-squared
+0.92735     S.D. dependent var
+0.016540
+S.E. of regression
+0.00446     Akaike info criterion
+-7.844387
+Sum squared resid
+0.00183     Schwarz criterion
+-7.635973
+Log likelihood
+400.219     Hannan-Quinn criter.
+-7.760038
+F-statistic
+181.517     Durbin-Watson stat
+1.685267
+Prob(F-statistic)
+0.00000
+Inverted AR Roots
+0.94
+     .63-.63i
+   .63-.63i
+-.63+.63i
+-.63+.63i
+Inverted MA Roots
+-0.87
+CONSOLIDATED EDISON COMPANY OF NEW YORK, INC.
+CUSTOMERS FORECASTING MODELS
+
+
+--- Page 56 ---
+EXHIBIT ___ (EFP-3)
+PAGE 3 OF 5
+SC 8 (MULTIPLE DWELLINGS - REDISTRIBUTION)
+Dependent Variable: DLOG(NC08,0,4)
+Method: ARMA Maximum Likelihood (OPG - BHHH)
+Sample: 1996Q4 2021Q3
+Included observations: 100
+Convergence achieved after 19 iterations
+e computed using outer product of gradients
+Variable
+Coefficient
+Std. Error
+t-Statistic
+Prob.  
+D(D2007Q4,0,4)
+0.033488
+0.001847
+18.13238
+0.0000
+AR(1)
+0.892798
+0.042541
+20.98694
+0.0000
+SAR(4)
+-0.520030
+0.085776
+-6.062627
+0.0000
+SIGMASQ
+0.000005
+6.39E-07
+7.426198
+0.0000
+R-squared
+0.935921     Mean dependent var
+0.000549
+Adjusted R-squared
+0.933918     S.D. dependent var
+0.008651
+S.E. of regression
+0.002224     Akaike info criterion
+-9.317187
+Sum squared resid
+0.000475     Schwarz criterion
+-9.212980
+Log likelihood
+469.8593     Hannan-Quinn criter.
+-9.275013
+Durbin-Watson stat
+1.783791
+Inverted AR Roots
+0.89
+     .60+.60i
+   .60+.60i
+-.60-.60i
+-.60-.60i
+CONSOLIDATED EDISON COMPANY OF NEW YORK, INC.
+CUSTOMERS FORECASTING MODELS
+
+
+--- Page 57 ---
+EXHIBIT ___ (EFP-3)
+PAGE 4 OF 5
+SC 9 (GENERAL - LARGE)
+Dependent Variable: DLOG(NC09,0,4)
+Method: ARMA Maximum Likelihood (OPG - BHHH)
+Sample: 1996Q4 2021Q3
+Included observations: 100
+Convergence achieved after 32 iterations
+Coefficient covariance computed using outer product of gradients
+Variable
+Coefficient
+Std. Error
+t-Statistic
+Prob.  
+C
+0.011905
+0.006144
+1.937648
+0.0556
+D(M_WKPL(-1),0,4)
+0.013882
+0.001905
+7.288735
+0.0000
+AR(1)
+0.962365
+0.035014
+27.48490
+0.0000
+MA(1)
+0.238727
+0.134096
+1.780264
+0.0782
+SIGMASQ
+5.58E-06
+5.26E-07
+10.61048
+0.0000
+R-squared
+0.941316     Mean dependent var
+0.010946
+Adjusted R-squared
+0.938845     S.D. dependent var
+0.009798
+S.E. of regression
+0.002423     Akaike info criterion
+-9.128072
+Sum squared resid
+0.000558     Schwarz criterion
+-8.997814
+Log likelihood
+461.4036     Hannan-Quinn criter.
+-9.075354
+F-statistic
+380.9581     Durbin-Watson stat
+2.004705
+Prob(F-statistic)
+0.000000
+Inverted AR Roots
+0.96
+Inverted MA Roots
+-0.24
+CONSOLIDATED EDISON COMPANY OF NEW YORK, INC.
+CUSTOMERS FORECASTING MODELS
+
+
+--- Page 58 ---
+EXHIBIT ___ (EFP-3)
+PAGE 5 OF 5
+SC 12 (MULTIPLE DWELLING SPACE HEATING)
+Dependent Variable: DLOG(NC12,0,12)
+Method: ARMA Maximum Likelihood (OPG - BHHH)
+Sample: 1996M10 2021M09
+Included observations: 300
+Convergence achieved after 87 iterations
+Coefficient covariance computed using outer product of gradients
+Variable
+Coefficient
+Std. Error
+t-Statistic
+Prob.  
+C
+-0.007718
+0.002236
+-3.452233
+0.0006
+DLOG(PNEMP_PSC,0,12)
+0.027324
+0.018874
+1.447704
+0.1488
+AR(1)
+0.883728
+0.027368
+32.29001
+0.0000
+MA(6)
+-0.220938
+0.060021
+-3.681026
+0.0003
+SIGMASQ
+3.30E-05
+1.79E-06
+18.43615
+0.0000
+R-squared
+0.723709     Mean dependent var
+-0.006815
+Adjusted R-squared
+0.719963     S.D. dependent var
+0.010955
+S.E. of regression
+0.005797     Akaike info criterion
+-7.441043
+Sum squared resid
+0.009914     Schwarz criterion
+-7.379314
+Log likelihood
+1121.156     Hannan-Quinn criter.
+-7.416339
+F-statistic
+193.1788     Durbin-Watson stat
+2.088448
+Prob(F-statistic)
+0.000000
+Inverted AR Roots
+0.88
+Inverted MA Roots
+0.78
+     .39-.67i
+   .39+.67i
+-.39-.67i
+-.39+.67i
+-0.78
+CONSOLIDATED EDISON COMPANY OF NEW YORK, INC.
+CUSTOMERS FORECASTING MODELS
+
+
+--- Page 59 ---
+PRIVATE  NON-
+REAL DISPOSABLE
+MANUFACTURING
+PERSONAL INCOME
+YEAR
+QUARTER
+EMPLOYMENT ('000)
+(MILLION 2012 $)
+Service Area Employment
+SC 1
+SC 2
+SC 5
+SC 6
+SC 8
+SC 9
+SC 12
+SC 1
+SC 2
+SC 8
+SC 9
+M_RESI
+M_RNR
+M_WKPL
+2021
+Q4
+2,963.801
+448.761
+0.021
+3.398
+1.878
+132.268
+0.445
+3,308.6
+606,715.0
+9.709
+27.099
+7.368
+17.595
+0.064
+(0.164)
+(0.347)
+2022
+Q1
+2,966.628
+453.084
+0.021
+3.398
+1.874
+132.021
+0.449
+3,344.5
+607,748.6
+10.085
+27.102
+6.311
+17.697
+0.061
+(0.131)
+(0.318)
+2022
+Q2
+2,963.688
+456.131
+0.021
+3.398
+1.874
+132.106
+0.445
+3,397.0
+609,184.6
+9.441
+28.068
+6.596
+18.969
+0.058
+(0.098)
+(0.288)
+2022
+Q3
+2,967.159
+461.659
+0.021
+3.398
+1.875
+133.428
+0.439
+3,434.7
+610,362.9
+8.915
+27.879
+6.919
+19.823
+0.055
+(0.065)
+(0.259)
+2022
+Q4
+2,958.886
+468.667
+0.021
+3.398
+1.875
+132.576
+0.441
+3,465.4
+611,057.4
+9.709
+27.099
+7.368
+17.595
+0.053
+(0.033)
+(0.229)
+2023
+Q1
+2,962.077
+471.995
+0.021
+3.398
+1.873
+132.384
+0.445
+3,353.2
+611,674.9
+10.085
+27.102
+6.311
+17.697
+0.050
+0.000
+(0.200)
+2023
+Q2
+2,968.527
+471.337
+0.021
+3.398
+1.874
+132.523
+0.441
+3,380.6
+612,972.6
+9.441
+28.068
+6.596
+18.969
+0.050
+0.000
+(0.200)
+2023
+Q3
+2,983.823
+469.065
+0.021
+3.398
+1.875
+133.847
+0.436
+3,396.1
+615,392.1
+8.915
+27.879
+6.919
+19.823
+0.050
+0.000
+(0.200)
+2023
+Q4
+2,984.783
+470.996
+0.021
+3.398
+1.876
+132.987
+0.437
+3,386.2
+618,913.3
+9.709
+27.099
+7.368
+17.595
+0.050
+0.000
+(0.200)
+2024
+Q1
+2,987.898
+474.835
+0.021
+3.398
+1.873
+132.789
+0.442
+3,388.2
+622,701.9
+10.085
+27.102
+6.311
+17.697
+0.050
+0.000
+(0.200)
+2024
+Q2
+2,988.649
+476.104
+0.021
+3.398
+1.873
+132.920
+0.438
+3,397.7
+626,253.3
+9.441
+28.068
+6.596
+18.969
+0.050
+0.000
+(0.200)
+2024
+Q3
+2,997.931
+478.153
+0.021
+3.398
+1.874
+134.293
+0.432
+3,351.1
+628,997.6
+8.915
+27.879
+6.919
+19.823
+0.050
+0.000
+(0.200)
+2024
+Q4
+2,993.213
+483.053
+0.021
+3.398
+1.875
+133.474
+0.434
+3,345.3
+630,796.5
+9.709
+27.099
+7.368
+17.595
+0.050
+0.000
+(0.200)
+2025
+Q1
+2,995.186
+486.755
+0.021
+3.398
+1.872
+133.316
+0.438
+3,334.1
+631,895.0
+10.085
+27.102
+6.311
+17.697
+0.050
+0.000
+(0.200)
+2025
+Q2
+2,998.755
+486.328
+0.021
+3.398
+1.873
+133.488
+0.434
+3,305.6
+632,562.6
+9.441
+28.068
+6.596
+18.969
+0.050
+0.000
+(0.200)
+2025
+Q3
+3,012.185
+485.638
+0.021
+3.398
+1.874
+134.905
+0.429
+3,328.2
+633,136.8
+8.915
+27.879
+6.919
+19.823
+0.050
+0.000
+(0.200)
+2025
+Q4
+3,009.834
+488.740
+0.021
+3.398
+1.875
+134.120
+0.430
+3,344.9
+633,721.7
+9.709
+27.099
+7.368
+17.595
+0.050
+0.000
+(0.200)
+PAGE 1 OF 3
+ EXHIBIT ___ (EFP-4)
+NUMBER OF CUSTOMERS ('000) 
+REAL ELECTRIC PRICE (c/KWHR)
+DEVIATION OF MOBILITY FROM BASE PERIOD
+RATIO VARIABLE (COVID IMPACT)
+CONSOLIDATED EDISON COMPANY OF NEW YORK, INC.
+CECONY ECONOMIC ASSUMPTIONS
+
+
+--- Page 60 ---
+EXHIBIT ___ (EFP-4)
+PAGE 2 OF 3
+TOTAL NON-
+MANUFACTURING
+YEAR
+MONTH
+EMPLOYMENT (1,000)
+DEVIATION OF MOBILITY FROM BASE PERIOD
+DEVIATION OF PASSENGERS FROM BASE PERIOD
+Service Area Employment
+D_RNR
+D_PASSG
+2021
+M10
+4,647.7
+(0.179)
+3,277,713
+2021
+M11
+4,687.1
+(0.167)
+2,982,224
+2021
+M12
+4,661.3
+(0.155)
+3,406,090
+2022
+M01
+4,556.4
+(0.143)
+3,193,069
+2022
+M02
+4,615.4
+(0.131)
+2,924,030
+2022
+M03
+4,672.6
+(0.119)
+3,716,904
+2022
+M04
+4,721.1
+(0.107)
+3,882,342
+2022
+M05
+4,761.4
+(0.095)
+4,229,855
+2022
+M06
+4,807.2
+(0.083)
+4,424,356
+2022
+M07
+4,822.1
+(0.071)
+4,771,400
+2022
+M08
+4,803.3
+(0.060)
+4,912,604
+2022
+M09
+4,766.6
+(0.048)
+4,295,925
+2022
+M10
+4,877.6
+(0.036)
+4,390,116
+2022
+M11
+4,901.4
+(0.024)
+3,966,506
+2022
+M12
+4,857.2
+(0.012)
+4,500,177
+2023
+M01
+4,730.9
+0.000
+4,191,991
+2023
+M02
+4,775.9
+0.000
+3,741,251
+2023
+M03
+4,818.8
+0.000
+4,637,883
+2023
+M04
+4,852.0
+0.000
+4,727,183
+2023
+M05
+4,876.6
+0.000
+5,028,729
+2023
+M06
+4,906.7
+0.000
+5,138,651
+2023
+M07
+4,911.4
+0.000
+5,416,792
+2023
+M08
+4,889.0
+0.000
+5,454,139
+2023
+M09
+4,848.3
+0.000
+4,666,597
+2023
+M10
+4,958.0
+0.000
+4,668,217
+2023
+M11
+4,979.0
+0.000
+4,130,553
+2023
+M12
+4,930.7
+0.000
+4,591,351
+2024
+M01
+4,799.3
+0.000
+4,191,991
+2024
+M02
+4,842.0
+0.000
+3,741,251
+2024
+M03
+4,882.5
+0.000
+4,637,883
+2024
+M04
+4,912.9
+0.000
+4,727,183
+2024
+M05
+4,934.7
+0.000
+5,028,729
+2024
+M06
+4,961.9
+0.000
+5,138,651
+2024
+M07
+4,963.3
+0.000
+5,416,792
+2024
+M08
+4,937.4
+0.000
+5,454,139
+2024
+M09
+4,893.1
+0.000
+4,666,597
+2024
+M10
+5,000.5
+0.000
+4,668,217
+2024
+M11
+5,018.3
+0.000
+4,130,553
+2024
+M12
+4,966.4
+0.000
+4,591,351
+2025
+M01
+4,830.8
+0.000
+4,191,991
+2025
+M02
+4,870.6
+0.000
+3,741,251
+2025
+M03
+4,908.1
+0.000
+4,637,883
+2025
+M04
+4,935.5
+0.000
+4,727,183
+2025
+M05
+4,954.0
+0.000
+5,028,729
+2025
+M06
+4,978.1
+0.000
+5,138,651
+2025
+M07
+4,977.4
+0.000
+5,416,792
+2025
+M08
+4,950.5
+0.000
+5,454,139
+2025
+M09
+4,905.3
+0.000
+4,666,597
+2025
+M10
+5,012.0
+0.000
+4,668,217
+2025
+M11
+5,029.0
+0.000
+4,130,553
+2025
+M12
+4,976.1
+0.000
+4,591,351
+RATIO VARIABLE (COVID IMPACT)
+CONSOLIDATED EDISON COMPANY OF NEW YORK, INC.
+NYPA and KIAC ECONOMIC ASSUMPTIONS
+
+
+--- Page 61 ---
+REAL DISPOSABLE
+TOTAL EMPLOYMENT
+PERSONAL INCOME
+REAL ELECTRIC PRICE 
+INDEX OF RATIO VARIABLES (COVID IMPACT)
+YEAR
+QUARTER
+NUMBER OF CUSTOMERS INDEX
+('000)
+(MILLION 2012 $)
+(c/KWHR)
+DEVIATION OF MOBILITY FROM BASE PERIOD
+Service Area Employment
+NCINDEX
+EMP_PSC
+DPYR
+PRICE
+MOB_INDEX
+2021
+Q4
+1.003
+4,677.3
+602,466.9
+8.795
+(0.220)
+2022
+Q1
+1.010
+4,626.7
+602,879.7
+9.018
+(0.199)
+2022
+Q2
+1.009
+4,775.5
+604,742.5
+8.899
+(0.183)
+2022
+Q3
+1.010
+4,809.7
+608,519.0
+8.758
+(0.141)
+2022
+Q4
+1.007
+4,891.0
+613,968.7
+8.795
+(0.139)
+2023
+Q1
+1.014
+4,787.3
+620,130.3
+9.018
+(0.117)
+2023
+Q2
+1.013
+4,890.8
+626,231.1
+8.899
+(0.120)
+2023
+Q3
+1.014
+4,895.3
+631,695.1
+8.758
+(0.103)
+2023
+Q4
+1.011
+4,968.2
+636,121.0
+8.795
+(0.117)
+2024
+Q1
+1.018
+4,853.4
+639,618.3
+9.018
+(0.116)
+2024
+Q2
+1.017
+4,948.8
+642,573.1
+8.899
+(0.121)
+2024
+Q3
+1.017
+4,943.6
+645,280.6
+8.758
+(0.104)
+2024
+Q4
+1.014
+5,007.2
+647,795.3
+8.795
+(0.118)
+2025
+Q1
+1.021
+4,881.8
+649,936.9
+9.018
+(0.117)
+2025
+Q2
+1.020
+4,968.1
+651,484.6
+8.899
+(0.121)
+2025
+Q3
+1.021
+4,956.6
+652,366.9
+8.758
+(0.104)
+2025
+Q4
+1.018
+5,017.7
+652,603.4
+8.795
+(0.118)
+PAGE 3 OF 3
+ EXHIBIT ___ (EFP-4)
+CONSOLIDATED EDISON COMPANY OF NEW YORK, INC.
+SENDOUT ECONOMIC ASSUMPTIONS
+
+
+--- Page 62 ---
+EXHIBIT ___ (EFP-5)
+PAGE 1 OF 3
+Dependent Variable: DLOG(GWH91,0,12)
+Method: ARMA Maximum Likelihood (OPG - BHHH)
+Sample: 1997M01 2021M09
+Included observations: 297
+Convergence achieved after 16 iterations
+Coefficient covariance computed using outer product of gradients
+Variable
+Coefficient
+Std. Error
+t-Statistic
+Prob.  
+C
+0.024076
+0.000717
+33.58314
+0.0000
+D(WHDD,0,12)
+0.000164
+2.90E-05
+5.662064
+0.0000
+D(WCDD,0,12)
+0.000473
+7.79E-05
+6.071184
+0.0000
+DLOG(TR18,0,12)
+0.349155
+0.059624
+5.855955
+0.0000
+D2009
+-0.030767
+0.001276
+-24.11332
+0.0000
+D(D_RNR,0,12)
+0.226655
+0.022209
+10.20575
+0.0000
+MA(12)
+-0.881271
+0.041563
+-21.20310
+0.0000
+SIGMASQ
+0.001550
+0.000120
+12.87928
+0.0000
+R-squared
+0.603860     Mean dependent var
+0.004840
+Adjusted R-squared
+0.594265     S.D. dependent var
+0.062660
+S.E. of regression
+0.039913     Akaike info criterion
+-3.517181
+Sum squared resid
+0.460381     Schwarz criterion
+-3.417686
+Log likelihood
+530.3013     Hannan-Quinn criter.
+-3.477349
+F-statistic
+62.93432     Durbin-Watson stat
+2.158353
+Prob(F-statistic)
+0.000000
+Inverted MA Roots
+0.99
+     .86+.49i
+   .86-.49i
+ .49+.86i
+ .49-.86i
+    -.00-.99i
+  -.00+.99i
+-.49-.86i
+-.49+.86i
+    -.86+.49i
+  -.86-.49i
+-0.99
+CONSOLIDATED EDISON COMPANY OF NEW YORK, INC.
+NYPA VOLUME FORECASTING MODELS
+
+
+--- Page 63 ---
+EXHIBIT ___ (EFP-5)
+PAGE 2 OF 3
+Dependent Variable: DLOG(GWH62,0,12)
+Method: ARMA Maximum Likelihood (OPG - BHHH)
+Sample: 1997M02 2021M09
+Included observations: 296
+Convergence achieved after 139 iterations
+riance computed using outer product of gradients
+Variable
+Coefficient
+Std. Error
+t-Statistic
+Prob.  
+C
+-0.018106
+0.007483
+-2.419542
+0.0162
+DLOG(TNEMP(-1),0,12)
+0.622044
+0.345236
+1.801792
+0.0726
+DLOG(TRAVG,0,12)
+4.560385
+1.367673
+3.334413
+0.0010
+D2010M06M07
+0.072468
+0.021424
+3.382516
+0.0008
+D1997TO10
+-0.033228
+0.008602
+-3.862850
+0.0001
+AR(1)
+0.147025
+0.042776
+3.437080
+0.0007
+MA(12)
+-0.885769
+0.044952
+-19.70467
+0.0000
+SIGMASQ
+0.040321
+0.002299
+17.53685
+0.0000
+R-squared
+0.304138     Mean dependent var
+-0.013191
+Adjusted R-squared
+0.287224     S.D. dependent var
+0.241122
+S.E. of regression
+0.203570     Akaike info criterion
+-0.256732
+Sum squared resid
+11.93488     Schwarz criterion
+-0.156993
+Log likelihood
+45.99637     Hannan-Quinn criter.
+-0.216799
+F-statistic
+17.98214     Durbin-Watson stat
+2.096015
+Prob(F-statistic)
+0.000000
+Inverted AR Roots
+0.15
+Inverted MA Roots
+0.99
+     .86+.49i
+   .86-.49i
+ .49+.86i
+ .49-.86i
+     .00-.99i
+  -.00+.99i
+-.49-.86i
+-.49+.86i
+    -.86-.49i
+  -.86+.49i
+-0.99
+CONSOLIDATED EDISON COMPANY OF NEW YORK, INC.
+NYPA VOLUME FORECASTING MODELS
+
+
+--- Page 64 ---
+EXHIBIT ___ (EFP-5)
+PAGE 3 OF 3
+Dependent Variable: DLOG((GWHKIAC/TR02),0,12)
+Method: ARMA Maximum Likelihood (OPG - BHHH)
+Sample: 2000M01 2021M09
+Included observations: 261
+Convergence achieved after 114 iterations
+Coefficient covariance computed using outer product of gradients
+Variable
+Coefficient
+Std. Error
+t-Statistic
+Prob.  
+C
+-0.003457
+0.003474
+-0.995087
+0.3206
+D(HDD(-1)/TR02,0,12)
+0.002949
+0.001108
+2.660746
+0.0083
+D(CDD(-1)/TR02,0,12)
+0.004293
+0.001896
+2.263955
+0.0244
+DLOG(D_PASSG(-1),0,12)
+0.063125
+0.010173
+6.205030
+0.0000
+AR(1)
+-0.487349
+0.044457
+-10.96216
+0.0000
+SAR(1)
+0.861111
+0.033272
+25.88062
+0.0000
+MA(12)
+-0.858842
+0.033658
+-25.51668
+0.0000
+SIGMASQ
+0.002802
+0.000148
+18.90691
+0.0000
+R-squared
+0.575786     Mean dependent var
+-0.007352
+Adjusted R-squared
+0.564049     S.D. dependent var
+0.081428
+S.E. of regression
+0.053764     Akaike info criterion
+-2.914422
+Sum squared resid
+0.731319     Schwarz criterion
+-2.805164
+Log likelihood
+388.3320     Hannan-Quinn criter.
+-2.870504
+F-statistic
+49.05676     Durbin-Watson stat
+2.212898
+Prob(F-statistic)
+0.000000
+Inverted AR Roots
+0.86
+-0.49
+Inverted MA Roots
+0.99
+     .86-.49i
+   .86+.49i
+ .49-.86i
+ .49+.86i
+     .00+.99i
+  -.00-.99i
+-.49-.86i
+-.49+.86i
+    -.86+.49i
+  -.86-.49i
+-0.99
+CONSOLIDATED EDISON COMPANY OF NEW YORK, INC.
+NYPA VOLUME FORECASTING MODELS
+
+
+--- Page 65 ---
+Total Con Ed
+Total NYPA
+SC 1
+SC 2
+SC 5 
+SC 8
+SC 9
+SC 12
+Impact
+Impact
+PERIOD
+3 months ending December 2021
+(42)
+(3)
+0
+0
+(27)
+0
+(72)
+(16)
+12 months ending December 2022
+(230)
+(15)
+0
+(3)
+(147)
+0
+(395)
+(85)
+12 months ending December 2023
+(424)
+(27)
+0
+(12)
+(269)
+0
+(732)
+(174)
+12 months ending December 2024
+(639)
+(39)
+0
+(12)
+(402)
+0
+(1,092)
+(242)
+12 months ending December 2025
+(926)
+(54)
+0
+(15)
+(582)
+0
+(1,577)
+(354)
+PAGE 1 OF 10
+   EXHIBIT ___ (EFP-6)
+Impact of DSM on Delivery Volume - GWh
+Con Ed DSM Impact
+CONSOLIDATED EDISON COMPANY OF NEW YORK, INC.
+DELIVERY VOLUME ADJUSTMENTS
+
+
+--- Page 66 ---
+Total Con Ed
+Total NYPA 
+TOTAL
+SC 1
+SC 2
+SC 5
+SC 8
+SC 9
+SC 12
+Standby
+Impact
+Impact
+Impact
+PERIOD
+3 months ending December 2021
+(9)
+0
+0
+0
+(6)
+0
+0
+(15)
+(1)
+(16)
+12 months ending December 2022
+(56)
+0
+0
+0
+(58)
+0
+0
+(114)
+(5)
+(119)
+12 months ending December 2023
+(98)
+0
+0
+0
+(104)
+0
+0
+(202)
+(9)
+(211)
+12 months ending December 2024
+(136)
+0
+0
+0
+(141)
+0
+0
+(277)
+(12)
+(289)
+12 months ending December 2025
+(174)
+0
+0
+0
+(181)
+0
+0
+(355)
+(16)
+(371)
+   EXHIBIT ___ (EFP-6)
+PAGE 2 OF 10
+CONSOLIDATED EDISON COMPANY OF NEW YORK, INC.
+DELIVERY VOLUME ADJUSTMENTS
+Total Impact of Solar Generation on Delivery Volume - GWh
+ Impact of Solar Generation on Con Ed Delivery Volume
+
+
+--- Page 67 ---
+Total Con Ed
+Total NYPA 
+TOTAL
+SC 1
+SC 2
+SC 5
+SC 8
+SC 9
+SC 12
+Standby
+Impact
+Impact
+Impact
+PERIOD
+3 months ending December 2021
+0
+0
+0
+0
+0
+0
+0
+0
+0
+0
+12 months ending December 2022
+(41)
+(12)
+0
+(2)
+(71)
+0
+0
+(126)
+0
+(126)
+12 months ending December 2023
+(39)
+(12)
+0
+(1)
+(72)
+0
+0
+(124)
+0
+(124)
+12 months ending December 2024
+(40)
+(12)
+0
+(1)
+(72)
+0
+0
+(125)
+0
+(125)
+12 months ending December 2025
+(41)
+(12)
+0
+(1)
+(71)
+0
+0
+(125)
+0
+(125)
+   EXHIBIT ___ (EFP-6)
+PAGE 3 OF 10
+CONSOLIDATED EDISON COMPANY OF NEW YORK, INC.
+DELIVERY VOLUME ADJUSTMENTS
+Total Impact of Conservation Voltage Optimization on Delivery Volume - GWh
+ Impact of Conservation Voltage Optimization on Con Ed Delivery Volume
+
+
+--- Page 68 ---
+Total Con Ed
+Total NYPA 
+TOTAL
+SC 1
+SC 2
+SC 5
+SC 8
+SC 9
+SC 12
+Standby
+Impact
+Impact
+Impact
+PERIOD
+3 months ending December 2021
+0
+0
+0
+0
+1
+0
+0
+1
+0
+1
+12 months ending December 2022
+0
+0
+0
+2
+8
+0
+0
+10
+0
+10
+12 months ending December 2023
+0
+0
+0
+0
+17
+0
+0
+17
+0
+17
+12 months ending December 2024
+0
+0
+0
+1
+21
+0
+0
+22
+0
+22
+12 months ending December 2025
+0
+0
+0
+0
+27
+0
+0
+27
+0
+27
+   EXHIBIT ___ (EFP-6)
+PAGE 4 OF 10
+CONSOLIDATED EDISON COMPANY OF NEW YORK, INC.
+DELIVERY VOLUME ADJUSTMENTS
+Total Impact of Steam Air-Conditioning Conversions on Delivery Volume - GWh
+ Impact of Steam AC on Con Ed Delivery Volume
+
+
+--- Page 69 ---
+Total Con Ed
+Total NYPA 
+TOTAL
+SC 1
+SC 2
+SC 5
+SC 8
+SC 9
+SC 12
+Standby
+Impact
+Impact
+Impact
+PERIOD
+3 months ending December 2021
+8
+3
+0
+0
+0
+0
+0
+11
+2
+13
+12 months ending December 2022
+33
+15
+0
+0
+3
+0
+0
+51
+9
+60
+12 months ending December 2023
+61
+27
+0
+8
+12
+0
+0
+108
+19
+127
+12 months ending December 2024
+106
+39
+0
+12
+15
+0
+0
+172
+29
+201
+12 months ending December 2025
+151
+53
+0
+14
+24
+0
+0
+242
+38
+280
+   EXHIBIT ___ (EFP-6)
+PAGE 5 OF 10
+CONSOLIDATED EDISON COMPANY OF NEW YORK, INC.
+DELIVERY VOLUME ADJUSTMENTS
+Total Impact of Electric Vehicles on Delivery Volume - GWh
+ Impact of Electric Vehicles on Con Ed Delivery Volume
+
+
+--- Page 70 ---
+Total Con Ed
+Total NYPA 
+TOTAL
+SC 1
+SC 2
+SC 5
+SC 8
+SC 9
+SC 12
+Standby
+Impact
+Impact
+Impact
+PERIOD
+3 months ending December 2021
+0
+0
+0
+0
+0
+0
+0
+0
+0
+0
+12 months ending December 2022
+3
+1
+0
+0
+16
+0
+0
+20
+2
+22
+12 months ending December 2023
+9
+2
+0
+0
+42
+0
+0
+53
+6
+59
+12 months ending December 2024
+12
+3
+0
+0
+56
+0
+0
+71
+7
+78
+12 months ending December 2025
+15
+3
+0
+0
+72
+0
+0
+90
+9
+99
+   EXHIBIT ___ (EFP-6)
+PAGE 6 OF 10
+CONSOLIDATED EDISON COMPANY OF NEW YORK, INC.
+DELIVERY VOLUME ADJUSTMENTS
+Total Impact of Electrification of Heat on Delivery Volume - GWh
+ Impact of Electrification of Heat on Con Ed Delivery Volume
+
+
+--- Page 71 ---
+Total Con Ed
+Total NYPA 
+TOTAL
+SC 1
+SC 2
+SC 5
+SC 8
+SC 9
+SC 12
+Standby
+Impact
+Impact
+Impact
+PERIOD
+3 months ending December 2021
+0
+0
+0
+0
+0
+0
+0
+0
+0
+0
+12 months ending December 2022
+14
+3
+0
+2
+2
+0
+0
+21
+0
+21
+12 months ending December 2023
+24
+4
+0
+3
+3
+0
+0
+34
+2
+36
+12 months ending December 2024
+39
+7
+0
+4
+4
+0
+0
+54
+4
+58
+12 months ending December 2025
+61
+12
+0
+7
+7
+0
+0
+87
+4
+91
+   EXHIBIT ___ (EFP-6)
+PAGE 7 OF 10
+CONSOLIDATED EDISON COMPANY OF NEW YORK, INC.
+DELIVERY VOLUME ADJUSTMENTS
+Total Impact of Electrification of Cooking, Hot Water, and Dryers on Delivery Volume - GWh
+ Impact of  Electrification of Appliances on Con Ed Delivery Volume
+
+
+--- Page 72 ---
+Total Con Ed
+Total NYPA
+SC 1
+SC 2
+SC 5 
+SC 8
+SC 9
+SC 12
+Impact
+Impact
+PERIOD
+3 months ending December 2021
+0
+0
+0
+0
+0
+0
+0
+0
+12 months ending December 2022
+0
+0
+0
+0
+0
+0
+0
+0
+12 months ending December 2023
+0
+0
+0
+0
+0
+0
+0
+0
+12 months ending December 2024
+0
+0
+0
+0
+1
+0
+1
+0
+12 months ending December 2025
+1
+0
+0
+0
+1
+0
+2
+0
+PAGE 8 OF 10
+   EXHIBIT ___ (EFP-6)
+CONSOLIDATED EDISON COMPANY OF NEW YORK, INC.
+DELIVERY VOLUME ADJUSTMENTS
+Impact of Battery Storage on Delivery Volume - GWh
+ Impact of  Battery Storage on Con Ed Delivery Volume
+
+
+--- Page 73 ---
+Total Con Ed
+Total NYPA 
+TOTAL
+SC 1
+SC 2
+SC 5 
+SC 8
+SC 9
+SC 12
+Standby
+Impact
+NYPA
+NYPA Standby
+Impact
+Impact
+PERIOD
+3 months ending December 2021
+0
+0
+0
+5
+4
+0
+0
+9
+0
+0
+0
+9
+12 months ending December 2022
+0
+0
+0
+24
+35
+0
+0
+59
+3
+0
+3
+62
+12 months ending December 2023
+0
+0
+0
+23
+38
+0
+0
+61
+9
+0
+9
+70
+12 months ending December 2024
+0
+0
+0
+24
+39
+0
+0
+63
+11
+0
+11
+74
+12 months ending December 2025
+0
+0
+0
+23
+39
+0
+0
+62
+8
+0
+8
+70
+   EXHIBIT ___ (EFP-6)
+PAGE 9 OF 10
+CONSOLIDATED EDISON COMPANY OF NEW YORK, INC.
+DELIVERY VOLUME ADJUSTMENTS
+Total Impact of Hudson Yards on Delivery Volume - GWh
+ Impact of Hudson Yards on Con Ed Delivery Volume
+Impact on NYPA
+
+
+--- Page 74 ---
+Total Con Ed
+Total NYPA 
+TOTAL
+SC 1
+SC 2
+SC 5 
+SC 8
+SC 9
+SC 12
+Standby
+Impact
+Impact
+Impact
+PERIOD
+3 months ending December 2021
+0
+0
+0
+0
+(69)
+(1)
+0
+(70)
+0
+(70)
+12 months ending December 2022
+0
+0
+0
+(4)
+(278)
+(4)
+0
+(286)
+0
+(286)
+12 months ending December 2023
+0
+0
+0
+(4)
+(278)
+(4)
+0
+(286)
+(18)
+(304)
+12 months ending December 2024
+0
+0
+0
+(4)
+(278)
+(4)
+0
+(286)
+(42)
+(328)
+12 months ending December 2025
+0
+0
+0
+(4)
+(278)
+(4)
+0
+(286)
+(57)
+(343)
+   EXHIBIT ___ (EFP-6)
+PAGE 10 OF 10
+CONSOLIDATED EDISON COMPANY OF NEW YORK, INC.
+DELIVERY VOLUME ADJUSTMENTS
+ Impact of Standby Service on Con Ed Delivery Volume
+Total Impact of Standby Service on Delivery Volume - GWh
+
+
+--- Page 75 ---
+FORECASTED
+3 Months Ending
+Year Ending
+Year Ending
+Year Ending
+Year Ending
+12/31/2021
+12/31/2022
+12/31/2023
+12/31/2024
+12/31/2025
+(1)
+(2)
+(3)
+(4)
+(5)
+SENDOUT ‐ MILLION KILOWATTHOURS
+1
+CON EDISON CUSTOMERS
+10,154
+44,816
+44,804
+44,575
+43,817
+2
+RNY (Below the Allocation)
+87
+402
+404
+403
+401
+3
+NYPA CUSTOMERS
+2,386
+10,027
+10,061
+9,849
+9,568
+4
+                     TOTAL
+12,627
+55,245
+55,269
+54,827
+53,786
+ 
+DELIVERY VOLUMES ‐ MILLION KILOWATTHOURS
+5
+CON EDISON CUSTOMERS
+9,513
+41,013
+40,823
+40,568
+39,990
+6
+RNY (Below the Allocation) CUSTOMERS
+171
+677
+677
+677
+677
+7
+NYPA CUSTOMERS
+2,252
+9,340
+9,358
+9,229
+9,043
+8
+                     TOTAL
+11,936
+51,030
+50,858
+50,474
+49,710
+REVENUES ‐ $1,000
+9
+CON EDISON CUSTOMERS
+10
+       NON COMPETITIVE DELIVERY REVENUES AT CURRENT RATES *
+$1,121,583
+$5,191,783
+$5,168,378
+$5,154,283
+$5,101,694
+11
+       COMPETITIVE DELIVERY REVENUES AT CURRENT RATES
+24,046
+103,465
+102,828
+102,540
+101,689
+12
+       MSC, MAC, AND DLM REVENUES
+422,760
+2,131,038
+2,081,359
+2,090,153
+2,153,967
+13
+       REACTIVE POWER REVENUES
+1,091
+4,160
+4,160
+4,160
+4,160
+14
+       SBC AND RPS REVENUES
+51,657
+206,648
+197,819
+184,265
+220,212
+15
+              SUB‐TOTAL
+1,621,137
+7,637,094
+7,554,544
+7,535,401
+7,581,722
+16
+RNY (Below the Allocation) DELIVERY REVENUE AT CURRENT RATES
+8,845
+37,019
+37,019
+37,019
+37,019
+17
+NYPA DELIVERY REVENUE AT CURRENT RATES
+151,466
+660,272
+661,832
+656,655
+642,354
+18
+       REACTIVE POWER REVENUES
+574
+2,186
+2,186
+2,186
+2,186
+19
+       DLM REVENUES
+0
+0
+0
+0
+0
+20
+REVENUE TAXES
+63,091
+294,774
+282,053
+281,964
+283,397
+21
+              SUB‐TOTAL
+$223,976
+$994,251
+$983,090
+$977,824
+$964,956
+22
+CON EDISON LOW INCOME DISCOUNT (INCLUDING REVENUE TAX)
+($18,637)
+($73,737)
+($73,591)
+($73,599)
+($73,656)
+23
+                     TOTAL
+$1,826,476
+$8,557,608
+$8,464,043
+$8,439,626
+$8,473,022
+PROPOSED RATE INCREASE ‐ ANNUALIZED
+24
+CON EDISON CUSTOMERS
+$1,070,439
+25
+RNY (Below the Allocation) CUSTOMERS
+$6,763
+26
+NYPA CUSTOMERS
+136,704
+27
+REVENUE TAXES
+37,288
+28
+CON EDISON LOW INCOME DISCOUNT
+(48,619)
+29
+      TOTAL PROPOSED RATE INCREASE
+$1,202,575
+30
+GRAND TOTAL
+$1,826,476
+$8,557,608
+$9,666,618
+$8,439,626
+$8,473,022
+* Delivery Revenues at Current Rates do not reflect the Low Income Discount
+FORECASTED 3 MONTHS ENDING DECEMBER 31, 2021 AND YEARS ENDING DECEMBER 31, 2022, DECEMBER 31, 2023, DECEMBER 31, 2024, AND DECEMBER 31, 2025
+ELECTRIC SENDOUT, SALES VOLUMES AND REVENUES FROM SALES VOLUMES
+CONSOLIDATED EDISON COMPANY OF NEW YORK, INC.
+EXHIBIT ___ (EFP‐7)
+Page 1 of 1
+
+
+--- Page 76 ---
+SUM OF
+NON COMPETITIVE
+MONTHLY
+DELIVERY
+COMPETITIVE
+TOTAL
+VOLUMES
+BILLABLE
+REVENUES
+SERVICE
+REACTIVE
+MSC, MAC,
+REVENUE
+(MILLION
+DEMAND
+AT CURRENT
+RATES
+POWER
+AND DLM
+AT CURRENT
+CATEGORY
+SC NO.
+DESCRIPTION
+KWHR)
+(MW)
+RATES
+BPP/MFC
+REVENUE
+SBC/RPS
+REVENUES
+REVENUE TAX
+RATES
+(1)
+(2)
+(3)
+(4)
+(5)
+(6)
+(7)
+(8)
+(9)
+CON EDISON CUSTOMERS
+1
+1
+RESIDENTIAL & RELIGIOUS 
+3,016
+$515,628
+$18,460
+$0
+$17,278
+$213,724
+$25,368
+$790,458
+2
+GENERAL SMALL
+553
+108,702
+2,742
+0
+2,699
+29,360
+5,349
+148,852
+8
+MULT. DWELL. REDISTRIBUTION
+380
+825
+33,260
+133
+44
+2,112
+11,485
+1,634
+48,668
+9
+GENERAL LARGE
+5,395
+13,546
+450,672
+2,677
+981
+28,653
+164,577
+22,186
+669,746
+12
+MULT. DWELL. SPACE HEATING
+63
+148
+4,764
+13
+5
+356
+1,797
+235
+7,170
+13
+BULK POWER ‐ H. T. ‐ HOUSING DEVEL.
+   
+   
+   
+   
+   
+   
+   
+   
+   
+2
+TOTAL COMMERCIAL & INDUSTRIAL
+6,391
+14,519
+597,398
+5,565
+1,030
+33,820
+207,219
+29,404
+874,436
+5
+RAILROADS
+27
+55
+972
+0
+8
+141
+439
+48
+1,608
+6
+STREET LIGHTING
+3
+593
+12
+0
+16
+226
+29
+876
+3
+TOTAL PUBLIC AUTHORITY
+30
+55
+1,565
+12
+8
+157
+665
+77
+2,484
+4
+STANDBY SERVICE *
+76
+597
+6,992
+9
+53
+402
+1,152
+347
+8,955
+5
+TOTAL CON EDISON CUSTOMERS
+9,513
+15,171
+1,121,583
+24,046
+1,091
+51,657
+422,760
+55,196
+1,676,333
+6
+RECHARGE NEW YORK (Below Allocation)
+171
+327
+8,845
+433
+9,278
+7
+NYPA CUSTOMERS
+2,252
+4,907
+151,466
+574
+0
+7,462
+159,502
+8
+SUBTOTAL SYSTEM
+11,936
+20,405
+$1,281,894
+$24,046
+$1,665
+$51,657
+$422,760
+$63,091
+$1,845,113
+9
+CON EDISON LOW INCOME DISCOUNT
+(17,763)
+(874)
+($18,637)
+10
+TOTAL SYSTEM
+11,936
+20,405
+$1,264,131
+$24,046
+$1,665
+$51,657
+$422,760
+$62,217
+$1,826,476
+* Demand is Contracted Demand
+PAGE 1 of 5
+  EXHIBIT ___ (EFP‐8)
+CONSOLIDATED EDISON COMPANY OF NEW YORK, INC.
+ELECTRIC SALES VOLUMES AND REVENUES FROM SALES VOLUMES BY SERVICE CLASSIFICATION
+FORECASTED 3 MONTHS ENDING DECEMBER 31, 2021
+REVENUES ($1,000)
+
+
+--- Page 77 ---
+SUM OF
+NON COMPETITIVE
+MONTHLY
+DELIVERY
+COMPETITIVE
+TOTAL
+VOLUMES
+BILLABLE
+REVENUES
+SERVICE
+REACTIVE
+MSC, MAC,
+REVENUE
+(MILLION
+DEMAND
+AT CURRENT
+RATES
+POWER
+AND DLM
+AT CURRENT
+CATEGORY
+SC NO.
+DESCRIPTION
+KWHR)
+(MW)
+RATES
+BPP/MFC
+REVENUE
+SBC/RPS
+REVENUES
+REVENUE TAX
+RATES
+(1)
+(2)
+(3)
+(4)
+(5)
+(6)
+(7)
+(8)
+(9)
+CON EDISON CUSTOMERS
+1
+1
+RESIDENTIAL & RELIGIOUS 
+13,377
+$2,374,927
+$79,585
+$0
+$65,580
+945,659
+           
+$118,818
+$3,584,569
+2
+GENERAL SMALL
+2,450
+501,864
+11,687
+0
+12,262
+176,967
+25,218
+727,998
+8
+MULT. DWELL. REDISTRIBUTION
+1,654
+3,549
+157,841
+612
+172
+8,143
+58,712
+7,854
+233,334
+9
+GENERAL LARGE
+22,802
+56,289
+2,091,540
+11,407
+3,701
+116,991
+933,870
+104,613
+3,262,122
+12
+MULT. DWELL. SPACE HEATING
+291
+640
+23,604
+84
+17
+1,473
+10,419
+1,189
+36,786
+13
+BULK POWER ‐ H. T. ‐ HOUSING DEVEL.
+   
+   
+   
+   
+   
+   
+   
+   
+   
+2
+TOTAL COMMERCIAL & INDUSTRIAL
+27,197
+60,478
+2,774,849
+23,790
+3,890
+138,869
+1,179,968
+138,874
+4,260,240
+5
+RAILROADS
+104
+222
+3,815
+0
+43
+525
+1,194
+193
+5,770
+6
+STREET LIGHTING
+9
+2,537
+48
+0
+47
+806
+128
+3,566
+3
+TOTAL PUBLIC AUTHORITY
+113
+222
+6,352
+48
+43
+572
+2,000
+321
+9,336
+4
+STANDBY SERVICE *
+326
+2,551
+35,655
+42
+227
+1,627
+3,411
+1,797
+42,759
+5
+TOTAL CON EDISON CUSTOMERS
+41,013
+63,251
+5,191,783
+103,465
+4,160
+206,648
+2,131,038
+259,810
+7,896,904
+6
+RECHARGE NEW YORK (Below Allocation)
+677
+1,273
+37,019
+1,849
+38,868
+7
+NYPA CUSTOMERS
+9,340
+20,954
+660,272
+2,186
+0
+33,115
+695,573
+8
+SUBTOTAL SYSTEM
+51,030
+85,478
+$5,889,074
+$103,465
+$6,346
+$206,648
+$2,131,038
+$294,774
+$8,631,345
+9
+CON EDISON LOW INCOME DISCOUNT
+(70,200)
+(3,537)
+($73,737)
+10
+TOTAL SYSTEM
+51,030
+85,478
+$5,818,874
+$103,465
+$6,346
+$206,648
+$2,131,038
+$291,237
+$8,557,608
+* Demand is Contracted Demand
+PAGE 2 of 5
+  EXHIBIT___(EFP‐8)
+CONSOLIDATED EDISON COMPANY OF NEW YORK, INC.
+ELECTRIC SALES VOLUMES AND REVENUES FROM SALES VOLUMES BY SERVICE CLASSIFICATION
+FORECASTED 12 MONTHS ENDING DECEMBER 31, 2022
+REVENUES ($1,000)
+
+
+--- Page 78 ---
+SUM OF
+NON COMPETITIVE
+PROPOSED 
+MONTHLY
+DELIVERY
+COMPETITIVE
+TOTAL
+PROPOSED 
+CHANGE IN
+PROPOSED 
+PROPOSED 
+TOTAL
+VOLUMES
+BILLABLE
+REVENUES
+SERVICE
+REACTIVE
+MSC, MAC,
+REVENUE
+CHANGE IN
+COMPETITIVE
+CHANGE IN
+CHANGE
+REVENUE TAX
+REVENUE
+(MILLION
+DEMAND
+AT CURRENT
+RATES
+POWER
+AND DLM
+AT CURRENT
+NON‐COMPETITIVE
+SERVICE RATES
+REACTIVE POWER
+IN MAC
+FROM
+AT PROPOSED
+CATEGORY
+SC NO.
+DESCRIPTION
+KWHR)
+(MW)
+RATES 
+BPP/MFC
+REVENUE
+SBC/RPS
+REVENUES
+REVENUE TAX
+RATES
+RATES
+BPP/MFC
+REVENUE
+REVENUES
+INCREASE
+RATES
+(1)
+(2)
+(3)
+(4)
+(5)
+(6)
+(7)
+(8)
+(9)
+(10)
+(11)
+(12)
+(13)
+(14)
+(15)
+CON EDISON CUSTOMERS
+1
+1
+RESIDENTIAL & RELIGIOUS 
+13,092
+$2,337,576
+$78,558
+$0
+$61,661
+917,489
+          
+$112,281
+$3,507,565
+$488,252
+($3,058)
+$0
+$3,946
+$15,652
+$4,012,357
+2
+GENERAL SMALL
+2,490
+510,675
+11,951
+0
+11,991
+178,894
+24,621
+738,132
+102,551
+(306)
+0
+862
+3,299
+844,538
+8
+MULT. DWELL. REDISTRIBUTION
+1,614
+3,491
+155,067
+574
+172
+7,639
+53,820
+7,420
+224,692
+32,016
+38
+14
+262
+1,035
+258,057
+s
+9
+GENERAL LARGE
+22,906
+56,683
+2,098,949
+11,577
+3,701
+113,035
+917,872
+100,867
+3,246,001
+428,310
+644
+416
+3,543
+13,853
+3,692,767
+12
+MULT. DWELL. SPACE HEATING
+279
+615
+22,625
+78
+17
+1,359
+8,864
+1,093
+34,036
+5,562
+5
+0
+38
+179
+39,820
+13
+BULK POWER ‐ H. T. ‐ HOUSING DEVEL.
+   
+   
+   
+   
+   
+   
+   
+   
+   
+   
+   
+   
+   
+   
+   
+2
+TOTAL COMMERCIAL & INDUSTRIAL
+27,289
+60,789
+2,787,316
+24,180
+3,890
+134,024
+1,159,450
+134,001
+4,242,861
+568,439
+381
+430
+4,705
+18,366
+4,835,182
+5
+RAILROADS
+104
+223
+3,814
+0
+43
+505
+984
+185
+5,531
+846
+0
+1
+6
+27
+6,411
+6
+STREET LIGHTING
+9
+2,533
+48
+0
+46
+783
+122
+3,532
+730
+0
+0
+4
+23
+4,289
+3
+TOTAL PUBLIC AUTHORITY
+113
+223
+6,347
+48
+43
+551
+1,767
+307
+9,063
+1,576
+0
+1
+10
+50
+10,700
+4
+STANDBY SERVICE *
+329
+2,728
+37,139
+42
+227
+1,583
+2,653
+1,798
+43,442
+7,147
+5
+24
+63
+232
+50,913
+5
+TOTAL CON EDISON CUSTOMERS
+40,823
+63,740
+5,168,378
+102,828
+4,160
+197,819
+2,081,359
+248,387
+7,802,931
+1,065,414
+(2,672)
+455
+8,724
+34,300
+8,909,152
+6
+RECHARGE NEW YORK (Below Allocation) CUSTOMERS
+677
+1,273
+37,019
+1,776
+38,795
+6,763
+216
+45,774
+7
+NYPA CUSTOMERS
+9,358
+21,047
+661,832
+2,186
+0
+31,890
+695,908
+136,704
+0
+4,375
+836,987
+8
+SUBTOTAL SYSTEM
+50,858
+86,060
+$5,867,229
+$102,828
+$6,346
+$197,819
+$2,081,359
+$282,053
+$8,537,634
+$1,208,881
+($2,672)
+$455
+$8,724
+$38,891
+$9,791,913
+9
+CON EDISON LOW INCOME DISCOUNT
+(70,200)
+(3,391)
+(73,591)
+(48,619)
+(1,556)
+(123,766)
+10
+CON EDISON PURCHASE OF RECEIVABLES
+(1,482)
+(47)
+(1,529)
+11
+TOTAL SYSTEM
+50,858
+86,060
+$5,797,029
+$102,828
+$6,346
+$197,819
+$2,081,359
+$278,662
+$8,464,043
+$1,160,262
+($4,154)
+$455
+$8,724
+$37,288
+$9,666,618
+* Demand is Contracted Demand
+PAGE 3 of 5
+  EXHIBIT ___ (EFP‐8)
+REVENUES ($1,000)
+CONSOLIDATED EDISON COMPANY OF NEW YORK, INC.
+ELECTRIC SALES VOLUMES AND REVENUES FROM SALES VOLUMES BY SERVICE CLASSIFICATION
+FORECASTED 12 MONTHS ENDING DECEMBER 31, 2023
+
+
+--- Page 79 ---
+SUM OF
+NON COMPETITIVE
+MONTHLY
+DELIVERY
+COMPETITIVE
+TOTAL
+VOLUMES
+BILLABLE
+REVENUES
+SERVICE
+REACTIVE
+MSC, MAC,
+REVENUE
+(MILLION
+DEMAND
+AT CURRENT
+RATES
+POWER
+AND DLM
+AT CURRENT
+CATEGORY
+SC NO.
+DESCRIPTION
+KWHR)
+(MW)
+RATES 
+BPP/MFC
+REVENUE
+SBC/RPS
+REVENUES
+REVENUE TAX
+RATES
+(1)
+(2)
+(3)
+(4)
+(5)
+(6)
+(7)
+(8)
+(9)
+CON EDISON CUSTOMERS
+1
+1
+RESIDENTIAL & RELIGIOUS 
+12,966
+$2,328,041
+$78,217
+$0
+$57,208
+902,001
+           
+$112,140
+$3,477,607
+2
+GENERAL SMALL
+2,527
+519,199
+12,160
+0
+11,406
+180,336
+25,095
+748,196
+8
+MULT. DWELL. REDISTRIBUTION
+1,597
+3,423
+152,820
+551
+172
+7,088
+55,334
+7,337
+223,302
+9
+GENERAL LARGE
+22,759
+55,967
+2,087,540
+11,453
+3,701
+105,301
+938,184
+100,642
+3,246,821
+12
+MULT. DWELL. SPACE HEATING
+273
+601
+22,225
+69
+17
+1,243
+8,487
+1,075
+33,116
+13
+BULK POWER ‐ H. T. ‐ HOUSING DEVEL.
+   
+   
+   
+   
+   
+   
+   
+   
+   
+2
+TOTAL COMMERCIAL & INDUSTRIAL
+27,156
+59,991
+2,781,784
+24,233
+3,890
+125,038
+1,182,341
+134,149
+4,251,435
+5
+RAILROADS
+104
+221
+3,812
+0
+43
+473
+1,331
+186
+5,845
+6
+STREET LIGHTING
+9
+2,541
+48
+0
+43
+764
+123
+3,519
+3
+TOTAL PUBLIC AUTHORITY
+113
+221
+6,353
+48
+43
+516
+2,095
+309
+9,364
+4
+STANDBY SERVICE  *
+333
+2,797
+38,105
+42
+227
+1,503
+3,716
+1,850
+45,443
+5
+TOTAL CON EDISON CUSTOMERS
+40,568
+63,009
+5,154,283
+102,540
+4,160
+184,265
+2,090,153
+248,448
+7,783,849
+6
+RECHARGE NEW YORK (Below Allocation)
+677
+1,273
+37,019
+1,781
+38,800
+7
+NYPA CUSTOMERS
+9,229
+20,811
+656,655
+2,186
+0
+31,735
+690,576
+8
+SUBTOTAL SYSTEM
+50,474
+85,093
+$5,847,957
+$102,540
+$6,346
+$184,265
+$2,090,153
+$281,964
+$8,513,225
+9
+CON EDISON LOW INCOME DISCOUNT
+(70,200)
+(3,399)
+($73,599)
+10
+TOTAL SYSTEM
+50,474
+85,093
+$5,777,757
+$102,540
+$6,346
+$184,265
+$2,090,153
+$278,565
+$8,439,626
+* Demand is Contracted Demand
+PAGE 4 of 5
+  EXHIBIT ___ (EFP‐8)
+CONSOLIDATED EDISON COMPANY OF NEW YORK, INC.
+ELECTRIC SALES VOLUMES AND REVENUES FROM SALES VOLUMES BY SERVICE CLASSIFICATION
+FORECASTED 12 MONTHS ENDING DECEMBER 31, 2024
+REVENUES ($1,000)
+
+
+--- Page 80 ---
+SUM OF
+NON COMPETITIVE
+MONTHLY
+DELIVERY
+COMPETITIVE
+TOTAL
+VOLUMES
+BILLABLE
+REVENUES
+SERVICE
+REACTIVE
+MSC, MAC,
+REVENUE
+(MILLION
+DEMAND
+AT CURRENT
+RATES
+POWER
+AND DLM
+AT CURRENT
+CATEGORY
+SC NO.
+DESCRIPTION
+KWHR)
+(MW)
+RATES 
+BPP/MFC
+REVENUE
+SBC/RPS
+REVENUES
+REVENUES TAX
+RATES
+(1)
+(2)
+(3)
+(4)
+(5)
+(6)
+(7)
+(8)
+(9)
+CON EDISON CUSTOMERS
+1
+1
+RESIDENTIAL & RELIGIOUS 
+12,708
+$2,296,582
+$77,406
+$0
+$67,903
+$913,630
+$112,471
+$3,467,992
+2
+GENERAL SMALL
+2,548
+525,302
+12,328
+0
+13,943
+188,004
+25,818
+765,395
+8
+MULT. DWELL. REDISTRIBUTION
+1,567
+3,341
+149,441
+527
+172
+8,433
+57,350
+7,295
+223,218
+9
+GENERAL LARGE
+22,457
+55,163
+2,064,355
+11,273
+3,701
+126,026
+979,815
+101,177
+3,286,347
+12
+MULT. DWELL. SPACE HEATING
+264
+579
+21,436
+65
+17
+1,458
+8,343
+1,055
+32,374
+13
+BULK POWER ‐ H. T. ‐ HOUSING DEVEL.
+   
+   
+   
+   
+   
+   
+   
+   
+   
+2
+TOTAL COMMERCIAL & INDUSTRIAL
+26,836
+59,083
+2,760,534
+24,193
+3,890
+149,860
+1,233,512
+135,345
+4,307,334
+5
+RAILROADS
+104
+222
+3,810
+0
+43
+574
+1,606
+189
+6,222
+6
+STREET LIGHTING
+9
+2,541
+48
+0
+52
+780
+125
+3,546
+3
+TOTAL PUBLIC AUTHORITY
+113
+222
+6,351
+48
+43
+626
+2,386
+314
+9,768
+4
+STANDBY SERVICE *
+333
+2,808
+38,227
+42
+227
+1,823
+4,439
+1,886
+46,644
+5
+TOTAL CON EDISON CUSTOMERS
+39,990
+62,113
+5,101,694
+101,689
+4,160
+220,212
+2,153,967
+250,016
+7,831,738
+.
+6
+RECHARGE NEW YORK (Below Allocation)
+677
+1,273
+37,019
+1,811
+38,830
+7
+NYPA CUSTOMERS
+9,043
+20,456
+642,354
+2,186
+0
+31,570
+676,110
+8
+SUBTOTAL SYSTEM
+49,710
+83,842
+$5,781,067
+$101,689
+$6,346
+$220,212
+$2,153,967
+$283,397
+$8,546,678
+9
+CON EDISON LOW INCOME DISCOUNT
+(70,200)
+(3,456)
+($73,656)
+10
+TOTAL SYSTEM
+49,710
+83,842
+$5,710,867
+$101,689
+$6,346
+$220,212
+$2,153,967
+$279,941
+$8,473,022
+* Demand is Contracted Demand
+PAGE 5 of 5
+  EXHIBIT ___ (EFP‐8)
+CONSOLIDATED EDISON COMPANY OF NEW YORK, INC.
+ELECTRIC SALES VOLUMES AND REVENUES FROM SALES VOLUMES BY SERVICE CLASSIFICATION
+FORECASTED 12 MONTHS ENDING DECEMBER 31, 2025
+REVENUES ($1,000)
+
+
+--- Page 81 ---
+VOLUMES
+DELIVERY
+SUPPLY
+VOLUMES
+DELIVERY
+SUPPLY
+VOLUMES
+DELIVERY
+SUPPLY
+(MILLION
+REVENUES
+REVENUES
+(MILLION
+REVENUES
+REVENUES
+(MILLION
+REVENUES
+REVENUES
+SC NO.
+DESCRIPTION
+KWHR)
+($1,000)
+($1,000)
+KWHR)
+($1,000)
+($1,000)
+KWHR)
+($1,000)
+($1,000)
+(1)
+(2)
+(3)
+(4)
+(5)
+(6)
+(7)
+(8)
+(9)
+CON EDISON CUSTOMERS
+1
+RESIDENTIAL & RELIGIOUS 
+13,092
+$3,222,387
+$1,019,412
+12,966
+$3,216,313
+$956,027
+12,708
+$3,216,937
+$939,557
+2
+GENERAL SMALL
+2,490
+690,461
+196,393
+2,527
+705,850
+186,751
+2,548
+720,266
+187,444
+8
+MULT. DWELL. REDISTRIBUTION
+1,614
+219,535
+124,350
+1,597
+219,802
+117,427
+1,567
+220,212
+116,056
+9
+GENERAL LARGE
+22,906
+2,997,286
+1,797,362
+22,759
+3,031,497
+1,681,029
+22,457
+3,074,025
+1,655,637
+12
+MULT. DWELL. SPACE HEATING
+279
+33,878
+23,120
+273
+33,639
+20,375
+264
+33,281
+18,985
+13
+BULK POWER ‐ H. T. ‐ HOUSING DEVEL.
+0
+0
+0
+0
+0
+0
+0
+0
+0
+5
+RAILROADS
+104
+6,411
+0
+104
+6,697
+0
+104
+7,105
+0
+6
+STREET LIGHTING
+9
+3,602
+709
+9
+3,625
+652
+9
+3,648
+644
+STANDBY SERVICE
+329
+47,995
+(1,335)
+333
+49,973
+(1,734)
+333
+50,959
+(2,382)
+TOTAL CON EDISON CUSTOMERS
+40,823
+7,221,555
+3,160,011
+40,568
+7,267,396
+2,960,527
+39,990
+7,326,433
+2,915,941
+RECHARGE NEW YORK CUSTOMERS
+677
+$45,774
+$52,833
+677
+$45,563
+$52,833
+677
+$45,183
+$52,833
+NYPA CUSTOMERS
+9,358
+$837,230
+$730,297
+9,229
+$826,411
+$720,230
+9,043
+$802,130
+$705,715
+DELIVERY
+SUPPLY
+DELIVERY
+SUPPLY
+DELIVERY
+SUPPLY
+CON EDISON CUSTOMERS
+1
+RESIDENTIAL & RELIGIOUS 
+24.61
+7.79
+24.81
+7.37
+25.31
+7.39
+2
+GENERAL SMALL
+27.73
+7.89
+27.93
+7.39
+28.27
+7.36
+8
+MULT. DWELL. REDISTRIBUTION
+13.60
+7.70
+13.76
+7.35
+14.05
+7.41
+9
+GENERAL LARGE
+13.09
+7.85
+13.32
+7.39
+13.69
+7.37
+12
+MULT. DWELL. SPACE HEATING
+12.14
+8.29
+12.32
+7.46
+12.61
+7.19
+13
+BULK POWER ‐ H. T. ‐ HOUSING DEVEL.
+ 
+N/A
+N/A
+N/A
+N/A
+N/A
+N/A
+5
+RAILROADS
+6.16
+0.00
+6.44
+0.00
+6.83
+0.00
+6
+STREET LIGHTING
+40.02
+7.88
+40.28
+7.24
+40.53
+7.16
+STANDBY SERVICE
+14.59
+(0.41)
+15.01
+(0.52)
+15.30
+(0.72)
+TOTAL CON EDISON CUSTOMERS
+17.69
+7.74
+17.91
+7.30
+18.32
+7.29
+RECHARGE NEW YORK CUSTOMERS
+6.76
+7.80
+6.73
+7.80
+6.67
+7.80
+NYPA CUSTOMERS
+8.95
+7.80
+8.95
+7.80
+8.87
+7.80
+Notes:
+Delivery revenues consist of non‐competitive T&D charges, competitive service charges (i.e., BPP and MFC as applicable); DLM, SBC, and RPS charges;
+and uncollectible bill expense associated with MSC and MAC.
+Supply revenues assume projected MSC Charges.  
+Excludes Purchase of Receivables
+ EXHIBIT ___ (EFP‐9)
+Page 1 of 1
+CONSOLIDATED EDISON COMPANY OF NEW YORK, INC.
+FUTURE AVERAGE DELIVERY AND SUPPLY PRICES BY SERVICE CLASSIFICATION
+(CENTS PER KWHR)
+Rate Year ending 12/31/2023
+Rate Year ending 12/31/2024
+Rate Year ending 12/31/2025
+(CENTS PER KWHR)
+(CENTS PER KWHR)
+AVERAGE PRICE
+AVERAGE PRICE
+AVERAGE PRICE

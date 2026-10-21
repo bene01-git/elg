@@ -1,0 +1,4262 @@
+--- Page 1 ---
+ BEFORE THE 
+ STATE OF NEW YORK 
+ PUBLIC SERVICE COMMISSION 
+______________________________________________________________ 
+Proceeding on Motion of the Commission as to the Rates, 
+Charges, Rules and Regulations of Consolidated Edison 
+Company of New York, Inc. for Electric and Gas Service. 
+Case 25-E-XXXX, 25-G-XXXX 
+January 2025 
+Prepared Testimony of: 
+Joshua C. Nowak -  
+Return on Equity Panel 
+Joshua C. Nowak  
+293 Boston Post Road West, Suite 500 
+Marlborough, Massachusetts 01752 
+
+
+--- Page 2 ---
+25-E-XXXX & 25-G-XXXX 
+ 
+ 
+Consolidated Edison Company of New York, Inc. 
+Direct Testimony of Return on Equity Panel  
+ 
+ 
+  
+Table of Contents 
+ 
+ 
+I. 
+INTRODUCTION AND QUALIFICATIONS ......................................................... 1 
+II. 
+PURPOSE AND OVERVIEW OF TESTIMONY ................................................... 2 
+III. 
+REGULATORY GUIDELINES AND FINANCIAL CONSIDERATIONS ......... 7 
+IV. 
+CAPITAL MARKET CONDITIONS ..................................................................... 15 
+V. 
+PROXY GROUP SELECTION ............................................................................... 21 
+VI. 
+COST OF EQUITY ESTIMATION........................................................................ 26 
+A. 
+Discounted Cash Flow Model ........................................................................... 28 
+B. 
+Capital Asset Pricing Model ............................................................................. 40 
+C. 
+Bond Yield Plus Risk Premium Analysis as a Test of Reasonableness ............ 46 
+D. 
+Weighted Average Results ................................................................................ 49 
+VII. 
+BUSINESS AND REGULATORY RISKS ............................................................. 52 
+A. 
+Decarbonization Policy and Capital Spending .................................................. 52 
+B. 
+Regulatory Risk Assessment ............................................................................. 57 
+C. 
+Regulatory Environment ................................................................................... 61 
+D. 
+Flotation Costs .................................................................................................. 66 
+VIII. CAPITAL STRUCTURE ......................................................................................... 69 
+IX. 
+MULTI-YEAR RATE PLAN................................................................................... 72 
+X. 
+CONCLUSION AND RECOMMENDATION ...................................................... 74 
+
+
+--- Page 3 ---
+25-E-XXXX & 25-G-XXXX 
+ 
+ 
+Consolidated Edison Company of New York, Inc. 
+Direct Testimony of Return on Equity Panel  
+ 
+ 
+Page 1 of 74 
+I. INTRODUCTION AND QUALIFICATIONS 
+1 
+Q. 
+Please state your name, affiliation, and business address. 
+2 
+A. 
+My name is Joshua C. Nowak.  I am employed by Concentric Energy 
+3 
+Advisors, Inc. (“Concentric”) as Vice President.  Concentric is a 
+4 
+management consulting and economic advisory firm, focused on the North 
+5 
+American energy and water industries.  Based in Marlborough, 
+6 
+Massachusetts, and with offices in Washington, D.C. and Calgary, Alberta, 
+7 
+Concentric specializes in regulatory and litigation support, financial 
+8 
+advisory services, energy market strategies, market assessments, energy 
+9 
+commodity contracting and procurement, economic feasibility studies, and 
+10 
+capital market analyses.  My business address is 293 Boston Post Road 
+11 
+West, Suite 500, Marlborough, Massachusetts 01752. 
+12 
+ 
+13 
+Q. 
+On whose behalf are you submitting this Direct Testimony? 
+14 
+A. 
+I am submitting this Direct Testimony on behalf of Consolidated Edison 
+15 
+Company of New York, Inc. (“CECONY” or the “Company”), which is a 
+16 
+wholly owned subsidiary of Consolidated Edison, Inc. (“CEI”).  My Direct 
+17 
+Testimony is part of the Company’s rate case filings being submitted to the 
+18 
+New York State Public Service Commission (“Commission”). 
+19 
+
+
+--- Page 4 ---
+25-E-XXXX & 25-G-XXXX 
+ 
+ 
+Consolidated Edison Company of New York, Inc. 
+Direct Testimony of Return on Equity Panel  
+ 
+ 
+Page 2 of 74 
+Q. 
+Please describe your experience in the energy and utility industries and 
+1 
+your educational and professional qualifications. 
+2 
+A. 
+I hold a Bachelor’s degree in Economics from Boston College, and have 
+3 
+more than 15 years of experience in providing economic, financial, and 
+4 
+strategic advisory services.  As a consultant, I primarily advise clients in 
+5 
+regulated utility industries and have provided testimony regarding financial 
+6 
+matters before multiple regulatory agencies.  I have advised numerous 
+7 
+energy and utility clients on a wide range of financial and economic issues 
+8 
+with primary concentrations in valuation and utility rate matters.  Many of 
+9 
+these assignments have included the determination of the cost of capital for 
+10 
+valuation and ratemaking purposes.  I have provided testimony before the 
+11 
+Federal Energy Regulatory Commission (“FERC”), as well as state and 
+12 
+provincial jurisdictions in the U.S. and Canada, including the Commission. 
+13 
+A summary of my professional and educational background is presented as 
+14 
+Exhibit___(JCN-1). 
+15 
+ 
+16 
+II. PURPOSE AND OVERVIEW OF TESTIMONY 
+17 
+Q. 
+What is the purpose of your Direct Testimony? 
+18 
+A. 
+The purpose of my Direct Testimony is to present evidence and provide a 
+19 
+recommended range for the Company’s cost of equity (sometimes referred 
+20 
+to as the Return on Equity or “ROE” for rate-setting purposes) and capital 
+21 
+
+
+--- Page 5 ---
+25-E-XXXX & 25-G-XXXX 
+ 
+ 
+Consolidated Edison Company of New York, Inc. 
+Direct Testimony of Return on Equity Panel  
+ 
+ 
+Page 3 of 74 
+structure for the Company’s electric and gas distribution utility operations.  
+1 
+My analysis and recommendations are supported by the data and support 
+2 
+presented in Exhibits___(JCN-2) through (JCN-43). 
+3 
+ 
+4 
+Q. 
+Please provide a brief overview of the analyses that led to your ROE 
+5 
+recommendation. 
+6 
+A. 
+As discussed in more detail in my Direct Testimony below, it is important 
+7 
+to consider the results of several analytical approaches in determining a 
+8 
+reasonable recommendation for the Company’s ROE.  To establish my 
+9 
+ROE recommendation, I developed a proxy group consisting of utilities that 
+10 
+face investment risk generally comparable to that faced by CECONY.  I 
+11 
+developed a multi-stage Discounted Cash Flow (“DCF”) model and two 
+12 
+forms of the Capital Asset Pricing Model (“CAPM”).  I have presented the 
+13 
+DCF and CAPM results weighted equally, and with the Commission’s 
+14 
+preferred 2/3 weighting of the DCF and 1/3 weighting of the CAPM.  As a 
+15 
+check on the reasonableness of these results, I also considered the results of 
+16 
+the Bond Yield Plus Risk Premium (“Risk Premium”) model, which is 
+17 
+based on authorized returns in other state jurisdictions and the 
+18 
+corresponding government bond yield at the time decisions were issued. 
+19 
+ 
+20 
+The use of a multi-stage DCF model and two forms of the CAPM is 
+21 
+
+
+--- Page 6 ---
+25-E-XXXX & 25-G-XXXX 
+ 
+ 
+Consolidated Edison Company of New York, Inc. 
+Direct Testimony of Return on Equity Panel  
+ 
+ 
+Page 4 of 74 
+consistent with the approach employed by the Commission in prior cases.  
+1 
+While my equal weighting of the DCF and CAPM results diverges from the 
+2 
+weighting typically employed by the Commission, I explain why placing 
+3 
+equal weight on the DCF and CAPM approaches is reasonable and 
+4 
+consistent with the goals of the Recommended Decision (“Generic Finance 
+5 
+RD”) issued in the Generic Finance Proceeding (“GFP”), Case 91-M-0509, 
+6 
+which is the docket that is consistently cited by the Commission when 
+7 
+setting ROEs for New York State utilities.  
+8 
+ 
+9 
+In addition, I have considered how current market conditions have affected 
+10 
+the results of the ROE estimation models.  Although the United States 
+11 
+(“U.S.”) Federal Reserve (the “Fed”) has started reducing short-term 
+12 
+interest rates as inflation has moderated in 2024, long-term interest rates on 
+13 
+U.S. Treasury bonds are in excess of 4.50 percent and, according to the 
+14 
+December issue of Blue Chip Financial Forecasts, are expected to average 
+15 
+4.30 percent over the longer-term from 2026-2030.  Further, I evaluated 
+16 
+CECONY’s risk profile, including the emerging risks due to 
+17 
+decarbonization policy in New York State, the Company’s capital spending 
+18 
+plans, and the regulatory environment in New York relative to that of the 
+19 
+proxy group companies. 
+20 
+
+
+--- Page 7 ---
+25-E-XXXX & 25-G-XXXX 
+ 
+ 
+Consolidated Edison Company of New York, Inc. 
+Direct Testimony of Return on Equity Panel  
+ 
+ 
+Page 5 of 74 
+  
+1 
+Q. 
+Please summarize the results of the ROE estimation models that you 
+2 
+considered in your analyses.   
+3 
+A. 
+The results of my analyses are summarized in Exhibit___(JCN-2)   The 
+4 
+mean results range from 10.31 percent to 10.55 percent, depending on the 
+5 
+weighting given to the DCF and CAPM results. 
+6 
+Q. 
+What are your conclusions regarding the appropriate cost of equity for 
+7 
+the Company? 
+8 
+A. 
+Based on the quantitative and qualitative analyses (Exhibits___(JCN-3) 
+9 
+through___(JCN-7)) and the weighting of the DCF and CAPM results 
+10 
+presented in Exhibits___(JCN-2), as well as my assessment of the business 
+11 
+and financial risk environment of CECONY relative to the proxy group 
+12 
+(Exhibits___(JCN-8) through___(JCN-10)), I conclude that the appropriate 
+13 
+ROE for the Company is within a range from 10.00 percent to 11.00 percent. 
+14 
+From within that range, I recommend that the Commission authorize an 
+15 
+ROE of 10.50 percent, which is a reasonable estimate of the investor-
+16 
+required ROE given the Company’s business and financial risk profile.  
+17 
+
+
+--- Page 8 ---
+25-E-XXXX & 25-G-XXXX 
+ 
+ 
+Consolidated Edison Company of New York, Inc. 
+Direct Testimony of Return on Equity Panel  
+ 
+ 
+Page 6 of 74 
+ 
+1 
+Q. 
+Please summarize your analysis of the appropriate ratemaking capital 
+2 
+structure for CECONY. 
+3 
+A. 
+As discussed in Section VIII of my Direct Testimony below, CECONY’s 
+4 
+requested equity ratio of 48.00 percent is well below the mean and median 
+5 
+equity ratios of 53.34 percent and 53.35 percent, respectively, for the 
+6 
+operating utility companies in the proxy group over the last four years.  As 
+7 
+a result, CECONY has greater financial risk than the proxy group.  My 
+8 
+conclusion is that the Company’s requested equity ratio is reasonable, if not 
+9 
+conservative, relative to the proxy group.  
+10 
+ 
+11 
+Q. 
+How is the remainder of your Direct Testimony organized? 
+12 
+A. 
+The remainder of my Direct Testimony is organized as follows: 
+13 
+ 
+Section III –  
+Discusses the regulatory guidelines and financial 
+14 
+considerations pertinent to the development of the 
+15 
+cost of capital;   
+ 
+ 
+16 
+ 
+Section IV – 
+Briefly discusses the current capital market 
+17 
+conditions and the effect of those conditions on the 
+18 
+Company’s cost of equity;  
+19 
+ 
+Section V –  
+Explains my selection of the proxy group used to 
+20 
+develop my analytical results;  
+21 
+ 
+Section VI –  
+Explains my analyses and the analytical bases for 
+22 
+my ROE recommendation; 
+23 
+
+
+--- Page 9 ---
+25-E-XXXX & 25-G-XXXX 
+ 
+ 
+Consolidated Edison Company of New York, Inc. 
+Direct Testimony of Return on Equity Panel  
+ 
+ 
+Page 7 of 74 
+ 
+Section VII - 
+Summarizes the specific regulatory and business 
+1 
+risks and equity issuance costs that have a direct 
+2 
+bearing on the Company’s cost of equity; 
+ 
+3 
+ 
+Section VIII – Provides an assessment of the Company’s proposed 
+4 
+capital structure; 
+5 
+ 
+Section IX – 
+Provides an assessment of the effect of a multi-year 
+6 
+rate plan on the ROE; and 
+7 
+ 
+Section X – 
+Summarizes my conclusions and recommendations. 
+8 
+ 
+III. REGULATORY GUIDELINES AND FINANCIAL 
+9 
+CONSIDERATIONS 
+10 
+Q. 
+Please describe the guiding principles to be used in establishing the cost 
+11 
+of capital for a regulated utility. 
+12 
+A. 
+The foundations of public utility regulation require that utilities receive a 
+13 
+rate of return sufficient to attract needed capital to maintain service to 
+14 
+customers at reasonable rates.  The basic tenets of this regulatory doctrine 
+15 
+originate from two decisions by the United States Supreme Court: Bluefield 
+16 
+Waterworks and Improvement Company v. Public Service Commission of 
+17 
+West Virginia, 262 U.S. 679 (1923) (“Bluefield”), and Federal Power 
+18 
+Commission v. Hope Natural Gas Company, 320 U.S. 591 (1944) 
+19 
+(“Hope”).  In Bluefield, the Court stated:   
+20 
+A public utility is entitled to such rates as will permit it to 
+21 
+earn a return on the value of the property which it employs 
+22 
+for the convenience of the public equal to that generally 
+23 
+being made at the same time and in the same general part of 
+24 
+
+
+--- Page 10 ---
+25-E-XXXX & 25-G-XXXX 
+ 
+ 
+Consolidated Edison Company of New York, Inc. 
+Direct Testimony of Return on Equity Panel  
+ 
+ 
+Page 8 of 74 
+the country on investments in other business undertakings 
+1 
+which 
+are 
+attended 
+by 
+corresponding 
+risks 
+and 
+2 
+uncertainties… 
+3 
+The return should be reasonably sufficient to assure investor 
+4 
+confidence in the financial soundness of the utility and 
+5 
+should be adequate, under efficient and economical 
+6 
+management, to maintain and support its credit and enable it 
+7 
+to raise the money necessary for the proper discharge of its 
+8 
+public duties. (See Exhibit___(JCN-11)) 
+9 
+In Hope, the Court established a standard for the ROE that remains the 
+10 
+guiding principle for ratemaking regulatory proceedings to this day: 
+11 
+[T]he return to the equity owner should be commensurate 
+12 
+with returns on investments in other enterprises having 
+13 
+corresponding risks.  That return, moreover, should be 
+14 
+sufficient to assure confidence in the financial integrity of 
+15 
+the enterprise, so as to maintain its credit and to attract 
+16 
+capital. (See Exhibit___(JCN-12)) 
+17 
+ 
+18 
+Q. 
+Please explain how these principles apply in the context of the regulated 
+19 
+rate of return.  
+20 
+A. 
+Regulated utilities rely primarily on common stock and long-term debt to 
+21 
+finance permanent property, plant, and equipment.  The allowed rate of 
+22 
+return for a regulated utility is based on its weighted average cost of capital, 
+23 
+where the costs of the individual sources of capital (i.e., debt and equity) 
+24 
+are weighted by their respective book values.  The ROE represents the cost 
+25 
+of raising and retaining equity capital and is estimated with one or more 
+26 
+analytical techniques that use market data to quantify investor requirements 
+27 
+
+
+--- Page 11 ---
+25-E-XXXX & 25-G-XXXX 
+ 
+ 
+Consolidated Edison Company of New York, Inc. 
+Direct Testimony of Return on Equity Panel  
+ 
+ 
+Page 9 of 74 
+for equity returns.  However, the ROE cannot be derived mechanically 
+1 
+through quantitative metrics and models alone.  To estimate the ROE 
+2 
+properly, the financial, regulatory, and economic context must also be 
+3 
+considered. 
+4 
+ 
+5 
+Based on the standards established in Hope and Bluefield, the authorized 
+6 
+ROE in this proceeding should provide the Company with the opportunity 
+7 
+to earn a fair and reasonable return that is: 
+8 
+• Adequate to allow the Company to attract the capital that is 
+9 
+necessary to provide safe and reliable service (the “capital attraction 
+10 
+standard”); 
+11 
+• Sufficient to allow the Company to maintain its financial integrity 
+12 
+(the “financial integrity standard”); and 
+13 
+• At a level that is comparable to returns required on investments of 
+14 
+similar risk (the “comparability standard”).  
+15 
+Importantly, a fair and reasonable return must satisfy all three of these 
+16 
+standards.  The authorized ROE should enable CECONY to finance capital 
+17 
+expenditures on reasonable terms and to raise capital under a full range of 
+18 
+capital market circumstances to serve its customers.  The DCF and CAPM 
+19 
+approaches, while fundamental to the ROE determination, are still only 
+20 
+models.  The results of these models cannot be mechanically applied 
+21 
+
+
+--- Page 12 ---
+25-E-XXXX & 25-G-XXXX 
+ 
+ 
+Consolidated Edison Company of New York, Inc. 
+Direct Testimony of Return on Equity Panel  
+ 
+ 
+Page 10 of 74 
+without also using informed judgment to consider economic and capital 
+1 
+market conditions and the relative risk of CECONY as compared to the 
+2 
+proxy group companies.  
+3 
+ 
+4 
+Q. 
+Did the Commission conduct a proceeding to review the standard for 
+5 
+estimating the Cost of Capital for a regulated utility? 
+6 
+A. 
+Yes.  On August 21, 1991, the Commission established the GFP to review 
+7 
+the Commission’s then-current methodology for estimating the cost of 
+8 
+equity and to examine various alternatives (Case 91-M-0509, Proceeding 
+9 
+on Motion of the Commission to Consider Financial and Regulatory 
+10 
+Policies for New York State Utilities, Order Establishing Proceeding, issued 
+11 
+August 21, 1991). 
+12 
+ 
+13 
+Q. 
+What was the purpose of the GFP? 
+14 
+A. 
+The Commission’s goal in the GFP was to eliminate controversy around 
+15 
+ROE calculations and attempt to find common ground on contentious issues 
+16 
+by developing a consensus approach for setting utility equity returns.  
+17 
+Among other things, the Commission questioned whether there should be 
+18 
+greater consistency in rate of return determinations from company to 
+19 
+company, such that differences in returns could be directly attributed to 
+20 
+differences in risk between companies, and whether the Commission’s 
+21 
+
+
+--- Page 13 ---
+25-E-XXXX & 25-G-XXXX 
+ 
+ 
+Consolidated Edison Company of New York, Inc. 
+Direct Testimony of Return on Equity Panel  
+ 
+ 
+Page 11 of 74 
+historical primary reliance on DCF-based ROE determinations continued to 
+1 
+provide fair returns.  That proceeding ultimately led to consensus 
+2 
+documents, agreed to by the parties, and ultimately the issuance of a 
+3 
+Recommended Decision, Case 91-M-0509, Recommended Decision, 
+4 
+(issued July 19, 1994) (“Generic Finance RD”), which, although never 
+5 
+formally adopted by the Commission, has guided the Commission over the 
+6 
+intervening three decades.    
+7 
+ 
+8 
+Q. 
+Please describe the conclusions outlined in the Generic Finance RD. 
+9 
+A. 
+The Generic Finance RD concluded that the Commission should implement 
+10 
+a generic process for setting returns, based on proxy groups (not company-
+11 
+specific data), and that sole reliance on the DCF method should be replaced 
+12 
+with a combination of the DCF and CAPM methodologies.  The Generic 
+13 
+Finance RD proposed to use as a preferred convention a methodology that 
+14 
+gives a respective 2/3 to 1/3 weighting to the results of the DCF and CAPM 
+15 
+analyses, respectively. The Generic Finance RD (p. 60) further recognized 
+16 
+that the CAPM “should figure prominently in the analysis” because this 
+17 
+methodology provides fundamental information on interest rates and the 
+18 
+returns required by stocks as a result of changes in interest rates.  At that 
+19 
+time, the CAPM was not accorded the same level of prominence as the DCF 
+20 
+analysis, given that the former had previously only been used as a check.  
+21 
+
+
+--- Page 14 ---
+25-E-XXXX & 25-G-XXXX 
+ 
+ 
+Consolidated Edison Company of New York, Inc. 
+Direct Testimony of Return on Equity Panel  
+ 
+ 
+Page 12 of 74 
+ 
+1 
+In the intervening 30 years, the Commission has consistently relied on both 
+2 
+the DCF and CAPM methodologies.  Further, while the Generic Finance 
+3 
+RD recognized a benefit to establishing an “operating norm” with respect 
+4 
+to setting the ROE, it also recognized that there may be good reason to 
+5 
+adjust either the weighting of the DCF and CAPM models or to rely on 
+6 
+different ROE estimation models.  Specifically, the Generic Finance RD 
+7 
+(pp. 60-61) provided the following guidance: 
+8 
+In either an annual proceeding to determine a rate of 
+9 
+return or in individual proceedings, the 2/3 DCF and 1/3 
+10 
+CAPM convention should be the presumption, but as 
+11 
+Multiple Intervenors suggests, parties would not be 
+12 
+barred from introducing new methods or different 
+13 
+weightings. Such parties, however, would have the 
+14 
+burden of convincing other parties and the Commission 
+15 
+of the relevance or superiority of their proposals.  
+16 
+ 
+17 
+Q. 
+Is the analysis presented in your Direct Testimony consistent with the 
+18 
+intent of the Generic Finance RD? 
+19 
+A. 
+Yes, it is.  As discussed in greater detail in Section VI below, the 
+20 
+methodologies that I have applied to estimate the ROE are consistent with 
+21 
+Commission precedent since the issuance of the Generic Finance RD in the 
+22 
+GFP.  Moreover, the models used in my analysis extend the principles 
+23 
+advanced in the Generic Finance RD to best practices in financial analysis 
+24 
+
+
+--- Page 15 ---
+25-E-XXXX & 25-G-XXXX 
+ 
+ 
+Consolidated Edison Company of New York, Inc. 
+Direct Testimony of Return on Equity Panel  
+ 
+ 
+Page 13 of 74 
+and current capital market conditions, as was contemplated in the Generic 
+1 
+Finance RD.     
+2 
+ 
+3 
+Specifically, I rely on the weighted results of the DCF and CAPM analyses.  
+4 
+In developing these ROE estimation models, I rely on a proxy group of risk-
+5 
+comparable companies as discussed in Section V below.  I have used both 
+6 
+the DCF and CAPM approaches to estimate the Company’s ROE.  The 
+7 
+multi-stage DCF model that I relied on is consistent with the methodology 
+8 
+the Commission has relied on in that it allows growth rates to vary over 
+9 
+time.  Consistent with the fundamental principles established by the 
+10 
+Commission, I have applied two forms of the CAPM: Traditional and Zero 
+11 
+Beta.  Finally, consistent with the principles of the GFP, to reduce the 
+12 
+volatility associated with reliance on any one model, I have considered the 
+13 
+DCF and CAPM results weighted equally, and with the Generic Finance 
+14 
+RD’s proposed 2/3 weighting of the DCF and 1/3 weighting of the CAPM.    
+15 
+ 
+16 
+Q. 
+Do the principles and intent of the Generic Finance RD in the GFP 
+17 
+require adherence to a static formula? 
+18 
+A. 
+No, they do not.  The GFP and the Generic Finance RD did not require strict 
+19 
+adherence to a static formula; rather, they promoted several basic principles 
+20 
+and afforded parties the flexibility to propose alternative approaches to 
+21 
+
+
+--- Page 16 ---
+25-E-XXXX & 25-G-XXXX 
+ 
+ 
+Consolidated Edison Company of New York, Inc. 
+Direct Testimony of Return on Equity Panel  
+ 
+ 
+Page 14 of 74 
+address changing financial market conditions.  When faced with the task of 
+1 
+estimating the cost of equity, analysts are inclined to gather and evaluate as 
+2 
+much relevant data (both quantitative and qualitative) as can be reasonably 
+3 
+analyzed.  Analysts and academics understand that ROE models are tools 
+4 
+to be used in the ROE estimation process, and that strict adherence to any 
+5 
+single approach, as opposed to multiple approaches, can lead to flawed 
+6 
+conclusions.  Because capital markets are dynamic, not static, no model can 
+7 
+exactly pinpoint the correct ROE; rather, each model brings its own 
+8 
+perspective and set of inputs that inform the estimate of the ROE.  That 
+9 
+position is consistent with the Court’s finding in Hope (320 U.S. at 602) 
+10 
+that “[u]nder the statutory standard of ‘just and reasonable,’ it is the result 
+11 
+reached, not the method employed, which is controlling.”  
+12 
+ 
+13 
+Although each model brings a different perspective and adds depth to the 
+14 
+analysis, each model also has its own inherent limitations and should not be 
+15 
+relied upon individually without corroboration from other approaches.  
+16 
+Changes to inputs due to changes in economic conditions could have widely 
+17 
+different effects on the results of the various analyses.  Regardless of which 
+18 
+analyses are performed to estimate the investors’ required ROE, the analyst 
+19 
+must apply informed judgment to assess the reasonableness of results and 
+20 
+to determine the best weighting to apply to the results under prevailing 
+21 
+
+
+--- Page 17 ---
+25-E-XXXX & 25-G-XXXX 
+ 
+ 
+Consolidated Edison Company of New York, Inc. 
+Direct Testimony of Return on Equity Panel  
+ 
+ 
+Page 15 of 74 
+capital market conditions.  No one model can reliably and consistently 
+1 
+estimate the cost of capital that meets the fairness standard of Hope and 
+2 
+Bluefield in all market conditions.  
+3 
+ 
+4 
+IV.   CAPITAL MARKET CONDITIONS 
+5 
+Q. 
+Why is it important to analyze capital market conditions? 
+6 
+A. 
+The ROE estimation models rely on market data that are either specific to 
+7 
+the proxy group, in the case of the DCF model, or to the expectations of 
+8 
+market risk, in the case of the CAPM.  The results of the ROE estimation 
+9 
+models can be affected by prevailing market conditions at the time the 
+10 
+analysis is performed.  While the ROE that is established in a rate 
+11 
+proceeding is intended to be forward looking, the analyst uses current and 
+12 
+projected market data, specifically stock prices, dividends, growth rates and 
+13 
+interest rates in the ROE estimation models to estimate the required return 
+14 
+for the subject company.   
+15 
+ 
+ 
+Q. 
+What are the key factors affecting the cost of equity for regulated 
+16 
+utilities in the current and prospective capital markets?   
+17 
+A. 
+The cost of equity for regulated utilities is affected by several key factors in 
+18 
+the current and prospective capital markets: (1) inflation has gradually 
+19 
+moderated in 2024; (2) the Federal Reserve has started to reduce short-term 
+20 
+
+
+--- Page 18 ---
+25-E-XXXX & 25-G-XXXX 
+ 
+ 
+Consolidated Edison Company of New York, Inc. 
+Direct Testimony of Return on Equity Panel  
+ 
+ 
+Page 16 of 74 
+interest rates as inflation gradually moves toward the Federal Reserve’s 2.0 
+1 
+percent target; and (3) long-term interest rates remain elevated and are not 
+2 
+expected to decline in the near- to intermediate-term.  In this section, I 
+3 
+discuss each of these factors and how it affects the models used to estimate 
+4 
+the cost of equity for regulated utilities. 
+5 
+ 
+6 
+Q. 
+Please discuss economic conditions. 
+7 
+A.  
+The Federal Reserve continued to tighten monetary policy in the first half 
+8 
+of 2023 to combat higher than expected inflation, and economic conditions 
+9 
+were unsettled due to ongoing inflationary pressure and the prospects for 
+10 
+weaker economic growth or a possible recession.  Real Gross Domestic 
+11 
+Product (“GDP”) grew at an annual rate of 2.5 percent in 2023.  In 2024, 
+12 
+real GDP growth has averaged 1.6 percent in the first quarter of 2024, 3.0 
+13 
+percent in the second quarter of 2024, and 3.1 percent in the third quarter of 
+14 
+2024, as shown in Exhibit___(JCN-13). 
+15 
+ 
+16 
+Q. 
+Please discuss the path of monetary policy since 2022.  
+17 
+A. 
+As a result of persistently high inflation, the Federal Reserve raised the 
+18 
+federal funds target rate from 0.00 percent to 0.25 percent in March 2022 to 
+19 
+a range of 5.25 percent to 5.50 percent (the highest level in the last 20 years) 
+20 
+in July 2023.  In August 2024, Federal Reserve Chair Jerome Powell 
+21 
+
+
+--- Page 19 ---
+25-E-XXXX & 25-G-XXXX 
+ 
+ 
+Consolidated Edison Company of New York, Inc. 
+Direct Testimony of Return on Equity Panel  
+ 
+ 
+Page 17 of 74 
+signaled that the economic data on inflation and unemployment was likely 
+1 
+to lead to a reduction in short-term interest rates as soon as the Federal Open 
+2 
+Market Committee (“FOMC”) meeting in September 2024.  The Federal 
+3 
+Reserve reduced the federal funds rate by 50 basis points on September 18, 
+4 
+2024, and by 25 basis points at subsequent meetings on November 7, 2024 
+5 
+and December 18, 2024.  The federal funds rate now stands within a range 
+6 
+of 4.25 to 4.50 percent.  At the December FOMC meeting, the Federal 
+7 
+Reserve also released its economic projections for 2025-2027.  Importantly, 
+8 
+the Federal Reserve now expects to reduce short-term interest rates by an 
+9 
+additional 50 basis points in 2025, as compared to September 2024 
+10 
+projections when those same economic projections indicated an additional 
+11 
+100 basis points of rate cuts in 2025 (See Exhibit___(JCN-14), U.S. Federal 
+12 
+Reserve, Summary of Economic Projections, December 18, 2024, at 4). 
+13 
+Chair Powell has consistently indicated that future monetary policy would 
+14 
+remain dependent on economic data, the evolving outlook for inflation and 
+15 
+unemployment, and the balance of risks.  In addition, in announcing the 
+16 
+Federal Reserve’s December 2024 decision to cut the federal funds rate by 
+17 
+25 basis points, Chair Powell noted the uncertainty related to the economic 
+18 
+policies of the new administration and how those policies might affect 
+19 
+economic data. 
+20 
+
+
+--- Page 20 ---
+25-E-XXXX & 25-G-XXXX 
+ 
+ 
+Consolidated Edison Company of New York, Inc. 
+Direct Testimony of Return on Equity Panel  
+ 
+ 
+Page 18 of 74 
+ 
+1 
+Q. 
+Do these reductions in the federal funds rate in 2024 indicate that 
+2 
+capital costs for utilities are expected to decrease in the future? 
+3 
+A. 
+No, they do not.  It is clear that the extended period of record low interest 
+4 
+rates and moderate inflation following the financial crisis of 2007-2009 has 
+5 
+ended, even though inflation has decreased from the elevated levels 
+6 
+experienced in the wake of the COVID-19 pandemic. Importantly, long-
+7 
+term interest rates have increased considerably since the Commission issued 
+8 
+an Order on July 20, 2023, adopting the Joint Proposal in the 2022 
+9 
+CECONY rate cases, which included an ROE of 9.25 percent.  
+10 
+ 
+11 
+Q. 
+How does the present interest rate environment compare to when the 
+12 
+current authorized ROE of 9.25 percent was set by the Commission for 
+13 
+CECONY? 
+14 
+A. 
+Exhibit___(JCN-15) compares current average 30-year Treasury bond 
+15 
+yields as of November 30, 2024 to the average 30-year Treasury bond yield 
+16 
+as of June 30, 2023 (immediately prior to when the Commission adopted 
+17 
+the Joint Proposal in the 2022 CECONY rate cases) and as of October 31, 
+18 
+2021 (the period of the ROE analysis in the 2022 CECONY rate cases), as 
+19 
+well as to near-term and longer-term projections. As shown in 
+20 
+Exhibit___(JCN-15), the 30-day average 30-year Treasury bond yield has 
+21 
+
+
+--- Page 21 ---
+25-E-XXXX & 25-G-XXXX 
+ 
+ 
+Consolidated Edison Company of New York, Inc. 
+Direct Testimony of Return on Equity Panel  
+ 
+ 
+Page 19 of 74 
+increased by 63 basis points since the Commission adopted the Joint 
+1 
+Proposal in CECONY’s 2022 rate cases and by 249 basis points since the 
+2 
+Company’s ROE analysis was performed in those cases.  Long-term interest 
+3 
+rates are expected to remain near current levels over the near- to 
+4 
+intermediate-term. 
+5 
+ 
+6 
+Q. 
+Please explain why these higher interest rates are important to the ROE 
+7 
+analysis. 
+8 
+A.  
+Interest rates are a direct input to both the CAPM and the Risk Premium 
+9 
+models.  As interest rates increase, the cost of capital generally increases, 
+10 
+and the ROE estimates from those two models also increase, although not 
+11 
+on a one-to-one basis.  Further, while interest rates are not a direct input to 
+12 
+the DCF model, dividend yields on utility stocks must compete with yields 
+13 
+on Treasury bonds.  As interest rates on Treasury bonds increase, utilities 
+14 
+must offer a higher dividend yield to attract and retain investors, signaling 
+15 
+an increase in the cost of equity for utilities.  All else equal, higher dividend 
+16 
+yields produce higher ROE estimates in the DCF model.  
+17 
+ 
+18 
+Q. 
+Please discuss the status of inflation. 
+19 
+A. 
+While the overall consumer price index (“CPI”) has declined from the 
+20 
+extreme levels of June 2022 when it reached an annualized rate of 9.1 
+21 
+
+
+--- Page 22 ---
+25-E-XXXX & 25-G-XXXX 
+ 
+ 
+Consolidated Edison Company of New York, Inc. 
+Direct Testimony of Return on Equity Panel  
+ 
+ 
+Page 20 of 74 
+percent, the core inflation rate has been more persistent and remains well 
+1 
+above the Federal Reserve’s target of two percent over the long-term. As 
+2 
+shown in Exhibit___(JCN-16), the core inflation rate, which excludes 
+3 
+volatile food and energy prices, was 3.3 percent for the 12-month period 
+4 
+ended November 2024, according to the Bureau of Labor Statistics.   
+5 
+  
+ 
+6 
+Inflation expectations also remain above the Federal Reserve’s target of 2.0 
+7 
+percent, as shown in the University of Michigan’s latest consumer 
+8 
+confidence survey (See Exhibit___(JCN-17), University of Michigan 
+9 
+Consumer Confidence Survey, Preliminary Results for December 2024), 
+10 
+which indicated that U.S. consumers expect inflation of approximately 2.6 
+11 
+percent over the next year, while long-run inflation expectations were at 3.2 
+12 
+percent, as compared to 3.1 percent in the prior month. 
+13 
+ 
+14 
+Q. 
+What is your conclusion regarding the effect of capital market 
+15 
+conditions on the cost of equity for CECONY in this proceeding?  
+16 
+A.  
+My conclusion is that while core inflation has gradually moderated in 2024 
+17 
+it remains well above the Fed’s target of 2.0 percent, and although short-
+18 
+term interest rates have declined, current and projected long-term 30-year 
+19 
+Treasury bond yields remain between 4.30 and 4.50 percent, which is well 
+20 
+above the level when CECONY’s current authorized ROE was established 
+21 
+
+
+--- Page 23 ---
+25-E-XXXX & 25-G-XXXX 
+ 
+ 
+Consolidated Edison Company of New York, Inc. 
+Direct Testimony of Return on Equity Panel  
+ 
+ 
+Page 21 of 74 
+by the Commission.  Under these conditions, it is reasonable that equity 
+1 
+investors would require a higher ROE to compensate them for the additional 
+2 
+risk associated with owning common stock.  These circumstances are 
+3 
+reflected in the results of multiple models used to estimate the cost of equity, 
+4 
+such as the DCF, CAPM, and Risk Premium models.   
+5 
+ 
+6 
+V.   PROXY GROUP SELECTION 
+7 
+Q. 
+Please explain why you have used a group of proxy companies to 
+8 
+determine the cost of equity for CECONY. 
+9 
+A. 
+In these proceedings, we are focused on estimating the cost of equity for the 
+10 
+Company’s rate-regulated electric and natural gas distribution utility 
+11 
+operations.  Because ROE is a market-based concept and CECONY is not 
+12 
+publicly traded, it is necessary to establish a group of companies that are 
+13 
+both publicly traded and comparable to the Company in terms of business 
+14 
+and financial risk.  Even if CECONY were a publicly traded entity, it is 
+15 
+possible that transitory events could bias the Company’s market value in 
+16 
+one way or another in a given period of time.  A significant benefit of using 
+17 
+a proxy group is the ability to mitigate the effects of short-term events that 
+18 
+may be associated with any specific company and is consistent with the 
+19 
+Commission’s historical practice.  The proxy companies used in my ROE 
+20 
+analyses possess a set of business and operating characteristics similar to 
+21 
+
+
+--- Page 24 ---
+25-E-XXXX & 25-G-XXXX 
+ 
+ 
+Consolidated Edison Company of New York, Inc. 
+Direct Testimony of Return on Equity Panel  
+ 
+ 
+Page 22 of 74 
+the Company’s utility operations, and thus provide a reasonable basis for 
+1 
+estimating the Company’s ROE. 
+2 
+ 
+3 
+Q. 
+Please provide a summary profile of the Company. 
+4 
+A. 
+CECONY’s business consists of its regulated electric distribution and 
+5 
+transmission operations and natural gas distribution operations in New York 
+6 
+City and Westchester County.  The Company also provides steam service 
+7 
+in parts of Manhattan. The Company provides electric service to almost 3.7 
+8 
+million customers and natural gas distribution service to approximately 1.1 
+9 
+million customers.  CECONY’s long-term issuer ratings are A3 (Moody’s 
+10 
+Investors Service, Outlook: Stable), A- (S&P Global Ratings, Outlook: 
+11 
+Stable) and A- (FitchRatings, Senior Unsecured Rating, Outlook: Stable). 
+12 
+ 
+13 
+Q. 
+How did you select the companies included in your proxy group? 
+14 
+A. 
+The Commission has historically relied on proxy groups generally 
+15 
+composed of electric-only and combination gas and electric utilities.  In 
+16 
+recognition of that practice, I began with the companies that Value Line 
+17 
+classifies as “Electric Utilities,” which includes electric-only and 
+18 
+combination utilities.  However, it is important to recognize that the 
+19 
+Company’s operations include both gas and electric utility operations, so 
+20 
+the inclusion of electric-only utilities in the proxy group may overweight 
+21 
+
+
+--- Page 25 ---
+25-E-XXXX & 25-G-XXXX 
+ 
+ 
+Consolidated Edison Company of New York, Inc. 
+Direct Testimony of Return on Equity Panel  
+ 
+ 
+Page 23 of 74 
+the risk profile of the Company’s electric utility operations.  Therefore, I 
+1 
+also included companies that Value Line classifies as “Natural Gas 
+2 
+Distribution Companies,” which includes natural gas-only utilities.  That 
+3 
+combined group includes 46 domestic U.S. utilities.  I applied the following 
+4 
+screening criteria to establish a risk-comparable proxy group that includes 
+5 
+both electric utility companies and natural gas distribution companies: 
+6 
+• In order that information regarding the proxy group companies is 
+7 
+consensus-based, I eliminated companies that are not covered by at 
+8 
+least two utility industry equity analysts; 
+9 
+• I eliminated companies that do not have investment grade corporate 
+10 
+credit ratings and/or senior unsecured bond ratings according to 
+11 
+S&P Global and Moody’s because such companies do not have a 
+12 
+similar financial risk profile to that of the Company; 
+13 
+• I eliminated companies that have not paid regular dividends or do 
+14 
+not have positive earnings growth projections from at least one 
+15 
+source because such characteristics are incompatible with the DCF 
+16 
+model; 
+17 
+• In order that the proxy group consists of companies that are 
+18 
+primarily transmission and distribution regulated utilities, I 
+19 
+eliminated companies that have owned generation comprising 
+20 
+
+
+--- Page 26 ---
+25-E-XXXX & 25-G-XXXX 
+ 
+ 
+Consolidated Edison Company of New York, Inc. 
+Direct Testimony of Return on Equity Panel  
+ 
+ 
+Page 24 of 74 
+greater than 60 percent of the company’s MWh sales to ultimate 
+1 
+customers; 
+2 
+• In order that the proxy group consists of companies that are 
+3 
+primarily regulated utilities, I eliminated companies with less than 
+4 
+70 percent of total operating income derived from regulated utility 
+5 
+operations; and 
+6 
+• I eliminated companies known to be party to a significant merger, 
+7 
+acquisition, or other transformational transaction as such activities 
+8 
+may have a temporary effect on such companies’ stock prices and 
+9 
+projections unrelated to the overall cost of capital. 
+10 
+ 
+11 
+Q. 
+What is the composition of your proxy group? 
+12 
+A. 
+My proxy group consists of the following 19 companies: American Electric 
+13 
+Power Company, Inc., Atmos Energy Corporation, Avista Corporation, 
+14 
+Black Hills Corporation, CMS Energy Corporation, Edison International, 
+15 
+Eversource Energy, Exelon Corporation, NiSource Inc., NorthWestern 
+16 
+Corporation, Northwest Natural Gas Company, OGE Energy Corporation, 
+17 
+ONE Gas, Inc., Public Service Enterprise Group Inc., Portland General 
+18 
+Electric Company, PPL Corporation, Spire, Inc., TXNM Energy, Inc., Xcel 
+19 
+Energy Inc. 
+20 
+
+
+--- Page 27 ---
+25-E-XXXX & 25-G-XXXX 
+ 
+ 
+Consolidated Edison Company of New York, Inc. 
+Direct Testimony of Return on Equity Panel  
+ 
+ 
+Page 25 of 74 
+ 
+1 
+Q. 
+Has the Commission typically relied on similar screening criteria when 
+2 
+estimating a utility’s ROE? 
+3 
+A. 
+Yes.  The Commission has typically relied on screening criteria that are 
+4 
+similar to those that I have used to develop my proxy group.  The proxy 
+5 
+group that is typically relied on by the Commission is composed of a large 
+6 
+group of dividend-paying companies with investment grade bond ratings 
+7 
+and regulated revenues of at least 70 percent that are not engaged in merger-
+8 
+related or corporate restructuring activities. (see, e.g., Case 13-E-0030, 
+9 
+Proceeding on Motion of the Commission as to the Rates, Charges, Rules 
+10 
+and Regulations of Consolidated Edison Company of New York, Inc. for 
+11 
+Electric Service, Testimony of Craig E. Henry, at 14-16). 
+12 
+ 
+13 
+In establishing my proxy group, however, I relied on the percentage of net 
+14 
+operating income derived from regulated operations instead of the 
+15 
+percentage of total revenue derived from regulated operations because net 
+16 
+operating income is more representative of the contribution of that business 
+17 
+segment to earnings and the corporation’s overall financial position.  
+18 
+Specifically, a significant portion of gas and electric utility company 
+19 
+revenue is derived from the costs of purchased gas, purchased fuel, and 
+20 
+purchased power, which, in most cases, are recoverable through tracking 
+21 
+
+
+--- Page 28 ---
+25-E-XXXX & 25-G-XXXX 
+ 
+ 
+Consolidated Edison Company of New York, Inc. 
+Direct Testimony of Return on Equity Panel  
+ 
+ 
+Page 26 of 74 
+mechanisms and do not, therefore, contribute to earnings.  Furthermore, this 
+1 
+portion of total revenue can fluctuate considerably based on the cost of gas 
+2 
+and other inputs.  Therefore, relying exclusively on a revenue screen does 
+3 
+not provide a clear or necessarily consistent indicator of the contribution of 
+4 
+the regulated utility operations to a company’s earnings.  Net operating 
+5 
+income excludes the cost of purchased commodity and therefore more 
+6 
+closely represents the contribution of the business segment to earnings.  
+7 
+ 
+8 
+VI. COST OF EQUITY ESTIMATION 
+9 
+Q. 
+How is the required ROE determined? 
+10 
+A. 
+While the cost of debt can be directly observed, the cost of equity and the 
+11 
+required ROE are market-based and, therefore, must be estimated based on 
+12 
+observable market data.  The required ROE is determined by using one or 
+13 
+more analytical techniques that rely on market data to quantify investor 
+14 
+expectations regarding the range of required equity returns.  Informed 
+15 
+judgment is applied, based on the results of those analyses, to determine 
+16 
+where within the range of results the cost of equity for a company falls.  As 
+17 
+a general proposition, the key consideration in determining the cost of 
+18 
+equity is that the methodologies employed reasonably reflect investors’ 
+19 
+views of the financial markets, the proxy group companies, and the subject 
+20 
+company’s risk profile. 
+21 
+
+
+--- Page 29 ---
+25-E-XXXX & 25-G-XXXX 
+ 
+ 
+Consolidated Edison Company of New York, Inc. 
+Direct Testimony of Return on Equity Panel  
+ 
+ 
+Page 27 of 74 
+ 
+1 
+Q. 
+What methods did you use to determine the Company’s cost of equity?  
+2 
+A. 
+Consistent with Commission precedent, I used the DCF model and CAPM 
+3 
+as the primary approaches.  In establishing my recommended ROE, I relied 
+4 
+on a multi-stage form of the DCF model, and, consistent with the 
+5 
+Commission’s stated preference, I used both the traditional form of the 
+6 
+CAPM as well as the Zero-Beta form of that model.  In both forms of the 
+7 
+CAPM, I incorporated a forward-looking measure of the Market Risk 
+8 
+Premium (“MRP”).  
+9 
+ 
+10 
+Q. 
+Please elaborate on why it is important to use more than one model to 
+11 
+estimate the cost of equity. 
+12 
+A. 
+The cost of equity cannot be directly observed in the same way as the cost 
+13 
+of debt or preferred stock.  Various financial models have been developed 
+14 
+to estimate the cost of equity, including the DCF, CAPM, and Risk Premium 
+15 
+models.  Each model has strengths and limitations, depending on market 
+16 
+conditions, and no one model always produces reliable or “accurate” results.  
+17 
+In his financial textbook, Financial Management Theory and Practice, 
+18 
+Fourth Edition, copyright 1985, (at 256), Dr. Eugene F. Brigham writes: 
+19 
+In practical work, it is often best to use all three methods – 
+20 
+CAPM, bond yield plus risk premium, and DCF – and then 
+21 
+apply judgment when the methods produce different results.  
+22 
+People experienced in estimating equity capital costs 
+23 
+
+
+--- Page 30 ---
+25-E-XXXX & 25-G-XXXX 
+ 
+ 
+Consolidated Edison Company of New York, Inc. 
+Direct Testimony of Return on Equity Panel  
+ 
+ 
+Page 28 of 74 
+recognize that both careful analysis and some very fine 
+1 
+judgments are required (See Exhibit___(JCN-18)). 
+2 
+The important conclusion to be drawn is that these various financial models 
+3 
+provide estimates of the cost of equity.  They cannot be mechanically 
+4 
+applied to produce a precise or “correct” authorized ROE for a regulated 
+5 
+utility such as CECONY. 
+6 
+         
+7 
+A. DISCOUNTED CASH FLOW MODEL 
+8 
+Q. 
+Please describe the DCF model. 
+9 
+A. 
+The DCF model is based on the theory that a stock’s current market price 
+10 
+represents the present value of all expected future cash flows.  In its most 
+11 
+general form, the DCF model is expressed as follows: 
+12 
+𝑃𝑃0 =
+𝐷𝐷1
+(1+𝑟𝑟)1 +
+𝐷𝐷2
+(1+𝑟𝑟)2 + ⋯+
+𝐷𝐷𝑛𝑛
+(1+𝑟𝑟)𝑛𝑛 
+[1] 
+13 
+Where P0 represents the current market stock price, D1, D2, … Dn are all 
+14 
+expected future dividends, and r is the discount rate, or required ROE.  As 
+15 
+discussed below, I have not included the constant growth form of the DCF 
+16 
+model, but instead have focused on a multi-stage form of the DCF model.   
+17 
+ 
+18 
+Q. 
+Please describe the DCF model you relied on.  
+19 
+A. 
+The multi-stage DCF model is an extension of the constant growth form that 
+20 
+enables the analyst to specify growth rates over multiple stages.  As with 
+21 
+the constant growth form of the DCF model, the multi-stage form defines 
+22 
+
+
+--- Page 31 ---
+25-E-XXXX & 25-G-XXXX 
+ 
+ 
+Consolidated Edison Company of New York, Inc. 
+Direct Testimony of Return on Equity Panel  
+ 
+ 
+Page 29 of 74 
+the cost of equity as the discount rate that sets the current price equal to the 
+1 
+discounted value of future cash flows.  A multi-stage DCF model addresses 
+2 
+the possibility that mean five-year growth rates may not be reasonable in 
+3 
+perpetuity and that payout ratios could vary over time. 
+4 
+ 
+5 
+Q. 
+Please describe the structure of the multi-stage DCF model.  
+6 
+A. 
+The multi-stage DCF model that I have used sets the proxy company’s 
+7 
+current stock price equal to the present value of future cash flows received 
+8 
+over three time periods.  In all three periods, cash flows are equal to the 
+9 
+annual dividend payments that stockholders receive.  The first period is a 
+10 
+short-term growth period that consists of the first five years; the second 
+11 
+period is a transition period from the short-term growth rate to the long-term 
+12 
+growth rate that occurs over five years (i.e., years six through ten); and the 
+13 
+third period is a long-term growth period that begins in year 11 and 
+14 
+continues in perpetuity.  The ROE is then calculated as the rate of return 
+15 
+that results from the initial stock investment and the dividend payments over 
+16 
+the analytical period. 
+17 
+ 
+18 
+Q. 
+Has the Commission relied on a multi-stage DCF model in prior cases?  
+19 
+A. 
+Yes. The Commission has relied on a two-stage form of the DCF model in 
+20 
+prior cases. (see, Case 10-E-0362, Proceeding on Motion of the Commission 
+21 
+
+
+--- Page 32 ---
+25-E-XXXX & 25-G-XXXX 
+ 
+ 
+Consolidated Edison Company of New York, Inc. 
+Direct Testimony of Return on Equity Panel  
+ 
+ 
+Page 30 of 74 
+as to the Rates, Charges, Rules and Regulations of Orange and Rockland 
+1 
+Utilities, Inc. for Electric Service, Order Establishing Rates for Electric 
+2 
+Service, (issued June 17, 2011) (“2011 O&R Rate Order”), at 68-69).  The 
+3 
+two-stage model that the Commission has relied on and the multi-stage 
+4 
+model that I rely on both define the cost of equity as the discount rate that 
+5 
+sets the current stock price equal to the discounted value of future cash flows 
+6 
+that are expressed as projected dividends.  Both models project dividends 
+7 
+using growth rates over multiple periods.   
+8 
+ 
+9 
+Q. 
+Does the multi-stage DCF model offer advantages over the two-stage 
+10 
+model traditionally relied upon by the Commission? 
+11 
+A. 
+Yes.  The general form of the two-stage model relied upon by the 
+12 
+Commission involves a near-term growth stage based on projected 
+13 
+dividends and a long-term growth stage employing an estimated long-term 
+14 
+growth rate in dividends (see, e.g., 2011 O&R Rate Order).  The 
+15 
+Commission’s application of a two-stage DCF model assumes that a 
+16 
+company’s growth abruptly shifts to a long-run growth state after the initial 
+17 
+five-year period.  In contrast, the multi-stage model relies on growth rates 
+18 
+over three periods, as described above.  The multi-stage form of the DCF 
+19 
+model provides for a gradual transition to a company’s expected long-term 
+20 
+
+
+--- Page 33 ---
+25-E-XXXX & 25-G-XXXX 
+ 
+ 
+Consolidated Edison Company of New York, Inc. 
+Direct Testimony of Return on Equity Panel  
+ 
+ 
+Page 31 of 74 
+growth, whereas the two-stage DCF model assumes the transition from 
+1 
+short-term to long-term growth occurs in one year.  
+2 
+  
+3 
+Q. 
+What market data did you use to calculate the current stock price in 
+4 
+your DCF model? 
+5 
+A. 
+The stock prices that I relied on in my DCF model are based on the average 
+6 
+market closing prices for the proxy companies over the three months ended 
+7 
+November 30, 2024. 
+8 
+ 
+9 
+Q. 
+What growth rates did you rely on in the multi-stage DCF model? 
+10 
+A. 
+As shown in Exhibit___(JCN-3), I began with the current annualized 
+11 
+dividend as of November 30, 2024, for each proxy group company.  In the 
+12 
+first stage of the model, the current annualized dividend is escalated based 
+13 
+on the average of the three-to five-year earnings growth estimates reported 
+14 
+by S&P Capital IQ Pro, Zacks Investment Research, and the Value Line 
+15 
+Investment Survey.  For the third stage of the model, I relied on long-term 
+16 
+projected growth in GDP.  The second stage growth rate is a transition from 
+17 
+the first stage growth rate to the long-term growth rate on a geometric 
+18 
+average basis. 
+19 
+
+
+--- Page 34 ---
+25-E-XXXX & 25-G-XXXX 
+ 
+ 
+Consolidated Edison Company of New York, Inc. 
+Direct Testimony of Return on Equity Panel  
+ 
+ 
+Page 32 of 74 
+ 
+1 
+Q. 
+Why do you believe that earnings growth rates are the appropriate 
+2 
+measure of growth in the first stage of the multi-stage DCF model? 
+3 
+A. 
+Earnings are the fundamental driver of a company’s ability to pay 
+4 
+dividends; therefore, earnings growth is the appropriate measure of a 
+5 
+company’s long-term growth. In contrast, changes in a company’s dividend 
+6 
+payments are based on management decisions related to cash management 
+7 
+and other factors.  For example, a company may decide to retain certain 
+8 
+earnings to fund investments rather than pay out those earnings as 
+9 
+dividends.  Therefore, dividend growth rates are less likely than earnings 
+10 
+growth rates to reflect investor perceptions of a company’s growth 
+11 
+prospects.   
+12 
+ 
+13 
+Q. 
+Is there support for the use of analysts’ earnings growth estimates in 
+14 
+the DCF model? 
+15 
+A. 
+Yes. There is significant academic support for the use of analysts’ earnings 
+16 
+growth rates.  In addition, the majority of the data that are publicly available 
+17 
+to investors sets forth analysts’ projections of earnings growth rates.  Value 
+18 
+Line is the only publication I am aware of that provides projected dividend 
+19 
+growth rates. 
+20 
+
+
+--- Page 35 ---
+25-E-XXXX & 25-G-XXXX 
+ 
+ 
+Consolidated Edison Company of New York, Inc. 
+Direct Testimony of Return on Equity Panel  
+ 
+ 
+Page 33 of 74 
+ 
+1 
+Q. 
+Please summarize the academic research on growth rates and stock 
+2 
+valuation.  
+3 
+A. 
+The relationship between various growth rates and stock valuation metrics 
+4 
+has been the subject of much academic research.  Many published articles 
+5 
+specifically support the use of analysts’ earnings growth projections in the 
+6 
+DCF model in general, as well as for a method of calculating the expected 
+7 
+MRP.  In particular, while this article is focused on the calculation of the 
+8 
+CAPM, Dr. Robert Harris demonstrates that financial analysts rely on 
+9 
+earnings forecasts (referred to in the article as “FAF”) and the use of a 
+10 
+constant growth DCF formula to estimate the expected MRP (See 
+11 
+Exhibit___(JCN-19), Robert S. Harris, Using Analysts’ Growth Forecasts 
+12 
+to Estimate Shareholder Required Rates of Return, Financial Management, 
+13 
+Spring 1986, at 59-60, 66).  Dr. Harris’s work demonstrates that analysts 
+14 
+rely on earnings as the appropriate measure of growth in the DCF model.  
+15 
+ 
+16 
+Professors Carleton and Vander Weide also performed a study to determine 
+17 
+whether projected earnings growth rates are superior to historical measures 
+18 
+of growth in the implementation of the DCF model (See Exhibit___(JCN-
+19 
+20), James H. Vander Weide, Willard T. Carleton, Investor growth 
+20 
+expectations: Analysts vs. history, The Journal of Portfolio Management, 
+21 
+
+
+--- Page 36 ---
+25-E-XXXX & 25-G-XXXX 
+ 
+ 
+Consolidated Edison Company of New York, Inc. 
+Direct Testimony of Return on Equity Panel  
+ 
+ 
+Page 34 of 74 
+Spring 1988).  Although the purpose of that study was to “investigate what 
+1 
+growth expectation is embodied in the firm’s current stock price” (p. 78), 
+2 
+the authors clearly indicate the superiority of earnings projections in the 
+3 
+context of the DCF model.  In addition, the Carleton and Vander Weide 
+4 
+study was updated to determine whether the finding that analysts’ earnings 
+5 
+growth forecasts are relevant in the stock valuation process still holds.  The 
+6 
+results of that updated study continued to demonstrate the importance of 
+7 
+analysts’ earnings forecasts, including the application of those forecasts to 
+8 
+utility companies (See Exhibit___(JCN-21), Advanced Research Center, 
+9 
+Investor Growth Expectations, Summer, 2004).   
+10 
+ 
+11 
+Similarly, Harris and Marston presented “estimates of shareholder required 
+12 
+rates of return and risk premia which are derived using forward-looking 
+13 
+analysts’ growth forecasts.” (See Exhibit___(JCN-22), Robert S. Harris, 
+14 
+Felicia C. Marston, Estimating Shareholder Risk Premia Using Analysts’ 
+15 
+Growth Forecasts, Financial Management, Summer 1992).  In addition, 
+16 
+Brigham, Shome and Vinson noted that “evidence in the current literature 
+17 
+indicates that (1) analysts’ forecasts are superior to forecasts based solely 
+18 
+on time series data; and (2) investors do rely on analysts’ forecasts.” (See 
+19 
+Exhibit___(JCN-23), The Risk Premium Approach to Measuring a Utility’s 
+20 
+Cost of Equity, Financial Management, Spring 1985). 
+21 
+
+
+--- Page 37 ---
+25-E-XXXX & 25-G-XXXX 
+ 
+ 
+Consolidated Edison Company of New York, Inc. 
+Direct Testimony of Return on Equity Panel  
+ 
+ 
+Page 35 of 74 
+ 
+1 
+Q. 
+Are there other practical considerations with respect to the 
+2 
+Commission’s historical reliance on dividend per share growth rates 
+3 
+during the initial five-year term of its Two-Stage DCF model?  
+4 
+A. 
+Yes.   In prior cases, Staff of the New York State Department of Public 
+5 
+Service’s (“Staff”) sole reliance on Value Line projections of dividend per 
+6 
+share growth is not appropriate for several reasons.  First, the use of only 
+7 
+dividend growth rates ignores the aforementioned substantial body of 
+8 
+academic research demonstrating that earnings growth rates are the most 
+9 
+relevant factor in stock price valuation. The Generic Finance RD indicates 
+10 
+that the Telecommunications Group, which included Staff, supported the 
+11 
+use of earnings per share growth in the DCF models employed to estimate 
+12 
+the ROE (Generic Finance RD at 44).  Second, projections of dividend 
+13 
+growth, which would not include growth in retained earnings, only measure 
+14 
+a portion of a company’s growth.  Therefore, earnings growth projections 
+15 
+are more complete estimates of total company growth than are projected 
+16 
+dividend growth rates.  Finally, Value Line’s four- to six-year projections 
+17 
+are not consensus estimates, but reflect the viewpoint of a single analyst.  
+18 
+Therefore, the Commission’s models, which have historically relied only 
+19 
+on projected dividend per share growth rates from Value Line, reflect the 
+20 
+growth expectations of a single analyst in the first stage of the model.  In 
+21 
+
+
+--- Page 38 ---
+25-E-XXXX & 25-G-XXXX 
+ 
+ 
+Consolidated Edison Company of New York, Inc. 
+Direct Testimony of Return on Equity Panel  
+ 
+ 
+Page 36 of 74 
+contrast, consensus estimates of projected earnings per share growth rates 
+1 
+are publicly available and widely used by investors, including Zacks 
+2 
+Investment Research.  Each of these consensus forecasts considers the 
+3 
+growth expectations for each company based on the expectations of 
+4 
+multiple equity analysts.  It is not reasonable to exclude these timely and 
+5 
+widely available sources of information from the analysis when these real-
+6 
+time sources have become the more common data points relied on by 
+7 
+investors.   
+8 
+ 
+9 
+Q. 
+How did you calculate the long-term GDP growth rate?  
+10 
+A. 
+As shown in Exhibit___(JCN-4), the long-term growth rate of 5.51 percent 
+11 
+is based on the real GDP growth rate of 3.18 percent from 1929 through 
+12 
+2023 (U.S. Department of Commerce, Bureau of Economic Analysis, 
+13 
+National Income and Product Accounts Tables, Table 1.1.6, April 30, 
+14 
+2024), and a projected long-term inflation rate of 2.26 percent ((1 + 0.0318) 
+15 
+x (1 + 0.0226) -1 = 0.055 or 5.51%).  The projected rate of inflation is based 
+16 
+on three measures beyond the 2024-2029, near-term growth period:  (1) the 
+17 
+average long-term projected growth rate in the CPI of 2.20 percent, as 
+18 
+reported 
+by 
+Blue 
+Chip 
+Financial 
+Forecasts 
+(See 
+Confidential 
+19 
+Exhibit___(JCN-24), Vol. 43, No. 12, November 27, 2024, at 14); (2) the 
+20 
+compound annual growth rate of the CPI for all urban consumers for 2031-
+21 
+
+
+--- Page 39 ---
+25-E-XXXX & 25-G-XXXX 
+ 
+ 
+Consolidated Edison Company of New York, Inc. 
+Direct Testimony of Return on Equity Panel  
+ 
+ 
+Page 37 of 74 
+2050 of 2.26 percent as projected by the Energy Information Administration 
+1 
+(“EIA”) in the Annual Energy Outlook 2023; and (3) the compound annual 
+2 
+growth rate of the GDP chain-type price index for 2031-2050 of 2.31 
+3 
+percent, also reported by the EIA in the Annual Energy Outlook 2023 (U.S. 
+4 
+Energy Information Administration, Annual Energy Outlook 2023, Table 
+5 
+20).   
+6 
+ 
+7 
+Q. 
+Why is the long-term GDP growth rate a reasonable estimate of long-
+8 
+term growth in the multi-stage DCF model? 
+9 
+A. 
+Long-term estimates of GDP growth are commonly used in regulatory 
+10 
+proceedings as a proxy for the long-term growth rate in the multi-stage DCF 
+11 
+analysis.  That application is based on the common theoretical assumption 
+12 
+that, over the long-run, all companies in the economy will tend to grow at 
+13 
+the same constant rate.  That assumption is designed to address the 
+14 
+uncertainty associated with estimating individual company growth rates 
+15 
+over very long-time horizons and is not meant to suggest that company 
+16 
+growth rates in the economy will indeed converge in practice over any given 
+17 
+period.   
+18 
+ 
+19 
+
+
+--- Page 40 ---
+25-E-XXXX & 25-G-XXXX 
+ 
+ 
+Consolidated Edison Company of New York, Inc. 
+Direct Testimony of Return on Equity Panel  
+ 
+ 
+Page 38 of 74 
+Q. 
+Is your calculation of GDP growth consistent with the way in which 
+1 
+other analysts’ compute estimates of long-term GDP growth? 
+2 
+A. 
+Yes.  Investors understand that the U.S. economy goes through cycles of 
+3 
+growth and contraction.  Therefore, it is appropriate to consider the longest 
+4 
+period possible to measure historical real growth in GDP.  This view is 
+5 
+consistent with Morningstar’s explanation (See Exhibit___(JCN-25), 
+6 
+Ibbotson and Associates, Stocks, Bonds, Bills and Inflation, 1926-2012, 
+7 
+2013 Valuation Yearbook, at 52) about measuring GDP growth: 
+8 
+Growth in real GDP (with only a few exceptions) has 
+9 
+been reasonably stable over time; therefore, its 
+10 
+historical performance is a good estimate of expected 
+11 
+long-term future performance.  By combining the 
+12 
+inflation estimate with the real growth rate estimate, a 
+13 
+long-term estimate of nominal growth is formed. 
+14 
+ 
+15 
+Furthermore, Morningstar (at 59) supports the use of long-term historical 
+16 
+data:  
+17 
+The 87-year period starting with 1926 is representative 
+18 
+of what can happen: it includes high and low returns, 
+19 
+volatile and quiet markets, war and peace, inflation and 
+20 
+deflation, and prosperity and depression.  Restricting 
+21 
+attention to a shorter historical period underestimates 
+22 
+the amount of change that could occur in a long future 
+23 
+period.  Finally, because historical event-types (not 
+24 
+specific events) tend to repeat themselves, long-run 
+25 
+capital market return studies can reveal a great deal 
+26 
+about the future.  Investors probably expect “unusual” 
+27 
+events to occur from time to time, and their return 
+28 
+expectations reflect this. 
+29 
+ 
+30 
+
+
+--- Page 41 ---
+25-E-XXXX & 25-G-XXXX 
+ 
+ 
+Consolidated Edison Company of New York, Inc. 
+Direct Testimony of Return on Equity Panel  
+ 
+ 
+Page 39 of 74 
+Q. 
+What is your conclusion regarding the methodology typically relied on 
+1 
+by Staff to estimate the sustainable growth rate in the two-stage DCF 
+2 
+model? 
+3 
+A. 
+I have several concerns with the use of the sustainable growth rate in the 
+4 
+two-stage DCF model.  First, the sustainable growth rate is not a long-term 
+5 
+measure of growth and as such should not be applied in perpetuity in the 
+6 
+second stage of the model.  Second, the exclusive use of Value Line data, 
+7 
+which is a single analyst’s viewpoint, to establish the sustainable growth 
+8 
+rate assumes that investors do not consider any of the other financial 
+9 
+information that is widely available when establishing future dividend 
+10 
+expectations.  In addition, the sustainable growth rate calculation includes 
+11 
+Value Line’s ROE projections as an input, implicitly accepting them as 
+12 
+reasonable.  However, Value Line’s ROE projections are often significantly 
+13 
+different from the ROE estimates produced by the two-stage DCF model.  
+14 
+Finally, Staff’s sustainable growth rate methodology implicitly assumes 
+15 
+that investors establish long-term growth expectations based entirely on 
+16 
+short-term, company-specific projections.  My conclusion is that it is 
+17 
+unreasonable to assume that investors would ignore the expectations of 
+18 
+long-term macroeconomic growth in establishing the long-term growth 
+19 
+estimates for an electric or natural gas distribution utility or any other 
+20 
+company. 
+21 
+
+
+--- Page 42 ---
+25-E-XXXX & 25-G-XXXX 
+ 
+ 
+Consolidated Edison Company of New York, Inc. 
+Direct Testimony of Return on Equity Panel  
+ 
+ 
+Page 40 of 74 
+ 
+1 
+Q. 
+What are the results of your DCF analyses? 
+2 
+A. 
+As shown in Exhibit___(JCN-3), the multi-stage DCF analysis based on a 
+3 
+three-month average stock price and a range of near-term growth rate 
+4 
+assumptions produces a mean ROE estimate of 9.83 percent. 
+5 
+ 
+6 
+B. CAPITAL ASSET PRICING MODEL  
+7 
+Q. 
+Please briefly describe the CAPM. 
+8 
+A. 
+The CAPM is a risk premium approach that estimates the cost of equity for 
+9 
+a given security as a function of a risk-free return plus a risk premium (to 
+10 
+compensate investors for the non-diversifiable or “systematic” risk of that 
+11 
+security). Systematic risks are fundamental market risks that reflect 
+12 
+aggregate economic measures and therefore cannot be mitigated through 
+13 
+diversification.  Unsystematic risks reflect company-specific risks that can 
+14 
+be mitigated and ultimately eliminated through investments in a portfolio of 
+15 
+companies and/or market sectors.  As shown in Equation [2], below, the 
+16 
+CAPM is defined by four components, each of which must theoretically be 
+17 
+a forward-looking estimate: 
+18 
+ke = rf + β(rm – rf)  
+ [2] 
+19 
+
+
+--- Page 43 ---
+25-E-XXXX & 25-G-XXXX 
+ 
+ 
+Consolidated Edison Company of New York, Inc. 
+Direct Testimony of Return on Equity Panel  
+ 
+ 
+Page 41 of 74 
+where:  
+1 
+ 
+ke = the required market ROE 
+2 
+ 
+β = Beta coefficient of an individual security 
+3 
+ 
+rf = the risk-free rate of return 
+4 
+ 
+rm = the required return on the market as a whole 
+5 
+The term (rm – rf) represents the MRP.  According to the theory underlying 
+6 
+the CAPM, unsystematic risk can be diversified away, therefore investors 
+7 
+should be concerned only with systematic or non-diversifiable risk.  Non-
+8 
+diversifiable risk is measured by Beta, which is defined as: 
+9 
+β = 
+  [3] 
+10 
+where:  
+11 
+ 
+re = the rate of return for the individual security or portfolio. 
+12 
+The variance of the market return, noted in Equation [3], above, is a measure 
+13 
+of the uncertainty of the general market, and the covariance between the 
+14 
+return on a specific security and the market reflects the extent to which the 
+15 
+return on that security will respond to a given change in the market return.  
+16 
+Thus, Beta represents the risk that the selected security will not be effective 
+17 
+in diversifying systematic market risks. 
+18 
+ 
+19 
+)
+(
+)
+,
+(
+m
+m
+e
+r
+Variance
+r
+r
+Covariance
+
+
+--- Page 44 ---
+25-E-XXXX & 25-G-XXXX 
+ 
+ 
+Consolidated Edison Company of New York, Inc. 
+Direct Testimony of Return on Equity Panel  
+ 
+ 
+Page 42 of 74 
+Q. 
+What risk-free rate did you use in your CAPM analysis? 
+1 
+A. 
+I used three estimates of the yield on Treasury bonds: (1) the current three-
+2 
+month average yield on 30-year Treasury bonds (4.31 percent) (Bloomberg 
+3 
+Professional as of November 30, 2004); (2) the near-term projected 30-year 
+4 
+Treasury yield for 2025-2026 (4.42 percent) (Blue Chip Financial 
+5 
+Forecasts, Vol. 43, No. 12, November 27, 2024, at 2); and (3) the projected 
+6 
+30-year Treasury yield for the period 2026-2030 (4.30 percent) (Blue Chip 
+7 
+Financial Forecasts, Vol. 43, No. 12, November 27, 2024, at 14).  In 
+8 
+determining the security most relevant to the application of the CAPM, it is 
+9 
+important to select the term (or maturity) that best matches the life of the 
+10 
+underlying investment.  As noted by Morningstar (See Exhibit___(JCN-26), 
+11 
+Morningstar Inc., Ibbotson SBBI 2013 Valuation Yearbook, at 44): 
+12 
+The traditional thinking regarding the time horizon of 
+13 
+the chosen Treasury security is that it should match the 
+14 
+time horizon of whatever is being valued…  Note that 
+15 
+the horizon is a function of the investment, not the 
+16 
+investor.  If an investor plans to hold stock in a company 
+17 
+for only five years, the yield on a five-year Treasury 
+18 
+note would not be appropriate since the company will 
+19 
+continue to exist beyond those five years. 
+20 
+Because utility companies represent long-duration investments, it is 
+21 
+appropriate to use yields on long-term Treasury bonds as the risk-free rate 
+22 
+component of the CAPM.  In my view, the 30-year Treasury bond is the 
+23 
+appropriate security for that purpose.  Because the cost of capital is intended 
+24 
+to be forward-looking, it is appropriate to consider projected measures of 
+25 
+
+
+--- Page 45 ---
+25-E-XXXX & 25-G-XXXX 
+ 
+ 
+Consolidated Edison Company of New York, Inc. 
+Direct Testimony of Return on Equity Panel  
+ 
+ 
+Page 43 of 74 
+the MRP and interest rates. 
+1 
+ 
+2 
+Q. 
+Please describe your estimate of the MRP used in your CAPM. 
+3 
+A. 
+The estimated MRP is based on the expected return on the S&P 500 Index, 
+4 
+less the 30-year Treasury bond yield.  The expected return on the S&P 500 
+5 
+Index is calculated using a DCF model for all companies in the index based 
+6 
+on market capitalization-weighted growth rates and dividend yields.  The 
+7 
+MRP implied by each of the three Treasury yields discussed above is used 
+8 
+in my CAPM analysis to produce a range of estimates. 
+9 
+ 
+The Commission previously has relied upon the calculation of a projected 
+10 
+MRP, based on the difference between the estimated forward-looking 
+11 
+required market return for the S&P 500, as provided by Bank of America 
+12 
+Merrill Lynch’s (“BAML”), and the risk-free rate (see e.g., 2011 O&R Rate 
+13 
+Order, at 77).  As a practical matter, that approach is consistent with the 
+14 
+Market DCF-derived forward-looking MRP estimate discussed above (see 
+15 
+also Exhibit___(JCN-6). Nonetheless, I have relied on the average of: (1) 
+16 
+the forward-looking required market return for the S&P 500 as calculated 
+17 
+using a DCF model for all companies in the index; and (2) the estimated 
+18 
+forward-looking required market return for the S&P 500, as provided by 
+19 
+BAML (Exhibit___(JCN-27) includes the relevant pages from the BAML’s 
+20 
+
+
+--- Page 46 ---
+25-E-XXXX & 25-G-XXXX 
+ 
+ 
+Consolidated Edison Company of New York, Inc. 
+Direct Testimony of Return on Equity Panel  
+ 
+ 
+Page 44 of 74 
+three most recent Quantitative Profiles with data through November 30, 
+1 
+2024). 
+2 
+ 
+3 
+Q. 
+What Beta coefficient did you use in your CAPM analysis? 
+4 
+A. 
+I relied on the average Beta coefficients for the proxy group companies as 
+5 
+reported by Bloomberg and Value Line (see Exhibit___(JCN-5)). The Beta 
+6 
+coefficients reported by Bloomberg were calculated using ten years of 
+7 
+weekly returns relative to the S&P 500 Index. Value Line’s calculation is 
+8 
+based on five years of weekly returns relative to the New York Stock 
+9 
+Exchange Composite Index. 
+10 
+ 
+11 
+Q. 
+Did you consider another form of the CAPM in your analysis? 
+12 
+A. 
+Yes.  In prior proceedings, the Commission has relied upon the Zero-Beta 
+13 
+CAPM (the form of which is sometimes referred to as the “Empirical 
+14 
+CAPM”, see e.g., Exhibit___(JCN-28), Roger A. Morin, New Regulatory 
+15 
+Finance, Public Utilities Reports, Inc., 2006, at 189) in estimating the cost 
+16 
+of equity.  The Zero-Beta CAPM calculates the product of the adjusted Beta 
+17 
+coefficient and the MRP and applies a weight of 75.00 percent to that result.  
+18 
+The model then applies a 25.00 percent weight to the MRP, without any 
+19 
+effect from the Beta coefficient.  The results of the two calculations are 
+20 
+
+
+--- Page 47 ---
+25-E-XXXX & 25-G-XXXX 
+ 
+ 
+Consolidated Edison Company of New York, Inc. 
+Direct Testimony of Return on Equity Panel  
+ 
+ 
+Page 45 of 74 
+summed, along with the risk-free rate, to produce the Zero-Beta CAPM 
+1 
+result, as noted in Equation [4], below:   
+2 
+ 
+ke = rf + 0.75β(rm – rf) + 0.25(rm – rf)  
+[4] 
+3 
+where: 
+4 
+ 
+ke = the required market ROE 
+5 
+ 
+β = Adjusted Beta coefficient of an individual security 
+6 
+ 
+rf = the risk-free rate of return 
+7 
+ 
+rm = the required return on the market as a whole 
+8 
+ 
+9 
+In essence, the Zero-Beta form of the CAPM addresses the tendency of the 
+10 
+“traditional” CAPM to underestimate the cost of equity for companies with 
+11 
+lower Beta coefficients such as regulated utilities.  In that regard, the Zero-
+12 
+Beta CAPM is not redundant to the use of adjusted Betas; rather, it 
+13 
+recognizes the results of academic research indicating that the risk-return 
+14 
+relationship is different (in essence, flatter) than estimated by the CAPM, 
+15 
+and that the CAPM underestimates the “alpha,” or the constant return term.   
+16 
+ 
+17 
+As with the CAPM, my application of the Zero-Beta CAPM uses the 
+18 
+forward-looking MRP estimates, the three yields on 30-year Treasury 
+19 
+securities noted earlier as the risk-free rate, and the Bloomberg and Value 
+20 
+Line Beta coefficients.  Exhibit___(JCN-5) shows the results of the CAPM 
+21 
+
+
+--- Page 48 ---
+25-E-XXXX & 25-G-XXXX 
+ 
+ 
+Consolidated Edison Company of New York, Inc. 
+Direct Testimony of Return on Equity Panel  
+ 
+ 
+Page 46 of 74 
+models.  The traditional CAPM results range from 9.48 percent to 13.02 
+1 
+percent.  The Zero-Beta CAPM results range from 9.81 percent to 13.16 
+2 
+percent.  The range established by the average of the traditional CAPM and 
+3 
+the Zero-Beta CAPM results is 9.65 percent to 13.09 percent with a mean 
+4 
+of 11.28 percent. 
+5 
+ 
+6 
+C. BOND YIELD PLUS RISK PREMIUM ANALYSIS 
+AS 
+A TEST 
+OF 
+7 
+REASONABLENESS 
+8 
+Q. 
+Did you consider the results of any other model to test the 
+9 
+reasonableness of your DCF and CAPM results? 
+10 
+A. 
+Yes. I also considered the results of the Risk Premium analysis to evaluate 
+11 
+whether the return estimates produced by the multi-stage DCF and CAPM 
+12 
+methods are reasonable.   
+13 
+ 
+ 
+14 
+Q. 
+Please describe the Risk Premium approach that you used. 
+15 
+A. 
+In general terms, this approach recognizes that equity is riskier than debt 
+16 
+because equity investors bear the residual risk associated with ownership.  
+17 
+The Risk Premium approach estimates the cost of equity as the sum of the 
+18 
+Equity Risk Premium and the yield on a particular class of bonds. 
+19 
+ROE = RP + Y 
+[5] 
+20 
+Where: 
+21 
+
+
+--- Page 49 ---
+25-E-XXXX & 25-G-XXXX 
+ 
+ 
+Consolidated Edison Company of New York, Inc. 
+Direct Testimony of Return on Equity Panel  
+ 
+ 
+Page 47 of 74 
+ 
+RP = Risk Premium (difference between allowed ROE and the 30-
+1 
+Year Treasury Yield) and 
+2 
+ 
+Y = Applicable Treasury bond yield. 
+3 
+Since the equity risk premium is not directly observable, it is typically 
+4 
+estimated using a variety of approaches, some of which incorporate ex-ante, 
+5 
+or forward-looking estimates of the cost of equity, and others that consider 
+6 
+historical, or ex-post, estimates.  For my Risk Premium analysis, I have 
+7 
+relied on authorized returns from a large sample of electric utility 
+8 
+companies, as described below. 
+9 
+ 
+10 
+Q. 
+What did your Risk Premium analysis reveal? 
+11 
+A. 
+To estimate the relationship between risk premiums and interest rates, I 
+12 
+conducted a regression analysis using the following equation:   
+13 
+ 
+RP = a + (b x Y) 
+[6] 
+14 
+where: 
+15 
+ 
+RP = Risk Premium (difference between allowed ROEs and the 
+16 
+30-Year Treasury Yield); 
+17 
+ 
+a = Intercept term; 
+18 
+ 
+b = Slope term; and 
+19 
+ 
+Y = 30-Year Treasury Yield. 
+20 
+
+
+--- Page 50 ---
+25-E-XXXX & 25-G-XXXX 
+ 
+ 
+Consolidated Edison Company of New York, Inc. 
+Direct Testimony of Return on Equity Panel  
+ 
+ 
+Page 48 of 74 
+Data regarding allowed ROEs were derived from 986 electric utility 
+1 
+company rate cases from January 1992 through November 2024, as reported 
+2 
+by Regulatory Research Associates (“RRA”). 
+3 
+ 
+4 
+As demonstrated in Exhibit___(JCN-7), the risk premium varies with the 
+5 
+level of the bond yield, and generally increases as bond yields decrease, and 
+6 
+vice versa.  To apply this relationship to current and expected bond yields, 
+7 
+I considered three estimates of the 30-year Treasury yield, including the 
+8 
+current three-month average, a near-term Blue Chip consensus forecast for 
+9 
+Q1 2025 – Q1 2026, and a Blue Chip consensus forecast for 2026–2030.  
+10 
+Based on the regression coefficients in Exhibit___(JCN-7), which allow for 
+11 
+the estimation of the risk premium at varying bond yields, the results of my 
+12 
+Risk Premium analysis range from 10.35 percent to 10.41 percent. 
+13 
+ 
+14 
+Q. 
+Do investors consider returns for regulated utilities in other 
+15 
+jurisdictions when they are determining their return requirements for 
+16 
+CECONY? 
+17 
+A. 
+Yes. Investors are informed by authorized ROEs from hundreds of rate case 
+18 
+decisions to frame their return expectations.  A fundamental principle in 
+19 
+setting a just and reasonable return is that the return must be comparable to 
+20 
+returns available to investors in companies with commensurate risk.  In that 
+21 
+regard, the returns that have been authorized for other electric and gas utility 
+22 
+
+
+--- Page 51 ---
+25-E-XXXX & 25-G-XXXX 
+ 
+ 
+Consolidated Edison Company of New York, Inc. 
+Direct Testimony of Return on Equity Panel  
+ 
+ 
+Page 49 of 74 
+companies are one relevant consideration for investors.  Although I have 
+1 
+not used the Risk Premium model as a primary analysis in arriving at my 
+2 
+ROE recommendation, the Risk Premium results confirm the 
+3 
+reasonableness of the multi-stage DCF and CAPM results. 
+4 
+ 
+5 
+Q. 
+Have other utility regulators used the Risk Premium model as a 
+6 
+primary methodology for estimating the authorized ROE? 
+7 
+A. 
+Yes. The Risk Premium model has been used in other jurisdictions as a 
+8 
+primary model to estimate the authorized ROE, including the following 
+9 
+states: California, Florida, Georgia, North Carolina, Virginia, West 
+10 
+Virginia, and Wisconsin.  Also, New Jersey and Missouri have considered 
+11 
+authorized returns in other jurisdictions as a check on the reasonableness of 
+12 
+returns for the utilities they regulate.  
+13 
+ 
+14 
+D. WEIGHTED AVERAGE RESULTS 
+15 
+Q. 
+Please summarize the results of your analysis and your recommended 
+16 
+ROE.   
+17 
+A. 
+As shown in Exhibit___(JCN-2), I have presented the DCF and CAPM 
+18 
+results weighted equally, and with the Generic Finance RD’s proposed 2/3 
+19 
+weighting of the DCF and 1/3 weighting of the CAPM.  I did not include 
+20 
+the Risk Premium analysis in my weighted average results.  The average 
+21 
+
+
+--- Page 52 ---
+25-E-XXXX & 25-G-XXXX 
+ 
+ 
+Consolidated Edison Company of New York, Inc. 
+Direct Testimony of Return on Equity Panel  
+ 
+ 
+Page 50 of 74 
+results range from 10.31 percent to 10.55 percent, depending on the 
+1 
+weighting assigned to the DCF and CAPM results. 
+2 
+ 
+3 
+Q. 
+What was the Commission’s reasoning for developing its weighting of 
+4 
+the DCF and CAPM methodologies in the Generic Finance RD? 
+5 
+A. 
+At the time of the Generic Finance RD, the Commission did not have a 
+6 
+significant amount of experience with the CAPM and the Co-Facilitators in 
+7 
+the GFP opted for a gradual transition toward the CAPM, ultimately settling 
+8 
+on a 1/3 weighting, indicating that “proposals have simply not shown that 
+9 
+the CAPM should be raised all at once to parity with the DCF analysis in 
+10 
+the setting of returns on equity.” (Generic Finance RD at 60).  To the extent 
+11 
+that this was a consideration in the RD’s weighting determination, the 
+12 
+Commission’s almost 30 years of experience with the CAPM since that time 
+13 
+now provides a sound basis for altering the weighting of the two ROE 
+14 
+methodologies and raising the CAPM “to parity with the DCF analysis....”  
+15 
+In recent years, several regulators have recognized the challenges associated 
+16 
+with relying solely on the DCF model to establish the authorized ROE for 
+17 
+regulated utilities.  For example, the FERC considered what it termed 
+18 
+“anomalous” market conditions as a basis for abandoning its practice of sole 
+19 
+reliance on the DCF model to set ROEs for electric transmission companies 
+20 
+which began in the 1980s (See Exhibit___(JCN-29), 165 FERC ¶ 61,030, 
+21 
+
+
+--- Page 53 ---
+25-E-XXXX & 25-G-XXXX 
+ 
+ 
+Consolidated Edison Company of New York, Inc. 
+Direct Testimony of Return on Equity Panel  
+ 
+ 
+Page 51 of 74 
+October 16, 2018, at para. 44-46).  FERC now places equal weight on the 
+1 
+DCF and CAPM results.  Similarly, several states jurisdictions have 
+2 
+recognized the importance of relying on multiple methodologies, while 
+3 
+placing less weight on the DCF model (see, e.g., (Exhibit___(JCN-30), 
+4 
+Pennsylvania Public Utility Commission, PPL Electric Utilities, R-2012-
+5 
+2290597, meeting held December 5, 2012, at 80-81; (Exhibit___(JCN-31), 
+6 
+Missouri Public Service Commission, GR-2017-0215, Report and Order, 
+7 
+Issue Date February 21, 2018, at 32-34). 
+8 
+ 
+9 
+Q. 
+Please summarize your conclusion regarding the relative weighting of 
+10 
+the CAPM and DCF results. 
+11 
+A. 
+Although the Generic Finance RD proposed the 2/3 weighting on the DCF, 
+12 
+the weightings and methodologies used to estimate the ROE were left open 
+13 
+for additional consideration in future rate proceedings.  Since then, the 
+14 
+Commission has employed the CAPM as one component of the formula 
+15 
+used to develop the authorized ROE.  There is no reason why the 
+16 
+Commission should have less confidence in the results of the CAPM than 
+17 
+those of the DCF.  Therefore, it is reasonable to apply equal weight to the 
+18 
+DCF and CAPM methods when determining the ROE for CECONY, and to 
+19 
+test the reasonableness of these results with the Risk Premium model.   
+20 
+ 
+21 
+
+
+--- Page 54 ---
+25-E-XXXX & 25-G-XXXX 
+ 
+ 
+Consolidated Edison Company of New York, Inc. 
+Direct Testimony of Return on Equity Panel  
+ 
+ 
+Page 52 of 74 
+VII. 
+BUSINESS AND REGULATORY RISKS 
+1 
+A. DECARBONIZATION POLICY AND CAPITAL SPENDING 
+2 
+Q.  
+Are there recent developments that have increased the business risk for 
+3 
+utilities generally in New York State? 
+4 
+A.  
+Yes.   New York State passed the Climate Leadership and Community 
+5 
+Protection Act (“CLCPA”), which envisions carbon free electricity by 2040 
+6 
+and a net zero carbon economy by 2050.  As it relates to CECONY, the New 
+7 
+York Climate Action Council’s Final Scoping Plan (“Scoping Plan”) 
+8 
+indicates that significant enhancements to the electric grid may be needed 
+9 
+to “facilitate the integration of renewable energy, and prioritize clean 
+10 
+resources” (See Exhibit___(JCN-32), New York State Climate Action 
+11 
+Council. 2022, “New York State Climate Action Council Scoping Plan,” 
+12 
+http://climate.ny.gov/ScopingPlan, Full report December 2022 (“Scoping 
+13 
+Plan”), at 240).  Further, as it relates to the Company’s gas distribution 
+14 
+operations, “a substantial reduction of fossil natural gas use and strategic 
+15 
+downsizing and decarbonization of the gas system” may be required to 
+16 
+achieve emissions limits (See Scoping Plan at 350).  This could result in 
+17 
+significant financial and market risk for CECONY.  While the 
+18 
+implementation of this legislation continues to be a work-in-progress, the 
+19 
+uncertainty surrounding it results in significant financial and market risk for 
+20 
+utility companies as New York State considers alternatives to fossil fuels.  
+21 
+
+
+--- Page 55 ---
+25-E-XXXX & 25-G-XXXX 
+ 
+ 
+Consolidated Edison Company of New York, Inc. 
+Direct Testimony of Return on Equity Panel  
+ 
+ 
+Page 53 of 74 
+In January 2024, the Governor of New York State proposed new restrictions 
+1 
+on natural gas, including repealing the requirement on utilities to hook up 
+2 
+new customers on request and restricting gas distributors from expanding 
+3 
+their service territories beginning in 2026.  The Governor’s proposal would 
+4 
+also have given the Commission authority to retire portions of the gas 
+5 
+system in cases where the commissioners determine retirement is necessary 
+6 
+to achieve State climate goals.  Although the bill was not adopted in the 
+7 
+recently approved State budget, such changes will likely be considered in 
+8 
+future legislative sessions. 
+9 
+ 
+10 
+Q. 
+Please explain how implementation of the CLCPA’s plans affects 
+11 
+CECONY’s risk profile. 
+12 
+A. 
+To implement the CLCPA’s objectives, significant investments are required 
+13 
+for CECONY’s electric transmission and distribution systems to modernize 
+14 
+its infrastructure and provide safe and reliable service to customers.  For 
+15 
+electric utilities, the Scoping Plan identifies: (1) “proactive and timely 
+16 
+investments in local transmission and distribution infrastructure” to 
+17 
+facilitate distributed energy resources (Scoping Plan at 234); and (2) 
+18 
+“significant investments in New York’s electricity transmission and 
+19 
+distribution system to allow for the utilization of new renewable and energy 
+20 
+storage resources and to meet growing electric load due to electrification.” 
+21 
+
+
+--- Page 56 ---
+25-E-XXXX & 25-G-XXXX 
+ 
+ 
+Consolidated Edison Company of New York, Inc. 
+Direct Testimony of Return on Equity Panel  
+ 
+ 
+Page 54 of 74 
+(Scoping Plan at 242).  With regard to natural gas utility operations, 
+1 
+methane emissions must be reduced requiring continued capital investments 
+2 
+to replace leak prone pipe. (Scoping Plan at 358). 
+3 
+ 
+4 
+Q. 
+Please summarize CECONY’s projected capital expenditures over the 
+5 
+next five years. 
+6 
+A. 
+CECONY’s projected capital investments will be approximately $4.6 
+7 
+billion to $7.8 billion per year from 2025-2028.  This is an increase of about 
+8 
+30 percent to 120 percent over the 2020-2023 annual capital expenditures 
+9 
+(which ranged from $3.1 billion to $4.1 billion) and represents 40 percent 
+10 
+to 68 percent of the Company’s net utility plant as of December 31, 2023. 
+11 
+Further, CECONY’s planned capital investments are equal to 2.4 to 4.0 
+12 
+times the Company’s 2023 annual depreciation expense.  Much of this 
+13 
+increase in capital spending is attributable to investments that CECONY 
+14 
+must make in response to the CLCPA.   
+15 
+ 
+16 
+To the extent CECONY’s capital spending is above S&P Global’s “base-
+17 
+case” assumption of $4.5 to $5.5 billion, this will put additional pressure on 
+18 
+the Company’s credit metrics.  Moody’s has commented on the challenges 
+19 
+related to CECONY’s capital spending needs as follows (See Confidential 
+20 
+
+
+--- Page 57 ---
+25-E-XXXX & 25-G-XXXX 
+ 
+ 
+Consolidated Edison Company of New York, Inc. 
+Direct Testimony of Return on Equity Panel  
+ 
+ 
+Page 55 of 74 
+Exhibit___(JCN-33), Moody’s Investors Service, Credit Opinion:  
+1 
+Consolidated Edison Company of New York, Inc., February 1, 2024, at 1): 
+2 
+CECONY's credit is constrained by high capital spending to 
+3 
+meet service requirements and the state of New York's 
+4 
+energy transition plans, which could place additional 
+5 
+pressure on customer rates and debt financing requirements. 
+6 
+The company also faces longer-term challenges around its 
+7 
+gas and steam distribution businesses, given state 
+8 
+greenhouse gas (GHG) emissions targets and goals of 
+9 
+significantly limiting the use of natural gas. 
+10 
+ 
+11 
+Q. 
+Do credit rating agencies recognize the risks associated with significant 
+12 
+capital expenditures? 
+13 
+A. 
+Yes, they do.  The additional pressure on cash flows associated with high 
+14 
+levels of capital expenditures exerts corresponding pressure on credit 
+15 
+metrics and, therefore, credit ratings.  A 2016 S&P report (See 
+16 
+Exhibit___(JCN-34), S&P Global Ratings, Ratings Direct, “Assessing U.S. 
+17 
+Investor-Owned Utility Regulatory Environments,” August 10, 2016, at 7) 
+18 
+noted: 
+19 
+
+
+--- Page 58 ---
+25-E-XXXX & 25-G-XXXX 
+ 
+ 
+Consolidated Edison Company of New York, Inc. 
+Direct Testimony of Return on Equity Panel  
+ 
+ 
+Page 56 of 74 
+When applicable, a jurisdiction’s willingness to support 
+1 
+large capital projects with cash during construction is an 
+2 
+important aspect of our analysis. This is especially true 
+3 
+when the project represents a major addition to rate base 
+4 
+and entails long lead times and technological risks that 
+5 
+make it susceptible to construction delays. Broad 
+6 
+support for all capital spending is the most credit-
+7 
+sustaining. Support for only specific types of capital 
+8 
+spending, such as specific environmental projects or 
+9 
+system integrity plans, is less so, but still favorable for 
+10 
+creditors. Allowance of a cash return on construction 
+11 
+work-in-progress or similar ratemaking methods 
+12 
+historically were extraordinary measures for use in 
+13 
+unusual circumstances, but when construction costs are 
+14 
+rising, cash flow support could be crucial to maintain 
+15 
+credit quality through the spending program. Even more 
+16 
+favorable are those jurisdictions that present an 
+17 
+opportunity for a higher return on capital projects as an 
+18 
+incentive to investors.  
+19 
+ 
+20 
+Q. 
+What are your conclusions regarding the effect of the required 
+21 
+investments under the CLCPA on CECONY’s cost of equity? 
+22 
+A. 
+It is evident that CECONY’s required capital expenditures to meet the 
+23 
+CLCPA’s objectives are significant.  This elevated level of capital 
+24 
+expenditures increases the importance of setting a return for CECONY that 
+25 
+is within the range of reasonableness to support the financial integrity of the 
+26 
+Company to allow for continued access to capital markets such that 
+27 
+CECONY is able make investments for its customers and meet the 
+28 
+objectives of the CLCPA. 
+29 
+ 
+30 
+
+
+--- Page 59 ---
+25-E-XXXX & 25-G-XXXX 
+ 
+ 
+Consolidated Edison Company of New York, Inc. 
+Direct Testimony of Return on Equity Panel  
+ 
+ 
+Page 57 of 74 
+Q.  
+Are you proposing a specific premium to compensate investors for the 
+1 
+risk of potential stranded assets? 
+2 
+A.  
+No. My recommendation assumes the Company will be allowed full and 
+3 
+fair recovery of its prudent investments. 
+4 
+ 
+B. REGULATORY RISK ASSESSMENT 
+5 
+Q. 
+Have you performed an analysis of the level of regulatory support that 
+6 
+CECONY receives in New York State as compared to the proxy group 
+7 
+companies? 
+8 
+A. 
+Yes.  I conducted an analysis of the regulatory protections that are in place 
+9 
+for CECONY compared with those for the operating utility companies held 
+10 
+by the proxy group companies.  The results of my analysis are presented in 
+11 
+Exhibit___(JCN-8).  Specifically, I examined the following factors that 
+12 
+affect the business risk of CECONY and the proxy group companies: (1) 
+13 
+test year convention; (2) fuel cost recovery; (3) revenue decoupling; and (4) 
+14 
+capital cost recovery. 
+15 
+ 
+16 
+As shown in Exhibit___(JCN-8), 53 percent of the operating companies 
+17 
+(i.e., 49 out of 92) held by the proxy group companies provide service in 
+18 
+jurisdictions that allow the use of a fully or partially forecast test year.  All 
+19 
+of the operating companies held by the proxy group companies are allowed 
+20 
+
+
+--- Page 60 ---
+25-E-XXXX & 25-G-XXXX 
+ 
+ 
+Consolidated Edison Company of New York, Inc. 
+Direct Testimony of Return on Equity Panel  
+ 
+ 
+Page 58 of 74 
+to pass through fuel costs and purchased power costs directly to customers, 
+1 
+so that the utility does not incur any risk associated with fuel or purchased 
+2 
+power costs.  It is important to recognize that fuel and purchased power 
+3 
+costs typically account for 50 – 60 percent of the total operating costs for a 
+4 
+regulated utility.  Like CECONY, 58 percent of the operating utilities held 
+5 
+by the proxy group companies (i.e., 53 out of 92) have revenue decoupling 
+6 
+mechanisms or weather normalization adjustment clauses that allow them 
+7 
+to break the link between customer usage and revenues.  Finally, 
+8 
+approximately 59 percent of the operating utilities held by the proxy group 
+9 
+(54 out of 92) have capital cost recovery mechanisms that allow them to 
+10 
+recover capital investments that are placed into service between rate cases. 
+11 
+ 
+12 
+Q. 
+Based on these analyses, what is your conclusion regarding the level of 
+13 
+regulatory support for CECONY relative to that of the proxy group 
+14 
+companies? 
+15 
+A. 
+My conclusion is that CECONY has comparable regulatory protection to 
+16 
+the proxy group companies. While the Commission has been a leader in 
+17 
+implementing mechanisms that reduce the business risk of regulated 
+18 
+utilities in New York, many other jurisdictions have taken similar steps in 
+19 
+more recent years, leading to no meaningful difference in business risk 
+20 
+between CECONY and the proxy group.  It is also noteworthy that 
+21 
+
+
+--- Page 61 ---
+25-E-XXXX & 25-G-XXXX 
+ 
+ 
+Consolidated Edison Company of New York, Inc. 
+Direct Testimony of Return on Equity Panel  
+ 
+ 
+Page 59 of 74 
+regulatory mechanisms are generally implemented to address a particular 
+1 
+issue or mitigate the effect of an incremental risk faced by the utility.  For 
+2 
+example, CECONY has implemented energy efficiency programs to help 
+3 
+achieve climate change policy goals.  These programs encourage lower 
+4 
+sales volumes, and decoupling helps to mitigate that risk.   Not all states 
+5 
+have comparable policy goals and therefore not all utilities have the same 
+6 
+incremental risk nor the need for such a regulatory mechanism.  On balance, 
+7 
+however, the suite of regulatory mechanisms available to the proxy 
+8 
+companies and CECONY result in comparable risk levels.  Despite a 
+9 
+comparable degree of regulatory support through recovery mechanisms, the 
+10 
+Commission has consistently provided some of the lowest equity returns in 
+11 
+the nation as New York State’s electric and gas utilities’ average authorized 
+12 
+ROEs were 52 basis points below the national average for electric and gas 
+13 
+utilities from January 2021 to November 2024 (9.15 percent in New York 
+14 
+State vs. 9.67 percent nationwide). (See Exhibit___(JCN-35), Source: RRA.  
+15 
+January 2020 - November 2024 average authorized ROEs for states other 
+16 
+than New York (excluding limited issue riders, formula rate plans, and 
+17 
+penalty ROEs)).  As shown in Exhibit___(JCN-35), the combination of low 
+18 
+authorized ROEs and low equity ratios demonstrates that New York State 
+19 
+is consistently in the bottom quartile of the lowest authorized ROEs and the 
+20 
+lowest authorized equity ratios.  Authorized returns at this level place New 
+21 
+
+
+--- Page 62 ---
+25-E-XXXX & 25-G-XXXX 
+ 
+ 
+Consolidated Edison Company of New York, Inc. 
+Direct Testimony of Return on Equity Panel  
+ 
+ 
+Page 60 of 74 
+York State utilities such as CECONY at a disadvantage in terms of 
+1 
+competing for capital to finance the investments that are necessary to 
+2 
+continue providing safe and reliable service to customers and to meet New 
+3 
+York State’s clean energy objectives. 
+4 
+ 
+5 
+Fitch has commented on the relatively low authorized ROEs and equity 
+6 
+ratios in New York State: “Fitch considers the New York regulatory regime 
+7 
+to be somewhat restrictive, with below-average authorized ROEs, but also 
+8 
+partially balanced by a number of credit-positive regulatory mechanisms.” 
+9 
+(see Confidential Exhibit___(JCN-36), FitchRatings, Consolidated Edison 
+10 
+Company of New York, Inc., September 4, 2024, at 2).   
+11 
+ 
+12 
+Q. 
+Are there other risks to the Company that are specific to New York 
+13 
+State utility regulation?   
+14 
+A. 
+Yes.  In addition to the low equity returns that are typically authorized by 
+15 
+the Commission for New York State’s electric and gas utilities, New York 
+16 
+State utilities are subject to strictly enforced customer service quality, 
+17 
+electric reliability, and gas safety measures where the utility is required to 
+18 
+achieve predetermined performance benchmarks, or be subject to a negative 
+19 
+revenue adjustment for any shortfall.  
+20 
+ 
+21 
+
+
+--- Page 63 ---
+25-E-XXXX & 25-G-XXXX 
+ 
+ 
+Consolidated Edison Company of New York, Inc. 
+Direct Testimony of Return on Equity Panel  
+ 
+ 
+Page 61 of 74 
+Q. 
+Do the negative revenue adjustments associated with these 
+1 
+performance metrics differentiate the Company from the proxy group 
+2 
+companies? 
+3 
+A. 
+Yes, they do.  CECONY’s exposure to these potential revenue adjustments 
+4 
+places the Company at greater risk than proxy companies on average. 
+5 
+ 
+6 
+C. REGULATORY ENVIRONMENT 
+7 
+Q. 
+Please explain how the regulatory framework affects investors’ risk 
+8 
+assessments. 
+9 
+A. 
+The ratemaking process is premised on the principle that, for investors and 
+10 
+companies to commit the capital needed to provide safe and reliable utility 
+11 
+services, the subject utility must have the opportunity to recover its invested 
+12 
+capital and the market-required return on such capital.  Regulatory 
+13 
+commissions recognize that because utility operations are capital intensive, 
+14 
+regulatory decisions should enable the utility to attract capital at reasonable 
+15 
+terms, which balance the long-term interests of investors and customers.  In 
+16 
+that respect, the regulatory framework in which a utility operates is one of 
+17 
+the most important factors considered in both debt and equity investors’ risk 
+18 
+assessments.  
+19 
+ 
+20 
+
+
+--- Page 64 ---
+25-E-XXXX & 25-G-XXXX 
+ 
+ 
+Consolidated Edison Company of New York, Inc. 
+Direct Testimony of Return on Equity Panel  
+ 
+ 
+Page 62 of 74 
+Q. 
+Do credit rating agencies consider the regulatory framework in 
+1 
+establishing a company’s credit rating?  
+2 
+A. 
+Yes.  Both Moody’s and S&P assess the overall regulatory framework in 
+3 
+establishing credit ratings for regulated utilities.  As shown in 
+4 
+Exhibit___(JCN-37), Moody’s establishes credit ratings based on four key 
+5 
+factors:  Regulatory Framework; Ability to Recover Costs and Earn 
+6 
+Returns; Diversification; and Financial Strength. 
+7 
+ 
+8 
+Two of these factors (i.e., regulatory framework and the ability to recover 
+9 
+costs and earn returns) are based on the regulatory environment such that 
+10 
+half of Moody’s overall assessment of business and financial risk for 
+11 
+regulated utilities is based upon the regulatory environment (see 
+12 
+Exhibit___(JCN-37)). Moody’s Investor Service, Rating Methodology, 
+13 
+Regulated Electric and Gas Utilities, June 23, 2017, at 4).  Moody’s 
+14 
+observes (at 6) that “for rate-regulated utilities, which typically operate as a 
+15 
+monopoly, the regulatory environment and how utility adapts to that 
+16 
+environment are the most important credit considerations.” 
+17 
+ 
+18 
+With respect to the regulatory framework, Moody’s looks for transparency, 
+19 
+predictability, and supportiveness of regulatory commissions.  For the 
+20 
+second factor, ability to recover costs and earn returns, Moody’s evaluates 
+21 
+
+
+--- Page 65 ---
+25-E-XXXX & 25-G-XXXX 
+ 
+ 
+Consolidated Edison Company of New York, Inc. 
+Direct Testimony of Return on Equity Panel  
+ 
+ 
+Page 63 of 74 
+the regulatory elements that directly affect the ability of the utility to 
+1 
+generate cash flow and service its debt over time.  Moody’s views (at 12) 
+2 
+the ability to recover costs on a timely basis and to attract debt and equity 
+3 
+capital as crucial credit considerations, noting that “[t]he inability to recover 
+4 
+costs…has been one of the greatest drivers of financial stress in this sector.”  
+5 
+This is particularly true as utilities are often cash flow negative due to large 
+6 
+capital expenditures, so any lack of timely recovery or sufficiency of rates 
+7 
+can strain access to capital markets. 
+8 
+ 
+9 
+S&P has also identified the regulatory environment as an important factor, 
+10 
+stating, “One significant aspect of regulatory risk that influences credit 
+11 
+quality is the regulatory environment in the jurisdictions where a utility 
+12 
+operates.” (See Exhibit___(JCN-34) S&P Global Ratings, “Assessing U.S. 
+13 
+Investor-Owned Utility Regulatory Environments,” August 10, 2016, at 1). 
+14 
+ 
+15 
+Q. 
+How does the regulatory environment in which a utility operates affect 
+16 
+its access to and cost of capital? 
+17 
+A. 
+The proportion and cost of debt capital available to utility companies are 
+18 
+influenced by the rating agencies’ assessment of the regulatory 
+19 
+environment.  Moody’s has highlighted the relevance of a stable and 
+20 
+predictable regulatory environment to a utility’s credit quality, stating that 
+21 
+
+
+--- Page 66 ---
+25-E-XXXX & 25-G-XXXX 
+ 
+ 
+Consolidated Edison Company of New York, Inc. 
+Direct Testimony of Return on Equity Panel  
+ 
+ 
+Page 64 of 74 
+“[b]roadly speaking, the Regulatory Framework is the foundation for how 
+1 
+all the decisions that affect utilities are made (including the setting of rates), 
+2 
+as well as the predictability and consistency of decision-making provided 
+3 
+by that foundation.” (See Exhibit___(JCN-37) Moody’s Investor Service, 
+4 
+Rating Methodology, Regulated Electric and Gas Utilities, June 23, 2017, 
+5 
+at 4). 
+6 
+ 
+7 
+Q. 
+Are you aware of independent sources that have evaluated the 
+8 
+regulatory environment in New York State as compared to other 
+9 
+jurisdictions? 
+10 
+A. 
+Yes.  RRA, a division of S&P Capital IQ, views New York State’s 
+11 
+regulatory environment as “somewhat balanced” from an investor 
+12 
+perspective, with lower than nationwide ROEs for electric and gas utilities 
+13 
+offset by the use of forecast test years, revenue decoupling, and multi-year 
+14 
+rate settlements that incorporate increasing rate bases and deferral 
+15 
+accounting for increasing costs of labor and pensions. (See Confidential 
+16 
+Exhibit___(JCN-38), S&P Capital IQ, RRA, as of October 8, 2024).   
+17 
+ 
+18 
+RRA ranks New York State as “Average/2”, which is consistent with the 
+19 
+majority of regulatory jurisdictions across the U.S.  Average/2 is the median 
+20 
+ranking given by RRA; there are 18 jurisdictions with a higher ranking, 18 
+21 
+
+
+--- Page 67 ---
+25-E-XXXX & 25-G-XXXX 
+ 
+ 
+Consolidated Edison Company of New York, Inc. 
+Direct Testimony of Return on Equity Panel  
+ 
+ 
+Page 65 of 74 
+jurisdictions with a lower ranking, and 17 jurisdictions with the same 
+1 
+ranking.  This puts New York State squarely in the middle of the range, 
+2 
+supporting the conclusion that, even with the risk reducing measures 
+3 
+implemented in New York State, there is no significant difference in overall 
+4 
+regulatory risk between New York State and other jurisdictions.   
+5 
+ 
+6 
+UBS, an investment bank, ranks regulatory jurisdictions in the U.S. and 
+7 
+Canada for purposes of determining whether to apply valuation discounts 
+8 
+or premiums to the utility stocks it covers.  Specifically, UBS places 
+9 
+regulatory jurisdictions into five tiers based on the following equally 
+10 
+weighted criteria: (1) whether commissioners are elected or appointed, (2) 
+11 
+allowed returns relative to 10-year Treasury notes, (3) mechanisms that 
+12 
+reduce regulatory lag, (4) rate and customer bill levels, (5) the tendency to 
+13 
+settle or litigate rate cases, and (6) a subjective “investor friendliness” 
+14 
+factor. (See Exhibit___(JCN-39) UBS Global Research, “North America 
+15 
+Power & Utilities: Mind the Gap(s): 2021 Utility Outlook,” December 14, 
+16 
+2020, at 5).  Exhibit___(JCN-40) shows that UBS ranks New York State’s 
+17 
+regulatory environment in tier five out of five (with one being the best) in a 
+18 
+July 2024 report. (UBS Global Research, “North America Power & 
+19 
+Utilities: Updating Valuation & Regulatory Rankings,” July 19, 2024, at 8). 
+20 
+ 
+21 
+
+
+--- Page 68 ---
+25-E-XXXX & 25-G-XXXX 
+ 
+ 
+Consolidated Edison Company of New York, Inc. 
+Direct Testimony of Return on Equity Panel  
+ 
+ 
+Page 66 of 74 
+The UBS ranking demonstrates that, from the perspective of equity 
+1 
+investors, the overall regulatory environment in New York State is viewed 
+2 
+as less favorable than the majority of U.S. jurisdictions.  UBS notes that 
+3 
+regulatory jurisdictions ranked in the third and fourth quartiles receive 
+4 
+valuation discounts of two percent and six percent, respectively. 
+5 
+ 
+6 
+Q. 
+What is your conclusion with regard to CECONY’s business and 
+7 
+regulatory risk? 
+8 
+A. 
+It is important that the decision in this case, including the authorized ROE, 
+9 
+is credit supportive.  As discussed above, CECONY needs to make 
+10 
+significant investments in programs designed to benefit customers and meet 
+11 
+the objectives of the CLCPA.  Any decline in credit ratings will increase 
+12 
+costs to customers by increasing the cost of debt.  Given the level of planned 
+13 
+capital expenditures, any increases in borrowing costs due to a lower credit 
+14 
+rating could have a significant negative effect on the costs to customers. 
+15 
+  
+16 
+D. FLOTATION COSTS 
+17 
+Q. 
+What are flotation costs? 
+18 
+A. 
+Flotation costs are the costs associated with the sale of new issues of 
+19 
+common stock. These costs include out-of-pocket expenditures for 
+20 
+preparation, filing, underwriting, and other costs of issuance of common 
+21 
+
+
+--- Page 69 ---
+25-E-XXXX & 25-G-XXXX 
+ 
+ 
+Consolidated Edison Company of New York, Inc. 
+Direct Testimony of Return on Equity Panel  
+ 
+ 
+Page 67 of 74 
+stock. To the extent that a company is denied the opportunity to recover 
+1 
+prudently incurred flotation costs, actual returns will fall short of expected 
+2 
+(or required) returns, thereby diminishing the utility’s ability to attract 
+3 
+adequate capital on reasonable terms.  
+4 
+ 
+5 
+Q. 
+Why is it important to recognize flotation costs in the authorized ROE? 
+6 
+A. 
+Flotation costs are reflected on the utility’s balance sheet as “paid in capital” 
+7 
+and are not expensed on the utility’s income statement. When a company 
+8 
+issues common stock, flotation costs are incurred and netted against the 
+9 
+proceeds from the issuance, thereby reducing the amount available for 
+10 
+investment in rate base by the amount of the flotation costs.  The authorized 
+11 
+ROE is the most appropriate way for a regulated utility to recover these 
+12 
+necessary costs. If CECONY is not allowed to recover its prudently incurred 
+13 
+flotation costs through its ROE, its authorized return will be insufficient, 
+14 
+and equity share value will be diluted.  Staff has recognized the importance 
+15 
+of recovering flotation costs when there is a reasonable expectation that 
+16 
+such costs will be incurred (see, e.g., Case No. 06-E-1433, 06-E-1547). 
+17 
+ 
+18 
+
+
+--- Page 70 ---
+25-E-XXXX & 25-G-XXXX 
+ 
+ 
+Consolidated Edison Company of New York, Inc. 
+Direct Testimony of Return on Equity Panel  
+ 
+ 
+Page 68 of 74 
+Q. 
+Do academic and financial experts recognize the need to consider 
+1 
+flotation costs in a utility’s cost of equity? 
+2 
+A. 
+Yes. Dr. Roger Morin, a recognized expert in regulatory economics and 
+3 
+finance, summarizes (see Exhibit___(JCN-41) Roger A. Morin, New 
+4 
+Regulatory Finance (Public Utility Reports, Inc., 2006), at 321):   
+5 
+The costs of issuing these securities are just as real as 
+6 
+operating and maintenance expenses or costs incurred to 
+7 
+build utility plants, and fair regulatory treatment must permit 
+8 
+recovery of these costs…. The simple fact of the matter is 
+9 
+that common equity capital is not free…. [Flotation costs] 
+10 
+must be recovered through a rate of return adjustment. 
+11 
+According to Dr. Shannon Pratt, a published expert in cost of capital 
+12 
+estimation (see Exhibit___(JCN-42) Shannon P. Pratt, Cost of Capital 
+13 
+Estimation and Applications, Second Edition, at 220-221): 
+14 
+Flotation costs occur when new issues of stock or debt are 
+15 
+sold to the public. The firm usually incurs several kinds of 
+16 
+flotation or transaction costs, which reduce the actual 
+17 
+proceeds received by the firm. Some of these are direct out-
+18 
+of-pocket outlays, such as fees paid to underwriters, legal 
+19 
+expenses, and prospectus preparation costs. Because of this 
+20 
+reduction in proceeds, the firm’s required returns on these 
+21 
+proceeds equate to a higher return to compensate for the 
+22 
+additional costs. Flotation costs can be accounted for either 
+23 
+by amortizing the cost, thus reducing the cash flow to 
+24 
+discount, or by incorporating the cost into the cost of capital. 
+25 
+Because flotation costs are not typically applied to operating 
+26 
+cash flow, one must incorporate them into the cost of capital. 
+27 
+
+
+--- Page 71 ---
+25-E-XXXX & 25-G-XXXX 
+ 
+ 
+Consolidated Edison Company of New York, Inc. 
+Direct Testimony of Return on Equity Panel  
+ 
+ 
+Page 69 of 74 
+ 
+1 
+Q. 
+How did you calculate flotation costs for CECONY? 
+2 
+A. 
+Based on CECONY’s costs shown in Exhibit___(JCN-9), flotation costs for 
+3 
+the Company have equaled roughly 1.78 percent of gross equity raised. To 
+4 
+reflect these issuance costs properly in my cost of capital estimates, it would 
+5 
+require an 7 basis point addition to the ROE results produced by my ROE 
+6 
+estimates for CECONY, as shown in Exhibit___(JCN-9).  While I have not 
+7 
+made an explicit adjustment to my ROE results, I have considered the effect 
+8 
+of flotation costs in my recommendation.   
+9 
+ 
+10 
+VIII. CAPITAL STRUCTURE 
+11 
+Q. 
+Please summarize the Company’s proposed capital structure.  
+12 
+A. 
+The Company is requesting a capital structure for ratemaking purposes that 
+13 
+includes a common equity ratio of 48.00 percent.   
+14 
+ 
+15 
+Q. 
+Have you conducted any analysis of the Company’s proposed capital 
+16 
+structure as compared with the proxy companies? 
+17 
+A. 
+Yes. I have reviewed CECONY’s proposed capital structure as compared 
+18 
+with the actual capital structures of the operating companies in the proxy 
+19 
+group for the most recently reported four years.  As shown on 
+20 
+Exhibit___(JCN-9), the mean and median annual equity ratio of the proxy 
+21 
+
+
+--- Page 72 ---
+25-E-XXXX & 25-G-XXXX 
+ 
+ 
+Consolidated Edison Company of New York, Inc. 
+Direct Testimony of Return on Equity Panel  
+ 
+ 
+Page 70 of 74 
+companies over that period are 53.34 percent and 53.35 percent, 
+1 
+respectively.  
+2 
+ 
+3 
+Q. 
+What do you conclude from this analysis? 
+4 
+A. 
+The requested 48.00 percent common equity ratio is conservative 
+5 
+considering the equity ratios of the proxy companies and the current 
+6 
+business and financial risks of CECONY, including significant capital 
+7 
+investment programs and credit metrics pressures.  This information 
+8 
+indicates that the utility operating subsidiaries owned by holding companies 
+9 
+with business characteristics similar to CECONY have for the last four 
+10 
+years maintained average common equity ratios more than five percentage 
+11 
+points above the 48.00 percent equity ratio that CECONY is requesting in 
+12 
+this proceeding.  These higher proxy group equity ratios reflect a lower level 
+13 
+of financial risk than the financial risk implied by the proposed 48.00 
+14 
+percent equity ratio.   
+15 
+ 
+16 
+Q. 
+How does the Company’s proposed equity ratio compare to authorized 
+17 
+equity ratios in other jurisdictions? 
+18 
+A. 
+Equity ratios that are typically authorized by the Commission for New York 
+19 
+State’s electric and gas utilities are considerably lower than equity ratios 
+20 
+authorized by other jurisdictions (in January 2021-September 2024 average 
+21 
+
+
+--- Page 73 ---
+25-E-XXXX & 25-G-XXXX 
+ 
+ 
+Consolidated Edison Company of New York, Inc. 
+Direct Testimony of Return on Equity Panel  
+ 
+ 
+Page 71 of 74 
+authorized equity ratios in New York State were 3.78 percentage points 
+1 
+below the national average for electric and gas utilities). According to RRA, 
+2 
+January 2021-November 2024 average authorized equity ratios for states 
+3 
+other than New York State (excluding limited issue riders) were 52.05 
+4 
+percent compared to an average authorized equity ratio of 48.20 percent in 
+5 
+New York State.  Rate cases in Arkansas, Florida, Indiana, and Michigan 
+6 
+have been excluded from the analysis since the authorized capital structure 
+7 
+approved in the cases includes deferred taxes and other credits as non-
+8 
+investor supplied capital.  Further, the Commission’s recently authorized 
+9 
+equity ratios of 48.00 percent are inconsistent with the trend in other 
+10 
+jurisdictions.  As shown in Exhibit___(JCN-43), the average authorized 
+11 
+equity ratio for the operating utility subsidiaries of the proxy companies has 
+12 
+consistently increased over the last two decades and was 52.06 percent in 
+13 
+2024.   
+14 
+ 
+15 
+Therefore, I conclude that CECONY’s requested equity ratio of 48.00 
+16 
+percent should be considered a lower bound on the equity ratio relative to 
+17 
+the range of reasonableness established by industry practice.  As such, it 
+18 
+would be reasonable for the Commission to use higher equity ratios for 
+19 
+CECONY closer to those of the proxy group operating companies for 
+20 
+ratemaking purposes.  The lower equity ratio also implies that CECONY 
+21 
+
+
+--- Page 74 ---
+25-E-XXXX & 25-G-XXXX 
+ 
+ 
+Consolidated Edison Company of New York, Inc. 
+Direct Testimony of Return on Equity Panel  
+ 
+ 
+Page 72 of 74 
+has greater financial risk than the operating companies of the proxy group, 
+1 
+which, all else equal, suggests that investors require a higher ROE for an 
+2 
+investment in the Company as compared to other similarly situated utilities. 
+3 
+ 
+4 
+IX.   MULTI-YEAR RATE PLAN 
+5 
+Q. 
+Would a multi-year rate plan impact your ROE recommendation?   
+6 
+A.  
+Yes, it would.  The Commission has in many cases adopted Joint Proposals 
+7 
+covering multi-year periods that include stay-out premiums.  In keeping 
+8 
+with Commission precedent, a stay-out premium would reflect the increased 
+9 
+risk faced by the Company under a multi-year rate plan. 
+10 
+ 
+11 
+Q. 
+What are the relevant risk factors to equity investors inherent in a 
+12 
+multi-year stay-out?  
+13 
+A. 
+As described in Section IV above, persistent core inflation and elevated 
+14 
+interest rates are the predominant factors in the current economic 
+15 
+environment.  As such, the Company is exposed to changes in underlying 
+16 
+costs that deviate from expected levels of inflation.  However, the stay-out 
+17 
+premium associated with a multi-year rate plan should not only compensate 
+18 
+investors for changes in the level of interest rates and inflation, but also for 
+19 
+the potential risk of under-earning that is introduced by “staying out.”  By 
+20 
+staying out of rate cases, the utility may not fully recover material amounts 
+21 
+
+
+--- Page 75 ---
+25-E-XXXX & 25-G-XXXX 
+ 
+ 
+Consolidated Edison Company of New York, Inc. 
+Direct Testimony of Return on Equity Panel  
+ 
+ 
+Page 73 of 74 
+of capital expenditures and may be required to absorb losses due to 
+1 
+differences between the cost of service established in the rate plan and 
+2 
+actual levels of revenue and expense.  The premium should compensate the 
+3 
+utility and its investors for these additional risks over and above interest rate 
+4 
+risk.   
+5 
+ 
+6 
+Q. 
+What do you propose as the stay-out premium for a three-year rate 
+7 
+plan?  
+8 
+A. 
+My ROE recommendation of 10.50 percent will not provide the Company 
+9 
+a return commensurate with the return available on investments of similar 
+10 
+risk over the term of the multi-year rate plan without an adequate stay-out 
+11 
+premium.  Consistent with prior cases in which a stay-out premium was 
+12 
+included in multi-year rate plans, I recommend that a stay-out premium be 
+13 
+included in this multi-year rate plan.  I believe 50 basis points is a 
+14 
+reasonable, albeit conservative, reflection of the incremental risk to the 
+15 
+Company under a multi-year stay-out provision.  
+16 
+  
+17 
+
+
+--- Page 76 ---
+25-E-XXXX & 25-G-XXXX 
+ 
+ 
+Consolidated Edison Company of New York, Inc. 
+Direct Testimony of Return on Equity Panel  
+ 
+ 
+Page 74 of 74 
+X.   CONCLUSION AND RECOMMENDATION 
+1 
+Q. 
+What is your conclusion regarding a fair return on book equity for 
+2 
+CECONY? 
+3 
+A. 
+My recommended return on book equity considers the results of the DCF 
+4 
+and CAPM models, summarized in Exhibit___(JCN-2), and the specific 
+5 
+risks to which the Company is exposed.  I conclude that the appropriate 
+6 
+ROE for the Company is within the range of 10.00 percent and 11.00 
+7 
+percent. From within that range, and considering the Company’s risk 
+8 
+profile, I recommend an ROE of 10.50 percent for CECONY.  
+9 
+ 
+10 
+ 
+Furthermore, if the Commission approves a multi-year rate plan, typically 
+11 
+covering three years, a stay-out premium of 50 basis points should be added 
+12 
+to the ROE.  
+13 
+ 
+14 
+Q. 
+Does this conclude your Direct Testimony? 
+15 
+A. 
+Yes, it does. 
+16 

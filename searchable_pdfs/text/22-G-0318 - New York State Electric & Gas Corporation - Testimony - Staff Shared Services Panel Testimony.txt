@@ -1,0 +1,3656 @@
+--- Page 1 ---
+ 
+ 
+ 
+ 
+BEFORE THE 
+STATE OF NEW YORK 
+PUBLIC SERVICE COMMISSION 
+ 
+ 
+In the Matter of 
+NEW YORK STATE ELECTRIC & GAS CORPORATION 
+AND 
+ROCHESTER GAS AND ELECTRIC CORPORATION 
+CASES 22-E-0317, 22-G-0318, 22-E-0319 and 22-G-0320 
+SEPTEMBER 2022 
+ 
+ 
+Prepared Testimony of: 
+Shared Services Panel 
+ 
+Sandra Hart 
+Utility Engineering Specialist 2 
+ 
+Brandon Ng 
+Utility Engineering Specialist 1 
+Office of Electric, Gas and 
+Water 
+ 
+Philip Tabor 
+Utility Analyst I 
+(Cybersecurity) 
+ 
+Brian O’Keefe 
+Utility Security Specialist II 
+Office of Resilience and 
+Emergency Preparedness  
+ 
+State of New York 
+Department of Public Service 
+Three Empire State Plaza 
+Albany, New York 12223-1350 
+ 
+
+
+--- Page 2 ---
+Case 22-E-0317 et al. 
+ 
+ 
+1 
+ 
+Q. 
+Please state your names, employer, and business 
+1 
+addresses.  
+2 
+A. 
+Sandra Hart, Brandon Ng, Philip Tabor, and Brian 
+3 
+O’Keefe.  We are employed by the New York State 
+4 
+Department of Public Service (Department).  Our 
+5 
+business address is Three Empire State Plaza, 
+6 
+Albany, New York 12223-1350. 
+7 
+Q. 
+Ms. Hart, what is your position at the 
+8 
+Department?  
+9 
+A. 
+I am employed as a Utility Engineering 
+10 
+Specialist 2 in the Upstate Rates and Tariffs 
+11 
+Section of the Office of Electric, Gas and 
+12 
+Water, which we will refer to as OEGW. 
+13 
+Q. 
+Ms. Hart, please state your educational 
+14 
+background and professional experience. 
+15 
+A. 
+I received a Bachelor of Science in Mechanical 
+16 
+Engineering from Clarkson University in December 
+17 
+1999.  I began my employment with the Department 
+18 
+as a Junior Engineer in August 2008 in the 
+19 
+Office of Energy Efficiency and the Environment.  
+20 
+In the fall of 2011, I was promoted to a Utility 
+21 
+Engineer 1.  In February 2014, I joined the 
+22 
+Electric Rates and Tariffs Section of OEGW where 
+23 
+my title changed to Assistant Engineer 
+24 
+
+
+--- Page 3 ---
+Case 22-E-0317 et al. 
+ 
+ 
+2 
+ 
+(Electrical).  In the fall of 2019, I was 
+1 
+promoted to Utility Engineering Specialist 2.  
+2 
+Since joining OEGW, I have prepared, analyzed, 
+3 
+and reviewed reports and studies involving 
+4 
+operating revenues, sales forecasts, operation 
+5 
+and maintenance expenses, embedded costs, 
+6 
+revenue allocation, and rate design.  My current 
+7 
+duties include engineering analyses of electric 
+8 
+utilities’ rates, pricing, and tariff proposals. 
+9 
+Q. 
+Ms. Hart, have you previously testified before 
+10 
+the Commission? 
+ 
+11 
+A. 
+Yes.  I have testified in many rate cases 
+12 
+addressing various issues, including the 
+13 
+development of a targeted demand side management 
+14 
+model, a new energy efficiency portfolio support 
+15 
+position, embedded cost of service (ECOS) 
+16 
+studies, rate design, capital expenditures, 
+17 
+depreciation, and other revenue requirement 
+18 
+issues.  I provided testimony in Cases 10-E-
+19 
+0362, 14-E-0493, and 18-E-0067, regarding Orange 
+20 
+and Rockland Utilities, Inc. (O&R); Cases 15-E-
+21 
+0283 and 15-E-0285, and 19-E-0378 and 19-E-0380, 
+22 
+regarding New York State Electric & Gas 
+23 
+Corporation (NYSEG) and Rochester Gas and 
+24 
+
+
+--- Page 4 ---
+Case 22-E-0317 et al. 
+ 
+ 
+3 
+ 
+Electric Corporation (RG&E); Cases 17-E-0238, 
+1 
+20-E-0380 and 20-G-0381 regarding Niagara Mohawk 
+2 
+Power Corporation d/b/a National Grid (NMPC); 
+3 
+18-E-0782 regarding the Penn Yan Municipal 
+4 
+Utilities Board; and 21-E-0453 Salamanca Board 
+5 
+of Public Utilities.  
+6 
+Q. 
+Mr. Ng, what is your position at the Department?  
+7 
+A. 
+I am employed as a Utility Engineering 
+8 
+Specialist 1 in the Upstate Rates and Tariffs 
+9 
+Section of OEGW. 
+10 
+Q. 
+Mr. Ng, please state your educational background 
+11 
+and professional experience. 
+12 
+A. 
+I received a Bachelor of Science in Industrial & 
+13 
+Systems Engineering from Binghamton University 
+14 
+in December 2018.  I also received a Master of 
+15 
+Science in Healthcare Systems Engineering from 
+16 
+Binghamton University in December 2019.  In 
+17 
+April 2022, I joined Department Staff of the 
+18 
+Upstate Rates and Tariffs Section.  My current 
+19 
+duties include the review and evaluation of 
+20 
+utility capital budgets, engineering analyses of 
+21 
+utility rates, and pricing and tariff proposals.   
+22 
+Q. 
+Mr. Ng, have you previously testified before the 
+23 
+ 
+Commission? 
+ 
+24 
+
+
+--- Page 5 ---
+Case 22-E-0317 et al. 
+ 
+ 
+4 
+ 
+A. 
+No.  
+1 
+Q. 
+Mr. Tabor, what is your position at the 
+2 
+Department? 
+3 
+A. 
+I am employed by the Department as a Utility 
+4 
+Analyst 1 – Cyber Security, assigned to the 
+5 
+Utility Security Section within the Office of 
+6 
+Resiliency and Emergency Preparedness. 
+7 
+Q. 
+Mr. Tabor please state your educational 
+8 
+background and professional experience. 
+9 
+A. 
+I graduated from Colby College in 1990 with a 
+10 
+Bachelor of Arts Degree in Psychology, studied 
+11 
+graduate coursework at the University of 
+12 
+Connecticut, and I am currently enrolled in the 
+13 
+graduate certificate program at the University 
+14 
+of Albany School of Emergency Preparedness, 
+15 
+Homeland Security and Cybersecurity.  I have the 
+16 
+Security+ certification from CompTIA and 
+17 
+received training from the US Department of 
+18 
+Homeland Security ICS-CERT.  My current 
+19 
+responsibilities include conducting cyber 
+20 
+security assessments of critical infrastructure 
+21 
+facilities and corporate IT systems, which are 
+22 
+owned and operated by the energy, gas, and water 
+23 
+utilities of New York. 
+24 
+
+
+--- Page 6 ---
+Case 22-E-0317 et al. 
+ 
+ 
+5 
+ 
+Q. 
+Mr. Tabor have you previously testified before 
+1 
+the Commission? 
+2 
+A. 
+Yes.  I have testified in several rate cases.  
+3 
+The most recent are New York State Electric & 
+4 
+Gas Corporation and Rochester Gas and Electric 
+5 
+Corporation, Cases 19-E-0380 and 19-G-0379; 
+6 
+Central Hudson Gas & Electric Corp, Cases 20-E-
+7 
+0428 and 20-G-0429; and the Matter of Niagara 
+8 
+Mohawk Power Company, Cases 20-E-0380 and 20-G-
+9 
+0381.   
+10 
+Q. 
+Mr. O’Keefe, what is your position at the 
+11 
+Department? 
+12 
+A. 
+I am employed by the Department as a Utility 
+13 
+Security Specialist 2, assigned to the Utility 
+14 
+Security Section within the Office of Resiliency 
+15 
+and Emergency Preparedness. 
+16 
+Q. 
+Please summarize your education and work 
+17 
+experience. 
+18 
+A. 
+I received a B.S. in Political Science from the 
+19 
+University of the State of New York and a M.S. 
+20 
+in Organizational Leadership from Nyack College.  
+21 
+My previous professional work experience 
+22 
+consists of 22 years of service with National 
+23 
+Grid.  My responsibilities included maintaining 
+24 
+
+
+--- Page 7 ---
+Case 22-E-0317 et al. 
+ 
+ 
+6 
+ 
+the physical security of operating locations as 
+1 
+well as security for the company workforce.  I 
+2 
+also have 28 years’ experience as a commissioned 
+3 
+officer in the U.S. Army Reserve component.  I 
+4 
+have been trained in Operational Security 
+5 
+throughout my career.   
+6 
+Q. 
+Please describe your current duties with the 
+7 
+Utility Security Section. 
+8 
+A. 
+I joined the Utility Security Section in 2012.  
+9 
+At the Department I perform duties that include 
+10 
+but are not limited to: conducting utility site 
+11 
+assessments; audits and inspections; reviewing 
+12 
+existing utility vulnerability studies and 
+13 
+security plans; examining existing recovery, 
+14 
+restoration, and emergency management plans; 
+15 
+writing reports detailing audit and inspection 
+16 
+findings; researching and reporting recommended 
+17 
+changes in physical security and emergency 
+18 
+management practices, including recommendations 
+19 
+for the development of new plans and practices; 
+20 
+interacting with numerous State and federal 
+21 
+agencies including, but not limited to, United 
+22 
+States (U.S.) Department of Energy, the Nuclear 
+23 
+Regulatory Commission, the U.S. Department of 
+24 
+
+
+--- Page 8 ---
+Case 22-E-0317 et al. 
+ 
+ 
+7 
+ 
+Transportation – Office of Pipeline Safety, the 
+1 
+State Emergency Management Office, the Office of 
+2 
+Information Technology Services, the Division of 
+3 
+Homeland Security and Emergency Services, the 
+4 
+Division of Military and Naval Affairs, and 
+5 
+other states, as well as industry organizations 
+6 
+such as the North American Electric Reliability 
+7 
+Corporation (NERC); working with other 
+8 
+Department Staff to carry out tasks related to 
+9 
+the utility security mission; and performing 
+10 
+utility security review during rate proceedings, 
+11 
+including testimony preparation in Article VII 
+12 
+and 10 siting evaluations, as a Department Staff 
+13 
+panelist relating to the subject of utility 
+14 
+security.   
+15 
+Q. 
+Have you previously testified before the 
+16 
+Commission?   
+17 
+A. 
+Yes, in the Matter of and New York State 
+18 
+Electric & Gas Corporation and Rochester Gas and 
+19 
+Electric Corporation, Cases 19-E-0380 and 19-G-
+20 
+0379; and Central Hudson Gas and Electric 
+21 
+Corporation Case 20-E-0428 and 20-G-0429. 
+22 
+Q. 
+What is the purpose of the Panel’s testimony in 
+23 
+this proceeding? 
+24 
+
+
+--- Page 9 ---
+Case 22-E-0317 et al. 
+ 
+ 
+8 
+ 
+A. 
+The purpose of our testimony is to explain our 
+1 
+findings and recommendations after reviewing the 
+2 
+common capital projects for which NYSEG and RG&E 
+3 
+have proposed rate recognition in their common 
+4 
+capital budgets for the calendar years 2023 
+5 
+through 2026. 
+6 
+Q.  How are the common plant projects categorized in 
+7 
+the Companies’ Electric and Common Capital 
+8 
+Expenditures Panel Testimony and in 
+9 
+Exhibit_(CCE-2)? 
+10 
+A. 
+For both NYSEG and RG&E, the projects are 
+11 
+categorized as follows:  
+12 
+ 
+Buildings and Facilities, Customer Service, 
+13 
+Fleet, Information Technology, Operational Smart 
+14 
+Grids, Physical and Cyber Security, and 
+15 
+Training.  Projects under the Operational Smart 
+16 
+Grids program are addressed in Staff’s Electric 
+17 
+Infrastructure and Operations Panel Testimony.  
+18 
+To avoid confusion, in this testimony, the Panel 
+19 
+will reference the project categories and 
+20 
+individual project names listed in the 
+21 
+Companies’ Electric and Common Capital 
+22 
+Expenditures Panel Testimony and the budgets 
+23 
+from in Exhibit_(CCE-2).  
+24 
+
+
+--- Page 10 ---
+Case 22-E-0317 et al. 
+ 
+ 
+9 
+ 
+Q. 
+What is the purpose of reviewing the Companies’ 
+1 
+common capital budgets in this proceeding? 
+2 
+A. 
+The intent of reviewing the Companies’ capital 
+3 
+expenditure budgets is to recommend the overall 
+4 
+level of common capital expenditures to be used 
+5 
+in setting rates for the Rate Year, or the time 
+6 
+period from May 1, 2023 through April 30, 2024.  
+7 
+Our adjustments reflect the level of capital 
+8 
+additions we determine are reasonable given the 
+9 
+Companies’ initial rate case presentation and 
+10 
+responses to interrogatories during the 
+11 
+discovery phase of this proceeding.  As such, we 
+12 
+conclude that with our adjustments factored in, 
+13 
+we established the level of common plant in 
+14 
+service that is most appropriate to be used for 
+15 
+setting delivery rates. 
+16 
+Q. 
+In your testimony, will you refer to, or 
+17 
+otherwise rely upon, any information produced 
+18 
+during the discovery phase of this proceeding? 
+19 
+A. 
+Yes, we will refer to, and have relied upon, the 
+20 
+responses to the Department Staff Information 
+21 
+Requests (IR) included in Exhibit__(SSSP-1). 
+22 
+Q. 
+Are you sponsoring any other exhibits? 
+23 
+A. 
+Yes.  We are sponsoring three additional 
+24 
+
+
+--- Page 11 ---
+Case 22-E-0317 et al. 
+ 
+ 
+10 
+ 
+exhibits.   
+1 
+ 
+Exhibit__(SSSP-2) contains a summary of our 
+2 
+Common Capex Budgets, broken down by Category; 
+3 
+ 
+Exhibit__(SSSP-3) contains our adjustments for 
+4 
+NYSEG, broken down by individual projects;  
+5 
+ 
+Exhibit__(SSSP-4) contains our adjustments for 
+6 
+RG&E, broken down by individual projects; and, 
+7 
+ 
+Exhibit__(SSSP-5) contains our adjustments for 
+8 
+cybersecurity operation and maintenance 
+9 
+expenses. 
+10 
+Q. 
+How are the IR responses identified in your 
+11 
+testimony and exhibits? 
+12 
+A. 
+When we refer to IR responses, we reference the 
+13 
+DPS assigned number (e.g., DPS-148, all of which 
+14 
+are contained in Exhibit__(SSSP-1)). 
+15 
+Q. 
+What are the Companies’ total forecasted common 
+16 
+capital budgets over the next five years from 
+17 
+2022 through 2026? 
+18 
+A. 
+The Companies’ common capital forecasts are 
+19 
+presented on a calendar year basis.  NYSEG plans 
+20 
+to invest a total of $796.4 million: $128.1 
+21 
+million in 2022, $170.0 million in 2023, $222.9 
+22 
+million in 2024, $145.8 million in 2025 and 
+23 
+$129.6 million in 2026.  RG&E plans to invest a 
+24 
+
+
+--- Page 12 ---
+Case 22-E-0317 et al. 
+ 
+ 
+11 
+ 
+total of $344.5 million: $64.8 million in 2022, 
+1 
+$62.3 million in 2023, $79.8 million in 2024, 
+2 
+$75.9 million in 2025 and $61.7 million in 2026.   
+3 
+Q. 
+How did the Companies allocate common plant 
+4 
+between its electric and gas businesses? 
+5 
+A. 
+The Companies allocated common plant between 
+6 
+electric and gas based on an 80.26 percent 
+7 
+electric/19.74 percent gas split for NYSEG and a 
+8 
+71.39 percent electric/28.61 percent gas split 
+9 
+for RG&E.  These allocations are the same 
+10 
+allocations used in the prior rate cases. 
+11 
+Q. 
+What have the Companies historically spent on 
+12 
+common plant? 
+13 
+A. 
+Based on the three-year actual spend for 2019 
+14 
+through 2021, NYSEG spent $153.86 million per 
+15 
+year and RG&E spent $68.16 million per year.  
+16 
+Q. 
+Does the Panel recommend any adjustments to the 
+17 
+shared services capital budget for the years 
+18 
+2022 through 2026 for either of the Companies? 
+19 
+A. 
+Yes.  The Panel recommends adjustments to the 
+20 
+following categories: Buildings and Facilities, 
+21 
+Customer Service, Fleet, Physical Security, 
+22 
+Cyber Security and Training. 
+23 
+Q. 
+What are your recommendations? 
+24 
+
+
+--- Page 13 ---
+Case 22-E-0317 et al. 
+ 
+ 
+12 
+ 
+A. 
+We recommend that: NYSEG’s common capital 
+1 
+expenditures be reduced by $9.922 million in 
+2 
+2022, $17.670 million in 2023, $36.153 million 
+3 
+in 2024, $24.285 million in 2025, and by $13.946 
+4 
+million in 2026; and RG&E’s common capital 
+5 
+expenditures be reduced by $4.733 million in 
+6 
+2022, $9.434 million in 2023, $12.089 million in 
+7 
+2024, $16.596 million in 2025, and by $5.642 
+8 
+million in 2026.  For the period 2022 through 
+9 
+2026, our recommended NYSEG common budget is 
+10 
+$548.100 million and our recommended RG&E’s 
+11 
+common budget is $258.333 million.   
+12 
+Q. 
+Will the Panel address each individual project 
+13 
+as identified in the Companies’ Exhibit_(CCE-2)? 
+14 
+A. 
+The Panel will only address the individual 
+15 
+projects that we adjusted.  For projects not 
+16 
+specifically discussed in the testimony below, 
+17 
+the Panel finds the Companies’ individual 
+18 
+project common capital investment forecasts as 
+19 
+shown in Exhibit_(CCE-2) to be reasonable. 
+20 
+Buildings and Facilities 
+21 
+Q. 
+Please summarize the Companies’ capital forecast 
+22 
+for the Buildings and Facilities category. 
+23 
+A. 
+NYSEG forecasts $4.4 million in 2022, $37.5 
+24 
+
+
+--- Page 14 ---
+Case 22-E-0317 et al. 
+ 
+ 
+13 
+ 
+million in 2023, $89.0 million in 2024, $36.1 
+1 
+million in 2025, and $16.0 million in 2026.  
+2 
+RG&E forecasts $4.8 million in 2022, $8.2 
+3 
+million in 2023, $7.9 million in 2024, $6.5 
+4 
+million in 2025, and $5.1 million in 2026.   
+5 
+Q. 
+Please summarize your adjustments to the capital 
+6 
+expenditures for the Companies’ common Buildings 
+7 
+and Facilities category projects. 
+8 
+A. 
+We adjusted the following Buildings and 
+9 
+Facilities category projects: Minor Projects, 
+10 
+Tablet Project, Low Risk Buildings Projects, 
+11 
+Video Conferencing, and Mailroom Digitization. 
+12 
+Q. 
+Why did the Panel adjust the Minor Projects? 
+13 
+A. 
+The Companies did not adequately justify their 
+14 
+proposed Minor Projects budgets in response to 
+15 
+DPS-15.  The Companies were not able to provide 
+16 
+specific lists or locations and associated costs 
+17 
+for individual projects for calendar years 2022 
+18 
+through 2026.  Since the Companies failed to 
+19 
+provide sufficient itemized project costs and 
+20 
+location information, we eliminated the 
+21 
+forecasted budgets for 2022 through 2026.  This 
+22 
+results in a reduction of $17.0 million for 
+23 
+NYSEG and a reduction of $6.60 million for RG&E 
+24 
+
+
+--- Page 15 ---
+Case 22-E-0317 et al. 
+ 
+ 
+14 
+ 
+from 2022 through 2026.   
+1 
+Q. 
+Did the Panel have any adjustments for the 
+2 
+Tablet Project? 
+3 
+A. 
+Yes.  We adjusted the Tablet Project budgets 
+4 
+based on the frequency of replacement, 
+5 
+quantities purchased, and tablet costs provided 
+6 
+in response to DPS-88.  This resulted in a 
+7 
+reduction of $1.3 million for NYSEG and $255,000 
+8 
+for RG&E between 2023 through 2026.  
+9 
+Q. 
+Did the Panel make any adjustments to the Low-
+10 
+Risk Building Projects? 
+11 
+A. 
+Yes. 
+12 
+Q. 
+Why did the Panel adjust the Low-Risk Buildings 
+13 
+Projects? 
+14 
+A. 
+According to the Companies’ response to DPS-85 
+15 
+question f, which states: “[t]he Companies do 
+16 
+not yet have a specific listing for the rate 
+17 
+year. Response (d) indicates the types of 
+18 
+projects that will be done based on need.”  The 
+19 
+Companies indicated that “a specific listing for 
+20 
+the rate year” has not been compiled.  Based on 
+21 
+the lack of historical spending provided in 
+22 
+Exhibit_(CCE-2) and the lack of specific 
+23 
+buildings identified in response to DPS-85 
+24 
+
+
+--- Page 16 ---
+Case 22-E-0317 et al. 
+ 
+ 
+15 
+ 
+question f, we eliminated the NYSEG forecasted 
+1 
+budgets of $500,000 annually between 2023-2026 
+2 
+and RG&E forecasted budgets of $250,000 annually 
+3 
+between 2023-2026.  This resulted in a reduction 
+4 
+of $2.0 million for NYSEG and a reduction of 
+5 
+$1.0 million for RG&E.   
+6 
+Q. 
+Did the Panel have any adjustments for the Video 
+7 
+Conferencing project? 
+8 
+A. 
+Yes.  According to the Companies’ response to 
+9 
+DPS-90 question b, which states “[e]xact room 
+10 
+locations and buildout needs are still being 
+11 
+evaluated; however, all equipment is mobile and 
+12 
+can be relocated and repurposed at other office 
+13 
+locations as needed.”  Based on the lack of 
+14 
+specific buildings identified in response to 
+15 
+DPS-90 question b, we eliminated the NYSEG 
+16 
+forecasted budgets of $110,000 for 2024, 
+17 
+$110,000 for 2025, and $110,000 for 2026.  In 
+18 
+addition, we also eliminated the RG&E forecasted 
+19 
+budgets of $110,000 for 2024, $110,000 for 2025, 
+20 
+and $110,000 for 2026.  This resulted in a total 
+21 
+reduction of $330,000 for each of the Companies 
+22 
+for the 2024 through 2026 period.   
+23 
+Q. 
+Did the Panel have any adjustments for the 
+24 
+
+
+--- Page 17 ---
+Case 22-E-0317 et al. 
+ 
+ 
+16 
+ 
+Mailroom Digitization project? 
+1 
+A. 
+Yes.  The Companies’ responses to DPS-91 
+2 
+questions “a” and “c”, state “[t]he Companies do 
+3 
+not currently have a list of what equipment will 
+4 
+be purchased as part of this project, as 
+5 
+specific details and needs are still being 
+6 
+evaluated.” and “[t]he Companies do not 
+7 
+currently have a breakdown of cost for this 
+8 
+project, as specific details and needs are still 
+9 
+being evaluated.”  Based on the lack of specific 
+10 
+buildings identified in responses to DPS-91, we 
+11 
+eliminated the NYSEG forecasted budget of 
+12 
+$119,000 for 2024 and the RG&E forecasted budget 
+13 
+of $119,000 for 2024.   
+14 
+Q. 
+Please summarize your adjustments to the capital 
+15 
+expenditures for - NYSEG only -Buildings and 
+16 
+Facilities category. 
+17 
+A. 
+We adjusted the following NYSEG only projects: 
+18 
+Binghamton Service Center, Consolidation Ithaca, 
+19 
+Consolidation Kirkwood General Office, or KGO, 
+20 
+Auburn Service Center Projects, KGO Projects, 
+21 
+Progressive Style, and Long Lake Building 
+22 
+Expansion.   
+23 
+Q. 
+Why did the Panel adjust the Binghamton Service 
+24 
+
+
+--- Page 18 ---
+Case 22-E-0317 et al. 
+ 
+ 
+17 
+ 
+Center? 
+1 
+A. 
+In response to DPS-166, Question 1, the 
+2 
+Companies state “[t]he Companies will be 
+3 
+amending their testimony to rescind the proposal 
+4 
+to consolidate contact centers to Binghamton.  
+5 
+Therefore, the information requested is no 
+6 
+longer relevant.”  Since the Companies rescinded 
+7 
+their proposal, we eliminated the forecasted 
+8 
+budgets for 2023 through 2025.  This resulted in 
+9 
+a reduction of $50.5 million for NYSEG.   
+10 
+Q. 
+Why did the Panel adjust the Consolidation 
+11 
+Ithaca project? 
+12 
+A. 
+According to DPS-23, the Companies state, “[t]o 
+13 
+date, we have investigated the connectivity 
+14 
+between both ISC and IGO buildings.  Many 
+15 
+building services that provide HVAC and 
+16 
+electrical power to the ISC are in the IGO.  
+17 
+These shared services would possibly require 
+18 
+separation, as part of a sale leaseback 
+19 
+project.”  To date there has been minimal 
+20 
+spending on this project.  Based on our review 
+21 
+of the Consolidation Ithaca project budget and 
+22 
+project specifications, we recommend the project 
+23 
+be excluded from the capital budgets given 
+24 
+
+
+--- Page 19 ---
+Case 22-E-0317 et al. 
+ 
+ 
+18 
+ 
+current rate pressures and the fact that the 
+1 
+NYSEG has been able to use to the existing 
+2 
+facilities to adequately perform necessary job 
+3 
+duties.  Therefore, we eliminated the 
+4 
+Consolidation Ithaca forecasted budgets for 2023 
+5 
+through 2025 resulting in a reduction of $9.75 
+6 
+million for NYSEG.   
+7 
+Q. 
+Why did the Panel adjust the Consolidation KGO 
+8 
+project?  
+9 
+A. 
+According to DPS-83, the Companies state “[t]he 
+10 
+KGO Consolidation project is part of an 
+11 
+initiative to consolidate space and control 
+12 
+expenses across the Company.”  Similar to the 
+13 
+Consolidation Ithaca project, and our review of 
+14 
+the projected costs and benefits, including the 
+15 
+project specifications, we recommend the project 
+16 
+be excluded from the capital budgets considering 
+17 
+the current rate pressures and the fact that the 
+18 
+NYSEG has been able to use to the existing 
+19 
+facilities to adequately perform necessary job 
+20 
+duties.  The Companies should continue to use 
+21 
+their existing office space for employees.  
+22 
+Therefore, we eliminated the KGO Consolidation 
+23 
+forecasted budgets for 2023 and 2024 resulting 
+24 
+
+
+--- Page 20 ---
+Case 22-E-0317 et al. 
+ 
+ 
+19 
+ 
+in a reduction of $8.5 million for NYSEG.   
+1 
+Q. 
+Why did the Panel adjust the Auburn Service 
+2 
+Center Projects? 
+3 
+A. 
+Similar to the Consolidation Ithaca and KGO 
+4 
+Consolidation projects, based on our review of 
+5 
+the project specifications, costs, and 
+6 
+associated benefits that will be realized over 
+7 
+time, we recommend the project be excluded from 
+8 
+the capital budgets given current rate pressures 
+9 
+and the fact that the NYSEG has been able to use 
+10 
+to the existing facilities to adequately perform 
+11 
+necessary job duties.  The Companies should 
+12 
+continue to use their current office space.  
+13 
+Therefore, we eliminated the Auburn Service 
+14 
+Center Projects forecasted budgets of $750,000 
+15 
+for 2023, $1.05 million for 2024, and $3.3 
+16 
+million for 2026 resulting in a reduction of 
+17 
+$5.1 million for NYSEG’s Buildings and 
+18 
+Facilities category.   
+19 
+Q. 
+Why did the Panel adjust the KGO Projects? 
+20 
+A. 
+According to Exhibit_(CCE-2) at page 701 of 963, 
+21 
+the Companies state “[t]he Kirkwood General 
+22 
+Office projects consist of new HVAC & Electrical 
+23 
+upgrades: new exterior lighting, new interior 
+24 
+
+
+--- Page 21 ---
+Case 22-E-0317 et al. 
+ 
+ 
+20 
+ 
+lighting, new backup generator, new UPS system, 
+1 
+recircuiting, new communication cabling, 
+2 
+wireless communication devices, new roof top 
+3 
+unit, new heat pump units.  This will also 
+4 
+support interior renovations to align with our 
+5 
+new progressive office model which will allow us 
+6 
+to further consolidate office locations and 
+7 
+increase building occupancy.”  Similar to the 
+8 
+consolidation projects, we reviewed the project 
+9 
+specifications and costs.  Based on current rate 
+10 
+pressures and the fact that the NYSEG has been 
+11 
+able to use to the existing facilities to 
+12 
+adequately perform necessary job duties, we 
+13 
+recommend the project be excluded from the 
+14 
+capital budgets.  In addition, we are 
+15 
+eliminating the progressive office model 
+16 
+projects as described later in our testimony.  
+17 
+As a result, we eliminated the KGO Projects 
+18 
+forecasted budgets of $750,000 for 2023, $1.61 
+19 
+million for 2024, and $100,000 for 2025, and 
+20 
+$50,000 for 2026 resulting in a reduction of 
+21 
+$2.51 million for NYSEG’s Buildings and 
+22 
+Facilities category.   
+23 
+Q. 
+Why did the Panel adjust the NYSEG Progressive 
+24 
+
+
+--- Page 22 ---
+Case 22-E-0317 et al. 
+ 
+ 
+21 
+ 
+Style project and the RG&E Progressive Office 
+1 
+project? 
+2 
+A. 
+The Companies’ response to DPS-89 question “c”, 
+3 
+states: “[t]he Progressive Style and Progressive 
+4 
+Office are the same projects and do not differ.”  
+5 
+Since the Companies’ state that these projects 
+6 
+are the same projects, we will address them 
+7 
+together.  We eliminated all of the Progressive 
+8 
+Office model projects because existing office 
+9 
+spaces and locations are being used by the 
+10 
+Companies’ current employees on a hybrid working 
+11 
+model.  Based on the current rate pressures, we 
+12 
+recommend that the projects be excluded from the 
+13 
+capital budgets since the benefits for 
+14 
+ratepayers will not be realized for several 
+15 
+years.  As a result, we eliminated NYSEG’s 
+16 
+Progressive Style forecasted budgets of $120,000 
+17 
+for 2022, $750,000 for 2023, $750,000 for 2024, 
+18 
+and $530,000 for 2025 resulting in a reduction 
+19 
+of $2.15 million for NYSEG’s Building and 
+20 
+Facilities category.  For RG&E’s Progressive 
+21 
+Office project, we eliminated RG&E’s forecasted 
+22 
+budgets of $500,000 for 2023, $250,000 for 2024, 
+23 
+and $250,000 for 2025, resulting in a reduction 
+24 
+
+
+--- Page 23 ---
+Case 22-E-0317 et al. 
+ 
+ 
+22 
+ 
+of $1.0 million for RG&E’s Building and 
+1 
+Facilities category.   
+2 
+Q. 
+Why did the Panel adjust the Long Lake Building 
+3 
+Expansion project? 
+4 
+A. 
+We reviewed the project specifications and 
+5 
+costs.  Similar to the consolidation and 
+6 
+progressive style office projects, based on our 
+7 
+review of the project costs, we recommend the 
+8 
+project be excluded from the capital budgets 
+9 
+given current rate pressures and the fact that 
+10 
+RG&E has been able to use the existing 
+11 
+facilities to adequately perform necessary job 
+12 
+duties.  Therefore, we eliminated the forecasted 
+13 
+budgets of $250,000 for 2023 and $1.5 million in 
+14 
+2024 resulting in a reduction of $1.75 million 
+15 
+for NYSEG’s Buildings and Facilities category.   
+16 
+Q. 
+Please summarize your adjustments to the capital 
+17 
+expenditures for RG&E’s Scottsville Road 
+18 
+Consolidation Project under the Buildings and 
+19 
+Facilities category. 
+20 
+A. 
+Based on our review of RG&E’s Scottsville Road 
+21 
+Consolidation Project costs and specifications, 
+22 
+and the Companies response to DPS-111, we cannot 
+23 
+determine whether the costs outweigh the 
+24 
+
+
+--- Page 24 ---
+Case 22-E-0317 et al. 
+ 
+ 
+23 
+ 
+benefits that would be realized from the 
+1 
+consolidation, as the Company did not provide 
+2 
+this information. Until RG&E can demonstrate the 
+3 
+benefits outweigh the costs, we recommend 
+4 
+eliminating the Scottsville Road Consolidation 
+5 
+Project’s forecasted budgets of $1.26 million 
+6 
+for 2022 and $1.50 million in 2023.  This 
+7 
+results in a reduction of $2.76 million for 
+8 
+RG&E’s Buildings and Facilities category.   
+9 
+Customer Service 
+ 
+10 
+Q. 
+Did the Staff Consumer Services Panel provide 
+11 
+you any adjustments related to customer service 
+12 
+projects?   
+13 
+A.  Yes.  The Staff Consumer Services Panel direct 
+14 
+testimony recommends removing the capital 
+15 
+expenditures and operating costs associated with 
+16 
+the Customer Journey Redesign project and the 
+17 
+Customer Service Orchestration Platform/Digital 
+18 
+Operations Center project.   
+19 
+Q. 
+What are the Rate Year costs associated with the 
+20 
+Customer Journey Redesign project? 
+21 
+A.  The Customer Journey Redesign project capital 
+22 
+costs are $700,000 and $300,000 for NYSEG and 
+23 
+RG&E, respectively, during the Rate Year.  The 
+24 
+
+
+--- Page 25 ---
+Case 22-E-0317 et al. 
+ 
+ 
+24 
+ 
+operating costs associated with the project, 
+1 
+included in Customer Service Enhancements for 
+2 
+the Rate Year, are $100,000 each for NYSEG and 
+3 
+RG&E. 
+4 
+Q. 
+What are the capital and operating costs for the 
+5 
+Customer Journey Redesign project? 
+6 
+A. 
+The total project capital costs for the Customer 
+7 
+Journey Redesign are $2.1 million for NYSEG and 
+8 
+$900,000 for RG&E.  The total operating costs 
+9 
+associated with the project, included in 
+10 
+Customer Service Enhancements, are $300,000 for 
+11 
+NYSEG and $200,000 for RG&E. 
+12 
+Q. 
+What are the Rate Year costs associated with the 
+13 
+Customer Service Orchestration Platform/Digital 
+14 
+Operations Center project? 
+15 
+A. 
+The forecasted Customer Service Orchestration 
+16 
+Platform/Digital Operations Center project 
+17 
+capital costs are $500,000 and $100,000 for 
+18 
+NYSEG and RG&E, respectively during the Rate 
+19 
+Year.  The operating costs associated with the 
+20 
+project, included in Customer Service 
+21 
+Enhancements for the Rate Year, are $200,000 and 
+22 
+$100,000 for NYSEG and RG&E, respectively. 
+23 
+Q. 
+What are the capital and operating costs for the 
+24 
+
+
+--- Page 26 ---
+Case 22-E-0317 et al. 
+ 
+ 
+25 
+ 
+Customer Service Orchestration Platform/Digital 
+1 
+Operations Center projects? 
+2 
+A. 
+The total project capital costs for the Customer 
+3 
+Service Orchestration Platform/Digital 
+4 
+Operations Center projects are $500,000 for 
+5 
+NYSEG and $100,000 for RG&E.  The total 
+6 
+operating costs associated with the project, 
+7 
+included in Customer Service Enhancements, are 
+8 
+$500,000 and $400,000 for NYSEG and RG&E, 
+9 
+respectively. 
+10 
+Q. 
+Did you incorporate the Staff Consumer Services 
+11 
+Panel recommendations to remove the capital 
+12 
+expenditures and operating costs associated with 
+13 
+the Customer Journey Redesign project and the 
+14 
+Customer Service Orchestration Platform/Digital 
+15 
+Operations Center project in your exhibits? 
+16 
+A. 
+Yes, the adjustments were included in our 
+17 
+exhibits.  
+18 
+Fleet 
+19 
+Q. 
+Please summarize the Companies’ capital forecast 
+20 
+for the Fleet category. 
+21 
+A. 
+NYSEG forecasts $29.42 million in 2022, $20.0 
+22 
+million in 2023, $20.0 million in 2024, $20.0 
+23 
+million in 2025, and $20.0 million in 2026.  
+24 
+
+
+--- Page 27 ---
+Case 22-E-0317 et al. 
+ 
+ 
+26 
+ 
+RG&E forecasts $6.72 million in 2022, $5.69 
+1 
+million in 2023, $9.21 million in 2024, $6.11 
+2 
+million in 2025, and $6.21 million in 2026.   
+3 
+Q. 
+Please summarize your adjustments to the capital 
+4 
+expenditures for the Companies’ Fleet category 
+5 
+projects - Fleet Replacement Program. 
+6 
+A. 
+It is premature to purchase all of the 
+7 
+replacement vehicles under the timelines 
+8 
+proposed by the Companies for the 2022 through 
+9 
+2026 period, therefore we reduced the forecasted 
+10 
+annual budgets for the Fleet Replacement Program 
+11 
+by 20 percent.  This reduction reflects 
+12 
+potential delays in the replacement of vehicles 
+13 
+due to the uncertainty of current vehicle 
+14 
+purchasing conditions and the potential for 
+15 
+longer lead times associated with purchasing new 
+16 
+vehicles.  We reduced NYSEG’s forecasted budgets 
+17 
+by $5.8 million in 2022, $4.0 million in 2023, 
+18 
+$4.0 million in 2024, $4.0 million in 2025, and 
+19 
+$4.0 million in 2026, for a total reduction of 
+20 
+$21.8 million for NYSEG’s Fleet Replacement 
+21 
+Program.  We reduced RG&E’s forecasted budgets 
+22 
+by $1.34 million in 2022, $1.14 million in 2023, 
+23 
+$1.84 million in 2024, $1.22 million in 2025, 
+24 
+
+
+--- Page 28 ---
+Case 22-E-0317 et al. 
+ 
+ 
+27 
+ 
+and $1.24 million in 2026, for total reduction 
+1 
+of $6.78 million for RG&E’s Fleet Replacement 
+2 
+Program.   
+3 
+Q. 
+Please explain the Global Telematics Solution 
+4 
+Project. 
+5 
+A. 
+The Global Telematics Solution Project includes 
+6 
+upgrades for old and outdated telematics 
+7 
+technology to equip existing light, medium, and 
+8 
+heavy-duty fleet vehicles with new telematics 
+9 
+devices as well as installation of telematics 
+10 
+devices on newly purchased vehicles.  Telematics 
+11 
+captures real time data from the vehicles that 
+12 
+help optimize vehicle use.  
+13 
+Q. 
+Please summarize your adjustments to the capital 
+14 
+expenditures for the Companies’ Fleet category 
+15 
+project - Global Telematics Solution. 
+16 
+A. 
+To be consistent with the Fleet Replacement 
+17 
+Program adjustment, we recommend reducing the 
+18 
+forecasted annual budgets for the Global 
+19 
+Telematics Solution program by 20 percent.  
+20 
+Given that the Global Telematics Project budget 
+21 
+is used, in part, to purchase devices for new 
+22 
+vehicles, and we reduced budgets associated with 
+23 
+new vehicles.  Therefore, we made a 
+24 
+
+
+--- Page 29 ---
+Case 22-E-0317 et al. 
+ 
+ 
+28 
+ 
+corresponding adjustment to reduce this budget 
+1 
+by 20 percent.  We reduced the resulting 
+2 
+forecasted budgets for NYSEG and RG&E by $84,000 
+3 
+and $3,000, respectively, in 2022 resulting in a 
+4 
+forecasted NYSEG budget of $336,000 and a 
+5 
+forecasted RG&E budget of $14,000 in 2022.   
+6 
+Information Technology (IT) 
+7 
+Q. 
+What are the Companies’ total forecasted IT 
+8 
+budgets over the next five years from 2022 
+9 
+through 2026? 
+10 
+A. 
+The Companies’ IT forecasts are presented on a 
+11 
+calendar year basis.  NYSEG plans to invest a 
+12 
+total of $76.0 million: $12.2 million in 2022, 
+13 
+$16.8 million in 2023, $15.8 million in 2024, 
+14 
+$14.9 million in 2025 and $16.2 million in 2026.  
+15 
+RG&E plans to invest a total of $45.2 million: 
+16 
+$6.5 million in 2022, $10.1 million in 2023, 
+17 
+$9.8 million in 2024, $9.3 million in 2025 and 
+18 
+$9.5 million in 2026. 
+19 
+Q. 
+What do the Companies expect to accomplish with 
+20 
+these budgets? 
+21 
+A. 
+The budgets will be used to maintain their 
+22 
+computing and digital framework across the 
+23 
+Companies’ network.  This includes plans to 
+24 
+
+
+--- Page 30 ---
+Case 22-E-0317 et al. 
+ 
+ 
+29 
+ 
+update hardware, software, servers, databases, 
+1 
+laptops, desktops, to help maintain a reliable 
+2 
+and secure workspace.  In addition, continued 
+3 
+research in future technological needs will be 
+4 
+performed to determine and prioritize project 
+5 
+needs for upcoming years. 
+6 
+Q. 
+What have the Companies historically spent on IT 
+7 
+projects? 
+8 
+A. 
+Based on the five-year actual spending for 2017 
+9 
+through 2021, NYSEG spent $13.18 million per 
+10 
+year and RG&E spent $7.30 million per year. 
+11 
+Q. 
+Do the Companies propose any changes or 
+12 
+incremental programs to their IT budgets?  
+13 
+A. 
+No, the Companies did not indicate any new 
+14 
+programs or major changes in their IT budgets.  
+15 
+Q. 
+With this being the case, how did the Companies 
+16 
+forecast their IT budgets from 2022 through 
+17 
+2026? 
+18 
+A. 
+Using previous project costs and identifying 
+19 
+future needs, the Companies determined hardware, 
+20 
+software, and professional service costs to 
+21 
+implement updates and new equipment for the 
+22 
+Companies’ Life Cycle projects; this includes 
+23 
+costs for materials and services.  The Companies 
+24 
+
+
+--- Page 31 ---
+Case 22-E-0317 et al. 
+ 
+ 
+30 
+ 
+indicated they accounted for estimated employee 
+1 
+growth. 
+2 
+Q. 
+Describe your review of the Companies’ IT 
+3 
+programs.  
+4 
+A. 
+We met with the Companies to get a general 
+5 
+understanding and background of the IT programs 
+6 
+proposed.  Detailed discussions of each program, 
+7 
+its need, and importance took place to 
+8 
+facilitate a more complete grasp of the IT 
+9 
+budgets.  IRs were sent out to further clarify 
+10 
+questions and background on each of the 
+11 
+programs, and historical spending was analyzed 
+12 
+and compared to previously budgeted amounts.  
+13 
+Historical spending was found to line up with 
+14 
+the 2022 through 2026 forecasted budgets. 
+15 
+Q. 
+Does the Panel have any concerns about how the 
+16 
+Companies forecasted the proposed spending 
+17 
+levels? 
+18 
+A. 
+We do have some concern with their approach.  
+19 
+Per the response to DPS-41, the Companies were 
+20 
+asked to provide cost estimate breakdowns for 
+21 
+each of the individual IT programs.  Their 
+22 
+response did not explain or provide much detail 
+23 
+for their forecasting methodology.  In the 
+24 
+
+
+--- Page 32 ---
+Case 22-E-0317 et al. 
+ 
+ 
+31 
+ 
+future, the Companies should itemize their 
+1 
+forecasts as much as possible.  Per the response 
+2 
+to DPS-328, the Companies were asked to provide 
+3 
+Excel workpapers and documentation supporting 
+4 
+the cost estimates for their various IT 
+5 
+programs.  Their responses to DPS-328 were 
+6 
+lacking sufficient source documentation and did 
+7 
+not fully explain the foundation for their 
+8 
+budgeted amounts.  Moving forward, source 
+9 
+documentation and calculations should be 
+10 
+provided as justification for any IT programs 
+11 
+proposed by the Companies. 
+12 
+Q. 
+Does the Panel recommend any changes to the 
+13 
+Companies’ proposed IT capital budgets? 
+14 
+A. 
+No.  While the forecasting methodology used by 
+15 
+the Companies could be improved the forecast 
+16 
+amounts line up with historical spending levels.  
+17 
+Further, the Companies have spent the full 
+18 
+budgeted amount in the past.  With no new 
+19 
+programs being proposed and the budgets 
+20 
+essentially being used for program upkeep and 
+21 
+updates, it is reasonable to allow the 
+22 
+forecasted spending levels of $76.0 million for 
+23 
+NYSEG and $45.2 million for RG&E as projected by 
+24 
+
+
+--- Page 33 ---
+Case 22-E-0317 et al. 
+ 
+ 
+32 
+ 
+the Companies for the years 2022 through 2026.  
+1 
+Therefore, we find that the Companies’ proposed 
+2 
+spending levels for IT programs are reasonable.  
+3 
+Physical Security 
+4 
+Avangrid Secure Domain Security System Installation 
+5 
+Q. 
+Please summarize the Avangrid Security Domain, 
+6 
+or ASD security system installation. 
+7 
+A. 
+Avangrid Security Domain, formerly known as 
+8 
+System Cutover, relates to security work on 
+9 
+various facilities to continue implementing the 
+10 
+security deployment plan started in 2019.  We 
+11 
+reviewed several components of the 2022 through 
+12 
+2026 Security Deployment plan.  
+13 
+Q. 
+Describe how the Companies implement the ASD 
+14 
+installation program. 
+15 
+A. 
+Security measures and systems to be installed 
+16 
+beyond perimeter fencing with locks are based on 
+17 
+a security tier for each facility. Per DPS-369, 
+18 
+Tier 1 and 2 facilities (e.g., bulk substation) 
+19 
+will receive card access control systems, Public 
+20 
+Address systems, video surveillance, video 
+21 
+analytics and thermal cameras (Tier 1 also 
+22 
+receives additional physical hardening due to 
+23 
+critical nature).  Tier 3 sites include cash-
+24 
+
+
+--- Page 34 ---
+Case 22-E-0317 et al. 
+ 
+ 
+33 
+ 
+handling offices, hydropower generating 
+1 
+stations, large offices, service centers, and 
+2 
+moderate risk substations.  For this tier, 
+3 
+thermal cameras are not implemented, however, 
+4 
+the other protection measures that Tier 2 has 
+5 
+are provided.  Tier 4 facilities (e.g., small 
+6 
+offices, store yards) receive card access 
+7 
+control systems and video surveillance.  Tier 5 
+8 
+are low risk occupied facilities (offices, 
+9 
+service centers) and low value storage areas.  
+10 
+These sites would receive access control 
+11 
+measures, but no cameras.  Tier 6 applies to 
+12 
+low-risk substations with no routable protocol 
+13 
+controlling yard breakers or other gear and 
+14 
+other unoccupied sites.  These sites would 
+15 
+receive robust fencing with metal lock and key 
+16 
+protection.  Tier 7 was introduced to respond to 
+17 
+ongoing security incidents at various sites.  
+18 
+This equipment includes mobile security trailers 
+19 
+equipped with lights and cameras, therefore, 
+20 
+fencing is dependent on the deployment location. 
+21 
+Q. 
+Are there other components to this security 
+22 
+program beyond enhancements at Tier rated 
+23 
+facilities? 
+24 
+
+
+--- Page 35 ---
+Case 22-E-0317 et al. 
+ 
+ 
+34 
+ 
+A. 
+Yes.  Additional work includes the enhancement 
+1 
+of communication networks to allow for the 
+2 
+transport of video back to the Security 
+3 
+Operations Center, or SOC.  This allows for 
+4 
+remote monitoring of the security network, 
+5 
+access control and video monitoring systems.  
+6 
+Q. 
+What are some significant benefits to the ASD 
+7 
+program? 
+8 
+A. 
+The ASD, as a privately owned Avangrid network, 
+9 
+will allow the Companies to retire many legacy 
+10 
+circuits that are currently being leased from 
+11 
+third parties.  Another benefit is the 
+12 
+standardization of access control management and 
+13 
+video surveillance platforms and an improvement 
+14 
+in the communications networks.  This will 
+15 
+enable Avangrid to unify the Security Operations 
+16 
+Centers operating in the USA, utilizing the SOC 
+17 
+in Rochester, NY to be a primary security 
+18 
+facility.  
+19 
+Q. 
+Are there operational benefits associated with 
+20 
+having these projects on a common platform? 
+21 
+A. 
+Yes.  Common platforms will enable 
+22 
+standardization of maintaining the Avangrid's 
+23 
+security systems.  For example, since the legacy 
+24 
+
+
+--- Page 36 ---
+Case 22-E-0317 et al. 
+ 
+ 
+35 
+ 
+systems cannot support constant video streaming 
+1 
+there are video servers to store video at each 
+2 
+location.  The ASD and new standardized platform 
+3 
+will use a central, enterprise-wide server for 
+4 
+video storage. 
+5 
+Q. 
+Why is this important? 
+6 
+A. 
+The ability to detect and monitor activity at a 
+7 
+protected location, in real time, is essential.  
+8 
+Delays or interruption in live streaming cause 
+9 
+gaps in the ability to monitor threats.  Some of 
+10 
+these gaps may seriously impair the ability to 
+11 
+respond to threats including theft, vandalism, 
+12 
+and other potential security incidents.   
+13 
+Q. 
+Is the ADS program necessary and beneficial to 
+14 
+providing security for safe, reliable service to 
+15 
+ratepayers? 
+16 
+A. 
+Yes.  There are benefits to having 
+17 
+standardization of security procedures at 
+18 
+Avangrid.  Modernizing the security systems 
+19 
+enhances protection levels, reduces the risk of 
+20 
+theft, vandalism, and other potential security 
+21 
+incidents.  For example, deployment of 
+22 
+thermographic cameras will enable thermographic 
+23 
+monitoring of networks and substation equipment, 
+24 
+
+
+--- Page 37 ---
+Case 22-E-0317 et al. 
+ 
+ 
+36 
+ 
+potentially preventing serious losses through 
+1 
+real time monitoring and allowing a timely 
+2 
+response.  
+3 
+Q. 
+Please summarize the Companies’ capital forecast 
+4 
+for the ASD security system installation.  
+5 
+A. 
+NYSEG forecasts $10.867 million in 2022, $5.343 
+6 
+million in 2023, $7.293 million in 2024, $8.456 
+7 
+million in 2025, and $5.637 million in 2026 for 
+8 
+a total of $37.596 million.  RG&E forecasts 
+9 
+$6.402 million in 2022, $2.890 million in 2023, 
+10 
+$275,000 in 2024, $4.750 million in 2025, and 
+11 
+$2.965 million in 2026 for a total of $17.282 
+12 
+million.  The combined total for both Companies 
+13 
+is $54.878 million. 
+14 
+Q. 
+Does the Panel have concerns regarding the 
+15 
+project or recommend adjustments to the 
+16 
+Companies’ forecasted budgets? 
+17 
+A. 
+Yes.  We adjusted the Companies’ forecasted 
+18 
+budgets due to the lack of historical budget 
+19 
+information provided.   
+20 
+Q. 
+Please summarize your concerns and adjustments 
+21 
+to the capital expenditures for the Companies’ 
+22 
+ASD project. 
+23 
+A. 
+The Companies failed to provide sufficient 
+24 
+
+
+--- Page 38 ---
+Case 22-E-0317 et al. 
+ 
+ 
+37 
+ 
+project costs and location information for “Life 
+1 
+Cycle Replacement” projects in response to DPS-
+2 
+105.  As a result, we reduced the forecasted 
+3 
+budgets for 2023 for “Life Cycle Replacement”, 
+4 
+by $4.5 million for the Companies.  
+5 
+Specifically, we reduced NYSEG by $3.0 million 
+6 
+and RGE by $1.5 million. 
+7 
+Q. 
+What rationale was employed to make these 
+8 
+adjustments? 
+9 
+A. 
+There were several factors considered before 
+10 
+making these adjustments.  First, failure by the 
+11 
+Companies to provide historical budget data for 
+12 
+completed projects made comparative analysis 
+13 
+impossible.  We would have preferred to have 
+14 
+used a three-year historical average of 
+15 
+projects, budget estimates and actual project 
+16 
+cost, however lack of information in IR 
+17 
+responses prevented this approach.  
+18 
+Additionally, in response to DPS-105, the 
+19 
+Companies state that “budget estimates for 
+20 
+nearer-term projects (1-2 years) are refined 
+21 
+through a mini-tender bid evaluation process for 
+22 
+each scope of work and used to estimate future 
+23 
+years cost.”  One key phrase in this response is 
+24 
+
+
+--- Page 39 ---
+Case 22-E-0317 et al. 
+ 
+ 
+38 
+ 
+the reference to “nearer term projects.”  
+1 
+Therefore, a defined list of “life cycle 
+2 
+replacement” projects should be available to 
+3 
+justify the forecasted 2023 budget.  However, no 
+4 
+such list was provided as requested by DPS-105.  
+5 
+Although the 2023 budget estimates for “Life 
+6 
+Cycle Replacements” are overly broad and lack 
+7 
+detail required to justify full funding of this 
+8 
+project component, we expect some assets will 
+9 
+need to be replaced in 2023, which is why we did 
+10 
+not remove all of the costs. 
+11 
+Q. 
+Are there any additional adjustments to the ASD 
+12 
+security system installation project? 
+13 
+ A. Yes.  We reduced NYSEG’s forecasted budgets for 
+14 
+ASD by $750,000 in 2022, $750,000 in 2024, 
+15 
+$750,000 in 2025 and $750,000 in 2026 for a 
+16 
+combined total of $3.0 million.  We reduced 
+17 
+RGE’s forecasted budgets by $375,000 in 2022, 
+18 
+$275,000 in 2024, $475,000 in 2025 and $375,000 
+19 
+in 2026 for a total of $1.5 million.  This is a 
+20 
+combined total adjustment of $4.5 million.   
+21 
+Q. 
+What method was utilized to determine fair and 
+22 
+reasonable adjustments for budget forecasts in 
+23 
+2022, 2024, 2025 and 2026? 
+24 
+
+
+--- Page 40 ---
+Case 22-E-0317 et al. 
+ 
+ 
+39 
+ 
+A. 
+According to the response to DPS-105, there are 
+1 
+23 NYSEG projects that were scheduled for 2020 
+2 
+and 2021 that have not been completed for a 
+3 
+combined estimated budget of $9.479 million.  
+4 
+There are 14 RG&E projects that were scheduled 
+5 
+for 2020 and 2021 for a combined estimated 
+6 
+budget of $4.940 million that remain incomplete 
+7 
+as of July 12, 2022.  This is a combined total 
+8 
+of $14.419 million in unfinished projects for 
+9 
+NYSEG and RG&E.  This suggests that project 
+10 
+schedule slippage is common and must be 
+11 
+accounted for in budget adjustment forecasts.    
+12 
+Q. 
+Are there any additional factors in determining 
+13 
+adjustments to the ASD security system 
+14 
+installation project? 
+15 
+A. 
+Yes.  The Companies failed to provide the 
+16 
+requested updated budget estimate versus actual 
+17 
+costs for each specified project as requested in 
+18 
+IR DPS-105.  Included in DPS-105 Attachment 1, 
+19 
+there are 29 completed projects listed for NYSEG 
+20 
+and 19 completed projects for RGE.  All of these 
+21 
+included budget estimates, but none included the 
+22 
+requested actual costs.  Without the historical 
+23 
+data to evaluate project management efficiency, 
+24 
+
+
+--- Page 41 ---
+Case 22-E-0317 et al. 
+ 
+ 
+40 
+ 
+adjustments were made based on limited available 
+1 
+data points and through ongoing interaction with 
+2 
+Avangrid security staff.   
+3 
+Q. 
+Do you have any additional concerns about how 
+4 
+the Companies forecasted and substantiated the 
+5 
+proposed spending for the ASD project? 
+6 
+A. 
+Yes.  The Companies did not provide supporting 
+7 
+documentation explaining the risk assessment 
+8 
+process as requested in DPS-369 in order to 
+9 
+evaluate methods and internal risk assessment 
+10 
+processes.  Without this documentation, 
+11 
+evaluating the risk assessment process and 
+12 
+installation schedule for each project is 
+13 
+obfuscated.  Transparency into the risk 
+14 
+assessment process is important to determine 
+15 
+prudency and reasonableness of security 
+16 
+expenditures.  Without accurate data, DPS field 
+17 
+audits may be less effective in monitoring the 
+18 
+ongoing security installations and 
+19 
+functionality. 
+20 
+Q. 
+Do you have any additional concerns about the 
+21 
+information provided by the Companies? 
+22 
+A. 
+Yes.  IR Response DPS-369 includes Table 2 
+23 
+listing “Most pertinent Regulations applicable 
+24 
+
+
+--- Page 42 ---
+Case 22-E-0317 et al. 
+ 
+ 
+41 
+ 
+to the Physical Security Program.”  Table 3 
+1 
+lists “Primary Applicable regulations by 
+2 
+business” which reference a Management Action 
+3 
+Plan to Safeguard Physical Assets, or MAPSPA.  
+4 
+We can find no regulation with that title.  In 
+5 
+response to DPS-649, the Companies confirmed 
+6 
+that the MAPSPA standard was inadvertently 
+7 
+referenced in DPS-369, Tables 2 and 3 and it 
+8 
+should not have been included.  We are concerned 
+9 
+a nonexistent or outdated regulation would be 
+10 
+cited as a justification.   
+11 
+Q. 
+Can you summarize your recommendations? 
+12 
+A. 
+Yes.  ASD security system installation is a 
+13 
+beneficial and necessary program.  The 
+14 
+improvements in the communications networks and 
+15 
+coverage via video surveillance will enable 
+16 
+remote supervision and response which DPS 
+17 
+supports.  The ASD installation should be 
+18 
+continued with the adjustments detailed in this 
+19 
+testimony.   
+20 
+Fire Protection 
+21 
+Q. 
+What is the purpose of the Companies’ Fire 
+22 
+Protection Program? 
+23 
+A. 
+A robust Fire Protection Program ensures that 
+24 
+
+
+--- Page 43 ---
+Case 22-E-0317 et al. 
+ 
+ 
+42 
+ 
+facilities meet the National Fire Protection 
+1 
+Association ("NFPA") code requirements.  
+2 
+Compliance with local and federal laws as well 
+3 
+as applicable NFPA Standards is important 
+4 
+because it increases worker safety, reduces fire 
+5 
+risk and loss to Company infrastructure by 
+6 
+increasing resiliency to maintain operations.   
+7 
+Q. 
+Please summarize the Fire Protection projects. 
+8 
+A. 
+Fire protection projects include the design and 
+9 
+installation/replacement of smoke detector/fire 
+10 
+alarm systems, mass notification systems, 
+11 
+automated extinguisher monitoring systems and 
+12 
+fire suppression systems.   
+13 
+Q. 
+How many sites have the Companies’ identified 
+14 
+for fire protection upgrades? 
+15 
+A. 
+The NYSEG and RG&E 2022 through 2026 Five-Year 
+16 
+Capital Investment Plan identifies 30 total 
+17 
+sites for upgrade or new system installations of 
+18 
+which 14 sites are for NYSEG and 16 sites are 
+19 
+for RG&E.  These sites are a mix of service 
+20 
+centers, substations, and hydro generation 
+21 
+facilities. 
+22 
+Q. 
+Please summarize the Companies’ capital forecast 
+23 
+for the Fire Protection category. 
+24 
+
+
+--- Page 44 ---
+Case 22-E-0317 et al. 
+ 
+ 
+43 
+ 
+A. 
+NYSEG forecasts $2.0 million in 2022, $2.5 
+1 
+million in 2023, $2.5 million in 2024, $2.5 
+2 
+million in 2025, and $2.5 million in 2026.  RG&E 
+3 
+forecasts $1.090 million in 2022, $1.090 million 
+4 
+in 2023, $1.090 million in 2024, $1.090 million 
+5 
+in 2025, and $1.090 million in 2026.  This is a 
+6 
+combine budget total for the Companies of $17.45 
+7 
+million. 
+8 
+Q. 
+Do you recommend any adjustments to the Fire 
+9 
+Protection category budgets? 
+10 
+A. 
+Yes.  We recommend adjustments for NYSEG of 
+11 
+$200,000 in 2022, $200,000 in 2023, $200,000 in 
+12 
+2024, $200,000 in 2025 and $200,000 in 2026.  
+13 
+For RGE, we recommend adjustments of $400,000 in 
+14 
+2022, $400,000 in 2023, $400,000 in 2024 and 
+15 
+$400,000 in 2025 and $400,000 in 2026.  This is 
+16 
+a total combined adjustment of $3.0 million for 
+17 
+both Companies from 2022 through 2026. 
+18 
+Q. 
+What were the most significant reasons for the 
+19 
+adjustments? 
+20 
+A. 
+The most significant factors for adjustments 
+21 
+were that responses provided by the Companies 
+22 
+were incomplete or lacked sufficient detail to 
+23 
+draw conclusions.  For example, there was no 
+24 
+
+
+--- Page 45 ---
+Case 22-E-0317 et al. 
+ 
+ 
+44 
+ 
+information provided on completed RG&E projects 
+1 
+for 2019, 2020, 2021 or 2022.  There is also 
+2 
+missing or incomplete data in DPS-104 Attachment 
+3 
+3 with regards to both budget estimates and 
+4 
+actual costs for Fire Protection projects.  
+5 
+However, we were able to determine that the 
+6 
+individual forecasted projects had budgets 
+7 
+ranging between $200,000 and $265,000.   
+8 
+Q. 
+Were you able to determine the Companies 
+9 
+historical versus budgeted spending for fire 
+10 
+protection in order to make comparisons between 
+11 
+similar projects? 
+12 
+A. 
+No.  In order to make more precise adjustments, 
+13 
+we would have preferred to have used a three-
+14 
+year historical average of actual project cost.  
+15 
+However, the response to DPS-104, Attachment 2, 
+16 
+provided historical actual costs for fire 
+17 
+protection installations for projects completed 
+18 
+in the three years of 2019, 2020, 2021 for NYSEG 
+19 
+only.  Additionally, only partial budget 
+20 
+estimates were provided for most of the 2020 
+21 
+projects, and there were no budget estimates 
+22 
+included for any 2021 projects.  The information 
+23 
+provided by the Companies was insufficient to 
+24 
+
+
+--- Page 46 ---
+Case 22-E-0317 et al. 
+ 
+ 
+45 
+ 
+justify the forecasted budget amount.  
+1 
+Q. 
+Are there any other concerns that influenced 
+2 
+decisions on adjustments? 
+3 
+A. 
+Yes, Fire Protection is an essential component 
+4 
+of a program directly related to the safety of 
+5 
+facilities as well as ensuring fire protection 
+6 
+systems are up to date and in compliance with 
+7 
+local and federal requirements.  For this 
+8 
+reason, the programs should be continued, but 
+9 
+with budget adjustments.  The lack of any 
+10 
+significant historical spending details on the 
+11 
+RG&E program raises doubt as the ability to 
+12 
+complete forecasted projects on time or complete 
+13 
+projects within budgeted forecasts.  For these 
+14 
+reasons we adjusted RG&E’s Fire Protection 
+15 
+Program more significantly than NYSEG’s Fire 
+16 
+Protection Program.   
+17 
+Cyber Security 
+18 
+Q. 
+Please summarize the Companies’ capital forecast 
+19 
+for the Cyber Security category. 
+20 
+A. 
+NYSEG forecasts $65 million: $22.7 million in 
+21 
+2022, $16.5 million in 2023, $13 million in 
+22 
+2024, $4 million in 2025, and $8.6 million in 
+23 
+2026.  RG&E forecasts $42.5 million: $15.5 in 
+24 
+
+
+--- Page 47 ---
+Case 22-E-0317 et al. 
+ 
+ 
+46 
+ 
+2022, $9 million in 2023, $8.6 million in 2024, 
+1 
+$2.5 million in 2025, and $6.5 million in 2026. 
+2 
+Q. 
+Please describe the ASD capital projects. 
+3 
+A. 
+There are three ASD projects.  The Security 
+4 
+System Installation project was discussed 
+5 
+previously in the Physical Security Section of 
+6 
+this testimony.  The other two are ASD 
+7 
+Operational Smart Grids, or OSG, 
+8 
+Telecommunications and ASD OSG Infrastructure. 
+9 
+Q. 
+Please describe the ASD OSG Telecommunications 
+10 
+and ASD OSG Infrastructure projects. 
+11 
+A. 
+As described in the responses to DPS-546 and 
+12 
+DPS-606 regarding the ASD Program, the Companies 
+13 
+intend to create their own secure high-capacity 
+14 
+network that can interconnect all Avangrid 
+15 
+operating companies.  The interconnection is 
+16 
+necessary to support both the current and future 
+17 
+needs for automation and grid modernization and 
+18 
+the associated bandwidth demands from both the 
+19 
+IT networks and the operational technology, or 
+20 
+OT networks.  The telecommunications project 
+21 
+provides a backbone that will allow the 
+22 
+Companies to aggregate traffic from peripheral 
+23 
+or local networks and securely transport it.  
+24 
+
+
+--- Page 48 ---
+Case 22-E-0317 et al. 
+ 
+ 
+47 
+ 
+The infrastructure project provides additional 
+1 
+security by monitoring the traffic and 
+2 
+maintaining the resources needed for incident 
+3 
+response and recovery.  As shown in the response 
+4 
+to DPS-38, these projects improve the Companies 
+5 
+implementation tier of the National Institute 
+6 
+for Standards and Technology, or NIST, 
+7 
+Cybersecurity Framework, or CSF.  Additionally, 
+8 
+the projects will support the Companies in 
+9 
+fulfilling the mandatory requirements of the 
+10 
+North American Electric Reliability Corporation, 
+11 
+or NERC, Critical Infrastructure Protection, or 
+12 
+CIP, standards.   
+13 
+Q. 
+How are the ASD OSG Telecommunications and ASD 
+14 
+OSG Infrastructure projects different from the 
+15 
+Infrastructure and Telecommunications projects 
+16 
+in the Operational Smart Grids category? 
+17 
+A. 
+As described in the response to DPS-467, these 
+18 
+two programs provide security for the OSG 
+19 
+telecommunications and infrastructure through 
+20 
+increased resilience and network protection.  
+21 
+The OSG telecommunications networks provide 
+22 
+peripheral, local area networks, or LAN, field 
+23 
+area networks, or FAN, and wide area networks, 
+24 
+
+
+--- Page 49 ---
+Case 22-E-0317 et al. 
+ 
+ 
+48 
+ 
+or WAN, with a heavy reliance on wireless 
+1 
+technology and architecture.  The ASD project 
+2 
+supports these with fiber networks that can 
+3 
+offer some redundancy to the OSG networks and 
+4 
+act as a high bandwidth pathway to aggregate 
+5 
+traffic from the OSG networks to the rest of the 
+6 
+Avangrid operating companies.  As the operator 
+7 
+of the network, Avangrid can protect its data by 
+8 
+implementing encryption at earlier stages of the 
+9 
+network.  The ASD infrastructure project 
+10 
+focusses on protecting data centers.  By 
+11 
+centralizing the monitoring of data center 
+12 
+operations, Avangrid analysts can maintain 
+13 
+accurate and current situational awareness of 
+14 
+network traffic and be more capable of detecting 
+15 
+intrusions.  When an incident occurs, the 
+16 
+Companies will have the information and 
+17 
+capabilities to respond to the incident in a 
+18 
+rapid and effective manner.   
+19 
+Q. 
+Does the Panel propose any adjustments to the 
+20 
+ASD OSG Telecommunications or ASD OSG 
+21 
+Infrastructure? 
+22 
+A. 
+We have no adjustments for either of these 
+23 
+programs.  We followed three lines of inquiry to 
+24 
+
+
+--- Page 50 ---
+Case 22-E-0317 et al. 
+ 
+ 
+49 
+ 
+determine the necessity of these programs.  
+1 
+First, is there a need they fill? Second, do 
+2 
+they fill that need?  Third, is this a 
+3 
+reasonable method to address the need or are 
+4 
+there alternatives?  The response to DPS-3 shows 
+5 
+there are real dangers from various threat-
+6 
+actors as documented by cybersecurity alerts 
+7 
+posted by various governmental and industry 
+8 
+trusted sources.  The responses to DPS-4, DPS-37 
+9 
+and DPS-38 show how these programs address those 
+10 
+threats as well as improve the Companies’ 
+11 
+cybersecurity posture against other dangers.  
+12 
+These programs are also meant to provide 
+13 
+security for the infrastructure built as part of 
+14 
+the IT and OSG capital programs proposed in 
+15 
+testimony and exhibits.  The responses to DPS-
+16 
+467, DPS-546, and DPS-606 show that the 
+17 
+Companies have given due consideration to 
+18 
+alternatives and have carefully matched software 
+19 
+and hardware to the current cybersecurity needs 
+20 
+of both NYSEG and RG&E as well as capacity for 
+21 
+predictable and necessary near future upgrades 
+22 
+and additions.  Additionally, we have not made 
+23 
+any adjustments to the IT and OSG capital 
+24 
+
+
+--- Page 51 ---
+Case 22-E-0317 et al. 
+ 
+ 
+50 
+ 
+programs that warrant corresponding adjustments 
+1 
+to the ASD OSG Telecommunications or ASD OSG 
+2 
+Infrastructure Projects.   
+3 
+Q. 
+Please describe the Global Cyber Security 
+4 
+Director’s Plan, or GCSD. 
+5 
+A. 
+The GCSD is a new project.  As described in the 
+6 
+responses to DPS-252 and DPS-631, Avangrid 
+7 
+commissioned a comprehensive third-party review 
+8 
+of their cybersecurity program.  The GCSD is the 
+9 
+Companies’ response to the recommendations from 
+10 
+that review.  The intent is to improve the 
+11 
+Companies’ Implementation tier of the NIST CSF.  
+12 
+By improving their implementation tier the 
+13 
+Companies will more closely align their 
+14 
+cybersecurity program with the risks they face.  
+15 
+The plan is comprehensive and covers areas such 
+16 
+as Risk Assessment and Management, Identity and 
+17 
+Access Management or IAM, Data Classification 
+18 
+and Protection, security monitoring, supply 
+19 
+chain security, and response and recovery.  This 
+20 
+requires the Companies to acquire and install 
+21 
+new hardware and software to add new 
+22 
+capabilities as well as upgrade existing 
+23 
+capabilities. 
+24 
+
+
+--- Page 52 ---
+Case 22-E-0317 et al. 
+ 
+ 
+51 
+ 
+Q. 
+Since the GCSD plan provides security for 
+1 
+Operational Smart Grids, how is it different 
+2 
+from the Avangrid Secure Domain projects that 
+3 
+also provide security for Operational Smart 
+4 
+Grids? 
+5 
+A. 
+This program is a comprehensive plan that works 
+6 
+to unify cybersecurity efforts across all the 
+7 
+Iberdrola operating companies.  While the ASD 
+8 
+projects provide valuable cybersecurity for the 
+9 
+Operational Smart Grids, it is in a focused 
+10 
+manner to address specific needs.  Review of the 
+11 
+responses to DPS-272 and DPS-631 show that the 
+12 
+Operational Smart Grids are targeted with 
+13 
+specific tools and projects that are necessary 
+14 
+parts of the comprehensive program.  They also 
+15 
+show the many areas not addressed by the 
+16 
+Operational Smart Grids projects that are 
+17 
+addressed by the GCSD.  An example is network 
+18 
+security where the ASD OSG programs focus on 
+19 
+protecting local networks and meeting the 
+20 
+requirements of the mandatory NERC CIP standards 
+21 
+for electric utilities, the GCSD has efforts to 
+22 
+build a comprehensive network security strategy 
+23 
+across all operating companies that will 
+24 
+
+
+--- Page 53 ---
+Case 22-E-0317 et al. 
+ 
+ 
+52 
+ 
+incorporate the ASD efforts, as well as include 
+1 
+gas, renewables, and IT networks.  
+2 
+Q. 
+Does the Panel propose any adjustments to the 
+3 
+Global Cybersecurity Director’s Plan? 
+4 
+A. 
+We have no adjustments for the GCSD.  We 
+5 
+followed three lines of inquiry to determine the 
+6 
+necessity of this program.  First, is there a 
+7 
+need it fills?  Second, does it fill that need?  
+8 
+Third, is this a reasonable method to address 
+9 
+the need or are there alternatives?  The 
+10 
+response to DPS-3 shows there are real dangers 
+11 
+from various threat-actors as documented by 
+12 
+cybersecurity alerts posted by various 
+13 
+governmental and industry trusted sources.  The 
+14 
+responses to DPS-4, DPS-37 and DPS-38 show that 
+15 
+this program addresses those threats as well as 
+16 
+improve the Companies’ cybersecurity posture 
+17 
+against other dangers.  The responses to DPS-
+18 
+272, DPS-631, and DPS-632 show that the 
+19 
+Companies have given due consideration to 
+20 
+alternatives and have carefully matched software 
+21 
+and hardware to the current cybersecurity needs 
+22 
+of both NYSEG and RG&E as well as capacity for 
+23 
+predictable and necessary near future upgrades 
+24 
+
+
+--- Page 54 ---
+Case 22-E-0317 et al. 
+ 
+ 
+53 
+ 
+and additions.  
+1 
+Cybersecurity Operations and Maintenance 
+2 
+Q. 
+Please summarize the Companies’ cybersecurity 
+3 
+operations and maintenance programs. 
+4 
+A. 
+The Companies propose $7.6 million in 
+5 
+incremental spending for cybersecurity in their 
+6 
+workpapers for Outside Services for the Rate 
+7 
+Year: $4.8 million for NYSEG and $2.8 million 
+8 
+for RG&E.  This is spread over several programs 
+9 
+that are linked to and support their 
+10 
+cybersecurity capital programs.  The 
+11 
+cybersecurity outside services are listed as 
+12 
+part of Exhibit__(SSSP-5).  The response to DPS-
+13 
+254 links External Services Support for ASD to 
+14 
+the three ASD security programs.  The response 
+15 
+to DPS-252 links CSMP external services to the 
+16 
+Global Cybersecurity Director’s Plan.  The 
+17 
+responses to DPS-251 and DPS-642 link Compliance 
+18 
+Services and Infrastructure Services to NERC CIP 
+19 
+compliance initiatives. 
+20 
+Q. 
+Please summarize your concerns with the 
+21 
+Companies’ cybersecurity operations and 
+22 
+maintenance proposals.  
+23 
+A. 
+As can be seen in response to DPS-254 operations 
+24 
+
+
+--- Page 55 ---
+Case 22-E-0317 et al. 
+ 
+ 
+54 
+ 
+and maintenance expenses for cybersecurity are 
+1 
+linked to three capital projects: ASD Security 
+2 
+System Installation, ASD OSG Telecommunications, 
+3 
+and ASD OSG Infrastructure.  In the August 
+4 
+update the Companies reduced the combined budget 
+5 
+for these capital projects.  NYSEG reduced their 
+6 
+capital budget by $5.3 million and RG&E reduced 
+7 
+their capital budget by $2.1 million, resulting 
+8 
+in total budgets of $16.1 million for NYSEG and 
+9 
+$8.7 million for RG&E.  RG&E made a 
+10 
+corresponding adjustment to their operations and 
+11 
+maintenance budget.  However, NYSEG did not. 
+12 
+Q. 
+What is does the Panel recommend to account for 
+13 
+the impact of the Companies’ update and Panel’s 
+14 
+recommended reductions to the capital budgets of 
+15 
+the ASD Security System Installation, ASD OSG 
+16 
+Telecommunications, and ASD OSG Infrastructure 
+17 
+projects? 
+18 
+A. 
+After accounting for the Companies updates and 
+19 
+Panel’s recommended capital reductions, the 
+20 
+combined capital budgets are 61 percent and 67 
+21 
+percent of the Companies original proposal for 
+22 
+NYSEG and RG&E respectively.   
+23 
+ 
+Therefore, the Panel recommends reducing the 
+24 
+
+
+--- Page 56 ---
+Case 22-E-0317 et al. 
+ 
+ 
+55 
+ 
+operations and maintenance spending 
+1 
+proportionally to match the decreases in capital 
+2 
+spending.  The original proposal for O&M was 
+3 
+$1.8 million for NYSEG and $1.6 million for 
+4 
+RG&E. 
+5 
+Q. 
+What is the impact of your recommendation? 
+6 
+A. 
+The impact for NYSEG is a downward adjustment of 
+7 
+$704,000 which is 61 percent of original $1.8 
+8 
+million budget.  For RG&E, the $1 million 
+9 
+proposed in the August 12th update is in line 
+10 
+with what this Panel would have recommended. 
+11 
+Q. 
+Do you propose any other adjustments to the 
+12 
+Companies cybersecurity operations and 
+13 
+maintenance spending? 
+14 
+A. 
+No.  There are no proposed adjustments to other 
+15 
+capital programs linked to cybersecurity O&M.  A 
+16 
+review of the Companies’ responses to 
+17 
+interrogatories about cybersecurity O&M spending 
+18 
+has demonstrated its necessity and prudence. 
+19 
+Training 
+20 
+Q. 
+Please summarize the Companies’ capital forecast 
+21 
+for the Training category. 
+22 
+A. 
+NYSEG forecasts $2.89 million in 2022, $8.04 
+23 
+million in 2023, $576,000 in 2024, $610,000 in 
+24 
+
+
+--- Page 57 ---
+Case 22-E-0317 et al. 
+ 
+ 
+56 
+ 
+2025, and $780,000 in 2026.  RG&E forecasts 
+1 
+$265,000 in 2022, $139,000 in 2023, $63,000 in 
+2 
+2024, $134,000 in 2025, and $2,000 in 2026.   
+3 
+Q. 
+Please summarize your adjustments to the capital 
+4 
+expenditures for the Companies’ Training 
+5 
+projects – Training Facility, Training – Fleet, 
+6 
+Training Equipment and Tools, and Training 
+7 
+Technology Projects. 
+8 
+A. 
+First, we will discuss the adjustments for the 
+9 
+Training Facility project.  Specifically, we 
+10 
+recommend reducing the Training Facility project 
+11 
+budget by 50 percent.  This amount reflects the 
+12 
+reduced full-time employee, or FTE, staffing 
+13 
+levels and reductions to various utility 
+14 
+proposed projects.  We reduced NYSEG’s Training 
+15 
+Facility budgets by $1.0 million in 2022, $6.1 
+16 
+million in 2023, $175,000 in 2024, $175,000 in 
+17 
+2025, and $250,000 in 2026.  To be consistent, 
+18 
+we also reduced the Training Equipment and Tools 
+19 
+project by 50 percent similar to the reductions 
+20 
+for the Training Facility project.  This 
+21 
+resulted in a reduction of $945,000 for NYSEG 
+22 
+and $275,000 for RG&E during the 2022 through 
+23 
+2026 period.  Finally, we reduced the Training 
+24 
+
+
+--- Page 58 ---
+Case 22-E-0317 et al. 
+ 
+ 
+57 
+ 
+Technology projects by 50 percent, resulting in 
+1 
+a reduction for the Training category of $77,000 
+2 
+for NYSEG and $27,000 for RG&E during 2022 
+3 
+through 2026 period.   
+4 
+Q. 
+Did the Panel have any adjustments to the 
+5 
+Training – Fleet project? 
+6 
+A. 
+Yes.  Similar to the proposed reduction in the 
+7 
+Fleet project, we reduced the Training – Fleet 
+8 
+project by 20 percent. As a result, the NYSEG 
+9 
+Training category was reduced by $65,000 in 2022 
+10 
+and by $312,000 in the Rate Year.   
+11 
+Reporting Requirements 
+12 
+Q. 
+Does the Panel propose to continue the existing 
+13 
+common capital expenditure reporting 
+14 
+requirements? 
+15 
+A. 
+Yes.  We recommend that the existing reporting 
+16 
+requirements should continue as detailed below: 
+17 
+ 
+(1) Quarterly Report – For each proposed capital 
+18 
+project, this report shall provide a variance 
+19 
+report between actual and forecasted 
+20 
+expenditures, including project changes due the 
+21 
+last day of the month following the calendar 
+22 
+quarter (i.e., Quarter 1 due April 30, Quarter 2 
+23 
+due July 31, Quarter 3 due October 31, and 
+24 
+
+
+--- Page 59 ---
+Case 22-E-0317 et al. 
+ 
+ 
+58 
+ 
+Quarter 4 due January 30) for each such project 
+1 
+that experiences a plus or minus ten percent 
+2 
+cost variation. 
+3 
+ 
+(2) Annual Report – For projects, this report 
+4 
+shall provide a variance report between actuals 
+5 
+to the approved projects at the close of the 
+6 
+year due on March 15 of the following year.  The 
+7 
+report shall include an explanation for removing 
+8 
+or revising capital projects or adding new 
+9 
+capital projects. 
+10 
+ 
+(3) Five Year Plan Report – This report shall 
+11 
+include the projected five-year capital plan and 
+12 
+budget with descriptions of the projects 
+13 
+outlined below.  It will be due on April 1.  The 
+14 
+Companies shall continue to file with the 
+15 
+Secretary to the Commission on an annual basis 
+16 
+their respective five-year projected capital 
+17 
+plans and budgets.   
+18 
+Q. 
+Do the above reports have specific requirements 
+19 
+for projects amounts?   
+20 
+A. 
+Yes.  The Companies shall provide the above-
+21 
+referenced reports on electric capital projects 
+22 
+greater than $1.0 million, gas capital projects 
+23 
+greater than $500,000 and common capital 
+24 
+
+
+--- Page 60 ---
+Case 22-E-0317 et al. 
+ 
+ 
+59 
+ 
+projects greater than $500,000.  For each such 
+1 
+project that experiences a cost delta of plus or 
+2 
+minus ten percent or a timeline delta of plus or 
+3 
+minus six months, the Companies shall include a 
+4 
+narrative explanation of the variation in the 
+5 
+Quarterly and Annual report.  The Companies 
+6 
+shall also provide a narrative on project 
+7 
+design, permitting, and/or construction status 
+8 
+(including a construction schedule for each 
+9 
+project), and capital project documentation for 
+10 
+any ongoing projects, as well as a description 
+11 
+of any new projects or programs in the Annual 
+12 
+Report.  The summary of capital expenditures for 
+13 
+all capital projects and programs, including all 
+14 
+ongoing and active construction projects and 
+15 
+programs shall be provided in the same format as 
+16 
+Appendix R of the 2019 Rate Cases.  The 
+17 
+Quarterly Reports and Annual Report shall 
+18 
+include an explanation for removing or revising 
+19 
+capital projects or adding new capital projects.  
+20 
+The Companies shall also provide to Staff 
+21 
+project justifications and prioritization 
+22 
+consistent with the Companies’ Capital 
+23 
+Investment Prioritization Strategies for newly 
+24 
+
+
+--- Page 61 ---
+Case 22-E-0317 et al. 
+ 
+ 
+60 
+ 
+identified projects. 
+1 
+FTEs and Related Expenses 
+2 
+Q. 
+Please explain the Companies’ proposal for FTEs 
+3 
+for cybersecurity. 
+4 
+A. 
+The Companies propose in DPS-356 Attachment 1 an 
+5 
+addition of fourteen FTEs for NYSEG and nine 
+6 
+FTEs for RG&E, for a total of 23.  In their 
+7 
+response to DPS-252 they mention an increase in 
+8 
+headcount of 32 FTEs.  
+9 
+Q. 
+Does the Panel support the addition of these 
+10 
+FTEs? 
+11 
+A. 
+We support the addition of some of these FTEs.   
+12 
+Q. 
+Please explain. 
+13 
+A. 
+In response to DPS-252, the Companies list 17 
+14 
+positions from workpapers NC-RR-2-WP-07 Payroll 
+15 
+and RC-RRP-WP-07 Payroll.  The 17 positions add 
+16 
+up to 8.5 FTEs.  Four positions correspond to 
+17 
+similar titles listed as open positions in 
+18 
+workpaper NC-RR-2-WP-07 Payroll.  Therefore, we 
+19 
+recommend those open positions count against the 
+20 
+total.  Since the response to DPS-252 notes that 
+21 
+the actual titles for the positions are subject 
+22 
+to slight change the differences between the 
+23 
+open and requested positions appear immaterial.  
+24 
+
+
+--- Page 62 ---
+Case 22-E-0317 et al. 
+ 
+ 
+61 
+ 
+In response to DPS-546, the Companies list an 
+1 
+additional four positions adding up to 2.5 FTEs 
+2 
+in the workpapers.  We recommended the addition 
+3 
+of 17 of the positions adding up to 9.7 FTEs 
+4 
+that the Companies’ have provided sufficient 
+5 
+justification for in their responses to DPS-252 
+6 
+and DPS-546. 
+7 
+Q. 
+Does this conclude the Panel’s testimony at this 
+8 
+time? 
+9 
+A. 
+Yes. 
+10 

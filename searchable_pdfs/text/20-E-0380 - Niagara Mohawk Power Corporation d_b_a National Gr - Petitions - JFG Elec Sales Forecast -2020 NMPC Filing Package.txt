@@ -1,0 +1,13753 @@
+--- Page 1 ---
+ 
+ 
+ 
+ 
+       
+ 
+ 
+ 
+ 
+ 
+ 
+ 
+Before the Public Service Commission 
+ 
+ 
+NIAGARA MOHAWK POWER CORPORATION d/b/a NATIONAL GRID  
+ 
+ 
+Direct Testimony 
+ 
+of 
+ 
+Joseph F. Gredder 
+ 
+ 
+ 
+ 
+ 
+ 
+ 
+ 
+ 
+ 
+ 
+ 
+ 
+ 
+ 
+ 
+ 
+ 
+ 
+ 
+ 
+Dated:  July 31, 2020
+
+
+--- Page 2 ---
+Testimony of Joseph F. Gredder 
+ 
+ 
+ 
+Table of Contents 
+ 
+I. 
+Introduction and Qualifications ................................................................... 1 
+II. Purpose of Testimony .................................................................................... 3 
+III. Energy Deliveries & Customer Count Forecasts ........................................ 5 
+A. Summary of Process ....................................................................................... 5 
+B.  Economic Outlook ......................................................................................... 7 
+C.  Weather Variables ....................................................................................... 10 
+D.  Billed Days Variable ................................................................................... 12 
+E.  Econometric Models .................................................................................... 13 
+F. Energy Deliveries and Customer Count Forecasts (Revenue Class) ......... 18 
+1.  Residential ................................................................................................ 18 
+2.  Commercial .............................................................................................. 21 
+3.  Industrial ................................................................................................... 24 
+4. Company Total .......................................................................................... 26 
+G.  Distributed Energy Resources Impacts on the Energy Deliveries Forecast 27 
+H.  Energy Deliveries & Customer Count Forecasts (Rate Class) .................... 28 
+ 
+IV. Peak Load Forecast ...................................................................................... 29 
+A. Summary of Process ..................................................................................... 29 
+B.  Economic Outlook ....................................................................................... 31 
+C. Summer Peak Forecast Results..................................................................... 33 
+D. DER Impacts ................................................................................................ 34 
+E. Weather ......................................................................................................... 35 
+F. Econometric Models ..................................................................................... 39 
+ 
+V.  Distributed Energy Resources (DERs) ........................................................ 39 
+A. Energy Efficiency (EE) Adjustments ........................................................... 40 
+
+
+--- Page 3 ---
+Testimony of Joseph F. Gredder 
+ 
+ 
+ 
+B.  Solar- Photovoltaic (PV) Adjustments ........................................................ 42 
+C.  Electric Vehicles (EV) Adjustments............................................................ 46 
+D. Demand Response (DR) Projections ............................................................ 48 
+E. Energy Storage (ES) Projections .................................................................. 50 
+ 
+ 
+
+
+--- Page 4 ---
+Testimony of Joseph F. Gredder 
+ 
+ 
+Page 1 of 53 
+ 
+I. 
+Introduction and Qualifications 
+1 
+Q. 
+Please state your name and business address. 
+2 
+A. 
+My name is Joseph F. Gredder.  My business address is 175 East Old 
+3 
+Country Road, Hicksville, New York 11801. 
+4 
+ 
+5 
+Q. 
+By whom are you employed and in what capacity? 
+6 
+A. 
+ I am employed by National Grid USA Service Company, Inc., a 
+7 
+subsidiary of National Grid USA (“National Grid”), as a Principal Analyst 
+8 
+in Electric Load Forecasting in the Advanced Data and Analytics group.  
+9 
+In that capacity, I provide load forecasting services for National Grid’s 
+10 
+electric companies, including Niagara Mohawk Power Corporation d/b/a 
+11 
+National Grid (“Niagara Mohawk” or the “Company”).   
+12 
+ 
+13 
+Q. 
+Please describe your business experience.     
+14 
+A. 
+I have worked in the electric utility industry for over 30 years and have 
+15 
+spent the majority of my career in areas related directly or indirectly to 
+16 
+load forecasting.  I have been in my current position in electric load 
+17 
+forecasting for ten years and am responsible for the electric deliveries and 
+18 
+peak forecasts for Niagara Mohawk.  Prior to my current role, I worked in 
+19 
+a number of other areas, including Energy Efficiency, Load Research, 
+20 
+Demand Side Management Evaluation, Integrated Resource Planning, 
+21 
+
+
+--- Page 5 ---
+Testimony of Joseph F. Gredder 
+ 
+ 
+Page 2 of 53 
+ 
+Financial Planning, and Electric Strategy at National Grid and its legacy 
+1 
+companies.   
+2 
+ 
+3 
+Q. 
+Please describe your educational background.     
+4 
+A. 
+I graduated from the State University of New York - Maritime College 
+5 
+with a Bachelor of Engineering degree in Mechanical Engineering.  I 
+6 
+subsequently received a Master of Business Administration from Hofstra 
+7 
+University, New York.  In addition, I have taken post-graduate courses in 
+8 
+statistics, regression, computer science, and financial analysis. 
+9 
+ 
+10 
+Q. 
+Are you a member of any professional organizations or industry 
+11 
+committees? 
+12 
+A. 
+Yes.  I am currently a member of the New England Independent System 
+13 
+Operator (“NE-ISO”) Load Forecasting Committee and the New York 
+14 
+Independent System Operator (“NYISO”) Load Forecasting Task Force 
+15 
+and have represented National Grid on these committees for the last ten 
+16 
+years.     
+17 
+18 
+
+
+--- Page 6 ---
+Testimony of Joseph F. Gredder 
+ 
+ 
+Page 3 of 53 
+ 
+Q. 
+Have you previously testified or submitted testimony before the New 
+1 
+York State Public Service Commission (“Commission”)? 
+2 
+A. 
+Yes.  I was the electric deliveries forecast witness and provided direct 
+3 
+testimony, rebuttal testimony, and supporting documentation in Niagara 
+4 
+Mohawk’s last two rate cases, the 2017 electric rate case, Case 17-E-0238 
+5 
+(the “2017 Electric Rate Case”) and the 2012 electric rate case, Case 12-E-
+6 
+0201 (the “2012 Electric Rate Case”).    
+7 
+ 
+8 
+II. 
+Purpose of Testimony 
+9 
+ 
+10 
+Q. 
+What is the purpose of your testimony? 
+11 
+A. 
+I present the Company’s forecast of electric deliveries and customer 
+12 
+counts used to support the revenue requirement presented in this filing and 
+13 
+the Company’s peak electric forecast used to support network planning 
+14 
+and certain earnings adjustment mechanisms. 
+15 
+ 
+16 
+Q. 
+Are you sponsoring any exhibits? 
+17 
+A. 
+Yes.  I sponsor the following exhibits that were prepared by me or under 
+18 
+my direction and supervision:  
+19 
+Exhibit __ (JFG-1) 
+Upstate New York Economic Indicators (Retail 
+20 
+Deliveries) 
+21 
+ 
+22 
+
+
+--- Page 7 ---
+Testimony of Joseph F. Gredder 
+ 
+ 
+Page 4 of 53 
+ 
+Exhibit __ (JFG-2) 
+Annual Cooling and Heating Degree Days 
+1 
+ 
+2 
+Exhibit__ (JFG-3) 
+Monthly Normal Cooling and Heating Degree Days 
+3 
+ 
+4 
+Exhibit __ (JFG-4) 
+Econometric Deliveries Forecast by Revenue Class, 
+5 
+Gross (with actual historicals) 
+6 
+ 
+7 
+Exhibit __ (JFG-5) 
+Econometric Deliveries Forecast by Revenue Class, 
+8 
+Gross (with weather-adjusted historicals) 
+9 
+ 
+10 
+Exhibit __ (JFG-6) 
+Customer Count Forecast by Revenue Class 
+11 
+ 
+12 
+Exhibit __ (JFG-7) 
+Econometric Deliveries Forecast by Revenue Class, 
+13 
+Net (with actual historicals) 
+14 
+ 
+15 
+Exhibit __ (JFG-8) 
+Econometric Deliveries Forecast by Revenue Class, 
+16 
+Net (with weather-adjusted historicals) 
+17 
+ 
+18 
+Exhibit __ (JFG-9) 
+Cumulative Distributed Energy Resources (DER) 
+19 
+Impacts by Revenue Class (GWh) 
+20 
+ 
+21 
+Exhibit __ (JFG-10) Cumulative Distributed Energy Resources (DER) 
+22 
+Impacts by Revenue Class (percent of Gross) 
+23 
+ 
+24 
+Exhibit __ (JFG-11) Revenue Class Allocation to Rate Classes (GWh) 
+25 
+ 
+26 
+Exhibit __ (JFG-12) Revenue 
+Class 
+Allocation 
+to 
+Rate 
+Classes 
+27 
+(Customer Counts) 
+28 
+ 
+29 
+Exhibit __ (JFG-13) Deliveries Forecast by Rate Class (with weather-
+30 
+adjusted historicals) 
+31 
+ 
+32 
+Exhibit __ (JFG-14) Customer Count Forecast by Rate Class 
+33 
+ 
+34 
+Exhibit__(JFG-15) 
+Upstate New York Economic Indicators (Peak 
+35 
+Forecast) 
+36 
+ 
+37 
+Exhibit __ (JFG-16) Peak Forecast, Gross 
+38 
+ 
+39 
+Exhibit __ (JFG-17) Peak Forecast, Net 
+40 
+ 
+41 
+
+
+--- Page 8 ---
+Testimony of Joseph F. Gredder 
+ 
+ 
+Page 5 of 53 
+ 
+Exhibit __ (JFG-18) Cumulative Distributed Energy Resources (DER) 
+1 
+Impacts (MW) 
+2 
+ 
+3 
+Exhibit __ (JFG-19) Cumulative Distributed Energy Resources (DER) 
+4 
+Impacts (percent of gross) 
+5 
+ 
+6 
+Exhibit __ (JFG-20) Annual Weighted Temperature – Humidity Index 
+7 
+(WTHI) and Temp_Max 
+8 
+ 
+9 
+Exhibit __ (JFG-21) Cumulative Distributed Energy Resources (DER) 
+10 
+ 
+11 
+Exhibit __ (JFG-22) Photovoltaic (PV) Energy Impacts 
+12 
+ 
+13 
+Exhibit __ (JFG-23) Photovoltaic (PV) Energy Impacts Calculation 
+14 
+ 
+15 
+Exhibit __ (JFG-24) Photovoltaic (PV) Peak Impacts 
+16 
+ 
+17 
+Exhibit __ (JFG-25) Photovoltaic (PV) Peak Impacts Calculation 
+18 
+ 
+19 
+Exhibit __ (JFG-26) Electric Vehicles (EV) Energy Impacts  
+20 
+ 
+21 
+Exhibit __ (JFG-27) Electric Vehicles (EV) Charging Assumptions  
+22 
+ 
+23 
+Exhibit __ (JFG-28) Electric Vehicles (EV) Peak Impacts  
+24 
+  
+25 
+Exhibit __ (JFG-29) Regression Models, Energy Deliveries Models 
+26 
+Exhibit __ (JFG-30) Regression Models, Peak Models 
+27 
+ 
+28 
+III. 
+Energy Deliveries & Customer Count Forecasts 
+29 
+A. Summary of Process 
+30 
+ 
+31 
+Q. 
+Please describe the Company’s energy deliveries forecast process. 
+32 
+
+
+--- Page 9 ---
+Testimony of Joseph F. Gredder 
+ 
+ 
+Page 6 of 53 
+ 
+A. 
+The energy deliveries1 forecast was developed in several steps.  The first 
+1 
+step was to “reconstitute,” or add-back or subtract, as applicable, the 
+2 
+impacts of energy efficiency (“EE”), solar-photovoltaics (“PV”), and 
+3 
+electric vehicles (“EV”) to the historical monthly energy dataset.  This set 
+4 
+of programs and technologies is termed Distributed Energy Resources 
+5 
+(“DERs”) in this testimony.2  The reconstituted data is also termed “gross” 
+6 
+in this testimony to reflect the fact that it represents data prior to the 
+7 
+impacts of DERs.  The second step is to develop an econometric forecast 
+8 
+of gross energy deliveries based on Upstate New York economic 
+9 
+conditions, normal weather, and days billed using this reconstituted 
+10 
+dataset.  The third step is to create the “net” forecast by adjusting the gross 
+11 
+forecast by the projections for future DERs.  Impacts for EE and PV 
+12 
+(reflecting decreased electric load on the system) are subtracted from the 
+13 
+gross forecast, while impacts of EV (reflecting increased electric load on 
+14 
+the system) are added to the gross forecast to create the net forecast.  
+15 
+These forecasts were first developed in terms of revenues classes – 
+16 
+residential, commercial, and industrial.  They were then allocated to the 
+17 
+                                                 
+1 Energy deliveries are all energy delivered to customers, regardless of who supplies the 
+commodity (Company or other). 
+2 Later in this testimony, when discussing the DERs that impact the peak forecast, 
+demand response and energy storage will also be part of the DER discussion.  These two 
+additional DERs impact the peak forecast but not the energy deliveries forecast. 
+
+
+--- Page 10 ---
+Testimony of Joseph F. Gredder 
+ 
+ 
+Page 7 of 53 
+ 
+various rate classes using the current revenue to rate class percentages 
+1 
+from the Company’s billing system.   
+2 
+B.  Economic Outlook 
+3 
+ 
+4 
+Q. 
+Do you rely on an economic forecast prepared by a third party in 
+5 
+developing your econometric energy deliveries forecast? 
+6 
+A. 
+Yes.  I rely on Moody’s Economy.com (“Moody’s”) economic forecast for 
+7 
+Upstate New York. 
+8 
+ 
+9 
+Q. 
+Is Moody’s a well-known, industry accepted forecasting service? 
+10 
+A. 
+Yes.  Moody’s is a leading, independent economic research and 
+11 
+forecasting firm with over 500 clients in 50 countries.  Clients include the 
+12 
+largest commercial and investment banks, money managers, insurance 
+13 
+companies, and other financial institutions, state governments, various 
+14 
+branches of the federal government and leading firms in each major US 
+15 
+industry.   
+16 
+ 
+17 
+Q. 
+Please summarize the Moody’s economic forecast for Upstate New 
+18 
+York used in preparing the econometric energy deliveries forecast. 
+19 
+A. 
+The Moody’s Upstate New York economic forecast for retail deliveries is 
+20 
+summarized in Exhibit__(JFG-1).  This forecast includes historic data for 
+21 
+
+
+--- Page 11 ---
+Testimony of Joseph F. Gredder 
+ 
+ 
+Page 8 of 53 
+ 
+Year’s 2010 to 2019 and forecast data from 2020 to 2026.  Years are the 
+1 
+twelve months ending June 30, such that year 2020 is the twelve months 
+2 
+beginning on July 1, 2019 and ending on June 30, 2020.  Year 2020 is the 
+3 
+current year.  Year 2022 (July 1, 2021 through June 30, 2022) is the Rate 
+4 
+Year (“RY”).  Year 2023 (July 1, 2022 through June 30, 2023) is 
+5 
+considered Data Year One (“DY1”) and year 2024 (July 1, 2023 through 
+6 
+June 30, 2024) is considered Data Year Two (“DY2”).  Years 2025 and 
+7 
+2026 are provided for additional data points and information.   
+8 
+ 
+9 
+ 
+The economic forecast used in the retail deliveries forecast is based on 
+10 
+Moody’s projections, as of May 2020.  These projections incorporate 
+11 
+Moody’s assumptions for the COVID-19 pandemic as of that time.  In the 
+12 
+Company’s upstate New York service territory, business closures and a 
+13 
+number of other social distancing measures were put in place by the 
+14 
+government to limit the spread of this world-wide pandemic. This 
+15 
+dramatically lowered the economic indicators beginning in March.  There 
+16 
+is great uncertainty over when and how the economy will recover, the 
+17 
+course of the virus, how long the lockdowns will continue, and when there 
+18 
+will be a vaccine or effective treatment. .  The current May vintage 
+19 
+projections assume a “W” shaped impact– i.e., a dramatic downturn from 
+20 
+March to the summer, an upward recovery during the summer, a more 
+21 
+
+
+--- Page 12 ---
+Testimony of Joseph F. Gredder 
+ 
+ 
+Page 9 of 53 
+ 
+moderate downturn in fall/winter 2020, and a return to positive economic 
+1 
+growth rates in early 2021.  
+2 
+  
+3 
+The Moody’s economic projections are summarized as follows:  Over the 
+4 
+last five years, the key indicators used in the regression models - per capita 
+5 
+income (residential), employment per household (commercial), and total 
+6 
+employment (industrial) - have shown average annual growth of positive 
+7 
+1.6 percent, negative 0.3 percent, and positive 0.02 percent, respectively.  
+8 
+Moody’s projects that annual growth for each of these indicators will be 
+9 
+significantly lower over the next two years, or between now and the Rate 
+10 
+Year (Year 2022).   Specifically, per capita income is expected to decrease 
+11 
+at 0.9 percent annually, employment per household is expected to decrease 
+12 
+at 0.5 percent annually, and total employment is expected to decrease at 
+13 
+0.9 percent annually.  However, over the five year period through 2025 
+14 
+rates are expected to grow.  Specifically, at 0.6 percent annually for per 
+15 
+capita income, at 0.5 percent annually for employment per household and 
+16 
+at 0.4 percent annually for total employment.  These percentages were 
+17 
+developed using Moody’s projections for the metropolitan areas and 
+18 
+counties in Niagara Mohawk’s Upstate New York service territory. 
+19 
+20 
+
+
+--- Page 13 ---
+Testimony of Joseph F. Gredder 
+ 
+ 
+Page 10 of 53 
+ 
+C.  Weather Variables 
+1 
+ 
+2 
+Q. 
+Please summarize the weather and other explanatory variables used 
+3 
+in the forecast models. 
+4 
+A. 
+Annual weather is summarized in Exhibit__(JFG-2) for the years 2010 to 
+5 
+2026.  The weather variables are cooling degree days (“CDD”) and 
+6 
+heating degree days (“HDD”).  Each day type (i.e. CDD and HDD) is 
+7 
+derived using a base temperature of 65°F.  Daily degree days are the 
+8 
+difference between the average daily temperature and the base 
+9 
+temperature.  Monthly degree days are the sum of the daily values for each 
+10 
+month.  Seasonal interactive variables with these degree day variables 
+11 
+were also used, if statistically significant, in the models to provide 
+12 
+additional seasonal specificity between cooling and heating months.  The 
+13 
+cdd_season variable includes months from May to October.  The 
+14 
+hdd_season variable includes months from November to May.3  
+15 
+ 
+16 
+Q. 
+How were historic and forecast CDD and HDD derived? 
+17 
+A. 
+Historic CDD and HDD were calculated from the daily temperature 
+18 
+readings of the National Weather Service’s Albany, Utica, Syracuse, 
+19 
+Buffalo, Watertown, and Messina weather stations.  These weather 
+20 
+                                                 
+3 The revenue month of May, which has billing days in both April and May, has both 
+cooling and heating degree days. 
+
+
+--- Page 14 ---
+Testimony of Joseph F. Gredder 
+ 
+ 
+Page 11 of 53 
+ 
+stations are the relevant weather stations in the operating regions of 
+1 
+Niagara Mohawk’s service area.  Forecast degree days were calculated 
+2 
+from the 2010-2019 ten-year average of these daily temperature readings.  
+3 
+The daily degree day data was converted to revenue month HDD and 
+4 
+CDD.  To make this conversion, daily HDD and CDD were matched with 
+5 
+the Company’s meter reading schedule.  These daily HDD and CDD were 
+6 
+then summed across each of the 20 meter reading cycles to provide 
+7 
+“revenue month” degree days versus “calendar day” values.  This was 
+8 
+done historically and prospectively, using the ten-year average of daily 
+9 
+HDD and CDD.  The ten-year average is used as the ”normal” value.    
+10 
+Results from the weather stations were weighted by energy share to derive 
+11 
+total service area weather.  Weighted energy shares are based on Company 
+12 
+billed energy amounts closest to each weather station.  Further, the results 
+13 
+were normalized as explained below.   
+14 
+ 
+15 
+Q. 
+How were historic actual deliveries weather-normalized?  
+16 
+A. 
+Deliveries were weather-normalized on a monthly basis by first 
+17 
+determining the difference between the actual HDD and CDD and the 
+18 
+weather-normal HDD and CDD.  Weather-normal values are the average 
+19 
+for each of the twelve months in the year over the last ten years of weather 
+20 
+data.  These differences are then multiplied by the weather coefficients 
+21 
+
+
+--- Page 15 ---
+Testimony of Joseph F. Gredder 
+ 
+ 
+Page 12 of 53 
+ 
+from the regression models to determine the adjustments.  These 
+1 
+adjustments are made by month for each revenue class.  Providing 
+2 
+weather-normalized historical values shows what the loads would have 
+3 
+been based on average weather.  In essence, this shows the loads without 
+4 
+the influence of increased or decreased cooling or heating needs when 
+5 
+weather is different than normal.  The forecasts are based on weather-
+6 
+normalized values because those would be the expected, or most probable 
+7 
+values each year.  Exhibit__(JFG-3) shows the normalized CDD and HDD 
+8 
+on a monthly basis.   
+9 
+ 
+10 
+D.  Billed Days Variable 
+11 
+ 
+12 
+Q. 
+Please explain how the Company calculated and forecast the number 
+13 
+of days billed. 
+14 
+A. 
+The number of days billed refers to the number of days between meter 
+15 
+readings when customer energy data is collected.  The number of days 
+16 
+billed was calculated directly from the Company’s meter reading schedule.  
+17 
+The meter reading schedule is dependent upon the number of non-holiday 
+18 
+weekdays, which varies from month to month and year to year.  All else 
+19 
+constant, a given percentage increase/decrease in the number of days 
+20 
+billed can be expected to increase/decrease energy delivery volumes by 
+21 
+
+
+--- Page 16 ---
+Testimony of Joseph F. Gredder 
+ 
+ 
+Page 13 of 53 
+ 
+the same percentage amount.  On a monthly basis, the billing day impacts 
+1 
+can be over ten percent in absolute magnitude.  For example, if one month 
+2 
+has 30 billing days and another 31, that one day difference over 30 days 
+3 
+total would be a 3.3 percent difference.  For a month going from 28 days 
+4 
+to 31, or a three-day difference, an almost ten percent difference occurs.  It 
+5 
+is important to control for these impacts in the econometric analysis even 
+6 
+though they may tend to cancel each other out over the course of a full 
+7 
+year.  Historic days billed were taken from the actual meter reading 
+8 
+schedules and days billed for the forecast period were based on the 
+9 
+projected meter reading schedules.   
+10 
+ 
+11 
+E.  Econometric Models 
+12 
+ 
+13 
+Q. 
+Please describe the econometric models used to forecast energy 
+14 
+deliveries. 
+15 
+A. 
+The Company developed econometric models that related actual monthly 
+16 
+energy deliveries to economic and demographic variables, as well as 
+17 
+weather, days billed, and seasonal indicator variables.  These forecasts are 
+18 
+developed by revenue classes – residential, commercial, and industrial.  
+19 
+For the residential and commercial classes these forecasts are stated in 
+20 
+
+
+--- Page 17 ---
+Testimony of Joseph F. Gredder 
+ 
+ 
+Page 14 of 53 
+ 
+terms of energy use per customer.  For the industrial class the forecast is 
+1 
+stated directly as energy deliveries.   
+2 
+ 
+3 
+ 
+The customer count forecasts are similarly based on econometric models 
+4 
+that relate customer counts to economic and/or demographic, calendar, 
+5 
+and time trend variables.  Customer counts are defined as active electric 
+6 
+bill accounts.  These are also developed for the three revenue classes - 
+7 
+residential, commercial, and industrial.   
+8 
+ 
+9 
+ 
+To determine the energy delivery forecasts for the residential and 
+10 
+commercial classes the Company multiplied energy use per customer 
+11 
+forecasts by the corresponding customer count forecasts.  For the 
+12 
+industrial class, the output of the industrial energy deliveries model is used 
+13 
+directly.  The Company’s preferred approach is to develop the energy use 
+14 
+per customer models and to multiply them by the customer count forecasts 
+15 
+to derive the final energy deliveries forecasts as in the residential and 
+16 
+commercial models.  The industrial class, however, because of its non-
+17 
+homogenous nature, does not lend itself to this approach and is thus 
+18 
+directly modeled as an energy deliveries model. 
+19 
+20 
+
+
+--- Page 18 ---
+Testimony of Joseph F. Gredder 
+ 
+ 
+Page 15 of 53 
+ 
+Q. 
+How were the econometric models developed?   
+1 
+A. 
+The models were designed to ensure that the variables used to estimate the 
+2 
+energy deliveries and customer counts were relevant (causal and 
+3 
+correlated) to the revenue class, were statistically valid, and produced 
+4 
+meaningful results.   The Company assessed overall explanatory strength 
+5 
+of the model by examining the R-squared statistics, and confirmed the 
+6 
+significance of the model variables by strong t-statistics and the 
+7 
+reasonableness of results by reviewing future projections versus historic 
+8 
+values.   R-squared values closest to 1.0 are strongest.  T-statistics of 0.05 
+9 
+or lower are considered significant.  Other typical statistical tests, 
+10 
+including normality of residuals, multicollinearity, autocorrelation, and 
+11 
+influential data points were also reviewed and confirmed the validity of 
+12 
+the models.   
+13 
+ 
+ 
+14 
+ 
+The Company used historic reconstituted actual (vs. weather-normal) 
+15 
+monthly data to develop the equations using ordinary least squares 
+16 
+regression.   The forecast was accomplished by inputting the future values 
+17 
+of the explanatory variables into these equations to determine the 
+18 
+projected deliveries and customer counts.  Specifics for each of the models 
+19 
+are more fully discussed later in this testimony.  The results of the models 
+20 
+are attached in the work papers included as Exhibit __ (JFG-29). 
+21 
+
+
+--- Page 19 ---
+Testimony of Joseph F. Gredder 
+ 
+ 
+Page 16 of 53 
+ 
+  Q.      Has the forecast methodology that you described been used previously 
+1 
+by the Company? 
+2 
+A.  
+Yes.  The overall forecasting methodology of using an econometric based 
+3 
+regression model, normal weather based on degree days, and consideration 
+4 
+of the relevant DERs has been previously used by the Company in the 
+5 
+2012 Electric Rate Case and the 2017 Electric Rate Case.   
+6 
+ 
+7 
+Q.   Have any changes been made to the prior forecast methodology 
+8 
+presented in the 2017 Electric Rate Case? 
+9 
+ A.  
+Yes, a number of changes have been made. These include: 
+10 
+• The econometric models are now specified on a gross basis, or as if the 
+11 
+DERs were not in-place during the historical period.  Then, post-model 
+12 
+adjustments are made to the forecast to derive the “net” impact of the 
+13 
+DERs forecast.  In the 2017 Electric Rate Case, the econometric 
+14 
+models were specified directly on the historical “net” values, meaning 
+15 
+that the impacts of DERs were embedded in the data.  Because of the 
+16 
+significant growth of DERs over time, the historic link between 
+17 
+economic growth and energy growth was masked.  Reconstituting, or 
+18 
+removing the discernable changes in load that are attributed to DERs 
+19 
+prior to running the models unmasks the natural and intuitive 
+20 
+correlation between energy growth and economic growth.  The 
+21 
+
+
+--- Page 20 ---
+Testimony of Joseph F. Gredder 
+ 
+ 
+Page 17 of 53 
+ 
+impacts of the specific DERs are then presented after the statistical 
+1 
+modeling process, both separately and in aggregate. 
+2 
+• The residential and commercial models are now specified as “energy 
+3 
+use per customer” models.  This is a preferred approach because it 
+4 
+maintains a relationship between energy use per customer and 
+5 
+customer counts when determining total energy deliveries.  In the 2017 
+6 
+Electric Rate Case, these models were specified directly as energy 
+7 
+deliveries models.  The switch to the reconstituted method allows for 
+8 
+statistically valid and suitable models using this new approach for the 
+9 
+residential and commercial classes.  In the 2017 Electric Rate Case, in 
+10 
+part because of the downward impacts of the DERs (which, taken 
+11 
+together, reduce electric load on the system), the use per customer 
+12 
+models were not statistically valid.   The industrial model continues to 
+13 
+use a total energy deliveries model because an energy use per 
+14 
+customer model for the industrial class was not found to be statistically 
+15 
+significant.  
+16 
+• The weather adjustment process and the econometric models now 
+17 
+incorporate seasonal interactions with the degree day variables in 
+18 
+addition to and/or instead of a single cooling and a single heating 
+19 
+degree day variable for all twelve months.  In this manner, summer, 
+20 
+
+
+--- Page 21 ---
+Testimony of Joseph F. Gredder 
+ 
+ 
+Page 18 of 53 
+ 
+winter and shoulder month weather inputs are more specific to each 
+1 
+season.  
+2 
+• Electric vehicles are now incorporated as one of the DERs affecting 
+3 
+energy deliveries.  Previously, only EE and PV were incorporated..  
+4 
+F. Energy Deliveries and Customer Count Forecasts (Revenue Class) 
+5 
+ 
+1.  Residential  
+6 
+ 
+7 
+Q. 
+How were residential energy deliveries and customer counts modeled?   
+8 
+A. 
+Residential deliveries, which account for approximately 33 percent4 of 
+9 
+total energy deliveries, were determined as the product of the monthly 
+10 
+“energy use per customer” model and monthly customer count model 
+11 
+results. 
+12 
+ 
+13 
+ 
+The “energy use per customer” model was a function of “per capita 
+14 
+income,” revenue month “CDD * cdd_season,” “HDD * hdd_season,” 
+15 
+“hdd_season” and the monthly “number of days billed.”  Interacting the 
+16 
+HDD and CDD variables with seasonal indicators allows the model to 
+17 
+capture the weather impact to energy usage more accurately.  Higher 
+18 
+income levels can lead to higher energy use as more income is available to 
+19 
+spend on consumption and goods.   
+20 
+                                                 
+4 The percentages for residential, commercial, and industrial customers are based on 
+weather-normalized energy deliveries for July 2018 to June 2019.  
+
+
+--- Page 22 ---
+Testimony of Joseph F. Gredder 
+ 
+ 
+Page 19 of 53 
+ 
+ 
+The number of residential customers was forecast based on a linear time 
+1 
+trend and monthly indicator variables.  
+2 
+ 
+3 
+Q. 
+Please summarize the forecast of “gross” residential energy deliveries  
+4 
+and customer counts.   
+5 
+A. 
+As discussed above, “gross” energy deliveries refer to the forecasts before 
+6 
+the impact of DERs.  Exhibit__(JFG-4) shows the residential gross 
+7 
+deliveries forecast compared to actual deliveries history.  Exhibit__(JFG-
+8 
+5) shows the forecast with weather-normalized deliveries history.  The 
+9 
+gross forecast projects an average annual increase of 0.4 percent per year 
+10 
+from Year 2020 to the Rate Year (Year 2022).  Overall, residential energy 
+11 
+deliveries increase at an average annual rate of 0.8 percent during the five-
+12 
+year forecast horizon, Year 2020 to Year 2025.   These growth rates are 
+13 
+generally consistent with the longer term ten-year historical growth rate of 
+14 
+0.9 percent per year.    
+15 
+ 
+16 
+ 
+The overall “Goodness of Fit” for the “energy use per customer” model, as 
+17 
+measured statistically by the total R-squared test, is very good at 0.94.  All 
+18 
+explanatory variables are significant as measured by the T-statistics. 
+19 
+20 
+
+
+--- Page 23 ---
+Testimony of Joseph F. Gredder 
+ 
+ 
+Page 20 of 53 
+ 
+Exhibit__(JFG-6) shows the residential customer count forecast including 
+1 
+historical values.  The forecast projects an increase in the number of 
+2 
+residential customers of 0.5 percent annually from  Year 2020 to Year  
+3 
+2025.  The total R-squared for this model is extremely strong at 0.99.  
+4 
+Exhibit__(JFG-29) contains additional statistical results.   
+5 
+ 
+6 
+Q. 
+What are the results of the “net” residential energy deliveries forecast 
+7 
+after the impacts of DERs?   
+8 
+A. 
+“Net” energy deliveries refer to the forecasts after accounting for the 
+9 
+projected impact of DERs.  Exhibit__(JFG-7) shows the residential net 
+10 
+deliveries forecast compared to actual deliveries history.  Exhibit__(JFG-
+11 
+8) shows the forecast with weather-normalized deliveries history.  The net 
+12 
+forecast projects an average annual decrease of 0.8 percent per year from 
+13 
+Year 2020 to the Rate Year (Year 2022).  Overall, residential energy 
+14 
+deliveries are expected to decrease at 0.6 percent annually during the five-
+15 
+year forecast horizon, Year 2020 to Year 2025.  These growth rates are 
+16 
+lower than five-year historical growth rate of 0.3 percent per year.  This 
+17 
+negative growth rate is mainly driven by the lower economic expectation, 
+18 
+and increasing penetration of DERs. 
+19 
+20 
+
+
+--- Page 24 ---
+Testimony of Joseph F. Gredder 
+ 
+ 
+Page 21 of 53 
+ 
+As expected, these net values of a negative annual 0.8 percent change for 
+1 
+the next two years and a negative annual 0.6 percent change for the next 
+2 
+five years annually are lower than the gross values of positive 0.4 percent 
+3 
+(two years) and positive 0.8 percent annually (five years).   Thus, over the 
+4 
+next five years, the impact of DERs is expected to lower residential energy 
+5 
+deliveries growth by about 1.4 percent per year compared to where it 
+6 
+would have been in the absence of DERs.   
+7 
+ 
+2.  Commercial 
+8 
+ 
+9 
+Q. 
+How were commercial energy deliveries and customer counts 
+10 
+modeled?   
+11 
+A. 
+Commercial deliveries, which account for approximately 36 percent of 
+12 
+total energy deliveries, were determined as the product of the monthly 
+13 
+“energy use per customer” model and monthly customer count model 
+14 
+results. 
+15 
+ 
+16 
+ 
+The “energy use per customer” model was a function of “employment per 
+17 
+household,” revenue month “CDD * cdd_season,” revenue month “HDD * 
+18 
+hdd_season,” “hdd_season” and the monthly “number of days billed.”  
+19 
+Higher employment levels are generally expected to lead to higher energy 
+20 
+use (notwithstanding the impact of DERs).  
+21 
+
+
+--- Page 25 ---
+Testimony of Joseph F. Gredder 
+ 
+ 
+Page 22 of 53 
+ 
+ 
+The number of commercial customers was forecast based on the number 
+1 
+of households and several monthly indicator variables.  
+2 
+ 
+3 
+Q. 
+Please summarize the econometric forecast of “gross” commercial 
+4 
+deliveries and customer counts.   
+5 
+A. 
+Exhibit__(JFG-4) shows the commercial gross energy deliveries forecast 
+6 
+compared to actual deliveries history.  Exhibit__(JFG-5) shows the 
+7 
+forecast with weather-normalized deliveries history.  The gross forecast 
+8 
+projects an average annual decrease of 1.2 percent per year from Year 
+9 
+2020 to the Rate Year (Year 2022).  Overall, commercial energy deliveries 
+10 
+are forecast to increase at an average annual rate of 0.4 percent during the 
+11 
+five-year forecast horizon, Year 2020 to Year 2025.  This five-year growth 
+12 
+rate is generally consistent with the five-year historical growth rate of 0.3 
+13 
+percent per year.    
+14 
+ 
+15 
+ 
+The overall “Goodness of Fit” for the ‘energy use per customer’ model, as 
+16 
+measured statistically by the total R-squared test, is good at 0.85.  All 
+17 
+explanatory variables are significant as measured by the T- statistics.   
+18 
+ 
+ 
+19 
+Exhibit__(JFG-6) shows the commercial customer count forecast 
+20 
+including historical values.  The forecast projects a decrease of 0.4 percent 
+21 
+
+
+--- Page 26 ---
+Testimony of Joseph F. Gredder 
+ 
+ 
+Page 23 of 53 
+ 
+annually from Year 2020 to Year 2025.  The total R-squared for this 
+1 
+model is extremely good at 0.99.  Exhibit__(JFG-29) contains additional 
+2 
+statistical results for the commercial customer count.   
+3 
+ 
+4 
+Q. 
+What are the results of the “net” commercial energy deliveries 
+5 
+forecast?   
+6 
+A. 
+Exhibit__(JFG-7) shows the commercial net deliveries forecast compared 
+7 
+to actual deliveries history.  Exhibit__(JFG-8) shows the forecast with 
+8 
+weather-normalized deliveries history.  The net forecast projects an 
+9 
+average annual decrease of 3.0 percent per year from Year 2020 to the 
+10 
+Rate Year (Year 2022).  Overall, commercial energy deliveries decrease at 
+11 
+an average annual rate of 1.5 percent during the five-year forecast horizon, 
+12 
+Year 2020 to Year 2025.   The five-year growth rate is lower than the past 
+13 
+five-year historical growth rate of negative 0.9 percent per year.   This is 
+14 
+because of weaker forward-looking economics than prior historical levels 
+15 
+and higher DERs.   
+16 
+ 
+17 
+ 
+As expected, these net values of negative 3.0 percent annually (two years) 
+18 
+and negative 1.5 percent annually (five years) are lower than the gross 
+19 
+values of negative 1.2 annually (two years) and positive 0.4 annually (five 
+20 
+years) percent.  Thus, over the next five years, the impact of DERs is 
+21 
+
+
+--- Page 27 ---
+Testimony of Joseph F. Gredder 
+ 
+ 
+Page 24 of 53 
+ 
+expected to reduce commercial energy deliveries growth by about 1.9 
+1 
+percent per year as compared to where it would have been in the absence 
+2 
+of DERs.   
+3 
+ 
+4 
+ 
+3.  Industrial 
+5 
+ 
+6 
+Q. 
+How were industrial energy deliveries and customer counts modeled?   
+7 
+A. 
+Industrial energy deliveries, which account for approximately 31 percent 
+8 
+of total energy deliveries, were modeled as a function of total employment 
+9 
+and revenue month CDD.  The number of industrial customers was 
+10 
+forecast based on a linear time trend.  
+11 
+       
+12 
+Q. 
+Please summarize the econometric forecast of “gross” industrial 
+13 
+energy deliveries and customer counts.   
+14 
+A. 
+Exhibit__(JFG-4) shows the industrial gross energy deliveries forecast 
+15 
+compared to actual deliveries history.  Exhibit__(JFG-5) shows the 
+16 
+forecast with weather-normalized deliveries history.  The gross forecast 
+17 
+projects an average annual decrease of 1.6 percent per year from Year 
+18 
+2020 to the Rate Year (Year 2022).  Overall, industrial energy deliveries 
+19 
+increase at an average annual rate of 1.2 percent during the five-year 
+20 
+
+
+--- Page 28 ---
+Testimony of Joseph F. Gredder 
+ 
+ 
+Page 25 of 53 
+ 
+forecast horizon, Year 2020 to Year 2025.  These growth rates are lower 
+1 
+than the long-term ten-year historical growth rate of 1.8 percent per year.     
+2 
+ 
+3 
+ 
+The overall “Goodness of Fit” for the total energy deliveries model, as 
+4 
+measured statistically by the total R-squared test, is very good at 0.95.  All 
+5 
+explanatory variables are significant as measured by the T- statistics.  The 
+6 
+model demonstrates that higher employment levels are correlated with 
+7 
+higher energy loads, as increased employment can indicate increased 
+8 
+production of goods. 
+9 
+ 
+ 
+10 
+Exhibit__(JFG-6) shows the industrial customer count forecast including 
+11 
+historical values.  The forecast projects a decrease of 1.2 percent annually 
+12 
+from Year 2020 to 2025.  The total R-squared for this model is extremely 
+13 
+good at 0.97.  Exhibit__(JFG-29) contains additional statistical results for 
+14 
+the industrial customer count.   
+15 
+ 
+16 
+Q. 
+What are the results of the “Net” industrial energy deliveries 
+17 
+forecast?   
+18 
+A. 
+Exhibit__(JFG-7) shows the industrial net deliveries forecast compared to 
+19 
+actual deliveries history.  Exhibit__(JFG-8) shows the forecast with 
+20 
+weather-normalized deliveries history.  The net forecast projects an 
+21 
+
+
+--- Page 29 ---
+Testimony of Joseph F. Gredder 
+ 
+ 
+Page 26 of 53 
+ 
+average annual decrease of 3.5 percent per year from Year 2020 to the 
+1 
+Rate Year (Year 2022).  Overall, industrial energy deliveries decrease at 
+2 
+an average annual rate of 0.6 percent during the five-year forecast horizon, 
+3 
+Year 2020 to Year 2025.   The future five-year decline is bigger than the 
+4 
+previous five-year historical decline, reflecting an economic downturn in 
+5 
+manufacturing together with increased DERs going forward. 
+6 
+  
+7 
+ 
+As expected, these net values of negative 3.5  percent annually (two years) 
+8 
+and negative 0.6 percent annually (five years) are lower than the gross 
+9 
+values of negative 1.6 percent annually (two years) and positive 1.2 
+10 
+percent annually (five years).  Thus, over the next five years, the impact of 
+11 
+DERs is expected to lower industrial energy deliveries growth by about 
+12 
+1.8 percent per year as compared to where it would have been in the 
+13 
+absence of DERs.   
+14 
+ 
+15 
+4. Company Total 
+16 
+ 
+17 
+Q. 
+Please summarize the Company level results of the econometric 
+18 
+forecast of “Net” energy deliveries. 
+19 
+A. 
+The econometric forecast of net energy deliveries is summarized in 
+20 
+Exhibit__(JFG-7) along with actual historic deliveries for Year 2010 
+21 
+
+
+--- Page 30 ---
+Testimony of Joseph F. Gredder 
+ 
+ 
+Page 27 of 53 
+ 
+through Year 2020.5  Exhibit__(JFG-8) shows the econometric forecast of 
+1 
+net energy deliveries including weather-normalized historic deliveries 
+2 
+data.  In the period from Year 2020 to Year 2022, total energy deliveries 
+3 
+are forecast to decrease 2.4 percent per year on a weather-adjusted basis.  
+4 
+For the five-year period as a whole, that is from Year 2020 to Year 2025, 
+5 
+total gigawatt hour (“GWh”) deliveries are expected to decline at an 
+6 
+annual rate of 0.9 percent.  These future values are lower than recent 
+7 
+history and reflect lower economic metrics and higher levels of DERs 
+8 
+going forward.  These values represent the sum of the residential, 
+9 
+commercial, and industrial revenue classes and are based on the 
+10 
+econometric forecast, which has been adjusted for the impacts of DERs.    
+11 
+G.  DER Impacts on the Energy Deliveries Forecast 
+12 
+ 
+13 
+Q. 
+What are the specific DER adjustments made to the gross energy 
+14 
+deliveries forecasts to arrive at the net forecasts? 
+15 
+ A. 
+Exhibit__(JFG-9) shows the annual cumulative impacts of each DER - 
+16 
+EE, PV and EV – on each of the revenue classes.  The values are 
+17 
+expressed as GWh.  Exhibit__(JFG-10) shows the same categories of 
+18 
+information, but in terms of percent.  The values in this table reflect the 
+19 
+cumulative DER impact as a percent of reconstituted energy deliveries.  
+20 
+                                                 
+5 Year 2020 (July 2019 – June 2020) has actual data through May of 2020 and estimated data for 
+June 2020. 
+
+
+--- Page 31 ---
+Testimony of Joseph F. Gredder 
+ 
+ 
+Page 28 of 53 
+ 
+ 
+This table shows that as of the current year, Year 2020, total DERs have 
+1 
+reduced energy deliveries by 9.0 percent as compared to what they would 
+2 
+have been in the absence of the deployment of such DERs.  This value 
+3 
+grows to 10.7 percent by the Rate Year (Year 2022) and continues to grow 
+4 
+to 18.1 percent by the end of the six-year forecast horizon in Year 2026.  
+5 
+The majority of these impacts are from cumulative EE, followed by PV 
+6 
+and then a smaller offsetting amount from EV.   
+7 
+ 
+8 
+ 
+An explanation of the DER forecasts themselves and the conversion of the 
+9 
+quantity of each DER to GWh impacts is found in the DER section of this 
+10 
+testimony.  
+11 
+H.  Energy Deliveries & Customer Count Forecasts (Rate Class) 
+12 
+ 
+13 
+Q. 
+How were the forecasts of energy deliveries and customer counts by 
+14 
+rate class derived from the econometric forecast of energy deliveries 
+15 
+and customer counts by revenue class?   
+16 
+A. 
+The Company allocated revenue class energy deliveries and customer 
+17 
+count forecasts described above were allocated to rate classes based on 
+18 
+each rate class’ current share of annual energy usage within each revenue 
+19 
+class. 
+20 
+21 
+
+
+--- Page 32 ---
+Testimony of Joseph F. Gredder 
+ 
+ 
+Page 29 of 53 
+ 
+ 
+Exhibit__(JFG-11) shows these allocations for the energy deliveries 
+1 
+(GWh) forecasts.  Exhibit__(JFG-12) shows these allocations for the 
+2 
+customer count forecasts.   
+3 
+ 
+4 
+ 
+Although there is some overlap between certain rate classes and their 
+5 
+corresponding revenue classes, for the most part: 
+6 
+• 
+rate classes SC1 and SC1C are residential, 
+7 
+• 
+rate classes SC2nd, SC2d, SC3 and SC3a are commercial, and  
+8 
+• 
+rate classes SC3a and the NYPA rates are industrial. 
+9 
+ 
+10 
+Q. 
+What are the results for the energy deliveries and customer counts 
+11 
+forecasts by Rate Class?   
+12 
+A. 
+Exhibit__(JFG-13) shows the net deliveries forecast with weather normal 
+13 
+deliveries history by rate class.  Exhibit__(JFG-14) shows the customer 
+14 
+count forecast for each rate class.   
+15 
+IV. Peak Load Forecast 
+16 
+A. Summary of Process 
+17 
+ 
+18 
+Q. 
+Please describe the Company’s peak forecast process. 
+19 
+A. 
+The overall approach to the peak forecast is to relate (or regress) peak 
+20 
+megawatts (“MWs “) to aggregate system energy and economic indicators.   
+21 
+
+
+--- Page 33 ---
+Testimony of Joseph F. Gredder 
+ 
+ 
+Page 30 of 53 
+ 
+ 
+1 
+This is accomplished in several steps.  The first step is to develop a 
+2 
+forecast of gross system energy.  Historical actual system energy is 
+3 
+weather-adjusted using CDD and HDD.  This data set is based on the 
+4 
+actual data and is considered “net” (i.e. after the impact of DERs).  Thus, 
+5 
+the historical data set was reconstituted by adding back the impacts of EE, 
+6 
+PV and EV.   The second step is to create the forecast for system energy.  
+7 
+A regression analysis relating the retail energy deliveries to system energy 
+8 
+was performed to ensure that the growth of the retail energy deliveries and 
+9 
+the system level energy are consistent.6  The third step is to regress the 
+10 
+gross summer peaks on the system energy and economic variables, if 
+11 
+applicable.  As a final step, to derive the net summer peak forecast, 
+12 
+projections for the impacts of future DERs were made.  Projected impacts 
+13 
+for EE, solar PV, demand response, and energy storage were subtracted 
+14 
+from the gross forecast.  Impacts of EV were added to the forecast.   
+15 
+The forecast is presented for three weather scenarios. The transmission 
+16 
+planning group uses the extreme 90/10 weather scenario for its planning 
+17 
+purposes.  This scenario represents a weather event that is anticipated not 
+18 
+                                                 
+6 The retail deliveries forecast used as input into the system peak forecast used the same 
+pre-pandemic economic projections as the peak, as of February 2020.  All model 
+specifications for that retail level forecast are the same as described in the retail deliveries 
+section. 
+
+
+--- Page 34 ---
+Testimony of Joseph F. Gredder 
+ 
+ 
+Page 31 of 53 
+ 
+to occur more than ten percent of the time, or once in ten years on average.  
+1 
+For distribution planning, the degree of diversity is reduced and the 
+2 
+variability of load is greater, so a 95/5 forecast is used.  This scenario 
+3 
+represents a weather event that is anticipated not to occur more than five 
+4 
+percent of the time, or once in 20 years on average.  The 50/50, or 
+5 
+weather-normal scenario is used in the formulation and measurement of 
+6 
+earnings adustment mechanisms.  This scenario is based on the average 
+7 
+weather associated with the past annual peak days.    
+8 
+B.  Economic Outlook 
+9 
+ 
+10 
+Q. 
+Do you rely on an economic forecast prepared by a third party in 
+11 
+developing the peak forecast? 
+12 
+A. 
+Yes.  I rely on Moody’s economic forecast for Upstate New York. 
+13 
+ 
+14 
+Q. 
+Please summarize the Moody’s economic forecast for Upstate New 
+15 
+York used in preparing the peak forecast. 
+16 
+A. 
+The Moody’s Upstate New York economic forecast for the peak forecast 
+17 
+is summarized in Exhibit__(JFG-15).  The forecast includes historic data 
+18 
+for Year’s 2010 to 2019 and forecast data from 2020 to 2025.   
+19 
+ 
+The economic forecast used in the peak forecast is based on Moody’s 
+20 
+projections, as of February 2020.  These projections are pre-pandemic and 
+21 
+do not incorporate assumptions for the COVID-19 pandemic.  This is in 
+22 
+
+
+--- Page 35 ---
+Testimony of Joseph F. Gredder 
+ 
+ 
+Page 32 of 53 
+ 
+contrast to the economic forecast used for retail deliveries.  The earlier 
+1 
+forecast is used because:  
+2 
+• circumstances similar to the global pandemic have not occurred in 
+3 
+recent times and the magnitude, timing of the recovery, and the impact 
+4 
+of the recovery on peak electric usage are very uncertain -- peaks are 
+5 
+much more influenced by timing than monthly deliveries might be; 
+6 
+• the magnitude of this summer’s peak may depend in large part to the 
+7 
+timing of any peak-producing weather (i.e., heat waves).  For instance, 
+8 
+because the state is currently in the process of re-opening, a heat wave 
+9 
+in July may result in a lower peak than if that same heat wave occurred 
+10 
+in late August when all upstate zones may be fully re-opened; and 
+11 
+• because the Company is in the summer period at the time of 
+12 
+preparation and filing of this rate case, it makes sense to see what the 
+13 
+actual peak is instead of estimating it.  The Company plans to make a 
+14 
+“Corrections and Updates” filing a few months after this case is filed 
+15 
+in which economic inputs can be updated for both the peak and retail 
+16 
+deliveries forecasts, if necessary.  
+17 
+The economic projections for the peak forecast are summarized as 
+18 
+follows:  Over the last five years, the key indicators used in the regression 
+19 
+models - per capita income (residential), employment per household 
+20 
+(commercial) and total employment (industrial) - have shown average 
+21 
+
+
+--- Page 36 ---
+Testimony of Joseph F. Gredder 
+ 
+ 
+Page 33 of 53 
+ 
+annual growth of 2.0 percent, 0.4 percent, and 0.7 percent, respectively.  
+1 
+Moody’s projects that annual growth for each of these will be lower over 
+2 
+the next two years, or between now and the Rate Year (Year 2022).   
+3 
+Specifically, per capita income is expected to increase at 0.9 percent 
+4 
+annually, employment per household at negative 0.1 percent annually, and 
+5 
+total employment at 0.1 percent annually.  The five years through Year 
+6 
+2025 are also expected to grow at lower growth rates than the historical 
+7 
+period.  Specifically, at 1.0 percent annually for per capita income, at 
+8 
+negative 0.1 percent for employment per household, and at 0.2 percent for 
+9 
+total employment.   
+10 
+C. Summer Peak Forecast Results 
+11 
+ 
+12 
+Q. 
+Please summarize the results of the summer peak forecast. 
+13 
+ A. 
+The gross summer peak forecast for calendar years 2020 through 2026 is 
+14 
+summarized in Exhibit__(JFG-16) along with actual and weather-adjusted 
+15 
+historic peaks for Calendar Years (“CY”) 2009 through CY 2019.  This 
+16 
+forecast, which is prior to the impacts of DERs, is expected to increase at 
+17 
+an average annual rate of 0.6 percent over the next five years.   
+18 
+ 
+ 
+19 
+ 
+Exhibit__(JFG-17) shows the “Net” forecast, which is after the impacts of 
+20 
+DERs.  This shows that summer peaks are forecast to decrease at an 
+21 
+
+
+--- Page 37 ---
+Testimony of Joseph F. Gredder 
+ 
+ 
+Page 34 of 53 
+ 
+average of 0.7 percent per year over the next five years.  This is a greater 
+1 
+reduction than the most recent five-year average decrease of 0.1 percent 
+2 
+and reflects increased DERs and somewhat poorer economic results going 
+3 
+forward. 
+4 
+D. DER Impacts 
+5 
+ 
+6 
+Q. 
+What are the specific DER adjustments made to the gross peak 
+7 
+forecasts to derive the net forecasts? 
+8 
+ A. 
+Exhibit__(JFG-18) shows the annual cumulative impacts of each DER on 
+9 
+the gross peak forecast.  The values are expressed as MW.   
+10 
+Exhibit__(JFG-19) shows the same categories of information, but in terms 
+11 
+of percent.  The values in this table reflect the cumulative DER impact as 
+12 
+a percent of gross (reconstituted) peaks.  
+13 
+ 
+14 
+ 
+This table shows, that as of the most current full summer season (summer 
+15 
+2019), total DERs have reduced peak demand on the system by 6.4 
+16 
+percent as compared to what they would have been in the absence of the 
+17 
+DERs.  This value grows to 12.3 percent over the next five-years (summer 
+18 
+2024).  The majority of these impacts are from cumulative EE and PV 
+19 
+deployment.  
+20 
+ 
+21 
+
+
+--- Page 38 ---
+Testimony of Joseph F. Gredder 
+ 
+ 
+Page 35 of 53 
+ 
+ 
+An explanation of the DER forecasts themselves and the conversion of the 
+1 
+quantity of each DER to MW impacts is provided below in the DER 
+2 
+section of this testimony.  
+3 
+E. Weather 
+4 
+ 
+5 
+Q. 
+What are the weather variables used in the peak process?  
+6 
+A. 
+Weather data is collected from the relevant weather stations located in the 
+7 
+Company’s Upstate New York service territory and used to weather-adjust 
+8 
+peak demands.  The relevant weather stations are Buffalo, Rochester, 
+9 
+Syracuse, Utica/Rome, Albany, Watertown and Massena.  These most 
+10 
+closely represent the Company’s territory.  Weather station inputs for each 
+11 
+zone were weighted by load in the service territory.   
+12 
+ 
+13 
+The weather variables include a weighted temperature-humidity index 
+14 
+(“WTHI”)7 and peak day temperatures.  These weather variables are from 
+15 
+the actual days that each peak occurred in each season over the historical 
+16 
+period.  The WTHI uses a three-day weighted temperature humidity  index 
+17 
+to capture the effects of prolonged heat waves that drive summer peaks.  
+18 
+                                                 
+7 THI is calculated as (0.55 * dry bulb temperature) + (0.20 dew point) + 17.5.   
+Maximum values for each of the 24 hours in a day are calculated and the maximum value 
+is used in the WTHI formula. WTHI is weighted 70 percent of current day, 20 percent 
+one day prior and 10 percent two days prior. 
+
+
+--- Page 39 ---
+Testimony of Joseph F. Gredder 
+ 
+ 
+Page 36 of 53 
+ 
+Weather adjusted peaks are derived for a normal (50/50) weather scenario 
+1 
+and extreme weather scenarios (90/10 and 95/5).8   
+2 
+ 
+3 
+These “normal” and “extreme” scenarios are used to derive the weather-
+4 
+adjusted historical and forecast values for each of the normal and extreme 
+5 
+cases.  
+6 
+ 
+7 
+Exhibit__(JFG-20) shows the historical, weather-normal, and weather-
+8 
+extreme values for WTHI for the Company.   
+9 
+ 
+10 
+Q. 
+Please describe how the historical actuals are weather-adjusted. 
+11 
+A. 
+Normalized weather was calculated for each year using regression analysis 
+12 
+to establish a relationship between load, weather and calendar day 
+13 
+variables.  The Company used a daily model with the load on each of the 
+14 
+summer days as the dependent variable and a WTHI and/or Temperature-
+15 
+Max as the primary independent variable.  The WTHI captures both the 
+16 
+impacts of temperature and humidity on loads and was specified as a 
+17 
+                                                 
+8 Normal distribution is assumed to derive the extreme weather scenarios. This 
+“probabilistic” approach employs “Z-values” and standard deviations to calculate the 
+extreme weather scenarios. As a result, the more spread out the numbers on peak days 
+over the historical period, the more the 90/10 and 95/5 values will be above the mean (or 
+the normal).  
+ 
+
+
+--- Page 40 ---
+Testimony of Joseph F. Gredder 
+ 
+ 
+Page 37 of 53 
+ 
+multi-day variable to capture the impacts of heat waves.  Temperature-
+1 
+Max provides additional emphasis to the weather at the time of the peak.  
+2 
+The Company used the actual weather on each day to specify the 
+3 
+regression analysis and establish the model coefficients used to make the 
+4 
+weather adjustments.  The days of the three summer months of June, July 
+5 
+and August were used each year.  These days most closely capture the 
+6 
+typical peak producing months.  Other variables tested and used in the 
+7 
+model, as applicable, were: 
+8 
+• Friday, Saturday and Sunday categorical day indicators to capture 
+9 
+typically lower load on those days versus other weekdays; 
+10 
+• Indicators for July 4 and/or the days ahead of or after this holiday, 
+11 
+depending on when it was celebrated each year, to capture the 
+12 
+typically lower loads on holidays; 
+13 
+• A monthly “September” categorical month indicator for CY 2015 
+14 
+when the peak demand for the Company occurred in the non-typical 
+15 
+month of September; 
+16 
+• An annual indicator. Although the regression was performed 
+17 
+individually and specifically for each year, to ensure that sufficient 
+18 
+observations were included to capture a fuller range of peak producing 
+19 
+weather impacts on load, some models included a second year in 
+20 
+addition to the current year being modeled.  This “annual” indicator 
+21 
+
+
+--- Page 41 ---
+Testimony of Joseph F. Gredder 
+ 
+ 
+Page 38 of 53 
+ 
+was included, if statistically significant, to capture any year-over-year 
+1 
+non-weather related changes such as economic growth; and 
+2 
+• A “cool summer” categorical indicator for CY 2014 and CY 2015 
+3 
+where the summer season was unusually cool prior to the peak day.  
+4 
+The concept here is that in the absence of any extreme “hot” weather 
+5 
+prior to the peak, customers may not have installed all of their room air 
+6 
+conditioners and other such cooling equipment yet.  This assumption 
+7 
+bears out as a variable on a statistical basis. 
+8 
+ 
+9 
+Generally speaking, the actual loads are weather-normalized by taking the 
+10 
+difference between actual weather and normal weather, multiplying that 
+11 
+difference by the regression weather coefficients and adding those to the 
+12 
+actual load.   
+13 
+This process was repeated separately for each year to weather-normalize 
+14 
+Company peaks.  Exhibit__(JFG-17) shows the results of this weather-
+15 
+normalization process for years CY 2009 to CY 2026.  All future values 
+16 
+already are presented in terms of normal weather. 
+17 
+18 
+
+
+--- Page 42 ---
+Testimony of Joseph F. Gredder 
+ 
+ 
+Page 39 of 53 
+ 
+F. Econometric Models 
+1 
+ 
+2 
+Q. 
+Are the underlying system energy and peak models statistically 
+3 
+significant? 
+4 
+A. 
+Yes.  Exhibit__(JFG-30) shows the results of these models.  The system 
+5 
+energy forecast has a total R-squared value of 0.95 and the t-statistic on 
+6 
+the key independent variable, retail deliveries energy, is very significant.  
+7 
+The system peak model is specified as a function of the system energy 
+8 
+forecast and number of households.  The total R-squared for the peak 
+9 
+model is strong at 0.95 and the t-statistics on the independent variables are 
+10 
+very significant.   
+11 
+ 
+12 
+V.  Distributed Energy Resources (DERs) 
+13 
+ 
+14 
+Q. 
+Please explain the process for forecasting the future impacts of DERs.     
+15 
+A. 
+To project future impacts of DERs (i.e., EE, PV, EV, demand response 
+16 
+(“DR”) and energy storage (“ES”)), the Company first projects each DER 
+17 
+in terms of its own metric (e.g., PV in terms of connected Megawatts, EV 
+18 
+in terms of number of vehicles, et cetera).  Next, each DER is converted to 
+19 
+an energy impact, if applicable, to the retail energy deliveries forecast and 
+20 
+converted to a summer peak impact, if applicable, to peaks.  For the retail 
+21 
+energy deliveries, forecast DERs are converted to monthly energy using 
+22 
+
+
+--- Page 43 ---
+Testimony of Joseph F. Gredder 
+ 
+ 
+Page 40 of 53 
+ 
+monthly profiles.  For the summer peak forecast, impacts are estimated at 
+1 
+an average of hours-ending (“HE”) 17 (5 PM) and HE 18 (6 PM) using an 
+2 
+hourly profile for each DER.  These hours represent the current peak hours 
+3 
+and are assumed to remain the peak hours in the near term (next five 
+4 
+years).  It is understood that, over the longer term (i.e. ten- to 15-year 
+5 
+horizon) the hour of the peak may shift to later evening, or even early 
+6 
+night hours, as additional DERs (mainly PV) impact peak times.  
+7 
+However, this is outside the period relevant to this rate case. 
+8 
+ 
+9 
+A. Energy Efficiency (EE) Adjustments 
+10 
+ 
+11 
+Q. 
+Please explain how the Company’s forecast of EE savings was 
+12 
+developed.     
+13 
+A. 
+The EE savings forecast uses the approved Company goals from the New 
+14 
+Efficiency New York (NENY)9 Order.  Historical values are from the 
+15 
+Company’s EE tracking databases. The EE explicitly modeled in the 
+16 
+forecasting process is that which the Company expects to implement 
+17 
+through its programs.  Other EE (i.e. any other EE measures utilized by 
+18 
+residential, commercial, or industrial customers that are not tracked as part 
+19 
+                                                 
+9 Case 18-M-0084, In the Matter of a Comprehensive Energy Efficiency Initiative, “Order 
+Authorizing Utility Energy Efficiency and Building Electrification Portfolios Through 
+2025” (January 16, 2020).  
+
+
+--- Page 44 ---
+Testimony of Joseph F. Gredder 
+ 
+ 
+Page 41 of 53 
+ 
+of the Company’s EE programs) is captured indirectly in the econometric 
+1 
+model because the historical data set reflects lower usage because of it 
+2 
+already.  Exhibit__(JFG-21) shows the historical and projected EE impacts 
+3 
+by calendar year in the Company’s service territory.  
+4 
+   
+5 
+Q. 
+Please explain how the Company’s forecast of EE savings was used to 
+6 
+adjust the energy deliveries forecast.  
+7 
+A. 
+The data provided for the historical values and the forecast are already 
+8 
+specified as annual energy savings.  Thus, no conversion is required.  For 
+9 
+the monthly retail energy deliveries models, an assumption of an equal 
+10 
+amount per month of the annual targets is made throughout the year.  The 
+11 
+historical and future targets for EE are provided by residential and non-
+12 
+residential classes.  For the residential models, the residential EE values 
+13 
+are used directly to reconstitute the historical data set.  They are also used 
+14 
+directly to make the post-model adjustments to the gross forecast model to 
+15 
+yield the net forecast.  Non-residential values are allocated to the 
+16 
+commercial and industrial revenue classes using their proportionate share 
+17 
+of energy within overall non-residential use. These values are similarly 
+18 
+subtracted from the historical data set and then used to make the post-
+19 
+model adjustments for DERs to achieve the net forecast.  Exhibit__(JFG-
+20 
+11) shows the results of these allocations. 
+21 
+
+
+--- Page 45 ---
+Testimony of Joseph F. Gredder 
+ 
+ 
+Page 42 of 53 
+ 
+Q. 
+Please explain how the Company’s forecast of EE savings was used to 
+1 
+adjust the summer peak forecast.  
+2 
+A. 
+The data provided for the historical values and the forecast are already 
+3 
+specified as summer peak savings.  Thus, no conversion is required.  For 
+4 
+the summer peak model, an assumption is made that a pro rata share 
+5 
+(seven / twelfths) of the annual amount is installed by the summer period 
+6 
+(assumed to be July).   
+7 
+    
+8 
+B.  Solar- Photovoltaic (PV) Adjustments 
+9 
+ 
+10 
+Q. 
+Please explain how the Company’s forecast of PV savings was 
+11 
+developed.     
+12 
+A. 
+In the short-term the projections for PV are developed by the Company’s 
+13 
+subject matter experts who track installations and applications in the 
+14 
+interconnection queue.  Because of the large number of applications 
+15 
+currently in the queue, it is assumed that the annual near-term installation 
+16 
+rate will continue for the next three years (to CY 2023).  Subsequent to 
+17 
+CY 2023 an assumption is made for continued PV installations, however, 
+18 
+at a lesser amount each year to reflect declining returns over time as the 
+19 
+market becomes saturated.  This value is assumed to be about five percent 
+20 
+less each year.  As a result, the cumulative annual value is expected to 
+21 
+
+
+--- Page 46 ---
+Testimony of Joseph F. Gredder 
+ 
+ 
+Page 43 of 53 
+ 
+continue to grow significantly each year, but at a slower rate.  The State’s 
+1 
+current PV policy -- called the New York Sun program and released in 
+2 
+May 2020 -- is a major component of the Governor’s Reforming the 
+3 
+Energy Vision.  It is noted that the PV projections utilized in this forecast 
+4 
+surpass the Company’s pro rata share of the State’s policy goal.  That 
+5 
+share is 1,380 MWs (23 percent of the New York Sun goal of 6,000 MW 
+6 
+by 2025).   Although the State policy does not specify goals by company, 
+7 
+for the purposes of comparing the Company PV forecast to the state 
+8 
+targets, the pro rata share of load is presented.  As can be seen, based 
+9 
+upon historic interconnection rates and the projected interconnections 
+10 
+based on the PV queue, the Company anticipates surpassing the State 
+11 
+policy levels.  Exhibit__(JFG-21) shows the historical and projected 
+12 
+connected MW for PV installations in the Company’s service territory.  
+13 
+ 
+14 
+Only PV that is considered load-reducing is captured in this forecast.  PV 
+15 
+installations that are intended to act as supply resources in the NYISO 
+16 
+markets are not included in this load forecast because they do not affect it. 
+17 
+18 
+
+
+--- Page 47 ---
+Testimony of Joseph F. Gredder 
+ 
+ 
+Page 44 of 53 
+ 
+Q. 
+Please explain how the Company’s forecast of PV installations was 
+1 
+used to adjust the energy deliveries forecast.  
+2 
+A. 
+The data provided for the historical values and the forecast are specified as 
+3 
+connected MW.  Thus, a conversion is required to determine the monthly 
+4 
+and annual energy savings associated with PV installations.  For the 
+5 
+monthly retail energy deliveries models, an assumption of an equal 
+6 
+amount per month of the annual installations was made.  These monthly 
+7 
+connected MW installations are converted to monthly energy reductions 
+8 
+using a monthly profile determined using the National Renewable Energy 
+9 
+Laboratory’s PV-Watts and representative locations in the Company’s 
+10 
+service territory.  PV-Watts is a well-known and supported product in the 
+11 
+market for estimating the energy production of PV systems in specific 
+12 
+locations throughout the country.  Exhibit__(JFG-22) shows the monthly 
+13 
+factors used to convert annual energy reductions to monthly values.  
+14 
+Exhibit__(JFG-23) contains a discussion of how the Company applied 
+15 
+PV-Watts to determine the monthly factors in Exhibit__(JFG-22).  The 
+16 
+historical values for PV are provided by residential and non-residential 
+17 
+classes.  For the future, the same allocations between each class are 
+18 
+maintained.  Non-residential values are allocated to the commercial and 
+19 
+industrial revenue classes using each class’ respective share of energy use 
+20 
+
+
+--- Page 48 ---
+Testimony of Joseph F. Gredder 
+ 
+ 
+Page 45 of 53 
+ 
+within each sub-category of non-residential use.  Exhibit__(JFG-11) show 
+1 
+the results of this allocation.  
+2 
+ 
+3 
+Q. 
+Please explain how the Company’s forecast of PV installations was 
+4 
+used to adjust the summer peak forecast.  
+5 
+A. 
+The data provided for the historical values and the forecast are in terms of 
+6 
+connected MW and thus need to be converted to summer impacts.   
+7 
+Connected MW are converted to summer impacts at an average of HE 17 
+8 
+(5 PM) and HE 18 (6 PM) for the most likely summer peak months of July 
+9 
+and August using an hourly peak load profile.  This  average value  is 0.25 
+10 
+of connected values.  The profile also comes from PV-Watts.  
+11 
+Exhibit__(JFG-24) shows this hourly profile for the summer peak day and 
+12 
+Exhibit__(JFG-25) explains the process for deriving these values.    An 
+13 
+additional assumption is made to determine estimated annual installations 
+14 
+by the summer period (assumed to be July).  The annual year-ending 
+15 
+forecast amounts are reduced to seven/twelfths to reflect the July summer 
+16 
+peak month assumption. 
+17 
+18 
+
+
+--- Page 49 ---
+Testimony of Joseph F. Gredder 
+ 
+ 
+Page 46 of 53 
+ 
+C.  Electric Vehicles (EV) Adjustments 
+1 
+ 
+2 
+Q. 
+Please explain how the Company’s forecast of EV adjustments were 
+3 
+developed.     
+4 
+A. 
+The near-term historical trend of increasing amounts of new EV per year 
+5 
+is expected to continue in the forecast period.  Historical values come 
+6 
+from POLK, a well-known EV tracking database service to which the 
+7 
+Company subscribes.  Exhibit__(JFG-21) shows the historical and 
+8 
+projected number of EV in the Company’s service territory.  
+9 
+ 
+10 
+Q. 
+Have you made any adjustments to account for the EV Panel’s 
+11 
+proposals?     
+12 
+A. 
+No.  The EV Panel’s proposals are intended to “make the system ready” 
+13 
+for the high levels of EVs targeted under the Zero Emissions Vehicles 
+14 
+(ZEV) year 2025 targets.  The forecast approach used here – an increasing 
+15 
+amount of new vehicles each year based on historical trends in EV 
+16 
+registrations – is assumed to be the best data to utilize for the electric 
+17 
+forecast. 
+18 
+19 
+
+
+--- Page 50 ---
+Testimony of Joseph F. Gredder 
+ 
+ 
+Page 47 of 53 
+ 
+Q. 
+Please explain how the Company’s forecast of EV installations was 
+1 
+used to adjust the energy deliveries forecast.  
+2 
+A. 
+The data provided for the historical values and the forecast are specified as 
+3 
+number of EV.  Thus, a conversion is required to determine the monthly 
+4 
+and annual energy impact associated with them.  For the monthly retail 
+5 
+energy deliveries models, an assumption of an equal amount per month of 
+6 
+the annual new EV was made.  Annual increases of 3,594 kWh per EV are 
+7 
+assumed 
+based 
+on 
+information 
+from 
+ISO-NE’s 
+transportation 
+8 
+electrification analysis10.  Exhibit__(JFG-26) shows these assumptions. 
+9 
+An assumption of 83.4 percent residential charging and 16.6 percent 
+10 
+public charging is assumed based on a study from the Department of 
+11 
+Energy.11  Exhibit__(JFG-27) shows these assumptions.  The Company 
+12 
+continues to monitor EV in its service territory and will update 
+13 
+assumptions as more specific data is obtained.  Residential charging is 
+14 
+assigned to the residential revenue class.  The public charging is allocated 
+15 
+between commercial and industrial revenue classes by energy share.  
+16 
+Exhibit__(JFG-11) show the results of this allocation.  
+17 
+ 
+18 
+                                                 
+10 Update on the 2020 Transportation Electrification Forecast, ISO-NE, Nov 2019 
+11 EV Project Electric Vehicle Charging Infrastructure Summary Report, Department of 
+Energy, 2013 
+
+
+--- Page 51 ---
+Testimony of Joseph F. Gredder 
+ 
+ 
+Page 48 of 53 
+ 
+Q. 
+Please explain how the Company’s forecast of EV was used to adjust 
+1 
+the summer peak forecast.  
+2 
+A. 
+The data provided for the historical values and the forecast are in terms of 
+3 
+number of EV and thus need to be converted to summer impacts.  Using 
+4 
+data from the ISO-NE, the Company assumes that 0.55 kw per EV impacts 
+5 
+the summer peak hour, assumed to be the average of  HE 17 and HE 18, 
+6 
+for summer months July and August.  Exhibit__(JFG-28) show these EV 
+7 
+peak impacts.  
+8 
+ 
+9 
+As with the other DERs, an assumption was made as to the proportion of 
+10 
+the estimated annual installation that is in place by the summer period.  
+11 
+The annual forecasted amounts are reduced to seven-twelfths to reflect a 
+12 
+July summer peak month assumption.   
+13 
+D. Demand Response (DR) Projections 
+14 
+ 
+15 
+Q. 
+Please explain how the Company’s developed its forecast of DR 
+16 
+savings.     
+17 
+A. 
+For the short term (i.e. until CY 2021), the Company’s targets for its own 
+18 
+retail DR programs are used as the projection.  For the longer term, a 
+19 
+continuation of the CY 2021 level growth rate is assumed.  Only Company 
+20 
+run, retail level DR is included as part of the DR programs for this 
+21 
+
+
+--- Page 52 ---
+Testimony of Joseph F. Gredder 
+ 
+ 
+Page 49 of 53 
+ 
+analysis.  Wholesale level NYISO run programs are not considered a DER 
+1 
+program for load forecasting purposes and are added back to the actual 
+2 
+hourly loads.  This is because these “Special Case Resource (SCR)” 
+3 
+programs in New York are considered “supply” by the NYISO Tariff and 
+4 
+thus cannot also be considered a load reduction for forecasting purposes. 
+5 
+Customers that participate in both SCR and Company-run programs are 
+6 
+not considered a DER as part of this analysis. 
+7 
+ 
+8 
+ One underlying assumption for DR is that the Company continues to run 
+9 
+and fund these programs each year.  This is important because unlike the 
+10 
+other DERs where once the technology is purchased or installed, it tends 
+11 
+to remain in place for a number of years, DR requires active participation 
+12 
+each year for its impacts to persist.  
+13 
+ 
+14 
+Q. 
+Please explain how the Company’s forecast of DR savings was used to 
+15 
+adjust the energy deliveries forecast.  
+16 
+A. 
+DR reductions are primarily summer peak reduction programs and 
+17 
+therefore no impacts to retail energy deliveries are assumed.  It is 
+18 
+recognized that there could be very small impacts to energy use on days 
+19 
+when DR is called; however, these are considered negligible. 
+20 
+
+
+--- Page 53 ---
+Testimony of Joseph F. Gredder 
+ 
+ 
+Page 50 of 53 
+ 
+ 
+1 
+Q. 
+Please explain how the Company’s forecast of DR savings was used to 
+2 
+adjust the summer peak forecast.  
+3 
+A. 
+DR summer impacts are specified in terms of peak day reductions already 
+4 
+and are used directly.   In combination with the other DERs, the impact of 
+5 
+DR is subtracted from the gross peak day forecast to arrive at the net 
+6 
+forecast.  Exhibit__(JFG-21) shows the historical and projected impact of 
+7 
+DR.   
+8 
+ 
+9 
+E. Energy Storage (ES) Projections 
+10 
+ 
+11 
+Q. 
+Please explain how the Company developed it’s forecast of ES savings.     
+12 
+A. 
+There is currently little historical data on installation levels that can be 
+13 
+used as a trend or proxy for the future.  Thus, it was assumed that the 
+14 
+Company will achieve a pro rata share of the statewide ES policy goal for 
+15 
+each of the five years.  This pro rata share was then reduced for 1) an 
+16 
+assumption as to how much would reduce the forecast versus how much 
+17 
+would be treated as supply (by the NYISO), and 2) how much energy 
+18 
+storage would reduce load at the time of system peak  compared to other 
+19 
+times of the day.  In New York, the state policy goal is 1,500 MWs of ES 
+20 
+deployed by the year 2025.  NYSERDA projects that 216 MW of this 
+21 
+
+
+--- Page 54 ---
+Testimony of Joseph F. Gredder 
+ 
+ 
+Page 51 of 53 
+ 
+target may be in the “Rest of State” (ROS) areas12.  ROS is NYISO zones 
+1 
+A through F and are the zones that include the Company’s service 
+2 
+territory.  The Company’s load share in ROS is 56 percent,13 which 
+3 
+corresponds to about 120 MW of ES.  Of this amount, it was assumed that 
+4 
+one-half contributes to reducing loads at the time of the Company’s 
+5 
+system peak.  There are a number of use cases and it is unknown at this 
+6 
+time how many customers will provide their storage capability at the time 
+7 
+of the Company’s peak hour versus discharge their storage at other times 
+8 
+for their own purposes.  These two adjustments reduce the starting value 
+9 
+of 216 MW to about 60 MW of peak reduction by CY 2025 in the 
+10 
+Company’s service territory.  As more installations are placed in service in 
+11 
+the future, these assumptions will be updated with new data.  
+12 
+ 
+13 
+Q. 
+Please explain how the Company’s forecast of ES savings was used to 
+14 
+adjust the energy deliveries forecast.  
+15 
+A. 
+ES is a technology that to date has been less widely deployed in New York 
+16 
+and the actual “use” cases are not well known at this time.  ES can be used 
+17 
+to reduce peaks and/or be used to shift loads to other hours not impacting 
+18 
+                                                 
+12 “New York State Energy Storage Roadmap and Department of Public Service / New 
+York State Energy Research and Development Authority Staff Recommendations,” June 
+21, 2018, Appendix page 16. 
+13 Based on NYISO “2020 Final ICAP Forecast,” December 20, 2919. 
+
+
+--- Page 55 ---
+Testimony of Joseph F. Gredder 
+ 
+ 
+Page 52 of 53 
+ 
+the Company’s peak.  Battery storage itself actually can result in higher 
+1 
+energy requirements due to charging cycles and power conversion 
+2 
+efficiencies.  At this time, however, no assumptions were made for lower 
+3 
+or higher energy impacts.  
+4 
+ 
+5 
+Q. 
+Please explain how the Company’s forecast of ES savings was used to 
+6 
+adjust the summer peak forecast.  
+7 
+A. 
+ES summer impacts are specified in terms of peak day reductions and are 
+8 
+used directly.  In combination with the other DERs, the impact of ES is 
+9 
+subtracted from the gross peak day forecast to arrive at the net forecast.  
+10 
+Exhibit__(JFG-21) shows the historical and projected impacts for ES in 
+11 
+the Company’s service territory. 
+12 
+ 
+13 
+ 
+14 
+Q. 
+Does this forecast include the impacts of future electrification of the 
+15 
+heating sector?  
+16 
+A. 
+No.  It is understood that the NENY Order received in January 2020 has 
+17 
+electric heat pump targets.  These are currently under review for future 
+18 
+impacts.  It is assumed that while the impacts of this Order could be 
+19 
+significant over the longer term, the impacts between the current year, 
+20 
+2020, and the Rate Year, 2022, will not be significant.  This is because the 
+21 
+
+
+--- Page 56 ---
+Testimony of Joseph F. Gredder 
+ 
+ 
+Page 53 of 53 
+ 
+targets for this technology are “back-end” loaded, meaning that they ramp-
+1 
+up over a five-year period, not reaching full annual impacts until CY 2025.   
+2 
+ 
+3 
+ 
+4 
+Q. 
+Does this complete your testimony? 
+5 
+A. 
+Yes, it does.    
+6 
+
+
+--- Page 57 ---
+Testimony of Joseph F. Gredder 
+ 
+ 
+ 
+Index of Exhibits 
+ 
+Exhibit __ (JFG-1) 
+Upstate New York Economic Indicators (Retail 
+Deliveries) 
+ 
+Exhibit __ (JFG-2) 
+Annual Cooling and Heating Degree Days 
+ 
+Exhibit__ (JFG-3) 
+Monthly Normal Cooling and Heating Degree Days 
+ 
+Exhibit __ (JFG-4) 
+Econometric Deliveries Forecast by Revenue Class, 
+Gross (with actual historicals) 
+ 
+Exhibit __ (JFG-5) 
+Econometric Deliveries Forecast by Revenue Class, 
+Gross (with weather-adjusted historicals) 
+ 
+Exhibit __ (JFG-6) 
+Customer Count Forecast by Revenue Class 
+ 
+Exhibit __ (JFG-7) 
+Econometric Deliveries Forecast by Revenue Class, 
+Net (with actual historicals) 
+ 
+Exhibit __ (JFG-8) 
+Econometric Deliveries Forecast by Revenue Class, 
+Net (with weather-adjusted historicals) 
+ 
+Exhibit __ (JFG-9) 
+Cumulative Distributed Energy Resources (DER) 
+Impacts by Revenue Class (GWh) 
+ 
+Exhibit __ (JFG-10) Cumulative Distributed Energy Resources (DER) 
+Impacts by Revenue Class (percent of Gross) 
+ 
+Exhibit __ (JFG-11) Revenue Class Allocation to Rate Classes (GWh) 
+ 
+Exhibit __ (JFG-12) Revenue 
+Class 
+Allocation 
+to 
+Rate 
+Classes 
+(Customer Counts) 
+ 
+Exhibit __ (JFG-13) Deliveries Forecast by Rate Class (with weather-
+adjusted historicals) 
+ 
+Exhibit __ (JFG-14) Customer Count Forecast by Rate Class 
+ 
+
+
+--- Page 58 ---
+Testimony of Joseph F. Gredder 
+ 
+ 
+ 
+Exhibit __ (JFG-15) Upstate New York Economic Indicators for (Peak 
+Forecast) 
+ 
+ 
+Exhibit __ (JFG-16) Peak Forecast, Gross 
+ 
+Exhibit __ (JFG-17) Peak Forecast, Net 
+ 
+Exhibit __ (JFG-18) Cumulative Distributed Energy Resources (DER) 
+Impacts (MW) 
+ 
+Exhibit __ (JFG-19) Cumulative Distributed Energy Resources (DER) 
+Impacts (percent of gross) 
+ 
+Exhibit __ (JFG-20) Annual Weighted Temperature – Humidity Index 
+(WTHI) and Temp_Max 
+ 
+Exhibit __ (JFG-21) Cumulative Distributed Energy Resources (DER) 
+ 
+Exhibit __ (JFG-22)  Photovoltaic (PV) Energy Impacts 
+ 
+Exhibit __ (JFG-23)  Photovoltaic (PV) Energy Impacts Calculation 
+ 
+Exhibit __ (JFG-24) Photovoltaic (PV) Peak Impacts 
+ 
+Exhibit __ (JFG-25) Photovoltaic (PV) Peak Impacts Calculation 
+ 
+Exhibit __ (JFG-26) Electric Vehicles (EV) Energy Impacts  
+ 
+Exhibit __ (JFG-27) Electric Vehicles (EV) Charging Assumptions  
+ 
+Exhibit __ (JFG-28) Electric Vehicles (EV) Peak Impacts  
+  
+Exhibit __ (JFG-29) Regression Models, Energy Deliveries Models 
+Exhibit __ (JFG-30) Regression Models, Peak Models 
+ 
+
+
+--- Page 59 ---
+Testimony of Joseph F. Gredder 
+ 
+ 
+ 
+ 
+ 
+ 
+ 
+Exhibit__ (JFG-1) 
+Upstate New York Economic Indicators (Retail Deliveries) 
+ 
+ 
+ 
+ 
+ 
+ 
+ 
+ 
+ 
+ 
+ 
+ 
+ 
+ 
+ 
+
+
+--- Page 60 ---
+UPSTATE NEW YORK ECONOMIC INDICATORS
+YEAR
+CALENDAR 
+JULY-JUNE
+DATE
+2010
+July 1, 2009 - June 30 2010
+39,303.7
+1.076
+     
+1,955.8
+1,783.6
+172.2
+241.3
+1,818.2
+2011
+July 1, 2010 - June 30 2011
+40,048.0
+1.9%
+1.077
+     
+0.1%
+1,966.9
+0.6%
+1,792.6
+0.5%
+174.3
+1.2%
+244.4
+1.3%
+1,826.0
+0.4%
+2012
+July 1, 2011 - June 30 2012
+40,283.5
+0.6%
+1.084
+     
+0.6%
+1,989.9
+1.2%
+1,813.4
+1.2%
+176.5
+1.2%
+246.5
+0.9%
+1,835.5
+0.5%
+2013
+July 1, 2012 - June 30 2013
+40,722.1
+1.1%
+1.086
+     
+0.2%
+2,001.7
+0.6%
+1,824.6
+0.6%
+177.2
+0.4%
+246.6
+0.0%
+1,843.7
+0.4%
+2014
+July 1, 2013 - June 30 2014
+40,786.7
+0.2%
+1.087
+     
+0.1%
+2,013.7
+0.6%
+1,835.4
+0.6%
+178.3
+0.6%
+248.1
+0.6%
+1,852.9
+0.5%
+2015
+July 1, 2014 - June 30 2015
+42,296.7
+3.7%
+1.086
+     
+-0.1%
+2,018.9
+0.3%
+1,839.8
+0.2%
+179.1
+0.5%
+254.4
+2.5%
+1,859.2
+0.3%
+2016
+July 1, 2015 - June 30 2016
+43,197.3
+2.1%
+1.091
+     
+0.4%
+2,033.2
+0.7%
+1,853.0
+0.7%
+180.2
+0.6%
+255.2
+0.3%
+1,864.5
+0.3%
+2017
+July 1, 2016 - June 30 2017
+43,930.4
+1.7%
+1.095
+     
+0.4%
+2,049.2
+0.8%
+1,868.9
+0.9%
+180.3
+0.0%
+258.2
+1.2%
+1,871.1
+0.4%
+2018
+July 1, 2017 - June 30 2018
+45,249.7
+3.0%
+1.097
+     
+0.2%
+2,061.0
+0.6%
+1,880.6
+0.6%
+180.4
+0.0%
+260.9
+1.0%
+1,879.0
+0.4%
+2019
+July 1, 2018 - June 30 2019
+45,735.8
+1.1%
+1.104
+     
+0.6%
+2,076.8
+0.8%
+1,894.9
+0.8%
+181.9
+0.8%
+264.1
+1.2%
+1,881.6
+0.1%
+2020
+July 1, 2019 - June 30 2020
+45,890.1
+0.3%
+1.071
+     
+-2.9%
+2,021.2
+-2.7%
+1,845.8
+-2.6%
+175.4
+-3.6%
+257.5
+-2.5%
+1,886.4
+0.3%
+2021
+July 1, 2020 - June 30 2021
+45,279.0
+-1.3%
+1.041
+     
+-2.8%
+1,956.3
+-3.2%
+1,789.5
+-3.1%
+166.9
+-4.9%
+245.1
+-4.8%
+1,878.9
+-0.4%
+2022
+July 1, 2021 - June 30 2022
+45,041.5
+-0.5%
+1.061
+     
+1.9%
+1,985.3
+1.5%
+1,817.8
+1.6%
+167.6
+0.4%
+257.4
+5.0%
+1,872.0
+-0.4%
+2023
+July 1, 2022 - June 30 2023
+45,986.6
+2.1%
+1.085
+     
+2.3%
+2,030.8
+2.3%
+1,860.1
+2.3%
+170.7
+1.8%
+271.4
+5.5%
+1,872.2
+0.0%
+2024
+July 1, 2023 - June 30 2024
+46,865.5
+1.9%
+1.098
+     
+1.2%
+2,057.8
+1.3%
+1,886.7
+1.4%
+171.1
+0.3%
+279.2
+2.9%
+1,874.3
+0.1%
+2025
+July 1, 2024- June 30 2025
+47,315.8
+1.0%
+1.101
+     
+0.2%
+2,065.2
+0.4%
+1,895.9
+0.5%
+169.3
+-1.1%
+282.9
+1.3%
+1,876.6
+0.1%
+2026
+July 1, 2025 - June 30 2026
+47,696.2
+0.8%
+1.101
+     
+0.1%
+2,068.6
+0.2%
+1,901.4
+0.3%
+167.2
+-1.3%
+286.1
+1.1%
+1,878.5
+0.1%
+Average Annual Growth Rates:
+2010 to 2020 Ten-Year
+1.6%
+0.0%
+0.3%
+0.3%
+0.2%
+0.7%
+0.4%
+2014 to 2020 Five-Year
+1.6%
+-0.3%
+0.02%
+0.1%
+-0.4%
+0.2%
+0.3%
+2020 to 2022 Two-Year
+-0.9%
+-0.5%
+-0.9%
+-0.8%
+-2.3%
+-0.02%
+-0.4%
+2020 to 2025 Five-Year
+0.6%
+0.5%
+0.4%
+0.5%
+-0.7%
+1.9%
+-0.1%
+Notes:
+* Employment used in this metric is total employment
+Years prior to 2020 are actuals
+Rate Year: July 1, 2021 to June 30, 2022
+Data Year 1: July 1, 2022 to June 30, 2023
+Data Year 2: July 1, 2023 to June 30, 2024
+Test Year
+46,090
+                 
+1.102
+     
+2,075
+                 
+1,895
+                 
+180.7
+                 
+266
+               
+1,883.8
+           
+Growth
+Test Year to Rate Year
+-2.3%
+-3.7%
+-4.3%
+-4.1%
+-7.3%
+-3.1%
+-0.6%
+Test Year:     
+Calendar Year 2019
+Rate Year: 
+July 1, 2021 to June 30, 2022
+Notes:
+* Employment used in this metric is total employment
+Test Year and the Comparion between Rate Year and Test Year
+HOUSEHOLDS
+ 
+(000)
+EMPLOYMENT * 
+PER HOUSEHOLD
+ 
+TOTAL
+(000)
+Exhibit__(JFG-1)
+Page 1 of 1
+(000)
+(000)
+(000, $2012)
+EMPLOYMENT
+MANUFACTURING
+PER CAPITA
+NON-MANUFACTURING
+EMPLOYMENT
+INCOME
+EMPLOYMENT
+GROSS
+PRODUCT
+($Billions, $2012)
+TOTAL
+NON-MANUFACTURING
+EMPLOYMENT
+PRODUCT
+ 
+($Billions, $2012)
+(000)
+PER CAPITA
+EMPLOYMENT * 
+EMPLOYMENT
+EMPLOYMENT
+(000, $2012)
+ 
+(000)
+(000)
+(000)
+MANUFACTURING
+GROSS
+HOUSEHOLDS
+INCOME
+PER HOUSEHOLD
+Exhibit__ (JFG)-1 
+          Page 1 of 1
+
+
+--- Page 61 ---
+Testimony of Joseph F. Gredder 
+ 
+ 
+ 
+ 
+ 
+ 
+ 
+Exhibit__ (JFG-2) 
+Annual Cooling and Heating Degree Days 
+ 
+ 
+ 
+ 
+ 
+ 
+ 
+ 
+ 
+ 
+ 
+ 
+ 
+ 
+ 
+
+
+--- Page 62 ---
+EXHIBIT_(JFG-2)
+Page 1 of 1
+ANNUAL COOLING AND HEATING
+DEGREE DAYS (HDDs & CDDs)
+YEAR
+CDDs
+HDDs
+2010
+747.7
+                         
+6,397.3
+                      
+2011
+727.8
+                         
+6,466.2
+                      
+2012
+808.3
+                         
+5,646.6
+                      
+2013
+628.1
+                         
+6,531.1
+                      
+2014
+544.4
+                         
+7,079.1
+                      
+2015
+681.0
+                         
+6,726.3
+                      
+2016
+838.4
+                         
+5,944.7
+                      
+2017
+566.7
+                         
+6,051.8
+                      
+2018
+892.4
+                         
+6,809.1
+                      
+2019
+671.7
+                         
+6,560.7
+                      
+2020
+679.8
+                         
+6,438.9
+                      
+*
+2021
+679.8
+                         
+6,438.9
+                      
+*
+2022
+679.8
+                         
+6,438.9
+                      
+*
+2023
+679.8
+                         
+6,438.9
+                      
+*
+2024
+679.8
+                         
+6,438.9
+                      
+*
+2025
+679.8
+                         
+6,438.9
+                      
+*
+2026
+679.8
+                         
+6,438.9
+                      
+*
+* represents "normal" HDDs & CDDs.
+
+
+--- Page 63 ---
+Testimony of Joseph F. Gredder 
+ 
+ 
+ 
+ 
+ 
+ 
+ 
+Exhibit__ (JFG-3) 
+Monthly Normal Cooling and Heating Degree Days 
+ 
+ 
+ 
+ 
+ 
+ 
+ 
+ 
+ 
+ 
+ 
+ 
+ 
+ 
+ 
+
+
+--- Page 64 ---
+MONTHLY NORMAL COOLING & HEATING
+DEGREE DAYS (CDDs, HDDs)
+(REVENUE MONTH)
+CALENDAR
+MONTH
+CDDs
+HDDs
+1
+-
+                        
+1,222.6
+                   
+2
+-
+                        
+1,189.4
+                   
+3
+0.0
+                        
+1,050.8
+                   
+4
+1.3
+                        
+766.2
+                      
+5
+14.7
+                      
+389.1
+                      
+6
+80.6
+                      
+115.3
+                      
+7
+199.6
+                    
+15.2
+                        
+8
+226.2
+                    
+3.2
+                          
+9
+144.1
+                    
+41.6
+                        
+10
+35.8
+                      
+199.4
+                      
+11
+2.6
+                        
+533.6
+                      
+12
+0.0
+                        
+891.5
+                      
+EXHIBIT_(JFG-3)
+Page 1 of 1
+
+
+--- Page 65 ---
+Testimony of Joseph F. Gredder 
+ 
+ 
+ 
+ 
+ 
+ 
+\ 
+Exhibit__ (JFG-4) 
+Econometric Deliveries Forecast by Revenue Class, Gross  
+(with actual historicals) 
+ 
+ 
+ 
+ 
+ 
+ 
+ 
+ 
+ 
+ 
+ 
+ 
+ 
+ 
+
+
+--- Page 66 ---
+ECONOMETRIC DELIVERIES FORECAST by REVENUE CLASS (Year  = Jul - Jun, GWH)
+(Historicals: Actuals,  Projections: Weather-Normal )
+"GROSS", BEFORE IMPACTS OF DERS
+YEAR     
+(JUL-JUN)
+CALENDAR DATE
+2010
+July 1, 2009 - June 30 2010
+11,124
+         
+12,556
+         
+8,714
+           
+32,394
+         
+2011
+July 1, 2010 - June 30 2011
+11,763
+         
+5.7%
+12,873
+         
+2.5%
+9,334
+           
+7.1%
+33,970
+         
+4.9%
+2012
+July 1, 2011 - June 30 2012
+11,500
+         
+-2.2%
+12,827
+         
+-0.4%
+9,001
+           
+-3.6%
+33,329
+         
+-1.9%
+2013
+July 1, 2012 - June 30 2013
+11,928
+         
+3.7%
+12,892
+         
+0.5%
+9,604
+           
+6.7%
+34,424
+         
+3.3%
+2014
+July 1, 2013 - June 30 2014
+12,039
+         
+0.9%
+13,065
+         
+1.3%
+10,248
+         
+6.7%
+35,353
+         
+2.7%
+2015
+July 1, 2014 - June 30 2015
+11,804
+         
+-1.9%
+13,139
+         
+0.6%
+10,331
+         
+0.8%
+35,274
+         
+-0.2%
+2016
+July 1, 2015 - June 30 2016
+11,666
+         
+-1.2%
+13,042
+         
+-0.7%
+10,503
+         
+1.7%
+35,211
+         
+-0.2%
+2017
+July 1, 2016 - June 30 2017
+12,115
+         
+3.9%
+13,303
+         
+2.0%
+10,307
+         
+-1.9%
+35,725
+         
+1.5%
+2018
+July 1, 2017 - June 30 2018
+12,137
+         
+0.2%
+13,531
+         
+1.7%
+11,091
+         
+7.6%
+36,759
+         
+2.9%
+2019
+July 1, 2018 - June 30 2019
+12,757
+         
+5.1%
+13,722
+         
+1.4%
+11,102
+         
+0.1%
+37,581
+         
+2.2%
+2020
+July 1, 2019 - June 30 2020
+12,550
+         
+-1.6%
+13,362
+         
+-2.6%
+10,539
+         
+-5.1%
+36,452
+         
+-3.0%
+2021
+July 1, 2020 - June 30 2021
+12,679
+         
+1.0%
+13,021
+         
+-2.6%
+9,846
+           
+-6.6%
+35,546
+         
+-2.5%
+2022
+July 1, 2021 - June 30 2022
+12,689
+         
+0.1%
+13,021
+         
+0.0%
+10,199
+         
+3.6%
+35,910
+         
+1.0%
+2023
+July 1, 2022 - June 30 2023
+12,855
+         
+1.3%
+13,310
+         
+2.2%
+10,755
+         
+5.4%
+36,920
+         
+2.8%
+2024
+July 1, 2023 - June 30 2024
+12,991
+         
+1.1%
+13,502
+         
+1.4%
+11,084
+         
+3.1%
+37,576
+         
+1.8%
+2025
+July 1, 2024 - June 30 2025
+13,091
+         
+0.8%
+13,579
+         
+0.6%
+11,174
+         
+0.8%
+37,845
+         
+0.7%
+2026
+July 1, 2025 - June 30 2026
+13,157
+         
+0.5%
+13,612
+         
+0.2%
+11,216
+         
+0.4%
+37,984
+         
+0.4%
+Average Annual Growth Rates:
+2010 to 2020 Ten-Year
+1.2%
+0.6%
+1.9%
+1.2%
+1.2%
+0.3%
+0.4%
+0.7%
+0.6%
+-1.3%
+-1.6%
+-0.7%
+0.8%
+0.3%
+1.2%
+0.8%
+Notes:
+All years above are defined as July to June
+2020 has actuals from July 2019 to May, 2020 and the projection for June 2020
+Years prior to 2020 are actuals
+Rate Year: July 1, 2021 to June 30, 2022 
+Data Year 1: July 1, 2022 to June 30, 2023
+Data Year 2: July 1, 2023 to June 30, 2024
+Residential
+Commercial
+Industrial
+Total
+Test Year
+12,454
+         
+13,617
+         
+10,869
+         
+36,940
+         
+Growth
+Test Year to Rate Year
+1.9%
+-4.4%
+-6.2%
+-2.8%
+Test Year:     
+Calendar Year 2019
+Rate Year:   
+July 1, 2021 to June 30, 2022
+2020 to 2022 Two-Year
+2020 to 2025 Five-Year
+Test Year and the Comparion between Rate Year and Test Year
+Exhibit__(JFG-4)
+Page 1 of 1
+2014 to 2020 Five-Year
+RESIDENTIAL
+COMMERCIAL 
+INDUSTRIAL
+SUM
+Exhibit__ (JFG)-4 
+          Page 1 of 1
+
+
+--- Page 67 ---
+Testimony of Joseph F. Gredder 
+ 
+ 
+ 
+ 
+ 
+ 
+ 
+Exhibit__ (JFG-5) 
+Econometric Deliveries Forecast by Revenue Class, Gross  
+(with weather-adjusted historicals) 
+ 
+ 
+ 
+ 
+ 
+ 
+ 
+ 
+ 
+ 
+ 
+ 
+ 
+ 
+
+
+--- Page 68 ---
+ECONOMETRIC DELIVERIES FORECAST by REVENUE CLASS (Year  = Jul - Jun, GWH)
+(Historicals: Weather-Normal,  Projections: Weather-Normal )
+"GROSS", BEFORE IMPACTS OF DERS
+YEAR     
+(JUL-JUN)
+CALENDAR DATE
+2010
+July 1, 2009 - June 30 2010
+11,513
+         
+12,743
+         
+8,774
+           
+33,030
+         
+2011
+July 1, 2010 - June 30 2011
+11,454
+         
+-0.5%
+12,772
+         
+0.2%
+9,307
+           
+6.1%
+33,533
+         
+1.5%
+2012
+July 1, 2011 - June 30 2012
+11,628
+         
+1.5%
+12,768
+         
+0.0%
+9,030
+           
+-3.0%
+33,427
+         
+-0.3%
+2013
+July 1, 2012 - June 30 2013
+11,694
+         
+0.6%
+12,777
+         
+0.1%
+9,565
+           
+5.9%
+34,036
+         
+1.8%
+2014
+July 1, 2013 - June 30 2014
+11,813
+         
+1.0%
+13,053
+         
+2.2%
+10,254
+         
+7.2%
+35,120
+         
+3.2%
+2015
+July 1, 2014 - June 30 2015
+11,670
+         
+-1.2%
+13,158
+         
+0.8%
+10,345
+         
+0.9%
+35,174
+         
+0.2%
+2016
+July 1, 2015 - June 30 2016
+11,867
+         
+1.7%
+13,058
+         
+-0.8%
+10,500
+         
+1.5%
+35,425
+         
+0.7%
+2017
+July 1, 2016 - June 30 2017
+11,938
+         
+0.6%
+13,157
+         
+0.8%
+10,256
+         
+-2.3%
+35,351
+         
+-0.2%
+2018
+July 1, 2017 - June 30 2018
+12,178
+         
+2.0%
+13,572
+         
+3.2%
+11,436
+         
+11.5%
+37,186
+         
+5.2%
+2019
+July 1, 2018 - June 30 2019
+12,306
+         
+1.0%
+13,540
+         
+-0.2%
+11,050
+         
+-3.4%
+36,896
+         
+-0.8%
+2020
+July 1, 2019 - June 30 2020
+12,584
+         
+2.3%
+13,338
+         
+-1.5%
+10,532
+         
+-4.7%
+36,453
+         
+-1.2%
+2021
+July 1, 2020 - June 30 2021
+12,679
+         
+0.8%
+13,021
+         
+-2.4%
+9,846
+           
+-6.5%
+35,546
+         
+-2.5%
+2022
+July 1, 2021 - June 30 2022
+12,689
+         
+0.1%
+13,021
+         
+0.0%
+10,199
+         
+3.6%
+35,910
+         
+1.0%
+2023
+July 1, 2022 - June 30 2023
+12,855
+         
+1.3%
+13,310
+         
+2.2%
+10,755
+         
+5.4%
+36,920
+         
+2.8%
+2024
+July 1, 2023 - June 30 2024
+12,991
+         
+1.1%
+13,502
+         
+1.4%
+11,084
+         
+3.1%
+37,576
+         
+1.8%
+2025
+July 1, 2024 - June 30 2025
+13,091
+         
+0.8%
+13,579
+         
+0.6%
+11,174
+         
+0.8%
+37,845
+         
+0.7%
+2026
+July 1, 2025 - June 30 2026
+13,157
+         
+0.5%
+13,612
+         
+0.2%
+11,216
+         
+0.4%
+37,984
+         
+0.4%
+Average Annual Growth Rates:
+2010 to 2020 Ten-Year
+0.9%
+0.5%
+1.8%
+1.0%
+1.5%
+0.3%
+0.4%
+0.7%
+0.4%
+-1.2%
+-1.6%
+-0.7%
+2020 to 2025 Five-Year
+0.8%
+0.4%
+1.2%
+0.8%
+Notes:
+All years above are defined as July to June
+2020 has actuals from July 2019 to May, 2020 and the projection for June 2020
+Rate Year: July 1, 2021 to June 30, 2022 
+Data Year 1: July 1, 2022 to June 30, 2023
+Data Year 2: July 1, 2023 to June 30, 2024
+Residential
+Commercial
+Industrial
+Total
+Test Year
+12,415
+         
+13,634
+         
+10,877
+         
+36,927
+         
+Growth
+Test Year to Rate Year
+2.2%
+-4.5%
+-6.2%
+-2.8%
+Test Year:     
+Calendar Year 2019
+Rate Year:   
+July 1, 2021 to June 30, 2022
+Exhibit__(JFG-5)
+Page 1 of 1
+RESIDENTIAL
+COMMERCIAL 
+INDUSTRIAL
+SUM
+2014 to 2020 Five-Year
+2020 to 2022 Two-Year
+Years prior to 2020 are actuals
+Test Year and the Comparion between Rate Year and Test Year
+Exhibit__ (JFG)-5 
+          Page 1 of 1
+
+
+--- Page 69 ---
+Testimony of Joseph F. Gredder 
+ 
+ 
+ 
+ 
+ 
+ 
+ 
+Exhibit__ (JFG-6) 
+Customer Count Forecast by Revenue Class 
+ 
+ 
+ 
+ 
+ 
+ 
+ 
+ 
+ 
+ 
+ 
+ 
+ 
+ 
+ 
+
+
+--- Page 70 ---
+ 
+CUSTOMER COUNT FORECAST by REVENUE CLASS (Year  = Jul - Jun)
+ 
+YEAR (JUL-JUN)
+CALENDAR DATE
+2010
+July 1, 2009 - June 30 2010
+1,454,709
+           
+163,237
+            
+1,667
+                
+1,619,612
+           
+2011
+July 1, 2010 - June 30 2011
+1,459,127
+           
+0.3%
+163,500
+            
+0.2%
+1,648
+                
+-1.1%
+1,624,275
+           
+0.3%
+2012
+July 1, 2011 - June 30 2012
+1,484,809
+           
+1.8%
+164,322
+            
+0.5%
+1,634
+                
+-0.9%
+1,650,764
+           
+1.6%
+2013
+July 1, 2012 - June 30 2013
+1,490,283
+           
+0.4%
+164,559
+            
+0.1%
+1,621
+                
+-0.8%
+1,656,463
+           
+0.3%
+2014
+July 1, 2013 - June 30 2014
+1,470,261
+           
+-1.3%
+165,213
+            
+0.4%
+1,609
+                
+-0.7%
+1,637,083
+           
+-1.2%
+2015
+July 1, 2014 - June 30 2015
+1,473,201
+           
+0.2%
+165,860
+            
+0.4%
+1,591
+                
+-1.1%
+1,640,652
+           
+0.2%
+2016
+July 1, 2015 - June 30 2016
+1,480,185
+           
+0.5%
+167,067
+            
+0.7%
+1,574
+                
+-1.1%
+1,648,826
+           
+0.5%
+2017
+July 1, 2016 - June 30 2017
+1,489,441
+           
+0.6%
+168,919
+            
+1.1%
+1,560
+                
+-0.9%
+1,659,920
+           
+0.7%
+2018
+July 1, 2017 - June 30 2018
+1,497,428
+           
+0.5%
+170,713
+            
+1.1%
+1,553
+                
+-0.4%
+1,669,694
+           
+0.6%
+2019
+July 1, 2018 - June 30 2019
+1,505,049
+           
+0.5%
+172,433
+            
+1.0%
+1,545
+                
+-0.6%
+1,679,027
+           
+0.6%
+2020
+July 1, 2019 - June 30 2020
+1,510,090
+           
+0.3%
+173,894
+            
+0.8%
+1,544
+                
+0.0%
+1,685,528
+           
+0.4%
+2021
+July 1, 2020 - June 30 2021
+1,517,607
+           
+0.5%
+171,632
+            
+-1.3%
+1,528
+                
+-1.1%
+1,690,767
+           
+0.3%
+2022
+July 1, 2021 - June 30 2022
+1,525,345
+           
+0.5%
+169,228
+            
+-1.4%
+1,504
+                
+-1.5%
+1,696,078
+           
+0.3%
+2023
+July 1, 2022 - June 30 2023
+1,532,892
+           
+0.5%
+169,422
+            
+0.1%
+1,485
+                
+-1.3%
+1,703,799
+           
+0.5%
+2024
+July 1, 2023 - June 30 2024
+1,540,359
+           
+0.5%
+170,064
+            
+0.4%
+1,468
+                
+-1.2%
+1,711,891
+           
+0.5%
+2025
+July 1, 2024 - June 30 2025
+1,547,794
+           
+0.5%
+170,682
+            
+0.4%
+1,452
+                
+-1.1%
+1,719,928
+           
+0.5%
+2026
+July 1, 2025 - June 30 2026
+1,555,215
+           
+0.5%
+171,249
+            
+0.3%
+1,436
+                
+-1.1%
+1,727,900
+           
+0.5%
+Average Annual Growth Rates:
+2010 to 2020 Ten-Year
+0.4%
+0.6%
+-0.8%
+0.4%
+0.5%
+1.0%
+-0.6%
+0.5%
+0.5%
+-1.4%
+-1.3%
+0.3%
+2020 to 2025 Five-Year
+0.5%
+-0.4%
+-1.2%
+0.4%
+2020 to 2022 Two-Year
+Exhibit__(JFG-6)
+Page 1 of 1
+INDUSTRIAL
+SUM
+2014 to 2020 Five-Year
+RESIDENTIAL
+COMMERCIAL 
+Exhibit__ (JFG)-6 
+           Page 1 of 1
+
+
+--- Page 71 ---
+Testimony of Joseph F. Gredder 
+ 
+ 
+ 
+ 
+ 
+ 
+ 
+Exhibit__ (JFG-7) 
+Econometric Deliveries Forecast by Revenue Class, Net 
+(with actual historicals) 
+ 
+ 
+ 
+ 
+ 
+ 
+ 
+ 
+ 
+ 
+ 
+ 
+ 
+ 
+
+
+--- Page 72 ---
+ECONOMETRIC DELIVERIES FORECAST by REVENUE CLASS (Year  = Jul - Jun, GWH)
+(Historicals: Actuals,  Projections: Weather-Normal)
+"NET", AFTER IMPACTS OF DERS
+YEAR     
+(JUL-JUN)
+CALENDAR DATE
+2010
+July 1, 2009 - June 30 2010
+11,118
+         
+12,540
+         
+8,665
+           
+32,323
+         
+2011
+July 1, 2010 - June 30 2011
+11,743
+         
+5.6%
+12,777
+         
+1.9%
+9,071
+           
+4.7%
+33,591
+         
+3.9%
+2012
+July 1, 2011 - June 30 2012
+11,446
+         
+-2.5%
+12,602
+         
+-1.4%
+8,943
+           
+-1.4%
+32,990
+         
+-1.8%
+2013
+July 1, 2012 - June 30 2013
+11,834
+         
+3.4%
+12,567
+         
+-0.3%
+9,370
+           
+4.8%
+33,771
+         
+2.4%
+2014
+July 1, 2013 - June 30 2014
+11,909
+         
+0.6%
+12,632
+         
+0.5%
+9,931
+           
+6.0%
+34,472
+         
+2.1%
+2015
+July 1, 2014 - June 30 2015
+11,603
+         
+-2.6%
+12,584
+         
+-0.4%
+9,918
+           
+-0.1%
+34,105
+         
+-1.1%
+2016
+July 1, 2015 - June 30 2016
+11,309
+         
+-2.5%
+12,361
+         
+-1.8%
+9,988
+           
+0.7%
+33,658
+         
+-1.3%
+2017
+July 1, 2016 - June 30 2017
+11,611
+         
+2.7%
+12,478
+         
+0.9%
+9,679
+           
+-3.1%
+33,767
+         
+0.3%
+2018
+July 1, 2017 - June 30 2018
+11,495
+         
+-1.0%
+12,544
+         
+0.5%
+10,331
+         
+6.7%
+34,371
+         
+1.8%
+2019
+July 1, 2018 - June 30 2019
+11,966
+         
+4.1%
+12,574
+         
+0.2%
+10,206
+         
+-1.2%
+34,746
+         
+1.1%
+2020
+July 1, 2019 - June 30 2020
+11,584
+         
+-3.2%
+12,065
+         
+-4.1%
+9,521
+           
+-6.7%
+33,170
+         
+-4.5%
+2021
+July 1, 2020 - June 30 2021
+11,570
+         
+-0.1%
+11,543
+         
+-4.3%
+8,682
+           
+-8.8%
+31,794
+         
+-4.1%
+2022
+July 1, 2021 - June 30 2022
+11,422
+         
+-1.3%
+11,324
+         
+-1.9%
+8,859
+           
+2.0%
+31,605
+         
+-0.6%
+2023
+July 1, 2022 - June 30 2023
+11,416
+         
+0.0%
+11,380
+         
+0.5%
+9,225
+           
+4.1%
+32,021
+         
+1.3%
+2024
+July 1, 2023 - June 30 2024
+11,364
+         
+-0.5%
+11,324
+         
+-0.5%
+9,353
+           
+1.4%
+32,041
+         
+0.1%
+2025
+July 1, 2024 - June 30 2025
+11,262
+         
+-0.9%
+11,148
+         
+-1.6%
+9,236
+           
+-1.2%
+31,646
+         
+-1.2%
+2026
+July 1, 2025 - June 30 2026
+11,113
+         
+-1.3%
+10,918
+         
+-2.1%
+9,063
+           
+-1.9%
+31,094
+         
+-1.7%
+Average Annual Growth Rates:
+2010 to 2020 Ten-Year
+0.4%
+-0.4%
+0.9%
+0.3%
+0.0%
+-0.8%
+-0.8%
+-0.6%
+-0.7%
+-3.1%
+-3.5%
+-2.4%
+2020 to 2025 Five-Year
+-0.6%
+-1.6%
+-0.6%
+-0.9%
+Notes:
+All years above are defined as July to June
+2020 has actuals from July 2019 to May, 2020 and the projection for June 2020
+Exhibit__(JFG-7)
+Page 1 of 1
+RESIDENTIAL
+COMMERCIAL 
+INDUSTRIAL
+SUM
+2014 to 2020 Five-Year
+2020 to 2022 Two-Year
+Years prior to 2020 are actuals
+Exhibit__ (JFG)-7 
+           Page 1 of 1
+
+
+--- Page 73 ---
+Testimony of Joseph F. Gredder 
+ 
+ 
+ 
+ 
+ 
+ 
+ 
+Exhibit__ (JFG-8) 
+Econometric Deliveries Forecast by Revenue Class, Net 
+(with weather-adjusted historicals) 
+ 
+ 
+ 
+ 
+ 
+ 
+ 
+ 
+ 
+ 
+ 
+ 
+ 
+ 
+
+
+--- Page 74 ---
+ECONOMETRIC DELIVERIES FORECAST by REVENUE CLASS (Year  = Jul - Jun, GWH)
+(Historicals: Weather-Normals,  Projections: Weather-Normal)
+"NET", AFTER IMPACTS OF DERS
+YEAR        
+(JUL-JUN)
+CALENDAR DATE
+2010
+July 1, 2009 - June 30 2010
+11,507
+         
+12,727
+         
+8,763
+           
+32,997
+         
+2011
+July 1, 2010 - June 30 2011
+11,434
+         
+-0.6%
+12,677
+         
+-0.4%
+9,239
+           
+5.4%
+33,350
+         
+1.1%
+2012
+July 1, 2011 - June 30 2012
+11,574
+         
+1.2%
+12,543
+         
+-1.1%
+8,869
+           
+-4.0%
+32,986
+         
+-1.1%
+2013
+July 1, 2012 - June 30 2013
+11,600
+         
+0.2%
+12,451
+         
+-0.7%
+9,332
+           
+5.2%
+33,383
+         
+1.2%
+2014
+July 1, 2013 - June 30 2014
+11,684
+         
+0.7%
+12,620
+         
+1.4%
+9,936
+           
+6.5%
+34,240
+         
+2.6%
+2015
+July 1, 2014 - June 30 2015
+11,470
+         
+-1.8%
+12,604
+         
+-0.1%
+9,932
+           
+0.0%
+34,005
+         
+-0.7%
+2016
+July 1, 2015 - June 30 2016
+11,510
+         
+0.4%
+12,376
+         
+-1.8%
+9,985
+           
+0.5%
+33,871
+         
+-0.4%
+2017
+July 1, 2016 - June 30 2017
+11,433
+         
+-0.7%
+12,332
+         
+-0.4%
+9,628
+           
+-3.6%
+33,393
+         
+-1.4%
+2018
+July 1, 2017 - June 30 2018
+11,537
+         
+0.9%
+12,585
+         
+2.1%
+10,676
+         
+10.9%
+34,798
+         
+4.2%
+2019
+July 1, 2018 - June 30 2019
+11,515
+         
+-0.2%
+12,392
+         
+-1.5%
+10,154
+         
+-4.9%
+34,061
+         
+-2.1%
+2020
+July 1, 2019 - June 30 2020
+11,617
+         
+0.9%
+12,040
+         
+-2.8%
+9,514
+           
+-6.3%
+33,172
+         
+-2.6%
+2021
+July 1, 2020 - June 30 2021
+11,570
+         
+-0.4%
+11,543
+         
+-4.1%
+8,682
+           
+-8.7%
+31,794
+         
+-4.2%
+2022
+July 1, 2021 - June 30 2022
+11,422
+         
+-1.3%
+11,324
+         
+-1.9%
+8,859
+           
+2.0%
+31,605
+         
+-0.6%
+2023
+July 1, 2022 - June 30 2023
+11,416
+         
+0.0%
+11,380
+         
+0.5%
+9,225
+           
+4.1%
+32,021
+         
+1.3%
+2024
+July 1, 2023 - June 30 2024
+11,364
+         
+-0.5%
+11,324
+         
+-0.5%
+9,353
+           
+1.4%
+32,041
+         
+0.1%
+2025
+July 1, 2024 - June 30 2025
+11,262
+         
+-0.9%
+11,148
+         
+-1.6%
+9,236
+           
+-1.2%
+31,646
+         
+-1.2%
+2026
+July 1, 2025 - June 30 2026
+11,113
+         
+-1.3%
+10,918
+         
+-2.1%
+9,063
+           
+-1.9%
+31,094
+         
+-1.7%
+Average Annual Growth Rates:
+2010 to 2020 Ten-Year
+0.1%
+-0.6%
+0.8%
+0.1%
+0.3%
+-0.9%
+-0.9%
+-0.5%
+-0.8%
+-3.0%
+-3.5%
+-2.4%
+2020 to 2025 Five-Year
+-0.6%
+-1.5%
+-0.6%
+-0.9%
+Notes:
+All years above are defined as July to June
+2020 has actuals from July 2019 to May, 2020 and the projection for June 2020
+Exhibit__(JFG-8)
+Page 1 of 1
+RESIDENTIAL
+COMMERCIAL 
+INDUSTRIAL
+SUM
+2014 to 2020 Five-Year
+2020 to 2022 Two-Year
+Years prior to 2020 are actuals
+Exhibit__ (JFG)-8 
+           Page 1 of 1
+
+
+--- Page 75 ---
+Testimony of Joseph F. Gredder 
+ 
+ 
+ 
+ 
+ 
+ 
+ 
+Exhibit__ (JFG-9) 
+Cumulative Distributed Energy Resources (DER) Impacts 
+by Revenue Class (GWh) 
+ 
+ 
+ 
+ 
+ 
+ 
+ 
+ 
+ 
+ 
+ 
+ 
+ 
+ 
+
+
+--- Page 76 ---
+CUMULATIVE DISTRIBUTED ENERGY RESOURCES (DER) IMPACTS by REVENUE CLASS (Year  = Jul - Jun, GWH)
+ 
+YEAR     
+(JUL-JUN)
+CALENDAR DATE
+EE
+PV
+EV
+SUM 
+EE
+PV
+EV
+SUM
+EE
+PV
+EV
+SUM
+EE
+PV
+EV
+SUM
+2010
+July 1, 2009 - June 30 2010
+(2.0)
+(3.7)
+0.1
+(5.6)
+(14.5)
+(1.4)
+0.0
+(15.9)
+(10.2)
+(1.0)
+0.0
+(11.2)
+(26.6)
+(6.1)
+0.1
+(32.7)
+2011
+July 1, 2010 - June 30 2011
+(14.5)
+(5.9)
+0.1
+(20.2)
+(91.0)
+(4.5)
+0.0
+(95.5)
+(64.4)
+(3.2)
+0.0
+(67.6)
+(169.9)
+(13.5)
+0.1
+(183.3)
+2012
+July 1, 2011 - June 30 2012
+(46.1)
+(8.7)
+0.6
+(54.2)
+(215.9)
+(9.6)
+0.1
+(225.5)
+(154.1)
+(6.8)
+0.1
+(160.9)
+(416.2)
+(25.1)
+0.7
+(440.6)
+2013
+July 1, 2012 - June 30 2013
+(83.2)
+(13.6)
+2.3
+(94.5)
+(308.4)
+(17.2)
+0.3
+(325.3)
+(221.5)
+(12.5)
+0.2
+(233.8)
+(613.1)
+(43.3)
+2.8
+(653.6)
+2014
+July 1, 2013 - June 30 2014
+(111.2)
+(22.7)
+4.2
+(129.7)
+(403.5)
+(30.3)
+0.5
+(433.4)
+(295.2)
+(22.7)
+0.4
+(317.5)
+(809.9)
+(75.6)
+5.0
+(880.6)
+2015
+July 1, 2014 - June 30 2015
+(161.3)
+(47.0)
+7.4
+(200.9)
+(509.9)
+(45.4)
+0.8
+(554.5)
+(379.4)
+(34.6)
+0.6
+(413.4)
+(1,050.5)
+(127.1)
+8.9
+(1,168.8)
+2016
+July 1, 2015 - June 30 2016
+(276.5)
+(89.5)
+9.0
+(357.1)
+(620.8)
+(62.0)
+1.0
+(681.8)
+(467.7)
+(47.7)
+0.8
+(514.6)
+(1,365.0)
+(199.2)
+10.7
+(1,553.5)
+2017
+July 1, 2016 - June 30 2017
+(388.0)
+(127.0)
+10.8
+(504.2)
+(733.7)
+(93.0)
+1.2
+(825.5)
+(556.4)
+(72.2)
+0.9
+(627.7)
+(1,678.1)
+(292.2)
+13.0
+(1,957.4)
+2018
+July 1, 2017 - June 30 2018
+(506.5)
+(151.7)
+16.5
+(641.7)
+(837.2)
+(151.5)
+1.8
+(986.9)
+(640.6)
+(120.2)
+1.5
+(759.4)
+(1,984.3)
+(423.5)
+19.8
+(2,388.0)
+2019
+July 1, 2018 - June 30 2019
+(644.7)
+(170.4)
+24.3
+(790.8)
+(933.4)
+(217.2)
+2.7
+(1,147.9)
+(722.3)
+(176.2)
+2.2
+(896.4)
+(2,300.4)
+(563.8)
+29.1
+(2,835.1)
+2020
+July 1, 2019 - June 30 2020
+(808.7)
+(189.3)
+31.9
+(966.0)
+(1,032.7)
+(268.7)
+3.5
+(1,297.8)
+(802.4)
+(218.1)
+2.8
+(1,017.7)
+(2,643.7)
+(676.1)
+38.2
+(3,281.5)
+2021
+July 1, 2020 - June 30 2021
+(932.2)
+(218.3)
+40.8
+(1,109.8)
+(1,130.3)
+(352.5)
+4.5
+(1,478.2)
+(881.2)
+(285.9)
+3.6
+(1,163.4)
+(2,943.7)
+(856.6)
+48.9
+(3,751.4)
+2022
+July 1, 2021 - June 30 2022
+(1,061.5)
+(257.3)
+51.0
+(1,267.8)
+(1,237.4)
+0.1
+5.6
+(1,231.7)
+(968.0)
+(377.0)
+4.5
+(1,340.5)
+(3,266.9)
+(634.2)
+61.2
+(3,840.0)
+2023
+July 1, 2022 - June 30 2023
+(1,203.8)
+(297.6)
+62.5
+(1,438.9)
+(1,355.1)
+(581.4)
+6.9
+(1,929.6)
+(1,063.6)
+(471.5)
+5.6
+(1,529.6)
+(3,622.5)
+(1,350.5)
+74.9
+(4,898.1)
+2024
+July 1, 2023 - June 30 2024
+(1,363.9)
+(338.4)
+75.2
+(1,627.1)
+(1,487.5)
+(698.2)
+8.3
+(2,177.5)
+(1,171.4)
+(566.6)
+6.7
+(1,731.3)
+(4,022.8)
+(1,603.2)
+90.1
+(5,535.9)
+2025
+July 1, 2024 - June 30 2025
+(1,541.8)
+(375.8)
+89.1
+(1,828.5)
+(1,634.6)
+(806.7)
+9.8
+(2,431.5)
+(1,291.3)
+(655.0)
+7.9
+(1,938.4)
+(4,467.7)
+(1,837.5)
+106.9
+(6,198.4)
+2026
+July 1, 2025 - June 30 2026
+(1,735.6)
+(412.1)
+104.3
+(2,043.4)
+(1,794.5)
+(911.1)
+11.5
+(2,694.2)
+(1,422.0)
+(740.4)
+9.3
+(2,153.1)
+(4,952.1)
+(2,063.7)
+125.1
+(6,890.7)
+Notes:
+All years above are defined as July to June
+Rate Year:   July 1, 2021 to June 30, 2022 
+Data Year 1: July 1, 2022 to June 30, 2023
+Data Year 2: July 1, 2023 to June 30, 2024
+2020 to 2025 Five-Year
+EE
+PV
+EV
+SUM 
+EE
+PV
+EV
+SUM
+EE
+PV
+EV
+SUM
+EE
+PV
+EV
+SUM
+Test Year
+(728.9)
+(178.1)
+28.0
+(879.0)
+(983.1)
+(239.6)
+3.1
+(1219.6)
+(762.6)
+(194.7)
+2.5
+(954.9)
+(2474.7)
+(612.4)
+33.6
+(3053.5)
+Growth
+Test Year to Rate Year
+45.6%
+44.4%
+82.1%
+44.2%
+25.9%
+-100.0%
+82.2%
+1.0%
+26.9%
+93.6%
+81.9%
+40.4%
+32.0%
+3.6%
+82.1%
+25.8%
+Test Year: 
+Calendar Year 2019
+Rate Year:   
+July 1, 2021 to June 30, 2022
+Years prior to 2020 are actuals
+Exhibit__(JFG-9)
+Page 1 of 1
+INDUSTRIAL
+TOTAL
+RESIDENTIAL
+COMMERCIAL
+RESIDENTIAL
+COMMERCIAL
+INDUSTRIAL
+TOTAL
+Test Year and the Comparion between Rate Year and Test Year
+Exhibit__ (JFG)-9 
+           Page 1 of 1
+
+
+--- Page 77 ---
+Testimony of Joseph F. Gredder 
+ 
+ 
+ 
+ 
+ 
+ 
+ 
+Exhibit__ (JFG-10) 
+Cumulative Distributed Energy Resources (DER) Impacts  
+by Revenue Class (percent of Gross) 
+ 
+ 
+ 
+ 
+ 
+ 
+ 
+ 
+ 
+ 
+ 
+ 
+ 
+ 
+
+
+--- Page 78 ---
+CUMULATIVE DISTRIBUTED ENERGY RESOURCES (DER) IMPACTS by REVENUE CLASS (Year  = Jul - Jun, perecent of Gross)
+ 
+YEAR     
+(JUL-JUN)
+CALENDAR DATE
+EE
+PV
+EV
+SUM 
+EE
+PV
+EV
+SUM
+EE
+PV
+EV
+SUM
+EE
+PV
+EV
+SUM
+2010
+July 1, 2009 - June 30 2010
+0.0%
+0.0%
+0.0%
+0.0%
+-0.1%
+0.0%
+0.0%
+-0.1%
+-0.1%
+0.0%
+0.0%
+-0.1%
+-0.1%
+0.0%
+0.0%
+-0.1%
+2011
+July 1, 2010 - June 30 2011
+-0.1%
+-0.1%
+0.0%
+-0.2%
+-0.7%
+0.0%
+0.0%
+-0.7%
+-0.7%
+0.0%
+0.0%
+-0.7%
+-0.5%
+0.0%
+0.0%
+-0.5%
+2012
+July 1, 2011 - June 30 2012
+-0.4%
+-0.1%
+0.0%
+-0.5%
+-1.7%
+-0.1%
+0.0%
+-1.8%
+-1.7%
+-0.1%
+0.0%
+-1.8%
+-1.2%
+-0.1%
+0.0%
+-1.3%
+2013
+July 1, 2012 - June 30 2013
+-0.7%
+-0.1%
+0.0%
+-0.8%
+-2.4%
+-0.1%
+0.0%
+-2.5%
+-2.3%
+-0.1%
+0.0%
+-2.4%
+-1.8%
+-0.1%
+0.0%
+-1.9%
+2014
+July 1, 2013 - June 30 2014
+-0.9%
+-0.2%
+0.0%
+-1.1%
+-3.1%
+-0.2%
+0.0%
+-3.3%
+-2.9%
+-0.2%
+0.0%
+-3.1%
+-2.3%
+-0.2%
+0.0%
+-2.5%
+2015
+July 1, 2014 - June 30 2015
+-1.4%
+-0.4%
+0.1%
+-1.7%
+-3.9%
+-0.3%
+0.0%
+-4.2%
+-3.7%
+-0.3%
+0.0%
+-4.0%
+-3.0%
+-0.4%
+0.0%
+-3.3%
+2016
+July 1, 2015 - June 30 2016
+-2.3%
+-0.8%
+0.1%
+-3.0%
+-4.8%
+-0.5%
+0.0%
+-5.2%
+-4.5%
+-0.5%
+0.0%
+-4.9%
+-3.9%
+-0.6%
+0.0%
+-4.4%
+2017
+July 1, 2016 - June 30 2017
+-3.3%
+-1.1%
+0.1%
+-4.2%
+-5.6%
+-0.7%
+0.0%
+-6.3%
+-5.4%
+-0.7%
+0.0%
+-6.1%
+-4.7%
+-0.8%
+0.0%
+-5.5%
+2018
+July 1, 2017 - June 30 2018
+-4.2%
+-1.2%
+0.1%
+-5.3%
+-6.2%
+-1.1%
+0.0%
+-7.3%
+-5.6%
+-1.1%
+0.0%
+-6.6%
+-5.3%
+-1.1%
+0.1%
+-6.4%
+2019
+July 1, 2018 - June 30 2019
+-5.2%
+-1.4%
+0.2%
+-6.4%
+-6.9%
+-1.6%
+0.0%
+-8.5%
+-6.5%
+-1.6%
+0.0%
+-8.1%
+-6.2%
+-1.5%
+0.1%
+-7.7%
+2020
+July 1, 2019 - June 30 2020
+-6.4%
+-1.5%
+0.3%
+-7.7%
+-7.7%
+-2.0%
+0.0%
+-9.7%
+-7.6%
+-2.1%
+0.0%
+-9.7%
+-7.3%
+-1.9%
+0.1%
+-9.0%
+2021
+July 1, 2020 - June 30 2021
+-7.4%
+-1.7%
+0.3%
+-8.8%
+-8.7%
+-2.7%
+0.0%
+-11.4%
+-9.0%
+-2.9%
+0.0%
+-11.8%
+-8.3%
+-2.4%
+0.1%
+-10.6%
+2022
+July 1, 2021 - June 30 2022
+-8.4%
+-2.0%
+0.4%
+-10.0%
+-9.5%
+9.5%
+0.0%
+-9.5%
+-9.5%
+-3.7%
+0.0%
+-13.1%
+-9.1%
+-1.8%
+0.2%
+-10.7%
+2023
+July 1, 2022 - June 30 2023
+-9.4%
+-2.3%
+0.5%
+-11.2%
+-10.2%
+-4.4%
+0.1%
+-14.5%
+-9.9%
+-4.4%
+0.1%
+-14.2%
+-9.8%
+-3.7%
+0.2%
+-13.3%
+2024
+July 1, 2023 - June 30 2024
+-10.5%
+-2.6%
+0.6%
+-12.5%
+-11.0%
+-5.2%
+0.1%
+-16.1%
+-10.6%
+-5.1%
+0.1%
+-15.6%
+-10.7%
+-4.3%
+0.2%
+-14.7%
+2025
+July 1, 2024 - June 30 2025
+-11.8%
+-2.9%
+0.7%
+-14.0%
+-12.0%
+-5.9%
+0.1%
+-17.9%
+-11.6%
+-5.9%
+0.1%
+-17.3%
+-11.8%
+-4.9%
+0.3%
+-16.4%
+2026
+July 1, 2025 - June 30 2026
+-13.2%
+-3.1%
+0.8%
+-15.5%
+-13.2%
+-6.7%
+0.1%
+-19.8%
+-12.7%
+-6.6%
+0.1%
+-19.2%
+-13.0%
+-5.4%
+0.3%
+-18.1%
+ 
+Notes:
+Rate Year:   July 1, 2021 to June 30, 2022 
+Data Year 1: July 1, 2022 to June 30, 2023
+Data Year 2: July 1, 2023 to June 30, 2024
+Exhibit__(JFG-10)
+Page 1 of 1
+RESIDENTIAL
+COMMERCIAL
+INDUSTRIAL
+TOTAL
+Exhibit__ (JFG)-10 
+           Page 1 of 1
+
+
+--- Page 79 ---
+Testimony of Joseph F. Gredder 
+ 
+ 
+ 
+ 
+ 
+ 
+ 
+Exhibit__ (JFG-11) 
+Revenue Class Allocation to Rate Classes (GWh) 
+ 
+ 
+ 
+ 
+ 
+ 
+ 
+ 
+ 
+ 
+ 
+ 
+ 
+ 
+ 
+
+
+--- Page 80 ---
+Exhibit__(JFG-11)
+REVENUE CLASS ALLOCATION to RATE CLASSES (GWh)
+Rate Classes
+Revenue Class
+SC1
+SC1C
+SC2nd
+SC2d
+SC3
+SC3A
+SC4
+SC7
+SC11_12
+NYPA_R_E
+NYPA_RNY
+NYPA_HLF
+NYPA_PP
+Total
+Residential
+0.97
+            
+0.03
+            
+0.00
+            
+0.00
+            
+-
+              
+-
+              
+-
+              
+-
+              
+-
+              
+-
+              
+-
+              
+-
+              
+-
+              
+1.00
+            
+Commercial
+0.00
+            
+-
+              
+0.05
+            
+0.33
+            
+0.44
+            
+0.16
+            
+0.00
+            
+0.01
+            
+-
+              
+-
+              
+-
+              
+-
+              
+-
+              
+1.00
+            
+Industrial
+-
+              
+-
+              
+0.00
+            
+0.01
+            
+0.08
+            
+0.42
+            
+0.06
+            
+0.01
+            
+0.00
+            
+0.28
+            
+0.13
+            
+0.01
+            
+0.00
+            
+1.00
+            
+Page 1 of 1
+Exhibit_(JFG-11)
+          Page 1 of 1
+
+
+--- Page 81 ---
+Testimony of Joseph F. Gredder 
+ 
+ 
+ 
+ 
+ 
+ 
+ 
+Exhibit__ (JFG-12) 
+Revenue Class Allocation to Rate Classes  
+(Customer Counts) 
+ 
+ 
+ 
+ 
+ 
+ 
+ 
+ 
+ 
+ 
+ 
+ 
+ 
+ 
+
+
+--- Page 82 ---
+Exhibit__(JFG-12)
+REVENUE CLASS ALLOCATION to RATE CLASSES (Customer Counts)
+Rate Classes
+Revenue Class
+SC1
+SC1C
+SC2nd
+SC2d
+SC3
+SC3A
+SC4
+SC7
+SC11_12
+NYPA_R_E
+NYPA_RNY
+NYPA_HLF
+NYPA_PP
+Total
+Residential
+0.99
+            
+0.00
+            
+0.00
+            
+0.00
+            
+-
+              
+-
+              
+-
+              
+-
+              
+-
+              
+-
+              
+-
+              
+-
+              
+-
+              
+1.00
+            
+Commercial
+0.00
+            
+-
+              
+0.66
+            
+0.28
+            
+0.02
+            
+0.00
+            
+0.00
+            
+0.00
+            
+-
+              
+-
+              
+-
+              
+-
+              
+-
+              
+1.00
+            
+Industrial
+-
+              
+-
+              
+0.25
+            
+0.30
+            
+0.31
+            
+0.07
+            
+0.06
+            
+0.00
+            
+0.00
+            
+-
+              
+-
+              
+-
+              
+-
+              
+1.00
+            
+Page 1 of 1
+Exhibit__ (JFG)-12 
+            Page 1 of 1
+
+
+--- Page 83 ---
+Testimony of Joseph F. Gredder 
+ 
+ 
+ 
+ 
+ 
+ 
+ 
+Exhibit__ (JFG-13) 
+Deliveries Forecast by Rate Class  
+(with weather-adjusted historicals) 
+ 
+ 
+ 
+ 
+ 
+ 
+ 
+ 
+ 
+ 
+ 
+ 
+ 
+ 
+
+
+--- Page 84 ---
+Exhibit__(JFG-13)
+DELIVERIES FORECAST by RATE CLASS (Year: Jul - Jun, GWH)
+(Historicals: Weather-Normal,  Projections: Weather-Normal )
+AFTER IMPACTS FOR DERS
+ 
+YEAR     
+(JUL-JUN)
+CALENDAR DATE
+SC1
+SC1C
+SC2ND
+SC2D
+SC3
+SC3A
+SC4
+SC7
+SC11_12
+NYPA R&E
+NYPA RNY
+NYPA HLF
+NYPA PP
+NYPA St Lawrence
+SUM
+2010
+July 1, 2009 - June 30 2010
+11,117
+    
+369
+            
+628
+     
+4,349
+  
+6,278
+  
+4,240
+  
+423
+        
+372
+         
+1,340
+  
+3,509
+   
+-
+            
+-
+       
+-
+        
+346
+     
+32,972
+       
+2011
+July 1, 2010 - June 30 2011
+11,065
+    
+-0.5%
+349
+            
+-5.6%
+636
+     
+1.3%
+4,323
+  
+-0.6%
+6,319
+  
+0.6%
+4,503
+  
+6.2%
+632
+        
+49.2%
+323
+         
+-13.0%
+1,036
+  
+-22.7%
+3,742
+   
+6.6%
+-
+            
+-
+       
+-
+        
+398
+     
+15.2%
+33,327
+       
+1.1%
+2012
+July 1, 2011 - June 30 2012
+11,229
+    
+1.5%
+330
+            
+-5.3%
+623
+     
+-2.1%
+4,233
+  
+-2.1%
+6,249
+  
+-1.1%
+4,633
+  
+2.9%
+579
+        
+-8.4%
+240
+         
+-25.8%
+579
+     
+-44.1%
+3,931
+   
+5.0%
+-
+            
+32
+        
+1.1
+        
+303
+     
+-23.9%
+32,963
+       
+-1.1%
+2013
+July 1, 2012 - June 30 2013
+11,253
+    
+0.2%
+324
+            
+-1.9%
+649
+     
+4.1%
+4,267
+  
+0.8%
+6,356
+  
+1.7%
+4,775
+  
+3.1%
+486
+        
+-16.0%
+155
+         
+-35.3%
+296
+     
+-49.0%
+3,528
+   
+-10.3%
+1,146
+        
+116
+      
+6.0
+        
+1
+         
+-99.5%
+33,360
+       
+1.2%
+2014
+July 1, 2013 - June 30 2014
+11,327
+    
+0.7%
+332
+            
+2.5%
+642
+     
+-1.0%
+4,308
+  
+0.9%
+6,497
+  
+2.2%
+4,772
+  
+-0.1%
+627
+        
+28.9%
+187
+         
+20.6%
+258
+     
+-12.7%
+3,754
+   
+6.4%
+1,404
+        
+22.5%
+101
+      
+-13.2%
+7.2
+        
+19.9%
+-
+      
+-100.0%
+34,217
+       
+2.6%
+2015
+July 1, 2014 - June 30 2015
+11,114
+    
+-1.9%
+329
+            
+-0.9%
+624
+     
+-2.9%
+4,293
+  
+-0.4%
+6,488
+  
+-0.2%
+4,788
+  
+0.3%
+627
+        
+0.0%
+205
+         
+9.6%
+283
+     
+9.7%
+3,633
+   
+-3.2%
+1,490
+        
+6.1%
+103
+      
+1.5%
+8.1
+        
+12.2%
+-
+      
+33,982
+       
+-0.7%
+2016
+July 1, 2015 - June 30 2016
+11,168
+    
+0.5%
+320
+            
+-2.7%
+617
+     
+-1.1%
+4,269
+  
+-0.6%
+6,432
+  
+-0.9%
+4,676
+  
+-2.3%
+631
+        
+0.6%
+197
+         
+-4.0%
+297
+     
+5.0%
+3,531
+   
+-2.8%
+1,579
+        
+6.0%
+116
+      
+13.0%
+17.7
+      
+118.5%
+-
+      
+33,849
+       
+-0.4%
+2017
+July 1, 2016 - June 30 2017
+11,104
+    
+-0.6%
+312
+            
+-2.5%
+623
+     
+1.1%
+4,212
+  
+-1.3%
+6,378
+  
+-0.8%
+4,844
+  
+3.6%
+691
+        
+9.6%
+302
+         
+53.2%
+313
+     
+5.3%
+2,993
+   
+-15.2%
+1,482
+        
+-6.1%
+109
+      
+-6.4%
+9.0
+        
+-49.0%
+-
+      
+33,372
+       
+-1.4%
+2018
+July 1, 2017 - June 30 2018
+11,212
+    
+1.0%
+311
+            
+-0.5%
+645
+     
+3.5%
+4,252
+  
+1.0%
+6,494
+  
+1.8%
+6,038
+  
+24.6%
+763
+        
+10.4%
+202
+         
+-33.0%
+302
+     
+-3.4%
+2,849
+   
+-4.8%
+1,589
+        
+7.2%
+112
+      
+3.4%
+8.2
+        
+-9.2%
+-
+      
+34,777
+       
+4.2%
+2019
+July 1, 2018 - June 30 2019
+11,204
+    
+-0.1%
+297
+            
+-4.4%
+650
+     
+0.8%
+4,187
+  
+-1.5%
+6,397
+  
+-1.5%
+6,129
+  
+1.5%
+724
+        
+-5.2%
+198
+         
+-2.2%
+5
+         
+-98.3%
+2,806
+   
+-1.5%
+1,353
+        
+-14.8%
+78
+        
+-30.6%
+12.7
+      
+54.8%
+-
+      
+34,040
+       
+-2.1%
+2020
+July 1, 2019 - June 30 2020
+11,312
+    
+1.0%
+292
+            
+-1.8%
+638
+     
+-1.9%
+4,032
+  
+-3.7%
+6,246
+  
+-2.4%
+5,840
+  
+-4.7%
+605
+        
+-16.4%
+177
+         
+-10.4%
+6
+         
+9.7%
+2,681
+   
+-4.5%
+1,176
+        
+-13.1%
+127
+      
+63.4%
+20.1
+      
+58.6%
+-
+      
+33,152
+       
+-2.6%
+2021
+July 1, 2020 - June 30 2021
+11,267
+    
+-0.4%
+289
+            
+-0.9%
+627
+     
+-1.7%
+3,846
+  
+-4.6%
+5,936
+  
+-5.0%
+5,450
+  
+-6.7%
+575
+        
+-4.9%
+162
+         
+-8.7%
+5
+         
+-2.3%
+2,389
+   
+-10.9%
+1,107
+        
+-5.9%
+104
+      
+-18.4%
+18.2
+      
+-9.2%
+-
+      
+31,775
+       
+-4.2%
+2022
+July 1, 2021 - June 30 2022
+11,122
+    
+-1.3%
+286
+            
+-1.3%
+616
+     
+-1.9%
+3,775
+  
+-1.8%
+5,855
+  
+-1.4%
+5,487
+  
+0.7%
+587
+        
+2.0%
+160
+         
+-0.8%
+6
+         
+2.0%
+2,438
+   
+2.0%
+1,129
+        
+2.0%
+106
+      
+2.0%
+18.6
+      
+2.0%
+-
+      
+31,586
+       
+-0.6%
+2023
+July 1, 2022 - June 30 2023
+11,117
+    
+0.0%
+285
+            
+0.0%
+619
+     
+0.5%
+3,796
+  
+0.6%
+5,914
+  
+1.0%
+5,647
+  
+2.9%
+611
+        
+4.1%
+163
+         
+1.6%
+6
+         
+4.1%
+2,539
+   
+4.1%
+1,176
+        
+4.1%
+110
+      
+4.1%
+19.4
+      
+4.1%
+-
+      
+32,002
+       
+1.3%
+2024
+July 1, 2023 - June 30 2024
+11,066
+    
+-0.5%
+284
+            
+-0.5%
+616
+     
+-0.5%
+3,779
+  
+-0.5%
+5,901
+  
+-0.2%
+5,691
+  
+0.8%
+619
+        
+1.4%
+163
+         
+0.1%
+6
+         
+1.4%
+2,574
+   
+1.4%
+1,192
+        
+1.4%
+112
+      
+1.4%
+19.6
+      
+1.4%
+-
+      
+32,022
+       
+0.1%
+2025
+July 1, 2024 - June 30 2025
+10,967
+    
+-0.9%
+282
+            
+-0.9%
+606
+     
+-1.5%
+3,720
+  
+-1.6%
+5,811
+  
+-1.5%
+5,614
+  
+-1.3%
+612
+        
+-1.2%
+161
+         
+-1.5%
+6
+         
+-1.2%
+2,542
+   
+-1.2%
+1,177
+        
+-1.2%
+111
+      
+-1.2%
+19.4
+      
+-1.2%
+-
+      
+31,627
+       
+-1.2%
+2026
+July 1, 2025 - June 30 2026
+10,822
+    
+-1.3%
+278
+            
+-1.3%
+594
+     
+-2.0%
+3,644
+  
+-2.1%
+5,693
+  
+-2.0%
+5,505
+  
+-1.9%
+600
+        
+-1.9%
+157
+         
+-2.0%
+6
+         
+-1.9%
+2,494
+   
+-1.9%
+1,155
+        
+-1.9%
+108
+      
+-1.9%
+19.0
+      
+-1.9%
+-
+      
+31,075
+       
+-1.7%
+ 
+ 
+Average Annual Growth Rates:
+2010 to 2020 Ten-Year
+0.2%
+-2.3%
+0.2%
+-0.8%
+-0.1%
+3.3%
+3.6%
+-7.1%
+-42.2%
+-2.7%
+-100.0%
+0.1%
+Page 1 of 1
+Exhibit__ (JFG)-13 
+           Page 1 of 1
+
+
+--- Page 85 ---
+Testimony of Joseph F. Gredder 
+ 
+ 
+ 
+ 
+ 
+ 
+ 
+Exhibit__ (JFG-14) 
+Customer Count Forecast by Rate Class 
+ 
+ 
+ 
+ 
+ 
+ 
+ 
+ 
+ 
+ 
+ 
+ 
+ 
+ 
+ 
+
+
+--- Page 86 ---
+ 
+CUSTOMER COUNT FORECAST by RATE CLASS (Year: Jul - Jun, GWh)
+ 
+YEAR         
+(JUL-JUN)
+CALENDAR DATE
+SC1
+SC1C
+SC2ND
+SC2D
+SC3
+SC3A
+SC4
+SC7
+SC11_12
+SUM
+2010
+July 1, 2009 - June 30 2010
+1,443,437
+      
+6,786
+       
+108,492
+      
+48,733
+      
+4,449
+       
+206
+            
+77
+           
+51
+          
+103
+          
+1,612,334
+         
+2011
+July 1, 2010 - June 30 2011
+1,448,010
+      
+0.3%
+6,613
+       
+-2.5%
+109,060
+      
+0.5%
+48,556
+      
+-0.4%
+4,426
+       
+-0.5%
+212
+            
+2.7%
+81
+           
+5.4%
+44
+          
+-12.9%
+80
+            
+-22.6%
+1,617,083
+         
+0.3%
+2012
+July 1, 2011 - June 30 2012
+1,451,154
+      
+0.2%
+-
+           
+-100.0%
+109,429
+      
+0.3%
+48,555
+      
+0.0%
+4,431
+       
+0.1%
+215
+            
+1.5%
+73
+           
+-10.6%
+42
+          
+-4.3%
+49
+            
+-39.2%
+1,613,948
+         
+-0.2%
+2013
+July 1, 2012 - June 30 2013
+1,455,653
+      
+0.3%
+-
+           
+#DIV/0!
+110,571
+      
+1.0%
+48,234
+      
+-0.7%
+4,454
+       
+0.5%
+219
+            
+2.0%
+79
+           
+8.4%
+37
+          
+-13.1%
+22
+            
+-54.9%
+1,619,269
+         
+0.3%
+2014
+July 1, 2013 - June 30 2014
+1,459,600
+      
+0.3%
+6,155
+       
+#DIV/0!
+110,568
+      
+0.0%
+48,872
+      
+1.3%
+4,501
+       
+1.1%
+208
+            
+-5.0%
+94
+           
+19.2%
+39
+          
+6.1%
+8
+              
+-62.0%
+1,630,046
+         
+0.7%
+2015
+July 1, 2014 - June 30 2015
+1,462,842
+      
+0.2%
+5,936
+       
+-3.6%
+110,941
+      
+0.3%
+49,115
+      
+0.5%
+4,523
+       
+0.5%
+201
+            
+-3.5%
+96
+           
+2.4%
+38
+          
+-1.7%
+8
+              
+-10.1%
+1,633,699
+         
+0.2%
+2016
+July 1, 2015 - June 30 2016
+1,470,011
+      
+0.5%
+5,818
+       
+-2.0%
+112,215
+      
+1.1%
+49,063
+      
+-0.1%
+4,542
+       
+0.4%
+196
+            
+-2.3%
+94
+           
+-2.6%
+37
+          
+-2.6%
+6
+              
+-20.0%
+1,641,983
+         
+0.5%
+2017
+July 1, 2016 - June 30 2017
+1,479,487
+      
+0.6%
+5,678
+       
+-2.4%
+113,874
+      
+1.5%
+49,192
+      
+0.3%
+4,571
+       
+0.6%
+193
+            
+-1.8%
+95
+           
+1.8%
+37
+          
+-2.0%
+6
+              
+0.0%
+1,653,132
+         
+0.7%
+2018
+July 1, 2017 - June 30 2018
+1,487,689
+      
+0.6%
+5,497
+       
+-3.2%
+115,726
+      
+1.6%
+49,174
+      
+0.0%
+4,575
+       
+0.1%
+181
+            
+-5.8%
+97
+           
+1.7%
+37
+          
+2.0%
+6
+              
+-4.3%
+1,662,982
+         
+0.6%
+2019
+July 1, 2018 - June 30 2019
+1,495,490
+      
+0.5%
+5,346
+       
+-2.7%
+117,054
+      
+1.1%
+49,639
+      
+0.9%
+4,571
+       
+-0.1%
+188
+            
+3.6%
+100
+         
+3.2%
+36
+          
+-3.7%
+4
+              
+-30.3%
+1,672,428
+         
+0.6%
+2020
+July 1, 2019 - June 30 2020
+1,500,679
+      
+0.3%
+5,225
+       
+-2.3%
+118,593
+      
+1.3%
+49,597
+      
+-0.1%
+4,577
+       
+0.1%
+182
+            
+-3.1%
+104
+         
+3.8%
+35
+          
+-3.3%
+4
+              
+-9.2%
+1,678,995
+         
+0.4%
+2021
+July 1, 2020 - June 30 2021
+1,508,140
+      
+0.5%
+5,260
+       
+0.7%
+117,061
+      
+-1.3%
+48,970
+      
+-1.3%
+4,521
+       
+-1.2%
+181
+            
+-0.6%
+103
+         
+-1.2%
+34
+          
+-1.6%
+4
+              
+-2.0%
+1,684,274
+         
+0.3%
+2022
+July 1, 2021 - June 30 2022
+1,515,830
+      
+0.5%
+5,287
+       
+0.5%
+115,464
+      
+-1.4%
+48,285
+      
+-1.4%
+4,457
+       
+-1.4%
+178
+            
+-1.5%
+101
+         
+-1.5%
+34
+          
+-1.4%
+4
+              
+-1.5%
+1,689,639
+         
+0.3%
+2023
+July 1, 2022 - June 30 2023
+1,523,329
+      
+0.5%
+5,313
+       
+0.5%
+115,600
+      
+0.1%
+48,334
+      
+0.1%
+4,456
+       
+0.0%
+177
+            
+-0.7%
+100
+         
+-1.3%
+34
+          
+-0.1%
+3
+              
+-1.3%
+1,697,346
+         
+0.5%
+2024
+July 1, 2023 - June 30 2024
+1,530,750
+      
+0.5%
+5,339
+       
+0.5%
+116,035
+      
+0.4%
+48,510
+      
+0.4%
+4,466
+       
+0.2%
+176
+            
+-0.5%
+99
+           
+-1.1%
+34
+          
+0.1%
+3
+              
+-1.2%
+1,705,412
+         
+0.5%
+2025
+July 1, 2024 - June 30 2025
+1,538,139
+      
+0.5%
+5,364
+       
+0.5%
+116,453
+      
+0.4%
+48,680
+      
+0.4%
+4,475
+       
+0.2%
+175
+            
+-0.5%
+98
+           
+-1.1%
+34
+          
+0.1%
+3
+              
+-1.1%
+1,713,422
+         
+0.5%
+2026
+July 1, 2025 - June 30 2026
+1,545,514
+      
+0.5%
+5,390
+       
+0.5%
+116,838
+      
+0.3%
+48,836
+      
+0.3%
+4,484
+       
+0.2%
+174
+            
+-0.5%
+97
+           
+-1.1%
+34
+          
+0.1%
+3
+              
+-1.1%
+1,721,370
+         
+0.5%
+Average Annual Growth Rates:
+2010 to 2020 Ten-Year
+0.4%
+-2.6%
+0.9%
+0.2%
+0.3%
+-1.2%
+3.0%
+-3.7%
+-28.4%
+0.4%
+0.5%
+-2.5%
+1.3%
+0.2%
+0.2%
+-1.9%
+1.5%
+-2.0%
+-13.5%
+0.5%
+0.5%
+0.6%
+-1.3%
+-1.3%
+-1.3%
+-1.0%
+-1.4%
+-1.5%
+-1.8%
+0.3%
+Exhibit__(JFG-14)
+Page 1 of 1
+2014 to 2020 Five-Year
+2020 to 2022 Two-Year
+Exhibit__ (JFG)-14 
+Page 1 of 1
+
+
+--- Page 87 ---
+Testimony of Joseph F. Gredder 
+ 
+ 
+ 
+ 
+ 
+ 
+ 
+Exhibit__ (JFG-15) 
+Upstate New York Economic Indicators (Peak Forecast) 
+ 
+ 
+ 
+ 
+ 
+ 
+ 
+ 
+ 
+ 
+ 
+ 
+ 
+ 
+ 
+
+
+--- Page 88 ---
+UPSTATE NEW YORK ECONOMIC INDICATORS (Peak Forecast)
+YEAR
+CALENDAR 
+JULY-JUNE
+DATE
+2010
+July 1, 2009 - June 30 2010
+39,265.3
+1.076
+      
+1,955.6
+1,783.4
+172.2
+241.3
+1,818.2
+2011
+July 1, 2010 - June 30 2011
+39,991.6
+1.8%
+1.077
+      
+0.2%
+1,966.8
+0.6%
+1,792.5
+0.5%
+174.3
+1.2%
+244.4
+1.3%
+1,825.8
+0.4%
+2012
+July 1, 2011 - June 30 2012
+40,209.1
+0.5%
+1.085
+      
+0.7%
+1,990.3
+1.2%
+1,813.9
+1.2%
+176.5
+1.2%
+246.5
+0.9%
+1,835.2
+0.5%
+2013
+July 1, 2012 - June 30 2013
+40,605.7
+1.0%
+1.086
+      
+0.2%
+2,002.7
+0.6%
+1,825.5
+0.6%
+177.2
+0.4%
+246.6
+0.0%
+1,843.3
+0.4%
+2014
+July 1, 2013 - June 30 2014
+40,688.3
+0.2%
+1.088
+      
+0.1%
+2,015.0
+0.6%
+1,836.7
+0.6%
+178.3
+0.6%
+248.1
+0.6%
+1,852.4
+0.5%
+2015
+July 1, 2014 - June 30 2015
+42,136.8
+3.6%
+1.086
+      
+-0.1%
+2,018.6
+0.2%
+1,839.5
+0.1%
+179.1
+0.5%
+254.4
+2.5%
+1,858.4
+0.3%
+2016
+July 1, 2015 - June 30 2016
+43,103.8
+2.3%
+1.091
+      
+0.4%
+2,032.5
+0.7%
+1,852.3
+0.7%
+180.2
+0.6%
+255.2
+0.3%
+1,863.1
+0.3%
+2017
+July 1, 2016 - June 30 2017
+43,908.5
+1.9%
+1.096
+      
+0.5%
+2,049.7
+0.8%
+1,869.5
+0.9%
+180.2
+0.0%
+258.2
+1.2%
+1,870.1
+0.4%
+2018
+July 1, 2017 - June 30 2018
+45,022.8
+2.5%
+1.099
+      
+0.3%
+2,062.2
+0.6%
+1,881.7
+0.7%
+180.5
+0.2%
+261.1
+1.1%
+1,876.4
+0.3%
+2019
+July 1, 2018 - June 30 2019
+45,681.5
+1.5%
+1.106
+      
+0.6%
+2,077.6
+0.7%
+1,896.7
+0.8%
+180.9
+0.2%
+263.6
+1.0%
+1,878.7
+0.1%
+2020
+July 1, 2019 - June 30 2020
+46,443.6
+1.7%
+1.107
+      
+0.1%
+2,087.4
+0.5%
+1,909.3
+0.7%
+178.1
+-1.5%
+267.8
+1.6%
+1,885.9
+0.4%
+2021
+July 1, 2020 - June 30 2021
+46,654.1
+0.5%
+1.105
+      
+-0.2%
+2,089.0
+0.1%
+1,913.4
+0.2%
+175.6
+-1.4%
+270.0
+0.8%
+1,890.3
+0.2%
+2022
+July 1, 2021 - June 30 2022
+47,268.6
+1.3%
+1.104
+      
+-0.1%
+2,093.3
+0.2%
+1,919.8
+0.3%
+173.4
+-1.3%
+275.1
+1.9%
+1,895.5
+0.3%
+2023
+July 1, 2022 - June 30 2023
+47,978.7
+1.5%
+1.104
+      
+-0.1%
+2,098.5
+0.3%
+1,927.4
+0.4%
+171.2
+-1.3%
+280.3
+1.9%
+1,901.5
+0.3%
+2024
+July 1, 2023 - June 30 2024
+48,476.0
+1.0%
+1.102
+      
+-0.1%
+2,101.9
+0.2%
+1,933.1
+0.3%
+168.8
+-1.4%
+284.5
+1.5%
+1,906.5
+0.3%
+2025
+July 1, 2024- June 30 2025
+48,932.5
+0.9%
+1.102
+      
+-0.1%
+2,105.5
+0.2%
+1,938.9
+0.3%
+166.6
+-1.3%
+288.1
+1.3%
+1,911.3
+0.2%
+2026
+July 1, 2025 - June 30 2026
+49,410.6
+1.0%
+1.101
+      
+0.0%
+2,108.6
+0.1%
+1,944.2
+0.3%
+164.4
+-1.3%
+291.5
+1.2%
+1,914.9
+0.2%
+Average Annual Growth Rates:
+2010 to 2020 Ten-Year
+1.7%
+0.3%
+0.7%
+0.7%
+0.3%
+1.0%
+0.4%
+2014 to 2020 Five-Year
+2.0%
+0.4%
+0.7%
+0.7%
+-0.1%
+1.0%
+0.3%
+2020 to 2022 Two-Year
+0.9%
+-0.1%
+0.1%
+0.3%
+-1.3%
+1.3%
+0.3%
+2020 to 2025 Five-Year
+1.0%
+-0.1%
+0.2%
+0.3%
+-1.3%
+1.5%
+0.3%
+Notes:
+* Employment used in this metric is total employment
+Years prior to 2020 are actuals
+Rate Year: July 1, 2021 to June 30, 2022
+Data Year 1: July 1, 2022 to June 30, 2023
+Data Year 2: July 1, 2023 to June 30, 2024
+Test Year
+46,218
+    
+1.107
+      
+2,084
+      
+1,904
+      
+179.6
+      
+266
+         
+1,882.1
+   
+Growth
+Test Year to Rate Year
+2.3%
+-0.3%
+0.4%
+0.8%
+-3.4%
+3.3%
+0.7%
+Test Year:     Calendar Year 2019
+Rate Year: 
+July 1, 2021 to June 30, 2022
+PER CAPITA
+EMPLOYMENT * 
+EMPLOYMENT
+EMPLOYMENT
+MANUFACTURING
+GROSS
+HOUSEHOLDS
+ 
+(000, $2012)
+ 
+(000)
+(000)
+(000)
+($Billions, $2012)
+(000)
+INCOME
+PER HOUSEHOLD
+TOTAL
+NON-MANUFACTURING
+EMPLOYMENT
+PRODUCT
+Test Year and the Comparion between Rate Year and Test Year
+PER CAPITA
+EMPLOYMENT * 
+EMPLOYMENT
+EMPLOYMENT
+MANUFACTURING
+GROSS
+HOUSEHOLDS
+ 
+(000, $2012)
+ 
+(000)
+(000)
+(000)
+($Billions, $2012)
+(000)
+INCOME
+PER HOUSEHOLD
+TOTAL
+NON-MANUFACTURING
+EMPLOYMENT
+PRODUCT
+Exhibit__ (JFG)-15 
+           Page 1 of 1
+
+
+--- Page 89 ---
+Testimony of Joseph F. Gredder 
+ 
+ 
+ 
+ 
+ 
+ 
+ 
+Exhibit__ (JFG-16) 
+Peak Forecast, Gross 
+ 
+ 
+ 
+ 
+ 
+ 
+ 
+ 
+ 
+ 
+ 
+ 
+ 
+ 
+ 
+
+
+--- Page 90 ---
+PEAK FORECAST
+"GROSS", BEFORE IMPACTS OF DERS
+YEAR
+2009
+6,465
+           
+6,658
+           
+7,031
+           
+7,142
+           
+2010
+6,974
+           
+7.9%
+6,741
+           
+1.2%
+7,027
+           
+-0.1%
+7,108
+           
+-0.5%
+2011
+7,225
+           
+3.6%
+6,771
+           
+0.4%
+7,057
+           
+0.4%
+7,138
+           
+0.4%
+2012
+7,050
+           
+-2.4%
+6,853
+           
+1.2%
+7,154
+           
+1.4%
+7,240
+           
+1.4%
+2013
+7,234
+           
+2.6%
+6,933
+           
+1.2%
+7,223
+           
+1.0%
+7,305
+           
+0.9%
+2014
+6,622
+           
+-8.5%
+6,989
+           
+0.8%
+7,275
+           
+0.7%
+7,356
+           
+0.7%
+2015
+6,879
+           
+3.9%
+7,073
+           
+1.2%
+7,359
+           
+1.2%
+7,440
+           
+1.1%
+2016
+7,089
+           
+3.1%
+7,139
+           
+0.9%
+7,424
+           
+0.9%
+7,505
+           
+0.9%
+2017
+6,437
+           
+-9.2%
+7,162
+           
+0.3%
+7,447
+           
+0.3%
+7,528
+           
+0.3%
+2018
+7,276
+           
+13.0%
+7,207
+           
+0.6%
+7,498
+           
+0.7%
+7,580
+           
+0.7%
+2019
+6,859
+           
+-5.7%
+7,171
+           
+-0.5%
+7,485
+           
+-0.2%
+7,574
+           
+-0.1%
+2020
+7,241
+           
+1.0%
+7,545
+           
+0.8%
+7,630
+           
+0.8%
+2021
+7,269
+           
+0.4%
+7,573
+           
+0.4%
+7,658
+           
+0.4%
+2022
+7,316
+           
+0.6%
+7,618
+           
+0.6%
+7,703
+           
+0.6%
+2023
+7,355
+           
+0.5%
+7,657
+           
+0.5%
+7,742
+           
+0.5%
+2024
+7,391
+           
+0.5%
+7,692
+           
+0.5%
+7,777
+           
+0.5%
+2025
+7,422
+           
+0.4%
+7,723
+           
+0.4%
+7,807
+           
+0.4%
+2026
+7,443
+           
+0.3%
+7,743
+           
+0.3%
+7,828
+           
+0.3%
+Average Annual Growth Rates:
+2009 to 2019 Ten-Year
+0.6%
+0.7%
+0.6%
+0.6%
+0.7%
+0.5%
+0.6%
+0.6%
+0.7%
+0.6%
+0.6%
+0.6%
+0.5%
+0.5%
+Exhibit__(JFG-16)
+Page 1 of 1
+ACTUAL
+NORMAL (50/50)
+EXTREME (90/10)
+EXTREME (95/5)
+2014 to 2019 Five-Year
+2019 to 2021 Two-Year
+2019 to 2024 Five-Year
+ 
+
+
+--- Page 91 ---
+Testimony of Joseph F. Gredder 
+ 
+ 
+ 
+ 
+ 
+ 
+ 
+Exhibit__ (JFG-17) 
+Peak Forecast, Net 
+ 
+ 
+ 
+ 
+ 
+ 
+ 
+ 
+ 
+ 
+ 
+ 
+ 
+ 
+ 
+
+
+--- Page 92 ---
+ 
+ 
+ 
+Exhibit__(JFG-17)
+Page 1 of 1
+PEAK FORECAST
+"NET", AFTER THE IMPACTS OF DERS
+YEAR
+2009
+6,437
+           
+6,630
+           
+7,004
+           
+7,114
+           
+2010
+6,943
+           
+7.9%
+6,709
+           
+1.2%
+6,995
+           
+-0.1%
+7,076
+           
+-0.5%
+2011
+7,149
+           
+3.0%
+6,695
+           
+-0.2%
+6,981
+           
+-0.2%
+7,062
+           
+-0.2%
+2012
+6,931
+           
+-3.0%
+6,735
+           
+0.6%
+7,036
+           
+0.8%
+7,121
+           
+0.8%
+2013
+7,077
+           
+2.1%
+6,776
+           
+0.6%
+7,066
+           
+0.4%
+7,148
+           
+0.4%
+2014
+6,428
+           
+-9.2%
+6,795
+           
+0.3%
+7,081
+           
+0.2%
+7,162
+           
+0.2%
+2015
+6,643
+           
+3.3%
+6,837
+           
+0.6%
+7,123
+           
+0.6%
+7,204
+           
+0.6%
+2016
+6,809
+           
+2.5%
+6,859
+           
+0.3%
+7,145
+           
+0.3%
+7,225
+           
+0.3%
+2017
+6,105
+           
+-10.3%
+6,829
+           
+-0.4%
+7,114
+           
+-0.4%
+7,195
+           
+-0.4%
+2018
+6,867
+           
+12.5%
+6,797
+           
+-0.5%
+7,088
+           
+-0.4%
+7,171
+           
+-0.3%
+2019
+6,396
+           
+-6.9%
+6,708
+           
+-1.3%
+7,022
+           
+-0.9%
+7,111
+           
+-0.8%
+2020
+-
+               
+6,710
+           
+0.0%
+7,014
+           
+-0.1%
+7,099
+           
+-0.2%
+2021
+-
+               
+6,651
+           
+-0.9%
+6,955
+           
+-0.8%
+7,041
+           
+-0.8%
+2022
+-
+               
+6,606
+           
+-0.7%
+6,908
+           
+-0.7%
+6,993
+           
+-0.7%
+2023
+-
+               
+6,548
+           
+-0.9%
+6,850
+           
+-0.8%
+6,935
+           
+-0.8%
+2024
+-
+               
+6,485
+           
+-1.0%
+6,786
+           
+-0.9%
+6,870
+           
+-0.9%
+2025
+-
+               
+6,412
+           
+-1.1%
+6,713
+           
+-1.1%
+6,798
+           
+-1.1%
+2026
+-
+               
+6,336
+           
+-1.2%
+6,637
+           
+-1.1%
+6,721
+           
+-1.1%
+Average Annual Growth Rates:
+2009 to 2019 Ten-Year
+-0.1%
+0.1%
+0.0%
+0.0%
+-0.1%
+-0.3%
+-0.2%
+-0.1%
+-0.4%
+-0.5%
+-0.5%
+-0.7%
+-0.7%
+-0.7%
+2019 to 2021 Two-Year
+2019 to 2024 Five-Year
+ 
+ACTUAL
+NORMAL (50/50)
+EXTREME (90/10)
+EXTREME (95/5)
+2014 to 2019 Five-Year
+
+
+--- Page 93 ---
+Testimony of Joseph F. Gredder 
+ 
+ 
+ 
+ 
+ 
+ 
+ 
+Exhibit__ (JFG-18) 
+Cumulative Distributed Energy Resources (DER) Impacts (MW) 
+ 
+ 
+ 
+ 
+ 
+ 
+ 
+ 
+ 
+ 
+ 
+ 
+ 
+ 
+ 
+
+
+--- Page 94 ---
+CUMULATIVE DISTRIBUTED ENERGY RESOURCES (DER) IMPACTS  (MW)
+ 
+YEAR
+EE
+PV
+EV
+DR
+ES
+SUM
+2009
+(27.0)
+(0.9)
+0.0
+0.0
+0.0
+(27.9)
+2010
+(29.5)
+(2.2)
+0.0
+0.0
+0.0
+(31.6)
+2011
+(71.9)
+(4.1)
+0.1
+0.0
+0.0
+(75.9)
+2012
+(112.1)
+(6.9)
+0.5
+0.0
+0.0
+(118.5)
+2013
+(145.5)
+(12.2)
+0.7
+0.0
+0.0
+(157.0)
+2014
+(174.5)
+(20.8)
+1.5
+0.0
+0.0
+(193.8)
+2015
+(204.7)
+(33.1)
+1.8
+0.0
+0.0
+(236.0)
+2016
+(227.0)
+(48.3)
+2.0
+(6.4)
+0.0
+(279.6)
+2017
+(256.7)
+(71.2)
+3.2
+(7.8)
+0.0
+(332.5)
+2018
+(295.2)
+(97.9)
+4.8
+(21.3)
+0.0
+(409.6)
+2019
+(335.0)
+(112.6)
+6.3
+(20.1)
+(0.9)
+(462.4)
+2020
+(370.8)
+(144.0)
+8.1
+(22.0)
+(2.6)
+(531.2)
+2021
+(406.5)
+(187.3)
+10.1
+(24.0)
+(10.0)
+(617.7)
+2022
+(445.6)
+(230.6)
+12.4
+(25.8)
+(20.3)
+(709.9)
+2023
+(489.8)
+(273.9)
+14.9
+(27.6)
+(30.7)
+(807.1)
+2024
+(538.8)
+(315.0)
+17.7
+(29.4)
+(41.0)
+(906.6)
+2025
+(593.5)
+(354.1)
+20.7
+(31.3)
+(51.4)
+(1,009.5)
+2026
+(645.5)
+(391.2)
+24.0
+(33.1)
+(61.2)
+(1,106.9)
+Exhibit__(JFG-18)
+Page 1 of 1
+ 
+ 
+
+
+--- Page 95 ---
+Testimony of Joseph F. Gredder 
+ 
+ 
+ 
+ 
+ 
+ 
+ 
+Exhibit__ (JFG-19) 
+Cumulative Distributed Energy Resources (DER)  
+Impacts (percent of gross) 
+ 
+ 
+ 
+ 
+ 
+ 
+ 
+ 
+ 
+ 
+ 
+ 
+ 
+ 
+
+
+--- Page 96 ---
+CUMULATIVE DISTRIBUTED ENERGY RESOURCES (DER) IMPACTS  (PERCENT OF GROSS, 50/50)
+ 
+YEAR
+EE
+PV
+EV
+DR
+ES
+SUM
+2009
+-0.4%
+0.0%
+0.0%
+0.0%
+0.0%
+-0.4%
+2010
+-0.4%
+0.0%
+0.0%
+0.0%
+0.0%
+-0.5%
+2011
+-1.1%
+-0.1%
+0.0%
+0.0%
+0.0%
+-1.1%
+2012
+-1.6%
+-0.1%
+0.0%
+0.0%
+0.0%
+-1.7%
+2013
+-2.1%
+-0.2%
+0.0%
+0.0%
+0.0%
+-2.3%
+2014
+-2.5%
+-0.3%
+0.0%
+0.0%
+0.0%
+-2.8%
+2015
+-2.9%
+-0.5%
+0.0%
+0.0%
+0.0%
+-3.3%
+2016
+-3.2%
+-0.7%
+0.0%
+-0.1%
+0.0%
+-3.9%
+2017
+-3.6%
+-1.0%
+0.0%
+-0.1%
+0.0%
+-4.6%
+2018
+-4.1%
+-1.4%
+0.1%
+-0.3%
+0.0%
+-5.7%
+2019
+-4.7%
+-1.6%
+0.1%
+-0.3%
+0.0%
+-6.4%
+2020
+-5.1%
+-2.0%
+0.1%
+-0.3%
+0.0%
+-7.3%
+2021
+-5.6%
+-2.6%
+0.1%
+-0.3%
+-0.1%
+-8.5%
+2022
+-6.1%
+-3.2%
+0.2%
+-0.4%
+-0.3%
+-9.7%
+2023
+-6.7%
+-3.7%
+0.2%
+-0.4%
+-0.4%
+-11.0%
+2024
+-7.3%
+-4.3%
+0.2%
+-0.4%
+-0.6%
+-12.3%
+2025
+-8.0%
+-4.8%
+0.3%
+-0.4%
+-0.7%
+-13.6%
+2026
+-8.7%
+-5.3%
+0.3%
+-0.4%
+-0.8%
+-14.9%
+Exhibit__(JFG-19)
+Page 1 of 1
+ 
+ 
+
+
+--- Page 97 ---
+Testimony of Joseph F. Gredder 
+ 
+ 
+ 
+ 
+ 
+ 
+ 
+Exhibit__ (JFG-20) 
+Annual Weighted Temperature – Humidity Index (WTHI)  
+and Temp_Max 
+ 
+ 
+ 
+ 
+ 
+ 
+ 
+ 
+ 
+ 
+ 
+ 
+ 
+ 
+
+
+--- Page 98 ---
+EXHIBIT_(JFG-20)
+Page 1 of 1
+ANNUAL WEIGHTED TEMPERATURE - 
+HUMIDITY INDEX (WTHI) AND TEMP_MAX
+(Actual and 50/90/95)
+YEAR
+WTHI
+TEMP_MAX
+2000
+78.3
+                       
+85.9
+                          
+2001
+81.2
+                       
+90.7
+                          
+2002
+80.9
+                       
+91.6
+                          
+2003
+79.5
+                       
+89.9
+                          
+2004
+78.7
+                       
+88.1
+                          
+2005
+80.6
+                       
+91.5
+                          
+2006
+82.4
+                       
+92.0
+                          
+2007
+80.6
+                       
+92.6
+                          
+2008
+80.6
+                       
+91.7
+                          
+2009
+79.7
+                       
+89.8
+                          
+2010
+81.8
+                       
+92.3
+                          
+2011
+83.0
+                       
+95.3
+                          
+2012
+81.3
+                       
+94.1
+                          
+2013
+82.2
+                       
+92.0
+                          
+2014
+79.7
+                       
+88.7
+                          
+2015
+80.0
+                       
+90.0
+                          
+2016
+80.3
+                       
+90.5
+                          
+2017
+79.7
+                       
+89.9
+                          
+2018
+80.9
+                       
+91.9
+                          
+2019
+79.7
+                       
+88.5
+                          
+50/50
+80.6
+                       
+90.9
+                          
+90/10
+82.1
+                       
+93.6
+                          
+95/5
+82.5
+                       
+94.4
+                          
+
+
+--- Page 99 ---
+Testimony of Joseph F. Gredder 
+ 
+ 
+ 
+ 
+ 
+ 
+ 
+Exhibit__ (JFG-21) 
+Cumulative Distributed Energy Resources (DER) 
+ 
+ 
+ 
+ 
+ 
+ 
+ 
+ 
+ 
+ 
+ 
+ 
+ 
+ 
+ 
+
+
+--- Page 100 ---
+ 
+Exhibit__(JFG-21)
+Page 1 of 1
+Energy 
+Efficiency
+Energy 
+Efficiency
+Solar - PV
+Electric 
+Vehicles
+Demand 
+Response 
+(non-SCR)
+Energy 
+Storage
+Year
+(Peak MW 
+Impact)
+(Annual GWh 
+Impact)
+(Connected 
+MW (AC))
+(Number of 
+Vehicles)
+(Peak MW 
+Impact)
+(Peak MW 
+Impact)
+2010
+29.5
+              
+144.4
+            
+8.6
+                
+27
+               
+-
+             
+-
+             
+2011
+71.9
+              
+417.3
+            
+16.3
+              
+122
+             
+-
+             
+-
+             
+2012
+112.1
+            
+604.7
+            
+27.5
+              
+762
+             
+-
+             
+-
+             
+2013
+145.5
+            
+796.2
+            
+48.8
+              
+1,248
+          
+-
+             
+-
+             
+2014
+174.5
+            
+1,027.0
+         
+83.3
+              
+2,548
+          
+-
+             
+-
+             
+2015
+204.7
+            
+1,353.4
+         
+132.5
+            
+2,978
+          
+-
+             
+-
+             
+2016
+227.0
+            
+1,666.2
+         
+193.0
+            
+3,360
+          
+7.5
+              
+-
+             
+2017
+256.7
+            
+1,971.0
+         
+284.6
+            
+5,317
+          
+9.2
+              
+-
+             
+2018
+295.2
+            
+2,280.3
+         
+391.5
+            
+8,033
+          
+25.1
+            
+-
+             
+2019
+335.0
+            
+2,639.2
+         
+450.5
+            
+10,459
+        
+23.7
+            
+1.0
+              
+2020
+370.8
+            
+2,926.6
+         
+576.0
+            
+13,431
+        
+25.9
+            
+3.0
+              
+2021
+406.5
+            
+3,249.2
+         
+749.1
+            
+16,815
+        
+28.2
+            
+11.8
+            
+2022
+445.6
+            
+3,601.0
+         
+922.3
+            
+20,617
+        
+30.4
+            
+23.9
+            
+2023
+489.8
+            
+3,999.9
+         
+1,095.5
+         
+24,838
+        
+32.5
+            
+36.1
+            
+2024
+538.8
+            
+4,441.8
+         
+1,260.0
+         
+29,477
+        
+34.6
+            
+48.3
+            
+2025
+593.5
+            
+4,935.2
+         
+1,416.2
+         
+34,535
+        
+36.8
+            
+60.5
+            
+CUMULATIVE DISTRIBUTED ENERGY RESOURCES (DER)
+
+
+--- Page 101 ---
+Testimony of Joseph F. Gredder 
+ 
+ 
+ 
+ 
+ 
+ 
+ 
+Exhibit__ (JFG-22) 
+Photovoltaic (PV) Energy Impacts 
+ 
+ 
+ 
+ 
+ 
+ 
+ 
+ 
+ 
+ 
+ 
+ 
+ 
+ 
+ 
+
+
+--- Page 102 ---
+Exhibit__(JFG-22)
+Page 1 of 1
+PHOTOVOLTAIC - SOLAR  (PV) ENERGY IMPACTS
+Month
+PV Monthly Capacity Factor
+1
+0.10
+2
+0.14
+3
+0.18
+4
+0.21
+5
+0.22
+6
+0.22
+7
+0.23
+8
+0.21
+9
+0.18
+10
+0.13
+11
+0.10
+12
+0.08
+
+
+--- Page 103 ---
+Testimony of Joseph F. Gredder 
+ 
+ 
+ 
+ 
+ 
+ 
+ 
+Exhibit__ (JFG-23) 
+Photovoltaic (PV) Energy Impacts Calculation 
+ 
+ 
+ 
+ 
+ 
+ 
+ 
+ 
+ 
+ 
+ 
+ 
+ 
+ 
+ 
+
+
+--- Page 104 ---
+Exhibit__(JFG-23)
+Page 1 of 1
+PHOTOVOLTAIC - SOLAR (PV) ENERGY IMPACTS CALCULATION
+Month
+Day
+Hour
+AC System Output_ Zone A
+AC System Output_ Zone B
+AC System AC System AC System AC System Output_ Zone F
+Month
+Number of Zone A
+Zone B
+Zone C
+Zone D
+Zone E
+Zone F
+AC Nameplate
+Month
+AVG
+1
+1
+1
+-
+                                               
+-
+                                               
+-
+           
+-
+           
+-
+           
+-
+           
+1
+744
+0.091
+0.091
+0.092
+0.108
+0.101
+0.114
+3330
+1
+0.10
+1
+1
+2
+-
+                                               
+-
+                                               
+-
+           
+-
+           
+-
+           
+-
+           
+2
+672
+0.127
+0.133
+0.128
+0.156
+0.129
+0.159
+2
+0.14
+1
+1
+3
+-
+                                               
+-
+                                               
+-
+           
+-
+           
+-
+           
+-
+           
+3
+744
+0.175
+0.176
+0.167
+0.192
+0.177
+0.187
+3
+0.18
+1
+1
+4
+-
+                                               
+-
+                                               
+-
+           
+-
+           
+-
+           
+-
+           
+4
+720
+0.215
+0.208
+0.198
+0.214
+0.195
+0.204
+4
+0.21
+1
+1
+5
+-
+                                               
+-
+                                               
+-
+           
+-
+           
+-
+           
+-
+           
+5
+744
+0.229
+0.226
+0.220
+0.221
+0.215
+0.210
+5
+0.22
+1
+1
+6
+-
+                                               
+-
+                                               
+-
+           
+-
+           
+-
+           
+-
+           
+6
+720
+0.229
+0.232
+0.218
+0.215
+0.208
+0.206
+6
+0.22
+1
+1
+7
+-
+                                               
+-
+                                               
+-
+           
+-
+           
+-
+           
+-
+           
+7
+744
+0.242
+0.232
+0.217
+0.217
+0.217
+0.233
+7
+0.23
+1
+1
+8
+-
+                                               
+-
+                                               
+-
+           
+-
+           
+-
+           
+-
+           
+8
+744
+0.218
+0.211
+0.203
+0.209
+0.198
+0.215
+8
+0.21
+1
+1
+9
+590
+                                              
+86
+                                                
+715
+          
+670
+          
+-
+           
+60
+            
+9
+720
+0.187
+0.182
+0.178
+0.187
+0.184
+0.180
+9
+0.18
+1
+1
+10
+677
+                                              
+33
+                                                
+311
+          
+1,410
+       
+52
+            
+156
+          
+10
+744
+0.128
+0.128
+0.127
+0.119
+0.128
+0.140
+10
+0.13
+1
+1
+11
+2,023
+                                           
+829
+                                              
+2,091
+       
+1,835
+       
+113
+          
+242
+          
+11
+720
+0.097
+0.097
+0.096
+0.102
+0.098
+0.114
+11
+0.10
+1
+1
+12
+1,358
+                                           
+947
+                                              
+2,464
+       
+1,370
+       
+286
+          
+106
+          
+12
+744
+0.071
+0.072
+0.079
+0.075
+0.074
+0.091
+12
+0.08
+1
+1
+13
+1,950
+                                           
+1,288
+                                           
+2,550
+       
+1,361
+       
+300
+          
+547
+          
+1
+1
+14
+1,392
+                                           
+1,113
+                                           
+2,363
+       
+336
+          
+131
+          
+383
+          
+1
+1
+15
+531
+                                              
+657
+                                              
+1,880
+       
+154
+          
+434
+          
+263
+          
+1
+1
+16
+209
+                                              
+58
+                                                
+1,111
+       
+671
+          
+256
+          
+103
+          
+1
+1
+17
+13
+                                                
+-
+                                               
+206
+          
+-
+           
+-
+           
+-
+           
+1
+1
+18
+-
+                                               
+-
+                                               
+-
+           
+-
+           
+-
+           
+-
+           
+1
+1
+19
+-
+                                               
+-
+                                               
+-
+           
+-
+           
+-
+           
+-
+           
+1
+1
+20
+-
+                                               
+-
+                                               
+-
+           
+-
+           
+-
+           
+-
+           
+1
+1
+21
+-
+                                               
+-
+                                               
+-
+           
+-
+           
+-
+           
+-
+           
+1
+1
+22
+-
+                                               
+-
+                                               
+-
+           
+-
+           
+-
+           
+-
+           
+1
+1
+23
+-
+                                               
+-
+                                               
+-
+           
+-
+           
+-
+           
+-
+           
+1
+1
+24
+-
+                                               
+-
+                                               
+-
+           
+-
+           
+-
+           
+-
+           
+Average Monthly CF
+Source Data from PVWatts
+Derived Monthly CF for each Zone
+Step One: calculate the total 
+monthly AC output as a 
+percentage of the AC 
+nameplate output
+Step Two: take the average
+across the 6 zones
+Exhibit__ (JFG)-23 
+Page 1 of 1
+
+
+--- Page 105 ---
+Testimony of Joseph F. Gredder 
+ 
+ 
+ 
+ 
+ 
+ 
+ 
+Exhibit__ (JFG-24) 
+Photovoltaic (PV) Peak Impacts 
+ 
+ 
+ 
+ 
+ 
+ 
+ 
+ 
+ 
+ 
+ 
+ 
+ 
+ 
+ 
+
+
+--- Page 106 ---
+Exhibit__(JFG-24)
+Page 1 of 1
+PHOTOVOLTAIC - SOLAR (PV) PEAK IMPACTS
+Month
+HE17
+HE18
+1
+0.02
+0.00
+2
+0.13
+0.00
+3
+0.24
+0.06
+4
+0.29
+0.10
+5
+0.32
+0.16
+6
+0.35
+0.19
+7
+0.39
+0.20
+Summer Peak Impact = 
+0.25
+8
+0.29
+0.13
+9
+0.23
+0.05
+10
+0.08
+0.00
+11
+0.00
+0.00
+12
+0.00
+0.00
+
+
+--- Page 107 ---
+Testimony of Joseph F. Gredder 
+ 
+ 
+ 
+ 
+ 
+ 
+ 
+Exhibit__ (JFG-25) 
+Photovoltaic (PV) Peak Impacts Calculation 
+ 
+ 
+ 
+ 
+ 
+ 
+ 
+ 
+ 
+ 
+ 
+ 
+ 
+ 
+ 
+
+
+--- Page 108 ---
+Exhibit__(JFG-25)
+Page 1 of 1
+PHOTOVOLTAIC - SOLAR  (PV) PEAK IMPACT CALCULATION
+Month
+Day
+Hour
+AC System AC System AC System AC System AC System AC System Output_ Zone F
+CF_ Zone ACF_ Zone CF_ Zone CCF_ Zone CF_ Zone CF_ Zone F
+AC Nameplate
+Month
+Hour
+Zone A
+Zone B
+Zone C
+Zone D
+Zone E
+Zone F
+Month
+Hour
+AVG
+1
+1
+1
+-
+           
+-
+           
+-
+           
+-
+           
+-
+           
+-
+           
+-
+        
+-
+        
+-
+        
+-
+        
+-
+        
+-
+        
+3300
+1
+1
+0.00
+0.00
+0.00
+0.00
+0.00
+0.00
+1
+1
+0.00
+1
+1
+2
+-
+           
+-
+           
+-
+           
+-
+           
+-
+           
+-
+           
+-
+        
+-
+        
+-
+        
+-
+        
+-
+        
+-
+        
+1
+2
+0.00
+0.00
+0.00
+0.00
+0.00
+0.00
+1
+2
+0.00
+1
+1
+3
+-
+           
+-
+           
+-
+           
+-
+           
+-
+           
+-
+           
+-
+        
+-
+        
+-
+        
+-
+        
+-
+        
+-
+        
+1
+3
+0.00
+0.00
+0.00
+0.00
+0.00
+0.00
+1
+3
+0.00
+1
+1
+4
+-
+           
+-
+           
+-
+           
+-
+           
+-
+           
+-
+           
+-
+        
+-
+        
+-
+        
+-
+        
+-
+        
+-
+        
+1
+4
+0.00
+0.00
+0.00
+0.00
+0.00
+0.00
+1
+4
+0.00
+1
+1
+5
+-
+           
+-
+           
+-
+           
+-
+           
+-
+           
+-
+           
+-
+        
+-
+        
+-
+        
+-
+        
+-
+        
+-
+        
+1
+5
+0.00
+0.00
+0.00
+0.00
+0.00
+0.00
+1
+5
+0.00
+1
+1
+6
+-
+           
+-
+           
+-
+           
+-
+           
+-
+           
+-
+           
+-
+        
+-
+        
+-
+        
+-
+        
+-
+        
+-
+        
+1
+6
+0.00
+0.00
+0.00
+0.00
+0.00
+0.00
+1
+6
+0.00
+1
+1
+7
+-
+           
+-
+           
+-
+           
+-
+           
+-
+           
+-
+           
+-
+        
+-
+        
+-
+        
+-
+        
+-
+        
+-
+        
+1
+7
+0.00
+0.00
+0.00
+0.00
+0.00
+0.00
+1
+7
+0.00
+1
+1
+8
+-
+           
+-
+           
+-
+           
+-
+           
+-
+           
+-
+           
+-
+        
+-
+        
+-
+        
+-
+        
+-
+        
+-
+        
+1
+8
+0.00
+0.00
+0.00
+0.00
+0.00
+0.00
+1
+8
+0.00
+1
+1
+9
+589.9
+       
+85.8
+         
+714.9
+       
+669.9
+       
+-
+           
+59.7
+         
+0.2
+         
+0.0
+         
+0.2
+         
+0.2
+         
+-
+        
+0.0
+         
+1
+9
+0.04
+0.05
+0.09
+0.11
+0.05
+0.20
+1
+9
+0.09
+1
+1
+10
+677.3
+       
+33.4
+         
+311.3
+       
+1,410.4
+    
+51.7
+         
+156.5
+       
+0.2
+         
+0.0
+         
+0.1
+         
+0.4
+         
+0.0
+         
+0.0
+         
+1
+10
+0.19
+0.18
+0.17
+0.31
+0.13
+0.35
+1
+10
+0.22
+1
+1
+11
+2,022.7
+    
+829.4
+       
+2,090.8
+    
+1,834.7
+    
+112.7
+       
+242.2
+       
+0.6
+         
+0.3
+         
+0.6
+         
+0.6
+         
+0.0
+         
+0.1
+         
+1
+11
+0.29
+0.27
+0.24
+0.40
+0.33
+0.46
+1
+11
+0.33
+1
+1
+12
+1,358.0
+    
+947.3
+       
+2,464.3
+    
+1,369.7
+    
+286.2
+       
+105.8
+       
+0.4
+         
+0.3
+         
+0.7
+         
+0.4
+         
+0.1
+         
+0.0
+         
+1
+12
+0.31
+0.30
+0.30
+0.54
+0.36
+0.50
+1
+12
+0.38
+1
+1
+13
+1,949.6
+    
+1,287.6
+    
+2,550.4
+    
+1,361.1
+    
+300.3
+       
+547.0
+       
+0.6
+         
+0.4
+         
+0.8
+         
+0.4
+         
+0.1
+         
+0.2
+         
+1
+13
+0.31
+0.35
+0.32
+0.48
+0.32
+0.49
+1
+13
+0.38
+1
+1
+14
+1,391.5
+    
+1,112.7
+    
+2,362.7
+    
+336.4
+       
+130.6
+       
+383.5
+       
+0.4
+         
+0.3
+         
+0.7
+         
+0.1
+         
+0.0
+         
+0.1
+         
+1
+14
+0.35
+0.34
+0.22
+0.40
+0.34
+0.39
+1
+14
+0.34
+1
+1
+15
+531.3
+       
+657.0
+       
+1,879.8
+    
+154.5
+       
+434.2
+       
+262.8
+       
+0.2
+         
+0.2
+         
+0.6
+         
+0.0
+         
+0.1
+         
+0.1
+         
+1
+15
+0.23
+0.35
+0.23
+0.22
+0.19
+0.37
+1
+15
+0.27
+1
+1
+16
+208.8
+       
+58.2
+         
+1,110.9
+    
+671.0
+       
+256.3
+       
+102.7
+       
+0.1
+         
+0.0
+         
+0.3
+         
+0.2
+         
+0.1
+         
+0.0
+         
+1
+16
+0.14
+0.17
+0.13
+0.17
+0.14
+0.26
+1
+16
+0.17
+1
+1
+17
+13.1
+         
+-
+           
+205.6
+       
+-
+           
+-
+           
+-
+           
+0.0
+         
+-
+        
+0.1
+         
+-
+        
+-
+        
+-
+        
+1
+17
+0.04
+0.04
+0.03
+0.00
+0.02
+0.01
+1
+17
+0.02
+1
+1
+18
+-
+           
+-
+           
+-
+           
+-
+           
+-
+           
+-
+           
+-
+        
+-
+        
+-
+        
+-
+        
+-
+        
+-
+        
+1
+18
+0.00
+0.00
+0.00
+0.00
+0.00
+0.00
+1
+18
+0.00
+1
+1
+19
+-
+           
+-
+           
+-
+           
+-
+           
+-
+           
+-
+           
+-
+        
+-
+        
+-
+        
+-
+        
+-
+        
+-
+        
+1
+19
+0.00
+0.00
+0.00
+0.00
+0.00
+0.00
+1
+19
+0.00
+1
+1
+20
+-
+           
+-
+           
+-
+           
+-
+           
+-
+           
+-
+           
+-
+        
+-
+        
+-
+        
+-
+        
+-
+        
+-
+        
+1
+20
+0.00
+0.00
+0.00
+0.00
+0.00
+0.00
+1
+20
+0.00
+1
+1
+21
+-
+           
+-
+           
+-
+           
+-
+           
+-
+           
+-
+           
+-
+        
+-
+        
+-
+        
+-
+        
+-
+        
+-
+        
+1
+21
+0.00
+0.00
+0.00
+0.00
+0.00
+0.00
+1
+21
+0.00
+1
+1
+22
+-
+           
+-
+           
+-
+           
+-
+           
+-
+           
+-
+           
+-
+        
+-
+        
+-
+        
+-
+        
+-
+        
+-
+        
+1
+22
+0.00
+0.00
+0.00
+0.00
+0.00
+0.00
+1
+22
+0.00
+1
+1
+23
+-
+           
+-
+           
+-
+           
+-
+           
+-
+           
+-
+           
+-
+        
+-
+        
+-
+        
+-
+        
+-
+        
+-
+        
+1
+23
+0.00
+0.00
+0.00
+0.00
+0.00
+0.00
+1
+23
+0.00
+1
+1
+24
+-
+           
+-
+           
+-
+           
+-
+           
+-
+           
+-
+           
+-
+        
+-
+        
+-
+        
+-
+        
+-
+        
+-
+        
+1
+24
+0.00
+0.00
+0.00
+0.00
+0.00
+0.00
+1
+24
+0.00
+Source Data from PVWatts
+Derived Hourly CF for each Zone
+Derived Hourly Typical CF by Month for each Zone
+Average Hourly Typical CF by Month
+Step One: calculate each 
+hour's output as a 
+percentage of the 
+nameplate value
+Step Two: derive a typical 
+24-hour profile for each 
+month
+Step Three: take the 
+average across the 6 zones
+Exhibit__ (JFG)-25 
+Page 1 of 1
+
+
+--- Page 109 ---
+Testimony of Joseph F. Gredder 
+ 
+ 
+ 
+ 
+ 
+ 
+ 
+Exhibit__ (JFG-26) 
+Electric Vehicles (EV) Energy Impacts 
+ 
+ 
+ 
+ 
+ 
+ 
+ 
+ 
+ 
+ 
+ 
+ 
+ 
+ 
+ 
+
+
+--- Page 110 ---
+Exhibit__(JFG-26)
+Page 1 of 1
+Source: Update on the 2020 Transportation Electrification Forecast by ISO-NE, Nov2019 (Page 25)
+Month
+# of days
+AVG kWh/dAVG kWh/dMonthly Energy / EV (kWh)
+1
+31
+12.1
+11.4
+354
+2
+28
+11.4
+10.8
+301
+3
+31
+11.5
+10.8
+336
+4
+30
+10.8
+10.2
+306
+5
+31
+10.1
+9.5
+295
+6
+30
+9.2
+8.7
+260
+7
+31
+8.4
+7.9
+246
+8
+31
+9
+8.5
+263
+9
+30
+9.4
+8.9
+266
+10
+31
+10.9
+10.3
+319
+11
+30
+11.3
+10.7
+320
+12
+31
+11.2
+10.6
+328
+Total: 
+3594
+ELECTRIC VEHICLES (EV) ENERGY  IMPACTS
+
+
+--- Page 111 ---
+Testimony of Joseph F. Gredder 
+ 
+ 
+ 
+ 
+ 
+ 
+ 
+Exhibit__ (JFG-27) 
+Electric Vehicles (EV) Charging Assumptions 
+ 
+ 
+ 
+ 
+ 
+ 
+ 
+ 
+ 
+ 
+ 
+ 
+ 
+ 
+ 
+
+
+--- Page 112 ---
+Exhibit__(JFG-27)
+Page 1 of 1
+Electricity consumed [4] (AC MwH)
+%
+Resi-Level 2
+14630.4
+83.4%
+Pvt-Non-Resi-Level2
+561.0
+3.2%
+Public_Level2
+1751.9
+10.0%
+DC Fast
+609.3
+3.5%
+17552.58
+Total
+Source: EV Project Electric Vehicle Charging Infrastructure Summary Report, Department of Energy, 2013 
+(Sheet 2, titled EV Project Electric Vehicle Charging Infrastructure Summary Report, row 12 Electricity 
+consumed (AC MWh)
+ELECTRIC VEHICLES (EV) CHARGING ASSUMPTIONS
+
+
+--- Page 113 ---
+Testimony of Joseph F. Gredder 
+ 
+ 
+ 
+ 
+ 
+ 
+ 
+Exhibit__ (JFG-28) 
+Electric Vehicles (EV) Peak Impacts 
+ 
+ 
+ 
+ 
+ 
+ 
+ 
+ 
+ 
+ 
+ 
+ 
+ 
+ 
+ 
+
+
+--- Page 114 ---
+Exhibit__(JFG-28)
+Page 1 of 1
+PHOTOVOLTAICS - SOLAR (PV) PEAK IMPACTS
+Source: Update on the 2020 Transportation Electrification Forecast by ISO-NE, Nov2019 (Page 22)
+Hour
+July
+Aug
+1
+0.46
+0.51
+2
+0.33
+0.32
+3
+0.3
+0.24
+4
+0.24
+0.2
+5
+0.21
+0.17
+6
+0.21
+0.19
+7
+0.21
+0.23
+8
+0.31
+0.34
+9
+0.46
+0.5
+10
+0.55
+0.56
+11
+0.51
+0.51
+12
+0.43
+0.48
+13
+0.4
+0.47
+14
+0.39
+0.44
+15
+0.39
+0.47
+16
+0.38
+0.45
+17
+0.47
+0.47
+18
+0.66
+0.59
+19
+0.74
+0.74
+20
+0.75
+0.79
+21
+0.72
+0.79
+22
+0.74
+0.8
+23
+0.72
+0.75
+24
+0.68
+0.75
+Peak Impact (kw/EV)
+
+
+--- Page 115 ---
+Testimony of Joseph F. Gredder 
+ 
+ 
+ 
+ 
+ 
+ 
+ 
+Exhibit__ (JFG-29) 
+Regression Models, Energy Deliveries Models 
+ 
+ 
+ 
+ 
+ 
+ 
+ 
+ 
+ 
+ 
+ 
+ 
+ 
+ 
+ 
+
+
+--- Page 116 ---
+Model: NIMO ELECTRIC RESIDENTIAL USE per CUST, recon Method (Est.Period: Jan2003 to may20
+20:49 Wednesday, June 3, 2020
+4
+The AUTOREG Procedure
+Model: NIMO ELECTRIC RESIDENTIAL USE per CUST, recon Method (Est.Period: Jan2003 to may20
+20:49 Wednesday, June 3, 2020
+4
+The AUTOREG Procedure
+Dependent Variable
+u_10_r_recon
+Exhibit__(JFG-29)
+         Page 1 of 26 
+
+
+--- Page 117 ---
+Model: NIMO ELECTRIC RESIDENTIAL USE per CUST, recon Method (Est.Period: Jan2003 to may20
+20:49 Wednesday, June 3, 2020
+5
+The AUTOREG Procedure
+Model: NIMO ELECTRIC RESIDENTIAL USE per CUST, recon Method (Est.Period: Jan2003 to may20
+20:49 Wednesday, June 3, 2020
+5
+The AUTOREG Procedure
+Ordinary Least Squares Estimates
+SSE
+91274.6481
+DFE
+200
+MSE
+456.37324
+Root MSE
+21.36289
+SBC
+1911.76978
+AIC
+1881.68877
+MAE
+16.0756993
+AICC
+1882.5933
+MAPE
+2.4379085
+HQC
+1893.8507
+Durbin-Watson
+1.6629
+Total R-Square
+0.9424
+Parameter Estimates
+Variable
+DF
+Estimate
+Standard
+Error
+t Value
+Approx
+Pr > |t|
+Variable
+Label
+Intercept
+1
+-184.9079
+49.8416
+-3.71
+0.0003
+IDX_PCI
+1
+2.0475
+0.2054
+9.97
+<.0001
+idx_PCI
+hdd_season
+1
+-87.5078
+7.0756
+-12.37
+<.0001
+cdd_season*cdd_10
+1
+1.0045
+0.0296
+33.96
+<.0001
+hdd_season*hdd_10
+1
+0.2523
+0.006153
+41.00
+<.0001
+bdays
+1
+17.5960
+1.5571
+11.30
+<.0001
+jan03
+1
+-66.7843
+22.2150
+-3.01
+0.0030
+jun12
+1
+-131.9406
+21.5366
+-6.13
+<.0001
+jul12
+1
+-154.3662
+21.8049
+-7.08
+<.0001
+Estimates of Autocorrelations
+Lag
+Covariance
+Correlation
+-1 9 8 7 6 5 4 3 2 1 0 1 2 3 4 5 6 7 8 9 1
+0
+436.7
+1.000000
+|                    |********************|
+1
+70.5540
+0.161554
+|                    |***                 |
+Preliminary MSE
+425.3
+Estimates of Autoregressive
+Parameters
+Lag
+Coefficient
+Standard
+Error
+t Value
+1
+-0.161554
+0.069957
+-2.31
+Exhibit__(JFG-29)
+         Page 2 of 26 
+
+
+--- Page 118 ---
+Model: NIMO ELECTRIC RESIDENTIAL USE per CUST, recon Method (Est.Period: Jan2003 to may20
+20:49 Wednesday, June 3, 2020
+6
+The AUTOREG Procedure
+Model: NIMO ELECTRIC RESIDENTIAL USE per CUST, recon Method (Est.Period: Jan2003 to may20
+20:49 Wednesday, June 3, 2020
+6
+The AUTOREG Procedure
+Yule-Walker Estimates
+SSE
+88503.7317
+DFE
+199
+MSE
+444.74237
+Root MSE
+21.08892
+SBC
+1910.69544
+AIC
+1877.27209
+MAE
+15.6980822
+AICC
+1878.3832
+MAPE
+2.37249789
+HQC
+1890.78535
+Durbin-Watson
+1.9399
+Transformed Regression R-Square
+0.9361
+Total R-Square
+0.9441
+Parameter Estimates
+Variable
+DF
+Estimate
+Standard
+Error
+t Value
+Approx
+Pr > |t|
+Variable
+Label
+Intercept
+1
+-168.4092
+50.0344
+-3.37
+0.0009
+IDX_PCI
+1
+2.0582
+0.2409
+8.54
+<.0001
+idx_PCI
+hdd_season
+1
+-83.5705
+6.8598
+-12.18
+<.0001
+cdd_season*cdd_10
+1
+1.0111
+0.0298
+33.93
+<.0001
+hdd_season*hdd_10
+1
+0.2495
+0.006436
+38.77
+<.0001
+bdays
+1
+16.9810
+1.5189
+11.18
+<.0001
+jan03
+1
+-53.7704
+21.9100
+-2.45
+0.0150
+jun12
+1
+-132.3041
+21.2779
+-6.22
+<.0001
+jul12
+1
+-156.3773
+21.4312
+-7.30
+<.0001
+Exhibit__(JFG-29)
+         Page 3 of 26 
+
+
+--- Page 119 ---
+Model: NIMO ELECTRIC RESIDENTIAL USE per CUST, recon Method (Est.Period: Jan2003 to may20
+20:49 Wednesday, June 3, 2020
+7
+The AUTOREG Procedure
+Model: NIMO ELECTRIC RESIDENTIAL USE per CUST, recon Method (Est.Period: Jan2003 to may20
+20:49 Wednesday, June 3, 2020
+7
+The AUTOREG Procedure
+Exhibit__(JFG-29)
+         Page 4 of 26 
+
+
+--- Page 120 ---
+Model: NIMO ELECTRIC COMMERCIAL USE per CUST, recon Method (Est.Period: Jan2004 to may20
+11:05 Thursday, June 4, 2020
+4
+The AUTOREG Procedure
+Model: NIMO ELECTRIC COMMERCIAL USE per CUST, recon Method (Est.Period: Jan2004 to may20
+11:05 Thursday, June 4, 2020
+4
+The AUTOREG Procedure
+Dependent Variable
+u_10_c_recon
+Exhibit__(JFG-29)
+         Page 5 of 26 
+
+
+--- Page 121 ---
+Model: NIMO ELECTRIC COMMERCIAL USE per CUST, recon Method (Est.Period: Jan2004 to may20
+11:05 Thursday, June 4, 2020
+5
+The AUTOREG Procedure
+Model: NIMO ELECTRIC COMMERCIAL USE per CUST, recon Method (Est.Period: Jan2004 to may20
+11:05 Thursday, June 4, 2020
+5
+The AUTOREG Procedure
+Ordinary Least Squares Estimates
+SSE
+5178512.45
+DFE
+187
+MSE
+27693
+Root MSE
+166.41088
+SBC
+2616.72828
+AIC
+2583.89624
+MAE
+128.451056
+AICC
+2585.07904
+MAPE
+1.94945813
+HQC
+2597.1869
+Durbin-Watson
+2.2667
+Total R-Square
+0.8572
+Parameter Estimates
+Variable
+DF
+Estimate
+Standard
+Error
+t Value
+Approx
+Pr > |t|
+Intercept
+1
+-2863
+799.7291
+-3.58
+0.0004
+idx_empl_hh
+1
+5889
+702.3002
+8.39
+<.0001
+hdd_season
+1
+-536.6202
+57.8953
+-9.27
+<.0001
+cdd_season*cdd_10
+1
+4.2779
+0.2340
+18.28
+<.0001
+hdd_season*hdd_10
+1
+0.8010
+0.0515
+15.57
+<.0001
+bdays
+1
+107.8086
+12.8462
+8.39
+<.0001
+jan04
+1
+-948.0880
+170.2263
+-5.57
+<.0001
+feb04
+1
+687.9152
+172.4553
+3.99
+<.0001
+jun05
+1
+-664.2967
+168.7713
+-3.94
+0.0001
+may17
+1
+-468.5433
+169.0658
+-2.77
+0.0061
+Estimates of Autocorrelations
+Lag
+Covariance
+Correlation
+-1 9 8 7 6 5 4 3 2 1 0 1 2 3 4 5 6 7 8 9 1
+0
+26286.9
+1.000000
+|                    |********************|
+1
+-3561.6
+-0.135491
+|                 ***|                    |
+Preliminary MSE
+25804.3
+Estimates of Autoregressive
+Parameters
+Lag
+Coefficient
+Standard
+Error
+t Value
+1
+0.135491
+0.072647
+1.87
+Exhibit__(JFG-29)
+         Page 6 of 26 
+
+
+--- Page 122 ---
+Model: NIMO ELECTRIC COMMERCIAL USE per CUST, recon Method (Est.Period: Jan2004 to may20
+11:05 Thursday, June 4, 2020
+6
+The AUTOREG Procedure
+Model: NIMO ELECTRIC COMMERCIAL USE per CUST, recon Method (Est.Period: Jan2004 to may20
+11:05 Thursday, June 4, 2020
+6
+The AUTOREG Procedure
+Yule-Walker Estimates
+SSE
+5068659.29
+DFE
+186
+MSE
+27251
+Root MSE
+165.07833
+SBC
+2617.80604
+AIC
+2581.6908
+MAE
+128.490664
+AICC
+2583.11782
+MAPE
+1.95111322
+HQC
+2596.31051
+Durbin-Watson
+2.0720
+Transformed Regression R-Square
+0.8745
+Total R-Square
+0.8603
+Parameter Estimates
+Variable
+DF
+Estimate
+Standard
+Error
+t Value
+Approx
+Pr > |t|
+Intercept
+1
+-2610
+729.7721
+-3.58
+0.0004
+idx_empl_hh
+1
+5814
+623.9274
+9.32
+<.0001
+hdd_season
+1
+-559.2225
+57.2523
+-9.77
+<.0001
+cdd_season*cdd_10
+1
+4.2738
+0.2249
+19.00
+<.0001
+hdd_season*hdd_10
+1
+0.8216
+0.0484
+16.98
+<.0001
+bdays
+1
+102.0855
+12.6813
+8.05
+<.0001
+jan04
+1
+-939.6740
+169.9112
+-5.53
+<.0001
+feb04
+1
+639.2328
+171.1197
+3.74
+0.0002
+jun05
+1
+-613.3847
+166.0999
+-3.69
+0.0003
+may17
+1
+-427.3439
+166.2820
+-2.57
+0.0110
+Exhibit__(JFG-29)
+         Page 7 of 26 
+
+
+--- Page 123 ---
+Model: NIMO ELECTRIC COMMERCIAL USE per CUST, recon Method (Est.Period: Jan2004 to may20
+11:05 Thursday, June 4, 2020
+7
+The AUTOREG Procedure
+Model: NIMO ELECTRIC COMMERCIAL USE per CUST, recon Method (Est.Period: Jan2004 to may20
+11:05 Thursday, June 4, 2020
+7
+The AUTOREG Procedure
+Exhibit__(JFG-29)
+         Page 8 of 26 
+
+
+--- Page 124 ---
+Model: NIMO ELECTRIC INDUSTRIAL KWH, recon Method (Est.Period: Jan2012 to may20
+20:49 Wednesday, June 3, 2020
+18
+The AUTOREG Procedure
+Model: NIMO ELECTRIC INDUSTRIAL KWH, recon Method (Est.Period: Jan2012 to may20
+20:49 Wednesday, June 3, 2020
+18
+The AUTOREG Procedure
+Dependent Variable
+k_10_i_recon
+Exhibit__(JFG-29)
+         Page 9 of 26 
+
+
+--- Page 125 ---
+Model: NIMO ELECTRIC INDUSTRIAL KWH, recon Method (Est.Period: Jan2012 to may20
+20:49 Wednesday, June 3, 2020
+19
+The AUTOREG Procedure
+Model: NIMO ELECTRIC INDUSTRIAL KWH, recon Method (Est.Period: Jan2012 to may20
+20:49 Wednesday, June 3, 2020
+19
+The AUTOREG Procedure
+Ordinary Least Squares Estimates
+SSE
+171181.27
+DFE
+85
+MSE
+2014
+Root MSE
+44.87647
+SBC
+1111.43865
+AIC
+1069.59672
+MAE
+30.5065427
+AICC
+1076.07291
+MAPE
+3.57617819
+HQC
+1086.53554
+Durbin-Watson
+2.0485
+Total R-Square
+0.9559
+Parameter Estimates
+Variable
+DF
+Estimate
+Standard
+Error
+t Value
+Approx
+Pr > |t|
+Variable Label
+Intercept
+1
+-2264
+364.6787
+-6.21
+<.0001
+IDX_empl_total
+1
+31.7880
+3.7245
+8.53
+<.0001
+idx_EMPL_TOTAL
+cdd_10
+1
+0.3164
+0.0573
+5.52
+<.0001
+Upstate NY CDD
+apr12
+1
+-251.4106
+45.8177
+-5.49
+<.0001
+may12
+1
+209.0212
+45.8061
+4.56
+<.0001
+jul12
+1
+-153.9637
+47.1957
+-3.26
+0.0016
+apr14
+1
+215.8242
+45.3831
+4.76
+<.0001
+may15
+1
+-250.7719
+45.2108
+-5.55
+<.0001
+jun15
+1
+247.0764
+45.2415
+5.46
+<.0001
+may18
+1
+-1161
+45.5382
+-25.49
+<.0001
+jun18
+1
+1270
+45.5366
+27.88
+<.0001
+may19
+1
+-311.1721
+46.0010
+-6.76
+<.0001
+jun19
+1
+170.4927
+45.9017
+3.71
+0.0004
+jan20
+1
+-147.7263
+46.7507
+-3.16
+0.0022
+apr20
+1
+191.3856
+49.9518
+3.83
+0.0002
+may20
+1
+191.0418
+54.8841
+3.48
+0.0008
+Estimates of Autocorrelations
+Lag
+Covariance
+Correlation
+-1 9 8 7 6 5 4 3 2 1 0 1 2 3 4 5 6 7 8 9 1
+0
+1694.9
+1.000000
+|                    |********************|
+1
+-42.0476
+-0.024809
+|                    |                    |
+Preliminary MSE
+1693.8
+Exhibit__(JFG-29) 
+         Page 10 of 26 
+
+
+--- Page 126 ---
+Model: NIMO ELECTRIC INDUSTRIAL KWH, recon Method (Est.Period: Jan2012 to may20
+20:49 Wednesday, June 3, 2020
+20
+The AUTOREG Procedure
+Estimates of Autoregressive
+Parameters
+Lag
+Coefficient
+Standard
+Error
+t Value
+1
+0.024809
+0.109075
+0.23
+Exhibit__(JFG-29) 
+         Page 11 of 26 
+
+
+--- Page 127 ---
+Model: NIMO ELECTRIC INDUSTRIAL KWH, recon Method (Est.Period: Jan2012 to may20
+20:49 Wednesday, June 3, 2020
+21
+The AUTOREG Procedure
+Model: NIMO ELECTRIC INDUSTRIAL KWH, recon Method (Est.Period: Jan2012 to may20
+20:49 Wednesday, June 3, 2020
+21
+The AUTOREG Procedure
+Yule-Walker Estimates
+SSE
+171035.764
+DFE
+84
+MSE
+2036
+Root MSE
+45.12361
+SBC
+1115.9685
+AIC
+1071.51145
+MAE
+30.5392355
+AICC
+1078.88495
+MAPE
+3.57770966
+HQC
+1089.50894
+Durbin-Watson
+2.0060
+Transformed Regression R-Square
+0.9553
+Total R-Square
+0.9559
+Parameter Estimates
+Variable
+DF
+Estimate
+Standard
+Error
+t Value
+Approx
+Pr > |t|
+Variable Label
+Intercept
+1
+-2258
+359.7298
+-6.28
+<.0001
+IDX_empl_total
+1
+31.7274
+3.6739
+8.64
+<.0001
+idx_EMPL_TOTAL
+cdd_10
+1
+0.3168
+0.0567
+5.59
+<.0001
+Upstate NY CDD
+apr12
+1
+-252.9100
+46.0777
+-5.49
+<.0001
+may12
+1
+206.6059
+46.0615
+4.49
+<.0001
+jul12
+1
+-157.3721
+47.5438
+-3.31
+0.0014
+apr14
+1
+213.5503
+45.6476
+4.68
+<.0001
+may15
+1
+-251.2054
+45.4631
+-5.53
+<.0001
+jun15
+1
+249.6737
+45.4948
+5.49
+<.0001
+may18
+1
+-1161
+45.7943
+-25.35
+<.0001
+jun18
+1
+1271
+45.7993
+27.76
+<.0001
+may19
+1
+-311.7865
+46.2649
+-6.74
+<.0001
+jun19
+1
+172.6710
+46.1493
+3.74
+0.0003
+jan20
+1
+-148.7540
+47.0633
+-3.16
+0.0022
+apr20
+1
+192.3153
+50.1117
+3.84
+0.0002
+may20
+1
+190.4761
+54.8500
+3.47
+0.0008
+Exhibit__(JFG-29) 
+         Page 12 of 26 
+
+
+--- Page 128 ---
+Model: NIMO ELECTRIC INDUSTRIAL KWH, recon Method (Est.Period: Jan2012 to may20
+20:49 Wednesday, June 3, 2020
+22
+The AUTOREG Procedure
+Model: NIMO ELECTRIC INDUSTRIAL KWH, recon Method (Est.Period: Jan2012 to may20
+20:49 Wednesday, June 3, 2020
+22
+The AUTOREG Procedure
+Exhibit__(JFG-29) 
+         Page 13 of 26 
+
+
+--- Page 129 ---
+Model: NIMO ELECTRIC RESIDENTIAL CUSTOMER COUNT (Est.Period: Jan2015 to may20
+20:49 Wednesday, June 3, 2020
+16
+The AUTOREG Procedure
+Model: NIMO ELECTRIC RESIDENTIAL CUSTOMER COUNT (Est.Period: Jan2015 to may20
+20:49 Wednesday, June 3, 2020
+16
+The AUTOREG Procedure
+Dependent Variable
+c_10_r
+Residential Customers
+Exhibit__(JFG-29) 
+         Page 14 of 26 
+
+
+--- Page 130 ---
+Model: NIMO ELECTRIC RESIDENTIAL CUSTOMER COUNT (Est.Period: Jan2015 to may20
+20:49 Wednesday, June 3, 2020
+17
+The AUTOREG Procedure
+Model: NIMO ELECTRIC RESIDENTIAL CUSTOMER COUNT (Est.Period: Jan2015 to may20
+20:49 Wednesday, June 3, 2020
+17
+The AUTOREG Procedure
+Ordinary Least Squares Estimates
+SSE
+89865759.7
+DFE
+53
+MSE
+1695580
+Root MSE
+1302
+SBC
+1153.61828
+AIC
+1127.52563
+MAE
+994.263454
+AICC
+1133.52563
+MAPE
+0.06643367
+HQC
+1137.82085
+Durbin-Watson
+0.1111
+Total R-Square
+0.9905
+Parameter Estimates
+Variable
+DF
+Estimate
+Standard
+Error
+t Value
+Approx
+Pr > |t|
+Intercept
+1
+-13742221
+207602
+-66.20
+<.0001
+time_trend
+1
+7616
+103.7511
+73.40
+<.0001
+jan
+1
+1078
+661.9847
+1.63
+0.1095
+feb
+1
+1449
+661.5380
+2.19
+0.0329
+mar
+1
+1404
+661.2040
+2.12
+0.0384
+apr
+1
+1211
+660.9830
+1.83
+0.0727
+jun
+1
+-918.7148
+703.9061
+-1.31
+0.1975
+jul
+1
+-1976
+703.3797
+-2.81
+0.0069
+aug
+1
+-1813
+702.9593
+-2.58
+0.0127
+sep
+1
+-2303
+702.6451
+-3.28
+0.0019
+oct
+1
+-2566
+702.4371
+-3.65
+0.0006
+nov
+1
+-876.4762
+702.3355
+-1.25
+0.2175
+Estimates of Autocorrelations
+Lag
+Covariance
+Correlation
+-1 9 8 7 6 5 4 3 2 1 0 1 2 3 4 5 6 7 8 9 1
+0
+1382550
+1.000000
+|                    |********************|
+1
+1284652
+0.929190
+|                    |******************* |
+Preliminary MSE
+188864
+Estimates of Autoregressive
+Parameters
+Lag
+Coefficient
+Standard
+Error
+t Value
+1
+-0.929190
+0.051255
+-18.13
+Exhibit__(JFG-29) 
+         Page 15 of 26 
+
+
+--- Page 131 ---
+Model: NIMO ELECTRIC RESIDENTIAL CUSTOMER COUNT (Est.Period: Jan2015 to may20
+20:49 Wednesday, June 3, 2020
+18
+The AUTOREG Procedure
+Model: NIMO ELECTRIC RESIDENTIAL CUSTOMER COUNT (Est.Period: Jan2015 to may20
+20:49 Wednesday, June 3, 2020
+18
+The AUTOREG Procedure
+Yule-Walker Estimates
+SSE
+9474978.21
+DFE
+52
+MSE
+182211
+Root MSE
+426.86194
+SBC
+1013.55525
+AIC
+985.28822
+MAE
+294.546092
+AICC
+992.425475
+MAPE
+0.0197112
+HQC
+996.441377
+Durbin-Watson
+1.5540
+Transformed Regression R-Square
+0.9441
+Total R-Square
+0.9990
+Parameter Estimates
+Variable
+DF
+Estimate
+Standard
+Error
+t Value
+Approx
+Pr > |t|
+Intercept
+1
+-13334211
+584582
+-22.81
+<.0001
+time_trend
+1
+7412
+292.1794
+25.37
+<.0001
+jan
+1
+1024
+173.0190
+5.92
+<.0001
+feb
+1
+1427
+202.7968
+7.04
+<.0001
+mar
+1
+1414
+199.7246
+7.08
+<.0001
+apr
+1
+1251
+161.9963
+7.72
+<.0001
+jun
+1
+-1137
+182.5737
+-6.23
+<.0001
+jul
+1
+-2167
+235.1071
+-9.22
+<.0001
+aug
+1
+-1980
+257.2214
+-7.70
+<.0001
+sep
+1
+-2446
+257.2209
+-9.51
+<.0001
+oct
+1
+-2688
+235.1060
+-11.43
+<.0001
+nov
+1
+-978.6929
+182.5728
+-5.36
+<.0001
+Exhibit__(JFG-29) 
+         Page 16 of 26 
+
+
+--- Page 132 ---
+Model: NIMO ELECTRIC RESIDENTIAL CUSTOMER COUNT (Est.Period: Jan2015 to may20
+20:49 Wednesday, June 3, 2020
+19
+The AUTOREG Procedure
+Model: NIMO ELECTRIC RESIDENTIAL CUSTOMER COUNT (Est.Period: Jan2015 to may20
+20:49 Wednesday, June 3, 2020
+19
+The AUTOREG Procedure
+Exhibit__(JFG-29) 
+         Page 17 of 26 
+
+
+--- Page 133 ---
+Model: NIMO ELECTRIC COMMERICAL CUSTOMER COUNT (Est.Period: Jan2015 to may20
+20:49 Wednesday, June 3, 2020
+16
+The AUTOREG Procedure
+Model: NIMO ELECTRIC COMMERICAL CUSTOMER COUNT (Est.Period: Jan2015 to may20
+20:49 Wednesday, June 3, 2020
+16
+The AUTOREG Procedure
+Dependent Variable
+c_10_c
+Commercial Customers
+Exhibit__(JFG-29) 
+         Page 18 of 26 
+
+
+--- Page 134 ---
+Model: NIMO ELECTRIC COMMERICAL CUSTOMER COUNT (Est.Period: Jan2015 to may20
+20:49 Wednesday, June 3, 2020
+17
+The AUTOREG Procedure
+Model: NIMO ELECTRIC COMMERICAL CUSTOMER COUNT (Est.Period: Jan2015 to may20
+20:49 Wednesday, June 3, 2020
+17
+The AUTOREG Procedure
+Ordinary Least Squares Estimates
+SSE
+11321067.8
+DFE
+56
+MSE
+202162
+Root MSE
+449.62420
+SBC
+1006.43776
+AIC
+986.868274
+MAE
+321.54629
+AICC
+990.141001
+MAPE
+0.18809168
+HQC
+994.589691
+Durbin-Watson
+0.1351
+Total R-Square
+0.9758
+Parameter Estimates
+Variable
+DF
+Estimate
+Standard
+Error
+t Value
+Approx
+Pr > |t|
+Variable
+Label
+Intercept
+1
+-384182
+11710
+-32.81
+<.0001
+IDX_HHolds
+1
+5562
+117.5109
+47.33
+<.0001
+idx_HHOLDS
+apr
+1
+406.9571
+202.2722
+2.01
+0.0490
+may
+1
+610.3592
+202.2725
+3.02
+0.0038
+jun
+1
+403.2811
+218.5122
+1.85
+0.0702
+jul
+1
+362.6587
+218.4028
+1.66
+0.1024
+aug
+1
+349.1751
+218.3306
+1.60
+0.1154
+sep
+1
+279.4895
+218.2972
+1.28
+0.2057
+oct
+1
+41.6498
+218.3030
+0.19
+0.8494
+Estimates of Autocorrelations
+Lag
+Covariance
+Correlation
+-1 9 8 7 6 5 4 3 2 1 0 1 2 3 4 5 6 7 8 9 1
+0
+174170
+1.000000
+|                    |********************|
+1
+153810
+0.883104
+|                    |******************  |
+2
+131596
+0.755558
+|                    |***************     |
+3
+108069
+0.620476
+|                    |************        |
+4
+92321.3
+0.530063
+|                    |***********         |
+5
+81930.3
+0.470403
+|                    |*********           |
+6
+73119.6
+0.419817
+|                    |********            |
+7
+60127.6
+0.345223
+|                    |*******             |
+8
+43817.3
+0.251577
+|                    |*****               |
+9
+27634.4
+0.158663
+|                    |***                 |
+10
+9073.3
+0.052095
+|                    |*                   |
+11
+-4276.9
+-0.024556
+|                    |                    |
+12
+-15524.2
+-0.089132
+|                  **|                    |
+Exhibit__(JFG-29) 
+         Page 19 of 26 
+
+
+--- Page 135 ---
+Model: NIMO ELECTRIC COMMERICAL CUSTOMER COUNT (Est.Period: Jan2015 to may20
+20:49 Wednesday, June 3, 2020
+18
+The AUTOREG Procedure
+Preliminary MSE
+34595.8
+Estimates of Autoregressive
+Parameters
+Lag
+Coefficient
+Standard
+Error
+t Value
+1
+-0.953171
+0.150661
+-6.33
+2
+-0.013861
+0.208095
+-0.07
+3
+0.215328
+0.206487
+1.04
+4
+-0.049076
+0.208229
+-0.24
+5
+-0.086795
+0.208137
+-0.42
+6
+-0.105976
+0.208267
+-0.51
+7
+0.071820
+0.208267
+0.34
+8
+0.063914
+0.208137
+0.31
+9
+-0.120811
+0.208229
+-0.58
+10
+0.171800
+0.206487
+0.83
+11
+-0.043933
+0.208095
+-0.21
+12
+0.035375
+0.150661
+0.23
+Exhibit__(JFG-29) 
+         Page 20 of 26 
+
+
+--- Page 136 ---
+Model: NIMO ELECTRIC COMMERICAL CUSTOMER COUNT (Est.Period: Jan2015 to may20
+20:49 Wednesday, June 3, 2020
+19
+The AUTOREG Procedure
+Model: NIMO ELECTRIC COMMERICAL CUSTOMER COUNT (Est.Period: Jan2015 to may20
+20:49 Wednesday, June 3, 2020
+19
+The AUTOREG Procedure
+Yule-Walker Estimates
+SSE
+1199356.67
+DFE
+44
+MSE
+27258
+Root MSE
+165.10029
+SBC
+912.780009
+AIC
+867.117877
+MAE
+107.186352
+AICC
+888.606249
+MAPE
+0.06282774
+HQC
+885.134515
+Durbin-Watson
+0.8762
+Transformed Regression R-Square
+0.9315
+Total R-Square
+0.9974
+Parameter Estimates
+Variable
+DF
+Estimate
+Standard
+Error
+t Value
+Approx
+Pr > |t|
+Variable
+Label
+Intercept
+1
+-369548
+23393
+-15.80
+<.0001
+IDX_HHolds
+1
+5415
+234.8255
+23.06
+<.0001
+idx_HHOLDS
+apr
+1
+337.2175
+63.3134
+5.33
+<.0001
+may
+1
+560.6279
+82.4539
+6.80
+<.0001
+jun
+1
+498.7723
+94.9853
+5.25
+<.0001
+jul
+1
+442.9333
+100.2372
+4.42
+<.0001
+aug
+1
+416.9964
+98.2461
+4.24
+0.0001
+sep
+1
+343.5183
+88.1796
+3.90
+0.0003
+oct
+1
+131.0182
+68.3845
+1.92
+0.0619
+Exhibit__(JFG-29) 
+         Page 21 of 26 
+
+
+--- Page 137 ---
+Model: NIMO ELECTRIC COMMERICAL CUSTOMER COUNT (Est.Period: Jan2015 to may20
+20:49 Wednesday, June 3, 2020
+20
+The AUTOREG Procedure
+Model: NIMO ELECTRIC COMMERICAL CUSTOMER COUNT (Est.Period: Jan2015 to may20
+20:49 Wednesday, June 3, 2020
+20
+The AUTOREG Procedure
+Exhibit__(JFG-29) 
+         Page 22 of 26 
+
+
+--- Page 138 ---
+Model: NIMO ELECTRIC INDUSTRIAL CUSTOMER COUNT (Est.Period: Jan2006 to may20
+20:49 Wednesday, June 3, 2020
+19
+The AUTOREG Procedure
+Model: NIMO ELECTRIC INDUSTRIAL CUSTOMER COUNT (Est.Period: Jan2006 to may20
+20:49 Wednesday, June 3, 2020
+19
+The AUTOREG Procedure
+Dependent Variable
+c_10_i
+Industrial Customers
+Exhibit__(JFG-29) 
+         Page 23 of 26 
+
+
+--- Page 139 ---
+Model: NIMO ELECTRIC INDUSTRIAL CUSTOMER COUNT (Est.Period: Jan2006 to may20
+20:49 Wednesday, June 3, 2020
+20
+The AUTOREG Procedure
+Model: NIMO ELECTRIC INDUSTRIAL CUSTOMER COUNT (Est.Period: Jan2006 to may20
+20:49 Wednesday, June 3, 2020
+20
+The AUTOREG Procedure
+Ordinary Least Squares Estimates
+SSE
+23961.2028
+DFE
+169
+MSE
+141.78227
+Root MSE
+11.90724
+SBC
+1364.61154
+AIC
+1351.99837
+MAE
+9.7529097
+AICC
+1352.23647
+MAPE
+0.59827245
+HQC
+1357.11546
+Durbin-Watson
+0.0549
+Total R-Square
+0.9677
+Parameter Estimates
+Variable
+DF
+Estimate
+Standard
+Error
+t Value
+Approx
+Pr > |t|
+Intercept
+1
+32477
+436.1072
+74.47
+<.0001
+time_trend
+1
+-15.4549
+0.2185
+-70.75
+<.0001
+aug09
+1
+12.2254
+11.9682
+1.02
+0.3085
+sep09
+1
+9.5134
+11.9670
+0.79
+0.4278
+Estimates of Autocorrelations
+Lag
+Covariance
+Correlation
+-1 9 8 7 6 5 4 3 2 1 0 1 2 3 4 5 6 7 8 9 1
+0
+138.5
+1.000000
+|                    |********************|
+1
+130.3
+0.940595
+|                    |******************* |
+Preliminary MSE
+15.9669
+Estimates of Autoregressive
+Parameters
+Lag
+Coefficient
+Standard
+Error
+t Value
+1
+-0.940595
+0.026195
+-35.91
+Exhibit__(JFG-29) 
+         Page 24 of 26 
+
+
+--- Page 140 ---
+Model: NIMO ELECTRIC INDUSTRIAL CUSTOMER COUNT (Est.Period: Jan2006 to may20
+20:49 Wednesday, June 3, 2020
+21
+The AUTOREG Procedure
+Model: NIMO ELECTRIC INDUSTRIAL CUSTOMER COUNT (Est.Period: Jan2006 to may20
+20:49 Wednesday, June 3, 2020
+21
+The AUTOREG Procedure
+Yule-Walker Estimates
+SSE
+1261.44654
+DFE
+168
+MSE
+7.50861
+Root MSE
+2.74018
+SBC
+862.582615
+AIC
+846.816158
+MAE
+2.13743825
+AICC
+847.175439
+MAPE
+0.13061819
+HQC
+853.212514
+Durbin-Watson
+1.7180
+Transformed Regression R-Square
+0.7879
+Total R-Square
+0.9983
+Parameter Estimates
+Variable
+DF
+Estimate
+Standard
+Error
+t Value
+Approx
+Pr > |t|
+Intercept
+1
+32271
+1310
+24.63
+<.0001
+time_trend
+1
+-15.3495
+0.6562
+-23.39
+<.0001
+aug09
+1
+14.9669
+2.3034
+6.50
+<.0001
+sep09
+1
+18.9585
+2.3034
+8.23
+<.0001
+Exhibit__(JFG-29) 
+         Page 25 of 26 
+
+
+--- Page 141 ---
+Model: NIMO ELECTRIC INDUSTRIAL CUSTOMER COUNT (Est.Period: Jan2006 to may20
+20:49 Wednesday, June 3, 2020
+22
+The AUTOREG Procedure
+Model: NIMO ELECTRIC INDUSTRIAL CUSTOMER COUNT (Est.Period: Jan2006 to may20
+20:49 Wednesday, June 3, 2020
+22
+The AUTOREG Procedure
+Exhibit__(JFG-29) 
+         Page 26 of 26 
+
+
+--- Page 142 ---
+Testimony of Joseph F. Gredder 
+ 
+ 
+ 
+ 
+ 
+ 
+ 
+Exhibit__ (JFG-30) 
+Regression Models, Peak Models 
+ 
+ 
+ 
+ 
+ 
+ 
+ 
+ 
+ 
+ 
+ 
+
+
+--- Page 143 ---
+Peak Forecast
+06:52 Tuesday, June 23, 2020
+1
+The REG Procedure
+Model: MODEL1
+Dependent Variable: mw_zone_50_pre
+Peak Forecast
+06:52 Tuesday, June 23, 2020
+1
+The REG Procedure
+Model: MODEL1
+Dependent Variable: mw_zone_50_pre
+Number of Observations Read
+32
+Number of Observations Used
+16
+Number of Observations with Missing Values
+16
+Analysis of Variance
+Source
+DF
+Sum of
+Squares
+Mean
+Square
+F Value
+Pr > F
+Model
+3
+653275
+217758
+75.79
+<.0001
+Error
+12
+34477
+2873.08498
+Corrected Total
+15
+687752
+Root MSE
+53.60117
+R-Square
+0.9499
+Dependent Mean
+6881.92524
+Adj R-Sq
+0.9373
+Coeff Var
+0.77887
+Parameter Estimates
+Variable
+Label
+DF
+Parameter
+Estimate
+Standard
+Error
+t Value
+Pr > |t|
+Intercept
+Intercept
+1
+-5657.91199
+855.11451
+-6.62
+<.0001
+gwh_zone_pre
+1
+0.07717
+0.02444
+3.16
+0.0083
+idx_HHOLDS
+idx_HHOLDS
+1
+98.22015
+10.10736
+9.72
+<.0001
+yr2005
+1
+231.91008
+61.76580
+3.75
+0.0027
+Exhibit_(JFG-30)           
+Page 1 of 4 
+Page 1 of 4
+
+
+--- Page 144 ---
+Peak Forecast
+06:52 Tuesday, June 23, 2020
+3
+The REG Procedure
+Model: MODEL1
+Dependent Variable: mw_zone_50_pre
+Peak Forecast
+06:52 Tuesday, June 23, 2020
+3
+The REG Procedure
+Model: MODEL1
+Dependent Variable: mw_zone_50_pre
+Fit Diagnostics for mw_zone_50_pre
+0.9373
+Adj R-Square
+0.9499
+R-Square
+2873.1
+MSE
+12
+Error DF
+4
+Parameters
+16
+Observations
+Proportion Less
+0.0 0.4 0.8
+Residual
+0.0 0.4 0.8
+Fit–Mean
+-200
+0
+200
+-150
+-50
+50
+150
+Residual
+0
+10
+20
+30
+40
+50
+Percent
+0
+5
+10
+15
+Observation
+0.0
+0.1
+0.2
+0.3
+0.4
+Cook's D
+6600
+6800
+7000
+7200
+Predicted Value
+6,600
+6,800
+7,000
+7,200
+mw_zone_50_pre
+-2
+-1
+0
+1
+2
+Quantile
+-100
+-50
+0
+50
+100
+Residual
+0.2
+0.4
+0.6
+0.8
+1.0
+Leverage
+-2
+-1
+0
+1
+2
+3
+RStudent
+6600
+6800
+7000
+7200
+Predicted Value
+-2
+-1
+0
+1
+2
+3
+RStudent
+6600
+6800
+7000
+7200
+Predicted Value
+-100
+-50
+0
+50
+100
+Residual
+Exhibit_(JFG-30)           
+Page 2 of 4 
+Page 2 of 4
+
+
+--- Page 145 ---
+Energy Forecast
+06:52 Tuesday, June 23, 2020
+4
+The REG Procedure
+Model: MODEL1
+Dependent Variable: gwh_zone_pre
+Energy Forecast
+06:52 Tuesday, June 23, 2020
+4
+The REG Procedure
+Model: MODEL1
+Dependent Variable: gwh_zone_pre
+Number of Observations Read
+384
+Number of Observations Used
+191
+Number of Observations with Missing Values
+193
+Analysis of Variance
+Source
+DF
+Sum of
+Squares
+Mean
+Square
+F Value
+Pr > F
+Model
+15
+8877463
+591831
+218.85
+<.0001
+Error
+175
+473239
+2704.22059
+Corrected Total
+190
+9350701
+Root MSE
+52.00212
+R-Square
+0.9494
+Dependent Mean
+3176.25390
+Adj R-Sq
+0.9451
+Coeff Var
+1.63722
+Parameter Estimates
+Variable
+DF
+Parameter
+Estimate
+Standard
+Error
+t Value
+Pr > |t|
+Variance
+Inflation
+Intercept
+1
+1872.31687
+92.64883
+20.21
+<.0001
+0
+gwh_retail_pre_CAL
+1
+0.47374
+0.03120
+15.18
+<.0001
+2.80711
+sep11
+1
+-288.45792
+54.61175
+-5.28
+<.0001
+1.09711
+apr18
+1
+267.58455
+54.41635
+4.92
+<.0001
+1.08927
+jun18
+1
+-246.11448
+61.00856
+-4.03
+<.0001
+1.36918
+jun19
+1
+-160.06769
+55.14400
+-2.90
+0.0042
+1.11860
+jan
+1
+131.10081
+16.30141
+8.04
+<.0001
+1.44057
+feb
+1
+-148.31352
+16.00776
+-9.27
+<.0001
+1.38913
+apr
+1
+-306.29575
+18.22281
+-16.81
+<.0001
+1.80017
+may
+1
+-219.03248
+17.51072
+-12.51
+<.0001
+1.66223
+jun
+1
+-151.82525
+16.82107
+-9.03
+<.0001
+1.53387
+jul
+1
+177.74328
+16.60675
+10.70
+<.0001
+1.49504
+aug
+1
+112.80359
+16.63652
+6.78
+<.0001
+1.50040
+sep
+1
+-120.14841
+16.50086
+-7.28
+<.0001
+1.47603
+oct
+1
+-144.39853
+17.96290
+-8.04
+<.0001
+1.74918
+nov
+1
+-186.18191
+16.69019
+-11.16
+<.0001
+1.51010
+Exhibit_(JFG-30)           
+Page 3 of 4 
+Page 3 of 4
+
+
+--- Page 146 ---
+Energy Forecast
+06:52 Tuesday, June 23, 2020
+6
+The REG Procedure
+Model: MODEL1
+Dependent Variable: gwh_zone_pre
+Energy Forecast
+06:52 Tuesday, June 23, 2020
+6
+The REG Procedure
+Model: MODEL1
+Dependent Variable: gwh_zone_pre
+Fit Diagnostics for gwh_zone_pre
+0.9451
+Adj R-Square
+0.9494
+R-Square
+2704.2
+MSE
+175
+Error DF
+16
+Parameters
+191
+Observations
+Proportion Less
+0.0 0.4 0.8
+Residual
+0.0 0.4 0.8
+Fit–Mean
+-400
+-200
+0
+200
+400
+-135 -75
+-15
+45
+105
+Residual
+0
+5
+10
+15
+20
+25
+Percent
+0
+50
+100
+150
+200
+Observation
+0.00
+0.01
+0.02
+0.03
+0.04
+Cook's D
+2600
+3000
+3400
+Predicted Value
+2,600
+2,800
+3,000
+3,200
+3,400
+3,600
+gwh_zone_pre
+-3
+-2
+-1
+0
+1
+2
+3
+Quantile
+-150
+-100
+-50
+0
+50
+100
+150
+Residual
+0.0
+0.2
+0.4
+0.6
+0.8
+1.0
+Leverage
+-3
+-2
+-1
+0
+1
+2
+3
+RStudent
+2800 3000 3200 3400 3600
+Predicted Value
+-3
+-2
+-1
+0
+1
+2
+3
+RStudent
+2800
+3200
+3600
+Predicted Value
+-100
+-50
+0
+50
+100
+150
+Residual
+Exhibit_(JFG-30)           
+Page 4 of 4 
+Page 4 of 4

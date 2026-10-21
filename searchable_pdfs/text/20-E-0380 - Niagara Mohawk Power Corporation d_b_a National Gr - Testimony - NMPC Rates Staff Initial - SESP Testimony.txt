@@ -1,0 +1,8468 @@
+--- Page 1 ---
+ 
+ 
+ 
+ 
+BEFORE THE 
+STATE OF NEW YORK 
+PUBLIC SERVICE COMMISSION 
+ 
+ 
+In the Matter of 
+ 
+Niagara Mohawk Power Corporation d/b/a National Grid 
+ 
+Cases 20-E-0380 & 20-G-0381 
+ 
+November 25, 2020 
+ 
+ 
+Prepared Testimony of: 
+ 
+Staff Efficiency and Sustainability 
+Panel (SESP) 
+ 
+Robert Cully 
+Utility Engineering Specialist 3 
+ 
+Joseph Hitt 
+Utility Analyst 3 
+ 
+Daniel Foley 
+Utility Analyst 1 
+ 
+Office of Markets and Innovation 
+ 
+Sean Isakower 
+Principal Economist 
+ 
+Office of Regulatory Economics 
+ 
+Davide Maioriello 
+Utility Engineering Specialist 3 
+ 
+Office of Electric, Gas and Water 
+ 
+State of New York 
+Department of Public Service 
+Three Empire State Plaza 
+Albany, New York  12223-1350 
+
+
+--- Page 2 ---
+ 
+ 
+    Cases 20-E-0380 & 20-G-0381 SESP 
+ 
+ 
+ 
+Table of Contents 
+ENERGY EFFICIENCY PROGRAMS 
+11 
+EE Program Background 
+11 
+Energy Efficiency (EE) Budgets and Targets 
+26 
+EE Program Cost Recovery 
+33 
+Energy Efficiency Labor Expense 
+38 
+FUEL-SWITCHING CALCULATOR 
+42 
+GEOTHERMAL NETWORK PROGRAM 
+44 
+ELECTRIC VEHICLE PROGRAMS 
+61 
+Overview of the Make-Ready Order 
+61 
+Commercial/Multi-User Program 
+64 
+Fleet Program 
+73 
+Residential Program 
+81 
+UTILITY-OWNED ENERGY STORAGE 
+90 
+NON-WIRES ALTERNATIVES 
+99 
+NON-PIPE ALTERNATIVES 
+105 
+CARBON CAPTURE UNIT STUDY 
+119 
+RENEWABLE NATURAL GAS 
+122 
+MULTI-USE HYDROGEN FACILITY 
+125 
+GAS DEMAND RESPONSE PROGRAM 
+134 
+ 
+
+
+--- Page 3 ---
+Cases 20-E-0380 & 20-G-0381 
+SESP 
+ 
+1 
+Q. 
+Members of the Staff Efficiency and 
+1 
+Sustainability Panel (Panel), please state your 
+2 
+names, employer, and business address. 
+3 
+A. 
+Our names are Robert Cully, Joseph Hitt, Daniel 
+4 
+Foley, Sean Isakower, and Davide Maioriello.  We 
+5 
+are employed by the New York State Department of 
+6 
+Public Service (Department).  Our business 
+7 
+address is Three Empire State Plaza, Albany, NY 
+8 
+12223. 
+9 
+Q. 
+Mr. Cully, please state your position at the 
+10 
+Department. 
+11 
+A. 
+I am currently employed as a Utility Engineering 
+12 
+Specialist 3 assigned to the Clean Energy and 
+13 
+Markets section of the Office of Markets and 
+14 
+Innovation. 
+15 
+Q. 
+Mr. Cully, please state your educational 
+16 
+background. 
+17 
+A. 
+I graduated from Clarkson University with a 
+18 
+Bachelor of Science degree in Environmental 
+19 
+Engineering in May 2010. 
+20 
+Q. 
+Mr. Cully, describe your professional experience 
+21 
+and your position at the Department. 
+22 
+A. 
+I have been employed by the Department since 
+23 
+August 2012.  Since joining the Department, my 
+24 
+
+
+--- Page 4 ---
+Cases 20-E-0380 & 20-G-0381 
+SESP 
+ 
+2 
+responsibilities have included examining utility 
+1 
+rates and fees, rate design, benefit cost 
+2 
+analyses (BCA), demand response (DR) programs, 
+3 
+electric standby service rates, electric and gas 
+4 
+demand management programs, including Non-Wires 
+5 
+Alternatives (NWAs) and Non-Pipes Alternatives 
+6 
+(NPAs), and Earning Adjustment Mechanisms 
+7 
+(EAMs). 
+8 
+Q. 
+Mr. Cully, have you previously testified before 
+9 
+the Public Service Commission (Commission)? 
+10 
+A. 
+Yes.  I have testified in numerous rate 
+11 
+proceedings.  Most recently, I testified on the 
+12 
+Staff Efficiency and Distributed Energy 
+13 
+Resources Panel and Staff Earning Adjustment 
+14 
+Mechanisms Panel in Cases 19-E-0378, 19-G-0379, 
+15 
+19-E-0380, and 19-E-0381, regarding New York 
+16 
+State Electric & Gas Corporation (NYSEG) and 
+17 
+Rochester Gas and Electric Corporation (RG&E).  
+18 
+I also testified on the Staff Efficiency and 
+19 
+Distributed Energy Resources Panel in Cases 19-
+20 
+E-0065 and 19-G-0066, regarding Consolidated 
+21 
+Edison Company of New York, Inc. (Con Edison); 
+22 
+Staff Policy Panel, Staff Markets and Innovation 
+23 
+Panel, and Staff Earnings Adjustment Mechanisms 
+24 
+
+
+--- Page 5 ---
+Cases 20-E-0380 & 20-G-0381 
+SESP 
+ 
+3 
+Panel in Cases 18-E-0067 and 18-G-0068, 
+1 
+regarding Orange and Rockland Utilities, Inc. 
+2 
+(Orange and Rockland); Staff Incentives and 
+3 
+Customer Engagement Panel and Staff Markets and 
+4 
+Innovation Energy Efficiency Panel in Cases 17-
+5 
+E-0459 and 17-G-0460, regarding Central Hudson 
+6 
+Gas & Electric Corporation (Central Hudson); the 
+7 
+Staff Policy Panel, Staff Earning Adjustment 
+8 
+Mechanisms Panel, and Staff Markets and Energy 
+9 
+Efficiency Panel in Cases 17-E-0238 and 17-G-
+10 
+0239, regarding Niagara Mohawk Power Corporation 
+11 
+d/b/a National Grid (NMPC, or the Company); the 
+12 
+Staff Electric Policy Panel in Case 16-E-0060, 
+13 
+regarding Con Edison; the Staff Reforming the 
+14 
+Energy Vision Panel in Cases 15-E-0283 and 15-E-
+15 
+0285, regarding NYSEG and RG&E; the Staff 
+16 
+Reforming the Energy Vision Panel in Case 14-E-
+17 
+0493, regarding Orange and Rockland; and the 
+18 
+Staff Electric Rates Panel, Staff Gas Rates 
+19 
+Panel, and Staff Steam Rates Panel in Cases 13-
+20 
+E-0030, 13-G-0031, and 13-S-0032, regarding Con 
+21 
+Edison. 
+22 
+Q. 
+Mr. Hitt, please state your position at the 
+23 
+Department. 
+24 
+
+
+--- Page 6 ---
+Cases 20-E-0380 & 20-G-0381 
+SESP 
+ 
+4 
+A. 
+I am employed as a Utility Analyst 3 in the 
+1 
+Office of Markets and Innovation-Efficiency & 
+2 
+Innovation. 
+3 
+Q. 
+Mr. Hitt, please state your educational 
+4 
+background. 
+5 
+A. 
+I graduated from the State University of New 
+6 
+York Institute of Technology at Utica/Rome in 
+7 
+1998 with a Bachelor of Science degree in 
+8 
+Industrial Engineering Technology, where I also 
+9 
+received a Master of Science degree in Advanced 
+10 
+Technology in 2000.  Additionally, I received a 
+11 
+Master of Business Administration degree from 
+12 
+the University at Albany in 2006. 
+13 
+Q. 
+Mr. Hitt, describe your professional experience 
+14 
+and your position at the Department. 
+15 
+A. 
+Prior to and while pursuing my education, I held 
+16 
+several technical positions of increasing 
+17 
+responsibilities.  My technical skills and 
+18 
+education led to Operations Management positions 
+19 
+in the transportation and energy industries.  I 
+20 
+joined the Department in July 2012.  My 
+21 
+responsibilities at the Department include 
+22 
+reviewing and monitoring utility energy 
+23 
+efficiency (EE) programs, the Clean Energy Fund, 
+24 
+
+
+--- Page 7 ---
+Cases 20-E-0380 & 20-G-0381 
+SESP 
+ 
+5 
+and a monitoring and auditing role of the EE 
+1 
+programs Technical Resource Manual. 
+2 
+Q. 
+Mr. Hitt, have you previously provided testimony 
+3 
+in proceedings before the Commission? 
+4 
+A. 
+Yes, I provided testimony in the following rate 
+5 
+cases: Cases 19-G-0309 and 19-G-0310, regarding 
+6 
+The Brooklyn Union Gas Company d/b/a National 
+7 
+Grid (KEDNY) and KeySpan Gas East Corporation 
+8 
+(KEDLI) d/b/a National Grid; Case 16-W-0259, 
+9 
+regarding New York American Water Company, Inc.; 
+10 
+and Cases 16-E-0060 and 16-G-0061, regarding Con 
+11 
+Edison. 
+12 
+Q. 
+Mr. Foley, please state your position at the 
+13 
+Department. 
+14 
+A. 
+I am a Utility Analyst in the Office of 
+15 
+Efficiency and Innovation within the 
+16 
+Department’s Office of Markets and Innovation. 
+17 
+Q. 
+Mr. Foley, please state your educational 
+18 
+background. 
+19 
+A. 
+I attended the Universities of New York at 
+20 
+Binghamton and Albany, and the Julius-
+21 
+Maximilians-Universität in Würzburg, Germany, 
+22 
+receiving a Bachelor of Arts in German Language 
+23 
+in 1992, followed by several years of non-
+24 
+
+
+--- Page 8 ---
+Cases 20-E-0380 & 20-G-0381 
+SESP 
+ 
+6 
+matriculated continuing education in the fields 
+1 
+of Financial Accounting and Auditing. 
+2 
+Q. 
+Mr. Foley, describe your professional experience 
+3 
+and your position at the Department. 
+4 
+A. 
+Before joining the Department, I was a corporate 
+5 
+franchise tax return auditor in the Desk Audit 
+6 
+Bureau of the New York State Department of 
+7 
+Taxation and Finance and later assumed the role 
+8 
+of Senior Accountant for the Division of Finance 
+9 
+and Rate Setting of the New York State 
+10 
+Department of Health.  I joined the Department 
+11 
+in 2017, where I have been primarily engaged in 
+12 
+the analysis of finance-related and energy 
+13 
+savings-related data sets associated with the 
+14 
+performance of EE programs of investor-owned 
+15 
+utilities and the New York State Energy Research 
+16 
+and Development Authority (NYSERDA). 
+17 
+Q. 
+Mr. Foley, have you previously testified before 
+18 
+the Commission? 
+19 
+A. 
+Yes, I testified on the Staff Markets and 
+20 
+Innovation Panel in Cases 18-E-0067 and 18-G-
+21 
+0068, regarding Orange and Rockland; and on the 
+22 
+Staff Efficiency and Distributed Energy 
+23 
+Resources Panel in Cases 19-E-0378, 19-G-0379, 
+24 
+
+
+--- Page 9 ---
+Cases 20-E-0380 & 20-G-0381 
+SESP 
+ 
+7 
+19-E-0380, and 19-G-0381, regarding NYSEG and 
+1 
+RG&E. 
+2 
+Q. 
+Mr. Isakower, please state your position at the 
+3 
+Department. 
+4 
+A. 
+I am a Principal Economist in the Office of 
+5 
+Markets and Innovation. 
+6 
+Q. 
+Mr. Isakower, please briefly discuss your 
+7 
+related educational background. 
+8 
+A. 
+I hold a Ph.D. in Economics with a concentration 
+9 
+in Industrial Organization from Northeastern 
+10 
+University in 2014.  Previously, I received a 
+11 
+Bachelor of Science in Economics from The 
+12 
+College of New Jersey in 2008. 
+13 
+Q. 
+Mr. Isakower, describe your professional 
+14 
+experience and responsibilities with the 
+15 
+Department. 
+16 
+A. 
+Prior to joining the Department in 2014, my most 
+17 
+recent work involved teaching statistics and 
+18 
+introductory economics at Northeastern 
+19 
+University.  My responsibilities at the 
+20 
+Department include providing economic and 
+21 
+statistical analysis on a variety of issues 
+22 
+including sales forecasts, customer service 
+23 
+quality, and energy storage Benefit Cost 
+24 
+
+
+--- Page 10 ---
+Cases 20-E-0380 & 20-G-0381 
+SESP 
+ 
+8 
+Analysis. 
+1 
+Q. 
+Mr. Isakower, have you previously testified 
+2 
+before the Public Service Commission 
+3 
+(Commission)? 
+4 
+A. 
+Yes, I have testified in numerous rate 
+5 
+proceedings.  Most recently, I testified in Case 
+6 
+14-E-0318, regarding Central Hudson; Cases 15-E-
+7 
+0283, 15-E-0285, 19-E-0378 and 19-E-0380, 
+8 
+regarding NYSEG and RG&E; Case 17-E-0238, 
+9 
+regarding NMPC; and Case 16-C-0122 regarding the 
+10 
+adequacy of Verizon New York Inc.’s retail 
+11 
+service quality processes and programs. 
+12 
+Q. 
+Mr. Maioriello, do you discuss your credentials 
+13 
+in testimony submitted in these proceedings? 
+14 
+A. 
+Yes.  I provide my credentials in the direct 
+15 
+testimony of the Staff Gas Reliability Panel. 
+16 
+Q. 
+Panel, what is the purpose of your testimony in 
+17 
+these proceedings? 
+18 
+A. 
+We will address the Company’s proposals and 
+19 
+provide our recommendations regarding: (1) 
+20 
+electric and gas EE Program portfolios, 
+21 
+including increased budgets and savings targets 
+22 
+for the Company-administered electric and gas EE 
+23 
+portfolios, heat pump proposals, mechanisms 
+24 
+
+
+--- Page 11 ---
+Cases 20-E-0380 & 20-G-0381 
+SESP 
+ 
+9 
+necessary to fund such portfolios, and 
+1 
+additional full-time employees (FTEs) to manage 
+2 
+the Company’s EE initiatives as discussed by the 
+3 
+Company’s Customer Energy Panel; (2) the Network 
+4 
+Geothermal Program as discussed by the Company’s 
+5 
+Future of Heat (FOH) Panel; (3) programs to 
+6 
+support Electric Vehicle (EV) penetration 
+7 
+including associated FTEs as discussed by the 
+8 
+Company’s Electric Vehicle Panel; (4) utility-
+9 
+owned Energy Storage systems described by the 
+10 
+Company’s Electric Infrastructure and Operations 
+11 
+Panel; (5) continuation of consultant costs for 
+12 
+developing NWA projects; (6) NPAs; (7) the 
+13 
+carbon capture unit study as described by the 
+14 
+Company’s FOH Panel; (8) the renewable natural 
+15 
+gas projects described by the Company’s FOH 
+16 
+Panel; (9) the multi-use hydrogen facility 
+17 
+described by the Company’s FOH Panel; and (10) 
+18 
+the Gas DR Program described by the Company’s 
+19 
+FOH Panel. 
+20 
+Q. 
+In this testimony will the Panel refer to, or 
+21 
+otherwise rely upon, any information obtained 
+22 
+during the discovery phase of these proceedings? 
+23 
+A. 
+Yes.  We will refer to, and have relied upon, 
+24 
+
+
+--- Page 12 ---
+Cases 20-E-0380 & 20-G-0381 
+SESP 
+ 
+10 
+several responses to Department Staff 
+1 
+Information Requests (IRs), all of which are 
+2 
+included in Exhibit___(SESP-1).  We will refer 
+3 
+to these IR responses by the designation given 
+4 
+to them by the Department, e.g., DPS-123. 
+5 
+Q. 
+Is the Panel sponsoring other exhibits? 
+6 
+A. 
+Yes.  The Panel is sponsoring three additional 
+7 
+exhibits in our testimony. 
+8 
+Q. 
+Please describe these exhibits. 
+9 
+A. 
+Exhibit___(SESP-2) contains a summary of the 
+10 
+Company’s current unspent balances of energy 
+11 
+efficiency-related funding sources. 
+12 
+Exhibit___(SESP-3) shows how we developed our 
+13 
+recommended reductions to the Company’s proposed 
+14 
+energy efficiency-related incremental FTE 
+15 
+employees.  Exhibit___(SESP-4) provides a 
+16 
+summary of our recommended adjustments to the 
+17 
+Company’s capital expenditure, regulatory asset, 
+18 
+non-labor operations and maintenance expense, 
+19 
+and FTE employee proposals. 
+20 
+Q. 
+What time period does the Panel’s testimony 
+21 
+address? 
+22 
+A. 
+The Company’s testimony includes proposals for 
+23 
+the Rate Year, the 12-month period ending 
+24 
+
+
+--- Page 13 ---
+Cases 20-E-0380 & 20-G-0381 
+SESP 
+ 
+11 
+June 30, 2022; Data Year 1, the 12-month period 
+1 
+ending June 30, 2023; and Data Year 2, the 12-
+2 
+month period ending June 30, 2024, our testimony 
+3 
+focuses on the Rate Year.  We also refer to the 
+4 
+Company’s fiscal year, which is the 12-month 
+5 
+period ending March 31 of each year.  For 
+6 
+example, fiscal year 2021 is the 12-month period 
+7 
+ending March 31, 2021. 
+8 
+ 
+9 
+ENERGY EFFICIENCY PROGRAMS 
+10 
+EE Program Background 
+11 
+Q. 
+Provide a brief background of the Company’s EE 
+12 
+programs beginning with New York State’s Energy 
+13 
+Efficiency Portfolio Standard (EEPS). 
+14 
+A. 
+On June 23, 2008, in Case 07-M-0548, the 
+15 
+Commission issued the Order Establishing Energy 
+16 
+Efficiency Portfolio Standard and Approving 
+17 
+Programs, which set up the framework for New 
+18 
+York State’s investor-owned electric and gas 
+19 
+utilities and NYSERDA to implement EE programs.  
+20 
+The second and final phase of the Company’s EEPS 
+21 
+programs ended on December 31, 2015.  Funding 
+22 
+for the EEPS programs was collected through the 
+23 
+System Benefit Charge (SBC,) a separate 
+24 
+
+
+--- Page 14 ---
+Cases 20-E-0380 & 20-G-0381 
+SESP 
+ 
+12 
+surcharge mechanism. 
+1 
+Q. 
+What actions did the Commission take with 
+2 
+respect to EE programs in preparation for the 
+3 
+conclusion of EEPS? 
+4 
+A. 
+The Commission issued two orders in Case 14-M-
+5 
+0101: the Order Adopting Regulatory Policy 
+6 
+Framework and Implementation Plan, issued on 
+7 
+February 26, 2015, and the Order Authorizing 
+8 
+Utility-Administered Gas Energy Efficiency 
+9 
+Portfolios for Implementation, issued on June 
+10 
+19, 2015 (collectively, the 2015 EE Orders).  
+11 
+The 2015 EE Orders established portfolio-level 
+12 
+budgets and savings targets for electric and gas 
+13 
+EE programs for 2016 and required all affected 
+14 
+utilities, including NMPC, to file an Energy 
+15 
+Efficiency Transition Implementation Plan (ETIP) 
+16 
+to reflect the authorized 2016 budgets and 
+17 
+targets and to propose budgets and targets for 
+18 
+2017 and 2018. 
+19 
+Q. 
+How were the ETIP programs set up to be funded? 
+20 
+A. 
+The 2015 EE Orders required utilities to 
+21 
+establish an Energy Efficiency Tracker (EE 
+22 
+Tracker) surcharge mechanism to recover the 
+23 
+costs associated with the ETIP EE programs, 
+24 
+
+
+--- Page 15 ---
+Cases 20-E-0380 & 20-G-0381 
+SESP 
+ 
+13 
+effective January 1, 2016. 
+1 
+Q. 
+When were the EE portfolios and implementation 
+2 
+plans resolved by the Commission? 
+3 
+A. 
+The Commission established portfolio-level 
+4 
+electric and gas EE budgets and savings targets 
+5 
+in its Order Authorizing Utility-Administered 
+6 
+Energy Efficiency Portfolio Budgets and Targets 
+7 
+for 2016-2018, issued on January 22, 2016 
+8 
+(January 2016 ETIP Order), in Case 15-M-0252 
+9 
+(Utility ETIP Proceeding). 
+10 
+Q. 
+Did the Commission adjust any of those budgets 
+11 
+and targets in either the previous rate 
+12 
+proceedings for NMPC or in the Utility ETIP 
+13 
+Proceeding? 
+14 
+A. 
+Yes.  In the previous rate proceedings for the 
+15 
+Company, the Commission authorized increased EE 
+16 
+portfolio budgets and targets.  The Commission 
+17 
+did this in its Order Adopting Terms of Joint 
+18 
+Proposal and Establishing Electric and Gas Rate 
+19 
+Plans, issued on March 15, 2018, in Cases 17-E-
+20 
+0238 and 17-G-0239 (2018 Rate Order). 
+21 
+Q. 
+Please describe those budget and target 
+22 
+increases. 
+23 
+A. 
+The 2018 Rate Order increased the annual 
+24 
+
+
+--- Page 16 ---
+Cases 20-E-0380 & 20-G-0381 
+SESP 
+ 
+14 
+calendar year electric EE portfolio budget from 
+1 
+$51.5 million to $63.9 million, with the 
+2 
+corresponding electric EE savings target 
+3 
+increasing from 256,339 gross megawatt-hours 
+4 
+(MWh) to 303,622 gross MWh.  The 2018 Rate Order 
+5 
+increased the annual calendar year gas EE 
+6 
+portfolio budget from $10.5 million to $14.0 
+7 
+million, with the corresponding gas EE savings 
+8 
+target increasing from 500,447 gross Million 
+9 
+British Thermal Units (MMBtu) to 870,798 gross 
+10 
+MMBtu. 
+11 
+Q. 
+When did those budget and target increases go 
+12 
+into effect? 
+13 
+A. 
+The increased annual budgets and targets became 
+14 
+effective at the outset of the Company’s Fiscal 
+15 
+Year 2019, i.e., July 1, 2018. 
+16 
+Q. 
+Has the Commission authorized EE budgets and 
+17 
+targets for 2019 and 2020? 
+18 
+A. 
+Yes, the Commission authorized electric and gas 
+19 
+budgets and targets for calendar years 2019 and 
+20 
+2020 in its Order Authorizing Utility-
+21 
+Administered Energy Efficiency Portfolio Budgets 
+22 
+and Targets for 2019-2020, issued on March 15, 
+23 
+2018, in Case 15-M-0252 (March 2018 ETIP Order). 
+24 
+
+
+--- Page 17 ---
+Cases 20-E-0380 & 20-G-0381 
+SESP 
+ 
+15 
+Q. 
+Were the electric and gas budgets and targets 
+1 
+set for NMPC in the March 2018 ETIP Order 
+2 
+consistent with those set in the 2018 Rate 
+3 
+Order? 
+4 
+A. 
+Yes, the Company’s EE budgets and targets were 
+5 
+the same in each. 
+6 
+Q. 
+Did the March 2018 ETIP Order include other 
+7 
+directives associated with the implementation of 
+8 
+ETIP programs? 
+9 
+A. 
+Yes.  In the March 2018 ETIP Order, the 
+10 
+Commission: (1) adjusted each utility’s targets 
+11 
+from net to gross savings and emphasized the 
+12 
+importance of realized savings; (2) changed the 
+13 
+units of gas savings targets and reported 
+14 
+savings from dekatherm (Dth) to MMBtu; (3) 
+15 
+required recovery of costs for utility-
+16 
+administered EE programs to be shifted into base 
+17 
+delivery rates; (4) directed that any utility 
+18 
+Earning Adjustment Mechanism (EAM) based on EE 
+19 
+programmatic performance be calculated and 
+20 
+awarded based on verified gross savings; and, 
+21 
+(5) required each utility to evolve its ETIP 
+22 
+into a System Energy Efficiency Plan. 
+23 
+Q. 
+Please explain the Commission’s directive to 
+24 
+
+
+--- Page 18 ---
+Cases 20-E-0380 & 20-G-0381 
+SESP 
+ 
+16 
+shift to gross savings targets. 
+1 
+A. 
+Previous Commission policy required that both EE 
+2 
+targets, and savings reported against those 
+3 
+targets, be expressed on a net basis, accounting 
+4 
+for the effects of free-ridership and spillover 
+5 
+by applying a default net-to-gross ratio of 
+6 
+0.90.  In recognition of specific barriers that 
+7 
+make it difficult to meaningfully calculate 
+8 
+accurate net-to-gross ratios, the Commission 
+9 
+determined that, going forward, goals should be 
+10 
+established, and savings reported, on a gross 
+11 
+basis.  The March 2018 ETIP Order defined gross 
+12 
+savings as the change in energy consumption 
+13 
+and/or demand that results directly from 
+14 
+program-related actions taken by participants in 
+15 
+a program, regardless of why they participated. 
+16 
+Q. 
+Please explain the conversion of units of gas 
+17 
+savings targets and reported savings from Dth to 
+18 
+MMBtu. 
+19 
+A. 
+The Dth to MMBtu conversion factor is 1.0 – that 
+20 
+is, each Dth is equivalent to 1 MMBtu. 
+21 
+Q. 
+What is the conversion factor used to convert 
+22 
+MWh to MMBtu? 
+23 
+A. 
+The MWh to MMBTU conversion factor is 3.412 – 
+24 
+
+
+--- Page 19 ---
+Cases 20-E-0380 & 20-G-0381 
+SESP 
+ 
+17 
+that is, each MWh is equivalent to 3.412 MMBtu. 
+1 
+Q. 
+For purposes of this testimony, which unit of 
+2 
+measurement will the Panel use? 
+3 
+A. 
+For simplicity, the Panel will refer to gas EE 
+4 
+targets using MMBtu and to electric EE targets 
+5 
+using MWh. 
+6 
+Q. 
+Pursuant to the March 2018 ETIP Order, when were 
+7 
+utilities required to shift cost recovery for 
+8 
+utility-administered EE programs into base 
+9 
+rates? 
+10 
+A. 
+The Commission directed each utility to move the 
+11 
+EE costs collected through the EE Tracker 
+12 
+surcharge mechanism into base delivery rates 
+13 
+during its first rate proceeding following the 
+14 
+March 2018 ETIP Order. 
+15 
+Q. 
+Did the Commission provide guidance regarding 
+16 
+the reconciliation of EE costs once these costs 
+17 
+are shifted to be collected through base rates? 
+18 
+A. 
+Yes.  The Commission required a downward-only 
+19 
+reconciliation to be conducted at the end of the 
+20 
+rate plan term, and annually thereafter during 
+21 
+any stay-out period, with any unspent funds to 
+22 
+be deferred, with appropriate carrying charges, 
+23 
+for future ratepayer benefit.  The Commission 
+24 
+
+
+--- Page 20 ---
+Cases 20-E-0380 & 20-G-0381 
+SESP 
+ 
+18 
+allowed that utilities could carry funds from 
+1 
+year to year during the rate plan term. 
+2 
+Q. 
+Please explain the Commission’s direction 
+3 
+regarding verified gross savings. 
+4 
+A. 
+At a high-level, verified gross savings include 
+5 
+adjustments associated with evaluation, 
+6 
+measurement and verification (EM&V) findings 
+7 
+that verify key factors used to calculate 
+8 
+savings.  The Commission’s requirement for 
+9 
+verified gross savings results from its 
+10 
+increased focus on actual realized savings, 
+11 
+which are critical to expanded EE and the 
+12 
+attainment of the New York State’s greenhouse 
+13 
+gas (GHG) emission reduction objectives. 
+14 
+Q. 
+What is meant by a “System Energy Efficiency 
+15 
+Plan” or “SEEP?” 
+16 
+A. 
+The SEEP must describe the entirety of the 
+17 
+utility’s expanded reliance upon, and use of, 
+18 
+cost-effective EE to support its distribution 
+19 
+system and customer needs. 
+20 
+Q. 
+Did any Commission actions outside of the 
+21 
+Utility ETIP Proceeding or rate proceedings 
+22 
+occur that affected the Company’s EE portfolios? 
+23 
+A. 
+Yes.  The Commission’s Order Adopting 
+24 
+
+
+--- Page 21 ---
+Cases 20-E-0380 & 20-G-0381 
+SESP 
+ 
+19 
+Accelerated Energy Efficiency Targets, issued 
+1 
+December 13, 2018, (December 2018 Efficiency 
+2 
+Order), in Case 18-M-0084, In the Matter of a 
+3 
+Comprehensive Energy Efficiency Initiative 
+4 
+(Utility Energy Efficiency Proceeding), 
+5 
+increased some utilities’ electric and gas EE 
+6 
+targets and budgets for calendar years 2019 and 
+7 
+2020 and established a process for the 
+8 
+Commission to set targets and budgets for the 
+9 
+calendar year period of 2021 through 2025.  The 
+10 
+December 2018 Efficiency Order also required the 
+11 
+Company and the other large investor-owned 
+12 
+utilities (Central Hudson, Con Edison, KEDNY, 
+13 
+KEDLI, National Fuel Gas Distribution 
+14 
+Corporation, NYSEG, Orange and Rockland, and 
+15 
+RG&E) in consultation with NYSERDA, to file a 
+16 
+proposal for EE budgets and targets for the 
+17 
+calendar year period of 2021 through 2025 on or 
+18 
+before March 31, 2019. 
+19 
+Q. 
+Did the December 2018 Efficiency Order increase 
+20 
+the Company’s calendar year 2019 and 2020 
+21 
+electric and gas targets and budgets? 
+22 
+A. 
+No, it did not. 
+23 
+Q. 
+What led to the December 2018 Efficiency Order? 
+24 
+
+
+--- Page 22 ---
+Cases 20-E-0380 & 20-G-0381 
+SESP 
+ 
+20 
+A. 
+In April 2018, Department Staff and NYSERDA 
+1 
+issued a report entitled New Efficiency: New 
+2 
+York (NE:NY Report).  The NE:NY Report 
+3 
+highlighted the importance of EE in achieving 
+4 
+the State’s goal of a 40 percent statewide 
+5 
+reduction of GHG emissions from 1990 levels by 
+6 
+the year 2030, and established a statewide EE 
+7 
+target of 185 trillion Btu (TBtu) of energy 
+8 
+usage reductions at the customer level by 2025.  
+9 
+Such statewide GHG emissions reductions required 
+10 
+utilities to achieve an additional 31 TBtu 
+11 
+reduction above and beyond the then-current EE 
+12 
+program target levels.  The NE:NY Report also 
+13 
+identified a number of strategies to reach the 
+14 
+statewide 185 TBtu savings goal by 2025. 
+15 
+Q. 
+What other actions did the Commission take in 
+16 
+the December 2018 Efficiency Order? 
+17 
+A. 
+In the December 2018 Efficiency Order, the 
+18 
+Commission determined the 185 statewide TBtu 
+19 
+target was reasonable and formally adopted the 
+20 
+incremental 31 TBtu as a fuel neutral target for 
+21 
+the State’s utilities to achieve through their 
+22 
+electric and gas efficiency portfolios by 2025, 
+23 
+as proposed in the NE:NY Report.  The Commission 
+24 
+
+
+--- Page 23 ---
+Cases 20-E-0380 & 20-G-0381 
+SESP 
+ 
+21 
+also established sub-targets of at least five 
+1 
+TBtu from heat pump adoption and electric EE 
+2 
+savings of three percent of sales by 2025, as 
+3 
+adjusted for beneficial electrification and 
+4 
+including NYSERDA EE achievements.  The 
+5 
+Commission also established a cap of $1.6 
+6 
+billion to achieve the 31 TBtu, required that 20 
+7 
+percent of incremental spending be used to fund 
+8 
+low- and moderate-income (LMI) programs, and 
+9 
+established an expectation for cost reduction 
+10 
+per unit of energy saved. 
+11 
+Q. 
+Please define beneficial electrification. 
+12 
+A. 
+Beneficial electrification is defined as 
+13 
+replacement of fossil fuel end-uses with 
+14 
+electric-operated alternatives, resulting in a 
+15 
+decrease in net carbon dioxide emissions and 
+16 
+environmental impacts.  Beneficial 
+17 
+electrification generally refers to replacement 
+18 
+of fossil-fuel fired space and domestic water 
+19 
+heating equipment with heat pumps, and 
+20 
+replacement of internal combustion engine 
+21 
+vehicles with electric vehicles.  The 2018 EE 
+22 
+Order specifically focused on electrification of 
+23 
+domestic water and space heating using heat 
+24 
+
+
+--- Page 24 ---
+Cases 20-E-0380 & 20-G-0381 
+SESP 
+ 
+22 
+pumps. 
+1 
+Q. 
+Did the Company file a proposal for EE budgets 
+2 
+and targets for the calendar year period of 2021 
+3 
+through 2025  as required by the December 2018 
+4 
+Efficiency Order? 
+5 
+A. 
+Yes, the Company’s proposal was included in the 
+6 
+NY Utilities Report Regarding Energy Efficiency 
+7 
+Budgets and Targets, Collaboration, Heat Pump 
+8 
+Technology and Low- and Moderate-Income 
+9 
+Customers and Requests for Approval (April 
+10 
+Utility Proposal), which was filed on April 2, 
+11 
+2019, in the Utility Energy Efficiency 
+12 
+Proceeding.  The Company-specific proposal was 
+13 
+set forth in Chapter XII, the National Grid 
+14 
+Chapter of the April Utility Proposal.  
+15 
+Subsequent to the April Utility Proposal filing, 
+16 
+the utilities have jointly filed revisions to 
+17 
+that proposal dated May 10, 2019 (May Utility 
+18 
+Proposal), which includes a revised National 
+19 
+Grid Chapter (now Chapter XI) and a new 
+20 
+appendix, Appendix A (Company’s May Proposal). 
+21 
+Q. 
+Did any other Commission actions outside rate 
+22 
+proceedings occur that affected the Company’s EE 
+23 
+portfolios? 
+24 
+
+
+--- Page 25 ---
+Cases 20-E-0380 & 20-G-0381 
+SESP 
+ 
+23 
+A. 
+Yes.  Additional Commission action taken in the 
+1 
+Utility Energy Efficiency Proceeding increased 
+2 
+the Company’s EE portfolio targets and budgets 
+3 
+for the calendar year period of 2021 through 
+4 
+2025. 
+5 
+Q. 
+Please describe the Commission’s additional 
+6 
+actions in the Utility Energy Efficiency 
+7 
+Proceeding that affected the Company’s energy 
+8 
+efficiency portfolios. 
+9 
+A. 
+On January 16, 2020, the Commission issued its 
+10 
+Order Authorizing Utility Energy Efficiency and 
+11 
+Building Electrification Portfolios Through 2025 
+12 
+(January 2020 Efficiency Order), which increased 
+13 
+the Company’s electric and gas targets and 
+14 
+budgets for the calendar year period of 2021 
+15 
+through 2025 period; established electric and 
+16 
+gas targets and budgets specific to the 
+17 
+Company’s EE program activity within its LMI 
+18 
+market segment for the same period; established 
+19 
+building electrification targets and budgets, 
+20 
+also known as heat pump program targets and 
+21 
+budgets, for the same period; directed the 
+22 
+Company to reflect these targets and budgets in 
+23 
+an updated SEEP; and directed the Company, the 
+24 
+
+
+--- Page 26 ---
+Cases 20-E-0380 & 20-G-0381 
+SESP 
+ 
+24 
+other large New York investor-owned utilities, 
+1 
+and NYSERDA to jointly file a single Statewide 
+2 
+LMI Portfolio Implementation Plan and a 
+3 
+Statewide Heat Pump Program Implementation Plan 
+4 
+with the Department. 
+5 
+Q. 
+Did the Company, the other large investor-owned 
+6 
+utilities, and NYSERDA jointly file the 
+7 
+Statewide Heat Pump Program Implementation Plan 
+8 
+with the Department? 
+9 
+A. 
+Yes.  The Statewide Heat Pump Program 
+10 
+Implementation Plan was filed in the Utility 
+11 
+Energy Efficiency Proceeding on May 29, 2020. 
+12 
+Q. 
+Has Department Staff reviewed the Statewide Heat 
+13 
+Pump Program Implementation Plan for compliance? 
+14 
+A. 
+Yes. The Department’s Director of the Office of 
+15 
+Markets and Innovation determined the plan to be 
+16 
+consistent with the provisions of the January 
+17 
+2020 Efficiency Order.  The Director of the 
+18 
+Office of Markets and Innovation filed the 
+19 
+determination in the Utility Energy Efficiency 
+20 
+Proceeding on June 15, 2020. 
+21 
+Q. 
+Did the Company, the other large investor-owned 
+22 
+utilities, and NYSERDA jointly file the 
+23 
+Statewide LMI Portfolio Implementation Plan with 
+24 
+
+
+--- Page 27 ---
+Cases 20-E-0380 & 20-G-0381 
+SESP 
+ 
+25 
+the Department? 
+1 
+A. 
+Yes.  They jointly filed the Statewide LMI 
+2 
+Portfolio Implementation Plan on July 24, 2020 
+3 
+in the Utility Energy Efficiency Proceeding. 
+4 
+Q. 
+Has Department Staff reviewed this plan for 
+5 
+compliance? 
+6 
+A. 
+Yes.  The Department’s Director of the Office of 
+7 
+Markets and Innovation determined the plan to be 
+8 
+consistent with the provisions of the January 
+9 
+2020 Efficiency Order.  The Director of the 
+10 
+Office of Markets and Innovation filed the 
+11 
+determination in the Utility Energy Efficiency 
+12 
+Proceeding on September 14, 2020. 
+13 
+Q. 
+Did the Company file an updated SEEP to reflect 
+14 
+the increased targets and budgets? 
+15 
+A. 
+Yes.  The Company filed updated SEEPs in the 
+16 
+Utility Energy Efficiency Proceeding on March 1, 
+17 
+2020 and September 15, 2020.  These filings 
+18 
+reflected the targets and budgets authorized by 
+19 
+the January 2020 Efficiency Order. 
+20 
+Q. 
+Did the Company propose EAMs associated with its 
+21 
+EE-related initiatives in these proceedings? 
+22 
+A. 
+Yes, the Company proposed EAMs directly 
+23 
+associated with its EE programs.  The direct 
+24 
+
+
+--- Page 28 ---
+Cases 20-E-0380 & 20-G-0381 
+SESP 
+ 
+26 
+testimony of the Staff Earning Adjustment 
+1 
+Mechanisms Panel addresses the Company’s 
+2 
+proposed EAMs. 
+3 
+ 
+4 
+Energy Efficiency (EE) Budgets and Targets 
+5 
+Q. 
+What electric EE budgets and targets does the 
+6 
+Company propose in its direct testimony?  
+7 
+A. 
+On page 10 of the direct testimony of the 
+8 
+Customer Energy Panel, the Company states that 
+9 
+it is adopting the total $436.07 million 
+10 
+electric EE budget and 2.23 million MWh electric 
+11 
+energy savings target authorized by the January 
+12 
+2020 Efficiency Order, for the period from 
+13 
+calendar year 2021 through 2025, with the 
+14 
+respective annual allocations laid out in 
+15 
+Appendix A of the January 2020 Efficiency Order. 
+16 
+Q. 
+What are the Company’s annual allocations of the 
+17 
+electric EE budget in the January 2020 
+18 
+Efficiency Order? 
+19 
+A. 
+The calendar year electric EE budgets in the 
+20 
+January 2020 Efficiency Order are $71,063,798 
+21 
+for 2021; $77,012,553 for 2022; $86,626,335 for 
+22 
+2023; $95,405,769 for 2024; and $105,957,095 for 
+23 
+2025. 
+24 
+
+
+--- Page 29 ---
+Cases 20-E-0380 & 20-G-0381 
+SESP 
+ 
+27 
+Q. 
+What are the Company’s annual allocations of the 
+1 
+electric EE target in the January 2020 
+2 
+Efficiency Order? 
+3 
+A. 
+The calendar year electric EE targets in the 
+4 
+January 2020 Efficiency Order are 358,443 MWh 
+5 
+for 2021; 390,844 MWh for 2022; 443,243 MWh for 
+6 
+2023; 490,947 MWh for 2024; and 548,284 MWh for 
+7 
+2025. 
+8 
+Q. 
+Are these annual electric budgets and targets 
+9 
+inclusive of the budgets and targets specific to 
+10 
+the Company’s EE program activity within its LMI 
+11 
+market segment? 
+12 
+A. 
+Yes, these annual electric budgets and targets 
+13 
+are inclusive of the LMI budgets and targets. 
+14 
+Q. 
+What heat pump initiatives budgets and targets 
+15 
+does the Company propose in its direct 
+16 
+testimony?  
+17 
+A. 
+On page 10 of the direct testimony of the 
+18 
+Customer Energy Panel, the Company states that 
+19 
+it is adopting the total $84.4 million heat pump 
+20 
+initiatives budget and 1.11 million MMBtu heat 
+21 
+pump initiatives energy savings target 
+22 
+authorized in Appendix C of the January 2020 
+23 
+Efficiency Order, for the calendar year period 
+24 
+
+
+--- Page 30 ---
+Cases 20-E-0380 & 20-G-0381 
+SESP 
+ 
+28 
+of 2020 through 2025. 
+1 
+Q. 
+What are the Company’s annual allocations of the 
+2 
+heat pump initiatives budget in Appendix C of 
+3 
+the January 2020 Efficiency Order? 
+4 
+A. 
+The calendar year heat pump initiatives budgets 
+5 
+in the January 2020 Efficiency Order are 
+6 
+$6,983,416 for 2020; $11,891,672 for 2021; 
+7 
+$14,789,044 for 2022; $16,424,789 for 2023; 
+8 
+$17,190,980 for 2024; and $17,118,933 for 2025. 
+9 
+Q. 
+What are the Company’s annual allocations of the 
+10 
+heat pump initiatives targets in the January 
+11 
+2020 Efficiency Order? 
+12 
+A. 
+The calendar year heat pump initiatives targets 
+13 
+in the January 2020 Efficiency Order are 71,239 
+14 
+MMBtu for 2020; 132,010 MMBtu for 2021; 172,203 
+15 
+MMBtu for 2022; 210,694 MMBtu for 2023; 245,889 
+16 
+MMBtu for 2024; and 280,647 MMBtu for 2025. 
+17 
+Q. 
+What gas EE targets does the Company propose in 
+18 
+its direct testimony?  
+19 
+A. 
+On page 10 of the direct testimony of the 
+20 
+Customer Energy Panel, the Company states that 
+21 
+it is adopting the total 5.13 million MMBtu gas 
+22 
+energy savings target authorized by the January 
+23 
+2020 Efficiency Order, for the period from 
+24 
+
+
+--- Page 31 ---
+Cases 20-E-0380 & 20-G-0381 
+SESP 
+ 
+29 
+calendar year 2021 through 2025, with the 
+1 
+respective annual allocations laid out in 
+2 
+Appendix A of the January 2020 Efficiency Order. 
+3 
+Q. 
+What are the Company’s annual allocations of the 
+4 
+gas EE target in the January 2020 Efficiency 
+5 
+Order? 
+6 
+A. 
+The calendar year gas EE targets in the January 
+7 
+2020 Efficiency Order are 915,155 MMBtu for 
+8 
+2021; 954,685 MMBtu for 2022; 1,009,569 MMBtu 
+9 
+for 2023; 1,085,824 MMBtu for 2024; and 
+10 
+1,172,569 MMBtu for 2025. 
+11 
+Q. 
+Are these annual gas targets inclusive of the 
+12 
+targets specific to the Company’s EE program 
+13 
+activity within its LMI market segment? 
+14 
+A. 
+Yes, these annual gas targets are inclusive of 
+15 
+the annual LMI targets. 
+16 
+Q. 
+What gas EE budgets does the Company propose in 
+17 
+its direct testimony?  
+18 
+A. 
+On page 10 of the direct testimony of the 
+19 
+Customer Energy Panel, the Company proposes 
+20 
+increasing the gas budgets authorized in the 
+21 
+January 2020 Efficiency Order by $4.34 million 
+22 
+per year for the Rate Year, Data Year 1 and Data 
+23 
+Year 2. 
+24 
+
+
+--- Page 32 ---
+Cases 20-E-0380 & 20-G-0381 
+SESP 
+ 
+30 
+Q. 
+What was the Company’s gas EE budget authorized 
+1 
+by the January 2020 Efficiency Order for the 
+2 
+calendar year period of 2021 through 2025? 
+3 
+A. 
+The January 2020 Efficiency Order authorized a 
+4 
+gas EE budget of $101.83 million for the period 
+5 
+from calendar year 2021 through 2025, with the 
+6 
+respective annual allocations laid out in 
+7 
+Appendix A of the January 2020 Efficiency Order. 
+8 
+Q. 
+What are the annual allocations of the gas EE 
+9 
+budget authorized in the January 2020 Efficiency 
+10 
+Order? 
+11 
+A. 
+The calendar year gas EE budgets authorized by 
+12 
+the January 2020 Efficiency Order are 
+13 
+$15,818,293 for 2021; $17,412,995 for 2022; 
+14 
+$19,848,460 for 2023; $22,683,432 for 2024; and 
+15 
+$26,066,704 for 2025. 
+16 
+Q. 
+What does the Panel recommend with respect to 
+17 
+the electric EE budgets and targets proposed by 
+18 
+the Company in its direct testimony? 
+19 
+A. 
+We recommend that the electric EE budgets and 
+20 
+targets proposed by the Company and previously 
+21 
+authorized by the January 2020 Efficiency Order 
+22 
+be approved. 
+23 
+Q. 
+What does the Panel recommend with respect to 
+24 
+
+
+--- Page 33 ---
+Cases 20-E-0380 & 20-G-0381 
+SESP 
+ 
+31 
+the heat pump initiatives budgets and targets 
+1 
+proposed by the Company in its direct testimony? 
+2 
+A. 
+We recommend that the heat pump initiatives 
+3 
+budgets and targets proposed by the Company and 
+4 
+previously authorized by the January 2020 
+5 
+Efficiency Order be approved. 
+6 
+Q. 
+What does the Panel recommend with respect to 
+7 
+the gas EE targets proposed by the Company in 
+8 
+its direct testimony? 
+9 
+A. 
+We recommend that the gas EE targets proposed by 
+10 
+the Company and previously authorized by the 
+11 
+January 2020 Efficiency Order be approved. 
+12 
+Q. 
+What does the Panel recommend with respect to 
+13 
+increasing the gas EE budget by $4.34 million 
+14 
+per year as proposed by the Company in its 
+15 
+direct testimony? 
+16 
+A. 
+We recommend that the Commission reject the 
+17 
+proposal to increase the gas EE budgets.  
+18 
+Instead, we recommend that the Commission 
+19 
+confirm the budgets authorized by the January 
+20 
+2020 Efficiency Order. 
+21 
+Q. 
+Please explain why the Panel does not recommend 
+22 
+increasing the Company’s gas EE budget. 
+23 
+A. 
+We conclude that the gas EE budgets that the 
+24 
+
+
+--- Page 34 ---
+Cases 20-E-0380 & 20-G-0381 
+SESP 
+ 
+32 
+Commission authorized in the January 2020 
+1 
+Efficiency Order are sufficient to achieve the 
+2 
+corresponding gas EE savings targets that the 
+3 
+Commission authorized in that same Order.  The 
+4 
+Company proposes only to achieve these same EE 
+5 
+savings targets in its direct testimony.  The 
+6 
+Company has historically achieved its 
+7 
+Commission-authorized gas EE savings targets 
+8 
+without spending the entirety of its 
+9 
+corresponding budgets.   
+10 
+Q. 
+Please explain your statement that the Company 
+11 
+has historically achieved its gas EE savings 
+12 
+targets without spending the entirety of its 
+13 
+budgets. 
+14 
+A. 
+The Company’s response to IR DPS-603, indicates 
+15 
+that only 82.4 percent of the Company’s ETIP gas 
+16 
+EE funding for the calendar year period 2016-
+17 
+2019 was spent as of December 31, 2019.  The 
+18 
+Company’s response to IR DPS-603 also indicates 
+19 
+that the Company achieved over 104 percent of 
+20 
+its ETIP gas EE savings target for the same 
+21 
+period as of December 31, 2019. 
+22 
+ 
+23 
+ 
+24 
+
+
+--- Page 35 ---
+Cases 20-E-0380 & 20-G-0381 
+SESP 
+ 
+33 
+EE Program Cost Recovery 
+1 
+Q. 
+How are the Company’s EE portfolios currently 
+2 
+funded? 
+3 
+A. 
+The 2018 Rate Order transitioned the Company 
+4 
+from funding costs associated with 
+5 
+implementation of its EE portfolios from the EE 
+6 
+Tracker to recovery of EE program costs through 
+7 
+base rates. 
+8 
+Q. 
+Did the Company propose any changes to how it 
+9 
+should collect these EE costs in its direct 
+10 
+testimony? 
+11 
+A. 
+No, the Company did not. 
+12 
+Q. 
+Does the Panel recommend a reconciliation of EE 
+13 
+costs? 
+14 
+A. 
+Yes.  We recommend a reconciliation that aligns 
+15 
+with the Commission’s direction in the March 
+16 
+2018 ETIP Order.  Specifically, we recommend a 
+17 
+downward-only reconciliation of the EE expenses 
+18 
+at the end of the Rate Year.  In the event of a 
+19 
+multi-year settlement, we recommend that the 
+20 
+Company be allowed to carry unspent funds from 
+21 
+year to year during the term of the rate plan.  
+22 
+Following the end of the rate term, and annually 
+23 
+thereafter, any unspent funds should be 
+24 
+
+
+--- Page 36 ---
+Cases 20-E-0380 & 20-G-0381 
+SESP 
+ 
+34 
+deferred, with appropriate carrying charges, for 
+1 
+future ratepayer benefit. 
+2 
+Q. 
+Does the Company propose to collect the entirety 
+3 
+of its EE budgets through base rates? 
+4 
+A. 
+Yes.  The Company’s response to IR DPS-969 
+5 
+indicates that, while the Company is not 
+6 
+opposed, in principle, to mitigating EE costs 
+7 
+using unspent EEPS and ETIP funds, the Company’s 
+8 
+preference would be to retain those funds as net 
+9 
+deferral credits to offset other incremental EE 
+10 
+programs that may arise in the future. 
+11 
+Q. 
+Please explain what is meant by “unspent EEPS 
+12 
+funds.” 
+13 
+A. 
+Unspent EEPS funds are those funds that the 
+14 
+Company collected from its customers through the 
+15 
+System Benefits Charge surcharge to pay for EE 
+16 
+programs offered during the EEPS period, but 
+17 
+such funds were neither spent nor encumbered. 
+18 
+Q. 
+Please explain what is meant by “unspent ETIP 
+19 
+funds.” 
+20 
+A. 
+Unspent ETIP funds are those funds that the 
+21 
+Company collected from its customers through the 
+22 
+EE Tracker surcharge mechanism to recover the 
+23 
+costs associated with the ETIP EE programs 
+24 
+
+
+--- Page 37 ---
+Cases 20-E-0380 & 20-G-0381 
+SESP 
+ 
+35 
+during the ETIP period beginning January 1, 
+1 
+2016, but such funds were neither spent nor 
+2 
+encumbered. 
+3 
+Q. 
+What is the amount of electric EE funding that 
+4 
+has been collected by the Company but not yet 
+5 
+spent or encumbered? 
+6 
+A. 
+The Company’s response to IR DPS-969, indicates 
+7 
+that the Company has a balance of $57.4 million 
+8 
+of electric EE funding that has been collected 
+9 
+by the Company but not yet spent or encumbered. 
+10 
+Q. 
+What is the amount of gas EE funding that has 
+11 
+been collected by the Company but not yet spent 
+12 
+or encumbered? 
+13 
+A. 
+The Company’s response to IR DPS-969 also 
+14 
+indicates that the Company has a balance of 
+15 
+$19.6 million of gas EE funding that has been 
+16 
+collected by the Company but not yet spent or 
+17 
+encumbered. 
+18 
+Q. 
+Does the Panel agree with the Company’s proposed 
+19 
+use of unspent funds? 
+20 
+A. 
+No.  The unspent funds should be used to 
+21 
+directly offset collection of the authorized EE 
+22 
+budgets. 
+23 
+Q. 
+Does the Panel recommend using any other source 
+24 
+
+
+--- Page 38 ---
+Cases 20-E-0380 & 20-G-0381 
+SESP 
+ 
+36 
+of funds to offset the EE budgets? 
+1 
+A. 
+Yes.  In addition to using all unspent EEPS and 
+2 
+ETIP funds, we also recommend using NYSERDA 
+3 
+Clean Energy Fund (CEF) Bill-As-You-Go (BAYG) 
+4 
+collections to offset collections through rates 
+5 
+to fund the EE budgets, as also indicated in 
+6 
+Exhibit__(SESP-2). 
+7 
+Q. 
+How does interest accrue on NYSERDA CEF 
+8 
+collections?  
+9 
+A. 
+The NYSERDA CEF collections are collected by the 
+10 
+Company through the SBC surcharge.  NYSERDA 
+11 
+relies on a quarterly BAYG approach to obtain 
+12 
+the CEF funding from the utilities.  Under this 
+13 
+methodology, the Company collects its authorized 
+14 
+share of NYSERDA’s CEF budget on an ongoing 
+15 
+basis, but only transfers its proportional share 
+16 
+of NYSERDA’s actual expenditures at the end of 
+17 
+each quarter.  This approach results in the 
+18 
+Company accruing a balance of CEF funds.  
+19 
+Further, in accordance with the Commission’s 
+20 
+Order Authorizing the Clean Energy Fund 
+21 
+Framework (CEF Order), issued January 21, 2016 
+22 
+in Case 14-M-0094, the Company is required to 
+23 
+apply carrying charges on this accrued balance 
+24 
+
+
+--- Page 39 ---
+Cases 20-E-0380 & 20-G-0381 
+SESP 
+ 
+37 
+using the Other Customer Provided Capital Rate.  
+1 
+The current balance of unspent NYSERDA CEF and 
+2 
+BAYG funds are also shown in Exhibit___(SESP-2). 
+3 
+Q. 
+How does the Panel recommend using the unspent 
+4 
+EE, and NYSERDA CEF and BAYG funds? 
+5 
+A. 
+We are not currently making any recommendation 
+6 
+with respect to use of the unspent EE, and 
+7 
+NYSERDA CEF and BAYG funds.  However, the direct 
+8 
+testimony of the Staff Policy Panel discusses 
+9 
+potential use of these funds in the event that 
+10 
+the Commission does not agree with some or all 
+11 
+of Staff’s recommended revenue requirement 
+12 
+adjustments in these proceedings.  A more 
+13 
+detailed description of that proposal can be 
+14 
+found in the direct testimony of the Staff 
+15 
+Policy Panel. 
+16 
+Q. 
+Is the Panel’s recommended use of unspent EE 
+17 
+funds further discussed in the Direct Testimony 
+18 
+of the Staff Accounting Panel? 
+19 
+A. 
+Yes, the Staff Accounting Panel discusses the 
+20 
+amortization of unspent funds in further detail. 
+21 
+ 
+22 
+ 
+23 
+ 
+24 
+
+
+--- Page 40 ---
+Cases 20-E-0380 & 20-G-0381 
+SESP 
+ 
+38 
+Energy Efficiency Labor Expense 
+1 
+Q. 
+Is the Company proposing any incremental FTE 
+2 
+employees associated with the EE programs? 
+3 
+A. 
+Yes.  On pages 13-16 of the direct testimony of 
+4 
+the Customer Energy Panel, the Company proposes 
+5 
+an additional 42.5 FTEs in the Rate Year. 
+6 
+Q. 
+What are the positions and associated job 
+7 
+functions of the additional 42.5 employees? 
+8 
+A. 
+The Company requests nine program strategy 
+9 
+analysts and new product development FTEs to 
+10 
+support the authorized incremental targets; one 
+11 
+employee to build a new portfolio of LMI program 
+12 
+offerings; 8.5 program delivery FTEs to launch 
+13 
+and manage the new EE programs, as well as 
+14 
+support analysis and application processing; 
+15 
+five FTEs for commercial sales and sales related 
+16 
+to the Utility Energy Service Contracts program; 
+17 
+two technical FTEs with specific project and 
+18 
+technology expertise to support the review of 
+19 
+new measures and custom project review process; 
+20 
+four FTEs for portfolio support functions such 
+21 
+as additional EM&V activities, marketing, and 
+22 
+review and support of the EE sourcing actives 
+23 
+within the procurement function; six FTEs to 
+24 
+
+
+--- Page 41 ---
+Cases 20-E-0380 & 20-G-0381 
+SESP 
+ 
+39 
+participate in new clean energy policy work 
+1 
+being undertaken by the Commission specific EE 
+2 
+guidance and reporting, LMI policy, and heat 
+3 
+pump coordination; and seven FTEs to support the 
+4 
+Real Time Energy Management program. 
+5 
+Q. 
+Does the Panel support the Company’s proposal 
+6 
+regarding the hiring of the additional 42.5 
+7 
+FTEs? 
+8 
+A. 
+We do not recommend allowing recovery of an 
+9 
+additional 42.5 FTEs.  However, we recommend 
+10 
+allowing an additional 14 FTEs in the Rate Year 
+11 
+to help support the ramp up of the enhanced EE 
+12 
+portfolios. 
+13 
+Q. 
+What is the basis for the Panel’s 
+14 
+recommendation? 
+15 
+A. 
+As shown in Exhibit___(SESP-3), the Company’s 
+16 
+combined electric, gas, and heat pump portfolio 
+17 
+savings target for calendar year 2019 was 
+18 
+1,959,894 MMBtu-equivalents.  The January 2020 
+19 
+Efficiency Order indicates that the Company’s 
+20 
+average annual combined electric, gas, and heat 
+21 
+pump portfolio savings target, for the period 
+22 
+from calendar year 2021 through 2024, is 
+23 
+2,616,670 MMBtu-equivalent; a 33.5 percent 
+24 
+
+
+--- Page 42 ---
+Cases 20-E-0380 & 20-G-0381 
+SESP 
+ 
+40 
+increase over the savings target for 2019.  In 
+1 
+the Company’s response to IR DPS-604, the 
+2 
+Company indicated that it had 42 FTEs working on 
+3 
+the electric and gas EE programs in 2019.  A 
+4 
+33.5 percent increase in the number of FTEs in 
+5 
+2019, comparable to the 33.5 percent increase in 
+6 
+average annual targeted savings in 2021 through 
+7 
+2024 over the savings target for 2019, equates 
+8 
+to 14 additional FTEs. 
+9 
+Q. 
+What are the positions and associated job 
+10 
+functions of these recommended 14 FTEs? 
+11 
+A. 
+We recommend three program strategy analysts and 
+12 
+new product development FTEs to support the 
+13 
+incremental targets authorized; 0.5 FTE to build 
+14 
+a new portfolio of LMI program offerings; 2.5 
+15 
+program delivery FTEs to launch and manage the 
+16 
+new EE programs, as well as support analysis and 
+17 
+application processing; 1.5 FTEs for commercial 
+18 
+sales and sales related to the Utility Energy 
+19 
+Service Contracts program; one technical FTE 
+20 
+with specific project and technology expertise 
+21 
+to support the review of new measures and custom 
+22 
+project review process; 1.5 FTEs for portfolio 
+23 
+support functions such as additional EM&V 
+24 
+
+
+--- Page 43 ---
+Cases 20-E-0380 & 20-G-0381 
+SESP 
+ 
+41 
+activities, marketing, and review and support of 
+1 
+the EE sourcing actives within the procurement 
+2 
+function; two FTEs to participate in new clean 
+3 
+energy policy work being undertaken by the 
+4 
+Commission specific to EE guidance and 
+5 
+reporting, LMI policy, and heat pump 
+6 
+coordination; and two FTEs to support the Real 
+7 
+Time Energy Management program. 
+8 
+Q. 
+What is the basis for the Panel’s recommendation 
+9 
+regarding the numbers of specific positions and 
+10 
+their respective associated job functions? 
+11 
+A. 
+The Company proposed hiring 42.5 additional 
+12 
+FTEs; the Panel is recommending 14 additional 
+13 
+FTEs, or 33 percent of the number of FTEs 
+14 
+requested by the Company.  Regarding individual 
+15 
+positions and associated job functions, also 
+16 
+shown in Exhibit___(SESP-3), we recommend 
+17 
+approximately 33 percent of the additional 
+18 
+individual positions proposed by the Company.  
+19 
+Our recommended reduction in FTEs is also 
+20 
+included in Exhibit___(SESP-4), which provides 
+21 
+an overview of all of our revenue requirement-
+22 
+related adjustments, further described below. 
+23 
+ 
+24 
+
+
+--- Page 44 ---
+Cases 20-E-0380 & 20-G-0381 
+SESP 
+ 
+42 
+FUEL-SWITCHING CALCULATOR 
+1 
+Q. 
+Please describe the fuel-switching calculator 
+2 
+proposed by NMPC. 
+3 
+A. 
+On page 17 of the direct testimony of the Future 
+4 
+of Heat (FOH) Panel, the Company describes a 
+5 
+proposed fuel-switching calculator as a web-
+6 
+based tool that would inform customers about the 
+7 
+energy savings and financial implications 
+8 
+associated with switching from the customer’s 
+9 
+existing fuel source to an alternative fuel 
+10 
+source, including natural gas, geothermal heat 
+11 
+pumps, and renewable natural gas.  The 
+12 
+calculator would provide customers with a side-
+13 
+by-side comparison, including the estimated 
+14 
+annual cost, payback period, available 
+15 
+incentives, tax credits, conversion costs, and 
+16 
+annual fuel savings. 
+17 
+Q. 
+Does the Panel support the fuel-switching 
+18 
+calculator? 
+19 
+A. 
+Yes.  The fuel-switching calculator enables 
+20 
+customers to evaluate different heating options 
+21 
+to make more informed energy decisions when 
+22 
+choosing or replacing the energy equipment in 
+23 
+their homes.  We supported a similar project 
+24 
+
+
+--- Page 45 ---
+Cases 20-E-0380 & 20-G-0381 
+SESP 
+ 
+43 
+proposed in the ongoing rate proceedings 
+1 
+regarding NMPC’s affiliated gas utilities, KEDNY 
+2 
+and KEDLI, in Cases 19-G-0309 and 19-G-0310. 
+3 
+Q. 
+Did the Panel recommend any changes to the fuel-
+4 
+switching calculator proposed in the KEDNY and 
+5 
+KEDLI rate cases? 
+6 
+A. 
+Yes, we had two recommendations.  First, we 
+7 
+recommended that National Grid adopt 
+8 
+standardized assumptions and calculations where 
+9 
+appropriate to allow the calculator to be used 
+10 
+by other National Grid utilities, such as NMPC 
+11 
+and the affiliates in Massachusetts and Rhode 
+12 
+Island.  Second, we recommended that the 
+13 
+calculator include other end-uses of fuel in 
+14 
+addition to primary heat such as domestic hot 
+15 
+water, cooking, or air conditioning to give 
+16 
+customers a complete picture of energy impacts 
+17 
+that electrifying a home may entail.  This 
+18 
+improved functionality may pair well with 
+19 
+providing information on additional EE upgrades 
+20 
+that can be made, for example, weatherization 
+21 
+projects which may markedly reduce a building’s 
+22 
+heating and cooling needs. 
+23 
+Q. 
+Is the Company proposing any incremental FTEs 
+24 
+
+
+--- Page 46 ---
+Cases 20-E-0380 & 20-G-0381 
+SESP 
+ 
+44 
+associated with the fuel-switching calculator? 
+1 
+A. 
+Yes.  On page 18 of the direct testimony of the 
+2 
+FOH Panel, the Company proposes one additional 
+3 
+FTE. 
+4 
+Q. 
+Does the Panel support the Company’s request for 
+5 
+one additional FTE? 
+6 
+A. 
+No.  We do not support the additional labor and 
+7 
+overhead costs shown in Exhibit__(FOH-1) 
+8 
+Schedule 1 for the fuel-switching calculator.  
+9 
+As we mentioned previously, Staff supported the 
+10 
+fuel-switching calculator in the KEDNY and KEDLI 
+11 
+rate cases, which contained appropriate 
+12 
+incremental labor to implement the Fuel 
+13 
+Switching Calculator.  An additional FTE to 
+14 
+implement the same tool at NMPC is simply not 
+15 
+needed.  Our recommended revenue requirement 
+16 
+adjustments related to the fuel-switching 
+17 
+calculator are shown in Exhibit___(SESP-4). 
+18 
+ 
+19 
+GEOTHERMAL NETWORK PROGRAM 
+20 
+Q. 
+Please describe the Company’s geothermal pilot 
+21 
+program. 
+22 
+A. 
+As stated on pages 29-30 of the FOH Panel’s 
+23 
+direct testimony, the Company proposes to own 
+24 
+
+
+--- Page 47 ---
+Cases 20-E-0380 & 20-G-0381 
+SESP 
+ 
+45 
+and operate a geothermal shared loop service 
+1 
+program, which would provide heating and cooling 
+2 
+through customer-owned heat pumps.  NMPC 
+3 
+outlined four main components of the program on 
+4 
+page 30 of the FOH Panel’s direct testimony.  
+5 
+First, the program will seek a range of customer 
+6 
+types including existing delivered fuel 
+7 
+customers and new construction customers.  
+8 
+Second, NMPC will explore the feasibility of 
+9 
+replacing aging leak prone gas pipes with the 
+10 
+geothermal shared loop service.  Third, NMPC 
+11 
+seeks to account for its investment on a 
+12 
+deferred basis to be amortized over 50 years, 
+13 
+i.e., the estimated life of the shared loop.  
+14 
+Finally, the program will include a long-term 
+15 
+contract rate for participating geothermal 
+16 
+customers to reimburse the Company for the cost 
+17 
+of installation and maintenance of the loop. 
+18 
+Q. 
+What approvals is the Company seeking from the 
+19 
+Commission for the geothermal shared loop pilot 
+20 
+program? 
+21 
+A. 
+On page 30-31 of the direct testimony of the FOH 
+22 
+Panel, the Company requests Commission approval 
+23 
+for: (1) regulatory asset treatment related to 
+24 
+
+
+--- Page 48 ---
+Cases 20-E-0380 & 20-G-0381 
+SESP 
+ 
+46 
+the installation costs of the geothermal assets 
+1 
+amortized over fifty years, the estimated life 
+2 
+of the shared loop equipment; (2) a total of 
+3 
+$100,000 in the Rate Year to set up and 
+4 
+administer the program; and (3) two additional 
+5 
+FTEs to support the proposed geothermal pilot 
+6 
+program. 
+7 
+Q. 
+Why is the Company requesting authority to treat 
+8 
+the installation costs associated with its 
+9 
+geothermal assets as regulatory assets? 
+10 
+A. 
+Utilities are required to record accounting 
+11 
+transactions using the Uniform System of 
+12 
+Accounts for Public Utilities, under Title 18 of 
+13 
+the Code of Federal Regulations.  The Uniform 
+14 
+System of Accounts provides a detailed list of 
+15 
+specific account numbers, account titles, basic 
+16 
+account descriptions, accounting definitions, 
+17 
+and general instructions regarding the 
+18 
+accounting basis for recording amounts to the 
+19 
+specific accounts.  However, the Uniform System 
+20 
+of Accounts does not contain any capital 
+21 
+accounts to which geothermal infrastructure 
+22 
+investments can be recorded to allow for the 
+23 
+amortization of these investments over their 
+24 
+
+
+--- Page 49 ---
+Cases 20-E-0380 & 20-G-0381 
+SESP 
+ 
+47 
+estimated useful life.  Therefore, the Company 
+1 
+has proposed to record the costs associated with 
+2 
+its geothermal investments in a regulatory asset 
+3 
+account and amortize the costs over the 
+4 
+geothermal investments’ estimated useful life of 
+5 
+fifty years.  
+6 
+Q. 
+Does the Company provide additional rationale to 
+7 
+support its request to treat the installation 
+8 
+costs associated with its geothermal assets as 
+9 
+regulatory assets? 
+10 
+A. 
+Yes.  As stated on page 31 of the FOH Panel’s 
+11 
+direct testimony, the Company argues that it is 
+12 
+appropriate to defer and amortize these costs 
+13 
+over the estimated life of the shared loop 
+14 
+assets, rather than expense the entire costs in 
+15 
+the year when the costs are incurred because the 
+16 
+shared loop represents an investment in 
+17 
+infrastructure that potentially offsets gas 
+18 
+infrastructure.  In addition, on page 31 of the 
+19 
+FOH Panel’s direct testimony, the Company argues 
+20 
+that it is appropriate to treat these costs as 
+21 
+regulatory assets because the shared loops will 
+22 
+be acting as an NPA and the program will be 
+23 
+advancing the climate targets outlined in the 
+24 
+
+
+--- Page 50 ---
+Cases 20-E-0380 & 20-G-0381 
+SESP 
+ 
+48 
+Climate Leadership Community Protection Act 
+1 
+(CLCPA) by providing alternative heating options 
+2 
+with lower GHG emissions than traditional 
+3 
+heating options. 
+4 
+Q. 
+What does NMPC forecast for the costs associated 
+5 
+with the geothermal pilot program? 
+6 
+A. 
+On page 32 of the direct testimony of the FOH 
+7 
+Panel, the Company forecasts it will spend a 
+8 
+total of $12.88 million for the geothermal 
+9 
+assets, $1.00 million for labor associated with 
+10 
+two FTEs which would be hired during the Rate 
+11 
+Year, and $0.10 million for non-labor operating 
+12 
+expenses for fiscal years 2022 through 2025. 
+13 
+Q. 
+How does the Company propose to recover the 
+14 
+costs of its geothermal pilot program? 
+15 
+A. 
+As stated on page 32 of the FOH Panel’s direct 
+16 
+testimony, the Company intends to recover its 
+17 
+costs associated with the geothermal assets 
+18 
+through fees paid by participating geothermal 
+19 
+customers in the Company’s geothermal project.  
+20 
+The Company proposes to recover the labor and 
+21 
+non-labor operations and maintenance (O&M) 
+22 
+expenses for administering the program in gas 
+23 
+customers’ base rates. 
+24 
+
+
+--- Page 51 ---
+Cases 20-E-0380 & 20-G-0381 
+SESP 
+ 
+49 
+Q. 
+How would the Company use the two additional 
+1 
+FTEs it is requesting to support the geothermal 
+2 
+pilot program? 
+3 
+A. 
+The incremental FTEs requested would be 
+4 
+responsible for customer outreach, coordinating 
+5 
+with geothermal vendors installing ground loops 
+6 
+and converting in-home appliances, commissioning 
+7 
+system installations, managing billing system 
+8 
+changes, monitoring and reporting on performance 
+9 
+data, and assessing and reporting changes to the 
+10 
+weighted average cost per ton. 
+11 
+Q. 
+Did the FOH Panel describe how geothermal 
+12 
+customers would be charged? 
+13 
+A. 
+Yes, the Company describes its planned 
+14 
+geothermal pilot fee structure on page 36-37 of 
+15 
+the FOH Panel’s direct testimony.  The Company 
+16 
+proposes to charge geothermal customers a flat, 
+17 
+monthly fee based on their peak heating needs, 
+18 
+measured in tons of heat pump capacity.  The 
+19 
+Company states that this flat fee will allocate 
+20 
+costs based on the loop capacity used by the 
+21 
+customer and will simplify billing for 
+22 
+customers. 
+23 
+Q. 
+How does the Company propose to design its fee 
+24 
+
+
+--- Page 52 ---
+Cases 20-E-0380 & 20-G-0381 
+SESP 
+ 
+50 
+it charges to participating customers? 
+1 
+A. 
+As stated on page 36 of the FOH Panel’s direct 
+2 
+testimony, a standardized fixed price per ton 
+3 
+based on the weighted average system cost per 
+4 
+ton will be determined for all customers, and 
+5 
+customers will be charged a multiple of that 
+6 
+rate based on the size of the customers’ 
+7 
+independent system.  The Company proposes to 
+8 
+periodically review its standard price per ton, 
+9 
+and expects that the price per ton will decrease 
+10 
+in the future as the cost to install geothermal 
+11 
+systems decreases. 
+12 
+Q. 
+What initial weighted average cost per ton is 
+13 
+the Company proposing? 
+14 
+A. 
+On page 32 of the FOH Panel’s direct testimony, 
+15 
+the Company states that the weighted average 
+16 
+cost per ton for its proposed project will be 
+17 
+$22.69 per ton per month.  To determine the 
+18 
+monthly cost a customer would pay, the Company 
+19 
+would multiply the monthly weighted average cost 
+20 
+per ton by the number of tons based on the peak 
+21 
+heating need in the customer’s building.  For 
+22 
+example, the minimum charge for access to the 
+23 
+system will be equal to the cost for a three-ton 
+24 
+
+
+--- Page 53 ---
+Cases 20-E-0380 & 20-G-0381 
+SESP 
+ 
+51 
+system or $68.07 per month.  The access charge 
+1 
+for a typical five-ton system would be $113.45 
+2 
+per month. 
+3 
+Q. 
+What are the other costs for which geothermal 
+4 
+customers would be responsible? 
+5 
+A. 
+Customers would be responsible for purchasing 
+6 
+the heat pump and the electricity needed to 
+7 
+operate the heat pump.  Since a geothermal heat 
+8 
+pump uses electricity to power the compressor, 
+9 
+fan, and circulator to move heat from the ground 
+10 
+into a building, the customers’ electric usage 
+11 
+will increase.  In a heat-dominant climate, such 
+12 
+as New York, about half of the additional 
+13 
+electric usage is expected to be used in 
+14 
+December, January, and February.  
+15 
+Q. 
+Does the Panel have an estimate for the cost of 
+16 
+a complete geothermal system installation for a 
+17 
+single-family residential home.? 
+18 
+A. 
+The panel estimates that a typical single-family 
+19 
+homeowner can expect to invest up to $35,000 for 
+20 
+a typical single-family geothermal system.  This 
+21 
+cost would cover a complete installation of a 
+22 
+heating and cooling geothermal system.  For 
+23 
+large homes, the cost can range from $35,000 to 
+24 
+
+
+--- Page 54 ---
+Cases 20-E-0380 & 20-G-0381 
+SESP 
+ 
+52 
+$45,000.  
+1 
+Q. 
+Why is there a wide range in the equipment cost? 
+2 
+A. 
+The cost of a geothermal installation will vary 
+3 
+based on building size, building envelope, 
+4 
+location, soil type, available land for the 
+5 
+ground loop, local climate, condition of 
+6 
+existing duct, electrical panel upgrades, and 
+7 
+heat pump selection.  The ground loop is 
+8 
+responsible for about half of the heat pump’s 
+9 
+cost.  
+10 
+Q. 
+Is the Company’s proposed pilot program cost 
+11 
+competitive with current third-party offerings? 
+12 
+A. 
+No.  For example, in 2020, Dandelion Energy 
+13 
+installed many complete five-ton systems, which 
+14 
+included the loop field, heat pump and 
+15 
+associated equipment for approximately $152.19 
+16 
+per month over 20 years.  At the end of 20 years 
+17 
+customers will own the system, increase their 
+18 
+property value, and no longer have a monthly 
+19 
+payment.  The total payment over the 20-year 
+20 
+term of a Dandelion contract for a 5-ton 
+21 
+residential system total is $36,717.60.   
+22 
+Q. 
+How does the Company’s proposed geothermal pilot 
+23 
+program compare? 
+24 
+
+
+--- Page 55 ---
+Cases 20-E-0380 & 20-G-0381 
+SESP 
+ 
+53 
+A. 
+Geothermal pilot program participants would pay 
+1 
+the monthly fee indefinitely.  In addition, the 
+2 
+Company’s proposed geothermal pilot program 
+3 
+would require participants to purchase and 
+4 
+install their own above-ground heat pump 
+5 
+equipment, which costs approximately $12,000 - 
+6 
+$25,000 without incentives.  In approximately 27 
+7 
+years, customers participating in National 
+8 
+Grid’s geothermal pilot program would have been 
+9 
+better off instead purchasing their own complete 
+10 
+five-ton system including the loop field, heat 
+11 
+pump and associated equipment.  Yet, even at 
+12 
+that point, they would have no end in sight to 
+13 
+the continuing monthly payments for use of the 
+14 
+Company’s loop field. 
+15 
+Q. 
+Does the Panel have any other concerns related 
+16 
+to NMPC’s geothermal pilot program? 
+17 
+A. 
+Yes.  The project, as proposed, does not feature 
+18 
+new methods and there are other funding 
+19 
+opportunities available. 
+20 
+Q. 
+What do you mean by featuring new methods? 
+21 
+A. 
+The pilot NMPC proposes distributes water to 
+22 
+individual single-family homes, where users are 
+23 
+responsible for providing their own heat pump 
+24 
+
+
+--- Page 56 ---
+Cases 20-E-0380 & 20-G-0381 
+SESP 
+ 
+54 
+equipment and pumping to heat or cool their 
+1 
+facilities.  Customer billing, which is based on 
+2 
+a flat price per ton is over simplified and not 
+3 
+fair to customers since they own, operate, and 
+4 
+maintain the equipment.  A reasonable pilot 
+5 
+should aid in developing pricing and business 
+6 
+models, which are compliant with existing 
+7 
+regulations and/or inform future regulations, 
+8 
+instead of relying on overly simplistic models 
+9 
+which will not help determine customer price 
+10 
+responsiveness to realistic price signals. 
+11 
+Q. 
+Please discuss the other funding opportunities 
+12 
+available. 
+13 
+A. 
+Apart from utility-funded programs, there are 
+14 
+several heat pump-related efforts being offered 
+15 
+by NYSERDA.  Specifically, NYSERDA  intends to 
+16 
+issue a competitive solicitation for a Community 
+17 
+Heat Pump System Program Opportunity Notice 
+18 
+(PON) and is inviting participation from public 
+19 
+or private entities, public-private 
+20 
+partnerships, and utilities.  More information 
+21 
+about NYSERDA’s draft solicitation is available 
+22 
+at: https://www.nyserda.ny.gov/Researchers-and-
+23 
+Policymakers/Clean-Heating-and-Cooling/Clean-
+24 
+
+
+--- Page 57 ---
+Cases 20-E-0380 & 20-G-0381 
+SESP 
+ 
+55 
+Thermal-District-Systems. 
+1 
+Q. 
+What is the purpose of the PON? 
+2 
+A. 
+The NYSERDA PON will be seeking proposals to 
+3 
+accelerate market capacity and adoption of 
+4 
+community-style heat pumps serving customers in 
+5 
+New York State that pay, or in the case of 
+6 
+systems installed as part of a new construction 
+7 
+project will pay, the System Benefits Charge on 
+8 
+their electric bill.  This PON will serve to 
+9 
+help gain insights specific to pricing, business 
+10 
+models, and regulatory aspects particular to the 
+11 
+various marketplaces throughout New York State, 
+12 
+and sharing the information broadly across 
+13 
+stakeholders. 
+14 
+Q. 
+In which topic areas related to heat pump shared 
+15 
+loop systems will a utility be able to 
+16 
+participate? 
+17 
+A. 
+The NYSERDA PON is expected to accept proposals 
+18 
+in the following categories: Site-specific 
+19 
+Scoping Studies, Site-specific Design Studies, 
+20 
+Site-Specific Implementation Project, and Market 
+21 
+Studies/Best Practice Guidebooks.  The Company 
+22 
+will be able to submit proposals for all of 
+23 
+these categories, if it so chooses.  Therefore, 
+24 
+
+
+--- Page 58 ---
+Cases 20-E-0380 & 20-G-0381 
+SESP 
+ 
+56 
+we recommend that the Company seek to use the 
+1 
+NYSERDA PON as a funding source instead of 
+2 
+relying on gas customers. 
+3 
+Q. 
+Why does the Panel recommend the NYSERDA PON be 
+4 
+used as a funding source for gaining information 
+5 
+on shared geothermal loops instead of through 
+6 
+the Company’s proposal? 
+7 
+A. 
+The NYSERDA PON is a more appropriate funding 
+8 
+source since insights gained will inform the 
+9 
+statewide effort to expand existing heat pump 
+10 
+programs or establish new heat pump programs. 
+11 
+Q. 
+Did NMPC describe how the geothermal pilot 
+12 
+program is related to the state’s overall EE 
+13 
+goals? 
+14 
+A. 
+On page 25 of the FOH Panel’s direct testimony, 
+15 
+the Company asserts that the geothermal pilot 
+16 
+program complements the New York State Clean 
+17 
+Heat Program, which was established under the 
+18 
+January 2020 Efficiency Order.  The Company 
+19 
+proposes that the geothermal pilot program will 
+20 
+finance the high cost of the underground loop, 
+21 
+while the New York State Clean Heat incentives 
+22 
+will offset the costs of above ground heat pump 
+23 
+equipment.  The Company further asserts that the 
+24 
+
+
+--- Page 59 ---
+Cases 20-E-0380 & 20-G-0381 
+SESP 
+ 
+57 
+geothermal shared loop is comparable to the 
+1 
+underground infrastructure needed for gas 
+2 
+service to a customer, and that the incentives 
+3 
+offered through NE:NY are comparable to EE 
+4 
+incentives available for high efficiency 
+5 
+equipment installed by the customer. 
+6 
+Q. 
+Does the Panel agree with the Company that the 
+7 
+geothermal pilot program complements the New 
+8 
+York State Clean Heat Program established under 
+9 
+the NE:NY Order? 
+10 
+A. 
+No.  As proposed, the Company’s approach would 
+11 
+either unreasonably layer incentives over those 
+12 
+that the New York State Clean Heat program 
+13 
+already provides or would require modification 
+14 
+to the New York State Clean Heat Program’s 
+15 
+Implementation Plan and Program Manual, which 
+16 
+provides the rules by which utility heat pump 
+17 
+programs must abide.  The New York State Clean 
+18 
+Heat Program’s Implementation Plan and Program 
+19 
+manual was submitted on June 1, 2020 in Case 18-
+20 
+M-0084. 
+21 
+Q. 
+Who is responsible for modification to the 
+22 
+Implementation Plan and the Program Manual? 
+23 
+A. 
+According to the New York State Clean Heat: 
+24 
+
+
+--- Page 60 ---
+Cases 20-E-0380 & 20-G-0381 
+SESP 
+ 
+58 
+Statewide Heat Pump Program Implementation Plan, 
+1 
+the Joint Management Committee will be 
+2 
+responsible for reviewing and maintaining the 
+3 
+New York State Clean Heat program including 
+4 
+modification to the Implementation Plan and the 
+5 
+Program Manual.  The Joint Management Committee 
+6 
+includes New York State investor-owned electric 
+7 
+utilities and NYSERDA.  The Company is a 
+8 
+participating member of the committee.  
+9 
+Department Staff provides an oversight and 
+10 
+consultative role for the Joint Management 
+11 
+Committee. 
+12 
+Q. 
+Has the New York State Clean Heat Program Joint 
+13 
+Management Committee made changes to the 
+14 
+statewide program’s incentive structure or 
+15 
+program rules to consider the Company’s 
+16 
+geothermal shared loop proposal as an eligible 
+17 
+technology in the program. 
+18 
+A. 
+No.  Since the Company’s proposed geothermal 
+19 
+pilot program is not eligible for incentives as 
+20 
+part of the New York State Clean Heat Program, 
+21 
+it is clear that the geothermal pilot program 
+22 
+would not complement the New York State Clean 
+23 
+Heat Program. 
+24 
+
+
+--- Page 61 ---
+Cases 20-E-0380 & 20-G-0381 
+SESP 
+ 
+59 
+Q. 
+Does the Company’s shared loop proposal exclude 
+1 
+private firms from acting in the market or 
+2 
+significantly impair their ability to compete in 
+3 
+a private market? 
+4 
+A. 
+Yes.  We see utility ownership of geothermal 
+5 
+loop fields and/or heat pumps as a last resort 
+6 
+in the event that the private market is 
+7 
+unwilling or has failed to provide a cost-
+8 
+effective solution.  Since the suite of programs 
+9 
+and incentives available to spur heat pump 
+10 
+penetration in New York are still relatively 
+11 
+new, we do not currently see evidence that the 
+12 
+market has failed nor that it will continue to 
+13 
+fail to serve customers in the future. 
+14 
+Q. 
+Has NMPC identified market segments it will 
+15 
+target for installation of shared loop fields? 
+16 
+A. 
+The Company has not identified which segment of 
+17 
+the market it will target for installation of 
+18 
+the shared loop systems.  It is not clear what 
+19 
+impact this decision will have on private market 
+20 
+competition. 
+21 
+Q. 
+Does the private market offer loop fields 
+22 
+solutions for ground source heat pump systems? 
+23 
+A. 
+Yes, the private market offers site dedicated 
+24 
+
+
+--- Page 62 ---
+Cases 20-E-0380 & 20-G-0381 
+SESP 
+ 
+60 
+loop field installations for the residential and 
+1 
+commercial markets.  The private market also 
+2 
+offers shared loop field solutions; however, we 
+3 
+have found many of the shared loop installations 
+4 
+are on large campus sites such as universities. 
+5 
+Q. 
+Has the Company demonstrated a market failure. 
+6 
+A. 
+No, it has not. 
+7 
+Q. 
+Has the Company identified areas in its 
+8 
+territory where the private market is not 
+9 
+willing to provide a shared-loop system that 
+10 
+would benefit the end-use consumer? 
+11 
+A. 
+No, it has not. 
+12 
+Q. 
+What are the Panel’s recommendations regarding 
+13 
+the Company’s geothermal pilot program? 
+14 
+A. 
+Based on the considerations we have just 
+15 
+discussed, we recommend that the Commission deny 
+16 
+this request, along with the associated funding 
+17 
+and regulatory asset treatment requests.  
+18 
+Instead, we recommend that NMPC rework its pilot 
+19 
+program and submit a proposal in response to 
+20 
+NYSERDA’s Community Heat Pump System Program 
+21 
+Opportunity Notice.  Our recommended revenue 
+22 
+requirement adjustments related to the 
+23 
+geothermal pilot program are shown in 
+24 
+
+
+--- Page 63 ---
+Cases 20-E-0380 & 20-G-0381 
+SESP 
+ 
+61 
+Exhibit___(SESP-4). 
+1 
+ 
+2 
+ELECTRIC VEHICLE PROGRAMS 
+3 
+Overview of the Make-Ready Order 
+4 
+Q. 
+Prior to describing the Company’s proposed EV-
+5 
+related programs, provide an overview of the 
+6 
+Commission’s recent Order Establishing Electric 
+7 
+Vehicle Infrastructure Make-Ready Program and 
+8 
+Other Programs, issued on July 16, 2020, in Case 
+9 
+18-E-0138 (Make-Ready Order). 
+10 
+A. 
+The Make-Ready Order established significant new 
+11 
+programs designed to help New York State meet 
+12 
+the air pollutant emissions reduction 
+13 
+requirements espoused in the CLCPA, as described 
+14 
+on pages two and three of the Make-Ready Order; 
+15 
+and meet New York State’s share of Zero 
+16 
+Emissions Vehicle (ZEV) targets, approximately 
+17 
+850,000 ZEVs registered in New York State by 
+18 
+2025, as described on page four of the Make-
+19 
+Ready Order.  The Make-Ready Order established a 
+20 
+light-duty EV-focused Make-Ready Program 
+21 
+designed to incentivize development of over 
+22 
+15,000 workplace and public Level 2 EV charging 
+23 
+plugs and over 500 Direct Current Fast Charging 
+24 
+
+
+--- Page 64 ---
+Cases 20-E-0380 & 20-G-0381 
+SESP 
+ 
+62 
+(DCFC) plugs in the Company’s service territory 
+1 
+as shown on page 27 of the Make-Ready Order.  
+2 
+The Make-Ready Order authorized an incentive 
+3 
+budget capped at $112.118 million for NMPC, as 
+4 
+noted on page 74.  In addition to the light-duty 
+5 
+Make-Ready Program, the Commission also 
+6 
+authorized smaller Make-Ready programs targeted 
+7 
+to medium- and heavy-duty fleets and regional 
+8 
+transit authorities with a total budget of $15 
+9 
+million to be split between several utilities.  
+10 
+NMPC’s portion of this total budget is $5.090 
+11 
+million.  The Commission also directed NYSERDA 
+12 
+to implement three prize competitions focused 
+13 
+specifically on achieving transportation 
+14 
+electrification-related benefits in 
+15 
+disadvantaged communities with total funding of 
+16 
+$85 million statewide.  Finally, the Commission 
+17 
+directed Department Staff to organize a 
+18 
+stakeholder process for consideration of managed 
+19 
+charging programs as well as vehicle-to-grid 
+20 
+integration issues, and direct each electric 
+21 
+distribution utility to file proposals for 
+22 
+active or managed charging programs for mass 
+23 
+market customers.  In total, the Make-Ready 
+24 
+
+
+--- Page 65 ---
+Cases 20-E-0380 & 20-G-0381 
+SESP 
+ 
+63 
+Order authorized over $700 million in new 
+1 
+funding to support EV adoption in New York 
+2 
+State, with nearly 30 percent of such funding 
+3 
+dedicated to directly benefit disadvantaged 
+4 
+communities. 
+5 
+Q. 
+Please provide a brief overview of the Company’s 
+6 
+proposed EV Programs. 
+7 
+A. 
+The Company proposes three main categories of 
+8 
+programs to support increased EV Penetration: 
+9 
+(1) a two-prong Commercial/Multi-user program to 
+10 
+help support increased installation of Electric 
+11 
+Vehicle Supply Equipment (EVSE) at commercial 
+12 
+customer and publicly-accessible locations; (2) 
+13 
+a two-prong Fleet Program to help support 
+14 
+increased installation of EVSE for commercial 
+15 
+fleet vehicles; and (3) a three-prong 
+16 
+Residential Program to help encourage 
+17 
+residential customers to install Level 2 
+18 
+charging equipment and manage increased EV 
+19 
+charging load.  We will explain each of these 
+20 
+programs in more detail later in this testimony. 
+21 
+Q. 
+Where does the Company discuss its proposals 
+22 
+regarding EVs in its testimony? 
+23 
+A. 
+EV-related programs were initially described in 
+24 
+
+
+--- Page 66 ---
+Cases 20-E-0380 & 20-G-0381 
+SESP 
+ 
+64 
+the direct testimony of the Electric Vehicle 
+1 
+Panel (EV Panel); however, the Company offered 
+2 
+significant revisions to its initial testimonial 
+3 
+position as part of the EV Panel’s Corrections 
+4 
+and Updates (C&U) testimony.  Our testimony will 
+5 
+focus on the Company’s positions reflecting the 
+6 
+updates made in the EV Panel’s C&U testimony. 
+7 
+ 
+8 
+Commercial/Multi-User Program 
+9 
+Q. 
+Please describe the Company’s proposed 
+10 
+Commercial/Multi-User Program (Commercial EV 
+11 
+Program). 
+12 
+A. 
+As shown on pages 7 and 8 of the EV Panel’s 
+13 
+direct testimony, the Commercial EV Program is 
+14 
+made up of two components: (1) a Commercial 
+15 
+Make-Ready Program designed to incentivize 
+16 
+development of Level 2 and DCFC EV plugs in its 
+17 
+service territory; and (2) a Commercial EVSE 
+18 
+Rebate Program, whereby the Company would 
+19 
+provide rebates to defray the hardware, 
+20 
+networking, and other costs of installing EVSE 
+21 
+to eligible customers. 
+22 
+Q. 
+Please describe the Company’s proposed 
+23 
+Commercial Make Ready Program. 
+24 
+
+
+--- Page 67 ---
+Cases 20-E-0380 & 20-G-0381 
+SESP 
+ 
+65 
+A. 
+On pages 7-8 of the EV Panel’s direct testimony, 
+1 
+the Company explains that its Commercial Make 
+2 
+Ready Program is designed to deliver incremental 
+3 
+charging ports needed to enable EV adoption 
+4 
+consistent with New York State’s ZEV goals by 
+5 
+providing financial support for both Level 2 and 
+6 
+DCFC plugs installed at both public and non-
+7 
+public locations.  Specifically, the Commercial 
+8 
+Make Ready Program costs will provide a rebate 
+9 
+to EV charging station developers to defray the 
+10 
+upfront costs of installing charging capacity, 
+11 
+including utility-side costs that would 
+12 
+otherwise be the developer’s responsibility, and 
+13 
+customer-side costs.  Specifically, the 
+14 
+Commercial Make Ready Program is designed to 
+15 
+defray the costs of utility system upgrades, 
+16 
+trenching, wires, new service lines, etc., 
+17 
+associated with making a site ready for 
+18 
+installation of EVSE.  As shown on pages 1-2 of 
+19 
+the Company’s National Grid EV Infrastructure 
+20 
+Make-Ready Program Implementation Plan, filed on 
+21 
+September 14, 2020 in Case 18-E-0138 (Commercial 
+22 
+Make Ready Implementation Plan), publicly-
+23 
+accessible charging stations will be eligible to 
+24 
+
+
+--- Page 68 ---
+Cases 20-E-0380 & 20-G-0381 
+SESP 
+ 
+66 
+receive an incentive of up to 90 percent of 
+1 
+total Make Ready costs; whereas, publicly-
+2 
+accessible chargers located in specified 
+3 
+disadvantaged communities will be eligible to 
+4 
+receive an incentive of up to 100 percent of 
+5 
+total Make Ready costs; and non-publicly 
+6 
+accessible chargers will be eligible to receive 
+7 
+an incentive of up to 50 percent of total Make 
+8 
+Ready costs. 
+9 
+Q. 
+Does the Company plan to operate the Commercial 
+10 
+Make Ready Program using the same terms as 
+11 
+required in the Make-Ready Order? 
+12 
+A. 
+Yes.  On page 7 of the EV Panel’s C&U testimony, 
+13 
+the Company states that its proposed Commercial 
+14 
+Make Ready Program in these rate proceedings is 
+15 
+consistent with the terms in the Make-Ready 
+16 
+Order.  Details for the terms of operation for 
+17 
+the Company’s Commercial Make-Ready Program are 
+18 
+located in the Company’s Commercial Make Ready 
+19 
+Implementation Plan. 
+20 
+Q. 
+Does the Panel propose any changes to the 
+21 
+Company’s Commercial Make Ready Program in these 
+22 
+proceedings? 
+23 
+A. 
+No, the program rules and requirements are being 
+24 
+
+
+--- Page 69 ---
+Cases 20-E-0380 & 20-G-0381 
+SESP 
+ 
+67 
+addressed by the Commission in Case 18-E-0138; 
+1 
+therefore, we will not opine on the terms and 
+2 
+conditions of the Company’s Commercial Make 
+3 
+Ready Program in these proceedings.  However, 
+4 
+what is within the scope of these proceedings is 
+5 
+the regulatory and accounting treatment of the 
+6 
+Commercial Make Ready Program costs, as the 
+7 
+Company has proposed to recover such costs as 
+8 
+part of base rates in these proceedings. 
+9 
+Q. 
+What Commercial Make Ready Program costs does 
+10 
+the Company propose to recover through base 
+11 
+rates? 
+12 
+A. 
+As explained on page 11 of the EV Panel’s direct 
+13 
+testimony, the Company proposes to treat 
+14 
+expenditures related to utility-side make ready 
+15 
+work as Capital Expense (CapEx), treat 
+16 
+expenditures related to customer-side make ready 
+17 
+work as Regulatory Assets (RegAsset), and 
+18 
+recover program management costs as O&M expense.  
+19 
+As shown on page four of Exhibit___(EVP-4CU), 
+20 
+the Company proposes to include a forecast of 
+21 
+$1.907 million for CapEx, $12.624 million for 
+22 
+RegAsset, and $1.963 million for O&M in the 
+23 
+electric revenue requirement during the Rate 
+24 
+
+
+--- Page 70 ---
+Cases 20-E-0380 & 20-G-0381 
+SESP 
+ 
+68 
+Year. 
+1 
+Q. 
+Does the Panel agree with the Company’s proposal 
+2 
+to recover Make Ready Program Costs in base 
+3 
+rates? 
+4 
+A. 
+Partially.  We agree that the Company should 
+5 
+include labor costs associated with the 
+6 
+Commercial Make Ready Program within base rates.  
+7 
+However, we do not agree with the Company’s 
+8 
+proposal to recover other Commercial Make Ready 
+9 
+Program costs in base rates.  To be clear, the 
+10 
+Company is required to operate its Commercial 
+11 
+Make Ready Program as described in its 
+12 
+Commercial Make Ready Implementation Plan and 
+13 
+subsequent updates to that document filed in 
+14 
+Case 18-E-0318.  However, we do not agree with 
+15 
+the Company’s proposal to recover the non-labor 
+16 
+costs of the Commercial Make Ready Program in 
+17 
+its electric revenue requirement and base rates. 
+18 
+Q. 
+How should the Company recover its Commercial 
+19 
+Make Ready Program costs if not through base 
+20 
+rates? 
+21 
+A. 
+The Company should follow the cost recovery 
+22 
+mechanism for its Commercial Make Ready Program 
+23 
+costs as described in the Make-Ready Order.  
+24 
+
+
+--- Page 71 ---
+Cases 20-E-0380 & 20-G-0381 
+SESP 
+ 
+69 
+That is, instead of including a forecast of 
+1 
+CapEx, RegAsset, and O&M costs within base 
+2 
+rates, the Company should recover its costs 
+3 
+using the surcharge mechanism described in the 
+4 
+Make-Ready Order on pages 78-82. 
+5 
+Q. 
+What is the difference between the cost recovery 
+6 
+mechanism proposed by the Company and the 
+7 
+mechanism specified in the Make-Ready Order? 
+8 
+A. 
+The Company’s method would forecast costs on an 
+9 
+annual basis and immediately begin recovery of 
+10 
+such costs during the Rate Year.  Given the 
+11 
+relatively nascent nature of the EVSE market, it 
+12 
+is very difficult to accurately predict in which 
+13 
+years the Company will actually incur Commercial 
+14 
+Make Ready Program costs.  The method that the 
+15 
+Commission described in the Make-Ready Order 
+16 
+does not begin recovery on Commercial Make Ready 
+17 
+Program costs until actual costs are known.  
+18 
+Once costs are known, the Company can recover 
+19 
+such known costs through a surcharge mechanism.  
+20 
+Then, in a subsequent rate proceeding, the 
+21 
+Company would include any remaining unrecovered 
+22 
+CapEx, RegAsset, and O&M balances in base rates. 
+23 
+Q. 
+What adjustments does the Panel recommend with 
+24 
+
+
+--- Page 72 ---
+Cases 20-E-0380 & 20-G-0381 
+SESP 
+ 
+70 
+respect to recovery of Commercial Make Ready 
+1 
+Program costs within revenue requirement? 
+2 
+A. 
+As shown in Exhibit___(SESP-4), we recommend 
+3 
+adjusting the Company’s CapEx and RegAsset 
+4 
+requests for the Rate Year.  For CapEx, we 
+5 
+recommend a $1.907 million downward adjustment 
+6 
+to a budget of $0.  For RegAsset, we recommend a 
+7 
+$12.624 million downward adjustment to a budget 
+8 
+of $0.  For non-labor O&M, we recommend a $1.317 
+9 
+million downward adjustment to a budget of $0. 
+10 
+Q. 
+Please describe the Company’s proposed 
+11 
+Commercial EVSE Rebate Program. 
+12 
+A. 
+As stated on page eight of the direct testimony 
+13 
+of the EV Panel, the Company proposes to offer 
+14 
+rebates equal to 50 percent of the average cost 
+15 
+of EVSE hardware, networking costs, and other 
+16 
+fees associated with installation and operation 
+17 
+of EVSE for qualifying customers.  These costs 
+18 
+are separate and distinct from the Make Ready 
+19 
+costs defrayed as part of the Company’s 
+20 
+Commercial Make Ready Program. 
+21 
+Q. 
+What EVSE Rebate Program costs does the Company 
+22 
+propose to recover through base rates? 
+23 
+A. 
+As explained on page 11 of the EV Panel’s direct 
+24 
+
+
+--- Page 73 ---
+Cases 20-E-0380 & 20-G-0381 
+SESP 
+ 
+71 
+testimony, the Company proposes to treat EVSE 
+1 
+Rebate Program costs as O&M expense.  As shown 
+2 
+on page four of Exhibit___(EVP-4CU), the Company 
+3 
+proposes to include a forecast of $3.738 million 
+4 
+for O&M in the electric revenue requirement for 
+5 
+the Rate Year. 
+6 
+Q. 
+Does the Panel agree with the Company’s proposed 
+7 
+EVSE Rebate Program? 
+8 
+A. 
+No.  The Company’s proposed EVSE Rebate Program 
+9 
+runs contrary to the guidance and requirements 
+10 
+provided in the Make-Ready Order. 
+11 
+Q. 
+How is the Company’s proposed EVSE Rebate 
+12 
+Program contrary to the guidance provided by the 
+13 
+Commission? 
+14 
+A. 
+On page 21 of the Make-Ready Order, the 
+15 
+Commission stated that the Commercial Make Ready 
+16 
+Program would encourage “development [of EVSE] 
+17 
+to achieve the State’s EV policy goals at the 
+18 
+lowest cost to ratepayers.”  The Commission 
+19 
+further states that the Commercial Make Ready 
+20 
+Program was specifically designed to work in 
+21 
+conjunction with existing EV-related programs; 
+22 
+that is, the Commercial Make Ready Program 
+23 
+approved by the Commission was designed to 
+24 
+
+
+--- Page 74 ---
+Cases 20-E-0380 & 20-G-0381 
+SESP 
+ 
+72 
+achieve New York State’s ZEV goals with the 
+1 
+suite of EV-related programs in place as of July 
+2 
+2020. 
+3 
+Q. 
+Was the Company’s Commercial EVSE Rebate Program 
+4 
+included in the list of existing programs that 
+5 
+the Make-Ready Order considered? 
+6 
+A. 
+No.  Therefore, we recommend that the Commission 
+7 
+reject the Company’s proposed additional 
+8 
+Commercial EVSE Rebate Program. 
+9 
+Q. 
+Will the Panel’s recommendation to reject the 
+10 
+Commercial EVSE Rebate Program result in the 
+11 
+Company being unable to meet its EV charging 
+12 
+site targets or its share of the ZEV goal? 
+13 
+A. 
+No.  Page 101 of the Make-Ready Order described 
+14 
+a midpoint review process to consider any 
+15 
+necessary changes to the Commercial Make Ready 
+16 
+Program, and other phases of such program, to 
+17 
+ensure that New York State’s goals are met.  The 
+18 
+Commission will have the opportunity to make any 
+19 
+necessary changes through the midpoint review if 
+20 
+additional program components are required. 
+21 
+Q. 
+Do you recommend any adjustments as a result of 
+22 
+the recommendation to reject the Commercial EVSE 
+23 
+Rebate Program? 
+24 
+
+
+--- Page 75 ---
+Cases 20-E-0380 & 20-G-0381 
+SESP 
+ 
+73 
+A. 
+Yes.  As shown in Exhibit___(SESP-4), we 
+1 
+recommend a downward adjustment to non-labor O&M 
+2 
+of $3.738 million to a budget of $0. 
+3 
+ 
+4 
+Fleet Program 
+5 
+Q. 
+Please provide an overview of the Company’s 
+6 
+proposed Fleet Program. 
+7 
+A. 
+The Company’s proposed Fleet Program consists 
+8 
+of: (1) a Fleet Make Ready Program; (2) Expanded 
+9 
+Fleet Assessment Services; and (3) rebates for 
+10 
+electric school buses for LMI and environmental 
+11 
+justice areas (LMI/EJC Bus Rebate Program). 
+12 
+Q. 
+Please describe the Fleet Make Ready Program. 
+13 
+A. 
+The Fleet Make Ready Program is analogous to the 
+14 
+Commercial Make Ready Program in that it 
+15 
+provides incentives to decrease the upfront 
+16 
+costs required to make a site ready for 
+17 
+installation of EVSE, including both customer-
+18 
+side and utility-side costs.  However, this 
+19 
+particular program will specifically serve 
+20 
+customers seeking to electrify fleets of light-
+21 
+duty and medium-duty vehicles. 
+22 
+Q. 
+What are the costs of the Fleet Make Ready 
+23 
+Program? 
+24 
+
+
+--- Page 76 ---
+Cases 20-E-0380 & 20-G-0381 
+SESP 
+ 
+74 
+A. 
+There are no Rate Year costs for the Fleet Make 
+1 
+Ready Program.  The Company forecasts that Fleet 
+2 
+Make Ready Program costs would begin in fiscal 
+3 
+year 2023. 
+4 
+Q. 
+Does the Panel agree with the Company’s proposal 
+5 
+to operate a Fleet Make Ready Program that is 
+6 
+separate and distinct from the Commercial Make 
+7 
+Ready Program? 
+8 
+A. 
+No.  On page 130 of the Make-Ready Order, the 
+9 
+Commission directed the Company, along with 
+10 
+several other New York State electric 
+11 
+distribution utilities, to develop and file an 
+12 
+implementation plan to operate a Medium- and 
+13 
+Heavy-duty Fleet Make Ready Pilot program (MD/HD 
+14 
+Fleet Pilot) within 90 days of the effective 
+15 
+date of that Order.  The Make-Ready Order 
+16 
+provided for a total budget of $15 million to be 
+17 
+split between those utilities and required that 
+18 
+the implementation plan include a proposed cost 
+19 
+allocation and recovery mechanism. 
+20 
+Q. 
+Has the Company filed its implementation plan as 
+21 
+required by the Make-Ready Order? 
+22 
+A. 
+Yes.  On October 14, 2020, the Company and other 
+23 
+utilities filed their NY Electric Vehicle 
+24 
+
+
+--- Page 77 ---
+Cases 20-E-0380 & 20-G-0381 
+SESP 
+ 
+75 
+Infrastructure Medium- and Heavy-duty Make-Ready 
+1 
+Pilot Program Implementation Plan, in Case 18-E-
+2 
+0138.  In that implementation plan, the Company 
+3 
+states that $6 million of the total $15 million 
+4 
+budget will be spent within the NMPC service 
+5 
+territory, and that cost recovery for such 
+6 
+program will be consistent with the mechanisms 
+7 
+laid out in the Make-Ready Order. 
+8 
+Q. 
+Will there be an opportunity in the future for a 
+9 
+Fleet-specific Make Ready Program in the 
+10 
+Company’s service territory if the Company’s 
+11 
+proposed program is denied in these proceedings? 
+12 
+A. 
+Yes.  As with the Commercial Make Ready Program, 
+13 
+the Make-Ready Order lays out a midpoint review 
+14 
+to consider whether modifications to the already 
+15 
+authorized Make Ready Program is needed to meet 
+16 
+New York State’s policy goals.  If the 
+17 
+Commission finds that a Fleet Make Ready 
+18 
+Program, as the Company proposed in these 
+19 
+proceedings, is warranted as a result of the 
+20 
+midpoint review, it may require the Company to 
+21 
+implement such a program at that time. 
+22 
+Q. 
+Does the Panel recommend any adjustments as a 
+23 
+result of its recommendation to reject the Fleet 
+24 
+
+
+--- Page 78 ---
+Cases 20-E-0380 & 20-G-0381 
+SESP 
+ 
+76 
+Make Ready Program? 
+1 
+A. 
+No.  Since the Company has not forecasted any 
+2 
+costs for the Rate Year, no adjustment is 
+3 
+required at this time. 
+4 
+Q. 
+Please describe the Company’s proposed Expanded 
+5 
+Fleet Assessment Services. 
+6 
+A. 
+On pages 9-10 of the EV Panel’s C&U testimony, 
+7 
+the Company states that the Expanded Fleet 
+8 
+Assessment Services program would provide a 
+9 
+broader range of services and analyses to Make 
+10 
+Ready Program participants beyond what the Make-
+11 
+Ready Order required the Company to offer. 
+12 
+Q. 
+What are the costs associated with the Company’s 
+13 
+proposed Expanded Fleet Assessment Services? 
+14 
+A. 
+The Company proposes to spend $330,000 of non-
+15 
+labor O&M during the Rate Year on the Expanded 
+16 
+Fleet Assessment Services program. 
+17 
+Q. 
+Does the Panel agree with the proposed Fleet 
+18 
+Assessment Services Program? 
+19 
+A. 
+No.  Providing these services, which are above 
+20 
+and beyond what the Commission already approved 
+21 
+in the Make-Ready Order is not reasonable at 
+22 
+this time.  As we discussed previously, the 
+23 
+Make-Ready Order lays out a midpoint review 
+24 
+
+
+--- Page 79 ---
+Cases 20-E-0380 & 20-G-0381 
+SESP 
+ 
+77 
+process.  If the Commission determines that a 
+1 
+more comprehensive set of Fleet Assessment 
+2 
+Services analyses is reasonable, it can require 
+3 
+the Company to implement such a program 
+4 
+following the midpoint review. 
+5 
+Q. 
+Does the Panel recommend any adjustments to the 
+6 
+Company’s cost forecast as a result of the 
+7 
+Panel’s recommendation to cancel the Expanded 
+8 
+Fleet Assessment Services program? 
+9 
+A. 
+Yes.  As shown in Exhibit___(SESP-4), we 
+10 
+recommend a downward adjustment to non-labor O&M 
+11 
+of $330,000, to a budget of $0 during the Rate 
+12 
+Year. 
+13 
+Q. 
+Please describe the LMI/EJC Bus Rebate Program. 
+14 
+A. 
+As explained on page 40 the EV Panel’s direct 
+15 
+testimony, the LMI/EJC Bus Rebate Program is 
+16 
+designed to provide incentives to reduce the 
+17 
+difference in purchase cost between diesel-
+18 
+powered school buses and electric school buses, 
+19 
+as well as provide a rebate for the cost of one 
+20 
+electric school bus charger per bus. 
+21 
+Q. 
+What are the costs of the LMI/EJC Bus Rebate 
+22 
+Program? 
+23 
+A. 
+The Company proposes to spend $2.199 million of 
+24 
+
+
+--- Page 80 ---
+Cases 20-E-0380 & 20-G-0381 
+SESP 
+ 
+78 
+non-labor O&M on the LMI/EJC Bus Rebate Program 
+1 
+during the Rate Year. 
+2 
+Q. 
+Does the Panel agree with the Company’s proposed 
+3 
+LMI/EJC Bus Rebate Program. 
+4 
+A. 
+No.  While we appreciate the Company’s proposal 
+5 
+to help address bus electrification in 
+6 
+disadvantaged communities, the Make-Ready Order 
+7 
+established a different pathway for attaining 
+8 
+environmental benefits in disadvantaged 
+9 
+communities through the MD/HD Fleet Pilot, as 
+10 
+well as three Prize Pilot programs totaling $85 
+11 
+million incremental to the light-duty Make Ready 
+12 
+Program and MD/HD Fleet Pilot budgets.  
+13 
+Therefore, we recommend that the Commission 
+14 
+reject the Company’s LMI/EJ Bus Rebate Program 
+15 
+in this proceeding. 
+16 
+Q. 
+Does the MD/HD Fleet Pilot support the same 
+17 
+goals as the Company’s proposed LMI/EJC Bus 
+18 
+Rebate Program? 
+19 
+A. 
+Yes.  As stated on page 131 of the Make-Ready 
+20 
+Order, the MD/HD Fleet Pilot “must support a 
+21 
+direct reduction of diesel emissions located in 
+22 
+environmental justice communities through 
+23 
+electrification of the medium-duty/heavy-duty 
+24 
+
+
+--- Page 81 ---
+Cases 20-E-0380 & 20-G-0381 
+SESP 
+ 
+79 
+vehicles/trucks.”  On the same page of the Make-
+1 
+Ready Order, the Commission required that MD/HD 
+2 
+Fleet Pilot participants must also seek and 
+3 
+receive support through the New York Truck 
+4 
+Voucher Incentive Program operated by NYSERDA, 
+5 
+which provides rebates against the incremental 
+6 
+cost to purchase qualifying electric vehicles 
+7 
+compared to diesel-powered alternatives. 
+8 
+Q. 
+Do the three Prize Pilots support the same goals 
+9 
+as the Company’s proposed LMI/EJC Bus Rebate 
+10 
+Program? 
+11 
+A. 
+Yes.  The three Prize pilots are all targeted 
+12 
+toward reducing environmental impacts in 
+13 
+disadvantaged communities, and each could 
+14 
+support medium- and heavy-duty vehicle 
+15 
+electrification such as the school bus 
+16 
+electrification targeted by the Company’s 
+17 
+proposal. 
+18 
+Q. 
+Does the Panel recommend adjustments to the 
+19 
+Company’s cost forecasts related to the Panel’s 
+20 
+recommendation to reject the LMI/EJC Bus Rebate 
+21 
+Program? 
+22 
+A. 
+Yes.  As shown in Exhibit___(SESP-4), we 
+23 
+recommend a downward adjustment to the Company’s 
+24 
+
+
+--- Page 82 ---
+Cases 20-E-0380 & 20-G-0381 
+SESP 
+ 
+80 
+non-labor O&M forecast of $2.199 million to a 
+1 
+budget of $0. 
+2 
+Q. 
+Are there any costs related to the Fleet Program 
+3 
+in general? 
+4 
+A. 
+Yes.  As described on page 11 of the EV Panel’s 
+5 
+C&U Testimony, the Company proposes to hire two 
+6 
+FTEs to support its Fleet Program. 
+7 
+Q. 
+Does the Panel support the Company’s Fleet 
+8 
+Program-related FTE request? 
+9 
+A. 
+Partially.  In the Company’s response to IR DPS-
+10 
+976, included in Exhibit___(SEAMP-1), one of the 
+11 
+two EV Fleet Program FTEs initially designated 
+12 
+by the Company will be subsumed within the 
+13 
+Commercial Make Ready Program, for which we 
+14 
+recommend allowing recovery of associated labor 
+15 
+costs through base rates.  However, as we 
+16 
+previously discussed, we recommend that costs 
+17 
+related to the Company’s portion of the MD/HD 
+18 
+Fleet Pilot be recovered through the surcharge 
+19 
+mechanism described in the Make-Ready Order.  We 
+20 
+also recommend denying the Company’s LMI/EJC Bus 
+21 
+Rebate Program.  Therefore, we do not find 
+22 
+sufficient support for the Company’s labor 
+23 
+requests.  Further, the NY Electric Vehicle 
+24 
+
+
+--- Page 83 ---
+Cases 20-E-0380 & 20-G-0381 
+SESP 
+ 
+81 
+Infrastructure Medium- and Heavy-Duty Make-Ready 
+1 
+Pilot Program Implementation Plan did not 
+2 
+include a proposal for any incremental FTEs.  If 
+3 
+the Company determines that it requires labor 
+4 
+costs related to its MD/HD Fleet Pilot, it 
+5 
+should recover such costs as the Company itself 
+6 
+proposed in the NY Electric Vehicle 
+7 
+Infrastructure Medium- and Heavy-Duty Make-Ready 
+8 
+Pilot Program Implementation Plan – through the 
+9 
+cost recovery mechanism established in the Make-
+10 
+Ready Order.  In conclusion, we recommend a 
+11 
+reduction to the Company’s Rate Year incremental 
+12 
+FTE count by one, as shown in Exhibit___(SESP-
+13 
+4). 
+14 
+ 
+15 
+Residential Program 
+16 
+Q. 
+Please describe the Company’s EV Residential 
+17 
+Program. 
+18 
+A. 
+As explained on pages 14-15 of the EV Panel’s 
+19 
+direct testimony, the Company’s EV Residential 
+20 
+Program consists of three components: (1) a 
+21 
+Managed or Smart Charging Plan (Managed Charging 
+22 
+Plan); (2) a residential Level 2 charger rebate 
+23 
+program (Level 2 Rebate Program); and (3) a 
+24 
+
+
+--- Page 84 ---
+Cases 20-E-0380 & 20-G-0381 
+SESP 
+ 
+82 
+Turnkey Level 2 Installation Program (Turnkey 
+1 
+Installation Service).  The Company proposes to 
+2 
+host each of these three programs, as well as 
+3 
+outreach and education efforts, on an expanded 
+4 
+EV website page and online marketplace (EV 
+5 
+Marketplace).  Finally, the Company proposes to 
+6 
+perform Measurement and Evaluation  studies to 
+7 
+determine the effectiveness of its programs (EV 
+8 
+M&E Studies). 
+9 
+Q. 
+Please describe the Company’s proposed Managed 
+10 
+Charging Plan. 
+11 
+A. 
+As described on pages 17-18 of the EV Panel’s 
+12 
+direct testimony, the Managed Charging Plan 
+13 
+would allow residential customers to enroll in 
+14 
+one of two tier options through networked level 
+15 
+2 chargers installed on customers’ premises.  
+16 
+Participating customers would allow the Company 
+17 
+to actively manage EV charging during off-peak 
+18 
+hours.  Participating customers would pay either 
+19 
+$20 per month for up to 225 kilowatt-hours (kWh) 
+20 
+of off-peak charging per month, or $25 per month 
+21 
+for up to 325 kWh of off-peak charging.  On page 
+22 
+25 of the EV Panel’s direct testimony, the 
+23 
+Company explains that customers would be allowed 
+24 
+
+
+--- Page 85 ---
+Cases 20-E-0380 & 20-G-0381 
+SESP 
+ 
+83 
+to charge their EVs during on-peak hours by 
+1 
+overriding the managed charging system, but 
+2 
+would a pay a fee for such charging based on the 
+3 
+on-peak delivery and supply charges applicable 
+4 
+to the Company’s Service Classification (SC) 1 
+5 
+Voluntary Time of Use (SC-1 VTOU) rate option. 
+6 
+Q. 
+What are the costs of the Managed Charging Plan? 
+7 
+A. 
+As shown in Exhibit___(EVP-5CU) and 
+8 
+Exhibit___(EVP-9CU), the Company proposes to 
+9 
+spend $0.426 million of total O&M on the Managed 
+10 
+Charging Plan.  Out of the $0.426 million, 
+11 
+$0.301 million is related to labor representing 
+12 
+the Company’s proposed hiring of two FTEs to 
+13 
+manage the program, as described on page 65 of 
+14 
+the EV Panel’s direct testimony.  In addition, 
+15 
+on page 19 of the EV Panel’s direct testimony, 
+16 
+the Company notes that additional information 
+17 
+technology (IT) upgrades are required to 
+18 
+implement the Managed Charging Plan, which are 
+19 
+included in the Company’s IT Panel 
+20 
+Exhibit___(ITP-4). 
+21 
+Q. 
+Are there any revenues associated with the fees 
+22 
+paid by Managed Charging Plan participants? 
+23 
+A. 
+Yes.  The Company has imputed $0.302 million in 
+24 
+
+
+--- Page 86 ---
+Cases 20-E-0380 & 20-G-0381 
+SESP 
+ 
+84 
+miscellaneous revenues to offset revenue 
+1 
+requirement, as shown in the Company’s response 
+2 
+to IR DPS-999.  In addition, the Company 
+3 
+proposes to retain a 20 percent share of the 
+4 
+Managed Charging Plan fee revenues as a Platform 
+5 
+Service Revenue (PSR).  To be clear, the $0.302 
+6 
+million in miscellaneous revenues imputed in the 
+7 
+electric revenue requirement is the customers’ 
+8 
+share of revenues after the Company’s proposed 
+9 
+20 percent PSR. 
+10 
+Q. 
+Does the Panel recommend any modifications to 
+11 
+the Managed Charging Plan proposed by the 
+12 
+Company? 
+13 
+A. 
+Yes.  Our recommendations regarding the Managed 
+14 
+Charging Plan are also applicable to the 
+15 
+Company’s proposals for its Turnkey Installation 
+16 
+Service, Level 2 Charger Rebate Program, EV 
+17 
+Marketplace, and EV M&E Studies.  Therefore, we 
+18 
+will provide our recommendations regarding these 
+19 
+programs collectively after describing each of 
+20 
+the Company’s proposals. 
+21 
+Q. 
+Please describe the Company’s proposed Level 2 
+22 
+Charger Rebate Program. 
+23 
+A. 
+As described on page 28 of the EV Panel’s direct 
+24 
+
+
+--- Page 87 ---
+Cases 20-E-0380 & 20-G-0381 
+SESP 
+ 
+85 
+testimony, the Company proposes to provide $500 
+1 
+rebates to help cover the costs of installing a 
+2 
+networked level 2 charging station.  To qualify 
+3 
+for this program, the Company proposes to 
+4 
+require customers to enroll in the Managed 
+5 
+Charging Plan for a period of at least three 
+6 
+months, as well as a variety of other 
+7 
+eligibility requirements.  The EV Panel 
+8 
+describes these requirements on page 29 of its 
+9 
+direct testimony. 
+10 
+Q. 
+What are the costs of the Level 2 Charger Rebate 
+11 
+Program? 
+12 
+A. 
+As shown in Exhibit___(EVP-5CU), the Company 
+13 
+anticipates spending $0.675 million in non-labor 
+14 
+O&M for rebates during the Rate Year. 
+15 
+Q. 
+Please describe the Company’s proposed Turnkey 
+16 
+Installation Service. 
+17 
+A. 
+As described on pages 31-32 of the EV Panel’s 
+18 
+direct testimony, the Turnkey Installation 
+19 
+Service would make it easier for residential 
+20 
+customers to procure and install at-home level 2 
+21 
+chargers by, providing a matchmaking service 
+22 
+between interested customers and qualified 
+23 
+installers; scheduling a time for the level 2 
+24 
+
+
+--- Page 88 ---
+Cases 20-E-0380 & 20-G-0381 
+SESP 
+ 
+86 
+charger to be installed; and providing the 
+1 
+customer with a $500 rebate against the cost of 
+2 
+the networked level 2 charger.  The Company 
+3 
+proposes to hire a third-party program manager 
+4 
+to develop this offering and to develop a 
+5 
+network of qualified EVSE installers to 
+6 
+participate.  As stated on page 33 of the EV 
+7 
+Panel’s direct testimony, customers 
+8 
+participating through the Turnkey Installation 
+9 
+Service would pay a service fee to partially 
+10 
+offset program costs. 
+11 
+Q. 
+What are the costs of the Turnkey Installation 
+12 
+Service? 
+13 
+A. 
+As shown in Exhibit___(EVP-8CU), the Company 
+14 
+proposes to spend $1.331 million of non-labor 
+15 
+O&M in combined program administration, rebate, 
+16 
+and marketing costs, as well as $0.301 million 
+17 
+in labor O&M related to two FTEs. 
+18 
+Q. 
+Are there any revenues associated with the fees 
+19 
+paid by Turnkey Installation Service 
+20 
+participants? 
+21 
+A. 
+Yes.  The Company has imputed $0.377 million in 
+22 
+miscellaneous revenues, as shown in the 
+23 
+Company’s response to IR DPS-999.  This 
+24 
+
+
+--- Page 89 ---
+Cases 20-E-0380 & 20-G-0381 
+SESP 
+ 
+87 
+represents 80 percent of the anticipated Turnkey 
+1 
+Installation Service fee revenues.  The Company 
+2 
+proposes to retain the remaining 20 percent 
+3 
+share of Turnkey Installation Service fee 
+4 
+revenues as a PSR. 
+5 
+Q. 
+Please describe the Company’s proposed EV 
+6 
+Marketplace. 
+7 
+A. 
+As described on pages 36-37 of the EV Panel’s 
+8 
+direct testimony, the EV Marketplace would house 
+9 
+links for customers to access the Company’s 
+10 
+proposed Level 2 Charger Rebate Program, Turnkey 
+11 
+Installation Service, and Managed Charging Plan.  
+12 
+In addition, the Company proposes that the EV 
+13 
+Marketplace would house EV-related information 
+14 
+intended to address the knowledge gap associated 
+15 
+with buying and installing a home charging 
+16 
+station, as well as provide a list of 
+17 
+electricians qualified to install a home 
+18 
+charging system for customers that prefer not to 
+19 
+make use of the Company’s proposed Turnkey 
+20 
+Installation Service.  Finally, the Company 
+21 
+states that it intends to build out additional 
+22 
+options for level 2 charging products to be 
+23 
+available on its EV Marketplace, focusing on 
+24 
+
+
+--- Page 90 ---
+Cases 20-E-0380 & 20-G-0381 
+SESP 
+ 
+88 
+networked charging stations that would qualify 
+1 
+for participation in the Managed Charging Plan. 
+2 
+Q. 
+What are the costs of the EV Marketplace? 
+3 
+A. 
+As shown in Exhibit___(EVP-5CU), the Company 
+4 
+proposes to spend $0.179 million of non-labor 
+5 
+O&M on the EV Marketplace during the Rate Year. 
+6 
+Q. 
+Are there any revenues associated with the EV 
+7 
+Marketplace? 
+8 
+A. 
+Yes.  The Company has imputed $0.049 million in 
+9 
+miscellaneous revenues, as shown in the 
+10 
+Company’s response to IR DPS-999.  This 
+11 
+represents 80 percent of the anticipated EV 
+12 
+Marketplace revenues.  In addition, the Company 
+13 
+proposes to retain a 20 percent share of 
+14 
+revenues resulting from fees paid by EV 
+15 
+Marketplace vendors as a PSR. 
+16 
+Q. 
+What does the Panel recommend regarding the 
+17 
+Company’s proposed Residential Program? 
+18 
+A. 
+The Company’s proposed Residential Program 
+19 
+offers an innovative solution to help customers 
+20 
+manage their EV charging usage.  However, while 
+21 
+we support the program in concept, we do not 
+22 
+recommend that the Residential Program costs 
+23 
+should be included in base rates in this 
+24 
+
+
+--- Page 91 ---
+Cases 20-E-0380 & 20-G-0381 
+SESP 
+ 
+89 
+proceeding.  Instead, the Company should pursue 
+1 
+this program as part of its Managed Charging 
+2 
+Program filing requirement as laid out on page 
+3 
+124 of the Make Ready Order.  Of note, the 
+4 
+Secretary to the Commission recently granted an 
+5 
+extension on the filing date of the Managed 
+6 
+Charging Program filings to December 4, 2020. 
+7 
+Q. 
+Does the Panel’s recommendation that the Company 
+8 
+pursue implementing the Residential Program 
+9 
+outside of this proceeding require any 
+10 
+adjustments to the Company’s cost forecasts? 
+11 
+A. 
+Yes.  Our adjustments are shown in 
+12 
+Exhibit___(SESP-4).  For CapEx, we recommend an 
+13 
+adjustment of $1.376 million to remove recovery 
+14 
+of the EV Charging Station project listed in 
+15 
+Exhibit___(ITP-4) related to the Managed 
+16 
+Charging Plan and Turnkey Installation Service.  
+17 
+For non-labor O&M, we recommend a downward 
+18 
+adjustment of $3.049 million to a budget of $0 
+19 
+to remove the program costs of the Residential 
+20 
+Program.  For labor, we recommend removing the 
+21 
+Company’s proposed four FTEs.  Regarding the 
+22 
+Company’s imputed revenues associated with the 
+23 
+Managed Charging Plan, Turnkey Installation 
+24 
+
+
+--- Page 92 ---
+Cases 20-E-0380 & 20-G-0381 
+SESP 
+ 
+90 
+Service, and EV Marketplace, we recommend that a 
+1 
+total of $0.728 million of incremental revenues 
+2 
+be removed from the Company’s miscellaneous 
+3 
+revenues forecasts. 
+4 
+Q. 
+If the Company follows the Panel’s 
+5 
+recommendation to request authorization for the 
+6 
+Residential Program as part of its December 4 
+7 
+filing requirement pursuant to the Make Ready 
+8 
+Order, will it still have the opportunity to 
+9 
+recover needed expenditures to implement this 
+10 
+program? 
+11 
+A. 
+Yes.  The Company should include a proposed 
+12 
+recovery mechanism for costs incurred to 
+13 
+implement its proposal as part of its December 4 
+14 
+filing. 
+15 
+ 
+16 
+UTILITY-OWNED ENERGY STORAGE 
+17 
+Q. 
+Please summarize the Company’s proposed storage 
+18 
+projects. 
+19 
+A. 
+The Company has proposed two utility-owned 
+20 
+storage projects, a 4.5 Megawatt (MW)/18MWh 
+21 
+facility in Gilmantown and a smaller 2MW/3MWh 
+22 
+installation in Kenmore. 
+23 
+Q. 
+Please describe the proposed Gilmantown project. 
+24 
+
+
+--- Page 93 ---
+Cases 20-E-0380 & 20-G-0381 
+SESP 
+ 
+91 
+A. 
+As stated on pages 49-50 of the Electric 
+1 
+Infrastructure and Operations Panel’s (EIOP) 
+2 
+direct testimony, the Gilmantown Energy Storage 
+3 
+project is a 4.5MW/18MWh battery storage unit 
+4 
+that will provide service to the Gilmantown 
+5 
+Substation during contingency events where the 
+6 
+typical electrical supply path is unavailable.  
+7 
+Specifically, the Gilmantown project that will 
+8 
+have the capability to create an electrical 
+9 
+island at the substation, isolating customers 
+10 
+served by the Gilmantown substation from the 
+11 
+Sub-Transmission system and supplying customer 
+12 
+load itself until the contingency is resolved. 
+13 
+Q. 
+Why has the Company proposed to install this 
+14 
+storage project at the Gilmantown substation? 
+15 
+A. 
+As stated on pages 49-50 of the EIOP’s direct 
+16 
+testimony, the Company explains that the 
+17 
+Gilmantown substation is served by a 24-mile 
+18 
+radial sub-transmission line with high outage 
+19 
+exposure.  The Company notes that traditional 
+20 
+distribution infrastructure solutions, such as 
+21 
+building a redundant supply path, would come at 
+22 
+a very high cost.  The Company notes that its 
+23 
+plans were developed in concert with Hamilton 
+24 
+
+
+--- Page 94 ---
+Cases 20-E-0380 & 20-G-0381 
+SESP 
+ 
+92 
+County leadership and a series of town hall 
+1 
+meetings. 
+2 
+Q. 
+Has the Company provided a BCA for this project? 
+3 
+A. 
+Yes, in response to IR DPS-896.  According to 
+4 
+the Company’s analysis, with a 25-year project 
+5 
+life the net present value of the project’s 
+6 
+benefits is $12.97 million, with costs of $7.7 
+7 
+million for an overall societal cost test (SCT) 
+8 
+BCA ratio of 1.68. 
+9 
+Q. 
+What are your recommendations regarding the 
+10 
+project? 
+11 
+A. 
+We recognize the need for an energy storage 
+12 
+solution to the reliability issues facing 
+13 
+customers in Hamilton County served by the 
+14 
+Gilmantown substation, and we recommend that the 
+15 
+Commission approve funding related to such a 
+16 
+project.  However, we recommend that the 
+17 
+Commission require the Company to follow a 
+18 
+different procedure for procuring this energy 
+19 
+storage asset. 
+20 
+Q. 
+Why should the Commission require the Company to 
+21 
+follow a different procedure instead of simply 
+22 
+allowing the costs to be recovered directly in 
+23 
+this proceeding? 
+24 
+
+
+--- Page 95 ---
+Cases 20-E-0380 & 20-G-0381 
+SESP 
+ 
+93 
+A. 
+Although utilities are allowed to own energy 
+1 
+storage assets directly connected to their 
+2 
+distribution system for use in meeting 
+3 
+distribution system needs, utility ownership of 
+4 
+distributed energy resources should be a last 
+5 
+resort instead of a primary pathway.  Therefore, 
+6 
+our recommended alternative procedure would 
+7 
+require the Company to attempt to procure a 
+8 
+third-party owned energy storage project, and, 
+9 
+failing that, would provide funding for this 
+10 
+project as a utility-owned solution after the 
+11 
+Company has demonstrated that third-party 
+12 
+ownership is infeasible. 
+13 
+Q. 
+What alternative process do you recommend? 
+14 
+A. 
+We recommend that the Company issue an expedited 
+15 
+Request for Proposals (RFP) with procurement 
+16 
+rules, terms, and conditions similar to those in 
+17 
+effect for the bulk procurement processes.  The 
+18 
+present procurement rules, terms, and conditions 
+19 
+are set forth by the Commission’s Order 
+20 
+Establishing Energy Storage Goal and Deployment 
+21 
+Policy (Storage Order), issued on December 13, 
+22 
+2018, in Case 18-E-0130, and may be updated from 
+23 
+time to time. 
+24 
+
+
+--- Page 96 ---
+Cases 20-E-0380 & 20-G-0381 
+SESP 
+ 
+94 
+Q. 
+Provide a brief overview of the Bulk Procurement 
+1 
+process established in the Storage Order in Case 
+2 
+18-E-0130. 
+3 
+A. 
+The Storage Order required the New York State 
+4 
+electric utilities to procure a statewide goal 
+5 
+of 350 MW of energy storage, through a bulk 
+6 
+procurement process whereby utilities would 
+7 
+purchase dispatch rights to third-party owned 
+8 
+energy storage assets for a period of seven 
+9 
+years.  Specifically, the Storage Order required 
+10 
+the Company to procure at least ten MW of 
+11 
+qualified energy storage systems. 
+12 
+Q. 
+Did the Company issue an RFP for at least ten MW 
+13 
+of qualified energy storage? 
+14 
+A. 
+Yes, it issued an RFP on September 30, 2019.  As 
+15 
+a result of its solicitation, the Company 
+16 
+procured dispatch rights to two energy storage 
+17 
+projects; one near the North Lakeville 
+18 
+substation and the other near the Old Forge 
+19 
+substation.  
+20 
+Q. 
+Are either of these energy storage projects 
+21 
+procured by the Company comparable to the 
+22 
+proposed Gilmantown project? 
+23 
+A. 
+Yes.  The Old Forge project has procured energy 
+24 
+
+
+--- Page 97 ---
+Cases 20-E-0380 & 20-G-0381 
+SESP 
+ 
+95 
+storage to meet the needs of a similar rural 
+1 
+reliability project. 
+2 
+Q. 
+What would happen if the Company is unable to 
+3 
+procure a project to meet the needs of the 
+4 
+customers in Hamilton County served by the 
+5 
+Gilmantown substation? 
+6 
+A. 
+If the Company’s attempt to obtain the project 
+7 
+through the bulk procurement process is 
+8 
+unsuccessful, then the Company should be allowed 
+9 
+to move forward with its plans for the 
+10 
+Gilmantown project as a utility-owned asset.  To 
+11 
+ensure that the Company is able to move forward 
+12 
+with this project one way or another 
+13 
+expeditiously, we recommend that the Commission 
+14 
+approve the Company’s proposed CapEx budget for 
+15 
+this project, and require that the funds be 
+16 
+deferred for future return to customers if the 
+17 
+Company is successful in obtaining the project 
+18 
+through the bulk procurement process. 
+19 
+Q. 
+How, specifically, should the Company return the 
+20 
+money associated with the CapEx budget to 
+21 
+customers? 
+22 
+A. 
+We recommend that the Company defers the revenue 
+23 
+requirement impact of the CapEx budget as a 
+24 
+
+
+--- Page 98 ---
+Cases 20-E-0380 & 20-G-0381 
+SESP 
+ 
+96 
+regulatory liability and address the 
+1 
+amortization of such regulatory liability the 
+2 
+next time base rates are reset.  The Company 
+3 
+should also adjust its Net Plant in Service 
+4 
+targets to remove the Gilmantown project.  This 
+5 
+will ensure that the CapEx cost associated with 
+6 
+the Gilmantown project are not reallocated to 
+7 
+other projects, or used to offset overspending 
+8 
+on other projects, in the event that the Company 
+9 
+is able to obtain the project through the bulk 
+10 
+procurement process. 
+11 
+Q. 
+Are there any revenue requirement impacts 
+12 
+related to the Panel’s recommendation during the 
+13 
+Rate Year? 
+14 
+A. 
+No.  Capital costs for the Gilmantown project 
+15 
+would not begin until Data Year 2.  Therefore, 
+16 
+there is no need to adjust costs during the Rate 
+17 
+Year related to this project. 
+18 
+Q. 
+Please describe the proposed Kenmore project. 
+19 
+A. 
+As stated on page 51 of the EIOP’s direct 
+20 
+testimony, the Kenmore project is a 2MW/3MWh 
+21 
+energy storage asset installed within Buffalo 
+22 
+Station 22 to provide capacity relief to the 
+23 
+sub-transmission supply lines which are 
+24 
+
+
+--- Page 99 ---
+Cases 20-E-0380 & 20-G-0381 
+SESP 
+ 
+97 
+forecasted to exceed their capacity ratings. 
+1 
+Q. 
+Is this a new proposal? 
+2 
+A. 
+It is not.  As stated in the Company’s response 
+3 
+to IR DPS-432, the Kenmore project was initially 
+4 
+planned to be installed before the Company filed 
+5 
+these rate cases, however, it was delayed due to 
+6 
+permitting challenges. 
+7 
+Q. 
+What was the Company’s response to these 
+8 
+challenges? 
+9 
+A. 
+As stated in the Company’s response to IR DPS-
+10 
+432, the Company deployed the storage asset 
+11 
+intended for the Kenmore project in the North 
+12 
+Troy substation instead to support forecasted 
+13 
+needs in the area and has now re-proposed the 
+14 
+Kenmore project in this proceeding. 
+15 
+Q. 
+Are there any other potential benefits to the 
+16 
+Kenmore project? 
+17 
+A. 
+Yes.  As stated on page 51 of the EIOP’s direct 
+18 
+testimony, the storage asset will also be used 
+19 
+to provide capacity relief during zonal peak 
+20 
+periods, and services into the wholesale 
+21 
+markets, when capacity relief is not needed for 
+22 
+the sub-transmission lines.   
+23 
+Q. 
+What are the costs of the Kenmore Project? 
+24 
+
+
+--- Page 100 ---
+Cases 20-E-0380 & 20-G-0381 
+SESP 
+ 
+98 
+A. 
+The costs of the Kenmore project are allocated 
+1 
+entirely to the Company’s Electric business.  
+2 
+The Company proposes to spend $0.500 million of 
+3 
+CapEx during Data Year 2 and $2.342 million of 
+4 
+CapEx during the following year.  To be clear, 
+5 
+there are no costs during the Rate Year 
+6 
+allocated for this project. 
+7 
+Q. 
+Has the Company provided a BCA for this project? 
+8 
+A. 
+No.  We requested a BCA in IRs DPS-432 and DPS-
+9 
+896, however the Company did not provide one in 
+10 
+response. 
+11 
+Q. 
+What is the Company justification, if any, for 
+12 
+not providing a formal BCA? 
+13 
+A. 
+As the project has been significantly delayed, 
+14 
+the Company plans to develop the BCA in a 
+15 
+refresh of its planning study closer to 2024. 
+16 
+Q. 
+Does the Panel consider this explanation to be 
+17 
+reasonable? 
+18 
+A. 
+No.  We recognize that there are inherent 
+19 
+uncertainties when formulating BCAs, however, 
+20 
+the Company should provide a good faith best-
+21 
+effort BCA for each storage project. 
+22 
+Q. 
+Can you recommend approving the Kenmore storage 
+23 
+project without a formal BCA? 
+24 
+
+
+--- Page 101 ---
+Cases 20-E-0380 & 20-G-0381 
+SESP 
+ 
+99 
+A. 
+No.  Although this project was part of the 
+1 
+Company’s capital plan provided in Cases 17-E-
+2 
+0238 and 17-G-0239, the Company must show that 
+3 
+the proposal continues to be reasonable at this 
+4 
+time.  Therefore, we cannot evaluate whether the 
+5 
+project is reasonable until the Company has made 
+6 
+a good faith effort to produce a BCA for this 
+7 
+project. 
+8 
+Q. 
+Are there any revenue requirement impacts of the 
+9 
+Panel’s proposal not to approve the Kenmore 
+10 
+Energy Storage Project until after the Company 
+11 
+has provided a BCA? 
+12 
+A. 
+No.  Since the Kenmore Energy Storage Project 
+13 
+costs do not begin until Data Year 2, there is 
+14 
+no need to make any adjustments to the Rate Year 
+15 
+revenue requirement forecasts. 
+16 
+ 
+17 
+NON-WIRES ALTERNATIVES 
+18 
+Q. 
+Did the Company propose any modifications to its 
+19 
+existing NWA cost recovery and incentive 
+20 
+mechanisms? 
+21 
+A. 
+Yes.  The Company discussed its NWA-related 
+22 
+proposals on pages 60-66 of the EIOP’s direct 
+23 
+testimony, and page 78 of the Electric Rate 
+24 
+
+
+--- Page 102 ---
+Cases 20-E-0380 & 20-G-0381 
+SESP 
+ 
+100 
+Design Panel’s (ERDP) direct testimony.  In both 
+1 
+Panels’ testimonies, the Company refers to the 
+2 
+contents of Exhibit___(EIOP-14).  Specifically, 
+3 
+the Company proposes two changes: (1) to change 
+4 
+the amortization period over which NWA Project 
+5 
+costs would be recovered from a set ten-year 
+6 
+period to, instead, match with the project’s 
+7 
+contract period; and (2) to eliminate the 
+8 
+distinction between “Large Projects” and “Small 
+9 
+Projects” shown in Appendix 13 to the Joint 
+10 
+Proposal adopted by the Commission when the 
+11 
+Commission set NMPC’s rates in Cases 17-E-0238 
+12 
+and 17-G-0239. 
+13 
+Q. 
+Did the Company provide any explanation for 
+14 
+these proposals? 
+15 
+A. 
+No.  Neither the direct testimony of the EIOP 
+16 
+nor Electric Rate Design Panel provided any 
+17 
+explanation or justification for the Company’s 
+18 
+proposed changes. 
+19 
+Q. 
+Does this Panel agree with the Company’s 
+20 
+modifications to the NWA Project Cost Recovery 
+21 
+and Incentive Mechanisms? 
+22 
+A. 
+We agree with the Company’s proposal to 
+23 
+eliminate the distinction between “Large 
+24 
+
+
+--- Page 103 ---
+Cases 20-E-0380 & 20-G-0381 
+SESP 
+ 
+101 
+Projects” and “Small Projects,” but not its 
+1 
+proposal to modify the ten-year amortization 
+2 
+period. 
+3 
+Q. 
+Why do you agree with the Company’s proposal to 
+4 
+eliminate the distinction between “Large 
+5 
+Projects” and “Small Projects?” 
+6 
+A. 
+Despite the Company’s failure to justify, or 
+7 
+even discuss, its proposed modification, the 
+8 
+modification is reasonable.  The distinction 
+9 
+between a “Large Project” and “Small Project” is 
+10 
+an artifact of the prior rate proceedings, and 
+11 
+is no longer applicable.  At the time of 2017 
+12 
+rate proceedings, NMPC distinguished between 
+13 
+“Large Projects” and “Small Projects” as part of 
+14 
+its NWA Screening Criteria included in Appendix 
+15 
+4 of the March 1, 2017 Joint Utilities Filing of 
+16 
+Utility-Specific Implementation Matrices for 
+17 
+Non-Wires Alternatives Suitability Criteria, in 
+18 
+Case 16-M-0411 (2017 NWA Matrices Filing).  The 
+19 
+Company continued to distinguish NWA projects as 
+20 
+either “Large” or “Small” as part of its 2018 
+21 
+Distributed System Implementation Plan (DSIP) 
+22 
+Update, submitted on July 31, 2018 in Case 16-M-
+23 
+0411, shown on page 238 of that document.  
+24 
+
+
+--- Page 104 ---
+Cases 20-E-0380 & 20-G-0381 
+SESP 
+ 
+102 
+However, as of its most recent DSIP, submitted 
+1 
+on June 30, 2020 in Case 16-M-0411, the Company 
+2 
+no longer distinguishes between “Large Projects” 
+3 
+and “Small Projects,” and instead considers all 
+4 
+projects with greater than 18 months of lead 
+5 
+time and greater than $500,000 in CapEx on an 
+6 
+equal footing.  Since the Company’s updated NWA 
+7 
+Screening Criteria from its 2020 DSIP do not 
+8 
+distinguish between project sizes, the NWA Cost 
+9 
+Recovery and Incentive Mechanisms need not 
+10 
+either.  Therefore, we recommend that the 
+11 
+Company’s proposal to eliminate the distinction 
+12 
+between “Large Projects” and “Small Projects” be 
+13 
+approved. 
+14 
+Q. 
+Why does the Panel disagree with the Company’s 
+15 
+proposal to modify the ten-year amortization 
+16 
+period? 
+17 
+A. 
+In addition to the fact that the Company has 
+18 
+provided no justification for its proposal, the 
+19 
+proposal itself is not reasonable. 
+20 
+Q. 
+Why is the Company’s proposal not reasonable? 
+21 
+A. 
+There are four reasons why changing the 
+22 
+amortization period from a flat ten-year period 
+23 
+to a period matching the applicable NWA 
+24 
+
+
+--- Page 105 ---
+Cases 20-E-0380 & 20-G-0381 
+SESP 
+ 
+103 
+Project’s contract term is unreasonable: (1) the 
+1 
+ten-year amortization period strikes an 
+2 
+appropriate balance between competing 
+3 
+objectives; (2) the ten-year amortization period 
+4 
+approximates the useful life of common NWA 
+5 
+measures; (3) having different amortization 
+6 
+periods for many simultaneous NWA projects can 
+7 
+quickly become unwieldy and difficult to track 
+8 
+and audit; (4) modifying NMPC’s NWA Cost 
+9 
+Recovery and Incentive Mechanism would 
+10 
+needlessly create areas of dissimilarity between 
+11 
+the Company’s mechanisms and the mechanisms in 
+12 
+place at each of the other New York State 
+13 
+electric distribution utilities. 
+14 
+Q. 
+What competing interests does the ten-year 
+15 
+amortization period balance? 
+16 
+A. 
+The ten-year amortization period strikes a 
+17 
+balance between offering a reasonably long 
+18 
+period to spread over NWA Project costs to avoid 
+19 
+large bill impacts, with providing timely 
+20 
+recovery of utility costs.  The ten-year 
+21 
+amortization period has previously been selected 
+22 
+for many other infrastructure-alternative 
+23 
+projects, including the Indian Point Demand 
+24 
+
+
+--- Page 106 ---
+Cases 20-E-0380 & 20-G-0381 
+SESP 
+ 
+104 
+Management Program approved by the Commission in 
+1 
+2012 in Case 12-E-0503, and the Brooklyn/Queens 
+2 
+Demand Management Program approved by the 
+3 
+Commission in 2014 in Case 14-E-0302. 
+4 
+Q. 
+How does the ten-year amortization period 
+5 
+approximate the useful life of common NWA 
+6 
+measures? 
+7 
+A. 
+The ten-year amortization period is similar to 
+8 
+the average useful lifetime of the measures most 
+9 
+likely to be used as part of NWA portfolios to 
+10 
+achieve deferral of traditional capital 
+11 
+projects; that is, energy efficiency and energy 
+12 
+storage.  Therefore, even without the Company’s 
+13 
+proposal to match the amortization period 
+14 
+directly with the contract length, the existing 
+15 
+NWA Cost Recovery and Incentive Mechanism 
+16 
+reasonably matches the cost recovery period for 
+17 
+NWA Project costs with the useful lifetime of 
+18 
+the alternatives used to achieve such deferral. 
+19 
+Q. 
+How could the Company’s proposal to have 
+20 
+different amortization periods for each NWA 
+21 
+Project become unwieldy and difficult to track? 
+22 
+A. 
+Although the Company plans to implement three 
+23 
+NWA Projects at this time, the Company continues 
+24 
+
+
+--- Page 107 ---
+Cases 20-E-0380 & 20-G-0381 
+SESP 
+ 
+105 
+to seek new NWA opportunities, and may seek to 
+1 
+implement more projects in the near future.  
+2 
+While managing different individual amortization 
+3 
+periods for three projects, it should not be 
+4 
+difficult to imagine increased difficulty in 
+5 
+tracking individual projects if there are many 
+6 
+more NWA Projects to be tracked.  A flat ten-
+7 
+year period provides a very simple, predictable 
+8 
+timeframe to track project costs over without 
+9 
+unnecessarily complicating tracking processes. 
+10 
+Q. 
+If approved, will NMPC be the only New York 
+11 
+State electric distribution utility with a 
+12 
+variable NWA Project cost amortization period? 
+13 
+A. 
+Yes.  If the Company’s proposal is approved, it 
+14 
+will create dissimilarity between its NWA 
+15 
+Project Cost Recovery and Incentives Mechanism 
+16 
+and those in place at the remaining New York 
+17 
+State electric distribution utilities.  For all 
+18 
+of the above reasons, we recommend that the 
+19 
+Commission reject the Company’s unjustified and 
+20 
+unreasonable request to modify the ten-year 
+21 
+amortization period for NWA Project Costs. 
+22 
+ 
+23 
+NON-PIPE ALTERNATIVES 
+24 
+
+
+--- Page 108 ---
+Cases 20-E-0380 & 20-G-0381 
+SESP 
+ 
+106 
+Q. 
+Did the Company make any proposals regarding the 
+1 
+implementation of NPA processes and procedures 
+2 
+in this proceeding? 
+3 
+A. 
+In this proceeding it did not.  However, the 
+4 
+Company did submit proposed NPA screening 
+5 
+criteria, an NPA project cost recovery 
+6 
+mechanism, and an NPA incentive mechanism as 
+7 
+part of the final report of the Non-Pipeline 
+8 
+Alternatives Incentive Mechanism Collaborative 
+9 
+(NPA Collaborative Report), which is filed in 
+10 
+Case 17-G-0239 on December 21, 2018.  This 
+11 
+proposal has yet to be implemented by the 
+12 
+Company as part of its capital planning 
+13 
+processes and procedures. 
+14 
+Q. 
+Describe what the Company proposed in the NPA 
+15 
+Collaborative Report. 
+16 
+A. 
+As further described in the Company’s NPA 
+17 
+Collaborative Report, the Company proposed: (1) 
+18 
+a definition of an NPA; (2) screening criteria 
+19 
+for traditional infrastructure projects to be 
+20 
+considered for development as an NPA; (3) 
+21 
+eligibility requirements for resources to 
+22 
+participate in an NPA project; (4) a shareholder 
+23 
+incentive mechanism; (5) NPA project cost and 
+24 
+
+
+--- Page 109 ---
+Cases 20-E-0380 & 20-G-0381 
+SESP 
+ 
+107 
+incentive cost recovery mechanisms; and (6) 
+1 
+associated reporting requirements.  
+2 
+Q. 
+How does the Company define an NPA project?  
+3 
+A. 
+The Company defines an NPA project as a 
+4 
+portfolio of resources used to delay, reduce, or 
+5 
+eliminate the need for traditional capital 
+6 
+investments to reinforce or expand gas supply 
+7 
+and distribution infrastructure, and which 
+8 
+reduces net utility plant in service.  The 
+9 
+Company noted that while its proposed incentive 
+10 
+mechanism would be limited to projects that 
+11 
+reduce utility net plant in service, it would 
+12 
+not be precluded from pursuing opportunities to 
+13 
+develop solutions for other types of projects 
+14 
+that would not reduce utility net plant in 
+15 
+service, but would produce societal benefits. 
+16 
+Q. 
+What types of projects would be included under 
+17 
+the Company’s proposed incentive mechanism? 
+18 
+A. 
+The proposed incentive mechanism would include 
+19 
+any project that displaces capital expenditures, 
+20 
+and therefore net plant in service.  For 
+21 
+example, the mechanism would apply to a project 
+22 
+that would eliminate the need to replace gas 
+23 
+distribution main in a particular area. 
+24 
+
+
+--- Page 110 ---
+Cases 20-E-0380 & 20-G-0381 
+SESP 
+ 
+108 
+Q. 
+What types of projects would not be included 
+1 
+under the Company’s proposed incentive 
+2 
+mechanism? 
+3 
+A. 
+The incentive mechanism would not cover projects 
+4 
+that reduce the need for interstate pipelines, 
+5 
+since reductions to interstate pipeline capital 
+6 
+costs do not result in a reduction to 
+7 
+distribution utility net plant in service.  The 
+8 
+Company would still have the opportunity to 
+9 
+pursue such projects; however, the explicit cost 
+10 
+recovery and incentive mechanisms proposed for 
+11 
+NPAs would not apply to those projects.  
+12 
+Instead, the Company would separately request 
+13 
+authorization and cost recovery for such 
+14 
+projects. 
+15 
+Q. 
+Please define “NPA screening criteria.” 
+16 
+A. 
+NPA screening criteria are a set of requirements 
+17 
+which obligate the Company to attempt to develop 
+18 
+an NPA project when all of the criteria are 
+19 
+met.  When considering a capital project, the 
+20 
+Company must compare the project against the 
+21 
+screening criteria.  If the project meets all of 
+22 
+the screening criteria, the Company must attempt 
+23 
+to develop an NPA project to implement in lieu 
+24 
+
+
+--- Page 111 ---
+Cases 20-E-0380 & 20-G-0381 
+SESP 
+ 
+109 
+of the planned traditional capital 
+1 
+investment.  The Company may optionally attempt 
+2 
+to develop NPA projects for those traditional 
+3 
+capital investments that do not meet all of the 
+4 
+criteria, however, the Company would not be 
+5 
+obligated to do so. 
+6 
+Q. 
+What screening criteria did the Company propose 
+7 
+in the NPA Collaborative Report? 
+8 
+A. 
+For screening purposes, the Company proposed to 
+9 
+separate projects into two categories, large and 
+10 
+small.  For small projects, the Company proposed 
+11 
+that it be required to attempt to develop an NPA 
+12 
+portfolio for traditional projects with capital 
+13 
+costs more than $1 million and less than $3 
+14 
+million, which would be designed to be completed 
+15 
+within one fiscal year.  For large projects, the 
+16 
+Company proposed that it be required to pursue 
+17 
+NPAs for projects with capital costs greater 
+18 
+than $3 million, which would be designed to be 
+19 
+completed over more than one fiscal year.  In 
+20 
+the event that these screening criteria need to 
+21 
+be adjusted, the Company proposed to make such 
+22 
+adjustments through a separate filing. 
+23 
+Q. 
+Explain the Company’s proposed eligibility 
+24 
+
+
+--- Page 112 ---
+Cases 20-E-0380 & 20-G-0381 
+SESP 
+ 
+110 
+requirements for resources participating in NPA 
+1 
+projects. 
+2 
+A. 
+The Company proposed that a resource must be a 
+3 
+commercially-proven technology that provides 
+4 
+load relief coincident with the system need and, 
+5 
+upon which, the Company can rely on to delay or 
+6 
+replace the need for the applicable traditional 
+7 
+capital project. 
+8 
+Q. 
+Provide an overview of the Company’s proposed 
+9 
+NPA Incentive Mechanism. 
+10 
+A. 
+In the NPA Collaborative Report, the Company 
+11 
+proposed a shareholder incentive equal to 30 
+12 
+percent of identified societal net benefits, 
+13 
+plus or minus 50 percent of portfolio cost 
+14 
+savings or overruns, respectively.  The Company 
+15 
+proposed to cap the incentive at no greater than 
+16 
+50 percent of the societal net benefits with an 
+17 
+incentive floor of $0.  The Company proposed a 
+18 
+slightly different mechanism for large and small 
+19 
+NPA projects.  The Company proposed to use a 
+20 
+streamlined process for small projects based on 
+21 
+the calculation of the incentives on a per-Dth 
+22 
+basis to recognize the more rapid speed of 
+23 
+development for smaller projects.  The Company 
+24 
+
+
+--- Page 113 ---
+Cases 20-E-0380 & 20-G-0381 
+SESP 
+ 
+111 
+proposed a more rigorous process for large 
+1 
+projects, which would recognize the longer lead 
+2 
+time available for projects of this 
+3 
+magnitude.  For both small and large projects, 
+4 
+the Company proposed adjustment mechanisms to 
+5 
+modify the available incentive if an updated 
+6 
+needs assessment determines that more or less 
+7 
+load relief is required to achieve deferral or 
+8 
+replacement of the traditional infrastructure, 
+9 
+or if the NPA project will not be able to defer 
+10 
+the infrastructure as intended. 
+11 
+Q. 
+Provide an overview of the Company proposal 
+12 
+regarding recovery of NPA project and incentive 
+13 
+costs. 
+14 
+A. 
+The Company’s cost recovery proposals in the NPA 
+15 
+Collaborative Report are related to three areas: 
+16 
+(1) modifications to the Company’s Capital 
+17 
+Investment Reconciliation Mechanism; (2) 
+18 
+allocation of NPA-related costs to SCs; (3) 
+19 
+amortization and recovery of NPA-related costs 
+20 
+in the Delivery Service Adjustment (DSA) 
+21 
+surcharge; and (4) roll-in of unrecovered 
+22 
+amortized NPA costs into base rates during the 
+23 
+Company’s next rate proceedings. 
+24 
+
+
+--- Page 114 ---
+Cases 20-E-0380 & 20-G-0381 
+SESP 
+ 
+112 
+Q. 
+What modifications did the Company propose to 
+1 
+its Capital Investment Reconciliation Mechanism 
+2 
+related to NPA projects? 
+3 
+A. 
+To the extent that an NPA project results in the 
+4 
+Company displacing a capital project reflected 
+5 
+in the Average Gas Plant in Service Balances 
+6 
+(Balance), the Company proposes to reduce the 
+7 
+Balance to exclude the forecast net plant 
+8 
+associated with that capital project.  The 
+9 
+Company proposes to apply the carrying charges 
+10 
+associated with the displaced project as a 
+11 
+credit against recovery of NPA-related 
+12 
+costs.  In the event that those carrying charges 
+13 
+are greater than the cost of the NPA project, 
+14 
+the Company proposed to defer the difference for 
+15 
+the benefit of customers. 
+16 
+Q. 
+How did the Company propose to allocate NPA 
+17 
+costs to the various SCs? 
+18 
+A. 
+As indicated in the NPA Collaborative Report, 
+19 
+the Company proposed to allocate NPA costs to 
+20 
+SCs based on the type of traditional solution 
+21 
+the NPA project would defer or eliminate, 
+22 
+roughly on the basis of a “beneficiaries pay” 
+23 
+principle.  Specifically, the Company proposed 
+24 
+
+
+--- Page 115 ---
+Cases 20-E-0380 & 20-G-0381 
+SESP 
+ 
+113 
+to allocate peak day need-related NPAs to SCs 
+1 
+based on each SC’s contribution to Peak Sendout, 
+2 
+and proposed to allocate daily demand need-
+3 
+related NPAs to SCs based on each SC’s 
+4 
+contribution to Total Gas Deliveries. 
+5 
+Q. 
+What does the Company propose regarding 
+6 
+amortization and recovery of these costs? 
+7 
+A. 
+As indicated in the NPA Collaborative Report, 
+8 
+the Company proposed to amortize NPA project 
+9 
+costs over ten years and to begin recovery of 
+10 
+these costs through the DSA surcharge as they 
+11 
+are incurred.  For earned NPA-related 
+12 
+incentives, the Company proposed to amortize 
+13 
+such incentives, once earned, over the remaining 
+14 
+deferral period of the traditional 
+15 
+infrastructure.  The Company would begin 
+16 
+recovery of such incentives through the DSA 
+17 
+surcharge, once earned.  The Company proposed to 
+18 
+include any unamortized costs plus carrying 
+19 
+charges in gas base rates the next time they are 
+20 
+reset, instead of continuing to recover NPA 
+21 
+project and incentive costs through the DSA 
+22 
+surcharge. 
+23 
+Q. 
+Provide an overview of the Company’s proposed 
+24 
+
+
+--- Page 116 ---
+Cases 20-E-0380 & 20-G-0381 
+SESP 
+ 
+114 
+reporting requirements for NPA projects. 
+1 
+A. 
+As indicated in the NPA Collaborative Report, 
+2 
+the Company proposed to file a detailed 
+3 
+Implementation Plan and BCA result with the 
+4 
+Secretary to the Commission for each NPA project 
+5 
+it pursues when it has reasonable certainty as 
+6 
+to the costs of the NPA project.  The Company 
+7 
+proposed to update the Implementation Plan 
+8 
+annually, and may file updates more frequently, 
+9 
+as needed.  The Company proposed to file updated 
+10 
+Implementation Plans outside the typical annual 
+11 
+filing: (1) if the amount of load relief 
+12 
+required increases or decreases; (2) if the 
+13 
+deferral period for the traditional 
+14 
+infrastructure project lengthens or shortens; 
+15 
+or, (3) when the Company files to earn 
+16 
+incentives under its proposed NPA Incentive 
+17 
+Mechanism.  The Company also proposed to file an 
+18 
+update to the BCA results when the amount of 
+19 
+load relief or deferral period is modified. 
+20 
+Q. 
+Did the Company propose any other reporting 
+21 
+requirements in the NPA Collaborative Report? 
+22 
+A. 
+Yes.  In addition to the annual updates to each 
+23 
+NPA project’s Implementation Plan, the Company 
+24 
+
+
+--- Page 117 ---
+Cases 20-E-0380 & 20-G-0381 
+SESP 
+ 
+115 
+proposed to summarize all of its active NPA 
+1 
+projects annually by January 31 of each year, 
+2 
+beginning the first year that the Company has 
+3 
+any active NPA projects.  The Company also 
+4 
+proposed to file quarterly reports with the 
+5 
+Secretary to the Commission tracking the 
+6 
+progress of each NPA project 60 days after the 
+7 
+close of each quarter. 
+8 
+Q. 
+Where would the Company file these reports? 
+9 
+A. 
+All of the reports described above would be 
+10 
+filed with the Secretary to the Commission in 
+11 
+this proceeding. 
+12 
+Q. 
+What is the Panel’s general philosophy with 
+13 
+regard to NPAs? 
+14 
+A. 
+As highlighted in the testimony of the Staff Gas 
+15 
+Reliability Panel, these rate proceedings 
+16 
+present an opportune time to implement NPA 
+17 
+processes as part of the Company’s operating and 
+18 
+planning procedures.  We recommend that the 
+19 
+Company begin responding to system needs with 
+20 
+non-traditional solutions as quickly as 
+21 
+possible.  Therefore, we recommend that the 
+22 
+Commission approve the necessary NPA development 
+23 
+processes and cost recovery mechanisms as part 
+24 
+
+
+--- Page 118 ---
+Cases 20-E-0380 & 20-G-0381 
+SESP 
+ 
+116 
+of these proceedings. 
+1 
+Q. 
+What NPA development processes and cost recovery 
+2 
+mechanisms do you recommend? 
+3 
+A. 
+Specifically, we recommend that the Commission 
+4 
+approve the following from the Collaborative 
+5 
+Report, described above: (1) the definition of 
+6 
+an NPA project; (2) solution eligibility 
+7 
+requirements; (3) modification of the Capital 
+8 
+Investment Reconciliation Mechanism; (4) NPA 
+9 
+project cost allocation amongst service 
+10 
+classifications methodology; (5) NPA project 
+11 
+cost amortization and recovery 
+12 
+mechanisms.  Additionally, as highlighted in the 
+13 
+testimony of the Staff Gas Reliability Panel, 
+14 
+NPAs must not, under any circumstances, 
+15 
+negatively impact the safety of the system or 
+16 
+the reliability of service to firm customers. 
+17 
+Q. 
+Do you recommend that the Commission also 
+18 
+approve the NPA incentive mechanism from the 
+19 
+Collaborative Report? 
+20 
+A. 
+No.  We do not recommend establishing any 
+21 
+specific shareholder incentive mechanism at this 
+22 
+time because the Commission is addressing NPAs 
+23 
+on a statewide basis in Case 20-G-0131 and we 
+24 
+
+
+--- Page 119 ---
+Cases 20-E-0380 & 20-G-0381 
+SESP 
+ 
+117 
+anticipate that NPA incentive mechanisms will be 
+1 
+considered by the Commission as part of that 
+2 
+proceeding.  In its Order Instituting 
+3 
+Proceeding, issued on March 19, 2020, in Case 
+4 
+20-G-0131, the Gas Planning Proceeding, the 
+5 
+Commission identified that it will consider 
+6 
+NPAs, among other issues, and how they should be 
+7 
+integrated into gas utilities’ long-term 
+8 
+planning processes. 
+9 
+Q. 
+Are there any downsides to developing an NPA 
+10 
+incentive mechanism as part of these 
+11 
+proceedings? 
+12 
+A. 
+Yes.  Any NPA shareholder incentive mechanism 
+13 
+approved as part of these proceedings runs the 
+14 
+risk of potentially being out of step with the 
+15 
+statewide policy set by the Commission by the 
+16 
+time the Company develops an actual NPA project 
+17 
+proposal. 
+18 
+Q. 
+Is there a risk that the Company will complete 
+19 
+development of NPA projects before the 
+20 
+Commission makes a determination on NPA 
+21 
+Incentive mechanisms in Case 20-G-0131? 
+22 
+A. 
+There is, however, the risk is fairly minimal.  
+23 
+The Company has yet to identify any potential 
+24 
+
+
+--- Page 120 ---
+Cases 20-E-0380 & 20-G-0381 
+SESP 
+ 
+118 
+projects for which it may pursue NPAs.  NPA 
+1 
+projects, especially a utility’s first such 
+2 
+project, may take a year or more to develop - 
+3 
+even after the utility has decided to pursue a 
+4 
+particular NPA.  However, in the unlikely event 
+5 
+that the Company develops an NPA project before 
+6 
+the Commission makes a statewide determination 
+7 
+regarding the NPA incentive mechanism, we 
+8 
+recommend that the Commission allow the Company 
+9 
+to file a petition for an appropriate 
+10 
+shareholder incentive mechanism concomitantly 
+11 
+with the Implementation Plan for the Company’s 
+12 
+first NPA project.   
+13 
+Q. 
+Are there benefits to approving NPA development 
+14 
+criteria and cost recovery mechanisms in this 
+15 
+proceeding, but delaying approval of a 
+16 
+shareholder incentive mechanism? 
+17 
+A. 
+Yes.  Approving the NPA development criteria and 
+18 
+cost recovery mechanisms in this proceeding will 
+19 
+provide the Company with regulatory certainty 
+20 
+regarding its ability to recover NPA 
+21 
+costs.  This will eliminate barriers so that the 
+22 
+Company can begin seeking NPA opportunities as 
+23 
+soon as possible.  While delaying approval of a 
+24 
+
+
+--- Page 121 ---
+Cases 20-E-0380 & 20-G-0381 
+SESP 
+ 
+119 
+specific shareholder incentive mechanism might 
+1 
+not accelerate the Company’s timeline for 
+2 
+pursuing these projects, it will ensure that the 
+3 
+shareholder incentive mechanism ultimately 
+4 
+approved is consistent with the Commission’s 
+5 
+policies regarding the natural gas business in 
+6 
+place when the Company actually intends to 
+7 
+pursue its first NPA. 
+8 
+Q. 
+How does the Panel propose to incorporate the 
+9 
+potential directives of future orders in the Gas 
+10 
+Planning Proceeding? 
+11 
+A. 
+Any NPA process adopted in these rate 
+12 
+proceedings should be modified to reflect any 
+13 
+superseding NPA process and planning 
+14 
+requirements instituted in the Commission’s Gas 
+15 
+Planning Proceeding.  
+16 
+ 
+17 
+CARBON CAPTURE UNIT STUDY 
+18 
+Q. 
+Please describe the Company’s Carbon Capture 
+19 
+Unit Study (CCUS). 
+20 
+A. 
+As described on pages 19-20 of the direct 
+21 
+testimony of the FOH Panel, the CCUS project 
+22 
+consists of the installation and evaluation of 
+23 
+ten residential- to light commercial-scale 
+24 
+
+
+--- Page 122 ---
+Cases 20-E-0380 & 20-G-0381 
+SESP 
+ 
+120 
+carbon capture units.  The carbon capture units 
+1 
+would be connected to high-efficiency heating 
+2 
+systems in residential or light commercial 
+3 
+buildings, and the unit would divert and 
+4 
+sequester carbon dioxide (CO2) emissions from 
+5 
+the heating system.  The carbon capture unit 
+6 
+achieves carbon sequestration by mixing the 
+7 
+heating system exhaust gases with potassium 
+8 
+hydroxide, resulting in solid potassium 
+9 
+carbonate, or pearl ash.  The pearl ash could 
+10 
+then potentially be used as an input to produce 
+11 
+other useful materials, such as soaps. 
+12 
+Q. 
+What are the costs associated with the CCUS? 
+13 
+A. 
+The costs of the CCUS are entirely allocated to 
+14 
+NMPC’s gas business, however, there are no costs 
+15 
+related to this project during the Rate Year.  
+16 
+As shown on page 23 of the FOH Panel’s direct 
+17 
+testimony, the Company proposes to spend $0.330 
+18 
+million in non-labor O&M during Data Year 1, 
+19 
+with ongoing annual costs of $0.100 million 
+20 
+during Data Year 2.  In addition, the Company 
+21 
+proposes to hire one FTE to manage the program, 
+22 
+beginning in Data Year 1. 
+23 
+Q. 
+Does the Panel agree with the Company’s proposed 
+24 
+
+
+--- Page 123 ---
+Cases 20-E-0380 & 20-G-0381 
+SESP 
+ 
+121 
+CCUS project? 
+1 
+A. 
+We agree that the CCUS project shows promise, 
+2 
+however, as a small-scale technology 
+3 
+demonstration, it is not the type of project 
+4 
+that we would typically recommend a utility 
+5 
+undertake.  Instead this type of project is more 
+6 
+suited for an entity like NYSERDA to implement, 
+7 
+as these types of small-scale technology 
+8 
+demonstrations are typical for NYSERDA.  
+9 
+Further, this type of project does not meet the 
+10 
+guidelines for utility Demonstration Projects 
+11 
+established by the Commission in the 
+12 
+February 26, 2015 Order Adopting Regulatory 
+13 
+Policy Framework and Implementation Plan in Case 
+14 
+14-M-0101.  Therefore, we recommend that the 
+15 
+CCUS project be rejected. 
+16 
+Q. 
+Are there any Rate Year revenue requirement 
+17 
+impacts of your recommendation for the 
+18 
+Commission not to approve the CCUS project? 
+19 
+A. 
+No.  Since all of the costs of the CCUS project 
+20 
+would only begin during Data Year 1, there are 
+21 
+no required adjustments to the Rate Year revenue 
+22 
+requirements. 
+23 
+ 
+24 
+
+
+--- Page 124 ---
+Cases 20-E-0380 & 20-G-0381 
+SESP 
+ 
+122 
+RENEWABLE NATURAL GAS 
+1 
+Q. 
+Please describe the Company’s proposed renewable 
+2 
+natural gas (RNG) proposals. 
+3 
+A. 
+As described starting on page 46 of the FOH 
+4 
+Panel’s direct testimony, the Company proposes 
+5 
+two RNG interconnection programs.  Additionally, 
+6 
+the Company proposes to incorporate RNG 
+7 
+procurement as part of the overall gas supply 
+8 
+portfolio; however, this will be separately 
+9 
+addressed as part of the Staff Gas Reliability 
+10 
+Panel Testimony. 
+11 
+Q. 
+Please describe the RNG interconnection 
+12 
+proposal. 
+13 
+A. 
+The Company proposes to engineer, install, and 
+14 
+own certain portions of RNG interconnections.  
+15 
+This would remove a portion of this upfront cost 
+16 
+barrier to encourage RNG development in its 
+17 
+service territory.  The Company proposes two 
+18 
+interconnection programs.  The first focuses on 
+19 
+interconnecting individual RNG facilities that 
+20 
+are able to directly connect to NMPC’s natural 
+21 
+gas network.  The second interconnection program 
+22 
+focuses on providing a centralized 
+23 
+interconnection point for multiple RNG 
+24 
+
+
+--- Page 125 ---
+Cases 20-E-0380 & 20-G-0381 
+SESP 
+ 
+123 
+facilities that are unable to directly connect 
+1 
+to NMPC’s natural gas network.  The Company 
+2 
+forecasts approximately one individual 
+3 
+interconnection project to be implemented each 
+4 
+year, starting in 2021, and two per year in FY 
+5 
+2025   The requested Rate Year funding for the 
+6 
+individual interconnect program is approximately 
+7 
+$0.468 million in capital costs for one 
+8 
+interconnection project and $0.165 million in 
+9 
+non-labor operational expense. 
+10 
+Q. 
+What does the Company propose to own and operate 
+11 
+for the proposed centralized interconnection 
+12 
+program? 
+13 
+A. 
+The Company proposes to own and operate all 
+14 
+facilities downstream of the biogas conditioning 
+15 
+and upgrading equipment, including pipeline 
+16 
+lateral, compression, interconnection equipment, 
+17 
+and any pipeline extension.  The forecasted 
+18 
+capital costs for this portion of the proposal 
+19 
+goes beyond the Rate Year with capital costs of 
+20 
+$1.5 million and $7.5 million for fiscal year 
+21 
+2023 and fiscal year 2024, respectively.  
+22 
+Additionally, the Company projected that the 
+23 
+total capital costs could be as high as $10.0 
+24 
+
+
+--- Page 126 ---
+Cases 20-E-0380 & 20-G-0381 
+SESP 
+ 
+124 
+million, depending on finalized site selection 
+1 
+and project design. 
+2 
+Q. 
+Who would own the biogas conditioning and 
+3 
+upgrading equipment? 
+4 
+A. 
+The Company envisions the biogas conditioning 
+5 
+and upgrading equipment portion of the facility 
+6 
+will be owned by one or more third-parties.  To 
+7 
+facilitate the development of the upstream 
+8 
+portion of the facility, NMPC would issue an RFP 
+9 
+for the selection process once a suitable site 
+10 
+has been identified. 
+11 
+Q. 
+What is the Company proposing for the labor 
+12 
+components of the RNG proposals? 
+13 
+A. 
+The Company is requesting one additional FTE, 
+14 
+which would be responsible for establishing and 
+15 
+maintaining contacts with RNG suppliers and 
+16 
+administering the program. 
+17 
+Q. 
+What does the Panel recommend regarding the RNG 
+18 
+interconnection proposals? 
+19 
+A. 
+While we support exploring RNG in general, at 
+20 
+present, the proposed programs are still in the 
+21 
+early stages of development.  As indicated in 
+22 
+the Company’s response to IR DPS-787, two of the 
+23 
+identified potential RNG projects are inactive 
+24 
+
+
+--- Page 127 ---
+Cases 20-E-0380 & 20-G-0381 
+SESP 
+ 
+125 
+and the remaining two are only inquiries.  
+1 
+Accordingly, we recommend denying the additional 
+2 
+requested FTE and the associated O&M costs 
+3 
+related to the proposed programs for the Rate 
+4 
+Year.  We also do not recommend approval of the 
+5 
+associated Rate Year capital expenditures, which 
+6 
+is addressed in the direct testimony of the 
+7 
+Staff Gas Infrastructure and Operations Panel. 
+8 
+ 
+9 
+MULTI-USE HYDROGEN FACILITY 
+10 
+Q. 
+Please describe the Company’s proposed Multi-Use 
+11 
+Hydrogen Facility. 
+12 
+A. 
+As described on pages 58-59 of the FOH Panel’s 
+13 
+direct testimony, the Multi-Use Hydrogen 
+14 
+Facility, referred to as the Energy Transfer 
+15 
+Station (ETS), consists of a one MW 
+16 
+electrolyzer, a compressed hydrogen storage 
+17 
+tank, a fuel cell with maximum output of 
+18 
+approximately one MW, a hydrogen vehicle fuel 
+19 
+dispenser, up to four DCFC electric vehicle 
+20 
+plugs, and a natural gas blending mixing valve.  
+21 
+In addition, the Company envisions including a 
+22 
+bioreactor to produce methane. 
+23 
+Q. 
+How would the ETS operate? 
+24 
+
+
+--- Page 128 ---
+Cases 20-E-0380 & 20-G-0381 
+SESP 
+ 
+126 
+A. 
+There are multiple operating modes.  First, the 
+1 
+ETS could draw power from the electric grid, 
+2 
+specifically purchased renewable energy, to 
+3 
+operate either the electrolyzer or its DCFC 
+4 
+plugs.  Electrolyzers are used to break apart 
+5 
+water molecules, creating hydrogen gas and 
+6 
+oxygen gas.  The hydrogen gas created by the 
+7 
+electrolyzer could then be used in multiple 
+8 
+ways.  The hydrogen gas produced by the 
+9 
+electrolyzer could: (1) react with oxygen gas in 
+10 
+the fuel cell to create water and electricity; 
+11 
+(2) be dispensed into hydrogen fuel cell 
+12 
+vehicles through the hydrogen dispensing 
+13 
+station; (3) be mixed in small quantities into 
+14 
+the natural gas supply using the mixing valve; 
+15 
+or (4) be fed into a bioreactor with specialized 
+16 
+microbes that digest the hydrogen to produce 
+17 
+methane. 
+18 
+Q. 
+What are the use cases for the ETS? 
+19 
+A. 
+There are multiple use cases. 
+20 
+Q. 
+What is the first use case? 
+21 
+A. 
+First, the ETS could be used as an Energy 
+22 
+Storage device - operating the electrolyzer to 
+23 
+create hydrogen, storing that hydrogen for later 
+24 
+
+
+--- Page 129 ---
+Cases 20-E-0380 & 20-G-0381 
+SESP 
+ 
+127 
+use, then reacting the hydrogen in the fuel cell 
+1 
+to create electricity.  In this way, the ETS 
+2 
+could be used to provide similar energy and 
+3 
+capacity related services to other Energy 
+4 
+Storage devices. 
+5 
+Q. 
+What is the second use case? 
+6 
+A. 
+Second, the ETS could serve as a low-impact DCFC 
+7 
+site.  Customers could charge their electric 
+8 
+vehicles using the DCFC plugs, while the ETS 
+9 
+supplies most of the demand requirements of the 
+10 
+charger by operating the fuel cell.  In this 
+11 
+way, it is possible for EVs to charge using the 
+12 
+DCFC plugs, even during the highest demand 
+13 
+hours, with the charging station contributing 
+14 
+minimally to system peak demand. 
+15 
+Q. 
+What is the third use case? 
+16 
+A. 
+Third, the ETS, in conjunction with a 
+17 
+bioreactor, could provide a source of methane.   
+18 
+Q. 
+What are the costs of the Multi-Use Hydrogen 
+19 
+Facility? 
+20 
+A. 
+The costs of the ETS are entirely allocated to 
+21 
+NMPC’s gas business and are shown in 
+22 
+Exhibit___(FOH-1CU).  The Company proposes CapEx 
+23 
+of $4.387 million during Data Year 1, and $4.390 
+24 
+
+
+--- Page 130 ---
+Cases 20-E-0380 & 20-G-0381 
+SESP 
+ 
+128 
+million during Data Year 2.  The Company 
+1 
+proposes non-labor O&M of $0.488 million during 
+2 
+Data Year 1, and $0.588 million in Data Year 2.  
+3 
+In addition, the Company proposes to hire one 
+4 
+FTE assigned to manage the ETS during the Rate 
+5 
+Year.  However, as described on page 3 of the 
+6 
+FOH Panel’s C&U testimony, during the Rate Year 
+7 
+and Data Year 1, 95 percent of the labor costs 
+8 
+related to that FTE would be capitalized as they 
+9 
+would be related to construction of the 
+10 
+facility.  Labor costs associated with the FTE 
+11 
+would be fully assigned to labor O&M beginning 
+12 
+in Data Year 2, as shown in Exhibit___(FOH-1CU).  
+13 
+In total, as shown on Exhibit___(FOH-1CU), the 
+14 
+Multi-Use Hydrogen Facility would cost 
+15 
+ratepayers over $10 million. 
+16 
+Q. 
+Does the Company anticipate receiving revenues 
+17 
+related with operation of the ETS? 
+18 
+A. 
+Yes.  As described on page 61 of the FOH Panel’s 
+19 
+direct testimony, the Company expects the ETS to 
+20 
+generate approximately $0.8 million in revenues 
+21 
+annually after it is constructed.  On page 64 of 
+22 
+the FOH Panel’s initial testimony, the Company 
+23 
+proposes to return all net revenue available 
+24 
+
+
+--- Page 131 ---
+Cases 20-E-0380 & 20-G-0381 
+SESP 
+ 
+129 
+from the ETS to customers until the capital 
+1 
+costs of the facility are fully recovered.  
+2 
+Thereafter, the Company would retain a 20 
+3 
+percent share of net revenues as a PSR to be 
+4 
+split between NMPC’s shareholders and the 
+5 
+Company’s partner in this project, Standard 
+6 
+Hydrogen Corporation.  The remaining 80 percent 
+7 
+of the revenues would be provided to ratepayers.  
+8 
+The Company states that the ratepayer-funded 
+9 
+costs associated with the ETS will likely be 
+10 
+mostly or fully recouped over the lifetime of 
+11 
+the project. 
+12 
+Q. 
+Does the Panel agree with the Company’s proposed 
+13 
+Multi-Use Hydrogen Facility. 
+14 
+A. 
+No.  We have three concerns regarding the Multi-
+15 
+Use Hydrogen Facility. 
+16 
+Q. 
+What is the Panel’s first concern? 
+17 
+A. 
+Our first and primary concern is the cost of the 
+18 
+facility itself.  While we appreciate the 
+19 
+Company’s willingness to be a leader in this 
+20 
+field, this project would be the first of its 
+21 
+kind in the United States.  Given the 
+22 
+combination of the magnitude of the revenue and 
+23 
+rate increases that the Company has proposed in 
+24 
+
+
+--- Page 132 ---
+Cases 20-E-0380 & 20-G-0381 
+SESP 
+ 
+130 
+these proceedings, as well as continuing 
+1 
+economic hardships faced by customers as a 
+2 
+result of the coronavirus pandemic, it does not 
+3 
+seem prudent to engage in such an expensive 
+4 
+discretionary project at this time, despite the 
+5 
+ETS’ many expected benefits. 
+6 
+Q. 
+What is the Panel’s second concern? 
+7 
+A. 
+Our second concern is that the safety of 
+8 
+blending hydrogen into the natural gas system is 
+9 
+largely unknown, at this time.  The Company’s 
+10 
+downstate gas affiliates, KEDNY and KEDLI, have 
+11 
+requested funding for a study to test the safety 
+12 
+and feasibility of hydrogen blending.  Until and 
+13 
+unless the safety of hydrogen blending is 
+14 
+demonstrated, we cannot endorse a project which 
+15 
+includes a proposal to begin hydrogen blending.  
+16 
+The direct testimony of the Staff Gas 
+17 
+Reliability Panel explores additional concerns 
+18 
+with blending hydrogen into the natural gas 
+19 
+system. 
+20 
+Q. 
+What is the Panel’s third concern? 
+21 
+A. 
+Our third concern lies with the use of the ETS 
+22 
+to create methane.  While the Company touts the 
+23 
+Multi-Use Hydrogen Facility as a source of 
+24 
+
+
+--- Page 133 ---
+Cases 20-E-0380 & 20-G-0381 
+SESP 
+ 
+131 
+cleaner natural gas, and asserts that developing 
+1 
+the ETS will help meet the CLCPA’s climate 
+2 
+goals, it is not always the case that 
+3 
+synthetically-produced methane will result in 
+4 
+lower emissions than pipeline methane.  
+5 
+Depending upon the characteristics of the 
+6 
+electricity used to run the ETS’ electrolyzer to 
+7 
+create the hydrogen gas, the resulting methane 
+8 
+could have smaller or larger environmental 
+9 
+impacts than typical pipeline methane.  For 
+10 
+example, if the power used to run the 
+11 
+electrolyzer was generated using a methane-fired 
+12 
+generator, the resulting methane produced by the 
+13 
+ETS would likely have similar or worse total CO2 
+14 
+emissions than typical pipeline methane.  
+15 
+However, if the power used by the electrolyzer 
+16 
+was produced exclusively using wind or solar 
+17 
+generators, the resulting methane produced by 
+18 
+the ETS would likely have fewer total CO2 
+19 
+emissions than typical pipeline methane.  It is 
+20 
+notable that the Company has not proposed that 
+21 
+the ETS be co-located with a dedicated source of 
+22 
+renewable generation, therefore we cannot be 
+23 
+sure that the synthetic natural gas produced by 
+24 
+
+
+--- Page 134 ---
+Cases 20-E-0380 & 20-G-0381 
+SESP 
+ 
+132 
+this facility will always result in fewer 
+1 
+emissions than pipeline natural gas. 
+2 
+Q. 
+Does the Panel have any other recommendations 
+3 
+regarding the Multi-Use Hydrogen Facility? 
+4 
+A. 
+Yes.  In the event that the Commission approves 
+5 
+the Company’s proposal, we recommend that the 
+6 
+costs of the facility be allocated solely or 
+7 
+mostly to NMPC’s Electric business instead of 
+8 
+solely to NMPC’s Gas business. 
+9 
+Q. 
+Why should the costs of the Multi-Use Hydrogen 
+10 
+Facility, if it were approved, be borne by 
+11 
+NMPC’s Electric customers? 
+12 
+A. 
+Where we find the gas-related components of the 
+13 
+ETS to be problematic, the use cases for the 
+14 
+Electric business are clear and in line with the 
+15 
+Commission’s policies encouraging greater 
+16 
+penetration of EV charging equipment and use of 
+17 
+energy storage.  We find the combined use of 
+18 
+energy storage and DCFC to be of particular 
+19 
+interest.  Therefore, although we do not support 
+20 
+the ETS, if it is ultimately approved, we 
+21 
+recommend that the costs be borne primarily by 
+22 
+electric customers to reflect that a majority of 
+23 
+the benefits of the ETS accrue to the electric 
+24 
+
+
+--- Page 135 ---
+Cases 20-E-0380 & 20-G-0381 
+SESP 
+ 
+133 
+system, and society at large, both of which are 
+1 
+more accurately represented by electric 
+2 
+customers. 
+3 
+Q. 
+If the Commission approves the ETS, should it 
+4 
+also approve the Company’s proposed 20 percent 
+5 
+revenue sharing? 
+6 
+A. 
+No.  As noted above, the ETS will be the first 
+7 
+of its kind in the United States, a condition 
+8 
+which itself carries a substantial amount of 
+9 
+risk.  This risk would be borne entirely by 
+10 
+customers, not the Company.  Therefore, in the 
+11 
+event that the Commission approves the ETS, it 
+12 
+should not approve the Company’s proposed 20 
+13 
+percent share of revenues generated by operation 
+14 
+of the ETS. 
+15 
+Q. 
+Would not having a share of revenues decrease 
+16 
+the Company’s incentive to maximize revenues 
+17 
+generated by the ETS? 
+18 
+A. 
+The ETS is itself a test of whether the Company 
+19 
+will be able to generate revenue from the ETS, 
+20 
+and if so, how much.  It is in the Company’s and 
+21 
+its partner, Standard Hydrogen’s, best interests 
+22 
+to maximize revenues as part of this test to 
+23 
+demonstrate the ETS’ business model, even 
+24 
+
+
+--- Page 136 ---
+Cases 20-E-0380 & 20-G-0381 
+SESP 
+ 
+134 
+without the opportunity to earn a PSR. 
+1 
+ 
+2 
+GAS DEMAND RESPONSE PROGRAM 
+3 
+Q. 
+Please describe the Company’s proposed Gas DR 
+4 
+program. 
+5 
+A. 
+As described on page 12 of the FOH Panel’s 
+6 
+direct testimony, the Company proposes to 
+7 
+develop and implement a portfolio of three gas 
+8 
+DR programs similar to programs implemented by 
+9 
+the Company’s downstate gas affiliates, KEDNY 
+10 
+and KEDLI, in Case 19-G-0678.  The three 
+11 
+components are: (1) a behavioral DR program 
+12 
+targeting residential and small commercial 
+13 
+customers, whereby the customers would be asked 
+14 
+to decrease gas usage during peak gas demand 
+15 
+times through targeted messaging; (2) a direct 
+16 
+load control (DLC) bring-your-own-thermostat 
+17 
+(BYOT) program targeting residential and small 
+18 
+commercial customers, whereby the Company would 
+19 
+take direct control of participants thermostat 
+20 
+temperature setpoints during events; and (3) a 
+21 
+performance-based DR program targeting 
+22 
+commercial and industrial (C&I) customers to 
+23 
+produce verifiable peak-day reductions. 
+24 
+
+
+--- Page 137 ---
+Cases 20-E-0380 & 20-G-0381 
+SESP 
+ 
+135 
+Q. 
+What are the costs of the Gas DR Program? 
+1 
+A. 
+As shown on page 13 of the FOH Panel’s direct 
+2 
+testimony, the Company proposes to spend $0.106 
+3 
+million of CapEx, and $1.314 million of non-
+4 
+labor O&M on the Gas DR Program during the Rate 
+5 
+Year.  As stated on page 13 of the FOH Panel’s 
+6 
+direct testimony, the Company’s Gas Demand 
+7 
+Response Program CapEx budget is related to 
+8 
+installing demand-capable metering at customer 
+9 
+sites to allow measurement of customer 
+10 
+participation during events called under the C&I 
+11 
+Performance-based program.  As shown in the 
+12 
+Company’s response to IR DPS-734, the non-labor 
+13 
+O&M costs are split between the Behavioral 
+14 
+Program, BYOT program, and C&I Performance-based 
+15 
+program.  Further, as explained on page 13 of 
+16 
+the FOH Panel’s direct testimony, the costs are 
+17 
+predominantly related to incentives paid to 
+18 
+participating customers.  In addition, as shown 
+19 
+on page 12 of the FOH Panel’s direct testimony, 
+20 
+the Company proposes to hire two new FTEs to 
+21 
+help implement the Gas Demand Response Program; 
+22 
+one Program Manager and one Analyst. 
+23 
+Q. 
+What process does the Company plan to use to 
+24 
+
+
+--- Page 138 ---
+Cases 20-E-0380 & 20-G-0381 
+SESP 
+ 
+136 
+seek approval of the Gas DR Program terms and 
+1 
+conditions? 
+2 
+A. 
+As shown in the Company’s response to IR DPS-
+3 
+735, the Company anticipates that the Commission 
+4 
+would approve the overall structure of the 
+5 
+program as part of these rate proceedings.  The 
+6 
+Company would thereafter submit an 
+7 
+Implementation Plan and/or any necessary tariff 
+8 
+amendments. 
+9 
+Q. 
+Has the Company filed any documents in these 
+10 
+proceedings specifying any of the terms and 
+11 
+conditions under which it proposes to operate 
+12 
+the Gas DR Programs? 
+13 
+A. 
+No.  As stated on page 12 of the FOH Panel’s 
+14 
+direct testimony, the Company merely states that 
+15 
+it is “seeking to mirror the programs that were 
+16 
+deployed by [KEDNY and KEDLI] during the winter 
+17 
+of 2019/2020.” 
+18 
+Q. 
+Did the Company file the terms and conditions of 
+19 
+the Gas DR Programs that KEDNY and KEDLI 
+20 
+deployed for the winter of 2019/2020 for 
+21 
+Commission approval. 
+22 
+A. 
+No. 
+23 
+Q. 
+Has any National Grid affiliate utility filed 
+24 
+
+
+--- Page 139 ---
+Cases 20-E-0380 & 20-G-0381 
+SESP 
+ 
+137 
+anything for Commission approval describing the 
+1 
+terms and conditions of the Gas Demand Response 
+2 
+Program for NMPC, KEDNY, or KEDLI? 
+3 
+A. 
+Yes, on October 23, 2020 KEDNY and KEDLI filed 
+4 
+their National Grid Firm DR Implementation Plan 
+5 
+(Gas DR Implementation Plan) related to their 
+6 
+planned Gas DR Program for the 2020/2021 winter 
+7 
+season.  This filing came only after the 
+8 
+Commission directed those companies to make it 
+9 
+as part of the Commission’s October 15, 2020 
+10 
+Order Directing Implementation Plan Filing, 
+11 
+Annual Reporting, and Tariff Modifications, in 
+12 
+Cases 20-G-0086 and 20-G-0087 (National Grid Gas 
+13 
+DR Order).  Notably, the specifics of the 
+14 
+programs that KEDNY and KEDLI are offering for 
+15 
+the 2020/2021 winter season are markedly 
+16 
+different than the terms offered during the 
+17 
+2019/2020 winter season. 
+18 
+Q. 
+Is it reasonable to use the Implementation Plan 
+19 
+filed by KEDNY and KEDLI in place of a filing by 
+20 
+NMPC? 
+21 
+A. 
+No.  As stated on page six of the National Grid 
+22 
+Gas DR Order, the Commission neither 
+23 
+specifically endorsed nor rejected the contents 
+24 
+
+
+--- Page 140 ---
+Cases 20-E-0380 & 20-G-0381 
+SESP 
+ 
+138 
+of KEDNY and KEDLI’s Gas DR Implementation Plan.  
+1 
+Further, the Commission specifically stated that 
+2 
+“neither [KEDNY and KEDLI], nor any other 
+3 
+utility should rely on the contents of [the Gas 
+4 
+DR Implementation Plan] as justification for any 
+5 
+other gas demand response-related proposal.”  A 
+6 
+proposal for a Gas DR Program from NMPC must 
+7 
+stand on its own merits. 
+8 
+Q. 
+Has the Company developed a BCA related to its 
+9 
+proposed Gas DR Program? 
+10 
+A. 
+No.  As stated in the Company’s response to IR 
+11 
+DPS-733, the Company has not performed a BCA 
+12 
+related to its proposed Gas DR Program.  The 
+13 
+Company states that it is currently developing a 
+14 
+new BCA tool to be able to perform BCAs on its 
+15 
+Gas DR Program. 
+16 
+Q. 
+Is having a completed BCA important for DR 
+17 
+programs? 
+18 
+A. 
+Yes.  BCAs are critically important, especially 
+19 
+for DR programs, as the payment rates provided 
+20 
+to participants for performance in the program 
+21 
+are typically designed to achieve societal 
+22 
+benefits.  The primary reason to implement DR 
+23 
+programs is to cost-effectively rely on customer 
+24 
+
+
+--- Page 141 ---
+Cases 20-E-0380 & 20-G-0381 
+SESP 
+ 
+139 
+load relief instead of building traditional 
+1 
+infrastructure.  Without a BCA, it is not 
+2 
+possible to ensure that the core purpose of 
+3 
+running a DR program is being fulfilled. 
+4 
+Q. 
+Has NMPC provided enough detail in these 
+5 
+proceedings for the Commission to consider all 
+6 
+of the necessary details of a Gas DR Program? 
+7 
+A. 
+No.  Instead of considering such a program in 
+8 
+these proceedings without adequate support, the 
+9 
+Company should submit a petition along with a 
+10 
+draft Implementation Plan and draft tariff 
+11 
+amendments, and a petition for approval of the 
+12 
+Gas DR Program.  The National Grid DR Program 
+13 
+Order has already required KEDNY and KEDLI to 
+14 
+make similar filings on June 15, 2021.  NMPC 
+15 
+could make a proposal at the same time as its 
+16 
+affiliated utilities.  This way the Commission 
+17 
+can consider Gas DR Program proposals by KEDNY, 
+18 
+KEDLI, and NMPC simultaneously, and those 
+19 
+programs could be operational for the 2021/2022 
+20 
+winter season. 
+21 
+Q. 
+Does the Panel agree with the Company’s forecast 
+22 
+Gas DR Program costs? 
+23 
+A. 
+Partially.  We agree with the Company’s proposal 
+24 
+
+
+--- Page 142 ---
+Cases 20-E-0380 & 20-G-0381 
+SESP 
+ 
+140 
+to include $0.100 million of CapEx costs in the 
+1 
+gas revenue requirement and the Company’s 
+2 
+proposal to hire one FTE.  However, we disagree 
+3 
+with the Company’s proposals to include the non-
+4 
+labor O&M expense in the gas revenue requirement 
+5 
+and to hire of a second FTE. 
+6 
+Q. 
+Why do you disagree with the Company’s proposal 
+7 
+to include forecast non-labor O&M expenses in 
+8 
+the gas revenue requirement? 
+9 
+A. 
+Program costs such as incentives paid to 
+10 
+participants in the C&I Performance-based 
+11 
+program and BYOT program can vary significantly 
+12 
+from year to year based on level of customer 
+13 
+enrollment in a given program, the number of 
+14 
+events called in a given year, and participants’ 
+15 
+performance during such events.  Including 
+16 
+recovery of such variable non-labor O&M costs in 
+17 
+revenue requirement can create a windfall for 
+18 
+the Company if the actual costs come up short of 
+19 
+forecasts, and can be a disincentive for the 
+20 
+Company to implement its programs if the costs 
+21 
+would be greater than those forecast.  
+22 
+Therefore, we recommend that the non-labor O&M 
+23 
+costs related to the Gas DR Program be recovered 
+24 
+
+
+--- Page 143 ---
+Cases 20-E-0380 & 20-G-0381 
+SESP 
+ 
+141 
+through a surcharge mechanism similar to the way 
+1 
+that DR program costs are recovered for the 
+2 
+Company’s electric DR programs. 
+3 
+Q. 
+Why do you disagree with the Company’s proposal 
+4 
+to hire a second FTE? 
+5 
+A. 
+As stated on page 12 of the FOH Panel’s direct 
+6 
+testimony, the Company proposes to implement 
+7 
+programs that mirror KEDNY and KEDLI’s existing 
+8 
+gas DR programs.  KEDNY and KEDLI have requested 
+9 
+FTE support for these programs in the currently 
+10 
+pending rate proceedings, Cases 19-E-0309 and 
+11 
+19-G-0310.  While we agree that the scope of the 
+12 
+programs is increasing and would therefore 
+13 
+require additional support, the Company does not 
+14 
+need a second Program Manager to manage the same 
+15 
+programs for NMPC, KEDNY, and KEDLI. 
+16 
+Q. 
+Does the Panel’s recommendations result in a 
+17 
+revenue requirement impact? 
+18 
+A. 
+Yes.  We recommend a $1.314 million downward 
+19 
+adjustment to the Company’s Rate Year non-labor 
+20 
+O&M forecast, and a reduction of one FTE from 
+21 
+the Company’s Rate Year FTE count. 
+22 
+Q. 
+Does this end the Panel’s testimony at this 
+23 
+time? 
+24 
+
+
+--- Page 144 ---
+Cases 20-E-0380 & 20-G-0381 
+SESP 
+ 
+142 
+A. 
+Yes. 
+1 
+ 
+2 
+ 
+3 
+ 
+4 
+ 
+5 
+ 
+6 
+ 
+7 
+ 
+8 
+ 
+9 
+ 
+10 
+ 
+11 
+ 
+12 
+ 
+13 
+ 
+14 
+ 
+15 
+ 
+16 
+ 
+17 
+ 
+18 
+ 
+19 
+ 
+20 
+ 
+21 
+ 
+22 
+ 
+23 
+ 
+24 

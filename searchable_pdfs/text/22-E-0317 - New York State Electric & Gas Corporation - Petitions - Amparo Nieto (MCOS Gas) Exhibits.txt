@@ -1,0 +1,2664 @@
+--- Page 1 ---
+0 
+Marginal Cost of Natural Gas Service Study  
+New York State Electric & Gas Corporation  
+Rochester Gas and Electric Corporation
+May 24, 2022 
+Amparo Nieto 
+Senior Director 
+Exhibit __ (ANG-1) 
+Page 1 of 32
+
+
+--- Page 2 ---
+ 
+ 
+ 
+ 
+ 
+ 
+i 
+ 
+Table of Contents 
+ 
+I. INTRODUCTION _____________________________________________________________  1 
+II. DESCRIPTION OF GAS DELIVERY SYSTEM ________________________________________  1 
+III. MARGINAL HIGH‐PRESSURE & UPPER MEDIUM‐PRESSURE DELIVERY COSTS ___________  3 
+A. Transmission mains and Regulator Station investment ___________________________  3 
+B. Upper Medium‐Pressure Distribution Mains Investment __________________________  3 
+C. Time‐Differentiation _______________________________________________________  5 
+IV. LOCAL DISTRIBUTION FACILITIES ______________________________________________  5 
+A. Medium and low‐pressure regulator station  ___________________________________  5 
+B. Lower Medium and Low‐Pressure Mains Investment  ____________________________  7 
+V. OPERATION AND MAINTENANCE EXPENSES _____________________________________  8 
+A. Upper‐Medium Mains O&M Expenses  ________________________________________  9 
+B. Distribution Mains and Regulator Station O&M Expenses _________________________  9 
+VI. MARGINAL CUSTOMER‐RELATED COSTS _______________________________________  10 
+A. Meter, House Regulator and Service Lateral ___________________________________  10 
+B. Customer Expenses _______________________________________________________  10 
+VII. ANNUALIZATION OF INVESTMENT ___________________________________________  11 
+A. Economic Carrying Charges  ________________________________________________  11 
+B. Marginal loading factors ___________________________________________________  11 
+VIII. ANNUALIZATION OF MARGINAL INVESTMENT _________________________________  12 
+A.  
+Annual Upper Medium‐Pressure Mains Marginal Costs ______________________  12 
+B. 
+Annualized Local Facilities Marginal Costs and Customer Costs ________________  12 
+IX. SUMMARY TABLES ________________________________________________________  12 
+APPENDIX A:  MCOSS SUPPORTING WORKSHEETS –NYSEG  __________________________  18 
+APPENDIX B:  MCOSS SUPPORTING WORKSHEETS – RG&E ___________________________  24 
+Exhibit __ (ANG-1) 
+Page 2 of 32
+
+
+--- Page 3 ---
+ 
+ 
+ 
+ 
+ 
+ 
+1 
+ 
+I. INTRODUCTION  
+Avangrid retained E3 to prepare an update of New York State Electric and Gas (“NYSEG”) 
+and Rochester Gas and Electric (“RG&E”), collectively “the Companies”’ marginal costs of gas 
+distribution service in preparation of their 2022 rate case.  This report describes the methods 
+for estimating the transmission, distribution and customer‐related costs, and presents 
+summary tables of the results. The marginal cost of gas delivery service study requires 
+examining the utility’s planning processes to determine what drives new investment and how 
+changes in consumption affect system operations.  
+II. DESCRIPTION OF GAS DELIVERY SYSTEM 
+For purposes of estimating marginal costs of delivery, it is important to distinguish the different 
+components of delivery service, which can be grouped in four main categories: 
+1. Transmission  system:  high‐pressure  mains  that  move  the  gas  to  the  high‐pressure 
+regulator stations; 
+2. Upper‐medium  system,  which  includes  the  high‐pressure  regulator  stations,  upper 
+medium‐pressure mains, and reliability storage; 
+3. Local distribution facilities consisting of medium‐pressure regulator stations that feed 
+lower  medium‐pressure  mains,  and  low‐pressure  regulator  stations  that  feed  low‐
+pressure mains; 
+4. Customer‐related facilities and functions, including: 
+a) Meters, house regulators, relief valves and service laterals; 
+b) Customer‐related services (meter‐reading, billing, accounting, customer information 
+and customer service). 
+Figure 1 is a simplified diagram of the Company’s gas delivery system 
+ 
+Exhibit __ (ANG-1) 
+Page 3 of 32
+
+
+--- Page 4 ---
+ 
+ 
+ 
+ 
+ 
+ 
+2 
+ 
+ 
+Figure 1. Simplified Illustration of NYSEG’s and RG&E’s Gas Delivery Systems 
+ 
+ 
+Meter & 
+house reg.
+HIGH-PRESSURE 
+REGULATOR STATION
+300/250 psi to <125/120 psi
+Service lateral
+Transmission 
+Customer
+TRANSMISSION
+TRANSMISSION 
+MAIN (>125 psi)
+UPPER MEDIUM-PRESSURE 
+MAINS (124/120 psi)
+Service lateral
+HP 
+Customer
+Medium-Pressure Regulator 
+Station
+<125 to 60/40 psi
+Low-Pressure Regulator Station
+60/40/13 psi to 12” w.c. (or lower)
+MP 
+Customer
+LP 
+Customer
+Lower Medium-Pressure Mains (< 60 psi)
+Low-Pressure Mains (< 12” w.c.)
+Service lateral
+Service lateral
+Meter & 
+house reg.
+Meter & 
+house reg.
+Meter & 
+house reg.
+UPPER MEDIUM-
+PRESSURE 
+DISTRIBUTION
+LOW-PRESSURE 
+DISTRIBUTION
+Color Code:
+Customer-related facilities
+Local Facilities (driven by long-term customer max 
+demands)
+NEAR-TERM PEAK-DAY DEMAND-DRIVEN 
+DISTRIBUTION
+LOWER MEDIUM-
+PRESSURE 
+DISTRIBUTION
+Meter & 
+house reg.
+HIGH-PRESSURE 
+REGULATOR STATION
+300/250 psi to <125/120 psi
+Service lateral
+Transmission 
+Customer
+TRANSMISSION
+TRANSMISSION 
+MAIN (>125 psi)
+UPPER MEDIUM-PRESSURE 
+MAINS (124/120 psi)
+Service lateral
+HP 
+Customer
+Medium-Pressure Regulator 
+Station
+<125 to 60/40 psi
+Low-Pressure Regulator Station
+60/40/13 psi to 12” w.c. (or lower)
+MP 
+Customer
+LP 
+Customer
+Lower Medium-Pressure Mains (< 60 psi)
+Low-Pressure Mains (< 12” w.c.)
+Service lateral
+Service lateral
+Meter & 
+house reg.
+Meter & 
+house reg.
+Meter & 
+house reg.
+UPPER MEDIUM-
+PRESSURE 
+DISTRIBUTION
+LOW-PRESSURE 
+DISTRIBUTION
+Color Code:
+Customer-related facilities
+Local Facilities (driven by long-term customer max 
+demands)
+NEAR-TERM PEAK-DAY DEMAND-DRIVEN 
+DISTRIBUTION
+LOWER MEDIUM-
+PRESSURE 
+DISTRIBUTION
+Exhibit __ (ANG-1) 
+Page 4 of 32
+
+
+--- Page 5 ---
+ 
+ 
+ 
+ 
+ 
+ 
+3 
+ 
+III. MARGINAL HIGH‐PRESSURE & UPPER MEDIUM‐
+PRESSURE DELIVERY COSTS 
+A. Transmission mains and Regulator Station investment  
+The  Companies’  investments  in  transmission  mains  are  typically  planned  to  meet 
+expected growth in system design‐day requirements over the next three to five years, taking 
+into consideration the peak day demands under severe weather conditions.  The Companies’ 
+transmission capital plans did not include any transmission projects in the upcoming planning 
+period driven by a need to accommodate growth in demand. Therefore, the marginal cost for 
+marginal gas transmission cost for the upcoming planning period is zero for both Companies. 
+Regulator stations are sized based on downstream demand, making an allowance for 
+future load growth potential in the area and adequate reserves to ensure system reliability as 
+expressed in cubic feet per hour. Again, the Companies do not project any regulator station 
+investments in the following five years. Demand growth can be accommodated in the near 
+term  without  the  addition  of  high‐pressure  regulation  station  capacity  and  therefore  the 
+regulator station marginal cost is also zero.  
+B. Upper Medium‐Pressure Distribution Mains Investment 
+Investment in upper medium‐pressure distribution mains is driven by increases in the 
+near‐term Design Day demand. The Companies’ 2022‐2026 capital plan includes two growth‐
+related upper medium projects for RG&E and one project for NYSEG. The total investment in 
+these two main projects, stated in year 2022$, was divided by the respective added capacity to 
+derive the average marginal investment for this element of service. To estimate a system‐wide 
+marginal  cost  value,  the  unit  investment  value  was  adjusted  by  the  portion  of  the  upper 
+medium‐pressure mains system that will need to expand to accommodate new load. For NYSEG 
+this percentage was only 2.1 percent. For RG&E it was estimated to be 14.7 percent. This 
+percentage  reflects  share  of  these  project’s  flow  (measured  in  mcfh)  on  the  design  day 
+compared to total system flow on design day, both measured at the high‐pressure station level. 
+These calculations are shown on Tables 1 and 2. 
+ 
+ 
+ 
+Exhibit __ (ANG-1) 
+Page 5 of 32
+
+
+--- Page 6 ---
+ 
+ 
+ 
+ 
+ 
+ 
+4 
+ 
+Table 1. NYSEG’s Marginal Investment in Upper Medium‐Pressure Mains  
+ 
+Table 2. RG&E’s Marginal Investment in Upper Medium‐Pressure Mains  
+ 
+Upper‐Medium 
+Pressure Mains
+Growth‐related investment 2022‐2026
+(Thousands of 2022 Dollars)
+$2,883.51
+Capacity Added
+(MCF/Day)
+2,600
+Marginal Investment per MCF/Day
+(2022 Dollars/MCF/Day)  
+$1,109.04
+Marginal Investment Adjusted for share of system
+experiencing growth‐related expansion (2.1%)
+(2022$/MCF/Day)
+$23.29
+Upper‐Medium 
+Pressure Mains
+Growth‐related Investment 2022‐2026
+(Thousands of 2022 Dollars)
+$10,165
+Capacity Added by Planned Projects
+(MCF/Day)
+7,080
+Marginal Investment 
+(2022 Dollars/MCF/Day) 
+$1,435.80
+Marginal Investment Adjusted for share of system
+experiencing growth‐related expansion (14.7%)
+(2022$/MCF/Day)
+$210.88
+Exhibit __ (ANG-1) 
+Page 6 of 32
+
+
+--- Page 7 ---
+ 
+ 
+ 
+ 
+ 
+ 
+5 
+ 
+C. Time‐Differentiation 
+The annualized upper‐medium main investment per MCF of Design Day demand was 
+assigned to months of the year based on the relative likelihood that demand growth in each 
+month  will  require  additional  investment.  The  statistical  analysis  of  the  distribution  daily 
+system gas flows at the city gate over the period 2017‐2021 revealed that there is 100% of 
+likelihood that the daily design demand will fall in the months of December through March. 
+Thus, no marginal cost was assigned to the months of April through November. 
+IV.  LOCAL DISTRIBUTION FACILITIES 
+Local  distribution  facilities  include  lower  medium‐pressure  mains  and  low‐pressure 
+mains, medium‐pressure regulator stations, which feed mains at less than 60 psi but above 12” 
+w.c., and low‐pressure regulator stations, which feed mains at or below 12” w.c.  
+These  facilities  are  typically  designed  using  engineering  standards  that  take  into 
+consideration  the  long‐term  maximum  demands  of  customers  that  the  Company  planners 
+expect will be served from these facilities, over the useful life of the facilities. The costs of this 
+portion of the system are marginal when the mains and regulator stations are installed and 
+when they are replaced because of age, but typically do not vary with customers’ actual gas 
+usage from month to month or year to year. The capacity of these facilities would be expanded 
+only  if  there  were  a  major  increase  in  the  design  demands  of  the  customers  using  them. 
+Therefore, these costs should ideally be recovered in a fixed component of the rate design (on 
+a  per‐unit‐of‐design‐demand  basis),  rather  than  in  charges  based  on  gas  consumption. 
+Estimating marginal investment for each element of local distribution facilities relied on the 
+calculation of average replacement cost of such facilities on the Companies’ system stated in 
+2022 dollars. 
+A. Medium and low‐pressure regulator station  
+The Companies provided the replacement cost of typical medium‐ and low‐pressure 
+regulator stations (including farm tap regulators) as of year 2022, as well as the current number 
+of  regulator  stations  and  farm  tap  regulators.  We  computed  the  weighted  average  of  the 
+replacement cost of medium and low‐pressure stations and farm tap regulators, and multiplied 
+them by the number of regulators on the system. 
+Exhibit __ (ANG-1) 
+Page 7 of 32
+
+
+--- Page 8 ---
+ 
+ 
+ 
+ 
+ 
+ 
+6 
+ 
+For each Company, the total weighted replacement cost, stated in 2022 dollars, was 
+divided by year 2021 aggregate design‐day demand that these stations must meet. The design 
+day demand was based on total meter capacity across classes served under these facilities.  
+Typically, customers do not pay upfront for any portion of these stations, so no adjustment for 
+CIAC  was  required.  The  results  of  this  calculation  are  shown  in  Table  3.  NYSEG  Marginal 
+Investment in Medium‐ and Low‐Pressure Regulator Stations 
+ 
+ 
+ 
+ 
+ 
+ 
+ 
+ 
+Table 3 and 4. 
+Medium and 
+Low‐Pressure 
+Reg. Station
+Weighted Average Replacement Cost of Medium
+and Low‐pressure Regulator Station 
+(Thousands of 2022 Dollars)
+$361.31
+Total Number of Medium‐ and Low‐pressure 
+Regulator Stations in the System
+478
+Total Replacement Cost of Medium‐ and Low‐
+pressure Regulator Stations 
+(Thousands of 2022 Dollars)
+$172,704.02
+Year 2022 Aggregate Medium and Low‐Pressure Design  
+Demand at Customer Premises (MMCF/Day)
+2,103
+Marginal Investment in Medium‐ and 
+Low‐pressure Regulator Station 
+(2022 $/MCF/day)  
+$82.12
+Exhibit __ (ANG-1) 
+Page 8 of 32
+
+
+--- Page 9 ---
+ 
+ 
+ 
+ 
+ 
+ 
+7 
+ 
+Table 3. NYSEG Marginal Investment in Medium‐ and Low‐Pressure Regulator Stations 
+ 
+ 
+ 
+ 
+ 
+ 
+ 
+ 
+Table 4. RG&E Marginal Investment in Medium‐ and Low‐Pressure Regulator Stations  
+Medium and 
+Low‐Pressure 
+Reg. Station
+Weighted Average Replacement Cost of Medium
+and Low‐pressure Regulator Station 
+(Thousands of 2022 Dollars)
+$361.31
+Total Number of Medium‐ and Low‐pressure 
+Regulator Stations in the System
+478
+Total Replacement Cost of Medium‐ and Low‐
+pressure Regulator Stations 
+(Thousands of 2022 Dollars)
+$172,704.02
+Year 2022 Aggregate Medium and Low‐Pressure Design  
+Demand at Customer Premises (MMCF/Day)
+2,103
+Marginal Investment in Medium‐ and 
+Low‐pressure Regulator Station 
+(2022 $/MCF/day)  
+$82.12
+Exhibit __ (ANG-1) 
+Page 9 of 32
+
+
+--- Page 10 ---
+ 
+ 
+ 
+ 
+ 
+ 
+8 
+ 
+ 
+B. Lower Medium and Low‐Pressure Mains Investment 
+To estimate the marginal cost of all existing lower‐medium and low pressure mains the 
+replacement  cost  (stated  in  2022  dollars)  was  divided  by  the  aggregate  medium  and  low‐
+pressure design demand at the customer premises as of year 2021.   A portion of mains are 
+recovered  up  front  through  a  customer  contribution  in  aid  of  construction  (CIAC).  We 
+developed estimates of local distribution facilities after customer contributions by subtracting 
+the  share  of  investment  typically  paid  for  up  front  by  customers.  The  remaining costs  are 
+recovered over time through gas delivery rates. Tables 5 and 6 show the resulting estimates. 
+ 
+Medium 
+and Low‐
+Pressure 
+Reg. Station
+Replacement Cost of Weighted  Average
+Medium‐ and Low‐pressure Regulator Stations
+(2022 Thousand $)
+$395
+Total Number of Medium‐ and Low‐pressure
+Regulator Stations and Farm Taps in the System
+242
+Total Replacement Cost of Medium‐ and Low‐
+pressure Regulator Stations 
+(2022 Thousand $)
+$95,582
+Aggregate Medium and Low‐Pressure Design   
+Demand at Customer Premises (MMCF/Day)
+2,280
+Marginal Investment in Medium‐ and 
+Low‐pressure Regulator Stations [(3) / (4)]
+(2022 Dollars/MCF/day)  
+$41.92
+Exhibit __ (ANG-1) 
+Page 10 of 32
+
+
+--- Page 11 ---
+ 
+ 
+ 
+ 
+ 
+ 
+9 
+ 
+Table 5. NYSEG’s Marginal Investment in Lower‐Medium and Low‐Pressure Mains  
+ 
+ 
+Table 6. RG&E’s Marginal Investment in Lower‐Medium and Low‐Pressure Mains  
+ 
+ 
+V.   OPERATION AND MAINTENANCE EXPENSES 
+The addition of mains and regulator stations leads to increased growth‐related O&M 
+expenses as well.  O&M expenses per unit of design day demand at these facilities represent 
+marginal costs.  We used recent levels of distribution O&M expenses as a guide for estimating 
+Replacement Cost of Lower Medium
+and Low‐Pressure Distribution Mains
+after CIAC
+(Thousands of 2022 Dollars)
+$2,889,058
+Year 2022 Total Medium and Low‐Pressure Design
+Demand at Customer Premises (MMCF/Day)
+2,103
+Marginal Investment in Lower Medium and
+Low‐Pressure Distribution Mains
+(2022 Dollars/MCF/Day) 
+$1,373.71
+Replacement Cost of Existing Lower Medium
+and Low‐Pressure Distribution Mains (after CIAC)
+(2022 Thousand $)
+$1,760,511
+Aggregate Medium and Low‐Pressure Design
+Demand at Customer Premises (MMCF/Day)
+2,280
+Marginal Investment in Lower Medium and Low‐
+Pressure Distribution Mains (after CIAC )
+(2022 $/MCF/Day)  
+$772.12
+Exhibit __ (ANG-1) 
+Page 11 of 32
+
+
+--- Page 12 ---
+ 
+ 
+ 
+ 
+ 
+ 
+10 
+ 
+marginal  O&M  costs.1   The  Companies’  accounting  system  does  not  show  separate  O&M 
+expenses for equipment of various pressure levels, therefore we allocated Main and Service 
+Operation Expenses (Account 874) to the various distribution pressure mains and to service 
+laterals in proportion to mileage. Distribution overhead expenses2 were allocated to each type 
+of main, as well as to services and meter and house regulators in proportion to their shares of 
+total distribution O&M less these overhead accounts. 
+A. Upper‐Medium Mains O&M Expenses 
+To estimate the marginal O&M expenses associated with incremental plant, the upper 
+medium‐pressure mains O&M expenses were divided by total system design‐day demand in 
+the same year for each Company, then converted to 2022 dollars. The design‐day demand used 
+as the denominator excludes the share of the system design day demand corresponding to 
+customers served off the transmission mains. Finally, because growth is not likely to trigger 
+investment  in  upper  medium‐pressure  mains  in  the  majority  of  the  service  territory,  we 
+reduced the O&M estimate by applying the percentage of the system where near‐term growth 
+may trigger additional investment over the next five years.  
+B. Distribution Mains and Regulator Station O&M Expenses 
+Estimating the share of the total regulator station O&M expenses that correspond to 
+medium  and  low‐pressure  regulator  stations  for  each  Company  required  collecting  O&M 
+expense per station and current number of regulator stations by pressure level (categorized by 
+their outlet pressure). The medium and low‐pressure regulator station O&M expenses during 
+the last five years were divided by aggregated design demands in each year. The annual design 
+demands were based on the sum of meter capacity across customers that are served at or 
+below these facilities. The resulting O&M expense per kW was converted to 2022 dollars using 
+the weighted labor and materials cost index. 
+ 
+1   We excluded Account 871 (Load Dispatching) as non‐marginal, and Account 881 (Rents) because it is a substitute for past 
+investment and, therefore not a marginal expense. 
+2   Distribution overheads include Operation Supervision and Engineering (870), Other Expenses (880), Maintenance Supervision 
+and Engineering (885), Maintenance of Other Equipment (894) and Maintenance of Structures and Improvements (886). 
+Exhibit __ (ANG-1) 
+Page 12 of 32
+
+
+--- Page 13 ---
+ 
+ 
+ 
+ 
+ 
+ 
+11 
+ 
+VI.  MARGINAL CUSTOMER‐RELATED COSTS 
+A. Meter, House Regulator and Service Lateral 
+The Companies supplied the current weighted‐average installed costs of meters, house 
+regulators  and  relief  valves.  To  these  estimates,  the  study  adds  the  installed  cost  of  the 
+communicating module that the Companies plan to deploy to enable AMI functionality. Meter 
+and House Regulator O&M expenses were divided by weighted number of customers, where 
+the weights reflect an allocation of 10% of the expenses to residential customers and 90% to 
+non‐residential customers, and the non‐residential component further segmented based on 
+relative meter cost.    
+The Companies also supplied typical costs of service laterals by class. Service lateral 
+O&M expenses are the same for service laterals of all sizes. However, on average, residential 
+customers have less than one service line per customer. We divided service O&M expenses, 
+along with their associated overheads, by the average number of services to compute marginal 
+service‐related O&M costs per service. These values are the cost per service multiplied by 
+average services per customer. The annualized meter and service lateral values are shown in 
+section VIII.  
+B. Customer Expenses 
+Customer accounts expenses, composed mainly of meter‐reading and billing expenses 
+and uncollectibles,3 are costs directly attributable to the existence of customers on the system. 
+We excluded expenses associated with the merchant function from the marginal delivery cost 
+estimates. To develop customer allocation of these expenses we used the results from the 
+Companies’ 2022 embedded cost study to identify the cost per customer for each class. We 
+dealt with uncollectibles separately because this component of customer accounts expense is 
+not subject to the cash working capital or non‐plant A&G loading adjustment. Customer service 
+and informational expenses also vary with the number of customers on the system and are, 
+therefore, marginal.  We relied on the 2022 embedded cost study allocations of these expenses 
+by  class,  and  computed  the  marginal  customer  service  and  informational  expenses  per 
+customer. Customer service expenses related to energy efficiency were excluded from the 
+marginal costs since they are recovered in a system benefit charge.  
+ 
+ 
+Exhibit __ (ANG-1) 
+Page 13 of 32
+
+
+--- Page 14 ---
+ 
+ 
+ 
+ 
+ 
+ 
+12 
+ 
+VII. ANNUALIZATION OF INVESTMENT  
+A. Economic Carrying Charges 
+The sections above describe the development of estimates of marginal investment in 
+several categories of plant.  The next step of the study was to apply the economic carrying 
+charges to the marginal investment to convert these costs into annual costs using an economic 
+carrying charge.  For use in a marginal cost study, the annual charges can be determined as a 
+stream that rises at the rate of inflation and yields the total present value of all costs over the 
+life of the investment.  In such a stream, the first year's charge represents the cost in today's 
+dollars of owning the plant or equipment for a year.  The annual charge reflects the elements 
+of  the  Companies’  revenue  requirement  associated  with  incremental  plant:  return  to 
+stockholders and bondholders, depreciation, and taxes. Key inputs for the economic carrying 
+charge calculation include the Companies’ expectations of going forward incremental cost of 
+capital (mix of debt and equity) and their respective long‐term market costs.  An adjustment 
+for the potential dispersed pattern of replacements according to the respective Iowa Curves 
+was included in the derivation of the economic carrying charges.   
+B. Marginal loading factors 
+Certain general corporate administrative and general (A&G) expenses tend to vary with 
+operating and maintenance expenses. These loading factors were estimated to adjust plant and 
+non‐plant related marginal costs in the annualization step. Based on our understanding of the 
+Companies’ classification of costs in the various FERC accounts for A&G, we reviewed recent 
+levels  of  non‐plant  related  A&G  expenses  and  found  that  only  social  security  and 
+unemployment taxes are significantly correlated to O&M expenses. The non‐plant related A&G 
+loader reflects social security and unemployment taxes as a percent of non‐fuel O&M. For 
+plant‐related A&G expenses, the only A&G account directly related to the amount of plant on 
+the  system  is  the  property  insurance  rate  per  $100  of  replacement  cost  of  insured  plant. 
+Property insurance applies to regulator stations, thus the plant‐related A&G loading factor 
+(based on property insurance costs) only applies to the regulator station marginal cost. 
+General plant consists of items such as office buildings, warehouses, cars, trucks and 
+other equipment.  When a utility adds transmission or distribution plant, the need for general 
+plant increases as well.  Our estimate of the Companies’ general plant loader was based on a 
+regression of cumulative additions to general plant net of retirements, plus the gas portion of 
+common plant, on cumulative additions to total distribution plant net of retirements, all stated 
+Exhibit __ (ANG-1) 
+Page 14 of 32
+
+
+--- Page 15 ---
+ 
+ 
+ 
+ 
+ 
+ 
+13 
+ 
+in constant dollars, over the period 2014‐2021. The coefficient of the explanatory variable is 
+the loader.  Appendix A and B include the summary tables with the annualization steps for each 
+plant component. 
+VIII. ANNUALIZATION OF MARGINAL INVESTMENT 
+A.  Annual Upper Medium‐Pressure Mains Marginal Costs 
+The marginal investment per MCF‐day in upper medium‐pressure mains as described 
+above was adjusted upwards by the general‐plant loading factor and multiplied by the annual 
+economic carrying charge percentage, to yield the annualized plant costs.  Associated O&M 
+and non‐plant related A&G expenses, and the revenue requirements for working capital, were 
+added to the annualized charge. The computation of working capital includes cash working 
+capital, materials, supplies and prepayments. These annualized costs were adjusted for losses 
+through the system, and converted to cents per therm, using the average system load factor, 
+and assigned to the winter season to reflect that expected load growth are not expected to 
+trigger  additional  investment  in  these  elements  of  the  system  in  non‐winter  months.  The 
+resulting annualized costs are shown by service classification in Appendix A and B. 
+B. 
+Annualized Local Facilities Marginal Costs and Customer Costs 
+The  annualization  of  marginal  investments  in  medium‐  and  low‐pressure  regulator 
+stations and lower medium and low‐pressure mains followed the same annualization process.  
+Table  9 and 10 shows the total annual unit marginal cost calculations for mains and regulator 
+stations operating at all pressure levels. The annualized costs are expressed in $/MCF of long‐
+term design‐day demand. The lower medium‐pressure and low‐pressure mains costs are shown 
+before and after customer contributions.  
+The annual customer‐related marginal costs were developed using a procedure similar 
+to that for the other types of plant.  This component includes the cost of the meter and house 
+regulator, service lateral, and customer‐related expenses. The resulting annualized costs are 
+shown by service classification in Appendix A and B. 
+IX.  SUMMARY TABLES  
+Table 7. NYSEG Summary of Marginal Upper Medium‐Pressure Mains Marginal Costs 
+Exhibit __ (ANG-1) 
+Page 15 of 32
+
+
+--- Page 16 ---
+ 
+ 
+ 
+ 
+ 
+ 
+14 
+ 
+ 
+ 
+Table 7 and 8 summarize the seasonal and annual per‐therm costs of transmission and 
+upper medium‐pressure mains per Company. Tables 9 and 10 summarize the monthly local 
+facilities marginal costs that vary with design demand, after CIAC. These costs are stated as 
+dollars per‐MCF of design‐day demand, and as monthly marginal costs on a per‐customer 
+basis, derived by multiplying the unit cost by the typical customer’s design demand in each 
+service classification.  
+Tables 11 and 12 summarize the monthly marginal customer costs by rate class, based on 
+the installed cost of the meter and service laterals, customer accounts and customer service 
+and informational expenses by class. 
+Table 7. NYSEG Summary of Marginal Upper Medium‐Pressure Mains Marginal Costs 
+ 
+ 
+Table 8. RG&E Summary of Marginal Upper Medium‐Pressure Mains Marginal Costs 
+ 
+ 
+ 
+Seasonal Costs
+Winter
+Summer
+(Dec. ‐ Mar.)
+(April ‐ Nov.)
+Annual Cost
+(2022 cents/therm)
+(2022 cents/therm)
+Upper Medium‐Pressure Mains
+0.2464
+0.0000
+0.1353
+Seasonal Costs
+Winter
+Summer
+(Dec. ‐ Mar.)
+(April ‐ Nov.)
+Annual Cost
+(2022 cents/therm)
+(2022 cents/therm)
+Upper Medium‐Pressure Mains
+0.2464
+0.0000
+0.1353
+Seasonal Costs
+Winter
+Summer
+(Dec. ‐ Mar.)
+(April ‐ Nov.)
+Annual Cost
+(2022 cents/therm)
+(2022 cents/therm)
+Upper‐Medium Pressure Mains
+16.1897
+0.0000
+1.1606
+Exhibit __ (ANG-1) 
+Page 16 of 32
+
+
+--- Page 17 ---
+ 
+ 
+ 
+ 
+ 
+ 
+15 
+ 
+Table 9. NYSEG’s Summary of Local Facilities Marginal Costs by Service Classification  
+ 
+ 
+ 
+Per Customer
+Facilities
+Average
+Facilities
+ Costs
+Design Day
+ Costs
+Rate
+Classification
+(after CIAC)
+Demand
+(after CIAC)
+ 2022 $ / MCF 
+of design day 
+demand /mo.
+(MCF)
+‐‐‐‐ 2022$ per 
+cust/mo.‐‐‐‐‐
+SC1S
+SC 1 Residential Heat
+$10.39
+6.56
+                 
+$68.16
+SC1S
+SC 1 Residential Non Heat
+$10.39
+4.24
+44.05
+SC2S
+SC 2 General Service
+$10.39
+12.80
+132.99
+SC3S
+SC 3 Interruptible Sales
+$10.39
+260.00
+2,701.40
+0.00
+SC5S
+SC 5 Gas Cooling
+$10.39
+4.17
+43.33
+SC9S
+SC 9 Industrial Manufacturing
+$10.39
+300.00
+3,117.00
+SC13T
+SC 13T Residential Heat Aggregation Service
+$10.39
+6.56
+68.16
+SC13T
+SC 13T Residential Non‐Heat Aggreg. Service
+$10.39
+6.56
+68.16
+SC14T
+SC 14T Non‐Residential Aggregation Service
+$10.39
+20.03
+208.11
+SC1T
+SC 1T Large Firm Transportation
+$10.39
+247.00
+2,566.33
+SC2T
+SC 2T Interruptible Transportation 
+$10.39
+275.00
+2,857.25
+SC5T
+SC 5T Small Firm Transportation
+$10.39
+150.80
+1,566.81
+SC7T
+SC 7T Firm Or Limited Firm Negotiated Trans.
+$10.39
+301.43
+3,131.86
+SC16T
+SC16T Non‐Residential Distributed Generation 
+Firm Transportation Service
+$10.39
+300.00
+3,117.00
+Exhibit __ (ANG-1) 
+Page 17 of 32
+
+
+--- Page 18 ---
+ 
+ 
+ 
+ 
+ 
+ 
+16 
+ 
+Table 10. RG&E’s Summary of Local Facilities Marginal Costs by Service Classification 
+ 
+ 
+ 
+ 
+ 
+ 
+ 
+ 
+Per Customer
+Facilities
+Average
+Facilities
+ Costs
+Design Day
+ Costs
+Rate
+Class
+(after CIAC)
+Demand
+(after CIAC)
+ 2022 $ / MCF of 
+design day 
+demand /mo.
+(MCF)
+2022 $ per 
+cust/mo.
+SC1RNH
+SC 1 Residential Non Heat
+$6.16
+4.15
+$25.56
+SC1RH
+SC 1 Residential Heat
+6.16
+4.15
+25.56
+SC1C
+SC 1 Commercial 
+6.16
+9.70
+59.75
+SC1IND
+SC 1 Industrial
+6.16
+35.49
+218.62
+SC1MUN
+SC 1 Municipal
+6.16
+28.05
+172.79
+SC3C
+SC 3 Commercial 
+6.16
+247.00
+1,521.52
+SC3IND
+SC 3 Industrial
+6.16
+468.00
+2,882.88
+SC3MUN
+SC 3 Municipal
+6.16
+219.00
+1,349.04
+SC3 HP
+SC 3 High‐Pressure
+n/a
+0.00
+0.00
+SC5RNH
+SC 5 Residential Non Heat
+6.16
+4.15
+25.56
+SC5RH
+SC 5 Residential Heat
+6.16
+4.15
+25.56
+SC5C
+SC 5 Commercial 
+6.16
+102.00
+628.32
+SC5IND
+SC 5 Industrial
+6.16
+89.00
+548.24
+SC5MUN
+SC 5 Municipal
+6.16
+85.00
+523.60
+SC7T
+SC 7 Non‐Residential for DG
+6.16
+320.00
+1,971.20
+Exhibit __ (ANG-1) 
+Page 18 of 32
+
+
+--- Page 19 ---
+ 
+ 
+ 
+ 
+ 
+ 
+17 
+ 
+Table 11. NYSEG Monthly marginal customer‐related costs 
+ 
+ 
+ 
+ 
+ 
+ 
+ 
+ 
+ 
+ 
+ 
+Monthly 
+Customer‐
+Customer
+related Cost
+ Class
+Description
+ per Customer
+(2022 Dollars)
+SC1S
+SC 1 Residential Heat
+$32.69
+SC1S
+SC 1 Residential Non Heat
+32.19
+SC2S
+SC 2 General Service
+52.42
+SC3S
+SC 3 Interruptible Sales
+280.15
+SC5S
+SC 5 Gas Cooling
+12.86
+SC9S
+SC 9 Industrial Manufacturing
+144.12
+SC13T
+SC 13T Residential Heat Aggregation Service
+34.79
+SC13T
+SC 13T Residential Non‐Heat Aggreg. Service
+34.32
+SC14T
+SC 14T Non‐Residential Aggregation Service
+100.07
+SC1T
+SC 1T Large Firm Transportation
+230.84
+ 
+SC2T
+SC 2T Interruptible Transportation 
+368.56
+SC5T
+SC 5T Small Firm Transportation
+123.31
+SC7T
+SC 7T Firm Or Limited Firm Negotiated Trans.
+362.89
+SC16T
+SC16T Non‐Residential DG Firm Transportation 
+72.47
+Exhibit __ (ANG-1) 
+Page 19 of 32
+
+
+--- Page 20 ---
+ 
+ 
+ 
+ 
+ 
+ 
+18 
+ 
+Table 12. RG&E’s Monthly marginal customer‐related costs 
+ 
+ 
+Monthly 
+Customer
+Customer
+Classification
+Description
+Cost
+2022 $
+SC1RNH
+SC 1 Residential Non Heat
+$20.61
+SC1RH
+SC 1 Residential Heat
+21.04
+SC1C
+SC 1 Commercial 
+38.99
+SC1IND
+SC 1 Industrial
+50.83
+SC1MUN
+SC 1 Municipal
+47.80
+SC3C
+SC 3 Commercial 
+179.66
+SC3IND
+SC 3 Industrial
+292.22
+SC3MUN
+SC 3 Municipal
+168.31
+SC3 HP
+SC 3 High‐Pressure
+445.11
+SC5RNH
+SC 5 Residential Non Heat
+20.67
+SC5RH
+SC 5 Residential Heat
+20.98
+ 
+SC5C
+SC 5 Commercial 
+74.01
+SC5IND
+SC 5 Industrial
+65.06
+SC5MUN
+SC 5 Municipal
+64.89
+SC7T
+SC 7 Non‐Residential for DG
+52.14
+Exhibit __ (ANG-1) 
+Page 20 of 32
+
+
+--- Page 21 ---
+ 
+ 
+ 
+ 
+ 
+ 
+19 
+ 
+ 
+ 
+ 
+APPENDIX A:  MCOSS SUPPORTING WORKSHEETS –
+NYSEG 
+ 
+ 
+ 
+ 
+ 
+ 
+ 
+ 
+ 
+ 
+ 
+ 
+ 
+ 
+ 
+ 
+ 
+Exhibit __ (ANG-1) 
+Page 21 of 32
+
+
+--- Page 22 ---
+ 
+ 
+ 
+ 
+ 
+ 
+20 
+ 
+ 
+ 
+Table A.1. Annualized Upper‐Medium Pressure Mains (NYSEG) 
+ 
+ 
+Upper Medium‐
+Pressure Mains 
+(1)
+Marginal Investment 
+$23.29
+(2)
+With General Plant Loading  (1) x 1.0105
+$23.30
+(3)
+Annual Economic Carrying Charge Related to
+     Capital Investment
+7.29%
+(4)
+A&G Loading (plant related)
+0.00%
+(5)
+Total Annual Carrying Charge  (3) + (4)
+7.29%
+(6)
+Annualized Costs  (2) x (5)
+$1.699
+(7)
+O&M Expenses
+$0.133
+(8)
+O&M exp. with A&G Loading  (Non‐plant Related)
+     (7) x 1.0150
+$0.135
+(9)
+Annual Cost  (6) + (8)
+$1.834
+Working Capital
+(10)
+Material and Supplies  (2) x 0.70%
+$0.163
+(11)
+Prepayments  (2) x 1.19%
+$0.277
+(12)
+Cash Working Capital Allowance  (8) x 12.50%
+$0.017
+(13)
+Total Working Capital  (10) + (11) + (12)
+$0.457
+(14)
+Revenue Requirement for Working
+     Capital  (13) x 8.65%
+$0.040
+(15)
+Annual Marginal Unit Costs (9) + (14)
+$1.874
+(16)
+Annual Marginal Unit Costs (with losses)
+(15) * 1.00181
+$1.877
+Exhibit __ (ANG-1) 
+Page 22 of 32
+
+
+--- Page 23 ---
+ 
+ 
+ 
+ 
+ 
+ 
+21 
+ 
+Table A2. NYSEG Annual Gas Local Facilities Marginal Costs 
+ 
+ 
+ 
+ 
+ 
+Medium and 
+Low‐pressure 
+Reg. Stations
+Total Lower 
+Medium and Low‐  
+Pressure Mains 
+(after CIAC)
+(2022 $ per MCF of Design Day 
+Demand)
+(1)
+Marginal Investment 
+$82.12
+$1,373.71
+(2)
+With General Plant Loading  (1) x 1.0210
+83.84
+1402.56
+Annual Economic Carrying Charge Related to
+(3)
+     Capital Investment
+6.88%
+7.29%
+(4)
+A&G Loading (plant related)
+0.27%
+0.00%
+(5)
+Total Annual Carrying Charge  (3) + (4)
+7.15%
+7.29%
+(6)
+Annualized Costs  (2) x (5)
+$6.00
+$102.28
+(7)
+O&M Expenses
+1.23
+12.29
+O&M exp. with A&G Loading  (Non‐plant Related)
+(8)
+     (7) x 1.0189
+1.26
+12.52
+(9)
+Annual Cost  (6) + (8)
+$7.25
+$114.80
+Working Capital
+(10)
+Material and Supplies  (2) x 0.70%
+$0.59
+$9.82
+(11)
+Prepayments  (2) x 1.19%
+1.00
+16.69
+(12)
+Cash Working Capital Allowance  (8) x 12.50%
+0.16
+1.56
+(13)
+Total Working Capital  (10) + (11) + (12)
+1.74
+28.07
+(14)
+Revenue Requirement for Working
+     Capital  (13) x 8.65%
+$0.15
+$2.43
+(15)
+Annual Marginal Unit Costs (9) + (14)
+$7.40
+$117.23
+Exhibit __ (ANG-1) 
+Page 23 of 32
+
+
+--- Page 24 ---
+ 
+ 
+ 
+ 
+ 
+ 
+22 
+ 
+Table A3. NYSEG Annual Marginal Customer Costs ‐ I 
+ 
+ 
+SC1S
+SC1S
+SC2S
+SC3S
+SC5S
+Residential 
+Heat
+Residential 
+Non Heat
+General 
+Service
+Interruptible 
+Sales
+Gas Cooling
+ 
+‐‐‐‐‐‐‐‐‐‐‐‐‐‐‐‐‐‐‐‐‐‐ (2022 Dollars per Customer) ‐‐‐‐‐‐‐‐‐‐‐‐‐‐‐‐‐‐‐‐‐‐ 
+Investment ‐ Meter, House Regulators & Services
+(1)
+Meter & H. Regulator Investment (cost per unit)
+$517.05
+$517.05
+$964.76
+$30,220.00
+$964.76
+(2)
+With General Plant Loading (1) x 1.021
+$527.91
+$527.91
+$985.02
+$30,854.62
+$985.02
+(3)
+Annual Economic Charge Related to
+Capital Investment
+7.97%
+7.97%
+7.97%
+7.97%
+7.97%
+(4)
+Service Investment (cost per service)
+$2,769.71
+2,769.71
+      
+5,491.36
+      
+5,491.36
+      
+n/a
+(5)
+With General Plant Loading (4) x 1.021
+$2,827.87
+$2,827.87
+$5,606.68
+$5,606.68
+$0.00
+(6)
+Annual Economic Charge Related to
+Capital Investment
+7.16%
+7.16%
+7.16%
+7.16%
+7.16%
+(7)
+A&G Loading (Plant Related)
+‐
+               
+‐
+               
+‐
+               
+‐
+               
+‐
+              
+(8)
+Total Carrying Charge Meters & H. Reg.  (3) + (7)
+7.97%
+7.97%
+7.97%
+7.97%
+7.97%
+(9)
+Total Carrying Charge Services (6)+(7)
+7.16%
+7.16%
+7.16%
+7.16%
+7.16%
+(10)
+Annualized Meter & H. Regulator Costs  (2) x (8)
+$42.07
+$42.07
+$78.50
+$2,459.02
+$78.50
+(11)
+Annualized Service Costs  (5) x (9)
+$202.34
+$202.34
+$401.17
+$401.17
+$0.00
+(12)
+Total Annualized Meter, H. Reg. & Service Costs (10)+(11)
+$244.41
+$244.41
+$479.68
+$2,860.19
+$78.50
+O&M ‐ Meter, House Regulators & Services
+(13)
+Meter & H. Reg. O&M Expense
+$7.81
+$7.81
+$9.72
+$304.34
+$9.72
+(14)
+Service Lateral O&M Expense
+$55.63
+$55.63
+$62.46
+$62.46
+$0.00
+(15)
+Customer Accounts Expense (excluding uncollectables)
+$60.02
+$63.34
+$62.37
+$62.37
+$62.37
+(16)
+Uncollectibles Customer Accounts Expense
+$12.88
+$6.25
+$9.34
+$9.34
+$9.34
+(17)
+Customer Service and Informational Expense
+$2.34
+($0.48)
+($9.06)
+($9.06)
+($9.06)
+(18)
+A&G Loading  [(13)+(14)+(15)+(17)] x 0.0189
+(Non‐plant Related)
+$2.38
+$2.39
+$2.37
+$7.94
+$1.19
+Working Capital
+(19)
+Materials and Supplies  [(2)+(5)] x 0.70%
+$23.49
+$23.49
+$46.14
+$255.23
+$6.90
+(20)
+Prepayments [(2)+(5)] x 1.190%
+$39.93
+$39.93
+$78.44
+$433.89
+$11.72
+(21)
+Cash Working Capital Allowance  
+     [(13)+(14)+(15)+(17)+(18)] x 12.50%
+$16.02
+$16.09
+$15.98
+$53.51
+$8.03
+(22)
+Revenue Requirement for Working Capital
+     [(19)+(20)+(21)] x 8.65%
+$6.87
+$6.88
+$12.16
+$64.24
+$2.30
+(23)
+Total Customer‐Related Costs  
+     [(12)+(13)+(14)+(15)+(16)+(17)+(18)+(22)]
+$392.33
+$386.23
+$629.03
+$3,361.81
+$154.36
+Exhibit __ (ANG-1) 
+Page 24 of 32
+
+
+--- Page 25 ---
+ 
+ 
+ 
+ 
+ 
+ 
+23 
+ 
+ 
+ 
+ 
+Table A3. NYSEG Annual Marginal Customer Costs – II 
+ 
+ 
+SC9S
+SC13T
+SC13T
+SC14T
+Industrial 
+Manufacturing
+Res. Heat 
+Aggregation 
+Service
+Res. Non‐Heat 
+Aggregation 
+Service
+Non‐Res. 
+Aggregation 
+Service
+Investment ‐ Meter, House Regulators & Services
+‐‐‐‐‐‐‐‐‐‐‐‐‐‐‐‐‐‐‐‐‐‐‐‐‐‐‐‐‐‐‐ (2022 Dollars per Customer) ‐‐‐‐‐‐‐‐‐‐‐‐‐‐‐‐‐‐‐‐‐‐‐‐‐‐‐‐‐‐
+(1)
+Meter & H. Regulator Investment (cost per unit)
+15,110.00
+       
+$517.05
+$517.05
+$1,532.30
+(2)
+With General Plant Loading (1) x 1.021
+$15,427.31
+$527.91
+$527.91
+$1,564.47
+(3)
+Annual Economic Charge Related to
+Capital Investment
+7.97%
+7.97%
+7.97%
+7.97%
+(4)
+Service Investment (cost per service)
+5,491.36
+          
+$2,769.71
+$2,769.71
+11,968.60
+(5)
+With General Plant Loading (4) x 1.021
+$5,606.68
+$2,827.87
+$2,827.87
+$12,219.94
+(6)
+Annual Economic Charge Related to
+Capital Investment
+7.16%
+7.16%
+7.16%
+7.16%
+(7)
+A&G Loading (Plant Related)
+‐
+                   
+‐
+                   
+‐
+                   
+‐
+                   
+(8)
+Total Carrying Charge Meters & H. Reg.  (3) + (7)
+7.97%
+7.97%
+7.97%
+7.97%
+(9)
+Total Carrying Charge Services (6)+(7)
+7.16%
+7.16%
+7.16%
+7.16%
+(10)
+Annualized Meter & H. Regulator Costs  (2) x (8)
+$1,229.51
+$42.07
+$42.07
+$124.68
+(11)
+Annualized Service Costs  (5) x (9)
+$401.17
+$202.34
+$202.34
+$874.37
+(12)
+Total Annualized Meter, H. Reg. & Service Costs (10)+(11
+$1,630.68
+$244.41
+$244.41
+$999.05
+O&M ‐ Meter, House Regulators & Services
+(13)
+Meter & H. Reg. O&M Expense
+n/a
+$7.81
+$7.81
+$15.43
+(14)
+Service Lateral O&M Expense
+$62.46
+$62.46
+$62.46
+$62.46
+(15)
+Customer Accounts Expense (excluding uncollectables)
+$0.00
+$77.42
+$79.64
+$69.42
+(16)
+Uncollectibles Customer Accounts Expense
+$0.00
+$17.44
+$8.14
+$22.59
+(17)
+Customer Service and Informational Expense
+$0.00
+($1.90)
+($0.57)
+$4.81
+(18)
+(Non‐plant Related)
+$1.18
+$2.76
+$2.82
+$2.88
+Working Capital
+(19)
+Materials and Supplies 
+$147.24
+$23.49
+$23.49
+$96.49
+(20)
+Prepayments 
+$250.30
+$39.93
+$39.93
+$164.03
+(21)
+Cash Working Capital Allowance  
+$7.95
+$18.57
+$19.02
+$19.37
+(22)
+Revenue Requirement for Working Capital
+$35.08
+$7.09
+$7.13
+$24.21
+(23)
+Total Customer‐Related Costs  
+$1,729.40
+$417.49
+$411.84
+$1,200.85
+Exhibit __ (ANG-1) 
+Page 25 of 32
+
+
+--- Page 26 ---
+ 
+ 
+ 
+ 
+ 
+ 
+24 
+ 
+Table A3. NYSEG Annual Marginal Customer Costs ‐III
+ 
+ 
+ 
+ 
+ 
+SC1T
+SC2T
+SC5T
+SC7T
+SC16T
+Large Firm 
+Transportation
+Interruptible 
+Transportation 
+Small Firm 
+Transportation
+Firm or Limited 
+Firm Negotiated 
+Transportation
+Non‐Residential 
+DG Firm 
+Transportation
+‐‐‐‐‐‐‐‐‐‐‐‐‐‐‐‐‐‐‐‐‐‐‐‐‐‐‐‐‐‐‐‐‐‐‐‐‐‐ (2022 Dollars per Customer) ‐‐‐‐‐‐‐‐‐‐‐‐‐‐‐‐‐‐‐‐‐‐‐‐‐‐‐‐‐‐‐‐‐‐‐
+Investment ‐ Meter, House Regulators & Services
+(1)
+Meter & H. Regulator Investment (cost per unit)
+$16,604.56
+34,244.05
+         
+5,755.32
+           
+37,829.47
+         
+4,720.92
+           
+(2)
+With General Plant Loading (1) x 1.021
+$16,953.26
+$34,963.17
+$5,876.18
+$38,623.88
+$4,820.06
+(3)
+Annual Economic Charge Related to
+Capital Investment
+7.97%
+7.97%
+7.97%
+7.97%
+7.97%
+(4)
+Service Investment (cost per service)
+12,080.99
+         
+12,080.99
+         
+9,335.31
+           
+15,375.80
+         
+n/a
+(5)
+With General Plant Loading (4) x 1.021
+$12,334.69
+$12,334.69
+$9,531.35
+$15,698.69
+$0.00
+(6)
+Annual Economic Charge Related to
+Capital Investment
+7.16%
+7.16%
+7.16%
+7.16%
+7.16%
+(7)
+A&G Loading (Plant Related)
+0.00%
+0.00%
+0.00%
+0.00%
+0.00%
+(8)
+Total Carrying Charge Meters & H. Reg.  (3) + (7)
+7.97%
+7.97%
+7.97%
+7.97%
+7.97%
+(9)
+Total Carrying Charge Services (6)+(7)
+7.16%
+7.16%
+7.16%
+7.16%
+7.16%
+(10)
+Annualized Meter & H. Regulator Costs  (2) x (8)
+$1,351.12
+$2,786.46
+$468.31
+$3,078.21
+$384.14
+(11)
+Annualized Service Costs  (5) x (9)
+$882.58
+$882.58
+$681.99
+$1,123.28
+$0.00
+(12)
+Total Annualized Meter, H. Reg. & Service Costs (10)+(
+$2,233.70
+$3,669.04
+$1,150.31
+$4,201.49
+$384.14
+O&M ‐ Meter, House Regulators & Services
+(13)
+Meter & H. Reg. O&M Expense
+$167.22
+$344.86
+$57.96
+$0.00
+$380.97
+(14)
+Service Lateral O&M Expense
+$62.46
+$62.46
+$62.46
+$62.46
+n/a
+(15)
+Customer Accounts Expense (excluding uncollectables)
+$54.24
+$54.24
+$74.66
+$0.00
+$67.62
+(16)
+Uncollectibles Customer Accounts Expense
+$580.00
+$580.00
+$136.59
+$0.00
+$126.12
+(17)
+Customer Service and Informational Expense
+($367.97)
+($367.97)
+($32.27)
+$0.00
+($107.27)
+(18)
+A&G Loading  
+(Non‐plant Related)
+($4.75)
+$1.77
+$3.08
+$1.18
+$6.45
+(21)
+Cash Working Capital Allowance  
+($32.00)
+$11.92
+$20.74
+$7.95
+$43.47
+(22)
+Revenue Requirement for Working Capital
+$45.11
+$78.36
+$26.98
+$89.50
+$11.64
+(23)
+Total Customer‐Related Costs  
+$2,770.02
+$4,422.76
+$1,479.76
+$4,354.63
+$869.67
+Exhibit __ (ANG-1) 
+Page 26 of 32
+
+
+--- Page 27 ---
+ 
+ 
+ 
+ 
+ 
+ 
+25 
+ 
+ 
+ 
+APPENDIX B:  MCOSS SUPPORTING WORKSHEETS – 
+RG&E 
+ 
+ 
+ 
+ 
+ 
+ 
+ 
+ 
+ 
+ 
+ 
+ 
+ 
+ 
+ 
+ 
+ 
+ 
+ 
+Exhibit __ (ANG-1) 
+Page 27 of 32
+
+
+--- Page 28 ---
+ 
+ 
+ 
+ 
+ 
+ 
+26 
+ 
+Table B.1. Annualized Upper‐Medium Pressure Mains (RG&E) 
+ 
+ 
+Upper Medium‐
+Pressure Mains
+(2022 $ per MCF of 
+Design Day Demand)
+(1)
+Marginal Investment 
+$210.879
+(2)
+With General Plant Loading  (1) x 1.0102
+$213.030
+(3)
+Annual Economic Carrying Charge Related to
+     Capital Investment
+7.25%
+(4)
+A&G Loading (plant related)
+0.00%
+(5)
+Total Annual Carrying Charge  (3) + (4)
+7.25%
+(6)
+Annualized Costs  (2) x (5)
+$15.441
+(7)
+O&M Expenses
+0.132
+(8)
+O&M exp. with A&G Loading  (Non‐plant Related)
+     (7) x 1.0115
+0.134
+(9)
+Annual Cost  (6) + (8)
+15.575
+Working Capital
+(10)
+Material and Supplies  (2) x 1.03%
+2.194
+(11)
+Prepayments  (2) x 1.43%
+3.046
+(12)
+Cash Working Capital Allowance  (8) x 12.50%
+0.017
+(13)
+Total Working Capital  (10) + (11) + (12)
+5.257
+(14)
+Revenue Requirement for Working
+     Capital  (13) x 8.65%
+0.455
+(15)
+Annual Marginal Unit Costs (9) + (14)
+16.029
+(16)
+Annual Marginal Unit Costs (with losses)
+(15) * 1.01
+16.190
+(17)
+Winter Season (Dec. ‐ Mar.) Marginal Unit Costs 
+(with losses) ‐ (16) x Winter Probability of Peak (100%)
+$16.190
+(18)
+Summer Season (Apr. ‐ Nov.) Marginal Unit Costs 
+(with losses) ‐ (16) x Summer Probability of Peak (0%)
+$0.000
+(2022 cents/therm)
+(19)
+Annual Unit Costs
+100 x (16) / [(Days in Year * Annual LF) / (1.03 * 10)]
+$1.161
+(20)
+Winter Season Unit Costs
+100 x (17) / [(Days in Winter * Annual LF) / (1.03 * 10)]
+$2.109
+Exhibit __ (ANG-1) 
+Page 28 of 32
+
+
+--- Page 29 ---
+ 
+ 
+ 
+ 
+ 
+ 
+27 
+ 
+Table B.2. RG&E Annual Gas Local Facilities Marginal Costs 
+ 
+ 
+ 
+Medium and 
+Low‐pressure 
+Reg. Station
+Lower Medium 
+and Low‐  
+Pressure Mains 
+(after CIAC)
+(2022$/MCF of Long‐Term Demand)
+(1)
+(2)
+Marginal Investment 
+$41.92
+$772.12
+With General Plant Loading  (1) x 1.0102
+$42.35
+$779.99
+Annual Economic Carrying Charge Related to
+     Capital Investment
+8.60%
+7.25%
+A&G Loading (plant related)
+0.27%
+0.00%
+Total Annual Carrying Charge  (3) + (4)
+8.88%
+7.25%
+Annualized Costs  (2) x (5)
+$3.76
+$56.54
+O&M Expenses
+$0.82
+$10.78
+O&M exp. with A&G Loading  (Non‐plant Related)
+     (7) x 1.0115
+$0.83
+$10.91
+Annual Cost  (6) + (8)
+$4.59
+$67.44
+Working Capital
+Material and Supplies  (2) x 1.03%
+$0.44
+$8.03
+Prepayments  (2) x 1.43%
+$0.61
+$11.15
+Cash Working Capital Allowance  (8) x 12.50%
+$0.10
+$1.36
+Total Working Capital  (10) + (11) + (12)
+$1.15
+$20.55
+Revenue Requirement for Working
+     Capital  (13) x 8.65%
+$0.10
+$1.78
+Annual Marginal Unit Costs (9) + (14)
+$4.69
+$69.22
+Exhibit __ (ANG-1) 
+Page 29 of 32
+
+
+--- Page 30 ---
+ 
+ 
+ 
+ 
+ 
+ 
+28 
+ 
+ 
+Table B.2. RG&E Annual Gas Marginal Customer Costs ‐ I 
+ 
+ 
+ 
+ 
+ 
+SC1RNH
+SC1RH
+SC1CNH
+SC1IND
+SC1MUN
+‐‐‐‐‐‐‐‐‐‐‐‐‐‐‐‐‐‐‐‐‐‐‐‐‐‐‐‐‐‐‐‐‐‐‐‐ (2022 Dollars) ‐‐‐‐‐‐‐‐‐‐‐‐‐‐‐‐‐‐‐‐‐‐‐‐‐‐‐‐‐‐‐‐‐‐‐‐
+Investment ‐ Meter, House Regulators & Services
+(1)
+Meter & H. Regulator Investment (cost per unit)
+$481.86
+$481.86
+$728.40
+$1,947.32
+$1,596.09
+(2)
+With General Plant Loading (1) x 1.010
+$486.78
+$486.78
+$735.83
+$1,967.18
+$1,612.38
+(3)
+Annual Economic Charge Related to
+Capital Investment
+7.87%
+7.87%
+7.87%
+7.87%
+7.87%
+(4)
+Service Investment (cost per service)
+$1,331.48
+$1,331.48
+$3,782.84
+$3,782.84
+$3,782.84
+(5)
+With General Plant Loading (4) x 1.010
+$1,345.06
+$1,345.06
+$3,821.42
+$3,821.42
+$3,821.42
+(6)
+Annual Economic Charge 
+7.24%
+7.24%
+7.24%
+7.24%
+7.24%
+(7)
+A&G Loading (Plant Related)
+0.00%
+0.00%
+0.00%
+0.00%
+0.00%
+(8)
+Total Carrying Charge Meters & H. Reg.  (3) + (7)
+7.87%
+7.87%
+7.87%
+7.87%
+7.87%
+(9)
+Total Carrying Charge Services (6)+(7)
+7.24%
+7.24%
+7.24%
+7.24%
+7.24%
+(10)
+Annualized Meter & H. Regulator Costs  (2) x (8)
+$38.29
+$38.29
+$57.89
+$154.76
+$126.85
+(11)
+Annualized Service Costs  (5) x (9)
+$97.39
+$97.39
+$276.70
+$276.70
+$276.70
+(12)
+Total Annualized Meter, H. Reg. & Service Costs (10)+(11)
+$135.69
+$135.69
+$334.59
+$431.46
+$403.54
+O&M ‐ Meter, House Regulators & Services
+(13)
+Meter & H. Reg. O&M Expense
+$0.53
+$0.53
+$15.54
+$41.56
+$34.06
+(14)
+Service Lateral O&M Expense
+$42.49
+$42.49
+$47.21
+$47.21
+$47.21
+(15)
+Customer Accounts Expense (excluding uncollectibles)
+$44.47
+$44.47
+$50.06
+$50.06
+$50.06
+(16)
+Uncollectibles 
+$14.98
+$18.68
+$11.91
+$28.55
+$28.55
+(17)
+Customer Service and Informational Expense
+$3.26
+$4.70
+($3.62)
+($4.21)
+($4.21)
+(18)
+A&G Loading  [(13)+(14)+(15)+(17)] x 0.0115
+(Non‐plant Related)
+$1.04
+$1.06
+$1.26
+$1.55
+$1.46
+Working Capital
+(19)
+Materials and Supplies  [(2)+(5)] x 1.03%
+$18.87
+$18.87
+$46.94
+$59.62
+$55.97
+(20)
+Prepayments [(2)+(5)] x 1.430%
+$26.20
+$26.20
+$65.17
+$82.78
+$77.70
+(21)
+Cash Working Capital Allowance  
+     [(13)+(14)+(15)+(17)+(18)] x 12.50%
+$11.47
+$11.66
+$13.81
+$17.02
+$16.07
+(22)
+Revenue Requirement for Working Capital
+     [(19)+(20)+(21)] x 8.65%
+$4.89
+$4.91
+$10.89
+$13.79
+$12.95
+(23)
+Total Customer‐Related Costs  (per customer per year)
+$247.35
+$252.52
+$467.84
+$609.96
+$573.63
+Exhibit __ (ANG-1) 
+Page 30 of 32
+
+
+--- Page 31 ---
+ 
+ 
+ 
+ 
+ 
+ 
+29 
+ 
+Table B.2. RG&E Annual Gas Marginal Customer Costs – II 
+ 
+ 
+SC3CH
+SC3IND
+SC3MUN
+SC3HP
+SC5RNH
+SC5RH
+‐‐‐‐‐‐‐‐‐‐‐‐‐‐‐‐‐‐‐‐‐‐‐‐‐‐‐‐‐‐‐‐‐‐‐‐ (2022 Dollars) ‐‐‐‐‐‐‐‐‐‐‐‐‐‐‐‐‐‐‐‐‐‐‐‐‐‐‐‐‐‐‐‐‐‐‐‐
+Investment ‐ Meter, House Regulators & Services
+(1)
+Meter & H. Regulator Investment (cost per unit)
+$9,598.68
+$20,009.17
+$8,634.79
+$33,188.72
+$481.86
+$481.86
+(2)
+With General Plant Loading (1) x 1.010
+$9,696.58
+$20,213.26
+$8,722.86
+$33,527.24
+$486.78
+$486.78
+(3)
+Annual Economic Charge Related to
+Capital Investment
+7.87%
+7.87%
+7.87%
+7.87%
+7.87%
+7.87%
+(4)
+Service Investment (cost per service)
+$8,244.82
+$12,367.23
+$8,244.82
+$12,367.23
+$1,331.48
+$1,331.48
+(5)
+With General Plant Loading (4) x 1.010
+$8,328.92
+$12,493.37
+$8,328.92
+$12,493.37
+$1,345.06
+$1,345.06
+(6)
+Annual Economic Charge Related to
+Capital Investment
+7.24%
+7.24%
+7.24%
+7.24%
+7.24%
+7.24%
+(7)
+A&G Loading (Plant Related)
+0.00%
+0.00%
+0.00%
+0.00%
+0.00%
+0.00%
+(8)
+Total Carrying Charge Meters & H. Reg.  (3) + (7)
+7.87%
+7.87%
+7.87%
+7.87%
+7.87%
+7.87%
+(9)
+Total Carrying Charge Services (6)+(7)
+7.24%
+7.24%
+7.24%
+7.24%
+7.24%
+7.24%
+(10)
+Annualized Meter & H. Regulator Costs  (2) x (8)
+$762.83
+$1,590.18
+$686.23
+$2,637.60
+$38.29
+$38.29
+(11)
+Annualized Service Costs  (5) x (9)
+$603.08
+$904.61
+$603.08
+$904.61
+$97.39
+$97.39
+(12)
+Total Annualized Meter, H. Reg. & Service Costs (10)+(11)
+$1,365.91
+$2,494.79
+$1,289.30
+$3,542.21
+$135.69
+$135.69
+O&M ‐ Meter, House Regulators & Services
+(13)
+Meter & H. Reg. O&M Expense
+$204.84
+$427.01
+$184.27
+$708.27
+$0.53
+$0.53
+(14)
+Service Lateral O&M Expense
+$47.21
+$47.21
+$47.21
+$47.21
+$42.49
+$42.49
+(15)
+Customer Accounts Expense (excluding uncollectables)
+$55.02
+$55.13
+$55.13
+$60.00
+$44.38
+$44.38
+(16)
+Uncollectibles 
+$595.03
+$752.61
+$752.61
+$879.00
+$16.85
+$20.04
+(17)
+Customer Service and Informational Expense
+($153.93)
+($343.86)
+($343.86)
+($11.29)
+$2.20
+$2.74
+(18)
+A&G Loading  
+(Non‐plant Related)
+$1.76
+$2.13
+($0.66)
+$9.25
+$1.03
+$1.04
+Working Capital
+$19.36
+$23.45
+($7.24)
+$101.68
+$11.33
+$11.40
+(22)
+Revenue Requirement for Working Capital
+$40.03
+$71.63
+$35.66
+$106.72
+$4.88
+$4.88
+(23)
+Total Customer‐Related Costs  (per customer per year)
+$2,155.87
+$3,506.65
+$2,019.66
+$5,341.37
+$248.05
+$251.79
+Exhibit __ (ANG-1) 
+Page 31 of 32
+
+
+--- Page 32 ---
+ 
+ 
+ 
+ 
+ 
+ 
+30 
+ 
+Table B.2. RG&E Annual Gas Marginal Customer Costs – III 
+ 
+ 
+ 
+ 
+ 
+ 
+SC5C
+SC5IND
+SC5MUN
+SC7T
+‐‐‐‐‐‐‐‐‐‐‐‐‐‐‐‐‐‐‐‐‐‐‐‐‐‐‐‐ (2022 Dollars) ‐‐‐‐‐‐‐‐‐‐‐‐‐‐‐‐‐‐‐‐‐‐‐‐‐‐‐‐‐
+Investment ‐ Meter, House Regulators & Services
+(1)
+Meter & H. Regulator Investment (cost per unit)
+$4,771.80
+$3,696.42
+$3,676.56
+$6,734.33
+(2)
+With General Plant Loading (1) x 1.010
+$4,820.48
+$3,734.12
+$3,714.06
+$6,803.02
+(3)
+Annual Economic Charge Related to
+Capital Investment
+7.87%
+7.87%
+7.87%
+7.87%
+(4)
+Service Investment (cost per service)
+$3,782.84
+$3,782.84
+$3,782.84
+na/
+(5)
+With General Plant Loading (1) x 1.010
+$3,821.42
+$3,821.42
+$3,821.42
+$0.00
+(6)
+Annual Economic Charge Related to
+Capital Investment
+7.24%
+7.24%
+7.24%
+7.24%
+(7)
+A&G Loading (Plant Related)
+0.00%
+0.00%
+0.00%
+0.00%
+(8)
+Total Carrying Charge Meters & H. Reg.  (3) + (7)
+7.87%
+7.87%
+7.87%
+7.87%
+(9)
+Total Carrying Charge Services (6)+(7)
+7.24%
+7.24%
+7.24%
+7.24%
+(10)
+Annualized Meter & H. Regulator Costs  (2) x (8)
+$379.23
+$293.76
+$292.19
+$535.19
+(11)
+Annualized Service Costs  (5) x (9)
+$276.70
+$276.70
+$276.70
+$0.00
+(12)
+Total Annualized Meter, H. Reg. & Service Costs (10)+(11)
+$655.93
+$570.46
+$568.89
+$535.19
+O&M ‐ Meter, House Regulators & Services
+(13)
+Meter & H. Reg. O&M Expense
+$101.83
+$78.88
+$78.46
+$143.71
+(14)
+Service Lateral O&M Expense
+$47.21
+$47.21
+$47.21
+$47.21
+(15)
+Customer Accounts Expense (excluding uncollectables)
+$49.72
+$49.72
+$49.72
+$54.59
+(16)
+Uncollectibles 
+$27.63
+$50.31
+$50.31
+$126.77
+(17)
+Customer Service and Informational Expense
+($16.65)
+($35.12)
+($35.12)
+($295.14)
+(18)
+A&G Loading  [(13)+(14)+(15)+(17)] x 0.0115
+(Non‐plant Related)
+$2.09
+$1.62
+$1.61
+($0.57)
+Working Capital
+$23.03
+$17.79
+$17.74
+($6.27)
+(22)
+Revenue Requirement for Working Capital
+$20.38
+$17.62
+$17.57
+$13.93
+(23)
+Total Customer‐Related Costs  (per customer per year)
+$888.14
+$780.70
+$778.65
+$625.70
+Exhibit __ (ANG-1) 
+Page 32 of 32

@@ -1,0 +1,3226 @@
+--- Page 1 ---
+ 
+BEFORE THE 
+NEW YORK STATE 
+PUBLIC SERVICE COMMISSION 
+----------------------------------------------------------------------------x 
+ 
+Proceeding on Motion of the Commission as to the 
+Rates, Charges, Rules and Regulations of  
+ 
+Case 23-E-____ 
+Central Hudson Gas & Electric Corporation 
+for Electric Service 
+ 
+----------------------------------------------------------------------------x 
+ 
+----------------------------------------------------------------------------x 
+ 
+Proceeding on Motion of the Commission as to the 
+Rates, Charges, Rules and Regulations of  
+ 
+Case 23-G-____ 
+Central Hudson Gas & Electric Corporation 
+for Gas Service 
+ 
+----------------------------------------------------------------------------x 
+ 
+ 
+ 
+DIRECT TESTIMONY OF THE 
+TECHNOLOGY CAPITAL AND OPERATIONS PANEL 
+ 
+ 
+ 
+ 
+ 
+ 
+ 
+ 
+ 
+ 
+ 
+ 
+ 
+ 
+ 
+ 
+ 
+ 
+ 
+July 31, 2023 
+
+
+--- Page 2 ---
+ 
+i 
+ 
+ 
+1 
+TABLE OF CONTENTS 
+2 
+I. 
+INTRODUCTION ....................................................................................... 1 
+3 
+II. 
+PURPOSE OF TESTIMONY ..................................................................... 5 
+4 
+III. 
+OVERVIEW OF IT CAPITAL FORECAST ................................................. 6 
+5 
+IV. 
+CUSTOMER EXPERIENCE .................................................................... 11 
+6 
+V. 
+BUSINESS MODERNIZATION / TRANSFORMATION ........................... 16 
+7 
+A. 
+GRID MODERNIZATION .............................................................. 21 
+8 
+B. 
+COMMUNICATIONS ..................................................................... 25 
+9 
+C. 
+TECHNOLOGY LIFECYCLE MANAGEMENT .............................. 28 
+10 
+D. 
+ANALYTICS PLATFORM EXPANSION ........................................ 29 
+11 
+E. 
+GIS MODERNIZATION ................................................................. 31 
+12 
+F. 
+EMERGENT INITIATIVES ............................................................ 33 
+13 
+VI. 
+WORKFORCE DEVELOPMENT, ATTRACTION & RETENTION ........... 34 
+14 
+VII. 
+TRANSFORM SAFETY CULTURE ......................................................... 35 
+15 
+VI. 
+TECHNOLOGY STAFFING REQUIREMENTS ....................................... 38 
+16 
+VII. 
+OPERATIONAL EXPENSE IMPACTS ..................................................... 56 
+17 
+18 
+
+
+--- Page 3 ---
+Case 23-E-____; Case 23-G-____ 
+ 
+DIRECT TESTIMONY OF THE TECHNOLOGY CAPITAL AND 
+OPERATIONS PANEL 
+1 
+ 
+I. 
+INTRODUCTION 
+1 
+Q.    
+Please state the names of the members of the Technology Capital and 
+2 
+Operations Panel (“Panel”). 
+3 
+A. 
+Our names are Frank L. La Rocca, James W. Daniels, David J. Dittmann, 
+4 
+and Nicole K. Tancredi. 
+5 
+Q. 
+Mr. La Rocca, please state your current employer and business address. 
+6 
+A. 
+I am employed by Central Hudson Gas & Electric Corporation (“Central 
+7 
+Hudson” or the “Company”) and my business address is 284 South 
+8 
+Avenue, Poughkeepsie, New York 12601. 
+9 
+Q. 
+Mr. La Rocca, in what capacity are you employed by Central Hudson and 
+10 
+what is your scope of responsibilities? 
+11 
+A. 
+I am employed as the Company’s Chief Technology Officer.  In that 
+12 
+capacity, my responsibilities include but are not limited to the development 
+13 
+of the Information Technology (“IT”) Strategy and vision, providing reliable 
+14 
+and effective business system applications, maintaining all associated 
+15 
+infrastructure (data centers, servers, operating systems, etc.), all operating 
+16 
+technologies (including control centers, SCADA), and financial planning.   
+17 
+Q. 
+Mr. La Rocca, what is your educational background and professional 
+18 
+experience? 
+19 
+A. 
+I hold a Bachelor of Science degree in Computer Science from St. John’s 
+20 
+University.  I have been in the energy industry/utilities business for 37 
+21 
+
+
+--- Page 4 ---
+Case 23-E-____; Case 23-G-____ 
+ 
+DIRECT TESTIMONY OF THE TECHNOLOGY CAPITAL AND 
+OPERATIONS PANEL 
+2 
+ 
+years; including KeySpan Energy Services, National Grid, Consolidated 
+1 
+Edison and now Central Hudson.   
+2 
+Q. 
+Mr. La Rocca, have you previously testified before the New York State 
+3 
+Public Service Commission (“PSC” or the “Commission”)? 
+4 
+A. 
+Yes, I have.  I have testified before this Commission in various capacities 
+5 
+throughout my career, in support of the above mentioned utilities, most 
+6 
+recently in Consolidated Edison Cases 19-E-0065, 19-G-0066, 22-E-0064 
+7 
+and 22-G-0065.   
+8 
+Q. 
+Mr. Daniels, please state your current employer and business address.  
+9 
+A. 
+I am employed by Central Hudson and my business address is 284 South 
+10 
+Avenue, Poughkeepsie, New York 12601. 
+11 
+Q. 
+Mr. Daniels, in what capacity are you employed by Central Hudson and 
+12 
+what is your scope of responsibilities? 
+13 
+A. 
+I am employed by Central Hudson and oversee the Technology Project 
+14 
+Management Office (“IT PMO”), Technology Vendor Management Office 
+15 
+(“VMO”), Records Information Management (“RIM”) and IT Compliance.  
+16 
+In that capacity, my responsibilities include capital planning and intake, 
+17 
+Technology project management governance, vendor risk and 
+18 
+performance management, oversight of Records & Information 
+19 
+Management policy, and oversight of regulatory compliance within the 
+20 
+Technology group.   
+21 
+
+
+--- Page 5 ---
+Case 23-E-____; Case 23-G-____ 
+ 
+DIRECT TESTIMONY OF THE TECHNOLOGY CAPITAL AND 
+OPERATIONS PANEL 
+3 
+ 
+Q. 
+Mr. Daniels, what is your educational background and professional 
+1 
+experience? 
+2 
+A. 
+I hold a Master of Business Administration from Marist College and have 
+3 
+20 years of experience overseeing project and service delivery 
+4 
+organizations in multiple industries, including the United States Air Force, 
+5 
+Telecommunications, IT Consulting, and Healthcare. 
+6 
+Q. 
+Mr. Daniels, have you previously testified before the Commission? 
+7 
+A. 
+No, I have not. 
+8 
+Q. 
+Mr. Dittmann, please state your current employer and business address. 
+9 
+A. 
+I am employed by Central Hudson and my business address is 284 South 
+10 
+Avenue, Poughkeepsie, New York 12601. 
+11 
+Q. 
+Mr. Dittmann, in what capacity are you employed by Central Hudson and 
+12 
+what is your scope of responsibilities? 
+13 
+A. 
+I am employed as Manager of Infrastructure and Operations.  In that 
+14 
+Capacity, I am responsible for Infrastructure, Cybersecurity, Networks, 
+15 
+Operational Technology and Cloud and Enterprise Services.  
+16 
+Q. 
+Mr. Dittmann, what is your educational background and professional 
+17 
+experience? 
+18 
+A. 
+I received a Bachelor of Science in Electrical Engineering from Clarkson 
+19 
+University in 1990, a Master of Engineering in Electric Power Engineering 
+20 
+from Rensselaer Polytechnic Institute in 1994 and a Master of Business 
+21 
+Administration from Rensselaer Polytechnic Institute in 2007.  I am a 
+22 
+
+
+--- Page 6 ---
+Case 23-E-____; Case 23-G-____ 
+ 
+DIRECT TESTIMONY OF THE TECHNOLOGY CAPITAL AND 
+OPERATIONS PANEL 
+4 
+ 
+licensed Professional Engineer in New York State.  I joined Central 
+1 
+Hudson in 1990 as a Junior Engineer, and over the last 33 years I have 
+2 
+held various management positions within Engineering, Customer 
+3 
+Services, Operational Technology, System Operations, and Information 
+4 
+Technology.   
+5 
+Q. 
+Mr. Dittmann, have you previously testified before the Commission? 
+6 
+A. 
+Yes.  I have testified before the Commission in Cases 20-E-0428 and 20-
+7 
+G-0429, as well as Cases 17-E-0459 and 17-G-0460. 
+8 
+Q. 
+Ms. Tancredi, please state your current employer and business address. 
+9 
+A. 
+I am employed by Central Hudson and my business address is 284 South 
+10 
+Avenue, Poughkeepsie, New York 12601. 
+11 
+Q. 
+Ms. Tancredi, in what capacity are you employed by Central Hudson and 
+12 
+what is your scope of responsibilities? 
+13 
+A. 
+I am employed as Manager of Business Applications.  In that capacity, my 
+14 
+responsibilities include in-house business applications support and 
+15 
+QA/Testing. 
+16 
+Q. 
+Ms. Tancredi, what is your educational background and professional 
+17 
+experience? 
+18 
+A. 
+I received a Bachelor of Science in Computer Science from Marist College 
+19 
+in 1992 and a Master of Science in Computer Science from Marist College 
+20 
+in 1998.  I joined Central Hudson in 1997 as a Systems Analyst in the 
+21 
+
+
+--- Page 7 ---
+Case 23-E-____; Case 23-G-____ 
+ 
+DIRECT TESTIMONY OF THE TECHNOLOGY CAPITAL AND 
+OPERATIONS PANEL 
+5 
+ 
+Information Technology Department and have worked in that department 
+1 
+for 25 years.    
+2 
+Q. 
+Ms. Tancredi, have you previously testified before the Commission? 
+3 
+A. 
+No, I have not. 
+4 
+ 
+5 
+II. 
+PURPOSE OF TESTIMONY 
+6 
+Q. 
+What is the purpose of the Panel’s testimony in these proceedings? 
+7 
+A. 
+The objective of the Technology Capital and Operations Panel testimony 
+8 
+is to outline the key technology investments required to support the 
+9 
+electric, gas, and common area operations.  The testimony includes a 
+10 
+discussion of the Company’s 5-Year Capital Plan for Technology for the 
+11 
+period 2024 through 2028, which includes the Rate Year.  The Technology 
+12 
+organization supports and maintains 250+ business service offerings and 
+13 
+technology products (software applications), the Technology Infrastructure 
+14 
+to support them (including but not limited to Servers, Desktops, 
+15 
+Datacenters, networks, and telecom) as well as Operations Technology 
+16 
+(including but not limited to Control Centers and Supervisory Control and 
+17 
+Data Acquisition (“SCADA”)) to enable the needs of the business and 
+18 
+Central Hudson’s external stakeholders as stated in other testimony areas 
+19 
+within these rate filings.  The technology investments identified within this 
+20 
+testimony directly support the Company’s strategic initiatives to: 1) Provide 
+21 
+a seamless customer experience; 2) Modernize/Transform Business 
+22 
+
+
+--- Page 8 ---
+Case 23-E-____; Case 23-G-____ 
+ 
+DIRECT TESTIMONY OF THE TECHNOLOGY CAPITAL AND 
+OPERATIONS PANEL 
+6 
+ 
+Operations to continue to provide safe, efficient, and reliable service to 
+1 
+Central Hudson customers; 3) Transform Safety Culture; and 4) Workforce 
+2 
+Development, Attraction & Retention.  The 2024-2028 Capital Budget 
+3 
+Book (“Capital Budget Book”) filed on June 30, 2023, in Case 20-E-0428 
+4 
+and 20-G-0429 provides further support for each project above $1.0 
+5 
+million as well as discussion of the entire Five-Year Capital Plan.    
+6 
+Q. 
+Is the Technology Capital and Operations Panel sponsoring any exhibits 
+7 
+in support of its testimony? 
+8 
+A. 
+Yes.  This Panel is sponsoring the following exhibits that were prepared by 
+9 
+or under the direction of the Panel or one of its members: 
+10 
+Confidential Exhibit __ (TCOP-1) – Mainframe Risk Response Plan. 
+11 
+Exhibit __ (TCOP-2) – Technology Lifecycle Management 
+12 
+ 
+13 
+III. 
+OVERVIEW OF IT CAPITAL FORECAST 
+14 
+Q. 
+Can you please further describe the Five-Year Technology Capital Plan?  
+15 
+A. 
+The Five-Year Capital Plan  is $235.4 million (with Allowance for Funds 
+16 
+Used During Construction (“AFUDC”)).  The table below summarizes the 
+17 
+investments by category and year.  
+18 
+ 
+19 
+ 
+20 
+ 
+21 
+
+
+--- Page 9 ---
+Case 23-E-____; Case 23-G-____ 
+ 
+DIRECT TESTIMONY OF THE TECHNOLOGY CAPITAL AND 
+OPERATIONS PANEL 
+7 
+ 
+2024-2028 Forecast ($000s) 
+1 
+Category 
+Budget Category Description 
+2024 
+2025 
+2026 
+2027 
+2028 
+5 Year 
+Total 
+Rate 
+Year 
+4230 
+EMS 
+(Energy Management System) 
+5,883 
+3,526 
+3,646 
+3,373 
+1,249 
+17,676 
+4,466 
+4222 
+EDP 
+(Electronic Data Processing – 
+5,706 
+3,392 
+6,144 
+3,328 
+3,489 
+22,058 
+4,293 
+4220 
+Software 
+25,144 
+30,274 
+25,473 
+26,093 
+48,653 
+155,638 
+24,704 
+4240 
+Security 
+906 
+554 
+427 
+489 
+554 
+2,930 
+639 
+44 
+Communications 
+9,559 
+8,662 
+10,051 
+4,404 
+4,442 
+37,119 
+10,853 
+ 
+TOTAL 
+47,198 
+46,408 
+45,741 
+37,687 
+58,387 
+235,421 
+44,955 
+ 
+2 
+The capital forecast includes the investments necessary to support the 
+3 
+four strategic initiatives outlined above.  The average annual investment of 
+4 
+$47 million is driven by investments required to fulfill the strategic 
+5 
+initiatives mentioned above as well as increased investments in Customer 
+6 
+Experience Optimization, Cybersecurity, Infrastructure Hardening & 
+7 
+Resiliency. 
+8 
+Q. 
+Can you describe the process used for identifying and prioritizing the 
+9 
+technology investments within the Five-Year Capital Plan?  
+10 
+A. 
+The Central Hudson Technology group collaborates and closely partners 
+11 
+with the 12 major areas responsible for Central Hudson operations to 
+12 
+create the prioritized portfolio of technology projects in the Five-Year 
+13 
+Capital Plan.  In 2022, the Technology group implemented an objective 
+14 
+prioritization framework to support the prioritization and selection of all 
+15 
+capital technology investments.  This framework, created in partnership 
+16 
+with the Company’s Technology Steering Committee (“TSC”) and Capital 
+17 
+Asset Review and Evaluation Committee (“CARE”), consists of six 
+18 
+
+
+--- Page 10 ---
+Case 23-E-____; Case 23-G-____ 
+ 
+DIRECT TESTIMONY OF THE TECHNOLOGY CAPITAL AND 
+OPERATIONS PANEL 
+8 
+ 
+attributes derived from qualifying questions that are used to evaluate and 
+1 
+classify project requests.  These questions receive equal weighting when 
+2 
+determining the priority of a request and are as follows: 
+3 
+ Does the project satisfy or fulfill a regulatory requirement? 
+4 
+ Does the project result in cost savings, cost avoidance, and/or 
+5 
+revenue for Central Hudson or its stakeholders? 
+6 
+ Does the project enhance Central Hudson’s customer 
+7 
+experience? 
+8 
+ Does the project improve or enhance safety and wellness for 
+9 
+Central Hudson employees, contractors, or the public? 
+10 
+ Does the project reduce risk, debt, or vulnerabilities (i.e., legal, 
+11 
+cybersecurity, technology, infrastructure)? 
+12 
+ Is the project included in the current rate case authorization? 
+13 
+Projects are evaluated on a scale of zero to six based on the number of 
+14 
+attributes the investment satisfies, creating a priority score.  Each project 
+15 
+is then evaluated for relative urgency and classified as an ‘immediate’, 
+16 
+‘moderate’, or ‘low’ urgency initiative.  The priority and urgency ratings 
+17 
+combined with Central Hudson’s classifications of ‘maintaining standards’, 
+18 
+‘system enhancements’, and ‘non-discretionary’ support the global ranking 
+19 
+and sequencing of projects within the portfolio.  Project ranking is 
+20 
+leveraged to determine which projects receive capital funding. 
+21 
+
+
+--- Page 11 ---
+Case 23-E-____; Case 23-G-____ 
+ 
+DIRECT TESTIMONY OF THE TECHNOLOGY CAPITAL AND 
+OPERATIONS PANEL 
+9 
+ 
+Additionally, project requests are evaluated to ensure overall alignment 
+1 
+with Technology strategic drivers.  These drivers are designed to ensure 
+2 
+that Central Hudson’s Technology investments align with industry best 
+3 
+practices, Central Hudson’s operational support capabilities, and 
+4 
+alignment with other factors such as risk and cost optimization: 
+5 
+ Cloud – this strategy supports the adoption of cloud technologies 
+6 
+for platforms whenever appropriate.  This approach aligns with 
+7 
+industry trends in that it minimizes software development and 
+8 
+infrastructure overhead, enables rapid scalability, enables 
+9 
+frequent and periodic software upgrades to provide additional 
+10 
+functionality and address security vulnerabilities. 
+11 
+ Mobility – this strategy focuses on equipping Central Hudson and 
+12 
+its customers with the ability to access data, applications, and 
+13 
+services anytime, anywhere, and from any-device with the proper 
+14 
+credentials.  The strategy supports mobile computing and 
+15 
+communication, while ensuring security, data privacy, and 
+16 
+compliance controls are in place.   
+17 
+ Sustainability, Reliability, & Rationalization – this strategy supports 
+18 
+efforts that enhance Central Hudson’s ability to sustain business 
+19 
+operations or improve the reliability of key technologies.  In 
+20 
+alignment with industry best practices, Central Hudson has an 
+21 
+obligation to continuously ensure that its technology assets are at 
+22 
+
+
+--- Page 12 ---
+Case 23-E-____; Case 23-G-____ 
+ 
+DIRECT TESTIMONY OF THE TECHNOLOGY CAPITAL AND 
+OPERATIONS PANEL 
+10 
+ 
+current vendor-supported versions (N or N-1) to prevent 
+1 
+functionality and cybersecurity risks.  This strategy also focuses 
+2 
+on consolidating (minimizing) redundant legacy applications 
+3 
+whenever possible in favor of  centralized enterprise-wide 
+4 
+solutions. 
+5 
+ Cyber & Information Security – this strategy focuses on reducing 
+6 
+technical risk and vulnerabilities, supporting data privacy and 
+7 
+Central Hudson’s overall cybersecurity posture. 
+8 
+ Process Automation – this strategy aims to automate, streamline, 
+9 
+and optimize business processes wherever possible to reduce 
+10 
+errors, delays, and inefficiencies while increasing overall 
+11 
+productivity and potentially reducing cost. 
+12 
+Leaders from each of the 12 operational areas meet regularly as a 
+13 
+collective Technology Steering Committee to review and approve the 
+14 
+investments in the Technology portfolio in alignment with the strategic 
+15 
+plan.  The Technology Steering Committee, chaired by the Chief 
+16 
+Technology Officer, is also responsible for approving any changes to the 
+17 
+plan.  This prioritization process will continue to mature as incremental 
+18 
+improvements are made in the upcoming years.  The capital plan within 
+19 
+this testimony has been created and reviewed in accordance with this 
+20 
+process. 
+21 
+ 
+22 
+
+
+--- Page 13 ---
+Case 23-E-____; Case 23-G-____ 
+ 
+DIRECT TESTIMONY OF THE TECHNOLOGY CAPITAL AND 
+OPERATIONS PANEL 
+11 
+ 
+IV. 
+CUSTOMER EXPERIENCE 
+1 
+Q. 
+Please provide an update on Central Hudson’s efforts to stabilize the 
+2 
+Customer Information and Billing system since its implementation in 2021. 
+3 
+A. 
+In alignment with the testimony and exhibits of the Customer Experience 
+4 
+Panel, the SAP Customer Information System (“CIS”) will achieve 
+5 
+stabilization in 2023 with the completion of key business and technology 
+6 
+initiatives, mapped to specific drivers.  Through collective efforts across 
+7 
+the Company, Central Hudson continues to remediate key bill calculation 
+8 
+and printing issues and continues to ensure customer billing cycles return 
+9 
+to thresholds that were in place prior to the SAP CIS implementation.   
+10 
+Q. 
+What further improvements to the SAP CIS will occur during the Rate 
+11 
+Year? 
+12 
+A. 
+In alignment with the testimony of the Customer Experience panel, Central 
+13 
+Hudson shifted focus in Q1 of 2023 towards optimizing the SAP solution 
+14 
+and related business processes.  These optimizations include the 
+15 
+implementation of Dunning (collections) automation within SAP and 
+16 
+implementing enhancements that will reduce the manual workload that 
+17 
+currently exists within the Business.  The SAP Dunning implementation 
+18 
+requires approximately $1 million of capital investment in the Rate Year.  
+19 
+This expenditure is within the Software Budget Category and is a 
+20 
+continuation of prior expenditures.  The Company will ensure the following 
+21 
+lessons learned from the SAP CIS modernization (ERP Phase II) initiative 
+22 
+
+
+--- Page 14 ---
+Case 23-E-____; Case 23-G-____ 
+ 
+DIRECT TESTIMONY OF THE TECHNOLOGY CAPITAL AND 
+OPERATIONS PANEL 
+12 
+ 
+are incorporated into the project.  These key lessons learned include:  1) 
+1 
+the addition of resources at least four months in advance of the Dunning 
+2 
+go-lives, 2) an increased investment in Organizational Change 
+3 
+Management (“OCM”) and Training for employees, 3) a higher frequency 
+4 
+of communication to impacted customers, and 4) rigid phase-gates that 
+5 
+include both business and IT components that need to be satisfied before 
+6 
+proceeding with going live.   
+7 
+These optimizations align with the Technology strategic drivers of 
+8 
+Sustainability & Reliability and Process Automation and will continue to 
+9 
+improve the effectiveness of the new billing system.       
+10 
+Q. 
+Will Central Hudson be taking steps to implement monthly meter reading 
+11 
+in place of bi-monthly meter reading? 
+12 
+A. 
+Yes.  In alignment with the Customer Experience Panel testimony and 
+13 
+Case 22-M-0645, Central Hudson will initiate a project to enable the 
+14 
+Company to transition to Monthly Meter Reading.  This business-driven 
+15 
+initiative requires a technology investment of approximately $1.1 million 
+16 
+and will involve business process, meter reading equipment, and software 
+17 
+changes.    
+18 
+Q. 
+What investments are included in this rate case filing that will further 
+19 
+improve Central Hudson’s billing operations and Customer Information 
+20 
+System? 
+21 
+
+
+--- Page 15 ---
+Case 23-E-____; Case 23-G-____ 
+ 
+DIRECT TESTIMONY OF THE TECHNOLOGY CAPITAL AND 
+OPERATIONS PANEL 
+13 
+ 
+A. 
+In alignment with the Customer Experience Panel’s testimony, Central 
+1 
+Hudson will continue to make significant investments in Customer 
+2 
+Information System and Billing capabilities during the Rate Year.  These 
+3 
+include the following: 
+4 
+ Completion of the remaining two phases of the SAP Automated 
+5 
+Dunning roll-out ($1.0 million in the Rate Year – Software Budget 
+6 
+Category).  
+7 
+ Planned version update to the SAP software ($1.9 million in the 
+8 
+Rate Year – Software Budget Category):  This required upgrade will 
+9 
+ensure the software continues to receive vendor support and 
+10 
+maintenance by remaining at a current software version.   
+11 
+ Payment & Billing Experience Improvements ($316,000 in the Rate 
+12 
+Year – Software Budget Category):  Central Hudson will begin to 
+13 
+make immediate improvements that have direct impacts on the 
+14 
+payment and billing experience of customers.  Initially, upgrades 
+15 
+will be made to show customers real-time payment status 
+16 
+compared to overnight or longer.  This will provide the customers 
+17 
+with assurance that payments update to their account in a timely 
+18 
+manner.  
+19 
+ The roll-out of additional functionality in SAP to enable the Low 
+20 
+Power Attachment Program, Gas Block Bill display changes 
+21 
+(changes to remove the unnecessary lines after the full phase out 
+22 
+
+
+--- Page 16 ---
+Case 23-E-____; Case 23-G-____ 
+ 
+DIRECT TESTIMONY OF THE TECHNOLOGY CAPITAL AND 
+OPERATIONS PANEL 
+14 
+ 
+has occurred), and Standby Billing Rates ($1.9 million in the Rate 
+1 
+Year – Software Budget Category). 
+2 
+ Customer Bill Re-design ($650,000 in the Rate Year and $3.5 
+3 
+million within the five-year capital plan – Software Budget 
+4 
+Category): A customer bill redesign is planned for 2025 that will 
+5 
+simplify the information on a customers’ bill both paper and digitally.  
+6 
+Part of this project will include creating and providing bills, forms, 
+7 
+and letters in Spanish for customers in which Spanish is their 
+8 
+preferred language.   
+9 
+Q. 
+What investments are included in these rate case filings that will further 
+10 
+improve Central Hudson’s customer experience? 
+11 
+A. 
+In alignment with the Customer Experience Panel testimony, Central 
+12 
+Hudson will continue significant investments in the Digital Customer 
+13 
+Experience area.  Within the Rate Year, the Customer Service roadmap 
+14 
+includes $5.3 million to further improve customer payment experience with 
+15 
+Interactive Voice Response (“IVR”) Modernization, enhanced payment 
+16 
+experience, bill re-design and enhancement, website and mobile 
+17 
+application improvements including a dedicated experience for 
+18 
+commercial customers, and a centralized notification system.     
+19 
+ Interactive Voice Response (“IVR”) Modernization and Workforce 
+20 
+Management System ($1.7 million in the Rate Year and $3.4 million 
+21 
+during 2024/2025 – Software Budget Category).  Central Hudson 
+22 
+
+
+--- Page 17 ---
+Case 23-E-____; Case 23-G-____ 
+ 
+DIRECT TESTIMONY OF THE TECHNOLOGY CAPITAL AND 
+OPERATIONS PANEL 
+15 
+ 
+will launch an initiative to improve customer contact center 
+1 
+experience with the replacement of the current IVR system.  The 
+2 
+current on-premise IVR solution is limited in its ability to easily 
+3 
+make changes to the routing and handling of calls during high-
+4 
+volume or storm situations and in its ability to provide modernized 
+5 
+contact center functionality.  The new cloud-based IVR solution will 
+6 
+enable features such as Voice Recognition, and VoiceBots that will 
+7 
+augment contact center live agent support by providing self-service 
+8 
+voice capabilities for customers.  Features like Visual IVR will also 
+9 
+be implemented, to provide Contact Center agents with additional 
+10 
+information on customer calls to improve overall experience.   
+11 
+ Customer Web and Mobile Technology Improvements ($3.6 million 
+12 
+in the Rate Year within the Software Budget Category).  Central 
+13 
+Hudson will continue investments in web and mobile technologies 
+14 
+to create a seamless customer experience throughout the 
+15 
+upcoming Rate Year.  First, the Company will be evaluating all 
+16 
+customer-facing digital channels for alignment with Americans with 
+17 
+Disabilities Act standards.  This evaluation will identify any gaps to 
+18 
+allow future enhancements to be in alignment with standards for 
+19 
+customers with disabilities.  Second, the Company will be 
+20 
+redesigning the MyAccount page on its website as well as the 
+21 
+mobile application.  Approximately 60% of customers have an 
+22 
+
+
+--- Page 18 ---
+Case 23-E-____; Case 23-G-____ 
+ 
+DIRECT TESTIMONY OF THE TECHNOLOGY CAPITAL AND 
+OPERATIONS PANEL 
+16 
+ 
+active online account with Central Hudson.  Efforts are being made 
+1 
+to capture additional customers through various outreach channels.  
+2 
+These customers access their accounts via their MyAccount page 
+3 
+for information about their bills, make payments, and to enroll in a 
+4 
+variety of programs.  Concurrently with bill redesign efforts, the 
+5 
+MyAccount page will reflect a more modern appearance with easy-
+6 
+to-understand information.  In addition to this effort, push 
+7 
+notifications will be implemented through the mobile application.  
+8 
+Customer response rates to communication via a mobile phone, for 
+9 
+example through SMS texting, have proven to be an extremely 
+10 
+effective tool. Third, the Company will implement new website 
+11 
+features, such as additional Energy Calculators.   
+12 
+The improvements to Customer Service business process, SAP, and 
+13 
+omni-channel technologies align with the Technology strategic drivers of 
+14 
+Cloud, Mobility, and Process Automation and will provide Central Hudson 
+15 
+customers with a modern, efficient, and high-quality customer experience. 
+16 
+ 
+17 
+V. 
+BUSINESS MODERNIZATION / TRANSFORMATION 
+18 
+Q. 
+Please describe why the ERP Phase III project previously approved in the 
+19 
+2021 Rate Plan was postponed and is now proposed to begin in 2027. 
+20 
+A. 
+Central Hudson postponed the implementation of the next phase of the 
+21 
+ERP Transformation to focus efforts on stabilizing the SAP Customer 
+22 
+
+
+--- Page 19 ---
+Case 23-E-____; Case 23-G-____ 
+ 
+DIRECT TESTIMONY OF THE TECHNOLOGY CAPITAL AND 
+OPERATIONS PANEL 
+17 
+ 
+Information System (“CIS”), implementing optimizations to improve 
+1 
+business operations, and to allow time for more robust planning to be 
+2 
+incorporated into the next phase.  Stabilization of CIS and the remediation 
+3 
+of customer billing issues has been a top focus of the Company since go-
+4 
+live in 2021.        
+5 
+Q. 
+Please describe the goals of the ERP Phase III Assessment and Project 
+6 
+Readiness work proposed to be completed in 2025-2026. 
+7 
+A. 
+Central Hudson will execute an ERP Assessment in 2025-2026 to: 
+8 
+ analyze current state applications and interfaces, business processes 
+9 
+and reporting;  
+10 
+ Scope the future state solution for Finance and ERP business 
+11 
+software, including a new General Ledger design; 
+12 
+ perform necessary data cleansing and mapping of existing data from 
+13 
+the current state to the future state;  
+14 
+ define project scope, particularly with regards to where to divide 
+15 
+applications that impact both Finance versus Enterprise Work and 
+16 
+Asset Management (“EWAM”);  
+17 
+ develop a staffing plan including identification of key business 
+18 
+resources and timeframe needed to hire additional resources to train 
+19 
+and transfer knowledge prior to project kick-off;  
+20 
+ develop a bottom-up project cost estimate in alignment with Case 21-
+21 
+M-0541 Management Audit recommendations; and  
+22 
+
+
+--- Page 20 ---
+Case 23-E-____; Case 23-G-____ 
+ 
+DIRECT TESTIMONY OF THE TECHNOLOGY CAPITAL AND 
+OPERATIONS PANEL 
+18 
+ 
+ assess the readiness of the Company (culture, staffing, processes, 
+1 
+overall maturity) to start the next stage of its ERP Transformation.   
+2 
+Q. 
+Was there previously an assessment performed for EWAM and Finance? 
+3 
+A. 
+While an initial EWAM assessment was performed in 2019-2020, its scope 
+4 
+needs to be expanded to include the Finance component and the outputs 
+5 
+need to be refreshed due to changes made throughout the Company 
+6 
+since then and to create a more robust plan that incorporates industry best 
+7 
+practices in response to lessons learned from Phase II.  An initial estimate 
+8 
+for costs associated with the Assessment for ERP Phase III was approved 
+9 
+and included in the current rate order and included a one-way downward-
+10 
+only deferral associated with the costs of this assessment and Phase III of 
+11 
+the transformation.  As a result of the ERP Phase III delay, the Company 
+12 
+has fully deferred the revenue requirement effects of amounts included in 
+13 
+the current rate plan for future return to customers through inclusion in the 
+14 
+balance sheet offset as shown in the exhibits of the Revenue 
+15 
+Requirements Panel.  
+16 
+Q.    
+What is the current estimate for capital spending for the ERP Phase III 
+17 
+Assessment and Project Readiness? 
+18 
+A. 
+The 5-year capital plan includes $2.6 million for the ERP Phase III 
+19 
+Assessment and Project Readiness, included in the Software Budget 
+20 
+Category, including $0.9 million for internal resources and $1.7 million for 
+21 
+
+
+--- Page 21 ---
+Case 23-E-____; Case 23-G-____ 
+ 
+DIRECT TESTIMONY OF THE TECHNOLOGY CAPITAL AND 
+OPERATIONS PANEL 
+19 
+ 
+external contractor resources, consulting costs and other capital related 
+1 
+costs.  
+2 
+Q.    
+Is there expense work associated with the ERP Phase III Assessment and 
+3 
+Project Readiness that will occur within the term of the Rate Year? 
+4 
+A. 
+Yes.  The assessment and project readiness work are anticipated to begin 
+5 
+within the Rate Year and will require the assignment of 11 existing subject 
+6 
+matter experts and key business leaders to this assessment.  As a result, 
+7 
+the Company will require additional funding to hire new resources to fill the 
+8 
+vacated critical business roles, including allowance for a period of overlap 
+9 
+for the new and existing resources that provides for training and 
+10 
+knowledge transfer of day-to-day tasks and responsibilities prior to the 
+11 
+start of the Assessment engagement.  Central Hudson will begin hiring 
+12 
+these resources at the end of 2024 or beginning of 2025 in advance of the 
+13 
+assessment and project readiness kickoff to allow for adequate training 
+14 
+and transition.  As a result, this expense will be incurred in the Rate Year.  
+15 
+Q.    
+Are there additional expenses associated with the ERP Phase III 
+16 
+Assessment and Project Readiness work that are expected to occur 
+17 
+subsequent to the Rate Year? 
+18 
+A. 
+Yes.  First, a portion of the project team members’ time during the 
+19 
+assessment and project readiness work will be charged to expense based 
+20 
+on the nature of the work to be performed and in accordance with 
+21 
+accounting rules.  Second, the Company will perform a retrospective 
+22 
+
+
+--- Page 22 ---
+Case 23-E-____; Case 23-G-____ 
+ 
+DIRECT TESTIMONY OF THE TECHNOLOGY CAPITAL AND 
+OPERATIONS PANEL 
+20 
+ 
+review of the challenges experienced in the SAP CIS implementation 
+1 
+facilitated by an objective third party in alignment with industry best-
+2 
+practices to fully identify the steps that can be taken into consideration for 
+3 
+the next phase of the transformation.  Finally, similar to the need to hire 
+4 
+incremental resources in advance of transitioning existing employees to 
+5 
+the ERP Phase III Assessment and Project Readiness work, in order to 
+6 
+allow for adequate training and transition of responsibilities, the Company 
+7 
+needs to hire at least five  more incremental Accounting Technicians in 
+8 
+advance of the transfer of additional employees at the start of the ERP 
+9 
+Phase III Transformation project to support the project full-time.    
+10 
+Q.    
+Were the incremental labor and non-labor expenses identified above 
+11 
+included in the development of revenue requirements? 
+12 
+A. 
+No.  The incremental expense costs were not included in the development 
+13 
+of revenue requirements at this time.  Rather the Company is requesting 
+14 
+authorization to defer these costs as incurred for future recovery from 
+15 
+customers through an amortization or spreading of these costs over the 
+16 
+life of the system implemented once the system is complete and placed in 
+17 
+service.  Please refer to the testimony and exhibits of the Accounting and 
+18 
+Tax Panel testimony for cost estimates, additional discussion regarding 
+19 
+the incremental internal resources, and the proposed deferral and cost 
+20 
+recovery for the estimated expense component for ERP Phase III 
+21 
+Assessment and Project Readiness work.  
+22 
+
+
+--- Page 23 ---
+Case 23-E-____; Case 23-G-____ 
+ 
+DIRECT TESTIMONY OF THE TECHNOLOGY CAPITAL AND 
+OPERATIONS PANEL 
+21 
+ 
+Q.    
+Has the Company addressed risks related to continuing operations of the 
+1 
+Mainframe outlined in the 2020 rate filing? 
+2 
+A. 
+Yes, for more detail please see Confidential Exhibit __ (TCOP-1).  
+3 
+Q.    
+Please explain the other key Technology investments that support 
+4 
+Business & Operations Modernization / Transformation. 
+5 
+A. 
+Central Hudson will be making several investments in technologies that 
+6 
+are essential for modernizing business operations and maintaining 
+7 
+standards.  These investments support major initiatives such as Grid 
+8 
+Modernization, Communications, Technology Lifecycle Management to 
+9 
+maintain standards, Analytics Platform Expansion, GIS Modernization, 
+10 
+Gas Transformation, and Emergent initiatives.  Each are explained in 
+11 
+more detail below.  
+12 
+A. GRID MODERNIZATION 
+13 
+Q.    
+What key capital projects support the objectives of the Grid Modernization 
+14 
+program as defined in the Electric Capital and Operations Panel testimony 
+15 
+and how do these investments support the Company’s strategic initiative 
+16 
+of Business and Operations Modernization / Transformation? 
+17 
+A. 
+In alignment with the Electric Capital and Operations Panel’s testimony, 
+18 
+the following projects support the delivery of the Grid Modernization 
+19 
+program: 
+20 
+ Advanced Distribution Management System (“ADMS”) Modeling & 
+21 
+Enhancements West of River ($636,000 in the Rate Year and $1.2 
+22 
+
+
+--- Page 24 ---
+Case 23-E-____; Case 23-G-____ 
+ 
+DIRECT TESTIMONY OF THE TECHNOLOGY CAPITAL AND 
+OPERATIONS PANEL 
+22 
+ 
+million in 2024/2025 – EMS Budget Category) – Consistent with the 
+1 
+development of the ADMS model for the East of River in 2023, this 
+2 
+project is for the development of the ADMS model for the West of 
+3 
+River in 2024 and 2025.  The ADMS is a critical component of the 
+4 
+Company’s Grid Mod Program.  The Grid Mod program is 
+5 
+described in more detail in the Electric Capital and Operations 
+6 
+Panel’s testimony.  The ADMS model is the underlying geographic 
+7 
+database of all electric distribution system elements including their 
+8 
+associated electric properties and parameters.  In 2023, this model 
+9 
+was developed for the total of Central Hudson’s service territory 
+10 
+located on the east side of the Hudson River including the 
+11 
+Company’s Fishkill and Poughkeepsie Operating Districts.  In this 
+12 
+project for the West of River, a model will be developed for the total 
+13 
+of Central Hudson’s service territory located on the west side of the 
+14 
+Hudson River including the Company’s Newburgh, Kingston, and 
+15 
+Catskill districts.  In addition to supporting this strategic business 
+16 
+initiative, the investment aligns with the strategic Technology driver 
+17 
+of Sustainability & Reliability. 
+18 
+ “Grid Mod Communications – Kingston, Catskill, Newburgh” ($1.6 
+19 
+million in the Rate Year and $9.7 million throughout the five-year 
+20 
+capital plan– Communications Budget Category) – Central Hudson 
+21 
+owns and maintains a Field Area Network (“FAN”).  This mesh 
+22 
+
+
+--- Page 25 ---
+Case 23-E-____; Case 23-G-____ 
+ 
+DIRECT TESTIMONY OF THE TECHNOLOGY CAPITAL AND 
+OPERATIONS PANEL 
+23 
+ 
+network is also referred to as Central Hudson’s Network Strategy 
+1 
+Tier 2 Network.  The network is used to facilitate communications 
+2 
+with the Company’s Distribution Automation assets and is 
+3 
+supported by routers.  These Distribution Automation assets 
+4 
+include Reclosers, Capacitor Banks and Voltage Regulators.  This 
+5 
+network is complete in the Fishkill and Poughkeepsie Operating 
+6 
+Districts, and near complete in the Newburgh Operating District.  
+7 
+Central Hudson plans to complete the Newburgh Operating District 
+8 
+in 2024 ($1.2 million), the Catskill Operating district in 2025 ($2 
+9 
+million), and the Kingston Operating District in 2025 and 2026 ($6.5 
+10 
+million).  These investments will accomplish two objectives and 
+11 
+align with the Technology driver of Sustainability & Reliability.  First, 
+12 
+they allow Central Hudson to discontinue aging network 
+13 
+communications equipment that is currently provided at a high 
+14 
+operational cost by a third party.  Second, these investments will 
+15 
+improve the speed and reliability of the Central Hudson distribution 
+16 
+network communications to standards that are required to 
+17 
+recognize the value of Conservation Voltage Reduction (“CVR”) 
+18 
+and Volt/VAR Optimization (“VVO”) capabilities within the ADMS.  
+19 
+The ADMS and associated SCADA models provide centralized 
+20 
+control and efficient distribution throughout Central Hudson’s 
+21 
+service territory.  To the extent that areas of the FAN are not 
+22 
+
+
+--- Page 26 ---
+Case 23-E-____; Case 23-G-____ 
+ 
+DIRECT TESTIMONY OF THE TECHNOLOGY CAPITAL AND 
+OPERATIONS PANEL 
+24 
+ 
+meeting network performance standards, reinforcement projects 
+1 
+are recommended to improve performance.  The Grid 
+2 
+Modernization communication projects are a critical component of 
+3 
+the Company’s Grid Modernization Strategic Program.  The Grid 
+4 
+Modernization program is described in more detail in the Electric 
+5 
+Capital and Operations Panel’s testimony.  In addition to supporting 
+6 
+this strategic business initiative, the investment aligns with the 
+7 
+strategic Technology driver of Sustainability & Reliability. 
+8 
+ Outage Management System (“OMS”) – The OMS ensures 
+9 
+centralized management of electric outage restoration throughout 
+10 
+the service territory and is necessary to provide safe and reliable 
+11 
+service to customers.  The software also facilitates sharing of 
+12 
+outage status with customers, elected officials and the PSC.  The 
+13 
+current software vendor is discontinuing development and support 
+14 
+of its OMS application.  Central Hudson will activate the OMS 
+15 
+functionality within the ADMS and retire the current OMS 
+16 
+application.  This project is estimated at $1.1 million during the Rate 
+17 
+Year and $4.4 million throughout the five-year capital plan – EMS 
+18 
+Budget Category) in capital investment and aligns to the 
+19 
+Technology strategic driver of Sustainability & Reliability.  In 
+20 
+addition to supporting this strategic business initiative, the 
+21 
+
+
+--- Page 27 ---
+Case 23-E-____; Case 23-G-____ 
+ 
+DIRECT TESTIMONY OF THE TECHNOLOGY CAPITAL AND 
+OPERATIONS PANEL 
+25 
+ 
+investment aligns with the strategic Technology driver of 
+1 
+Sustainability & Reliability. 
+2 
+ 
+3 
+B. COMMUNICATIONS 
+4 
+Q.    
+Do  key Communications projects investments support the Company’s 
+5 
+strategic initiative of Business and Operations Modernization / 
+6 
+Transformation? 
+7 
+A. 
+Yes, the following projects support and maintain the Communications 
+8 
+network that enables Central Hudson to provide safe and reliable service 
+9 
+to its customers: 
+10 
+ Land Mobile Radio Replacement with  Digital Mobile Radio (“DMR”) 
+11 
+($4.5 million during the Rate Year – Communications Budget 
+12 
+Category):  Central Hudson currently owns and operates a VHF 
+13 
+legacy low band analog system termed the Land Mobile Radio 
+14 
+(“LMR”) System.  Central Hudson recognizes many difficulties for 
+15 
+continuing to maintain the LMR System including limited radio model 
+16 
+availability for replacements, extensive lead time on repairs, point to 
+17 
+point only capability, poor audio quality, poor coverage, lack of 
+18 
+management and surveillance software, radios sites served by  
+19 
+dedicated leased land lines soon to be discontinued, single audio 
+20 
+transmission, and poor equipment maintenance due to the lack of 
+21 
+radio technicians familiar with technology.  The end-of-life for base 
+22 
+
+
+--- Page 28 ---
+Case 23-E-____; Case 23-G-____ 
+ 
+DIRECT TESTIMONY OF THE TECHNOLOGY CAPITAL AND 
+OPERATIONS PANEL 
+26 
+ 
+radio equipment was in 2014 and new portable radios are no longer 
+1 
+commercially available.  Mobile radios are on a made to order basis 
+2 
+with extensive lead times over one year.  In 2021 and 2022, Central 
+3 
+Hudson conducted an R&D project to test DMR technology.  Results 
+4 
+from this R&D project were positive and led to a recommendation to 
+5 
+replace the existing LMR system with a new DMR system.  As part of 
+6 
+the second phase of the R&D project, the new DMR system will be 
+7 
+installed in the Fishkill district in 2023.  In 2024 and 2025, the new 
+8 
+DMR system will be installed in the remaining operating districts.  The 
+9 
+new radios are proving to have reliable and widespread coverage 
+10 
+throughout the service territory and are equipped with safety features 
+11 
+to aid lone workers in the event of an emergency in the field.  This 
+12 
+initiative supports the strategic initiatives of Business & Operations 
+13 
+Modernization / Transformation and Transform Safety Culture as well 
+14 
+as the Technology strategic driver of Cloud, Mobile, and Sustainability 
+15 
+& Reliability. 
+16 
+ Backhaul Optical Fiber ($1.9 million in the Rate Year and $5.0 million 
+17 
+throughout the five-year capital plan – Communications Budget 
+18 
+Category):  Central Hudson also owns and maintains a Wide Area 
+19 
+Network (“WAN”) communication network between its Electric 
+20 
+Substations, Gas Regulator Stations, District Offices, and various 
+21 
+gateway locations.  The physical layer of this communication network 
+22 
+
+
+--- Page 29 ---
+Case 23-E-____; Case 23-G-____ 
+ 
+DIRECT TESTIMONY OF THE TECHNOLOGY CAPITAL AND 
+OPERATIONS PANEL 
+27 
+ 
+is a combination of fiber optic cables and microwave links.  The fiber 
+1 
+optic cables are a combination of transmission Optical Ground Wire 
+2 
+(“OPGW”) and distribution All-Dielectric Self-Supporting (“ADSS”) 
+3 
+fiber.  Some of the ADSS is owned by Central Hudson and some is 
+4 
+available via long-term leases from carriers.  Additional locations have 
+5 
+been identified where optic fiber is needed to reinforce this 
+6 
+communication network and provide redundant communication paths 
+7 
+to increase system reliability or expand the communication network to 
+8 
+reach new Electric Substations, Gas Regulator Stations, or gateway 
+9 
+locations.  In addition to the business driver of Operations 
+10 
+Modernization, this investment aligns with the Technology strategic 
+11 
+driver of Sustainability & Reliability. 
+12 
+ Substation Upgrades ($769,000 in the Rate Year  –  Communications 
+13 
+Budget Category): Central Hudson Electric Substations and Gas 
+14 
+Regulator Stations traditionally have utilized leased phone circuits for 
+15 
+communications for services including voice circuits (POTs Lines), 
+16 
+SCADA circuits, and Protective Relay circuits.  These communication 
+17 
+circuits in many cases are predominately older copper-based  
+18 
+technology owned and maintained by AT&T and Verizon.  Central 
+19 
+Hudson has been notified that these circuits may be retired in the 
+20 
+coming years.  Carriers send Central Hudson a formal disconnect 
+21 
+notice for the discontinuation of a circuit(s).  Central Hudson must 
+22 
+
+
+--- Page 30 ---
+Case 23-E-____; Case 23-G-____ 
+ 
+DIRECT TESTIMONY OF THE TECHNOLOGY CAPITAL AND 
+OPERATIONS PANEL 
+28 
+ 
+then take immediate action when a formal disconnect notice is 
+1 
+received.  Central Hudson and the carriers often meet to discuss 
+2 
+plans for possible near future disconnects.  Accordingly, plans are 
+3 
+being executed to migrate away from the leased carrier circuits onto 
+4 
+Central Hudson’s internal communication network.  In addition to the 
+5 
+business driver of Operations Modernization, this investment aligns 
+6 
+with the Technology strategic driver of Sustainability & Reliability. 
+7 
+ 
+8 
+C. TECHNOLOGY LIFECYCLE MANAGEMENT 
+9 
+Q.    
+What are the key Technology Lifecycle Management projects and how do 
+10 
+these investments support the Company’s strategic initiative of Business 
+11 
+and Operations Modernization / Transformation? 
+12 
+A. 
+Central Hudson relies on 250+ business service offerings, 3,600 desktop 
+13 
+software applications, nearly 600 servers, and nearly 1,000 databases 
+14 
+Operations Technology (including but not limited to Control Centers and 
+15 
+Supervisory Control and Data Acquisition (“SCADA”)) and the underlying 
+16 
+network infrastructure to perform business processes and maintain 
+17 
+operations.  These assets require regular and consistent investments to 
+18 
+minimize cybersecurity vulnerabilities, ensure the workforce can continue 
+19 
+to perform key business functions, and maintain adequate vendor support.  
+20 
+The following table includes the key investments support the strategic 
+21 
+initiative of Business and Operations Modernization / Transformation by 
+22 
+
+
+--- Page 31 ---
+Case 23-E-____; Case 23-G-____ 
+ 
+DIRECT TESTIMONY OF THE TECHNOLOGY CAPITAL AND 
+OPERATIONS PANEL 
+29 
+ 
+ensuring that Central Hudson has the technology needed to provide safe 
+1 
+and reliable service to customers.  For further detail and support of these 
+2 
+projects see Exhibit __ (TCOP-2). 
+3 
+Category 
+Project 
+Rate Year 
+Expenditures 
+EDP 
+End User Hardware & Software 
+$1.3M 
+EDP 
+Infrastructure Hardware and Assets 
+$1.3M 
+Software 
+ArcGIS Portal web user licenses 
+$0.5M 
+Software 
+Mobile Workforce Management  
+$2.6M 
+Software 
+Inspection Manager and Gas Asset 
+Management System Upgrade 
+$0.3M 
+Software 
+Cascade Enhancements and 
+Upgrade 
+$0.3M 
+Software 
+Upgrade of Digital Circuit Mapping 
+capabilities 
+$0.5M 
+Software 
+TOA Upgrades & Enhancements 
+$0.1M 
+Software 
+Application Upgrades & 
+Enhancements 
+$0.5M 
+ 
+4 
+D. ANALYTICS PLATFORM EXPANSION 
+5 
+Q.    
+What technology capital investments supporting Analytics are included in 
+6 
+the Rate Year and how do these investments support the Company’s 
+7 
+strategic initiative of Business and Operations Modernization / 
+8 
+Transformation? 
+9 
+A. 
+As Central Hudson continues to leverage Technology to perform business 
+10 
+operations, the need for data intelligence and decision support tools 
+11 
+continues to grow.  In addition, external requirements, such as those 
+12 
+defined by the Integrated Energy Data Resource (“IEDR”) program, are 
+13 
+driving Central Hudson to invest in a platform that enables the extraction 
+14 
+of source data for analytics and reporting from multiple sources through a 
+15 
+
+
+--- Page 32 ---
+Case 23-E-____; Case 23-G-____ 
+ 
+DIRECT TESTIMONY OF THE TECHNOLOGY CAPITAL AND 
+OPERATIONS PANEL 
+30 
+ 
+single enterprise technology platform.  The IEDR program, filed under a 
+1 
+separate request in Case 20-M-0082, will fund the development of the 
+2 
+core platform used to support the requirements of the state-driven IEDR 
+3 
+program.  The IEDR program also includes the cost estimates associated 
+4 
+with the Phase 1 (IPV and MPV use cases) and Phase 2.  Central Hudson 
+5 
+plans to invest $4.3 million within the Rate Year for IEDR Phase I and 
+6 
+Phase II to provide the following benefits to both internal and external 
+7 
+stakeholders of Central Hudson: 
+8 
+ Decision-support: The Enterprise Analytics Platform will enable 
+9 
+Central Hudson to gain valuable insights into customer behavior, 
+10 
+market trends, safety performance, outage and restoration 
+11 
+timeframes, and internal operations, allowing the Company to make 
+12 
+more informed and data-driven decisions. 
+13 
+ Improved Customer Experience: By analyzing customer data, 
+14 
+Central Hudson will better understand their needs and preferences, 
+15 
+allowing them to provide personalized and targeted services and 
+16 
+products. 
+17 
+Overall, the Enterprise Data Analytics platform can help Central Hudson 
+18 
+make better decisions, operate more efficiently, and ultimately achieve 
+19 
+strategic goals more effectively.   
+20 
+The Enterprise Analytics Platform investment has been deferred from the 
+21 
+start date of 2021 as provided in the Company’s 2020 rate filings.  The 
+22 
+
+
+--- Page 33 ---
+Case 23-E-____; Case 23-G-____ 
+ 
+DIRECT TESTIMONY OF THE TECHNOLOGY CAPITAL AND 
+OPERATIONS PANEL 
+31 
+ 
+deferment of this initiative is driven by the timing associated with the   New 
+1 
+York State Energy Research and Development Authority (“NYSERDA”) 
+2 
+IEDR Program.  As the IEDR program schedule has been extended by 
+3 
+NYSERDA, Central Hudson has extended the project schedule, in kind, to 
+4 
+ensure the right long-term solution for data analytics is implemented in 
+5 
+alignment with IEDR target dates.  Central Hudson’s resource 
+6 
+requirements to support the analytics strategy as well as the  IEDR 
+7 
+requirements will be described  later in the testimony.  This investment 
+8 
+aligns with the Technology strategic driver of Cloud and Sustainability & 
+9 
+Reliability. 
+10 
+ 
+11 
+E. GIS MODERNIZATION 
+12 
+Q.    
+What GIS Modernization investments are included in the Rate Year and 
+13 
+how do these investments support the Company’s strategic initiative of 
+14 
+Business and Operations Modernization / Transformation? 
+15 
+A. 
+Central Hudson continues to invest in modernizing business processes 
+16 
+related to the Geographic Information System (“GIS”) mapping solution.   
+17 
+GIS is a computer-based system designed to capture, store, manipulate, 
+18 
+analyze, manage, and present spatial or geographic data.  GIS integrates 
+19 
+various types of data such as maps, aerial photographs, satellite imagery, 
+20 
+and other spatial data sources, to create meaningful insights and solve 
+21 
+complex geographic problems. 
+22 
+
+
+--- Page 34 ---
+Case 23-E-____; Case 23-G-____ 
+ 
+DIRECT TESTIMONY OF THE TECHNOLOGY CAPITAL AND 
+OPERATIONS PANEL 
+32 
+ 
+GIS is used in a wide range of applications at Central Hudson and the  
+1 
+GIS system houses connected geometric models of Central Hudson’s gas 
+2 
+and electric distribution and transmission systems with detailed attributes 
+3 
+data for the facilities.  These models are used for digital mapping 
+4 
+purposes by office and field personnel for the operation and maintenance 
+5 
+of the Company’s facilities.  They are also used as data sources for a 
+6 
+number of integrated applications/systems including: 
+7 
+ Gas Inspection/Leak Management System 
+8 
+ Gas Engineering Flow Model Software 
+9 
+ Gas Transmission Intrepid Compliance Management 
+10 
+ Electric Distribution Management System 
+11 
+ Electric Distribution Load/DER/Hosting Capacity Modeling 
+12 
+Software 
+13 
+ Fiber Network Management System 
+14 
+ Vegetation Management System 
+15 
+ Real Property Right of Way Management 
+16 
+ Municipal Portal Data Access 
+17 
+ Outage Management System 
+18 
+ Estimating Design AUD System 
+19 
+The following projects support key improvements to GIS-related business 
+20 
+functions that will help Central Hudson operate more effectively.   
+21 
+
+
+--- Page 35 ---
+Case 23-E-____; Case 23-G-____ 
+ 
+DIRECT TESTIMONY OF THE TECHNOLOGY CAPITAL AND 
+OPERATIONS PANEL 
+33 
+ 
+ 
+The GIS Utility Network Migration (UN - Upgrade and enhance ArcGIS to 
+1 
+ArcGIS PRO (for Phase 1 Gas, Phase 2 Electric; Phase 3 Fiber) supports 
+2 
+key improvements to GIS-related business functions through expenditures 
+3 
+of $855,000 within the Rate Year and 3.4 million –during the five-year 
+4 
+capital plan within the Software Budget Category.  This project is aimed at 
+5 
+migrating the Company’s gas, electric and fiber models into ESRI’s new 
+6 
+Utility Network data model.  ESRI has a planned sunset date for all 
+7 
+ArcGIS Desktop based software applications and with the upgrade to their 
+8 
+ArcGIS Professional product will also be phasing out support for the 
+9 
+ArcFM models Central Hudson’s data is stored in.  This project is aimed at 
+10 
+migrating the existing data to the new models and re-building all existing 
+11 
+interfaces so that the old data models can be retired.  This will ensure 
+12 
+continued support for the latest GIS technology being deployed by the 
+13 
+vendor now and in the future.  This investment aligns with the Technology 
+14 
+strategic driver of Sustainability & Reliability. 
+15 
+ 
+16 
+F. EMERGENT INITIATIVES 
+17 
+Q.    
+Please explain the purpose of the ‘Emergent’ initiatives in the Capital Plan. 
+18 
+A. 
+Due to the continuous and rapid evolution of Business Needs, Information 
+19 
+Technology industry-driven changes, and Cybersecurity threats, emergent 
+20 
+capital funding is necessary to ensure Central Hudson’s ability to respond 
+21 
+proactively to risks and new requirements as they materialize.  Emergent 
+22 
+
+
+--- Page 36 ---
+Case 23-E-____; Case 23-G-____ 
+ 
+DIRECT TESTIMONY OF THE TECHNOLOGY CAPITAL AND 
+OPERATIONS PANEL 
+34 
+ 
+funding ensures that Central Hudson can execute as vendor software 
+1 
+continues to evolve and updates are released to repair or enhance 
+2 
+functionality.  These funds also allow Central Hudson to issue incremental 
+3 
+license purchases for new software users as the Company’s headcount 
+4 
+increases or business requirements change.  All requests for emergent 
+5 
+funding will route through the formal justification, prioritization, and 
+6 
+approval process used to create the 5-Year Capital Plan that was 
+7 
+described earlier in this testimony.  Central Hudson has reserved $1.1 
+8 
+million in emergent funding during the Rate Year in alignment with a 
+9 
+historical risk-based methodology to support these needs. 
+10 
+ 
+11 
+VI. 
+WORKFORCE DEVELOPMENT, ATTRACTION & RETENTION 
+12 
+Q.    
+Please explain the key Technology investments that support the 
+13 
+Company’s strategic initiative of Workforce Development, Attraction, and 
+14 
+Retention in the Capital Plan.   
+15 
+A. 
+Learning Management System Consolidation ($264,000 within the Rate 
+16 
+Year):  This initiative seeks to consolidate the multiple learning 
+17 
+management platforms leveraged throughout Central Hudson’s 
+18 
+operational areas onto an enterprise Learning Management System 
+19 
+(“LMS”).  This platform will serve as a centralized solution that facilitates 
+20 
+the delivery and tracking of all training for Central Hudson.  The solution 
+21 
+will support efficiencies pertaining to modernization of staff training and 
+22 
+
+
+--- Page 37 ---
+Case 23-E-____; Case 23-G-____ 
+ 
+DIRECT TESTIMONY OF THE TECHNOLOGY CAPITAL AND 
+OPERATIONS PANEL 
+35 
+ 
+workforce development overall and ahead of the next phase of the ERP 
+1 
+Transformation.  The project aligns with the Technology drivers of Cloud, 
+2 
+Mobile, and Sustainability & Reliability as well as reduces the number of 
+3 
+redundant software solutions that are in place supporting department-led 
+4 
+training. 
+5 
+The Learning Management System Consolidation is planned to launch 
+6 
+ahead of the completion of the new Learning Annex facility in Kingston.  
+7 
+As described in the Common Capital and Operations Panel, the intent of 
+8 
+this facility is to provide a modern, centralized, and suitable facility for the 
+9 
+delivery of hands-on training to the Central Hudson workforce.  The 
+10 
+Technology 5-Year Capital Plan includes a $664,000 investment, beyond 
+11 
+the Rate Year, in the IT infrastructure and equipment needed to 
+12 
+accommodate this facility.  The delivery of the Learning Management 
+13 
+System and Learning Annex supports the business drivers of Business & 
+14 
+Operations Modernization/Transformation and Workforce Restructuring 
+15 
+and aligns to the Technology strategic drivers of Cloud, Mobile, and 
+16 
+Sustainability & Reliability.   
+17 
+ 
+18 
+VII.TRANSFORM SAFETY CULTURE 
+19 
+Q.    
+Please explain the key Technology investments that support the 
+20 
+Company’s strategic initiative of Transform Safety Culture within the Rate 
+21 
+Year.  
+22 
+
+
+--- Page 38 ---
+Case 23-E-____; Case 23-G-____ 
+ 
+DIRECT TESTIMONY OF THE TECHNOLOGY CAPITAL AND 
+OPERATIONS PANEL 
+36 
+ 
+A. 
+As Central Hudson continues to rely on Information Technology to perform 
+1 
+business operations and deliver safe and reliable service, the need to 
+2 
+invest in Cybersecurity-focused initiatives continues to increase.  
+3 
+Cybersecurity investments ensure that information pertaining to the 
+4 
+Company’s critical assets, customer personally identifiable information 
+5 
+(“PII”), and other confidential areas are protected and safe from threats.  
+6 
+The following investments support Central Hudson’s efforts to maintain a 
+7 
+strong and proactive Cybersecurity posture to protect critical information 
+8 
+and ensure continuous remediation of vulnerabilities.   
+9 
+ ServiceNow Phase V - GRC Tool - Policy & Compliance Mgmt – In 
+10 
+alignment with standards set by Fortis, Inc., Central Hudson has 
+11 
+formally adopted the NIST Cybersecurity Framework (“CSF”) as its 
+12 
+Cybersecurity governance framework.  This industry standard 
+13 
+framework requires Central Hudson to centralize Governance, Risk, 
+14 
+and Compliance (“GRC”) tracking, which is currently being 
+15 
+performed manually across many different solutions, business 
+16 
+processes, and teams.  In formalizing a GRC framework, Central 
+17 
+Hudson expects to see improvement in overall quality of internal 
+18 
+processes, reduce risk exposure, and allow for better tracking of 
+19 
+regulatory and compliance needs within the Technology group.  In 
+20 
+support of this initiative, the ServiceNow’s Governance, Risk, 
+21 
+Compliance module provides policy and control tracking, risk 
+22 
+
+
+--- Page 39 ---
+Case 23-E-____; Case 23-G-____ 
+ 
+DIRECT TESTIMONY OF THE TECHNOLOGY CAPITAL AND 
+OPERATIONS PANEL 
+37 
+ 
+management, and audit management.  The Rate Year capital 
+1 
+investment of $264,000 is part of a first year investment of 
+2 
+$728,000 (2024), which is made up of $544,000 capital, $144,000 
+3 
+for a consultant to perform a cybersecurity assessment before tool 
+4 
+implementation and 12 months after, and $20,000 in estimated 
+5 
+expenses.  This initiative will aid Central Hudson’s Cybersecurity 
+6 
+Team in ensuring increasing maturity of processes, alignment to 
+7 
+modern and current NIST standards, allow for risk measurement 
+8 
+and reduction, and decreasing inefficiencies in manually tracking 
+9 
+regulatory and compliance requirements.  The GRC tool will include 
+10 
+ongoing annual costs of approximately $90,000 for maintenance 
+11 
+and support.  The initiative aligns to the Technology strategic 
+12 
+drivers of Cybersecurity & Information Management. 
+13 
+ Router Replacement Program ($1.3 million within the Rate Year) - 
+14 
+Central Hudson’s internal Wide Area Network (“WAN”) 
+15 
+communication network between its Electric Substations, Gas 
+16 
+Regulator Stations, District Offices, and various gateway locations 
+17 
+is supported with legacy routers.  These routers establish the MPLS 
+18 
+(Multi-Protocol Label Swap) communication network between the 
+19 
+identified facilities.  In 2022, the router manufacturer announced 
+20 
+that it was leaving the marketplace and identified an end of sale of 
+21 
+November 2022 and an end-of-manufacturer support for November 
+22 
+
+
+--- Page 40 ---
+Case 23-E-____; Case 23-G-____ 
+ 
+DIRECT TESTIMONY OF THE TECHNOLOGY CAPITAL AND 
+OPERATIONS PANEL 
+38 
+ 
+2027.  In response to this announcement, Central Hudson identified 
+1 
+replacement routers manufactured by an established, industry-
+2 
+leading vendor, and initiated an R&D project to test the 
+3 
+interoperability of the new routers in the current legacy router 
+4 
+network.  Central Hudson has developed a migration plan to phase 
+5 
+out the legacy equipment and replace it with new equipment.  This 
+6 
+investment aligns to the Technology strategic drivers of 
+7 
+Cybersecurity & Information Management and Sustainability & 
+8 
+Reliability.   
+9 
+ 
+10 
+VI. 
+TECHNOLOGY STAFFING REQUIREMENTS 
+11 
+Q.    
+What additions to headcount and staffing are necessary to execute the 
+12 
+Capital Plan described in this testimony? 
+13 
+A. 
+After careful evaluation of the current technology portfolio, past and future 
+14 
+project demand, and industry trends highlighting an increased business 
+15 
+reliance on informational technology, the following increases in headcount 
+16 
+are required to execute the Capital Plan and to provide sustainable 
+17 
+Technology operations to Central Hudson.  Incremental employees are 
+18 
+required to support and maintain the 250+ business service offerings, 
+19 
+3,600 desktop software applications, nearly 600 servers, nearly 1,000 
+20 
+databases, Operations Technology (including but not limited to Control 
+21 
+Centers and Supervisory Control and Data Acquisition (SCADA)), the 
+22 
+
+
+--- Page 41 ---
+Case 23-E-____; Case 23-G-____ 
+ 
+DIRECT TESTIMONY OF THE TECHNOLOGY CAPITAL AND 
+OPERATIONS PANEL 
+39 
+ 
+underlying network infrastructure, 200 technology vendors, and capital 
+1 
+investments that Central Hudson relies on to perform business operations 
+2 
+and provide safe, reliable service to customers.  The current staffing model 
+3 
+is unable to provide sustainable technology operations without a continued 
+4 
+reliance on long-term contractors to fill in support gaps.  Current 
+5 
+headcount is also not scalable to keep pace with the requirements of the 
+6 
+capital portfolio outlined within this testimony.  As a result, Central Hudson 
+7 
+needs to augment its internal staffing with both incremental positions to 
+8 
+support the growing business needs, as well as to transition some 
+9 
+contractor responsibilities to new internal employee resources.  The 
+10 
+positions listed below are necessary to achieve a sustainable and scalable 
+11 
+staffing model.     
+12 
+ (4) Business Relationship Managers (“BRM”) and (1) Enterprise 
+13 
+Architect (“EA”) – The group is responsible for managing 
+14 
+relationships with key business stakeholders across the 12 
+15 
+business and operational areas that the Central Hudson 
+16 
+Technology organization supports and identifying cost-effective, 
+17 
+enterprise technology solutions that meet business requirements.  
+18 
+Specifically, this proactively oriented group demonstrates effective 
+19 
+communication, collaboration, and partnership to facilitate 
+20 
+technology solution definition, project intake, prioritization, 
+21 
+estimating, Benefit Cost Analysis, documentation, and oversight of 
+22 
+
+
+--- Page 42 ---
+Case 23-E-____; Case 23-G-____ 
+ 
+DIRECT TESTIMONY OF THE TECHNOLOGY CAPITAL AND 
+OPERATIONS PANEL 
+40 
+ 
+post-project benefits realization.  The need for improvement in this 
+1 
+area, specifically in relation to Benefit Cost Analysis, which 
+2 
+compares benefits to costs of proposed projects to determine 
+3 
+overall feasibility, and project benefits realization has also been 
+4 
+highlighted as an area for improvement in Case 21-M-0541 
+5 
+Management Audit Recommendation 4.1 and the Company’s 
+6 
+associated implementation plan.  Please also refer to Exhibit (RRP-
+7 
+5) sponsored by the Revenue Requirements Panel.  These 
+8 
+resources, except for 1 BRM as noted below, will be hired during 
+9 
+the bridge period as they are needed to make widespread 
+10 
+improvements in this area.  An initial focus will be to determine 
+11 
+ways to rationalize, consolidate, and synergize the 250+ business 
+12 
+service offerings the Technology group supports, which are 
+13 
+anticipated to  result in long term cost savings and efficiencies.  
+14 
+These resources are essential to offset current gaps in capabilities, 
+15 
+deliver on the incremental new work described within this testimony 
+16 
+and essential to supporting the Company’s increased reliance on 
+17 
+technology.  
+18 
+It should be noted, (1) BRM is slated to be hired in the Rate Year to 
+19 
+support ERP Phase III Assessment and Project Readiness.  The 
+20 
+cost for this single position is therefore not included in the 
+21 
+development of revenue requirements, but rather aligns with the 
+22 
+
+
+--- Page 43 ---
+Case 23-E-____; Case 23-G-____ 
+ 
+DIRECT TESTIMONY OF THE TECHNOLOGY CAPITAL AND 
+OPERATIONS PANEL 
+41 
+ 
+prior discussion of that project’s deferral and recovery.  This 
+1 
+individual will continue to be essential to support future technology 
+2 
+needs of the Company beyond the development and 
+3 
+implementation of the ERP Phase III Transformation.   
+4 
+ (7) PMO / Project Management resources – The average annual 
+5 
+capital portfolio has grown 360% since 2017 and is forecasted to 
+6 
+remain at this level for the next five years and beyond.  
+7 
+Concurrently, the requirement to deliver high-quality, on-time, and 
+8 
+on-budget technology projects continues to increase as the 
+9 
+Company’s reliance on technology to perform operations expands.  
+10 
+Traditionally, Central Hudson has relied on contractor Project 
+11 
+Managers to deliver technology projects, however, the need for 
+12 
+Central Hudson to mature project management practices and 
+13 
+assign PMO-staffed Project Management resources to all capital 
+14 
+projects is necessary given the increased complexity of 
+15 
+Technology, overall cost of the technology portfolio, and 
+16 
+Company’s reliance on Technology to perform core business 
+17 
+processes.  PMO process maturity is an ongoing initiative at 
+18 
+Central Hudson and has also been highlighted in Case 21-M-0541 
+19 
+Management Audit Recommendation 4.5 and the Company’s 
+20 
+associated implementation plan.  Please also refer to Exhibit __ 
+21 
+(RRP-5) sponsored by the Revenue Requirements Panel.  While 
+22 
+
+
+--- Page 44 ---
+Case 23-E-____; Case 23-G-____ 
+ 
+DIRECT TESTIMONY OF THE TECHNOLOGY CAPITAL AND 
+OPERATIONS PANEL 
+42 
+ 
+the capital project portfolio continues to grow, Project Management 
+1 
+headcount needs to grow in order to keep pace with the demand for 
+2 
+higher quality and quantity of technology project deliveries.  To 
+3 
+ensure continuity of knowledge, remediate gaps in project 
+4 
+management capabilities, develop Project Management expertise, 
+5 
+and assign PMO Project Managers to all major projects in 
+6 
+alignment with Management Audit recommendations, the following 
+7 
+resources are required: 
+8 
+o (4) Project Managers.  These Project Managers will fill 
+9 
+staffing gaps and are required to drive the completion of the 
+10 
+capital projects within the Five-Year Capital Plan.  Two of 
+11 
+these positions will be filled in the bridge period, with the 
+12 
+other two following in the Rate Year. 
+13 
+o (1) Transformational Program Manager during the bridge 
+14 
+period of 2024 – This highly-skilled Program Leadership role 
+15 
+is responsible to drive Technology efforts associated with 
+16 
+high-profile strategic Technology initiatives that contain 
+17 
+multiple interdependent, complex projects.  Specifically, this 
+18 
+resource will oversee the following projects and supervise 
+19 
+related Project Managers within the 5-Year Capital Plan: The 
+20 
+SAP Customer Experience portfolio, the ERP Phase III 
+21 
+Assessment and Project Readiness, followed by ERP 
+22 
+
+
+--- Page 45 ---
+Case 23-E-____; Case 23-G-____ 
+ 
+DIRECT TESTIMONY OF THE TECHNOLOGY CAPITAL AND 
+OPERATIONS PANEL 
+43 
+ 
+Transformation Phase III Program Execution starting in 
+1 
+2027. 
+2 
+o (1) Project & Portfolio Management Administrator – Central 
+3 
+Hudson will be implementing an enterprise Project & 
+4 
+Portfolio Management (“PPM”) tool in 2024 to centralize the 
+5 
+facilitation of capital portfolio prioritization and planning as 
+6 
+well as management of scope, schedule, and cost 
+7 
+deliverables for active projects.  The tool will also facilitate 
+8 
+project estimating, resource planning, workload utilization, 
+9 
+project task assignment, and decision-support.  To ensure 
+10 
+the continued effectiveness of this tool, a full-time Project & 
+11 
+Portfolio Management Administrator is required.  The 
+12 
+implementation and utilization of PPM supports the strategic 
+13 
+Initiatives of Business & Operations 
+14 
+Modernization/Transformation and Workforce Development, 
+15 
+Attraction, & Retention, and aligns with the Technology 
+16 
+strategic drivers of Process Automation and Sustainability & 
+17 
+Reliability, consistent with Case 21-M-0541 Management 
+18 
+Audit Recommendation 4.4 and the Company’s associated 
+19 
+implementation plan.  Please also refer to Exhibit __ (RRP-
+20 
+5) sponsored by the Revenue Requirements Panel.  This 
+21 
+
+
+--- Page 46 ---
+Case 23-E-____; Case 23-G-____ 
+ 
+DIRECT TESTIMONY OF THE TECHNOLOGY CAPITAL AND 
+OPERATIONS PANEL 
+44 
+ 
+new tool will require the incremental resource to be hired in 
+1 
+the bridge period. 
+2 
+o (1) Organizational Change Management (“OCM”) & 
+3 
+Technology Training Lead – In order for the initiatives within 
+4 
+the 5-Year Capital Plan to be fully effective, Central Hudson 
+5 
+business users need to be trained and ready to use the 
+6 
+technologies being implemented or enhanced.  The OCM 
+7 
+and Technology Training Lead will be hired in the bridge 
+8 
+period and is responsible for overseeing the creation and 
+9 
+delivery of communication and training pertaining to 
+10 
+technology initiatives.  The value of OCM lies in its ability to 
+11 
+help organizations effectively plan, communicate, and 
+12 
+implement changes while minimizing resistance, reducing 
+13 
+negative impacts on employee morale and productivity, and 
+14 
+achieving the desired outcomes of the change.  OCM 
+15 
+strategies and techniques can increase the success rate of 
+16 
+change initiatives within the 5-Year Capital Plan, improve 
+17 
+stakeholder engagement, and increase the likelihood that 
+18 
+individuals and teams will be willing to embrace and support 
+19 
+the changes being made. 
+20 
+These resources are essential to offset current gaps in capabilities, 
+21 
+deliver on the incremental new work described within this testimony 
+22 
+
+
+--- Page 47 ---
+Case 23-E-____; Case 23-G-____ 
+ 
+DIRECT TESTIMONY OF THE TECHNOLOGY CAPITAL AND 
+OPERATIONS PANEL 
+45 
+ 
+and essential to supporting the Company’s reliance on technology, as 
+1 
+well as offset work performed by long-term contractors.     
+2 
+ 
+(4) Data Analytics Specialists – These resources are required to 
+3 
+build and operate the long-term Enterprise Analytics Platform 
+4 
+described earlier in this testimony.  These resources will be hired in 
+5 
+the bridge period and include: 
+6 
+o Data & Analytics Program Manager 
+7 
+o Data Engineers (2) 
+8 
+o Analytics Reporting Developer   
+9 
+This staff is required to support the incremental work required to 
+10 
+fulfill the objectives of the IEDR Program and is consistent with 
+11 
+Central Hudson’s regulatory filing to support the IEDR program and 
+12 
+the revised Phase 2 IEDR Budget filing.  
+13 
+ (4) Cybersecurity Analysts – To address the incremental workload 
+14 
+in Cybersecurity including the GRC and IDAM initiatives identified 
+15 
+above, two Cybersecurity Analysts were added in April 2023.  One 
+16 
+is planned for the first half of 2024 to support ongoing GRC 
+17 
+initiatives in creation of policy, standards, and architectural 
+18 
+requirements.  The second is planned for the first half of 2025 to 
+19 
+support Threat Intelligence, Detection, Response and support 
+20 
+adoption of Security Orchestration, Automation, and Response. 
+21 
+
+
+--- Page 48 ---
+Case 23-E-____; Case 23-G-____ 
+ 
+DIRECT TESTIMONY OF THE TECHNOLOGY CAPITAL AND 
+OPERATIONS PANEL 
+46 
+ 
+ (4) Operational Technology Analysts – To address the incremental 
+1 
+workload in Operational Technology including efforts associated 
+2 
+with a planned EMS Upgrade, the new Primary Control Center 
+3 
+buildout, the Grid Modernization Program, and the Outage 
+4 
+Management System project, two EMS Analysts were added in 
+5 
+April 2023 and May 2023, one OMS Analyst is planned for the first 
+6 
+half of 2024 and one OMS Analyst is planned for the first half of 
+7 
+2025.  The addition of the two EMS analyst positions is to bring 
+8 
+staffing to a sufficient level to provide coverage to Central Hudson 
+9 
+Critical Infrastructure and supporting systems.  In addition, the 
+10 
+future staffing of two OMS analysts is to implement and support the 
+11 
+outage management systems as it transitions to OT and integrates 
+12 
+into the Grid Modernization Program. 
+13 
+ (2) Service Desk Analysts – To expand and improve the service 
+14 
+provided to the business by the Service Desk, one End User 
+15 
+Compute Lead was added in April 2023 and one Service Desk 
+16 
+Technician was added in June 2023.  The Service Desk is critical 
+17 
+as the Company progresses with its digital transformation: 
+18 
+strategically (as well as tactically), the technology organization 
+19 
+needs to help make the first line of support as robust as possible.  
+20 
+This front-line organization, the Service Desk, is responsible for the 
+21 
+development of user facing knowledge as well as deflection of 
+22 
+
+
+--- Page 49 ---
+Case 23-E-____; Case 23-G-____ 
+ 
+DIRECT TESTIMONY OF THE TECHNOLOGY CAPITAL AND 
+OPERATIONS PANEL 
+47 
+ 
+incidents that can either be handled via self-service mechanisms, 
+1 
+or by a member of the Service Desk.  As a complement to 
+2 
+bolstering the Service Desk, Central Hudson intends to create a 
+3 
+24/7 IT support organization which will provide service during hours 
+4 
+that are not traditionally worked by the IT organization but are 
+5 
+staffed by the business.  It would also serve as a triage and 
+6 
+escalation pathway for emergency support and direct engagement 
+7 
+of L2/L3 support.  
+8 
+ (1) ServiceNow Administrator – The Company continues to expand 
+9 
+the use of the ServiceNow platform.  The Company intends to 
+10 
+expand the use of existing modules as well as enable additional 
+11 
+modules.  Plans for the platform include incorporating the GRC 
+12 
+module, expansion and enhancing the CMDB with Service 
+13 
+Mapping, as well as implementing the Security Operations module.  
+14 
+The ServiceNow Administrator is planned to be added in June 2023 
+15 
+and will bring a bastion of knowledge and practices, as well as 
+16 
+passion for the platform that will help its growth and adoption – 
+17 
+which will in turn, streamline operations and introduce more 
+18 
+transparency. 
+19 
+ (1) System Specialist Project Leaders – There is a current vacancy 
+20 
+within the Cloud and Enterprise Services team.  The Project Leader 
+21 
+would oversee a high-performing team of platform specific subject-
+22 
+
+
+--- Page 50 ---
+Case 23-E-____; Case 23-G-____ 
+ 
+DIRECT TESTIMONY OF THE TECHNOLOGY CAPITAL AND 
+OPERATIONS PANEL 
+48 
+ 
+matter-experts which support SaaS products like the M365 suite, 
+1 
+Workday HRIS, Service Now, as well as platforms that are 
+2 
+converting from on-premise solutions to SaaS/PaaS solutions like 
+3 
+GTS.  This position will provide vision and direction for the 
+4 
+corresponding product owners and provide a consolidated reporting 
+5 
+structure for enterprise services that are uniquely positioned within 
+6 
+cloud platforms.  This role would actively partner with business 
+7 
+stakeholders to ensure alignment of service delivery to business 
+8 
+expectations.  One of the outcomes from the Management Audit 
+9 
+was a demonstrable need for increased engagement with the 
+10 
+business in the form of surveys and workshops.  This project leader 
+11 
+will be a key resource in facilitating the execution of these surveys 
+12 
+and workshops as well as implementing the resulting feedback.  It 
+13 
+is anticipated that the Project Leader position will be filled in 2023.     
+14 
+ (2) Network Analysts – To support the increased workload of 
+15 
+planned and ongoing projects in the Networking group.  Examples 
+16 
+of these projects are: The legacy router replacement program 
+17 
+which is an in place replacement of the existing CHGE Operational 
+18 
+Technology network Tier1 network hardware required as the legacy 
+19 
+manufacturer leaving this space.  This effort requires the design 
+20 
+and replacement of over 180 routers.  It includes the design and 
+21 
+testing of new serial communications (over 48 circuits) methods for 
+22 
+
+
+--- Page 51 ---
+Case 23-E-____; Case 23-G-____ 
+ 
+DIRECT TESTIMONY OF THE TECHNOLOGY CAPITAL AND 
+OPERATIONS PANEL 
+49 
+ 
+substation control, new Core Site connectivity and management 
+1 
+systems.  The Network Segmentation program is an ongoing effort 
+2 
+where the CHGE network infrastructure is being replaced to enable 
+3 
+Network Segmentation on over 114 network switches and 4092 
+4 
+network connections.  This process includes replacing network 
+5 
+switches where required, developing access policies for devices 
+6 
+and users, and creating the appropriate security controls.  The PCC 
+7 
+is where a new control facility is being built.  This requires the 
+8 
+planning and design of a new Data Center for CHGE that will house 
+9 
+Operational Technology systems as well as Corporate Data Center 
+10 
+resources.  To support this one Network Analyst was added in May 
+11 
+2023 and one is planned for the second half of 2023. 
+12 
+ (6) Infrastructure Support Analysts - To support the increased 
+13 
+workload associated with the Vulnerability Management Program, 
+14 
+an Infrastructure Virtualization Analyst was added in April 2023.  
+15 
+The Company plans on adding a Senior Database Administrator 
+16 
+and two Infrastructure Support Analysts (generalists).  The 
+17 
+additional analysts and database administrator, all of whom will be 
+18 
+hired in the bridge period, will enhance the current workload and 
+19 
+take on the additional workload by performing the following: level 2 
+20 
+application support, system patching, application patching, 
+21 
+database tuning and patching, disaster recovery tasks, server 
+22 
+
+
+--- Page 52 ---
+Case 23-E-____; Case 23-G-____ 
+ 
+DIRECT TESTIMONY OF THE TECHNOLOGY CAPITAL AND 
+OPERATIONS PANEL 
+50 
+ 
+upgrades, database moves, creating additional application servers 
+1 
+as necessary and troubleshooting application/database issues.  In 
+2 
+addition, two mainframe Support Analysts will be hired in the bridge 
+3 
+period to replace two full-time resources that are planned to retire in 
+4 
+2023 and 2024.  These analysts are essential to maintaining 
+5 
+standards and extending mainframe operations in alignment with 
+6 
+testimony provided earlier regarding the extension of the Mainframe 
+7 
+beyond this upcoming rate period. 
+ 
+8 
+ (6) SAP Specialists – During the implementation of Central 
+9 
+Hudson’s SAP CIS and through stabilization of the system, Central 
+10 
+Hudson relied on contractor SAP experts to augment some of its 
+11 
+existing staff as they trained and transitioned to the new platform 
+12 
+support.  As SAP is a business-critical system to Central Hudson, 
+13 
+the addition of these full time resources, both to replace existing 
+14 
+contractor staff as well as fill gaps for the increased workload to 
+15 
+support SAP capital projects described above, is essential.  To 
+16 
+ensure the success of these SAP capital projects and the continued 
+17 
+stability and support of the SAP CIS system, the following 
+18 
+resources are required and will be hired during the bridge period: 
+19 
+o SAP Release & Development Manager 
+20 
+o SAP ABAP Developers (2) 
+21 
+o SAP Billing & Rates Configurator 
+22 
+
+
+--- Page 53 ---
+Case 23-E-____; Case 23-G-____ 
+ 
+DIRECT TESTIMONY OF THE TECHNOLOGY CAPITAL AND 
+OPERATIONS PANEL 
+51 
+ 
+o SAP Middleware Developer 
+1 
+o SAP Analytics Cloud Reports Developer 
+2 
+ (4) Software Quality Assurance & Testing Analysts – To support 
+3 
+best practice Testing Center of Excellence and implement from 
+4 
+lessons learned, full time testing lead resources are required to 
+5 
+maintain in-house knowledge for improved and more robust  
+6 
+testing.  These resources will also work with the business to ensure 
+7 
+User Acceptance Testing (“UAT”) performed by the business is 
+8 
+thorough, complete and maps back to all requirements.  With the 
+9 
+increasing volume of capital projects over the next five years, each 
+10 
+of these projects will require extensive testing phases.  The key 
+11 
+areas of focus identified for Test QA Analyst resources and timing 
+12 
+of hire to align with the proposed Capital Expenditure plan are: 
+13 
+o CIS & Digital Customer Experience Test QA Analyst – Hired 
+14 
+in Rate Year (“RY”) 
+15 
+o Analytics Test and QA Analyst -Needed subsequent to RY 
+16 
+o Financial Test QA Analyst – Needed subsequent to RY 
+17 
+o Outage and EWAM Test QA Analyst – Needed subsequent 
+18 
+to RY 
+19 
+ (3) Web Developers – To fill gaps associated with vacating web 
+20 
+development resources, Central Hudson has relied on contractor 
+21 
+web and mobile app development resources.  However, to support 
+22 
+
+
+--- Page 54 ---
+Case 23-E-____; Case 23-G-____ 
+ 
+DIRECT TESTIMONY OF THE TECHNOLOGY CAPITAL AND 
+OPERATIONS PANEL 
+52 
+ 
+the volume of capital projects in the Digital Customer Experience 
+1 
+channels, and to ensure the Company has the core skills necessary 
+2 
+to keep pace with demand, we require additional web development 
+3 
+resources to be hired in the bridge period.  As our digital channels 
+4 
+and customer adoption continues to grow, Central Hudson expects 
+5 
+that projects will continue in Digital Customer Experience, making 
+6 
+these resources imperative to continue to support this work.   
+7 
+ (3) Business Application Analysts- The Technology group needs to 
+8 
+expand the Business Applications team to include business 
+9 
+application support Analysts.  These resources will work with the 
+10 
+various software application vendors for packaged solutions to 
+11 
+provide daily support to the Central Hudson business areas, to 
+12 
+provide technology support for software application upgrades 
+13 
+included in the Five-Year Capital Plan, and to update and maintain 
+14 
+application system documentation.  The maintenance of this 
+15 
+documentation, inclusive of application process mapping, is in line 
+16 
+with Management Audit Recommendation 4.6 and the Company’s 
+17 
+associated implementation plan.  In order to keep pace with the 
+18 
+capital plan, one Business Application Analyst will be hired in the 
+19 
+Rate Year, with the others needed in subsequent periods.  Please 
+20 
+also refer to Exhibit __ (RRP-5) sponsored by the Revenue 
+21 
+Requirements Panel.    
+22 
+
+
+--- Page 55 ---
+Case 23-E-____; Case 23-G-____ 
+ 
+DIRECT TESTIMONY OF THE TECHNOLOGY CAPITAL AND 
+OPERATIONS PANEL 
+53 
+ 
+ (2) Vendor Management Specialists – The Vendor Management 
+1 
+group needs to fill gaps associated with vendor risk management, 
+2 
+vendor performance management, pricing and contract 
+3 
+negotiations, requests for proposals, and vendor relationship 
+4 
+management.  As of 2023, Central Hudson maintains over 200 
+5 
+relationships with Technology vendor partners and processes an 
+6 
+average of 195 vendor contracts representing $35 million worth of 
+7 
+vendor engagement commitments annually.  In alignment with the 
+8 
+2024-2028 capital plan trends, additional headcount in this area is 
+9 
+needed during the bridge period to ensure timely and 
+10 
+comprehensive processing of vendor agreements, contract 
+11 
+maintenance, and management of vendor risks and relationships.  
+12 
+The Vendor Management Specialist is also essential for 
+13 
+spearheading initiatives that drive vendor cost savings or 
+14 
+avoidance, ultimately driving value to Central Hudson customers.  
+15 
+These resources are essential to offset current gaps in capabilities, 
+16 
+deliver on the incremental new work described within this testimony 
+17 
+and are essential to supporting the Company’s growing reliance on 
+18 
+technology.   
+19 
+ (2) Records & Information Management Analysts – As Central 
+20 
+Hudson’s reliance on Technology to perform business processes 
+21 
+continues to increase, the software systems where key information 
+22 
+
+
+--- Page 56 ---
+Case 23-E-____; Case 23-G-____ 
+ 
+DIRECT TESTIMONY OF THE TECHNOLOGY CAPITAL AND 
+OPERATIONS PANEL 
+54 
+ 
+is stored is expanding as well.  In alignment with this trend, the 
+1 
+scope of information systems that the Records and Information 
+2 
+Management group oversees is increasing.  The Records and 
+3 
+Information Management group is responsible for ensuring proper 
+4 
+records retention policies and controls that align to regulatory and 
+5 
+legal requirements are in place for Central Hudson’s key 
+6 
+information management assets.  In 2020-2022, Central Hudson 
+7 
+implemented Microsoft SharePoint, OneDrive, Teams, and a cloud-
+8 
+based Exchange email platform.  The Records and Information 
+9 
+Management group needs to backfill one position in order to train 
+10 
+the business areas on the new processes for Microsoft as well as 
+11 
+perform records management activities, including classification and 
+12 
+dispositioning.   Additional headcount is needed during the bridge 
+13 
+period and Rate Year due to the expanded scope (incremental new 
+14 
+work) associated with these new technology applications.  These 
+15 
+roles are essential to minimizing information management risks.  
+16 
+ (1) Risk & Compliance Specialist – The Technology group has an 
+17 
+open position within the Compliance Team that is anticipated to be 
+18 
+filled during the bridge period.  This additional position will aid the 
+19 
+Compliance Team in further maturing the compliance program by 
+20 
+expanding the vendor security review program beyond those 
+21 
+systems with personally identifiable information to include critical 
+22 
+
+
+--- Page 57 ---
+Case 23-E-____; Case 23-G-____ 
+ 
+DIRECT TESTIMONY OF THE TECHNOLOGY CAPITAL AND 
+OPERATIONS PANEL 
+55 
+ 
+operational systems, compliance quality reviews to identify project 
+1 
+risks and ensure proper remediation, and to mature the 
+2 
+performance of compliance reviews by expanding assessments to 
+3 
+non-regulatory IT processes.   As the technology portfolio has 
+4 
+increased and technology / compliance-related risks have grown in 
+5 
+significance over the past five years, expansion of this group is 
+6 
+necessary to minimize vendor-related risks, enhance information 
+7 
+management, and improve the compliance risk posture.  This 
+8 
+resource is essential to offset current gaps in capabilities and 
+9 
+essential to supporting the Company’s reliance on technology. 
+10 
+Q.    
+Please explain why Central Hudson is recommending an increase in FTE 
+11 
+headcount for these roles instead of utilizing outside contractors. 
+12 
+A. 
+To manage and support its technology, the  Company continuously 
+13 
+evaluates its staffing needs to determine where contractors or FTEs are 
+14 
+more suitable.  As mentioned previously, the Technology department 
+15 
+supports and maintains 3600, desktop software applications, 596 servers, 
+16 
+997 databases, and 250+ business service offerings and technology 
+17 
+products with a current headcount of 77 FTE (as of March 31, 2023).  For 
+18 
+the positions mentioned above, Central Hudson requires FTEs to bring 
+19 
+staffing up to the level needed to provide sustainable support to the 
+20 
+Company and fill long-term functional gaps that currently exist.  In 
+21 
+alignment with industry trends, Central Hudson’s reliance on technology to 
+22 
+
+
+--- Page 58 ---
+Case 23-E-____; Case 23-G-____ 
+ 
+DIRECT TESTIMONY OF THE TECHNOLOGY CAPITAL AND 
+OPERATIONS PANEL 
+56 
+ 
+deliver safe & reliable service has increased 3.6-fold, while internal 
+1 
+headcount has not.  To ensure a sustainable model to support these 
+2 
+business needs over the long-term, investments in full-time internal 
+3 
+employees are required.  
+4 
+ 
+5 
+VII. 
+OPERATIONAL EXPENSE IMPACTS 
+6 
+Q.    
+Please explain any areas where Technology non-labor operating costs are 
+7 
+exceeding inflation. 
+8 
+A. 
+The Central Hudson Technology group continuously evaluates the 
+9 
+technology portfolio, pursuing opportunities for cost reduction, 
+10 
+consolidation, and vendor cost savings.  Despite these efforts, select 
+11 
+technology vendor, contract labor, and supply chain costs have averaged 
+12 
+an 8% increase over the past few years.  This increase is reflected in the 
+13 
+Technology Operating forecast for the Rate Year.    
+14 
+Q.    
+Does this conclude your direct testimony at this time? 
+15 
+A. 
+Yes, it does. 
+16 

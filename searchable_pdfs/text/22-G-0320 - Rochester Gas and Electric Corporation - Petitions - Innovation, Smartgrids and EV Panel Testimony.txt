@@ -1,0 +1,4073 @@
+--- Page 1 ---
+ 
+BEFORE THE 
+NEW YORK STATE 
+PUBLIC SERVICE COMMISSION 
+----------------------------------------------------------------------------x 
+ 
+Proceeding on Motion of the Commission as to the 
+Rates, Charges, Rules and Regulations of  
+ 
+ 
+Case 22-E- ____ 
+New York State Electric & Gas Corporation 
+for Electric Service 
+ 
+Proceeding on Motion of the Commission as to the 
+Rates, Charges, Rules and Regulations of  
+ 
+ 
+Case 22-G- ____ 
+New York State Electric & Gas Corporation 
+for Gas Service 
+ 
+Proceeding on Motion of the Commission as to the 
+Rates, Charges, Rules and Regulations of  
+ 
+ 
+Case 22-E- ____ 
+Rochester Gas and Electric Corporation 
+for Electric Service 
+ 
+Proceeding on Motion of the Commission as to the 
+Rates, Charges, Rules and Regulations of  
+ 
+ 
+Case 22-G- ____ 
+Rochester Gas and Electric Corporation 
+for Gas Service 
+ 
+----------------------------------------------------------------------------x 
+ 
+ 
+DIRECT TESTIMONY OF INNOVATION,  
+SMARTGRIDS AND EV PANEL 
+ 
+ 
+Miguel Alonso  
+Scott M. Bochenek 
+Alvaro Gener 
+Rita I. King 
+Sebastian Libonatti 
+James L. Mader 
+Robert J. Manning 
+Sean K. Sullivan 
+May 26, 2022
+
+
+--- Page 2 ---
+Case 22-E-____; Case 22-G-____; Case 22-E-____; Case 22-G-____ 
+DIRECT TESTIMONY OF INNOVATION, SMARTGRIDS AND EV PANEL 
+i 
+TABLE OF CONTENTS 
+1 
+I.
+INTRODUCTION ..................................................................................................... 1 
+2 
+II.
+OVERVIEW OF TESTIMONY ................................................................................ 7 
+3 
+III.
+ IDENTIFICATION AND SUMMARY OF EXHIBITS .......................................... 9 
+4 
+IV.
+   MAJOR PANEL INITIATIVES .......................................................................... 11 
+5 
+A.
+Beneficial Transportation Electrification Programs ........................................ 11 
+6 
+B.
+Electric Heat Make-Ready Program ................................................................ 22 
+7 
+C.
+Low Income Clean Generation Program ......................................................... 25 
+8 
+D.
+Energy Storage ................................................................................................ 28 
+9 
+E.
+Innovative Collaborations, Partnerships, and Pilot Projects ........................... 37 
+10 
+1.
+Existing Innovative Pilots ..................................................................... 38 
+11 
+2.
+New Pilots: Rochester Hydrogen Blending and
+12 
+Smart Meter - Smart Inverter ................................................................ 38 
+13 
+3.
+Ithaca Electrification Program and Other Pilots.................................... 44 
+14 
+4.
+Innovative Partnerships and Collaborations .......................................... 49 
+15 
+F.
+Advanced Data Analytics - IEDR ................................................................... 53 
+16 
+G.
+Grid Model Enhancement Project ................................................................... 57 
+17 
+H.
+Distributed System Platform (“DSP”) Roadmap ............................................ 58 
+18 
+V.  SUMMARY AND CONCLUSIONS ......................................................................... 64 
+19 
+ 
+
+
+--- Page 3 ---
+Case 22-E-____; Case 22-G-____; Case 22-E-____; Case 22-G-____ 
+DIRECT TESTIMONY OF INNOVATION, SMARTGRIDS AND EV PANEL 
+I.
+INTRODUCTION
+1 
+Q.
+Please state the names of the members on this Innovation, Smartgrids and EV Panel
+2 
+(the “Panel”).
+3 
+A.
+We are Miguel Alonso, Scott M. Bochenek, Alvaro Gener, Rita I. King, Sebastian
+4 
+Libonatti, James L. Mader, Robert J. Manning, and Sean K. Sullivan.
+5 
+Q.
+Mr. Alonso, please state your title and business address.
+6 
+A.
+I am the Senior Technical Project Manager for the Grid Model Enhancement Project
+7 
+(“GMEP”).  My business address is 180 South Clinton Avenue, Rochester, New York
+8 
+14604.
+9 
+Q.
+Please summarize your work experience and educational background.
+10 
+A.
+I am responsible for leading and delivering on the objectives of the GMEP.  I joined
+11 
+Avangrid in June 2021.  My previous experience in the utility sector includes 15 years in
+12 
+multiple companies, countries and roles, among them the New York Power Authority and
+13 
+E.ON.  I am a licensed Professional Engineer in New York.  I hold two Masters’ degrees
+14 
+in Mechanical and Process Engineering from the Polytechnic University of Madrid and 
+15 
+the Technical University of Munich.  My Curriculum Vitae (“CV”) is set forth in Exhibit 
+16 
+__ (ISE-1). 
+17 
+Q.
+Have you previously testified in other proceedings before the New York State Public
+18 
+Service Commission (“PSC” or the “Commission”) or any other state or federal
+19 
+regulatory agency?
+20 
+A.
+No.
+21 
+
+
+--- Page 4 ---
+Case 22-E-____; Case 22-G-____; Case 22-E-____; Case 22-G-____ 
+ 
+DIRECT TESTIMONY OF INNOVATION, SMARTGRIDS AND EV PANEL 
+ 
+2 
+Q. 
+Mr. Bochenek, please state your title and business address. 
+1 
+A. 
+I am the Program Director, Smart Grid Innovation Programs.  My business address is 18 
+2 
+Link Drive, Binghamton, New York 13904. 
+3 
+Q. 
+Please summarize your work experience and educational background. 
+4 
+A. 
+In my current role, I am responsible for developing strategy and designing programs that 
+5 
+support beneficial electrification with a significant focus on electric transportation.  I 
+6 
+have worked for New York State Electric & Gas Corporation (“NYSEG”) and Rochester 
+7 
+Gas Corporation (“RG&E” and together with NYSEG, the “Companies”) for over 18 
+8 
+years in various roles including Supervisor of Customer Billing, Manager of Energy 
+9 
+Efficiency Programs, and Manager of Smart Grid Programs.  I have an AA in Liberal 
+10 
+Arts from Cayuga Community College, a BA in Human Development from Binghamton 
+11 
+University, an MBA from Strathclyde University, and an MBA from Comillas Pontifical 
+12 
+University.  My CV is set forth in Exhibit __ (ISE-1).  
+13 
+Q. 
+Have you previously testified in other proceedings before the Commission or any other 
+14 
+state or federal regulatory agency? 
+15 
+A. 
+Yes.  I submitted testimony in Cases 19-E-0378 et al., the Companies’ most recent rate 
+16 
+proceeding (the “2019 Rate Case”).  In addition, I testified before the Connecticut Public 
+17 
+Utilities Regulatory Authority (“CTPURA”) in Case 17-12-03RE04, EV Charging 
+18 
+Program. 
+19 
+Q. 
+Mr. Gener, please state your title and business address. 
+20 
+A. 
+I am Program Director of Smart Grids and Planning.  My business address is One City 
+21 
+Center, 5th Floor, Portland, Maine 04101. 
+22 
+
+
+--- Page 5 ---
+Case 22-E-____; Case 22-G-____; Case 22-E-____; Case 22-G-____ 
+ 
+DIRECT TESTIMONY OF INNOVATION, SMARTGRIDS AND EV PANEL 
+ 
+3 
+Q. 
+Please summarize your work experience and educational background. 
+1 
+A. 
+Since August 2021, I have been responsible for developing strategy and designing 
+2 
+programs that support energy data sharing mechanisms.  More specifically, I am leading 
+3 
+the implementation of the Integrated Data Energy Resource for the Companies.  
+4 
+Previously, I worked for Iberdrola, Avangrid’s parent company, in different positions 
+5 
+including electricity and gas supply, energy trading risk management, retail tariffs 
+6 
+development, and business planning.  I hold a BS in Electrical Engineering from 
+7 
+Polytechnic University of Madrid and an MBA from Comillas Pontifical University.  My 
+8 
+CV is set forth in Exhibit __ (ISE-1). 
+9 
+Q. 
+Have you previously testified in other proceedings before the Commission or any other 
+10 
+state or federal regulatory agency? 
+11 
+A. 
+No. 
+12 
+Q. 
+Ms. King, please state your title and business address. 
+13 
+A. 
+I am the Senior Director of Smart Grids Innovation and Planning.  My business address is 
+14 
+180 Marsh Hill Road, Orange, Connecticut 06477. 
+15 
+Q. 
+Please summarize your work experience and educational background. 
+16 
+A. 
+Commencing in 2018, I have enterprise level responsibilities to promote innovation, 
+17 
+pilot, and demonstration projects and develop grid modernization road maps.  I have held 
+18 
+various positions in the areas of Business Development, Business Process Management, 
+19 
+Strategic Planning, Project Management, Economic Development and Transmission 
+20 
+Planning.  I hold a BS in Electrical Engineering from Worcester Polytechnic Institute, 
+21 
+and an MS from Rensselaer at Hartford and have received training in Process 
+22 
+Reengineering.  My CV is set forth in Exhibit __ (ISE-1). 
+23 
+
+
+--- Page 6 ---
+Case 22-E-____; Case 22-G-____; Case 22-E-____; Case 22-G-____ 
+ 
+DIRECT TESTIMONY OF INNOVATION, SMARTGRIDS AND EV PANEL 
+ 
+4 
+Q. 
+Have you previously testified in other proceedings before the Commission or any other 
+1 
+state or federal regulatory agency? 
+2 
+A. 
+Yes.  I submitted testimony in the 2019 Rate Case.  In addition, I testified before the 
+3 
+CTPURA on numerous occasions in the grid modernization reopener Dockets, 17-12-03 
+4 
+(RE02-RE10). 
+5 
+Q. 
+Mr. Libonatti, please state your title and business address. 
+6 
+A. 
+I am the Vice President of Business Development.  My business address is One City 
+7 
+Center, 5th Floor, Portland, Maine 04101. 
+8 
+Q. 
+Please summarize your work experience and educational background.   
+9 
+A. 
+In my current role, I oversee the transmission and green hydrogen development efforts 
+10 
+across the Companies.  I have worked for the Companies since 2019.  I hold a Bachelor’s 
+11 
+degree in Business Administration – Finance from Sherbrooke University, a Master’s 
+12 
+degree in Electric Power Industry from Comillas Pontifical University, and a Master’s in 
+13 
+Economics and Network Industries from Paris-Sud XI University.  My CV is set forth in 
+14 
+Exhibit __ (ISE-1).    
+15 
+Q. 
+Have you previously testified in other proceedings before the Commission or any other 
+16 
+state or federal regulatory agency? 
+17 
+A. 
+No. 
+18 
+Q. 
+Mr. Mader, please state your title and business address. 
+19 
+A. 
+I am the Senior Manager of Programs and Projects, Smart Grids Innovation.  My business 
+20 
+address is 180 Marsh Hill Road, Orange, Connecticut 06477. 
+21 
+
+
+--- Page 7 ---
+Case 22-E-____; Case 22-G-____; Case 22-E-____; Case 22-G-____ 
+ 
+DIRECT TESTIMONY OF INNOVATION, SMARTGRIDS AND EV PANEL 
+ 
+5 
+Q. 
+Please summarize your work experience and educational background. 
+1 
+A. 
+In my current role, I help develop and implement innovative technologies in the areas of 
+2 
+energy storage and microgrids.  I have worked in multiple engineering disciplines 
+3 
+throughout my 30 years in the utility industry including Substation Engineering, 
+4 
+Protection and Control Engineering, Transmission Engineering, and Distribution Design.  
+5 
+I received a BS in Electrical Engineering Technology from Northeastern University in 
+6 
+1991 and I am a certified Project Management Professional.  My CV is set forth in 
+7 
+Exhibit __ (ISE-1).  
+8 
+Q. 
+Have you previously testified in other proceedings before the Commission or any other 
+9 
+state or federal regulatory agency? 
+10 
+A. 
+I have not testified before the Commission.  However, I have testified recently before the 
+11 
+CTPURA in Case 17-12-03RE03, Electric Storage, as well as in other various dockets 
+12 
+before CTPURA.  
+13 
+Q. 
+Mr. Manning, please state your title and business address. 
+14 
+A. 
+I am the Program Director - Smart Grids Innovation Programs.  My business address is 
+15 
+180 Marsh Hill Road, Orange, Connecticut 06477. 
+16 
+Q. 
+Please summarize your work experience and educational background.  
+17 
+A. 
+I have held various positions in Distribution Operations, Distribution Planning, Work 
+18 
+Methods, Reliability Engineering, Work Management, Engineering & Project Excellence, 
+19 
+and Technical Services.  In 2019, I became Program Director – Smart Grids Innovation 
+20 
+Programs.  I hold a BS in Electrical Engineering from Worcester Polytechnic Institute, an 
+21 
+MBA from the University of New Haven and I completed PTI’s Power Technology 
+22 
+
+
+--- Page 8 ---
+Case 22-E-____; Case 22-G-____; Case 22-E-____; Case 22-G-____ 
+ 
+DIRECT TESTIMONY OF INNOVATION, SMARTGRIDS AND EV PANEL 
+ 
+6 
+course.  I have received training in Process Reengineering and am a licensed Professional 
+1 
+Engineer registered in Connecticut.  My CV is set forth in Exhibit __ (ISE-1).  
+2 
+Q. 
+Have you previously testified in other proceedings before the Commission or any other 
+3 
+state or federal regulatory agency? 
+4 
+A. 
+I have not testified before the Commission.  However, I have testified before the 
+5 
+Connecticut Siting Council, which is a quasi-judicial administrative agency, and 
+6 
+regulatory commissions in Connecticut and Maine.  Specifically, I testified before the 
+7 
+CTPURA in Amendments to Rates, Interconnection Guidelines and most recently Docket 
+8 
+No. 17-12-03 – Investigation into Distribution System Planning of the Electric 
+9 
+Distribution Companies, and the Maine Public Utilities Commission in Docket No. 2016-
+10 
+00162 – Efficiency Maine Trust, Request for Examination of Voltage Optimization Pilot 
+11 
+Program. 
+12 
+Q. 
+Mr. Sullivan, please state your title and business address. 
+13 
+A. 
+I am the Program Director, Smart Grids Innovation Programs.  My business address is 
+14 
+180 South Clinton Avenue, Rochester, New York 14604.  
+15 
+Q. 
+Please summarize your work experience and educational background. 
+16 
+A. 
+In my current role, I am responsible for progressing the Companies’ innovation pilots and 
+17 
+demonstration project strategy and lead NYSEG’s Energy Smart Community (“ESC”) 
+18 
+Program located within Tompkins County, including Ithaca, New York.  I hold a BS in 
+19 
+Geology from St. Lawrence University and an MBA from DeSales University.  My CV is 
+20 
+set forth in Exhibit __ (ISE-1).  
+21 
+
+
+--- Page 9 ---
+Case 22-E-____; Case 22-G-____; Case 22-E-____; Case 22-G-____ 
+ 
+DIRECT TESTIMONY OF INNOVATION, SMARTGRIDS AND EV PANEL 
+ 
+7 
+Q. 
+Have you previously testified in other proceedings before the Commission or any other 
+1 
+state or federal regulatory agency? 
+2 
+A. 
+Yes.  I submitted testimony in the 2019 Rate Case. 
+3 
+II. OVERVIEW OF TESTIMONY 
+4 
+Q. 
+Please provide an overview of the Panel’s testimony. 
+5 
+A. 
+The energy landscape in New York and across the United States is in the midst of rapid 
+6 
+transformation.  New York State is taking a leadership role in the fight against climate 
+7 
+change as evidenced by the passage of the Climate Leadership and Community 
+8 
+Protection Act (“CLCPA”). 
+0F1  Our testimony describes major clean energy transformation 
+9 
+initiatives that the Companies are undertaking to support the State and our customers in 
+10 
+achieving these important goals.  Specifically:  
+11 
+1) Beneficial Transportation Electrification Programs to support New York’s goal of over 
+12 
+850,000 electric vehicles (“EVs”) in the State by 2025, including:  
+13 
+• 2,000 additional charge ports for medium and heavy duty EVs, including school 
+14 
+and transit buses; 
+15 
+• 100 new chargers in disadvantaged communities (with the goal of driving down 
+16 
+the cost of charging to costs comparable to in-home charging); and 
+17 
+• A new fast charging hub that will bank as many as 80 fast chargers in a strategic 
+18 
+location;  
+19 
+ 
+1  
+Chapter 106 of the Laws of 2019 (N.Y.).  As it relates to clean energy, the CLCPA requires that: (1) by 2030, 
+70% of statewide electric generation shall be generated by renewable energy systems; and (2) by 2040, the 
+statewide electric grid will be zero-emissions.  The CLCPA also mandates a 40% reduction in greenhouse gas 
+emissions by 2030 and an 85% reduction in greenhouse gas emissions by 2050.  
+
+
+--- Page 10 ---
+Case 22-E-____; Case 22-G-____; Case 22-E-____; Case 22-G-____ 
+ 
+DIRECT TESTIMONY OF INNOVATION, SMARTGRIDS AND EV PANEL 
+ 
+8 
+2) An Electric Heat Make-Ready Program to assist customers with electrical upgrades 
+1 
+necessary to electrify heating sufficient to increase the number of homes heating with 
+2 
+electricity in the Companies' service territories by 300% and to support Governor 
+3 
+Hochul's target of two million electric heat-ready homes in the State by 2030; 
+4 
+3) A Low Income Clean Generation Program to ensure that disadvantaged communities 
+5 
+receive the benefits of distributed generation investment through electric bill credits and 
+6 
+increasing the amount of installed solar capacity in the Companies' service territory by 
+7 
+8%; 
+8 
+4) Continued progress on two existing energy storage projects and a proposal for three 
+9 
+new projects (consisting of 29 MWs of new storage capacity and resulting in an 
+10 
+approximate 47% increase to installed energy storage capacity in the Companies' service 
+11 
+territories) that will serve customers by addressing multiple distribution system needs via 
+12 
+direct integration into the Companies' operations and processes; 
+13 
+5) Innovative Collaborations, Partnerships, and Pilot Projects including a geothermal 
+14 
+district energy pilot project to support the City of Ithaca’s electrification efforts and a 
+15 
+Hydrogen Blending Pilot; 
+16 
+6) Integrated Energy Data Resource (“IEDR”) platform implementation;  
+17 
+7) GMEP implementation as a foundational, clean energy enabling project; and 
+18 
+8) Distribution System Implementation Plan ("DSIP") key initiatives and a roadmap to 
+19 
+transforming into the Distribution System Platform ("DSP").   
+20 
+ 
+We provide detail and support for these proposed initiatives. 
+21 
+
+
+--- Page 11 ---
+Case 22-E-____; Case 22-G-____; Case 22-E-____; Case 22-G-____ 
+ 
+DIRECT TESTIMONY OF INNOVATION, SMARTGRIDS AND EV PANEL 
+ 
+9 
+Q. 
+Please describe further how the Companies’ proposed innovation programs and efforts 
+1 
+would enable achievement of the CLCPA goals. 
+2 
+A. 
+The CLCPA goals require the Companies to play a fundamental role in partnering with 
+3 
+innovative solution providers and stakeholders to collectively invest in a clean energy, 
+4 
+low-carbon future.  Technological advancements are allowing for a more dynamic, 
+5 
+efficient, and digitalized grid that will support adoption of beneficial electrification and 
+6 
+clean energy resources.  To that end, the innovation efforts proposed by this Panel will 
+7 
+enhance the operational performance of the Companies’ electric distribution system, 
+8 
+accommodate higher levels of clean energy generation resources, prepare for electric 
+9 
+vehicle deployment, and integrate emerging technologies, such as energy storage, that 
+10 
+can provide flexibility as the electric grid evolves to meet CLCPA goals. 
+11 
+Q. 
+Does this Panel focus on addressing macro policy issues relating to how the Companies’ 
+12 
+proposed rate case filings overall are consistent with the CLCPA? 
+13 
+A. 
+No.  While we address specific innovation efforts around emerging technologies, 
+14 
+beneficial electrification, clean energy, stakeholder collaboration efforts and developing 
+15 
+DSP capabilities, the Policy Panel addresses on a global basis how these rate cases are 
+16 
+consistent with the CLCPA.   
+17 
+III. 
+IDENTIFICATION AND SUMMARY OF EXHIBITS 
+18 
+Q. 
+Is this Panel sponsoring any exhibits? 
+19 
+A. 
+Yes.  This Panel sponsors the following exhibits: 
+20 
+1) Exhibit __ (ISE-1) – Innovation Panel Witness CVs; 
+21 
+2) Exhibit __ (ISE-2) – Mass Market Managed Charging Program Proposal – June 2021; 
+22 
+3) Exhibit __ (ISE-3) – Medium and Heavy-Duty EV Program Proposal; 
+23 
+
+
+--- Page 12 ---
+Case 22-E-____; Case 22-G-____; Case 22-E-____; Case 22-G-____ 
+ 
+DIRECT TESTIMONY OF INNOVATION, SMARTGRIDS AND EV PANEL 
+ 
+10 
+4) Exhibit __ (ISE-4) – Municipal Curbside Charging Program Proposal; 
+1 
+5) Exhibit __ (ISE-5) – EV Charging Hub Program Proposal; 
+2 
+6) Exhibit __ (ISE-6) – Electric Heat Make-Ready Program Proposal; 
+ 
+3 
+7) Exhibit __ (ISE-7) – Low Income Clean Generation Program Proposal; 
+4 
+8) Exhibit __ (ISE-8) – Energy Storage Lessons Learned; 
+5 
+9) Exhibit __ (ISE-9) – NYSEG Stephentown Project Proposal; 
+6 
+10) Exhibit __ (ISE-10) – NYSEG Wales Center Project Proposal; 
+7 
+11) Exhibit __ (ISE-11) – RG&E Station 125 Project Proposal; 
+8 
+12) Exhibit __ (ISE-12) – New Energy New York Collaboration; 
+9 
+13) Exhibit __ (ISE-13) – RG&E Hydrogen Blending Pilot Proposal; 
+10 
+14) Exhibit __ (ISE-14) – Smart Meter – Smart Inverter Interface Pilot Proposal; 
+11 
+15) Exhibit __ (ISE-15) – Demand Side LMI HVAC Management Proposal; 
+12 
+16) Exhibit  __ (ISE-16) – Academic Institution Collaboration; 
+13 
+17) Exhibit  __ (ISE-17) – Global Innovation Collaboration; 
+14 
+18) Exhibit  __ (ISE-18) – Integrated Energy Data Resource Project Detail; 
+15 
+19) Exhibit  __ (ISE-19) – Grid Model Enhancement Project Detail; 
+16 
+20) Exhibit  __ (ISE-20) – CYME Server Proposal; 
+17 
+21) Exhibit  __ (ISE-21) – Advanced Load DER Forecasting Proposal; 
+18 
+22) Exhibit  __ (ISE-22) – Interconnection Portal Screening Proposal; 
+19 
+23) Exhibit  __ (ISE-23) – Interconnection Portal Enhancements Proposal; 
+20 
+24) Exhibit  __ (ISE-24) – Flexible Interconnection Capacity Solutions Scalability 
+21 
+Proposal; and 
+22 
+25) Exhibit  __ (ISE-25) – EPRI Membership. 
+23 
+
+
+--- Page 13 ---
+Case 22-E-____; Case 22-G-____; Case 22-E-____; Case 22-G-____ 
+ 
+DIRECT TESTIMONY OF INNOVATION, SMARTGRIDS AND EV PANEL 
+ 
+11 
+IV.    MAJOR PANEL INITIATIVES 
+1 
+A. Beneficial Transportation Electrification Programs 
+2 
+Q. 
+What are the new Beneficial Transportation Electrification Programs being proposed by 
+3 
+the Companies? 
+4 
+A. 
+The Companies are proposing a Medium and Heavy-Duty Vehicle (“MHD”) Make-
+5 
+Ready Program, a Municipal Curbside Charging Pilot, and an EV Charging Hub Pilot.   
+6 
+Q. 
+How do these proposed programs align with State climate goals? 
+7 
+A. 
+The proposed programs directly support the State’s goal of 100% of light-duty vehicle 
+8 
+sales being zero-emissions by 2035 and 100% of MHD vehicle sales being zero-
+9 
+emissions by 2045.1F2  The MHD Make-Ready Program would enable as many as 2,000 
+10 
+charging plugs that could support over 2,300 MHD vehicles, which will help create 
+11 
+momentum towards decarbonizing the MHD sector.  The EV Charging Hub Pilot will 
+12 
+support up to 80 direct current fast chargers (“DCFC”) in a single, strategically placed 
+13 
+location built to accommodate a variety of vehicle and charging types and showcase a 
+14 
+next-generation model for DCFC stations and infrastructure.  The Municipal Curbside 
+15 
+Charging Pilot will deploy up to 100 low-cost chargers in underserved communities with 
+16 
+the goal of driving down the cost of charging to a level that is comparable to the cost of 
+17 
+at-home charging.  These programs will accelerate the adoption of EVs in the 
+18 
+Companies’ service territory and support the greenhouse gas emissions reduction goals of 
+19 
+the CLCPA.    
+20 
+ 
+2  
+See Environmental Conservation Law § 19-0306-b (1). 
+
+
+--- Page 14 ---
+Case 22-E-____; Case 22-G-____; Case 22-E-____; Case 22-G-____ 
+ 
+DIRECT TESTIMONY OF INNOVATION, SMARTGRIDS AND EV PANEL 
+ 
+12 
+Q. 
+How many light-duty EVs are currently in the Companies’ service territory? 
+1 
+A. 
+As of March 2022, there were 15,622 light-duty EVs registered in the Companies’ 
+2 
+service territory.  This amounts to just under 1% of the total registered light-duty vehicles 
+3 
+in the Companies’ service territory.  
+4 
+Q. 
+How many additional light-duty EVs do the Companies anticipate in the service territory 
+5 
+through 2025?  
+6 
+A. 
+The Companies recognize New York State’s goal to have 850,000 EVs on the road in 
+7 
+New York by 2025 of which approximately 19% (161,500 EVs) will be in the 
+8 
+Companies’ service territory.  This would account for about 10% of the total currently 
+9 
+registered light-duty vehicles.  A critical component of reaching the New York’s electric 
+10 
+vehicle goal is supporting market growth by ensuring there is sufficient charging 
+11 
+infrastructure that will eliminate range anxiety, build driver confidence, and meet electric 
+12 
+vehicle charging needs.  
+13 
+Q. 
+How many MHD EVs are currently in the Companies’ service territory? 
+14 
+A. 
+Exact data on current MHD EV registrations in the Companies’ service territory is 
+15 
+unknown, although the Companies are aware of a total of 17 electric transit buses and one 
+16 
+electric school bus.  
+17 
+Q. 
+How many additional MHD EVs do the Companies anticipate in the service territory 
+18 
+through 2025?  
+19 
+A. 
+The Companies anticipate that in order to meet the CLCPA goals there will need to be 
+20 
+16,957 MHD EVs registered in New York by 2025 with 3,222 of those in the 
+21 
+Companies’ service territory.    
+22 
+
+
+--- Page 15 ---
+Case 22-E-____; Case 22-G-____; Case 22-E-____; Case 22-G-____ 
+ 
+DIRECT TESTIMONY OF INNOVATION, SMARTGRIDS AND EV PANEL 
+ 
+13 
+Q. 
+Are the Companies currently implementing EV programs and is it the Companies’ intent 
+1 
+to continue these programs? 
+2 
+A. 
+Yes. 
+3 
+Q. 
+Will the Panel please briefly describe the current EV programs?  
+4 
+A. 
+The Companies currently implement the following programs ordered by the Commission 
+5 
+in Case 18-E-0138: 1) DCFC Per Plug Incentive Program; 2) Light-Duty Make-Ready 
+6 
+Program; 3) Transit Bus Make-Ready; 4) MHD Make-Ready Pilot; and 5) Fleet 
+7 
+Assessment Service.2F3 
+8 
+Q. 
+Please describe the DCFC Per Plug Incentive Program. 
+9 
+A. 
+The DCFC Per Plug Incentive Program is an annual declining per-plug incentive to 
+10 
+qualifying public DCFC operators intended to offset electric delivery costs incurred by 
+11 
+DCFC stations while charging utilization is low.  As of March 2022, NYSEG has 
+12 
+enrolled 19 DCFC plugs across three participants at five sites, and RG&E has enrolled 0 
+13 
+plugs.  These account for most of the new DCFC plugs installed in the Companies’ 
+14 
+service territory.  
+15 
+Q. 
+Please describe the Light-Duty Make-Ready Program. 
+16 
+A. 
+The program provides incentives for the installation of light-duty EV infrastructure for 
+17 
+both Level 2 (“L2”) and DCFC stations.  The program covers up to 100% of the eligible 
+18 
+costs needed to prepare a site for EV charging if all eligibility criteria are met, or 50% of 
+19 
+the costs if the station does not meet the public accessibility or standardized plug 
+20 
+eligibility requirements.  As of March 2022, the program has supported installation of 
+21 
+ 
+3  
+See Case 18-E-0138, Order Establishing Electric Vehicle Infrastructure Make-Ready Program and Other 
+Programs (issued July 16, 2020) (“Make-Ready Order”). 
+
+
+--- Page 16 ---
+Case 22-E-____; Case 22-G-____; Case 22-E-____; Case 22-G-____ 
+ 
+DIRECT TESTIMONY OF INNOVATION, SMARTGRIDS AND EV PANEL 
+ 
+14 
+155 L2 plugs and 12 DCFC plugs at NYSEG and 113 L2 plugs at RG&E.  By 2025, the 
+1 
+program will support up to 9,279 L2 plugs and 250 DCFC plugs at NYSEG and up to 
+2 
+4,178 L2 plugs and 149 DCFC plugs at RG&E.  The program offers an incentive of up to 
+3 
+$6,000 for each L2 plug and up to $55,000 for each DCFC plug.  
+4 
+Q. 
+Please describe the Transit Bus Make-Ready Program. 
+5 
+A. 
+The Make-Ready Order allocated $1.9 million to support the Transit Bus Make-Ready 
+6 
+Program for the Regional Transit Service (“RTS”), which will support RTS's goal of 
+7 
+achieving 25% electrification by 2025.  RG&E is working closely with RTS to support 
+8 
+required electrical upgrades to accommodate transit bus charging load.  
+9 
+Q. 
+Would the Panel please describe the MHD Make-Ready Pilot? 
+10 
+A. 
+The Make-Ready Order authorized a pilot program that would cover up to 90% of the 
+11 
+utility-side make-ready cost to accommodate MHD vehicle charging where the 
+12 
+participating customer is also a participant in the New York State Energy Research and 
+13 
+Development Authority (“NYSERDA”) Truck Voucher Incentive Program.  The 
+14 
+Companies have received one application to date from a transit agency.  Additionally, 
+15 
+there has been ongoing dialogue with a municipal customer looking to electrify part of its 
+16 
+refuse fleet.  
+17 
+Q. 
+What is the Fleet Assessment Service? 
+18 
+A. 
+The Fleet Assessment Service provides fleet customers with site feasibility and rate 
+19 
+analysis related to fleet electrification to help evaluate potential conversion to EVs.  
+20 
+Q. 
+How are costs being recovered for the current EV programs? 
+21 
+A. 
+Investments in utility-owned electrical infrastructure are treated as plant and recovered 
+22 
+through base rates.  Customer-owned equipment incentives and program administration 
+23 
+
+
+--- Page 17 ---
+Case 22-E-____; Case 22-G-____; Case 22-E-____; Case 22-G-____ 
+ 
+DIRECT TESTIMONY OF INNOVATION, SMARTGRIDS AND EV PANEL 
+ 
+15 
+costs are deferred as a regulatory asset and are being recovered through a surcharge 
+1 
+mechanism.  
+2 
+Q. 
+Are there capital costs being proposed for current EV programs as part of this rate case? 
+3 
+A. 
+Yes, the capital costs to support the current EV programs are included in the Electric and 
+4 
+Common Capital Expenditures Panel and total $11.7 million, which includes $8 million 
+5 
+for NYSEG and $3.7 million for RG&E.  Incentives toward customer-owned equipment 
+6 
+and program administration costs will be deferred as a regulatory asset and recovered via 
+7 
+an existing surcharge mechanism as directed in the Make-Ready Order.  
+8 
+Q. 
+Are there other EV programs that the Companies have proposed previously but have not 
+9 
+yet implemented?  
+10 
+A. 
+Yes.  The Companies have proposed a Mass Market Managed Charging Program.  
+11 
+Q. 
+Please describe the Mass Market Managed Charging Program. 
+12 
+A. 
+The Mass Market Managed Charging Program proposal was filed in Case 18-E-0138 on 
+13 
+December 4, 2020, with an update filed on June 4, 2021, and is currently pending 
+14 
+Commission approval.  The proposed program will be available for residential customers 
+15 
+and includes incentives that will optimize the time of charging.  The program proposal is 
+16 
+included as Exhibit __ (ISE-2).   
+17 
+Q. 
+What is the proposed budget for the Mass Market Managed Charging Program? 
+18 
+A. 
+The estimated program budget under a high EV adoption scenario is $30.4 million.  
+19 
+Q. 
+Are there any incremental costs being proposed for the Mass Market Managed Charging 
+20 
+Program as part of this rate case? 
+21 
+A. 
+No. 
+22 
+
+
+--- Page 18 ---
+Case 22-E-____; Case 22-G-____; Case 22-E-____; Case 22-G-____ 
+ 
+DIRECT TESTIMONY OF INNOVATION, SMARTGRIDS AND EV PANEL 
+ 
+16 
+Q. 
+How will costs for the Mass Market Managed Charging Program be recovered?  
+1 
+A. 
+Program costs will be deferred as a regulatory asset and recovered through an existing 
+2 
+surcharge over a 10-year period, with the net-of-tax balances accruing carrying charges at 
+3 
+each company’s pretax overall cost of capital. 
+4 
+Q. 
+Are the Companies also proposing new EV programs?  
+5 
+A. 
+Yes.  As mentioned above, the Companies are proposing the following new programs: 1) 
+6 
+MHD Make-Ready Program; 2) Municipal Curbside Charging Pilot; and 3) EV Charging 
+7 
+Hub Pilot. 
+8 
+Q. 
+Please describe the MHD Make-Ready Program. 
+9 
+A. 
+The program is similarly structured to the existing Light-Duty Make-Ready Program with 
+10 
+customer incentives of up to $6,000 per plug towards L2-related infrastructure and up to 
+11 
+$55,000 per plug for DCFC-related infrastructure.  The proposed program will provide 
+12 
+make-ready infrastructure incentives to support approximately 2,332 MHD vehicles 
+13 
+through the installation of 1,128 L2 EV ports and 842 DCFC ports.  This program will 
+14 
+cover up to 100% of make-ready costs for public sector fleets, including school buses and 
+15 
+other transit and municipal vehicles.  Private fleet operators, including but not limited to 
+16 
+delivery vehicles, will be eligible for incentives covering up to 50% of their make-ready 
+17 
+costs. 
+18 
+Q. 
+What are the proposed costs associated with the MHD Make-Ready Program? 
+19 
+A. 
+The Companies propose a three-year program with a $52.9 million total budget.  
+20 
+Q. 
+How do the Companies propose to recover program costs? 
+21 
+A. 
+Similar to the Light-Duty Make-Ready Program, utility-side infrastructure will be 
+22 
+capitalized as utility plant.  As a result, $11.2 million of the total proposed spend will be 
+23 
+
+
+--- Page 19 ---
+Case 22-E-____; Case 22-G-____; Case 22-E-____; Case 22-G-____ 
+ 
+DIRECT TESTIMONY OF INNOVATION, SMARTGRIDS AND EV PANEL 
+ 
+17 
+capital costs.  Incentives toward customer-owned electrical infrastructure will be treated 
+1 
+as a regulatory asset and amortized over a 15-year period, and recovered through an 
+2 
+existing surcharge, inclusive of carrying costs.  Of the total proposed spend, $41.7 
+3 
+million will be treated as a regulatory asset.  Additional details for the MHD Make-Ready 
+4 
+Program are included in Exhibit __ (ISE-3).  
+5 
+Q. 
+Please describe the Municipal Curbside Charging Pilot. 
+6 
+A. 
+The Municipal Curbside Charging Pilot will assist two to four municipal partners in 
+7 
+planning, developing, and installing EV charging infrastructure for residents that do not 
+8 
+have dedicated residential parking.  Municipalities will be evaluated and selected based 
+9 
+on level of interest.  One of the direct customer incentives to adopting EVs is related to 
+10 
+its lower operating costs, including lower and less volatile “refueling” costs associated 
+11 
+with electricity as a fuel versus petroleum-based options.  However, there is a cost 
+12 
+premium for EV customers that charge “on-the-go” at retail and public locations.  As a 
+13 
+result, a customer class that is inadvertently left out of accessing low-cost charging are 
+14 
+customers that do not have dedicated residential parking.  The proposed pilot would 
+15 
+investigate the opportunities and barriers for municipalities to deploy wide-scale curbside 
+16 
+charging in neighborhoods with higher rates of multi-family dwellings, and therefore 
+17 
+limited residential off-street parking.  The variety in the built environment and the 
+18 
+diversity of landscapes and urban design across our service territories results in a lack of 
+19 
+uniformity for designing and making EV charging accessible for our residential 
+20 
+customers that reside within or in close proximity to denser urban neighborhoods.  The 
+21 
+complexity of siting, coupled with need and/or desire to minimize the costs of providing 
+22 
+EV charging at on-street parking locations to serve EV drivers without dedicated garage 
+23 
+
+
+--- Page 20 ---
+Case 22-E-____; Case 22-G-____; Case 22-E-____; Case 22-G-____ 
+ 
+DIRECT TESTIMONY OF INNOVATION, SMARTGRIDS AND EV PANEL 
+ 
+18 
+parking, may require pole mounting on existing utility poles, streetlight poles, dedicated 
+1 
+EV pedestals or a combination thereof.  The Companies will collaborate closely with our 
+2 
+municipal partners on the lowest cost methods to install EV charging, leveraging the 
+3 
+existing Light-Duty Make Ready Program incentives.  The Municipal Curbside Charging 
+4 
+Pilot will expand the eligible costs beyond the existing Light-Duty Make-Ready Program 
+5 
+and will include incentives toward the EV charging station, signage, and other related 
+6 
+costs.   
+7 
+A secondary benefit of these pilots is that they support EV adoption through 
+8 
+visible EV charging along public rights-of-way.  There is the potential for these charging 
+9 
+solutions to act as both visible advertising for EV charging, and potential economic 
+10 
+generators for mixed-use urban neighborhoods close to central business districts.  The 
+11 
+intent of these pilots is to create a replicable program model within our service territories. 
+12 
+Q. 
+How many curbside chargers will be installed through the pilot? 
+13 
+A. 
+The program will support up to 100 L2 curbside charging ports and focus on the 
+14 
+deployment of low-cost charging solutions.   
+15 
+Q. 
+Are there incremental costs associated with the Municipal Curbside Charging Pilot? 
+16 
+A. 
+No.  The pilot will be paid for within the Light-Duty Make-Ready Program budget. 
+17 
+Additional details for the Municipal Curbside Charging Pilot are included in Exhibit __ 
+18 
+(ISE-4). 
+19 
+Q. 
+Please describe the EV Charging Hub Pilot. 
+20 
+A. 
+The EV Charging Hub Pilot is large scale, purpose-built infrastructure that will serve 
+21 
+corridor charging needs for light-duty, medium-duty, and heavy-duty vehicles within the 
+22 
+NYSEG service area.  The project will include one or more third-parties that will own 
+23 
+
+
+--- Page 21 ---
+Case 22-E-____; Case 22-G-____; Case 22-E-____; Case 22-G-____ 
+ 
+DIRECT TESTIMONY OF INNOVATION, SMARTGRIDS AND EV PANEL 
+ 
+19 
+and operate the chargers, and the operator will also be responsible for all driver 
+1 
+amenities.  The project will be in close proximity to a NYSEG substation and will include 
+2 
+a dedicated feeder to serve future expected load of 20 MW.  Assuming an average 
+3 
+charger power level of 250 kW, the hub will charge up to 80 EVs simultaneously.  The 
+4 
+exact number of vehicles served will depend on charger specification and the mixture of 
+5 
+vehicle types served.  
+6 
+Q. 
+Will the EV Charging Hub Pilot utilize existing make-ready program incentives?  
+7 
+A. 
+Yes.  The project will apply existing make-ready program incentives as applicable.  
+8 
+Q. 
+What is the key premise underlying the proposed EV Charging Hub Pilot approach to 
+9 
+building corridor fast charging infrastructure? 
+10 
+A. 
+A key premise of the EV charging hub concept is that the current approach of deploying 
+11 
+corridor fast chargers cannot be scaled up as market adoption increases as each site, 
+12 
+containing roughly four to twelve DCFCs, will only work in an environment with only 
+13 
+one or two percent EV market penetration.  The current approach is also unable to 
+14 
+accommodate MHD EVs as these sites are not designed for those types of vehicles.  In 
+15 
+the next several years significant funding will be allocated toward construction of new 
+16 
+EV chargers, including make-ready programs and federal infrastructure programs.  It is 
+17 
+important that, to the extent possible, funding is used toward charger installations that 
+18 
+will scale with the market.  
+19 
+Q. 
+What are the proposed costs associated with the EV Charging Hub Pilot? 
+20 
+A. 
+The capital budget for the EV Charging Hub Pilot is $30 million.  The project is expected 
+21 
+to take four years to implement with planning occurring in 2023, expenditures beginning 
+22 
+in 2024, and project completion in 2026.  NYSEG and one or more third-party partners 
+23 
+
+
+--- Page 22 ---
+Case 22-E-____; Case 22-G-____; Case 22-E-____; Case 22-G-____ 
+ 
+DIRECT TESTIMONY OF INNOVATION, SMARTGRIDS AND EV PANEL 
+ 
+20 
+will seek federal grants to compliment and contribute toward the cost of the project.  If 
+1 
+the project successfully secures federal funding, the capital requirement being recovered 
+2 
+in rates would be reduced.  Additional details for the EV Charging Hub Pilot are included 
+3 
+in Exhibit __ (ISE-5). 
+4 
+Q. 
+Are the Companies proposing any other initiatives to support the ongoing transition 
+5 
+toward EVs? 
+6 
+A. 
+Yes.  The Companies are proposing dedicated funding to support studies, analysis, and 
+7 
+working groups related to EVs to help with program planning, assess future system 
+8 
+impacts, and strategize how to integrate this new electrical load most efficiently.  Studies 
+9 
+may include data gathering, including granular registration data and demographic factors 
+10 
+to consider in future adoption forecasts, corridor fast charging needs based on peak travel 
+11 
+days, fleet electrification potential and depot charging analysis, and consumer charging 
+12 
+behavior analysis.  Working groups may include EV Watts, CALSTART, Alliance for 
+13 
+Transportation Electrification, and others.  The Companies are also proposing dedicated 
+14 
+funding for customer outreach and education on the benefits of electricity as a 
+15 
+transportation fuel along with the overall benefits of EVs.  Additionally, the Companies 
+16 
+will support their fleet customers with an Online EV Fleet Assessment Tool that will 
+17 
+allow customers to perform a “self-service fleet assessment” to identify the feasibility, 
+18 
+costs, and benefits of converting their fleet to EVs.  
+19 
+Q. 
+What are the proposed costs associated with the Companies’ EV studies and analysis, 
+20 
+outreach and education, and Online EV Fleet Assessment Tool proposals? 
+21 
+A. 
+The Companies are proposing expenditures of $700,000 at NYSEG and $300,000 at 
+22 
+RG&E in the Rate Year and annually thereafter to support these efforts. 
+23 
+
+
+--- Page 23 ---
+Case 22-E-____; Case 22-G-____; Case 22-E-____; Case 22-G-____ 
+ 
+DIRECT TESTIMONY OF INNOVATION, SMARTGRIDS AND EV PANEL 
+ 
+21 
+Q. 
+Are the Companies proposing any incremental FTE resources to support the proposed EV 
+1 
+programs? 
+2 
+A. 
+Yes, the Companies are proposing three incremental FTEs to directly support the 
+3 
+proposed EV programs and two FTEs to support ongoing planning and community and 
+4 
+stakeholder engagement related to beneficial electrification.  The three program 
+5 
+implementation FTEs will include: 1) a Program Manager who will be responsible for the 
+6 
+MHD Make-Ready Program; 2) an Energy Specialist who will support implementation of 
+7 
+the MHD Make-Ready Program; and 3) a Portfolio Manager who will be responsible for 
+8 
+overseeing all EV programs.  The two community and stakeholder engagement FTEs will 
+9 
+be Lead Analysts and will support engagement with communities, government entities, 
+10 
+and other stakeholders on matters related to EVs and other beneficial electrification, 
+11 
+including the Municipal Curbside Charging Pilot, and will act as beneficial electrification 
+12 
+subject matter experts.  The Lead Analysts will also perform research to help inform the 
+13 
+Companies on technology, standards, state and federal policies, and market trends and 
+14 
+developments related to EVs.  The Lead Analysts will also participate in regional and 
+15 
+national groups related to beneficial electrification to gather information and identify 
+16 
+industry best practices and support future program development.   
+17 
+
+
+--- Page 24 ---
+Case 22-E-____; Case 22-G-____; Case 22-E-____; Case 22-G-____ 
+ 
+DIRECT TESTIMONY OF INNOVATION, SMARTGRIDS AND EV PANEL 
+ 
+22 
+B. Electric Heat Make-Ready Program 
+1 
+Q. 
+How does the decarbonization of heating factor into New York State’s achievement of 
+2 
+CLCPA targets? 
+3 
+A. 
+The building sector is the largest source of emissions in New York, accounting for 32% 
+4 
+of emissions.3F4  Decarbonizing this sector is fundamental to achieving the CLCPA 
+5 
+greenhouse gas emissions reduction targets.4F5  In addition, on January 5, 2022, Governor 
+6 
+Hochul announced a plan to achieve two million electrified or electrification-ready 
+7 
+homes by 2030.5F6  
+8 
+Q. 
+Are the Companies currently implementing programs that support the decarbonization of 
+9 
+heating in buildings? 
+10 
+A. 
+Yes.  The Companies are currently implementing rebate programs to incentivize the 
+11 
+adoption of ground-source and air-source heat pumps as well as heat pump hot water 
+12 
+heaters.  Details on the heat pump rebate program can be found in the Energy Efficiency 
+13 
+Panel testimony.  
+14 
+Q. 
+Are the Companies proposing any new programs to support the electrification of heating? 
+15 
+A. 
+Yes, the Companies are proposing an Electric Heat Make-Ready Program.  This program 
+16 
+will utilize the general make-ready concept from the EV Make-Ready Program to support 
+17 
+customer adoption of electric heating systems.  
+18 
+ 
+4  
+NYSDEC, 2021 Statewide GHG Emissions Report.  
+5  
+Id. at 41.  
+6  
+Governor Hochul, 2022 State of the State Book at 152 (issued January 5, 2022).  
+
+
+--- Page 25 ---
+Case 22-E-____; Case 22-G-____; Case 22-E-____; Case 22-G-____ 
+ 
+DIRECT TESTIMONY OF INNOVATION, SMARTGRIDS AND EV PANEL 
+ 
+23 
+Q. 
+Can the Panel explain why the Electric Heat Make-Ready Program is necessary to 
+1 
+support customers seeking to shift to electrical heat? 
+2 
+A. 
+Additional costs associated with electric equipment upgrades can be a major barrier for 
+3 
+customers when considering a transition from fossil fuel heat to heat pump or electrical 
+4 
+technology.  Installation and use of heat pumps can lead to significant increases in 
+5 
+electric load.  If that load exceeds the capacity of a customer’s electrical panel, the 
+6 
+customer may need to have their entrance cable and electrical panel box replaced.  
+7 
+Depending on the upgrades required and what size service the customer is upgrading to, 
+8 
+costs could range between $2,000 and $5,000.  
+9 
+Q. 
+How often are electric upgrades required to accommodate heat pump installations? 
+10 
+A. 
+Initial analysis of 400 heat pump installations for low to moderate income households 
+11 
+conducted by NYSERDA found that 17% of the installations required an electrical 
+12 
+upgrade.6F7 
+13 
+Q. 
+Please describe the proposed Electric Heat Make-Ready Program.  
+14 
+A. 
+The program will provide a customer incentive toward the cost of electrical upgrades 
+15 
+required to accommodate full heating load heat pump installations.  This would include 
+16 
+electrical upgrades such as entrance cable replacement and panel box replacement to 
+17 
+accommodate a new heat pump.  The incentive would be up to $3,000, which reflects the 
+18 
+expected average cost per installation.  
+19 
+ 
+7  
+See NYSERDA, LMI Heat Pump Demo Study: Electrical Panel Box Upgrade Analysis.  
+
+
+--- Page 26 ---
+Case 22-E-____; Case 22-G-____; Case 22-E-____; Case 22-G-____ 
+ 
+DIRECT TESTIMONY OF INNOVATION, SMARTGRIDS AND EV PANEL 
+ 
+24 
+Q. 
+What customers will be eligible for program participation? 
+1 
+A. 
+Eligible participants will include existing or new residential single family and multi-
+2 
+family customers installing full heating load air-source or ground-source heat pumps that 
+3 
+also qualify for Clean Heat program incentives.  
+4 
+Q. 
+What equipment will be eligible for program incentives? 
+5 
+A. 
+Eligible equipment will include all on-premises electrical infrastructure upgrades 
+6 
+required to accommodate installation of an air-source heat pump or ground source heat 
+7 
+pump.  
+8 
+Q. 
+How many installations will the program support?  
+9 
+A. 
+The program will support heating electrification for at least 8,400 homes, which 
+10 
+represents a 300% increase in the Companies’ service territories.  
+11 
+Q. 
+What is the proposed program cost? 
+12 
+A. 
+The estimated cost of the program is $29.8 million.   
+13 
+Q. 
+How are the Companies proposing to treat program costs? 
+14 
+A. 
+All program costs will be deferred as a regulatory asset, amortized over a 15-year period 
+15 
+and recovered through an existing surcharge mechanism, inclusive of carrying costs.  
+16 
+Q. 
+Are there incremental resources required to manage the Electric Heat Make-Ready 
+17 
+Program?    
+18 
+A. 
+Yes, program implementation will require three incremental FTEs.  One FTE will be a 
+19 
+Program Manager responsible for all aspects of implementation including direct 
+20 
+engagement with participating customers, engagement and coordination with market 
+21 
+participants, oversight of program vendors, tracking and reporting of program 
+22 
+performance, and evaluation of program effectiveness.  The Program Manager will split 
+23 
+
+
+--- Page 27 ---
+Case 22-E-____; Case 22-G-____; Case 22-E-____; Case 22-G-____ 
+ 
+DIRECT TESTIMONY OF INNOVATION, SMARTGRIDS AND EV PANEL 
+ 
+25 
+their time between NYSEG and RG&E.  The two other FTEs will be Energy Specialists 
+1 
+(one for NYSEG and one for RG&E) that will support all aspects of implementation, 
+2 
+including data collection and budget and performance tracking.  Additional details for the 
+3 
+Electric Heat Make-Ready Program are included in Exhibit __ (ISE-6). 
+4 
+C. Low Income Clean Generation Program  
+5 
+Q. 
+Please describe the proposed program in the renewable generation area and how it 
+6 
+supports CLCPA targets. 
+7 
+A. 
+The Companies are proposing a Low Income Clean Generation Program.  The program 
+8 
+would enable the development of 50 MW of solar photovoltaic (“PV”) installed capacity, 
+9 
+and revenues from the solar facilities would be used to provide bill credits to low-income 
+10 
+customers.  The CLCPA requires that 70% of statewide electric generation come from 
+11 
+renewable energy systems by 2030, and that the grid be zero-emissions by 2040.7F8  In 
+12 
+addition, the CLCPA requires load-serving entities to procure certain amounts of 
+13 
+renewable generation.  Significantly, the CLCPA also requires that clean energy 
+14 
+programs be designed to provide substantial benefits to disadvantaged communities, 
+15 
+including low to moderate income customers.8F9  The Low Income Clean Generation 
+16 
+Program will result in an 8% increase to the Companies’ existing installed capacity and 
+17 
+would benefit low-income customers in the Companies’ service territories. 
+18 
+Q. 
+Please provide further detail on the Low Income Clean Generation Program.  
+19 
+A. 
+The program will include development of two or more solar PV facilities amounting to as 
+20 
+much as 50 MW of installed capacity, with 35 MW allocated to NYSEG and 15 MW 
+21 
+ 
+8  
+Public Service Law § 66-p (2), as added by the CLCPA. 
+9  
+Id. at (7), as added by the CLCPA. 
+
+
+--- Page 28 ---
+Case 22-E-____; Case 22-G-____; Case 22-E-____; Case 22-G-____ 
+ 
+DIRECT TESTIMONY OF INNOVATION, SMARTGRIDS AND EV PANEL 
+ 
+26 
+allocated to RG&E.  Site acquisition, design, engineering, and construction will be 
+1 
+procured through a competitive request for proposals issued and administered by the 
+2 
+Companies.  Revenue generated by the facilities, net of maintenance cost, will be 
+3 
+allocated to designated low-income customers for the life of the assets.  Inclusion of 
+4 
+energy storage will be analyzed and considered to the extent that it will result in 
+5 
+increased revenue.  
+6 
+Q. 
+What is the estimated annual program revenue? 
+7 
+A. 
+Revenue in the first year of operation, 2026, net of maintenance cost, is expected to be 
+8 
+$3.6 million.  It is assumed that due to inflation, gross revenue and maintenance cost will 
+9 
+increase by 3% each year.  
+10 
+Q. 
+How will program revenue be allocated to low-income customers?  
+11 
+A. 
+Revenues will be allocated evenly on a monthly basis to all designated low-income 
+12 
+customers.   
+13 
+Q. 
+What are the benefits of the Low Income Clean Generation Program? 
+14 
+A. 
+The program will generate an estimated annual bill credit of $27 for each designated low-
+15 
+income customer.  Existing programs meant to support renewable generation, including 
+16 
+Remote Crediting and Community Distributed Generation, allocate credits to 
+17 
+participating customers based on revenues generated through those programs. 
+18 
+Participants benefit by reducing what they would otherwise pay for electricity, with part 
+19 
+of the value shared with solar PV developers.  The Low Income Clean Generation 
+20 
+Program has a distinct advantage by allocating all market-based revenue directly to the 
+21 
+customers who will benefit the most, making their electricity more affordable.  The 
+22 
+program will also help increase the proportion of renewable generation in New York.  
+23 
+
+
+--- Page 29 ---
+Case 22-E-____; Case 22-G-____; Case 22-E-____; Case 22-G-____ 
+ 
+DIRECT TESTIMONY OF INNOVATION, SMARTGRIDS AND EV PANEL 
+ 
+27 
+Q. 
+What is the proposed cost for the program?  
+1 
+A. 
+The program cost is $35 million for NYSEG and $15 million for RG&E. 
+2 
+Q. 
+How will the program expenditures be recovered? 
+3 
+A. 
+The solar PV facilities will be treated as utility plant and recovered through base rates. 
+4 
+Q. 
+Why are the Companies proposing to own the solar PV generation facilities that are part 
+5 
+of this program? 
+6 
+A. 
+The Companies are proposing to own the solar PV generation so that revenue can be 
+7 
+allocated directly to low-income customers and, because the Companies are regulated, 
+8 
+the process can be directly overseen by the Commission.  The Commission has 
+9 
+recognized that utility ownership of renewable energy facilities is appropriate in instances 
+10 
+where a project will enable low- or moderate-income residential customers to benefit 
+11 
+from distributed energy resources (“DER”) where markets are not likely to satisfy the 
+12 
+need.9F10      
+13 
+Q. 
+How will the Companies alleviate vertical market power concerns? 
+14 
+A. 
+These facilities will follow all approved New York Independent System Operator 
+15 
+(“NYISO”) requirements for participation in NYISO markets as a price taker, as these 
+16 
+facilities will have low or no variable cost.  The NYISO has operational control of the 
+17 
+transmission and any dispatch of these intermittent resources would be by the NYISO.  
+18 
+ 
+10  See Case 14-M-0101 - Proceeding on Motion of the Commission in Regard to Reforming the Energy Vision, 
+Order Adopting Regulatory Policy Framework and Implementation Plan ("REV Framework Order") at 70 
+(issued February 26, 2015).  
+
+
+--- Page 30 ---
+Case 22-E-____; Case 22-G-____; Case 22-E-____; Case 22-G-____ 
+ 
+DIRECT TESTIMONY OF INNOVATION, SMARTGRIDS AND EV PANEL 
+ 
+28 
+Q. 
+Are there incremental resources required to manage the Low Income Clean Generation 
+1 
+Program?    
+2 
+A. 
+Yes, the program will require one incremental FTE (split between NYSEG and RG&E).  
+3 
+During the development and construction phase, the FTE will be responsible for all 
+4 
+aspects of project development, procurement, and overseeing construction.  During the 
+5 
+operations and program implementation phase, the FTE will be responsible for managing 
+6 
+facility operations, overseeing maintenance contracts, forecasting and tracking cashflows, 
+7 
+customer enrollment, and distribution of credits.  Additional details for the Low Income 
+8 
+Clean Generation Program are included in Exhibit __ (ISE-7). 
+9 
+D. Energy Storage 
+10 
+Q. 
+What are the Companies’ initiatives in the energy storage area and how do they advance 
+11 
+CLCPA efforts? 
+12 
+A. 
+The Companies provide updates on two energy storage procurements and propose three 
+13 
+energy storage projects that will enable a minimum of 29 MW of new energy storage, 
+14 
+which represents an approximate increase of 47% to existing installed energy storage 
+15 
+capacity in the Companies’ service territories.  These initiatives support New York 
+16 
+State’s energy storage target of 3,000 MW of storage by 2030.10F11  These projects will help 
+17 
+further the Companies’ ability to integrate additional intermittent clean generation into 
+18 
+the distribution grid, which supports the clean energy goals of the CLCPA.  
+19 
+ 
+11  See Public Service Law § 66-p (5), as added by the CLCPA.  Since the original target was established, the 
+Commission is exploring a revised target of at least 6,000 MW by 2030, at a minimum doubling the State’s 
+energy storage goal over the same period. 
+
+
+--- Page 31 ---
+Case 22-E-____; Case 22-G-____; Case 22-E-____; Case 22-G-____ 
+ 
+DIRECT TESTIMONY OF INNOVATION, SMARTGRIDS AND EV PANEL 
+ 
+29 
+Q. 
+Can the Companies provide a brief update on the status of the existing energy storage 
+1 
+competitive solicitations11F12 released by the Companies? 
+2 
+A. 
+The Companies completed their first competitive procurement for bulk energy storage in 
+3 
+July 2020 with no viable projects to award.  The Companies have issued a second RFP 
+4 
+for each utility and are currently in the process of evaluating responses with a target to 
+5 
+award any viable projects by the end of Q3 2022. 
+6 
+Q. 
+How do the Companies intend to treat costs associated with viable competitively-
+7 
+procured energy storage projects? 
+8 
+A. 
+Any associated tariff amendments to effectuate cost recovery for the direct competitive 
+9 
+procurement will be filed as directed in the Energy Storage Order.  In addition, the 
+10 
+Companies propose to create an intangible capital asset equivalent to all the energy 
+11 
+storage project costs.  Examples of these costs include, but are not limited to, internal 
+12 
+and/or external labor costs, outside services specific to the payments made to third-parties 
+13 
+for storage procurement solutions, and/or system upgrade costs associated with 
+14 
+interconnecting these projects.  The Companies will defer the revenue requirement 
+15 
+impact of these costs and establish intangible capital assets with this deferral being 
+16 
+eligible for recovery through the Companies rate adjustment mechanism (“RAM”).   
+17 
+ 
+12  The NYSEG and RG&E energy storage solicitations are intended to procure a minimum of 10 MW of energy 
+storage assets at each utility to participate in the NYISO wholesale markets with an in-service date by the end of 
+2025 in accordance with the Commission’s Order Establishing Energy Storage Goal and Deployment Policy in 
+Case 18-E-0130 (issued December 13, 2018) (the “Energy Storage Order”). 
+
+
+--- Page 32 ---
+Case 22-E-____; Case 22-G-____; Case 22-E-____; Case 22-G-____ 
+ 
+DIRECT TESTIMONY OF INNOVATION, SMARTGRIDS AND EV PANEL 
+ 
+30 
+Q. 
+Do the Companies currently have projects in development that will advance the use and 
+1 
+deployment of energy storage? 
+2 
+A. 
+Yes, the Companies have multiple energy storage projects in various stages of 
+3 
+development or in service.12F13 
+4 
+Q. 
+Have the Companies included any proposed costs for the existing energy storage projects 
+5 
+in this rate plan? 
+6 
+A. 
+Yes, the Companies propose a total of $91,305 in RY1, and $92,821 and $93,347 in the 
+7 
+two subsequent years, respectively, to cover the operations and maintenance (“O&M”) 
+8 
+expenditures for the Companies’ current energy storage pilots and demonstrations.  
+9 
+Exhibit __ (ISE-8) includes a project by project breakdown.  
+10 
+Q. 
+Are the Companies proposing any new energy storage projects? 
+11 
+A. 
+Yes, the Companies are proposing two projects for NYSEG and one project for RG&E. 
+12 
+The projects collectively represent 9 MW and 43 MWh of new energy storage. 
+13 
+Q. 
+Please describe the first energy storage project proposed for NYSEG.  
+14 
+A. 
+The first project proposed for NYSEG is a 1 MW, 4 MWh BESS, located at NYSEG’s 
+15 
+Stephentown substation.   
+16 
+Q. 
+Please describe the Stephentown substation and the proposed use case for the BESS. 
+17 
+A. 
+The Stephentown substation is an electric substation located in NYSEG’s Mechanicville 
+18 
+division.  Currently, the substation is comprised of three 34.5-4.8 kV, .833 MVA 
+19 
+ 
+13  Existing NYSEG storage projects include the Java Energy Storage, Stillwater Energy Storage NWA, 
+Distribution Circuit Deployed Battery Energy Storage System (“BESS”) and Aggregated Behind-the-Meter 
+projects.  RG&E storage projects deployed include the Integrated EV Charging, and Peak Shaving BESS 
+projects.  Further details of the NYSEG Java Substation Energy Storage Microgrid and Stillwater NWA projects 
+may be found in the Direct Testimony of the Non-Wires and Non-Pipes Alternatives Panel.  Additional details 
+on the other existing NYSEG and RG&E energy storage projects along with key lessons learned based on 
+operational energy storage pilots, demonstrations, and other storage efforts can be found in Exhibit __ (ISE-8). 
+
+
+--- Page 33 ---
+Case 22-E-____; Case 22-G-____; Case 22-E-____; Case 22-G-____ 
+ 
+DIRECT TESTIMONY OF INNOVATION, SMARTGRIDS AND EV PANEL 
+ 
+31 
+transformers (2.5 MVA total) serving approximately 1,116 residential and small 
+1 
+commercial customers via one 4.8 kV distribution circuit.  The transformer has an 
+2 
+average summer peak load of 97% of its nameplate with the load at the station exceeding 
+3 
+its nameplate rating in 2019 and 2021.  There is also .34 MW of interconnected 
+4 
+residential DER on the substation transformer which are factored into the peak load 
+5 
+requirements of the proposed battery size as the station peak occurs between 5:00 PM and 
+6 
+9:00 PM after the contribution of the station’s DER.  The BESS will be used to reduce 
+7 
+the substation transformer overload for up to 10 years and enhance the substation’s 
+8 
+ability to host additional DER.  Further details of this project can be found in Exhibit __ 
+9 
+(ISE-9).  
+10 
+Q. 
+Please describe the second energy storage project proposed for NYSEG. 
+11 
+A. 
+The second project proposed for the NYSEG territory is a 1 MW, 4 MWh BESS, located 
+12 
+at the Wales Center substation.  
+13 
+Q. 
+Please describe the Wales Center substation and the proposed use case for the BESS. 
+14 
+A. 
+The Wales Center substation is an electric substation located in the eastern portion of the 
+15 
+Lancaster Division.  Currently, this substation is comprised of three 34.5-4.8 kV, 1.67 
+16 
+MVA transformers (5 MVA total) serving approximately 1,773 residential and small 
+17 
+commercial customers via two 4.8 kV distribution circuits.  The Wales Center substation 
+18 
+transformer has an average summer peak load of 92% of its nameplate.  In addition to the 
+19 
+substation beginning to exceed its nameplate rating in the 2011-2014 timeframe, NYSEG 
+20 
+has also seen significant penetration (2.3 MW) of intermittent DER interconnected to the 
+21 
+station with over 2.5 MW of DER in the current interconnection queue.  The combination 
+22 
+of these drivers, including the large amount of intermittent DER, introduces future 
+23 
+
+
+--- Page 34 ---
+Case 22-E-____; Case 22-G-____; Case 22-E-____; Case 22-G-____ 
+ 
+DIRECT TESTIMONY OF INNOVATION, SMARTGRIDS AND EV PANEL 
+ 
+32 
+concerns with providing quality of supply to customers (e.g., voltage flicker and 
+1 
+regulation) as well as the ability of the Wales Center substation to host additional DER 
+2 
+cost-effectively.  This BESS will be used to reduce the transformer overload need, 
+3 
+address potential quality of supply issues, and increase DER hosting capacity.  Further 
+4 
+details of this project can be found in Exhibit __ (ISE-10).  
+5 
+Q. 
+Please describe the energy storage project proposed for RG&E. 
+6 
+A. 
+RG&E proposes a 7 MW, 35 MWh battery storage system located at Station 125, an 
+7 
+electric substation located in the Canandaigua Division.   
+8 
+Q. 
+Please describe Station 125 and the proposed use case for the BESS. 
+9 
+A. 
+Station 125 is comprised of two 34.5-12.47 kV, 22.4 MVA transformers serving 
+10 
+approximately 2,176 customers via six 12.47 kV distribution circuits.  Substation 
+11 
+Transformer Bank #2 (“Bank #2”) is a 22.4 MVA transformer that has a five-year 
+12 
+average loading at 89% of its capacity and peaks between the hours of 10:00 AM to 7:00 
+13 
+PM.  In 2020, the load at the station reached 94% of its nameplate rating.  Based on 
+14 
+current load projections and forecasted and queued new loads, Bank #2 will begin to 
+15 
+reach its nameplate rating in 2022 and is expected to exceed its nameplate rating in 2023.  
+16 
+RG&E is proposing the BESS to help reduce the transformer overload need and increase 
+17 
+the transformer loading efficiency.  There is also approximately .853 MW of 
+18 
+interconnected residential and commercial DER on the transformer with expected 
+19 
+additional DER to be added in the future.  The peak period of the station is conducive to 
+20 
+utilizing the BESS to increase the hosting capacity of Bank #2 as another use case to be 
+21 
+explored.  Further details of this project can be found in Exhibit __ (ISE-11). 
+22 
+
+
+--- Page 35 ---
+Case 22-E-____; Case 22-G-____; Case 22-E-____; Case 22-G-____ 
+ 
+DIRECT TESTIMONY OF INNOVATION, SMARTGRIDS AND EV PANEL 
+ 
+33 
+Q. 
+ What are the proposed capital and O&M expenditures for these proposed energy storage 
+1 
+projects? 
+2 
+A. 
+The Companies propose a total capital budget for Stephentown, Wales Center and Station 
+3 
+125 projects of approximately $23.85 million dollars with $7.16 million and $16.7 
+4 
+million in the two years subsequent to the Rate Year, respectively.  In addition, to cover 
+5 
+the operational and maintenance expenditures for the proposed energy storage projects, 
+6 
+the Companies estimate total O&M expense of approximately $290,200 subsequent to the 
+7 
+Rate Year.  Project by project breakdown of costs may be found in Exhibit __ (ISE-9), 
+8 
+Exhibit __ (ISE-10), and Exhibit __ (ISE-11).  
+9 
+Q. 
+Are the Companies proposing to bid these energy storage systems into the NYISO 
+10 
+market, and if so, what do the Companies propose to do with the revenues? 
+11 
+A. 
+Yes, consistent with the Commission’s September 9, 2021 Order in Cases 18-E-0130 and 
+12 
+16-M-0411, the Companies propose to provide the output from the utility-owned energy 
+13 
+storage systems into the NYISO wholesale markets.  The Companies propose to use the 
+14 
+net market revenues from these energy storage projects to provide credits to low-income 
+15 
+customers.  Revenues will be allocated evenly on a monthly basis to each of the 
+16 
+designated low-income customers.   
+17 
+Q. 
+Are the Companies proposing to own these new energy storage projects? 
+18 
+A. 
+Yes, the Companies believe there is intrinsic value to utility ownership of these specific 
+19 
+energy storage projects that cannot be gained by third-party ownership. 
+20 
+Q. 
+Please explain the benefits of utility ownership of these projects. 
+21 
+A. 
+The Companies believe that energy storage projects supporting the reliability and 
+22 
+resiliency of the electric distribution system are appropriate and provide the greatest 
+23 
+
+
+--- Page 36 ---
+Case 22-E-____; Case 22-G-____; Case 22-E-____; Case 22-G-____ 
+ 
+DIRECT TESTIMONY OF INNOVATION, SMARTGRIDS AND EV PANEL 
+ 
+34 
+value from utility ownership.  Specifically, each of these projects are solving multiple 
+1 
+substation needs that will require significant integration into utility operations and 
+2 
+processes while ensuring the safety and reliability of the distribution system.  Each 
+3 
+proposed project will provide solutions to reduce a capacity or thermal overload issue at a 
+4 
+substation transformer, help shift existing DER resource output, increase the ability of the 
+5 
+substation to host more DER, and in some cases address potential quality of supply 
+6 
+concerns.  The Companies will be securing the BESS systems via a competitive 
+7 
+procurement process which serves to continue to develop the storage market in New 
+8 
+York.  Lastly, the Companies will gain valuable experience bidding these projects into 
+9 
+the NYISO markets to generate market revenue to help offset project operational costs, 
+10 
+directly reducing costs to customers. 
+11 
+Q. 
+Please explain why these projects are not being proposed as Non-Wires Alternatives. 
+12 
+A. 
+Each of the new projects discussed above has an immediate need that is best suited to be 
+13 
+resolved with energy storage.  Based on the Companies Non-Wires Alternative suitability 
+14 
+criteria, these projects have an N-0 system capacity overload that need to be resolved in 
+15 
+less than 36 months making these projects exempt from NWA consideration.  
+16 
+Q. 
+How do the Companies propose recovery for the energy storage project costs? 
+17 
+A. 
+The Companies propose to recover all development and implementation costs of these 
+18 
+energy storage systems as utility-owned assets.  
+19 
+Q. 
+Are the Companies working on any other energy storage collaborations? 
+20 
+A. 
+Yes, the Companies are aware of Binghamton University’s New Energy New York 
+21 
+Project (“NENY”), which has been selected as one of the country’s first awardees for 
+22 
+Phase 1 of the American Rescue Plan’s Build Back Better Regional Challenge.  This 
+23 
+
+
+--- Page 37 ---
+Case 22-E-____; Case 22-G-____; Case 22-E-____; Case 22-G-____ 
+ 
+DIRECT TESTIMONY OF INNOVATION, SMARTGRIDS AND EV PANEL 
+ 
+35 
+award opens up two opportunities to the University: first, it provides $500,000 in 
+1 
+technical assistance funding for the University to develop its proposal to turn the 
+2 
+Southern Tier region into an energy technology hub; and second, it allows the University 
+3 
+to compete in Phase 2 of the challenge for up to $100 million to create a hub for battery 
+4 
+manufacturing with national and global impacts.  Additional detail can be found in 
+5 
+Exhibit __ (ISE-12).  
+6 
+Q. 
+How do the Companies anticipate collaborating with Binghamton University on the 
+7 
+NENY project? 
+8 
+A. 
+The Companies provided a letter of support for the NENY project that details our 
+9 
+recognition of the importance of the NENY vision and our excitement to collaborate with 
+10 
+the initiative’s stakeholders.  To support the NENY’s Energy Storage Acceleration aimed 
+11 
+at establishing New York as the premier destination for realizing energy storage 
+12 
+technologies and startups from prototyping to scale-up to manufacturing, NYSEG will 
+13 
+provide competitive annual research grants of up to $500,000 to collaborate with third-
+14 
+parties on new programs for proof-of-concept support, acceleration of nascent and mature 
+15 
+startups, and the development of new incubation models and facilities. 
+16 
+Q. 
+What will be the cost of the NENY collaboration and how do the Companies propose 
+17 
+recovery of the cost? 
+18 
+A. 
+The total proposed cost of the NYSEG program is $500,000 in the Rate Year, and 
+19 
+annually thereafter, to support the funding of these competitive research grants.  These 
+20 
+costs will be recovered in base rates.   
+21 
+
+
+--- Page 38 ---
+Case 22-E-____; Case 22-G-____; Case 22-E-____; Case 22-G-____ 
+ 
+DIRECT TESTIMONY OF INNOVATION, SMARTGRIDS AND EV PANEL 
+ 
+36 
+Q. 
+Are the Companies pursuing any federal funding to help support the costs of these energy 
+1 
+storage projects? 
+2 
+A. 
+Yes, the Companies are reviewing the recently announced Infrastructure Investment and 
+3 
+Jobs Act (“IIJA”) for potential energy storage projects, and initiatives under the Electric 
+4 
+Grid Reliability and Resilience, Development, and Demonstration provisions.13F14  Any 
+5 
+federal funds the Companies receive will be used to offset project costs to customers.  
+6 
+Q. 
+Are there incremental resources required to manage and support the portfolio of energy 
+7 
+storage projects and initiatives?  
+8 
+A. 
+Yes, in anticipation of significant energy storage market growth over the upcoming years 
+9 
+it is important for the Companies to develop proactively the resources and processes to 
+10 
+help optimize storage value for our customers' benefit.  Project implementation will 
+11 
+require three incremental FTEs to directly support development and deployment of the 
+12 
+existing and new energy storage projects and related activity.  All three FTEs will split 
+13 
+their time between NYSEG and RG&E.  The Manager will be dedicated to the 
+14 
+development of internal and external processes to help facilitate energy storage 
+15 
+development in the Companies’ service territories, the management of storage-related 
+16 
+stakeholder engagement, and the management of current and future energy storage RFPs 
+17 
+and procurements.  The Lead Engineer will be responsible for the technical aspects of 
+18 
+energy storage including the viability of current and future technologies, storage related 
+19 
+ 
+14   The IIJA was signed into law on November 15, 2021.  IIJA programs have different timelines for 
+implementation and will help guide prioritization and various stakeholder outreach.  Section 40103 provides $5 
+billion may be available for the Department of Energy to provide funding assistance to states, Public Utility 
+Commissions, local governments, or Tribes to demonstrate innovative approaches to transmission, storage, and 
+distribution infrastructure to harden and enhance resilience and reliability.   
+
+
+--- Page 39 ---
+Case 22-E-____; Case 22-G-____; Case 22-E-____; Case 22-G-____ 
+ 
+DIRECT TESTIMONY OF INNOVATION, SMARTGRIDS AND EV PANEL 
+ 
+37 
+local and national industry standards, interconnection, and assist internal and external 
+1 
+projects on technical matters related to storage.  The Project Manager will be utilized to 
+2 
+help manage internal and external storage-related projects and technology 
+3 
+demonstrations, assist with the development of identifying beneficial storage locations 
+4 
+within the Companies' service territories, and help with operational oversight of the 
+5 
+current and future storage assets. 
+6 
+E. Innovative Collaborations, Partnerships, and Pilot Projects 
+7 
+Q. 
+What projects are the Companies proposing related to innovative collaborations, 
+8 
+partnerships, and pilot projects?  
+9 
+A. 
+In this subsection, the Companies: 1) provide updates on existing REV demonstrations; 
+10 
+2) propose new pilots including a Rochester Hydrogen Blending Pilot, which will allow a 
+11 
+major customer to reduce natural gas consumption and decarbonize operations, while 
+12 
+providing a valuable learning experience for RG&E; 3) propose the Ithaca Electrification 
+13 
+Program, which includes a comprehensive and collaborative effort to support the City of 
+14 
+Ithaca’s goal to achieve carbon neutrality by 2030; and 4) discuss innovative partnerships 
+15 
+and collaborations, which will leverage the expertise of the institutions in our 
+16 
+communities, and global opportunities. 
+17 
+Q. 
+How do the proposed innovation projects support the goals of the CLCPA? 
+18 
+A. 
+Collectively, the innovation proposals and efforts enable the Companies to test their 
+19 
+programs and technologies under highly controlled settings to evaluate performance, sort 
+20 
+through any emergent issues, identify opportunities for additional research and 
+21 
+development, and compile lessons learned.  These innovative collaborations, initiatives, 
+22 
+and pilots allow the Companies to efficiently identify energy innovations that can be 
+23 
+
+
+--- Page 40 ---
+Case 22-E-____; Case 22-G-____; Case 22-E-____; Case 22-G-____ 
+ 
+DIRECT TESTIMONY OF INNOVATION, SMARTGRIDS AND EV PANEL 
+ 
+38 
+scaled to advance important programs including DER integrations, beneficial 
+1 
+electrification programs, and customer engagement programs critical to achieving 
+2 
+CLCPA goals. 
+3 
+Q. 
+Have past demonstration projects impacted current and future planning?  
+4 
+A. 
+Yes.  These projects have helped to identify and build understanding of technology along 
+5 
+with customer and market needs related to various DERs.  Furthermore, these projects 
+6 
+have helped inform and develop current program plans in several areas including energy 
+7 
+efficiency programs, demand response programs, interactions with DER service 
+8 
+providers, distribution system management, customer engagement, and energy storage.  
+9 
+1. Existing Innovative Pilots 
+10 
+Q. 
+What are the Companies' current pilots and how do you propose to treat their costs? 
+11 
+A. 
+The Companies are implementing several energy storage pilots and demonstrations as 
+12 
+well as a Flexible Interconnection Capacity System (“FICS”) pilot.  The Companies will 
+13 
+continue to follow the guidance provided in the REV Framework Order.  The REV 
+14 
+demonstration program incremental costs and fees not otherwise included in base 
+15 
+delivery rates would be deferred as a regulatory asset, which would be recovered in the 
+16 
+Companies' next rate case filing.  
+17 
+2. New Pilots: Rochester Hydrogen Blending and Smart Meter - Smart Inverter 
+18 
+Q. 
+Do the Companies propose to launch any hydrogen pilots?  
+19 
+A. 
+Yes.  RG&E proposes to launch a Hydrogen Blending Pilot Project in the City of 
+20 
+Rochester.    
+21 
+
+
+--- Page 41 ---
+Case 22-E-____; Case 22-G-____; Case 22-E-____; Case 22-G-____ 
+ 
+DIRECT TESTIMONY OF INNOVATION, SMARTGRIDS AND EV PANEL 
+ 
+39 
+Q. 
+Please provide a summary of the Hydrogen Blending Pilot Project. 
+1 
+A. 
+RG&E is partnering with RED Rochester, LLC (“RED”) to blend up to 20% hydrogen 
+2 
+into RED’s power and heat generation units that run on natural gas.  The goal of the 
+3 
+project is to reduce RED’s greenhouse gas (“GHG”) emissions and evaluate the ability of 
+4 
+existing natural gas fired technologies to blend and combust hydrogen in an efficient 
+5 
+manner.  The results will inform RG&E on potential opportunities for its industrial gas 
+6 
+customers in sectors that are difficult and costly to electrify to decarbonize their 
+7 
+operations cost-effectively.   
+8 
+Q. 
+Please describe RED and its relationship with RG&E.  
+9 
+A. 
+RED14F15 is RG&E’s single largest customer, a small utility which provides heat, power, 
+10 
+and steam through a combined heat and power plant, and a variety of additional utility 
+11 
+services to more than 114 industrial customers located within Eastman Business Park in 
+12 
+Rochester.  RED is pursuing carbon dioxide emission reduction strategies while 
+13 
+leveraging its considerable natural gas infrastructure.  As part of this pilot project, RED 
+14 
+will allow for blending equipment to be installed in their facilities and will provide the 
+15 
+internal combustion equipment for hydrogen blending trials.  RED will work closely with 
+16 
+RG&E to develop a project design that has minimal impact on their operations and their 
+17 
+customers, while still ensuring essential data gathering.  
+18 
+ 
+15  In 2018, RED converted their on-site energy generation facility from coal to natural gas, retrofitting existing 
+boilers and adding new equipment; at that time RG&E constructed a dedicated natural gas pipeline serving 
+RED’s processes with approximately 1,800 mcfh of natural gas at a pressure of 120 psig MAOP, regulated to 40 
+psig for their fuel lines. 
+
+
+--- Page 42 ---
+Case 22-E-____; Case 22-G-____; Case 22-E-____; Case 22-G-____ 
+ 
+DIRECT TESTIMONY OF INNOVATION, SMARTGRIDS AND EV PANEL 
+ 
+40 
+Q. 
+Please elaborate on the scope envisioned for the hydrogen pilot. 
+1 
+A. 
+The scope of the pilot would include multiple phases; the initial three phases allow for 
+2 
+testing the impact of hydrogen concentrations on end-use industrial equipment.  During 
+3 
+the testing stage, hydrogen would be delivered to the site or produced with a small scale 
+4 
+electrolyzer coupled with storage to perform short-duration tests lasting a few hours.  
+5 
+Test results will be used to determine the appropriate concentration of hydrogen blend for 
+6 
+the fourth phase of the project and determine an optimally-sized electrolyzer, which will 
+7 
+be installed on-site to provide continuous supply of clean hydrogen to RED.  RG&E will 
+8 
+own, operate and maintain the electrolyzer.  
+9 
+Q. 
+Why is RG&E proposing to implement this pilot project in phases? 
+10 
+A. 
+By phasing the project to include isolated testing first, followed by larger-scale hydrogen 
+11 
+blending to the entire facility, RG&E can ensure that all impacted equipment, appliances, 
+12 
+and system operators are appropriately prepared for hydrogen blending.  Each phase will 
+13 
+be individually evaluated for impact to RED and ratepayers, and will be designed to 
+14 
+maintain the highest level of safety, efficiency, and reliability with minimal impact to 
+15 
+customers.  
+16 
+Q. 
+What is the status of the pilot development? 
+17 
+A. 
+Currently, RG&E is working with RED, FuelCell Energy (“FCE”) and the Electric Power 
+18 
+Research Institute (“EPRI”) to execute a memorandum of understanding that outlines 
+19 
+each partner's responsibility and financial and resource commitments.  The parties are 
+20 
+also working on details related to the execution of the testing phases (Phases 1, 2 and 3), 
+21 
+including but not limited to testing timeline, safety procedure, blending skid design, 
+22 
+engineering and procurement, and hydrogen supply.  
+23 
+
+
+--- Page 43 ---
+Case 22-E-____; Case 22-G-____; Case 22-E-____; Case 22-G-____ 
+ 
+DIRECT TESTIMONY OF INNOVATION, SMARTGRIDS AND EV PANEL 
+ 
+41 
+Q. 
+Has RG&E identified any other end-use applications once Phase 4 of the pilot project is 
+1 
+commissioned? 
+2 
+A. 
+RG&E aims to leverage the 20 MW electrolyzer that will be installed in this pilot project 
+3 
+to deliver hydrogen to multiple off takers, as part of a larger hydrogen hub in the area. 
+4 
+RG&E is working closely with NYSERDA to identify additional hydrogen demand 
+5 
+across New York.  RG&E is currently in early discussion with RTS about converting 
+6 
+some of their city transit buses to hydrogen fuel cell buses, as well as the Rochester 
+7 
+Airport with regard to retrofitting their ground vehicles to hydrogen fuel cells.  
+8 
+Q. 
+How does the hydrogen pilot benefit the Companies' ability to enable a clean energy 
+9 
+future and in turn, benefit customers?  
+10 
+A. 
+The benefits of the hydrogen pilot project include: 1) alignment with CLCPA goals; 2) 
+11 
+investigation of decarbonization of natural gas infrastructure; 3) advancing the 
+12 
+Companies' capabilities; and 4) investigation of natural gas peak consumption reduction.  
+13 
+More detail can be found in Exhibit __ (ISE-13). 
+14 
+Q. 
+What proposed capital and O&M expenditures has RG&E included for the hydrogen 
+15 
+blending pilot in this rate proceeding? 
+16 
+A. 
+For this rate proceeding, RG&E proposes a capital budget of $2 million in the Rate Year, 
+17 
+with $6 million and $12 million required in the subsequent two years, respectively.  In 
+18 
+addition, to cover the operational and maintenance expenditures for the proposed 
+19 
+hydrogen pilot, RG&E estimates total O&M expense of approximately $1 million total 
+20 
+with $200,000 and $800,000 required in the two years subsequent to the Rate Year, 
+21 
+respectively.  RG&E is still working with RED, FCE and EPRI to determine the detailed 
+22 
+bill of quantity for equipment, engineering, construction, and commissioning costs.  In 
+23 
+
+
+--- Page 44 ---
+Case 22-E-____; Case 22-G-____; Case 22-E-____; Case 22-G-____ 
+ 
+DIRECT TESTIMONY OF INNOVATION, SMARTGRIDS AND EV PANEL 
+ 
+42 
+addition, while RG&E is actively investigating opportunities to secure state and federal 
+1 
+funding for this project, the prospects of success of those efforts are uncertain.  
+2 
+Q. 
+Is RG&E proposing any incremental positions to manage the hydrogen blending pilot 
+3 
+efforts?  
+4 
+A. 
+Yes, RG&E is proposing one incremental FTE, a Program Manager - Green Hydrogen, to 
+5 
+support the development, construction, and ongoing management of the pilot project.  
+6 
+The FTE will coordinate all activities between RG&E’s subject matter experts, as well as 
+7 
+the RED, FCE, and EPRI teams.  The FTE will lead the team in drafting any future 
+8 
+proposals that aim to secure federal and/or other external funding sources.  In addition, 
+9 
+the FTE will be responsible for facilitating meetings and communication with Staff 
+10 
+regarding the results and analysis of each phase of the project.  The FTE will lead the 
+11 
+development of internal and external processes to help facilitate future hydrogen 
+12 
+development in the Companies' territories and manage hydrogen-related stakeholder 
+13 
+engagement. 
+14 
+Q. 
+Does New York State have goals and/or policies related to hydrogen?  
+15 
+A. 
+Yes, the CLCPA’s Draft Scoping Plan recognizes that hydrogen will play a role in the 
+16 
+State’s comprehensive decarbonization strategy.  
+17 
+Q. 
+Are the Companies proposing any other pilots?  
+18 
+A. 
+Yes.  The Companies are proposing to execute a Smart Meter – Smart Inverter (“SMSI”) 
+19 
+Interface Pilot.  This pilot would leverage the Companies’ collaboration and research 
+20 
+with Rochester Institute of Technology (“RIT”) and two vendors to deploy a low-cost 
+21 
+monitoring and control DER gateway in the field.  The previous research was performed 
+22 
+within a controlled lab environment.  This project takes the next step with a field 
+23 
+
+
+--- Page 45 ---
+Case 22-E-____; Case 22-G-____; Case 22-E-____; Case 22-G-____ 
+ 
+DIRECT TESTIMONY OF INNOVATION, SMARTGRIDS AND EV PANEL 
+ 
+43 
+deployment.  The monitoring and control signals would be passed through the 
+1 
+Companies’ AMI network to reduce the need for additional communications equipment.   
+2 
+The scope of the project includes the deployment of the technology at 15 sites throughout 
+3 
+the Companies’ service territories.  Additional details may be found in Exhibit __ (ISE-
+4 
+14).    
+5 
+Q. 
+What is the proposed cost of the SMSI Interface Pilot and how do the Companies propose 
+6 
+cost recovery? 
+7 
+A. 
+The proposed cost of the SMSI Interface Pilot is $932,500 in capital cost to cover the 
+8 
+deployment of 15 Smart Meter - Smart Inverter interface technology prototypes in the 
+9 
+field and $120,000 for O&M.  These costs are included in the revenue requirements and 
+10 
+proposed to be recovered in base rates.    
+11 
+Q. 
+Are the Companies proposing incremental positions to execute the Companies’ SMSI 
+12 
+Interface Pilot?  
+13 
+A. 
+Yes, the Companies require just over six incremental FTEs across the business areas to 
+14 
+design, deploy, install, and commission the various installations.  Specifically, the FTEs 
+15 
+will be responsible for designing the end-to-end telecommunications infrastructure, 
+16 
+architecting, and assessing cybersecurity, interfacing the smart inverter with the smart 
+17 
+meter, overall project management, and monitoring performance after installation.  Once 
+18 
+the installations are complete, the Companies require slightly over one FTE to support the 
+19 
+ongoing operation and maintenance of the installations.   
+20 
+
+
+--- Page 46 ---
+Case 22-E-____; Case 22-G-____; Case 22-E-____; Case 22-G-____ 
+ 
+DIRECT TESTIMONY OF INNOVATION, SMARTGRIDS AND EV PANEL 
+ 
+44 
+3. Ithaca Electrification Program and Other Pilots 
+1 
+Q. 
+What other pilot projects do the Companies propose to launch in this rate plan? 
+2 
+A. 
+The Companies are proposing to launch several pilot projects as part of the Ithaca 
+3 
+Electrification Program collaboration, and several other pilots outside of Ithaca to 
+4 
+advance innovation.  The Ithaca Electrification Program and Other Pilots include: 1) 
+5 
+Demand Side LMI HVAC Management; 2) Geothermal District Energy System Pilot; 
+6 
+and 3) Community Heat Pump System Studies.  In addition, other pilot projects include 
+7 
+REV Connect pilots, academic institution collaborations, and global innovation challenge 
+8 
+pilots. 
+9 
+Q. 
+Please describe the Companies’ Ithaca Electrification Program. 
+10 
+A. 
+The Companies are closely collaborating with the City of Ithaca and are taking steps to 
+11 
+align long-term system planning with Ithaca’s needs, assessing opportunities to leverage 
+12 
+non-ratepayer funds, and proposing to launch projects all with the intent to support the 
+13 
+City of Ithaca’s Green New Deal15F16 and Energy Efficiency Retrofit and Thermal Load 
+14 
+Electrification Program goals. 
+15 
+Q. 
+What is the objective of the City of Ithaca’s Energy Efficiency Retrofit and Thermal 
+16 
+Load Electrification Program? 
+17 
+A. 
+The objective is to promote energy efficiency retrofits and elimination of fossil fuel 
+18 
+combustion for building energy.  Further, the program aims to gradually improve the 
+19 
+overall energy performance of the city’s building stock by assessing each individual 
+20 
+ 
+16  The Ithaca Green New Deal goals include the following: 1) Achieve carbon neutrality community-wide by 
+2030; 2) Meet the electricity needs of City government operations with 100% renewable energy by 2025; 3) 
+Reduce emissions from City vehicle fleet by 50% by 2025; 4) Ensure the benefits are shared among all local 
+communities to reduce historical social and economic inequities; and 5) Facilitate a comprehensive public 
+engagement process. 
+
+
+--- Page 47 ---
+Case 22-E-____; Case 22-G-____; Case 22-E-____; Case 22-G-____ 
+ 
+DIRECT TESTIMONY OF INNOVATION, SMARTGRIDS AND EV PANEL 
+ 
+45 
+building and determining potential energy efficiency improvements, through energy 
+1 
+retrofitting and the substitution of non-electric thermal loads and air conditioning systems 
+2 
+with air-source and ground-source heat pumps, and the installation of efficient lighting, 
+3 
+photovoltaic and solar thermal systems, onsite storage, smart thermostats and smart 
+4 
+meters. 
+5 
+Q. 
+How are the Companies aligning long-term system planning with Ithaca’s needs? 
+6 
+A. 
+In collaboration with the City of Ithaca, the Companies have developed an initial 
+7 
+electrification load model that assesses expected loads and system impacts with timing 
+8 
+aligned with Ithaca’s electrification targets.  The initial electrification load model will be 
+9 
+enhanced over the next year through the Future Grid Project, where the Companies, 
+10 
+Ithaca, Siemens PTI, and Cornell University will work collaboratively to forecast and 
+11 
+assess system impacts from building and vehicle electrification and distributed 
+12 
+generation.  
+13 
+Q. 
+Does the distribution and transmission system have enough available capacity to 
+14 
+accommodate the expected increased load? 
+15 
+A. 
+There are system constraints associated with both the existing system load and the 
+16 
+projected future load.  Projects are planned to resolve these constraints, and they have 
+17 
+been scheduled with the specific intent to prevent impediments to Ithaca’s electrification 
+18 
+targets.  These projects (“Phase 1 Projects”) were planned before the recent electrification 
+19 
+load model was developed (see Direct Testimony of the Electric and Common Capital 
+20 
+Expenditures Panel).  The projects have the added benefit of creating sufficient system 
+21 
+capacity to accommodate the electrification load increases over the next three to five 
+22 
+years.  Beyond the three- to five-year time frame, additional constraints are expected.  
+23 
+
+
+--- Page 48 ---
+Case 22-E-____; Case 22-G-____; Case 22-E-____; Case 22-G-____ 
+ 
+DIRECT TESTIMONY OF INNOVATION, SMARTGRIDS AND EV PANEL 
+ 
+46 
+The Companies are coordinating with the City of Ithaca to improve the electrification 
+1 
+load forecast and to plan future investments (“Phase 2 Projects”) as required to prevent 
+2 
+electrical system constraints from inhibiting the electrification targets.  
+3 
+Q. 
+How will the Companies leverage non-ratepayer funds? 
+4 
+A. 
+The Companies are already leveraging non-ratepayer funds through the Future Grid 
+5 
+Challenge, which is funded by NYSERDA.  The Companies, working collaboratively 
+6 
+with Ithaca, are evaluating opportunities to jointly apply for federal funding that will help 
+7 
+pay for end use technologies and the grid infrastructure requirements to support these 
+8 
+new loads.  The shared efforts between Ithaca and the Companies will create a national 
+9 
+example of what is possible for community decarbonization.  
+10 
+Q. 
+Please describe the Demand Side LMI HVAC Management Pilot. 
+11 
+A. 
+This project will partner with NYSERDA and their award recipient16F17 to pilot HVAC 
+12 
+management device implementation in the low- to moderate-income (“LMI”) community 
+13 
+to enable and evaluate energy and cost savings, carbon reduction, smart control, and 
+14 
+energy usage insights.  The HVAC management device uses innovative Automatic 
+15 
+Energy Reduction (“AER”) algorithms, which make it the only heating and cooling 
+16 
+controls device proven to deliver residential energy use reduction without the need for 
+17 
+consumer intervention.  Using tailored Application Programming Interfaces (“APIs”), the 
+18 
+device will share data and provide the Companies with a level of visibility and control to 
+19 
+ 
+17  NYSERDA made the award to the device manufacturer Hub Controls with the intent to pilot the devices and 
+produce a final report on the benefits of the device for the customers, the Companies, and municipal and state 
+carbon reduction goals.  The deliverables from the NYSERDA-funded independently verified report include 
+HVAC energy use and greenhouse gas reductions, market/consumer behavior, market insights and validation, 
+and benefits for all stakeholders. 
+
+
+--- Page 49 ---
+Case 22-E-____; Case 22-G-____; Case 22-E-____; Case 22-G-____ 
+ 
+DIRECT TESTIMONY OF INNOVATION, SMARTGRIDS AND EV PANEL 
+ 
+47 
+enable identification of beneficial energy efficiency programs for customers.  The HVAC 
+1 
+management device collects 97,000 energy use data points per home per year and can tell 
+2 
+if the home is poorly insulated, could use a heating system upgrade, or if the temperature 
+3 
+is changed inefficiently.  The AER algorithms, data gathering, and energy management 
+4 
+capabilities are all wrapped up in an easy to navigate device resembling a smart 
+5 
+thermostat.  Additional project information for the Demand Side LMI HVAC 
+6 
+Management Pilot may be found in Exhibit __ (ISE-15). 
+7 
+Q. 
+What is the proposed cost of the Demand Side LMI HVAC Management Pilot and how 
+8 
+do the Companies propose recovery of the cost? 
+9 
+A. 
+The total cost of the program is $340,000 in capital expenditures to cover 500 HVAC 
+10 
+management devices and approximately $140,000 in O&M expenditures to support 
+11 
+device integration and monitoring.  These costs are included in the revenue requirements 
+12 
+and recovered in base rates.   
+13 
+Q. 
+Will these pilot projects aimed at supporting the City of Ithaca’s electrification goals be 
+14 
+scalable to other New York municipalities? 
+15 
+A. 
+Yes.  While Ithaca is one of the leading U.S. cities to begin to fully decarbonize all its 
+16 
+buildings, it cannot be the last New York urban area if New York is to achieve the goals 
+17 
+of the CLCPA.  A close collaboration with the City of Ithaca and energy stakeholders 
+18 
+will provide a guiding model for other urban regions in the Companies’ service 
+19 
+territories.  
+20 
+
+
+--- Page 50 ---
+Case 22-E-____; Case 22-G-____; Case 22-E-____; Case 22-G-____ 
+ 
+DIRECT TESTIMONY OF INNOVATION, SMARTGRIDS AND EV PANEL 
+ 
+48 
+Q. 
+Do the Companies propose to pilot any projects not directly related to Ithaca’s Green 
+1 
+New Deal goals? 
+2 
+A. 
+Yes, per the Joint Proposal approved by the Commission in the 2019 Rate Case ("2020 
+3 
+Joint Proposal"), NYSEG and RG&E retained a vendor with experience in geothermal 
+4 
+district energy systems and heat pump heating and cooling solutions to assist in 
+5 
+developing a study to examine the feasibility of deploying geothermal district energy 
+6 
+systems in its respective service territory, and to develop plans for subsequent pilot 
+7 
+projects where feasible.  The geothermal district energy feasibility study was completed 
+8 
+in Q1 2022 and, as required in the 2020 Joint Proposal, NYSEG is proposing this pilot 
+9 
+project which will be located in its Ithaca division.  Further details regarding the selected 
+10 
+pilot project can be found in the Non-Wires and Non-Pipes Alternatives Panel testimony. 
+11 
+Q. 
+Beyond the District Geothermal Heat Pump pilots authorized by the 2020 Joint Proposal, 
+12 
+will the Companies launch additional pilots evaluating Community Heat Pump Systems?  
+13 
+A. 
+Yes.  Currently, the Companies are supporting three Community Heat Pump System 
+14 
+Studies for the City of Oneonta, SUNY Oneonta, and the Oneonta Railyards.  These were 
+15 
+awarded funding through NYSERDA’s Program Opportunity Notice (“PON”) 4614 for 
+16 
+Community Heat Pump Systems.  For these projects, the Companies are providing 
+17 
+subject matter expertise, project review, and data including natural gas and electricity 
+18 
+consumption data.  At present, the Companies have provided letters of support for two 
+19 
+additional Community Heat Pump System studies and anticipate providing similar levels 
+20 
+of support for the funded projects.   
+21 
+
+
+--- Page 51 ---
+Case 22-E-____; Case 22-G-____; Case 22-E-____; Case 22-G-____ 
+ 
+DIRECT TESTIMONY OF INNOVATION, SMARTGRIDS AND EV PANEL 
+ 
+49 
+Q. 
+What is the incremental funding required to support the Geothermal Pilot Evaluation 
+1 
+Support? 
+2 
+A. 
+Incremental funding to support the Geothermal Pilot evaluation is estimated at a total 
+3 
+annual O&M spend of approximately $66,500 (NYSEG) and $33,500 (RG&E) in the 
+4 
+Rate Year and thereafter to support this effort.  This estimate has been included as part of 
+5 
+the Companies’ revenue requirements calculations. 
+6 
+Q. 
+What do the NYSERDA funded Community Heat Pump System Studies seek to achieve? 
+7 
+A. 
+The objective of the NYSERDA-funded projects is to advance community thermal 
+8 
+networks that harness geothermal and waste energy to heat and cool buildings and reduce 
+9 
+carbon emissions.  The studies will provide recommendations for the most appropriate 
+10 
+type of cost-effective district geothermal solution for each of the three areas. 
+11 
+4. Innovative Partnerships and Collaborations 
+12 
+Q. 
+Are the Companies proposing to fund REV Connect innovation initiatives? 
+13 
+A. 
+Yes.  The Companies propose funding to continue participating in the REV Connect 
+14 
+initiative that encourages partnerships between New York’s utilities and companies to 
+15 
+accelerate innovation and the development of new business models.  The REV Connect 
+16 
+online portal provides vendors and solution providers with a single place to review the 
+17 
+Companies’ postings of areas of interest.  The postings draw proposals from the market 
+18 
+using a one-page submission.  The submissions go to Guidehouse consultants who shape, 
+19 
+improve and structure proposals and then present the proposal to the appropriate utility.  
+20 
+
+
+--- Page 52 ---
+Case 22-E-____; Case 22-G-____; Case 22-E-____; Case 22-G-____ 
+ 
+DIRECT TESTIMONY OF INNOVATION, SMARTGRIDS AND EV PANEL 
+ 
+50 
+The utility and vendor/solution provider will collaborate through REV Connect 
+1 
+Innovation Sprints.17F18 
+2 
+Q. 
+What is the incremental funding required to support the REV Connect initiative? 
+3 
+A. 
+Incremental funding to support the REV Connect initiative is estimated at a total O&M 
+4 
+spend of approximately $160,000 (NYSEG) and $80,000 (RG&E) in the Rate Year and 
+5 
+(escalated at 2%) thereafter to support the REV Connect effort.  This estimate has been 
+6 
+included as part of the Companies’ revenue requirements calculations. 
+7 
+Q. 
+Beyond the REV Connect initiative, are the Companies proposing other innovation 
+8 
+activities? 
+9 
+A. 
+Yes.  The Companies have been collaborating with academic institutions in their service 
+10 
+territories including Cornell, Binghamton University, and RIT to explore and develop 
+11 
+new concepts and approaches related to more sustainable generation, distribution, and 
+12 
+usage of energy.   
+13 
+Q. 
+How do the Companies propose to collaborate on this effort?  
+14 
+A. 
+The Companies have shared resources to provide subject matter expertise and energy 
+15 
+related data.  As appropriate, the Companies and the academic institutions jointly explore 
+16 
+and seek financial and institutional support for projects from federal, state, and other 
+17 
+sources.   
+18 
+ 
+18  REV Connect Innovation Sprints focus attention on timely and specific utility needs.  For each innovation 
+sprint, solution providers are invited to submit ideas within a specific theme and timeframe.  Qualified 
+proposals receive feedback and may be invited to an in-person meeting to pursue innovative partnerships.  
+Through 2022 and future innovation sprints, the Companies are seeking to develop mutually beneficial 
+partnerships that may include energy service providers, researchers, municipalities, and others to develop 
+solutions intended to support New York’s and other municipalities’ carbon reduction goals.  These solutions 
+may utilize DER to shape load curves, modulate resources, and support grid needs, to cost-effectively realize 
+the goals laid out in the CLCPA, and achieve solutions aimed at decarbonizing the natural gas system and end-
+uses, such as heating and industrial applications, to meet CLCPA targets. 
+
+
+--- Page 53 ---
+Case 22-E-____; Case 22-G-____; Case 22-E-____; Case 22-G-____ 
+ 
+DIRECT TESTIMONY OF INNOVATION, SMARTGRIDS AND EV PANEL 
+ 
+51 
+Q. 
+What is the proposed spend for academic collaborations and how do the Companies 
+1 
+propose to treat the recovery of those costs?  
+2 
+A. 
+The Companies propose to provide research grants of $150,000 (Capital) and $150,000 
+3 
+(O&M) in the Rate Year and every year thereafter to support these efforts.  The grants 
+4 
+would enable education, research, and development by faculty and graduate level 
+5 
+research focused on smart grid research and development and overcoming challenges 
+6 
+related to planning and deploying electricity generation, transmission, and distribution 
+7 
+technologies.  The Companies propose to include these costs in base rates.  Additional 
+8 
+project information is included in Exhibit __ (ISE-16).   
+9 
+Q. 
+Please provide examples of initiatives and/or pilot projects that have resulted from 
+10 
+academic institution collaborations in the past. 
+11 
+A. 
+In 2019, the Companies collaborated with Cornell University on the Smart Home Rate 
+12 
+pilot, renamed OptimizEV.  This pilot explored a novel approach to coordinated 
+13 
+residential EV charging.  Cornell researchers designed and delivered the scheduling and 
+14 
+charging control algorithm critical to the success of the pilot.  Additionally, to support 
+15 
+pilots funded by NYSERDA, the Companies collaborated with RIT to test the feasibility 
+16 
+of utilizing Smart Meter Infrastructure to interface to a Smart Inverter for monitoring and 
+17 
+control purposes and collaborated with Binghamton University to identify optimal 
+18 
+location of power distribution system reclosers.  
+19 
+Q. 
+Are the Companies able to leverage experience within the Iberdrola Group companies 
+20 
+relative to pilot projects? 
+21 
+A. 
+Yes, as a member of the Iberdrola Group, the Companies plan to leverage global 
+22 
+expertise to bring forward additional learnings and insights that may not be available via 
+23 
+
+
+--- Page 54 ---
+Case 22-E-____; Case 22-G-____; Case 22-E-____; Case 22-G-____ 
+ 
+DIRECT TESTIMONY OF INNOVATION, SMARTGRIDS AND EV PANEL 
+ 
+52 
+local engagement.  We anticipate that these global interactions will allow the Companies 
+1 
+to broaden its innovative reach and learnings, have access to global thinking in the form 
+2 
+of start-up proposals, and potentially apply beneficial solutions to our own approaches 
+3 
+and processes, ultimately leading to lower cost and better service for our customers.   
+4 
+Q. 
+What are the Companies proposing and how does it benefit customers? 
+5 
+A. 
+The Companies propose to participate in a Global Innovation Challenge (“GIC”).  In 
+6 
+collaboration with Iberdrola’s Global Smart Grids Innovation Hub,18F19 the Companies 
+7 
+propose to launch and implement a global start-up challenge which would result in a 
+8 
+potential pilot project or development of a prototype aimed at meeting an opportunity 
+9 
+identified by the Companies’ modernization roadmaps.  Participating in the GIC provides 
+10 
+the opportunity for the Companies to present their challenge to a global network of 
+11 
+innovators looking to solve challenges arising when modernizing the electric grid to meet 
+12 
+future needs while maintaining safety and reliability.  
+13 
+Q. 
+Please provide a brief description of the recent Global Innovation Challenges. 
+14 
+A. 
+In 2021, Avangrid launched an EV Fleet Web Assessment.  The challenge sought to 
+15 
+define a tool, available for customer use on utility websites, that could help fleet 
+16 
+operators assess feasibility, costs, and benefits of converting their fleets to electric 
+17 
+vehicles.  In 2019, Avangrid launched a challenge to support our resiliency strategy and 
+18 
+piloted drone technology to gather images and detect any risk to the transmission and 
+19 
+distribution powerlines both manually and through artificial intelligence (“AI”).  
+20 
+ 
+19  Iberdrola’s Global Smart Grids Innovation Hub is a global innovation and knowledge center that is a world 
+reference in smart grids and able to quickly assemble collaborators to respond to the challenges of the energy 
+transition.  The center acts as a driving platform for innovation, combining world class technological capacity 
+with that of collaborators, suppliers, universities, technology centers and startups.  Costs for the GIC are split 
+among Avangrid’s electric distribution networks. 
+
+
+--- Page 55 ---
+Case 22-E-____; Case 22-G-____; Case 22-E-____; Case 22-G-____ 
+ 
+DIRECT TESTIMONY OF INNOVATION, SMARTGRIDS AND EV PANEL 
+ 
+53 
+Q. 
+What are the proposed innovation budgets for the GIC initiatives and how are the 
+1 
+Companies proposing to treat these costs?  
+2 
+A. 
+For this rate plan, the Companies propose a budget of $50,000 (O&M) split evenly 
+3 
+between NYSEG and RG&E for the Rate Year, and every year thereafter to support these 
+4 
+efforts with additional project information included in Exhibit __ (ISE-17).  The 
+5 
+Companies propose to include these costs in base rates.  
+6 
+F. Advanced Data Analytics - IEDR 
+7 
+Q. 
+What are the programs in the Advanced Data Analytics area and how do they advance 
+8 
+CLCPA goals? 
+9 
+A. 
+The Advanced Data Analytics programs support efforts related to the IEDR platform, the 
+10 
+Data Access Framework (“DAF”), and the Utility Energy Registry (“UER”).  The 
+11 
+programs would enable effective access to useful energy data, unleashing the power of 
+12 
+integrated energy customer data and energy system data to speed the deployment of clean 
+13 
+energy solutions.  This will attract investment, enable analytics, help identify operational 
+14 
+efficiencies, promote innovation, and encourage new business models, which will in-turn 
+15 
+create value for customers and support the CLCPA’s clean energy goals.  
+16 
+Q. 
+Has the Commission issued any new directives or policy guidance related to Advanced 
+17 
+Data Analytics since the Companies’ last rate filing? 
+18 
+A. 
+Yes.  The Companies note several directives related to Advanced Data Analytics.  In a 
+19 
+February 11, 2021 Order in Case 20-M-0082 (“IEDR Order”), the Commission directed 
+20 
+the implementation of an IEDR that securely collects, integrates, and provides useful 
+21 
+access to a large and diverse set of energy-related information on one statewide data 
+22 
+platform.  In an April 15, 2021 Order in Case 20-M-0082, the Commission adopted a 
+23 
+
+
+--- Page 56 ---
+Case 22-E-____; Case 22-G-____; Case 22-E-____; Case 22-G-____ 
+ 
+DIRECT TESTIMONY OF INNOVATION, SMARTGRIDS AND EV PANEL 
+ 
+54 
+DAF19F20 that serves as a single source for statewide data access requirements and provides 
+1 
+uniform and consistent guidance on what is needed for access to energy-related data, 
+2 
+including the availability of such data.  In an August 12, 2021 Order in Case 20-M-0082, 
+3 
+the Commission established a UER working group, identified refinements and additions 
+4 
+to the structure of UER reported data fields, and rebalanced the application of UER use 
+5 
+case specific privacy screens in an effort to increase access to energy-related data as that 
+6 
+data is a key component for more efficient and engaged energy planning and markets. 
+7 
+Q. 
+What is the status of the Companies’ implementation of the IEDR? 
+8 
+A. 
+In the IEDR Order, the Commission established a two-phase schedule for implementing 
+9 
+the IEDR, with Phase 1 implementation expected to be operational on or about August 
+10 
+11, 2023.  Currently, the Companies are working towards supporting the NYSERDA 
+11 
+Project Implementation Plan for Phase 1.  Additional detail around the Companies’ IEDR 
+12 
+project status and plan has been included as Exhibit__ (ISE-18). 
+13 
+Q. 
+What have the Companies included in this rate filing for the IEDR project? 
+14 
+A. 
+The IEDR Order established maximum budget levels for each utility’s Phase 1 IEDR 
+15 
+implementation, setting the Companies’ estimated budgets at $12 million.20F21  Budget 
+16 
+estimates include costs associated with external services and capitalization of internal 
+17 
+ 
+20  The DAF incorporates the existing Commission-established data access requirements to date, including 
+cybersecurity and privacy requirements, and establishes data quality and integrity standards criterion to be met 
+by the utility, or data custodian, for application or use case specific purposes.  Releasing readily available 
+energy-related data by means of useful access mechanisms will support New York in meeting its clean energy 
+goals and facilitate the objectives of the CLCPA.  The ability of market participants to deliver smart, 
+economically sound energy solutions and the ability of customers to share their energy usage data, will animate 
+markets, facilitate customer choice, and provide systemic benefits to all New Yorkers. 
+21  The Joint Utilities filed a Petition for Clarification on March 15, 2021, regarding the allowance for allocations 
+between multiple companies under the same corporate umbrella.  To date, the Commission has not ruled on this 
+petition.  Resolution of the matters raised in the petition will facilitate cost allocation between NYSEG and 
+RG&E.   
+
+
+--- Page 57 ---
+Case 22-E-____; Case 22-G-____; Case 22-E-____; Case 22-G-____ 
+ 
+DIRECT TESTIMONY OF INNOVATION, SMARTGRIDS AND EV PANEL 
+ 
+55 
+labor.  To date, incremental expenditures have been minimal and represent internal labor 
+1 
+hours to accomplish initial activities.  The expectation is that expenditures will ramp up 
+2 
+during implementation until Phase 1 is completed.  A detailed breakdown of the 
+3 
+estimated Phase 1 capital requirements is set forth in Exhibit __ (ISE-18).21F22 
+4 
+ 
+The total capital expenditures for the three years totals $12.19 million and the 
+5 
+estimated in-service date for the investments is December 31, 2023. 
+6 
+Q. 
+Have the Companies proposed O&M cost requirements for IEDR in this rate proceeding? 
+7 
+A. 
+Yes.  Total O&M is estimated at $1.056 million, which is required for data storage and 
+8 
+data transfer in the Rate Year and the two subsequent years.  Additional IEDR O&M 
+9 
+requirements are set forth in Exhibit __ (ISE-18). 
+10 
+Q. 
+Do the Advanced Data Analytics (IEDR, DAF, UER) projects require additional FTEs? 
+11 
+A. 
+Yes.  The Companies have been working to establish an IEDR and DAF Implementation 
+12 
+Team to support implementation of a successful program, which will necessitate 
+13 
+extensive utility engagement.  Therefore, the Companies are proposing to hire three 
+14 
+incremental FTE resources: a Project Manager, a Principal Data Scientist and a Senior 
+15 
+Data Engineer.  The project manager, an RG&E FTE, will manage all aspects of the 
+16 
+Business Project Management Office and serve as the Business Technical lead, i.e., 
+17 
+working with the data and system owners across the enterprise to build the IEDR 
+18 
+platform.  The Principal Data Scientist, a NYSEG FTE, will be responsible for 
+19 
+performing necessary analytics with the data.  The Senior Data Engineer (allocated 67% 
+20 
+ 
+22  Funding for Phase 2 of the IEDR will be the subject of future Commission action.  The capital expenses needed 
+for Phase 2 are expected to have an in-service date of December 31, 2026, which is beyond the timeline of this 
+rate case. 
+
+
+--- Page 58 ---
+Case 22-E-____; Case 22-G-____; Case 22-E-____; Case 22-G-____ 
+ 
+DIRECT TESTIMONY OF INNOVATION, SMARTGRIDS AND EV PANEL 
+ 
+56 
+(NYSEG) / 33% (RG&E)) will be focused on creating the necessary connections between 
+1 
+the systems for data flow.  
+2 
+Q. 
+How are the Companies’ intending to split the costs between the two operating 
+3 
+Companies in New York? 
+4 
+A. 
+The Joint Utilities filed a Petition for Clarification on March 15, 2021, regarding the 
+5 
+allowance for allocations between multiple companies under the same corporate 
+6 
+umbrella.  To date, the Commission has not ruled on this petition.  However, the 
+7 
+Companies approach to the cost split between NYSEG and RG&E is 65% and 35%, 
+8 
+respectively, according to the number of customers in each service territory. 
+9 
+Q. 
+How are the Companies proposing to account for and recover the costs associated with 
+10 
+the Data Access Framework (“DAF”)? 
+11 
+A. 
+The Companies propose that incremental DAF costs incurred during the rate period, 
+12 
+which will include implementation, or start-up, and ongoing operation and maintenance 
+13 
+costs, be deferred as a regulatory asset with carrying charges applied on the net of tax 
+14 
+balance at each utility’s pretax overall cost of capital until fully recovered.  The 
+15 
+Companies propose that the incremental costs incurred, and associated carrying charges, 
+16 
+continue to be deferred for future recovery as determined by the Commission. 
+17 
+
+
+--- Page 59 ---
+Case 22-E-____; Case 22-G-____; Case 22-E-____; Case 22-G-____ 
+ 
+DIRECT TESTIMONY OF INNOVATION, SMARTGRIDS AND EV PANEL 
+ 
+57 
+G. Grid Model Enhancement Project 
+1 
+Q. 
+What is the Grid Model Enhancement Project’s (“GMEP”) purpose and why is it 
+2 
+foundational to the Companies clean energy efforts? 
+3 
+A. 
+The GMEP22F23 is the Companies’ response to the urgent and critical need for increased 
+4 
+access to accurate data pertaining to their electric distribution infrastructure.  It is aimed 
+5 
+at enabling a data driven improved analysis, monitoring, control, planning and 
+6 
+forecasting of the electric distribution system.  GMEP is foundational to the Companies' 
+7 
+DSIP.  The result of the GMEP will be a complete distribution model including network 
+8 
+load and DER characteristics.  The information in the GMEP will feed the Distribution 
+9 
+Planning Tools to support effective planning (including NWA analysis), calculate hosting 
+10 
+capacity, and analyze interconnection requests.  The data will also feed the ADMS as the 
+11 
+basis for power flow calculations for optimization and congestion management. 
+12 
+Q. 
+What is the status of the GMEP? 
+13 
+A. 
+The Companies are following the guidance set forth in the 2020 Joint Proposal.  The 
+14 
+project has kicked-off a dedicated project team in June 2021.  Key project management 
+15 
+plan deliverables have been produced, presented and governance has been established for 
+16 
+the project.  A Request for Information including a Pilot Field Survey on a selected 
+17 
+circuit is underway with the engagement of several qualified and experienced vendors, in 
+18 
+preparation of the large-scale comprehensive field survey planned.  Additional GMEP 
+19 
+status and plan details have been included as Exhibit __ (ISE-19). 
+20 
+ 
+23  The scope of the GMEP entails two intertwined efforts which include a comprehensive field survey of the entire 
+distribution network from substations to customer service connections, the development and implementation of 
+streamlined processes covering the whole life cycle of the distribution assets, and the capture and storage of 
+their data in the system of record. 
+
+
+--- Page 60 ---
+Case 22-E-____; Case 22-G-____; Case 22-E-____; Case 22-G-____ 
+ 
+DIRECT TESTIMONY OF INNOVATION, SMARTGRIDS AND EV PANEL 
+ 
+58 
+H. Distributed System Platform (“DSP”) Roadmap 
+1 
+Q. 
+What is the DSP and how are the initiatives organized?  
+2 
+A. 
+The DSP is the platform of tools, technologies, and services that the Companies are 
+3 
+implementing to integrate DER more fully into electric distribution system planning and 
+4 
+operations.  The Companies have organized the technology23F24 initiatives in five categories 
+5 
+which include: 1) Advanced Metering; 2) Grid Automation and Management; 3) 
+6 
+Integrated Planning Tools; 4) Enterprise Data and Analytics; and 5) Clean Energy 
+7 
+Integration.  The initiatives are further described in Figure 1.  
+8 
+Figure 1: Distributed System Platform Technology Initiatives 
+9 
+ 
+24   The technology projects presented in the NYSEG and RG&E Roadmap seek to enable and enhance customer 
+facing initiatives (e.g. electric vehicles, distributed generation, and energy storage, etc.) with utility facing 
+initiatives (AMI, OMS, GIS, etc.).  The five Platform Technologies rely on telecommunications and 
+cybersecurity systems to securely transfer data and/or commands.  More details regarding the underlying 
+telecommunications and cybersecurity platforms can be found in the Electric and Common Capital 
+Expenditures Panel. 
+
+
+--- Page 61 ---
+Case 22-E-____; Case 22-G-____; Case 22-E-____; Case 22-G-____ 
+ 
+DIRECT TESTIMONY OF INNOVATION, SMARTGRIDS AND EV PANEL 
+ 
+59 
+Q. 
+How does the DSP aid in the clean energy transition? 
+1 
+A. 
+The CLCPA’s clean energy targets require that 70% of statewide electric generation 
+2 
+come from renewable resources by 2030.  In addition, the CLCPA set renewable resource 
+3 
+procurement targets.  The Companies’ DSP will help New York State achieve these goals 
+4 
+as it will provide customers with greater control over their energy usage and total energy 
+5 
+bills, and aid developers and other market participations with the necessary information 
+6 
+to make investment decisions.  Through the DSP, the Companies will facilitate the 
+7 
+integration of DER resources, including solar and wind, into the Companies’ distribution 
+8 
+system.  The Companies' DSP actions and initiatives have been documented since 2016 
+9 
+in its bi-annual filings, most recently detailed in the 2020 DSIP with an update planned to 
+10 
+be filed by December 31, 2022.   
+11 
+Q. 
+Is this Panel supporting any of the Companies’ proposed DSP technology investments? 
+12 
+A. 
+Yes, we address investments in: 1) Integrated System Planning; and 2) Clean Energy 
+13 
+Integration.   
+14 
+Q. 
+What projects are the Companies proposing in the Integrated System Planning category 
+15 
+for this rate proceeding? 
+16 
+A. 
+The Companies are proposing the following projects in the Integrated Planning Tools 
+17 
+category24F25 for this rate proceeding: 1) CYME Server; 2) Advanced Load and DER 
+18 
+Forecasting; and 3) Interconnection Tools Enhancements. 
+19 
+ 
+25  In aggregate, the Integrated Planning Tools are expected to deliver the following benefits: Deferment or 
+avoidance of T&D capacity investments; improvement of network efficiency; and reduction in GHG emissions 
+by informing clean energy integration.  
+ 
+
+
+--- Page 62 ---
+Case 22-E-____; Case 22-G-____; Case 22-E-____; Case 22-G-____ 
+ 
+DIRECT TESTIMONY OF INNOVATION, SMARTGRIDS AND EV PANEL 
+ 
+60 
+Q. 
+Please describe the CYME Server project.  
+1 
+A. 
+The CYME Server project includes procurement and commissioning of hardware and the 
+2 
+real-time capabilities of the Companies’ distribution engineering analysis software.  The 
+3 
+software is designed to interface with other systems and automate the engineering 
+4 
+analysis related to load and DER capacity planning.  It also interfaces with the 
+5 
+Interconnection Portal to provide automating interconnection technical screens and with 
+6 
+the Geographical Information System (“GIS”) to facilitate more timely updating of 
+7 
+Hosting Capacity Maps.  Additional details may be found in Exhibit __ (ISE-20). 
+8 
+Q. 
+What is the proposed budget for the CYME Server and how do the Companies propose to 
+9 
+treat the recovery of those costs?  
+10 
+A. 
+The proposed budget for the CYME Server project is $325,000 in the Rate Year.  The 
+11 
+Companies have included these costs in revenue requirements and propose recovery 
+12 
+through base rates. 
+13 
+Q. 
+Please describe the Advanced Load and DER Forecasting effort. 
+14 
+A. 
+The Advanced Load and DER Forecasting effort is designed to improve the granularity 
+15 
+of load and DER forecasting in terms of time and location.  The scope of the project 
+16 
+entails evaluating commercially available forecasting applications in terms of 
+17 
+functionality and ease of use in terms of load and DER forecasting.  In addition, one 
+18 
+incremental staffing resource is required to enable granular forecasting for both NYSEG 
+19 
+and RG&E load and DER forecasting activities.  The role of the additional FTE will 
+20 
+include not only developing the forecasts, but also performing loading research to inform 
+21 
+the forecasts.  Additional details may be found in Exhibit __ (ISE-21). 
+22 
+
+
+--- Page 63 ---
+Case 22-E-____; Case 22-G-____; Case 22-E-____; Case 22-G-____ 
+ 
+DIRECT TESTIMONY OF INNOVATION, SMARTGRIDS AND EV PANEL 
+ 
+61 
+Q. 
+What is the proposed cost for the Advanced Load and DER Forecasting effort and how 
+1 
+do the Companies propose to treat the recovery of those costs?  
+2 
+A. 
+The proposed cost for the Advanced load and DER Forecasting project is $264,500 
+3 
+(Capital) and $27,000 (O&M).  The Companies have included these costs in revenue 
+4 
+requirements and propose recovery through base rates.   
+5 
+Q. 
+Please describe the Interconnection Tools Enhancements effort. 
+6 
+A. 
+The Interconnection Tools Enhancements include: 1) Interconnection Portal 
+7 
+Enhancements; and 2) Interconnection Screening Automation.  The effort is designed to 
+8 
+validate data entry upon interconnection application submission, improve the stakeholder 
+9 
+experience, and automate the processing of technical screens.  Additional details may be 
+10 
+found in Exhibit __ (ISE-22) and Exhibit __ (ISE-23). 
+11 
+Q. 
+What is the proposed budget for the Interconnection Tools Enhancements effort and how 
+12 
+do the Companies propose to treat the recovery of those costs?  
+13 
+A. 
+The proposed cost for the interconnection tools enhancement is approximated at $75,000, 
+14 
+subsequent to RY1, for O&M expenditures split equally among NYSEG and 
+15 
+RG&E.   The Companies have included these costs in revenue requirements and propose 
+16 
+recovery through base rates.   
+17 
+Q. 
+What projects are the Companies proposing in the Clean Energy Integration category 
+18 
+within the rate period? 
+19 
+A. 
+The Companies have included: 1) Flexible Interconnection Capacity Solution ("FICS") 
+20 
+Scalability project; and 2) EPRI membership. 
+21 
+
+
+--- Page 64 ---
+Case 22-E-____; Case 22-G-____; Case 22-E-____; Case 22-G-____ 
+ 
+DIRECT TESTIMONY OF INNOVATION, SMARTGRIDS AND EV PANEL 
+ 
+62 
+Q. 
+Please describe the FICS Scalability project. 
+1 
+A. 
+The FICS Scalability project scales the innovative flexible interconnection capacity 
+2 
+solution approach25F26 piloted as a REV demonstration project to additional sites which will 
+3 
+allow for an alternative means of safe and reliable DER interconnections.26F27  The project 
+4 
+entails leveraging real-time system operational data and commanding DER assets to 
+5 
+curtail as needed to ensure the electric system is operating within specified thermal, 
+6 
+voltage or other parameters.  Proposed investment includes the expansion of the current 
+7 
+demonstration licensing, maintenance, and support costs to include additional substations 
+8 
+and DER sites.  The project scope also includes installing grid edge devices to act as the 
+9 
+control interface between the Companies’ head-end system and the DER facility.  
+10 
+Included in the project plan is on-going maintenance and support activities.   
+11 
+Q. 
+What is the proposed budget for the FICS Scalability project and how do the Companies 
+12 
+propose to recover the costs?  
+13 
+A. 
+The proposed budget for the FICS Scalability project is $1 million (Capital) to cover the 
+14 
+incremental licensing costs of additional substations and DER facilities interconnected to 
+15 
+these substations.  The Companies propose that costs associated with the FICS Scalability 
+16 
+ 
+26  Flexible Interconnections supported by technology, also known as Active Network Management ("ANM"), 
+monitors system constraints in real time and takes action to ensure electric system operating parameters are not 
+breached.  The action typically includes curtailing the DER asset to a level in which the operating parameters 
+are maintained within pre-defined limits.  Depending upon the frequency and level of curtailment, ANM 
+Flexible Interconnections may be a cost-effective alternative when compared to certain traditional system 
+modifications required to allow the DER asset to safely and reliably interconnect.   Flexible Interconnections 
+can provide benefits to the DER developer, as well as have the potential to increase the capacity of DER that 
+can be cost-effectively interconnected to a circuit or substations hosting capacity by allowing additional DERs 
+to interconnect.  By increasing the amount of DER that can interconnect, Flexible Interconnections can further 
+enable the New York’s clean energy goals. 
+27  Longer term, the Companies intend to provide Flexible Interconnection as part of their standard offering for 
+larger constrained proposed interconnections. 
+
+
+--- Page 65 ---
+Case 22-E-____; Case 22-G-____; Case 22-E-____; Case 22-G-____ 
+ 
+DIRECT TESTIMONY OF INNOVATION, SMARTGRIDS AND EV PANEL 
+ 
+63 
+project be accounted for as follows: 1) Costs associated with the head-end system would 
+1 
+be capitalized and included in overall rate base as the head-end system provides for 
+2 
+additional clean, interconnected DER which benefits all of the Companies’ customers; 2) 
+3 
+Costs associated with the initial implementation of the DER interconnection (edge related 
+4 
+costs) would be paid by the interconnecting facility owner or developer; and 3) Any 
+5 
+ongoing maintenance costs ($208,800 of O&M throughout the Rate Year and two 
+6 
+subsequent years) would be reviewed for potential reimbursement from the 
+7 
+interconnecting facility developer or owner.  Additional details may be found in Exhibit 
+8 
+__ (ISE-24). 
+9 
+Q. 
+Please describe the EPRI Clean Energy Integration collaboration. 
+10 
+A. 
+The Companies propose to join EPRI, an independent, non-profit organization that 
+11 
+performs research to advance environmentally-responsible, safe, and reliable electricity 
+12 
+for the benefit of its member utilities and the public.  The Companies plan to participate 
+13 
+in the Energy Storage and Distributed Generation, DER Integration, Electric 
+14 
+Transportation, and Electrification research portfolios which present an opportunity for 
+15 
+broad collaboration and learnings from leading utilities across the country on innovative, 
+16 
+grid transformative subject matter and research.  Participation in EPRI provides the 
+17 
+Companies with access to technical expertise, training resources and industry collective 
+18 
+experiences, which the Companies can leverage to facilitate high levels of DER 
+19 
+integration, beneficial transportation electrification and energy storage in support of 
+20 
+CLCPA goals.  Additional details may be found in Exhibit __ (ISE-25).   
+21 
+
+
+--- Page 66 ---
+Case 22-E-____; Case 22-G-____; Case 22-E-____; Case 22-G-____ 
+ 
+DIRECT TESTIMONY OF INNOVATION, SMARTGRIDS AND EV PANEL 
+ 
+64 
+Q. 
+What is the proposed cost for EPRI and how do the Companies propose to treat the 
+1 
+recovery of those costs?  
+2 
+A. 
+The proposed cost for the EPRI membership and collaboration is $343,000 in RY1 with 
+3 
+slight increases in the subsequent two years.  The Companies have included these costs in 
+4 
+revenue requirements and propose recovery through base rates. 
+5 
+Q. 
+Are the Companies’ requesting incremental FTEs to support the DSP projects described 
+6 
+above? 
+7 
+A. 
+Yes, the Companies are requesting one incremental FTE in total for the initiatives 
+8 
+discussed in this subsection.  This incremental FTE will be responsible for both NYSEG 
+9 
+and RG&E load and DER forecasting activities and required to enable granular 
+10 
+forecasting.  This FTE would develop the forecasts as well as perform load research to 
+11 
+inform the forecasts. 
+12 
+V.  SUMMARY AND CONCLUSIONS 
+13 
+Q. 
+Can the Panel summarize the total capital investments and operating costs it has 
+14 
+requested? 
+15 
+A. 
+Yes.  Summary tables for capital investments and operating costs are provided below. 
+16 
+
+
+--- Page 67 ---
+Case 22-E-____; Case 22-G-____; Case 22-E-____; Case 22-G-____ 
+DIRECT TESTIMONY OF INNOVATION, SMARTGRIDS AND EV PANEL 
+65 
+            Table 1: Capex Summary  
+1 
+Table 2: Opex Summary 
+ 
+OPEX - Summary Table (000's) 
+Program / Project 
+OPCO 
+RY1 
+Additional 
+Year 1 
+Additional 
+Year 2 
+Transportation Electrification 
+NYSEG 
+$700 
+$700 
+$700 
+RG&E 
+$300 
+$300 
+$300 
+Heating Electrification 
+NYSEG 
+RG&E 
+Low Income Clean Generation 
+NYSEG 
+RG&E 
+Energy Storage 
+NYSEG 
+$559 
+$560 
+$657 
+RG&E 
+$32 
+$33 
+$330 
+Innovative Partnerships & Pilot Projects 
+NYSEG 
+$417 
+$512 
+$469 
+RG&E 
+$459 
+$873 
+$1,449 
+Integrated Energy Data Resource 
+NYSEG 
+$191 
+$227 
+$269 
+RG&E 
+$103 
+$122 
+$145 
+DER Automation, Integrated System 
+Planning & Clean Energy Integration 
+NYSEG 
+$236 
+$272 
+$379 
+RG&E 
+$107 
+$125 
+$195 
+ 
+CAPEX - Summary Table (000's)
+Program / Project
+OPCO
+2023
+2024
+2025
+2026
+NYSEG
+$785
+$8,361
+$28,735
+RG&E
+$336
+$1,009
+$2,018
+NYSEG
+RG&E
+NYSEG
+$14,000
+$21,000
+RG&E
+$6,000
+$9,000
+NYSEG
+$1,331
+$3,106
+RG&E
+$5,824
+$13,590
+NYSEG
+$75
+$622
+$489
+$75
+RG&E
+$2,075
+$6,179
+$12,282
+$75
+NYSEG
+$3,898
+RG&E
+$2,099
+NYSEG
+$463
+$132
+RG&E
+$363
+$132
+Transportation Electrification
+Heating Electrification
+Low Income Clean Generation 
+Energy Storage
+Innovative Partnerships & Pilot Projects
+Integrated Energy Data Resource
+DER Automation, Integrated System 
+Planning & Clean Energy Integration
+
+
+--- Page 68 ---
+Case 22-E-____; Case 22-G-____; Case 22-E-____; Case 22-G-____ 
+ 
+DIRECT TESTIMONY OF INNOVATION, SMARTGRIDS AND EV PANEL 
+ 
+66 
+Q. 
+Can the Panel summarize the costs proposed to be deferred as a regulatory asset? 
+1 
+A. 
+Yes.  The costs proposed to be deferred as a regulatory asset are summarized below.  
+2 
+Table 3: Regulatory Asset Summary 
+3 
+Regulatory Asset - Summary Table (000's) 
+Program / Project 
+OPCO 
+RY1 
+Additional 
+Year 1 
+Additional 
+Year 2 
+Transportation Electrification 
+NYSEG 
+$2,924 
+$8,771 
+$17,542 
+RG&E 
+$1,253 
+$3,759 
+$7,518 
+Heating Electrification 
+NYSEG 
+$3,881 
+$6,751 
+$10,305 
+RG&E 
+$1,648 
+$2,867 
+$4,375 
+Low Income Clean Generation  
+NYSEG 
+  
+  
+  
+RG&E 
+  
+  
+  
+Energy Storage 
+NYSEG 
+  
+  
+  
+RG&E 
+  
+  
+  
+Innovative Partnerships & Pilot Projects 
+NYSEG 
+  
+  
+  
+RG&E 
+  
+  
+  
+Integrated Energy Data Resource 
+NYSEG 
+  
+  
+  
+RG&E 
+  
+  
+  
+DER Automation, Integrated System 
+Planning & Clean Energy Integration 
+NYSEG 
+  
+  
+  
+RG&E 
+  
+  
+  
+ 
+4 
+Q. 
+Finally, can the Panel please summarize the incremental resource needs requested by the 
+5 
+Companies? 
+6 
+A. 
+Yes.  The incremental FTEs sought by this Panel are summarized below. 
+7 
+
+
+--- Page 69 ---
+Case 22-E-____; Case 22-G-____; Case 22-E-____; Case 22-G-____ 
+ 
+DIRECT TESTIMONY OF INNOVATION, SMARTGRIDS AND EV PANEL 
+ 
+67 
+Table 4: FTE Summary 
+1 
+FTE - Summary Table (Cumulative) 
+Program / Project 
+OPCO 
+RY1 
+Additional 
+Year 1 
+Additional 
+Year 2 
+Transportation Electrification 
+NYSEG 
+2.5 
+2.5 
+2.5 
+RG&E 
+2.5 
+2.5 
+2.5 
+Heating Electrification 
+NYSEG 
+1.5 
+1.5 
+1.5 
+RG&E 
+1.5 
+1.5 
+1.5 
+Low Income Clean Generation  
+NYSEG 
+0.5 
+0.5 
+0.5 
+RG&E 
+0.5 
+0.5 
+0.5 
+Energy Storage 
+NYSEG 
+1.5 
+1.5 
+1.5 
+RG&E 
+1.5 
+1.5 
+1.5 
+Innovative Partnerships & Pilot Projects 
+NYSEG 
+  
+2.6 
+1.8 
+RG&E 
+1.0 
+4.2 
+1.6 
+Integrated Energy Data Resource 
+NYSEG 
+1.7 
+1.7 
+1.7 
+RG&E 
+1.3 
+1.3 
+1.3 
+DER Automation, Integrated System 
+Planning & Clean Energy Integration 
+NYSEG 
+0.7 
+0.7 
+1.0 
+RG&E 
+0.3 
+0.3 
+2.3 
+ 
+2 
+Q. 
+Does this conclude the Panel’s testimony at this time? 
+3 
+A. 
+Yes, it does.  
+4 

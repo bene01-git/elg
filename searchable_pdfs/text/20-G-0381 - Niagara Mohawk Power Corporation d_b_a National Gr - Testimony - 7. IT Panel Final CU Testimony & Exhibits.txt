@@ -1,0 +1,11480 @@
+--- Page 1 ---
+ 
+ 
+ 
+ 
+ 
+ 
+ 
+ 
+ 
+ 
+ 
+ 
+ 
+ 
+ 
+Before the Public Service Commission 
+ 
+NIAGARA MOHAWK POWER CORPORATION  
+d/b/a NATIONAL GRID 
+ 
+ 
+Corrections and Updates Testimony 
+ 
+of the 
+ 
+Information Technology Panel 
+ 
+ 
+ 
+ 
+ 
+ 
+ 
+ 
+ 
+ 
+ 
+ 
+ 
+ 
+ 
+ 
+ 
+Dated:  October 14, 2020 
+ 
+ 
+ 
+ 
+
+
+--- Page 2 ---
+ 
+ 
+TABLE OF CONTENTS 
+ 
+I. 
+Introduction ....................................................................................................................... 1 
+II. 
+Correction and Updates ................................................................................................... 2 
+A. 
+COVID-19/Plan Forward ..................................................................................... 4 
+B. 
+Customer Experience Program - CXP ................................................................ 6 
+C. 
+S4 HANA................................................................................................................ 7 
+D. 
+Grid Modernization -Cyber Security & ADMS Program ................................ 8 
+E. 
+Digital Projects ...................................................................................................... 8 
+III.  
+Corrections and Updates – Capital Revenue Requirement Impact ............................. 9 
+IV.  
+Corrections and Updates to OPEX and RTB costs...................................................... 10 
+V.  
+Corrections and Updates – Opex and RTB Revenue Requirement Impact .............. 12 
+VI.  
+Conclusion ....................................................................................................................... 13 
+ 
+
+
+--- Page 3 ---
+Corrections and Updates Testimony of the Information Technology Panel 
+Page 1 of 13 
+I. 
+Introduction 
+1 
+Q. 
+Please introduce the members of the Information Technology (“IT”) Panel. 
+2 
+A. 
+The IT Panel consists of Stephen Olive, Daniel J. DeMauro, Christopher Murphy, 
+3 
+Jeffrey Martin, and William Donoghue. 
+4 
+ 
+5 
+Q. 
+Is this the same Panel that previously submitted direct testimony on behalf of 
+6 
+Niagara Mohawk Power Corporation d/b/a National Grid (“Niagara 
+7 
+Mohawk” or the “Company”) in these proceedings?  
+8 
+A. 
+Yes.  The defined terms in the Panel’s direct testimony have the same meanings 
+9 
+in this corrections and updates testimony.     
+10 
+ 
+11 
+Q. 
+What is the purpose of the Panel’s corrections and updates testimony? 
+12 
+A. 
+The Panel’s corrections and updates testimony explains and supports certain 
+13 
+corrections and/or updates to the Company’s proposals and projected costs of 
+14 
+various IT projects included in Niagara Mohawk’s July 31, 2020 base rate increase 
+15 
+filings in these proceedings.   
+16 
+ 
+17 
+Q. 
+Does the Panel sponsor any exhibits as part of its corrections and updates 
+18 
+testimony? 
+19 
+A. 
+Yes.  The Panel sponsors the following exhibits, all of which were prepared by or 
+20 
+under the supervision and direction of one or more members of the Panel:  
+21 
+
+
+--- Page 4 ---
+Corrections and Updates Testimony of the Information Technology Panel 
+ 
+Page 2 of 13 
+Exhibit ___ (ITP-4CU) IT Capital Projects;  
+1 
+Exhibit ___ (ITP-5CU) IT Project OPEX Costs;  
+2 
+Exhibit ___ (ITP-6CU) IT Total and Incremental Operating Expenses; 
+3 
+Exhibit ___ (ITP-7CU) summary description of new investments being 
+4 
+undertaken in response to the COVID-19 Pandemic; and  
+5 
+Exhibit ___ (ITP-8CU) copies of certain information request responses referenced 
+6 
+in this corrections and updates testimony.  
+7 
+ 
+8 
+II. 
+Correction and Updates 
+9 
+Q. 
+Please identify the corrections and/or updates presented by the Panel. 
+10 
+A. 
+The Company has identified the following corrections and updates related to the IT 
+11 
+projects and costs reflected in the Company’s July 31, 2020 filings: 
+12 
+i. 
+Updates to the capital and project operating expense Exhibits _ (ITP-
+13 
+4CU) and _ (ITP-5CU), respectively, to include new investments 
+14 
+resulting from the Company’s response to the COVID-19 pandemic;    
+15 
+ii. 
+Update to the Customer Experience Program to incorporate additional 
+16 
+scope and costs; 
+17 
+iii. 
+Update to the S4 HANA program costs to reflect a delay in the program 
+18 
+start date; 
+19 
+iv. 
+Updates to incorporate cost reductions within the Grid Modernization 
+20 
+Cyber Security and ADMS programs;  
+21 
+
+
+--- Page 5 ---
+Corrections and Updates Testimony of the Information Technology Panel 
+ 
+Page 3 of 13 
+v. 
+Updates to the projected in-service dates for two Digital programs, 
+1 
+Nucleus and On My Way, that are currently under development;  
+2 
+vi. 
+Update to include operating costs for IT capabilities required by the 
+3 
+Commission’s recent Electric Vehicle Order dated July 16, 2020, in 
+4 
+Case 18-E-0138; 
+5 
+vii. 
+Update to include network costs to be incurred from Verizon in support 
+6 
+of a network modernization project performed by the Electric Business 
+7 
+Unit; 
+8 
+viii. 
+Update to the Run-the-Business (“RTB”) costs to incorporate the results 
+9 
+of a recently completed contract negotiation;  
+10 
+ix. 
+Correction to the “Incremental Spend for Core IT” and “Incremental 
+11 
+Spend for Transformation Initiatives” lines in Exhibit _ (ITP-6) due to 
+12 
+an incorrect spreadsheet formula that was identified in the Company’s 
+13 
+Response to Information Request (“IR”) DPS-842; 
+14 
+x. 
+Correction to the allocation percentages in Exhibit _ (ITP-6), which 
+15 
+were identified in the Company’s response to IR DPS-843.   
+16 
+ 
+17 
+
+
+--- Page 6 ---
+Corrections and Updates Testimony of the Information Technology Panel 
+ 
+Page 4 of 13 
+A. 
+COVID-19/Plan Forward 
+1 
+Q. 
+Please describe the updates associated with the Company’s response to the 
+2 
+COVID-19 pandemic.  
+3 
+ A. 
+National Grid, like most companies, has had to undertake several IT investments to 
+4 
+support its workforce and customers during the COVID-19 pandemic.  These 
+5 
+investments implement technologies that promote new ways of working for what 
+6 
+has largely become a remote workforce.  In addition, National Grid identified 
+7 
+several high priority infrastructure investments that were integral to its COVID-19 
+8 
+pandemic response.  Collectively, this effort is referred to as “Plan Forward.”  
+9 
+National Grid authorized a $37.5 million increase to its IT-related capital 
+10 
+expenditures in June 2020 for the Plan Forward efforts.  The investments were in 
+11 
+the very preliminary planning stages at the time of the original filing but have 
+12 
+progressed since then.  These investments are included in the Technology 
+13 
+Modernization and Business Technology programs.  The “Business Technology” 
+14 
+program is a new program specifically targeted to supporting National Grid’s 
+15 
+workforce under remote operating conditions and includes a combination of new 
+16 
+investments and investments previously categorized as part of Technology 
+17 
+Modernization.  The new investments in the two programs include:    
+ 
+18 
+
+
+--- Page 7 ---
+Corrections and Updates Testimony of the Information Technology Panel 
+ 
+Page 5 of 13 
+Investment 
+Plan 
+(“INVP”) # 
+Project Name  
+Program 
+INVP 6013 
+Azure Cloud Foundation 
+Business Technology 
+INVP 6018 
+Security Operations Services (SOS) 
+Business Technology 
+INVP 6043 
+Business Technology Plan Forward 
+Program – COVID - Phase 1 
+Business Technology 
+INVP 6043 
+Business Technology Plan Forward 
+Program – COVID – Phase 2 
+Business Technology 
+INVP 6026 
+Mainframe Capacity Upgrade  
+Technology Modernization 
+INVP 5974 
+IBM P9 Refresh  
+Technology Modernization 
+INVP 5874 
+Cloud Center of Excellence 
+Technology Modernization 
+INVP 5886B 
+Device Refresh 
+Technology Modernization 
+INVP 6049 
+Hosting Refresh to HCI 
+Technology Modernization 
+INVP 6052 
+Migration of Current Storage to Strategic  
+Technology Modernization 
+INVP 6046 
+SD WAN Expansion 
+Technology Modernization 
+INVP 6053 
+EoL Migration  
+Technology Modernization 
+ 
+1 
+In addition, the following two programs were added to the Fiscal Year 2022 budget:  
+2 
+INVP# 
+Project Name  
+Program  
+TBD 
+CNI Infrastructure 
+Technology Modernization 
+TBD 
+Operations Program  
+Technology Modernization 
+
+
+--- Page 8 ---
+Corrections and Updates Testimony of the Information Technology Panel 
+ 
+Page 6 of 13 
+ 
+1 
+The capital and project OPEX costs for the new investments are set forth in 
+2 
+Exhibit_(ITP-4CU) and Exhibit_(ITP-5CU) respectively.  Summary descriptions 
+3 
+of the projects listed above are provided in Exhibit __ (ITP-7CU).     
+4 
+ 
+5 
+B. 
+Customer Experience Program - CXP 
+6 
+Q. 
+Please describe the update to the Customer Experience Program.   
+7 
+A. 
+The Customer Experience Program, which is described in the Company’s initial 
+8 
+testimony and consists of INVP 4750 J, K, M, N, on Exhibit _ (ITP-4) and Exhibit 
+9 
+__ (ITP-5), was in the midst of a re-planning exercise at the time of the initial filing.  
+10 
+The project team had completed the delivery of new functionality to support 
+11 
+customers’ web experience and was re-assessing the technology platform on which 
+12 
+the new functionality operates to ensure it would meet the Company’s long-term 
+13 
+objectives. The outcome of the planning process was a decision to migrate to one 
+14 
+web platform for CSS and CRIS; specifically, to the SalesForce.com platform, 
+15 
+which was recently designated as the Company’s standard Customer Relationship 
+16 
+Management (“CRM”) platform. The new platform will provide significant 
+17 
+benefits in supportability and speed to market for new functionality for 
+18 
+customers.  The change to a Salesforce.com platform also provides a foundation for 
+19 
+future customer engagement enhancements in a more agile, and cost-effective 
+20 
+manner by leveraging Salesforce.com’s capabilities to deliver an improved 
+21 
+
+
+--- Page 9 ---
+Corrections and Updates Testimony of the Information Technology Panel 
+ 
+Page 7 of 13 
+experience for both customers and the Company’s customer service 
+1 
+representatives.  The decision to migrate to the Salesforce.com platform increases 
+2 
+the cost of the project by approximately $14 million dollars in Fiscal Year 2021. 
+3 
+  
+4 
+The capital and associated project operating/RTB cost updates are included in 
+5 
+Exhibit _ (ITP-4CU) and Exhibit _ (ITP-5CU), respectively, and are described in 
+6 
+the Company’s response to IR DPS-644, a copy of which is included in Exhibit __ 
+7 
+(ITP-8CU).  
+8 
+ 
+9 
+C. 
+S4 HANA 
+10 
+Q. 
+Please describe the update to the S4 HANA Program. 
+11 
+A. 
+The S4 HANA program is on pause because of the COVID-19 pandemic and is not 
+12 
+scheduled to begin until April 2023.  The program costs included in Exhibit _ (ITP-
+13 
+4CU) and Exhibit _ (ITP-5CU) have been updated to reflect the shift in the program 
+14 
+start date.  The associated in-service dates have also been updated to reflect the 
+15 
+delayed start.   
+16 
+ 
+17 
+
+
+--- Page 10 ---
+Corrections and Updates Testimony of the Information Technology Panel 
+ 
+Page 8 of 13 
+D. 
+Grid Modernization - Cyber Security & ADMS Program 
+1 
+Q. 
+Please describe the updates to the Grid Modernization Cyber Security 
+2 
+Program and the ADMS Program.   
+3 
+A. 
+The cost estimates for the two programs have been revised resulting in capital 
+4 
+expenditure reductions of approximately $20 million for the Grid Modernization 
+5 
+Cyber Security Program (INVP 5915) and $4 million for the ADMS program 
+6 
+(INVP 5471A).  The Company originally envisioned developing a whole new set 
+7 
+of security services to support the Grid Modernization Cyber Security Program.  
+8 
+The Security team, however, recently has been able to implement several 
+9 
+foundational security services to support the overall National Grid organization that 
+10 
+it believes can be leveraged and extended to the Grid Modernization Cyber Security 
+11 
+Program.  The update to ADMS was due to an error in capturing the inception to 
+12 
+date amount.  The two updates are included in Exhibit _ (ITP-4CU).    
+13 
+ 
+14 
+E. 
+Digital Projects 
+15 
+Q. 
+Please describe the updates to the Digital Projects, Nucleus and On My Way.  
+16 
+A. 
+The program in-service dates for the Nucleus (INVP 5905) and On My Way 
+17 
+projects ((INVP 5912) have changed to January 31, 2021.  The two projects, which 
+18 
+were described in the IT Panel’s direct testimony, were originally scheduled to be 
+19 
+placed in service in March of 2022 and June of 2021, respectively.  The projects 
+20 
+are the first two initiatives in the Digital program portfolio.  National Grid was able 
+21 
+
+
+--- Page 11 ---
+Corrections and Updates Testimony of the Information Technology Panel 
+ 
+Page 9 of 13 
+to reduce the project timeline by working closely with the business unit to define a 
+1 
+Minimum Viable Product (“MVP”) that would create more immediate value.   
+2 
+ 
+3 
+III.  
+Corrections and Updates – Capital Revenue Requirement Impact 
+4 
+Q. 
+What is the impact on the Company’s revenue requirements from the above 
+5 
+capital project corrections and updates? 
+6 
+A. 
+The chart below reflects the updated revenue requirement amounts.  The net impact 
+7 
+of the changes in IT-related capital expenditures on revenue requirements is as 
+8 
+follows:  a $5.0 million increase in the Rate Year (“RY22”), a $2.2 million increase 
+9 
+in Data Year 1 (“DY23”), and a $0.738 million decrease in Data Year 2 (“DY24”): 
+10 
+ 
+11 
+The above revenue requirements for the Rate Year, Data Year 1, and Data Year 2 
+12 
+can be found in Exhibit __ (RRP-11CU), the Workpapers to Exhibit __ (RRP-
+13 
+Historic Test Year (CY19)
+RY22
+DY23
+DY24
+Existing IT Projects
+37,452,504
+$                         
+34,734,705
+$        
+23,727,958
+$        
+14,825,721
+$        
+Total Existing Projects
+37,452,504
+$                         
+34,734,705
+$        
+23,727,958
+$        
+14,825,721
+$        
+Forecasted
+ADMS
+-
+$                                        
+1,408,477
+$          
+2,009,063
+$          
+3,677,041
+$          
+AMI
+-
+$                                        
+-
+$                       
+2,761,077
+$          
+7,950,364
+$          
+CIS
+-
+$                                        
+-
+$                       
+-
+$                       
+-
+$                       
+Core IT
+-
+$                                        
+23,012,540
+$        
+31,956,660
+$        
+44,724,730
+$        
+Gas Business Enablement
+-
+$                                        
+10,811,580
+$        
+10,045,973
+$        
+9,480,826
+$          
+Grid Modernization
+-
+$                                        
+933,494
+$              
+1,520,830
+$          
+2,903,964
+$          
+S4 HANA
+-
+$                                        
+-
+$                       
+-
+$                       
+-
+$                       
+VOLT
+-
+$                                        
+-
+$                       
+-
+$                       
+6,182,645
+$          
+Total Forecasted
+-
+$                                        
+36,166,092
+$        
+48,293,604
+$        
+74,919,571
+$        
+Grand Total
+37,452,504
+$                         
+70,900,797
+$        
+72,021,561
+$        
+89,745,292
+$        
+NMPC IT SC Rents Revenue Requirement (C&U)(FY Forecast modeled into RY)
+
+
+--- Page 12 ---
+Corrections and Updates Testimony of the Information Technology Panel 
+ 
+Page 10 of 13 
+3CU), Schedule 9, Workpapers 2, 3, 5, 6, 8, and 9, as described in the corrections 
+1 
+and updates testimony of the Revenue Requirements Panel.  
+2 
+ 
+3 
+IV.  
+Corrections and Updates to OPEX and RTB costs  
+4 
+Q. 
+Please describe the update resulting from the Electric Vehicle (“EV”) Order.  
+5 
+A. 
+The EV Order required the Company to develop an on-line EV infrastructure 
+6 
+service.  As part of this EV mandate, Niagara Mohawk is required to implement 
+7 
+customer facing application portals and other IT capabilities.  The costs of $3.1 
+8 
+million for these new requirements are included in Exhibit _ (ITP-5CU).     
+9 
+ 
+10 
+Q. 
+Please describe the update related to the Electric Business Unit’s network 
+11 
+modernization efforts.       
+12 
+A. 
+The Electric Business Unit (“EBU”) is undertaking several initiatives to modernize 
+13 
+the electric network.  As part of these initiatives, National Grid will be incurring 
+14 
+additional network costs from Verizon, the Company’s Network provider.  While 
+15 
+this program is an EBU undertaking, the going forward  RTB network costs will be 
+16 
+managed by the IT area, which is responsible for overall management of the 
+17 
+Verizon contract.  The indicated RTB costs have been included as a separate line 
+18 
+item in Exhibit _ (ITP-6CU).    
+19 
+ 
+20 
+
+
+--- Page 13 ---
+Corrections and Updates Testimony of the Information Technology Panel 
+ 
+Page 11 of 13 
+Q. 
+Please describe the changes related to the Data Center contract negotiation 
+1 
+and the alignment of the RTB costs to the contracts.       
+2 
+A. 
+The Company recently completed a contract extension with DXC, the current Data 
+3 
+Center Provider for a period of three years. The estimated costs that were included 
+4 
+in the original filing have been updated to reflect the finalized contractual 
+5 
+agreement.  Additionally, the costs for DXC and the ATOS, which were originally 
+6 
+included in the Infrastructure and Operations line in Exhibit _ (ITP-6), are now 
+7 
+shown separately in Exhibit __  (ITP-6CU) to depict more accurately that the 
+8 
+contract amounts vary across multiple years. 
+9 
+ 
+10 
+Additionally, the original cost estimates in the IT Commercial, Infrastructure and 
+11 
+Operations, and Security lines in Exhibit _ (ITP-6) have been adjusted slightly to 
+12 
+reflect updated cost estimates.  
+13 
+ 
+14 
+Q. 
+Please describe the corrections to the incremental spending lines and the 
+15 
+allocation percentages utilized in Exhibit _ (ITP-6).  
+16 
+A. 
+The split for the “Incremental Spend for Core IT” and “Incremental Spend for 
+17 
+Transformation Initiatives” was incorrect in the Company’s July 31, 2020 filing 
+18 
+because of formula errors in the spreadsheet.  The total did not change but the split 
+19 
+between the two categories was incorrect.  The error was noted in the Company’s 
+20 
+response to IR DPS-842, a copy of which is included in Exhibit __ (ITP-8CU).     
+21 
+
+
+--- Page 14 ---
+Corrections and Updates Testimony of the Information Technology Panel 
+ 
+Page 12 of 13 
+ 
+1 
+ 
+The allocation percentages for the Gas and Transmission segments were 
+2 
+inadvertently switched.  The Gas segment should have been allocated 4.31 percent 
+3 
+and the Transmission segment should have been allocated 5.30 percent.  This error 
+4 
+was noted in the Company’s response to IR DPS-843, a copy of which is included 
+5 
+in Exhibit __ (ITP-8CU).  Also, while revalidating the spreadsheet, the Company 
+6 
+identified some additional formula errors in the allocation of the costs for the 
+7 
+Transformation initiatives. A worksheet with the updated Transformation 
+8 
+allocations is provided as part of Exhibit _ (ITP-6CU).   
+9 
+ 
+10 
+Q. 
+Please describe the impact of the above project OPEX and RTB changes.  
+11 
+A. 
+For Niagara Mohawk, the net impact to the Core IT Operational costs, which 
+12 
+represent the costs of running IT, is a slight increase in the Rate Year from $273.1 
+13 
+million to $273.6 million, while the project OPEX/RTB costs increased from $62.7 
+14 
+million to $64.3 million.  These corrections are reflected in Exhibit _ (ITP-6CU).    
+15 
+ 
+16 
+V.  
+Corrections and Updates – Opex and RTB Revenue Requirement Impact 
+17 
+Q. 
+What is the overall effect of the corrections and updates described above on 
+18 
+Niagara Mohawk’s IT costs presented in this case?  
+19 
+A. 
+The collective impact of the above cost increases, the formula error, and the 
+20 
+allocation adjustments is to increase Niagara Mohawk’s allocated amounts from 
+21 
+
+
+--- Page 15 ---
+Corrections and Updates Testimony of the Information Technology Panel 
+ 
+Page 13 of 13 
+$34.8 million to $39.5 million in the Rate Year.  The allocated amounts for Data 
+1 
+Years 1 and 2 increased to $40.9 million and $42.8 million, respectively, and are 
+2 
+set forth in Exhibit _ (ITP-6CU).   
+3 
+ 
+4 
+VI.  
+Conclusion 
+5 
+Q. 
+Does this conclude the Panel’s corrections and updates testimony? 
+6 
+A. 
+Yes, it does. 
+7 
+
+
+--- Page 16 ---
+Corrections and Updates Testimony of the Information Technology Panel 
+ 
+INDEX OF EXHIBITS 
+Exhibit __ (ITP-4CU) 
+IT Capital Projects 
+Exhibit __ (ITP-5CU) 
+IT Projected OPEX Costs 
+Exhibit __ (ITP-6CU) 
+IT Total and Incremental Operating Expenses 
+Exhibit __ (ITP-7CU)  
+Summary description of new investments being 
+undertaken in response to the COVID-19 Pandemic  
+Exhibit __ (ITP-8CU)  
+Copies of certain information request responses 
+referenced in this corrections and updates testimony  
+ 
+
+
+--- Page 17 ---
+Corrections and Updates Testimony of the Information Technology Panel 
+ 
+ 
+ 
+ 
+ 
+ 
+ 
+ 
+ 
+ 
+ 
+ 
+ 
+ 
+ 
+ 
+Exhibit __ (ITP-4CU) 
+ 
+IT Capital Projects 
+ 
+
+
+--- Page 18 ---
+NMPC
+ITP-4CU In-Flight and Forecasted Information Technology (IT) Capital Projects
+Investment Name
+Program
+Rate Case Category
+INVP #
+Bill Pool
+Updated In-Service
+Date
+Amortization
+Period
+FY21 Inception to
+Date
+FY22 CAPEX
+FY23 CAPEX
+FY24 CAPEX
+Total US Capex Spend
+Grid Modernization ADMS Phase 1
+ADMS (Grid Modernization)
+ADMS
+5471A
+T198
+10/1/2021
+84
+20,174,989
+$
+8,415,783
+$
+-
+$
+-
+$
+28,590,772
+$
+ADMS Phase 2
+ADMS (Grid Modernization)
+ADMS
+5471B
+T198
+12/31/2023
+84
+735,745
+$
+16,339,698
+$
+17,176,680
+$
+10,754,702
+$
+45,006,825
+$
+ADMS Mobile dispatch for OMS
+ADMS (Grid Modernization)
+ADMS
+5471Q
+T198
+12/31/2023
+84
+-
+$
+769,000
+$
+1,936,000
+$
+1,291,000
+$
+3,996,000
+$
+ADMS Phase 3
+ADMS (Grid Modernization)
+ADMS
+5471N
+T198
+3/31/2026
+84
+-
+$
+-
+$
+-
+$
+4,998,000
+$
+4,998,000
+$
+CSS DSIP Changes for Distributed Generation
+AMI
+AMI
+4704A
+G113
+4/1/2023
+84
+-
+$
+12,362,571
+$
+7,422,723
+$
+-
+$
+19,785,294
+$
+NY Substation Network Improvements
+AMI
+AMI
+4704I
+G113
+4/1/2023
+84
+-
+$
+178,755
+$
+91,254
+$
+93,171
+$
+363,180
+$
+AMF Data Integration Platform
+AMI
+AMI
+4704J
+G113
+4/1/2023
+84
+-
+$
+3,134,154
+$
+4,893,527
+$
+-
+$
+8,027,681
+$
+Data Management Standardization for Transmission, Consumption & Storage
+AMI
+AMI
+4704L
+G113
+4/1/2023
+84
+-
+$
+1,163,240
+$
+516,629
+$
+-
+$
+1,679,869
+$
+Cloud Computing for Data Management Optimization
+AMI
+AMI
+4704M
+G113
+4/1/2023
+84
+-
+$
+700,520
+$
+-
+$
+-
+$
+700,520
+$
+NY REV Cyber Security Initiatives
+AMI
+AMI
+4704N
+G113
+4/1/2023
+84
+-
+$
+3,247,665
+$
+2,593,389
+$
+-
+$
+5,841,054
+$
+AMI - OMS Integration
+AMI
+AMI
+4704S
+G113
+4/1/2023
+84
+-
+$
+582,064
+$
+424,549
+$
+-
+$
+1,006,613
+$
+AMI - IT Infrastructure, professional services, implementation and testing activities
+AMI
+AMI
+4704T
+G113
+4/1/2023
+84
+-
+$
+745,085
+$
+705,916
+$
+-
+$
+1,451,001
+$
+NY REV Cyber Security Initiatives
+AMI
+AMI
+4704N
+G113
+4/1/2025
+84
+-
+$
+-
+$
+-
+$
+1,665,531
+$
+1,665,531
+$
+Customer Information Systems Replacement (KEDNY Release)(R1)
+CIS
+CIS
+5503B
+C239
+6/1/2024
+120
+181,197
+$
+3,847,951
+$
+20,072,687
+$
+24,716,218
+$
+48,818,054
+$
+Customer Information Systems Replacement (KEDLI Release)(R1)
+CIS
+CIS
+5503B
+C239
+6/1/2024
+120
+84,084
+$
+1,785,630
+$
+9,314,666
+$
+11,469,482
+$
+22,653,861
+$
+Customer Information Systems Replacement (Boston Gas Release)(R1)
+CIS
+CIS
+5503B
+C239
+6/1/2024
+120
+100,349
+$
+2,131,033
+$
+11,116,449
+$
+13,688,081
+$
+27,035,912
+$
+Customer Information Systems Replacement (Colonial Gas Release)(R1)
+CIS
+CIS
+5503B
+C239
+6/1/2024
+120
+29,196
+$
+620,022
+$
+3,234,323
+$
+3,982,537
+$
+7,866,079
+$
+Customer Information Systems Replacement (Narr Gas Release)(R2)
+CIS
+CIS
+5503B
+CR2
+7/1/2026
+120
+38,450
+$
+352,765
+$
+1,561,820
+$
+1,491,538
+$
+3,444,573
+$
+Customer Information Systems Replacement (Narr Electric Release)(R2)
+CIS
+CIS
+5503B
+CR2
+7/1/2026
+120
+70,810
+$
+649,658
+$
+2,876,269
+$
+2,746,836
+$
+6,343,573
+$
+Customer Information Systems Replacement (Mass Electric Release)(R2)
+CIS
+CIS
+5503B
+CR2
+7/1/2026
+120
+187,906
+$
+1,723,985
+$
+7,632,703
+$
+7,289,229
+$
+16,833,823
+$
+Customer Information Systems Replacement (Nantucket Electric Release)(R2)
+CIS
+CIS
+5503B
+CR2
+7/1/2026
+120
+1,908
+$
+17,510
+$
+77,521
+$
+74,033
+$
+170,971
+$
+Customer Information Systems Replacement (NMPC Gas Release)(R3)
+CIS
+CIS
+5503B
+C175
+7/1/2028
+120
+88,398
+$
+811,026
+$
+3,590,707
+$
+3,429,124
+$
+7,919,256
+$
+Customer Information Systems Replacement (NMPC Electric Release)(R3)
+CIS
+CIS
+5503B
+C175
+7/1/2028
+120
+236,946
+$
+2,173,916
+$
+9,624,712
+$
+9,191,597
+$
+21,227,171
+$
+IT4IT: Data Management / Business Integrations
+Architecture
+Core IT
+5917B
+G020
+3/31/2022
+84
+-
+$
+13,000,000
+$
+-
+$
+-
+$
+13,000,000
+$
+IT4IT: Data Management
+Architecture
+Core IT
+5917
+G020
+7/30/2022
+84
+4,000,000
+$
+3,500,000
+$
+-
+$
+-
+$
+7,500,000
+$
+IT4IT: Tooling (EA portion of D/PPM)
+Architecture
+Core IT
+5901B
+G020
+3/31/2023
+84
+1,000,000
+$
+500,000
+$
+-
+$
+-
+$
+1,500,000
+$
+IT4IT: Data Management / Business Integrations
+Architecture
+Core IT
+5917B
+G020
+3/31/2023
+84
+-
+$
+-
+$
+13,000,000
+$
+-
+$
+13,000,000
+$
+IT4IT: Data Management / Business Integrations
+Architecture
+Core IT
+5917B
+G020
+3/31/2024
+84
+-
+$
+-
+$
+-
+$
+8,200,000
+$
+8,200,000
+$
+IT4IT: Data Management
+Architecture
+Core IT
+5917
+G020
+6/20/2024
+84
+-
+$
+-
+$
+5,700,000
+$
+2,000,000
+$
+7,700,000
+$
+IT4IT: Data Management
+Architecture
+Core IT
+5917
+G020
+4/1/2025
+84
+-
+$
+-
+$
+-
+$
+3,100,000
+$
+3,100,000
+$
+End User VPN Replacement
+Business Technology
+Core IT
+5522A
+G020
+4/30/2020
+84
+1,459,167
+$
+-
+$
+-
+$
+-
+$
+1,459,167
+$
+Zoom Conferencing
+Business Technology
+Core IT
+5487D
+G020
+5/4/2020
+84
+464,364
+$
+-
+$
+-
+$
+-
+$
+464,364
+$
+Azure Cloud Foundation
+Business Technology
+Core IT
+6013
+G020
+12/31/2020
+84
+935,610
+$
+-
+$
+-
+$
+-
+$
+935,610
+$
+Business Technonlogy Plan Forward Program - COVID
+Business Technology
+Core IT
+6043
+G020
+3/31/2021
+84
+7,500,000
+$
+-
+$
+-
+$
+-
+$
+7,500,000
+$
+Business Technonlogy Plan Forward Program - COVID
+Business Technology
+Core IT
+6043
+G020
+10/30/2021
+84
+-
+$
+90,000
+$
+-
+$
+-
+$
+90,000
+$
+Modern Workplace
+Business Technology
+Core IT
+5886
+G020
+12/31/2022
+84
+-
+$
+8,420,400
+$
+-
+$
+-
+$
+8,420,400
+$
+Infrastructure New Capability
+Business Technology
+Core IT
+5874
+G020
+3/31/2023
+84
+-
+$
+4,805,572
+$
+6,818,782
+$
+-
+$
+11,624,354
+$
+Collaboration & Unified Communications
+Business Technology
+Core IT
+5885
+G020
+12/31/2023
+84
+2,274,800
+$
+4,936,800
+$
+5,841,222
+$
+-
+$
+13,052,822
+$
+Modern Workplace
+Business Technology
+Core IT
+5886
+G020
+12/31/2023
+84
+-
+$
+-
+$
+7,313,596
+$
+-
+$
+7,313,596
+$
+Infrastructure New Capability
+Business Technology
+Core IT
+5874
+G020
+3/31/2024
+84
+-
+$
+-
+$
+-
+$
+5,290,434
+$
+5,290,434
+$
+Collaboration & Unified Communications
+Business Technology
+Core IT
+5885
+G020
+3/31/2024
+84
+-
+$
+-
+$
+-
+$
+5,674,342
+$
+5,674,342
+$
+Modern Workplace
+Business Technology
+Core IT
+5886
+G020
+12/31/2024
+84
+-
+$
+-
+$
+-
+$
+4,531,982
+$
+4,531,982
+$
+Primavera Upgrade/Stabilization
+Capital Delivery
+Core IT
+4990
+X148
+2/1/2021
+84
+6,169,889
+$
+-
+$
+-
+$
+-
+$
+6,169,889
+$
+ABB SENDOUT Server Upgrade
+Capital Delivery
+Core IT
+5361
+C210
+3/31/2021
+84
+260,315
+$
+-
+$
+-
+$
+-
+$
+260,315
+$
+New Storms Response Management System Implementation
+Capital Delivery
+Core IT
+5274A
+G148
+3/31/2022
+84
+1,631,000
+$
+506,000
+$
+-
+$
+-
+$
+2,137,000
+$
+Capital Delivery Enablement Program
+Capital Delivery
+Core IT
+5830
+G148
+12/5/2023
+84
+-
+$
+3,278,000
+$
+6,553,000
+$
+4,704,000
+$
+14,535,000
+$
+Capital Delivery Enablement Program
+Capital Delivery
+Core IT
+5830
+G148
+4/1/2025
+84
+-
+$
+-
+$
+-
+$
+2,527,000
+$
+2,527,000
+$
+Document Management System for Substation Engineering
+Capital Delivery
+Core IT
+N/A
+T224
+4/1/2025
+84
+-
+$
+1,391,000
+$
+1,855,000
+$
+1,855,000
+$
+5,101,000
+$
+Case & Customer Complaint Management Sol
+Customer Operations
+Core IT
+5598A
+C175
+10/5/2020
+84
+583,041
+$
+-
+$
+-
+$
+-
+$
+583,041
+$
+Customer Contact Center / SDC Technology
+Customer Operations
+Core IT
+3932
+C175
+3/31/2021
+84
+5,551,036
+$
+-
+$
+-
+$
+-
+$
+5,551,036
+$
+NY Green Button Connect
+Customer Operations
+Core IT
+5430
+C113
+3/31/2021
+84
+3,000,000
+$
+-
+$
+-
+$
+-
+$
+3,000,000
+$
+Customer and Agent Experience
+Customer Operations
+Core IT
+5859
+C175
+3/31/2022
+84
+-
+$
+10,000,000
+$
+-
+$
+-
+$
+10,000,000
+$
+Regulatory and Community Mandates
+Customer Operations
+Core IT
+5864
+G020
+3/31/2022
+84
+-
+$
+1,500,000
+$
+-
+$
+-
+$
+1,500,000
+$
+Customer Connection Program
+Customer Operations
+Core IT
+5125
+C175
+3/31/2023
+84
+-
+$
+2,500,000
+$
+2,500,000
+$
+-
+$
+5,000,000
+$
+Regulatory and Community Mandates
+Customer Operations
+Core IT
+5864
+G020
+3/31/2023
+84
+-
+$
+-
+$
+2,100,000
+$
+-
+$
+2,100,000
+$
+Customer and Agent Experience
+Customer Operations
+Core IT
+5859
+C175
+3/31/2024
+84
+-
+$
+-
+$
+11,500,000
+$
+12,070,000
+$
+23,570,000
+$
+Regulatory and Community Mandates
+Customer Operations
+Core IT
+5864
+G020
+3/31/2024
+84
+-
+$
+-
+$
+-
+$
+2,400,000
+$
+2,400,000
+$
+Customer Connection Program
+Customer Operations
+Core IT
+5125
+C175
+3/31/2025
+84
+-
+$
+-
+$
+-
+$
+2,630,000
+$
+2,630,000
+$
+Personalization
+CXP - Customer Operations
+Core IT
+4750K
+C175
+12/31/2020
+84
+2,518,676
+$
+-
+$
+-
+$
+-
+$
+2,518,676
+$
+Web Self Service
+CXP - Customer Operations
+Core IT
+4750J
+C175
+3/31/2021
+84
+23,569,500
+$
+-
+$
+-
+$
+-
+$
+23,569,500
+$
+ODS
+CXP - Customer Operations
+Core IT
+4750M
+C343
+3/31/2021
+84
+4,568,190
+$
+-
+$
+-
+$
+-
+$
+4,568,190
+$
+Automated Customer Services
+CXP - Customer Operations
+Core IT
+4750N
+C175
+3/31/2021
+84
+961,941
+$
+-
+$
+-
+$
+-
+$
+961,941
+$
+Nucleus Project
+Digital
+Core IT
+5905
+C175
+1/31/2021
+84
+11,805,000
+$
+-
+$
+-
+$
+-
+$
+11,805,000
+$
+On My Way (EBU Digital Solution)
+Digital
+Core IT
+5912
+G198
+1/31/2021
+84
+11,159,000
+$
+-
+$
+-
+$
+-
+$
+11,159,000
+$
+Digital
+Digital
+Core IT
+G020
+3/31/2023
+84
+6,500,000
+$
+15,200,000
+$
+10,000,000
+$
+-
+$
+31,700,000
+$
+Digital
+Digital
+Core IT
+G020
+4/1/2025
+84
+-
+$
+-
+$
+10,000,000
+$
+20,000,000
+$
+30,000,000
+$
+Exhibit__(ITP-4CU)
+Page 1 of 6
+
+
+--- Page 19 ---
+NMPC
+ITP-4CU In-Flight and Forecasted Information Technology (IT) Capital Projects
+Investment Name
+Program
+Rate Case Category
+INVP #
+Bill Pool
+Updated In-Service
+Date
+Amortization
+Period
+FY21 Inception to
+Date
+FY22 CAPEX
+FY23 CAPEX
+FY24 CAPEX
+Total US Capex Spend
+EMS Lifecycle Hardware and Software Upgrade
+Electric Operations
+Core IT
+4914
+T186
+5/12/2020
+84
+16,985,157
+$
+-
+$
+-
+$
+-
+$
+16,985,157
+$
+US CNI-EMS and OMS Lifecycle Hardware Upgrade
+Electric Operations
+Core IT
+4568
+T186
+5/12/2020
+84
+3,555,350
+$
+-
+$
+-
+$
+-
+$
+3,555,350
+$
+US CNI Tech Services-Network Equipment Lifecycle Replacements
+Electric Operations
+Core IT
+4570
+T186
+5/12/2020
+84
+10,105,498
+$
+-
+$
+-
+$
+-
+$
+10,105,498
+$
+Storms-IScheduler Upgrade Stabilization.
+Electric Operations
+Core IT
+4398
+G160
+9/30/2020
+84
+1,721,327
+$
+-
+$
+-
+$
+-
+$
+1,721,327
+$
+AVLS Modem Reconfiguration
+Electric Operations
+Core IT
+5486
+G148
+3/31/2021
+84
+1,584,885
+$
+-
+$
+-
+$
+-
+$
+1,584,885
+$
+US Control-Transmission Outage Application (iTOA) Upgrade to HTML 5 Web
+Electric Operations
+Core IT
+4483
+G185
+4/1/2021
+84
+3,655,638
+$
+22,177
+$
+-
+$
+-
+$
+3,677,815
+$
+US MDS-Energy Accounting System (EAS) migration to Wholesale Settlement Application (WSA)
+Electric Operations
+Core IT
+4481
+G442
+8/13/2021
+84
+2,966,536
+$
+1,212,440
+$
+-
+$
+-
+$
+4,178,976
+$
+Control Room Event Recording
+Electric Operations
+Core IT
+5889A
+G181
+12/31/2021
+84
+550,000
+$
+250,000
+$
+-
+$
+-
+$
+800,000
+$
+Operational Excellence, Operational Support
+Electric Operations
+Core IT
+5888
+G198
+3/1/2022
+84
+-
+$
+770,000
+$
+-
+$
+-
+$
+770,000
+$
+Operational Excellence - Meter Data Services
+Electric Operations
+Core IT
+5891
+G186
+3/1/2022
+84
+850,000
+$
+850,000
+$
+-
+$
+-
+$
+1,700,000
+$
+Operations Excellence - Control Center Operation
+Electric Operations
+Core IT
+5892
+G186
+3/31/2022
+84
+-
+$
+750,000
+$
+-
+$
+-
+$
+750,000
+$
+Digitizing the Electric Business - Mobility
+Electric Operations
+Core IT
+5893
+G198
+3/31/2022
+84
+-
+$
+2,100,000
+$
+-
+$
+-
+$
+2,100,000
+$
+Operational Excellence - Meter Data Services
+Electric Operations
+Core IT
+5891
+G186
+4/1/2022
+84
+-
+$
+850,000
+$
+-
+$
+-
+$
+850,000
+$
+Operational Excellence - Meter Data Services
+Electric Operations
+Core IT
+5891
+G186
+12/1/2022
+84
+750,000
+$
+750,000
+$
+200,000
+$
+-
+$
+1,700,000
+$
+Asset Maturity - Asset Management
+Electric Operations
+Core IT
+5890
+G198
+2/1/2023
+84
+-
+$
+660,000
+$
+500,000
+$
+-
+$
+1,160,000
+$
+Operational Excellence - Field Operations
+Electric Operations
+Core IT
+5887
+G198
+3/1/2023
+84
+-
+$
+525,000
+$
+-
+$
+-
+$
+525,000
+$
+Operational Excellence, Operational Support
+Electric Operations
+Core IT
+5888
+G198
+3/1/2023
+84
+-
+$
+100,000
+$
+450,000
+$
+-
+$
+550,000
+$
+Asset Maturity - Asset Management
+Electric Operations
+Core IT
+5890
+G198
+3/1/2023
+84
+-
+$
+600,000
+$
+500,000
+$
+-
+$
+1,100,000
+$
+Operational Excellence - Meter Data Services
+Electric Operations
+Core IT
+5891
+G186
+3/31/2023
+84
+-
+$
+500,000
+$
+500,000
+$
+-
+$
+1,000,000
+$
+Operations Excellence - Control Center Operation
+Electric Operations
+Core IT
+5892
+G186
+3/31/2023
+84
+-
+$
+800,000
+$
+1,200,000
+$
+-
+$
+2,000,000
+$
+Digitizing the Electric Business - Mobility
+Electric Operations
+Core IT
+5893
+G198
+3/31/2023
+84
+-
+$
+1,000,000
+$
+500,000
+$
+-
+$
+1,500,000
+$
+Operational Excellence - Meter Data Services
+Electric Operations
+Core IT
+5891
+G186
+4/1/2023
+84
+-
+$
+2,250,000
+$
+950,000
+$
+-
+$
+3,200,000
+$
+Emergency Planning & E;ectric Services
+Electric Operations
+Core IT
+5889
+G198
+9/1/2023
+84
+-
+$
+-
+$
+750,000
+$
+-
+$
+750,000
+$
+Asset Maturity - Asset Management
+Electric Operations
+Core IT
+5890
+G198
+3/1/2024
+84
+-
+$
+-
+$
+-
+$
+2,400,000
+$
+2,400,000
+$
+Operational Excellence, Field Operations
+Electric Operations
+Core IT
+5887
+G198
+3/31/2024
+84
+-
+$
+-
+$
+200,000
+$
+200,000
+$
+400,000
+$
+Digitizing the Electric Business - Mobility
+Electric Operations
+Core IT
+5893
+G198
+3/31/2024
+60
+-
+$
+-
+$
+-
+$
+900,000
+$
+900,000
+$
+Asset Maturity - Asset Management
+Electric Operations
+Core IT
+5890
+G198
+12/1/2024
+84
+-
+$
+-
+$
+1,000,000
+$
+2,000,000
+$
+3,000,000
+$
+Operational Excellence, Operational Support
+Electric Operations
+Core IT
+5888
+G198
+3/1/2025
+84
+-
+$
+-
+$
+-
+$
+650,000
+$
+650,000
+$
+Operational Excellence, Field Operations
+Electric Operations
+Core IT
+5887
+G198
+3/31/2025
+84
+-
+$
+-
+$
+-
+$
+200,000
+$
+200,000
+$
+Operations Excellence - Control Center Operation
+Electric Operations
+Core IT
+5892
+G186
+3/31/2025
+84
+-
+$
+-
+$
+-
+$
+450,000
+$
+450,000
+$
+Operational Excellence - Meter Data Services
+Electric Operations
+Core IT
+5891
+G186
+4/1/2025
+84
+-
+$
+-
+$
+1,500,000
+$
+2,000,000
+$
+3,500,000
+$
+Digitizing the Electric Business - Mobility
+Electric Operations
+Core IT
+5893
+G198
+4/1/2025
+84
+-
+$
+-
+$
+-
+$
+2,100,000
+$
+2,100,000
+$
+EV Commercial - Data Management
+Electric Vehicles
+Core IT
+5970
+G198
+12/31/2021
+84
+-
+$
+750,000
+$
+-
+$
+-
+$
+750,000
+$
+EV Charging Station
+Electric Vehicles
+Core IT
+5969
+G198
+3/31/2023
+84
+-
+$
+1,376,400
+$
+1,376,400
+$
+-
+$
+2,752,800
+$
+Electric Demand Response (DRMS)
+Energy Efficiency
+Core IT
+TBD
+5210E
+4/1/2020
+36
+1,200,000
+$
+-
+$
+-
+$
+-
+$
+1,200,000
+$
+Electric Demand Response (DRMS)
+Energy Efficiency
+Core IT
+TBD
+5210E
+4/1/2023
+36
+-
+$
+-
+$
+-
+$
+2,400,000
+$
+2,400,000
+$
+US SAP: Fiori Upgrade Phase 1
+Finance & Business Services
+Core IT
+5753
+G020
+6/22/2020
+84
+925,574
+$
+-
+$
+-
+$
+-
+$
+925,574
+$
+DocuSign
+Finance & Business Services
+Core IT
+4802
+G116
+8/24/2020
+84
+775,188
+$
+-
+$
+-
+$
+-
+$
+775,188
+$
+Lease Accounting Updates and Contract Ma
+Finance & Business Services
+Core IT
+5360
+G020
+10/31/2020
+84
+11,997,593
+$
+-
+$
+-
+$
+-
+$
+11,997,593
+$
+Upgrade Servers for CCAE Reporting
+Finance & Business Services
+Core IT
+4904
+G148
+12/30/2020
+84
+514,148
+$
+-
+$
+-
+$
+-
+$
+514,148
+$
+Bill Print and Bill Composition Implement
+Finance & Business Services
+Core IT
+5345B
+C175
+2/5/2021
+84
+1,551,590
+$
+-
+$
+-
+$
+-
+$
+1,551,590
+$
+Future of HR Program
+Finance & Business Services
+Core IT
+5362
+G020
+3/31/2021
+84
+529,000
+$
+-
+$
+-
+$
+-
+$
+529,000
+$
+Annual HR & Payroll Mandatory Service Pack Upgrade (HRSP) FY21
+Finance & Business Services
+Core IT
+5609
+G020
+3/31/2021
+84
+1,386,000
+$
+-
+$
+-
+$
+-
+$
+1,386,000
+$
+FY21 Mandated Bucket
+Finance & Business Services
+Core IT
+5795
+G020
+3/31/2021
+84
+5,100,000
+$
+-
+$
+-
+$
+-
+$
+5,100,000
+$
+RightFax Upgrade/Remediation
+Finance & Business Services
+Core IT
+5069
+C175
+12/20/2021
+84
+250,000
+$
+250,000
+$
+-
+$
+-
+$
+500,000
+$
+Blackline: US Implementation
+Finance & Business Services
+Core IT
+5380A
+G020
+12/31/2021
+84
+850,451
+$
+1,000,000
+$
+-
+$
+-
+$
+1,850,451
+$
+NACHA Change
+Finance & Business Services
+Core IT
+5852
+G175
+12/31/2021
+84
+670,000
+$
+250,000
+$
+-
+$
+-
+$
+920,000
+$
+F&A and Implementation - Vision FM Repla
+Finance & Business Services
+Core IT
+3870
+G020
+3/31/2022
+84
+805,000
+$
+1,200,000
+$
+-
+$
+-
+$
+2,005,000
+$
+Lease Accounting Updates and CCM - Phase
+Finance & Business Services
+Core IT
+5497
+G020
+3/31/2022
+84
+2,500,000
+$
+750,000
+$
+-
+$
+-
+$
+3,250,000
+$
+Annual HR & Payroll Mandatory Service Pack Upgrade (HRSP) FY22
+Finance & Business Services
+Core IT
+5610
+G020
+3/31/2022
+84
+-
+$
+1,386,000
+$
+-
+$
+-
+$
+1,386,000
+$
+RCM Excellence
+Finance & Business Services
+Core IT
+5836
+G148
+3/31/2022
+84
+-
+$
+2,000,000
+$
+-
+$
+-
+$
+2,000,000
+$
+FY22 Mandated Projects
+Finance & Business Services
+Core IT
+5836
+G020
+3/31/2022
+84
+-
+$
+5,200,000
+$
+-
+$
+-
+$
+5,200,000
+$
+Revenue Cycle Management - non CIS
+Finance & Business Services
+Core IT
+5627
+C175
+9/20/2022
+84
+-
+$
+2,000,000
+$
+-
+$
+-
+$
+2,000,000
+$
+US Finance Program
+Finance & Business Services
+Core IT
+5842
+G020
+10/1/2022
+84
+-
+$
+5,000,000
+$
+-
+$
+-
+$
+5,000,000
+$
+Finance and Business Services Health Check (Non-SAP) Program
+Finance & Business Services
+Core IT
+5902
+G020
+10/1/2022
+84
+-
+$
+350,000
+$
+-
+$
+-
+$
+350,000
+$
+Future of Finance Program of Work
+Finance & Business Services
+Core IT
+5380
+G020
+3/31/2023
+84
+-
+$
+3,200,000
+$
+3,500,000
+$
+-
+$
+6,700,000
+$
+Annual HR & Payroll Mandatory Service Pack Upgrade (HRSP) FY23
+Finance & Business Services
+Core IT
+5611
+G020
+3/31/2023
+84
+-
+$
+-
+$
+1,386,000
+$
+-
+$
+1,386,000
+$
+Finance and Business Services Health Check (Non-SAP) Program
+Finance & Business Services
+Core IT
+5902
+G020
+3/31/2023
+84
+-
+$
+-
+$
+350,000
+$
+-
+$
+350,000
+$
+FY23 Mandated Projects
+Finance & Business Services
+Core IT
+5927
+G020
+3/31/2023
+84
+-
+$
+-
+$
+5,200,000
+$
+-
+$
+5,200,000
+$
+Centralized Services Program
+Finance & Business Services
+Core IT
+5841
+G020
+12/30/2023
+84
+-
+$
+-
+$
+5,000,000
+$
+-
+$
+5,000,000
+$
+US Finance Program
+Finance & Business Services
+Core IT
+5842
+G020
+12/30/2023
+84
+-
+$
+-
+$
+5,000,000
+$
+-
+$
+5,000,000
+$
+SAP and BackOffice Health Program
+Finance & Business Services
+Core IT
+5843
+G020
+12/30/2023
+84
+-
+$
+-
+$
+2,500,000
+$
+-
+$
+2,500,000
+$
+Annual HR & Payroll Mandatory Service Pack Upgrade (HRSP) FY24
+Finance & Business Services
+Core IT
+5612
+G020
+3/31/2024
+84
+-
+$
+-
+$
+-
+$
+1,386,000
+$
+1,386,000
+$
+Revenue Cycle Management non CIS
+Finance & Business Services
+Core IT
+5629
+C175
+3/31/2024
+84
+-
+$
+-
+$
+1,600,000
+$
+2,000,000
+$
+3,600,000
+$
+Centralized Services Program
+Finance & Business Services
+Core IT
+5841
+G020
+3/31/2024
+84
+-
+$
+-
+$
+-
+$
+4,000,000
+$
+4,000,000
+$
+US Finance Program
+Finance & Business Services
+Core IT
+5842
+G020
+3/31/2024
+84
+-
+$
+-
+$
+-
+$
+5,000,000
+$
+5,000,000
+$
+Exhibit__(ITP-4CU)
+Page 2 of 6
+
+
+--- Page 20 ---
+NMPC
+ITP-4CU In-Flight and Forecasted Information Technology (IT) Capital Projects
+Investment Name
+Program
+Rate Case Category
+INVP #
+Bill Pool
+Updated In-Service
+Date
+Amortization
+Period
+FY21 Inception to
+Date
+FY22 CAPEX
+FY23 CAPEX
+FY24 CAPEX
+Total US Capex Spend
+SAP and BackOffice Health Program
+Finance & Business Services
+Core IT
+5843
+G020
+3/31/2024
+84
+-
+$
+-
+$
+-
+$
+4,800,000
+$
+4,800,000
+$
+Finance and Business Services Health Check (Non-SAP) Program
+Finance & Business Services
+Core IT
+5902
+G020
+3/31/2024
+84
+-
+$
+-
+$
+-
+$
+350,000
+$
+350,000
+$
+FY24 Mandated Projects
+Finance & Business Services
+Core IT
+5928
+G020
+3/31/2024
+84
+-
+$
+-
+$
+-
+$
+5,200,000
+$
+5,200,000
+$
+Property Services IT Systems Modernization
+Finance & Business Services
+Core IT
+5930
+G020
+3/31/2024
+84
+-
+$
+500,000
+$
+500,000
+$
+500,000
+$
+1,500,000
+$
+Future of Finance Program of Work
+Finance & Business Services
+Core IT
+5380
+G020
+3/31/2025
+84
+-
+$
+-
+$
+-
+$
+3,500,000
+$
+3,500,000
+$
+Property Services IT Systems Modernization
+Finance & Business Services
+Core IT
+5930
+G020
+4/1/2025
+84
+-
+$
+-
+$
+-
+$
+500,000
+$
+500,000
+$
+DMS Replacement - Delivery
+Gas Operations
+Core IT
+4408
+G149
+6/19/2020
+84
+3,720,148
+$
+-
+$
+-
+$
+-
+$
+3,720,148
+$
+Asset Management System for LNG
+Gas Operations
+Core IT
+4898
+G383
+3/31/2022
+84
+2,027,120
+$
+2,850,000
+$
+-
+$
+-
+$
+4,877,120
+$
+Gas Field Excellence
+Gas Operations
+Core IT
+5785
+G210
+3/31/2023
+84
+300,000
+$
+500,000
+$
+1,000,000
+$
+-
+$
+1,800,000
+$
+Gas Cash Flow Optimization
+Gas Operations
+Core IT
+5786
+G210
+3/31/2023
+84
+250,000
+$
+500,000
+$
+500,000
+$
+-
+$
+1,250,000
+$
+Gas Process & Performance Optimization
+Gas Operations
+Core IT
+5787
+G210
+3/31/2023
+84
+1,400,000
+$
+1,400,000
+$
+1,000,000
+$
+-
+$
+3,800,000
+$
+Gas Safety and Compliance
+Gas Operations
+Core IT
+5788
+G210
+3/31/2023
+84
+1,400,000
+$
+1,500,000
+$
+1,000,000
+$
+-
+$
+3,900,000
+$
+Gas Work Plan Optimization
+Gas Operations
+Core IT
+5789
+G210
+3/31/2023
+84
+250,000
+$
+250,000
+$
+500,000
+$
+-
+$
+1,000,000
+$
+Gas Field Excellence
+Gas Operations
+Core IT
+5785
+G210
+3/31/2025
+84
+-
+$
+-
+$
+1,000,000
+$
+2,000,000
+$
+3,000,000
+$
+Gas Cash Flow Optimization
+Gas Operations
+Core IT
+5786
+G210
+3/31/2025
+84
+-
+$
+-
+$
+500,000
+$
+1,100,000
+$
+1,600,000
+$
+Gas Work Plan Optimization
+Gas Operations
+Core IT
+5789
+G210
+3/31/2025
+84
+-
+$
+-
+$
+500,000
+$
+1,000,000
+$
+1,500,000
+$
+Gas Process & Performance Optimization
+Gas Operations
+Core IT
+5787
+G210
+4/1/2025
+84
+-
+$
+-
+$
+1,000,000
+$
+2,000,000
+$
+3,000,000
+$
+Gas Safety and Compliance
+Gas Operations
+Core IT
+5788
+G210
+4/1/2025
+84
+-
+$
+-
+$
+1,500,000
+$
+2,500,000
+$
+4,000,000
+$
+Application Lifecycle Management Toolset
+IT Group Functions
+Core IT
+3431B
+G020
+3/31/2020
+84
+588,860
+$
+-
+$
+-
+$
+-
+$
+588,860
+$
+Allegro Upgrade to Horizon
+IT Group Functions
+Core IT
+4998
+G175
+8/1/2020
+84
+1,626,121
+$
+-
+$
+246,000
+$
+246,000
+$
+2,118,121
+$
+Employee Digital Workplace
+IT Group Functions
+Core IT
+5317
+G020
+9/2/2020
+84
+1,611,727
+$
+-
+$
+-
+$
+-
+$
+1,611,727
+$
+Identity and Access Management Business
+IT Group Functions
+Core IT
+5278
+G020
+9/30/2020
+84
+5,088,151
+$
+-
+$
+-
+$
+-
+$
+5,088,151
+$
+GRC Archer - Risk and Migration
+IT Group Functions
+Core IT
+5472
+G020
+10/30/2020
+84
+1,798,446
+$
+-
+$
+-
+$
+-
+$
+1,798,446
+$
+Travel & Expense Management (T&E) and Gl
+IT Group Functions
+Core IT
+4578
+G020
+3/31/2021
+84
+326,930
+$
+-
+$
+-
+$
+-
+$
+326,930
+$
+Learning Interfaces integration with Suc
+IT Group Functions
+Core IT
+5545
+G020
+3/31/2021
+84
+521,990
+$
+-
+$
+-
+$
+-
+$
+521,990
+$
+US IMS Upgrade
+IT Group Functions
+Core IT
+5777
+G020
+3/31/2021
+84
+427,207
+$
+-
+$
+-
+$
+-
+$
+427,207
+$
+US Document Management
+IT Group Functions
+Core IT
+5362A
+G020
+3/31/2021
+84
+800,000
+$
+-
+$
+-
+$
+-
+$
+800,000
+$
+US Group Functions: Fix the Foundation
+IT Group Functions
+Core IT
+5896
+G020
+3/31/2021
+84
+900,000
+$
+-
+$
+-
+$
+-
+$
+900,000
+$
+AMAG HW and SW Upgrade
+IT Group Functions
+Core IT
+5466
+G020
+5/20/2021
+84
+3,791,956
+$
+1,834,669
+$
+-
+$
+-
+$
+5,626,624
+$
+Software License and Asset Management (I
+IT Group Functions
+Core IT
+5364
+G020
+6/1/2021
+84
+610,000
+$
+-
+$
+-
+$
+-
+$
+610,000
+$
+US Legal: Document Management
+IT Group Functions
+Core IT
+5507
+G020
+7/2/2021
+84
+376,933
+$
+-
+$
+-
+$
+-
+$
+376,933
+$
+MyHub Compliance & Enhancements
+IT Group Functions
+Core IT
+5158
+G020
+11/1/2021
+84
+1,320,166
+$
+-
+$
+-
+$
+-
+$
+1,320,166
+$
+Group Function Fix the Foundation
+IT Group Functions
+Core IT
+5908
+G020
+3/31/2022
+84
+65,000
+$
+-
+$
+-
+$
+-
+$
+65,000
+$
+Group Function Operational Excellence
+IT Group Functions
+Core IT
+5909
+G020
+3/31/2022
+84
+1,650,000
+$
+3,120,000
+$
+-
+$
+-
+$
+4,770,000
+$
+Group Function Regulatory/Mandated Requests
+IT Group Functions
+Core IT
+5910
+G020
+3/31/2022
+84
+3,543,000
+$
+5,510,000
+$
+-
+$
+-
+$
+9,053,000
+$
+US Group Functions: Operational Excellence
+IT Group Functions
+Core IT
+5895
+G020
+3/31/2022
+84
+500,000
+$
+500,000
+$
+-
+$
+-
+$
+1,000,000
+$
+US Group Functions: Fix the Foundation
+IT Group Functions
+Core IT
+5896
+G020
+3/31/2022
+84
+420,000
+$
+1,700,000
+$
+-
+$
+-
+$
+2,120,000
+$
+Group Function Operational Excellence
+IT Group Functions
+Core IT
+5909
+G020
+3/31/2023
+84
+-
+$
+-
+$
+4,370,000
+$
+-
+$
+4,370,000
+$
+Group Function Regulatory/Mandated Requests
+IT Group Functions
+Core IT
+5910
+G020
+3/31/2023
+84
+-
+$
+-
+$
+8,240,000
+$
+-
+$
+8,240,000
+$
+US Group Functions: Operational Excellence
+IT Group Functions
+Core IT
+5895
+G020
+3/31/2023
+84
+-
+$
+-
+$
+2,500,000
+$
+-
+$
+2,500,000
+$
+US Group Functions: Fix the Foundation
+IT Group Functions
+Core IT
+5896
+G020
+3/31/2023
+84
+-
+$
+-
+$
+2,100,000
+$
+-
+$
+2,100,000
+$
+Group Function Operational Excellence
+IT Group Functions
+Core IT
+5909
+G020
+3/31/2024
+84
+-
+$
+-
+$
+-
+$
+1,270,000
+$
+1,270,000
+$
+Group Function Regulatory/Mandated Requests
+IT Group Functions
+Core IT
+5910
+G020
+3/31/2024
+84
+-
+$
+-
+$
+-
+$
+6,620,000
+$
+6,620,000
+$
+US Group Functions: Operational Excellence
+IT Group Functions
+Core IT
+5895
+G020
+3/31/2024
+84
+-
+$
+-
+$
+-
+$
+2,000,000
+$
+2,000,000
+$
+US Group Functions: Fix the Foundation
+IT Group Functions
+Core IT
+5896
+G020
+3/31/2024
+84
+-
+$
+-
+$
+-
+$
+3,000,000
+$
+3,000,000
+$
+Total Reward Statement
+IT Group Functions
+Core IT
+5461
+G020
+721/2020
+84
+332,630
+$
+-
+$
+-
+$
+-
+$
+332,630
+$
+IT4IT: Service Now
+Other Platform Initiatives
+Core IT
+5900
+G020
+3/31/2023
+84
+1,000,000
+$
+500,000
+$
+600,000
+$
+-
+$
+2,100,000
+$
+IT4IT: Service Now
+Other Platform Initiatives
+Core IT
+5900
+G020
+3/31/2025
+84
+-
+$
+-
+$
+-
+$
+1,100,000
+$
+1,100,000
+$
+CNI Secure Communication
+Security
+Core IT
+3614B7
+G020
+2/28/2020
+84
+1,562,083
+$
+-
+$
+-
+$
+-
+$
+1,562,083
+$
+Physical Security
+Security
+Core IT
+5760
+G020
+3/31/2020
+60
+3,757,000
+$
+-
+$
+-
+$
+-
+$
+3,757,000
+$
+IAM- Privilege Access Management (PAM) -
+Security
+Core IT
+3683USAP
+G020
+3/31/2020
+84
+870,630
+$
+-
+$
+-
+$
+-
+$
+870,630
+$
+Multi factor Authentication (MFA)
+Security
+Core IT
+4975USC
+G020
+3/31/2020
+84
+1,961,959
+$
+-
+$
+-
+$
+-
+$
+1,961,959
+$
+Internal Public Key Infrastructure (PKI)
+Security
+Core IT
+4975USF
+G020
+3/31/2020
+84
+878,068
+$
+-
+$
+-
+$
+-
+$
+878,068
+$
+Gas Business Enablement Cyber Security E
+Security
+Core IT
+5571
+G210
+4/20/2020
+84
+1,791,415
+$
+-
+$
+-
+$
+-
+$
+1,791,415
+$
+IAM: Role Based Access control
+Security
+Core IT
+3683USP
+G020
+6/30/2020
+84
+513,066
+$
+-
+$
+-
+$
+-
+$
+513,066
+$
+CNI Intrusion Detection System (IDS) ref
+Security
+Core IT
+4975USB
+G020
+12/31/2020
+84
+571,406
+$
+-
+$
+-
+$
+-
+$
+571,406
+$
+Malware Defense - Endpoint Protection
+Security
+Core IT
+5702USA
+G020
+12/31/2020
+84
+3,462,851
+$
+-
+$
+-
+$
+-
+$
+3,462,851
+$
+Malware Defense - System Hardening
+Security
+Core IT
+5702USC
+G020
+12/31/2020
+84
+4,585,025
+$
+-
+$
+-
+$
+-
+$
+4,585,025
+$
+Physical Security
+Security
+Core IT
+G020
+3/31/2021
+60
+100,000
+$
+-
+$
+-
+$
+-
+$
+100,000
+$
+Security Incident & Event Management: Ph
+Security
+Core IT
+3683USN
+G020
+9/20/2021
+84
+2,896,024
+$
+-
+$
+-
+$
+-
+$
+2,896,024
+$
+US Strategic Risk Remediation
+Security
+Core IT
+5933
+G020
+3/31/2022
+84
+2,316,000
+$
+3,434,000
+$
+-
+$
+-
+$
+5,750,000
+$
+Network Security Improvements
+Security
+Core IT
+3683USH
+G020
+3/31/2022
+84
+2,129,304
+$
+-
+$
+-
+$
+-
+$
+2,129,304
+$
+Data Protection
+Security
+Core IT
+5820
+G020
+3/31/2022
+84
+500,000
+$
+450,000
+$
+-
+$
+-
+$
+950,000
+$
+Vulnerability Management
+Security
+Core IT
+5848
+G020
+3/31/2022
+84
+1,200,000
+$
+1,200,000
+$
+-
+$
+-
+$
+2,400,000
+$
+Platform Security
+Security
+Core IT
+5849
+G020
+3/31/2022
+84
+1,424,375
+$
+4,800,000
+$
+-
+$
+-
+$
+6,224,375
+$
+Network Security
+Security
+Core IT
+5850
+G020
+3/31/2022
+84
+-
+$
+1,500,000
+$
+-
+$
+-
+$
+1,500,000
+$
+Exhibit__(ITP-4CU)
+Page 3 of 6
+
+
+--- Page 21 ---
+NMPC
+ITP-4CU In-Flight and Forecasted Information Technology (IT) Capital Projects
+Investment Name
+Program
+Rate Case Category
+INVP #
+Bill Pool
+Updated In-Service
+Date
+Amortization
+Period
+FY21 Inception to
+Date
+FY22 CAPEX
+FY23 CAPEX
+FY24 CAPEX
+Total US Capex Spend
+Security Orchestration, Automation and Response
+Security
+Core IT
+5851
+G020
+3/31/2022
+84
+-
+$
+1,350,000
+$
+-
+$
+-
+$
+1,350,000
+$
+Physical Security
+Security
+Core IT
+G020
+3/31/2022
+60
+-
+$
+100,000
+$
+-
+$
+-
+$
+100,000
+$
+US Strategic Risk Remediation
+Security
+Core IT
+5933
+G020
+3/31/2023
+84
+-
+$
+5,722,000
+$
+7,961,000
+$
+-
+$
+13,683,000
+$
+Physical Security
+Security
+Core IT
+G020
+3/31/2023
+60
+-
+$
+-
+$
+100,000
+$
+-
+$
+100,000
+$
+Data Protection
+Security
+Core IT
+5820
+G020
+8/31/2023
+84
+-
+$
+-
+$
+519,000
+$
+-
+$
+519,000
+$
+Vulnerability Management
+Security
+Core IT
+5848
+G020
+8/31/2023
+84
+-
+$
+-
+$
+1,384,000
+$
+-
+$
+1,384,000
+$
+Platform Security
+Security
+Core IT
+5849
+G020
+8/31/2023
+84
+-
+$
+-
+$
+5,536,000
+$
+-
+$
+5,536,000
+$
+Network Security
+Security
+Core IT
+5850
+G020
+8/31/2023
+84
+-
+$
+-
+$
+1,730,000
+$
+-
+$
+1,730,000
+$
+Security Orchestration, Automation and Response
+Security
+Core IT
+5851
+G020
+8/31/2023
+84
+-
+$
+-
+$
+1,557,000
+$
+-
+$
+1,557,000
+$
+Identity and Access Management
+Security
+Core IT
+5870
+G020
+8/31/2023
+84
+5,850,000
+$
+5,850,000
+$
+6,747,000
+$
+-
+$
+18,447,000
+$
+US Strategic Risk Remediation
+Security
+Core IT
+5933
+G020
+3/31/2024
+84
+-
+$
+-
+$
+13,422,000
+$
+6,003,000
+$
+19,425,000
+$
+Physical Security
+Security
+Core IT
+G020
+3/31/2024
+60
+-
+$
+-
+$
+-
+$
+100,000
+$
+100,000
+$
+Data Protection
+Security
+Core IT
+5820
+G020
+3/31/2025
+84
+-
+$
+-
+$
+-
+$
+546,000
+$
+546,000
+$
+Vulnerability Management
+Security
+Core IT
+5848
+G020
+3/31/2025
+84
+-
+$
+-
+$
+-
+$
+1,456,000
+$
+1,456,000
+$
+Platform Security
+Security
+Core IT
+5849
+G020
+3/31/2025
+84
+-
+$
+-
+$
+-
+$
+5,824,000
+$
+5,824,000
+$
+Network Security
+Security
+Core IT
+5850
+G020
+3/31/2025
+84
+-
+$
+-
+$
+-
+$
+1,820,000
+$
+1,820,000
+$
+Security Orchestration, Automation and Response
+Security
+Core IT
+5851
+G020
+3/31/2025
+84
+-
+$
+-
+$
+-
+$
+1,638,000
+$
+1,638,000
+$
+Identity and Access Management
+Security
+Core IT
+5870
+G020
+3/31/2025
+84
+-
+$
+-
+$
+-
+$
+7,098,000
+$
+7,098,000
+$
+US Strategic Risk Remediation
+Security
+Core IT
+5933
+G020
+4/1/2025
+84
+-
+$
+-
+$
+-
+$
+14,413,000
+$
+14,413,000
+$
+IT4IT: GSD Lab
+Solution Development
+Core IT
+5935
+G020
+3/31/2021
+84
+200,000
+$
+-
+$
+-
+$
+-
+$
+200,000
+$
+IT4IT: Middleware
+Solution Development
+Core IT
+5899
+G020
+3/31/2022
+84
+2,700,000
+$
+2,000,000
+$
+-
+$
+-
+$
+4,700,000
+$
+IT4IT: IT Tooling
+Solution Development
+Core IT
+5901
+G020
+3/31/2022
+84
+2,100,000
+$
+2,000,000
+$
+-
+$
+-
+$
+4,100,000
+$
+IT4IT: Middleware
+Solution Development
+Core IT
+5899
+G020
+3/31/2023
+84
+-
+$
+-
+$
+3,000,000
+$
+-
+$
+3,000,000
+$
+IT4IT: IT Tooling
+Solution Development
+Core IT
+5901
+G020
+3/31/2023
+84
+-
+$
+-
+$
+3,000,000
+$
+-
+$
+3,000,000
+$
+IT4IT: Middleware
+Solution Development
+Core IT
+5899
+G020
+3/31/2024
+84
+-
+$
+-
+$
+-
+$
+4,500,000
+$
+4,500,000
+$
+IT4IT: IT Tooling
+Solution Development
+Core IT
+5901
+G020
+3/31/2025
+84
+-
+$
+-
+$
+-
+$
+4,500,000
+$
+4,500,000
+$
+UNIX Phase 2
+Technology Modernization
+Core IT
+5502
+G020
+1/31/2020
+84
+811,444
+-
+$
+-
+$
+-
+$
+811,444
+$
+Verizon - Aruba Wireless LAN (Waltham)
+Technology Modernization
+Core IT
+5521A
+G020
+2/15/2020
+84
+3,392,329
+-
+$
+-
+$
+-
+$
+3,392,329
+$
+Storage Capacity Purchase and Configure
+Technology Modernization
+Core IT
+5636
+G020
+2/28/2020
+84
+4,971,418
+-
+$
+-
+$
+-
+$
+4,971,418
+$
+Legacy Device Refresh
+Technology Modernization
+Core IT
+5487F
+G020
+3/2/2020
+84
+923,007
+-
+$
+-
+$
+-
+$
+923,007
+$
+NetMod Infoblox
+Technology Modernization
+Core IT
+5311
+G020
+3/16/2020
+84
+3,237,054
+-
+$
+-
+$
+-
+$
+3,237,054
+$
+Active Directory Improvements
+Technology Modernization
+Core IT
+4489
+G020
+3/31/2020
+84
+2,379,388
+-
+$
+-
+$
+-
+$
+2,379,388
+$
+ICE Replacement
+Technology Modernization
+Core IT
+4491
+G020
+3/31/2020
+84
+13,016,636
+-
+$
+-
+$
+-
+$
+13,016,636
+$
+Northborough and Avaya PBX Replacement/U
+Technology Modernization
+Core IT
+5523A
+G020
+4/29/2020
+60
+572,235
+-
+$
+-
+$
+-
+$
+572,235
+$
+Upstate NY PBX Replacement
+Technology Modernization
+Core IT
+5523B
+G020
+4/29/2020
+60
+939,808
+-
+$
+-
+$
+-
+$
+939,808
+$
+Network Equipment End of Life Replacement
+Technology Modernization
+Core IT
+5754
+G020
+4/30/2020
+60
+4,529,615
+-
+$
+-
+$
+-
+$
+4,529,615
+$
+Box & Huddle to SharePoint Online
+Technology Modernization
+Core IT
+5487C
+G020
+4/30/2020
+84
+424,861
+-
+$
+-
+$
+-
+$
+424,861
+$
+WAN Diversity at 18 Regional Storm Sites
+Technology Modernization
+Core IT
+5524A
+G020
+7/21/2020
+84
+1,086,077
+-
+$
+-
+$
+-
+$
+1,086,077
+$
+Mainframe Capacity Upgrade
+Technology Modernization
+Core IT
+6026
+G020
+8/18/2020
+84
+1,885,199
+$
+-
+$
+-
+$
+-
+$
+1,885,199
+$
+Integration Services
+Technology Modernization
+Core IT
+5506
+G020
+9/30/2020
+84
+3,248,137
+$
+-
+$
+-
+$
+-
+$
+3,248,137
+$
+IBM P9 Refresh
+Technology Modernization
+Core IT
+5974
+G020
+9/30/2020
+84
+1,471,727
+$
+-
+$
+-
+$
+-
+$
+1,471,727
+$
+Cloud Center of Excellence
+Technology Modernization
+Core IT
+5874
+G020
+11/30/2020
+84
+3,612,928
+$
+-
+$
+-
+$
+-
+$
+3,612,928
+$
+SharePoint to SharePoint Online
+Technology Modernization
+Core IT
+5487B
+G020
+11/30/2020
+84
+805,947
+$
+-
+$
+-
+$
+-
+$
+805,947
+$
+SOE (Windows) Upgrade and Device Refresh
+Technology Modernization
+Core IT
+4987
+G020
+12/31/2020
+60
+17,540,379
+$
+-
+$
+-
+$
+-
+$
+17,540,379
+$
+Managed Networks
+Technology Modernization
+Core IT
+5838
+G020
+12/31/2020
+84
+22,796,586
+$
+-
+$
+-
+$
+-
+$
+22,796,586
+$
+Device Refresh & Break/Fix
+Technology Modernization
+Core IT
+5886B
+G020
+12/31/2020
+84
+4,502,000
+$
+-
+$
+-
+$
+-
+$
+4,502,000
+$
+Hosting Infrastructure Refresh to HCI
+Technology Modernization
+Core IT
+6049
+G020
+1/31/2021
+84
+1,765,208
+$
+-
+$
+-
+$
+-
+$
+1,765,208
+$
+Voice Infrastructure Program
+Technology Modernization
+Core IT
+5523
+G020
+3/31/2021
+84
+1,271,651
+$
+-
+$
+-
+$
+-
+$
+1,271,651
+$
+Copper to Fiber Migration
+Technology Modernization
+Core IT
+5721
+G020
+3/31/2021
+84
+316,065
+$
+-
+$
+-
+$
+-
+$
+316,065
+$
+UPS Infrastructure
+Technology Modernization
+Core IT
+5759
+G020
+3/31/2021
+60
+327,985
+$
+-
+$
+-
+$
+-
+$
+327,985
+$
+WIFI Phase 2
+Technology Modernization
+Core IT
+5774
+G020
+3/31/2021
+84
+276,134
+$
+-
+$
+-
+$
+-
+$
+276,134
+$
+Application Virtualization
+Technology Modernization
+Core IT
+5837
+G020
+3/31/2021
+84
+853,761
+$
+-
+$
+-
+$
+-
+$
+853,761
+$
+Substation Network Connectivity & Comms
+Technology Modernization
+Core IT
+5846
+G020
+3/31/2021
+84
+15,018,019
+$
+-
+$
+-
+$
+-
+$
+15,018,019
+$
+Network Security Infrastructure Program
+Technology Modernization
+Core IT
+5867
+G020
+3/31/2021
+84
+1,750,011
+$
+-
+$
+-
+$
+-
+$
+1,750,011
+$
+Storage Migration
+Technology Modernization
+Core IT
+5876
+G020
+3/31/2021
+84
+1,963,000
+$
+-
+$
+-
+$
+-
+$
+1,963,000
+$
+Legacy AD Remediation
+Technology Modernization
+Core IT
+5942
+G020
+3/31/2021
+84
+584,544
+$
+-
+$
+-
+$
+-
+$
+584,544
+$
+Migration of Current Storage to Strategic Deployment US
+Technology Modernization
+Core IT
+6052
+G020
+3/31/2021
+84
+2,000,000
+$
+-
+$
+-
+$
+-
+$
+2,000,000
+$
+Downstate NY PBX Replacement Upgrade
+Technology Modernization
+Core IT
+5523G
+G020
+3/31/2021
+60
+628,585
+$
+-
+$
+-
+$
+-
+$
+628,585
+$
+Dell Discovery
+Technology Modernization
+Core IT
+5878
+G020
+6/1/2021
+84
+756,639
+$
+-
+$
+-
+$
+-
+$
+756,639
+$
+SD WAN FY21 Expansion
+Technology Modernization
+Core IT
+6046
+G020
+6/30/2021
+84
+1,662,564
+$
+970,429
+$
+-
+$
+-
+$
+2,632,993
+$
+EoL Migration Efforts - US
+Technology Modernization
+Core IT
+6053
+G020
+9/30/2021
+84
+3,645,000
+$
+826,000
+$
+-
+$
+-
+$
+4,471,000
+$
+Directory Services - US
+Technology Modernization
+Core IT
+5750
+G020
+3/31/2022
+84
+1,817,816
+$
+6,000,000
+$
+-
+$
+-
+$
+7,817,816
+$
+LAN/Wi-Fi Infrastructure Program
+Technology Modernization
+Core IT
+5855
+G020
+3/31/2022
+84
+-
+$
+5,661,000
+$
+-
+$
+-
+$
+5,661,000
+$
+Voice Infrastructure Program
+Technology Modernization
+Core IT
+5856
+G020
+3/31/2022
+84
+-
+$
+4,386,000
+$
+-
+$
+-
+$
+4,386,000
+$
+Network Security Infrastructure Program
+Technology Modernization
+Core IT
+5867
+G020
+3/31/2022
+84
+-
+$
+3,621,000
+$
+-
+$
+-
+$
+3,621,000
+$
+WAN Infrastructure Program
+Technology Modernization
+Core IT
+5868
+G020
+3/31/2022
+84
+-
+$
+4,641,000
+$
+-
+$
+-
+$
+4,641,000
+$
+Exhibit__(ITP-4CU)
+Page 4 of 6
+
+
+--- Page 22 ---
+NMPC
+ITP-4CU In-Flight and Forecasted Information Technology (IT) Capital Projects
+Investment Name
+Program
+Rate Case Category
+INVP #
+Bill Pool
+Updated In-Service
+Date
+Amortization
+Period
+FY21 Inception to
+Date
+FY22 CAPEX
+FY23 CAPEX
+FY24 CAPEX
+Total US Capex Spend
+Infrastructure Remediation & Lifecycle Refresh
+Technology Modernization
+Core IT
+5873
+G020
+3/31/2022
+84
+-
+$
+7,313,400
+$
+-
+$
+-
+$
+7,313,400
+$
+CNI Network Infrastructure
+Technology Modernization
+Core IT
+N/A
+G020
+3/31/2022
+84
+-
+$
+1,150,000
+$
+-
+$
+-
+$
+1,150,000
+$
+Storage Migration
+Technology Modernization
+Core IT
+5876
+G020
+4/30/2022
+84
+-
+$
+3,121,200
+$
+-
+$
+-
+$
+3,121,200
+$
+Operations Program
+Technology Modernization
+Core IT
+TBD
+G020
+12/31/2022
+84
+-
+$
+8,000,000
+$
+8,000,000
+$
+8,000,000
+$
+24,000,000
+$
+DXC Hosting Tx Initiatives
+Technology Modernization
+Core IT
+5875
+G020
+3/31/2023
+84
+-
+$
+9,488,000
+$
+8,310,202
+$
+-
+$
+17,798,202
+$
+Storage Migration
+Technology Modernization
+Core IT
+5876
+G020
+4/30/2023
+84
+-
+$
+-
+$
+3,693,004
+$
+-
+$
+3,693,004
+$
+LAN/Wi-Fi Infrastructure Program
+Technology Modernization
+Core IT
+5855
+G020
+3/31/2024
+84
+-
+$
+-
+$
+6,698,095
+$
+5,196,798
+$
+11,894,893
+$
+Voice Infrastructure Program
+Technology Modernization
+Core IT
+5856
+G020
+3/31/2024
+84
+-
+$
+-
+$
+5,189,515
+$
+4,026,348
+$
+9,215,863
+$
+Network Security Infrastructure Program
+Technology Modernization
+Core IT
+5867
+G020
+3/31/2024
+84
+-
+$
+-
+$
+4,284,367
+$
+3,324,078
+$
+7,608,445
+$
+WAN Infrastructure Program
+Technology Modernization
+Core IT
+5868
+G020
+3/31/2024
+84
+-
+$
+-
+$
+5,491,231
+$
+4,260,438
+$
+9,751,669
+$
+Infrastructure Remediation & Lifecycle Refresh
+Technology Modernization
+Core IT
+5873
+G020
+3/31/2024
+84
+-
+$
+-
+$
+8,653,215
+$
+6,713,701
+$
+15,366,916
+$
+DXC Hosting Tx Initiatives
+Technology Modernization
+Core IT
+5875
+G020
+3/31/2024
+84
+-
+$
+-
+$
+-
+$
+4,119,984
+$
+4,119,984
+$
+CNI Network Infrastructure
+Technology Modernization
+Core IT
+N/A
+G020
+3/31/2024
+84
+-
+$
+-
+$
+1,125,000
+$
+1,650,000
+$
+2,775,000
+$
+LAN/Wi-Fi Infrastructure Program
+Technology Modernization
+Core IT
+5855
+G020
+4/30/2025
+84
+-
+$
+-
+$
+-
+$
+5,674,342
+$
+5,674,342
+$
+Voice Infrastructure Program
+Technology Modernization
+Core IT
+5856
+G020
+4/30/2025
+84
+-
+$
+-
+$
+-
+$
+4,531,982
+$
+4,531,982
+$
+Network Security Infrastructure Program
+Technology Modernization
+Core IT
+5867
+G020
+4/30/2025
+84
+-
+$
+-
+$
+-
+$
+2,865,262
+$
+2,865,262
+$
+Storage Migration
+Technology Modernization
+Core IT
+5876
+G020
+4/30/2025
+84
+-
+$
+-
+$
+-
+$
+2,865,262
+$
+2,865,262
+$
+Migration from AWS to Azure - Advanced Data Analytics
+Transformation Office
+Core IT
+5921
+G020
+3/31/2024
+84
+-
+$
+500,000
+$
+800,000
+$
+1,300,000
+$
+2,600,000
+$
+OSIsoft software licensing fulfillment
+Wholesale Networks
+Core IT
+4673A
+G327
+3/30/2021
+84
+2,000,000
+$
+-
+$
+-
+$
+-
+$
+2,000,000
+$
+WNCD Application Reinforcement Program
+Wholesale Networks
+Core IT
+5822
+G210
+6/30/2021
+84
+263,000
+$
+4,540,000
+$
+-
+$
+-
+$
+4,803,000
+$
+Engineering Modernization Initiative
+Wholesale Networks
+Core IT
+5877
+T224
+12/30/2021
+84
+1,428,000
+$
+721,000
+$
+-
+$
+-
+$
+2,149,000
+$
+WNCD Regulatory Initiatives Program
+Wholesale Networks
+Core IT
+5773
+T186
+9/1/2022
+84
+510,000
+$
+893,000
+$
+446,000
+$
+-
+$
+1,849,000
+$
+WNCD Application Reinforcement Program
+Wholesale Networks
+Core IT
+5822
+G210
+3/31/2023
+84
+-
+$
+2,023,000
+$
+1,214,000
+$
+-
+$
+3,237,000
+$
+Engineering Modernization Initiative
+Wholesale Networks
+Core IT
+5877
+T224
+3/31/2023
+84
+-
+$
+-
+$
+1,579,000
+$
+-
+$
+1,579,000
+$
+Digital Substation Transformation System - IEC 61850
+Wholesale Networks
+Core IT
+5756
+T224
+4/1/2023
+84
+-
+$
+1,000,000
+$
+2,000,000
+$
+-
+$
+3,000,000
+$
+WNCD Application Reinforcement Program
+Wholesale Networks
+Core IT
+5822
+G210
+3/31/2024
+84
+-
+$
+-
+$
+-
+$
+1,540,000
+$
+1,540,000
+$
+WN Asset & Data Development & Management Program
+Wholesale Networks
+Core IT
+5823
+G186
+3/31/2024
+84
+-
+$
+-
+$
+1,233,000
+$
+1,530,000
+$
+2,763,000
+$
+WNCD Regulatory Initiatives Program
+Wholesale Networks
+Core IT
+5773
+T186
+11/1/2024
+84
+-
+$
+-
+$
+1,133,000
+$
+1,366,000
+$
+2,499,000
+$
+Digital Substation Transformation System - IEC 61850
+Wholesale Networks
+Core IT
+5756
+T224
+4/1/2025
+84
+-
+$
+-
+$
+-
+$
+2,600,000
+$
+2,600,000
+$
+WNCD Application Reinforcement Program
+Wholesale Networks
+Core IT
+5822
+G210
+4/1/2025
+84
+-
+$
+-
+$
+5,258,000
+$
+3,719,000
+$
+8,977,000
+$
+Engineering Modernization Initiative
+Wholesale Networks
+Core IT
+5877
+T224
+4/1/2025
+84
+-
+$
+-
+$
+-
+$
+3,279,000
+$
+3,279,000
+$
+Asset Management / GIS
+GBE
+Gas Business Enablement
+C210
+11/1/2020
+120
+97,510,168
+$
+-
+$
+-
+$
+-
+$
+97,510,168
+$
+Work Management (Maximo)
+GBE
+Gas Business Enablement
+C210
+11/1/2020
+120
+139,430,234
+$
+-
+$
+-
+$
+-
+$
+139,430,234
+$
+Customer Engagement
+GBE
+Gas Business Enablement
+C175
+11/1/2020
+120
+43,316,828
+$
+-
+$
+-
+$
+-
+$
+43,316,828
+$
+Work Management (SDM)
+GBE
+Gas Business Enablement
+C175
+11/1/2020
+120
+44,198,191
+$
+-
+$
+-
+$
+-
+$
+44,198,191
+$
+Hardware
+GBE
+Gas Business Enablement
+C113
+11/1/2020
+120
+123,116
+$
+-
+$
+-
+$
+-
+$
+123,116
+$
+Hardware
+GBE
+Gas Business Enablement
+C225
+11/1/2020
+120
+26,163
+$
+-
+$
+-
+$
+-
+$
+26,163
+$
+Hardware
+GBE
+Gas Business Enablement
+C277
+11/1/2020
+120
+14,045
+$
+-
+$
+-
+$
+-
+$
+14,045
+$
+Hardware
+GBE
+Gas Business Enablement
+C316
+11/1/2020
+120
+3,328,741
+$
+-
+$
+-
+$
+-
+$
+3,328,741
+$
+Asset Management
+GBE
+Gas Business Enablement
+C210
+12/20/2020
+120
+54,532,789
+$
+-
+$
+-
+$
+-
+$
+54,532,789
+$
+Supply Chain
+GBE
+Gas Business Enablement
+C210
+11/1/2021
+120
+8,286,135
+$
+-
+$
+-
+$
+-
+$
+8,286,135
+$
+Grid Modernization TOMS Phase 2 & 3
+Electric Operations
+Grid Modernization
+5471K
+T198
+4/1/2021
+84
+4,896,000
+$
+3,073,000
+$
+-
+$
+-
+$
+7,969,000
+$
+Grid Modernization Data Management
+Electric Operations
+Grid Modernization
+5471D
+T198
+6/30/2021
+84
+2,232,000
+$
+618,000
+$
+-
+$
+-
+$
+2,850,000
+$
+Grid Modernization Enterprise service bus
+Electric Operations
+Grid Modernization
+5471E
+T198
+12/31/2021
+84
+2,373,000
+$
+1,818,000
+$
+-
+$
+-
+$
+4,191,000
+$
+Grid Modernization Integration Services Phase 2
+Electric Operations
+Grid Modernization
+5471P
+T198
+12/31/2022
+84
+-
+$
+1,894,000
+$
+-
+$
+-
+$
+1,894,000
+$
+Distribution PI and PI Visions Extension
+Electric Operations
+Grid Modernization
+5471V
+T198
+12/31/2022
+84
+-
+$
+763,000
+$
+763,000
+$
+-
+$
+1,526,000
+$
+US Grid Mod Cyber Security Program
+Electric Operations
+Grid Modernization
+5915
+G186
+3/31/2023
+84
+2,768,000
+$
+7,924,000
+$
+1,563,000
+$
+-
+$
+12,255,000
+$
+DER Outage Portal
+Electric Operations
+Grid Modernization
+5471T
+T198
+6/1/2023
+84
+-
+$
+-
+$
+700,000
+$
+224,000
+$
+924,000
+$
+Grid Modernization DMX
+Electric Operations
+Grid Modernization
+5471H
+T220
+4/30/2024
+84
+45,000
+$
+2,668,000
+$
+1,520,000
+$
+1,791,000
+$
+6,024,000
+$
+Grid Modernization INOC
+Electric Operations
+Grid Modernization
+5471M
+T186
+6/30/2024
+84
+-
+$
+6,807,000
+$
+12,098,000
+$
+7,323,000
+$
+26,228,000
+$
+Grid Modernization GIS Phase II
+Electric Operations
+Grid Modernization
+5471L
+T198
+3/30/2025
+84
+240,000
+$
+3,934,000
+$
+7,714,000
+$
+6,840,000
+$
+18,728,000
+$
+Grid Modernization Data Management Phase 2
+Electric Operations
+Grid Modernization
+5471O
+T198
+3/31/2025
+84
+-
+$
+4,028,000
+$
+3,467,000
+$
+3,469,000
+$
+10,964,000
+$
+DERMS Investigation - All regions
+Electric Operations
+Grid Modernization
+5471X
+T198
+3/31/2025
+84
+-
+$
+-
+$
+402,458
+$
+403,785
+$
+806,243
+$
+S4HANA Project (Capital Costs Phase 1 Deployment)
+S4HANA
+S4HANA
+5503B
+G020
+4/1/2025
+120
+-
+$
+-
+$
+-
+$
+30,288,000
+$
+30,288,000
+$
+S4HANA Project (Capital Costs Phase 2 Deployment)
+S4HANA
+S4HANA
+5503B
+G020
+1/1/2026
+120
+-
+$
+-
+$
+-
+$
+8,437,500
+$
+8,437,500
+$
+Transmission Asset Management Program R1
+VOLT
+VOLT
+5358
+5360T
+9/30/2023
+120
+-
+$
+1,878,000
+$
+4,374,000
+$
+672,000
+$
+6,924,000
+$
+Transmission Asset Management Program R1
+VOLT
+VOLT
+5358
+5410T
+9/30/2023
+120
+-
+$
+11,894,000
+$
+27,702,000
+$
+4,256,000
+$
+43,852,000
+$
+Transmission Asset Management Program R1
+VOLT
+VOLT
+5358
+5413F
+9/30/2023
+120
+-
+$
+313,000
+$
+729,000
+$
+112,000
+$
+1,154,000
+$
+Transmission Asset Management Program R1
+VOLT
+VOLT
+5358
+5210T
+9/30/2023
+120
+-
+$
+12,520,000
+$
+29,160,000
+$
+4,480,000
+$
+46,160,000
+$
+Transmission Asset Management Program R1
+VOLT
+VOLT
+5358
+5310E
+9/30/2023
+120
+-
+$
+1,252,000
+$
+2,916,000
+$
+448,000
+$
+4,616,000
+$
+Transmission Asset Management Program R1
+VOLT
+VOLT
+5358
+5360E
+9/30/2023
+120
+-
+$
+626,000
+$
+1,458,000
+$
+224,000
+$
+2,308,000
+$
+Transmission Asset Management Program R1
+VOLT
+VOLT
+5358
+5210E
+9/30/2023
+120
+-
+$
+2,817,000
+$
+6,561,000
+$
+1,008,000
+$
+10,386,000
+$
+Transmission Asset Management Program R2
+VOLT
+VOLT
+5358
+5360T
+12/31/2024
+120
+-
+$
+-
+$
+-
+$
+3,516,000
+$
+3,516,000
+$
+Transmission Asset Management Program R2
+VOLT
+VOLT
+5358
+5410T
+12/31/2024
+120
+-
+$
+-
+$
+-
+$
+22,268,000
+$
+22,268,000
+$
+Transmission Asset Management Program R2
+VOLT
+VOLT
+5358
+5413F
+12/31/2024
+120
+-
+$
+-
+$
+-
+$
+586,000
+$
+586,000
+$
+Transmission Asset Management Program R2
+VOLT
+VOLT
+5358
+5210T
+12/31/2024
+120
+-
+$
+-
+$
+-
+$
+23,440,000
+$
+23,440,000
+$
+Exhibit__(ITP-4CU)
+Page 5 of 6
+
+
+--- Page 23 ---
+NMPC
+ITP-4CU In-Flight and Forecasted Information Technology (IT) Capital Projects
+Investment Name
+Program
+Rate Case Category
+INVP #
+Bill Pool
+Updated In-Service
+Date
+Amortization
+Period
+FY21 Inception to
+Date
+FY22 CAPEX
+FY23 CAPEX
+FY24 CAPEX
+Total US Capex Spend
+Transmission Asset Management Program R2
+VOLT
+VOLT
+5358
+5310E
+12/31/2024
+120
+-
+$
+-
+$
+-
+$
+2,344,000
+$
+2,344,000
+$
+Transmission Asset Management Program R2
+VOLT
+VOLT
+5358
+5360E
+12/31/2024
+120
+-
+$
+-
+$
+-
+$
+1,172,000
+$
+1,172,000
+$
+Transmission Asset Management Program R2
+VOLT
+VOLT
+5358
+5210E
+12/31/2024
+120
+-
+$
+-
+$
+-
+$
+5,274,000
+$
+5,274,000
+$
+Total
+801,941,196
+$
+348,834,518
+$
+460,453,612
+$
+480,272,317
+$
+2,091,501,643
+$
+Exhibit__(ITP-4CU)
+Page 6 of 6
+
+
+--- Page 24 ---
+Corrections and Updates Testimony of the Information Technology Panel 
+ 
+ 
+ 
+ 
+ 
+ 
+ 
+ 
+ 
+ 
+ 
+ 
+ 
+ 
+ 
+ 
+Exhibit __ (ITP-5CU) 
+ 
+IT Projected OPEX Costs 
+ 
+
+
+--- Page 25 ---
+Investment Name
+Rate Case Category
+INVP #
+FY22 OPEX
+FY22 RTB
+FY23 OPEX
+FY23 RTB
+FY24 OPEX
+FY24 RTB
+FY25 OPEX
+FY25 RTB
+IT4IT: Data Management
+Core IT
+5917
+600,000
+$
+700,000
+$
+992,000
+$
+1,750,000
+$
+893,000
+$
+2,310,000
+$
+647,000
+$
+2,310,000
+$
+IT4IT: Tooling (EA portion of D/PPM)
+Core IT
+5901B
+100,000
+$
+100,000
+$
+-
+$
+1,000,000
+$
+-
+$
+1,000,000
+$
+-
+$
+1,000,000
+$
+IT4IT: Data Management / Business Integrations
+Core IT
+5917B
+1,400,000
+$
+500,000
+$
+1,400,000
+$
+1,500,000
+$
+900,000
+$
+2,500,000
+$
+400,000
+$
+3,500,000
+$
+Primavera Upgrade/Stabilization
+Core IT
+4990
+-
+$
+266,200
+$
+-
+$
+266,200
+$
+-
+$
+266,200
+$
+-
+$
+266,200
+$
+Capital Delivery Enablement Program
+Core IT
+5830
+830,000
+$
+480,000
+$
+1,561,000
+$
+1,002,000
+$
+1,149,000
+$
+1,985,000
+$
+1,173,000
+$
+1,985,000
+$
+New Storms Response Management System Implementation
+Core IT
+5274A
+165,000
+$
+216,000
+$
+-
+$
+54,000
+$
+-
+$
+54,000
+$
+-
+$
+54,000
+$
+Document Management System for Substation Engineering
+Core IT
+N/A
+439,000
+$
+-
+$
+439,000
+$
+-
+$
+22,000
+$
+-
+$
+-
+$
+-
+$
+Customer Contact Center / SDC Technology
+Core IT
+3932
+-
+$
+3,973,320
+$
+-
+$
+3,973,320
+$
+-
+$
+3,973,320
+$
+-
+$
+3,973,320
+$
+Customer Connection Program
+Core IT
+5125
+410,000
+$
+-
+$
+430,000
+$
+125,000
+$
+450,000
+$
+250,000
+$
+450,000
+$
+250,000
+$
+NY Green Button Connect
+Core IT
+5430
+90,000
+$
+510,000
+$
+-
+$
+520,000
+$
+-
+$
+520,000
+$
+-
+$
+520,000
+$
+Customer and Agent Experience
+Core IT
+5859
+1,600,000
+$
+1,710,000
+$
+1,688,000
+$
+3,420,000
+$
+2,170,000
+$
+3,420,000
+$
+2,250,000
+$
+5,130,000
+$
+Regulatory and Community Mandates
+Core IT
+5864
+350,000
+$
+125,000
+$
+700,000
+$
+250,000
+$
+372,000
+$
+375,000
+$
+360,000
+$
+500,000
+$
+Automated Customer Services
+Core IT
+4750N
+-
+$
+320,625
+$
+-
+$
+320,625
+$
+-
+$
+320,625
+$
+-
+$
+320,625
+$
+Digital
+Core IT
+1,500,000
+$
+-
+$
+1,500,000
+$
+-
+$
+1,500,000
+$
+-
+$
+1,500,000
+$
+-
+$
+Storms-IScheduler Upgrade Stabilization.
+Core IT
+4398
+-
+$
+497,244
+$
+-
+$
+498,120
+$
+-
+$
+498,120
+$
+-
+$
+498,120
+$
+US MDS-Energy Accounting System (EAS) migration to Wholesale
+Settlement Application (WSA)
+Core IT
+4481
+487,518
+$
+405,000
+$
+-
+$
+399,996
+$
+-
+$
+399,996
+$
+-
+$
+399,996
+$
+US Control-Transmission Outage Application (iTOA) Upgrade to
+HTML 5 Web
+Core IT
+4483
+94,189
+$
+1,800
+$
+-
+$
+1,800
+$
+-
+$
+1,800
+$
+-
+$
+1,800
+$
+EMS Lifecycle Hardware and Software Upgrade
+Core IT
+4914
+-
+$
+1,300,600
+$
+-
+$
+1,375,200
+$
+-
+$
+1,375,200
+$
+-
+$
+1,375,200
+$
+AVLS Modem Reconfiguration
+Core IT
+5486
+17,096
+$
+-
+$
+-
+$
+-
+$
+-
+$
+-
+$
+-
+$
+-
+$
+NY Energy Storage Systems (ESS)
+Core IT
+5871
+375,000
+$
+60,000
+$
+425,000
+$
+140,000
+$
+175,000
+$
+400,000
+$
+75,000
+$
+400,000
+$
+Operational Excellence - Field Operations
+Core IT
+5887
+150,000
+$
+-
+$
+-
+$
+100,000
+$
+-
+$
+100,000
+$
+-
+$
+100,000
+$
+Operational Excellence, Field Operations
+Core IT
+5887
+-
+$
+-
+$
+50,000
+$
+-
+$
+100,000
+$
+-
+$
+50,000
+$
+-
+$
+Operational Excellence, Operational Support
+Core IT
+5888
+190,000
+$
+-
+$
+75,000
+$
+100,000
+$
+125,000
+$
+175,000
+$
+125,000
+$
+175,000
+$
+Emergency Planning & Electric Services
+Core IT
+5889
+-
+$
+-
+$
+225,000
+$
+-
+$
+75,000
+$
+90,000
+$
+75,000
+$
+90,000
+$
+Operational Excellence - Emergency Planning
+Core IT
+5889
+50,000
+$
+95,000
+$
+-
+$
+95,000
+$
+-
+$
+95,000
+$
+-
+$
+95,000
+$
+Asset Maturity - Asset Management
+Core IT
+5890
+525,000
+$
+-
+$
+425,000
+$
+200,000
+$
+750,000
+$
+460,000
+$
+550,000
+$
+1,040,000
+$
+Operational Excellence - Meter Data Services
+Core IT
+5891
+1,025,000
+$
+40,000
+$
+850,000
+$
+370,000
+$
+350,000
+$
+795,000
+$
+350,000
+$
+795,000
+$
+Operations Excellence - Control Center Operation
+Core IT
+5892
+350,000
+$
+-
+$
+325,000
+$
+85,000
+$
+75,000
+$
+350,000
+$
+75,000
+$
+350,000
+$
+Digitizing the Electric Business - Mobility
+Core IT
+5893
+550,000
+$
+-
+$
+300,000
+$
+250,000
+$
+600,000
+$
+550,000
+$
+600,000
+$
+550,000
+$
+Clifton Park Innovative Pricing Rate Design
+Core IT
+5976
+29,845
+$
+-
+$
+-
+$
+-
+$
+-
+$
+-
+$
+-
+$
+-
+$
+NY Street Light Portal
+Core IT
+4704R
+100,000
+$
+200,000
+$
+-
+$
+200,000
+$
+-
+$
+200,000
+$
+-
+$
+200,000
+$
+Control Room Event Recording
+Core IT
+5889A
+-
+$
+90,945
+$
+-
+$
+91,543
+$
+-
+$
+91,543
+$
+-
+$
+91,543
+$
+Clean Innovation
+Core IT
+N/A
+430,000
+$
+-
+$
+730,000
+$
+-
+$
+1,030,000
+$
+-
+$
+30,000
+$
+-
+$
+EV Charging Station
+Core IT
+5969
+344,100
+$
+206,460
+$
+394,100
+$
+206,460
+$
+-
+$
+-
+$
+-
+$
+-
+$
+EV Commercial - Data Management
+Core IT
+5970
+300,000
+$
+112,500
+$
+-
+$
+-
+$
+-
+$
+-
+$
+-
+$
+-
+$
+EV NY Rate Order
+Core IT
+N/A
+987,500
+$
+-
+$
+1,150,000
+$
+-
+$
+-
+$
+587,500
+$
+-
+$
+400,000
+$
+F&A and Implementation - Vision FM Repla
+Core IT
+3870
+204,000
+$
+80,000
+$
+-
+$
+80,000
+$
+-
+$
+80,000
+$
+-
+$
+80,000
+$
+DocuSign
+Core IT
+4802
+-
+$
+10,000
+$
+-
+$
+10,000
+$
+-
+$
+10,000
+$
+-
+$
+10,000
+$
+RightFax Upgrade/Remediation
+Core IT
+5069
+42,500
+$
+-
+$
+-
+$
+-
+$
+-
+$
+-
+$
+-
+$
+-
+$
+Future of Finance Program of Work
+Core IT
+5380
+544,000
+$
+-
+$
+595,000
+$
+-
+$
+595,000
+$
+-
+$
+510,000
+$
+-
+$
+Lease Accounting Updates and CCM - Phase
+Core IT
+5497
+127,500
+$
+-
+$
+-
+$
+-
+$
+-
+$
+-
+$
+-
+$
+-
+$
+Annual HR & Payroll Mandatory Service Pack Upgrade (HRSP)
+FY22
+Core IT
+5610
+235,620
+$
+-
+$
+-
+$
+-
+$
+-
+$
+-
+$
+-
+$
+-
+$
+Annual HR & Payroll Mandatory Service Pack Upgrade (HRSP)
+FY23
+Core IT
+5611
+-
+$
+-
+$
+235,620
+$
+-
+$
+-
+$
+-
+$
+-
+$
+-
+$
+Annual HR & Payroll Mandatory Service Pack Upgrade (HRSP)
+FY24
+Core IT
+5612
+-
+$
+-
+$
+-
+$
+-
+$
+235,620
+$
+-
+$
+-
+$
+-
+$
+Revenue Cycle Management - non CIS
+Core IT
+5627
+340,000
+$
+-
+$
+-
+$
+-
+$
+-
+$
+-
+$
+-
+$
+-
+$
+Revenue Cycle Management non CIS
+Core IT
+5629
+-
+$
+-
+$
+272,000
+$
+-
+$
+340,000
+$
+-
+$
+-
+$
+-
+$
+FY22 Mandated Projects
+Core IT
+5836
+884,000
+$
+-
+$
+-
+$
+-
+$
+-
+$
+-
+$
+-
+$
+-
+$
+RCM Excellence
+Core IT
+5836
+340,000
+$
+-
+$
+-
+$
+-
+$
+-
+$
+-
+$
+-
+$
+-
+$
+Centralized Services Program
+Core IT
+5841
+-
+$
+-
+$
+850,000
+$
+-
+$
+680,000
+$
+-
+$
+850,000
+$
+-
+$
+US Finance Program
+Core IT
+5842
+850,000
+$
+-
+$
+850,000
+$
+-
+$
+850,000
+$
+-
+$
+850,000
+$
+-
+$
+SAP and BackOffice Health Program
+Core IT
+5843
+-
+$
+-
+$
+425,000
+$
+-
+$
+816,000
+$
+-
+$
+850,000
+$
+-
+$
+NACHA Change
+Core IT
+5852
+42,500
+$
+-
+$
+-
+$
+-
+$
+-
+$
+-
+$
+-
+$
+-
+$
+Finance and Business Services Health Check (Non-SAP) Program
+Core IT
+5902
+59,500
+$
+-
+$
+59,500
+$
+-
+$
+59,500
+$
+-
+$
+59,500
+$
+-
+$
+Annual HR & Payroll Mandatory Service Pack Upgrade (HRSP)
+FY25
+Core IT
+5924
+-
+$
+-
+$
+-
+$
+-
+$
+-
+$
+-
+$
+235,620
+$
+-
+$
+Revenue Cycle Management non CIS
+Core IT
+5925
+-
+$
+-
+$
+-
+$
+-
+$
+-
+$
+-
+$
+340,000
+$
+-
+$
+FY23 Mandated Projects
+Core IT
+5927
+-
+$
+-
+$
+884,000
+$
+-
+$
+-
+$
+-
+$
+-
+$
+-
+$
+FY24 Mandated Projects
+Core IT
+5928
+-
+$
+-
+$
+-
+$
+-
+$
+884,000
+$
+-
+$
+-
+$
+-
+$
+FY25 Mandated Projects
+Core IT
+5929
+-
+$
+-
+$
+-
+$
+-
+$
+-
+$
+-
+$
+884,000
+$
+-
+$
+Property Services IT Systems Modernization
+Core IT
+5930
+85,000
+$
+-
+$
+85,000
+$
+-
+$
+170,000
+$
+-
+$
+85,000
+$
+-
+$
+Bill Print and Bill Composition Implement
+Core IT
+5345B
+-
+$
+37,936
+$
+-
+$
+37,936
+$
+-
+$
+37,936
+$
+-
+$
+37,936
+$
+Blackline: US Implementation
+Core IT
+5380A
+170,000
+$
+-
+$
+-
+$
+-
+$
+-
+$
+-
+$
+-
+$
+-
+$
+DMS Replacement - Delivery
+Core IT
+4408
+-
+$
+1,746,160
+$
+-
+$
+1,746,160
+$
+-
+$
+1,746,160
+$
+-
+$
+1,746,160
+$
+Gas Field Excellence
+Core IT
+5785
+113,000
+$
+-
+$
+250,000
+$
+4,420,130
+$
+250,000
+$
+4,420,130
+$
+250,000
+$
+4,420,130
+$
+Gas Cash Flow Optimization
+Core IT
+5786
+150,000
+$
+-
+$
+250,000
+$
+88,400
+$
+250,000
+$
+88,400
+$
+250,000
+$
+88,400
+$
+Gas Process & Performance Optimization
+Core IT
+5787
+300,000
+$
+-
+$
+500,000
+$
+4,524,250
+$
+500,000
+$
+4,524,250
+$
+500,000
+$
+4,524,250
+$
+Gas Safety and Compliance
+Core IT
+5788
+350,000
+$
+-
+$
+400,000
+$
+486,860
+$
+400,000
+$
+486,860
+$
+400,000
+$
+486,860
+$
+Gas Work Plan Optimization
+Core IT
+5789
+50,000
+$
+-
+$
+88,000
+$
+-
+$
+105,000
+$
+-
+$
+158,000
+$
+-
+$
+Allegro Upgrade to Horizon
+Core IT
+4998
+-
+$
+46,408
+$
+-
+$
+46,408
+$
+-
+$
+46,408
+$
+-
+$
+46,408
+$
+Employee Digital Workplace
+Core IT
+5317
+-
+$
+255,588
+$
+-
+$
+255,588
+$
+-
+$
+255,588
+$
+-
+$
+255,588
+$
+AMAG HW and SW Upgrade
+Core IT
+5466
+188,692
+$
+-
+$
+-
+$
+-
+$
+-
+$
+-
+$
+-
+$
+-
+$
+GRC Archer - Risk and Migration
+Core IT
+5472
+-
+$
+(63,770)
+$
+-
+$
+(63,770)
+$
+-
+$
+(63,770)
+$
+-
+$
+(63,770)
+$
+US Legal: Document Management
+Core IT
+5507
+-
+$
+40,000
+$
+-
+$
+40,000
+$
+-
+$
+40,000
+$
+-
+$
+40,000
+$
+US IMS Upgrade
+Core IT
+5777
+-
+$
+39,000
+$
+-
+$
+39,000
+$
+-
+$
+39,000
+$
+-
+$
+39,000
+$
+US Group Functions: Operational Excellence
+Core IT
+5895
+200,000
+$
+240,000
+$
+420,000
+$
+540,000
+$
+370,000
+$
+480,000
+$
+400,000
+$
+500,000
+$
+US Group Functions: Fix the Foundation
+Core IT
+5896
+320,000
+$
+210,000
+$
+380,000
+$
+460,000
+$
+500,000
+$
+810,000
+$
+510,000
+$
+1,160,000
+$
+Group Function Fix the Foundation
+Core IT
+5908
+325,000
+$
+-
+$
+-
+$
+-
+$
+-
+$
+-
+$
+-
+$
+-
+$
+Group Function Operational Excellence
+Core IT
+5909
+1,500,000
+$
+-
+$
+530,000
+$
+-
+$
+680,000
+$
+-
+$
+360,000
+$
+-
+$
+Group Function Regulatory/Mandated Requests
+Core IT
+5910
+850,000
+$
+-
+$
+1,300,000
+$
+-
+$
+1,110,000
+$
+-
+$
+910,000
+$
+-
+$
+IT4IT: Service Now
+Core IT
+5900
+88,000
+$
+-
+$
+109,000
+$
+30,000
+$
+191,000
+$
+100,000
+$
+215,000
+$
+105,000
+$
+Data Protection
+Core IT
+5820
+105,000
+$
+-
+$
+120,760
+$
+-
+$
+127,680
+$
+-
+$
+127,680
+$
+-
+$
+Vulnerability Management
+Core IT
+5848
+236,250
+$
+-
+$
+271,710
+$
+-
+$
+287,280
+$
+-
+$
+287,280
+$
+-
+$
+Platform Security
+Core IT
+5849
+551,250
+$
+-
+$
+633,990
+$
+-
+$
+670,320
+$
+-
+$
+670,320
+$
+-
+$
+Network Security
+Core IT
+5850
+288,750
+$
+-
+$
+332,090
+$
+-
+$
+351,120
+$
+-
+$
+351,120
+$
+-
+$
+Security Orchestration, Automation and Response
+Core IT
+5851
+1,207,500
+$
+-
+$
+1,388,740
+$
+-
+$
+1,468,320
+$
+-
+$
+1,468,320
+$
+-
+$
+Identity and Access Management
+Core IT
+5870
+262,500
+$
+-
+$
+301,900
+$
+-
+$
+319,200
+$
+-
+$
+319,200
+$
+-
+$
+US Strategic Risk Remediation
+Core IT
+5933
+5,560,000
+$
+-
+$
+6,063,000
+$
+-
+$
+4,634,000
+$
+-
+$
+8,866,000
+$
+-
+$
+IT4IT: Middleware
+Core IT
+5899
+350,000
+$
+400,000
+$
+525,000
+$
+825,000
+$
+750,000
+$
+1,250,000
+$
+950,000
+$
+1,675,000
+$
+IT4IT: IT Tooling
+Core IT
+5901
+350,000
+$
+75,000
+$
+525,000
+$
+175,000
+$
+750,000
+$
+275,000
+$
+950,000
+$
+275,000
+$
+IT4IT: GSD Lab
+Core IT
+5935
+-
+$
+10,000
+$
+-
+$
+10,000
+$
+-
+$
+10,000
+$
+-
+$
+10,000
+$
+Voice Infrastructure Program
+Core IT
+5523
+-
+$
+160,000
+$
+-
+$
+160,000
+$
+-
+$
+160,000
+$
+-
+$
+160,000
+$
+Storage Capacity Purchase and Configure
+Core IT
+5636
+-
+$
+399,695
+$
+-
+$
+399,695
+$
+-
+$
+399,695
+$
+-
+$
+399,695
+$
+Network Equipment End of Life Replacement
+Core IT
+5754
+-
+$
+28,398
+$
+-
+$
+28,398
+$
+-
+$
+28,398
+$
+-
+$
+28,398
+$
+Application Virtualization
+Core IT
+5837
+-
+$
+275,000
+$
+-
+$
+275,000
+$
+-
+$
+275,000
+$
+-
+$
+275,000
+$
+LAN/Wi-Fi Infrastructure Program
+Core IT
+5855
+556,512
+$
+175,000
+$
+631,731
+$
+175,000
+$
+601,518
+$
+350,000
+$
+571,030
+$
+2,100,000
+$
+Voice Infrastructure Program
+Core IT
+5856
+430,032
+$
+-
+$
+488,156
+$
+-
+$
+464,809
+$
+-
+$
+441,250
+$
+-
+$
+Network Security Infrastructure Program
+Core IT
+5867
+556,512
+$
+50,000
+$
+631,731
+$
+50,000
+$
+601,518
+$
+100,000
+$
+571,030
+$
+150,000
+$
+WAN Infrastructure Program
+Core IT
+5868
+556,512
+$
+980,000
+$
+631,731
+$
+980,000
+$
+601,518
+$
+1,960,000
+$
+571,030
+$
+1,960,000
+$
+Infrastructure Remediation & Lifecycle Refresh
+Core IT
+5873
+1,998,384
+$
+-
+$
+2,268,215
+$
+-
+$
+2,159,996
+$
+-
+$
+2,050,516
+$
+-
+$
+Infrastructure New Capability
+Core IT
+5874
+1,062,432
+$
+-
+$
+1,206,032
+$
+-
+$
+1,148,352
+$
+-
+$
+1,090,148
+$
+-
+$
+DXC Hosting Tx Initiatives
+Core IT
+5875
+1,094,052
+$
+-
+$
+1,241,925
+$
+880,000
+$
+1,182,529
+$
+1,760,000
+$
+1,122,593
+$
+2,640,000
+$
+Storage Migration
+Core IT
+5876
+1,094,052
+$
+-
+$
+1,241,925
+$
+-
+$
+1,182,529
+$
+-
+$
+1,122,593
+$
+-
+$
+Collaboration & Unified Communications
+Core IT
+5885
+689,316
+$
+-
+$
+782,485
+$
+-
+$
+854,429
+$
+-
+$
+707,298
+$
+-
+$
+Modern Workplace
+Core IT
+5886
+790,500
+$
+20,000
+$
+897,345
+$
+40,000
+$
+745,061
+$
+60,000
+$
+811,122
+$
+80,000
+$
+Azure Cloud Foundation
+Core IT
+6013
+-
+$
+100,000
+$
+-
+$
+100,000
+$
+-
+$
+100,000
+$
+-
+$
+100,000
+$
+Security Operations Services (SOS)
+Core IT
+6018
+-
+$
+132,000
+$
+-
+$
+132,000
+$
+-
+$
+132,000
+$
+-
+$
+132,000
+$
+Hosting Infrastructure Refresh to HCI
+Core IT
+6049
+-
+$
+254,444
+$
+-
+$
+254,444
+$
+-
+$
+254,444
+$
+-
+$
+254,000
+$
+EoL Migration Efforts - US
+Core IT
+6053
+81,000
+$
+-
+$
+-
+$
+-
+$
+-
+$
+-
+$
+-
+$
+-
+$
+Verizon - Aruba Wireless LAN (Waltham)
+Core IT
+5521A
+-
+$
+139,569
+$
+-
+$
+139,569
+$
+-
+$
+139,569
+$
+-
+$
+139,569
+$
+Northborough and Avaya PBX Replacement/U
+Core IT
+5523A
+-
+$
+4,680
+$
+-
+$
+4,680
+$
+-
+$
+4,680
+$
+-
+$
+4,680
+$
+Upstate NY PBX Replacement
+Core IT
+5523B
+-
+$
+3,600
+$
+-
+$
+3,600
+$
+-
+$
+3,600
+$
+-
+$
+3,600
+$
+WAN Diversity at 18 Regional Storm Sites
+Core IT
+5524A
+-
+$
+150,966
+$
+-
+$
+150,966
+$
+-
+$
+150,966
+$
+-
+$
+150,966
+$
+Migration from AWS to Azure - Advanced Data Analytics
+Core IT
+5921
+87,500
+$
+-
+$
+135,625
+$
+-
+$
+2,359,875
+$
+-
+$
+294,984
+$
+-
+$
+Digital Substation Transformation System - IEC 61850
+Core IT
+5756
+100,000
+$
+-
+$
+100,000
+$
+-
+$
+100,000
+$
+-
+$
+100,000
+$
+-
+$
+WNCD Regulatory Initiatives Program
+Core IT
+5773
+189,000
+$
+-
+$
+247,000
+$
+-
+$
+288,000
+$
+-
+$
+94,000
+$
+-
+$
+WNCD Application Reinforcement Program
+Core IT
+5822
+952,000
+$
+-
+$
+1,039,000
+$
+-
+$
+939,000
+$
+-
+$
+330,000
+$
+-
+$
+WN Asset & Data Development & Management Program
+Core IT
+5823
+-
+$
+-
+$
+218,000
+$
+-
+$
+270,000
+$
+-
+$
+150,000
+$
+-
+$
+Engineering Modernization Initiative
+Core IT
+5877
+117,000
+$
+-
+$
+279,000
+$
+-
+$
+579,000
+$
+-
+$
+1,029,000
+$
+-
+$
+Total Investment Plan Project Opex
+$41,114,614
+$17,910,367
+$44,344,311
+$35,818,577
+$43,158,174
+$43,657,617
+$42,373,633
+$50,384,673
+Niagara Mohawk Power Corporation d/b/a National Grid
+ITP-5CU Information Technology (IT) Investment Plan Project Operating Expenses (Project Opex)
+FY22
+FY23
+FY24
+FY25
+Exhibit__(ITP-5CU)
+Page 1 of 3
+
+
+--- Page 26 ---
+Investment Name
+Rate Case Category
+INVP #
+FY22 OPEX
+FY22 RTB
+FY23 OPEX
+FY23 RTB
+FY24 OPEX
+FY24 RTB
+FY25 OPEX
+FY25 RTB
+Niagara Mohawk Power Corporation d/b/a National Grid
+ITP-5CU Information Technology (IT) Investment Plan Project Operating Expenses (Project Opex)
+FY22
+FY23
+FY24
+FY25
+RY22 OPEX
+RY22 RTB
+DY23 OPEX
+DY23 RTB
+DY24 OPEX
+DY24 RTB
+41,922,039
+$
+22,387,420
+$
+44,047,777
+$
+37,778,337
+$
+42,962,039
+$
+45,339,381
+$
+$59,024,982
+ADMS (Grid Modernization)
+Grid Modernization ADMS Phase 1
+ADMS (Grid Modernization
+5471A
+3,757,851
+$
+2,192,508
+$
+-
+$
+2,909,223
+$
+-
+$
+2,867,140
+$
+-
+$
+-
+$
+ADMS Phase 2
+ADMS (Grid Modernization
+5471B
+2,750,156
+$
+-
+$
+4,054,253
+$
+-
+$
+2,244,156
+$
+-
+$
+-
+$
+3,929,538
+$
+ADMS Phase 3
+ADMS (Grid Modernization
+5471N
+-
+$
+-
+$
+-
+$
+-
+$
+1,001,000
+$
+-
+$
+1,001,000
+$
+-
+$
+Total ADMS (Grid Modernization) Project Opex
+6,508,007
+$
+2,192,508
+$
+4,054,253
+$
+2,909,223
+$
+3,245,156
+$
+2,867,140
+$
+1,001,000
+$
+3,929,538
+$
+RY22 OPEX
+RY22 RTB
+DY23 OPEX
+DY23 RTB
+DY24 OPEX
+DY24 RTB
+5,894,569
+$
+2,371,687
+$
+3,851,979
+$
+2,898,702
+$
+2,684,117
+$
+3,132,740
+$
+AMI
+CSS DSIP Changes for Distributed Generation
+AMI
+4704A
+300,523
+$
+-
+$
+153,417
+$
+-
+$
+-
+$
+21,908
+$
+-
+$
+22,368
+$
+Energy Monitoring Portal
+AMI
+4704B
+1,711,909
+$
+-
+$
+166,208
+$
+-
+$
+161,990
+$
+43,815
+$
+244,153
+$
+44,735
+$
+NY Substation Network Improvements
+AMI
+4704I
+-
+$
+-
+$
+986,713
+$
+-
+$
+-
+$
+1,128,419
+$
+-
+$
+1,533,431
+$
+AMF Data Integration Platform
+AMI
+4704J
+333,746
+$
+-
+$
+784,092
+$
+-
+$
+68,001
+$
+676,428
+$
+-
+$
+727,189
+$
+Data Management Standardization for Transmission, Consumption
+& Storage
+AMI
+4704L
+231,912
+$
+-
+$
+427,371
+$
+-
+$
+145,448
+$
+312,556
+$
+148,503
+$
+319,119
+$
+Cloud Computing for Data Management Optimization
+AMI
+4704M
+1,041,630
+$
+-
+$
+225,841
+$
+-
+$
+107,606
+$
+163,133
+$
+847,532
+$
+166,559
+$
+NY REV Cyber Security Initiatives
+AMI
+4704N
+2,573,828
+$
+-
+$
+2,889,884
+$
+-
+$
+1,021,454
+$
+978,789
+$
+-
+$
+1,594,237
+$
+AMI - OMS Integration
+AMI
+4704S
+286,236
+$
+-
+$
+112,305
+$
+-
+$
+-
+$
+48,226
+$
+-
+$
+49,191
+$
+AMI - IT Infrastructure, professional services, implementation and
+testing activities
+AMI
+4704T
+3,278,917
+$
+-
+$
+1,222,738
+$
+-
+$
+-
+$
+-
+$
+-
+$
+-
+$
+Total AMI Project Opex
+9,758,701
+$
+-
+$
+6,968,569
+$
+-
+$
+1,504,499
+$
+3,373,274
+$
+1,240,188
+$
+4,456,829
+$
+RY22 OPEX
+RY22 RTB
+DY23 OPEX
+DY23 RTB
+DY24 OPEX
+DY24 RTB
+9,061,168
+$
+-
+$
+5,602,552
+$
+843,319
+$
+1,438,421
+$
+3,644,163
+$
+CIS
+Customer Information Systems Replacement (KEDNY Release)(R1)
+CIS
+5503B
+3,344,310
+$
+-
+$
+7,487,969
+$
+-
+$
+9,703,232
+$
+-
+$
+Customer Information Systems Replacement (KEDLI Release)(R1)
+CIS
+5503B
+1,551,916
+$
+-
+$
+3,474,768
+$
+-
+$
+4,502,754
+$
+-
+$
+Customer Information Systems Replacement (Boston Gas Release)(R1
+CIS
+5503B
+1,852,111
+$
+-
+$
+4,146,910
+$
+-
+$
+5,373,744
+$
+-
+$
+Customer Information Systems Replacement (Colonial Gas Release)(R
+CIS
+5503B
+538,870
+$
+-
+$
+1,206,540
+$
+-
+$
+1,563,487
+$
+-
+$
+Customer Information Systems Replacement (KEDNY Release)(R1.1
+CIS
+5503B
+-
+$
+-
+$
+-
+$
+Customer Information Systems Replacement (KEDLI Release)(R1.1)
+CIS
+5503B
+-
+$
+-
+$
+-
+$
+Customer Information Systems Replacement (Boston Gas Release)(R1
+CIS
+5503B
+-
+$
+-
+$
+-
+$
+Customer Information Systems Replacement (Colonial Gas Release)(R
+CIS
+5503B
+-
+$
+-
+$
+-
+$
+Customer Information Systems Replacement (Narr Gas Release)(R2)
+CIS
+5503B
+179,980
+$
+-
+$
+370,204
+$
+-
+$
+566,434
+$
+-
+$
+Customer Information Systems Replacement (Narr Electric Release)(R
+CIS
+5503B
+331,454
+$
+-
+$
+681,772
+$
+-
+$
+1,043,152
+$
+-
+$
+Customer Information Systems Replacement (Mass Electric Release)(R
+CIS
+5503B
+879,574
+$
+-
+$
+1,809,206
+$
+-
+$
+2,768,194
+$
+-
+$
+Customer Information Systems Replacement (Nantucket Electric Rele
+CIS
+5503B
+8,933
+$
+-
+$
+18,375
+$
+-
+$
+28,115
+$
+-
+$
+Customer Information Systems Replacement (NMPC Gas Release)(R3
+CIS
+5503B
+413,784
+$
+-
+$
+851,118
+$
+-
+$
+1,302,262
+$
+-
+$
+Customer Information Systems Replacement (NMPC Electric Release
+CIS
+5503B
+1,109,128
+$
+-
+$
+2,281,379
+$
+-
+$
+3,490,647
+$
+-
+$
+Total CIS Project Opex
+10,210,062
+$
+-
+$
+22,328,242
+$
+-
+$
+30,342,022
+$
+-
+$
+-
+$
+-
+$
+RY22 OPEX
+RY22 RTB
+DY23 OPEX
+DY23 RTB
+DY24 OPEX
+DY24 RTB
+10,210,062
+$
+-
+$
+22,328,242
+$
+-
+$
+30,342,022
+$
+-
+$
+Grid Modernization
+Grid Modernization Data Management
+Grid Modernization
+5471D
+282,000
+$
+817,000
+$
+-
+$
+817,000
+$
+-
+$
+817,000
+$
+-
+$
+817,000
+$
+Grid Modernization Enterprise service bus
+Grid Modernization
+5471E
+184,000
+$
+745,000
+$
+-
+$
+1,320,000
+$
+-
+$
+1,320,000
+$
+-
+$
+1,320,000
+$
+Grid Modernization DMX
+Grid Modernization
+5471H
+550,000
+$
+-
+$
+550,000
+$
+-
+$
+550,000
+$
+-
+$
+913,000
+$
+2,000,000
+$
+Grid Modernization TOMS Phase 2 & 3
+Grid Modernization
+5471K
+455,000
+$
+1,078,000
+$
+-
+$
+1,078,000
+$
+-
+$
+1,078,000
+$
+-
+$
+1,078,000
+$
+Grid Modernization GIS Phase II
+Grid Modernization
+5471L
+2,038,000
+$
+-
+$
+591,000
+$
+-
+$
+682,000
+$
+-
+$
+330,000
+$
+4,105,300
+$
+Grid Modernization INOC
+Grid Modernization
+5471M
+1,100,000
+$
+-
+$
+1,100,000
+$
+-
+$
+1,100,000
+$
+-
+$
+-
+$
+2,900,000
+$
+Grid Modernization Data Management Phase 2
+Grid Modernization
+5471O
+440,000
+$
+200,000
+$
+385,000
+$
+400,000
+$
+385,000
+$
+400,000
+$
+55,000
+$
+400,000
+$
+Grid Modernization Integration Services Phase 2
+Grid Modernization
+5471P
+959,000
+$
+-
+$
+-
+$
+400,000
+$
+-
+$
+400,000
+$
+-
+$
+400,000
+$
+ADMS Mobile dispatch for OMS
+Grid Modernization
+5471Q
+486,000
+$
+-
+$
+563,000
+$
+-
+$
+385,000
+$
+-
+$
+-
+$
+350,000
+$
+Scada Analog
+Grid Modernization
+5471S
+31,000
+$
+-
+$
+33,000
+$
+-
+$
+1,000
+$
+31,000
+$
+3,000
+$
+67,000
+$
+DER Outage Portal
+Grid Modernization
+5471T
+-
+$
+-
+$
+97,000
+$
+-
+$
+18,000
+$
+40,000
+$
+-
+$
+40,000
+$
+Portal for ISO dispatch
+Grid Modernization
+5471U
+-
+$
+-
+$
+83,000
+$
+-
+$
+14,000
+$
+32,000
+$
+-
+$
+32,000
+$
+Distribution PI and PI Visions Extension
+Grid Modernization
+5471V
+2,536,000
+$
+160,000
+$
+2,533,000
+$
+230,000
+$
+-
+$
+1,450,000
+$
+-
+$
+1,480,000
+$
+DERMS Investigation - All regions
+Grid Modernization
+5471X
+-
+$
+-
+$
+953,334
+$
+-
+$
+953,334
+$
+-
+$
+953,331
+$
+-
+$
+Innovation Pilots - NY only
+Grid Modernization
+5471Y
+135,083
+$
+-
+$
+145,083
+$
+-
+$
+155,083
+$
+-
+$
+185,083
+$
+240,000
+$
+US Grid Mod Cyber Security Program
+Grid Modernization
+5915
+4,922,000
+$
+52,000
+$
+150,000
+$
+1,437,000
+$
+-
+$
+1,437,000
+$
+-
+$
+1,437,000
+$
+Total Grid Modernization Project Opex
+14,118,083
+$
+3,052,000
+$
+7,183,417
+$
+5,682,000
+$
+4,243,417
+$
+7,005,000
+$
+2,439,414
+$
+16,666,300
+$
+RY22 OPEX
+RY22 RTB
+DY23 OPEX
+DY23 RTB
+DY24 OPEX
+DY24 RTB
+12,384,416
+$
+3,709,500
+$
+6,448,417
+$
+6,012,750
+$
+3,792,416
+$
+9,420,325
+$
+GBE
+GBE
+GBE
+15,099,000
+$
+-
+$
+3,645,000
+$
+-
+$
+-
+$
+-
+$
+-
+$
+-
+$
+Total GBE Project Opex
+15,099,000
+$
+-
+$
+3,645,000
+$
+-
+$
+-
+$
+-
+$
+-
+$
+-
+$
+RY22 OPEX
+RY22 RTB
+DY23 OPEX
+DY23 RTB
+DY24 OPEX
+DY24 RTB
+12,235,500
+$
+-
+$
+2,733,750
+$
+-
+$
+-
+$
+-
+$
+S/4 HANA
+S4HANA Project (Capital Costs Phase 1 Deployment)
+S4HANA
+5503B
+-
+$
+-
+$
+-
+$
+-
+$
+4,032,000
+$
+-
+$
+-
+$
+-
+$
+S4HANA Project (Capital Costs Phase 2 Deployment)
+S4HANA
+5503B
+-
+$
+-
+$
+-
+$
+-
+$
+900,000
+$
+-
+$
+3,600,000
+$
+-
+$
+S4HANA Project (Capital Costs Phase 3 Deployment)
+S4HANA
+5503B
+-
+$
+-
+$
+-
+$
+-
+$
+-
+$
+-
+$
+-
+$
+-
+$
+Total S/4 HANA Project Opex
+-
+$
+-
+$
+-
+$
+-
+$
+4,932,000
+$
+-
+$
+3,600,000
+$
+-
+$
+RY22 OPEX
+RY22 RTB
+DY23 OPEX
+DY23 RTB
+DY24 OPEX
+DY24 RTB
+-
+$
+-
+$
+1,233,000
+$
+-
+$
+4,599,000
+$
+-
+$
+Strategic Initiatives
+Rate Year Conversion of Investment Plan
+Project Opex
+Rate Year
+Data Year
+Data Year
+Rate Year Conversion of ADMS Project
+Opex
+Rate Year
+Data Year
+Data Year
+Rate Year Conversion of AMI Project
+Opex/RTB
+RY22
+Rate Year
+DY23
+Data Year
+DY24
+Data Year
+Rate Year Conversion of CIS Project
+Opex/RTB
+RY22
+Rate Year
+DY23
+Data Year
+DY24
+Data Year
+Rate Year Conversion of Grid
+Modernization Project Opex/RTB
+RY22
+Rate Year
+DY23
+Data Year
+DY24
+Data Year
+Rate Year Conversion of GBE Project
+Opex/RTB
+RY22
+Rate Year
+DY23
+Data Year
+DY24
+Data Year
+Rate Year Conversion of S/4 HANA Project
+Opex/RTB
+RY22
+Rate Year
+DY23
+Data Year
+DY24
+Data Year
+Exhibit__(ITP-5CU)
+Page 2 of 3
+
+
+--- Page 27 ---
+Investment Name
+Rate Case Category
+INVP #
+FY22 OPEX
+FY22 RTB
+FY23 OPEX
+FY23 RTB
+FY24 OPEX
+FY24 RTB
+FY25 OPEX
+FY25 RTB
+Niagara Mohawk Power Corporation d/b/a National Grid
+ITP-5CU Information Technology (IT) Investment Plan Project Operating Expenses (Project Opex)
+FY22
+FY23
+FY24
+FY25
+VOLT
+Transmission Asset Management Program R1
+VOLT
+5358
+4,802,000
+$
+-
+$
+8,232,000
+$
+-
+$
+490,000
+$
+490,000
+$
+-
+$
+-
+$
+Transmission Asset Management Program R2
+VOLT
+5358
+-
+$
+-
+$
+-
+$
+-
+$
+8,624,000
+$
+-
+$
+4,655,000
+$
+980,000
+$
+Transmission Asset Management Program R3
+VOLT
+5358
+-
+$
+-
+$
+-
+$
+-
+$
+-
+$
+-
+$
+4,704,000
+$
+-
+$
+Total VOLT Project Opex
+4,802,000
+$
+-
+$
+8,232,000
+$
+-
+$
+9,114,000
+$
+490,000
+$
+9,359,000
+$
+980,000
+$
+RY22 OPEX
+RY22 RTB
+DY23 OPEX
+DY23 RTB
+DY24 OPEX
+DY24 RTB
+5,659,500
+$
+-
+$
+8,452,500
+$
+122,500
+$
+9,175,250
+$
+612,500
+$
+Total ITP-5 OPEX/RTB
+101,610,467
+$
+23,154,875
+$
+96,755,792
+$
+44,409,800
+$
+96,539,268
+$
+57,393,031
+$
+Rate Year Conversion of VOLT Project
+Opex/RTB
+RY22
+Rate Year
+DY23
+Data Year
+DY24
+Data Year
+Exhibit__(ITP-5CU)
+Page 3 of 3
+
+
+--- Page 28 ---
+Corrections and Updates Testimony of the Information Technology Panel 
+ 
+ 
+ 
+ 
+ 
+ 
+ 
+ 
+ 
+ 
+ 
+ 
+ 
+ 
+ 
+ 
+Exhibit __ (ITP-6CU) 
+ 
+IT Total and Incremental Operating Expenses 
+ 
+
+
+--- Page 29 ---
+Core IT Operational Cost
+CY19 (HTY)
+FY20
+FY21
+FY22
+Rate Year
+FY23
+Data Year 1
+FY24
+Data Year 2
+Commercial Supplier Management
+23.0
+23.0
+37.6
+36.0
+36.8
+37.5
+Cyber Security
+12.7
+12.3
+17.5
+17.1
+17.5
+17.8
+Physical Security
+12.0
+12.7
+12.4
+12.7
+12.9
+13.2
+Group Functions
+2.1
+2.7
+0.6
+0.6
+0.6
+0.6
+Infrastructure & Operations
+129.9
+122.1
+149.0
+144.6
+147.7
+150.8
+Administration
+24.2
+18.6
+18.4
+18.8
+19.2
+19.6
+DXC Contract Extension (Sub-Exhibit)
+-
+10.5
+7.6
+-
+NY EMS Verizon Devices Install (Sub-Exhibit)
+-
+0.2
+0.5
+0.8
+ATOS Transformation Amortization (Sub-Exhibit)
+-
+1.1
+1.1
+1.1
+Burdens
+23.1
+25.5
+35.2
+31.4
+32.0
+32.8
+Subtotal Operational Cost
+$227.0
+$216.9
+$270.7
+$272.9
+$273.6
+$275.8
+$275.4
+$274.2
+$278.0
+Investment Plan Project Opex/RTB
+29.1
+23.1
+31.7
+59.0
+64.3
+80.2
+81.8
+86.8
+88.3
+Investment Plan Inflation
+-
+-
+-
+1.6
+1.9
+2.6
+2.6
+2.7
+2.7
+Burdens
+3.4
+3.7
+5.1
+4.3
+4.3
+4.3
+4.1
+3.3
+3.3
+Core IT OPEX
+$259.5
+$243.7
+$307.6
+$337.8
+$344.1
+$363.0
+$364.0
+$367.0
+$372.3
+Transformation Initiatives
+ADMS (Grid Modernization)
+-
+-
+-
+8.7
+8.3
+7.0
+6.8
+6.1
+5.8
+AMI
+-
+-
+-
+9.8
+9.1
+7.0
+6.4
+4.9
+5.1
+Customer Information System Replacement (CIS) Opex/RTB
+-
+-
+2.0
+6.6
+10.2
+20.7
+22.3
+26.4
+30.3
+Gas Business Enablement (GBE)*
+33.3
+19.5
+12.7
+15.1
+12.2
+3.6
+2.7
+-
+-
+Grid Modernization
+-
+17.2
+16.1
+12.9
+12.5
+11.2
+13.2
+SAP S4 HANA
+-
+-
+1.0
+-
+-
+-
+1.2
+4.9
+4.6
+VOLT
+-
+-
+-
+4.8
+5.7
+8.2
+8.6
+9.6
+9.8
+Cost of Transformation Initiatives
+$33.3
+$19.5
+$15.7
+$62.1
+$61.5
+$59.3
+$60.5
+$63.1
+$68.8
+Total IT Opex
+$292.8
+$263.2
+$323.3
+$400.0
+$405.6
+$422.3
+$424.5
+$430.1
+$441.2
+Total IT Operating Expenses
+Niagara Mohawk Power Corporation d/b/a National Grid
+ITP-6CU Information Technology (IT) Total and Incremental Operating Expenses ($Millions)
+Exhibit__(ITP-6CU)
+Page 1 of 3
+
+
+--- Page 30 ---
+CY19 (HTY)
+FY22
+Rate Year
+Rate Year
+FY23
+Data Year 1
+Data Year 1
+FY24
+Data Year 2
+Data Year 2
+General Inflation Rates
+2.88%
+2.88% 2.11%
+2.11% 2.22%
+2.22%
+Total IT Opex in CY19 (HTY)
+$292.8
+CY19 (HTY) Opex Adjusted for inflation (Already embedded in RR)
+$301.2
+$301.2 $307.6
+$307.6 $314.4
+$314.4
+Total IT Opex
+$400.0
+$405.6 $422.3
+$424.5 $430.1
+$441.2
+Incremental Funding Over HTY
+$98.7
+$104.4 $114.7
+$116.9 $115.7
+$126.8
+Explanation of Incremental Funding
+Incremental Spend for Core IT
+$36.6
+$77.1
+$55.3
+$91.3
+$52.6
+$93.7
+Incremental Spend for Transformation Initiatives
+$62.1
+$27.3
+$59.3
+$25.5
+$63.1
+$33.1
+Total Incremental IT Opex
+$98.7
+$104.4
+$114.7
+$116.9
+$115.7
+$126.8
+Allocation of Incremental IT Opex
+Allocation %
+G020 Allocator - NMPC-E share of Core IT OPEX
+17.04%
+$6.2
+$13.1
+$9.4
+$15.6
+$9.0
+$16.0
+G020 Allocator - NMPC-T share of Core IT OPEX
+5.30%
+$1.9
+$4.1
+$2.9
+$4.8
+$2.8
+$5.0
+G020 Allocator - NMPC-G share of Core IT OPEX
+4.31%
+$1.6
+$3.3
+$2.4
+$3.9
+$2.3
+$4.0
+NMPC-E Transformation Initiatives
+$18.4
+$17.4
+$15.4
+$15.1
+$14.6
+$15.9
+NMPC-T Transformation Initiatives
+$1.9
+$2.3
+$3.3
+$3.5
+$4.1
+$4.2
+NMPC-G Transformation Initiatives
+($0.2)
+($0.6)
+($1.9)
+($2.0)
+($2.4)
+($2.2)
+Allocation of Incremental Funding to NMPC
+Incremental IT Opex Allocated to NMPC-E
+$24.6
+$30.5
+$24.9
+$30.7
+$23.5
+$31.8
+Incremental IT Opex Allocated to NMPC-T
+$3.9
+$6.4
+$6.2
+$8.3
+$6.9
+$9.1
+Incremental IT Opex Allocated to NMPC-G
+$1.3
+$2.7
+$0.5
+$1.9
+($0.2)
+$1.9
+Total Incremental costs to NMPC
+$29.8
+$39.5
+$31.5
+$40.9
+$30.2
+$42.8
+Incremental IT Opex Allocated to other operating companies
+$68.9
+$64.9
+$83.1
+$76.0
+$85.5
+$83.9
+Total Incremental IT Opex
+$98.7
+$104.4
+$114.7
+$116.9
+$115.7
+$126.8
+check
+$0.0
+$0.0
+$0.0
+$0.0
+$0.0
+$0.0
+Niagara Mohawk Power Corporation d/b/a National Grid
+ITP-6CU Information Technology (IT) Total and Incremental Operating Expenses ($Millions)
+Incremental IT Operating Expenses (HTY Adjusted for Inflation)
+Exhibit__(ITP-6CU)
+Page 2 of 3
+
+
+--- Page 31 ---
+Transformation Initiatives Costs as shown on ITP-6
+Transformation Initiatives
+Allocation Code
+CY19 (HTY)
+Rate Year
+Data Year 1 Data Year 2
+Rate Year
+Data Year 1
+Data Year 2
+ADMS (Grid Modernization)
+T198
+-
+8.3
+6.8
+5.8
+2.9
+2.4
+2.0
+AMI
+G113
+-
+9.1
+6.4
+5.1
+9.1
+6.4
+5.1
+Customer Information System
+Replacement (CIS) Opex/RTB
+*Direct Allocation
+-
+10.2
+22.3
+30.3
+1.5
+3.1
+4.8
+Gas Business Enablement (GBE)*
+C210
+33.3
+12.2
+2.7
+-
+(2.9)
+(4.3)
+(4.7)
+Grid Modernization
+T198
+-
+16.1
+12.5
+13.2
+5.6
+4.4
+4.6
+SAP S4 HANA
+G020
+-
+-
+1.2
+4.6
+-
+0.3
+1.2
+VOLT
+**VOLT
+-
+5.7
+8.6
+9.8
+2.8
+4.2
+4.8
+Total Cost of Transformation
+Initiatives
+$33.3
+$61.5
+$60.5
+$68.8
+$19.0
+$16.6
+$17.9
+Incremental Transformation Initiative Costs Allocated to NMPC
+Rate Year
+Data Year 1
+Data Year 2
+NMPC-E Transformation Initiatives
+17.4
+15.1
+15.9
+NMPC-T Transformation Initiatives
+2.3
+3.5
+4.2
+NMPC-G Transformation Initiatives
+(0.6)
+(2.0)
+(2.2)
+$19.0
+$16.6
+$17.9
+FY21 Allocation Codes used
+Alloc. Code
+Description
+Allocation Basis
+NMPC -
+ELEC
+NMPC -
+GAS
+NMPC -
+TRANS
+NMPC
+Total
+ALL
+OTHER
+CO's
+TOTAL
+C210
+C - Number of Customers via Count of Meters Installed
+0.00%
+13.19%
+0.00%
+13.19%
+86.81%
+100.00%
+G020
+17.04%
+4.31%
+5.30%
+26.65%
+73.35%
+100.00%
+G113
+79.61%
+20.39%
+0.00%
+100.00%
+0.00%
+100.00%
+T198
+T - Total T&D Expenditures
+35.05%
+0.00%
+0.00%
+35.05%
+64.95%
+100.00%
+VOLT
+9.00%
+0.00%
+40.00%
+49.00%
+51.00%
+100.00%
+G - General Allocator, 3-Point Allocation - Net Margin, Net Plant,
+and Net O&M.
+G - General Allocator, 3-Point Allocation - Net Margin, Net Plant,
+and Net O&M.
+Total Cost
+Incremental NMPC Allocated Costs
+*Project costs shown on ITP-5 have already been allocated to each operating company based on work being preformed. Conversion to Data year is also reflected in the
+numbers on ITP-5.
+**Cost allocations for VOLT Enablement are based on projected benefits for each operating company. Labor and strategic procurement benefits were estimated based on new
+capabilities that will drive process improvements in how we plan, build, and operate our substation and transmission line assets.
+**Cost allocations for VOLT Enablement are based on projected
+benefits for each operating company.
+Niagara Mohawk Power Corporation d/b/a National Grid
+ITP-6CU Information Technology (IT) Total and Incremental Operating Expenses ($Millions)
+Allocation of Transformation Initiatives
+All Electric Distribution Companies
+NMPC Electric and NMPC Gas
+All Retail Gas Companies
+Parent Cos, Retail, TRAN, Hydros, NG
+LNG Reg, KS Generation, GW, Port
+Jefferson, Metrowest Realty,
+Wayfinder, Transgas, KS Energy
+Development, KS Services Inc
+Exhibit__(ITP-6CU)
+Page 3 of 3
+
+
+--- Page 32 ---
+Corrections and Updates Testimony of the Information Technology Panel 
+ 
+ 
+ 
+ 
+ 
+ 
+ 
+ 
+ 
+ 
+ 
+ 
+ 
+ 
+ 
+ 
+Exhibit __ (ITP-7CU) 
+ 
+Summary description of new investments being undertaken  
+in response to the COVID-19 Pandemic 
+
+
+--- Page 33 ---
+Exhibit_(ITP-7CU)
+Page 1 of 2
+INVP # 
+Investment Name 
+Project Description
+Benefits
+INVP 6013
+Azure Cloud Foundation
+This project will establish Microsoft Azure as the Cloud Platform into 
+which National Grid applications, data, and infrastructure will be 
+deployed.   The initiative will create a Cloud 2.0 version to enable agile 
+methodologies and increase application release frequency while 
+increasing the stability, scalability, and reliability of the Cloud Platform.  
+The project will provide:
+1. scalable cloud platform supporting business needs;
+2. faster provisioning of infrastructure services;
+3. repeatable designs that can be used across the enterprise; and 
+4. increased reliability and resiliency resulting in less downtime
+INVP 6018
+Security Operations Services (SOS)
+The SOS project will implement threat protection and security 
+management technologies /capabilities for National Grid's Cloud 
+environments.  The following products will be installed:  Azure Security 
+Center, Azure Sentinel, Azure Security Alerts Integration; and Azure 
+Advanced Threat Protection. 
+The following benefits will be achieved:
+1. Enables National Grid to gain visibility and control over security resources, 
+workflows, and policies; 
+2. Increased security posture in National Grid datacenters; and
+3. Ability to integrate Azure security alerts into one Security Information Event 
+Management solution.
+INVP 6043
+Business Technology Plan Forward Program - 
+COVID Phase 1
+In March of 2020, in response to the COVID-19 Global Pandemic, 
+National Grid made tactical decisions allowing its employees to work 
+remotely while still delivering excellent service to its customers. As a 
+result of this action, a number of capabilities have been identified that 
+challenge employee efficiency or create risk to ongoing operations. Due 
+to lessons learned during the initial phases of the pandemic, the 
+company has embraced its “Plan Forward” initiative that will drive us 
+toward true “Work from anywhere” capability, removing obstacles that 
+would otherwise hinder optimal employee performance when working 
+remotely. General areas for investment include: 
+* Maturing and stabilizing application remote access capabilities in a 
+secure environment;
+* Provide application upgrades required to support remote access 
+technologies in a Windows 10 environment;
+* Deploy portable/ mobile technologies for office, call center, and field 
+workers as needed to support efficient operations and foster company 
+communication; 
+* Expand licensing of technologies supporting remote access;
+* Deliver medical screening solutions for employee safety in alignment 
+with regulatory direction.
+The program will deliver the following benefits:
+* Improve safety of National Grid Employees and communities they serve; 
+* Increase effectiveness of employees working remotely; and 
+* Provide alignment to local, state, and federal directives for social distancing.
+INVP 6043 
+Business Technology Plan Forward Program - 
+COVID Phase 1
+see above, the above enhancements will be delivered in 2 Phases
+see above
+INVP 6026
+Mainframe Capacity Upgrade
+This project will upgrade the MIPS (million instructions per second), 
+memory, and capacity on two Production Mainframes.  The current 
+capacity is unable to support future demands and the current processes 
+are taking extended periods of time to complete.
+The upgrade will provide sufficient capacity for the next two years and will 
+improve the processing speed of several critical business processes.
+INVP 5974
+IBM P9 Refresh
+This project will upgrade the existing IBM Power 7 servers that are 
+located in the DXC Datacenter.  The servers host several key National 
+Grid business applications and are reaching the end of their service life.  
+Failure to upgrade will result in a reduced level of support and the risk 
+of a service interruption.      
+The project will provide the following benefits: 
+1. Increased platform stability and reliability;
+2. Removing the risk of an interruption to service 
+3. Improved performance and efficiency 
+4. Provides sufficient UNIX AIX capacity to meet the current five-year forecast; 
+and 
+5. Reduced security risk
+INVP 5874
+Cloud Center of Excellence
+This project will build a Cloud Center of Excellence that brings Cloud and 
+DevOps capabilities in-house.   Working with Microsoft, the project will 
+implement the Azure DevOps process and tooling capabilities and 
+design an IT Operational Platform that ensure alignment between the 
+Microsoft Azure Cloud platform  and National Grid's operational 
+procedures.  
+The implementation of Cloud and DevOps capabilities will lead to: delivering 
+applications in a faster time, increased options to support new services, 
+improved reliability due to the close collaboration with Microsoft on the 
+design of the operational platform; and reduced application development and 
+implementation costs. 
+INVP 5886B
+Device Refresh
+This project is provisioning laptops for new hires and provides break/fix 
+replacements.  
+This is a like for like replacement of end of life user devices, inline with a three 
+year refresh policy which ensures the devices are able to run new applications 
+and services and support the latest security rules.  
+INVP 6049
+Hosting Refresh to HCI
+This project will replace the Virtual Computing Environment (VCE) that 
+hosts several National Grid applications at the DXC Data Center.  The 
+proposed solution is to procure new Hyper Converged Infrastructure 
+(HCI) as a replacement for the VCE environment. 
+The new HCI will modernize the National Grid infrastructure landscape by 
+providing tighter security controls,  improved data protection, improved 
+performance and represents an environment that is supported under our 
+current maintenance and support contract. 
+ITP-7CU Information Technology (IT) - New Projects
+Niagara Mohawk Power Corporation d/b/a National Grid
+
+
+--- Page 34 ---
+Exhibit_(ITP-7CU)
+Page 2 of 2
+INVP 6052
+Migration of Current Storage To Strategic 
+Deployment
+National Grid has engaged Dell Technologies Services to enable full 
+utilization of the recently installed storage infrastructure. They will 
+configure the hardware and existing data to meet National Grid’s needs 
+for supported and high performance storage across block and file 
+storage in DXC data centers in Norwich CT and Newark DE
+The project will deliver the following benefits:
+1. Improved access to data on new storage infrastructure 
+2. Mitigates security exposure from running on end of life infrastructure 
+3. Increased resiliency 
+4. Utilizes supported capacity and allows for addition of future capacity
+INVP 6046
+SD WAN Expansion
+National Grid is partnering with Verizon to redesign the wide area 
+network (WAN) infrastructure for a National Grid software-defined wide 
+area network (SD-WAN) architecture located at 100 US National Grid 
+Corporate sites.   T​his project will lead to better Wide Area Network 
+(WAN) performance and enable better control over the network 
+environment. Moving to SD WAN will also enable the use of multiple 
+network transport options and will support traffic routing based on real 
+time conditions of the network, leading to increased flexibility of access 
+choice and the way in which applications are routed. ​
+The benefits of SD-WAN include:
+1. Centralized orchestration and policy control (leading to faster provisioning 
+of network policy changes);
+2. Better performance for cloud based applications:
+3. Better visibility into applications traversing the network (SD WAN recognizes 
+over 3000 applications by name through Deep Packet Inspection (DPI));
+4. SD WAN continuously monitors the performance of each WAN transport 
+(Multi-Protocol Label Switching (MPLS) or internet) and routes traffic over the 
+appropriately performing transport, based on application policy (latency, jitter, 
+packet loss). ​
+INVP 6053
+EoL Migration
+The project will migrate a specified list of End of Life (EoL) servers onto 
+supported platforms.   More specifically, the project will reduce 
+technical debt by taking the appropriate action to decommission, 
+replace, or upgrade 400 servers that have been dispositioned by the 
+Asset Lifecyle Management initiative.  
+The benefits include: 
+1. Mitigation of security risk; 
+2. Better performance of modern Operating Systems and Hardware; 
+3. Reduces failure risk by remediating EoL assets 
+4. Fully supported platforms and applications
+TBD
+CNI Infrastructure
+This program will replace aged infrastructure within the Critical National 
+Network (CNI) environment to ensure high availability and security.   
+Security upgrades include: the refresh of firewalls (25) and routers (13),  
+the encryption of communications at remote terminal sites, and a 
+refresh of the intrusion detection system.  Telemetry upgrades include:  
+circuit upgrades (600) and diverse wireless VPN modifications (800). 
+Benefits include:
+1. ​Reduction of assets that are end of service life within the National Grid CNI 
+estate
+2. Ensures regulatory compliance
+3. Enhanced system security by replacing legacy devices with new kits 
+containing enhanced security features; and 
+4. Increase operational availability and vendor support
+TBD
+Operations Program
+​This project will remediate critical end of life (EoL) software/operating 
+systems/applications that are no longer vendor supported. These 
+unsupported components can no longer be patched and are subject to 
+known security vulnerabilities which cannot be remediated without the 
+upgrade to the supported versions.  There is a significant risk that these 
+unsupported services could not be recovered or that they experience 
+extended  downtime during a failure.  
+The upgrade to supported platforms will ensure vendor support is available 
+should an incident occur.  Thereby, minimizing system downtime and the 
+disruption to business operations.  The newer toolkits also provide the 
+capability to:  implement automated monitoring and alerting, and  real-time 
+asset inventory and visualization of infrastructure which will improve project 
+delivery, decision making and cost transparency.  
+
+
+--- Page 35 ---
+Corrections and Updates Testimony of the Information Technology Panel 
+ 
+ 
+ 
+ 
+ 
+ 
+ 
+ 
+ 
+ 
+ 
+ 
+ 
+ 
+ 
+ 
+Exhibit __ (ITP-8CU) 
+Copies of information request responses referenced  
+in this corrections and updates testimony 
+
+
+--- Page 36 ---
+Form 103  
+Date of Request:  September 14, 2020 
+Request No. DPS-644 
+Due Date:  September 24, 2020 
+NMPC Req. No. NM-712 
+ 
+NIAGARA MOHAWK POWER CORPORATION d/b/a NATIONAL GRID 
+Case Nos. 20-E-0380 and 20-G-0381 
+Electric and Gas Rates 
+ 
+Request for Information 
+ 
+FROM: 
+DPS Staff, Chelsea Kruger 
+ 
+TO: 
+ 
+National Grid, Information Technology Panel 
+ 
+SUBJECT:   Customer Experience Transformation 
+ 
+Request: 
+ 
+ 
+Note: 
+In all interrogatories, all requests for workpapers or supporting calculations shall 
+be construed as requesting any Word, Excel or other computer spreadsheet 
+models in original electronic format with all formulae intact and unlocked. 
+ 
+1. 
+Provide all new methods of customer payment that will be enabled by the Customer 
+Experience Transformation project (e.g., check scanning, payment via text). 
+ 
+2. 
+Provide the amount spent to date on the Customer Experience Transformation program, 
+separated by project and capital expenditures and operating expenses. 
+ 
+Response:  
+ 
+1. 
+The Customer Experience Transformation (CXT) project is exploring additional bill-pay 
+options that have been identified by customers, including Amazon Alexa, Apple Pay, 
+Venmo, text message, and more. While CXT is upgrading the Company’s foundational 
+technology to enable these new channels, improvements have been made to existing 
+payment methods, including enhancements to Pay by Phone via the Automated IVR 
+system and payment through Paperless Bill PDF. 
+ 
+2. 
+See Attachment 1.  
+ 
+ 
+Name of Respondent: 
+Date of Reply:  
+Nancy Concemi 
+September 24, 2020 
+Exhibit_(ITP-8CU)
+Page 1 of 4
+
+
+--- Page 37 ---
+Niagara Mohawk Power Corporation
+d/b/a National Grid
+Cases 20-E-0380 and 20-G-0381
+DPS-644 Attachment 1
+Page 1 of 1
+9/17/2020
+FY17
+FY17
+FY 18 
+FY18
+FY19
+FY19
+FY20
+FY20
+FY21 Actuals  
+Through  Aug
+FY21 
+Actuals  
+Through  
+Aug
+ Forecast
+Forecast
+New 
+Business 
+Case
+New 
+Business 
+Case
+FY21
+FY21
+Total
+Total
+Total
+Capex
+Opex
+Capex
+Opex
+Capex
+Opex
+Capex
+Opex
+Capex
+Opex
+Capex
+Opex
+Capex
+Opex
+Capex
+Opex
+Capex
+Opex
+Totex
+4750 CXP
+278,160
+    
+199,713
+    
+(50)
+         
+-
+               
+-
+             
+-
+               
+477,823
+    
+477,823
+      
+4750A Strategic Alignment
+998,268
+    
+207,797
+    
+-
+               
+-
+             
+-
+               
+1,206,065
+1,206,065
+   
+4750 B Tactical
+160,077
+     
+95,255
+      
+329,901
+      
+12,238
+      
+-
+               
+-
+             
+489,978
+      
+107,493
+    
+597,471
+      
+4750C IAM Development
+54,690
+      
+225,002
+    
+-
+               
+-
+             
+-
+               
+279,692
+    
+279,692
+      
+4750D MVP
+4,043,395
+   
+543,473
+    
+2,954,330
+   
+324,247
+30,275
+        
+7,023
+     
+30,275
+        
+7,023
+        
+7,028,000
+   
+874,743
+    
+7,902,743
+   
+4750G  Two Way Text
+526,352
+      
+75,180
+      
+213,057
+      
+(14,098)
+ 
+1,608
+           
+(1,608)
+    
+1,608
+           
+(1,608)
+       
+741,017
+      
+59,474
+      
+800,491
+      
+4750J Web Self Services
+8,762,534
+   
+145,934
+6,730,996
+   
+210,213
+8,075,971
+     
+139,585
+    
+14,806,966
+349,798
+    
+23,569,500
+495,732
+    
+24,065,232
+4750K Personalization
+384,695
+      
+164,483
+1,128,889
+   
+176,639
+1,005,092
+     
+270,989
+    
+2,133,981
+   
+447,628
+    
+2,518,676
+   
+612,111
+    
+3,130,787
+   
+4750M ODS
+1,497,383
+   
+34,150
+   
+1,165,884
+   
+65,647
+   
+1,904,923
+     
+143,338
+    
+3,070,807
+   
+208,985
+    
+4,568,190
+   
+243,135
+    
+4,811,325
+   
+4750N ACS
+191,008
+      
+16,818
+   
+87,183
+        
+32,585
+   
+683,750
+        
+132,000
+    
+770,933
+      
+164,585
+    
+961,941
+      
+181,403
+    
+1,143,344
+   
+IVR Continuous Improvement (incorporated into 3932)
+-
+               
+-
+             
+-
+               
+-
+             
+-
+               
+Communities (incorporated into 4750J)
+-
+               
+-
+             
+-
+               
+-
+             
+-
+               
+Construction Overhead (incorporated into projects)
+-
+               
+-
+             
+-
+               
+-
+             
+-
+               
+CXP
+160,077
+     
+1,426,373
+4,899,648
+  
+1,263,403
+14,003,007
+671,484
+9,144,834
+  
+490,499
+11,669,736
+  
+685,913
+    
+-
+         
+-
+         
+20,814,570
+1,176,411
+39,877,302
+4,537,671
+44,414,974
+Total CXP 
+-
+           
+-
+           
+160,077
+     
+1,426,373
+4,899,648
+  
+1,263,403
+14,003,007
+671,484
+9,144,834
+  
+490,499
+11,669,736
+  
+685,913
+    
+-
+         
+-
+         
+20,814,570
+1,176,411
+39,877,302
+4,537,671
+44,414,974
+Exhibit_(ITP-8CU)
+Page 2 of 4
+
+
+--- Page 38 ---
+Form 103  
+Date of Request:  October 5, 2020 
+Request No. DPS-842 
+Due Date:  October 15, 2020 
+NMPC Req. No. NM-1086 
+ 
+NIAGARA MOHAWK POWER CORPORATION d/b/a NATIONAL GRID 
+Case Nos. 20-E-0380 and 20-G-0381 
+Electric and Gas Rates 
+ 
+Request for Information 
+ 
+FROM: 
+DPS Staff, Michael Summa 
+ 
+TO: 
+ 
+National Grid, Information Technology Panel 
+ 
+SUBJECT:   Information Technology Projects & Operating Expenses 
+ 
+Note: 
+In all interrogatories, all requests for workpapers or supporting calculations shall 
+be construed as requesting any Word, Excel or other computer spreadsheet 
+models in original electronic format with all formulae intact and unlocked. 
+ 
+According to Exhibit__(ITP-5) the incremental OPEX and RTB costs associated with the Core 
+IT investments in the Rate Year are approximately $62.7 million.  However, on Exhibit__(ITP-6) 
+the Company only allocates $40.7 million in incremental costs for Core IT to NMPC-Electric, 
+NMPC-Transmission, and NMPC-Gas.  Explain the variance in incremental OPEX and RTB 
+costs between Exhibit__(ITP-5) and Exhibit__(ITP-6). 
+ 
+Response:  
+ 
+The amount listed on Exhibit _ (ITP-6) is incorrect because of a formula error in the spreadsheet.  
+The amount will be corrected in the Company’s corrections and update filing.   
+ 
+ 
+Name of Respondent: 
+Date of Reply:  
+Daniel J. DeMauro 
+October 12, 2020 
+ 
+Exhibit_(ITP-8CU)
+Page 3 of 4
+
+
+--- Page 39 ---
+Form 103  
+Date of Request:  October 5, 2020 
+Request No. DPS-843 
+Due Date:  October 15, 2020 
+NMPC Req. No. NM-1087 
+NIAGARA MOHAWK POWER CORPORATION d/b/a NATIONAL GRID 
+Case Nos. 20-E-0380 and 20-G-0381 
+Electric and Gas Rates 
+Request for Information 
+FROM: 
+DPS Staff, Michael Summa 
+TO: 
+ 
+National Grid, Information Technology Panel 
+SUBJECT:   Information Technology Projects & Operating Expenses 
+Note:
+In all interrogatories, all requests for workpapers or supporting calculations shall 
+be construed as requesting any Word, Excel or other computer spreadsheet 
+models in original electronic format with all formulae intact and unlocked. 
+Referring to Exhibit__(ITP-2), Allocation Code G020, the allocation percentages for NMPC are 
+as follows: NMPC-Electric (NMPC-E) 17.05%, NMPC-Gas (NMPC-G) 4.31%, and NMPC-
+Transmission (NMPC-T) 5.30%.  However, on Exhibit__(ITP-6) the Company allocates the 
+incremental costs for Core IT as follows: NMPC-E 17.05%, NMPC-G 5.30%, and NMPC-T 
+4.31%.  Confirm the correct allocation percentages for NMPC-G and NMPC-T.  
+Response:  
+The allocations included in Exhibit _ (ITP-2) are the correct percentages.  The NMPC-Gas and 
+NMPC-Transmission percentages were switched inadvertently  in Exhibit _ (ITP-6) and will be 
+corrected in the Company’s corrections and update filing.  
+Name of Respondent: 
+Date of Reply:  
+Daniel J. DeMauro 
+October 13, 2020 
+Exhibit_(ITP-8CU)
+Page 4 of 4

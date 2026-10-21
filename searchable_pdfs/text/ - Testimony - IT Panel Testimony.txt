@@ -1,0 +1,5780 @@
+--- Page 1 ---
+ BEFORE THE 
+ STATE OF NEW YORK 
+ PUBLIC SERVICE COMMISSION 
+Proceeding on Motion of the Commission as to the Rates, 
+Charges, Rules and Regulations of Consolidated Edison 
+Company of New York, Inc. for Electric and Gas Service. 
+Case 25-E-XXXX, 25-G-XXXX 
+January 2025 
+Prepared Testimony of: 
+Information Technology Panel
+Kamran Ziaee
+4 Irving Place
+New York, New York, 10003
+Shakira Wilson
+4 Irving Place
+New York, New York, 10003
+Joseph Miller
+4 Irving Place
+New York, New York, 10003
+Jeannine Haggerty
+4 Irving Place
+New York, New York, 10003
+Allisyn Glasser
+4 Irving Place
+New York, New York, 10003 
+Michael Murphy
+31-01 20th Ave. 
+Astoria, New York, 11105
+
+
+--- Page 2 ---
+Cases 25-E-XXXX, 25-G-XXXX 
+ 
+CONSOLIDATED EDISON COMPANY OF NEW YORK, INC. 
+INFORMATION TECHNOLOGY PANEL 
+ 
+Page 1 of 101 
+ 
+INTRODUCTION .......................................................................................................................................... 3 
+1 
+PURPOSE OF TESTIMONY ................................................................................................................... 7 
+2 
+Role and Structure of IT ....................................................................................................... 11 
+3 
+IT Strategy ...................................................................................................................................... 12 
+4 
+Total Capital and O&M Summary ........................................................................................... 15 
+5 
+Capital ............................................................................................................................................ 15 
+6 
+O&M ..................................................................................................................................................... 16 
+7 
+Additional FTEs ......................................................................................................................... 22 
+8 
+CUSTOMER APPLICATIONS .............................................................................................................. 27 
+9 
+Customer Care and Billing ................................................................................................. 27 
+10 
+Digital Customer Experience ............................................................................................ 32 
+11 
+Customer Engagement Platform.......................................................................................... 34 
+12 
+Customer Analytics, Reporting, and Engagement ................................................. 37 
+13 
+Building Energy Usage Portal.......................................................................................... 39 
+14 
+Enterprise Data Privacy Program .................................................................................. 41 
+15 
+Other Customer Projects ..................................................................................................... 45 
+16 
+CLEAN ENERGY/OPERATIONAL PROJECTS.................................................................................. 48 
+17 
+REV-Grid Modernization and Integrated Grid Management Visualization 
+18 
+Optimization and Grid Edge Renewable Laboratory ............................................ 48 
+19 
+Integrated Grid Management Visualization Optimization and Grid Edge 
+20 
+Renewable Laboratory ............................................................................................................. 52 
+21 
+Grid Edge Renewable Laboratory ..................................................................................... 55 
+22 
+Clean Energy Mapping Platform ....................................................................................... 56 
+23 
+OMS Resiliency and Sustainability and OMS System Hardening and 
+24 
+Modernization ............................................................................................................................. 60 
+25 
+Other Operational Projects .............................................................................................. 62 
+26 
+CORE APPLICATIONS ........................................................................................................................ 65 
+27 
+Work and Asset Management Platforms ......................................................................... 66 
+28 
+Finance and Supply Chain Transformation Project ............................................ 70 
+29 
+Fixed Asset and Tax Accounting Transformation ................................................. 73 
+30 
+Other Core Application ........................................................................................................ 74 
+31 
+CORE INFRASTRUCTURE ................................................................................................................... 83 
+32 
+
+
+--- Page 3 ---
+Cases 25-E-XXXX, 25-G-XXXX 
+ 
+CONSOLIDATED EDISON COMPANY OF NEW YORK, INC. 
+INFORMATION TECHNOLOGY PANEL 
+ 
+Page 2 of 101 
+ 
+XM-8 and XM-10 ........................................................................................................................... 84 
+1 
+CCTN ................................................................................................................................................... 86 
+2 
+TECHNOLOGY MODERNIZATION ................................................................................................... 87 
+3 
+MICROSOFT 365 ............................................................................................................................. 89 
+4 
+Other Core Infrastructure ................................................................................................. 90 
+5 
+ENTERPRISE DATA AND ANALYTICS ........................................................................................... 92 
+6 
+ 
+ 
+ 
+
+
+--- Page 4 ---
+Cases 25-E-XXXX, 25-G-XXXX 
+ 
+CONSOLIDATED EDISON COMPANY OF NEW YORK, INC. 
+INFORMATION TECHNOLOGY PANEL 
+ 
+Page 3 of 101 
+ 
+ 
+1 
+INTRODUCTION 
+2 
+Q. 
+Would the members of the Information Technology (IT) Panel 
+3 
+(Panel) please state your name and business address? 
+4 
+A.  Our names are Kamran Ziaee, Joseph Miller, Shakira Wilson, 
+5 
+Jeannine Haggerty, Allisyn Glasser, and Michael Murphy.  
+6 
+Our business address is 4 Irving Place, New York, NY 10003.   
+7 
+Q. 
+By whom are the Panel members employed?  
+8 
+A. 
+We are employed by Consolidated Edison Company of New York, 
+9 
+Inc. (Con Edison or the Company). 
+10 
+Q.  Please describe your work experience (i.e., your current 
+11 
+title and general responsibilities, work experience, and 
+12 
+educational background). 
+13 
+A. 
+(Ziaee) I am the Chief Information Officer (CIO). As the 
+14 
+CIO, I am responsible for business solutions delivery, 
+15 
+technology infrastructure, digital transformation, data 
+16 
+governance and analytics, cybersecurity, and corporate 
+17 
+security. Prior to joining Con Edison in December 2024, I 
+18 
+served as the senior vice president of Technology Strategy, 
+19 
+Global Infrastructure and Security at Verizon 
+20 
+Communications and CIO of Lumen Technology (previously 
+21 
+Century Link). I have an undergraduate degree in 
+22 
+Mathematics and a Master’s degree in industrial and systems 
+23 
+
+
+--- Page 5 ---
+Cases 25-E-XXXX, 25-G-XXXX 
+ 
+CONSOLIDATED EDISON COMPANY OF NEW YORK, INC. 
+INFORMATION TECHNOLOGY PANEL 
+ 
+Page 4 of 101 
+ 
+engineering from The Ohio State University. I also have an 
+1 
+MBA from New York Institute of Technology.  
+2 
+ 
+(Miller) I am the Vice President and Controller.  In this 
+3 
+position, I am the Company’s chief accounting officer with 
+4 
+the overall responsibility for the development and 
+5 
+maintenance of the Company’s financial accounting records.  
+6 
+I began my employment with Con Edison in July 1984 as a 
+7 
+Management Intern.  I worked in the Corporate Accounting 
+8 
+Department from July 1985 until January 2001 primarily between 
+9 
+the Accounting Research and Procedures and the General 
+10 
+Accounts sections starting as a Staff Accountant, then 
+11 
+Supervisor and ultimately reaching the Department Manager 
+12 
+level in both sections.  In 2001, I worked as a Department 
+13 
+Manager within the Corporate Planning Department and then in 
+14 
+2002, I became the Department Manager of our Financial 
+15 
+Reporting section.  In 2004, I became an Assistant Controller 
+16 
+and then a Director of Treasury’s Risk Management section.  
+17 
+From 2006 through 2012, I was an Assistant Controller for the 
+18 
+Financial Reporting Sections.  From 2013 through 2017, I was 
+19 
+the Assistant Controller responsible for the Regulatory 
+20 
+Accounting & Policy, Accounts Payable, Payroll and Account 
+21 
+Reconciliation sections.  From 2018 to 2021, I returned to the 
+22 
+Assistant Controller position for the Financial Reporting 
+23 
+Sections.  I became Vice President and Controller in 2021. In 
+24 
+
+
+--- Page 6 ---
+Cases 25-E-XXXX, 25-G-XXXX 
+ 
+CONSOLIDATED EDISON COMPANY OF NEW YORK, INC. 
+INFORMATION TECHNOLOGY PANEL 
+ 
+Page 5 of 101 
+ 
+June 1984, I received a Bachelor of Business Degree in 
+1 
+Accounting from Baruch College and in January 1990, I received 
+2 
+a Master of Business Administration in Finance from Baruch 
+3 
+College.   
+4 
+ 
+(Wilson) I am the Vice President of Engineering and Planning.  
+5 
+In my current position, my responsibilities include overseeing 
+6 
+energy services, engineering, and quality assurance.  
+7 
+Engineering and Planning is also responsible for designing and 
+8 
+monitoring the performance of the electric distribution 
+9 
+system.  I joined the Company in 2001 as a management intern 
+10 
+and have held positions of increasing responsibility in 
+11 
+Electric Operations, Auditing and Transmission Operations. I 
+12 
+assumed my current position in June 2022 after serving as the 
+13 
+Vice President of Bronx and Westchester Electric Operations.  
+14 
+I hold a Bachelor of Arts in Communications from the College 
+15 
+of Mount Saint Vincent and a Master of Business Administration 
+16 
+from SUNY Oswego. 
+ 
+17 
+ 
+(Haggerty) I am the Vice President of IT, Business Systems 
+18 
+Delivery (BSD) Department. I am responsible for the 
+19 
+Company’s portfolio of approximately 530 applications. The 
+20 
+applications are categorized into the following areas: 
+21 
+Customer; IT/OT; Work and Asset Management; and Shared 
+22 
+Services. I have been employed by Con Edison since 1991, 
+23 
+
+
+--- Page 7 ---
+Cases 25-E-XXXX, 25-G-XXXX 
+ 
+CONSOLIDATED EDISON COMPANY OF NEW YORK, INC. 
+INFORMATION TECHNOLOGY PANEL 
+ 
+Page 6 of 101 
+ 
+holding various positions of increasing responsibility in 
+1 
+Utility Shared Services, Corporate Shared Services, and 
+2 
+Electric Operations. I hold a Master’s degree in Energy 
+3 
+Management from New York Institute of Technology and a 
+4 
+Bachelor’s degree in Finance & International Business from 
+5 
+Manhattan College.  
+6 
+ 
+(Glasser) I am the Vice President of IT Engineering & 
+7 
+Operations. I am responsible for Enterprise Architecture, 
+8 
+Infrastructure and Network Operations, and Enterprise Data 
+9 
+and Analytics. I have been employed by Con Edison since 
+10 
+1998, holding positions of increasing responsibility in 
+11 
+Finance, Treasury, Shared Service Administration, Orange 
+12 
+and Rockland Utilities, Inc. (O&R) Operations, Customer 
+13 
+Energy Solutions, and IT. I hold a Bachelor of Science 
+14 
+degree in Management Information Systems from the 
+15 
+University of Connecticut and a Master of Business 
+16 
+Administration degree in Project Management from DeVry 
+17 
+University. 
+18 
+   
+(Murphy) I am the Vice President of Customer Operations. I 
+19 
+have overall responsibility for the Company’s customer 
+20 
+service programs, including customer outreach, meter 
+21 
+reading, billing, and responding to customer inquiries. I 
+22 
+oversee the administration of the Company’s retail choice 
+23 
+
+
+--- Page 8 ---
+Cases 25-E-XXXX, 25-G-XXXX 
+ 
+CONSOLIDATED EDISON COMPANY OF NEW YORK, INC. 
+INFORMATION TECHNOLOGY PANEL 
+ 
+Page 7 of 101 
+ 
+program that supports the competitive energy marketplace. I 
+1 
+began my employment with Con Edison more than 24 years ago 
+2 
+and have held a variety of positions within Con Edison. I 
+3 
+earned a Bachelor of Science degree in Business 
+4 
+Administration from the University at Albany and a Master 
+5 
+of Business Administration in Management of Information 
+6 
+Systems from Fordham University.  
+7 
+Q. 
+Have any members of the Panel previously testified before 
+8 
+the New York State Public Service Commission (PSC or 
+9 
+Commission)?  
+10 
+A. 
+Witnesses Miller and Wilson (Case 22-E-0064), Haggerty (Cases 
+11 
+22-E-0064 and 22-G-0065), Murphy (Cases 22-E-0064, 22-G-0065, 
+12 
+19-E-0065, and 19-G-0066), and Glasser (Cases 21-E-0074 and 
+13 
+21-G-0073) submitted testimony in prior proceedings.   
+14 
+PURPOSE OF TESTIMONY 
+15 
+Q.   Please summarize the purpose of the Panel's testimony. 
+16 
+A.   This testimony outlines Con Edison's IT investments and 
+17 
+initiatives for the proposed rate period. IT works with all 
+18 
+business units to create and deploy technology solutions 
+19 
+that align with Company goals and support the clean energy 
+20 
+transition, focusing on cybersecurity, excellence, safety, 
+21 
+customer engagement, and innovation. These projects strive 
+22 
+to exceed customer, stakeholder, regulator, and employee 
+23 
+
+
+--- Page 9 ---
+Cases 25-E-XXXX, 25-G-XXXX 
+ 
+CONSOLIDATED EDISON COMPANY OF NEW YORK, INC. 
+INFORMATION TECHNOLOGY PANEL 
+ 
+Page 8 of 101 
+ 
+expectations by emphasizing innovation and staying abreast 
+1 
+of industry trends, such as Generative Artificial 
+2 
+Intelligence (GenAI). Additionally, we are modernizing our 
+3 
+technology platforms to enhance reliability and security.    
+4 
+Q. 
+Are Cybersecurity investments included in this Panel’s 
+5 
+testimony? 
+6 
+A. 
+No. The enterprise-wide cybersecurity request for the 
+7 
+program is discussed in the Cyber and Physical Security 
+8 
+Panel (Security Panel) testimony.  However, many projects 
+9 
+and programs included within this Panel contain 
+10 
+cybersecurity components which are byproducts of, not the 
+11 
+intent of, their function.   
+12 
+Q. 
+Please explain how the testimony is structured. 
+13 
+A. 
+This testimony: 
+14 
+• Discusses the Company’s overall IT organization, its 
+15 
+role and core function, and IT strategy. 
+16 
+• Summarizes the Company’s IT capital and O&M 
+17 
+investments, and technology trends. 
+18 
+• Explains projects in five categories:  
+19 
+o Customer Applications 
+20 
+o Clean Energy/Operational Projects 
+21 
+o Core Applications 
+22 
+o Core Infrastructure, and 
+23 
+
+
+--- Page 10 ---
+Cases 25-E-XXXX, 25-G-XXXX 
+ 
+CONSOLIDATED EDISON COMPANY OF NEW YORK, INC. 
+INFORMATION TECHNOLOGY PANEL 
+ 
+Page 9 of 101 
+ 
+o Enterprise Data and Analytics. 
+1 
+Q. 
+Does this testimony include all Company IT-related 
+2 
+projects?  
+3 
+A. 
+Yes, except for the cybersecurity projects contained in the 
+4 
+Security Panel.   
+5 
+Q. 
+For what period is the Company requesting funding? 
+6 
+A. 
+The Company seeks a one-year rate plan for the twelve-month 
+7 
+period ending December 31, 2026 (Rate Year or RY1).  As 
+8 
+discussed by the Accounting Panel, the Company is open to 
+9 
+discussing a longer rate plan in settlement negotiations.  
+10 
+Therefore, we present information for the twelve-month 
+11 
+periods ending December 31, 2027 (RY2) and December 31, 
+12 
+2028 (RY3). 
+13 
+Q. 
+Do you have any exhibits that accompany this testimony? 
+14 
+A. 
+Yes, the IT Panel is presenting 12 exhibits, Exhibit___(IT-
+15 
+1) through Exhibit___(IT-12). 
+16 
+Q. 
+Were these exhibits prepared under the Panel’s direction 
+17 
+and supervision? 
+18 
+A. 
+Yes. The Panel describes each of these exhibits below and 
+19 
+will refer to them in our testimony: 
+20 
+• Exhibit___(IT-1) Summary of IT Panel Capital Requests   
+21 
+
+
+--- Page 11 ---
+Cases 25-E-XXXX, 25-G-XXXX 
+ 
+CONSOLIDATED EDISON COMPANY OF NEW YORK, INC. 
+INFORMATION TECHNOLOGY PANEL 
+ 
+Page 10 of 101 
+ 
+• Exhibit___(IT-2) Summary of IT Panel O&M Requests 
+1 
+• Exhibit___(IT-3) Summary of IT Panel FTE Requests  
+2 
+• Exhibit__(IT-4) O&M Only White Papers 
+3 
+• Exhibit___(IT-5) Customer Application Related White 
+4 
+Papers 
+5 
+• Exhibit___(IT-6) Clean Energy/Operational Related White 
+6 
+Papers 
+7 
+• Exhibit___(IT-7) Core Applications Related White Papers 
+8 
+• Exhibit___(IT-8) Core Infrastructure Related White Papers  
+9 
+• Exhibit___(IT-9) Enterprise Data and Analytics Related 
+10 
+White Papers 
+11 
+• Exhibit   (IT-10) Enterprise Data and Analytics 
+12 
+• Exhibit   (IT-11) Work Management System  
+13 
+• Exhibit   (IT-12) IT Organization Chart 
+14 
+ 
+15 
+Q. 
+What are the requested expenditures for IT projects that 
+16 
+the Company is including in this filing? 
+17 
+A. 
+The Company has included $2.737 billion in requested 
+18 
+capital and $248.366 million in incremental Operating and 
+19 
+Maintenance (O&M) expenditures for company-wide IT projects 
+20 
+over the three-year period.   
+21 
+
+
+--- Page 12 ---
+Cases 25-E-XXXX, 25-G-XXXX 
+ 
+CONSOLIDATED EDISON COMPANY OF NEW YORK, INC. 
+INFORMATION TECHNOLOGY PANEL 
+ 
+Page 11 of 101 
+ 
+Q.  Has the Company prepared an exhibit that outlines the 
+1 
+Company’s total capital and O&M requests across rate years? 
+2 
+A.  Yes. Please refer to Exhibits(IT-1) and (IT-2) for the 
+3 
+Company’s requested overall capital and O&M investments. 
+4 
+IT OVERVIEW 
+5 
+Role and Structure of IT 
+6 
+Q. 
+What is the role of the IT organization at Con Edison?  
+7 
+A. 
+The IT organization supports business operations by 
+8 
+investing in technology that provides safe and reliable 
+9 
+service, enhances our customers’ experience, and complies 
+10 
+with regulatory requirements. Similar to Electric and Gas 
+11 
+operations, this requires investment in our foundational IT 
+12 
+infrastructure (e.g., data centers that host the servers, 
+13 
+databases, routers, firewalls, etc.), application platforms 
+14 
+to support business functions, physical security and 
+15 
+cybersecurity products. 
+16 
+Q. 
+How does IT support its internal customers? 
+17 
+A. 
+The IT organization has two departments that primarily 
+18 
+address internal work and two security departments 
+19 
+(discussed in the Security Panel). One department, Business 
+20 
+Solutions Delivery, provides application development and 
+21 
+support for the approximately 530 applications. The second 
+22 
+department, Engineering and Operations, builds and manages 
+23 
+
+
+--- Page 13 ---
+Cases 25-E-XXXX, 25-G-XXXX 
+ 
+CONSOLIDATED EDISON COMPANY OF NEW YORK, INC. 
+INFORMATION TECHNOLOGY PANEL 
+ 
+Page 12 of 101 
+ 
+the Company’s IT architecture, data, networks, and 
+1 
+infrastructure needs.  
+2 
+The IT organization chart is attached as Exhibit___(IT-12).   
+3 
+IT Strategy   
+   
+4 
+Q. 
+What is the Company’s general IT strategy?   
+5 
+A. 
+The Company’s IT strategy focuses on five areas and guides 
+6 
+the work we do.  These areas are Security, Operational 
+7 
+Excellence, Customer Experience, Technology Modernization, and  
+8 
+Innovation. 
+9 
+Q. 
+Please discuss the first prong of IT’s strategy, Security. 
+10 
+A. 
+The Company prioritizes security in all IT initiatives by 
+11 
+implementing a defense-in-depth strategy (discussed in the 
+12 
+Security Panel) to safeguard its computing assets from cyber 
+13 
+intrusions and attacks.  The Company’s security (physical 
+14 
+and cyber) program is discussed in the Security Panel 
+15 
+testimony.       
+16 
+Q. 
+Please discuss the second prong of IT’s strategy, 
+17 
+Operational and Project Excellence. 
+18 
+A. 
+IT strives to achieve zero safety and cyber incidents, zero 
+19 
+operating errors, and zero quality defects.      
+20 
+Q. 
+Please continue.   
+21 
+A. 
+IT’s strong focus on operational excellence and project 
+22 
+excellence increases reliability, enhances security, 
+23 
+
+
+--- Page 14 ---
+Cases 25-E-XXXX, 25-G-XXXX 
+ 
+CONSOLIDATED EDISON COMPANY OF NEW YORK, INC. 
+INFORMATION TECHNOLOGY PANEL 
+ 
+Page 13 of 101 
+ 
+improves service quality, and focuses on proactively 
+1 
+solving enterprise-scale problems. 
+2 
+Q. 
+How does operational excellence increase reliability? 
+3 
+A. 
+Minimizing operational errors and defects, along with 
+4 
+incorporating redundancy, enhances reliability. Enhanced 
+5 
+reliability fosters user trust and ensures that 
+6 
+applications perform correctly, thereby supporting business 
+7 
+continuity.  
+8 
+Q. 
+How does operational excellence enhance security? 
+9 
+A. 
+By safeguarding data, networks, and systems. 
+10 
+Q. 
+What about improving quality of service? 
+11 
+A. 
+By focusing on why defects occur and addressing those 
+12 
+sources, we can identify and resolve potential issues 
+13 
+before they escalate. 
+14 
+Q. 
+Please discuss Customer Experience. 
+15 
+A. 
+Customer Experience encompasses improving the customer 
+16 
+journey, meeting regulatory and business needs, and 
+17 
+enabling customer access to clean energy programs.  
+18 
+Q. 
+Please discuss the fourth IT strategy prong, Technology 
+19 
+Modernization.  
+20 
+A. 
+Technology Modernization upgrades obsolete technology, 
+21 
+implements security hardening measures, and modernizes 
+22 
+
+
+--- Page 15 ---
+Cases 25-E-XXXX, 25-G-XXXX 
+ 
+CONSOLIDATED EDISON COMPANY OF NEW YORK, INC. 
+INFORMATION TECHNOLOGY PANEL 
+ 
+Page 14 of 101 
+ 
+infrastructure. The Company must continuously upgrade 
+1 
+applications and patch software and hardware to keep 
+2 
+current with appropriate security standards.   
+3 
+Q. 
+Please discuss the fifth IT strategy prong, Innovation.  
+4 
+A. 
+Innovation assesses and provides new technologies and 
+5 
+solutions that enhance operational effectiveness. It 
+6 
+enables organizations to adapt to rapidly changing 
+7 
+technological landscapes, ensuring long-term success and 
+8 
+sustainability. These solutions streamline processes and 
+9 
+drive product development to meet customer needs.  
+10 
+Q. 
+How does the Company incorporate technology trends as a 
+11 
+part of its IT strategy?   
+12 
+A. 
+Emerging trends include Cyber security standards, Cloud 
+13 
+Computing, Artificial Intelligence (AI), and Quantum 
+14 
+Computing. Technology in these areas is advancing at a 
+15 
+rapidly and changing the way businesses operate. To 
+16 
+continue providing reliable service and broader value to 
+17 
+our customers, the Company must keep abreast of emerging 
+18 
+trends.  We consider these trends as we collaborate with 
+19 
+the Company’s business units.   
+20 
+
+
+--- Page 16 ---
+Cases 25-E-XXXX, 25-G-XXXX 
+ 
+CONSOLIDATED EDISON COMPANY OF NEW YORK, INC. 
+INFORMATION TECHNOLOGY PANEL 
+ 
+Page 15 of 101 
+ 
+Total Capital and O&M Summary 
+1 
+Capital 
+2 
+Q. 
+Please describe the forecasted capital request for each 
+3 
+rate year and its main drivers. 
+4 
+A. 
+The 2026 capital request is approximately $1.024 billion, a 
+5 
+nearly $700 million increase from 2025.  The main drivers 
+6 
+for the increase in 2026 are the Finance and Supply Chain 
+7 
+Transformation project ($131M), REV-Grid Modernization 
+8 
+(DSP)(Distributed System Platform) project ($51M), and 
+9 
+Technology Modernization Program ($44.6M). 
+10 
+The 2027 capital request is $931.570 million, a $92.430 
+11 
+million decrease from 2026.  The main drivers for the 2027 
+12 
+request are the Finance and Supply Chain Transformation 
+13 
+project($135M), REV-Grid Modernization (DSP) project 
+14 
+($52M), and the Technology Modernization program ($35M). 
+15 
+The 2028 capital request is $781.626 million, a $149.944 
+16 
+million decrease from 2027.  The main drivers are the 
+17 
+[Finance and Supply Chain Transformation project ($47M), 
+18 
+REV-Grid Modernization project (DSP) ($52.5M), CC&B phase 2 
+19 
+project ($89M), and the Technology Modernization program 
+20 
+($35M). 
+21 
+
+
+--- Page 17 ---
+Cases 25-E-XXXX, 25-G-XXXX 
+ 
+CONSOLIDATED EDISON COMPANY OF NEW YORK, INC. 
+INFORMATION TECHNOLOGY PANEL 
+ 
+Page 16 of 101 
+ 
+O&M 
+1 
+Q.  Before explaining the Company’s O&M request, please explain 
+2 
+the types of costs in the O&M category. 
+3 
+A. 
+IT O&M requests fall into two main categories: a capital 
+4 
+project with an O&M tail and incremental O&M for existing 
+5 
+projects whose costs increase over time.   
+6 
+Q. 
+Please explain what is meant by an O&M tail. 
+7 
+A. 
+Simply put, an O&M tail represents the ancillary costs 
+8 
+associated with owning and operating an asset. For example, 
+9 
+when the Company purchases a “capital” vehicle, to operate 
+10 
+that vehicle, it must have gas, have routine maintenance 
+11 
+performed on various systems, have a driver, and need 
+12 
+certain parts replacement as appropriate.  The costs for 
+13 
+the gas, maintenance, driver, and repairs are the O&M tail. 
+14 
+Q. 
+Please explain the O&M tail as it relates to IT projects. 
+15 
+A. 
+Most IT projects are capital projects as they are initially 
+16 
+developed and implemented.  Once in production, operating 
+17 
+costs, including subscriptions or licenses and maintenance 
+18 
+costs, are incurred.   
+19 
+Q. 
+Do you have an example of an IT O&M tail? 
+20 
+A. 
+For Outage Management platforms, the O&M tail is comprised 
+21 
+of vendor license costs, labor cost for deploying patches, 
+22 
+labor cost for testing (functional testing, stress testing, 
+23 
+
+
+--- Page 18 ---
+Cases 25-E-XXXX, 25-G-XXXX 
+ 
+CONSOLIDATED EDISON COMPANY OF NEW YORK, INC. 
+INFORMATION TECHNOLOGY PANEL 
+ 
+Page 17 of 101 
+ 
+patch testing, etc.), and coding/programing costs that 
+1 
+result from changes in regulatory requirements for the core 
+2 
+system or one of the systems it may integrate to.  
+3 
+Q. 
+Please explain the Incremental O&M cost. 
+4 
+A. 
+Incremental O&M is required for the increasing maintenance 
+5 
+and subscription contracts for overall IT infrastructure, 
+6 
+including cloud and communications. For example: 
+7 
+o With device inventory growth, maintenance costs for 
+8 
+infrastructure equipment (e.g., servers and network 
+9 
+switches) have similarly increased.     
+10 
+o Growing dependence on technology to automate field 
+11 
+functions has increased telecommunications costs. 
+12 
+o We also modernize and improve the security for our 
+13 
+data centers, increasing maintenance and support costs 
+14 
+for data center infrastructure.   
+15 
+Q. 
+Is the Company planning to discontinue its mainframe 
+16 
+system? 
+17 
+A. 
+Yes, over time.  Right now, our mainframe environment is 
+18 
+necessary to host some remaining applications, such as our 
+19 
+field collection platform.  There are incremental O&M costs 
+20 
+for vendor software and hardware maintenance increases, 
+21 
+such as IBM and VMWare, associated with these remaining 
+22 
+systems.   
+23 
+
+
+--- Page 19 ---
+Cases 25-E-XXXX, 25-G-XXXX 
+ 
+CONSOLIDATED EDISON COMPANY OF NEW YORK, INC. 
+INFORMATION TECHNOLOGY PANEL 
+ 
+Page 18 of 101 
+ 
+Q. 
+Please describe the O&M request and the main drivers for 
+1 
+the O&M request. 
+2 
+A. 
+For O&M, we are requesting $163.621 million in incremental 
+3 
+expenditures in RY1, an additional $55.418 million in RY2, 
+4 
+and another additional $29.327 million in RY3. The main 
+5 
+drivers for the request are the O&M tails associated with 
+6 
+our proposed capital projects, software licenses and 
+7 
+subscriptions, hardware and software maintenance contracts, 
+8 
+and increasing telecommunications costs. 
+9 
+Q. 
+Are there hardware and software contracts associated with 
+10 
+the investments discussed in this testimony? 
+11 
+A. 
+Yes. Contracts include investments in hardware and software 
+12 
+license renewals, as well as in vendor support and 
+13 
+maintenance agreements for infrastructure components such 
+14 
+as cloud, servers, storage, mainframe, network and 
+15 
+datacenter services.  
+16 
+Q. 
+Please describe the importance of vendor support contracts 
+17 
+and maintenance agreements. 
+18 
+A. 
+Vendor support contracts and maintenance agreements are 
+19 
+essential for several reasons: 
+20 
+• Expert Support: Maintenance agreements provide access to 
+21 
+experts, including 24/7 support where needed, who can 
+22 
+troubleshoot and resolve complex issues. 
+23 
+
+
+--- Page 20 ---
+Cases 25-E-XXXX, 25-G-XXXX 
+ 
+CONSOLIDATED EDISON COMPANY OF NEW YORK, INC. 
+INFORMATION TECHNOLOGY PANEL 
+ 
+Page 19 of 101 
+ 
+• Security: Regular maintenance includes updates and 
+1 
+patches that protect our systems from vulnerabilities and 
+2 
+security threats.   
+3 
+• Compliance: Keeping our systems compliant with evolving 
+4 
+industry regulations and standards. 
+5 
+Q. 
+Are there any other contracts you would like to discuss 
+6 
+regarding hardware and software expenditures?   
+7 
+A. 
+Yes. We also have expenditures for license and subscription 
+8 
+renewals.   
+9 
+Q. 
+Are there any trends you are seeing regarding software 
+10 
+licensing? 
+11 
+A. 
+Yes.  The vendor partners’ strategy shift from a perpetual 
+12 
+licensing model (one-time fee) to a subscription-based 
+13 
+model (recurring payments) has continued.  
+14 
+ 
+Vendors are also continuing the practice of bundling 
+15 
+software, that is, including multiple software programs 
+16 
+together as a single package.  For example, Microsoft 
+17 
+bundles its operating system package with Outlook, Word, 
+18 
+Excel, PowerPoint, and Teams.  This change in licensing 
+19 
+model has an upward cost impact.    
+20 
+Q.   Are there contracts under IT Hardware and Software 
+21 
+Maintenance associated with cloud services subscriptions? 
+22 
+
+
+--- Page 21 ---
+Cases 25-E-XXXX, 25-G-XXXX 
+ 
+CONSOLIDATED EDISON COMPANY OF NEW YORK, INC. 
+INFORMATION TECHNOLOGY PANEL 
+ 
+Page 20 of 101 
+ 
+A.   Yes. Microsoft 365, Microsoft Azure, and Citrix virtual 
+1 
+desktop cloud-based services are critical to the IT 
+2 
+ecosystem. These tools are used for productivity and 
+3 
+collaboration (Word, Excel, PowerPoint, and Teams), 
+4 
+security (Defender), and Data and Analytics (Azure).  
+5 
+Q.  What is the incremental request for IT Hardware and 
+6 
+Software?  
+7 
+A.  The incremental O&M for IT Hardware and Software is $37.3 
+8 
+million in RY1, $15.5 million in RY2, and $2.8 million in 
+9 
+RY3.  
+10 
+Q.   Are there other projects or programs that impact the 
+11 
+incremental O&M?  
+12 
+A.   Yes. The projects and programs are as follows: 
+13 
+IT Telecom (Exhibit IT-4) The total incremental O&M 
+14 
+spending request is $7.925 million: $7 million in RY1, 
+15 
+$0.924 million in RY2, and $0.01 million in RY3. 
+16 
+Oracle Strategic Partnership (OSP) Run (Exhibit IT-4) The 
+17 
+total incremental O&M spending request is $10.6 million: 
+18 
+$8.4 million in RY1, $1.4 million in RY2, and $0.85 million 
+19 
+in RY3. 
+20 
+Enterprise Geographic Information System (eGIS) Support 
+21 
+(Exhibit IT-4) The total incremental O&M spending request 
+22 
+is $5 million in RY1. 
+23 
+
+
+--- Page 22 ---
+Cases 25-E-XXXX, 25-G-XXXX 
+ 
+CONSOLIDATED EDISON COMPANY OF NEW YORK, INC. 
+INFORMATION TECHNOLOGY PANEL 
+ 
+Page 21 of 101 
+ 
+Enterprise PI Historian Platform (Exhibit IT-4) The total 
+1 
+incremental O&M spending request is $0.95 million: $0.9 
+2 
+million in RY1 and $0.05 million in RY2. 
+3 
+Phase Zero Technology Roadmap for Rate Engineering (Exhibit 
+4 
+IT-4) The total incremental O&M spending request is $0.33 
+5 
+million in RY2. 
+6 
+IT Talent Transformation Team – T3 Project (Exhibit IT-4 
+7 
+The total incremental O&M spending request is $0.72 
+8 
+million: $0.45 million in RY1 and $0.25 million in RY2.  
+9 
+IT Quality Assurance & Compliance Office (Exhibit IT-4) The 
+10 
+total incremental O&M spending request is $0.46 million: 
+11 
+$0.32 million in RY1 and $0.14 million RY2.  
+12 
+Master Service Provider (MSP) Go-To-Market (Exhibit IT-4) 
+13 
+The total incremental O&M spending request is $3.9 million 
+14 
+in RY1.  
+15 
+Gas Applications (Exhibit IT-4) The total incremental O&M 
+16 
+request is $1.838 million in RY1. 
+17 
+Integrated Energy Data Resource (IEDR) (Exhibit IT-4) The 
+18 
+total incremental O&M spending request is $2 million: $1.47 
+19 
+million in RY2 and $0.53 million in RY3. 
+20 
+Q.  Will this Panel discuss allocation for projects and 
+21 
+programs and projects that are common to O&R? 
+22 
+
+
+--- Page 23 ---
+Cases 25-E-XXXX, 25-G-XXXX 
+ 
+CONSOLIDATED EDISON COMPANY OF NEW YORK, INC. 
+INFORMATION TECHNOLOGY PANEL 
+ 
+Page 22 of 101 
+ 
+A. 
+Many projects and programs discussed in our testimony are 
+1 
+common to the Company’s electric, gas, and steam 
+2 
+businesses, and, in most cases, to O&R. The Company’s 
+3 
+Accounting Panel explains how costs are allocated across 
+4 
+Con Edison’s businesses and, where applicable, to O&R. 
+5 
+Additional FTEs 
+6 
+Q. 
+Do both the capital and O&M requests include additional 
+7 
+personnel? 
+8 
+A. 
+Yes. Current Staffing levels are insufficient in various 
+9 
+areas, including Customer Operations, IT Infrastructure 
+10 
+Operations, and IT Enterprise Data and Analytics.  In 
+11 
+total, our headcount will increase by 225 employees. We 
+12 
+have developed an exhibit that provides details for the 
+13 
+requested employees Exhibit (IT -3).  
+14 
+Q. 
+Why are additional resources needed in Customer Operations?  
+15 
+A. 
+Additional IT and Customer Operations resources will 
+16 
+support the technology investments central to both 
+17 
+foundational customer service technology (and their related 
+18 
+maintenance and upgrade needs) and other technology 
+19 
+programs supporting the Customer Experience. Specifically, 
+20 
+the Company requires incremental resources to handle new 
+21 
+initiatives outlined in this testimony, as well as 
+22 
+
+
+--- Page 24 ---
+Cases 25-E-XXXX, 25-G-XXXX 
+ 
+CONSOLIDATED EDISON COMPANY OF NEW YORK, INC. 
+INFORMATION TECHNOLOGY PANEL 
+ 
+Page 23 of 101 
+ 
+additional FTEs to support additional programs identified 
+1 
+in this testimony and the exhibits thereto.  
+2 
+• Digital Customer Experience (DCX) requests 8 
+3 
+additional O&M resources to maintain and enhance 
+4 
+self-service capabilities and the reliability, 
+5 
+performance, and reporting processes of our website 
+6 
+and MyAccount digital platforms. The Company has 
+7 
+determined the necessary FTEs based on the need to 
+8 
+continue building an agile, digital-focused team to 
+9 
+expand the DCX platform.  
+10 
+• The Customer Engagement Platform (CEP) requests 8 
+11 
+FTEs, primarily in RY3, to develop and test the 
+12 
+platform before implementation and to stabilize 
+13 
+post-implementation. The team developed a resource 
+14 
+plan for an ongoing support team, as well as a 
+15 
+smaller, temporary support team that will be 
+16 
+available post-go-live to resolve defects and 
+17 
+implement enhancements. 
+18 
+• The Enterprise Data Privacy Program seeks 10 FTEs to 
+19 
+maintain and enhance the Company’s privacy platform 
+20 
+and processes. Labor estimates are based on current 
+21 
+staffing levels and forecasts for additional needs 
+22 
+
+
+--- Page 25 ---
+Cases 25-E-XXXX, 25-G-XXXX 
+ 
+CONSOLIDATED EDISON COMPANY OF NEW YORK, INC. 
+INFORMATION TECHNOLOGY PANEL 
+ 
+Page 24 of 101 
+ 
+to implement the expanded program. As the program 
+1 
+evolves, some resources currently allocated as 
+2 
+capital will move to O&M, while several new hires 
+3 
+will be classified as O&M. 
+4 
+Q. 
+Why are additional resources needed in Infrastructure 
+5 
+Operations? 
+6 
+A. 
+The Company is requesting an additional 53 resources for 
+7 
+Infrastructure Operations:  29 FTEs to execute the capital 
+8 
+investment projects included herein (XM10, XM8, Data Center 
+9 
+Improvements, and Technology Modernization) and 24 to, 
+10 
+among other things: 
+11 
+• Maintain infrastructure investments as part of an O&M 
+12 
+tail for data centers and networks, and standards. 
+13 
+• Perform end-of-life equipment replacements to maintain 
+14 
+reliability of the IT infrastructure; and 
+15 
+• Evaluate and drive infrastructure standards. 
+16 
+Q. 
+How many additional resources are being requested for the 
+17 
+Enterprise Data & Analytics Programs? 
+18 
+A.  These programs need thirty-two additional FTE resources. 
+19 
+Q. 
+Why are additional resources needed?  
+20 
+
+
+--- Page 26 ---
+Cases 25-E-XXXX, 25-G-XXXX 
+ 
+CONSOLIDATED EDISON COMPANY OF NEW YORK, INC. 
+INFORMATION TECHNOLOGY PANEL 
+ 
+Page 25 of 101 
+ 
+A. 
+New hires will initially be funded through capital dollars 
+1 
+and roll over to O&M as solutions are placed into service.  
+2 
+17 resources are needed to build and sustain the Enterprise 
+3 
+Data & Analytics Program, which will expand to additional 
+4 
+business domains. The team includes Architects, Product 
+5 
+Managers, Technical Leads, and Managers. 12 additional team 
+6 
+members are needed for the Integration Technical 
+7 
+Obsolescence program, replacing the Company's aging 
+8 
+integration platform. This project will span four years, 
+9 
+involving development, maintenance, and support. The three 
+10 
+remaining team members will migrate automations from our 
+11 
+legacy system to Microsoft Power Platform and assist in 
+12 
+upgrading dated SharePoint Solutions to modern PowerApps. 
+13 
+These projects will span over three years and these 
+14 
+resources will support and stabilize these changes once 
+15 
+they are moved in service. 
+16 
+IT PROJECTS BY CATEGORY 
+17 
+Q. 
+What projects will the Panel discuss in this testimony?   
+18 
+A. 
+We discuss the larger investments in each of the five 
+19 
+categories that IT projects fall into: 
+20 
+1. Customer Applications 
+21 
+
+
+--- Page 27 ---
+Cases 25-E-XXXX, 25-G-XXXX 
+ 
+CONSOLIDATED EDISON COMPANY OF NEW YORK, INC. 
+INFORMATION TECHNOLOGY PANEL 
+ 
+Page 26 of 101 
+ 
+o Customer Care & Billing (CC&B) enhancements and 
+1 
+upgrade 
+2 
+o Digital Customer Experience (DCX) 
+3 
+o Customer Engagement Platform (CEP) 
+4 
+o Customer Analytics, Reporting and Engagement (CARE) 
+5 
+o Building Energy Usage Portal (BEUP) 
+6 
+o Enterprise Data Privacy Program  
+7 
+2. Clean Energy / Operations 
+8 
+o REV-Grid Modernization (DSP) 
+9 
+o Integrated Grid Management Visualization 
+10 
+Optimization (IGMVO) 
+11 
+o Grid Energy Renewable Laboratory (GERL) 
+12 
+o Clean Energy Mapping Platform 
+13 
+o Outage Management System (OMS) Resiliency and 
+14 
+Sustainability and Outage Management Hardening and 
+15 
+Modernization 
+16 
+3. Core Applications 
+17 
+• Work and Asset Management Platforms 
+18 
+• Finance and Supply Chain Transformation 
+19 
+• Fixed Asset and Tax Accounting Transformation 
+20 
+4. Core Infrastructure 
+21 
+• XM-8 and XM-10 
+22 
+
+
+--- Page 28 ---
+Cases 25-E-XXXX, 25-G-XXXX 
+ 
+CONSOLIDATED EDISON COMPANY OF NEW YORK, INC. 
+INFORMATION TECHNOLOGY PANEL 
+ 
+Page 27 of 101 
+ 
+• CCTN 
+1 
+• Technology Modernization 
+2 
+• M365  
+3 
+5. Enterprise Data and Analytics 
+4 
+CUSTOMER APPLICATIONS   
+5 
+Q.  Please explain the purpose of projects under the Customer 
+6 
+Applications category.  
+7 
+A.  This investment category will enhance our customer service, 
+8 
+enable customer participation in the clean energy future, 
+9 
+and make it easier for customers to interact with the 
+10 
+Company.  Equally important, we will continue to invest in 
+11 
+and protect customer data, providing the customer with the 
+12 
+ability to understand the types and uses of data the 
+13 
+Company maintains.  
+14 
+All other customer-related projects are included in Exhibit 
+15 
+(IT-5).   
+16 
+Customer Care and Billing 
+17 
+Q. 
+What is the Company’s customer service system? 
+18 
+A. 
+Con Edison uses Oracle’s Customer Care and Billing (CC&B) 
+19 
+system to manage customer billing and other functions. 
+20 
+Q. 
+Is the Company requesting funding for CC&B? 
+21 
+
+
+--- Page 29 ---
+Cases 25-E-XXXX, 25-G-XXXX 
+ 
+CONSOLIDATED EDISON COMPANY OF NEW YORK, INC. 
+INFORMATION TECHNOLOGY PANEL 
+ 
+Page 28 of 101 
+ 
+A. 
+Yes.  We are proposing: (1) O&M funding to maintain and 
+1 
+operate CC&B at a “steady state,” (2) capital funding to 
+2 
+implement program enhancements, and (3) capital funding for 
+3 
+a future CC&B software upgrade to avoid system reliability 
+4 
+risks when Oracle ends support for CC&B’s current version.  
+5 
+Q. 
+Please explain the funding request to maintain and operate 
+6 
+CC&B. 
+7 
+A. 
+To operate and maintain CC&B at a “steady state,” ongoing 
+8 
+O&M funding is needed. Software maintenance and support 
+9 
+sustains the system’s resiliency and mitigates risks to 
+10 
+business operations that rely on it. Since we have moved 
+11 
+from the project’s build phase into “steady state,” these 
+12 
+costs are considered O&M. 
+13 
+Q. 
+What activities will the O&M support team undertake? 
+14 
+A. 
+The O&M support team will operate CC&B at a steady state.  
+15 
+Among other things, the team will ensure that the software 
+16 
+is functioning, monitor system performance, address 
+17 
+reported defects, implement patches, and perform other 
+18 
+ongoing support functions.  
+19 
+Q. 
+Are there additional O&M tasks that must be undertaken? 
+20 
+A. 
+Yes.  There are costs for CC&B software licenses.   
+21 
+Q. 
+Is the company requesting any additional FTEs for the O&M 
+22 
+support team? 
+23 
+
+
+--- Page 30 ---
+Cases 25-E-XXXX, 25-G-XXXX 
+ 
+CONSOLIDATED EDISON COMPANY OF NEW YORK, INC. 
+INFORMATION TECHNOLOGY PANEL 
+ 
+Page 29 of 101 
+ 
+A. 
+No.  
+1 
+Q. 
+What happens if these “steady state” functions are not 
+2 
+performed?  
+3 
+A. 
+Not undertaking these activities could compromise the 
+4 
+reliability and performance of the CC&B system as well as 
+5 
+the customer experience with billing, payments, and 
+6 
+customer service.   
+7 
+Q. 
+On the capital side, please explain the CC&B system 
+8 
+enhancements. 
+9 
+A. 
+The Company will implement enhancements to CC&B as needed.  
+10 
+For example, the Company regularly needs to establish new 
+11 
+rates and structure, such as net metering.  We generally 
+12 
+implement a new rate or structure at least annually based 
+13 
+on Commission requirements. We also need to enhance the 
+14 
+system to enable energy efficiency and affordability 
+15 
+programs, retain new data elements, and integrate with 
+16 
+additional software systems.  
+17 
+ 
+In addition to developing needed enhancements, we need to 
+18 
+perform robust testing to confirm that the application 
+19 
+continues to perform as expected. These system enhancements 
+20 
+will provide increased value to customers, such as new 
+21 
+programs and clean energy rate changes (e.g., low and 
+22 
+moderate (LMI) initiatives, CDG/Value Stack).  
+23 
+
+
+--- Page 31 ---
+Cases 25-E-XXXX, 25-G-XXXX 
+ 
+CONSOLIDATED EDISON COMPANY OF NEW YORK, INC. 
+INFORMATION TECHNOLOGY PANEL 
+ 
+Page 30 of 101 
+ 
+Q. 
+Turning to the third request, please explain the Company’s 
+1 
+CC&B upgrade plans. 
+2 
+A. 
+Oracle’s roadmap ceases product support for the current 
+3 
+production version of the CC&B product after April 2029. 
+4 
+Consequently, to keep the platform up to date and 
+5 
+supported, the Company must upgrade the CC&B software 
+6 
+platform.  
+7 
+Q. 
+What work is needed to upgrade CC&B? 
+8 
+A. 
+Starting in 2026, the Company will work with a consultant 
+9 
+to develop a detailed implementation plan to, starting in 
+10 
+2027, convert to the new platform over a two-year period. 
+11 
+Q. 
+What happens if the CC&B is not upgraded to a vendor-
+12 
+supported platform? 
+13 
+A. 
+Without vendor support, the Company will not receive 
+14 
+upgrades or system patches to address known cyber 
+15 
+vulnerabilities. Conducting business with limited system 
+16 
+support will increase the risk that the system will lose 
+17 
+reliability, jeopardizing the Company’s ability to bill 
+18 
+customers timely and accurately and comply with other 
+19 
+regulatory requirements. Moreover, the Company’s ability to 
+20 
+meet new and evolving requirements will also decline, 
+21 
+creating risks for all business operations that rely on 
+22 
+CC&B.  
+23 
+
+
+--- Page 32 ---
+Cases 25-E-XXXX, 25-G-XXXX 
+ 
+CONSOLIDATED EDISON COMPANY OF NEW YORK, INC. 
+INFORMATION TECHNOLOGY PANEL 
+ 
+Page 31 of 101 
+ 
+Q. 
+Did the 2023 CC&B implementation consider this upgrade?   
+1 
+A. 
+Yes. Con Edison started planning to implement a new 
+2 
+customer service system to replace its decades-old legacy 
+3 
+mainframe Customer Information System in 2014 and entered 
+4 
+into an agreement with Oracle in 2018. In 2022, after the 
+5 
+Company’s conversion process was more than halfway 
+6 
+completed, Oracle announced that version 2.8 would only be 
+7 
+supported until 2029. The Company considered the merits of 
+8 
+instead implementing a newer version of CC&B (v 2.9), but 
+9 
+at that advanced stage of the development process, 
+10 
+determined that doing so would have been difficult and 
+11 
+presented unnecessary risk to the project’s timeline and 
+12 
+the success of implementation.   
+13 
+Q. 
+Is this decision consistent with best implementation 
+14 
+practices? 
+15 
+A. 
+Yes. It was consistent with a generally accepted principle 
+16 
+of large-scale IT implementations known as ”N-1.” Under 
+17 
+this strategic approach, the entity implementing the 
+18 
+software uses one prior version of the most recent version 
+19 
+to balance stability and innovation by implementing a more 
+20 
+proven solution, reducing risk of issues that might arise 
+21 
+with a less thoroughly vetted version. 
+22 
+
+
+--- Page 33 ---
+Cases 25-E-XXXX, 25-G-XXXX 
+ 
+CONSOLIDATED EDISON COMPANY OF NEW YORK, INC. 
+INFORMATION TECHNOLOGY PANEL 
+ 
+Page 32 of 101 
+ 
+Q. 
+What funding is the Company requesting in this filing for 
+1 
+CC&B?  
+2 
+A.  The Company requests $145.6 million in total capital 
+3 
+funding for these CC&B projects, broken out into $28.1 
+4 
+million in RY1, $28.2 million in RY2, and $89.4 million in 
+5 
+RY3. 
+6 
+ 
+For RY1-RY3, the Company requests an O&M increase of $1 
+7 
+million in RY1, followed by an incremental increase of $0.6 
+8 
+million in RY2 and increase of $0.7 million in RY3. 
+9 
+Q. 
+Would any of the funds requested here be used to recover 
+10 
+any of the past expenses related to implementation of CC&B 
+11 
+that are the subject of the Commission’s Order Regarding 
+12 
+Costs to Implement Customer Service System, issued May 16, 
+13 
+2024, in Cases 19-E-0065 and 19-G-0066?  
+14 
+A. 
+No. The requested funds support the Company’s future 
+15 
+efforts to maintain, enhance, and upgrade its current CC&B 
+16 
+system and have no relationship with or impact on any 
+17 
+historical costs. 
+18 
+Digital Customer Experience 
+19 
+Q.  Please describe the Digital Customer Experience (DCX) 
+20 
+program.  
+21 
+A.  DCX is a foundational digital platform providing web, 
+22 
+mobile web, and application functionality, allowing 
+23 
+
+
+--- Page 34 ---
+Cases 25-E-XXXX, 25-G-XXXX 
+ 
+CONSOLIDATED EDISON COMPANY OF NEW YORK, INC. 
+INFORMATION TECHNOLOGY PANEL 
+ 
+Page 33 of 101 
+ 
+customers to manage their accounts and services and 
+1 
+communicate with the Company. Since its launch, customers 
+2 
+have used digital self-service tools across a broad range 
+3 
+of transactions.  
+4 
+Q. 
+Why is DCX important? 
+5 
+A. 
+DCX’s assets allow customers to digitally interact with the 
+6 
+Company, including website, mobile applications, payment 
+7 
+processing, outage reporting and communications, energy 
+8 
+usage data, and financial assistance programs.  
+9 
+Continued investment in DCX is critical to the Company’s 
+10 
+ability to support statewide clean energy goals. For clean 
+11 
+energy programs, DCX serve as the integration point to 
+12 
+provide customers with information regarding their energy 
+13 
+usage, rate options, and clean energy programs. 
+14 
+Q. 
+What does the Company propose for DCX for 2026-2028?  
+15 
+A.  For 2026-2028, DCX is focused on two principal areas: 1) an 
+16 
+O&M program supporting or upgrading infrastructure that 
+17 
+keeps the digital products running, and 2) a capital 
+18 
+program expanding digital offerings to keep our platform 
+19 
+modern and relevant. The infrastructure portion of this 
+20 
+effort will enhance platform security, reliability, 
+21 
+performance, and reporting. This work includes improvements 
+22 
+
+
+--- Page 35 ---
+Cases 25-E-XXXX, 25-G-XXXX 
+ 
+CONSOLIDATED EDISON COMPANY OF NEW YORK, INC. 
+INFORMATION TECHNOLOGY PANEL 
+ 
+Page 34 of 101 
+ 
+to the website and mobile app to enhance support for our 
+1 
+customer payment and communication systems. 
+2 
+Q. 
+Are there also plans to develop new tools for customers to 
+3 
+interact with the Company? 
+4 
+A.  Yes. These plans include expanding customer payment 
+5 
+options, implementing new or improved customer self-service 
+6 
+transactions, such as initiating service with the company, 
+7 
+and increasing personalization tools, such as informing 
+8 
+customers of financial assistance programs. 
+9 
+Q.  What capital funding is requested for the program over  
+10 
+2026-2028? 
+11 
+A.  The Company proposes to spend $15.9 million in capital in 
+12 
+each rate year. 
+13 
+Q.  What is the O&M funding request for DCX for 2026-2028? 
+14 
+A.  An O&M increase of $2,5 million is requested in RY1, 
+15 
+followed by an incremental increase of $0.3 million in RY2 
+16 
+and an additional increase of $0.3 million in RY3. 
+17 
+Customer Engagement Platform  
+18 
+Q. 
+Please explain the Customer Engagement Platform (CEP) 
+19 
+project. 
+20 
+A. 
+Following CC&B implementation, the next step toward a 
+21 
+mature customer technology platform is an intuitive, user-
+22 
+
+
+--- Page 36 ---
+Cases 25-E-XXXX, 25-G-XXXX 
+ 
+CONSOLIDATED EDISON COMPANY OF NEW YORK, INC. 
+INFORMATION TECHNOLOGY PANEL 
+ 
+Page 35 of 101 
+ 
+friendly interface for support teams to engage with 
+1 
+customers. This project will provide:  
+2 
+1. Customer Interaction Dashboard: A centralized dashboard 
+3 
+with a comprehensive view of customer, usage, and 
+4 
+payment data, as well as program eligibility, allowing 
+5 
+Customer Service Representatives (CSRs) and other 
+6 
+customer-facing employees to see the whole customer 
+7 
+picture and fulfill their requests. 
+8 
+2. Correspondence Center: A tool to manage and track 
+9 
+customer interactions across different communications 
+10 
+platforms, improving CSRs ability to provide consistent 
+11 
+and proactive support on eligible services, billing or 
+12 
+arrears concerns, and clean energy products.  
+13 
+ 
+14 
+Q. 
+Why is the Company proposing the CEP project now? 
+15 
+A. 
+CEP is essential for the Company to keep pace with customer 
+16 
+expectations. The technology creates seamless interactions 
+17 
+with customers across multiple channels and delivers 
+18 
+personalized services with tailored recommendations on 
+19 
+products and programs that optimize energy savings. 
+20 
+Moreover, industry benchmarking indicates that a CEP is a 
+21 
+leading industry practice used by most large utilities. 
+22 
+Q. 
+What are the key benefits of the CEP project? 
+23 
+
+
+--- Page 37 ---
+Cases 25-E-XXXX, 25-G-XXXX 
+ 
+CONSOLIDATED EDISON COMPANY OF NEW YORK, INC. 
+INFORMATION TECHNOLOGY PANEL 
+ 
+Page 36 of 101 
+ 
+A. 
+The CEP will bring every aspect of the customers’ 
+1 
+engagement with the Company onto one interface, enabling 
+2 
+CSRs to readily access more information about customers and 
+3 
+their interactions with the Company and, as a result, 
+4 
+provide faster and more effective customer service. For 
+5 
+example, when customers contact us with billing questions, 
+6 
+their inquiry initiates an investigation across multiple 
+7 
+systems beyond CC&B, such as: (a) MAMS to confirm meter 
+8 
+presence, (b) ProField for un-synced field reports, (c) 
+9 
+CPMS for active energy service cases, and (d) PEGA to 
+10 
+schedule a meter appointment. By connecting these systems, 
+11 
+CSRs can respond quickly to customer inquiries, enhancing 
+12 
+customer satisfaction. 
+13 
+The CEP will also provide customers with individualized 
+14 
+guidance and recommendations. For example, the data sources 
+15 
+that the Company plans to integrate with the CEP will be 
+16 
+able to offer real-time recommendations to troubleshoot 
+17 
+problems and identify relevant customer programs based on 
+18 
+analysis of customer data and Company business rules. 
+19 
+Q. 
+How does the Company plan to undertake the project? 
+20 
+A. 
+The Company intends to undertake a three-phase, 36-month 
+21 
+development project starting in 2026. 
+22 
+Q.  What capital funding is requested for CEP during 2026-2028? 
+23 
+
+
+--- Page 38 ---
+Cases 25-E-XXXX, 25-G-XXXX 
+ 
+CONSOLIDATED EDISON COMPANY OF NEW YORK, INC. 
+INFORMATION TECHNOLOGY PANEL 
+ 
+Page 37 of 101 
+ 
+A.  The Company requires capital funding of $9.1 million in 
+1 
+RY1, $24 million in RY2, and $11.6 million in RY3 to 
+2 
+support labor, vendor expenses, and software and hardware 
+3 
+costs associated with the implementation of the CEP’s 
+4 
+Customer Interaction Dashboard and Correspondence Center.  
+5 
+Q.  What O&M spending is requested for CEP during 2026-2028? 
+6 
+A.  An O&M increase of $0.2 million is requested inRY1, 
+7 
+followed by an incremental increase of $2.3 million in RY2 
+8 
+and increase of $0.8 million in RY3. This funding will 
+9 
+cover the IT infrastructure, software-related costs, 
+10 
+ongoing costs for technology solutions, and labor costs 
+11 
+associated with the CEP program once it is implemented. 
+12 
+Customer Analytics, Reporting, and Engagement 
+13 
+Q. 
+Please discuss the Customer Analytics, Reporting, and 
+14 
+Engagement (CARE) program.   
+15 
+A. 
+The CARE program (formerly known as Customer Recommendation 
+16 
+and Analysis Tools) provides an improved clean energy 
+17 
+digital experience through a suite of tools to facilitate 
+18 
+decision-making, accelerate clean energy technology 
+19 
+adoption, and support State and City climate and clean 
+20 
+energy goals.  
+21 
+
+
+--- Page 39 ---
+Cases 25-E-XXXX, 25-G-XXXX 
+ 
+CONSOLIDATED EDISON COMPANY OF NEW YORK, INC. 
+INFORMATION TECHNOLOGY PANEL 
+ 
+Page 38 of 101 
+ 
+From 2023-2025, CARE launched a consolidated and searchable 
+1 
+energy efficiency rebate experience, deployed a customer 
+2 
+scheduling tool for electric vehicle site assessments, and 
+3 
+redesigned clean energy program web pages for several Con 
+4 
+Edison programs. Additional efforts underway include 
+5 
+centralizing contractor resources, developing tools to 
+6 
+guide customers through alternative rate options, and 
+7 
+continuing redesign of clean energy program web pages.  
+8 
+Q.  Does this request include new work and enhancements to the 
+9 
+work already underway? 
+10 
+Yes. This request allows the Company to continue to invest 
+11 
+in enhancements of existing projects as well as launch new 
+12 
+tools. New projects are expected to include an 
+13 
+electrification experience that will guide customers 
+14 
+through the electrification process, and clean energy 
+15 
+customer service tools to support Company employees who 
+16 
+advise and respond to customer inquiries.  
+17 
+The Company will continue to file a quarterly 
+18 
+Implementation Status Report detailing not only 
+19 
+enhancements completed, but also work planned, budget 
+20 
+spent, outreach and education efforts, and key metrics.  
+21 
+Q. 
+Please explain the benefits of the CARE program. 
+22 
+
+
+--- Page 40 ---
+Cases 25-E-XXXX, 25-G-XXXX 
+ 
+CONSOLIDATED EDISON COMPANY OF NEW YORK, INC. 
+INFORMATION TECHNOLOGY PANEL 
+ 
+Page 39 of 101 
+ 
+A. 
+The CARE program improves clean energy technology and 
+1 
+customer program educational content and develops tools 
+2 
+that enable customers to overcome the complex decision-
+3 
+making associated with clean energy investments. CARE also 
+4 
+supports and empowers the contractors and professionals who 
+5 
+play a central role in helping customers explore and 
+6 
+install clean energy technologies through a digital 
+7 
+experience dedicated to them.  
+8 
+Q.  What capital funding is requested for CARE during 2026-
+9 
+2028? 
+10 
+A.  The capital request for the CARE project is $48.18 million: 
+11 
+$18.51 million in RY1, $17.08 million in RY2 and $12.59 
+12 
+million in RY3. 
+13 
+Q.  What is the incremental O&M request for CARE during 2026-
+14 
+2028? 
+15 
+A. 
+The incremental O&M request is $8.22 million: $4.22 million 
+16 
+in RY1, $2.51 million in RY2, and $1.49 million in RY3. 
+17 
+Building Energy Usage Portal 
+18 
+Q.  Please explain the current proposal for the Building Energy 
+19 
+Usage Portal (BEUP) project. 
+20 
+
+
+--- Page 41 ---
+Cases 25-E-XXXX, 25-G-XXXX 
+ 
+CONSOLIDATED EDISON COMPANY OF NEW YORK, INC. 
+INFORMATION TECHNOLOGY PANEL 
+ 
+Page 40 of 101 
+ 
+A.  Given the increasing prevalence of benchmarking data 
+1 
+required by different governmental agencies, the Company 
+2 
+plans to enhance its existing benchmarking portal by 
+3 
+establishing a dedicated BEUP.  
+4 
+Q.  Has the Company recently updated its benchmarking portal? 
+5 
+A.  Yes. In the current rate period, we enhanced the portal to 
+6 
+leverage our AMI (Advanced Metering Infrastructure) data, 
+7 
+provided increased granularity for customers, and enhanced 
+8 
+the customer experience, including improved enrollment and 
+9 
+energy consumption data accessibility. 
+10 
+Q. 
+Does the Company plan to continue this work? 
+11 
+A. 
+Yes. The BEUP will continue to provide usage information 
+12 
+for customers who must submit data to comply with Local Law 
+13 
+84 and Local Law 97. The project will expand available data 
+14 
+and portal access to a broader audience, including 
+15 
+buildings not subject to New York City benchmarking 
+16 
+compliance requirements, to enable smaller building owners 
+17 
+and managers ongoing access to their aggregated building 
+18 
+consumption data. BEUP will also re-architect the 
+19 
+benchmarking portal’s building data model to accommodate 
+20 
+multiple input types, including Building Identification 
+21 
+Number to align with City Local Law requirements, Borough 
+22 
+
+
+--- Page 42 ---
+Cases 25-E-XXXX, 25-G-XXXX 
+ 
+CONSOLIDATED EDISON COMPANY OF NEW YORK, INC. 
+INFORMATION TECHNOLOGY PANEL 
+ 
+Page 41 of 101 
+ 
+Block and Lot, Service Address, and Meter ID, while pairing 
+1 
+with Energy Star Portfolio Manager. 
+2 
+We plan to build a flexible foundational data structure to 
+3 
+anticipate and accommodate changes in reporting needs 
+4 
+associated with benchmarking data. These changes will 
+5 
+provide a comprehensive picture for building owners of 
+6 
+their energy management investments and results. 
+7 
+Q.  What capital funding is requested for BEUP in 2026-2028? 
+8 
+A. 
+The BEUP capital request is $15.42 million: $4.86 in RY1, 
+9 
+$5.42 in RY2 and $5.14 million in RY3. 
+10 
+Q.  What incremental O&M is requested for BEUP in 2026-2028? 
+11 
+A. 
+The incremental O&M request in 2026-2028 is $1.73 million: 
+12 
+$1.46 million in RY1, $0.18 million in RY2, and $0.09 
+13 
+million in RY3. 
+14 
+Enterprise Data Privacy Program  
+15 
+Q.  What is the Enterprise Data Privacy Program?  
+16 
+A. 
+Protecting customer information, including personal 
+17 
+information (PI) and personally identifiable information 
+18 
+(PII), is a corporate priority. This comprehensive 
+19 
+initiative will enhance the Company's privacy practices by 
+20 
+
+
+--- Page 43 ---
+Cases 25-E-XXXX, 25-G-XXXX 
+ 
+CONSOLIDATED EDISON COMPANY OF NEW YORK, INC. 
+INFORMATION TECHNOLOGY PANEL 
+ 
+Page 42 of 101 
+ 
+enabling it to meet evolving customer expectations and 
+1 
+legal and regulatory requirements.  
+2 
+Q. 
+What are PI and PII? 
+3 
+A. 
+PI refers to any information that is related to an 
+4 
+individual, such as names, addresses, email addresses, 
+5 
+phone numbers, and IP addresses.  
+6 
+PII can uniquely identify an individual and is more 
+7 
+sensitive than PI, as it presents a greater risk of harm to 
+8 
+both the person and our Company if it was exposed, misused, 
+9 
+or lost. Examples of PII include Social Security numbers, 
+10 
+driver's license numbers, and financial account 
+11 
+information. 
+12 
+Q. 
+Why is protecting customer PI and PII important? 
+13 
+A. 
+For several reasons. First, customers have growing 
+14 
+expectations regarding the privacy of their data and 
+15 
+provide PI and PII to companies like Con Edison with the 
+16 
+understanding that those companies will protect their data. 
+17 
+ 
+Second, customers expect to have knowledge of and control 
+18 
+over what entities do with their data, including whom they 
+19 
+share it with and how it its protected. Customers also want 
+20 
+the ability to correct any errors and request that their 
+21 
+information be erased, if appropriate. 
+22 
+
+
+--- Page 44 ---
+Cases 25-E-XXXX, 25-G-XXXX 
+ 
+CONSOLIDATED EDISON COMPANY OF NEW YORK, INC. 
+INFORMATION TECHNOLOGY PANEL 
+ 
+Page 43 of 101 
+ 
+The Company takes seriously its responsibility to collect, 
+1 
+use, process, share, and protect customer and employee PI 
+2 
+and PII. It is the Company’s position that these are the 
+3 
+needs and rights of the customers we serve, regardless of 
+4 
+the statutory or regulatory framework in the states where 
+5 
+they receive our services. 
+6 
+Historically, privacy management has primarily revolved 
+7 
+around safeguarding PII. However, evolving privacy laws, 
+8 
+increasing cyber threats and hackers, and our customers 
+9 
+growing expectations require expanding our approach to 
+10 
+privacy management to inclusively address the handling and 
+11 
+storage of all PI throughout the Company. 
+12 
+Q. 
+What actions has the Commission taken with respect to 
+13 
+customer data privacy? 
+14 
+A. 
+The Commission has issued several orders stating that 
+15 
+customers own their data and mandating the protection of 
+16 
+customer data, including requiring each utility to have a 
+17 
+third party annually assess their privacy program.  
+18 
+Q. 
+Has Con Edison undertaken these third-party assessments? 
+19 
+A. 
+Yes. Consistent with the recommendations we have received 
+20 
+from those third-party assessors, the Company’s proposals 
+21 
+focus on maturing our data privacy program. 
+22 
+Q.  What steps has the Company taken to address privacy?  
+23 
+
+
+--- Page 45 ---
+Cases 25-E-XXXX, 25-G-XXXX 
+ 
+CONSOLIDATED EDISON COMPANY OF NEW YORK, INC. 
+INFORMATION TECHNOLOGY PANEL 
+ 
+Page 44 of 101 
+ 
+A.   The Company has invested in privacy, hiring a dedicated 
+1 
+privacy team, purchasing a new enterprise-wide privacy 
+2 
+platform, and implementing the tools and processes required 
+3 
+to improve how it manages and protects personal data. The 
+4 
+Company has also enhanced legacy processes and systems to 
+5 
+build a robust privacy operations function.  
+6 
+Q. 
+Please explain the capital and O&M work proposed for the 
+7 
+Enterprise Data Privacy Program. 
+8 
+A. 
+The Company requests capital funding to enhance the program 
+9 
+and further align it with leading data privacy practices. 
+10 
+The Company plans, among other things, to establish a 
+11 
+platform to create governance and privacy controls for data 
+12 
+sharing with third parties, modern PI/PII records retention 
+13 
+and data deletion efforts, and expand privacy platform 
+14 
+functionalities to keep pace with legislative, regulatory, 
+15 
+and business requirements.  
+16 
+ 
+The Company requests O&M funding to support the “steady 
+17 
+state” of the Program to manage and scale the systems, 
+18 
+processes, tools, and controls already in place as well as 
+19 
+software licensing fees.  The existing platform needs to be 
+20 
+maintained just as other platforms and software mentioned 
+21 
+herein.  
+22 
+
+
+--- Page 46 ---
+Cases 25-E-XXXX, 25-G-XXXX 
+ 
+CONSOLIDATED EDISON COMPANY OF NEW YORK, INC. 
+INFORMATION TECHNOLOGY PANEL 
+ 
+Page 45 of 101 
+ 
+Q.  What are the key benefits of the Enterprise Data Privacy 
+1 
+program?  
+2 
+A.   The program enhances the Company’s privacy posture by 
+3 
+implementing technology solutions and business processes to 
+4 
+better manage PI and PII. These measures will protect the 
+5 
+Company’s operations against both internal and external 
+6 
+threats, as customers expect.  
+7 
+In addition to improving protections for data, the program 
+8 
+also empowers customers by allowing them to give consent to 
+9 
+share data and determine where and how their data is used. 
+10 
+Q.  What capital funding is requested for the project during 
+11 
+2026-2028?  
+12 
+A. 
+The Company is requesting $15.6 million for RY1, $16.8 
+13 
+million for RY2, and $9.4 million for RY3.  
+14 
+Q.  What O&M spending is requested for the project during 2026-
+15 
+2028?  
+16 
+A. 
+We are requesting an incremental O&M increase of $6.4 
+17 
+million in RY1, followed by an incremental decrease of $1.9 
+18 
+million in RY2 and increase of $.2 million in RY3.  
+19 
+Other Customer Projects 
+20 
+Q. 
+Is the Company proposing any additional investments in 
+21 
+customer applications, outside of those listed above and 
+22 
+included within the testimony that follows? 
+23 
+
+
+--- Page 47 ---
+Cases 25-E-XXXX, 25-G-XXXX 
+ 
+CONSOLIDATED EDISON COMPANY OF NEW YORK, INC. 
+INFORMATION TECHNOLOGY PANEL 
+ 
+Page 46 of 101 
+ 
+A. 
+Yes.  
+1 
+Q.   Please list each project’s name and funding request. 
+2 
+Retail Access System Modernization (Exhibit IT-5) The total 
+3 
+capital funding request is $31.6 million: $16.22 million in 
+4 
+RY1, $13.95 million in RY2, and $1.40 million in RY3. The 
+5 
+total incremental O&M spending request is $7.34 million: 
+6 
+$1.64 million in RY1, $3.67 million in RY2, and $2.03 
+7 
+million in RY3. 
+8 
+Community Distributed Generation Platform (Exhibit IT-5) 
+9 
+The total capital funding request is $29.7 million: $9.09 
+10 
+million in RY1, $9.91 million in RY2, and $10.69 million in 
+11 
+RY3. The total incremental O&M spending request is $9.4 
+12 
+million: $8.05 million in RY1, $0.84 million in RY2, and 
+13 
+$0.51 million in RY3. 
+14 
+Billing and Payments Enhancements (Exhibit IT-5) The total 
+15 
+capital funding request is $4 million: $3.0 million in RY1, 
+16 
+$0.50 million in RY2, and $0.50 million in RY3. The total 
+17 
+incremental O&M spending request is $0.25 million: $0.25 
+18 
+million in RY1. 
+19 
+Back Office Automation (Exhibit IT-5) The total capital 
+20 
+funding request is $31.83 million: $10.53 million in RY1, 
+21 
+$10.62 million in RY2, and $10.68 million in RY3. The total 
+22 
+
+
+--- Page 48 ---
+Cases 25-E-XXXX, 25-G-XXXX 
+ 
+CONSOLIDATED EDISON COMPANY OF NEW YORK, INC. 
+INFORMATION TECHNOLOGY PANEL 
+ 
+Page 47 of 101 
+ 
+incremental O&M spending request is $6.87 million: $6.94 
+1 
+million in RY1, and ($0.068) million in RY2. 
+2 
+Contact Center Cloud (Exhibit IT-5) The total capital 
+3 
+funding request is $12.5 million: $6.0 million in RY1, 
+4 
+$4.50 million in RY2, and $2.0 million in RY3. The total 
+5 
+incremental O&M spending request is $7.2 million: $7.1 
+6 
+million in RY1, and $0.10 million in RY2. 
+7 
+Customer Data Sharing (Exhibit IT-5) The total capital 
+8 
+funding request is $7.5 million: $2.50 million for each of 
+9 
+RY1, RY2 and RY3. The total incremental O&M spending 
+10 
+request is $0.71 million: $0.63 million in RY1, $0.04 
+11 
+million in each of RY2 and RY3. 
+12 
+Outage Communications Program (Exhibit IT-5) The total 
+13 
+capital funding request is $6.8 million: $2.40 million in 
+14 
+RY1, $2.30 million in RY2, and $2.10 million in RY3. The 
+15 
+total incremental O&M spending request is $3.41 million: 
+16 
+$1.88 million in RY1, $1.02 million in RY2, and $0.51 
+17 
+million in RY3. 
+18 
+Emergency Outage Communications Program (Exhibit IT-5) The 
+19 
+total capital funding request is $8.5 million: $2.10 
+20 
+million in RY1, $3.20 million in RY2 and RY3. The total 
+21 
+incremental O&M spending request is $2.1 million: $2.21 
+22 
+million in RY1, and ($0.11) million in RY2. 
+23 
+
+
+--- Page 49 ---
+Cases 25-E-XXXX, 25-G-XXXX 
+ 
+CONSOLIDATED EDISON COMPANY OF NEW YORK, INC. 
+INFORMATION TECHNOLOGY PANEL 
+ 
+Page 48 of 101 
+ 
+CLEAN ENERGY/OPERATIONAL PROJECTS 
+1 
+Q. 
+Please explain what projects are covered in the Clean 
+2 
+Energy/Operations category. 
+3 
+A. 
+This category covers the projects the Company undertakes to 
+4 
+facilitate the Clean Energy transition as well as projects 
+5 
+needed for electric and gas operations.  
+6 
+Clean Energy Projects 
+7 
+Q. 
+Is IT support needed for the clean energy transition? 
+8 
+A.  Absolutely. IT enables many of the capabilities needed to 
+9 
+assist the Company’s role in the transition. For example, 
+10 
+IT allows complex data management, analysis, and 
+11 
+optimization required to integrate distributed energy 
+12 
+resources (DER) – such as solar, energy storage, and 
+13 
+electric vehicle (EV) chargers - onto the grid. The 
+14 
+Company’s proposed Clean Energy initiatives are critical 
+15 
+for providing visibility into, communicating with, and 
+16 
+coordinating grid operations with these technologies to 
+17 
+support continued safe and reliable service. 
+18 
+REV-Grid Modernization and Integrated Grid Management 
+19 
+Visualization Optimization and Grid Edge Renewable 
+20 
+Laboratory  
+21 
+Q. 
+Is the Company proposing IT projects to help with the clean 
+22 
+energy transition? 
+23 
+A. 
+Yes. We have three projects:  
+24 
+
+
+--- Page 50 ---
+Cases 25-E-XXXX, 25-G-XXXX 
+ 
+CONSOLIDATED EDISON COMPANY OF NEW YORK, INC. 
+INFORMATION TECHNOLOGY PANEL 
+ 
+Page 49 of 101 
+ 
+ 
+(1) REV-Grid Modernization (DSP), enhancing clean energy 
+1 
+enabling IT systems and associated hardware, such as 
+2 
+Conservation Voltage Optimization (CVO);  
+3 
+ 
+(2) Integrated Grid Management Visualization Optimization 
+4 
+(IGMVO), improving visibility and control for DER on the 
+5 
+grid by expanding and centralizing the Company’s current 
+6 
+technology capabilities, including through phased 
+7 
+Distributed Energy Resource Management System (DERMS) 
+8 
+deployment; and  
+9 
+ 
+(3) the Grid Edge Renewable Laboratory (GERL), evaluating 
+10 
+and qualifying clean energy technologies to be deployed on 
+11 
+the grid as well as software and hardware tools for 
+12 
+monitoring, control, and data analytics. 
+13 
+Q. 
+Please describe the proposed REV-Grid Modernization (DSP) 
+14 
+program. 
+15 
+A. 
+The DSP program enhances Con Edison’s existing DSP work. 
+16 
+The DSP already provides foundational tools to support 
+17 
+integration of and benefits from DERs, including the 
+18 
+Interconnection Online Application Portal (IOAP), Demand 
+19 
+Management Tracking System (DMTS), and Demand Response 
+20 
+Management System (DRMS).  
+21 
+Q. 
+What system enhancements is the Company planning in the 
+22 
+upcoming rate years? 
+23 
+
+
+--- Page 51 ---
+Cases 25-E-XXXX, 25-G-XXXX 
+ 
+CONSOLIDATED EDISON COMPANY OF NEW YORK, INC. 
+INFORMATION TECHNOLOGY PANEL 
+ 
+Page 50 of 101 
+ 
+A. 
+The Company is planning enhancements to streamline IOAP 
+1 
+document review and add automation tools to DMTS to improve 
+2 
+the customer experience.   
+3 
+Q. 
+Please explain the Company’s CVO program. 
+4 
+A. 
+The CVO program optimizes area substation supply voltages 
+5 
+while preserving adequate voltage levels for customers. In 
+6 
+2026-2028, the Company will develop a dynamic 4kV automated 
+7 
+voltage schedule for our unit substations using AMI voltage 
+8 
+and SCADA data. 
+9 
+Q.   What is a voltage schedule and why does the Company want to 
+10 
+develop it for 4kV unit substations? 
+11 
+A. 
+A voltage schedule is an automated process using load tap 
+12 
+changer controllers to adjust substation voltages. While 
+13 
+area substations have voltage schedules, voltage change on 
+14 
+the 4kV system is a manual process. Prior investments have 
+15 
+installed controllers, allowing voltage to be controlled in 
+16 
+the same manner as area substations.   
+17 
+Q. 
+Please continue. 
+18 
+A.  The Company will develop a Dynamic 4kV voltage schedule, 
+19 
+allowing the 4kV non-network system to adjust voltage using 
+20 
+AMI and SCADA data. To do this, we need to update existing 
+21 
+equipment to accommodate additional voltage set points as 
+22 
+well as implement a new system to automate voltage 
+23 
+
+
+--- Page 52 ---
+Cases 25-E-XXXX, 25-G-XXXX 
+ 
+CONSOLIDATED EDISON COMPANY OF NEW YORK, INC. 
+INFORMATION TECHNOLOGY PANEL 
+ 
+Page 51 of 101 
+ 
+adjustment. These additional investments and set points 
+1 
+will offer optimized control of the system. These 
+2 
+investments will continue to reduce energy usage, lowering 
+3 
+energy cost and greenhouse gas emissions on the 4kV system.  
+4 
+Q. 
+Can CVO affect high tension customers? 
+5 
+A. 
+Generally, no; however, some customers have experienced 
+6 
+voltage issues at their downstream customer equipment due 
+7 
+to customer adjustments that were needed.  
+8 
+ 
+To assist high tension customers with understanding the 
+9 
+customer-side voltage levels, Con Edison provided these 
+10 
+customers with a tool to review average hourly voltage 
+11 
+readings at their meters as well as a calculated secondary 
+12 
+voltage. The Company subsequently provided three additional 
+13 
+enhancements to the tool as requested by these customers. 
+14 
+Q.  Is CVO important? 
+15 
+A. 
+Yes. There are energy and environmental benefits from this 
+16 
+program. Operating the electric system at optimal voltages 
+17 
+reduces total energy consumption as well as associated 
+18 
+generation emissions. By leveraging the SCADA and AMI 
+19 
+system, the Company can reduce energy usage on the 4kV 
+20 
+grid, achieving additional CO2 emissions reductions.  
+21 
+Q. 
+What capital funding is requested for DSP during 2026-2028? 
+22 
+
+
+--- Page 53 ---
+Cases 25-E-XXXX, 25-G-XXXX 
+ 
+CONSOLIDATED EDISON COMPANY OF NEW YORK, INC. 
+INFORMATION TECHNOLOGY PANEL 
+ 
+Page 52 of 101 
+ 
+A.   The capital request for DSP in 2026-2028 is $171.24 
+1 
+million: $57.76 million in RY1, $57.39 million in RY2 and 
+2 
+$56.09 million in RY3. 
+3 
+Q.   What incremental O&M is requested for DSP for 2026-2028? 
+4 
+A.   The total incremental O&M request in 2026-2028 is $0.52 
+5 
+million. 
+6 
+Integrated Grid Management Visualization Optimization 
+7 
+and Grid Edge Renewable Laboratory  
+8 
+Q. 
+Please explain the Integrated Grid Management Visualization 
+9 
+Optimization (IGMVO) project. 
+10 
+A. 
+Con Edison is developing the IGMVO to facilitate DER 
+11 
+coordination with traditional grid assets and maximize DER 
+12 
+value to the grid and customers. The IT platforms, system 
+13 
+integrations, and business processes developed through 
+14 
+IGMVO will centralize intelligence, visibility, and control 
+15 
+of DER assets across the Company, leveraging a forward-
+16 
+looking modular, phased IT approach, where customer and 
+17 
+operational value are realized as IT products are 
+18 
+delivered. IGMVO includes the Company’s multi-phase DERMS 
+19 
+effort to support grid optimization through visualization 
+20 
+and DER enablement. The Company plans to build on and 
+21 
+enhance the phased deployment of DERMS capabilities.  
+22 
+
+
+--- Page 54 ---
+Cases 25-E-XXXX, 25-G-XXXX 
+ 
+CONSOLIDATED EDISON COMPANY OF NEW YORK, INC. 
+INFORMATION TECHNOLOGY PANEL 
+ 
+Page 53 of 101 
+ 
+Q.  What work has the Company completed so far in its phased 
+1 
+DERMS deployment? 
+2 
+A. 
+From 2023-2025, under its DER Integration and Management 
+3 
+program, the Company enhanced the accuracy and quality of 
+4 
+its DER data, consolidated it into a system of record (the 
+5 
+DER Asset Repository), established reporting automation, 
+6 
+and supported the NYISO’s DER participation model launch. 
+7 
+The Company also assessed requirements for DER-inclusive 
+8 
+load flow models that address the unique scale and 
+9 
+complexity of Con Edison’s network and non-network 
+10 
+topology. Finally, Con Edison established an ongoing 
+11 
+partnership with a software provider to develop their 
+12 
+modular, scalable DERMS software for base functionality, 
+13 
+adjusting as complexity grows.  
+14 
+Q.  Please describe the Company’s DERMS proposal. 
+15 
+A. 
+In addition to building on existing DERMS capabilities, we 
+16 
+plan to pursue additional functionality for DER monitoring, 
+17 
+control, and grid operations. These investments will 
+18 
+integrate DER and aggregator activities into traditional 
+19 
+grid operations, offering operators and engineers greater 
+20 
+visibility into DER performance, and continuing to enable 
+21 
+DER value. 
+22 
+Q.  Please describe the additional IGMVO investments. 
+23 
+
+
+--- Page 55 ---
+Cases 25-E-XXXX, 25-G-XXXX 
+ 
+CONSOLIDATED EDISON COMPANY OF NEW YORK, INC. 
+INFORMATION TECHNOLOGY PANEL 
+ 
+Page 54 of 101 
+ 
+A. 
+The IGMVO investments will enhance customer hosting 
+1 
+capacity visibility to make it easier for customers to 
+2 
+interconnect DER, expand traditional grid operation tools, 
+3 
+such as the Distribution Management system, to provide 
+4 
+greater visibility to the grid edge and DER operations, and 
+5 
+develop customer tools to inform their interconnection 
+6 
+decisions. As DER operations grow in complexity, so will 
+7 
+operational, modeling, and simulation scenarios. IGMVO’s 
+8 
+proposed monitoring, modeling, and simulation capabilities 
+9 
+will enhance the Company’s ability to perform scenario 
+10 
+analysis by developing a grid model specifically in support 
+11 
+of DER interconnection in hosting capacity-constrained 
+12 
+areas. Additionally, integrating developed modeling tools 
+13 
+with the queued and active DER Asset Repository will 
+14 
+provide an automated link to DER data, saving time normally 
+15 
+spent manually referencing projects.   
+16 
+Q.  How does the IGMVO project leverage the foundation 
+17 
+developed under the DSP program? 
+18 
+A. 
+IGMVO builds upon the DSP. For example, the DER Asset 
+19 
+Repository will integrate with IOAP and DRMS data and 
+20 
+generate a distribution system model with centralized DER 
+21 
+visibility and operations.  
+22 
+
+
+--- Page 56 ---
+Cases 25-E-XXXX, 25-G-XXXX 
+ 
+CONSOLIDATED EDISON COMPANY OF NEW YORK, INC. 
+INFORMATION TECHNOLOGY PANEL 
+ 
+Page 55 of 101 
+ 
+ 
+DSP work and IGVMO buildout are complementary investments 
+1 
+required to develop a scalable and holistic approach to DER 
+2 
+integration and operation.  
+3 
+Q.   What capital funding is requested for IGMVO in 2026-2028? 
+4 
+A.   The IGVMO capital request for IGMVO is $84.93 million: 
+5 
+$26.95 million in RY1, $30.78 million in RY2 and $27.20 
+6 
+million in RY3. 
+7 
+Q.   What incremental O&M is requested for IGMVO in 2026-2028? 
+8 
+A.   The incremental O&M request is $5.97 million: $3.03 million 
+9 
+in RY1, $0.96 million in RY2, and $1.98 million in RY3. 
+10 
+This incremental O&M request supports both an O&M tail as 
+11 
+well as anticipated O&M for requested projects.  
+12 
+Grid Edge Renewable Laboratory  
+13 
+Q.  How will Con Edison evaluate IGMVO and DSP technologies to 
+14 
+support acceleration of DER integration with the grid and 
+15 
+customer adoption of these technologies? 
+16 
+A. 
+Con Edison plans to use the in-progress Grid Edge Renewable 
+17 
+Laboratory (GERL) to evaluate DERMS and other utility- and 
+18 
+customer-sided clean energy technologies. The GERL will 
+19 
+test and analyze these technologies using software and 
+20 
+hardware. The GERL software and hardware environment is 
+21 
+physically and cyber secure and isolated from operational 
+22 
+networks and the distribution system. This environment 
+23 
+
+
+--- Page 57 ---
+Cases 25-E-XXXX, 25-G-XXXX 
+ 
+CONSOLIDATED EDISON COMPANY OF NEW YORK, INC. 
+INFORMATION TECHNOLOGY PANEL 
+ 
+Page 56 of 101 
+ 
+supports partnerships with third-party providers of utility 
+1 
+DER integration technologies, allows the Company to safely 
+2 
+test and qualify new technologies for integration with the 
+3 
+grid, and expedites pilot project activities. For example, 
+4 
+GERL will test communication protocols to refine the 
+5 
+Company’s planned utility-side technologies, test and 
+6 
+validate the cybersecurity and performance of both utility- 
+7 
+and customer-side resource integration with utility 
+8 
+systems, and train operational employees in a simulated 
+9 
+environment. The GERL will also enhance the design, 
+10 
+development, and deployment of future DERMS capabilities.   
+11 
+Q. 
+What capital funding is requested for GERL in 2026-2028? 
+12 
+A.   The capital request for GERL is $21.93 million: $7.28 in 
+13 
+RY1, $7.95 in RY2 and $6.70 million in RY3. 
+14 
+Q.   What incremental O&M is requested for GERL in 2026-2028? 
+15 
+A.   The incremental O&M request is $4.80 million: $1.50 million 
+16 
+in RY1, $0.60 million in RY2, and $2.70 million in RY3. 
+17 
+Clean Energy Mapping Platform  
+18 
+Q.  What is the Clean Energy Mapping Platform? 
+19 
+A. 
+CEM is the next generation GIS platform, developed to 
+20 
+accurately represent and manage complex infrastructure 
+21 
+networks for electricity, gas, and steam. This advanced GIS 
+22 
+software visualizes utility infrastructure with features 
+23 
+
+
+--- Page 58 ---
+Cases 25-E-XXXX, 25-G-XXXX 
+ 
+CONSOLIDATED EDISON COMPANY OF NEW YORK, INC. 
+INFORMATION TECHNOLOGY PANEL 
+ 
+Page 57 of 101 
+ 
+for tracing connections, identifying outages, and analyzing 
+1 
+network performance.  
+2 
+Q. 
+Please explain the scope of the Clean Energy Mapping 
+3 
+Platform. 
+4 
+A. 
+The first eGIS project is being implemented on a Geometric 
+5 
+Network (GN) model, which the vendor will only support 
+6 
+until 2028. The Company will upgrade from the GN to the 
+7 
+Utility Network (UN) model.  Using UN will build on 
+8 
+foundational system capabilities to facilitate the clean 
+9 
+energy transition and manage regulatory requirements, such 
+10 
+as the Climate Leadership and Community Protection Act 
+11 
+(CLCPA).  
+12 
+The Company plans to begin this project with enough lead 
+13 
+time to maintain vendor support of the GN model throughout. 
+14 
+The Company will implement the enterprise-wide upgrade to 
+15 
+the UN by commodity, phased based on the maturity on the GN 
+16 
+model.  
+17 
+Q. 
+Please continue. 
+18 
+A. 
+For this implementation, the Company will engage a GIS 
+19 
+product vendor and system integrator, following a similar 
+20 
+process used for the GN implementation. This partner will 
+21 
+catalog the current eGIS network, prepare and migrate the 
+22 
+data, configure and customize the system, and test and 
+23 
+
+
+--- Page 59 ---
+Cases 25-E-XXXX, 25-G-XXXX 
+ 
+CONSOLIDATED EDISON COMPANY OF NEW YORK, INC. 
+INFORMATION TECHNOLOGY PANEL 
+ 
+Page 58 of 101 
+ 
+deploy the UN for each business. Some key activities 
+1 
+include developing the software package, coding system 
+2 
+customizations, providing system integrator services, 
+3 
+performing data conversion, and developing system 
+4 
+architecture. 
+5 
+Q.   Please explain the work that has been completed from the 
+6 
+first project, eGIS Implementation. 
+7 
+A.   eGIS Phase 1 and Phase 2 are complete. Phase 1 replaced the 
+8 
+Company’s VISION system, which consists of low-tension maps 
+9 
+for all electric customers supplied by 120V and 465V 
+10 
+distribution class cables and transformers and all gas 
+11 
+customers supplied by gas service pipes.  
+12 
+Phase 2 replaced electric Primary feeders and high-tension 
+13 
+maps and the Staten Island Mapping system.  
+14 
+Q.  What other phases are currently underway in the eGIS 
+15 
+Implementation project? 
+16 
+A.  Phase 3 is currently in flight and converts the Company’s 
+17 
+Conduit and Duct Occupancy mapping system, which is a 
+18 
+compilation of static PDF images, to a modern GIS platform. 
+19 
+Phase 3 began in 2024 and with completion expected by 2026.  
+20 
+Q. 
+What about steam? 
+21 
+
+
+--- Page 60 ---
+Cases 25-E-XXXX, 25-G-XXXX 
+ 
+CONSOLIDATED EDISON COMPANY OF NEW YORK, INC. 
+INFORMATION TECHNOLOGY PANEL 
+ 
+Page 59 of 101 
+ 
+A. 
+The Steam GIS upgrade stared in 2024, and will be completed 
+1 
+in 2026, after which time it will need to be upgraded to 
+2 
+UN. 
+3 
+Q.   What are the benefits of upgrading to the UN?  
+4 
+A. 
+Some benefits include: 
+5 
+• Cybersecurity and upgrading to the latest version with 
+6 
+vendor support.  
+ 
+7 
+• Enhanced functionality, including 3D modeling, conduit 
+8 
+mapping, data organization, and out of the box 
+9 
+functionality.  
+10 
+Q.  What is the schedule for the upgrade to the UN? 
+11 
+A.   The current plan is a six-year upgrade, starting in  
+12 
+ 
+2026, and going through 2032. 
+13 
+Q.  What capital funding is requested for this project during 
+14 
+the rate period? 
+15 
+A.  The capital funding requested is $30 million in RY1, $35 
+16 
+million in RY2 and $35 million in RY3, totaling $100 
+17 
+million. 
+18 
+Operational Projects 
+19 
+Q. 
+What does the Company mean by operational projects? 
+20 
+A. 
+IT-related projects that assist operational areas. 
+21 
+Q. 
+How do these projects assist operational areas? 
+22 
+
+
+--- Page 61 ---
+Cases 25-E-XXXX, 25-G-XXXX 
+ 
+CONSOLIDATED EDISON COMPANY OF NEW YORK, INC. 
+INFORMATION TECHNOLOGY PANEL 
+ 
+Page 60 of 101 
+ 
+A. 
+Throughout the Company, there are various systems that help 
+1 
+employees perform their daily functions. For example, electric 
+2 
+Control Center and distribution employees rely on outage 
+3 
+management systems for visibility into outage and other 
+4 
+emergency conditions to safely respond and remedy abnormal 
+5 
+conditions and restore outages. These same platforms help 
+6 
+our customer operations employees to discuss the outage 
+7 
+with customers, our corporate communications employees to 
+8 
+speak to elected officials and media, and our claims 
+9 
+employees to understand if the claim is appropriate. 
+10 
+OMS Resiliency and Sustainability and OMS System 
+11 
+Hardening and Modernization 
+12 
+Q. 
+Please describe the Company’s current Outage Management 
+13 
+System (OMS) (Exhibit IT-6). 
+14 
+A. 
+OMS is the primary means of managing, tracking, and 
+15 
+resolving electric distribution system customer outages. 
+16 
+System inputs include, for example, customer outage 
+17 
+reports, damage assessment, SCADA, AMI, and manual user 
+18 
+input. The Company is proposing two projects to improve OMS 
+19 
+resiliency.   
+20 
+Q. 
+Please describe the OMS Resiliency and Sustainability 
+21 
+Project. 
+22 
+
+
+--- Page 62 ---
+Cases 25-E-XXXX, 25-G-XXXX 
+ 
+CONSOLIDATED EDISON COMPANY OF NEW YORK, INC. 
+INFORMATION TECHNOLOGY PANEL 
+ 
+Page 61 of 101 
+ 
+A. 
+This project will upgrade to the latest software version 
+1 
+and enhance mobile capabilities for field operations.  
+2 
+Q. 
+Why perform this project?  
+3 
+A. 
+To keep pace with the latest industry OMS capabilities, the 
+4 
+Company must continually upgrade to the latest version.  It 
+5 
+allows the Company to address storms of ever-increasing 
+6 
+intensity and maintain reliability. 
+7 
+Q. 
+Please explain the enhancements available from this 
+8 
+upgrade.   
+9 
+A. 
+The enhancements include improving field access to the 
+10 
+electric distribution model, modernizing customer call and 
+11 
+SCADA integrations into a scalable platform. 
+12 
+Q. 
+Are there other enhancements considered for OMS? 
+13 
+A. 
+Yes.  For example, the Company plans to implement an 
+14 
+instance of its Outage Management System in Oracle Cloud. 
+15 
+And incorporate other data points into OMS. 
+16 
+Q. 
+Turning to OMS System Hardening and Modernization, please 
+17 
+describe this project. 
+18 
+A. 
+We plan to modernize platforms, such as Weather Impact and 
+19 
+Forecasting and Municipal Dashboard. The enhanced weather 
+20 
+impact planning and forecasting model will assist in the 
+21 
+analysis of storm impact predictions on the Company’s 
+22 
+equipment. The Company, in turn, can enhance prediction and 
+23 
+
+
+--- Page 63 ---
+Cases 25-E-XXXX, 25-G-XXXX 
+ 
+CONSOLIDATED EDISON COMPANY OF NEW YORK, INC. 
+INFORMATION TECHNOLOGY PANEL 
+ 
+Page 62 of 101 
+ 
+allocation of crews to prevent and fix damage on the 
+1 
+Company’s equipment due to weather.  
+2 
+ 
+The municipal dashboard will enhance bi-directional 
+3 
+communication between the Company and the municipalities. 
+4 
+Q. 
+Why undertake this project? 
+5 
+A. 
+The project will avoid technology obsolescence and enhance 
+6 
+collaboration and analytics.  
+7 
+Q.   What capital funding is requested for these projects in 
+8 
+2026-2028? 
+9 
+A.   The capital funding requested for OMS Resiliency and 
+10 
+Sustainability is $13.4 million in RY1, $13.2 million in 
+11 
+RY2 and $12.9 million in RY3. The capital funding requested 
+12 
+for OMS System Hardening and Modernization is $24.9 million 
+13 
+in RY1, $19.1 million in RY2 and $13.8 million in RY3. 
+14 
+Q.   What incremental O&M spending is requested in 2026-2028? 
+15 
+A.   The requested OMS Resiliency and Sustainability project 
+16 
+incremental O&M is $0.5 million in RY1, $0 in RY2, and $0.6 
+17 
+million in RY3. The requested OMS System Hardening and 
+18 
+Modernization project incremental O&M is $1.4 million in 
+19 
+RY1, $0.5 million in RY2, and $1.6 million in RY3.  
+20 
+Other Operational Projects 
+21 
+Q.    Are there other operational projects included in the rate 
+22 
+case that are not detailed in the testimony?  
+23 
+
+
+--- Page 64 ---
+Cases 25-E-XXXX, 25-G-XXXX 
+ 
+CONSOLIDATED EDISON COMPANY OF NEW YORK, INC. 
+INFORMATION TECHNOLOGY PANEL 
+ 
+Page 63 of 101 
+ 
+A.  Yes.  
+1 
+Q.   Please provide the project name and its associated capital 
+2 
+and O&M funding request.   
+3 
+A.   The project names are as follows: 
+4 
+Enterprise Geographic Information System (eGIS) 
+5 
+Implementation Phase 3 (Exhibit IT-6) The total capital 
+6 
+funding request is $43.3 million in RY1.  
+7 
+Control Center Resiliency Phase 2 (Exhibit IT-6) The total 
+8 
+capital funding request is $16.46 million: $6.29 million in 
+9 
+RY1, $4.42 million in RY2, and $5.75 million in RY3. The 
+10 
+total incremental O&M spending request is $3.97 million: 
+11 
+$3.1 million in RY1, $3.37 million in RY2 and ($2.5) 
+12 
+million in RY3. 
+13 
+DECC SCADA(CDMS) Upgrade 2026 (Exhibit IT-6) The total 
+14 
+capital funding request is $9.55 million: $4.65 million in 
+15 
+RY1, $4.15 million in RY2 and $0.75 million in RY3. The 
+16 
+total incremental O&M request is $1.96 million: $1.5 
+17 
+million in RY2 and $0.46 million in RY3. 
+18 
+Gas IT Projects-GOSS and Gas Application and Hardware 
+19 
+Upgrade (Exhibit IT-6) The total capital funding request is 
+20 
+$5.10 million: $3.0 million in RY1, $1.4M in RY2 and $.70 
+21 
+million in RY3. The total incremental O&M request is $0.75 
+22 
+million: $0.25 million in RY1, and $0.50 million in RY2. 
+23 
+
+
+--- Page 65 ---
+Cases 25-E-XXXX, 25-G-XXXX 
+ 
+CONSOLIDATED EDISON COMPANY OF NEW YORK, INC. 
+INFORMATION TECHNOLOGY PANEL 
+ 
+Page 64 of 101 
+ 
+IT OT Tower Sustainability (Exhibit IT-6) The total capital 
+1 
+funding request is $13.66 million: $4.11 million in RY1, 
+2 
+$4.23 million in RY2 and $5.32 million in RY3. The total 
+3 
+incremental O&M request is $0.70 million: $0.30 million in 
+4 
+each of RY1-RY2, and $0.10 million in RY3.  
+5 
+IT System Testing COE (Exhibit IT-6) The total capital 
+6 
+funding request is $53.47 million: $20.26 million in RY1, 
+7 
+$16.35 million in RY2 and $16.86 million in RY3. The total 
+8 
+incremental O&M spending request is $0.44 million: $0.04 
+9 
+million in RY1, $0.41 million in RY2 and ($0.01) million in 
+10 
+RY3. 
+11 
+OpNet (Exhibit IT-6) The total capital funding request is 
+12 
+$30.66 million: $15.93 million in RY1, $8.63 million in RY2 
+13 
+and $6.1 million in RY3. The total incremental O&M spending 
+14 
+request is $0.8 million: $0.76 million in RY1, and $0.04 
+15 
+million in RY2. 
+16 
+Storm Response Technology Advancements (Exhibit IT-6) The 
+17 
+total capital funding request is $17.99 million: $9.3 
+18 
+million in RY1, $5.79 million in RY2 and $2.9 million in 
+19 
+RY3. The total incremental O&M spending request is $1.2 
+20 
+million: $0.10 million in RY1, $0.45 million in RY2 and 
+21 
+$0.65 million in RY3. 
+22 
+
+
+--- Page 66 ---
+Cases 25-E-XXXX, 25-G-XXXX 
+ 
+CONSOLIDATED EDISON COMPANY OF NEW YORK, INC. 
+INFORMATION TECHNOLOGY PANEL 
+ 
+Page 65 of 101 
+ 
+Transforming Outage Management with Advanced AMI 
+1 
+Integrations (Exhibit IT-6) The total capital request is 
+2 
+$35.91 million: $6.51 million in RY1, $6.93 million in RY2, 
+3 
+and $22.47 million in RY3. The total incremental O&M 
+4 
+request is $0.02 million in RY1.  
+5 
+AMI Systems Sustainability Program (Exhibit IT-6) The total 
+6 
+capital request is $38.9 million: $21.9 million in RY1, 
+7 
+$10.9 million in RY2, and $6.1 million in RY3. The total 
+8 
+incremental O&M request is $6.96 million: $5.1 million in 
+9 
+RY1, $1.0 million in RY2 and $0.86 million in RY3. 
+ 
+10 
+AMI Communication Network Steady-State (Exhibit IT-6) The 
+11 
+total capital funding request is $8.37 million: $2.83 
+12 
+million in RY1, $2.77 million in each of RY2-RY3. 
+13 
+CORE APPLICATIONS 
+14 
+Q. 
+What is meant by “Core” application projects? 
+15 
+A. 
+Though these can be many things, our Core applications 
+16 
+projects focus on those enterprise-wide systems used by 
+17 
+many employees.    
+18 
+Q. 
+What projects will you discuss under the Core Application 
+19 
+category. 
+20 
+A.  The Core Application category projects or programs are: 
+21 
+• 
+Work and Asset Management Platforms 
+22 
+o 
+Maximo Consolidation Program - Phase 2  
+23 
+
+
+--- Page 67 ---
+Cases 25-E-XXXX, 25-G-XXXX 
+ 
+CONSOLIDATED EDISON COMPANY OF NEW YORK, INC. 
+INFORMATION TECHNOLOGY PANEL 
+ 
+Page 66 of 101 
+ 
+o 
+Electric – CGI ARM Replacement  
+1 
+• 
+Finance and Supply Chain Transformation Project 
+2 
+• 
+Fixed Asset and Tax Accounting Transformation 
+3 
+Work and Asset Management Platforms 
+4 
+Q.  Please explain the Work and Asset Management portfolio. 
+5 
+A. 
+The Work and Asset Management (WAMS) portfolio consists of 
+6 
+multiple systems and two major vendor platforms: CGI’s 
+7 
+Asset Resource Management (ARM) platform and IBM Maximo 
+8 
+platforms. A WAMS platform manages all aspects of our field 
+9 
+assets (e.g., transformers, gas mains) and associated work 
+10 
+such as: scheduling, dispatching and maintenance 
+11 
+inspections.  As discussed in the 2022 rate case, we 
+12 
+developed a comprehensive roadmap to consolidate all WAMS 
+13 
+systems into “One Enterprise” Maximo platform.  
+14 
+Q. 
+What work have you done in this area? 
+15 
+A. 
+Under funding in the current rate plan, we migrated 14 
+16 
+systems into the Maximo WAMS platform and 11 systems are 
+17 
+on-target by the end of 2025.  
+18 
+Q. 
+What work are you planning for 2026-2028? 
+19 
+A. 
+We are requesting $155 million for the portfolio.  Eight 
+20 
+major projects account for 78 percent of the requested $155 
+21 
+million. See Figure 1 in WMS Exhibit IT-11 for the overall 
+22 
+Maximo roadmap. 
+23 
+
+
+--- Page 68 ---
+Cases 25-E-XXXX, 25-G-XXXX 
+ 
+CONSOLIDATED EDISON COMPANY OF NEW YORK, INC. 
+INFORMATION TECHNOLOGY PANEL 
+ 
+Page 67 of 101 
+ 
+Q. 
+If this work is completed by 2028, what WAMS work remains? 
+1 
+A. 
+Migration of Electric and Gas Work Management Systems to 
+2 
+Maximo and ongoing support required for the existing Maximo 
+3 
+application. 
+4 
+Q. 
+Please discuss the larger projects that make up the Work 
+5 
+and Asset Management portfolio.  
+6 
+A. 
+We will discuss two of these projects. First, Maximo 
+7 
+Consolidation Program Phase 2 will migrate various 
+8 
+applications used by different departments into the Maximo 
+9 
+platform.  Second, we will migrate the Electric 
+10 
+Distribution WAMS to the Maximo platform. 
+11 
+ 
+The other projects are described in Exhibit IT-11.  
+12 
+Q. 
+Please discuss Maximo Consolidation Project Phase 2. 
+13 
+A. 
+Having all Work and Asset Management applications moved 
+14 
+into a consolidated solution enables Con Edison to realize 
+15 
+the synergies of a true enterprise solution. These 
+16 
+synergies include functions associated with asset 
+17 
+management life cycle, migrating paper forms used by field 
+18 
+forces for time reporting and automating accounting-related 
+19 
+work for distribution and transmission assets. 
+20 
+Q. 
+How many systems will be migrated in 2026-2028? 
+21 
+A. 
+We will migrate 14 legacy (separate from the Electric 
+22 
+Distribution WAMS) applications to Maximo. Some examples 
+23 
+
+
+--- Page 69 ---
+Cases 25-E-XXXX, 25-G-XXXX 
+ 
+CONSOLIDATED EDISON COMPANY OF NEW YORK, INC. 
+INFORMATION TECHNOLOGY PANEL 
+ 
+Page 68 of 101 
+ 
+include: Substation Mobile Project, Information Resources 
+1 
+Inventory System Mobile Project, Environment Health and 
+2 
+Safety (EH&S) Key Performance Indicator System Project, 
+3 
+EH&S Design, and Cable and Reels Bar Code Scanning 
+4 
+implementation.  
+5 
+Q. 
+What type of work is associated with migrating from the 
+6 
+legacy system into the common platform? 
+7 
+A. 
+The work will follow the software development life cycle.  
+8 
+The team will conduct workshops to design how the existing 
+9 
+functions will work in Maximo, convert legacy data, etc.  
+10 
+The business team will test to accept the new design before 
+11 
+deploying for use by the business.  
+12 
+Q.   What capital funding is requested for the Maximo 
+13 
+Consolidation Program - Phase 2 project? 
+14 
+A.   The capital funding requested is $36.3 million: $13.3 
+15 
+million in RY1, $12.7 million in RY2, and $10.3 million in 
+16 
+RY3. 
+17 
+Q.   What, if any, incremental O&M spending is required for the 
+18 
+Maximo Consolidation Program - Phase 2 project during the 
+19 
+2026-2028 period? 
+20 
+A.   There is a total incremental O&M spending of $1.55 million: 
+21 
+$1.5 million in RY1 and $0.05 million RY2 for this project 
+22 
+in 2026-2028. 
+23 
+
+
+--- Page 70 ---
+Cases 25-E-XXXX, 25-G-XXXX 
+ 
+CONSOLIDATED EDISON COMPANY OF NEW YORK, INC. 
+INFORMATION TECHNOLOGY PANEL 
+ 
+Page 69 of 101 
+ 
+Q. 
+Please describe the other large WAMS project, Electric – 
+1 
+CGI ARM Replacement Project. 
+2 
+A. 
+This project will migrate the current Electric Operations’ 
+3 
+Work and Asset Management system to IBM’s Maximo platform. 
+4 
+The platform manages our field assets (e.g., transformers) 
+5 
+and associated work such as: scheduling, dispatching and 
+6 
+maintenance inspections. We continue to experience 
+7 
+technical challenges with the existing vendor, increasing 
+8 
+our risk to support this platform.  
+9 
+Q. 
+Please continue. 
+10 
+A. 
+The current vendor's failure to meet product roadmap 
+11 
+deliverables demonstrates a lack of investment. They have 
+12 
+not upgraded their legacy technology or added new functions 
+13 
+like iOS support, Intelligent Asset Management, or AI 
+14 
+insights, which their competitor Maximo has implemented. 
+15 
+Q. 
+What is the justification for this project? 
+16 
+A.  This project is consistent with IT’s strategy of moving to 
+17 
+a “One Enterprise” Work and Asset Management solution for 
+18 
+all Con Edison’s business areas.  
+19 
+Q.  Does the Company forecast additional capital for the 
+20 
+Electric ARM replacement project beyond 2028? 
+21 
+A.  Yes, the Electric - ARM Replacement Project will begin in 
+22 
+2026 and continue until 2030. 
+23 
+
+
+--- Page 71 ---
+Cases 25-E-XXXX, 25-G-XXXX 
+ 
+CONSOLIDATED EDISON COMPANY OF NEW YORK, INC. 
+INFORMATION TECHNOLOGY PANEL 
+ 
+Page 70 of 101 
+ 
+Q.  Why is the project taking five years to implement? 
+1 
+A.  The first two years of the project will develop a common 
+2 
+design with O&R and foundational building blocks (e.g., 
+3 
+Compatible Unit library, process standardization, asset 
+4 
+accounting, etc.) for a Distribution system. 
+5 
+Q. 
+What capital funding is requested for the Electric – ARM 
+6 
+Replacement project during 2026-2028? 
+7 
+A.   The capital funding required for this project is $2 million 
+8 
+in each of RY1 and RY2, and $12 million in RY3.  Additional 
+9 
+funding will be requested in successive rate cases. 
+10 
+Finance and Supply Chain Transformation Project 
+11 
+Q. 
+Please describe the Finance and Supply Chain Transformation 
+12 
+project.  
+13 
+A. 
+This project will move the Company’s Enterprise Resource 
+14 
+Planning (ERP) systems to the Cloud. As part of this move, 
+15 
+the project will overhaul our Finance and Supply Chain 
+16 
+operations.  
+17 
+Q. 
+How will this move overhaul Finance and Supply Chain 
+18 
+operations?  
+19 
+A. 
+The process of moving the Company’s ERP systems involves 
+20 
+comprehensively reviewing existing systems and operational 
+21 
+processes to accept built-in “best practices” and minimize 
+22 
+customizations.    
+23 
+
+
+--- Page 72 ---
+Cases 25-E-XXXX, 25-G-XXXX 
+ 
+CONSOLIDATED EDISON COMPANY OF NEW YORK, INC. 
+INFORMATION TECHNOLOGY PANEL 
+ 
+Page 71 of 101 
+ 
+Q. 
+Why is the Company undertaking this project?  
+1 
+A. 
+There are two primary reasons. First, Oracle will no longer 
+2 
+support the existing on-premises EBS (12.2.X) after 
+3 
+2034. Although this is years away, we estimate that this 
+4 
+migration is a three-year project and will avoid a non-
+5 
+cloud platform upgrade.   
+6 
+Second, Oracle products will strengthen cybersecurity 
+7 
+through frequent security updates and improve 
+8 
+organizational security by providing a robust framework 
+9 
+with access controls, identity management, encryption, data 
+10 
+masking, and redaction.  
+11 
+Q. 
+What are the benefits of this project?  
+12 
+A. 
+Benefits include process efficiencies through AI and 
+13 
+enterprise integration, as the Company has already 
+14 
+transitioned other key systems to Oracle Cloud, including 
+15 
+Budgeting and Forecasting, Business Intelligence, Human 
+16 
+Capital Management, and Project Management (Primavera).  
+17 
+Q. 
+What level of capital funding is requested for this project 
+18 
+during the rate years?  
+19 
+A. 
+We are proposing a total capital investment of $312.2 
+20 
+million: $130.5 million in RY1, $135 million in RY2, and 
+21 
+$46.7 million in RY3.  
+22 
+Q. 
+What is this capital funding needed for?  
+23 
+
+
+--- Page 73 ---
+Cases 25-E-XXXX, 25-G-XXXX 
+ 
+CONSOLIDATED EDISON COMPANY OF NEW YORK, INC. 
+INFORMATION TECHNOLOGY PANEL 
+ 
+Page 72 of 101 
+ 
+A. 
+This capital funding is needed for design, development, and 
+1 
+testing of the new Oracle Cloud system, which will include 
+2 
+more than 500 integrations across more than 40 systems.  
+3 
+Q. 
+Is the Company requesting incremental O&M funding to 
+4 
+support this project during the rate years?  
+5 
+A. 
+Yes. We are requesting a total incremental O&M spending of 
+6 
+$1.921 million: $0.104 million in RY1, and $0.017 million 
+7 
+in RY2, and $1.8 million in RY3 for additional subscription 
+8 
+fees and support costs.   
+9 
+Q.   Are there any other projects associated with Finance and 
+10 
+Supply Chain Transformation? 
+11 
+A.   Yes. There are two projects: the Supply Chain-Stores Space 
+12 
+Optimization project and the Fixed Asset and Tax Accounting 
+13 
+Transformation project. 
+14 
+Q. 
+Please explain the Supply Chain Stores Space Optimization 
+15 
+project. 
+16 
+A. 
+This overall space optimization project, explained by the 
+17 
+Shared Services Panel, will optimize the Company’s existing 
+18 
+warehouse and storerooms, maximizing storage capacity. The 
+19 
+transformation will include warehouse modernization, which 
+20 
+will be enabled by the new product and is considered an IT 
+21 
+project. 
+22 
+
+
+--- Page 74 ---
+Cases 25-E-XXXX, 25-G-XXXX 
+ 
+CONSOLIDATED EDISON COMPANY OF NEW YORK, INC. 
+INFORMATION TECHNOLOGY PANEL 
+ 
+Page 73 of 101 
+ 
+Fixed Asset and Tax Accounting Transformation 
+1 
+Q. 
+Please explain the current proposal for the Fixed Asset and 
+2 
+Tax Accounting Transformation project. 
+3 
+A.  This project will implement process and technology 
+4 
+improvements related to the “acquire to retire” financial 
+5 
+cycle for utility assets. The scope of this effort includes 
+6 
+fixed asset accounting, book depreciation, tax 
+7 
+depreciation, lease accounting, tax repairs, deferred 
+8 
+taxes, tax provision, and property taxes. 
+9 
+Q.  Why is the Company proposing the Fixed Asset and Tax 
+10 
+Accounting Transformation project? 
+11 
+A.  Currently, there are several issues: we have legacy systems 
+12 
+for these process that are less then optimal, and other 
+13 
+vendors systems are expected to sunset support.  Then, we 
+14 
+are seeing a trend of new systems that provide an end-to-
+15 
+end process.   
+16 
+As part of the project, the Company will detail our 
+17 
+requirements for the technology to support the in-scope 
+18 
+processes, evaluate available system solutions, and then 
+19 
+design and implement the new end-to-end solution.  
+20 
+Q.  What are the benefits of this project? 
+21 
+
+
+--- Page 75 ---
+Cases 25-E-XXXX, 25-G-XXXX 
+ 
+CONSOLIDATED EDISON COMPANY OF NEW YORK, INC. 
+INFORMATION TECHNOLOGY PANEL 
+ 
+Page 74 of 101 
+ 
+A.  The volume of traditional utility investments is growing 
+1 
+and the complexity of new types of utility investments is 
+2 
+also increasing. All this capital activity needs to be 
+3 
+accurately accounted for on the financial statements. 
+4 
+This new system, combined with streamlined and standard 
+5 
+integration with other systems (e.g., Stores and Financial 
+6 
+systems) will streamline the month-end closing cycle, 
+7 
+reduce data anomalies, improve system reliance, and 
+8 
+eliminate one-off legacy customizations 
+9 
+Q.  What capital funding is requested for the Fixed Asset and 
+10 
+Tax Accounting Transformation project in 2026-2028? 
+11 
+A.  The capital funding requested is $25.7 million in RY1, 
+12 
+$25.8 million in RY2 and $13.1 million in RY3.  
+13 
+Q.  What, if any, incremental O&M spending is required for this 
+14 
+project during the 2026-2028 period? 
+15 
+A.  The incremental O&M funding requested is $0.6 million in 
+16 
+RY1, $0.3 million in RY2 and $0.3 million in RY3. 
+17 
+Other Core Application 
+18 
+Q.  Are there any other projects or programs included in the 
+19 
+rate case that are not detailed in the testimony?  
+20 
+A.  The project names are as follows:  
+21 
+
+
+--- Page 76 ---
+Cases 25-E-XXXX, 25-G-XXXX 
+ 
+CONSOLIDATED EDISON COMPANY OF NEW YORK, INC. 
+INFORMATION TECHNOLOGY PANEL 
+ 
+Page 75 of 101 
+ 
+Learn, Talent Management & Compensation Replacement Project 
+1 
+(Exhibit IT-7) The total capital request is $31.5 million: 
+2 
+$23.7 million in RY1 and $7.8 million in RY2. The total 
+3 
+incremental O&M requested is $0.9 million: $0.28 million in 
+4 
+RY1, $0.24 million in RY2 and $0.38 million in RY3. 
+5 
+The Employee Hub System Improvements (Exhibit IT-7) The 
+6 
+total capital request is $20.7 million: $6.0 million in 
+7 
+RY1, $8.0 million in RY2 and $6.7 million in RY3. The total 
+8 
+incremental O&M request is $0.5 million: $0.243 million in 
+9 
+RY1 and $0.253 million in RY2. 
+10 
+Gas Digital As-Building (Exhibit IT-7) The total capital 
+11 
+request is $20 million: $5.8 million in RY1, $6.2 million 
+12 
+in RY2, and $8.0 million in RY3. The total incremental O&M 
+13 
+request is $0.395 million: $0.0350 in RY1 and $0.045 
+14 
+million in RY2.  
+15 
+Connected Vehicles - Enterprise Vehicle Telematics (Exhibit 
+16 
+IT-7) The total capital request is $17.89 million: $17.8 
+17 
+million in RY1 and $0.09 million in RY2. The total 
+18 
+incremental O&M request is $0.1 million: $0.04 million in 
+19 
+RY2 and $0.06 million in RY3.   
+20 
+
+
+--- Page 77 ---
+Cases 25-E-XXXX, 25-G-XXXX 
+ 
+CONSOLIDATED EDISON COMPANY OF NEW YORK, INC. 
+INFORMATION TECHNOLOGY PANEL 
+ 
+Page 76 of 101 
+ 
+Work Management Mobility (Exhibit IT-7) The total capital 
+1 
+request is $15 million: $5.0 million in each of RY1-RY3. 
+2 
+The total incremental O&M request is $0.38 million in RY1.  
+3 
+Integrated Workplace Management System Replacement (Exhibit 
+4 
+IT-7) The total capital request is $13.5 million: $2 
+5 
+million in RY1, $5.7 million in RY2 and $5.8 million in 
+6 
+RY3. The total incremental O&M request is $0.08 million in 
+7 
+RY3. 
+8 
+Replacement of Legal Technology (Exhibit IT-7) The total 
+9 
+capital request is $10.9 million: $5.2 million in RY1, $3.3 
+10 
+million in RY2 and $ 2.4 million in RY3. The total 
+11 
+incremental O&M request is $1 million: $0.16 million in 
+12 
+RY1, $0.62 million in RY2 and $0.22 million RY3. 
+13 
+WMS Exadata Hardware Upgrade To Avoid Tech Debt (Exhibit 
+14 
+IT-7) The total capital funding request is $11.2 million: 
+15 
+$7.6 million in RY1, and $3.6 million in RY2.   
+16 
+Electric WMS - Open Grid Field Implementation (Exhibit IT-
+17 
+7) The total capital request is $8.1 million: $4.6 million 
+18 
+in RY1 and $3.5M in RY2.   
+19 
+
+
+--- Page 78 ---
+Cases 25-E-XXXX, 25-G-XXXX 
+ 
+CONSOLIDATED EDISON COMPANY OF NEW YORK, INC. 
+INFORMATION TECHNOLOGY PANEL 
+ 
+Page 77 of 101 
+ 
+Outage Scheduling System (OSS) Replacement (Exhibit IT-7) 
+1 
+The total capital request is $7.6 million:  $4.7 million in 
+2 
+RY1, $1.7 million in RY2, and $1.2 million in RY3.  
+3 
+Employee Data Warehouse (EDW) to Autonomous Data Warehouse 
+4 
+(ADW) Project (Exhibit IT-7) The total capital request is 
+5 
+$7.3 million in RY1.   
+6 
+Maximo New Functionality & Sustainability (Exhibit IT-7) 
+7 
+The total capital request is $7.1 million: $2.3 million in 
+8 
+RY1, $2.4 million in RY2 and RY3.  
+9 
+WMS Sustainability Project - Phase 3 (Exhibit IT-7) The 
+10 
+total capital request is $6.9 million: $2.3 million in each 
+11 
+of RY1 through in RY3.   
+12 
+Budget System Enhancements (Exhibit IT-7) The total capital 
+13 
+request is $4.5 million: $1.5 million in each of RY1 
+14 
+through RY3. 
+15 
+Fleet Management Program (Exhibit IT-7) The total capital 
+16 
+request is $5.55 million: $2.1 million in RY1, $3.3 million 
+17 
+in RY2, $0.15 million in RY3. The total incremental O&M 
+18 
+request is $0.14 million: $0.015 million in RY1 and $0.125 
+19 
+million in RY2. 
+20 
+
+
+--- Page 79 ---
+Cases 25-E-XXXX, 25-G-XXXX 
+ 
+CONSOLIDATED EDISON COMPANY OF NEW YORK, INC. 
+INFORMATION TECHNOLOGY PANEL 
+ 
+Page 78 of 101 
+ 
+Substation Technology Improvements (Exhibit IT-7) The total 
+1 
+capital request is $5 million: $2.5 million in RY1 and RY2. 
+2 
+Rapid Restore Re-architecture (Exhibit IT-7) The total 
+3 
+capital request is $4.84 million: $3.2 million in RY1, $1.4 
+4 
+million in RY2, and $0.24 million in RY3.  
+5 
+Service Line Inspection GIS Routing & Traceability (Exhibit 
+6 
+IT-7) The total capital request is $4 million: $2 million 
+7 
+in RY1 and RY2.  
+8 
+L&I Digital Learning Transformation (Exhibit 7) The total 
+9 
+capital request is $3 million: $1.5 million in capital for 
+10 
+each of RY1 and RY2. The total incremental O&M spending 
+11 
+requested is $0.6 million: $0.2 million in each of RY1 
+12 
+through RY3. 
+13 
+Fraud Data Analytics Platform (Exhibit IT-7) The total 
+14 
+capital request is $2.5 million: $1.7 million in RY1, $0.13 
+15 
+million in RY2, $.67 million in RY3. The total incremental 
+16 
+O&M request is $0.31 million: $0.265 million in RY1 and 
+17 
+$0.045 million in RY2. 
+18 
+AutoCAD Phase 2 (Engineering Software & Equipment Upgrade) 
+19 
+(Exhibit IT-7) The total capital request is $1.65 million: 
+20 
+$.55 million in each of RY1 through RY3.  
+21 
+
+
+--- Page 80 ---
+Cases 25-E-XXXX, 25-G-XXXX 
+ 
+CONSOLIDATED EDISON COMPANY OF NEW YORK, INC. 
+INFORMATION TECHNOLOGY PANEL 
+ 
+Page 79 of 101 
+ 
+Obsolete Oracle GRC Software Replacement and Enterprise 
+1 
+Segregation of Duties (SoD) Tool (Exhibit IT-7) The total 
+2 
+capital request is $1.15 million: $0.36 million in RY1, 
+3 
+$0.37 million in RY2 and $0.42 million in RY3.   
+4 
+Service Line Inspection Program Customer Communication 
+5 
+Automation (Exhibit IT-7) The total capital request is $1.5 
+6 
+million in RY1.  The total incremental O&M request is $0.3 
+7 
+million in RY2. 
+8 
+Construction Technology Improvements (Exhibit IT-7) The 
+9 
+total capital funding request is $1.5 million: $0.50 
+10 
+million in each of RY1 through RY3. There is no incremental 
+11 
+O&M spending requested during the rate case years. 
+12 
+Transmission Pipeline Integrity Information Management 
+13 
+System (PIIMS) Replacement (Exhibit IT-7) The total capital 
+14 
+request is $1 million: $0.50 million in RY1 and RY2. The 
+15 
+total incremental O&M request is $0.018 million: $0.009 
+16 
+million in each of RY2 and RY3.  
+17 
+Increased Computing Capability for Clean Energy Analytics 
+18 
+(Exhibit IT-7) The total capital request is $0.49 million 
+19 
+in RY1. The total incremental O&M spending requested is 
+20 
+$0.008 million: $0.0025 million in each of RY1-RY3. 
+21 
+
+
+--- Page 81 ---
+Cases 25-E-XXXX, 25-G-XXXX 
+ 
+CONSOLIDATED EDISON COMPANY OF NEW YORK, INC. 
+INFORMATION TECHNOLOGY PANEL 
+ 
+Page 80 of 101 
+ 
+Operations Battery Monitoring Systems (Exhibit IT-7) The 
+1 
+total capital request is $0.68 million: $0.34 million in 
+2 
+each of RY1 and RY2. 
+3 
+Integration of virtual reality into Substation Operating 
+4 
+Orders (Exhibit 7) The total capital request is $0.5 
+5 
+million in RY1.   
+6 
+Central Operations Tableau to Power Bi Migration (Exhibit 
+7 
+IT-7) The total capital request is $0.5 million in RY1.  
+8 
+EH&S Control Desk Application (Exhibit 7) The total capital 
+9 
+request is $0.5 million: $0.5 million in RY1. The total 
+10 
+incremental O&M request is $0.05 million: $0.05 million in 
+11 
+RY2. 
+12 
+Wiring and Raceway System (WARS) Replacement (Exhibit 7) 
+13 
+The total capital request is $0.4 million in RY1.  
+14 
+Environmental Management System (Exhibit 7) The total 
+15 
+capital request is $0.35 million in RY1. The total 
+16 
+incremental O&M request is $0.15 million in RY2. 
+17 
+EH&S Navigator AI Search Tool (Exhibit 7) The total capital 
+18 
+request is $0.3 million in RY1. The total incremental O&M 
+19 
+request is $0.05 million in RY2. 
+20 
+
+
+--- Page 82 ---
+Cases 25-E-XXXX, 25-G-XXXX 
+ 
+CONSOLIDATED EDISON COMPANY OF NEW YORK, INC. 
+INFORMATION TECHNOLOGY PANEL 
+ 
+Page 81 of 101 
+ 
+Tech Modernization for PEGA Applications (Exhibit 7) The 
+1 
+total capital request is $39.64 million: $13.23 million for 
+2 
+RY1 and RY2, and $13.18 in RY3. The total incremental O&M 
+3 
+request is $0.62 million: $0.42 million RY1 and $0.10 
+4 
+million in each of RY2 and RY3.  
+5 
+CPMS Customer Data Self-Service and Data Governance and 
+6 
+Compliance Modernization (Exhibit 7) The total capital 
+7 
+request is $22.5 million: $11.1 million in RY1, $9.9 
+8 
+million in RY2, and $1.5 million in RY3. The total 
+9 
+incremental O&M request is $2.167 million in RY 1. 
+10 
+Migration to Cloud, Version Upgrade, and Enhancements for 
+11 
+the FIS Gas Transaction System (Exhibit 7) The total 
+12 
+capital funding request is $7.38 million: $3.98 million in 
+13 
+RY2 and $3.4 million in RY3. Incremental O&M identified in 
+14 
+Exhibit IT-7. 
+15 
+Transportation Customer Information System (TCIS) Reporting 
+16 
+and Infrastructure Enhancements (Exhibit 7) The total 
+17 
+capital request is $4.3 million: $1.7 million in RY1, $1.8 
+18 
+million in RY2 and $0.8 million in RY3. Incremental O&M 
+19 
+identified in Exhibit IT-7. 
+20 
+
+
+--- Page 83 ---
+Cases 25-E-XXXX, 25-G-XXXX 
+ 
+CONSOLIDATED EDISON COMPANY OF NEW YORK, INC. 
+INFORMATION TECHNOLOGY PANEL 
+ 
+Page 82 of 101 
+ 
+Rate Case Enhancements (Exhibit 7) The total capital 
+1 
+request is $2.25 million: $0.75 million in each of RY1 
+2 
+through RY3. 
+3 
+FIS GTS Version Upgrade and Enhancements (Exhibit 7) The 
+4 
+total capital request is $2.05 million in RY1. Incremental 
+5 
+O&M identified in Exhibit IT-7. 
+6 
+FPET (Field Programable Electronic Terminal) Migration 
+7 
+(Exhibit 7) The total capital request is $3.47 million: 
+8 
+$2.4 million in RY1 and $1.07 million in RY2.  
+9 
+Transmission Owners Data Reporting System (TODRS) Market 
+10 
+Demand Enhancements (Exhibit 7) The total capital request 
+11 
+is $2.75 million: $1.04 million in RY1, $0.85 million in 
+12 
+RY2 and $0.86 million in RY3. Incremental O&M identified in 
+13 
+Exhibit IT-7. 
+14 
+ISO Revenue Metering Enhancements to PCI Adapting to Market 
+15 
+Changes (Exhibit 7) The total capital request is $2.6 
+16 
+million: $1.4 million in RY1 and $1.2 million in RY2. 
+17 
+Incremental O&M identified in Exhibit IT-7. 
+18 
+MetrixIDR Upgrade for Enhanced Functionality and Support 
+19 
+Compliance (Exhibit 7) The total capital request is $0.61 
+20 
+million: $0.61 million in RY3.  
+21 
+
+
+--- Page 84 ---
+Cases 25-E-XXXX, 25-G-XXXX 
+ 
+CONSOLIDATED EDISON COMPANY OF NEW YORK, INC. 
+INFORMATION TECHNOLOGY PANEL 
+ 
+Page 83 of 101 
+ 
+Material Management Inventory Upgrades for Contractor Yards 
+1 
+(Exhibit IT-7) The capital request is $3.6 million: $1.8 
+2 
+million in RY1 and RY 2. 
+3 
+Adapt2 Battery Storage Scalability Enhancements (Exhibit 7) 
+4 
+The total capital request is $0.7 million: $0.7 million in 
+5 
+RY1. Incremental O&M identified in Exhibit IT-7. 
+6 
+CORE INFRASTRUCTURE 
+7 
+Q. 
+Please explain what is meant by Core infrastructure. 
+8 
+A. 
+Our systems and networks are built on foundational 
+9 
+infrastructure.  They are the cement for the house, the 
+10 
+“foundation” that holds the systems together. Foundational 
+11 
+IT Infrastructure includes investments in hardware and 
+12 
+software to support data centers, cloud, colocation 
+13 
+facilities and networks. It also includes the assets needed 
+14 
+to run and house systems, such as: real estate for data 
+15 
+centers, HVAC, and UPS equipment as well as networking 
+16 
+equipment, such as routers and switches.     
+17 
+Q.  What are the important core infrastructure projects and 
+18 
+programs the Company is proposing?   
+19 
+A. 
+These projects and programs are: 
+20 
+• XM-8 and XM-10 
+21 
+• CCTN 
+22 
+
+
+--- Page 85 ---
+Cases 25-E-XXXX, 25-G-XXXX 
+ 
+CONSOLIDATED EDISON COMPANY OF NEW YORK, INC. 
+INFORMATION TECHNOLOGY PANEL 
+ 
+Page 84 of 101 
+ 
+• Technology Modernization 
+1 
+• M365  
+2 
+XM-8 and XM-10 
+3 
+Q.   Please explain XM-8 and XM-10 investments. 
+4 
+A.  XM-8 and XM-10 are two general equipment categories. (See 
+5 
+Shared Services Panel for other General Equipment 
+6 
+categories). IT manages and purchases the XM-8 and XM-10 
+7 
+equipment used throughout the Company.  
+8 
+XM-8 provides communications equipment to support Company 
+9 
+telephone networks including voice over IP (VoIP), radio 
+10 
+systems, wireless modems, telecommunication equipment for 
+11 
+voice circuits, and conference room collaboration 
+12 
+equipment.  
+13 
+XM-10 provides critical computing components including 
+14 
+firewalls, servers and storage, PCs, printers, tablets, 
+15 
+laptops, mainframe, internet-facing technology improvements 
+16 
+to allow remote access, network equipment (Local Area 
+17 
+Networks (LANs), Wide Area Networks (WANs) and Wi-Fi). 
+18 
+Technology upgrades are required to provide a reliable and 
+19 
+accessible environment for critical resources located in 
+20 
+data centers and support growth. 
+21 
+Q.  What benefits do XM-8 and XM-10 programs provide? 
+22 
+
+
+--- Page 86 ---
+Cases 25-E-XXXX, 25-G-XXXX 
+ 
+CONSOLIDATED EDISON COMPANY OF NEW YORK, INC. 
+INFORMATION TECHNOLOGY PANEL 
+ 
+Page 85 of 101 
+ 
+A.  XM-8 and XM-10 equipment and associated upgrades promote 
+1 
+performance and security improvements. The programs under 
+2 
+these budgets support: 
+3 
+• Safety – Private wired and wireless communications 
+4 
+enable Con Edison to respond to emergency situations 
+5 
+and incidents over secure and segmented channels. 
+6 
+• Operational Efficiency – The communication, data 
+7 
+computing, and networking infrastructure provides a 
+8 
+secure and stable platform for the applications and 
+9 
+processes used by the various operating businesses. 
+10 
+• Customer Enablement - The customer-centric 
+11 
+applications and voice communication systems used in 
+12 
+the customer contact centers. 
+13 
+Q. 
+What capital funding is requested for XM8 and XM10 in  
+14 
+2026-2028? 
+15 
+A. 
+The XM8 request is $18.32 million: $4.98 million in RY1, 
+16 
+$6.425million in RY2 and $6.915 million in RY3. The XM10 
+17 
+request is $89.987 million: $32.477 million in RY1, $28.580 
+18 
+million in RY2 and $28.929 million in RY3. 
+19 
+Q.   What O&M spending is required for XM8 and XM10 during 2026-
+20 
+2028? 
+21 
+A.   The O&M request details are contained in Exhibit IT-8.   
+22 
+
+
+--- Page 87 ---
+Cases 25-E-XXXX, 25-G-XXXX 
+ 
+CONSOLIDATED EDISON COMPANY OF NEW YORK, INC. 
+INFORMATION TECHNOLOGY PANEL 
+ 
+Page 86 of 101 
+ 
+CCTN 
+1 
+Q. 
+Please explain the CCTN project.  
+2 
+A.   CCTN is Con Edison’s fiber optic network communication 
+3 
+system, which securely carries the Company’s corporate 
+4 
+data, voice, and Supervisory Control and Data  
+5 
+Acquisition (SCADA) data. CCTN provides a reliable, secure, 
+6 
+and high-speed data network that enables critical locations 
+7 
+to communicate. CCTN is comprised of Company-owned fiber 
+8 
+optical cables, optical equipment, and radio system 
+9 
+backbone network infrastructure components. The Company 
+10 
+maintains over 120 locations hosting CCTN components. 
+11 
+Q.   Before continuing, please explain the Company’s SCADA 
+12 
+     system. 
+13 
+A.   SCADA systems provide visibility and control of the 
+14 
+Company’s transmission and distribution systems. CCTN is 
+15 
+critical to the safe and reliable operation of these 
+16 
+systems. 
+17 
+Q.   Please describe the CCTN project. 
+18 
+A.   The CCTN project replaces older fiber spans and installs 
+19 
+new technology and spans as needed to improve reliability, 
+20 
+resiliency, and security. Without this foundational 
+21 
+network, operational performance of critical communications 
+22 
+can be at risk. 
+23 
+
+
+--- Page 88 ---
+Cases 25-E-XXXX, 25-G-XXXX 
+ 
+CONSOLIDATED EDISON COMPANY OF NEW YORK, INC. 
+INFORMATION TECHNOLOGY PANEL 
+ 
+Page 87 of 101 
+ 
+Q. 
+What capital funding is requested for CCTN in 2026-2028? 
+1 
+A.   The capital request for CCTN in 2026-2028 is $60 million: 
+2 
+$20 million in each of RY1 through RY3. 
+3 
+Q.   What O&M spending is required for CCTN during 2026-2028? 
+4 
+A.   The O&M request details are contained in Exhibit IT-8.   
+5 
+TECHNOLOGY MODERNIZATION 
+6 
+Q. 
+What is Technology Modernization? 
+7 
+A. 
+Technology modernization updates end-of-life technologies 
+8 
+within Con Edison's infrastructure and application 
+9 
+portfolio. It involves upgrading obsolete technology, 
+10 
+implementing security hardening measures for applications, 
+11 
+and modernizing infrastructure hosting options. 
+12 
+Q. 
+Please continue.  
+13 
+A. 
+The IT organization manages over 500 business applications, 
+14 
+serving various organizations. As explained herein, 
+15 
+applications quickly become out-of-date because of new 
+16 
+versions, which traditionally include enhancements, or 
+17 
+there is a vulnerability, which must be patched.  
+18 
+Keeping all systems and applications up to date is crucial 
+19 
+for operational resilience, as outdated systems pose 
+20 
+heightened cybersecurity risks, limit functionality, create 
+21 
+production issues, and increase expenses.   
+22 
+
+
+--- Page 89 ---
+Cases 25-E-XXXX, 25-G-XXXX 
+ 
+CONSOLIDATED EDISON COMPANY OF NEW YORK, INC. 
+INFORMATION TECHNOLOGY PANEL 
+ 
+Page 88 of 101 
+ 
+Q. 
+What will the Technology Modernization program do? 
+1 
+A. 
+The program addresses the cyclical nature of outdated 
+2 
+application technology and implements security hardening 
+3 
+measures.  
+4 
+Q. 
+Please explain the benefits of or enhancements from this 
+5 
+project. 
+6 
+A. 
+The IT Technology Modernization Program offer several 
+7 
+benefits and enhancements: 
+8 
+• Confirm that the latest security measures are in place 
+9 
+to protect data and systems from potential threats.  
+10 
+• Keep vendor Support current by updating and patching.  
+11 
+• Increase automation through tools based on artificial 
+12 
+intelligence and ML, optimizing IT operations, and 
+13 
+enabling quicker responses to operational events. 
+14 
+Q. 
+How will this be handled? 
+15 
+A. 
+The IT Technology Modernization Program will systematically 
+16 
+upgrade outdated technology across approximately 165 
+17 
+applications, implementing security hardening measures for 
+18 
+about 90 critical applications to fix code vulnerabilities 
+19 
+and enhance application integrity and confidentiality, 
+20 
+modernize infrastructure hosting platforms, including 
+21 
+
+
+--- Page 90 ---
+Cases 25-E-XXXX, 25-G-XXXX 
+ 
+CONSOLIDATED EDISON COMPANY OF NEW YORK, INC. 
+INFORMATION TECHNOLOGY PANEL 
+ 
+Page 89 of 101 
+ 
+investments in new hardware and technologies to build next-
+1 
+generation data centers, increasing automation through the 
+2 
+implementation of AIOps (Artificial Intelligence for IT 
+3 
+Operations) tools to optimize and improve IT operations. 
+4 
+Q. 
+Who will perform this work? 
+5 
+A. 
+The Site Reliability Engineering (SRE) team will build and 
+6 
+sustain resilient infrastructure, enhance operational 
+7 
+efficiency, and ensure the high availability of critical 
+8 
+services. This dedicated team aims to develop reliable, 
+9 
+scalable, and efficient systems. 
+10 
+Q. 
+What capital funding is requested for the IT Technology 
+11 
+Modernization Program in 2026-2028? 
+12 
+A.   The capital request is $114.3 million: $44.6 in RY1, $34.9 
+13 
+in RY2 and $34.8 million in RY3. 
+14 
+Q.   What is the incremental O&M request for the IT Technology 
+15 
+Modernization Program during 2026-2028? 
+16 
+A.   The total incremental O&M request is $17.342 million: 
+17 
+$13.573 in RY1, $3.019 million in RY2, and $0.750 million 
+18 
+in RY3. 
+19 
+MICROSOFT 365 
+20 
+Q.   Please describe services received under M365. 
+21 
+
+
+--- Page 91 ---
+Cases 25-E-XXXX, 25-G-XXXX 
+ 
+CONSOLIDATED EDISON COMPANY OF NEW YORK, INC. 
+INFORMATION TECHNOLOGY PANEL 
+ 
+Page 90 of 101 
+ 
+A.  M365 is the current corporate standard for desktop 
+1 
+productivity, collaboration, and security tools software. 
+2 
+Its business applications include Outlook, Teams, 
+3 
+SharePoint, OneDrive, and other Office products. M365 also 
+4 
+includes an advanced suite of security tools, such as 
+5 
+Defender and Active Directory, and enhances disaster 
+6 
+recovery as applications are accessible from anywhere. 
+7 
+Q. 
+How is the M365 contract structured? 
+8 
+A. 
+We are currently on a five-year renewal cycle with 
+9 
+Microsoft with the next renewal scheduled in 2029. Each 
+10 
+contract includes significant cost increases for the 
+11 
+updated product as well as growth in product adoption. 
+12 
+Q. 
+What capital funding is requested for M365 in 
+13 
+2026-2028? 
+14 
+A. 
+The capital request to meet increased growth is $6 million: 
+15 
+$2 million in each of RY1 through RY3. 
+16 
+     Q. 
+What is the incremental O&M request for M365 in 2026-2028? 
+17 
+A. 
+The O&M request details are contained in Exhibit IT-8. 
+18 
+Other Core Infrastructure 
+19 
+Q.  Are there other Core Infrastructure projects or programs 
+20 
+not included in this testimony?  
+21 
+A.  Yes. They are: 
+22 
+
+
+--- Page 92 ---
+Cases 25-E-XXXX, 25-G-XXXX 
+ 
+CONSOLIDATED EDISON COMPANY OF NEW YORK, INC. 
+INFORMATION TECHNOLOGY PANEL 
+ 
+Page 91 of 101 
+ 
+ServiceNow Platform Extension (Exhibit IT-8) The total 
+1 
+capital request is $14.8 million: $1.7 million in RY1, $7.3 
+2 
+million in RY2, $5.8 million in RY3. The total incremental 
+3 
+O&M request is $1.55 million: $0.34 million in RY1, $0.66 
+4 
+million in RY2, and $0.55 million in RY3. 
+5 
+Data Center and LAN Infrastructure Improvements (Exhibit 
+6 
+IT-8) The total capital request is $33.9 million: $4.8 
+7 
+million in RY1, $13.1 million in RY2, $16 million in RY3.  
+8 
+Incremental O&M spending is included in Exhibit IT-8. 
+9 
+End User Computing (Exhibit IT-8) The total capital request 
+10 
+is $2.78 million: $1.08 in RY1, $1.19 in RY2 and $0.51 
+11 
+million in RY3.   
+12 
+Mainframe Exit – Data Migration of CECONY Applications 
+13 
+(Exhibit IT-8) The total capital request is $2.3 million: 
+14 
+$1.3 million in RY1 and $1 million in RY2. The total O&M 
+15 
+request is $.25 million in RY3.   
+16 
+Enterprise Architecture Modernization (Exhibit IT-8) The 
+17 
+total capital request is $1.8 million: $0.6 million in each 
+18 
+of RY1 through RY3. The total O&M request is $0.75 million: 
+19 
+$0.31 million in RY1, $0.24 million in RY2 and $0.2 million 
+20 
+in RY3. 
+21 
+
+
+--- Page 93 ---
+Cases 25-E-XXXX, 25-G-XXXX 
+ 
+CONSOLIDATED EDISON COMPANY OF NEW YORK, INC. 
+INFORMATION TECHNOLOGY PANEL 
+ 
+Page 92 of 101 
+ 
+ENTERPRISE DATA AND ANALYTICS  
+1 
+Q.  What is the final group of projects that will be discussed? 
+2 
+A. 
+Data and Analytics.  
+3 
+Q. 
+What is Data & Analytics? 
+4 
+A.  Data & Analytics uses statistical analysis to collect and 
+5 
+analyze data, enabling organizations to make informed 
+6 
+decisions, and guide strategic decisions. 
+7 
+Q.  Does Con Edison have a Data & Analytics program?  
+8 
+A.  Yes.  
+9 
+Q. 
+Please describe the Company’s Data & Analytics program.  
+10 
+A.  Con Edison’s Data & Analytics program has two key 
+11 
+components: foundational data platform capabilities and 
+12 
+strategically aligned business-focused initiatives. This 
+13 
+program enhances efficiency, elevates the customer 
+14 
+experience, and facilitates data-driven decision-making. 
+15 
+The foundational data platform capabilities establish a 
+16 
+robust infrastructure for data integration, curation, and 
+17 
+governance, while the business-focused initiatives leverage 
+18 
+these capabilities to drive targeted outcomes. Together, 
+19 
+these elements enable Con Edison to harness the power of 
+20 
+data analytics, fostering data driven decision-making and 
+21 
+ultimately improving service delivery and organizational 
+22 
+performance. 
+23 
+
+
+--- Page 94 ---
+Cases 25-E-XXXX, 25-G-XXXX 
+ 
+CONSOLIDATED EDISON COMPANY OF NEW YORK, INC. 
+INFORMATION TECHNOLOGY PANEL 
+ 
+Page 93 of 101 
+ 
+Q.  When was the Enterprise Data & Analytics program 
+1 
+established? 
+2 
+A.  The Enterprise Data & Analytics program started in 2017, 
+3 
+when we made foundational investments in the Enterprise 
+4 
+Data & Analytics Platform (EDAP). The program has evolved, 
+5 
+and we are now implementing a Data and AI Governance 
+6 
+program. Business-focused initiatives, aimed at enhancing 
+7 
+grid operations, improving customer service, and providing 
+8 
+data-driven decision-making, have similarly evolved. We 
+9 
+have taken a structured approach to the Enterprise Data & 
+10 
+Analytics program that facilitates faster and more complex 
+11 
+analyses, ultimately driving improved business outcomes.  
+12 
+Q.   Are there business-focused initiatives that you would like 
+13 
+to explain? 
+14 
+A:  One Customer Analytics business-focused initiative achieved 
+15 
+is the development of tools aimed at improving customer 
+16 
+service by identifying root causes of call volume 
+17 
+fluctuations, assessing call performance and coaching 
+18 
+opportunities, and evaluating call-handling capacity.  
+19 
+Q:  Is there another business-focused initiative you would like 
+20 
+to explain? 
+21 
+A: 
+Yes, there are several electric operations programs.  
+22 
+First, the Distribution Engineering Grid Mod Analytics 
+23 
+
+
+--- Page 95 ---
+Cases 25-E-XXXX, 25-G-XXXX 
+ 
+CONSOLIDATED EDISON COMPANY OF NEW YORK, INC. 
+INFORMATION TECHNOLOGY PANEL 
+ 
+Page 94 of 101 
+ 
+program is comprised of use cases that can enhance asset 
+1 
+management and grid operations to enable a reliable and 
+2 
+resilient grid.  
+3 
+For example, the Transformer Leakage Predictor Model uses 
+4 
+AMI data to better understand equipment patterns, allowing 
+5 
+the Company to replace equipment before failure, reducing 
+6 
+service interruptions and improving public safety.  
+7 
+Second, through AMI data, the Open Neutral Analytics tool 
+8 
+proactively discovers this field condition, allowing the 
+9 
+Company to address an open neutral before it is reported or 
+10 
+an event occurs, enhancing safety and network reliability.  
+11 
+Finally, the AMI data included in the Open Mains Detection 
+12 
+program advises of an open main situation prior to an 
+13 
+incident, decreasing both the frequency and duration of 
+14 
+outages. 
+15 
+ Q.  Does Con Edison plan to expand the Data & Analytics 
+16 
+program?  
+17 
+ A.  Yes, Con Edison plans to expand the Data & Analytics 
+18 
+program into seven business areas while continuing to 
+19 
+invest in the foundational enablers already established 
+20 
+(e.g., EDAP).  
+21 
+The seven business areas that the program plans to expand 
+22 
+on include:   
+23 
+
+
+--- Page 96 ---
+Cases 25-E-XXXX, 25-G-XXXX 
+ 
+CONSOLIDATED EDISON COMPANY OF NEW YORK, INC. 
+INFORMATION TECHNOLOGY PANEL 
+ 
+Page 95 of 101 
+ 
+1. Customer Data and Analytics: Improve operational 
+1 
+efficiencies and customer experience.  
+2 
+2. Grid Asset Resilience and Reliability Data and 
+3 
+Analytics: Build on the Company’s predictive 
+4 
+maintenance program, increasing reliability while 
+5 
+enabling focus on the long-term challenges of the 
+6 
+changing grid. 
+7 
+3. Electric Work Management Data and Analytics: Continue 
+8 
+to optimize work management, improving scheduling and 
+9 
+dynamic response to changing field conditions. 
+10 
+4. Forecasting and Planning Data and Analytics: Support 
+11 
+long range planning through tools that optimize the 
+12 
+pathway to electrification.  
+13 
+5. Clean Energy Programs, AMI and DER Data and Analytics: 
+14 
+Deliver analytics solutions that improve the efficacy 
+15 
+and adoption of energy efficiency programs.  
+16 
+6. Gas System Data and Analytics: Build analytics tools 
+17 
+that increase reliability and safety.   
+18 
+7. Supply Chain Data and Analytics: Enhance the 
+19 
+procurement strategy, achieve cost avoidance 
+20 
+opportunities, and improve operational efficiencies 
+21 
+throughout the supply chain.   
+22 
+
+
+--- Page 97 ---
+Cases 25-E-XXXX, 25-G-XXXX 
+ 
+CONSOLIDATED EDISON COMPANY OF NEW YORK, INC. 
+INFORMATION TECHNOLOGY PANEL 
+ 
+Page 96 of 101 
+ 
+The impact of the business programs can be found detailed 
+1 
+in Exhibit IT-10 Figure A: Enterprise Data & Analytics 
+2 
+Business Programs. 
+3 
+Q.  Does the team stay abreast of industry trends in the data 
+4 
+and analytics space? 
+5 
+A.  Yes.  With the release of generative AI, the data and 
+6 
+analytics area has been advancing rapidly. We evaluate 
+7 
+advances and focus on optimizing the customer experience, 
+8 
+enhancing grid resilience and refining forecasting and 
+9 
+planning processes through advances in technology.  
+10 
+Q.   What capital and O&M funding is requested for the 
+11 
+Enterprise Data & Analytics Business Programs and the 
+12 
+associated Foundational Programs during 2026-2028? 
+13 
+A.   The total funding request is $237.2 million, where $214.1 
+14 
+million is Capital and $23.1 million is incremental O&M. 
+15 
+Below is the breakdown for the seven business areas and the 
+16 
+two foundational programs: 
+17 
+Customer Data and Analytics (Exhibit IT-9) The total 
+18 
+capital request is $35.9 million: $10.1 million in RY1, 
+19 
+$13.6 million in RY2 and $12.2 million in RY3. The 
+20 
+incremental O&M request is $3.7 million: $1.1 million in 
+21 
+RY1, $1.5 million in RY2 and $1.1 million in RY3. 
+22 
+
+
+--- Page 98 ---
+Cases 25-E-XXXX, 25-G-XXXX 
+ 
+CONSOLIDATED EDISON COMPANY OF NEW YORK, INC. 
+INFORMATION TECHNOLOGY PANEL 
+ 
+Page 97 of 101 
+ 
+Asset Reliability & Resilience Data and Analytics (Exhibit 
+1 
+IT-9) The total capital request is $38.3 million: $10.8 
+2 
+million in RY1, $14.5 million in RY2 and $13.0 million in 
+3 
+RY3. The incremental O&M request is $3.2 million: $1.0 
+4 
+million in RY1 and RY3, and $1.2 million in RY2.  
+5 
+Electric Work Management Data and Analytics (Exhibit IT-9) 
+6 
+The total capital request is $21.5 million: $6.1 million in 
+7 
+RY1, $8.1 million in RY2 and $7.3 million in RY3. The 
+8 
+incremental O&M request is $2.0 million: $0.6 million in 
+9 
+RY1 and RY3 and $0.8 million in RY2.  
+10 
+Forecasting and Planning Data and Analytics (Exhibit IT-9) 
+11 
+The total capital request is $24.0 million: $6.8 million in 
+12 
+RY1, $9.0 million in RY2 and $8.2 million in RY3. The 
+13 
+incremental O&M request is $1.8 million: $0.6 million in 
+14 
+each of RY1 through RY3.  
+15 
+Clean Energy, AMI and DER Data and Analytics Program 
+16 
+(Exhibit IT-9) The total capital request is $26.4 million: 
+17 
+$7.5 million in RY1, $10.0 million in RY2 and $8.9 million 
+18 
+in RY3. The incremental O&M request is $2.2 million: $0.8 
+19 
+million in RY1 and RY2, and $0.6 million in RY3.  
+20 
+Gas System Analytics (Exhibit IT-9) The total capital 
+21 
+request is $13.2 million: $3.7 million in RY1, $5.0 million 
+22 
+
+
+--- Page 99 ---
+Cases 25-E-XXXX, 25-G-XXXX 
+ 
+CONSOLIDATED EDISON COMPANY OF NEW YORK, INC. 
+INFORMATION TECHNOLOGY PANEL 
+ 
+Page 98 of 101 
+ 
+in RY2 and $4.5 million in RY3. The incremental O&M request 
+1 
+is $1.3 million: $0.3 million in RY1, $0.6 million in RY2 
+2 
+and $0.4 million in RY3.  
+3 
+Supply Chain Data and Analytics (Exhibit IT-9) The total 
+4 
+capital request is $15.6 million: $4.4 million in RY1, $5.9 
+5 
+million in RY2 and $5.3 million in RY3. The incremental O&M 
+6 
+request is $1.4 million: $0.4 million in RY1, $0.6 million 
+7 
+in RY2 and $0.3 million in RY3.  
+8 
+Enterprise Data & Analytics Foundations (Exhibit IT-9) The 
+9 
+total capital request is $27.2 million: $9.6 million in 
+10 
+RY1, $9.7 million in RY2 and $7.8 million in RY3. The 
+11 
+incremental O&M request is $5.7 million: $2.7 million in 
+12 
+RY1, $2.6 million in RY2 and $.4 million in RY3.  
+13 
+Data and AI Governance (Exhibit IT-9) The total capital 
+14 
+request is $12.0 million: $4.5 million in RY1, $4.0 million 
+15 
+in RY2 and $3.5 million in RY3, while the incremental O&M 
+16 
+request is $1.8 million: $0.9 million in RY1, $0.4 million 
+17 
+in RY2 and $0.6 million in RY3. 
+18 
+Q.  Are there any other projects you would like to discuss? 
+19 
+A.  Yes, the Integration Technical Obsolescence project and 
+20 
+Data Integration Modernization program.  
+21 
+
+
+--- Page 100 ---
+Cases 25-E-XXXX, 25-G-XXXX 
+ 
+CONSOLIDATED EDISON COMPANY OF NEW YORK, INC. 
+INFORMATION TECHNOLOGY PANEL 
+ 
+Page 99 of 101 
+ 
+Q.   Please explain the Integration Technical Obsolescence 
+1 
+project. 
+2 
+A.   The Integration Technical Obsolescence project upgrades and 
+3 
+modernizes our data integration application. This involves 
+4 
+transitioning from Microsoft’s BizTalk integration 
+5 
+software, which will no longer be supported after 2030, to 
+6 
+more modern integration technologies, such as Azure 
+7 
+Integration Services. This upgrade will improve the 
+8 
+integrity, security, and efficiency of our data and 
+9 
+application integrations. 
+10 
+Q.   What benefits will the new integration platform offer? 
+11 
+A.   The new integration platform offers scalable cloud 
+12 
+infrastructure, modern authentication schemes, simplified 
+13 
+development tools and automatic updates.  
+14 
+Q. 
+How will this assist the Company? 
+15 
+A. 
+The new integration platform’s capabilities will improve 
+16 
+the scalability and stability of the integrations, enabling 
+17 
+improved resilience during peak customer usage periods. 
+18 
+Q.   What is the scope of work for this project? 
+19 
+A.   The project involves re-engineering, rebuilding, and re-
+20 
+testing over 1,400 existing integrations currently relying 
+21 
+on BizTalk. This transition will adopt modern integration 
+22 
+
+
+--- Page 101 ---
+Cases 25-E-XXXX, 25-G-XXXX 
+ 
+CONSOLIDATED EDISON COMPANY OF NEW YORK, INC. 
+INFORMATION TECHNOLOGY PANEL 
+ 
+Page 100 of 101 
+ 
+mechanisms, providing compatibility with future operating 
+1 
+systems and enhancing the overall integration process. 
+2 
+Q.   What is the estimated timeline and budget for this project? 
+3 
+A.   The project is estimated to start on January 1, 2026, and 
+4 
+be completed by August 1, 2029. The total funding request 
+5 
+for 2026-2028 is $100.2 million in capital: $33.4 million 
+6 
+in each of RY1 through RY3. The total incremental O&M 
+7 
+request is $13.0 million: $3.0 million in RY1, $4.0 million 
+8 
+in RY2, and $6.0 million in RY3.  
+9 
+Q.  Is there another project in this area? 
+10 
+A. 
+Yes. The Data Integration Modernization project.  
+11 
+Q. 
+Please describe the Data Integration Modernization project. 
+12 
+A.  The Data Integration Modernization project enhances our 
+13 
+existing data integration capabilities, tools, and 
+14 
+infrastructure. This project supports our strategic 
+15 
+initiatives, manages substantial data volumes, and meets 
+16 
+the growing demand for integrations across the company. It 
+17 
+includes developments such as a streaming platform for 
+18 
+real-time data ingestion, new data source integrations, and 
+19 
+enhancements to the Data Distribution Hub (DDH). 
+20 
+Q.  What capital and O&M funding is requested for the Data 
+21 
+Integration Modernization project in 2026-2028? 
+22 
+
+
+--- Page 102 ---
+Cases 25-E-XXXX, 25-G-XXXX 
+ 
+CONSOLIDATED EDISON COMPANY OF NEW YORK, INC. 
+INFORMATION TECHNOLOGY PANEL 
+ 
+Page 101 of 101 
+ 
+A.  The capital finding request is $16.5 million: $4.5 million 
+1 
+in RY1, $6.5 million in RY2 and $5.5 million in RY3. The 
+2 
+incremental O&M request is $2.55 million: $2.5 million in 
+3 
+RY1, $0.028 million in RY2 and $.011 million in RY3. 
+4 
+Q.  Are there any additional projects in Enterprise Data & 
+5 
+Analytics? 
+6 
+A.  Yes. There are two projects.  They are:   
+7 
+SharePoint Upgrade (Exhibit IT-9) The total capital request 
+8 
+is $5.4 million: $2.7 million in each of RY1 and RY2.  
+9 
+Power Platform Governance and COE (Exhibit IT-9) The total 
+10 
+capital request is $5.6 million: $1.6 million in RY1, $2 
+11 
+million in each of RY2 and RY3. The incremental O&M request 
+12 
+is $0.8 million: $0.5 million in RY1, $0.2 million in RY2 
+13 
+and $0.1 million in RY3. 
+14 
+Q.   Does this complete the Panel’s initial testimony? 
+15 
+A. 
+Yes, it does. 
+16 

@@ -1,0 +1,5850 @@
+--- Page 1 ---
+Expert Testimony of Ann E. Bulkley 
+ 
+ 
+ 
+ 
+ 
+ 
+ 
+ 
+ 
+ 
+ 
+ 
+ 
+ 
+ 
+Before the Public Service Commission 
+ 
+ 
+ 
+ 
+ 
+CENTRAL HUDSON GAS AND ELECTRIC CORPORATION 
+ 
+Direct Testimony  
+ 
+of  
+ 
+ANN E. BULKLEY 
+ 
+(SENIOR VICE PRESIDENT OF  
+CONCENTRIC ENERGY ADVISORS, INC.) 
+ 
+ 
+ 
+ 
+ 
+ 
+Dated:  August 27, 2020 
+ 
+
+
+--- Page 2 ---
+ 
+Testimony of Ann E. Bulkley 
+ 
+ 
+i 
+TABLE OF CONTENTS 
+ 
+ 
+I. 
+INTRODUCTION AND QUALIFICATIONS ........................................................................ 1 
+II. 
+PURPOSE AND OVERVIEW OF TESTIMONY .................................................................. 2 
+III. 
+REGULATORY GUIDELINES AND FINANCIAL CONSIDERATIONS ................................. 6 
+IV. 
+CAPITAL MARKET CONDITIONS ................................................................................ 15 
+A. 
+Current Market Conditions ........................................................................................... 17 
+B. 
+The Effect of Market Conditions on Valuations ........................................................... 25 
+C. 
+Effect of Tax Reform on the ROE and Capital Structure ............................................. 36 
+V. 
+PROXY GROUP SELECTION ........................................................................................ 41 
+VI. 
+COST OF EQUITY ESTIMATION................................................................................... 50 
+A. 
+Discounted Cash Flow Model ....................................................................................... 54 
+B. 
+Capital Asset Pricing Model ......................................................................................... 69 
+C. 
+Weighted Average Results ............................................................................................ 74 
+VII. 
+REGULATORY AND BUSINESS RISKS .......................................................................... 77 
+A. 
+Regulatory Risk ............................................................................................................ 77 
+B. 
+Performance Benchmarks ............................................................................................. 89 
+C. 
+Clean Energy Policy ..................................................................................................... 91 
+VIII.  CAPITAL STRUCTURE ................................................................................................. 96 
+IX. 
+MULTI-YEAR RATE PLAN ........................................................................................ 100 
+X. 
+CONCLUSION AND RECOMMENDATION ................................................................... 102 
+
+
+--- Page 3 ---
+Expert Testimony of Ann E. Bulkley 
+ 
+ 
+ 
+I. 
+INTRODUCTION AND QUALIFICATIONS 
+ 
+Ms. Bulkley, please state your name, affiliation, and business address. 
+1 
+A. 
+My name is Ann E. Bulkley.  I am a Senior Vice President of Concentric Energy Advisors, 
+2 
+Inc. (“Concentric”), located at 293 Boston Post Road West, Suite 500, Marlborough, 
+3 
+Massachusetts 01752. 
+4 
+ 
+Please describe your experience in the energy and utility industries. 
+5 
+A. 
+I hold a Bachelor’s degree in Economics and Finance from Simmons College and a 
+6 
+Master’s degree in Economics from Boston University and have more than 20 years of 
+7 
+experience consulting to the energy industry.  I have advised numerous energy and utility 
+8 
+clients on a wide range of financial and economic issues with primary concentrations in 
+9 
+valuation and utility rate matters.  Many of these assignments have included the 
+10 
+determination of the cost of capital for valuation and ratemaking purposes.  I have included 
+11 
+my resume and a summary of testimony that I have filed in other proceedings as 
+12 
+Attachment A. 
+13 
+ 
+Please describe Concentric’s activities in energy and utility engagements. 
+14 
+A. 
+Concentric provides regulatory, financial, and economic advisory services to many energy 
+15 
+and utility clients across North America.  Our regulatory, economic, and market analysis 
+16 
+services include utility ratemaking and regulatory advisory services; energy market 
+17 
+assessments; market entry and exit analysis; corporate and business unit strategy 
+18 
+development; and energy contract negotiations.  Our financial advisory activities include 
+19 
+Q. 
+Q. 
+Q. 
+
+
+--- Page 4 ---
+ 
+Expert Testimony of Ann E. Bulkley 
+ 
+2 
+merger, acquisition, and divestiture assignments; due diligence and valuation assignments; 
+1 
+project and corporate finance services; and transaction support services.  In addition, we 
+2 
+provide litigation support services on a wide range of financial and economic issues for 
+3 
+clients throughout North America. 
+4 
+ 
+On whose behalf are you submitting this direct testimony? 
+5 
+A. 
+I am submitting this direct testimony on behalf of Central Hudson Gas & Electric 
+6 
+Corporation (“Central Hudson” or the “Company”), which is a wholly-owned subsidiary 
+7 
+of Fortis, Inc. (“Fortis”).  My Direct Testimony is part of the Company’s rate case filing 
+8 
+before the New York State Public Service Commission (“Commission” or “PSC”).   
+9 
+ 
+10 
+II. 
+PURPOSE AND OVERVIEW OF TESTIMONY 
+ 
+What is the purpose of your direct testimony? 
+11 
+A. 
+The purpose of my direct testimony is to present evidence and provide a recommendation 
+12 
+for the Company’s cost of equity (sometimes referred to as the return on equity or “ROE”) 
+13 
+and capital structure for rate-setting purposes for its electric and gas distribution utility 
+14 
+operations.  My analysis and recommendations are supported by the data presented in 
+15 
+Exhibits __ (AEB-1) through Exhibit __ (AEB-8) that were prepared by me or under my 
+16 
+direction. 
+17 
+Q. 
+Q. 
+
+
+--- Page 5 ---
+ 
+Expert Testimony of Ann E. Bulkley 
+ 
+3 
+ 
+Please provide a brief overview of the analyses that led to your ROE recommendation. 
+1 
+A. 
+As discussed in more detail below, it is important to consider the results of several 
+2 
+analytical approaches in estimating the cost of equity. To establish my ROE 
+3 
+recommendation, I developed a proxy group of companies that is a combination of electric 
+4 
+and gas utilities that face investment risk generally comparable to that of Central Hudson.  
+5 
+I developed a multi-stage Discounted Cash Flow (“DCF”) model and two forms of the 
+6 
+Capital Asset Pricing Model (“CAPM”).  I have considered the range of results from each 
+7 
+model and presented the DCF and CAPM results weighted equally and with the 
+8 
+Commission’s conventional two-thirds weighting of the DCF and one-third weighting of 
+9 
+the CAPM.   
+10 
+The use of a multi-stage DCF model and two forms of the CAPM is consistent with the 
+11 
+approach employed by the Commission in prior cases.  As I explain in more detail in my 
+12 
+direct testimony, placing less emphasis on the DCF model at this time is consistent with 
+13 
+the goals of the Recommended Decision (“RD”) issued in the Generic Finance Proceeding 
+14 
+(“GFP”), Case 91-M-0509, which is the docket that has been relied on by the Commission 
+15 
+to establish the ROE formula.  
+16 
+ 
+Please summarize the results of the ROE estimation models that you considered in 
+17 
+your analyses.   
+18 
+A. 
+As noted above, I considered the results of the multi-stage form of the DCF model and two 
+19 
+versions of the CAPM.  The results of my analyses are summarized in Figure 1. 
+20 
+Q. 
+Q. 
+
+
+--- Page 6 ---
+ 
+Expert Testimony of Ann E. Bulkley 
+ 
+4 
+Figure 1:  Summary of Analytical Results1  
+1 
+ 
+Low 
+Mean 
+High 
+Multi-Stage DCF 
+9.31% 
+9.69% 
+10.12% 
+   Traditional CAPM 
+10.87% 
+10.93% 
+11.21% 
+   Zero-Beta CAPM 
+11.49% 
+11.53% 
+11.73% 
+Mean CAPM 
+11.18% 
+11.23% 
+11.47% 
+67%/33% DCF/CAPM 
+9.94% 
+10.20% 
+10.57% 
+50%/50% DCF/CAPM 
+10.25% 
+10.46% 
+10.79% 
+ 
+2 
+ 
+What are your conclusions regarding the appropriate cost of equity for Central 
+3 
+Hudson? 
+4 
+A. 
+Based on the quantitative and qualitative analyses discussed throughout my direct 
+5 
+testimony, two alternative weightings of the DCF and CAPM results, and my assessment 
+6 
+of the business and financial risks of Central Hudson relative to the proxy group, I conclude 
+7 
+that a reasonable ROE is within the range of 9.90 percent and 10.80 percent, based on the 
+8 
+results of the historical weighting of the DCF and CAPM methodologies.  The Company 
+9 
+is requesting an ROE of 9.10 percent, which is well below the low end of the range of 
+10 
+model results.  As the Company explains elsewhere in direct testimony, the selection of 
+11 
+9.10% is intended to reflect the special economic circumstances affecting its customers at 
+12 
+this time. As shown in the results presented in Figure 1, the Company’s position is an 
+13 
+extremely conservative estimate of the investor-required ROE.  
+14 
+                                                 
+1  
+The DCF results presented in Figure 1 reflect the results of the models using low, average and high 
+growth rate assumptions. The range of results for the CAPM is based on three interest rate 
+scenarios, a historical average, a six-quarter projection and a long-term projection. 
+Q. 
+
+
+--- Page 7 ---
+ 
+Expert Testimony of Ann E. Bulkley 
+ 
+5 
+ 
+Please summarize your analysis of the appropriate ratemaking capital structure for 
+1 
+the Company. 
+2 
+A. 
+The Company’s requested equity ratio of 50.00 percent is at the low end of the range of 
+3 
+actual equity ratios for the companies in my proxy group over the last four years. Therefore, 
+4 
+I conclude that the Company’s requested equity ratio is reasonable, if not conservative, and 
+5 
+suggests a higher level of financial risk relative to the proxy companies.  Given this risk 
+6 
+differential and the significance of the overall ROE/capital structure determination to the 
+7 
+Company’s continuing ability to access capital, the Company’s requested return of 9.10 
+8 
+percent is a short-term concession that considers the effects of the COVID-19 pandemic 
+9 
+on the Company’s financial profile, the view of credit rating agencies on the risks of the 
+10 
+industry overall as well as the effect of the pandemic on the Company’s customers. 
+11 
+ 
+How is the remainder of your direct testimony organized? 
+12 
+A. 
+The remainder of my direct testimony is organized as follows: 
+13 
+Section III –  Discusses the regulatory guidelines and financial considerations 
+14 
+pertinent to the development of the cost of capital;   
+15 
+Section IV –  Briefly discusses the current and prospective conditions in capital 
+16 
+markets and the effect of those conditions on the Company’s cost of 
+17 
+equity; 
+18 
+Section V -  
+Explains my selection of the proxy group of electric and gas 
+19 
+distribution utilities used to develop my analytical results;  
+20 
+Section VI –  Describes my analyses and the analytical bases for my ROE 
+21 
+recommendation; 
+22 
+Section VII – Summarizes the business and regulatory risks of Central Hudson 
+23 
+relative to the proxy group companies;  
+24 
+Q. 
+Q. 
+
+
+--- Page 8 ---
+ 
+Expert Testimony of Ann E. Bulkley 
+ 
+6 
+Section VIII – Provides an assessment of the Company’s proposed capital 
+1 
+structure; 
+2 
+Section IX – Provides an assessment of the effect of a multi-year rate plan on the 
+3 
+authorized ROE; and 
+4 
+Section X – 
+Summarizes my conclusions and recommendations. 
+5 
+ 
+6 
+III. 
+REGULATORY GUIDELINES AND FINANCIAL CONSIDERATIONS 
+ 
+Please describe the guiding principles to be used in establishing the cost of capital for 
+7 
+a regulated utility. 
+8 
+A. 
+The United States Supreme Court’s precedent-setting Hope and Bluefield cases established 
+9 
+the standards for determining the reasonableness of a utility’s allowed ROE.  Among the 
+10 
+standards established by the Court in those cases are:  (1) consistency with the returns on 
+11 
+equity investments in other businesses having similar or comparable risks; (2) adequacy of 
+12 
+the return to support credit quality and access to capital; and (3) an understanding that the 
+13 
+means of arriving at a fair return are not controlling, only that the end result leads to just 
+14 
+and reasonable rates.2 
+15 
+Based on those standards, the Commission’s order in these cases should provide the 
+16 
+Company with the opportunity to earn a ROE that is:  (1) adequate to attract capital at 
+17 
+reasonable terms, thereby enabling it to continue to provide safe, reliable service; (2) 
+18 
+                                                 
+2  
+Federal Power Commission v. Hope Natural Gas Co., 320 U.S. 591 (1944) (“Hope”); Bluefield 
+Waterworks & Improvement Co., v. Public Service Commission of West Virginia, 262 U.S. 679 
+(1923) (“Bluefield”). 
+Q. 
+
+
+--- Page 9 ---
+ 
+Expert Testimony of Ann E. Bulkley 
+ 
+7 
+sufficient to support the financial soundness of the Company’s operations; and (3) 
+1 
+commensurate with returns on equity investments in enterprises having comparable risks.  
+2 
+The authorized ROE should enable the Company to finance capital expenditures at 
+3 
+reasonable rates and maintain its financial flexibility over the period during which rates are 
+4 
+expected to remain in effect. 
+5 
+ 
+Has the Commission conducted a proceeding to review the standard for estimating 
+6 
+the cost of equity for a regulated utility? 
+7 
+A. 
+Yes.  On August 21, 1991, the Commission issued an Order establishing a proceeding 
+8 
+commonly referred to as the GFP to review the Commission’s then-current methodology 
+9 
+for estimating the cost of equity and to examine various alternatives.3 
+10 
+ 
+Please provide a brief summary of the purpose of the GFP. 
+11 
+A. 
+The GFP was initiated by the Commission on August 21, 1991, in its Instituting Order 
+12 
+because the Commission recognized that the DCF method was particularly sensitive to 
+13 
+interest rate fluctuations and was producing returns far below those of other 
+14 
+methodologies.4  The Commission’s goal in opening the GFP was to reduce controversy 
+15 
+around ROE calculations and to attempt to find common ground on contentious issues by 
+16 
+developing a consensus approach for setting utility equity returns. 
+17 
+                                                 
+3  
+Case 91-M-0509, Proceeding on Motion of the Commission to Consider Financial and Regulatory 
+Policies for New York State Utilities, “Recommended Decision” (Issued July 19, 1994), at 2 (“GFP 
+RD”). 
+4  
+Ibid. 
+Q. 
+Q. 
+
+
+--- Page 10 ---
+ 
+Expert Testimony of Ann E. Bulkley 
+ 
+8 
+The GFP examined whether there should be greater consistency in rate of return 
+1 
+determinations from company to company, such that differences in authorized returns 
+2 
+could be directly attributed to differences in risk between companies.  In addition, the GFP 
+3 
+examined whether the Commission’s historical primary reliance on the DCF method 
+4 
+continued to provide fair returns.5  The Commission’s inquiry considered the merits of a 
+5 
+generic process to reduce redundancy in litigating equity returns and sought a robust, but 
+6 
+standardized, approach to setting ROE such that allowed returns would be commensurate 
+7 
+with the risk of the individual company and would not be skewed by the shortcomings of 
+8 
+a single methodology. 
+9 
+ 
+Please describe the conclusions outlined in the RD of the GFP. 
+10 
+A. 
+Ultimately, the GFP RD concluded that the Commission should implement a generic 
+11 
+process for setting equity returns, based on proxy groups (not company-specific data), and 
+12 
+that sole reliance on the DCF method should be replaced with a combination of the DCF 
+13 
+and CAPM methods.  The GFP RD proposed, as a preferred convention, a respective two-
+14 
+thirds – one-third weighting of the results of the DCF and CAPM analyses.  The GFP RD 
+15 
+recognized that the CAPM “should figure prominently in the analysis” because this 
+16 
+methodology takes into account fundamental information on interest rates and the returns 
+17 
+required by equity investors as a result of changes in interest rates.  At that time, the CAPM 
+18 
+was not accorded the same level of prominence as the DCF analysis, given that the former 
+19 
+                                                 
+5  
+Id., at 13-14. 
+Q. 
+
+
+--- Page 11 ---
+ 
+Expert Testimony of Ann E. Bulkley 
+ 
+9 
+had previously been used only as a check.6  While the GFP RD recognized that there was 
+1 
+a benefit to establishing an “operating norm” with respect to weighting the results of the 
+2 
+DCF and CAPM methods in setting the ROE, it also recognized that there may be good 
+3 
+reason to either adjust the weightings of the DCF and CAPM methods or to rely on different 
+4 
+ROE estimation models.  Specifically, the GFP RD provided the following guidance: 
+5 
+In either an annual-proceeding to determine a rate of return or in 
+6 
+individual proceedings, the 2/3 DCF and 1/3 CAPM convention should 
+7 
+be the presumption, but as Multiple Intervenors suggests, parties would 
+8 
+not be barred from introducing new methods or different weightings.  
+9 
+Such parties, however, would have the burden of convincing other 
+10 
+parties and the Commission of the relevance or superiority of their 
+11 
+proposals.7 
+12 
+ 
+13 
+Although the GFP RD did not give equal weighting to the DCF and the CAPM,  there was 
+14 
+an acknowledgement regarding the “varying degrees of acceptance in utility rate cases.”8  
+15 
+Subsequently, in the intervening decades since the GFC RD was issued, various regulatory 
+16 
+commissions have relied on multiple models beyond the DCF in determining the cost of 
+17 
+equity in responses to changes in capital market conditions.  The GFC RD further notes: 
+18 
+There is no doubt that the CAPM should figure prominently in the 
+19 
+analysis, for it includes fundamental information on interest rates and 
+20 
+the relative returns needed by stocks in view of those interest rates, and 
+21 
+it provides information of what competitive firms are earning.9  
+22 
+ 
+23 
+                                                 
+6  
+Id., at 27. 
+7  
+Ibid. 
+8  
+Id., at 22. 
+9  
+Id., at 27. 
+
+
+--- Page 12 ---
+ 
+Expert Testimony of Ann E. Bulkley 
+ 
+10 
+To establish the “operating norm,” the GFP RD recommended specific forms of the ROE 
+1 
+estimation models – a two-stage DCF approach and a Traditional and Zero Beta CAPM.  
+2 
+Although the GFP RD was never formally adopted by the Commission, it has served as a 
+3 
+touchstone for the Commission’s ROE determinations for the past 20 years.  Given that 
+4 
+various regulatory commissions have demonstrated the application of multiple models in 
+5 
+determining the cost of equity in recent years, it is appropriate for the Commission to also 
+6 
+consider multiple models in the context of the current capital market conditions. 
+7 
+ 
+Does the analysis presented in the remainder of your direct testimony meet the 
+8 
+intentions of the GFP RD? 
+9 
+A. 
+Yes, it does.  As discussed in greater detail in Section VI, the methodologies that I have 
+10 
+applied to estimate the return on equity are consistent with Commission precedent since 
+11 
+the RD in the GFP.  Moreover, the models used in my analysis extend the principles 
+12 
+advanced in the RD in the GFP to best practices in financial analysis and current capital 
+13 
+market conditions, as was contemplated in the RD.       
+14 
+Specifically, I consider the results of DCF and CAPM analyses.  In developing these ROE 
+15 
+estimation models, I rely on proxy groups of risk-comparable companies as discussed in 
+16 
+Section V.  I have used both the DCF and CAPM methodologies to estimate the return on 
+17 
+equity.  The multi-stage DCF model that I relied on is consistent with the methodology that 
+18 
+the Commission has relied on in that it allows growth rates to vary over time.  Consistent 
+19 
+with the fundamental principles upheld by the Commission, I have applied two versions of 
+20 
+Q. 
+
+
+--- Page 13 ---
+ 
+Expert Testimony of Ann E. Bulkley 
+ 
+11 
+the CAPM: Traditional and Zero Beta.  Finally, consistent with the principles of the GFP, 
+1 
+to reduce the volatility associated with the reliance on any one model, I have considered 
+2 
+the range of each model, as well as the DCF and CAPM results weighted equally, and with 
+3 
+the RD’s proposed 2/3 weighting on the DCF and 1/3 weighting of the CAPM. 
+4 
+ 
+Do the principles and intentions of the GFP RD require adherence to a static formula? 
+5 
+A. 
+No.  The GFP and RD did not require rote adherence to a static formula; rather, they 
+6 
+promoted some basic principles and afforded parties the flexibility to investigate 
+7 
+approaches to address changing financial market conditions.  The RD recognized the 
+8 
+benefit of using multiple approaches for setting ROE and, although it found benefits to a 
+9 
+preferred convention for setting ROE, it did not bar parties from introducing new cost of 
+10 
+capital estimation methods or weightings and specifically recognized that there may be 
+11 
+circumstances where this would be superior.  Capital market conditions vary widely over 
+12 
+time and each ROE methodology (DCF and CAPM) may be affected differently by 
+13 
+identical conditions.  The effect of these conditions on ROE must be assessed and 
+14 
+interpreted by the practitioner to determine if their effects are directionally appropriate and 
+15 
+are of a reasonable magnitude.  Accordingly, it is incumbent on the practitioner to review 
+16 
+the results of the analyses and exercise judgment as to how to weight those results in the 
+17 
+overall ROE determination.  A review of the RD reveals some uncertainty around the 
+18 
+correct level of weighting and certainly indicated a willingness to revisit its proposed 
+19 
+weightings in the future.  It is particularly fitting that the Commission, which is seeking to 
+20 
+update the traditional utility regulatory model with new, innovative approaches suitable to 
+21 
+Q. 
+
+
+--- Page 14 ---
+ 
+Expert Testimony of Ann E. Bulkley 
+ 
+12 
+current industry circumstances in the New York Reforming the Energy Vision (“NY 
+1 
+REV”) efforts, considers the integrity of the intent and principles of the RD and 
+2 
+demonstrate the flexibility to adapt the weightings of each methodology to the applicable 
+3 
+capital market conditions. 
+4 
+ 
+Were there other methodologies that the parties considered throughout the GFP and 
+5 
+determined to be informative in establishing a fair and reasonable ROE? 
+6 
+A. 
+Yes.  In Case No. 91-M-0508, the parties, which included many of the electric and gas 
+7 
+utilities and the Department of Public Service Staff (“Staff”) established a Return on Equity 
+8 
+Consensus Document (the “Consensus Document”) in June of 1993.  That document 
+9 
+summarized the work that had been completed by the Electric and Gas Industry Group 
+10 
+(“EGIG”) to evaluate other methodologies to be used in addition to or in substitution for 
+11 
+the DCF methodology.10  The Consensus Document recognized that the DCF model had 
+12 
+produced volatile returns that were highly sensitive to market conditions, in particular 
+13 
+interest rates.  The Consensus Document also recommended that the Commission rely on 
+14 
+a Three Methodology Approach to determine the allowed return on equity to be reflected 
+15 
+in the rates of the utilities including the DCF, the CAPM and a Comparable Earnings 
+16 
+methodology, which estimates the cost of equity using the earned and expected returns of 
+17 
+companies with similar risk.11  
+18 
+                                                 
+10  
+The EGIG was a group consisting of the nine major electric and natural gas utilities at the time, the 
+Public Utility Law Project of New York and Staff.  
+11  
+Case 91-M-0509, Return on Equity Consensus Document, June 2, 1993.  
+Q. 
+
+
+--- Page 15 ---
+ 
+Expert Testimony of Ann E. Bulkley 
+ 
+13 
+ 
+Why is this important at this time?  
+1 
+A. 
+As will be discussed in Section IV, recent market conditions have resulted in significant 
+2 
+volatility that is not sufficiently addressed by the DCF and CAPM models.  Therefore, it is 
+3 
+important to consider at some level, the comparability of the returns for other utilities of 
+4 
+similar risk.  
+5 
+ 
+Has the Commission continued to consider modifications to its regulatory approach 
+6 
+as industry and market conditions have changed? 
+7 
+A. 
+Yes, it has.  As is discussed in greater detail in the testimony of Mr. John Stewart, the 
+8 
+Commission is in the process of developing a clean energy plan to support the state’s 
+9 
+Climate Leadership and Community Protection Act (“CLCPA”) which requires the 
+10 
+elimination of all greenhouse gas emissions from electricity production by 2040 and 
+11 
+requires expansive renewable generation resources, offshore wind generation and energy 
+12 
+storage capacity development over that same time period.  As the Commission is 
+13 
+considering these expansive policies that significantly affect the investment plans and 
+14 
+operations of each of the utilities in New York, it is equally appropriate for the Commission 
+15 
+to consider whether the current ROE and capital structure and the methodologies relied on 
+16 
+to establish those methodologies provide sufficient financial support to the utilities 
+17 
+considering current market conditions and the Commission’s expansive energy 
+18 
+reformation plans to meet the requirements of Hope and Bluefield.   
+19 
+Q. 
+Q. 
+
+
+--- Page 16 ---
+ 
+Expert Testimony of Ann E. Bulkley 
+ 
+14 
+ 
+Is flexibility of approach and judgment important to an ROE determination? 
+1 
+A. 
+Yes, it is.  When faced with the task of estimating the cost of equity, analysts are inclined 
+2 
+to gather and evaluate as much relevant data (both quantitative and qualitative) as can be 
+3 
+reasonably analyzed.  Analysts and academics understand that ROE models are tools to be 
+4 
+used in the ROE estimation process and that strict adherence to any single approach, or the 
+5 
+specific results of any single approach, can lead to flawed conclusions.  No model can 
+6 
+exactly pinpoint the correct return on equity; rather, each model brings its own perspective 
+7 
+and set of inputs that inform the estimate of ROE.  That position is consistent with the Hope 
+8 
+finding that “[u]nder the statutory standard of ‘just and reasonable,’ it is the result reached, 
+9 
+not the method employed, which is controlling.”12  
+10 
+Though each model brings a different perspective and adds different information to the 
+11 
+analysis based on the underlying capital market conditions, each model also has its own set 
+12 
+of inherent weaknesses and should not be relied upon individually without corroboration 
+13 
+from other approaches.  Changes to inputs as a result of changes in economic conditions 
+14 
+could have widely different effects on the results of the various analyses.   
+15 
+Regardless of which analyses are performed to estimate the investor’s required return on 
+16 
+equity, the analyst must apply judgment to assess the reasonableness of results and to 
+17 
+determine the best weighting to apply to results under prevailing capital market conditions.  
+18 
+                                                 
+12  
+ Hope, 320 U.S., at 602. 
+Q. 
+
+
+--- Page 17 ---
+ 
+Expert Testimony of Ann E. Bulkley 
+ 
+15 
+No one model can reliably and consistently estimate the cost of capital that meets the 
+1 
+fairness standard of Hope and Bluefield in all market conditions. 
+2 
+ 
+What data is available to the Commission to consider comparable returns?  
+3 
+A. 
+There are several data points that should be considered by the Commission, including 
+4 
+recently authorized ROEs and expected returns for the proxy companies.  
+5 
+For example, since January 2019, authorized ROEs for electric and natural gas utilities in 
+6 
+fully litigated rate proceedings have been between 9.06 to 10.50 percent with a mean return 
+7 
+of approximately 9.69 percent.13  The Company’s request is well within this range and 
+8 
+below the average for the industry.  
+9 
+  
+10 
+IV. 
+CAPITAL MARKET CONDITIONS 
+ 
+Why is it important to analyze capital market conditions? 
+11 
+A. 
+The ROE estimation models rely on market data that are either specific to the proxy group, 
+12 
+in the case of the DCF model, or the expectations of market risk, in the case of the CAPM.  
+13 
+The results of the ROE estimation models can be affected by prevailing market conditions 
+14 
+at the time the analysis is performed.  While the ROE that is established in a rate proceeding 
+15 
+                                                 
+13  
+Source: SNL Energy. Data excludes New York and Illinois cases. Illinois ROEs for electric utilities 
+are set using formula rates. In addition, the Central Maine Power ROE of 8.25 percent was excluded 
+because it included a penalty of 100 basis points for management performance. Finally, the Otter 
+Tail Power Company ROE of 8.75 percent in South Dakota was excluded since the South Dakota 
+Public Utilities Commission approved a partial settlement where all of the issues except ROE had 
+been settled in the rate case so the ROE was the only fully litigated issue.  
+Q. 
+Q. 
+
+
+--- Page 18 ---
+ 
+Expert Testimony of Ann E. Bulkley 
+ 
+16 
+is intended to be forward-looking, the analyst uses current and projected market data, 
+1 
+specifically stock prices, dividends, growth rates and interest rates in the ROE estimation 
+2 
+models to estimate the required return for the subject company.   
+3 
+As discussed in the remainder of this section, current market conditions affect the results 
+4 
+of ROE estimation models. As a result, it is important to consider the effect of these 
+5 
+conditions on ROE estimation models when determining the appropriate range and 
+6 
+recommended ROE over the period that the recommended ROE would be in effect.  If 
+7 
+investors do not expect current market conditions to be sustained in the future, or the long-
+8 
+term assumptions embedded in the underlying analysis do not reflect long-term 
+9 
+expectations, it is possible that the ROE estimation models will not provide an accurate 
+10 
+estimate of investors’ required return during that rate period.  Therefore, it is very important 
+11 
+to consider projected market data to estimate the return for that forward-looking period. 
+12 
+ 
+What factors are affecting the cost of equity for regulated utilities in the current and 
+13 
+prospective capital markets? 
+14 
+A.  
+The cost of equity for regulated utility companies is being affected by several factors in the 
+15 
+current and prospective capital markets, including:  (1) the current market volatility has 
+16 
+created a short-term aberration in the market which must be carefully considered when 
+17 
+selecting the inputs for the ROE estimation models; 2) utility stock valuations,  which are 
+18 
+inversely related to dividend yields, are currently unsustainably high; and (3) recent Federal 
+19 
+Q. 
+
+
+--- Page 19 ---
+ 
+Expert Testimony of Ann E. Bulkley 
+ 
+17 
+tax reform.  In this section, I discuss each of these factors and how it affects the models 
+1 
+used to estimate the cost of equity for regulated utilities.    
+2 
+A. 
+CURRENT MARKET CONDITIONS 
+3 
+ 
+Please summarize current market conditions. 
+4 
+A. 
+In 2020, market conditions have been extremely volatile. In January and early February 
+5 
+2020, major market indices were generally increasing, many reaching new threshold levels.  
+6 
+By mid-February, as the global health pandemic became more apparent, market conditions 
+7 
+became increasingly more volatile. In mid-February utility stock prices reached an all-time 
+8 
+high, followed by a significant decline in the overall market and utility stocks. Market 
+9 
+conditions in March 2020 were more volatile than the last half of February.  As shown in 
+10 
+Figure 2 below, the S&P 500 Index swung more than 3 percent in 16 of the 22 trading days 
+11 
+in the month of March. As discussed in more detail later in my testimony, on March 23, 
+12 
+2020 the Federal Reserve implemented unprecedented monetary policy measures with the 
+13 
+goal of providing liquidity and stabilizing market conditions.  The magnitude of these 
+14 
+policies identifies the level of risk in the marketplace; however, the result has been that 
+15 
+prices in April and May were less volatile than in March.  
+16 
+Q. 
+
+
+--- Page 20 ---
+ 
+Expert Testimony of Ann E. Bulkley 
+ 
+18 
+Figure 2:  S&P 500 Index – Daily Price Change - January – June 16, 2020  
+1 
+ 
+2 
+ 
+Have you reviewed any other indicators that measure volatility in the financial 
+3 
+markets? 
+4 
+A.  
+Yes, I reviewed two other measures of volatility in financial markets which are the CBOE 
+5 
+Volatility Index (“VIX”) and the U.S. Treasury Note Volatility Index (“TYVIX”).  The 
+6 
+VIX measures investors’ expectation of volatility in the S&P 500 over the next 30 days. 
+7 
+The TYVIX, also published by CBOE, measures investors’ expectation of volatility in the 
+8 
+10-year Treasury Bond over the next 30 days.  As shown in Figure 3, the VIX and TYVIX 
+9 
+recently reached levels not seen since the Great Recession of 2008/09.  For example, the 
+10 
+VIX was 82.69 on March 16, 2020. The VIX has not reached 80.00 since November of 
+11 
+2008; however, it is important to note that the highest level reached during the Great 
+12 
+Recession of 2008/09 was 80.86.  Similarly, the TYVIX was 16.39 on March 19, 2020.  
+13 
+1/2/2020
+1/22/2020
+2/11/2020
+3/2/2020
+3/22/2020
+4/11/2020
+5/1/2020
+5/21/2020
+6/10/2020
+‐15%
+‐10%
+‐5%
+0%
+5%
+10%
+‐15.00%
+‐10.00%
+‐5.00%
+0.00%
+5.00%
+10.00%
+Q. 
+
+
+--- Page 21 ---
+ 
+Expert Testimony of Ann E. Bulkley 
+ 
+19 
+Since at least January 2003, the TYVIX has never exceeded 15.00 including during the 
+1 
+Great Recession of 2008/09.  These indicators show that COVID-19 has caused an increase 
+2 
+in the level of uncertainty and volatility in the market even greater than during the Great 
+3 
+Recession of 2008/09.   
+4 
+Figure 3:  CBOE VIX and TYVIX – January 2003 – June 16, 2020  
+5 
+ 
+6 
+ 
+Have you reviewed any indicators that measure the uncertainty in the global economy 
+7 
+related to COVID-19? 
+8 
+A. 
+Yes, I have.  I reviewed the global economic policy uncertainty index developed by 
+9 
+economists Scott Baker, Nicholas Bloom and Steven Davis.  The index is a GDP-weighted 
+10 
+average of the economic policy uncertainty index of 21 countries. The economic policy 
+11 
+uncertainty index measures the frequency that articles in publications of a country discuss 
+12 
+0
+2
+4
+6
+8
+10
+12
+14
+16
+18
+0
+10
+20
+30
+40
+50
+60
+70
+80
+90
+VIX Index
+TYVIX Index
+Q. 
+
+
+--- Page 22 ---
+ 
+Expert Testimony of Ann E. Bulkley 
+ 
+20 
+economic policy uncertainty.14  As shown in Figure 4:, uncertainty regarding global 
+1 
+economic policy is at its highest level since at least 1997, with the largest increase occurring 
+2 
+in the last two years as a result of the escalating trade dispute between the U.S. and China 
+3 
+and the spread of COVID-19.   
+4 
+Figure 4:  Global Economic Policy Uncertainty Index 
+5 
+ 
+6 
+ 
+7 
+ 
+Have rating agencies commented on the effects of current market conditions on 
+8 
+regulated utilities? 
+9 
+A. 
+Yes. Standard & Poor’s recently downgraded the outlook on the entire North American 
+10 
+utilities sector indicating that 25 percent of the industry was previously on a negative 
+11 
+outlook or CreditWatch with negative implications and that S&P expected that COVID-19 
+12 
+                                                 
+14  
+Source: Economic Policy Uncertainty: https://www.policyuncertainty.com/index.html. 
+ ‐
+ 50.00
+ 100.00
+ 150.00
+ 200.00
+ 250.00
+ 300.00
+ 350.00
+ 400.00
+ 450.00
+ 500.00
+1/1/1997
+10/1/1997
+7/1/1998
+4/1/1999
+1/1/2000
+10/1/2000
+7/1/2001
+4/1/2002
+1/1/2003
+10/1/2003
+7/1/2004
+4/1/2005
+1/1/2006
+10/1/2006
+7/1/2007
+4/1/2008
+1/1/2009
+10/1/2009
+7/1/2010
+4/1/2011
+1/1/2012
+10/1/2012
+7/1/2013
+4/1/2014
+1/1/2015
+10/1/2015
+7/1/2016
+4/1/2017
+1/1/2018
+10/1/2018
+7/1/2019
+4/1/2020
+GEPU
+GEPU ‐ Rolling Average
+Q. 
+
+
+--- Page 23 ---
+ 
+Expert Testimony of Ann E. Bulkley 
+ 
+21 
+would create incremental pressure and that a recession would lead to an increasing number 
+1 
+of downgrades and negative outlooks for utilities.15  
+2 
+ 
+What steps have the Federal Reserve and Congress taken to stabilize financial 
+3 
+markets and support the economy?   
+4 
+A. 
+On March 23, 2020, the Federal Reserve began expansive programs to support credit to 
+5 
+large employers; the Primary Market Corporate Credit Facility (“PMCCF”) to provide 
+6 
+liquidity for new issuances of corporate bonds, and the Secondary Market Corporate Credit 
+7 
+Facility (“SMCCF”) to provide liquidity for outstanding corporate debt issuances.  Further, 
+8 
+the Federal Reserve supported the flow of credit to consumers and businesses through the 
+9 
+Term Asset-Backed Securities Loan Facility (“TALF”).16  Additionally, on March 27, 
+10 
+2020, the Coronavirus Aid, Relief, and Economic Security (“CARES”) Act was signed into 
+11 
+law which is a large fiscal stimulus package aimed at also mitigating the economic effects 
+12 
+of the coronavirus.  While these expansive programs have provided for greater price 
+13 
+stability, as shown in Figure 3, both the VIX and the TYVIX remained well above long-
+14 
+term historical normal levels.    
+15 
+                                                 
+15  
+Standard & Poor’s Ratings Direct, COVID-19: The Outlook for North American Regulated 
+Utilities Turns Negative, April 2, 2020.  
+16  
+Federal Reserve Board Press Release, “Federal Reserve announces extensive new measures to 
+support the economy”, March 23, 2020.  
+Q. 
+
+
+--- Page 24 ---
+ 
+Expert Testimony of Ann E. Bulkley 
+ 
+22 
+ 
+How does the Federal Reserve’s recently announced programs effect the economy 
+1 
+and financial markets? 
+2 
+A. 
+The programs allow the Federal Reserve to purchase from banks government bonds and 
+3 
+corporate bonds. The banks then receive cash from the Federal Reserve which results in an 
+4 
+expansion of the money supply.  The increases in the money supply keep interest rates low 
+5 
+and increases the ability of banks to lend to consumers and businesses.  This is very 
+6 
+important given current market circumstances because it allows companies to continue to 
+7 
+get access to the liquidity needed to offset the negative effect of COVID-19 on business 
+8 
+operations.  As shown in Figure 5 below, the programs enacted by the Federal Reserve has 
+9 
+resulted in an unprecedented expansion of the money supply as measured by M217 in recent 
+10 
+months much greater than the increase seen following the Federal Reserve’s response to 
+11 
+the Great Recession of 2008/2009.     
+12 
+                                                 
+17  
+M2 is defined by the Federal Reserve as follows: M2 includes a broader set of financial assets held 
+principally by households. M2 consists of M1 plus: (1) savings deposits (which include money 
+market deposit accounts, or MMDAs); (2) small-denomination time deposits (time deposits in 
+amounts of less than $100,000); and (3) balances in retail money market mutual funds (MMMFs). 
+Q. 
+
+
+--- Page 25 ---
+ 
+Expert Testimony of Ann E. Bulkley 
+ 
+23 
+Figure 5:  M2 Money Stock – January 2008 – June 8, 202018 
+1 
+ 
+2 
+ 
+How has the market responded to the unprecedented intervention by the Federal 
+3 
+Reserve? 
+4 
+A. 
+As discussed above, the Federal Reserve’s expansive programs greatly increased the 
+5 
+money supply which resulted in lower borrowing costs for corporate firms and thus 
+6 
+continued access to the capital needed to offset the economic effects of COVID-19.  As a 
+7 
+result, interest rates have remained low and stability has been restored in the corporate 
+8 
+bond market. For investors, this led to allocating more funds to equities.  As shown in  
+9 
+Figure 6, while the yield on the 10-year Treasury Bond has remained relatively stable and 
+10 
+                                                 
+18  
+Board of Governors of the Federal Reserve System (US), M2 Money Stock [M2], retrieved from 
+FRED, Federal Reserve Bank of St. Louis; https://fred.stlouisfed.org/series/M2, June 24, 2020. 
+ 6,000
+ 8,000
+ 10,000
+ 12,000
+ 14,000
+ 16,000
+ 18,000
+ 20,000
+M2 Money Stock ($ billions)
+Q. 
+
+
+--- Page 26 ---
+ 
+Expert Testimony of Ann E. Bulkley 
+ 
+24 
+in the range of 0.58 percent to 0.91 percent between March 23, 2020 and June 16, 2020, 
+1 
+the S&P Utilities Index increased drastically following the Federal Reserve’s 
+2 
+announcement on March 23, 2020. Therefore, the polices of the Federal Reserve while 
+3 
+resulting in stability in the bond markets has resulted in inflated equity prices as investors 
+4 
+search for returns given the current low interest rate environment. 
+5 
+Figure 6:  10-year U.S. Treasury Bond Yield and S&P Utilities Index 
+6 
+ 
+7 
+ 
+What are your conclusions regarding the recent market volatility and its effect on the 
+8 
+cost of equity for Central Hudson? 
+9 
+A. 
+As discussed above, investors have responded to the spread of COVID-19 by divesting 
+10 
+higher-risk assets and purchasing lower-risk assets such as U.S. Treasury bonds.  
+11 
+Furthermore, the constant news regarding the spread of COVID-19 and its economic 
+12 
+effects has resulted in an abundance of information for investors to consider. This has 
+13 
+200.00
+220.00
+240.00
+260.00
+280.00
+300.00
+320.00
+340.00
+360.00
+380.00
+0.50
+0.70
+0.90
+1.10
+1.30
+1.50
+1.70
+1.90
+S&P Utilities Index
+10‐year Treasury Bond Yield
+10y US T‐Note
+^S&P 500 Utilities
+Federal Reserve 
+Announces Corporate 
+Bond Programs
+Q. 
+\ 
+' ' \ ' ' ' ... ' \ 
+\ 
+\ 
+I 
+/ 
+I 
+/ 
+\ 
+\ I 
+\ I 
+~ 
+,. .. 
+I 
+\ 
+I 
+' ... "'\ 
+• 
+I 
+\ 
+I 
+I 
+,.,., 
+~ 
+\-
+\ 
+'\ 
+\I 
+\ 
+I 
+- .,. .,. "- , 
+I 
+\ , 
+... , 
+~ __ , 
+... 
+.. 
+' ,, , 
+~ 
+
+
+--- Page 27 ---
+ 
+Expert Testimony of Ann E. Bulkley 
+ 
+25 
+resulted in unprecedented volatility in financial markets as investors have rotated in and 
+1 
+out of various assets classes responding to both positive and negative developments.   
+2 
+While the policies of the Federal Reserve have stabilized the corporate bond market, the 
+3 
+result has been an increase in equity prices as investors have had to move along the risk 
+4 
+spectrum in search of returns.  Therefore, ROE estimation models which rely on recent 
+5 
+market data must be interpreted with extreme caution.   For example, the Constant Growth 
+6 
+DCF model relies on the average share prices for the proxy companies, which have been 
+7 
+extremely volatile in the last several months and likely currently influenced by the policies 
+8 
+of the Federal Reserve, are not likely representative of what should be expected during the 
+9 
+period that Central Hudson’s rates will be in effect.  This highlights two key factors that 
+10 
+must be considered when determining the ROE for Central Hudson: 1) current and 
+11 
+prospective market conditions should be considered when determining where among the 
+12 
+range of results Central Hudson’s ROE should fall and 2) where possible it is necessary to 
+13 
+consider projected market data in each of the models which reflect economists’ 
+14 
+expectations for the market conditions that will exists during the period that Central 
+15 
+Hudson’s rates will be in effect.  
+16 
+B. 
+THE EFFECT OF MARKET CONDITIONS ON VALUATIONS 
+17 
+ 
+Please provide a brief summary of the recent monetary policy actions of the Federal 
+18 
+Reserve. 
+19 
+A. 
+On March 15, 2020 the Federal Reserve acknowledged that the recent spread of COVID-
+20 
+19 poses increased risks to economic activity in the U.S. and therefore lowered the federal 
+21 
+Q. 
+
+
+--- Page 28 ---
+ 
+Expert Testimony of Ann E. Bulkley 
+ 
+26 
+funds rate by 100 basis points, to a range of 0.00 percent to 0.25 percent.19    This was the 
+1 
+second unscheduled Federal Reserve meeting in March, with the first occurring on March 
+2 
+3rd when the Federal Reserve reduced the federal funds rate by 50 basis points. In addition 
+3 
+to the reduction in the federal funds rate, the Federal Reserve also announced plans to 
+4 
+increase its holdings of both Treasury and mortgage-backed securities.20  As discussed 
+5 
+previously, on March 23, 2020 the Federal Reserve also implemented an expansive credit 
+6 
+program designed to provide liquidity to corporations, large employers, consumers, 
+7 
+businesses and municipalities.21 This program initially targeted investment grade 
+8 
+corporations, but in April 2020 was expanded to include corporations that were investment 
+9 
+grade rated as of March 22, 2020.   The PMCF and SCCF programs were initially funded 
+10 
+at $75 billion, but the combined size of these programs, including the addition of below 
+11 
+investment grade corporate debt is proposed to be up to $750 billion.22 
+12 
+It is important to view the recent Fed policy decisions in the context of the reactions to 
+13 
+global exogenous events, in particular COVID-19. The recent spread of COVID-19 has 
+14 
+affected the global economy and caused a rise in volatility in the financial markets; thus, 
+15 
+the Federal Reserve reacted by reducing the federal funds rate to minimize the effect of 
+16 
+COVID-19 on the U.S. economy.  However, there is reason to believe that the economic 
+17 
+                                                 
+19  
+FOMC, Federal Reserve Press Release, March 15, 2020, at 1. 
+20  
+Id., at 2. 
+21  
+Federal Reserve Board Press Release, “Federal Reserve announces extensive new measures to 
+support the economy”, March 23, 2020. 
+22  
+FOMC Term Sheet, Primary and Secondary Corporate Credit Facilities, April 9, 2020.  
+
+
+--- Page 29 ---
+ 
+Expert Testimony of Ann E. Bulkley 
+ 
+27 
+effects of COVID-19 are temporary in nature and not permanent.  For example, according 
+1 
+to the Blue Chip Financial Forecasts report for July 2020, economists are projecting real 
+2 
+GDP growth of 18.2 percent in third quarter of 2020 and 8.2 percent in the fourth quarter 
+3 
+of 2020.23   Therefore, a number of prominent economists surveyed by Blue Chip are 
+4 
+expecting a strong rebound in economic growth in the second half of 2020.   
+5 
+ 
+How has the Federal Reserve’s monetary policy affected capital markets in recent 
+6 
+years? 
+7 
+A. 
+Extraordinary and persistent federal intervention in capital markets artificially lowered 
+8 
+government bond yields after the Great Recession of 2008-2009, as the Federal Open 
+9 
+Market Committee (“FOMC”) used monetary policy (both reductions in short-term interest 
+10 
+rates and purchases of Treasury bonds and mortgage-backed securities) to stimulate the 
+11 
+U.S. economy.  As a result of very low or zero returns on short-term government bonds, 
+12 
+yield-seeking investors have moved into longer-term instruments, bidding up prices and 
+13 
+reducing yields on those investments.  As investors have moved along the risk spectrum in 
+14 
+search of higher yields that meet their return requirements, there has been increased 
+15 
+demand for dividend-paying equities, such as natural gas and electric utility stocks.   
+16 
+                                                 
+23  
+Blue Chip Financial Forecasts, Vol. 39, No. 7, July 1, 2020, at 2. 
+Q. 
+
+
+--- Page 30 ---
+ 
+Expert Testimony of Ann E. Bulkley 
+ 
+28 
+ 
+How has the period of abnormally low interest rates affected the valuations and 
+1 
+dividend yields of utility shares? 
+2 
+A. 
+The Federal Reserve’s accommodative monetary policy has caused investors to seek 
+3 
+alternatives to the historically low interest rates available on Treasury bonds. A result of 
+4 
+this search for higher yield is that share prices for many common stocks, especially 
+5 
+dividend-paying stocks such as utilities, have been driven higher while the dividend yields 
+6 
+(which are computed by dividing the dividend payment by the stock price) have decreased 
+7 
+to levels well below the historical average. As shown in Figure 7, over the period from 
+8 
+2009 through February 18, 2020 (i.e., the peak of the market prior to the recent decline 
+9 
+resulting from the effects of COVID-19), Treasury bond yields and utility dividend yields 
+10 
+had declined. While investors have responded to the economic effects of COVID-19, 
+11 
+resulting in heightened volatility and a recent decline in the market, it is important to 
+12 
+highlight the relative performance of electric and natural gas utilities during this time-
+13 
+period.  As shown in Figure 7 while the stock prices of electric and natural gas utilities 
+14 
+have declined, which has resulted in an increase in dividend yields, the average dividend 
+15 
+yield for electric and natural gas utilities over the period from February 19, 2020 through 
+16 
+June 16, 2020 was 3.54 percent; which is still low when compared to historical dividend 
+17 
+yields.    
+18 
+Q. 
+
+
+--- Page 31 ---
+ 
+Expert Testimony of Ann E. Bulkley 
+ 
+29 
+Figure 7:  Dividend Yields for Electric and Natural Gas Utility Stocks24   
+1 
+ 
+2 
+ 
+Have equity analysts commented on the valuations of utility stocks? 
+3 
+A. 
+Yes. Several equity analysts have recognized that utility stock valuations are very high 
+4 
+relative to historical levels.  In the electric utilities industry report, Value Line noted the 
+5 
+high valuations:  
+6 
+                                                 
+24  
+Source:  Bloomberg Professional.   
+0.0%
+1.0%
+2.0%
+3.0%
+4.0%
+5.0%
+6.0%
+Dividend Yield
+30 Year Treasury Yield
+Q. 
+
+
+--- Page 32 ---
+ 
+Expert Testimony of Ann E. Bulkley 
+ 
+30 
+Utilities are usually seen as a safe haven when the markets are in 
+1 
+turmoil. Most of these stocks have declined far less than the broader 
+2 
+market averages, but have been much more volatile than their high 
+3 
+Price Stability Indexes suggest. Even a Safety rank of 1 (Highest) does 
+4 
+not necessarily mean that a sharp decline cannot occur. Additionally, 
+5 
+there has been a wide variance in the performance of these equities. 
+6 
+The stock of Xcel Energy has advanced modestly in price this year, but 
+7 
+the stock of Edison International has fallen more than 20% in price. 
+8 
+The average dividend yield of stocks in this industry has risen to 3.55% 
+9 
+after having fallen below 3% before the market tumbled in late 
+10 
+February. Because the broader market has declined far more than the 
+11 
+Electric Utility Industry, the median yield of dividend-paying stocks in 
+12 
+The Value Line Investment Survey is not considerably lower than the 
+13 
+median of the equities in this group.25  
+14 
+ 
+15 
+This is further supported by a recent Edward Jones report on the utility sector:  
+16 
+Utility valuations have become more attractive as shares have fallen 
+17 
+from recent highs. On a price-to-earnings basis, shares are now trading 
+18 
+closer to their historical averages, after trading near all-time highs. 
+19 
+Until early this year, we have seen utility valuations moving with 
+20 
+interest rate movements, although there have been exceptions to this. 
+21 
+Overall, however, we believe the low-interest-rate environment has 
+22 
+been the biggest factor in pushing utilities higher since many investors 
+23 
+buy them for their dividend yield.26 
+24 
+ 
+25 
+                                                 
+25  
+Value Line Investment Survey, Electric Utility (West) Industry, April 24, 2020, at 2214. 
+26  
+Andy Pusateri and Mike Doyle. Edward Jones, Utilities Sector Outlook (June 26, 2020), at 2.  
+
+
+--- Page 33 ---
+ 
+Expert Testimony of Ann E. Bulkley 
+ 
+31 
+Furthermore, Charles Schwab, who recently downgraded the utility sector to 
+1 
+underperform, noted that: 
+2 
+[h]owever, amid the drop in stocks in February and March, the 
+3 
+historically low-equity-beta Utilities sector simply didn't play its 
+4 
+traditional relative safe-haven role. The sharp drop in interest rates 
+5 
+would normally be expected to provide relative support to this sectors, 
+6 
+which relies on high levels of debt and tends to pay relatively high 
+7 
+dividends—often an attraction for investors when yields on fixed 
+8 
+income investments are low. However, there were unique 
+9 
+circumstances that outweighed these historical relationships.  
+10 
+ 
+11 
+For one thing, because some investors had already been reaching for 
+12 
+yield before the crisis began, the high-dividend-paying Utilities sector 
+13 
+had 
+been 
+bid 
+up 
+to 
+record-high 
+valuation 
+levels. 
+Even 
+14 
+underperformance year-to-date hasn’t fully reversed those relatively 
+15 
+high valuations, so we're not confident the sector will return to its 
+16 
+defensive roots if markets sell off again.  
+17 
+ 
+18 
+Additionally, with improving prospects for economic growth, longer-
+19 
+term yields have begun to nudge higher, which further reduces the 
+20 
+sector's attractiveness. The fundamentals of the sector remain relatively 
+21 
+strong, owing to still-low interest rates supporting capital expenditure 
+22 
+needs and stability of earnings growth expectations. However, the 
+23 
+sector's short-term relative performance has lagged amid a turn towards 
+24 
+more cyclical sectors. Therefore, we are underweighting Utilities, 
+25 
+despite expected bouts of volatility in the overall market.27 
+26 
+ 
+27 
+As noted by equity analysts, utility stocks have experienced high valuations and low 
+28 
+dividend yields, driven by investors moving into dividend paying stocks from bonds due 
+29 
+to the low interest rates in the bond market.  While the share prices of utilities have declined 
+30 
+in recent months due to the economic effects of COVID-19, the valuations of utilities 
+31 
+                                                 
+27  
+Charles Schwab, Utilities Sector Rating: Underperform, June 18, 2020. 
+
+
+--- Page 34 ---
+ 
+Expert Testimony of Ann E. Bulkley 
+ 
+32 
+remain high. Conversely, if economic conditions improve and interest rates increase, bonds 
+1 
+become a substitute for utility stocks and equity investors are more likely to rotate back to 
+2 
+cyclical sectors, which results in an increase in dividend yields.   This change in market 
+3 
+conditions that is expected over the long-term implies that the ROE calculated using 
+4 
+historical market data in the DCF model may understate the forward-looking cost of equity. 
+5 
+ 
+What is the effect of high valuations on utility stocks on the DCF model? 
+6 
+A. 
+High valuations have the effect of depressing the dividend yields, which results in overall 
+7 
+lower estimates of the cost of equity from the DCF model. 
+8 
+ 
+How do the valuations of public utilities compare to the historical average? 
+9 
+A. 
+Figure 8 summarizes the average historical and projected Price-to-Earnings (“P/E”) ratios 
+10 
+for the proxy companies calculated using data from Bloomberg Professional and Value 
+11 
+Line.28  As shown in Figure 8, the average P/E ratio for the proxy companies increased 
+12 
+from 2018 through the beginning of 2020 as a result of uncertainty in markets surrounding 
+13 
+the trade dispute between the U.S. and China and the spread of COVID-19.  The uncertainty 
+14 
+resulted in investors shifting to defensive sectors such as utilities and consumer staples.  
+15 
+However, the P/E ratios for the proxy companies have declined slightly in 2020, as 
+16 
+investors have rotated from utilities to Treasury Bonds due to the economic effects of 
+17 
+COVID-19. Although, as of June 16, 2020, the prices of utility stocks and thus the P/E 
+18 
+ratios are still at unsustainable levels.  For example, the average P/E ratio for the proxy 
+19 
+                                                 
+28  
+Selection of the Proxy Companies is discussed in detail in Section V of my direct testimony. 
+Q. 
+Q. 
+
+
+--- Page 35 ---
+ 
+Expert Testimony of Ann E. Bulkley 
+ 
+33 
+group from February 19, 2020 through June 16, 2020 (i.e., the period since the decline in 
+1 
+the market as a result of COVID-19) was 19.75 which is well above the average for the 
+2 
+period of 2000-2020 of 16.52. It is not reasonable to expect the proxy companies to 
+3 
+maintain P/E ratios that are well above long-term averages.  As shown in Figure 8, Value 
+4 
+Line is projecting that P/E ratios for the proxy companies will decline over the period of 
+5 
+2020 through 2025.  All else equal, if P/E ratios for the proxy companies decline, as Value 
+6 
+Line projects, the ROE results from the DCF model would be higher.  Therefore, the DCF 
+7 
+model using historical market data is likely understating the forward-looking cost of equity 
+8 
+for the proxy group companies. 
+9 
+
+
+--- Page 36 ---
+ 
+Expert Testimony of Ann E. Bulkley 
+ 
+34 
+Figure 8:  Average Historical Proxy Group P/E Ratios29 
+1 
+ 
+2 
+ 
+3 
+ 
+Have you reviewed any other market indicators that compare the current valuation 
+4 
+of utilities to the historical average? 
+5 
+A. 
+Yes.  To further assess how the current low interest rate environment has affected the 
+6 
+valuations of the companies in my proxy group, we reviewed the price/earnings to growth 
+7 
+(“PEG”) ratio for the Standard & Poor’s (“S&P”) Utilities Index.  The PEG ratio is 
+8 
+commonly used by investors to determine if a company is considered over- or under-
+9 
+valued.  The ratio compares the P/E ratio of a company to the expected growth rate of 
+10 
+                                                 
+29  
+Bloomberg Professional, historical data through June 16, 2020, and projected data from Value Line 
+Investment Survey, April 24, 2020, May 15, 2020, May 29, 2020 and June 12, 2020. 
+5.0
+7.0
+9.0
+11.0
+13.0
+15.0
+17.0
+19.0
+21.0
+23.0
+25.0
+P/E Ratio
+S5UTILX Index
+Proxy Group Average
+, 
+,,,# ,,,-5'" 
+,,,-5',,, 
+,,,-5'°' ,,,# i• i' ,,,# ,I' ,,,# ,,,., .. " ,,,.,.... ,,,.,~ ,,,.,~ 
+---
+.... 
+Q. 
+,. 
+, 
+\ 
+, • 
+, 
+I 
+I 
+' .... 
+... ..... .... 
+
+
+--- Page 37 ---
+ 
+Expert Testimony of Ann E. Bulkley 
+ 
+35 
+future earnings.  This allows investors to compare companies with similar P/E ratios but 
+1 
+different earnings growth projections.  If two companies have a P/E ratio of 20.0, but 
+2 
+company A is growing at a rate of 6.00 percent and company B is growing at a rate of 15.00 
+3 
+percent, then on a relative valuation basis company B is the better investment. 
+4 
+As shown in a report published by Yardeni Research, Inc., the PEG ratio for the S&P 
+5 
+Utilities Index is significantly higher than it has historically been because of the 
+6 
+accommodative monetary policy pursued by the Federal Reserve following the Great 
+7 
+Recession of 2008-2009.30  While the PEG ratio has slightly declined recently as investors 
+8 
+have rotated out of defensive sectors and into Treasury Bonds due to the short-term 
+9 
+economic effect of COVID-19, the PEG ratio for the S&P Utilities Index is still above the 
+10 
+historical average. In general, stocks with lower long-term PEG ratios are considered better 
+11 
+values.  As the PEG ratio increases above the long-term historical average, as has been the 
+12 
+case with the S&P Utilities Index, then the stocks are considered relatively over-valued 
+13 
+unless the growth rate increases to support the higher valuation.  As of June 18, 2020, the 
+14 
+PEG ratio for the S&P Utilities Index is close to 3.8, which indicates that many of the 
+15 
+stocks in the index are currently trading at levels well above the historical average.  This 
+16 
+analysis supports Value Line’s expectation that the P/E ratios of utilities will decline over 
+17 
+the near-term. 
+18 
+                                                 
+30  
+Yardeni Research, Inc. “S&P 500 Industry Briefing: Utilities,” June 24, 2020, at 5. 
+
+
+--- Page 38 ---
+ 
+Expert Testimony of Ann E. Bulkley 
+ 
+36 
+C. 
+EFFECT OF TAX REFORM ON THE ROE AND CAPITAL STRUCTURE 
+1 
+ 
+Are there other factors that should be considered in determining the cost of equity 
+2 
+for Central Hudson? 
+3 
+A. 
+Yes. The effect of the Tax Cuts and Jobs Act (“TCJA”) should also be considered in the 
+4 
+determination of the cost of equity. It is also relevant to setting the equity ratio in the capital 
+5 
+structure, which I address in Section VIII of my testimony. The credit rating agencies have 
+6 
+commented on the effect of the TCJA on regulated utilities. In summary, the TCJA is 
+7 
+expected to reduce utility revenues due to the lower federal income taxes, the end of bonus 
+8 
+depreciation, and the requirement to return excess Accumulated Deferred Income Taxes 
+9 
+(“ADIT”). This change in revenue is expected to reduce Funds From Operations (“FFO”) 
+10 
+metrics across the sector, and absent regulatory mitigation strategies, is expected to lead to 
+11 
+weaker credit metrics and possibly ratings downgrades for some utilities.31 
+12 
+ 
+Have credit or equity analysts commented on the effect of the TCJA on utilities? 
+13 
+A. 
+Yes. Each of the credit rating agencies has indicated that the TCJA would have an overall 
+14 
+negative credit impact on regulated operating companies of utilities and their holding 
+15 
+companies due to the reduction in cash flow that results from the change in the federal tax 
+16 
+rate and the loss of bonus depreciation.32,33 
+17 
+                                                 
+31  
+FitchRatings, Special Report, What Investors Want to Know, Tax Reform Impact on the U.S. 
+Utilities, Power & Gas Sector (Jan. 24, 2018). 
+32  
+Standard & Poor’s Ratings, “Industry Top Trends 2019, North America Regulated Utilities”, 
+November 8, 2018. 
+33  
+FitchRatings, Special Report, What Investors Want to Know, “Tax Reform Impact on the U.S. 
+Utilities, Power & Gas Sector”, January 24, 2018. 
+Q. 
+Q. 
+
+
+--- Page 39 ---
+ 
+Expert Testimony of Ann E. Bulkley 
+ 
+37 
+ 
+Has Moody’s responded to the increased risk for utilities resulting from the TCJA? 
+1 
+A. 
+Yes. Moody’s downgraded the outlook for the entire regulated utility industry from Stable 
+2 
+to Negative for the first time ever, citing ongoing concerns about the negative effect of the 
+3 
+TCJA on cash flows of regulated utilities.  Since mid-2018, Moody’s has downgraded the 
+4 
+credit ratings of several utilities based in part on the effects of tax reform on financial 
+5 
+metrics. As shown in Figure 9, the downgrades have continued in recent months. 
+6 
+Figure 9:  Credit Rating Downgrades Resulting from TCJA 
+7 
+Utility 
+Rating 
+Agency 
+Credit 
+Rating 
+before 
+TCJA 
+Credit 
+Rating 
+after 
+TCJA 
+Downgrade 
+Date 
+New Jersey Natural Gas Company 
+Moody’s 
+Aa3 
+A1 
+3/18/2020 
+Consolidated Edison Company of New York  
+Moody’s 
+A3 
+Baa1 
+3/17/2020 
+Consolidated Edison, Inc. 
+Moody’s 
+Baa1 
+Baa2 
+3/17/2020 
+Washington Gas Light Company 
+Moody’s 
+A2 
+A3 
+1/30/2020 
+Public Service Co. of North Carolina, Inc. 
+Moody’s 
+A3 
+Baa1 
+1/30/2020 
+Wisconsin Power and Light Company 
+Moody’s 
+A2 
+A3 
+12/11/2019 
+Vectren Utility Holdings 
+Moody’s 
+A2 
+A3 
+10/25/2019 
+Southern Indiana Gas & Electric Company 
+Moody’s 
+A2 
+A3 
+10/25/2019 
+Indiana Gas Company 
+Moody’s 
+A2 
+A3 
+10/25/2019 
+El Paso Electric Company 
+Moody’s 
+Baa1 
+Baa2 
+9/17/2019 
+Questar Gas Company 
+Moody’s 
+A2 
+A3 
+8/15/2019 
+DTE Gas Company 
+Moody’s 
+A2 
+A3 
+7/22/2019 
+South Jersey Gas Company 
+Moody’s 
+A2 
+A3 
+7/17/2019 
+Central Hudson Gas & Electric 
+Moody’s 
+A2 
+A3 
+7/12/2019 
+Oklahoma Gas & Electric Company 
+Moody’s 
+A2 
+A3 
+5/31/2019 
+American Water Works 
+Moody’s 
+A3 
+Baa1 
+4/1/2019 
+Niagara Mohawk Power Corporation 
+Moody’s 
+A2 
+A3 
+3/29/2019 
+KeySpan Gas East Corporation (KEDLI) 
+Moody’s 
+A2 
+A3 
+3/29/2019 
+Xcel Energy 
+Moody’s 
+A3 
+Baa1 
+3/28/2019 
+ALLETE, Inc. 
+Moody’s 
+A3 
+Baa1 
+3/26/2019 
+Brooklyn Union Gas Company (KEDNY) 
+Moody’s 
+A2 
+A3 
+2/22/2019 
+Q. 
+
+
+--- Page 40 ---
+ 
+Expert Testimony of Ann E. Bulkley 
+ 
+38 
+Utility 
+Rating 
+Agency 
+Credit 
+Rating 
+before 
+TCJA 
+Credit 
+Rating 
+after 
+TCJA 
+Downgrade 
+Date 
+Avista Corp. 
+Moody’s 
+Baa1 
+Baa2 
+12/30/2018 
+Consolidated Edison Company of New York  
+Moody's 
+A2 
+A3 
+10/30/2018 
+Consolidated Edison, Inc. 
+Moody's 
+A3 
+Baa1 
+10/30/2018 
+Orange and Rockland Utilities  
+Moody's 
+A3 
+Baa1 
+10/30/2018 
+Southwestern Public Service Company 
+Moody's 
+Baa1 
+Baa2 
+10/19/2018 
+Dominion Energy Gas Holdings 
+Moody's 
+A2 
+A3 
+9/20/2018 
+Piedmont Natural Gas Company, Inc. 
+Moody's 
+A2 
+A3 
+8/1/2018 
+WEC Energy Group, Inc. 
+Moody's 
+A3 
+Baa1 
+7/12/2018 
+Wisconsin Energy Capital 
+Moody’s 
+A3 
+Baa1 
+7/12/2018 
+Integrys Holdings Inc. 
+Moody's 
+A3 
+Baa1 
+7/12/2018 
+OGE Energy Corp. 
+Moody's 
+A3 
+Baa1 
+7/5/2018 
+Oklahoma Gas & Electric Company 
+Moody's 
+A1 
+A2 
+7/5/2018 
+ 
+1 
+ 
+Has the Commission recognized that the TCJA has had an adverse impact on utility 
+2 
+cash flows? 
+3 
+A. 
+Yes.  In the Commission’s proceeding on the effect of the TCJA on rates, the Commission 
+4 
+noted both the effect on cash flows and the rating agencies’ reaction to this.  Specifically, 
+5 
+the Commission observed:  
+6 
+Q. 
+
+
+--- Page 41 ---
+ 
+Expert Testimony of Ann E. Bulkley 
+ 
+39 
+The Commission agrees with the JU that strong investment grade credit 
+1 
+ratings benefit both utilities and their customers. In fact, credit quality 
+2 
+concerns were an integral factor in the methodology employed to pass 
+3 
+back savings in recent Niagara Mohawk and Central Hudson rate plans.  
+4 
+Likewise, as discussed above, they have factored into the individual 
+5 
+utility ratemaking approaches the Commission has determined here to 
+6 
+delay some sur-credits and preserve the deferrals associated with 2018 
+7 
+savings and excess ADFIT.  In particular, the Commission’s 
+8 
+approaches for Con Edison, KEDNY and KEDLI acknowledge that 
+9 
+each of these companies has had their Moody’s ratings outlook revised 
+10 
+from “stable” to “negative” as a result of cash flow concerns arising 
+11 
+from the Tax Act.34 
+12 
+ 
+13 
+Furthermore, in the order for Docket Nos. 17-E-0459 and 17-G-0460 for Central Hudson, 
+14 
+the Commission noted that the TCJA is viewed by credit rating agencies as having a 
+15 
+negative effect on the cash flows of utilities.  As a result, the Commission approved the 
+16 
+Joint Proposal submitted by the parties in the case which recommended increasing the 
+17 
+equity ratio for Central Hudson in Rate Year 2 and Rate Year 3 of the Company’s multi-
+18 
+year rate plan. Specifically, the Commission stated: 
+19 
+                                                 
+34  
+Case 17-M-0815, Proceeding on Motion of the Commission on Changes in Law that May Affect 
+Rates, “Order Determining Rate Treatment of Tax Changes” (Issued and Effective August 9, 2018), 
+at 62. 
+
+
+--- Page 42 ---
+ 
+Expert Testimony of Ann E. Bulkley 
+ 
+40 
+Given the degree of uncertainty regarding the ultimate impact of the 
+1 
+Tax Act on the Company’s creditworthiness, we find the JP’s use of 
+2 
+higher common equity ratios in Rate Year 2 and Rate Year 3 to be a 
+3 
+responsible and reasonable measure to forestall, or at least diminish, 
+4 
+the prospect of higher future borrowing costs attributable to a 
+5 
+diminution in Central Hudson’s creditworthiness over the next several 
+6 
+years.35 
+7 
+ 
+8 
+ 
+What conclusions do you draw from your analysis of capital market conditions? 
+9 
+A. 
+The important conclusions resulting from capital market conditions are: 
+10 
+ 
+The assumptions used in the ROE estimation models have been affected by recent 
+11 
+historical, atypical market conditions.   
+12 
+ 
+Recent market conditions reflect short-term exogenous shocks that are not expected 
+13 
+to persist over the long-term.  As a result, the recent atypical market conditions do 
+14 
+not reflect the market conditions that will be present when the rates for Central 
+15 
+Hudson will be in effect.   
+16 
+ 
+Recent market conditions demonstrate significant volatility and risk to equity that 
+17 
+would be reflected as higher expected returns for investors to take on incremental 
+18 
+equity risk. As a result, it is critical to consider the results of a variety of ROE 
+19 
+estimation models, and to consider the results of the models using forward-looking 
+20 
+                                                 
+35  
+Case 17-E-0459, Proceeding on Motion of the Commission as to the Rates, Charges, Rules and 
+Regulations of Central Hudson Gas & Electric Corporation for Electric Service, and Case 17-G-
+0460, Proceeding on Motion of the Commission as to the Rates, Charges, Rules and Regulations 
+of Central Hudson Gas & Electric Corporation for Gas Service,  “Order Adopting Terms of Joint 
+Proposal and Establishing Electric and Gas Rate Plan” (Issued and Effective June 14, 2018), at 40. 
+Q. 
+
+
+--- Page 43 ---
+ 
+Expert Testimony of Ann E. Bulkley 
+ 
+41 
+assumptions to estimate the cost of equity that will be in effect over the proposed 
+1 
+rate period.  
+2 
+ 
+Without adequate regulatory support, the TCJA will have a negative effect on utility 
+3 
+cash flows, which increases investor risk expectations for utilities. Therefore, it is 
+4 
+increasingly important to consider a rate of return and capital structure that support 
+5 
+the Company’s cash flow metrics to enable Central Hudson the ability to attract 
+6 
+capital at reasonable terms during the period that rates will be in effect. 
+7 
+V. 
+PROXY GROUP SELECTION 
+ 
+Please explain why you have used a group of proxy companies to determine the cost 
+8 
+of equity for the Company. 
+9 
+A. 
+In these proceedings, I am focused on estimating the cost of equity for the Company’s rate-
+10 
+regulated, electric, and natural gas distribution utility operations in New York.  Because 
+11 
+ROE is a market-based concept and the Company is not publicly traded, it is necessary to 
+12 
+establish a group of companies that are both publicly traded and comparable to the 
+13 
+Company in certain fundamental business and financial respects to serve as their “proxy” 
+14 
+in the ROE determination process.  As discussed later in my direct testimony, the proxy 
+15 
+companies used in my analyses all possess a set of operating and risk characteristics that 
+16 
+are substantially comparable to the Company and thus provide a reasonable basis for the 
+17 
+derivation and assessment of the Company’s ROE. 
+18 
+Q. 
+
+
+--- Page 44 ---
+ 
+Expert Testimony of Ann E. Bulkley 
+ 
+42 
+In utility rate proceedings before the Commission over the past 25 years (since the RD in 
+1 
+the GFP),36 the Commission has endorsed the use of proxy groups for the purpose of 
+2 
+determining utility ROEs.  Because proxy companies are now commonly used as the basis 
+3 
+for estimating the utility cost of equity, the primary objective of the screening process is to 
+4 
+establish a group of companies that are as comparable as possible to the Company with 
+5 
+respect to fundamental financial and business risks.  As a practical matter, while the 
+6 
+determination of an appropriate ROE necessarily requires a degree of informed judgment, 
+7 
+the careful selection of a risk-appropriate comparison group serves to mitigate the extent 
+8 
+to which subjective assessments must be applied. 
+9 
+ 
+Please provide a summary profile of the Company. 
+10 
+A. 
+Central Hudson’s business consists of its regulated electric and natural gas distribution 
+11 
+operations in a service territory that is comprised of approximately 2,600 square miles in 
+12 
+the Hudson Valley region of New York State, providing   electricity to approximately 
+13 
+300,000 customers and natural gas to approximately 79,000 customers.37  Central Hudson’s 
+14 
+long-term issuer ratings are A3 from Moody’s and A- from S&P.38   
+15 
+ 
+How did you select the companies in your proxy group? 
+16 
+A. 
+In recognition of the Company’s combination electric and natural gas utility operation, I 
+17 
+began with the companies that Value Line classifies as “Electric Utilities” and “Natural 
+18 
+                                                 
+36 
+Generic Finance RD, at 133-134. 
+37  
+Source:  Company website. 
+38 
+Source:  SNL Financial, accessed June 25, 2020.  
+Q. 
+Q. 
+
+
+--- Page 45 ---
+ 
+Expert Testimony of Ann E. Bulkley 
+ 
+43 
+Gas Distribution Companies.”  That combined group includes 47 domestic U.S. utilities.  I 
+1 
+simultaneously applied the following screening criteria to establish a risk-comparable 
+2 
+proxy group that includes electric and natural gas utility companies: 
+3 
+ To ensure that information regarding the proxy group companies is consensus-
+4 
+based, I eliminated the companies that are not covered by at least two utility 
+5 
+industry equity analysts; 
+6 
+ I eliminated companies that do not have positive growth rates from at least two 
+7 
+sources. 
+8 
+ I eliminated companies that do not have investment grade corporate credit ratings 
+9 
+and/or senior unsecured bond ratings according to S&P or Moody’s because such 
+10 
+companies do not have a similar financial risk profile to that of the Company; 
+11 
+ I eliminated companies that have not paid regular dividends or do not have positive 
+12 
+earnings growth projections from at least one source because such characteristics 
+13 
+are incompatible with the DCF model; 
+14 
+ To ensure that the proxy group consists of companies that are primarily 
+15 
+transmission and distribution regulated utilities, I eliminated companies that have 
+16 
+owned generation comprising greater than 60 percent of the Company’s MWh sales 
+17 
+to ultimate customers; 
+18 
+
+
+--- Page 46 ---
+ 
+Expert Testimony of Ann E. Bulkley 
+ 
+44 
+ To ensure that the proxy group consists of companies that are primarily regulated 
+1 
+utilities, I eliminated companies with less than 70 percent of total operating income 
+2 
+derived from regulated utility operations; 
+3 
+ I eliminated companies known to be party to a merger, acquisition, or other 
+4 
+transformational transaction as such activities may have a temporary effect on such 
+5 
+companies’ stock prices and projections unrelated to the overall cost of capital; and 
+6 
+ 
+What is the composition of your proxy group? 
+7 
+A. 
+My proxy group consists of the companies in Figure 10. 
+8 
+Q. 
+
+
+--- Page 47 ---
+ 
+Expert Testimony of Ann E. Bulkley 
+ 
+45 
+Figure 10:  Proxy Group 
+1 
+Company 
+Ticker 
+ALLETE, Inc. 
+ALE 
+American Electric Power Company, Inc. 
+AEP 
+Atmos Energy Corporation 
+ATO 
+Avangrid, Inc. 
+AGR 
+Avista Corporation 
+AVA 
+Black Hills Corporation 
+BKH 
+CMS Energy Corporation 
+CMS 
+Consolidated Edison, Inc. 
+ED 
+Edison International 
+EIX 
+Exelon Corporation 
+EXC 
+Hawaiian Electric Industries, Inc. 
+HE 
+New Jersey Resources Corporation 
+NJR 
+Northwest Natural Gas Company 
+NWN 
+NorthWestern Corporation 
+NWE 
+OGE Energy Corporation 
+OGE 
+ONE Gas, Inc. 
+OGS 
+Otter Tail Corporation 
+OTTR 
+PPL Corporation 
+PPL 
+Public Service Enterprise Group Inc. 
+PEG 
+Sempra Energy 
+SRE 
+South Jersey Industries, Inc. 
+SJI 
+Southwest Gas Corporation 
+SWX 
+Spire, Inc. 
+SR 
+Xcel Energy Inc. 
+XEL 
+ 
+2 
+ 
+Why do you believe that net operating income is an appropriate screening criterion? 
+3 
+A. 
+In establishing my proxy group, I relied on the percentage of net operating income derived 
+4 
+from regulated operations instead of the percentage of total revenue derived from regulated 
+5 
+operations because net operating income is more representative of the contribution of that 
+6 
+business segment to earnings and the corporation’s overall financial position.  Specifically, 
+7 
+Q. 
+
+
+--- Page 48 ---
+ 
+Expert Testimony of Ann E. Bulkley 
+ 
+46 
+a significant portion of gas and electric utility company revenue is derived from the costs 
+1 
+of purchased gas, purchased fuel, and purchased power, which, in most cases, are 
+2 
+recoverable through tracking mechanisms and do not, therefore, contribute to earnings.  
+3 
+Furthermore, this portion of total revenue can fluctuate considerably based on the cost of 
+4 
+gas and other inputs.  Therefore, relying exclusively on a revenue screen does not provide 
+5 
+a clear or necessarily consistent indicator of the contribution of the regulated utility 
+6 
+operations to a company’s earnings.  Net operating income excludes the cost of purchased 
+7 
+commodity and therefore more closely represents the contribution of the business segment 
+8 
+to earnings. 
+9 
+ 
+Please provide an example of a company that has been included in the proxy group 
+10 
+because net operating income was used instead of total revenue as a screening 
+11 
+criterion. 
+12 
+A. 
+South Jersey Industries, Inc. (“SJI”) would have been excluded from the proxy group if the 
+13 
+percentage of total revenue derived from regulated operations were used as a screening 
+14 
+criterion instead of the percentage of net operating income derived from regulated 
+15 
+operations.  SJI has an Energy Group segment that includes unregulated, wholesale energy 
+16 
+operations, retail natural gas and other operations and retail electric operations.39  In 2019, 
+17 
+the Energy Group segment had operating revenues of approximately $688 million.40  When 
+18 
+                                                 
+39  
+South Jersey Industries, Inc., 2019 Form 10-K, at 102.  
+40  
+Id., at 103.  
+Q. 
+
+
+--- Page 49 ---
+ 
+Expert Testimony of Ann E. Bulkley 
+ 
+47 
+compared to SJI’s total operating revenue of approximately $1.6 billion, it is clear that 
+1 
+SJI’s percentage of revenue derived from regulated operations would not meet the revenue 
+2 
+screening criterion.41  However, a substantial portion of Energy Group’s 2019 operating 
+3 
+expenses are related to natural gas and electricity purchases, therefore, profit margins are 
+4 
+dependent on commodity prices.  Thus, the Energy Group had operating income in 2019 
+5 
+of -$5 million.  As a result, the Energy Group segment does not represent a large percentage 
+6 
+of SJI’s net operating income.  As discussed above, net operating income is the more 
+7 
+appropriate screening criterion because it better approximates a business segment’s 
+8 
+contribution to earnings and the corporation’s overall financial position.  For example, SJI 
+9 
+operates a large natural gas distribution system in New Jersey and is generally regarded as 
+10 
+a gas distribution company.  The Energy Group segment of NJR represents a large 
+11 
+percentage of the company’s operating revenue but represents a small percentage of net 
+12 
+operating income.  SJI’s regulated operations contribute a larger portion to the company’s 
+13 
+earnings similar to Central Hudson and therefore should be included in the proxy group.  
+14 
+ 
+Do you believe that the 24 companies in your proxy group constitute a sufficiently 
+15 
+large proxy group? 
+16 
+A. 
+Yes, I do.  The analyses performed in estimating the ROE are more likely to be 
+17 
+representative of the subject utility’s cost of equity to the extent that the chosen proxy 
+18 
+companies are fundamentally comparable to the subject utility.  Because all analysts use 
+19 
+                                                 
+41  
+Ibid.  
+Q. 
+
+
+--- Page 50 ---
+ 
+Expert Testimony of Ann E. Bulkley 
+ 
+48 
+some form of screening process to arrive at a proxy group, the group, by definition, is not 
+1 
+randomly drawn from a larger population.  Consequently, there is no reason to place more 
+2 
+reliance on the quantitative results of a larger and more dissimilar proxy group simply by 
+3 
+virtue of the resulting larger number of observations. 
+4 
+ 
+Has the Commission typically relied on similar screening criteria when estimating the 
+5 
+ROE? 
+6 
+A. 
+Yes.  The Commission has typically relied on screening criteria that are similar to those 
+7 
+that I have used to develop my proxy groups.  The proxy group that is typically relied on 
+8 
+by the Commission is composed of a large group of dividend-paying companies with 
+9 
+investment grade bond ratings and regulated revenues of at least 70 percent that are not 
+10 
+subject to merger-related or corporate restructuring activities.42  For the reasons noted 
+11 
+above and discussed throughout my direct testimony, a proxy group based on these 
+12 
+somewhat less selective criteria may be less comparable to the Company than the proxy 
+13 
+group I have relied on and therefore may not produce appropriate estimates of the 
+14 
+Company’s required ROE. 
+15 
+                                                 
+42 
+See, e.g., Case 13-E-0030, Proceeding on Motion of the Commission as to the Rates, Charges, 
+Rules and Regulations of Consolidated Edison Company of New York, Inc. for Electric Service, 
+Testimony of Craig E. Henry, at 14-16. 
+Q. 
+
+
+--- Page 51 ---
+ 
+Expert Testimony of Ann E. Bulkley 
+ 
+49 
+ 
+Why is it appropriate to include natural gas distribution companies in the proxy 
+1 
+group for Central Hudson?   
+2 
+A. 
+Because Central Hudson provides electric and natural gas service, the Company is both an 
+3 
+electric utility and a natural gas distribution company.  Therefore, a proxy group that 
+4 
+recognizes the risks of natural gas distribution operations more closely approximates the 
+5 
+risk profile of Central Hudson. 
+6 
+ 
+Have other regulators considered the inclusion of natural gas distribution companies 
+7 
+in the proxy group used to estimate the cost of equity for an electric utility? 
+8 
+A. 
+Yes.  The Staff of the Maine Public Utilities Commission (“Maine Staff”) noted in Docket 
+9 
+No. 2015-00360 and Docket No. 2013-00443 that including companies in the proxy group 
+10 
+that own natural gas distribution operations or using a separate proxy group comprised of 
+11 
+natural gas distribution companies is appropriate for the purposes of comparing to an 
+12 
+electric utility that does not own any generation.43   Specifically, Maine Staff stated in 
+13 
+Docket No. 2015-00360 that “[l]ike distribution and transmission of electricity through 
+14 
+poles and wires, transportation of gas through pipes presents a similar risk profile to electric 
+15 
+T&D utilities.”44  In each case, the Maine Staff supported screening criteria that resulted 
+16 
+in the inclusion of companies in the proxy group that have natural gas operations. However, 
+17 
+                                                 
+43  
+Emera Maine, Request for Approval of a Proposed Rate Increase, Docket No. 2015-00360, Bench 
+Analysis at 6 (June 2, 2016); Bangor Hydro Electric Company and Maine Public Service Company, 
+Proposed Increase in Distribution Rates, Docket No. 2013-00443, Bench Analysis, at 7 (March 17, 
+2014). 
+44  
+Emera Maine, Request for Approval of a Proposed Rate Increase, Docket No. 2015-00360, Bench 
+Analysis, at 6-7 (June 2, 2016). 
+Q. 
+Q. 
+
+
+--- Page 52 ---
+ 
+Expert Testimony of Ann E. Bulkley 
+ 
+50 
+the Maine Staff recently expanded the proxy group screening process for transmission and 
+1 
+distribution electric utilities to include companies classified by Value Line as natural gas 
+2 
+distribution companies.  Specifically, in Docket No. 2018-00194, the Maine Staff 
+3 
+developed a proxy group that included natural gas distribution companies for the purposes 
+4 
+of estimating the cost of equity for Central Maine Power Company, a distribution electric 
+5 
+utility.45    
+6 
+ 
+7 
+VI. 
+COST OF EQUITY ESTIMATION 
+ 
+Please briefly discuss the ROE in the context of the regulated Rate of Return. 
+8 
+A. 
+The rate of return (“ROR”) for a regulated utility is based on its weighted average cost of 
+9 
+capital, in which the costs of the individual sources of capital are weighted by their 
+10 
+respective percentages of total capitalization of the utility.  The ROE included in the ROR 
+11 
+is weighted by the percentage of common equity in the regulated utility’s ratemaking 
+12 
+capital structure. 
+13 
+ 
+How is the required ROE determined? 
+14 
+A. 
+While the cost of debt can be directly observed, the cost of equity and the required ROE 
+15 
+are market-based and, therefore, must be estimated based on observable market 
+16 
+information.  The required ROE is determined by using one or more analytical techniques 
+17 
+                                                 
+45  
+Central Maine Power Company, Investigation into the Rates and Revenue Requirements of Central 
+Maine Power Company, Docket No. 2018-00194, Bench Analysis, at 42 (February 22, 2019). 
+Q. 
+Q. 
+
+
+--- Page 53 ---
+ 
+Expert Testimony of Ann E. Bulkley 
+ 
+51 
+that rely on market data to quantify investor expectations regarding the range of required 
+1 
+equity returns.  Informed judgment is applied, based on the results of those analyses, to 
+2 
+determine where within the range of results the cost of equity for a company falls.  As a 
+3 
+general proposition, the key consideration in determining the cost of equity is to ensure 
+4 
+that the methodologies employed reasonably reflect investors’ views of the financial 
+5 
+markets, the proxy group companies, and the subject company’s risk profile. 
+6 
+ 
+What methods did you use to determine the Company’s cost of equity?  
+7 
+A. 
+Consistent with Commission precedent, I used the DCF model and CAPM as the primary 
+8 
+approaches.  In establishing my recommended ROE, I relied on a multi-stage form of the 
+9 
+DCF model, and, consistent with the Commission’s stated preference, I used both the 
+10 
+traditional form of the CAPM, as well as the Zero-Beta form of that model.  In both forms 
+11 
+of the CAPM, I incorporated a forward-looking measure of the Market Risk Premium.  
+12 
+ 
+Why do you believe it is important to use more than one analytical approach? 
+13 
+A. 
+Because the cost of equity is not directly observable, it must be estimated based on both 
+14 
+quantitative and qualitative information.  When faced with the task of estimating the cost 
+15 
+of equity, analysts and investors are inclined to gather and evaluate as much relevant data 
+16 
+as reasonably can be analyzed.  As a result, a number of models have been developed to 
+17 
+estimate the cost of equity.  For that reason, I use multiple approaches to estimate the cost 
+18 
+of equity.  As a practical matter, however, all of the models available for estimating the 
+19 
+cost of equity are subject to limiting assumptions or other methodological 
+20 
+Q. 
+Q. 
+
+
+--- Page 54 ---
+ 
+Expert Testimony of Ann E. Bulkley 
+ 
+52 
+constraints.  Consequently, many finance texts recommend using multiple approaches 
+1 
+when estimating the cost of equity.  For example, Copeland, Koller, and Murrin46 suggest 
+2 
+using the CAPM and Arbitrage Pricing Theory model, while Brigham and Gapenski47 
+3 
+recommend the CAPM, DCF, and “bond yield plus risk premium” approaches.48  
+4 
+ 
+How are current market conditions affecting the results of the DCF and CAPM 
+5 
+models?  
+6 
+A. 
+As discussed in Section IV, the results of the DCF model are understating the forward-
+7 
+looking cost of equity.  The CAPM method offers some balance to the sensitivity of the 
+8 
+DCF model to low Treasury bond yields.  Low interest rates, however, also impact the 
+9 
+CAPM in two ways:  (1) if the risk-free rate is based on historical average yields on 
+10 
+Treasury bonds, it understates the forward-looking risk-free rate in the current capital 
+11 
+market environment, and (2) if the market risk premium is based on historical returns on 
+12 
+large company stocks minus the historical average risk free rate, it understates the forward-
+13 
+looking market risk premium.  To adjust for these shortcomings, the risk-free rate in the 
+14 
+CAPM analysis should also consider projected yields on Treasury bonds, and the market 
+15 
+risk premium should be based on a forward-looking computation of the expected return on 
+16 
+                                                 
+46 
+Tom Copeland, Tim Koller and Jack Murrin, Valuation: Measuring and Managing the Value of 
+Companies, 3rd Ed. (New York: McKinsey & Company, Inc., 2000), at 214. 
+47 
+Eugene Brigham, Louis Gapenski, Financial Management: Theory and Practice, 7th Ed. (Orlando: 
+Dryden Press, 1994), at 341. 
+48 
+Although it has historically been my practice to present the results of a bond yield plus risk premium 
+approach in the context of estimating a reasonable ROE, I have not done so in this case to limit the 
+number of contested issues.  The result of such an analysis, however, would suggest more weight 
+should be placed on the CAPM ROE determinations. 
+Q. 
+
+
+--- Page 55 ---
+ 
+Expert Testimony of Ann E. Bulkley 
+ 
+53 
+the total market less the risk-free rate.  Market risk premiums based on long-term historical 
+1 
+averages are unresponsive to movements in interest rates and would likely understate the 
+2 
+market risk premium and, accordingly, the cost of equity in the current capital market 
+3 
+conditions.   
+4 
+ 
+What are your conclusions about the results of the DCF and CAPM models?  
+5 
+A. 
+The results of both models have been affected by market conditions and, with traditional 
+6 
+data inputs, have a tendency to underestimate the current cost of equity.  The DCF model 
+7 
+is less reliable in current market conditions because dividend yields for utilities are low 
+8 
+and not expected to remain at current levels.  As discussed in Section IV, reports from 
+9 
+Value Line, Edward Jones and Charles Schwab demonstrate the expected change in market 
+10 
+conditions implies that the ROE calculated using historical market data in the DCF model 
+11 
+may understate the forward-looking cost of equity. The results from the CAPM are also 
+12 
+affected by current Treasury Bond yields which have experienced unprecedented volatility 
+13 
+in recent months due to the economic effects of COVID-19.  Therefore, the use of current 
+14 
+averages of Treasury bond yields as the estimate of the risk-free rate in the CAPM is not 
+15 
+appropriate since recent market conditions are not expected to continue over the long-term. 
+16 
+Instead, analysts should rely on projected yields of Treasury Bonds in the CAPM.  The 
+17 
+projected Treasury Bond yields results in CAPM estimates that are more reflective of the 
+18 
+market conditions that investors expect during the period that the Company’s rates will be 
+19 
+in effect.  Therefore, properly specified, the CAPM may be a more reliable model in current 
+20 
+market conditions than the DCF.  Given the sensitivity of each model to market conditions 
+21 
+Q. 
+
+
+--- Page 56 ---
+ 
+Expert Testimony of Ann E. Bulkley 
+ 
+54 
+and considering the expectation for changes in those conditions, it is appropriate to equally 
+1 
+weight the results of the DCF and CAPM models. 
+2 
+A. 
+DISCOUNTED CASH FLOW MODEL 
+3 
+ 
+Please describe the DCF approach. 
+4 
+A. 
+The DCF approach is based on the theory that a stock’s current market price represents the 
+5 
+present value of all expected future cash flows.  In its most general form, the DCF model 
+6 
+is expressed as follows: 
+7 
+𝑃଴ൌ
+஽భ
+ሺଵା௥ሻభ൅
+஽మ
+ሺଵା௥ሻమ൅⋯൅
+஽೙
+ሺଵା௥ሻ೙ 
+[1] 
+8 
+Where P0 represents the current market stock price, D1 … Dn are all expected future 
+9 
+dividends, and r is the discount rate, or required ROE.  As discussed below, I have not 
+10 
+included the constant growth form of the DCF model, but instead have focused on a multi-
+11 
+stage form of the DCF model. 
+12 
+ 
+Please generally describe the DCF model you relied on.  
+13 
+A. 
+The multi-stage DCF model is an extension of the constant growth form that enables the 
+14 
+analyst to specify growth rates over multiple stages.  As with the constant growth form of 
+15 
+the DCF model, the multi-stage form defines the cost of equity as the discount rate that sets 
+16 
+the current price equal to the discounted value of future cash flows.  A multi-stage DCF 
+17 
+model addresses the possibility that mean five-year growth rates may not be reasonable in 
+18 
+perpetuity and that payout ratios could vary over time. 
+19 
+Q. 
+Q. 
+
+
+--- Page 57 ---
+ 
+Expert Testimony of Ann E. Bulkley 
+ 
+55 
+ 
+Please describe the structure of the multi-stage DCF model.  
+1 
+A. 
+The multi-stage DCF model that I have used sets the proxy company’s current stock price 
+2 
+equal to the present value of future cash flows received over three time periods.  In all three 
+3 
+periods, cash flows are equal to the annual dividend payments that stockholders receive.  
+4 
+The first period is a short-term growth period that consists of the first five years; the second 
+5 
+period is a transition period from the short-term growth rate to the long-term growth rate 
+6 
+that occurs over five years (i.e., years six through ten); and the third period is a long-term 
+7 
+growth period that begins in year eleven and continues in perpetuity.  The ROE is then 
+8 
+calculated as the rate of return that results from the initial stock investment and the dividend 
+9 
+payments over the analytical period. 
+10 
+ 
+Has the Commission relied on a multi-stage DCF model in prior cases?  
+11 
+A. 
+Yes, the Commission has relied on a two-stage form of the DCF model in prior cases.49  
+12 
+The two-stage model that the Commission has relied on and the multi-stage model that I 
+13 
+rely on both define the cost of equity as the discount rate that sets the current stock price 
+14 
+equal to the discounted value of future cash flows that are expressed as projected dividends.  
+15 
+Both models project dividends using growth rates over multiple periods. 
+16 
+                                                 
+49 
+See Case 10-E-0362, Proceeding on Motion of the Commission as to the Rates, Charges, Rules and 
+Regulations of Orange and Rockland Utilities, Inc. for Electric Service, “Order Establishing Rates 
+for Electric Service” (Issued and Effective June 17, 2011) (“2011 O&R Rate Order”), at 68-69.   
+Q. 
+Q. 
+
+
+--- Page 58 ---
+ 
+Expert Testimony of Ann E. Bulkley 
+ 
+56 
+ 
+Is the multi-stage form of the DCF model consistent with the intent of the two-stage 
+1 
+model relied upon by the Commission? 
+2 
+A. 
+Yes.  Both the construction of the multi-stage model and the underlying assumptions are 
+3 
+consistent with the two-stage model relied upon by the Commission.  The constant growth 
+4 
+DCF model assumes the expected growth rate will be constant in perpetuity.  The multi-
+5 
+stage forms of the DCF model, including both the two-stage model that the Commission 
+6 
+has relied upon and the multi-stage form of the model that is relied on in my analysis, 
+7 
+recognize short and long-term growth prospects. 
+8 
+ 
+Does the multi-stage form of the DCF model offer improvements over the two-stage 
+9 
+model traditionally relied upon by the Commission? 
+10 
+A. 
+Yes.  The general form of the two-stage model relied upon by the Commission involves a 
+11 
+near-term growth stage based on projected dividends and a long-term growth stage 
+12 
+employing an estimated long-term growth rate in dividends.50  The Commission’s 
+13 
+application of a two-stage DCF assumes that a company’s growth abruptly shifts to a long-
+14 
+run growth state after the initial five-year period.  In contrast, the multi-stage model relies 
+15 
+on growth rates over three periods, as described above.  The multi-stage form of the DCF 
+16 
+                                                 
+50 
+See, e.g., 2011 O&R Rate Order; Case 06-E-1433 et al., Proceeding on Motion of the Commission 
+as to the Rates, Charges, Rules and Regulations of Orange and Rockland Utilities, Inc. for Electric 
+Service, “Order Setting Permanent Rates, Reconciling Overpayments During Temporary Rate 
+Period, and Establishing Disposition of Property Tax Refunds” (Issued and Effective October 17, 
+2007); and Case 08-E-0539 et al., Proceeding on Motion of the Commission as to the Rates, 
+Charges, Rules and Regulations of Consolidated Edison Company of New York, Inc. for Electric 
+Service, “Order Setting Electric Rates” (Issued and Effective April 24, 2009). 
+Q. 
+Q. 
+
+
+--- Page 59 ---
+ 
+Expert Testimony of Ann E. Bulkley 
+ 
+57 
+model provides for a gradual transition to a company’s expected long-term growth, 
+1 
+whereas the two-stage DCF model assumes the transition from short to long-term growth 
+2 
+occurs in one year.  
+3 
+ 
+What market data did you use to calculate the current stock price in your DCF 
+4 
+model? 
+5 
+A. 
+The stock prices that I relied on in my DCF model are based on the average market closing 
+6 
+prices for the proxy companies’ shares over the three months ended June 16, 2020. 
+7 
+ 
+What growth rates did you rely on in the multi-stage DCF model? 
+8 
+A. 
+As shown in Exhibit __ (AEB-1), I began with the current annualized dividend as of June 
+9 
+16, 2020 for each proxy company.  In the first stage of the model, the current annualized 
+10 
+dividend is escalated based on the average of the three-to five-year earnings growth 
+11 
+estimates reported by First Call, Zacks, and Value Line.  For the third stage of the model, 
+12 
+I relied on long-term projected growth in Gross Domestic Product (“GDP”).  The second 
+13 
+stage growth rate is a transition from the first stage growth rate to the long-term growth 
+14 
+rate on a geometric average basis. 
+15 
+ 
+Why do you believe that earnings growth rates are the appropriate growth rates to 
+16 
+be relied on in the DCF model? 
+17 
+A. 
+Earnings are the fundamental driver of a company’s ability to pay dividends; therefore, 
+18 
+earnings growth is the appropriate measure of a company’s long-term growth. In contrast, 
+19 
+changes in a company’s dividend payments are based on management decisions related to 
+20 
+Q. 
+Q. 
+Q. 
+
+
+--- Page 60 ---
+ 
+Expert Testimony of Ann E. Bulkley 
+ 
+58 
+cash management and other factors.  For example, a company may decide to retain certain 
+1 
+earnings rather than include those earnings in a dividend issuance.  Therefore, dividend 
+2 
+growth rates are less likely than earnings growth rates to reflect investor perceptions of a 
+3 
+company’s growth prospects. 
+4 
+ 
+Is there support for the use of analysts’ earnings growth estimates in the DCF model? 
+5 
+A. 
+Yes, there is significant academic support for the use of analysts’ earnings growth rates.  
+6 
+In addition, the majority of the data that are publicly available to investors sets forth 
+7 
+analysts’ projections of earnings growth rates.  Value Line is the only publication I am 
+8 
+aware of that provides projected dividend growth rates. 
+9 
+ 
+Please summarize the academic research on growth rates and stock valuation.  
+10 
+A. 
+The relationship between various growth rates and stock valuation metrics has been the 
+11 
+subject of much academic research.  Many published articles specifically support the use 
+12 
+of analysts’ earnings growth projections in the DCF model in general, as well as for a 
+13 
+method of calculating the expected market risk premium in particular.  While his report is 
+14 
+focused on the calculation of the CAPM, Dr. Robert Harris, demonstrates that financial 
+15 
+analysts rely on earnings forecasts (referred to in the article as “FAF”) and the use of a 
+16 
+constant growth DCF formula to estimate the expected market risk premium.51  Dr. Harris 
+17 
+made the following observations:  
+18 
+                                                 
+51 
+Robert S. Harris, Using Analysts’ Growth Forecasts to Estimate Shareholder Required Rates of 
+Return, Financial Management, Spring 1986, at p. 66. 
+Q. 
+Q. 
+
+
+--- Page 61 ---
+ 
+Expert Testimony of Ann E. Bulkley 
+ 
+59 
+[…] a growing body of knowledge shows that analysts’ earnings 
+1 
+forecasts are indeed reflected in stock prices.  Such studies typically 
+2 
+employ a consensus measure of FAF calculated as a simple average of 
+3 
+forecasts by individual analysts.52   
+4 
+***** 
+5 
+Given the demonstrated relationship of FAF to equity prices and the 
+6 
+direct theoretical appeal of expectational data, it is no surprise that FAF 
+7 
+have been used in conjunction with DCF models to estimate equity 
+8 
+return requirements.53   
+9 
+ 
+10 
+Dr. Harris’s work demonstrates that analysts rely on earnings as the appropriate measure 
+11 
+of growth in the DCF model.  Professors Carleton and Vander Weide also performed a 
+12 
+study to determine whether projected earnings growth rates are superior to historical 
+13 
+measures of growth in the implementation of the DCF model.54  Although the purpose of 
+14 
+that study was to “investigate what growth expectation is embodied in the firm’s current 
+15 
+stock price,”55  the authors clearly indicate the importance of earnings projections in the 
+16 
+context of the DCF model.  Professors Carleton and Vander Weide concluded that: 
+17 
+[…] our studies affirm the superiority of analysts’ forecasts over simple 
+18 
+historical growth extrapolations in the stock price formation process.  
+19 
+Indirectly, this finding lends support to the use of valuation models 
+20 
+whose input includes expected growth rates.56 
+21 
+ 
+22 
+                                                 
+52 
+Id., at 59.   
+53 
+Id., at 60. 
+54 
+James H. Vander Weide, Willard T. Carleton, Investor growth expectations: Analysts vs. history, 
+The Journal of Portfolio Management, Spring 1988. 
+55 
+Id., at 78. 
+56 
+Id., at 82. 
+
+
+--- Page 62 ---
+ 
+Expert Testimony of Ann E. Bulkley 
+ 
+60 
+Similarly, Harris and Marston presented “estimates of shareholder required rates of return 
+1 
+and risk premia which are derived using forward-looking analysts’ growth forecasts.”57  In 
+2 
+addition to other findings, Harris and Marston reported that,  
+3 
+[…] in addition to fitting the theoretical requirement of being forward-
+4 
+looking, the utilization of analysts’ forecasts in estimating return 
+5 
+requirements provides reasonable empirical results that can be useful 
+6 
+in practical applications.58 
+7 
+ 
+8 
+The Carleton and Vander Weide study was updated to determine whether the finding that 
+9 
+analysts’ earnings growth forecasts are relevant in the stock valuation process still holds.  
+10 
+The results of that updated study continued to demonstrate the importance of analysts’ 
+11 
+earnings forecasts, including the application of those forecasts to utility companies.59  
+12 
+Similarly, Brigham, Shome, and Vinson noted that “evidence in the current literature 
+13 
+indicates that (1) analysts’ forecasts are superior to forecasts based solely on time series 
+14 
+data; and (2) investors do rely on analysts’ forecasts.”60 
+15 
+                                                 
+57 
+Robert S. Harris, Felicia C. Marston, Estimating Shareholder Risk Premia Using Analysts’ Growth 
+Forecasts, Financial Management, Summer 1992. 
+58 
+Id., at 63. 
+59 
+Advanced Research Center, Investor Growth Expectations, Summer, 2004. 
+60 
+The Risk Premium Approach to Measuring a Utility’s Cost of Equity, Financial Management, 
+Spring 1985. 
+
+
+--- Page 63 ---
+ 
+Expert Testimony of Ann E. Bulkley 
+ 
+61 
+ 
+Do you believe that the Commission should revisit its historical reliance on dividend 
+1 
+per share growth rates during the initial five-year term of its Two Stage DCF?  
+2 
+A. 
+Yes, I do.   Sole reliance on Value Line projections of dividend per share growth is not 
+3 
+appropriate for several reasons.  First, the use of only dividend growth rates ignores the 
+4 
+substantial body of academic research demonstrating that earnings growth rates are the 
+5 
+most relevant factor in stock price valuation.61  Second, projections of dividend growth, 
+6 
+which would not include growth in retained earnings, only measure a portion of a 
+7 
+company’s growth.  Therefore, earnings growth projections are more complete estimates 
+8 
+of total company growth than projected dividend growth rates.  Finally, Value Line’s four- 
+9 
+to six-year projections are not consensus estimates, but reflect the viewpoint of a single 
+10 
+analyst.  Specifically, each stock covered by Value Line is assigned one specific analyst.  
+11 
+While there are various quality control procedures employed by Value Line’s analysts, 
+12 
+there is no process whereby multiple independent evaluations are performed and then 
+13 
+averaged together to form a consensus view.  Therefore, the Commission’s models, which 
+14 
+have historically relied only on projected dividend per share growth rates from Value Line, 
+15 
+reflect the growth expectations of a single analyst in the first stage of the model.  In 
+16 
+contrast, there are several consensus estimates of projected earnings per share growth rates 
+17 
+that are publicly available and widely used by investors, including Zacks Investment 
+18 
+                                                 
+61 
+The GFP RD indicates that the Telecommunications Group, which included Commission Staff, 
+supported the use of earnings per share growth in the DCF models employed to estimate the ROE 
+(RD at 9). 
+Q. 
+
+
+--- Page 64 ---
+ 
+Expert Testimony of Ann E. Bulkley 
+ 
+62 
+Research and Thomson First Call.  Each of these consensus forecasts considers the growth 
+1 
+expectations for each company based on the expectations of multiple analysts.  It is not 
+2 
+reasonable to exclude these timely and widely-available sources of information from the 
+3 
+analysis when it is likely that these real-time sources have become the more common data 
+4 
+points relied on by investors.   
+5 
+ 
+ How did you calculate the long-term GDP growth rate?  
+6 
+A. 
+As shown in Exhibit __ (AEB-2), the long-term growth rate of 5.56 percent is based on the 
+7 
+real GDP growth rate of 3.21 percent from 1929 through 2019,62 and a projected inflation 
+8 
+rate of 2.27 percent.  The rate of inflation of 2.27 percent is based on three measures:  (1) 
+9 
+the average long-term projected growth rate in the Consumer Price Index (“CPI”) of 2.20 
+10 
+percent, as reported by Blue Chip Financial Forecasts;63 (2) the compound annual growth 
+11 
+rate of the CPI for all urban consumers for 2031-2050 of 2.32 percent as projected by the 
+12 
+Energy Information Administration (“EIA”) in the Annual Energy Outlook 2020; and (3) 
+13 
+the compound annual growth rate of the GDP chain-type price index for 2031-2050 of 2.30 
+14 
+percent, also reported by the EIA in the Annual Energy Outlook 2020.64 
+15 
+                                                 
+62 
+U.S. Department of Commerce, Bureau of Economic Analysis, National Income and Product 
+Accounts Tables, Table 1.1.6, May 28, 2020. 
+63 
+Blue Chip Financial Forecasts, Vol. 39, No. 6, June 1, 2020, at 14.  
+64 
+U.S. Energy Information Administration, Annual Energy Outlook 2020, Table 20. 
+Q. 
+
+
+--- Page 65 ---
+ 
+Expert Testimony of Ann E. Bulkley 
+ 
+63 
+ 
+Why is the long-term GDP growth rate a reasonable estimate of long-term growth in 
+1 
+your multi-stage DCF model? 
+2 
+A. 
+Long-term estimates of GDP growth are commonly used in regulatory proceedings as a 
+3 
+proxy for the long-term growth rate in the multi-stage DCF analysis.  That application is 
+4 
+based on the common theoretical assumption that, over the long-run, all the companies in 
+5 
+the economy will tend to grow at the same constant rate.  That assumption is designed to 
+6 
+address the uncertainty associated with estimating individual company growth rates over 
+7 
+very long-time horizons and is not meant to suggest that company growth rates in the 
+8 
+economy will indeed converge in practice over any given period.   
+9 
+ 
+Is your calculation of GDP growth consistent with analysts’ estimates of long-term 
+10 
+GDP growth? 
+11 
+A. 
+Yes.  Investors understand that the U.S. economy goes through cycles of growth and 
+12 
+contraction.  Therefore, it is appropriate to consider the longest time-period possible to 
+13 
+measure historical real growth in GDP.  This view is consistent with Morningstar’s 
+14 
+explanation about measuring GDP growth: 
+15 
+Growth in real GDP (with only a few exceptions) has been reasonably 
+16 
+stable over time; therefore, its historical performance is a good estimate 
+17 
+of expected long-term future performance.  By combining the inflation 
+18 
+estimate with the real growth rate estimate, a long-term estimate of 
+19 
+nominal growth is formed.65 
+20 
+ 
+21 
+                                                 
+65  
+Ibbotson and Associates, Stocks, Bonds, Bills and Inflation, 1926-2012, 2013 Valuation Yearbook, 
+at 52. 
+Q. 
+Q. 
+
+
+--- Page 66 ---
+ 
+Expert Testimony of Ann E. Bulkley 
+ 
+64 
+Furthermore, Morningstar supports the use of long-term historical data:  
+1 
+The 87-year period starting with 1926 is representative of what can 
+2 
+happen: it includes high and low returns, volatile and quiet markets, 
+3 
+war and peace, inflation and deflation, and prosperity and depression.  
+4 
+Restricting attention to a shorter historical period underestimates the 
+5 
+amount of change that could occur in a long future period.  Finally, 
+6 
+because historical event-types (not specific events) tend to repeat 
+7 
+themselves, long-run capital market return studies can reveal a great 
+8 
+deal about the future.  Investors probably expect “unusual” events to 
+9 
+occur from time to time, and their return expectations reflect this.66 
+10 
+ 
+11 
+ 
+ 
+How does your estimate of long-term growth differ from the estimate the Commission 
+12 
+has traditionally relied on? 
+13 
+A. 
+The final stage of both the two-stage DCF model that the Commission has relied on and 
+14 
+my multi-stage DCF model extends into the future indefinitely.  My long-term growth 
+15 
+estimate reflects investors’ long-term growth expectations for the period from 2031 
+16 
+through 2050.  Therefore, the third stage of my multi-stage DCF model reflects investor 
+17 
+growth expectations beginning in the first year of the third stage of the model.  In contrast, 
+18 
+the sustainable growth estimate for the two-stage model that the Commission has typically 
+19 
+relied on is based on short-term growth rate forecasts.  The use of the sustainable growth 
+20 
+rate, calculated using Value Line’s published projections, provides an estimate of growth 
+21 
+four to six years in the future.  As a result, the use of the sustainable growth rate in 
+22 
+perpetuity in the second stage of a two-stage DCF model does not provide a long-run 
+23 
+                                                 
+66  
+Id., at 59. 
+Q. 
+
+
+--- Page 67 ---
+ 
+Expert Testimony of Ann E. Bulkley 
+ 
+65 
+estimate of growth.  Rather, the use of the sustainable growth rate assumes that the short-
+1 
+term estimate for the four- to six-year period from the Value Line report date is sustained 
+2 
+in perpetuity.  
+3 
+In contrast, the long-term growth rate in my DCF analyses reflects both economic forecasts 
+4 
+and market-derived projections of inflation over the longest available time period (30 or 
+5 
+more years).  Those estimates of long-term inflation expectations are combined with the 
+6 
+long-term average historical real GDP growth rate to calculate an expected nominal GDP 
+7 
+growth rate.  Consequently, the long-term growth estimate in my multi-stage DCF model 
+8 
+represents investors’ and economists’ views of nominal long-term GDP growth well 
+9 
+beyond the time horizon reflected in the four- to six-year Value Line sustainable growth 
+10 
+estimate relied on by the Commission in prior cases.   
+11 
+ 
+Does the use of Value Line data to develop the Sustainable Growth address concerns 
+12 
+about growth rate bias? 
+13 
+A. 
+No.  The sustainable growth rate is the sum of retention growth plus an SV factor,67 
+14 
+calculated using Value Line data.  As such, the sustainable growth rate estimate that the 
+15 
+Commission has relied upon is based on a single analyst’s viewpoint of a company’s 
+16 
+projected four- to six-year growth prospects.  
+17 
+                                                 
+67 
+Retention growth is the product of the expected earned ROE and the retention ratio (one minus the 
+dividend payout ratio).  The SV factor employs an estimate of the market-to-book ratio and the 
+expected expansion rate of outstanding shares of common stock in the future.    
+Q. 
+
+
+--- Page 68 ---
+ 
+Expert Testimony of Ann E. Bulkley 
+ 
+66 
+ 
+Are there other problems with the use of the sustainable growth rate as an estimate 
+1 
+of long-term growth? 
+2 
+A. 
+Yes.  Using the sustainable growth rate to estimate the long-term growth of the company 
+3 
+uses a very narrowly-defined set of short-term projections based on Value Line data.  
+4 
+Specifically, it relies on the following assumptions: (1) projected dividends for year two; 
+5 
+(2) projected dividends for years four to six; (3) projected earnings for years four to six; 
+6 
+(4) projected book value for year two; (5) projected book value for years four to six; (6) 
+7 
+current estimate of actual outstanding shares of stock; (7) projected shares of outstanding 
+8 
+stock for years four to six; and (8) current three-month stock price.  Each of these 
+9 
+assumptions is estimated, at most, for six years into the future.  As defined using these 
+10 
+assumptions, the sustainable growth rate, which is applied over the long term in the 
+11 
+Commission’s two-stage model, does not consider any actual long-term forecasts for the 
+12 
+specific company or the economy.  
+13 
+ 
+What is your conclusion regarding the methodology typically relied on by the 
+14 
+Commission to estimate the sustainable growth rate in the two-stage DCF model? 
+15 
+A. 
+There are several reasons why the sustainable growth rate that the Commission has used in 
+16 
+the past should no longer be relied on in the two-stage DCF model.  First, that “sustainable 
+17 
+growth” rate is not a long-term measure of growth and, therefore, should not be applied in 
+18 
+perpetuity in the second stage of the model.  That is, the sustainable growth rate 
+19 
+methodology implicitly assumes that investors establish long-term growth expectations 
+20 
+based entirely on short-term, company-specific projections.  In addition, the exclusive use 
+21 
+Q. 
+Q. 
+
+
+--- Page 69 ---
+ 
+Expert Testimony of Ann E. Bulkley 
+ 
+67 
+of Value Line data, which is a single analyst’s viewpoint, to establish the sustainable 
+1 
+growth rate assumes that investors do not consider any of the other financial information 
+2 
+that is widely available when establishing future dividend expectations.  It is unreasonable 
+3 
+to conclude that investors would ignore the expectations of long-term macroeconomic 
+4 
+growth in establishing the long-term growth estimates for an electric or natural gas 
+5 
+distribution utility or any other company. 
+6 
+ 
+Have other regulatory commissions reconsidered the use of the sustainable growth 
+7 
+rates in the ROE estimation methodology? 
+8 
+A. 
+Yes.  The Federal Energy Regulatory Commission’s (“FERC”) long-standing methodology 
+9 
+for setting the ROE in utility proceedings was to rely on a single stage DCF model that 
+10 
+used two estimates of short-term growth:  (1) analysts’ estimates of earnings growth, as 
+11 
+published by IBES; and (2) the sustainable growth rate, calculated using the (b*r) + (s*v) 
+12 
+components that are used by this Commission.  The FERC acknowledged that the 
+13 
+sustainable growth rate is not a measure of long-term growth, but is another estimate of 
+14 
+short-term growth similar to analysts’ earnings projections.  
+15 
+In Opinion No. 531, the FERC determined that it was appropriate to move from a constant 
+16 
+growth DCF methodology to a two-stage DCF model for public electric utility rate cases.68  
+17 
+In moving to the two-stage DCF, FERC now relies on analysts’ estimates of earnings 
+18 
+growth in the short-term and a long-term GDP growth rate as the measure of growth in the 
+19 
+                                                 
+68  
+Opinion No. 531, 147 FERC ¶ 61,234 (June 19, 2014). 
+Q. 
+
+
+--- Page 70 ---
+ 
+Expert Testimony of Ann E. Bulkley 
+ 
+68 
+second stage.  The FERC’s application of the two-stage model precludes the need for a 
+1 
+sustainable growth calculation.  This was unchanged by the recently proposed 
+2 
+methodology.  Although FERC has subsequently made preliminary decisions on the 
+3 
+appropriate weight to be applied to various models, it has not changed its application of the 
+4 
+two-stage DCF, which excludes any estimates of sustainable growth in its formulation. 
+5 
+ 
+What are the results of your DCF analyses? 
+6 
+A. 
+As shown in Exhibit __ (AEB-1), using the three-month average stock prices and low, 
+7 
+average, and high growth rate scenarios, the multi-stage DCF analysis produces an ROE 
+8 
+range of 9.31 percent to 10.12 percent. 
+9 
+ 
+Does the Multi-stage DCF Model discussed above address your concern about low 
+10 
+dividend yields? 
+11 
+A. 
+No, it does not.  While the multi-stage DCF model provides for changes in growth over 
+12 
+time, it does not address the low current dividend yields for utility stocks.  As discussed in 
+13 
+Section IV, those low dividend yields are causing the DCF model to understate the cost of 
+14 
+equity at this time. 
+15 
+ 
+What are your conclusions about the results of the DCF Model? 
+16 
+A. 
+The results of the DCF model are currently influenced by the low dividend yields on utility 
+17 
+stocks due to the low interest rate environment.  As discussed previously, one primary 
+18 
+assumption of the DCF model is the dividend yield.  To the extent these dividend yields 
+19 
+Q. 
+Q. 
+Q. 
+
+
+--- Page 71 ---
+ 
+Expert Testimony of Ann E. Bulkley 
+ 
+69 
+are abnormally low and not sustainable, as suggested by Value Line, it is important to 
+1 
+recognize that the results of the DCF model are understated.  
+2 
+B. 
+CAPITAL ASSET PRICING MODEL  
+3 
+ 
+Please briefly describe the Capital Asset Pricing Model. 
+4 
+The CAPM is a risk premium approach that estimates the market cost of equity for a given 
+5 
+security as a function of a risk-free return plus a risk premium (to compensate investors for 
+6 
+the non-diversifiable or “systematic” risk of that security).  As shown in Equation [2], the 
+7 
+CAPM is defined by four components: 
+8 
+ke = rf + β(rm – rf)  
+ [2] 
+9 
+where:  
+10 
+ 
+ 
+ke = the required market ROE 
+11 
+ 
+ 
+β = Beta coefficient of an individual security 
+12 
+ 
+ 
+rf = the risk-free rate of return 
+13 
+ 
+ 
+rm = the required return on the market as a whole 
+14 
+In this specification, the term (rm – rf) represents the market risk premium.  Based on the 
+15 
+theory underlying the CAPM, investors should be concerned only with systematic or non-
+16 
+diversifiable risk because unsystematic risk can be diversified away.  Non-diversifiable 
+17 
+risk is measured by the Beta coefficient, which is defined as: 
+18 
+β =                                           
+19 
+[3] 
+)
+(
+)
+,
+(
+m
+m
+e
+r
+Variance
+r
+r
+Covariance
+Q. 
+
+
+--- Page 72 ---
+ 
+Expert Testimony of Ann E. Bulkley 
+ 
+70 
+ 
+1 
+The variance of the market return, noted in Equation [3], is a measure of the uncertainty of 
+2 
+the general market, and the covariance between the return on a specific security and the 
+3 
+market reflects the extent to which the return on that security will respond to a given change 
+4 
+in the market return. 
+5 
+ 
+What risk-free rate did you use in your CAPM analysis? 
+6 
+A. 
+I used three estimates of the yield on Treasury bonds:  (1) the current three-month average 
+7 
+yield on 30-year Treasury bonds (1.39 percent);69 (2) the projected 30-year Treasury yield 
+8 
+for Q3 2020 – Q3 2021 (1.68 percent);70 and (3) the projected 30-year Treasury yield for 
+9 
+the period 2022-2026 (3.00 percent).71  In determining the security most relevant to the 
+10 
+application of the CAPM, it is important to select the term (or maturity) that best matches 
+11 
+the life of the underlying investment.  As noted by Morningstar: 
+12 
+The traditional thinking regarding the time horizon of the chosen 
+13 
+Treasury security is that it should match the time horizon of whatever 
+14 
+is being valued…  Note that the horizon is a function of the investment, 
+15 
+not the investor.  If an investor plans to hold stock in a company for 
+16 
+only five years, the yield on a five-year Treasury note would not be 
+17 
+appropriate since the company will continue to exist beyond those five 
+18 
+years.72 
+19 
+ 
+20 
+                                                 
+69 
+Bloomberg Professional as of June 16, 2020. 
+70 
+Aspen Publishers, Blue Chip Financial Forecasts, Vol. 39, No. 6, June 1, 2020, at 2. 
+71 
+Id., at 14. 
+72 
+Morningstar Inc., Ibbotson SBBI 2013 Valuation Yearbook, at 44.  
+Q. 
+
+
+--- Page 73 ---
+ 
+Expert Testimony of Ann E. Bulkley 
+ 
+71 
+Because utility companies represent long-duration investments, it is appropriate to use 
+1 
+yields on long-term Treasury bonds as the risk-free rate component of the CAPM.  In my 
+2 
+view, the 30-year Treasury bond is the appropriate security for that purpose.  Because the 
+3 
+cost of capital is intended to be forward-looking, it is appropriate to consider projected 
+4 
+measures of the market risk premium and interest rates. 
+5 
+ 
+Does your use of the 30-year Treasury bond yield suggest that all investors have an 
+6 
+investment horizon of 30 years? 
+7 
+A. 
+No, it does not. As discussed above, the appropriate factor to consider in determining what 
+8 
+duration bond to use is the expected life of the assets.  As noted by Morningstar, the use of 
+9 
+the 30-year Treasury bond best matches the life of the assets being valued, not the time 
+10 
+horizon of the investor.  
+11 
+ 
+Would you place more weight on one of the risk-free rate scenarios? 
+12 
+A. 
+Yes. Based on current market conditions, I place more weight on the results of the projected 
+13 
+yields on the 30-year Treasury bonds. As discussed previously, the estimation of the cost 
+14 
+of equity in this case should be forward looking because it is the return that investors would 
+15 
+receive over the future rate period. Therefore, the inputs and assumptions used in the 
+16 
+CAPM analysis should reflect the expectations of the market at that time. While I have 
+17 
+included the results of a CAPM analysis that relies on the current average risk-free rate, as 
+18 
+discussed with respect to the DCF analysis, recent market conditions may not be 
+19 
+representative of the market’s expectations for future interest rates. 
+20 
+Q. 
+Q. 
+
+
+--- Page 74 ---
+ 
+Expert Testimony of Ann E. Bulkley 
+ 
+72 
+ 
+Please describe your estimate of the market risk premium used in your CAPM. 
+1 
+A. 
+The estimated market risk premium is based on the expected return on the S&P 500 Index, 
+2 
+averaging estimates from both Bloomberg and Value Line, less the 30-year Treasury bond 
+3 
+yield.  The expected return on the S&P 500 Index is calculated using a DCF model for all 
+4 
+companies in the index based on market capitalization-weighted growth rates and dividend 
+5 
+yields.  The market risk premium implied by each of the three Treasury yields discussed 
+6 
+above is used in the CAPM analysis (see Exhibit __ (AEB-4)). 
+7 
+ 
+Is your calculation of the market risk premium consistent with the methodology relied 
+8 
+upon in previous cases before the Commission? 
+9 
+A. 
+Yes, it is.  The Commission previously has relied upon the calculation of a projected market 
+10 
+risk premium, based on the difference between the estimated forward-looking required 
+11 
+market return for the S&P 500, as provided by BAML, and the risk-free rate.73  As a 
+12 
+practical matter, that approach is consistent with the Market DCF-derived forward-looking 
+13 
+market risk premium estimate discussed above.  
+14 
+ 
+What Beta coefficients did you use in your CAPM model? 
+15 
+A. 
+I considered the average Beta coefficients for the proxy group companies as reported by 
+16 
+Bloomberg and Value Line (see Exhibit ___ (AEB-3). The Beta coefficients reported by 
+17 
+Bloomberg were calculated using ten years of weekly returns relative to the S&P 500 
+18 
+                                                 
+73 
+See, e.g., 2011 O&R Rate Order, at 77. 
+Q. 
+Q. 
+Q. 
+
+
+--- Page 75 ---
+ 
+Expert Testimony of Ann E. Bulkley 
+ 
+73 
+Index. Value Line’s calculation is based on five years of weekly returns relative to the New 
+1 
+York Stock Exchange Composite Index.   
+2 
+ 
+Did you consider another form of the CAPM? 
+3 
+A. 
+Yes.  In prior proceedings, the Commission has also relied upon the Zero-Beta CAPM (the 
+4 
+form of which is sometimes referred to as the “Empirical CAPM”74) in estimating the cost 
+5 
+of equity.  The Zero-Beta CAPM calculates the product of the Beta coefficient and the 
+6 
+market risk premium and applies a weight of 75 percent to that result.  The model then 
+7 
+applies a 25 percent weight to the market risk premium, without any effect from the Beta 
+8 
+coefficient.  The results of the two calculations are summed, along with the risk-free rate, 
+9 
+to produce the Zero-Beta CAPM result, as noted in Equation [4] below:   
+10 
+ 
+ 
+ 
+ke = rf + 0.75β(rm – rf) + 0.25(rm – rf)  
+[4] 
+11 
+where: 
+12 
+ 
+ 
+ke = the required market ROE 
+13 
+ 
+ 
+β = Beta coefficient of an individual security 
+14 
+ 
+ 
+rf = the risk-free rate of return 
+15 
+ 
+ 
+rm = the required return on the market as a whole 
+16 
+In essence, the Zero-Beta form of the CAPM addresses the tendency of the “traditional” 
+17 
+CAPM to underestimate the cost of equity for companies with low Beta coefficients such 
+18 
+                                                 
+74 
+See, e.g., Roger A. Morin, New Regulatory Finance, Public Utilities Reports, Inc., 2006, at 189.   
+Q. 
+
+
+--- Page 76 ---
+ 
+Expert Testimony of Ann E. Bulkley 
+ 
+74 
+as regulated utilities.  The Zero-Beta CAPM is not redundant to the use of adjusted Betas; 
+1 
+rather, it recognizes the results of academic research indicating that the risk-return 
+2 
+relationship is different (in essence, flatter) than estimated by the CAPM and that the 
+3 
+CAPM underestimates the “alpha,” or the constant return term.75   
+4 
+As with the CAPM, my application of the Zero-Beta CAPM uses the forward-looking 
+5 
+market risk premium estimates, the three yields on 30-year Treasury securities noted earlier 
+6 
+as the risk-free rate, and Bloomberg and Value Line Beta coefficients.  Exhibit __ (AEB-
+7 
+3) shows the CAPM results for the proxy group.  The traditional CAPM results range from 
+8 
+10.66 percent to 11.39 percent.  The Zero-Beta CAPM results range from 11.33 percent to 
+9 
+11.87 percent.  The range established by an equal weighting of the traditional CAPM and 
+10 
+the Zero-Beta CAPM is 11.18 percent to 11.47 percent.76    
+11 
+ 
+12 
+C. 
+WEIGHTED AVERAGE RESULTS  
+13 
+ 
+Please summarize the results of your analysis and your recommended ROE.  
+14 
+A. 
+As shown in Figure 11, I have presented the DCF and CAPM results weighted equally and 
+15 
+with the traditional two-thirds weighting of the DCF and one-third weighting of the CAPM.   
+16 
+                                                 
+75 
+Id., at 191. 
+76  
+The CAPM range is developed by averaging the traditional CAPM and Zero-Beta CAPM results 
+for each of the three scenarios presented in Exhibit ___ (AEB-3).  
+Q. 
+
+
+--- Page 77 ---
+ 
+Expert Testimony of Ann E. Bulkley 
+ 
+75 
+Figure 11:  Summary of Analytical Results77  
+1 
+ 
+Low 
+Mean 
+High 
+Multi-Stage DCF 
+9.31% 
+9.69% 
+10.12% 
+   Traditional CAPM 
+10.87% 
+10.93% 
+11.21% 
+   Zero-Beta CAPM 
+11.49% 
+11.53% 
+11.73% 
+Mean CAPM 
+11.18% 
+11.23% 
+11.47% 
+67%/33% DCF/CAPM 
+9.94% 
+10.20% 
+10.57% 
+50%/50% DCF/CAPM 
+10.25% 
+10.46% 
+10.79% 
+ 
+2 
+ 
+What was the Commission’s reasoning for developing its weighting of the DCF and 
+3 
+CAPM methodologies in the RD? 
+4 
+A. 
+At the time of the Generic Finance RD, it was felt that the Commission did not have a 
+5 
+sufficient amount of experience with the CAPM to warrant equal weight with the DCF.  
+6 
+The RD noted that the Commission had historically used the CAPM as a check on its DCF 
+7 
+results and was somewhat undecided as to “how far the Commission should go in elevating 
+8 
+the status of CAPM.”78  The RD opted for a gradual transition towards the CAPM, 
+9 
+ultimately settling on a one-third weighting, indicating that “proposals have simply not 
+10 
+shown that the CAPM should be raised all at once to parity with the DCF analysis in the 
+11 
+setting of returns on equity.”79  To the extent that this was a consideration in the RD’s 
+12 
+                                                 
+77  
+The DCF results presented in Figure 11 reflect the results of the models using low, average and 
+high growth rate assumptions. The range of results for the CAPM is based on three interest rate 
+scenarios, a historical average, a six-quarter projection and a long-term projection. 
+78  
+RD, at 27. 
+79  
+Ibid. 
+Q. 
+
+
+--- Page 78 ---
+ 
+Expert Testimony of Ann E. Bulkley 
+ 
+76 
+weighting determination, the Commission’s 25 years of experience with the CAPM since 
+1 
+that time provides a sound basis for adjusting the weighting of the two ROE methodologies. 
+2 
+ 
+Please summarize your conclusion regarding the relative weighting of the CAPM and 
+3 
+DCF results. 
+4 
+A. 
+While the RD proposed the two-thirds weighting on the DCF, the weightings and 
+5 
+methodologies used to estimate the ROE were left open for additional consideration in 
+6 
+future rate proceedings.  Since then, the Commission has consistently employed the CAPM 
+7 
+as an integral component of the formula used to develop ROE estimates.  There does not 
+8 
+appear to be any reason to infer that the Commission has less confidence in the results of 
+9 
+the CAPM than those of the DCF.  The conditions that warranted the Commission’s GFP 
+10 
+inquiry and the subsequent RD in the early 1990s exist again today with DCF results 
+11 
+considerably lower than those from other models, such as the CAPM, as well as returns 
+12 
+authorized in other jurisdictions.80  Finally, to the extent that dividend yields are low 
+13 
+relative to historical levels and could increase as yields on government bonds rise, the DCF 
+14 
+model is likely to underestimate the cost of equity.  Therefore, it is reasonable to place a 
+15 
+greater emphasis on the CAPM method when determining the ROE for the Company.   
+16 
+                                                 
+80  
+Source: SNL Energy. Data excludes New York and Illinois cases. Illinois ROEs for electric utilities 
+are set using formula rates. In addition, the Central Maine Power ROE of 8.25 percent was excluded 
+because it included a penalty of 100 basis points for management performance. Finally, the Otter 
+Tail Power Company ROE of 8.75 percent in South Dakota was excluded since the South Dakota 
+Public Utilities Commission approved a partial settlement where all of the issues except ROE had 
+been settled in the rate case so the ROE was the only fully litigated issue.  
+Q. 
+
+
+--- Page 79 ---
+ 
+Expert Testimony of Ann E. Bulkley 
+ 
+77 
+ 
+Are the assumptions used in the CAPM less reliable than the assumptions used in the 
+1 
+DCF model? 
+2 
+A. 
+Not necessarily.  As discussed previously, the CAPM relies on a risk-free rate, Beta and 
+3 
+the MRP.  The risk-free rate is readily observable and can be projected for the forward-
+4 
+looking period.  Beta is estimated using the historical relationship between the risk of the 
+5 
+stock and the overall market.  Finally, the market risk premium, while not observable, can 
+6 
+be estimated for the forward-looking period.  My testimony discusses how the dividend 
+7 
+yield has been affected by market conditions and therefore, although this assumption may 
+8 
+be easy to calculate using historical data, it is not representative of forward-looking market 
+9 
+conditions.  Therefore, while the CAPM is often criticized as relying on unobservable 
+10 
+assumptions, currently the dividend yield in the DCF model is not reflective of projected 
+11 
+market conditions. 
+12 
+ 
+13 
+VII. REGULATORY AND BUSINESS RISKS  
+A. 
+REGULATORY RISK 
+14 
+ 
+Please explain how the regulatory framework affects investors’ risk assessments. 
+15 
+A. 
+The ratemaking process is premised on the principle that, for investors and companies to 
+16 
+commit the capital needed to provide safe and reliable utility services, the utility must have 
+17 
+the opportunity to recover invested capital and the market-required return on such capital.  
+18 
+Regulatory commissions recognize that, because utility operations are capital intensive, 
+19 
+Q. 
+Q. 
+
+
+--- Page 80 ---
+ 
+Expert Testimony of Ann E. Bulkley 
+ 
+78 
+regulatory decisions should enable the utility to attract capital at reasonable terms, thereby 
+1 
+balancing the long-term interests of investors and customers.  In that respect, the regulatory 
+2 
+framework in which a utility operates is one of the most important factors in both debt and 
+3 
+equity investors’ risk assessments.  
+4 
+Because investors have many investment alternatives, even within a given market sector, 
+5 
+the Company’s authorized return must be adequate on a relative basis to ensure its ability 
+6 
+to attract capital under a variety of economic and financial market conditions.  From the 
+7 
+perspective of debt investors, the authorized return should enable the Company to generate 
+8 
+the cash flow needed to meet its near-term financial obligations, make the capital 
+9 
+investments needed to maintain and expand its systems, and maintain sufficient levels of 
+10 
+liquidity to fund unexpected events.  This financial liquidity must be derived not only from 
+11 
+internally-generated funds, but also from efficient access to capital markets.  
+12 
+From the perspective of equity investors, the authorized return must be adequate to provide 
+13 
+a risk-comparable return on the equity portion of the Company’s capital investments.  
+14 
+Because equity investors are the residual claimants on the Company’s cash flows (i.e., debt 
+15 
+interest must be paid prior to any equity dividends), equity investors are particularly 
+16 
+concerned with the regulatory framework in which a utility operates and its effect on future 
+17 
+earnings and cash flows. 
+18 
+
+
+--- Page 81 ---
+ 
+Expert Testimony of Ann E. Bulkley 
+ 
+79 
+ 
+Please explain how credit rating agencies consider the regulatory framework in 
+1 
+establishing a company’s credit rating.  
+2 
+A. 
+Moody’s and S&P both consider the overall regulatory framework in establishing credit 
+3 
+ratings.  As shown in Figure 12, Moody’s establishes credit ratings based on four key 
+4 
+factors:   
+5 
+Figure 12: Moody’s Rating Factors 
+6 
+Factor 
+Weighting 
+Regulatory Framework 
+25% 
+Ability to Recover Costs and Earn Returns 
+25% 
+Diversification 
+10% 
+Financial Strength 
+40% 
+ 
+Total 
+100% 
+ 
+7 
+Two of these factors (i.e., regulatory framework and the ability to recover costs and earn 
+8 
+returns) are based on the regulatory environment such that half of Moody’s overall 
+9 
+assessment of business and financial risk for regulated utilities is based upon the regulatory 
+10 
+environment.81  Therefore, Moody’s assigns regulatory risk a 50 percent weighting in the 
+11 
+overall assessment of business and financial risk for regulated utilities.82 
+12 
+                                                 
+81 
+Moody’s Investor Service, Rating Methodology, Regulated Electric and Gas Utilities, June 23, 
+2017, at 4. 
+82 
+Ibid.  
+Q. 
+
+
+--- Page 82 ---
+ 
+Expert Testimony of Ann E. Bulkley 
+ 
+80 
+S&P also identifies the regulatory framework as an important factor in credit ratings for 
+1 
+regulated utilities, stating: “One significant aspect of regulatory risk that influences credit 
+2 
+quality is the regulatory environment in the jurisdictions in which a utility operates.”83    
+3 
+S&P identifies four specific factors that it uses to assess the credit implications of the 
+4 
+regulatory jurisdictions of investor-owned regulated utilities: (1) regulatory stability; (2) 
+5 
+tariff-setting procedures and design; (3) financial stability; and (4) regulatory independence 
+6 
+and insulation.84 
+7 
+ 
+How does the regulatory environment in which a utility operates affect its access to 
+8 
+and cost of capital? 
+9 
+A. 
+The regulatory environment can significantly affect both the access to, and cost of capital 
+10 
+in several ways.  First, the proportion and cost of debt capital available to utility companies 
+11 
+are influenced by the rating agencies’ assessment of the regulatory environment.  As noted 
+12 
+by Moody’s, “[f]or rate regulated utilities, which typically operate as a monopoly, the 
+13 
+regulatory environment and how the utility adapts to that environment are the most 
+14 
+important credit considerations.”85   Moody’s further highlighted the relevance of a stable 
+15 
+and predictable regulatory environment to a utility’s credit quality, noting: “[b]roadly 
+16 
+speaking, the Regulatory Framework is the foundation for how all the decisions that affect 
+17 
+                                                 
+83  
+Standard & Poor’s Global Ratings, Ratings Direct, U.S. and Canadian Regulatory Jurisdictions 
+Support Utilities’ Credit Quality—But Some More So Than Others, June 25, 2018, at 2. 
+84 
+Id., at 1. 
+85  
+Moody’s Investors Service, Rating Methodology: Regulated Electric and Gas Utilities, June 23, 
+2017, at 6. 
+Q. 
+
+
+--- Page 83 ---
+ 
+Expert Testimony of Ann E. Bulkley 
+ 
+81 
+utilities are made (including the setting of rates), as well as the predictability and 
+1 
+consistency of decision-making provided by that foundation.”86 
+2 
+ 
+Have you performed an analysis of the level of regulatory protection that Central 
+3 
+Hudson receives in New York as compared to the proxy group companies? 
+4 
+A. 
+Yes.  I conducted an analysis of the regulatory protections that are in place for Central 
+5 
+Hudson compared with those for the operating utility companies held by the proxy group 
+6 
+companies.  The results of my analysis are presented in Exhibit ___ (AEB-5).  Specifically, 
+7 
+I examined the following factors that affect the business risk of Central Hudson and the 
+8 
+proxy group companies: (1) test year convention; (2) fuel cost recovery; (3) multi-year rate 
+9 
+plans; (4) non-volumetric rate design (i.e., straight fixed variable rate design, revenue 
+10 
+decoupling and formula rate plans); and (4) capital cost recovery. 
+11 
+As shown in Exhibit ___ (AEB-5), 50 percent of the operating companies (i.e., 50 out of 
+12 
+100) in the proxy group provide service in jurisdictions that allow the use of a fully or 
+13 
+partially forecast test year.   It is important to recognize that fuel and purchased power costs 
+14 
+typically account for a significant amount of the total operating costs for a regulated utility.  
+15 
+Like Central Hudson, all of the proxy companies have either purchased power or fuel cost 
+16 
+recovery mechanisms.  Additionally, 16 percent of the operating companies in the proxy 
+17 
+group (i.e., 16 out of 100) operate under multi-year rate plans and roughly 61 percent (i.e., 
+18 
+61 out of 100) have non-volumetric rate design through either straight fixed variable rate 
+19 
+                                                 
+86  
+Ibid. 
+Q. 
+
+
+--- Page 84 ---
+ 
+Expert Testimony of Ann E. Bulkley 
+ 
+82 
+design, revenue decoupling mechanisms or formula rate plans  that allow them to break the 
+1 
+link between customer usage and revenues.  Finally, 59 percent of the operating utilities 
+2 
+held by the proxy group (59 out of 100) have capital cost recovery mechanisms that allow 
+3 
+them to recover capital investments that are placed into service between rate cases. 
+4 
+ 
+Based on these analyses, what is your conclusion regarding the level of regulatory 
+5 
+protection for Central Hudson relative to that of the proxy group companies? 
+6 
+A. 
+My conclusion is that Central Hudson has comparable regulatory protection to the proxy 
+7 
+group companies. While the Commission was often a leader in implementing mechanisms 
+8 
+that reduce the business risk of regulated utilities in New York, many other jurisdictions 
+9 
+have since adopted those same mechanisms in recent years.  A November 2015 report 
+10 
+published by the Edison Electric Institute indicated that more and more jurisdictions have 
+11 
+moved toward the use of forecasted test years since the 2013 survey;87 fuel cost recovery 
+12 
+mechanisms have been ubiquitous for many years; revenue decoupling and weather 
+13 
+normalization clauses have been approved in many states, especially where declining usage 
+14 
+                                                 
+87  
+Edison Electric Institute, “Alternative Regulation for Emerging Utility Challenges:  2015 Update,” 
+prepared by Pacific Economics Group, November 11, 2015, at 32.  (EEI report states: “The ranks 
+of US jurisdictions that allow the use of forward test years have swollen and now encompasses 
+about half of the total.  Since our 2013 survey, electric utilities in Pennsylvania have successfully 
+used FTYs and utilities in Arkansas and Indiana have received legislative authorization for their 
+use.  Forward test years are the norm in Canadian regulation.”) 
+Q. 
+
+
+--- Page 85 ---
+ 
+Expert Testimony of Ann E. Bulkley 
+ 
+83 
+per customer is a concern;88 and many states have approved capital tracking mechanisms 
+1 
+that reduce the regulatory lag associated with significant investments to enhance reliability, 
+2 
+service quality and safety.89 Furthermore, an April 2020 report published by S&P Global 
+3 
+Market Intelligence noted the following: 
+4 
+Even before the current global crisis, Regulatory Research Associates, 
+5 
+a group within S&P Global Market Intelligence, had taken note of an 
+6 
+uptick in state regulators’ and policymakers’ interest in pursuing 
+7 
+innovative forms of regulation to address challenges associated with 
+8 
+expanding utility capital spending plans, modest to flat sales growth in 
+9 
+most parts of the country, regulatory lag and changes in the way the 
+10 
+utilities are expected to do business.90 
+11 
+ 
+12 
+ 
+Have you developed any additional analyses to evaluate the regulatory environment 
+13 
+in New York as compared to the jurisdictions in which the companies in your proxy 
+14 
+group operate? 
+15 
+A. 
+Yes. I have conducted two additional analyses to compare the regulatory framework of 
+16 
+New York to the jurisdictions in which the companies in the proxy group operate. 
+17 
+                                                 
+88  
+Id., at 21.  (EEI report states: “In the electric utility industry, decoupling has been favored in states 
+that strongly support DSM.  Since our 2013 survey, decoupling has been adopted for electric 
+utilities in Connecticut, Maine, Minnesota, and Washington state.  Decoupling is the most 
+widespread means of relaxing the revenue/usage link for gas distributors.  This reflects the fact that 
+gas distributors often experience declining average use and that this has been driven chiefly by 
+external forces.”) 
+89  
+Id., at 7.  (EEI report states: “It can be seen that the precedents are numerous and continue to grow.  
+This is the most widely used Altreg tool in the United States.  For electric utilities, trackers for 
+emissions controls, generation capacity, advanced metering infrastructure, and general system 
+modernization have been especially common in recent years.  Trackers for gas distributors typically 
+address the cost of replacing old case iron and bare steel mains.”)   
+90  
+"Alternative ratemaking plans in the U.S.: A key to reducing regulatory lag and providing certainty 
+for investors," Regulatory Research Associates, April 16, 2020, at 2. 
+Q. 
+
+
+--- Page 86 ---
+ 
+Expert Testimony of Ann E. Bulkley 
+ 
+84 
+Specifically, I considered two different rankings: (1) the Regulatory Research Associates 
+1 
+(“RRA”) ranking of regulatory jurisdictions; and (2) S&P’s ranking of the credit 
+2 
+supportiveness of regulatory jurisdictions. 
+3 
+ 
+ Please explain how you used the RRA ratings to compare the regulatory jurisdictions 
+4 
+of the proxy companies with the Company’s regulatory jurisdiction.  
+5 
+A. 
+RRA assigns a ranking for each regulatory jurisdiction between “Above Average/1” to 
+6 
+“Below Average/3,” with nine total rankings between these categories.  I applied a numeric 
+7 
+ranking system to the RRA rankings with “Above Average/1” assigned the highest ranking 
+8 
+(“1”) and “Below Average/3” assigned the lowest ranking (“9”).  As shown on Exhibit ___ 
+9 
+(AEB-6), Central Hudson’s jurisdictional ranking “Average/1” was slightly above the 
+10 
+average the proxy group ranking “Average/2” from RRA.  However, it is important to note 
+11 
+that in a recent report published on March 25, 2020, RRA categorized New York as a state 
+12 
+it is closely monitoring given the “heightened politicization of certain energy regulatory 
+13 
+matters in the state”.91  
+14 
+ 
+How did you conduct your analysis of the S&P credit supportiveness?  
+15 
+A. 
+For credit supportiveness, S&P classifies each regulatory jurisdiction into five categories 
+16 
+that range from “Credit Supportive” to “Most Credit Supportive.”  My analysis of the credit 
+17 
+supportiveness of the regulatory jurisdictions that the proxy companies operate in, as 
+18 
+compared with the Company’s regulatory jurisdiction, was similar to the analyses of the 
+19 
+                                                 
+91  
+“State Regulatory Evaluations: Assessments of regulatory climates for energy utilities”, Regulatory 
+Research Associates, March 25, 2020, at 7.   
+Q. 
+Q. 
+
+
+--- Page 87 ---
+ 
+Expert Testimony of Ann E. Bulkley 
+ 
+85 
+RRA overall regulatory ranking discussed above.  I assigned a numerical ranking to each 
+1 
+category, from Most Credit Supportive (“1”) to Credit Supportive (“5”).  As shown in 
+2 
+Exhibit ___ (AEB-7), the proxy group average ranking was 2.71, which would be classified 
+3 
+between “Highly Credit Supportive” and “Very Credit Supportive”, and is slightly stronger 
+4 
+than Central Hudson’s rank of “Very Credit Supportive” (“3”), suggesting investors 
+5 
+perceive regulation for the Company as slightly below the proxy group averages.  
+6 
+ 
+What is your conclusion regarding the regulatory framework in New York as 
+7 
+compared with the jurisdictions in which the proxy group companies operate? 
+8 
+A. 
+The regulatory framework in which a regulated utility provides service is one of the most 
+9 
+important considerations for debt and equity investors.  Based on my analysis, I conclude 
+10 
+that New York’s regulatory framework has somewhat greater risk than the jurisdictions in 
+11 
+which the proxy group companies provide service.  While the differences are not 
+12 
+significant, my analysis demonstrates that investors perceive regulation for Central Hudson 
+13 
+as slightly below average relative to the proxy group.  There is certainly no indication that 
+14 
+the business, regulatory and financial risks of the Company (or other New York utilities) 
+15 
+are lower than the industry average.  That is, while the various regulatory mechanisms 
+16 
+available to New York utilities may serve to mitigate certain incremental business risks, 
+17 
+they are not more extensive than those available to the proxy companies, so they do not 
+18 
+reduce business risk in a comparative analysis.  The Commission, however, has authorized 
+19 
+ROEs from 8.80 percent to 9.00 percent since 2018.  By comparison, the average 
+20 
+authorized ROEs for electric utilities were 9.60 percent in 2018 and 9.65 percent in 2019.  
+21 
+Q. 
+
+
+--- Page 88 ---
+ 
+Expert Testimony of Ann E. Bulkley 
+ 
+86 
+For gas utilities, the average authorized ROEs were 9.59 percent in 2018 and 9.71 percent 
+1 
+in 2019.92 Therefore, the large differential in the authorized ROE in New York as compared 
+2 
+with the nationwide range of returns is not supported by the risk assessment. 
+3 
+ 
+Have the Rating Agencies commented on the risk of operation in New York State? 
+4 
+A. 
+Yes. In November 2019, Moody’s issued a commentary on the risk of operating in New 
+5 
+York State, citing to the Governor’s threat to revoke National Grid’s certificate to operate 
+6 
+its downstate gas franchise.  Moody’s viewed the Governor’s letter to National Grid as a 
+7 
+risk factor for all New York utilities: 
+8 
+Cuomo’s letter is credit negative for all New York investor-owned 
+9 
+utilities because it signals a heightened willingness by the governor’s 
+10 
+office to intervene in utility regulation.  This creates a more 
+11 
+unpredictable operating environment for Consolidated Edison 
+12 
+Company of New York, Inc. (CECONY, A3, stable), Orange and 
+13 
+Rockland Utilities, Inc. (Baa1 stable), New York State Electric  Gas 
+14 
+Corporation (NYSEG, A3 stable), Rochester Gas & Electric 
+15 
+Corporation (A3 stable), Niagara Mohawk Power Corporation (A3 
+16 
+stable), Central Hudson Gas & Electric Corporation (CHG&E, A3 
+17 
+stable) and National Fuel Gas Company (Baa3 stable). 
+18 
+ 
+19 
+*** 
+20 
+                                                 
+92  
+S&P Global Market Intelligence, Regulatory Research Associates “RRA Regulatory Focus: Major 
+Rate Case Decisions – January – December 2019,” January 31, 2020. 
+Q. 
+
+
+--- Page 89 ---
+ 
+Expert Testimony of Ann E. Bulkley 
+ 
+87 
+The threat to revoke a utility’s license represents a weakening of the 
+1 
+consistency and predictability of New York’s utility regulatory 
+2 
+environment. While there have been instances of negative political 
+3 
+rhetoric regarding utility franchise licenses in the past, they have not 
+4 
+resulted in a formal letter which appears to bypass the regulatory 
+5 
+process.93  
+6 
+ 
+7 
+ 
+Have any other New York utilities recently received any ratings actions? 
+8 
+A. 
+Yes, Consolidated Edison Company of New York (“CECONY”) Moody’s downgraded 
+9 
+from A3 to Baa1 despite its recent rate order, observing: 
+10 
+CECONY is expected to produce weaker financial metrics in the 
+11 
+coming years following the New York Public Service Commission's 
+12 
+(NYPSC) January 2020 approval of a three-year rate plan that includes 
+13 
+over $1.0 billion of customer credits related to 2017 tax reform, an 
+14 
+8.8% allowed Return on Equity (ROE) and 48% equity capitalization. 
+15 
+Combined with a sizeable, multi-year capital expenditure program, 
+16 
+these factors will keep CECONY's ratio of cash flow from operations 
+17 
+before changes in working capital (CFO pre-WC) in a range between 
+18 
+14-16%, down from an average of about 20% over the past five years.94 
+19 
+ 
+20 
+Moody’s also pointed to “higher political intervention risk in New York State, relative to 
+21 
+comparable utilities in other states.” 95 
+22 
+Additionally, on June 4, 2020, Moody’s changed its outlook for Niagara Mohawk Power 
+23 
+Corporation (“NIMO”) from stable to negative.  In the ratings action announcement for 
+24 
+                                                 
+93  
+Moody’s Investor Services, Sector Comment, Regulated electric and gas utilities- New York, “ 
+Threat to revoke National Grid’s operating license is credit negative for utilities”, November 19, 
+2019.  
+94  
+Moody’s Investor Services, Rating Action: Moody's downgrades ConEd to Baa2 and CECONY to 
+Baa1; outlooks stable; affirms O&R at Baa1 and maintains negative outlook, March 17, 2020.   
+95  
+Ibid.   
+Q. 
+
+
+--- Page 90 ---
+ 
+Expert Testimony of Ann E. Bulkley 
+ 
+88 
+NIMO, Moody’s noted that the operating environment for New York utilities has “become 
+1 
+more challenging” due to a variety of factors.  Specifically, Moody’s indicated: 
+2 
+Moody's view that the operating environment for NiMo, along with 
+3 
+other New York utilities, has become more challenging reflects a 
+4 
+combination of (1) recent rate case determinations by the state energy 
+5 
+regulator, New York Public Service Commission (NY PSC); (2) 
+6 
+headwinds caused by the coronavirus outbreak; and (3) greater political 
+7 
+intervention with increased opposition to the building of new gas 
+8 
+infrastructure.96 
+9 
+ 
+10 
+Moody’s went on to indicate that the increasing politicization of gas utility regulation is 
+11 
+offsetting the transparent nature of ratemaking in New York: 
+12 
+Despite the transparent and formulaic nature of New York's regulatory 
+13 
+practices, Moody's sees greater uncertainty for utilities being driven by 
+14 
+the appearance of political intervention into utility operations. At the 
+15 
+sector level this, to-date, has only impacted gas utilities, and gas 
+16 
+accounts for a modest proportion of NiMo's rate base and earnings. 
+17 
+However, individual companies have been the subject to much stronger 
+18 
+rhetoric by New York State Governor, Andrew Cuomo, than Moody's 
+19 
+had seen previously and factored into its analysis. In November 2019, 
+20 
+National Grid's downstate gas business were threatened with having 
+21 
+their utility operating licenses revoked, although the threat was 
+22 
+ultimately rescinded as part of a settlement.97 
+23 
+ 
+24 
+Given the recent ratings action on CECONY, the downgraded outlook for NIMO and 
+25 
+Moody’s observations regarding the New York regulatory environment, Central Hudson’s 
+26 
+                                                 
+96  
+Moody’s Investors Service, “Rating Action: Moody’s Changes Outlook on Niagara Mohawk to 
+Negative, Affirms Ratings,” June 4, 2020, at 1. 
+97  
+Ibid. 
+
+
+--- Page 91 ---
+ 
+Expert Testimony of Ann E. Bulkley 
+ 
+89 
+ability to maintain its credit profile going-forward depends on a constructive outcome in 
+1 
+this case.  
+2 
+B. 
+PERFORMANCE BENCHMARKS 
+3 
+ 
+Are there other risks to Central Hudson that are specific to New York utility 
+4 
+regulation?  
+5 
+A. 
+Yes.  In addition to the characteristically low equity returns that are authorized by the 
+6 
+Commission for New York’s gas and electric utilities (in 2019 average authorized ROEs 
+7 
+in New York were 65 and 71 basis points below the national average for gas and electric 
+8 
+utilities, respectively),98 New York utilities are subject to strictly enforced customer service 
+9 
+quality, electric reliability, and gas safety measures where the utility is required to achieve 
+10 
+predetermined performance benchmarks, or be subject to a negative revenue adjustments 
+11 
+for any shortfall.  
+12 
+ 
+Please describe Central Hudson’s customer service quality, electric reliability, and 
+13 
+gas safety measures. 
+14 
+A. 
+Central Hudson is subject to a host of customer service quality, electric reliability, and gas 
+15 
+safety performance metrics for which negative revenue adjustments are incurred for 
+16 
+specific levels of non-performance.  Figure 13 below summarizes the potential annual 
+17 
+                                                 
+98  
+S&P Global Market Intelligence, Regulatory Research Associates “RRA Regulatory Focus: Major 
+Rate Case Decisions – January – December 2019,” January 31, 2020.  The 2019 national average 
+authorized ROEs was 9.65 percent for electric utilities and 9.71 percent for gas utilities in general 
+rate cases, compared to an authorized ROE of 9.00 percent in New York.   
+Q. 
+Q. 
+
+
+--- Page 92 ---
+ 
+Expert Testimony of Ann E. Bulkley 
+ 
+90 
+exposure that Central Hudson may face if it fails to meet these metrics and provides a list 
+1 
+of the types of metrics in each of the three performance categories.99   
+2 
+Figure 13:  Summary of Service Quality, Electric Reliability, and Gas Safety Performance 
+3 
+Metrics 
+4 
+Performance Measure 
+Revenue Adjustment 
+Positive (PRA)/ Negative 
+(NRA) 
+Customer Service Quality Performance 
+Measures: 
+ 
+PSC Complaint Rate,  
+ 
+Customer Satisfaction Index 
+ 
+Calls Answered in 30 seconds  
+NRA: $2.8 million 
+Electric Reliability Performance Metrics: 
+ 
+SAIFI,  
+ 
+CAIDI,  
+ 
+NRA: 30 basis points each on 
+a pre-tax basis for failure to 
+meet pre-established target 
+levels 
+Gas Safety Performance: 
+ 
+Leak Management 
+ 
+Excavation Damage 
+ 
+Emergency Response 
+ 
+Gas Safety Violations 
+ 
+Leak Prone Pipe  
+ 
+4bps - (12) bps 
+ 
+10 bps - (27) bps 
+ 
+6 bps – (9) bps 
+ 
+Uncertain 
+ 
+2 bps/ mi – (12 bps)  
+ 
+5 
+                                                 
+99  
+Case 17-E-0459, Proceeding on Motion of the Commission as to the Rates, Charges, Rules and 
+Regulations of Central Hudson Gas & Electric Corporation for Electric Service, and Case 17-G-
+0460, Proceeding on Motion of the Commission as to the Rates, Charges, Rules and Regulations 
+of Central Hudson Gas & Electric Corporation for Gas Service, “Order Adopting Terms of Joint 
+Proposal and Establishing Electric and Gas Rate Plan” (Issued and Effective June 14, 2018).  
+
+
+--- Page 93 ---
+ 
+Expert Testimony of Ann E. Bulkley 
+ 
+91 
+ 
+Do the negative revenue adjustments associated with these performance metrics 
+1 
+differentiate Central Hudson from the proxy group companies? 
+2 
+A. 
+Yes, they do.  Even though the utility regulatory model may be evolving towards incentive 
+3 
+regulation as attempts are made to align utility interests with regulatory policy objectives, 
+4 
+the addition of asymmetrical rewards and penalties to the utility rate structure remains the 
+5 
+exception rather than the rule.  Of those jurisdictions that do employ some form of incentive 
+6 
+regulation, it is rare for those programs to be based solely on penalties, or for those 
+7 
+programs to result in financial exposure of the magnitude faced by Central Hudson. 
+8 
+The mostly penalty-only structure and the magnitude of the Company’s exposure places 
+9 
+the Company at greater risk than the proxy companies on average, which provides support 
+10 
+for a cost of equity higher than indicated by the mean results of the proxy group analysis 
+11 
+and provides further evidence that the New York model substantially underestimates the 
+12 
+Company’s cost of equity. 
+13 
+C. 
+CLEAN ENERGY POLICY 
+14 
+ 
+What are the Commission’s plans with respect to the implementation of clean energy 
+15 
+in New York?  
+16 
+A. 
+As is discussed in more detail in the testimony of Mr. John Stewart, the Commission is 
+17 
+working to implement policies that will achieve the requirements of the CLCPA. The 
+18 
+CLCPA requires the elimination of all greenhouse gas emissions from electric production.  
+19 
+In addition, the CLCPA requires: 
+20 
+Q. 
+Q. 
+
+
+--- Page 94 ---
+ 
+Expert Testimony of Ann E. Bulkley 
+ 
+92 
+1. A 40 percent (relative to 1990 levels) reduction in greenhouse gas (“GHG”) 
+1 
+emissions by 2030; 
+2 
+2. GHG emissions in New York to be less than 15 percent of 1990 levels by 2050, 
+3 
+with certain offset provisions that effectively reduce net emissions to zero; 
+4 
+3. Increases in renewable resources to 70 percent of all generation by 2030; 
+5 
+4. Development of six Gigawatts (GW) of distributed photovoltaic generation by 
+6 
+2025; 
+7 
+5. Development of nine GW of offshore wind generation by 2035; 
+8 
+6. Development of three GW of energy storage capacity by 2030; and 
+9 
+7. Conservation of 185 trillion British Thermal Units (BTU) of energy use by 
+10 
+2025.   
+11 
+ 
+Please explain how the Commission’s plans to comply with New York State’s CLCPA 
+12 
+affects Central Hudson’s risk profile.  
+13 
+A. 
+As discussed in the direct testimony of Mr. John Stewart, the Commission’s plans to meet 
+14 
+the CLCPA requirements include the electrification of transportation and heating sectors, 
+15 
+both of which will require significant investment and will result in the early retirement of 
+16 
+existing assets that are currently in service providing service to customers. At this time, 
+17 
+while there is a recognition that there will be significant capital investment required to 
+18 
+migrate customers from natural gas heating service to electric heat and to transition 
+19 
+transportation to electric service, the implementation plans have not been developed to a 
+20 
+sufficient level of detail to estimate the magnitude of this investment, the timing of the 
+21 
+transition, or the quantification of the early retirement of assets. These unknown 
+22 
+implementation plans create substantial financial risk for the New York companies, 
+23 
+including Central Hudson.  
+24 
+Q. 
+
+
+--- Page 95 ---
+ 
+Expert Testimony of Ann E. Bulkley 
+ 
+93 
+ 
+Do the proxy companies face similar risks?  
+1 
+A. 
+Not to the same degree.   As discussed by Mr. Stewart, there are only a few states that the 
+2 
+proxy companies operate in that have established clean energy initiatives that are as 
+3 
+expansive as the CLCPA.  While this is a positive development for customers in New York 
+4 
+who will benefit from the climate and clean energy initiatives, being on the leading edge 
+5 
+of these types of initiatives can also create greater uncertainty. In this case, the proxy 
+6 
+companies are not engaged in similar programs and therefore are not facing the financial 
+7 
+uncertainty associated with a transition that is as expansive as is currently being discussed 
+8 
+in New York.  
+9 
+ 
+Have rating agencies commented on the effect of the clean energy policies of New 
+10 
+York on the risk profile of Central Hudson? 
+11 
+A. 
+While Moody’s has not specifically commented on the effect of the CLCPA on the credit 
+12 
+profile of Central Hudson, Moody’s did note the following regarding New York’s 
+13 
+Reforming the Energy Vision (“REV”) initiative: 
+14 
+Q. 
+Q. 
+
+
+--- Page 96 ---
+ 
+Expert Testimony of Ann E. Bulkley 
+ 
+94 
+Going forward, regulatory supportiveness remains crucial as CHG&E 
+1 
+continues to adopt and implement changes associated with the 
+2 
+NYPSC's Reforming the Energy Vision (REV) initiative. The program 
+3 
+entails a review of the regulatory framework for New York State's 
+4 
+utilities and aims to improve the overall system through energy 
+5 
+efficiencies while promoting fuel diversity and clean energy resources. 
+6 
+More specifically, it seeks to empower customers, leverage customer 
+7 
+contributions, and foster system-wide efficiency, fuel and resource 
+8 
+diversity, system reliability, and reduced carbon emissions. While it 
+9 
+does not have an immediate impact on CHG&E's credit quality, the 
+10 
+plan will most certainly affect the operations of the company over the 
+11 
+long-term. The uncertainty surrounding REV brings a negative bias to 
+12 
+some key factors that drive utility's credit, such as the consistency and 
+13 
+predictability of regulation and the ability to recover costs.100 
+14 
+ 
+15 
+ 
+Has the Commission implemented any policy initiatives to offset some of the risks 
+16 
+associated with REV? 
+17 
+A. 
+Yes. As shown in Figure 14 below, the Commission has implemented Earning Adjustment 
+18 
+Mechanisms (“EAM”s) that are intended to help achieve certain policy objectives with 
+19 
+respect to the REV initiatives.  As shown in the figure, the range of incentives for the 
+20 
+electric EAMs are from $1.29 million to $4.91 million in 2021 and the gas EAMs 
+21 
+associated with achieving energy efficiency initiatives range from $155,500 to $466,500.  
+22 
+ 
+23 
+ 
+24 
+                                                 
+100  
+Moody’s Investors Service, Credit Opinion, Central Hudson Gas & Electric Corporation: Update 
+following downgrade to A3, stable outlook, July 12, 2019, at 4. 
+Q. 
+
+
+--- Page 97 ---
+ 
+Expert Testimony of Ann E. Bulkley 
+ 
+95 
+ 
+1 
+Figure 14:  Summary of Earning Adjustment Mechanisms 
+2 
+Incentive 
+Range 
+Electric EAM Incentives: 
+Peak Reduction  
+DER Utilization 
+Energy Efficiency 
+Residential Energy Intensity 
+Commercial Energy Intensity 
+Residential VTOU 
+EBE 
+Interconnection Satisfaction 
+ 
+Range of potential incentives 
+for Electric EAMs in 2021:   
+$1.29 million - $4.91 million 
+ 
+ 
+ 
+ 
+ 
+  
+ 
+Gas EAM Incentives: 
+Energy Efficiency 
+Range of potential incentives 
+for Gas EAMs in 2021:   
+$155,500-$466,500 
+ 
+3 
+ 
+How should the Commission consider the difference in financial risk when setting the 
+4 
+ROE for Central Hudson? 
+5 
+A. 
+Because the increased level of financial risk that Central Hudson faces is not reflected in 
+6 
+the market data for the proxy group overall, consistent with the Hope and Bluefield 
+7 
+principles, the Commission should consider an ROE for Central Hudson that is higher than 
+8 
+the average of the proxy group to reflect this incremental financial risk.   
+9 
+ 
+10 
+Q. 
+
+
+--- Page 98 ---
+ 
+Expert Testimony of Ann E. Bulkley 
+ 
+96 
+VIII. CAPITAL STRUCTURE 
+ 
+Please summarize the Company’s proposed capital structure.  
+1 
+A. 
+As explained in the Direct Testimony of the Company’s Finance Panel, the Company’s 
+2 
+capital structure is based on a 50.00 percent equity ratio for ratemaking purposes, which is 
+3 
+more conservative than the Company’s historical actual stand-alone equity ratio.  The 
+4 
+50.00 percent equity ratio is consistent with the Commission’s precedent regarding the 
+5 
+appropriate equity ratio for utilities.101  
+6 
+ 
+Have you conducted any analysis of the Company’s proposed capital structure as 
+7 
+compared with the proxy companies? 
+8 
+A. 
+Yes.  I compared the 50.00 percent equity ratio to the authorized capital structures of the 
+9 
+companies in the proxy group for the period from 2016 through 2019.  As shown on Exhibit 
+10 
+___ (AEB-8), the mean annual equity ratio of the proxy companies over that period is 55.03 
+11 
+percent.  
+12 
+ 
+What do you conclude from this analysis? 
+13 
+A. 
+The 50.00 percent equity ratio, which accords with precedent, is conservative considering 
+14 
+the equity ratios of the proxy companies and the current business and financial risks of 
+15 
+                                                 
+101  
+See, e.g., Case 14-G-0319 et al., Proceeding on Motion of the Commission as to the Rates, Charges, 
+Rules and Regulations of Central Hudson Gas & Electric Corporation for Gas Service, “Order 
+Approving Rate Plan” (Issued and Effective June 17, 2015); and Case 15-E-0050 et al., Proceeding 
+on Motion of the Commission as to the Rates, Charges, Rules and Regulations of Consolidated 
+Edison Company of New York, Inc. for Electric Service, “Order Adopting Terms of Joint Proposal 
+to Extend Electric Rate Plan” (Issued and Effective June 19, 2015). 
+Q. 
+Q. 
+Q. 
+
+
+--- Page 99 ---
+ 
+Expert Testimony of Ann E. Bulkley 
+ 
+97 
+Central Hudson, including significant capital investment programs.  This analysis shows 
+1 
+that the utility operating subsidiaries owned by holding companies with similar business 
+2 
+characteristics to Central Hudson have for the last four years maintained average common 
+3 
+equity ratios close to five percentage points higher than the 50.00 percent equity ratio, 
+4 
+indicating that Central Hudson will have higher financial risk than the proxy group 
+5 
+companies if it maintains its equity ratio at 50.00 percent.  Therefore, I conclude that the 
+6 
+requested equity ratio should be considered a lower bound on the equity ratio that would 
+7 
+support the Company’s financial integrity and suggests a higher level of financial risk 
+8 
+relative to the proxy companies.  Therefore, the incremental financial risk warrants a higher 
+9 
+ROE than indicated by the mean results of the proxy group analysis. 
+10 
+ 
+What is the Commission’s policy on determining the authorized equity ratio?  
+11 
+A. 
+The Commission has allowed the use of a stand-alone equity ratio if a utility can 
+12 
+demonstrate that the credit rating agencies view that utility’s credit on a stand-alone basis 
+13 
+independent of its parent. This issue was specifically addressed in the order approving the 
+14 
+acquisition of CH Energy by Fortis, Inc., where the Commission stated: 
+15 
+With the golden share in place, Central Hudson would be permitted to 
+16 
+demonstrate in future rate cases that its standalone capital structure 
+17 
+should be used for setting rates. That demonstration would be made by 
+18 
+submitting current written evaluations from at least two rating agencies 
+19 
+supporting the evaluation of Central Hudson as a separate company, 
+20 
+without material adjustments based on risks related to the capital 
+21 
+structure and ratings of Fortis.102 
+22 
+                                                 
+102  
+New York Public Service Commission, Case No. 12-M-1092, Order Authorizing Acquisition 
+Subject to Conditions, Issued and Effective June 26, 2013, at 16. 
+Q. 
+
+
+--- Page 100 ---
+ 
+Expert Testimony of Ann E. Bulkley 
+ 
+98 
+ 
+1 
+ 
+Do the credit rating agencies view Central Hudson’s credit on a stand-alone basis?  
+2 
+A. 
+Yes.  The credit rating agencies review and assess the credit risk profile of the individual 
+3 
+utility on a stand-alone basis, and Central Hudson is rated on its own financial merits and 
+4 
+business risk profile.  The rating agencies point to the strong ring-fencing provisions for 
+5 
+the Company as a basis for its standalone evaluation. For example, in recent reports, 
+6 
+Moody’s notes that Central Hudson has strong ring-fencing provisions that protect the 
+7 
+stand-alone ratings. 
+8 
+The NYPSC imposed credit supportive ring-fencing provisions as part 
+9 
+of its order approving Fortis' acquisition of CHG&E in 2013. These 
+10 
+include dividend restrictions based on maintenance of the company's 
+11 
+equity capitalization and credit rating, a special preferred share that 
+12 
+provides additional protection from bankruptcy, money pooling 
+13 
+restrictions and stand-alone liquidity requirements that all serve as 
+14 
+credit support for CHG&E over the long-term.103 
+15 
+ 
+16 
+Similarly, S&P states:  
+17 
+Although our rating on CHG&E is the same as our rating on Fortis, we 
+18 
+recognize that insulating measures in place could allow us to raise the 
+19 
+rating on CHG&E up to two notches higher than parent Fortis. These 
+20 
+measures include dividend restrictions, financial performance and 
+21 
+funding prospects that are independent from those of the group, 
+22 
+economic incentives from the parent to maintain CHG&E's financial 
+23 
+strength, and our assessment that CHG&E is unlikely to be drawn or 
+24 
+forced into a potential Fortis bankruptcy.104 
+25 
+ 
+26 
+                                                 
+103  
+Moody’s Investors Service Credit Opinion: Central Hudson Gas & Electric Corporation, July 12, 
+2019, at 5.   
+104  
+S&P Global Ratings, Central Hudson Gas & Electric Corp. Ratings Affirmed, Outlook Stable; 
+Liquidity Assessment Revised To Adequate, January 30, 2020, at 2. 
+Q. 
+
+
+--- Page 101 ---
+ 
+Expert Testimony of Ann E. Bulkley 
+ 
+99 
+ 
+What do you conclude regarding the credit rating agencies’ view of the credit quality 
+1 
+of Central Hudson? 
+2 
+A. 
+Rating agencies are very cognizant of the protective ring-fencing measures that the 
+3 
+Commission has established for Central Hudson and cite them as the reason why they 
+4 
+assess the Company’s credit quality on a stand-alone basis.  Because there is factual 
+5 
+evidence indicating that the two major credit rating agencies view the Company’s credit 
+6 
+quality on a stand-alone basis, the stand-alone capital structure proposed in this proceeding 
+7 
+is appropriate for the purpose of establishing the ROR on rate base.   
+8 
+ 
+How will the capital structure and ROE authorized in this proceeding affect the 
+9 
+Company’s access to capital at reasonable rates? 
+10 
+A. 
+The level of earnings authorized by the Commission directly affects the Company’s ability 
+11 
+to fund its operations with internally-generated funds.  Both bond investors and rating 
+12 
+agencies expect a significant portion of ongoing capital investments to be financed with 
+13 
+internally-generated funds.  It also is important to realize that, because a utility’s 
+14 
+investment horizon is very long, investors require the assurance of an authorized return that 
+15 
+causes the coverage ratios to satisfy the long-run financing requirements of debt holders.  
+16 
+Therefore, both the ROE and capital structure are very important to debt and equity 
+17 
+investors.  Furthermore, considering the capital market conditions discussed in Section IV, 
+18 
+the authorized ROE and capital structure take on even greater significance.   
+19 
+Q. 
+Q. 
+
+
+--- Page 102 ---
+ 
+Expert Testimony of Ann E. Bulkley 
+ 
+100 
+ 
+How does the use of a 50.00 percent equity ratio relate to the Company’s requested 
+1 
+ROE? 
+2 
+A. 
+The average equity ratio of the proxy companies is higher than 50.00 percent, which means 
+3 
+that, all else equal, the proxy companies have lower financial risk than is implied by the 
+4 
+50.00 percent equity ratio proposed by the Company.  Given this risk differential and the 
+5 
+significance of the overall ROE/capital structure determination to the Company’s 
+6 
+continuing ability to access capital, the Company’s requested return of 9.10 percent is very 
+7 
+conservative and considers the COVID-19 pandemic on the Company’s financial profile, 
+8 
+the view of credit rating agencies on the risks of the industry overall, as well as the effect 
+9 
+of the severe impact of the pandemic on the Company’s service territory. 
+10 
+ 
+11 
+IX. 
+MULTI-YEAR RATE PLAN 
+ 
+Would a multi-year rate plan impact your ROE recommendation?  
+12 
+A. 
+Yes, it would.  The Commission has in many cases approved three-year rate case 
+13 
+settlements that often include stay-out premiums.  It is my understanding that the Company 
+14 
+will provide three years of forecast data in its rate filing.  In keeping with Commission 
+15 
+precedent, a stay-out premium would reflect the increased risk faced by the Company under 
+16 
+a multi-year rate plan.   
+17 
+Q. 
+Q. 
+
+
+--- Page 103 ---
+ 
+Expert Testimony of Ann E. Bulkley 
+ 
+101 
+ 
+How has New York typically estimated a stay-out premium?  
+1 
+A. 
+The New York approach has typically set the measure of the risk and return trade-off using 
+2 
+one half of the yield spread between a one-year and three-year Treasury securities.   
+3 
+ 
+Does one half of the yield spread between one-year and three-year Treasuries 
+4 
+sufficiently reflect the risk to equity investors inherent in a multi-year stay-out?  
+5 
+A. 
+No.  The stay-out premium associated with a multi-year rate plan should not only 
+6 
+compensate investors for changes in the level of interest rates or inflation, but also for the 
+7 
+potential risk of under-earning that is introduced by “staying out.”  By staying out of rate 
+8 
+cases, the utility may not fully recover material amounts of capital expenditures and may 
+9 
+be required to absorb losses due to differences between the cost of service established in 
+10 
+the rate plan and actual levels of revenue and expense.  The premium should compensate 
+11 
+the utility and its investors for these additional risks over and above interest rate risk.   
+12 
+ 
+Have current market conditions increased the risk of a multi-year stay-out for the 
+13 
+Company? 
+14 
+A. 
+ Yes. As noted earlier in my testimony, recent market conditions have demonstrated 
+15 
+volatility and uncertainty related to extreme short-term conditions. These conditions have 
+16 
+affected the assumptions used in the ROE estimation models, understating the results of 
+17 
+the DCF model and the CAPM.   Recent reductions in the yields on U.S. Treasury bonds 
+18 
+could reverse once the short-term shock of COVID-19 and the volatility that has resulted 
+19 
+from this situation has stabilized. In addition, as fear in the market subsidies, it is likely 
+20 
+Q. 
+Q. 
+Q. 
+
+
+--- Page 104 ---
+ 
+Expert Testimony of Ann E. Bulkley 
+ 
+102 
+that the dividend yields for utility stocks will increase and be more in line with historical 
+1 
+levels.  It is reasonable to expect that the current market conditions will not persist for the 
+2 
+entirety of the proposed three-year rate period.  Therefore, it is important to consider how 
+3 
+these conditions have affected the results of the ROE estimation models when setting an 
+4 
+appropriate ROE for the Company over the multi-year rate period that is proposed.  
+5 
+ 
+What do you propose as the stay-out premium for a three-year rate plan?  
+6 
+A. 
+The ROE proposed by the Company of 9.10 percent will not provide the Company a return 
+7 
+commensurate with the return available on investments of similar risk over the term of the 
+8 
+multi-year rate plan without an adequate stay-out premium.  Consistent with prior cases, I 
+9 
+recommend that a stay-out premium be included in the event a multi-year rate plan is 
+10 
+adopted.  I believe 50 basis points is a reasonable, albeit conservative, reflection of the 
+11 
+incremental risk to the Company under a multi-year stay-out provision.   
+12 
+ 
+13 
+X. 
+CONCLUSION AND RECOMMENDATION 
+ 
+What is your conclusion regarding a fair return on equity for Central Hudson? 
+14 
+A. 
+My recommended return on book equity considers the results of the DCF and CAPM 
+15 
+models, summarized in Figure 14 (below), and the specific risks to which the Company is 
+16 
+exposed.  I conclude that a reasonable ROE for the Company is within the range of 9.90 
+17 
+percent and 10.80 percent, based on the weighting of the DCF and CAPM results that has 
+18 
+historically been relied upon by the Commission. The Company is requesting an ROE of 
+19 
+Q. 
+Q. 
+
+
+--- Page 105 ---
+ 
+Expert Testimony of Ann E. Bulkley 
+ 
+103 
+9.10 percent, which is below the low end of the range of model results and is an extremely 
+1 
+conservative position that reflects the full range of considerations the Company is making 
+2 
+in this case. I further recommend that if the Commission approves the stay-out period, a 
+3 
+premium of 50 basis points should be added to the Company’s ROE. 
+4 
+Figure 14:  Summary of Analytical Results105  
+5 
+ 
+Low 
+Mean 
+High 
+Multi-Stage DCF 
+9.31% 
+9.69% 
+10.12% 
+   Traditional CAPM 
+10.87% 
+10.93% 
+11.21% 
+   Zero-Beta CAPM 
+11.49% 
+11.53% 
+11.73% 
+Mean CAPM 
+11.18% 
+11.23% 
+11.47% 
+67%/33% DCF/CAPM 
+9.94% 
+10.20% 
+10.57% 
+50%/50% DCF/CAPM 
+10.25% 
+10.46% 
+10.79% 
+ 
+6 
+ 
+What is your conclusion regarding the Company’s proposed common equity ratio? 
+7 
+A. 
+Central Hudson’s common equity ratio of 50.00 percent for ratemaking purposes is 
+8 
+consistent with the Commission’s equity ratio policy for electric and natural gas 
+9 
+distribution companies, but is below the mean equity ratio for the operating companies held 
+10 
+by the proxy group, and suggests a higher level of financial risk relative to the proxy 
+11 
+companies.   
+12 
+                                                 
+105  
+The DCF results presented in Figure 14 reflect the results of the models using low, average and 
+high growth rate assumptions. The range of results for the CAPM is based on three interest rate 
+scenarios, a historical average, a six-quarter projection and a long-term projection. 
+Q. 
+
+
+--- Page 106 ---
+ 
+Expert Testimony of Ann E. Bulkley 
+ 
+104 
+ 
+Does this conclude your direct testimony? 
+1 
+A. 
+Yes, it does. 
+2 
+Q. 

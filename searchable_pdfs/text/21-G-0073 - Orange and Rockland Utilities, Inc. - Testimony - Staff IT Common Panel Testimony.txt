@@ -1,0 +1,2735 @@
+--- Page 1 ---
+ 
+ 
+ 
+ 
+ 
+ 
+ 
+ 
+BEFORE THE 
+STATE OF NEW YORK 
+PUBLIC SERVICE COMMISSION 
+ 
+ 
+ 
+In the Matter of 
+ 
+Orange and Rockland Utilities, Inc. 
+ 
+Cases 21-G-0073 and 21-E-0074 
+ 
+May 2021 
+ 
+ 
+Prepared Testimony of: 
+Staff Information Technology 
+and Common Panel 
+ 
+Philipose Philip 
+Utility Analyst 2 
+ 
+Daniel Roszko 
+Assistant Engineer 
+(Electrical) 
+ 
+Srirangaram Seshadri 
+Assistant Engineer 
+(Electrical) 
+ 
+Office of Electric Gas and 
+Water 
+State of New York 
+Department of Public Service 
+90 Church Street, 4th Floor 
+New York, New York 10007 
+ 
+ 
+ 
+ 
+ 
+ 
+ 
+ 
+Adam Polmateer 
+Utility Consumer Assistance 
+Specialist 4 
+ 
+Anthony Mannarino 
+Utility Consumer Assistance 
+Specialist 2 
+ 
+Office of Consumer Services 
+State of New York 
+Department of Public Service 
+Three Empire State Plaza 
+Albany, New York 12223-1350 
+ 
+ 
+ 
+ 
+ 
+ 
+ 
+ 
+ 
+ 
+ 
+
+
+--- Page 2 ---
+Cases 21-G-0073, et al. 
+    
+SITCP 
+ 
+ 
+-1- 
+ 
+Q. 
+Would the members of the Staff Information 
+1 
+Technology and Common Panel, referred to as the 
+2 
+SITCP or the Panel, please state your names, 
+3 
+employer, and business addresses? 
+4 
+A. 
+Our names are Philipose Philip, Daniel Roszko, 
+5 
+Srirangaram Seshadri, Adam Polmateer and Anthony 
+6 
+Mannarino.  We are employed by the Department of 
+7 
+Public Service, referred to as the Department.  
+8 
+Messrs. Philip, Roszko, and Seshadri’s business 
+9 
+address is 90 Church Street, New York, New York 
+10 
+10007.  Messrs. Polmateer and Mannarino’s 
+11 
+business address is Three Empire State Plaza, 
+12 
+Albany, New York 12223. 
+13 
+Q. 
+Mr. Philip, have you discussed your credentials 
+14 
+in any other testimony submitted in these 
+15 
+proceedings? 
+16 
+A. 
+Yes, my credentials are provided in the initial 
+17 
+testimony of the Staff Electric Infrastructure 
+18 
+and Operations Panel, referred to as the SEIOP. 
+19 
+Q. 
+Mr. Roszko, have you discussed your credentials 
+20 
+in any other testimony submitted in these 
+21 
+proceedings? 
+22 
+A. 
+Yes, this information can be found in the 
+23 
+initial testimony of the SEIOP. 
+24 
+
+
+--- Page 3 ---
+Cases 21-G-0073, et al. 
+    
+SITCP 
+ 
+ 
+-2- 
+ 
+Q. 
+Mr. Seshadri, what is your position at the 
+1 
+Department? 
+2 
+A. 
+I am employed as an Assistant Engineer 
+3 
+(Electrical) in the Office of Electric, Gas and 
+4 
+Water in the Downstate Rates and Tariffs 
+5 
+section. 
+6 
+Q.  Please describe your educational experience and 
+7 
+professional background. 
+8 
+A.  I received a Bachelor of Science degree in 
+9 
+Mechanical Engineering from New Jersey Institute 
+10 
+of Technology in 2010.  I started my employment 
+11 
+with the Department in 2012.  Prior to my 
+12 
+employment at the Department, I was employed as 
+13 
+a Mechanical Design Engineer with an engineering 
+14 
+consulting firm. 
+15 
+Q.  Please briefly describe your responsibilities at 
+16 
+the Department.  
+17 
+A.  My responsibilities include engineering analyses 
+18 
+of utility rate, pricing and tariff proposals.  
+19 
+While employed at the Department, I have 
+20 
+prepared, analyzed and reviewed reports and 
+21 
+studies involving depreciation, sales forecast, 
+22 
+operation and maintenance, or O&M, expenses and 
+23 
+rate design.  
+24 
+
+
+--- Page 4 ---
+Cases 21-G-0073, et al. 
+    
+SITCP 
+ 
+ 
+-3- 
+ 
+Q.  Have you previously testified in a proceeding 
+1 
+before the New York State Public Service 
+2 
+Commission, or Commission? 
+3 
+A. 
+Yes, I have testified in the following major 
+4 
+rate cases: 19-E-0065, 19-G-0066, 13-E-0030 and 
+5 
+13-G-0031, Consolidated Edison Company of New 
+6 
+York, Inc., or Con Edison; 12-G-0202, Niagara 
+7 
+Mohawk Power Corporation, d/b/a National Grid; 
+8 
+and various municipal electric utility rate 
+9 
+cases. 
+10 
+Q. 
+Mr. Polmateer, are your credentials provided in 
+11 
+another testimony submitted in these 
+12 
+proceedings? 
+13 
+A. 
+Yes.  My credentials are provided in the initial 
+14 
+testimony of the Staff Consumer Services Panel. 
+15 
+Q. 
+Mr. Mannarino, are your credentials provided in 
+16 
+another testimony submitted in these 
+17 
+proceedings? 
+18 
+A. 
+Yes.  My credentials are provided in the initial 
+19 
+testimony of the Staff Consumer Services Panel. 
+20 
+Overview 
+21 
+Q. 
+Panel, what is the purpose of your testimony? 
+22 
+A. 
+The purpose of our testimony is to provide our 
+23 
+findings and recommendations for Orange and 
+24 
+
+
+--- Page 5 ---
+Cases 21-G-0073, et al. 
+    
+SITCP 
+ 
+ 
+-4- 
+ 
+Rockland Utilities, Inc’s, referred to as O&R or 
+1 
+the Company, proposed: 1) non-Information 
+2 
+Technology, or non-IT, common projects and 
+3 
+programs addressed by O&R’s Accounting Panel and 
+4 
+Customer Service Panel; 2) common Information 
+5 
+Technology, or IT, projects and programs 
+6 
+addressed by O&R’s Information Technology Panel 
+7 
+and Customer Service Panel; 3) electric IT 
+8 
+projects and programs addressed by O&R’s 
+9 
+Information Technology Panel.  
+10 
+Q.  In this testimony, will the Panel refer to, or 
+11 
+otherwise rely upon, any information obtained 
+12 
+during the discovery phase of these proceedings? 
+13 
+A.  Yes, we will refer to, and have relied upon, 
+14 
+several responses to Information Requests, or 
+15 
+IRs, provided by the Company.  These responses 
+16 
+are contained within Exhibit__(SITCP-1).  
+17 
+Q. 
+Is the Panel sponsoring any other exhibits? 
+18 
+A. 
+Yes.  Exhibit__(SITCP-2) contains our common 
+19 
+capital expenditure budgets compared with the 
+20 
+Company’s non-IT and IT common capital 
+21 
+expenditure budgets for Calendar Year 2022, 
+22 
+referred to as the Rate Year, Rate Year 1, or RY 
+23 
+1; for Calendar Year 2023, referred to as Rate 
+24 
+
+
+--- Page 6 ---
+Cases 21-G-0073, et al. 
+    
+SITCP 
+ 
+ 
+-5- 
+ 
+Year 2, or RY 2; and for Calendar Year 2024, 
+1 
+referred to as Rate Year 3, or RY 3.  
+2 
+Q.  Please describe the general nature of your 
+3 
+review process.  
+4 
+A.  The Panel reviewed and analyzed the details and 
+5 
+justifications provided by O&R for its proposed 
+6 
+projects and programs.  Specifically, we 
+7 
+reviewed the information provided in the 
+8 
+Company’s testimonies, exhibits and IR responses 
+9 
+to develop our recommendations regarding the 
+10 
+need for, and reasonableness of the costs 
+11 
+associated with, each project and program.  
+12 
+While we reviewed each project and program, our 
+13 
+testimony will address only those for which we 
+14 
+recommend adjustments. 
+15 
+Q. 
+What are the Panel’s recommended adjustments to 
+16 
+O&R’s proposals? 
+17 
+A. 
+We are recommending adjustments to O&R’s Smart 
+18 
+Meter Initiative, Work Management System, or 
+19 
+WMS, Replacement, Network Infrastructure, Budget 
+20 
+System Software Enhancements, Customer 
+21 
+Relationship Management System, Artificial 
+22 
+Intelligence Chatbot, Data Analytics, Digital 
+23 
+Factory, and Customer Online Community projects 
+24 
+
+
+--- Page 7 ---
+Cases 21-G-0073, et al. 
+    
+SITCP 
+ 
+ 
+-6- 
+ 
+and programs.  We are also recommending 
+1 
+additional reporting requirements regarding 
+2 
+certain functionalities under the Company’s 
+3 
+Digital Customer Experience, or DCX, program. 
+4 
+Common Projects and Programs 
+5 
+Q.  Provide a brief overview of the Company’s common 
+6 
+capital expenditures. 
+7 
+A. 
+The Company categorizes common capital 
+8 
+expenditures into three categories: blankets, 
+9 
+projects under $500,000 and projects over 
+10 
+$500,000.  The blanket expenditures consist of 
+11 
+recurring labor and equipment costs to provide 
+12 
+service to customers, ensure safety of employees 
+13 
+and support the daily functioning of the 
+14 
+Company.  Typically, blanket expenditures are 
+15 
+used to replace vehicles, computers, 
+16 
+transportation and other equipment.  The 
+17 
+remaining capital projects are one-time 
+18 
+expenditures and are grouped based on the 
+19 
+budgeted total cost of the project – either 
+20 
+above $500,000 or below $500,000.  Major common 
+21 
+capital projects proposed by O&R in these 
+22 
+proceedings include the Outage Management System 
+23 
+Enhancement, WMS Replacement, Customer 
+24 
+
+
+--- Page 8 ---
+Cases 21-G-0073, et al. 
+    
+SITCP 
+ 
+ 
+-7- 
+ 
+Relationship Management, or CRM, System, and 
+1 
+Customer Information System.     
+2 
+Q. 
+What has the Company proposed for common 
+3 
+projects and programs? 
+4 
+A. 
+In its filing, the Company proposes total 
+5 
+capital expenditures for both IT and non-IT 
+6 
+common projects and programs of $37.336 million 
+7 
+for Rate Year 1.  For Rate Year 2 and Rate Year 
+8 
+3, the Company requests $32.361 million and 
+9 
+$31.560 million, respectively.       
+10 
+Q.  Please summarize the Panel’s recommendations for 
+11 
+common projects and programs. 
+12 
+A.  The Panel recommends adjustments that would 
+13 
+reduce the Company’s common capital expenditures 
+14 
+by $1.325 million in Rate Year 1, $3.019 million 
+15 
+in RY 2 and $14.725 million in RY 3.  The Panel 
+16 
+also recommends reducing the Company’s common 
+17 
+O&M by $0.170 million for the Rate Year.   
+18 
+Non-IT Common Project 
+19 
+Q. 
+What has the Company proposed for non-IT common 
+20 
+projects and programs? 
+21 
+A. 
+For non-IT common projects and programs, O&R 
+22 
+proposes capital expenditures of $20.016 
+23 
+million, $16.775 million, and $12.518 million 
+24 
+
+
+--- Page 9 ---
+Cases 21-G-0073, et al. 
+    
+SITCP 
+ 
+ 
+-8- 
+ 
+for RY 1, RY 2, and RY 3, respectively.   
+1 
+Q.  What is the Panel’s recommendations for non-IT 
+2 
+common projects and programs? 
+3 
+A.  The Panel recommends an increase to the 
+4 
+Company’s common capital expenditure budget by 
+5 
+$0.400 million in RY 1, $0.150 million in RY 2 
+6 
+and $0.150 million in RY 3 for the Smart Meter 
+7 
+Initiative.   
+8 
+Q. 
+Provide a brief overview of the Company’s 
+9 
+funding request related to the Smart Meter 
+10 
+Initiative. 
+11 
+A. 
+The Company completed its installation of smart 
+12 
+meters across its service territory in 2020.  
+13 
+O&R’s Smart Meter Initiative consists of three 
+14 
+capital projects to strengthen and maintain its 
+15 
+smart meter infrastructure.  The first is the 
+16 
+Advanced Metering Infrastructure, or AMI, 
+17 
+Communication Devices project which includes the 
+18 
+continued deployment and maintenance of AMI 
+19 
+communication devices.  The second is the AMI 
+20 
+Extended Batteries project for deployment and 
+21 
+maintenance of AMI extended batteries.  The 
+22 
+third is AMI ORU/CECONY Synch Work project to 
+23 
+align O&R with Con Edison’s smart meter effort 
+24 
+
+
+--- Page 10 ---
+Cases 21-G-0073, et al. 
+    
+SITCP 
+ 
+ 
+-9- 
+ 
+to share system maintenance and improvement 
+1 
+measures for reduced future system upgrade 
+2 
+costs. 
+3 
+Q. 
+Is the funding for this program included in the 
+4 
+common capital expenditure budget? 
+5 
+A. 
+Only one of the three projects are considered 
+6 
+common by O&R.  Through the initial testimony of 
+7 
+the Company’s Customer Service Panel, the 
+8 
+Company presented AMI Communication Devices and 
+9 
+AMI Extended Batteries in the electric capital 
+10 
+expenditure budget and AMI ORU/CECONY Synch Work 
+11 
+capital spending project under the common 
+12 
+capital expenditure budget.   
+13 
+Q. 
+Should all these projects be considered common? 
+14 
+A. 
+Yes.  Through our review, we determined that 
+15 
+these projects provide funding for communication 
+16 
+devices that support both gas and electric AMI 
+17 
+meters.  Therefore, we recommend moving the 
+18 
+capital budgets related to the AMI Communication 
+19 
+Devices and AMI Extended Batteries from the 
+20 
+Company’s electric capital expenditure budget to 
+21 
+the Company’s common capital expenditure budget. 
+22 
+As a result, the common capital expenditure 
+23 
+budget should be increased by $400,000 in RY 1 
+24 
+
+
+--- Page 11 ---
+Cases 21-G-0073, et al. 
+    
+SITCP 
+ 
+ 
+-10- 
+ 
+and by $150,000 each in RY 2 and RY 3.  
+1 
+Accordingly, the electric capital expenditure 
+2 
+budget should be decreased by $400,000 in RY 1 
+3 
+and by $150,000 each in RY 2 and RY 3.  
+4 
+Common IT Projects 
+5 
+Q.  Provide a brief overview of the Company’s 
+6 
+funding request related to common IT projects. 
+7 
+A. 
+The Company has requested $7.259 million for the 
+8 
+Rate Year, $10.741 million for RY 2 and $17.853 
+9 
+million for RY 3 for 16 common projects 
+10 
+according to the Company’s response to IR DPS-
+11 
+22-498, included in Exhibit__(SITCP-1).  The 
+12 
+main drivers in funding include the WMS 
+13 
+Replacement, Oracle Enterprise Business Suite 
+14 
+and Business Intelligence Cloud Migration, and 
+15 
+Network Infrastructure Upgrade.   The Company 
+16 
+has also requested $14.060 million for the Rate 
+17 
+Year, $8.926 million for RY 2 and $5.979 million 
+18 
+for RY 3 for eight projects described in the 
+19 
+initial testimony of the Company’s Customer 
+20 
+Service Panel.  This results in a total request 
+21 
+of $21.319 million for the Rate Year, $19.667 
+22 
+million for RY 2 and $23.832 million for RY 3.   
+23 
+Q.  What are the Panel’s recommendations for common 
+24 
+
+
+--- Page 12 ---
+Cases 21-G-0073, et al. 
+    
+SITCP 
+ 
+ 
+-11- 
+ 
+IT projects and programs? 
+1 
+A.  The Panel recommends a downward capital 
+2 
+adjustment of $1.724 million for the Rate Year, 
+3 
+$3.169 million for RY 2 and $14.795 million for 
+4 
+RY 3.  The adjustments are to the WMS 
+5 
+Replacement, Network Infrastructure, Budget 
+6 
+System Software Enhancements, Customer 
+7 
+Relationship Management System, Artificial 
+8 
+Intelligence Chatbot, and Data Analytics 
+9 
+projects and programs.  The Panel also 
+10 
+recommends a downward O&M adjustment of $170,000 
+11 
+for the Rate Year, $410,000 for RY 2 and 
+12 
+$535,000 for RY 3.  These include adjustments to 
+13 
+the Data Analytics and Customer Online Community 
+14 
+projects.  
+15 
+Work Management System Replacement  
+16 
+Q. 
+Describe the WMS Replacement project. 
+17 
+A. 
+The WMS is a comprehensive system that processes 
+18 
+electric, substation, and gas operations 
+19 
+distribution and transmission work from the 
+20 
+point of request and design through to 
+21 
+completion.  The core system is heavily 
+22 
+integrated with multiple corporate systems, such 
+23 
+as for financial accounting, materials 
+24 
+
+
+--- Page 13 ---
+Cases 21-G-0073, et al. 
+    
+SITCP 
+ 
+ 
+-12- 
+ 
+management, payroll and labor distribution, 
+1 
+customer information management, and field 
+2 
+assets and inspections.  There are approximately 
+3 
+15 work management-related applications to be 
+4 
+replaced.  This project is to replace the home-
+5 
+grown WMS with one of the two enterprise 
+6 
+solutions used at Con Edison, thereby addressing 
+7 
+technology obsolescence and obtaining 
+8 
+efficiencies, productivity enhancements, cost 
+9 
+savings, and synergies.   
+10 
+Q. 
+What is the Company requesting for funding for 
+11 
+the WMS Replacement project? 
+12 
+A. 
+The Company has requested $1 million in O&M 
+13 
+expenses for both Rate Year 2 and Rate Year 3, 
+14 
+and $10 million in capital expenditures for Rate 
+15 
+Year 3. 
+16 
+Q. 
+What is the justification provided by the 
+17 
+Company for this project? 
+18 
+A. 
+According to pages 29 and 30 of the IT Panel’s 
+19 
+initial testimony, and page 14 of Exhibit__(IT-
+20 
+2), the Company aims to modernize the final 
+21 
+portion of its application portfolio to address 
+22 
+technology obsolescence with the mainframe 
+23 
+infrastructure and avoid long-term annual 
+24 
+
+
+--- Page 14 ---
+Cases 21-G-0073, et al. 
+    
+SITCP 
+ 
+ 
+-13- 
+ 
+mainframe costs associated with hardware 
+1 
+refreshes, software licenses, labor, and 
+2 
+disaster recovery safeguards.  O&R notes that 
+3 
+the current WMS is 30 years old and is written 
+4 
+in older legacy technology (e.g., COBOL, CICS, 
+5 
+DB2) that is rigid and challenging to maintain.  
+6 
+According to O&R, an enterprise solution will 
+7 
+aid to strengthen Company processes with 
+8 
+standardized platforms. In addition to 
+9 
+addressing technology obsolescence, the Company 
+10 
+anticipates that efficiencies can be achieved by 
+11 
+an enterprise solution through capabilities in 
+12 
+workforce automation, digital transformation, 
+13 
+and automated workflows in the newer technology.   
+14 
+Q. 
+Does the Panel recommend any adjustments to this 
+15 
+project? 
+16 
+A.  Yes.  The Panel recommends eliminating the $10 
+17 
+million capital expenditure request for Rate 
+18 
+Year 3.  On page 30 of its initial testimony, 
+19 
+the IT Panel states that the $10 million capital 
+20 
+request is a placeholder as the total estimated 
+21 
+cost of this project will not be known until 
+22 
+after the implementation study is completed, 
+23 
+which is expected to begin in 2023 and finish in 
+24 
+
+
+--- Page 15 ---
+Cases 21-G-0073, et al. 
+    
+SITCP 
+ 
+ 
+-14- 
+ 
+2024.  Since the Company does not know the exact 
+1 
+costs of the project, the Panel is unable to 
+2 
+determine if the costs and timing are reasonable 
+3 
+and justifiable.  Therefore, the Panel is 
+4 
+removing the capital request for this project. 
+5 
+Network Infrastructure 
+6 
+Q. 
+Describe the Network Infrastructure project. 
+7 
+A. 
+Network infrastructure upgrades are routinely 
+8 
+done to expand, maintain or modernize the 
+9 
+existing infrastructure.  Networks are used to 
+10 
+transport corporate data, voice, and supervisory 
+11 
+control and data acquisition, or SCADA, safely 
+12 
+and securely.  The network is comprised of 
+13 
+Company-owned fiber optic cables, optic 
+14 
+equipment Voice over Internet Protocol and 
+15 
+telephone systems, data communication 
+16 
+infrastructure and private licensed microwave 
+17 
+and radio systems.   
+18 
+Q. 
+What is the Company requesting for funding for 
+19 
+the Network Infrastructure project? 
+20 
+A. 
+According to IR DPS-35-596, included in 
+21 
+Exhibit__(SITCP-1), the Company is requesting 
+22 
+$1.35 million in Rate Year 1, $2.29 million in 
+23 
+Rate Year 2, and $2.09 million in Rate Year 3. 
+24 
+
+
+--- Page 16 ---
+Cases 21-G-0073, et al. 
+    
+SITCP 
+ 
+ 
+-15- 
+ 
+Q. 
+What is the Company’s justification for this 
+1 
+project? 
+2 
+A. 
+On page 40 of the IT Panel’s initial testimony, 
+3 
+the Company explains that its network 
+4 
+infrastructure provides a safe and secure high-
+5 
+speed communications system to O&R corporate 
+6 
+locations, such as data centers, electric and 
+7 
+gas control centers, substations, contact 
+8 
+centers, and field workout locations for radio 
+9 
+systems, telemetry, feeder protection, and 
+10 
+control of O&R energy delivery systems. 
+11 
+Q.  What is the Panel’s recommendation for funding 
+12 
+for this project? 
+13 
+A. 
+The Panel recommends a capital expenditure 
+14 
+budget of $1.2 million per year for 2022 through 
+15 
+2024.   
+16 
+Q.  Please explain the reasoning for the Panel’s 
+17 
+recommended annual budget of $1.2 million. 
+18 
+A.  In response to IR DPS-22-498, included in 
+19 
+Exhibit__(SITCP-1), the Company provided the 
+20 
+historical budgeted and actual spending of IT-
+21 
+related projects from 2016 to 2020.  According 
+22 
+to O&R’s IR response, the Company has spent, on 
+23 
+average, $1.17 million per year from 2018 to 
+24 
+
+
+--- Page 17 ---
+Cases 21-G-0073, et al. 
+    
+SITCP 
+ 
+ 
+-16- 
+ 
+2020, which amounts to approximately 67.6% of 
+1 
+the Company’s proposed budget.  The Company has 
+2 
+not provided the Panel with any reason or 
+3 
+additional information to justify the increased 
+4 
+request.  The Panel’s recommended funding of 
+5 
+$1.2 million per year is aligned with what O&R 
+6 
+has spent on this project historically.     
+7 
+Budget System Software Enhancements  
+8 
+Q. 
+Provide the cost associated with the Company’s 
+9 
+proposed Budget System Software Enhancements. 
+10 
+A. 
+According to the Company’s Exhibit__(AP-E4), 
+11 
+Schedule 3, common capital expenditures for the 
+12 
+project total $62,200 for 2021 and $75,500 for 
+13 
+each of RY 1 and RY 2. 
+14 
+Q. 
+Did the Company provide justification for the 
+15 
+enhancements in its testimony? 
+16 
+A. 
+No.  According to the Company’s response to IR 
+17 
+DPS-34-588, included in Exhibit__(SITCP-1), the 
+18 
+Company stated that it inadvertently excluded 
+19 
+testimony for this project. 
+20 
+Q. 
+Does the Panel have a recommendation for the 
+21 
+proposed enhancements? 
+22 
+A. 
+Yes.  We recommend that the Commission deny the 
+23 
+costs associated to the Budget System Software 
+24 
+
+
+--- Page 18 ---
+Cases 21-G-0073, et al. 
+    
+SITCP 
+ 
+ 
+-17- 
+ 
+Enhancements.  Sixteen New York Codes Rules and 
+1 
+Regulations Section 61.4 states that competent 
+2 
+testimony must be provided where changes in 
+3 
+revenues, expenses or income should be 
+4 
+considered in determining reasonable rates.  
+5 
+Given that the Company failed to file testimony 
+6 
+to support the enhancements, or to provide 
+7 
+sufficient support in its response to IR DPS-34-
+8 
+288, included in Exhibit__(SITCP-1) the proposed 
+9 
+costs should be denied. 
+10 
+Customer Relationship Management System Project 
+11 
+Q. 
+Please explain the Company’s proposal for the 
+12 
+CRM project. 
+13 
+A. 
+According to page 39 of the Customer Service 
+14 
+Panel’s initial testimony, the CRM system is a 
+15 
+software tool used to gain a better 
+16 
+understanding of customer needs to improve its 
+17 
+customer service and Company operations.  The 
+18 
+Company states that the project would include 
+19 
+soliciting support to develop business cases, 
+20 
+selecting a vendor, implementing the software 
+21 
+tool and obtaining the system user licenses. 
+22 
+Q. 
+What is the timeline for the CRM project? 
+23 
+A. 
+According to the Company’s response to IR DPS-
+24 
+
+
+--- Page 19 ---
+Cases 21-G-0073, et al. 
+    
+SITCP 
+ 
+ 
+-18- 
+ 
+20-472, contained in Exhibit__(SITCP-1), the 
+1 
+Company does not have a detailed timetable for 
+2 
+the CRM project at this time.  The Company 
+3 
+states that a timetable will be developed as an 
+4 
+output after it selects a consultant for the 
+5 
+project. 
+6 
+Q. 
+Did the Company identify benefits associated 
+7 
+with the CRM system? 
+8 
+A. 
+According to page 40 of the Customer Service 
+9 
+Panel’s initial testimony and page 32 of 
+10 
+Exhibit__(CSP-1), the CRM system would improve 
+11 
+customer experience by providing insights into 
+12 
+customer behavior and automating current manual 
+13 
+customer service tasks across the Company, 
+14 
+thereby reducing costs. 
+15 
+Q. 
+What are the manual customer service tasks that 
+16 
+would be automated? 
+17 
+A. 
+In the Company’s response to DPS-20-472, 
+18 
+included in Exhibit__(SITCP-1), O&R stated that 
+19 
+it will not have a complete list of manual 
+20 
+customer service tasks that will be automated 
+21 
+until after the CRM system is approved.  
+22 
+However, the Company noted that it potentially 
+23 
+anticipates automation of manual tasks related 
+24 
+
+
+--- Page 20 ---
+Cases 21-G-0073, et al. 
+    
+SITCP 
+ 
+ 
+-19- 
+ 
+to retrieval of information, real time premise 
+1 
+level activity, clean energy program information 
+2 
+availability, credit and collections history, 
+3 
+appointment history, customer contact history 
+4 
+and monitoring and tracking of customer self-
+5 
+service history. 
+6 
+Q. 
+Did the Company provide a preliminary financial 
+7 
+analysis detailing cost avoidance and reductions 
+8 
+of future capital and O&M for the project? 
+9 
+A. 
+No.  The Company’s response to IR DPS-20-472, 
+10 
+included in Exhibit__(SITCP-1), indicates that 
+11 
+the Company has not completed a preliminary 
+12 
+financial analysis detailing cost avoidance and 
+13 
+reductions of future capital. 
+14 
+Q. 
+Has the Company developed a business plan for 
+15 
+the project? 
+16 
+A. 
+No.  According to the Company’s response to IR 
+17 
+DPS-20-472, included in Exhibit__(SITCP-1), the 
+18 
+Company will not develop a business plan until 
+19 
+after the selection of a consultant. 
+20 
+Q. 
+What are the associated costs for the CRM 
+21 
+project? 
+22 
+A. 
+The Company proposed capital costs of $1 million 
+23 
+for RY 1, $1 million for RY 2 and $2.9 million 
+24 
+
+
+--- Page 21 ---
+Cases 21-G-0073, et al. 
+    
+SITCP 
+ 
+ 
+-20- 
+ 
+for RY 3. 
+1 
+Q. 
+How did the Company determine the proposed 
+2 
+capital costs? 
+3 
+A. 
+According to the Company’s response to IR DPS-
+4 
+20-472, included in Exhibit__(SITCP-1), the 
+5 
+proposed capital costs are an order of magnitude 
+6 
+estimate based on Con Edison’s experience with 
+7 
+its CRM system.  O&R states that a detailed cost 
+8 
+breakdown will be conducted by the consultant 
+9 
+selected by the Company. 
+10 
+Q. 
+What documentation was developed by the Company 
+11 
+in the decision-making process to move forward 
+12 
+with the project? 
+13 
+A. 
+In the Company’s response to IR DPS-35-594, 
+14 
+included in Exhibit__(SITCP-1), the Company 
+15 
+states that it has not selected a vendor or 
+16 
+consultant for this project and does not have 
+17 
+any internal documents or presentations 
+18 
+detailing the costs or benefits of the project. 
+19 
+Q. 
+What is the Panel’s recommendation regarding the 
+20 
+implementation of the CRM Project? 
+21 
+A. 
+We do not support the implementation of the 
+22 
+Company’s CRM project in these rate cases.  We 
+23 
+are concerned with ratepayers funding the CRM 
+24 
+
+
+--- Page 22 ---
+Cases 21-G-0073, et al. 
+    
+SITCP 
+ 
+ 
+-21- 
+ 
+project when the Company has not developed a 
+1 
+detailed cost estimate or business plan that 
+2 
+identifies, among other things, cost savings or 
+3 
+reductions from efficiencies gained and 
+4 
+automations in certain areas of the Company’s 
+5 
+operations.   
+6 
+Artificial Intelligence Chatbot Program 
+7 
+Q. 
+Please describe the Company’s Artificial 
+8 
+Intelligence, or AI, Chatbot Program. 
+9 
+A. 
+On pages 36 and 37 of its initial testimony, the 
+10 
+Customer Service Panel explains that a chatbot 
+11 
+is a computer program on the Company’s digital 
+12 
+platform that will simulate a live customer 
+13 
+service representative, or CSR.  The AI Chatbot 
+14 
+can complete the initial steps of customer 
+15 
+interactions, such as payment inquiries, stop 
+16 
+and start service requests and outage management 
+17 
+prior to reaching a CSR, thereby streamlining 
+18 
+the CSR’s work processes.  The Company states 
+19 
+that it intends to start building the AI Chatbot 
+20 
+in 2024. 
+21 
+Q. 
+Did the Company propose a similar feature in its 
+22 
+last rate proceedings, Cases 18-E-0067 and 18-G-
+23 
+0068? 
+24 
+
+
+--- Page 23 ---
+Cases 21-G-0073, et al. 
+    
+SITCP 
+ 
+ 
+-22- 
+ 
+A. 
+Yes.  The Company proposed and received 
+1 
+Commission approval for a virtual assistant Live 
+2 
+Chat functionality as part of the Company’s DCX 
+3 
+program.  The March 14, 2019 Order Adopting 
+4 
+Terms of Joint Proposal and Establishing 
+5 
+Electric and Gas Rate Plans, issued in Cases 18-
+6 
+E-0067 and 18-G-0068, referred to as the 2019 
+7 
+Rate Order, required the Company to begin 
+8 
+reporting to the Secretary of the Commission in 
+9 
+RY 2 the number of customers who used the Live 
+10 
+Chat functionality.  To date, the Company has 
+11 
+not commenced its reporting. 
+12 
+Q. 
+Has the Company implemented the Live Chat 
+13 
+functionality? 
+14 
+A. 
+In its response to IR DPS-10-330, included in 
+15 
+Exhibit__(SITCP-1), the Company stated that it 
+16 
+has not moved forward with the Live Chat 
+17 
+functionality at this time, but offered no 
+18 
+further explanation. 
+19 
+Q. 
+What benefits are associated with the AI Chatbot 
+20 
+implementation? 
+21 
+A. 
+The Company stated, on page 38 of its Customer 
+22 
+Service Panel’s initial testimony, that the 
+23 
+primary benefit is to reduce workload for the 
+24 
+
+
+--- Page 24 ---
+Cases 21-G-0073, et al. 
+    
+SITCP 
+ 
+ 
+-23- 
+ 
+CSRs to allow them to focus on more complex 
+1 
+customer service interactions.  
+2 
+Q. 
+Did the Company provide any examples of how the 
+3 
+AI Chatbot would reduce workload for the CSRs or 
+4 
+demonstrate any associated cost savings? 
+5 
+A. 
+No.  In its response to IR DPS-7-296, included 
+6 
+in Exhibit__(SITCP-1), O&R stated that it had 
+7 
+not yet determined the specific workload that 
+8 
+would be reduced or the associated cost savings. 
+9 
+Q. 
+What is the associated capital cost for the AI 
+10 
+Chatbot? 
+11 
+A. 
+According to the Company’s Exhibit__(CSP-1), the 
+12 
+associated capital cost for the AI Chatbot is 
+13 
+$500,000 for RY 3. 
+14 
+Q. 
+What is the Panel’s recommendation for the 
+15 
+implementation of the AI Chatbot? 
+16 
+A. 
+We recommend that the Company defer the AI 
+17 
+Chatbot until its next rate case filing.  Given 
+18 
+O&R’s delay in implementing the previously 
+19 
+approved Live Chat functionality, coupled with 
+20 
+the fact that the Company has not yet identified 
+21 
+workload reductions or associated cost and time 
+22 
+savings, we cannot support this project at this 
+23 
+time. Further, we do not consider the addition 
+24 
+
+
+--- Page 25 ---
+Cases 21-G-0073, et al. 
+    
+SITCP 
+ 
+ 
+-24- 
+ 
+of the AI Chatbot to the list of DCX 
+1 
+functionalities as necessary at this time, 
+2 
+particularly since the implementation is not 
+3 
+until RY 3.   
+4 
+Data Analytics Program 
+5 
+Q. 
+Please describe the Company’s proposed Data 
+6 
+Analytics program. 
+7 
+A. 
+On page 52 of the Company’s Customer Service 
+8 
+Panel’s initial testimony, O&R states that the 
+9 
+Data Analytics program would be used to connect 
+10 
+a significant amount of data across separate 
+11 
+internal systems to identify patterns, trends or 
+12 
+correlations. 
+13 
+Q. 
+What information does the Company intend to 
+14 
+analyze using the Data Analytics program? 
+15 
+A. 
+On page 52 of the Customer Service Panel’s 
+16 
+initial testimony, O&R indicates that it would 
+17 
+draw information from its databases related to 
+18 
+customer activity that would be used as part of 
+19 
+the analysis. 
+20 
+Q. 
+What are the objectives of the program? 
+21 
+A. 
+On pages 52 and 53 of the Customer Service 
+22 
+Panel’s initial testimony, the Company states 
+23 
+that the objectives of the Data Analytics 
+24 
+
+
+--- Page 26 ---
+Cases 21-G-0073, et al. 
+    
+SITCP 
+ 
+ 
+-25- 
+ 
+program include developing a deeper 
+1 
+understanding of customers’ needs through 
+2 
+analysis of customer segmentation. It allows for 
+3 
+recommendations to customers of programs and 
+4 
+services tailored to customer groups.  It can 
+5 
+enhance quality assurance based on analysis of 
+6 
+customer inquiries, compliance analytics, and 
+7 
+reviews of fraud.  The Company’s proposed Data 
+8 
+Analytics program would, according to O&R, 
+9 
+unlock business intelligence that would drive 
+10 
+operational efficiencies. 
+11 
+Q. 
+Has this program been implemented by other 
+12 
+utilities? 
+13 
+A. 
+Yes.  Page 52 of the Company’s Customer Service 
+14 
+Panel’s initial testimony states that Con Edison 
+15 
+has implemented a similar Data Analytics program 
+16 
+pursuant to the January 16, 2020 Order Adopting 
+17 
+Terms of Joint Proposal and Establishing 
+18 
+Electric and Gas Rate Plan, issued in Cases 19-
+19 
+E-0065 and 19-G-0066.   
+20 
+Q. 
+What business use cases did Con Edison develop? 
+21 
+A. 
+In response to IR DPS-13-386, included in 
+22 
+Exhibit__(SITCP-1), the Company states that Con 
+23 
+Edison developed business use cases regarding 
+24 
+
+
+--- Page 27 ---
+Cases 21-G-0073, et al. 
+    
+SITCP 
+ 
+ 
+-26- 
+ 
+the following areas: Repeat Caller Analysis, 
+1 
+Call Volume Drivers, Escalated Call Analytics, 
+2 
+Interactive Voice Response, Drop Out Analysis, 
+3 
+Channel Analysis of Call Volume Drivers, Impact 
+4 
+of Events on Inbound Customer Touchpoints, 
+5 
+Measuring the Effectiveness of the Improvements 
+6 
+to the Digital Experience and Customer 
+7 
+Segmentation.  These business use cases focus on 
+8 
+caller behavior and the information obtained can 
+9 
+be used to improve efficiency in customer 
+10 
+contact handling and reduce costs.  
+11 
+Q. 
+What programs does O&R expect to offer through a 
+12 
+Data Analytics program? 
+13 
+A. 
+The Company listed existing programs which it 
+14 
+markets to its customers and believes that, 
+15 
+using data analytics, it can more efficiently 
+16 
+market these offerings and reduce costs.  
+17 
+Specifically, O&R included the following 
+18 
+programs: Ebill, Autopay, Budget Billing, offers 
+19 
+from the ORU store, Energy Efficiency Programs 
+20 
+and Reforming the Energy Vision-related 
+21 
+programs. 
+22 
+Q. 
+What are the capital and O&M costs associated 
+23 
+with this program? 
+24 
+
+
+--- Page 28 ---
+Cases 21-G-0073, et al. 
+    
+SITCP 
+ 
+ 
+-27- 
+ 
+A. 
+Capital costs are $500,000 in RY 1, $1 million 
+1 
+in RY 2, and $500,000 in RY 3.  The O&M costs 
+2 
+are $240,000 in RY 2 and $360,000 in RY 3. 
+3 
+Q. 
+What is the breakdown of the capital costs? 
+4 
+A. 
+On page 54 of its initial testimony, the 
+5 
+Customer Service Panel states that the capital 
+6 
+costs will cover designing and setting up the 
+7 
+data model, incorporating the data in the 
+8 
+analytic platform established by Con Edison, 
+9 
+adjusting definitions and algorithms to suit O&R 
+10 
+data, licensing costs associated with the new 
+11 
+platform, and system testing.  
+12 
+Q. 
+What is the breakdown of the O&M costs? 
+13 
+A. 
+On page 54 of its initial testimony, the 
+14 
+Customer Service Panel states that the O&M costs 
+15 
+will cover three full time employees, as well as 
+16 
+shared maintenance and integration costs.  
+17 
+Q. 
+What are the intended customer benefits of this 
+18 
+program? 
+19 
+A. 
+On page 53 of its initial testimony, the 
+20 
+Customer Service Panel states that the analysis 
+21 
+of the customer data can identify opportunities 
+22 
+for improvement to foster a more positive 
+23 
+customer interaction with the Company. 
+24 
+
+
+--- Page 29 ---
+Cases 21-G-0073, et al. 
+    
+SITCP 
+ 
+ 
+-28- 
+ 
+Q. 
+Did the Company provide cost savings associated 
+1 
+with implementation of the Data Analytics 
+2 
+program? 
+3 
+A. 
+No.  On page 37 of the Company’s Exhibit__(CSP-
+4 
+1), the Company states that the program will 
+5 
+enable improvements to customer service and 
+6 
+reduce operating costs; however, it does not 
+7 
+identify the cost savings for the implementation 
+8 
+of the program.  At this time, the Company is 
+9 
+not aware of any cost savings that could result 
+10 
+from the operational efficiencies the Data 
+11 
+Analytics program is designed to create. 
+12 
+Q. 
+What is Panel’s recommendation for the Data 
+13 
+Analytics program? 
+14 
+A. 
+The Panel recommends that the Commission deny 
+15 
+the Data Analytics program and associated costs. 
+16 
+The Panel is concerned with the magnitude of the 
+17 
+capital and O&M costs associated with this 
+18 
+program without identified cost savings.   
+19 
+Digital Customer Experience 
+20 
+Q. 
+Please describe the Company’s DCX program. 
+21 
+A. 
+The Company’s DCX program was approved by the 
+22 
+Commission in the 2019 Rate Order.  The program 
+23 
+is a multi-year program designed to improve the 
+24 
+
+
+--- Page 30 ---
+Cases 21-G-0073, et al. 
+    
+SITCP 
+ 
+ 
+-29- 
+ 
+Company’s digital platforms.  The 2019 Rate 
+1 
+Order provided the Company funding for 
+2 
+improvements to its Web Experience Management 
+3 
+platform and to deploy a Click to Call 
+4 
+functionality that provides customers with an 
+5 
+option to request a CSR to contact them 
+6 
+directly.  In addition, the Company received 
+7 
+funding to implement a virtual assistant Live 
+8 
+Chat functionality as previously discussed in 
+9 
+our testimony.  The 2019 Rate Order also 
+10 
+required the Company to commence in RY 2 
+11 
+quarterly reporting on the number of customers 
+12 
+who used the Click to Call and the Live Chat 
+13 
+functionalities.  
+14 
+Q. 
+Has the Company completed all the above tasks? 
+15 
+A. 
+The Company has implemented the Click to Call 
+16 
+functionality but has not commenced reporting on 
+17 
+the number of users as required by the 2019 Rate 
+18 
+Order.  The Company, as previously discussed, 
+19 
+also did not complete the Live Chat 
+20 
+implementation.  
+21 
+Q. 
+What upgrade is the Company proposing for the 
+22 
+DCX in these proceedings? 
+23 
+A. 
+On page 46 of Exhibit___(CSP-1), the Company 
+24 
+
+
+--- Page 31 ---
+Cases 21-G-0073, et al. 
+    
+SITCP 
+ 
+ 
+-30- 
+ 
+requests capital costs for ongoing optimization, 
+1 
+transitional expansion, data sharing through the 
+2 
+expansion of Green Button Connect, updates for 
+3 
+its Web Experience Management, mobile updates to 
+4 
+include the global positioning system to report 
+5 
+an outage, and adding bill payment options 
+6 
+through Venmo and PayPal. 
+7 
+Q. 
+What are the associated capital costs for the 
+8 
+DCX program? 
+9 
+A. 
+The Company proposed capital costs of $1.0 
+10 
+million for RY 1, $1.0 million for RY 2 and $1.0 
+11 
+million for RY 3 for labor cost, vendor cost, 
+12 
+software and hardware costs as described in the 
+13 
+Company’s Exhibit__(CSP-1). 
+14 
+Q. 
+What O&M costs has the Company proposed for the 
+15 
+DCX program? 
+16 
+A. 
+The Company proposes O&M costs of $510,000 for 
+17 
+RY 1, $522,000 for RY 2 and $537,000 for RY 3 
+18 
+for software service fees, cloud hosting fees, 
+19 
+maintenance fees and contractor fees. 
+20 
+Q. 
+Does the Company have unspent funds related to 
+21 
+DCX? 
+22 
+A. 
+Yes.  According to the Company’s response to IR 
+23 
+DPS-27-540, included in Exhibit__(SITCP-1), the 
+24 
+
+
+--- Page 32 ---
+Cases 21-G-0073, et al. 
+    
+SITCP 
+ 
+ 
+-31- 
+ 
+Company states that the total unspent funds 
+1 
+amount to $224,000.  
+2 
+Q. 
+Does the Company track the unspent funds 
+3 
+associated with each functionality of DCX? 
+4 
+A. 
+According to the Company’s response to IR DPS-
+5 
+27-540, included in Exhibit__(SITCP-1), the 
+6 
+Company does not track the unspent funds by 
+7 
+functionality because the funding is budgeted at 
+8 
+the program level.  
+9 
+Q. 
+Does the Company intend to use the unspent funds 
+10 
+on the DCX program? 
+11 
+A. 
+Yes.  In its response to IR DPS-10-330, included 
+12 
+in Exhibit__(SITCP-1), the Company states that 
+13 
+it will use any unspent funds from the DCX 
+14 
+program to fund efforts to expand functionality.   
+15 
+Q. 
+What does the Panel recommend for the DCX 
+16 
+program? 
+17 
+A. 
+We recommend the funding as proposed by the 
+18 
+Company for the Rate Year.  We also recommend 
+19 
+that the Company start to track and include in 
+20 
+its quarterly reports, cost by each 
+21 
+functionality of DCX to clearly demonstrate the 
+22 
+breakdown of the costs within the program.  This 
+23 
+will improve visibility of how program costs are 
+24 
+
+
+--- Page 33 ---
+Cases 21-G-0073, et al. 
+    
+SITCP 
+ 
+ 
+-32- 
+ 
+being spent and accuracy of forecasting costs.  
+1 
+The report must include a breakdown of the 
+2 
+budget and expenses by each functionality and 
+3 
+include reasons for any unspent or reallocated 
+4 
+funds.  In addition, we recommend that the 
+5 
+quarterly reports include the number of 
+6 
+customers who have used Click to Call, as 
+7 
+required by the 2019 Rate Order, including the 
+8 
+number of clicks the Company responded to within 
+9 
+30 seconds. 
+10 
+Q. 
+Does the Panel have additional recommendations? 
+11 
+A.  Yes.  The Panel recommends that O&R and Con 
+12 
+Edison develop a process to present DCX 
+13 
+proposals in a holistic manner that includes 
+14 
+both companies’ costs and benefits and is 
+15 
+consistent and transparent. 
+16 
+Q.  Please explain the Panel’s basis for this 
+17 
+recommendation. 
+18 
+A. 
+Since the DCX program is an ongoing joint 
+19 
+project between O&R and Con Edison, we have 
+20 
+concerns regarding the approval of DCX proposals 
+21 
+in individual company rate proceedings, and the 
+22 
+potential impact of such approvals on the other 
+23 
+company.  For example, O&R indicates in its 
+24 
+
+
+--- Page 34 ---
+Cases 21-G-0073, et al. 
+    
+SITCP 
+ 
+ 
+-33- 
+ 
+Exhibit__(CSP-1) that the total cost for the DCX 
+1 
+program is estimated at $14 million for RY 1 
+2 
+through RY 3, of which O&R’s allocated amount is 
+3 
+$1 million.  If O&R is approved for cost 
+4 
+recovery for its proposed enhancements in these 
+5 
+rate proceedings and commences implementation, 
+6 
+it seems to pose a problem if Con Edison is 
+7 
+denied cost recovery of its shared portion of 
+8 
+the total cost in its next rate proceedings.  
+9 
+Also, the Panel is concerned with the potential 
+10 
+for varying costs that are presented in the 
+11 
+individual rate cases.  For example, in the 2019 
+12 
+Con Edison rate proceedings, Con Edison received 
+13 
+approval to recover its portion of the $13 
+14 
+million total DCX cost for each year of its rate 
+15 
+plan, which includes the year 2022.  However, in 
+16 
+the current O&R rate proceedings, O&R requests 
+17 
+recovery of its portion of the estimated $14 
+18 
+million total annual DCX cost for the same year, 
+19 
+2022.  Due to the difference in total program 
+20 
+costs for the same period, the Panel is 
+21 
+concerned with consistency and transparency of 
+22 
+the total costs associated with this program. 
+23 
+Q.  Does the Panel have any other concerns? 
+24 
+
+
+--- Page 35 ---
+Cases 21-G-0073, et al. 
+    
+SITCP 
+ 
+ 
+-34- 
+ 
+A.  Yes.  Typically, proposed projects include a 
+1 
+timeline that details the specific period in 
+2 
+which the project commences and will be 
+3 
+completed.  As indicated by the Company’s 
+4 
+Exhibit__(CSP-1), the DCX project is ongoing.  
+5 
+Although individual components or 
+6 
+functionalities within the DCX portfolio, like 
+7 
+Live Chat, do have implementation timeframes, 
+8 
+the overall program appears to have no end date.  
+9 
+The Panel is concerned that, due to the ever-
+10 
+changing technology industry, there is the 
+11 
+potential for certain enhancements or 
+12 
+functionalities to be implemented and not serve 
+13 
+through their useful lives before something new 
+14 
+and better comes along.  
+15 
+Customer Online Community 
+16 
+Q. 
+Please describe the Company’s proposal for the 
+17 
+Customer Online Community project. 
+18 
+A. 
+According to page 20 of the initial testimony of 
+19 
+the Customer Service Panel, the Company’s Online 
+20 
+Community project will offer customers the 
+21 
+chance to provide direct feedback on Company 
+22 
+programs and services. In the Company’s response 
+23 
+to IR DPS-8-309, included in Exhibit__(SITCP-1), 
+24 
+
+
+--- Page 36 ---
+Cases 21-G-0073, et al. 
+    
+SITCP 
+ 
+ 
+-35- 
+ 
+O&R states that the current Customer Online 
+1 
+Community consists of monthly surveys to 
+2 
+customers, engagement polls, moderated forum 
+3 
+discussions and online live chat. 
+4 
+Q. 
+Describe the initial development of the Customer 
+5 
+Online Community. 
+6 
+A. 
+On page 20 and 21 of the Customer Service 
+7 
+Panel’s initial testimony, O&R states that, in 
+8 
+2017, the Company developed a team to recommend 
+9 
+improvements to customer service.  One 
+10 
+recommendation was the Customer Online 
+11 
+Community.  Through a request for proposal, or 
+12 
+RFP, process, the Company selected KL 
+13 
+Communications, referred to as KLC, as the 
+14 
+vendor to manage the initial setup and design.   
+15 
+Q. 
+What is the Company proposal to improve the 
+16 
+Customer Online Community? 
+17 
+A. 
+According to pages 20 and 21 of the Customer 
+18 
+Service Panel’s initial testimony, O&R chose to 
+19 
+continue using KLC to manage the proposed 
+20 
+expansion of the Customer Online Community.  The 
+21 
+key objectives for the program are to improve 
+22 
+customer satisfaction and experience, as well as 
+23 
+business operations, though customer engagement 
+24 
+
+
+--- Page 37 ---
+Cases 21-G-0073, et al. 
+    
+SITCP 
+ 
+ 
+-36- 
+ 
+and leveraging technology. 
+1 
+Q. 
+Describe KLC’s expanded management of the 
+2 
+Customer Online Community. 
+3 
+A. 
+On page 22 of the initial testimony of the 
+4 
+Customer Service Panel, O&R states that KLC will 
+5 
+generate content/activities and oversee 
+6 
+implementation, segment audience for custom 
+7 
+cuts, incentive and participation management, 
+8 
+technical support and site management and 
+9 
+reporting.  O&R will analyze the outputs from 
+10 
+KLC to improve customer service and business 
+11 
+processes.   
+12 
+Q. 
+What is the frequency in which KLC will supply 
+13 
+outputs to the Company?  
+14 
+A. 
+According to the Company’s response to IR DPS-
+15 
+29-557, included in Exhibit__(SITCP-1), the 
+16 
+current budget allows KLC to conduct one 
+17 
+research activity and one engagement poll per 
+18 
+month and provide feedback to the Company. 
+19 
+Q. 
+Does the Company currently fund the Customer 
+20 
+Online Community? 
+21 
+A. 
+Yes.  The Company states in response to IR DPS-
+22 
+29-557, included in Exhibit___(SITCP-1), that 
+23 
+the available funds from 2017 to 2020 were due 
+24 
+
+
+--- Page 38 ---
+Cases 21-G-0073, et al. 
+    
+SITCP 
+ 
+ 
+-37- 
+ 
+to lower staffing levels caused by employee 
+1 
+turnover.  The Company states that department 
+2 
+staffing is currently at normal levels and, 
+3 
+therefore, the funds are no longer available for 
+4 
+the Customer Online Community project. 
+5 
+Q. 
+What are the historic funding levels? 
+6 
+A. 
+Page 29 of the Company’s Exhibit__(CSP-1) 
+7 
+provides O&M costs for 2017 and 2018 at 
+8 
+$165,000.  For each year 2019 and 2020, the 
+9 
+Customer Online Community was funded by the 
+10 
+Company at a cost of $105,000.     
+11 
+Q. 
+What is the proposed O&M cost associated with 
+12 
+the Customer Online Community? 
+13 
+A. 
+The Company proposed O&M costs of $170,000 for 
+14 
+RY 1, $170,000 for RY 2 and $175,000 for RY 3. 
+15 
+Q. 
+Does the Company conduct alternative measures to 
+16 
+solicit customer feedback? 
+17 
+A. 
+Yes.  According to the Company’s response to IR 
+18 
+DPS-8-310, included in Exhibit__(SITCP-1) the 
+19 
+Company conducts focus groups, customer forums 
+20 
+and other outreach and education, such as 
+21 
+detailed messaging on energy efficiency. 
+22 
+Q. 
+What are the Company’s cost to conduct focus 
+23 
+groups, customer forums and other outreach and 
+24 
+
+
+--- Page 39 ---
+Cases 21-G-0073, et al. 
+    
+SITCP 
+ 
+ 
+-38- 
+ 
+education? 
+1 
+A. 
+According to the Company’s response to IR DPS-
+2 
+43-626, included in Exhibit__(SITCP-1), the cost 
+3 
+to conduct a customer forum is $1,500, a poll is 
+4 
+$750, a journal, which offers detailed messaging 
+5 
+on topics such as energy efficiency, ranges from 
+6 
+$2,000 to $3,500, and surveys range from $2,000 
+7 
+to $7,500. 
+8 
+Q. 
+Does the Panel have recommendations for the 
+9 
+Customer Online Community? 
+10 
+A. 
+Yes.  We recommend continuing the Customer 
+11 
+Online Community during the Rate Year; however, 
+12 
+the program should continue to be funded through 
+13 
+savings.  Therefore, we have removed the 
+14 
+Company’s proposed O&M from the revenue 
+15 
+requirement.  There are efficiencies in 
+16 
+soliciting feedback from customers early in the 
+17 
+development of programs or projects rather than 
+18 
+after implementation.  The Panel recommends that 
+19 
+the Company leverage the Customer Online 
+20 
+Community to realize those efficiencies that 
+21 
+reduce capital and O&M costs for programs or 
+22 
+projects to fund the Customer Online Community.  
+23 
+Electric IT Projects 
+24 
+
+
+--- Page 40 ---
+Cases 21-G-0073, et al. 
+    
+SITCP 
+ 
+ 
+-39- 
+ 
+Q.  Provide a brief overview of the Company’s 
+1 
+funding request related to electric IT projects. 
+2 
+A. 
+The Company has requested $3.264 million for the 
+3 
+Rate Year, $1.881 million for RY 2 and $2.380 
+4 
+million for RY 3 as described in the initial 
+5 
+testimony of the Company’s IT Panel.  The main 
+6 
+drivers in funding include the Digital Factory 
+7 
+and the Outage Management System Enhancement 
+8 
+projects.   
+9 
+Q.  What are the Panel’s recommendations for 
+10 
+electric IT projects and programs? 
+11 
+A.  The Panel recommends reducing the Company’s 
+12 
+electric capital expenditures budget by $800,000 
+13 
+in RY 1 and $550,000 each in RY 2 and RY 3.  
+14 
+These recommendations reflect adjustments to the 
+15 
+Smart Meter Initiative, as previously discussed, 
+16 
+and to the Digital Factory program.   
+17 
+Digital Factory 
+18 
+Q. 
+Please provide a brief description of the 
+19 
+Digital Factory program. 
+20 
+A. 
+As part of O&R’s digital transformation, the 
+21 
+Company has established the Digital Factory, a 
+22 
+digital transformation program designed to bring 
+23 
+business units and the IT department together to 
+24 
+
+
+--- Page 41 ---
+Cases 21-G-0073, et al. 
+    
+SITCP 
+ 
+ 
+-40- 
+ 
+build software products for the Company’s field 
+1 
+operations employees and customers.  The 
+2 
+dedicated team, called the Digital Factory, will 
+3 
+spearhead the development of enterprise-wide IT 
+4 
+capabilities to develop, integrate, secure, 
+5 
+deploy, maintain, and monitor mobile 
+6 
+applications.  Additionally, the Digital Factory 
+7 
+will build a new mobile platform of reusable 
+8 
+technology components.   
+9 
+Q. 
+What is the Company requesting for funding for 
+10 
+the Digital Factory program? 
+11 
+A.  The Company is requesting $1 million annually, 
+12 
+to be funded through the electric capital 
+13 
+expenditure budget from 2022 to 2024.  
+14 
+Q. 
+Explain the Company’s justification for this 
+15 
+project. 
+16 
+A. 
+On page 9 of Exhibit__(IT-3), the Company states 
+17 
+that mobile technology and advanced analytics 
+18 
+are no longer optional.  The Digital Factory is 
+19 
+a digital transformation program, O&R’s first 
+20 
+step in changing the way technology is deployed 
+21 
+at the Company.  The Company states that it 
+22 
+performed benchmarking with peer utilities that 
+23 
+have leveraged this framework and found that it 
+24 
+
+
+--- Page 42 ---
+Cases 21-G-0073, et al. 
+    
+SITCP 
+ 
+ 
+-41- 
+ 
+has been successful in reducing the costs of 
+1 
+targeted processes by 10-20 percent while also 
+2 
+improving customer satisfaction, safety, and 
+3 
+compliance in various areas. 
+4 
+Q. 
+Does the Panel recommend any adjustments to this 
+5 
+program? 
+6 
+A. 
+Yes.  The Panel is recommending a reduction to 
+7 
+the electric capital expenditure budget by 
+8 
+$400,000 for a total annual budget of $600,000.   
+9 
+Q.  Please explain the Panel’s adjustment. 
+10 
+A.  In response to IR DPS-21-481, included in 
+11 
+Exhibit__(SITCP-1), the Company provided a Gantt 
+12 
+chart showing projected planning and deployment 
+13 
+periods of unnamed Digital Factory products from 
+14 
+2021 through 2025.  However, in its response to 
+15 
+IR DPS-21-481, the Company did not indicate that 
+16 
+it is currently developing a product under the 
+17 
+Digital Factory.  In the same response, the 
+18 
+Company explained that, aside from the Site 
+19 
+Safety application, which was deployed in late 
+20 
+2020, no O&R specific applications have been 
+21 
+deployed.  Additionally, in the Company’s 
+22 
+response to IR DPS-33-583, included in 
+23 
+Exhibit__(SITCP-1), O&R stated that the Company 
+24 
+
+
+--- Page 43 ---
+Cases 21-G-0073, et al. 
+    
+SITCP 
+ 
+ 
+-42- 
+ 
+is currently evaluating cost optimization 
+1 
+efforts across business organizations to 
+2 
+identify mobile application development 
+3 
+opportunities, but that it has not committed to 
+4 
+applications in subsequent years to ensure the 
+5 
+latest technology offerings are available at the 
+6 
+moment requested.  Because the Company is not 
+7 
+currently developing any applications under this 
+8 
+framework, the Panel is skeptical that the 
+9 
+Company will develop all the products included 
+10 
+in the Gantt chart over the three-year period.  
+11 
+Since the cost of the Site Safety application 
+12 
+was $300,000, and the Gantt chart shows the 
+13 
+Company plans to work on two to three projects 
+14 
+each year, the Panel reduced the requested 
+15 
+funding by $400,000.  This adjustment provides 
+16 
+the Company with the funding necessary to 
+17 
+develop two similar sized applications or cover 
+18 
+the expenses of one larger application.   
+19 
+Q. 
+Does the Panel have any other concerns with the 
+20 
+electric IT projects? 
+21 
+A. 
+Yes, the Panel is concerned with the uncertainty 
+22 
+surrounding the capital expenditure funding for 
+23 
+Digital Factory and the OMS Enhancement 
+24 
+
+
+--- Page 44 ---
+Cases 21-G-0073, et al. 
+    
+SITCP 
+ 
+ 
+-43- 
+ 
+projects.  On page 11 of Exhibit__(IT-3) and 
+1 
+page 11 of Exhibit__(IT-2), the Company 
+2 
+indicated that the funding request was split 
+3 
+between its electric and gas businesses, and 
+4 
+therefore, should be a common-capital project.  
+5 
+However, in its response to IRs DPS-1-71 and DPS 
+6 
+13-383, included in Exhibit__(SITCP-1), the 
+7 
+Company’s capital expenditure budget shows the 
+8 
+entire funding request for these projects as 
+9 
+electric expenditures.  
+10 
+Q.   What is the Panel’s recommendation? 
+11 
+A. 
+At this time, the Panel has reflected these 
+12 
+projects in the electric capital expenditure 
+13 
+budget.  However, the Panel recommends that the 
+14 
+Company file rebuttal testimony to clarify and 
+15 
+explain how these projects should be funded.  
+16 
+Q. 
+Does this conclude your testimony at this time? 
+17 
+A. 
+Yes. 
+18 
+ 
+19 
+ 
+20 
+ 
+21 
+ 
+22 
+ 
+23 
+ 
+24 

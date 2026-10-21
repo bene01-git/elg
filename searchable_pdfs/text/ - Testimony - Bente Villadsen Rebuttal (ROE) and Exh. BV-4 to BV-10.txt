@@ -1,0 +1,2306 @@
+--- Page 1 ---
+ 
+  
+BEFORE THE 
+STATE OF NEW YORK PUBLIC SERVICE COMMISSION 
+ 
+ 
+CASE 22-E-0064 
+ 
+ 
+ 
+ 
+CASE 22-G-0065 
+) 
+) 
+) 
+) 
+) 
+) 
+) 
+) 
+) 
+) 
+Proceeding on Motion of the Commission as to the 
+Rates, Charges, Rules and Regulations of 
+Consolidated Edison Company of New York, Inc. for 
+Electric Service. 
+ 
+ 
+Proceeding on Motion of the Commission as to the 
+Rates, Charges, Rules and Regulations of 
+Consolidated Edison Company of New York, Inc. for 
+Gas Service. 
+ 
+ 
+ 
+ 
+ 
+ 
+REBUTTAL TESTIMONY OF DR. BENTE VILLADSEN 
+ 
+ 
+RETURN ON EQUITY 
+ 
+ 
+ 
+June 17, 2022 
+ 
+ 
+
+
+--- Page 2 ---
+Consolidated Edison Company of New York  
+Cases 22-E-0064 and 22-G-0065 
+REBUTTAL TESTIMONY OF DR. BENTE VILLADSEN 
+ 
+TABLE OF CONTENTS 
+ 
+1. 
+INTRODUCTION ..................................................................................................................1 
+2. 
+SUMMARY OF RECOMMENDATIONS ............................................................................3 
+3. 
+STAFF’S APPROACH TO ESTIMATING THE COST OF EQUITY .................................5 
+A. 
+Overall Approach ...........................................................................................................5 
+B. 
+Proxy Group ...................................................................................................................5 
+C. 
+Staff’s CAPM and Zero-Beta CAPM ............................................................................7 
+D. 
+Staff’s DCF ....................................................................................................................9 
+E. 
+Risk Premium Model ...................................................................................................11 
+F. 
+Weighting of DCF and CAPM results .........................................................................14 
+4. 
+FINANCIAL LEVERAGE ADJUSTMENTS .....................................................................17 
+A. 
+Preliminaries ................................................................................................................17 
+B. 
+Financial Economics ....................................................................................................18 
+C. 
+Precedents ....................................................................................................................24 
+5.  BUSINESS and ECONOMIC RISK UPDATE ........................................................................26 
+  
+
+
+--- Page 3 ---
+Consolidated Edison Company of New York  
+Cases 22-E-0064 and 22-G-0065 
+REBUTTAL TESTIMONY OF DR. BENTE VILLADSEN 
+ 
+ 
+Page 1 of 30 
+BEFORE THE 
+STATE OF NEW YORK PUBLIC SERVICE COMMISSION 
+ 
+ 
+CASE 22-E-0064 
+ 
+ 
+ 
+ 
+CASE 22-G-0065 
+) 
+) 
+) 
+) 
+) 
+) 
+) 
+) 
+) 
+) 
+Proceeding on Motion of the Commission as to 
+the Rates, Charges, Rules and Regulations of 
+Consolidated Edison Company of New York, 
+Inc. for Electric Service. 
+ 
+ 
+Proceeding on Motion of the Commission as to 
+the Rates, Charges, Rules and Regulations of 
+Consolidated Edison Company of New York, 
+Inc. for Gas Service. 
+ 
+1. INTRODUCTION 
+1 
+Q1: Please state your name, occupation, and business address for the record. 
+2 
+A1: My name is Bente Villadsen and I am a Principal of The Brattle Group, whose business 
+3 
+address is One Beacon Street, Suite 2600, Boston, Massachusetts, 02108. 
+4 
+Q2: Are you the same Bente Villadsen who filed Direct Testimony in this matter? 
+5 
+A2: Yes 
+6 
+Q3: What is the purpose of your Rebuttal Testimony? 
+7 
+A3: I have been asked to review and comment on the Direct Testimony of the Staff Finance Panel 
+8 
+as it pertains to cost of capital and capital structure for Consolidated Edison Company of 
+9 
+New York, Inc. (“CECONY” or the “Company”).1 
+10 
+Q4: Is there anything in the Staff Testimony that caused you to change your recommended 
+11 
+return on equity (“ROE”) for CECONY? 
+12 
+ 
+1 Prepared Testimony of Staff Finance Panel, Kristine A. Prylo and Andrew Hale, Cases 22-E-0064 and 22-G-0065, 
+May 2022 (“Staff Testimony”). 
+
+
+--- Page 4 ---
+Consolidated Edison Company of New York  
+Cases 22-E-0064 and 22-G-0065 
+REBUTTAL TESTIMONY OF DR. BENTE VILLADSEN 
+ 
+ 
+Page 2 of 30 
+A4: No. Having reviewed the Staff Testimony, I continue to find that my original 
+1 
+recommendation for a ROE of 10.0 – 10.5 percent at the requested 50.0% equity capital 
+2 
+structure is reasonable. Since my Direct Testimony, economic conditions have changed as 
+3 
+interest rates and inflation have increased dramatically, while market volatility as measured 
+4 
+by, for example, the VIX has moderated, while stock market indices such as the S&P 500 
+5 
+have become very volatile and in 2022 have lost substantial value.  At the same time, 
+6 
+substantial uncertainty has been added to the world stage due to the ongoing war in Ukraine. 
+7 
+I address the impacts of these changes in further detail in Section 0 below.  
+8 
+Q5: Please summarize your Rebuttal Testimony. 
+9 
+A5: Having reviewed the Staff Testimony, I summarize my findings below as follows: 
+10 
+A. The ROE recommended by Staff is much too low and is out of line with prevailing 
+11 
+market conditions and the ROEs that are available to similarly situated utilities in 
+12 
+other jurisdictions. I reviewed the allowed ROEs for other electric utilities and find 
+13 
+that Staff’s recommendation is below what has recently been awarded. If the New 
+14 
+York Public Service Commission (“Commission”) awarded Staff’s recommendation, 
+15 
+it would be the lowest ROE in the country awarded in the normal course of service 
+16 
+regulation.2  It is also lower than that recently allowed other New York utilities. 
+17 
+B. Staff’s recommendation is downwardly biased due to the choice of inputs to Staff’s 
+18 
+Discounted Cash Flow (“DCF”) model, Capital Asset Pricing Model (“CAPM”), and 
+19 
+Zero-beta CAPM. Staff also fails to consider results from other well-recognized 
+20 
+models (e.g., the Risk Premium Model).  The mechanical weighting that puts 2/3 
+21 
+weight on the DCF and much less weight on the CAPM and Zero-beta CAPM also 
+22 
+downward biases the results. 
+23 
+C. Staff fails to properly account for the impact of financial leverage. The approaches 
+24 
+used in my analysis—the after-tax weighted average cost of capital and the Hamada 
+25 
+ 
+2  
+Only Illinois’ ROEs and the Arizona Corporation Commission’s award to Arizona Public Service (APS) are 
+lower.  Illinois electric ROEs are formulaic and part of an agreement that allows the utilities to true-up their accounts.  
+The APS award includes a penalty of 20 basis points (Arizona Corporation Commission, Opinion and Order 78317, 
+November 2, 2021, p. 323.  The decision has been appealed to the courts. 
+
+
+--- Page 5 ---
+Consolidated Edison Company of New York  
+Cases 22-E-0064 and 22-G-0065 
+REBUTTAL TESTIMONY OF DR. BENTE VILLADSEN 
+ 
+ 
+Page 3 of 30 
+method—are standard methodologies taught in MBA textbooks and are considered 
+1 
+in several regulatory jurisdictions. 
+2 
+Broadly speaking, it is imperative that the Commission allow a ROE that not only fulfils the 
+3 
+capital attraction criteria (recognized by Staff) but also allows CECONY the opportunity to 
+4 
+earn a return that is comparable to that available on similar risk investments. I view the ROE 
+5 
+awarded to other electric utilities as one important benchmark and Staff’s proposed ROE is 
+6 
+out of line with that benchmark. 
+7 
+2. SUMMARY OF RECOMMENDATIONS 
+8 
+Q6: Please summarize the Staff Testimony recommendations. 
+9 
+A6: Figure R-1 below summarizes the recommended allowed ROE for CECONY and also shows 
+10 
+the recommendation from my Direct Testimony. 
+11 
+FIGURE R-1: SUMMARY OF RECOMMENDEDS FOR CECONY 
+12 
+ 
+Recommended ROE 
+Estimated Range 
+Villadsen 
+10.0%-10.5% 
+(10% requested) 
+9.5% - 10.5% 
+Staff Finance 
+Panel 
+8.80% 
+8.09% - 10.34% 
+Source: Villadsen Testimony, p. 4; Staff Testimony,  Exhibit FP-18. Does not include flotation costs.  
+13 
+The Staff Testimony recommends a ROE of 8.80 percent on a 48.0% equity capital 
+14 
+structure.3 Staff bases its ROE recommendation on a multi-stage version of the DCF model 
+15 
+that uses a sustainable growth rate, the CAPM, and a version of the Zero-beta CAPM. Staff 
+16 
+weights its DCF estimate by 2/3 and the average of its CAPM and Zero-beta CAPM estimates 
+17 
+by 1/3.  Of note, both implementations of the CAPM / Zero-beta CAPM result in a ROE 
+18 
+above 10 percent and averages 10.22 percent.4  Further, the recommended ROE is below the 
+19 
+ 
+3 Staff Testimony, p. 8. 
+4 Staff Testimony, Exhibit FP-18. 
+
+
+--- Page 6 ---
+Consolidated Edison Company of New York  
+Cases 22-E-0064 and 22-G-0065 
+REBUTTAL TESTIMONY OF DR. BENTE VILLADSEN 
+ 
+ 
+Page 4 of 30 
+average of its two methods, which would have resulted in a ROE recommendation of 9.16 
+1 
+percent.5 
+2 
+An important observation is that both Staff’s and my range include the Company’s requested 
+3 
+10% ROE. 
+4 
+Q7: What is your reaction to Staff’s recommended ROE? 
+5 
+A7: Staff’s recommended ROE is too low. Staff’s recommendation is below that allowed other 
+6 
+utilities – an average of 9.57 percent6 and below that recently allowed other utilities in New 
+7 
+York.7  Of note, the 2022 decided ROEs in New York were filed in the second half of 2020 
+8 
+through early 2021, so inflation and increasing interest rates had not become an issue.  
+9 
+Further, Staff’s recommendation does not account for risks associated with the on-going 
+10 
+heightened market uncertainty, increasing interest rates and inflation.8 Staff’s recommended 
+11 
+ROE also does not account for differences in financial leverage between the proxy group 
+12 
+and the Company, a standard financial technique used by financial professions and used in 
+13 
+other regulatory settings. Staff also relies on a mechanical weighting of the DCF and CAPM 
+14 
+models, which fails to recognize that different models may capture different aspects of the 
+15 
+cost of equity under different financial and economic conditions.  
+16 
+Lastly, I note that Staff relies on inputs that do not reflect current market conditions as 
+17 
+financial markets are changing quickly.  Relative to the cost of equity that is expected going 
+18 
+forward this will result in downwardly biased results.  
+19 
+ 
+5 Staff Testimony, Exhibit FP-18.  Calculated as the average of the DCF result of 8.09% and the average of the three 
+CAPM implementations of 10.22% 
+6 S&P Global Intelligence, data through June 8, 2022. Note, the sample includes U.S. gas and electric utilities, but 
+excludes NY utilities, IL electric utilities, and Arizona Public Service in Arizona to avoid circularity (NY utilities) 
+and utilities with unique ROE determination issues. 
+7 Ibid.  According to S&P Global Intelligence 2022 allowed ROEs in New York have been in the range of 9.0 to 9.2 
+percent. 
+8 For example, Staff uses a risk-free rate of 2.38% (and MRP), which reflects historical data for February, March, and 
+April 2022.  The yield on 10-year and 30-year bonds has since increased substantially. 
+
+
+--- Page 7 ---
+Consolidated Edison Company of New York  
+Cases 22-E-0064 and 22-G-0065 
+REBUTTAL TESTIMONY OF DR. BENTE VILLADSEN 
+ 
+ 
+Page 5 of 30 
+3. STAFF’S APPROACH TO ESTIMATING THE COST OF EQUITY 
+1 
+A. OVERALL APPROACH 
+2 
+Q8: How does Staff approach estimating the cost of equity for CECONY? 
+3 
+A8: Staff estimates the cost of equity for CECONY using three models – a multi-stage DCF 
+4 
+model, a CAPM analyses, and a Zero-beta CAPM analysis. Staff relies on a proxy group of 
+5 
+27 electric utility companies.  The main differences between Staff’s and my sample is that 
+6 
+Staff does not consider gas distribution utilities, includes Consolidated Edison (the parent of 
+7 
+CECONY) and Portland General, while they exclude Evergy and Otter Tail. Moreover, I 
+8 
+believe it is reasonable to consider a gas utility sample given CECONY provides gas utility 
+9 
+services to approximately 1.1 million customers in the New York area.9  Staff relies on a 
+10 
+version of the sustainable growth DCF and two versions of the CAPM/Zero-CAPM, which 
+11 
+they then weight 2/3 (DCF) and 1/3 (CAPM) to arrive at their recommendation.  Staff does 
+12 
+not use standard financial techniques to calculate the impacts of financial leverage in their 
+13 
+analyses.  
+14 
+B. PROXY GROUP 
+15 
+Q9: How does Staff’s proxy group criteria compare to your proxy group criteria? 
+16 
+A9: Both Staff and I select a proxy group from publicly-traded holding companies deemed by 
+17 
+Value Line to be “electric utilities.”10 Staff and I then apply several selection criteria to arrive 
+18 
+at our final sets of proxy companies. We both agree that proxy companies need to be 
+19 
+dividend paying and investment grade. We also agree that merger or acquisition (“M&A”) 
+20 
+activities could impact the estimation process. However, Staff excludes companies involved 
+21 
+in merger or acquisition activities at the time of their analysis, whereas I exclude companies 
+22 
+that engaged in such activities during the 5-year estimation period.11 Lastly, Staff and I 
+23 
+ 
+9 Consolidated Edison, Inc. 2021 Form 10-K, p. 15.  Electric customers count approximately 3.5 million. CECONY 
+also operates a steam distribution system. 
+10 I also consider a proxy group of highly regulated natural gas utilities. 
+11 I use a five-year estimation period because the Value Line betas are based on five years of weekly data. 
+
+
+--- Page 8 ---
+Consolidated Edison Company of New York  
+Cases 22-E-0064 and 22-G-0065 
+REBUTTAL TESTIMONY OF DR. BENTE VILLADSEN 
+ 
+ 
+Page 6 of 30 
+consider the degree to which a company is involved in regulated activities. Staff uses 
+1 
+revenues as their metric and requires that at least 70% of revenues be from regulated 
+2 
+activities, whereas, I require that the majority of a company’s assets are subject to regulation. 
+3 
+Both Staff and I also require the availability of data needed to estimate the cost of equity.  
+4 
+The difference in selection criteria leads Staff to exclude Evergy (lack of data) and Otter Tail 
+5 
+(less than 70% of revenue regulated).12  Staff in turn included Consolidated Edison, which I 
+6 
+excluded as the parent of CECONY.  Staff also included Portland General Electric, which I 
+7 
+excluded because of high volatility in stock prices following the announcement of trading 
+8 
+losses.  
+9 
+Q10: What is the impact of the differences in sample? 
+10 
+A10: First, I believe a gas sample is meaningful as CECONY serves 1.1 million gas customers, 
+11 
+but shall not discuss it further as there is no meaningful difference in the estimates for the 
+12 
+two samples.  Second, I find it unfortunate to include Consolidated Edison in the electric 
+13 
+sample as approximately 83 percent of Consolidated Edison’s assets and 86 percent of 
+14 
+revenue comes from CECONY.13 Put differently, CECONY represents the majority of 
+15 
+Consolidated Edison. 
+16 
+Q11: What is the impact of including Consolidated Edison in the sample? 
+17 
+A11: The impact of including Consolidated Edison in the sample downward biases the results as 
+18 
+the average of the DCF estimates is 8.15 percent instead of 7.98 percent if Consolidated 
+19 
+Edison is not included in the average.   
+20 
+Q12: Do you have any other comments on Staff’s proxy group selection? 
+21 
+A12: First, I do not find that Staff’s use of regulated revenue to be the best metric for proxy group 
+22 
+selection because revenue fluctuates year-over-year. Instead, I use assets to determine the 
+23 
+degree to which a company is regulated because it is assets that are fundamentally 
+24 
+regulated—the revenue requirement is derived from the regulated assets of a utility. Stated 
+25 
+ 
+12 Staff Testimony, FP-16. 
+13 Consolidated Edison, Inc., 2021 10-K, p. 53. 
+
+
+--- Page 9 ---
+Consolidated Edison Company of New York  
+Cases 22-E-0064 and 22-G-0065 
+REBUTTAL TESTIMONY OF DR. BENTE VILLADSEN 
+ 
+ 
+Page 7 of 30 
+differently, assets are used as an input to determine a regulated utility’s revenues. Finance 
+1 
+also utilizes the equity and asset betas to assess the risk characteristics of companies.14 
+2 
+Therefore, I find that assets are the more appropriate metric of whether a company is 
+3 
+sufficiently regulated. 15 
+4 
+C. STAFF’S CAPM AND ZERO-BETA CAPM 
+5 
+Q13: Please summarize Staff’s CAPM and Zero-beta CAPM analyses. 
+6 
+A13: Staff implements a standard CAPM analyses and a Zero-beta CAPM analyses. Staff’s risk 
+7 
+free rate is based on the average current yield on 10-year and 30-year Treasury bonds over 
+8 
+the three month period of February to April 2022. This results in a risk-free rate of 2.38 
+9 
+percent.16 Staff uses the average Value Line beta for its proxy group, 0.89.17 Staff relies on 
+10 
+data from Bank of America for its market risk premium (“MRP”). 18 Bank of America reports 
+11 
+the forecasted market return at 11.08 percent from which Staff subtracts its risk-free rate 
+12 
+(2.38%) to obtain an MRP of 8.70 percent.19 Staff also implements a Zero-beta CAPM, 
+13 
+which uses the same inputs as the CAPM but makes adjustments to correct for empirical 
+14 
+findings that the Security Market Line is flatter than predicted by CAPM. Staff’s Zero-beta 
+15 
+CAPM analysis is similar to the ECAPM I use in my analyses. Staff’s CAPM and Zero-beta 
+16 
+CAPM result in a cost of equity estimate of 10.12 and 10.37 percent, respectively.20 Staff 
+17 
+then averages the two to arrive at a CAPM estimate of 10.22%.21 
+18 
+Q14: What are your comments regarding Staff’s implementation? 
+19 
+A14: First, averaging the 10-year and the 30-year risk-free rate is uncommon.  It is possible to rely 
+20 
+on a 10-year risk-free rate or a 30-year risk-free rate, but rather than using a combination, a 
+21 
+ 
+14 See, e.g., Brealey, Myers and Allen (2011), pp. 174-175 and 220-221. 
+15 I do not take issue with Staff eliminating companies that currently are engaged in M&A or which lack data. 
+16 Staff Testimony, p. 89. 
+17 Ibid. p. 90. 
+18 Ibid., pp. 93-94. 
+19 Ibid., p. 94 and FP-18. 
+20 Ibid., p. 98.  I note that FP-18 reports CAPM cost of equity estimates of 10.10 and 10.34 percent. 
+21 Ibid., p. 99. 
+
+
+--- Page 10 ---
+Consolidated Edison Company of New York  
+Cases 22-E-0064 and 22-G-0065 
+REBUTTAL TESTIMONY OF DR. BENTE VILLADSEN 
+ 
+ 
+Page 8 of 30 
+20-year rate (or a 30-year rate) would be preferable as such rates can be measured directly. 
+1 
+The longer horizon is more appropriate because utility assets are long-lived.  Second, the 
+2 
+three-month average risk-free rate is, in my opinion, not representative of the risk-free rate 
+3 
+that will prevail during the relevant regulatory period and especially not at this point in time, 
+4 
+when the risk-free rate is almost at a record low. As discussed in further detail in Section 0 
+5 
+below, yields on U.S. Government bonds are near historic lows due to on-going quantitative 
+6 
+easing programs by the Federal Reserve. In recent months, measures of inflation have 
+7 
+increased. If these inflation trends persist it will put upward pressure on Treasury yields. 
+8 
+Instead, I find it more appropriate to use a forecasted risk-free rate when estimating the cost 
+9 
+of capital – specifically, I used a risk-free rate of 2.73% as shown in BV-3. I note that the 
+10 
+current yield on 20-year U.S. Government bond is 3.26%, above Staff’s “current” risk-free 
+11 
+rate (2.38%)22 and closer to the risk-free rate used in my analysis.23 The May 2022 
+12 
+publication of Blue Chip Economic Indicators forecasts that yields on 10-Year U.S. 
+13 
+Government bond will average 3.1% in 2023,24 so adding a maturity premium of 20-50 basis 
+14 
+points to that result in a 30-year risk-free rate of 3.30 to 3.60 percent.25 Thus, Staff’s risk-
+15 
+free rate is too low for the remainder of 2022 / 2023.  Additionally, Staff does not apply 
+16 
+standard financial techniques to take leverage into account when estimating the ROE (I 
+17 
+discuss this further in Section 4 below).   
+18 
+Staff and I both implement a version of the Zero-beta CAPM. While the formula I use in my 
+19 
+ECAPM analysis is different than that used in Staff’s Zero-beta CAPM, both formulas take 
+20 
+into account the empirical findings that CAPM underestimates the required return on equity 
+21 
+for companies with betas less than 1.0. Therefore, I shall not address the formula used in 
+22 
+Staff’s Zero-beta CAPM. 
+23 
+Q15: What are the consequences of Staff’s implementation choices? 
+24 
+ 
+22 Staff Testimony, p. 89, line 6. 
+23 Bloomberg monthly yield, data accessed 5/31/2022. 
+24 Wolters Kluwer Blue Chip Economic Indicators and PwC Analysis, Consensus Forecasts, May 2022, p. 3. 
+25Using data from Staff Testimony, FP-18 (Treasury Rates) the maturity premium is 22 basis points, whereas I find a 
+long-term average maturity premium of 50 basis points (Villadsen Direct, p.38).  
+
+
+--- Page 11 ---
+Consolidated Edison Company of New York  
+Cases 22-E-0064 and 22-G-0065 
+REBUTTAL TESTIMONY OF DR. BENTE VILLADSEN 
+ 
+ 
+Page 9 of 30 
+A15: In Figure R-2 below, I adjust Staff’s CAPM and Zero-beta CAPM analyses to reflect the 
+1 
+forecasted risk-free rate for 2022; which is 3.6% using the forecast from Blue Chip Economic 
+2 
+Indicators as of May 2022 and adjusting for historic maturity premium between 10-year and 
+3 
+20-year U.S. Government bond yields.26 I also adjust Staff’s MRP to reflect the higher risk-
+4 
+free rate. Staff uses a forecasted market return of 11.08%, from which I subtract the new risk 
+5 
+free rate (3.6%) to arrive at a MRP of 7.48%. The resulting impacts of these adjustments are 
+6 
+as follows: 
+7 
+FIGURE R-2: STAFF’S CAPM AND ZERO-BETA CAPM 
+8 
+ADJUSTED TO USE FORECASTED RISK FREE RATE 
+9 
+ 
+10 
+As shown in Figure R-2 above, Staff’s use of a historic yield downwardly biases the 
+11 
+estimated ROE by up to 25 basis points.27  In Section 4 below, I demonstrate the extent to 
+12 
+which Staff’s CAPM estimates are downwardly biased due to not considering financial 
+13 
+leverage. 
+14 
+D. STAFF’S DCF 
+15 
+Q16: How does Staff implement its DCF Model? 
+16 
+ 
+26 Wolters Kluwer Blue Chip Economic Indicators May 2022, May 10, 2022 p. 3. Historic maturity premium is 
+approximately 50 basis points. 
+27 Calculated as Average CAPM result of 10.36% in Figure R-2 minus s Staff’s calculated average of 10.22%. 
+Risk Free
+Staff Sample
+Market Risk
+Cost of Equity
+Model
+Rate
+Average Beta
+Premium
+Estimate
+[1]
+[2]
+[3]
+[4]
+CAPM
+[a]
+3.6%
+0.89
+7.48%
+10.26%
+Zero‐Beta CAPM
+[b]
+3.6%
+0.89
+7.48%
+10.46%
+Average
+[c]
+3.6%
+10.36%
+Sources and Notes:
+[1]: BCEI May 2022 p. 3; projection of 10‐year US Treasury Note yield for 2023 plus 50 bps maturity
+premium adjustment.
+[2]: Staff Testimony P. 94
+[3]: 11.08% ‐ [1], where 11.08% represents Staff's market return input assumption
+[4][a] = [1][a] + [2][a] x [3][a]
+[4][b] = [1][b] + ([2][b] x .75 x [3][b]) + (1 x .25 x [3][b])
+
+
+--- Page 12 ---
+Consolidated Edison Company of New York  
+Cases 22-E-0064 and 22-G-0065 
+REBUTTAL TESTIMONY OF DR. BENTE VILLADSEN 
+ 
+ 
+Page 10 of 30 
+A16: Staff implements a two-stage DCF where the first stage uses Value Line’s forecasted 
+1 
+dividend growth rates through 2026. The second stage uses a sustainable growth rate and 
+2 
+goes for 199 years.28 Staff’s sustainable growth rate is calculated as: 
+3 
+g2 = b×r + s×v 
+4 
+Where b is the dividend retention rate, r is the expected accounting ROE, s is growth in 
+5 
+shares, and v is the growth from share prices above book value.29  
+6 
+Q17: What concerns do you have with Staff’s DCF methodology? 
+7 
+A17: There are several inherent problems with Staff’s approach. First, the DCF model 
+8 
+fundamentally states that the discounted cash flow that accrues to shareholders equals the 
+9 
+stock price.30  However, the use of dividend growth without any consideration of other 
+10 
+means of distributing cash is problematic. Companies increasingly use share buybacks to 
+11 
+distribute to investors, but this is not captured in this approach. The reliance on cash flow or 
+12 
+earnings instead of dividends ensure that over time all cash flow to shareholders are counted 
+13 
+as such. 
+14 
+Second, there are apparent inconsistencies in Staff’s data or in the approach that they use. 
+15 
+The average and median expected ROE in 2026 according to Staff’s data for the proxy 
+16 
+sample is 10.93% and 10.50%, respectively.31 But the average and median ROE estimated 
+17 
+by Staff are more than 200 basis points lower at 8.09% and 7.98%, respectively. This 
+18 
+inconsistency indicated in the data or methodology used to estimate the ROE in Staff’s DCF 
+19 
+calculation, as I see no logical explanation why Value Line predicts an average ROE of close 
+20 
+to 11.0 percent while Staff estimate a ROE that is below 9.0 percent. 
+21 
+ 
+28 Staff Testimony, Workpaper to FP-18, Tab “DCF Pages 1 & 2”. Theoretically, the DCF model considers an 
+indefinite horizon, rather than relying on a specific number of years. I do not believe it makes a difference to the 
+calculated ROE. 
+29 Staff Testimony, Exhibit FP-18. 
+30 Stocks have no terminal date so the use of 199 years is not reflective of the model.  I shall not address this issue as 
+the impact on the results is small. 
+31 Staff Testimony, Exhibit FP-18, column (P). 
+
+
+--- Page 13 ---
+Consolidated Edison Company of New York  
+Cases 22-E-0064 and 22-G-0065 
+REBUTTAL TESTIMONY OF DR. BENTE VILLADSEN 
+ 
+ 
+Page 11 of 30 
+Lastly, Staff only uses Value Line to obtain its forecasted data. As a result, Staff is relying 
+1 
+on a single source for its forecast to perform the DCF. Instead, Staff should incorporate 
+2 
+consensus estimates from other data providers, such as Thomson Reuters IBES or 
+3 
+Bloomberg. 
+4 
+Q18: What conclusions do you draw from the analysis of Staff’s CAPM and DCF? 
+5 
+A18: Simple modifications to Staff’s CAPM and DCF result in an average of close to the ROE 
+6 
+requested by CECONY.  For example, if I take the simple average of Staff’s DCF and 
+7 
+CAPM/Zero-beta CAPM, the ROE becomes 9.16 percent.32  If I consider the single-stage 
+8 
+DCF and assign, for example, equal weight to that model and Staff’s sustainable growth 
+9 
+model, the results become (insert average of (8.09%+single-stage DCF)/2 and 10.22).33  If I 
+10 
+look to the average of Staff’s CAPM / Zero-beta CAPM and the DCF, I obtain an average 
+11 
+of [insert] (using a 50-50 weighting).   
+12 
+Q19: Do you have any comments on Staff’s critique of your DCF? 
+13 
+A19: Yes. Staff criticizes my use of earnings growth forecasts.34  First, earnings growth forecasts 
+14 
+are available from multiple sources, so it is possible to use a consensus forecast – which is 
+15 
+not the case for dividend growth.  Second, as noted above, dividends fail to capture all cash 
+16 
+flow that accrue to shareholders. Importantly, shareholders as owners have the right to all 
+17 
+earnings, so while there may be a timing difference in the distribution of cash and earnings 
+18 
+to shareholders, shareholders eventually receive all earnings.  Therefore, earnings growth is 
+19 
+an important benchmark. 
+20 
+E. RISK PREMIUM MODEL 
+21 
+Q20: Does Staff consider the risk premium model when estimating an ROE for CECONY? 
+22 
+ 
+32 Average of Staff’s 10.22 percent for the CAPM / Zero-beta CAPM and Staff’s 8.09 percent for the DCF.   
+33 Calculated as the average of Staff’s CAPM / Zero-beta CAPM  
+34 Staff Testimony, pp. 119-120. 
+
+
+--- Page 14 ---
+Consolidated Edison Company of New York  
+Cases 22-E-0064 and 22-G-0065 
+REBUTTAL TESTIMONY OF DR. BENTE VILLADSEN 
+ 
+ 
+Page 12 of 30 
+A20: No. Staff objects to the Risk Premium Model because the Commission has not relied on the 
+1 
+Risk Premium Model in the past; the model reflects “returns which are an inferior alternative 
+2 
+to a direct estimate of the company’s own cost of equity;” and the method does not account 
+3 
+for risk-reducing regulatory mechanisms of New York State that are not used in other 
+4 
+jurisdictions.35 Staff also takes issue with the use of a forecasted risk-free rate in the Risk 
+5 
+Premium Model.36 
+6 
+Q21: How do you respond? 
+7 
+A21: Investors consider all information that is available to them when making investment 
+8 
+decisions, including the allowed ROE and capital structure of other utilities. To attract capital 
+9 
+from investors, CECONY must offer a return that is on equal terms with other utilities with 
+10 
+similar risk profiles. The Risk Premium Model measures the premium that investors in other 
+11 
+regulated utilities have access to and then the model uses this premium to derive a cost of 
+12 
+equity using the forecasted risk-free rates that are expected to prevail over the regulatory 
+13 
+period. While the Risk Premium Model does not have the theoretical support that the CAPM 
+14 
+and DCF models do, it does provide a direct benchmark for the return available to other 
+15 
+regulated electric and natural gas utilities, like CECONY.  Ignoring the results from Risk 
+16 
+Premium Model disregards the information available about the returns available to equity 
+17 
+owners holding assets with commensurate risks.37 The Risk Premium model is commonly 
+18 
+considered in regulatory proceedings, such as at the FERC.38  Further, I find it puzzling that 
+19 
+Staff considers Value Line’s forecast of the earned ROE, which is an accounting measure, a 
+20 
+valid input to their key model, while information on the allowed ROE should be ignored.   
+21 
+Q22: How do you respond to Staff’s concern with the use of forecasted risk-free rate in the 
+22 
+Risk Premium Model? 
+23 
+ 
+35 Staff Testimony, pp. 133-134. 
+36 Ibid., p. 134. 
+37 Bluefield Water Works & Improvement Co. v. Public Service Com’n of West Virginia, 262 U.S.  679 (1923) 
+(“Bluefield”), and Federal Power Com’n v. Hope Natural Gas Co., 320 U.S. 591 (1944) (“Hope”). 
+38 Federal Energy Regulatory Commission, “Opinion No. 569-A, Order on Rehearing,” Docket EL14-12-004 and 
+EL15-45-013, 171¶61,154, May 21, 2020. FERC considers the Risk Premium Model along with the CAPM and 
+DCF Models. 
+
+
+--- Page 15 ---
+Consolidated Edison Company of New York  
+Cases 22-E-0064 and 22-G-0065 
+REBUTTAL TESTIMONY OF DR. BENTE VILLADSEN 
+ 
+ 
+Page 13 of 30 
+A22: As discussed in my Direct Testimony, it is important to use a forecasted risk-free rate which 
+1 
+reflects the yields that are expected to prevail during the relevant rate period.39 This is 
+2 
+particularly important given the current financial and economic conditions (discussed in 
+3 
+Section 0 below). Yields on U.S. Government bond yields have, during the few years, been 
+4 
+near historic lows due to quantitative easing and other accommodative monetary policies 
+5 
+resulting from the COVID-19 pandemic. As of now yields have started to rise and are 
+6 
+expected to rise further. The May 2022 issue of Blue Chip Economic Indicators shows yields 
+7 
+on 10-year U.S. Government bond to increase to 3.1% in 2023.40 Similarly, if recent upward 
+8 
+trends in inflation persist, there could be further upward pressure on bond yields.  
+9 
+This is particularly important for the Risk Premium Model because the lower the risk-free 
+10 
+rate, the higher the risk premium is over the risk-free rate. Therefore, if interest rates are 
+11 
+expected to increase, the expectation is that the risk premium over the risk-free rate will 
+12 
+decrease. It is important to take this phenomena into account and adjust both the going-
+13 
+forward risk-free rate and risk premium.  My implied risk premium model does exactly that.  
+14 
+If I were to base the estimate on contemporaneous risk-free rates, the estimated ROE would 
+15 
+be downwardly biased (and the risk premium upwardly biased). 
+16 
+Q23: Do you agree with Staff’s assertion that the Risk Premium Model is not valid because 
+17 
+it does not account for New York State specific regulations? 
+18 
+A23: No. I disagree with Staff that regulatory mechanisms used in New York not necessarily are 
+19 
+used in other jurisdictions impact the cost of equity for CECONY.41 According to Regulatory 
+20 
+Research Associates, most jurisdictions have regulatory riders, trackers, and alternative rate 
+21 
+mechanisms. For example, electric infrastructure adjustment clauses exist in Colorado, 
+22 
+Connecticut, Delaware, District of Columbia, Hawaii, Illinois, Indiana, Kentucky, 
+23 
+Louisiana, Maryland, Massachusetts, Minnesota, Missouri, New Hampshire, New Jersey, 
+24 
+New Mexico, North Dakota, Ohio, Oklahoma, Pennsylvania, South Dakota, Texas, Virginia, 
+25 
+ 
+39 Villadsen Direct Testimony, p. 19-20. 
+40 Wolters Kluwer Blue Chip Economic Indicators, May 2022, p. 3 
+41 Staff Testimony, pp. 133-134. 
+
+
+--- Page 16 ---
+Consolidated Edison Company of New York  
+Cases 22-E-0064 and 22-G-0065 
+REBUTTAL TESTIMONY OF DR. BENTE VILLADSEN 
+ 
+ 
+Page 14 of 30 
+and West Virginia. 42 Many jurisdictions have multiple adjustment mechanisms. Therefore, 
+1 
+even if the reliance on such mechanisms impacts the ROE it would already be captured in 
+2 
+my ROE estimate. 
+3 
+Q24: What are the implications of Staff ignoring the Risk Premium Model? 
+4 
+A24: By ignoring the Risk Premium Model, Staff fails to recognize that investors consider the 
+5 
+ROEs and capital structures awarded to other utilities when making investment decisions. 
+6 
+The Risk Premium Model measures the premium that investors in other regulated utilities 
+7 
+have access to, consistent with the criteria set in Hope and Bluefield. The Risk Premium 
+8 
+Model is used in other regulatory jurisdictions, such as the FERC. Given that Staff did not 
+9 
+attempt to implement a risk premium model, I shall not modify such model, but simply note 
+10 
+that if I used the model I implemented in my Direct Testimony using the current risk-free 
+11 
+rate, it would result in a ROE of 9.8 percent and if I used the current forecast of the risk-free 
+12 
+rate the resulting ROE would be approximately 10.1 percent.43 
+13 
+F. WEIGHTING OF DCF AND CAPM RESULTS 
+14 
+Q25: What weights does Staff assign to the results from its CAPM and DCF models? 
+15 
+A25: Staff assigns two-thirds weight to the estimate from its DCF model. It then assigns one-third 
+16 
+weight to the average of the CAPM and Zero-beta CAPM estimates. 
+17 
+Q26: What comments do you have on this approach? 
+18 
+A26: Staff’s weighting of its CAPM and DCF models is mechanical and provides no flexibility to 
+19 
+account for impacts of economic and financial conditions on each model. For example, as 
+20 
+discussed in my Direct Testimony, the DCF model requires forecasted growth rates that are 
+21 
+based on stable economic conditions to satisfy the constant dividend growth assumptions. 
+22 
+Growth rate estimates from analysts may be slower than dividend yields to reflect the on-
+23 
+ 
+42 S&P Market Intelligence, Alternative Regulations Provisions In Place (as of March 31, 2020), accessed June 8, 
+2021. I did not locate an update to this report. 
+43 The 10.1 is calculated by inserting the May 2022 forecasted yield in the risk premium model, BV-16. 
+
+
+--- Page 17 ---
+Consolidated Edison Company of New York  
+Cases 22-E-0064 and 22-G-0065 
+REBUTTAL TESTIMONY OF DR. BENTE VILLADSEN 
+ 
+ 
+Page 15 of 30 
+going market uncertainties. As a result, I concluded that the multi-stage estimates may be at 
+1 
+or below the low-end of what is reasonable. This is evident when comparing Staff’s DCF 
+2 
+estimate to recently allowed ROEs for electric distribution utilities. Staff’s DCF estimate of 
+3 
+8.09% is more than 100 basis points lower than the average allowed ROE (about 9.4%) in 
+4 
+decisions issued in 2021-22.44 As noted earlier, not a single utility was awarded a ROE of 
+5 
+8.8% or lower in the normal course of service regulation.45  
+6 
+By mechanically weighting the DCF by two-thirds and not accounting for current economic 
+7 
+and financial conditions, Staff downwardly biases its recommended ROE. For example, had 
+8 
+Staff weighted its CAPM / Zero beta CAPM and DCF equally, the ROE would increase by 
+9 
+about 40 basis points.  When developing my recommended ROE for CECONY, I do not 
+10 
+mechanically apply Staff’s weighting of the CAPM and DCF models. Instead, I consider the 
+11 
+impacts of ongoing market uncertainties on each of the models when determining an 
+12 
+appropriate ROE.  
+13 
+Q27: Please summarize how Staff’s implementation of the CAPM and DCF models 
+14 
+downwardly biases their ROE estimates. 
+15 
+A27: Staff makes several choices when implementing the CAPM and DCF that downwardly bias 
+16 
+their ROE results. Staff does not consider other highly regulated utilities with similar 
+17 
+business risks to CECONY, such as natural gas utilities. For their risk-free rate, Staff uses a 
+18 
+historic three-month average of U.S. Government bond yields. Treasury yields are currently 
+19 
+near historic lows due to on-going monetary policy actions by the Federal Reserve. Current 
+20 
+bond yields also do not accurately reflect yields that are expected to prevail during the 
+21 
+relevant regulatory period. In their DCF analysis, Staff utilizes a dividend growth rate, which 
+22 
+ignores considerations of other means by which companies distribute cash to shareholders, 
+23 
+such as through share buybacks. Staff’s DCF model also suffers from data or methodological 
+24 
+inconsistencies, which results in ROE values 200 basis points lower than those shown in 
+25 
+ 
+44 S&P Market Intelligence, Rate Case History, accessed June 8, 2022.   
+45 I exclude Illinois here because electric utilities in Illinois operate with a negotiated formulaic ROE.  I also exclude 
+Arizona Public Service, whose ROE includes a penalty. 
+
+
+--- Page 18 ---
+Consolidated Edison Company of New York  
+Cases 22-E-0064 and 22-G-0065 
+REBUTTAL TESTIMONY OF DR. BENTE VILLADSEN 
+ 
+ 
+Page 16 of 30 
+Value Line. Finally, Staff mechanically weights its DCF and CAPM estimates, disregarding 
+1 
+how the models and their inputs are impacted by financial and economic conditions. 
+2 
+In Figure R-3 below, I summarize the ROE estimates from my adjustment to Staff’s CAPM 
+3 
+and Zero-Beta CAPM.46 For illustrative purposes, if I give CAPM and DCF results equal 
+4 
+weighting, I arrive at an average ROE range of 9.22-9.27%, which is between 40 and 45 
+5 
+basis points above Staff’s recommended ROE of 8.80%.  
+6 
+FIGURE R-3: SUMMARY OF STAFF’S ADJUSTED CAPM RESULTS AND ADDITIONAL MODELS  
+7 
+ 
+ 
+8 
+In addition to the above, the inclusion of share buybacks in the sustainable growth model 
+9 
+results in an increase in the DCF-based ROE of about 10 basis points, so that a reasonable 
+10 
+ROE prior to any considerations of financial leverage is 9.32 percent (9.27% + 50%*0.10%). 
+11 
+I discuss financial leverage in further detail in Section 4 below.  
+12 
+ 
+46 See Figure R-2 above. 
+CAPM (Adj)
+[1]
+10.19%
+Zero‐Beta CAPM (Adj)
+[2]
+10.41%
+Average of CAPM
+[3]
+10.30%
+Single Stage DCF (Adj)
+[4]
+8.15%
+Sustainable Growth DCF (Adj) 
+[5]
+8.24%
+Revised Average 
+(50% CAPM, 50% Single Stage)
+[6]
+9.22%
+Revised Average 
+(50% CAPM, 50% Sustainable Growth)
+[7]
+9.27%
+[3]: ([1] + [2])/2
+[6]: ([3]+[4])/2
+[7]: ([3]+[5])/2
+[1]‐[2], [4]‐[5]: Staff Recommendation, excluding 
+Consolidated Edison from the estimate.
+
+
+--- Page 19 ---
+Consolidated Edison Company of New York  
+Cases 22-E-0064 and 22-G-0065 
+REBUTTAL TESTIMONY OF DR. BENTE VILLADSEN 
+ 
+ 
+Page 17 of 30 
+4. FINANCIAL LEVERAGE ADJUSTMENTS 
+1 
+A. PRELIMINARIES 
+2 
+Q28: What do you cover in this section of your rebuttal testimony? 
+3 
+A28: I respond to the critiques and misunderstandings of my Direct Testimony regarding financial 
+4 
+leverage. Specifically, I address the concerns of Staff regarding the use of the market value 
+5 
+capital structure rather than book value capital structures in my adjustments, given the 
+6 
+differences in capitalization between utility holding companies and utility subsidiaries. 47 I 
+7 
+also address Staff’s assertion that the sample companies and CECONY have comparable 
+8 
+levels of financial risk and therefore standard adjustments for financial leverage should not 
+9 
+be used.48 Finally, I assess the impacts on Staff’s CAPM and DCF estimates for not taking 
+10 
+the impact of capital structure into account in their recommended ROEs. 
+11 
+Q29: How do you respond to Staff’s concerns regarding market value capital structure? 
+12 
+A29: Staff comments are based on a misunderstanding of the application of the ROE. Both the 
+13 
+CAPM and DCF models rely on market data to estimate the cost of equity for sample 
+14 
+companies, so the results reflect the value of the capital that investors hold during the 
+15 
+estimation period (market values). The allowed ROE is applied to rate base, which is 
+16 
+determined using the historical cost and hence reflects the net book value of assets at the 
+17 
+utility operating company. The strict application of a cost of equity that is estimated from 
+18 
+market value and hence is based on market value capital structures to a book value capital 
+19 
+structure leads to a mismatch between the two.  To my knowledge there is no dispute that 
+20 
+the rate base is and should be determined using book values. I therefore make clear that the 
+21 
+rate base is measured using book values, and that nothing about my analysis of financial risk 
+22 
+involves the application of the allowed return to a market value rate base. 
+23 
+Taking differences in financial leverage into consideration does not change the value of rate 
+24 
+base and consequently does not depart from original cost ratemaking principles. Adjustment 
+25 
+ 
+47 Staff Testimony, pp. 126 and 131. 
+48 Ibid., pp. 125-126. 
+
+
+--- Page 20 ---
+Consolidated Edison Company of New York  
+Cases 22-E-0064 and 22-G-0065 
+REBUTTAL TESTIMONY OF DR. BENTE VILLADSEN 
+ 
+ 
+Page 18 of 30 
+for differences in leverage does consider the fact that the more debt a company has, the 
+1 
+higher the financial risk associated with an equity investment in that company (as 
+2 
+acknowledged by Staff).49  
+3 
+Q30: Do you agree with Staff’s assertion that standard financial leverage adjustments are 
+4 
+not needed due to the comparable level of financial risk? 
+5 
+A30: I disagree. Staff points to the average book value common equity ratio of my proxy samples 
+6 
+(46.0 – 47.2%) and compares it to Consolidated Edison’s book value common equity ratio 
+7 
+(44.6%).50 With this information Staff argues that the proxy companies and CECONY’s 
+8 
+have “comparable levels of financial risk” and therefore it is reasonable to just consider 
+9 
+unadjusted CAPM and DCF results.51  Staff’s argument is (i) not based on financial theory 
+10 
+and (ii) fails to recognize that the regulated entity is CECONY, not Consolidated Edison. I 
+11 
+am not aware of any level of “comparable” financial risk whereby differences in leverage 
+12 
+can be simply ignored. As discussed further below, adjustments for financial leverage are 
+13 
+standard financial techniques, regardless of the relative differences in capital structure (let 
+14 
+alone on a book value basis). 
+15 
+B. FINANCIAL ECONOMICS 
+16 
+Q31: How should capital structure be taken into account so that the allowed returns meet 
+17 
+the fair return standard? 
+18 
+A31: The proportion of debt in the capital structure—also known as financial leverage—
+19 
+influences the risk borne by equity investors. For a given degree of business risk, a higher 
+20 
+proportion of debt financing increases the expected variability of equity returns. Thus, to 
+21 
+compare the fair returns of two otherwise identical firms, on a risk adjusted basis, the capital 
+22 
+structures must be taken into account. For example, if more debt is used, the greater financial 
+23 
+risk imposed by the greater financial leverage must be compensated by a commensurately 
+24 
+ 
+49 Ibid., p. 120. 
+50 Ibid., pp. 125-126. 
+51 Id. 
+
+
+--- Page 21 ---
+Consolidated Edison Company of New York  
+Cases 22-E-0064 and 22-G-0065 
+REBUTTAL TESTIMONY OF DR. BENTE VILLADSEN 
+ 
+ 
+Page 19 of 30 
+higher expected ROE. Otherwise, the more leveraged firm will not receive a fair return and 
+1 
+will be at a disadvantage in the competition to attract capital in equity markets.  
+2 
+Q32: Please briefly explain the relationship between leverage and the cost of equity. 
+3 
+A32: Financial risk or capital structure is a large topic in financial economics. The principle that 
+4 
+financial leverage amplifies the variability of equity returns and thereby increases the 
+5 
+financial risk to equity investors is a firmly established core principle of corporate finance. 
+6 
+It is directly connected to the Modigliani Miller proposition that, except as influenced by the 
+7 
+tax-deductibility of debt and the cost of financial distress, the value of a firm’s assets is 
+8 
+independent of its choice of financing. This intuitive framework means that some measures 
+9 
+of the overall cost of capital for firms with comparable systematic business risk should be 
+10 
+the same regardless of capital structure,52 even if the cost of the equity and/or debt 
+11 
+components of financing vary in proportion to the degree of financial leverage.  
+12 
+It is commonly recognized in finance textbooks that financial leverage impacts the cost of 
+13 
+equity for a company. A replication from a standard MBA textbook is provided below:53 
+14 
+ 
+15 
+As Professors Berk and DeMarzo further note: 
+16 
+The levered equity return equals the unlevered equity return, plus an extra 
+17 
+“kick” due to leverage…The amount of additional risk depends on the 
+18 
+amount of leverage, measured by the firm’s market value debt-equity 
+19 
+ratio, D/E…54  (emphasis added) 
+20 
+ 
+52  Except in cases of extremely high or low leverage, where the tax and financial distress effects may dominate. 
+53  Jonathan Berk and Peter DeMarzo, “Corporate Finance,” Third Edition, 2013 (Berk & DeMarzo 2013), p. 492. 
+54  Berk & Peter DeMarzo 2013, p. 489.  Similar comments appear in Richard A. Brealey, Stewart C. Myers, and 
+Franklin Allen, 2014, Principles of Corporate Finance, 11th edition, McGraw-Hill Irwin (Brealey, Myers & Allen 
+2014), p. 433. 
+
+
+--- Page 22 ---
+Consolidated Edison Company of New York  
+Cases 22-E-0064 and 22-G-0065 
+REBUTTAL TESTIMONY OF DR. BENTE VILLADSEN 
+ 
+ 
+Page 20 of 30 
+This relationship is further illustrated in Figure R-4 below, reproduced from the seminal 
+1 
+textbook Principles of Corporate Finance by Brealey, Myers, and Allen. It illustrates that as 
+2 
+capital structure shifts to use a greater proportion of lower cost debt financing, the investor 
+3 
+required ROE (and debt, especially at higher leverage ratios) increases to compensate for the 
+4 
+greater financial risk, such that the overall required return on assets remain unchanged. 
+5 
+FIGURE R-4: ILLUSTRATION OF THE MODIGLIANI MILLER PRINCIPLE55 
+6 
+ 
+7 
+Financial economics simply do not leave any doubt that the cost of equity increases with 
+8 
+financial leverage and that the relevant measure of financial leverage depends on market 
+9 
+value. I—like other witnesses—estimate the cost of equity using market data in the CAPM 
+10 
+and DCF-based models. Since the Risk Premium Model is based on book values, the relevant 
+11 
+leverage for this methodology is book value based. 
+12 
+Q33: Could you provide a numerical example to illustrate the impact of financial leverage 
+13 
+on cost of equity? 
+14 
+A33: Yes. As a simple example, think of an investor who takes money out of her savings and 
+15 
+invests $100,000 in real estate. The future value of the real estate is uncertain. If the real 
+16 
+ 
+55  Brealey, Myers, and Allen, Principles of Corporate Finance, 10th Ed. (2011), p. 429, Figure 17.2 
+
+
+--- Page 23 ---
+Consolidated Edison Company of New York  
+Cases 22-E-0064 and 22-G-0065 
+REBUTTAL TESTIMONY OF DR. BENTE VILLADSEN 
+ 
+ 
+Page 21 of 30 
+estate market booms, she will realize a gain. However, if the real estate market declines, she 
+1 
+will realize a loss. Figure R-5 below provides an illustration of this: 
+2 
+FIGURE R-5: RETURN ON AN ALL EQUITY INVESTMENT 
+3 
+ 
+4 
+Compare this to the situation illustrated in Figure R-6 below, where the investor finances the 
+5 
+same real estate purchase using 50% cash from her savings (equity) and finances 50% using 
+6 
+funds from a mortgage (debt). In this case, the variability in the investor’s expected equity 
+7 
+return is two-times greater than in Figure R-5. The entire fluctuation of 10% from rising or 
+8 
+falling real estate prices falls on the investor’s equity investment, which is smaller ($50,000) 
+9 
+for the leveraged investment depicted in Figure R-6 as compared to the all-equity $100,000 
+10 
+investment shown in Figure R-5. The equity return for the leveraged investment goes up or 
+11 
+down by 20% in the leverage scenario even though the actual change in the value of the real 
+12 
+estate (+/- 10%) is the same as depicted in Figure R-5 for the all-equity investment. The 
+13 
+lesson from this example is obvious: debt adds risk because, while there is more potential 
+14 
+gain on the equity investment by using debt, there is a higher potential loss on that equity 
+15 
+investment that goes with it. This concept is colloquially referred to as “high risk, high 
+16 
+reward.” 
+17 
+
+
+--- Page 24 ---
+Consolidated Edison Company of New York  
+Cases 22-E-0064 and 22-G-0065 
+REBUTTAL TESTIMONY OF DR. BENTE VILLADSEN 
+ 
+ 
+Page 22 of 30 
+FIGURE R-6: RETURN ON A LEVERAGED EQUITY INVESTMENT 
+1 
+ 
+2 
+Q34: Do finance textbooks also address the question of how financial leverage affects the 
+3 
+cost of equity? 
+4 
+A34: Yes. Standard textbooks on corporate finance provide examples, like the one I presented 
+5 
+above, to illustrate how the introduction of debt financing amplifies the variability of equity 
+6 
+returns and thus increasing the risk to equity holders which causes them to demand higher 
+7 
+expected returns. For example, Professors Brealey, Myers, and Allen write: 
+8 
+Our example shows how borrowing creates financial leverage or gearing. 
+9 
+Financial leverage does not affect the risk or the expected return on the 
+10 
+firm’s assets, but it does push up the risk of the common stock. Shareholders 
+11 
+demand a correspondingly higher return because of this financial risk.56 
+12 
+Similarly, Professors Berk and DeMarzo summarize the effect of leverage on the cost of 
+13 
+capital as follows. 
+14 
+…[L]everage increases the risk of equity even when there is no risk that the 
+15 
+firm will default. Thus, while debt may be cheaper when considered on its 
+16 
+own, it raises the cost of capital for equity. Considering both sources of 
+17 
+ 
+56  Brealey, Myers and Allen (2017), Principles of Corporate Finance, 12th Edition, p. 446 (emphasis in original). 
+
+
+--- Page 25 ---
+Consolidated Edison Company of New York  
+Cases 22-E-0064 and 22-G-0065 
+REBUTTAL TESTIMONY OF DR. BENTE VILLADSEN 
+ 
+ 
+Page 23 of 30 
+capital together, the firm’s average cost of capital with leverage is … the 
+1 
+same as for the unlevered firm.57 
+2 
+These statements by preeminent finance scholars in widely-used corporate finance textbooks 
+3 
+highlight two important points that can also be intuitively observed based on the real estate 
+4 
+investment example: 
+5 
+ The variability of returns on the asset itself (e.g., the piece of real estate) is unchanged 
+6 
+by the introduction of financial leverage, therefore “leverage does not affect the risk 
+7 
+or the expected return on the firm’s assets.”  Rather, it is the risk and required returns 
+8 
+of the equity and debt financing instruments that are changed by the degree of 
+9 
+financial leverage. 
+10 
+ The mechanism by which leverage adds variability to returns is independent of any 
+11 
+effect of increased leverage on the risk that the firm will be unable to fulfill its fixed 
+12 
+financial obligations, and thus (as Berk and DeMarzo put it) “leverage increases the 
+13 
+risk of equity even when there is no risk that the firm will default.” 
+14 
+Q35: What are the implications of these fundamental financial principals for Staff’s CAPM 
+15 
+results? 
+16 
+A35: Failing to recognize the impact of financial leverage on the cost of equity results in a non-
+17 
+trivial downward bias in Staff’s ROE estimates. This is shown in Figure R-7 below by 
+18 
+comparing the Value Line betas obtained at Staff’s proxy group’s market value and the same 
+19 
+beta measured at the Company’s requested 50% equity capital structure. To do so, I first 
+20 
+calculate the asset (or zero debt financing) beta using the market value capital structure of 
+21 
+Staff’s proxy group. Next, I calculate a re-levered beta using the 50% equity capital structure 
+22 
+requested by the Company. It is evident that the betas used by Staff downwardly bias the 
+23 
+CAPM estimates by 101 to 229 basis points.  
+24 
+ 
+57  Berk and DeMarzo (2014), Corporate Finance, 3rd Ed., p. 482 (emphasis in original). 
+
+
+--- Page 26 ---
+Consolidated Edison Company of New York  
+Cases 22-E-0064 and 22-G-0065 
+REBUTTAL TESTIMONY OF DR. BENTE VILLADSEN 
+ 
+ 
+Page 24 of 30 
+FIGURE R-7: ILLUSTRATIVE IMPACT OF LEVERAGE ADJUSTMENT TO STAFF’S CAPM 
+1 
+  
+2 
+Q36: What do you conclude from the discussion above? 
+3 
+A36: I conclude that Staff’s ROE estimates are downwardly biased because they fail to account 
+4 
+for the impact of financial leverage on the cost of equity, using standard financial techniques. 
+5 
+C. PRECEDENTS 
+6 
+Q37: Are adjustments for financial leverage used by other regulatory agencies?  
+7 
+A37: Yes. Multiple regulatory agencies in the U.S. and most outside of North America have 
+8 
+adopted a similar approach. In the U.S., the Federal Communications Commission (“FCC”), 
+9 
+the Surface Transportation Board (“STB”) and the FERC have accepted the use of weighted-
+10 
+average cost of capital methodologies to determine the cost of capital. Specifically, the FCC 
+11 
+in a 2016 order acknowledged that it is reasonable (1) to use market values to estimate the 
+12 
+capital structure and (2) derive an implied return on equity from the estimated weighted 
+13 
+average cost of capital.58 Thus, the FCC acknowledged that market value capital structures 
+14 
+ 
+58 Federal Communications Commission, “Report and Order, Order and Order on Reconsideration, and Further 
+Notice of Proposed Rulemaking,” FCC 16-33, issued March 30, 2016 ¶270 and ¶ 322.  
+Traditional 
+CAPM
+Zero Beta 
+CAPM
+Market Risk Premium
+8.7%
+8.7%
+Risk Free Rate
+2.4%
+2.4%
+Beta
+Staff's Sample Average
+0.89
+0.89
+Adjusted Beta (without taxes)
+1.04
+1.04
+Adjusted Beta (with taxes)
+1.15
+1.15
+CAPM ROE
+Staff's Sample Average
+10.10%
+10.34%
+Hamada Adjusted (without taxes)
+11.44%
+11.35%
+Hamada Adjusted (with taxes)
+12.39%
+12.06%
+Delta (Adjusted Results ‐ Staff Results)
+Staff's Sample Average
+‐
+‐
+Hamada Adjusted (without taxes)
+1.34%
+1.01%
+Hamada Adjusted (with taxes)
+2.29%
+1.72%
+
+
+--- Page 27 ---
+Consolidated Edison Company of New York  
+Cases 22-E-0064 and 22-G-0065 
+REBUTTAL TESTIMONY OF DR. BENTE VILLADSEN 
+ 
+ 
+Page 25 of 30 
+are the relevant measure of leverage and impact the ROE using an approach similar to what 
+1 
+I used. The FERC, in Cost of New Entry (“CONE”) studies for the PJM,59 has used the 
+2 
+weighted average cost of capital and the Surface Transportation Board calculates the 
+3 
+weighted average cost of capital to assess the revenue adequacy for freight railroads.60  
+4 
+Considering next the Hamada approach, I note that the California Public Utilities 
+5 
+Commission in the past has relied on results from the method,61  the Oregon Public Service 
+6 
+Commission staff commonly relies on a version of the Hamada method to assess the impact 
+7 
+of leverage on the cost of equity,62 and the Florida Public Service Commission uses an 
+8 
+equivalent methodology to determine the ROE for small water utilities.63    
+9 
+Looking outside the U.S., Mexico’s Comisión Reguladora de Energía64 relies on the Hamada 
+10 
+method, while regulators in the U.K., the Netherlands, Australia, and New Zealand rely on a 
+11 
+mixture of an after-tax weighted average cost of capital and the Hamada method.65 
+12 
+Q38: Are the methods unorthodox in utility regulation? 
+13 
+A38: No. While not all methods I rely upon are widely used by regulatory commissions, several 
+14 
+regulatory entities have found the methods used in financial economics to consider leverage 
+15 
+useful and the regulation continues to evolve. Several of the adoptions are relatively new in 
+16 
+that the FERC (for CONE studies) and the FCC only adopted the leverage adjustment within 
+17 
+the last five years. Thus, these jurisdictions have moved towards accepting the importance 
+18 
+ 
+59 Federal Energy Regulatory Commission, “Order Conditionally Accepting Tariff Revisions Subject to Compliance 
+Filing,” Docket ER14-2940-000, November 28, 2014, ¶59.  See also, Federal Energy Regulatory Commission, 
+“Order Accepting Proposed Tariff Revisions,” Docket ER19-105-001 and ER19-105-002, April 15, 2019. 
+60 See, for example, Surface Transportation Board, “Docket No. EP 558 (Sub-No. 22), dated August 5, 2019, p. 15. 
+61 The California Public Utilities Commission (“CPUC”) relied on Hamada unlevered / relevered data in D.12-12-
+034 at. 38. Here the CPUC pointed to Southern California Edison’s CAPM results and ROE range of 9.73 percent to 
+11.71 percent, which was derived using the Hamada method. 
+62 Opening Testimony of Matt Muldoon in Docket No. UE 319, Staff Exhibit 500, p. 15. 
+63Florida PUC for water and wastewater utilities (Order No. PSC-12-0339-PAA-WS); “Florida 2012 Order”), p. 4. 
+64 CRE, “Directiva sobre la determinación de tarifas y el traslado de precios para las actividades reguladas en 
+materia de gas natural DIR-GAS-001-2207.” 
+65 Villadsen, Bente et. al, “Risk and Return for Regulated Industries,” Academic Press, 2017, Chapter 9 and 
+references herein. 
+
+
+--- Page 28 ---
+Consolidated Edison Company of New York  
+Cases 22-E-0064 and 22-G-0065 
+REBUTTAL TESTIMONY OF DR. BENTE VILLADSEN 
+ 
+ 
+Page 26 of 30 
+of leverage. The methods are also standard curriculum in finance textbooks and commonly 
+1 
+used by practitioners who provide cost of capital measures.66  
+2 
+Q39: Does the fact that you have not addressed all criticisms of your testimony mean that 
+3 
+you agree with those criticisms? 
+4 
+A39: No. I focus on differences that impact to estimated cost of equity. 
+5 
+5.  BUSINESS AND ECONOMIC RISK UPDATE 
+6 
+Q40: What are the key business risk developments since you filed your Direct Testimony? 
+7 
+A40: Key changes since the filing of my direct testimony is the substantial increase in interest 
+8 
+rates, very high inflation levels, and uncertainty created by the ongoing war in Ukraine.   
+9 
+Moreover, Staff’s EAM Panel introduces a significant change in regulatory risk that 
+10 
+indicates CECONY would be exposed to additional risks so that a ROE at the higher end of 
+11 
+my recommended range should be adopted.  
+12 
+Q41: How have recent global events impacted capital markets and the economy? 
+13 
+A41: In February 2022, Russia invaded Ukraine.  As a result, world energy has been impacted by 
+14 
+limited access to fossil fuels and uncertainty regarding the developments in Ukraine and the 
+15 
+rest of Europe.  This has also introduce more general uncertainty into the market.   
+16 
+Although the VIX has recently retreated to its long-term average or slightly below--between 
+17 
+16.25 and 37.21--with the highest level seen on March 7, 2022,67 other measures are 
+18 
+capturing the market uncertainty.  For instance, the S&P 500 has lost 23 percent and the 
+19 
+ 
+66 For an example of a commercial data provider’s application, see Duff & Phelps, “2021 Valuation Handbook – U.S. 
+Guide to Cost of Capital,” Chapter 1 pp. 1-21 For examples of tax authorities applications, see, for example, Utah 
+Rule R884-24P-62 “Valuation of State Assessed Unitary Properties Pursuant to Utah Code Ann. Section 59-2-201”, 
+which states “The discount rate (k) shall be based upon a weighted average cost of capital (WACC) considering current 
+market debt rates and equity yields.” (https://rules.utah.gov/publicat/code/r884/r884-24p.htm#T32)   
+I understand it is common for taxes based on net present values to use a market value based after-tax weighted-
+average cost of capital as the discount rate. 
+67 Bloomberg accessed June 8, 2022 and Cboe VIX, accessed June 8, 2022, 
+https://www.cboe.com/tradable_products/vix/vix_historical_data/  
+
+
+--- Page 29 ---
+Consolidated Edison Company of New York  
+Cases 22-E-0064 and 22-G-0065 
+REBUTTAL TESTIMONY OF DR. BENTE VILLADSEN 
+ 
+ 
+Page 27 of 30 
+Nasdaq has lost 32 percent in 2022 year-to-date.68  The volatility in the market is 
+1 
+demonstrated below through the changes in the S&P 500 index.  As is clear from the chart, 
+2 
+there has been substantial volatility in the market.  Such volatility lead to investor uncertainty 
+3 
+and, all else equal, a higher required return on equity. 
+4 
+FIGURE R-8: S&P 500 STOCK INDEX: JANUARY 1 THROUGH JUNE 16, 2022 
+5 
+ 
+6 
+As the Wall Street Journal noted69 
+7 
+U.S. stocks tumbled Thursday, sending the Dow Jones Industrial Average 
+8 
+below 30000 for the first time since January 2021 as volatility continued 
+9 
+to rock the market. 
+10 
+Major indexes have notched big declines in 2022 as high inflation, rising 
+11 
+interest rates and growing concerns about corporate profits and 
+12 
+economic growth dent investors’ appetite for risk. The blue-chips are down 
+13 
+18% this year, while the S&P 500 is down 23% and the tech-heavy Nasdaq 
+14 
+Composite has fallen 32%. 
+15 
+ 
+68 Wall Street Journal, Dow Closes Below 30000 After Post-Fed Rally, June 16, 2016;  Stock Market News Live 
+Updates: Dow Closes Below 30000 as Post-Fed Rally Fades (wsj.com) 
+69 Ibid. 
+S&P 500
+3,000
+3,200
+3,400
+3,600
+3,800
+4,000
+4,200
+4,400
+4,600
+4,800
+5,000
+Jan‐22
+Feb‐22
+Mar‐22
+Apr‐22
+May‐22
+Jun‐22
+
+
+--- Page 30 ---
+Consolidated Edison Company of New York  
+Cases 22-E-0064 and 22-G-0065 
+REBUTTAL TESTIMONY OF DR. BENTE VILLADSEN 
+ 
+ 
+Page 28 of 30 
+ 
+Simply put, capital markets are highly volatile causing investor uncertainty. 
+1 
+Q42: Can you provide an update of the other volatility charts in your direct testimony? 
+2 
+A42: Yes. The figure below shows the VIX through May 2022 and shows it currently is close to 
+3 
+its long-run average. 
+4 
+FIGURE R-9: VIX – 2000 THROUGH MAY 2022 
+5 
+ 
+6 
+Source: Bloomberg accessed June 8, 2022, data through May 31, 2022. 
+7 
+At the time of my Direct Testimony, yields were on 10-year U.S. Treasury bonds were at 
+8 
+1.58%.70 Since then both the actual yield on government bonds and the forecasted yield on 
+9 
+government bonds has increased as shown in the chart below.  All else equal, a higher return 
+10 
+(or yield) on government bonds lead to a higher cost of equity and therefore a higher ROE is 
+11 
+merited. 
+12 
+ 
+70Villadsen Direct Testimony, pg.19 
+0
+10
+20
+30
+40
+50
+60
+70
+80
+90
+2000
+2002
+2004
+2006
+2008
+2010
+2012
+2014
+2016
+2018
+2020
+2022
+Index Level
+Long Run Average: 19.5
+(1/2/1990 ‐ 5/31/2022)
+Peak during Financial 
+Crisis of 80.86 
+(11/20/2008)
+VIX reaches all time high 
+of 82.69 (3/16/2020)
+
+
+--- Page 31 ---
+Consolidated Edison Company of New York  
+Cases 22-E-0064 and 22-G-0065 
+REBUTTAL TESTIMONY OF DR. BENTE VILLADSEN 
+ 
+ 
+Page 29 of 30 
+FIGURE R-10: HISTORICAL AND PROJECTED 10-YEAR TREASURY BOND YIELDS 
+1 
+ 
+Source: Historical data from Bloomberg. Forecasts from Blue Chip Economic Indicators March 2022 
+2 
+and May 2022 issue. 
+3 
+ Since the time of my Direct Testimony, while the CPI has increased 8.6% in the past 12 
+4 
+months – the largest 12 month increase since 1981.71 As shown in Error! Reference source 
+5 
+not found. below, the inflation as measured by the CPI is currently higher than at any time 
+6 
+in the past 40 years. Rising inflation is introducing new uncertainties to the financial markets 
+7 
+and increasing the return required by investors to hold risky assets.  Specifically, because the 
+8 
+allowed ROE is a nominal return, an increase in inflation would result in a reduction in the 
+9 
+value of any allowed ROE.  If rising inflation trends persist, utilities will face increasing cost 
+10 
+recovery risks to the extent that actual costs exceed those measured by a utility during its test 
+11 
+period. In June 2022, the U.S. Federal Reserve raised interest rates by 75 basis points, which 
+12 
+is the largest increase since 1994.72  
+13 
+ 
+ 
+ 
+ 
+71 U.S. Bureau of Labor Statistics, “Consumer Price Index Latest Numbers,” accessed June 16, 2022, 
+https://www.bls.gov/cpi/latest-numbers.htm 
+72 The Washington Post, “Fed raises interest rates by largest amount since 1994 to fight inflation”, June 15, 2022, 
+Fed announces sharp interest rate hike to fight inflation - The Washington Post. 
+
+
+--- Page 32 ---
+Consolidated Edison Company of New York  
+Cases 22-E-0064 and 22-G-0065 
+REBUTTAL TESTIMONY OF DR. BENTE VILLADSEN 
+ 
+ 
+Page 30 of 30 
+FIGURE R-11: MONTHLY CHANGE IN CONSUMER PRICE INDEX (ALL URBAN CONSUMERS) 
+1 
+  
+Source: Bureau of Labor Statistics, CPI for All Urban Consumers, 1-Month Percent Change. 
+Q43: Q.  What is the change in regulatory risk introduced by Staff’s EAM testimony? 
+2 
+A43: A.  Staff recommends the elimination of certain EAMs and states that “[w]ith the passage of 
+3 
+the CLCPA, the achievement of these goals is now a statutory mandate, the achievement of 
+4 
+which the Commission must impose upon utilities, and the Company has an obligation to do 
+5 
+so at least cost.  In the event that a utility fails to meet these obligations, the Commission 
+6 
+should consider negative revenue adjustments to effectively focus utility attention on 
+7 
+achievement of these goals.”  As stated in the Customer Energy Solutions rebuttal, the 
+8 
+Company believes this an incorrect legal interpretation of the CLCPA.  If, however, this 
+9 
+position is adopted by the Commission, this would significantly shift the regulatory risk 
+10 
+borne by the Company as it eliminates positive incentives and introduces negative 
+11 
+adjustments with no clear limits or accountability on how they will be imposed.  In sum, the 
+12 
+increased business risk, in combination with radical change in regulation proposed by Staff, 
+13 
+means that an ROE in the upper part of my 10.0% to 10.5% percent range is appropriate.  
+14 
+Q44: Does this conclude your rebuttal testimony? 
+15 
+A44: Yes. 
+16 
+‐1
+‐0.8
+‐0.6
+‐0.4
+‐0.2
+0
+0.2
+0.4
+0.6
+0.8
+1
+1.2
+1.4
+Jan‐12
+Sep‐12
+May‐13
+Jan‐14
+Sep‐14
+May‐15
+Jan‐16
+Sep‐16
+May‐17
+Jan‐18
+Sep‐18
+May‐19
+Jan‐20
+Sep‐20
+May‐21
+Jan‐22
+
+
+--- Page 33 ---
+Exhibit___BV-04
+Page 1 of 1
+Risk Free
+Staff Sample
+Market Risk
+Cost of Equity
+Model
+Rate
+Average Beta
+Premium
+Estimate
+[1]
+[2]
+[3]
+[4]
+CAPM
+[a]
+3.6%
+0.89
+7.48%
+10.26%
+Zero-Beta CAPM
+[b]
+3.6%
+0.89
+7.48%
+10.46%
+Average
+[c]
+3.6%
+10.36%
+Sources and Notes:
+[1]: BCEI May 2022 p. 3; projection of 10-year US Treasury Note yield for 2023 plus 50 bps maturity
+premium adjustment.
+[2]: Staff Testimony P. 94
+[3]: 11.08% - [1], where 11.08% represents Staff's market return input assumption
+[4][a] = [1][a] + [2][a] x [3][a]
+[4][b] = [1][b] + ([2][b] x .75 x [3][b]) + (1 x .25 x [3][b])
+Figure R-2: Staff's CAPM and Zero-Beta CAPM Adjusted to use 
+Forecasted Risk Free Rate
+
+
+--- Page 34 ---
+Exhibit___ BV-05
+Page 1 of 1
+CAPM (Adj)
+[1]
+10.19%
+Zero-Beta CAPM (Adj)
+[2]
+10.41%
+Average of CAPM
+[3]
+10.30%
+Single Stage DCF (Adj)
+[4]
+8.15%
+Sustainable Growth DCF (Adj) 
+[5]
+8.24%
+Revised Average 
+(50% CAPM, 50% Single Stage)
+[6]
+9.22%
+Revised Average 
+(50% CAPM, 50% Sustainable Growth)
+[7]
+9.27%
+[3]: ([1] + [2])/2
+[6]: ([3]+[4])/2
+[7]: ([3]+[5])/2
+[1]-[2], [4]-[5]: Staff Recommendation, excluding 
+Consolidated Edison from the estimate.
+Figure R-4: Summary of Staff's Adjusted CAPM 
+Results and Additional Models
+
+
+--- Page 35 ---
+Exhibit___BV-06
+Page 1 of 1
+Traditional 
+CAPM
+Zero Beta 
+CAPM
+Market Risk Premium
+8.7%
+8.7%
+Risk Free Rate
+2.4%
+2.4%
+Beta
+Staff's Sample Average
+0.89
+0.89
+Adjusted Beta (without taxes)
+1.04
+1.04
+Adjusted Beta (with taxes)
+1.15
+1.15
+CAPM ROE
+Staff's Sample Average
+10.10%
+10.34%
+Hamada Adjusted (without taxes)
+11.44%
+11.35%
+Hamada Adjusted (with taxes)
+12.39%
+12.06%
+Delta (Adjusted Results - Staff Results)
+Staff's Sample Average
+-
+-
+Hamada Adjusted (without taxes)
+1.34%
+1.01%
+Hamada Adjusted (with taxes)
+2.29%
+1.72%
+Illustrative Impact of Leverage Adjustment to Staff's CAPM
+
+
+--- Page 36 ---
+Exhibit BV-07
+0
+10
+20
+30
+40
+50
+60
+70
+80
+90
+2000
+2002
+2004
+2006
+2008
+2010
+2012
+2014
+2016
+2018
+2020
+2022
+Index Level
+Long Run Average: 19.5
+(1/2/1990 - 5/31/2022)
+Peak during Financial 
+Crisis of 80.86 
+(11/20/2008)
+VIX reaches all time high 
+of 82.69 (3/16/2020)
+Exhibit___(BV-7)
+Page 1 of 1
+
+
+--- Page 37 ---
+Exhibit BV-08
+0%
+1%
+2%
+3%
+4%
+5%
+6%
+7%
+Yield
+Historical 10 year
+U.S. Treasury Bond
+Forecast
+Source: Historical data from Bloomberg. Forecasts from Blue Chip Economic Indicators March 2022 and May 2022 issue.
+2029-2033
+Exhibit___(BV-8)
+Page 1 of 1
+
+
+--- Page 38 ---
+Exhibit BV-09
+-1
+-0.8
+-0.6
+-0.4
+-0.2
+0
+0.2
+0.4
+0.6
+0.8
+1
+1.2
+1.4
+Jan-12
+Sep-12
+May-13
+Jan-14
+Sep-14
+May-15
+Jan-16
+Sep-16
+May-17
+Jan-18
+Sep-18
+May-19
+Jan-20
+Sep-20
+May-21
+Jan-22
+Monthly Change in Consumer Price Index (All Urban Consumers)
+Source: BLS.
+Exhibit___(BV-9)
+Page 1 of 2
+
+
+--- Page 39 ---
+Exhibit BV-09
+Series Id:
+Series Title:
+Area:
+Item:
+Base Period:
+Years:
+Year
+Jan
+Feb
+Mar
+Apr
+May
+Jun
+Jul
+Aug
+Sep
+Oct
+Nov
+Dec
+HALF1
+HALF2
+2012
+0.3
+0.2
+0.2
+0.2
+-0.2
+-0.1
+0.0
+0.6
+0.5
+0.3
+-0.2
+0.0
+2013
+0.2
+0.5
+-0.3
+-0.2
+0.0
+0.2
+0.2
+0.2
+0.0
+0.1
+0.2
+0.3
+2014
+0.2
+0.1
+0.2
+0.2
+0.2
+0.1
+0.1
+0.0
+0.0
+0.0
+-0.2
+-0.3
+2015
+-0.6
+0.3
+0.3
+0.1
+0.3
+0.3
+0.2
+0.0
+-0.2
+0.1
+0.1
+-0.1
+2016
+0.0
+-0.1
+0.3
+0.4
+0.2
+0.3
+-0.1
+0.2
+0.3
+0.2
+0.1
+0.3
+2017
+0.4
+0.2
+0.0
+0.1
+-0.1
+0.1
+0.0
+0.4
+0.5
+0.1
+0.3
+0.2
+2018
+0.4
+0.3
+0.1
+0.2
+0.3
+0.1
+0.1
+0.2
+0.2
+0.2
+-0.1
+0.0
+2019
+0.0
+0.3
+0.4
+0.4
+0.1
+0.0
+0.2
+0.1
+0.2
+0.3
+0.2
+0.2
+2020
+0.2
+0.1
+-0.3
+-0.8
+-0.1
+0.5
+0.5
+0.4
+0.2
+0.1
+0.1
+0.3
+2021
+0.2
+0.4
+0.6
+0.6
+0.7
+0.9
+0.5
+0.3
+0.4
+0.9
+0.7
+0.6
+2022
+0.6
+0.8
+1.2
+0.3
+U.S. city average
+All items
+1982-84=100
+2012 to 2022
+CPI for All Urban Consumers (CPI-U)
+1-Month Percent Change
+CUSR0000SA0
+Seasonally Adjusted
+All items in U.S. city average, all urban consumers, 
+Exhibit___(BV-9)
+Page 2 of 2
+
+
+--- Page 40 ---
+Exhibit___BV-10
+Page 1 of 1
+S&P 500
+0
+1,000
+2,000
+3,000
+4,000
+5,000
+6,000
+Jan-22
+Feb-22
+Mar-22
+Apr-22
+May-22
+Jun-22
+Source: Bloomberg, data as of 6/16/2022.
+S&P 500 Stock Prices

@@ -1,0 +1,274 @@
+--- Page 1 ---
+Public Utility Law Project of New York, Inc. (PULP) 
+Service Area PUMS_PUMA Data Procedures for Excel Users 
+Excel users interested in re-producing median household incomes for the Central Hudson 
+service area from the original source data (independent of evidence submitted by PULP in its 
+December 22, 2020 direct testimony in Cases 20-E-0428 and 20-G-0429)1 can use the 
+following procedures to do so. PULP’s analysis of the PUMAs that comprise Central Hudson’s 
+service area2 will still be needed to subtract households in those PUMAs that are not entirely 
+located within the service area. PULP identified in testimony that such an analysis would be 
+require refinement by the Company in order to create a PUMA-based representation of service 
+area households with a margin of error less than the 8% PULP estimated for its analysis. 
+However, such a refinement is not necessary to complete the procedures below up to and 
+including Step 24.   
+Note: The recommended minimum system capabilities for these procedures are 100 gigabytes 
+(“GB”) of free disk space, 1.3 gigahertz (“GHz”) of processing capacity, and 32 gigabytes 
+(“GB”) of random access memory (“RAM”). 
+Steps   
+1.
+Download the 2018 PUMS five-year ACS data for New York State households
+(csv_hny.zip) from U.S. Census Bureau website (census.gov) using the following link:
+https://www2.census.gov/programs-surveys/acs/data/pums/2018/5-Year/ 
+2.
+Extract the data from Step 1.
+3.
+Open the extracted “psam_h36.csv” in Excel.
+4.
+Open the file “Testimony of William D. Yates, CPA, Case 20-E-0428, 20-G-0429 -
+Workpapers - 2.xlsx”.
+5.
+Return to “psam_h36.csv” and delete the follow columns in the following order:
+a.
+“BR” through “IC”
+b. “AE” through “BP”
+c.
+“K” through “V”
+d. “E” through “F”
+e.
+“G”
+1 See: Direct Testimony of William D. Yates, CPA for the Public Utility Law Project Of New York, Inc., Cases 20‐E‐
+0428, 20‐G‐0429. 
+2 Direct Testimony of William D. Yates, CPA for the Public Utility Law Project Of New York, Inc., Exhibit ___(WDY‐01) 
+at 1,352. 
+Direct Testimony of William D. Yates, CPA, Case 20-E-0428, 20-G-0429 - Exhibit ___(WDY-07) 
+Page 1 of 7
+
+
+--- Page 2 ---
+f. “C” 
+g. “A” 
+6. 
+Verify that the remaining data fills cells “A1” through “O466235”. 
+7. 
+Verify that you have the remaining headings in Row 1: 
+ 
+Column A: “SERIALNO” 
+Column B: “PUMA” 
+Column C: “ADJHSG” 
+Column D: “ADJINC” 
+Column E: “WGTP” 
+Column F: “NP” 
+Column G: “ELEFP” 
+Column H: “ELEP” 
+Column I: “FS” 
+Column J: “FULFP” 
+Column K: “FULP” 
+Column L: “GASFP” 
+Column M: “GASP” 
+Column N: “HFL” 
+Column O: “HINCP” 
+ 
+Note that a data dictionary for the 2014 – 2018 ACS PUMS data, including descriptions 
+of the above fields, is available at: https://www2.census.gov/programs-
+surveys/acs/tech_docs/pums/data_dict/PUMS_Data_Dictionary_2014-2018.pdf. 
+ 
+8. 
+Select and Copy (Right-Click/Copy, or CTRL C) the data in cells “A1” through 
+“O466235”. 
+9. 
+Return to the worksheet “Service Area PUMA Data 1” in the Excel file “Testimony of 
+William D. Yates, CPA, Case 20-E-0428, 20-G-0429 - Workpapers - 2.xlsx” and place 
+the cursor in Cell “A1”. 
+10. Paste the data (Right-Click/Paste, or CTRL V). 
+11. Verify that the data should now populates cells “A1” through “O466235”. 
+12. Select “File”, “Save As” and save “Testimony of William D. Yates, CPA, Case 20-E-
+0428, 20-G-0429 - Workpapers - 2.xlsx” with a new file name. The logic back up file 
+will then be available for future use without having to delete any data.  
+13. Return to “psam_h36.csv” and close without saving. This will preserve the original 
+“.csv” file in its entirety. 
+Direct Testimony of William D. Yates, CPA, Case 20-E-0428, 20-G-0429 - Exhibit ___(WDY-07) 
+Page 2 of 7
+
+
+--- Page 3 ---
+14. Place the cursor in Cell “P2” on the “Service Area PUMA Data 1” in your newly named 
+Excel file. 
+15. Select the range from “P2” through “AT2”. 
+16. Copy the range logic to the clipboard (Right-Click/Copy, or CTRL C). 
+17. Place the cursor in Cell “P3”. 
+18. In the “Name Box” just below “File” and “Home” at the top-left on the Excel main 
+menu, replace “P3” with “P466235”. 
+19. Hold the “Shift” key down and press “Enter”. 
+20. Release the “Shift” and “Enter” keys and then press “Enter”. 
+21. The logic from the range P2:AT2 will be copied for the range for the entire range 
+P3:AT466235. (This process may take several minutes, depending on your computer’s 
+processing and memory capacity.) 
+22. With the range “P3:AT466235” still selected, copy the entire range’s logic to the 
+clipboard (Right-Click/Copy, or CTRL C). 
+23. Right-Click again and select Paste Values (the icon with the “123”). This will replace 
+the logic of the range with values, freeing up substantial memory and disk space while 
+retaining the logic necessary to re-create the data in range “P3:AT466235” intact in 
+Row 2. 
+24. Save your file. 
+25. Place the cursor in Cell “P1” select “Data”, “Filter” from the Excel menu. 
+26. Select the drop down that appears in Cell “P1” and uncheck the value “0”. 23,690 rows 
+will be returned representing households in the Central Hudson service area. 
+27. Place the cursor in Cell “A1” and select the entire range of the filtered data, which 
+should be “A1:AT466209”. 
+28. Copy the entire range to the clipboard (Right-Click/Copy, or CTRL C). 
+29. Select the worksheet “Service Area PUMA Data 2”. Place the cursor in Cell “A1”. 
+30. Right-Click and select Paste Values (the icon with the “123”). 
+31. Right-Click again and Paste Formatting (the icon with the paint brush). 
+32. Save your file. 
+33. Select the range A1:AT23691, then select “Data”, “Sort” from the Excel main menu. 
+34. Verify that the checkbox labeled “My Data Has Headers” is checked. 
+Direct Testimony of William D. Yates, CPA, Case 20-E-0428, 20-G-0429 - Exhibit ___(WDY-07) 
+Page 3 of 7
+
+
+--- Page 4 ---
+35. From the “Sort By” drop down list, select “Household Income”. Verify that “Cell 
+Values” is selected from the “Sort On” drop down list, and that “Smallest to Largest” is 
+selected from the “Order” drop down list. 
+36. Save your file. 
+37. Place the cursor on Cell “A2” of worksheet “Service Area PUMA Data 2”. 
+38. Press and hold the “Shift” key. Then press and release the “End” key, followed by 
+pressing and releasing the “Down Arrow” key. 
+39. Copy the range selected to the clipboard (Right-Click/Copy, or CTRL C). 
+40. Select the worksheet “Service Area MHIs”. Place the cursor in Cell “A2”. 
+41. Right-Click and select Paste Values (the icon with the “123”). 
+42. Return to the “Service Area PUMA Data 2” worksheet and place the cursor in Cell 
+“P2”. 
+43. Press and hold the “Shift” key. Then press and release the “End” key, followed by 
+pressing and releasing the “Down Arrow” key. 
+44. Copy the range selected to the clipboard (Right-Click/Copy, or CTRL C). 
+45. Select the worksheet “Service Area MHIs”. Place the cursor in Cell “B2”. 
+46. Right-Click and select Paste Values (the icon with the “123”). 
+47. Return to the “Service Area PUMA Data 2” worksheet and place the cursor in Cell 
+“P2”. 
+48. Press and hold the “Shift” key. Then press and release the “End” key, followed by 
+pressing and releasing the “Down Arrow” key. 
+49. Copy the range selected to the clipboard (Right-Click/Copy, or CTRL C). 
+50. Select the worksheet “Service Area MHIs”. Place the cursor in Cell “B2”. 
+51. Right-Click and select Paste Values (the icon with the “123”). 
+52. Return to the “Service Area PUMA Data 2” worksheet and place the cursor in Cell 
+“S2”. 
+53. Press and hold the “Shift” key. Then press and release the “End” key, followed by 
+pressing and releasing the “Down Arrow” key. 
+54. Copy the range selected to the clipboard (Right-Click/Copy, or CTRL C). 
+55. Select the worksheet “Service Area MHIs”. Place the cursor in Cell “C2”. 
+56. Right-Click and select Paste Values (the icon with the “123”). 
+Direct Testimony of William D. Yates, CPA, Case 20-E-0428, 20-G-0429 - Exhibit ___(WDY-07) 
+Page 4 of 7
+
+
+--- Page 5 ---
+57. Place the cursor in Cell “D4” and select the range from “D4” through “E4”. 
+58. Copy the range logic to the clipboard (Right-Click/Copy, or CTRL C). 
+59. Place the cursor in Cell “D5”. 
+60. In the “Name Box” just below “File” and “Home” at the top-left on the Excel main 
+menu, replace “D5” with “D23692”. 
+61. Hold the “Shift” key down and press “Enter”. 
+62. Release the “Shift” and “Enter” keys and then press “Enter”. 
+63. The logic from the range D4:E4 will be copied for the range for the entire range 
+“D5:E23692”. (This process may take several minutes, depending on your computer’s 
+processing and memory capacity.) 
+64. With the range “D5:E23692” still selected, copy the entire range’s logic to the clipboard 
+(Right-Click/Copy, or CTRL C). 
+65. Right-Click again and select Paste Values (the icon with the “123”). This will replace 
+the logic of the range with values, freeing up substantial memory and disk space while 
+retaining the logic necessary to re-create the data in range “D5:E23692” intact in Row 
+4. 
+66. Return to the “Service Area PUMA Data 2” worksheet and place the cursor in Cell 
+“T1”. 
+67. From the Excel main menu, select “Data”, then “Filter”. 
+68. From the drop down list that appears in Cell “T1”, uncheck “0”. 
+69. Place the cursor in Cell “A2”. 
+70. Press and hold the “Shift” key. Then press and release the “End” key, followed by 
+pressing and releasing the “Down Arrow” key. 
+71. Copy the range selected to the clipboard (Right-Click/Copy, or CTRL C). 
+72. Select the worksheet “Service Area MHIs”. Place the cursor in Cell “F2”. 
+73. Right-Click and select Paste Values (the icon with the “123”). 
+74. Return to the “Service Area PUMA Data 2” worksheet and place the cursor in Cell 
+“P2”. 
+75. Press and hold the “Shift” key. Then press and release the “End” key, followed by 
+pressing and releasing the “Down Arrow” key. 
+76. Copy the range selected to the clipboard (Right-Click/Copy, or CTRL C). 
+77. Select the worksheet “Service Area MHIs”. Place the cursor in Cell “G2”. 
+Direct Testimony of William D. Yates, CPA, Case 20-E-0428, 20-G-0429 - Exhibit ___(WDY-07) 
+Page 5 of 7
+
+
+--- Page 6 ---
+78. Right-Click and select Paste Values (the icon with the “123”). 
+79. Place the cursor in Cell “I4” and select the range from “I4” through “J4”. 
+80. Copy the range logic to the clipboard (Right-Click/Copy, or CTRL C). 
+81. Place the cursor in Cell “I5”. 
+82. In the “Name Box” just below “File” and “Home” at the top-left on the Excel main 
+menu, replace “I5” with “I4983”. 
+83. Hold the “Shift” key down and press “Enter”. 
+84. Release the “Shift” and “Enter” keys and then press “Enter”. 
+85. The logic from the range I4:J4 will be copied for the range for the entire range 
+“I5:J4983”. (This process may take several minutes, depending on your computer’s 
+processing and memory capacity.) 
+86. With the range “I5:J4983” still selected, copy the entire range’s logic to the clipboard 
+(Right-Click/Copy, or CTRL C). 
+87. Right-Click again and select Paste Values (the icon with the “123”). This will replace 
+the logic of the range with values, freeing up substantial memory and disk space while 
+retaining the logic necessary to re-create the data in range “I5:J4983” intact in Row 4. 
+88. Return to the “Service Area PUMA Data 2” worksheet and place the cursor in Cell 
+“S2”. 
+89. Press and hold the “Shift” key. Then press and release the “End” key, followed by 
+pressing and releasing the “Down Arrow” key. 
+90. Copy the range selected to the clipboard (Right-Click/Copy, or CTRL C). 
+91. Select the worksheet “Service Area MHIs”. Place the cursor in Cell “H2”. 
+92. Right-Click and select Paste Values (the icon with the “123”). 
+93. Return to the “Service Area PUMA Data 2” worksheet and place the cursor in Cell 
+“AQ1”. 
+94. From the drop down list that appears in Cell “AQ1”, uncheck “0”. 
+95. Place the cursor in Cell “A2”. 
+96. Press and hold the “Shift” key. Then press and release the “End” key, followed by 
+pressing and releasing the “Down Arrow” key. 
+97. Copy the range selected to the clipboard (Right-Click/Copy, or CTRL C). 
+98. Select the worksheet “Service Area MHIs”. Place the cursor in Cell “K2”. 
+99. Right-Click and select Paste Values (the icon with the “123”). 
+Direct Testimony of William D. Yates, CPA, Case 20-E-0428, 20-G-0429 - Exhibit ___(WDY-07) 
+Page 6 of 7
+
+
+--- Page 7 ---
+100. Return to the “Service Area PUMA Data 2” worksheet and place the cursor in Cell 
+“P2”. 
+101. Press and hold the “Shift” key. Then press and release the “End” key, followed by 
+pressing and releasing the “Down Arrow” key. 
+102. Copy the range selected to the clipboard (Right-Click/Copy, or CTRL C). 
+103. Select the worksheet “Service Area MHIs”. Place the cursor in Cell “L2”. 
+104. Right-Click and select Paste Values (the icon with the “123”). 
+105. Return to the “Service Area PUMA Data 2” worksheet and place the cursor in Cell 
+“S2”. 
+106. Press and hold the “Shift” key. Then press and release the “End” key, followed by 
+pressing and releasing the “Down Arrow” key. 
+107. Copy the range selected to the clipboard (Right-Click/Copy, or CTRL C). 
+108. Select the worksheet “Service Area MHIs”. Place the cursor in Cell “M2”. 
+109. Right-Click and select Paste Values (the icon with the “123”). 
+110. Place the cursor in Cell “I4” and select the range from “N4” through “O4”. 
+111. Copy the range logic to the clipboard (Right-Click/Copy, or CTRL C). 
+112. Place the cursor in Cell “N5”. 
+113. In the “Name Box” just below “File” and “Home” at the top-left on the Excel main 
+menu, replace “N5” with “I2328”. 
+114. Hold the “Shift” key down and press “Enter”. 
+115. Release the “Shift” and “Enter” keys and then press “Enter”. 
+116. The logic from the range N4:O4 will be copied for the range for the entire range 
+“N5:O2328”. (This process may take several minutes, depending on your computer’s 
+processing and memory capacity.) 
+117. With the range “N5:O2328” still selected, copy the entire range’s logic to the clipboard 
+(Right-Click/Copy, or CTRL C). 
+118. Right-Click again and select Paste Values (the icon with the “123”). This will replace 
+the logic of the range with values, freeing up substantial memory and disk space while 
+retaining the logic necessary to re-create the data in range “N5:O2328” intact in Row 4. 
+119. The median household income for the service area as a whole appears ($71,369) on 
+Row 11,113; while the median household incomes for HEAP-eligible and <130% FPL-
+eligible households ($20,406 and $12,268) appear on Rows 2,452 and 1,180, 
+respectively.  
+Direct Testimony of William D. Yates, CPA, Case 20-E-0428, 20-G-0429 - Exhibit ___(WDY-07) 
+Page 7 of 7

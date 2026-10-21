@@ -1,0 +1,1673 @@
+--- Page 1 ---
+ 
+ 
+ 
+  
+ 
+BEFORE THE 
+STATE OF NEW YORK 
+PUBLIC SERVICE COMMISSION 
+ 
+ 
+ 
+In the Matter of 
+ 
+Niagara Mohawk Power Corporation d/b/a National Grid 
+ 
+Case 20-E-0380 & 20-G-0381 
+ 
+November 25, 2020 
+ 
+ 
+Prepared Testimony of: 
+ 
+Staff Security Panel (SSP) 
+ 
+Thomas McNaughton 
+Utility Security Specialist 2 
+ 
+Philip Tabor 
+Utility Analyst 1(Cybersecurity) 
+ 
+Office of Resiliency and 
+Emergency Preparedness 
+ 
+State of New York 
+Department of Public Service 
+Three Empire State Plaza 
+Albany, New York 12223-1350 
+ 
+
+
+--- Page 2 ---
+CASES 20-E-0380 & 20-G-0381 
+SSP 
+ 
+ 
+1 
+ 
+Q. 
+Members of the Staff Security Panel (SSP or 
+1 
+Panel), please state your names, employer, and 
+2 
+business addresses. 
+3 
+A. 
+Our names are Thomas McNaughton, and Philip 
+4 
+Tabor.  We are employed by the New York State 
+5 
+Department of Public Service (Department) in the 
+6 
+Office of Resilience and Emergency Preparedness 
+7 
+(OREP).  Our business address is Three Empire 
+8 
+Plaza, Albany, New York 12223. 
+9 
+Q. 
+Mr. McNaughton, what is your position at the 
+10 
+Department? 
+11 
+A. 
+I am employed as a Utility Security Specialist 
+12 
+2, assigned to the Utility Security Section of 
+13 
+OREP. 
+14 
+Q. 
+Please summarize your education and work 
+15 
+experience. 
+16 
+A. 
+I attended the State University of New York, 
+17 
+completed the Central Police Services Basic Law 
+18 
+Enforcement Academy and have been trained in 
+19 
+Incident Command system through many levels.  I 
+20 
+have over thirty years of public safety 
+21 
+experience in law enforcement, disaster and 
+22 
+emergency preparedness, management and response, 
+23 
+and five years of corporate enterprise security 
+24 
+
+
+--- Page 3 ---
+CASES 20-E-0380 & 20-G-0381 
+SSP 
+ 
+ 
+2 
+ 
+risk management with responsibility for 
+1 
+malfeasance related investigations and physical 
+2 
+security at a telecommunications corporation.  I 
+3 
+have over ten years of responsibility as a 
+4 
+manager with direct reports.  At the Department 
+5 
+I perform duties that include but are not 
+6 
+limited to: conducting utility site assessments; 
+7 
+audits and inspections; reviewing existing 
+8 
+utility vulnerability studies and security 
+9 
+plans; examining existing recovery, restoration, 
+10 
+and emergency management plans; writing reports 
+11 
+detailing audit and inspection findings; 
+12 
+researching and reporting recommended changes in 
+13 
+physical security and emergency management 
+14 
+practices, including recommendations for the 
+15 
+development of new plans and practices; 
+16 
+interacting with numerous State and federal 
+17 
+agencies including, but not limited to, United 
+18 
+States (U.S.) Department of Energy, the Nuclear 
+19 
+Regulatory Commission, the U.S. Department of 
+20 
+Transportation – Office of Pipeline Safety, the 
+21 
+State Emergency Management Office, the Office of 
+22 
+Information Technology Services, the Division of 
+23 
+Homeland Security and Emergency Services, the 
+24 
+
+
+--- Page 4 ---
+CASES 20-E-0380 & 20-G-0381 
+SSP 
+ 
+ 
+3 
+ 
+Division of Military and Naval Affairs, and 
+1 
+other states, as well as industry organizations 
+2 
+such as the North American Electric Reliability 
+3 
+Corporation (NERC); working with other 
+4 
+Department Staff to carry out tasks related to 
+5 
+the utility security mission; and performing 
+6 
+utility security review during rate proceedings, 
+7 
+including testimony preparation in Article VII 
+8 
+and 10 siting evaluations, as a Department Staff 
+9 
+panelist relating to the subject of utility 
+10 
+security. 
+11 
+Q. 
+Have you previously testified before the 
+12 
+Commission? 
+13 
+A. 
+No. 
+14 
+Q. 
+Mr. Tabor, what is your position at the 
+15 
+Department? 
+16 
+A. 
+I am employed as a Utility Analyst 1 
+17 
+(Cybersecurity) assigned to the Utility Security 
+18 
+Section of the OREP. 
+19 
+Q. 
+Please summarize your education and work 
+20 
+experience. 
+21 
+A. 
+I graduated from Colby College in 1990 with a 
+22 
+Bachelor of Arts in Psychology, taken graduate 
+23 
+coursework at the University of Connecticut, and 
+24 
+
+
+--- Page 5 ---
+CASES 20-E-0380 & 20-G-0381 
+SSP 
+ 
+ 
+4 
+ 
+I am currently enrolled in the graduate 
+1 
+certificate program at the University of Albany 
+2 
+School of Emergency Preparedness, Homeland 
+3 
+Security and Cybersecurity.  I received the 
+4 
+Security+ certification from CompTIA.  I have 
+5 
+also attended several workshops and courses on 
+6 
+cyber security, including training from the US 
+7 
+Department of Homeland Security ICS-CERT. 
+8 
+Q. 
+Please describe your current duties with the 
+9 
+Utility Security Section. 
+10 
+A. 
+I joined the Utility Security Section in 2016.  
+11 
+I am familiar with federal and state regulations 
+12 
+and guidelines for cyber security for critical 
+13 
+national infrastructure, as well as the security 
+14 
+operations of the major utility companies in New 
+15 
+York State.  My current responsibilities include 
+16 
+conducting cyber security assessments of 
+17 
+critical infrastructure facilities and corporate 
+18 
+IT systems owned and operated by the 
+19 
+electricity, gas, and water utilities. 
+20 
+Q. 
+Have you previously testified before the 
+21 
+Commission? 
+22 
+A. 
+Yes, in rate proceedings for Central Hudson Gas 
+23 
+& Electric Corporation, in Cases 17-E-0459 and 
+24 
+
+
+--- Page 6 ---
+CASES 20-E-0380 & 20-G-0381 
+SSP 
+ 
+ 
+5 
+ 
+17-G-0460; and New York State Electric & Gas 
+1 
+Corporation and Rochester Gas and Electric 
+2 
+Corporation, in Cases 19-E-0380 and 19-G-0379. 
+3 
+Q. 
+What is the purpose of the Panel’s testimony in 
+4 
+these proceedings? 
+5 
+A. 
+The purpose of our testimony is to address the 
+6 
+following topics: (1) the physical security as 
+7 
+described in Niagara Mohawk Power Corporation 
+8 
+d/b/a National Grid’s (NMPC or the Company) 
+9 
+direct testimony and Corrections and Updates 
+10 
+testimony of the Information Technology (IT) 
+11 
+Panel, and the direct testimony of Gas 
+12 
+Infrastructure and Operations Panel (GIOP); and 
+13 
+(2) the cyber security portion of the previous 
+14 
+NMPC panels as well as the direct testimony of 
+15 
+the Advanced Metering Infrastructure Panel.  Our 
+16 
+review is to ensure that the Company’s requests 
+17 
+are just, reasonable, and necessary for 
+18 
+providing safe, adequate, and reliable service. 
+19 
+Q. 
+In your testimony, will you refer to, or 
+20 
+otherwise rely upon, any information produced 
+21 
+during the discovery phase of this proceeding? 
+22 
+A. 
+Yes.  We will refer to, or otherwise rely upon 
+23 
+several responses provided by the Company to 
+24 
+
+
+--- Page 7 ---
+CASES 20-E-0380 & 20-G-0381 
+SSP 
+ 
+ 
+6 
+ 
+Staff Information Requests (IRs).  The IRs that 
+1 
+we have relied upon are included in 
+2 
+Exhibit___(SSP-1).  We will refer to these 
+3 
+responses by the designation given to them 
+4 
+during discovery, e.g., DPS-123. 
+5 
+Q. 
+Will you be sponsoring any other exhibits? 
+6 
+A. 
+Yes.  Exhibit___(SSP-2) contains the Recommended 
+7 
+Physical Security Practices for Electric and Gas 
+8 
+Utilities, revised April 6, 2016, a guidance 
+9 
+document published by the Utility Security 
+10 
+Section of OREP. 
+11 
+Q. 
+Before explaining the Panel’s specific 
+12 
+recommendations, please describe the general 
+13 
+nature of your review process. 
+14 
+A. 
+Our review process focused on the need, timing, 
+15 
+and anticipated effectiveness of the Company’s 
+16 
+projects and programs.  To determine if specific 
+17 
+projects are needed, we reviewed the 
+18 
+justification provided by the Company in its 
+19 
+testimony and exhibits and analyzed the 
+20 
+Company’s responses to IRs in order to assess 
+21 
+whether a proposed project is necessary for the 
+22 
+provision of safe and reliable service.  In 
+23 
+addition to assessing the need for each project 
+24 
+
+
+--- Page 8 ---
+CASES 20-E-0380 & 20-G-0381 
+SSP 
+ 
+ 
+7 
+ 
+and program reviewed, we determined whether the 
+1 
+timing of the project’s inclusion in the 
+2 
+Company’s security posture was consistent with 
+3 
+industry best practices.  We compared the 
+4 
+capabilities of the Company’s programs with 
+5 
+industry standards and best practices and looked 
+6 
+at possible alternatives to assess the Company’s 
+7 
+flexibility and scalability to match today’s 
+8 
+everchanging threat landscape. 
+9 
+Q. 
+Please explain where the Company presented its 
+10 
+proposed physical and cyber-security projects 
+11 
+and budgets? 
+12 
+A. 
+Most of the programs related to both physical 
+13 
+and cyber-security were presented by the 
+14 
+Information Technology Panel and the capital 
+15 
+costs were included in the IT budget.  The 
+16 
+capital investments associated with these 
+17 
+projects were presented by the Information 
+18 
+Technology Panel and the rent expenses were 
+19 
+presented by the Company’s Revenue Requirement 
+20 
+Panel.  Additionally, there were physical 
+21 
+security projects proposed by the Company’s Gas 
+22 
+Infrastructure and Operations Panel, and the 
+23 
+costs of those projects were presented by that 
+24 
+
+
+--- Page 9 ---
+CASES 20-E-0380 & 20-G-0381 
+SSP 
+ 
+ 
+8 
+ 
+panel. 
+1 
+Q. 
+Please explain the components of the Company’s 
+2 
+IT budget. 
+3 
+A. 
+As explained in the Staff Information Technology 
+4 
+Panel the Service Company divides its IT program 
+5 
+costs into three categories: capital 
+6 
+expenditures, OPEX, and RTB costs.  Capital 
+7 
+expenditures represent the costs to buy or 
+8 
+create the project that will be included as an 
+9 
+asset at the Service Company level.  The 
+10 
+associated project costs are allocated to each 
+11 
+operating company in the form of a Service 
+12 
+Company Rent expense.  IT OPEX costs consist of 
+13 
+initial project expenses such as internal labor 
+14 
+and contractor/consultant costs as well as post-
+15 
+implementation costs incurred with new projects 
+16 
+that are not able to be capitalized.  RTB costs 
+17 
+are costs of running a project once it is in 
+18 
+service, inclusive of licensing and maintenance 
+19 
+agreements, and application support.  Like the 
+20 
+project costs, IT OPEX and RTB are allocated to 
+21 
+each operating company. 
+22 
+Q. 
+Will this Panel be making recommendations or 
+23 
+determining adjustments with respect to the 
+24 
+
+
+--- Page 10 ---
+CASES 20-E-0380 & 20-G-0381 
+SSP 
+ 
+ 
+9 
+ 
+budgets described above? 
+1 
+A. 
+Generally, we will not be making such 
+2 
+adjustments.  As we stated previously, our 
+3 
+review process focused on the need, timing, and 
+4 
+anticipated effectiveness of the Company’s 
+5 
+projects and programs.  Unless we specifically 
+6 
+took exception to a project and recommended that 
+7 
+project be removed from the IT capital plan, any 
+8 
+recommended adjustments are presented by the 
+9 
+Staff IT Panel.  The Staff IT Panel will be 
+10 
+addressing the Service Company IT capital and 
+11 
+operating expense budgets. 
+12 
+Q. 
+Define the fiscal year for NMPC. 
+13 
+A. 
+NMPC’s fiscal year, or FY, runs from April 1 to 
+14 
+March 31.  The FY is denoted by the calendar 
+15 
+year in which it ends.  For example, fiscal year 
+16 
+2021 began on April 1, 2020 and will end on 
+17 
+March 31, 2021. 
+18 
+ 
+19 
+PHYSICAL SECURITY 
+20 
+Q. 
+Has the Department provided utilities with any 
+21 
+guidance regarding generally recommended 
+22 
+security measures? 
+23 
+A. 
+Yes.  The Security Section of OREP has developed 
+24 
+
+
+--- Page 11 ---
+CASES 20-E-0380 & 20-G-0381 
+SSP 
+ 
+ 
+10 
+ 
+the “Recommended Physical Security Practices for 
+1 
+Electric and Gas Utilities.”  As the title 
+2 
+suggests, this document provides the utilities 
+3 
+with recommendations for appropriate physical 
+4 
+security practices.  OREP revises this document 
+5 
+from time-to-time.  The most recent version was, 
+6 
+revised on April 6, 2016.  A copy of the 
+7 
+April 6, 2016 version is included in 
+8 
+Exhibit___(SSP-2). 
+9 
+Q. 
+Please summarize the Company’s proposed programs 
+10 
+that the Panel reviewed that relate to physical 
+11 
+security. 
+12 
+A. 
+The physical security programs we reviewed are 
+13 
+the Gas Regulator Station Security and 
+14 
+Information Technology Physical Security 
+15 
+programs. 
+16 
+Q. 
+Please describe the Gas Regulator Station 
+17 
+Security program. 
+18 
+A. 
+As described on page 83 of the GIOP’s direct 
+19 
+testimony, this project will enhance and improve 
+20 
+security measures at critical gas pressure 
+21 
+reducing stations that are not scheduled for 
+22 
+full station replacement.  The project targets 
+23 
+55 regulator stations that are critical to 
+24 
+
+
+--- Page 12 ---
+CASES 20-E-0380 & 20-G-0381 
+SSP 
+ 
+ 
+11 
+ 
+reliable operation of the system.  Given the 
+1 
+inherent critical nature of these facilities, 
+2 
+Company proposes to assess these key city gate 
+3 
+and regulator stations to determine 
+4 
+vulnerabilities and determine the level and 
+5 
+types of security enhancements needed. 
+6 
+Q. 
+What is the Company’s forecast of capital 
+7 
+expenditures for the Gas Regulator Security 
+8 
+program? 
+9 
+A. 
+Exhibit___(GIOP-1) shows NMPC’s proposed capital 
+10 
+budget of $1,612,000 for FY21 and $600,000 in 
+11 
+each of the FY22 through FY25.   
+12 
+Q. 
+What is the Company’s forecast of expenses 
+13 
+associated with the Gas Regulator Security 
+14 
+program? 
+15 
+A. 
+Table 5 on page 94 of the direct testimony of 
+16 
+the GIOP shows incremental operational expenses 
+17 
+of $66,000. 
+18 
+Q. 
+Does the Panel agree with the Company’s 
+19 
+proposal? 
+20 
+A. 
+Yes.  In recent years the Company has 
+21 
+experienced a number of incidents involving 
+22 
+third-party entities.  The Gas Regulator 
+23 
+Security program will provide funding to help 
+24 
+
+
+--- Page 13 ---
+CASES 20-E-0380 & 20-G-0381 
+SSP 
+ 
+ 
+12 
+ 
+protect against such incidents.  The Company’s 
+1 
+gas regulator stations are not presently 
+2 
+equipped with physical intrusion detection 
+3 
+systems.  The addition of physical intrusion 
+4 
+detection systems will enhance NMPC’s ability to 
+5 
+monitor and detect physical security threats to 
+6 
+its facilities and minimize the Company’s 
+7 
+exposure to security vulnerabilities. 
+8 
+Q. 
+Please describe the Company IT Panel’s proposal 
+9 
+for the Physical Security Enhancements. 
+10 
+A. 
+In the Company’s response to DPS-407, page 8 of 
+11 
+Attachment 1, the Company describes five 
+12 
+projects within Physical Security Enhancements 
+13 
+program.  Of these five projects two are ongoing 
+14 
+projects and three are new.  The two ongoing 
+15 
+projects are the RGB Spectrum Upgrade for 
+16 
+Security Control Center (SCC) and the Access 
+17 
+Control System Panel Upgrades.  We will not be 
+18 
+addressing these two ongoing projects in our 
+19 
+testimony. 
+20 
+Q. 
+Describe the three new Physical Security 
+21 
+Enhancements projects. 
+22 
+A. 
+First, the Company proposes to install an 
+23 
+integrated intercom/access control solution at 
+24 
+
+
+--- Page 14 ---
+CASES 20-E-0380 & 20-G-0381 
+SSP 
+ 
+ 
+13 
+ 
+its vital sites which include critical North 
+1 
+American Electric Reliability Corporation 
+2 
+Critical Infrastructure Protection (NERC/CIP) 
+3 
+sites to provide real-time situational awareness 
+4 
+and two-way communications with personnel at 
+5 
+remote locations.  Second, the Company proposes 
+6 
+to upgrade the Company’s Security Control 
+7 
+Center(SCC).  Third, the Company proposes 
+8 
+installing additional access control and gunshot 
+9 
+protection at a Company’s upstate facility. 
+10 
+Q. 
+Please describe the Company’s proposal to 
+11 
+install an integrated intercom/access control 
+12 
+solution. 
+13 
+A. 
+This suite of intrusion detection projects is 
+14 
+intended to “ensure that in the event of an 
+15 
+intrusion, National Grid Security and law 
+16 
+enforcement, if required, can be properly 
+17 
+informed when addressing threats.” 
+18 
+Q. 
+Does the Panel agree with the Company’s 
+19 
+integrated intercom access/control project? 
+20 
+A. 
+Yes.  These upgrades are scheduled for 
+21 
+installation at critical sites including 
+22 
+NERC/CIP facilities where the feature is 
+23 
+consistent with industry standards.  Without 
+24 
+
+
+--- Page 15 ---
+CASES 20-E-0380 & 20-G-0381 
+SSP 
+ 
+ 
+14 
+ 
+this additional level of security, the system 
+1 
+continues to experience vulnerability.  This 
+2 
+program serves to allow real-time communication 
+3 
+capacity at the Company’s most critical sites, 
+4 
+will seamlessly work in conjunction with card 
+5 
+readers and video feeds, and will assist 
+6 
+security personnel with incident response and 
+7 
+investigation. 
+8 
+Q. 
+Please describe the Company’s proposed upgrades 
+9 
+to the SCC. 
+10 
+A. 
+In the Company’s response to IR DPS-407, on page 
+11 
+8 of Attachment 1, the Company indicated the SCC 
+12 
+upgrades will support all additional alarms and 
+13 
+cameras being routed to the SCC.  There is a 
+14 
+forecasted increase in volume that the current 
+15 
+system cannot support.  Alarms being routed to 
+16 
+the SCC include those being installed as part of 
+17 
+the Gas Regulator Station program we described 
+18 
+earlier. 
+19 
+Q. 
+Does the Panel agree with the Company’s SCC 
+20 
+upgrade proposal? 
+21 
+A. 
+Yes.  These upgrades will allow for 
+22 
+contemporaneous monitoring of the Company’s 
+23 
+expanding security footprint commensurate to 
+24 
+
+
+--- Page 16 ---
+CASES 20-E-0380 & 20-G-0381 
+SSP 
+ 
+ 
+15 
+ 
+current expanding risk.  Additionally, there are 
+1 
+components of the current system approaching end 
+2 
+of life and will no longer be supported by the 
+3 
+manufacturer. 
+4 
+Q. 
+Please describe the proposed additional access 
+5 
+control and gunshot protection project? 
+6 
+A. 
+The Company proposes the installation of 
+7 
+additional access control protections and a 
+8 
+gunshot detection system at a Company’s Syracuse 
+9 
+facility similar to the gunshot detection system 
+10 
+that is already in place at the offices of 
+11 
+National Grid on Long Island and in 
+12 
+Massachusetts. 
+13 
+Q. 
+Does the Panel have concerns with the Company’s 
+14 
+proposal for a gunshot detection system? 
+15 
+A. 
+While interior gunshot detection systems do 
+16 
+provide benefits in certain situations, the 
+17 
+information provided in the Company’s testimony, 
+18 
+as well as the Company’s responses to IRs DPS-
+19 
+943 and DPS-407 was not compelling.  The Company 
+20 
+has not provided any evidence of a current 
+21 
+pattern of criminal activity to show that a 
+22 
+gunshot detection system would provide a 
+23 
+security benefit at this time.  Accordingly, we 
+24 
+
+
+--- Page 17 ---
+CASES 20-E-0380 & 20-G-0381 
+SSP 
+ 
+ 
+16 
+ 
+recommend that this program be removed from the 
+1 
+IT capital budget. 
+2 
+Q. 
+Please describe the Physical Security operations 
+3 
+and maintenance (O&M) expenses proposed by the 
+4 
+Company. 
+5 
+A. 
+The Physical Security O&M expenses are required 
+6 
+to ensure National Grid Security systems 
+7 
+continue to function and the Company’s sites are 
+8 
+properly hardened against security threats.  
+9 
+Moreover, new technology has become available 
+10 
+and have become common across the industry.  
+11 
+National Grid seeks to implement technology 
+12 
+improvements in line with industry best 
+13 
+practices. 
+14 
+ 
+15 
+CYBERSECURITY 
+16 
+Q. 
+Would you briefly explain cybersecurity and the 
+17 
+importance of cybersecurity measures at 
+18 
+utilities? 
+19 
+A. 
+Cyber security is the practice of defending 
+20 
+technological devices such as computers, 
+21 
+servers, mobile devices, electronic systems, 
+22 
+networks, and data from malicious attacks or 
+23 
+threats.  Since these technological devices are 
+24 
+
+
+--- Page 18 ---
+CASES 20-E-0380 & 20-G-0381 
+SSP 
+ 
+ 
+17 
+ 
+critical to utility operations, the Department 
+1 
+considers proper cybersecurity measures as a key 
+2 
+investment to ensure continued safe, adequate, 
+3 
+and reliable utility operations and for 
+4 
+providing proper protections to utility 
+5 
+customers. 
+6 
+Q. 
+Are there unique considerations that utilities 
+7 
+experience with respect to cybersecurity? 
+8 
+A. 
+The field of cyber security is one in which the 
+9 
+risks, threat actors/vectors, and technologies 
+10 
+involved are constantly changing and increasing 
+11 
+in complexity.  In addition to these challenges 
+12 
+facing all other businesses, modernization of 
+13 
+the Company’ system will advance the 
+14 
+installation of more digital equipment to 
+15 
+replace aging analog equipment.  The integration 
+16 
+of Distributed Energy Resources (DER), as 
+17 
+described in pages 1006-1019 of 1030 in 
+18 
+Exhibit_(EIOP-16) and implementation of Advanced 
+19 
+Metering Infrastructure (AMI), as described in 
+20 
+the Company’s AMI Panel, will introduce new 
+21 
+channels through which vulnerabilities can be 
+22 
+exploited and potentially hinder safe, secure, 
+23 
+and reliable operation.  The Company can and 
+24 
+
+
+--- Page 19 ---
+CASES 20-E-0380 & 20-G-0381 
+SSP 
+ 
+ 
+18 
+ 
+must protect itself and its customers through 
+1 
+prudent security measures integrated with 
+2 
+existing programs. 
+3 
+Q. 
+Please explain where in the Company’s filing 
+4 
+cybersecurity programs are described? 
+5 
+A. 
+The Company’s cyber security programs are 
+6 
+addressed by the IT Panel.  The programs are 
+7 
+included in the Service Company IT capital 
+8 
+projects.  There are six projects within the 
+9 
+Core IT category group, which includes the US 
+10 
+Strategic Risk Remediation project.  There are 
+11 
+two other projects: the New York REV Cyber 
+12 
+Security and US Grid Modernization Cyber 
+13 
+Security projects. 
+14 
+Q. 
+Please describe the proposed cyber security 
+15 
+programs in the Core IT category. 
+16 
+A.  On pages 89-161 of Attachment 1 to the response 
+17 
+to IR_DPS-407, the Company described seven 
+18 
+proposed Core IT cyber security programs.  We 
+19 
+will discuss the first six programs as a group, 
+20 
+since their capabilities are a common grouping 
+21 
+for most utility companies.  The seventh 
+22 
+program, US Strategic Risk Remediation, is 
+23 
+considered separately in our testimony because 
+24 
+
+
+--- Page 20 ---
+CASES 20-E-0380 & 20-G-0381 
+SSP 
+ 
+ 
+19 
+ 
+of its different application than the other 
+1 
+programs and its capability to affect other 
+2 
+critical infrastructure in addition to the 
+3 
+electric grid. 
+4 
+Q. 
+Please describe the group of six Core IT cyber 
+5 
+security programs. 
+6 
+A. 
+The Platform Security program defends the 
+7 
+endpoints of the Company’s network.  Endpoints 
+8 
+are devices like laptops and handheld devices 
+9 
+that Company personnel use in the field and 
+10 
+while working from home.  The Network Security 
+11 
+program defends the Company’s network 
+12 
+architecture and protects communication pathways 
+13 
+between endpoints, like servers and 
+14 
+workstations.  The Data Protection program 
+15 
+defends the Company’s data, through techniques 
+16 
+like encryption, while it is stored and while it 
+17 
+travels internally on the Company network or 
+18 
+externally on other networks to reach Company 
+19 
+personnel working remotely at home or in the 
+20 
+field.  The Identity and Access Management 
+21 
+program allows the Company to confirm the 
+22 
+identity of its personnel and customers 
+23 
+attempting to access the Company’s networks, 
+24 
+
+
+--- Page 21 ---
+CASES 20-E-0380 & 20-G-0381 
+SSP 
+ 
+ 
+20 
+ 
+limits use of Company computers to authorized 
+1 
+individuals, and controls access to Company 
+2 
+information and files.  The Vulnerability 
+3 
+Management program manages the patches and fixes 
+4 
+discovered for the software operating across the 
+5 
+Company’s networks and in the devices that are 
+6 
+part of the other layers of defense.  The 
+7 
+Security Orchestration, Automation and Response 
+8 
+program automates much of the initial work 
+9 
+necessary to detect and start responding to a 
+10 
+potential incident.  This reduces the number of 
+11 
+security full time equivalents needed to examine 
+12 
+and analyze network information and reports from 
+13 
+security software.  In the event an incident 
+14 
+occurs, this program will enhance the security 
+15 
+employees’ ability to limit the effects of the 
+16 
+incident and remediate the effects faster to 
+17 
+decrease downtime from incidents. 
+18 
+Q. 
+Does the Panel agree with the Company’s Core IT 
+19 
+Physical Security projects, exclusive of US 
+20 
+Strategic Risk Remediation? 
+21 
+A. 
+Yes.  The way these programs are integrated 
+22 
+together meets current best practices for owners 
+23 
+and operators of critical national 
+24 
+
+
+--- Page 22 ---
+CASES 20-E-0380 & 20-G-0381 
+SSP 
+ 
+ 
+21 
+ 
+infrastructure.  They each form a layer of 
+1 
+protection that is part of the Company’s current 
+2 
+deployment of a defense-in-depth security 
+3 
+posture.  This posture is consistent with 
+4 
+guidance published by the U.S. Department of 
+5 
+Homeland Security (DHS), ”Recommended Practice: 
+6 
+Improving Industrial Control System 
+7 
+Cybersecurity with Defense-in-Depth Strategies.”  
+8 
+This document is available from DHS at the 
+9 
+following URL:  https://us-cert.cisa.gov/sites/
+10 
+default/files/recommended_practices/NCCIC_ICS-
+11 
+CERT_Defense_in_Depth_2016_S508C.pdf 
+12 
+Q. 
+How do the Company’s proposed programs compare 
+13 
+to analogous programs at other utilities? 
+14 
+A. 
+These programs mirror similar program 
+15 
+capabilities other utility companies are using 
+16 
+in New York State.  Some similar programs have 
+17 
+been addressed in other rate proceedings, for 
+18 
+example, in Cases 19-E-0378, 19-G-0379, 19-E-
+19 
+0380, and 19-G-0381, regarding New York State 
+20 
+Electric & Gas Corporation and Rochester Gas and 
+21 
+Electric Corporation; and in Cases 17-E-0459 and 
+22 
+17-G-0460, regarding Central Hudson Gas & 
+23 
+Electric Corporation. 
+24 
+
+
+--- Page 23 ---
+CASES 20-E-0380 & 20-G-0381 
+SSP 
+ 
+ 
+22 
+ 
+Q. 
+Please describe the US Strategic Risk 
+1 
+Remediation program. 
+2 
+A.  On pages 134 through 136 of Attachment 1 to the 
+3 
+response to IR_DPS-407, the Company proposed 
+4 
+implementing its Security Risk Remediation 
+5 
+Framework to identify, assess, and quantify key 
+6 
+risks across Electric and Gas Critical National 
+7 
+Infrastructure (CNI), Electric and Gas 
+8 
+Transmission Operational Technology (OT), 
+9 
+Liquefied Natural Gas, and Electric and Gas 
+10 
+Distribution, as well as associated improvement 
+11 
+plans to improve control maturity and reduce 
+12 
+risk across the state. 
+13 
+Q. 
+Does the Panel agree with the Company’s US 
+14 
+Strategic Risk Remediation project? 
+15 
+A. 
+Yes.  Upgrading and adding equipment to operate 
+16 
+as part of an interconnected network increases 
+17 
+the attack surface of critical infrastructure 
+18 
+and introduces new vulnerabilities that did not 
+19 
+exist before.  The economics of operating a 
+20 
+smart grid, gas, and liquified natural gas 
+21 
+infrastructure in a safe and reliable manner 
+22 
+requires digital equipment.  As described in 
+23 
+response to IR DPS-941, this program includes 
+24 
+
+
+--- Page 24 ---
+CASES 20-E-0380 & 20-G-0381 
+SSP 
+ 
+ 
+23 
+ 
+risk evaluations and assessments of developing 
+1 
+threats to plan critical infrastructure that can 
+2 
+operate securely and resiliently in an evolving 
+3 
+threat environment.  Events such as Shamoon in 
+4 
+2012, see the DHS alert at:  https://us-
+5 
+cert.cisa.gov/ics/jsar/JSAR-12-241-01B; and a 
+6 
+ransomware attack on pipeline operators, see the 
+7 
+DHS alert at: https://us-cert.cisa.gov/ncas/
+8 
+alerts/aa20-049a, demonstrate that the spectrum 
+9 
+of critical energy infrastructure operated by 
+10 
+the Company faces threats from hostile nations 
+11 
+and criminal groups. 
+12 
+Q. 
+Please describe the NY REV Cyber Security 
+13 
+program. 
+14 
+A. 
+The NY REV Cyber Security program includes the 
+15 
+cyber security component of the Company’s AMI 
+16 
+Program.  As described on page 110 of 313 in 
+17 
+Exhibit_(AMIP-1), this program consists of a 
+18 
+comprehensive cyber security plan that will 
+19 
+incorporate proper end-to-end security controls 
+20 
+into all aspects of design, implementation, and 
+21 
+deployment of AMI meter technology.  These 
+22 
+security controls will secure and monitor all 
+23 
+AMI meter devices, the communications 
+24 
+
+
+--- Page 25 ---
+CASES 20-E-0380 & 20-G-0381 
+SSP 
+ 
+ 
+24 
+ 
+infrastructure, and back-office systems 
+1 
+supporting them, along with user portals and 
+2 
+other critical infrastructures. 
+3 
+Q. 
+Does the Panel agree with the NY REV Cyber 
+4 
+Security program? 
+5 
+A. 
+Yes.  These programs use the results of a risk 
+6 
+assessment based on threat intelligence from 
+7 
+multiple trusted sources to inform the 
+8 
+application of the Company’s Global Information 
+9 
+Control Set to best utilize capabilities from 
+10 
+the Company’s Core IT cyber security programs.  
+11 
+The NY REV Cyber Security program also adds 
+12 
+additional capabilities necessary to mitigate 
+13 
+the risks inherent in such a geographically 
+14 
+dispersed program with exposed endpoints and 
+15 
+network infrastructure.  It is a best practice 
+16 
+to include security planning at the start of 
+17 
+planning and building any new network from the 
+18 
+ground up, which the AMI network will be. 
+19 
+Q. 
+Please describe the US Grid Modernization Cyber 
+20 
+Security program. 
+21 
+A. 
+On page 261 of Attachment 1 to the response to 
+22 
+IR DPS-399,  
+the Company proposes the 
+23 
+introduction of new technologies and platforms 
+24 
+
+
+--- Page 26 ---
+CASES 20-E-0380 & 20-G-0381 
+SSP 
+ 
+ 
+25 
+ 
+that will increase reliability and resilience of 
+1 
+operations, improve the ability to manage the 
+2 
+increase of DERs, enhance the security of the 
+3 
+grid, protect against both internal and external 
+4 
+threats, and ensure Cyber Security controls are 
+5 
+implemented to protect Grid Modernization 
+6 
+environments against an increasing and evolving 
+7 
+Cyber Security threat. 
+8 
+Q. 
+Does the Panel agree with the US Grid 
+9 
+Modernization Cyber Security program? 
+10 
+A. 
+Yes, but we have concerns that we will describe 
+11 
+shortly.  This program focusses on the 
+12 
+distribution grid and will provide necessary 
+13 
+protections as the Company shifts to the digital 
+14 
+equipment and controls necessary to implement 
+15 
+smart grid technology.  The distribution 
+16 
+electric grid has experienced a slower 
+17 
+implementation of cyber security infrastructure 
+18 
+than the transmission electric grid, since it 
+19 
+has a lower threat environment relative to the 
+20 
+transmission grid.  Additionally, the 
+21 
+distribution grid has historically experienced 
+22 
+less cyber security regulatory oversight to push 
+23 
+implementation.  As the transition to a smart 
+24 
+
+
+--- Page 27 ---
+CASES 20-E-0380 & 20-G-0381 
+SSP 
+ 
+ 
+26 
+ 
+grid continues, the distribution grid will 
+1 
+require investments in cyber security to protect 
+2 
+the new digital equipment and raise its baseline 
+3 
+security posture to match its increased exposure 
+4 
+to a wider threat environment  
+5 
+Q. 
+You said that you have concerns with this 
+6 
+program.  Please explain. 
+7 
+A. 
+We are concerned that this program will have 
+8 
+capabilities in excess of what is necessary 
+9 
+because, as described in the Staff IT Panel, 
+10 
+some Grid Modernization programs face cuts 
+11 
+and/or elimination.  Such cuts would decrease 
+12 
+the total architecture this program’s initial 
+13 
+proposal was meant to protect. 
+14 
+Q. 
+Does this Panel recommend any adjustments to 
+15 
+address this concern? 
+16 
+A. 
+No.  As explained previously, the Staff IT Panel 
+17 
+will be recommending such adjustments.  The 
+18 
+adjustment made by the Staff IT Panel addresses 
+19 
+our concerns. 
+20 
+Q. 
+Do you have any additional comments with respect 
+21 
+to the Company’s cyber security program? 
+22 
+A. 
+The Company has a mature cyber security program 
+23 
+already in existence.  After reflecting the 
+24 
+
+
+--- Page 28 ---
+CASES 20-E-0380 & 20-G-0381 
+SSP 
+ 
+ 
+27 
+ 
+Staff IT Panel’s adjustment, the spending level 
+1 
+will be sufficient to replace systems facing end 
+2 
+of useful life, like the Security Incident and 
+3 
+Event Management systems, with new systems 
+4 
+providing capabilities that are a better match 
+5 
+for the evolving threat landscape.  The spending 
+6 
+level will also allow the Company to continue 
+7 
+modernization and upgrades for other existing 
+8 
+systems. 
+9 
+Q. 
+Does  this complete your testimony? 
+10 
+A. 
+Yes, at this time. 
+11 
+ 
+12 
+ 
+13 
+ 
+14 
+ 
+15 
+ 
+16 
+ 
+17 
+ 
+18 
+ 
+19 
+ 
+20 
+ 
+21 
+ 
+22 
+ 
+23 
+ 
+24 

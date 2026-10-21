@@ -1,0 +1,1919 @@
+--- Page 1 ---
+Before the 
+New York State Public Service Commission 
+ 
+ 
+In the Matter of 
+ 
+THE BROOKLYN UNION GAS COMPANY D/B/A NATIONAL GRID NY 
+AND 
+KEYSPAN GAS EAST CORPORATION D/B/A NATIONAL GRID 
+Cases 23-G-0225 AND Case 23-G-0226 
+ 
+September 1, 2023 
+ 
+ 
+ 
+Prepared Direct Testimony of 
+David Garrett 
+ 
+ 
+On Behalf of: 
+ 
+The City of New York 
+ 
+ 
+
+
+--- Page 2 ---
+ 
+ 
+ 
+TABLE OF CONTENTS 
+I. INTRODUCTION ....................................................................................................................... 1 
+II. EXECUTIVE SUMMARY ........................................................................................................ 2 
+A. KEDNY Summary ......................................................................................................... 3 
+B. KEDLI Summary ........................................................................................................... 7 
+III. REGULATORY STANDARDS ............................................................................................ 10 
+IV. FAIRNESS TO CUSTOMERS AND THE CLCPA .............................................................. 13 
+V. SERVICE LIFE ANALYSIS ................................................................................................... 15 
+A. KEDNY Accounts ....................................................................................................... 19 
+1. Account 367 – Transmission Mains ................................................................. 19 
+2. Account 369 – Transmission Measuring and Regulating Equipment .............. 21 
+3. Account 375 – Structures and Improvements ................................................... 21 
+4. Account 376 – Distribution Mains .................................................................... 23 
+5. Account 378 – Distribution Measuring and Regulating Equipment ................. 24 
+B. KEDLI Accounts .......................................................................................................... 25 
+1. Account 367 – Transmission Mains – Steel ..................................................... 25 
+2. Account 369 – Transmission Measuring and Regulating Equipment .............. 26 
+3. Account 376 – Distribution Mains .................................................................... 27 
+4. Account 378 – Distribution Measuring and Regulating Equipment ................. 28 
+VI. NET SALVAGE ANALYSIS ................................................................................................ 30 
+VII. RESERVE VARIATION AND AMORTIZATION ............................................................. 34 
+ 
+ 
+ 
+
+
+--- Page 3 ---
+ 
+ 
+ 
+LIST OF EXHIBITS 
+DJG-1 
+Curriculum Vitae of David J. Garrett 
+ 
+KEDNY Exhibits 
+DJG-2 
+Summary Accrual and Reserve Adjustments 
+DJG-3 
+Mass Property Parameter Comparison 
+DJG-4 
+Detailed Rate and Accrual Comparison 
+DJG-5 
+Depreciation Rate Development 
+DJG-6 
+Reserve Variance Calculation 
+ 
+Observed Life Tables and Iowa Curves 
+DJG-7 
+Account 367 – Transmission Mains 
+DJG-8 
+Account 369 – Transmission M&R Equipment 
+DJG-9 
+Account 375 – Structure and Improvements 
+DJG-10 
+Account 376 – Distribution Mains 
+DJG-11 
+Account 378 – Distribution M&R Equipment 
+DJG-12 
+Computed Reserve Development 
+KEDLI Exhibits 
+DJG-13 
+Summary Accrual and Reserve Adjustments 
+DJG-14 
+Mass Property Parameter Comparison 
+DJG-15 
+Detailed Rate and Accrual Comparison 
+DJG-16 
+Depreciation Rate Development 
+DJG-17 
+Reserve Variance Calculation 
+ 
+Observed Life Tables and Iowa Curves 
+DJG-18 
+Account 367 – Transmission Mains – Steel  
+DJG-19 
+Account 369 – Transmission M&R Equipment 
+DJG-20 
+Account 376 – Distribution Mains 
+DJG-21 
+Account 378 – Distribution M&R Equipment  
+DJG-22 
+Computed Reserve Development 
+DJG-23 
+Appendix A:  The Depreciation System 
+DJG-24 
+Appendix B:  Iowa Curves 
+DJG-25 
+Appendix C:  Actuarial Analysis 
+DJG-26 
+Discovery Responses 
+ 
+
+
+--- Page 4 ---
+Cases 23-G-0225 and 23-G-0226 
+DAVID GARRETT 
+ 
+1 
+ 
+I.   INTRODUCTION 
+Q. 
+State your name and occupation. 
+1 
+A. 
+My name is David J. Garrett.  I am a consultant specializing in public utility regulation.  I 
+2 
+am the managing member of Resolve Utility Consulting, PLLC.  
+3 
+Q. 
+Summarize your educational background and professional experience. 
+4 
+A. 
+I received a B.B.A. degree with a major in Finance, an M.B.A. degree, and a Juris Doctor 
+5 
+degree from the University of Oklahoma.  I worked in private legal practice for several 
+6 
+years before accepting a position as assistant general counsel at the Oklahoma Corporation 
+7 
+Commission in 2011.  At the Oklahoma Commission, I worked in the Office of General 
+8 
+Counsel in regulatory proceedings.  In 2012, I began working for the Public Utility 
+9 
+Division as a regulatory analyst providing testimony in regulatory proceedings.  After 
+10 
+leaving the Oklahoma Commission, I formed Resolve Utility Consulting, PLLC, where I 
+11 
+have represented various consumer groups and state agencies in utility regulatory 
+12 
+proceedings, primarily in the areas of cost of capital and depreciation.  I have testified in 
+13 
+numerous regulatory proceedings in multiple jurisdictions on the issues of cost of capital 
+14 
+and depreciation.  I am a Certified Depreciation Professional with the Society of 
+15 
+Depreciation Professionals.  I am also a Certified Rate of Return Analyst with the Society 
+16 
+of Utility and Regulatory Financial Analysts.  A more complete description of my 
+17 
+qualifications and regulatory experience is included in my curriculum vitae, which is set 
+18 
+forth in Exhibit ___(DJG-1).  
+19 
+
+
+--- Page 5 ---
+Cases 23-G-0225 and 23-G-0226 
+DAVID GARRETT 
+ 
+2 
+ 
+Q. 
+On whose behalf are you testifying in this proceeding? 
+1 
+A. 
+I am testifying on behalf of the City of New York (the “City”). 
+2 
+Q. 
+Please describe the purpose of your testimony. 
+3 
+A. 
+In my testimony, I present my analysis of the depreciation study performed by Gannett 
+4 
+Fleming for The Brooklyn Union Gas Company d/b/a National Grid NY (“KEDNY”) and 
+5 
+KeySpan Gas East Corporation d/b/a National Grid (“KEDLI”) (collectively, the 
+6 
+“Companies”).  I present my recommended adjustments to the Company’s proposed 
+7 
+depreciation rates and address issues raised in the Direct Testimony of Companies’ witness 
+8 
+Ned Allis, who sponsors the depreciation studies.    
+9 
+II.   EXECUTIVE SUMMARY 
+Q. 
+Please summarize the Companies’ proposals regarding depreciation rates and the 
+10 
+reserve variance.   
+11 
+A. 
+The Companies are both proposing substantial increases to the annual depreciation accrual.  
+12 
+KEDNY is proposing an annual increase of $72 million (or 50%).  Exhibit__(DJG-2).  
+13 
+KEDLI is proposing an annual increase of $32 million (or 30%).  Exhibit__(DJG-13).  On 
+14 
+a percentage basis, these are among the largest proposed depreciation accrual increases I 
+15 
+can recall from my experience in rate proceedings.  The Companies’ proposed increases 
+16 
+are driven by proposed changes to service lives and net salvage rates.  Because the 
+17 
+theoretical reserve is necessarily affected by service life and net salvage rate parameters, 
+18 
+the Companies’ proposed accrual increase results in greater reserve deficiency.  For 
+19 
+
+
+--- Page 6 ---
+Cases 23-G-0225 and 23-G-0226 
+DAVID GARRETT 
+ 
+3 
+ 
+KEDNY, Mr. Allis proposes a reserve deficiency in the amount of $397.9 million.  
+1 
+Exhibit__(DJG-2).  For KEDLI, Mr. Allis proposes a reserve deficiency in the amount of 
+2 
+$595.0 million.  Exhibit__(DJG-13).  The Companies propose 20-year amortizations for 
+3 
+each of these reserve deficiencies.   
+4 
+A.   KEDNY Summary 
+Q. 
+Please provide a summary of the various adjustments you propose to the KEDNY 
+5 
+depreciation study.      
+6 
+A. 
+Based on my analyses of the KEDNY depreciations study, I would agree that some increase 
+7 
+to the annual depreciation accrual is warranted.  In fact, my proposed depreciation rates 
+8 
+would result in an increase to the current annual depreciation accrual in the amount of 
+9 
+$23.5 million, based on plant balances as of December 31, 2021.  Exhibit__(DJG-2).  My 
+10 
+proposed adjustments would reduce KEDNY’s proposed annual depreciation accrual by 
+11 
+about $48.5 million.  Exhibit__(DJG-2).  My proposed adjustment addresses several issues, 
+12 
+including:  (1) extending the proposed service lives for 10 accounts; (2) decreasing the 
+13 
+proposed negative net salvage rates for 23 accounts; and (3) not using terminal retirement 
+14 
+dates for assets included in the Greenpoint Energy Center and Leak Prone Pipe.  
+15 
+Consequently, these adjustments also result in a smaller reserve deficiency than the one 
+16 
+proposed by Mr. Allis for KEDNY, resulting in no need for the amortization proposed by 
+17 
+Mr. Allis.  The collective result is a reduction in KEDNY’s proposed annual depreciation 
+18 
+accrual of approximately $60.9 million.  These issues are discussed further below.   
+19 
+
+
+--- Page 7 ---
+Cases 23-G-0225 and 23-G-0226 
+DAVID GARRETT 
+ 
+4 
+ 
+Q. 
+Please provide a summary of your service life adjustments.     
+1 
+A. 
+Regarding service life, my analysis demonstrates that the Companies’ proposed service 
+2 
+lives for several accounts are notably shorter than the service lives otherwise indicated by 
+3 
+the Companies’ historical retirement data.  For KEDNY, I am proposing service life 
+4 
+adjustments to 10 of the Company’s accounts.  Exhibit__(DJG-3).  Each of these 
+5 
+adjustments are based on analyzing the Company’s historical retirement data under the 
+6 
+retirement rate method, and using visual and mathematical Iowa curve-fitting techniques 
+7 
+to estimate a reasonable service life.  I provide a comparison between my proposed Iowa 
+8 
+curves and Mr. Allis’s proposed Iowa curves in my exhibits.  Exhibit__(DJG-3).  Out of 
+9 
+my total proposed adjustment of $48.5 million for KEDNY, my service life adjustments 
+10 
+account for approximately $11.9 million of that amount.   
+11 
+Q. 
+Please provide a summary of your net salvage rate adjustments.     
+12 
+A. 
+Mr. Allis has proposed negative net salvage rate increases for 23 KEDNY accounts.  
+13 
+Exhibit__(DJG-3).  These proposed net salvage rates significantly increase the annual 
+14 
+depreciation accrual.  I generally agree with Mr. Allis that KEDNY’s historical net salvage 
+15 
+rate data are supportive of negative net salvage rate increases for these accounts.  However, 
+16 
+I propose the Commission adopt a gradual approach regarding negative net salvage rate 
+17 
+increases.  Specifically, I propose the Commission limit KEDNY’s proposed negative net 
+18 
+salvage rate increases by 50% of the requested increase from current parameters.  For 
+19 
+example, if the currently-approved net salvage rate for an account is 0%, and the Company 
+20 
+proposed a -20% salvage rate in this case, I would propose the Commission adopt a -10% 
+21 
+
+
+--- Page 8 ---
+Cases 23-G-0225 and 23-G-0226 
+DAVID GARRETT 
+ 
+5 
+ 
+net salvage rate for this account in the interest of gradualism.  I believe this approach is 
+1 
+particularly prudent in light of the substantial rate increase proposed by KEDNY in this 
+2 
+case.  Out of my total proposed adjustment of $48.5 million for KEDNY, my net salvage 
+3 
+rate adjustments account for approximately $22.0 million of that amount.   
+4 
+Q. 
+Please provide a summary of your adjustments regarding the service lives of assets 
+5 
+included in the Greenpoint Energy Center and Leak Prone Pipe. 
+6 
+A. 
+In KEDNY’s depreciation study, Mr. Allis applied terminal retirement dates for assets 
+7 
+included in the Company’s Greenpoint Energy Center and Leak Prone Pipe.  Essentially, 
+8 
+the Company is proposing to treat these groups of assets as “lifespan property,” which is 
+9 
+most commonly applied to electric production units and other groups of property that will 
+10 
+retire concurrently.  Otherwise, the types of assets included in the Greenpoint and Leak 
+11 
+Prone Pipe categories would be considered “mass property,” which is treated as though 
+12 
+their utility will be an ongoing concern with no terminal retirement date.  Although I am 
+13 
+not taking issue with the Company’s planned treatment for the Greenpoint Energy Center, 
+14 
+I believe it is reasonable in this case to apply Iowa curves to each of the accounts included 
+15 
+in this group with no specific terminal retirement date.  Likewise, I propose the same 
+16 
+treatment for the Company’s leak prone pipe assets.  In other words, I have used the same 
+17 
+Iowa curves proposed by Mr. Allis for these accounts to calculate my proposed 
+18 
+depreciation rates, but I do not apply a specific terminal retirement date under which all of 
+19 
+the assets in this group will concurrently retire.  Out of my total proposed adjustment of 
+20 
+$48.5 million for KEDNY, my proposal to treat the Greenpoint accounts as mass property 
+21 
+
+
+--- Page 9 ---
+Cases 23-G-0225 and 23-G-0226 
+DAVID GARRETT 
+ 
+6 
+ 
+equates to approximately $1.5 million of that amount; my proposal to treat the Leak Prone 
+1 
+Pipe as mass property equates to approximately $13.0 million of that amount. 
+2 
+Q. 
+Please provide a summary of your adjustments to KEDNY’s proposed theoretical 
+3 
+reserve and reserve deficiency allocation.     
+4 
+A. 
+The theoretical reserve is necessarily impacted by current service life and net salvage 
+5 
+proposals.  Thus, unlike the book reserve, the theoretical reserve is a matter of opinion.  
+6 
+Based on Mr. Allis’s proposed service lives and net salvage rates for KEDNY’s accounts, 
+7 
+he proposes a theoretical reserve of $1.9 billion and a reserve deficiency of $398.0 million.  
+8 
+Exhibit__(DJG-2).  Because I have proposed longer service lives and lower negative net 
+9 
+salvage rates for the accounts in dispute, I have calculated a lower theoretical reserve in 
+10 
+the amount of $1.6 billion and a reserve deficiency of $130.4 million.  Exhibit__(DJG-6).  
+11 
+Mr. Allis proposes to amortize the amount of reserve deficiency exceeding 10% of the 
+12 
+book reserve over 20 years, which would create an annual amortization of $12.5 million.  
+13 
+Conceptually, I do not take issue with the proposal to amortize reserve variances exceeding 
+14 
+10% of the book reserve in this case, as Mr. Allis recommends.  However, under my 
+15 
+proposed depreciation parameters, the amount of the reserve deficiency does not exceed 
+16 
+10% of the book reserve.  Exhibit__(DJG-6).  Thus, I do not propose a manual reserve 
+17 
+deficiency allocation for KEDNY in this case.  If the Commission adopts depreciation rates 
+18 
+in this case such that it results in a reserve deficiency that exceeds 10% of the book reserve, 
+19 
+then I believe amortizing the amount in excess of 10% over a 20-year period could be 
+20 
+reasonable depending on overall rate impacts. 
+21 
+
+
+--- Page 10 ---
+Cases 23-G-0225 and 23-G-0226 
+DAVID GARRETT 
+ 
+7 
+ 
+B.   KEDLI Summary 
+Q. 
+Please provide a summary of the various adjustments you propose to the KEDLI 
+1 
+depreciation study.      
+2 
+A. 
+Based on my analyses of the KEDLI depreciations study, I would agree that some increase 
+3 
+to the annual depreciation accrual is warranted.  In fact, my proposed depreciation rates 
+4 
+would result in an increase to the current annual depreciation accrual in the amount of $9.6 
+5 
+million, based on plant balances as of December 31, 2021.  Exhibit__(DJG-13).  My 
+6 
+proposed adjustments would reduce KEDLI’s proposed annual depreciation accrual by 
+7 
+about $23.0 million.  Exhibit__(DJG-13).  My proposed adjustment addresses several 
+8 
+issues, including:  (1) extending the proposed service lives for five accounts; (2) decreasing 
+9 
+the proposed negative net salvage rates for 30 accounts; and (3) not using terminal 
+10 
+retirement dates for assets included in the Holtsville LNG Plant and Leak Prone Pipe.  
+11 
+Consequently, these adjustments also result in a smaller reserve deficiency than the one 
+12 
+proposed by Mr. Allis for KEDLI, resulting in no need for the amortization proposed by 
+13 
+Mr. Allis.  The collective result is a reduction in KEDLI’s proposed annual depreciation 
+14 
+accrual of approximately $34.4 million.  These issues are discussed further below.   
+15 
+Q. 
+Please provide a summary of your service life adjustments.     
+16 
+A. 
+Regarding service life, my analysis demonstrates that the Companies’ proposed service 
+17 
+lives for several accounts are notably shorter than the service lives otherwise indicated by 
+18 
+the Companies’ historical retirement data.  For KEDLI, I am proposing service life 
+19 
+adjustments to five of the Company’s accounts.  Exhibit__(DJG-14).  Each of these 
+20 
+
+
+--- Page 11 ---
+Cases 23-G-0225 and 23-G-0226 
+DAVID GARRETT 
+ 
+8 
+ 
+adjustments are based on analyzing the Company’s historical retirement data under the 
+1 
+retirement rate method, and using visual and mathematical Iowa curve-fitting techniques 
+2 
+to estimate a reasonable service life.  I provide a comparison between my proposed Iowa 
+3 
+curves and Mr. Allis’s proposed Iowa curves in my exhibits.  Exhibit__(DJG-14).  Out of 
+4 
+my total proposed adjustment of $23.0 million for KEDLI, my service life adjustments 
+5 
+account for approximately $7.4 million of that amount.   
+6 
+Q. 
+Please provide a summary of your net salvage rate adjustments.     
+7 
+A. 
+Mr. Allis has proposed negative net salvage rate increases for 30 KEDLI accounts.  
+8 
+Exhibit__(DJG-14).  These proposed net salvage rates significantly increase the annual 
+9 
+depreciation accrual.  I generally agree with Mr. Allis that KEDLI’s historical net salvage 
+10 
+rate data are supportive of negative net salvage rate increases for these accounts.  However, 
+11 
+I propose the Commission adopt a gradual approach regarding negative net salvage rate 
+12 
+increases.  Specifically, I propose the Commission limit KEDLI’s proposed negative net 
+13 
+salvage rate increases by 75% of the requested increase from current parameters.  For 
+14 
+example, if the currently-approved net salvage rate for an account is 0%, and the Company 
+15 
+proposed a -20% salvage rate in this case, I would propose the Commission adopt a -15% 
+16 
+net salvage rate for this account in the interest of gradualism.  I believe this approach is 
+17 
+particularly prudent in light of the substantial rate increase proposed by KEDLI in this case.  
+18 
+Out of my total proposed adjustment of $23.0 million for KEDLI, my net salvage rate 
+19 
+adjustments account for approximately $10.8 million of that amount.   
+20 
+
+
+--- Page 12 ---
+Cases 23-G-0225 and 23-G-0226 
+DAVID GARRETT 
+ 
+9 
+ 
+Q. 
+Please provide a summary of your adjustments regarding the service lives of assets 
+1 
+included in the Holtsville LNG Plant and Leak Prone Pipe. 
+2 
+A. 
+In KEDLI’s depreciation study, Mr. Allis applied terminal retirement dates for assets 
+3 
+included in the Company’s Holtsville LNG Plant.  Essentially, the Company is proposing 
+4 
+to treat these groups of assets as “lifespan property,” which is most commonly applied to 
+5 
+electric production units and other groups of property that will retire concurrently.  
+6 
+Otherwise, the types of assets included in the Holtsville and Leak Prone Pipe categories 
+7 
+would be considered “mass property,” which is treated as though the utility will be a going 
+8 
+concern with no terminal retirement date.  Although I am not taking issue with the 
+9 
+Company’s planned retirement for the Holtsville LNG Plant, I believe it is reasonable in 
+10 
+this case to apply Iowa curves to each of the accounts included in this group with no 
+11 
+specific terminal retirement date.  Likewise, I propose the same treatment for the 
+12 
+Company’s leak prone pipe assets.  In other words, I have used the same Iowa curves 
+13 
+proposed by Mr. Allis for these accounts to calculate my proposed depreciation rates, but 
+14 
+I do not apply a specific terminal retirement date under which all of the assets in this group 
+15 
+will concurrently retire.  Out of my total proposed adjustment of $23.0 million for KEDLI, 
+16 
+my proposal to treat the Holtsville accounts as mass property equates to approximately 
+17 
+$0.6 million of that amount; my proposal to treat the Leak Prone Pipe assets as mass 
+18 
+property equates to approximately $4.1 million of that amount. 
+19 
+
+
+--- Page 13 ---
+Cases 23-G-0225 and 23-G-0226 
+DAVID GARRETT 
+ 
+10 
+ 
+Q. 
+Please provide a summary of your adjustments to KEDLI’s proposed theoretical 
+1 
+reserve and reserve deficiency allocation.     
+2 
+A. 
+The theoretical reserve is necessarily impacted by current service life and net salvage 
+3 
+proposals.  Thus, unlike the book reserve, the theoretical reserve is a matter of opinion.  
+4 
+Based on Mr. Allis’s proposed service lives and net salvage rates for KEDLI’s accounts, 
+5 
+he proposes a theoretical reserve of $1.4 billion and a reserve deficiency of $595.0 million.  
+6 
+Exhibit__(DJG-13).  Because I have proposed longer service lives and lower negative net 
+7 
+salvage rates for the accounts in dispute, I have calculated a lower theoretical reserve in 
+8 
+the amount of $1.2 billion and a reserve deficiency of $366.5 million.  Exhibit__(DJG-17).  
+9 
+Mr. Allis proposes to amortize the amount of reserve deficiency exceeding 10% of the 
+10 
+book reserve over 20 years, which would create an annual amortization of $25.7 million.  
+11 
+I also propose to amortize my calculated reserve deficiency over 20 years, which would 
+12 
+result in an annual amortization of $14.2 million.  Exhibit__(DJG-17). 
+13 
+III.   REGULATORY STANDARDS 
+Q. 
+Discuss the standard by which regulated utilities are allowed to recover depreciation 
+14 
+expense. 
+15 
+A. 
+In Lindheimer v. Illinois Bell Telephone Co., the U.S. Supreme Court stated that 
+16 
+“depreciation is the loss, not restored by current maintenance, which is due to all the factors 
+17 
+causing the ultimate retirement of the property.  These factors embrace wear and tear, 
+18 
+
+
+--- Page 14 ---
+Cases 23-G-0225 and 23-G-0226 
+DAVID GARRETT 
+ 
+11 
+ 
+decay, inadequacy, and obsolescence.”1  The Lindheimer Court also recognized that the 
+1 
+original cost of plant assets, rather than present value or some other measure, is the proper 
+2 
+basis for calculating depreciation expense.2  Referring to the straight-line method, the 
+3 
+Lindheimer Court stated that “[a]ccording to the principle of this accounting practice, the 
+4 
+loss is computed upon the actual cost of the property as entered upon the books, less the 
+5 
+expected salvage, and the amount charged each year is one year's pro rata share of the total 
+6 
+amount.”3  The original cost standard was reaffirmed by the Supreme Court in Federal 
+7 
+Power Commission v. Hope Natural Gas Co.  The Hope Court stated: “Moreover, this 
+8 
+Court recognized in [Lindheimer], supra, the propriety of basing annual depreciation on 
+9 
+cost.  By such a procedure the utility is made whole and the integrity of its investment 
+10 
+maintained.  No more is required.”4 
+11 
+The Lindheimer Court also held: 
+12 
+[T]he company has the burden of making a convincing showing that the 
+13 
+amounts it has charged to operating expenses for depreciation have not been 
+14 
+excessive. That burden is not sustained by proof that its general accounting 
+15 
+system has been correct. The calculations are mathematical, but the 
+16 
+predictions underlying them are essentially matters of opinion.5    
+17 
+ 
+1 Lindheimer v. Illinois Bell Tel. Co., 292 U.S. 151, 167 (1934). 
+2 Id.  
+3 Id. at 168. 
+4 Federal Power Commission v. Hope Natural Gas Co., 320 U.S. 591, 606 (1944). 
+5 Lindheimer, supra, at 169 (emphasis added). 
+
+
+--- Page 15 ---
+Cases 23-G-0225 and 23-G-0226 
+DAVID GARRETT 
+ 
+12 
+ 
+Thus, the Commission must ultimately determine if the Company has met its burden of 
+1 
+proof by making a convincing showing that its proposed depreciation rates are not 
+2 
+excessive. 
+3 
+Q. 
+Discuss the definition and purpose of a depreciation system, as well as the 
+4 
+depreciation system you employed for this project.  
+5 
+A. 
+The legal standards set forth above do not mandate a specific procedure for conducting 
+6 
+depreciation analysis.  These standards, however, direct that analysts use a system for 
+7 
+estimating depreciation rates that will result in the systematic and rational allocation of 
+8 
+capital recovery for the utility.  Over the years, analysts have developed depreciation 
+9 
+systems designed to analyze grouped property in accordance with this standard.  A 
+10 
+depreciation system may be defined by several primary parameters: 1) a method of 
+11 
+allocation; 2) a procedure for applying the method of allocation; 3) a technique of applying 
+12 
+the depreciation rate; and 4) a model for analyzing the characteristics of vintage property 
+13 
+groups.6  In this case, I used the straight-line method, the average life procedure, the whole 
+14 
+life technique, and the broad group model; this system would be denoted as an “SL-AL-
+15 
+WL-BG” system.  This depreciation system conforms to the legal standards set forth above.  
+16 
+I provide a more detailed discussion of depreciation system parameters, theories, and 
+17 
+equations in Exhibit ___(DJG-16).     
+18 
+ 
+6 See Wolf & W. Chester Fitch, Depreciation Systems 70, 140 (Iowa State University Press 1994).  
+
+
+--- Page 16 ---
+Cases 23-G-0225 and 23-G-0226 
+DAVID GARRETT 
+ 
+13 
+ 
+Q. 
+Are you using the same depreciation system that was used in the depreciation study?   
+1 
+A. 
+Yes.  The difference between my proposed depreciation rates and the Company’s proposed 
+2 
+rates is due to different opinions regarding service lives and reserve allocations, rather than 
+3 
+a difference in depreciation systems. 
+4 
+IV.   FAIRNESS TO CUSTOMERS AND THE CLCPA    
+Q. 
+Please summarize the Company’s position regarding the Climate Leadership and 
+5 
+Community Protection Act as it relates to its proposed depreciation rates. 
+6 
+A. 
+In his direct testimony, Mr. Allis discusses the Climate Leadership and Community 
+7 
+Protection Act (“CLCPA”) and how it informed the results of his depreciation studies and 
+8 
+the Companies’ proposal.  However, Mr. Allis also states on page 6 of his pre-filed Direct 
+9 
+Testimony that there were “no specific adjustments related to the impacts of the CLCPA.”   
+10 
+Q. 
+Do you agree that no specific adjustments to the Companies’ depreciation rates 
+11 
+should be made due to the CLCPA?   
+12 
+A. 
+Yes.  Mr. Allis makes several general conclusions in his testimony regarding the CLCPA 
+13 
+and its potential impacts on depreciation.  However, these conclusions are not supported 
+14 
+with specific quantitative data.  Even if there is a decline in gas demand as Mr. Allis 
+15 
+suggests, there is no link provided by the Companies between such a decline in demand 
+16 
+and the complete retirement of system assets at this time.  It is also my understanding that 
+17 
+these issues are being addressed in the New York Public Service Commission’s generic 
+18 
+long-term gas planning proceeding. 
+19 
+
+
+--- Page 17 ---
+Cases 23-G-0225 and 23-G-0226 
+DAVID GARRETT 
+ 
+14 
+ 
+Q. 
+Do you believe the Commission should consider the depreciation rates proposed by 
+1 
+Mr. Allis under the units of production method?     
+2 
+A. 
+No.  Neither the Companies nor Mr. Allis are recommending the Units of Production 
+3 
+depreciation rates that Mr. Allis included in his exhibits.  I think for that reason alone, the 
+4 
+Commission should not adopt these rates.   
+5 
+Q. 
+Please describe your approach to estimating service life in this case in light of the 
+6 
+Companies’ testimony regarding the CLCPA.   
+7 
+A. 
+Like Mr. Allis, I did not make any direct quantitative adjustment to my service life analyses 
+8 
+to account for the impacts of the CLCPA or any other climate-related policy.  However, I 
+9 
+also did not entirely ignore this issue when using professional judgment in making my final 
+10 
+proposed service life recommendations.  Regarding the service life adjustments presented 
+11 
+in my testimony, I primarily rely on an objective analysis of the historical data when 
+12 
+determining the most reasonable Iowa curve for the account.  In fact, the Iowa curves I 
+13 
+select for each of the adjusted accounts below results in a better mathematical fit to the 
+14 
+Company’s observed data (the observed life table (“OLT”) curve).  However, none of my 
+15 
+selected Iowa curves are the closest mathematically fitting curve.  In fact, the Iowa curves 
+16 
+I propose for the disputed accounts are generally shorter than the Iowa curve that would 
+17 
+otherwise result in the closest mathematical fit (which would have resulted in a lower 
+18 
+depreciation rate, all else held constant).  In that regard, I am giving some consideration to 
+19 
+Mr. Allis’s general suggestions that service lives going forward may be shorter than what 
+20 
+is otherwise strictly indicated by the historical retirement rate.  Nonetheless, based on my 
+21 
+
+
+--- Page 18 ---
+Cases 23-G-0225 and 23-G-0226 
+DAVID GARRETT 
+ 
+15 
+ 
+analysis the Company’s proposed service lives for the accounts discussed below are too 
+1 
+short given the observed data.   
+2 
+V.   SERVICE LIFE ANALYSIS    
+Q. 
+Please describe the process you used to estimate the service lives of the Company’s 
+3 
+depreciable assets. 
+4 
+A. 
+To develop depreciation rates for the Company’s mass property accounts, I obtained the 
+5 
+Company’s historical plant data to analyze the historical retirement patterns derived from 
+6 
+the data.  This is the same historical data used in the depreciation study.  I used a set of 
+7 
+empirically-based, standard survivor curves called “Iowa curves” to smooth and complete 
+8 
+the observed data in order to assess the average life of each account.  The depreciation 
+9 
+study also relied upon Iowa curves in developing proposed service lives.  More details 
+10 
+about the Iowa curves are included in my exhibits.  Exhibit ___(DJG-24).       
+11 
+Q. 
+Please describe your approach in using Iowa curves to estimate service life. 
+12 
+A. 
+The historical retirement data are used to develop an OLT for each account.  The data 
+13 
+points on the OLT can be plotted to form a curve (the “OLT curve”).  The OLT curve is 
+14 
+not a theoretical survivor curve, rather, it is a curve derived from the Company’s actual 
+15 
+historical data.  An OLT curve by itself, however, is rarely a smooth curve, and it is often 
+16 
+not a complete curve.  That is, it does not end at zero percent surviving.  In order to calculate 
+17 
+average life, a complete survivor curve is needed.  The Iowa curve-fitting process involves 
+18 
+selecting the best Iowa curve to fit the OLT curve.  This can be accomplished through a 
+19 
+
+
+--- Page 19 ---
+Cases 23-G-0225 and 23-G-0226 
+DAVID GARRETT 
+ 
+16 
+ 
+combination of visual and mathematical curve-fitting techniques, as well as professional 
+1 
+judgment.  The first step of my approach to curve-fitting involves visually inspecting the 
+2 
+OLT curve for any irregularities.  For example, if the tail end of the curve is erratic and 
+3 
+shows a sharp decline over a short period of time, it may indicate that this portion of the 
+4 
+data is less reliable, as further discussed below.  After inspecting the OLT curve, I use a 
+5 
+mathematical curve-fitting technique which essentially involves measuring the distance 
+6 
+between the OLT curve and the selected Iowa curve in order to get an objective, 
+7 
+mathematical assessment of how well the curve fits.  After selecting an Iowa curve, I 
+8 
+observe the OLT curve along with the Iowa curve on the same graph to determine how 
+9 
+well the curve fits.  I may repeat this process several times for any given account to ensure 
+10 
+that the most reasonable Iowa curve is selected.  More details about the process of actuarial 
+11 
+analysis are included in Exhibit ___(DJG-25).          
+12 
+Q. 
+Do you always select the mathematically best-fitting curve? 
+13 
+A. 
+Not necessarily.  Mathematical fitting is an important part of the curve-fitting process 
+14 
+because it promotes objective, unbiased results.  While mathematical curve fitting is 
+15 
+important, however, it may not always yield the optimum result; therefore, it should not 
+16 
+necessarily be adopted without further analysis.  In each of the adjusted accounts discussed 
+17 
+below, the Iowa curve I selected would result in a closer mathematical fit to the observed 
+18 
+data.  However, for most of the accounts at issue, I did not select the closest-fitting Iowa 
+19 
+curve from a mathematical standpoint.  In each case in which I selected an Iowa curve that 
+20 
+was not the closest fitting curve, I selected an Iowa curve that was shorter, rather than 
+21 
+
+
+--- Page 20 ---
+Cases 23-G-0225 and 23-G-0226 
+DAVID GARRETT 
+ 
+17 
+ 
+longer, than what would otherwise be dictated by strict mathematical curve fitting.  This 
+1 
+approach highlights the balance between mathematical curve fitting and professional 
+2 
+judgment.   
+3 
+Q. 
+Please describe the additional analysis you performed for this matter. 
+4 
+A. 
+After selecting an Iowa curve based on a combination of mathematical and visual curve 
+5 
+fitting, as well as professional judgment, I applied that curve for the average life of the 
+6 
+accounts at issue.  I also considered the net salvage rate of each account in calculating my 
+7 
+proposed depreciation rates under the whole life method.  Selecting different service lives 
+8 
+for the accounts at issue resulted in different theoretical reserve calculations for these 
+9 
+accounts.  The calculated reserve and amortization are discussed later in the testimony. 
+10 
+Q. 
+Should every portion of the OLT curve be given equal weight?   
+11 
+A. 
+Not necessarily.  Many analysts have observed that the points comprising the tail end of 
+12 
+the OLT curve may often have less analytical value than other portions of the curve.  
+13 
+“Points at the end of the curve are often based on fewer exposures and may be given less 
+14 
+weight than points based on larger samples.  The weight placed on those points will depend 
+15 
+on the size of the exposures.”7  In accordance with this standard, an analyst may decide to 
+16 
+“truncate” the tail end of the OLT curve at a certain percent of initial exposures, such as 
+17 
+one percent.  Using this approach puts a greater emphasis on the most valuable portions of 
+18 
+ 
+7 See Wolf & W. Chester Fitch, supra, at 46. 
+
+
+--- Page 21 ---
+Cases 23-G-0225 and 23-G-0226 
+DAVID GARRETT 
+ 
+18 
+ 
+the curve.  For my analysis in this case, I not only considered the entirety of the OLT curve, 
+1 
+but also conducted further analyses that involved fitting Iowa curves to the most significant 
+2 
+part of the OLT curve for certain accounts.  To verify the accuracy of my curve selection, 
+3 
+I also considered additional calculations and visual inspections to include truncated OLT 
+4 
+curves based on the top 99% of the relevant data and excluding the less relevant tail-end of 
+5 
+the OLT curve.    
+6 
+Q. 
+Discuss the general differences between your service life estimates and the Company’s 
+7 
+service life estimates for the accounts to which you propose adjustments. 
+8 
+A. 
+For each of the Companies’ accounts in which I propose a service life adjustment, the Iowa 
+9 
+curves I selected for these accounts result in a closer mathematical fit to the OLT curve 
+10 
+than the Iowa curves selected by Mr. Allis.  This is true for every account in dispute 
+11 
+regardless of whether the entire OLT or truncated OLT curve is measured.  This is not to 
+12 
+say that the closest-mathematically fitting Iowa curve is always the most reasonable choice.  
+13 
+In my opinion, for most of these accounts in dispute, the closest-fitting Iowa curve would 
+14 
+result in an unreasonably long service life and unreasonably low depreciation rate.  
+15 
+However, if no convincing evidence is presented outside of the historical retirement data, 
+16 
+I believe service life estimates should be primarily based on objective statistical analyses, 
+17 
+while using judgment to ensure that the service life estimate is not unreasonably long short 
+18 
+based on the other information presented in the depreciation study and consideration of 
+19 
+service lives typically observed in the industry for the same accounts.  The analysis of each 
+20 
+selected account is presented below.   
+21 
+
+
+--- Page 22 ---
+Cases 23-G-0225 and 23-G-0226 
+DAVID GARRETT 
+ 
+19 
+ 
+A.   KEDNY Accounts 
+1.   Account 367 – Transmission Mains 
+Q. 
+Describe your service life estimate for this account and compare it with the 
+1 
+Company’s proposal.  
+2 
+A. 
+The OLT curve for this account and other accounts discussed in this section is constructed 
+3 
+using the Company’s historical property data.  The graph shown in Exhibit ___(DJG-7) for 
+4 
+this account shows the two different Iowa curves selected by the Company and me to best 
+5 
+represent the average remaining life for the assets in this account.  For this account, Mr. 
+6 
+Allis selected the R2-75 Iowa curve, and I selected the R2.5-85 Iowa curve.  Both Iowa 
+7 
+curves are displayed along with the OLT curve for this account in a graph included in 
+8 
+Exhibit ___(DJG-7).8  The vertical dotted line in this graph represents the truncation point 
+9 
+based on the 1% truncation benchmark discussed above.  The data points on the OLT curve 
+10 
+occurring to the right of this line are statistically less relevant than the other data points on 
+11 
+the OLT curve due to the relatively low amount of dollars exposed to retirement associated 
+12 
+with data points at the tail-end of the OLT curve.  As shown in the graph, the relative lack 
+13 
+of retirement experience does not provide a confident indication of the retirement 
+14 
+dispersion pattern (i.e., Iowa curve shape), however, much of the data on this OLT curve 
+15 
+is nonetheless statistically relevant.  In addition, more than 90% of the dollars older than 
+16 
+ 
+8 The depreciation study consolidates the following accounts for service life analysis and applies 
+the same Iowa curve to each account:  367.06 – Plastic Mains, 367.09 – Steel Mains (Post 1991), 
+and 367.08 – Steel Mains (Pre 1992).  I also apply the same Iowa curve for each of these accounts. 
+
+
+--- Page 23 ---
+Cases 23-G-0225 and 23-G-0226 
+DAVID GARRETT 
+ 
+20 
+ 
+100 years are still surviving in this account.  The Iowa curve I selected for this account 
+1 
+strikes a fair balance between the information presented in the depreciation study and 
+2 
+testimony, and the much longer service life indicated by the statistical data.  Although it is 
+3 
+not pertinent for this particular account, we can use mathematical curve fitting techniques 
+4 
+to further assess the results.      
+5 
+Q. 
+Does your selected curve provide a better mathematical fit to the truncated OLT 
+6 
+curve than the Company’s selected Iowa curve for this account?  
+7 
+A. 
+Yes.  Selected Iowa curves based on visual curve fitting techniques can be confirmed and 
+8 
+bolstered by checking them mathematically.  The better mathematically-fitted curve is the 
+9 
+one that minimizes the distance between the OLT curve and the Iowa curve, thus providing 
+10 
+the closest fit.  The “distance” between the curves is calculated using the “sum-of-squared 
+11 
+differences” (“SSD”) technique.  The curve with the lower SSD represents the better 
+12 
+mathematical fit.  For this account, the SSD between the Company’s Iowa curve and the 
+13 
+truncated OLT curve is 1.0560, and the SSD between the R2.5-85 curve I selected and the 
+14 
+OLT curve is 0.3689, which means it results in the closer fit.  These calculations are shown 
+15 
+in Exhibit ___(DJG-7).  
+16 
+Q. 
+Describe the impact to KEDY’s proposed depreciation accrual for this account if your 
+17 
+recommended service life is adopted. 
+18 
+A. 
+Adopting my proposed adjustments for this account would result in an adjustment reducing 
+19 
+KEDNY’s proposed depreciation accrual by $2,615,179. 
+20 
+
+
+--- Page 24 ---
+Cases 23-G-0225 and 23-G-0226 
+DAVID GARRETT 
+ 
+21 
+ 
+2.   Account 369 – Transmission Measuring and Regulating Equipment 
+Q. 
+Describe your service life estimate for this account and compare it with the 
+1 
+Company’s estimate.  
+2 
+A. 
+For this account, Mr. Allis selected the R3-50 curve, and I selected the R3-58 curve.  A 
+3 
+graph included in Exhibit ___(DJG-8) shows these two curves along with the OLT curve.  
+4 
+Although the OLT curve derived from the historical retirement data for this account is less 
+5 
+than ideal given the amount of retirement experience, the relevant data nonetheless indicate 
+6 
+a longer average service life than the one proposed by Mr. Allis.      
+7 
+Q. 
+Does your selected Iowa curve provide a better mathematical fit to the truncated OLT 
+8 
+curve for this account?  
+9 
+A. 
+Yes.  The SSD between the Company’s Iowa curve and the truncated OLT curve is 0.0675, 
+10 
+and the SSD between the R3-58 curve I selected and the OLT curve is 0.0221, which means 
+11 
+it results in the closer fit.  These calculations are shown in Exhibit ___(DJG-8). 
+12 
+Q. 
+Describe the impact to KEDY’s proposed depreciation accrual for this account if your 
+13 
+recommended service life is adopted. 
+14 
+A. 
+Adopting my proposed adjustments for this account would result in an adjustment reducing 
+15 
+KEDNY’s proposed depreciation accrual by $350,511. 
+16 
+3.   Account 375 – Structures and Improvements 
+Q. 
+Describe your service life estimate for this account and compare it with the 
+17 
+Company’s estimate.  
+18 
+
+
+--- Page 25 ---
+Cases 23-G-0225 and 23-G-0226 
+DAVID GARRETT 
+ 
+22 
+ 
+A. 
+For this account, Mr. Allis selected the R3-60 curve, and I selected the R3-75 curve.  A 
+1 
+graph included in Exhibit ___(DJG-9) shows these two curves along with the OLT curve.  
+2 
+The OLT curve for Account 375 is well suited for conventional Iowa curve fitting 
+3 
+techniques.  That is, it has a sufficient amount of retirement history, is relatively smooth, 
+4 
+and most of the curve is statistically relevant.  As shown in the graph in Exhibit___(DJG-
+5 
+9), the Iowa curve proposed by Mr. Allis is significantly shorter than the average life 
+6 
+otherwise indicated by the Company’s historical retirement data as presented in the OLT 
+7 
+curve.  Even the R2-75 Iowa curve I propose is shorter than the indicated service life at 
+8 
+this time, however, the longer life and flatter trajectory of the R2-75 results in a more 
+9 
+reasonable fit to the historical data at this time.  Effectively, both Iowa curves “anticipate” 
+10 
+that the retirement rate going forward in this account may be greater than the past 
+11 
+retirement rate, causing the OLT curve to decline.  However, it is not reasonable to make 
+12 
+a projection of remaining life that is so divergent from the historical retirement pattern as 
+13 
+Mr. Allis’s selected Iowa curve does.        
+14 
+Q. 
+Does your selected Iowa curve provide a better mathematical fit to the truncated OLT 
+15 
+curve for this account?  
+16 
+A. 
+Yes.  The SSD between the Company’s Iowa curve and the truncated OLT curve is 9.9549, 
+17 
+and the SSD between the R2-75 curve I selected and the OLT curve is 1.7328, which means 
+18 
+it results in the closer fit.  These calculations are shown in Exhibit ___(DJG-9). 
+19 
+Q. 
+Describe the impact to KEDY’s proposed depreciation accrual for this account if your 
+20 
+recommended service life is adopted. 
+21 
+
+
+--- Page 26 ---
+Cases 23-G-0225 and 23-G-0226 
+DAVID GARRETT 
+ 
+23 
+ 
+A. 
+Adopting my proposed adjustments for this account would result in an adjustment reducing 
+1 
+KEDNY’s proposed depreciation accrual by $595,832. 
+2 
+4.   Account 376 – Distribution Mains 
+Q. 
+Describe your service life estimate for this account and compare it with the 
+3 
+Company’s estimate.  
+4 
+A. 
+For this account, Mr. Allis selected the R2-75 curve, and I selected the R1.5-84 curve.  A 
+5 
+graph included in Exhibit ___(DJG-10) shows these two curves along with the OLT curve.9   
+6 
+The OLT curve for Account 376 is well suited for conventional Iowa curve fitting 
+7 
+techniques.  That is, it has a sufficient amount of retirement history, is relatively smooth 
+8 
+and complete (falling to nearly 30% surviving).  As shown in the graph in Exhibit___(DJG-
+9 
+10), the Iowa curve proposed by Mr. Allis provides a relatively close fit to the truncated 
+10 
+OLT curve, and then diverges below the from the OLT curve after that point.  Unlike the 
+11 
+previous account, I do not believe Mr. Allis’s proposed Iowa curve is outside the range of 
+12 
+reasonableness.  However, both the truncated and entire OLT curve indicate a longer 
+13 
+average serve life with a flatter trajectory that is more accurately reflected in the R1.5-84 
+14 
+Iowa curve I selected.  We can confirm the results mathematically.          
+15 
+ 
+9 The depreciation study consolidates the following accounts for service life analysis and applies 
+the same Iowa curve to each account:  376.01 – Steel Mains (Post 1991), 376.07 – Plastic Mains 
+(Pre 1992), 376.09 – Steel Mains (Pre 1992), and 376.18 – Plastic Mains (Post 1991).  I also apply 
+the same Iowa curve for each of these accounts. 
+
+
+--- Page 27 ---
+Cases 23-G-0225 and 23-G-0226 
+DAVID GARRETT 
+ 
+24 
+ 
+Q. 
+Does your selected Iowa curve provide a better mathematical fit to the truncated OLT 
+1 
+curve for this account?  
+2 
+A. 
+Yes.  The SSD between the Company’s Iowa curve and the truncated OLT curve is 0.0322, 
+3 
+and the SSD between the R1.5-84 curve I selected and the OLT curve is 0.0212, which 
+4 
+means it results in the closer fit.  These calculations are shown in Exhibit ___(DJG-10). 
+5 
+Q. 
+Describe the impact to KEDY’s proposed depreciation accrual for this account if your 
+6 
+recommended service life is adopted. 
+7 
+A. 
+Adopting my proposed adjustments for this account would result in an adjustment reducing 
+8 
+KEDNY’s proposed depreciation accrual by $26,123,800. 
+9 
+5.   Account 378 – Distribution Measuring and Regulating Equipment 
+Q. 
+Describe your service life estimate for this account and compare it with the 
+10 
+Company’s estimate.  
+11 
+A. 
+For this account, Mr. Allis selected the R2.5-50 curve, and I selected the R2-58 curve.  A 
+12 
+graph included in Exhibit ___(DJG-11) shows these two curves along with the OLT curve.   
+13 
+The OLT curve for Account 376 is fairly well suited for conventional Iowa curve fitting 
+14 
+techniques.  Even the truncated OLT curve drops to 60% surviving, giving a fairly good 
+15 
+indication of the retirement pattern and average life.  The Iowa curve selected by Mr. Allis 
+16 
+is clearly shorter than the retirement pattern indicated in the OLT curve.  We can use 
+17 
+mathematical curve fitting to further assess the results.          
+18 
+
+
+--- Page 28 ---
+Cases 23-G-0225 and 23-G-0226 
+DAVID GARRETT 
+ 
+25 
+ 
+Q. 
+Does your selected Iowa curve provide a better mathematical fit to the truncated OLT 
+1 
+curve for this account?  
+2 
+A. 
+Yes.  The SSD between the Company’s Iowa curve and the truncated OLT curve is 1.3542, 
+3 
+and the SSD between the R2-58 curve I selected and the OLT curve is 0.1739, which means 
+4 
+it results in the closer fit.  These calculations are shown in Exhibit ___(DJG-11). 
+5 
+Q. 
+Describe the impact to KEDY’s proposed depreciation accrual for this account if your 
+6 
+recommended service life is adopted. 
+7 
+A. 
+Adopting my proposed adjustments for this account would result in an adjustment reducing 
+8 
+KEDNY’s proposed depreciation accrual by $810,992. 
+9 
+B.   KEDLI Accounts 
+1.   Account 367 – Transmission Mains – Steel 
+Q. 
+Describe your service life estimate for this account and compare it with the 
+10 
+Company’s estimate.  
+11 
+A. 
+For this account, Mr. Allis selected the R2.5-75 curve, and I selected the R2.5-85 curve.  A 
+12 
+graph included in Exhibit ___(DJG-18) shows these two curves along with the OLT curve.   
+13 
+As shown in the graph, the relative lack of retirement experience does not provide a 
+14 
+confident indication of the retirement dispersion pattern (i.e., Iowa curve shape), however, 
+15 
+much of the data on this OLT curve is nonetheless statistically relevant.  In addition, more 
+16 
+than 90% of the dollars older than 100 years are still surviving in this account.  The Iowa 
+17 
+curve I selected for this account strikes a fair balance between the information presented 
+18 
+in the depreciation study and testimony, and the much longer service life indicated by the 
+19 
+
+
+--- Page 29 ---
+Cases 23-G-0225 and 23-G-0226 
+DAVID GARRETT 
+ 
+26 
+ 
+statistical data.  Although it is not pertinent for this particular account, we can use 
+1 
+mathematical curve fitting techniques to further assess the results.               
+2 
+Q. 
+Does your selected Iowa curve provide a better mathematical fit to the truncated OLT 
+3 
+curve for this account?  
+4 
+A. 
+Yes.  The SSD between the Company’s Iowa curve and the truncated OLT curve is 1.0560, 
+5 
+and the SSD between the R2.5-85 curve I selected and the OLT curve is 0.3689, which 
+6 
+means it results in the closer fit.  These calculations are shown in Exhibit ___(DJG-18). 
+7 
+Q. 
+Describe the impact to KEDLI’s proposed depreciation accrual for this account if 
+8 
+your recommended service life is adopted. 
+9 
+A. 
+Adopting my proposed adjustments for this account would result in an adjustment reducing 
+10 
+KEDLI’s proposed depreciation accrual by $1,792,361. 
+11 
+2.   Account 369 – Transmission Measuring and Regulating Equipment 
+Q. 
+Describe your service life estimate for this account and compare it with the 
+12 
+Company’s estimate.  
+13 
+A. 
+For this account, Mr. Allis selected the R3-45 curve, and I selected the R2.5-54 curve.  A 
+14 
+graph included in Exhibit ___(DJG-19) shows these two curves along with the OLT curve.   
+15 
+The OLT curve for Account 369 is fairly well suited for conventional Iowa curve fitting 
+16 
+techniques.  Even the truncated OLT curve drops to nearly 60% surviving, giving a fairly 
+17 
+good indication of the retirement pattern and average life.  The Iowa curve selected by Mr. 
+18 
+Allis is clearly shorter than the retirement pattern indicated in the OLT curve.  Even when 
+19 
+the truncated OLT curve is considered, the Iowa curve selected by Mr. Allis does not 
+20 
+
+
+--- Page 30 ---
+Cases 23-G-0225 and 23-G-0226 
+DAVID GARRETT 
+ 
+27 
+ 
+provide an accurate fit from about ages 30-55, which is a significant, relevant portion of 
+1 
+the OLT curve.  As a result, I believe his proposed depreciation rate for this account is 
+2 
+unreasonably high.  We can use mathematical curve fitting to further assess the results.          
+3 
+Q. 
+Does your selected Iowa curve provide a better mathematical fit to the truncated OLT 
+4 
+curve for this account?  
+5 
+A. 
+Yes.  The SSD between the Company’s Iowa curve and the truncated OLT curve is 1.2425, 
+6 
+and the SSD between the R2.5-54 curve I selected and the OLT curve is 0.0767, which 
+7 
+means it results in the closer fit.  These calculations are shown in Exhibit ___(DJG-19). 
+8 
+Q. 
+Describe the impact to KEDLI’s proposed depreciation accrual for this account if 
+9 
+your recommended service life is adopted. 
+10 
+A. 
+Adopting my proposed adjustments for this account would result in an adjustment reducing 
+11 
+KEDLI’s proposed depreciation accrual by $681,005. 
+12 
+3.   Account 376 – Distribution Mains 
+Q. 
+Describe your service life estimate for this account and compare it with the 
+13 
+Company’s estimate.  
+14 
+A. 
+For this account, Mr. Allis selected the R2.5-75 curve, and I selected the R2-82 curve.  A 
+15 
+graph included in Exhibit ___(DJG-20) shows these two curves along with the OLT 
+16 
+curve.10   The OLT curve for Account 376 is well suited for conventional Iowa curve fitting 
+17 
+ 
+10 The depreciation study consolidates the following accounts for service life analysis and applies 
+the same Iowa curve to each account:  376.08 – Steel Mains and 376.18 – Plastic Mains.  I also 
+apply the same Iowa curve for each of these accounts. 
+
+
+--- Page 31 ---
+Cases 23-G-0225 and 23-G-0226 
+DAVID GARRETT 
+ 
+28 
+ 
+techniques.  That is, it has a sufficient amount of retirement history, is relatively smooth 
+1 
+and complete (falling to nearly 5% surviving).  As shown in the graph in Exhibit___(DJG-
+2 
+20), the Iowa curve proposed by Mr. Allis provides a relatively close fit to the truncated 
+3 
+OLT curve, and then diverges below the from the OLT curve after that point.  Unlike the 
+4 
+previous account, I do not believe Mr. Allis’s proposed Iowa curve is outside the range of 
+5 
+reasonableness.  However, both the truncated and entire OLT curve indicate a longer 
+6 
+average serve life with a flatter trajectory that is more accurately reflected in the R2-82 
+7 
+Iowa curve I selected.            
+8 
+Q. 
+Does your selected Iowa curve provide a better mathematical fit to the truncated OLT 
+9 
+curve for this account?  
+10 
+A. 
+Yes.  The SSD between the Company’s Iowa curve and the truncated OLT curve is 0.0107, 
+11 
+and the SSD between the R2-82 curve I selected and the OLT curve is 0.0027, which means 
+12 
+it results in the closer fit.  These calculations are shown in Exhibit ___(DJG-20). 
+13 
+Q. 
+Describe the impact to KEDLI’s proposed depreciation accrual for this account if 
+14 
+your recommended service life is adopted. 
+15 
+A. 
+Adopting my proposed adjustments for this account would result in an adjustment reducing 
+16 
+KEDLI’s proposed depreciation accrual by $11,510,584. 
+17 
+4.   Account 378 – Distribution Measuring and Regulating Equipment 
+Q. 
+Describe your service life estimate for this account and compare it with the 
+18 
+Company’s estimate.  
+19 
+
+
+--- Page 32 ---
+Cases 23-G-0225 and 23-G-0226 
+DAVID GARRETT 
+ 
+29 
+ 
+A. 
+For this account, Mr. Allis selected the R3-40 curve, and I selected the R2.5-55 curve.  A 
+1 
+graph included in Exhibit ___(DJG-21) shows these two curves along with the OLT curve.  
+2 
+The OLT curve for Account 378 is well suited for conventional Iowa curve fitting 
+3 
+techniques.  That is, it has a sufficient amount of retirement history, is relatively smooth, 
+4 
+and has sufficient retirement experience.  As shown in the graph in Exhibit___(DJG-21), 
+5 
+the Iowa curve proposed by Mr. Allis is significantly shorter than the average life otherwise 
+6 
+indicated by the Company’s historical retirement data as presented in the OLT curve.  Even 
+7 
+the R2.5-55 Iowa curve I propose is also shorter than the indicated service life at this time, 
+8 
+however, the longer life and flatter trajectory of the R2.5-55 results in a more reasonable 
+9 
+fit to the historical data at this time.  Effectively, both Iowa curve “anticipate” that the 
+10 
+retirement rate going forward in this account may be greater than the past retirement rate, 
+11 
+causing the OLT curve to decline.  However, it is not reasonable to make a projection of 
+12 
+remaining life that is so divergent from the historical retirement pattern as Mr. Allis’s 
+13 
+selected Iowa curve does.        
+14 
+Q. 
+Does your selected Iowa curve provide a better mathematical fit to the truncated OLT 
+15 
+curve for this account?  
+16 
+A. 
+Yes.  The SSD between the Company’s Iowa curve and the truncated OLT curve is 3.7080, 
+17 
+and the SSD between the R2.5-55 curve I selected and the OLT curve is 0.1562, which 
+18 
+means it results in the closer fit.  These calculations are shown in Exhibit ___(DJG-21). 
+19 
+Q. 
+Describe the impact to KEDLI’s proposed depreciation accrual for this account if 
+20 
+your recommended service life is adopted. 
+21 
+
+
+--- Page 33 ---
+Cases 23-G-0225 and 23-G-0226 
+DAVID GARRETT 
+ 
+30 
+ 
+A. 
+Adopting my proposed adjustments for this account would result in an adjustment reducing 
+1 
+KEDLI’s proposed depreciation accrual by $909,897. 
+2 
+VI.   NET SALVAGE ANALYSIS    
+Q. 
+Please describe the concept of net salvage.     
+3 
+A. 
+If an asset has any value left when it is retired from service, a utility might decide to sell 
+4 
+the asset.  The proceeds from this transaction are called “gross salvage.”  The 
+5 
+corresponding expense associated with the removal of the asset from service is called the 
+6 
+“cost of removal.”  The term “net salvage” equates to gross salvage less the cost of removal.  
+7 
+Often, the net salvage for utility assets is a negative number (or percentage) because the 
+8 
+cost of removing the assets from service exceeds any proceeds received from selling the 
+9 
+assets.  When a negative net salvage rate is applied to an account to calculate the 
+10 
+depreciation rate, it results in increasing the total depreciable base to be recovered over a 
+11 
+particular period of time and increases the depreciation rate.  Therefore, a greater negative 
+12 
+net salvage rate equates to a higher depreciation rate and expense, all else held constant.  
+13 
+Q. 
+Please describe the Companies’ proposal regarding its net salvage rates for mass 
+14 
+property accounts.       
+15 
+A. 
+Mr. Allis has proposed negative net salvage rate increases for 23 KEDNY accounts.  
+16 
+Exhibit__(DJG-3).  Mr. Allis also proposed negative net salvage rate increases for 30 
+17 
+KEDLI accounts.  Exhibit__(DJG-14).  These proposed net salvage rates significantly 
+18 
+increase the annual depreciation accrual.   
+19 
+
+
+--- Page 34 ---
+Cases 23-G-0225 and 23-G-0226 
+DAVID GARRETT 
+ 
+31 
+ 
+Q. 
+Do you agree with the Companies’ proposed net salvage rate increases?       
+1 
+A. 
+I agree that the historical net salvage data provided in the depreciation study are generally 
+2 
+supportive of the negative net salvage rate increases proposed by Mr. Allis.  However, I 
+3 
+believe that these increases contribute to an overall depreciation accrual increase that is 
+4 
+unreasonable and overly burdensome to customers.  Combined, the Companies are 
+5 
+proposing an increase of more than $100 million (more than 40%) to the annual 
+6 
+depreciation accrual.  Even if our proposed reduced accruals are adopted, this increase to 
+7 
+the net salvage rate remains concerning due to the ongoing increased financial burden it 
+8 
+poses to customers.   
+9 
+Q. 
+What do you propose regarding net salvage?  
+10 
+A. 
+In the interest of fairness to customers, I propose the Commission consider gradualism 
+11 
+when adopting the proposed negative net salvage increases in this case.  Specifically, I 
+12 
+recommend the Commission limit KEDNY’s proposed negative net salvage rate increases 
+13 
+by 50% of the requested annual increase from current parameters.  In addition, I 
+14 
+recommend the Commission limit KEDLI’s proposed negative net salvage rate increases 
+15 
+by 75% of the requested annual increase from current parameters. 
+16 
+Q. 
+Do you think that reducing the accruals could cause a cash flow issue for the utilities? 
+17 
+A. 
+No, I do not think it would have a negative impact on cash flow.  My proposal would still 
+18 
+result in a net increase in cash flow for both utilities, all else held constant. 
+19 
+
+
+--- Page 35 ---
+Cases 23-G-0225 and 23-G-0226 
+DAVID GARRETT 
+ 
+32 
+ 
+Q. 
+Has there been a trend in increasing negative net salvage in the utility industry?     
+1 
+A. 
+Yes.  Negative net salvage rates occur when the cost of removal exceeds the gross salvage 
+2 
+of an asset when it is removed from service.  Net salvage rates are calculated by considering 
+3 
+gross salvage and removal costs as a percent of the original cost of the assets retired.  In 
+4 
+other words, salvage and removal costs are based on current dollars, while retirements are 
+5 
+based on historical dollars.  Increasing labor costs associated with asset removal combined 
+6 
+with the fact that original costs remain the same have contributed to increasing negative 
+7 
+net salvage over time.   
+8 
+Q. 
+Have other utility commissions expressed concern over increasing negative net 
+9 
+salvage rates?     
+10 
+A. 
+Yes.  In the Pacific Gas and Electric Company’s (“PG&E”) 2014 rate case, the California 
+11 
+commission stated: “We remain concerned with the growing cost burden associated with 
+12 
+increasing cost trends for negative net salvage.”11  The California commission also 
+13 
+expressed an interest in the ratemaking concept of gradualism: 
+14 
+ 
+11 Decision Authorizing Pacific Gas and Electric Company’s General Rate Case Revenue 
+Requirement for 2014-2016, D.14-08-032, p. 597 
+
+
+--- Page 36 ---
+Cases 23-G-0225 and 23-G-0226 
+DAVID GARRETT 
+ 
+33 
+ 
+In evaluating whether a proposed increase reflects gradualism, however, we 
+1 
+believe the more appropriate measure is how the change affects customers’ 
+2 
+retail rates. The fact that PG&E previously proposed higher removal costs 
+3 
+than adopted has no bearing on how a proposed change would impact 
+4 
+current ratepayers. Accordingly, we apply the principle of gradualism based 
+5 
+on how a proposed change in estimate compares to adopted costs reflected 
+6 
+in current rates, irrespective of what PG&E may have forecasted in an 
+7 
+earlier depreciation study.12 
+8 
+ 
+In PG&E’s 2014 rate case, the Office of Ratepayer Advocates proposed a 25% cap on 
+9 
+increased net salvage rates to mitigate sudden increases in net salvage and instead provide 
+10 
+for more gradual levels of increases.13  The Commission ultimately found:  “As a general 
+11 
+approach, we adopt no more than 25% of PG&E’s estimated increases in the accrual 
+12 
+provision for removal costs.  This limitation tempers the impacts on current ratepayers. . . 
+13 
+.”14 
+14 
+Q. 
+Are you proposing a gradual approach for the accounts to which the Companies 
+15 
+propose decreases to negative net salvage rates?             
+16 
+A. 
+No.  My proposed net salvage adjustments under the gradualism principle apply only to 
+17 
+the accounts to which the Companies’ have proposed negative net salvage rate increase, 
+18 
+not decreases.  This is because the gradualism principle I am proposing is designed to 
+19 
+mitigate the immediate financial impact to current customers.  Even if all of my 
+20 
+recommended adjustments to the Companies’ proposed depreciation rates were adopted, it 
+21 
+would still result in overall accrual increases for both Companies.  Under this scenario, it 
+22 
+ 
+12 Id. at 598. 
+13 Id. at 592-93. 
+14 Id. at 602. 
+
+
+--- Page 37 ---
+Cases 23-G-0225 and 23-G-0226 
+DAVID GARRETT 
+ 
+34 
+ 
+would not make as much sense in terms of fairness to apply the gradualism protection in 
+1 
+the interest of shareholders.  
+2 
+VII.   RESERVE VARIATION AND AMORTIZATION    
+Q. 
+Please describe the issue concerning the reserve variation. 
+3 
+A. 
+At any given point in time, there will likely be a discrepancy between the recorded book 
+4 
+reserve and the theoretical reserve.  The theoretical reserve is a balance that would 
+5 
+theoretically be in the accumulated depreciation account using the current proposed 
+6 
+depreciation parameters (service life and salvage).  When depreciation rates are calculated 
+7 
+under the remaining life technique, any imbalance or variation between the book reserve 
+8 
+and theoretical reserve is essentially allocated automatically over the remaining life of 
+9 
+plant.  In this case, since proposed depreciation rates are developed under the whole life 
+10 
+technique, it is necessary to address the reserve variation as a separate issue. 
+11 
+Q. 
+Please describe the Companies’ calculated reserve variation and proposed 
+12 
+amortization. 
+13 
+A. 
+For KEDNY, Mr. Allis proposes a theoretical reserve of $1.9 billion and a reserve 
+14 
+deficiency of $398.0 million for KEDNY.  Exhibit___(DJG-2).  Mr. Allis proposes to 
+15 
+amortize the amount of reserve deficiency exceeding 10% of the book reserve over 20 
+16 
+years, which would create an annual amortization of $12.5 million. For KEDLI, he 
+17 
+proposes a theoretical reserve of $1.4 billion and a reserve deficiency of $595.0 million.  
+18 
+Exhibit__(DJG-13).  Mr. Allis proposes to amortize the amount of reserve deficiency 
+19 
+
+
+--- Page 38 ---
+Cases 23-G-0225 and 23-G-0226 
+DAVID GARRETT 
+ 
+35 
+ 
+exceeding 10% of the book reserve over 20 years, which would create an annual 
+1 
+amortization of $25.7 million. 
+2 
+Q. 
+Please describe your proposed adjustments to the Companies’ calculated reserve 
+3 
+variation and proposed amortization. 
+4 
+A. 
+Because I propose longer service lives and lower negative net salvage rates or both 
+5 
+Companies, my theoretical reserve calculation will necessarily be lower for both 
+6 
+Companies.  For KEDNY, I calculate a theoretical reserve in the amount of $1.6 billion 
+7 
+and a reserve deficiency of $130.4 million.  Conceptually, I do not take issue with the 
+8 
+proposal to amortize reserve variances exceeding 10% of the book reserve in this case, as 
+9 
+Mr. Allis recommends.  However, under my proposed depreciation parameters, the amount 
+10 
+of the reserve deficiency does not exceed 10% of the book reserve.  Exhibit__(DJG-6).  
+11 
+Thus, I do not propose a manual reserve deficiency allocation for KEDNY in this case.  For 
+12 
+KEDLI, I have calculated a lower theoretical reserve in the amount of $1.2 billion and a 
+13 
+reserve deficiency of $366.5 million.  Exhibit__(DJG-17).  I also propose to amortize my 
+14 
+calculated reserve deficiency over 20 years, which would result in an annual amortization 
+15 
+of $14.2 million.  Exhibit__(DJG-17). 
+16 
+Q. 
+Does this conclude your testimony?   
+17 
+A. 
+Yes.   
+18 

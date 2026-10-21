@@ -1,0 +1,4744 @@
+--- Page 1 ---
+ORANGE AND ROCKLAND UTILITIES, INC. 
+DIRECT TESTIMONY OF EARNING ADJUSTMENT MECHANISMS PANEL 
+ 
+TABLE OF CONTENTS 
+ 
+Page 
+INTRODUCTION ................................................ 2 
+Purpose of Testimony ........................................ 7 
+Summary of EAM Proposal ..................................... 8 
+System Efficiency EAM ...................................... 24 
+Peak Reduction ........................................... 25 
+Storage Roadmap .......................................... 30 
+DER Utilization .......................................... 34 
+Energy Efficiency EAM ...................................... 38 
+MWH Reduction Metric ..................................... 39 
+Electric STS ............................................. 42 
+Environmentally Beneficial Electrification EAM ............. 45 
+Carbon Reduction Metric .................................. 45 
+Gas EAM .................................................... 50 
+Dth Reduction Metric ..................................... 50 
+Gas STS .................................................. 52 
+Gas Peak Reduction ....................................... 53 
+EAM Allocation Structure ................................... 55 
+Reporting and Evaluation ................................... 56 
+Cost Recovery .............................................. 57 
+ 
+ 
+
+
+--- Page 2 ---
+ORANGE AND ROCKLAND UTILITIES, INC. 
+DIRECT TESTIMONY OF EARNING ADJUSTMENT MECHANISMS PANEL 
+- 2 - 
+Introduction 
+1 
+Q. 
+Would the members of the Earning Adjustment Mechanisms 
+2 
+Panel (“Panel”) please state your names and business 
+3 
+addresses?  
+4 
+A. 
+(Barone) My name is Kristen M. Barone. My business 
+5 
+address is 390 West Route 59, Spring Valley, NY 10977. 
+6 
+(Cigliano) My name is Charmaine Cigliano. My business 
+7 
+address is One Blue Hill Plaza, Pearl River, New York 
+8 
+10965.  
+9 
+(Lee) My name is Isaac Lee. My business address is 390 
+10 
+West Route 59, Spring Valley, NY 10977. 
+11 
+Q. 
+By whom are you employed and what are your current 
+12 
+positions? 
+13 
+A. 
+(Barone) I am employed by Orange and Rockland 
+14 
+Utilities, Inc. (“Orange and Rockland,” “O&R,” or the 
+15 
+“Company”) where I hold the position of Section 
+16 
+Manager of the Utility of the Future (“UotF”) 
+17 
+organization. 
+18 
+(Cigliano) I am employed by Orange and Rockland where 
+19 
+I hold the position of the Section Manager – Customer 
+20 
+Energy Services.  
+21 
+
+
+--- Page 3 ---
+ORANGE AND ROCKLAND UTILITIES, INC. 
+DIRECT TESTIMONY OF EARNING ADJUSTMENT MECHANISMS PANEL 
+- 3 - 
+(Lee) I am employed by Orange and Rockland where I 
+1 
+hold the position of Principal Engineer in 
+2 
+Distribution Planning. 
+3 
+Q. 
+Please describe your educational backgrounds. 
+4 
+A. 
+(Barone) I received a Bachelor of Science degree in 
+5 
+Mechanical Engineering in 2006 from Manhattan College 
+6 
+and a Master of Business Administration degree in 2011 
+7 
+from the Hagan School of Business at Iona College in 
+8 
+New Rochelle, New York.  
+9 
+(Cigliano) I received a Bachelor of Science degree 
+10 
+from the Binghamton University in 1988 with a double 
+11 
+major in Mathematics and Computer Science.   
+12 
+(Lee) I received a Bachelor of Engineering degree in 
+13 
+Electrical Engineering in 2008 from SUNY Buffalo, a 
+14 
+Master of Engineering degree in Electrical Engineering 
+15 
+in 2009 from Cornell University, and a Master of 
+16 
+Business Administration degree in 2016 from the New 
+17 
+York University. 
+18 
+Q. 
+Please describe your work experiences. 
+19 
+A. 
+(Barone) I joined Orange and Rockland in 2012 and have 
+20 
+held positions for the Company as a Program 
+21 
+Administrator for Commercial Energy Efficiency 
+22 
+
+
+--- Page 4 ---
+ORANGE AND ROCKLAND UTILITIES, INC. 
+DIRECT TESTIMONY OF EARNING ADJUSTMENT MECHANISMS PANEL 
+- 4 - 
+programs, as a Major Accounts Engineer in New Business 
+1 
+Services, an Engineer and Project Specialist in the 
+2 
+UotF organization, and my present position as Section 
+3 
+Manager in the UotF organization. Prior to my 
+4 
+experience at Orange and Rockland, I was a Program 
+5 
+Manager of energy efficiency projects at the New York 
+6 
+Power Authority in White Plains, New York.  
+7 
+(Cigliano) My first employment after education was 
+8 
+with O&R as an Analyst with the Economic Research 
+9 
+Department where I held positions of increasing 
+10 
+responsibility.  In 1998, as a result of the merger 
+11 
+between Consolidated Edison Company of New York, Inc. 
+12 
+(“Con Edison”) and O&R, I was offered and accepted the 
+13 
+position as a Senior Planning Analyst in Con Edison’s 
+14 
+Electric Forecasting Department. In 1999, I accepted a 
+15 
+Senior Planning Analyst position in Con Edison’s Rate 
+16 
+Engineering Department. In 2000, I returned to O&R as 
+17 
+the Customer Information Management System Billing 
+18 
+Team Lead and in 2004 I was promoted to the Manager of 
+19 
+Retail Access.  In 2008, I was promoted to my current 
+20 
+position as Section Manager - Customer Energy 
+21 
+Services.   
+22 
+
+
+--- Page 5 ---
+ORANGE AND ROCKLAND UTILITIES, INC. 
+DIRECT TESTIMONY OF EARNING ADJUSTMENT MECHANISMS PANEL 
+- 5 - 
+(Lee) I joined Con Edison in 2009 as a Growth 
+1 
+Opportunities for Leadership Development (GOLD) 
+2 
+Associate and moved to Orange and Rockland in 2018 as 
+3 
+a Principal Engineer in Distribution Planning. I have 
+4 
+held positions for the Company as a first-line 
+5 
+Supervisor in Steam Distribution, a Sr. Analyst in 
+6 
+Forecasting and Resource Planning, and my present 
+7 
+position as a Principal Engineer in Distribution 
+8 
+Planning. 
+9 
+Q. 
+Please generally describe your current 
+10 
+responsibilities. 
+11 
+A. 
+(Barone) As Section Manager of UotF, I collaborate 
+12 
+with internal and external organizations, third 
+13 
+parties, the New York Joint Utilities,1 and customers 
+14 
+in developing a future utility business model as 
+15 
+envisioned by the New York Public Service Commission 
+16 
+(“Commission”) in its Reforming the Energy Vision 
+17 
+ 
+1 The New York Joint Utilities are Central Hudson Gas and Electric 
+Corporation, Niagara Mohawk Power Corporation d/b/a National Grid, The 
+Brooklyn Union Gas Company d/b/a National Grid NY and KeySpan Gas East 
+Corporation d/b/a National Grid (collectively “National Grid”), Con 
+Edison, National Fuel Gas Distribution Corporation, New York State 
+Electric & Gas Corporation, Orange and Rockland, and Rochester Gas and 
+Electric Corporation. 
+
+
+--- Page 6 ---
+ORANGE AND ROCKLAND UTILITIES, INC. 
+DIRECT TESTIMONY OF EARNING ADJUSTMENT MECHANISMS PANEL 
+- 6 - 
+(“REV”) proceeding.2 I also oversee a team that works 
+1 
+to enable the regulatory and policy requirements 
+2 
+necessary to encourage the integration of increased 
+3 
+levels of distributed energy resources (“DER”) to help 
+4 
+facilitate the Company’s transition to the role as the 
+5 
+Distributed System Platform (“DSP”) and support the 
+6 
+clean energy goals of New York State’s Climate 
+7 
+Leadership and Community Protection Act (“CLCPA”).3  
+8 
+(Cigliano) I am responsible for the design, 
+9 
+implementation and evaluation of O&R’s portfolio of 
+10 
+energy efficiency (“EE”), demand response (“DR”), 
+11 
+renewable and low-income programs. 
+12 
+(Lee) I am responsible for developing Electric 
+13 
+Distribution Peak Forecast.  
+14 
+Q. 
+Have you previously sponsored testimony before the 
+15 
+Commission or other regulatory bodies on energy 
+16 
+matters? 
+17 
+ 
+2 Case 14-M-0101, Proceeding on Motion of the Commission in Regard to 
+Reforming the Energy Vision (“REV Proceeding”). 
+3 NY State Senate Bill S6599, Climate Leadership and Community 
+Protection Act. Full text of the legislation is available online. See 
+https://www.nysenate.gov/legislation/bills/2019/s6599. 
+
+
+--- Page 7 ---
+ORANGE AND ROCKLAND UTILITIES, INC. 
+DIRECT TESTIMONY OF EARNING ADJUSTMENT MECHANISMS PANEL 
+- 7 - 
+A. 
+(Barone) Yes, I testified before the Commission in 
+1 
+O&R’s most recent electric and gas base rate cases, 
+2 
+i.e., Cases 18-E-0067 and 18-G-0068.4  
+3 
+(Cigliano) Yes, I testified before the Commission in 
+4 
+Cases 11-E-0408, 14-E-0493, 14-G-0494, 18-E-0067, and 
+5 
+18-G-0068. 
+6 
+(Lee) No. 
+7 
+Purpose of Testimony 
+8 
+Q. 
+What is the purpose of the Panel’s direct testimony in 
+9 
+this proceeding? 
+10 
+A. 
+The purpose of the Panel’s direct testimony is to 
+11 
+present the Company’s proposed Earning Adjustment 
+12 
+Mechanisms (“EAMs”) in accordance with the 
+13 
+Commission’s Order Adopting a Ratemaking and Utility 
+14 
+Revenue Model Policy Framework in the REV Proceeding.5  
+15 
+In the 2018 O&R Rate Cases the Commission authorized 
+16 
+ 
+4 Case 18-E-0067 and 18-G-0068, Proceeding on Motion of the Commission 
+as to the Rates, Charges, Rules and Regulations of Orange and Rockland 
+Utilities, Inc. for Electric Service (“2018 O&R Rate Cases”). 
+5 Case 14-M-0101, Order Adopting a Ratemaking and Utility Revenue Model 
+Policy Framework (issued May 19, 2016) (“REV Track Two Order”). 
+
+
+--- Page 8 ---
+ORANGE AND ROCKLAND UTILITIES, INC. 
+DIRECT TESTIMONY OF EARNING ADJUSTMENT MECHANISMS PANEL 
+- 8 - 
+five EAMs,6 consisting of ten metrics, for the Company 
+1 
+for the years 2019 through 2021. The five EAMs are 
+2 
+directly tied to the achievement of REV objectives and 
+3 
+associated customer benefits and include: (1) System 
+4 
+Efficiency (“SE EAM”); (2) Energy Efficiency (“EE 
+5 
+EAM”); (3) Customer Engagement (“CE EAM”); (4) 
+6 
+Environmentally Beneficial Electrification (“EBE 
+7 
+EAM”); and (5) Gas Efficiency (“Gas EAM”). 
+8 
+Summary of EAM Proposal 
+9 
+Q. 
+Please summarize the Company’s EAM proposal. 
+10 
+A. 
+The Company proposes to discontinue its CE EAM and 
+11 
+continue its other four EAMs, with certain 
+12 
+modifications summarized below:  
+13 
+• The SE EAM measures the improvement in system 
+14 
+efficiency while promoting the growth of DER. 
+15 
+Currently, the SE EAM consists of three metrics: 
+16 
+Peak Reduction, Storage Roadmap, and DER 
+17 
+ 
+6 For the purpose of this direct testimony, “EAM” is defined as the 
+broad area of focus representing earning opportunities. The EAMs 
+consist of individual elements defined as “metrics” that are designed 
+to achieve different objectives within the area of focus. For example, 
+the System Efficiency EAM is focused on the broad objective of system 
+efficiency and consists of metrics such as Peak Reduction and DER 
+Utilization.  
+
+
+--- Page 9 ---
+ORANGE AND ROCKLAND UTILITIES, INC. 
+DIRECT TESTIMONY OF EARNING ADJUSTMENT MECHANISMS PANEL 
+- 9 - 
+Utilization. The Company proposes to continue the 
+1 
+Peak Reduction and Storage Roadmap metrics and to 
+2 
+separate the DER Utilization metric into two 
+3 
+metrics: Solar PV Utilization and Energy Storage 
+4 
+Utilization.  
+5 
+• The EE EAM measures the improvement in EE in 
+6 
+reducing customer usage, which results in lower 
+7 
+costs for customers and reduced carbon emissions. 
+8 
+Currently, the EE EAM consists of three metrics: 
+9 
+MWh Reduction, Residential Energy Intensity and 
+10 
+Commercial Energy Intensity. The Company proposes 
+11 
+to discontinue the Residential and Commercial 
+12 
+Energy Intensity metrics, continue the MWh 
+13 
+Reduction metric with some modifications, and add 
+14 
+a new EE EAM metric: Electric Share the Savings.  
+15 
+• The CE EAM measures the improvement in customer 
+16 
+engagement in the Company’s innovative rates and 
+17 
+programs, and currently consists of a Residential 
+18 
+Innovative Rates Participation metric. The 
+19 
+Company proposes to discontinue the CE EAM.  
+20 
+
+
+--- Page 10 ---
+ORANGE AND ROCKLAND UTILITIES, INC. 
+DIRECT TESTIMONY OF EARNING ADJUSTMENT MECHANISMS PANEL 
+- 10 - 
+• The EBE EAM measures customer adoption of 
+1 
+electric technologies that reduce carbon 
+2 
+emissions relative to traditional technologies 
+3 
+that rely on carbon-intensive fuel sources. 
+4 
+Currently, the EBE EAM consists of a Carbon 
+5 
+Reduction metric. The Company proposes to 
+6 
+continue the current metric.  In addition, the 
+7 
+Company recognizes as one of its EAMs the EV 
+8 
+Make-Ready Share the Savings metric which was 
+9 
+recently approved by the Commission in the July 
+10 
+2020 EV Order. 7   
+11 
+• The Gas EAM measures the improvement in EE in 
+12 
+reducing customer gas usage, which results in 
+13 
+lower costs for customers and reduced carbon 
+14 
+emissions. Currently, the Gas EAM consists of a 
+15 
+Dth Reduction metric. The Company proposes to 
+16 
+continue the current metric and add two new 
+17 
+ 
+7 Case 18-E-0138, Proceeding on Motion of the Commission Regarding 
+Electric Vehicle Supply Equipment and Infrastructure, Order 
+Establishing Electric Vehicle Infrastructure Make-Ready Program and 
+Other Programs (issued July 16, 2020) (“July 2020 EV Order”). 
+
+
+--- Page 11 ---
+ORANGE AND ROCKLAND UTILITIES, INC. 
+DIRECT TESTIMONY OF EARNING ADJUSTMENT MECHANISMS PANEL 
+- 11 - 
+metrics: Gas Share the Savings and Gas Peak 
+1 
+Reduction.  
+2 
+Q. 
+Please describe the Company’s proposal regarding the 
+3 
+earnings opportunities associated with its proposed 
+4 
+EAMs.  
+5 
+A. 
+The Company proposes positive earning opportunities, 
+6 
+calculated as return on equity basis points, for each 
+7 
+EAM. The proposed electric EAM earnings opportunities 
+8 
+are a maximum of 100 basis points each year. The 
+9 
+allocation of the proposed maximum electric earnings 
+10 
+opportunities is summarized in Table 1 (below) and is 
+11 
+discussed in detail later in this direct testimony.  
+12 
+Table 1: Maximum EAM Earnings Opportunities 
+13 
+Electric EAM Basis Points 
+RY1 
+RY2 
+RY3 
+System Efficiency 
+ 
+ 
+ 
+Peak Reduction 
+17.50 
+20.00 
+20.00 
+Storage Roadmap 
+3.50 
+5.00 
+5.00 
+Solar PV Utilization 
+7.00 
+10.00 
+10.00 
+Energy Storage 
+Utilization 
+7.00 
+10.00 
+10.00 
+Energy Efficiency 
+ 
+ 
+ 
+MWh Reduction 
+17.50 
+20.00 
+20.00 
+
+
+--- Page 12 ---
+ORANGE AND ROCKLAND UTILITIES, INC. 
+DIRECT TESTIMONY OF EARNING ADJUSTMENT MECHANISMS PANEL 
+- 12 - 
+Electric EAM Basis Points 
+RY1 
+RY2 
+RY3 
+Electric Share the 
+Savings8 
+25.00 
+25.00 
+25.00 
+Environmentally Beneficial 
+Electrification 
+ 
+ 
+ 
+Carbon Reduction 
+7.50 
+10.00 
+10.00 
+EV Make-Ready Share the 
+Savings 
+15.0 
+0.0 
+0.0 
+Total 
+100.0 
+100.0 
+100.0 
+The proposed gas EAM earnings opportunities are a 
+1 
+maximum of 40 basis points each year. The allocation 
+2 
+of the proposed maximum gas earnings opportunities is 
+3 
+summarized in Table 2 (below) and is discussed in 
+4 
+detail later in this direct testimony. 
+5 
+Table 2: Maximum Gas EAM Earnings Opportunities  
+6 
+Gas EAM Basis Points 
+RY1 
+RY2 
+RY3 
+Gas Efficiency 
+ 
+ 
+ 
+Dth Reduction 
+16.50 
+16.50 
+16.50 
+Gas Share the Savings 
+30% STS 30% STS 30% STS 
+Gas Peak Reduction 
+15.00 
+15.00 
+15.00 
+Total 
+31.50 
+plus 
+STS 
+31.50 
+plus 
+STS  
+31.50 
+plus 
+STS  
+ 
+8 The Electric STS incentive will be capped at 25 basis points only in 
+the event the Company achieves 100 basis points in a given year. 
+
+
+--- Page 13 ---
+ORANGE AND ROCKLAND UTILITIES, INC. 
+DIRECT TESTIMONY OF EARNING ADJUSTMENT MECHANISMS PANEL 
+- 13 - 
+While the proposed maximum earnings opportunities in 
+1 
+Tables 1 and 2 are expressed as basis points, the 
+2 
+Company will convert the values to dollars once the 
+3 
+capital structure and rate base are determined in this 
+4 
+proceeding. 
+5 
+Q. 
+Why has the Company proposed electric earnings 
+6 
+opportunities of up to 100 basis points? 
+7 
+A. 
+The Company’s proposal for electric earnings 
+8 
+opportunities of up to 100 basis points is consistent 
+9 
+with the Commission’s guidance in the REV Track Two 
+10 
+Order (p. 68).  The Company agrees with the 
+11 
+Commission’s statement that: “Incentive opportunities 
+12 
+should be financially meaningful and structured such 
+13 
+that they encourage enterprise-wide attention at the 
+14 
+utility and encourage strategic, portfolio-level 
+15 
+approaches beyond narrow programs.” The Company 
+16 
+believes that earnings opportunities of up to 100 
+17 
+basis points for electric EAMs is financially 
+18 
+meaningful and provides the Company with sufficient 
+19 
+incentive to pursue expansive initiatives that will 
+20 
+result in the achievement of REV objectives, clean 
+21 
+energy goals, and significant customer benefits. 
+22 
+
+
+--- Page 14 ---
+ORANGE AND ROCKLAND UTILITIES, INC. 
+DIRECT TESTIMONY OF EARNING ADJUSTMENT MECHANISMS PANEL 
+- 14 - 
+Q. 
+What is the effective time period for the EAMs? 
+1 
+A. 
+The Company proposes that the EAMs be effective for 
+2 
+the period January 1, 2022 through December 31, 2024 
+3 
+if a three-year rate plan is negotiated by the parties 
+4 
+and adopted by the Commission in these electric and 
+5 
+gas base rate proceedings. The proposed EAM targets 
+6 
+measure the Company’s calendar year performance.9 The 
+7 
+Panel notes that, as discussed by the Company’s 
+8 
+Accounting Panel, the Company is not proposing a 
+9 
+multi-year rate plan. However, in addition to 
+10 
+providing projections for the Rate Year or “RY1” 
+11 
+(i.e., calendar year 2022), the Panel does project 
+12 
+expenditures in the two years following the Rate Year 
+13 
+in this proceeding, which are needed to meet the 
+14 
+targets that we propose. For the sake of convenience, 
+15 
+we will refer to the 12-month periods ending December 
+16 
+31, 2023 and December 31, 2024 as “RY2” and “RY3,” 
+17 
+respectively. 
+18 
+ 
+9 As discussed later in this testimony, the Gas Peak Reduction metric is 
+measured over the heating season (i.e., November 1st through the 
+following April 15th). Thus, in any negotiated and adopted three-year 
+rate plan in this gas base rate proceeding, this Gas EAM will be 
+effective during the 2022-23, 2023-24 and 2024-25 heating seasons. 
+
+
+--- Page 15 ---
+ORANGE AND ROCKLAND UTILITIES, INC. 
+DIRECT TESTIMONY OF EARNING ADJUSTMENT MECHANISMS PANEL 
+- 15 - 
+Q. 
+Please describe the development of the Company’s EAM 
+1 
+proposal. 
+2 
+A. 
+The Company’s proposed EAMs reflect the following four 
+3 
+considerations.  
+4 
+First, the proposed EAMs align with achieving the REV 
+5 
+objectives and customer benefits discussed by the 
+6 
+Commission in its REV Track Two Order, while also 
+7 
+reflecting the unique characteristics of the Company’s 
+8 
+customers, its service area, and its operational 
+9 
+capabilities and constraints.  
+10 
+Second, the proposed EAMs align with the Commission’s 
+11 
+most recent Orders that discuss EAMs, including: the 
+12 
+REV Proceeding; Case 16-M-0429, In the Matter of 
+13 
+Earnings Adjustment Mechanism and Scorecard Reforms 
+14 
+Supporting the Commission's Reforming the Energy 
+15 
+Vision; Case 18-M-0084, In the Matter of a 
+16 
+Comprehensive Energy Efficiency Initiative; Case 15-M-
+17 
+0252, In the Matter of Utility Energy Efficiency 
+18 
+Programs; Case 18-E-0138, Proceeding on Motion of the 
+19 
+Commission Regarding Electric Vehicle Supply Equipment 
+20 
+and Infrastructure; and Case 18-E-0130, In the Matter 
+21 
+of Energy Storage Deployment Program.   
+22 
+
+
+--- Page 16 ---
+ORANGE AND ROCKLAND UTILITIES, INC. 
+DIRECT TESTIMONY OF EARNING ADJUSTMENT MECHANISMS PANEL 
+- 16 - 
+Third, in developing its EAM proposal, the Company 
+1 
+considered the EAMs approved by the Commission in the 
+2 
+most recent Con Edison10 and New York State Electric 
+3 
+and Gas Corporation / Rochester Gas and Electric 
+4 
+Corporation (“NYSEG / RG&E”) rate case proceedings.11  
+5 
+Finally, the proposed EAMs are designed to enhance 
+6 
+customer, environmental, and clean energy benefits 
+7 
+achieved under the Company’s current EAMs.  
+8 
+Q.  Please describe how the Company’s EAM proposal aligns 
+9 
+with Commission’s guidance in the REV Track Two Order. 
+10 
+A.  The proposed EAMs follow the Commission’s guidelines 
+11 
+in the following ways:  
+12 
+1) Outcome-based: The proposed EAMs are structured to 
+13 
+achieve outcomes that further broad policy 
+14 
+objectives. 
+15 
+ 
+10 Case 19-E-0065, Proceeding on Motion of the Commission as to the 
+Rates, Charges, Rules and Regulations of Consolidated Edison Company of 
+New York, Inc. for Electric Service; Case 19-G-0066, Proceeding on 
+Motion of the Commission as to the Rates, Charges, Rules and 
+Regulations of Consolidated Edison Company of New York, Inc. for Gas 
+Service, Order Adopting Terms of Joint Proposal and Establishing 
+Electric and Gas Rate Plan (issued January 16, 2020) (“2020 Con Edison 
+Rate Order”). 
+11 Case 19-E-0378, Proceeding on Motion of the Commission as to the 
+Rates, Charges, Rules and Regulations of New York State Electric & Gas 
+Corporation for Electric Service, et al., Order Approving Electric and 
+Gas Rate Plans in Accord with Joint Proposal, with Modifications 
+(issued November 19, 2020) (“2020 NYSEG/RG&E Rate Order”). 
+
+
+--- Page 17 ---
+ORANGE AND ROCKLAND UTILITIES, INC. 
+DIRECT TESTIMONY OF EARNING ADJUSTMENT MECHANISMS PANEL 
+- 17 - 
+2) Avoidance of Counterfactuals: The proposed EAMs 
+1 
+have fixed performance targets and avoid 
+2 
+complicated verification processes and debatable 
+3 
+baseline assumptions, thereby making them easier to 
+4 
+administer. 
+5 
+3) Symmetry: The proposed EAMs are positive-only and 
+6 
+have symmetrical minimum and maximum performance 
+7 
+targets. 
+8 
+4) Size of EAM: The proposed EAMs have a total maximum 
+9 
+earning opportunity of 100 basis points. The size of 
+10 
+each EAM varies based on the underlying programs, 
+11 
+anticipated costs, and customer benefits.  
+12 
+5) Shape of the Line: The proposed EAMs are a function 
+13 
+of target achievement such that increasing awards 
+14 
+are linked to increasing performance.  
+15 
+6) Timeframe for Achievement: The proposed EAMs are 
+16 
+for three years, providing sufficient time for the 
+17 
+realization of outcome-based achievements. 
+18 
+Q.  Please describe how the Company’s EAM proposal aligns 
+19 
+with Commission’s recent guidance in other 
+20 
+proceedings. 
+21 
+
+
+--- Page 18 ---
+ORANGE AND ROCKLAND UTILITIES, INC. 
+DIRECT TESTIMONY OF EARNING ADJUSTMENT MECHANISMS PANEL 
+- 18 - 
+A.  The Company proposes the following changes that align 
+1 
+with the Commission’s guidance in recent orders and 
+2 
+proceedings: 
+3 
+ 
+1. Add Share the Savings (“STS”) Metrics 
+4 
+The Company proposes STS metrics that incentivize the 
+5 
+Company to achieve cost efficiencies in its electric 
+6 
+EE and gas EE programs. The proposed metrics are 
+7 
+designed to maximize customer benefits while 
+8 
+minimizing costs. The STS metrics align with the 
+9 
+Commission’s guidance in its December 2018 EE Order 
+10 
+(p. 67) in which the Commission states:  
+11 
+Incentives will be based on performance that 
+12 
+demonstrably saves money for ratepayers. EAMs 
+13 
+will not be an additional cost, nor will they 
+14 
+replace cost recovery of prudent expenditures; 
+15 
+rather, as a rule, they will be used to 
+16 
+incentivize cost reductions that allow utilities 
+17 
+to achieve or surpass their energy savings 
+18 
+targets with spending below authorized program 
+19 
+budgets.  
+20 
+ 
+21 
+2. Discontinue Energy Intensity Metrics  
+22 
+  
+The Company proposes to discontinue its Residential 
+23 
+and Commercial Energy Intensity metrics associated 
+24 
+with the EE EAM. The Company agrees with the 
+25 
+Commission that improvements in energy intensity are a 
+26 
+longer-term priority and the metric requires 
+27 
+
+
+--- Page 19 ---
+ORANGE AND ROCKLAND UTILITIES, INC. 
+DIRECT TESTIMONY OF EARNING ADJUSTMENT MECHANISMS PANEL 
+- 19 - 
+refinement in measurement and supporting techniques. 
+1 
+Specifically, the Commission states in the December 
+2 
+2018 EE Order (p. 68):  
+3 
+In the context of rate cases, however, it has 
+4 
+become apparent that such energy intensity 
+5 
+metrics are best suited for longer term 
+6 
+measurement of trends, which are not easily 
+7 
+accommodated when setting annual goals within a 
+8 
+one-to-three-year rate plan horizon.  For that 
+9 
+reason, utilities and Staff should work with 
+10 
+NYSERDA to determine the most effective 
+11 
+techniques and period for measuring energy 
+12 
+intensity improvements, which may be implemented 
+13 
+as EAMs or scorecards when appropriate.”  
+14 
+ 
+15 
+3. Include LMI in EE EAM  
+16 
+ 
+The Company proposes to include LMI EE programs in its 
+17 
+proposed EE EAM. LMI EE initiatives are an important 
+18 
+component towards advancement of the goals laid out in 
+19 
+various New York State energy and climate policy 
+20 
+matters including REV, New Efficiency New York 
+21 
+(“NENY”),12 and the CLCPA. These goals include energy 
+22 
+affordability and access to clean energy for LMI 
+23 
+residents and communities.  In its January 2020 NENY 
+24 
+ 
+12 Case 18-M-0084, In the Matter of a Comprehensive Energy Efficiency 
+Initiative, Order Authorizing Utility Energy Efficiency and Building 
+Electrification Portfolios through 2025. 
+
+
+--- Page 20 ---
+ORANGE AND ROCKLAND UTILITIES, INC. 
+DIRECT TESTIMONY OF EARNING ADJUSTMENT MECHANISMS PANEL 
+- 20 - 
+Order,13 the Commission approved 20 percent of 
+1 
+incremental EE State funding for serving the LMI 
+2 
+sector and laid out its expectation for an LMI-based 
+3 
+EAM metric stating:  
+4 
+As in-field experience with EAMs continues to 
+5 
+grow, metrics for EAMs will continue to be 
+6 
+refined and approaches to enhance efficiency and 
+7 
+effectiveness of EAMs will be examined. This is 
+8 
+expected to include EAM metrics that will balance 
+9 
+the multiple policy objectives being sought, 
+10 
+including metrics associated with the delivery of 
+11 
+the Statewide LMI Portfolio.14  
+12 
+ 
+13 
+4. Terminate Interconnection EAM  
+14 
+ 
+The Company has terminated the interconnection EAM 
+15 
+consistent with Commission’s direction to all New York 
+16 
+utilities in its Order Eliminating Interconnection 
+17 
+Earning Adjustment Mechanisms.15   
+18 
+Q.  In developing its EAM proposals, did the Company 
+19 
+consider EAMs recently approved by the Commission for 
+20 
+other New York utilities?  
+21 
+ 
+13 Case 18-M-0084, Order Authorizing Utility Energy Efficiency and 
+Building Electrification Portfolios through 2025 (issued January 16, 
+2020) (“January 2020 NENY Order”) 
+14 January 2020 NENY Order, pp. 107-108 
+15 Cases 16-M-0429 In the Matter of Earnings Adjustment Mechanism and 
+Scorecard Reforms Supporting the Commission's Reforming the Energy 
+Vision, et al., Order Eliminating Interconnection Earning Adjustment 
+Mechanisms (issued April 24, 2019).  
+
+
+--- Page 21 ---
+ORANGE AND ROCKLAND UTILITIES, INC. 
+DIRECT TESTIMONY OF EARNING ADJUSTMENT MECHANISMS PANEL 
+- 21 - 
+A.  Yes, the Company’s proposed Gas Peak Reduction metric 
+1 
+is similar to metrics approved by the Commission in 
+2 
+Con Edison and NYSEG/RG&E’s most recent rate cases. 
+3 
+This metric incentivizes the Company to reduce its 
+4 
+firm gas peak demand thereby reducing the Company’s 
+5 
+future supply and infrastructure needs and is 
+6 
+discussed later in this direct testimony.  
+7 
+Q.  Please discuss the Company’s performance in 2019 and 
+8 
+2020 regarding its current EAMs.  
+9 
+A.  In 2019, the Company achieved substantial customer, 
+10 
+environmental and system benefits as measured by the 
+11 
+EAM metrics. Specifically, the Company’s performance 
+12 
+met the maximum targets for the Electric Peak 
+13 
+Reduction, DER Utilization, MWh Reduction, and Carbon 
+14 
+Reduction metrics. The Company’s performance almost 
+15 
+met the maximum target for the Dth Reduction metric 
+16 
+and met the mid-point target for Residential Energy 
+17 
+Intensity. The Company’s performance did not meet the 
+18 
+minimum target for the Commercial Energy Intensity and 
+19 
+Innovative Rates Participation metrics.  
+20 
+ 
+In 2020, the Company currently projects that its 
+21 
+performance will meet the maximum targets for the DER 
+22 
+
+
+--- Page 22 ---
+ORANGE AND ROCKLAND UTILITIES, INC. 
+DIRECT TESTIMONY OF EARNING ADJUSTMENT MECHANISMS PANEL 
+- 22 - 
+Utilization, MWh Reduction, Carbon Reduction and Dth 
+1 
+Reduction metrics; and above the mid-point target for 
+2 
+the Storage Roadmap metric. The Company currently 
+3 
+projects that its performance will not meet the 
+4 
+minimum target for the Electric Peak Reduction, Energy 
+5 
+Intensity, and Innovative Rates Participation metrics.  
+6 
+Q. 
+Please discuss the Company’s reasoning for 
+7 
+discontinuing the Residential Innovative Rates 
+8 
+Participation metric.  
+9 
+A. 
+The Company proposes to discontinue the Residential 
+10 
+Innovative Rates Participation metric.  This proposal 
+11 
+does not eliminate the Company’s incentive to increase 
+12 
+residential participation in innovative rates 
+13 
+programs.  The Company continues to have an incentive 
+14 
+to increase residential participation in innovative 
+15 
+rates programs because voluntary time-of-use rate 
+16 
+participation, for example, will help contribute to 
+17 
+achieving the Peak Reduction targets and incentives.   
+18 
+Q.  Please discuss how the Company’s proposed EAMs 
+19 
+contribute towards the advancement of various 
+20 
+Commission and New York State policy objectives.  
+21 
+
+
+--- Page 23 ---
+ORANGE AND ROCKLAND UTILITIES, INC. 
+DIRECT TESTIMONY OF EARNING ADJUSTMENT MECHANISMS PANEL 
+- 23 - 
+A.  The Company’s proposed metrics are designed to advance 
+1 
+the policy goals laid out in various New York State 
+2 
+energy and climate policy matters including REV, NE 
+3 
+NY, and the CLCPA.  
+4 
+ 
+In the REV Track Two Order (pp. 53-93), the Commission 
+5 
+identified multiple customer benefits that can be 
+6 
+achieved from utility actions taken to implement the 
+7 
+policy objectives of the REV Proceeding and which form 
+8 
+the justification for EAMs. These include lower 
+9 
+customer costs through improved efficiency in capital 
+10 
+investments, optimization of utility infrastructure, 
+11 
+and lower energy usage through EE.  
+12 
+The Commission’s NENY initiative further accelerated 
+13 
+the progress towards the clean energy future by 
+14 
+setting ambitious goals, including 185 trillion 
+15 
+British thermal units (TBtu) of customer-level energy 
+16 
+reduction statewide by 2025.  
+17 
+Moreover, the CLCPA establishes a framework to 
+18 
+accelerate the transition toward the clean energy 
+19 
+future. The CLCPA outlines various policy objectives 
+20 
+including reduction in greenhouse gas (“GHG”) 
+21 
+emissions of 100 percent over 1990 levels by the year 
+22 
+
+
+--- Page 24 ---
+ORANGE AND ROCKLAND UTILITIES, INC. 
+DIRECT TESTIMONY OF EARNING ADJUSTMENT MECHANISMS PANEL 
+- 24 - 
+2050, as well as greater emphasis on energy savings 
+1 
+and clean energy market penetration in the LMI market 
+2 
+and in disadvantaged communities.  
+3 
+The initiatives that form the basis for the Company’s 
+4 
+proposed EAMs directly support the advancement of 
+5 
+these policy objectives, including cost-effective 
+6 
+reduction in GHG emissions, increased beneficial 
+7 
+electrification that reduces overall costs, reduced 
+8 
+infrastructure needs through electric and gas peak 
+9 
+reductions, customer savings through efficient energy 
+10 
+usage, and increased access to clean energy through 
+11 
+DER market development.  The Company has aligned its 
+12 
+EAMs to achieve targets above the targets set by the 
+13 
+Commission in the January 2020 NENY Order. Moreover, 
+14 
+the Company is committed toward the energy 
+15 
+affordability objectives envisioned by the Commission 
+16 
+and the CLCPA and has proposed to include LMI EE 
+17 
+measures as part of its EE EAM metrics.   
+18 
+System Efficiency EAM 
+19 
+Q. 
+Please summarize the Company’s proposed changes to the 
+20 
+SE EAM. 
+21 
+
+
+--- Page 25 ---
+ORANGE AND ROCKLAND UTILITIES, INC. 
+DIRECT TESTIMONY OF EARNING ADJUSTMENT MECHANISMS PANEL 
+- 25 - 
+A. 
+The Company proposes to continue the current Peak 
+1 
+Reduction and Storage Roadmap metrics and separate the 
+2 
+DER Utilization metric into two metrics. The Company’s 
+3 
+proposed SE EAM metrics are: (1) Peak Reduction; (2) 
+4 
+Storage Roadmap; (3) Solar PV Utilization; and (4) 
+5 
+Energy Storage Utilization.  
+6 
+Peak Reduction 
+7 
+Q. 
+Please describe the current Peak Reduction metric.  
+8 
+A. 
+The current Peak Reduction metric is an outcome-based 
+9 
+metric that incentivizes the Company to reduce its 
+10 
+peak load for its service territory on a year-over-
+11 
+year percentage basis.  The Company determines its 
+12 
+system weather-normalized peak load using the same 
+13 
+methodology used in the Company’s annual submission to 
+14 
+the New York Independent System Operator (“NYISO”) of 
+15 
+its weather-normalized New York Control Area (“NYCA”) 
+16 
+coincident system peak. The Company also reduces the 
+17 
+weather-normalized peak load to account for DR events 
+18 
+from the Company’s programs and the NYISO’s Installed 
+19 
+Capacity – Special Case Resources program (“NYISO – 
+20 
+SCR”).  
+21 
+
+
+--- Page 26 ---
+ORANGE AND ROCKLAND UTILITIES, INC. 
+DIRECT TESTIMONY OF EARNING ADJUSTMENT MECHANISMS PANEL 
+- 26 - 
+Q. 
+Is the Company proposing changes to the Peak Reduction 
+1 
+metric?  
+2 
+A. 
+Yes. The Company proposes two changes to the Peak 
+3 
+Reduction metric.  
+4 
+Q. 
+Please describe the first proposed change to the peak 
+5 
+reduction metric.  
+6 
+A. 
+First, the Company proposes to simplify the 
+7 
+methodology used to determine the weather-normalized 
+8 
+peak load. The Company believes that the current 
+9 
+methodology, which includes a demand response 
+10 
+adjustment, involves unnecessary complexity. 
+11 
+Prospectively, the Company proposes to use the 
+12 
+adjusted NYCA Coincident Peak Forecast for the NYISO 
+13 
+portion of the Company’s service territory issued 
+14 
+annually in each December prior to the year of the 
+15 
+forecast for the forecasted load by the NYISO through 
+16 
+their Business Issues Committee, Load Forecasting Task 
+17 
+Force.16  The Company also proposes to use the same 
+18 
+Load Forecasting Task Force December update for the 
+19 
+annual weather-normalized load for the most recent 
+20 
+ 
+16 As typically posted on https://www.nyiso.com/lftf 
+
+
+--- Page 27 ---
+ORANGE AND ROCKLAND UTILITIES, INC. 
+DIRECT TESTIMONY OF EARNING ADJUSTMENT MECHANISMS PANEL 
+- 27 - 
+peak period (i.e., December 2020 update reports the 
+1 
+forecasted 2021 load and the 2020 weather-normalized 
+2 
+peak).  Specifically, the Company proposes the metric 
+3 
+be based on the Company's annual weather-normalized 
+4 
+load and forecast prior to the allocation of losses by 
+5 
+NYISO.   
+6 
+Q. 
+What is the benefit of using the NYISO published peak 
+7 
+loads?  
+8 
+A. 
+The primary benefit of using the NYISO published peak 
+9 
+loads is the enhanced transparency in the data used to 
+10 
+measure the peak reduction metric.  
+11 
+Q. 
+Why is the Company proposing the metric be based on 
+12 
+the Company's loads prior to the allocation of losses 
+13 
+by NYISO?   
+14 
+A. 
+The Company’s proposal to use forecast and actual 
+15 
+loads prior to the NYISO’s allocation of system-wide 
+16 
+losses better reflects the Company’s efforts to reduce 
+17 
+peak loads in its service territory.  
+18 
+Q. 
+Please explain.  
+19 
+A. 
+The Company’s service territory is included in NYISO 
+20 
+Zone G, which also includes the service territories of 
+21 
+two other electric utilities. As part of its 
+22 
+
+
+--- Page 28 ---
+ORANGE AND ROCKLAND UTILITIES, INC. 
+DIRECT TESTIMONY OF EARNING ADJUSTMENT MECHANISMS PANEL 
+- 28 - 
+forecasting and reporting process, the NYISO 
+1 
+proportionally allocates to Zone G energy losses 
+2 
+related to the three utilities, including O&R. Since 
+3 
+the losses are allocated proportionally, they do not 
+4 
+necessarily reflect the actual losses in the Company’s 
+5 
+service territory. As a result, using forecast and 
+6 
+actual peak loads after allocation of systemwide 
+7 
+losses may not accurately reflect changes in peak 
+8 
+loads in O&R’s service territory.   
+9 
+Q. 
+Please describe the second proposed change to the peak 
+10 
+reduction metric.  
+11 
+A. 
+Second, for target setting, the Company proposes to 
+12 
+implement a downward adjustment in NYISO forecasted 
+13 
+peak load to reflect a median forecasting error over 
+14 
+the past ten years (negative 0.49 percent for 2011 to 
+15 
+2020). Including this adjustment addresses the 
+16 
+possibility that the Company may achieve peak 
+17 
+reductions as a result of forecasting errors.  In 
+18 
+addition, the Company proposes to use the Standard 
+19 
+Error of the ten-year weather-normalized NYISO peak 
+20 
+load for the Company’s service territory as published 
+21 
+
+
+--- Page 29 ---
+ORANGE AND ROCKLAND UTILITIES, INC. 
+DIRECT TESTIMONY OF EARNING ADJUSTMENT MECHANISMS PANEL 
+- 29 - 
+in the NYISO LFTF update issued in December of each 
+1 
+year to develop the proposed peak reduction targets.  
+2 
+Q. 
+Please describe the Company’s proposal for Peak 
+3 
+Reduction targets.  
+4 
+A. 
+The Company proposes maximum, year-over-year Peak 
+5 
+Reduction targets of 2.34% in 2022, 2023, and 2024, 
+6 
+respectively. For details on the Peak Reduction 
+7 
+targets, please refer to Exhibit ___ (EAMP-1). 
+8 
+Q. 
+Please describe how the Company developed the Peak 
+9 
+Reduction targets.  
+10 
+A. 
+The Company developed the Peak Reduction targets in 
+11 
+four steps.  
+12 
+ 
+First, the Company calculated a median forecasting 
+13 
+error of negative 0.49 percent based on the difference 
+14 
+between actual and forecasted NYISO peak load for the 
+15 
+O&R service territory over the past ten years as 
+16 
+published in the NYISO LFTF update issued annually in 
+17 
+December of each year.  
+18 
+  
+Second, the Company developed a baseline by applying 
+19 
+the median forecasting error to the 2021 forecasted 
+20 
+NYISO peak load for the O&R service territory.  
+21 
+
+
+--- Page 30 ---
+ORANGE AND ROCKLAND UTILITIES, INC. 
+DIRECT TESTIMONY OF EARNING ADJUSTMENT MECHANISMS PANEL 
+- 30 - 
+Third, the Company calculated the Standard Error of 
+1 
+variations in the 2011-2020 actual peak loads for the 
+2 
+O&R service territory.  
+3 
+ 
+Fourth, the Company developed the minimum, mid-point, 
+4 
+and maximum targets by applying the baseline or 
+5 
+adjusted 2021 forecasted NYISO peak load for the O&R 
+6 
+service territory to the Standard Error in multiples 
+7 
+of 0.25, 1.00, and 1.75, respectively.  
+8 
+Storage Roadmap  
+9 
+Q. 
+Please describe the Company’s current Storage Roadmap 
+10 
+metric.  
+11 
+A. 
+The Company’s current Storage Roadmap metric is an 
+12 
+outcome-based metric designed to achieve reliability 
+13 
+benefits and to improve load factors in select 
+14 
+circuits that provide significant benefits to isolated 
+15 
+areas. This metric measures the average load factor, 
+16 
+as compared to the system load factor, of six selected 
+17 
+circuits in Blooming Grove and Warwick where there are 
+18 
+significant customer and system benefit opportunities.  
+19 
+Q. 
+How did the Company select these six distribution 
+20 
+circuits? 
+21 
+
+
+--- Page 31 ---
+ORANGE AND ROCKLAND UTILITIES, INC. 
+DIRECT TESTIMONY OF EARNING ADJUSTMENT MECHANISMS PANEL 
+- 31 - 
+A. 
+The Company identified six circuits serving load in 
+1 
+the Blooming Grove and Warwick areas, where improving 
+2 
+load factor will result in maximum customer benefits. 
+3 
+Peak reduction or shift of customer usage patterns to 
+4 
+off-peak usage on these circuits may reduce risk under 
+5 
+contingency conditions, improve operating conditions, 
+6 
+and potentially result in reliability improvements for 
+7 
+these circuits. Additional information and details can 
+8 
+be found in the Company’s Storage Roadmap EAM 
+9 
+Compliance Filing dated November 26, 2019, filed in 
+10 
+the Commission’s docket for the 2018 O&R Rate Cases. 
+11 
+Q. 
+Please describe the Company’s plans to implement peak 
+12 
+load reduction initiatives on the selected circuits. 
+13 
+A. 
+To achieve the circuit peak load reductions, the 
+14 
+Company plans to evaluate implementation of targeted 
+15 
+EE and DR programs in the specified circuit areas. 
+16 
+Implementation measures may include battery storage 
+17 
+and DR enablement. 
+18 
+Q. 
+Is the Company proposing changes to the Storage 
+19 
+Roadmap metric and targets?  
+20 
+
+
+--- Page 32 ---
+ORANGE AND ROCKLAND UTILITIES, INC. 
+DIRECT TESTIMONY OF EARNING ADJUSTMENT MECHANISMS PANEL 
+- 32 - 
+A. 
+No. The Company is not proposing changes to the 
+1 
+Storage Roadmap metric or current targets established 
+2 
+under the 2018 O&R Rate Cases.  
+3 
+Q. 
+Please discuss the reasoning behind the Company’s 
+4 
+proposal to continue the Storage Roadmap metric.  
+5 
+A. 
+The Company proposes to continue the Storage Roadmap 
+6 
+metric for the following three reasons:  
+7 
+First, the metric is consistent with the Commission’s 
+8 
+Energy Storage Roadmap Order,17 which recommended that 
+9 
+load factor and peak reduction be used as a basis for 
+10 
+an EAM that could be effective in helping incentivize 
+11 
+deployment of energy storage and other DER 
+12 
+technologies. The Company’s current Storage Roadmap 
+13 
+EAM facilitates achievement of the key objectives 
+14 
+articulated by the Commission in the REV Proceeding 
+15 
+and the Energy Storage Roadmap Order. 
+16 
+Second, the initiatives that support this metric 
+17 
+provide valuable customer benefits including lower 
+18 
+costs by improving overall system efficiency, 
+19 
+ 
+17 Case 18-E-0130, In the Matter of Energy Storage Deployment Program, 
+Order Establishing Energy Storage Goal and Deployment Policy, (issued 
+December 13, 2018) (“Energy Storage Roadmap Order”). 
+
+
+--- Page 33 ---
+ORANGE AND ROCKLAND UTILITIES, INC. 
+DIRECT TESTIMONY OF EARNING ADJUSTMENT MECHANISMS PANEL 
+- 33 - 
+encouraging energy conservation, and enabling customer 
+1 
+market participation. This metric is designed to 
+2 
+facilitate the Company’s involvement with innovative 
+3 
+third-party partnerships, technology solutions, and 
+4 
+new planning and operating models that provide value 
+5 
+to customers. 
+6 
+Third, as the Company only began implementing this 
+7 
+metric in 2020, the process of building programs and 
+8 
+developing strategies to support achievement of this 
+9 
+metric is still underway. Continuation of this metric 
+10 
+will allow the Company to continue building the 
+11 
+programs and strategies that maximize customer and 
+12 
+system benefits.  
+13 
+Q. 
+Please describe the Company’s proposed targets for the 
+14 
+circuit peak load reductions.  
+15 
+A. 
+The Company proposes to maintain its currently 
+16 
+approved 2020-2021 targets for 2022-2024, i.e., 
+17 
+improvement in the average circuit load factors 
+18 
+compared to system load factor by a maximum of 5.10 
+19 
+percent each year. Exhibit ___ (EAMP-1) sets forth the 
+20 
+details on Storage Roadmap targets. 
+21 
+
+
+--- Page 34 ---
+ORANGE AND ROCKLAND UTILITIES, INC. 
+DIRECT TESTIMONY OF EARNING ADJUSTMENT MECHANISMS PANEL 
+- 34 - 
+Q. 
+Please describe the development of Company’s proposed 
+1 
+Storage Roadmap targets.  
+2 
+A. 
+The Company developed the Storage Roadmap targets in 
+3 
+collaboration with stakeholders, including Department 
+4 
+of Public Service Staff (“Staff”), as part of a recent 
+5 
+O&R 2018 Rate Cases compliance filing. The Company 
+6 
+based the Storage Roadmap targets on achieving a 
+7 
+circuit load factor that provides a 50 percent 
+8 
+improvement in the ratio to system load factor.  
+9 
+DER Utilization 
+10 
+Q. 
+Please describe the Company’s currently authorized DER 
+11 
+Utilization metric.  
+12 
+A. 
+The DER Utilization metric measures the Company’s 
+13 
+efforts to expand the adoption of DERs in the 
+14 
+Company’s service territory. The metric measures the 
+15 
+incremental annualized megawatt-hours (“MWh”) from 
+16 
+several types of DERs18 within the Company’s service 
+17 
+territory, including commercial solar photovoltaic 
+18 
+(“PV”), Community Distributed Generation (“CDG”), 
+19 
+ 
+18 DER MW deployment conversion to MWh: DER (MWh) = [end-of-year MWDER] x 
+8760 x Capacity Factor 
+
+
+--- Page 35 ---
+ORANGE AND ROCKLAND UTILITIES, INC. 
+DIRECT TESTIMONY OF EARNING ADJUSTMENT MECHANISMS PANEL 
+- 35 - 
+combined heat and power (“CHP”), electric energy 
+1 
+storage resources and other Distributed Generation 
+2 
+(“DG”) such as wind, hydro and fuel cells.  
+3 
+Q. 
+Is the Company proposing changes to the DER 
+4 
+Utilization metric?  
+5 
+A. 
+Yes. The Company proposes four changes to the DER 
+6 
+Utilization metric.  
+7 
+First, the Company proposes to separate the DER 
+8 
+Utilization metric into two metrics: Solar PV 
+9 
+Utilization and Energy Storage Utilization. The change 
+10 
+reflects that the DER technologies are important, 
+11 
+providing substantial system and customer benefits and 
+12 
+supporting achievement of clean energy goals. The 
+13 
+change also reflects that the DER technologies operate 
+14 
+independently, having in many cases different market 
+15 
+characteristics.  Accordingly, the Company proposes to 
+16 
+design the EAM metrics to operate independently 
+17 
+without interdependence in target achievement.  
+18 
+Second, the Company proposes to remove Other DG and 
+19 
+CHP technologies from the metric. CHP systems do not 
+20 
+significantly contribute to the achievement of the 
+21 
+State’s decarbonization goals.  
+22 
+
+
+--- Page 36 ---
+ORANGE AND ROCKLAND UTILITIES, INC. 
+DIRECT TESTIMONY OF EARNING ADJUSTMENT MECHANISMS PANEL 
+- 36 - 
+Third, the Company proposes to add residential solar 
+1 
+PV to the Solar PV Utilization metric. The Company 
+2 
+believes that the DER Utilization metric has resulted 
+3 
+in substantial customer and environmental benefits and 
+4 
+should be expanded to include all types of Solar PV 
+5 
+installations in Company’s service territory.   
+6 
+And fourth, the Company proposes that the targets and 
+7 
+incentives not achieved between the minimum level and 
+8 
+maximum level for the Energy Storage Utilization 
+9 
+metric be allowed to carry forward to the next rate 
+10 
+year because energy storage deployment is a new 
+11 
+technology and can vary from year to year. Having the 
+12 
+ability to carryforward targets and incentives to the 
+13 
+next rate year recognizes the Company’s efforts to 
+14 
+achieving the aggregate level of Energy Storage 
+15 
+Utilization over the three-year term of the EAMs 
+16 
+rather than penalizing the Company for changes in the 
+17 
+timing of storage projects. For details and an 
+18 
+example, please refer to Exhibit ___ (EAMP-1).  
+19 
+Q. 
+Please describe the Company’s proposed targets for the 
+20 
+Solar PV Utilization metric.  
+21 
+
+
+--- Page 37 ---
+ORANGE AND ROCKLAND UTILITIES, INC. 
+DIRECT TESTIMONY OF EARNING ADJUSTMENT MECHANISMS PANEL 
+- 37 - 
+A. 
+The Company proposes maximum targets of 36.9 GWh, 39.7 
+1 
+GWh, and 42.4 GWh of Solar PV utilization in 2022, 
+2 
+2023, and 2024, respectively. The targets will be 
+3 
+measured annually at the end of the measurement 
+4 
+period, i.e., January 1 through December 31 of each 
+5 
+year. For details on Solar PV Utilization targets, 
+6 
+please refer to Exhibit ___ (EAMP-1). 
+7 
+Q. 
+Please describe how the Company developed the Solar PV 
+8 
+Utilization targets. 
+9 
+A. 
+The proposed Solar PV baseline was based on a linear 
+10 
+forecast utilizing the Company’s Solar PV 
+11 
+installations during the historical 2010-2019 period.  
+12 
+The Solar PV targets were based on the Standard Error 
+13 
+of the historical 2010-2019 data. Specifically, the 
+14 
+proposed Minimum, Mid-Point and Maximum targets are, 
+15 
+respectively, 0.25 Standard Error, 1.00 Standard 
+16 
+Error, and 1.75 Standard Error. The Company’s Solar PV 
+17 
+Utilization target and measurement setting methodology 
+18 
+is provided in Exhibit ___ (EAMP-1).  
+19 
+Q. 
+Please describe how the Energy Storage Utilization 
+20 
+targets were developed? 
+21 
+
+
+--- Page 38 ---
+ORANGE AND ROCKLAND UTILITIES, INC. 
+DIRECT TESTIMONY OF EARNING ADJUSTMENT MECHANISMS PANEL 
+- 38 - 
+A. 
+The proposed Energy Storage Utilization maximum 
+1 
+targets were based on (1) a three-year average of the 
+2 
+Company’s projection of CDG, large scale, and small-
+3 
+scale (<50 kW) storage installations in 2022-2024 plus 
+4 
+(2) the Company’s projection in each year of Non-Wires 
+5 
+Alternative NWA installations. The baseline was 
+6 
+calculated as 50.0 percent reduction from the maximum 
+7 
+targets and the proposed minimum targets reflect a 5.0 
+8 
+percent increase above the baseline.  The Company’s 
+9 
+Energy Storage Utilization target setting and 
+10 
+measurement methodology is provided in Exhibit ___ 
+11 
+(EAMP-1). 
+12 
+ 
+13 
+Energy Efficiency EAM 
+14 
+Q. 
+Please summarize the Company’s proposed changes to the 
+15 
+EE EAM. 
+16 
+A. 
+The Company proposes to discontinue the Residential 
+17 
+and Commercial Energy Intensity metrics, continue the 
+18 
+MWh Reduction metric, and add a new Electric STS 
+19 
+metric.  
+20 
+
+
+--- Page 39 ---
+ORANGE AND ROCKLAND UTILITIES, INC. 
+DIRECT TESTIMONY OF EARNING ADJUSTMENT MECHANISMS PANEL 
+- 39 - 
+Q. 
+Please explain the Company’s reasoning for 
+1 
+discontinuing the Energy Intensity metrics.  
+2 
+A. 
+As discussed earlier, the Company agrees with the 
+3 
+Commission that improvements in energy intensity 
+4 
+should be a longer-term priority and the metric 
+5 
+requires refinement in measurement and supporting 
+6 
+techniques.  
+7 
+MWH Reduction Metric 
+8 
+Q. 
+Please describe the current MWH Reduction metric.  
+9 
+A. 
+The current MWh Reduction metric is a programmatic 
+10 
+metric that incentivizes the Company’s efforts to 
+11 
+achieve EE savings in each Rate Year. The metric is 
+12 
+measured as the sum of MWh savings achieved from all 
+13 
+Company-administered electric EE programs. As a 
+14 
+precondition to earning the incentive associated with 
+15 
+this metric, the Estimated Useful Life (“EUL”) of the 
+16 
+Company’s EE portfolio must be at least ten years.  
+17 
+Q. 
+Is the Company proposing changes to the MWh Reduction 
+18 
+metric?  
+19 
+A. 
+Yes. The Company proposes two changes to the MWh 
+20 
+Reduction metric.  
+21 
+
+
+--- Page 40 ---
+ORANGE AND ROCKLAND UTILITIES, INC. 
+DIRECT TESTIMONY OF EARNING ADJUSTMENT MECHANISMS PANEL 
+- 40 - 
+ 
+First, similar to the DER Energy Storage Utilization 
+1 
+metric, the Company proposes that the targets and 
+2 
+incentives not achieved between the minimum level and 
+3 
+maximum level for the MWH reduction metric be allowed 
+4 
+to carry forward to the next rate year.  Such carry 
+5 
+forward is appropriate because energy projects that 
+6 
+are comprehensive and address more than traditional 
+7 
+lighting upgrades are more complex and may need longer 
+8 
+timelines for completion.  By allowing this change, 
+9 
+the Company has the opportunity to earn the basis 
+10 
+points for a prior period, that are currently left 
+11 
+behind if the maximum target is not achieved.  This 
+12 
+will facilitate the achievement of the maximum target 
+13 
+for the entire rate period, provide the opportunity to 
+14 
+over-achieve in a future period which does not 
+15 
+currently exist, and maximize customer energy 
+16 
+benefits. By allowing more fluidity, performance is 
+17 
+maximized, and the higher potential energy goals are 
+18 
+met.  Having the ability to carry forward targets and 
+19 
+incentives to the next rate year recognizes the 
+20 
+Company’s efforts to achieving the aggregate level of 
+21 
+MWH reduction over the three-year term of the EAMs 
+22 
+
+
+--- Page 41 ---
+ORANGE AND ROCKLAND UTILITIES, INC. 
+DIRECT TESTIMONY OF EARNING ADJUSTMENT MECHANISMS PANEL 
+- 41 - 
+rather than penalizing the Company for 
+1 
+underachievement in one year without any incentive to 
+2 
+over perform in the next year.    
+3 
+ 
+Second, as discussed earlier, the Company proposes to 
+4 
+include LMI electric EE targets as part of the MWh 
+5 
+Reduction metric.  
+6 
+ 
+Importantly, the Company proposes to continue the 
+7 
+current precondition to earning an incentive 
+8 
+associated with this metric that the EUL of the 
+9 
+Company’s EE portfolio must be at least ten years. 
+10 
+Q. 
+Please describe the Company’s plans to achieve the MWH 
+11 
+Reduction metric. 
+12 
+A. 
+The Company plans to achieve the MWH Reduction Metric 
+13 
+through its EE programs, as discussed in the direct 
+14 
+testimony of the Company’s Customer Service Panel.  
+15 
+Q. 
+Please describe the Company’s proposed targets for the 
+16 
+MWH Reduction metric.  
+17 
+A. 
+The proposed targets for MWh Reduction metric are 
+18 
+designed to be above and beyond the targets approved 
+19 
+by the Commission. The Company proposes that the 
+20 
+minimum and maximum targets be set, respectively, at 
+21 
+5.0 percent and 35.0 percent above the Commission’s 
+22 
+
+
+--- Page 42 ---
+ORANGE AND ROCKLAND UTILITIES, INC. 
+DIRECT TESTIMONY OF EARNING ADJUSTMENT MECHANISMS PANEL 
+- 42 - 
+approved targets included in the January 2020 NENY 
+1 
+Order. For further details on the MWh Reduction 
+2 
+targets please refer to Exhibit ___ (EAMP-1).  
+3 
+Electric STS 
+4 
+Q. 
+Please describe the Company’s proposal for the 
+5 
+Electric STS metric.  
+6 
+A. 
+The Company proposes to implement a STS metric that 
+7 
+incentivizes the Company’s efforts to achieve cost 
+8 
+efficiencies in its non-LMI Electric EE programs. This 
+9 
+metric is designed to reduce the unit costs of 
+10 
+lifetime MWh savings achieved from the Company’s EE 
+11 
+programs, while increasing the overall energy savings. 
+12 
+Under this metric, the Company will be awarded 30 
+13 
+percent of unit cost savings realized from the 
+14 
+Company’s acquired non-LMI EE savings, once the 
+15 
+baseline MWh target is achieved by the Company.  
+16 
+Q. 
+Please describe the calculation of performance targets 
+17 
+and incentives under the Electric STS metric.  
+18 
+A. 
+The performance targets and incentives will be 
+19 
+calculated in three steps. First, the Company will 
+20 
+calculate the unit cost savings achieved in acquiring 
+21 
+the non-LMI energy savings relative to the baseline 
+22 
+
+
+--- Page 43 ---
+ORANGE AND ROCKLAND UTILITIES, INC. 
+DIRECT TESTIMONY OF EARNING ADJUSTMENT MECHANISMS PANEL 
+- 43 - 
+unit costs. Second, the unit cost savings will be 
+1 
+multiplied by the acquired non-LMI lifecycle MWh 
+2 
+savings. Third, 30 percent of the resulting product 
+3 
+will be the Company’s share of the cost savings.  
+4 
+Q. 
+Please describe the Company’s proposed baseline 
+5 
+targets for the Electric STS metric.  
+6 
+A. 
+The Company proposes the baseline targets to be the 
+7 
+non-LMI EE targets approved by the Commission in the 
+8 
+January 2020 NENY Order.  
+9 
+Q. 
+What are the primary benefits in including two EE 
+10 
+related metrics in the EE EAM – the STS metric and the 
+11 
+MWH Reduction metric? 
+12 
+A. 
+The primary benefit in including both of these metrics 
+13 
+is that they incentivize different achievements.   
+14 
+The STS metric measures the Company’s cost efficiency 
+15 
+in delivering EE programs to customers.  However, the 
+16 
+Company’s EE programs are already cost efficient as 
+17 
+its 2021 budgeted delivery cost of $187 per MWH is 33 
+18 
+percent below the statewide average of $278 per MWH.  
+19 
+Thus, the Company’s ability to achieve the STS metric 
+20 
+is more difficult to achieve and more limited. 
+21 
+
+
+--- Page 44 ---
+ORANGE AND ROCKLAND UTILITIES, INC. 
+DIRECT TESTIMONY OF EARNING ADJUSTMENT MECHANISMS PANEL 
+- 44 - 
+In comparison, the MWH Reduction metric encourages 
+1 
+longer life measures, increases performance above NENY 
+2 
+targets, and includes an additional program - LMI.  
+3 
+This addition is important as it incentivizes the 
+4 
+Company’s efforts to identify, encourage and 
+5 
+proactively deliver EE programs to the LMI community.   
+6 
+Q. 
+Please describe the benefits of Company’s proposed EE 
+7 
+EAM. 
+8 
+A. 
+The REV Track Two Order (pp. 79-83) identified the EE 
+9 
+EAM as critical to achieving the objectives of REV. 
+10 
+Incremental energy savings help to reduce customer 
+11 
+bills, through reduced energy usage costs for 
+12 
+customers, as well as reduced potential capacity costs 
+13 
+related to peak demand periods. The expansion of EE 
+14 
+programs also raises customer awareness of the 
+15 
+benefits to be derived from the efficient use of 
+16 
+energy. Moreover, reduced energy usage provides broad 
+17 
+environmental benefits including reduced carbon and 
+18 
+GHG emissions and supports the CLCPA’s goals.  
+19 
+ 
+20 
+
+
+--- Page 45 ---
+ORANGE AND ROCKLAND UTILITIES, INC. 
+DIRECT TESTIMONY OF EARNING ADJUSTMENT MECHANISMS PANEL 
+- 45 - 
+Environmentally Beneficial Electrification (“EBE”) EAM 
+1 
+Q. 
+Please summarize the Company’s proposed changes to the 
+2 
+EBE EAM. 
+3 
+A. 
+The Company proposes to continue the Carbon Reduction 
+4 
+metric. The Company also recognizes the Commission’s 
+5 
+recently approved EV Make-Ready STS metric for all New 
+6 
+York electric utilities. Accordingly, the Company’s 
+7 
+proposed EBE EAM metrics are: (1) Carbon Reduction; 
+8 
+and (2) EV Make-Ready Program STS. 
+9 
+Carbon Reduction Metric 
+10 
+Q. 
+Please describe the Company’s current Carbon Reduction 
+11 
+metric.  
+12 
+A. 
+The Company’s current Carbon Reduction metric 
+13 
+incentivizes the Company’s efforts to reduce carbon 
+14 
+emissions by facilitating greater adoption of 
+15 
+technologies that use electricity to reduce carbon 
+16 
+emissions relative to traditional technologies that 
+17 
+rely on carbon-intensive fuel sources. These 
+18 
+technologies include air-source heat pumps (“ASHPs”), 
+19 
+ground-source heat pumps (“GSHPs”) and EVs. The 
+20 
+incremental lifetime tons of carbon are calculated as 
+21 
+
+
+--- Page 46 ---
+ORANGE AND ROCKLAND UTILITIES, INC. 
+DIRECT TESTIMONY OF EARNING ADJUSTMENT MECHANISMS PANEL 
+- 46 - 
+the number of incremental units multiplied by the 
+1 
+assumed avoided tons of CO2 multiplied by the average 
+2 
+technology life.19  
+3 
+Q. 
+Is the Company proposing changes to the Carbon 
+4 
+Reduction metric?  
+5 
+A. 
+Yes.  The Company proposes to add heat pump water 
+6 
+heaters (“HPWHs”) to the list of electric technologies 
+7 
+that reduce carbon emissions.  The Company provides 
+8 
+rebates for HPWHs through its Clean Energy Program. 
+9 
+Q. 
+Please describe the Company’s proposed targets for the 
+10 
+Carbon Reduction metric.  
+11 
+A. 
+The Company proposes maximum targets of 97.7, 108.9, 
+12 
+and 119.1 in thousands of metric tons of CO2 reduced in 
+13 
+2022, 2023, and 2024, respectively. The targets will 
+14 
+be measured annually at the end of the measurement 
+15 
+period, i.e., January 1 through December 31 of each 
+16 
+year. For details on Carbon Reduction targets and 
+17 
+measurements, please refer to Exhibit ___ (EAMP-1). 
+18 
+ 
+19 Assumed as ten years for EVs, 15 years for ASHPs, and 25 years for 
+GSHPs. 
+
+
+--- Page 47 ---
+ORANGE AND ROCKLAND UTILITIES, INC. 
+DIRECT TESTIMONY OF EARNING ADJUSTMENT MECHANISMS PANEL 
+- 47 - 
+Q. 
+Please describe how the Company developed the Carbon 
+1 
+Reduction targets.  
+2 
+A. 
+The Company’s proposed Carbon Reduction targets are 
+3 
+based on the projected increase in the EBE 
+4 
+technologies mentioned above.  
+5 
+Q. 
+How were proposed targets for EVs developed? 
+6 
+A. 
+The proposed baseline for 2022-2024 EV targets was 
+7 
+based on a linear forecast utilizing the number of EVs 
+8 
+added in Company’s service territory during the period 
+9 
+of 2010-2019. The proposed targets for EVs are based 
+10 
+on the Standard Error of the historical 2010-2019 
+11 
+data. The Company proposes Minimum, Mid-Point and 
+12 
+Maximum targets at 0.25 Standard Error, 1.00 Standard 
+13 
+Error, and 1.75 Standard Error, respectively. The 
+14 
+Company’s EV target setting and measurement 
+15 
+methodology is provided in Exhibit ___ (EAMP-1).  
+16 
+Q. 
+How were the targets for ASHPs, GSHPs, and HPWHs 
+17 
+developed? 
+18 
+A. 
+The proposed baselines for 2022-2024 were based on the 
+19 
+Company’s projection of heat pump installations in 
+20 
+2022-2024 which reflects NENY targets. The proposed 
+21 
+targets for heat pumps are based on the Standard Error 
+22 
+
+
+--- Page 48 ---
+ORANGE AND ROCKLAND UTILITIES, INC. 
+DIRECT TESTIMONY OF EARNING ADJUSTMENT MECHANISMS PANEL 
+- 48 - 
+of the historical and projection 2019-2025 data. The 
+1 
+Company proposes Minimum, Mid-Point and Maximum 
+2 
+targets at 0.25 Standard Error, 1.00 Standard Error, 
+3 
+and 1.75 Standard Error, respectively. The Company’s 
+4 
+heat pumps target setting and measurement methodology 
+5 
+is provided in Exhibit ___ (EAMP-1). 
+6 
+Q. 
+Please describe the overall benefits of Company’s 
+7 
+proposed EBE EAM.  
+8 
+A. 
+Beneficial electrification will play a critical role 
+9 
+in the achievement of New York State’s clean energy 
+10 
+goals. Beneficial electrification, when managed 
+11 
+properly, increases electric load without incurring 
+12 
+additional utility infrastructure costs. This results 
+13 
+in optimized utilization of the system and reductions 
+14 
+in costs for customers. Electrification of heating and 
+15 
+transportation, in place of traditional fuels like oil 
+16 
+and natural gas, delivers substantial customer and 
+17 
+system benefits. 
+18 
+Q. 
+Does the Company plan on implementing any other EBE 
+19 
+EAM metric? 
+20 
+A. 
+Yes, the Company plans to implement an EV Make 
+21 
+
+
+--- Page 49 ---
+ORANGE AND ROCKLAND UTILITIES, INC. 
+DIRECT TESTIMONY OF EARNING ADJUSTMENT MECHANISMS PANEL 
+- 49 - 
+Ready Program STS metric, as approved by the 
+1 
+Commission in the July 2020 EV Order. 
+2 
+Q. 
+Please describe the Company’s EV Make-Ready Program 
+3 
+STS metric.  
+4 
+A. 
+In the July 2020 EV Order (pp. 86-76), the Commission 
+5 
+described this metric as follows:  
+6 
+The “Make-Ready Program Share the Savings” EAM 
+7 
+will consist of two component metrics, one 
+8 
+measuring performance of the Level 2 portion of 
+9 
+the Make-Ready Program (Level 2 EAM metric), and 
+10 
+the other measuring performance of the DC Fast 
+11 
+Charger portion (DC Fast Charger EAM metric). The 
+12 
+Level 2 EAM metric will compare each utility’s 
+13 
+actual Level 2 Make-Ready Program performance to 
+14 
+the forecast baseline costs established in this 
+15 
+Order on a per-plug basis, whereas the DC Fast 
+16 
+Charger Share the Savings metric will compare 
+17 
+each utility’s actual DC Fast Charger Make-Ready 
+18 
+performance to the forecast baseline costs on a 
+19 
+per-kilowatt (kW) of charging installed basis. 
+20 
+ 
+21 
+Q. 
+What was the implementation period approved by the 
+22 
+Commission for the EV Make-Ready Program STS metric?  
+23 
+A. 
+The Commission approved the metric to be calculated on 
+24 
+two occasions: once as part of the midpoint review in 
+25 
+October 2022; and, again at the end of the program in 
+26 
+2025. 
+27 
+
+
+--- Page 50 ---
+ORANGE AND ROCKLAND UTILITIES, INC. 
+DIRECT TESTIMONY OF EARNING ADJUSTMENT MECHANISMS PANEL 
+- 50 - 
+Gas EAM 
+1 
+Q. 
+Please summarize the changes proposed by the Company 
+2 
+related to the Gas EAM. 
+3 
+A. 
+The Company proposes to continue the Dth Reduction 
+4 
+metric and add the following two new metrics: Gas STS 
+5 
+and Gas Peak Reduction. 
+6 
+Dth Reduction Metric 
+7 
+Q. 
+Please describe the Company’s currently authorized Dth 
+8 
+Reduction metric.  
+9 
+A. 
+The Dth Reduction metric is a program-based metric 
+10 
+that provides EAM opportunities based on achievement 
+11 
+of gas savings (Dth) from the Company’s EE programs. 
+12 
+As a precondition to earning this incentive, the EUL 
+13 
+of the Company’s ETIP portfolio must be at or greater 
+14 
+than 11.10. Dth savings are calculated consistent with 
+15 
+the current standard practices described in the New 
+16 
+York Technical Resource Manual (“TRM”).20  
+17 
+Q. 
+Is the Company proposing any changes to the Dth 
+18 
+Reduction metric?  
+19 
+ 
+20 New York Standard Approach for Estimating Energy Savings from Energy 
+Efficiency Programs. 
+
+
+--- Page 51 ---
+ORANGE AND ROCKLAND UTILITIES, INC. 
+DIRECT TESTIMONY OF EARNING ADJUSTMENT MECHANISMS PANEL 
+- 51 - 
+A. 
+Yes. The Company proposes two changes in the Dth 
+1 
+Reduction metric.  
+2 
+ 
+First, similar to the MWh Reduction metric, the 
+3 
+Company proposes to add the carry forward provision to 
+4 
+this annual Dth reduction metric.  
+5 
+ 
+Second, as discussed earlier, the Company proposes to 
+6 
+include the LMI Gas EE programs and targets as part of 
+7 
+the Dth reduction metric.  
+8 
+Q. 
+Please describe the Company’s plans to achieve the Dth 
+9 
+Reduction metric. 
+10 
+A. 
+The Company plans to achieve the Dth Reduction Metric 
+11 
+through its Gas EE programs, which are discussed in 
+12 
+the direct testimony of the Company’s Customer Service 
+13 
+Panel.  
+14 
+Q. 
+Please describe the Company’s proposed targets for the 
+15 
+Dth Reduction metric.  
+16 
+A. 
+The Company’s proposed targets for Dth Reduction 
+17 
+metric are designed to be above and beyond the targets 
+18 
+approved by the Commission. The Company proposes a 
+19 
+minimum and maximum target to be set, respectively, at 
+20 
+5.0 percent and 35.0 percent above the Commission’s 
+21 
+approved targets from the January 2020 NENY Order. For 
+22 
+
+
+--- Page 52 ---
+ORANGE AND ROCKLAND UTILITIES, INC. 
+DIRECT TESTIMONY OF EARNING ADJUSTMENT MECHANISMS PANEL 
+- 52 - 
+further details on the Dth Reduction targets and 
+1 
+measurement please refer to Exhibit ___ (EAMP-1).   
+2 
+Gas STS 
+3 
+Q. 
+Please describe the Company’s proposal for the Gas STS 
+4 
+metric.  
+5 
+A. 
+The Company is proposing to implement a STS metric 
+6 
+that incentivizes the Company to achieve cost 
+7 
+efficiencies in its non-LMI Gas EE programs. The 
+8 
+metric is designed to reduce the unit costs of LMMBtu 
+9 
+savings achieved from the Company’s Gas EE programs, 
+10 
+while increasing the overall energy savings. Under 
+11 
+this metric, the Company will be awarded 30 percent of 
+12 
+unit cost savings realized from the Company’s acquired 
+13 
+non-LMI Gas EE savings, once the baseline LMMBtu 
+14 
+target is achieved by the Company.  
+15 
+Q. 
+Please describe the calculation of incentives under 
+16 
+the Gas STS metric.  
+17 
+A. 
+The metric performance and incentive will be 
+18 
+calculated in three steps. First, the Company will 
+19 
+calculate the unit cost savings achieved in acquiring 
+20 
+the non-LMI gas savings relative to the baseline unit 
+21 
+costs. Second, the unit cost savings will be 
+22 
+
+
+--- Page 53 ---
+ORANGE AND ROCKLAND UTILITIES, INC. 
+DIRECT TESTIMONY OF EARNING ADJUSTMENT MECHANISMS PANEL 
+- 53 - 
+multiplied by the acquired non-LMI LMMBtu savings. 
+1 
+Third, 30 percent of the resulting product will be the 
+2 
+Company’s share of the cost savings.  
+3 
+Q. 
+Please describe the Company’s proposed baseline 
+4 
+targets for the Gas STS metric.  
+5 
+A. 
+The Company proposes the baseline targets to be the 
+6 
+non-LMI Gas EE targets approved by the Commission in 
+7 
+the January 2020 NENY Order.  
+8 
+Gas Peak Reduction 
+9 
+Q. 
+Please describe the Company’s proposal for the Gas 
+10 
+Peak Reduction metric.  
+11 
+A. 
+The Company proposes a Gas Peak Reduction metric that 
+12 
+incentivizes the Company to reduce its firm gas peak 
+13 
+demands. This metric will be based on reducing heating 
+14 
+load-related firm gas demands measured on a per 
+15 
+heating degree days (“HDD”) basis. The heating load-
+16 
+related demands are calculated as the difference 
+17 
+between the average of the five highest winter firm 
+18 
+demands and the average of the five highest summer 
+19 
+firm demands.  
+20 
+Q. 
+Please describe the Company’s proposal for Gas Peak 
+21 
+Reduction targets.  
+22 
+
+
+--- Page 54 ---
+ORANGE AND ROCKLAND UTILITIES, INC. 
+DIRECT TESTIMONY OF EARNING ADJUSTMENT MECHANISMS PANEL 
+- 54 - 
+A. 
+The Company proposes maximum reduction in year-over-
+1 
+year peak of 1.56%, in 2022, 2023, and 2024. For 
+2 
+details on the Peak Reduction targets, please refer to 
+3 
+Exhibit ___ (EAMP-1). 
+4 
+Q. 
+Please describe how the Company developed the Gas Peak 
+5 
+Reduction targets.  
+6 
+A. 
+The Company developed the Gas Peak Reduction targets 
+7 
+in three steps.  
+8 
+ 
+First, the Company calculated the heating load-related 
+9 
+demand per HDD for the historical five-year (2015-
+10 
+2020) period.  The Company calculated the heating 
+11 
+load-related demand per HDD by subtracting the average 
+12 
+of the five highest summer demands from the average of 
+13 
+the five highest winter firm demands and dividing the 
+14 
+results by the average HDDs of the five highest winter 
+15 
+peak demand days.  
+16 
+Second, the Company analyzed the variation in the 
+17 
+five-year heating loads and calculated the Standard 
+18 
+Error.  
+19 
+ 
+Third, the Company set the baseline 2022-2023 heating 
+20 
+loads based on linear forecast developed using the 
+21 
+historic five-year heating loads.  
+22 
+
+
+--- Page 55 ---
+ORANGE AND ROCKLAND UTILITIES, INC. 
+DIRECT TESTIMONY OF EARNING ADJUSTMENT MECHANISMS PANEL 
+- 55 - 
+Finally, the Company developed minimum, mid-point, and 
+1 
+maximum targets by applying the Standard Error on the 
+2 
+baseline 2022-2023 heating load in the multiples of 
+3 
+0.25, 1.00, and 1.75 respectively.  
+4 
+Q. 
+Please describe the benefits of Company’s proposed Gas 
+5 
+EAM. 
+6 
+A. 
+Gas efficiency initiatives are a critical component 
+7 
+for achieving the carbon reduction goals outlined by 
+8 
+the Commission and CLCPA. Gas efficiency and peak 
+9 
+reduction initiatives provide broad customer and 
+10 
+environmental benefits including reduction in GHG 
+11 
+emissions, reduction in customer bills through reduced 
+12 
+energy usage costs, and reduction in the Company’s 
+13 
+natural gas supply and infrastructure needs.   
+14 
+EAM Allocation Structure 
+15 
+Q. 
+Please describe how the Company proposes to allocate 
+16 
+the earnings opportunities across its proposed EAMs.  
+17 
+A. 
+As discussed above, the Company proposes earnings 
+18 
+opportunities of up to 100 basis points each year tied 
+19 
+directly to the achievement of predefined Electric EAM 
+20 
+metrics and up to 40 basis points for Gas EAM metrics. 
+21 
+
+
+--- Page 56 ---
+ORANGE AND ROCKLAND UTILITIES, INC. 
+DIRECT TESTIMONY OF EARNING ADJUSTMENT MECHANISMS PANEL 
+- 56 - 
+The basis points are assigned to each of the proposed 
+1 
+EAMs and further assigned to each EAM metric. For each 
+2 
+EAM metric, the Company can achieve different earnings 
+3 
+opportunities for minimum, target, and maximum 
+4 
+achievement levels.  The earnings opportunities are 
+5 
+based on a generally based on a sliding scale between 
+6 
+the minimum and maximum targets. For a summary of the 
+7 
+proposed basis points by metric please refer to 
+8 
+Exhibit ___ (EAMP-2).   
+9 
+Q. 
+What was the Company’s approach to assigning earnings 
+10 
+opportunities to the proposed EAMs?  
+11 
+A. 
+The Company’s approach to assigning earnings 
+12 
+opportunities to the proposed EAMs generally followed 
+13 
+the current allocation of earnings opportunities, 
+14 
+adjusted to reflect the deletion of current metrics 
+15 
+and addition of proposed metrics. 
+16 
+Reporting and Evaluation 
+17 
+Q. 
+How does the Company propose to report performance for 
+18 
+its EAM targets? 
+19 
+
+
+--- Page 57 ---
+ORANGE AND ROCKLAND UTILITIES, INC. 
+DIRECT TESTIMONY OF EARNING ADJUSTMENT MECHANISMS PANEL 
+- 57 - 
+A. 
+The Company proposes to measure and report EAMs on a 
+1 
+calendar year basis. On March 3121 of 2023, 2024, and 
+2 
+2025, the Company will submit a report to the 
+3 
+Commission on its previous year’s performance in 
+4 
+relation to the targets and include a discussion of 
+5 
+its earned EAMs, if applicable. The Company will also 
+6 
+file quarterly reports on EAMs 60 days after the end 
+7 
+of the first three quarters. 
+8 
+Q. 
+Is the Company proposing any evaluation and review of 
+9 
+EAMs? 
+10 
+A.  Yes. The Company proposes to perform an evaluation and 
+11 
+review by June 1, 2023 to determine if any changes or 
+12 
+modifications to the EAMs may be warranted.   
+13 
+Cost Recovery 
+14 
+Q.   How does the Company propose to recover the earned 
+15 
+EAMs? 
+16 
+A.   The Company proposes to continue collecting earned EAM 
+17 
+incentives through the established EAM cost recovery 
+18 
+ 
+21 With the exception of the Gas Peak Reduction Metric, which will be 
+reported in June 2023, 2024, and 2025.  
+
+
+--- Page 58 ---
+ORANGE AND ROCKLAND UTILITIES, INC. 
+DIRECT TESTIMONY OF EARNING ADJUSTMENT MECHANISMS PANEL 
+- 58 - 
+mechanisms: the Energy Cost Adjustment for Electric 
+1 
+EAMs and the Monthly Gas Adjustment for Gas EAMs.  For 
+2 
+further discussion regarding the recovery of earned 
+3 
+EAM incentives, please refer to the direct testimony 
+4 
+of the Company’s Electric Rate Panel. 
+5 
+Q. 
+Does this conclude your direct testimony? 
+6 
+A. 
+Yes, it does.  
+7 
+
+
+--- Page 59 ---
+Exhibit___EAMP-1 
+Page 1 of 33 
+ORANGE AND ROCKLAND UTILITIES, INC. 
+EARNING ADJUSTMENT MECHANISMS PANEL – ELECTRIC 
+ 
+Exhibit-EAMP1 
+Proposed EAM Metrics, Targets, and Incentives 
+ 
+CONTENTS 
+1.0 SYSTEM EFFICIENCY..................................... 2 
+1.1 Electric Peak Reduction ................................. 2 
+1.2 Storage Roadmap ......................................... 6 
+1.3 Solar PV Utilization .................................... 9 
+1.4 Energy Storage Utilization ............................. 12 
+2.0 ENERGY EFFICIENCY.................................... 16 
+2.1 MWh Reduction .......................................... 16 
+2.2 Electric Share the Savings ............................. 18 
+3.0 Environmentally Beneficial Electrification........... 22 
+3.1 Carbon Reduction ....................................... 22 
+4.0 Gas Efficiency....................................... 25 
+4.1 Dth Reduction .......................................... 25 
+4.2 Gas Share the Savings .................................. 28 
+4.3 Gas Peak Reduction ..................................... 31 
+ 
+ 
+ 
+
+
+--- Page 60 ---
+Exhibit___EAMP-1 
+Page 2 of 33 
+ORANGE AND ROCKLAND UTILITIES, INC. 
+EARNING ADJUSTMENT MECHANISMS PANEL – ELECTRIC 
+ 
+1.0 SYSTEM EFFICIENCY 
+1.1 Electric Peak Reduction 
+The Electric Peak Reduction metric is an outcome-based 
+metric that incentivizes Orange and Rockland (“O&R” or the 
+“Company”) to reduce peak load in its service territory. To 
+the extent the weather-normalized peak load for the 
+Company’s service territory is below the targets 
+established for the EAM metric, the Company will receive an 
+incentive. 
+Metric 
+Metric will be based on a reduction in the weather-
+normalized New York Control Area (“NYCA”) coincident peak 
+load for the Company’s service territory each rate year 
+measured in Megawatts (MW) as published annually in 
+December by the NYISO through their Business Issues 
+Committee, Load Forecasting Task Force. 
+Measurement  
+The reduction in the weather-normalized NYCA coincident 
+peak load will be determined as follows: 
+𝑅𝑅𝑅𝑅𝑥𝑥 𝑁𝑁𝑁𝑁𝑁𝑁𝑁𝑁𝑁𝑁𝑁𝑁𝑁𝑁𝑁𝑁𝑁𝑁𝑁𝑁 𝑃𝑃𝑃𝑃𝑃𝑃𝑃𝑃−𝑅𝑅𝑅𝑅𝑥𝑥 𝐹𝐹𝐹𝐹𝐹𝐹𝐹𝐹𝐹𝐹𝐹𝐹𝐹𝐹𝐹𝐹 𝑃𝑃𝑃𝑃𝑃𝑃𝑃𝑃
+𝑅𝑅𝑅𝑅𝑥𝑥 𝐹𝐹𝐹𝐹𝐹𝐹𝐹𝐹𝐹𝐹𝐹𝐹𝐹𝐹𝐹𝐹 𝑃𝑃𝑃𝑃𝑃𝑃𝑃𝑃
+ 
+
+
+--- Page 61 ---
+Exhibit___EAMP-1 
+Page 3 of 33 
+ORANGE AND ROCKLAND UTILITIES, INC. 
+EARNING ADJUSTMENT MECHANISMS PANEL – ELECTRIC 
+ 
+ 
+Where: 
+x 
+Is equal to 1, 2, and 3 for RY1, RY2 and 
+RY3, Respectively 
+RYx Normalized 
+Peak 
+Weather-normalized NYCA coincident peak 
+load for the Company’s service territory 
+prior to allocation of Zone G losses for 
+the Current Rate Year as published 
+annually in December in the table “Load 
+Reconciliation”, Column 20 by the NYISO 
+through their Business Issues Committee, 
+Load Forecasting Task Force1. 
+RYx Forecast 
+Peak 
+Adjusted NYCA Coincident Peak Load 
+Forecast for the Company’s service 
+territory prior to allocation of Zone G 
+losses as published annually in December 
+in the table “Coincident Peak Forecast 
+for LCR Study, Including BTM:NG 
+Resources” by the NYISO through their 
+ 
+1 As presented in December 2020 or its comparable category in subsequent 
+years. 
+
+
+--- Page 62 ---
+Exhibit___EAMP-1 
+Page 4 of 33 
+ORANGE AND ROCKLAND UTILITIES, INC. 
+EARNING ADJUSTMENT MECHANISMS PANEL – ELECTRIC 
+ 
+Business Issues Committee, Load 
+Forecasting Task Force. 
+Targets 
+• The baseline forecast will be set based on the adjusted 
+NYCA Coincident Peak Load Forecast for the NYISO portion 
+of the Company’s service territory prior to allocation 
+of Zone G losses as published annually in December in 
+the table “Coincident Peak Forecast for LCR Study, 
+Including BTM:NG Resources” by the NYISO through their 
+Business Issues Committee, Load Forecasting Task Force. 
+• The baseline forecast will be adjusted by a Forecast 
+Error, which represents the median of the percentage 
+difference between Forecasted Peak Load and Weather-
+Normalized Peak Load over the most recent 10-years, as 
+derived by the NYISO. 
+• The minimum, mid-point, and maximum targets are set at 
+0.25, 1.00, and 1.75 times the standard error below the 
+adjusted baseline forecast. 
+• The Standard Error (SE) is derived from the most recent 
+10-years of Weather-Normalized Peak Load, as derived by 
+the NYISO. 
+• Targets to be set each year based on the following 
+calculation:  
+
+
+--- Page 63 ---
+Exhibit___EAMP-1 
+Page 5 of 33 
+ORANGE AND ROCKLAND UTILITIES, INC. 
+EARNING ADJUSTMENT MECHANISMS PANEL – ELECTRIC 
+ 
+ 
+2022 
+2023 
+2024 
+Baseline 
+O&R NYISO Adjusted ICAP Forecast 
+Adjusted Baseline  
+Baseline x (1-Forecast Error) 
+Minimum 
+Adjusted Baseline – (0.25 x SE) 
+Mid-Point 
+Adjusted Baseline – (1.00 x SE) 
+Maximum 
+Adjusted Baseline – (1.75 x SE) 
+Incentives  
+Achievement will be based on the Company reducing its 
+electric peak load below the targets described above. The 
+Company will achieve an incentive if the metric meets or 
+exceeds the target thresholds, with linear scaling between 
+minimum and midpoint, and between midpoint and maximum 
+basis points. 
+
+
+--- Page 64 ---
+Exhibit___EAMP-1 
+Page 6 of 33 
+ORANGE AND ROCKLAND UTILITIES, INC. 
+EARNING ADJUSTMENT MECHANISMS PANEL – ELECTRIC 
+ 
+ 
+2022 
+2023 
+2024 
+Minimum 
+7.00  
+8.00  
+8.00  
+Mid-Point 
+12.25  
+14.00  
+14.00  
+Maximum 
+17.50  
+20.00  
+20.00  
+ 
+1.2 Storage Roadmap 
+The Storage Roadmap metric is an outcome-based metric which 
+has been designed to achieve reliability benefits and is 
+focused on improving selected circuit load factors that 
+provide significant benefits to isolated areas.  
+Metric 
+The metric measures the average load factor, as compared to 
+the system load factor, of six selected circuits in 
+Blooming Grove and Warwick where there are significant 
+customer and system benefit opportunities.  
+Measurement 
+The metric is based on percentage change in the Circuit to 
+System Load Factor ratio (LF Ratio) compared to the prior 
+year. 
+
+
+--- Page 65 ---
+Exhibit___EAMP-1 
+Page 7 of 33 
+ORANGE AND ROCKLAND UTILITIES, INC. 
+EARNING ADJUSTMENT MECHANISMS PANEL – ELECTRIC 
+ 
+𝐿𝐿𝐿𝐿 𝑅𝑅𝑅𝑅𝑅𝑅𝑅𝑅𝑅𝑅 % = 𝐿𝐿𝐿𝐿 𝑅𝑅𝑅𝑅𝑅𝑅𝑅𝑅𝑅𝑅 (𝑅𝑅𝑅𝑅𝑥𝑥) −𝐿𝐿𝐿𝐿 𝑅𝑅𝑅𝑅𝑅𝑅𝑅𝑅𝑅𝑅 (𝑅𝑅𝑅𝑅𝑥𝑥−1)
+𝐿𝐿𝐿𝐿 𝑅𝑅𝑅𝑅𝑅𝑅𝑅𝑅𝑅𝑅 (𝑅𝑅𝑅𝑅𝑥𝑥−1)
+ 
+ 
+Where: the LF Ratio for each year is the ratio between 
+Circuits Load Factor (CLF) and System Load Factor (SLF). 
+The LF Ratio is calculated as follows:  
+𝐿𝐿𝐿𝐿𝐿𝐿𝐿𝐿 𝐹𝐹𝐹𝐹𝐹𝐹𝐹𝐹𝐹𝐹𝐹𝐹 𝑅𝑅𝑅𝑅𝑅𝑅𝑅𝑅𝑅𝑅 (𝑅𝑅𝑅𝑅𝑥𝑥) = 𝐶𝐶𝐶𝐶𝐶𝐶𝐶𝐶𝐶𝐶𝐶𝐶𝐶𝐶𝐶𝐶 𝐿𝐿𝐿𝐿𝐿𝐿𝐿𝐿 𝐹𝐹𝐹𝐹𝐹𝐹𝐹𝐹𝐹𝐹𝐹𝐹 (𝑅𝑅𝑅𝑅𝑥𝑥)
+𝑆𝑆𝑆𝑆𝑆𝑆𝑆𝑆𝑆𝑆𝑆𝑆 𝐿𝐿𝐿𝐿𝐿𝐿𝐿𝐿 𝐹𝐹𝐹𝐹𝐹𝐹𝐹𝐹𝐹𝐹𝐹𝐹 (𝑅𝑅𝑅𝑅𝑥𝑥)  
+And, where: Circuits Load Factor (CLF) will be calculated 
+for the Blooming Grove and Warwick Circuits over the June 1 
+to July 31 period (i.e., 1,464 hours) based upon the top 
+five load hours of Blooming Grove and Warwick Circuits in 
+aggregate. The CLF is calculated as follows: 
+𝐶𝐶𝐶𝐶𝐶𝐶 (𝑅𝑅𝑅𝑅𝑥𝑥) =
+𝐶𝐶𝐶𝐶𝐶𝐶𝐶𝐶𝐶𝐶𝐶𝐶𝐶𝐶𝐶𝐶 𝐴𝐴𝐴𝐴𝐴𝐴𝐴𝐴𝐴𝐴𝐴𝐴𝐴𝐴 𝐿𝐿𝐿𝐿𝐿𝐿𝐿𝐿 𝑀𝑀𝑀𝑀ℎ (𝑅𝑅𝑅𝑅𝑥𝑥)
+𝐴𝐴𝐴𝐴𝐴𝐴𝐴𝐴𝐴𝐴𝐴𝐴𝐴𝐴𝐴𝐴𝐴𝐴 𝑜𝑜𝑜𝑜 𝐶𝐶𝐶𝐶𝐶𝐶𝐶𝐶𝐶𝐶𝐶𝐶𝐶𝐶𝐶𝐶 𝑇𝑇𝑇𝑇𝑇𝑇 𝐹𝐹𝐹𝐹𝐹𝐹𝐹𝐹 𝑃𝑃𝑃𝑃𝑃𝑃𝑃𝑃 𝐿𝐿𝐿𝐿𝐿𝐿𝐿𝐿𝐿𝐿 𝐴𝐴𝐴𝐴𝐴𝐴𝐴𝐴𝐴𝐴𝐴𝐴𝐴𝐴 𝑀𝑀𝑀𝑀 (𝑅𝑅𝑅𝑅𝑥𝑥) 
+ 
+𝐶𝐶𝐶𝐶𝐶𝐶𝐶𝐶𝐶𝐶𝐶𝐶𝐶𝐶𝐶𝐶 𝐴𝐴𝐴𝐴𝐴𝐴𝐴𝐴𝐴𝐴𝐴𝐴𝐴𝐴 𝐿𝐿𝐿𝐿𝐿𝐿𝐿𝐿 𝑀𝑀𝑀𝑀ℎ=
+∑
+𝑀𝑀𝑀𝑀 𝑓𝑓𝑓𝑓𝑓𝑓 𝑎𝑎𝑎𝑎𝑎𝑎
+𝐽𝐽𝐽𝐽𝐽𝐽𝐽𝐽 31
+𝐽𝐽𝐽𝐽𝐽𝐽𝐽𝐽 1
+𝑐𝑐𝑐𝑐𝑐𝑐𝑐𝑐𝑐𝑐𝑐𝑐𝑐𝑐𝑐𝑐ℎ𝑜𝑜𝑜𝑜𝑜𝑜𝑜𝑜𝑜𝑜
+∑
+𝑁𝑁𝑁𝑁𝑁𝑁𝑁𝑁𝑁𝑁𝑁𝑁 𝑜𝑜𝑜𝑜 𝐻𝐻𝐻𝐻𝐻𝐻𝐻𝐻𝐻𝐻
+𝐽𝐽𝐽𝐽𝐽𝐽𝐽𝐽 31
+𝐽𝐽𝐽𝐽𝐽𝐽𝐽𝐽 1
+ 
+ 
+𝐴𝐴𝐴𝐴𝐴𝐴𝐴𝐴𝐴𝐴𝐴𝐴𝐴𝐴𝐴𝐴𝐴𝐴 𝑜𝑜𝑜𝑜 𝐶𝐶𝐶𝐶𝐶𝐶𝐶𝐶𝐶𝐶𝐶𝐶𝐶𝐶𝐶𝐶 𝑇𝑇𝑇𝑇𝑇𝑇 𝐹𝐹𝐹𝐹𝐹𝐹𝐹𝐹 𝑃𝑃𝑃𝑃𝑃𝑃𝑃𝑃 𝐿𝐿𝐿𝐿𝐿𝐿𝐿𝐿𝐿𝐿 𝐴𝐴𝐴𝐴𝐴𝐴𝐴𝐴𝐴𝐴𝐴𝐴𝐴𝐴 𝑀𝑀𝑀𝑀
+=
+∑
+𝑀𝑀𝑀𝑀 𝑜𝑜𝑜𝑜 𝑎𝑎𝑎𝑎𝑎𝑎𝑎𝑎𝑎𝑎𝑎𝑎𝑟𝑟𝑟𝑟𝑟𝑟𝑟𝑟 𝑜𝑜𝑜𝑜 𝑠𝑠𝑠𝑠𝑠𝑠𝑠𝑠𝑠𝑠𝑠𝑠𝑠𝑠𝑠𝑠
+𝑃𝑃𝑃𝑃𝑃𝑃𝑃𝑃 5
+𝑃𝑃𝑃𝑃𝑃𝑃𝑃𝑃 1
+𝑐𝑐𝑐𝑐𝑐𝑐𝑐𝑐𝑐𝑐𝑐𝑐𝑐𝑐𝑐𝑐𝐽𝐽𝐽𝐽𝐽𝐽𝐽𝐽/𝐽𝐽𝐽𝐽𝐽𝐽𝐽𝐽
+5
+ 
+ 
+
+
+--- Page 66 ---
+Exhibit___EAMP-1 
+Page 8 of 33 
+ORANGE AND ROCKLAND UTILITIES, INC. 
+EARNING ADJUSTMENT MECHANISMS PANEL – ELECTRIC 
+ 
+And, where: the System Load Factor (SLF) will be calculated 
+for the entire system over the same June 1 to July 31 
+period based upon the same top five hours of the aggregate 
+circuit peaks. The SLF is calculated as follows: 
+𝑆𝑆𝑆𝑆𝑆𝑆 (𝑅𝑅𝑅𝑅𝑥𝑥) =
+𝑆𝑆𝑆𝑆𝑆𝑆𝑆𝑆𝑆𝑆𝑆𝑆 𝐴𝐴𝐴𝐴𝐴𝐴𝐴𝐴𝐴𝐴𝐴𝐴𝐴𝐴 𝐿𝐿𝐿𝐿𝐿𝐿𝐿𝐿 𝑀𝑀𝑀𝑀ℎ (𝑅𝑅𝑅𝑅𝑥𝑥)
+𝑆𝑆𝑆𝑆𝑆𝑆𝑆𝑆𝑒𝑒𝑒𝑒 𝐴𝐴𝐴𝐴𝐴𝐴𝐴𝐴𝐴𝐴𝐴𝐴𝐴𝐴 𝑃𝑃𝑃𝑃𝑃𝑃𝑃𝑃 𝐿𝐿𝐿𝐿𝐿𝐿𝐿𝐿𝐿𝐿 𝑎𝑎𝑎𝑎 𝐴𝐴𝐴𝐴𝐴𝐴𝐴𝐴𝐴𝐴𝐴𝐴𝐴𝐴𝐴𝐴𝐴𝐴𝐴𝐴 𝐶𝐶𝐶𝐶𝐶𝐶𝐶𝐶𝐶𝐶𝐶𝐶𝐶𝐶 𝑃𝑃𝑃𝑃𝑃𝑃𝑃𝑃𝑃𝑃 𝑀𝑀𝑀𝑀(𝑅𝑅𝑅𝑅𝑥𝑥) 
+ 
+𝑆𝑆𝑆𝑆𝑆𝑆𝑆𝑆𝑆𝑆𝑆𝑆 𝐴𝐴𝐴𝐴𝐴𝐴𝐴𝐴𝐴𝐴𝐴𝐴𝐴𝐴 𝐿𝐿𝐿𝐿𝐿𝐿𝐿𝐿 𝑀𝑀𝑀𝑀ℎ (𝑅𝑅𝑅𝑅𝑥𝑥) =
+∑
+ 
+𝐽𝐽𝐽𝐽𝐽𝐽𝐽𝐽 31
+𝐽𝐽𝐽𝐽𝐽𝐽𝐽𝐽 1
+𝑀𝑀𝑀𝑀ℎ𝑜𝑜𝑜𝑜𝑜𝑜𝑜𝑜𝑜𝑜
+∑
+𝑁𝑁𝑁𝑁𝑁𝑁𝑁𝑁𝑁𝑁𝑁𝑁 𝑜𝑜𝑜𝑜 𝐻𝐻𝐻𝐻𝐻𝐻𝐻𝐻𝐻𝐻
+𝐽𝐽𝐽𝐽𝐽𝐽𝐽𝐽 31
+𝐽𝐽𝐽𝐽𝐽𝐽𝐽𝐽 1
+ 
+𝑆𝑆𝑆𝑆𝑆𝑆𝑆𝑆𝑆𝑆𝑚𝑚 𝐴𝐴𝐴𝐴𝐴𝐴𝐴𝐴𝐴𝐴𝐴𝐴𝐴𝐴 𝑜𝑜𝑜𝑜 𝑃𝑃𝑃𝑃𝑃𝑃𝑃𝑃 𝐿𝐿𝐿𝐿𝐿𝐿𝐿𝐿𝐿𝐿 𝑎𝑎𝑎𝑎 𝐴𝐴𝐴𝐴𝐴𝐴𝐴𝐴𝐴𝐴𝐴𝐴𝐴𝐴𝐴𝐴𝐴𝐴𝐴𝐴 𝐶𝐶𝐶𝐶𝐶𝐶𝐶𝐶𝐶𝐶𝐶𝐶𝐶𝐶 𝑃𝑃𝑃𝑃𝑃𝑃𝑃𝑃𝑃𝑃 𝑀𝑀𝑀𝑀 (𝑅𝑅𝑅𝑅𝑥𝑥)
+=
+∑
+ 
+𝑃𝑃𝑃𝑃𝑃𝑃𝑃𝑃 5
+𝑃𝑃𝑃𝑃𝑃𝑃𝑃𝑃 1 𝑀𝑀𝑀𝑀𝐽𝐽𝐽𝐽𝐽𝐽𝐽𝐽/𝐽𝐽𝐽𝐽𝐽𝐽𝐽𝐽
+5
+ 
+ 
+Targets 
+• Annual Targets maintained at currently approved levels 
+for 2020 and 2021.2  
+ 
+ 
+2 Orange and Rockland Electric Rate Case Storage Roadmap EAM Compliance 
+Filing, Filed November 26, 2019 in Case 18-E-0067 
+
+
+--- Page 67 ---
+Exhibit___EAMP-1 
+Page 9 of 33 
+ORANGE AND ROCKLAND UTILITIES, INC. 
+EARNING ADJUSTMENT MECHANISMS PANEL – ELECTRIC 
+ 
+2022 
+2023 
+2024 
+Minimum 
+2.60% 
+2.60% 
+2.60% 
+Mid-Point 
+3.40% 
+3.40% 
+3.40% 
+Maximum 
+5.10% 
+5.10% 
+5.10% 
+ 
+Incentives 
+Incentives will be calculated annually based on LF Ratio 
+calculation at the end of each year. The Company will 
+achieve an incentive if the metric meets or exceeds the 
+target thresholds, with linear scaling between minimum and 
+midpoint, and between midpoint and maximum basis points 
+2022 
+2023 
+2024 
+Minimum 
+1.50  
+2.00  
+2.00  
+Mid-Point 
+2.50  
+3.50  
+3.50  
+Maximum 
+3.50  
+5.00  
+5.00  
+ 
+1.3 Solar PV Utilization 
+The Solar PV Utilization metric incentivizes the Company’s 
+efforts to expand the adoption of Solar PV in the Company’s 
+service territory.  
+
+
+--- Page 68 ---
+Exhibit___EAMP-1 
+Page 10 of 33 
+ORANGE AND ROCKLAND UTILITIES, INC. 
+EARNING ADJUSTMENT MECHANISMS PANEL – ELECTRIC 
+ 
+Metrics 
+The Solar PV Utilization metric measures the sum of the 
+incremental annualized megawatt-hours (“MWh”) from all 
+types of Solar PV installations within the Company’s 
+service territory, including rooftop residential solar PV, 
+commercial solar PV, industrial solar PV, and community 
+solar PV.  
+Measurement 
+The DER Utilization metric is calculated as follows: 
+𝑆𝑆𝑆𝑆𝑆𝑆𝑆𝑆𝑆𝑆 𝑃𝑃𝑃𝑃 𝑀𝑀𝑀𝑀ℎ= 𝑀𝑀𝑀𝑀 𝐼𝐼𝐼𝐼𝐼𝐼𝐼𝐼𝐼𝐼𝐼𝐼𝐼𝐼𝐼𝐼𝐼𝐼× 8760 ℎ𝑜𝑜𝑜𝑜𝑜𝑜𝑜𝑜× 13.4% 𝐴𝐴𝐴𝐴𝐴𝐴𝐴𝐴𝐴𝐴𝐴𝐴 𝐶𝐶𝐶𝐶𝐶𝐶𝐶𝐶𝐶𝐶𝐶𝐶𝐶𝐶𝐶𝐶 𝐹𝐹𝐹𝐹𝐹𝐹𝐹𝐹𝐹𝐹𝐹𝐹3 
+ 
+ 
+𝐵𝐵 
+𝐼𝐼 
+The Solar PV installations will be quantified utilizing 
+reporting from the Company’s interconnection application 
+portal, Power Clerk.  
+ 
+Targets 
+• Solar PV Utilization targets set as follows: 
+ 
+3 NYSERDA NY-Sun Initiative Program Manual, p. 10 
+
+
+--- Page 69 ---
+Exhibit___EAMP-1 
+Page 11 of 33 
+ORANGE AND ROCKLAND UTILITIES, INC. 
+EARNING ADJUSTMENT MECHANISMS PANEL – ELECTRIC 
+ 
+o 2022-2024 baseline set based on linear regression 
+trend derived from historic 2010-2019 PV 
+installations 
+o The minimum, mid-point, and maximum targets set 
+0.25, 1.00, and 1.75 standard error above the 
+baseline 
+o The Standard Error derived from the Company’s 10-
+year (2010-2019) historical Solar PV installations 
+ 
+2022 
+2023 
+2024 
+Minimum 
+32,567  
+35,299  
+38,031  
+Mid-Point 
+34,754  
+37,487  
+40,219  
+Maximum 
+36,942  
+39,674  
+42,407  
+ 
+Incentives 
+Incentives will be calculated at the end of each calendar 
+year (i.e., solar PV installed that receive permission to 
+operate from January 1 through December 31). The Company 
+will achieve an incentive if the metric meets or exceeds 
+the target thresholds, with linear scaling between minimum 
+and midpoint, and between midpoint and maximum basis 
+points. 
+ 
+ 
+
+
+--- Page 70 ---
+Exhibit___EAMP-1 
+Page 12 of 33 
+ORANGE AND ROCKLAND UTILITIES, INC. 
+EARNING ADJUSTMENT MECHANISMS PANEL – ELECTRIC 
+ 
+2022
+2023
+2024
+Minimum 
+2.75  
+4.00  
+4.00  
+Mid-Point 
+5.00  
+7.00  
+7.00  
+Maximum 
+7.00  
+10.00  
+10.00  
+ 
+1.4 Energy Storage Utilization 
+The Energy Storage Utilization metric incentivizes the 
+Company’s efforts to expand the adoption of Battery and Ice 
+Storage in the Company’s service territory.  
+Metrics 
+The Energy Storage Utilization metric measures the sum of 
+the annualized production and discharge MWh from electric 
+energy storage resources within the Company’s service 
+territory, including residential, commercial, industrial, 
+and Company driven projects such as Non-Wires Alternatives, 
+which may be owned by the Company or a third-party. 
+Measurement 
+The annualized production and discharge would be calculated 
+as follows: 
+
+
+--- Page 71 ---
+Exhibit___EAMP-1 
+Page 13 of 33 
+ORANGE AND ROCKLAND UTILITIES, INC. 
+EARNING ADJUSTMENT MECHANISMS PANEL – ELECTRIC 
+ 
+𝐵𝐵𝐵𝐵𝐵𝐵𝐵𝐵𝐵𝐵𝐵𝐵𝐵𝐵 𝑆𝑆𝑆𝑆𝑆𝑆𝑆𝑆𝑆𝑆𝑆𝑆𝑆𝑆 𝑀𝑀𝑀𝑀ℎ
+= 𝑀𝑀𝑀𝑀 𝐼𝐼𝐼𝐼𝐼𝐼𝐼𝐼𝐼𝐼𝐼𝐼𝐼𝐼𝐼𝐼𝐼𝐼 × ൬4 ℎ𝑜𝑜𝑜𝑜𝑜𝑜𝑜𝑜
+𝐶𝐶ℎ𝑎𝑎𝑎𝑎𝑎𝑎𝑎𝑎൰4  × [365 𝑐𝑐ℎ𝑎𝑎𝑎𝑎𝑎𝑎𝑎𝑎𝑎𝑎 𝑝𝑝𝑝𝑝𝑝𝑝 𝑦𝑦𝑦𝑦𝑦𝑦𝑦𝑦]5 
+ 
+𝐼𝐼𝐼𝐼𝐼𝐼 𝑆𝑆𝑆𝑆𝑆𝑆𝑆𝑆𝑆𝑆𝑆𝑆𝑆𝑆 𝑀𝑀𝑀𝑀ℎ
+= 𝐼𝐼𝐼𝐼𝐼𝐼𝐼𝐼𝐼𝐼𝐼𝐼𝐼𝐼𝐼𝐼𝐼𝐼 𝑇𝑇𝑇𝑇𝑇𝑇𝑇𝑇 × (0.55 𝑘𝑘𝑘𝑘6
+𝑡𝑡𝑡𝑡𝑡𝑡
+)  × ൬4 ℎ𝑜𝑜𝑜𝑜𝑜𝑜𝑜𝑜
+𝐶𝐶ℎ𝑎𝑎𝑎𝑎𝑎𝑎𝑎𝑎൰ 
+× (110 𝐶𝐶ℎ𝑎𝑎𝑎𝑎𝑎𝑎𝑎𝑎𝑎𝑎 𝑝𝑝𝑝𝑝𝑝𝑝 𝑦𝑦𝑦𝑦𝑦𝑦𝑦𝑦)7 
+ 
+The Energy Storage Utilization metric includes a provision 
+to allow the Company to carry forward to subsequent rate 
+year(s) any unachieved target and incentives between 
+minimum and maximum levels in any given rate year. 
+Targets 
+• Battery Storage targets set as follows: 
+o Maximum targets were based on the sum of (1) a 
+three-year average of the Company’s projection of 
+Community Distributed Generation (CDG) and small-
+scale (<50 kW) storage installations in 2022-2024 
+plus (2) the Company’s projection in each year of 
+Non-Wires Alternative (NWA) installations. 
+ 
+4 Four hours per charge will be used as a proxy for the purposes of this 
+metric. 
+5 DOE/EPRI Electricity Storage Handbook Appendix B, Page B-12 used as a 
+proxy for the purposes of this metric. 
+6 The 0.55 kW/ton figure represents the efficiency of a chiller as noted 
+by American Society of Heating, Refrigerating and Air-Conditioning 
+Engineers Standard 90.1 used as a proxy for the purposes of this 
+metric. 
+7 110 charges per year based on number of weekdays in May through 
+September used as a proxy for the purposes of this metric. 
+
+
+--- Page 72 ---
+Exhibit___EAMP-1 
+Page 14 of 33 
+ORANGE AND ROCKLAND UTILITIES, INC. 
+EARNING ADJUSTMENT MECHANISMS PANEL – ELECTRIC 
+ 
+o The Baseline was calculated as a 35.0 percent 
+reduction from the maximum targets and the proposed 
+minimum targets reflect a 5.0 percent increase 
+above the baseline. 
+The Energy Storage Utilization metric includes a 
+provision to allow the Company to forward to 
+subsequent rate year(s) any unachieved targets between 
+minimum and maximum levels in a given rate year. 
+2022 
+2023 
+2024 
+Minimum 
+39,964 
+28,722 
+18,502 
+Maximum 
+57,091 
+41,031 
+26,431 
+ 
+Incentives 
+Incentives will be calculated at the end of each calendar 
+year (e.g., storage deployments with permission to operate 
+from January 1 through December 31). 
+The Energy Storage Utilization metric includes the 
+provision to allow the Company to carry over any unachieved 
+incentives between minimum and maximum levels in a given 
+rate year, to the following rate year(s). For example, if 
+the Company achieves 5.00 of the maximum 7.00 basis points 
+in 2022, then the Company would carry forward to 2023 the 
+unachieved incentive of 2.00 basis points and the 
+corresponding unachieved targets, making the new maximum in 
+2023 12.00 basis points.   
+
+
+--- Page 73 ---
+Exhibit___EAMP-1 
+Page 15 of 33 
+ORANGE AND ROCKLAND UTILITIES, INC. 
+EARNING ADJUSTMENT MECHANISMS PANEL – ELECTRIC 
+ 
+The Company will achieve an incentive if the metric meets 
+or exceeds the target thresholds, with linear scaling 
+between minimum and maximum basis points. 
+ 
+2022
+2023
+2024
+Minimum 
+2.75 
+4.00 
+4.00 
+Maximum 
+7.00 
+10.00 
+10.00 
+ 
+ 
+ 
+ 
+
+
+--- Page 74 ---
+Exhibit___EAMP-1 
+Page 16 of 33 
+ORANGE AND ROCKLAND UTILITIES, INC. 
+EARNING ADJUSTMENT MECHANISMS PANEL – ELECTRIC 
+ 
+2.0 ENERGY EFFICIENCY 
+2.1 MWh Reduction 
+The MWh Reduction metric is a programmatic metric that 
+incentivizes the Company to achieve energy efficiency 
+savings in each Rate Year.  
+Metrics 
+The metric is based on the MWh savings achieved from all of 
+Company’s administered electric EE programs during the Rate 
+Year, including Low-to-Moderate Income (“LMI”) and non-LMI 
+EE programs, subject to meeting the Effective Useful Life 
+(“EUL”) threshold. 
+Measurement 
+The metric is measured as the MWh savings achieved from the 
+Company-administered electric EE programs (LMI and non-
+LMI). As a precondition to earning the incentive associated 
+with this metric, the EUL of the Company’s EE portfolio 
+must be at least ten years. EULs for each measure will be 
+estimated using the NYS Technical Resource Manual (“NY 
+
+
+--- Page 75 ---
+Exhibit___EAMP-1 
+Page 17 of 33 
+ORANGE AND ROCKLAND UTILITIES, INC. 
+EARNING ADJUSTMENT MECHANISMS PANEL – ELECTRIC 
+ 
+TRM”).8 MWh reductions will be calculated consistent with 
+the current standard practices described in the NY TRM.  
+Targets 
+• Targets for MWh Reduction metric are designed to be 
+above and beyond the targets approved by the 
+Commission.9 
+• The baseline is set at the Commission’s approved 
+targets from the January 2020 NENY Order.  
+• The minimum and maximum targets are set, respectively, 
+at 5.0 and 35.0 percent above the baseline.   
+2022
+2023
+2024
+Minimum 
+67,836 
+69,903 
+71,775 
+ 
+ 
+ 
+ 
+Maximum 
+87,218 
+89,875 
+92,282 
+Incentives 
+Incentives will be calculated at the end of each calendar 
+year (e.g., MWh energy savings from January 1 through 
+December 31).  
+ 
+8 If a specific measure is not included in the NYS TRM, the Company will 
+estimate the EUL and the MWh savings using technology specific industry 
+research and/or data. 
+9 Order Authorizing Utility Energy Efficiency and Building 
+Electrification Portfolios through 2025, Issued and Effective January 
+16, 2020, in Case 18-M-0084 (“January 2020 NENY Order”) 
+
+
+--- Page 76 ---
+Exhibit___EAMP-1 
+Page 18 of 33 
+ORANGE AND ROCKLAND UTILITIES, INC. 
+EARNING ADJUSTMENT MECHANISMS PANEL – ELECTRIC 
+ 
+The MWh Reduction metric includes the provision to allow 
+the Company to carry over any unachieved incentives between 
+minimum and maximum levels in a given rate year, to the 
+following rate year(s). For example, if the Company 
+achieves 10.00 of the maximum 17.50 basis points in 2022, 
+then the Company would carry over to 2023 the unachieved 
+incentive of 7.50 basis points and the corresponding 
+unachieved targets, making in 2023 the new maximum of 27.50 
+basis points and no change to the minimum.   
+The Company will achieve an incentive if the metric meets 
+or exceeds the target thresholds, with linear scaling 
+between minimum and maximum basis points. 
+2022
+2023
+2024
+Minimum 
+7.00  
+8.00  
+8.00  
+ 
+ 
+ 
+ 
+Maximum 
+17.50  
+20.00 
+20.00 
+ 
+2.2 Electric Share the Savings 
+The Electric Share the Savings (“Electric STS”) metric 
+incentivizes the Company’s efforts to achieve cost 
+efficiencies in its non-LMI Electric EE programs.  
+
+
+--- Page 77 ---
+Exhibit___EAMP-1 
+Page 19 of 33 
+ORANGE AND ROCKLAND UTILITIES, INC. 
+EARNING ADJUSTMENT MECHANISMS PANEL – ELECTRIC 
+ 
+Metrics 
+The metric is designed to reduce the unit costs of lifetime 
+MWh (“LMWh”) savings achieved from the Company’s EE 
+programs (non-LMI only), while increasing the overall 
+energy savings. Under the metric, the Company will be 
+awarded 30 percent of unit cost savings realized from the 
+Company’s acquired non-LMI EE savings, once the baseline 
+MWh target is achieved by the Company. 
+Measurement  
+The performance targets and incentives will be calculated 
+as follows:  
+𝐸𝐸𝐸𝐸𝐸𝐸𝐸𝐸𝐸𝐸𝐸𝐸𝐸𝐸𝐸𝐸 𝑆𝑆𝑆𝑆𝑆𝑆 ($) = [ (𝑅𝑅𝑅𝑅𝑥𝑥) 𝐵𝐵𝐵𝐵𝐵𝐵𝐵𝐵𝐵𝐵𝐵𝐵𝐵𝐵𝐵𝐵 𝐿𝐿𝑀𝑀𝑊𝑊ℎ 𝑈𝑈𝑈𝑈𝑈𝑈𝑈𝑈 𝐶𝐶𝐶𝐶𝐶𝐶𝐶𝐶−
+ (𝑅𝑅𝑅𝑅𝑥𝑥) 𝐴𝐴𝐴𝐴𝐴𝐴𝐴𝐴𝐴𝐴𝐴𝐴𝐴𝐴𝐴𝐴 𝐿𝐿𝐿𝐿𝐿𝐿ℎ 𝑈𝑈𝑈𝑈𝑈𝑈𝑈𝑈 𝐶𝐶𝐶𝐶𝐶𝐶𝐶𝐶] × (𝑅𝑅𝑅𝑅𝑥𝑥) 𝐴𝐴𝐴𝐴𝐴𝐴𝐴𝐴𝐴𝐴𝐴𝐴𝐴𝐴𝐴𝐴 𝐿𝐿𝐿𝐿𝐿𝐿ℎ × 30%  
+ 
+Where: the Baseline LMWh Unit Cost is determined based on 
+Baseline Annual Budget and Targets (non-LMI) found in the 
+Company’s System Energy Efficiency Plan (“SEEP”).10 The 
+baseline annual MWh targets are converted to baseline LMWh 
+targets by multiplying by an EUL of 10 years.  
+ 
+10 Case 18-M-0084, O&R’s System Energy Efficiency Plan 2019-2025,filed 
+September 15, 2020.  
+
+
+--- Page 78 ---
+Exhibit___EAMP-1 
+Page 20 of 33 
+ORANGE AND ROCKLAND UTILITIES, INC. 
+EARNING ADJUSTMENT MECHANISMS PANEL – ELECTRIC 
+ 
+The Baseline LMWh Unit Cost is determined as follows:  
+𝐵𝐵𝐵𝐵𝐵𝐵𝐵𝐵𝐵𝐵𝐵𝐵𝐵𝐵𝐵𝐵 𝐿𝐿𝐿𝐿𝐿𝐿ℎ 𝑈𝑈𝑈𝑈𝑈𝑈𝑈𝑈 𝐶𝐶𝐶𝐶𝐶𝐶𝐶𝐶 (𝑅𝑅𝑅𝑅𝑥𝑥) =
+𝐵𝐵𝐵𝐵𝐵𝐵𝐵𝐵𝐵𝐵𝐵𝐵𝐵𝐵𝐵𝐵 𝐴𝐴𝐴𝐴𝐴𝐴𝐴𝐴𝐴𝐴𝐴𝐴 𝐵𝐵𝐵𝐵𝐵𝐵𝐵𝐵𝐵𝐵𝐵𝐵 (𝑅𝑅𝑅𝑅𝑥𝑥)
+𝐵𝐵𝐵𝐵𝐵𝐵𝐵𝐵𝐵𝐵𝐵𝐵𝐵𝐵𝐵𝐵 𝐴𝐴𝐴𝐴𝐴𝐴𝐴𝐴𝐴𝐴𝐴𝐴 𝑀𝑀𝑀𝑀ℎ (𝑅𝑅𝑅𝑅𝑥𝑥) × 𝐸𝐸𝐸𝐸𝐸𝐸 (10 𝑌𝑌𝑌𝑌𝑌𝑌𝑌𝑌𝑌𝑌) 
+2022
+2023
+2024
+Baseline  Annual 
+Budget  
+(non-LMI) (A) 
+$12,567,929 
+13,012,584 
+$12,586,238 
+Baseline  Annual 
+Target  
+(non-LMI) (MWh) (B) 
+64,191 
+66,044 
+67,711 
+Target EUL (C) 
+10 Years 
+10 Years 
+10 Years 
+Baseline  Lifetime 
+Target  
+(non-LMI) (LMWh) 
+(D = B x C) 
+641,910 
+660,440 
+677,110 
+Baseline LMWh Unit 
+Cost (A / D) 
+19.58 
+19.70 
+18.59 
+ 
+ 
+And where: the Acquired LMWh Unit Cost is determined based 
+on Annual Budget and LMWh savings (non-LMI) achieved by the 
+Company. The annual MWh savings are converted to LMWh 
+savings by multiplying by the acquired EUL.  
+The Acquired LMWh Unit Cost is determined as follows:  
+𝐴𝐴𝐴𝐴𝐴𝐴𝐴𝐴𝐴𝐴𝐴𝐴𝐴𝐴𝐴𝐴 𝐿𝐿𝐿𝐿𝐿𝐿ℎ 𝑈𝑈𝑈𝑈𝑈𝑈𝑈𝑈 𝐶𝐶𝐶𝐶𝐶𝐶𝐶𝐶 (𝑅𝑅𝑅𝑅𝑥𝑥) =
+𝐴𝐴𝐴𝐴𝐴𝐴𝐴𝐴𝐴𝐴𝐴𝐴 𝑆𝑆𝑆𝑆𝑆𝑆𝑆𝑆𝑆𝑆𝑆𝑆𝑆𝑆𝑆𝑆 (𝑅𝑅𝑌𝑌𝑥𝑥)
+𝐴𝐴𝐴𝐴𝐴𝐴𝐴𝐴𝐴𝐴𝐴𝐴𝐴𝐴𝐴𝐴 𝑀𝑀𝑀𝑀ℎ (𝑅𝑅𝑅𝑅𝑥𝑥) × 𝐴𝐴𝐴𝐴𝐴𝐴𝐴𝐴𝐴𝐴𝐴𝐴𝐴𝐴𝐴𝐴 𝐸𝐸𝐸𝐸𝐸𝐸 
+ 
+
+
+--- Page 79 ---
+Exhibit___EAMP-1 
+Page 21 of 33 
+ORANGE AND ROCKLAND UTILITIES, INC. 
+EARNING ADJUSTMENT MECHANISMS PANEL – ELECTRIC 
+ 
+Targets 
+To the extent the Company achieves LMWh Unit costs below 
+the Baseline LMWh Unit Costs, and minimum threshold 
+savings, the Company will earn 30 percent of unit cost 
+savings multiplied by the acquired LMWh savings. 
+2022
+2023
+2024
+Minimum Threshold 
+(LMWh) 
+641,910 
+660,440 
+677,110 
+Minimum 
+30% of $ / Lifecycle MWh Savings 
+applied to Acquired Lifecycle MWh 
+Mid-Point 
+Maximum 
+ 
+Incentives 
+Incentives will be calculated at the end of each calendar 
+year. The incentive will be capped at 25.00 basis points 
+only in the event the Company achieves 100 basis points in 
+a given year.  
+ 
+ 
+ 
+
+
+--- Page 80 ---
+Exhibit___EAMP-1 
+Page 22 of 33 
+ORANGE AND ROCKLAND UTILITIES, INC. 
+EARNING ADJUSTMENT MECHANISMS PANEL – ELECTRIC 
+ 
+3.0 Environmentally Beneficial Electrification 
+3.1 Carbon Reduction 
+The Carbon Reduction metric incentivizes the Company’s 
+efforts to reduce carbon emissions by facilitating greater 
+adoption of technologies that use electricity to reduce 
+carbon emissions relative to traditional technologies that 
+rely on carbon-intensive fuel sources.  
+Metrics 
+The metric measures incremental avoided lifetime tons of 
+carbon from the deployment of beneficial electrification 
+technologies such as air-source heat pumps (“ASHPs”), 
+ground-source heat pumps (“GSHPs”), heat pump water heaters 
+(“HPWHs”), and Electric Vehicles (“EV”).  
+Measurement 
+The incremental lifetime tons of carbon is calculated as 
+the number of incremental units multiplied by the assumed 
+avoided tons of CO2 multiplied by the average technology 
+life as set forth below.  
+𝐶𝐶𝑎𝑎𝑎𝑎𝑎𝑎𝑎𝑎𝑎𝑎 𝑅𝑅𝑅𝑅𝑅𝑅𝑅𝑅𝑅𝑅𝑅𝑅𝑅𝑅𝑅𝑅𝑅𝑅 (𝐴𝐴𝐴𝐴𝐴𝐴𝐴𝐴𝐴𝐴𝐴𝐴𝐴𝐴 𝑇𝑇𝑇𝑇𝑇𝑇𝑇𝑇 𝑜𝑜𝑜𝑜 𝐶𝐶𝐶𝐶2)
+= 𝐸𝐸𝐸𝐸𝐸𝐸 𝐴𝐴𝐴𝐴𝐴𝐴𝐴𝐴𝐴𝐴𝐴𝐴𝐴𝐴 𝑇𝑇𝑇𝑇𝑇𝑇𝑇𝑇 𝑜𝑜𝑜𝑜 𝐶𝐶𝐶𝐶2 + 𝐴𝐴𝐴𝐴𝐴𝐴𝐴𝐴𝐴𝐴 𝐴𝐴𝐴𝐴𝐴𝐴𝐴𝐴𝐴𝐴𝐴𝐴𝐴𝐴 𝑇𝑇𝑇𝑇𝑇𝑇𝑇𝑇 𝑜𝑜𝑜𝑜 𝐶𝐶𝐶𝐶2
++ 𝐻𝐻𝐻𝐻𝐻𝐻𝐻𝐻𝐻𝐻 𝐴𝐴𝐴𝐴𝐴𝐴𝐴𝐴𝐴𝐴𝐴𝐴𝐴𝐴 𝑇𝑇𝑇𝑇𝑇𝑇𝑇𝑇 𝑜𝑜𝑜𝑜 𝐶𝐶𝐶𝐶2 +  𝐺𝐺𝐺𝐺𝐺𝐺𝐺𝐺𝐺𝐺 𝐴𝐴𝐴𝐴𝐴𝐴𝐴𝐴𝐴𝐴𝐴𝐴𝐴𝐴 𝑇𝑇𝑇𝑇𝑇𝑇𝑇𝑇 𝑜𝑜𝑜𝑜 𝐶𝐶𝐶𝐶2 
+
+
+--- Page 81 ---
+Exhibit___EAMP-1 
+Page 23 of 33 
+ORANGE AND ROCKLAND UTILITIES, INC. 
+EARNING ADJUSTMENT MECHANISMS PANEL – ELECTRIC 
+ 
+Where, the avoided tons of Carbon from beneficial 
+technologies would be calculated as follows: 
+𝐸𝐸𝐸𝐸𝐸𝐸 𝐴𝐴𝐴𝐴𝐴𝐴𝐴𝐴𝐴𝐴𝐴𝐴𝐴𝐴 𝑇𝑇𝑇𝑇𝑇𝑇𝑇𝑇 𝑜𝑜𝑜𝑜 𝐶𝐶𝐶𝐶2 = 𝐸𝐸𝐸𝐸 𝑅𝑅𝑅𝑅𝑅𝑅𝑅𝑅𝑅𝑅𝑅𝑅𝑅𝑅𝑅𝑅𝑅𝑅𝑅𝑅𝑅𝑅𝑅𝑅𝑅𝑅 × 4.675 𝑡𝑡𝑡𝑡𝑡𝑡𝑡𝑡 𝐶𝐶𝐶𝐶2  × 10 𝑌𝑌𝑌𝑌𝑌𝑌𝑌𝑌𝑌𝑌 
+ 
+𝐴𝐴𝐴𝐴𝐴𝐴𝐴𝐴𝐴𝐴 𝐴𝐴𝐴𝐴𝐴𝐴𝐴𝐴𝐴𝐴𝐴𝐴𝐴𝐴 𝑇𝑇𝑇𝑇𝑇𝑇𝑇𝑇 𝑜𝑜𝑜𝑜 𝐶𝐶𝐶𝐶2 = 𝐴𝐴𝐴𝐴𝐴𝐴𝐴𝐴 𝐼𝐼𝐼𝐼𝐼𝐼𝐼𝐼𝐼𝐼𝐼𝐼𝐼𝐼𝐼𝐼𝐼𝐼𝐼𝐼𝐼𝐼𝐼𝐼𝐼𝐼 × 6.700 𝑡𝑡𝑡𝑡𝑡𝑡𝑡𝑡 𝐶𝐶𝐶𝐶2  × 15 𝑌𝑌𝑌𝑌𝑌𝑌𝑌𝑌𝑌𝑌 
+ 
+𝐻𝐻𝐻𝐻𝐻𝐻𝐻𝐻𝐻𝐻 𝐴𝐴𝐴𝐴𝐴𝐴𝐴𝐴𝐴𝐴𝐴𝐴𝐴𝐴 𝑇𝑇𝑇𝑇𝑇𝑇𝑇𝑇 𝑜𝑜𝑜𝑜𝐶𝐶𝐶𝐶2
+= 𝐻𝐻𝐻𝐻𝐻𝐻𝐻𝐻 𝐼𝐼𝐼𝐼𝐼𝐼𝐼𝐼𝐼𝐼𝐼𝐼𝐼𝐼𝐼𝐼𝐼𝐼𝐼𝐼𝐼𝐼𝐼𝐼𝐼𝐼 × 1.008 𝑡𝑡𝑡𝑡𝑡𝑡𝑡𝑡 𝐶𝐶𝐶𝐶2  × 10 𝑌𝑌𝑌𝑌𝑌𝑌𝑌𝑌𝑌𝑌 
+ 
+𝐺𝐺𝐺𝐺𝐺𝐺𝐺𝐺𝐺𝐺 𝐴𝐴𝐴𝐴𝐴𝐴𝑖𝑖𝑖𝑖𝑖𝑖𝑖𝑖 𝑇𝑇𝑇𝑇𝑇𝑇𝑇𝑇 𝑜𝑜𝑜𝑜 𝐶𝐶𝐶𝐶2 = 𝐺𝐺𝐺𝐺𝐺𝐺𝐺𝐺 𝐼𝐼𝐼𝐼𝐼𝐼𝐼𝐼𝐼𝐼𝐼𝐼𝐼𝐼𝐼𝐼𝐼𝐼𝐼𝐼𝐼𝐼𝐼𝐼𝐼𝐼 × 9.690 𝑡𝑡𝑡𝑡𝑡𝑡𝑡𝑡 𝐶𝐶𝐶𝐶2  × 25 𝑌𝑌𝑌𝑌𝑌𝑌𝑌𝑌𝑌𝑌 
+ 
+Where: The EVs will be measured as the incremental EVs 
+registered in the Company’s service territory. EVs are 
+defined as battery EVs (“BEVs”) and Plug-in hybrid electric 
+vehicles (“PHEVs”). The EV registrations will be determined 
+through EValuateNY, a New York State Energy Research & 
+Development Authority’s (“NYSERDA”) funded tool or 
+equivalent.  
+And, where: Incremental heat pumps are measured by the 
+number of heat pumps installed in the Company’s service 
+territory.  
+Targets 
+• EV targets set as follows: 
+o 2022-2024 baseline set based on linear regression 
+trend derived from historic 2011-2019 EV data 
+
+
+--- Page 82 ---
+Exhibit___EAMP-1 
+Page 24 of 33 
+ORANGE AND ROCKLAND UTILITIES, INC. 
+EARNING ADJUSTMENT MECHANISMS PANEL – ELECTRIC 
+ 
+o The minimum, mid-point, and maximum targets set 
+0.25, 1.00, and 1.75 standard error above the 
+baseline. 
+o The standard error derived from the Company’s 9-
+year (2011-2019) historical EV data 
+• ASHP, GSHP and HPWH targets set as follows: 
+o 2022-2024 baseline set based on Company’s 2022-
+2024 forecast of these technologies 
+installations.  
+o The minimum, mid-point, and maximum targets set 
+0.25, 1.00, and 1.75 standard error above the 
+baseline. 
+o The standard error derived from the Company’s 9-
+year (2019-2025) historical and projected data 
+ 
+Minimum 
+74,513  
+85,678 
+95,897 
+Mid-Point 
+86,131 
+97,296 
+107,515 
+Maximum 
+97,750 
+108,914 
+119,133 
+Incentives 
+ 
+The Company will achieve an incentive if the metric meets 
+or exceeds the target thresholds, with linear scaling 
+
+
+--- Page 83 ---
+Exhibit___EAMP-1 
+Page 25 of 33 
+ORANGE AND ROCKLAND UTILITIES, INC. 
+EARNING ADJUSTMENT MECHANISMS PANEL – ELECTRIC 
+ 
+between minimum and midpoint, and between midpoint and 
+maximum basis points. 
+ 
+ 
+4.0 Gas Efficiency 
+4.1 Dth Reduction 
+The Dth Reduction metric is a programmatic metric that 
+incentivizes the Company to achieve gas savings in each 
+Rate Year from the Company’s EE programs.  
+Metrics 
+The metric is based on Dth savings achieved from all of 
+Company’s administered gas EE programs during the Rate 
+Year, including LMI and non-LMI EE programs, subject to the 
+EUL threshold. 
+Measurement 
+The metric is measured as Dth savings achieved from the 
+Company-administered gas EE programs (LMI and non-LMI).   
+Minimum 
+3.00  
+4.00  
+4.00  
+Mid-Point 
+5.25  
+7.00  
+7.00  
+Maximum 
+7.50  
+10.00  
+10.00  
+
+
+--- Page 84 ---
+Exhibit___EAMP-1 
+Page 26 of 33 
+ORANGE AND ROCKLAND UTILITIES, INC. 
+EARNING ADJUSTMENT MECHANISMS PANEL – ELECTRIC 
+ 
+As a precondition to earning the incentive associated with 
+this metric, the EUL of the Company’s EE portfolio must be 
+at least ten years.  
+EULs for each measure will be estimated using the NYS 
+Technical Resource Manual (“NY TRM”).11 Dth reductions will 
+be calculated consistent with the current standard 
+practices described in the NY TRM.  
+Targets 
+• Targets for Dth Reduction metric are designed to be 
+above and beyond the targets approved by the 
+Commission in January 2020 NENY Order. 
+• The baseline is set at the Commission’s approved 
+targets from the January 2020 NENY Order.  
+• The minimum and maximum targets are set at 5.0 and 
+35.0 percent above the baseline.   
+ 
+ 
+11 If a specific measure is not included in the NYS TRM, the Company 
+will estimate the EUL and the MWh savings using technology specific 
+industry research and/or data. 
+
+
+--- Page 85 ---
+Exhibit___EAMP-1 
+Page 27 of 33 
+ORANGE AND ROCKLAND UTILITIES, INC. 
+EARNING ADJUSTMENT MECHANISMS PANEL – ELECTRIC 
+ 
+2022
+2023
+2024
+Minimum 
+64,685 
+83,029 
+102,390 
+ 
+ 
+ 
+ 
+Maximum 
+83,167 
+106,751 
+131,644 
+Incentives 
+Incentives will be calculated at the end of each calendar 
+year (e.g., Dth savings from January 1 through December 
+31).  
+The Dth Reduction metric includes the provision to allow 
+the Company to carry over any unachieved incentives between 
+minimum and maximum levels in a given rate year, to the 
+following rate year(s). For example, if the Company 
+achieves 10.00 of the maximum 16.50 basis points in 2022, 
+then the Company would carry forward to 2023 the unachieved 
+incentive of 6.50 basis points and the corresponding 
+unachieved targets, making in 2023 the new maximum of 23.00 
+basis points and no change to the minimum.  
+The Company will achieve an incentive if the metric meets 
+or exceeds the target thresholds, with linear scaling 
+between minimum and maximum basis points. 
+ 
+ 
+
+
+--- Page 86 ---
+Exhibit___EAMP-1 
+Page 28 of 33 
+ORANGE AND ROCKLAND UTILITIES, INC. 
+EARNING ADJUSTMENT MECHANISMS PANEL – ELECTRIC 
+ 
+2022
+2023
+2024
+Minimum 
+6.50  
+6.50  
+6.50  
+ 
+ 
+ 
+ 
+Maximum 
+16.50  
+16.50  
+16.50  
+ 
+4.2 Gas Share the Savings 
+The Gas Share the Savings (“Gas STS”) metric incentivizes 
+the Company to achieve cost efficiencies in its non-LMI Gas 
+EE programs.  
+Metrics 
+The metric is designed to reduce the unit costs of LMMbtu 
+savings achieved from the Company’s Gas EE programs, while 
+increasing the overall energy savings. Under the metric, 
+the Company will be awarded 30 percent of unit cost savings 
+realized from the Company’s acquired non-LMI Gas EE 
+savings, once the baseline LMMBtu target is achieved by the 
+Company.  
+Measurement  
+The performance targets and incentives will be calculated 
+as follows:  
+
+
+--- Page 87 ---
+Exhibit___EAMP-1 
+Page 29 of 33 
+ORANGE AND ROCKLAND UTILITIES, INC. 
+EARNING ADJUSTMENT MECHANISMS PANEL – ELECTRIC 
+ 
+𝐺𝐺𝐺𝐺𝐺𝐺 𝑆𝑆𝑆𝑆𝑆𝑆 ($) = [(𝑅𝑅𝑅𝑅𝑥𝑥) 𝐵𝐵𝐵𝐵𝐵𝐵𝐵𝐵𝐵𝐵𝐵𝐵𝐵𝐵𝐵𝐵 𝐿𝐿𝐿𝐿𝐿𝐿𝐿𝐿𝐿𝐿𝐿𝐿 𝑈𝑈𝑈𝑈𝑈𝑈𝑈𝑈 𝐶𝐶𝐶𝐶𝐶𝐶𝐶𝐶−
+ (𝑅𝑅𝑅𝑅𝑥𝑥) 𝐴𝐴𝐴𝐴𝐴𝐴𝐴𝐴𝐴𝐴𝐴𝐴𝐴𝐴𝐴𝐴 𝐿𝐿𝐿𝐿𝐿𝐿𝐿𝐿𝐿𝐿𝐿𝐿 𝑈𝑈𝑈𝑈𝑈𝑈𝑈𝑈 𝐶𝐶𝐶𝐶𝐶𝐶𝐶𝐶] × (𝑅𝑅𝑌𝑌𝑥𝑥) 𝐴𝐴𝐴𝐴𝐴𝐴𝐴𝐴𝐴𝐴𝐴𝐴𝐴𝐴𝐴𝐴 𝐿𝐿𝐿𝐿𝐿𝐿𝐿𝐿𝐿𝐿𝐿𝐿 × 30%  
+ 
+Where: the Baseline LMMBtu Unit Cost is determined based on 
+Baseline Annual Budget and Targets found in the Company’s 
+System Energy Efficiency Plan (“SEEP”).12 The baseline 
+annual MMBtu targets are converted to baseline LMMBtu 
+targets by multiplying with EUL of 10.00 years.  
+The Baseline LMMBtu Unit Cost is determined as follows:  
+𝐵𝐵𝐵𝐵𝐵𝐵𝐵𝐵𝐵𝐵𝐵𝐵𝐵𝐵𝐵𝐵 𝐿𝐿𝐿𝐿𝐿𝐿𝐿𝐿𝐿𝐿𝐿𝐿 𝑈𝑈𝑈𝑈𝑈𝑈𝑈𝑈 𝐶𝐶𝐶𝐶𝐶𝐶𝐶𝐶 (𝑅𝑅𝑅𝑅𝑥𝑥)
+=
+𝐵𝐵𝐵𝐵𝐵𝐵𝐵𝐵𝐵𝐵𝐵𝐵𝐵𝐵𝐵𝐵 𝐴𝐴𝐴𝐴𝐴𝐴𝐴𝐴𝐴𝐴𝐴𝐴 𝐵𝐵𝐵𝐵𝐵𝐵𝐵𝐵𝐵𝐵𝐵𝐵 (𝑅𝑅𝑅𝑅𝑥𝑥)
+𝐵𝐵𝐵𝐵𝐵𝐵𝐵𝐵𝐵𝐵𝐵𝐵𝐵𝐵𝐵𝐵 𝐴𝐴𝐴𝐴𝐴𝐴𝐴𝐴𝐴𝐴𝑙𝑙 𝑀𝑀𝑀𝑀𝑀𝑀𝑀𝑀𝑀𝑀 (𝑅𝑅𝑅𝑅𝑥𝑥) × 𝐸𝐸𝐸𝐸𝐸𝐸 (15.5 𝑌𝑌𝑌𝑌𝑌𝑌𝑌𝑌𝑌𝑌) 
+2022
+2023
+2024
+Baseline  Annual 
+Budget  
+(A) 
+$2,184,641 
+$2,891,866 
+$2,981,977 
+Baseline  Annual 
+Target  
+(MMBtu) (B) 
+56,438 
+72,469 
+89,470 
+Target EUL (C) 
+10.0 Years 
+10.0 Years 
+10.0 Years 
+ 
+12 Case 18-M-0084, O&R’s System Energy Efficiency Plan 2019-2025, filed 
+September 15,2020. 
+
+
+--- Page 88 ---
+Exhibit___EAMP-1 
+Page 30 of 33 
+ORANGE AND ROCKLAND UTILITIES, INC. 
+EARNING ADJUSTMENT MECHANISMS PANEL – ELECTRIC 
+ 
+Baseline  Lifetime 
+Target  
+(LMMBtu) 
+(D = B x C) 
+564,380 
+724,690 
+894,700 
+Baseline LMMBtu Unit 
+Cost (A / D) 
+$3.87 
+$3.99 
+$3.33 
+ 
+ 
+And where: the Acquired LMMBtu Unit Cost is determined 
+based on Annual Budget and LMMBtu savings achieved by the 
+Company. The annual MMBtu savings are converted to LMMBtu 
+savings by multiplying with acquired EUL.  
+The Acquired LMMBtu Unit Cost is determined as follows:  
+𝐴𝐴𝐴𝐴𝐴𝐴𝐴𝐴𝐴𝐴𝐴𝐴𝐴𝐴𝑑𝑑 𝐿𝐿𝐿𝐿𝐿𝐿𝐿𝐿𝐿𝐿𝐿𝐿 𝑈𝑈𝑈𝑈𝑈𝑈𝑈𝑈 𝐶𝐶𝐶𝐶𝐶𝐶𝐶𝐶 (𝑅𝑅𝑅𝑅𝑥𝑥) =
+𝐴𝐴𝐴𝐴𝐴𝐴𝐴𝐴𝐴𝐴𝐴𝐴 𝑆𝑆𝑆𝑆𝑆𝑆𝑆𝑆𝑆𝑆𝑆𝑆𝑆𝑆𝑆𝑆 (𝑅𝑅𝑅𝑅𝑥𝑥)
+𝐴𝐴𝐴𝐴𝐴𝐴𝐴𝐴𝐴𝐴𝐴𝐴𝐴𝐴𝐴𝐴 𝑀𝑀𝑀𝑀𝑀𝑀𝑀𝑀𝑀𝑀 (𝑅𝑅𝑅𝑅𝑥𝑥) × 𝐴𝐴𝐴𝐴𝐴𝐴𝐴𝐴𝐴𝐴𝐴𝐴𝐴𝐴𝐴𝐴 𝐸𝐸𝐸𝐸𝐸𝐸 
+Targets 
+To the extent the Company achieves LMMBtu Unit costs below 
+the Baseline LMMBtu Unit Costs, and minimum threshold 
+savings, the Company will earn 30 percent of unit cost 
+savings multiplied by the acquired LMMBtu savings. 
+ 
+ 
+
+
+--- Page 89 ---
+Exhibit___EAMP-1 
+Page 31 of 33 
+ORANGE AND ROCKLAND UTILITIES, INC. 
+EARNING ADJUSTMENT MECHANISMS PANEL – ELECTRIC 
+ 
+2022
+2023
+2024
+Minimum Threshold 
+(LMMBtu) 
+564,380 
+724,690 
+894,700 
+Minimum 
+30% of $ / Lifecycle MMBtu Savings 
+applied to Acquired Lifecycle MMBtu 
+Mid-Point 
+Maximum 
+ 
+Incentives 
+Incentives will be calculated at the end of each calendar 
+year.  
+4.3 Gas Peak Reduction 
+The Gas Peak Reduction metric incentivizes the Company to 
+reduce its firm gas peak demands.  
+Metrics 
+The metric would be based on reducing heating-related peak 
+demands (“HPD”) per heating degree days (“HDD”) (together 
+termed as (“HPD/HDD”). The HPD for a period is calculated 
+as the difference between average of top 5 winter firm peak 
+demand and average of top 5 summer firm demand during the 
+period. 
+
+
+--- Page 90 ---
+Exhibit___EAMP-1 
+Page 32 of 33 
+ORANGE AND ROCKLAND UTILITIES, INC. 
+EARNING ADJUSTMENT MECHANISMS PANEL – ELECTRIC 
+ 
+Measurement 
+The metric is based on year over year reduction in HPD/HDD, 
+which is determined as follows:  
+𝐻𝐻𝐻𝐻𝐻𝐻/𝐻𝐻𝐻𝐻𝐻𝐻  
+= 𝐴𝐴𝐴𝐴𝐴𝐴𝐴𝐴𝐴𝐴𝐴𝐴𝐴𝐴 𝑜𝑜𝑜𝑜 𝑇𝑇𝑇𝑇𝑇𝑇 5 𝑊𝑊𝑊𝑊𝑊𝑊𝑊𝑊𝑊𝑊𝑊𝑊 𝑃𝑃𝑃𝑃𝑃𝑃𝑃𝑃𝑃𝑃 (𝑅𝑅𝑅𝑅𝑥𝑥) − 𝐴𝐴𝐴𝐴𝐴𝐴𝐴𝐴𝐴𝐴𝐴𝐴𝐴𝐴 𝑜𝑜𝑜𝑜 𝑇𝑇𝑇𝑇𝑇𝑇 5 𝑆𝑆𝑆𝑆𝑆𝑆𝑆𝑆𝑆𝑆𝑆𝑆 𝑃𝑃𝑃𝑃𝑃𝑃𝑃𝑃𝑃𝑃 (𝑅𝑅𝑅𝑅𝑥𝑥)
+𝐴𝐴𝐴𝐴𝐴𝐴𝐴𝐴𝐴𝐴𝐴𝐴𝐴𝐴 𝑜𝑜𝑜𝑜 𝑇𝑇𝑇𝑇𝑇𝑇 5 𝑊𝑊𝑊𝑊𝑊𝑊𝑊𝑊𝑊𝑊𝑊𝑊 𝑃𝑃𝑃𝑃𝑃𝑃𝑃𝑃𝑃𝑃′ 𝐻𝐻𝐻𝐻𝐻𝐻𝐻𝐻
+ 
+ 
+Where: 
+x 
+Is equal to 1, 2, and 3 for RY1, RY2 and 
+RY3 Respectively 
+Summer Season 
+The months of July, August, and 
+September 
+Winter Season 
+The months of October through June 
+ 
+Targets 
+• 2022-2024 baselines set each year based on linear 
+regression trend derived from the most recent 5-year 
+historical HPD/HDD 
+• The minimum, mid-point, and maximum targets are to be 
+set each year at 0.25, 1.00, and 1.75 standard error 
+below the baseline forecast. 
+
+
+--- Page 91 ---
+Exhibit___EAMP-1 
+Page 33 of 33 
+ORANGE AND ROCKLAND UTILITIES, INC. 
+EARNING ADJUSTMENT MECHANISMS PANEL – ELECTRIC 
+ 
+• The Standard Error (SE) will be derived from the most 
+recent 5-year historical HPD/HDD 
+• Targets to be set each year based on the following 
+calculation:  
+ 
+2022 
+2023 
+2024 
+Baseline  
+Forecast based on Linear Regression 
+from the most recent 5-year historical 
+HPD/HDD 
+Minimum 
+Baseline – (0.25 x SE) 
+Mid-Point 
+Baseline – (1.00 x SE) 
+Maximum 
+Baseline – (1.75 x SE) 
+Incentives 
+Achievement will be based on the Company reducing its 
+HPD/HDD below the targeted thresholds described above. The 
+Company will achieve an incentive if the metric meets or 
+exceeds the target thresholds, with linear scaling between 
+minimum and midpoint, and between midpoint and maximum 
+basis points.  
+2022
+2023
+2024
+Minimum 
+6.00  
+6.00  
+6.00  
+Mid-Point 
+10.50  
+10.50  
+10.50  
+Maximum 
+15.00  
+15.00  
+15.00  
+ 
+ 
+
+
+--- Page 92 ---
+Exhibit___EAMP-2 
+Page 1 of 2 
+ORANGE AND ROCKLAND UTILITIES, INC. 
+EARNINGS ADJUSTMENT MECHANISMS PANEL – ELECTRIC  
+ 
+ 
+ 
+ 
+Exhibit-EAMP2 
+Electric Proposed EAM Basis Points & Target Summary 
+ 
+ 
+Electric EAM
+Proposed Basis Points
+EAM
+Proposed Targets
+Metrics
+2022
+2023
+2024
+Metrics
+2022
+2023
+2024
+System Efficiency EAM
+System Efficiency EAM
+Peak Reduction
+Peak Reduction (Year-over-Year % Change)
+Minimum
+7.00
+      
+8.00
+      
+8.00
+      
+Minimum
+-0.76%
+TBD
+TBD
+Mid-Point
+12.25
+    
+14.00
+    
+14.00
+    
+Mid-Point
+-1.55%
+TBD
+TBD
+Maximum
+17.50
+    
+20.00
+    
+20.00
+    
+Maximum
+-2.34%
+TBD
+TBD
+Storage Roadmap
+Storage Roadmap (% LF Improvement)
+Minimum
+1.50
+      
+2.00
+      
+2.00
+      
+Minimum
+2.60%
+2.60%
+2.60%
+Mid-Point
+2.50
+      
+3.50
+      
+3.50
+      
+Mid-Point
+3.40%
+3.40%
+3.40%
+Maximum
+3.50
+      
+5.00
+      
+5.00
+      
+Maximum
+5.10%
+5.10%
+5.10%
+DER Utilization (PV)
+DER Utilization Solar (MWh)
+Minimum
+2.75
+      
+4.00
+      
+4.00
+      
+Minimum
+32,567
+   
+35,299
+   
+38,031
+   
+Mid-Point
+5.00
+      
+7.00
+      
+7.00
+      
+Mid-Point
+34,754
+   
+37,487
+   
+40,219
+   
+Maximum
+7.00
+      
+10.00
+    
+10.00
+    
+Maximum
+36,942
+   
+39,674
+   
+42,407
+   
+DER Utilization (Storage)
+DER Utilization Storage (MWh)
+Minimum
+2.75
+      
+4.00
+      
+4.00
+      
+Minimum
+39,964
+   
+28,722
+   
+18,502
+   
+Mid-Point
+-
+        
+-
+        
+-
+        
+Mid-Point
+Maximum
+7.00
+      
+10.00
+    
+10.00
+    
+Maximum
+57,091
+   
+41,031
+   
+26,431
+   
+Energy Efficiency EAM
+Energy Efficiency EAM
+Share the Savings
+Share the Savings
+Minimum
+-
+        
+-
+        
+-
+        
+Min Threshold
+641,910
+ 
+660,440
+ 
+677,110
+ 
+Mid-Point
+-
+        
+-
+        
+-
+        
+Minimum
+Maximum
+25.00
+    
+25.00
+    
+25.00
+    
+Mid-Point
+Note:  The incentive will be capped at 25.00 basis points only 
+Maximum
+in the event the Company achieves 100 basis points in a given year.
+MWH Reduction
+MWH Reduction (Lifecycle MWh)
+Minimum
+7.00
+      
+8.00
+      
+8.00
+      
+Minimum
+67,836
+   
+69,903
+   
+71,775
+   
+Mid-Point
+-
+        
+-
+        
+-
+        
+Maximum
+17.50
+    
+20.00
+    
+20.00
+    
+Maximum
+87,218
+   
+89,875
+   
+92,282
+   
+Beneficial Electrification EAM
+Beneficial Electrification EAM
+Carbon Reduction
+Carbon Reduction
+Minimum
+3.00
+      
+4.00
+      
+4.00
+      
+Minimum
+74,513
+   
+85,678
+   
+95,897
+   
+Mid-Point
+5.25
+      
+7.00
+      
+7.00
+      
+Mid-Point
+86,131
+   
+97,296
+   
+107,515
+ 
+Maximum
+7.50
+      
+10.00
+    
+10.00
+    
+Maximum
+97,750
+   
+108,914
+ 
+119,133
+ 
+EV Make-Ready STS
+EV Make-Ready STS
+Minimum
+-
+        
+-
+        
+-
+        
+Minimum
+Mid-Point
+7.50
+      
+-
+        
+-
+        
+Mid-Point
+       Maximum
+15.00
+    
+-
+        
+-
+        
+       Maximum
+Electric EAM Basis Points
+Minimum
+24.00
+   
+30.00
+   
+30.00
+   
+Mid-Point
+32.50
+   
+31.50
+   
+31.50
+   
+Maximum
+100.00
+ 
+100.00
+ 
+100.00
+ 
+ 30% of $ / Lifecycle MWh 
+Savings applied to Acquired 
+Lifecycle MWh 
+30 % STS per Case 18-E-0138, 
+Proceeding on Motion of the 
+Commission Regarding Electric 
+Vehicle Supply Equipment and 
+Infrastructure, Order Establishing 
+Electric Vehicle Infrastructure 
+Make-Ready Program and Other 
+Programs (issued July 16, 2020)
+
+
+--- Page 93 ---
+Exhibit___EAMP-2 
+Page 2 of 2 
+ORANGE AND ROCKLAND UTILITIES, INC. 
+EARNINGS ADJUSTMENT MECHANISMS PANEL – ELECTRIC  
+ 
+ 
+ 
+ 
+ 
+Gas Proposed EAM Basis Points & Target Summary 
+ 
+Gas EAM
+Proposed Basis Points
+Gas EAM
+Proposed Targets
+Metrics
+2022
+2023
+2024
+Metrics
+2022
+2023
+2024
+Gas Efficiency EAM
+Gas Efficiency EAM
+Share the Savings
+Share the Savings
+Minimum
+-
+        
+-
+        
+-
+        
+Min Threshold
+564,380
+ 
+724,690
+ 
+894,700
+ 
+Mid-Point
+-
+        
+-
+        
+-
+        
+Minimum
+Maximum
+-
+        
+-
+        
+-
+        
+Mid-Point
+Maximum
+Dth Reduction
+Dth Reduction (Lifetime Dth)
+Minimum
+6.50
+      
+6.50
+      
+6.50
+      
+Minimum
+64,685
+   
+83,029
+   
+102,390
+ 
+Mid-Point
+-
+        
+-
+        
+-
+        
+-
+          
+-
+          
+-
+          
+Maximum
+16.50
+    
+16.50
+    
+16.50
+    
+Maximum
+83,167
+   
+106,751
+ 
+131,644
+ 
+Gas Peak Reduction
+Gas Peak Reduction (Year-over-year % Change in Heating Load)
+Minimum
+6.00
+      
+6.00
+      
+6.00
+      
+Minimum
+-0.22%
+TBD
+TBD
+Mid-Point
+10.50
+    
+10.50
+    
+10.50
+    
+Mid-Point
+-0.89%
+TBD
+TBD
+Maximum
+15.00
+    
+15.00
+    
+15.00
+    
+Maximum
+-1.56%
+TBD
+TBD
+Gas EAM Basis Points
+Minimum
+12.50
+   
+12.50
+   
+12.50
+   
+Mid-Point
+10.50
+   
+10.50
+   
+10.50
+   
+Maximum
+31.50
+   
+31.50
+   
+31.50
+   
+ 30% of $ / Lifecycle MMBtu 
+Savings applied to Acquired 
+Lifecycle MMBtu 

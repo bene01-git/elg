@@ -1,0 +1,4155 @@
+--- Page 1 ---
+ 
+ 
+ 
+ 
+ 
+ 
+ 
+BEFORE THE 
+STATE OF NEW YORK 
+PUBLIC SERVICE COMMISSION 
+ 
+ 
+ 
+In the Matter of 
+ 
+The Brooklyn Union Gas Company d/b/a National Grid NY & 
+KeySpan Gas East Corporation d/b/a National Grid 
+ 
+Cases 23-G-0225 & 23-G-0226 
+ 
+September 1, 2023 
+ 
+ 
+Prepared Testimony of: 
+Staff Information Technology 
+Panel 
+ 
+Sandra Sweet 
+ 
+ 
+ 
+John P Castano 
+Utility Engineering  
+ 
+Auditor 2 (Public Utilities) 
+Specialist 2 
+ 
+ 
+ 
+Office of Accounting, Audits and 
+Office of Rates and Tariffs 
+Finance 
+ 
+Clifford Tookes 
+ 
+ 
+Paul Hammond 
+Utility Analyst Trainee 2  
+Utility Analyst Trainee 2 
+(Cyber Security) 
+ 
+ 
+(Physical Security) 
+Office of Resilience and  
+Office of Resilience and  
+Emergency Preparedness   
+Emergency Preparedness 
+ 
+Davide Maioriello 
+ 
+ 
+Anthony Osei-Tutu 
+Utility Engineering  
+ 
+Utility Consumer Assistance 
+Specialist 3 
+ 
+ 
+ 
+Specialist 2 
+Office of Energy System   
+Office of Consumer Services 
+Planning and Performance 
+ 
+State of New York 
+Department of Public Service 
+Three Empire State Plaza 
+Albany, New York 12223-1350 
+
+
+--- Page 2 ---
+Cases 23-G-0225 & 23-G-0226  
+SITP 
+ 
+1 
+ 
+Q. 
+Members of the Staff Information Technology, or 
+1 
+IT, Panel, or Panel, please state your names, 
+2 
+employer, and business address.  
+3 
+A. 
+Sandra Sweet, John Castano, Clifford Tookes, 
+4 
+Paul Hammond, Davide Maioriello, and Anthony 
+5 
+Osei-Tutu.  We are employed by the New York 
+6 
+State Department of Public Service, or 
+7 
+Department.  Our business address is Three 
+8 
+Empire State Plaza, Albany, New York 12223-1350. 
+9 
+Q. 
+Ms. Sweet, what is your position at the 
+10 
+Department?  
+11 
+A. 
+I am employed as a Utility Engineering 
+12 
+Specialist 2 in the Upstate Office of Rates and 
+13 
+Tariffs, which we will refer to as ORT. 
+14 
+Q. 
+Ms. Sweet, please state your educational 
+15 
+background and professional experience. 
+16 
+A. 
+I received a Bachelor of Science degree in 
+17 
+Mechanical Engineering from Clarkson University 
+18 
+in December 1999.  I began my employment with 
+19 
+the Department as a Junior Engineer in August 
+20 
+2008 in the Office of Energy Efficiency and the 
+21 
+Environment.  In the fall of 2011, I was 
+22 
+promoted to a Utility Engineer 1.  In February 
+23 
+2014, I joined the Office of Rates and Tariffs 
+24 
+
+
+--- Page 3 ---
+Cases 23-G-0225 & 23-G-0226  
+SITP 
+ 
+2 
+ 
+where my title changed to Assistant Engineer 
+1 
+(Electrical).  In 2019, I was promoted to 
+2 
+Utility Engineering Specialist 2.  Since joining 
+3 
+ORT, I have prepared, analyzed, and reviewed 
+4 
+reports and studies involving operating 
+5 
+revenues, sales forecasts, operation and 
+6 
+maintenance expenses, embedded costs, revenue 
+7 
+allocation, and rate design.  My current duties 
+8 
+include engineering analyses of electric 
+9 
+utilities’ rates, pricing, and tariff proposals. 
+10 
+Q. 
+Ms. Sweet, have you previously testified before 
+11 
+the New York State Public Service Commission, or 
+12 
+Commission? 
+ 
+13 
+A. 
+Yes.  I have testified in many rate cases 
+14 
+addressing various issues, including the 
+15 
+development of a targeted demand side management 
+16 
+model, a new energy efficiency portfolio support 
+17 
+position, embedded cost of service studies, rate 
+18 
+design, capital expenditures, depreciation, and 
+19 
+other revenue requirement issues.  I provided 
+20 
+testimony in Cases 10-E-0362, 14-E-0493, and 18-
+21 
+E-0067, regarding Orange and Rockland Utilities, 
+22 
+Inc., or O&R; Cases 15-E-0283 and 15-E-0285, and 
+23 
+19-E-0378 and 19-E-0380, 22-E-0317, 22-G-0318, 
+24 
+
+
+--- Page 4 ---
+Cases 23-G-0225 & 23-G-0226  
+SITP 
+ 
+3 
+ 
+22-E-0319, and 22-G-0320 regarding New York 
+1 
+State Electric & Gas Corporation, or NYSEG, and 
+2 
+Rochester Gas and Electric Corporation, or RG&E; 
+3 
+and Cases 17-E-0238, 20-E-0380 and 20-G-0381 
+4 
+regarding Niagara Mohawk Power Corporation d/b/a 
+5 
+National Grid, or NMPC.  
+6 
+Q. 
+Mr. Castano, are you a member of the Staff 
+7 
+Revenue Requirements Panel and are your 
+8 
+credentials in that Panel’s testimony? 
+9 
+A. 
+Yes. 
+10 
+Q. 
+Mr. Tookes, what is your position at the 
+11 
+Department? 
+12 
+A. 
+I am employed by the Department of Public 
+13 
+Service as a Utility Analyst Trainee 2 – Cyber 
+14 
+Security, assigned to the Utility Security 
+15 
+Section within the Office of Resilience and 
+16 
+Emergency Preparedness. 
+17 
+Q. 
+Please provide a summary of your educational and 
+18 
+professional experience. 
+19 
+A. 
+I have a Master of Science degree in 
+20 
+Cybersecurity from Utica University.  I have 
+21 
+also attended numerous courses, workshops, 
+22 
+seminars and conferences on cybersecurity and 
+23 
+critical infrastructure.  For example, in 2023, 
+24 
+
+
+--- Page 5 ---
+Cases 23-G-0225 & 23-G-0226  
+SITP 
+ 
+4 
+ 
+I attended the Cyber Security for Critical 
+1 
+Assets, or CS4CA summit, the Texas A&M Physical 
+2 
+and Cyber Security for Critical Infrastructure 
+3 
+course, and the New York State Cybersecurity 
+4 
+Conference.  I also have completed Cybersecurity 
+5 
+and Infrastructure Security Agency preparedness 
+6 
+courses in Industrial Control Systems, IT and OT 
+7 
+interaction and Cyber Risk.  I have also 
+8 
+completed Cybersecurity and Infrastructure 
+9 
+Security Agency training in Critical 
+10 
+Infrastructure Protection, and Supply Chain 
+11 
+Cyber Risk Management.  
+12 
+Q. 
+Please describe your current duties with the 
+13 
+Utility Security Section of the Office of 
+14 
+Reliability and Emergency Preparedness. 
+15 
+A. 
+I joined the Utility Security Section in 2022.  
+16 
+My current responsibilities include assisting 
+17 
+with cybersecurity vulnerability assessments of 
+18 
+critical facilities and corporate cybersecurity 
+19 
+systems, owned and operated by the electric, 
+20 
+gas, telecommunications, and water utilities.  
+21 
+Q. 
+Mr. Tookes, have you previously testified before 
+22 
+the Commission? 
+23 
+A. 
+No. 
+24 
+
+
+--- Page 6 ---
+Cases 23-G-0225 & 23-G-0226  
+SITP 
+ 
+5 
+ 
+Q. 
+Mr. Hammond, what is your position at the 
+1 
+Department? 
+2 
+A. 
+I am employed by the Department of Public 
+3 
+Service as a Utility Analyst Trainee 2 – 
+4 
+Physical Security, assigned to the Utility 
+5 
+Security Section within the Office of Resilience 
+6 
+and Emergency Preparedness. 
+7 
+Q. 
+Please provide a summary of your educational and 
+8 
+professional experience. 
+9 
+A. 
+I hold a Bachelor of Arts degree in History from 
+10 
+SUNY College at Fredonia.  I also have attended 
+11 
+numerous courses, workshops, seminars, and 
+12 
+conferences on physical security.  For example, 
+13 
+I have attended the Texas A&M Engineering 
+14 
+Physical and Cybersecurity for Critical 
+15 
+Infrastructure Course in 2023, and the Federal 
+16 
+Department of Homeland Security’s NY Responds 
+17 
+Incident Management System Training.  
+18 
+Q. 
+Please describe your current duties with the 
+19 
+Utility Security Section of the Office of 
+20 
+Resilience and Emergency Preparedness. 
+21 
+A. 
+As part of my responsibilities, I perform 
+22 
+physical security assessments at critical 
+23 
+infrastructure owned and operated by electric, 
+24 
+
+
+--- Page 7 ---
+Cases 23-G-0225 & 23-G-0226  
+SITP 
+ 
+6 
+ 
+gas, and water utilities in New York State. 
+1 
+Q. 
+Mr. Hammond, have you previously testified 
+2 
+before the Commission? 
+3 
+A. 
+No. 
+4 
+Q. 
+Mr. Maioriello, are you a member of the Staff 
+5 
+Gas Reliability and Supply Panel and are your 
+6 
+credentials in that Panel’s testimony? 
+7 
+A. 
+Yes. 
+8 
+Q. 
+Mr. Osei-Tutu, are you a member of the Staff 
+9 
+Consumer Services Panel and are your credentials 
+10 
+in that Panel’s testimony?   
+11 
+A. 
+Yes.   
+12 
+Summary of Testimony 
+13 
+Q. 
+What is the purpose of the Panel’s testimony in 
+14 
+these proceedings? 
+15 
+A. 
+Our testimony will summarize the Brooklyn Union 
+16 
+Gas Company d/b/a National Grid NY, or KEDNY and 
+17 
+KeySpan Gas East Corporation d/b/a National 
+18 
+Grid, or KEDLI, collectively referred to as the 
+19 
+Companies, request for new IT programs and 
+20 
+projects, discuss our review process, and 
+21 
+recommend adjustments related to the proposed IT 
+22 
+projects and overall spending.  Our testimony 
+23 
+will recommend an overall level of IT capital 
+24 
+
+
+--- Page 8 ---
+Cases 23-G-0225 & 23-G-0226  
+SITP 
+ 
+7 
+ 
+expenditures at the National Grid USA Service 
+1 
+Company, Inc., or Service Company, level used in 
+2 
+establishing the Rate Year, or twelve months 
+3 
+ending March 31, 2025, Service Company Rent 
+4 
+expense, as well as operating expense, or OPEX, 
+5 
+and run the business, or RTB, costs.  We will 
+6 
+describe Service Company rent expense, OPEX and 
+7 
+RTB later in our testimony. 
+8 
+Q. 
+Do other panels discuss any IT projects? 
+9 
+A. 
+Energy Efficiency related IT investments will be 
+10 
+discussed in the Staff Efficiency Panel’s 
+11 
+Testimony.   
+12 
+Q. 
+What adjustments are you recommending to the 
+13 
+Companies proposed IT investments? 
+14 
+A. 
+We recommend thirty-two adjustments.  Our first 
+15 
+twenty-nine adjustments remove specific IT 
+16 
+project capital expenditures from the Rate Year.  
+17 
+Our thirtieth and thirty-first adjustments 
+18 
+modify the forecasted Rate Year OPEX and RTB 
+19 
+costs.  Our thirty-second adjustment modifies 
+20 
+the Service Company rate of return on IT capital 
+21 
+investments.   
+22 
+Q. 
+Do you have any other recommendations regarding 
+23 
+IT? 
+24 
+
+
+--- Page 9 ---
+Cases 23-G-0225 & 23-G-0226  
+SITP 
+ 
+8 
+ 
+A. 
+Yes.  We also have recommendations regarding IT 
+1 
+reporting requirements and the continuation of 
+2 
+the downward-only Service Company Rent IT true-
+3 
+up. 
+4 
+Q. 
+Please define the Historic Test Year and Data 
+5 
+Years in these proceedings. 
+6 
+A. 
+The Historic Test Year is the twelve-month 
+7 
+period ending December 31, 2022.  Data Years are 
+8 
+the terms used by the Companies to refer to the 
+9 
+years beyond the Rate Year.  Data Year One, Data 
+10 
+Year Two, and Data Year Three are the subsequent 
+11 
+12-month periods ending March 31, 2026, March 
+12 
+31, 2027, and March 31, 2028, respectively.   
+13 
+Q. 
+What are KEDNY’s and KEDLI’s Fiscal Year, or FY? 
+14 
+A. 
+The Companies’ FY runs from April 1 to March 31.  
+15 
+They are identified by the calendar year in 
+16 
+which the FY ends, such that FY24 begins on 
+17 
+April 1, 2023, and ends on March 31, 2024, FY25 
+18 
+is the same period as the Rate Year, FY26 is the 
+19 
+same as Data Year One, FY27 is the same as Data 
+20 
+Year Two, and FY28 is the same as Data Year 
+21 
+Three. 
+22 
+Q. 
+In your testimony, will the Panel refer to, or 
+23 
+otherwise rely on, any information obtained 
+24 
+
+
+--- Page 10 ---
+Cases 23-G-0225 & 23-G-0226  
+SITP 
+ 
+9 
+ 
+during the discovery phase of this proceeding? 
+1 
+A. 
+Yes.  We rely on several responses to our 
+2 
+information requests, or IRs.  These responses 
+3 
+are included in Exhibit___(SITP-1) and will be 
+4 
+identified using the reference number originally 
+5 
+assigned by the Department.  For instance, the 
+6 
+Department’s first IR was identified as “DPS-
+7 
+001.” 
+8 
+Q. 
+Is the Panel sponsoring any other exhibits? 
+9 
+A. 
+Yes, we are sponsoring the following additional 
+10 
+exhibits: Exhibit___(SITP-2) includes a summary 
+11 
+of Service Company Rents, Exhibit___(SITP-3), 
+12 
+includes the Panel’s proposed capital 
+13 
+expenditure adjustments, Exhibit___(SITP-4) 
+14 
+includes the Panel’s proposed OPEX and RTB 
+15 
+adjustments, Exhibit___(SITP-5) includes the 
+16 
+Historical Spending analysis for capital 
+17 
+expenditures and operating and RTB expenses, 
+18 
+Exhibit__(SITP-6) includes the KEDNY Service 
+19 
+Company Rents, and Exhibit__(SITP-7) includes 
+20 
+the KEDLI Service Company Rents. 
+21 
+The Companies’ IT Organization 
+22 
+Q. 
+What is the role of IT&D function at National 
+23 
+Grid? 
+24 
+
+
+--- Page 11 ---
+Cases 23-G-0225 & 23-G-0226  
+SITP 
+ 
+10 
+ 
+A. 
+As stated on page 5 of the IT&D Panel’s direct 
+1 
+testimony, National Grid IT&D delivers services 
+2 
+and technology solutions that range from 
+3 
+critical gas transmission and distribution 
+4 
+support systems to desktop applications.  The 
+5 
+IT&D function is integral in the provision of 
+6 
+safe, reliable, and secure natural gas delivery.  
+7 
+IT&D also provides a suite of software 
+8 
+applications, asset and work management systems, 
+9 
+as well as customer support systems that allow 
+10 
+KEDNY and KEDLI to efficiently and effectively 
+11 
+operate their gas systems. 
+12 
+Q. 
+Explain how National Grid’s IT&D organization is 
+13 
+structured. 
+14 
+A. 
+National Grid’s IT&D organization has an 
+15 
+umbrella structure.  At the top is the National 
+16 
+Grid IT&D shared services and delivery 
+17 
+functions.  Those shared services and delivery 
+18 
+functions are comprised of “towers” aligned to 
+19 
+support the United States, or US, and United 
+20 
+Kingdom, or UK, businesses.   
+21 
+Q. 
+Describe how IT&D investment plans are 
+22 
+developed.   
+23 
+A. 
+As stated on page 8 of the Companies’ IT&D 
+24 
+
+
+--- Page 12 ---
+Cases 23-G-0225 & 23-G-0226  
+SITP 
+ 
+11 
+ 
+Panel’s direct testimony, first, National Grid 
+1 
+identifies IT project priorities.  As part of 
+2 
+the prioritization effort, business needs, 
+3 
+infrastructure requirements, sequencing, 
+4 
+resource availability and capacity, size and 
+5 
+impact of the IT investment, and the overall 
+6 
+benefit of the investment is compared to other 
+7 
+IT proposals.  Once engaged, IT&D considers 
+8 
+existing multi-year investments and identifies 
+9 
+the amount of work remaining, and the delivery 
+10 
+timeline for those projects.  IT&D will also 
+11 
+support new IT investments needed to comply with 
+12 
+legal or regulatory requirements and mandates, 
+13 
+or other critical corporate objectives.  Lastly, 
+14 
+IT projects are targeted to include investments 
+15 
+needing upgrades, replacement, or the addition 
+16 
+of functionality necessary to ensure system 
+17 
+reliability or required for future operational 
+18 
+business needs. 
+19 
+Q. 
+Explain how National Grid reviews the IT&D 
+20 
+investment plan. 
+21 
+A. 
+The Companies’ IT&D staff collaborate on 
+22 
+creating an investment plan in line with each of 
+23 
+the business’s priorities.  An investment plan 
+24 
+
+
+--- Page 13 ---
+Cases 23-G-0225 & 23-G-0226  
+SITP 
+ 
+12 
+ 
+review occurs December/January in each FY with 
+1 
+the jurisdictional presidents, jurisdictional 
+2 
+delegates, and functional executives.  Once the 
+3 
+plan is approved, it is incorporated into the 
+4 
+IT&D budget.  The IT&D budget is reviewed and 
+5 
+approved by various Chief Information and 
+6 
+Digital Offices, as well as Corporate Finance.  
+7 
+Finally, the plan is incorporated into the 
+8 
+consolidated National Grid US budget for 
+9 
+approval by the National Grid Board.  
+10 
+Q. 
+Do the Companies develop their own IT projects 
+11 
+and investments?  
+12 
+A. 
+No, as most of the IT projects are used by 
+13 
+multiple operating companies and subsidiaries of 
+14 
+National Grid such as the Companies, IT projects 
+15 
+are designed and accounted for by the Service 
+16 
+Company.  The accounting for these costs will be 
+17 
+discussed later in our testimony. 
+18 
+Development of the IT Project 
+19 
+Q. 
+Describe the typical life cycle of an IT project 
+20 
+and how the individual project budgets are 
+21 
+developed. 
+22 
+A. 
+According to the Companies’ response to DPS-943, 
+23 
+there are five stages in the IT project life 
+24 
+
+
+--- Page 14 ---
+Cases 23-G-0225 & 23-G-0226  
+SITP 
+ 
+13 
+ 
+cycle:  pre-start-up; start-up; requirements and 
+1 
+design; development and implementation; and, 
+2 
+close. 
+3 
+Q. 
+Please describe the pre-start-up phase. 
+4 
+A. 
+The pre-start-up phase includes the development 
+5 
+of the Investment Estimator Tool, or IET.  The 
+6 
+Companies’ response to DPS-297 states “future 
+7 
+projects not yet sanctioned are estimated and 
+8 
+described using an IET.”  The IETs have basic, 
+9 
+high-level information on the proposed project.  
+10 
+In this pre-start-up phase, cost estimates are 
+11 
+plus 200 percent to minus 50 percent.  We will 
+12 
+discuss the information included in IETs, as 
+13 
+well as partial sanction papers and sanction 
+14 
+papers in more detail later in our testimony.  
+15 
+Q. 
+Please describe the start-up phase. 
+16 
+A. 
+Next, the project goes into the start-up phase, 
+17 
+where a project manager and project sponsor are 
+18 
+assigned to the project.  The project manager 
+19 
+assembles a project team, develops a work plan, 
+20 
+and creates a partial sanction paper.  The 
+21 
+partial sanction paper further defines the 
+22 
+project scope and narrows down the variance of 
+23 
+the project estimate to plus 25 percent and 
+24 
+
+
+--- Page 15 ---
+Cases 23-G-0225 & 23-G-0226  
+SITP 
+ 
+14 
+ 
+minus 25 percent.   
+1 
+Q. 
+Please describe the requirements and design 
+2 
+phase. 
+3 
+A. 
+After the partial sanction is approved, the 
+4 
+project team goes into the requirements and 
+5 
+design phase, where the team determines the 
+6 
+technical requirements needed for the project 
+7 
+and designs the solution.   
+8 
+Q. 
+Please describe the development and 
+9 
+implementation phase. 
+10 
+A. 
+During this phase, the project team develops the 
+11 
+full sanction paper, which further narrows down 
+12 
+the variance to plus 10 percent and minus 10 
+13 
+percent.  The projects are then submitted for 
+14 
+final approval.   
+15 
+Q. 
+What happens next? 
+16 
+A. 
+After the project is approved, the project team 
+17 
+builds the solution and conducts testing to see 
+18 
+if it operates as required and designed in the 
+19 
+development and implementation phase.  The 
+20 
+solution is implemented, and the transition 
+21 
+begins with necessary support provided.  
+22 
+Finally, a closure paper is developed.  A 
+23 
+closure paper records the final project costs 
+24 
+
+
+--- Page 16 ---
+Cases 23-G-0225 & 23-G-0226  
+SITP 
+ 
+15 
+ 
+and signoffs from the approval levels of 
+1 
+management and is incorporated into the National 
+2 
+Grid budget.   
+3 
+Q. 
+Please explain the difference between an IET, 
+4 
+partial sanction paper, and sanction paper. 
+5 
+A. 
+As discussed earlier, the Companies use an IET 
+6 
+during the start-up phase.  IETs contain minimal 
+7 
+information and are used at the earliest stage 
+8 
+of project development.  IETs generally do not 
+9 
+provide enough information to substantiate the 
+10 
+Companies moving forward with multi-million IT 
+11 
+investments.  Also, IETs generally do not have a 
+12 
+project sponsor assigned.  A partial sanction 
+13 
+paper further defines the details contained in 
+14 
+the IET, but is only marginally more specific 
+15 
+than an IET and still less detailed than a full 
+16 
+sanction paper.  Finally, a sanction paper is 
+17 
+developed that includes very detailed 
+18 
+information, has a dedicated project sponsor and 
+19 
+staff team, has fully identified risks and 
+20 
+mitigation strategies for those risks, and has 
+21 
+assumptions and project alternatives.  The full 
+22 
+sanction paper undergoes numerous rounds of 
+23 
+vetting and approval within National Grid, in 
+24 
+
+
+--- Page 17 ---
+Cases 23-G-0225 & 23-G-0226  
+SITP 
+ 
+16 
+ 
+comparison an IET receives little or no vetting. 
+1 
+Q. 
+What information is provided in an IET? 
+2 
+Q. 
+The IET is a form that requires input for 
+3 
+multiple areas related to the project.  Some of 
+4 
+the inputs on the form are: key personnel 
+5 
+involved in developing the project, project 
+6 
+category, primary policy driver, description and 
+7 
+background, expected benefits, scope, 
+8 
+dependencies, risks, and assumptions.  Estimated 
+9 
+costs by year should be listed, as well as costs 
+10 
+by delivery phase.  A breakdown of the project 
+11 
+prioritization and costs by capital, OPEX, and 
+12 
+expected RTB costs are included, along with a 
+13 
+preliminary score for investment risk and 
+14 
+complexity.  A preliminary estimate of the 
+15 
+resources needed to complete the project, the 
+16 
+key known milestone dates, and the operating 
+17 
+companies that are expected to benefit from the 
+18 
+project are also included.  As such, in most 
+19 
+cases the IET represents its author’s first 
+20 
+assessment regarding a project.  
+21 
+Q. 
+Did each of the IETs reviewed by this Panel 
+22 
+contain all of the information just listed? 
+23 
+A. 
+No.  Many inputs in the IETs reviewed by the 
+24 
+
+
+--- Page 18 ---
+Cases 23-G-0225 & 23-G-0226  
+SITP 
+ 
+17 
+ 
+Panel in these proceedings were left blank or 
+1 
+contained brief, unclear, or undefined terms.  
+2 
+Q. 
+What information is provided in a sanction 
+3 
+paper? 
+4 
+A. 
+Sanction papers are intended to provide very 
+5 
+detailed project descriptions, including 
+6 
+background information, summary of the project, 
+7 
+business needs, and benefits.  According to the 
+8 
+Companies’ response to DPS-457 Attachment 8, 
+9 
+sanction papers typically provide breakdowns of 
+10 
+capital, OPEX and RTB costs by year.  In 
+11 
+addition, sanction papers provide a cost benefit 
+12 
+analysis, or BCA or a net present value, or NPV 
+13 
+analysis, if it has been performed.  Next, the 
+14 
+sanction paper includes the financial impact to 
+15 
+the Service Company and a list of operating 
+16 
+companies that will benefit from – and pay for – 
+17 
+the project.  Also, for applicable projects the 
+18 
+sanction paper contains a plan for customer 
+19 
+outreach, if applicable.  Sanction papers also 
+20 
+include a deployment schedule for each phase of 
+21 
+the project, prior partial or full sanctioning 
+22 
+history, and define an asset management risk 
+23 
+score and drivers.  Finally, sanction papers 
+24 
+
+
+--- Page 19 ---
+Cases 23-G-0225 & 23-G-0226  
+SITP 
+ 
+18 
+ 
+identify the resources needed to complete the 
+1 
+project, whether these resources are internal or 
+2 
+external, availability of resources, and any 
+3 
+potential operational and procurement impacts 
+4 
+associated with the project. 
+5 
+IT Investment Recovery 
+6 
+Q. 
+Describe the Service Company’s proposed IT 
+7 
+capital spending plan for the Rate Year, FY26, 
+8 
+FY27 and FY28. 
+9 
+A. 
+As shown in Exhibit___(ITDP-4CU), the proposed 
+10 
+Service Company IT capital spending levels are 
+11 
+$307.9 million, $314.6 million, $300.4, and 
+12 
+$220.9 million for the Rate Year, FY26, FY27 and 
+13 
+FY28, respectively. 
+14 
+Q. 
+How are these costs allocated to KEDNY and 
+15 
+KEDLI? 
+16 
+A. 
+Once the capital project is completed and closed 
+17 
+to plant-in-service on the Service Company’s 
+18 
+books, the Service Company begins to charge the 
+19 
+operating companies, including KEDNY and KEDLI, 
+20 
+for their allocated portion of the project 
+21 
+costs.  This charge is booked as Service Company 
+22 
+Rent expense on the operating companies’ books 
+23 
+and includes the amortization expense of the 
+24 
+
+
+--- Page 20 ---
+Cases 23-G-0225 & 23-G-0226  
+SITP 
+ 
+19 
+ 
+projects, as well as a return on the unamortized 
+1 
+project costs.  This process is similar to that 
+2 
+used for “traditional” utility plant 
+3 
+investments, whereby the operating companies 
+4 
+incur depreciation expense and also earn a 
+5 
+return on the net book value when the plant is 
+6 
+included in rate base. 
+7 
+Q. 
+What is the Rate Year forecast of Service 
+8 
+Company Rent expense for KEDNY and KEDLI?   
+9 
+A. 
+As shown in Exhibit___(RRP-3), Schedule 9, KEDNY 
+10 
+and KEDLI project to incur $74.301 million and 
+11 
+$53.243 million of Rate Year Service Company 
+12 
+Rent expense, respectively.  KEDNY’s Rate Year 
+13 
+expense projection is broken down into $40.471 
+14 
+million for existing IT projects, $26.912 
+15 
+million for the new IT projects and $6.917 
+16 
+million for shared facilities, which includes 
+17 
+shared offices and warehouses.  KEDLI’s Rate 
+18 
+Year expense projection is broken down into 
+19 
+$20.466 million for existing IT projects, 
+20 
+$12.428 million for new IT projects and $20.348 
+21 
+million for shared facilities. 
+22 
+Q. 
+Are there other costs associated with these 
+23 
+projects that are allocated to the Companies? 
+24 
+
+
+--- Page 21 ---
+Cases 23-G-0225 & 23-G-0226  
+SITP 
+ 
+20 
+ 
+A. 
+Yes.  The Service Company also assigns OPEX and 
+1 
+RTB costs.  OPEX costs consist of initial 
+2 
+project expenses such as internal labor, 
+3 
+contractor and consultant costs, as well as 
+4 
+post-implementation costs, incurred with new 
+5 
+projects that are not able to be capitalized.  
+6 
+RTB costs are the costs of running a project 
+7 
+once it is in service, including costs 
+8 
+associated with licensing and maintenance 
+9 
+agreements, and application support.   
+10 
+Q. 
+How did the Service Company determine the 
+11 
+incremental OPEX and RTB costs contained in the 
+12 
+Rate Year revenue requirements? 
+13 
+A. 
+First, the Service Company increased the Historic 
+14 
+Test Year OPEX and RTB costs by the rate of 
+15 
+inflation.  The Service Company then added the 
+16 
+forecasted OPEX and RTB costs associated with 
+17 
+proposed new projects to arrive at the total Rate 
+18 
+Year forecasts at the Service Company level.  The 
+19 
+Service Company then compared these amounts to 
+20 
+the OPEX and RTB costs incurred in the Historic 
+21 
+Test Year to determine the incremental OPEX and 
+22 
+RTB costs in the forecasted Rate Year.  The 
+23 
+Service Company then allocated a portion of the 
+24 
+
+
+--- Page 22 ---
+Cases 23-G-0225 & 23-G-0226  
+SITP 
+ 
+21 
+ 
+incremental OPEX and RTB costs to KEDNY and KEDLI 
+1 
+based on the allocation factors shown in the 
+2 
+Exhibit___(ITDP-2).  The allocated amounts are 
+3 
+approximately $9.6 million for KEDNY and $5.1 
+4 
+million for KEDLI.  These costs are included in 
+5 
+the Other Initiatives - IT expense line in O&M, 
+6 
+as shown in Exhibit___(RRP-3CU), Schedule 39. 
+7 
+Staff’s Review Process 
+8 
+Q. 
+Provide an overview of the process the Panel 
+9 
+used to review the proposed IT investments. 
+10 
+A. 
+We took several steps to review the proposed IT 
+11 
+investments.  First, we held multiple technical 
+12 
+meetings with the Companies to discuss their IT 
+13 
+budgeting process, sanctioning process, proposed 
+14 
+IT investment plans, including the specific 
+15 
+projects contained within, and the overall goals 
+16 
+and objectives of the Service Company’s proposed 
+17 
+IT investments.  Next, we reviewed the Service 
+18 
+Company’s historic IT capital spending from FY19 
+19 
+through FY23 to assess the Service Company’s 
+20 
+ability to complete IT projects on time and on 
+21 
+budget.  Then, we reviewed the proposed IT 
+22 
+projects and associated expenses through any 
+23 
+available IETs and sanction papers.  Finally, we 
+24 
+
+
+--- Page 23 ---
+Cases 23-G-0225 & 23-G-0226  
+SITP 
+ 
+22 
+ 
+analyzed the variances between the cost 
+1 
+estimates of IT capital projects and the final 
+2 
+costs shown in the closure papers. 
+3 
+Q. 
+Describe the Panel’s method of reviewing the 
+4 
+proposed projects. 
+5 
+A. 
+The primary focus of our review emphasized 
+6 
+projects that would commence immediately prior 
+7 
+to, or during the Rate Year.  We reviewed IETs, 
+8 
+sanction papers, and/or documentation supporting 
+9 
+the project such as the BCAs for each project.  
+10 
+Other support included one-time and recurring 
+11 
+savings; a description of, and all relevant 
+12 
+information on, one-time and recurring savings; 
+13 
+vendor quotes; and all supporting workpapers and 
+14 
+calculations associated with the project 
+15 
+costs/estimates. 
+16 
+Staff Adjustments 
+17 
+Q. 
+Does the Panel have any adjustments? 
+18 
+A. 
+Yes, we have thirty-two adjustments. 
+19 
+Q. 
+Please describe your first set of adjustments. 
+20 
+A. 
+Our first twenty-one adjustments relate to 
+21 
+capital expenditures for IT projects where the 
+22 
+Companies have not provided adequate support or 
+23 
+documentation.  Exhibit___(SITP-3) lists each 
+24 
+
+
+--- Page 24 ---
+Cases 23-G-0225 & 23-G-0226  
+SITP 
+ 
+23 
+ 
+project and its associated IT&D budget that we 
+1 
+recommend be reduced at the Service Company 
+2 
+level.  
+3 
+Q. 
+Please describe any commonalities that resulted 
+4 
+in the removal of the first twenty-one projects.   
+5 
+A. 
+First, none of these projects have been 
+6 
+sanctioned for the Rate Year and many of the 
+7 
+projects are in the pre-start up or start-up 
+8 
+stages.  Second, the Companies did provide IETs 
+9 
+for each of the projects, however, as discussed 
+10 
+earlier, many of the project inputs were left 
+11 
+blank, contained very brief descriptions or 
+12 
+explanation, were unclear, or inadequately 
+13 
+defined terms.  As such, we concluded that these 
+14 
+IETs generally lack overall supporting or 
+15 
+detailed justification.  Specifically, the IETs 
+16 
+lacked information regarding project 
+17 
+interdependencies, identification or risks to 
+18 
+the business for failing to pursue or failing to 
+19 
+complete the projects, identifying assumptions, 
+20 
+alternatives, costs, impacts, and staffing 
+21 
+requirements.  Third, the Companies’ IETs 
+22 
+highlight many concerns or risks with the 
+23 
+various projects that we strongly argue the 
+24 
+
+
+--- Page 25 ---
+Cases 23-G-0225 & 23-G-0226  
+SITP 
+ 
+24 
+ 
+Companies have not sufficiently addressed before 
+1 
+choosing to proceed with the projects.  
+2 
+Specifically, these concerns relate to the need 
+3 
+for additional qualified internal and external 
+4 
+employees which may not be available in today’s 
+5 
+labor market, the risk of overspending the 
+6 
+budgets, lack of appropriate National Grid 
+7 
+management project approvals, and the lack of 
+8 
+project deliverables and implementation 
+9 
+schedules.  For these reasons, we recommend 
+10 
+removal of the proposed capital expenditures for 
+11 
+these projects.  We will now discuss our 
+12 
+recommended adjustments for each project and the 
+13 
+reasons for those adjustments.   
+14 
+Q. 
+Please describe your first six adjustments. 
+15 
+A. 
+Our first six adjustment address the Companies’ 
+16 
+proposed suite of projects included in the Back 
+17 
+Office Refresh.  The Back Office Refresh is 
+18 
+intended to implement improvements to the 
+19 
+Companies’ Enterprise Resource Planning, or ERP 
+20 
+system.  The six projects are the: (1) Cloud 
+21 
+Foundation Migration; (2) Data Cleanse; (3) 
+22 
+Enterprise Data Hub; (4) Enterprise Data Model; 
+23 
+(5) Payroll; and (6) Portfolio App 
+24 
+
+
+--- Page 26 ---
+Cases 23-G-0225 & 23-G-0226  
+SITP 
+ 
+25 
+ 
+Rationalization/Deployment projects.  As shown 
+1 
+in Exhibit___(SITP-3), our adjustments remove 
+2 
+the proposed funding for each of these projects. 
+3 
+Q. 
+Please describe the Cloud Foundation Migration 
+4 
+project.  
+5 
+A. 
+The Cloud Foundation Migration project 
+6 
+establishes a cloud strategy and infrastructure 
+7 
+environment and begins migrating business 
+8 
+applications to the cloud to enable integration 
+9 
+with the future core ERP system. 
+10 
+Q. 
+Please describe the Data Cleanse project.  
+11 
+A. 
+The Data Cleanse project proposes to cleanse 
+12 
+master and transactional data for the core ERP 
+13 
+system to improve reporting, reduce errors, and 
+14 
+reduce the burden for future system 
+15 
+transformation projects.  This includes 
+16 
+disaggregating existing master data sets into 
+17 
+core dimensions and definitions, defining 
+18 
+historical data retention strategy, developing a 
+19 
+data integration strategy, developing a 
+20 
+conversion strategy, and deploying new data 
+21 
+governance processes.   
+22 
+Q. 
+Please describe the Enterprise Data Hub project.  
+23 
+A. 
+The Enterprise Data Hub project will define and 
+24 
+
+
+--- Page 27 ---
+Cases 23-G-0225 & 23-G-0226  
+SITP 
+ 
+26 
+ 
+enable the link between the Operations and 
+1 
+Finance functions.  The project seeks to 
+2 
+increase transparency in information sharing 
+3 
+used for finance reporting functions based on 
+4 
+work order information provided by operations 
+5 
+systems, which currently requires a manual 
+6 
+process to trace across multiple platforms and 
+7 
+systems.   
+8 
+Q. 
+Please describe the Enterprise Data Model 
+9 
+project. 
+10 
+A. 
+The Enterprise Data Model project proposes to 
+11 
+design the future state enterprise code block 
+12 
+and associated finance processes to provide 
+13 
+transparency into the costs to operate business 
+14 
+and IT, as well as streamline back office 
+15 
+reporting functions.   
+16 
+Q. 
+Please describe the Payroll project. 
+17 
+A. 
+The Payroll project proposes to optimize 
+18 
+employee time and pay data, processes, policies, 
+19 
+and rules in parallel with implementing a cloud-
+20 
+based Employee Central Pay environment.   
+21 
+Q. 
+Please describe the Portfolio App 
+22 
+Rationalization/Deployment project. 
+23 
+A. 
+The Portfolio App Rationalization/Deployment 
+24 
+
+
+--- Page 28 ---
+Cases 23-G-0225 & 23-G-0226  
+SITP 
+ 
+27 
+ 
+project proposes to modernize the core ERP 
+1 
+system by replacing legacy applications.   
+2 
+Q. 
+Why are you removing the costs for the suite of 
+3 
+projects related to the Companies’ proposed Back 
+4 
+Office Refresh? 
+5 
+A. 
+These projects are all in the pre-start-up phase 
+6 
+of development.  We recommend removing these 
+7 
+projects due to lack of project details, 
+8 
+ambiguity around the cost to complete the 
+9 
+projects, and uncertainty as to whether National 
+10 
+Grid can locate and hire the appropriate 
+11 
+resources to implement the projects in a timely 
+12 
+manner.  The IET for each of these projects was 
+13 
+included as the attachments to the Companies’ 
+14 
+response to DPS-458 and identify common concerns 
+15 
+that “there may be unexpected costs as the 
+16 
+project develops that cause a cost overrun” and 
+17 
+that “National Grid internal and external 
+18 
+resources with the correct knowledge to deliver 
+19 
+the project may not be available.”  While the 
+20 
+Companies specify that this risk “would be 
+21 
+mitigated by working with strategic partners who 
+22 
+know National Grid's business operations” the 
+23 
+IETs do not provide information about 
+24 
+
+
+--- Page 29 ---
+Cases 23-G-0225 & 23-G-0226  
+SITP 
+ 
+28 
+ 
+competitive procurements needed to develop these 
+1 
+projects or whether the Companies have 
+2 
+agreements and/or contracts with the strategic 
+3 
+partners that would provide for the needed 
+4 
+resources. 
+5 
+Q. 
+Did the Companies provide alternatives to the 
+6 
+Back Office Refresh suite of projects? 
+7 
+A. 
+IETs request information on alternatives 
+8 
+considered for each project.  The IETs for these 
+9 
+projects identified alternatives including: (1) 
+10 
+stay the course or continue to delay, (2) 
+11 
+redesign of Code Block only without replacing 
+12 
+the core system, (3) pursue third party support 
+13 
+of SAP ECC, the Companies accounting platform, 
+14 
+after SAP support is discontinued, and (4) 
+15 
+deploy [an] and alternative to SAP for core ERP.  
+16 
+However, the Companies provided only very high-
+17 
+level risks associated with each of the 
+18 
+alternatives and did not provide costs of the 
+19 
+alternatives.  For example, the risk identified 
+20 
+for the stay the course or continue to delay 
+21 
+alternative simply states that option increases 
+22 
+risk profile on a business critical platform.  
+23 
+The lack of information makes it impossible for 
+24 
+
+
+--- Page 30 ---
+Cases 23-G-0225 & 23-G-0226  
+SITP 
+ 
+29 
+ 
+us to determine if the Back Office Refresh 
+1 
+projects are the most cost effective and whether 
+2 
+they are ultimately feasible for the Companies 
+3 
+to implement. 
+4 
+Q. 
+Please describe your seventh adjustment. 
+5 
+A. 
+Our seventh adjustment removes the allowance for 
+6 
+the Continued Scaling and Evolution, or CS&E, 
+7 
+project listed in Exhibit___(SITP-3). 
+8 
+Q. 
+Please describe the CS&E project.  
+9 
+A. 
+The Service Company proposes to enhance the core 
+10 
+capabilities of the asset and work management, 
+11 
+scheduling, field mobility, and other platforms 
+12 
+enabled by the Gas Business Enablement, or GBE 
+13 
+program.   
+14 
+Q. 
+Why are you removing the costs for the CS&E 
+15 
+project? 
+16 
+A. 
+Based on our review of the IET, which was 
+17 
+provided in response to DPS-457, Supplemental 
+18 
+Attachment 38, we identified deficiencies 
+19 
+related to dependencies, risks, assumptions, and 
+20 
+alternatives.  The IET did not provide an 
+21 
+adequate explanation of process and technology 
+22 
+dependencies.  Specifically, the process 
+23 
+dependency section of the IET states, “business 
+24 
+
+
+--- Page 31 ---
+Cases 23-G-0225 & 23-G-0226  
+SITP 
+ 
+30 
+ 
+processes will need to evolve, requiring cross-
+1 
+jurisdictional coordination and change 
+2 
+management” and the technology dependency 
+3 
+states, “the technology we depend on changes and 
+4 
+evolves, requiring coordination and support.”  
+5 
+These dependencies fail to identify what types 
+6 
+of processes or technology, that is, hardware or 
+7 
+software, will need to evolve nor do the 
+8 
+Companies explain what coordination or support 
+9 
+is needed in order for the project to progress.  
+10 
+Further, the IET only identified a stakeholder 
+11 
+engagement risk, but fails to include a 
+12 
+mitigation strategy for that risk.  In addition, 
+13 
+one of the project assumptions states, “scope 
+14 
+will be determined based on business priorities 
+15 
+and investment commitment.”  However, the 
+16 
+project scope should be a known component of the 
+17 
+project prior to the Companies seeking rate 
+18 
+recovery.  The IET does not evaluate any 
+19 
+alternatives for this project.  Finally, in 
+20 
+response to DPS-561 and DPS-562, the Companies 
+21 
+were not able to quantify or identify any 
+22 
+projected customer use, monetary, or efficiency 
+23 
+benefits associated with this project.   
+24 
+
+
+--- Page 32 ---
+Cases 23-G-0225 & 23-G-0226  
+SITP 
+ 
+31 
+ 
+Q. 
+Please describe your eighth adjustment. 
+1 
+A. 
+Our eighth adjustment removes the allowance for 
+2 
+the CRIS to CSS Conversion - Enhancements 
+3 
+project listed in Exhibit___(SITP-3). 
+4 
+Q. 
+Please describe the CRIS to CSS Conversion - 
+5 
+Enhancements project. 
+6 
+A. 
+According to the Companies response to DPS-1010, 
+7 
+the Companies have a two-phase plan for its 
+8 
+Customer Information Systems, or CIS.  The first 
+9 
+phase is called CRIS to CSS conversion, which 
+10 
+seeks to convert KEDNY’s current CIS called 
+11 
+CRIS, or Customer Related Information System to 
+12 
+the CIS used by NMPC and KEDLI which is called 
+13 
+CSS, or Customer Service System.  The second 
+14 
+phase of the CIS plan is called CRIS to CSS 
+15 
+Conversion Enhancements, or CSS Enhancements 
+16 
+where the Companies will look to develop and 
+17 
+eliminate interfacing applications that allow 
+18 
+for data to be shared between the CSS, and the 
+19 
+Companies systems.  According to the Companies 
+20 
+response to DPS-1000, Attachment 1, an example 
+21 
+of an interfacing application is the Unified 
+22 
+Data Model, or UDM which extracts data between 
+23 
+the CSS and the Unified Web Portal, a self-
+24 
+
+
+--- Page 33 ---
+Cases 23-G-0225 & 23-G-0226  
+SITP 
+ 
+32 
+ 
+service web portal for residential customers.  
+1 
+Q. 
+Why are you recommending removal of the costs 
+2 
+for the CRIS to CSS Conversion Enhancements 
+3 
+project? 
+4 
+A. 
+We recommend removal of this project for four 
+5 
+reasons.  First, the project details are 
+6 
+lacking.  In response to DPS-457 and DPS-1010, 
+7 
+the Companies provided documentation that did 
+8 
+not provide sufficient details concerning the 
+9 
+CSS Enhancements project.  In order to properly 
+10 
+assess this project, we need detailed 
+11 
+information on the scope of the CSS Enhancements 
+12 
+project, the expected timeline for 
+13 
+implementation, total budget, risks and 
+14 
+mitigation strategies, and the necessary 
+15 
+resources to ensure project completion.  This 
+16 
+missing information is essential to evaluate the 
+17 
+feasibility and success of this project.  
+18 
+Second, the Companies indicated in their 
+19 
+response to DPS-1010 that the CSS Enhancements 
+20 
+project will not begin until the first phase of 
+21 
+the CRIS to CSS Conversion is complete.  The 
+22 
+implication of this is that there is a risk that 
+23 
+any delays or problems with the CRIS to CSS 
+24 
+
+
+--- Page 34 ---
+Cases 23-G-0225 & 23-G-0226  
+SITP 
+ 
+33 
+ 
+Conversion will substantially delay the start of 
+1 
+the second phase.  Third, based on the 
+2 
+Companies' response to DPS-1010, similar 
+3 
+enhancement projects have not been undertaken in 
+4 
+KEDLI or NMPC.  The lack of historical costs and 
+5 
+benefit data from similar projects concerns the 
+6 
+Panel that the projected cost and benefits are 
+7 
+estimates.  Lastly, the Panel has concerns that 
+8 
+beginning the CSS Enhancements phase immediately 
+9 
+after KEDNY converts its CIS is risky since the 
+10 
+Companies will have little experience with its 
+11 
+use.  In addition, as detailed in their response 
+12 
+to DPS-1010, the Companies explain that they 
+13 
+have not implemented these enhancements in the 
+14 
+other Companies and, therefore lack knowledge of 
+15 
+best practices and lessons learned to ensure a 
+16 
+smoother transition and reduce risks including 
+17 
+delays in implementation, variance in budgets, 
+18 
+or lack of staff resources.  
+19 
+Q. 
+Please describe your ninth adjustment. 
+20 
+A. 
+Our ninth adjustment removes the allowance for 
+21 
+the AIMS Enterprise Solution project listed in 
+22 
+Exhibit___(SITP-3). 
+23 
+Q. 
+Please describe the AIMS Enterprise Solution 
+24 
+
+
+--- Page 35 ---
+Cases 23-G-0225 & 23-G-0226  
+SITP 
+ 
+34 
+ 
+project. 
+1 
+A. 
+The AIMS Enterprise Solution project is an 
+2 
+investment in National Grid’s US Customer 
+3 
+Contact Centers which handles over 18 million 
+4 
+calls annually and is used by more than 2,000 
+5 
+in-house and third-party vendor agents.  The 
+6 
+proposed investment is intended to enhance the 
+7 
+system's stability, reliability, and implement 
+8 
+new self-service features such as Voice-to-
+9 
+Digital virtual assistant.   
+10 
+Q. 
+Why are you recommending removal of the costs 
+11 
+for the AIMS Enterprise Solution project? 
+12 
+A. 
+First, the IET provided in response to DPS-401, 
+13 
+Attachment 1, lists three other project 
+14 
+dependencies: the CRIS to CSS Conversion, Zero-
+15 
+Based Redesign, and Virtual Assistant.  The 
+16 
+Panel is concerned with the number of 
+17 
+dependencies identified for this project, with 
+18 
+CRIS to CSS Conversion being the most 
+19 
+significant, and the lack of detail provided, 
+20 
+including the implementation status of 
+21 
+identified dependencies and the risks and 
+22 
+mitigation strategies should they be delayed.  
+23 
+For these reasons, the Panel concluded that the 
+24 
+
+
+--- Page 36 ---
+Cases 23-G-0225 & 23-G-0226  
+SITP 
+ 
+35 
+ 
+Companies have not done a thorough analysis to 
+1 
+demonstrate how they will manage multiple 
+2 
+workstreams interconnected to this project.  
+3 
+Second, the IET identifies a shortage of subject 
+4 
+matter expert resources as a business risk and 
+5 
+does not provide a mitigation strategy.  Third, 
+6 
+it describes “unknowns and final solution 
+7 
+design” as a delivery risk which is unclear.  
+8 
+The Panel concludes that the Companies have not 
+9 
+designed the proposed enhancements and should 
+10 
+not be seeking funding until final solution 
+11 
+design is complete.    
+12 
+Q. 
+Please describe your tenth adjustment. 
+13 
+A. 
+Our tenth adjustment removes the allowance for 
+14 
+the Customer Data Platform project listed in 
+15 
+Exhibit___(SITP-3). 
+16 
+Q. 
+Please describe the Customer Data Platform 
+17 
+project. 
+18 
+A. 
+The Customer Data Platform proposes to 
+19 
+streamline data management processes to advance 
+20 
+security and data governance, enhance data 
+21 
+quality, eliminate manual data efforts, and 
+22 
+generate a more comprehensive customer profile.   
+23 
+Q. 
+Why are you recommending removal of the costs 
+24 
+
+
+--- Page 37 ---
+Cases 23-G-0225 & 23-G-0226  
+SITP 
+ 
+36 
+ 
+for the Customer Data Platform project? 
+1 
+A. 
+First, the IET, provided in response to DPS-410, 
+2 
+lacks important information about dependencies, 
+3 
+risks, or assumptions which prevents a thorough 
+4 
+understanding of the feasibility of the project.  
+5 
+These fields in the IET were left blank which 
+6 
+makes it unclear whether such dependencies, 
+7 
+risks, or other assumptions exist.  Second, 
+8 
+while the IET includes a list of alternatives 
+9 
+the Companies considered, they do not list the 
+10 
+advantages or disadvantages of each alternative.  
+11 
+Third, the Companies’ Investment Details section 
+12 
+of the IET mentions that this project will 
+13 
+remove manual data efforts, while their response 
+14 
+to DPS-410 states that the Customer Data 
+15 
+Platform project investment is not expected to 
+16 
+produce any cost savings.  The Panel concludes 
+17 
+that the Companies have not evaluated the 
+18 
+benefits and savings of this investment by 
+19 
+eliminating manual processes, including the 
+20 
+savings from a reduction of employees.   
+21 
+Q. 
+Please describe your eleventh adjustment. 
+22 
+A. 
+Our eleventh adjustment removes the allowance 
+23 
+for the Customer Mandates project listed in 
+24 
+
+
+--- Page 38 ---
+Cases 23-G-0225 & 23-G-0226  
+SITP 
+ 
+37 
+ 
+Exhibit___(SITP-2). 
+1 
+Q. 
+Please describe the Customer Mandates program.   
+2 
+A. 
+The Customer Mandates program proposes to 
+3 
+implement customer system changes and maintain 
+4 
+compliance with jurisdictional, legal, and 
+5 
+financial reporting requirements for customer 
+6 
+service systems. 
+7 
+Q. 
+Why do you recommend the removal of costs for 
+8 
+the Customer Mandates project? 
+9 
+A. 
+First, according to the response to DPS-402, 
+10 
+Attachment 1, the Companies’ IET indicates that 
+11 
+there is a concern with the availability of 
+12 
+staffing resources due to system wide or 
+13 
+regional events that will impact the project 
+14 
+timeline.  However, the Companies do not explain 
+15 
+what types of events would affect the 
+16 
+availability of labor and planned mitigation 
+17 
+strategies in the case of such events.  Second, 
+18 
+the Companies mention an associated risk in 
+19 
+meeting aggressive mandated delivery dates and 
+20 
+changes to the mandated requirements while the 
+21 
+project is in-flight.  The strict mandated 
+22 
+requirements and timeline lead us to conclude 
+23 
+that this project requires more risk mitigation 
+24 
+
+
+--- Page 39 ---
+Cases 23-G-0225 & 23-G-0226  
+SITP 
+ 
+38 
+ 
+before proceeding.   
+1 
+Q. 
+Please describe your twelfth adjustment. 
+2 
+A. 
+Our twelfth adjustment removes the allowance for 
+3 
+the My Business Account Portal project listed in 
+4 
+Exhibit___(SITP-3). 
+5 
+Q. 
+Please describe the My Business Account Portal. 
+6 
+A. 
+The My Business Account Portal is a 
+7 
+personalized, self-service digital platform 
+8 
+dedicated to large commercial and industrial 
+9 
+customers that intends to improve user 
+10 
+experience through increased access to billing 
+11 
+and usage data.  
+12 
+Q. 
+Why are you recommending removal of the costs 
+13 
+for the My Business Account Portal? 
+14 
+A. 
+First, the Companies response to DPS-403 states 
+15 
+the My Business Account Portal cannot begin 
+16 
+until it has architecture approval from the 
+17 
+Service Company, the sanctioning process is 
+18 
+complete, and the Customer Data Platform is 
+19 
+operational, none of which have been completed.  
+20 
+Since the Panel’s tenth adjustment removes the 
+21 
+Customer Data Platform and this project is 
+22 
+dependent on that investment this project cannot 
+23 
+proceed.  Second, in response to DPS-403, page 
+24 
+
+
+--- Page 40 ---
+Cases 23-G-0225 & 23-G-0226  
+SITP 
+ 
+39 
+ 
+10 of Attachment 1, the Companies identify that 
+1 
+delay in technical designs and architecture 
+2 
+approvals is a high risk.  The Companies’ 
+3 
+mention that a risk response strategy would be 
+4 
+to establish contingency plans for delayed 
+5 
+delivery.  The Panel concludes that it is 
+6 
+unknown when the Companies will have 
+7 
+architecture approval and have yet to establish 
+8 
+solid contingency plans should the approval be 
+9 
+delayed, which increases the risk of successful 
+10 
+project delivery and implementation.  Third, the 
+11 
+Companies already have a version of the My 
+12 
+Business Account Portal, which they are also 
+13 
+seeking cost recovery for in these proceedings, 
+14 
+and we support.  The Companies are proposing to 
+15 
+improve the Portal via their Optimizing Front 
+16 
+Office Service Delivery program which is 
+17 
+explained on page 57 of the Customer Panel’s 
+18 
+direct testimony.  The Panel concludes that 
+19 
+investing in both an existing and new version of 
+20 
+this platform is wasteful and duplicative.   
+21 
+Q. 
+Please describe your thirteenth adjustment. 
+22 
+A. 
+Our thirteenth adjustment removes the allowance 
+23 
+for the Unified Web Portal Program listed in 
+24 
+
+
+--- Page 41 ---
+Cases 23-G-0225 & 23-G-0226  
+SITP 
+ 
+40 
+ 
+Exhibit___(SITP-3). 
+1 
+Q. 
+Please describe the Unified Web Portal Program. 
+2 
+A. 
+The Unified Web Portal Program is a self-service 
+3 
+platform for residential customers that aims to 
+4 
+offer improved access to self-service bill 
+5 
+payment, account management options, customer 
+6 
+usage, and consumption trends.   
+7 
+Q. 
+Why are you recommending removal of the costs 
+8 
+for the Unified Web Portal Program? 
+9 
+A. 
+First, based on the investment details section 
+10 
+of the IET provided in response to DPS-404, the 
+11 
+Companies explain that Unified Web Portal 
+12 
+Program 2.0 depends on successful implementation 
+13 
+of both the CRIS to CSS project and the Customer 
+14 
+Data Platform, which are not completed. 
+15 
+Additionally, the Panel’s tenth adjustment 
+16 
+removes the allowance of the Customer Data 
+17 
+Platform investment.  Second, on page 56 of the 
+18 
+Customer Service Panel’s direct testimony, the 
+19 
+Companies proposed making enhancements to the 
+20 
+Unified Web Portal Program 1.0 as part of 
+21 
+optimizing the front office delivery model, 
+22 
+which we support, however, we contend that 
+23 
+investing in an old and new version is wasteful 
+24 
+
+
+--- Page 42 ---
+Cases 23-G-0225 & 23-G-0226  
+SITP 
+ 
+41 
+ 
+and duplicative.  Third, based on the 
+1 
+alternatives in the IET, the Companies 
+2 
+acknowledge that not making any changes is a 
+3 
+feasible option, would save over $27 million in 
+4 
+contracted vendor costs, and still allow for the 
+5 
+development of any immediately needed business 
+6 
+functions, however, the IET does not quantify 
+7 
+the costs of any disadvantages by pursuing such 
+8 
+alternatives.  Fourth, we are concerned that 
+9 
+implementing so many customer-focused projects 
+10 
+concurrent with the projects the Companies 
+11 
+currently depend on could lead to integration 
+12 
+problems and the risk of obsolete 
+13 
+functionalities.    
+14 
+Q. 
+Please describe your fourteenth through 
+15 
+eighteenth adjustments related to physical and 
+16 
+cybersecurity investments. 
+17 
+A. 
+Our fourteenth through eighteenth adjustments 
+18 
+remove the allowance for the Identity and Access 
+19 
+Management, or IAM project, Operational 
+20 
+Technology, or OT Security project, Physical 
+21 
+Security project, Platform Security project and 
+22 
+the Security Orchestration Automation and 
+23 
+Response, or SOAR, project. 
+24 
+
+
+--- Page 43 ---
+Cases 23-G-0225 & 23-G-0226  
+SITP 
+ 
+42 
+ 
+Q. 
+Provide a brief description of these projects. 
+1 
+A. 
+The IAM project establishes and enhances 
+2 
+frameworks for policies, processes, and 
+3 
+technologies to ensure full and proper control 
+4 
+and awareness of who has access to specific IT&D 
+5 
+systems and under what circumstances that access 
+6 
+is granted.  The OT Security project provides 
+7 
+security solutions to improve the defense of the 
+8 
+Companies’ operational gas and electric 
+9 
+equipment to ensure the reliable delivery of 
+10 
+energy.  The Physical Security project will 
+11 
+address a wide range of physical security 
+12 
+issues, including a Break/Fix program, a Life 
+13 
+Cycle Replacement Program, and ongoing Plant 
+14 
+security upgrades.  The Platform Security 
+15 
+project supports the standardization of 
+16 
+technologies to ensure that all computing 
+17 
+platforms conform to a consistent and effective 
+18 
+set of security protocols.  The SOAR project 
+19 
+enhances the ability to detect, mitigate and 
+20 
+respond to cybersecurity events through improved 
+21 
+visibility, orchestration, automation, and data 
+22 
+analysis.   
+23 
+Q. 
+Why are you removing the costs for these 
+24 
+
+
+--- Page 44 ---
+Cases 23-G-0225 & 23-G-0226  
+SITP 
+ 
+43 
+ 
+physical and cybersecurity projects? 
+1 
+A. 
+We are removing the costs for two reasons.  
+2 
+First, based on our review of the IETs filed in 
+3 
+response to DPS-457 Supplemental Attachments 66, 
+4 
+68, 69, and 70, and 71, all of these projects 
+5 
+are in the pre-start up stage of the planning 
+6 
+process.  Second, the Companies IETs did not (1) 
+7 
+identify any technological or organizational 
+8 
+dependencies nor they do explain how the 
+9 
+Companies will manage or mitigate those 
+10 
+dependencies, (2) identify any business or 
+11 
+delivery risks from failure to implement these 
+12 
+programs or mitigation strategies for those 
+13 
+risks, (3) provide a planned schedule of 
+14 
+deployment or milestones by which the Panel 
+15 
+could track the progress of these projects, and 
+16 
+(4) conduct a meaningful alternative analysis 
+17 
+that identifies the costs and/or savings for 
+18 
+alternatives that were evaluated.   
+19 
+Q. 
+Please describe your nineteenth and twentieth 
+20 
+adjustments. 
+21 
+A. 
+Our nineteenth and twentieth adjustments remove 
+22 
+the allowance for the Network Security Program 
+23 
+and the Security Vulnerability Management 
+24 
+
+
+--- Page 45 ---
+Cases 23-G-0225 & 23-G-0226  
+SITP 
+ 
+44 
+ 
+Program listed in Exhibit___(SITP-3).   
+1 
+Q. 
+Provide a brief description of these programs. 
+2 
+A. 
+The Network Security Program protects the 
+3 
+underlying security infrastructure from 
+4 
+unauthorized access, modification or destruction 
+5 
+of data, which allows the Companies to maintain 
+6 
+secure, reliable digital communications.  The 
+7 
+Security Vulnerability Management Program seeks 
+8 
+to identify and address cybersecurity weaknesses 
+9 
+within National Grid.  As new processes, 
+10 
+software upgrades, and tools are incorporated 
+11 
+into the National Grid technology ecosystem, 
+12 
+there is a need to continuously assess and 
+13 
+proactively address cybersecurity risks.  The 
+14 
+Security Vulnerability Management Program also 
+15 
+validates that security controls and processes 
+16 
+remain effective in live and testing 
+17 
+environments and simulated attack scenarios.   
+18 
+Q. 
+Why are you removing the costs for these 
+19 
+projects? 
+20 
+A. 
+We are removing the costs for three reasons.  
+21 
+First, based on our review of the IETs filed in 
+22 
+response to DPS-457 Supplemental Attachments 67 
+23 
+and 72, all of these projects are in the pre-
+24 
+
+
+--- Page 46 ---
+Cases 23-G-0225 & 23-G-0226  
+SITP 
+ 
+45 
+ 
+start up stage and require further development.  
+1 
+Second, the Companies IET failed to (1) identify 
+2 
+any technological or organizational 
+3 
+dependencies, (2) provide a planned schedule of 
+4 
+deployment or milestones by which we could track 
+5 
+the progress of this project, and (3) provide 
+6 
+costs or savings for alternatives that were 
+7 
+evaluated.  Third, the Companies’ proposed 
+8 
+business or delivery risks were not clearly 
+9 
+defined and no mitigation strategies were 
+10 
+proposed to address those risks. 
+11 
+Q. 
+Please describe your twenty-first adjustment. 
+12 
+A. 
+Our twenty-first adjustment reflects the removal 
+13 
+of the Clean Energy Platform and Green Button 
+14 
+Connect projects as discussed in the Staff 
+15 
+Efficiency Panel’s testimony. 
+16 
+Q. 
+Please quantify your first twenty-one 
+17 
+adjustments. 
+18 
+A. 
+In total, our first twenty-one adjustments 
+19 
+reduce the IT&D capital budget at the Service 
+20 
+Company level by $239.224 million, or $94.603 
+21 
+million in FY24 and $144.621 million in the Rate 
+22 
+Year.   
+23 
+Q. 
+Please describe your next set of adjustments. 
+24 
+
+
+--- Page 47 ---
+Cases 23-G-0225 & 23-G-0226  
+SITP 
+ 
+46 
+ 
+A. 
+Our twenty-second through twenty-fourth 
+1 
+adjustments remove the allowance for capital 
+2 
+projects that were dependent on the projects 
+3 
+identified in adjustments one through twenty-
+4 
+one.  Our twenty-second adjustment removes the 
+5 
+Customer Connections project and the NY Gender 
+6 
+Pronoun and Name Mandate project because they 
+7 
+are dependent upon the Customer Mandates project 
+8 
+removed under our eleventh adjustment.  Our 
+9 
+twenty-third adjustment removes the AIMS 
+10 
+Baseline and AIMS Upgrades and Enhancements, or 
+11 
+Tech Debt project, because we removed the AIMS 
+12 
+Enterprise Solution project under our ninth 
+13 
+adjustment.  Our twenty-fourth adjustment 
+14 
+removes the Unified Web Portal 2.0 Digital Re 
+15 
+Architecture and Optimization project since we 
+16 
+removed the Unified Web Portal Program in our 
+17 
+thirteenth adjustment.   
+18 
+Q. 
+Please quantify your twenty-second through 
+19 
+twenty-fourth adjustments. 
+20 
+A. 
+Our twenty-second through twenty-fourth 
+21 
+adjustments reduce the Rate Year IT&D capital 
+22 
+budget at the Service Company level by a total 
+23 
+of $28.277 million, or $25.970 million in FY24 
+24 
+
+
+--- Page 48 ---
+Cases 23-G-0225 & 23-G-0226  
+SITP 
+ 
+47 
+ 
+and $2.308 million in the Rate Year.   
+1 
+Q. 
+Please describe your twenty-fifth through 
+2 
+twenty-seventh adjustments. 
+3 
+A. 
+Our twenty-fifth through twenty-seventh 
+4 
+adjustments remove the allowance for projects 
+5 
+that are in the start-up stage of development, 
+6 
+that is, those developed beyond an initial IET.   
+7 
+Q. 
+Please explain your twenty-fifth adjustment. 
+8 
+A. 
+Our twenty-fifth adjustment removes the 
+9 
+allowance for the DPIT Networks project.  This 
+10 
+project will continue to modernize the corporate 
+11 
+network infrastructure at offices and 
+12 
+substations to reduce technical debt and end-of-
+13 
+life hardware and software assets that are 
+14 
+creating security and operational risks.  
+15 
+Q. 
+Why are you removing the allowance for this 
+16 
+project?  
+17 
+A. 
+The Panel has identified three deficiencies with 
+18 
+this project.  First, the Companies’ IET, which 
+19 
+was filed in response to DPS-457 Attachment 1, 
+20 
+suggests that this project is aimed towards 
+21 
+electric customers, stating that “continued 
+22 
+funding to refresh the network infrastructure 
+23 
+will reduce operational and security risks that 
+24 
+
+
+--- Page 49 ---
+Cases 23-G-0225 & 23-G-0226  
+SITP 
+ 
+48 
+ 
+could impact the IT infrastructure supporting 
+1 
+the delivery of electricity to our customers.”  
+2 
+KEDLI and KEDNY gas ratepayers should not have 
+3 
+to bear a portion of the costs for a project 
+4 
+that their gas customers will not receive any 
+5 
+benefits from.  Second, the IET lacks a project 
+6 
+sponsor, management approvals, signatures, and 
+7 
+other authorizations or sponsorship commensurate 
+8 
+with even this basic level of project 
+9 
+conceptualization.  A project with a significant 
+10 
+level of expenditures should have a dedicated 
+11 
+staff team assigned to work through issues, 
+12 
+identify risks and oversee the budget.  Third, 
+13 
+the Companies’ IET includes a delivery risk 
+14 
+which states “ongoing supply chain issues caused 
+15 
+by COVID are still impacting the procurement of 
+16 
+hardware and network components required.”  The 
+17 
+Companies believe that this risk is still 
+18 
+present.   
+19 
+Q. 
+Please explain your twenty-sixth adjustment. 
+20 
+A. 
+Our twenty-sixth adjustment removes the 
+21 
+allowance for the Workplace Services project.  
+22 
+This project is intended to implement new 
+23 
+capabilities across end-user services and 
+24 
+
+
+--- Page 50 ---
+Cases 23-G-0225 & 23-G-0226  
+SITP 
+ 
+49 
+ 
+utilizes emerging technologies to enhance 
+1 
+capabilities in remote and in-office 
+2 
+environments.  The project includes investments 
+3 
+in utilization and ongoing maintenance 
+4 
+requirements associated with Microsoft Teams, 
+5 
+SharePoint, Office365, access management 
+6 
+platforms, such as single sign-on 
+7 
+capability/active directory, etc., and technical 
+8 
+support channels.   
+9 
+Q. 
+Why are you removing the allowance for this 
+10 
+project?  
+11 
+A. 
+The Companies response to DPS-852 states that a 
+12 
+component of the Digital Workplace Services 
+13 
+project has been through sanctioning review and 
+14 
+approval for a portion of the overall investment 
+15 
+in FY23 and FY24, however, the remaining 
+16 
+components of the project, that is, those that 
+17 
+will be implemented beyond FY24, only have an 
+18 
+IET to support the project, provided in response 
+19 
+to DPS-457 Attachment 6.   The IET only includes 
+20 
+limited supporting details and information on 
+21 
+the remaining portions of the project.  Our 
+22 
+review of the IET identified three issues.  
+23 
+First, the IET lacks a project sponsor or 
+24 
+
+
+--- Page 51 ---
+Cases 23-G-0225 & 23-G-0226  
+SITP 
+ 
+50 
+ 
+approvals and contains limited details that are 
+1 
+not sufficient to support the cost recovery of 
+2 
+this project.  The project has not moved past 
+3 
+the pre-start-up phase, does not have a project 
+4 
+sponsor assigned, and lacks details around cost 
+5 
+recovery.  Second, the Companies delivery risk 
+6 
+for this project states “global shortage of 
+7 
+semi-conductor chip could impact HW delivery,” 
+8 
+however the Companies did not provide a 
+9 
+mitigation strategy for this risk.  Third, the 
+10 
+Companies failed to identify the timeline 
+11 
+associated with the deployment of this project, 
+12 
+however they did state that this project would 
+13 
+require continued funding for hardware and 
+14 
+operating systems refreshments but failed to 
+15 
+quantify those ongoing costs.   
+16 
+Q. 
+Please explain your twenty-seventh adjustment. 
+17 
+A. 
+Our twenty-seventh adjustment removes the 
+18 
+allowance for the Ehub project.  According to 
+19 
+the Companies’ response to DPS-781, the Ehub 
+20 
+project is a strategic planning, enterprise 
+21 
+architecture, and portfolio management tool used 
+22 
+to support National Grid's integrated strategic 
+23 
+planning.  This project will add new 
+24 
+
+
+--- Page 52 ---
+Cases 23-G-0225 & 23-G-0226  
+SITP 
+ 
+51 
+ 
+capabilities to improve strategic planning 
+1 
+processes for both short-term and long-term 
+2 
+investment planning.   
+3 
+Q. 
+Why are you removing the allowance for this 
+4 
+project?  
+5 
+A. 
+Our review of the project and the supporting 
+6 
+IET, provided in response to DPS-457 Attachment 
+7 
+7, identified four issues.  First, the IET 
+8 
+identified business risk, stating, “lack of 
+9 
+enhancing the tool would be [a] step backwards 
+10 
+for the purposes of use.”  This statement is not 
+11 
+a business risk; it does not advance any 
+12 
+specific understanding of the Companies’ need 
+13 
+for the project nor describes the ramifications 
+14 
+for the denial of funding or a delay in 
+15 
+implementation.  Further, if this were a risk 
+16 
+the Companies failed to provide a mitigation 
+17 
+strategy for this risk.  Second, the IET 
+18 
+identified a delivery risk, stating that a “lack 
+19 
+of funding could cause delay in delivery of 
+20 
+priorities.”  Again, this risk is undeveloped.  
+21 
+Any priorities should be identified in detail 
+22 
+prior to seeking rate recovery for a project 
+23 
+with a significant level of expenditures and the 
+24 
+
+
+--- Page 53 ---
+Cases 23-G-0225 & 23-G-0226  
+SITP 
+ 
+52 
+ 
+Companies should have provided a mitigation 
+1 
+strategy to address this risk.  Third, the IET 
+2 
+identified stakeholder risk, stating that the 
+3 
+“stakeholder engagement is critical to overall 
+4 
+success; clear & accurate communication is key.”  
+5 
+While we agree that the stakeholder engagement 
+6 
+risk is critical for any IT project, the IET 
+7 
+fails to identify who the stakeholders are or 
+8 
+how this risk will be mitigated.  Fourth, the 
+9 
+Companies identified a dependency which states 
+10 
+“IT & non-IT business processes must be defined 
+11 
+and updated regularly in order that requests for 
+12 
+tool enhancements can be effective and create 
+13 
+optimization & efficiencies.”  However, the IET 
+14 
+lacks detail as to what other projects this 
+15 
+project would affect or interact with.   
+16 
+Q. 
+Please quantify your twenty-fifth through 
+17 
+twenty-seventh adjustments. 
+18 
+A. 
+Our twenty-fifth through twenty-seventh 
+19 
+adjustments reduce the IT&D capital expenditures 
+20 
+at the Service Company level by $91.139 million, 
+21 
+or $50.113 million in FY24 and $41.026 million 
+22 
+in the Rate Year.   
+23 
+Q. 
+Please describe your twenty-eighth adjustment. 
+24 
+
+
+--- Page 54 ---
+Cases 23-G-0225 & 23-G-0226  
+SITP 
+ 
+53 
+ 
+A. 
+Our twenty-eighth adjustment removes the 
+1 
+allowance for Advanced Metering Infrastructure, 
+2 
+or AMI, related projects.  As discussed in the 
+3 
+Staff Policy Panel and the Pipeline Safety Panel 
+4 
+testimony, Staff is not supportive of KEDLI and 
+5 
+KEDNY moving forward with the implementation of 
+6 
+AMI at this time.  Therefore, we recommend 
+7 
+adjusting the IT&D projects related to AMI. 
+8 
+Q. 
+Which IT projects are related to AMI? 
+9 
+A. 
+The projects are Gas Application Continuous 
+10 
+Improvement, KEDLI - NY Gas Smart Meter 
+11 
+Solution, Remote Methane Detector, Gas 
+12 
+Application Continuous Improvement, and Gas 
+13 
+Meter Management System.   
+14 
+Q. 
+Please quantify your twenty-eighth adjustment. 
+15 
+A. 
+Our twenty-eighth adjustment reduces the IT&D 
+16 
+capital expenditures at the Service Company 
+17 
+level by $10.512 million, or $7.099 million in 
+18 
+FY24 and $3.413 million in the Rate Year.   
+19 
+Q. 
+Please describe your twenty-ninth adjustment. 
+20 
+A. 
+Our twenty-ninth adjustment removes the Rate 
+21 
+Year allowance for the Asset and Work Management 
+22 
+for LNG Enhancements project.  This project is 
+23 
+designed to integrate work permitting, enhance 
+24 
+
+
+--- Page 55 ---
+Cases 23-G-0225 & 23-G-0226  
+SITP 
+ 
+54 
+ 
+mobile capabilities, reduce human error 
+1 
+associated with manual processes, and enhance 
+2 
+work management capabilities for LNG Operations.  
+3 
+Based on the Companies IET submitted in response 
+4 
+to DPS-457 Supplement Attachment 51, and the 
+5 
+response to DPS-1014, we are proposing to remove 
+6 
+this project.  This project is dependent on the 
+7 
+following three initiatives – the CS&E project 
+8 
+which we removed in our seventh adjustment, and 
+9 
+two other fully sanctioned projects - Digital 
+10 
+Asset & Work Management for I&R and CNG and 
+11 
+Digital Calibration Management for Gas 
+12 
+Equipment.  In addition, the Companies’ response 
+13 
+to DPS-1014, states “[d]elaying an investment 
+14 
+included in the Company’s business plan may 
+15 
+adversely affect interdependencies between 
+16 
+projects and can result in delays and cost 
+17 
+overruns in dependent investments” and “[u]ntil 
+18 
+this project is completed, National Grid's LNG 
+19 
+Ops [Operations] will continue to have a 
+20 
+potential for human error that ultimately puts 
+21 
+the Company’s [Companies] ability to deliver 
+22 
+safe and reliable gas service for customers at 
+23 
+risk.”  Since we are removing the CS&E project 
+24 
+
+
+--- Page 56 ---
+Cases 23-G-0225 & 23-G-0226  
+SITP 
+ 
+55 
+ 
+and the LNG Operations can continue to manually 
+1 
+enter this data in the Enterprise Maximo System, 
+2 
+our recommendation to remove is justified since 
+3 
+there is no additional risk added by the LNG 
+4 
+Operations continuation of manually entering 
+5 
+this data.   
+6 
+Q. 
+Please quantify your twenty-ninth adjustment. 
+7 
+A. 
+Our twenty-ninth adjustment reduces the Rate 
+8 
+Year IT&D capital budget at the Service Company 
+9 
+level by $1.556 million.   
+10 
+Q. 
+Please summarize the impact of adjustments one 
+11 
+through twenty-nine to the Service Company’s 
+12 
+IT&D capital budget. 
+13 
+A. 
+In total, our adjustments reduce Service Company 
+14 
+IT&D capital expenditures by $360.082 million, 
+15 
+or by $169.465 million in FY24 and $190.617 
+16 
+million in the Rate Year.  This reduces Rate 
+17 
+Year service company rent expense by $8.027 
+18 
+million and $4.292 million for KEDNY and KEDLI, 
+19 
+respectively.  Our Service Company Rents 
+20 
+adjustments are shown in Exhibit___(SITP-2) and 
+21 
+calculated in Exhibit___(SITP-6), and 
+22 
+Exhibit___(SITP-7).   
+23 
+Q. 
+Please describe your thirtieth adjustment. 
+24 
+
+
+--- Page 57 ---
+Cases 23-G-0225 & 23-G-0226  
+SITP 
+ 
+56 
+ 
+A. 
+Our thirtieth adjustment reduces the Service 
+1 
+Company’s proposed level of OPEX and RTB 
+2 
+expenses tracking Staff’s adjustments to the 
+3 
+aforementioned IT&D capital projects.  Our 
+4 
+adjustment reduces the Service Company level of 
+5 
+OPEX and RTB by $52.131 million and $14.713 
+6 
+million, respectively.  
+7 
+Q. 
+Please describe your thirty-first adjustment. 
+8 
+A. 
+Our thirty-first adjustment modifies the OPEX 
+9 
+for the Energy Efficiency projects, Clean Energy 
+10 
+2.0 & Green Button Connect, to account for an 
+11 
+error identified in the Companies response to 
+12 
+DPS-669.  This adjustment reduces the Service 
+13 
+Company’s Rate Year OPEX by $1.6 million.  
+14 
+Q. 
+Please quantify the impact of your thirtieth and 
+15 
+thirty-first adjustments on the Rate Year 
+16 
+forecasts. 
+17 
+A. 
+In total, our adjustments to OPEX and RTB reduce 
+18 
+the Companies Rate Year forecast of the other 
+19 
+initiatives – IT line item by $9.380 million for 
+20 
+KEDNY and $5.216 million for KEDLI. 
+21 
+Q. 
+Please explain your thirty-second adjustment. 
+22 
+A. 
+Our thirty-second adjustment addresses the 
+23 
+Service Company’s return on its IT&D 
+24 
+
+
+--- Page 58 ---
+Cases 23-G-0225 & 23-G-0226  
+SITP 
+ 
+57 
+ 
+investments. 
+1 
+Q. 
+Please explain how the Service Company earns a 
+2 
+return on its IT&D investments. 
+3 
+A. 
+As discussed previously, the IT&D investments 
+4 
+remain on the Service Company’s books after the 
+5 
+assets have been closed to plant-in-service.  
+6 
+The Service Company recovers the return on its 
+7 
+IT&D investments from KEDNY, KEDLI and the other 
+8 
+affiliates through a Service Company Rent 
+9 
+expense.  
+10 
+Q. 
+What rate of return did the Companies apply to 
+11 
+the unamortized IT investments in the Rate Year? 
+12 
+A. 
+The Companies proposed to use a pre-tax weighted 
+13 
+average cost of capital of 9.05 percent, which 
+14 
+is based on a return on equity, or ROE, of 9.80 
+15 
+percent and a capital structure comprised of 50 
+16 
+percent common equity and 50 percent long-term 
+17 
+debt. 
+18 
+Q. 
+Does the Panel agree with the Companies’ 
+19 
+proposal to use a rate of return of 9.05 percent 
+20 
+for determining the Companies’ service company 
+21 
+rents expense? 
+22 
+A. 
+No.  The Staff Witness Duah recommends an ROE of 
+23 
+9.1 percent and a capital structure comprised of 
+24 
+
+
+--- Page 59 ---
+Cases 23-G-0225 & 23-G-0226  
+SITP 
+ 
+58 
+ 
+48 percent common equity and 52 percent long-
+1 
+term debt.  Additionally, the Staff Witness Duah 
+2 
+recommends using the Service Company’s actual 
+3 
+cost of long-term debt.  This results in a pre-
+4 
+tax weighted average cost of capital of 8.4 
+5 
+percent.  Accordingly, we recommend that this 
+6 
+rate be applied to the IT investments at the 
+7 
+Service Company level to avoid KEDNY and KEDLI’s 
+8 
+customers paying a higher return on these 
+9 
+investments solely because the Companies chose 
+10 
+to have the Service Company provide these 
+11 
+investments. 
+12 
+Q. 
+Please quantify your adjustment to the rate of 
+13 
+return on Service Company assets? 
+14 
+A. 
+Our adjustment reduces KEDNY and KEDLI’s 
+15 
+forecasted Service Company Rent expense by 
+16 
+$1.675 million and $1.807 million, respectively. 
+17 
+Historical Spend and IT Analysis 
+18 
+Q. 
+Please describe the Service Company’s recent 
+19 
+level of capital expenditures for IT&D 
+20 
+investments? 
+21 
+Q. 
+As shown in response to DPS-483, the level of IT 
+22 
+capital expenditures is as follows; $115.204 
+23 
+million in FY19, $156.103 million in FY20, 
+24 
+
+
+--- Page 60 ---
+Cases 23-G-0225 & 23-G-0226  
+SITP 
+ 
+59 
+ 
+$232.254 million in FY21, $261.379 million in 
+1 
+FY22, and $307.906 million in FY23. 
+2 
+Q. 
+How do these expenditures compare to the 
+3 
+budgeted amounts for each period? 
+4 
+A. 
+As shown in response to DPS-483, in FY19, the 
+5 
+Service Company underspent its IT capital budget 
+6 
+by $14.797 million or 11.4 percent, in FY20, it 
+7 
+overspent by $5.466 million or 3.6 percent, in 
+8 
+FY21, it underspent by $3.246 million or 1.4 
+9 
+percent, in FY22, it underspent by $9.870 
+10 
+million or 3.6 percent and in FY23, it overspent 
+11 
+by $8.649 million or 2.9 percent.  On average, 
+12 
+over the five-year period, the Service Company 
+13 
+underspent its capital IT budget by $13.818 
+14 
+million or 1.3 percent.  Exhibit___(SITP-5) 
+15 
+details the actual spending compared to the 
+16 
+budgeted amounts on a project-by-project basis.  
+17 
+Q. 
+Did the Panel make any observations in its 
+18 
+review of the historic IT capital spending? 
+19 
+A. 
+Yes.  For FY20, as shown in response to DPS-483, 
+20 
+the Companies made an “Efficiency” adjustment of 
+21 
+$23.000 million, which lowered the FY20 budgeted 
+22 
+amount from $173.636 million, to $150.636 
+23 
+million. 
+24 
+
+
+--- Page 61 ---
+Cases 23-G-0225 & 23-G-0226  
+SITP 
+ 
+60 
+ 
+Q. 
+Did the Companies provide an explanation of the 
+1 
+efficiency adjustment?   
+2 
+A. 
+In response to DPS-956, the Companies explained 
+3 
+that the Efficiency adjustment represents an IT 
+4 
+task to bring the total capital spending 
+5 
+included in the FY Investment Plan in line with 
+6 
+the budget.  The Companies continue, explaining 
+7 
+that the IT group planning process had 
+8 
+identified $173.636 million of high value 
+9 
+projects that the Companies prioritized to move 
+10 
+forward in FY20.  Once the final budget of 
+11 
+$173.636 million was established, the project 
+12 
+team agreed to a 15 percent capital reduction 
+13 
+(i.e., “efficiency”) target to deliver the plan 
+14 
+within the budget, which reduced the initially 
+15 
+proposed IT budget by $23.000 million.  If this 
+16 
+adjustment had not been made, then IT capital 
+17 
+spending in the fiscal year would have been 
+18 
+significantly under budget due to the 
+19 
+efficiencies and prioritization modifications 
+20 
+that the project team likely would have 
+21 
+identified throughout FY20. 
+22 
+Q. 
+Absent the efficiency adjustment in the FY20 
+23 
+budget, what would be the difference for the 
+24 
+
+
+--- Page 62 ---
+Cases 23-G-0225 & 23-G-0226  
+SITP 
+ 
+61 
+ 
+FY20 IT capital budget versus the actual spend. 
+1 
+A. 
+The Service Company would have underspent its 
+2 
+FY20 IT capital spend by 10.1 percent, or 
+3 
+$17.534 million.   
+4 
+Q. 
+Absent the efficiency adjustment in the FY20 
+5 
+budget, what would be the five-year average 
+6 
+underspending for FY19 through FY23?   
+7 
+A. 
+The Service Company would have underspent its IT 
+8 
+budget by 3.4 percent, or $36.818 million.   
+9 
+Q. 
+Please describe the Service Company’s recent 
+10 
+level of OPEX associated with its IT&D capital 
+11 
+spending.  
+12 
+A. 
+As shown in response to DPS-483, the Service 
+13 
+Company incurred IT OPEX costs as follows; 
+14 
+$27.233 million in FY19, $22.944 million in 
+15 
+FY20, $27.573 million in FY21, $40.697 million 
+16 
+in FY22, and $59.137 million in FY23. 
+17 
+Q. 
+How do these amounts compare to the budgeted 
+18 
+amounts? 
+19 
+A. 
+As shown in response to DPS-483, in FY19, the 
+20 
+Service Company underspent its IT OPEX budget by 
+21 
+$10.172 million or 27.2 percent, in FY20, it 
+22 
+underspent by $11.032 million or 32.5 percent, 
+23 
+in FY21, it underspent by $6.835 million or 19.9 
+24 
+
+
+--- Page 63 ---
+Cases 23-G-0225 & 23-G-0226  
+SITP 
+ 
+62 
+ 
+percent, in FY22, it underspent by $3.331 
+1 
+million or 7.6 percent, and in FY23, it 
+2 
+overspent by $17.420 million or 41.8 percent.  
+3 
+On average, over the five-year period, the 
+4 
+Service Company underspent its OPEX IT budget by 
+5 
+$13.949 million, or a variance of 7.3 percent.   
+6 
+Q. 
+Did the Panel make any observations in its 
+7 
+review of the historic IT OPEX spending? 
+8 
+A. 
+Yes.  For FY23, as shown in response to DPS-483, 
+9 
+the Service Company spent $19.846 million 
+10 
+related to the project labeled “Business Apps.”  
+11 
+However, this project was not budgeted for, and 
+12 
+is anomalous in nature.  Additionally, while the 
+13 
+Service Company overspent its OPEX budget in 
+14 
+FY23 by $17.420 million, inclusive of the 
+15 
+“Business Apps” project, it did not experience 
+16 
+this magnitude of budget variance when compared 
+17 
+to FY19 through FY22.   
+18 
+Q. 
+Absent the anomalous spending on “Business Apps” 
+19 
+in Fiscal Year 2023, what would be the 
+20 
+difference for the FY23 OPEX budget versus the 
+21 
+actual spend?   
+22 
+A. 
+The Service Company would have underspent its IT 
+23 
+capital by 5.8 percent, or $2.425 million.   
+24 
+
+
+--- Page 64 ---
+Cases 23-G-0225 & 23-G-0226  
+SITP 
+ 
+63 
+ 
+Q. 
+Absent the anomalous spending on “Business Apps” 
+1 
+in FY23, on average, what would be the 
+2 
+difference between the overall Service Company 
+3 
+IT OPEX budget versus the actual spend?  
+4 
+A. 
+On average, from FY19 through FY23, the Service 
+5 
+Company would have underspent its IT OPEX budget 
+6 
+by 17.6 percent, or $33.795 million. 
+7 
+Q. 
+What is the Panel’s general view of the Service 
+8 
+Company’s IT budgets considering its historic IT 
+9 
+spending? 
+10 
+A. 
+We are concerned about the Service Company’s 
+11 
+ability to meet its forecast capital and OPEX IT 
+12 
+budgets because it has a historical pattern of 
+13 
+failing to meet these spending targets.  The 
+14 
+Service Company has had widely varying outcomes 
+15 
+when it comes to meeting its IT&D capital and 
+16 
+OPEX budgets in any one year, and overall has 
+17 
+underspent its budgets in the last five years.  
+18 
+As such, we have concerns with the overall 
+19 
+accuracy of the budgets and whether the Service 
+20 
+Company can deliver on its Rate Year IT budget, 
+21 
+which serves as an additional basis for the 
+22 
+Panel’s recommended adjustments. 
+23 
+Q. 
+Does the Panel have an alternative 
+24 
+
+
+--- Page 65 ---
+Cases 23-G-0225 & 23-G-0226  
+SITP 
+ 
+64 
+ 
+recommendation to address the Companies’ 
+1 
+historical underspend? 
+2 
+A. 
+Yes, should the Commission reject the Panel’s 
+3 
+recommendations on a project-by-project basis 
+4 
+the Commission should consider applying an 
+5 
+adjustment to the Companies’ IT&D capital 
+6 
+budgets and associated OPEX to reflect this 
+7 
+historical underspend.  
+8 
+Additional Recommendations 
+9 
+Q. 
+Do you have any additional recommendations? 
+10 
+A. 
+Yes, we have four additional recommendations.  
+11 
+Our first two recommendations address the 
+12 
+Companies’ reporting requirements.  Our third 
+13 
+recommendation addresses process improvements 
+14 
+going forward.  Our last recommendation 
+15 
+addresses the IT reconciliation mechanism. 
+16 
+Q. 
+When were the current IT reporting requirements 
+17 
+for the Companies established? 
+18 
+A. 
+The IT reporting requirements were established 
+19 
+in the Commission’s Order Approving Joint 
+20 
+Proposal, As Modified, and Imposing Additional 
+21 
+Requirements, issued August 12, 2021, in Cases 
+22 
+19-G-0309 and 19-G-0310, referred to as the 2021 
+23 
+Rate Order.  The Commission required periodic 
+24 
+
+
+--- Page 66 ---
+Cases 23-G-0225 & 23-G-0226  
+SITP 
+ 
+65 
+ 
+reporting of IT project development and 
+1 
+investment activity.  In these proceedings, the 
+2 
+Companies propose to continue IT related 
+3 
+reporting requirements.   
+4 
+Q. 
+Does the Panel recommend the continuation of 
+5 
+these reporting and process requirements?   
+6 
+A. 
+Yes.  We recommend the Companies continue the 
+7 
+same reporting requirements and meet with Staff 
+8 
+on a semi-annual basis.  Additionally, we 
+9 
+recommend that the Commission require KEDNY and 
+10 
+KEDLI to include physical and cyber-security 
+11 
+programs’ progress and status in the IT project 
+12 
+reports and meetings to ensure timely, 
+13 
+consistent progress of the security projects 
+14 
+proposed in these proceedings.  Also, we 
+15 
+recommend that the reporting and meetings be 
+16 
+combined for all New York operating companies 
+17 
+for efficiency purposes.   
+18 
+Q. 
+Should these reporting requirements continue 
+19 
+beyond the Rate Year? 
+20 
+A. 
+Yes.  It is important for the Commission to 
+21 
+monitor the Companies’ capital investment plans 
+22 
+on an ongoing basis.  Informational reports at 
+23 
+regular intervals are critical to maintain 
+24 
+
+
+--- Page 67 ---
+Cases 23-G-0225 & 23-G-0226  
+SITP 
+ 
+66 
+ 
+oversight of the IT investment plans.  These 
+1 
+recommendations are consistent with existing 
+2 
+reporting requirements for the Companies’ gas 
+3 
+operations.  They are critical to establishing a 
+4 
+foundation for Staff to conduct comprehensive, 
+5 
+project-specific examinations of IT projects in 
+6 
+future rate proceedings, comparable to Staff’s 
+7 
+current examination of gas capital plans. 
+8 
+Q. 
+What is your second reporting recommendation? 
+9 
+A. 
+We recommend that KEDNY and KEDLI notify 
+10 
+appropriate Department Staff as physical 
+11 
+security or cybersecurity projects become 
+12 
+partially or fully sanctioned, are merged with 
+13 
+other projects, or are discontinued. 
+14 
+Q. 
+What is your third recommendation? 
+15 
+A. 
+Given the issues discussed throughout this 
+16 
+testimony, we recommend that the Commission 
+17 
+direct the Companies to engage with Staff to 
+18 
+improve the IT rate case reporting process prior 
+19 
+to the Companies’ next rate filing. 
+20 
+Q. 
+What type of improvements should be made? 
+21 
+A.   Staff and the Companies should cooperatively 
+22 
+develop enhanced standards for the information 
+23 
+required for individual IT projects to be 
+24 
+
+
+--- Page 68 ---
+Cases 23-G-0225 & 23-G-0226  
+SITP 
+ 
+67 
+ 
+considered for inclusion in approved capital 
+1 
+budgets and, thus, revenue requirements.  
+2 
+Required information should include, among other 
+3 
+things, clear identification of risks and 
+4 
+mitigation strategies, project budgets with a 
+5 
+breakdown of cost type, and cost analysis on 
+6 
+alternatives.  Additionally, there should be 
+7 
+discussion on how to reflect IT projects in 
+8 
+testimony and exhibits to allow for easier 
+9 
+identification and mapping of projects.  We 
+10 
+recommend that the Commission direct the 
+11 
+Companies to provide an initial proposal of such 
+12 
+enhancements within 60 days after issuance of 
+13 
+its rate order in these proceedings to be 
+14 
+reviewed by Staff as part of the Companies’ 
+15 
+periodic reporting of IT project development and 
+16 
+investment activity.   
+17 
+Q. 
+What is your fourth recommendation? 
+18 
+A. 
+We recommend continuing the downward-only 
+19 
+reconciliation mechanism for Service Company 
+20 
+Rents, Net Utility Plant, and Depreciation that 
+21 
+was implemented as part of the 2021 Rate Order. 
+22 
+Q. 
+Why do you recommend the continuation of this 
+23 
+one-way reconciliation mechanism? 
+24 
+
+
+--- Page 69 ---
+Cases 23-G-0225 & 23-G-0226  
+SITP 
+ 
+68 
+ 
+A. 
+Budgeting and spending are activities wholly 
+1 
+within the Companies’ control, as is improving 
+2 
+the performance in these areas.  A symmetrical 
+3 
+true-up will not provide an incentive for the 
+4 
+Companies to improve their budgeting and 
+5 
+spending processes.  Customers have no control 
+6 
+over the Companies’ level and pace of spending, 
+7 
+nor the Companies’ project management expertise, 
+8 
+yet they bear the risk that the Companies’ 
+9 
+historic challenges in spending to projected 
+10 
+levels will continue and will be reflected in 
+11 
+rates.  The true-up mechanism, therefore, should 
+12 
+only reconcile underspending to allocate these 
+13 
+risks equitably between the Companies and 
+14 
+customers.  
+15 
+Q. 
+Do the Companies agree with continuing this 
+16 
+mechanism? 
+17 
+A. 
+Yes.  The Companies propose to continue that 
+18 
+mechanism as updated for the changes in Rent 
+19 
+expense and capital investments reflected in 
+20 
+rates in these proceedings. 
+21 
+Q. 
+Does this conclude your testimony at this time? 
+22 
+A. 
+Yes. 
+23 
+ 
+24 

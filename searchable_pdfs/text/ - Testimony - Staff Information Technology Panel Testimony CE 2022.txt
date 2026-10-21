@@ -1,0 +1,4121 @@
+--- Page 1 ---
+ 
+ 
+ 
+ 
+ 
+ 
+ 
+ 
+ 
+ 
+ 
+BEFORE THE 
+STATE OF NEW YORK 
+PUBLIC SERVICE COMMISSION 
+ 
+ 
+ 
+In the Matter of 
+ 
+ Consolidated Edison Company of New York, Inc. 
+ 
+Cases 22-E-0064 and 22-G-0065 
+ 
+May 2022 
+ 
+ 
+    Prepared Testimony of: 
+    Staff Information Technology 
+    Panel 
+ 
+Philipose Philip                  Jerry (Hongbing) Shang 
+Utility Analyst 3 
+ 
+ 
+    Auditor 3 (Public Utilities)           
+Office of Electric, Gas and       Office of Accounting,            
+Water   
+ 
+ 
+ 
+ 
+    Audits and Finance 
+ 
+ 
+ 
+ 
+ 
+ 
+     
+Daniel Roszko                     Mingdi Huang   
+Utility Engineering  
+ 
+    Utility Engineering            
+Specialist 2 
+ 
+ 
+ 
+    Specialist 1 
+Office of Electric, Gas and 
+    Office of Electric, Gas and 
+Water 
+ 
+ 
+  
+ 
+    Water 
+  
+Srirangaram Seshadri 
+ 
+    State of New York     
+Assistant Engineer (Electrical)   Department of Public Service           
+Office of Electric, Gas and      Three Empire State Plaza 
+Water 
+ 
+ 
+ 
+ 
+    Albany, New York 12223-1350 
+     
+    90 Church Street, 4th Floor 
+    New York, New York 10007 
+
+
+--- Page 2 ---
+Cases 22-E-0064 & 22-G-0065 
+ 
+Staff IT Panel 
+ 
+ 
+1 
+ 
+Q. 
+Please state your names, employer, and business 
+1 
+address. 
+2 
+A.   Our names are Philipose Philip, Jerry (Hongbing) 
+3 
+Shang, Daniel Roszko, Mingdi Huang, and 
+4 
+Srirangaram Seshadri.  We are employed by the 
+5 
+Department of Public Service, referred to as the 
+6 
+Department.  Our business address is Three 
+7 
+Empire State Plaza, Albany, New York 12223 and 
+8 
+90 Church Street, 4th Floor, New York, New York 
+9 
+10007. 
+10 
+Q. 
+Mr. Philip, have you discussed your credentials 
+11 
+in another testimony submitted as part of these 
+12 
+proceedings? 
+13 
+A. 
+Yes.  My credentials are provided in the Staff 
+14 
+Electric Infrastructure and Operations Panel 
+15 
+testimony. 
+16 
+Q.   Mr. Shang, have you discussed your credentials 
+17 
+in another testimony submitted as part of these 
+18 
+proceedings? 
+19 
+A. 
+Yes.  My credentials are provided in the Staff 
+20 
+Accounting Panel testimony. 
+21 
+Q. 
+Mr. Roszko, have you discussed your credentials 
+22 
+in another testimony submitted as part of these 
+23 
+proceedings? 
+24 
+
+
+--- Page 3 ---
+Cases 22-E-0064 & 22-G-0065 
+ 
+Staff IT Panel 
+ 
+ 
+2 
+ 
+A. 
+Yes.  My credentials are provided in the Staff 
+1 
+Electric Infrastructure and Operations Panel 
+2 
+testimony. 
+3 
+Q. 
+Mr. Huang, have you discussed your credentials 
+4 
+in another testimony submitted as part of these 
+5 
+proceedings? 
+6 
+A. 
+Yes.  My credentials are provided in the Staff 
+7 
+Depreciation Panel testimony. 
+8 
+Q. 
+Mr. Seshadri, have you discussed your 
+9 
+credentials in another testimony submitted as 
+10 
+part of these proceedings? 
+11 
+A. 
+Yes.  My credentials are provided in the Shared 
+12 
+Services testimony. 
+13 
+Summary of Testimony 
+14 
+Q.  Panel, what is the scope of your testimony in 
+15 
+these proceedings? 
+16 
+A.   Our testimony will summarize the proposals of 
+17 
+Consolidated Edison Company of New York, 
+18 
+referred to as Con Edison or the Company, for 
+19 
+its information technology, or IT, programs and 
+20 
+projects covered in the Company’s Information 
+21 
+Technology Panel, Customer Operations Panel, and 
+22 
+Customer Energy Solutions Panel.  We will also 
+23 
+discuss our review process and recommend a 
+24 
+
+
+--- Page 4 ---
+Cases 22-E-0064 & 22-G-0065 
+ 
+Staff IT Panel 
+ 
+ 
+3 
+ 
+number of adjustments to the Company’s proposed 
+1 
+IT capital expenditures and operating and 
+2 
+maintenance, or O&M, for the Rate Year, referred 
+3 
+to as Rate Year or RY.  
+4 
+Q. 
+In your testimony, will you refer to, or 
+5 
+otherwise rely upon, any information obtained 
+6 
+during the discovery phase of these proceedings? 
+7 
+A. 
+Yes.  We rely on several of the Company’s 
+8 
+responses to information requests, or IRs.  
+9 
+These responses are included in Exhibit__(SITP-
+10 
+1).   
+11 
+Q. 
+Is the Panel sponsoring any other exhibits? 
+12 
+A. 
+Yes, we are sponsoring Exhibit__(SITP-2), which 
+13 
+includes a summary of Staff’s adjustments to the 
+14 
+Company’s Information Technology Panel’s and 
+15 
+Customer Operations Panel’s IT capital budgets.  
+16 
+We are also sponsoring Exhibit__(SITP-3), which 
+17 
+includes a summary of Staff’s adjustments to the 
+18 
+Company’s overall IT non-labor O&M budgets.  
+19 
+Adjustments to labor O&M are discussed in this 
+20 
+and other Staff panels’ testimonies which we 
+21 
+will cross reference in our testimony, but no 
+22 
+additional exhibit was prepared since these 
+23 
+adjustments are fully presented in their 
+24 
+
+
+--- Page 5 ---
+Cases 22-E-0064 & 22-G-0065 
+ 
+Staff IT Panel 
+ 
+ 
+4 
+ 
+respective Staff testimonies.  
+1 
+Q. 
+Panel, what is the Rate Year in these 
+2 
+proceedings? 
+3 
+A. 
+The twelve-month period ending December 31, 
+4 
+2023. 
+5 
+Q. 
+Did the Company provide information for any 
+6 
+years beyond the Rate year? 
+7 
+A. 
+Yes.  The Company provided information for the 
+8 
+twelve-month period ending December 31, 2024 
+9 
+(RY2) and the twelve-month period ending 
+10 
+December 31, 2025 (RY3).   
+11 
+Company’s Overall IT Proposal 
+12 
+Q.   How does the Company organize its IT capital 
+13 
+projects? 
+14 
+A.  As explained on page 27 of the initial testimony 
+15 
+of the Company’s Information Technology Panel, 
+16 
+the Company groups its IT capital projects into 
+17 
+the following major categories: Major Enterprise 
+18 
+Projects; Foundational IT; Common IT; Electric 
+19 
+IT; Customer Energy Services, referred to as 
+20 
+CES; and Gas IT. 
+21 
+Q.   What projects are included in the Company’s 
+22 
+Major Enterprise Projects category? 
+23 
+A.   Under the Major Enterprise Projects category, 
+24 
+
+
+--- Page 6 ---
+Cases 22-E-0064 & 22-G-0065 
+ 
+Staff IT Panel 
+ 
+ 
+5 
+ 
+the Company proposes seven primary investments.  
+1 
+As discussed on pages 27 to 41 of the initial 
+2 
+testimony of the Company’s IT Panel, the Company 
+3 
+proposes the following five projects: the Work 
+4 
+and Asset Management system; eGIS projects, 
+5 
+Distribution Control Center Resiliency projects; 
+6 
+the Outage Management system; and, Oracle ERP 
+7 
+projects.  In addition, on pages 18 to 32 of the 
+8 
+initial testimony of the Company’s Customer 
+9 
+Operation Panel, the Company proposes two other 
+10 
+Major Enterprise Projects, the New Customer 
+11 
+Service system and the Customer Relationship 
+12 
+Management system. 
+13 
+Q.   What projects are included in the Company’s 
+14 
+Foundational IT category? 
+15 
+A.   As discussed on pages 41 to 69 of the initial 
+16 
+testimony of the Company’s IT Panel, the Company 
+17 
+proposes four strategic investments under this 
+18 
+section.  They are Foundational IT 
+19 
+Infrastructures, IT Platforms, Cybersecurity, 
+20 
+and Applications.  
+21 
+Q.   Please explain what IT projects are proposed 
+22 
+under the Common IT category. 
+23 
+A.   As discussed on pages 70 to 73 of the initial 
+24 
+
+
+--- Page 7 ---
+Cases 22-E-0064 & 22-G-0065 
+ 
+Staff IT Panel 
+ 
+ 
+6 
+ 
+testimony of the Company’s IT Panel, the main 
+1 
+projects proposed by the Company within this IT 
+2 
+category are the Oracle Human Capital Management 
+3 
+and Oracle E-Business Suite. 
+4 
+Q.   Please explain what IT projects the Company 
+5 
+proposes under the Electric IT category. 
+6 
+A. 
+As discussed on pages 74 to 78 of the initial 
+7 
+testimony of the Company’s IT Panel, the Company 
+8 
+proposes two primary electric IT projects, the 
+9 
+Grid Modernization Data Analytics Use Case 
+10 
+project and the Decisioning project. 
+11 
+Q.   Please explain what IT projects the Company 
+12 
+proposes under the CES IT category. 
+13 
+A. 
+As discussed on pages 78 to 79 of the initial 
+14 
+testimony of the Company’s IT Panel, the Company 
+15 
+proposes the following CES IT projects: 
+16 
+Distributed System Platform, referred to as DSP, 
+17 
+project; Distributed Energy Resources Management 
+18 
+System, or DERMS; Advanced Distribution 
+19 
+Management System, referred to as  ADMS; 
+20 
+Customer Recommendation and Analysist Tools; 
+21 
+Advanced Metering Infrastructure, referred to as 
+22 
+AMI, Enhancements Program; and the Reforming the 
+23 
+Energy Vision, or REV, Distributed Energy 
+24 
+
+
+--- Page 8 ---
+Cases 22-E-0064 & 22-G-0065 
+ 
+Staff IT Panel 
+ 
+ 
+7 
+ 
+Resource, referred to as DER, Forecasting 
+1 
+Application. 
+2 
+Q.   Please explain what IT projects the Company 
+3 
+proposes under the Gas IT category. 
+4 
+A. 
+As discussed on pages 79 to 80 of the initial 
+5 
+testimony of the Company’s IT Panel, the 
+6 
+Company’s primary Gas IT project is the Work and 
+7 
+Asset Management system, which is included in 
+8 
+the Major Enterprise Projects category. 
+9 
+Q. 
+Are there any additional Gas IT projects the 
+10 
+Company proposes? 
+11 
+A. 
+Yes.  The Company proposes a Smart Application 
+12 
+Replacement project.  According to the Company’s 
+13 
+Exhibit __(IT-6) page 14 of 24, the current 
+14 
+SmartApp system is used to record and monitor 
+15 
+field work for gas operations.  The objective of 
+16 
+this project is to migrate and enhance 
+17 
+applications from the vendor supported SmartApps 
+18 
+platform to a mobile platform using approved 
+19 
+technology. 
+20 
+Q.   Panel, what are the capital expenditures for IT 
+21 
+related projects that the Company seeks to 
+22 
+recover in these proceedings? 
+23 
+A.   As shown on page 9 of the initial testimony of 
+24 
+
+
+--- Page 9 ---
+Cases 22-E-0064 & 22-G-0065 
+ 
+Staff IT Panel 
+ 
+ 
+8 
+ 
+the Company’s IT Panel, in the aggregate, the 
+1 
+Company requests $471.5 million in capital 
+2 
+expenditures for IT related projects for the 
+3 
+Rate Year, $558.5 million in capital 
+4 
+expenditures for RY2, and $430.90 million in 
+5 
+capital expenditures for RY3. 
+6 
+Q.   What are the Company’s requested incremental O&M 
+7 
+expenditures for IT related projects in these 
+8 
+proceedings? 
+9 
+A.   As shown in Exhibit___(AP-E3) and Exhibit___(AP-
+10 
+G3), Schedule 6 of the Company’s Accounting 
+11 
+Panel Update and Corrections filing, the Company 
+12 
+requests a total of $84.10 million of non-labor 
+13 
+incremental O&M expenses.  Furthermore, the 
+14 
+Company requests a total of $7.98 million of 
+15 
+incremental labor O&M expenses for its electric 
+16 
+and gas businesses, as set forth in its second 
+17 
+supplemental response to DPS-15-464, included in 
+18 
+Exhibit__(SITP-1). 
+19 
+Overview of Review Process and Recommendations 
+20 
+Q.  Please explain the process performed by the 
+21 
+Panel to review the Company’s IT requests. 
+22 
+A. 
+Our review involved examining the Company’s 
+23 
+proposed budgets, by category and by total 
+24 
+
+
+--- Page 10 ---
+Cases 22-E-0064 & 22-G-0065 
+ 
+Staff IT Panel 
+ 
+ 
+9 
+ 
+spending, as compared to the Company’s historic 
+1 
+budgets, to track how program and project 
+2 
+spending has changed.  We also reviewed the 
+3 
+Company’s whitepapers, contained in 
+4 
+Exhibit__(IT-1) through Exhibit__(IT-6) and 
+5 
+workpapers of its initial filing, which provide 
+6 
+the support for the Company’s proposed IT 
+7 
+projects and include the cost of the projects, 
+8 
+historic spending, justification for the 
+9 
+projects, alternatives considered, and the basis 
+10 
+for the cost estimate.  Additionally, we held 
+11 
+several meetings with Company personnel to 
+12 
+discuss the programs and projects.  Finally, as 
+13 
+previously mentioned, we issued several 
+14 
+information requests to gain a better 
+15 
+understanding of the Company’s proposed IT 
+16 
+projects and forecasted spending. 
+17 
+Q. 
+Please describe the Panel’s review of the 
+18 
+Company’s proposed IT capital and O&M budgets. 
+19 
+A.  First, we reviewed the cost estimates provided 
+20 
+by the Company in Exhibits__(IT-1) through 
+21 
+Exhibit __(IT-6) as well as workpapers 
+22 
+supporting labor and non-labor O&M expenses to 
+23 
+determine whether the cost estimates were 
+24 
+
+
+--- Page 11 ---
+Cases 22-E-0064 & 22-G-0065 
+ 
+Staff IT Panel 
+ 
+ 
+10 
+ 
+reasonable compared to historical costs.  In 
+1 
+instances where the cost estimates deviated from 
+2 
+historic costs, we assessed whether the Company 
+3 
+provided adequate justification and used 
+4 
+reasonable assumptions to develop its cost 
+5 
+estimates.  Furthermore, when historical costs 
+6 
+were used to project future spending, we 
+7 
+analyzed the historical unit costs.  Second, we 
+8 
+reviewed previous IT proposals made by the 
+9 
+Company in prior rate proceedings and the 
+10 
+Company’s historical performance in achieving 
+11 
+the proposed project schedule at the forecasted 
+12 
+costs.  Third, we considered whether the 
+13 
+projects, programs, and the number of Full-Time 
+14 
+Equivalent, or FTE, employees were necessary to 
+15 
+provide safe and reliable service at just and 
+16 
+reasonable rates, especially given the 
+17 
+significant revenue requirement increases 
+18 
+Company requests in these proceedings.  Fourth, 
+19 
+we reviewed the Company’s whitepapers to 
+20 
+determine whether the Company adequately 
+21 
+justified the projects, programs, and FTE 
+22 
+requests.  Finally, we reviewed the alternatives 
+23 
+that were considered by the Company to ensure 
+24 
+
+
+--- Page 12 ---
+Cases 22-E-0064 & 22-G-0065 
+ 
+Staff IT Panel 
+ 
+ 
+11 
+ 
+the most appropriate and cost-effective option 
+1 
+was selected by the Company.   
+2 
+Q. 
+What adjustments does the Panel recommend to the 
+3 
+Company’s proposed IT investments for the Rate 
+4 
+Year? 
+5 
+A. 
+Our adjustments fall into the following three 
+6 
+categories: (1) adjustments to the IT capital 
+7 
+expenditures the Company proposes; (2) 
+8 
+adjustments to the proposed IT non-labor O&M 
+9 
+budgets; and, (3) adjustments to the IT labor 
+10 
+related O&M budgets proposed by Con Edison.   
+11 
+Q. 
+Please quantify the adjustments the Panel 
+12 
+recommends to the Company’s forecasted IT 
+13 
+capital expenditures. 
+14 
+A. 
+In aggregate, we recommend reducing the 
+15 
+Company’s forecasted incremental IT capital 
+16 
+expenditures of $471.5 million to $354.9 million 
+17 
+in the Rate Year, or a decrease of $116.6 
+18 
+million.  In addition, we recommend decreasing 
+19 
+the Company’s forecasted IT capital expenditures 
+20 
+for RY2 from $558.5 million to $413.6 million 
+21 
+and for RY3 from $430.9 million to $255.8 
+22 
+million, which are reductions of $144.9 million 
+23 
+and $175.1 million, respectively.   
+24 
+
+
+--- Page 13 ---
+Cases 22-E-0064 & 22-G-0065 
+ 
+Staff IT Panel 
+ 
+ 
+12 
+ 
+Q. 
+Please quantify the adjustments to the Company’s 
+1 
+forecasted IT non-labor O&M expenses the Panel 
+2 
+recommends. 
+3 
+A. 
+In aggregate, we recommend decreasing the 
+4 
+Company’s forecasted incremental IT non-labor 
+5 
+O&M expenses for the Rate Year of $84.10 million 
+6 
+to $44.3 million, or a decrease of $39.8 
+7 
+million.   
+8 
+Q. 
+Please quantify the adjustments to the Company’s 
+9 
+forecasted incremental IT labor O&M expenses you 
+10 
+recommend. 
+11 
+A. 
+In the aggregate, we recommend decreasing the 
+12 
+Company’s forecasted incremental IT labor O&M of 
+13 
+$7.98 million to $4.16 million in the Rate Year, 
+14 
+or a decrease of $3.82 million. 
+15 
+Q. 
+Are the Panel’s reflected adjustments discussed 
+16 
+in any other Staff testimony? 
+17 
+A. 
+Yes.  Exhibit__(SITP-2) contains the capital 
+18 
+adjustments that are described in Staff Consumer 
+19 
+Services Panel, Staff Security Panel, Staff 
+20 
+Clean Energy Programs Panel and by witness 
+21 
+Seshadri. 
+22 
+ 
+The Staff Consumer Services Panel recommends 
+23 
+decreasing the Company’s forecasted IT capital 
+24 
+
+
+--- Page 14 ---
+Cases 22-E-0064 & 22-G-0065 
+ 
+Staff IT Panel 
+ 
+ 
+13 
+ 
+expenditures related to its proposed Customer 
+1 
+Relationship Management, Back Office Automation 
+2 
+and Workforce Management, Retail Access System 
+3 
+Replacement, Contact Cloud Center and Privacy 
+4 
+Readiness IT project, by $19.5 million in the 
+5 
+Rate Year, $22.4 million in RY2, and $38.2 
+6 
+million in RY3.  In addition, the Staff Consumer 
+7 
+Services Panel recommends decreasing the 
+8 
+Company’s forecasted non-labor O&M expense by 
+9 
+$4.8 million the Rate Year.  The Staff Security 
+10 
+Panel recommends decreasing the Company’s 
+11 
+forecasted IT capital expenditures related to 
+12 
+the proposed Cybersecurity IT project by $6.78 
+13 
+million in the Rate Year, $7.14 million in RY2 
+14 
+and $9.00 million in RY3.  In addition, the 
+15 
+Staff Security Panel also recommends decreasing 
+16 
+the Company’s forecasted non-labor O&M expense 
+17 
+by $8.3 million and the proposed IT labor O&M 
+18 
+expense by $3.0 million in the Rate Year.  The 
+19 
+Staff Clean Energy Programs Panel recommends 
+20 
+decreasing the Company’s forecasted IT capital 
+21 
+expenditures, related to its proposed Customer 
+22 
+Analysis and Recommendation Tools IT project, by 
+23 
+$12.00 million in the Rate Year, $12.00 million 
+24 
+
+
+--- Page 15 ---
+Cases 22-E-0064 & 22-G-0065 
+ 
+Staff IT Panel 
+ 
+ 
+14 
+ 
+in RY2, and $11.00 million in RY3.  In addition, 
+1 
+the Staff Clean Energy Programs Panel recommends 
+2 
+decreasing the Company’s forecasted non-labor 
+3 
+O&M expense by $6.05 million in the Rate Year, 
+4 
+also related to the Customer Analysis and 
+5 
+Recommendation Tools IT project.  The Staff 
+6 
+Clean Energy Programs Panel also recommends 
+7 
+decreasing the Company’s Regulatory Asset 
+8 
+request by $3.00 million in the Rate Year, 
+9 
+related to the Company’s Smart Inverter Program 
+10 
+component within the DER Integration and 
+11 
+Management Project.  Finally, in the direct 
+12 
+testimony of Staff witness Seshadri, he 
+13 
+recommends decreasing the Company’s forecasted 
+14 
+IT capital expenditures related to General 
+15 
+Equipment IT (XM-8 and XM-10) by $13.24 million 
+16 
+in RY1, $17.86 million in RY2, and $16.87 
+17 
+million in RY3.  He also recommends decreasing 
+18 
+the Company’s forecasted non-labor O&M expense 
+19 
+by $9.789 million. 
+20 
+Capital Expenditures Adjustments 
+21 
+Major Enterprise Projects 
+22 
+Q. 
+Please describe the Electric – ARM Replacement 
+23 
+project. 
+24 
+
+
+--- Page 16 ---
+Cases 22-E-0064 & 22-G-0065 
+ 
+Staff IT Panel 
+ 
+ 
+15 
+ 
+A. 
+As explained on page 56 of the Company’s 
+1 
+Exhibit__(IT-1), this project would migrate the 
+2 
+Electric Work and Asset Management system, 
+3 
+referred to as WMS, from the CGI Asset and 
+4 
+Resource Management Solution, referred to as 
+5 
+ARMS, platform to the enterprise Maximo WMS 
+6 
+platform.  The current Electric WMS system 
+7 
+manages and tracks all work done by Electric 
+8 
+Operations, including: 1) emergency repairs; 2) 
+9 
+maintenance and inspection; 3) new construction 
+10 
+and customer connections; and 4) system 
+11 
+performance and reliability programs.   
+12 
+Q. 
+Did the Company explain why it believes this 
+13 
+project is necessary? 
+14 
+A.  Yes.  On page 30 of the initial testimony of the 
+15 
+Company’s IT Panel, the Company explains the CGI 
+16 
+ARMS platform is experiencing severe limitations 
+17 
+in the product line to meet the current and 
+18 
+growing needs of the Company’s electric 
+19 
+business.  Furthermore, in response to DPS-21-
+20 
+631, included in Exhibit___(SITP-1), the Company 
+21 
+indicates that the vendor is unable to meet Con 
+22 
+Edison’s architectural standard for mobiles 
+23 
+users to access applications via a single sign-
+24 
+
+
+--- Page 17 ---
+Cases 22-E-0064 & 22-G-0065 
+ 
+Staff IT Panel 
+ 
+ 
+16 
+ 
+on and that the Company has been challenged by 
+1 
+the quality of the delivered product. 
+2 
+Q. 
+What is the Company’s proposed capital budget 
+3 
+for this project? 
+4 
+A. 
+The Company requests $23.75 million per year in 
+5 
+RY2 and RY3. 
+6 
+Q. 
+What is the Company’s justification for this 
+7 
+project? 
+8 
+A. 
+The Company states on page 57 of Exhibit__(IT-1) 
+9 
+that to achieve the Company’s strategy of 
+10 
+establishing a true one enterprise WMS platform 
+11 
+for all operating areas, all legacy WMS systems 
+12 
+are road mapped to be migrated to the Maximo 
+13 
+Platform, including the Electric WMS system.  
+14 
+Additionally, this migration will eliminate the 
+15 
+potential risks associated with the limitations 
+16 
+in CGI’s capabilities to continue meeting the 
+17 
+changing needs of Electric Operations.   
+18 
+Q. 
+What is the Panel’s recommendation for this 
+19 
+project? 
+20 
+A. 
+The Panel recommends the Commission not provide 
+21 
+funding for this project.  As discussed later in 
+22 
+our testimony, the Company proposes to perform 
+23 
+the phase zero assessment of the Electric WMS 
+24 
+
+
+--- Page 18 ---
+Cases 22-E-0064 & 22-G-0065 
+ 
+Staff IT Panel 
+ 
+ 
+17 
+ 
+migration in RY1 under a different project.  As 
+1 
+stated on page 53 of Exhibit___(IT-4), that 
+2 
+assessment will determine the feasibility, 
+3 
+scope, and estimated cost to migrate the 
+4 
+Electric WMS system to the enterprise Maximo WMS 
+5 
+platform.  Due to the fact that this assessment 
+6 
+has yet to be completed, the Panel is unable to 
+7 
+determine if the Company has the complete scope 
+8 
+of work for this project and therefore, we are 
+9 
+unable to determine if the requested capital 
+10 
+budget for the migration of the Electric WMS is 
+11 
+reasonable.  Additionally, since the limitations 
+12 
+identified by the Company are not security 
+13 
+concerns, nor a lack of product support, the 
+14 
+Panel does not believe there is an immediate 
+15 
+need to migrate the Electric WMS.  
+16 
+Q. 
+Please describe the Substation Technology 
+17 
+Improvements project. 
+18 
+A. 
+As explained on page 108 of the Company’s 
+19 
+Exhibit__(IT-1), this project addresses 
+20 
+technology improvements needed to upgrade, 
+21 
+enhance, automate, or establish substation 
+22 
+processes with the goal of increasing safety, 
+23 
+efficiency, and improving reliability.  
+24 
+
+
+--- Page 19 ---
+Cases 22-E-0064 & 22-G-0065 
+ 
+Staff IT Panel 
+ 
+ 
+18 
+ 
+Additionally, this project will seek to identify 
+1 
+and take advantage of opportunities to improve 
+2 
+the efficiency of these processes by 
+3 
+implementing new tools or upgrading existing 
+4 
+ones to enhance how data is collected, 
+5 
+transferred, and/or stored.  
+6 
+Q. 
+What is the capital budget the Company requests 
+7 
+for this project? 
+8 
+A. 
+The Company requests $5.0 million, $3.0 million, 
+9 
+and $2.5 million in RY1, RY2, and RY3, 
+10 
+respectively. 
+11 
+Q. 
+What is the Company’s justification for this 
+12 
+project? 
+13 
+A. 
+Con Edison states on page 108 of Exhibit__(IT-1) 
+14 
+that the implementation and upgrade of new 
+15 
+technology is instrumental in ensuring that 
+16 
+Substation Operations continually improves 
+17 
+efficiency and reliability.  The use of 
+18 
+technology to streamline processes results in 
+19 
+better resource utilization and a reduction in 
+20 
+task time requirements.  Additionally, Con 
+21 
+Edison states that better data collection and 
+22 
+storage facilitates enhanced data analysis and 
+23 
+trending which ultimately leads to improved 
+24 
+
+
+--- Page 20 ---
+Cases 22-E-0064 & 22-G-0065 
+ 
+Staff IT Panel 
+ 
+ 
+19 
+ 
+reliability and equipment performance.  
+1 
+Q. 
+What is the Panel’s recommendation for the 
+2 
+Substation Technology Improvements project? 
+3 
+A. 
+The Panel recommends a capital budget of $1.40 
+4 
+million, $1.50 million, and $1.50 million for 
+5 
+RY1, RY2, and RY3, respectively. 
+6 
+Q. 
+What is the rationale for the Panel’s 
+7 
+recommendation? 
+8 
+A. 
+In reviewing the Company’s response to DPS-22-
+9 
+655, included in Exhibit__(SITP-1), the Panel 
+10 
+found that the Company only provided three 
+11 
+initiatives to be completed under this project 
+12 
+during the three RYs, and that the associated 
+13 
+costs do not equal the total requested funding 
+14 
+for this project.  Specifically, in the Rate 
+15 
+Year, Con Edison seeks funding for the Asset 
+16 
+Investment Planning and Scheduling Optimization 
+17 
+and the Substation Equipment Electronic Tagging 
+18 
+initiatives at a total cost of $1.4 million.  
+19 
+Therefore, the Panel recommends the RY1 budget 
+20 
+for this program be adjusted to reflect the 
+21 
+total cost of the initiatives listed in the 
+22 
+Company’s response to DPS-22-655.  For RY2 and 
+23 
+RY3, the Company only listed the Substation 
+24 
+
+
+--- Page 21 ---
+Cases 22-E-0064 & 22-G-0065 
+ 
+Staff IT Panel 
+ 
+ 
+20 
+ 
+Inspection Robotics initiative that it plans to 
+1 
+complete from 2024 through 2026.  In order to 
+2 
+determine an appropriate budget for RY2 and RY3, 
+3 
+the Panel split the $4.5 million cost of this 
+4 
+initiative into three, deriving an annual cost 
+5 
+of the program, which results in a budget of 
+6 
+$1.5 million for RY2 and RY3. 
+7 
+Q. 
+Please briefly describe the WMS Sustainability 
+8 
+project. 
+9 
+A. 
+As explained on page 113 of the Company’s 
+10 
+Exhibit__(IT-1), the WMS Sustainability project 
+11 
+is intended to improve business practices to 
+12 
+reduce delays, improve visibility into costs 
+13 
+associated with management, and reduce fieldwork 
+14 
+and administrative backlogs. 
+15 
+Q. 
+What is the Company’s capital budget for this 
+16 
+project? 
+17 
+A. 
+The Company requests a budget of $3.75 million 
+18 
+for each rate year, or a total of $11.25 
+19 
+million. 
+20 
+Q. 
+What is the Company’s justification for this 
+21 
+request? 
+22 
+A. 
+According to Con Edison, the WMS Sustainability 
+23 
+project funds the WMS side of the GIS and the 
+24 
+
+
+--- Page 22 ---
+Cases 22-E-0064 & 22-G-0065 
+ 
+Staff IT Panel 
+ 
+ 
+21 
+ 
+New HR Payroll system and also funds necessary 
+1 
+hardware replacements. 
+2 
+Q. 
+What is the Panel’s recommendation for this 
+3 
+project? 
+4 
+A. 
+The Panel recommends a budget of $2.00 million, 
+5 
+$1.68 million, and $1.02 million for RY1, RY2, 
+6 
+and RY3, respectively. 
+7 
+Q. 
+What is the Panel’s rationale for this 
+8 
+recommendation? 
+9 
+A. 
+The Company’s request is a significant increase 
+10 
+from the project’s historical capital 
+11 
+expenditures from 2017 through 2021 as shown in 
+12 
+Exhibit__(IT-1) pages 117 to 118, which averages 
+13 
+$1.97 million.  In addition, the Company’s 
+14 
+response to DPS-27-706, included in 
+15 
+Exhibit__(SITP-1), did not fully justify the 
+16 
+entire capital request of $3.75 million.  
+17 
+Furthermore, the response to DPS-27-706, 
+18 
+Attachment 1, indicates budgeted costs of $2.59 
+19 
+million for projects that have yet to be 
+20 
+determined as well as an additional $0.61 
+21 
+million budgeted for “CRMS Improvements” that 
+22 
+are not discussed in the Exhibit___(IT-1), thus 
+23 
+the Panel recommends removing these costs from 
+24 
+
+
+--- Page 23 ---
+Cases 22-E-0064 & 22-G-0065 
+ 
+Staff IT Panel 
+ 
+ 
+22 
+ 
+the Company’s forecasted budget.  The Panel 
+1 
+recommends a capital budget based on the costs 
+2 
+provided in the response to DPS-27-706, 
+3 
+Attachment 1, removing the costs for “CRMS 
+4 
+Improvements” and the costs for projects yet to 
+5 
+be determined, and including the estimated 
+6 
+hardware upgrades and server costs provided in 
+7 
+response to DPS-27-706. 
+8 
+Foundational IT Infrastructure Projects 
+9 
+Q. 
+Please briefly describe the Corporate 
+10 
+Communication Transmission Network, or CCTN, 
+11 
+Expansion and Modernization project. 
+12 
+A. 
+As explained on pages 20-23 the Company’s 
+13 
+Exhibit__(IT-2), the CCTN is the Company’s fiber 
+14 
+optic network communication system, which 
+15 
+carries corporate data, voice, and Supervisory 
+16 
+Control and Data Acquisition, or SCADA, data.  
+17 
+This project will continue to replace older 
+18 
+fiber and install technology as needed to 
+19 
+improve reliability, resiliency, and security. 
+20 
+Q. 
+What is the Company’s requested capital budget 
+21 
+for this project? 
+22 
+A. 
+The Company requests $20.00 million for each 
+23 
+rate year, or a total of $60.00 million. 
+24 
+
+
+--- Page 24 ---
+Cases 22-E-0064 & 22-G-0065 
+ 
+Staff IT Panel 
+ 
+ 
+23 
+ 
+Q. 
+What is the Company’s justification for this 
+1 
+request? 
+2 
+A. 
+As explained on pages 23-25 of the Company’s 
+3 
+Exhibit__(IT-2), the CCTN provides the backbone 
+4 
+of the Company’s communication services, Con 
+5 
+Edison states that this project is necessary to 
+6 
+improve and secure the communication 
+7 
+capabilities of the Company. 
+8 
+Q. 
+What is the Panel’s recommended budget for this 
+9 
+project? 
+10 
+A. 
+The Panel recommends a budget of $7.85 million, 
+11 
+$8.03 million, and $8.20 million for RY1, RY2 
+12 
+and RY3, respectively. 
+13 
+Q. 
+What is the Panel’s rationale for this 
+14 
+recommendation? 
+15 
+A. 
+While the Company provides a breakdown of costs 
+16 
+in response to DPS-20-559, Attachment 7, 
+17 
+included in Exhibit__(SITP-1), it does not 
+18 
+justify the significant increase in costs over 
+19 
+the project’s five-year average historical 
+20 
+capital expenditure level of $6.93 million.  
+21 
+Therefore, the Panel recommends a budget at the 
+22 
+level of the inflation-adjusted five-year 
+23 
+historical average of $7.64 million, adjusted 
+24 
+
+
+--- Page 25 ---
+Cases 22-E-0064 & 22-G-0065 
+ 
+Staff IT Panel 
+ 
+ 
+24 
+ 
+for inflation for each rate year.  We used the 
+1 
+Gross Domestic Product Price Index, referred to 
+2 
+as GDP-PI, that we obtained from Staff witness 
+3 
+Gadomski. 
+4 
+Q. 
+Please briefly describe the Data Center 
+5 
+Improvements project. 
+6 
+A. 
+As explained on pages 54-56 of the Company’s 
+7 
+Exhibit__(IT-2), the Data Center Improvements 
+8 
+project enhances and upgrades the Company’s 
+9 
+remaining data center equipment so that the 
+10 
+centers remain reliable, in addition to 
+11 
+investing in preventative maintenance and 
+12 
+support for emergencies. 
+13 
+Q. 
+What is the Company’s requested capital budget 
+14 
+for this project? 
+15 
+A. 
+The Company requests $5.57 million, $8.00 
+16 
+million and $16.00 million for RY1, RY2 and RY3, 
+17 
+respectively. 
+18 
+Q. 
+What is the Company’s justification for its 
+19 
+request? 
+20 
+A. 
+As explained on pages 56-57 of the Company’s 
+21 
+Exhibit__(IT-2), while the Company intends to 
+22 
+move a number of its data centers to the cloud, 
+23 
+the remaining data centers must continue to be 
+24 
+
+
+--- Page 26 ---
+Cases 22-E-0064 & 22-G-0065 
+ 
+Staff IT Panel 
+ 
+ 
+25 
+ 
+maintained, upgraded and improved in order to 
+1 
+reduce costs and maintain reliability and 
+2 
+security. 
+3 
+Q. 
+What is the Panel’s recommended budget for this 
+4 
+project? 
+5 
+A. 
+The Panel recommends a budget of $5.57 million, 
+6 
+$5.70 million, and $1.10 million for RY1, RY2, 
+7 
+and RY3, respectively. 
+8 
+Q. 
+What is the Panel’s rationale for this 
+9 
+recommendation? 
+10 
+A. 
+In response to DPS-33-768, Attachment 2h, 
+11 
+included in Exhibit__(SITP-1), the Company 
+12 
+provided an engineering feasibility study 
+13 
+performed by Skae Power Solutions, LLC to 
+14 
+upgrade the data center on Worth Street to 
+15 
+accommodate increased load requirements.  
+16 
+Furthermore, as also indicated in response to 
+17 
+DPS-33-768, Attachment 2, the Company’s proposed 
+18 
+budget includes two of the three options 
+19 
+proposed in the engineering feasibility study.  
+20 
+One option has a cost of $255,000 in RY1 to re-
+21 
+balance the chilled water system and the other 
+22 
+has a cost of $2.00 million in RY2 and $13.00 
+23 
+million in RY3 in order to install approximately 
+24 
+
+
+--- Page 27 ---
+Cases 22-E-0064 & 22-G-0065 
+ 
+Staff IT Panel 
+ 
+ 
+26 
+ 
+25 new cabinets in the data center.  The Panel 
+1 
+recommends removing the funding of $2.3 million 
+2 
+in RY2 and 14.91 million in RY3 from the 
+3 
+Company’s request, as the Company has not 
+4 
+sufficiently justified the need for this option, 
+5 
+especially considering that the Company is also 
+6 
+implementing the chilled water system re-
+7 
+balance.  
+8 
+Q. 
+Please briefly describe the End User Computing 
+9 
+project. 
+10 
+A. 
+As explained on pages 74-75 of the Company’s 
+11 
+Exhibit__(IT-2), the project is meant to 
+12 
+continuously evaluate, upgrade, improve and 
+13 
+replace technologies and software in order to 
+14 
+provide a more efficient, effective and secure 
+15 
+working environment for the Company’s employees. 
+16 
+Q. 
+What is the Company’s proposed capital budget 
+17 
+for this project? 
+18 
+A. 
+The Company requests $3.36 million, $4.65 
+19 
+million, and $6.15 million for RY1, RY2 and RY3, 
+20 
+respectively. 
+21 
+Q. 
+What is the Company’s justification for this 
+22 
+project? 
+23 
+A. 
+As explained on page 75 of the Company’s 
+24 
+
+
+--- Page 28 ---
+Cases 22-E-0064 & 22-G-0065 
+ 
+Staff IT Panel 
+ 
+ 
+27 
+ 
+Exhibit__(IT-2), as technology continues to 
+1 
+evolve, the software and computing environment 
+2 
+used by the Company’s employees must also be 
+3 
+upgraded, updated and expanded in order to stay 
+4 
+competitive, efficient and secure. 
+5 
+Q. 
+What is the Panel’s recommended budget for this 
+6 
+project? 
+7 
+A. 
+The Panel recommends a budget of $3.56 million, 
+8 
+$4.30 million, and $3.82 million for RY1, RY2 
+9 
+and RY3, respectively. 
+10 
+Q. 
+What is the Panel’s rationale for this 
+11 
+recommendation? 
+12 
+A. 
+In response to DPS-33-768, included in 
+13 
+Exhibit__(SITP-1), the Company states that the 
+14 
+project consists of three major streams of work, 
+15 
+one of which is the piloting and implementation 
+16 
+of new projects.  The project includes a pilot 
+17 
+for multiple types of biometric technologies in 
+18 
+calendar year 2023 as well as virtual and 
+19 
+augmented reality devices for improved safety 
+20 
+and training that are currently being field 
+21 
+tested.  However, as shown in Attachment 3 to 
+22 
+the response to DPS-33-768, the budget 
+23 
+attributed to new technology is shown to 
+24 
+
+
+--- Page 29 ---
+Cases 22-E-0064 & 22-G-0065 
+ 
+Staff IT Panel 
+ 
+ 
+28 
+ 
+increase from approximately $1.1 million in RY1 
+1 
+to $2.26 million in RY2 and $3.06 million in 
+2 
+RY3.  As the pilot for the biometric 
+3 
+technologies has not yet begun and the results 
+4 
+for the field testing for the virtual reality 
+5 
+training have not been provided, the funding for 
+6 
+the feasibility and usefulness of the pilots 
+7 
+included in this project has not been 
+8 
+sufficiently justified by the Company.  
+9 
+Therefore, the Panel recommends keeping the 
+10 
+associated budget for new technologies at the 
+11 
+RY1 level. 
+12 
+Q. 
+Please briefly describe the Mobility – Digital 
+13 
+Factory project. 
+14 
+A. 
+As explained on pages 121-122 of the Company’s 
+15 
+Exhibit__(IT-2), the Mobility – Digital Factory 
+16 
+is a mobile application development and support 
+17 
+group that focuses on high impact business 
+18 
+processes and delivery of technologies promoting 
+19 
+operational efficiency. 
+20 
+Q. 
+What is the Company’s proposed capital budget 
+21 
+for this project? 
+22 
+A. 
+The Company requests $13.75 million for each 
+23 
+rate year, or a total of $41.25 million for the 
+24 
+
+
+--- Page 30 ---
+Cases 22-E-0064 & 22-G-0065 
+ 
+Staff IT Panel 
+ 
+ 
+29 
+ 
+project. 
+1 
+Q. 
+What is the Company’s justification for this 
+2 
+request? 
+3 
+A. 
+As explained on pages 122-123 of the Company’s 
+4 
+Exhibit__(IT-2), the Digital Factory project is 
+5 
+intended to advance the Company’s mobile 
+6 
+technology to shorten development cycles and 
+7 
+increase deployment frequencies.  This would 
+8 
+better align IT with the Company’s business 
+9 
+goals to create value, improve efficiencies, and 
+10 
+reduce costs. 
+11 
+Q. 
+What is the Panel’s recommended budget for this 
+12 
+project? 
+13 
+A. 
+The Panel recommends a budget of $8.60 million, 
+14 
+$8.79 million, and $8.97 million for RY1, RY2 
+15 
+and RY3, respectively. 
+16 
+Q. 
+What is the Panel’s rationale for this 
+17 
+recommendation? 
+18 
+A. 
+Similar to the CCTN Expansion and Modernization 
+19 
+project above, the Company’s request is a 
+20 
+significant increase from the project’s 
+21 
+historical capital expenditures levels without 
+22 
+sufficient support for the need and costs.  
+23 
+Therefore, the Panel recommends a budget at the 
+24 
+
+
+--- Page 31 ---
+Cases 22-E-0064 & 22-G-0065 
+ 
+Staff IT Panel 
+ 
+ 
+30 
+ 
+level of the five-year historical average of 
+1 
+$8.36 million, adjusted for inflation for each 
+2 
+rate year.  
+3 
+Q. 
+Please describe the Technology Currency and 
+4 
+Sustainability project. 
+5 
+A. 
+As explained on page 161 of the Company’s 
+6 
+Exhibit__(IT-2), the Technology Currency and 
+7 
+Sustainability project is an ongoing project 
+8 
+that upgrades the software and technologies 
+9 
+across the Company’s servers, databases, and 
+10 
+desktop operating systems. 
+11 
+Q. 
+What is the Company’s proposed capital budget 
+12 
+for this project? 
+13 
+A. 
+The Company requests $6.00 million for each rate 
+14 
+year, or a total of $18.00 million. 
+15 
+Q. 
+What is the Company’s justification for its 
+16 
+request? 
+17 
+A. 
+As explained on page 162 of the Company’s 
+18 
+Exhibit__(IT-2), the Company’s servers and 
+19 
+software applications need to be kept up to date 
+20 
+and current to maintain the security, 
+21 
+functionality, and reliability of its computer 
+22 
+applications. 
+23 
+Q. 
+What is the Panel’s recommended budget for this 
+24 
+
+
+--- Page 32 ---
+Cases 22-E-0064 & 22-G-0065 
+ 
+Staff IT Panel 
+ 
+ 
+31 
+ 
+project? 
+1 
+A. 
+The Panel recommends a budget of $3.95 million, 
+2 
+$4.04 million, and $4.12 million for RY1, RY2, 
+3 
+and RY3, respectively. 
+4 
+Q. 
+What is the Panel’s rationale for this 
+5 
+recommendation? 
+6 
+A. 
+As shown in response to DPS-33-768, Attachment 
+7 
+5a, included in Exhibit__(SITP-1), the Company’s 
+8 
+proposed budget is based on the actual costs 
+9 
+incurred in calendar year 2021, inflated by an 
+10 
+annual growth rate of ten percent.  As calendar 
+11 
+year 2021 is the only year with historical 
+12 
+spending for this project, the ten percent 
+13 
+annual growth rate is not sufficiently 
+14 
+justified, and the Panel instead recommends a 
+15 
+budget at the level of the 2021 actual costs of 
+16 
+$3.64 million, adjusted by Staff’s GDP-PI 
+17 
+inflation factor for each RY.   
+18 
+Electric IT Projects 
+19 
+Q. 
+What is the purpose of the projects the Company 
+20 
+proposes under the Electric IT category? 
+21 
+A. 
+As explained on pages 74-78 of the direct 
+22 
+testimony of the Company’s IT Panel, the 
+23 
+Electric IT category consists of 17 projects 
+24 
+
+
+--- Page 33 ---
+Cases 22-E-0064 & 22-G-0065 
+ 
+Staff IT Panel 
+ 
+ 
+32 
+ 
+that the Company proposes to support the 
+1 
+Electric Operations and Substations 
+2 
+organizations.   
+3 
+Q. 
+What is the Company’s proposed capital budget 
+4 
+for the Electric IT category? 
+5 
+A. 
+The Company proposes $22.96 million, $14.78 
+6 
+million, and $11.30 million in RY1, RY2, and 
+7 
+RY3, respectively. 
+8 
+Q. 
+Does the Panel recommend any adjustments to the 
+9 
+Electric IT category?  
+10 
+A. 
+The Panel recommends a downward adjustment of 
+11 
+$4.81 million, $0.41 million, and $2.37 million 
+12 
+in RY1, RY2, and RY3, respectively.  These 
+13 
+adjustments result in a capital budget of $18.15 
+14 
+million for RY1, $14.37 million for RY2, and 
+15 
+$8.93 million for RY3, for the Electric IT 
+16 
+category. 
+17 
+Q. 
+What are the major Electric IT projects that the 
+18 
+Panel is recommending be adjusted? 
+19 
+A. 
+The major Electric IT projects that the Panel is 
+20 
+recommending adjustments are the Electric - ARM 
+21 
+Replacement (Phase 0) and the Customer Business 
+22 
+Intelligence and Decisioning projects. 
+23 
+Q. 
+Please describe the Electric – ARM Replacement 
+24 
+
+
+--- Page 34 ---
+Cases 22-E-0064 & 22-G-0065 
+ 
+Staff IT Panel 
+ 
+ 
+33 
+ 
+(Phase 0) project. 
+1 
+A. 
+As explained on pages 53 to 54 of the Company’s 
+2 
+Exhibit__(IT-4), the funding for this project 
+3 
+will be used to perform a phase zero assessment 
+4 
+to determine the feasibility, scope, and cost 
+5 
+estimate to migrate the Electric WMS system to 
+6 
+the enterprise Maximo WMS platform.  This 
+7 
+migration of the Electric WMS system is 
+8 
+discussed earlier in this testimony, in the 
+9 
+discussion for the Electric – ARM Replacement 
+10 
+project. 
+11 
+Q. 
+What is the Company’s proposed capital budget 
+12 
+for this project? 
+13 
+A. 
+The Company proposes $2 million for RY1 only. 
+14 
+Q. 
+What is the Company’s justification for this 
+15 
+project? 
+16 
+A. 
+The Company states on page 54 of Exhibit__(IT-4) 
+17 
+that all legacy WMS systems are “road mapped” to 
+18 
+be migrated to the Maximo Platform, keeping with 
+19 
+the Company’s strategy to establishing one 
+20 
+enterprise WMS platform for all operating areas.  
+21 
+This phase zero assessment will determine the 
+22 
+feasibility, scope and estimate of this 
+23 
+migration. 
+24 
+
+
+--- Page 35 ---
+Cases 22-E-0064 & 22-G-0065 
+ 
+Staff IT Panel 
+ 
+ 
+34 
+ 
+Q. 
+What is the Panel’s recommendation for this 
+1 
+project? 
+2 
+A. 
+The Panel recommends that this project be 
+3 
+delayed by one year.  As mentioned previously in 
+4 
+our testimony, the Panel recommends the removal 
+5 
+of the Electric – ARM Replacement project for 
+6 
+RY2 and RY3.  Since this phase zero assessment 
+7 
+project is a prerequisite for the other electric 
+8 
+WMS migration project, the Panel believes that 
+9 
+it is appropriate to delay this project by one 
+10 
+year.  This would place the completion of the 
+11 
+phase zero assessment in approximately calendar 
+12 
+year 2024, or RY2. 
+13 
+Q. 
+Please describe the Customer Business 
+14 
+Intelligence and Decisioning project. 
+15 
+A.  As explained on pages 29 to 31 of the Company’s 
+16 
+Exhibit__(IT-4), this project utilizes emerging 
+17 
+technologies to enhance the customer experience, 
+18 
+encourage self-service, increase Energy Services 
+19 
+Representative productivity, reduce costly 
+20 
+errors, and shorten case lifecycles.  These 
+21 
+benefits would be achieved by predicting, 
+22 
+delivering, and enabling contextual information 
+23 
+during the appropriate stages of the case in the 
+24 
+
+
+--- Page 36 ---
+Cases 22-E-0064 & 22-G-0065 
+ 
+Staff IT Panel 
+ 
+ 
+35 
+ 
+preferred communications channel to Energy 
+1 
+Service Department, referred to as ESD, 
+2 
+customers and contractors.  In addition, 
+3 
+critical information would be added to ESD cases 
+4 
+to help ESD representatives streamline case 
+5 
+progression.  This goal will require 
+6 
+restructuring, capturing and delivering the data 
+7 
+associated with Con Edison’s business processes.  
+8 
+New data models would be created to deliver 
+9 
+customer and business intelligence to ESD and 
+10 
+all other departments involved in the ESD case 
+11 
+progression workflow.  The technology group 
+12 
+plans to create a road map and phase these 
+13 
+initiatives in over the next four years 
+14 
+beginning in 2023, with various release.  The 
+15 
+technology enhancements include: (1) enterprise 
+16 
+taxonomies to standardize data collection across 
+17 
+platforms and applications; (2) AI and machine 
+18 
+learning to better and more quickly recognize 
+19 
+key events, behaviors, anomalies, and risks in 
+20 
+case management; (3) intelligent notifications 
+21 
+to identify when and how much information to 
+22 
+push to customers to reduce customer inquiries, 
+23 
+questions, and confusion; (4) task automation 
+24 
+
+
+--- Page 37 ---
+Cases 22-E-0064 & 22-G-0065 
+ 
+Staff IT Panel 
+ 
+ 
+36 
+ 
+and self-service to improve day-to-day case 
+1 
+management operations, by leveraging chat, 
+2 
+virtual assistants, robotic process automation, 
+3 
+and data input validation in both the customer 
+4 
+portal and internal systems; (5) reduction in 
+5 
+failed inspections by identifying 
+6 
+recurring/predictable causes for failed 
+7 
+inspections and identifying the contractors that 
+8 
+typically fail inspection and intelligent 
+9 
+appointments; (6) identifying recurring causes 
+10 
+for inspection ‘no-shows’ and ‘reschedules’ and 
+11 
+case progression exception handling; and, (7) 
+12 
+identifying average timeframes between critical 
+13 
+case milestones throughout that time.   
+14 
+Q. 
+What is the Company’s justification for this 
+15 
+project?  
+16 
+A. 
+As explained on pages 31-32 of the Company’s 
+17 
+Exhibit__(IT-4), the goal of this initiative is 
+18 
+to decrease the overall case lifecycle, reduce 
+19 
+case errors, increase customer satisfaction, and 
+20 
+reduce the time required for ESD representative 
+21 
+to progress the majority of ESD cases.  These 
+22 
+benefits would be derived from data collection 
+23 
+and analytics that would allow case management 
+24 
+
+
+--- Page 38 ---
+Cases 22-E-0064 & 22-G-0065 
+ 
+Staff IT Panel 
+ 
+ 
+37 
+ 
+to be more proactive versus reactive and 
+1 
+improving resource management. 
+2 
+Q. 
+What is the Company’s proposed capital budget 
+3 
+for this project?  
+4 
+A. 
+The Company requests $4.00 million per year for 
+5 
+RY1, RY2 and RY3 or a total of $12.00 million. 
+6 
+Q. 
+What is the Panel’s recommendation for the 
+7 
+Customer Business Intelligence and Decisioning 
+8 
+project?  
+9 
+A. 
+The Panel supports this project, however, since 
+10 
+the Company has consistently underspent the 
+11 
+budgeted amount, we recommend a budget based on 
+12 
+the three-year average historical spending for 
+13 
+this project because this project had three 
+14 
+years of historical actual data.  This results 
+15 
+in a budget of $2 million per Rate Year. 
+16 
+Q. 
+What other projects does the Panel want to 
+17 
+discuss? 
+18 
+A. 
+The Panel would like to discuss the following 
+19 
+Electric IT projects: 1) Engineering Equipment 
+20 
+Upgrade Program, or AutoCAD; 2) Central 
+21 
+Operations Battery Monitoring Systems; 
+22 
+3)Operation Management System at Energy Control 
+23 
+Center, or ECC; and 4) Transmission Network 
+24 
+
+
+--- Page 39 ---
+Cases 22-E-0064 & 22-G-0065 
+ 
+Staff IT Panel 
+ 
+ 
+38 
+ 
+Visualization System, or TNVS WEB. 
+1 
+Q. 
+Please describe the AutoCAD program.  
+2 
+A. 
+As explained on page 2 of the Company’s 
+3 
+Exhibit__(IT-4), Autodesk is the maker of 
+4 
+Computer-Aided Design software.  Company 
+5 
+engineers and designers rely almost exclusively 
+6 
+on these products for Computer-Aided Design, or 
+7 
+CAD, work.  The AutoCAD program requires 
+8 
+periodic upgrades of software and hardware to 
+9 
+keep up to date with current technology.  
+10 
+Autodesk’s licensing scheme follows a 
+11 
+subscription format that entitles its clients to 
+12 
+all future releases of the software for a period 
+13 
+of time.  The capital budget proposed in the 
+14 
+five-year capital plan includes the upgrade and 
+15 
+replacement of wide-format plotters, 3D 
+16 
+scanners, CAD laptops, and various other 
+17 
+hardware needed to fully leverage the capability 
+18 
+of Autodesk’s collection of CAD software. 
+19 
+Q. 
+What is the Company’s justification for this 
+20 
+project? 
+21 
+A. 
+As explained on pages 2 to 3 of the Company’s 
+22 
+Exhibit__(IT-4), there are over 200 CAD 
+23 
+laptops/workstations used by designers and 
+24 
+
+
+--- Page 40 ---
+Cases 22-E-0064 & 22-G-0065 
+ 
+Staff IT Panel 
+ 
+ 
+39 
+ 
+engineers throughout the Company for CAD work.  
+1 
+In 2019, Central Engineering completed an 
+2 
+initiative that consolidated all Autodesk 
+3 
+licenses.  Upgrading the Autodesk collection of 
+4 
+products will increase the designers’ 
+5 
+productivity, maintain Autodesk support of the 
+6 
+software and 3-dimensional, or 3D, platform, and 
+7 
+maintain file compatibility.  The Company 
+8 
+expects productivity improvements to be achieved 
+9 
+through the implementation of Autodesk’s 
+10 
+Building Information Modeling or 3D Design.  In 
+11 
+addition, upgrades provide links to Microsoft 
+12 
+Excel spreadsheets with dynamic updates, making 
+13 
+data extraction more powerful.  The new 
+14 
+applications allow for smaller file sizes that 
+15 
+conserve server storage space and permit simple 
+16 
+file sharing and communication between 
+17 
+designers.  The dashboard provides enhanced 
+18 
+2D/3D tools for drafting and annotations. 
+19 
+Q. 
+What is the Company’s proposed capital budget 
+20 
+for this project?  
+21 
+A. 
+The Company proposes $800,000 for each rate year 
+22 
+for RY1, RY2, and RY3 or a total of $2.40 
+23 
+million. 
+24 
+
+
+--- Page 41 ---
+Cases 22-E-0064 & 22-G-0065 
+ 
+Staff IT Panel 
+ 
+ 
+40 
+ 
+Q. 
+What is the Panel’s recommended budget for this 
+1 
+project? 
+2 
+A. 
+This is an ongoing project, however, the 
+3 
+historical spending has generally been under 
+4 
+budget.  The Panel’s recommended capital budget 
+5 
+is based on a five-year average spending of this 
+6 
+program and recommends $0.55 million per year 
+7 
+for RY1, RY2 and RY3 or a total of $1.65 
+8 
+million.   
+9 
+Q. 
+Please describe the Central Operations Battery 
+10 
+Monitoring project.  
+11 
+A. 
+As explained on page 8 of the Company’s 
+12 
+Exhibit__(IT-4), Central Operations uses over 
+13 
+250 battery banks for emergency direct current, 
+14 
+or DC, power for the control, operation, and 
+15 
+monitoring of critical assets.  These batteries 
+16 
+are currently maintained in accordance with 
+17 
+engineering specifications and North American 
+18 
+Electric Reliability Corporation, or NERC, 
+19 
+requirements when applicable.  The required 
+20 
+battery maintenance is time consuming and 
+21 
+battery health data is only collected during 
+22 
+maintenance activities.  Battery monitoring 
+23 
+systems eliminate periodic maintenance 
+24 
+
+
+--- Page 42 ---
+Cases 22-E-0064 & 22-G-0065 
+ 
+Staff IT Panel 
+ 
+ 
+41 
+ 
+requirements and real-time battery health data 
+1 
+can be instrumental in avoiding failures of the 
+2 
+DC system.  This project will install battery 
+3 
+monitoring systems on selected batteries along 
+4 
+with a centralized monitoring software system 
+5 
+that can be utilized to access and monitor 
+6 
+battery condition data and generate automated 
+7 
+alerts. 
+8 
+Q. 
+What is the Company’s justification for this 
+9 
+project? 
+10 
+A. 
+As explained on page 8 of the Company’s 
+11 
+Exhibit__(IT-4), installation of battery 
+12 
+monitoring systems will lower O&M costs 
+13 
+associated with time-based battery inspections 
+14 
+and proactively identify degrading battery 
+15 
+conditions, thereby improving reliability of 
+16 
+these critical assets.  In addition, condition 
+17 
+monitoring systems meet all NERC requirements, 
+18 
+thereby eliminating the risk of non-compliance. 
+19 
+Q. 
+What is the Company’s proposed capital budget 
+20 
+for this project?  
+21 
+A. 
+The Company requests $0.60 million for RY1 and 
+22 
+RY2. 
+23 
+Q. 
+What is the Panel’s recommendation? 
+24 
+
+
+--- Page 43 ---
+Cases 22-E-0064 & 22-G-0065 
+ 
+Staff IT Panel 
+ 
+ 
+42 
+ 
+A. 
+The Panel supports this project, however, we 
+1 
+have an adjustment to the requested funds for 
+2 
+the RYs.  In response to DPS-22-642, included in 
+3 
+Exhibit__(SITP-1), the Company states that it 
+4 
+proposes to install 20 monitoring systems per 
+5 
+year at $28,000 per unit.  Hence the Panel 
+6 
+recommends a budget of $0.56 million for RY1 and 
+7 
+for RY2.  
+8 
+Q. 
+Please describe the Operation Management System 
+9 
+at ECC project.  
+10 
+A. 
+As explained on page 83 of the Company’s 
+11 
+Exhibit__(IT-4), this project will address 
+12 
+upgrades to the Operations Management Systems, 
+13 
+or OMS, and expand these systems to better 
+14 
+support the needs of operators and field 
+15 
+services.  This work will also support the 
+16 
+infrastructure needed for the replication of 
+17 
+systems at the Alternate Energy Control Center, 
+18 
+or AECC, for disaster recovery.  This project 
+19 
+will include the replacement of the current 
+20 
+replication system used by the Feeder Management 
+21 
+System, or FMS, with Virtual Machine platforms 
+22 
+in order to improve the reliability and disaster 
+23 
+recoverability of the FMS.  The new virtual 
+24 
+
+
+--- Page 44 ---
+Cases 22-E-0064 & 22-G-0065 
+ 
+Staff IT Panel 
+ 
+ 
+43 
+ 
+environment will upgrade the OMS computer 
+1 
+systems with new servers, storage units and 
+2 
+virtual infrastructure software to facilitate 
+3 
+the operation of multiple virtual machines on 
+4 
+fewer physical servers.  Complete duplication of 
+5 
+the production database functionality will be 
+6 
+built in parallel with the current production 
+7 
+database, allowing a cutover with a minimal 
+8 
+system outage.  The new architecture will build 
+9 
+local and remote duplication into every aspect 
+10 
+of the OMS, thus creating fault tolerant dual 
+11 
+redundant systems. 
+12 
+Q. 
+What is the Company’s justification for this 
+13 
+project? 
+14 
+A. 
+As explained on page 83 of the Company’s 
+15 
+Exhibit__(IT-4), this project is needed to 
+16 
+maintain OMS computer system hardware and keep 
+17 
+operating systems current with industry levels 
+18 
+to maintain high system performance, reliable 
+19 
+systems and databases, strong cybersecurity 
+20 
+posture and dual redundant, fully independent 
+21 
+backup systems at the AECC. 
+22 
+Q. 
+What is the Company’s proposed capital budget 
+23 
+for this project?  
+24 
+
+
+--- Page 45 ---
+Cases 22-E-0064 & 22-G-0065 
+ 
+Staff IT Panel 
+ 
+ 
+44 
+ 
+A. 
+The Company requests $766,700, $366,700 and 
+1 
+$366,700 for RY1, RY2 and RY3, respectively. 
+2 
+Q. 
+What is the Panel’s recommended budget for this 
+3 
+project? 
+4 
+A. 
+The Panel recommends reducing the Company’s 
+5 
+proposed RY1 budget from $766,000 to $366,700 or 
+6 
+a reduction of $399,300 because the Company did 
+7 
+not provide any justification or work plan for 
+8 
+the increased spending in the Rate Year compared 
+9 
+to the prior year (i.e., calendar year 2022) and 
+10 
+the subsequent years (i.e., RY2 and RY3) in 
+11 
+which the forecasted budgets were $331,000 and 
+12 
+$366,700, respectively.  
+13 
+Q. 
+Panel, what is the TNVS Web project? 
+14 
+A. 
+As explained on page 93 of the Company’s 
+15 
+Exhibit__(IT-4), ongoing expansion and 
+16 
+enhancement of the TNVS web-based solution will 
+17 
+allow the capability to reach multiple device 
+18 
+platforms with reduced long-term deployment and 
+19 
+maintenance costs.  Updates include additional 
+20 
+displays with maps and diagrams designed to 
+21 
+enhance situational awareness for a variety of 
+22 
+users and purposes.  A separate line of 
+23 
+expansion will be established for the Dark Sky 
+24 
+
+
+--- Page 46 ---
+Cases 22-E-0064 & 22-G-0065 
+ 
+Staff IT Panel 
+ 
+ 
+45 
+ 
+scenario, which envisions the catastrophic loss 
+1 
+of SCADA and corporate intranet.  Under these 
+2 
+conditions, alternate sources of information, 
+3 
+both automated and manual via smart phones, are 
+4 
+communicated across alternate communication 
+5 
+routes to a cloud-based server, which will then 
+6 
+provide the information to dedicated “safe” 
+7 
+laptops running a variation of the TNVS 
+8 
+application via remaining internet channels.  
+9 
+This is an update to the TNVS Server to the 
+10 
+latest codebase provided by the company, 
+11 
+AVS/OpenViz, and contains a full update to the 
+12 
+software User Experience.  
+13 
+Q. 
+What is the justification the Company provided 
+14 
+for this project? 
+15 
+A. 
+As explained on page 93 of the Company’s 
+16 
+Exhibit__(IT-4), the older version of TNVS 
+17 
+exists on a hardware server that had become 
+18 
+obsolete and has been replaced.  This project 
+19 
+seeks to upgrade the application with enhanced 
+20 
+features and extended information along with 
+21 
+continuous updates to the operating system, 
+22 
+software, data and browser capabilities.  In 
+23 
+addition, the application will be tailored to 
+24 
+
+
+--- Page 47 ---
+Cases 22-E-0064 & 22-G-0065 
+ 
+Staff IT Panel 
+ 
+ 
+46 
+ 
+support the Dark Sky scenario to enable 
+1 
+significant situational awareness for System 
+2 
+Operators following the catastrophic loss of 
+3 
+normal operating conditions.  The program is 
+4 
+designed to support operators and engineers in 
+5 
+the field with enhanced situational awareness of 
+6 
+the state of the transmission system.  The 
+7 
+application’s implementation in a browser-based 
+8 
+environment will provide a significant 
+9 
+improvement in resiliency. 
+10 
+Q. 
+What is the Company’s capital budget for this 
+11 
+project? 
+12 
+A. 
+The Company proposes $0.5 million each year for 
+13 
+RY1, RY2 and RY3 each, or a total of $1.5 
+14 
+million. 
+15 
+Q. 
+What is the Panel’s recommended budget for this 
+16 
+project? 
+17 
+A. 
+The Panel recommends a budget of $0.38 million 
+18 
+per rate year for RY1, RY2 and RY3, or $1.24 
+19 
+million total based on the calendar year 2020 
+20 
+actual spending, which is the highest amount the 
+21 
+Company spent over the historic five-year period 
+22 
+from calendar years 2017 through 2021.  
+23 
+Q.   Do any other Staff panels provide testimony 
+24 
+
+
+--- Page 48 ---
+Cases 22-E-0064 & 22-G-0065 
+ 
+Staff IT Panel 
+ 
+ 
+47 
+ 
+relevant to your testimony? 
+1 
+A. 
+Yes.  The Staff Consumer Services Panel 
+2 
+recommends adjustments to the IT projects 
+3 
+proposed in Con Edison’s Customer Operation 
+4 
+Panel.  The Staff Clean Energy Programs Panel 
+5 
+also presents testimony and adjustments 
+6 
+regarding specific Clean Energy related 
+7 
+programs, i.e., the Customer Recommendations and 
+8 
+Analysis Tools program and the Smart Inverters 
+9 
+program.  
+10 
+Customer Energy Solutions IT Projects 
+11 
+Q. 
+Where can the discussion on the Clean Energy 
+12 
+Solutions, or CES, IT projects be found? 
+13 
+A. 
+As previously discussed in our testimony, 
+14 
+discussion of the majority of the CES IT 
+15 
+projects can be found in the Staff Clean Energy 
+16 
+Programs Panel testimony. 
+17 
+Q. 
+Is there any component of the CES IT programs 
+18 
+that this Panel would like to discuss? 
+19 
+A. 
+Yes, the Panel would like to discuss the grid 
+20 
+modernization component of the Distribution 
+21 
+System Planning – Grid Modernization, or DSP, 
+22 
+program. 
+23 
+Q. 
+Please describe the grid modernization component 
+24 
+
+
+--- Page 49 ---
+Cases 22-E-0064 & 22-G-0065 
+ 
+Staff IT Panel 
+ 
+ 
+48 
+ 
+of the DSP program. 
+1 
+A. 
+As explained on pages 36 to 37 of the Company’s 
+2 
+Exhibit__(IT-5), the grid modernization 
+3 
+component consists of two programs Modernize 
+4 
+Network Protector, or NWP and Relays and Smart 
+5 
+Grid Optimization.  Under the first program, the 
+6 
+Company will continue to upgrade protective 
+7 
+relays and install supervisory control and data 
+8 
+acquisition capabilities to some of the relays.  
+9 
+This will provide NWPs the intelligence to 
+10 
+distinguish distributed generation back feed 
+11 
+from fault current and permit remote control and 
+12 
+two-way power flow.  Under the second project, 
+13 
+the Company plans to continue its Conservation 
+14 
+Voltage Optimization, referred to as CVO, 
+15 
+efforts to reduce energy costs and environmental 
+16 
+impacts while continuing to maintain acceptable 
+17 
+voltage at all points along the distribution 
+18 
+feeder.  To achieve this, the Company will 
+19 
+undertake two separate investments discussed by 
+20 
+Con Edison on page 72 of the CES Panel 
+21 
+testimony.  The first investment will be the 
+22 
+reinforcement of secondary system areas through 
+23 
+upgrades and reconductoring of the secondary 
+24 
+
+
+--- Page 50 ---
+Cases 22-E-0064 & 22-G-0065 
+ 
+Staff IT Panel 
+ 
+ 
+49 
+ 
+system, which will allow Con Edison to adjust 
+1 
+the system voltage.  The second investment will 
+2 
+be the adjustment of transformers in area 
+3 
+substations to allow settings to be changed for 
+4 
+voltage optimization.  This work requires the 
+5 
+transformer to be removed from service to work 
+6 
+on the internal equipment. 
+7 
+Q. 
+What is the Company’s proposed capital budget 
+8 
+for the two grid modernization projects? 
+9 
+A. 
+For RY1, RY2, and RY3, the Company requests a 
+10 
+capital budget of $30.6 million per year, or 
+11 
+$91.8 million in total for the Modernizing 
+12 
+Protective Relays program.  It requests a 
+13 
+capital budget of $15.0 million per year, or 
+14 
+$45.0 million in total and O&M budget of $1.17 
+15 
+million per year, or $3.51 million in total for 
+16 
+the CVO program.  The DSP program has a total 
+17 
+capital budget of $62.16 million, $62.60 
+18 
+million, and $63.10 million in RY1, RY2, and 
+19 
+RY3, respectively.  Additionally, the Company 
+20 
+requests an O&M budget of $3.5 million, $3.3 
+21 
+million, and $2.5 million for RY1, RY2, and RY3, 
+22 
+respectively. 
+23 
+Q. 
+What is the Company justification for the two 
+24 
+
+
+--- Page 51 ---
+Cases 22-E-0064 & 22-G-0065 
+ 
+Staff IT Panel 
+ 
+ 
+50 
+ 
+grid modernization programs? 
+1 
+A. 
+The Company states on page 69 of the direct 
+2 
+testimony of the Customer Energy Solutions Panel 
+3 
+that the NWP relay upgrades will provide it with 
+4 
+the ability to accommodate clean distributed 
+5 
+energy resources and help eliminate one of the 
+6 
+more common interconnection costs in the areas 
+7 
+where this functionality exists.  Regarding the 
+8 
+CVO program, the Company states on pages 36 to 
+9 
+37 of Exhibit__(IT-5), that it expects the 
+10 
+additional work to result in CVO savings of 1.75 
+11 
+percent by the end of 2025, which would realize 
+12 
+an additional $75.8 million, net present value, 
+13 
+of net energy savings through 2042 and reduce 
+14 
+the supply-side costs for the customer while 
+15 
+further reducing greenhouse gas, referred to as 
+16 
+GHG, emissions. 
+17 
+Q. 
+What capital budgets for the two grid 
+18 
+modernization programs does the Panel recommend? 
+19 
+A. 
+The Panel recommends reducing the capital budget 
+20 
+for the Modernize Protective Relays program to 
+21 
+$13.76 million per year, for RY1, RY2, and RY3; 
+22 
+and reducing the capital budget for the CVO 
+23 
+program to $3.4 million per year, for RY1, RY2, 
+24 
+
+
+--- Page 52 ---
+Cases 22-E-0064 & 22-G-0065 
+ 
+Staff IT Panel 
+ 
+ 
+51 
+ 
+and RY3.  This results in a capital budget for 
+1 
+the DSP program of $33.72 million, $34.16 
+2 
+million, and $34.66 million for RY1, RY2, and 
+3 
+RY3, respectively.  Additionally, the Panel 
+4 
+recommends reducing the O&M budget for the CVO 
+5 
+program by $754,000 per year, resulting in a 
+6 
+budget of $416,000 per year, for RY1, RY2, and 
+7 
+RY3. 
+8 
+Q. 
+What is the rationale for the Panel’s 
+9 
+recommendation? 
+10 
+A. 
+In reviewing the Company’s response to DPS-17-
+11 
+494, included in Exhibit__(SITP-1), the Panel 
+12 
+found that the Company has not determined the 
+13 
+secondary networks it will need to perform 
+14 
+system reinforcement on under the CVO program 
+15 
+and the Company assumes it will be conducting 
+16 
+the same units of work in each year, from 
+17 
+calendar years 2023 through 2025.  Additionally, 
+18 
+we found in the Company’s response to DPS-34-
+19 
+770, included in Exhibit__(SITP-1), that Con 
+20 
+Edison has, on average, only spent $3.4 million 
+21 
+per year under the CVO program from calendar 
+22 
+years 2019 through 2021.  Due to the lack of 
+23 
+concrete plans and the historical average actual 
+24 
+
+
+--- Page 53 ---
+Cases 22-E-0064 & 22-G-0065 
+ 
+Staff IT Panel 
+ 
+ 
+52 
+ 
+expenditures, the Panel questions whether the 
+1 
+Company will be able to perform all the work it 
+2 
+plans to complete.  Therefore, the Panel 
+3 
+recommends reducing the capital budget of this 
+4 
+program to $3.4 million per year, based on the 
+5 
+three-year average historical expenditures.  
+6 
+Additionally, the Panel recommends reducing the 
+7 
+O&M budget of $975,000 for system reinforcement 
+8 
+to $221,000, to proportionally match the 
+9 
+proposed reduction to the capital budget.  This 
+10 
+adjustment addresses the fact that the O&M 
+11 
+budget was calculated by multiplying the capital 
+12 
+request by 6.5 percent, as stated in the 
+13 
+response to DPS-20-559, Attachment 10E, included 
+14 
+in Exhibit__(SITP-1).  Regarding the Modernizing 
+15 
+NWP Relays program, in the Company’s response to 
+16 
+DPS-17-495, included in Exhibit__(SITP-1), it 
+17 
+shows that the requested capital budget far 
+18 
+exceeds the planned units of work and unit cost.  
+19 
+Specifically, the Company forecasts that it will 
+20 
+perform 200 relay upgrades with SCADA at a unit 
+21 
+cost of $42,111 and 610 relay-only upgrades at a 
+22 
+unit cost of $8,743, annually.  This results in 
+23 
+a capital budget of $13.76 million per year.  
+24 
+
+
+--- Page 54 ---
+Cases 22-E-0064 & 22-G-0065 
+ 
+Staff IT Panel 
+ 
+ 
+53 
+ 
+While the Company attempts to state that this 
+1 
+cost information does not include the relays 
+2 
+with SCADA component of the program in its 
+3 
+response to DPS-34-770, included in 
+4 
+Exhibit__(SITP-1), the Panel found that the 
+5 
+table provided in the response to DPS-17-495 
+6 
+does include the planned units of work and unit 
+7 
+cost for relays with SCADA.  Therefore, the 
+8 
+Panel recommends the budget be set at $13.76 
+9 
+million per year or $41.28 million in total for 
+10 
+RY1, RY2, and RY3.   
+11 
+Common IT Projects 
+12 
+Q. 
+Please describe the common IT projects. 
+13 
+A. 
+As explained on page 70 of the initial testimony 
+14 
+of the Company’s IT Panel, Common IT projects 
+15 
+support various Company organizations such as 
+16 
+Human Resources, Supply Chain, Learning and 
+17 
+Inclusion, Tax, Corporate Security, 
+18 
+Environmental Health and Safety, Rate 
+19 
+Engineering, Accounting, and Auditing. 
+20 
+Q.  What is the Company’s capital request for Common 
+21 
+IT projects? 
+22 
+A. 
+The Company proposes to spend $14.9 million in 
+23 
+RY1, $17.9 million in RY2 and $14.7 million in 
+24 
+
+
+--- Page 55 ---
+Cases 22-E-0064 & 22-G-0065 
+ 
+Staff IT Panel 
+ 
+ 
+54 
+ 
+RY3. 
+1 
+Q.  Does the Panel recommend any adjustments to the 
+2 
+Common IT projects?  
+3 
+A. 
+Yes.  We recommend adjustments to the Learning 
+4 
+and Inclusion Digital Learning Transformation 
+5 
+project and the Phased Replacement of Legal 
+6 
+Technology project. 
+7 
+Q. 
+Please describe the Learning and Inclusion 
+8 
+Digital Learning Transformation, referred to as 
+9 
+LIDLT, project. 
+10 
+A. 
+As explained on pages 14 to 15 of the Company’s 
+11 
+Exhibit__(IT-3), the Learning and Inclusion 
+12 
+Digital Learning Transformation project will 
+13 
+provide necessary innovation and technology to 
+14 
+transform and improve the Company employees’ 
+15 
+learning experience and performance.  The 
+16 
+Company will develop and implement a learning 
+17 
+model that will impart technical proficiency and 
+18 
+leadership skills to the employee through 
+19 
+various learning channels that will increase 
+20 
+engagement, knowledge retention and compliance 
+21 
+while offering cost effective training 
+22 
+solutions.  
+23 
+Q. 
+What level of spending does the Company propose 
+24 
+
+
+--- Page 56 ---
+Cases 22-E-0064 & 22-G-0065 
+ 
+Staff IT Panel 
+ 
+ 
+55 
+ 
+for the LIDLT project? 
+1 
+A. 
+In the Company’s Information Technology Panel’s 
+2 
+Exhibit___(IT-3), page 14, the Company forecasts 
+3 
+spending $14.31 million on this project. 
+4 
+Q. 
+Do you recommend any adjustments to the spending 
+5 
+amounts presented by the Company? 
+6 
+A. 
+Yes.  We recommend removing the funding for this 
+7 
+project at this time.  This project was 
+8 
+previously proposed by the Company in its 2019 
+9 
+rate filings and in response to DPS-29-725, 
+10 
+included in Exhibit__(SITP-1), the Company 
+11 
+states that it has not spent any capital to date 
+12 
+on this project.  The Company also states that 
+13 
+the project scope has not changed, and the 
+14 
+project timeline has been shifted to begin in 
+15 
+2022.  Furthermore, the Panel asked the Company 
+16 
+to provide instances of and to explain the 
+17 
+shortcomings of the current learning platform 
+18 
+for calendar years 2016 through 2021 and the 
+19 
+Company failed to provide any instances of 
+20 
+shortcomings in its response.  Additionally, the 
+21 
+Company states that its rate plans permit it 
+22 
+capital flexibility over the rate plan’s term to 
+23 
+respond to emergent issues, new laws and other 
+24 
+
+
+--- Page 57 ---
+Cases 22-E-0064 & 22-G-0065 
+ 
+Staff IT Panel 
+ 
+ 
+56 
+ 
+unforeseen changes.  Given the Company proposed 
+1 
+this project in the 2019 rate proceedings, did 
+2 
+not spend any capital to date, the project scope 
+3 
+has not changed, and the Company has prioritized 
+4 
+other emergent work over this project, we 
+5 
+recommend that the Commission reject funding 
+6 
+this project in the Rate Years 1 through 3.  The 
+7 
+corresponding adjustment was made to the O&M 
+8 
+associated with this program of $0.475 million 
+9 
+and reflected in Exhibit __(SITP-3).     
+10 
+Q. 
+Please describe the Phased Replacement of Legal 
+11 
+Technology or PRLT project. 
+12 
+A. 
+As explained on pages 32-33 of the Company’s 
+13 
+Exhibit__(IT-3), in the Phased Replacement of 
+14 
+Legal Technology, referred to as PRLT, project 
+15 
+the Company’s law department seeks to replace 
+16 
+old and obsolete technology that is currently 
+17 
+used by the law department in two phases.  Phase 
+18 
+1 starts with implementation of cloud-based 
+19 
+matter management and e-billing systems and 
+20 
+phase 2 is the implementation of a cloud-based 
+21 
+document management system.     
+22 
+Q. 
+What level of spending does the Company propose 
+23 
+for the LIDLT project? 
+24 
+
+
+--- Page 58 ---
+Cases 22-E-0064 & 22-G-0065 
+ 
+Staff IT Panel 
+ 
+ 
+57 
+ 
+A. 
+In the Company’s Information Technology Panel’s 
+1 
+Exhibit___(IT-3), page 38 of 64, the Company 
+2 
+estimates it will spend $11.5 million in capital 
+3 
+and $1.7 million in O&M costs. 
+4 
+Q. 
+Do you recommend any adjustments to the spending 
+5 
+amounts presented by the Company? 
+6 
+A.   Yes.  We recommend removing the funding for this 
+7 
+project at this time.  First, in response to 
+8 
+DPS-29-726, included in Exhibit__(SITP-1), the 
+9 
+Company states that its law department’s matter 
+10 
+management system was implemented in 2015 and 
+11 
+sunset in 2017.  The Company did not propose 
+12 
+this project in its 2019 rate proceeding as the 
+13 
+Company had entered into a four-year maintenance 
+14 
+and support agreement with the vendor, 
+15 
+commencing January 1, 2018, through December 31, 
+16 
+2021.  The vendor continues to provide interim 
+17 
+support with the understanding that Company’s 
+18 
+law department is in the process of looking for 
+19 
+new technology solutions.  Additionally, the 
+20 
+Company provided efficiency analysis that shows 
+21 
+anticipated time saved and related savings 
+22 
+amount.  In the Information Technology Panel’s 
+23 
+Exhibit___(IT-3), pages 37 and 38 of 64, the 
+24 
+
+
+--- Page 59 ---
+Cases 22-E-0064 & 22-G-0065 
+ 
+Staff IT Panel 
+ 
+ 
+58 
+ 
+Company identifies two areas where major 
+1 
+financial benefit is anticipated, they are 
+2 
+reporting and business process improvements.  
+3 
+The Company states that currently its law 
+4 
+department spends nearly 3,000 hours and 
+5 
+$360,000 in labor annually in these two areas 
+6 
+due to the intense manual nature of obtaining 
+7 
+the required data and information.  The Company 
+8 
+anticipates that its the new technology systems 
+9 
+will reduce the time spent creating reports by 
+10 
+at least 50 percent.  In addition, this program 
+11 
+will benefit in automating and improving 
+12 
+business processes in cloud systems.  Therefore, 
+13 
+the Company anticipates saving over $91,000 
+14 
+annually in labor costs.  The combined total 
+15 
+annual savings estimated in reporting and 
+16 
+business processes improvements is $271,000.  
+17 
+With the Company estimating to spend $11.5 
+18 
+million on this project and the cost savings 
+19 
+anticipated is $271,000 annually, it will take 
+20 
+about 40 years to recoup the cost of this 
+21 
+project.  Therefore, it is not cost-effective 
+22 
+for Con Edison to undertake this project and the 
+23 
+Panel recommends the Commission reject the 
+24 
+
+
+--- Page 60 ---
+Cases 22-E-0064 & 22-G-0065 
+ 
+Staff IT Panel 
+ 
+ 
+59 
+ 
+funding request.            
+1 
+ IT O&M Budgets  
+2 
+Q.   What is the Company’s requested incremental non-
+3 
+labor IT O&M expense for the Rate Year? 
+4 
+A.   As shown in Exhibit___(AP-E3) and Exhibit___(AP-
+5 
+G3), the Company requests a non-labor 
+6 
+incremental IT O&M expense of $84.10 million or 
+7 
+$79.1 million and $13.0 million for electric and 
+8 
+gas, respectively. 
+9 
+Q.   Does the Panel recommend any adjustments to the 
+10 
+Company’s Rate Year forecast? 
+11 
+A.   Yes.  In response to DPS-38-800, included in 
+12 
+Exhibit__(SITP-1), the Company’s updated 
+13 
+electric and gas total for IT non-labor O&M 
+14 
+expense and erroneously included $0.399 million 
+15 
+for electric and $0.076 million for gas, under 
+16 
+the line item “Customer Usage Alerts and 
+17 
+Communication.”  Thus, these amounts need to be 
+18 
+subtracted from the requested funding.  
+19 
+Q.   How did the Company develop its Rate Year 
+20 
+forecast of non-labor O&M expense? 
+21 
+A.   The Company’s forecast was developed on project-
+22 
+by-project basis. 
+23 
+Q.   Do you agree with the methodology used by the 
+24 
+
+
+--- Page 61 ---
+Cases 22-E-0064 & 22-G-0065 
+ 
+Staff IT Panel 
+ 
+ 
+60 
+ 
+Company’s to develop its Rate Year forecast? 
+1 
+A.   No.  We reviewed the Company’s historic level of 
+2 
+spending for the period of 2018 through 2021 as 
+3 
+provided in response to DPS-38-800 supplemental 
+4 
+1, included in Exhibit___(SITP-1), and found the 
+5 
+Company’s actual IT non-labor O&M expense varied 
+6 
+from year to year.   
+7 
+Q. 
+How does the Panel recommend the IT non-labor 
+8 
+O&M expenses be forecasted for the Rate Year? 
+9 
+A.   The Panel recommends the use of an average 
+10 
+growth rate based on the actual costs incurred 
+11 
+by the Company for the period of calendar year 
+12 
+2018 through calendar year 2021.   
+13 
+Q.   Why does the Panel believe its use of a growth 
+14 
+rate is more appropriate to forecast the 
+15 
+Company’s IT non-labor O&M expenses as opposed 
+16 
+to the Company’s project-by-project method? 
+17 
+A.   Our use of a historical growth rate reflects the 
+18 
+actual costs incurred by the Company over the 
+19 
+last few years as opposed to forecasted project 
+20 
+by project budgets, which have significantly 
+21 
+varied from the actual costs incurred by the 
+22 
+Company, as shown in the response to DPS-3-264, 
+23 
+included in Exhibit___(SITP-1).   
+24 
+
+
+--- Page 62 ---
+Cases 22-E-0064 & 22-G-0065 
+ 
+Staff IT Panel 
+ 
+ 
+61 
+ 
+Q. 
+Does the Panel’s average growth rate take into 
+1 
+consideration specific IT projects that the 
+2 
+Company proposes to implement in the Rate Year?  
+3 
+ A. Yes.  Based on our review of the Company’s 
+4 
+capital investment governance and optimization 
+5 
+process, and our review of the actual capital 
+6 
+project portfolio approved by Commission in 
+7 
+previous rate proceedings, we determined that 
+8 
+the Company’s IT budgets consistently include 
+9 
+major IT projects that the Company wants to 
+10 
+undertake as well as routine IT projects. 
+11 
+Therefore, while the Company’s Rate Year 
+12 
+forecast may include expenses for a new IT 
+13 
+investment, its existing IT expenses include 
+14 
+costs associated with a previous IT investment 
+15 
+that are fully implemented by the Company.  For 
+16 
+example, according to page 32 of the initial 
+17 
+testimony of the Company’s IT Panel, the eGIS 
+18 
+projects will be completed and exit the 
+19 
+Company’s project portfolio by the end of 
+20 
+calendar year 2022.  Therefore, not only does 
+21 
+our five-year average growth rate reflect actual 
+22 
+costs incurred by the Company, as opposed to 
+23 
+budget forecasts, it takes into consideration 
+24 
+
+
+--- Page 63 ---
+Cases 22-E-0064 & 22-G-0065 
+ 
+Staff IT Panel 
+ 
+ 
+62 
+ 
+specific IT investments that the Company 
+1 
+proposes to undertake in the Rate Year.   
+2 
+Q.   Please explain how do you develop the three-year 
+3 
+historical average growth rate? 
+4 
+A.   Based on the Company’s historic actual spending 
+5 
+data provided by the Company for calendar years 
+6 
+2018 through 2021 provided in response to DPS-
+7 
+38-800 supplement 1, we calculated the year over 
+8 
+year change in actual IT expenses on a 
+9 
+percentage basis for the period calendar year 
+10 
+2018 through 2021, which resulted in a historic 
+11 
+growth rate of 21 percent annually.  We then 
+12 
+applied this average growth rate to the actual 
+13 
+expenses incurred by the Company in calendar 
+14 
+year 2021 to forecast the 2022 IT non-labor O&M 
+15 
+expenses, and then we applied the average growth 
+16 
+rate to our forecast for 2022 IT non-labor O&M 
+17 
+expenses to derive our Rate Year forecast of IT 
+18 
+non-labor O&M expenses. 
+19 
+Q.   Please quantify your adjustment.  
+20 
+A.   We recommend decreasing the Company’s Rate Year 
+21 
+forecast by $23.6 million and $2.9 million for 
+22 
+electric and gas, respectively. 
+23 
+Q. 
+Does the Panel recommend any other adjustment to 
+24 
+
+
+--- Page 64 ---
+Cases 22-E-0064 & 22-G-0065 
+ 
+Staff IT Panel 
+ 
+ 
+63 
+ 
+the Company’s Rate Year forecast of IT non-labor 
+1 
+O&M expense? 
+2 
+A. 
+Yes.  In response to DPS-38-800, the Company 
+3 
+proposes non-labor O&M expense for the Rate Year 
+4 
+for the CCTN Expansion and Modernization project 
+5 
+of $0.539 million and for the Mobility – Digital 
+6 
+Factory project of $0.971 million.  We recommend 
+7 
+a reduction of non-labor O&M expenses 
+8 
+proportional to the capital expenditure 
+9 
+reduction as discussed in our recommendation for 
+10 
+the capital spending for these two projects.  
+11 
+Our adjustment reduces the CCTN Expansion and 
+12 
+Modernization project forecast to $0.212 
+13 
+million, and the Mobility Digital Factory 
+14 
+project forecast to $0.607 million, 
+15 
+respectively, for the Rate Year. 
+16 
+Q.   Is Staff recommending any other adjustment to 
+17 
+the Company’s Rate Year forecast of IT non-labor 
+18 
+O&M expense? 
+19 
+A.   Yes.  Adjustments we reflect to the RY forecast 
+20 
+of IT non-labor O&M expense are discussed in the 
+21 
+Staff Clean Energy Programs Panel’s testimony, 
+22 
+the Staff Customer Services Panel’s testimony, 
+23 
+Staff Security Panel’s testimony and Staff 
+24 
+
+
+--- Page 65 ---
+Cases 22-E-0064 & 22-G-0065 
+ 
+Staff IT Panel 
+ 
+ 
+64 
+ 
+witness Seshadri’s testimony.  The Staff Clean 
+1 
+Energy Programs Panel recommends decreasing the 
+2 
+Company’s Rate Year forecast by a total of $6.05 
+3 
+million, or $5.08 million for electric and $0.96 
+4 
+million for gas.  The Staff Customer Services 
+5 
+Panel recommends decreasing the Company’s Rate 
+6 
+Year forecast by a total of $4.8 million, or 
+7 
+$4.0 million for electric and $0.8 million for 
+8 
+gas.  The Staff Security Panel recommends 
+9 
+decreasing the Company’s Rate Year forecast by a 
+10 
+total of $8.3 million, or $7.0 million for 
+11 
+electric and $1.3 million for gas.  All of the 
+12 
+above adjustments have been inflated by using 
+13 
+the GDP-PI inflation factor provided by Staff 
+14 
+witness Gadomski in his testimony. 
+15 
+IT O&M Labor Adjustment  
+16 
+Q.  How many IT FTEs is the Company requesting in 
+17 
+its rate filings? 
+18 
+A. 
+In response to DPS-38-796, included in 
+19 
+Exhibit__(SITP-1), the Company clarifies that it 
+20 
+requests 151 incremental FTEs, of which 68 FTEs 
+21 
+are entirely associated with capitalized labor 
+22 
+and, therefore, included in the capital 
+23 
+expenditure budgets of individual capital 
+24 
+
+
+--- Page 66 ---
+Cases 22-E-0064 & 22-G-0065 
+ 
+Staff IT Panel 
+ 
+ 
+65 
+ 
+projects and the other 83 FTEs costs are 
+1 
+expensed and included in the Company’s 
+2 
+supplemental attachment to its response to DPS-
+3 
+15-464, included in Exhibit__(SITP-1).  
+4 
+Q. 
+Does the Panel support the Company’s IT FTE 
+5 
+request? 
+6 
+A. 
+No.  Of the 83 FTEs associated with O&M in the 
+7 
+response to DPS-38-796, included in 
+8 
+Exhibit__(SITP-1), 35 are not discussed or 
+9 
+sufficiently justified in their associated 
+10 
+whitepapers in the Company’s Exhibit___(IT-1), 
+11 
+Exhibit___(IT-2), and Exhibit___(IT-3).  
+12 
+Therefore, we recommend that these 35 FTEs be 
+13 
+removed from the O&M budgets.  Of the remainder, 
+14 
+we are reducing the overall FTEs associated with 
+15 
+the CCTN program, the Data Center Improvements 
+16 
+program, and the Mobility – Digital Factory 
+17 
+program by three, one, and one, respectively, to 
+18 
+reflect our recommended reductions to the 
+19 
+capital expenditure budgets, as well as reducing 
+20 
+the FTEs associated with the Business Enablement 
+21 
+(PACE – Digital Factory) by three due to the 
+22 
+lack of support in its associated whitepaper on 
+23 
+pages 14 to 19 of the Company’s Exhibit___(IT-
+24 
+
+
+--- Page 67 ---
+Cases 22-E-0064 & 22-G-0065 
+ 
+Staff IT Panel 
+ 
+ 
+66 
+ 
+2).  Additionally, as the amount of spending 
+1 
+remains consistent over the rate years in both 
+2 
+the Company’s requested and the Panel’s 
+3 
+recommended capital budget for the CCTN program, 
+4 
+the Data Center Improvements program and the 
+5 
+Data Integration Modernization program, we 
+6 
+recommend four and three of the associated RY1 
+7 
+hires instead be allocated to RY2 and RY3, 
+8 
+respectively. 
+9 
+Q. 
+What does the Panel recommend for the IT FTEs 
+10 
+for the Rate Year? 
+11 
+A. 
+For RY1, the Panel recommends 24 IT FTEs, or a 
+12 
+reduction of 33 FTEs from the Company’s proposal 
+13 
+in the supplemental attachment to the Company’s 
+14 
+response to DPS-15-464, included in 
+15 
+Exhibit__(SITP-1).  This adjustment results in 
+16 
+the labor IT O&M expense of $4.16 million, a 
+17 
+reduction of $3.82 million from the labor IT O&M 
+18 
+expense of $7.98 million for the Rate Year 
+19 
+proposed in the second supplemental attachment 
+20 
+to the Company’s response to DPS-15-464. 
+21 
+Q. 
+Does this conclude your testimony at this time? 
+22 
+A. 
+Yes 
+23 

@@ -1,0 +1,1863 @@
+--- Page 1 ---
+ 
+State of New York  
+Public Service Commission 
+ 
+ 
+______________________________________________________ 
+Case 20-E-0380 and 20-G-0381 – Proceeding on Motion of the Commission  
+as to the Rates, Charges, Rules and Regulations of Niagara Mohawk   
+Power Corporation d/b/a National Grid for Electric and Gas Service. 
+______________________________________________________ 
+ 
+ 
+DIRECT TESTIMONY OF NEW YORK POWER AUTHORITY 
+ELECTRIC VEHICLE PANEL 
+ 
+ 
+ 
+ 
+ 
+ 
+ 
+November 25, 2020 
+ 
+
+
+--- Page 2 ---
+I. 
+INTRODUCTIONS AND QUALIFICATIONS 
+1 
+Q. 
+Would the members of the New York Power Authority Electric Vehicle Panel please 
+2 
+state their names and business addresses? 
+3 
+A. 
+Our names are John Markowitz, Matthew Lichtash, and Rebecca Hughes.  Messrs. 
+4 
+Markowitz’s and Lichtash’s business address is 123 Main Street, White Plains, New 
+5 
+York 10601.  Ms. Hughes’s business address is 201 Fuller Road, Albany, New York 
+6 
+12203. 
+7 
+Q. 
+By whom are you employed? 
+8 
+A. 
+We are all employed by the New York Power Authority (“NYPA”). 
+9 
+Q.  
+Mr. Markowitz, please state your title, professional experience, and educational 
+10 
+background. 
+11 
+A.  
+I am the Director of e-Mobility Technology and Engineering at NYPA.  I am part of the 
+12 
+team leading the EVolve NY Program’s electric vehicle (“EV”) charging infrastructure 
+13 
+development activities, which are aimed at significantly expanding New York’s direct 
+14 
+current fast charging (“DCFC”) network.  In the last eighteen years at NYPA, I have 
+15 
+implemented and managed various customer-sited advanced technology programs for 
+16 
+electric transportation, energy storage, load control, solar, and wind power.  Before 
+17 
+joining NYPA, I worked for nine years in technical support, marketing, and product 
+18 
+development in the transportation, telecommunications, and energy efficiency sectors.   
+19 
+I am a Licensed Professional Engineer and a Certified Energy Manager.  I 
+20 
+received a Bachelor of Electrical Engineering from Manhattan College in 1986, and a 
+21 
+Master of Business Administration from Pace University in 1992.  Also, I am a member 
+22 
+of the Association of Energy Engineers and the Society of Automotive Engineers.   
+23 
+
+
+--- Page 3 ---
+Direct Testimony of Electric Vehicle Panel 
+New York Power Authority 
+Case 20-E-0380 
+ 
+ 
+ 
+3 
+ 
+Q.  
+Briefly describe your experience with EVs and EV charging infrastructure. 
+1 
+A.  
+In my current role, I am part of the team leading the EVolve NY program, a multi-year 
+2 
+initiative to stimulate EV ownership in New York State and build a DCFC network of 
+3 
+200 chargers to make EV travel possible throughout New York State.  We are planning 
+4 
+and building a network of DCFC chargers that NYPA will own and operate at travel 
+5 
+plazas, on travel corridors, and other convenient locations for EV drivers across New 
+6 
+York.   
+7 
+For almost two decades, I have worked on various programs for installing EV 
+8 
+charging equipment and increasing the adoption of EVs ranging from light-duty 
+9 
+passenger vehicles to medium-duty vehicles like utility bucket trucks.  I worked on the 
+10 
+Clean Commute Program, a component of which included testing the first plug-in hybrids 
+11 
+with major automakers, and I oversaw the installation of over 100 charging stations for a 
+12 
+fleet of EVs leased to commuters on the Metropolitan Transportation Authority’s 
+13 
+(“MTA”) railroads.  I also managed a program to install over 100 public charging stations 
+14 
+at municipal parking lots, airports, and train stations throughout the state with funding 
+15 
+from the New York State Energy Research and Development Authority (“NYSERDA”).  
+16 
+This was the first large-scale deployment of open charge point protocol, or OCPP, 
+17 
+software for EV chargers in North America.  To date, I have helped develop 439 Level-2 
+18 
+(“L2”) charging ports at private workplace charging sites and public sector sites.  
+19 
+NYPA also is working with the Thruway Authority to develop DCFC and L2 
+20 
+charging stations at service plazas, welcome centers, and commuter lots.  In addition, we 
+21 
+are developing multiple DCFC hubs for the New York City Department of 
+22 
+
+
+--- Page 4 ---
+Direct Testimony of Electric Vehicle Panel 
+New York Power Authority 
+Case 20-E-0380 
+ 
+ 
+ 
+4 
+ 
+Transportation.  For heavy-duty vehicles, we oversee the planning and construction of 
+1 
+high-powered charging equipment at bus depots from Buffalo to Westchester in 
+2 
+collaboration with the New York State Department of Environmental Conservation 
+3 
+(“DEC”) and NYSERDA.  
+4 
+Additionally, I have engaged in numerous EV and EV charging technical and 
+5 
+policy-focused committees and working groups.  For example, I participated in EPRI’s 
+6 
+Infrastructure Working Committee. I provided input on electrical safety for EV charging 
+7 
+equipment that was submitted to the National Fire Protection Association that publishes 
+8 
+the National Electric Code.  I also am a Board Member of the Empire Clean Cities 
+9 
+Coalition program to engage stakeholders and reduce fossil fuel usage.  
+10 
+Q. 
+ Have you testified before the Commission before? 
+11 
+A.  
+Yes.  I provided pre-filed testimony in Cases 19-E-0378 et al. addressing electric rates, 
+12 
+charges, rules, and regulations for New York State Electric & Gas Corporation and 
+13 
+Rochester Gas & Electric Corporation (“RG&E”), and in Case 19-E-0065 addressing the 
+14 
+electric rates rates, charges, rules, and regulations for Consolidated Edison Company of 
+15 
+New York, Inc. (“Con Edison”).  
+16 
+Q.  
+Mr. Lichtash, please state your title, professional experience, and educational 
+17 
+background. 
+18 
+A.  
+My title is e-Mobility Analyst, e-Mobility and Business Development, at NYPA.  In my 
+19 
+current role, I am responsible for all the data analytics associated with developing and 
+20 
+operating NYPA’s charging stations and analyzing all data that comes off the chargers, 
+21 
+such as revenue and energy data.  Additionally, I am responsible for finding charging site 
+22 
+
+
+--- Page 5 ---
+Direct Testimony of Electric Vehicle Panel 
+New York Power Authority 
+Case 20-E-0380 
+ 
+ 
+ 
+5 
+ 
+locations using input data from traffic flows and the locations of other EV fast chargers, 
+1 
+as well as reaching out to potential charging station site hosts and reporting on project 
+2 
+schedules.  Prior to joining NYPA in 2017, I spent nearly four years in environmental 
+3 
+consulting.  I graduated from Wesleyan University in 2013 with a degree in Economics 
+4 
+and Environmental Studies. 
+5 
+Q.  
+Briefly describe your experience with EVs and EV charging infrastructure. 
+6 
+A.  
+In my current role, I have assisted our engineering team in reducing the time required to 
+7 
+meet milestones in our Program’s charger development process.  This includes the utility 
+8 
+interconnection process, for which my responsibilities range from pre-development 
+9 
+activities, such as screening for available power capacity on the distribution grid, to 
+10 
+timing the submittal of load letters to work in parallel with contract signing, rather than in 
+11 
+series.  I also have participated in the Joint Utilities (“JU”) working group to help inform 
+12 
+the development of resources and tools using best practices from utilities around the 
+13 
+country to help DCFC developers pre-screen their projects for viability prior to contract 
+14 
+signing.   
+15 
+Q.  
+Ms. Hughes, please state your title, professional experience, and educational 
+16 
+background. 
+17 
+A.  
+I am the Senior Manager of e-Mobility Marketing & Customer Experience at NYPA.  For 
+18 
+the past year, I have led the marketing and consumer engagement components of the 
+19 
+EVolve NY Program.  For two years prior to my current position, I led the marketing of 
+20 
+NYPA’s New York Energy Manager hardware, software, and services offering.  Prior to 
+21 
+
+
+--- Page 6 ---
+Direct Testimony of Electric Vehicle Panel 
+New York Power Authority 
+Case 20-E-0380 
+ 
+ 
+ 
+6 
+ 
+joining NYPA, I directed NYSERDA’s workforce development and training initiatives 
+1 
+for eight years, where I led teams under the Strategic Marketing for Impact program.  
+2 
+I graduated from SUNY Potsdam in 2003 with a Bachelor of Science degree in 
+3 
+Political Science and from the State University of New York Empire State College in 
+4 
+2015 with a Graduate Certificate in Labor and Policy Studies.  I also earned a Marketing 
+5 
+Strategy Certificate from Cornell University in 2018. 
+6 
+Q.  
+Briefly describe your experience with EV charging infrastructure marketing and 
+7 
+customer engagement. 
+8 
+A.  
+For the EVolve NY Program I manage a multi-year agreement with a marketing agency 
+9 
+to raise consumer awareness of EVs and increase utilization at EVolve NY charging 
+10 
+stations.  I also lead a series of consumer engagement efforts, including, but not limited 
+11 
+to, the following: 
+12 
+• Consumer outreach via earned and paid media;  
+13 
+• Exhibits and engagement at auto shows and the Great New York State Fair;  
+14 
+• Ride & Drive events aimed at exposing New Yorkers to EVs; 
+15 
+• Regular community engagement forums to engage current EV drivers and 
+16 
+community groups interested in increasing EV adoption; and  
+17 
+• Ribbon-cuttings/openings at each charging site location.  
+18 
+ 
+19 
+ 
+20 
+ 
+21 
+
+
+--- Page 7 ---
+Direct Testimony of Electric Vehicle Panel 
+New York Power Authority 
+Case 20-E-0380 
+ 
+ 
+ 
+7 
+ 
+EXHIBITS: 
+1 
+Q. 
+Is the Panel sponsoring any exhibits in support of its testimony? 
+2 
+A. 
+Yes.  We are sponsoring Exhibit__(EVP-1), which consists of the Company’s response to 
+3 
+SC-40, an information request prepared by the Sierra Club in these proceedings. 
+4 
+ 
+5 
+II. 
+BACKGROUND 
+6 
+Q.  
+What is the purpose of the Panel’s testimony in these proceedings? 
+7 
+A.  
+The purpose of our testimony is to support Niagara Mohawk Power Corporation d/b/a 
+8 
+National Grid’s (“Niagara Mohawk” or “the Company”) proposed EV programs and to 
+9 
+offer recommendations to enhance such programs that will advance State policy goals 
+10 
+and deliver benefits to ratepayers and the electric distribution system.  Specifically, the 
+11 
+Panel offers recommendations related to eligibility for the charger rebate program, the 
+12 
+process for selecting sites and equipment, the EV charger interconnection process, smart 
+13 
+charging for fleets, and collaboration on statewide marketing messaging between utilities, 
+14 
+NYPA, NYSERDA, and other relevant stakeholders.   
+15 
+Q. 
+What are New York State’s goals related to EV adoption? 
+16 
+A. 
+In October 2013, the State adopted the light-duty zero-emission vehicles (“ZEV”) 
+17 
+mandate, which requires 850,000 light-duty ZEV sales in New York by 2025.  In January 
+18 
+2020, Governor Andrew Cuomo, as part of his 2020 State of the State (“SOTS”) Address, 
+19 
+established a requirement that five of the largest upstate and suburban transit authorities 
+20 
+electrify 25 percent of their fleets by 2025 and 100 percent by 2035.  Additionally, in July 
+21 
+2020, the State adopted the Medium- and Heavy-Duty ZEV Procurement Memorandum 
+22 
+
+
+--- Page 8 ---
+Direct Testimony of Electric Vehicle Panel 
+New York Power Authority 
+Case 20-E-0380 
+ 
+ 
+ 
+8 
+ 
+of Understanding (“MOU”), through which New York agreed to strive for all new 
+1 
+medium- and heavy-duty vehicles sold in New York State to be ZEVs by 2050, with an 
+2 
+interim target of at least 30 percent of such sales by 2030.   
+3 
+Q. 
+Why has New York adopted such aggressive targets for vehicle electrification? 
+4 
+A. 
+The 2019 Climate Leadership and Community Protection Act (“CLCPA”) obligated the 
+5 
+State to reduce greenhouse gas (“GHG”) emissions from all sources by 40 percent by 
+6 
+2030 and 85 percent by 2050, based on 1990 levels.  According to the DEC, the 
+7 
+transportation sector accounts for approximately 36 percent of New York’s total GHG 
+8 
+emissions, making emissions reductions from this sector critical to achieving the GHG 
+9 
+emission reduction target required by the CLCPA.  NYSERDA has estimated that 1.8 to 
+10 
+2 million EVs are needed in New York to meet the CLCPA GHG reduction targets. 
+11 
+Q. 
+How many EVs have been adopted in New York State to-date? 
+12 
+A. 
+According to NYSERDA’s Light-Duty Electric Vehicle Registration Map, as of October 
+13 
+2, 2020, there are only 56,120 light-duty EVs registered in New York, or approximately 
+14 
+6.6 percent of the 2025 target.  There is not yet a database available that tracks medium- 
+15 
+and heavy-duty EV registrations in New York.   
+16 
+Q.  
+What are the State goals related to EV charging infrastructure? 
+17 
+A.  
+Governor Cuomo, also as part of his 2020 SOTS Address, directed that ten or more 
+18 
+DCFC locations be operational in every Regional Economic Development Council 
+19 
+(“REDC”) region by the end of 2022, that every travel plaza on the New York State 
+20 
+Thruway have operational charging stations by the end of 2024, and that a total of at least 
+21 
+800 new charging stations throughout the state be operational by the end of 2025.  New 
+22 
+
+
+--- Page 9 ---
+Direct Testimony of Electric Vehicle Panel 
+New York Power Authority 
+Case 20-E-0380 
+ 
+ 
+ 
+9 
+ 
+York’s Charge NY initiative, a separate initiative, has a goal of installing 10,000 L2 and 
+1 
+DCFC EV charging stations by the end of 2021. 
+2 
+Q.  
+How many chargers have been installed statewide to date? 
+3 
+A.  
+According to the U.S Department of Energy’s Alternative Fuels Data Center, as of 
+4 
+November 2020, there are 1,753 L2 stations with 4,755 charging outlets and 136 DCFC 
+5 
+with 606 charging outlets in New York State.  Of these, Tesla owns 480 of the 1,753 L2 
+6 
+stations and 1,143 of the 4,755 L2 outlets, and 50 of the 136 DCFC stations and 436 of 
+7 
+the 606 outlets.  Of note, Tesla Superchargers are all 120kW and above, while the vast 
+8 
+majority of the non-Tesla DCFC outlets are 50kW units.  Only Tesla vehicles are able to 
+9 
+utilize Tesla chargers.   
+10 
+Q. 
+Please explain the relationship between the deployment of EV charging 
+11 
+infrastructure and increases in EV adoption. 
+12 
+A. 
+Drivers need to be confident that if they purchase an EV, they will be able to get a charge 
+13 
+when they need one.  This concern is referred to as ‘range anxiety’ and has been cited as 
+14 
+one of the top reasons people do not purchase an EV.  It is the position of this Panel that 
+15 
+charging infrastructure, specifically infrastructure that can quickly charge a vehicle in 
+16 
+less than 30 minutes, should be built out at regular intervals across the entire state and 
+17 
+ahead of the adoption of EVs in New York to address this concern.  The need for 
+18 
+chargers to lead EV adoption means that we need to develop the chargers now; we do not 
+19 
+have any time to wait.   
+20 
+Q. 
+What are some of the barriers to deployment of EV charging infrastructure?   
+21 
+
+
+--- Page 10 ---
+Direct Testimony of Electric Vehicle Panel 
+New York Power Authority 
+Case 20-E-0380 
+ 
+ 
+ 
+10 
+ 
+A. 
+From our experience, three of the most significant barriers to EV charging infrastructure 
+1 
+deployment right now are the cost of installing the chargers, high operating costs from 
+2 
+utility demand charges, and the low expectation for revenues resulting from expected low 
+3 
+charger utilization in the near future.  The cost of installing the charger can be broken 
+4 
+down further to the infrastructure upgrade costs necessary to service the charging station 
+5 
+and the cost of the charging station itself.   
+6 
+Q. 
+What role does NYPA play in the EV charging infrastructure development space? 
+7 
+A. 
+NYPA is committed to helping the state achieve its GHG emissions reduction and ZEV 
+8 
+targets.  Under the EVolve NY Program, NYPA plans to invest up to $250 million in EV 
+9 
+charging infrastructure, services, and customer awareness efforts.  NYPA aims to 
+10 
+develop, own, and operate DCFC sites throughout the state to address range anxiety, 
+11 
+achieve the SOTS REDC charger deployment target, and achieve the SOTS goal of 800 
+12 
+new charging stations in New York by 2025.   
+13 
+In addition to the EVolve NY Program, NYPA is providing public entities with 
+14 
+project development services, such as assistance with engineering and procurement of the 
+15 
+necessary EV charging hardware, to help them install public and workplace L2 and 
+16 
+public DCFC charging infrastructure at their sites or within their jurisdictions.  The New 
+17 
+York State Thruway Authority, for instance, is developing an EV-friendly corridor along 
+18 
+the interstate highways in New York with plans to install DCFC plugs at all service 
+19 
+plazas and L2 plugs at many commuter lots.  NYPA has assisted the Thruway Authority 
+20 
+by installing DCFC at service plazas in Western New York, Central New York, the 
+21 
+Capital District and the Hudson Valley and installing L2 charging stations at commuter 
+22 
+
+
+--- Page 11 ---
+Direct Testimony of Electric Vehicle Panel 
+New York Power Authority 
+Case 20-E-0380 
+ 
+ 
+ 
+11 
+ 
+lots along the corridor.  NYPA also is advising the Thruway Authority on EV charging 
+1 
+issues related to the redevelopment of the service plazas.  Additionally, NYPA is working 
+2 
+with cities across the state to install L2 chargers at city-owned parking lots and public 
+3 
+recreational areas.  NYPA provides project management services and procures charging 
+4 
+stations and installation services on the cities’ behalf.  NYPA staff also provides 
+5 
+construction oversight.   
+6 
+NYPA also is working with several of the state’s transit agencies to help electrify 
+7 
+their bus fleets.  NYPA is, or soon will be, managing the installation of DCFC in bus 
+8 
+depots for several transit agencies, including the Niagara Frontier Transportation 
+9 
+Authority (“NFTA”), Rochester Regional Transit Service, Tompkins Consolidated Area 
+10 
+Transit, Ulster County Area Transit, Capital District Transportation Authority (“CDTA”), 
+11 
+and the Bee-Line Bus System (Westchester County).  NYPA also is working with New 
+12 
+York City Transportation Authority and the Port Authority of New York and New Jersey 
+13 
+to install DCFC for electric buses serving their airports.  
+14 
+  
+15 
+III. 
+COMMERCIAL CHARGER PROGRAM 
+16 
+Q. 
+What is ‘make-ready’ in the context of EV charging infrastructure development? 
+17 
+A. 
+Make-ready is a term that refers to electrical infrastructure expansion or upgrade 
+18 
+investments that are necessary to deliver electricity to the EV charging equipment.  It 
+19 
+typically includes electrical infrastructure up to, but not including, the charging 
+20 
+equipment itself.  Examples of EV make-ready investments include electrical transformer 
+21 
+upgrades, trenching and boring for conduits, conductors, poles, and towers.   
+22 
+
+
+--- Page 12 ---
+Direct Testimony of Electric Vehicle Panel 
+New York Power Authority 
+Case 20-E-0380 
+ 
+ 
+ 
+12 
+ 
+Q. 
+Why is make-ready financial support important for the deployment of DCFC 
+1 
+infrastructure? 
+2 
+A. 
+Make-ready costs for installing and connecting DCFCs can be a significant financial 
+3 
+barrier to deployment.  Higher power DCFC technology (100 kW or higher) charges a 
+4 
+vehicle much faster than other types of EV charging infrastructure.  Doing so utilizes 
+5 
+significantly more electricity and requires more infrastructure upgrades to deliver the 
+6 
+electricity to the charger.  Department of Public Service (“DPS”) Staff noted in their 
+7 
+Whitepaper Regarding Electric Vehicle Supply Equipment and Infrastructure 
+8 
+Deployment, issued on January 13, 2020, (“Staff Whitepaper”) that make-ready costs for 
+9 
+a 150 kW station with four plugs may be approximately $200,000 in upstate New York 
+10 
+and can account for as much as two-thirds of the initial capital costs to build out a site.  
+11 
+With high upfront make-ready capital costs and the current low-level of electric vehicle 
+12 
+adoption, particularly in upstate New York, near-term revenues from low utilization of 
+13 
+chargers may not be sufficient for developers to invest in the DCFC necessary to address 
+14 
+range anxiety.  
+15 
+Q. 
+Please describe the Statewide EV Make-Ready Program. 
+16 
+A. 
+On July 16, 2020, in its Make-Ready Program Order in Case 18-E-0138, the Commission 
+17 
+established a $701 million Electric Vehicle Charging Infrastructure Make-Ready 
+18 
+Incentive (“Make-Ready Program”) to support the necessary make-ready expenses for L2 
+19 
+and DCFC EV charging infrastructure for light-, medium-, and heavy-duty EVs and 
+20 
+electric transit fleet vehicles through 2025 in the service territories of the State’s 
+21 
+Commission-regulated investor-owned utilities (“IOUs”).  For light-duty EV L2 and 
+22 
+
+
+--- Page 13 ---
+Direct Testimony of Electric Vehicle Panel 
+New York Power Authority 
+Case 20-E-0380 
+ 
+ 
+ 
+13 
+ 
+DCFC incentives, the budget is divided among the IOUs based on the number of L2 and 
+1 
+DCFC chargers each utility needs to support the State's ZEV adoption targets.  The 
+2 
+incentive budget for Niagara Mohawk is $112,118,100 to support the deployment of 
+3 
+15,728 L2 and 504 DCFC chargers.   
+4 
+Q. 
+Does Niagara Mohawk have any existing EV Charging initiatives? 
+5 
+A. 
+Pursuant to its 2017 Rate Plan, Niagara Mohawk developed an EV Charging Host 
+6 
+Program with the objective of deploying 300 L2 ports over three years.  The Company 
+7 
+refers to this program as “Phase I.”  Niagara Mohawk stated in its response to SC-040 
+8 
+that Phase I exceeded its goal in just over two years and, as of the first quarter of 2020, 
+9 
+the program had enabled 329 L2 ports across 44 customer sites.  
+10 
+Q. 
+Please describe Niagara Mohawk’s proposed Commercial Program. 
+11 
+A. 
+The proposed Commercial Program consists of three components: make-ready incentive 
+12 
+funding, charging station rebates, and program management.  The Company also refers to 
+13 
+the proposed Commercial Program as “Phase II” of its existing EV Charging Host 
+14 
+Program.  The scope and scale of the make-ready incentive funding component reflects 
+15 
+the budget required to meet Niagara Mohawk’s deployment targets established in the 
+16 
+Make-Ready Program.  In addition to make-ready support, the program also will provide 
+17 
+a rebate of 50 percent of each L2 or DCFC charger port’s cost.  The total Commercial 
+18 
+Program budget is $145.16 million, allocated as follows: $108.98 million for make-ready 
+19 
+incentives; $28.04 million for charging station rebates; and, $8.15 million for program 
+20 
+management. 
+21 
+
+
+--- Page 14 ---
+Direct Testimony of Electric Vehicle Panel 
+New York Power Authority 
+Case 20-E-0380 
+ 
+ 
+ 
+14 
+ 
+Q. 
+Why is there a need for the Company’s Commercial Program in light of the 
+1 
+statewide Make-Ready Program? 
+2 
+A. 
+The Commission’s statewide Make-Ready Program is an important step toward reducing 
+3 
+the barriers to deployment of EV charging infrastructure.  But it is not the only barrier to 
+4 
+development.  The cost of the charger itself, especially for high-power DCFC machines, 
+5 
+can reach as high as $150,000 per charger, according to a whitepaper published by EVgo 
+6 
+on May 18, 2020.  The Make-Ready Program does not provide financial assistance with 
+7 
+the purchase of the charger itself.  Therefore, the Company’s proposed EV charger rebate 
+8 
+will reduce the upfront cost of of EV charging infrastructure development and lead to the 
+9 
+deployment of more chargers.   
+10 
+Q. 
+Is there a statewide program that provides rebates for EV charging equipment? 
+11 
+A. 
+Through the Charge Ready NY Program, NYSERDA provides rebates of up to $4,000 
+12 
+per charging port for L2 charging stations installed at public, workplace, and multi-unit 
+13 
+dwelling parking lots.  However, this program does not provide rebates for DCFCs.  
+14 
+Niagara Mohawk’s proposed Commercial Program is independent of the NYSERDA 
+15 
+Charge Ready NY Program.  
+16 
+Q. 
+Does the Panel recommend any clarifications for the charger rebate proposal?   
+17 
+A. 
+Yes.  Consistent with NYPA’s eligibility to receive incentives under the Make-Ready 
+18 
+Program Order, the Company should confirm that NYPA is eligible to access the charger 
+19 
+rebate component of the proposed Commercial Program.  
+20 
+Q. 
+Under the Commercial Program, how does the Company propose to select eligible 
+21 
+sites and equipment?   
+22 
+
+
+--- Page 15 ---
+Direct Testimony of Electric Vehicle Panel 
+New York Power Authority 
+Case 20-E-0380 
+ 
+ 
+ 
+15 
+ 
+A. 
+According to the Company’s pre-filed testimony, Niagara Mohawk will identify and 
+1 
+develop prospective charging sites and locations then work with trade allies, equipment 
+2 
+providers, and charging installers to recruit site hosts and locations to the program.  Once 
+3 
+identified, the site hosts will select desired EV charging equipment from a qualified 
+4 
+equipment list developed by Niagara Mohawk and sign a site host agreement detailing 
+5 
+the terms of participation.  The Company will construct new distribution service and any 
+6 
+required electrical infrastructure at the premises for each charging site for qualifying 
+7 
+projects.  
+8 
+Q. 
+Does the Panel support the Company’s proposed process for selecting sites and 
+9 
+equipment to be used for development? 
+10 
+A. 
+No, the Company should offer the proposed process for selecting sites and equipment as 
+11 
+an optional service for developers, not as a requirement.  The decision to locate in a given 
+12 
+area, as well as what equipment to use (which may have varying degrees of reliability) 
+13 
+are business decisions that can only be made by the entity owning and operating the 
+14 
+chargers.  While leveraging the Company’s knowledge to identify suitable locations and 
+15 
+select charging equipment can be helpful for developers, it cannot be a mandatory 
+16 
+requirement because Company selected sites may or may not be suitable for the charging 
+17 
+station owner.  
+18 
+Q: 
+Does the Panel have recommendations on any other element of the proposed 
+19 
+Commercial Program? 
+20 
+A. 
+Yes, the Panel has recommendations related to the process of interconnecting an EV 
+21 
+charger.    
+22 
+
+
+--- Page 16 ---
+Direct Testimony of Electric Vehicle Panel 
+New York Power Authority 
+Case 20-E-0380 
+ 
+ 
+ 
+16 
+ 
+Q. 
+Is the Company proposing any interconnection process improvements as part of the 
+1 
+proposed Commercial Program? 
+2 
+A. 
+Yes.  The Company proposed to create dedicated ‘single points of contact’ for EV 
+3 
+charging station applications to aid in deployment and ensure a streamlined customer 
+4 
+experience. 
+5 
+Q. 
+Does the Panel support the Company’s proposal to create dedicated single points of 
+6 
+contact for charging station applications?   
+7 
+A. 
+Yes, the Panel supports the establishment of dedicated single points of contact.  Having 
+8 
+dedicated team members specializing in EV interconnection will help ensure that EV 
+9 
+charging developers get timely and EV-specific interconnection information.  EV 
+10 
+charging load can be built faster, and is more flexible in both size and location, than other 
+11 
+new service requests.  This, coupled with rapidly evolving charging technology, requires 
+12 
+that every new application must be matched with appropriate training for the utility 
+13 
+engineer handling the new service request.  Establishing single points of contact for EV 
+14 
+interconnection will lead to a better understanding of the unique characteristics of a new 
+15 
+service request.  It will enable EV charging infrastructure to be developed in a timely 
+16 
+manner and avoid unnecessary delays in construction. 
+17 
+Q. 
+Does the Panel have any recommendations related to the Company’s proposed 
+18 
+single point of contact proposal? 
+19 
+A. 
+Yes, the Company should publish the names and contact information for the single points 
+20 
+of contact on the website in a place that is easy for developers to find.   
+21 
+Q. 
+Should the Company consider any other interconnection improvements? 
+22 
+
+
+--- Page 17 ---
+Direct Testimony of Electric Vehicle Panel 
+New York Power Authority 
+Case 20-E-0380 
+ 
+ 
+ 
+17 
+ 
+A. 
+Yes, the Company should adopt a desktop review policy for all EV charging load 
+1 
+interconnection requests.  A desktop review is a higher level, initial assessment of 
+2 
+capacity at a particular location that can provide a developer insight into interconnection 
+3 
+costs earlier in the development process than waiting for the more detailed evaluation that 
+4 
+traditionally results from an interconnection request.  As part of the desktop assessment, 
+5 
+the Company’s system engineers should identify potential costly and time-consuming 
+6 
+barriers, such as system upgrades, transformer upgrades, environmental issues, rights-of-
+7 
+way issues, or land issues.  The desktop review should enable the utility to inform 
+8 
+applicants on how to minimize installation costs and delays.  Improved communication 
+9 
+channels will allow the Company to ask for, and receive, a high-level overview of 
+10 
+charging station development plans over the next three to five years.   
+11 
+These desktop reviews should allow developers to make a timely decision on 
+12 
+whether to keep pursuing a given site.  This process recommendation mimics the solar 
+13 
+hosting capacity maps and pre-application process for New York’s Standardized 
+14 
+Interconnection Requirements.  Under that pre-application process, distributed generation 
+15 
+developers are able to improve work efficiencies by obtaining preliminary screening 
+16 
+information and potentially avoid submission of a full interconnection application.  
+17 
+Interconnection requests for EV charging infrastructure are going to increase when the 
+18 
+Company’s proposed EV programs and the larger statewide Make-Ready Program are 
+19 
+implemented.  Therefore, it is critical that Niagara Mohawk adopt a more efficient 
+20 
+interconnection process.   
+21 
+
+
+--- Page 18 ---
+Direct Testimony of Electric Vehicle Panel 
+New York Power Authority 
+Case 20-E-0380 
+ 
+ 
+ 
+18 
+ 
+Q. 
+Does the Panel have any other recommendations to improve the interconnection 
+1 
+process? 
+2 
+A. 
+Yes.  The Company’s distribution capacity map should indicate how much available load 
+3 
+head room is available on a given circuit.  Currently, all the information needed to 
+4 
+calculate this is shown – line voltage and maximum current – but developers are left to do 
+5 
+the calculations themselves.  Having the Company display the calculations will ensure 
+6 
+that charging station owners can propose the most optimal areas, as indicated by this 
+7 
+publicly available map, for the desktop review. 
+8 
+IV. 
+FLEET ELECTRIFICATION PROGRAM 
+9 
+Q. 
+What are the primary barriers to deployment for transit fleets?  
+10 
+A. 
+Transit fleets face many of the same barriers for EV adoption and charging infrastructure 
+11 
+deployment as light-duty EVs.  Some of the State’s transit agencies that are conducting 
+12 
+pilot programs are using DCFC rated between 100 kW and 150 kW.  In the Panel’s 
+13 
+experience from working with transit agencies that are electrifying their fleets, installed 
+14 
+costs, not inclusive of any make-ready costs, varied from $125,000 to $185,000 per bus 
+15 
+depending on the style of charging being installed.  Make-ready expenses average around 
+16 
+$35,000 per bus.  Transit agencies also face higher upfront vehicle costs if they choose to 
+17 
+electrify.  An electric transit bus can cost twice as much as an internal combustion engine 
+18 
+transit bus.  Finally, on top of higher upfront costs associated with transit electrification,  
+19 
+transit agencies often have little to no excess funds to cover these costs.  Transit agencies 
+20 
+are often governmental entities funded primarily through local, state, and federal 
+21 
+government appropriations.   
+22 
+
+
+--- Page 19 ---
+Direct Testimony of Electric Vehicle Panel 
+New York Power Authority 
+Case 20-E-0380 
+ 
+ 
+ 
+19 
+ 
+Q. 
+Why is transit fleet electrification important for meeting the State’s electrification 
+1 
+and environmental targets?  
+2 
+A. 
+Transit fleets are part of the medium- and heavy-duty vehicle segment, which contributes 
+3 
+a significant portion of the transportation sector GHG emissions.  According to the U.S. 
+4 
+Environmental Protection Agency, medium- and heavy-duty vehicles accounted for 
+5 
+approximately 23 percent of the GHG emissions from the U.S. transportation sector in 
+6 
+2018.  Electrification of medium- and heavy-duty transit fleet vehicles is also a 
+7 
+significant issue for Low-to-Moderate Income (“LMI”) customers and customers that live 
+8 
+in Environmental Justice (“EJ”) communities.  In New York City, approximately 75 
+9 
+percent of the bus depots are located in and predominately service LMI and EJ 
+10 
+communities. These are the same areas where it is expected that EV adoption rates will 
+11 
+remain low for some time due to the higher initial cost of the vehicles.   
+12 
+Q. 
+What support is provided for fleet electrification in the Make-Ready Program? 
+13 
+A. 
+The Make-Ready Program Order established a Medium- and Heavy-Duty Fleet Make-
+14 
+Ready Pilot Program (“Pilot Program”) in each IOU service territory, with a total budget 
+15 
+of $15 million.  Of this amount, Niagara Mohawk is expected to receive $6 million based 
+16 
+on an implementation plan filed by the IOUs on October 14, 2020.  The Pilot Program 
+17 
+will cover up to 90 percent of the utility-side make-ready infrastructure upgrade costs.  
+18 
+The Order also established an approximately $10 million Transit Authority Make-
+19 
+Ready Program and directed Con Edison, National Grid, and RG&E to partner with the 
+20 
+Westchester County Bee-Line Bus System, CDTA, NFTA, and the Rochester-Genesee 
+21 
+Regional Transit Authority to fund make-ready infrastructure work at bus depots for 
+22 
+
+
+--- Page 20 ---
+Direct Testimony of Electric Vehicle Panel 
+New York Power Authority 
+Case 20-E-0380 
+ 
+ 
+ 
+20 
+ 
+electric transit fleet charging.  These projects will be eligible for incentives that cover 100 
+1 
+percent of the make-ready costs.   
+2 
+The IOUs also were directed to establish Fleet Assessment Services programs to 
+3 
+provide fleet advisory services to light-, medium-, and heavy-duty fleet operators.  The 
+4 
+assessment will provide fleet operators with site feasibility and rate analysis to determine 
+5 
+their best options for electrification.  
+6 
+Finally, the Order established a $20 million budget for NYSERDA to demonstrate 
+7 
+the viability of opportunities for medium- and heavy-duty vehicle electrification.  It will 
+8 
+support projects that demonstrate commercially available and viable technologies or 
+9 
+strategies that reduce the cost of electric medium- and heavy-duty vehicle charging and 
+10 
+associated electric upgrades to enable the adoption of these vehicles at scale.  This budget 
+11 
+allocation also is intended to expand viable markets for electrifying these vehicles to new 
+12 
+applications/vocations, weight classes, and/or duty cycles.  
+13 
+Q. 
+Please describe Niagara Mohawk’s proposed Fleet Electrification Program. 
+14 
+A. 
+Niagara Mohawk proposed four programs aimed at planning for and deploying charging 
+15 
+infrastructure to support fleet electrification.  The four proposed programs are: 
+16 
+1. Fleet Advisory Services: provide fleet operators with a roadmap to electrification, 
+17 
+site feasibility analyses, and bill impact analyses.  The Company anticipates 
+18 
+making this program available to 100 customers at no cost to the customer.   
+19 
+2. Fleet Make-Ready Support: make-ready support for light-duty and medium- and 
+20 
+heavy-duty fleets at approximately 50 sites throughout the Company’s service 
+21 
+territory.   
+22 
+
+
+--- Page 21 ---
+Direct Testimony of Electric Vehicle Panel 
+New York Power Authority 
+Case 20-E-0380 
+ 
+ 
+ 
+21 
+ 
+3. Low-to-Moderate Income and Environmental Justice Communities Electric 
+1 
+School Bus Support Program: rebates to assist school districts in LMI and EJ 
+2 
+communities to purchase electric school buses and install chargers.  The Company 
+3 
+anticipates providing rebates to purchase 25 school buses and rebates for one 
+4 
+charger per school bus.   
+5 
+4. Single Point of Contact: establish a single point of contact that will be dedicated 
+6 
+to assisting fleet operators with their transition to EVs.   
+7 
+The total budget for all four programs is $22.86 million.  According to the Company’s 
+8 
+pre-filed testimony, costs were determined based on internal engineering assessments of 
+9 
+potential electric fleet depots and corresponding infrastructure upgrades needed, feedback 
+10 
+from market participants, and National Grid’s experience in other service territories 
+11 
+outside of New York.  The Fleet Electrification Program is sized to enable the transit 
+12 
+agencies that are required to electrify under the 2020 State of the State directive to 
+13 
+achieve their 25 percent electrification interim target by 2025.  The Company’s goal is to 
+14 
+fill in the gaps not covered by existing fleet electrification programs, such as the 
+15 
+statewide Make-Ready Program and the New York Truck Voucher Incentive Program.   
+16 
+Q. 
+Does the Statewide Make-Ready Program provide enough funding to support 
+17 
+transit fleet electrification?  
+18 
+A. 
+No.  The Transit Authority Make-Ready Program is a great start, but it provides too little 
+19 
+financial support for transit electrification.  New York’s total transit bus fleet is 
+20 
+approximately 7,000 vehicles, with approximately 1,300 of those transit buses located 
+21 
+outside the New York City transit system.  With make-ready costs of up to $35,000 per 
+22 
+
+
+--- Page 22 ---
+Direct Testimony of Electric Vehicle Panel 
+New York Power Authority 
+Case 20-E-0380 
+ 
+ 
+ 
+22 
+ 
+bus, a rough estimate of need for make-ready work alone is almost $45 million for transit 
+1 
+bus electrification outside of the New York City transit system.  As mentioned before, the 
+2 
+Make-Ready Program only provides $10 million in total to support the electrification of 
+3 
+four transit agencies, two of which are outside of Niagara Mohawk’s service territory.   
+4 
+Q. 
+Is the Company’s proposed Fleet Electrification Program necessary to help bridge 
+5 
+this gap? 
+6 
+A. 
+Yes.  The additional funding provided in the Company’s proposed Fleet Electrification 
+7 
+Program for transit fleet electrification will be very important in advancing the 
+8 
+electrification of transit fleets in the Company’s service territory, namely CDTA and 
+9 
+NFTA.  From our experience, the State’s transit agencies are eager to electrify their 
+10 
+fleets, but they need financial support.   
+11 
+Q. 
+Does the Panel recommend any changes to the Fleet Electrification Program?  
+12 
+A. 
+Yes.  The Fleet Electrification Program also should include a smart charging option.   
+13 
+Q. 
+What is smart charging? 
+14 
+A. 
+Smart charging often is described as the intelligent charging of EVs, where charging can 
+15 
+be shifted based on grid loads and in accordance with the vehicle owner’s needs.  The 
+16 
+utility administering a smart charging option would control when an EV charges, subject 
+17 
+to certain restrictions.  The EV owner would specify the daily time(s) by which a full 
+18 
+charge is needed.  Customers would receive some form of incentive for enrolling in the 
+19 
+program and charging during off-peak periods.  There also may be penalties or higher 
+20 
+rates for charging during peak periods. 
+21 
+
+
+--- Page 23 ---
+Direct Testimony of Electric Vehicle Panel 
+New York Power Authority 
+Case 20-E-0380 
+ 
+ 
+ 
+23 
+ 
+Q. 
+Why should the Company include a smart charging option in its proposed Fleet 
+1 
+Electrification Program? 
+2 
+A. 
+Smart charging enables the utility to use its real-time insight into when curtailment is 
+3 
+needed to signal the charging station to slow down or stop charging a particular vehicle.  
+4 
+This arrangement is mutually beneficial for the customer and the utility.  It provides the 
+5 
+vehicle operator with confidence that the vehicle will be charged when needed for use. It 
+6 
+benefits utilities by increasing their flexibility to manage grid load, thus shaving peak 
+7 
+demand and avoiding costly infrastructure upgrades, all of which benefit ratepayers. 
+8 
+Furthermore, because electric transit fleets generally will require much more 
+9 
+electricity to charge individual vehicles due to the size of the batteries in these vehicles, 
+10 
+high-speed charging will be needed at the depots.  This will introduce a substantial 
+11 
+incremental electric demand to the bus depot.  Charging fleet batteries during the hours 
+12 
+with the highest electric demand also could impose constraints on the existing electric 
+13 
+distribution infrastructure.  Conversely, charging fleets during low-demand hours can 
+14 
+provide grid benefits by increasing the capacity utilization of distribution and generation 
+15 
+assets.  Off-peak charging also may benefit the transit agency by limiting impacts to 
+16 
+dispatch scheduling by removing buses from service at times of lower ridership.  The 
+17 
+costs and potential benefits arising from this incremental load make behavioral strategy 
+18 
+incentives, such as a smart charging option, effective tools to promote low-demand 
+19 
+period charging.   
+  
+20 
+Q. 
+Do you have any recommendations for how the smart charging option should be 
+21 
+implemented? 
+22 
+
+
+--- Page 24 ---
+Direct Testimony of Electric Vehicle Panel 
+New York Power Authority 
+Case 20-E-0380 
+ 
+ 
+ 
+24 
+ 
+A. 
+The smart charging option will need to consider the operational constraints of transit 
+1 
+agencies.  Public transit buses might need to charge from time to time during the peak 
+2 
+hours of 7:00 a.m. to 10:00 p.m., Monday through Friday, to serve commuters.  Smart 
+3 
+charging technologies and incentives should be used to encourage transit charging 
+4 
+primarily during off-peak hours to the extent practicable.  Utilities also should partner 
+5 
+with transit agencies to determine the optimal load shape in their service territories and 
+6 
+they should permit limited charging during on-peak hours, if necessary, for efficient 
+7 
+scheduling dispatch.  This approach would provide the needed flexibility to fleet 
+8 
+operators and transit agencies to charge their vehicles in a timeframe that meets customer 
+9 
+needs while allowing utilities to manage load effectively.   
+10 
+Q. 
+Does the Panel recommend any other modifications to assist fleets in electrifying? 
+11 
+A. 
+Yes, Niagara Mohawk should also make certain modifications to their time of use 
+12 
+(“TOU”) rates.  
+13 
+Q. 
+What modifications would the Panel recommend Niagara Mohawk make to their 
+14 
+time of use rates to further incentivize off-peak charging? 
+15 
+A. 
+The Company should lower the load threshold to qualify for the TOU rate available under 
+16 
+Service Classification 3A.  The current tariff has a load threshold of 2,000 kW for small 
+17 
+pilot projects, which is too high for them to qualify.  Approximately 25 electric bus 
+18 
+chargers would be needed to meet the threshold.  The TOU load threshold in other 
+19 
+utilities in New York, however, is an amount that is closer to the equivalent of four 
+20 
+electric buses.  This allows even pilot projects to participate in tariffs encouraging grid-
+21 
+friendly charging behaviors.  Lowering the kW threshold, will make it easier for electric 
+22 
+
+
+--- Page 25 ---
+Direct Testimony of Electric Vehicle Panel 
+New York Power Authority 
+Case 20-E-0380 
+ 
+ 
+ 
+25 
+ 
+bus projects to utilize these rates and shift charging to off-peak periods and not 
+1 
+exacerbate grid constraints.  This modification will help reduce the operating costs of 
+2 
+medium- and heavy-duty fleets and decrease their lifecycle costs.  When operating and 
+3 
+lifecycle costs are lower, the drive to adopt EVs will increase.  
+4 
+Q. 
+Why is it important that smart charging be adopted and TOU rates be modified in 
+5 
+this rate proceeding? 
+6 
+A. 
+These changes will improve the economics of electrification for transit fleets.  As 
+7 
+discussed, the State’s transit agencies are eager to electrify, some are required to electrify, 
+8 
+but they face stiff financial barriers to doing so.  The adoption of smart charging and 
+9 
+modification of the Company’s TOU rate in these proceedings will allow transit agencies 
+10 
+to increase their financial savings from the inception, or near-inception, of their fleet 
+11 
+electrification process.   
+12 
+  
+13 
+V. 
+RESIDENTIAL PROGRAM 
+14 
+Q. 
+Please summarize the Company’s Proposed EV Residential Programs. 
+15 
+A. 
+Niagara Mohawk proposed a Residential EV Charging Program comprised of four 
+16 
+offerings: (1) a Managed Charging Program offering customers a fixed monthly price for 
+17 
+a fixed amount of off-peak kWh to charge their vehicle; (2) a $500 rebate to offset the 
+18 
+initial cost of home charger installations; (3) a Turnkey Installation Program that will 
+19 
+allow residential customers to easily purchase a home L2 charger and find a professional 
+20 
+installer, with an option for on-bill financing; and, (4) a new website that will serve as a 
+21 
+
+
+--- Page 26 ---
+Direct Testimony of Electric Vehicle Panel 
+New York Power Authority 
+Case 20-E-0380 
+ 
+ 
+ 
+26 
+ 
+resource for customers to learn about home charging options and access the residential 
+1 
+programs offered by the Company.  
+2 
+Q. 
+Does the Panel support the Company’s proposed EV Residential Programs? 
+3 
+A.  
+Yes.  While customer range anxiety is an undeniable barrier to EV ownership, NYPA’s 
+4 
+market research has found that customer uncertainty over home charging options and 
+5 
+confusion over how to install L2 home chargers are also significant barriers to EV 
+6 
+adoption by residential customers.  The Company’s proposal offers a multi-faceted 
+7 
+approach to supporting the charging services necessary to encourage EV adoption that 
+8 
+will inform customers on home charging options, reduce the electric costs associated with 
+9 
+charging, and simplify charger installation and financing.  This will increase consumer 
+10 
+knowledge of and confidence in EVs, thus making them comfortable in purchasing an EV 
+11 
+and moving the state toward meeting its ZEV mandate.  
+12 
+VI. 
+MARKETING AND CONSUMER AWARENESS 
+13 
+Q. 
+Please summarize Niagara Mohawk’s Marketing and Communication Plan 
+14 
+Proposal.  
+15 
+A. 
+Niagara Mohawk’s Phase II EV Program proposal included a Marketing and 
+16 
+Communication Plan that is intended to promote the Company’s proposed EV program 
+17 
+offerings to prospective residential, business, and fleet customers.  The Marketing and 
+18 
+Communication Plan will strategically identify and prioritize the customers, site costs, 
+19 
+and corporate parties who are most likely to take advantage of the Company’s proposed 
+20 
+program offerings.  Niagara Mohawk stated that its proposed Marketing and 
+21 
+
+
+--- Page 27 ---
+Direct Testimony of Electric Vehicle Panel 
+New York Power Authority 
+Case 20-E-0380 
+ 
+ 
+ 
+27 
+ 
+Communication Plan will allow customers to learn about the benefits of installing EV 
+1 
+charging, highlight opportunities to accelerate fleet electrification, encourage entities to 
+2 
+act as a site host for charging stations, advertise charging station availability throughout 
+3 
+the Company’s service territory, and increase customer participation in the residential 
+4 
+Managed Charging Program.  Niagara Mohawk proposed to deliver messaging through 
+5 
+multiple mediums, including traditional company and partner channels, press coverage, 
+6 
+purchased media, EV advocacy groups, and site host communication and engagement.  
+7 
+Q. 
+What budget does the Company propose for its Marketing and Communication 
+8 
+Plan? 
+9 
+A. 
+Niagara Mohawk proposed that approximately $3.61 million, or 1.7 percent of the total 
+10 
+proposed program budget, be designated for the Marketing and Communication Plan and 
+11 
+allocated as follows: approximately $1.939 million for the Commercial Program; 
+12 
+approximately $477,000 for the Marketplace and Self-Service Residential Offering; 
+13 
+nearly $716,000 for the Turnkey Installation and On-Bill Financing Program; 
+14 
+approximately $175,000 to the Managed Charging Program; and, approximately 
+15 
+$300,000 to the Fleet Program.  
+16 
+Q.  
+What role does marketing play in a business strategy?  
+17 
+A.  
+The goal of marketing is to make people interested in new products or services with the 
+18 
+goal of becoming a long-term consumer of those products or services.  Marketing is an 
+19 
+essential part of any business, and it is necessary to ensure an organization’s long-term 
+20 
+success.  Companies that operate without a marketing mindset, who center their efforts 
+21 
+around their products rather than their customers, are at a disadvantage in communicating 
+22 
+
+
+--- Page 28 ---
+Direct Testimony of Electric Vehicle Panel 
+New York Power Authority 
+Case 20-E-0380 
+ 
+ 
+ 
+28 
+ 
+their offers, influencing consumer decision-making, and developing sustainable and long-
+1 
+term revenue streams.  Ultimately, marketing is not only about customers, advertising, 
+2 
+price, and communication channels, but is also about advancing corporate strategy.  
+3 
+ Q.  
+What is unique about the current market for EVs?  
+4 
+A.  
+EVs are a relatively new technology that have not yet achieved mass-market adoption.  
+5 
+Product developers must bridge the gap between the purchasing motivations of early 
+6 
+adopters and mass-market consumers of a technology.  Early adopters of a technology 
+7 
+and mass market consumers tend to make purchasing decisions based on very different 
+8 
+factors.  Successfully transitioning from early adoption to mass-market acceptance of a 
+9 
+technology represents the most critical and challenging period of the technology adoption 
+10 
+lifecycle.  Products that fail to gain mass-market acceptance typically do not generate 
+11 
+enough long-term sales and revenues to constitute a sustainable business case.  
+12 
+In the context of EVs, mass-market customers generally will not decide to 
+13 
+purchase EVs based only on their environmental and operating cost benefits.  They will 
+14 
+purchase an EV only if they are confident that there will be adequate charging options to 
+15 
+easily recharge their vehicle on both short- and long-range trips through a combination of 
+16 
+home and public charging.  
+17 
+A unique barrier to mass market acceptance of EVs is that charging station 
+18 
+developers are reluctant to deploy the infrastructure necessary to overcome range anxiety 
+19 
+until charging station economics improve, but potential mass-market consumers are 
+20 
+waiting for charging infrastructure to be readily available before they transition to EVs at 
+21 
+
+
+--- Page 29 ---
+Direct Testimony of Electric Vehicle Panel 
+New York Power Authority 
+Case 20-E-0380 
+ 
+ 
+ 
+29 
+ 
+scale.  Both aspects of this causality dilemma must be addressed simultaneously for New 
+1 
+York’s EV market to develop successfully.  
+2 
+Q.  
+Does the market evolution of any other energy-related technology provide an 
+3 
+example of the multi-faceted needs of mass-market consumers?  
+4 
+A.  
+Yes.  The growth of the programmable thermostat market since the introduction of 
+5 
+connected thermostats (“CTs”) demonstrates the multiple criteria that new technology 
+6 
+must meet in order to gain mass-market acceptance.  Traditional programmable 
+7 
+thermostats were designed to allow customers to pre-program temperatures for certain 
+8 
+times in order to save energy and money and have been available for decades.  However, 
+9 
+they also have been widely criticized for not being user-friendly due to having a 
+10 
+confusing interface and requiring an excessive amount of steps to program a weeks worth 
+11 
+of temperature changes.  For this reason, consumers of programmable thermostats largely 
+12 
+did not use the devices’ programming capabilities or realize potential energy savings, and 
+13 
+those that did tended to have a more sophisticated understanding of their energy usage 
+14 
+and wants.   
+15 
+CTs were introduced to the programmable thermostat market about ten years ago 
+16 
+in response to these user-friendliness concerns.  They use sensors and internet 
+17 
+connectivity to automatically adjust building temperature based on various factors.  CTs 
+18 
+facilitate automatic temperature adjustments to provide the same potential cost savings as 
+19 
+traditional programmable thermostats but in a more user-friendly manner.  CT sales 
+20 
+quickly accelerated because producers addressed the multi-faceted needs of mass-market 
+21 
+
+
+--- Page 30 ---
+Direct Testimony of Electric Vehicle Panel 
+New York Power Authority 
+Case 20-E-0380 
+ 
+ 
+ 
+30 
+ 
+consumers by offering a product that was easy to use and integrate with actual customer 
+1 
+behavior, as well as offering a cost savings advantage compared to an alternative product.   
+2 
+Q. 
+What should an effective EV marketing strategy try to accomplish?  
+3 
+A.  
+A successful EV marketing strategy is necessary to overcome these challenges and 
+4 
+should accomplish the following:  
+5 
+1. 
+Make consumers aware of current EV vehicles on the market, the relative 
+6 
+advantages of EVs compared to internal combustion engine (“ICE”) vehicles, and 
+7 
+incentives available to support purchase of the EVs.  For example, a 2019 survey 
+8 
+by Ford Motor Company showed that 42 percent of American consumers think an 
+9 
+EV still needs gasoline to function, so education and awareness are key; 
+10 
+2. 
+Make consumers aware of home and public charging options and inform them of 
+11 
+incentives and programs available to access these options;  
+12 
+3. 
+Facilitate wider charging infrastructure deployment by making entities interested 
+13 
+in serving as charging station hosts; and 
+14 
+4. 
+Reach stakeholders through different mediums that are tailored to each 
+15 
+stakeholder category’s unique preferences and behavior.    
+16 
+Q. 
+Does the Panel support Niagara Mohawk’s proposed Marketing and 
+17 
+Communication Plan?  
+18 
+A. 
+Yes.  Niagara Mohawk’s Marketing and Communication Plan is well-aligned with the 
+19 
+criteria for a successful EV marketing plan discussed above.  By allocating a share of 
+20 
+each of the proposed EV program components’ budgets to marketing, Niagara Mohawk 
+21 
+is ensuring that customers will be informed and engaged with program options that are 
+22 
+
+
+--- Page 31 ---
+Direct Testimony of Electric Vehicle Panel 
+New York Power Authority 
+Case 20-E-0380 
+ 
+ 
+ 
+31 
+ 
+intended to address barriers to mass market EV adoption.  For example, Niagara 
+1 
+Mohawk’s proposed Turnkey Installation Service Program is well-suited to address 
+2 
+residential customer concerns over finding a suitable home charging option and the 
+3 
+professionals necessary for its installation.  The Marketing and Communication Plan will 
+4 
+educate customers on this program and ensure that it achieves its intended benefits, as 
+5 
+described by the Company’s EV Panel.   
+6 
+Simultaneously, Niagara Mohawk’s proposed Marketing and Communication 
+7 
+Plan will facilitate wider charging infrastructure deployment by making businesses aware 
+8 
+of the benefits of hosting charging stations and expanding the range of entities that would 
+9 
+consider hosting charging stations.  Encouraging expansion of charging infrastructure 
+10 
+would further address customer concerns and facilitate EV purchases by the mass-market 
+11 
+consumers who value knowing that EV charging is accessible, straightforward, and 
+12 
+reliable in the Company’s service territory.  Such an approach, which encourages 
+13 
+concurrent EV adoption and charging station deployment, is necessary to address the 
+14 
+causality dilemma that challenges the development of New York’s EV market.  
+15 
+Furthermore, Niagara Mohawk’s proposed Marketing and Communication Plan 
+16 
+proposes reaching different customer segments through different mediums that are 
+17 
+tailored to each segment.  This approach acknowledges the numerous stakeholder 
+18 
+categories who are engaged in New York’s developing EV market and will ensure that 
+19 
+each stakeholder category is connected with the EV program offerings that are of the 
+20 
+most interest to them.  Thus, Niagara Mohawk’s tailored marketing through varied 
+21 
+
+
+--- Page 32 ---
+Direct Testimony of Electric Vehicle Panel 
+New York Power Authority 
+Case 20-E-0380 
+ 
+ 
+ 
+32 
+ 
+mediums will likely significantly increase participation in the Company’s various EV 
+1 
+program offerings.  
+2 
+Q.  
+What are the potential consequences for New York’s and Niagara Mohawk’s EV 
+3 
+goals if the Company’s EV program offering budgets do not allocate funding to 
+4 
+marketing?  
+5 
+A. 
+As discussed previously, Niagara Mohawk’s Marketing and Communication Plan 
+6 
+presents a viable strategy to make customers aware of program offerings that address 
+7 
+mass-market consumer concerns with EV ownership.  Conversely, failure to adequately 
+8 
+invest in marketing could prevent potential mass-market EV consumers and site hosts 
+9 
+from receiving the information that is necessary for them to feel comfortable with 
+10 
+purchasing an EV or deploying charging infrastructure, thus reducing the overall efficacy 
+11 
+of the Company’s EV Phase II Program.  This outcome could make it more difficult for 
+12 
+EVs to “cross the chasm” and become a technology that is accepted within the general 
+13 
+vehicle market, as opposed to a niche product for early adopters.  It also will slow 
+14 
+progess toward meeting the State’s EV adoption targets.   
+15 
+Q. 
+Does the Panel have any recommendations for Niagara Mohawk’s Marketing and 
+16 
+Communication Plan?  
+17 
+A.  
+Yes.  The success of New York’s EV market, and the large-scale transition of New 
+18 
+York’s transportation system to ZEVs, depends on the long-term creation of a cohesive 
+19 
+and coordinated statewide messaging strategy.  Ultimately, shared research and market 
+20 
+insights from the State’s IOUs, NYPA, NYSERDA, and other relevant stakeholders 
+21 
+should be used to develop the marketing strategies that are proven to most effectively 
+22 
+
+
+--- Page 33 ---
+Direct Testimony of Electric Vehicle Panel 
+New York Power Authority 
+Case 20-E-0380 
+ 
+ 
+ 
+33 
+ 
+address the needs of New York’s potential EV consumers.  As an initial step, the Panel 
+1 
+recommends that Niagara Mohawk coordinate with NYPA’s EVolve NY team and other 
+2 
+State agencies to begin developing this uniform messaging strategy.  Early outcomes 
+3 
+from these meetings should be the identification of roles and responsibilities associated 
+4 
+with the development of a statewide messaging strategy, discussion of what messaging is 
+5 
+essential to include in a statewide strategy, and the development of relevant marketing 
+6 
+metrics and key performance indicators.  These meetings ideally should set the stage for 
+7 
+future discussions with the State’s other EV stakeholders.  
+8 
+Q. 
+Does this conclude this Panel’s testimony? 
+9 
+A. 
+Yes, it does.   
+10 

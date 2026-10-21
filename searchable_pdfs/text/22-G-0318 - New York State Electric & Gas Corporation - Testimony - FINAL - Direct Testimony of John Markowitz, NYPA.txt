@@ -1,0 +1,690 @@
+--- Page 1 ---
+ 
+State of New York  
+Public Service Commission 
+ 
+ 
+______________________________________________________ 
+Cases 22-E-0317, 22-G-0318, 22-E-0319 and 22-G-0320 –  
+Proceeding on the Motion of the Commission as to the Rates,  
+Charges, Rules and Regulations of New York State Electric & Gas  
+Corporation and the Rochester Gas and Electric Corporation  
+for Electric and Gas Service  
+______________________________________________________ 
+ 
+ 
+DIRECT TESTIMONY OF JOHN MARKOWITZ 
+ON BEHALF OF THE NEW YORK POWER AUTHORITY 
+ 
+ 
+ 
+ 
+ 
+ 
+September 26, 2022 
+
+
+--- Page 2 ---
+Direct Testimony of John Markowitz 
+New York Power Authority 
+Cases 22-E-0317 et al. 
+Page 1 of 12 
+ 
+ 
+ 
+ 
+I. 
+INTRODUCTION AND QUALIFICATIONS 
+1 
+Q.  
+Please state your name, employer, and business address. 
+2 
+A.  
+John Markowitz.  I am employed by the New York Power Authority (“NYPA”) and my 
+3 
+business address is 123 Main Street, White Plains, NY 10601. 
+4 
+Q.  
+What is your position at NYPA? 
+5 
+A.  
+I am the Senior Director of eMobility. 
+6 
+Q.  
+Briefly summarize your professional experience and educational background. 
+7 
+A.  
+As the Senior Director of eMobility at NYPA, I am part of the team leading the electric 
+8 
+vehicle (or “EV”) charging infrastructure development activities for New York State’s 
+9 
+EVolve NY Program, which are aimed at significantly expanding the state’s direct 
+10 
+current fast charging (“DCFC”) network.  The team is also active in building charging 
+11 
+infrastructure on behalf of NYPA’s government customers, such as the transit agencies.  
+12 
+In the last nearly two decades at NYPA, I have implemented and managed various 
+13 
+customer-sited advanced technology programs for electric transportation, energy storage, 
+14 
+load control, solar, and wind power.  Before joining NYPA, I worked for nine years in 
+15 
+technical support, marketing, and product development in the transportation, 
+16 
+telecommunications, and energy efficiency sectors.   
+17 
+I am a Licensed Professional Engineer and a Certified Energy Manager.  I 
+18 
+received a Bachelor of Electrical Engineering from Manhattan College in 1986, and a 
+19 
+Master of Business Administration from Pace University in 1992.  Also, I am a member 
+20 
+of the Association of Energy Engineers and the Society of Automotive Engineers.   
+21 
+
+
+--- Page 3 ---
+Direct Testimony of John Markowitz 
+New York Power Authority 
+Cases 22-E-0317 et al. 
+Page 2 of 12 
+ 
+ 
+ 
+ 
+Q.  
+Briefly describe your experience with EVs and EV charging infrastructure. 
+1 
+A.  
+For almost two decades, I have worked on various programs for installing EV charging 
+2 
+equipment and increasing the adoption of EVs ranging from light-duty passenger vehicles 
+3 
+to medium-duty vehicles like utility bucket trucks.   
+4 
+As Senior Director of NYPA’s eMobility department, I manage the department’s 
+5 
+efforts on the EVolve NY program and our customer charging infrastructure work.  
+6 
+NYPA’s EVolve NY program is a multi-year initiative to stimulate EV ownership by 
+7 
+deploying DCFCs throughout New York State to make it easier for EV drivers to 
+8 
+confidently travel in the state.  NYPA is planning and building a network of DCFC 
+9 
+chargers that NYPA will own and operate on travel corridors and other convenient 
+10 
+locations for EV drivers across the state.  NYPA’s eMobility team also contracts with 
+11 
+NYPA’s public sector customers to design and construct DCFC and Level-2 (“L2”) 
+12 
+charging infrastructure on their behalf.  Through this customer work, NYPA has 
+13 
+developed DCFC and L2 charging stations at service plazas, welcome centers, and 
+14 
+commuter lots for the New York State Thruway Authority.  In addition, we are 
+15 
+developing multiple DCFC hubs, an aggregation of chargers at a single site, for the New 
+16 
+York City Department of Transportation.  For heavy-duty vehicles, we oversee the 
+17 
+planning and construction of high-powered charging equipment at bus depots from 
+18 
+Buffalo to Westchester in collaboration with the New York State Department of 
+19 
+Environmental Conservation and New York State Energy Research and Development 
+20 
+Authority (“NYSERDA”).  I also managed a program to install over 100 public charging 
+21 
+stations at municipal parking lots, airports, and train stations throughout the state with 
+22 
+
+
+--- Page 4 ---
+Direct Testimony of John Markowitz 
+New York Power Authority 
+Cases 22-E-0317 et al. 
+Page 3 of 12 
+ 
+ 
+ 
+ 
+funding from NYSERDA.  This was the first large-scale deployment of open charge point 
+1 
+protocol, or OCPP, software for EV chargers in North America.  To date, I have helped 
+2 
+develop 439 L2 charging ports at private workplace charging sites and public sector sites.  
+3 
+Finally, I have engaged in numerous EV and EV charging technical and policy-
+4 
+focused committees and working groups.  For example, I participated in the Electric 
+5 
+Power Research Institute’s Infrastructure Working Committee. I provided input on 
+6 
+electrical safety for EV charging equipment that was submitted to the National Fire 
+7 
+Protection Association that publishes the National Electric Code.  I also am a Board 
+8 
+Member of the Empire Clean Cities Coalition program to engage stakeholders and reduce 
+9 
+fossil fuel usage.  
+10 
+Q. 
+ Have you testified before the Commission before? 
+11 
+A.  
+Yes.  I have provided pre-filed testimony in a number of prior rate cases, including 
+12 
+Consolidated Edison Company of New York, Inc. in 2019 (Case 19-E-0065), New York 
+13 
+State Electric & Gas Corporation (“NYSEG”) and Rochester Gas and Electric 
+14 
+Corporation (“RG&E”) in 2019 (Cases 19-E-0378, et al.), and National Grid in 2020 
+15 
+(Case 20-E-0380).    
+16 
+II.  TRANSPORTATION ELECTRIFICATION PROGRAMS 
+17 
+Q.  
+What is the purpose of your testimony in this proceeding? 
+18 
+A.  
+The purpose of my testimony is to support the three new transportation electrification 
+19 
+programs in the proposed electric service filings by NYSEG and RG&E (or collectively 
+20 
+“the Companies”) and to offer considerations that I believe will both maximize their 
+21 
+
+
+--- Page 5 ---
+Direct Testimony of John Markowitz 
+New York Power Authority 
+Cases 22-E-0317 et al. 
+Page 4 of 12 
+ 
+ 
+ 
+ 
+impact on State policy goals and will ensure that their intended benefits are delivered to 
+1 
+ratepayers and the electric distribution system.  I am also submitting one exhibit (Exhibit 
+2 
+___ (JM-1)) concerning the efficiency of electric-powered transit busses. 
+3 
+Q. 
+ What are the State goals related to EVs? 
+4 
+A. 
+As part of the Multi-State Zero-Emissions Vehicle (“ZEV”) initiative, in 2013 New York 
+5 
+State committed to supporting the adoption of approximately 850,000 ZEV sales in New 
+6 
+York by 2025.  In 2020, New York State, along with 14 other states and the District of 
+7 
+Columbia, signed a joint memorandum of understanding committing to accelerate the 
+8 
+market for electric medium- and heavy-duty (“MHD”) vehicles with a goal of 100 
+9 
+percent of all new MHD vehicle sales will be ZEV by 2050 with an interim target of 30 
+10 
+percent MHD ZEV sales by 2030.  Then, in 2021, New York State Governor Kathy 
+11 
+Hochul signed legislation requiring all new passenger cars and trucks sold in New York 
+12 
+State to be zero-emissions by 2035 and off-road vehicles and new MHD vehicles to be 
+13 
+zero-emissions by 2045. 
+14 
+Additionally, the Climate Leadership and Community Protection Act requires the 
+15 
+state to reduce greenhouse gas (“GHG”) emissions, relative to 1990 levels, 40 percent by 
+16 
+2030 and 85 percent by 2050.  With the transportation sector being the second largest 
+17 
+contributor of GHG emissions at 28 percent of all GHG emissions in the State, ZEV sales 
+18 
+would have to be at a level no less than the ZEV targets to accomplish these GHG 
+19 
+reduction objectives. Among the ZEV options, State policy and car manufacturers are 
+20 
+
+
+--- Page 6 ---
+Direct Testimony of John Markowitz 
+New York Power Authority 
+Cases 22-E-0317 et al. 
+Page 5 of 12 
+ 
+ 
+ 
+ 
+focusing on EVs as the most viable option for mass adoption that will achieve those 
+1 
+goals. 
+2 
+Q.  
+How is the State of New York helping advance the deployment of EV charging 
+3 
+infrastructure? 
+4 
+A.  
+To support the State’s EV adoption targets, New York State has established a number of 
+5 
+programs aimed at increasing the deployment of electric vehicle charging infrastructure 
+6 
+(often referred to as electric vehicle supply equipment or “EVSE”).  In July 2020, the 
+7 
+New York State Public Service Commission (the “Commission”) adopted an order 
+8 
+establishing a $701 million Electric Vehicle Charging Infrastructure Make-Ready 
+9 
+Program (“the Program”) to support the development of EVSE for light-, medium-, and 
+10 
+heavy-duty EVs and electric transit fleet vehicles through 2025.  Specifically, the 
+11 
+Program is expected to support 35,217 workplace L2, 18,556 public L2, and 1,500 
+12 
+DCFCs.  Building off of the 2020 State of the State address, the Commission Order also 
+13 
+directed that at least ten fast chargers be built in every Regional Economic Development 
+14 
+Council region by 2022.  In February 2019, to spur the development of DCFC in 
+15 
+particular, the Commission established a $31.6 million incentive program to support the 
+16 
+development of 1,074 DCFCs.  Finally, NYPA’s EVolve NY program aims to continue 
+17 
+to invest through 2025 to deploy DCFC throughout the state along major travel corridors, 
+18 
+as discussed above. 
+19 
+Q.  
+How many chargers have been installed Statewide so far? 
+20 
+
+
+--- Page 7 ---
+Direct Testimony of John Markowitz 
+New York Power Authority 
+Cases 22-E-0317 et al. 
+Page 6 of 12 
+ 
+ 
+ 
+ 
+A.  
+According to the U.S. Department of Energy’s publicly accessible Alternative Fuels Data 
+1 
+Center, there are approximately 2,547 public L2 chargers (5,708 ports) using non-Tesla 
+2 
+technology, and 487 Tesla L2 chargers (1,160 ports) in New York State. Additionally, 
+3 
+there are approximately 166 DCFC chargers (395 ports) using non-Tesla technology, and 
+4 
+additional 70 DCFC chargers (647 ports) using Tesla charging technology statewide.  
+5 
+The U.S. Department of Energy’s Alternative Fuels Data Center only collects data on 
+6 
+publicly accessible EVSE.  While New York has made notable progress toward achieving 
+7 
+the targeted number of EVSE, there is still a tremendous amount of EVSE yet to be 
+8 
+deployed to support New York’s policy goals.   
+9 
+Q.  
+Can you provide a description of the Companies’ EV proposals? 
+10 
+A.  
+The Companies are proposing three new transportation electrification programs as part of 
+11 
+their 2022 rate case: a municipal curbside charging pilot, an EV charging hub pilot, and a 
+12 
+MHD vehicle make-ready program.    
+13 
+Q.  
+What is the proposed municipal curbside charging pilot?  
+14 
+A.  
+The Companies are proposing to assist two to four municipal partners to create EV 
+15 
+charging infrastructure for customers who do not have access to residential or home 
+16 
+charging.  The proposed program is designed to support up to 200 L2 chargers and will 
+17 
+be financed through the existing light-duty Make-Ready Program. 
+18 
+Q. 
+Please explain L2 charging. 
+19 
+
+
+--- Page 8 ---
+Direct Testimony of John Markowitz 
+New York Power Authority 
+Cases 22-E-0317 et al. 
+Page 7 of 12 
+ 
+ 
+ 
+ 
+A. 
+L2 chargers operate at between 208 and 240 volts, making them at least two times faster 
+1 
+than Level 1 charging, which is where power is drawn from a standard 120-volt wall 
+2 
+outlet.  L2 charging speeds vary depending on the size of the EV’s battery and the 
+3 
+vehicle’s maximum charge rate, ranging from as little as 12 miles per hour charging to 80 
+4 
+miles per hour charging.1   
+5 
+Q. 
+Do you support the Companies’ proposed municipal curbside charging pilot? 
+6 
+A. 
+Yes.  L2 chargers are widely considered the most common type of charger level used for 
+7 
+daily charging.  L2 chargers are versatile – they can be installed in homes, at workplaces, 
+8 
+and in public locations – and are generally far more affordable because power is provided 
+9 
+at a lower level over an extended period of time.  For these reasons, the availability of L2 
+10 
+chargers is very important for spurring confidence in adopting an EV, especially when 
+11 
+home or residential charging is not an option.  In its 2020 order establishing the Make-
+12 
+Ready Program, the Commission cited to New York State Department of Public Service 
+13 
+Staff’s assumption that 57 percent of EV drivers in the New York City (“NYC”) metro 
+14 
+area and 82 percent in rest of state will charge or will have the capability of charging at 
+15 
+home.  Based on this assumption, especially in the NYC metro area, L2 chargers will be 
+16 
+critical to ensure that drivers who do not have the capability to charge at home can drive 
+17 
+an EV with confidence.   
+18 
+ 
+1 Tom Moloughney, What Are The Different Levels Of Electric Vehicle Charging?, Forbes (October 4, 2021), 
+available at: https://www.forbes.com/wheels/advice/ev-charging-levels/  
+
+
+--- Page 9 ---
+Direct Testimony of John Markowitz 
+New York Power Authority 
+Cases 22-E-0317 et al. 
+Page 8 of 12 
+ 
+ 
+ 
+ 
+Q. 
+Do you have any recommended modifications to the proposed municipal curbside 
+1 
+charging pilot? 
+2 
+A. 
+I have no recommended modifications, but a few points for consideration.  If approved, 
+3 
+the Companies should make sure that at least some of the L2s deployed as part of the 
+4 
+municipal curbside charging pilot are sited adjacent to or near apartment buildings or 
+5 
+large places of work to provide easy access to charging to those who do not have the 
+6 
+ability to charge at home.  Those who are unable to charge at home, like apartment 
+7 
+renters, typically depend on being able to access L2 charging, either in public locations or 
+8 
+in workplace parking, that are convenient to them. Without adequate L2 charging, renters 
+9 
+will be discouraged from EV ownership given the perceived uncertainty of whether they 
+10 
+will be able to incorporate vehicle charging into their daily routine.   
+11 
+Additionally, the Companies should keep the program flexible by allowing siting 
+12 
+in publicly accessible municipal-owned parking lots if adequate curbside charging cannot 
+13 
+be found.  This will still permit convenient public access, as envisioned by the municipal 
+14 
+curbside charging pilot.   
+15 
+Q. 
+What is the proposed EV charging hub? 
+16 
+A. 
+The Companies are proposing to develop a new fast charging hub that would contain as 
+17 
+many as 80 fast chargers.   
+18 
+Q. 
+Do you support the proposed EV charging hub? 
+19 
+
+
+--- Page 10 ---
+Direct Testimony of John Markowitz 
+New York Power Authority 
+Cases 22-E-0317 et al. 
+Page 9 of 12 
+ 
+ 
+ 
+ 
+A. 
+Yes, I support the proposal to install a charging hub.  As discussed previously, the need 
+1 
+for charging capacity is great, so this will help reduce charging ability concerns and, 
+2 
+therefore, spur EV adoption.   
+3 
+Q. 
+Do you have any recommended modifications to the EV charging hub as proposed? 
+4 
+A. 
+Here again, no recommended modifications, just a point of consideration.  Fast charging 
+5 
+hubs, like the one proposed here, will be essential to supporting the electrification of the 
+6 
+MHD EV sector in particular.  Segments of this sector will have to regularly rely on fast 
+7 
+chargers when they are unable to recharge at their point of origin.  NYPA urges the 
+8 
+Companies to consider designing this EV charging hub in a way that ensures that the 
+9 
+MHD EV sector can easily and safely access and utilize these chargers.   
+10 
+Q. 
+Please explain the Companies’ third EV-related proposal, the MHD Make-Ready 
+11 
+Program.  
+12 
+A. 
+The Companies are proposing to create a MHD Make-Ready Program that would provide 
+13 
+a $6,000 per plug incentive for L2-related infrastructure and a $55,000 per plug incentive 
+14 
+for DCFC-related infrastructure.  As proposed, the Program will cover 100 percent of the 
+15 
+make-ready infrastructure cost for public sector fleets and 50 percent of the make-ready 
+16 
+infrastructure cost for private fleets.     
+17 
+Q. 
+Do you support the proposed MHD Make-Ready Program? 
+18 
+A. 
+Yes, I strongly support the Companies’ MHD Make-Ready Program.  Make-ready costs 
+19 
+for charging infrastructures designed to support MHD fleets pose a significant barrier to 
+20 
+
+
+--- Page 11 ---
+Direct Testimony of John Markowitz 
+New York Power Authority 
+Cases 22-E-0317 et al. 
+Page 10 of 12 
+ 
+ 
+ 
+ 
+deployment.  This proposed program would spur development of these chargers, and 
+1 
+therefore, spur the transition to electric MHD vehicles.   
+2 
+Q.  
+Can you elaborate on why make-ready costs pose a barrier for deployment of EV 
+3 
+charging infrastructure to support MHD EVs?  
+4 
+A. 
+As discussed previously, NYPA is working with a number of the public transit agencies 
+5 
+throughout the State to help them electrify their transit bus fleets.  From our work with 
+6 
+these entities, the estimations done for the Transit Bus Electrification Master Plans 
+7 
+determined that EV make-ready infrastructure is the second highest expense that transit 
+8 
+agencies face after costs for the electric buses themselves.  On average, we are seeing 
+9 
+total charger installation costs upwards from $155,000 per DCFC charger with make-
+10 
+ready costs accounting for approximately 38 percent of that total, or roughly $58,000 in 
+11 
+make-ready costs per DCFC.  Total charger costs and make-ready costs are very site-
+12 
+specific and vary based on different levels of current state of infrastructure for each 
+13 
+individual bus depot and disparity between indoor and outdoor infrastructure costs.   
+14 
+In many cases, these high costs could render the installation of these chargers 
+15 
+uneconomic, as many transit agencies who own and operate bus fleets already face 
+16 
+budgetary challenges and are unable to operate without state and federal funding. The 
+17 
+Companies proposed make-ready program provides a viable pathway for construction of 
+18 
+bus chargers, given otherwise insurmountable costs.  
+19 
+Q.  
+Why is it important to electrify the MHD EV sector?  
+20 
+
+
+--- Page 12 ---
+Direct Testimony of John Markowitz 
+New York Power Authority 
+Cases 22-E-0317 et al. 
+Page 11 of 12 
+ 
+ 
+ 
+ 
+A. 
+Electrification of the public transit segment of the MHD EV sector will result in public 
+1 
+health and overall operational cost benefits.  The replacement of diesel transit buses with 
+2 
+electric buses will provide many public health benefits to customers in the NYSEG and 
+3 
+RG&E service territories.  Bus depots and bus routes are generally located in populated 
+4 
+urban areas, such as Ithaca and Rochester, and are a point source of air and noise 
+5 
+pollution. Accordingly, transitioning towards electric bus fleets will reduce local GHG 
+6 
+emissions and emissions of other pollutants such as nitrogen oxide, particulate matter and 
+7 
+carbon monoxide, as well as reduce frequent disruptive sound that leads to negative 
+8 
+quality of life impacts.  
+9 
+Furthermore, although the upfront purchase price of an electric bus is about 
+10 
+$300,000 higher than that of a diesel bus, the overall lifetime costs of an electric bus are 
+11 
+approximately 12.5 percent lower than that of a diesel bus, given fuel and maintenance 
+12 
+cost savings. (See Exhibit__ (JM-1): Columbia University Electric Bus Analysis for New 
+13 
+York City, p. 16.)  This will be very significant for public transit MHD EV fleets, as 
+14 
+these fleets often face constrained budgets and the inability to fully recoup investment 
+15 
+costs through fares and other charges to the public.   
+16 
+Q.  
+Why is the utility best suited to fill this role for the make-ready programs? 
+17 
+A.  
+Utility investment in make-ready infrastructure can be justified by reference to the 
+18 
+established principle of line extension.  It is customary for utilities to cover the costs for 
+19 
+extending service lines to provide power supply up to designated distances or dollar 
+20 
+amounts.  Therefore, prudent investment in additional requisite electrical equipment up to 
+21 
+
+
+--- Page 13 ---
+Direct Testimony of John Markowitz 
+New York Power Authority 
+Cases 22-E-0317 et al. 
+Page 12 of 12 
+ 
+ 
+ 
+ 
+the point of load as proposed by the Company is justified to achieve important State 
+1 
+policy goals.  Given the potentially large loads associated with DCFC, Transit Bus and 
+2 
+L2 sites in the future, as well as the challenges of safely providing power to them and 
+3 
+managing their loads, utilities are in the well position to install and maintain the make-
+4 
+ready infrastructure.   
+5 
+Utilities also have in-house, qualified distribution engineers with unique and 
+6 
+exclusive knowledge of their distribution networks who are capable of managing 
+7 
+evolving loads, and who have experience with installation, operation and maintenance of 
+8 
+distribution electric infrastructure.  A make-ready program for MHD EVSE sites will 
+9 
+align the state policy goals with the utility’s obligations and expertise, while allowing 
+10 
+developers and customers to focus on their market role of site selection, construction and 
+11 
+station operation. Such a make-ready program would encourage the development of a 
+12 
+robust EV charging market while leveraging the strengths of all parties involved. 
+13 
+Q.  
+Do you have any recommended modifications to the proposed MHD Make-Ready 
+14 
+Program.  
+15 
+A. 
+No, I do not.  I think the program is scoped and designed appropriately, especially the 
+16 
+Companies’ proposal to cover 100 percent of the make-ready infrastructure cost for 
+17 
+public sector fleets; which, as explained previously, are often very budget constrained.   
+18 
+Q.  
+Does this conclude your testimony?  
+19 
+A.  
+Yes, it does.  
+20 

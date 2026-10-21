@@ -1,0 +1,2297 @@
+--- Page 1 ---
+ 
+BEFORE THE 
+NEW YORK STATE 
+PUBLIC SERVICE COMMISSION 
+----------------------------------------------------------------------------x 
+ 
+Proceeding on Motion of the Commission as to the 
+Rates, Charges, Rules and Regulations of  
+ 
+ 
+Case 22-E-0317 
+New York State Electric & Gas Corporation 
+for Electric Service 
+ 
+Proceeding on Motion of the Commission as to the 
+Rates, Charges, Rules and Regulations of  
+ 
+ 
+Case 22-G-0318 
+New York State Electric & Gas Corporation 
+for Gas Service 
+ 
+Proceeding on Motion of the Commission as to the 
+Rates, Charges, Rules and Regulations of  
+ 
+ 
+Case 22-E-0319 
+Rochester Gas and Electric Corporation 
+for Electric Service 
+ 
+Proceeding on Motion of the Commission as to the 
+Rates, Charges, Rules and Regulations of  
+ 
+ 
+Case 22-G-0320 
+Rochester Gas and Electric Corporation 
+for Gas Service 
+ 
+----------------------------------------------------------------------------x 
+ 
+ 
+REBUTTAL TESTIMONY OF  
+ELECTRIC OPERATIONS AND RELIABILITY PANEL 
+ 
+ 
+ 
+Michael Craven 
+Brian M. Harrell 
+Bryan D. LaPerle 
+Walter Matyjas 
+Mark Waclawiak 
+ 
+ 
+   
+October 18, 2022 
+
+
+--- Page 2 ---
+Case 22-E-0317; Case 22-G-0318; Case 22-E-0319; Case 22-G-0320 
+ 
+REBUTTAL TESTIMONY OF ELECTRIC OPERATIONS AND RELIABILITY PANEL 
+i 
+ 
+TABLE OF CONTENTS 
+1 
+I. 
+INTRODUCTION ..................................................................................................... 1 
+2 
+II. 
+STAFF’S ADJUSTMENTS TO ELECTRIC AND SECURITY CAPITAL 
+3 
+EXPENDITURE PROGRAMS ................................................................................. 5 
+4 
+III. 
+STAFF’S PROPOSAL FOR A SIX-YEAR TRIM CYCLE AT NYSEG .............. 12 
+5 
+IV. STAFF’S PROPOSAL FOR NYSEG’S RECLAMATION PROGRAM ............... 13 
+6 
+V. 
+STAFF’S DISMISSAL OF THE RECLAMATION ADJUSTMENT FACTOR ... 15 
+7 
+VI. STAFF’S OPPOSITION TO UPDATING NYSEG’S SAIFI TARGET ................ 20 
+8 
+VII. STAFF’S ELIMINATION OF 20 INCREMENTAL FTE POSITIONS ................ 31 
+9 
+VIII. PHYSICAL SECURITY ......................................................................................... 33 
+10 
+A. 
+ASD System Install ............................................................................................ 33 
+11 
+B. 
+Fire Protection .................................................................................................... 38 
+12 
+IX. CYBER SECURITY................................................................................................ 40 
+13 
+ 
+ 
+ 
+
+
+--- Page 3 ---
+Case 22-E-0317; Case 22-G-0318; Case 22-E-0319; Case 22-G-0320 
+ 
+REBUTTAL TESTIMONY OF ELECTRIC OPERATIONS AND RELIABILITY PANEL 
+ 
+ 
+ 
+I. 
+INTRODUCTION 
+1 
+Q.    
+Please state the names of the members on this Electric Operations and Reliability Panel 
+2 
+(“Panel”). 
+3 
+A. 
+We are Michael Craven, Brian M. Harrell, Bryan D. LaPerle, Walter Matyjas, and Mark 
+4 
+Waclawiak. 
+5 
+Q.    
+Did you sponsor the Direct Testimony of the Electric Operations and Reliability Panel of 
+6 
+New York State Electric & Gas Corporation (“NYSEG”) and Rochester Gas and Electric 
+7 
+Corporation (“RG&E” and together with NYSEG, the “Companies”) in these 
+8 
+proceedings?  
+9 
+A. 
+Yes. 
+10 
+Q.    
+Is the Panel sponsoring any exhibits in support of its Rebuttal Testimony? 
+11 
+A. 
+Yes, we are sponsoring the following exhibits: 
+12 
+1) Exhibit __ (EORP-R1) – provides the Companies’ response to Information Request 
+13 
+(“IR”) NYRC-1022 (DPS-621);  
+14 
+2) Exhibit __ (EORP-R2) – provides New York State Department of Public Service 
+15 
+Staff’s (“Staff”) responses to various IRs; 
+16 
+3) Exhibit __ (EORP-R3) – provides Example of Proposed Reclamation Adjustment 
+17 
+Factor; 
+18 
+4) Exhibit __ (EORP-R4) – contains project-level historical budget and actual spend 
+19 
+data regarding the Companies’ physical security programs; 
+20 
+5) Exhibit __ (EORP-R5) – contains a defined list of planned Life Cycle Replacement 
+21 
+projects for 2023 and 2024; and 
+22 
+
+
+--- Page 4 ---
+Case 22-E-0317; Case 22-G-0318; Case 22-E-0319; Case 22-G-0320 
+ 
+REBUTTAL TESTIMONY OF ELECTRIC OPERATIONS AND RELIABILITY PANEL 
+2 
+ 
+6) Exhibit __ (EORP-R6) – contains project-level historical budget and actual spend 
+1 
+data regarding the Companies’ Fire Protection programs. 
+2 
+Q.    
+What is the overall purpose of the Panel’s Rebuttal Testimony? 
+3 
+A. 
+To respond to Staff’s recommendations and adjustments as described in the testimony of 
+4 
+the Staff Electric Infrastructure and Operations Panel (“SEIOP”), the Staff Vegetation 
+5 
+Management Panel (“SVMP”), and the Staff Shared Services Panel (“SSSP”).  We 
+6 
+disagree with the SEIOP’s refusal to update NYSEG’s System Average Interruption 
+7 
+Frequency Index (“SAIFI”) performance target.  The SEIOP’s recommendation to 
+8 
+maintain NYSEG’s existing SAIFI target is inconsistent with past New York State Public 
+9 
+Service Commission (“Commission”) precedent and fails to acknowledge the real-world 
+10 
+circumstances that are negatively impacting NYSEG’s reliability performance, including 
+11 
+the SVMP’s recommendation that NYSEG continue to be the only major New York State 
+12 
+electric utility to not be on a full five-year distribution vegetation management trim cycle.  
+13 
+We also disagree with the SEIOP’s rejection of our proposed Reclamation Adjustment 
+14 
+Factor (“RAF”) for purposes of determining whether NYSEG has satisfied its agreed-
+15 
+upon rate case SAIFI performance incentive mechanism.  The RAF is consistent with 
+16 
+Commission Orders and is appropriate given that NYSEG customers are the only 
+17 
+customers in New York exposed to conditions on unreclaimed circuits.  We also disagree 
+18 
+with the SEIOP’s adjustments to our incremental Full-Time Equivalent (“FTE”) 
+19 
+positions, which we need for the continued safe and reliable operation of our electric 
+20 
+systems.  Finally, we acknowledge Staff’s general support for the Companies’ physical 
+21 
+and cyber security programs, including the Avangrid Domain (“ASD”) System Install 
+22 
+Project and the Fire Protection projects, and provide further historical and forecast budget 
+23 
+
+
+--- Page 5 ---
+Case 22-E-0317; Case 22-G-0318; Case 22-E-0319; Case 22-G-0320 
+ 
+REBUTTAL TESTIMONY OF ELECTRIC OPERATIONS AND RELIABILITY PANEL 
+3 
+ 
+information requested in Staff’s testimony.  We continue to support these important 
+1 
+projects, which are needed to secure the Companies’ systems and protect our customers, 
+2 
+employees, and assets from outside threats. 
+3 
+Q.    
+Does the Panel have any overarching concerns with Staff’s testimony and proposals with 
+4 
+respect to electric operations and reliability? 
+5 
+A. 
+Yes.  We have several concerns with Staff’s proposals as they relate to the operation and 
+6 
+reliability of the electric system, which are summarized into the following six areas: 
+7 
+1) Staff’s adjustments to fundamental capital expenditure programs are subjective, 
+8 
+inconsistent with the historic expenditures, and leave the Companies exposed to 
+9 
+clearly articulated performance challenges, particularly aging infrastructure; 
+10 
+2) Staff’s proposal to move NYSEG to a comprehensive six-year distribution vegetation 
+11 
+management trim cycle would be a step in the right direction, but NYSEG would still 
+12 
+be the only major electric utility in New York State not predominantly on a five-year 
+13 
+trim cycle and its customers would continue to be impacted by unreclaimed circuits;  
+14 
+3) Under Staff’s proposal, it will take at least six years to fully reclaim the unabated tree 
+15 
+growth on nearly 10,000 circuit miles that currently serve 361,000 NYSEG 
+16 
+customers.  During this time, the unreclaimed circuits will continue to face increasing 
+17 
+exposure to tree-related outages; 
+18 
+4) Staff’s dismissal of the RAF leaves NYSEG inequitably exposed to negative revenue 
+19 
+adjustments (“NRAs”) for tree exposure that the Company cannot practicably 
+20 
+mitigate during the next three years; 
+21 
+
+
+--- Page 6 ---
+Case 22-E-0317; Case 22-G-0318; Case 22-E-0319; Case 22-G-0320 
+ 
+REBUTTAL TESTIMONY OF ELECTRIC OPERATIONS AND RELIABILITY PANEL 
+4 
+ 
+5) Staff’s refusal to consider updating NYSEG’s 20-year-old SAIFI target is inconsistent 
+1 
+with Staff’s and the Commission’s past practices and ignores the empirical realities of 
+2 
+the current performance challenges; and 
+3 
+6) Staff’s rejection of 20 incremental FTEs lacks consideration of the specific 
+4 
+operational challenges attributed to these positions as well as the Companies’ 
+5 
+preparedness to recruit and fill these positions. 
+6 
+In general, Staff’s adjustments to the Companies’ electric capital expenditures 
+7 
+program and vegetation management proposals (NYSEG particularly) will adversely 
+8 
+affect the operations and reliability of our electric system.  Staff’s proposals provide 
+9 
+insufficient mitigation for the fundamental reliability challenges the Companies are 
+10 
+currently contending with.  The Companies provided extensive discussion, analysis, and 
+11 
+exhibits substantiating these challenges in the Direct Testimony of the Electric 
+12 
+Operations and Reliability Panel, as well as in various responses to numerous information 
+13 
+requests (“IRs”).  As this Rebuttal Testimony will make clear, while, in some instances, 
+14 
+Staff’s proposals are directionally aligned with the Companies’ proposals, in most 
+15 
+instances Staff’s adjustments would leave the Companies short of the necessary resources 
+16 
+and funding required to overcome challenges hindering the Companies’ ability to provide 
+17 
+safe, adequate and reliable electric service over the 2022-2026 five-year period (the 
+18 
+“Capital Forecast Period”).   
+19 
+
+
+--- Page 7 ---
+Case 22-E-0317; Case 22-G-0318; Case 22-E-0319; Case 22-G-0320 
+ 
+REBUTTAL TESTIMONY OF ELECTRIC OPERATIONS AND RELIABILITY PANEL 
+5 
+ 
+II. 
+STAFF’S ADJUSTMENTS TO ELECTRIC AND SECURITY CAPITAL 
+1 
+EXPENDITURE PROGRAMS  
+2 
+Q.    
+Are the Companies’ current infrastructure challenges more difficult than in prior periods? 
+3 
+A. 
+Yes.  In our Direct Testimony, we provided extensive discussion and analysis indicating 
+4 
+that the Companies’ collective exposure to equipment entering advanced service age is 
+5 
+significantly more than it has been in prior periods.  So too is the Companies’ need to 
+6 
+mitigate the corresponding degradation in system reliability.   
+7 
+Q.    
+As the Companies’ exposure to these challenges increases, do the recent historic levels of 
+8 
+capital expenditures for things like asset condition provide adequate mitigation?  
+9 
+A. 
+No, continuing to spend at recent historic capital expenditure levels is not adequate to 
+10 
+address our current asset condition challenges and improve system reliability. 
+11 
+Q.    
+What impact does the SEIOP proposal have on the fundamental programs needed to 
+12 
+operate a safe, adequate, and reliable electric system? 
+13 
+A. 
+In many instances Staff is reducing the scope of such programs to levels that are less than 
+14 
+historic expenditure levels, let alone the levels proposed by the Companies.  In such 
+15 
+instances, these adjustments contradict the SEIOP’s assertion that their recommendations 
+16 
+will improve SAIFI. 
+17 
+Q.    
+How are the SEIOP’s adjustments inconsistent with historic spend levels and contrary to 
+18 
+the levels necessary for safe, adequate, and reliable electric service? 
+19 
+A. 
+The Rebuttal Testimony of the Electric and Common Capital Expenditures Panel 
+20 
+addresses this issue in detail.  In addition, we address the following five examples of 
+21 
+SEIOP adjustments that are particularly concerning relative to the challenges we have 
+22 
+described in our Direct Testimony and responses to IRs: 
+23 
+
+
+--- Page 8 ---
+Case 22-E-0317; Case 22-G-0318; Case 22-E-0319; Case 22-G-0320 
+ 
+REBUTTAL TESTIMONY OF ELECTRIC OPERATIONS AND RELIABILITY PANEL 
+6 
+ 
+1) Distribution Line Inspection (“DLI”) Program; 
+1 
+2) Electric Operations Line Inspection Program; 
+2 
+3) Circuit Breaker Replacement Program; 
+3 
+4) Wood Pole Inspect and Treat (“WPIT”) Program; and 
+4 
+5) Underground Replacement Programs at RG&E. 
+5 
+While these five examples are not our only concerns, they do represent instances 
+6 
+where the SEIOP has made adjustments that are subjective, inconsistent with historic 
+7 
+expenditure levels, and are likely to increase the Companies’ exposure to reliability 
+8 
+degradation, not improve it. 
+9 
+Q.    
+Do the Companies agree with the SEIOP’s adjustments to the Companies’ Distribution 
+10 
+Line Inspection Program? 
+11 
+A. 
+No.  On page 126 of its testimony, the SEIOP asserted the DLI Program will improve 
+12 
+SAIFI.  Yet, the SEIOP is reducing the Companies’ proposed expenditure levels by 33% 
+13 
+($57.5 million) and 30% ($16 million) for NYSEG and RG&E, respectively, during the 
+14 
+Capital Forecast Period.  Even more concerning, however, is the way these adjustments 
+15 
+are inconsistent with the Companies’ historic expenditure levels.  For example, in the 
+16 
+most recent three years (2019 through 2021), NYSEG’s average annual expenditures 
+17 
+were $43 million; for the three-year period of 2023 through 2025, the SEIOP is proposing 
+18 
+an annual average of $23 million, which is 53% less than the known and measurable 
+19 
+historical expenditure levels.  Staff made similar adjustments to this program for RG&E 
+20 
+as well.  Contrary to the SEIOP’s suggestion, these substantially reduced expenditure 
+21 
+levels will not mitigate NYSEG’s increasing SAIFI challenges.   
+22 
+
+
+--- Page 9 ---
+Case 22-E-0317; Case 22-G-0318; Case 22-E-0319; Case 22-G-0320 
+ 
+REBUTTAL TESTIMONY OF ELECTRIC OPERATIONS AND RELIABILITY PANEL 
+7 
+ 
+Q.    
+Please address the SEIOP’s proposed adjustments to the Electric Operations Line 
+1 
+Inspection Program. 
+2 
+A. 
+The SEIOP’s adjustments are inconsistent with both historic expenditure levels and the 
+3 
+compliance obligations set forth by the Commission for this program.  For example, for 
+4 
+2019 through 2021, the average annual expenditures for the program at NYSEG and 
+5 
+RG&E were $28.9 million and $1.9 million, respectively.  Under the SEIOP’s proposal, 
+6 
+NYSEG would spend $6.2 million ($22 million less than the last three year average 
+7 
+actual spend), and RG&E would spend $853,000 ($1.0 million less than the average 
+8 
+actual spend).  The SEIOP’s proposed adjustments appear to bear no correlation to the 
+9 
+actual expenditure levels that have been occurring at either Company over the past three 
+10 
+years, nor do they appear to acknowledge the specific compliance obligations set forth by 
+11 
+the Commission for this program. 
+12 
+Q.    
+How will Staff’s proposed adjustments impact the Companies’ abilities to fulfill the DLI 
+13 
+compliance obligations set forth by the Commission? 
+14 
+A. 
+Currently, the DLI programs at NYSEG and RG&E identify approximately 1,200 and 
+15 
+200 annual compliance obligations, respectively, with respect to Level 1 and Level 2 
+16 
+deficiencies.  Staff’s proposed adjustments would allow the Companies to correct at most 
+17 
+only 800 deficiencies at NYSEG and 150 deficiencies at RG&E.  The SEIOP’s proposed 
+18 
+funding, therefore, would create an increasing volume of backlogs and expose the 
+19 
+Companies to NRAs related to their DLI Program Metric for Level II Deficiencies as 
+20 
+provided for in the 2020 Joint Proposal. 
+21 
+
+
+--- Page 10 ---
+Case 22-E-0317; Case 22-G-0318; Case 22-E-0319; Case 22-G-0320 
+ 
+REBUTTAL TESTIMONY OF ELECTRIC OPERATIONS AND RELIABILITY PANEL 
+8 
+ 
+Q. 
+Is the Companies’ fleet of circuit breakers increasingly exposed to failures? 
+1 
+A. 
+Yes.  The circuit breaker asset class continues to age, and failure rates continue to 
+2 
+increase.  For example, over the past five years, circuit breaker failures have increased by 
+3 
+20%, with an average of 2,328 customers affected per each breaker failure.  The 
+4 
+investment necessary to proactively replace high risk circuit breakers is critical, and the 
+5 
+expenditures must be maintained at a rate commensurate with the increasing risk.  While 
+6 
+the SEIOP’s testimony extolls the benefits of this program, they are proposing to 
+7 
+significantly reduce the funding for this program, which reduces the programs benefits by 
+8 
+creating an increasing exposure (and corresponding replacement backlog) to high-risk 
+9 
+circuit breaker failures. 
+10 
+Q. 
+Are there additional risks to running circuit breakers to failure?  
+11 
+A. 
+Yes.  Circuit breakers can fail catastrophically, creating a safety risk for both the public 
+12 
+and utility workers.  Failed circuit breakers can also “stick” in fault conditions, resulting 
+13 
+in upstream protective device operation and widespread substation outages that affect 
+14 
+considerably larger amounts of customers. 
+15 
+Q. 
+Is there a benefit to proactive replacement as opposed to a “run-to-failure” approach? 
+16 
+A. 
+Yes.  A run-to-failure approach exposes our customers to significant reliability impact, as 
+17 
+well as safety risk if the equipment fails catastrophically.  Reactive failures are also 
+18 
+considerably more costly to address than planned replacements.  This can be 
+19 
+compounded by the long lead times associated with procuring this type of equipment.  By 
+20 
+proactively replacing high risk circuit breakers before they fail, the Companies are able to 
+21 
+mitigate both the reliability and safety concerns associated with this widening exposure.  
+22 
+
+
+--- Page 11 ---
+Case 22-E-0317; Case 22-G-0318; Case 22-E-0319; Case 22-G-0320 
+ 
+REBUTTAL TESTIMONY OF ELECTRIC OPERATIONS AND RELIABILITY PANEL 
+9 
+ 
+Q.    
+Please provide an example of this high-risk portion of the circuit breaker fleet. 
+1 
+A. 
+At NYSEG, the Company has identified 666 circuit breakers in poor condition (588 of 
+2 
+which are at least 50 years old) and 127 breakers in very poor condition (almost all of 
+3 
+which are at least 50 years old).  Respectively, there are 438,416 customers connected to 
+4 
+the circuit breakers that are in poor condition, and 89,641 customers connected to the 
+5 
+circuit breakers in very poor condition. 
+6 
+Q.    
+Do you agree with the SEIOP’s adjustments to the WPIT Program? 
+7 
+A. 
+No.  The proposed adjustments leave insufficient resources to address NYSEG’s 
+8 
+exposure to the advanced age of this class of assets.  For example, on page 18 of the 
+9 
+Direct Testimony of the Electric Operations and Reliability Panel, the Companies 
+10 
+indicated that within NYSEG’s fleet of 810,000 distribution poles, 25% of the poles are 
+11 
+more than 60 years old.  That is approximately 200,000 wood poles that were installed 
+12 
+prior to the advent of color television.  The inspection and condition data for these poles 
+13 
+indicates that they are increasingly failure prone.  Even if these poles had another decade 
+14 
+of safe and reliable service life (at which point the youngest of these poles would be 70 
+15 
+years old), phasing them out over a subsequent decade would require no less than 20,000 
+16 
+pole replacements per year.  In addition, that annual volume would not include the 
+17 
+replacement of any other poles whose condition warranted replacement.  Accordingly, 
+18 
+the Company established a formalized WPIT program to itemize this category of 
+19 
+increasing work. 
+20 
+Q.    
+What are the SEIOP’s proposed adjustments to NYSEG’s WPIT Program? 
+21 
+A. 
+For 2023-2026, the Company proposed approximately $135 million for this program, 
+22 
+which is about $34 million per year.  This amounts to approximately 3,300 annual pole 
+23 
+
+
+--- Page 12 ---
+Case 22-E-0317; Case 22-G-0318; Case 22-E-0319; Case 22-G-0320 
+ 
+REBUTTAL TESTIMONY OF ELECTRIC OPERATIONS AND RELIABILITY PANEL 
+10 
+ 
+replacements (4% of the total pole population).  The SEIOP proposed to reduce the total 
+1 
+investment to approximately $35 million, which is about $8.8 million per year.  This 
+2 
+amounts to approximately 860 annual pole replacements (1% of the pole population). 
+3 
+Q.    
+What are the implications of the SEIOP’s proposal? 
+4 
+A. 
+The SEIOP’s proposal creates increasing annual exposure to backlogs.  For example, 
+5 
+NYSEG currently has over 7,400 wood poles that have been identified as requiring 
+6 
+replacement.  The SEIOP’s proposal would not address the mitigation of this backlogged 
+7 
+volume of work, let alone the additional influx of replacement work from ongoing 
+8 
+inspections. 
+9 
+Q.    
+Has the Company been able to scale-up its resources to address the increasing volume of 
+10 
+pole replacement work? 
+11 
+A. 
+Yes.  The Company leverages its contractor workforce to scale-up the resources 
+12 
+necessary to execute the scope and schedule of this program.  For example, in 2021, 
+13 
+NYSEG tripled the volume of its annual pole replacements. 
+14 
+Q.    
+Does RG&E have a similar WPIT Program? 
+15 
+A. 
+Yes.  For 2023-2026, RG&E proposed approximately $25 million for its WPIT Program, 
+16 
+which is about $9.6 million per year.  This amounts to approximately 930 annual pole 
+17 
+replacements.  While RG&E’s fleet of poles has less exposure to advanced age than 
+18 
+NYSEG’s, the Company still has over 2,100 poles that have been identified as currently 
+19 
+requiring replacement.  Staff is proposing to reduce the annual replacements to 
+20 
+approximately 230.  
+21 
+
+
+--- Page 13 ---
+Case 22-E-0317; Case 22-G-0318; Case 22-E-0319; Case 22-G-0320 
+ 
+REBUTTAL TESTIMONY OF ELECTRIC OPERATIONS AND RELIABILITY PANEL 
+11 
+ 
+Q.    
+Did the Companies provide detailed information on the scope and cost of their pole 
+1 
+replacement activities? 
+2 
+A. 
+Yes.  The Company’s response to NYRC-1022 (DPS-621), included in Exhibit __ 
+3 
+(EORP-R1), provides a comprehensive assessment of the annual pole replacements that 
+4 
+have occurred at both Companies in total and by operating division.  The response also 
+5 
+includes detailed analysis on the historic pole replacement costs and provides analysis on 
+6 
+historic and projected expenditure levels. 
+7 
+Q.    
+Do you agree with the SEIOP’s adjustments to RG&E’s Underground Cable 
+8 
+Replacement and URD Replacement Programs? 
+9 
+A. 
+No.  The Company has provided specific examples of RG&E’s considerable exposure to 
+10 
+the advanced service age of its underground infrastructure.  For example, page 32 of the 
+11 
+Electric and Common Capital Expenditures Panel Direct Testimony indicated that 
+12 
+“approximately 510 sections of aged and obsolete cable were identified, with the oldest 
+13 
+installation being 101 years old as of 2021.”  Also, on page 21 of our Direct Testimony 
+14 
+we stated “RG&E is proposing to expand its programs for addressing its aging 
+15 
+underground distribution infrastructure, particularly the higher-risk areas.”  RG&E 
+16 
+identified a need to invest approximately $17.7 million in these two programs from 2023 
+17 
+through 2026.  Staff proposes to reduce this investment to $7.4 million.  While these are 
+18 
+new programs, conducting underground construction in urban areas is notably more 
+19 
+difficult and expensive than overhead distribution work.  The SEIOP’s proposal does not 
+20 
+provide resources to sufficiently mobilize these programs, nor will it allow for the 
+21 
+empirical results needed to adequately assess the cost of RG&E’s replacement 
+22 
+obligations.  
+23 
+
+
+--- Page 14 ---
+Case 22-E-0317; Case 22-G-0318; Case 22-E-0319; Case 22-G-0320 
+ 
+REBUTTAL TESTIMONY OF ELECTRIC OPERATIONS AND RELIABILITY PANEL 
+12 
+ 
+III. 
+STAFF’S PROPOSAL FOR A SIX-YEAR TRIM CYCLE AT NYSEG 
+1 
+Q.    
+Do you agree with the SVMP’s proposal for a six-year distribution vegetation 
+2 
+management trim cycle at NYSEG? 
+3 
+A. 
+No.  While having the NYSEG system on a recurring six-year distribution vegetation 
+4 
+management trim cycle is an improvement over the current vegetation management 
+5 
+program, the near-term benefits of this improvement are negated by the continuing need 
+6 
+to mitigate nearly 10,000 miles of circuits that have yet to be reclaimed.  In addition, 
+7 
+Staff’s assumptions about the transition from the current program to the six-year trim 
+8 
+cycle are unclear.  Further, the SEIOP’s assertion on page 126 of its testimony – that the 
+9 
+six-year full trim cycle will improve SAIFI – is questionable, particularly given that the 
+10 
+reclamation program will require at least six years to complete, during which time 
+11 
+NYSEG and its customers will continue to be exposed to unabated tree growth on the 
+12 
+unreclaimed circuits. 
+13 
+Q.    
+Does the six-year trim cycle address the problems associated with the unreclaimed 
+14 
+circuits? 
+15 
+A. 
+No, the six-year trim cycle will not fully address the reliability impacts associated with 
+16 
+the nearly 10,000 miles of currently unreclaimed circuits until those circuits are 
+17 
+eventually reclaimed.  In the interim, the scope of the six-year trim cycle will focus on 
+18 
+the circuits that are already reclaimed.  As indicated on page 11 of our Direct Testimony, 
+19 
+18,600 miles (64%) of NYSEG’s distribution system is reclaimed and/or had been 
+20 
+trimmed within the last 5 years.  While converting these circuits to a recurring trim cycle 
+21 
+is a best practice employed by every other major electric utility in New York, its near-
+22 
+term benefits are negated by the continuing and significant presence of unreclaimed 
+23 
+
+
+--- Page 15 ---
+Case 22-E-0317; Case 22-G-0318; Case 22-E-0319; Case 22-G-0320 
+ 
+REBUTTAL TESTIMONY OF ELECTRIC OPERATIONS AND RELIABILITY PANEL 
+13 
+ 
+circuits.  As such, NYSEG’s pervasive exposure to tree contacts on these unreclaimed 
+1 
+circuits remains a principal risk to the Company’s SAIFI performance. 
+2 
+Q.    
+Has the Company provided Staff with analysis indicating NYSEG’s pervasive exposure 
+3 
+to tree contacts on the unreclaimed circuits? 
+4 
+A. 
+Yes.  In the Company’s response to DPS-366, an excerpt of which is shown below, 
+5 
+NYSEG provided clear examples of the notable impact of tree contacts emanating from 
+6 
+the unreclaimed circuits:   
+7 
+IV. 
+STAFF’S PROPOSAL FOR NYSEG’S RECLAMATION PROGRAM 
+9 
+Q.    
+How do the SVMP’s adjustments affect NYSEG’s Reclamation Program? 
+10 
+A. 
+While Staff has provided for an increase in the annual funding for the Reclamation 
+11 
+Program (increasing it from $17.2 million to $20.8 million), this increase is less than the 
+12 
+$25 million proposed by the Company.  There is no question that the Reclamation 
+13 
+Program is an effective part of transitioning NYSEG to a recurring trim cycle, and the 
+14 
+Commission’s support of this transition has been instrumental.  However, the timeframe 
+15 
+for completing the Reclamation Program has a direct correlation to reducing the exposure 
+16 
+to pervasive tree contacts, which are the single largest contributor to NYSEG’s SAIFI 
+17 
+challenges.  Reducing the funding for the Reclamation Program extends this horizon to at 
+18 
+least six years, particularly when considering the possibility that trim specifications may 
+19 
+
+
+--- Page 16 ---
+Case 22-E-0317; Case 22-G-0318; Case 22-E-0319; Case 22-G-0320 
+ 
+REBUTTAL TESTIMONY OF ELECTRIC OPERATIONS AND RELIABILITY PANEL 
+14 
+ 
+need to change, as discussed in the rebuttal testimony of the Companies’ Vegetation 
+1 
+Management Panel.  During this time, the 361,000 customers served by these 
+2 
+unreclaimed circuits (40% of NYSG’s customers) will have continued exposure to 
+3 
+degrading performance.  As such, expediting the completion of the Reclamation Program 
+4 
+is a high-value priority. 
+5 
+Q.    
+Please describe how Staff’s proposed funding of the Reclamation Program affects 
+6 
+customers.  
+7 
+A. 
+During the six years it will take NYSEG to reclaim its entire system, 361,000 customers 
+8 
+served by the nearly 10,000 remaining miles of unreclaimed circuits will have their 
+9 
+reliability exposed to continued, unabated tree growth.  Therefore, materially accelerating 
+10 
+the pace of the Reclamation Program, not decelerating it, is essential.  
+11 
+Q.    
+Is NYSEG the only major electric utility in New York to have such exposure? 
+12 
+A. 
+Yes.  NYSEG is the only major electric utility in New York to be without any form of 
+13 
+recurring vegetation management on a substantial portion of its distribution system.  To 
+14 
+be clear – this is more than just the lack of a recurring trim cycle; many of the 
+15 
+unreclaimed circuits have been exposed to unabated tree growth for more than ten years.  
+16 
+Many of these circuits are in some of the most heavily forested areas of New York State. 
+17 
+Q.    
+The SVMP testimony states on page 15 that “tree related outages decreased by 
+18 
+approximately eight percent from 2020 levels” and then goes on to assert that this change 
+19 
+is attributable to the vegetation management program approved in the last rate case.  
+20 
+Please comment on Staff’s assertion. 
+21 
+A. 
+As demonstrated by Staff’s response to NYSEG-RGE-055, included in Exhibit __ 
+22 
+(EORP-R2), the SVMP testimony mischaracterizes recent trends in tree-related outages.  
+23 
+
+
+--- Page 17 ---
+Case 22-E-0317; Case 22-G-0318; Case 22-E-0319; Case 22-G-0320 
+ 
+REBUTTAL TESTIMONY OF ELECTRIC OPERATIONS AND RELIABILITY PANEL 
+15 
+ 
+Specifically, in the response to NYSEG-RGE-055 Staff affirms that: 1) the number of 
+1 
+annual tree contacts at NYSEG has increased significantly since 2017; 2) the number of 
+2 
+tree contacts at NYSEG for 2020 and 2021 are record highs; and 3) since 2016, the 
+3 
+number of customers affected by tree contacts increased every year, until the 8% decline 
+4 
+in 2021.  Furthermore, the number of tree contacts occurring at NYSEG in 2020 and 
+5 
+2021 are almost identical.  As part of its response to NYSEG-RGE-055, Staff also agrees 
+6 
+that “the same number of annual tree contacts, occurring on different parts of a circuit, 
+7 
+can result in a different number of customers affected, even though the same amount of 
+8 
+tree contacts has occurred.”  This data related to tree-related outages clearly demonstrates 
+9 
+that NYSEG remains significantly exposed to pervasive and unabated tree contacts on its 
+10 
+unreclaimed circuits.  
+11 
+V. 
+STAFF’S DISMISSAL OF THE RECLAMATION ADJUSTMENT FACTOR 
+12 
+Q.    
+Please summarize NYSEG’s proposed RAF. 
+13 
+A. 
+For the period during which the Reclamation Program is underway (and reducing the 
+14 
+non-cycle portion of the NYSEG system), NYSEG would exclude the effect of tree 
+15 
+contacts occurring on unreclaimed circuits from the calculation of determining whether it 
+16 
+has satisfied its agreed-upon rate case SAIFI performance incentive mechanism.  
+17 
+Specifically, the SAIFI value used in calculating NYSEG’s SAIFI performance incentive 
+18 
+mechanism – temporarily, and for this purpose only – would be reduced by an amount 
+19 
+equal to the tree interruptions occurring on any circuits that have yet to be reclaimed.  
+20 
+This reduced SAIFI value would be the basis for determining if NYSEG would be subject 
+21 
+to an NRA.  The number of outages subject to this adjustment would decline each year 
+22 
+because the number of circuits that still require reclamation will be declining each year.  
+23 
+
+
+--- Page 18 ---
+Case 22-E-0317; Case 22-G-0318; Case 22-E-0319; Case 22-G-0320 
+ 
+REBUTTAL TESTIMONY OF ELECTRIC OPERATIONS AND RELIABILITY PANEL 
+16 
+ 
+The RAF would effectively phase out when the Reclamation Program is completed.  A 
+1 
+fully documented example of the RAF is provided as Exhibit __ (EORP-R3).  This same 
+2 
+RAF example was included as an exhibit to our Direct Testimony, but we are providing it 
+3 
+again here for ease of reference. 
+4 
+Q.    
+Why is the RAF appropriate? 
+5 
+A. 
+As mentioned earlier, because NYSEG has not had a full-cycle distribution vegetation 
+6 
+management program, it is the only major electric utility in New York State that is 
+7 
+exposed to unreclaimed circuits with unabated tree growth.  The extraordinary condition 
+8 
+of NYSEG’s unreclaimed circuits would be considered abnormal operating conditions for 
+9 
+other utilities in New York.  In light of NYSEG’s unique circumstances, the RAF is 
+10 
+appropriate because it excludes the extraordinary conditions resulting from unmitigated 
+11 
+tree contacts, and the resulting impact on SAIFI measures.   
+12 
+Q.    
+Does Staff agree with the RAF? 
+13 
+A. 
+No.  Page 129 of the SEIOP testimony asserts that the RAF is unwarranted, because the 
+14 
+SEIOP “expect[s] tree related SAIFI [to] continue to improve as a result of the … 
+15 
+additional vegetation funding approved in the last rate case.”   
+16 
+Q.    
+Has Staff provided any analysis indicating the extent to which the incremental vegetation 
+17 
+management funding improved SAIFI? 
+18 
+A. 
+No.  Moreover, neither the SEIOP nor the SVMP has provided any indication of how 
+19 
+they expect a delayed Reclamation Program to result in a SAIFI improvement when 
+20 
+compared to the Company’s proposal to reclaim the system in five years.   
+21 
+
+
+--- Page 19 ---
+Case 22-E-0317; Case 22-G-0318; Case 22-E-0319; Case 22-G-0320 
+ 
+REBUTTAL TESTIMONY OF ELECTRIC OPERATIONS AND RELIABILITY PANEL 
+17 
+ 
+Q.    
+Do you agree with Staff’s assertion that NYSEG is proposing to exclude from its SAIFI 
+1 
+reporting any tree contacts occurring on the unreclaimed circuits? 
+2 
+A. 
+No.  NYSEG is not proposing to change the way it reports its annual SAIFI performance 
+3 
+in any way.  In fact, we agree with the SEIOP testimony (page 129) that “it is also 
+4 
+important to include all outage data since each cause provides valuable information that 
+5 
+is needed to evaluate SAIFI and develop corrective actions.”  To be clear, NYSEG’s 
+6 
+proposal for a RAF has no relation to the way the Company reports its annual SAIFI 
+7 
+performance to the Commission.  The RAF, which is entirely separate from reliability 
+8 
+reporting, would be wholly contained within how NYSEG calculates its SAIFI for 
+9 
+purposes of determining whether NYSEG has satisfied its agreed-upon rate case SAIFI 
+10 
+performance incentive mechanism. 
+11 
+Q.    
+Do you agree with the SEIOP that the Order Adopting Standards on Reliability and 
+12 
+Quality of Electric Service Standards issued in Case 90-E-1119 (the “Order on Reliability 
+13 
+Standards”) is inconsistent with the RAF? 
+14 
+A. 
+No.  The Order on Reliability Standards addresses how SAIFI should be calculated for 
+15 
+purposes of annual reliability reporting.  As previously indicated, the Company is not 
+16 
+seeking to avoid its annual reliability reporting or any of the obligations set forth in the 
+17 
+Order on Reliability Standards.  Instead, the Company is proposing to adjust the way its 
+18 
+SAIFI is calculated for purposes of determining whether NYSEG has met its agreed-upon 
+19 
+rate case SAIFI performance incentive mechanism. 
+20 
+
+
+--- Page 20 ---
+Case 22-E-0317; Case 22-G-0318; Case 22-E-0319; Case 22-G-0320 
+ 
+REBUTTAL TESTIMONY OF ELECTRIC OPERATIONS AND RELIABILITY PANEL 
+18 
+ 
+Q.    
+Has the Commission indicated where changes to reliability performance incentives 
+1 
+should be addressed? 
+2 
+A. 
+Yes.  In the Commission’s Order in Case 02-E-1240 - Proceeding on Motion of the 
+3 
+Commission to Examine Electric Service Standards and Methodologies (which updates 
+4 
+the Order on Reliability Standards), the Commission indicates on page 24 that “changes 
+5 
+to rate plan reliability incentive mechanisms shall be addressed in rate proceedings, not 
+6 
+here.”  Accordingly, the Company’s proposal to implement a RAF in this rate case, 
+7 
+which pertains to the calculation of SAIFI for purposes of NYSEG’s rate case SAIFI 
+8 
+incentive mechanism, is completely consistent with the Commission’s aforementioned 
+9 
+directive and does not conflict with the Order on Reliability Standards. 
+10 
+Q.    
+Would the RAF be a permanent part of the calculation of NYSEG’s rate case SAIFI 
+11 
+performance incentive mechanism? 
+12 
+A. 
+No.  As previously mentioned, the RAF is only relevant over the course of the 
+13 
+Reclamation Program.  Furthermore, the Company has designed the RAF to assure that it 
+14 
+only addresses the tree contacts on unreclaimed circuits that remain in any given year.  
+15 
+As such, the scope of the RAF shrinks as the Reclamation Program nears completion.  By 
+16 
+the end of the Reclamation Program, the RAF would no longer affect the SAIFI NRA 
+17 
+calculations. 
+18 
+Q.    
+If NYSEG incurs SAIFI-related NRAs, does the SEIOP agree with NYSEG’s proposal to 
+19 
+use those NRAs to accelerate the Reclamation Program? 
+20 
+A. 
+No, the SEIOP rejects this proposal asserting on pages 130-131 of its testimony that “this 
+21 
+is not the Commission’s practice” and “the vegetation plan was well thought out as part 
+22 
+of the last rate case and does not need to be altered.” 
+23 
+
+
+--- Page 21 ---
+Case 22-E-0317; Case 22-G-0318; Case 22-E-0319; Case 22-G-0320 
+ 
+REBUTTAL TESTIMONY OF ELECTRIC OPERATIONS AND RELIABILITY PANEL 
+19 
+ 
+Q.    
+Do you agree? 
+1 
+A. 
+No.  The use of NRAs is at the discretion of the Commission.  For example, the 
+2 
+Commission routinely allows NRAs associated with gas safety measures to be used to 
+3 
+further gas safety initiatives, such as the funding of the Companies’ Residential Methane 
+4 
+Detection Program under the terms of the 2020 Joint Proposal.  In fact, in Staff’s 
+5 
+response to NYSEG-RGE-053, included in Exhibit __ (EORP-R2), Staff affirms that 
+6 
+there are no laws or regulations in New York that preclude the Commission from 
+7 
+utilizing NRAs in the manner proposed by NYSEG.   
+8 
+In addition, the SEIOP’s assertion that the vegetation management plan from the 
+9 
+last rate case was well thought out and does not need to be altered is inconsistent with the 
+10 
+SVMP’s proposal to provide more funding to and accelerate the Reclamation Program.  
+11 
+There is no ambiguity around the benefits of accelerating the Reclamation Program.  
+12 
+Thus, utilizing NRAs to provide for a form of acceleration is appropriate and reasonable 
+13 
+because it can provide substantial benefits to the 361,000 customers who are served by 
+14 
+the unreclaimed circuits and have been most impacted by the system’s reliability 
+15 
+performance. 
+16 
+Q.    
+Does the Panel recommend that the Commission adopt the RAF and the proposed use of 
+17 
+SAIFI NRAs? 
+18 
+A. 
+Yes.  NYSEG customers are the only customers in New York exposed to the 
+19 
+extraordinary conditions on the unreclaimed circuits.  While the favorable benefits of the 
+20 
+Reclamation Program are clear, it will take years to reclaim NYSEG’ entire system.  
+21 
+During this time, the exposure to unabated growth on the unreclaimed circuits will 
+22 
+
+
+--- Page 22 ---
+Case 22-E-0317; Case 22-G-0318; Case 22-E-0319; Case 22-G-0320 
+ 
+REBUTTAL TESTIMONY OF ELECTRIC OPERATIONS AND RELIABILITY PANEL 
+20 
+ 
+remain a principal risk to reliability.  The RAF and use of NRAs to accelerate the 
+1 
+Reclamation Program can help to mitigate this risk. 
+2 
+VI. 
+STAFF’S OPPOSITION TO UPDATING NYSEG’S SAIFI TARGET 
+3 
+Q.    
+Why did NYSEG propose to update its SAIFI target? 
+4 
+A. 
+NYSEG’s SAIFI target is outdated as it has not been updated in over 20 years.  The 
+5 
+change in NYSEG’s customer demographics over this period alone is a reasonable basis 
+6 
+for updating the target, as are NYSEG’s pervasive tree-related reliability challenges. 
+7 
+Q.    
+Is NYSEG’s proposal to update its SAIFI target consistent with the Commission’s Order 
+8 
+on Reliability Standards? 
+9 
+A. 
+Yes.  In the Standards on Reliability and Quality of Electric Service adopted by the 
+10 
+Commission in its February 26, 1997 Order in Case 96-E-0979 - Proceeding on Motion 
+11 
+of the Commission as to Proposed Changes to the Standards on Reliability and Quality of 
+12 
+Electric Service Filed in Case 90-E-1119, page 8 provides (with respect to changes in 
+13 
+reliability targets) that “among the factors selected to guide the establishment of the 
+14 
+SAIFI and CAIDI values will be comparison of actual multi-year SAIFI and CAIDI 
+15 
+indices, trends among the indices, the average, high and low values of multi-year indices, 
+16 
+demographic, physiographic, and load characteristics of operating area and the relative 
+17 
+performance of an operating area in relation to other operating areas within a given 
+18 
+utility’s franchise areas.”  
+19 
+Q.    
+Has NYSEG provided Staff with the type of information the Commission stated should 
+20 
+be used to establish SAIFI values? 
+21 
+A. 
+Yes.  As part of its response to DPS-366, NYSEG provided extensive system-level and 
+22 
+division-level performance, including multi-year SAIFI indices for each of its operating 
+23 
+
+
+--- Page 23 ---
+Case 22-E-0317; Case 22-G-0318; Case 22-E-0319; Case 22-G-0320 
+ 
+REBUTTAL TESTIMONY OF ELECTRIC OPERATIONS AND RELIABILITY PANEL 
+21 
+ 
+divisions.  That IR response also discusses trends among the SAIFI results, the 
+1 
+demographic and physiographic characteristics of NYSEG’s operating area, and 
+2 
+NYSEG’s performance relative to other operating areas.   
+3 
+Q.    
+Have other New York utilities updated their SAIFI targets in recent years? 
+4 
+A. 
+Yes.  As indicated in Staff’s response to NYSEG-RGE-054, included in Exhibit __ 
+5 
+(EORP-R2), “the Commission has approved such changes for Central Hudson in their 
+6 
+2017 and 2020 rate cases, Con Edison in their 2019 rate case, and National Grid in their 
+7 
+2017 rate case.”  Interestingly, in Staff’s same response, they indicate that “there have 
+8 
+been no such instances” of the Commission approving changes to the division-level 
+9 
+SAIFI targets of a major electric utility.  However, as discussed and illustrated on pages 
+10 
+21 and 22 of our Direct Testimony, the system-level, and division-level targets applicable 
+11 
+to Niagara Mohawk Corporation d/b/a National Grid (“Niagara Mohawk”) were updated 
+12 
+by the Commission in 2018.  
+13 
+Q.    
+Please describe the changes to Niagara Mohawk’s target. 
+14 
+A. 
+In 2018, the Commission allowed Niagara Mohawk to update the SAIFI targets 
+15 
+applicable to each of its operating divisions as well as the SAIFI target for its system 
+16 
+level performance.  As indicated on page 37 of our Direct Testimony, Niagara Mohawk’s 
+17 
+“new division level targets (when weighted by the customers served in each division) 
+18 
+consolidate into a system level target.”   
+19 
+Q.    
+Is NYSEG proposing to use a similar approach to update its SAIFI target? 
+20 
+A. 
+Yes.  The Company calculated its proposed system-level SAIFI target by first calculating 
+21 
+the division-level targets for each of its operating divisions by using a five-year average.  
+22 
+Under this approach, the system-level target appropriately reflects the customer 
+23 
+
+
+--- Page 24 ---
+Case 22-E-0317; Case 22-G-0318; Case 22-E-0319; Case 22-G-0320 
+ 
+REBUTTAL TESTIMONY OF ELECTRIC OPERATIONS AND RELIABILITY PANEL 
+22 
+ 
+demographic and physiographic operating conditions associated with each division.  This 
+1 
+division-to-system level consolidation is the same method Niagara Mohawk calculated its 
+2 
+system-level target in 2018.  We illustrated this on page 37 of our Direct Testimony.   
+3 
+Q.    
+Please summarize NYSEG’s proposal to update its SAIFI target. 
+4 
+A. 
+The Company is proposing to update its 20-year-old SAIFI target to reflect the actual 
+5 
+performance that has been occurring over the last five years (2017-2021).  The Company 
+6 
+used this performance data for each of its operating divisions to establish a division-level 
+7 
+target.  The Company then applied a weighted average to each division-level target to 
+8 
+establish a consolidated system-level target.  Under this “division-to-system” 
+9 
+consolidation method, the 20-year-old Tier 1 SAIFI target increases from 1.20 to 1.30, as 
+10 
+shown in the following table: 
+11 
+Table 1: Consolidation Method of NYSEG SAIFI Targets 
+ 
+Q.    
+Does the SEIOP support NYSEG’s methodology for updating the SAIFI target? 
+13 
+A. 
+No, the SEIOP is critical of this approach.  On page 127 of the SEIOP testimony, Staff 
+14 
+asserts that “it is clear that NYSEG used three of its worst performing years over the past 
+15 
+
+
+--- Page 25 ---
+Case 22-E-0317; Case 22-G-0318; Case 22-E-0319; Case 22-G-0320 
+ 
+REBUTTAL TESTIMONY OF ELECTRIC OPERATIONS AND RELIABILITY PANEL 
+23 
+ 
+20 years when calculating their five-year SAIFI averages.  These three years…should not 
+1 
+be the focus when setting the target.” 
+2 
+Q.    
+Do you agree with the SEIOP’s characterization of NYSEG’s approach? 
+3 
+A. 
+No.  Staff appears to be referring to changes in system-level SAIFI results, not the results 
+4 
+in specific divisions.  Furthermore, NYSEG proposes to use five years of data to update 
+5 
+its SAIFI target (2017-2021), which contain instances of high performance, stable 
+6 
+performance, as well as low performance.  Staff’s assertion fails to acknowledge this.  As 
+7 
+previously mentioned, NYSEG calculated its system-level SAIFI target by first 
+8 
+calculating the division-level targets.  This division-to-system level consolidation is the 
+9 
+same method utilized for the current system-level SAIFI target for Niagara Mohawk.  
+10 
+The following table provides NYSEG’s division and system level SAIFI performance for 
+11 
+the past 15 years: 
+12 
+Table 2:  NYSEG Division and System Level SAIFI Performance (2007-2021) 
+13 
+Q.    
+Is Staff’s position consistent with the Commission’s acceptance of the Niagara Mohawk 
+15 
+targets that were updated in 2018? 
+16 
+A. 
+No.  The five years preceding the 2018 update to Niagara Mohawk’s SAIFI target (2013- 
+17 
+2017) contained some of the company’s “worst” division-level performance of the last 15 
+18 
+
+
+--- Page 26 ---
+Case 22-E-0317; Case 22-G-0318; Case 22-E-0319; Case 22-G-0320 
+ 
+REBUTTAL TESTIMONY OF ELECTRIC OPERATIONS AND RELIABILITY PANEL 
+24 
+ 
+years.  Examples of such instances are bracketed in red in the following table, which 
+1 
+shows Niagara Mohawk’s division and system level results for the past 15 years: 
+2 
+Table 3:  Niagara Mohawk SAIFI Performance (2007-2021) 
+3 
+Q.    
+Does this mean that Niagara Mohawk’s five-year average in 2017 reflected the same type 
+5 
+of performance that Staff is criticizing NYSEG for using? 
+6 
+A. 
+Yes.  Staff’s position, therefore, appears contrary to a practice that the Commission has 
+7 
+already supported. 
+8 
+Q.    
+Do the updated targets for Niagara Mohawk use that company’s five-year average? 
+9 
+A. 
+No.  In every instance, the Niagara Mohawk’s division-level targets were updated to 
+10 
+levels higher than their five-year average.  In other words, not only did the five-year 
+11 
+average include instances of Staff’s concerns for “worst performance,” but the new 
+12 
+division-level targets were updated to levels that exceeded the five-year average, in some 
+13 
+instances by as much as 14%.  These instances provided headroom well above the five-
+14 
+year average.  The following table illustrates the old targets, the new targets, the five-year 
+15 
+averages, and provides comparisons that depict the degree of change: 
+16 
+ 
+ 
+
+
+--- Page 27 ---
+Case 22-E-0317; Case 22-G-0318; Case 22-E-0319; Case 22-G-0320 
+ 
+REBUTTAL TESTIMONY OF ELECTRIC OPERATIONS AND RELIABILITY PANEL 
+25 
+ 
+Table 4:  Comparison of Niagara Mohawk SAIFI Targets 
+1 
+Q.    
+Are there other pertinent observations in these comparisons? 
+3 
+A. 
+Yes.  With respect to the new system-level target, even though the new target was 4% 
+4 
+lower than its predecessor (indicating a more stringent system-level standard), the new 
+5 
+target was set at a level 7% higher than the five-year average.  As such, the new target 
+6 
+while lower than its predecessor, still provides 7% headroom relative to the company’s 
+7 
+recent performance levels.  It is also pertinent to note the benefits of the high 
+8 
+concentration of customers in the Frontier division, coupled with that division’s very low 
+9 
+SAIFI (which is attributable to the significant amount of underground service).  These 
+10 
+features absorbed the notable increases in the targets for every other division, implying a 
+11 
+more stringent system-level target, even though all the underlying targets increased.  
+12 
+Q.    
+Relative to the Niagara Mohawk example, is NYSEG’s proposal reasonable? 
+13 
+A. 
+Yes.  NYSEG is using a methodology similar to Niagara Mohawk (e.g., a customer 
+14 
+weighted division-to-system consolidation).  One key difference is that NYSEG is 
+15 
+proposing division-level targets that are equal to the five-year averages, not in excess of 
+16 
+them.  Also, there are numerous instances, throughout Staff’s testimony, where they 
+17 
+
+
+--- Page 28 ---
+Case 22-E-0317; Case 22-G-0318; Case 22-E-0319; Case 22-G-0320 
+ 
+REBUTTAL TESTIMONY OF ELECTRIC OPERATIONS AND RELIABILITY PANEL 
+26 
+ 
+utilize multi-year averages as the basis for their adjustments.  Furthermore, NYSEG’s 
+1 
+proposal also updates the targets to reflect the growth that has occurred in the Company’s 
+2 
+customer base since the target was original set twenty years ago.  For example, if 
+3 
+NYSEG updated its SAIFI target to solely reflect the change in the Company’s customer 
+4 
+demographics, the current system-level target of 1.20 would increase to 1.24 (using the 
+5 
+same division-to-system consolidation methodology).  The following table illustrates 
+6 
+such a change: 
+7 
+Table 5:  Update to Reflect Current Customer Base 
+8 
+ 
+9 
+ 
+Q.    
+Do you agree with the SEIOP that if NYSEG’s SAIFI target is updated NYSEG would be 
+10 
+rewarded for poor performance? 
+11 
+A. 
+No.  As with other utilities, it is appropriate to review historic performance to benchmark 
+12 
+and adjust the targets to more accurately reflect circumstances that have changed since 
+13 
+the target values were originally set 20 years ago.  NYSEG’s proposal utilizes a 5-year 
+14 
+average, and the performance in this period includes trends of increasing, decreasing, and 
+15 
+
+
+--- Page 29 ---
+Case 22-E-0317; Case 22-G-0318; Case 22-E-0319; Case 22-G-0320 
+ 
+REBUTTAL TESTIMONY OF ELECTRIC OPERATIONS AND RELIABILITY PANEL 
+27 
+ 
+stable reliability.  More importantly, the period is a more accurate indicator of current 
+1 
+system conditions versus the conditions that existed over 20 years ago.  It is also worth 
+2 
+noting that NYSEG’s use of a 5-year average includes 2017 and 2018, two years with 
+3 
+notable better performance than 2019-2021.  Had the Company utilized a three-year 
+4 
+average, then the resulting target values would have been notably higher.  
+5 
+Q.    
+Is Niagara Mohawk a reasonable peer comparison? 
+6 
+A. 
+Yes.  Niagara Mohawk’s franchise area is adjacent to NYSEG’s and, in many instances, 
+7 
+overlaps some of the same communities.  Both companies operate in some of the most 
+8 
+heavily forested areas of New York State.  Both companies have customer bases in the 
+9 
+million-customer range (+/- 10%) and have significant overhead distribution.   
+10 
+Q.    
+Are there notable distinctions between the two companies? 
+11 
+A. 
+Yes.  Niagara Mohawk has had a longstanding recurring five-year distribution vegetation 
+12 
+management trim cycle for most of its entire system and NYSEG has not.  Niagara 
+13 
+Mohawk also benefits from having a large portion of its customer base served by 
+14 
+underground/network service (which has much lower SAIFI exposure that overhead 
+15 
+distribution).  Conversely, only 6% of NYSEG’s overhead distribution system is subject 
+16 
+to a five-year recurring trim cycle, while significant sections of its system have gone 
+17 
+untrimmed for a decade or longer.  NYSEG also has significantly fewer customers served 
+18 
+by underground infrastructure - in fact, NYSEG has higher concentrations of customers 
+19 
+in the semi-urban areas (which are almost exclusively served by overhead distribution).  
+20 
+These distinctions underscore NYSEG’s higher SAIFI exposure. 
+21 
+
+
+--- Page 30 ---
+Case 22-E-0317; Case 22-G-0318; Case 22-E-0319; Case 22-G-0320 
+ 
+REBUTTAL TESTIMONY OF ELECTRIC OPERATIONS AND RELIABILITY PANEL 
+28 
+ 
+Q.    
+Has NYSEG cited an example where demographic and physiographic characteristics 
+1 
+provide comparative insight to SAIFI targets? 
+2 
+A. 
+Yes.  On page 38 of our Direct Testimony, we discuss how the Niagara Mohawk target 
+3 
+would change if the heavily-undergrounded Frontier division were excluded.  This 
+4 
+adjustment makes the two companies more comparable.  Under this adjustment, Niagara 
+5 
+Mohawk’s system-level SAIFI target increases from 1.08 to 1.23 (a level that is higher 
+6 
+than NYSEG’s current SAIFI target of 1.20, despite NYSEG’s lack of a comparable 
+7 
+recurring trim cycle and its numerous unreclaimed circuits).  The following table 
+8 
+illustrates this: 
+9 
+Table 6:  Niagara Mohawk Adjusted SAIFI Target 
+10 
+Q.    
+Are peer comparisons consistent with the Commission’s direction on updating targets? 
+12 
+A. 
+Yes.  As indicated earlier, the Commission has indicated its preferences for 
+13 
+contextualizing changes to a utilities’ performance targets by utilizing comparisons to 
+14 
+appropriate peers. 
+15 
+
+
+--- Page 31 ---
+Case 22-E-0317; Case 22-G-0318; Case 22-E-0319; Case 22-G-0320 
+ 
+REBUTTAL TESTIMONY OF ELECTRIC OPERATIONS AND RELIABILITY PANEL 
+29 
+ 
+Q.    
+What is Staff’s position with respect to peer comparisons? 
+1 
+A. 
+In response to NYSEG-RGE-054, Staff indicates that they “do not recommend 
+2 
+comparing performance across electric utilities due to differences in system designs and 
+3 
+maintenance activities.”   
+4 
+Q.    
+Is Staff’s response consistent with other positions it has taken in this case? 
+5 
+A. 
+No.  The response to NYSEG-RGE-054 implies that performance comparisons cannot 
+6 
+reasonably be made across different utilities.  Yet, page 24 of the SVMP testimony 
+7 
+justifies a six-year trim cycle for NYSEG by referencing utilities in Florida, South 
+8 
+Carolina, and Pennsylvania with five- and six-year distribution trim cycles even though 
+9 
+the “topography and vegetation types are different in some of these areas versus New 
+10 
+York.” 
+11 
+Q.    
+Do you agree with Staff’s characterization of recent trends in NYSEG’s SAIFI 
+12 
+performance? 
+13 
+A. 
+No.  On page 123 of the SEIOP testimony, Staff asserts that “between 2019 and 2021, 
+14 
+interruptions due to lightning increased by 5.7 percent followed by planned outages at 
+15 
+almost 4.7 percent, overloads at 2.7 percent, non-utility causes and errors at just under 1 
+16 
+percent each.”  Staff cites these trends as indicators that tree contacts and aging 
+17 
+infrastructure may not be increasingly detrimental to the Company’s SAIFI performance.  
+18 
+The assertion that these examples are somehow on the same level of materiality as tree 
+19 
+contacts and equipment failures is incorrect and misleading, particularly given the 
+20 
+exogenous nature of the examples and their small share of the total number of outages 
+21 
+that occur in a year. 
+22 
+
+
+--- Page 32 ---
+Case 22-E-0317; Case 22-G-0318; Case 22-E-0319; Case 22-G-0320 
+ 
+REBUTTAL TESTIMONY OF ELECTRIC OPERATIONS AND RELIABILITY PANEL 
+30 
+ 
+Q.    
+Are tree contacts and equipment failures the largest contributor to NYSEG’s SAIFI? 
+1 
+A. 
+Yes.  They are far-and-away the largest contributors to NYSEG’s SAIFI and are both 
+2 
+exhibiting rates of year-over-year increase that are higher than the total of the other 
+3 
+contributors. 
+4 
+Q.    
+Will either the SEIOP’s proposed capital expenditures or the SVMP’s proposed 
+5 
+distribution vegetation management plan materially improve these trends? 
+6 
+A. 
+No, these proposals will not materially improve these trends in the next two years, and in 
+7 
+fact could contribute to further deterioration. 
+8 
+Q.    
+Can these trends be materially improved by the end of 2026? 
+9 
+A. 
+Yes.  By expediting the completion of the Reclamation Program and by supporting 
+10 
+capital expenditure levels that are sufficient for asset replacement and reliability 
+11 
+programs, a material improvement in SAIFI is possible. 
+12 
+Q.    
+If NYSEG’s SAIFI target is updated in this rate case, when would NYSEG seek to update 
+13 
+it again? 
+14 
+A. 
+When the Reclamation Program is complete and assuming the key asset replacement and 
+15 
+other capital reliability programs can be executed with sustained progress, the Company 
+16 
+believes it would be appropriate to update the SAIFI target at that time – which under the 
+17 
+Companies’ five-year Reclamation proposal would occur in 2027/2028.  To be clear, the 
+18 
+current proposal to update the target is intended as a transition between the currently 
+19 
+outdated target and one that would better reflect the post-Reclamation horizon.  The next 
+20 
+several years will provide valuable empirical insight into what that post-Reclamation 
+21 
+target would look like.  In the meantime, the current target is outdated and in need of 
+22 
+updating. 
+23 
+
+
+--- Page 33 ---
+Case 22-E-0317; Case 22-G-0318; Case 22-E-0319; Case 22-G-0320 
+ 
+REBUTTAL TESTIMONY OF ELECTRIC OPERATIONS AND RELIABILITY PANEL 
+31 
+ 
+Q.    
+Is the Company maintaining its proposal to update the SAIFI target in this case? 
+1 
+A. 
+Yes.  The Company’s proposal is reasonable, consistent with the criteria described in the 
+2 
+Order on Reliability Standards, consistent with practices applied to a comparable peer 
+3 
+utility, and is supported with robust analysis and applicable comparisons.  In addition, 
+4 
+Staff’s proposed adjustments to the Company’s capital expenditures are almost certain to 
+5 
+provide very little SAIFI improvement in the next 2-3 years. 
+6 
+VII. 
+STAFF’S ELIMINATION OF 20 INCREMENTAL FTE POSITIONS 
+7 
+Q.    
+Please describe Staff’s recommendation with respect to the Panel’s incremental FTE 
+8 
+request. 
+9 
+A. 
+Of the 100 incremental FTE positions we requested, the SEIOP is proposing to eliminate 
+10 
+20 of the positions (i.e., a 20% reduction).  
+11 
+Q.    
+What is the basis for Staff’s reduction? 
+12 
+A. 
+Page 133 of the SEIOP’s testimony states that the SEIOP’s “recommended reduction to 
+13 
+the capital budget warrants a complementary reduction to the incremental staffing.” 
+14 
+Q.    
+Do you agree with Staff’s reduction? 
+15 
+A. 
+No.  As discussed in detail in the Electric and Common Capital Expenditures Panel 
+16 
+Rebuttal Testimony, the Companies disagree with all of the SEIOP’s adjustments to the 
+17 
+Companies’ electric capital expenditures.  These incremental FTEs, therefore, are fully 
+18 
+justified for the continued provision of safe, adequate, and reliable electric service.  In 
+19 
+addition, SEIOP’s recommendation appears somewhat arbitrary because it lacks 
+20 
+consideration of the specific needs attributed to these positions.   
+21 
+
+
+--- Page 34 ---
+Case 22-E-0317; Case 22-G-0318; Case 22-E-0319; Case 22-G-0320 
+ 
+REBUTTAL TESTIMONY OF ELECTRIC OPERATIONS AND RELIABILITY PANEL 
+32 
+ 
+Q.    
+Did the Companies discuss the implications of a potential 20% reduction? 
+1 
+A. 
+Yes.  In the response to IR NYRC-0746 (DPS-420) (included in Exhibit __ (SEIOP-1), 
+2 
+the Companies indicated that “as part of the preparation of this rate case filing, Electric 
+3 
+Operations carefully considered the minimum needs of the organization and as a result, 
+4 
+the 100 incremental FTEs reflect a staffing level that the Companies consider to be the 
+5 
+minimum necessary to support the safety, operational integrity, and reliability of 
+6 
+operating the electric system.  While a 20% reduction to this level (e.g. approval of only 
+7 
+80 FTEs) may appear to be a modest adjustment, it would present an unacceptable 
+8 
+operational risk to the employees who work on and around dangerous equipment and, in 
+9 
+many instances, work during potentially dangerous conditions like storms, nighttime 
+10 
+outages, etc.  The 100 incremental FTEs proposed by the Companies are necessary for 
+11 
+current operations.  It is important to note that additional incremental staffing proposed 
+12 
+for subsequent rate years (an additional 77 positions) include positions that are directly 
+13 
+tied to the size and schedule of the Companies’ workplan.  These additional 77 positions 
+14 
+– not the 100 positions we requested for the Rate Year – would be the positions that 
+15 
+would likely be impacted by the SEIOP’s proposed reductions to the size and schedule of 
+16 
+the Companies’ capital expenditures workplan. 
+17 
+Q.    
+Do you agree with the SEIOP’s concern as stated on page 133 of its testimony that the 
+18 
+Companies may experience some difficulty in filling the incremental FTE positions 
+19 
+within the Rate Year? 
+20 
+A. 
+No.  In fact, in response to IR NYSEG-RGE-060, included in Exhibit __ (EORP-R2), 
+21 
+Staff agrees that the Companies are successfully fulfilling the substantial number of 
+22 
+Electric Operations personnel that were approved in the last rate cases and was unable to 
+23 
+
+
+--- Page 35 ---
+Case 22-E-0317; Case 22-G-0318; Case 22-E-0319; Case 22-G-0320 
+ 
+REBUTTAL TESTIMONY OF ELECTRIC OPERATIONS AND RELIABILITY PANEL 
+33 
+ 
+provide any evidence to the contrary.  Given the Companies’ prior success in this area, 
+1 
+there is no basis for Staff’s concern. 
+2 
+VIII. 
+PHYSICAL SECURITY 
+3 
+A. ASD System Install 
+4 
+Q.    
+Please summarize Staff’s position with regard to the Companies’ ASD System Install 
+5 
+Project. 
+6 
+A. 
+The SSSP, on pages 34 to 36 of its testimony, testifies that the ASD System Install 
+7 
+Project provides significant benefits for the Companies’ security systems and is 
+8 
+“necessary and beneficial to providing security for safe, reliable service.” 
+9 
+Q.    
+Does Staff recommend any adjustments to the Companies’ budget for ASD System 
+10 
+Install? 
+11 
+A. 
+Yes.  Although it supports the need for the project, the SSSP adjusted the Companies’ 
+12 
+forecasted budgets for Life Cycle Replacement projects, which includes projects to 
+13 
+upgrade obsolete security equipment.  Staff proposes reducing the forecasted budgets for 
+14 
+Life Cycle Replacement by $3.0 million for NYSEG and $1.5 million for RG&E.   
+15 
+Q.    
+Why did Staff recommend this adjustment to Life Cycle Replacement budgets? 
+16 
+A. 
+Staff stated that these adjustments were made because the Companies did not provide 
+17 
+sufficient historical data to justify its forecast budgets.  First, Staff stated that it “would 
+18 
+have preferred to have used a three-year historical average of projects, budget estimates 
+19 
+and actual project cost” to compare to the Companies’ forecast budgets for Life Cycle 
+20 
+Replacement Projects.  Second, Staff argued that the Companies should have provided a 
+21 
+“defined list” of Life Cycle Replacement projects to justify the forecasted 2023 budget. 
+22 
+
+
+--- Page 36 ---
+Case 22-E-0317; Case 22-G-0318; Case 22-E-0319; Case 22-G-0320 
+ 
+REBUTTAL TESTIMONY OF ELECTRIC OPERATIONS AND RELIABILITY PANEL 
+34 
+ 
+Q.    
+What is the three-year historical average for the Companies’ Physical Security budgets 
+1 
+and spending? 
+2 
+A. 
+The three-year historical data for estimated and actual budgets for Physical Security is set 
+3 
+forth in the table below: 
+4 
+Table 7:  Physical Security Estimated and Actual Budgets 
+5 
+The amounts included in the table above have been normalized to include the 
+7 
+Companies’ Security spending only; as such, it does not include amounts that have been 
+8 
+transferred from the Companies’ Security budgets to their Operational Smart Grids 
+9 
+budgets.  This resulted in the removal of $7.16 million from NYSEG’s 2021 Security 
+10 
+budget estimates and $7.26 million from NYSEG’s 2021 spending and the removal of 
+11 
+$1.80 million from RG&E’s 2021 Security budget estimates and $2.59 million from 
+12 
+RG&E’s 2021 spending.  The three-year historical data for Physical Security budgets and 
+13 
+actual spending is further broken down by Scope of Work category in the table below: 
+14 
+ 
+
+
+--- Page 37 ---
+Case 22-E-0317; Case 22-G-0318; Case 22-E-0319; Case 22-G-0320 
+ 
+REBUTTAL TESTIMONY OF ELECTRIC OPERATIONS AND RELIABILITY PANEL 
+35 
+ 
+Table 8:  Physical Security Budgets by Scope of Work 
+1 
+Q.    
+Can the Panel provide project-level data for the Companies’ Security budgets and 
+3 
+spending? 
+4 
+A. 
+Yes.  Project-level data is included in Exhibit __ (EORP-R4). 
+5 
+
+
+--- Page 38 ---
+Case 22-E-0317; Case 22-G-0318; Case 22-E-0319; Case 22-G-0320 
+ 
+REBUTTAL TESTIMONY OF ELECTRIC OPERATIONS AND RELIABILITY PANEL 
+36 
+ 
+Q.    
+Please explain why the Companies did not have any spending for Life Cycle 
+1 
+Replacement projects in 2021. 
+2 
+A. 
+The Companies originally planned to start a five-year continuous Lifecycle Refresh cycle 
+3 
+that would begin with the ASD migration that the Companies started in 2017 and 2018 
+4 
+with the purchase of devices.  As the life cycle for these investments is five years, the 
+5 
+Life Cycle refresh program does not begin until 2023.  In 2021, the Companies’ spending 
+6 
+in this area was focused on migration of security equipment to support the ASD program. 
+7 
+Q.    
+Does the Panel have a defined list of Life Cycle Replacement Projects, as requested by 
+8 
+the SSSP? 
+9 
+A. 
+Yes.  A defined list of Life Cycle Replacement Projects is set forth in Exhibit __ (EP-
+10 
+R5).  Projects highlighted in yellow in the exhibit are planned for 2023. 
+11 
+Q.    
+Did Staff make any further adjustments to the Companies’ capital budgets for ASD 
+12 
+projects? 
+13 
+A. 
+Yes.  On page 38 of its testimony, the SSSP states that it reduced NYSEG’s forecasted 
+14 
+budgets for ASD by $750,000 in 2022, $750,000 in 2024, $750,000 in 2025 and 
+15 
+$750,000 in 2026 for a combined total of $3.0 million and reduced RG&E’s forecasted 
+16 
+budgets by $375,000 in 2022, $275,000 in 2024, $475,000 in 2025 and $375,000 in 2026 
+17 
+for a total of $1.5 million.  This is a combined total adjustment of $4.5 million. 
+18 
+Q.    
+What was Staff’s rationale for its recommended adjustments to forecast budgets for 2022, 
+19 
+2024, 2025, and 2026? 
+20 
+A. 
+Staff identified two concerns with respect to the Companies’ forecast budgets.  First, 
+21 
+Staff noted that there were several projects at NYSEG and RG&E scheduled for 2020 and 
+22 
+2021 that remained incomplete as of July 12, 2022.  Staff argued that these incomplete 
+23 
+
+
+--- Page 39 ---
+Case 22-E-0317; Case 22-G-0318; Case 22-E-0319; Case 22-G-0320 
+ 
+REBUTTAL TESTIMONY OF ELECTRIC OPERATIONS AND RELIABILITY PANEL 
+37 
+ 
+projects from prior years “suggests that project schedule slippage is common and must be 
+1 
+accounted for in budget adjustment forecasts.” 
+2 
+Staff also stated that the Companies failed to provide the budget estimate versus 
+3 
+actual costs for the projects listed in the Companies’ response to DPS-105, Attachment 1.  
+4 
+Staff asserted it therefore lacked the historical data to evaluate project management 
+5 
+efficiency and made adjustments based on available data and ongoing interaction with the 
+6 
+Companies. 
+7 
+Q.    
+Please address Staff’s concerns regarding potential project slippage. 
+8 
+A. 
+As the Companies’ noted in response to DPS-369, consistent with the experience across 
+9 
+many industries, procurement of certain materials currently has significantly longer lead 
+10 
+times compared to historical experience.  These include cameras, card readers, CISCO 
+11 
+switches, and other pertinent items for a security system.  The Companies’ response to 
+12 
+this has been to anticipate and bid out long-lead materials prior to detail design 
+13 
+completion, to get the orders for the items under contract and take advantage of the time 
+14 
+while design is being finalized to receive the materials in hand.  Such an approach is 
+15 
+feasible as the security suite of measures is standardized, and the numbers of the standard 
+16 
+devices is settled early in the design. 
+17 
+Q.    
+Can the Panel provide historical data regarding budget versus actual spend for individual 
+18 
+projects, as requested by the Staff Shared Services Panel? 
+19 
+A. 
+Yes.  As noted above, this project-level historical data is provided in Exhibit __ (EORP-
+20 
+R4). 
+21 
+
+
+--- Page 40 ---
+Case 22-E-0317; Case 22-G-0318; Case 22-E-0319; Case 22-G-0320 
+ 
+REBUTTAL TESTIMONY OF ELECTRIC OPERATIONS AND RELIABILITY PANEL 
+38 
+ 
+B. Fire Protection 
+1 
+Q.    
+Please summarize Staff’s position with regard to the Companies’ Fire Protection 
+2 
+proposals. 
+3 
+A. 
+On page 45 of its testimony, the SSSP stated that “Fire Protection is an essential 
+4 
+component of a program directly related to the safety of facilities as well as ensuring fire 
+5 
+protection systems are up to date and in compliance with local and federal requirements.  
+6 
+However, Staff recommended adjustments of $200,000 per year for NYSEG and 
+7 
+$400,000 per year for RG&E to the Companies’ respective Fire Protection budgets. 
+8 
+Q.    
+Why did Staff recommend adjustments to the Companies’ Fire Protection budgets? 
+9 
+A. 
+Staff stated that the “most significant reasons” for these adjustments was that the 
+10 
+responses provided by the Companies were incomplete or lacked sufficient detail to draw 
+11 
+conclusions.  Staff further stated that it “would have preferred to have used a three-year 
+12 
+historical average of actual project cost” to make more precise adjustments to the 
+13 
+Companies’ Fire Protection budgets. 
+14 
+Q.    
+Do the Companies have three-year historical average data regarding Fire Protection 
+15 
+budgets and spending? 
+16 
+A. 
+Yes.  The Companies’ three-year historical spending is summarized in the tables below: 
+17 
+Table 9:  NYSEG Fire Protection Spend 
+18 
+NYSEG 
+Year 
+Budget Estimate 
+Actual Spend 
+2019 
+ $2,709,174  
+$ 2,757,508  
+2020 
+$1,902,609  
+$1,987,509 
+2021 
+$866,423  
+$926,126 
+Total 
+$5,478,206  
+$5,671,143  
+3-Year Average 
+$1,826,069  
+$1,890,381  
+ 
+19 
+
+
+--- Page 41 ---
+Case 22-E-0317; Case 22-G-0318; Case 22-E-0319; Case 22-G-0320 
+ 
+REBUTTAL TESTIMONY OF ELECTRIC OPERATIONS AND RELIABILITY PANEL 
+39 
+ 
+Table 10:  RG&E Fire Protection Spend 
+1 
+RG&E 
+Year 
+Budget Estimate 
+Actual Spend 
+2019 
+ $717,400  
+$764,691  
+2020 
+$1,075,343  
+$1,130,354 
+2021 
+$997,610 
+$1,075,418 
+Total 
+$2,790,353  
+$2,970,463  
+3-Year Average 
+$930,118  
+$990,154  
+ 
+2 
+Budget estimates and actual spends for each Fire Protection project are set forth in 
+3 
+Exhibit __ (EORP-R6). 
+4 
+Q.    
+Please provide a description of the criteria used to prioritize Fire Protection projects. 
+5 
+A. 
+NYSEG and RG&E locations slated for Fire Protection projects needed to meet one or 
+6 
+more of the following criteria: 1) protection of generation assets, 2) protection of bulk 
+7 
+power and NERC CIP medium/high assets, 3) protection of service centers that are vital 
+8 
+to operations and the preservation of operational tempo, 4) protection of data assets such 
+9 
+as server rooms, and/or 5) replacement of outdated/service-aged fire protection 
+10 
+equipment. 
+11 
+Q.    
+Should adjustments to the Fire Protection category be made?  
+12 
+A. 
+No.  NYSEG and RG&E have an obligation to not only comply with federal and local 
+13 
+mandates and standards, but also to protect our employees, assets and customers from 
+14 
+harm. 
+15 
+
+
+--- Page 42 ---
+Case 22-E-0317; Case 22-G-0318; Case 22-E-0319; Case 22-G-0320 
+ 
+REBUTTAL TESTIMONY OF ELECTRIC OPERATIONS AND RELIABILITY PANEL 
+40 
+ 
+IX. 
+CYBER SECURITY 
+1 
+Q.    
+Do you have concerns with Staff’s recommendation to reduce NYSEG’s Cybersecurity 
+2 
+External Services Support for the ASD by $704,000? 
+3 
+A. 
+Yes.  Staff has assumed that because the Companies reduced capital investments in 
+4 
+certain cybersecurity projects in their August Update that there would be a direct link to 
+5 
+ongoing O&M costs.  This is not a correct assumption.  The RG&E O&M adjustment 
+6 
+made by the Companies simply corrected an erroneous formula and was not linked in any 
+7 
+way to the $2.1 million RG&E capital budget reduction for the ASD projects.  Staff’s 
+8 
+assumption making the corresponding adjustment reduction to NYSEG O&M costs is not 
+9 
+valid.  The needs for cybersecurity external services exists independent of the capital 
+10 
+adjustment made by the Companies.  A reduction in services would impact the ability 
+11 
+meet mandated NERC-CIP requirements.  These external services provide the needed 
+12 
+support for our cybersecurity critical infrastructure systems which is a collection of 
+13 
+appliances, applications, networking, and analytics for compliance and cybersecurity.  
+14 
+The services are also required for the ongoing maintenance and support of advanced 
+15 
+cybersecurity technologies for our production critical infrastructure systems.  The 
+16 
+external services also directly support production operations for underpinning 
+17 
+infrastructure of the physical security system.  This includes cameras, badge readers, and 
+18 
+video analytics.  We currently utilize external services as we do yet not have the internal 
+19 
+resources to perform these critical tasks.    
+20 
+
+
+--- Page 43 ---
+Case 22-E-0317; Case 22-G-0318; Case 22-E-0319; Case 22-G-0320 
+ 
+REBUTTAL TESTIMONY OF ELECTRIC OPERATIONS AND RELIABILITY PANEL 
+41 
+ 
+Q.    
+Do you have any clarifications to make to the interpretation of FTE needs for NYSEG 
+1 
+and RG&E on page 60 and 61 of the Staff Shared Services Panel Testimony? 
+2 
+A. 
+Yes, the Staff Shared Services Panel recommended removing positions listed on the 
+3 
+Companies’ response to DPS-252 because they “correspond to similar titles listed as open 
+4 
+positions in workpaper NC-RR-2-WP-07 Payroll August Update.”  The NYSEG open 
+5 
+positions tab within the NC-RR-WP-07 Payroll August Update references positions 
+6 
+posted for internal FTEs that are backfills for existing positions that are separate from the 
+7 
+additional positions required in the incremental positions tab.   
+8 
+Q.    
+Does the Panel agree with Staff’s recommended adjustments to cybersecurity FTEs? 
+9 
+A. 
+No.  We disagree with Staff’s recommended removal of cybersecurity FTEs and continue 
+10 
+to support each of the cybersecurity FTEs proposed in our initial filing.  Each position is 
+11 
+necessary to support the new programs identified for Cybersecurity in the areas of 
+12 
+ASD/OSG Infrastructure, Global Cybersecurity Master Plan and ASD 
+13 
+Telecommunications which are fully supported by Staff and interested parties.  These 
+14 
+programs ensure that the Companies have proper cybersecurity staffing to protect our 
+15 
+critical systems infrastructure from threats. 
+16 
+Q.    
+Does this complete your Rebuttal Testimony at this time? 
+17 
+A. 
+Yes, it does. 
+18 

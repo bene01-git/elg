@@ -1,0 +1,1440 @@
+--- Page 1 ---
+BEFORE THE NEW YORK STATE 
+PUBLIC SERVICE COMMISSION 
+ 
+ 
+---------------------------------------------------------------x 
+Proceeding on Motion of the Commission 
+: 
+as to the Rates, Charges, Rules and 
+: 
+Regulations of Orange and Rockland 
+: 
+Case 21-G-0073 
+Utilities, Inc. for Gas Service. 
+: 
+---------------------------------------------------------------------x 
+ 
+---------------------------------------------------------------x 
+Proceeding on Motion of the Commission 
+: 
+as to the Rates, Charges, Rules and 
+: 
+Regulations of Orange and Rockland 
+: 
+Case 21-E-0074 
+Utilities, Inc. for Electric Service. 
+: 
+---------------------------------------------------------------------x 
+ 
+ 
+ 
+INFORMATION TECHNOLOGY 
+PANEL 
+REBUTTAL TESTIMONY & 
+EXHIBITS 
+ 
+ 
+ 
+ 
+ 
+Panel Members 
+Manoj S. Chouthai 
+Jeannine D. Haggerty 
+Allisyn Glasser 
+Mikhail Falkovich 
+James Prettitore  
+ 
+ 
+Orange and Rockland Utilities 
+One Blue Hill Plaza 
+Pearl River, NY  10965-9006 
+www.oru.com  
+ 
+ 
+
+
+--- Page 2 ---
+CASES 21-G-0073 AND 21-E-0074 
+ORANGE AND ROCKLAND 
+INFORMATION TECHNOLOGY PANEL 
+REBUTTAL TESTIMONY  
+ 
+ 
+-1- 
+  
+Table of Contents 
+Introduction ......................................................................................................................... 2 
+Purpose of Testimony ......................................................................................................... 4 
+Work Management System (“WMS”) Replacement .......................................................... 4 
+Network Infrastructure ...................................................................................................... 10 
+Budget System Software Enhancements .......................................................................... 16 
+Data Analytics ................................................................................................................... 17 
+ 
+
+
+--- Page 3 ---
+CASES 21-G-0073 AND 21-E-0074 
+ORANGE AND ROCKLAND 
+INFORMATION TECHNOLOGY PANEL 
+REBUTTAL TESTIMONY  
+ 
+ 
+-2- 
+  
+Introduction 
+1 
+Q. 
+Please state your names. 
+2 
+A. 
+Manoj S. Chouthai, Jeannine D. Haggerty, Allisyn 
+3 
+Glasser, Mikhail Falkovich and James Prettitore. 
+4 
+Q. 
+Have you previously submitted testimony in this 
+5 
+proceeding? 
+6 
+A. 
+Yes, Manoj S. Chouthai, Jeannine D. Haggerty, Allisyn 
+7 
+Glasser, and Mikhail Falkovich all previously 
+8 
+submitted testimony on behalf of Orange and Rockland 
+9 
+Utilities, Inc. (“Orange and Rockland,” “O&R” or 
+10 
+“Company”) as the Information Technology (“IT”) Panel 
+11 
+(“IT Panel”).  Our credentials are listed in our 
+12 
+direct testimony.  James Prettitore is replacing Aseem 
+13 
+Kapur on the IT Panel.   
+14 
+Q. 
+Would James Prettitore please state his employer and 
+15 
+business address? 
+16 
+A. 
+I am employed by Consolidated Edison Company of New 
+17 
+York, Inc. (“CECONY”) and my business address is 4 
+18 
+Irving Place, New York, NY 10003. 
+19 
+Q. 
+In what capacity is James Prettitore employed by 
+20 
+CECONY? 
+21 
+
+
+--- Page 4 ---
+CASES 21-G-0073 AND 21-E-0074 
+ORANGE AND ROCKLAND 
+INFORMATION TECHNOLOGY PANEL 
+REBUTTAL TESTIMONY  
+ 
+ 
+-3- 
+  
+A. 
+I am employed by CECONY as the Director of IT 
+1 
+Strategy. 
+2 
+Q. 
+Please explain your professional background and 
+3 
+qualifications, as well as job description. 
+4 
+A. 
+I hold a Master of Business Administration degree in 
+5 
+Strategy and Finance from the New York University’s 
+6 
+Stern School of Business and a Bachelor of Arts in 
+7 
+Economics from the University of Rhode Island.  I have 
+8 
+been employed by CECONY since 1991, holding positions 
+9 
+of increasing responsibility in Finance, Supply Chain, 
+10 
+System & Transmission Operations and IT.  I have held 
+11 
+various roles on the IT leadership team since being 
+12 
+promoted to director in 2010, including co-leading the 
+13 
+Company’s Advanced Metering Infrastructure (“AMI”) 
+14 
+implementation project and implementing the contract 
+15 
+with our IT managed service provider.  In my current 
+16 
+role, I am responsible for IT strategy and long-range 
+17 
+planning.  This includes creating our ten-year IT 
+18 
+strategy and corresponding ten-year strategic plan and 
+19 
+the corresponding rate case investment strategy.  I 
+20 
+also continue to manage the senior level relationship 
+21 
+with our IT managed service provider. 
+22 
+
+
+--- Page 5 ---
+CASES 21-G-0073 AND 21-E-0074 
+ORANGE AND ROCKLAND 
+INFORMATION TECHNOLOGY PANEL 
+REBUTTAL TESTIMONY  
+ 
+ 
+-4- 
+  
+Purpose of Testimony 
+1 
+Q. 
+What is the purpose of the IT Panel’s rebuttal 
+2 
+testimony? 
+3 
+A. 
+We are responding to the testimony of the Staff IT and 
+4 
+Common Panel (“Staff Panel”), adjusting requests for 
+5 
+the Work Management System Replacement, Network 
+6 
+Infrastructure, Budget System Software Enhancements, 
+7 
+and the Digital Factory.  Our testimony explains that 
+8 
+the adjustments should be reversed.   
+9 
+Work Management System (“WMS”) Replacement 
+10 
+Q. 
+Did the Staff Panel make an adjustment to the WMS 
+11 
+Replacement Project? 
+12 
+Q. 
+Yes. The Staff Panel removed WMS Replacement Project 
+13 
+funding from the revenue requirement. Because the 
+14 
+Company does not know the exact costs of the Project, 
+15 
+the Staff Panel states that they are unable to 
+16 
+determine if the Project’s costs and timing are 
+17 
+reasonable and justifiable.  
+18 
+Q. 
+Do you agree with the Staff Panel’s position? 
+19 
+A. 
+No. The replacement of WMS is a significant 
+20 
+undertaking and needs to proceed in a timely fashion 
+21 
+to avoid risks associated with obsolete technology. 
+22 
+
+
+--- Page 6 ---
+CASES 21-G-0073 AND 21-E-0074 
+ORANGE AND ROCKLAND 
+INFORMATION TECHNOLOGY PANEL 
+REBUTTAL TESTIMONY  
+ 
+ 
+-5- 
+  
+These risks include cybersecurity vulnerabilities, 
+1 
+lack of technical resources to support the system, and 
+2 
+cost ineffectiveness for maintaining the mainframe 
+3 
+infrastructure for a small number of applications.  
+4 
+Q. 
+Please discuss the cybersecurity risk associated with 
+5 
+WMS. 
+6 
+A. 
+Cybersecurity is one of the highest risks for 
+7 
+organizations of all types. Cyber-attacks have 
+8 
+increasingly targeted critical infrastructure 
+9 
+providers. Malicious actors have increased their 
+10 
+capabilities, and such attacks can cause serious 
+11 
+disruption to the operation of the Company’s corporate 
+12 
+IT network, operational networks, and critical energy 
+13 
+infrastructure. The Company continues to develop and 
+14 
+implement enterprise-wide detailed strategies to 
+15 
+mitigate these risks. Obsolete systems, such as WMS, 
+16 
+do not have the ability to allow the Company to 
+17 
+leverage the latest cybersecurity tools such as 
+18 
+advanced monitoring and alerting and multifactor 
+19 
+access control.  Replacing the WMS system will allow 
+20 
+us to modernize cyber controls such as these. 
+21 
+Q. 
+Please explain system support issues.  
+22 
+
+
+--- Page 7 ---
+CASES 21-G-0073 AND 21-E-0074 
+ORANGE AND ROCKLAND 
+INFORMATION TECHNOLOGY PANEL 
+REBUTTAL TESTIMONY  
+ 
+ 
+-6- 
+  
+A. 
+WMS is heavily used and relied upon by Operations for 
+1 
+their core business. For example, WMS allows for the 
+2 
+creation and design of jobs to be performed in the 
+3 
+field.  WMS has been programmed using COBOL, CICS, and 
+4 
+DB2.   
+5 
+Resources to maintain mainframe technologies are 
+6 
+scarce. Currently, there are two Company developers 
+7 
+who have any knowledge of WMS and how to support it. 
+8 
+These skills are increasingly difficult to find in the 
+9 
+marketplace because fewer companies are using these 
+10 
+older technologies. Because there is little demand for 
+11 
+this type of programming, it is hard to find and 
+12 
+recruit qualified candidates.   
+13 
+Q. 
+Please explain O&R’s mainframe strategy. 
+14 
+A. 
+As we explained in our direct testimony, the Company 
+15 
+is migrating systems off the mainframe through other 
+16 
+projects, such as CECONY and O&R (“CORE”) Project and 
+17 
+Mainframe Elimination. By Rate Year 3, WMS will be the 
+18 
+primary mainframe system and effectively will prevent 
+19 
+the Company from eliminating the mainframe. The 
+20 
+Company will be in a multi-year predicament to 
+21 
+
+
+--- Page 8 ---
+CASES 21-G-0073 AND 21-E-0074 
+ORANGE AND ROCKLAND 
+INFORMATION TECHNOLOGY PANEL 
+REBUTTAL TESTIMONY  
+ 
+ 
+-7- 
+  
+continue to invest in obsolete mainframe technology to 
+1 
+maintain and run WMS.  
+2 
+Q.  Please describe the nature and purpose of the 
+3 
+Company’s WMS. 
+4 
+A. 
+WMS is a comprehensive system that processes 
+5 
+distribution and transmission work for electric, 
+6 
+substation, and gas operations from the point of 
+7 
+request and design through to completion, including 
+8 
+construction, service, and inspection jobs. WMS is 
+9 
+heavily integrated with multiple corporate systems, 
+10 
+including financial accounting, materials management, 
+11 
+payroll and labor distribution, property records, and 
+12 
+customer information management.  
+13 
+Q. 
+Is this the appropriate time to address the WMS 
+14 
+Replacement Project? 
+15 
+A. 
+Yes.  The Company has delayed WMS replacement for as 
+16 
+long as reasonably possible while the Company focused 
+17 
+on other key initiatives, including AMI and CORE.  As 
+18 
+explained in our direct testimony, WMS is 30 years 
+19 
+old.  There have been significant advances in work 
+20 
+management systems since this system was implemented. 
+21 
+For example, a new WMS will provide mobility 
+22 
+
+
+--- Page 9 ---
+CASES 21-G-0073 AND 21-E-0074 
+ORANGE AND ROCKLAND 
+INFORMATION TECHNOLOGY PANEL 
+REBUTTAL TESTIMONY  
+ 
+ 
+-8- 
+  
+functions, which O&R’s system does not have.  
+1 
+Additionally, efficiencies are anticipated to be 
+2 
+achieved through capabilities in workforce automation, 
+3 
+digital transformation, and automated workflows in the 
+4 
+newer technology.   
+5 
+Q. 
+What work is needed for WMS replacement? 
+6 
+A. 
+The Company first needs to conduct a phase zero 
+7 
+implementation study, which is scheduled for 2023.  
+8 
+The implementation study would be performed by a 
+9 
+consultant and would provide a more detailed approach 
+10 
+to the process, including more precise cost estimates 
+11 
+to supplement the benchmarking already conducted.  
+12 
+Once the phase zero implementation study is completed 
+13 
+and reviewed, the system replacement process should 
+14 
+start in 2024.   
+15 
+Q. 
+Is there a time frame for replacing WMS? 
+16 
+A. 
+Yes. It is important that the Company initiates the 
+17 
+replacement of WMS in 2024 as this is a multi-year 
+18 
+effort and there is critical need to mitigate 
+19 
+described risks. Any delays with initiating the 
+20 
+implementation will risk losing qualified resources 
+21 
+within the Company through attrition and there are 
+22 
+
+
+--- Page 10 ---
+CASES 21-G-0073 AND 21-E-0074 
+ORANGE AND ROCKLAND 
+INFORMATION TECHNOLOGY PANEL 
+REBUTTAL TESTIMONY  
+ 
+ 
+-9- 
+  
+limited mainframe qualified resources available in the 
+1 
+market. This custom-built WMS for the Company’s 
+2 
+operating departments contains complex database 
+3 
+architecture and business functionality that is vexing 
+4 
+to developers to support. With the current system, 
+5 
+addressing production issues, system anomalies, and 
+6 
+responding to system inquires can be time consuming 
+7 
+due to this older technology, and at times, results in 
+8 
+inefficient manual workarounds being employed. 
+9 
+ 
+Moreover, as explained in our direct testimony, once 
+10 
+CORE comes online and the other systems have been 
+11 
+removed from the mainframe, WMS will be the only 
+12 
+system that requires a mainframe.  This will increase 
+13 
+O&R’s operating costs for WMS significantly. 
+14 
+Q. 
+How did the Company develop the cost estimate for the 
+15 
+WMS Replacement Project? 
+16 
+A. 
+The Company developed the $10 million estimate for 
+17 
+Rate Year 3 based on benchmarking with similar 
+18 
+projects, most recently, CECONY’s WMS replacement 
+19 
+project. Following the completion of the phase zero 
+20 
+study in Rate Year 3, O&R intends to commence the 
+21 
+initial phase of the WMS Replacement Project.  The 
+22 
+
+
+--- Page 11 ---
+CASES 21-G-0073 AND 21-E-0074 
+ORANGE AND ROCKLAND 
+INFORMATION TECHNOLOGY PANEL 
+REBUTTAL TESTIMONY  
+ 
+ 
+-10- 
+  
+phase one activities planned in rate year three 
+1 
+include: IT solution architecture, business process 
+2 
+design and functional/technical design.  Our cost 
+3 
+estimate is based on the cost incurred during the 
+4 
+CECONY WMS projects for similar activities adjusted 
+5 
+for the scale of O&R.  Our estimate also assumes that 
+6 
+some prior work from the CECONY projects would be used 
+7 
+to inform and accelerate the O&R WMS Replacement 
+8 
+Project.   
+9 
+Network Infrastructure 
+10 
+Q.  What is the Staff Panel’s recommendation for funding 
+11 
+for the Network Infrastructure Project? 
+12 
+A.  The Company requested funding for this Project of 
+13 
+$1.35 million in Rate Year 1, $2.29 million in Rate 
+14 
+Year 2, and $2.09 million in Rate Year 3. The Staff 
+15 
+Panel recommends adjusting these amounts by providing 
+16 
+a capital expenditure budget of $1.2 million per year 
+17 
+for 2022 through 2024 based on the Company’s 
+18 
+historical spending for this category. The Staff Panel 
+19 
+refers to the Company’s discovery response DPS-22-498, 
+20 
+included in Exhibit __ (SITCP-1), as support for this 
+21 
+adjustment.   
+22 
+
+
+--- Page 12 ---
+CASES 21-G-0073 AND 21-E-0074 
+ORANGE AND ROCKLAND 
+INFORMATION TECHNOLOGY PANEL 
+REBUTTAL TESTIMONY  
+ 
+ 
+-11- 
+  
+Q.   Do you agree with Staff’s position? 
+1 
+A.   No. The Network Infrastructure Project funding should 
+2 
+remain as proposed.  This Project is critical for 
+3 
+securing and protecting data applications across all 
+4 
+business organizations, along with supporting critical 
+5 
+expansion requirements on the Company’s privately 
+6 
+owned network infrastructure. The network 
+7 
+infrastructure is comprised of privately owned and 
+8 
+operated microwave, fiber, data networking equipment, 
+9 
+dispatcher/field voice radio, telephone and 
+10 
+Supervisory and Control Data Acquisition (“SCADA”), 
+11 
+along with Distribution SCADA (“DSCADA”) systems.  The 
+12 
+microwave infrastructure is a 6GHz and 11GHz Federal 
+13 
+Communication Commission licensed microwave backbone 
+14 
+which spans across the Company’s service territory.  
+15 
+There are 18 microwave tower facilities, including 
+16 
+three new facilities currently under construction with 
+17 
+planned in service dates of 2021.  The core fiber 
+18 
+network is a high-capacity Dense Wave Division 
+19 
+Multiplex (“DWDM”) diverse and redundant backbone 
+20 
+located at six strategic facilities across the 
+21 
+Company’s service territory.  In years 2018-2020, the 
+22 
+
+
+--- Page 13 ---
+CASES 21-G-0073 AND 21-E-0074 
+ORANGE AND ROCKLAND 
+INFORMATION TECHNOLOGY PANEL 
+REBUTTAL TESTIMONY  
+ 
+ 
+-12- 
+  
+Company identified critical field automation expansion 
+1 
+requirements that required major upgrades to the 
+2 
+network infrastructure. 
+3 
+Q.   Please provide more information regarding these major 
+4 
+upgrades. 
+5 
+A.   With the need to push automation beyond major Company 
+6 
+facilities, IT established new projects, beginning in 
+7 
+2018, to upgrade and expand its fiber and microwave 
+8 
+infrastructure to several other facilities. 
+9 
+Q.   Why were these projects necessary? 
+10 
+A.   The primary drivers for these projects were to expand 
+11 
+the private network infrastructure so that critical 
+12 
+SCADA and DSCADA applications were reliable and 
+13 
+cybersecure, along with providing a network 
+14 
+infrastructure platform that will meet future 
+15 
+automation requirements over the next five to ten 
+16 
+years. 
+17 
+Q.   What did the Company do to meet these goals? 
+18 
+A.   In 2018, a new fiber optic infrastructure project was 
+19 
+established to expand the core DWDM backbone from four 
+20 
+to six core facilities. In 2019, a new high-capacity 
+21 
+networking solution was installed at the Company’s two 
+22 
+
+
+--- Page 14 ---
+CASES 21-G-0073 AND 21-E-0074 
+ORANGE AND ROCKLAND 
+INFORMATION TECHNOLOGY PANEL 
+REBUTTAL TESTIMONY  
+ 
+ 
+-13- 
+  
+Control Centers.  In addition, these fiber projects 
+1 
+established a new standard.  The new standard is a 
+2 
+Multiprotocol Label Switching (“MPLS”) infrastructure 
+3 
+solution, which will be deployed to Company 
+4 
+substations moving forward.  The MPLS standard secures 
+5 
+the Company’s goal of protecting sensitive data 
+6 
+applications and allowing for future growth across one 
+7 
+standard platform.  In 2019, the Company also expanded 
+8 
+its DSCADA Hub sites to one additional facility, which 
+9 
+included dual microwave links. 
+10 
+Q.   What were the costs of these projects and are they 
+11 
+part of the network infrastructure historical data? 
+12 
+A.   The costs of the fiber projects were $1.7 million in 
+13 
+2018, $1.3 million in 2019 and $812,000 in 2020.  The 
+14 
+costs of the DSCADA Hub site project were $26,000 in 
+15 
+2019 and $110,000 in 2020. The three-year average for 
+16 
+these projects, i.e., $1.3 million, is more 
+17 
+appropriate than a five-year average because the 
+18 
+initiative effectively started in 2018.   
+19 
+ 
+20 
+Project Name
+2018
+2019
+2020
+ 3 Year Total
+Ave/Year
+ORU REV Communications
+$1,752,695
+$1,290,800
+$811,800
+3,855,294.9
+1,285,098.3
+DSCADA Hub Sites
+$26,000
+$108,100
+134,100.0
+44,700.0
+Annual Totals $1,752,695
+$1,316,800
+$919,900
+$3,989,395
+$1,329,798
+
+
+--- Page 15 ---
+CASES 21-G-0073 AND 21-E-0074 
+ORANGE AND ROCKLAND 
+INFORMATION TECHNOLOGY PANEL 
+REBUTTAL TESTIMONY  
+ 
+ 
+-14- 
+  
+Q. 
+Did the Company include these costs in its response to 
+1 
+DPS-22-498? 
+2 
+A. 
+These amounts were inadvertently not included in the 
+3 
+historical data referenced within IR DPS-22-498, 
+4 
+included in Exhibit __ (SITCP-1).  The Company should 
+5 
+have included these costs in that response as the 
+6 
+network infrastructure category includes this work.   
+7 
+Q.  Please explain how the projects were previously 
+8 
+treated as compared with current treatment.  
+9 
+A.  The Company initially classified this work as 
+10 
+individual projects that addressed immediate and 
+11 
+specific concerns.  With the MPLS standard now 
+12 
+developed, funding requirements were reclassified and 
+13 
+moved under the network infrastructure program.  This 
+14 
+was done to address the on-going expansion of the data 
+15 
+networking infrastructure, including future SCADA, 
+16 
+DSCADA, fiber and MPLS expansion requirements.  Under 
+17 
+the revised classification, all infrastructure 
+18 
+components can be better managed.  Therefore, the 
+19 
+discovery response should have contained these amounts 
+20 
+of historical spending on these types of projects. 
+21 
+
+
+--- Page 16 ---
+CASES 21-G-0073 AND 21-E-0074 
+ORANGE AND ROCKLAND 
+INFORMATION TECHNOLOGY PANEL 
+REBUTTAL TESTIMONY  
+ 
+ 
+-15- 
+  
+Q.  Will the Panel’s recommended funding of $1.2 million 
+1 
+per year be sufficient in 2022-2024 should they decide 
+2 
+to maintain this position? 
+3 
+A.  No. The recommended funding of $1.2 million over these 
+4 
+years would have a negative impact on the Company’s 
+5 
+ability to expand and maintain its network 
+6 
+infrastructure.  By including the additional $1.3 
+7 
+million referenced in the above table for the fiber 
+8 
+and DSCADA Hub site projects, the average 
+9 
+infrastructure spending over the final three-years 
+10 
+(2018-2020) would increase from $1.2 million to $2.5 
+11 
+million per year.   
+12 
+Maintaining the funding at Staff’s recommended $1.2 
+13 
+million level would severely impact the Company’s 
+14 
+ability to migrate to the new MPLS platform.  The MPLS 
+15 
+standard also addresses challenges in maintaining 
+16 
+older and “end of support” Synchronous Optical Network 
+17 
+(“SONET”) equipment currently installed at several 
+18 
+Company facilities.  The Company has identified the 
+19 
+Network Infrastructure Project as a critical component 
+20 
+for securing and meeting its future automation plans. 
+21 
+ 
+22 
+
+
+--- Page 17 ---
+CASES 21-G-0073 AND 21-E-0074 
+ORANGE AND ROCKLAND 
+INFORMATION TECHNOLOGY PANEL 
+REBUTTAL TESTIMONY  
+ 
+ 
+-16- 
+  
+Budget System Software Enhancements 
+1 
+Q.  Do you agree with the Staff Panel’s recommendation to 
+2 
+eliminate Budget System Software Enhancements? 
+3 
+A. 
+No. We acknowledge the Budget System Software 
+4 
+Enhancements Project was inadvertently excluded from 
+5 
+the Company’s initial testimony.  The response to IR 
+6 
+DPS-34-588 included the following description:   
+7 
+The project includes enhancements related to the 
+8 
+recent implementation of Oracle’s cloud based 
+9 
+budgeting system which will improve user 
+10 
+experience with reporting; implement, automate 
+11 
+and enforce additional business rules, 
+12 
+calculation inputs, and add functionality not 
+13 
+included during initial implementation that will 
+14 
+add further efficiencies to users.  They will 
+15 
+also improve data archival and seeding processes 
+16 
+for budget and forecast scenarios. 
+17 
+Q. 
+Do you have a document which explains this system? 
+18 
+A. 
+Yes, we have developed a white paper, a copy of which 
+19 
+is included as Exhibit __ (IT-4), which should have 
+20 
+been included in our initial testimony. 
+21 
+Q. 
+Please describe how this system will aid O&R. 
+22 
+
+
+--- Page 18 ---
+CASES 21-G-0073 AND 21-E-0074 
+ORANGE AND ROCKLAND 
+INFORMATION TECHNOLOGY PANEL 
+REBUTTAL TESTIMONY  
+ 
+ 
+-17- 
+  
+A. 
+The on-going enhancements will allow the Company to 
+1 
+optimize the system to take advantage of the 
+2 
+capabilities of the cloud-based software.  Users will 
+3 
+have more efficient budget and forecast input along 
+4 
+with improving subsequent reporting and analysis. By 
+5 
+enabling these enhancements, we will be able to 
+6 
+provide more meaningful analysis and insight into the 
+7 
+business operations.  This will give them additional 
+8 
+information to operate their respective business lines 
+9 
+more efficiently. In addition, the next round of 
+10 
+enhancements is expected to provide the capability to 
+11 
+prepare rate case filing work papers, exhibits, and 
+12 
+subsequent reporting including actual, budget and rate 
+13 
+level amounts.  This streamlined process will also 
+14 
+allow for more efficient rate case preparation along 
+15 
+with more transparent analysis of on-going results. 
+16 
+Data Analytics 
+17 
+Q. 
+Do you agree with the Staff Panel recommendation to 
+18 
+decrease the funding associated with Data Analytics? 
+19 
+A. 
+No, we do not.  As noted in our direct testimony, the 
+20 
+Company proposes to provide Data Analytics projects 
+21 
+for O&R.  Such expansion will enhance the Company’s 
+22 
+
+
+--- Page 19 ---
+CASES 21-G-0073 AND 21-E-0074 
+ORANGE AND ROCKLAND 
+INFORMATION TECHNOLOGY PANEL 
+REBUTTAL TESTIMONY  
+ 
+ 
+-18- 
+  
+ability to improve the customer experience as well as 
+1 
+achieve the State’s clean energy goals.  Staff reduced 
+2 
+the amount requested, i.e., $200,000.  This reduction 
+3 
+should be reversed.  These projects are needed and 
+4 
+will assist O&R and its customers.   
+5 
+Q.  Does this conclude your rebuttal testimony? 
+6 
+A.  Yes, it does. 
+7 
+
+
+--- Page 20 ---
+ 
+ 
+            
+X 
+Capital 
+ 
+O&M 
+ 
+ 
+            
+Year – Business Unit/ Division 
+ 
+Project/Program Title 
+Budget & Forecast Analytics (formerly Budget System Enhancements) 
+Project Manager 
+John Durning 
+Hyperion Project Number 
+20613824 
+Status of Project 
+Ongoing Project 
+Estimated Start Date 
+1st Quarter 2015 
+Estimated Completion Date December 2025 
+Work Plan Category 
+Operational 
+ 
+Work Description:  
+[Note this is updated effective November 2020 to reflect work completed to date and additional 
+funding request] 
+ 
+The goal of this multi-phased project is to: 
+ 
+• Implement Workforce Planning to replace the obsolete Payroll Budget System 
+(completed). 
+• Implement Oracle Data Relationship Management (DRM) master data management tool 
+to synchronize Oracle EBS and EPM (completed). 
+• Modernize the current Hyperion Planning (HP) suite of applications to the newer 
+Enterprise Planning and Budgeting Cloud Service (EPBCS) technologies that 
+significantly enhance the existing configuration (completed). 
+• Improve user experience and efficiency through the implementation of position based 
+planning within the Workforce Planning Module of ePBCS (completed). 
+• Enable improved analysis, automated report generation, and synchronized data by 
+developing a standard organization wide EPM data model (completed). 
+• Govern and maintain the newly developed data model through the implementation of 
+eDMCS, a cloud based data management and governance solution (completed). 
+• Integrate ePBCS with BI to report budget, forecast and actual performance reporting to 
+the larger consumer base of the BI platform and to create mappings which will carry 
+forward to BI replacement with Oracle Fusion cloud-based reporting system in the near 
+future (begin 4th qtr 2020). 
+• Implement enhancements to ePBCS application modules and to our data management 
+and archival processes that were identified during initial requirements gathering but fell 
+out of scope due to targeted implementation date (begin 1st qtr 2021). 
+• Enhancements to create regulatory filing schedules as well as on going reporting 
+facilitating comparison between actuals, budgets, forecast and rate agreement amounts 
+(begin 1st qtr 2022) 
+ 
+ 
+The modernization to EPBCS will be the next phase of this project through 2020, with additional 
+enhancements extending to 2023.  The modernization of EPBCS includes an evaluation and 
+redesign of the budget process in total to incorporate best practices and develop the ability to 
+Exhibit___(IT-4)
+Page 1 of 5
+
+
+--- Page 21 ---
+provide operations with better information to make decisions. This will replace the forecast and 
+allocation phases of prior versions of this project’s white paper.   
+ 
+The additional scope of WFP cloud effort will enable the workforce planning framework within 
+ePBCS so that all planning is performed in the new cloud based planning application, while 
+eDMCS and governance will define the data structures required to implement cloud financial 
+applications such as ePBCS and FCCS.  The outcome is an increase in efficiency and 
+effectiveness of the financial planning and accounting functions.  This effort will also result in 
+cost savings both in the short term and longer term by enabling other projects (Consolidation, 
+Allocations, Oracle Fusion GL) to leverage the outputs of this upfront data model design 
+(completed 2020). 
+ 
+The integration with BI will fulfill a business need to broaden the consumer audience of budget, 
+forecast and actual performance under the wider licensing agreements for the Business 
+Intelligence product and also produce the necessary data maps needed for the future 
+implementation of Oracle Fusion GL mentioned above. 
+ 
+The enhancements will improve user experience with reporting; implement, automate and 
+enforce additional business rules, calculation inputs, and add functionality not included during 
+implementation which add further efficiencies to users.  They will also improve data archival and 
+seeding processes for budget and forecast scenarios.   
+ 
+Justification Summary:  
+ 
+ePBCS is the first of several Oracle Cloud Finance implementations.  Defining standard data 
+structures results in a significant increase in user experience, transparency across tools, and a 
+reduction effort required to implement each subsequent tool.  Doing this project now eliminates a 
+significant amount of future rework and retrofit, while providing immediate increases in user 
+experience, cost savings, and transparency in reporting and analysis.   
+ 
+The EPBCS implementation and the additional scope of WFP Cloud, eDMCS, and data 
+governance phases of the project will: 
+ 
+• Provide capability to leverage actual data when developing budgets and forecasts to 
+generate analysis and trending that will reduce or eliminate hours activities that do not add 
+value, such as: 
+o Data transformation and manipulation, 
+o External spreadsheet modeling, 
+o Multiple iterations of effort to achieve relatively low impact reductions. 
+• Enable meaningful budget to actual analysis by being able to understand the root cause of 
+variances, which are complicated today by mappings and data movements 
+• Enable users to spend more time focusing on analysis and providing insights to the business 
+teams 
+• Enable quarterly forecasting in a single tool which will lead to eventual trending and 
+analytics 
+• Reduce the level of effort required to produce budgets and forecasts 
+• Reduce the effort required to produce reports and analysis 
+• Reduce the effort required to maintain multiple data structures across multiple systems 
+• Enable the organization to transition other applications to Oracle Cloud more easily 
+Exhibit___(IT-4)
+Page 2 of 5
+
+
+--- Page 22 ---
+•
+Eliminate the need for manually maintained mappings and reconciliations between cloud
+applications
+•
+Eliminate costly hardware and software upgrades to the on premise system.
+•
+Eliminate the duplicate expense of paying for both on premise and cloud tools
+(maintenance and licensing)
+•
+Broaden the consumer audience of budget and actual performance reporting under the BI
+licensing agreement and create all data maps that will be required during the future
+implementation of the Oracle Fusion GL project.
+Supplemental Information: 
+•
+Alternatives:
+o
+Continue with current HP module.
+o
+Utilize current data model definitions which vary across all tools
+o
+Interface on premise Workforce Planning to the cloud based ePBCS application
+o
+Decentralize master data management and require changes in multiple systems
+o
+Discontinue BI reporting of actual and budget performance reporting
+•
+Risk of No Action:
+o
+Propagate existing system delays during times of peak usage.
+o
+Divert resources from routine activity to take corrective action when data is incorrect or not
+consistent.
+o
+Utilize inefficient and disparate methods for generating forecasts and associated reports.
+Sacrifice analytical resources for manual data entry and conversion activities
+o
+Continue prolonged manual efforts required to adapt organizational changes and other business
+changes in the HP system.
+o
+Require FP&A employees to distribute budget, forecast and actual performance data on an ad-
+hoc basis to consumer outside of the licensing provisions of ePBCS
+Continue interface with Work Force Planning on premise, which means: 
+o
+Timing of data movements will still take days
+o
+Not achieving shelving credits for on-premise software
+o
+Users will build budget and forecasts in multiple tools
+o
+Planning labor requirement will remain a long and arduous process
+o
+There will not be a single source of budget and forecast reporting
+o
+System performance will continue to be a pain point to users
+o
+User experience will remain a challenge
+o
+Users will need to perform planning, and reporting in multiple systems
+o
+Routine forecasts in ePBCS will be a challenge (time consuming)
+o
+Improved on-demand reporting
+o
+More meaningful variance analysis
+o
+Integrated and uniform processes
+o
+More time will be spent on analysis and business support as opposed to plan preparation and
+report generation
+o
+Increased user adoption and comprehension of tools and processes
+o
+Increased daily user access to systems
+Exhibit___(IT-4)
+Page 3 of 5
+
+
+--- Page 23 ---
+ 
+ 
+ 
+• 
+Summary of Financial Benefits (if applicable) and Costs:  
+ 
+o This enhancement phase has no on-going additional O&M costs 
+o Benefits and costs relating to total Budget Systems Enhancement Program: 
+ 
+Ongoing annual software cost of $165K per year (through Oracle License and 
+Maintenance Agreement). 
+ 
+FTE reduction of 1 per year beginning in 2020 through 2024 for a total reduction of 4 
+FTE.  Each FTE represents $100K per year in cost reduction.  The total cumulative cost 
+reduction is $1million.   
+ 
+Elimination of the costs for ongoing hardware/software upgrades, as well reducing the 
+resources required for testing.  Typical upgrade cycles can cost approximately 
+$1million.  While testing will still be required, the elimination of hardware purchases 
+and software development costs will be eliminated.  Hardware costs have typically been 
+approximately $300K and software and data migration resources of at least $500K over 
+a six-month to one-year period.   
+ 
+• 
+Technical Evaluation/Analysis:  
+ 
+o Migration to Enterprise Planning and Budgeting Cloud Service (EPBCS) 
+ 
+The benefits associated with implementing the EPBCS tool and additional scope of WFP Cloud, 
+eDMCS and governance are as follows: 
+ 
+ 
+Integration of historical data into the budget forecast process for analysis and trending 
+ 
+Enable integrated modeling with in-built tools of EPBCS 
+ 
+Ease of consolidation and flexibility for scenario modeling  
+ 
+Reduction/elimination of activities that do not add value (4FTE reduction) 
+ 
+Reduction of errors due to the current manual and excel based processes 
+ 
+Allow for a rolling forecast planning horizon 
+ 
+Reduce time to complete annual budget and periodic forecasts 
+ 
+Centralize and aligned actual to budget variation with consistency across all cost 
+categories  
+ 
+Synchronize data model in all planning applications 
+ 
+Provide forward looking centralized data management and governance environment 
+which anticipates future cloud migration of other financial applications and will reduce 
+current manual efforts required to create mappings across these applications 
+ 
+Eliminate on-premise hardware and software upgrade cycles  
+ 
+Integrate with existing corporate wide reporting systems and prepare for future 
+upgrades of those systems. 
+ 
+• 
+Project Relationships (if applicable): 
+ 
+o There are FTE reductions for Finance FP&A associated with this project.  For more information, 
+please refer to the Finance FP&A BCO Initiative Program Change and associated testimony. 
+o There are ongoing license and maintenance O&M costs associated with this project.  For more 
+information please refer to the IT Oracle Licensing and Maintenance Program Change and 
+associated testimony. 
+ 
+• 
+Basis for Estimate:  
+ 
+Exhibit___(IT-4)
+Page 4 of 5
+
+
+--- Page 24 ---
+o
+Order of magnitude based on consultant and internal estimates.
+Total Funding Level ($000): 
+Dollars reflect total spending for program.  O&R will be allocated costs at the shared services percentage 
+rate. 
+Capital 
+Historical Spend 
+Actual 2016 
+Actual 2017 
+Actual 2018 
+Actual 2019 
+Historic 
+Year 
+(O&M only)
+Forecast 
+2020 
+$2,878 
+$1,968 
+$1,278 
+$4,439 
+N/A 
+$4,508 
+Historical Elements of Expense 
+ (Historical EOE breakout will only be completed for Steam projects/programs of $500 thousand or more and, for all 
+other organizations, projects/programs of $1million or more.) 
+EOE 
+Actual 2016 
+Actual 2017 
+Actual 2018 
+Actual 2019 
+Historic 
+Year 
+(O&M only)
+Forecast 
+2020 
+Labor 
+$92 
+$235 
+$264 
+$264 
+$184 
+M&S 
+0 
+241 
+29 
+29 
+0 
+A/P 
+2,730 
+1,837 
+943 
+943 
+4,284 
+Overheads 
+56 
+128 
+123 
+123 
+210 
+Other 
+0 
+(474) 
+(80) 
+(80) 
+(340) 
+Total 
+$2,878 
+$1,967 
+$1,278 
+$1,278 
+$4,338 
+Request ($000): 
+Request 
+2021 
+Request 
+2022 
+Request 
+2023 
+Request 
+2024 
+Request 
+2025 
+$600 
+$1,000 
+$1,000 
+$1,000 
+$1,000 
+Request by Elements of Expense 
+EOE 
+2021 
+2022 
+2023 
+2024 
+2025 
+Labor 
+$24 
+$33 
+$0 
+$140 
+$140 
+M&S 
+0 
+0 
+0 
+0 
+0 
+A/P 
+564 
+777 
+0 
+3,290 
+3,290 
+Overheads 
+12 
+17 
+0 
+70 
+70 
+Other 
+0 
+0 
+0 
+0 
+0 
+Total 
+$600 
+$827 
+$0 
+$3,500 
+$3,500 
+Exhibit___(IT-4)
+Page 5 of 5

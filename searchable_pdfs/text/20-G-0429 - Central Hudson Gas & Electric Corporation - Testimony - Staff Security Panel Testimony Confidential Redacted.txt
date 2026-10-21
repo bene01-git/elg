@@ -1,0 +1,1082 @@
+--- Page 1 ---
+ 
+ 
+ 
+ 
+ 
+ 
+ 
+BEFORE THE 
+STATE OF NEW YORK 
+PUBLIC SERVICE COMMISSION 
+ 
+ 
+ 
+In the Matter of 
+ 
+Central Hudson Gas & Electric Corp.   
+ 
+Cases 20-E-0428 and 20-G-0429 
+ 
+December 2020 
+ 
+ 
+Prepared Testimony Confidential 
+(Redacted) of: 
+Staff Security Panel: 
+ 
+Brian O'Keefe 
+Utility Security Specialist 2 
+ 
+Philip Tabor 
+Utility Analyst 1(Cybersecurity) 
+ 
+Office of Resilience and 
+Emergency Management 
+ 
+State of New York 
+Department of Public Service 
+Three Empire State Plaza 
+Albany, New York  12223-1350 
+ 
+
+
+--- Page 2 ---
+Cases 20-E-0428 & 20-G-0429             STAFF SECURITY PANEL 
+ 
+ 
+1 
+ 
+INTRODUCTION 
+1 
+Q.   Members of the Staff Security Panel (SSP or 
+2 
+Panel) please state your names, employer, and 
+3 
+business addresses. 
+4 
+A.   Our names are Brian P. O’Keefe and Philip Tabor.  
+5 
+We are employed by the New York State Department 
+6 
+of Public Service (Department).  Our business 
+7 
+address is One Empire State Plaza, Albany, New 
+8 
+York 12223. 
+9 
+Q.  Mr. O’Keefe what is your position at the 
+10 
+Department? 
+11 
+A. 
+I am employed by the Department as a Utility 
+12 
+Security Specialist 2, assigned to the Utility 
+13 
+Security Section within the Office of Resiliency 
+14 
+and Emergency Preparedness. 
+15 
+Q.   Please summarize your education and work 
+16 
+experience. 
+17 
+A.   I received a B.S. in Political Science from the 
+18 
+University of the State of New York and a M.S. 
+19 
+in Organizational Leadership from Nyack College.  
+20 
+My previous professional work experience 
+21 
+consists of 22 years of service with National 
+22 
+
+
+--- Page 3 ---
+Cases 20-E-0428 & 20-G-0429             STAFF SECURITY PANEL 
+ 
+ 
+2 
+ 
+Grid.  National Grid is primarily a regulated 
+1 
+gas and electric transmission and distribution 
+2 
+company.  16 of my 22 years with National Grid 
+3 
+were spent as a management employee in the Gas 
+4 
+Operations department.  My responsibilities 
+5 
+included maintaining the physical security of 
+6 
+three operating locations as well as security 
+7 
+for a workforce of approximately eighty 
+8 
+employees.  I also have 28 years’ experience as 
+9 
+a commissioned officer in the U.S. Army Reserve 
+10 
+component.  I have been trained in Operational 
+11 
+Security throughout my career.  I have served as 
+12 
+an Intelligence Officer conducting vulnerability 
+13 
+assessments on physical infrastructure during my 
+14 
+combat deployments supporting overseas 
+15 
+contingency operations.     
+16 
+Q.   Please describe your current duties with the 
+17 
+Utility Security Section. 
+18 
+A.   I joined the Utility Security Section in 2012.  
+19 
+My current responsibilities include conducting 
+20 
+physical and electronic security vulnerability 
+21 
+assessments of critical facilities which are 
+22 
+
+
+--- Page 4 ---
+Cases 20-E-0428 & 20-G-0429             STAFF SECURITY PANEL 
+ 
+ 
+3 
+ 
+owned and operated by the energy, 
+1 
+telecommunication and water utilities regulated 
+2 
+by the Commission. 
+3 
+Q.   Have you previously testified before the 
+4 
+Commission? 
+5 
+A.   Yes, in the Matter of Central Hudson Gas & 
+6 
+Electric Corporation, Cases 14-E-0318 and 14-G-
+7 
+0319, November 2014; and the Matter of Central 
+8 
+Hudson Gas & Electric Corporation, Cases 17-E-
+9 
+0459 and 17-G-0460, November 2017. 
+10 
+Q.  Mr. Tabor, what is your position at the 
+11 
+Department? 
+12 
+A. 
+I am employed by the Department as a Utility 
+13 
+Analyst 1 – Cyber Security, assigned to the 
+14 
+Utility Security Section within the Office of 
+15 
+Resiliency and Emergency Preparedness. 
+16 
+Q.  Please summarize your education and work 
+17 
+experience. 
+18 
+A. 
+I graduated from Colby College in 1990 with a 
+19 
+Bachelor of Arts Degree in Psychology, studied 
+20 
+graduate coursework at the University of 
+21 
+Connecticut, and I am currently enrolled in the 
+22 
+
+
+--- Page 5 ---
+Cases 20-E-0428 & 20-G-0429             STAFF SECURITY PANEL 
+ 
+ 
+4 
+ 
+graduate certificate program at the University 
+1 
+of Albany School of Emergency Preparedness, 
+2 
+Homeland Security and Cybersecurity.  I have the 
+3 
+Security+ certification from CompTIA.  Beyond 
+4 
+that I have attended several workshops and 
+5 
+courses on cyber security, including training 
+6 
+from the US Department of Homeland Security ICS-
+7 
+CERT. 
+8 
+Q.  Please describe your current duties with the 
+9 
+Utility Security Section. 
+10 
+A. 
+I joined the Utility Security Section in 2016.  
+11 
+I am familiar with federal and state regulations 
+12 
+and guidelines for cyber security for critical 
+13 
+national infrastructure, as well as the security 
+14 
+operations of the major utility companies in New 
+15 
+York State.  My current responsibilities include 
+16 
+conducting cyber security assessments of 
+17 
+critical infrastructure facilities and corporate 
+18 
+IT systems, which are owned and operated by the 
+19 
+energy, gas, and water utilities.  
+20 
+Q.  Have you previously testified before the  
+21 
+Commission? 
+22 
+
+
+--- Page 6 ---
+Cases 20-E-0428 & 20-G-0429             STAFF SECURITY PANEL 
+ 
+ 
+5 
+ 
+A.  Yes, in the Matter of Central Hudson Gas & 
+1 
+Electric Corporation, Cases 17-E-0459 and 17-G-
+2 
+0460, November 2017; and New York State Electric 
+3 
+& Gas Corporation and Rochester Gas and Electric 
+4 
+Corporation, Cases 19-E-0380, et al, September 
+5 
+2019; and the Matter of Niagara Mohawk Power 
+6 
+Company, Cases 20-E-0380 and 20-G-0381, November 
+7 
+2020. 
+8 
+Q.   What is the purpose of your testimony? 
+9 
+A.   The purpose of our testimony is to address the 
+10 
+following topics: (1) the physical security as 
+11 
+described in Central Hudson Gas & Electric 
+12 
+Company’s Direct Testimony of the Capital Plan 
+13 
+Panel, and (2) the cyber security portion of the 
+14 
+Capital Plan Panel, the Direct Testimony of 
+15 
+McGinnis, and the Direct Testimony of the 
+16 
+Enterprise Resource Planning Panel.  This review 
+17 
+is to ensure that the requests are just, 
+18 
+reasonable, and necessary to providing safe and 
+19 
+reliable service.    
+20 
+Q.   In your testimony, will you refer to, or 
+21 
+otherwise rely upon, any information produced 
+22 
+
+
+--- Page 7 ---
+Cases 20-E-0428 & 20-G-0429             STAFF SECURITY PANEL 
+ 
+ 
+6 
+ 
+during the discovery phase of this proceeding? 
+1 
+A.   Yes.  We will refer to, or otherwise rely upon 
+2 
+ 
+several responses to Staff Information Requests 
+3 
+(IRs).  The IRs that we have relied upon are 
+4 
+included in Exhibit ___(SSP-1). 
+5 
+Q.  Before explaining the Panel’s specific 
+6 
+recommendations, please describe the general 
+7 
+nature of your review process. 
+8 
+A.  Our review process focused on the need, timing, 
+9 
+and effectiveness of the Company’s projects and 
+10 
+programs.  To determine if specific projects 
+11 
+were needed, we reviewed the justification 
+12 
+provided by the Company in its testimony and 
+13 
+exhibits and analyzed the Company’s responses to 
+14 
+IRs in order to assess whether a proposed 
+15 
+project is necessary for the provision of safe 
+16 
+and reliable service.  In addition to assessing 
+17 
+the need for each project and program reviewed, 
+18 
+we determined whether the timing of the 
+19 
+project’s inclusion in the Companies’ security 
+20 
+posture was consistent with industry best 
+21 
+practices.  We compared the capabilities of the 
+22 
+
+
+--- Page 8 ---
+Cases 20-E-0428 & 20-G-0429             STAFF SECURITY PANEL 
+ 
+ 
+7 
+ 
+Company’s programs with industry standards and 
+1 
+best practices and looked at possible 
+2 
+alternatives to assess their flexibility and 
+3 
+scalability to match a threat landscape that can 
+4 
+change significantly in a possible three-year 
+5 
+time frame of a settlement rate plan.   
+6 
+PHYSICAL SECURITY 
+7 
+Q.   Why are physical security upgrades necessary? 
+8 
+A.   Central Hudson has current limitations on its 
+9 
+security cameras, servers, and software that 
+10 
+reduce effectiveness and create exploitable 
+11 
+vulnerabilities.   
+12 
+Q.   Has the Company provided a detailed description 
+13 
+of physical security projects?   
+14 
+A.   Yes.  Based on the response to DPS–330-
+15 
+(Confidential), the Company has provided a 
+16 
+description of the upgrades, a timeline for 
+17 
+completion and costs associated with those 
+18 
+physical security upgrades.   
+19 
+Q.   Are there electronic security enhancements 
+20 
+planned by Central Hudson? 
+21 
+
+
+--- Page 9 ---
+Cases 20-E-0428 & 20-G-0429             STAFF SECURITY PANEL 
+ 
+ 
+8 
+ 
+A.   Yes.  Security cameras, servers and software 
+1 
+will be upgraded as part of the Capital Plan.   
+2 
+Q.   What are the projects proposed by the Company? 
+3 
+A.   There are five projects identified as follows: 
+4 
+a) Electric Substation Security Enhancement, b) 
+5 
+Gas Substation Security Enhancement, c) PTZ 
+6 
+Camera Upgrades - District Office, d) NVR Server 
+7 
+Upgrades and e) Security Upgrades-TBD. 
+8 
+Q.   Can you describe the most significant advantages 
+9 
+of the proposed physical security upgrades? 
+10 
+A.   Yes.  Based on the response to DPS–330 
+11 
+(Confidential), Thermal and IR Technology allow 
+12 
+the security operations center personnel to 
+13 
+detect the movement of people, vehicles and 
+14 
+partly camouflaged objects in complete darkness 
+15 
+or areas with challenging lighting conditions. 
+16 
+In addition, software upgrade allows quick and 
+17 
+easy review of live or recorded video with a 
+18 
+simplified screen layout.      
+19 
+Q.   Are there advantages to maintaining a robust 
+20 
+electronic security system? 
+21 
+
+
+--- Page 10 ---
+Cases 20-E-0428 & 20-G-0429             STAFF SECURITY PANEL 
+ 
+ 
+9 
+ 
+A.   Yes.  Based on “Recommended Physical Security 
+1 
+Practices for Electric and Gas Utilities, 
+2 
+Revised April 6, 2016” from the Office of 
+3 
+Utility Security, electronic systems connected 
+4 
+to a central monitoring station, where operators 
+5 
+can carry out remote surveillance, be 
+6 
+immediately alerted to possible intrusions, and 
+7 
+operate security equipment remotely from a 
+8 
+central facility are considered to be cost 
+9 
+effective alternatives or reinforcements to a 
+10 
+uniformed security presence.  In addition, 
+11 
+security personnel monitoring from a central 
+12 
+location can direct a local law enforcement 
+13 
+response. 
+14 
+Q.   Have there been instances in the past that where 
+15 
+potential threats to critical assets existed due 
+16 
+to limitations of the current electronic system? 
+17 
+A.   Yes.  There have been occurrences where possible 
+18 
+threats could not be identified due to lack of 
+19 
+image detail due to several factors.   
+20 
+Q.   What are the risks of not upgrading the 
+21 
+electronic security measures at this time? 
+22 
+
+
+--- Page 11 ---
+Cases 20-E-0428 & 20-G-0429             STAFF SECURITY PANEL 
+ 
+ 
+10 
+ 
+A.   Hard drives are aging, and failure rate will 
+1 
+increase.  Due to the age of the system 
+2 
+components, which exceed ten years, there are 
+3 
+limited hardware upgrade capabilities.  Also, 
+4 
+manufacturers support is now limited or non-
+5 
+existent.  
+6 
+Q.   Is there any O&M associated with any of these 
+7 
+upgrade projects? 
+8 
+A.   No.  According to IR response DPS-630, the 
+9 
+Company states there is no O&M or incremental 
+10 
+O&M associated with these line items. 
+11 
+Q. 
+Does the Panel have adjustments or modifications 
+12 
+to the Company’s physical security proposals?  
+13 
+A.  Yes.  The Company’s proposed request for 
+14 
+$102,000 - “Security Upgrades TBD” to its 
+15 
+physical security budget is not supported by 
+16 
+Staff.  This item was listed for 2021 only and 
+17 
+is not associated with a specific expenditure 
+18 
+plan.  The Company states in IR response DPS-
+19 
+330-Updated that the Company does not require a 
+20 
+budget submittal form for the identified capital 
+21 
+projects requested in the question.  This level 
+22 
+
+
+--- Page 12 ---
+Cases 20-E-0428 & 20-G-0429             STAFF SECURITY PANEL 
+ 
+ 
+11 
+ 
+of detail is insufficient to determine if the 
+1 
+$102,000 is justified or reasonable, and 
+2 
+therefore, was removed. 
+3 
+CYBER SECURITY 
+4 
+Q.  Would you briefly explain the importance of 
+5 
+capital spending for cybersecurity? 
+6 
+A.  The Department considers proper cybersecurity 
+7 
+measures as a key investment to ensure continued 
+8 
+utility operations.  Each year for the past 
+9 
+three years the Company was advised by the 
+10 
+United States Department of Homeland Security 
+11 
+(DHS) Cybersecurity Infrastructure and Security 
+12 
+Agency (CISA) through CISA Alerts, of real 
+13 
+threats of cyber-attacks against their energy 
+14 
+networks.  The field of cyber security is one in 
+15 
+which the risks, threat actors/vectors, and 
+16 
+technologies involved are constantly changing 
+17 
+and increasing in complexity.  In addition to 
+18 
+these changes facing all other businesses; the 
+19 
+Company’s system modernization will advance the 
+20 
+installation of more digital equipment to 
+21 
+replace aging analog equipment.  These 
+22 
+
+
+--- Page 13 ---
+Cases 20-E-0428 & 20-G-0429             STAFF SECURITY PANEL 
+ 
+ 
+12 
+ 
+initiatives will introduce new channels through 
+1 
+which vulnerabilities can be exploited and 
+2 
+potentially hinder safe, secure, and reliable 
+3 
+operation; unless they are protected through 
+4 
+prudent security measures integrated with 
+5 
+existing programs. 
+6 
+Q.   Please summarize the Company’s proposal with 
+7 
+respect to cyber security. 
+8 
+A.   The programs reviewed that comprise cyber 
+9 
+security are Hardware, Software, Mainframe 
+10 
+Replacement, and Incremental Full Time 
+11 
+Equivalents (FTEs). 
+12 
+Q.   Please describe the Company’s Cyber Security 
+13 
+Hardware capital program. 
+14 
+A.   The Company proposes maintaining the hardware 
+15 
+that supports the solutions and tools that 
+16 
+together are integral to maintaining 
+17 
+capabilities necessary for industry standard 
+18 
+cyber security.    
+19 
+Q.   What does the Company propose to spend? 
+20 
+A.   The Company proposes a capital budget for 2021-
+21 
+2025 of $613,000 and the Company responses to 
+22 
+
+
+--- Page 14 ---
+Cases 20-E-0428 & 20-G-0429             STAFF SECURITY PANEL 
+ 
+ 
+13 
+ 
+DPS-329 and DPS-630 state they are not proposing 
+1 
+any incremental O&M beyond depreciation expenses 
+2 
+associated with capital assets. The capital 
+3 
+budgets for 2021 and 2022 is $113,000 and 
+4 
+$117,000, respectively.   
+5 
+Q.   Does the Panel have concerns or recommendations? 
+6 
+A.   Yes.  A comparison of the historic budgets in 
+7 
+DPS-340 Attachment 1, “2020 Appendices Common” 
+8 
+tab with projected spending shows the Company 
+9 
+proposes a sizeable increase in the Rate Year.  
+10 
+The Company response to DPS-670 failed to 
+11 
+indicate why the additional spending was needed 
+12 
+and clearly detail what investments would be 
+13 
+made during the rate year. Therefore, the Panel 
+14 
+recommends that this program be reduced by 50% 
+15 
+each year, which would place them more in line 
+16 
+with the historic spending levels.   
+17 
+Q.   Please describe the Company’s Cyber Security 
+18 
+Software capital program. 
+19 
+A.  As described in its responses to DPS-461 and DPS-
+20 
+629 the Company proposes to maintain its 
+21 
+existing software systems through upgrades and 
+22 
+
+
+--- Page 15 ---
+Cases 20-E-0428 & 20-G-0429             STAFF SECURITY PANEL 
+ 
+ 
+14 
+ 
+replacements and acquire a compliance tool.  
+1 
+Q.   What does the Company propose to spend? 
+2 
+A.  The Company proposes a capital budget for 2021-
+3 
+2025 of $3.7 million in DPS-340 Attachment 1 and 
+4 
+the Company response to DPS-329 states they are 
+5 
+not proposing any incremental O&M beyond 
+6 
+depreciation expenses associated with capital 
+7 
+assets. Investment levels for 2021 and 2022 are 
+8 
+$924,000 and $588,000, respectively. 
+9 
+Q.   Does the Panel agree with the Company’s 
+10 
+proposal? 
+11 
+A.   Partially.  The National Institute of Standards 
+12 
+and Technology (NIST) Cybersecurity Framework 
+13 
+(CSF) is nationally recognized and accepted 
+14 
+within the electric industry. NIST describes the 
+15 
+Framework as “… standards, guidelines, and 
+16 
+practices to promote the protection of critical 
+17 
+infrastructure. The prioritized, flexible, 
+18 
+repeatable, and cost-effective approach of the 
+19 
+Framework helps owners and operators of critical 
+20 
+infrastructure to manage cybersecurity-related 
+21 
+risk.”  A primary component of the Framework is 
+22 
+
+
+--- Page 16 ---
+Cases 20-E-0428 & 20-G-0429             STAFF SECURITY PANEL 
+ 
+ 
+15 
+ 
+the Core which consists of five functions: 
+1 
+Identify, Protect, Detect, Respond, and Recover. 
+2 
+A common method of evaluating cybersecurity is 
+3 
+to examine what capabilities the organization 
+4 
+has in each of the five functions. The software 
+5 
+upgrades and replacements discussed in DPS-459 
+6 
+and DPS-629 are for a variety of tools that work 
+7 
+together to improve capabilities in four of 
+8 
+these five functions. With one exception the 
+9 
+panel believes the capabilities and functions 
+10 
+provided by the Company’s proposed upgrades and 
+11 
+replacements are justified. 
+12 
+Q.   What is the one exception? 
+13 
+BEGIN CONFIDENTIAL INFORMATION< 
+14 
+A.   xxxxxxxxxxxxxxxxxxxxxxxxxxxxxxxxxxxxxxxxxx 
+15 
+xxxxxxx. 
+16 
+Q.   xxxxxxxxxxxxxxxxxxxxxxxxxxxxxxxxxxxxxxxxxxx 
+17 
+xxxxxxxxxxxxxxxx. 
+18 
+A.   xxxxxxxxxxxxxxxxxxxxxxxxxxxxxxxxxxxxxxxxxxx 
+19 
+xxxxxxxxxxxxxxxxxxxxxxxxxxxxxxxxxxxxxxxxxxxxxx 
+20 
+xxxxxxxxxxxxxxxxxxxxxxxxxxxxxxxxxxxxxxxxxxxxx 
+21 
+xxxxxxxxxxxxxxxxxxxxxxxxxxxxxxxxxxxxxxxxxxxxxx 
+22 
+
+
+--- Page 17 ---
+Cases 20-E-0428 & 20-G-0429             STAFF SECURITY PANEL 
+ 
+ 
+16 
+ 
+xxxxxxxxxxxxxxxxxxxxxxxxxxxxxxxxxxxxxxxxxxxxxxx 
+1 
+xxxxxxxxxxxxxxxxxxxxxxxxxxxxxxxxxxxxxxxxxxxxxx 
+2 
+xxxxxxxx. 
+3 
+>END CONFIDENTIAL INFORMATION 
+4 
+Q.   What does the Panel recommend? 
+5 
+A.   The Panel recommends removing this Software 
+6 
+program’s proposed budget from the Cybersecurity 
+7 
+Software capital program. The budgeted amount is 
+8 
+not a substantial capital expenditure and as 
+9 
+already discussed, the Company currently 
+10 
+maintains a group of software tools designed to 
+11 
+work together as part of a mature cyber security 
+12 
+program. Therefore, removal of this Software 
+13 
+Program would not jeopardize cyber security. 
+14 
+Additionally, the 2021 budget level for software 
+15 
+related to cyber security is higher than the 
+16 
+historical levels shown in DPS-340 Attachment 1, 
+17 
+“Appendices Common” tab, even after the 
+18 
+recommended removal of these costs from the 
+19 
+proposed budget.   
+20 
+Q.   Please describe the Company’s mainframe 
+21 
+replacement program? 
+22 
+
+
+--- Page 18 ---
+Cases 20-E-0428 & 20-G-0429             STAFF SECURITY PANEL 
+ 
+ 
+17 
+ 
+ A.   The Company proposes to replace its mainframe 
+1 
+with an enterprise resource planning platform.  
+2 
+Q.   What aspects of the Company’s mainframe 
+3 
+replacement program will this panel review? 
+4 
+ A.  This panel will focus only on the security 
+5 
+concerns of maintaining the mainframe in service 
+6 
+as well as the security implications of moving 
+7 
+to an enterprise resource planning platform. 
+8 
+Cost and schedule concerns are addressed by the 
+9 
+staff Common Capital Panel. 
+10 
+Q.   How is the Company addressing the cyber security 
+11 
+concerns associated with the mainframe 
+12 
+replacement program?  
+13 
+A.    As described in the Company’s response to DPS-
+14 
+459 the upgrade will natively incorporate 
+15 
+several cyber security features and capabilities 
+16 
+that currently exist in a weaker form or do not 
+17 
+exist at all in the mainframe.  
+18 
+Q.   Does the Panel agree with the Company’s need to 
+19 
+replace the mainframe to resolve the cyber 
+20 
+security concerns? 
+21 
+
+
+--- Page 19 ---
+Cases 20-E-0428 & 20-G-0429             STAFF SECURITY PANEL 
+ 
+ 
+18 
+ 
+A. 
+Yes. An evaluation of the mainframe using the 
+1 
+NIST CSF shows that it is either limited or 
+2 
+incapable of meeting best practices for critical 
+3 
+infrastructure. Its replacement with an industry 
+4 
+recognized enterprise solution eliminates or 
+5 
+mitigates many vulnerabilities, allows 
+6 
+implementation of current cyber security 
+7 
+capabilities that the mainframe cannot support, 
+8 
+as well as providing additional resilience to 
+9 
+incidents and capabilities for incident response 
+10 
+and recovery. Therefore we support the concept 
+11 
+of migrating the remaining major functions and 
+12 
+removing the mainframe in a timely manner to 
+13 
+mitigate the security risks. 
+14 
+Q.   Please describe the Company’s proposed cyber 
+15 
+security incremental full-time equivalents? 
+16 
+ A.   Central Hudson proposes to expand its cyber 
+17 
+security team. The Company refers to a third-
+18 
+party review on page two of DPS-461 that 
+19 
+recommends additional security FTEs. In response 
+20 
+to DPS-460, the Company designates three cyber 
+21 
+security FTEs: They are a Director of Cyber 
+22 
+
+
+--- Page 20 ---
+Cases 20-E-0428 & 20-G-0429             STAFF SECURITY PANEL 
+ 
+ 
+19 
+ 
+Security ($120,000), IT OT Lead ($146,900), 
+1 
+Reliability Analyst ($101,800). This panel will 
+2 
+only review the Director of Cyber Security and 
+3 
+the IT OT Lead positions.  The Reliability 
+4 
+Analyst positions will be addressed in the Staff 
+5 
+Electric Infrastructure and Operations Panel. 
+6 
+Q.   What are total annual salaries for the three 
+7 
+positions? 
+8 
+A.   The Company proposes $368,700 annual salary for 
+9 
+the three designated positions. 
+10 
+Q.   Does the Panel agree with the Company’s 
+11 
+proposal? 
+12 
+A.   Partially. We support the hiring of a Director 
+13 
+of Cyber Security. The cyber security labor 
+14 
+market is tight, even during the pandemic, with 
+15 
+far more job postings than experienced people to 
+16 
+fill them. In its response to DPS-460 the 
+17 
+Company proposes to use contractors rather than 
+18 
+full time staff as one method to address the 
+19 
+labor shortage. The Director position will 
+20 
+coordinate the efforts of the Company’s team and 
+21 
+contractors hired to supplement Company 
+22 
+
+
+--- Page 21 ---
+Cases 20-E-0428 & 20-G-0429             STAFF SECURITY PANEL 
+ 
+ 
+20 
+ 
+personnel. Other responsibilities of the 
+1 
+position include performing various security 
+2 
+related technical tasks that are necessary; and 
+3 
+those will have the added benefit of maintaining 
+4 
+the Director’s knowledge of and familiarity with 
+5 
+Central Hudson’s networks and capabilities so 
+6 
+they can identify where contractors are needed 
+7 
+the most and evaluate the performance of both 
+8 
+contractors and vendors more accurately. 
+9 
+ 
+The IT OT Lead, while less impactful than the 
+10 
+Director, would support the operational 
+11 
+technology (OT) and industrial control system 
+12 
+(ICS) that control’s the Company’s gas and 
+13 
+electric systems, with a role in patching ICS 
+14 
+equipment and cybersecurity hardening networks 
+15 
+and equipment. 
+16 
+ 
+The reliability Analyst position is discussed by 
+17 
+the Staff Accounting Panel. 
+18 
+Q.   Does this complete your testimony? 
+19 
+A.   Yes, at this time. 
+20 
+ 
+21 

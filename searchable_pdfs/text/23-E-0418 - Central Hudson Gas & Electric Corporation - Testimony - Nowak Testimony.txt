@@ -1,0 +1,4097 @@
+--- Page 1 ---
+ 
+ 
+ 
+ 
+ 
+ 
+ 
+ 
+ 
+ 
+ 
+ 
+ 
+ 
+ 
+ 
+Before the Public Service Commission 
+ 
+ 
+ 
+ 
+ 
+CENTRAL HUDSON GAS AND ELECTRIC CORPORATION 
+ 
+Direct Testimony  
+ 
+of  
+ 
+JOSHUA C. NOWAK 
+ 
+(VICE PRESIDENT OF  
+CONCENTRIC ENERGY ADVISORS, INC.) 
+ 
+ 
+ 
+ 
+ 
+ 
+ 
+ 
+ 
+ 
+ 
+ 
+Dated: July 31, 2023
+
+
+--- Page 2 ---
+ 
+Testimony of Joshua C. Nowak 
+ 
+ 
+  
+Table of Contents 
+ 
+ 
+I. 
+INTRODUCTION AND QUALIFICATIONS ......................................................... 1 
+II. 
+PURPOSE AND OVERVIEW OF TESTIMONY ................................................... 2 
+III. 
+REGULATORY GUIDELINES AND FINANCIAL CONSIDERATIONS ......... 6 
+IV. 
+REGULATORY AND BUSINESS RISKS ............................................................. 14 
+A. 
+Decarbonization Policy ..................................................................................... 14 
+B. 
+Regulatory Risk Assessment ............................................................................. 18 
+C. 
+Regulatory Environment ................................................................................... 21 
+V. 
+CAPITAL MARKET CONDITIONS ..................................................................... 25 
+VI. 
+PROXY GROUP SELECTION ............................................................................... 35 
+VII. 
+COST OF EQUITY ESTIMATION........................................................................ 39 
+A. 
+Discounted Cash Flow Model ........................................................................... 42 
+B. 
+Capital Asset Pricing Model ............................................................................. 57 
+C. 
+Weighted Average Results ................................................................................ 63 
+VIII. CAPITAL STRUCTURE ......................................................................................... 66 
+IX. 
+MULTI-YEAR RATE PLAN................................................................................... 69 
+X. 
+CONCLUSION AND RECOMMENDATION ...................................................... 71 
+
+
+--- Page 3 ---
+Testimony of Joshua C. Nowak 
+Page 1 of 72 
+I. INTRODUCTION AND QUALIFICATIONS 
+Q. 
+Please state your name, affiliation, and business address. 
+1 
+A. 
+My name is Joshua C. Nowak.  I am employed by Concentric Energy 
+2 
+Advisors, Inc. (“Concentric”) as Vice President. Concentric is a 
+3 
+management consulting and economic advisory firm, focused on the North 
+4 
+American energy and water industries. Based in Marlborough, 
+5 
+Massachusetts and Washington, D.C., Concentric specializes in regulatory 
+6 
+and litigation support, financial advisory services, energy market strategies, 
+7 
+market assessments, energy commodity contracting and procurement, 
+8 
+economic feasibility studies, and capital market analyses. My business 
+9 
+address is 293 Boston Post Road West, Suite 500, Marlborough, 
+10 
+Massachusetts 01752. 
+11 
+ 
+12 
+Q. 
+On whose behalf are you submitting this Direct Testimony? 
+13 
+A. 
+I am submitting this Direct Testimony on behalf of Central Hudson Gas & 
+14 
+Electric Corporation (“Central Hudson” or the “Company”), which is a 
+15 
+wholly-owned subsidiary of Fortis, Inc. (“Fortis”).  My Direct Testimony is 
+16 
+part of the Company’s rate case filings before the New York State Public 
+17 
+Service Commission (“Commission”). 
+18 
+
+
+--- Page 4 ---
+Testimony of Joshua C. Nowak 
+Page 2 of 72 
+ 
+1 
+Q. 
+Please describe your experience in the energy and utility industries and 
+2 
+your educational and professional qualifications. 
+3 
+A. 
+I hold a Bachelor’s degree in Economics from Boston College, and have 
+4 
+more than 15 years of experience in providing economic, financial, and 
+5 
+strategic advisory services. As a consultant, I primarily advise clients in 
+6 
+regulated utility industries and have provided testimony regarding financial 
+7 
+matters before multiple regulatory agencies. I have advised numerous 
+8 
+energy and utility clients on a wide range of financial and economic issues 
+9 
+with primary concentrations in valuation and utility rate matters. Many of 
+10 
+these assignments have included the determination of the cost of capital for 
+11 
+valuation and ratemaking purposes. I have provided testimony before the 
+12 
+Federal Energy Regulatory Commission (“FERC”) as well as state and 
+13 
+provincial jurisdictions in the U.S. and Canada. A summary of my 
+14 
+professional and educational background is presented as Attachment A. 
+15 
+ 
+16 
+II. PURPOSE AND OVERVIEW OF TESTIMONY 
+Q. 
+What is the purpose of your Direct Testimony? 
+17 
+A. 
+The purpose of my Direct Testimony is to present evidence and provide a 
+18 
+recommended range for the Company’s cost of equity (sometimes referred 
+19 
+to as the Return on Equity or “ROE” for rate-setting purposes) and capital 
+20 
+structure for the Company’s electric and gas distribution utility operations.  
+21 
+
+
+--- Page 5 ---
+Testimony of Joshua C. Nowak 
+Page 3 of 72 
+My analysis and recommendations are supported by the data presented in 
+1 
+Exhibits __ (JCN-1) through __ (JCN-8). 
+2 
+ 
+3 
+Q. 
+Please provide a brief overview of the analyses that led to your ROE 
+4 
+recommendation. 
+5 
+A. 
+As discussed in more detail in the remainder of my Direct Testimony, it is 
+6 
+important to consider the results of several analytical approaches in 
+7 
+determining a reasonable recommendation for the Company’s ROE.  To 
+8 
+establish my ROE recommendation, I developed a proxy group that consists 
+9 
+of utilities that face investment risk generally comparable to that faced by 
+10 
+the Company. I developed a multi-stage Discounted Cash Flow (“DCF”) 
+11 
+model and two forms of the Capital Asset Pricing Model (“CAPM”).  I have 
+12 
+presented the DCF and CAPM results weighted equally, and with the 
+13 
+Commission’s conventional 2/3 weighting of the DCF and 1/3 weighting of 
+14 
+the CAPM.  
+15 
+ 
+16 
+The use of a multi-stage DCF model and two forms of the CAPM is 
+17 
+consistent with the approach employed by the Commission in prior cases.  
+18 
+While my equal weighting of the DCF and CAPM results does not conform 
+19 
+to the weighting typically employed in proceedings before the Commission 
+20 
+in the past, I explain in my Direct Testimony why placing less emphasis on 
+21 
+the DCF model at this time is reasonable and consistent with the goals of 
+22 
+the Recommended Decision (“Generic Finance RD”) issued in the Generic 
+23 
+
+
+--- Page 6 ---
+Testimony of Joshua C. Nowak 
+Page 4 of 72 
+Finance Proceeding (“GFP”), Case 91-M-0509, which is the docket that has 
+1 
+been cited by the Commission to establish the ROE formula.  
+2 
+ 
+3 
+In addition, I have considered how current market conditions have affected 
+4 
+the results of the ROE estimation models.  The current economic 
+5 
+environment is characterized by increased inflationary pressures.  In 
+6 
+response to elevated inflation, and responsive tightening of monetary policy 
+7 
+that has caused an increase in interest rates.  Further, I evaluated the 
+8 
+Company’s risk profile, including capital spending plans, the regulatory 
+9 
+environment, and the emerging risks due to decarbonization policy. 
+10 
+  
+11 
+Q. 
+Please summarize the results of the ROE estimation models that you 
+12 
+considered in your analyses.   
+13 
+A. 
+As noted above, I considered the results of the multi-stage form of the DCF 
+14 
+model and two versions of the CAPM.  The results of my analyses are 
+15 
+summarized in Figure 1 (below). 
+16 
+Figure 1:  Summary of Analytical Results 
+17 
+ 
+Low 
+Mean 
+High 
+DCF 
+9.29% 
+9.77% 
+10.45% 
+Mean CAPM 
+10.97% 
+10.97% 
+10.97% 
+67%/33% 
+DCF/CAPM 
+9.85% 
+10.17% 
+10.62% 
+50%/50% 
+DCF/CAPM 
+10.13% 
+10.37% 
+10.71% 
+ 
+18 
+
+
+--- Page 7 ---
+Testimony of Joshua C. Nowak 
+Page 5 of 72 
+Q. 
+What are your conclusions regarding the appropriate cost of equity for 
+1 
+the Company? 
+2 
+A. 
+Based on the quantitative and qualitative analyses and the weighting of the 
+3 
+DCF and CAPM results presented in Figure 1, as well as my assessment of 
+4 
+the business and financial risk environment of Central Hudson relative to 
+5 
+the proxy group, I conclude that the appropriate ROE for the Company is 
+6 
+within the range of 9.80 percent and 10.80 percent. The Company is 
+7 
+requesting an ROE of 9.80 percent, which is at the low end of the range of 
+8 
+reasonableness and is a conservative estimate of the investor-required ROE.  
+9 
+ 
+10 
+Q. 
+Please summarize your analysis of the appropriate ratemaking capital 
+11 
+structure for the Company. 
+12 
+A. 
+The analysis presented in Section VIII demonstrates that the Company’s 
+13 
+requested equity ratio of 50.00 percent is below the mean equity ratio of 
+14 
+54.13 percent for the operating utility companies in the proxy group over 
+15 
+the last four years.  Therefore, I conclude that the Company’s requested 
+16 
+equity ratio is reasonable, and in fact, conservative.  
+17 
+ 
+18 
+Q. 
+How is the remainder of your Direct Testimony organized? 
+19 
+A. 
+The remainder of my Direct Testimony is organized as follows: 
+20 
+ 
+Section III –  
+Discusses the regulatory guidelines and financial 
+21 
+considerations pertinent to the development of the 
+22 
+Cost of Capital;   
+23 
+ 
+Section IV – 
+Summarizes the specific regulatory and business 
+24 
+risks that have a direct bearing on the Company’s 
+25 
+cost of equity; 
+ 
+26 
+
+
+--- Page 8 ---
+Testimony of Joshua C. Nowak 
+Page 6 of 72 
+ 
+Section V – 
+Briefly discusses the current capital market 
+1 
+conditions and the effect of those conditions on the 
+2 
+Company’s cost of equity;  
+3 
+ 
+Section VI –  
+Explains my selection of the proxy group used to 
+4 
+develop my analytical results;  
+5 
+ 
+Section VII –  Explains my analyses and the analytical bases for 
+6 
+the ROE recommendation;  
+7 
+ 
+Section VIII – Provides an assessment of the Company’s proposed 
+8 
+capital structure; 
+9 
+ 
+Section IX – 
+Provides an assessment of the effect of a Multi-Year 
+10 
+Rate Plan on the ROE; and 
+11 
+ 
+Section X – 
+Summarizes my conclusions and recommendations. 
+12 
+ 
+13 
+III. REGULATORY GUIDELINES AND FINANCIAL 
+CONSIDERATIONS 
+Q. 
+Please describe the guiding principles to be used in establishing the cost 
+14 
+of capital for a regulated utility. 
+15 
+A. 
+The foundations of public utility regulation require that utilities receive a 
+16 
+fair rate of return sufficient to attract needed capital to maintain service to 
+17 
+customers at reasonable rates.  The basic tenets of this regulatory doctrine 
+18 
+originate from two decisions by the United States Supreme Court, notably 
+19 
+Bluefield Waterworks and Improvement Company v. Public Service 
+20 
+Commission of West Virginia, 262 U.S. 679 (1923) (Bluefield), and Federal 
+21 
+Power Commission v. Hope Natural Gas Company, 320 U.S. 591 (1944) 
+22 
+(Hope).  In Bluefield, the Court stated:   
+23 
+A public utility is entitled to such rates as will permit it to 
+24 
+earn a return on the value of the property which it employs 
+25 
+
+
+--- Page 9 ---
+Testimony of Joshua C. Nowak 
+Page 7 of 72 
+for the convenience of the public equal to that generally 
+1 
+being made at the same time and in the same general part of 
+2 
+the country on investments in other business undertakings 
+3 
+which 
+are 
+attended 
+by 
+corresponding 
+risks 
+and 
+4 
+uncertainties… 
+5 
+The return should be reasonably sufficient to assure investor 
+6 
+confidence in the financial soundness of the utility and 
+7 
+should be adequate, under efficient and economical 
+8 
+management, to maintain and support its credit and enable it 
+9 
+to raise the money necessary for the proper discharge of its 
+10 
+public duties. 
+11 
+Later, in Hope, the Court established a standard for the ROE that remains 
+12 
+the guiding principle for ratemaking regulatory proceedings to this day: 
+13 
+[T]he return to the equity owner should be commensurate 
+14 
+with returns on investments in other enterprises having 
+15 
+corresponding risks.  That return, moreover, should be 
+16 
+sufficient to assure confidence in the financial integrity of 
+17 
+the enterprise, so as to maintain its credit and to attract 
+18 
+capital. 
+19 
+Q. 
+Please explain how these principles apply in the context of the regulated 
+20 
+rate of return.  
+21 
+A. 
+Regulated utilities rely primarily on common stock and long-term debt to 
+22 
+finance permanent property, plant, and equipment.  The allowed rate of 
+23 
+return for a regulated utility is based on its weighted average cost of capital, 
+24 
+where the costs of the individual sources of capital (i.e., debt and equity) 
+25 
+are weighted by their respective book values.  The ROE represents the cost 
+26 
+of raising and retaining equity capital and is estimated with one or more 
+27 
+analytical techniques that use market data to quantify investor requirements 
+28 
+for equity returns.  However, the ROE cannot be derived mechanically 
+29 
+through quantitative metrics and models alone.  To properly estimate the 
+30 
+
+
+--- Page 10 ---
+Testimony of Joshua C. Nowak 
+Page 8 of 72 
+ROE, the financial, regulatory, and economic context must also be 
+1 
+considered. 
+2 
+Based on the standards established in Hope and Bluefield, the 
+3 
+authorized ROE in this proceeding should provide the Company with the 
+4 
+opportunity to earn a fair and reasonable return that is: 
+5 
+ Adequate to allow the Company to attract the capital that is 
+6 
+necessary to provide safe and reliable service (the “capital attraction 
+7 
+standard”); 
+8 
+ Sufficient to ensure the Company’s ability to maintain its financial 
+9 
+integrity (the “financial integrity standard”); and 
+10 
+ At a level that is comparable to returns required on investments of 
+11 
+similar risk (the “comparability standard”).  
+12 
+Importantly, a fair return must satisfy all three of these standards.  The 
+13 
+allowed ROE should enable the Company to finance capital expenditures 
+14 
+on reasonable terms and provide the Company with the ability to raise 
+15 
+capital under a full range of capital market circumstances to serve its 
+16 
+customers.  The DCF and CAPM approaches, while fundamental to the 
+17 
+ROE determination, are still only models.  The results of these models 
+18 
+cannot be mechanically applied without also using informed judgment to 
+19 
+consider economic and capital market conditions and the relative risk of 
+20 
+Central Hudson as compared to the proxy group companies.  
+21 
+
+
+--- Page 11 ---
+Testimony of Joshua C. Nowak 
+Page 9 of 72 
+ 
+1 
+Q. 
+Did the Commission conduct a proceeding to review the standard for 
+2 
+estimating the Cost of Capital for a regulated utility? 
+3 
+A. 
+Yes.  On August 21, 1991, the Commission established the GFP to review 
+4 
+the Commission’s then-current methodology for estimating the cost of 
+5 
+equity and to examine various alternatives.1 
+6 
+ 
+7 
+Q. 
+Please provide a brief summary of the purpose of the GFP. 
+8 
+A. 
+The Commission’s goal in opening the GFP was to eliminate controversy 
+9 
+around ROE calculations and attempt to find common ground on 
+10 
+contentious issues by developing a consensus approach for setting utility 
+11 
+equity returns.  Among other things, the Commission questioned whether 
+12 
+there should be greater consistency in rate of return determinations from 
+13 
+company to company, such that differences in returns could be directly 
+14 
+attributed to differences in risk between companies, and whether the 
+15 
+Commission’s 
+historical 
+primary 
+reliance 
+on 
+DCF-based 
+ROE 
+16 
+determinations continued to provide fair returns.2     
+17 
+ 
+18 
+Q. 
+Please describe the conclusions outlined in the Generic Finance RD. 
+19 
+A. 
+The Generic Finance RD concluded that the Commission should implement 
+20 
+a generic process for setting returns, based on proxy groups (not company-
+21 
+ 
+1  
+Case 91-M-0509, Proceeding on Motion of the Commission to Consider Financial and 
+Regulatory Policies for New York State Utilities, Recommended Decision, (issued 
+July 19, 1994) (“Generic Finance RD”), at 2. 
+2  
+Id. at 13-14. 
+
+
+--- Page 12 ---
+Testimony of Joshua C. Nowak 
+Page 10 of 72 
+specific data), and that reliance on the DCF method should be replaced with 
+1 
+a combination of the DCF and CAPM methodologies.  The RD proposed to 
+2 
+use as a preferred convention a methodology that gives a respective 2/3rd to 
+3 
+1/3rd weighting to the results of the DCF and CAPM analyses. The RD 
+4 
+recognized that the CAPM “should figure prominently in the analysis” 
+5 
+because this methodology provides fundamental information on interest 
+6 
+rates and the returns required by stocks as a result of changes in interest 
+7 
+rates.  At that time, the CAPM was not accorded the same level of 
+8 
+prominence as the DCF analysis, given that the former had previously only 
+9 
+been used as a check.3  However, while the Generic Finance RD recognized 
+10 
+a benefit to establishing an “operating norm” with respect to setting the 
+11 
+ROE, it also recognized that there may be good reason to adjust either the 
+12 
+weightings of the DCF and CAPM models or to rely on different ROE 
+13 
+estimation models.  Specifically, the RD provides the following guidance: 
+14 
+In either an annual-proceeding to determine a rate of 
+15 
+return or in individual proceedings, the 2/3 DCF and 1/3 
+16 
+CAPM convention should be the presumption, but as 
+17 
+Multiple Intervenors suggests, parties would not be 
+18 
+barred from introducing new methods or different 
+19 
+weightings. Such parties, however, would have the 
+20 
+burden of convincing other parties and the Commission 
+21 
+of the relevance or superiority of their proposals. 4 
+22 
+To establish the “operating norm,” the Generic Finance RD recommended 
+23 
+specific forms of the ROE estimation models – a two-stage DCF approach 
+24 
+and a Traditional and Zero Beta CAPM. In the DCF model, the first-stage 
+25 
+ 
+3  
+Id. at 27. 
+4  
+Id. 
+
+
+--- Page 13 ---
+Testimony of Joshua C. Nowak 
+Page 11 of 72 
+growth was determined by the implied growth rate in Value Line dividend 
+1 
+forecasts for four- to six-years in the future.  The second growth rate began 
+2 
+with the end of the four- to six-year period of the first stage and extended 
+3 
+infinitely.  The second stage included what is termed an “SV”5 adjustment 
+4 
+for external growth through additional equity issuances.6  The CAPM result 
+5 
+was proposed to be based on the average of the Traditional and Zero-Beta 
+6 
+forms of the model.7  Dividend yields in the DCF analysis and risk-free bond 
+7 
+yields in the CAPM analyses were based on six months of yield data.8  
+8 
+Equity ratios were capped at the upper end of the levels necessary to 
+9 
+maintain an “A” bond rating.9  Although the Generic Finance RD was never 
+10 
+formally adopted by the Commission, it has served as a touchstone for the 
+11 
+Commission’s ROE determinations for more than 25 years. 
+12 
+ 
+13 
+Q. 
+Does the analysis presented in the remainder of your Direct Testimony 
+14 
+meet the intentions of the Generic Finance RD? 
+15 
+A. 
+Yes, it does.  As discussed in greater detail in Section VII, the 
+16 
+methodologies that I have applied to estimate the return on equity are 
+17 
+consistent with Commission precedent since the issuance of the Generic 
+18 
+Finance RD in the GFP.  Moreover, the models used in my analysis extend 
+19 
+ 
+5  
+“SV” is the product of new shares issued as a percentage of current shares (“S”) and 
+the value of the market-to-book ratio accruing to shareholders (“V”) as determined by: 
+1 - (book value / market value). 
+6  
+Generic Finance RD at 21. 
+7  
+Id. at 24. 
+8  
+Id. at 26. 
+9  
+Id. at 43. 
+
+
+--- Page 14 ---
+Testimony of Joshua C. Nowak 
+Page 12 of 72 
+the principles advanced in the Generic Finance RD to best practices in 
+1 
+financial analysis and current capital market conditions, as was 
+2 
+contemplated in the Generic Finance RD.     
+3 
+ 
+4 
+Specifically, I rely on the weighted results of DCF and CAPM analyses.  In 
+5 
+developing these ROE estimation models, I rely on proxy groups of risk-
+6 
+comparable companies as discussed in Section VI.  I have used both the 
+7 
+DCF and CAPM methodologies to estimate the return on equity.  The multi-
+8 
+stage DCF model that I relied on is consistent with the methodology that 
+9 
+the Commission has relied on in that it allows growth rates to vary over 
+10 
+time.  Consistent with the fundamental principles upheld by the 
+11 
+Commission, I have applied two versions of the CAPM: Traditional and 
+12 
+Zero Beta.  Finally, consistent with the principles of the GFP, to reduce the 
+13 
+volatility associated with the reliance on any one model, I have considered 
+14 
+the DCF and CAPM results weighted equally, and with the Generic Finance 
+15 
+RD’s proposed 2/3 weighting on the DCF and 1/3 weighting of the CAPM.    
+16 
+ 
+17 
+Q. 
+Do the principles and intentions of the Generic Finance RD in the GFP 
+18 
+require adherence to a static formula? 
+19 
+A. 
+No.  The GFP and the Generic Finance RD did not require strict adherence 
+20 
+to a static formula, rather, they promoted some basic principles and afforded 
+21 
+parties the flexibility to investigate approaches to address changing 
+22 
+financial market conditions.  When faced with the task of estimating the 
+23 
+
+
+--- Page 15 ---
+Testimony of Joshua C. Nowak 
+Page 13 of 72 
+cost of equity, analysts are inclined to gather and evaluate as much relevant 
+1 
+data (both quantitative and qualitative) as can be reasonably analyzed.  
+2 
+Analysts and academics understand that ROE models are tools to be used 
+3 
+in the ROE estimation process, and that strict adherence to any single 
+4 
+approach, or the specific results of any single approach, can lead to flawed 
+5 
+conclusions.  No model can exactly pinpoint the correct return on equity; 
+6 
+rather, each model brings its own perspective and set of inputs that inform 
+7 
+the estimate of ROE.  That position is consistent with the Hope finding that 
+8 
+“[u]nder the statutory standard of ‘just and reasonable,’ it is the result 
+9 
+reached, not the method employed, which is controlling.”10  
+10 
+ 
+11 
+Although each model brings a different perspective and adds depth to the 
+12 
+analysis, each model also has its own set of inherent weaknesses and should 
+13 
+not be relied upon individually without corroboration from other 
+14 
+approaches.  Changes to inputs as a result of changes in economic 
+15 
+conditions could have widely different effects on the results of the various 
+16 
+analyses.  Regardless of which analyses are performed to estimate the 
+17 
+investors’ required return on equity, the analyst must apply judgment to 
+18 
+assess the reasonableness of results and to determine the best weighting to 
+19 
+apply to results under prevailing capital market conditions.  No one model 
+20 
+can reliably and consistently estimate the cost of capital that meets the 
+21 
+fairness standard of Hope and Bluefield in all market conditions.  
+22 
+ 
+10  Hope, 320 U.S. at 602. 
+
+
+--- Page 16 ---
+Testimony of Joshua C. Nowak 
+Page 14 of 72 
+ 
+1 
+Q. 
+What is your conclusion with regard to regulatory guidelines and the 
+2 
+application of the models used to estimate the cost of equity? 
+3 
+A. 
+The RD recognized that the CAPM provides fundamental information on 
+4 
+interest rates and the returns required by stocks as a result of changes in 
+5 
+interest rates.  Further, it also recognized that there may be good reason to 
+6 
+adjust the weightings of the DCF and CAPM models in the future.  As 
+7 
+discussed in Section V, interest rates have increased substantially in recent 
+8 
+months and are a particular concern to investors in the current capital market 
+9 
+environment.  Given the recent changes in the financial markets, and the 
+10 
+fact that the CAPM directly accounts for changes in interest rates (i.e., risk-
+11 
+free rate) and the relative performance of utilities relative to the broader 
+12 
+equity market (i.e., Beta), it is necessary to evaluate the appropriate weight 
+13 
+to give the CAPM in determining the ROE for the Company. 
+14 
+ 
+15 
+IV. REGULATORY AND BUSINESS RISKS 
+A. DECARBONIZATION POLICY 
+16 
+Q.  
+Are there recent developments that have increased the business risk to 
+17 
+utilities generally in New York? 
+18 
+A.  
+Yes.   New York passed the Climate Leadership and Community Protection 
+19 
+Act (“CLCPA”), which envisions carbon free electricity by 2040 and a net 
+20 
+zero carbon economy by 2050.  As it relates to Central Hudson, the New 
+21 
+York Climate Action Council’s Final Scoping Plan (“Scoping Plan”) 
+22 
+
+
+--- Page 17 ---
+Testimony of Joshua C. Nowak 
+Page 15 of 72 
+indicates that significant enhancements to the electric grid may be needed 
+1 
+to “facilitate the integration of renewable energy, and prioritize clean 
+2 
+resources.”11  Further, as it relates to the Company’s gas distribution 
+3 
+operations, “a substantial reduction of fossil natural gas use and strategic 
+4 
+downsizing and decarbonization of the gas system”12 may be required to 
+5 
+achieve emissions limits.  This could result in significant financial and 
+6 
+market risk for Central Hudson.  While the implementation of this 
+7 
+legislation continues to be a work-in-progress, the uncertainty surrounding 
+8 
+it creates significant financial and market risk for utility companies as New 
+9 
+York considers alternatives to fossil fuels. 
+10 
+ 
+11 
+Q. 
+Please explain how implementation of the CLCPA’s plans affect the 
+12 
+Company’s risk profile. 
+13 
+A. 
+To implement the proposed CLCPA’s objectives, significant investments 
+14 
+are required for the Company’s electric transmission and distribution 
+15 
+systems and gas distribution operations.  For electric utilities, the Scoping 
+16 
+Plan identifies: (1) “proactive and timely investments in local transmission 
+17 
+and distribution infrastructure” to facilitate distributed energy resources;13 
+18 
+and (2) “significant investments in New York’s electricity transmission and 
+19 
+distribution system to allow for the utilization of new renewable and energy 
+20 
+ 
+11  New York State Climate Action Council. 2022. “New York State Climate Action 
+Council Scoping Plan,” http://climate.ny.gov/ScopingPlan, Full report December 
+2022, at 240. 
+12  Id., at 350. 
+13  Id., at 234. 
+
+
+--- Page 18 ---
+Testimony of Joshua C. Nowak 
+Page 16 of 72 
+storage resources and to meet growing electric load due to electrification.”14  
+1 
+With regard to natural gas utility operations, methane emissions must be 
+2 
+reduced requiring continued capital investments to replace leak prone 
+3 
+pipe.15  Consistent with these requirements, FitchRatings (“Fitch”) has 
+4 
+recognized the Company’s “Elevated Capex Program” as key rating driver, 
+5 
+noting “Capital is primarily allocated toward infrastructure upgrades, 
+6 
+advanced grid initiatives supporting state energy policy, and growing IT and 
+7 
+facilities investments.”16 
+8 
+ 
+9 
+Q. 
+Do credit rating agencies recognize the risks associated with significant 
+10 
+capital expenditures? 
+11 
+A. 
+Yes, they do.  The additional pressure on cash flows associated with high 
+12 
+levels of capital expenditures exerts corresponding pressure on credit 
+13 
+metrics and, therefore, credit ratings.  A 2016 S&P report noted: 
+14 
+ 
+14  Id., at 242. 
+15  Id., at 358. 
+16  FitchRatings, “Central Hudson Gas & Electric Corp.” January 27, 2023, at 1. 
+
+
+--- Page 19 ---
+Testimony of Joshua C. Nowak 
+Page 17 of 72 
+When applicable, a jurisdiction's willingness to support 
+1 
+large capital projects with cash during construction is an 
+2 
+important aspect of our analysis. This is especially true 
+3 
+when the project represents a major addition to rate base 
+4 
+and entails long lead times and technological risks that 
+5 
+make it susceptible to construction delays. Broad 
+6 
+support for all capital spending is the most credit-
+7 
+sustaining. Support for only specific types of capital 
+8 
+spending, such as specific environmental projects or 
+9 
+system integrity plans, is less so, but still favorable for 
+10 
+creditors. Allowance of a cash return on construction 
+11 
+work-in-progress or similar ratemaking methods 
+12 
+historically were extraordinary measures for use in 
+13 
+unusual circumstances, but when construction costs are 
+14 
+rising, cash flow support could be crucial to maintain 
+15 
+credit quality through the spending program. Even more 
+16 
+favorable are those jurisdictions that present an 
+17 
+opportunity for a higher return on capital projects as an 
+18 
+incentive to investors.17  
+19 
+ 
+20 
+As it relates to the Company, S&P pointed to “the company’s elevated 
+21 
+capital spending” as contributing to the decline in the Company’s stand-
+22 
+alone financial metrics.18  Similarly, Fitch indicated that it “expects credit 
+23 
+metrics will be pressured in the forecast years due to continued elevated 
+24 
+capex and lower cash flow as a result of rate moderation components.” 19 
+25 
+ 
+17 S&P Global Ratings, Ratings Direct, “Assessing U.S. Investor-Owned Utility 
+Regulatory Environments,” August 10, 2016, at 7.  
+18 S&P Global Ratings, Ratings Direct, “Central Hudson Gas & Electric Corp. 
+Downgraded To 'BBB+' On Weakening Financial Measures, Outlook Stable,” 
+December 1, 2022, at 1.  
+19  FitchRatings, “Central Hudson Gas & Electric Corp.” January 27, 2023, at 1. 
+
+
+--- Page 20 ---
+Testimony of Joshua C. Nowak 
+Page 18 of 72 
+ 
+1 
+Q. 
+What are your conclusions regarding the effect of the required 
+2 
+investments under the CLCPA on Central Hudson’s the cost of equity? 
+3 
+A. 
+It is clear that the Company’s required capital expenditures to meet the 
+4 
+CLCPA’s objectives are significant.  This elevated level of capital 
+5 
+expenditures increases the importance of setting a return for Central Hudson 
+6 
+that is within the range of reasonableness to support the financial integrity 
+7 
+of the Company to ensure continued access to capital markets such that the 
+8 
+Company is able make investments for its customers and meet the 
+9 
+objectives of the CLCPA. 
+10 
+ 
+11 
+B. REGULATORY RISK ASSESSMENT 
+12 
+Q. 
+Have you performed an analysis of the level of regulatory support that 
+13 
+the Company receives in New York as compared to the proxy group 
+14 
+companies? 
+15 
+A. 
+Yes.  I conducted an analysis of the regulatory protections that are in place 
+16 
+for Central Hudson compared with those for the operating utility companies 
+17 
+held by the proxy group companies.  The results of my analysis are 
+18 
+presented in Exhibit ___ (JCN-6).  Specifically, I examined the following 
+19 
+factors that affect the business risk of Central Hudson and the proxy group 
+20 
+companies: (1) test year convention; (2) fuel cost recovery; (3) revenue 
+21 
+decoupling; and (4) capital cost recovery. 
+22 
+ 
+23 
+
+
+--- Page 21 ---
+Testimony of Joshua C. Nowak 
+Page 19 of 72 
+As shown in Exhibit ___ (JCN-6), 48 percent of the operating companies 
+1 
+(i.e., 44 out of 91) in the proxy groups provide service in jurisdictions that 
+2 
+allow the use of a fully or partially forecast test year.  All of the operating 
+3 
+companies held by the proxy groups are allowed to pass through fuel costs 
+4 
+and purchased power costs directly to customers, so that the utility does not 
+5 
+incur any risk associated with fuel or purchased power costs.  It is important 
+6 
+to recognize that fuel and purchased power costs typically account for 50 – 
+7 
+60 percent of the total operating costs for a regulated utility.  Like Central 
+8 
+Hudson, 57 percent of the operating utilities held by the proxy group (i.e., 
+9 
+52 out of 91) have revenue decoupling mechanisms or weather 
+10 
+normalization adjustment clauses that allow them to break the link between 
+11 
+customer usage and revenues.  Finally, approximately 62 percent of the 
+12 
+operating utilities held by the proxy group (56 out of 91) have capital cost 
+13 
+recovery mechanisms that allow them to recover capital investments that 
+14 
+are placed into service between rate cases. 
+15 
+ 
+16 
+Q. 
+Based on these analyses, what is your conclusion regarding the level of 
+17 
+regulatory support for Central Hudson relative to that of the proxy 
+18 
+group companies? 
+19 
+A. 
+My conclusion is that Central Hudson has comparable regulatory protection 
+20 
+to the proxy group companies. While the Commission has been a leader in 
+21 
+implementing mechanisms that reduce the business risk of regulated 
+22 
+utilities in New York, many other jurisdictions have taken similar steps in 
+23 
+more recent years, leading to no meaningful difference in business risk 
+24 
+
+
+--- Page 22 ---
+Testimony of Joshua C. Nowak 
+Page 20 of 72 
+difference from the proxy group.  However, despite a comparable degree of 
+1 
+regulatory support through recovery mechanisms, the Commission has 
+2 
+consistently provided some of the lowest equity return in the nation as New 
+3 
+York’s electric and gas utilities’ average authorized ROEs were 66 basis 
+4 
+points below the national average for electric and gas utilities in 2020-
+5 
+2022.20  As shown in Figure 2, the combination of low authorized ROEs and 
+6 
+low equity ratios demonstrates that New York is consistently in the bottom 
+7 
+quartile of the lowest authorized ROEs and the lowest authorized equity 
+8 
+ratios. 
+9 
+ 
+Figure 2: Authorized ROEs and Equity Ratios 2020-2022 
+10 
+ 
+11 
+ 
+12 
+ 
+20  Source:  Regulatory Research Associates.  2020-2022 average authorized ROEs for 
+states other than New York (excluding limed issue riders, formula rate plans, and 
+penalty ROEs) were 9.59 percent compared to an average authorized ROE of 8.93 
+percent in New York. 
+40.00%
+45.00%
+50.00%
+55.00%
+60.00%
+65.00%
+8.50%
+8.70%
+8.90%
+9.10%
+9.30%
+9.50%
+9.70%
+9.90%
+10.10%
+10.30%
+10.50%
+New York
+Other States
+Avg. Equity Ratio
+Avg. ROE
+• 
+• 
+• 
+• 
+• 
+• 
+• 
+• 
+• 
+
+
+--- Page 23 ---
+Testimony of Joshua C. Nowak 
+Page 21 of 72 
+Q. 
+Are there other risks to the Company that are specific to New York 
+1 
+utility regulation?   
+2 
+A. 
+Yes.  In addition to the low equity returns that are typically authorized by 
+3 
+the Commission for New York’s electric and gas utilities, New York 
+4 
+utilities are subject to strictly-enforced customer service quality, electric 
+5 
+reliability, and gas safety measures where the utility is required to achieve 
+6 
+predetermined performance benchmarks, or be subject to a negative revenue 
+7 
+adjustment for any shortfall.  
+8 
+ 
+9 
+Q. 
+Do the negative revenue adjustments associated with these 
+10 
+performance metrics differentiate the Company from the proxy group 
+11 
+companies? 
+12 
+A. 
+Yes, they do.  The Company’s exposure places Central Hudson at greater 
+13 
+risk than proxy companies on average. 
+14 
+ 
+15 
+C. REGULATORY ENVIRONMENT 
+16 
+Q. 
+Please explain how the regulatory framework affects investors’ risk 
+17 
+assessments. 
+18 
+A. 
+The ratemaking process is premised on the principle that, for investors and 
+19 
+companies to commit the capital needed to provide safe and reliable utility 
+20 
+services, the subject utility must have the opportunity to recover invested 
+21 
+capital and the market-required return on such capital.  Regulatory 
+22 
+commissions recognize that because utility operations are capital intensive, 
+23 
+regulatory decisions should enable the utility to attract capital at reasonable 
+24 
+
+
+--- Page 24 ---
+Testimony of Joshua C. Nowak 
+Page 22 of 72 
+terms, which balance the long-term interests of investors and customers.  In 
+1 
+that respect, the regulatory framework in which a utility operates is one of 
+2 
+the most important factors considered in both debt and equity investors’ risk 
+3 
+assessments.  
+4 
+ 
+5 
+Q. 
+Please explain how credit rating agencies consider the regulatory 
+6 
+framework in establishing a company’s credit rating.  
+7 
+A. 
+S&P and Moody’s both consider the overall regulatory framework in 
+8 
+establishing credit ratings.  As shown in Figure 3, Moody’s establishes 
+9 
+credit ratings based on four key factors:   
+10 
+Figure 3: Moody’s Rating Factors 
+11 
+Factor 
+Weighting 
+Regulatory Framework 
+25% 
+Ability to Recover Costs and Earn Returns 
+25% 
+Diversification 
+10% 
+Financial Strength 
+40% 
+ 
+Total 
+100% 
+ 
+12 
+Two of these factors (i.e., regulatory framework and the ability to recover 
+13 
+costs and earn returns) are based on the regulatory environment such that 
+14 
+half of Moody’s overall assessment of business and financial risk for 
+15 
+regulated utilities is based upon the regulatory environment.21  Moody’s 
+16 
+ 
+21 Moody’s Investor Service, Rating Methodology, Regulated Electric and Gas Utilities, 
+December 23, 2013, at 6. 
+
+
+--- Page 25 ---
+Testimony of Joshua C. Nowak 
+Page 23 of 72 
+further subdivides the first two factors, regulatory framework and the ability 
+1 
+to recover costs and earn authorized returns, into sub-factors to help 
+2 
+“provide more granularity and transparency on the overall regulatory 
+3 
+environment, which is the most important consideration for this sector.”22 
+4 
+ 
+5 
+With respect to the regulatory framework, Moody’s looks for transparency, 
+6 
+predictability, and supportiveness of regulatory commissions.23  For the 
+7 
+second factor, ability to recover costs and earn returns, Moody’s evaluates 
+8 
+the regulatory elements that directly affect the ability of the utility to 
+9 
+generate cash flow and service its debt over time.24  Moody’s views the 
+10 
+ability to recover costs on a timely basis and to attract debt and equity 
+11 
+capital as crucial credit considerations noting that “[t]he inability to recover 
+12 
+costs…has been one of the greatest drivers of financial stress in this 
+13 
+sector.”25  This is particularly true as utilities are often cash flow negative 
+14 
+due to large capital expenditures, so any lack of timely recovery or 
+15 
+sufficiency of rates can strain access to capital markets. 
+16 
+ 
+17 
+S&P has also identified the regulatory environment as an important factor, 
+18 
+stating, “we believe the fundamental regulatory environment in the 
+19 
+jurisdictions in which a utility operates often influence credit quality the 
+20 
+ 
+22 Id. at 3.  
+23 Id. at 9-10. 
+24 Id. at 15. 
+25 Id. 
+
+
+--- Page 26 ---
+Testimony of Joshua C. Nowak 
+Page 24 of 72 
+most.”26 
+1 
+ 
+2 
+Q. 
+How does the regulatory environment in which a utility operates affect 
+3 
+its access to and cost of capital? 
+4 
+A. 
+The proportion and cost of debt capital available to utility companies are 
+5 
+influenced by the rating agencies’ assessment of the regulatory 
+6 
+environment.  Moody’s has highlighted the relevance of a stable and 
+7 
+predictable regulatory environment to a utility’s credit quality, stating that 
+8 
+“[b]roadly speaking, the Regulatory Framework is the foundation for how 
+9 
+all the decisions that affect utilities are made (including the setting of rates), 
+10 
+as well as the predictability and consistency of decision-making provided 
+11 
+by that foundation.”27 
+12 
+ 
+13 
+Q. 
+Has the Company received any recent ratings actions? 
+14 
+A. 
+Yes.  The Company was downgraded by Moody’s in 2021 and S&P in 2022.  
+15 
+On September 22, 2021 Moody’s downgraded the senior unsecured and 
+16 
+issuer ratings of Central Hudson from A3 to Baa1.  Subsequently, on 
+17 
+December 1, 2022, S&P downgraded Central Hudson’s issuer ratings from 
+18 
+A- to BBB+.  Moody’s pointed to the Company’s last joint proposal that 
+19 
+expected to “contribute to the weakness in financial metrics including 
+20 
+growth in regulatory assets combined with a reduction in regulatory 
+21 
+ 
+26 Standard & Poor’s, Assessing U.S. Utility Regulatory Environments, March 11, 2010, 
+at 2. 
+27  Id. 
+
+
+--- Page 27 ---
+Testimony of Joshua C. Nowak 
+Page 25 of 72 
+liabilities and a reduction in equity capital from 50% to 48% over the next 
+1 
+3 years and a large ongoing capital program.”28  S&P similarly pointed to 
+2 
+weakening financial measures due to constrained cash flow under the multi-
+3 
+year settlement agreement and specifically pointed to the ROE of 9.0 
+4 
+percent and the declining equity ratio from 50 percent to 48 percent.29 
+5 
+ 
+6 
+Q. 
+What is your conclusion with regard to Central Hudson’s business and 
+7 
+regulatory risk? 
+8 
+A. 
+It is important that the decision in this case is credit supportive, including 
+9 
+the authorized ROE.  As discussed above, Central Hudson is expected to 
+10 
+make significant investments in programs designed to benefit customers 
+11 
+and meet the objectives of the CLCPA.  Any decline in credit ratings will 
+12 
+increase costs to customers by increasing the cost of debt.  Given the level 
+13 
+of planned capital expenditures, any increases in borrowing costs could 
+14 
+have a significant effect on the costs to customers. 
+15 
+ 
+16 
+V.   CAPITAL MARKET CONDITIONS 
+Q. 
+Why is it important to analyze capital market conditions? 
+17 
+A. 
+The ROE estimation models rely on market data that are either specific to 
+18 
+the proxy group, in the case of the DCF model, or to the expectations of 
+19 
+ 
+28  Moody’s Investors Service, Credit Opinion, “Rating Action: Moody's downgrades 
+Central Hudson Gas & Electric to Baa1; stable outlook,” September 22, 2021, at 1. 
+29  S&P Global Ratings, “Research Update: Central Hudson Gas & Electric Corp. 
+Downgraded To 'BBB+' On Weakening Financial Measures, Outlook Stable” 
+December 1, 2022 at 1-2. 
+
+
+--- Page 28 ---
+Testimony of Joshua C. Nowak 
+Page 26 of 72 
+market risk, in the case of the CAPM.  The results of the ROE estimation 
+1 
+models can be affected by prevailing market conditions at the time the 
+2 
+analysis is performed.  While the ROE that is established in a rate 
+3 
+proceeding is intended to be forward-looking, the analyst uses current and 
+4 
+projected market data, specifically stock prices, dividends, growth rates and 
+5 
+interest rates in the ROE estimation models to estimate the required return 
+6 
+for the subject company.   
+7 
+ 
+ 
+8 
+As is discussed in the remainder of this section, analysts and regulatory 
+9 
+commissions have concluded that current market conditions have affected 
+10 
+the results of the ROE estimation models.  As a result, it is important to 
+11 
+consider the effect of these conditions on the ROE estimation models when 
+12 
+determining the appropriate range and recommended ROE for a future 
+13 
+period.  If investors do not expect historical or current market conditions to 
+14 
+be sustained in the future, it is possible that the ROE estimation models will 
+15 
+not provide an accurate estimate of investors’ required return during that 
+16 
+rate period.  Therefore, it is important to consider projected market data to 
+17 
+estimate the return for that forward-looking period. 
+18 
+ 
+19 
+Q. 
+Please describe the circumstances that have affected capital market 
+20 
+conditions. 
+21 
+A.  
+Inflation and elevated interest rates are the predominant factors in the 
+22 
+current economic environment.  However, it is important to put inflation 
+23 
+
+
+--- Page 29 ---
+Testimony of Joshua C. Nowak 
+Page 27 of 72 
+and the current monetary policy in historical context.  Following a period 
+1 
+of significant inflation and multiple recessions in the 1970s and early 1980s, 
+2 
+the past 30 years have been marked by low inflation and stable economic 
+3 
+growth as central banks have adopted inflation-targeting policies.  From the 
+4 
+mid-1980s until 2008, an extended period of low inflation was characterized 
+5 
+by tighter monetary policy as compared with the prior period.  In 2008, the 
+6 
+global financial crisis created a severe recession that was met with loose 
+7 
+monetary policy (i.e., lower target interest rates) and significant fiscal 
+8 
+policy stimulus.  However, inflationary pressures were offset by the 
+9 
+significant demand shock generated by the underlying credit crisis.  As a 
+10 
+consequence, the economy avoided significant inflation in the period 
+11 
+following the global financial crisis despite lower interest rates.  In 2018 
+12 
+and 2019, in the period immediately preceding the worldwide pandemic of 
+13 
+Coronavirus Disease 2019 (“COVID-19”), inflationary pressures remained 
+14 
+stable.  However, current capital market conditions have been significantly 
+15 
+affected by the economic repercussions of the COVID-19 pandemic and the 
+16 
+subsequent fiscal and monetary policy reactions. 
+17 
+ 
+18 
+Q. 
+What steps did the Federal Reserve take to stabilize financial markets 
+19 
+and support the economy in response to COVID-19?  
+20 
+A.  
+In response to the economic effects of COVID-19, the Federal Reserve 
+21 
+decreased the federal funds rate twice in March 2020, resulting in a target 
+22 
+range of 0.00 percent to 0.25 percent (which remained in effect until March 
+23 
+
+
+--- Page 30 ---
+Testimony of Joshua C. Nowak 
+Page 28 of 72 
+2022), and increased its holdings of both Treasury and mortgage-backed 
+1 
+securities, and supported increased credit to both businesses and individual 
+2 
+borrowers.  This increase in the money supply kept short-term interest rates 
+3 
+low and increased the ability of banks to lend to consumers and businesses.   
+4 
+ 
+5 
+Q. 
+Please summarize the fiscal policy response from the U.S. Congress.  
+6 
+A.  
+In addition to the Federal Reserve’s response, the U.S. Congress passed 
+7 
+approximately $4.5 trillion in fiscal stimulus programs.  On March 27, 
+8 
+2020, the Coronavirus Aid, Relief, and Economic Security Act was signed 
+9 
+into law, providing a large fiscal stimulus package aimed at mitigating the 
+10 
+economic effects of the coronavirus.  Further, in March 2021, the U.S. 
+11 
+Congress approved additional fiscal stimulus of $1.9 trillion in response to 
+12 
+the ongoing economic effects of COVID-19.  The extraordinary measures 
+13 
+taken by the Federal Reserve and U.S. Congress to support the economy 
+14 
+and stabilize financial markets impacted bond markets (deliberately driving 
+15 
+government and corporate yields lower) and equity markets (creating 
+16 
+upward pressure on valuations and downward pressure on yields for 
+17 
+dividend paying companies such as utilities).  However, these fiscal 
+18 
+stimulus programs have increased inflationary pressures, as evidenced in 
+19 
+the sharp run-up in inflation and corresponding upward spike in bond yields 
+20 
+since late November 2021. 
+21 
+
+
+--- Page 31 ---
+Testimony of Joshua C. Nowak 
+Page 29 of 72 
+  
+1 
+ Q. 
+Please describe the effect of these policies on inflation.  
+2 
+A. 
+Inflation has been a significant cause for concern among both policymakers 
+3 
+and investors.  As shown in Figure 4 below, inflation levels have moved 
+4 
+within a relatively narrow band over the past twenty years (other than during 
+5 
+the Great Recession of 2007/08).  Starting with the initial stages of the 
+6 
+COVID-19 pandemic in 2020, inflation levels have been driven higher, 
+7 
+reaching 9.1 percent in June of 2022.  Inflation is being driven by strong 
+8 
+consumer demand and supply constraints, some of which have been 
+9 
+exacerbated by COVID-19 related government stimulus programs in the 
+10 
+U.S. and international lockdowns.  More recently, the war in Ukraine, which 
+11 
+began in February 2022, is constraining the world’s supply of food and fuel, 
+12 
+pushing overall inflation higher and feeding into the cost of other products 
+13 
+and services. 
+14 
+
+
+--- Page 32 ---
+Testimony of Joshua C. Nowak 
+Page 30 of 72 
+Figure 4: Consumer Price Index, 12-month Percentage Change30 
+1 
+ 
+2 
+As a result of these substantially higher inflation rates, the Federal Reserve 
+3 
+has been left little choice but to pull back on its COVID-related monetary 
+4 
+policies and apply tighter monetary policy with higher interest rates.  In 
+5 
+2022, the Federal Reserve increased the target rate seven times, and in 2023 
+6 
+another three times, as illustrated in Figure 5. 
+7 
+ 
+30  Source: Bureau of Labor Statistics, https://www.bls.gov/charts/consumer-price-
+index/consumer-price-index-by-category-line-chart.htm. 
+-4.00%
+-2.00%
+0.00%
+2.00%
+4.00%
+6.00%
+8.00%
+10.00%
+Sep-02
+Jul-03
+May-04
+Mar-05
+Jan-06
+Nov-06
+Sep-07
+Jul-08
+May-09
+Mar-10
+Jan-11
+Nov-11
+Sep-12
+Jul-13
+May-14
+Mar-15
+Jan-16
+Nov-16
+Sep-17
+Jul-18
+May-19
+Mar-20
+Jan-21
+Nov-21
+Sep-22
+CPI, 12-month change (%)
+
+
+--- Page 33 ---
+Testimony of Joshua C. Nowak 
+Page 31 of 72 
+Figure 5: Federal Funds Rate, Target Range, Upper Limit31 
+1 
+ 
+2 
+This demonstrates the level of Federal Reserve action necessary to reel in 
+3 
+inflation.  The Federal Reserve is willing to risk substantially higher interest 
+4 
+rates and a slowdown in the economy, and it is clear that the era of record 
+5 
+low interest rates and moderate inflation has closed.  In addition, the Federal 
+6 
+Reserve is executing its plan to reduce the size of its balance sheet by selling 
+7 
+$95 billion in bonds each month, which will further tighten financial 
+8 
+markets.  In its most recent policy statement, the Fed confirmed its 
+9 
+commitment to a 2 percent inflation target.   
+10 
+ 
+31  Source: 
+Federal 
+Reserve 
+Bank 
+of 
+St. 
+Louis, 
+FRED 
+Economic 
+Data, 
+https://fred.stlouisfed.org/series/DFEDTARU . 
+0.00%
+1.00%
+2.00%
+3.00%
+4.00%
+5.00%
+6.00%
+Jan-09
+Aug-09
+Mar-10
+Oct-10
+May-11
+Dec-11
+Jul-12
+Feb-13
+Sep-13
+Apr-14
+Nov-14
+Jun-15
+Jan-16
+Aug-16
+Mar-17
+Oct-17
+May-18
+Dec-18
+Jul-19
+Feb-20
+Sep-20
+Apr-21
+Nov-21
+Jun-22
+Jan-23
+Fed Funds Rate (Upper Limit, %)
+
+
+--- Page 34 ---
+Testimony of Joshua C. Nowak 
+Page 32 of 72 
+The Committee will closely monitor incoming 
+1 
+information and assess the implications for monetary 
+2 
+policy. In determining the extent to which additional 
+3 
+policy firming may be appropriate to return inflation to 
+4 
+2 percent over time, the Committee will take into 
+5 
+account the cumulative tightening of monetary policy, 
+6 
+the lags with which monetary policy affects economic 
+7 
+activity and inflation, and economic and financial 
+8 
+developments. In addition, the Committee will continue 
+9 
+reducing its holdings of Treasury securities and agency 
+10 
+debt and agency mortgage-backed securities, as 
+11 
+described in its previously announced plans. The 
+12 
+Committee is strongly committed to returning inflation 
+13 
+to its 2 percent objective.32 
+14 
+ 
+15 
+This is significant because the cost of capital is affected by the Federal 
+16 
+Reserve’s actions, even though it only sets the short-term interest rates.   
+17 
+Further, the Inflation Reduction Act of 2022 (“IRA”) was introduced 
+18 
+intending to curb inflation by targeting drug costs, enabling investments in 
+19 
+clean energy, raise tax revenues, and decrease the deficit. 
+20 
+Q. 
+Are conditions expected to stabilize in the near term?  
+21 
+A. 
+No, although difficult to predict in the long term, capital market conditions 
+22 
+remain highly uncertain.  The economy and capital markets remain in a 
+23 
+tenuous state with ongoing global supply constraints and expectations of 
+24 
+weaker consumer demand in the face of persistent inflation and higher 
+25 
+interest rates.  Interest rates may not fully reflect the effects of inflation 
+26 
+because no one knows exactly how high interest rates must go before 
+27 
+inflation returns to more acceptable levels.  The Federal Reserve has been 
+28 
+targeting inflation of around 2.0 percent for many years, as compared with 
+29 
+ 
+32     Federal Reserve Press Release, May 3, 2023. 
+
+
+--- Page 35 ---
+Testimony of Joshua C. Nowak 
+Page 33 of 72 
+current annualized inflation of 6.0 percent at the consumer level for the 12-
+1 
+month period ending in February 2023. 
+2 
+ 
+3 
+Looking forward, the inflation risks in the market are twofold: (1) either 
+4 
+inflation becomes embedded in the economy if the Federal Reserve does 
+5 
+not move aggressively enough in tightening monetary policy, or (2) the 
+6 
+Federal Reserve responds to inflationary pressure by raising short-term 
+7 
+interest rates to a level that causes a slowdown in economic growth or a 
+8 
+recession.  Consequently, there is elevated market volatility and investors 
+9 
+are concerned the Federal Reserve’s push for tighter monetary policy in 
+10 
+reaction to inflation may lead to a “hard landing.”  Recent developments in 
+11 
+the banking sector suggest that we may already be seeing evidence of 
+12 
+distress in equity markets. 
+13 
+ 
+14 
+ 
+As it relates to utilities, Moody’s revised its outlook for the US regulated 
+15 
+utilities industry from “stable” to “negative,” citing concerns related to 
+16 
+inflation and rising interest rates.33  While the IRA contains credit positive 
+17 
+provisions, they “are not sufficient to offset the combined adverse effects of 
+18 
+high natural gas prices, inflation and rising interest rates.”34 In addition, 
+19 
+Moody’s notes that “[f]inancial metrics already under pressure with little 
+20 
+ 
+33  Moody’s Investors Service, “Regulated Electric and Gas Utilities – US 2023 outlook 
+negative due to higher natural gas prices, inflation and rising interest rates,” November 
+10, 2022, at 1. 
+34  Id., at 5. 
+
+
+--- Page 36 ---
+Testimony of Joshua C. Nowak 
+Page 34 of 72 
+cushion entering 2023,” with funds from operations (“FFO”)-to-debt ratios 
+1 
+expected to decline further with anticipated delays in cost recovery.35 
+2 
+ 
+3 
+Q. 
+Have you factored these circumstances into your cost of equity 
+4 
+estimates?  
+5 
+A. 
+Yes.  I have relied on the most recent market data and forecasts available to 
+6 
+me in my analysis.  Long-term interest rates have increased substantially 
+7 
+since the historical lows of 2020 and are expected to continue to increase as 
+8 
+the Federal Reserve focuses on inflation.  This supports the use of both 
+9 
+current and forecast bond yields in the CAPM.  These circumstances also 
+10 
+reinforce the importance of considering the results of multiple models, as I 
+11 
+have with the DCF and CAPM approaches. 
+12 
+ 
+13 
+Q. 
+What is your conclusion with regard to the effect of capital market 
+14 
+conditions on the cost of equity?  
+15 
+A. 
+The current capital market conditions are heavily influenced by monetary 
+16 
+policy aimed at mitigating inflationary pressures.  This has caused both 
+17 
+short-term and long-term interest rates to increase substantially since the 
+18 
+historical lows of 2020 suggesting a higher cost of capital.  Therefore, it is 
+19 
+important that these factors are accounted for in the cost of equity models 
+20 
+and the appropriate weight is given to the approaches that best account for 
+21 
+the current dynamics of the capital market environment.  
+22 
+ 
+35  Id., at 1. 
+
+
+--- Page 37 ---
+Testimony of Joshua C. Nowak 
+Page 35 of 72 
+  
+1 
+VI.   PROXY GROUP SELECTION 
+Q. 
+Please explain why you have used a group of proxy companies to 
+2 
+determine the cost of equity for the Company. 
+3 
+A. 
+In these proceedings, we are focused on estimating the cost of equity for the 
+4 
+Company’s rate-regulated, electric and natural gas distribution utility 
+5 
+operations in New York.  Because ROE is a market-based concept and the 
+6 
+Company is not publicly traded, it is necessary to establish a group of 
+7 
+companies that are both publicly traded and comparable to the Company.  
+8 
+Even if the Company was publicly traded entities, it is possible that 
+9 
+transitory events could bias the Company’s market value in one way or 
+10 
+another in a given period of time.  A significant benefit of using a proxy 
+11 
+group is the ability to mitigate the effects of short-term events that may be 
+12 
+associated with any specific company.  The proxy companies used in my 
+13 
+ROE analyses possess a set of business and operating characteristics similar 
+14 
+to the Company’s utility operations, and thus provide a reasonable basis for 
+15 
+estimating the Company’s ROE. 
+16 
+ 
+17 
+Q. 
+Please provide a summary profile of the Company. 
+18 
+A. 
+Central Hudson’s business consists of its regulated electric and natural gas 
+19 
+distribution operations in a service territory that extends from the suburbs 
+20 
+of metropolitan New York City north to the Capital District at Albany, 
+21 
+providing electricity to approximately 309,000 customers and natural gas to 
+22 
+
+
+--- Page 38 ---
+Testimony of Joshua C. Nowak 
+Page 36 of 72 
+approximately 84,000 customers.36  Central Hudson’s long-term issuer 
+1 
+ratings are Baa1 (Moody’s, Outlook: Stable), BBB+ (S&P, Outlook: 
+2 
+Stable), and BBB+ (Fitch, Outlook Negative).37 
+3 
+ 
+4 
+Q. 
+How did you select the companies included in your proxy groups? 
+5 
+A. 
+The Commission has historically relied on proxy groups generally 
+6 
+composed of electric-only and combination gas and electric utilities.  In 
+7 
+recognition of that practice, I began with the companies that Value Line 
+8 
+classifies as “Electric Utilities,” which includes electric-only and 
+9 
+combination utilities.  However, it is important to recognize that the 
+10 
+Company’s operations include gas and electric utility operations, so the 
+11 
+inclusion of electric-only utilities in the proxy group may overweight the 
+12 
+risk profile of the electric utility operations of the Company.  Therefore, I 
+13 
+also included companies that Value Line classifies as and “Natural Gas 
+14 
+Distribution Companies,” which includes natural gas-only utilities and a 
+15 
+combination utility.  That combined group includes 47 domestic U.S. 
+16 
+utilities.  I applied the following screening criteria to establish a risk-
+17 
+comparable proxy group that includes electric utility companies and natural 
+18 
+gas distribution companies: 
+19 
+ To ensure that information regarding the proxy group companies is 
+20 
+consensus-based, I eliminated the companies that are not covered by 
+21 
+at least two utility industry equity analysts; 
+22 
+ 
+36  Source: Company website, http://www.cenhud.com/en/about-us/our-service-territory. 
+37 Source: S&P Capital IQ Pro and FitchRatings.com, accessed May 17, 2023.  
+
+
+--- Page 39 ---
+Testimony of Joshua C. Nowak 
+Page 37 of 72 
+ I eliminated companies that do not have investment grade corporate 
+1 
+credit ratings and/or senior unsecured bond ratings according to 
+2 
+S&P and Moody’s because such companies do not have a similar 
+3 
+financial risk profile to that of the Company; 
+4 
+ I eliminated companies that have not paid regular dividends or do 
+5 
+not have positive earnings growth projections from at least one 
+6 
+source because such characteristics are incompatible with the DCF 
+7 
+model; 
+8 
+ To ensure that the proxy group consists of companies that are 
+9 
+primarily transmission and distribution regulated utilities, I 
+10 
+eliminated companies that have owned generation comprising 
+11 
+greater than 60 percent of the Company’s MWh sales to ultimate 
+12 
+customers; 
+13 
+ To ensure that the proxy group consists of companies that are 
+14 
+primarily regulated utilities, I eliminated companies with less than 
+15 
+70 percent of total operating income derived from regulated utility 
+16 
+operations; and 
+17 
+ I eliminated companies known to be party to a merger, acquisition, 
+18 
+or other transformational transaction as such activities may have a 
+19 
+temporary effect on such companies’ stock prices and projections 
+20 
+unrelated to the overall cost of capital. 
+21 
+
+
+--- Page 40 ---
+Testimony of Joshua C. Nowak 
+Page 38 of 72 
+ 
+1 
+Q. 
+What is the composition of your proxy group? 
+2 
+A. 
+My proxy group consists of the 19 companies presented in Figure 6. 
+3 
+Figure 6:  Proxy Group Composition 
+4 
+Company 
+Ticker 
+ALLETE, Inc. 
+ALE 
+American Electric Power Company, Inc. 
+AEP 
+Atmos Energy Corporation 
+ATO 
+Avista Corporation 
+AVA 
+Black Hills Corporation 
+BKH 
+CMS Energy Corporation 
+CMS 
+Edison International 
+EIX 
+Eversource Energy 
+ES 
+Exelon Corporation 
+EXC 
+Hawaiian Electric Industries, Inc. 
+HE 
+NiSource Inc. 
+NI 
+Northwest Natural Gas Company 
+NWN 
+NorthWestern Corporation 
+NWE 
+OGE Energy Corporation 
+OGE 
+ONE Gas, Inc. 
+OGS 
+PPL Corporation 
+PPL 
+Public Service Enterprise Group Inc. 
+PEG 
+Spire, Inc. 
+SR 
+Xcel Energy Inc. 
+XEL 
+ 
+5 
+Q. 
+Has the Commission typically relied on similar screening criteria when 
+6 
+estimating the ROE? 
+7 
+A. 
+Yes.  The Commission has typically relied on screening criteria that are 
+8 
+similar to those that I have used to develop my proxy groups.  The proxy 
+9 
+group that is typically relied on by the Commission is composed of a large 
+10 
+group of dividend-paying companies with investment grade bond ratings 
+11 
+and regulated revenues of at least 70 percent that are not subject to merger-
+12 
+
+
+--- Page 41 ---
+Testimony of Joshua C. Nowak 
+Page 39 of 72 
+related or corporate restructuring activities.38  However, in establishing my 
+1 
+proxy group, I relied on the percentage of net operating income derived 
+2 
+from regulated operations instead of the percentage of total revenue derived 
+3 
+from regulated operations because net operating income is more 
+4 
+representative of the contribution of that business segment to earnings and 
+5 
+the corporation’s overall financial position.  Specifically, a significant 
+6 
+portion of gas and electric utility company revenue is derived from the costs 
+7 
+of purchased gas, purchased fuel, and purchased power, which, in most 
+8 
+cases, are recoverable through tracking mechanisms and do not, therefore, 
+9 
+contribute to earnings.  Furthermore, this portion of total revenue can 
+10 
+fluctuate considerably based on the cost of gas and other inputs.  Therefore, 
+11 
+relying exclusively on a revenue screen does not provide a clear or 
+12 
+necessarily consistent indicator of the contribution of the regulated utility 
+13 
+operations to a company’s earnings.  Net operating income excludes the cost 
+14 
+of purchased commodity and therefore more closely represents the 
+15 
+contribution of the business segment to earnings.  
+16 
+ 
+17 
+VII. 
+COST OF EQUITY ESTIMATION 
+Q. 
+How is the required ROE determined? 
+18 
+A. 
+While the cost of debt can be directly observed, the cost of equity and the 
+19 
+required ROE are market-based and, therefore, must be estimated based on 
+20 
+ 
+38 See, e.g., Case 13-E-0030, Proceeding on Motion of the Commission as to the Rates, 
+Charges, Rules and Regulations of Consolidated Edison Company of New York, Inc. 
+for Electric Service, Testimony of Craig E. Henry, at 14-16. 
+
+
+--- Page 42 ---
+Testimony of Joshua C. Nowak 
+Page 40 of 72 
+observable market information.  The required ROE is determined by using 
+1 
+one or more analytical techniques that rely on market data to quantify 
+2 
+investor expectations regarding the range of required equity returns.  
+3 
+Informed judgment is applied, based on the results of those analyses, to 
+4 
+determine where within the range of results the cost of equity for a company 
+5 
+falls.  As a general proposition, the key consideration in determining the 
+6 
+cost of equity is to ensure that the methodologies employed reasonably 
+7 
+reflect investors’ views of the financial markets, the proxy group 
+8 
+companies, and the subject company’s risk profile. 
+9 
+ 
+10 
+Q. 
+What methods did you use to determine the Company’s cost of equity?  
+11 
+A. 
+Consistent with Commission precedent, I used the DCF model and CAPM 
+12 
+as the primary approaches.  In establishing my recommended ROE, I relied 
+13 
+on a multi-stage form of the DCF model, and, consistent with the 
+14 
+Commission’s stated preference, I used both the traditional form of the 
+15 
+CAPM as well as the Zero-Beta form of that model.  In both forms of the 
+16 
+CAPM, I incorporated a forward-looking measure of the Market Risk 
+17 
+Premium.  
+18 
+ 
+19 
+Q. 
+Why do you believe it is important to use more than one analytical 
+20 
+approach? 
+21 
+A. 
+Because the cost of equity is not directly observable, it must be estimated 
+22 
+based on both quantitative and qualitative information.  When faced with 
+23 
+
+
+--- Page 43 ---
+Testimony of Joshua C. Nowak 
+Page 41 of 72 
+the task of estimating the cost of equity, analysts and investors are inclined 
+1 
+to gather and evaluate as much relevant data as reasonably can be 
+2 
+analyzed.  As a result, a number of models have been developed to estimate 
+3 
+the cost of equity.  For that reason, I use multiple approaches to estimate the 
+4 
+cost of equity.  However, all of the models available for estimating the cost 
+5 
+of equity are subject to limiting assumptions or other methodological 
+6 
+constraints.   
+7 
+ 
+8 
+Q. 
+How are current market conditions affecting the results of the DCF and 
+9 
+CAPM models?  
+10 
+A. 
+As discussed in Section V, current capital market conditions are heavily 
+11 
+influenced by monetary policy aimed at mitigating inflationary pressures.  
+12 
+While long-term interest rates have increased substantially since the 
+13 
+historical lows of 2020, near-term conditions may not reflect investors long-
+14 
+term expectations.  Importantly, the risk-free rate in the CAPM analysis 
+15 
+should also consider projected yields on Treasury bonds, and the market 
+16 
+risk premium should be based on a forward-looking computation of the 
+17 
+expected return on the total market less the risk-free rate.  Market risk 
+18 
+premiums based on long-term historical averages are unresponsive to 
+19 
+movements in interest rates and would likely understate the market risk 
+20 
+premium and, accordingly, the cost of equity. 
+21 
+ 
+22 
+Fluctuations in utility valuations impact the results of the DCF model.  The 
+23 
+dividend yield is calculated using historical average stock prices, which 
+24 
+
+
+--- Page 44 ---
+Testimony of Joshua C. Nowak 
+Page 42 of 72 
+may not fully reflect forward market expectations, especially as utility 
+1 
+valuations may not reflect the effect of recent increases in interest rates. 
+2 
+Long-term interest rates have increased substantially since the historical 
+3 
+lows of 2020 as the Federal Reserve continues to mitigate strong 
+4 
+inflationary pressures.  Importantly, the CAPM directly accounts for 
+5 
+changes in interest rates.   These circumstances collectively reinforce the 
+6 
+importance of using multiple models, as I have with the DCF and CAPM 
+7 
+approaches.  
+8 
+       
+9 
+A. DISCOUNTED CASH FLOW MODEL 
+10 
+ Q. 
+Please describe the DCF approach. 
+11 
+A. 
+The DCF approach is based on the theory that a stock’s current market price 
+12 
+represents the present value of all expected future cash flows.  In its most 
+13 
+general form, the DCF model is expressed as follows: 
+14 
+𝑃଴ൌ
+஽భ
+ሺଵା௥ሻభ൅
+஽మ
+ሺଵା௥ሻమ൅⋯൅
+஽೙
+ሺଵା௥ሻ೙ 
+[1] 
+15 
+Where P0 represents the current market stock price, D1, D2, … Dn are all 
+16 
+expected future dividends, and r is the discount rate, or required ROE.  As 
+17 
+discussed below, I have not included the constant growth form of the DCF 
+18 
+model, but instead have focused on a multi-stage form of the DCF model.   
+19 
+ 
+20 
+Q. 
+Please generally describe the DCF model you relied on.  
+21 
+A. 
+The multi-stage DCF model is an extension of the constant growth form that 
+22 
+enables the analyst to specify growth rates over multiple stages.  As with 
+23 
+
+
+--- Page 45 ---
+Testimony of Joshua C. Nowak 
+Page 43 of 72 
+the constant growth form of the DCF model, the multi-stage form defines 
+1 
+the cost of equity as the discount rate that sets the current price equal to the 
+2 
+discounted value of future cash flows.  A multi-stage DCF model addresses 
+3 
+the possibility that mean five-year growth rates may not be reasonable in 
+4 
+perpetuity and that payout ratios could vary over time. 
+5 
+ 
+6 
+Q. 
+Please describe the structure of the multi-stage DCF model.  
+7 
+A. 
+The multi-stage DCF model that I have used sets the proxy company’s 
+8 
+current stock price equal to the present value of future cash flows received 
+9 
+over three time periods.  In all three periods, cash flows are equal to the 
+10 
+annual dividend payments that stockholders receive.  The first period is a 
+11 
+short-term growth period that consists of the first five years; the second 
+12 
+period is a transition period from the short-term growth rate to the long-term 
+13 
+growth rate that occurs over five years (i.e., years 6 through 10); and the 
+14 
+third period is a long-term growth period that begins in year 11 and 
+15 
+continues in perpetuity.  The ROE is then calculated as the rate of return 
+16 
+that results from the initial stock investment and the dividend payments over 
+17 
+the analytical period. 
+18 
+
+
+--- Page 46 ---
+Testimony of Joshua C. Nowak 
+Page 44 of 72 
+ 
+1 
+Q. 
+Has the Commission relied on a multi-stage DCF model in prior cases?  
+2 
+A. 
+Yes, the Commission has relied on a two-stage form of the DCF model in 
+3 
+prior cases.39  The two-stage model that the Commission has relied on and 
+4 
+the multi-stage model that I rely on both define the cost of equity as the 
+5 
+discount rate that sets the current stock price equal to the discounted value 
+6 
+of future cash flows that are expressed as projected dividends.  Both models 
+7 
+project dividends using growth rates over multiple periods.   
+8 
+ 
+9 
+Q. 
+Is the multi-stage form of the DCF model consistent with the intent of 
+10 
+the two-stage model relied upon by the Commission? 
+11 
+A. 
+Yes.  Both the construction of the multi-stage model and the underlying 
+12 
+assumptions are consistent with the two-stage model relied upon by the 
+13 
+Commission.  The constant growth DCF model assumes the expected 
+14 
+growth rate will be constant in perpetuity. The multi-stage forms of the DCF 
+15 
+model, including both the two-stage model that the Commission has relied 
+16 
+upon and the multi-stage form of the model that is relied on in my analysis, 
+17 
+recognize short and long-term growth prospects.   
+18 
+ 
+19 
+ 
+39 See Case 10-E-0362, Proceeding on Motion of the Commission as to the Rates, 
+Charges, Rules and Regulations of Orange and Rockland Utilities, Inc. for Electric 
+Service, Order Establishing Rates for Electric Service, (issued June 17, 2011) (“2011 
+O&R Rate Order”), at 68-69.   
+
+
+--- Page 47 ---
+Testimony of Joshua C. Nowak 
+Page 45 of 72 
+Q. 
+Does the multi-stage form of the DCF model offer improvements over 
+1 
+the two-stage model traditionally relied upon by the Commission? 
+2 
+A. 
+Yes.  The general form of the two-stage model relied upon by the 
+3 
+Commission involves a near-term growth stage based on projected 
+4 
+dividends and a long-term growth stage employing an estimated long-term 
+5 
+growth rate in dividends.40  The Commission’s application of a two-stage 
+6 
+DCF assumes that a company’s growth abruptly shifts to a long-run growth 
+7 
+state after the initial five-year period.  In contrast, the multi-stage model 
+8 
+relies on growth rates over three periods, as described above.  The multi-
+9 
+stage form of the DCF model provides for a gradual transition to a 
+10 
+company’s expected long-term growth, whereas the two-stage DCF model 
+11 
+assumes the transition from short to long-term growth occurs in one year.  
+12 
+  
+13 
+Q. 
+What market data did you use to calculate the current stock price in 
+14 
+your DCF model? 
+15 
+A. 
+The stock prices that I relied on in my DCF model are based on the average 
+16 
+market closing prices for the proxy companies over the three months ended 
+17 
+May 31, 2023. 
+18 
+ 
+40 See, e.g., Case 10-E-0362, Case 06-E-1433, Proceeding on Motion of the Commission 
+as to the Rates, Charges, Rules and Regulations of Orange and Rockland Utilities, Inc., 
+for Electric Service, Case 08-E-0539, Proceeding on Motion of the Commission as to 
+the Rates, Charges, Rules and Regulations of Consolidated Edison Company of New 
+York, Inc. for Electric Service. 
+
+
+--- Page 48 ---
+Testimony of Joshua C. Nowak 
+Page 46 of 72 
+ 
+1 
+Q. 
+What growth rates did you rely on in the multi-stage DCF model? 
+2 
+A. 
+As shown in Exhibit __ (JCN-1), I began with the current annualized 
+3 
+dividend as of May 31, 2023 for each proxy group company.  In the first 
+4 
+stage of the model, the current annualized dividend is escalated based on 
+5 
+the average of the three-to five-year earnings growth estimates reported by 
+6 
+First Call, Zacks, and Value Line.  For the third stage of the model, I relied 
+7 
+on long-term projected growth in Gross Domestic Product (“GDP”).  The 
+8 
+second stage growth rate is a transition from the first stage growth rate to 
+9 
+the long-term growth rate on a geometric average basis. 
+10 
+ 
+11 
+Q. 
+Why do you believe that earnings growth rates are the appropriate 
+12 
+growth rates in the DCF model? 
+13 
+A. 
+Earnings are the fundamental driver of a company’s ability to pay 
+14 
+dividends; therefore, earnings growth is the appropriate measure of a 
+15 
+company’s long-term growth. In contrast, changes in a company’s dividend 
+16 
+payments are based on management decisions related to cash management 
+17 
+and other factors.  For example, a company may decide to retain certain 
+18 
+earnings rather than include those earnings in a dividend issuance.  
+19 
+Therefore, dividend growth rates are less likely than earnings growth rates 
+20 
+to reflect investor perceptions of a company’s growth prospects.   
+21 
+
+
+--- Page 49 ---
+Testimony of Joshua C. Nowak 
+Page 47 of 72 
+ 
+1 
+Q. 
+Is there support for the use of analysts’ earnings growth estimates in 
+2 
+the DCF model? 
+3 
+A. 
+Yes, there is significant academic support for the use of analysts’ earnings 
+4 
+growth rates.  In addition, the majority of the data that are publicly available 
+5 
+to investors sets forth analysts’ projections of earnings growth rates.  Value 
+6 
+Line is the only publication I am aware of that provides projected dividend 
+7 
+growth rates. 
+8 
+ 
+9 
+Q. 
+Please summarize the academic research on growth rates and stock 
+10 
+valuation.  
+11 
+A. 
+The relationship between various growth rates and stock valuation metrics 
+12 
+has been the subject of much academic research.  Many published articles 
+13 
+specifically support the use of analysts’ earnings growth projections in the 
+14 
+DCF model in general, as well as for a method of calculating the expected 
+15 
+market risk premium.  While this article is focused on the calculation of the 
+16 
+CAPM, Dr. Robert Harris demonstrates that financial analysts rely on 
+17 
+earnings forecasts (referred to in the article as “FAF”) and the use of a 
+18 
+constant growth DCF formula to estimate the expected market risk 
+19 
+premium.41  Dr. Harris made the following observations:  
+20 
+ 
+41 Robert S. Harris, Using Analysts’ Growth Forecasts to Estimate Shareholder Required 
+Rates of Return, Financial Management, Spring 1986, at 66. 
+
+
+--- Page 50 ---
+Testimony of Joshua C. Nowak 
+Page 48 of 72 
+[…] a growing body of knowledge shows that analysts’ 
+1 
+earnings forecasts are indeed reflected in stock prices.  
+2 
+Such studies typically employ a consensus measure of 
+3 
+FAF calculated as a simple average of forecasts by 
+4 
+individual analysts.42   
+5 
+***** 
+6 
+Given the demonstrated relationship of FAF to equity 
+7 
+prices and the direct theoretical appeal of expectational 
+8 
+data, it is no surprise that FAF have been used in 
+9 
+conjunction with DCF models to estimate equity return 
+10 
+requirements.43   
+11 
+ 
+12 
+Dr. Harris’s work demonstrates that analysts rely on earnings as the 
+13 
+appropriate measure of growth in the DCF model.  Professors Carleton and 
+14 
+Vander Weide also performed a study to determine whether projected 
+15 
+earnings growth rates are superior to historical measures of growth in the 
+16 
+implementation of the DCF model.44  Although the purpose of that study 
+17 
+was to “investigate what growth expectation is embodied in the firm’s 
+18 
+current stock price,”45  the authors clearly indicate the importance of 
+19 
+earnings projections in the context of the DCF model., concluding that: 
+20 
+[…] our studies affirm the superiority of analysts’ 
+21 
+forecasts over simple historical growth extrapolations in 
+22 
+the stock price formation process.  Indirectly, this 
+23 
+finding lends support to the use of valuation models 
+24 
+whose input includes expected growth rates.46 
+25 
+ 
+26 
+ 
+42 Id. at 59.   
+43 Id. at 60. 
+44 James H. Vander Weide, Willard T. Carleton, Investor growth expectations: Analysts 
+vs. history, The Journal of Portfolio Management, Spring 1988. 
+45 Id. at 78. 
+46 Id. at 82. 
+
+
+--- Page 51 ---
+Testimony of Joshua C. Nowak 
+Page 49 of 72 
+Similarly, Harris and Marston presented “estimates of shareholder required 
+1 
+rates of return and risk premia which are derived using forward-looking 
+2 
+analysts’ growth forecasts.”47  In addition to other findings, Harris and 
+3 
+Marston reported that,  
+4 
+[…] in addition to fitting the theoretical requirement of 
+5 
+being forward-looking, the utilization of analysts’ 
+6 
+forecasts in estimating return requirements provides 
+7 
+reasonable empirical results that can be useful in 
+8 
+practical applications.48 
+9 
+ 
+10 
+The Carleton and Vander Weide study was updated to determine whether 
+11 
+the finding that analysts’ earnings growth forecasts are relevant in the stock 
+12 
+valuation process still holds.  The results of that updated study continued to 
+13 
+demonstrate the importance of analysts’ earnings forecasts, including the 
+14 
+application of those forecasts to utility companies.49  Similarly, Brigham, 
+15 
+Shome and Vinson noted that “evidence in the current literature indicates 
+16 
+that (1) analysts’ forecasts are superior to forecasts based solely on time 
+17 
+series data; and (2) investors do rely on analysts’ forecasts.”50 
+18 
+ 
+19 
+ 
+47 Robert S. Harris, Felicia C. Marston, Estimating Shareholder Risk Premia Using 
+Analysts’ Growth Forecasts, Financial Management, Summer 1992. 
+48 Id. at 63. 
+49 Advanced Research Center, Investor Growth Expectations, Summer, 2004. 
+50 The Risk Premium Approach to Measuring a Utility’s Cost of Equity, Financial 
+Management, Spring 1985. 
+
+
+--- Page 52 ---
+Testimony of Joshua C. Nowak 
+Page 50 of 72 
+Q. 
+Do you believe the Commission should adjust its historical reliance on 
+1 
+dividend per share growth rates during the initial five-year term of its 
+2 
+Two-Stage DCF?  
+3 
+A. 
+Yes.   Sole reliance on Value Line projections of dividend per share growth 
+4 
+is not appropriate for several reasons.  First, the use of only dividend growth 
+5 
+rates ignores the substantial body of academic research demonstrating that 
+6 
+earnings growth rates are the most relevant factor in stock price valuation.51  
+7 
+Second, projections of dividend growth, which would not include growth in 
+8 
+retained earnings, only measure a portion of a company’s growth.  
+9 
+Therefore, earnings growth projections are more complete estimates of total 
+10 
+company growth than projected dividend growth rates.  Finally, Value 
+11 
+Line’s 4-6 year projections are not consensus estimates, but reflect the 
+12 
+viewpoint of a single analyst.  Therefore, the Commission’s models, which 
+13 
+have historically relied only on projected dividend per share growth rates 
+14 
+from Value Line, reflect the growth expectations of a single analyst in the 
+15 
+first stage of the model.  In contrast, there are several consensus estimates 
+16 
+of projected earnings per share growth rates that are publicly available and 
+17 
+widely used by investors, including Zacks Investment Research and First 
+18 
+Call.  Each of these consensus forecasts considers the growth expectations 
+19 
+for each company based on the expectations of multiple analysts.  It is not 
+20 
+reasonable to exclude these timely and widely available sources of 
+21 
+ 
+51 The 
+Recommended 
+Decision 
+(“RD”) 
+in 
+the 
+GFP 
+indicates 
+that 
+the 
+Telecommunications Group, which included Commission Staff, supported the use of 
+earnings per share growth in the DCF models employed to estimate the ROE (RD at 
+9). 
+
+
+--- Page 53 ---
+Testimony of Joshua C. Nowak 
+Page 51 of 72 
+information from the analysis when these real-time sources have become 
+1 
+the more common data points relied on by investors.   
+2 
+ 
+3 
+Q. 
+How did you calculate the long-term GDP growth rate?  
+4 
+A. 
+As shown in Exhibit __ (JCN-2), the long-term growth rate of 5.45 percent 
+5 
+is based on the real GDP growth rate of 3.16 percent from 1929 through 
+6 
+2022,52 and a projected long-term inflation rate of 2.23 percent.53  The 
+7 
+projected rate of inflation is based on three measures beyond the 2023- 
+8 
+2028, near-term growth period:  (1) the average long-term projected growth 
+9 
+rate in the Consumer Price Index (“CPI”) of 2.10 percent, as reported by 
+10 
+Blue Chip Financial Forecasts;54 (2) the compound annual growth rate of 
+11 
+the CPI for all urban consumers for 2031-2050 of 2.26 percent as projected 
+12 
+by the Energy Information Administration (“EIA”) in the Annual Energy 
+13 
+Outlook 2022; and (3) the compound annual growth rate of the GDP chain-
+14 
+type price index for 2031-2050 of 2.31 percent, also reported by the EIA in 
+15 
+the Annual Energy Outlook 2023.55 
+16 
+ 
+17 
+ 
+52 U.S. Department of Commerce, Bureau of Economic Analysis, National Income and 
+Product Accounts Tables, Table 1.1.6, May 31, 2023. 
+53 (1 + 0.0316) x (1 + 0.0223) -1 = 0.0545 or 5.45%. 
+54 Blue Chip Financial Forecasts, Vol. 42, No. 6, June 1, 2023, at 14.  
+55 U.S. Energy Information Administration, Annual Energy Outlook 2023, Table 20. 
+
+
+--- Page 54 ---
+Testimony of Joshua C. Nowak 
+Page 52 of 72 
+Q. 
+Why is the long-term GDP growth rate a reasonable estimate of long-
+1 
+term growth in the multi-stage DCF model? 
+2 
+A. 
+Long-term estimates of GDP growth are commonly used in regulatory 
+3 
+proceedings as a proxy for the long-term growth rate in the multi-stage DCF 
+4 
+analysis.  That application is based on the common theoretical assumption 
+5 
+that, over the long-run, all companies in the economy will tend to grow at 
+6 
+the same constant rate.  That assumption is designed to address the 
+7 
+uncertainty associated with estimating individual company growth rates 
+8 
+over very long-time horizons and is not meant to suggest that company 
+9 
+growth rates in the economy will indeed converge in practice over any given 
+10 
+period.   
+11 
+ 
+12 
+Q. 
+Is your calculation of GDP growth consistent with the way in which 
+13 
+other analysts’ compute estimates of long-term GDP growth? 
+14 
+A. 
+Yes.  Investors understand that the U.S. economy goes through cycles of 
+15 
+growth and contraction.  Therefore, it is appropriate to consider the longest 
+16 
+period possible to measure historical real growth in GDP.  This view is 
+17 
+consistent with Morningstar’s explanation about measuring GDP growth: 
+18 
+Growth in real GDP (with only a few exceptions) has 
+19 
+been reasonably stable over time; therefore, its 
+20 
+historical performance is a good estimate of expected 
+21 
+long-term future performance.  By combining the 
+22 
+inflation estimate with the real growth rate estimate, a 
+23 
+long-term estimate of nominal growth is formed.56 
+24 
+ 
+25 
+ 
+56  Ibbotson and Associates, Stocks, Bonds, Bills and Inflation, 1926-2012, 2013 
+Valuation Yearbook, at 52. 
+
+
+--- Page 55 ---
+Testimony of Joshua C. Nowak 
+Page 53 of 72 
+Furthermore, Morningstar supports the use of long-term historical data:  
+1 
+The 87-year period starting with 1926 is representative 
+2 
+of what can happen: it includes high and low returns, 
+3 
+volatile and quiet markets, war and peace, inflation and 
+4 
+deflation, and prosperity and depression.  Restricting 
+5 
+attention to a shorter historical period underestimates 
+6 
+the amount of change that could occur in a long future 
+7 
+period.  Finally, because historical event-types (not 
+8 
+specific events) tend to repeat themselves, long-run 
+9 
+capital market return studies can reveal a great deal 
+10 
+about the future.  Investors probably expect “unusual” 
+11 
+events to occur from time to time, and their return 
+12 
+expectations reflect this.57 
+13 
+ 
+Q. 
+How does your estimate of long-term GDP growth compare with 
+14 
+investor expectations of long-term utility industry growth rates?  
+15 
+A. 
+The Commission has traditionally relied on Bank of America Merrill 
+16 
+Lynch’s (“BAML”) market return calculations in estimating a company’s 
+17 
+ROE using the CAPM.  Exhibit __ (JCN-3) includes the relevant pages from 
+18 
+the BAML Quantitative Profiles reports for March through May 2023.  
+19 
+BAML derives the Implied Return using a multi-stage Dividend Discount 
+20 
+Model (“DDM”).  As shown in Exhibit __ (JCN-3), the Implied Returns for 
+21 
+the utility industry were 9.70 percent to 9.80 percent each month.58  For 
+22 
+those same months, the average dividend yield for the utility industry was 
+23 
+3.30 percent to 3.40 percent.59  Because the total return consists of capital 
+24 
+appreciation (i.e., growth) and dividend yield, that data suggest an expected 
+25 
+utility growth rate of approximately 6.40 percent to 6.50 percent, which is 
+26 
+ 
+57  Id., at 59. 
+58 Bank of America Merrill Lynch, Quantitative Profiles, March 14, 2023, at 32, April 
+14, 2023 at 37, and May 16, 2023 at 36.  
+59 Id. 
+
+
+--- Page 56 ---
+Testimony of Joshua C. Nowak 
+Page 54 of 72 
+considerably higher than the long-term growth estimate of 5.45 percent used 
+1 
+in my multi-stage DCF analysis.  
+2 
+ 
+3 
+Q. 
+How does your estimate of long-term growth differ from the estimate 
+4 
+the Commission has traditionally relied on? 
+5 
+A. 
+The final stage of both the two-stage DCF model that the Commission has 
+6 
+relied on and my multi-stage DCF model extends into the future 
+7 
+indefinitely.  My long-term growth estimate reflects investors’ long-term 
+8 
+growth expectations for the period from 2032 through 2050.  Therefore, the 
+9 
+third stage of my multi-stage DCF model reflects investor growth 
+10 
+expectations beginning in the first year of the third stage of the model.  In 
+11 
+contrast, the growth estimate for the two-stage model that the Commission 
+12 
+has typically relied on is based on short-term growth rate forecasts.  The use 
+13 
+of the sustainable growth rate, calculated using Value Line’s published 
+14 
+projections, provides an estimate of growth four- to six-years in the future.  
+15 
+Relying on the sustainable growth rate in perpetuity in the second stage of 
+16 
+a two-stage DCF model does not provide a long-run estimate of growth.  
+17 
+Rather, the use of the sustainable growth rate assumes that the short-term 
+18 
+estimate for the four- to six-year period from the Value Line report date is 
+19 
+sustained in perpetuity.  
+20 
+ 
+21 
+In contrast, the long-term growth rate in my DCF analyses reflects both 
+22 
+economic forecasts and market-derived projections of inflation over the 
+23 
+longest available time period (30 or more years).  Those estimates of long-
+24 
+
+
+--- Page 57 ---
+Testimony of Joshua C. Nowak 
+Page 55 of 72 
+term inflation expectations are combined with the long-term average 
+1 
+historical real GDP growth rate to calculate an expected nominal GDP 
+2 
+growth rate.  Consequently, the long-term growth estimate in my multi-
+3 
+stage DCF model represents investors and economists’ views of nominal 
+4 
+long-term GDP growth well beyond the time horizon reflected in the four- 
+5 
+to six-year Value Line sustainable growth estimate relied on by the 
+6 
+Commission in prior cases.   
+7 
+ 
+8 
+Q. 
+Are there other problems with the use of the sustainable growth rate as 
+9 
+an estimate of long-term growth? 
+10 
+A. 
+Yes.  Using the sustainable growth rate to estimate the long-term growth of 
+11 
+the company uses a very narrowly-defined set of short-term projections 
+12 
+based on Value Line data.  Specifically, it relies on the following 
+13 
+assumptions: (1) projected dividends for year 2; (2) projected dividends for 
+14 
+years 4-6; (3) projected earnings for years 4-6; (4) projected book value for 
+15 
+year 2; (5) projected book value for years 4-6; (6) current estimate of actual 
+16 
+outstanding shares of stock; (7) projected shares of outstanding stock for 
+17 
+years 4-6; and (8) current three-month stock price.  Each of these 
+18 
+assumptions is estimated at most for six years into the future.  As defined 
+19 
+using these assumptions, the sustainable growth rate, which is applied over 
+20 
+the long-term in the Commission’s two-stage model, does not consider any 
+21 
+actual long-term forecasts for the specific company or the economy.  
+22 
+ 
+23 
+
+
+--- Page 58 ---
+Testimony of Joshua C. Nowak 
+Page 56 of 72 
+Q. 
+What is your conclusion regarding the methodology typically relied on 
+1 
+by the Commission to estimate the sustainable growth rate in the two-
+2 
+stage DCF model? 
+3 
+A. 
+There are several reasons why the Commission’s current view of the 
+4 
+sustainable growth rate should not be continued in the two-stage DCF 
+5 
+model.  First, the sustainable growth rate is not a long-term measure of 
+6 
+growth and as such should not be applied in perpetuity in the second stage 
+7 
+of the model.  Second, the exclusive use of Value Line data, which is a 
+8 
+single analyst’s viewpoint, to establish the sustainable growth rate assumes 
+9 
+that investors do not consider any of the other financial information that is 
+10 
+widely available when establishing future dividend expectations.  In 
+11 
+addition, the sustainable growth rate calculation includes Value Line’s ROE 
+12 
+projections as an input, implicitly accepting them as reasonable.  However, 
+13 
+Value Line’s ROE projections are often significantly different from the 
+14 
+ROE estimates produced by the two-stage DCF model.  Finally, the 
+15 
+Commission’s sustainable growth rate methodology implicitly assumes that 
+16 
+investors establish long-term growth expectations based entirely on short-
+17 
+term, company-specific projections.  It is unreasonable to conclude that 
+18 
+investors would ignore the expectations of long-term macroeconomic 
+19 
+growth in establishing the long-term growth estimates for an electric or 
+20 
+natural gas distribution utility or any other company. 
+21 
+ 
+22 
+
+
+--- Page 59 ---
+Testimony of Joshua C. Nowak 
+Page 57 of 72 
+Q. 
+What are the results of your DCF analyses? 
+1 
+A. 
+As shown in Exhibit __ (JCN-1), the multi-stage DCF analysis based on a 
+2 
+three-month average stock price and a range of near-term growth rate 
+3 
+assumptions produces a mean ROE of 9.77 percent. 
+4 
+ 
+5 
+Q. 
+What are your conclusions about the results of the DCF model? 
+6 
+A. 
+The conditions that warranted the Commission’s GFP inquiry and the 
+7 
+subsequent Generic Finance RD in the early 1990s exist again today with 
+8 
+DCF results considerably lower than those from other models, such as the 
+9 
+CAPM, as well as returns authorized in other jurisdictions.  Therefore, it is 
+10 
+important to recognize that the results of the DCF model are likely 
+11 
+understated. 
+12 
+ 
+13 
+B. CAPITAL ASSET PRICING MODEL  
+14 
+Q. 
+Please briefly describe the Capital Asset Pricing Model. 
+15 
+A. 
+The CAPM is a risk premium approach that estimates the cost of equity for 
+16 
+a given security as a function of a risk-free return plus a risk premium (to 
+17 
+compensate investors for the non-diversifiable or “systematic” risk of that 
+18 
+security).60  As shown in Equation [3], the CAPM is defined by four 
+19 
+components, each of which must theoretically be a forward-looking 
+20 
+estimate: 
+21 
+ 
+60  Systematic risks are fundamental market risks that reflect aggregate economic 
+measures and therefore cannot be mitigated through diversification.  Unsystematic 
+risks reflect company-specific risks that can be mitigated and ultimately eliminated 
+through investments in a portfolio of companies and/or market sectors. 
+
+
+--- Page 60 ---
+Testimony of Joshua C. Nowak 
+Page 58 of 72 
+ke = rf + β(rm – rf)  
+ [2] 
+1 
+where:  
+2 
+ 
+ke = the required market ROE 
+3 
+ 
+β = Beta coefficient of an individual security 
+4 
+ 
+rf = the risk-free rate of return 
+5 
+ 
+rm = the required return on the market as a whole 
+6 
+The term (rm – rf) represents the Market Risk Premium (“MRP”).  
+7 
+According to the theory underlying the CAPM, unsystematic risk can be 
+8 
+diversified away, therefore investors should be concerned only with 
+9 
+systematic or non-diversifiable risk.  Non-diversifiable risk is measured by 
+10 
+Beta, which is defined as: 
+11 
+β = 
+  [3] 
+12 
+where:  
+13 
+ 
+re = the rate of return for the individual security or portfolio. 
+14 
+The variance of the market return, noted in Equation [4], is a measure of the 
+15 
+uncertainty of the general market, and the covariance between the return on 
+16 
+a specific security and the market reflects the extent to which the return on 
+17 
+that security will respond to a given change in the market return.  Thus, Beta 
+18 
+represents the risk that the selected security will not be effective in 
+19 
+diversifying systematic market risks. 
+20 
+ 
+21 
+)
+(
+)
+,
+(
+m
+m
+e
+r
+Variance
+r
+r
+Covariance
+
+
+--- Page 61 ---
+Testimony of Joshua C. Nowak 
+Page 59 of 72 
+Q. 
+What risk-free rate did you use in your CAPM model? 
+1 
+A. 
+I used three estimates of the yield on Treasury bonds: (1) the current three-
+2 
+month average yield on 30-year Treasury bonds (3.77 percent);61 (2) the 
+3 
+projected 30-year Treasury yield for 2023-2024 (3.78 percent);62 and (3) the 
+4 
+projected 30-year Treasury yield for the period 2025-2029 (3.80 percent).63  
+5 
+In determining the security most relevant to the application of the CAPM, 
+6 
+it is important to select the term (or maturity) that best matches the life of 
+7 
+the underlying investment.  As noted by Morningstar: 
+8 
+The traditional thinking regarding the time horizon of 
+9 
+the chosen Treasury security is that it should match the 
+10 
+time horizon of whatever is being valued…  Note that 
+11 
+the horizon is a function of the investment, not the 
+12 
+investor.  If an investor plans to hold stock in a company 
+13 
+for only five years, the yield on a five-year Treasury 
+14 
+note would not be appropriate since the company will 
+15 
+continue to exist beyond those five years.64 
+16 
+Because utility companies represent long-duration investments, it is 
+17 
+appropriate to use yields on long-term Treasury bonds as the risk-free rate 
+18 
+component of the CAPM.  In my view, the 30-year Treasury bond is the 
+19 
+appropriate security for that purpose.  Because the cost of capital is intended 
+20 
+to be forward-looking, it is appropriate to consider projected measures of 
+21 
+the market risk premium and interest rates. 
+22 
+ 
+23 
+ 
+61 Bloomberg Professional. 
+62 Aspen Publishers, Blue Chip Financial Forecasts, Vol. 42, No. 6 June 1, 2023, at 2. 
+63 Aspen Publishers, Blue Chip Financial Forecasts, Vol. 42, No. 6 June 1, 2023, at 14. 
+64 Morningstar Inc., Ibbotson SBBI 2013 Valuation Yearbook, at 44.  
+
+
+--- Page 62 ---
+Testimony of Joshua C. Nowak 
+Page 60 of 72 
+Q. 
+Please describe your estimate of the market risk premium used in your 
+1 
+CAPM. 
+2 
+A. 
+The estimated market risk premium is based on the expected return on the 
+3 
+S&P 500 Index, less the 30-year Treasury bond yield.  The expected return 
+4 
+on the S&P 500 Index is calculated using a DCF model for all companies 
+5 
+in the index based on market capitalization-weighted growth rates and 
+6 
+dividend yields.  The market risk premium implied by each of the three 
+7 
+Treasury yields discussed above is used in the CAPM analysis. 
+8 
+ 
+9 
+The Commission previously has relied upon the calculation of a projected 
+10 
+market risk premium, based on the difference between the estimated 
+11 
+forward-looking required market return for the S&P 500, as provided by 
+12 
+BAML, and the risk-free rate.65  As a practical matter, that approach is 
+13 
+consistent with the Market DCF-derived forward-looking market risk 
+14 
+premium estimate discussed above (see also Exhibit __ (JCN-5). 
+15 
+Nonetheless, I have relied on the average of: (1) forward-looking required 
+16 
+market return for the S&P 500 as calculated using a DCF model for all 
+17 
+companies in the index; and (2) the estimated forward-looking required 
+18 
+market return for the S&P 500, as provided by BAML. 
+19 
+ 
+20 
+ 
+65 See e.g., 2011 O&R Rate Order, at 77. 
+
+
+--- Page 63 ---
+Testimony of Joshua C. Nowak 
+Page 61 of 72 
+Q. 
+What Beta coefficient did you use in your CAPM model? 
+1 
+A. 
+I considered the average Beta coefficients for the proxy group companies 
+2 
+as reported by Bloomberg and Value Line (see Exhibit __ (JCN-4)). The 
+3 
+Beta coefficients reported by Bloomberg were calculated using ten years of 
+4 
+weekly returns relative to the S&P 500 Index. Value Line’s calculation is 
+5 
+based on five years of weekly returns relative to the New York Stock 
+6 
+Exchange Composite Index. 
+7 
+ 
+8 
+Q. 
+Did you consider another form of the CAPM in your analysis? 
+9 
+A. 
+Yes.  In prior proceedings, the Commission has relied upon the Zero-Beta 
+10 
+CAPM (the form of which is sometimes referred to as the “Empirical 
+11 
+CAPM”66) in estimating the cost of equity.  The Zero-Beta CAPM 
+12 
+calculates the product of the adjusted Beta coefficient and the market risk 
+13 
+premium and applies a weight of 75.00 percent to that result.  The model 
+14 
+then applies a 25.00 percent weight to the market risk premium, without any 
+15 
+effect from the Beta coefficient.  The results of the two calculations are 
+16 
+summed, along with the risk-free rate, to produce the Zero-Beta CAPM 
+17 
+result, as noted in Equation [4] below:   
+18 
+ 
+ke = rf + 0.75β(rm – rf) + 0.25(rm – rf)  
+[4] 
+19 
+where: 
+20 
+ 
+ke = the required market ROE 
+21 
+ 
+β = Adjusted Beta coefficient of an individual security 
+22 
+ 
+66 See e.g., Roger A. Morin, New Regulatory Finance, Public Utilities Reports, Inc., 
+2006, at 189.   
+
+
+--- Page 64 ---
+Testimony of Joshua C. Nowak 
+Page 62 of 72 
+ 
+rf = the risk-free rate of return 
+1 
+ 
+rm = the required return on the market as a whole 
+2 
+ 
+3 
+In essence, the Zero-Beta form of the CAPM addresses the tendency of the 
+4 
+“traditional” CAPM to underestimate the cost of equity for companies with 
+5 
+low Beta coefficients such as regulated utilities.  In that regard, the Zero-
+6 
+Beta CAPM is not redundant to the use of adjusted Betas; rather, it 
+7 
+recognizes the results of academic research indicating that the risk-return 
+8 
+relationship is different (in essence, flatter) than estimated by the CAPM, 
+9 
+and that the CAPM underestimates the “alpha,” or the constant return 
+10 
+term.67   
+11 
+ 
+12 
+As with the CAPM, my application of the Zero-Beta CAPM uses the 
+13 
+forward-looking market risk premium estimates, the three yields on 30-year 
+14 
+Treasury securities noted earlier as the risk-free rate, and the Bloomberg 
+15 
+and Value Line Beta coefficients.  Exhibit __ (JCN-4) show the results of 
+16 
+the CAPM models.  The traditional CAPM model results range from 10.80 
+17 
+percent to 10.81 percent.  The Zero-Beta CAPM model results range from 
+18 
+11.13 percent to 11.14 percent.  The range established by the traditional 
+19 
+CAPM model and the Zero-Beta CAPM model results is 10.80 percent to 
+20 
+11.14 percent with a mean of 10.97 percent. 
+21 
+ 
+22 
+ 
+67 Id. at 191. 
+
+
+--- Page 65 ---
+Testimony of Joshua C. Nowak 
+Page 63 of 72 
+C. WEIGHTED AVERAGE RESULTS 
+1 
+Q. 
+Please summarize the results of your analysis and your recommended 
+2 
+ROE.   
+3 
+A. 
+As shown in Figure 7 (below), I have presented the DCF and CAPM results 
+4 
+weighted equally, and with the Generic Finance RD’s proposed 2/3 
+5 
+weighting of the DCF and 1/3 weighting of the CAPM.   
+6 
+Figure 7:  Weighted Average Analytical Results 
+7 
+ 
+Low 
+Mean 
+High 
+DCF 
+9.29% 
+9.77% 
+10.45% 
+Mean CAPM 
+10.97% 
+10.97% 
+10.97% 
+67%/33% 
+DCF/CAPM 
+9.85% 
+10.17% 
+10.62% 
+50%/50% 
+DCF/CAPM 
+10.13% 
+10.37% 
+10.71% 
+ 
+8 
+Q. 
+What was the Commission’s reasoning for developing its weighting of 
+9 
+the DCF and CAPM methodologies in the RD? 
+10 
+A. 
+At the time of the Generic Finance RD, the Commission did not have a 
+11 
+significant amount of experience with the CAPM.  The Generic Finance RD 
+12 
+noted that the Commission had historically used the CAPM as a check on 
+13 
+its DCF results, and was somewhat undecided as to “how far the 
+14 
+Commission should go in elevating the status of CAPM.”68   The Generic 
+15 
+Finance RD opted for a gradual transition towards the CAPM, ultimately 
+16 
+settling on a 1/3 weighting, indicating that “proposals have simply not 
+17 
+shown that the CAPM should be raised all at once to parity with the DCF 
+18 
+ 
+68  RD, at 27. 
+
+
+--- Page 66 ---
+Testimony of Joshua C. Nowak 
+Page 64 of 72 
+analysis in the setting of returns on equity.”69  To the extent that this was a 
+1 
+consideration in the RD’s weighting determination, the Commission’s 25 
+2 
+years of experience with the CAPM since that time now provides a sound 
+3 
+basis for altering the weighting of the two ROE methodologies and raising 
+4 
+the CAPM “to parity with the DCF analysis....” 
+5 
+ 
+6 
+Several regulators, including the FERC, have recognized the challenges 
+7 
+associated with relying solely on the DCF to establish the authorized ROE 
+8 
+for regulated utilities in recent years.  The FERC considered what it termed 
+9 
+“anomalous” market conditions as a basis for abandoning its practice of sole 
+10 
+reliance on the DCF model to set ROEs for electric transmission companies 
+11 
+which began in the 1980s. FERC reasoned: 
+12 
+The fact that utility stock prices appear to have 
+13 
+performed in a manner inconsistent with the theory 
+14 
+underlying the DCF methodology during the periods at 
+15 
+issue in these four complaint proceedings is an example 
+16 
+of what NETOs have described as “model risk” — the 
+17 
+risk that in some circumstances a model will produce 
+18 
+results that do not reflect real world experience.  It 
+19 
+appears that, for whatever the reason, investors during 
+20 
+this period have seen greater value in utility stocks than 
+21 
+the DCF methodology would predict.  This suggests that 
+22 
+the ROE estimated by that methodology may be 
+23 
+correspondingly inaccurate.70 
+24 
+The importance of relying on multiple methodologies, while deemphasizing 
+25 
+the DCF, has been consistent with several state jurisdictions.71 
+26 
+ 
+69  Id. 
+70  165 FERC ¶ 61,030, December 16, 2018, at 46. 
+71  See, e.g., Pennsylvania Public Utility Commission, PPL Electric Utilities, R-2012-
+2290597, meeting held December 5, 2012, at 80-81; State of Illinois Commerce 
+ 
+
+
+--- Page 67 ---
+Testimony of Joshua C. Nowak 
+Page 65 of 72 
+ 
+1 
+Q. 
+Please summarize your conclusion regarding the relative weighting of 
+2 
+the CAPM and DCF results. 
+3 
+A. 
+While the RD proposed the 2/3 weighting on the DCF, the weightings and 
+4 
+methodologies used to estimate the ROE were left open for additional 
+5 
+consideration in future rate proceedings.  Since then, the Commission has 
+6 
+employed the CAPM as one component of the formula used to develop ROE 
+7 
+estimates.  There does not appear to be any reason to infer that the 
+8 
+Commission has less confidence in the results of the CAPM than those of 
+9 
+the DCF.  The conditions that warranted the Commission’s GFP inquiry and 
+10 
+the subsequent RD in the early 1990s exist again today with DCF results 
+11 
+considerably lower than those from other models, such as the CAPM, as 
+12 
+well as returns authorized in other jurisdictions.  Current capital market 
+13 
+conditions are heavily influenced by monetary policy aimed at mitigating 
+14 
+inflationary pressures and consequently long-term interest rates have 
+15 
+increased substantially since the historical lows of 2020.  Since the CAPM 
+16 
+directly accounts for changes in interest rates, it is appropriate to give the 
+17 
+CAPM more weight as compared to recent Commission decisions in the 
+18 
+current capital market environment.  Therefore, it is reasonable to apply 
+19 
+ 
+Commission, Docket No. 16-0093, Illinois-American Water Company Initial Brief, 
+August 31, 2016, at 10, Illinois Staff’s analysis and recommendation in that proceeding 
+were based on its application of the multi-stage DCF model and the CAPM to a proxy 
+group of water utilities, State of Illinois Commerce Commission Decision, Docket No. 
+16-0093, Illinois-American Water Company, 2016 WL 7325212 (2016), at 55; and File 
+No. GR-2017-0215 and File No. GR-2017-0216, Missouri Public Service 
+Commission, Report and Order, Issue Date February 21, 2018, at 34. 
+
+
+--- Page 68 ---
+Testimony of Joshua C. Nowak 
+Page 66 of 72 
+equal weighting to the DCF and CAPM methods when determining the 
+1 
+ROE for the Company.   
+2 
+ 
+3 
+Q. 
+Are the assumptions used in the CAPM less reliable than the 
+4 
+assumptions used in the DCF model? 
+5 
+A. 
+No.  As discussed previously, the CAPM relies on a risk-free rate, Beta and 
+6 
+the MRP.  The risk-free rate is readily observable and can be projected for 
+7 
+the forward-looking period.  Beta is estimated using the historical 
+8 
+relationship between the risk of the stock and the overall market.  Finally, 
+9 
+the market risk premium, while not observable, can be estimated for the 
+10 
+forward-looking period. My testimony discusses how the current economic 
+11 
+environment is directly affected by Federal Reserve policy and may not be 
+12 
+representative of forward-looking market conditions.  Therefore, while the 
+13 
+CAPM is sometimes criticized as relying on unobservable assumptions, the 
+14 
+ability to rely on forward-looking assumptions allows for a prospective 
+15 
+analysis of investors’ long-term expectations. 
+16 
+  
+17 
+VIII. CAPITAL STRUCTURE 
+Q. 
+Please summarize the Company’s proposed capital structure.  
+18 
+A. 
+The Company is requesting a 50.00 percent equity ratio for ratemaking 
+19 
+purposes.  
+20 
+ 
+21 
+
+
+--- Page 69 ---
+Testimony of Joshua C. Nowak 
+Page 67 of 72 
+Q. 
+Have you conducted any analysis of the Company’s proposed capital 
+1 
+structure as compared with the proxy companies? 
+2 
+A. 
+Yes. I have reviewed Central Hudson’s proposed capital structure as 
+3 
+compared with the actual capital structures of the operating companies in 
+4 
+the proxy group for the most recently reported four years.  As shown on 
+5 
+Exhibit __ (JCN-8), the mean annual equity ratio of the proxy companies 
+6 
+over that period is 54.13 percent.  
+7 
+ 
+8 
+Q. 
+What do you conclude from this analysis? 
+9 
+A. 
+The requested 50.00 percent equity ratio is conservative considering the 
+10 
+equity ratios of the proxy companies and the current business and financial 
+11 
+risks of Central Hudson, including significant capital investment programs, 
+12 
+credit metrics pressures and credit rating agency pressures.  This 
+13 
+information indicates that the utility operating subsidiaries owned by 
+14 
+holding companies with similar business characteristics to Central Hudson 
+15 
+have for the last four years maintained average common equity ratios more 
+16 
+than 4.00 percentage points above the 48.00 percent to 50.00 percent equity 
+17 
+ratio that the Commission approved for Central Hudson in the Company’s 
+18 
+last rate proceeding.  These higher proxy equity ratios reflect a level of 
+19 
+financial risk that is lower than the financial risk implied by the proposed 
+20 
+50.00 percent equity ratio.   
+21 
+
+
+--- Page 70 ---
+Testimony of Joshua C. Nowak 
+Page 68 of 72 
+Q. 
+How does the Company’s proposed equity ratio compare to authorized 
+1 
+equity ratios in other jurisdictions? 
+2 
+A. 
+Equity ratios that are typically authorized by the Commission for New 
+3 
+York’s electric and gas utilities are considerably lower than equity ratios 
+4 
+authorized by other jurisdictions (in 2020-2022 average authorized equity 
+5 
+ratios in New York were 3.66 percentage points below the national average 
+6 
+for electric and gas utilities)72.  Further, the Commission’s recently 
+7 
+authorized equity ratios of 48 percent are inconsistent with the trend in other 
+8 
+jurisdictions.  As shown in Figure 8, the authorized equity ratio for the proxy 
+9 
+companies has consistently increased over the last two decades and was 
+10 
+52.57 percent in 2022. 
+11 
+ 
+72  Source:  Regulatory Research Associates.  2020-2022 average authorized equity ratios 
+for states other than New York (excluding limed issue riders) were 51.91 percent 
+compared to an average authorized equity ratio of 48.25 percent in New York.  Rate 
+cases in Arkansas, Florida, Indiana, and Michigan have been excluded from the 
+analysis since the authorized capital structure approved in the cases includes deferred 
+taxes and other credits as non-investor supplied capital. 
+
+
+--- Page 71 ---
+Testimony of Joshua C. Nowak 
+Page 69 of 72 
+Figure 8: Authorized Equity Ratios for the Proxy Companies 
+1 
+2005-2022 
+2 
+ 
+3 
+Therefore, I conclude that the requested equity ratio should be considered a 
+4 
+lower bound on the equity ratio relative to the range of reasonableness 
+5 
+established by industry practice.  As such, it would be reasonable for the 
+6 
+Commission to use higher equity ratios for Central Hudson closer to those 
+7 
+of the proxy group operating companies for ratemaking purposes. 
+8 
+ 
+9 
+IX.   MULTI-YEAR RATE PLAN 
+Q. 
+Would a multi-year rate plan impact your ROE recommendation?   
+10 
+A.  
+Yes, it would.  The Commission has in many cases approved three-year rate 
+11 
+case settlements that often include stay-out premiums.  It is my 
+12 
+understanding that the Company will provide additional forecast data along 
+13 
+with, or shortly after, its rate filings.  In keeping with Commission 
+14 
+precedent, a stay-out premium would reflect the increased risk faced by the 
+15 
+Company under a multi-year rate plan. 
+16 
+46.79%
+50.76%
+48.18%
+48.91%
+50.72%
+50.00%49.81%
+51.00%51.10%
+50.58%
+51.22%
+50.49%50.63%
+51.63%
+52.39%
+52.82%
+51.09%
+52.57%
+40.00%
+42.00%
+44.00%
+46.00%
+48.00%
+50.00%
+52.00%
+54.00%
+2005
+2006
+2007
+2008
+2009
+2010
+2011
+2012
+2013
+2014
+2015
+2016
+2017
+2018
+2019
+2020
+2021
+2022
+Authorized Equity Ratio - Gas and Electric Utilities
+........... 
+.......... 
+............... ·········· 
+·······•"'' 
+················ 
+........ 
+
+
+--- Page 72 ---
+Testimony of Joshua C. Nowak 
+Page 70 of 72 
+ 
+1 
+Q. 
+What are the relevant risk factors to equity investors inherent in a 
+2 
+multi-year stay-out?  
+3 
+A. 
+As described in Section V, inflation and elevated interest rates are the 
+4 
+predominant factors in the current economic environment.  As such, the 
+5 
+Company, is exposed to changes in underlying costs that deviate from 
+6 
+expected levels of inflation.  However, the stay-out premium associated 
+7 
+with a multi-year rate plan should not only compensate investors for 
+8 
+changes in the level of interest rates or inflation, but also for the potential 
+9 
+risk of under-earning that is introduced by “staying out.”  By staying out of 
+10 
+rate cases, the utility may not fully recover material amounts of capital 
+11 
+expenditures and may be required to absorb losses due to differences 
+12 
+between the cost of service established in the rate plan and actual levels of 
+13 
+revenue and expense.  The premium should compensate the utility and its 
+14 
+investors for these additional risks over and above interest rate risk.   
+15 
+ 
+16 
+Q. 
+What do you propose as the stay-out premium for a three-year rate 
+17 
+plan?  
+18 
+A. 
+The ROE proposed by the Company of 9.80 percent will not provide the 
+19 
+Company a return commensurate with the return available on investments 
+20 
+of similar risk over the term of the multi-year rate plan without an adequate 
+21 
+stay-out premium.  Consistent with prior cases in which a stay-out premium 
+22 
+was included in multi-year rate plans, I recommend that a stay-out premium 
+23 
+be included in a multi-year rate plan.  I believe 50 basis points is a 
+24 
+
+
+--- Page 73 ---
+Testimony of Joshua C. Nowak 
+Page 71 of 72 
+reasonable, albeit conservative, reflection of the incremental risk to the 
+1 
+Company under a multi-year stay-out provision.  
+2 
+  
+3 
+X.   CONCLUSION AND RECOMMENDATION 
+Q. 
+What is your conclusion regarding a fair return on book equity for 
+4 
+Central Hudson? 
+5 
+A. 
+My recommended return on book equity considers the results of the DCF 
+6 
+and CAPM models, summarized in Figure 9 (below), and the specific risks 
+7 
+to which the Company is exposed.  I conclude that the appropriate ROE for 
+8 
+the Company is within the range of 9.80 percent and 10.80 percent. The 
+9 
+Company is requesting an ROE of 9.80 percent, which is at the low end of 
+10 
+this range of reasonableness and is a conservative estimate of the investor-
+11 
+required ROE.  
+12 
+Figure 9:  Summary of Analytical Results 
+13 
+ 
+Low 
+Mean 
+High 
+DCF 
+9.29% 
+9.77% 
+10.45% 
+Mean CAPM 
+10.97% 
+10.97% 
+10.97% 
+67%/33% 
+DCF/CAPM 
+9.85% 
+10.17% 
+10.62% 
+50%/50% 
+DCF/CAPM 
+10.13% 
+10.37% 
+10.71% 
+ 
+14 
+ 
+Furthermore, if the Commission approves a multi-year rate plan, a premium 
+15 
+of 50 basis points should be added to the ROE.  
+16 
+
+
+--- Page 74 ---
+Testimony of Joshua C. Nowak 
+Page 72 of 72 
+ 
+1 
+Q. 
+Does this conclude your Direct Testimony at this time? 
+2 
+A. 
+Yes, it does. 
+3 

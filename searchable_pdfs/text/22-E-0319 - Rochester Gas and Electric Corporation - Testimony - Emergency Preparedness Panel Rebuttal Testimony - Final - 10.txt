@@ -1,0 +1,958 @@
+--- Page 1 ---
+ 
+ 
+BEFORE THE 
+NEW YORK STATE 
+PUBLIC SERVICE COMMISSION 
+----------------------------------------------------------------------------x 
+ 
+Proceeding on Motion of the Commission as to the 
+Rates, Charges, Rules and Regulations of  
+ 
+ 
+Case 22-E-0317 
+New York State Electric & Gas Corporation 
+for Electric Service 
+ 
+Proceeding on Motion of the Commission as to the 
+Rates, Charges, Rules and Regulations of  
+ 
+ 
+Case 22-G-0318 
+New York State Electric & Gas Corporation 
+for Gas Service 
+ 
+Proceeding on Motion of the Commission as to the 
+Rates, Charges, Rules and Regulations of  
+ 
+ 
+Case 22-E-0319 
+Rochester Gas and Electric Corporation 
+for Electric Service 
+ 
+Proceeding on Motion of the Commission as to the 
+Rates, Charges, Rules and Regulations of  
+ 
+ 
+Case 22-G-0320 
+Rochester Gas and Electric Corporation 
+for Gas Service 
+ 
+----------------------------------------------------------------------------x 
+ 
+ 
+REBUTTAL TESTIMONY OF  
+EMERGENCY PREPAREDNESS PANEL 
+ 
+ 
+ 
+Michael Craven 
+Jennifer Pearce 
+ 
+ 
+ 
+ 
+ 
+   
+ 
+October 18, 2022 
+
+
+--- Page 2 ---
+Case 22-E-0317; Case 22-G-0318; Case 22-E-0319; Case 22-G-0320 
+ 
+REBUTTAL TESTIMONY OF EMERGENCY PREPAREDNESS PANEL 
+i 
+ 
+TABLE OF CONTENTS 
+1 
+I. 
+INTRODUCTION ..................................................................................................... 1 
+2 
+II. 
+INCREMENTAL EMERGENCY RESPONSE PROGRAMS AND RESOURCES 5 
+3 
+ 
+LSE Tracker ......................................................................................................... 5 
+4 
+ 
+Dedicated Meteorological Resource .................................................................... 6 
+5 
+ 
+Weather Services .................................................................................................. 7 
+6 
+ 
+Electric Emergency Consultant and Exercise Design Consultants ...................... 8 
+7 
+ 
+Municipal Portal ................................................................................................. 10 
+8 
+ 
+Automated Rapid Infrastructure Evaluation System (“ARIES”) ....................... 11 
+9 
+ 
+Base Camps ........................................................................................................ 12 
+10 
+ 
+Right of First Refusal Retainer Agreement ........................................................ 14 
+11 
+ 
+
+
+--- Page 3 ---
+Case 22-E-0317; Case 22-G-0318; Case 22-E-0319; Case 22-G-0320 
+ 
+REBUTTAL TESTIMONY OF EMERGENCY PREPAREDNESS PANEL 
+ 
+ 
+ 
+I. 
+INTRODUCTION 
+1 
+Q.    
+Please state the names of the members on this Emergency Preparedness Panel (the 
+2 
+“Panel”). 
+3 
+ 
+We are Michael Craven and Jennifer Pearce. 
+4 
+Q.    
+Did you sponsor the Direct Testimony of the Emergency Preparedness Panel of New 
+5 
+York State Electric & Gas Corporation (“NYSEG”) and Rochester Gas and Electric 
+6 
+Corporation (“RG&E” and, together with NYSEG, the “Companies”) in these 
+7 
+proceedings?  
+8 
+ 
+In part, yes.  Since the filing of the Panel’s Direct Testimony, one Panel member, Trish 
+9 
+Nilsen, has been removed due to her promotion to President of NYSEG and RG&E.  Ms. 
+10 
+Nilsen has been replaced by Jennifer Pearce. 
+11 
+Q. 
+Ms. Pearce, please state your title and business address. 
+12 
+ 
+I am Vice President, Reliability Assurance and Emergency Preparedness, Avangrid 
+13 
+Networks.  My business address is 162 Canco Road, Portland, Maine 04103. 
+14 
+Q. 
+Please summarize your work experience and educational background. 
+15 
+ 
+I have 20 years of experience designing and executing programs in Homeland Security, 
+16 
+Critical Infrastructure Protection, risk analysis and reduction, emergency management and 
+17 
+business continuity in both the public and private sectors.  I have been working in the 
+18 
+utility emergency management space for the last eight years.  I joined Avangrid at the 
+19 
+beginning of October 2022 after spending eight years in California managing Southern 
+20 
+California Edison’s Business Resiliency Department.  Prior to that I was with the federal 
+21 
+government (Federal Emergency Management Agency and Department of Health and 
+22 
+Human Services), developing national level emergency preparedness policies and plans 
+23 
+
+
+--- Page 4 ---
+Case 22-E-0317; Case 22-G-0318; Case 22-E-0319; Case 22-G-0320 
+ 
+REBUTTAL TESTIMONY OF EMERGENCY PREPAREDNESS PANEL 
+2 
+ 
+and responding to national level disasters.  I have a Master’s degree in Community and 
+1 
+Regional Planning with an emphasis on Environmental and Emergency Management 
+2 
+Planning from the University of Oregon.  My Curriculum Vitae (“CV”) is set forth in 
+3 
+Exhibit __ (EPP-R1). 
+4 
+Q. 
+Have you previously testified in other proceedings before the New York State Public 
+5 
+Service Commission (“Comission”) or any other state or federal regulatory agency? 
+6 
+ 
+No.  While I have participated in public utility proceedings in California, I have not 
+7 
+formally testified. 
+8 
+Q.    
+Ms. Pearce, do you adopt the pre-filed Direct Testimony of this Emergency Preparedness 
+9 
+Panel? 
+10 
+ 
+Yes, I do. 
+11 
+Q. 
+Is the Panel sponsoring any exhibits in support of its Rebuttal Testimony? 
+12 
+ 
+Yes.  We are sponsoring the following exhibits: 
+13 
+1) Exhibit __ (EPP-R1) – Witness CV; and 
+14 
+2) Exhibit __ (EPP-R2) – LSE Tracker Design. 
+15 
+Q.    
+What is the overall purpose of the Panel’s Rebuttal Testimony? 
+16 
+ 
+We address recommendations made by the New York State Department of Public Service 
+17 
+Staff (“Staff”) through the testimony of the Staff Electric Infrastructure and Operations 
+18 
+Panel (“SEIOP”).  More specifically, we rebut Staff’s recommendations related to several 
+19 
+key initiatives: 
+20 
+1) We disagree with Staff’s rejection of our proposal to implement an automated system 
+21 
+to improve the speed and accuracy of contacting life support equipment (“LSE”) 
+22 
+customers during emergency events.  This is a critical priority that will provide 
+23 
+
+
+--- Page 5 ---
+Case 22-E-0317; Case 22-G-0318; Case 22-E-0319; Case 22-G-0320 
+ 
+REBUTTAL TESTIMONY OF EMERGENCY PREPAREDNESS PANEL 
+3 
+ 
+significant efficiencies and improve our process for tracking and assisting LSE 
+1 
+customers during outage events.  Since our original filing, we have completed high-
+2 
+level design development for the proposed system and continue to support this 
+3 
+proposal, which is critical to the safety and well-being of our LSE customers. 
+4 
+2) We disagree with Staff’s elimination of our proposed dedicated meteorological 
+5 
+resource.  This resource will provide important services to the Companies that are not 
+6 
+currently provided by the Companies’ contractor meteorological forecasters and 
+7 
+enhance the Companies’ storm response in several key aspects.   
+8 
+3) We oppose Staff’s rejection of our proposal to hire a weather services vendor.  
+9 
+Contrary to Staff’s suggestion otherwise, the proposed vendor would provide services 
+10 
+the Companies currently do not receive, including a level of detail and situational 
+11 
+awareness necessary to prepare for incoming weather events. 
+12 
+4) We rebut Staff’s position that the Exercise Design Consultants are not needed 
+13 
+because the activities could be performed internally or by the Companies’ proposed 
+14 
+Electric Emergency Response Consultant.  The Companies are not currently able to 
+15 
+perform these activities with internal personnel and requiring the Electric Emergency 
+16 
+Response Consultant to perform the activities would compromise the audit 
+17 
+responsibilities of that consultant. 
+18 
+5) We disagree with Staff’s dismissal of our proposal to implement a municipal portal.  
+19 
+We provided considerable support for the municipal portal, which has been used 
+20 
+successfully by other utilities, will allow municipalities to better support communities 
+21 
+affected by power outages, and therefore provides a significant benefit to customers.     
+22 
+
+
+--- Page 6 ---
+Case 22-E-0317; Case 22-G-0318; Case 22-E-0319; Case 22-G-0320 
+ 
+REBUTTAL TESTIMONY OF EMERGENCY PREPAREDNESS PANEL 
+4 
+ 
+6) We oppose Staff’s elimination of our Automated Rapid Infrastructure Evaluation 
+1 
+System (“ARIES”) project.  The Companies’ proposal will allow improvements to 
+2 
+ARIES that will significantly reduce the time it takes for the system to process data, 
+3 
+and therefore, the system will be usable for storm restoration events of shorter 
+4 
+duration to the benefit of customers. 
+5 
+7) We disagree with Staff’s rejection of our proposal to enter into a retainer agreement 
+6 
+with a vendor to provide set up of “base camp” facilities.  The “base camp” vendor 
+7 
+retainer agreement is necessary to minimize difficulties related to securing 
+8 
+accommodations for crews responding to emergency events and, as we describe 
+9 
+below, is fully supported.   
+10 
+8) Finally, while we disagree with Staff’s position that we failed to provide detailed 
+11 
+support for a right of first refusal retainer agreement with a storm line contractor, we 
+12 
+propose to conduct a benchmarking study that would include a review of similar 
+13 
+agreements entered into by other utilities in New York.   
+14 
+Q. 
+Does the Panel have any preliminary comments concerning Staff’s testimony in these 
+15 
+proceedings? 
+16 
+ 
+Yes.  In general, we are disappointed that Staff rejected most of our proposals, which 
+17 
+were intended to enhance our emergency preparedness and restoration activities on behalf 
+18 
+of our customers.  Emergency planning is a critical, core component of our ability to 
+19 
+provide safe and reliable service to customers and to restore service in a timely manner 
+20 
+post-weather or other emergency event.  As storms have become more frequent and 
+21 
+intense, investments to enhance our emergency preparedness activities will become 
+22 
+increasingly important to our customers. 
+23 
+
+
+--- Page 7 ---
+Case 22-E-0317; Case 22-G-0318; Case 22-E-0319; Case 22-G-0320 
+ 
+REBUTTAL TESTIMONY OF EMERGENCY PREPAREDNESS PANEL 
+5 
+ 
+II. 
+INCREMENTAL EMERGENCY RESPONSE PROGRAMS AND RESOURCES 
+1 
+ LSE Tracker 
+2 
+Q. 
+What is Staff’s position on the Companies’ proposed funding for the LSE Tracker. 
+3 
+ 
+Staff removed the funding for the LSE Tracker based on a belief that the Companies are 
+4 
+too early in the design development process and do not have an accurate scope of work or 
+5 
+budget estimate.  Staff also questioned the proposed cost estimate given that the 
+6 
+Companies have not issued a request for proposal for the project. 
+7 
+Q. 
+Have the Companies further developed the design of the proposed project since the 
+8 
+original filing? 
+9 
+ 
+Yes.  In October 2022, we completed a high-level design for the project.  This high-level 
+10 
+design is provided in Exhibit __ (EPP-R2).   
+11 
+Q. 
+Do the Companies agree that a more detailed cost estimate is required prior to project 
+12 
+approval? 
+13 
+ 
+No.  As the proposed project will be an internally-developed product, our initial cost 
+14 
+estimate based on the proposed project scope is accurate and there is no need to issue a 
+15 
+request for proposal.  
+16 
+Q. 
+Do the Companies agree with Staff’s removal of funding for this project? 
+17 
+ 
+No.  As demonstrated in our Direct Testimony, by automating the tracking process, 
+18 
+which is currently manual, the LSE Tracker will introduce significant efficiencies into the 
+19 
+process and improve the Companies’ ability to accurately track and assist LSE customers 
+20 
+during emergency events, which is critical to the safety and well-being of our LSE 
+21 
+customers.    
+22 
+
+
+--- Page 8 ---
+Case 22-E-0317; Case 22-G-0318; Case 22-E-0319; Case 22-G-0320 
+ 
+REBUTTAL TESTIMONY OF EMERGENCY PREPAREDNESS PANEL 
+6 
+ 
+ Dedicated Meteorological Resource  
+1 
+Q. 
+What did Staff say about the Companies’ proposal to add a dedicated meteorological 
+2 
+resource? 
+3 
+ 
+Staff removed the proposed position based on its mistaken belief that an additional 
+4 
+internal resource is not critical at this time given that the Companies currently retain two 
+5 
+contractor meteorological forecasters. 
+6 
+Q. 
+Do the Companies agree with Staff’s position? 
+7 
+ 
+No.  The proposed dedicated meteorological resource would provide essential services to 
+8 
+the Companies that are not currently provided by the contractor meteorological 
+9 
+forecasters.   
+10 
+Q. 
+Please describe the services the dedicated meteorological resource would provide that are 
+11 
+not currently provided by the contractor meteorological forecasters. 
+12 
+ 
+The dedicated meteorological resource, as an internal resource, would provide weather 
+13 
+monitoring and forecasting specifically for the Companies.  The current vendors provide 
+14 
+services to numerous entities and, while essential, are not able to provide the required 
+15 
+level of dedicated and Company-focused service.  Specifically, the proposed dedicated 
+16 
+meteorological resource will: 1) manage and monitor the Companies’ relationship with 
+17 
+vendors, including the development of key performance indicators to assess vendor 
+18 
+performance; 2) lead weather calls and aid in decision making; 3) highlight possible 
+19 
+severe weather conditions not observed by an existing weather service; 4) provide 
+20 
+informed assessments of outage and damage predictions for a given forecast; 5) solicit 
+21 
+and review forecasts that are more than three days in advance; 6) influence pre-event 
+22 
+activities and develop lessons learned to improve weather forecasting and pre-event 
+23 
+
+
+--- Page 9 ---
+Case 22-E-0317; Case 22-G-0318; Case 22-E-0319; Case 22-G-0320 
+ 
+REBUTTAL TESTIMONY OF EMERGENCY PREPAREDNESS PANEL 
+7 
+ 
+resource activities; and 7) conduct post-event response analysis, including review of 
+1 
+weather forecast reports.  Our current contractor resources do not provide this level of 
+2 
+Company-specific service, and as a result, the dedicated meteorological resource is 
+3 
+necessary. 
+4 
+ Weather Services 
+5 
+Q. 
+What is Staff’s position on the Companies’ proposal for funding related to a dedicated 
+6 
+weather vendor? 
+7 
+ 
+Staff dismissed our proposal for a dedicated weather vendor based on their 
+8 
+misunderstanding that the data expected to be provided by the proposed vendor is similar 
+9 
+to the data we receive from our current vendors.   
+10 
+Q. 
+Does the Panel agree with Staff’s recommendation? 
+11 
+ 
+No.  The services that would be provided by the proposed dedicated weather vendor are 
+12 
+not being provided by ATMOS, one of our current vendors. 
+13 
+Q. 
+What additional services would the proposed dedicated weather vendor provide to the 
+14 
+Companies? 
+15 
+ 
+ATMOS does not provide a daily forecast, nor an in-depth explanation of weather events, 
+16 
+or abnormalities.  Essentially, ATMOS provides screenshots of weather details from 
+17 
+other sources and emails them to a distribution list.  We are proposing a contract with a 
+18 
+weather vendor dedicated to the New York service area that can provide: 1) a 3-day or 
+19 
+more forecast on a daily basis; 2) more in-depth analysis of impending events; and 3) 
+20 
+reports, charts, graphs, and explanations helpful to our weather event planning.  We need 
+21 
+this level of detail to provide more accurate forecasting for pre-event activities to help 
+22 
+ensure appropriate readiness for incoming events.  The current ATMOS contract does not 
+23 
+
+
+--- Page 10 ---
+Case 22-E-0317; Case 22-G-0318; Case 22-E-0319; Case 22-G-0320 
+ 
+REBUTTAL TESTIMONY OF EMERGENCY PREPAREDNESS PANEL 
+8 
+ 
+sufficiently provide us with the level of detail and situational awareness we need to 
+1 
+prepare for incoming events.  
+2 
+ Electric Emergency Consultant and Exercise Design Consultants 
+3 
+Q. 
+Please summarize the Companies’ proposals to retain consultants to support the 
+4 
+Companies’ emergency response efforts. 
+5 
+ 
+We proposed to retain two consultants: 1) an Electric Emergency Response Consultant to 
+6 
+audit the Companies’ emergency preparedness activities; and 2) Exercise Design 
+7 
+Consultants to allow the Companies to conduct full-scale gas and electric exercises 
+8 
+necessary to test performance. 
+9 
+Q. 
+Please summarize Staff’s recommendation related to the Companies’ proposal to retain 
+10 
+an Electric Emergency Response Consultant in an audit capacity. 
+11 
+ 
+Staff supported our proposal to retain an Electric Emergency Response Consultant to 
+12 
+audit the Companies’ emergency preparedness activities and documentation. 
+13 
+Q. 
+Please summarize Staff’s recommendation related to the Companies’ proposal to retain 
+14 
+Exercise Design Consultants. 
+15 
+ 
+Staff asserts the Exercise Design Consultants are unnecessary and eliminated funding for 
+16 
+these consultants.  Staff suggested that the exercise design function could be performed 
+17 
+by the Electric Emergency Response Consultant or internally. 
+18 
+Q. 
+Do the Companies agree with Staff’s recommendation? 
+19 
+ 
+No.  We disagree that the exercise design function could be performed by the Electric 
+20 
+Emergency Response Consultant or with internal resources.  Therefore, we continue to 
+21 
+support our position that the funding for the Exercise Design Consultants should be 
+22 
+approved. 
+23 
+
+
+--- Page 11 ---
+Case 22-E-0317; Case 22-G-0318; Case 22-E-0319; Case 22-G-0320 
+ 
+REBUTTAL TESTIMONY OF EMERGENCY PREPAREDNESS PANEL 
+9 
+ 
+Q. 
+Please explain why the Electric Emergency Response Consultant cannot perform the 
+1 
+exercise design function. 
+2 
+ 
+First, we would like to clarify the Companies’ response to NYRC-0633 (DPS-339), 
+3 
+which is included in Exhibit __ (SEIOP-1).  While the Electric Emergency Response 
+4 
+Consultant could theoretically perform the same tasks proposed for the Exercise Design 
+5 
+Consultant, having the Electric Emergency Response Consultant actually perform those 
+6 
+tasks is not appropriate.  The Electric Emergency Response Consultant is charged with 
+7 
+auditing and evaluating the effectiveness of the Companies’ emergency preparedness 
+8 
+activities.  Having the Electric Emergency Response Consultant design the exercises 
+9 
+would undercut this consultant’s ability to impartially audit, evaluate and critique the 
+10 
+exercises.  Therefore, it would be inappropriate to have that same consultant both design 
+11 
+and audit the Companies’ exercises.   
+12 
+Q. 
+Are there any other reasons why the Electric Emergency Response Consultant should not 
+13 
+design exercises? 
+14 
+ 
+Yes.  The Electric Emergency Response Consultant, retained pursuant to the Global 
+15 
+Settlement Agreement regarding power outages during 2018 winter and spring storms 
+16 
+(see Cases 19-E-0105 et al.), has proven to be a beneficial resource to the Companies, 
+17 
+and we value the consultant’s benchmarking, general knowledge, critiques of exercises, 
+18 
+after action and report reviews, and onsite attendance for our exercises.  Altering the 
+19 
+consultant’s scope of work to include exercise design would compromise the consultant’s 
+20 
+value to the Companies. 
+21 
+
+
+--- Page 12 ---
+Case 22-E-0317; Case 22-G-0318; Case 22-E-0319; Case 22-G-0320 
+ 
+REBUTTAL TESTIMONY OF EMERGENCY PREPAREDNESS PANEL 
+10 
+ 
+Q. 
+Can the Companies perform the work necessary for the exercise design function 
+1 
+internally? 
+2 
+ 
+No.  We do not have the appropriately skilled internal personnel to provide the required 
+3 
+level of exercise support or quality of exercise design.  The proposed funding for 
+4 
+Exercise Design Consultants will allow the Companies to bring in experts in exercise 
+5 
+design without pulling limited, key internal emergency preparedness personnel away 
+6 
+from other essential responsibilities. 
+7 
+ Municipal Portal 
+8 
+Q. 
+Did Staff take a position on the proposed Municipal Portal? 
+9 
+ 
+Yes, Staff removed the proposal’s funding. 
+10 
+Q. 
+What was Staff’s justification for removing the funding? 
+11 
+ 
+Staff expressed concern about the high annual costs of the proposal given that the 
+12 
+Companies did not provide benchmarking or a list of municipalities that would use the 
+13 
+portal.   
+14 
+Q. 
+Do the Companies agree with Staff’s recommendation? 
+15 
+ 
+No.  The Municipal Portal will significantly improve the sharing of information between 
+16 
+the Companies and the municipalities within our service territories, thus enhancing 
+17 
+emergency response.  This portal will provide municipal officials, regulators and 
+18 
+emergency management groups with real-time, map-based information, including the 
+19 
+location of power outages, critical municipal facilities and life support customers, and 
+20 
+will provide information on crew status.  Access to this information will allow 
+21 
+municipalities to better support communities affected by power outages, and therefore 
+22 
+provides a significant benefit to customers.     
+23 
+
+
+--- Page 13 ---
+Case 22-E-0317; Case 22-G-0318; Case 22-E-0319; Case 22-G-0320 
+ 
+REBUTTAL TESTIMONY OF EMERGENCY PREPAREDNESS PANEL 
+11 
+ 
+Q. 
+What outreach did the Companies conduct in developing the Municipal Portal proposal? 
+1 
+ 
+We requested demonstrations from PSEG Long Island to review the functionality of their 
+2 
+portal.  We also contacted other utilities in New York to determine if they have 
+3 
+implemented municipal portals.  Through outreach with these utilities, we learned that 
+4 
+Central Hudson Gas & Electric Corporation (“Central Hudson”) implemented a 
+5 
+municipal portal similar to the Companies’ proposal, as has a Connecticut affiliate of 
+6 
+NYSEG and RG&E.  Through this outreach, we also learned that portals of the type 
+7 
+proposed by the Companies have received significant positive feedback.  In addition, we 
+8 
+are working with a vendor that assisted Central Hudson with their implementation, who 
+9 
+has provided lessons learned and best practices from their experience.  
+10 
+ Automated Rapid Infrastructure Evaluation System (“ARIES”) 
+11 
+Q. 
+Did Staff make a recommendation related to funding for the ARIES project? 
+12 
+ 
+Yes.  Staff rejected the proposed funding for two reasons: 1) the ARIES trailers have 
+13 
+been deployed infrequently over the past two years; and 2) the Companies did not explain 
+14 
+the required data capture and necessary data processing improvements. 
+15 
+Q. 
+Do the Companies agree with Staff’s recommendation to reject the funding? 
+16 
+ 
+No.  The improvements that will be made through this proposed funding will allow the 
+17 
+Companies to deploy the ARIES trailer on a more frequent basis, which should alleviate 
+18 
+Staff’s concerns. 
+19 
+Q. 
+Please explain. 
+20 
+ 
+The majority of storms causing power outages in New York last less than three days.  
+21 
+Currently, the processing time for ARIES data is greater than three days, which makes 
+22 
+ARIES unusable for most restoration events at this time.  The proposed funding will 
+23 
+
+
+--- Page 14 ---
+Case 22-E-0317; Case 22-G-0318; Case 22-E-0319; Case 22-G-0320 
+ 
+REBUTTAL TESTIMONY OF EMERGENCY PREPAREDNESS PANEL 
+12 
+ 
+update ARIES to reduce the processing time so it can be used for assessing shorter 
+1 
+duration outage events.  This will provide value to customers as most events tend to be 
+2 
+less than three days and more rapid, thorough damage assessment collection will foster 
+3 
+more effective restoration.   
+4 
+Q. 
+What data capture and proceeding improvements will be made to ARIES? 
+5 
+ 
+The improvements to ARIES will shorten the processing and converting time of LiDAR 
+6 
+damage data.  The collection of LiDAR information and picture imaging consumes data 
+7 
+in the order of terabytes (“TBs”).  Converting TBs of data is time consuming with an 
+8 
+approximate 1:1 ratio of flying time to processing time.  The proposed updates will 
+9 
+reduce the time necessary to process and convert damage assessment data allowing 
+10 
+ARIES to be used more often (e.g., in minor outage events).  In addition, ARIES has 
+11 
+benefits over other LiDAR systems as it uses change detection capabilities to provide 
+12 
+damage assessment details.  Change detection using LiDAR alone requires a before and 
+13 
+after flight, is more costly, and often must be repeated.  ARIES also adds a level of safety 
+14 
+by reducing the need for damage assessors to enter hazardous and hard to reach areas 
+15 
+(e.g., blocked and/or washed-out roadways).  The proposed updates will allow ARIES 
+16 
+broken pole and low/down conductor damage to be integrated into Spectrum OMS, using 
+17 
+automation.  
+18 
+ Base Camps 
+19 
+Q. 
+Please summarize Staff’s recommendation on the Companies’ proposal to retain a base 
+20 
+camp vendor. 
+21 
+ 
+Staff recommended removing the funding for the base camp vendor.  Staff also 
+22 
+recommended that these costs not be charged to the major storm reserve. 
+23 
+
+
+--- Page 15 ---
+Case 22-E-0317; Case 22-G-0318; Case 22-E-0319; Case 22-G-0320 
+ 
+REBUTTAL TESTIMONY OF EMERGENCY PREPAREDNESS PANEL 
+13 
+ 
+Q. 
+What was Staff’s justification for removing the funding? 
+1 
+ 
+Staff recommended removing funding because the proposal lacked information and the 
+2 
+Companies did not perform benchmarking related to vendor agreements. 
+3 
+Q. 
+Do the Companies agree with Staff’s justification? 
+4 
+ 
+No.  The Companies were able to develop a cost estimate based on data received from 
+5 
+informal requests for information.  In addition, base camp vendor agreements, like the 
+6 
+one proposed by the Companies, are used by many neighboring utilities. 
+7 
+Q. 
+Can the Companies replace the need for the base camp vendor by enhancing current 
+8 
+practices related to lodging? 
+9 
+ 
+No.  The Companies have historically had difficulties obtaining adequate lodging for 
+10 
+crews.  Our service territories contain very rural areas where there is no access or limited 
+11 
+access to hotels.  In that case, we must rely on accommodations located away from the 
+12 
+impacted area.  These accommodations can be a far distance away from the impacted 
+13 
+area, affecting travel time and the time crews are available to perform the needed 
+14 
+restoration work.  In many instances, crews are forced to travel in excess of four hours 
+15 
+round trip because of the lack of closer accommodations, which significantly impacts 
+16 
+productive work time and restoration.  The base camp vendor would decrease travel time 
+17 
+and increase productivity, as the Companies would be able to set up camp at or near the 
+18 
+affected area.  The base camp vendor provides a holistic approach, as the base camp 
+19 
+would have food and other necessary facilities on-site, such as bathrooms and showers.   
+20 
+
+
+--- Page 16 ---
+Case 22-E-0317; Case 22-G-0318; Case 22-E-0319; Case 22-G-0320 
+ 
+REBUTTAL TESTIMONY OF EMERGENCY PREPAREDNESS PANEL 
+14 
+ 
+Q. 
+Do the Companies agree that these costs should not be charged to the major storm 
+1 
+reserve? 
+2 
+ 
+No.  The base camp solution would be utilized almost exclusively for major storm events, 
+3 
+and therefore retainer costs should be charged to the major storm reserve. 
+4 
+ Right of First Refusal Retainer Agreement 
+5 
+Q. 
+Please summarize Staff’s recommendation on the Companies’ proposal to enter into a 
+6 
+Right of First Refusal Retainer Agreement. 
+7 
+ 
+While Staff strongly agrees with the Companies obtaining a Right of First Refusal 
+8 
+Retainer Agreement, Staff recommended removing the Companies’ proposed funding 
+9 
+because the Companies failed to provide the documentation needed for Staff to review 
+10 
+the vendor agreements.  Staff also recommended that the costs should not be charged to 
+11 
+the major storm reserve. 
+12 
+Q. 
+Do the Companies agree that the costs associated with this proposal should not be 
+13 
+charged to the major storm reserve? 
+14 
+ 
+No.  The resources from the proposed agreements would be utilized almost exclusively 
+15 
+for major storm events.  Accordingly, it is appropriate to charge these expenses to the 
+16 
+major storm reserve in the same manner expenses are accounted for when utilizing 
+17 
+current pre-staging of contractors for major storms.  
+18 
+Q. 
+Do the Companies still need the proposed Right of First Refusal Retainer Agreement for 
+19 
+the Rate Year? 
+20 
+ 
+While the Companies acknowledge the direction provided by the Commission’s 
+21 
+November 19, 2020 Order in Case 20-E-0856, we currently maintain a sufficient number 
+22 
+of contractor resources to meet the goal of doubling our internal resources with 
+23 
+
+
+--- Page 17 ---
+Case 22-E-0317; Case 22-G-0318; Case 22-E-0319; Case 22-G-0320 
+ 
+REBUTTAL TESTIMONY OF EMERGENCY PREPAREDNESS PANEL 
+15 
+ 
+contractors in the event of a storm.  As a result, we are currently in a position to meet the 
+1 
+spirit of the Commission’s Order without the Right of First Refusal Retainer Agreement. 
+2 
+Q. 
+What do the Companies propose instead? 
+3 
+ 
+Consistent with Staff’s recommendation, the Companies plan to complete a detailed 
+4 
+benchmarking study on current Right of First Refusal Retainer Agreements that other 
+5 
+New York utilities may have already entered into.  This benchmarking study will include 
+6 
+the cost and scope for each agreement. 
+7 
+Q. 
+Does this conclude the Panel’s Rebuttal Testimony at this time? 
+8 
+ 
+Yes, it does. 
+9 

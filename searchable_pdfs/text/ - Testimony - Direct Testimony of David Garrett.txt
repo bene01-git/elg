@@ -1,0 +1,1763 @@
+--- Page 1 ---
+ BEFORE THE 
+STATE OF NEW YORK 
+PUBLIC SERVICE COMMISSION 
+ 
+ 
+ 
+In the Matter of 
+ 
+Consolidated Edison Company of New York, Inc. 
+ 
+Cases 25-E-0072 & 25-G-0073 
+ 
+May 30, 2025 
+ 
+ 
+Prepared Testimony of: 
+ 
+David Garrett 
+ 
+Resolve Utility Consulting PLLC 
+5000 Carrington Place 
+Oklahoma City, OK 73131 
+ 
+ 
+
+
+--- Page 2 ---
+ 
+ 
+ 
+TABLE OF CONTENTS 
+I. INTRODUCTION..................................................................................................................... 1 
+II. EXECUTIVE SUMMARY ...................................................................................................... 5 
+III. DEPRECIATION STANDARDS AND SYSTEMS ........................................................... 6 
+IV. FAIRNESS TO CUSTOMERS AND THE CLCPA ........................................................... 9 
+V. SERVICE LIFE ANALYSIS ............................................................................................. 12 
+A. Account 353 – Transmission Station Equipment .......................... 18 
+B. Account 362 – Distribution Station Equipment .......................... 21 
+C. Account 367 – Underground Conductors and Devices ................ 22 
+D. Accounts 367.10 and 376.12 – Mains – All Other ..................... 24 
+E. Account 369 – Measuring and Regulating Equipment ................ 25 
+F. Account 380.10 – Services – All Other .......................................... 27 
+VI. RESERVE VARIATION AND AMORTIZATION ........................................................... 28 
+ 
+ 
+ 
+ 
+
+
+--- Page 3 ---
+Cases 25-E-0072 and 25-G-0073 
+Direct Testimony of David Garrett 
+ 
+1 
+ 
+I.   INTRODUCTION 
+Q. 
+State your name, business address, and occupation. 
+1 
+A. 
+My name is David Garrett.  I am a consultant specializing in 
+2 
+public utility regulation.  I am the managing member of 
+3 
+Resolve Utility Consulting, PLLC. My business address is 5000 
+4 
+Carrington Place, Oklahoma City, Oklahoma 73131.  
+5 
+ 
+6 
+Q. 
+Summarize your educational background and professional 
+7 
+experience. 
+8 
+A. 
+I received a B.B.A. degree with a major in Finance, an M.B.A. 
+9 
+degree, and a Juris Doctor degree from the University of 
+10 
+Oklahoma. I worked in private legal practice for several years 
+11 
+before accepting a position as assistant general counsel at 
+12 
+the Oklahoma Corporation Commission in 2011.  At the Oklahoma 
+13 
+Commission, I worked in the Office of General Counsel in 
+14 
+regulatory proceedings. In 2012, I began working for the 
+15 
+Public Utility Division as a regulatory analyst providing 
+16 
+testimony in regulatory proceedings. After leaving the 
+17 
+Oklahoma Commission, I formed Resolve Utility Consulting, 
+18 
+PLLC, where I have represented various consumer groups and 
+19 
+state agencies in utility regulatory proceedings, primarily 
+20 
+
+
+--- Page 4 ---
+Cases 25-E-0072 and 25-G-0073 
+Direct Testimony of David Garrett 
+ 
+2 
+ 
+in the areas of cost of capital and depreciation. I have 
+1 
+testified in numerous regulatory proceedings in multiple 
+2 
+jurisdictions on the issues of cost of capital and 
+3 
+depreciation. I am a Certified Depreciation Professional with 
+4 
+the Society of Depreciation Professionals.  I am also a 
+5 
+Certified Rate of Return Analyst with the Society of Utility 
+6 
+and 
+Regulatory 
+Financial 
+Analysts. 
+A 
+more 
+complete 
+7 
+description of my qualifications and regulatory experience is 
+8 
+included in my curriculum vitae, which is set forth in Exhibit 
+9 
+__(DJG-1).  
+10 
+ 
+11 
+Q. 
+On whose behalf are you testifying in this proceeding? 
+12 
+A. 
+I am testifying on behalf of the Utility Intervention Unit 
+13 
+(UIU) of the New York State Department of State’s Division of 
+14 
+Consumer Protection.  
+15 
+Q. 
+Please describe the purpose of your testimony. 
+16 
+A. 
+In my testimony, I present my analysis of the depreciation 
+17 
+study performed by Gannett Fleming for Consolidated Edison 
+18 
+Company of New York, Inc. (Con Edison or the Company), and I 
+19 
+present my recommended adjustments to the Company’s proposed 
+20 
+depreciation rates. I also address issues raised in the direct 
+21 
+
+
+--- Page 5 ---
+Cases 25-E-0072 and 25-G-0073 
+Direct Testimony of David Garrett 
+ 
+3 
+ 
+testimony of the Company’s depreciation panel.  
+1 
+ 
+2 
+Q. 
+Have you prepared any exhibits to be filed with your 
+3 
+testimony?  
+4 
+A. 
+Yes. The following is a list of the exhibits I have relied 
+5 
+upon in preparing my testimony: 
+6 
+• Exhibit__(DJG-1), 
+which 
+is 
+my 
+Curriculum 
+Vitae, 
+7 
+including a list of regulatory proceedings in which I 
+8 
+have participated. 
+9 
+• Exhibit__(DJG-2), which is a summary of my proposed 
+10 
+depreciation rate, accrual, and reserve adjustments 
+11 
+• Exhibit__(DJG-3), which shows a comparison between the 
+12 
+proposed depreciation parameters for the service life 
+13 
+accounts in dispute. 
+14 
+• Exhibit__(DJG-4), which shows a detailed comparison of 
+15 
+the proposed depreciation rates and accruals for each 
+16 
+account. 
+17 
+• Exhibit__(DJG-5), which shows detailed depreciation rate 
+18 
+calculations for each account. 
+19 
+• Exhibit__(DJG-6), which shows the theoretical reserve 
+20 
+and reserve variation calculations for each account. 
+21 
+
+
+--- Page 6 ---
+Cases 25-E-0072 and 25-G-0073 
+Direct Testimony of David Garrett 
+ 
+4 
+ 
+• Exhibit__(DJG-7), which shows the observed life table 
+1 
+and Iowa curve graph for Account 353 – Transmission 
+2 
+Station Equipment.   
+3 
+• Exhibit__(DJG-8), which shows the observed life table 
+4 
+and Iowa curve graph for Account 362 – Distribution 
+5 
+Station Equipment.   
+6 
+• Exhibit__(DJG-9), which shows the observed life table 
+7 
+and Iowa curve graph for Account 367 – Underground 
+8 
+Conductors and Devices.   
+9 
+• Exhibit__(DJG-10), which shows the observed life table 
+10 
+and Iowa curve graph for Accounts 367.10 and 376.12 – 
+11 
+Mains (All Other).   
+12 
+• Exhibit__(DJG-11), which shows the observed life table 
+13 
+and Iowa curve graph for Account 369 – Measuring and 
+14 
+Regulating Equipment.   
+15 
+• Exhibit__(DJG-12), which shows the observed life table 
+16 
+and Iowa curve graph for Account 380.10 – Services (All 
+17 
+Other).   
+18 
+• Exhibit__(DJG-13), which shows the computed reserve 
+19 
+calculations for each account in dispute.   
+20 
+• Exhibit__(DJG-14), which is also called Appendix A, and 
+21 
+
+
+--- Page 7 ---
+Cases 25-E-0072 and 25-G-0073 
+Direct Testimony of David Garrett 
+ 
+5 
+ 
+includes a discussion of depreciation systems.   
+1 
+• Exhibit__(DJG-15), which is also called Appendix B, and 
+2 
+includes a discussion of Iowa Curves.   
+3 
+• Exhibit__(DJG-16), which is also called Appendix C, and 
+4 
+includes a discussion of actuarial analysis.   
+5 
+II.   EXECUTIVE SUMMARY 
+Q. 
+Summarize the key points of your testimony.   
+6 
+A. 
+In this case, Con Edison is proposing an increase in 
+7 
+depreciation expense in electric plant and gas plant in the 
+8 
+amounts of $16.4 million and $27.1 million, respectively.  As 
+9 
+demonstrated by the evidence presented in this testimony, the 
+10 
+Company’s proposed service lives for several accounts are 
+11 
+notably shorter than the service lives otherwise indicated by 
+12 
+the Company’s historical retirement data. The Company’s 
+13 
+proposed service lives also impact its proposed reserve 
+14 
+deficiency. As a result, the Company’s proposed depreciation 
+15 
+rates and reserve deficiency are both overestimated. My 
+16 
+proposed depreciation rate adjustments would reduce the 
+17 
+Company’s proposed annual accrual by $46.7 million for 
+18 
+electric plant and $27.1 million for gas plant, based on plant 
+19 
+
+
+--- Page 8 ---
+Cases 25-E-0072 and 25-G-0073 
+Direct Testimony of David Garrett 
+ 
+6 
+ 
+as of December 31, 2023. (See Exhibit__(DJG-2)). In addition, 
+1 
+I propose adjustments to the Company’s computed reserves and 
+2 
+proposed amortization of the reserve deficiency.  The 
+3 
+Company’s depreciation study presents a total reserve 
+4 
+deficiency of $3.6 billion for electric and gas plant based 
+5 
+on the Company’s proposed service lives and net salvage rates. 
+6 
+Because I am proposing longer service lives for several 
+7 
+accounts, I calculate a smaller total reserve deficiency in 
+8 
+the amount of $2.3 billion for electric and gas plant.  (See 
+9 
+Exhibit__(DJG-2)). The details of these calculations and 
+10 
+adjustments are discussed in my testimony. 
+11 
+III.   DEPRECIATION STANDARDS AND SYSTEMS 
+Q. 
+Discuss the standard by which regulated utilities are allowed 
+12 
+to recover depreciation expense. 
+13 
+A. 
+In Lindheimer v. Illinois Bell Telephone Co., the U.S. Supreme 
+14 
+Court stated that “depreciation is the loss, not restored by 
+15 
+current maintenance, which is due to all the factors causing 
+16 
+the ultimate retirement of the property. These factors 
+17 
+embrace wear and tear, decay, inadequacy, and obsolescence.”  
+18 
+Lindheimer v. Illinois Bell Tel. Co., 292 U.S. 151, 167 
+19 
+
+
+--- Page 9 ---
+Cases 25-E-0072 and 25-G-0073 
+Direct Testimony of David Garrett 
+ 
+7 
+ 
+(1934).  The Lindheimer Court also recognized that the 
+1 
+original cost of plant assets, rather than present value or 
+2 
+some other measure, is the proper basis for calculating 
+3 
+depreciation expense.  Referring to the straight-line method, 
+4 
+the Lindheimer Court stated that “[a]ccording to the 
+5 
+principle of this accounting practice, the loss is computed 
+6 
+upon the actual cost of the property as entered upon the 
+7 
+books, less the expected salvage, and the amount charged each 
+8 
+year is one year's pro rata share of the total amount.”  Id. 
+9 
+at 168. 
+10 
+The Lindheimer Court also held: 
+11 
+[T]he company has the burden of making a convincing 
+12 
+showing that the amounts it has charged to 
+13 
+operating expenses for depreciation have not been 
+14 
+excessive. That burden is not sustained by proof 
+15 
+that its general accounting system has been 
+16 
+correct. The calculations are mathematical, but the 
+17 
+predictions underlying them are essentially matters 
+18 
+of opinion.    
+19 
+Lindheimer, supra, at 169 (emphasis added).  Thus, the 
+20 
+Commission must ultimately determine if the Company has met 
+21 
+its burden of proof by making a convincing showing that its 
+22 
+proposed depreciation rates are not excessive.  
+23 
+
+
+--- Page 10 ---
+Cases 25-E-0072 and 25-G-0073 
+Direct Testimony of David Garrett 
+ 
+8 
+ 
+Q. 
+Discuss the definition and purpose of a depreciation system, 
+1 
+as well as the depreciation system you employed for this 
+2 
+project.  
+3 
+A. 
+The legal standards set forth above do not mandate a specific 
+4 
+procedure 
+for 
+conducting 
+depreciation 
+analysis. 
+These 
+5 
+standards, however, direct that analysts use a system for 
+6 
+estimating depreciation rates that will result in the 
+7 
+systematic and rational allocation of capital recovery for 
+8 
+the utility. Over the years, analysts have developed 
+9 
+depreciation systems designed to analyze grouped property in 
+10 
+accordance with this standard.  A depreciation system may be 
+11 
+defined by several primary parameters: 1) a method of 
+12 
+allocation; 2) a procedure for applying the method of 
+13 
+allocation; 3) a technique of applying the depreciation rate; 
+14 
+and 4) a model for analyzing the characteristics of vintage 
+15 
+property groups. In this case, I used the straight-line 
+16 
+method, the average life procedure, the whole life technique, 
+17 
+and the broad group model; this system would be denoted as an 
+18 
+“SL-AL-WL-BG” system. This depreciation system conforms to 
+19 
+the legal standards set forth above. I provide a more detailed 
+20 
+discussion of depreciation system parameters, theories, and 
+21 
+
+
+--- Page 11 ---
+Cases 25-E-0072 and 25-G-0073 
+Direct Testimony of David Garrett 
+ 
+9 
+ 
+equations in Exhibit__(DJG-14).     
+1 
+ 
+2 
+Q. 
+Are you using the same depreciation system that was used in 
+3 
+the depreciation study?   
+4 
+A. 
+Yes, I am effectively using the same depreciation system that 
+5 
+was used in performing the depreciation study. Thus, the 
+6 
+difference between my proposed depreciation rates and the 
+7 
+Company’s proposed rates is due primarily to different 
+8 
+opinions regarding service lives and reserve allocations, 
+9 
+rather than a difference in depreciation systems. 
+10 
+IV. FAIRNESS TO CUSTOMERS AND THE CLCPA    
+Q. 
+Please summarize the Company’s position regarding the Climate 
+11 
+Leadership and Community Protection Act as it relates to its 
+12 
+proposed depreciation rates. 
+13 
+A. 
+According to the Company’s Deprecation Panel, the Company 
+14 
+considered the potential impacts of the Climate Leadership 
+15 
+and Community Protection Act (CLCPA) in its proposed 
+16 
+depreciation rates and, in response to the CLCPA, is 
+17 
+recommending a decrease in the service lives of several 
+18 
+accounts. The Company prepared different service life 
+19 
+
+
+--- Page 12 ---
+Cases 25-E-0072 and 25-G-0073 
+Direct Testimony of David Garrett 
+ 
+10 
+ 
+assumptions under multiple scenarios, including “shorter 
+1 
+service lives” scenarios of three, five, and ten years. The 
+2 
+Company is proposing the adoption of the “5-Year Shorter 
+3 
+Service Lives” scenario in this case. 
+4 
+ 
+5 
+Q. 
+Did the Company provide convincing empirical support for its 
+6 
+“shorter service lives” proposals? 
+7 
+A. 
+No. The Company makes various conclusory assumptions about 
+8 
+the potential effects of the CLCPA as it relates to service 
+9 
+lives but does not provide direct empirical support regarding 
+10 
+how the CLCPA will specifically reduce service lives. The 
+11 
+pathway to achieve the necessary carbon emissions pursuant to 
+12 
+the State’s goals is uncertain. However, what is not uncertain 
+13 
+is that the Company’s proposal will increase costs for current 
+14 
+customers and increase the Company’s cash flow, all else held 
+15 
+constant. 
+16 
+ 
+17 
+Q. 
+Do you believe the Company’s proposal is fair to current 
+18 
+customers? 
+19 
+A. 
+No.  The Company has not made a convincing showing regarding 
+20 
+the CLCPA’s specific impacts to service lives.  The Company 
+21 
+
+
+--- Page 13 ---
+Cases 25-E-0072 and 25-G-0073 
+Direct Testimony of David Garrett 
+ 
+11 
+ 
+makes several references to “intergenerational inequity” in 
+1 
+support of its shorter service lives proposals. However, to 
+2 
+the extent the Company’s proposed service lives are shorter 
+3 
+than what is otherwise supported by the objective evidence 
+4 
+presented in this case, it would be more accurate to describe 
+5 
+the Company’s proposal as inequitable to current customers, 
+6 
+as demonstrated in more detail later in my testimony.   
+7 
+  
+8 
+Q. 
+Please describe your approach to estimating service life in 
+9 
+this case in light of the Company’s testimony regarding the 
+10 
+CLCPA.   
+11 
+A. 
+Notwithstanding the fact that the Company did not present 
+12 
+empirical evidence directly connecting the CLCPA impacts to 
+13 
+its service life recommendations, I did consider the 
+14 
+Company’s testimony regarding this issue when formulating my 
+15 
+service life recommendations. Regarding the service life 
+16 
+adjustments presented in my testimony, I primarily rely on an 
+17 
+objective analysis of the historical data when determining 
+18 
+the most reasonable Iowa curve for the account.  In fact, the 
+19 
+Iowa curves I select for each of the adjusted accounts below 
+20 
+results in a better mathematical fit to the Company’s observed 
+21 
+
+
+--- Page 14 ---
+Cases 25-E-0072 and 25-G-0073 
+Direct Testimony of David Garrett 
+ 
+12 
+ 
+data (the OLT curve). However, none of my selected Iowa curves 
+1 
+are the closest mathematically fitting curve.  Each Iowa curve 
+2 
+I propose for the adjusted accounts is shorter than the Iowa 
+3 
+curve that would otherwise result in the closest mathematical 
+4 
+fit. In that regard, I am giving some consideration to the 
+5 
+depreciation panel’s opinion that service lives should be 
+6 
+shorter than what is otherwise indicated by a strict 
+7 
+historical analysis.  However, I do not believe the Company 
+8 
+has made a convincing showing that the CLCPA warrants an 
+9 
+arbitrary reduction of five or ten years to the service lives 
+10 
+of the gas accounts at issue. Based on my analysis the 
+11 
+Company’s proposed service lives for the accounts discussed 
+12 
+below are too short given the observed data.   
+13 
+V. SERVICE LIFE ANALYSIS    
+Q. 
+Please describe the process you used to estimate the service 
+14 
+lives of the Company’s depreciable assets. 
+15 
+A. 
+To develop depreciation rates for the Company’s mass property 
+16 
+accounts, I obtained the Company’s historical plant data to 
+17 
+analyze the historical retirement patterns derived from the 
+18 
+data. This is the same historical data used in the 
+19 
+
+
+--- Page 15 ---
+Cases 25-E-0072 and 25-G-0073 
+Direct Testimony of David Garrett 
+ 
+13 
+ 
+depreciation 
+study. 
+(See 
+Exhibit__(DJG-7) 
+through 
+1 
+Exhibit__(DJG-12) for observed life tables derived from this 
+2 
+historical data). I used a set of empirically-based, standard 
+3 
+survivor curves called “Iowa curves” to smooth and complete 
+4 
+the observed data in order to assess the average life of each 
+5 
+account. The depreciation study also relied upon Iowa curves 
+6 
+in developing proposed service lives.  More details about the 
+7 
+Iowa curves are included in Exhibit__(DJG-15). 
+8 
+ 
+9 
+Q. 
+Please describe your approach in using Iowa curves to estimate 
+10 
+service life. 
+11 
+A. 
+The historical retirement data are used to develop an observed 
+12 
+life table (OLT) for each account. The data points on the OLT 
+13 
+can be plotted to form a curve (the “OLT curve”). The OLT 
+14 
+curve is not a theoretical survivor curve, rather, it is a 
+15 
+curve derived from the Company’s actual historical data. An 
+16 
+OLT curve by itself, however, is rarely a smooth curve, and 
+17 
+it is often not a complete curve. That is, it does not end at 
+18 
+zero percent surviving. In order to calculate average life, 
+19 
+a complete survivor curve is needed.  The Iowa curve-fitting 
+20 
+process involves selecting the best Iowa curve to fit the OLT 
+21 
+
+
+--- Page 16 ---
+Cases 25-E-0072 and 25-G-0073 
+Direct Testimony of David Garrett 
+ 
+14 
+ 
+curve. This can be accomplished through a combination of 
+1 
+visual and mathematical curve-fitting techniques, as well as 
+2 
+professional judgment. The first step of my approach to curve-
+3 
+fitting involves visually inspecting the OLT curve for any 
+4 
+irregularities. For example, if the tail end of the curve is 
+5 
+erratic and shows a sharp decline over a short period of time, 
+6 
+it may indicate that this portion of the data is less 
+7 
+reliable, as further discussed below. After inspecting the 
+8 
+OLT curve, I use a mathematical curve-fitting technique which 
+9 
+essentially involves measuring the distance between the OLT 
+10 
+curve and the selected Iowa curve in order to get an 
+11 
+objective, mathematical assessment of how well the curve 
+12 
+fits. After selecting an Iowa curve, I observe the OLT curve 
+13 
+along with the Iowa curve on the same graph to determine how 
+14 
+well the curve fits. I may repeat this process several times 
+15 
+for any given account to ensure that the most reasonable Iowa 
+16 
+curve is selected. More details about the process of actuarial 
+17 
+analysis are included in Exhibit__(DJG-16).   
+18 
+        
+19 
+Q. 
+Do you always select the mathematically best-fitting curve? 
+20 
+A. 
+Not necessarily. Mathematical fitting is an important part of 
+21 
+
+
+--- Page 17 ---
+Cases 25-E-0072 and 25-G-0073 
+Direct Testimony of David Garrett 
+ 
+15 
+ 
+the curve-fitting process because it promotes objective, 
+1 
+unbiased results. While mathematical curve fitting is 
+2 
+important, however, it may not always yield the optimum 
+3 
+result; therefore, it should not necessarily be adopted 
+4 
+without further analysis. In each of the adjusted accounts 
+5 
+discussed below, the Iowa curve I selected would result in a 
+6 
+closer mathematical fit to the observed data. However, for 
+7 
+most of the accounts at issue, I did not select the closest-
+8 
+fitting Iowa curve from a mathematical standpoint. In each 
+9 
+case in which I selected an Iowa curve that was not the 
+10 
+closest fitting curve, I selected an Iowa curve that was 
+11 
+shorter, rather than longer, than what would otherwise be 
+12 
+dictated by strict mathematical curve fitting. This approach 
+13 
+highlights the balance between mathematical curve fitting and 
+14 
+professional judgment.   
+15 
+ 
+16 
+Q. 
+Please describe the additional analysis you performed for 
+17 
+this matter. 
+18 
+A. 
+After selecting an Iowa curve based on a combination of 
+19 
+mathematical 
+and 
+visual 
+curve 
+fitting, 
+as 
+well 
+as 
+20 
+professional judgment, I applied that curve for the average 
+21 
+
+
+--- Page 18 ---
+Cases 25-E-0072 and 25-G-0073 
+Direct Testimony of David Garrett 
+ 
+16 
+ 
+life of the accounts at issue. I also considered the net 
+1 
+salvage rate of each account in calculating my proposed 
+2 
+depreciation rates under the whole life method.  Selecting 
+3 
+different service lives for the accounts at issue resulted in 
+4 
+different 
+theoretical 
+reserve 
+calculations 
+for 
+these 
+5 
+accounts. The calculated reserve and amortization are 
+6 
+discussed later in the testimony. 
+7 
+ 
+8 
+Q. 
+Should every portion of the OLT curve be given equal weight?   
+9 
+A. 
+Not necessarily. Many analysts have observed that the points 
+10 
+comprising the tail end of the OLT curve may often have less 
+11 
+analytical value than other portions of the curve. Data points 
+12 
+towards the end of the OLT curve are often based on fewer 
+13 
+dollars exposure to retirement and should thus be given less 
+14 
+weight than data points in the beginning and middle portions 
+15 
+of the OLT curve. The weight placed on those points will 
+16 
+depend on the size of the exposures. According to this 
+17 
+standard, an analyst may decide to truncate the tail end of 
+18 
+the OLT curve at a certain percent of initial exposures, such 
+19 
+as one percent. Using this approach puts a greater emphasis 
+20 
+on the most valuable portions of the curve. For my analysis 
+21 
+
+
+--- Page 19 ---
+Cases 25-E-0072 and 25-G-0073 
+Direct Testimony of David Garrett 
+ 
+17 
+ 
+in this case, I not only considered the entirety of the OLT 
+1 
+curve, but also conducted further analyses that involved 
+2 
+fitting Iowa curves to the most significant part of the OLT 
+3 
+curve for certain accounts. To verify the accuracy of my curve 
+4 
+selection, I also considered additional calculations and 
+5 
+visual inspections to include truncated OLT curves based on 
+6 
+the top 99% of the relevant data and excluding the less 
+7 
+relevant tail-end of the OLT curve.    
+8 
+ 
+9 
+Q. 
+Discuss the general differences between your service life 
+10 
+estimates and the Company’s service life estimates for the 
+11 
+accounts to which you propose adjustments. 
+12 
+A. 
+While the Company and I used similar curve-fitting approaches 
+13 
+in this case, the curves I selected for these accounts provide 
+14 
+a better mathematical fit to the observed data and provide a 
+15 
+more reasonable and accurate representation of the mortality 
+16 
+characteristics for each account in my opinion. In each of 
+17 
+the following accounts, the Company has selected a curve that 
+18 
+underestimates the average remaining life of the assets in 
+19 
+the account, which results in unreasonably high depreciation 
+20 
+rates. The analysis of each selected account is presented 
+21 
+
+
+--- Page 20 ---
+Cases 25-E-0072 and 25-G-0073 
+Direct Testimony of David Garrett 
+ 
+18 
+ 
+below.   
+1 
+Q. 
+Please summarize the differences between the proposed service 
+2 
+lives and annual accruals for the accounts at issue. 
+3 
+A. 
+I propose service life adjustments to seven of the Company’s 
+4 
+accounts, as set forth in Exhibit__(DJG-3). Each of the 
+5 
+service lives I propose for these accounts is longer than 
+6 
+those proposed by the Company. These accounts are further 
+7 
+discussed below. 
+8 
+A. Account 353 – Transmission Station Equipment 
+Q. 
+Describe your service life estimate for this account and 
+9 
+compare it with the Company’s proposal.  
+10 
+A. 
+The OLT curve for this account and other accounts discussed 
+11 
+in this section is constructed using the Company’s historical 
+12 
+property data. The graph shown in Exhibit__(DJG-7) for this 
+13 
+account shows the two different Iowa curves selected by the 
+14 
+Company and me to best represent the average remaining life 
+15 
+for the assets in this account. The OLT curve for this account 
+16 
+is particularly well suited for conventional Iowa curve-
+17 
+fitting techniques because it is relatively smooth, it forms 
+18 
+the pattern of a typical survivor curve for utility property, 
+19 
+and it has a sufficient amount of retirement history; that 
+20 
+
+
+--- Page 21 ---
+Cases 25-E-0072 and 25-G-0073 
+Direct Testimony of David Garrett 
+ 
+19 
+ 
+is, it is long enough. For this account, the Company selected 
+1 
+the S0-50 Iowa curve, and I selected the L0.5-59 Iowa curve.  
+2 
+Both Iowa curves are displayed along with the OLT curve for 
+3 
+this account in a graph included in Exhibit__(DJG-7). The 
+4 
+vertical dotted line in this graph represents the truncation 
+5 
+point based on the 1% truncation benchmark discussed above.  
+6 
+The data points on the OLT curve occurring to the right of 
+7 
+this line are statistically less relevant than the other data 
+8 
+points on the OLT curve due to the relatively low amount of 
+9 
+dollars exposed to retirement associated with data points at 
+10 
+the tail-end of the OLT curve. As shown in the graph, both 
+11 
+selected Iowa curves have relatively similar shapes, and from 
+12 
+a visual perspective, provide relatively close fits to the 
+13 
+OLT curve.  We can use mathematical curve fitting techniques 
+14 
+to determine which of the two selected Iowa curves provides 
+15 
+the closer fit to Con Edison’s observed historical data in 
+16 
+this account.    
+17 
+ 
+18 
+Q. 
+Does your selected curve provide a better mathematical fit to 
+19 
+the truncated OLT curve than the Company’s selected Iowa 
+20 
+curve?  
+21 
+
+
+--- Page 22 ---
+Cases 25-E-0072 and 25-G-0073 
+Direct Testimony of David Garrett 
+ 
+20 
+ 
+A. 
+Yes. Selected Iowa curves based on visual curve fitting 
+1 
+techniques can be confirmed and bolstered by checking them 
+2 
+mathematically. The better mathematically-fitted curve is the 
+3 
+one that minimizes the distance between the OLT curve and the 
+4 
+Iowa curve, thus providing the closest fit. The “distance” 
+5 
+between the curves is calculated using the “sum-of-squared 
+6 
+differences” (SSD) technique.  The curve with the lower SSD 
+7 
+represents the better mathematical fit. For this account, the 
+8 
+SSD between the Company’s Iowa curve and the truncated OLT 
+9 
+curve is 0.2499, and the SSD between the L0.5-59 curve I 
+10 
+selected and the truncated OLT curve is 0.0752, making it the 
+11 
+closer fit to the OLT curve. This is shown in Exhibit__(DJG-
+12 
+7).  
+13 
+ 
+14 
+Q. 
+Describe the impact to Con Edison’s proposed depreciation 
+15 
+accrual for this account if your recommended service life is 
+16 
+adopted.  
+17 
+A. 
+Adopting my proposed service life for this account would 
+18 
+result in an adjustment reducing Con Edison’s proposed 
+19 
+depreciation 
+accrual 
+by 
+$13.1 
+million, 
+as 
+shown 
+in 
+20 
+Exhibit__(DJG-4). 
+21 
+
+
+--- Page 23 ---
+Cases 25-E-0072 and 25-G-0073 
+Direct Testimony of David Garrett 
+ 
+21 
+ 
+B. Account 362 – Distribution Station Equipment 
+Q. 
+Describe your service life estimate for this account and 
+1 
+compare it with the Company’s estimate.  
+2 
+A. 
+For this account, I selected the R1.5-58 curve, and the 
+3 
+Company selected the R1.5-53 curve. A graph included in 
+4 
+Exhibit__(DJG-8) shows these two curves with the OLT curve.  
+5 
+Because both of the selected Iowa curves are from the same 
+6 
+family (R1.5) and only a five-year difference in average life, 
+7 
+they both result in relatively close fits to the OLT curve.  
+8 
+The OLT curve for this account is particularly well-suited 
+9 
+for conventional Iowa curve fitting techniques because it is 
+10 
+relatively smooth, has adequate retirement history, and 
+11 
+displays a typical retirement pattern for utility property 
+12 
+(the R1.5 curve in this case). However, the R1.5-58 curve I 
+13 
+selected simply results in a better fit, which can be 
+14 
+confirmed mathematically.     
+15 
+ 
+16 
+Q. 
+Does your selected Iowa curve provide a better mathematical 
+17 
+fit to the truncated OLT curve?  
+18 
+A. 
+Yes.  Regardless of whether the entire OLT curve or truncated 
+19 
+OLT curve is measured, the Iowa curve I selected results in 
+20 
+
+
+--- Page 24 ---
+Cases 25-E-0072 and 25-G-0073 
+Direct Testimony of David Garrett 
+ 
+22 
+ 
+a closer fit. Specifically, the SSD between the Company’s 
+1 
+Iowa curve and the truncated OLT curve is 0.0899, and the SSD 
+2 
+between the R1.5-58 curve I selected, and the truncated OLT 
+3 
+curve is 0.0316, which means it results in the closer fit.  
+4 
+This is shown in Exhibit__(DJG-8). 
+5 
+  
+6 
+Q. 
+Describe the impact to Con Edison’s proposed depreciation 
+7 
+accrual for this account if your recommended service life is 
+8 
+adopted.  
+9 
+A. 
+Adopting my proposed service life for this account would 
+10 
+result in an adjustment reducing Con Edison’s proposed 
+11 
+depreciation 
+accrual 
+by 
+$8.6 
+million, 
+as 
+shown 
+in 
+12 
+Exhibit__(DJG-4). 
+13 
+C. Account 367 – Underground Conductors and Devices 
+Q. 
+Describe your service life estimate for this account and 
+14 
+compare it with the Company’s estimate.  
+15 
+The Company selected the R0.5-55 curve for this account, and 
+16 
+I selected the R0.5-60 curve. As shown in the graph for this 
+17 
+account, both Iowa curves effectively disregard the less 
+18 
+relevant data towards the end of the OLT. Attempting to give 
+19 
+the same statistical weight to the data points toward the end 
+20 
+
+
+--- Page 25 ---
+Cases 25-E-0072 and 25-G-0073 
+Direct Testimony of David Garrett 
+ 
+23 
+ 
+of the OLT curve for this account could run the risk of 
+1 
+estimating an unreasonably long service life. Nonetheless, 
+2 
+the data provided by the Company in support of its service 
+3 
+life proposal for this account is more supportive of a 60-
+4 
+year service life rather than the 55-year service life 
+5 
+proposed by the Company.     
+6 
+ 
+7 
+Q. 
+Does your selected curve provide a better mathematical fit to 
+8 
+the truncated OLT curve for this account?  
+9 
+A. 
+Yes. Regardless of whether the entire or truncated OLT curve 
+10 
+is measured, the Iowa curve I selected results in the closer 
+11 
+fit. The SSD between the Company’s Iowa curve and the 
+12 
+truncated OLT curve is 0.0876, and the SSD between the R0.5-
+13 
+60 curve I selected, and the truncated OLT curve is 0.0071, 
+14 
+which means it results in the closer fit. This is shown in 
+15 
+Exhibit__(DJG-9). 
+16 
+  
+17 
+Q. 
+Describe the impact to Con Edison’s proposed depreciation 
+18 
+accrual for this account if your recommended service life is 
+19 
+adopted.  
+20 
+A. 
+Adopting my proposed service life for this account would 
+21 
+
+
+--- Page 26 ---
+Cases 25-E-0072 and 25-G-0073 
+Direct Testimony of David Garrett 
+ 
+24 
+ 
+result in an adjustment reducing Con Edison’s proposed 
+1 
+depreciation 
+accrual 
+by 
+$24.9 
+million, 
+as 
+shown 
+in 
+2 
+Exhibit__(DJG-4). 
+3 
+D. Accounts 367.10 and 376.12 – Mains – All Other  
+Q. 
+Describe your service life estimate for these accounts and 
+4 
+compare it with the Company’s estimate.  
+5 
+A. 
+The depreciation study and historical data consolidates these 
+6 
+accounts for the purpose of life analysis. The Company 
+7 
+selected R2.5-75 curve for this account, and I selected the 
+8 
+R2-81 curve. A graph included in Exhibit__(DJG-10) shows 
+9 
+these two Iowa curves along with the OLT curve.  Both of the 
+10 
+selected Iowa curves provide fairly close fits to the 
+11 
+observed data up to the truncation point. Although the data 
+12 
+occurring after the vertical truncation line is statistically 
+13 
+less relevant (and which I exclude in the mathematical 
+14 
+analysis), there is nonetheless a significant amount of data 
+15 
+points which indicate a longer service life than what is 
+16 
+estimated in the Company’s R2.5-75 curve.     
+17 
+ 
+18 
+Q. 
+Does your selected curve provide a better mathematical fit to 
+19 
+the observed data than the Company’s curve?  
+20 
+
+
+--- Page 27 ---
+Cases 25-E-0072 and 25-G-0073 
+Direct Testimony of David Garrett 
+ 
+25 
+ 
+A. 
+Yes. Regardless of whether the entire or truncated OLT curve 
+1 
+is measured, the Iowa curve I selected results in the closer 
+2 
+fit. The SSD between the Company’s Iowa curve and the 
+3 
+truncated OLT curve is 0.0178, and the SSD between the R2-81 
+4 
+curve I selected and the truncated OLT curve is 0.0054, which 
+5 
+means it results in the closer fit. This is shown in 
+6 
+Exhibit__(DJG-10). 
+7 
+  
+8 
+Q. 
+Describe the impact to Con Edison’s proposed depreciation 
+9 
+accrual for these accounts if your recommended service life 
+10 
+is adopted.  
+11 
+A. 
+Adopting my proposed service life for these accounts would 
+12 
+result in an adjustment reducing Con Edison’s proposed 
+13 
+depreciation accrual by $1.5 million for Account 367.10 and 
+14 
+by $13 million for Account 376.12. This is shown in 
+15 
+Exhibit__(DJG-4).    
+16 
+E. Account 369 – Measuring and Regulating Equipment 
+Q. 
+Describe your service life estimate for this account and 
+17 
+compare it with the Company’s estimate.  
+18 
+A. 
+The Company selected the S0-45 curve for this account, and I 
+19 
+selected 
+the 
+R0.5-53 
+curve. 
+A 
+graph 
+included 
+in 
+20 
+
+
+--- Page 28 ---
+Cases 25-E-0072 and 25-G-0073 
+Direct Testimony of David Garrett 
+ 
+26 
+ 
+Exhibit__(DJG-11) shows these two curves along with the OLT 
+1 
+curve. For this account, the Company’s selected curve does 
+2 
+not provide an adequately accurate description of the 
+3 
+historical retirement rate to provide a reasonable projection 
+4 
+of remaining life. The Company is essentially ignoring many 
+5 
+relevant data points occurring between the 40 and 60-year age 
+6 
+intervals. The flatter, longer trajectory of the R0.5-53 
+7 
+curve results in a better fit to the OLT curve, and ultimately 
+8 
+a more reasonable depreciation rate for this account.  
+9 
+  
+10 
+Q. 
+Does your selected curve provide a better mathematical fit to 
+11 
+the observed data than the Company’s curve?  
+12 
+Yes. Regardless of whether the entire or truncated OLT curve 
+13 
+is measured, the Iowa curve I selected results in the closer 
+14 
+fit. The SSD between the Company’s Iowa curve and the 
+15 
+truncated OLT curve is 1.9146, and the SSD between the R0.5-
+16 
+53 curve I selected, and the truncated OLT curve is 0.5327, 
+17 
+which means it results in the closer fit. This is shown in 
+18 
+Exhibit__(DJG-11).  
+19 
+ 
+20 
+Q. 
+Describe the impact to Con Edison’s proposed depreciation 
+21 
+
+
+--- Page 29 ---
+Cases 25-E-0072 and 25-G-0073 
+Direct Testimony of David Garrett 
+ 
+27 
+ 
+accrual for this account if your recommended service life is 
+1 
+adopted.  
+2 
+A. 
+Adopting my proposed service life for this account would 
+3 
+result in an adjustment reducing Con Edison’s proposed 
+4 
+depreciation accrual by $1.2 million. This is shown in 
+5 
+Exhibit__(DJG-4). 
+6 
+F. Account 380.10 – Services – All Other  
+Q. 
+Describe your service life estimate for this account and 
+7 
+compare it with the Company’s estimate.  
+8 
+A. 
+The Company selected the R1-55 curve for this account, and I 
+9 
+selected the R1-62 curve. A graph included in Exhibit__(DJG-
+10 
+12) shows these two curves with the OLT curve. For this 
+11 
+account, the Company’s selected curve does not provide an 
+12 
+adequately accurate description of the historical retirement 
+13 
+rate to provide a reasonable projection of remaining life.  
+14 
+The Company is essentially ignoring many relevant data points 
+15 
+occurring between the 40 and 50-year age intervals. The longer 
+16 
+average life of the R1-62 Iowa curve is more supported by the 
+17 
+empirical data and evidence provided by the Company for this 
+18 
+account, and it results in a more reasonable and accurate 
+19 
+depreciation rate. 
+20 
+
+
+--- Page 30 ---
+Cases 25-E-0072 and 25-G-0073 
+Direct Testimony of David Garrett 
+ 
+28 
+ 
+ 
+1 
+Q. 
+Does your selected curve provide a better mathematical fit to 
+2 
+the observed data than the Company’s curve?  
+3 
+A. 
+Yes.  Regardless of whether the entire or truncated OLT curve 
+4 
+is measured, the Iowa curve I selected results in the closer 
+5 
+fit. The SSD between the Company’s Iowa curve and the 
+6 
+truncated OLT curve is 0.0689, and the SSD between the R1-62 
+7 
+curve I selected, and the truncated OLT curve is 0.0171, which 
+8 
+means it results in the closer fit. This is shown in 
+9 
+Exhibit__(DJG-12).  
+10 
+ 
+11 
+Q. 
+Describe the impact to Con Edison’s proposed depreciation 
+12 
+accrual for this account if your recommended service life is 
+13 
+adopted.  
+14 
+A. 
+Adopting my proposed service life for this account would 
+15 
+result in an adjustment reducing Con Edison’s proposed 
+16 
+depreciation accrual by $11.3 million. This is shown in 
+17 
+Exhibit__(DJG-4). 
+18 
+VI. RESERVE VARIATION AND AMORTIZATION 
+Q. 
+Please describe the issue concerning the reserve variation. 
+19 
+
+
+--- Page 31 ---
+Cases 25-E-0072 and 25-G-0073 
+Direct Testimony of David Garrett 
+ 
+29 
+ 
+A. 
+At any given point in time, there will likely be a discrepancy 
+1 
+between the recorded book reserve and the theoretical 
+2 
+reserve. The theoretical reserve is a balance that would 
+3 
+theoretically be in the accumulated depreciation account 
+4 
+using the current proposed depreciation parameters (service 
+5 
+life and salvage). When depreciation rates are calculated 
+6 
+under the remaining life technique, any imbalance or 
+7 
+variation between the book reserve and theoretical reserve is 
+8 
+essentially allocated automatically over the remaining life 
+9 
+of plant. In this case, since proposed depreciation rates are 
+10 
+developed under the whole life technique, it is necessary to 
+11 
+address the reserve variation as a separate issue. 
+12 
+ 
+13 
+Q. 
+Please describe the Company’s calculated reserve variation. 
+14 
+A. 
+The Company’s proposed depreciation parameters in this case 
+15 
+result in a reserve discrepancy (where the theoretical 
+16 
+reserve exceeds the book reserve) of $2.7 billion for electric 
+17 
+plant and $840 million for gas plant. (See Exhibit__(DJG-6)).  
+18 
+For common plant, the Company is recommending no action be 
+19 
+taken related to the reserve variation. 
+20 
+ 
+21 
+
+
+--- Page 32 ---
+Cases 25-E-0072 and 25-G-0073 
+Direct Testimony of David Garrett 
+ 
+30 
+ 
+Q. 
+What is your position regarding the reserve variation for 
+1 
+common plant? 
+2 
+A. 
+I agree with the Company and do not recommend that any action 
+3 
+be taken. 
+4 
+ 
+5 
+Q. 
+Please summarize the Company’s proposal regarding recovery of 
+6 
+the reserve deficiency of electric and gas plant. 
+7 
+A. 
+For electric plant, the Company proposes that the reserve 
+8 
+deficiency that exceeds 10% of the theoretical reserve be 
+9 
+recovered over a 20-year period. The Company proposes the 
+10 
+same treatment for the gas plant reserve deficiency. 
+11 
+ 
+12 
+Q. 
+Do you agree with the Company’s proposed treatment of the 
+13 
+reserve deficiency? 
+14 
+A. 
+Yes. In this case, I believe it is reasonable to amortize the 
+15 
+portion of the reserve deficiency that exceeds 10% of the 
+16 
+theoretical reserve be recovered over a 20-year period. 
+17 
+ 
+18 
+Q. 
+Did you develop the same calculated reserve deficiency as the 
+19 
+Company? 
+20 
+A. 
+No. Because I am proposing different service lives than the 
+21 
+
+
+--- Page 33 ---
+Cases 25-E-0072 and 25-G-0073 
+Direct Testimony of David Garrett 
+ 
+31 
+ 
+Company for several key accounts, as discussed above, my 
+1 
+calculated reserve deficiency will necessarily be different 
+2 
+that the Company’s calculation. 
+3 
+ 
+4 
+Q. 
+Please describe your calculated reserve variation and 
+5 
+proposed amortization. 
+6 
+A. I calculate a reserve deficiency of $2.1 billion for electric 
+7 
+plant and $513 million for gas plant. This is shown in 
+8 
+Exhibit__(DJG-6). My calculated reserve deficiencies are less 
+9 
+than those calculated by the Company because I am proposing 
+10 
+longer service lives than the Company is proposing in this 
+11 
+case. Amortizing the amounts in excess of 10% of the 
+12 
+deficiency result in annual amortizations of $50.7 million 
+13 
+for electric plant and $10.8 million for gas plant. My 
+14 
+detailed calculations supporting these numbers are shown in 
+15 
+Exhibit__(DJG-6). 
+16 
+ 
+17 
+Q. 
+Please summarize the difference between the Company’s and 
+18 
+your 
+calculated 
+reserve 
+deficiencies 
+and 
+proposed 
+19 
+amortization amounts. 
+20 
+A. 
+Adopting my proposed service lives should result in an 
+21 
+
+
+--- Page 34 ---
+Cases 25-E-0072 and 25-G-0073 
+Direct Testimony of David Garrett 
+ 
+32 
+ 
+adjustment reducing the Company’s proposed annual reserve 
+1 
+amortization 
+by 
+$54.6 
+million. 
+This 
+is 
+shown 
+in 
+2 
+Exhibit__(DJG-2). 
+3 
+ 
+4 
+Q. 
+Does this conclude your testimony?   
+5 
+A. 
+Yes.   
+6 

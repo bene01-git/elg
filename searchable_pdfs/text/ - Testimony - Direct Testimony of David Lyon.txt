@@ -1,0 +1,1942 @@
+--- Page 1 ---
+STATE OF NEW YORK 
+PUBLIC SERVICE COMMISSION 
+ 
+ 
+ 
+Proceeding on Motion of the Commission   
+ 
+) 
+as to the Rates, Charges, Rules and Regulations of  
+) 
+ 
+Case 25-E-0072 
+Consolidated Edison Company of New York, Inc.  
+) 
+for Electric Service   
+ 
+ 
+ 
+ 
+) 
+ 
+Proceeding on Motion of the Commission   
+ 
+) 
+as to the Rates, Charges, Rules and Regulations of  
+) 
+ 
+Case 25-G-0073 
+Consolidated Edison Company of New York, Inc. 
+) 
+for Gas Service 
+ 
+ 
+ 
+ 
+ 
+) 
+ 
+ 
+ 
+ 
+  
+ 
+ 
+ 
+ 
+DIRECT TESTIMONY  
+OF  
+DAVID LYON 
+ON BEHALF OF 
+ENVIRONMENTAL DEFENSE FUND  
+ 
+ 
+Dated: May 30, 2025 
+ 
+ 
+ 
+ 
+ 
+ 
+ 
+ 
+ 
+ 
+ 
+Filed by: Erin Murphy, Environmental Defense Fund 
+555 12th Street NW Suite 400 
+Washington, DC 20004 
+emurphy@edf.org 
+
+
+--- Page 2 ---
+TABLE OF CONTENTS 
+ 
+I.   
+Introduction and Qualifications ...................................................................................... 3 
+II.   
+Purpose of Testimony and Recommendations ............................................................... 4 
+III.   
+Quantification of the GHG Emissions Associated with Con Edison’s Rate Filing is 
+Needed to Evaluate its Climate Impact ........................................................................... 6 
+IV.   
+GHG Data Provided in Con Edison’s Gas & Electric Rate Filings ........................... 13 
+V.   
+An Assessment of GHG Emissions Associated with Con Edison’s Gas & Electric 
+Rate Filings ...................................................................................................................... 19 
+A. 
+Gas System Emissions ....................................................................................................... 23 
+B. 
+Electric System Emissions................................................................................................. 27 
+C. 
+Claimed Emissions Reductions ......................................................................................... 29 
+VI.   
+Improved GHG Accounting in Rate Cases ................................................................... 31 
+ 
+ 
+ 
+ 
+
+
+--- Page 3 ---
+25-E-0072 
+Direct Testimony of David Lyon  
+25-G-0073 
+ 
+ 
+3 
+ 
+I.   
+Introduction and Qualifications 
+1 
+Q: 
+Please state your name, title, and business address. 
+2 
+A: 
+My name is David Lyon. My title is Senior Methane Scientist II at Environmental 
+3 
+Defense Fund. My business address is 2060 Broadway Street, Suite 300, Boulder, CO 
+4 
+80302. 
+5 
+Q: 
+On whose behalf are you submitting this testimony in this proceeding? 
+6 
+A: 
+I am submitting this testimony on behalf of Environmental Defense Fund (“EDF”). 
+7 
+Q: 
+Please provide a summary of your education and experience. 
+8 
+A: 
+I earned a PhD in Environmental Dynamics from the University of Arkansas in 2016 with 
+9 
+a dissertation on methane super-emitters from the oil and gas industry, a Master of 
+10 
+Science in Forestry from the University of Kentucky in 2004, and a Bachelor of Arts in 
+11 
+Biology from Hendrix College in 2002. I have over 15 years of experience working on oil 
+12 
+and gas methane emissions, greenhouse gas emissions accounting, and emissions 
+13 
+inventories, while at the Arkansas Department of Environmental Quality, Environmental 
+14 
+Defense Fund, United States Environmental Protection Agency, and University of Texas 
+15 
+at Austin.  I have co-authored over 30 peer-reviewed papers on oil and gas methane 
+16 
+emissions, including Assessment of methane emissions from the US oil and gas supply 
+17 
+chain (Alvarez et al. 2018), which has been cited over 1000 times. To see more 
+18 
+information, please see my attached CV, Exhibit __ (DL-2), or visit 
+19 
+https://scholar.google.com/citations?hl=en&user=Y32HsP0AAAAJ. 
+20 
+Q:  
+Have you previously provided testimony before regulatory or legislative bodies? 
+21 
+
+
+--- Page 4 ---
+25-E-0072 
+Direct Testimony of David Lyon  
+25-G-0073 
+ 
+ 
+4 
+ 
+A:  
+Yes. I have testified several times, including before the United States House of 
+1 
+Representatives Committee on Science, Space, and Technology in 2022 for the hearing 
+2 
+Detecting and Quantifying Methane Emissions from the Oil and Gas Sector; and before 
+3 
+the U.S. Environmental Protection Agency in 2022 for the International Emissions 
+4 
+Inventory Conference. In 2018, I was a member of the New York State Energy Research 
+5 
+and Development Authority technical advisory committee for developing an oil and gas 
+6 
+emissions inventory. 
+7 
+II.   
+Purpose of Testimony and Recommendations  
+8 
+Q: 
+What is the purpose of your testimony? 
+9 
+A: 
+The purpose of my testimony is to (1) evaluate the greenhouse gas emissions data 
+10 
+presented by Consolidated Edison Company of New York, Inc. (“Company” or “Con 
+11 
+Edison”) in its gas and electric rate filings; (2) present a more comprehensive assessment 
+12 
+of greenhouse gas emissions associated with the Company’s proposed rate plan, that will 
+13 
+enable the Commission and stakeholders to evaluate the rate plan’s consistency with the 
+14 
+state emissions limits established under the Climate Leadership and Community 
+15 
+Protection Act (“CLCPA”); and (3) present recommendations for improved GHG 
+16 
+emissions accounting in this and future rate cases, to enable assessments under the 
+17 
+CLCPA.   
+18 
+Q: 
+Please provide a summary of your testimony and recommendations. 
+19 
+A: 
+New York State must reduce statewide greenhouse gas (“GHG”) emissions by 40% by 
+20 
+2030 and 85% by 2050, below 1990 levels, and achieve economywide net zero emissions 
+21 
+
+
+--- Page 5 ---
+25-E-0072 
+Direct Testimony of David Lyon  
+25-G-0073 
+ 
+ 
+5 
+ 
+by 2050, to fulfill the directives of the CLCPA.1 State agencies, including the New York 
+1 
+Public Service Commission (“NYPSC” or “Commission”), must consider whether their 
+2 
+decisions will interfere with the attainment of the statewide GHG emissions limits—and 
+3 
+if so, the agency must adopt mitigation measures to address the related emissions. See 
+4 
+CLCPA § 7(2). The Commission has sought to evaluate its decisions in this manner, 
+5 
+including in utility rate cases, but it has not deployed numeric analysis to verify the 
+6 
+overall GHG emissions impact of a given utility rate plan. To accurately assess whether 
+7 
+approval of a utility rate plan will interfere with the attainment of New York’s GHG 
+8 
+emissions limits, a comprehensive quantification of the emissions associated with the rate 
+9 
+plan is required.  
+10 
+ 
+ 
+Con Edison included some assessment of GHG emissions in its rate filing, but the 
+11 
+Company’s emissions analysis is incomplete.  
+12 
+ 
+ 
+Using the best available information, and using emissions accounting practices 
+13 
+consistent with New York’s climate law, EDF presents an analysis of the Company’s 
+14 
+electric and gas system emissions over the term of the rate filing—2026, 2027, and 2028. 
+15 
+The emissions are also compared against the emissions-reduction trajectory that was 
+16 
+modeled in the New York Climate Action Council’s Scoping Plan to achieve the 
+17 
+statewide 2030 emissions limit. The analysis demonstrates that the Company’s rate filing 
+18 
+is not consistent with the GHG emissions reductions needed to achieve the statewide 
+19 
+ 
+1  New York State Climate Leadership and Community Protection Act, 2019 N.Y. Laws 106 § 
+2, available at https://legislation.nysenate.gov/pdf/bills/2019/S6599 [hereinafter “CLCPA”]; 
+N.Y. ECL §§ 75-0103(11), 75-0107(1).  
+
+
+--- Page 6 ---
+25-E-0072 
+Direct Testimony of David Lyon  
+25-G-0073 
+ 
+ 
+6 
+ 
+2030 or 2050 emissions limits. See Exhibit __ (DL-1) for detailed analysis and 
+1 
+methodology.  
+2 
+ 
+ 
+Finally, this testimony provides recommendations to improve GHG emissions 
+3 
+accounting in this and future rate cases. Here, EDF sought to obtain relevant information 
+4 
+from Con Edison through discovery. In the future, Con Edison and the Commission 
+5 
+should standardize providing granular GHG emissions information in a consistent format.  
+6 
+ 
+ 
+Please note that all figures and tables referenced in testimony are included in 
+7 
+Exhibit __ (DL-1). This testimony does not seek to formulate any legal interpretations; 
+8 
+any legal statements are provided on advice of counsel. 
+9 
+ Q: 
+Are you providing any exhibits to your testimony?  
+10 
+A:  
+Yes. I am attaching the following exhibits to my testimony:  
+11 
+- 
+Exhibit __ (DL-1): EDF Assessment of Con Edison NY 2025 Rate Case GHG 
+12 
+Emissions 
+13 
+- 
+Exhibit __ (DL-2): Curriculum Vitae 
+14 
+- 
+Exhibit __ (DL-3): 2025 CECONY N. Gas & Electric Rate Cases- GHG Impact 
+15 
+(Overall) 
+16 
+- 
+Exhibit __ (DL-4), Con Edison Response to NRDC-2-10 (May 2, 2025) 
+17 
+- 
+Exhibit __ (DL-5), Con Edison Response to EDF-2-29 (May 19, 2025) (including 
+18 
+Attachment 1) 
+19 
+- 
+Exhibit __ (DL-6), Con Edison Response to EDF-2-30 (May 19, 2025) 
+20 
+- 
+Exhibit __ (DL-7), Con Edison Response to EDF-3-32 (May 28, 2025) 
+21 
+- 
+Exhibit __ (DL-8), Con Edison Response to EDF-3-34 (May 28, 2025) 
+22 
+- 
+Exhibit __ (DL-9), Con Edison Response to EDF-1-16 (May 2, 2025) 
+23 
+
+
+--- Page 7 ---
+25-E-0072 
+Direct Testimony of David Lyon  
+25-G-0073 
+ 
+ 
+7 
+ 
+III.   
+Quantification of the GHG Emissions Associated with Con Edison’s Rate Filing is 
+1 
+Needed to Evaluate its Climate Impact  
+2 
+Q. 
+Why is it urgent to reduce GHG emissions?  
+3 
+A. 
+Scientific evidence overwhelmingly demonstrates that climate change is causing 
+4 
+immediate, devasting impacts, and that these harms will worsen dramatically as 
+5 
+greenhouse gas pollution continues to rise.2 The Intergovernmental Panel on Climate 
+6 
+Change (“IPCC”) stated that “[h]uman influence has warmed the climate at a rate that is 
+7 
+unprecedented in at least the last 2000 years.”3 Cutting GHG emissions now is critical 
+8 
+because “there is a near-linear relationship” between human-caused GHG emissions and 
+9 
+related global warming, meaning that each additional increment of global warming 
+10 
+exacerbates changes in extreme weather events.4 Preventing the worst impacts of climate 
+11 
+change “requires steep and sustained reductions in fossil fuel production and use,” in 
+12 
+addition to measures that reduce production-cycle emissions.5 
+13 
+Q. 
+Why is it important to reduce methane emissions?  
+14 
+A. 
+Methane, the primary component of natural gas, is itself a potent greenhouse gas; and 
+15 
+when combusted, methane further contributes to warming by releasing the GHG carbon 
+16 
+dioxide (CO2). Compared with CO2, methane’s warming potential is ~84 times higher 
+17 
+ 
+2  See Crimmins et al, Fifth National Climate Assessment, U.S. GLOB. CHANGE RSCH. 
+PROGRAM, Ch. 1, at 5 (Emily K. Laidlaw et al. eds) (2023), 
+https://nca2023.globalchange.gov/downloads/NCA5_2023_FullReport.pdf. 
+3  INTERGOVERNMENTAL PANEL ON CLIMATE CHANGE (“IPCC”), Climate Change 2021: The 
+Physical Science Basis: Summary for Policymakers (2021), at 6, 
+https://www.ipcc.ch/report/ar6/wg1/downloads/report/IPCC_AR6_WGI_SPM.pdf.  
+4  IPCC, Climate Change 2021: The Physical Science Basis: Summary for Policymakers 
+(2021), at 28.  
+5  SEI, IISD, ODI, E3G, & UNEP, THE PRODUCTION GAP REPORT, Summary of Findings, at 1, 
+https://productiongap.org/2021report/. 
+
+
+--- Page 8 ---
+25-E-0072 
+Direct Testimony of David Lyon  
+25-G-0073 
+ 
+ 
+8 
+ 
+over a twenty-year period and ~30 times higher over a 100-year period.6 Given the urgent 
+1 
+global need to reduce greenhouse gas emissions to mitigate the climate crisis, cutting 
+2 
+methane emissions is an important strategy to limit the rate of current warming. Peer-
+3 
+reviewed research demonstrates that rapid implementation of all methane mitigation 
+4 
+measures could slow the rate of near-term warming by 30 percent and avoid a quarter of a 
+5 
+degree centigrade of additional warming by midcentury.7 
+6 
+Q. 
+Are there clear pathways to reduce methane emissions from the oil and gas supply 
+7 
+chain?  
+8 
+A. 
+Yes. Best available data suggest that methane emissions from the oil and gas sector 
+9 
+account for 20 percent or more of total global emissions.8 As measurement capabilities 
+10 
+improve, there is also evidence that methane emissions from this sector have been 
+11 
+historically underestimated. For example, the measurement-based study Alvarez et al. 
+12 
+2018 estimates that the former U.S. national inventory underestimated actual methane 
+13 
+emissions from the oil and gas sector by as much as 60 percent.9  
+14 
+ 
+6  IPCC AR6, WG 1, The Physical Science Basis at 7-125. 
+7  Ocko et al., Acting rapidly to deploy readily available methane mitigation measures by 
+sector can immediately slow global warming, 16 ENV. RESEARCH LETTERS 054042 (2021), 
+https://iopscience.iop.org/article/10.1088/1748-9326/abf9c8. 
+8  Schwietzke et al., Aerially guided leak detection and repair: A pilot field study for evaluating 
+the potential of methane emission detection and cost-effectiveness, 69 J. AIR & WASTE 
+MGMT. ASSOC. 71 (2019), https://doi.org/10.1080/10962247.2018.1515123; Hmiel et al., 
+Preindustrial 14CH4 indicates greater anthropogenic fossil CH4 emissions, 578 NATURE 
+409 (2020), https://doi.org/10.1038/s41586-020-1991-8; Saunois et al., The Global Methane 
+Budget 2000–2017, 12 EARTH SYSTEM SCIENCE DATA 1561 (2020), 
+https://doi.org/10.5194/essd-12-1561-2020. 
+9  Alvarez et al., Assessment of methane emissions from the U.S. oil and gas supply chain, 361 
+SCIENCE 186 (2018), https://doi.org/10.1126/science.aar7204. 
+
+
+--- Page 9 ---
+25-E-0072 
+Direct Testimony of David Lyon  
+25-G-0073 
+ 
+ 
+9 
+ 
+Yet many mitigation measures exist already and could significantly limit methane 
+1 
+emissions from human activities. According to the International Energy Agency (IEA), 
+2 
+the U.S. could abate nearly 40 percent of methane emissions from the oil and gas sector 
+3 
+at no net cost, and currently available technologies could abate up to 76 percent of oil and 
+4 
+gas methane emissions.10    
+5 
+Q. 
+How is New York State addressing climate change?   
+6 
+A. 
+New York State has recognized the existential threat of climate change and the need for 
+7 
+rapid climate mitigation and adaptation. The CLCPA directs the state to reduce statewide 
+8 
+GHG emissions 40% by 2030 and 85% by 2050 from 1990 levels and to achieve 
+9 
+economy-wide net zero emissions by 2050 (the remaining 15% reductions can come from 
+10 
+carbon offsets).11 The CLCPA seeks to ensure that GHG emissions reductions are “real, 
+11 
+permanent, quantifiable, verifiable, and enforceable,” and to “encourage early action to 
+12 
+reduce [GHG] emissions and co-pollutants.”12 And the climate law specifically 
+13 
+acknowledges the short-term climate impact of methane emissions, recognizing that 
+14 
+methane causes 84 times as much global warming as the same amount of carbon 
+15 
+dioxide.13  
+16 
+Q. 
+How is New York State addressing climate change in relation to the power sector? 
+17 
+A. 
+The CLCPA sets a detailed trajectory to ensure a clean power sector, directing the 
+18 
+Commission to set standards requiring that 70% of statewide electric generation secured 
+19 
+ 
+10  IEA, Methane Tracker (last updated May 7, 2025), https://www.iea.org/articles/methane-
+tracker-data-explorer.  
+11  CLCPA § 2; N.Y. ECL §§ 75-0103(11), 75-0107(1). 
+12  CLCPA § 2; N.Y. ECL §§ 75-0109(3)(b), (d). 
+13  CLCPA § 2; N.Y. ECL § 75-0101(2). 
+
+
+--- Page 10 ---
+25-E-0072 
+Direct Testimony of David Lyon  
+25-G-0073 
+ 
+ 
+10 
+ 
+by jurisdictional load-serving entities be generated by renewable energy by 2030, and 
+1 
+that the state’s power sector system be zero emissions by 2040.14   
+2 
+Q. 
+Are Con Edison’s GHG emissions relevant to achieving the statewide emissions 
+3 
+limits in 2030 and 2050?  
+4 
+A. 
+Yes. Con Edison provides gas and electric service to over 10 million people, with 
+5 
+approximately 3.6 million electric customers and 1.1 million gas customers across New 
+6 
+York City and Westchester.15 The Company delivers approximately 53,000 gigawatt 
+7 
+hours (“Gwh”) of electricity to customers annually, and projects continuing these 
+8 
+delivery volumes, with slight growth, during 2026-2028.16 The Company delivers 
+9 
+approximately 168 million dekatherms of natural gas to customers annually, and projects 
+10 
+continuing these delivery volumes with some decrease during 2026-2028.17 There are 
+11 
+numerous sources of GHG emissions associated with the Company’s provision of gas and 
+12 
+electric service, including the upstream emissions associated with oil and gas production 
+13 
+and transportation, the emissions associated with delivery and end-use combustion of 
+14 
+natural gas (aka methane), and the emissions associated with out-of-state and in-state 
+15 
+power generation and transmission for electric customers.  
+16 
+ 
+14  CLCPA § 4; N.Y. PSL § 66-p.  
+15  See Ex. __ (CETP-1) at 5; CON EDISON, Our Businesses, 
+https://www.conedison.com/en/about-us/our-businesses (last accessed May 26, 2025).  
+16  See Proceeding on Motion of the Commission as to the Rates, Charges, Rules and 
+Regulations of Consolidated Edison Company of New York, Inc. for Electric Service, Case 
+25-E-0072, Direct Testimony of Electric Forecasting Panel at p6 (Jan. 31, 2025).   
+17  See Proceeding on Motion of the Commission as to the Rates, Charges, Rules and 
+Regulations of Consolidated Edison Company of New York, Inc. for Gas Service, Case 25-G-
+0073, Direct Testimony of Gas Forecasting Panel at p5-6 (Jan. 31, 2025). 
+
+
+--- Page 11 ---
+25-E-0072 
+Direct Testimony of David Lyon  
+25-G-0073 
+ 
+ 
+11 
+ 
+Q. 
+What obligations apply in this rate case relating to the achievement of the statewide 
+1 
+GHG emissions limits?  
+2 
+A. 
+There are numerous obligations created by New York’s climate law that affect Con 
+3 
+Edison’s operations and the programs and investments proposed in this rate case. Here, 
+4 
+we focus on a particular obligation: State agencies, including the NYPSC, must consider 
+5 
+whether their decisions will interfere with the attainment of the statewide GHG emissions 
+6 
+limits—and if so, the agency must adopt mitigation measures to address the related 
+7 
+emissions.18 Logically, in order to make such a determination, clear quantification of the 
+8 
+GHG emissions associated with a given proposal under review—and subsequent 
+9 
+Commission decision—is required.  
+10 
+Q. 
+How has the Commission acted to ensure fulfillment of this obligation?  
+11 
+A. 
+First, the Commission has specifically found that the obligation to assess consistency 
+12 
+with statewide emissions limits applies to its decisions in utility rate cases.19 Second, the 
+13 
+Commission has established guidelines for utilities to collect needed information: In May 
+14 
+2022, the Commission identified the need to “establish clear and consistent statewide 
+15 
+guidelines for GHG emissions reporting requirements to ensure that the State’s major 
+16 
+electric and gas IOUs (collectively, the Utilities) are on track to meet the CLCPA 
+17 
+ 
+18  See CLCPA § 7(2).  
+19  Proceeding on Motion of the Commission as to the Rates, Charges, Rules and Regulations of 
+The Brooklyn Union Gas Company d/b/a National Grid NY for Gas Service & KeySpan Gas 
+East Corp. d/b/a National Grid for Gas Service, Cases 19-G-0309 & 19-G-0310, Order 
+Approving Joint Proposal, As Modified, & Imposing Additional Requirements at 69 (Aug. 
+12, 2021).  
+
+
+--- Page 12 ---
+25-E-0072 
+Direct Testimony of David Lyon  
+25-G-0073 
+ 
+ 
+12 
+ 
+targets.”20 The Commission stated that it “directs all Utilities in future rate filings to 
+1 
+include an assessment of the GHG emissions impacts of each specific investment, capital 
+2 
+expenditure, program, and initiative included in their rate filings.”21 
+3 
+Q. 
+What more is needed for the Company, stakeholders, and the Commission to assess 
+4 
+the GHG emissions associated with the rate filing?  
+5 
+A. 
+To accurately assess whether approval of a utility rate plan will interfere (or not) with the 
+6 
+attainment of New York’s GHG emissions limits, a comprehensive quantification of the 
+7 
+emissions associated with the rate plan is required. The Commission has directed utilities 
+8 
+to include in their rate filings “an assessment of the GHG emissions impacts of each 
+9 
+specific investment, capital expenditure, program, and initiative,” but more precise 
+10 
+implementation of this directive is required. First, utilities must actually provide this level 
+11 
+of granularity in their rate filings, and the emissions assessment should cover all the years 
+12 
+of the rate plan. Second, because rate cases in New York are often resolved through 
+13 
+settlements that differ from the utility’s original rate filing, such settlements—or Joint 
+14 
+Proposals—should contain an updated GHG emissions assessment, enabling the 
+15 
+Commission to evaluate them under the CLCPA. Third, the Commission should include a 
+16 
+quantitative assessment of the GHG emissions impact in its order on the rate case, not 
+17 
+merely a qualitative discussion as it has done in the past. 
+ 
+18 
+ 
+20  In the Matter of Assessing Implementation of and Compliance with the Requirements and 
+Targets of the Climate Leadership and Community Protection Act, Case 22-M-0149, Order 
+on Implementation of the CLCPA at 14-15 (May 12, 2022). 
+21  Id. at 16. 
+
+
+--- Page 13 ---
+25-E-0072 
+Direct Testimony of David Lyon  
+25-G-0073 
+ 
+ 
+13 
+ 
+IV.   
+GHG Data Provided in Con Edison’s Gas & Electric Rate Filings  
+1 
+Q. 
+Did Con Edison provide a GHG emissions assessment within its rate filing?  
+2 
+A. 
+The Company provided some analysis of GHG emissions in its rate filing, but the 
+3 
+assessment is incomplete. Con Edison states that “consistent with recent PSC Orders, the 
+4 
+Company provides projections of the greenhouse gas (‘GHG’) emissions reductions the 
+5 
+proposals presented in these proceedings are anticipated to achieve.”22 The Company 
+6 
+included several documents in its gas and electric rate filings that quantify GHG 
+7 
+emissions associated with the Company’s gas and electric businesses, summarized 
+8 
+below:  
+9 
+i. 
+Direct Testimony of the Clean Energy Transition Panel (“CETP”) – 
+10 
+Discusses Con Edison’s approach to the clean energy transition, and how the 
+11 
+proposals in these rate cases help the company move towards achievement of 
+12 
+the CLCPA’s GHG emission limits. The testimony focuses primarily on Con 
+13 
+Edison’s strategy for decarbonization pursuant to the CLCPA and other 
+14 
+relevant laws, including those enacted by the City of New York. The 
+15 
+testimony provides a narrative discussion of GHG emissions quantification at 
+16 
+Page 71 Line 24, through Page 74 Line 14.  
+17 
+a. The CETP states that Con Edison’s “direct emissions from the natural 
+18 
+gas distribution system and electric system SF6 emissions” are 
+19 
+approximately 660,000 MT CO2e, and refers to Exhibit __ (CETP-2), 
+20 
+Schedule 1 for more detail on “direct GHG impacts.” Page 73 Lines 4-
+21 
+7, 18-20. 
+22 
+b. The CETP states that Con Edison’s “proposed projects and programs 
+23 
+result in an estimated net reduction in GHG emissions of over 39,000 
+24 
+MT CO2e.” Page 73 Lines 10-12. 
+25 
+c. The CETP states that Con Edison’s “anticipated indirect GHG 
+26 
+emissions reductions are approximately 7 million MT CO2e and are 
+27 
+set forth in Exhibit ___ (CETP-2), Schedule 2.” Page 74 Lines 12-14. 
+28 
+ii. 
+Exhibit __ (CETP-1), Con Edison Integrated Long Range Plan (2025) 
+29 
+(“ILRP”) – Presents the Company’s planning strategy to reduce emissions and 
+30 
+to achieve the state’s decarbonization goals.  
+31 
+ 
+22  Cases 25-E-0072 & 25-G-0073, Direct Testimony of Clean Energy Transition Panel at 16, 
+lines 18-21 (Jan. 31, 2025). 
+
+
+--- Page 14 ---
+25-E-0072 
+Direct Testimony of David Lyon  
+25-G-0073 
+ 
+ 
+14 
+ 
+a. Consistent with the Company’s Gas System Long-Term Plan (2023),23 
+1 
+the ILRP focuses on two potential pathways—identified as Hybrid and 
+2 
+Deep Electrification—by which Con Edison could fulfill the 
+3 
+requirements of the CLCPA and other climate policies. The first part 
+4 
+of the report is a narrative of the approaches, programs, and 
+5 
+overarching strategy for the company’s energy transition plan; the 
+6 
+second part is a series of appendices that give a high-level view of the 
+7 
+assumptions and characteristics of the two decarbonization pathways.  
+8 
+b. In the ILRP, however, the Company does not commit to either the 
+9 
+Hybrid or Deep Electrification pathway. This approach is, again, 
+10 
+consistent with the Company’s approach in the Gas System Long-
+11 
+Term Plan proceeding—where the Company stated in its Final Long-
+12 
+Term Plan that “[t]he Reference Pathway will continue to inform our 
+13 
+short-term rate case funding requests.”24 The Commission stated in its 
+14 
+order on the Plan that: “the Companies chose not to select a preferred 
+15 
+Pathway in their Final LTP”; “[t]he Commission disagrees with this 
+16 
+approach”; and found that “for purposes of clarification, the 
+17 
+Commission understands that the Companies have selected the 
+18 
+Reference Pathway as their Final LTP.”25  
+19 
+c. Because the Commission and the Company have stated that they are 
+20 
+following the Reference Pathway, EDF relies on this pathway in its 
+21 
+GHG emissions analysis. 
+22 
+iii. 
+Exhibit __ (CETP-2-UPD) – includes the following tables:  
+23 
+a. Schedule 1: 2025 N. Gas & Electric Rate Case- GHG Impact 
+24 
+Summary – Identifies “direct” emissions reductions from the natural 
+25 
+gas distribution system, Con Edison’s vehicle fleet, and Con Edison 
+26 
+facilities. 
+27 
+b. Schedule 2:  
+28 
+i. Indirect Carbon Emissions (GHG) Reductions (2026 
+29 
+through 2028) – Identifies “indirect” emissions reductions 
+30 
+associated with building electrification and the Company’s 
+31 
+efforts to support the electric infrastructure necessary for the 
+32 
+expansion of electric vehicle charging. 
+33 
+ii. Clean Energy Investments and Programs: Indirect Carbon 
+34 
+Emissions (GHG) Calculations – Identifies the inputs used to 
+35 
+calculate the prior table. 
+36 
+ 
+23  In the Matter of a Review of the Long-Term Gas System Plans of Consolidated Edison Co. of 
+N.Y., Inc. & Orange & Rockland Utilities, Inc., Case 23-G-0147, Con Edison & O&R 
+Utilities, Final Gas System Long-Term Plan (Nov. 29, 2023). 
+24  Id. at 5 (Nov. 29, 2023).  
+25  Case 23-G-0147, Order Regarding Long-Term Natural Gas Plan & Requiring Further 
+Actions at p29-30 (Sept. 20, 2024).  
+
+
+--- Page 15 ---
+25-E-0072 
+Direct Testimony of David Lyon  
+25-G-0073 
+ 
+ 
+15 
+ 
+iv. 
+Exhibit __ (CETP-3), Disadvantaged Communities Report – Fulfilling a 
+1 
+commitment by Con Edison in the 2023 Joint Proposal to track and report on 
+2 
+how its operations affect disadvantaged communities.  
+3 
+Q. 
+Please provide the primary tables included in the Company’s GHG emissions 
+4 
+assessment of its rate case filing.  
+5 
+A. 
+Below are the two primary tables provided in Con Edison’s GHG emissions assessment 
+6 
+of its rate case filing at Exhibit __ (CETP-2-UPD), with formatting adjusted for ease of 
+7 
+presentation. See these and the third table at Ex. __ (DL-1) at p2-3. 
+8 
+Figure A. Source: Con Edison Ex. __ (CETP-2), Schedule 1. 
+9 
+2025 N. Gas & Electric Rate Case- GHG Impact Summary 
+ 
+2023 
+2026 
+2027 
+2028 
+Total Projects 
+Savings  
+(MT CO2e) 
+N. Gas Distribution 
+System 
+623,047 
+-10,374 
+-10,444 
+-10,487 
+-31,305 
+Electric 
+See Schedule 2 
+Vehicles 
+29,393 
+-1,498 
+-1,327 
+-771 
+-3,596 
+CECONY Facilities* 
+27,110 
+-922 
+0 
+0 
+-4,367 
+Total Emissions 
+Reductions 
+-39,268 
+ 
+*Proposed CECONY Facilities projects will not all be completed within the Rate Years (2026, 
+2027, and 2028). Phase 1 projects will be completed by the end of 2026 and Phase 2 projects 
+are expected to be completed by the end of 2029. The Total Projects Savings for CECONY 
+Facilities shows the total projected savings from all proposed projects upon completion. 
+ 
+10 
+ 
+ 
+11 
+
+
+--- Page 16 ---
+25-E-0072 
+Direct Testimony of David Lyon  
+25-G-0073 
+ 
+ 
+16 
+ 
+Figure B. Source: Con Edison Ex. __ (CETP-2-UPD), Schedule 2, p1. 
+1 
+Indirect Carbon Emissions (GHG) Reductions (2026 through 2028) 
+Category 
+Source of 
+Reduction 
+Program 
+Tons of CO2e Reduction 
+2026 
+2027 
+2028 
+Total 
+Building 
+Electrification 
+(BE) 
+Electrification 
+Space/Water 
+Heating, 
+Cooking, and 
+Clothes 
+Drying 
+670,709 
+1,024,662 
+1,417,385 
+3,112,757 
+Electric 
+Vehicles (EV) 
+Electric 
+Vehicle 
+Adoption 
+Vehicle 
+Programs and 
+Non-utility 
+program 
+adoption 
+789,851 
+1,136,183 
+1,547,141 
+3,473,175 
+Total 
+1,556,946 
+2,300,387 
+3,151,593 
+6,585,932 
+ 
+2 
+For further discussion of the information provided by the Company, see Ex. __ (DL-1), 
+3 
+EDF Assessment of Con Edison NY 2025 Rate Case GHG Emissions, p2-5.  
+4 
+Q. 
+Please identify concerns you have with the Company’s approach to emissions 
+5 
+accounting.  
+6 
+A. 
+The Company’s effort to provide a quantification of GHG emissions associated with its 
+7 
+gas and electric rate filings is appreciated. However, there are a number of gaps and 
+8 
+concerns with the submission:  
+9 
+• Lack of framework for emissions data that would include total annual emissions 
+10 
+and detailed emissions breakdown – The Company presents GHG emissions 
+11 
+information in a confusing and vague manner. Tables are dispersed, not clearly 
+12 
+labeled, and lack sufficient detail. Emissions should be presented within a framework 
+13 
+that includes total annual emissions by scope and business, detailed breakdown within 
+14 
+scopes, identification of rate case-related reductions within that framework, and 
+15 
+
+
+--- Page 17 ---
+25-E-0072 
+Direct Testimony of David Lyon  
+25-G-0073 
+ 
+ 
+17 
+ 
+provide, for comparison and assessment, an CLCPA-compliant emissions trajectory 
+1 
+for the scope and business.  
+2 
+o The Schedule 1 table (Fig. A above; Ex. __ (DL-1) Fig. 2), for instance, 
+3 
+apparently shows Con Edison’s “direct” emissions, but it only provides those 
+4 
+for the Gas System, not the Electric System, and it provides no breakdown 
+5 
+into subcategories. The Schedule 2 tables (see Fig. B above; Ex. __ (DL-1) 
+6 
+Figs. 3, 4) apparently show Con Edison’s “indirect” emissions, but they do not 
+7 
+provide estimates of the total indirect emissions for the Gas or Electric 
+8 
+System, showing only the projected emissions reductions for each rate year.  
+9 
+o To assess the extent of any projected reductions, a baseline is required. The 
+10 
+Company should show the projected GHG emissions profile for each year of 
+11 
+the rate plan, with a breakdown of inputs, alongside the projected emissions 
+12 
+reductions. This should be organized by Scope 1, 2, and 3 emissions, and 
+13 
+should include a complete accounting of all Scope 1, 2, and 3 emissions.  
+14 
+• Lack of clear emissions baseline –There is no emissions baseline presented for the 
+15 
+Electric System—only the projected effect on electricity demand shown in Exhibit __ 
+16 
+(CETP-2-UPD), Schedule 2. Exhibit __ (CETP-2), Schedule 1 provides a 2023 
+17 
+emissions baseline for the Gas System, but insufficient detail is provided: The CETP 
+18 
+testimony states that the Company relied on the December 1, 2022, GHG Emissions 
+19 
+Inventory Proposal (as supplemented by the JU’s May 31, 2023 filing), filed in Case 
+20 
+22-M-0149; but tables showing these calculations should be presented. The highest- 
+21 
+level calculations were made available as workpapers in response to a Department of 
+22 
+Public Service Staff information request, attached as Exhibit __ (DL-3). The 
+23 
+
+
+--- Page 18 ---
+25-E-0072 
+Direct Testimony of David Lyon  
+25-G-0073 
+ 
+ 
+18 
+ 
+Company should provide a clear GHG emissions baseline for both Gas and Electric 
+1 
+Systems, including Scope 1, 2, and 3 emissions.  
+2 
+• Lack of clear methodology – In the absence of a uniform methodology for GHG 
+3 
+emissions accounting, the Company should explain its methodology and sources for 
+4 
+such calculations. For example, in Schedule 2, the Company provides the sources for 
+5 
+its inputs regarding contributors to emissions reductions – building and vehicle 
+6 
+electrification – but it does not provide the same level of detail for calculating the 
+7 
+total emissions.  
+8 
+• Assessment of Exhibit __ (CETP-2), Schedule 1 –  
+9 
+o Missing electric system emissions – The only electric systems emissions 
+10 
+quantified by the Company are the “Indirect” emissions reductions associated 
+11 
+with facilitating building electrification and uptake of electric vehicles, see 
+12 
+Exhibit __ (CETP-2-UPD), Schedule 2. The Company should also quantify 
+13 
+the GHG emissions associated with electricity delivered to customers —
+14 
+although most power generation is not in the Company’s direct control, it is 
+15 
+still relevant to the analysis.  
+16 
+o “Vehicles” category should be clarified – Schedule 1 should make clear that 
+17 
+the “Vehicles” line appears to refer only to Company-operated vehicles; not 
+18 
+the broader electric vehicle initiative addressed in Schedule 2.  
+19 
+• Assessment of Exhibit __ (CETP-2-UPD), Schedule 2 – The calculations appear to 
+20 
+be simplified for estimation (which is acceptable), the emission factors used in the 
+21 
+calculations look plausible, and the source data is clearly identified at Schedule 2 
+22 
+p2—though we were unable to locate all of the sources cited. For building 
+23 
+
+
+--- Page 19 ---
+25-E-0072 
+Direct Testimony of David Lyon  
+25-G-0073 
+ 
+ 
+19 
+ 
+electrification, some data is lacking that would help more fully understand the 
+1 
+program, particularly the assumptions regarding quantity of residences and 
+2 
+commercial building addressed over the three years. In the updated version, which 
+3 
+includes additional factors for electrification, it is not clearly defined what the 
+4 
+assumed adoption rates of the electrified equipment are. For the vehicle electrification 
+5 
+data, the “2025 CECONY Rate Case EV Fleet Forecast” was not included in the rate 
+6 
+filing, which would be valuable context to better understand this program. 
+7 
+Q. 
+Did Con Edison provide additional data or information regarding its GHG 
+8 
+emissions?  
+9 
+A. 
+Yes, the Company provided additional information in response to information requests 
+10 
+from EDF and other parties to the rate case. That information is utilized in EDF’s 
+11 
+analysis presented below. However, the Company should be providing sufficient 
+12 
+information in its initial rate filing to understand its GHG emissions assessment, without 
+13 
+extensive discovery being required. For further discussion, see Exhibit __ (DL-1) at p2-5. 
+14 
+Part VI of this testimony, at page 31, presents detailed recommendations to improve 
+15 
+future GHG emissions accounting in rate cases.   
+16 
+V.   
+An Assessment of GHG Emissions Associated with Con Edison’s Gas & Electric 
+17 
+Rate Filings  
+18 
+Q. 
+What statewide information and assumptions did EDF consider in its assessment of 
+19 
+Con Edison’s GHG emissions?  
+20 
+A. 
+State agencies, including the NYPSC, must consider whether their decisions are 
+21 
+inconsistent with, or will interfere with, the attainment of the statewide GHG emissions 
+22 
+limits. The Commission has not set GHG emissions limits or guidelines for individual 
+23 
+
+
+--- Page 20 ---
+25-E-0072 
+Direct Testimony of David Lyon  
+25-G-0073 
+ 
+ 
+20 
+ 
+utilities or for utilities by type; nor have other state agencies. For purposes of the Con 
+1 
+Edison gas and electric rate cases, we interpret “consistency” to mean that the company 
+2 
+would achieve GHG emission levels in the years covered by the rate case (2026, 2027, 
+3 
+and 2028) that are on a trajectory consistent with achievement of the statewide emissions 
+4 
+limit, as applied to the Company’s gas and electric businesses. This analysis particularly 
+5 
+focuses on the 2030 statewide emissions limit as it is closest in time.  
+6 
+ 
+ 
+The New York State Climate Action Council’s Scoping Plan provides a range of 
+7 
+scenarios designed to meet the CLCPA goals, shown below.  
+8 
+Figure C. Source: Scoping Plan Integration Analysis, Sec. 1 p19 (Dec. 2022). 
+9 
+ 
+10 
+Under these scenarios, the decline in consumption of fossil natural gas by 2030 ranges 
+11 
+between 34% for Scenario 3 (Accelerated Transition Away from Combustion) and 37% 
+12 
+
+
+--- Page 21 ---
+25-E-0072 
+Direct Testimony of David Lyon  
+25-G-0073 
+ 
+ 
+21 
+ 
+for Scenario 4 (Beyond 85% Reductions).26 Electricity demand by 2030 increases 
+1 
+between 7% for Scenario 2 (Strategic Use of Low Carbon Fuels) and 12% for Scenarios 3 
+2 
+and 4, while emissions from electricity decline between 67% for Scenarios 3 and 4 and 
+3 
+70% for Scenario 2. For the purposes of this methodological review, we have selected 
+4 
+Scenario 3 as a benchmark to represent a trajectory that aligns with the CLCPA. 
+5 
+Q. 
+What company-specific information did EDF consider in its assessment of Con 
+6 
+Edison’s GHG emissions?  
+7 
+A. 
+Because, as stated above, the Company did not provide estimates of systemwide gas or 
+8 
+electric emissions for the years of the rate plan, EDF used available information to 
+9 
+calculate such estimates. In this rate case, Con Edison asserts that its actions are 
+10 
+consistent with the Reference Case presented in the Company’s 2025 Integrated Long 
+11 
+Range Plan, Exhibit __ (CETP-1). For example, the Company stated that “[t]he capital 
+12 
+investments proposed and described in the Company’s filings are wholly based on the 
+13 
+Reference Case,” as opposed to the “Deep Electrification” and “Hybrid” scenarios 
+14 
+modeled in its ILRP and identified as compliant with CLCPA goals. See Exhibit __ (DL-
+15 
+4), Con Edison Response to NRDC-2-10 (May 2, 2025). Thus, EDF looked to the GHG 
+16 
+emissions projected by the Company in its Reference Case analysis in Exhibit __ (CETP-
+17 
+1), the 2025 ILRP.  
+18 
+ 
+ 
+19 
+ 
+26  New York State Climate Action Council Scoping Plan (Dec. 2022), Integration Analysis 
+Technical Supplement, Section I, Annex 2: Key Drivers and Outputs, available at 
+https://climate.ny.gov/Resources/Scoping-Plan. See worksheet Final Energy Demand by Fuel 
+(“All_Energy_by_Fuel”); note that the fossil natural gas consumption excludes use for 
+“electricity generation, synthetic fuel production, or electrolysis.” 
+
+
+--- Page 22 ---
+25-E-0072 
+Direct Testimony of David Lyon  
+25-G-0073 
+ 
+ 
+22 
+ 
+Figure D., from Con Edison ILRP. 
+1 
+ 
+2 
+Figure E., from Con Edison ILRP. 
+3 
+ 
+4 
+The company has additionally, upon request, provided partial underlying data for Exhibit 
+5 
+__ (CETP-1), ILRP Figures H-2 and H-3 (for 2023-2028), and for ILRP Figures A-2 
+6 
+(Reference Gas Customer Sales) and A-4 (Reference Electric Volume Forecast). See 
+7 
+Exhibit __ (DL-5), Con Edison Response to EDF-2-29 (May 19, 2025); Exhibit __ (DL-
+8 
+9), Con Edison Response to EDF-1-16 (May 2, 2025); Exhibit __ (DL-4), Con Edison 
+9 
+Response to NRDC-2-10. 
+10 
+
+
+--- Page 23 ---
+25-E-0072 
+Direct Testimony of David Lyon  
+25-G-0073 
+ 
+ 
+23 
+ 
+A. Gas System Emissions 
+1 
+Q. 
+Please present an assessment of Con Edison’s gas system GHG emissions. 
+2 
+A. 
+See Figures F and G below; see Exhibit __ (DL-1) for a more detailed explanation of 
+3 
+methodology. This assessment compares the following key elements:  
+4 
+• Red: Estimated GHG emissions for the forecasted years of the rate case (2026-
+5 
+2028) 
+6 
+• Blue: Long-term GHG emissions trajectory of Con Edison’s gas system under the 
+7 
+Company’s Integrated Long-Range Plan Reference Case 
+8 
+• Green: Long-term GHG emissions trajectory of Con Edison’s gas system under a 
+9 
+CLCPA-compliant trajectory from the Scoping Plan 
+10 
+ 
+11 
+Figure F. 
+12 
+ 
+13 
+ 
+ 
+14 
+
+
+--- Page 24 ---
+25-E-0072 
+Direct Testimony of David Lyon  
+25-G-0073 
+ 
+ 
+24 
+ 
+Figure G. 
+1 
+ 
+2 
+Q. 
+What is shown by the gas system emissions analysis?  
+3 
+A. 
+The gas system GHG emissions associated with Con Edison’s rate case filing do not 
+4 
+appear to be in accordance with the Scoping Plan, and are not aligned with the GHG 
+5 
+emissions reductions needed by 2030 to align with the CLCPA-mandated statewide 
+6 
+emissions limit. The gas system rate case emissions even appear to be slightly higher than 
+7 
+the Company’s own Reference Case from its ILRP.  
+8 
+Q. 
+What is the basis of the analysis?  
+9 
+A. 
+The analysis draws from the New York State Scoping Plan, the Company’s Long-Term 
+10 
+Gas System Plan, Integrated Long-Range Plan, rate case filings, and responses to 
+11 
+information requests. A detailed explanation of the methodology supporting this analysis 
+12 
+is presented in the attached Exhibit __ (DL-1) at p5-10. 
+13 
+Q. 
+Are there any concerns or limitations with the analysis?  
+14 
+
+
+--- Page 25 ---
+25-E-0072 
+Direct Testimony of David Lyon  
+25-G-0073 
+ 
+ 
+25 
+ 
+A. 
+Yes. Con Edison chooses to presume a lower GHG emissions intensity for differentiated 
+1 
+natural gas, which the Company refers to as certified natural gas. The Company assumes 
+2 
+that “Certified” natural gas is responsible for just 22,215 gCO2e/mmbtu compared with 
+3 
+41,671 gCO2e/mmbtu for “Not Certified” natural gas. See Con Edison CETP Direct, 
+4 
+Exhibit _ (CETP-1) at p75 Table H-1; see also Exhibit __ (DL-1) at p8, Figure 9. EDF 
+5 
+believes that the “certified” terminology and assumptions of reduced methane intensity—
+6 
+which suggests that improved performance standards have been implemented and 
+7 
+verified—is premature given the variability and subjectivity of existing programs. 
+8 
+Differentiated gas products are still nascent and lack safeguards to ensure credibility. The 
+9 
+primary concerns are:  
+10 
+1. Lack of Measurement, reporting and verification (MRV) standards: Without 
+11 
+comprehensive direct measurement, independent verification, and transparency 
+12 
+around intensity calculations, it is inappropriate for producers or certifiers to label gas 
+13 
+as responsibly sourced or to claim that gas is achieving a certain methane intensity. 
+14 
+2. Limited participation: The voluntary nature of certification programs limits operator 
+15 
+participation and, in turn, opportunities for emission reductions. This may also lead to 
+16 
+a lack of available certified gas for domestic consumers if operators prioritize 
+17 
+certified gas for export. 
+18 
+3. Limited coverage of participating companies: Participating companies may choose to 
+19 
+only certify gas from facilities that already have good emissions performance. This 
+20 
+
+
+--- Page 26 ---
+25-E-0072 
+Direct Testimony of David Lyon  
+25-G-0073 
+ 
+ 
+26 
+ 
+would imply minimal or even zero additional emission reductions from certification 
+1 
+programs.27   
+2 
+Q. 
+What further context is relevant regarding “differentiated” or “certified” natural 
+3 
+gas?  
+4 
+A. 
+Con Edison is currently in the midst of a pilot project regarding certified gas acquisition, 
+5 
+which was approved by the Commission as part of the 2023 Joint Proposal in the 
+6 
+Company’s last rate case.28 EDF stated at the time that the program was “appropriately 
+7 
+structured as a cost-contained pilot project with an objective of gathering information that 
+8 
+can inform the company, the Commission, and the public about the status of 
+9 
+differentiated gas markets and the ability of operators and certifiers to demonstrate that 
+10 
+market differentiation is warranted in a transparent fashion.”29 In approving the Joint 
+11 
+Proposal, the Commission characterized the Company’s certified gas pilot as the type of 
+12 
+“[p]rograms that test potential avenues to reduce GHG emissions”—acknowledging that 
+13 
+the value of certified gas is uncertain—and concluded that a pilot program is appropriate 
+14 
+to determine if certified gas “can be used to reduce GHG emissions during the transition 
+15 
+period to a decarbonized gas system.”30 This context demonstrates that it is not 
+16 
+ 
+27  See Lackner et al., Certification of Natural Gas with Low Methane Emissions: Criteria for 
+Credible Certification Programs, EDF (May 2022), 
+https://blogs.edf.org/energyexchange/wp-
+content/blogs.dir/38/files/2022/05/EDF_Certification_White-Paper.pdf.  
+28  Proceeding on Motion of the Commission as to the Rates, Charges, Rules and Regulations of 
+Consolidated Edison Company of New York, Inc. for Electric & Gas Service, Cases 22-E-
+0064 & 22-G-0065, Joint Proposal at 93 (Feb. 16, 2023). 
+29  Cases 22-E-0064 & 22-G-0065, EDF Statement of Neutrality on Joint Proposal at 9-10 (Mar. 
+29, 2023).  
+30  Cases 22-E-0064 & 22-G-0065, Order Adopting Terms of Joint Proposal and Establishing 
+Electric and Gas Rate Plans with Additional Requirements at 134 (July 20, 2023). 
+
+
+--- Page 27 ---
+25-E-0072 
+Direct Testimony of David Lyon  
+25-G-0073 
+ 
+ 
+27 
+ 
+appropriate at this time for the Company to incorporate assumptions about reduced 
+1 
+methane emissions associated with “certified” gas purchases into its GHG emissions 
+2 
+accounting practices.  
+3 
+B. Electric System Emissions 
+4 
+Q. 
+Please present an assessment of Con Edison’s electric system GHG emissions. 
+5 
+A. 
+See Figures H and I below. This assessment compares the following key elements:  
+6 
+• Red, Solid: Rate case emissions, using Rate Filing Emission Factors (“EFs”) – 
+7 
+Estimated GHG emissions associated with the Con Edison electric system for the 
+8 
+forecasted years of the rate case (2026-2028), calculated based on the Company’s 
+9 
+Rate Case Filing, at Exhibit __ (CETP-2-UPD), Sched 2, p2. 
+10 
+• Red, Dotted: Rate case emissions, using Updated Reference Case EFs – Estimated 
+11 
+GHG emissions associated with the Con Edison electric system for the forecasted 
+12 
+years of the rate case (2026-2028), calculated based on an updated version of  the 
+13 
+Company’s ILRP Reference Case, as disclosed at Exhibit __ (DL-5), Con Edison 
+14 
+Response to EDF-2-29. 
+15 
+• Blue: Long-term GHG emissions trajectory of Con Edison’s electric system under 
+16 
+the Company’s ILRP Reference Case, as updated and disclosed in Exhibit __ 
+17 
+(DL-5), Con Edison Response to EDF-2-29. 
+18 
+• Green: Long-term GHG emissions trajectory of Con Edison’s electric system 
+19 
+under a CLCPA-compliant trajectory from the Scoping Plan (Scenario 3).  
+20 
+ 
+ 
+21 
+
+
+--- Page 28 ---
+25-E-0072 
+Direct Testimony of David Lyon  
+25-G-0073 
+ 
+ 
+28 
+ 
+Figure H. 
+1 
+ 
+2 
+ 
+3 
+Figure I. 
+4 
+ 
+5 
+ 
+6 
+ 
+7 
+
+
+--- Page 29 ---
+25-E-0072 
+Direct Testimony of David Lyon  
+25-G-0073 
+ 
+ 
+29 
+ 
+Q. 
+What is shown by the electric system emissions analysis?  
+1 
+A. 
+The analysis of electric system GHG emissions associated with Con Edison’s rate case 
+2 
+filing present uncertainty, since there are two sets of emissions factors (“EFs”) provided 
+3 
+by the Company, enabling two different quantifications of the GHG emissions associated 
+4 
+with the electric rate case filing. One estimate appears to demonstrate that the electric 
+5 
+system is exceeding the GHG reductions required consistent with the Scoping Plan (Rate 
+6 
+Case EFs), while the other estimate appears to demonstrate that the system is not on track 
+7 
+and is even exceeding the GHG emissions projected in the Company’s ILRP (Updated 
+8 
+Reference Case EFs). That the uncertainty in this instance lies with the estimate of future 
+9 
+grid emission factors, which are not necessarily under Con Edison’s control, highlights 
+10 
+the sensitivity of the emission projections to those factors, and the need for clarity and 
+11 
+consistency in their estimation and use. 
+12 
+Q. 
+What is the basis of the analysis?  
+13 
+A. 
+The analysis draws from the New York State Scoping Plan and the Company’s Integrated 
+14 
+Long-Range Plan, rate case filings, and responses to information requests. A detailed 
+15 
+explanation of the methodology supporting this analysis is presented in the attached 
+16 
+Exhibit __ (DL-1) at p10-15. 
+17 
+C. Claimed Emissions Reductions 
+18 
+Q. 
+What GHG emissions reductions does Con Edison claim in its rate filing, and how 
+19 
+do you evaluate those claims? 
+20 
+A. 
+In Exhibit __ (CETP-2), Schedule 2, Con Edison identifies GHG emissions reductions 
+21 
+associated with building electrification and electric vehicle adoption. Building 
+22 
+electrification can contribute to reductions in the Company’s Scope 3 emissions where 
+23 
+
+
+--- Page 30 ---
+25-E-0072 
+Direct Testimony of David Lyon  
+25-G-0073 
+ 
+ 
+30 
+ 
+the Company is transitioning customers off of its fossil gas distribution system to instead 
+1 
+purchase cleaner electricity to meet those energy needs. This is because Scope 3 
+2 
+emissions include those emissions associated with customer use of products sold by the 
+3 
+Company—in this instance, reducing customer combustion of natural gas sold by Con 
+4 
+Edison reduces the GHG emissions associated with that natural gas. Meanwhile, Con 
+5 
+Edison’s facilitation of electric vehicle adoption does not reduce the Company’s Scope 3 
+6 
+emissions, since Con Edison is not selling gasoline to fuel internal combustion vehicles 
+7 
+or otherwise supplying fossil fuel products as opposed to EVs. However, the Company 
+8 
+does implement important programs that facilitate electric vehicle uptake, which is 
+9 
+essential to achieve New York’s statewide GHG emissions reduction targets—so it is 
+10 
+appropriate for Con Edison to identify these reductions. They should be classified as a 
+11 
+more distant emissions reduction contribution, though—not within Scope 1, 2, or 3 
+12 
+emissions. For more detailed discussion of emissions categorization, see supra at Part VI 
+13 
+at p28. 
+14 
+Q. 
+What is your assessment of the Company’s building electrification emissions 
+15 
+reduction quantification? 
+16 
+A. 
+In Exhibit __ (CETP-2), Schedule 2, Con Edison identifies that building electrification is 
+17 
+projected to reduce gas load by 7.5, 11.4, and 15.5 million mmBtu in the years 2026, 
+18 
+2027, and 2028 respectively (shown in Figure 3), and increase electric load by 0.8, 1.1, 
+19 
+and 1.6 TWh, respectively in those same years. The claimed CO2e emissions reduction 
+20 
+shows a net reduction of 0.7, 1.0, and 1.4 million metric tons in 2026, 2027, and 2028, 
+21 
+respectively. See Exh.__ (CETP-2), Schedule 2, p2; see also Ex.__ (DL-1) at p3, Fig. 4.  
+22 
+
+
+--- Page 31 ---
+25-E-0072 
+Direct Testimony of David Lyon  
+25-G-0073 
+ 
+ 
+31 
+ 
+The net emissions shown are consistent with the electric and gas emission factors 
+1 
+used in this exhibit for those years. The amounts of gas load reduced presented here, 
+2 
+however, do not correspond to the identified load reductions in the Company’s Gas 
+3 
+Forecasting Panel exhibits which show reductions of 0.8, 0.7, and 0.9 million mmBtu, 
+4 
+which would yield far lower emissions reductions than claimed in the exhibit. 31 (By 
+5 
+comparison, the annual load increases are reflected in the Electric Forecasting Panel 
+6 
+exactly as shown.) 
+7 
+Thus, it appears that the building electrification programs proposed in the rate 
+8 
+case would serve a mixture of Con Edison electric customers, including some that are not 
+9 
+currently Con Edison gas customers—such as customers who might use other heating 
+10 
+fuels, or who customers who would switch off of gas service but are not in Con Edison’s 
+11 
+gas service territory.  
+12 
+Facilitating building electrification is essential to achieve New York’s statewide 
+13 
+GHG emissions reduction targets—so it is appropriate for Con Edison to identify these 
+14 
+reductions. For customers not moving off of Con Edison’s gas system, however, the 
+15 
+GHG reductions achieved should be classified as a more distant emissions reduction 
+16 
+contribution —not within Scope 1, 2, or 3 emissions. 
+17 
+VI.   
+Improved GHG Accounting in Rate Cases  
+18 
+Q. 
+Why is it important for Con Edison to report GHG emissions in Scope 1, 2, and 3 
+19 
+format?  
+20 
+ 
+31  Con Edison Gas Forecasting Panel Direct, Ex. __ (GFP-6), pp 1-3.  In this exhibit the 
+reductions are shown in MDts of 781, 686, and 883. 
+
+
+--- Page 32 ---
+25-E-0072 
+Direct Testimony of David Lyon  
+25-G-0073 
+ 
+ 
+32 
+ 
+A. 
+Con Edison currently reports its GHG emissions in an aggregated format, without 
+1 
+distinguishing between Scope 1, Scope 2, and Scope 3 emissions. While the Company 
+2 
+does distinguish between “direct” and “indirect” emissions in some places, that approach 
+3 
+is less precise to accurately categorize emissions. This lack of disaggregation presents a 
+4 
+barrier to evaluating the utility’s alignment with the Climate Leadership and Community 
+5 
+Protection Act (CLCPA), which mandates aggressive, sector-specific emissions 
+6 
+reductions and requires utilities to demonstrate measurable progress toward statewide 
+7 
+decarbonization targets. 
+8 
+ 
+According to the Greenhouse Gas Protocol,32 emissions are categorized as follows: 
+9 
+• Scope 1: Direct emissions from sources owned or controlled by the company. 
+10 
+• Scope 2: Indirect emissions, such as from the generation of purchased electricity, 
+11 
+steam, heating, or cooling consumed by the company. 
+12 
+• Scope 3: All other indirect emissions that occur across the company’s value chain, 
+13 
+including upstream activities (e.g., purchased goods and services, capital goods) and 
+14 
+downstream activities (e.g., customer use of sold products, such as natural gas). 
+15 
+Without scope-level granularity, it is difficult to determine which emissions sources are 
+16 
+being addressed by proposed investments or operational changes, and whether those 
+17 
+reductions are material in the context of Con Edison’s total emissions footprint. For 
+18 
+instance, a rate case may propose investments in electrification or grid modernization, 
+19 
+which could reduce Scope 1 emissions (e.g., from gas infrastructure) or Scope 2 
+20 
+ 
+32  GREENHOUSE GAS PROTOCOL, How are scope 3 emissions organized? – Overview of the 
+scopes, https://ghgprotocol.org/scope-3-frequently-asked-questions-0#question%20one (last 
+accessed May 27, 2025). 
+
+
+--- Page 33 ---
+25-E-0072 
+Direct Testimony of David Lyon  
+25-G-0073 
+ 
+ 
+33 
+ 
+emissions (e.g., through cleaner purchased electricity). However, if Scope 3 emissions—
+1 
+such as those from customer use of natural gas—remain unaccounted for, the full climate 
+2 
+impact of the utility’s operations and its alignment with CLCPA goals cannot be 
+3 
+accurately assessed. Moreover, aggregated reporting obscures the emissions intensity of 
+4 
+specific business segments, making it difficult for regulators and stakeholders to evaluate 
+5 
+the cost-effectiveness and climate benefit of proposed rate increases. 
+6 
+Q. 
+What recommendations would you provide to improve GHG emissions accounting 
+7 
+for Con Edison in this rate case and in future matters?  
+8 
+A. 
+There are three buckets of recommendations to improve emissions accounting.  
+9 
+1. Establish a Clear Framework for Assessing Emissions: Utilities should have clarity 
+10 
+about what they will be measured against to show success, and what the framework is by 
+11 
+which to report emissions.  
+12 
+a. Identify, prior to the assessment of a case’s consistency with CLCPA goals, a 
+13 
+clear trajectory of reductions by which a case would be measured. In the analysis 
+14 
+above, we used the Scoping Plan Scenario 3 as a stand-in trajectory – the 
+15 
+Commission could continue to use the Scoping Plan or use that as a starting place 
+16 
+to adopt a more specialized trajectory. When GHG emission reductions are 
+17 
+presented as part of a case, they should be mapped to defined CLCPA trajectories 
+18 
+so that they can be readily assessed quantitatively as to their consistency with 
+19 
+CLCPA goals. For the cases discussed here, that would include a trajectory for: 
+20 
+• A Con Edison gas-specific emissions path, 
+21 
+• A Con Edison electric-specific emissions path, 
+22 
+
+
+--- Page 34 ---
+25-E-0072 
+Direct Testimony of David Lyon  
+25-G-0073 
+ 
+ 
+34 
+ 
+• External avoided emissions: paths by which the Commission could evaluate 
+1 
+the Company’s contribution to the electrification of vehicles and buildings 
+2 
+that are not part of the Company’s own footprint but that constitute. One 
+3 
+consideration is whether/how these avoided emissions should be claimed and 
+4 
+accounted for; and on the gas or electric side of the business. contributions to 
+5 
+the State’s achievement of the CLCPA emissions limits. See Ex. __ (DL-1) at 
+6 
+18. 
+7 
+b. The emissions factors and forecast basis of emission projections should be 
+8 
+consistently defined and used in the evaluation.  
+9 
+2. Disaggregate and Report GHG Emissions by Scope: Con Edison, in this and future 
+10 
+rate cases, should report the projected annual emissions for each proposed rate year, plus 
+11 
+one year before and after the proposed rate years for context, for its gas & electric 
+12 
+systems. This reporting should clearly distinguish between Scopes 1, 2, and 3 emissions 
+13 
+in accordance with the GHG Protocol (see below), to enable more precise climate impact 
+14 
+assessments.  
+15 
+3. Attribute Emissions Reductions to Specific Proposals: Emissions reductions should be 
+16 
+(1) disaggregated and identified by their Scope consistent with the baseline projection 
+17 
+described above, and (2) clearly linked to individual programs or investments proposed in 
+18 
+the rate case, allowing stakeholders to evaluate their effectiveness and alignment with 
+19 
+CLCPA targets. The Company should also report and quantify notable reductions that are 
+20 
+not within the Company’s Scopes 1, 2, and 3, such as facilitating vehicle electrification. 
+21 
+For more detailed Scope 1, 2, and 3 reporting recommendations, see Exhibit __ 
+22 
+(DL-1) at p18-20.  
+23 
+
+
+--- Page 35 ---
+25-E-0072 
+Direct Testimony of David Lyon  
+25-G-0073 
+ 
+ 
+35 
+ 
+These recommendations are consistent with the Commission’s direction that “all 
+1 
+Utilities in future rate filings [are] to include an assessment of the GHG emissions 
+2 
+impacts of each specific investment, capital expenditure, program, and initiative included 
+3 
+in their rate filings.”33 
+4 
+Q. 
+Does this conclude your testimony?  
+5 
+A. 
+Yes.  
+6 
+ 
+33  In the Matter of Assessing Implementation of and Compliance with the Requirements and 
+Targets of the Climate Leadership and Community Protection Act, Case 22-M-0149, Order 
+on Implementation of the CLCPA at 16 (May 12, 2022). 

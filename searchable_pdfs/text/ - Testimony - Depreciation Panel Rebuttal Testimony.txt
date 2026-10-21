@@ -1,0 +1,3169 @@
+--- Page 1 ---
+  
+ BEFORE THE 
+ STATE OF NEW YORK 
+ PUBLIC SERVICE COMMISSION 
+ 
+ 
+ 
+ 
+ 
+ 
+ 
+ 
+ 
+ 
+ 
+ 
+ 
+ 
+Proceeding on Motion of the Commission as to the Rates, 
+Charges, Rules and Regulations of Consolidated Edison 
+Company of New York, Inc. for Electric and Gas Service. 
+ 
+Cases 25-E-0072, 25-G-0073 
+ 
+June 24, 2025 
+ 
+ 
+Rebuttal Testimony of: 
+Depreciation Panel 
+ 
+Qun Li                           Melissa M. Howard  
+4 Irving Place                   207 Senate Avenue 
+New York, New York 10003         Camp Hill, Pennsylvania 
+ 
+Robert Benoit 
+ 
+ 
+ 
+Ned W. Allis  
+4 Irving Place  
+ 
+ 
+ 
+207 Senate Avenue 
+New York, New York 10003 
+ 
+Camp Hill, Pennsylvania 
+ 
+ 
+ 
+ 
+ 
+ 
+ 
+ 
+ 
+ 
+ 
+ 
+ 
+ 
+ 
+ 
+ 
+ 
+ 
+ 
+ 
+ 
+ 
+ 
+ 
+ 
+ 
+ 
+ 
+
+
+--- Page 2 ---
+Case Nos. 25-E-0072 and 25-G-0073 
+ 
+CONSOLIDATED EDISON COMPANY OF NEW YORK, INC. 
+ 
+DEPRECIATION PANEL REBUTTAL TESTIMONY 
+ 
+ 
+1 
+ 
+TABLE OF CONTENTS 
+I. 
+REBUTTAL .............................................. 2 
+A. 
+AVERAGE SERVICE LIFE AND SURVIVOR CURVE ESTIMATES ..... 9 
+1. Gas Service Lives and the Impact of the CLCPA ........... 15 
+i. Introduction ......................................... 15 
+ii. The CLCPA Proceeding Demonstrates the Short- and Long-
+Term Tradeoffs for Depreciation ...................... 18 
+iii. The Commission Does Not Need to Wait for Further 
+Analysis to Adopt the Company’s Proposal ............. 22 
+iv. The Company’s Proposal is Moderate When Compared to 
+CLCPA Scenarios ...................................... 24 
+v. Depreciation Should Recognize the Impacts of the CLCPA 28 
+vi. The CLCPA and Obsolescence ........................... 36 
+vii. Response to Mr. Garrett’s Arguments................. 41 
+viii.Conclusion.......................................... 45 
+2. Electric Service Life Estimates ......................... 46 
+B. 
+NET SALVAGE .......................................... 50 
+C. 
+RESERVE VARIATIONS ................................... 53 
+II. 
+CONCLUSION ........................................... 53 
+ 
+ 
+ 
+
+
+--- Page 3 ---
+Case Nos. 25-E-0072 and 25-G-0073 
+ 
+CONSOLIDATED EDISON COMPANY OF NEW YORK, INC. 
+ 
+DEPRECIATION PANEL REBUTTAL TESTIMONY 
+ 
+ 
+2 
+ 
+Q. 
+Would the members of the Depreciation Panel (“Panel”) 
+1 
+please state their names. 
+2 
+A. 
+Qun Li, Robert Benoit, Ned W. Allis, and Melissa M. Howard. 
+3 
+Q. 
+Have you previously testified in this proceeding? 
+4 
+A. 
+Yes.  We previously submitted direct testimony as the Panel 
+5 
+on behalf of Consolidated Edison Company of New York, Inc. 
+6 
+(“Con Edison”, “CECONY”, or the “Company”).  We provided 
+7 
+our credentials as part of our direct testimony. 
+8 
+Q. 
+What is the purpose of your rebuttal testimony? 
+9 
+A. 
+The purpose of our rebuttal testimony is to respond to the 
+10 
+depreciation-related proposals and discussions included in 
+11 
+the direct testimonies of the Staff Depreciation Panel 
+12 
+(“SDP” or “Staff”), the Utility Intervention Unit (“UIU”) 
+13 
+witness David Garrett, New York City (“NYC”) witness John 
+14 
+Sano, and New York Energy Consumers Council, Inc. (“NYECC”) 
+15 
+witness Andy Anderson.  
+16 
+I. 
+REBUTTAL 
+17 
+Q. 
+Please summarize your rebuttal testimony. 
+18 
+A. 
+Our rebuttal testimony responds to the depreciation-related 
+19 
+proposals made by Staff, UIU, NYC, and NYECC.  Most of 
+20 
+these proposals are in relation to the recommended service 
+21 
+lives in this proceeding, as well as, for gas assets, the 
+22 
+
+
+--- Page 4 ---
+Case Nos. 25-E-0072 and 25-G-0073 
+ 
+CONSOLIDATED EDISON COMPANY OF NEW YORK, INC. 
+ 
+DEPRECIATION PANEL REBUTTAL TESTIMONY 
+ 
+ 
+3 
+ 
+related issue of how or whether the impacts of the Climate 
+1 
+Leadership and Community Protection Act (“CLCPA”) should be 
+2 
+incorporated into the recommended service lives and 
+3 
+depreciation rates.  A brief summary of each proposal is as 
+4 
+follows: 
+5 
+• Staff proposes changes to the service life estimates 
+6 
+for several electric accounts and several gas 
+7 
+accounts (Exhibit_(SDP-3)).  Staff also proposes 
+8 
+different net salvage estimates for several gas and 
+9 
+electric accounts (Exhibit_(SDP-4)).  For the gas 
+10 
+accounts, Staff recommends that any recognition of 
+11 
+the CLCPA be deferred until the Commission has 
+12 
+analyzed the results of depreciation analyses 
+13 
+directed in the Commission’s May 12, 2022 Order 
+14 
+(“Gas Planning Order”) in Case No. 20-G-0131 (“Gas 
+15 
+Planning Proceeding”).  However, as we discuss, the 
+16 
+depreciation analysis in that proceeding, provided 
+17 
+more than two years ago, demonstrated convincingly 
+18 
+that depreciation will need to increase and, 
+19 
+moreover, it will likely need to increase more than 
+20 
+the Company’s proposal in this case.  There is ample 
+21 
+support to reduce service lives, as we have 
+22 
+
+
+--- Page 5 ---
+Case Nos. 25-E-0072 and 25-G-0073 
+ 
+CONSOLIDATED EDISON COMPANY OF NEW YORK, INC. 
+ 
+DEPRECIATION PANEL REBUTTAL TESTIMONY 
+ 
+ 
+4 
+ 
+recommended, and delaying action further will harm 
+1 
+future customers who will have to bear a 
+2 
+disproportionate share of the energy transition. 
+3 
+• UIU proposes changes to the service life estimates 
+4 
+for several electric and gas accounts (Exhibit_(DJG-
+5 
+3)).  UIU’s proposals for gas assets are also based, 
+6 
+at least in part, on an argument that the Company 
+7 
+should defer recognizing the impact of the CLCPA. 
+8 
+• NYC argues (at 10) that we should defer the 
+9 
+recognition of the CLCPA on depreciation, although 
+10 
+NYC does not make specific proposals for service 
+11 
+lives or net salvage. 
+12 
+• NYECC proposes (at 21) rejecting the Company’s 
+13 
+reductions in service lives based on the “excessive” 
+14 
+revenue requirements that result.  NYECC also 
+15 
+incorrectly alleges (at 17) that the Company is more 
+16 
+concerned about the cost impact to future ratepayers 
+17 
+than to current ratepayers. 
+18 
+To the extent that an issue is raised by Staff or 
+19 
+intervenors but not addressed specifically by this Panel, 
+20 
+
+
+--- Page 6 ---
+Case Nos. 25-E-0072 and 25-G-0073 
+ 
+CONSOLIDATED EDISON COMPANY OF NEW YORK, INC. 
+ 
+DEPRECIATION PANEL REBUTTAL TESTIMONY 
+ 
+ 
+5 
+ 
+the positions stated therein should not be viewed or 
+1 
+considered to have been accepted by the Company. 
+2 
+Q. 
+Do you agree with the referenced parties’ proposals? 
+3 
+A. 
+No.  There are three primary areas of disagreement.  First, 
+4 
+all four parties disagree with taking any action to address 
+5 
+the cost recovery implications of the CLCPA.  Second, Staff 
+6 
+and UIU propose longer service lives for certain electric 
+7 
+accounts.  Finally, Staff recommends less negative net 
+8 
+salvage estimates for several gas and electric accounts.  
+9 
+Each of these changes also impact the theoretical reserve 
+10 
+imbalance, although the approach recommended by each party 
+11 
+– to amortize the portion above 10 percent of the 
+12 
+theoretical reserve – is consistent. 
+13 
+We disagree with each of these recommendations.  The 
+14 
+Company’s current service lives are long by industry 
+15 
+standards, and the Company’s net salvage estimates are less 
+16 
+negative than supported by the historical data in most 
+17 
+instances.  The Company has not sufficiently recovered its 
+18 
+costs through depreciation due to its previous depreciation 
+19 
+rates being too low.  Staff’s and UIU’s proposals would 
+20 
+continue this trend.  Further, the failure of all four 
+21 
+parties to incorporate the impacts of the CLCPA will result 
+22 
+
+
+--- Page 7 ---
+Case Nos. 25-E-0072 and 25-G-0073 
+ 
+CONSOLIDATED EDISON COMPANY OF NEW YORK, INC. 
+ 
+DEPRECIATION PANEL REBUTTAL TESTIMONY 
+ 
+ 
+6 
+ 
+in significant under-recovery challenges in the future and 
+1 
+will be harmful to future customers. 
+2 
+Q. 
+Please explain further the issues with the parties’ 
+3 
+proposals related to the impacts of the CLCPA. 
+4 
+A. 
+With regard to the impacts of the CLCPA, each party 
+5 
+effectively proposes that we should not incorporate any 
+6 
+potential impacts of the CLCPA on depreciation and instead 
+7 
+suggest that we should defer any consideration to a future 
+8 
+proceeding.  The reasons put forward for doing so vary to 
+9 
+some degree, but each party suggests that it would be more 
+10 
+appropriate to delay taking any action until more 
+11 
+information is available – either until there is further 
+12 
+direction from the Commission in the Gas Planning 
+13 
+Proceeding, or, more generally, until there is more 
+14 
+certainty about the specific impacts of the CLCPA on the 
+15 
+gas business.  Further, the parties have incorrectly 
+16 
+implied that our recommendation favors future customers at 
+17 
+the expense of current customers. 
+18 
+We believe these suggestions are misguided for several 
+19 
+reasons.  First, there is sufficient information available 
+20 
+today to, at a minimum, adopt the Company’s proposal.  We 
+21 
+can be reasonably certain that the CLCPA’s goals will have 
+22 
+
+
+--- Page 8 ---
+Case Nos. 25-E-0072 and 25-G-0073 
+ 
+CONSOLIDATED EDISON COMPANY OF NEW YORK, INC. 
+ 
+DEPRECIATION PANEL REBUTTAL TESTIMONY 
+ 
+ 
+7 
+ 
+an impact on the gas system and that it is highly likely 
+1 
+that depreciation will need to increase due to a 
+2 
+combination of shorter service lives and declining 
+3 
+consumption.  Under Case 22-M-0149, the Commission stated 
+4 
+in its May 12, 2022 Order (“CLCPA Order”) that “achievement 
+5 
+of the CLCPA’s GHG emissions mandates will require 
+6 
+significant reductions in the use of natural gas” (at 25).  
+7 
+It logically follows that depreciation needs to be higher 
+8 
+for gas assets than it is today – and perhaps significantly 
+9 
+higher.  As we have shown in our direct testimony and will 
+10 
+demonstrate further in this rebuttal testimony, the 
+11 
+Company’s proposal is very conservative when compared to 
+12 
+potential gas planning scenarios. 
+13 
+Second, the Company has already conducted several 
+14 
+analyses of the potential impacts of the CLCPA on 
+15 
+depreciation.  This includes the Gas Planning Depreciation 
+16 
+Study, a special depreciation study performed for Con 
+17 
+Edison by Concentric Energy Advisors (“Concentric Study” in 
+18 
+our testimony) filed in May 2021 in Case No. 19-G-0066 and 
+19 
+in the scenarios presented in our direct testimony.  
+20 
+Generally, these analyses result in higher – and often much 
+21 
+higher – depreciation than the Company has proposed in this 
+22 
+
+
+--- Page 9 ---
+Case Nos. 25-E-0072 and 25-G-0073 
+ 
+CONSOLIDATED EDISON COMPANY OF NEW YORK, INC. 
+ 
+DEPRECIATION PANEL REBUTTAL TESTIMONY 
+ 
+ 
+8 
+ 
+case.  The various analyses Con Edison has already 
+1 
+performed provide a clear demonstration that the Company’s 
+2 
+proposal is quite conservative and, as we discussed in our 
+3 
+direct testimony, the minimum movement in depreciable lives 
+4 
+that is reasonable in the context of the CLCPA. 
+5 
+Third, and perhaps most important, it is both costly 
+6 
+and inequitable to wait to recognize the impacts of the 
+7 
+CLCPA.  The target date for reducing greenhouse gas 
+8 
+emissions of 2050 is only 25 years from now.  Con Edison is 
+9 
+already aggressively implementing its clean heat program to 
+10 
+convert customers to electrified heating.  The longer the 
+11 
+Commission waits to recognize the potentially significant 
+12 
+impacts of the CLCPA, the fewer years that will remain to 
+13 
+recover costs.  Waiting to incorporate the impacts of the 
+14 
+CLCPA on depreciation means that depreciation will have to 
+15 
+increase even more in future years and that rate base will 
+16 
+be higher.  Both will cause even sharper increases in cost 
+17 
+to customers and, if fewer customers remain at that point 
+18 
+in the future, the increases for each customer will be even 
+19 
+more pronounced and inequitable.  To be clear, the sooner 
+20 
+the Commission begins to recognize the costs of the CLCPA 
+21 
+
+
+--- Page 10 ---
+Case Nos. 25-E-0072 and 25-G-0073 
+ 
+CONSOLIDATED EDISON COMPANY OF NEW YORK, INC. 
+ 
+DEPRECIATION PANEL REBUTTAL TESTIMONY 
+ 
+ 
+9 
+ 
+in depreciation, the less costly the inevitable transition 
+1 
+will be.  
+2 
+A. 
+AVERAGE SERVICE LIFE AND SURVIVOR CURVE ESTIMATES 
+3 
+Q. 
+Please summarize the average service life and survivor 
+4 
+curve proposals of each party. 
+5 
+A. 
+There are several parties that discuss the proposed service 
+6 
+life estimates.  These recommendations can be divided into 
+7 
+two broad categories.  The first is that both Staff and UIU 
+8 
+have made specific service life recommendations for several 
+9 
+accounts that differ from those proposed by the Company.  
+10 
+These affect electric and gas accounts.  For electric 
+11 
+accounts, the differences are based on interpretations of 
+12 
+the data and other relevant factors – that is, these 
+13 
+differences are the type one would find in a typical, 
+14 
+“business-as-usual” depreciation study. 
+15 
+The second is related to the Company’s recommendations 
+16 
+based on the impact of the CLCPA on gas depreciation.  
+17 
+Staff, UIU, NYC, and NYECC all differ from the Company on 
+18 
+these recommendations and each proposes to, effectively if 
+19 
+not explicitly, ignore any potential impacts of the CLCPA 
+20 
+
+
+--- Page 11 ---
+Case Nos. 25-E-0072 and 25-G-0073 
+ 
+CONSOLIDATED EDISON COMPANY OF NEW YORK, INC. 
+ 
+DEPRECIATION PANEL REBUTTAL TESTIMONY 
+ 
+ 
+10 
+ 
+at this time and instead recommend service life estimates 
+1 
+that would be more reasonable if the CLCPA did not exist.   
+2 
+Q. 
+How will you address the various proposals related to 
+3 
+service lives? 
+4 
+A. 
+Given that there are different considerations and 
+5 
+rationales underlying the recommendations of the Company 
+6 
+and certain parties for gas and electric assets, we will 
+7 
+address each type of service separately.  We first discuss 
+8 
+gas service lives and the CLCPA, as this is the most 
+9 
+significant issue from a policy standpoint and is addressed 
+10 
+by more parties.  We will then discuss the more specific 
+11 
+recommendations for electric assets.  However, we should be 
+12 
+clear that, while we expect the CLCPA to have the most 
+13 
+significant impact on gas depreciation, its potential 
+14 
+effects on the electric industry will have to be taken into 
+15 
+account at some point, although we have no specific 
+16 
+recommendations for shorter service lives for electric 
+17 
+assets in this rate filing.   
+18 
+Q. 
+Please summarize the proposals for gas assets. 
+19 
+A. 
+Staff and UIU have each proposed average service life and 
+20 
+survivor curve estimates for several gas accounts that 
+21 
+differ from our recommendations.  NYC and NYECC do not 
+22 
+
+
+--- Page 12 ---
+Case Nos. 25-E-0072 and 25-G-0073 
+ 
+CONSOLIDATED EDISON COMPANY OF NEW YORK, INC. 
+ 
+DEPRECIATION PANEL REBUTTAL TESTIMONY 
+ 
+ 
+11 
+ 
+propose specific estimates for any accounts and instead 
+1 
+propose to maintain the current estimates.  Most of the 
+2 
+differences between our proposals for gas assets, the 
+3 
+depreciation rates used in the Company’s revenue 
+4 
+requirement, and the proposals of other parties result from 
+5 
+different judgements on how the impact of the CLCPA should 
+6 
+be incorporated into depreciation.  As we will explain, 
+7 
+this would be inequitable and unfair to future customers as 
+8 
+we should reasonably expect that the CLCPA will result in 
+9 
+the future service life experiences to be different from 
+10 
+those in the past.  For electric assets, the primary 
+11 
+differences are judgements of interpretation of the 
+12 
+historical data and other factors, which are detailed in 
+13 
+this testimony. 
+14 
+Q. 
+Please provide a comparison of each proposal for gas 
+15 
+assets. 
+16 
+A. 
+Table 1 of Exhibit___(DP-7) provides a comparison of the 
+17 
+service life proposals of each party for gas assets.  
+18 
+Included in the table are the current average service life 
+19 
+estimates as well as the “Base Case” scenario, which 
+20 
+represents the average service lives that are, in our 
+21 
+judgement, appropriate under “business-as-usual” conditions 
+22 
+
+
+--- Page 13 ---
+Case Nos. 25-E-0072 and 25-G-0073 
+ 
+CONSOLIDATED EDISON COMPANY OF NEW YORK, INC. 
+ 
+DEPRECIATION PANEL REBUTTAL TESTIMONY 
+ 
+ 
+12 
+ 
+if the CLCPA did not exist.  We have also shown the “5-Year 
+1 
+Shorter” scenario, which is our proposal, and the “10-Year 
+2 
+Shorter” scenario.  The table also shows Staff’s and UIU’s 
+3 
+recommendations.  While there are some exceptions, for many 
+4 
+of these accounts, their proposals are similar to the Base 
+5 
+Case scenario, which is generally consistent with their 
+6 
+recommendations to defer recognizing the impact of the 
+7 
+CLCPA until a later time.  We note that because NYC and 
+8 
+NYECC have not made specific proposals, we do not show 
+9 
+specific lives for their proposals.  However, their 
+10 
+proposals are, in effect, either the Current or Base Case 
+11 
+scenarios. 
+12 
+Q. 
+Please summarize the proposals for electric assets. 
+13 
+A. 
+The only parties that recommend changes to the service 
+14 
+lives for electric assets are Staff and UIU.  Staff 
+15 
+proposes changes for two accounts.  UIU proposes a 
+16 
+different estimate for one of these same accounts (Account 
+17 
+367), as well as two additional electric accounts.  Table 2 
+18 
+of Exhibit___(DP-7) provides a summary of the current 
+19 
+estimates, our recommendations and the recommendations of 
+20 
+Staff and UIU for these four accounts. 
+21 
+
+
+--- Page 14 ---
+Case Nos. 25-E-0072 and 25-G-0073 
+ 
+CONSOLIDATED EDISON COMPANY OF NEW YORK, INC. 
+ 
+DEPRECIATION PANEL REBUTTAL TESTIMONY 
+ 
+ 
+13 
+ 
+Q. 
+Do you have any other general observations on the service 
+1 
+life proposals? 
+2 
+A. 
+Yes.  As we discussed in our direct testimony, the current 
+3 
+service lives for Con Edison for many accounts are 
+4 
+relatively long when compared to the industry.  Indeed, as 
+5 
+can be seen in Exhibit___(DP-7), even with the 5-Year 
+6 
+reduction in service lives we recommend, the recommended 
+7 
+average service lives for the largest gas accounts, such as 
+8 
+mains and services, are still within the typical industry 
+9 
+range and are closer to the middle or upper end of the 
+10 
+range than the lower end of the range.  Accordingly, our 
+11 
+recommendations incorporate an expectation that most of the 
+12 
+gas assets will continue to provide service beyond 2050.  
+13 
+Additionally, for most of the electric accounts at issue, 
+14 
+our recommended lives are at or beyond the upper end of the 
+15 
+industry range, and the proposals of Staff and UIU are 
+16 
+mostly beyond the upper end of the range for these 
+17 
+accounts. 
+18 
+Q. 
+Why do you believe this is important? 
+19 
+A. 
+We believe this perspective is important as the Commission 
+20 
+considers the various depreciation proposals in this case, 
+21 
+because the CLCPA will result in a profound transformation 
+22 
+
+
+--- Page 15 ---
+Case Nos. 25-E-0072 and 25-G-0073 
+ 
+CONSOLIDATED EDISON COMPANY OF NEW YORK, INC. 
+ 
+DEPRECIATION PANEL REBUTTAL TESTIMONY 
+ 
+ 
+14 
+ 
+of the way in which energy is delivered to New York 
+1 
+consumers.  Indeed, whether through the scenarios outlined 
+2 
+in the draft scoping memo of the NY Climate Action Council 
+3 
+or the various scenarios requested by the Commission in the 
+4 
+Gas Planning Proceeding, many parties, as well as the 
+5 
+Commission in its CLCPA Order, expect significant impacts 
+6 
+on gas transmission and distribution systems.  These 
+7 
+impacts are likely to mean that it will be equitable and 
+8 
+necessary to have higher depreciation expense for Con 
+9 
+Edison than is the case today and that service lives are 
+10 
+likely to be shorter for many assets than the historical 
+11 
+experience of Con Edison. 
+12 
+With this in mind, the Company’s proposal is 
+13 
+realistically only a modest recognition of the potential 
+14 
+impacts of the CLCPA.  While we accept that there is 
+15 
+uncertainty and a range of future scenarios, based on our 
+16 
+experience most, if not all, of these scenarios would 
+17 
+result in higher depreciation than the Company’s proposal.  
+18 
+As the Commission stated, it expects a significant 
+19 
+reduction in gas consumption.  The longer the Commission 
+20 
+waits to begin incorporating these impacts, the more costly 
+21 
+
+
+--- Page 16 ---
+Case Nos. 25-E-0072 and 25-G-0073 
+ 
+CONSOLIDATED EDISON COMPANY OF NEW YORK, INC. 
+ 
+DEPRECIATION PANEL REBUTTAL TESTIMONY 
+ 
+ 
+15 
+ 
+it will be to customers and the higher the risk that the 
+1 
+energy transition envisioned by the CLCPA will not succeed. 
+2 
+1. Gas Service Lives and the Impact of the CLCPA 
+3 
+i. 
+Introduction 
+4 
+Q. 
+Please explain the differences between the service life 
+5 
+proposals for gas assets. 
+6 
+A. 
+The primary difference is that the Company’s 
+7 
+recommendations incorporate the impacts that a moderate (or 
+8 
+hybrid) decarbonization scenario would have on the service 
+9 
+lives of the Company’s assets.  The other parties providing 
+10 
+testimony on the issue - Staff, UIU, NYC and NYECC - do not 
+11 
+believe the impacts of the CLCPA on gas depreciation should 
+12 
+be incorporated into the Company’s revenue requirement.  In 
+13 
+Exhibit___(DP-4), we provided several different 
+14 
+depreciation scenarios.  We have updated these analyses to 
+15 
+include Staff’s and UIU’s proposals in Exhibit___(DP-8).  
+16 
+These analyses show that the Company’s proposal is 
+17 
+conservative when compared to most CLCPA scenarios and that 
+18 
+the proposals of the other parties do not sufficiently 
+19 
+increase depreciation to account for CLCPA impacts.  As we 
+20 
+discuss later, if depreciation is too low today, not only 
+21 
+
+
+--- Page 17 ---
+Case Nos. 25-E-0072 and 25-G-0073 
+ 
+CONSOLIDATED EDISON COMPANY OF NEW YORK, INC. 
+ 
+DEPRECIATION PANEL REBUTTAL TESTIMONY 
+ 
+ 
+16 
+ 
+will future customers be disproportionately harmed, the 
+1 
+total costs of the gas transition increase. 
+2 
+Q. 
+In your judgement, would there be any reason to expect 
+3 
+depreciation to be lower than your proposal? 
+4 
+A. 
+No.  First, the impacts of the CLCPA, or of decarbonizing 
+5 
+by 2050 in general, have been extensively studied.  The 
+6 
+Commission has had an open docket, under Case 20-G-0131, on 
+7 
+the issue since March 2020 and the Company, as well as the 
+8 
+other large New York Local Distribution Companies (“LDCs”), 
+9 
+filed studies assessing the potential impact on 
+10 
+depreciation in November 2022.  The Company’s analysis 
+11 
+demonstrated that under the scenarios considered by the 
+12 
+Commission, depreciation would need to increase.  Further, 
+13 
+the Company’s proposal in the instant case, which is to 
+14 
+slightly shorten service lives of gas assets, is perhaps 
+15 
+the most moderate step the Commission could take at this 
+16 
+point in time.  As we discuss below, further investigation 
+17 
+in other jurisdictions has revealed similar results.   
+18 
+Based on these analyses, the only way for depreciation 
+19 
+to be lower than the Company’s depreciation scenario, as 
+20 
+proposed by the other parties, is if the state were to 
+21 
+abandon the CLCPA’s goals.  However, depreciation would 
+22 
+
+
+--- Page 18 ---
+Case Nos. 25-E-0072 and 25-G-0073 
+ 
+CONSOLIDATED EDISON COMPANY OF NEW YORK, INC. 
+ 
+DEPRECIATION PANEL REBUTTAL TESTIMONY 
+ 
+ 
+17 
+ 
+still be too low under the business-as-usual scenario.  
+1 
+This is because business-as-usual in New York has been for 
+2 
+utilities to have long depreciable lives and net salvage 
+3 
+estimates that are not sufficiently negative when compared 
+4 
+to the historical data. 
+5 
+The Company’s depreciable service lives, and those of 
+6 
+other New York utilities, are longer than most in the 
+7 
+industry.  In our experience, one reason for this is that 
+8 
+longer service lives, and less negative net salvage, have 
+9 
+typically been adopted in rate cases (usually through 
+10 
+settlement).  For example, the current average service life 
+11 
+“ASL” estimate for gas mains is 80 years.  The Company’s 
+12 
+proposal to shorten service lives still results in an ASL 
+13 
+of 75 years.  This is still a long service life for this 
+14 
+account by industry standards.  In a scenario in which the 
+15 
+gas system does not attain the CLCPA goals, we would still 
+16 
+expect pipe to be replaced at a faster rate than has 
+17 
+occurred historically. 
+18 
+In summary, we do not see any scenario in which the 
+19 
+Company’s depreciation proposal for gas assets would be too 
+20 
+high.  It is more likely that depreciation will need to be 
+21 
+higher in the future and potentially significantly higher 
+22 
+
+
+--- Page 19 ---
+Case Nos. 25-E-0072 and 25-G-0073 
+ 
+CONSOLIDATED EDISON COMPANY OF NEW YORK, INC. 
+ 
+DEPRECIATION PANEL REBUTTAL TESTIMONY 
+ 
+ 
+18 
+ 
+than the Company’s proposal.  We are quite certain that the 
+1 
+depreciation proposals of Staff, UIU, NYC and NYECC are too 
+2 
+low for adequate recovery. 
+3 
+ii. 
+The CLCPA Proceeding Demonstrates the Short- and Long-Term 
+4 
+Tradeoffs for Depreciation 
+5 
+Q. 
+Certain parties claim that the Company’s proposal is based 
+6 
+on a lack of consideration for current customers or a 
+7 
+desire to recover costs more quickly or benefit 
+8 
+shareholders, i.e., page 21 of NYECC witness Anderson’s 
+9 
+testimony and page 42 of NYC witness Sano’s testimony.  
+10 
+Please address these criticisms. 
+11 
+A. 
+The Company’s depreciation proposal is based on the 
+12 
+recommendations of Mr. Allis and Ms. Howard, outside 
+13 
+depreciation experts who are not employed by the Company.  
+14 
+These recommendations are consistent with their proposals 
+15 
+both in prior cases for the Company and in other cases and 
+16 
+jurisdictions and incorporate work they have performed on 
+17 
+both the short- and long-term implications of the CLCPA and 
+18 
+decarbonization in general.  The Company’s recommendations 
+19 
+consider the implications to both current customers and 
+20 
+future customers, as well as how the customer base will 
+21 
+change both in terms of composition and gas usage per 
+22 
+
+
+--- Page 20 ---
+Case Nos. 25-E-0072 and 25-G-0073 
+ 
+CONSOLIDATED EDISON COMPANY OF NEW YORK, INC. 
+ 
+DEPRECIATION PANEL REBUTTAL TESTIMONY 
+ 
+ 
+19 
+ 
+customer.  Contrary to the implication that our proposal 
+1 
+favors future customers at the expense of current 
+2 
+customers, it is more likely that our recommendations are 
+3 
+for too little, not too much, depreciation.  That is, if 
+4 
+our proposal is more favorable to one generation of 
+5 
+customers, it is current customers rather than future 
+6 
+customers. 
+7 
+Q. 
+Please explain. 
+8 
+A. 
+In our analysis provided in the November 2022 Depreciation 
+9 
+Study in Case No. 20-G-0131 (“CLCPA Depreciation Study”), 
+10 
+we analyzed three scenarios related to the future of the 
+11 
+gas industry: 1) a Reference Scenario; a 2) Hybrid 
+12 
+Scenario; and a 3) Deep Electrification Scenario.  
+13 
+Generally, throughput and the number of gas customers 
+14 
+declined most significantly in the Deep Electrification 
+15 
+Scenario, with smaller declines in the hybrid scenario 
+16 
+(although consumption declines more significantly on a per-
+17 
+customer basis than the Reference Scenario).  The 
+18 
+projections for these scenarios were subsequently updated 
+19 
+in the Company’s Long-Term Gas Plan. 
+20 
+To illustrate the short- and long-term impacts of 
+21 
+depreciation proposals, we have provided results from 
+22 
+
+
+--- Page 21 ---
+Case Nos. 25-E-0072 and 25-G-0073 
+ 
+CONSOLIDATED EDISON COMPANY OF NEW YORK, INC. 
+ 
+DEPRECIATION PANEL REBUTTAL TESTIMONY 
+ 
+ 
+20 
+ 
+similar analysis performed in the Case No. 20-G-0131 
+1 
+depreciation studies with the projections from the 
+2 
+Company’s LTGP in Exhibit___(DP-9). The overall results are 
+3 
+similar to the conclusions from our original analysis, 
+4 
+which underscores our expectation that there is not a 
+5 
+contemplated scenario that meets CLCPA goals that would not 
+6 
+require higher depreciation.  Figure 1 of Exhibit___(DP-9) 
+7 
+provides, as a proxy for the bill impact to customers, the 
+8 
+estimated future revenue requirement per customer on an 
+9 
+annual basis, assuming the Commission does not change the 
+10 
+approach to depreciation and depreciation is not increased 
+11 
+to account for shortening service lives and declining 
+12 
+consumption.  As the chart illustrates, particularly for a 
+13 
+deep electrification scenario, future customers will bear a 
+14 
+much higher share of revenue requirements if there are no 
+15 
+changes to depreciation. 
+16 
+However, this impact can be mitigated with higher 
+17 
+depreciation expense today.  Figures 2 and 3 of 
+18 
+Exhibit___(DP-9) show the long-term impacts of several 
+19 
+approaches, including the Company’s proposal to shorten 
+20 
+service lives as well as the Units of Production method, 
+21 
+for each of these scenarios.  This analysis first shows 
+22 
+
+
+--- Page 22 ---
+Case Nos. 25-E-0072 and 25-G-0073 
+ 
+CONSOLIDATED EDISON COMPANY OF NEW YORK, INC. 
+ 
+DEPRECIATION PANEL REBUTTAL TESTIMONY 
+ 
+ 
+21 
+ 
+that the hybrid scenario is significantly less costly to 
+1 
+customers in the long-term than the deep electrification 
+2 
+scenario.  Further, for the deep electrification scenario, 
+3 
+depreciation would have to be significantly higher than the 
+4 
+Company’s proposal.  The Units of Production method would 
+5 
+be needed for this scenario to mitigate future cost 
+6 
+increases. It should be noted that, in our analysis, even 
+7 
+the Units of Production method did not fully bend the curve 
+8 
+to mitigate future cost increases.  As Mr. Allis has 
+9 
+demonstrated more recently, combining the UoP Method with 
+10 
+both shorter service lives and the ELG procedure is 
+11 
+necessary to truly achieve equitable depreciation with 
+12 
+significant declines in demand.   
+13 
+The hybrid scenario would allow for more equitable 
+14 
+depreciation with lower costs to current customers than the 
+15 
+phased electrification scenario.  However, even here 
+16 
+depreciation would need to be higher than the Company’s 
+17 
+proposal to achieve intergenerational equity. 
+18 
+Q. 
+What can you conclude from these analyses? 
+19 
+A. 
+A primary conclusion is that depreciation will need to 
+20 
+increase and be higher than the Company’s proposal in this 
+21 
+case, to achieve an equitable sharing of costs over the 
+22 
+
+
+--- Page 23 ---
+Case Nos. 25-E-0072 and 25-G-0073 
+ 
+CONSOLIDATED EDISON COMPANY OF NEW YORK, INC. 
+ 
+DEPRECIATION PANEL REBUTTAL TESTIMONY 
+ 
+ 
+22 
+ 
+long-term.  This conclusion has been further supported in 
+1 
+more recent work by Gannett Fleming in Massachusetts’s gas 
+2 
+planning proceeding, DPU 20-80, e.g., Exhibit NG-CCP, Att 6 
+3 
+in Massachusetts DPU 25-41, filed April 1, 2025. 
+4 
+   
+ 
+As a result, the other parties’ criticisms are 
+5 
+unwarranted.  We are unable to identify a realistic 
+6 
+scenario in which New York achieves CLCPA goals and 
+7 
+depreciation does not need to increase beyond our proposal 
+8 
+in this case for an equitable sharing of costs. 
+9 
+iii. 
+The Commission Does Not Need to Wait for Further Analysis 
+10 
+to Adopt the Company’s Proposal  
+11 
+Q. 
+Staff, UIU, NYC, and NYECC each argue that there needs to 
+12 
+be guidance from the Commission in Case 20-G-0131 before 
+13 
+adopting any depreciation impacts from the CLCPA.  Do you 
+14 
+agree? 
+15 
+A. 
+No.  First, the mere existence of a gas planning proceeding 
+16 
+does not preclude the Commission from adopting more 
+17 
+appropriate depreciation rates in a utility rate case.  
+18 
+Indeed, given the long-term impacts as well as the harm to 
+19 
+customers in delaying more equitable depreciation, there is 
+20 
+a far stronger argument that the Commission should act as 
+21 
+soon as practicable.  Second, there is ample analysis and 
+22 
+
+
+--- Page 24 ---
+Case Nos. 25-E-0072 and 25-G-0073 
+ 
+CONSOLIDATED EDISON COMPANY OF NEW YORK, INC. 
+ 
+DEPRECIATION PANEL REBUTTAL TESTIMONY 
+ 
+ 
+23 
+ 
+evidence that depreciation needs to be higher under any 
+1 
+reasonably anticipated future CLCPA scenario--the analysis 
+2 
+demonstrating the need for higher depreciation has been 
+3 
+available to the Commission and other parties for at least 
+4 
+the last three years.  Third, the harm to future customers 
+5 
+will increase the longer the Commission waits.  Case No 20-
+6 
+G-031 has been open for five years, and the depreciation 
+7 
+analysis from that docket has been available since 2022.  
+8 
+Finally, the Company’s proposal represents a gradual move 
+9 
+towards a more equitable level of depreciation.   
+10 
+Q. 
+Parties raise the issues of the impacts of higher 
+11 
+depreciation to current customers.  Please address the 
+12 
+concerns they raise. 
+13 
+A. 
+We are mindful that higher depreciation can have a short-
+14 
+term impact on customer bills and that there are concerns 
+15 
+with the cost of energy.  However, we believe it is short-
+16 
+sighted to focus only on the short-term impact to current 
+17 
+customers.  As Exhibit___(DP-9) demonstrates, this will 
+18 
+cause far more significant affordability challenges in the 
+19 
+future.    
+20 
+Moreover, to the extent there are concerns with 
+21 
+current customer bills, this is due in part to past 
+22 
+
+
+--- Page 25 ---
+Case Nos. 25-E-0072 and 25-G-0073 
+ 
+CONSOLIDATED EDISON COMPANY OF NEW YORK, INC. 
+ 
+DEPRECIATION PANEL REBUTTAL TESTIMONY 
+ 
+ 
+24 
+ 
+depreciation that was insufficient to equitably recover 
+1 
+costs.  That is, depreciation has been too low in the past, 
+2 
+which results in both a higher rate base (because 
+3 
+accumulated depreciation reduces rate base) and in higher 
+4 
+depreciation resulting from a larger reserve deficiency.  
+5 
+As discussed previously, the current depreciable lives for 
+6 
+New York utilities are longer than most in the industry.  
+7 
+There are costs to having depreciation rates that are too 
+8 
+low. The affordability concerns raised by the other parties 
+9 
+are largely the result of depreciation that has been too 
+10 
+low in the past, which is in part due to proposals made by 
+11 
+the parties in prior proceedings.  The Commission should 
+12 
+not continue to prioritize the short-term, as the other 
+13 
+parties suggest.  Doing so would only exacerbate future 
+14 
+customer bill challenges and risk significantly more 
+15 
+pronounced affordability challenges in the future. 
+16 
+iv. 
+The Company’s Proposal is Moderate When Compared to CLCPA 
+17 
+Scenarios 
+18 
+Q. 
+Does the Company’s proposal incorporate an expectation that 
+19 
+the gas system will no longer be used in the future or will 
+20 
+be significantly smaller? 
+21 
+
+
+--- Page 26 ---
+Case Nos. 25-E-0072 and 25-G-0073 
+ 
+CONSOLIDATED EDISON COMPANY OF NEW YORK, INC. 
+ 
+DEPRECIATION PANEL REBUTTAL TESTIMONY 
+ 
+ 
+25 
+ 
+A. 
+No.  The Company’s proposal produces results consistent 
+1 
+with an expectation of only a very moderate decline in 
+2 
+demand.  Indeed, the depreciation rates we have recommended 
+3 
+are considerably more moderate than the Commission 
+4 
+indicated it expects in the CLCPA Order (at 25): 
+5 
+…achievement of the CLCPA’s GHG emissions 
+6 
+mandates will require significant reductions in 
+7 
+the use of natural gas. 
+8 
+NYC witness Sano (at 28) notes the restrictions his client 
+9 
+has put on the use of gas in new buildings after 2027.  We 
+10 
+note that in comments in Case No. 20-G-0131, NYC observed 
+11 
+that Local Law 97 (at 2) “is landmark decarbonization 
+12 
+legislation that sets greenhouse gas emissions caps on 
+13 
+large buildings and ratchets those caps down over time, 
+14 
+further driving efficiency and electrification 
+15 
+investments.”  NYC further commented (at 11) that: 
+16 
+…the City requests that the Commission require 
+17 
+the LDCs go beyond identifying NPA opportunities 
+18 
+for LPP and propose opportunities to 
+19 
+strategically retire gas assets in their long-
+20 
+term plans in a way that allows for a managed and 
+21 
+cost-effective reduction in gas use. The LDCs 
+22 
+would identify areas of their remaining gas 
+23 
+system where it is practical to retire assets 
+24 
+first. As gas demand declines due to energy 
+25 
+efficiency and electrification, this early work 
+26 
+would facilitate a broader, managed asset 
+27 
+retirement program in the future. 
+28 
+
+
+--- Page 27 ---
+Case Nos. 25-E-0072 and 25-G-0073 
+ 
+CONSOLIDATED EDISON COMPANY OF NEW YORK, INC. 
+ 
+DEPRECIATION PANEL REBUTTAL TESTIMONY 
+ 
+ 
+26 
+ 
+Q. 
+How do the referenced parties’ proposals compare to the 
+1 
+scenarios you have analyzed? 
+2 
+A. 
+As described beginning on page 44 our direct testimony, we 
+3 
+provided in Exhibit___(DP-4) the results of several 
+4 
+different scenarios.  We have updated these analyses to 
+5 
+include Staff and UIU’s proposals in Exhibit___(DP-8).  As 
+6 
+the table and figure in this exhibit show, Staff and UIU 
+7 
+propose similar depreciation to the “business-as-usual” 
+8 
+Base Case.  NYC and NYECC propose to continue to use the 
+9 
+Current Depreciation. 
+10 
+Q. 
+Overall, what can you observe from Exhibit ___(DP-8)? 
+11 
+A. 
+We first note that our proposal and the Company’s revenue 
+12 
+requirement proposal result in lower depreciation expense 
+13 
+than any of the Units of Production scenarios (which assume 
+14 
+that the gas system is still operating in 2050), the ELG 
+15 
+scenario or the Recover by 2050 scenario.  This helps to 
+16 
+illustrate that the Company has made a very moderate 
+17 
+proposal in this case and that its proposal is not 
+18 
+“excessive.” 
+19 
+Second, if one considers the range from the lowest 
+20 
+scenario to the highest to be a potential distribution of 
+21 
+possibilities – with just over $393 million on the low end 
+22 
+
+
+--- Page 28 ---
+Case Nos. 25-E-0072 and 25-G-0073 
+ 
+CONSOLIDATED EDISON COMPANY OF NEW YORK, INC. 
+ 
+DEPRECIATION PANEL REBUTTAL TESTIMONY 
+ 
+ 
+27 
+ 
+for Current Depreciation to more than $1.29 billion on the 
+1 
+high end for the Deep Electrification Units of Production 
+2 
+scenario - then all of the proposals in the instant case 
+3 
+are relatively close to the lower end of this range.  
+4 
+Staff’s proposal is close to the Base Case and the other 
+5 
+parties’ proposals are close to or the same as the current 
+6 
+depreciation rates.  Even the Company’s proposal is within 
+7 
+$36 million of the Base Case scenario (i.e., the lower end 
+8 
+of the range) and much closer to this low end than to the 
+9 
+Units of Production or ELG scenarios.  Given that we (and 
+10 
+the Commission) find it highly unlikely that there will be 
+11 
+no impact on the gas industry from the CLCPA that would not 
+12 
+affect depreciation – meaning that the Base Case scenario 
+13 
+is very unlikely – our recommendation is, in reality, a 
+14 
+very moderate proposal. 
+15 
+We believe this perspective is important in showing 
+16 
+the Company’s request is not “excessive” nor is it 
+17 
+premature in the context of the potential impacts of the 
+18 
+CLCPA.  As we discuss in the next section, depreciation 
+19 
+should incorporate the impacts of the CLCPA.  The Company’s 
+20 
+proposal is a very moderate recognition of the realities of 
+21 
+what significant greenhouse gas reductions may do to the 
+22 
+
+
+--- Page 29 ---
+Case Nos. 25-E-0072 and 25-G-0073 
+ 
+CONSOLIDATED EDISON COMPANY OF NEW YORK, INC. 
+ 
+DEPRECIATION PANEL REBUTTAL TESTIMONY 
+ 
+ 
+28 
+ 
+service lives and equitable allocation of costs of gas 
+1 
+assets.  There is no reason to refuse to take that into 
+2 
+account now, even if the Commission has ordered additional 
+3 
+studies.  
+4 
+v. 
+Depreciation Should Recognize the Impacts of the CLCPA 
+5 
+Q. 
+Other parties have discussed depreciation and its impacts 
+6 
+on customers.  Please explain further how depreciation 
+7 
+impacts a utility company and its customers. 
+8 
+A. 
+Depreciation is both an important and complicated concept.  
+9 
+It affects utility accounting, and as a result both 
+10 
+customer rates and earnings, in more than one way.  Often 
+11 
+in rate cases, witnesses will primarily focus on only one 
+12 
+aspect of depreciation, which is that depreciation is an 
+13 
+expense incorporated into a utility’s revenue requirement.  
+14 
+However, it is also an expense on the company’s books and, 
+15 
+as an expense, annual depreciation accruals are a reduction 
+16 
+to a company’s earnings.  Depreciation, therefore, has an 
+17 
+effect on both revenues and expenses.  This is consistent 
+18 
+with the concept of the “matching principle” used in 
+19 
+accounting, which provides a requirement to recognize 
+20 
+expenses on the income statement in the same period in 
+21 
+
+
+--- Page 30 ---
+Case Nos. 25-E-0072 and 25-G-0073 
+ 
+CONSOLIDATED EDISON COMPANY OF NEW YORK, INC. 
+ 
+DEPRECIATION PANEL REBUTTAL TESTIMONY 
+ 
+ 
+29 
+ 
+which the related revenues are earned.  Depreciation 
+1 
+Systems by Frank K. Wolf and W. Chester Fitch, a widely 
+2 
+cited depreciation text, explains the matching principle 
+3 
+as: 
+4 
+The matching principle requires that all revenues 
+5 
+earned during a given time period be matched with 
+6 
+all the expenses incurred in that same time 
+7 
+period to produce these revenues. (at 5)  
+8 
+It follows from this principle that the depreciation 
+9 
+of capital assets which have lives that extend beyond one 
+10 
+year should be recognized over the useful lives of these 
+11 
+assets.  As noted by the National Association of Regulatory 
+12 
+Utility Commissioners (“NARUC”) on page 12 of its Public 
+13 
+Utility Depreciation Practices, a cost allocation concept 
+14 
+for depreciation “satisfies the accounting principle of 
+15 
+matching expense and revenues.”   
+16 
+From a ratemaking standpoint, depreciation impacts 
+17 
+both the revenues from customers, as annual depreciation 
+18 
+expense is part of the revenue requirement, and the 
+19 
+expenses charged to a given year.  If depreciation is such 
+20 
+that the depreciation expense over the life of an asset 
+21 
+recovers the full cost of the asset (which includes the 
+22 
+cost to retire the asset at the end of its life), then 
+23 
+
+
+--- Page 31 ---
+Case Nos. 25-E-0072 and 25-G-0073 
+ 
+CONSOLIDATED EDISON COMPANY OF NEW YORK, INC. 
+ 
+DEPRECIATION PANEL REBUTTAL TESTIMONY 
+ 
+ 
+30 
+ 
+customer rates established based on these depreciation 
+1 
+accruals will provide an appropriate return of capital to 
+2 
+utility investors who originally provided the capital to 
+3 
+invest in the asset.    
+4 
+A related concept in utility ratemaking is 
+5 
+“intergenerational equity,” in which customers who receive 
+6 
+the benefit of a utility asset should pay their fair share 
+7 
+of the costs of the asset.  If too much depreciation is 
+8 
+reflected in the early years of an asset’s life, then 
+9 
+customers in the early years will pay a disproportionate 
+10 
+share of the cost of the asset, while customers in later 
+11 
+years will pay less than their fair share.  Conversely, if 
+12 
+depreciation is too low in the earlier years, then the 
+13 
+costs of the asset would be unfairly borne by a future 
+14 
+generation of customers. 
+15 
+Q. 
+Does the depreciation of assets that have been recorded in 
+16 
+prior years also affect customer rates? 
+17 
+A. 
+Yes.  First, whether through the amortization of a reserve 
+18 
+variation or through the use of the remaining life 
+19 
+technique, depreciation is typically designed to adjust for 
+20 
+past levels of depreciation.  Thus, if depreciation was too 
+21 
+low in the past, current depreciation will typically be 
+22 
+
+
+--- Page 32 ---
+Case Nos. 25-E-0072 and 25-G-0073 
+ 
+CONSOLIDATED EDISON COMPANY OF NEW YORK, INC. 
+ 
+DEPRECIATION PANEL REBUTTAL TESTIMONY 
+ 
+ 
+31 
+ 
+higher, all else equal.  There is also an additional way 
+1 
+depreciation affects both customer rates and a Company’s 
+2 
+earnings.  Accumulated depreciation, which is effectively a 
+3 
+running total of depreciation that has occurred in the 
+4 
+past, is a reduction to rate base.  As a result, while 
+5 
+higher depreciation will have a short-term impact of 
+6 
+increasing the revenue requirement in a given year, its 
+7 
+longer-term impact will be to reduce rate base and, in 
+8 
+turn, the return on rate base.  The converse is also true.  
+9 
+Lower depreciation expense will have a short-term effect of 
+10 
+reducing the revenue requirement but over the long-term 
+11 
+will result in a higher rate base and a higher return on 
+12 
+rate base.  Thus, when considering the impact on customers 
+13 
+due to depreciation, there are both short-term and long-
+14 
+term impacts to consider and often these impacts move in 
+15 
+the opposite direction from one another. 
+16 
+This concept is explained by NARUC on page 23 of its 
+17 
+Public Utility Depreciation Practices: 
+18 
+The regulatory body prescribing depreciation 
+19 
+rates is thus confronted with a decision which 
+20 
+affects both short-run and long-run interests of 
+21 
+the customer and the company.  If a commission 
+22 
+prescribes rates which yield depreciation 
+23 
+accruals that are too low, the revenue 
+24 
+requirement in the short run may be lower.  But 
+25 
+
+
+--- Page 33 ---
+Case Nos. 25-E-0072 and 25-G-0073 
+ 
+CONSOLIDATED EDISON COMPANY OF NEW YORK, INC. 
+ 
+DEPRECIATION PANEL REBUTTAL TESTIMONY 
+ 
+ 
+32 
+ 
+the requirements for income taxes and return may 
+1 
+offset the apparent savings in depreciation 
+2 
+expense, so service rates in the long run may be 
+3 
+higher.  If depreciation rates are set so low 
+4 
+that the revenue requirement fails to repay the 
+5 
+capital invested in a group of property by the 
+6 
+end of its service life, confiscation takes place 
+7 
+or the unpaid cost remains in the rate base until 
+8 
+amortized or expensed.  On the other hand, if the 
+9 
+regulatory body establishes depreciation rates 
+10 
+toward the upper end of the zone of 
+11 
+reasonableness, rates for service will be higher 
+12 
+in the short-run, but may be lower in the long-
+13 
+run. 
+14 
+Q. 
+Does the determination of the appropriate depreciation 
+15 
+rates involve the determination of whether a company’s 
+16 
+capital costs were prudent or reasonable? 
+17 
+A. 
+No.  It is important to recognize that depreciation 
+18 
+represents the recovery of capital invested by the Company 
+19 
+(i.e., the original cost of plant in service less net 
+20 
+salvage) in order to provide utility service.  The original 
+21 
+cost of assets is recorded on the Company’s books and 
+22 
+recovered through depreciation for assets already in 
+23 
+service, a large portion of which have been in service for 
+24 
+many years.  Further, while net salvage is a future cost 
+25 
+that requires estimates of the costs to retire or replace 
+26 
+the Company’s current asset base, most parties have not 
+27 
+challenged net salvage estimates in the depreciation study.  
+28 
+
+
+--- Page 34 ---
+Case Nos. 25-E-0072 and 25-G-0073 
+ 
+CONSOLIDATED EDISON COMPANY OF NEW YORK, INC. 
+ 
+DEPRECIATION PANEL REBUTTAL TESTIMONY 
+ 
+ 
+33 
+ 
+(The one exception is Staff, as we discuss in Section II.B 
+1 
+of our rebuttal testimony.  For the gas accounts for which 
+2 
+Staff has proposed different estimates from ours, they 
+3 
+differ by only five percentage points.) This means that, 
+4 
+broadly speaking, there is not a major disagreement of the 
+5 
+total amount of capital to be recovered through 
+6 
+depreciation expense.  The question in this case, and the 
+7 
+disagreement related to depreciation, is the timing of the 
+8 
+recovery of capital – not the amount to be recovered.   
+9 
+Because the question is a matter of timing, this means that 
+10 
+lower depreciation today means higher depreciation in the 
+11 
+future and higher depreciation today means lower 
+12 
+depreciation – and a lower rate base – in the future. 
+13 
+It is, therefore, important to consider the 
+14 
+implications of the differences of opinion in the timing of 
+15 
+recovery.  The Company’s position is that, due to 
+16 
+significant risks of both the obsolescence of the Company’s 
+17 
+assets and the potential for a smaller customer base to 
+18 
+bear the costs of the recovery of capital in the future, 
+19 
+the rate at which capital is recovered should be moderately 
+20 
+increased in this case as a first step in the process of 
+21 
+accounting for this risk.  The other parties take the 
+22 
+
+
+--- Page 35 ---
+Case Nos. 25-E-0072 and 25-G-0073 
+ 
+CONSOLIDATED EDISON COMPANY OF NEW YORK, INC. 
+ 
+DEPRECIATION PANEL REBUTTAL TESTIMONY 
+ 
+ 
+34 
+ 
+position that, despite the fact that the Commission and 
+1 
+others have recognized some degree of obsolescence is 
+2 
+likely to occur and that there is likely to be a smaller 
+3 
+customer base in the future, we should defer any 
+4 
+recognition of the CLCPA’s impacts to a future time.  The 
+5 
+consequence of these positions would be that, in the 
+6 
+future, whatever customer base remains will have to pay for 
+7 
+both these deferrals and the return on these deferrals. 
+8 
+Q. 
+Are depreciation estimates based on purely analytical or 
+9 
+mathematical computations? 
+10 
+A. 
+No.  Even in depreciation studies where there are not 
+11 
+considerations similar to the CLCPA, depreciation is a 
+12 
+forecast of the future that requires judgement and cannot 
+13 
+be based on purely mechanical calculations.  For example, 
+14 
+NARUC makes clear that there must be a subjective component 
+15 
+to estimating service lives.  Chapter XIII of Public 
+16 
+Utility Depreciation Practices, entitled “Actuarial Life 
+17 
+Analysis,” discusses and emphasizes the subjective nature 
+18 
+of the process of estimating service lives.  NARUC starts 
+19 
+this chapter by explaining that the analysis of historical 
+20 
+data is only one part of the process of estimating service 
+21 
+lives: 
+22 
+
+
+--- Page 36 ---
+Case Nos. 25-E-0072 and 25-G-0073 
+ 
+CONSOLIDATED EDISON COMPANY OF NEW YORK, INC. 
+ 
+DEPRECIATION PANEL REBUTTAL TESTIMONY 
+ 
+ 
+35 
+ 
+Actuarial analysis objectively measures how the 
+1 
+company has retired its investment.  The analyst 
+2 
+must then judge whether this historical view 
+3 
+depicts the future life of the property in 
+4 
+service.  The analyst takes into consideration 
+5 
+various factors, such as changes in technology, 
+6 
+services provided, or capital budgets. (at 111) 
+7 
+Thus, NARUC clarifies that the process of estimating 
+8 
+service lives is more than merely an objective measurement 
+9 
+of the past.  In describing the determination of a survivor 
+10 
+curve estimate (referred to as the “projection life” in 
+11 
+this passage), NARUC states on page 126 of its Public 
+12 
+Utility Depreciation Practices: 
+13 
+The projection life is a projection, or forecast, 
+14 
+of the future of the property.  Historical 
+15 
+indications may be useful in estimating a 
+16 
+projection life curve.  Certainly the 
+17 
+observations based on the property’s history are 
+18 
+a starting point.  Trends in life or retirement 
+19 
+dispersion can often be expected to continue.  
+20 
+Likewise, unless there is some reason to expect 
+21 
+otherwise, stability in life or retirement 
+22 
+dispersion can be expected to continue, at least 
+23 
+in the near term. 
+24 
+Depreciation analysts should avoid becoming 
+25 
+ensnared in the mechanics of the historical life 
+26 
+study and relying solely on mathematical 
+27 
+solutions.  The reason for making an historical 
+28 
+life analysis is to develop a sufficient 
+29 
+understanding of history in order to evaluate 
+30 
+whether it is a reasonable predictor of the 
+31 
+future.  The importance of being aware of 
+32 
+circumstances having direct bearing on the reason 
+33 
+for making an historical life analysis cannot be 
+34 
+understated.  These circumstances, when factored 
+35 
+
+
+--- Page 37 ---
+Case Nos. 25-E-0072 and 25-G-0073 
+ 
+CONSOLIDATED EDISON COMPANY OF NEW YORK, INC. 
+ 
+DEPRECIATION PANEL REBUTTAL TESTIMONY 
+ 
+ 
+36 
+ 
+into the analysis, determine the application and 
+1 
+limitations of an historical life analysis.  
+2 
+Thus, NARUC advises against focusing only on the 
+3 
+statistical analysis of historical data, stating that 
+4 
+“relying solely on mathematical solutions” should be 
+5 
+avoided.  Further, we can be quite certain that the future 
+6 
+will be different from the past and, therefore, we should 
+7 
+expect that service life estimates should differ from the 
+8 
+Company’s historical experience. 
+9 
+vi. 
+The CLCPA and Obsolescence 
+10 
+Q. 
+Are there differences between the considerations in this 
+11 
+case related to the CLCPA and in many other cases in which 
+12 
+depreciation is considered? 
+13 
+A. 
+Yes.  It is important to recognize that the situation in 
+14 
+this case, as it relates to CLCPA, is different from most 
+15 
+cases in which the issue of the most reasonable 
+16 
+depreciation rates is considered.  In other instances, even 
+17 
+ones in which obsolescence is an important consideration – 
+18 
+for example, the early retirement of coal-fired generation 
+19 
+or the replacement of legacy meters with AMI meters – a 
+20 
+utility would still be expected to have a consistent or 
+21 
+growing customer base.  In such circumstances, the issue of 
+22 
+
+
+--- Page 38 ---
+Case Nos. 25-E-0072 and 25-G-0073 
+ 
+CONSOLIDATED EDISON COMPANY OF NEW YORK, INC. 
+ 
+DEPRECIATION PANEL REBUTTAL TESTIMONY 
+ 
+ 
+37 
+ 
+timing, while important from the perspective of 
+1 
+intergenerational equity, is not as pronounced as it is in 
+2 
+this case.  The risk of extending the costs of obsolete 
+3 
+assets beyond their economic lives in more common 
+4 
+circumstances does not have as disproportionate an impact 
+5 
+on the overall customer base.  In many more typical 
+6 
+instances of obsolescence only a portion of a Company’s 
+7 
+system is affected (e.g., a power plant or specific asset 
+8 
+class) and, as a result, if costs were recovered over an 
+9 
+additional five years, for example, it would be likely that 
+10 
+most of the customers still paying for assets would be the 
+11 
+same as those five years earlier.  Thus, in these types of 
+12 
+cases of obsolescence, the policy decision before a 
+13 
+commission would be to weigh the potential for 
+14 
+intergenerational inequity against the potential for rate 
+15 
+shock.  Similarly, in instances of estimating service lives 
+16 
+under these more common instances of obsolescence, the 
+17 
+consequence of error (e.g., estimating too long a service 
+18 
+life) – while important – is less consequential because any 
+19 
+over- or under-recovery could be made up in the next 
+20 
+depreciation study with largely the same customer base (and 
+21 
+at a minimum with a similar number of customers).  
+22 
+
+
+--- Page 39 ---
+Case Nos. 25-E-0072 and 25-G-0073 
+ 
+CONSOLIDATED EDISON COMPANY OF NEW YORK, INC. 
+ 
+DEPRECIATION PANEL REBUTTAL TESTIMONY 
+ 
+ 
+38 
+ 
+The same is not true with the situation before the 
+1 
+Commission in this case.  The margin of error is much 
+2 
+smaller, and it is even more important to establish 
+3 
+depreciation rates that are not too low.  As the Commission 
+4 
+has recognized, the CLCPA will result in a significant 
+5 
+decline in the number of customers receiving gas service.  
+6 
+Further, as discussed previously, various parties, from the 
+7 
+NY Climate Action Council to the Commission to NYC, have 
+8 
+recognized the potential for obsolescence of gas assets and 
+9 
+a decline in customers.  The prospect of a significant 
+10 
+decline in customers – or even a significant decline in 
+11 
+usage per customer – means that if the Commission 
+12 
+authorizes too low of a recovery of capital (i.e., 
+13 
+depreciation that is too low) any costs deferred will 
+14 
+likely be borne by a smaller customer base, multiplying the 
+15 
+impact on those customers who remain.   
+16 
+In fact, this concept is recognized in the NY Climate 
+17 
+Action Council’s Scoping Plan: 
+18 
+All the information before the Climate Action 
+19 
+Council (Council) indicates that achievement of 
+20 
+the emission limits will entail a substantial 
+21 
+reduction of fossil natural gas use and strategic 
+22 
+downsizing and decarbonization of the gas system. 
+23 
+The integration analysis scenarios and Advisory 
+24 
+Panel recommendations also show a greatly 
+25 
+
+
+--- Page 40 ---
+Case Nos. 25-E-0072 and 25-G-0073 
+ 
+CONSOLIDATED EDISON COMPANY OF NEW YORK, INC. 
+ 
+DEPRECIATION PANEL REBUTTAL TESTIMONY 
+ 
+ 
+39 
+ 
+diminished use of fossil natural gas. To achieve 
+1 
+Climate Act targets, the integration analysis 
+2 
+scenarios identified the vast majority of current 
+3 
+fossil natural gas customers (residential, 
+4 
+commercial, and industrial) will transition to 
+5 
+electricity by 2050 and identified fossil natural 
+6 
+gas use reductions statewide by at least 33% by 
+7 
+2030 and by 57% by 2035. The existing gas system 
+8 
+was developed to meet current demand for fossil 
+9 
+natural gas and will need to be strategically 
+10 
+downsized as this transition proceeds. A well-
+11 
+planned and strategic transition of the gas 
+12 
+system will require coordination across multiple 
+13 
+sectors. This coordination will include 
+14 
+integrated planning with the decarbonization of 
+15 
+the power generation sector and buildout of local 
+16 
+electric transmission and distribution systems to 
+17 
+meet anticipated increases in electricity demand 
+18 
+throughout the State. The integrated planning 
+19 
+will ensure the transition is equitable for 
+20 
+workers and equitable and cost-effective for 
+21 
+consumers without compromising reliability, 
+22 
+safety, energy affordability, and resiliency. (at 
+23 
+350) 
+24 
+In this context, it is important to understand that 
+25 
+the potential harm to customers from higher depreciation 
+26 
+today – a higher short-term revenue requirement spread over 
+27 
+today’s large customer base – is considerably less than the 
+28 
+potential harm to customers in the future due to lower 
+29 
+depreciation today.  This is an even sharper increase in 
+30 
+depreciation (because there will be less time to recover 
+31 
+costs by 2050), plus a higher rate base, spread over a 
+32 
+smaller customer base.  The rate impact of lower 
+33 
+
+
+--- Page 41 ---
+Case Nos. 25-E-0072 and 25-G-0073 
+ 
+CONSOLIDATED EDISON COMPANY OF NEW YORK, INC. 
+ 
+DEPRECIATION PANEL REBUTTAL TESTIMONY 
+ 
+ 
+40 
+ 
+depreciation today is likely to result in exponentially 
+1 
+higher rate impacts on future customers. 
+2 
+Q. 
+Should depreciation rates incorporate the potential for 
+3 
+obsolescence related to the CLCPA? 
+4 
+A. 
+Yes.  Depreciation is, by its nature, a forecast of the 
+5 
+future.  Because depreciation is a prospective exercise of 
+6 
+estimating the future useful lives of a company’s assets, 
+7 
+depreciation must consider how the future could be 
+8 
+different from the past.  Importantly, any depreciation 
+9 
+proposal, even one that assumes the future will be exactly 
+10 
+the same as the past, implicitly incorporates an assumption 
+11 
+about the future.  By failing to recognize the CLCPA’s 
+12 
+impacts in their depreciation proposals, or by arguing that 
+13 
+they should not be included in depreciation until we know 
+14 
+these impacts for certain, other parties are effectively 
+15 
+making a specific assumption about the future – that the 
+16 
+future service lives of the Company’s assets will be the 
+17 
+same as the Company has experienced in the past.   
+18 
+It follows that the specific depreciation proposals of 
+19 
+Staff, UIU, and other parties are based on an assumption 
+20 
+that there will be no obsolescence resulting from the 
+21 
+CLCPA.  In our judgement, this is not a realistic 
+22 
+
+
+--- Page 42 ---
+Case Nos. 25-E-0072 and 25-G-0073 
+ 
+CONSOLIDATED EDISON COMPANY OF NEW YORK, INC. 
+ 
+DEPRECIATION PANEL REBUTTAL TESTIMONY 
+ 
+ 
+41 
+ 
+assumption about the future.  Based on likely impacts 
+1 
+related to CLCPA, we can be fairly certain that the 
+2 
+assumption inherent to their proposals - that the Company’s 
+3 
+future experience will be the same as its historical 
+4 
+experience – is incorrect.  Indeed, it is hard to believe, 
+5 
+for example, that NYC expects the future to be the same as 
+6 
+the past, given that NYC plans to disallow gas service in 
+7 
+new construction within a few years. (See The New York City 
+8 
+Council, Int 2317-2021, https://nyc.gov.) Accordingly, 
+9 
+because the future will be different from the past, we need 
+10 
+to incorporate this expectation into estimates of 
+11 
+depreciation.   
+12 
+vii. 
+Response to Mr. Garrett’s Arguments 
+13 
+Q. 
+Please address Mr. Garrett’s conclusion on page 4 of his 
+14 
+testimony, that “the Commission must ultimately determine 
+15 
+if the Company has met its burden of proof by making a 
+16 
+convincing showing that its proposed depreciation rates are 
+17 
+not excessive.” 
+18 
+A. 
+Mr. Garrett cites (at 6) to passages from Lindheimer v. 
+19 
+Illinois Bell Telephone Co., a U.S. Supreme Court case 
+20 
+decided in 1934, in support of this statement.  We first 
+21 
+
+
+--- Page 43 ---
+Case Nos. 25-E-0072 and 25-G-0073 
+ 
+CONSOLIDATED EDISON COMPANY OF NEW YORK, INC. 
+ 
+DEPRECIATION PANEL REBUTTAL TESTIMONY 
+ 
+ 
+42 
+ 
+note that the specific issues in Lindheimer were different 
+1 
+from the instant case, as a significant issue in the 
+2 
+Lindheimer case was the development of the appropriate rate 
+3 
+base, to which past depreciation expense was partially 
+4 
+relevant.  At issue was whether the use of original cost or 
+5 
+fair value were appropriate, as well as the calculation of 
+6 
+accumulated depreciation.  Unlike today, it had not yet 
+7 
+become common practice to determine rate base using 
+8 
+original cost and the book recorded level of accumulated 
+9 
+depreciation.  Further, to our knowledge, Illinois did not 
+10 
+have a law analogous to the CLCPA that would significantly 
+11 
+impact the telephone industry at the time. 
+12 
+Notwithstanding these different circumstances, Mr. 
+13 
+Garrett uses a statement from Lindheimer that a company has 
+14 
+“the burden of making a convincing showing that the amounts 
+15 
+it has charged to operating expenses for depreciation have 
+16 
+not been excessive” (emphasis added).  He then interprets 
+17 
+this to mean that the Company must make (at 10) “a 
+18 
+convincing showing regarding the CLCPA’s specific impacts 
+19 
+to service lives.”  However, there is a significant 
+20 
+difference between making a convincing showing that 
+21 
+depreciation is not excessive and making a convincing 
+22 
+
+
+--- Page 44 ---
+Case Nos. 25-E-0072 and 25-G-0073 
+ 
+CONSOLIDATED EDISON COMPANY OF NEW YORK, INC. 
+ 
+DEPRECIATION PANEL REBUTTAL TESTIMONY 
+ 
+ 
+43 
+ 
+showing of the precise impacts of the CLCPA over the next 
+1 
+30 years.  The latter is, of course, impossible since no 
+2 
+one can predict what will occur over the next three decades 
+3 
+with that sort of precision.  However, there is ample 
+4 
+support, such as we provided in Exhibit___(DP-8), that the 
+5 
+Company’s proposal is not excessive and that it results in 
+6 
+much lower depreciation than several potential future 
+7 
+scenarios resulting from the CLCPA.  We have further 
+8 
+demonstrated in Exhibit___(DP-9) that not incorporating 
+9 
+CLCPA impacts will disproportionately harm future 
+10 
+customers. 
+11 
+Q. 
+Mr. Garrett argues (at 11) that the Company’s proposal is 
+12 
+“inequitable to current customers.”  Do you agree? 
+13 
+A. 
+No.  We have demonstrated in Exhibit___(DP-9) that our 
+14 
+proposal does not disproportionately favor current 
+15 
+customers and, to the contrary, Mr. Garrett’s proposal is 
+16 
+inequitable to future customers.  Mr. Garrett’s argument 
+17 
+appears to be based on the false premise that if service 
+18 
+lives are shorter than indicated by historical experience, 
+19 
+then the results are necessarily inequitable to current 
+20 
+customers.  This is incorrect.  Intergenerational equity 
+21 
+for today’s customers will be determined based on the 
+22 
+
+
+--- Page 45 ---
+Case Nos. 25-E-0072 and 25-G-0073 
+ 
+CONSOLIDATED EDISON COMPANY OF NEW YORK, INC. 
+ 
+DEPRECIATION PANEL REBUTTAL TESTIMONY 
+ 
+ 
+44 
+ 
+actual lives the Company’s current assets will experience, 
+1 
+not what happened in the past.  Further, while we do not 
+2 
+know yet what those actual lives will be, we can be quite 
+3 
+certain that the CLCPA will result in the future being 
+4 
+different from the past.  Therefore, equity for both 
+5 
+current and future customers requires that we account, at 
+6 
+least minimally, for the gas transition that has already 
+7 
+begun. 
+8 
+Q. 
+Mr. Garrett also claims (at 10) that the Company “makes 
+9 
+various conclusory assumptions about the potential impacts 
+10 
+of the CLCPA as it relates to service lives but does not 
+11 
+provide direct empirical evidence support regarding how the 
+12 
+CLCPA will specifically reduce service lives.”  Do you 
+13 
+agree? 
+14 
+A. 
+No.  Mr. Garrett’s claim ignores a large part of our direct 
+15 
+testimony.  In our direct testimony and Exhibit___(DP-5), 
+16 
+we provided the results of life cycle analysis that 
+17 
+demonstrate how the CLCPA will shorten service lives.  
+18 
+Indeed, this analysis indicates that service lives should 
+19 
+be expected to be shorter than our proposal.   
+20 
+
+
+--- Page 46 ---
+Case Nos. 25-E-0072 and 25-G-0073 
+ 
+CONSOLIDATED EDISON COMPANY OF NEW YORK, INC. 
+ 
+DEPRECIATION PANEL REBUTTAL TESTIMONY 
+ 
+ 
+45 
+ 
+viii. 
+Conclusion 
+1 
+Q. 
+Given all of these considerations, what do you conclude 
+2 
+regarding the proposals for gas depreciation? 
+3 
+A. 
+Nothing in the other parties’ testimonies provides a 
+4 
+reasonable basis to exclude potential impacts of the CLCPA 
+5 
+into depreciation.  We have provided the results of several 
+6 
+modeling scenarios related to the CLCPA, both in our 
+7 
+testimony for Con Edison and, for Mr. Allis, for other 
+8 
+utilities in New York and other states with similar laws to 
+9 
+the CLCPA.  We have provided evidence demonstrating the 
+10 
+impacts to the Company’s service lives which supports our 
+11 
+recommendations as a conservative proposal to begin to 
+12 
+address these impacts. 
+13 
+The results of all of our modeling illustrate that 
+14 
+most scenarios for gas assets result in significantly 
+15 
+higher depreciation expense than incorporated into the 
+16 
+Company’s proposed revenue requirement, as well as higher 
+17 
+depreciation expense than recommended in Gannett Fleming’s 
+18 
+Depreciation Study.  Accordingly, the Company’s proposal is 
+19 
+a minimal recognition of the potential impacts presented in 
+20 
+the Depreciation Study.   
+21 
+
+
+--- Page 47 ---
+Case Nos. 25-E-0072 and 25-G-0073 
+ 
+CONSOLIDATED EDISON COMPANY OF NEW YORK, INC. 
+ 
+DEPRECIATION PANEL REBUTTAL TESTIMONY 
+ 
+ 
+46 
+ 
+2. Electric Service Life Estimates 
+1 
+Q. 
+Do you agree with the proposed changes to electric service 
+2 
+life estimates made by Staff and UIU? 
+3 
+A. 
+No. 
+4 
+Q. 
+Please address the electric account for which both Staff 
+5 
+and UIU have proposed changes. 
+6 
+A. 
+Staff and UIU have both proposed changes for Account 367, 
+7 
+Underground Conductors and Devices.  We disagree with their 
+8 
+proposals and believe their estimates would not recover the 
+9 
+costs for these assets in a timely manner.  We first note 
+10 
+that the service life proposed in the Depreciation Study is 
+11 
+the same as the currently approved life for this account.  
+12 
+Further, the range of lives typically used by other 
+13 
+companies within the industry for these assets is 45 to 55 
+14 
+years.   While there are reasons why assets in Con Edison’s 
+15 
+system in these accounts are different from other 
+16 
+utilities, we do not believe underground conductors will 
+17 
+last as long as recommended by Staff and UIU.  
+18 
+Additionally, there are reasons to expect shorter lives 
+19 
+than was the case in the past.  We anticipate that assets 
+20 
+in the account will be replaced more frequently than they 
+21 
+were in the past.  The Company expects increases in 
+22 
+
+
+--- Page 48 ---
+Case Nos. 25-E-0072 and 25-G-0073 
+ 
+CONSOLIDATED EDISON COMPANY OF NEW YORK, INC. 
+ 
+DEPRECIATION PANEL REBUTTAL TESTIMONY 
+ 
+ 
+47 
+ 
+electrification of heating and transportation will increase 
+1 
+load and potentially require upgrades to existing 
+2 
+infrastructure to be able to accommodate these changes.   
+3 
+Our average service life estimate for this account is 
+4 
+55 years.  This life is an average and assumes that many of 
+5 
+the assets will last well beyond 55 years.  This is the 
+6 
+same estimate as currently used for this account.  It is 
+7 
+also the same estimate that Staff recommended in the 
+8 
+Company’s previous depreciation study three years ago.  We 
+9 
+are not aware of an evidenced-based reason why Staff’s 
+10 
+panel would now believe these assets will be in service, on 
+11 
+average, 10 years longer than Staff believed three years 
+12 
+ago.   
+13 
+Further, one cannot only look at the average service 
+14 
+life.  Exhibit___(DP-10) provides a graphical comparison of 
+15 
+each of the estimates for the account.  Our 55-R0.5 
+16 
+estimate incorporates an expectation that only a relatively 
+17 
+small subset of assets in the account will last more than 
+18 
+100 years.  In contrast, Staff expects almost 20 percent of 
+19 
+the account to be in service more than 100 years, which is 
+20 
+an expectation for long service lives for a significant 
+21 
+number of underground conductors.  We do not believe this 
+22 
+
+
+--- Page 49 ---
+Case Nos. 25-E-0072 and 25-G-0073 
+ 
+CONSOLIDATED EDISON COMPANY OF NEW YORK, INC. 
+ 
+DEPRECIATION PANEL REBUTTAL TESTIMONY 
+ 
+ 
+48 
+ 
+is reasonable, nor is UIU’s expectation that more than 10 
+1 
+percent of the account will be in service more than 100 
+2 
+years. 
+3 
+Given all of these considerations, the longer lives 
+4 
+proposed by Staff and UIU, which are increases from the 
+5 
+existing estimate, are less reasonable than what we 
+6 
+propose.  In our judgement, these expectations inherent to 
+7 
+Staff’s and UIU’s proposals are not reasonable, 
+8 
+particularly because of the increased importance of 
+9 
+reliability and the need to upgrade assets to accommodate 
+10 
+further electrification. 
+11 
+Q. 
+Please address the estimates proposed by UIU for other 
+12 
+electric accounts. 
+13 
+A. 
+UIU witness Garrett proposes alternative estimates for two 
+14 
+other electric accounts, Account 353, (Transmission) 
+15 
+Station Equipment, and Account 362, (Distribution) Station 
+16 
+Equipment, that are not realistic judgements for the assets 
+17 
+studied.  Realistic judgement for these accounts includes 
+18 
+consideration of electrification trends, as well as other 
+19 
+factors that Mr. Garrett does not appear to have adequately 
+20 
+included in his proposals.  As discussed in our direct 
+21 
+testimony beginning on page 57, load growth and other 
+22 
+
+
+--- Page 50 ---
+Case Nos. 25-E-0072 and 25-G-0073 
+ 
+CONSOLIDATED EDISON COMPANY OF NEW YORK, INC. 
+ 
+DEPRECIATION PANEL REBUTTAL TESTIMONY 
+ 
+ 
+49 
+ 
+factors will mean higher rates of replacement of substation 
+1 
+assets than has occurred historically.   
+2 
+For Account 353, the transformation of the 
+3 
+transmission grid to incorporate new energy sources, 
+4 
+including offshore wind and other renewables, will result 
+5 
+in significant changes to the transmission system, 
+6 
+including replacements of substation assets and even entire 
+7 
+substations.  However, Mr. Garrett proposes to increase the 
+8 
+average service life for this account by 9 years at a time 
+9 
+when we should expect shorter lives.  Further, his proposal 
+10 
+is primarily the result of his interpretation of older data 
+11 
+points from the historical analysis.  He incorrectly 
+12 
+concludes that these data points indicate that retirements 
+13 
+will slow considerably as the assets in the account age.  
+14 
+Exhibit___(DP-11) shows a comparison of our proposal (which 
+15 
+is the same as Staff’s) and that of Mr. Garrett.  As can be 
+16 
+seen in the graph, both estimates are very similar for the 
+17 
+first 40 years of age.  Mr. Garrett has selected an unusual 
+18 
+L0.5 curve type that forecasts that the rate of retirements 
+19 
+declines significantly in later years.  This is not a 
+20 
+reasonable expectation for this account.  Mr. Garrett 
+21 
+further expects that many will remain in service well 
+22 
+
+
+--- Page 51 ---
+Case Nos. 25-E-0072 and 25-G-0073 
+ 
+CONSOLIDATED EDISON COMPANY OF NEW YORK, INC. 
+ 
+DEPRECIATION PANEL REBUTTAL TESTIMONY 
+ 
+ 
+50 
+ 
+beyond 100 years with some even surviving to 160 years.  We 
+1 
+do not believe that these are realistic expectations, 
+2 
+especially in the context of climate change impacts (higher 
+3 
+temperatures on assets) and increased electrification.  Our 
+4 
+proposal to continue to use the current service life 
+5 
+estimate is, in contrast, more reasonable. 
+6 
+There are similar issues with his proposal for Account 
+7 
+362.  We do not believe extending the current average life 
+8 
+by five years is consistent with environmental conditions, 
+9 
+load growth, or with efforts to operate the system in as 
+10 
+reliable a manner as possible. 
+11 
+B. NET SALVAGE 
+12 
+Q. 
+What have the various parties proposed regarding net 
+13 
+salvage? 
+14 
+A. 
+Exhibit___(DP-12) compares the net salvage estimates 
+15 
+currently in effect, those proposed in our Depreciation 
+16 
+Study, and those proposed by Staff.  Mr. Garrett did not 
+17 
+propose any changes to these estimates.  This table also 
+18 
+shows the overall and most recent five-year average net 
+19 
+salvage ratios based on the statistical analysis of the 
+20 
+Company’s historical data using the industry standard 
+21 
+
+
+--- Page 52 ---
+Case Nos. 25-E-0072 and 25-G-0073 
+ 
+CONSOLIDATED EDISON COMPANY OF NEW YORK, INC. 
+ 
+DEPRECIATION PANEL REBUTTAL TESTIMONY 
+ 
+ 
+51 
+ 
+method for analyzing net salvage that was used in the 
+1 
+Company’s Depreciation Study.  As the table shows, the 
+2 
+historical data indicate net salvage estimates that are, 
+3 
+for most accounts, more negative than any party’s 
+4 
+estimates.  Thus, the data supports estimates at least as 
+5 
+negative as we proposed in the Company’s Depreciation 
+6 
+Study. 
+7 
+Q. 
+What are the reasons for the differences in Staff’s net 
+8 
+salvage estimates? 
+9 
+A. 
+Based on Staff’s testimony, their recommendations are based 
+10 
+on different interpretations of the trends in the data. 
+11 
+Q. 
+Do you agree with Staff’s net salvage proposals?  
+12 
+A. 
+No.  As can be seen in Exhibit___(DP-12), for nearly all of 
+13 
+the accounts for which we differ from Staff, the overall 
+14 
+average net salvage in the data is more negative than both 
+15 
+our proposal and Staff’s proposal.  Thus, in general terms, 
+16 
+the data support our estimates, which move the net salvage 
+17 
+estimates closer to the overall indications in the 
+18 
+historical data.  Additionally, we note that the current 
+19 
+estimates for many of these accounts are based on a 
+20 
+settlement from the Company’s previous case, rather than 
+21 
+the estimates from the Depreciation Study.  For some of 
+22 
+
+
+--- Page 53 ---
+Case Nos. 25-E-0072 and 25-G-0073 
+ 
+CONSOLIDATED EDISON COMPANY OF NEW YORK, INC. 
+ 
+DEPRECIATION PANEL REBUTTAL TESTIMONY 
+ 
+ 
+52 
+ 
+these accounts, the settlement had limited the change in 
+1 
+net salvage estimates and in some instances had actually 
+2 
+moved the estimates in the opposite direction of the data.  
+3 
+In this context, we believe Staff’s decision to limit 
+4 
+changes results in net salvage estimates that are not 
+5 
+sufficiently negative.  For example, for Account 367, 
+6 
+Underground Conductors and Devices, our estimate of (90) 
+7 
+percent, which is the same as what we recommended in the 
+8 
+previous study, is less negative than the overall average 
+9 
+of (178) percent, and is much less negative than the recent 
+10 
+5-year average of (334) percent.  However, in the previous 
+11 
+case, the net salvage estimate was limited to (85) percent 
+12 
+in the settlement.  The overall average at the time of the 
+13 
+last study was (167) percent, so the experience since the 
+14 
+previous study has increased the overall average to (178).  
+15 
+Staff’s proposal does not recognize the trend for more 
+16 
+negative net salvage for this account.   
+17 
+This is the case for many of the Company’s accounts.  
+18 
+We believe continuing to limit the change in net salvage to 
+19 
+the degree recommended by Staff results in an insufficient 
+20 
+level of net salvage when compared to the historical data.   
+21 
+
+
+--- Page 54 ---
+Case Nos. 25-E-0072 and 25-G-0073 
+ 
+CONSOLIDATED EDISON COMPANY OF NEW YORK, INC. 
+ 
+DEPRECIATION PANEL REBUTTAL TESTIMONY 
+ 
+ 
+53 
+ 
+C. RESERVE VARIATIONS 
+1 
+Q. 
+What have the various parties in this case proposed 
+2 
+regarding reserve variations? 
+3 
+A. 
+The Company’s proposal is to amortize the reserve variation 
+4 
+that exceeds 10% of the theoretical reserve over a 20-year 
+5 
+period.  This approach is consistent with past practices in 
+6 
+New York to address reserve variations.  Staff, UIU, and 
+7 
+NYC have made proposals similar to the Company’s.  The only 
+8 
+difference is that Staff and UIU have calculated different 
+9 
+theoretical reserves and reserve variations due to the use 
+10 
+of different service lives and, in Staff’s case, net 
+11 
+salvage estimates.  Generally, all parties agree with the 
+12 
+same approach to amortize reserve variations that result 
+13 
+from their respective proposals. 
+14 
+ 
+15 
+II. 
+CONCLUSION 
+16 
+Q. 
+Does this conclude your update and rebuttal testimony? 
+17 
+A. 
+Yes, it does. 
+18 

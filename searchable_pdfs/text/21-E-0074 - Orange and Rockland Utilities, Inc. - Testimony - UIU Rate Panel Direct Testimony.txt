@@ -1,0 +1,4686 @@
+--- Page 1 ---
+ 
+STATE OF NEW YORK 
+PUBLIC SERVICE COMMISSION 
+ 
+Proceeding on Motion of the Commission as to the Rates, 
+Charges, Rules and Regulations of Orange and Rockland 
+Utilities, Inc. for Gas Service. 
+                
+         Case 21-G-0073 
+               
+Proceeding on Motion of the Commission as to the Rates, 
+Charges, Rules and Regulations of Orange and Rockland 
+Utilities, Inc. for Electric Service. 
+         Case 21-E-0074 
+ 
+ 
+ 
+DIRECT TESTIMONY 
+ 
+OF 
+ 
+ 
+UIU RATE PANEL 
+ 
+Dated:  May 28, 2021 
+ 
+ 
+UTILITY INTERVENTION UNIT 
+DIVISION OF CONSUMER PROTECTION 
+NYS DEPARTMENT OF STATE 
+99 WASHINGTON AVENUE 
+SUITE 640 
+ALBANY, NY 12231-0001 
+www.dos.ny.gov 
+ 
+
+
+--- Page 2 ---
+CASE 21-E-0074 and 21-G-0073  
+ 
+ 
+             DIRECT TESTIMONY OF  
+ 
+   
+UIU RATE PANEL 
+1 
+Table of Contents 
+I. 
+INTRODUCTION ....................................................................................... 2 
+II. 
+SUMMARY OF RECOMMENDATIONS .................................................... 5 
+III. 
+COST OF SERVICE .................................................................................. 9 
+A. 
+Background ................................................................................. 9 
+B. 
+AMI Cost Allocation .................................................................. 10 
+C. 
+Distribution Costs ...................................................................... 34 
+D. 
+Pro Forma ECOS ...................................................................... 40 
+E. 
+Load Research Data ................................................................. 43 
+F. 
+ECOS Unitized ROR Results .................................................... 50 
+ 
+IV. 
+REVENUE ALLOCATION ........................................................................ 53 
+A. 
+Background ............................................................................... 53 
+B. 
+Company’s Revenue Allocation Proposal ................................. 56 
+C. 
+Discussion ................................................................................ 59 
+ 
+V. 
+RATE DESIGN ........................................................................................ 67 
+A. 
+General Overview ..................................................................... 67 
+B. 
+Electric – Seasonal Rates ......................................................... 68 
+C. 
+Customer Charges and Block Rates ......................................... 69 
+ 
+ 
+ 
+ 
+
+
+--- Page 3 ---
+CASE 21-E-0074 and 21-G-0073  
+ 
+ 
+             DIRECT TESTIMONY OF  
+ 
+   
+UIU RATE PANEL 
+2 
+I. 
+INTRODUCTION 
+1 
+Q. 
+Would the Panel please state their names and business addresses? 
+2 
+A. 
+(Panko) My name is Danielle Panko, and my business address is 99 Washington 
+3 
+Avenue, Suite 640, Albany, NY 12231. 
+4 
+(Johnson) My name is Ben Johnson, and my business address is 606 Bayport 
+5 
+Way, Longboat Key, FL 34228. 
+6 
+Q. 
+By whom are you employed, in what capacity, and what are your professional 
+7 
+backgrounds and qualifications? 
+8 
+A. 
+(Panko) I currently hold the position of a Utility Analyst with the Utility Intervention 
+9 
+Unit (UIU) of the New York State Department of State’s Division of Consumer 
+10 
+Protection.  I received a Bachelor of Science in Mathematics from the State 
+11 
+University of New York at New Paltz in 2001 and a Master of Science in Electrical 
+12 
+Engineering from the State University of New York at New Paltz in 2008.   
+13 
+From 2000 to 2001, I served as an intern with Central Hudson Gas and 
+14 
+Electric Corporation (Central Hudson) located in Poughkeepsie, New York, in the 
+15 
+Accounts Service Department and subsequently in the Electrical Engineering 
+16 
+Department.  From 2004 to 2007, I worked as a reliability engineer for Philips 
+17 
+Semiconductors.  From 2007 to 2012, I worked for Consolidated Edison Company 
+18 
+of New York, Inc. (Con Edison) in the Rate Engineering Department as an Analyst, 
+19 
+and later as a Senior Analyst, in the Gas Rate Design Section.  I joined UIU in 
+20 
+2012.  My primary responsibilities include assisting with UIU's participation in 
+21 
+Public Service Commission (PSC or Commission) proceedings, researching utility 
+22 
+
+
+--- Page 4 ---
+CASE 21-E-0074 and 21-G-0073  
+ 
+ 
+             DIRECT TESTIMONY OF  
+ 
+   
+UIU RATE PANEL 
+3 
+policy and regulatory related issues, and representing UIU during various utility-
+1 
+related meetings and rate case negotiations.  I have worked on several New York 
+2 
+utility cases in addition to other rate and policy proceedings.  
+3 
+(Johnson) I am employed as a Consulting Economist and President of Ben 
+4 
+Johnson Associates, Inc., an economic research firm specializing in public utility 
+5 
+regulation.  I received a Bachelor of Arts degree in Economics from the University 
+6 
+of South Florida, and both a Master of Science in Economics and Doctor of 
+7 
+Philosophy in Economics from Florida State University.  
+8 
+ 
+ 
+Over the course of more than 40 years, I have been actively involved in 
+9 
+more than 400 regulatory dockets, involving electric, natural gas, and other utilities. 
+10 
+I have presented expert testimony on more than 250 occasions, before federal 
+11 
+regulatory agencies, various state courts, and regulatory commissions in 40 states, 
+12 
+two Canadian provinces, and the District of Columbia. 
+13 
+Most of this work has been performed on behalf of regulatory commissions, 
+14 
+consumer advocates, and other government agencies involved in regulation, but 
+15 
+our firm has worked for other types of clients as well, including large industrial 
+16 
+consumers and non-profit entities like the AARP (formerly the American 
+17 
+Association of Retired Persons) and the North Carolina Sustainable Energy 
+18 
+Association.   
+19 
+Q. 
+Have you previously testified before the Commission? 
+20 
+A. 
+(Panko) Yes.  I previously submitted testimony in Cases 13-E-0030 and 13-G-
+21 
+0031 (Con Edison), 14-E-0318 and 14-G-0319 (Central Hudson), 14-E-0493 and 
+22 
+
+
+--- Page 5 ---
+CASE 21-E-0074 and 21-G-0073  
+ 
+ 
+             DIRECT TESTIMONY OF  
+ 
+   
+UIU RATE PANEL 
+4 
+14-G-0494 (Orange and Rockland Utilities, Inc. (Orange and Rockland, O&R, the 
+1 
+Company)), 15-E-0283, 15-G-0284, 15-E-0285 and 15-G-0286 (New York State 
+2 
+Electric and Gas Corporation (NYSEG) and Rochester Gas and Electric (RG&E)), 
+3 
+16-G-0058 and 16-G-0059 (The Brooklyn Union Gas Company d/b/a National Grid 
+4 
+NY (KEDNY) and KeySpan Gas East Corp. d/b/a National Grid (KEDLI)), 16-G-
+5 
+0060 and 16-G-0061 (Con Edison), 16-G-0257 (National Fuel Gas Company 
+6 
+(National Fuel)), 17-E-0238 and 17-G-0239 (Niagara Mohawk Power Corporation 
+7 
+d/b/a National Grid (Niagara Mohawk), 17-E-0459 and 17-G-0460 (Central 
+8 
+Hudson), 18-E-0067 and 18-G-0068 (Orange and Rockland), 19-G-0309 (KEDNY) 
+9 
+and 19-G-0310 (KEDLI), 19-E-0378, 19-G-0379, 19-E-0380, and 19-G-0381 
+10 
+(NYSEG) and (RG&E); 20-E-0380 and 20-G-0381 (Niagara Mohawk); and 20-E-
+11 
+0428 and 20-G-0429 (Central Hudson). 
+12 
+(Johnson) Yes. I previously submitted testimony in Cases 13-E-0030 and 13-2 G-
+13 
+0031 (Con Edison), 14-E-0493 and 14-G-0494 (O&R), 15-E-0283, 15-G-0284, 15-
+14 
+E-5 0285 and 15-G-0286 (NYSEG and RG&E), 16-G-0058 and 16-G-0059 (KEDLI 
+15 
+and KEDNY), 16-E-0060 and 16-G-0061 (Con Edison); 16-G-0257 (National Fuel); 
+16 
+17-E-0238 and 17-G-0239 (Niagara Mohawk), 17-E-0459 and 17-G-0460 (Central 
+17 
+Hudson); and 19-E-0378, 19-G-0379, 19-E-0380, and 19-G-0381 (NYSEG) and 
+18 
+(RG&E). 
+19 
+Q. 
+What is the nature of your testimony in the instant proceeding? 
+20 
+A. 
+We will primarily focus on the electric and gas Embedded Cost of Service (ECOS) 
+21 
+studies, revenue allocation, and some aspects of the electric and gas rate design 
+22 
+
+
+--- Page 6 ---
+CASE 21-E-0074 and 21-G-0073  
+ 
+ 
+             DIRECT TESTIMONY OF  
+ 
+   
+UIU RATE PANEL 
+5 
+proposed by Orange and Rockland.  The absence of discussions on other topics 
+1 
+in this testimony should not be construed as support for, or opposition to, the 
+2 
+Company’s positions. 
+3 
+Q. 
+How is your testimony organized? 
+4 
+A. 
+This testimony has five sections.  First, in this section we introduce our testimony, 
+5 
+background, and experience.  Second, we summarize our recommendations.  
+6 
+Third, we discuss the electric and gas embedded cost of service (ECOS) studies.  
+7 
+Fourth, we discuss revenue allocation issues. Fifth, we discuss some limited 
+8 
+electric and gas rate design issues.  
+9 
+Q. 
+Have you prepared any exhibits to be filed with your testimony? 
+10 
+A. 
+Yes.  Exhibit ___ (URP-1) accompanies our testimony.  Exhibit ___ (URP-1) 
+11 
+contains the Company’s response to Information Requests (IRs) in these cases 
+12 
+that we relied upon in preparing this testimony.   
+ 
+13 
+II. 
+SUMMARY OF RECOMMENDATIONS 
+14 
+Q. 
+Would you please briefly summarize your recommendations? 
+15 
+A. 
+Our recommendations, presented in the order in which they are discussed in our 
+16 
+testimony, are as follows: 
+17 
+ 
+COST OF SERVICE 
+18 
+Advanced Metering Infrastructure (AMI) Cost Allocation 
+19 
+We discuss the Company’s proposal to classify AMI meter costs as entirely 
+20 
+customer-related and allocate these costs based on a unitized weighted average 
+21 
+
+
+--- Page 7 ---
+CASE 21-E-0074 and 21-G-0073  
+ 
+ 
+             DIRECT TESTIMONY OF  
+ 
+   
+UIU RATE PANEL 
+6 
+meter cost per customer. We recommend that the Commission reject the 
+1 
+Company’s proposal because AMI meters provide support for many more 
+2 
+functions than legacy meters. Their costs should be allocated in a manner that 
+3 
+reflects that broad array of functions.  Our testimony suggests a few potential 
+4 
+alternative approaches. In Section III.F, we provide an example of illustrative 
+5 
+ECOS Rate of Return (ROR) results, in which we modified the Company’s 
+6 
+supplemental electric ECOS study (that classifies distribution costs as 100% 
+7 
+demand-related) by allocating AMI metering costs using a “Hybrid” allocator that 
+8 
+gives reasonable weight to energy usage and to peak demand, with the  remaining 
+9 
+weight given to the customer-related allocation factors (which were derived from 
+10 
+unitized meter costs as per the Company’s ECOS study). This illustrative example 
+11 
+shows the framework we propose, with just one of the ways our concerns could be 
+12 
+resolved.  
+13 
+Distribution Costs  
+14 
+We do not necessarily agree with all aspects of in the Company’s proposed 
+15 
+ECOS studies. In particular, and notwithstanding the Company’s objections, we 
+16 
+think considerable weight should be given to the electric and gas ECOS studies 
+17 
+that classify distribution costs as 100% demand-related that were prepared in 
+18 
+accordance with the 2018 Joint Proposal. In future rate cases, we recommend that 
+19 
+the Company again file ECOS studies that use that same approach, even though 
+20 
+the Company has stated it does not agree with this methodology.  This is important 
+21 
+because it allows more time for all interested parties to become informed about the 
+22 
+
+
+--- Page 8 ---
+CASE 21-E-0074 and 21-G-0073  
+ 
+ 
+             DIRECT TESTIMONY OF  
+ 
+   
+UIU RATE PANEL 
+7 
+results of different ECOS approaches, and to consider them during the revenue 
+1 
+allocation process. This process would also save time and effort during the rate 
+2 
+case discovery process.  
+3 
+Additionally, no less than two months prior to the intervenor direct testimony 
+4 
+deadline, the Company should invite all parties in its next rate cases to attend a 
+5 
+meeting (outside of its technical conference), at which the Company would present 
+6 
+an overview of the detailed data set forth in its filed electric and gas ECOS studies, 
+7 
+proposed revenue allocation process, and proposed rate design.  This is important 
+8 
+because it allows for a time where all interested parties become informed about 
+9 
+the Company’s ECOS models, revenue allocation process, and supporting 
+10 
+workpapers used as a guide to ultimately design rates, as well as save time and 
+11 
+effort during the IR process. 
+12 
+Pro Forma ECOS  
+13 
+ 
+We also discuss some other concerns with respect to the Company’s 
+14 
+proposed ECOS studies. For example, in section III.D, we discuss how the 
+15 
+Company has not considered the use of a pro forma ECOS study that could 
+16 
+capture changes since the 2019 historic test year. For the reasons discussed in 
+17 
+section III.D, we recommend the Company file the results of a pro forma ECOS 
+18 
+study in its next rate case for all of the ECOS methodologies presented in the rate 
+19 
+filing (including the 100% demand studies we request in section III.D for review by 
+20 
+all parties).  
+21 
+ 
+22 
+
+
+--- Page 9 ---
+CASE 21-E-0074 and 21-G-0073  
+ 
+ 
+             DIRECT TESTIMONY OF  
+ 
+   
+UIU RATE PANEL 
+8 
+Load Research Data 
+1 
+Additionally, in section III.E, we call attention to the opportunity to collect 
+2 
+and analyze more granular AMI data for the purpose of advancing the 
+3 
+Commission’s policy goals.  We are hoping that the Company will be willing to work 
+4 
+with other interested parties in developing a more robust load research program 
+5 
+based upon granular AMI data that can be used to improve the accuracy of future 
+6 
+ECOS studies and that might be helpful in refining the Company’s tariff structure 
+7 
+to better advance the Commission’s policy goals. 
+8 
+ECOS Unitized ROR Results   
+9 
+In this section, we provide tables that compare and contracts the 
+10 
+Company’s proposed 2019 historical ECOS results with certain changes in the 
+11 
+electric and gas ECOS studies (such as allocating the distribution costs as 100% 
+12 
+demand-related) to illustrate how these changes impact the unitized rate of return 
+13 
+(ROR) results for individual service classes.  
+14 
+REVENUE ALLOCATION 
+15 
+We are concerned about using the Company’s proposed 2019 historical 
+16 
+ECOS models as the foundations for revenue allocation.  For the reasons 
+17 
+explained in our testimony, we are concerned about imposing a wide array of 
+18 
+revenue changes as the Company is proposing, with some classes potentially 
+19 
+experience large increases while other classes experiencing a much smaller 
+20 
+increase, or even a decrease.  We do not support creating unnecessarily disparate 
+21 
+
+
+--- Page 10 ---
+CASE 21-E-0074 and 21-G-0073  
+ 
+ 
+             DIRECT TESTIMONY OF  
+ 
+   
+UIU RATE PANEL 
+9 
+rate changes at this time, especially given the uncertain impacts of the COVID-19 
+1 
+pandemic.   
+2 
+To help resolve these concerns, we propose a few revenue allocation 
+3 
+changes as shown in the tables in our testimony. 
+4 
+RATE DESIGN  
+5 
+We recommend the Company be required to perform an electric seasonal 
+6 
+rate study to see if the current winter/summer seasonal rate differential is still 
+7 
+appropriate.  We also recommend studying the gas inclining block rate design prior 
+8 
+to the next rate case. Depending on the level of rate increase for mass market 
+9 
+customers in this case, it may be appropriate to leave the gas customer charges 
+10 
+largely unchanged, and to take a small step toward flattening the declining block 
+11 
+rate structure, such that the majority of residential customers bill impacts do not 
+12 
+significantly exceed the system average, with particular focus on the low income 
+13 
+customer impacts.  
+14 
+III. 
+COST OF SERVICE 
+15 
+A. 
+Background  
+16 
+Q. 
+Would you provide a few brief introductory comments concerning ECOS studies? 
+17 
+A. 
+An ECOS study is often used as a tool in utility rate proceedings to apportion rate 
+18 
+base and operating expenses among the various customer classes.  This data is 
+19 
+used in conjunction with existing revenues to estimate the overall system ROR and 
+20 
+ROR earned from each service classification as defined in the study.  Sometimes, 
+21 
+
+
+--- Page 11 ---
+CASE 21-E-0074 and 21-G-0073  
+ 
+ 
+             DIRECT TESTIMONY OF  
+ 
+   
+UIU RATE PANEL 
+10 
+the focus is on historical revenues; other times forecasted costs and revenue 
+1 
+increases for the Rate Year (pro-forma) are used to estimate the overall system 
+2 
+ROR.  And sometimes the RORs from both the pro-forma and historical ECOS are 
+3 
+considered.  Regardless of the specific approach that is used, the analyst must 
+4 
+exercise discretion and judgement in apportioning costs. For example, the National 
+5 
+Association of Regulatory Utility Commissioners Gas Distribution Rate Design 
+6 
+Manual, published in June 1989, (the NARUC Gas Manual) discusses the general 
+7 
+judgements that can be used in an ECOS model.  That manual states on its page 
+8 
+twenty that “[t]here is no scientifically correct method of making necessary 
+9 
+allocations.  A certain amount of judgments must be used in any cost of service 
+10 
+study.  Consequently, cost allocation studies should only be utilized as a general 
+11 
+guide or a starting point for revenue allocation and rate design.”  In New York, 
+12 
+ECOS study results are typically used as an initial guide to assign costs and 
+13 
+apportion the revenue increase to the various customer classes.  Below, we will 
+14 
+briefly discuss some of our concerns with respect to the ECOS studies provided 
+15 
+by the Company. The first issue we discuss is the Company’s proposed allocation 
+16 
+methodology for AMI costs. 
+17 
+B. 
+AMI Cost Allocation 
+18 
+Q. 
+Can you provide some brief background information concerning Orange and 
+19 
+Rockland’s AMI Project? 
+20 
+
+
+--- Page 12 ---
+CASE 21-E-0074 and 21-G-0073  
+ 
+ 
+             DIRECT TESTIMONY OF  
+ 
+   
+UIU RATE PANEL 
+11 
+A. 
+Yes. As context for the reasons we dispute the Company’s proposed AMI cost 
+1 
+allocation methodology (included within its ECOS studies), we will provide some 
+2 
+background on the Company’s AMI Project. On October 16, 2015, the Commission 
+3 
+(2015 Rate Order in Case 14-E-0493 et al.) approved the implementation of the 
+4 
+first phase of the Company’s AMI program in Rockland County, with a cap on 
+5 
+expenditures over a 5-year period of $43.5 million (M).1  The AMI project was 
+6 
+designed to replace approximately 116,000 electric and 91,000 gas meters in 
+7 
+Rockland County and establish an integrated network of meters, communications, 
+8 
+and data management systems that enable energy usage and other information to 
+9 
+be communicated between diverse locations throughout the electrical grid and 
+10 
+centrally-located computers.   
+11 
+On November 16, 2017, the Company received Commission approval 
+12 
+(2017 AMI Order in Case 17-M-0178) to expand the scope of the AMI project, with 
+13 
+a revised cap of $98.5M on capital expenditures.2  This expanded project included 
+14 
+continued AMI deployment in Rockland County, expanding the technological 
+15 
+scope and functionality of the AMI system, and expanding AMI in Orange and 
+16 
+Sullivan counties.3  On July 29, 2016, the Company filed a revised AMI BCA Benefit 
+17 
+ 
+1  Cases 14-E-0493 et al., Proceeding on Motion of the Commission as to the Rates, Charges, Rules and 
+Regulations of Orange and Rockland Utilities, Inc. for Electric Service,  Order Adopting Terms of Joint 
+Proposal and Establishing Electric and Gas Rate Plans at 14-17 and Attachment A Joint Proposal, at 
+19-21 (issued and effective Oct. 16, 2015) (2015 Rate Order).     
+2    Case 17-M-0178, Petition of Orange and Rockland Utilities, Inc. for Authorization of a Program 
+Advancement Proposal, Order Granting Petition in Part, at 19 (issued Nov. 16, 2017).  
+3  
+Case 17-M-0178, Petition of Orange and Rockland Utilities, Inc. for Authorization of a Program 
+Advancement Proposal), Order Granting Petition in Part at 1-2 and 16-17(issued Nov. 16, 2017). 
+
+
+--- Page 13 ---
+CASE 21-E-0074 and 21-G-0073  
+ 
+ 
+             DIRECT TESTIMONY OF  
+ 
+   
+UIU RATE PANEL 
+12 
+Summary and AMI BCA Matrix with the Commission that claimed its AMI proposal 
+1 
+has a net present benefit value of $15.6M and a benefit cost ratio of 1.17.4 The 
+2 
+Commission order concerning this proposal noted there were additional potential 
+3 
+benefits that had not been quantified by the Company: 
+4 
+Staff found that the benefit assumptions made by the 
+5 
+Company appear conservative . . . . Additional benefits 
+6 
+from time varying pricing and energy monitoring were 
+7 
+not quantified by the Company but could provide 
+8 
+customers benefits over the life of the meters. . . . The 
+9 
+Commission finds that the revised benefit cost ratio 
+10 
+also provides support for the implementation of this 
+11 
+project, especially considering all feasible benefits that 
+12 
+have not been quantified by O&R.5  
+13 
+The Commission’s 2017 AMI Order required the Company to annually track 
+14 
+the breakdown of AMI expenditures, cost reduction benefits, actual and target 
+15 
+electric and gas AMI net balances, and earnings computations.6  The Company 
+16 
+has also filed quarterly reports on certain AMI implementation metrics as part of its 
+17 
+June 2016 Distributed System Implementation Plan which included an AMI 
+18 
+Business Plan.7 In the Commission’s Order Adopting Terms of Joint Proposal and 
+19 
+Establishing Electric and Gas Rate Plans, issued March 14, 2019 (2019 Rate 
+20 
+Order), the Commission approved the Joint Proposal’s treatment of AMI costs 
+21 
+ 
+4  Id. at 17-18. 
+5  Id. at 18. 
+6  
+Id. at 25.  
+7  
+See e.g., Case 17-M-0178, Petition of Orange and Rockland Utilities, Inc. for Authorization of a 
+Program Advancement Proposal, ORU AMI Quarterly Matrix Report March 2021 (filed April 21, 2021) 
+(“March 2021 AMI Report”). 
+
+
+--- Page 14 ---
+CASE 21-E-0074 and 21-G-0073  
+ 
+ 
+             DIRECT TESTIMONY OF  
+ 
+   
+UIU RATE PANEL 
+13 
+(managing the already approved $98M cap) and required the Company to submit 
+1 
+semi-annual reports regarding the implementation of the AMI system, with 
+2 
+references benchmarking the Company’s AMI Business Plan.8  
+3 
+As of December 30, 2020, the Company has deployed over 360,000 AMI 
+4 
+meters across Rockland, Orange, and Sullivan Counties.9  The Company has also 
+5 
+deployed the communications hardware and software necessary to enact the 
+6 
+Company’s Outage Management System (first round completed September 30, 
+7 
+2018 with the latest round placed into production in May 2020), remote methane 
+8 
+sensors (launched March 31, 2019), and billing for complex customers (August 
+9 
+2020).10 The Company states these developments set the stage for future 
+10 
+investments and operational improvements, including Conservation Voltage 
+11 
+Optimization (CVO) and the ability for customers to become better informed energy 
+12 
+users.11  
+13 
+The Company is required to report on cost reductions associated with AMI 
+14 
+implementation. The Company’s March 31, 2021 report indicated in Quarter 1 for 
+15 
+2021, the Outage Management function had (1) avoided approximately $273,000 
+16 
+for both O&R and Rockland Electric Company (RECO) of emergency response 
+17 
+labor costs by not responding to 525 false outages; (2) allowed the Company to 
+18 
+ 
+8  Case 18-E-0067 et al., Order Adopting Terms of Joint Proposal Establishing Electric and Gas Rate 
+Plans, at 47 (issued March 14, 2019). 
+9  March 2021 AMI Report at 3. 
+10  Id. at 4-5. 
+11   Id. 
+
+
+--- Page 15 ---
+CASE 21-E-0074 and 21-G-0073  
+ 
+ 
+             DIRECT TESTIMONY OF  
+ 
+   
+UIU RATE PANEL 
+14 
+identify and react to 52 power quality issues for both RECO and O&R; and (3) the 
+1 
+Company was able to identify 525 non-storm false outages for RECO and O&R.12 
+2 
+In UIU IR No. 62, UIU sought more information regarding cost reductions 
+3 
+associated with AMI and how these cost reductions are passed back to individual 
+4 
+service classes. The Company objected to this question, by claiming, among other 
+5 
+things, that UIU was seeking information that was irrelevant or not reasonably 
+6 
+calculated to lead to the discovery of admissible evidence, and that our requests 
+7 
+were unduly burdensome and harassing.13 Notwithstanding these objections, the 
+8 
+Company did provide a few tidbits of information in a supplemental response. The 
+9 
+Company stated: 
+10 
+… during calendar year 2020 the Company quantified the following costs 
+11 
+reductions due to AMI on a combined Orange and Rockland/Rockland 
+12 
+Electric Company basis:  
+13 
+• Reduction in manual meter operations costs – $1,055,000  
+14 
+• Emergency response labor reduction (due to not responding to false 
+15 
+outages) – $874,000  
+16 
+…The Company does not currently forecast the prospective annual 
+17 
+monetary benefits of AMI.14 
+18 
+To put these 2019 AMI-related cost savings of approximately $2M into 
+19 
+perspective, the Company had an AMI Plant Balance of approximately $89.93M at 
+20 
+year end 2019 across its electric, gas, and common accounts.15  
+21 
+ 
+12  Id. at 8. 
+13  Company Response to UIU IR No. 62. 
+14  Company Response to UIU IR No. 62 Supplemental. 
+15  Company Response to UIU IR No. 66 Attachment 1.  
+
+
+--- Page 16 ---
+CASE 21-E-0074 and 21-G-0073  
+ 
+ 
+             DIRECT TESTIMONY OF  
+ 
+   
+UIU RATE PANEL 
+15 
+Q.  
+Is this the first time O&R is proposing that AMI cost allocation be included as part 
+1 
+of the ECOS study? 
+2 
+A.  
+Yes.  According to UIU IR No. 67, the Company did not make any proposal related 
+3 
+to cost allocation for AMI-related costs in its ECOS studies in the Company’s last 
+4 
+rate cases 18-E-0067 et al. The Company stated “the ECOS studies filed in those 
+5 
+Cases were based on 2015 and 2016 test years respectively and as such did not 
+6 
+include any AMI costs.” According to UIU IR No. 66 Attachment 1 there have been 
+7 
+significant investments in AMI since that time, and by 2019 the total AMI Plant 
+8 
+Balance was approximately $89.938M. 
+9 
+Q. 
+Considering that this is first case where AMI costs comprise a significant portion 
+10 
+of the costs being allocated in the ECOS study, did the Company provide detailed 
+11 
+testimony explaining its AMI cost allocation proposals in these cases? 
+12 
+A. 
+No.  The Company’s Demand Analysis and Cost of Service Panel – Electric only 
+13 
+mentions AMI in a brief discussion about how it obtained data for developing 
+14 
+demand cost responsibilities. Similarly, the Company’s Electric Rate Panel only 
+15 
+mentions AMI in its explanation of why it is proposing to eliminate the Meter 
+16 
+Ownership component of metering charges, given that with an AMI system it is not 
+17 
+very practical for customers to supply their own meter.  However, information 
+18 
+concerning the Company’s AMI cost allocation approach can be found on page 25 
+19 
+of the AFC tab of the Company’s Exhibit___(DAC-2), Schedule 1 workpaper that 
+20 
+was provided in the Company’s supplemental response to UIU IR No. 4. The 
+21 
+approach is further clarified in the Company’s response to UIU IR No. 55 
+22 
+
+
+--- Page 17 ---
+CASE 21-E-0074 and 21-G-0073  
+ 
+ 
+             DIRECT TESTIMONY OF  
+ 
+   
+UIU RATE PANEL 
+16 
+Supplemental 1 in the Electric Meter Study excel file (Tab 2019 Meter Study by 
+1 
+Class).  Based upon this IR, it appears that AMI meter costs are proposed to be 
+2 
+allocated based on the number of meters in each class and the unitized average 
+3 
+cost of AMI meters in two broad service categories.  Residential customers were 
+4 
+assigned a unitized cost of $81.90 per AMI meter, while Commercial and Industrial 
+5 
+General Service customers were assigned a unitized average cost of $148.88 per 
+6 
+AMI meter.   
+7 
+Legacy meter costs (although these meters are no longer installed on 
+8 
+customer premises) were allocated based on the remaining (sunk) costs in each 
+9 
+service classification.16  For electric, AMI Meter and legacy (sunk) costs are 
+10 
+combined to develop the S05 Allocator for $33.203M of Meter Ownership costs in 
+11 
+the Company’s ECOS study.17  A similar approach was used to develop the S06 
+12 
+Allocator for electric Utility Metering, incorporating the cost of meter installations 
+13 
+($17.794M), for a total of $50.997M.18 
+14 
+Q. 
+Do you have any concerns related to the Company’s treatment of AMI Project 
+15 
+Costs? 
+16 
+A. 
+Yes.  The proposed AMI cost allocation approach does not consider the complex, 
+17 
+integrated nature of an AMI system, which is capable of doing far more than 
+18 
+ 
+16  Company response to UIU IR No. 55 states, “Legacy metering costs are allocated to all service classes 
+in the Company’s ECOS study to reflect the treatment of these costs pursuant to the Joint Proposal in 
+Case 18-E-0067.” 
+17  Company Exhibit ___ (DAC-2) Page 174 of 333 at line 45; see also UIU IR No. 55 supplemental 1.  
+18  Company Exhibit ___ (DAC-2) Page 174 of 333 at line 49; see also UIU IR No. 55 supplemental 1.  
+
+
+--- Page 18 ---
+CASE 21-E-0074 and 21-G-0073  
+ 
+ 
+             DIRECT TESTIMONY OF  
+ 
+   
+UIU RATE PANEL 
+17 
+traditional meters.  The AMI system has capabilities that go far beyond the 
+1 
+traditional function of a legacy meter, supporting the ability to quickly and precisely 
+2 
+pinpoint electrical outages, enhance safety, detect methane emissions, help 
+3 
+customers manage their energy usage, control voltage, monitor electrical flows, 
+4 
+and more. In recognition of this enhanced functionality and the associated societal 
+5 
+and system-wide benefits that contributed to the Commission’s decision to approve 
+6 
+the AMI project, we believe it is not appropriate to classify these costs as purely 
+7 
+customer-related, or to allocate these costs in the same way as legacy metering 
+8 
+costs.  Instead, a reasonable share of the Company’s AMI costs should be 
+9 
+allocated in a way that recognizes that AMI is an integrated system with multiple 
+10 
+benefits, that many of these benefits flow to society as a whole, and that many of 
+11 
+these benefits disproportionately flow to larger energy users. The ECOS study 
+12 
+should take these non-traditional functions into account, by allocating a reasonable 
+13 
+share of the AMI metering costs based upon energy and demand – to reflect these 
+14 
+broader societal benefits and the energy-related and demand-related functions of 
+15 
+the AMI system. 
+16 
+Q. 
+Can you elaborate on why you believe it would be reasonable to allocate more of 
+17 
+the AMI system costs to larger energy users? 
+18 
+A. 
+Yes.  Although the appropriate method for recovering metering costs has 
+19 
+occasionally been debated in the past, the use of advanced metering technology 
+20 
+to support new functions (in addition to billing) has fundamentally changed the 
+21 
+
+
+--- Page 19 ---
+CASE 21-E-0074 and 21-G-0073  
+ 
+ 
+             DIRECT TESTIMONY OF  
+ 
+   
+UIU RATE PANEL 
+18 
+issue because of the broader capabilities of AMI metering, as explained in the 
+1 
+report published by the Regulatory Assistance Project (RAP) in January 2020:  
+2 
+How to classify the cost is a matter of debate. On one 
+3 
+hand, a meter is needed because usage levels vary 
+4 
+from customer to customer and month to month, a 
+5 
+theoretically usage-related cost. But on the other hand, 
+6 
+one meter is needed for every metered customer, and 
+7 
+meter costs do not typically vary from customer to 
+8 
+customer within a class. In addition, smart meters 
+9 
+entail both higher direct investment costs and back 
+10 
+office 
+investments 
+but 
+provide 
+generation, 
+11 
+transmission and distribution system benefits by 
+12 
+allowing more precise measurement and control of 
+13 
+local loads and more accurate assignment of peaking 
+14 
+capacity requirements.19  
+15 
+The authors explain the significance of AMI technology, as distinguished from 
+16 
+traditional metering: 
+17 
+In the past, customer meters were used solely to 
+18 
+measure usage and render bills. Today, so-called 
+19 
+smart meters are part of a complex web of assets that 
+20 
+enable energy efficiency, peak load management and 
+21 
+improved system reliability, in addition to the traditional 
+22 
+measuring of usage and rendering of bills. 20 
+23 
+The RAP report compares and contrasts the functionality of AMI meters with 
+24 
+legacy meters and shows that AMI meters provide significantly more functionality 
+25 
+than legacy meters – explaining that “a smart meter is much more than a device 
+26 
+to measure customer usage to assure an accurate bill.”21  As the RAP report 
+27 
+ 
+19  Regulatory Assistance Project, Jim Lazar, Paul Chernick, and William Marcus, Electric Cost Allocation 
+for a New Era Manual, at 60 (Jan. 2020) (2020 RAP Cost Allocation Report). 
+20  Id. at 83. 
+21  Id. at 157. 
+
+
+--- Page 20 ---
+CASE 21-E-0074 and 21-G-0073  
+ 
+ 
+             DIRECT TESTIMONY OF  
+ 
+   
+UIU RATE PANEL 
+19 
+explains, smart meters are the fundamental building block of a system that can 
+1 
+provide many different benefits: 
+2 
+The potential benefits of the smart grid, depending on 
+3 
+how it is designed and used, include reduced costs for 
+4 
+generation, transmission, distribution and customer 
+5 
+service … A smart meter is much more than a device 
+6 
+to measure customer usage to assure an accurate bill 
+7 
+— it is the foundation of a system that may provide  
+8 
+ 
+9 
+[1] Benefits at every level of system capacity, by 
+10 
+enabling 
+peak 
+load 
+management 
+since 
+the 
+11 
+communication system can be used to control 
+12 
+compatible end uses, and because customer response 
+13 
+to calls for load reduction can be measured and 
+14 
+rewarded.  
+15 
+ 
+16 
+[2] Distribution line loss savings from improved power 
+17 
+factor and phase balancing.  
+18 
+ 
+19 
+[3] Reduced energy costs due to load shifting.  
+20 
+ 
+21 
+[4] Reliability benefits, saving time and money on 
+22 
+service restoration after outages, since the utility can 
+23 
+determine which meters do not have power and can 
+24 
+determine whether a customer’s loss of service is due 
+25 
+to a problem inside the premises or on the distribution 
+26 
+system. 
+27 
+ 
+28 
+[5] Allowing utilities to determine maximum loads on  
+29 
+individual transformers.22   
+30 
+ 
+22  Id. 
+
+
+--- Page 21 ---
+CASE 21-E-0074 and 21-G-0073  
+ 
+ 
+             DIRECT TESTIMONY OF  
+ 
+   
+UIU RATE PANEL 
+20 
+As these examples demonstrate, AMI systems are capable of performing 
+1 
+many functions beyond customer billing. Each individual meter provides a 
+2 
+collection point for information that benefits the entire system – not just the 
+3 
+customer where the meter is located.  AMI meters are part of a complex system 
+4 
+that is capable of collecting and reporting information from hundreds of thousands 
+5 
+of locations throughout the grid, analyzing that information, and sending control 
+6 
+signals back to key points on the grid in response to that analysis, to help 
+7 
+customers manage their energy usage and to help the utility manage various 
+8 
+aspects of the distribution system.  
+9 
+Because each smart meter is a small component of an interconnected 
+10 
+system that can perform many functions that are not customer-specific, it is 
+11 
+inappropriate to classify AMI costs as purely customer-related, or to recover these 
+12 
+costs on the basis of uniform unitized meter costs per-customer.  Instead, 
+13 
+appropriate consideration should be given to energy and demand-related 
+14 
+allocation factors, to reflect the fact that customer billing is just one of many AMI 
+15 
+functions.  Some of these other functions are already being provided by AMI – like 
+16 
+outage management – while other functions are likely to be added in the future – 
+17 
+like Conservation Voltage Optimization (CVO) and various efforts to encourage 
+18 
+energy conservation and reductions in peak usage. 
+19 
+Given AMI’s integrated, system-wide, multi-purpose functionality, which 
+20 
+goes far beyond the basic functionality of legacy meters, it is appropriate to take a 
+21 
+fresh look at the way utility metering costs should be classified and allocated.  In 
+22 
+
+
+--- Page 22 ---
+CASE 21-E-0074 and 21-G-0073  
+ 
+ 
+             DIRECT TESTIMONY OF  
+ 
+   
+UIU RATE PANEL 
+21 
+the RAP report, the authors concluded that AMI smart meters should be classified 
+1 
+as demand, energy and customer-related costs; the AMI distribution control 
+2 
+devices should be classified as demand and energy-related costs; the data 
+3 
+collection system should be classified as demand, energy and customer-related 
+4 
+costs, and the meter data management system should also be classified as 
+5 
+demand, energy, and customer-related costs.23 
+6 
+Q. 
+Are you aware of any documents that confirm that the types of AMI meter installed 
+7 
+by the Company can provide support for operational functions that would normally 
+8 
+be classified as energy-related or demand-related? 
+9 
+A. 
+Yes. The Company’s Initial Distributed System Implementation Plan (DSIP), dated 
+10 
+June 30, 2016, includes an explanation of the Company’s plans and objectives for 
+11 
+AMI.  This document clearly establishes that the Company has always viewed AMI 
+12 
+as a foundational technology that provides system support functions that would 
+13 
+normally be viewed as energy-related or demand-related, rather than customer-
+14 
+related.  This document also demonstrates that AMI was presented to the 
+15 
+Commission as a technology that could help advance the Commission’s broad 
+16 
+societal goals for Reforming the Energy Vision (REV) – not simply as a new way 
+17 
+to collect data for billing purposes.24 The focus of the discussion in this document 
+18 
+ 
+23   2020 RAP Report at 157. 
+24    Case 14-M-0101, Proceeding on Motion of the Commission in Regard to Reforming the Energy 
+Vision, Orange & Rockland Initial Distributed System Implementation Plan, at 3 (filed June 30, 2016).  
+
+
+--- Page 23 ---
+CASE 21-E-0074 and 21-G-0073  
+ 
+ 
+             DIRECT TESTIMONY OF  
+ 
+   
+UIU RATE PANEL 
+22 
+is on helping customers control their energy usage, strengthening system reliability 
+1 
+and improving and modernizing various aspects of the Company’s operations.  
+2 
+New York State’s REV initiative aligns with O&R’s 
+3 
+continuing efforts to modernize and strengthen the 
+4 
+electrical distribution system and provide customers 
+5 
+with the information and opportunities to take more 
+6 
+control of their own energy usage.25 
+7 
+ 
+8 
+From the discussion in the 2016 DSIP it is clear that AMI provides 
+9 
+fundamental support for the Company’s efforts to modernize the grid, to fulfill its 
+10 
+role as a Distributed System Platform (DSP) and to advance the Commission’s 
+11 
+REV policy objectives: 
+12 
+AMI . . . will, among other things, facilitate the 
+13 
+Commission’s REV policies and goals, reduce 
+14 
+operating costs, accelerate identification of customer 
+15 
+outages, and improve overall outage response and 
+16 
+efficiency.  . . . 
+17 
+The AMI communications network and AMI meters 
+18 
+deployed through this project will provide the 
+19 
+foundation for implementing several of the key policy 
+20 
+objectives stipulated by the Commission in the REV 
+21 
+proceeding by improving system visibility, enhancing 
+22 
+controls, and supporting advanced analytics that will 
+23 
+provide customers the ability to actively participate in 
+24 
+energy markets, control energy use, and take control 
+25 
+of their monthly bill. 26  
+26 
+ 
+27 
+ 
+25   Id. 
+26   Id. at 4. 
+
+
+--- Page 24 ---
+CASE 21-E-0074 and 21-G-0073  
+ 
+ 
+             DIRECT TESTIMONY OF  
+ 
+   
+UIU RATE PANEL 
+23 
+While the AMI Business Plan focused mostly on some of the more prosaic 
+1 
+opportunities, like reduced meter reading labor, the discussion in the 2016 DSIP 
+2 
+makes it clear that the reasons for deploying AMI technology went far beyond 
+3 
+traditional customer-related functions.  In advancing the Company’s plan for 
+4 
+removing legacy meters before the end of their depreciable life and replacing them 
+5 
+with AMI meters, the Company drew the Commission’s attention to a wide array of 
+6 
+benefits that would become possible with this improved technology, like providing 
+7 
+more granular usage data to help customers conserve energy and control peak 
+8 
+usage, and to help third parties take actions that would advance the Commission’s 
+9 
+REV goals: 
+10 
+Through foundational investments like AMI . . . the 
+11 
+Company will provide customers more granular usage 
+12 
+data that can be viewed through a streamlined 
+13 
+platform, and easily transferred to authorized third 
+14 
+parties. 27 
+15 
+Similarly, the 2016 DSIP explains that the data collection and 
+16 
+communications capability of the AMI system will help encourage the 
+17 
+advantageous deployment of distributed energy resources (DERS) and non-wire 
+18 
+alternatives (NWAs), and it will improve the Company’s ability to identify where 
+19 
+DER can provide the most benefit to the distribution system and ultimately the 
+20 
+Company’s customers:28 
+21 
+[T]he Company must adapt the way that it operates the 
+22 
+grid to incorporate and address both the opportunities 
+23 
+ 
+27    Id. at 6. 
+28    Id. at 7.  
+
+
+--- Page 25 ---
+CASE 21-E-0074 and 21-G-0073  
+ 
+ 
+             DIRECT TESTIMONY OF  
+ 
+   
+UIU RATE PANEL 
+24 
+and challenges inherent in increased DER penetration. 
+1 
+This includes enhancing the monitoring of the system 
+2 
+to view the impact of DER in real-time when facing 
+3 
+contingencies and other forms of system stress, and 
+4 
+potentially facilitating the employment of DER solutions 
+5 
+to address such situations.29 
+6 
+The linkage between granular usage data and DER is alluded to in this 
+7 
+passage: 
+8 
+The information gained from the analysis of this data 
+9 
+will equip customers, the Company, and DER 
+10 
+providers with the insight to manage, facilitate, employ, 
+11 
+and reap the benefits which DER provides.  As a whole, 
+12 
+these 
+actions 
+will 
+establish 
+the 
+functionalities 
+13 
+necessary for O&R to begin to serve as the DSP 
+14 
+Provider. 30 
+15 
+Granular data from thousands of AMI metering points strategically deployed 
+16 
+throughout the system is fundamental to many other advanced capabilities 
+17 
+discussed in the 2016 DSIP (as well as other capabilities that are just now 
+18 
+emerging or will become available over the life of the AMI system).  Some hint of 
+19 
+the dramatically increased flow of information that is available from AMI, and some 
+20 
+of the many predicted benefits that will flow to energy users, the Company’s 
+21 
+system operators, and society as a whole, can be conveyed through a few brief 
+22 
+excerpts from the 2016 DSIP: 
+23 
+AMI will provide customers with much greater insight 
+24 
+into their energy usage, presenting them with the 
+25 
+opportunity to make more informed decisions and 
+26 
+lower their energy bills.  AMI will also allow customers 
+27 
+to share their own energy usage data with third parties 
+28 
+ 
+29    Id. 
+30   Id. at 7. 
+
+
+--- Page 26 ---
+CASE 21-E-0074 and 21-G-0073  
+ 
+ 
+             DIRECT TESTIMONY OF  
+ 
+   
+UIU RATE PANEL 
+25 
+through the Company’s development of GBC, enabling 
+1 
+them to better take advantage of various DER 
+2 
+offerings.  Finally, AMI will also provide the Company 
+3 
+with more granular system data helping to further 
+4 
+enhance many of the capabilities described above. 31  
+5 
+ 
+6 
+ [Historically] it has been very difficult to measure 
+7 
+distribution losses, particularly as load modifiers 
+8 
+continue to proliferate across the system and there are 
+9 
+gaps in data availability for their impacts throughout the 
+10 
+load cycle. Additionally, while the coincidental 
+11 
+substation load is available, the coincidental customer 
+12 
+load is currently extremely difficult to determine/obtain.  
+13 
+Customer data is not all retrieved at the same time, and 
+14 
+therefore parsing the data significantly affects the 
+15 
+accuracy of the customer load, which in turn affects the 
+16 
+calculation of distribution losses. The installation of 
+17 
+AMI will significantly improve this process. The 
+18 
+capability to retrieve data from additional locations on 
+19 
+the circuit, such as reclosers and other smart devices, 
+20 
+will help and assist O&R Distribution Planning to 
+21 
+identify areas where loss improvement is needed.32  
+22 
+Distribution system data includes data such as load, 
+23 
+voltage, power quality, capacity, equipment and 
+24 
+operating detail. 33  
+25 
+O&R has extensive plans to increase the collection of 
+26 
+granular system data through SCADA as part of the 
+27 
+Company’s Distribution Automation and Technology 
+28 
+expansion deployment.  This will be accomplished 
+29 
+through the deployment of additional and improved 
+30 
+substation level metering data and through the 
+31 
+deployment of AMI.34 
+32 
+ 
+31   Id. 
+32   Id at 35. 
+33   Id. at 36. 
+34   Id. at 38. 
+
+
+--- Page 27 ---
+CASE 21-E-0074 and 21-G-0073  
+ 
+ 
+             DIRECT TESTIMONY OF  
+ 
+   
+UIU RATE PANEL 
+26 
+O&R has also been systematically installing sensors 
+1 
+throughout its service territory … Approximately 200 
+2 
+sensors have been installed in New York.35 
+3 
+With the deployment of AMI meters within the O&R 
+4 
+service territory, data related to every single end point 
+5 
+along a circuit can be gathered.  That data (Watts, 
+6 
+VARs, power quality, voltage) can be used as 
+7 
+additional sources of information to support demand 
+8 
+response, outage management and maintenance 
+9 
+management systems.  DERs that are built and 
+10 
+connected to circuits within the distribution system can 
+11 
+also be connected to the AMI communications network 
+12 
+and managed.  The volume of energy provided, and 
+13 
+even costs associated with that energy, can be tracked 
+14 
+through the communication network.  At an even more 
+15 
+granular level, AMI data can potentially be used to 
+16 
+identify usage patterns in targeted areas.36  
+17 
+Q. 
+Does the Company’s 2020 DSIP provide additional support for your position that 
+18 
+AMI meters should not be classified as purely customer-related, because they also 
+19 
+support functions that would normally be classified as energy-related or demand-
+20 
+related, and because they support broad societal goals? 
+21 
+A. 
+Yes. The Company’s latest DSIP (filed on June 30, 2020) confirms that the AMI 
+22 
+system is a fundamental part of the Company’s overall grid modernization efforts, 
+23 
+and that the data from AMI meters supports functions that are energy-related or 
+24 
+demand-related.  This can be seen in these example passages: 
+25 
+O&R’s integrated system of AMI smart meters, 
+26 
+communications networks, and the Meter Data 
+27 
+Management System (“MDMS”) establishes the 
+28 
+Company’s foundation for two-way communications 
+29 
+ 
+35   Id.  
+36   Id.  
+
+
+--- Page 28 ---
+CASE 21-E-0074 and 21-G-0073  
+ 
+ 
+             DIRECT TESTIMONY OF  
+ 
+   
+UIU RATE PANEL 
+27 
+between the Company and its customers. With this 
+1 
+integrated system, the Company can detect service 
+2 
+outages and restorations, restore power faster, and 
+3 
+enable time-of-use rate programs and incentives that 
+4 
+encourage customers to reduce load during peak 
+5 
+periods. 37 
+6 
+As of April 2020, AMI information is fully integrated into 
+7 
+the Company’s Outage Management System (“OMS”). 
+8 
+This 
+integration 
+enhances 
+the 
+Company’s 
+9 
+management of storm restoration by allowing the 
+10 
+Company to determine restoration times more quickly 
+11 
+and accurately, more efficiently employ field crews, 
+12 
+and improve on single service restoration times. By 
+13 
+providing outage messages to the OMS, AMI meters 
+14 
+provide a clearer picture of service disruption 
+15 
+throughout the service territory and allow for the 
+16 
+development of more accurate restoration efforts. The 
+17 
+ability to “ping” an AMI meter to determine its power 
+18 
+status has allowed the Company to save over 1,500 
+19 
+truck rolls to locations that already had power 
+20 
+restored.38 
+21 
+AMI is a vital element of the future distribution system 
+22 
+and plays a critical role in providing granular data to 
+23 
+customers for greater control of their energy usage. 
+24 
+With a fully enabled AMI, customers will have access 
+25 
+to their interval usage data, increasing their ability to 
+26 
+adjust consumption patterns to reduce their electric 
+27 
+bill.39 
+28 
+Needless to say, some of the support capabilities that can be added to the 
+29 
+Company’s systems as a result of AMI will not be fully realized until other 
+30 
+technologies are deployed. We have not studied these technologies in detail, and 
+31 
+ 
+37   Case 14-M-0101, Proceeding on Motion of the Commission in Regard to Reforming the Energy 
+Vision, Orange & Rockland Distributed System Implementation Plan, at 11 (filed June 30, 2020). 
+(2020 DSIP) 
+38   Id. at 11, 
+39   Id. at 27. 
+
+
+--- Page 29 ---
+CASE 21-E-0074 and 21-G-0073  
+ 
+ 
+             DIRECT TESTIMONY OF  
+ 
+   
+UIU RATE PANEL 
+28 
+we are not taking a position in this testimony on any new programs the Company 
+1 
+is requesting funding for in this rate case. We do, however, note that the broad 
+2 
+functionality of AMI technology is highly relevant to the appropriate classification 
+3 
+and allocation of AMI metering costs.  The broad scope of this technology becomes 
+4 
+clear from the Company’s discussion in its 2020 DSIP, concerning its plans for the 
+5 
+AMI system. 
+6 
+Substation automation will also help O&R to integrate 
+7 
+and expand the functionalities and efficiencies to be 
+8 
+realized through VVO, FLISR, and DA capabilities, and 
+9 
+will play a critical role in fully leveraging AMI and 
+10 
+demand response (“DR”) capabilities. 
+11 
+The ADMS, which is currently being implemented to 
+12 
+replace the DSCADA system, will extend the capability 
+13 
+of the Distribution Operators and Electric Operations 
+14 
+through a model of the electrical system. It will combine 
+15 
+AMI data, mapping data, substation SCADA data, and 
+16 
+distribution automation measurements.40 
+17 
+With a fully deployed AMI infrastructure, expected in 
+18 
+Q4 2020, the Company will receive more granular 
+19 
+system data which will support the advanced 
+20 
+applications of the ADMS and enable enhanced 
+21 
+monitoring and control across the system.   
+22 
+The ADMS will be the foundational platform that is 
+23 
+developed and integrated with other systems and near 
+24 
+real-time data sources to enhance electric distribution 
+25 
+system situational awareness, analysis, M&C to 
+26 
+improve reliability, resiliency, and efficiency. The 
+27 
+Company expects to complete the implementation of 
+28 
+the ADMS in Q1 2021.41 
+29 
+ 
+40   Id. at 61. 
+41   Id. at 67. 
+
+
+--- Page 30 ---
+CASE 21-E-0074 and 21-G-0073  
+ 
+ 
+             DIRECT TESTIMONY OF  
+ 
+   
+UIU RATE PANEL 
+29 
+The support capabilities provided by AMI meters are also beneficial to 
+1 
+technologies like energy storage and electrification of transportation, which will be 
+2 
+increasingly important to achieving New York’s energy policy goals. As energy 
+3 
+storage becomes more widespread, the flow of granular data from AMI will be 
+4 
+increasingly important, but even now the Company states it is relying on AMI data 
+5 
+to identify customers that could be good candidates for energy storage.42 Similarly, 
+6 
+the granular data obtained from AMI meters will be of crucial importance in 
+7 
+speeding the transition to electric vehicles.43 
+8 
+In these passages concerning the New York State Climate Leadership and 
+9 
+Community Protection Act (CLCPA),44 the Company provides additional insight 
+10 
+into the broad array of benefits that can potentially be obtained from an AMI system 
+11 
+that provides granular real-time data. 
+12 
+The targets established in the CLCPA—including 
+13 
+decarbonization, energy storage, solar installations, 
+14 
+beneficial electrification—necessitate the Company’s 
+15 
+prioritization of grid modernization investments …  
+16 
+In order to achieve the CLCPA’s goals, the future 
+17 
+electric grid will need to support real-time operations 
+18 
+across a diverse resource mix including traditional 
+19 
+assets, DERs, and large-scale intermittent resources 
+20 
+connected to the bulk electric power system (“EPS”). In 
+21 
+addition, with the Company’s implementation of AMI, 
+22 
+O&R is able to transmit and analyze extraordinary 
+23 
+amounts of data shared from thousands of devices. 
+24 
+This will allow the Company to facilitate coordination 
+25 
+between wholesale and distribution markets, while 
+26 
+ 
+42   Id. at 94. 
+43   Id. at 113.  
+44  L. 2019, Ch. 106. 
+
+
+--- Page 31 ---
+CASE 21-E-0074 and 21-G-0073  
+ 
+ 
+             DIRECT TESTIMONY OF  
+ 
+   
+UIU RATE PANEL 
+30 
+continuing to deliver reliability and resiliency to 
+1 
+customers. As detailed further in the subsequent 
+2 
+topical sections, O&R’s approach to grid modernization 
+3 
+prioritizes investments to develop these capabilities, 
+4 
+deliver resiliency, and simultaneously support the 
+5 
+CLCPA’s decarbonization and DER deployment 
+6 
+goals.45  
+7 
+Q. 
+Can you provide any other examples of how the AMI system supports functions 
+8 
+that should not be classified as customer-related? 
+9 
+A. 
+Yes. In the discussion of new AMI functionality in the 2020 DSIP, five examples 
+10 
+are provided.46 Several of these examples involve support functions that are 
+11 
+clearly energy-related or demand-related, while others are safety-related, or only 
+12 
+partially related to the number of customers on the system. 
+13 
+Q. 
+Are you aware of any proceedings where a state regulatory commission concluded 
+14 
+that AMI meters should not be exclusively classified as customer-related costs? 
+15 
+A. 
+Yes. After receiving evidence concerning this issue in a 2016 Potomac Electric 
+16 
+Company rate case, the Maryland Public Service Commission (Maryland PSC) 
+17 
+concluded that it was appropriate to use a “hybrid” cost allocation approach for 
+18 
+AMI costs.47  More specifically, the hybrid approach adopted by the Maryland PSC 
+19 
+ 
+45  2020 DSIP at 29.  
+46   Id. at 179-180. 
+47  Pub. Serv. Comm’n of Md., Case 9418, In the Matter of the Application of Potomac Electric Power 
+Company for Adjustments to its Retail Rates for the Distribution of Electric Energy, Order No. 87884, at 
+106 (Nov. 15, 2016) (Order No. 87884). Maryland Public Service Commission declined to revisit the 
+hybrid allocation methodology in a subsequent rate case for the same utility, in Case 9443, In the Matter 
+of the Application of Potomac Electric Power Company for Adjustments to its Retail Rates for the 
+Distribution of Electric Energy, Errata Order No. 88432, at 116–17 (Oct. 27, 2017) (rehearing denied, 
+Order No. 89124, May 10, 2019) (Md. Order No. 88432)). 
+
+
+--- Page 32 ---
+CASE 21-E-0074 and 21-G-0073  
+ 
+ 
+             DIRECT TESTIMONY OF  
+ 
+   
+UIU RATE PANEL 
+31 
+in case 9418 allocated 75% of AMI meter costs on the basis of energy and demand 
+1 
+allocators (37.5% energy and 37.5% demand), with the remaining portion 
+2 
+classified as customer-related.48 The hybrid approach was recommended in the 
+3 
+testimony of Maryland PSC Staff witness C. Shelley Norman. In her testimony, Dr. 
+4 
+Norman concluded that: 
+5 
+AMI enables a wide array of functions unassociated 
+6 
+with metering or billing and collection. The role of AMI 
+7 
+in peak load reduction, energy efficiency, system 
+8 
+operations and reliability, and other functions of the 
+9 
+utility clearly establish that smart meter costs do not 
+10 
+belong exclusively in the category of customer-related 
+11 
+costs.49   
+12 
+ 
+13 
+In adopting Dr. Norman’s recommendation, the Maryland PSC concluded that the 
+14 
+“hybrid approach most fairly spreads the costs and related benefits of AMI 
+15 
+throughout the Pepco service territory.”50   
+16 
+The facts and reasoning set forth her direct testimony were largely 
+17 
+consistent with the logic and facts we have been discussing.  For instance, Dr. 
+18 
+Norman noted that AMI meters can be used for load shaping and conservation 
+19 
+programs, and concluded from this fact that AMI costs should not be classified as 
+20 
+purely customer-related: 
+21 
+The NARUC cost allocation manual offers an 
+22 
+analogous argument in the context of customer service 
+23 
+ 
+48  Order No. 87884 at 105-106; see also Case No. 9418, In the Matter of the Application of Potomac 
+Electric Power Company for Adjustments to its Retail Adjustments to its Retail Rates for Distribution of 
+Electric Energy, Direct Testimony and Exhibits of C. Shelley Norman, Ph.D. on behalf of the Staff of the 
+Public Service Commission of Maryland, at 23 (July 6, 2016) (Norman Direct Testimony). 
+49  Norman Direct Testimony, at 21-23. 
+50  Md. Order No. 87884, at 106. 
+
+
+--- Page 33 ---
+CASE 21-E-0074 and 21-G-0073  
+ 
+ 
+             DIRECT TESTIMONY OF  
+ 
+   
+UIU RATE PANEL 
+32 
+and informational expenses, noting that “these 
+1 
+programs should be classified according to program 
+2 
+goals. For example, a load management program…is 
+3 
+designed to save generation during peak hours. This 
+4 
+program could be classified as generation-related 
+5 
+and allocated on the basis of peak demand…. The 
+6 
+goal of other conservation programs may be to save 
+7 
+electricity on an annual basis. These costs could be 
+8 
+classified as generation-related and allocated on 
+9 
+the basis of energy usage.” Similarly, to the extent 
+10 
+that the incremental costs of AMI meters are incurred 
+11 
+to support load shaping and conservation programs 
+12 
+and goals they could be classified and allocated 
+13 
+accordingly. (citations omitted) (emphasis added)51 
+14 
+ 
+In a more recent rate case involving Baltimore Gas & Electric, in Order No. 89678 
+15 
+(issued December 16, 2020), the Maryland PSC reaffirmed its conclusion that AMI 
+16 
+costs should not be treated as purely customer-related,  and adopted a proposal 
+17 
+to allocate costs between customer related, energy, and demand allocators, to 
+18 
+reflect the mixture of different benefits derived from the AMI system. The Maryland 
+19 
+PSC also directed the utility to file an updated electric AMI benefits report in the 
+20 
+next case “to ensure that AMI allocators reflect update-to-date benefit 
+21 
+weights . . . .”52  
+22 
+Q. 
+Has this Commission adopted a state-wide policy concerning AMI cost allocations? 
+23 
+A. 
+No.  For example, on page 52 of its recent Order Authorizing Implementation of 
+24 
+Advanced Metering Infrastructure with Modifications in Cases 17-E-0238 et al. 
+25 
+ 
+51  Norman Direct Testimony at 20. 
+52    Pub. Serv. Comm’n of Md., Case 9645, In the Matter of the Application of Baltimore Gas and Electric 
+Company for an Electric and Gas Multi-Year Plan, Order No. 89678, at 177 (Dec. 16, 2020) (Order No. 
+89678).  
+
+
+--- Page 34 ---
+CASE 21-E-0074 and 21-G-0073  
+ 
+ 
+             DIRECT TESTIMONY OF  
+ 
+   
+UIU RATE PANEL 
+33 
+(Niagara Mohawk AMI Order), the Commission concluded that the appropriate 
+1 
+allocation of AMI costs was one of the issues that should be resolved in that utility’s 
+2 
+pending electric and gas rate cases (Cases 20-E-0380 et al.). The Commission 
+3 
+did not provide any further guidance concerning how this issue should be resolved, 
+4 
+or what factors were most important to consider.53  In that proceeding Niagara 
+5 
+Mohawk treated AMI meter costs as purely customer-related, and proposed the 
+6 
+use of weighted average of meter costs to allocate these costs – similar to what 
+7 
+Orange and Rockland is proposing here. The Niagara Mohawk cases are ongoing, 
+8 
+as such there has not been any resolution of the AMI cost allocation issue at the 
+9 
+time when this testimony was filed. 
+10 
+Q. 
+What do you recommend with respect to AMI costs? 
+11 
+A. 
+AMI metering costs should not be treated as purely customer-related. AMI meters 
+12 
+provide support for many more functions than legacy meters and their costs should 
+13 
+be allocated in a manner that reflects that broad array of functions. We recommend 
+14 
+that the Commission adopt an approach that more accurately aligns costs with the 
+15 
+benefits that AMI supplies to the system. There are several options that would 
+16 
+improve such accuracy. For example, the “Hybrid” approach used by the Maryland 
+17 
+PSC, which allocates AMI meter costs based upon energy, demand, and 
+18 
+customer-related allocation data, would be a reasonable one to adopt here, 
+19 
+ 
+53   See Cases 17-E-0238 et al., Proceeding on Motion of the Commission as to the Rates, Charges, 
+Rules and Regulations of Niagara Mohawk Power Corporation d/b/a National Grid for Electric Service, 
+Order Authorizing Implementation of Advanced Metering Infrastructure with Modifications, at 44 
+(issued Nov. 20, 2020) (Niagara Mohawk AMI Order). 
+
+
+--- Page 35 ---
+CASE 21-E-0074 and 21-G-0073  
+ 
+ 
+             DIRECT TESTIMONY OF  
+ 
+   
+UIU RATE PANEL 
+34 
+although other approaches could also be reasonable.  Another reasonable solution 
+1 
+would be to allocate AMI costs in the same way General and Common Plant is 
+2 
+allocated. In section III.F, we provide an example of illustrative ECOS ROR results 
+3 
+in which we modified the Company’s electric supplemental ECOS study (that 
+4 
+classifies distribution costs as 100% demand-related) by allocating AMI metering 
+5 
+costs using a “Hybrid” allocator that gives reasonable weight to energy usage and 
+6 
+to peak demand, with the remaining weight given to the customer-related allocation 
+7 
+factors used in the Company’s ECOS study (which were derived from unitized 
+8 
+meter costs). This illustrative example shows one reasonable application of the 
+9 
+“Hybrid” allocation approach, although others are also possible.  
+10 
+C. 
+Distribution Costs 
+11 
+Q. 
+Did the Company provide alternative electric and gas ECOS results using a 
+12 
+different approach to classifying distribution costs within the ECOS study? 
+13 
+A. 
+Yes.  As mentioned on page 28 of the Demand Analysis and Cost of Service Panel 
+14 
+– Electric, the Company provided the results of an electric ECOS study which 
+15 
+classifies distribution poles, conductors, and transformers as entirely demand-
+16 
+related as part of Exhibit____(DAC-2), Schedule 1 Supplemental (electric).  A 
+17 
+similar analysis was presented in Exhibit____(GRP-1), Schedule 1 Supplemental 
+18 
+(gas), as mentioned on page 19 of the Gas Rate Panel, in which distribution mains 
+19 
+are classified as entirely demand-related.  These supplemental studies differ from 
+20 
+the Company’s preferred studies because they do not rely on the minimum system 
+21 
+
+
+--- Page 36 ---
+CASE 21-E-0074 and 21-G-0073  
+ 
+ 
+             DIRECT TESTIMONY OF  
+ 
+   
+UIU RATE PANEL 
+35 
+approach to classify distribution costs. They were provided by the Company 
+1 
+pursuant to the Joint Proposal which was developed as part of settlement 
+2 
+negotiations in cases 18-E-0067 et al. and adopted by the Commission in those 
+3 
+proceedings.  While the Company prepared these ECOS studies, it continues to 
+4 
+support the use of a minimum system approach, as discussed on page 87 of the 
+5 
+Electric Utility Cost Allocation Manual54 and on page 22 of the NARUC Gas 
+6 
+Manual55 prepared by the NARUC.  
+7 
+Q. 
+What is your position concerning this issue? 
+8 
+A. 
+As we have explained in other proceedings, we disagree with the minimum system 
+9 
+approach, and continue to support the use of ECOS studies that classify these 
+10 
+costs as demand-related.  While the Company points to the NARUC manuals to 
+11 
+support its use of the minimum system approach, we would simply note that the 
+12 
+minimum system approach has always been controversial, it does not follow sound 
+13 
+cost-causation principles, and it may lead to an excessive allocation of costs to 
+14 
+small commercial and residential customers.  
+15 
+Q. 
+Can you briefly explain why the Minimum System Approach is controversial? 
+16 
+A. 
+Yes. The 2020 RAP Report (discussed earlier) provides a good summary of the 
+17 
+problems:  
+18 
+The minimum system method … asks: How much 
+19 
+would it have cost to install the same number of units 
+20 
+(poles, feet of conductors, transformers) but with the 
+21 
+ 
+54 Direct Testimony of the Demand Analysis and Cost of Service Panel – Electric at 28. 
+55 Direct Testimony of the Gas Rate Panel at 20. 
+
+
+--- Page 37 ---
+CASE 21-E-0074 and 21-G-0073  
+ 
+ 
+             DIRECT TESTIMONY OF  
+ 
+   
+UIU RATE PANEL 
+36 
+size of the units installed limited to the current minimum 
+1 
+unit normally installed? This minimum system cost is 
+2 
+then designated as customer-related, and the 
+3 
+remaining system cost is designated as demand-
+4 
+related. … This minimum system analysis does not 
+5 
+provide a reliable basis for classifying distribution 
+6 
+investment and vastly overstates the portion of 
+7 
+distribution that is customer-related …  for at least eight 
+8 
+reasons. 
+9 
+1. Much of the cost of a distribution system is required 
+10 
+to cover an area and is not sensitive to either load or 
+11 
+customer number. The distribution system is built to 
+12 
+cover an area because the total load that the utility 
+13 
+expects to serve will justify the expansion into that 
+14 
+area. Serving many customers in one multifamily 
+15 
+building is no more expensive than serving one 
+16 
+commercial customer of the same size, other than 
+17 
+metering. The shared distribution cost of serving a 
+18 
+geographical area for a given load . . . does not vary 
+19 
+with customer number. 
+20 
+2. The minimum system approach erroneously 
+21 
+assumes that the minimum system would consist of the 
+22 
+same number of units (e.g., number of poles, feet of 
+23 
+conductors) as the actual system. In reality, load levels 
+24 
+help determine the number of units as well as their size. 
+25 
+Utilities build an additional feeder along the route of an 
+26 
+existing feeder (or even on the same poles); loop a 
+27 
+second feeder to the end of an existing line to pick up 
+28 
+some load from the existing line; build an additional 
+29 
+feeder in parallel with an existing feeder to pick up the 
+30 
+load of some of its branches; and upgrade feeders from 
+31 
+single-phase to three-phase. As secondary load grows, 
+32 
+the utility typically will add transformers, splitting 
+33 
+smaller customers among the existing and new 
+34 
+transformers. Some other feeder construction is 
+35 
+designed to improve reliability (e.g., to interconnect 
+36 
+feeders with automatic switching to reduce the number 
+37 
+of customers affected by outages and outage 
+38 
+duration). 
+39 
+3. Load can determine the type of equipment installed 
+40 
+as well. . . . 
+41 
+
+
+--- Page 38 ---
+CASE 21-E-0074 and 21-G-0073  
+ 
+ 
+             DIRECT TESTIMONY OF  
+ 
+   
+UIU RATE PANEL 
+37 
+4. The “minimum system” would still meet a large 
+1 
+portion of the average residential customer’s demand 
+2 
+requirements. . . .  
+3 
+5. Minimum system analyses tend to use the current 
+4 
+minimum-sized unit typically installed, not the minimum 
+5 
+size ever installed or available. The current minimum 
+6 
+unit is sized to carry expected demand … the 
+7 
+transformer industry could produce truly minimum-
+8 
+sized utility transformers, the size of those used for 
+9 
+cellular telephone chargers, if there were a demand for 
+10 
+these. 
+11 
+6. Adding customers without adding peak demand or 
+12 
+serving new areas does not require any additional 
+13 
+poles or conductors. For example, … the shared 
+14 
+distribution investment on a block with four large 
+15 
+customers is essentially the same as for a block with 
+16 
+20 small customers with the same [total] load 
+17 
+characteristics. . . .  
+18 
+Reducing the number of customers, without reducing 
+19 
+area load, will only rarely affect the length of lines or 
+20 
+the number of poles or transformers. 56 
+21 
+The 2020 RAP Report notes that multiple jurisdictions have rejected the 
+22 
+minimum-system approach, or accepted the “basic customer” method, including 
+23 
+California, Colorado, Illinois, Iowa, Massachusetts, Texas, and Washington.57  The 
+24 
+NARUC Gas Manual (which the Company cites in an effort to justify the minimum 
+25 
+system approach), explains that the basic system method only classifies 
+26 
+distribution costs as customer-related if they “vary directly with the number of 
+27 
+customers on the system.”  However, the argument going the other way is that “. . . 
+28 
+mains and services are installed to service demand of the consumers and should 
+29 
+ 
+56  2020 RAP report at 146-147. 
+57  Id. at 145. 
+
+
+--- Page 39 ---
+CASE 21-E-0074 and 21-G-0073  
+ 
+ 
+             DIRECT TESTIMONY OF  
+ 
+   
+UIU RATE PANEL 
+38 
+be allocated to that function.”58  While this discussion is taken from the NARUC 
+1 
+Gas Manual, an equally narrow view of customer-related costs is sometimes 
+2 
+applied to electric systems, as well.  A recent example can be found in the 
+3 
+Massachusetts Department of Public Utilities’ Order issued on January 5, 2018, 
+4 
+that accepts the proposal by a utility company to classify 100 percent of costs for 
+5 
+accounts including poles and conductors as demand-related – a decision that was 
+6 
+consistent with other recent orders for utilities in that state.59 
+7 
+Q. 
+What is the impact of allocating these costs based upon demand, instead of using 
+8 
+a minimum system approach? 
+9 
+A. 
+We provide illustrative results in Section III.F., titled “ECOS ROR Results,” in which 
+10 
+we modified the Company’s “Supplemental” ECOS study (which is based on 
+11 
+distribution costs being classified as 100% demand related) by allocating AMI 
+12 
+metering costs using a “Hybrid” allocator that is conceptually similar to the 
+13 
+approach that is being used in Maryland. In Section III.F, we also provide 
+14 
+illustrative results where we review the Company’s gas ECOS study that classifies 
+15 
+distribution costs as 100% demand-related.  
+16 
+Q. 
+Do you have recommendations for the types of ECOS studies provided in the 
+17 
+Company’s next electric and gas rate cases? 
+18 
+ 
+58  NARUC Gas Manual at 23. 
+59  Mass. Dep’t of Pub. Utils., Case 17-05-B, Petition of . . . Eversource Energy . . . for Approval of General 
+Increases in Base Distribution Rates for Electric Service and Performance Based Ratemaking 
+Mechanism, at 27 (Jan. 5, 2018). 
+
+
+--- Page 40 ---
+CASE 21-E-0074 and 21-G-0073  
+ 
+ 
+             DIRECT TESTIMONY OF  
+ 
+   
+UIU RATE PANEL 
+39 
+A. 
+Yes.  For future rate cases, we recommend that the Company file (1) electric ECOS 
+1 
+studies that are based on classifying distribution costs (Federal Energy Regulatory 
+2 
+Commission (FERC) Accounts 364–367) and line transformers (FERC Account 
+3 
+368) as 100% demand related and (2) gas ECOS studies that are based on 
+4 
+classifying distribution main costs (FERC Account 376) as 100% demand related. 
+5 
+Requiring the Company to file these ECOS studies as part of its filing for a rate 
+6 
+case, allows all parties to review the backup workpapers and resulting ROR per 
+7 
+Service Classification (SC or Service Class) to make informed decisions pertaining 
+8 
+to revenue allocation.   
+9 
+In addition, in the Company’s next electric and gas rate cases, we propose 
+10 
+that no less than two months prior to the intervenor direct testimony deadline, the 
+11 
+Company should invite all parties to attend a meeting, at which the Company would 
+12 
+present an overview of the detailed data set forth in its filed electric ECOS studies, 
+13 
+proposed revenue allocation process, and proposed rate design, similar to the 
+14 
+process adopted in the Commission’s Orders in Case 15-E-0050 et al.60  and 18-
+15 
+E-0067 et al.61  Such a meeting should be separate and distinct from the 
+16 
+Company’s technical conference.  Again, this is important because it allows for a 
+17 
+ 
+60  See Cases 15-E-0050 et al., Proceeding on Motion of the Commission as to the Rates, Charges, Rules, 
+and Regulations of Consolidated Edison Company of New York, Inc. for Electric Service, Order 
+Adopting Terms of Joint Proposal to Extend Electric Rate Plan, Appendix A, at 20 (issued June 19, 
+2015). 
+61  See Cases 18-E-0067 et al., Proceeding on Motion of the Commission as to the Rates, Charges, Rules, 
+and Regulations of Orange and Rockland Utilities, Inc. for Electric Service, Order Adopting Terms of 
+Joint Proposal and Establishing Electric and Gas Rate Plans, Attachment A, November 9, 2018 Joint 
+Proposal, at 41–42, 44 (issued Mar. 14, 2019).   
+
+
+--- Page 41 ---
+CASE 21-E-0074 and 21-G-0073  
+ 
+ 
+             DIRECT TESTIMONY OF  
+ 
+   
+UIU RATE PANEL 
+40 
+time where all interested parties become informed about the Company’s ECOS 
+1 
+models, revenue allocation process, and supporting workpapers used as a guide 
+2 
+to ultimately design rates.  This also alleviates the need for a substantial number 
+3 
+of IRs and use of the Company’s labor hours during the rate case discovery 
+4 
+process. 
+5 
+D. 
+Pro Forma ECOS  
+6 
+Q. 
+Some utilities provide ECOS results for the historic test year as well as the 
+7 
+projected Rate Year.  Has the Company provided this information?  
+8 
+A. 
+No. The Company used historical data from the calendar year that ended on 
+9 
+December 31, 2019 for its electric62 and gas63 ECOS studies, but its proposed 
+10 
+revenue requirement is based on projections for an entirely different time period – 
+11 
+the Rate Year ending December 31, 2022. To deal with this sort of potential 
+12 
+mismatch, some utilities develop a pro forma ECOS study for the Rate Year, using 
+13 
+the same assumptions and projection methods they used to develop the revenue 
+14 
+requirement.  
+15 
+Q. 
+Has the Company considered the option of developing pro forma ECOS studies? 
+16 
+A. 
+We asked about this in discovery in UIU IR No. 68: 
+17 
+Has the Company developed, or considered how it 
+18 
+could go about developing, a pro-forma ECOS study 
+19 
+(such as provided by National Grid during their utility 
+20 
+ 
+62  Direct Testimony of the Demand Analysis and Cost of Service Panel – Electric, p. 16. 
+63  Direct Testimony of the Gas Rate Panel, p. 8. 
+
+
+--- Page 42 ---
+CASE 21-E-0074 and 21-G-0073  
+ 
+ 
+             DIRECT TESTIMONY OF  
+ 
+   
+UIU RATE PANEL 
+41 
+rate cases) to reflect revenues, expenses, rate base, 
+1 
+and physical units (usage characteristics) that are 
+2 
+projected for the Rate Year ending December 31, 
+3 
+2022?   
+4 
+The Company’s response was “No.” When we asked why, it responded by 
+5 
+noting a historic test year “relies on known values” and that “a pro-forma ECOS 
+6 
+study would introduce unnecessary uncertainty . . . .” While these might be valid 
+7 
+points, the same concerns expressed in this response have not deterred the 
+8 
+Company from using projections to develop its proposed revenue requirement.   
+9 
+Clearly, there are tradeoffs: greater consistency between the ECOS study 
+10 
+and the rest of the rate case can be achieved by relying on projections, because 
+11 
+that is how the revenue requirement is being developed.  To further investigate 
+12 
+these tradeoffs, we asked whether the Company would be willing to cooperate with 
+13 
+UIU in developing a pro-forma study, but the Company did not give a direct 
+14 
+response.  Instead, it referenced its response concerning the benefits of an historic 
+15 
+test year and the uncertainties associated with projections.  It also avoided a direct 
+16 
+response when we asked whether the Company would agree that a pro-forma 
+17 
+study could be useful: 
+18 
+Do you agree that a forward looking or pro-forma 
+19 
+ECOS study for the Rate Year ending December 31, 
+20 
+2022 could provide useful information? 
+21 
+The Company could have at least responded with a straightforward yes or 
+22 
+no, but instead it, again, chose to avoid the question by referring again to its 
+23 
+response concerning the benefits of a historic test year and the uncertainties with 
+24 
+projections. Notably, the referenced response does not include any mention of the 
+25 
+
+
+--- Page 43 ---
+CASE 21-E-0074 and 21-G-0073  
+ 
+ 
+             DIRECT TESTIMONY OF  
+ 
+   
+UIU RATE PANEL 
+42 
+information that could be gleaned from a pro-forma study nor any statement 
+1 
+concerning how useful that information might or might not be, in the Company’s 
+2 
+view.  Nor was there anything in their response that suggests an awareness of the 
+3 
+factors that lead other utilities to prepare pro forma studies.  As we see it, tradeoffs 
+4 
+exist when choosing between historic data (which involves less uncertainty) and 
+5 
+projected data (which allows for better alignment with conditions that are expected 
+6 
+to exist when the new rates will be in effect). We also think that transparency is 
+7 
+important with respect to how those tradeoffs are resolved.  It would have been 
+8 
+helpful to learn more about the Company’s rationale for its approach, and whether 
+9 
+the Company is reluctant to consider pro forma ECOS studies for any reasons 
+10 
+other than those (like uncertainties) that equally apply to the projected test year 
+11 
+data it relies upon when developing its revenue requirement.  
+12 
+Inconsistencies between the historic and projected test year are particularly 
+13 
+problematic in the context of the revenue allocation and rate design phases of the 
+14 
+rate case if the projected revenue shortfall (the need for a rate increase) is driven 
+15 
+in part by changes in usage characteristics (as appears to be the case here).  For 
+16 
+instance, the increasing popularity of solar energy is reducing revenues from 
+17 
+customers with roof-top solar installations, but the corresponding impacts on peak 
+18 
+usage may not be proportional to the reduction in energy usage, potentially 
+19 
+changing the share of the revenue requirement assigned to non-solar customers 
+20 
+in the same class.  We asked about this issue in UIU IR No. 68(c):  
+21 
+Do you agree that usage characteristics in the Rate 
+22 
+Year ending December 31, 2022 are not projected to 
+23 
+
+
+--- Page 44 ---
+CASE 21-E-0074 and 21-G-0073  
+ 
+ 
+             DIRECT TESTIMONY OF  
+ 
+   
+UIU RATE PANEL 
+43 
+be the same as those reflected in the Company's 
+1 
+ECOS studies in this proceeding? 
+2 
+The Company did not provide a direct response.  Instead, it again referenced its 
+3 
+response about the benefits of a historic test year and the uncertainties inherent in 
+4 
+projections. That response contains no mention of usage characteristics, no 
+5 
+mention of changes in usage that have occurred since 2019, and no mention of 
+6 
+how this data would impact the ECOS study. As such, we recommend that the 
+7 
+Company be required to file pro forma ECOS studies in the next electric and gas 
+8 
+rate cases. 
+9 
+E. 
+Load Research Data  
+10 
+Q. 
+Has the Company taken advantage of its investment in AMI to refine its ECOS 
+11 
+studies by incorporating more detailed usage characteristics for specific types of 
+12 
+customers – beyond the stratification approach it has historically used? 
+13 
+A. 
+No.  There have been some minor improvements in the load research methodology 
+14 
+– notably, the use of larger stratified samples – but the Company does not seem 
+15 
+to be making any significant effort to mine the wealth of detailed usage data that 
+16 
+is available from the AMI system to see whether its rate design can be improved, 
+17 
+or to improve the accuracy of its ECOS studies. Aside from expanding the amount 
+18 
+of data it is collecting for stratification purposes, we didn’t notice any other 
+19 
+improvements to the ECOS studies or the proposed tariffs based on the availability 
+20 
+of detailed usage data from the AMI system. 
+21 
+
+
+--- Page 45 ---
+CASE 21-E-0074 and 21-G-0073  
+ 
+ 
+             DIRECT TESTIMONY OF  
+ 
+   
+UIU RATE PANEL 
+44 
+Q. 
+Can you provide some examples of how more granular usage data could be used 
+1 
+to improve the accuracy of the ECOS studies or to improve the Company’s rate 
+2 
+design? 
+3 
+A. 
+Yes.  It is now feasible to study usage characteristics for single-family residences 
+4 
+compared to apartments and to determine whether the cost of serving customers 
+5 
+in apartments is comparable to the cost of serving customers in single-family 
+6 
+homes (holding all else the same).  Similarly, it is now possible to study whether 
+7 
+costs are the same for customers in urban areas as in suburban areas, or whether 
+8 
+substantial cost differences exist which might lead to the conclusion that rates 
+9 
+should be modified to take into account these differences.  Another straightforward 
+10 
+example: it is now feasible to analyze the peak usage characteristics of customers 
+11 
+served by specific substations to evaluate what their contribution is to peak 
+12 
+demand on that substation, at the actual time when that substation experiences 
+13 
+the highest levels of demand.  With this information it would be feasible to improve 
+14 
+the accuracy of the ECOS studies, which currently rely on simplifying assumptions 
+15 
+with respect to the contributions of specific customers, and customer classes, to 
+16 
+the peak usage that occurs on different parts of the distribution system. With 
+17 
+geographically granular usage data it becomes feasible to analyze more accurately 
+18 
+the cost responsibility to the various customer classes.  
+19 
+
+
+--- Page 46 ---
+CASE 21-E-0074 and 21-G-0073  
+ 
+ 
+             DIRECT TESTIMONY OF  
+ 
+   
+UIU RATE PANEL 
+45 
+Q. 
+Has the Company shown any interest in using granular AMI data to improve the 
+1 
+accuracy of the ECOS studies or to improve the Company’s rate design? 
+2 
+A. 
+Not to our knowledge.  Despite the enormous potential for using granular AMI data 
+3 
+to improve the accuracy of the ECOS studies and tariff designs, when given the 
+4 
+opportunity in UIU IR No. 59 to explain what consideration, if any, the Company 
+5 
+gave to the potential for stratifying, or analyzing any other sub-sets of customers 
+6 
+that might have distinctive load characteristics, the Company responded by stating 
+7 
+that it does not consider individual customer usage characteristics in the class 
+8 
+demand study. This failure to explore the potential for improving the ECOS studies 
+9 
+by analyzing more granular usage data lack is unfortunate, because one of the 
+10 
+potential byproducts of the investment in AMI is the ability to obtain much more 
+11 
+detailed, geographically granular, hourly or even sub-hourly usage data, which can 
+12 
+be used to improve the accuracy of ECOS studies in many different ways.   
+13 
+With AMI it is feasible to study usage patterns for specific types of 
+14 
+customers (like single family residences compared to apartments or urban 
+15 
+customers compared to suburban customers) in much greater detail than was 
+16 
+practical in the past. Data can now be collected and analyzed to examine many 
+17 
+different potential improvements in the way customers are grouped into service 
+18 
+classifications and the way rates are designed to reflect the actual cost 
+19 
+characteristics of different customers – both within the same tariff and between 
+20 
+different tariffs. 
+21 
+
+
+--- Page 47 ---
+CASE 21-E-0074 and 21-G-0073  
+ 
+ 
+             DIRECT TESTIMONY OF  
+ 
+   
+UIU RATE PANEL 
+46 
+ Some indication of the potential benefits of AMI-based load research is 
+1 
+captured in this portion of the 2020 RAP Report: 
+2 
+Any cost of service study, as well as rate design, load 
+3 
+forecasting, system planning and other utility functions, 
+4 
+depends heavily on load research data. Cost 
+5 
+allocation, in particular, requires reasonably accurate 
+6 
+estimates for each class or group distinguished in the 
+7 
+analysis, the number of customers, their energy usage 
+8 
+(annual, monthly and sometimes more granular time 
+9 
+periods), their kW demand at various times and under 
+10 
+various conditions, and sometimes more technical 
+11 
+measures such as power factor.  … 
+12 
+Ideally, the cost of service study would be able to draw 
+13 
+on information about the hourly energy usage by class, 
+14 
+as well as the contribution of each class to the sum of 
+15 
+the customer contributions to the maximum loads 
+16 
+across the line transformers serving the class, the 
+17 
+feeders serving the class, the substations serving the 
+18 
+class and so on. Modern AMI and advanced 
+19 
+distribution monitoring systems, if properly configured, 
+20 
+can provide those data.64 
+21 
+To our knowledge, none of these potential refinements have been incorporated 
+22 
+into the ECOS studies in this case, nor has the Company shown any indication in 
+23 
+this proceeding that it is eager to use this data to improve its ECOS studies and 
+24 
+rate design.   
+25 
+Q. 
+Can you provide a few examples of the ways detailed usage data could be used 
+26 
+to improve the quality of the ECOS studies? 
+27 
+A. 
+Yes.   Consider first this example: 
+28 
+ 
+64 2020 RAP report at 64-65. 
+
+
+--- Page 48 ---
+CASE 21-E-0074 and 21-G-0073  
+ 
+ 
+             DIRECT TESTIMONY OF  
+ 
+   
+UIU RATE PANEL 
+47 
+Some residential customers are served from feeders 
+1 
+that peak in the morning and others from feeders that 
+2 
+peak in midday or the evening; some of those feeders 
+3 
+may reach their maximum load or stress in the summer 
+4 
+and others in the winter. The sum of the class 
+5 
+contribution to the various peak hours of the various 
+6 
+feeders determines the share of peak-related costs 
+7 
+allocated to the class for this portion of the distribution 
+8 
+system. 65 
+9 
+The Company could assemble usage data from AMI meters along individual 
+10 
+feeders, which would make it feasible to examine whether the estimated system-
+11 
+wide class peaks that are used in the ECOS studies accurately reflect the peak 
+12 
+usage patterns that are actually used in engineering feeders – the characteristics 
+13 
+that are most relevant to the allocation of feeder costs.  Similarly, AMI data could 
+14 
+be accumulated for all of the feeders served by each substation, to examine how 
+15 
+well the system-wide allocation factors that are used in the ECOS studies actually 
+16 
+reflect the pattern of peak usage on that substation, and thus the extent to which 
+17 
+the ECOS studies actually reflect cost causation principles, as intended. 
+18 
+Consider another example: whether the existing service classifications are 
+19 
+too broad and whether narrower, more heterogenous customer groupings should 
+20 
+be developed to better understand and consider actual cost causation patterns, in 
+21 
+order to improve the ECOS studies and rate design.  If the intent of an ECOS study 
+22 
+is to provide useful information concerning cost, so that rates can reflect 
+23 
+differences in the costs imposed by different types of customers, there is no longer 
+24 
+ 
+65 Id. at 65. 
+
+
+--- Page 49 ---
+CASE 21-E-0074 and 21-G-0073  
+ 
+ 
+             DIRECT TESTIMONY OF  
+ 
+   
+UIU RATE PANEL 
+48 
+any reason to completely ignore these potentially significant differences in cost 
+1 
+characteristics.  It is self-evident that differences in usage patterns, peak diversity 
+2 
+and other important characteristics exist for different types of customers within a 
+3 
+very large service classification like SC-1.  These differences are reflected in the 
+4 
+way individual feeders are engineered and deployed, where transformers are 
+5 
+located, and other aspects of the way system is designed and operated.  Yet, these 
+6 
+issues are effectively ignored when thousands of customers with widely differing 
+7 
+characteristics are all brought together into a broadly defined service classification 
+8 
+like SC-1 Residential. 
+9 
+Historically, it was not practical to study cost-related characteristics in detail, 
+10 
+except for large customers, nor was it possible to accurately determine how well 
+11 
+rates are aligned with costs for specific types of customers, or specific sub-
+12 
+markets.  Now, because detailed usage data is available from AMI meters 
+13 
+positioned throughout the electrical grid, it is becoming feasible to study 
+14 
+differences in usage patterns in more detail, and to evaluate whether specific types 
+15 
+of customers are paying more than their fair share of costs while others are paying 
+16 
+less than their fair share.  
+17 
+Finally, consider a third example: whether policies intended to advance 
+18 
+broad societal goals are achieving that result as effectively and as fairly as 
+19 
+possible.  With better load research, the Commission could be better informed 
+20 
+about whether policies to encourage roof-top solar could be improved by applying 
+21 
+a better rate design, or whether the existing policies have the unintended 
+22 
+
+
+--- Page 50 ---
+CASE 21-E-0074 and 21-G-0073  
+ 
+ 
+             DIRECT TESTIMONY OF  
+ 
+   
+UIU RATE PANEL 
+49 
+consequence of placing an excessive cost burden on low to moderate income 
+1 
+residential customers who rent their home, or cannot afford to invest in a roof-top 
+2 
+solar installation.  Similarly, with better load research, it will be possible to develop 
+3 
+rates that encourage an efficient transition toward reduced reliance on carbon-
+4 
+intensive transportation and heating sources by taking into account the actual 
+5 
+usage characteristics of electric vehicles, high efficiency heat pumps, and geo-
+6 
+thermal technologies.  
+7 
+Q. 
+Are you suggesting these sorts of changes should be implemented by the 
+8 
+Company? 
+9 
+A. 
+No.  We do not anticipate that all of these potential changes to the ECOS studies 
+10 
+or to the Company’s rate design would be supported by the results of improved 
+11 
+load research.  Moreover, even if the load research data did point toward making 
+12 
+some significant changes, it might be prudent to first examine these issues in an 
+13 
+appropriate statewide generic proceeding, where the Company’s data could be 
+14 
+compared to data from other utilities. We are raising these issues for two primary 
+15 
+reasons: first, to call attention to the disconnect between the Company’s insistence 
+16 
+on treating the ECOS studies as entirely reliable and worthy of being used to 
+17 
+determine the revenue allocation and rate design with the Company’s failure to 
+18 
+invest effort into using AMI data to improve the accuracy and reliability of the ECOS 
+19 
+results; second, to call attention to the opportunity to collect and analyze more 
+20 
+granular AMI data for the purpose of advancing the Commission’s policy goals.  
+21 
+We are hoping that the Company will be willing to work with other interested parties 
+22 
+
+
+--- Page 51 ---
+CASE 21-E-0074 and 21-G-0073  
+ 
+ 
+             DIRECT TESTIMONY OF  
+ 
+   
+UIU RATE PANEL 
+50 
+in developing a more robust load research program along the lines discussed 
+1 
+above. 
+2 
+F. 
+ECOS Unitized ROR Results  
+3 
+Q. 
+If you were to modify the Company’s historical electric 2019 ECOS models, what 
+4 
+would be the resulting Unitized ROR or Relative Rates of Return produced? 
+5 
+A. 
+A side-by-side comparison of the resulting electric Unitized RORs are shown in the 
+6 
+table below.  
+7 
+ 
+ 
+ 
+ 
+ 
+ 
+ 
+ 
+ 
+ 
+ 
+ 
+ 
+ 
+ 
+ 
+ 
+ 
+ 
+ 
+ 
+ 
+ 
+ 
+ 
+ 
+ 
+
+
+--- Page 52 ---
+CASE 21-E-0074 and 21-G-0073  
+ 
+ 
+             DIRECT TESTIMONY OF  
+ 
+   
+UIU RATE PANEL 
+51 
+Table 1 – Electric ECOS Results (Company Proposed vs. UIU Illustrative 
+1 
+Examples) 
+2 
+ELECTRIC 
+2019 Historical 
+Embedded Cost of Service Results 
+Unitized Rates of Return 
+ 
+ 
+Service 
+Classifications 
+ 
+Company  
+Proposed: 
+Minimum 
+System* 
+UIU 
+Modified: 
+Minimum 
+System** 
+UIU  
+Modified: 
+100% 
+Demand*** 
+SC 1 
+Residential-General  
+0.74  
+0.77 
+0.81 
+SC 1 
+Residential-/VOL TOU 
+1.02  
+1.01 
+0.96 
+SC 2 
+C&I – Secondary 
+1.36  
+1.34 
+1.23 
+SC 2 
+C&I – Primary 
+1.18  
+1.10 
+1.08 
+SC 2 
+C&I - W/SP HTG 
+0.06  
+0.03 
+-0.05 
+SC 2 
+C&I - Secondary Non DM Metered 
+0.72  
+0.92 
+1.25 
+SC 2 
+C&I - Secondary VOL TOU 
+1.27  
+1.19 
+1.07 
+SC 3 
+C&I – Primary 
+1.57  
+1.47 
+1.44 
+SC 3 
+C&I - Primary VOL TOU 
+1.26  
+1.17 
+1.14 
+SC 4 
+Municipal Street Lighting 
+0.82  
+0.82 
+0.78 
+SC 5 
+Municipal & Private Street Lighting 
+0.06  
+0.06 
+0.38 
+SC 6 
+Municipal Owned Street Lighting 
+2.45  
+2.45 
+2.19 
+SC 9 
+Commercial  
+1.88  
+1.72 
+1.70 
+SC 16 
+Public & Private Lighting 
+0.83  
+0.83 
+1.01 
+SC 16 
+Energy Lighting 
+0.15  
+0.24 
+0.32 
+SC 22 
+Industrial 
+1.81  
+1.66 
+1.64 
+ 
+Total System 
+1.00 
+1.00 
+1.00 
+*     Company’s ECOS from Exhibit___(DAC-2) Table 1A (also found in DPS-78 Att-1) 
+**   Company’s ECOS with UIU modified AMI Cost Allocation 
+*** Company’s Supplemental ECOS with UIU modified AMI Cost Allocation 
+Note – Company’s Supplemental ECOS is the same as Company’s proposed ECOS except distribution costs are 
+classified as 100% demand-related. 
+ 
+3 
+Q. 
+If the Commission were to rely on the Company’s historical gas 2019 ECOS 
+4 
+supplemental results (100% demand), would those results differ from the unitized 
+5 
+class rates of return that the Company is proposing to use? 
+6 
+
+
+--- Page 53 ---
+CASE 21-E-0074 and 21-G-0073  
+ 
+ 
+             DIRECT TESTIMONY OF  
+ 
+   
+UIU RATE PANEL 
+52 
+A. 
+Yes. There are only two broadly defined classes defined in the gas ECOS studies, 
+1 
+but even so, the methodology has a significant impact on the conclusions one 
+2 
+draws. As shown in the table below, the existing rates are closely aligned with the 
+3 
+results of the ECOS study using 100% demand, but are out of alignment with the 
+4 
+results of the Company’s proposed study, which uses a minimum system 
+5 
+approach.  
+6 
+Table 2 – Gas ECOS Results (Company Proposed vs. Company Supplemental) 
+7 
+GAS 
+2019 Historical 
+Embedded Cost of Service Results 
+Unitized Rates of Return 
+Service 
+Classification 
+(Table 1A) 
+Company  
+Proposed: 
+Minimum 
+System * 
+Company 
+Supplemental: 
+100% 
+Demand ** 
+SC Nos. 1 & 6 RS IA 
+0.79 
+1.01 
+SC Nos. 2 & 6 RS 1B & II 
+2.55 
+0.98 
+ 
+Total System 
+1.00 
+1.00 
+*  Company’s ECOS from the Company’s Exhibit___(GRP-1) Schedule 1 Table 1A (DPS-116 
+Att-1) 
+**Note – Company’s Supplemental ECOS is the same as Company’s proposed ECOS except 
+distribution main costs are classified as 100% demand-related. 
+ 
+We will discuss how these various ECOS results impact the revenue allocation 
+8 
+process in the next section. 
+9 
+
+
+--- Page 54 ---
+CASE 21-E-0074 and 21-G-0073  
+ 
+ 
+             DIRECT TESTIMONY OF  
+ 
+   
+UIU RATE PANEL 
+53 
+IV. 
+REVENUE ALLOCATION 
+1 
+A. 
+Background 
+2 
+Q. 
+Can you briefly explain the revenue allocation process in a typical utility rate case? 
+3 
+A. 
+Yes.  The results of one or more ECOS studies are used to help guide decisions 
+4 
+regarding how proposed rate changes should be spread across the various service 
+5 
+classifications.  The specific process can vary, but ECOS results are generally 
+6 
+examined to see whether certain classes have been identified as having a high 
+7 
+ROR – meaning they are paying more than the costs that have been allocated to 
+8 
+them (sometimes referred to as “overearning”).  If a high ROR is identified in the 
+9 
+ECOS study (or studies), an effort is typically made to assign a somewhat smaller 
+10 
+share of the rate increase or revenue requirement to that service classification, 
+11 
+thereby moving in the direction of greater uniformity in the service classification 
+12 
+RORs.  Similarly, if certain classes are identified as having a low ROR (paying less 
+13 
+than the costs that have been allocated to them, which is sometimes described as 
+14 
+“underearning”), a somewhat greater than average share of the rate increase or 
+15 
+revenue burden may be assigned to that class during the revenue allocation step.  
+16 
+Service classifications with a ROR that is close to the overall system average will 
+17 
+typically receive a very similar, or identical, percentage increase.66 
+18 
+ 
+66  
+Con Edison and Orange and Rockland’s revenue allocation process is unique from other New York utilities as 
+both utilities generally propose to apply 1/3 of the adjusted surplus and deficient costs over the course of 3 years.  
+Orange and Rockland’s method is described in more detail in this section of the testimony. 
+
+
+--- Page 55 ---
+CASE 21-E-0074 and 21-G-0073  
+ 
+ 
+             DIRECT TESTIMONY OF  
+ 
+   
+UIU RATE PANEL 
+54 
+In carrying out the revenue allocation process, tolerance bands are often 
+1 
+used around the system average ROR to decide whether the service classification 
+2 
+ROR deviates far enough from the average ROR to merit special treatment.  The 
+3 
+width of the tolerance band can vary widely, but the effect is generally to ameliorate 
+4 
+disputes concerning the ECOS methodology, because service classifications that 
+5 
+fall within the tolerance band generally receive the same percentage change, and 
+6 
+because rate change differences tend to be moderated for any class with an ROR 
+7 
+that falls just outside the tolerance band. 
+8 
+The typical process just described is not the only one that has been used in 
+9 
+New York to allocate the revenue requirement, and even this process can vary 
+10 
+widely in its effects, depending on important details that can vary greatly– for 
+11 
+instance, the tolerance band could be set as low as +-10% or as high as +- 30%.  
+12 
+Over the years and in various proceedings, the Commission has accepted a wide 
+13 
+variety of different revenue allocation methods.  For example, in the KEDNY and 
+14 
+KEDLI gas rate cases 16-G-0058 and 16-G-0059, the Commission approved 
+15 
+system average increases for nearly all the KEDNY and KEDLI’s service 
+16 
+classifications without regard for the ECOS results.  The Commission explained its 
+17 
+reasoning as follows:  
+18 
+[T]he revenue increases in each of the rate years would 
+19 
+be allocated to all firm service classes [service 
+20 
+classifications] on an equal percentage basis to current 
+21 
+delivery revenues, with limited exceptions … Revenue 
+22 
+
+
+--- Page 56 ---
+CASE 21-E-0074 and 21-G-0073  
+ 
+ 
+             DIRECT TESTIMONY OF  
+ 
+   
+UIU RATE PANEL 
+55 
+increases for Rate Years 2 and 3 will be similarly 
+1 
+allocated. 67 
+2 
+ 
+3 
+And: 
+4 
+ 
+5 
+We agree that given the sizeable revenue increases for 
+6 
+KEDNY and KEDLI, the equal percentage allocation of 
+7 
+the revenue increases to all firm service classifications 
+8 
+would be appropriate to minimize rate shock to the 
+9 
+extent practicable. 68 
+10 
+Q:  
+Are there any current circumstances that might make it appropriate to take a similar 
+11 
+approach in these proceedings, or to ameliorate the extent to which the revenue 
+12 
+allocation process is tightly linked to the ECOS results? 
+13 
+A: 
+Yes. The COVID-19 pandemic has significantly impacted the economy, the lives 
+14 
+and livelihoods of many New Yorkers, and it may have unpredictable impacts on 
+15 
+many different aspects of the Company’s operations.  In June 2020, the 
+16 
+Commission instituted a proceeding to consider the impact of the COVID-19 
+17 
+pandemic on utility service, Case 20-M-0266.69  Currently, it is unknown what costs 
+18 
+and/or revenue requirement impacts might directly or indirectly affect the 
+19 
+customers who will be required to pay the rates adopted in these cases.  
+20 
+Commission action on this issue could impact the Company’s revenue 
+21 
+requirement, Earnings Adjustment Mechanisms (EAMs), over/under collections 
+22 
+ 
+67  
+Cases 16-G-0058 and 16-G-0059, Order Adopting Terms of the Joint Proposal and Establishing Gas Rate Plans, 
+at 35 ( issued Dec. 16, 2016). 
+68  
+Id. at 38. 
+69  
+Case 20-M-0266, Proceeding on Motion of the Commission Regarding the Effects of COVID-19 on Utility Service, 
+Order Establishing Proceeding (issued June 11, 2020). 
+
+
+--- Page 57 ---
+CASE 21-E-0074 and 21-G-0073  
+ 
+ 
+             DIRECT TESTIMONY OF  
+ 
+   
+UIU RATE PANEL 
+56 
+associated with the Revenue Decoupling Mechanism (RDM) along with 
+1 
+introducing new deferrals or recovery mechanisms.  What is known is that many 
+2 
+customers have been adversely affected by the pandemic, and that there is the 
+3 
+risk of further exacerbating these impacts if rates for specific customer classes are 
+4 
+increased by substantially more than the system average.  We reserve the right to 
+5 
+modify or supplement our testimony based on additional information that becomes 
+6 
+available over the course of these rate cases and if additional issues related to the 
+7 
+pandemic are subsequently identified. 
+8 
+B. 
+Company’s Revenue Allocation Proposal 
+9 
+Q. 
+How does Orange and Rockland propose to distribute the electric and gas revenue 
+10 
+increases among the various customer service classifications? 
+11 
+A. 
+ A complete understanding of the Company’s proposed revenue allocation process 
+12 
+can be obtained by reviewing the Revenue Allocation and Rate Design Section of 
+13 
+the Direct Testimony of the Electric Rate Panel (starting on page 6)  and Gas Rate 
+14 
+Panel (starting on page 22) while studying the calculations in the Excel files that 
+15 
+were provided in DPS-1-78 Attachment 1 (electric) and DPS-1-116 Attachment 1 
+16 
+(gas).  In essence, the Company used its electric and gas 2019 historic ECOS 
+17 
+study results as a guide to allocate the proposed delivery revenue increase for the 
+18 
+12 months ending December 31, 2022 (Rate Year) to each identified service 
+19 
+classification.  The 2019 historical ECOS results are contained in the last page of 
+20 
+Exhibit___(DAC-2) Table 1A and Exhibit___(GRP-1) Schedule 1 Table 1A.   
+21 
+
+
+--- Page 58 ---
+CASE 21-E-0074 and 21-G-0073  
+ 
+ 
+             DIRECT TESTIMONY OF  
+ 
+   
+UIU RATE PANEL 
+57 
+The Company’s revenue allocation proposal for electric and gas incorporate 
+1 
+the following: (1) applying a +-10% tolerance band around the system average 
+2 
+ROR for each study70 (note: service classifications above or below the +-10% 
+3 
+tolerance band are considered surplus or deficient); (2) for electric  allocating 1/3 
+4 
+of the total identified surplus/deficiencies in proportion to the percent of current 
+5 
+delivery revenues, and for gas adjusting the SC-2 class so that the net surplus 
+6 
+identified for the two gas service classifications net to zero with 1/3 of the result 
+7 
+being applied in the Rate Year;71 (3) limiting the overall bundled delivery increase 
+8 
+or decrease for each electric service classification to no more or less than +- 1.5 
+9 
+times the system average increase of 7.337%; and limiting the gas rate changes 
+10 
+to no more than 1.5 times the system average increase of 7.193% and no less 
+11 
+than a 0% increase; 72 and (4) distributing remaining costs (if any) in proportion to 
+12 
+revenues at proposed rates to those classes that are not above the max levels.  
+13 
+Based on the proposed delivery rate increase of 7.337% for electric service, 
+14 
+the proposed rate increases for each electric service classification range as high 
+15 
+as 11.00%, while some classes would have their rates reduced, as shown below: 
+16 
+ 
+17 
+ 
+70  For Electric Services: System Average equals 8.82%. A +-10% Tolerance Band generates a band range between 
+7.94% (Min) and % (Max).  For each electric service classification, RORs above 9.70% (RROR 1.10) are 
+considered over-earning.  RORs below 7.94% (RROR 0.90) are considered under-earning.   
+    For Gas Services:  System Average equals 6.92%.  A +-10% tolerance band generates a band range between 
+6.23% (Min) and 7.61% (Max).  For each gas service classification, RORs above 7.61% (RROR 1.10) are 
+considered over-earning.  RORs below 6.23% (RROR 0.90) are considered under-earning.   
+71  In this step, the allocation of costs for electric services is different than for gas services.   
+72  In this step, the allocation of costs for electric services is different than for gas services.   
+
+
+--- Page 59 ---
+CASE 21-E-0074 and 21-G-0073  
+ 
+ 
+             DIRECT TESTIMONY OF  
+ 
+   
+UIU RATE PANEL 
+58 
+Table 3 – O&R Proposed Electric ECOS Results and Rate Year Delivery Increase  
+1 
+ELECTRIC 
+Company Proposed 
+Unitized Rate of Return and Revenue Allocation 
+ 
+ 
+Service 
+Classifications 
+ 
+Company  
+Proposed 
+Unitized Return* 
+Adjusted Rate 
+Year Delivery % 
+Increase at 
+Proposed Rates 
+SC 1 
+Residential-General  
+0.74  
+9.55% 
+SC 1 
+Residential-/VOL TOU 
+1.02  
+7.81% 
+SC 2 
+C&I – Secondary 
+1.36  
+5.04% 
+SC 2 
+C&I – Primary 
+1.18  
+6.84% 
+SC 2 
+C&I - W/SP HTG 
+0.06  
+11.01% 
+SC 2 
+C&I - Secondary Non DM Metered 
+0.72  
+9.54% 
+SC 2 
+C&I - Secondary VOL TOU 
+1.27  
+5.94% 
+SC 3 
+C&I – Primary 
+1.57  
+1.37% 
+SC 3 
+C&I - Primary VOL TOU 
+1.26  
+5.89% 
+SC 4 
+Municipal Street Lighting 
+0.82  
+9.08% 
+SC 5 
+Municipal & Private Street Lighting 
+0.06  
+11.01% 
+SC 6 
+Municipal Owned Street Lighting 
+2.45  
+-4.04% 
+SC 9 
+Commercial  
+1.88  
+-0.03% 
+SC 16 
+Public & Private Lighting 
+0.83  
+8.66% 
+SC 16 
+Energy Lighting 
+0.15  
+11.01% 
+SC 22 
+Industrial 
+1.81  
+-1.11% 
+ 
+Total System 
+1.00 
+7.34% 
+*     Extracted from the Company’s Exhibit___(DAC-2) Table 1A (also found in DPS-78 Att-1). 
+**   Extracted from Column R of “RY Revenue Allocation” Tab in DPS-78 Att-1. 
+Based on the Company’s proposed delivery rate increase of 7.19% for gas 
+2 
+service, the proposed delivery rate increases would be 8.43% for SC1 customers, 
+3 
+while SC2 customers would have their rates increased by less than 1%, as shown 
+4 
+below: 
+5 
+
+
+--- Page 60 ---
+CASE 21-E-0074 and 21-G-0073  
+ 
+ 
+             DIRECT TESTIMONY OF  
+ 
+   
+UIU RATE PANEL 
+59 
+Table 4 – O&R Proposed Gas ECOS Results and Rate Year Delivery Increase  
+1 
+GAS 
+Company Proposed 
+Unitized Rate of Return and Revenue Allocation 
+Service 
+Classifications 
+ 
+Company  
+Proposed 
+Unitized Return* 
+Adjusted Rate Year 
+Delivery % Increase 
+at Proposed Rates ** 
+SC Nos. 1 & 6 RS IA 
+0.79 
+8.43% 
+SC Nos. 2 & 6 RS 1B & II 
+2.55 
+0.59% 
+Total 
+1.00 
+7.19% 
+*  Extracted from the Company’s Exhibit___(GRP-1) Schedule 1 Table 1A (DPS-116 Att-1) 
+** Extracted from Column I of “P5 - Revenue Allocation” Tab in DPS-116 Att-1. 
+C. 
+Discussion 
+2 
+Q. 
+You said that tolerance bands can vary. Why? 
+3 
+A. 
+ Sometimes there are intense disputes concerning various details of the ECOS 
+4 
+studies, and in our experience the use of a wider tolerance band helps ameliorate 
+5 
+some of those disputes.  It also tends to help the parties to a Joint Proposal find 
+6 
+common ground, by enabling them to reach agreement concerning an acceptable 
+7 
+result without fully resolving differences in their views concerning the most 
+8 
+appropriate way to prepare the ECOS study.   
+9 
+Q. 
+Can you provide any examples in New York where a wider tolerance band was 
+10 
+used – rather than the +-10% that Orange and Rockland proposes? 
+11 
+A. 
+Yes, but first, we would emphasize that there is no current statewide rule, or 
+12 
+standard practice with respect to the type of ECOS study that is used. It is 
+13 
+
+
+--- Page 61 ---
+CASE 21-E-0074 and 21-G-0073  
+ 
+ 
+             DIRECT TESTIMONY OF  
+ 
+   
+UIU RATE PANEL 
+60 
+important to bear in mind that ROR results can vary widely, depending on the type 
+1 
+of model that is used and various details in the study.  The tolerance bands that 
+2 
+are proposed by the utility, and the band that is used in the Joint Proposal, or 
+3 
+adopted by the Commission, can also vary on a case by case basis – given the 
+4 
+facts in each case. We recognize that Orange and Rockland and Con Edison have 
+5 
+historically used a narrow 10% tolerance band, with the exception of one Con 
+6 
+Edison proceeding (Case 08-E-0539) which utilized a 15% tolerance band. 
+7 
+However, the Commission has approved a wide range of other tolerance bands 
+8 
+and in some cases has even set aside the ECOS study results in their entirety, or 
+9 
+approved an approach that was not tied to any specific ECOS study, as a result of 
+10 
+the compromises that were reached in a Joint Proposal.  With that said, in Table 5 
+11 
+below we list some recent cases where utilities proposed tolerance bands other 
+12 
+than 10%: 
+13 
+ 
+ 
+ 
+ 
+ 
+ 
+ 
+ 
+ 
+ 
+ 
+ 
+ 
+ 
+ 
+
+
+--- Page 62 ---
+CASE 21-E-0074 and 21-G-0073  
+ 
+ 
+             DIRECT TESTIMONY OF  
+ 
+   
+UIU RATE PANEL 
+61 
+Table 5 – Utility Proposed Revenue Allocation Approaches 
+1 
+(Cases Pending Commission Order or Recently Closed) 
+2 
+Company 
+Case 
+ECOS 
+Study 
+Used 
+Tolerance 
+Band 
+Max/Min Rate Increase / 
+Judgement 
+Niagara 
+Mohawk 
+20-E-
+0380 
+Pro-
+forma 
+Only 
+ +-25% 
+tolerance band 
+around system 
+average rate of 
+return  
+0.75 and 1.25 times system average 
+% increase.  
+ 
+Judgement applied the amount of 
+rate increase to service classes that 
+fall outside the tolerance band to 
+limit the overall revenue change. 
+Niagara 
+Mohawk 
+20-G-
+0381 
+Pro-
+forma 
+Only 
+ +-25% 
+tolerance band 
+around system 
+average rate of 
+return  
+Judgement applied the amount of 
+rate increase to service classes that 
+fall outside the tolerance band to 
+limit the overall revenue change. 
+Central 
+Hudson 
+20-E-
+0428 
+Both 
+Historical 
+and Pro-
+forma 
+ +-15% 
+tolerance band 
+around system 
+average rate of 
+return.   
+0.75 and 1.25 times system average 
+% increase.  
+ 
+Compare the results of historical and 
+pro-forma ECOS.  If conflicting RORs, 
+then system average increase. 
+Central 
+Hudson 
+20-G-
+0429 
+Both 
+Historical 
+and Pro-
+forma 
+ +-15% 
+tolerance band 
+around system 
+average rate of 
+return.  
+0.75 and 1.25 times system average 
+% increase.  
+ 
+Compare the results of historical and 
+pro-forma ECOS.  If conflicting RORs, 
+then system average increase.   
+Corning 
+20-G-
+0101 
+Pro-
+forma 
+Only 
+Not Applicable 
+Uniform % Increase for all Service 
+Classes. 
+KEDNY 
+19-G-
+0309 
+Pro-
+forma 
+Only 
+ +-25% 
+tolerance band 
+around system 
+average rate of 
+return 
+0.75 and 1.25 times system average 
+% increase. 
+KEDLI 
+19-G-
+0310 
+Pro-
+forma 
+Only 
+ +-25% 
+tolerance band 
+around system 
+average rate of 
+return 
+0.5 and 1.5 times system average % 
+increase. 
+
+
+--- Page 63 ---
+CASE 21-E-0074 and 21-G-0073  
+ 
+ 
+             DIRECT TESTIMONY OF  
+ 
+   
+UIU RATE PANEL 
+62 
+Looking further into the past, we found many cases where utilities proposed 
+1 
+tolerance bands that were wider than 10%:  
+2 
+Table 6 – Utility Proposed Revenue Allocation Approaches (Historical Cases) 
+3 
+Company 
+Case 
+ECOS 
+Study Used Tolerance Band 
+Max/Min Rate Increase 
+Judgement 
+NYSEG 
+19-E-0378 
+Historical 
+Only 
+ +-15% tolerance 
+band around system 
+average rate of 
+return.     
+0.75 and 1.25 times system 
+average % increase. 
+RG&E 
+19-E-0380 
+Historical 
+Only 
+ +-15% tolerance 
+band around system 
+average rate of 
+return.     
+0.75 and 1.25 times system 
+average % increase. 
+NYSEG 
+19-G-0379 
+Historical 
+Only 
+ +-15% tolerance 
+band around system 
+average rate of 
+return.     
+ 0.75 and 1.25 times system 
+average % increase. 
+RG&E 
+19-G-0381 
+Historical 
+Only 
+ +-15% tolerance 
+band around system 
+average rate of 
+return.     
+0.75 and 1.25 times system 
+average % increase. 
+Central 
+Hudson 
+17-E-0459 
+Both 
+Historical and 
+Pro-forma 
+ +-15% tolerance 
+band around system 
+average rate of 
+return.     
+0.75 and 1.25 times system 
+average % increase.  
+ 
+Compare the results of historical 
+and pro-forma ECOS.  If conflicting 
+RORs, then system average 
+increase.   
+Niagara 
+Mohawk 
+17-E-0238 
+et al. 
+Pro-forma 
+Only 
+ +-30% tolerance 
+band around system 
+average rate of 
+return.     
+ 1.50 times system average % 
+increase.  No classes were given a 
+decrease. 
+Corning 
+16-G-0369 
+  
+Not Applicable. 
+System Average Increase. 
+National Fuel 
+16-G-0257 
+  
+Not Applicable. 
+ System Average Increase. 
+KEDLI/KEDNY 
+16-G-0058 
+et al. 
+Pro-forma 
+Only 
+Not Applicable. 
+System average increase for all 
+service classes except TC/IT 
+customers who are given a lower 
+than average increase. 
+
+
+--- Page 64 ---
+CASE 21-E-0074 and 21-G-0073  
+ 
+ 
+             DIRECT TESTIMONY OF  
+ 
+   
+UIU RATE PANEL 
+63 
+Company 
+Case 
+ECOS 
+Study Used Tolerance Band 
+Max/Min Rate Increase 
+Judgement 
+NYSEG & 
+RG&E 
+15-E-0283 
+et al. 
+Historical 
+Only 
+ +-15% tolerance 
+band around system 
+average rate of 
+return.     
+0.75 and 1.25 times system 
+average % increase.   
+Central 
+Hudson 
+14-E-0318 
+et al. 
+Both 
+Historical and 
+Pro-forma 
+ +-15% tolerance 
+band around system 
+average rate of 
+return.     
+0.75 and 1.25 times system 
+average % increase. 
+ 
+Compare the results of historical 
+and pro-forma ECOS.  If conflicting 
+RORs, then system average 
+increase. 
+While tables 5 and 6 above display utility revenue allocation proposals, we note 
+1 
+that the Commission has approved a wide range of tolerance bands and in some 
+2 
+cases approved Joint Proposals where the revenue allocation adopted is not tied 
+3 
+to any single ECOS study.  
+4 
+Q.  
+What is your response to Orange and Rockland’s revenue allocation proposals? 
+5 
+A.       First, we are concerned with using the Company’s proposed 2019 historical ECOS 
+6 
+models as the foundation for revenue allocation.  For example, AMI costs should 
+7 
+not be treated as entirely customer-related, and we disagree with the minimum 
+8 
+system approach to classify distribution costs.  Even if those concerns were 
+9 
+resolved as we recommend, we would still be somewhat concerned about the 
+10 
+accuracy of the ECOS results, for the reasons we discuss in section III.D and III.E 
+11 
+– such as the wisdom of placing exclusive reliance on an ECOS study that is based 
+12 
+on 2019 historical data to assign costs in the 2022 Rate Year.   
+13 
+ Next, we are concerned about imposing a wide array of revenue changes 
+14 
+as the Company is proposing, with some classes potentially experiencing large 
+15 
+
+
+--- Page 65 ---
+CASE 21-E-0074 and 21-G-0073  
+ 
+ 
+             DIRECT TESTIMONY OF  
+ 
+   
+UIU RATE PANEL 
+64 
+increases while other service classifications experience a much smaller revenue 
+1 
+increase, or even a revenue decrease.   We do not support unnecessarily creating 
+2 
+disparate rate changes at this time, especially due to the uncertain impacts of the 
+3 
+COVID-19 pandemic, as discussed earlier. 
+4 
+Q.   
+What revenue allocation to do you propose for electric? 
+5 
+A.  
+To help resolve these concerns, we propose a few revenue allocations changes.  
+6 
+We propose the use of a wider tolerance band of +/- 20% or more – consistent with 
+7 
+other recent proceedings in New York.  We also propose to modify the Company’s 
+8 
+min/max boundaries around the average delivery rate of 7.337% for each service 
+9 
+classification (-1.5 (-11%) and 1.5 (11%)).  We propose these boundaries be 
+10 
+changed to 0.75 (5.5%) and 1.25 (9.2%).  Appropriately applied, this would ensure 
+11 
+that no customer class is required to pay sharply higher rates at the same time 
+12 
+another class is receiving a rate reduction and it will ensure that every customer 
+13 
+class provides some contribution toward bearing the burden of the proposed 
+14 
+revenue increase.  This approach is particularly appropriate at this time, given the 
+15 
+many uncertainties surrounding the impact of the COVID-19 on individual 
+16 
+customers.   
+17 
+Q.  
+Have you prepared any calculations to illustrate your electric revenue allocation 
+18 
+proposals? 
+19 
+A.     Yes. To help clarify and illuminate the impact of these recommendations, we 
+20 
+prepared an illustrative analysis, based on the Company’s proposed revenue 
+21 
+
+
+--- Page 66 ---
+CASE 21-E-0074 and 21-G-0073  
+ 
+ 
+             DIRECT TESTIMONY OF  
+ 
+   
+UIU RATE PANEL 
+65 
+requirements as initially filed. The illustrative results for electric service are 
+1 
+summarized below: 
+2 
+ 
+Table 7 – Electric Revenue Allocation Results - Adjusted Rate Year Delivery 
+3 
+Bundled % Increase at Proposed Rates 
+4 
+ELECTRIC 
+Revenue Allocation Approaches 
+ 
+ 
+Service 
+Classifications 
+ 
+Company * 
+UIU Modified: 
+Minimum 
+System** 
+UIU  
+Modified: 
+100% 
+Demand*** 
+SC1 
+9.55% 
+8.07% 
+7.67% 
+SC19 
+7.81% 
+7.77% 
+7.69% 
+SC2 Sec 
+5.04% 
+6.21% 
+7.25% 
+SC2 Sec Heating 
+11.01% 
+8.88% 
+8.91% 
+SC2 Sec ND 
+9.54% 
+7.71% 
+7.22% 
+SC20 
+5.94% 
+7.69% 
+7.62% 
+SC2 Pri 
+6.84% 
+7.75% 
+7.67% 
+SC3 
+1.37% 
+5.50% 
+5.50% 
+SC21 
+5.89% 
+7.76% 
+7.68% 
+SC9 (Com) 
+-0.03% 
+5.50% 
+5.50% 
+SC22 (Mfg) 
+-1.11% 
+5.50% 
+5.50% 
+SC4 
+9.08% 
+7.93% 
+8.13% 
+SC5 
+11.01% 
+8.89% 
+8.94% 
+SC6 
+-4.04% 
+5.50% 
+5.50% 
+SC 16 -dusk-to-dawn 
+8.66% 
+7.87% 
+7.76% 
+SC 16 - energy only 
+11.01% 
+8.90% 
+8.93% 
+Total System 
+7.34% 
+7.34% 
+7.34% 
+*        Extracted from Column R of “RY Revenue Allocation” Tab in DPS-78 
+Att-1. 
+**   Company’s ECOS with UIU modified AMI Cost Allocation.  UIU Revenue 
+Allocation assumes Company’s revenue allocation except tolerance band 
+changed to +-20% and min/max changed to 0.75/1.25 times system average 
+increase.  
+***   Company’s Supplemental ECOS with UIU modified AMI Cost Allocation.  
+UIU Revenue Allocation assumes the Company’s revenue allocation except 
+tolerance band changed to +-20% and min/max changed to 0.75/1.25 times 
+system average increase.  
+ 
+
+
+--- Page 67 ---
+CASE 21-E-0074 and 21-G-0073  
+ 
+ 
+             DIRECT TESTIMONY OF  
+ 
+   
+UIU RATE PANEL 
+66 
+This table illustrates the results of three potential revenue allocation scenarios 
+1 
+assuming the Company’s proposed revenue requirement. At this time, we 
+2 
+recommend the approach illustrated in the column entitled UIU Modified 100% 
+3 
+Demand and we present the other two scenarios as a point of comparison. We 
+4 
+reserve the right to modify any aspect of our proposal if the revenue requirement 
+5 
+or other factors change.  
+6 
+Q.   
+What revenue allocation to do you propose for gas? 
+7 
+A.  
+We have also considered gas revenue allocation issues and note there are only 
+8 
+two broadly defined classes defined in the gas ECOS studies, but even so, the 
+9 
+combination of the ECOS and revenue allocation methodology may have a 
+10 
+significant impact on the conclusions one draws. We present one potential gas 
+11 
+revenue allocation recommendation entitled UIU Modified 100% Demand. If the 
+12 
+Commission adopted  the 100% demand ECOS study with the Company’s revenue 
+13 
+allocation approach, both the SC 1 & SC 2 & 6 RS 1B & II class have unitized 
+14 
+RORs that are close to system average which suggests that both classes receive 
+15 
+a system average increase. The results for this scenario are listed in the UIU 
+16 
+Modified 100% Demand column in Table 8.  As a point of comparison, if one 
+17 
+applied a 20% tolerance band to the Company’s proposed minimum system ECOS 
+18 
+study (illustrated in the middle column in Table 8),  the two classes would 
+19 
+experience revenue increases that are not drastically different than the UIU 
+20 
+Modified 100% Demand column, although rates for the SC 2 & 6 RS 1B & II class 
+21 
+
+
+--- Page 68 ---
+CASE 21-E-0074 and 21-G-0073  
+ 
+ 
+             DIRECT TESTIMONY OF  
+ 
+   
+UIU RATE PANEL 
+67 
+would increase by a smaller percentage, as shown below. This is a stark contrast 
+1 
+to the Company’s proposed 0.59% increase for SC 2 & 6 RS 1B & II.   
+2 
+Table 8 – Gas Revenue Allocation Results - Adjusted Rate Year Delivery % 
+3 
+Increase at Proposed Rates 
+4 
+GAS 
+Revenue Allocation Approaches 
+ 
+ 
+Service 
+Classifications 
+ 
+Company * 
+UIU Modified: 
+Minimum 
+System** 
+UIU  
+Modified: 
+100% 
+Demand*** 
+SC Nos. 1 & 6 RS IA 
+8.43% 
+7.34% 
+7.19% 
+SC Nos. 2 & 6 RS 1B & II 
+0.59% 
+6.39% 
+7.19% 
+Total System 
+7.19% 
+7.19% 
+7.19% 
+*        Extracted from Column I of “P5 - Revenue Allocation” Tab in DPS-116 
+Att-1. 
+**   UIU Revenue Allocation assumes Company’s proposed ECOS along with 
+the Company’s revenue allocation proposal except tolerance band changed 
+to +-20%.  
+***   UIU Revenue Allocation assumes Company’s Supplemental ECOS 
+resulting in a system average increase for both classes since both classes are 
+within the band.  
+Note – Company’s Supplemental ECOS is the same as Company’s proposed 
+ECOS except distribution costs are classified as 100% demand-related. 
+ 
+V. 
+RATE DESIGN  
+5 
+A. 
+General Overview 
+6 
+Q. 
+What is your response to the Company’s proposed electric and gas increases in 
+7 
+the customer charges and volumetric block rate changes for residential accounts? 
+8 
+A. 
+We prefer starting with ECOS results that reflect our proposed modifications to the 
+9 
+Company’s ECOS studies and our proposed changes to the revenue allocation 
+10 
+process.  We also note that the ECOS results include the Company’s proposed 
+11 
+
+
+--- Page 69 ---
+CASE 21-E-0074 and 21-G-0073  
+ 
+ 
+             DIRECT TESTIMONY OF  
+ 
+   
+UIU RATE PANEL 
+68 
+revenue requirement, and we anticipate that other parties will file testimony 
+1 
+disputing various aspects of the revenue requirement proposals.  The final revenue 
+2 
+requirement will influence the magnitude of any potential changes to the customer 
+3 
+charge and volumetric rates that we recommend. 
+4 
+B. 
+Electric – Seasonal Rates  
+5 
+Q. 
+Could you please explain the history of the Company’s delivery seasonal rates?   
+6 
+A. 
+Yes.  As explained in the Company’s response to UIU IR No. 38(a-d), seasonal 
+7 
+rate differentials were originally established when the Company was vertically 
+8 
+integrated (where the utility was responsible for the rate design for both delivery 
+9 
+and generation).  A 1982 change in the Public Service Law prohibited utilities from 
+10 
+reflecting seasonal differentials for the first monthly consumption up to 250 kWh 
+11 
+for residential customers.  While the Company’s rates were unbundled about 20 
+12 
+years ago, the current seasonal delivery rate differentials originated before de-
+13 
+regulation and have evolved over the years (e.g., Company eliminated the 
+14 
+declining block rate structure for SC-1 residential general service winter rates). 73 
+15 
+Q. 
+Has the Company performed a seasonal rate study to see if the current 
+16 
+winter/summer seasonal rate differential is still appropriate?   
+17 
+A. 
+No.  According to UIU IR No. 38(c)., the Company has not performed such a study.  
+18 
+Q. 
+What do you propose?   
+19 
+ 
+73 Company Response to UIU IR No. 38(b).  
+
+
+--- Page 70 ---
+CASE 21-E-0074 and 21-G-0073  
+ 
+ 
+             DIRECT TESTIMONY OF  
+ 
+   
+UIU RATE PANEL 
+69 
+A. 
+In the next rate case, we propose that the Company work with interested parties 
+1 
+in developing a winter/summer seasonal rate study similar to the one that Con 
+2 
+Edison is required to develop as a result of the Joint Proposal adopted by the 
+3 
+Commission in Cases 19-E-0065 et al. in in January 2020. 74 The seasonal study 
+4 
+should rely on geographically granular AMI usage data, and should provide 
+5 
+information for the Commission and interested parties to use in evaluating potential 
+6 
+improvements to the winter/summer rates, based on current conditions, and the 
+7 
+extent to which customers are served by substations that are winter peaking or 
+8 
+summer peaking. We are requesting this study to understand if the seasonal rate 
+9 
+ratios are still appropriate as these rates are used to compare alternative fuel 
+10 
+options. 
+11 
+C. 
+Customer Charges and Block Rates 
+12 
+Q. 
+What changes does the Company propose for the majority of its firm sales 
+13 
+residential gas rates?   
+14 
+A. 
+The Company’s proposed rates can be found in Schedule 1 of Exhibit___(GRP-
+15 
+3).  The Company proposes to increase the current residential and space heating 
+16 
+SC-1 and 6 RS IA monthly gas customer charges (first block) from $19.50 to 
+17 
+$22.00, which includes the first three Ccf of usage.75 Further, the Company 
+18 
+ 
+74 Case 19-E-0065 et al., Order Adopting Terms of Joint Proposal and Establishing Electric and Gas Rate 
+Plan, Attachment A Joint Proposal at 114-115 (issued January 16, 2020). 
+75 See also, Gas Rate Panel, at 29-30. 
+
+
+--- Page 71 ---
+CASE 21-E-0074 and 21-G-0073  
+ 
+ 
+             DIRECT TESTIMONY OF  
+ 
+   
+UIU RATE PANEL 
+70 
+proposes to increase the second block charge (the charge for the next 47 Ccf) from 
+1 
+68.220 Cents/Ccf to 72.396 cents/Ccf and third block charge (over 50 Ccf) from 
+2 
+65.661 cents/Ccf to 69.680 cent/Ccf.  Essentially, the Company proposes to shift 
+3 
+more of the revenue burden onto the customer charge and to maintain a declining 
+4 
+volumetric block rate structure. 
+5 
+Q. 
+What is your response to the Company’s residential rate design proposal for SC-1 
+6 
+and 6 RS IA?   
+7 
+A. 
+From a theoretical perspective we generally support maintaining customer charges 
+8 
+and recovering the revenue increases in the volumetric charges.  This type of 
+9 
+structure can be helpful for both gas and electric rates because it increases the 
+10 
+incentive for efficiency and conservation. However, we also recognize that 
+11 
+allocating too much revenue to the volumetric charges can be overly burdensome 
+12 
+to customers that have little resources to invest in alternatives or energy efficiency.  
+13 
+To help resolve this tension, we recommend the Company work with 
+14 
+interested parties in using granular AMI data to study the potential impact of 
+15 
+eliminating the gas declining block structure, to better encourage energy 
+16 
+conservation. O&R’s study can be similar to, but more detailed than, the work that 
+17 
+was presented by two downstate New York gas utilities as shown in 
+18 
+Exhibit___(RDP-11) to the Rate Design Panel in each KEDLI/KEDNY rate cases 
+19 
+(Cases 19-G-0309 and 19-G-0310). This study would help examine the effects of 
+20 
+modifying the current rate design and provide useful information that could guide 
+21 
+
+
+--- Page 72 ---
+CASE 21-E-0074 and 21-G-0073  
+ 
+ 
+             DIRECT TESTIMONY OF  
+ 
+   
+UIU RATE PANEL 
+71 
+the Commission in understanding how the Company’s rates could be redesigned 
+1 
+to encourage energy efficiency without imposing unacceptable customer impacts.   
+2 
+Q.  
+Do you have any other comments concerning customer charges and block rates? 
+3 
+A.  
+Yes. Depending on the level of rate increase for mass market customers in this 
+4 
+case, it may be appropriate to leave the customer charges largely unchanged, 
+5 
+while also taking a small step toward flattening the declining block rate structure, 
+6 
+such that the majority of residential customers bill impacts do not greatly exceed 
+7 
+the system average, with a particular focus on low income customer impacts.    
+8 
+Q. 
+Are there utilities in New York that propose to phase out declining rate structures? 
+9 
+A. 
+Yes.  In cases 20-E-0428 et al., Central Hudson “…has proposed to improve the 
+10 
+price signal of delivery rate design.” Central Hudson notes “[t]he proposal to 
+11 
+eliminate declining block rates is consistent with the Commission’s goal to promote 
+12 
+energy efficiency” and points to Case 20-G-0131, Proceeding on Motion of the 
+13 
+Commission in Regard to Gas Planning Procedures, where “the Commission 
+14 
+identified rate design as a means to address peak reduction and avoidance of 
+15 
+infrastructure investment.”76 Moreover, Central Hudson provided a list of other 
+16 
+proceedings in which electric and gas rate design changes have been discussed 
+17 
+that could lead to a complete phase out of declining rate structures.  
+18 
+ 
+76  Case 20-E-0428 et al., Direct Testimony of the Forecasting and Rates Panel, at. 54-55 (filed August 
+27, 2020).  
+
+
+--- Page 73 ---
+CASE 21-E-0074 and 21-G-0073  
+ 
+ 
+             DIRECT TESTIMONY OF  
+ 
+   
+UIU RATE PANEL 
+72 
+Q.  
+Does this conclude your direct testimony, which was pre-filed with the Commission 
+1 
+on May 28, 2021? 
+2 
+A.  
+Yes. 
+3 

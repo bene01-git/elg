@@ -1,0 +1,4018 @@
+--- Page 1 ---
+ 
+ 
+ 
+ 
+ 
+  
+Detection of NORM 
+contamination in LNG 
+systems 
+ 
+A Systems Engineering literature review 
+ 
+ 
+ 
+Master of Science Thesis 
+Author: Nazrin Babashova 
+Supervisor: Per Lindström 
+Examiner: Michael Strand 
+Term: VT20 
+Subject: Sustainable Energy Process  
+Level: Advanced 
+Course code: 4BT04E 
+
+
+--- Page 3 ---
+ 
+Abstract 
+Naturally occurring radioactive material (NORM), which is present in the oil and 
+gas industry, can pose a risk to the workers engaged in the activities in this field. 
+Nevertheless, to our knowledge, there is no study on NORM presence and NORM 
+measurement in liquefied natural gas (LNG) fuel systems and installations. 
+Therefore, the question on whether NORM, particularly radon and radon progeny, 
+can pose a risk to the health of employees, is still open. This study provides the 
+initial base for further investigation and real NORM measurement. In this study, all 
+stages of radon and radon decay products movement and deposition starting from 
+natural gas production till the final destination are analyzed and reviewed. Several 
+techniques for NORM detection and measurement are proposed. In the case if radon 
+levels exceed the reference level, several actions towards radon reduction are 
+proposed. 
+Key words 
+LNG, TENORM, NORM, Detection, Contamination, Radon, Systems Engineering.  
+Acknowledgments 
+I would like to express the deepest gratitude to the Swedish Institute for giving an 
+opportunity to study a master’s degree programme in Sweden. I am extremely 
+grateful to Mr. Markos Koufakis at the Swedish Radiation Safety Authority for 
+hospitality and warm welcome at the office of the Swedish Radiation Safety 
+Authority in Stockholm, and for the information provided during my visit which 
+was used in this paper. I wish to show my appreciation to Mr. Lars Persson at 
+Nordion Energi who shared with his knowledge on LNG product transportation to 
+and within Sweden.  
+ 
+
+
+--- Page 4 ---
+ 
+Nomenclature   
+Abbreviations 
+AAV 
+ 
+Ambient Air Vaporizer 
+ACD 
+ 
+Activated Charcoal Detector  
+AGRU 
+ 
+Acid Gas Removal Unit  
+BOG 
+ 
+Boil-off Gas 
+CNG  
+ 
+Compressed Natural Gas 
+EIC  
+ 
+Electret ion chamber 
+EPA 
+ 
+Environmental Protection Agency 
+GDU  
+ 
+Gas Dehydration Unit 
+GSU  
+ 
+Gas Sweetening Unit 
+GTL 
+ 
+Gas to Liquids 
+GTP 
+ 
+Gas to Power 
+GTS 
+ 
+Gas to Solids 
+GWP 
+ 
+Global Warming Potential 
+HHV 
+ 
+Higher Heating Value 
+HP 
+ 
+High Pressure 
+IAEA 
+ 
+International Atomic Energy Agency 
+IOGP 
+ 
+International Association of Oil & Gas Producers 
+LNG 
+ 
+Liquefied Natural Gas 
+LPG  
+ 
+Liquefied Petroleum Gas 
+LSA 
+ 
+Low Specific Activity 
+LWD  
+ 
+Logging While Drilling  
+MCHE  
+ 
+Main Cryogenic Heat Exchanger 
+MRU  
+ 
+Mercury Removal Unit 
+MWD  
+ 
+Measurement While Drilling 
+NG  
+ 
+Natural Gas 
+NGL 
+ 
+Natural Gas Liquid 
+NIOSH  
+ 
+National Institute for Occupational Safety and Health 
+NORM  
+ 
+Naturally Occurring Radioactive Material 
+PPE  
+ 
+Personal Protective Equipment 
+PTS 
+ 
+Port-to-ship bunkering method 
+
+
+--- Page 5 ---
+ 
+SRU  
+ 
+Sulfur Recovery Unit 
+STS  
+ 
+Shore-to-ship bunkering method 
+TENORM  
+Technologically Enhanced Naturally Occurring Radioactive 
+Materials 
+TGTU  
+ 
+Tail Gas Treating Unit 
+TL  
+ 
+Thermoluminescence  
+TLD  
+ 
+Thermoluminescent Dosimeter 
+TTS  
+ 
+Truck-to-ship bunkering method  
+Units 
+Bq 
+ 
+Becquerel: the rate of radioactive decay equal to one disintegration 
+per second 
+Bq/(Nm3)   
+Becquerel per normal meter cube: the unit of measurement for the 
+radioactivity within a volume of space 
+Bq/g  
+ 
+Becquerel per gram: specific activity/activity per quantity of a 
+radionuclide 
+Gy [J/kg]  
+Gray: the unit of absorbed dose/absorbed energy per unit mass of 
+matter 
+K  
+ 
+Kelvin: a base unit of temperature  
+Pa 
+ 
+Pascal: the unit for pressure 
+Sv [J/kg]  
+Sievert: the unit of equivalent and effective radiation dose 
+Sv/h  
+ 
+Sievert per hour: dose rate/dose per unit time  
+atm  
+ 
+The standard atmosphere: standard pressure/Earth's atmospheric 
+pressure at sea level 
+kg/m3  
+ 
+Kilogram per meter cube: a standard unit of material density 
+m3  
+ 
+Meter cube: the unit of volume 
+Nm3 
+ 
+Normal meter cube: the value that a matter of a constant mass 
+occupies under normal or standard conditions 
+ppmv  
+ 
+Part per million by volume/a unit of concentration 
+tonne  
+ 
+The unit of mass equal to 1000 kg 
+ 
+ 
+ 
+ 
+ 
+ 
+ 
+
+
+--- Page 6 ---
+ 
+Table of contents 
+1 
+Introduction 
+1 
+1.1 
+Background and problem description 
+1 
+1.2 
+Hypothesis 
+2 
+1.3 
+Research questions 
+3 
+1.4 
+Limitations 
+3 
+1.5 
+Research methodology 
+3 
+1.5.1 
+Philosophy of Science 
+4 
+2 
+Theory 
+6 
+2.1 
+NORM, radon and radiation types 
+6 
+2.1.1 
+NORM and TENORM 
+6 
+2.1.2 
+Radon and radiation types 
+6 
+2.2 
+Natural gas exploration and treatment 
+8 
+2.2.1 
+Natural gas exploration process 
+8 
+2.2.2 
+Production of natural gas and radon escape mechanism 
+10 
+2.2.3 
+Natural gas treatment 
+12 
+2.3 
+Radon presence in LNG refinery and LNG product 
+15 
+2.3.1 
+Radon in LNG refinery 
+15 
+2.3.2 
+Final LNG product and radon concentration 
+18 
+2.4 
+LNG systems and maintenance 
+19 
+2.4.1 
+LNG carrier and NORM contamination 
+19 
+2.4.2 
+LNG systems contamination 
+20 
+2.4.3 
+Maintenance procedure and radiation exposure 
+27 
+2.5 
+Radon and radon progeny measurement 
+28 
+2.5.1 
+Introduction 
+28 
+2.5.2 
+Passive detectors for radon measurement in air 
+30 
+2.5.3 
+Active detectors for radon measurement in air 
+33 
+2.5.4 
+Measurement of radon in LNG 
+35 
+3 
+Radon level measurement 
+44 
+3.1 
+Rapidos 
+44 
+3.2 
+RadonEye 
+44 
+3.3 
+Radon level measurement process 
+45 
+4 
+Radon management and safety 
+50 
+4.1 
+SSMFS 2018:10 Regulations on radon in workplaces 
+50 
+4.2 
+SSMFS 2018:4 Regulations on naturally occurring radioactive material 
+and building material 
+52 
+4.3 
+Activities towards the reduction of radon level 
+53 
+5 
+Results and discussion 
+54 
+6 
+Conclusion 
+56 
+7 
+References 
+58 
+ 
+
+
+--- Page 7 ---
+ 
+1(68) 
+ 
+1 Introduction 
+1.1 Background and problem description 
+Liquefied Natural Gas (LNG) fuel, which is an oil and gas industry product, has 
+captured particular attention recently. The reason behind increased attention to LNG 
+fuel systems is current environmental issues resulting in demand for less greenhouse 
+effect polluting fuels in the maritime and land-based industries. Compared to other 
+fuels, LNG-based combustion processes produce fewer sulfur emissions; therefore, 
+LNG is considered as a possible fuel option [1]. However, according to the life-
+cycle study of different marine fuels [2], where global warming potential (GWP) of 
+fuels over 20-year and 100-year time frame was evaluated, it was found that LNG 
+positive impact on climate is either questionable or LNG releases even more 
+emissions than other types of marine fuel. Nevertheless, over the past two decades, 
+LNG technologies have been significantly developed resulting in an increase of 
+LNG technologies efficiency [3]. Therefore, LNG is considered as a fuel of the 
+future, and there is a huge potential of LNG technologies to be improved further. 
+Various ferry and shipping companies mentioned by [4] such as Destination 
+Gotland, Furetank, and Viking Line have already adopted LNG-fueled engines. 
+Besides, a new LNG tank terminal is now projected in the port of Oxelösund, 
+Sweden [5]. However, as it was mentioned before, LNG is the oil and gas industry 
+product which implies the possibility of naturally occurring radioactive material 
+(NORM) contamination of LNG fuel systems. NORM is the term referred to 
+material containing radionuclides which can be found in the environment. The 
+radionuclides of interest are uranium-238 (238U), uranium-235 (235U) and thorium-
+232 (232Th), and their radioactive decay products such as radium and radon. NORM 
+can present in various industries such as the coal industry and metal mining, 
+including the oil and gas industry [6]. LNG fuel systems onboard vessels may 
+contain radon and radon decay products which may have an adverse effect on 
+human health. There is no short-term effect caused by NORM presenting in LNG 
+fuel systems; nevertheless, exposure to radiation increases the risk of long-term 
+effects such as cancer [7].  
+ 
+Figure 1 Typical LNG refinery diagram [51]. 
+The reason behind the presence of NORM in final LNG product, particularly radon 
+and radon decay products, is due to radon presence in sedimentary rocks from where 
+
+
+--- Page 8 ---
+ 
+2(68) 
+ 
+oil and gas is usually extracted. After extraction, numerous treatment steps take 
+place, that can be seen in Figure 1, such as absorption via amine solvents in order to 
+remove particular gases such as carbon dioxide and hydrogen sulfide, elimination of 
+water vapor with the help of dehydration process where molecular sieve is used, and 
+removal of mercury commonly via charcoal columns [8]. During treatment steps, 
+radon and radon decay products, particularly Pb-210 [9], can be accumulated on 
+molecular sieve or any other used material. Radon and radon progeny, particularly 
+Po-210 and Pb-210 [8], can also be captured by charcoal columns. In addition, some 
+amount of radon tends to accumulate in liquefied petroleum gas (LPG) [10], which 
+is a derivative of natural gas as it can be seen in Figure 1. Nevertheless, despite 
+purification processes, certain concentrations of radon decay products in LNG were 
+recorded [11]. The range of radon concentration varied a lot starting from less than 
+1 pCi/L and reaching up to 23 pCi/L. Therefore, there is a possibility of radon and 
+radon progeny presence in LNG. Moreover, taking into consideration the 
+accumulative nature of radon decay products, namely the accumulation of radon 
+daughters on the inner parts of LNG equipment, there is a risk of health-threatening 
+levels of radiation to which workers can be exposed.  
+ 
+According to the Swedish law, the employer shall examine the working conditions 
+and evaluate possible risks of any person being affected by ill-health or accidents at 
+work on a regular basis [12]; and is responsible for implementing the measures 
+necessary to prevent ill-health and accidents at work [13]. Taking into consideration 
+all the aforementioned facts, the importance of possessing information regarding 
+NORM presence in LNG fuel systems is apparent. However, according to [4], “the 
+Swedish government has little, if any, knowledge about whether NORM is present in 
+LNG fuel systems”. This statement is further supported by the e-mail 
+correspondence between the Swedish national agencies: Linnaeus University, 
+Swedish Radiation Safety Authority, Swedish Work Environment Authority, 
+Swedish Transport Agency, and Swedish Energy Agency [14] – [31]. Therefore, a 
+thorough investigation is required in order to address gaps in knowledge regarding 
+the existence of NORM in LNG fuel systems and provide a safe work environment. 
+1.2 Hypothesis 
+Taking into consideration the aforementioned facts, the author postulates the 
+following hypothesis: 
+ 
+There is a risk of NORM presence and contamination of LNG systems, and there 
+are certain locations in LNG systems where radon and radon progeny are more 
+likely to be observed. Therefore, there is a risk of radiation levels posing a threat to 
+a safe work environment.  
+ 
+ 
+
+
+--- Page 9 ---
+ 
+3(68) 
+ 
+1.3 Research questions 
+The main research questions of this study are: 
+I. 
+How can NORM contamination be detected in LNG fuel systems? 
+II. 
+Where are radon and radon decay products more likely to be accumulated? 
+ 
+To be able to answer the main research questions, the following sub-research 
+questions should be reviewed: 
+III. 
+What kind of techniques can be used in order to identify NORM 
+contamination level in LNG fuel systems? 
+IV. 
+What kind of standards and procedures should be followed in order to 
+obtain reliable results? 
+V. 
+How do radon and radon progeny particles tend to behave in LNG systems? 
+1.4 Limitations 
+The study examines NORM contamination and NORM measurement procedures in 
+LNG fuel system, i.e. LNG tank, LNG terminal, pipelines, pumps, and other 
+associated equipment. The study is limited to the following aspects and areas:  
+I. 
+The study does not address NORM measurement procedures of other 
+systems where NORM can be present such as LNG refinery.  
+II. 
+The study does not consider NORM measurement procedures of LNG 
+engine emissions, i.e. the study is focused on NORM contamination of LNG 
+equipment. 
+1.5 Research methodology 
+This study is based on a literature review methodology. The literature review is 
+focused on the scientific engineering aspects that have been gathered in regard to 
+the topic, concept, or phenomena. With the help of the literature review, it is 
+possible to link already existing works between each other and establish the 
+relationship between different theories. In addition, the literature review may give a 
+rise to a new hypothesis which should be investigated in more depth [32].  
+ 
+There are four stages of literature review, namely [32]: 
+ 
+1. 
+The formulation of the problem, i.e. what kind of question is being raised 
+and what is the matter with the raised question.  
+2. 
+Literature search itself, i.e. the thorough research of the materials related to 
+the problem. 
+3. 
+The evaluation of the found information, i.e. which material or materials 
+play the most significant role in understanding the problem, or which 
+material or materials add up the value to the study.   
+
+
+--- Page 10 ---
+ 
+4(68) 
+ 
+4. 
+Analysis and interpretation, i.e. the discussion and overall conclusion of the 
+gathered materials. 
+In this study, all four stages are followed: 
+ 
+1. 
+The problem of radiation due to NORM accumulation in LNG systems is 
+being raised. The matter with NORM deposition is that it may pose a threat 
+to the health and endanger a safe work environment. 
+2. 
+Excessive literature search on the topics of NORM, radiation, LNG, and 
+NORM measurement has been conducted.  
+3. 
+All gathered works and papers were evaluated, and the most useful ones 
+were used in this paper. 
+4. 
+Different papers were analyzed, for instance, the papers covering the 
+behavior of particles of different sizes in Newtonian fluid, and, based on 
+these papers, some conclusions were drawn regarding radon and radon 
+progeny particles.   
+Apart from the theoretical literature review, the philosophy of the Design for Six 
+Sigma (DFSS) process of the scientific engineering method ‘Systems Engineering’ 
+was applied to this study [33] – [35]. First and foremost, according to the concept of 
+DFSS, the question of whether process or product exists should be raised. Apart 
+from questions that were already asked, the question of whether any established 
+process on NORM measurement in LNG exists was raised in this study. Since, to 
+our knowledge, there has been no study carried on NORM deposition measurement 
+in LNG systems, i.e. the answer to the aforementioned question is “no”, it is 
+important to identify the process according to DFSS concept. Besides, according to 
+DFSS philosophy, the first stage is identification, where numerous stages are 
+included such as review and assessment of applicable technologies. In this study, 
+different techniques were reviewed and analyzed. The second stage, namely design, 
+is about the selection of the best concepts and preparation of preliminary designs 
+that are aligned with the Voice of the Customer (VoC). The Voice of the Customer 
+(VoC) is a research method utilized by businesses to describe the preferences of the 
+customers. In this study, not only several technologies were reviewed, but also 
+compared between each other, and the best concepts were chosen.  
+1.5.1 
+Philosophy of Science 
+Apart from the ‘Systems Engineering’ approach, it is also important to look at the 
+matter from the scientific philosophy point of view. For instance, in a recently 
+presented B.Sc. thesis [36], apart from the purely engineering approach, the 
+underlying philosophy of science also was taken into consideration.  
+ 
+One of the philosophical movements is called logical positivism [37]. Logical 
+positivism is an approach that is based on facts and pure logic. In order to identify 
+whether a statement is truthful or not, verifiability principle, or verificationism, is 
+used. According to the verifiability principle, a statement has meaning in the case if 
+it is possible to verify the statement empirically. Despite the fact that logical 
+positivism has faced criticism and been rejected by modern philosophers since the 
+
+
+--- Page 11 ---
+ 
+5(68) 
+ 
+verification principle cannot be verified itself, it still had a great impact, especially 
+on social science [38].  
+ 
+Another philosophical movement is pragmatism. Pragmatism, which is also called 
+pragmaticism, is the philosophical movement where the importance of practical 
+consequences is emphasized. In simple terms, something can be considered as true 
+if it works. One of the founders of pragmatism, Charles Sanders Peirce, wrote in his 
+work [39]: “Consider the practical effects of the objects of your conception. Then, 
+your conception of those effects is the whole of your conception of the object.” 
+ 
+Peirce also distinguished between different methods of data collection, namely 
+deduction, induction, and abduction. With the help of deductive logic, which is also 
+called a “top-down” approach, all collected data is narrowed down to a specific 
+conclusion. In the case of inductive logic, a number of observations is used in order 
+to “catch” a pattern to establish a general statement which may or may not be true. 
+The third logic, namely abduction logic, was developed by Peirce. Abduction 
+reasoning helps to come to the best possible conclusion out of many alternative 
+conclusions to explain emerged facts and incomplete observations; however, the 
+conclusion which is derived via abductive logic is not necessarily true one [40].  
+ 
+This study is based on the philosophy of the logical positivism since: 
+ 
+1. 
+This study established a hypothesis that is based on the pure logic. 
+2. 
+The hypothesis, or statement, should be verified empirically, i.e. with the 
+help of the experiment. 
+This study is based on the deductive logic since: 
+ 
+1. 
+Lots of theories are gathered and put together. 
+2. 
+Based on the gathered theories, a new hypothesis is established. 
+3. 
+In order to address the hypothesis, observations should be collected. 
+4. 
+In the case if collected observations approve the initial hypothesis, then the 
+theory can be confirmed. Otherwise, in the case if observations contradict 
+the theory, then the theory is rejected.  
+ 
+Figure 2 Deductive reasoning steps [40]. 
+In this study, the first two steps of deductive reasoning, which is illustrated in Figure 
+2, are utilized. For the remaining two steps, NORM level measurement in LNG 
+systems and derived experimental data are required. 
+
+
+--- Page 12 ---
+ 
+6(68) 
+ 
+2 Theory 
+2.1 NORM, radon and radiation types 
+2.1.1 
+NORM and TENORM 
+According to the International Atomic Energy Agency (IAEA) Safety Glossary 
+[41], naturally occurring radioactive material is defined as "a radioactive material 
+containing no significant amounts of radionuclides other than naturally occurring 
+radionuclides". NORM, among which are uranium-238 (238U), uranium-235 (235U) 
+and thorium-232 (232Th) which have been mentioned before, have been present in 
+the Earth’s crust since the Earth formation. Radionuclides are not stable and tend to 
+undergo radioactive decay process after which nuclides become stable and stop 
+emitting radiation. Nevertheless, due to the fact that some radioactive elements 
+decay slowly, i.e. these elements have a long half-life, they are still present in rock 
+and soil. Due to certain human activities such as oil and gas extraction, naturally 
+occurring radioactive materials tend to concentrate or, in other words, tend to 
+become “technologically enhanced” and are exposed to the human environment. 
+This phenomenon is known as Technologically Enhanced Naturally Occurring 
+Radioactive Material (TENORM), and the National Academy of Sciences defines 
+TENORM as “any naturally occurring radioactive materials not subject to 
+regulation under the Atomic Energy Act whose radionuclide concentrations or 
+potential for human exposure have been increased above levels encountered in the 
+natural state by human activities”. According to [42], total amounts of produced 
+TENORM in the United States per year may exceed 1 billion; thus, TENORM 
+constitutes a challenge for particular industries.  
+2.1.2 
+Radon and radiation types 
+There are several different isotopes of radon; however, the one which poses a threat 
+to human health is radon-222. Radon-222 (222Rn), which is a result of decay 
+processes chain starting from uranium-238 (238U), is a radionuclide with a half-life 
+of approximately 3.8 days [6]. The decay chain can be seen in Figure 3. 
+The decay rate or activity of any radioactive element can be measured in becquerels 
+(Bq), where 1 Bq is one radioactive disintegration per second, or in curie (Ci), or to 
+be more precise picocuries (pCi) - 2.2 disintegrations per minute. Thus, in order to 
+measure the activity concentration of radon, the unit of Bq/m3 or pCi/L is used [43]. 
+Radon is a colorless inert gas which is soluble in water and organic solvents. 
+Despite the fact that radon is gas, its decay products are solid particles that can be 
+inhaled and deposited in the lung increasing the potential for lung cancer. Radon 
+daughters being accumulated on the lung emit a different type of radiation, namely 
+alpha and beta radiations as well as weak gamma radiation [6].  
+
+
+--- Page 13 ---
+ 
+7(68) 
+ 
+ 
+Figure 3 Uranium-238 decay chain [4]. 
+Alpha (α), beta (β), and gamma (γ) decay are based on three fundamental forces, 
+namely the strong force, the weak force and the electromagnetic force. In all three 
+cases, the decay increases the stability of the nucleus due to released protons and 
+neutrons. During alpha decay, an alpha particle which is a helium nucleus with two 
+protons and two neutrons, is emitted [44].  
+ 
+ 
+𝑋
+𝑍
+𝐴
+=
+𝑋′ + 𝐻𝑒
+2
+4
+𝑍−2
+𝐴−4
+ 
+(1) 
+Where: 
+X – parent nucleus 
+X’ – daughter nucleus 
+A – atomic mass  
+Z – atomic number 
+He – helium 
+ 
+Beta decay can be divided into two different forms: beta plus decay (β+) and beta 
+minus decay (β−). During beta plus decay, proton inside a radionuclide nucleus is 
+converted into a neutron, and neutrino together with positron which is an electron 
+with positive electric charge are emitted. Beta plus decay occurs in radionuclides 
+
+
+--- Page 14 ---
+ 
+8(68) 
+ 
+rich in protons, and this type of emission decreases proton number leading to the 
+balance between protons and neutrons [44].  
+ 
+ 
+𝑋
+𝑍
+𝐴
+=
+𝑋′ + 𝑒+ + 𝑣𝑒
+𝑍−1
+𝐴
+ 
+(2) 
+Where: 
+e+ – positron 
+𝑣𝑒 – neutrino 
+ 
+In the case of beta minus decay, the number of neutrons outweighs the number of 
+protons. Neutrons are converted into a proton, and electron together with 
+antineutrino are released in the process [44]. 
+ 
+ 
+𝑋
+𝑍
+𝐴
+=
+𝑋′ + 𝑒−+ 𝑣𝑒̅
+𝑍+1
+𝐴
+ 
+(3) 
+Where: 
+e- – electron 
+𝑣𝑒̅  – antineutrino 
+ 
+During alpha and beta decay, nuclei are in excited states. The excited states of 
+nuclei tend to decay into lower states, and this process is accompanied by 
+electromagnetic radiation emission in the form of gamma rays [44]. 
+ 
+ 
+𝑋
+𝑍
+𝐴
+=
+𝑋′ + 𝛾
+0
+0
+𝑍
+𝐴
+ 
+(4) 
+ 
+Different types of radiation have different penetrating power. Alpha particles can 
+travel only a few centimeters and do not constitute a danger since alpha radiation 
+cannot penetrate the skin. However, alpha radiation can be harmful when 
+radioactive material emitting alpha particles is inhaled, swallowed, or absorbed 
+through open wounds. Beta particles can be stopped by a piece of clothing. 
+However, compared to alpha particles, beta particles can penetrate human skin to 
+some extent and cause skin injuries if the skin is exposed to beta radiation for a long 
+period of time. Gamma radiation can travel large distances and has the strongest 
+penetration power [45]. Among all aforementioned types of radiation, alpha and 
+beta radiation are the ones of interest since alpha and beta particles can be inhaled 
+during the maintenance process.  
+2.2 Natural gas exploration and treatment  
+2.2.1 
+Natural gas exploration process 
+In order to find out whether natural gas reserves are present in rock, geologists use 
+several methods. First of all, there is an observation of surface rocks called 
+geological examination or geological survey giving an idea about underground 
+formations. In the mid 1800s, it was understood that certain slopes called anticlinal 
+slopes where the earth has folded up on itself have a greater likelihood of containing 
+natural gas compared to other areas. Natural gas can move toward the surface of the 
+earth thus a large portion of natural gas, more specifically methane, will dissipate 
+
+
+--- Page 15 ---
+ 
+9(68) 
+ 
+into the air. However, a significant amount of natural gas will also be trapped under 
+impermeable formation of rock through which natural gas will not be able to escape. 
+There are various types of such formations; however, the most common one is dome 
+shape impermeable rock layers which look like an umbrella capturing the natural 
+gas trying to reach the surface, and which is illustrated in Figure 4. Therefore, a 
+geological survey is an essential step which helps to explore possible natural gas 
+deposits. Once a location that has a probability to contain natural gas or petroleum 
+reserves is set, further tests can be carried in order to obtain more data regarding 
+area with natural gas potential [46].  
+ 
+Figure 4 Rock formation [46]. 
+Seismic survey is one of the further steps which should be taken to get more 
+detailed data. In old days, explosive materials were used such as dynamite in order 
+to set small explosions and create seismic waves which further were caught by a 
+special device called geophones, and received data was interpreted by geophysicists, 
+geologists, and petroleum engineers. Nevertheless, nowadays, due to technology 
+improvement, non-explosive seismic technology is used which also helps to avoid 
+any environmental damage. Special vehicle is carrying equipment which creates 
+vibrations, and, in turn, these vibrations create seismic waves which help to receive 
+useful data. The same approach is applied for offshore exploration where instead of 
+the truck there is a ship, and instead of the geophone, there is hydrophone [46]. 
+ 
+In addition to the seismic survey, there are other means of obtaining data such as the 
+use of magnetometers. The earth’s magnetic field is not uniform and differs 
+depending on location. The difference in magnetism can be caused by several 
+reasons one of which is the differing nature of rock formations. Therefore, oil and 
+gas deposits may affect the magnetic field, and variance can be observed via 
+magnetometer – a device measuring even the small variance in the magnetic field 
+[46].  
+ 
+When obtained data shows a high probability of petroleum and gas reserves in the 
+formation rocks, exploratory well can be drilled in order to get more precise data on 
+
+
+--- Page 16 ---
+ 
+10(68) 
+ 
+deposits. Afterward, the logging procedure, which is an ongoing record of the 
+physical characteristics of rock and fluid with the help of the logging tool, is carried.  
+ 
+There are over a hundred types of logging, and some of the most common are 
+standard logging and electric logging. During standard logging, the physical 
+properties of a well can be evaluated. For instance, the drill cuttings which are 
+pieces of rock that are generated when a well is drilled, allow geologists to analyze 
+the material. In the case of electric logging, electric current is run through the rock 
+layers measuring the electrical resistance. The electrical logging helps geologists to 
+obtain data regarding fluid content and properties. Recently, a novel method which 
+is logging while drilling (LWD), also called measurement while drilling (MWD), 
+provides the same data about the well as previously mentioned techniques. 
+However, instead of lowering the logging tool into the well at the end of wireline 
+cable, the logging tool is incorporated into the drill string [46]. In the case if logging 
+provides positive data regarding oil and natural gas deposits, production process 
+takes place.  
+2.2.2 
+Production of natural gas and radon escape mechanism 
+Oil and gas can be found in any porous rock but in most of the cases it is discovered 
+in sedimentary rocks such as sandstone or limestone. Usually, the oil and gas 
+reservoirs are located on the top of a layer of interstitial water. Uranium, which is a 
+radioactive element, is present in the sedimentary rock [6]. One of the reasons 
+behind the presence of uranium, to be more precise uranyl ion, is the physical 
+adsorption of uranyl ion on the surface of organic compounds which are also present 
+in sedimentary rock [47]. Two of uranium decay products, namely radium and 
+radon, can escape from the rock and be dissolved in the interstitial fluids. One of the 
+main reasons behind radon emanation, i.e. release of radon from the mineral grain to 
+the pore space where radon can diffuse further, is based on recoil phenomenon. 
+During radium decay, alpha particle, which is helium nucleus, is ejected. When the 
+alpha particle is ejected, radon atom which has been formed recoils in the opposite 
+direction which can be observed in Figure 5 [48].  
+ 
+Figure 5 Radium nuclide decay mechanism [48]. 
+The process resembles a recoil of the rifle after the shot. The release of radon to the 
+pore space depends on several factors: the location of radium atom, i.e. whether it is 
+close or far from the surface of a mineral sample, and direction of recoiled radon 
+atom, i.e. whether it recoils in direction to the surface of the grain or against the 
+surface. When all conditions are favorable, i.e. radium atom is located near the 
+
+
+--- Page 17 ---
+ 
+11(68) 
+ 
+surface of the mineral grain, and radon recoils toward the surface, radon atom can 
+escape to the pore. However, frequently, due to the fact that recoiled radon atom has 
+substantial energy, it can travel all the way through the pore space, and enter in 
+nearby mineral grains. Nevertheless, in the case if pore space is filled with water, 
+radon tends to remain in pore space. Due to the higher density compared to air, 
+water slows down the speed of radon thus preventing radon atom to travel further 
+and eventually captures it [48]. The process is illustrated in Figure 6.  
+ 
+Figure 6 Radon atom possible movements [48]. 
+It is also worth mentioning that radon is gas, in contrast to uranium and radium 
+which are solids, implying that radon more easily escapes mineral grain and then 
+moves further with natural gas in pore space. In order to retrieve the gas trapped in 
+rock formations, well should be drilled, and certain equipment is installed in the 
+well such as well casing, wellhead, and installation of lifting equipment. The 
+equipment plays a crucial role for further steps: for instance, well casing contributes 
+to the strengthening of the wellbore sides, and natural gas can be brought to the 
+surface without being lost by entering to rock layers on the way up. After all the 
+necessary procedures are completed, well may start to produce natural gas. Natural 
+gas located in pressurized formations will naturally rise up through established well, 
+especially in the case when a deposit consists of only natural gas or together with a 
+light condensate. This case is called a primary recovery. However, sometimes 
+special treatment is needed in order to provide an effective flow of hydrocarbons 
+through the well. Such treatment may include injection of water, gases such as CO2, 
+or an acid such as hydrochloric, into the well to open up the formation and allow 
+hydrocarbons to flow through [46]. One of the most common technologies is 
+hydraulic fracturing: the pressure of injected fluid, which is usually the mixture of 
+water (99.5%), sand and chemical additives (0.5%) “cracks” the fractures which are 
+already present in the formation ensuring the release of trapped natural gas. Apart 
+from water, as it has been mentioned before, carbon dioxide can also be used to 
+crack the formation which has even more advantages compared to water as injected 
+
+
+--- Page 18 ---
+ 
+12(68) 
+ 
+fluid. Injected CO2 and sand mixture fractures the formation through which desired 
+hydrocarbons can flow through. Afterward, CO2 is vaporized, and only sand 
+remains in the formation, holding the cracks, which have been enlarged and created 
+by fracturing, open. Such a technique does not generate underground wastes, and 
+also ensures protection of groundwater resources [49]. Another common technique 
+is horizontal drilling: with the help of horizontal drilling, the area of a well can be 
+increased without creating several vertical wells. One of the reasons behind the use 
+of horizontal drilling is that the significant part of oil and gas deposits is 
+concentrated in a horizontal dimension rather than in a vertical dimension. 
+Therefore, with the help of horizontal drilling more natural gas can be extracted 
+[50]. The extraction of natural gas is known as the production process or upstream. 
+After extraction, natural gas transportation, or midstream, takes place. In the case of 
+LNG, natural gas is first converted to LNG in the production plant which is near to 
+the extraction area, and afterward is transported to the market, and all stages will be 
+deeply examined in the following chapters. 
+2.2.3 
+Natural gas treatment  
+After extraction, raw natural gas cannot be transported directly and should undergo 
+some treatment processes such as removal of water vapor and solids, as well as 
+natural gas liquids such as ethane, propane, and butane. After treatment, there are 
+several ways to transport natural gas: pipelines, liquefied natural gas (LNG), 
+compressed natural gas (CNG), gas to solids (GTS), gas to power (GTP), gas to 
+liquids (GTL), and other ways [46]. Nevertheless, among all the aforementioned 
+methods, only LNG and pipelines are fully commercial and mature technologies. 
+GTL is commercial but requires certain improvements in order to enhance 
+efficiency, and CNG together with GTS have not been put on a commercial scale 
+yet. Therefore, natural gas is usually transported either by pipelines or by LNG 
+cargo ships or trucks. The main criteria of choosing a particular method are based 
+on distance and volume of extracted natural gas. LNG becomes a reasonable 
+solution when natural gas should be transported for long distances, particularly for 
+the routes which should be crossed via ships since undersea pipeline construction is 
+not cost-efficient. In addition, in order to transfer a large amount of natural gas for 
+long distances via pipelines, large diameter pipes and gas recompression facilities 
+are needed which is also costly [51]. Nowadays, LNG is a fast-growing market, and, 
+according to BP Statistical Review of World Energy 2019, the amount of natural gas 
+transferred via LNG cargo ships and trucks in 2018 was 431 billion cubic meters 
+whereas in 2008 it was only 234.9 billion cubic meters, which shows the substantial 
+increase of LNG trade. The data is show in Table 1. Compared to 2017, LNG 
+supplies increased by almost 10% (37 bcm) in 2018 due to the fact that new 
+liquefaction plants in Australia, the United States and Russia were either started or 
+the number of plants increased [52].  
+ 
+Table 1 Pipeline and LNG inter-regional trade of natural gas in billion cubic meters [52]. 
+Worldwide 
+(bcm) 
+2008 
+2009 
+2010 
+2011 
+2012 
+2013 
+2014 
+2015 
+2016 
+2017 
+2018 
+Inter-regional 
+pipeline trade 
+527.5 
+420.5 
+435.6 
+466.9 
+460.3 
+459.5 
+436.1 
+445.6 
+479.6 
+510.5 
+512.4 
+LNG trade* 
+234.9 
+249.7 
+302.4 
+328.3 
+324.9 
+326.8 
+333.6 
+337.1 
+358.3 
+393.9 
+431.0 
+*LNG exports include re-exports. 
+
+
+--- Page 19 ---
+ 
+13(68) 
+ 
+ 
+The traditional supply chain can be observed in Figure 7. First, as it has already 
+been mentioned, natural gas is extracted and then supplied to LNG refinery. 
+Afterward, LNG is transported via cargo ships or trucks to the demand point, where 
+LNG can be used further for numerous purposes such as using LNG as marine fuel 
+or regasification of LNG and using both as gas or electricity [51]. In Figure 7, LNG 
+chain where LNG is used for electricity production is illustrated. 
+ 
+Figure 7 The main elements of a typical LNG supply chain [51]. 
+The traditional LNG plant is illustrated in Figure 1. Typically, first, the liquids from 
+natural gas should be removed; therefore, the raw natural gas is sent to a slug 
+catcher. Afterward, gas is sent to a high pressure (HP) separator whereas the liquids 
+are fed to a medium pressure separator, where the hydrocarbon liquids are further 
+separated and fed to the condensate stabilizer. The liquids which were fed to the 
+condensate stabilizer are separated, and formed condensate comprises of C5 and 
+other heavy hydrocarbons. As it can be seen, vapors from the medium separator and 
+stabilizer column overhead are compressed and recycled back to the HP separator.  
+ 
+The vapors then are fed to the Gas Sweetening Unit, GSU which is also called Acid 
+Gas Removal Unit (AGRU), where hydrogen sulfide (H2S) and carbon dioxide 
+(CO2) are removed. The hydrogen sulfide is removed with the help of an amine 
+solvent in order to meet sulfur product requirement which is typically below 4 ppmv 
+[51]. It is important to remove H2S since it contributes to general corrosion, which is 
+also called uniform corrosion; pitting corrosion, which causes the formation of 
+cavities in the material; and acid corrosion, which results in crack or blisters. In 
+addition, H2S can be emitted through crack having a detrimental impact on people’s 
+health and damaging to the environment [53]. Another compound, which is CO2, 
+should be decreased to 50 ppmv in order to avoid CO2 freezing which will cause 
+heat exchanger plugging and other operational problems [54].  
+ 
+The acid gas is fed to the Sulfur Recovery Unit (SRU) which is usually comprised 
+of a Claus unit and a Tail Gas Treating Unit (TGTU), and the off-gas from the 
+TGTU is sent to the atmosphere. The sweet gas from GSU is sent to the Gas 
+
+
+--- Page 20 ---
+ 
+14(68) 
+ 
+Dehydration Unit (GDU) in order to decrease the amount of water vapor to below 
+0.1 ppmv [51]. Water should be removed since water vapor freezes and may 
+damage the main liquefaction exchanger [55]. For GDU process, molecular sieves 
+are utilized. In hot climate operation, the water content in the sweet gas can be 
+substantial; therefore, the sweet gas can be chilled first in order to remove most of 
+the water prior to the molecular sieve unit. This procedure, i.e. the sweet gas 
+chilling, is more energy-efficient and cost-effective rather than direct feeding of 
+saturated sweet gas to the molecular sieve unit. As it can be seen from the scheme, 
+there is also Mercaptans Removal Unit where mercaptans from the dried gas can be 
+removed via molecular sieve in order to meet the sulfur standards [51].  
+ 
+Afterward, the gas is sent to the Mercury Removal Unit (MRU), where mercury 
+(Hg) must be reduced to less than 10 nanograms per cubic meter. The presence of 
+mercury has a detrimental effect on brazed-aluminum heat exchangers that are used 
+in cryogenic systems causing equipment corrosion used. On top of that, mercury can 
+be a threat to the environment and safety. There are numerous methods of mercury 
+removal, and one of the most common methods is the use of the sulfur which reacts 
+with mercury and form a stable compound on the sorbent surface. The support 
+material is usually activated carbon, and sulfur-impregnated activated carbon is an 
+established commercial process in natural gas refineries [51]. Nevertheless, other 
+trapping agents such as metal sulfides, silver and gold, and other support materials 
+or carrier agents such as alumina and zeolite can be used [56].  
+ 
+After MRU, treated gas is fed to Natural Gas Liquid (NGL) Recovery Unit where 
+C2+ or C3+ are removed and recovered, and a lean gas, i.e. a gas which contains 
+mainly methane, is further liquefied. The use of NGL Recovery Unit excludes the 
+need in the scrubber column where aromatics and heavy hydrocarbons are removed 
+in order to avoid waxing phenomena in the main exchanger. There can be also 
+ethane recovery where ethane is recovered and further supplied to the petrochemical 
+refinery. The heavy hydrocarbons, namely C3-C5+ liquids, are also separated: 
+propane and butane can be exported as separate products, or as liquefied petroleum 
+gas (LPG), and C5+ and heavier components can be used for gasoline blending [51]. 
+ 
+After NGL Recovery Unit, methane gas is fed to the Liquefaction Unit where a 
+refrigeration process occurs. During liquefaction process, a refrigerant takes the heat 
+from the gas: the process is based on the principle of a refrigeration cycle where a 
+refrigerant undergoes cyclical expansion and compression, and turns the gas into 
+liquid by decreasing its temperature to cryogenic one [51]. The lighter 
+hydrocarbons, or lean gas, is fed to the main cryogenic heat exchanger (MCHE) in 
+order to convert lean gas to LNG. Nevertheless, not only lean gas but undesired 
+heavy compounds may also enter MCHE which may constitute a substantial 
+operational problem. These heavy compounds can freeze and accumulate in the 
+MCHE, leading to the decrease of the heat transfer efficiency and increase of 
+operational costs. In the case of the continued build-up of solids in the MCHE, a 
+blockage and a shutdown of the plant may occur [57]. In addition, there is a case 
+study on MCHE failure which was caused by mercury embrittlement leading to the 
+shutdown of refrigeration compressors for 6 weeks which, in turn, led to the loss of 
+LNG production [58]. 
+ 
+
+
+--- Page 21 ---
+ 
+15(68) 
+ 
+After the lean gas is liquefied, a nitrogen removal is required in the case if the 
+nitrogen content exceeds the commercial specification of LNG which is typically 
+below 1 mole per cent. There are several reasons behind the need for nitrogen 
+removal: the presence of nitrogen in LNG does not allow to meet a higher heating 
+value (HHV) requirement set for LNG product; and may cause so-called “rollover” 
+phenomenon. Nitrogen has no positive impact on HHV and needs to be removed so 
+LNG product specification can be met. In addition, due to the fact that natural gas 
+trade is based on a heat content rather than on weight, nitrogen fills up valuable 
+space, and thus should be eliminated. Another problem that appears when nitrogen 
+content is higher than 1 mole per cent is called a rollover. The floor and walls of the 
+tank are heated, and the heat is absorbed by the tank is transmitted, or more 
+specifically, convected to the liquid. At the top layer, light gases such as nitrogen 
+start to evaporate, and the liquid in the tank becomes denser. The evaporation taking 
+place in LNG tanks is known as boil-off gas (BOG). When boil-off occurs, 
+convection takes place where a bottom layer of warm and less dense liquid goes up 
+to the interface. However, evaporation does not occur since the top layer exerts 
+hydrostatic pressure on the bottom layer. Since top layer, or lighter layer, gets 
+denser, and bottom layer, or heavier layer, gets lighter, at some point the density of 
+two layers approach each other, and rollover occurs [51]. The process is illustrated 
+in Figure 8. According to [59], even a little difference in temperature (less or around 
+1 K) causes a sudden revolution of density layers in the tank. Due to the fact that the 
+bottom layer is superheated, after rollover a substantial amount of vapor is released. 
+One of the major risks of rollover is the over-pressurization of the tank. There is 
+also a possibility of the failure of tank relief system due to the high evaporation rate 
+which will eventually lead to LNG discharge into the atmosphere [51].  
+ 
+ 
+Figure 8 The stages of rollover phenomenon in LNG tank [59]. 
+After all treatment processes, LNG is loaded either to trucks or to ships which are 
+equipped with special cryogenic tanks and transported to the demand point.  
+2.3 Radon presence in LNG refinery and LNG product 
+2.3.1 
+Radon in LNG refinery 
+According to the review study [60], where records on radon and radon decay 
+products were gathered, the concentration of radon in natural gas varies between 5 
+Bq/m3 and 200,000 Bq/m3. Prior to entering refinery, according to [8], a certain 
+
+
+--- Page 22 ---
+ 
+16(68) 
+ 
+amount of radon decay products, which were formed during transportation via 
+pipeline since it takes time for natural gas to reach LNG plant, accumulates either 
+on inner part of pipeline or at plant inlet filters. Radon, due to the fact that it is in 
+gaseous state, is able to path through filter and enter to LNG refinery [8]. During 
+certain treatment processes, radon and radon progeny can also be removed from 
+natural gas. For instance, Pb-210 which is radon daughter, can be captured via 
+molecular sieve during Gas Dehydration Unit process. According to the study [9], 
+where the concentration of Pb-210 deposition on molecular sieve was estimated 
+taking into consideration the adsorption equilibrium coefficients (0.037 for 
+molecular sieve), the concentration of radon in the natural gas (100 to 20,000 
+Bq/Nm3), the typical operating conditions in LNG refinery (5.5 MPaA) and the 
+operation period of the adsorbents from its installation to exchange, the following 
+data was obtained. In this research, two different standards were taken into account: 
+IAEA NORM regulation with 1.0 Bq/g exemption level, and the International 
+Association of Oil & Gas Producers (IOGP) NORM regulation with 0.2 Bq/g 
+exemption level. The amount of accumulated Pb-210 has a positive correlation both 
+with radon concentration in natural gas and the number of sieve operating years. In 
+the case if radon concentration equals to 400 Bq/Nm3, even after 10 years of 
+operation the level of deposited Pb-210 will not exceed 0.2 Bq/g. Nevertheless, in 
+the case of 2,000 Bq/Nm3 Rn-222 concentration, the level of Pb-210 accumulation 
+is below 1.0 Bq/g after 10 years of operation; however, at this radon concentration, 
+it exceeds 0.2 Bq/g after 3 years. In case if radon concentration is 10,000 Bq/Nm3, it 
+is over 1.0 Bq/g after 3 years. Experiment was also conducted on silica gel, and in 
+the case of Rn-222 concentration of 10,000 Bq/Nm3, the level of Pb-210 
+accumulation exceeds 1.0 Bq/g after one year [9]. Conducted experiment illustrates 
+that sufficient amount of radon progeny can be found in treatment units.  
+ 
+Another treatment unit where radon daughters tend to concentrate is Mercury 
+Removal Unit. Radon progeny can be accumulated on activated charcoal bed, 
+particularly Po-210 and Pb-210, due to the fact that the chemical properties of Po-
+210 and Pb-210 are similar to those of mercury. Radon itself will also be trapped by 
+charcoal [8]. Radon can also be captured by zeolite [61], one of the materials which 
+is used in MRU. Nevertheless, compared to many types of materials such as 
+molecular sieve, silica gel and alumina, charcoal possesses greater adsorption 
+properties and capable of capturing greater amount of radon [62].  
+ 
+Afterward, remained radon and radon decay products move to NGL unit. According 
+to numerous data from natural gas refineries, severe NORM contamination of inner 
+parts of pumps was observed in this unit, particularly in propane/propene fraction. 
+Other types of equipment were affected as well, and thin invisible films of Pb-210 
+were detected and reported [60]. Apart from invisible Pb-210 films, dark grey or 
+black films can be observed in natural gas refineries due to contamination of short-
+lived decay products of radon, namely Po-218, Pb-214, Bi-214 and Po-214, on inner 
+parts of equipment. Some of these short-lived daughters are the reason of high-
+energy gamma radiation emission and, consequently, the reason of external gamma 
+radiation dose rates in the area of contaminated equipment [63]. In addition, low 
+specific activity (LSA) sludge, which is a term for radioactive deposit, can be 
+observed in different places such as pipeline bottom; nevertheless, LSA sludge tends 
+to deposit in voluminous equipment such as NGL storage tanks, separator and 
+
+
+--- Page 23 ---
+ 
+17(68) 
+ 
+dehydration vessels, LPG delivery facilities. The deposition occurs mostly due to 
+the long retention time [60].  
+ 
+After NGL unit, as it has been mentioned in the previous chapter, the heavy 
+hydrocarbons such as propane and butane are separated making up liquefied 
+petroleum gas (LPG) which is a derivative of natural gas. Radon tends to 
+accumulate in LPG due to the fact that the boiling point of radon, which is shown in 
+Table 2, is between that of ethane and propane [10]. The radon concentration of 
+derived LPG varies from 70 to 48,000 Bq/m3 [64]. Due to LPG derivation, 30 to 
+75% of radon can be eliminated from natural gas [10].  
+ 
+Table 2 Different boiling points of LPG components [10]. 
+LPG component 
+Boiling point (°C) 
+Methane 
+-161.5 
+Ethane 
+-88.3 
+Radon 
+-61.8 
+Propane 
+-42.2 
+Butane 
+-0.5 
+ 
+After LPG has been derived, the rest amount of radon and radon progeny enters 
+Liquefaction Unit. As it has been noted before, rich-methane gas enters to MCHE 
+where it is converted to LNG, and where unwanted components can be 
+accumulated. To our knowledge, there is no study on radon and radon decay 
+products deposition in cryogenic units. Nevertheless, it can be assumed that a 
+certain amount of radon enters MCHE and also is able to deposit in MCHE. The 
+reasons behind assumptions are: 
+ 
+I. 
+Presence of radon in the final LNG product. There is a record of radon 
+decay products presence in LNG [11] which means that a certain amount 
+of radon enters MCHE and other cryogenic units and ends up in final 
+product.  
+II. 
+Accumulation of radon in MCHE due to its increased density. To our 
+knowledge, there is no information regarding the density of radon at LNG 
+temperatures, i.e. -169°C [51]. Nevertheless, there is a data on radon 
+density in the gaseous state at standard conditions (0°C, 1 atm) which is 
+9.73 kg/m3, and density at normal boiling point (-62°C) which is around 
+4400 kg/m3 [65]. Thus, the density of radon tends to increase with 
+temperature decrease (Table 3), and the physical state of radon changes 
+during LNG production from gas to liquid, and finally to solid since the 
+freezing point of radon is -71°C [66]. Due to the increased density of radon 
+particles, the settling velocity, which is also known as fall velocity or 
+terminal velocity, increases [68], which facilitates the settling process of 
+radon particles.  
+
+
+--- Page 24 ---
+ 
+18(68) 
+ 
+Table 3 Densities of saturated liquid radon [66]. 
+T (K) 
+300 
+290 
+280 
+270 
+260 
+250 
+240 
+230 
+220 
+211 
+205 
+202 
+ρ (kg/m3) 
+3557 
+3650 
+3744 
+3824 
+3906 
+3990 
+4076 
+4163 
+4250 
+4330 
+4382 
+4408 
+ 
+The case of shutdown in natural gas refineries should also be taken into 
+consideration. After the shutdown of a natural gas plant, the continuous flow of 
+natural gas stops; therefore, short-lived radon daughters decay since their half-life 
+varies between 160 microseconds and 27 minutes [8]. Thus, there is no gamma 
+radiation emission; however, the long-lived decay products of radon such as Pb-210, 
+Bi-210 and Po-210, remain on the inner part of the equipment. These radionuclides 
+pose no threat due to weak gamma radiation but the alpha particles emitted by Po-
+210 and Pb-210 pose a potential hazard if they are ingested or inhaled during the 
+maintenance process [63]. Experiment conducted by [67] showed that during 
+maintenance of LPG equipment an employee can be exposed to a significant amount 
+of radiation. It was observed that a disassembled pump impeller from LPG refinery 
+emitted a significant amount of combined gamma and beta radiation, and even after 
+a year of storage impeller emitted a considerable number of alpha particles. The 
+concentration of 30 pCi/L was detected during twelve minutes of maintenance 
+whereas the limit for constant occupational exposure to Pb-210/Po-210 is 0.2 pCi/L 
+for 40 hours per week.  
+ 
+It is also worth mentioning that Pb-210 concentration was discovered in LPG rail 
+tanks [69]. This study indicates the fact that NORM contamination can be deposited 
+not only on natural gas facilities but also further on transportation equipment. 
+Taking into consideration all aforementioned facts such as radon concentration in 
+natural gas feed which can be substantially high, radon decay products deposition in 
+treatment units and transportation facilities, it is apparent that radon concentration 
+level in LNG should be investigated.  
+2.3.2 
+Final LNG product and radon concentration 
+LNG mostly consists of methane which is between 87 mole per cent to 99 mole per 
+cent. Other compounds such as ethane, propane, butane, as well as nitrogen and 
+trace amounts of sulfur (less than 4 ppmv), and CO2 (around 50 ppmv) are also 
+present in LNG. The content of LNG depends on the content of the initial gas source 
+and the treatment processes to which gas was subjected. In general, LNG is an 
+odorless, colorless, nontoxic and also noncorrosive cryogenic liquid (-169°C) at 1 
+atm pressure. LNG produces very low particle emissions, i.e. emissions contain 
+almost no sulfur oxides and low level of nitrogen oxides. In addition, compared to 
+other hydrocarbon fuels, LNG releases substantially lower carbon emissions. 
+Despite the fact that LNG is non-toxic, it may lead to asphyxiation in the case of an 
+unventilated area where there is an absence of oxygen. In addition, LNG can be 
+ignited in the presence of the right concentrations of air [51].  
+ 
+To our knowledge, there has been only one record of radon and radon decay 
+products presence in LNG [11]. According to the conducted study, the range of 
+radon concentration varied a lot starting from less than 1 pCi/L and reaching up to 
+23 pCi/L. The concentration of radon and radon decay products in LNG is based on 
+the following assumptions: 
+
+
+--- Page 25 ---
+ 
+19(68) 
+ 
+ 
+I. 
+Radon concentration in the initial feed. It is assumed that there is a direct 
+relation between initial radon concentration and radon concentration in the 
+final LNG product. 
+II. 
+Natural gas flow rate in LNG plant. In the case of turbulent flow, some of 
+lead atoms may stick to the inner surface of transportation system [70]. 
+Therefore, it is assumed that the type and speed of flow in natural gas 
+facility is directly related to the NORM concentration in final LNG product.  
+III. 
+The type of material used in treatment units. Due to the fact that 
+different materials have different adsorption power, the concentration of 
+radon in the final LNG product depends on how much of radon can be 
+adsorbed during treatment processes. 
+ 
+It is also assumed that even with insignificant radon and radon progeny 
+concentration in LNG, over time radon and radon decay products concentration in 
+LNG systems will increase due to the depositary nature of radon and radon 
+daughters. Taking into consideration all facts which have been mentioned, it is 
+extremely important to possess information regarding radon and radon decay 
+products concentration deposited on the inner parts of equipment to ensure proper 
+provision of safe work environment. In the following chapters, LNG systems such 
+as LNG carrier, as well as maintenance procedure, together with information 
+regarding where radon is more likely to be accumulated, will be examined in depth. 
+2.4 LNG systems and maintenance 
+2.4.1 
+LNG carrier and NORM contamination 
+The capacity of LNG ships may range between less than 30,000 m3 to around 
+265,000 m3. However, the common capacity varies between 125,000 m3 and 
+140,000 m3 which can contain from 58,000 to 65,000 tonnes of LNG. In order to 
+transport LNG, special tank design is required which keeps LNG at cryogenic 
+temperature and pressure which is just above atmospheric pressure. LNG ships are 
+used in the case when a consumer is located in the coastal area. In the case of the 
+inland location, LNG road tankers with double-skinned, vacuum insulated tanks are 
+used [51].  
+ 
+To our knowledge, there is no study conducted on NORM measurement and no 
+records on NORM contamination of LNG carriers and tanks. Nevertheless, there is a 
+study on deposition of Pb-210 in LPG rail cars, and author noted that “each batch of 
+LPG will add new daughter activity to the dust except for that which remains in the 
+gas itself and is discharged from the tank when it reaches its destination”, 
+highlighting the depository nature of radon daughters [69]. It is assumed that radon 
+and radon decay products tend to deposit more in LNG land-based storage tanks 
+rather than in LNG ship tanks. The assumptions are based on the following facts: 
+ 
+I. 
+Radon density. LNG storage temperatures are much lower (-169°C) 
+compared to LPG temperatures. LPG storage temperatures and pressures 
+vary; nevertheless, LPG temperature does not go below -43°C [71]. At 
+
+
+--- Page 26 ---
+ 
+20(68) 
+ 
+LPG temperatures, radon is either in the gaseous or the liquid state whereas 
+in LNG radon is in the solid state; thus, the density of radon is much higher 
+in LNG compared to LPG. Therefore, radon and radon decay products are 
+more easily settled in LNG tank.  
+II. 
+Sea motion. It is assumed that radon and radon decay products tend to 
+deposit more in LNG land-based storage tanks rather than in LNG ship 
+tank. The reason behind the assumption is a motion of cargo during 
+transportation, to be more precise the motion of sea. The motion of sea 
+definitely affects the processes going on in LNG tank since the 
+phenomenon of rollover which has been mentioned before does not 
+constitute a problem for LNG cargo due to mixture of layers by sea motion 
+[51]. Therefore, it can be assumed that it is more difficult for radon and 
+radon decay solid particles to settle in LNG carrier tanks at sea, and part of 
+them remain “floating” in LNG.  
+III. 
+Truck motion. The same assumption regarding the mixture of layers in 
+LNG can be applied to LNG truck. During straight road and constant 
+movement, it is assumed that LNG does not experience any shake and stays 
+relatively stable. Nevertheless, when truck stops, starts movement or takes 
+a turn, due to inertia phenomenon, LNG experiences certain movement. 
+Therefore, particles tend to float in LNG; nevertheless, some portion of 
+radon and radon decay daughters deposit on equipment both in LNG cargo 
+and LNG truck. 
+Despite the fact that rollover is not considered as a problem for LNG carrier, there is 
+a case study on Moss Type LNG carrier which experienced the rollover phenomena. 
+Nevertheless, there were several reasons behind occurred BOG such as loading of 
+tanks with heavy LNG whereas a heel inside was of lighter density [72]. Under 
+normal conditions, rollover does not pose an issue both for LNG cargo and LNG 
+road trailer [51].  
+ 
+When LNG cargo/LNG truck is unloaded, as it has been mentioned by [69], some 
+amount of radon and radon daughters is discharged as well. One of the reasons 
+behind is high flow rate where methane and other particles “kick out” deposited 
+radon and radon progeny, and radon together with radon decay products follow 
+LNG stream and appear in LNG storage tanks or directly in LNG fueled ship 
+depending on whether it is shore-to-ship (STS)/port-to-ship (PTS) or truck-to-ship 
+(TTS) bunkering method.  
+2.4.2 
+LNG systems contamination 
+In order to identify the locations with a high probability of radon and radon decay 
+products, it is important to possess information on the properties of radon and radon 
+progeny and LNG. The behavior of solid particles in fluid depends on numerous 
+parameters such as solid properties, such as size and density; on the properties of the 
+fluid, such as density and viscosity; on the operation parameters of pipe flow such 
+as flow velocity, flow direction and diameter of pipe [73]. According to study [74], 
+where authors measured the size of radon decay particles in different environments 
+and different modes, namely unattached and attached, diameter of radon and radon 
+
+
+--- Page 27 ---
+ 
+21(68) 
+ 
+daughter particles did not exceed 1 µm. Therefore, radon and radon decay products 
+are considered as submicron particles or nanoparticles.  
+ 
+There are various factors that affect particle deposition such as gravitation, 
+electrostatic interactions, gravitational forces, turbulence, and Brownian diffusion. 
+However, Brownian diffusion is more significant for nanoparticles than for larger 
+particles, leading to higher deposition rates. Thermophoresis is also more important 
+for nanoparticles compared to other factors, and the smallest particles are affected 
+the most due to their low inertia [75]. Gravitational forces are not dominant for 
+nanoparticles: as it has been mentioned before, Brownian and diffusional forces 
+together with thermophoresis have more effect on the deposition rate of 
+nanoparticles. However, there is a study on radon and radon progeny deposition [76] 
+where it is stated that the deposition rate of radon and radon progeny particles which 
+are smaller than 100 nm was dominated by diffusion. For particles larger than 500 
+nm, the main force that affected sedimentation rate was a gravitational force. There 
+is another study where it is stated that in the case if particles have high density, 
+gravity can become a significant driving force even if the size of particles is less 
+than 100 nm [77]. Taking into consideration the fact that the density of radon and 
+radon progeny particles is significantly high, and the diameter of particles varies 
+greatly starting from 1nm in the case if radon and radon decay products are 
+unattached, it is extremely challenging to predict the exact behavior of radon and 
+radon daughters in LNG. Nevertheless, certain assumptions can be made based on 
+the physics of flow and behavior of particles in the regions where both gravity and 
+Brownian motion have a significant contribution to the deposition rate. Apart from 
+radon and radon progeny physical properties, it is important to possess information 
+on LNG flow properties since the behavior of particles also depends on the fluid. It 
+is assumed that LNG is a Newtonian fluid, i.e. the relation between the shear stress 
+and the shear rate is linear, and viscosity (µ) is independent of strain rate. The same 
+assumption was stated in several studies such as [78] – [79]. In this case, the 
+equation for Reynolds number, which is the ratio of inertial force to viscous force, 
+is: 
+ 
+ 
+𝑅𝑒= 𝜌𝑉𝐷
+µ  
+(5) 
+ 
+Where: 
+ρ – fluid density (kg/m3) 
+V – fluid velocity (m/s) 
+D – pipe diameter 
+µ - fluid viscosity (kg/(m.s)) 
+ 
+With the help of Reynolds number value, it is possible to identify the type of flow, 
+i.e. whether flow is laminar or turbulent. Laminar flow (Re ≤ ~ 2300) is 
+characterized by smooth movement of fluid layers whereas turbulent flow (Re ≥ ~ 
+3000) is chaotic [80]. The types of flow are illustrated in Figure 9. Therefore, the 
+type of flow will have a direct effect on the deposition rate of solid particles.  
+ 
+
+
+--- Page 28 ---
+ 
+22(68) 
+ 
+ 
+Figure 9 Two types of flow where a) is laminar flow and b) is turbulent flow [80]. 
+As it can be seen from eq. (5), apart from physical properties of fluid such as density 
+and viscosity, operation parameters such as a diameter of the pipe and fluid velocity 
+also determine the type of flow. Therefore, the value of Reynolds number will differ 
+depending on the operating conditions of different LNG installations. Nevertheless, 
+according to several experimental data ([81] – [82]) Reynolds number of LNG flow 
+is significantly high due to low viscosity of LNG, and value of up to 30,000,000 can 
+be expected. Therefore, regardless of pipe diameter and fluid velocity, it can be 
+assumed that in all LNG installations the type of LNG flow is turbulent flow. 
+However, depending on the carried processes, for instance during LNG unloading 
+[83] or LNG vaporization [84], a two-flow phase, i.e. gas and liquid, occurs. In this 
+case, we are dealing with the complex system where it is even more difficult to 
+predict the behavior of radon and radon progeny. For simplicity, it is assumed that 
+in all LNG systems, there is a uniform fluid with the same properties. Due to the 
+sophisticated system, it is challenging to predict how exactly radon and radon 
+progeny will behave in the gaseous state of LNG and liquid state of LNG. However, 
+as it has been mentioned above, LNG flow is turbulent flow, and the same is 
+applicable to LNG in the gaseous state [85]. Therefore, it can be assumed that 
+regardless of the state of LNG, radon and radon progeny will have almost similar 
+deposition behavior. There is a note which is worth mentioning: in gaseous systems, 
+for instance, in LNG regasification terminal, it is assumed that thermophoresis will 
+facilitate the accumulation of radon and radon decay products on inner parts of 
+equipment whereas in systems where LNG is mainly in the liquid state, 
+thermophoresis will hinder the deposition process on the inner surface. The 
+assumption will be discussed in detail in the following chapter.  
+2.4.2.1 
+LNG piping systems 
+Piping system is one of the systems where radon and radon decay products can be 
+observed. As it has been mentioned, when it comes to submicron or nanoparticles, 
+Brownian diffusion and thermophoresis are the main factors affecting the deposition 
+
+
+--- Page 29 ---
+ 
+23(68) 
+ 
+rate of the particles. Most of the studies are conducted on the thermophoresis 
+phenomenon in hot gases in cold pipes, and there is a lack of knowledge on solid 
+particle behavior in the cryogenic liquid. Nevertheless, some assumptions can be 
+made based on the working principle of the thermophoresis and Brownian 
+phenomenon and processes which are going on in LNG systems. 
+ 
+The main principle of the thermophoresis phenomenon is the following: the 
+thermophoresis depends on the temperature gradient in the surrounding gas 
+molecules. The gas molecules coming from the hot side have a greater velocity and 
+energy compared to gas molecules coming from the cold side. Therefore, the greater 
+gas molecules from the hot side will have greater momentum and push the particle 
+in the opposite direction, i.e. to the direction of the cool side [86]. Such 
+thermophoresis is called “positive”. Nevertheless, there is also “negative 
+thermophoresis” when solid particle moves from cold towards hot region. The 
+mechanism behind negative thermophoresis is sophisticated and hasn’t been studied 
+in-depth yet. However, there is a study where radon daughters were collected via 
+thermophoresis and electrostatic attraction in personal dosimetry in uranium mines 
+[87]. In the study, positive thermophoresis is used in order to collect radon 
+daughters. Therefore, it is assumed that radon and radon progeny tend to move from 
+hot side to cold one. For radon and radon progeny in LNG flow the following 
+scenario is assumed: even though LNG piping system is insulated, there is still heat 
+leakage from ambient environment [88]. Therefore, the temperature closer to the 
+inner walls of pipes is higher compared to the temperature further from the walls 
+towards to middle of the pipe. The particle near the wall with higher kinetic energy 
+will “kick” radon and radon decay products away from the walls of the pipeline. 
+However, one should keep in mind that thermophoresis is especially applicable to 
+the cases when the temperature gradient is high, i.e. when the temperature 
+difference between the wall of equipment and fluid is large, like in furnace. For the 
+pieces of equipment where LNG is in the liquid state, it is assumed that the 
+temperature difference is not really high, and there is a possibility for radon and 
+radon decay products to be attached to the inner walls of pipe due to the strong 
+turbulent nature of LNG flow and Brownian motion. It is also assumed that 
+thermophoresis plays much more important role in LNG systems where LNG is in 
+gaseous state (NG) due to the fact that turbulence is lower compared to LNG, and a 
+temperature difference between walls and flow of NG is higher. Therefore, in 
+straight pipes with NG flow, it is assumed that there will be higher deposition of 
+radon and radon progeny. However, the concentration in straight pipe should be less 
+both in NG and LNG systems compared to other locations. It is assumed that there 
+are certain locations along the piping system where radon and radon progeny can be 
+observed with a greater probability. The locations with greater probability are 
+elbows, valves, t-bends or t-joints, sudden expansion and sudden contraction 
+regions. The main reason behind assumption is a change in numerous parameters 
+such as pressure, velocity, vortices and other parameters in these locations, and 
+aforementioned changes can facilitate the accumulation of solid particles.  
+ 
+The elbow of the pipe is considered as one of the locations where there is a 
+probability of accumulation of radon and radon decay products. In the elbow, solid 
+particles tend to separate from gas flow due to centrifugal forces. These particles 
+tend to form a relatively dense phase structure in the elbow known as a rope. In the 
+
+
+--- Page 30 ---
+ 
+24(68) 
+ 
+location of rope, the concentration of solid particles is much higher compared to 
+other areas of pipe cross-section [89]. The process is illustrated in Figure 10. The 
+small-scaled model developed by [90] showed that the concentration of solid 
+particles in the rope region is higher by a factor of around 10 compared to other 
+sections of the pipe. According to [91], in the vertical-to-horizontal elbow, the 
+velocity of solid particles at the bend exit equals to one third of the average gas 
+velocity, and the solid particles accumulation was caused by frictional forces. For 
+particles more than 20 µm in duct bends, accumulation is lower in horizontal-to-
+vertical downward orientation due to gravitational forces which leads to less solid 
+particle deposition compared to horizontal-to-horizontal orientation [92]. Despite 
+the fact that radon and radon progeny are submicron particles, due to high density, 
+large particles can be affected by gravitational forces, so it can be applicable. The 
+rope formed in horizontal-to-vertical elbow is due to the inertia phenomenon and 
+secondary flow [93].  
+ 
+Figure 10 Rope formation and dispersion [89].  
+Nevertheless, aforementioned facts are applicable to the large particles due to 
+inertia, and also to particles with high density. Therefore, it is applicable to radon 
+and radon progeny particles with diameter exceeding 500 nm, or heavy particles. On 
+the other hand, small particles with low inertia may follow the stream [94]. 
+Therefore, for small nanoparticles where it can be assumed that density does not 
+contribute to deposition rate and Brownian diffusion plays the major role, there can 
+be different scenarios which should be examined. 
+ 
+The nanoparticle deposition in pipe or bend regions in turbulent flow has not been 
+fully studied yet. There is a lack of experimental studies due to the fact that particle 
+deposition behavior is complex and can be affected by numerous factors even in 
+straight pipe, channels or ducts [95]. Nevertheless, according to the study [96], the 
+minimum of deposition enhancement factor for nanoparticles occurs near the inside 
+edge, and the maximum occurs near outside edge implying that outside edge will 
+have more deposited radon and radon decay products. This actually corresponds to 
+“rope” phenomenon mentioned above. In addition, in the case of higher Reynolds 
+
+
+--- Page 31 ---
+ 
+25(68) 
+ 
+number, the nanoparticles take a shorter time for deposition. Thus, it can be 
+assumed that elbow is the region where relatively large and small particles as well 
+as heavy ones tend to deposit.  
+ 
+Other areas in piping system where it is assumed that the accumulation of solid 
+particles can be observed are locations around valves. In the study where 
+computational fluid dynamics (CFD) modelling was used in order to investigate 
+particle deposition in natural gas pipelines, correlation between ball valve opening 
+and solid particles deposition ability was observed [97]. As the ball valve opening 
+angle decreases, more energy loss or pressure drop can be observed due to increased 
+vortices, which, in turn, leads to more solid particles deposition. Due to the pressure 
+drop, the temperature of fluid decreases leading to retrograde condensation and 
+formation of nuclei particles. Due to the turbulent flow, these particles are brought 
+together and coagulation phenomenon occurs. Since radon and radon decay particles 
+are already in solid state, condensation phenomenon is not applicable to radon and 
+radon progeny in LNG. Nevertheless, it can be assumed that due to pressure drop 
+and energy loss, as well as turbulent flow which makes radon decay products stick 
+to the inner wall of the pipe as it has been mentioned before, downstream locations 
+of valves are of particular interest.  
+ 
+Sudden expansion or contraction are also regions where accumulation of radon and 
+radon decay products may occur. In the location of sudden expansion, recirculating 
+flow occurs where submicron particles can be captured and deposited [98]. 
+According to study [74], which has been already mentioned, radon and radon 
+progeny are submicron particles. Therefore, it is assumed that both unattached and 
+attached radon decay products can be captured by recirculating flow. The same 
+approach is applied to sudden contraction with contraction angle more than 60° 
+since at angles less than 60° recirculation zone does not occur [99]. Nevertheless, 
+there are various parameters which affect deposition efficiency in sudden expansion 
+and contraction areas such as Stoke number, contraction ratio, contraction angle and 
+other associated parameters.  
+In general, for piping system, any region where LNG flow changes direction, 
+including t-joints [100] or bifurcating tubes [101], is considered as region where 
+there is a high probability of radon deposition on the inner part of walls. Apart from 
+locations which have been noted, it is also assumed that radiation can be detected 
+near pumps since, as it has been already noted in previous chapters, significant 
+NORM contamination of inner parts of pumps was observed in certain gas 
+processing units.  
+ 
+When it comes to LNG regasification terminal which is another type of land-based 
+system, LNG vaporizer or ambient air vaporizers (AAV) is assumed to contain 
+some amount of radon decay products. LNG flows into the AAV fin tube and is 
+converted to natural gas, i.e. regasification process occurs. At the same time, the 
+temperature of the fin tube of AAV and the ambient air is decreased, and this results 
+in frost formation as the operation time lasts. Temperature and partial pressure of 
+water vapor are the main factor causing the frost formation. Water vapor is either 
+condensed first and then freezes into frost crystal, or water vapor is converted into 
+frost crystal directly [102]. As LNG is converted to natural gas in AAV, the 
+temperature rises from around 114 K to the temperature which is slightly lower than 
+
+
+--- Page 32 ---
+ 
+26(68) 
+ 
+ambient air temperature. In addition, it was also observed that the frost layer of 
+AAV inlet is thicker compared to the outlet [103]. Based on the provided 
+information, several assumptions can be made: 
+ 
+I. 
+Radon and radon decay products can be observed in frost formation. 
+Radon and radon decay products tend to attach to different substances 
+including water vapor [104]. Therefore, it is assumed that radon and radon 
+decay products can deposit on inner parts of AAV and constitute a part of 
+frost formation. Nevertheless, it is assumed that there is a higher possibility 
+to observe radon decay products on inner parts of AAV rather than radon 
+due to the fact that the state of radon changes to gaseous one whereas radon 
+daughters stay in solid state.  
+II. 
+Radon tends to concentrate in the inlet of AAV. Due to the fact that 
+temperature is rising from inlet to outlet of AAV, radon tends to vaporize 
+together with LNG due to its boiling point which is around -62°C [65]. 
+Therefore, it is assumed that radon tends to accumulate near inlet locations 
+where it is still in solid state rather than in outlet.  
+Other pieces of equipment of LNG regasification installation such as BOG 
+recondenser and compressors can also contain radon and radon progeny. 
+ 
+LNG storage tank is assumed to be another location of radon and radon decay 
+products accumulation. It is assumed that in LNG storage tanks sedimentation or 
+settling process takes place: in still environments, under gravity, heavy solid 
+particles tend to deposit on the bottom of the tank. Nevertheless, due to the external 
+heat leakage to the tank, there is convective circulation of fluid close to LNG walls 
+[105]. It is assumed that this recirculating flow causes small and light radon and 
+radon progeny particles to be stuck to the wall, and relatively larger particles are 
+captured by the flow and remain in the layers near walls of LNG fluid. Apart from 
+recirculation flow, rollover phenomenon which occurs in land-based LNG storage 
+tanks may lift radon and radon decay particles which were deposited via 
+gravitational force from the bottom due to the motion of fluid layers. Thus, it is 
+assumed that there is always radon and radon decay products presenting in LNG. 
+There is a record on NORM deposition in NGL storage tanks, where it is stated that 
+NORM is deposited due to long hold up times [60]. The same logic can be applied 
+to LNG storage tanks. Nevertheless, even though radon decay products 
+concentration will increase, substantial amount of radon can be decreased due to the 
+half-life of radon which is 3.8 days [10]. Apart from storage duration which affects 
+radon concentration, transportation to desired site should also be taken into 
+consideration. Currently, there are two LNG receiving terminals in Sweden: one in 
+Nynäshamn, and one in Lysekil. LNG for both terminals comes mainly from Gasum 
+LNG plant located in Risavika, Norway. Sweden also receives LNG from Gate 
+LNG terminal located in Netherlands and Zeebrugge LNG terminal located in 
+Belgium. LNG containers from Gate and Zeebrugge LNG terminals reach 
+Gothenburg in five days. However, both Gate and Zeebrugge LNG terminals 
+receive LNG from different sources such as Qatar, US or Russia; therefore, initial 
+LNG is transported for more than five days before reaching Gothenburg [106] – 
+[107]. It implies that radon concentration will actually decrease before reaching 
+
+
+--- Page 33 ---
+ 
+27(68) 
+ 
+Gothenburg. However, most likely, radon concentration in LNG which comes from 
+plant located in Risavika will remain almost the same due to shorter transportation 
+time. Therefore, different LNG terminals or different sites, like Gothenburg, to 
+which LNG is transported, will have different radon and radon decay products 
+concentrations based not only on natural gas source but also on LNG transportation 
+period. Thus, NORM contamination of particular system is the sum of different 
+factors and variables, and it is challenging to predict NORM contamination level in 
+advance.  
+ 
+There is a very low probability of radon and radon progeny deposition in engine 
+room. Due to the fact that alpha and beta particles cannot penetrate the equipment, it 
+is assumed that there is a very low probability of detecting alpha and beta radiation 
+in air in the engine room. Level of gamma radiation can be present since gamma 
+radiation can penetrate. However, since many parts of LNG systems are made of 
+nickel steel, and certain thickness of steel is able to block gamma radiation to some 
+extent, it is assumed that gamma radiation poses little or almost no hazard. In 
+addition, due to the fact that strong gamma emitters are short-lived radon daughters 
+with half-life between 160 microseconds and 27 minutes, it is less likely that one 
+will be able to detect their presence at site of LNG fuel systems where radon is 
+unsupported. In addition, there are LNG spill detectors installed on ships which help 
+to identify the escape of LNG out of equipment. In the case of escape, alarm turns 
+on, and needed procedures in order to prevent the leakage are applied. Therefore, it 
+is assumed that in normal operational conditions, i.e. in the absence of leakage or 
+the presence of systems which are able to warn about undesirable leakage, there is 
+no risk or very low probability of radon and radon decay product presence in the air 
+of the engine room. 
+ 
+The region where alpha and beta particles can be detected outside of equipment is 
+near flanged connections due to LNG leakage [108]. Therefore, flanged connections 
+are regions with higher probability of alpha and beta radiation presence in air due to 
+possible leakage. Nevertheless, ideally, there should be no leakage. Therefore, even 
+though flanged connections and close regions are considered as regions where there 
+is a higher probability to detect alpha and beta radiation compared to other regions, 
+there is still a low overall probability of alpha and beta radiation presence. 
+ 
+Overall, LNG storage tank, namely both land-based tank and ship tank, is the piece 
+of equipment where there is the highest probability to observe and detect the 
+presence of radon progeny due to long hold up. Apart from LNG storage tank, on 
+inner parts of piping system, especially outer edge of elbows, valves, t-joints, 
+sudden contraction and expansion, and any region where direction of LNG flow 
+changes, there is a probability of radon and radon decay products deposition. Pumps 
+also should be checked for NORM deposition. In general, LNG ship tank and land-
+based tank should be especially investigated, and samples for investigation from 
+inner surface of LNG tank preferably shall be taken. As it has been noted, the 
+engine room is the location where the probability to detect radon and radon decay 
+products is low, it is also assumed that there is no alpha and beta radiation due to 
+inability to penetrate the pieces of equipment and due to the absence of leakage 
+spots. There can be leakage spots in engine room but they should be detected, so, 
+ideally, it is considered that there are no such spots from where radon and radon 
+
+
+--- Page 34 ---
+ 
+28(68) 
+ 
+progeny can escape. The inner parts of LNG fuel system shall be investigated to 
+ensure safe maintenance procedure.  
+2.4.3 
+Maintenance procedure and radiation exposure  
+The maintenance should be carried twice within a five years period on LNG cargo 
+containment systems. The typical lifespan of LNG cargo systems and LNG facilities 
+is beyond 20 years [109]. It implies that workers might be subjected to radiation at 
+least 8 times. There are also other possible ways of being exposed to radiation such 
+as gamma radiation exposure from short-lived radon daughters, inhalation of radon 
+and radon decay products from combustion of natural gas as well as from possible 
+leaks [110]. In order to measure radiation damage to tissue, the concept called 
+absorbed dose is used. The absorbed dose shows the intensity of the energy 
+deposited in a matter per unit of mass, and the unit of absorbed dose is called gray 
+(Gy). Nevertheless, each type of radiation has its own damage weight which is 
+important to take into consideration when one attempts to evaluate the damage 
+which has been done to tissue. Therefore, the concept of equivalent dose has been 
+introduced which is the absorbed dose multiplied by a radiation weighting factor. 
+The tissue affected by alpha particles receives more damage compared to the tissue 
+from beta radiation. For instance, for gamma rays, X-rays and beta particles, the 
+factor equals to 1 whereas for alpha particles the factor is 20. The unit both for 
+equivalent dose is the sievert (Sv) [45]. The sievert is also the unit for effective dose 
+which is, as defined by [111], “summation of the tissue or organ equivalent doses, 
+each multiplied by the appropriate tissue weighting factor”. Therefore, the sum of 
+the weighted equivalent doses is effective dose. The effective dose concept is 
+widely used in radioprotection since it determines how detrimental and hazardous 
+the exposure to radiation is. In addition, effective dose also shows how much dose 
+was absorbed by all organs of the entire body, as well as the sensitiveness of each 
+part of the body to radiation. Taking into consideration aforementioned facts, it is 
+essential to evaluate the risk associated with the presence of radon decay products in 
+LNG and LNG fuel systems.  
+ 
+International Atomic Energy Agency (IAEA) published International Basic Safety 
+Standards for Protection Against Ionizing Radiation and for the Safety of Radiation 
+Sources where recommendations on three types of situation according to 
+International Commission on Radiological Protection (ICRP) can be found, namely 
+planned exposure situations, existing exposure situations and emergency exposure 
+situations. According to the document, for workers who are over the age of 18, the 
+dose limits are [111]:  
+ 
+I. 
+A dose of 20 mSv annually averaged over five consecutive years making 
+100 mSv in 5 years, or 50 mSv in a single year. 
+II. 
+A dose to the lens of the eye of 20 mSv annually averaged over 5 
+consecutive years making 100 mSv in 5 years, and of 50 mSv in a single 
+year. 
+III. 
+A dose to the extremities (hands and feet) or to the skin of 500 mSv in a 
+year. 
+
+
+--- Page 35 ---
+ 
+29(68) 
+ 
+Taking into consideration all aforementioned facts, especially regarding directives 
+applied by Basic Safety Standards Directive to all European Union (EU) member 
+states and due to Systematic Work Environment Management guidelines developed 
+by the Swedish Work Environment Authority, the concentration of radon in LNG 
+fuel systems should be measured. It can be done by conducting experiments and 
+evaluating obtained data. 
+2.5 Radon and radon progeny measurement 
+Different ways of measuring radon and radon progeny concentration are proposed in 
+this study. In the first place, a theoretical background will be provided. Due to the 
+fact that radon and radon progeny will be measured not only in natural gas but also 
+in engine room, techniques and comprehensive review of radon measurement both 
+in air and natural gas are provided.  
+2.5.1 
+Introduction 
+Radon concentration measurement in air is much more common compared to the 
+measurement of the radon progeny concentration. Nevertheless, in the case when a 
+more accurate estimate of the radiation exposure is required, radon decay products 
+are analysed even though the measurement procedure is more sophisticated and 
+costly compared to the one of radon itself. Sometimes, both radon and radon 
+progeny levels are measured, and one of the measurement ways is the use of the 
+two-filter method. The two-filter detector operates in the following way [112]: 
+ 
+I. 
+The air where both radon and radon daughters are present passes through 
+the first filter where radon progeny is left on the filter whereas radon itself 
+travels further.   
+II. 
+After radon progeny is removed via the first filter, radon together with 
+sample air enters a decay chamber, where the daughters produced are 
+collected on a second filter.  
+III. 
+The concentration of radon progeny and radon can be evaluated separately 
+by different techniques such as alpha spectroscopy, scintillation counting, or 
+a passive detector. 
+Apart from different measurement techniques that will be discussed in depth further, 
+there are three different time regimes for sampling, namely instantaneous, or “grab” 
+sampling; continuous, or “sniffing” sampling; and integrated sampling.  
+Instantaneous sampling has several advantages such as prompt delivery of results 
+and the ability to easily carry equipment due to the fact that used equipment is 
+usually portable. However, there are several disadvantages, and one of them is the 
+need of result correction for the presence of Rn-220. The precision of grab sampling 
+is relatively low unless counting times on the order of several hours are used. 
+During the grab sampling, air is collected in the container which can be ranged 
+between 5 and 15 litres, and carried to the laboratory for further investigation. In 
+order to perform more accurate radon analysis, air with radon can be captured via 
+activated charcoal trap submerged in liquid nitrogen. At this low temperature, radon 
+remains on the trap. Afterward, the trap charcoal is warmed in the presence of 
+helium, and the concentration of radon is analysed using a counting cell or 
+ionization chamber [112].  
+
+
+--- Page 36 ---
+ 
+30(68) 
+ 
+ 
+In continuous sampling, first, the sample air passes through a filter so radon decay 
+products can be removed. Afterward, the sample air goes through a sensitive volume 
+where the analysis can be conducted. In the case if active system is used, the air is 
+drawn through the sensitive volume with the help of a pump; however, in the case of 
+passive system, the air diffuses into the volume. The latter process requires around 4 
+hours in order to reach equilibrium state. Compared to instantaneous sampling 
+method, continuous sampling has relatively good precision. Some of continuous 
+sampling devices can track hourly fluctuations of radon levels. The continuous 
+tracking of radon levels can help to indicate poor ventilation and other vital 
+parameters. The sampling period can range from 48 hours to months in the case if 
+the filter is maintained or replaced on a regular basis. Continuous sampling usually 
+requires trained staff: one of the reasons behind is due to the fact that devices should 
+be calibrated annually, with semi-annual rechecks. In order to obtain a real picture 
+of radon concentration, continuous monitoring should be conducted in the absence 
+of dusty, smoky, and high-humidity environment. In the case if continuous 
+monitoring is performed in an undesirable environment, it should be carefully 
+maintained [112].  
+ 
+Integrated sampling gives a single average concentration over the measuring time. 
+The length of the period varies starting from a few days to years. In order to perform 
+integrated sampling, both active and passive devices are used; nevertheless, the use 
+of passive devices is the most common [112]. There are numerous advantages of 
+integrated sampling over other types of sampling methods. For instance, integrated 
+sampling methods are less expensive compared to continuous sampling. In addition, 
+integrated sampling devices can be used for radon levels that are too low for 
+continuous and grab sampling methods. In addition, obtained samples can be 
+analyzed later, at a more convenient time and place [113]. The most common type 
+of integrated sampling device is integrating dosimeter. There are two types of 
+testing periods: long-term or short-term [112].  
+ 
+I. 
+Short-term testing. There is a wide range of short-term testing devices 
+starting from the ones which should be deployed for 2 days to 3 months. As 
+it has been mentioned above, for integrated sampling method, mostly 
+passive devices are used among which the most common ones are alpha 
+track detectors, charcoal canisters, charcoal liquid scintillation detectors, 
+and electret ion chambers. Due to the fact that radon concentration depends 
+on numerous factors such as season, ventilation, and lifestyle of residents, a 
+short-term test will more likely demonstrate a peak or valley of radon levels 
+which in reality does not represent a complete picture of radon levels 
+throughout a year. Therefore, the majority of public health agencies opt for 
+long-term test in order to understand whether some actions are required. 
+Nevertheless, short-term test is preferred for initial sampling, and in the case 
+if the radon levels exceed the acceptable standards, long-term test is used 
+for more representative results.  
+II. 
+Long-term testing: Long-term tests, unlike short-term tests, are utilized for 
+more than 3 months. The most common devices which are used in order to 
+perform long-term tests are alpha track and electret ion chamber detectors. 
+
+
+--- Page 37 ---
+ 
+31(68) 
+ 
+As it has been mentioned above, a long-term test is better for obtaining an 
+annual mean value of radon concentrations.  
+There are two types of radon detectors: passive and active. Both types will be 
+thoroughly reviewed in the following chapter. 
+2.5.2 
+Passive detectors for radon measurement in air 
+2.5.2.1 
+Activated Charcoal Detector (ACD) 
+Activated charcoal detector (ACD) is usually comprised of a cylindrical canister 
+which contains activated charcoal. The charcoal is used in radon concentration 
+measurement due to the fact that the charcoal has adsorptive properties, and radon 
+can be captured on active sites of charcoal. Prior to measurement procedure, the 
+canister should be prepared. When measurement procedure should take place, 
+canister is unsealed. The exposure time usually varies between three and four days 
+[112]. Nevertheless, it can be also between 2 and 7 days [114]. During 
+measurement, radon enters via diffusion mechanism and is absorbed by charcoal. 
+After the exposure period is over, the top of canister should be replaced, and 
+canister itself should be sealed. The level of radon can be analyzed with the help of 
+different devices. One of the most common devices is NaI(Tl) scintillation detector 
+which helps to measure the intensity of the gamma radiation generated by radon 
+daughter products, usually Pb-214 and Bi-214. Nevertheless, high purity intrinsic 
+germanium (HPGe) semiconductor detectors can also be used. Another activated 
+charcoal detection technique utilizes liquid scintillation counting method.  One to 
+two grams of charcoal for radon capturing is used, after which the charcoal is placed 
+into an organic solvent in which radon is highly soluble. Afterward, aforementioned 
+scintillation counting in order to detect alpha and beta radiation types is used [112].  
+ 
+The activated charcoal detector is considered as one of the most inexpensive devices 
+for radon level measurement. In addition, there is no need for trained staff in order 
+to carry the measurement; therefore, the ACDs are very popular for screening of 
+private dwellings. Nevertheless, ACD has several disadvantages: the radon 
+adsorption is temperature and humidity dependent process. Therefore, ACD should 
+be used only in indoor environments where there are slight fluctuations of 
+temperature and humidity [112]. Though there is a correction for humidity, there is 
+no any correction factor for temperature. In addition, ACD has one more drawback: 
+in the case if the concentration of radon experiences significant fluctuations, the 
+obtained results may not depict the real radon levels. The reason behind is the 
+equilibrium phenomenon, namely the shift between radon adsorption and desorption 
+processes in the case of radon concentration change. This is particularly essential 
+when there is a decrease in radon concentration closer to the end of the exposure 
+since the amount of absorbed radon may decrease. This, in turn, leads to results 
+which do not depict real radon concentration levels [115].  
+2.5.2.2 
+Electret Ionization Chambers 
+The electret ionization chamber is comprised of a conducting plastic chamber 
+containing the electret [112]. The electret is the type of dielectric material 
+containing quasi-permanent electric charge or molecular dipoles which are able to 
+
+
+--- Page 38 ---
+ 
+32(68) 
+ 
+create both internal and external electric fields [116]. The simplified cross-section of 
+chamber is shown in Figure 11. 
+ 
+Radon enters to the chamber, more precisely through filter to the chamber, in the 
+same way as it enters to ACD – via diffusion phenomenon. There, radon undergoes 
+decay process, and at the same time ionize the air. The electrons generated during 
+ionization process are drawn to the electret with further decrease of the potential 
+difference, or voltage, on the surface of the electret. The voltage change is measured 
+by a special calibrated voltmeter. The electret ionization chamber is used until the 
+electret surface potential is depleted. Afterward, the electret should be replaced 
+[112]. 
+ 
+ 
+Figure 11 Simplified cross-section scheme of open S-type electret ion chamber. In (a) case the cross-
+section itself is shown while in the case (b) the principle of electret ion chamber is displayed. 
+Electrostatic field attracts free ions, and positively charged electret is further analyzed for radon levels 
+[132]. 
+The electret ion chambers may be utilized both for indoor and outdoor environments 
+due to the fact that they are less sensitive to the changes in temperature and 
+humidity compared to other types of detectors. Electric ion chambers are suitable 
+both for short-term and long-term measurements: in the case of short-term 
+measurement, the thinner electret is used whereas for long-term measurement a 
+thick electret is required. Nevertheless, though this type of detector is not sensitive 
+to changes of certain environmental factors, electret ionization chamber is sensitive 
+to all types of natural background radiation. Therefore, calibration is required [112]. 
+2.5.2.3 
+Alpha Track Etch Detectors 
+The alpha track detectors are based on the following mechanism: alpha particles 
+which were generated during the decay process of radon and radon progeny leave a 
+so-called track of broken chemical bonds as they passing through particular solid 
+materials. In order to make created tracks visible, some of these solid materials can 
+be subjected to chemical etching. Cellulose nitrate (LR-115) and allyl diglycol 
+carbonate (CR-39) films are two of the most commonly used materials [112]. For 
+instance, CR-39, to be more precise its polymer, i.e. polyallyl diglycol carbonate 
+(PADC), is consisted of carbon, hydrogen and oxygen atoms. When emitted alpha 
+particles passes through the film, they collide with the electrons of oxygen atoms 
+which leads to loss of the energy resulting in the positive ionization of oxygen 
+
+
+--- Page 39 ---
+ 
+33(68) 
+ 
+atoms in detector film. By applying strong acidic or basic solutions, track can 
+become visible [117].  
+ 
+Despite the fact that the etching procedure can be performed both in acidic and basic 
+solutions, mostly NaOH, i.e. basic solution, is used. Afterward, the visible track 
+density is either analyzed by manual scanning with the help of a microscope or via a 
+computer-based optical scanning program. One of the advantages of using alpha 
+track etch detectors is that there is no need for ambient background correction. The 
+reason behind is that the tracks which are left by beta and gamma radiation are not 
+imaged by the etching, and only tracks left by alpha particles are visible after 
+etching. Nevertheless, not all alpha particles are capable of creating the track: only 
+the portion of the alphas with sufficient kinetic energy creates a track which is large 
+enough to be imaged after etching. Other advantages are the cost and simplicity of 
+this type of detector. The alpha track etch detectors are inexpensive and easy to 
+deploy. Consequently, they gained the widespread popularity and are used for long-
+term measurements of radon levels. Compared to other detectors, alpha track etch is 
+less sensitive: therefore, for more precise and accurate measurements, the large 
+period, namely the period of 3 months to 1 year, is required [112]. 
+2.5.2.4 
+Thermoluminescent Dosimeters 
+Thermoluminescence (TL), also known as thermally stimulated luminescence, is a 
+process in which a solid, usually minerals in crystalline form, emits light by being 
+subjected to a heat. The light is emitted due to the fact that the energy which was 
+absorbed from radiation is re-emitted. Despite the fact that re-emitted light is 
+usually a reason of previously absorbed energy from radiation, the excitation can 
+also occur via pressure, friction, or light [118]. The mechanism of TL is the 
+following: after material is being subjected to the radiation, both types of charge 
+carriers, i.e. electrons and holes, are trapped in the forbidden gap. By applying a 
+heat to the material to a few hundred degrees centigrade, either electrons or holes 
+recombine with charges of the opposite sign, and recombination results in a visible 
+light. Released light is nothing but previously absorbed energy, i.e. the radiation 
+dose which material received. Due to the fact that thermoluminescent dosimeters 
+(TLDs) are capable of recording all radiation doses, TLDs should be accordingly 
+adjusted. The working principle of TLDs is the following: first, radon decay 
+products are filtered from the ambient air. Afterward, the daughters from the radon 
+decay tend to attach to the surface of the TLD. In order to identify radon 
+concentration, the TLD should be removed from the detector assembly and placed 
+in a reader. Here, in a reader, TLD is subjected to heat and the released light is 
+measured. Several configurations of TLD exist. For instance, in one type of the 
+detectors, the moisture first is removed with the help of silica gel. Afterward, the air 
+passes through a filter that removes radon progeny, and then into a funnel-shaped 
+chamber. In the chamber, with the help of electrical field generated by battery, the 
+daughters tend to attach to the surface of the TLD [112].  
+2.5.3 
+Active detectors for radon measurement in air 
+2.5.3.1 
+Scintillation Detectors 
+Scintillation cells, or scintillation detectors, are widely used and established 
+technology for radon detection. When radon undergoes decay process, alpha particle 
+
+
+--- Page 40 ---
+ 
+34(68) 
+ 
+is generated. The alpha particle hits the scintillation substance, and a portion of the 
+kinetic energy is converted to a photon that can be detected by a photosensitive 
+device such as a photomultiplier tube or a photodiode. The electrical pulse is 
+generated, amplified, and can be analyzed in order to determine the radon 
+concentration.  
+ 
+Different types of scintillation materials exist. The most common one as well as one 
+of the earliest known material is silver activated zinc sulfide [ZnS(Ag)]. First, the 
+air together with radon is drawn into the cell. There can be filter in order to 
+eliminate radon progeny prior to interaction with the cell. The counting procedure 
+should be done in the dark environment: alpha particles strike ZnS resulting in light 
+which can be observed by photosensitive monitor. Apart from alpha particles, beta 
+particles can also be identified; however, ZnS is not sensitive to gamma radiation. 
+Silver activated zinc sulfide is also referred to as radon cell, or as Lucas cells, after 
+the inventor of the original cell [112]. The Lucas cell (LC) detectors, which are 
+among the most sensitive devices, are capable of detecting low radon levels [119].  
+ 
+Another type of scintillation substance which is also widely spread is sodium iodide 
+(NaI) doped with an impurity (Tl). Unlike ZnS, this type of detector is sensitive to 
+gamma radiation and insensitive to alpha and beta particles. The vessel which is 
+used together with NaI should be made from the material which does not block 
+gamma radiation. Therefore, such materials as aluminum or polyethylene which 
+allow gamma rays to pass through are used. Nevertheless, NaI detector is also 
+sensitive to surrounding gamma radiation. Therefore, additional shield made from 
+lead or concrete, materials which do not pass gamma radiation, is required. The 
+working principle of NaI scintillation device type is following: first, air containing 
+radon is drawn into the vessel, and the vessel is put in the position with respect to 
+the photomultiplier tube. Gamma radiation leads to light flash generation that can be 
+further analyzed [112].  
+ 
+Cesium Iodide (CsI) crystal scintillator detectors can also be used. Another 
+scintillator device, liquid scintillator, is also used for radon concentration 
+measurement. The ability of radon to dissolve at low temperatures is actively used 
+in liquid scintillator. Air containing radon passes through an organic solvent where 
+radon is highly soluble. The remaining steps are almost the same as in all other 
+types of scintillator: while radon is decaying giving away alpha and beta particles, 
+generated light flashes are detected by a photosensitive detector and counted. Due to 
+the fact that radon and radon progeny are closely mixed together with the scintillator 
+substance, the counting efficiency of liquid scintillator is higher compared to other 
+types of scintillator devices. However, liquid scintillator requires the use of wet 
+chemistry which makes the procedure more sophisticated [112]. 
+2.5.3.2 
+Internal Gas Ionization Chamber Counters 
+Ionization chamber is comprised of a chamber with two electrodes: anode and 
+cathode. A voltage potential between the electrodes creates an electric field within 
+the chamber. The scheme is shown in Figure 12. The radiation emitted during radon 
+and radon progeny decay process ionizes the air molecules leading to generation of 
+electrons and positively charged ions. Both electrons and positively charged ions 
+move to the electrodes of the opposite polarity under the influence of the Coulomb 
+
+
+--- Page 41 ---
+ 
+35(68) 
+ 
+forces [112]. Different modes of operation for ionization chamber exist. One of the 
+modes is a “current” mode: the electric field is strong enough for continuous 
+process, where recombination of ion pairs can be avoided. Ionization chamber 
+counter requires complicated measurement approaches due to the fact that the 
+currents are small [120]. 
+ 
+ 
+Figure 12 Simplified scheme of ion chamber principle [112]. 
+Due to the aforementioned complexity, this type of detector is also among the most 
+expensive ones. Nevertheless, ionization chambers are also very accurate and are 
+considered as one of the most sensitive techniques for radon levels measurements 
+[112]. 
+2.5.3.3 
+Semiconductor Detectors 
+Semiconductor detectors, compared to all other types of detectors, are able to 
+measure radon concentrations with the highest accuracy. Semiconductor detectors 
+possess certain advantageous features such as “high readout speed, the direct 
+availability of signals in electronic form, the simultaneous precise measurement of 
+energy and position and the possibility of integrating detector and readout 
+electronics on a common substrate” [120]. Most of devices are capable of 
+distinguishing between the alpha radiation from radon and alpha radiation from 
+radon progeny. In addition, these devices are also able to distinguish between radon 
+and thoron, which is radon isotope [112].  
+ 
+The principle of working is similar to the one in ionization chamber counter. 
+Semiconductor materials react to ionizing radiation: the particle which passes 
+through the detector leads to generation of the electron-hole pairs. The number of 
+the pairs corresponds to the energy which semiconductor received being exposed to 
+radiation. Electrons and holes are received by electrodes in the presence of an 
+electric field, and it results in an electric pulse which can be further analyzed. As it 
+has been mentioned, the number of the pairs corresponds to the radiation energy; 
+therefore, received pulse provides data on the radiation energy [112]. 
+
+
+--- Page 42 ---
+ 
+36(68) 
+ 
+2.5.4 
+Measurement of radon in LNG 
+To our knowledge, there is no established method of radon level measurement in 
+LNG. Nevertheless, there is a research conducted on measurement of LNG trace 
+constituents including radon [11], where LNG was collected using cryogenic 
+system. Later radon was collected using carbon cartridge based on EPA 520/5-87-
+005 [114] standard followed by radon concentration measurement via gamma ray 
+spectroscopy. However, aforementioned techniques are not considered in this paper 
+due to the following reason: in research [121], numerous flaws of EPA 520/5-87-
+005 standard were demonstrated. Therefore, obtained radon concentrations may not 
+reflect the real radon concentration due to inaccurate algorithms. In addition, as it 
+has been mentioned above, ACDs have numerous disadvantages which can have 
+affect the results.     
+ 
+Therefore, in this study, the following technique is proposed: LNG should be 
+converted to gaseous state following a certain standard such as ISO 8943:2007 
+[122], and the radon level in natural gas can be further measured with the help of 
+different methods such as alpha scintillation cell and electret ion chamber. In order 
+to identify the level of radioactivity of LNG equipment, the sample of material 
+which was exposed to radiation, such as the sample from inner surface of LNG tank 
+or any other type of equipment where radon concertation is assumed to be relatively 
+high, should be taken in accordance with a certain standard such as ISO 7503, and 
+delivered to the lab for further investigation. The wipe sampling can also be done 
+according to the rules of certain organizations such as [123]. Apart from 
+aforementioned techniques, for preliminary NORM identification, special and 
+sophisticated though expensive equipment which is capable of identifying 
+radioactive element at once, i.e. just by making device closer to the source of 
+NORM, can be used. The principle of this device was demonstrated during the visit 
+to the Swedish Radiation Safety Authority. The test was performed on Cs-137, 
+where after closer approach, device identified the element as well as showed the 
+concentration on the display. This device can be used during real measurement of 
+radon and radon progeny on the areas of LNG installations. In addition, scintillation 
+detectors such as NaI can also be used for initial detection, and then other 
+techniques can be deployed for obtaining more precise data.   
+To obtain representative sample of LNG, the sample should be converted from 
+liquid to gaseous state without partial vaporization since partial vaporization leads 
+to the loss of certain LNG components. In the case of prior vaporization, for 
+instance in the sampling line, such components as nitrogen and methane will 
+vaporize first resulting in so-called pockets of gas in the liquid stream resulting in 
+the non-representative sample rich in heavy components [124]. To avoid 
+aforementioned problems, one should follow strict instructions and standards in 
+order to obtain representative analysis. ISO 8943:2007 provides guideline on how to 
+carry sampling of LNG. Two sampling methods, namely continuous and 
+intermittent, are described in ISO 8943:2007. The selection of the method depends 
+on certain preferences; however, less equipment with moveable elements is required 
+for continuous LNG sampling system compared to intermittent sampling one. In 
+addition, during continuous sampling method, the process of cleaning sample 
+containers can be less complicated [125].  
+ 
+
+
+--- Page 43 ---
+ 
+37(68) 
+ 
+As it has been mentioned above, there are numerous procedures which should be 
+strictly adhered to. For instance, during the sampling, the flow rate should be stable, 
+i.e. the sampling procedure cannot be carried during initial start-up or before 
+stopping due to disturbed flow rate. Sample probe itself should be placed in areas in 
+the pipeline where the LNG is in a sub-cooled condition. The procedure of sub-
+cooled condition calculation can be found in ISO 8943:2007.  
+2.5.4.1 
+Radon level measurement via alpha scintillation cell 
+There are numerous researches conducted on radon level measurement in air via 
+alpha scintillation cell. It is widely used and well-established method for radon 
+concentration measurement [126]. However, alpha scintillation cells can also be 
+used for measurement of radon concentration in natural gas. Moreover, due to the 
+fact that natural gas is less dense and lighter compared to air, the efficiency of alpha 
+scintillation cells can be increased up to 6-7%. The reason behind efficiency 
+enhancement is increased path-length of radon alpha particles implying more 
+frequent interaction with ZnS [127]. In research [127] on radon level measurement 
+in natural gas following the steps below: 
+ 
+1. 
+Certain volume of gas is supplied to cells and, after certain period of time, 
+cells are sealed.  
+2. 
+After equilibrium between radon decay products is reached, each cell was 
+measured via alpha-scintillation detector. 
+3. 
+The formula to calculate radon concentration (Bq/m3) is: 
+ 
+𝐶𝑅𝑛=
+𝐶𝑠−𝑅𝑏
+60 × 𝑉× 𝐸× 𝐷𝐾 
+(6) 
+ 
+Where: 
+CRn – radon concentration 
+Cs – gross count rates (counts/min, cpm) 
+Rb – background count rates (cpm) 
+60 – conversion factor from Bq to disintegrations per minute (dpm) 
+V – cell volume 
+E – counting efficiency (cpm/dpm) 
+DK – decay factor from the time of collection to the midpoint of counting 
+ 
+4. 
+In order to check minimum detectable activity, the following formula is 
+used: 
+ 
+𝑀𝐷𝐴=
+2.71 + 3.29√𝑅𝑏× 𝑡𝑠[1 + 𝑡𝑠
+𝑡𝑏 ]
+𝑡𝑠× 𝐸
+ 
+(7) 
+ 
+Where: 
+MDA – minimum detectable activity 
+Rb – background count rates (cpm) 
+ts – sample counting times in minute 
+
+
+--- Page 44 ---
+ 
+38(68) 
+ 
+tb – background counting times in minute 
+E – counting efficiency (cpm/dpm) 
+2.5.4.2 
+Radon level measurement via electret ion chamber 
+Electret ion chambers (EIC) are widely used for radon level measurement in air, 
+both indoor and outdoor. Nevertheless, natural gas differs from air, and different 
+approach is required. In research [128], electret ion chamber was used in order to 
+measure radon concentration. In order to establish the measurement system of radon 
+in natural gas, the following procedures were applied: 
+ 
+1. 
+Air-tight system was utilized and modified: two valves from which natural 
+gas can go inside and outside were added to the system.  
+2. 
+Two EICs which are in the “on” position were added to the system 
+together with the National Institute of Standards and Technology (NIST) 
+radon emanation standard. 
+3. 
+Radon was supplied when required. 
+In order to measure radon itself, the following procedures were applied: 
+ 
+1. 
+Initial voltage of electrets of both EICs were recorded. 
+2. 
+The flow rate of natural gas was around 20 litres per minute (LPM). This 
+amount of gas is sufficient in order to displace the air in the system. 
+3. 
+After certain manipulations, the flow of gas was supplied for around 2 
+minutes. Afterward, inlet valve was closed whereas outlet valve was kept 
+open for 15 seconds.  
+The sampling was finished, and natural gas was trapped inside the jar at atmospheric 
+pressure. After one to three days, EICs can be taken for radon concentration 
+measurement.  
+ 
+In order to calculate the initial radon concentration (IRC) based on the information 
+on the average radon concentration (ARC), the following equations were used: 
+ 
+ 
+𝐴𝑅𝐶= 𝑇𝐼𝐶
+𝐷= 𝐼𝑅𝐶∫𝑒𝑥𝑝(−𝜆𝑡) 𝑑𝑡
+𝐷
+0
+ 
+(8) 
+ 
+Where: 
+TIC – time integrated concentration (pCi-days/liter) 
+D – days 
+λ – decay constant of radon in one day (0.1814/day) 
+ 
+After certain manipulations, the initial radon concentration equals to: 
+ 
+ 
+𝐼𝑅𝐶= (𝐴𝑅𝐶× 𝜆𝐷)
+1 −𝑒𝑥𝑝 (−𝜆𝐷) 
+(9) 
+
+
+--- Page 45 ---
+ 
+39(68) 
+ 
+2.5.4.3 
+Uncertainties of LNG sample and measurement systems 
+Two parts of LNG sampling system contribute to overall system uncertainty: the 
+sampling procedures, i.e. the sampling and vaporization steps, and, for this paper, 
+uncertainty of radon concentration measurement. For sampling system, generally 
+accepted uncertainty value is ±0.30 %. For sampling and vaporization systems 
+where no partial vaporization occurs, the uncertainty can be lowered to ±0.2 % 
+[125]. 
+ 
+In order to evaluate the uncertainty of the whole process including sampling and 
+radon concentration measurement, all uncertainties should be calculated based on 
+error propagation equation: 
+ 
+ 
+𝜎𝑜= √𝜎1
+2 + 𝜎2
+2 + 𝜎3
+2+. . . 𝜎𝑛2 
+(10) 
+ 
+Where: 
+σo – overall uncertainty  
+2.5.4.4 
+Uncertainties associated with alpha scintillation cell method 
+The uncertainties associated with alpha scintillation cell methods are the following: 
+the one is due to the difference in pressure between sampling location and 
+laboratory location, and another one is due to the different fillings, i.e. air and 
+natural gas.  
+Due to the fact that cell can be filled at the location with one elevation, or one 
+pressure, and the same cell can be refilled at different location with different 
+pressure value, the error might occur due to the difference in air density. There is 
+inverse relationship between path-length of radon alpha particles which has been 
+mentioned before and pressure, or density, which can be demonstrated by the 
+following equation:  
+ 
+ 
+𝑅𝑙𝜌𝑙= 𝑅ℎ𝜌ℎ 
+(11) 
+ 
+Where “l” denotes low altitude and “h” high attitude. According to eq. (11), values 
+for path-length of radon alpha particles at low elevation locations with higher air 
+density will be smaller, and vice versa. In research [129], the difference in path-
+length of alpha particles at different elevations was demonstrated. Colorado Springs 
+is located on higher elevations compared to Dayton, Ohio. The data can be observed 
+in Table 4. 
+ 
+Table 4 Different values of radon alpha particles path-length based on location [129]. 
+Radionuclides 
+Dayton, Ohio 
+Colorado Springs 
+Radon-222 
+4.12 cm 
+4.99 cm 
+Polonium-218 
+4.70 cm 
+5.70 cm 
+Polonium-214 
+6.70 cm 
+8.13 cm 
+ 
+
+
+--- Page 46 ---
+ 
+40(68) 
+ 
+In order to compensate the uncertainty caused by difference in altitude, the eq. (12) 
+should be used [130]: 
+ 
+ 
+%𝐸𝑟𝑟𝑜𝑟= (𝑁1 −𝑁2)
+𝑁2
+× 100 
+(12) 
+ 
+Where: 
+N1 – net counts at the pressure of location where cell is calibrated (reference 
+pressure) 
+N2 – net counts at the pressure of second location 
+ 
+Second error, as it has been already mentioned, is due to natural gas filling instead 
+of air. The uncertainty in this case can be calculated in the following way: 
+ 
+ 
+%𝐸𝑟𝑟𝑜𝑟= (𝑁𝑎𝑖𝑟−𝑁𝑚𝑒𝑡ℎ𝑎𝑛𝑒)
+𝑁𝑎𝑖𝑟
+× 100 
+(13) 
+ 
+Where: 
+Nair – net counts in air at a certain pressure  
+Nmethane – net counts in methane at the same pressure 
+ 
+The correction factor for scintillation cells which is equal to 1.07 was found 
+experimentally [128]. The calibration factors for air were used for the measurement 
+of radon in natural gas. These results should be divided by a correction factor f in 
+order to obtain appropriate results. The following procedures were applied to 
+determine a correction factor: 
+ 
+1. The air containing no radon is bubbled through a NIST radium standard 
+solution. The sample was placed to scintillation detector and inspected 
+further for radon levels.  
+2. The same procedure as in first stage was applied; however, instead of air, 
+the natural gas containing no radon was bubbled, and radon concentrations 
+via scintillation cell was analyzed.  
+3. The f factor was calculated by dividing the results obtained in the second 
+step to the first.  
+The result obtained for f factor corresponds to the ratio of air density to the density 
+of natural gas at atmospheric pressures and room temperatures. 
+2.5.4.5 
+Uncertainties associated with electret ion chamber method 
+EICs, like scintillation cells, are also dependent on the density of the matter. 
+Nevertheless, unlike scintillation cells, higher densities increase the response of 
+radon whereas lower densities decrease the response [128].  
+ 
+EICs which are utilized for x- or gamma-radiation measurements require correction 
+in the case if EICs are used at atmospheric pressures different from the atmospheric 
+pressure at which EICs are calibrated. At lower pressures, or in other words, at 
+
+
+--- Page 47 ---
+ 
+41(68) 
+ 
+higher altitudes, due to the presence of less number of air molecules, the less 
+number of ion pairs in a given path length are generated, whereas at higher 
+pressures, i.e. lower altitudes, more ion pairs are produced. Therefore, the response 
+of EICs is dependent on the density of air: EICs will give lower response at higher 
+elevations. The correction factors and pressure ratios are in direct relation [131]. 
+However, proportionate pressure ratios are not applicable to alpha radiation, and in 
+the case of radon and radon progeny decay, beta and gamma radiation ionization is 
+lower than 1%, i.e. the ionization is caused primarily by alpha radiation [132]. In 
+research [132], three different volume types of E-PERM chambers, namely L, S, 
+and H chambers, and two sensitivities, namely short-term, or high-sensitivity, and 
+long-term, or low-sensitivity, were tested on the effect of elevation. Elevation and 
+related correction factors are demonstrated in Table 5. 
+ 
+Table 5 Correction factors for different types of E-PERM chambers at different elevations [132]. 
+Elevation (m) 
+L-type chamber 
+S-type chamber 
+H-type chamber 
+0  
+1.00 
+1.04 
+1.03 
+305 
+1.04 
+1.02 
+1.04 
+610 
+1.10 
+0.97 
+1.00 
+915 
+1.14 
+1.01 
+0.98 
+1220 
+1.19 
+1.03 
+1.01 
+1525 
+1.23 
+1.07 
+1.05 
+1830 
+1.28 
+1.17 
+1.03 
+2134 
+1.32 
+1.22 
+1.05 
+2440 
+1.37 
+1.27 
+1.04 
+ 
+For L type of chamber, correction factors are substantial at an elevation starting 
+from 300 meters. In the case of S chambers, correction factors are substantial at 
+elevations above 1200 meters. For H chambers, it was found that there is no need 
+for correction factors up to 2500 meters [132]. The authors of [132] research drew 
+the conclusion that the correction factors are substantial in the case if “the 
+dimension of the chamber is smaller than the range of alpha radiation.”  
+ 
+ 
+Figure 13 Simplified cross-section scheme of (a) L chamber, (b) S chamber, (c) H chamber [132]. 
+The ionization energy, or potential, differs for air and natural gas. The ionization 
+energy is the energy which is required in order to remove an electron from the atom. 
+
+
+--- Page 48 ---
+ 
+42(68) 
+ 
+In the case if ionization energy of a matter is lower than that of air, it results in 
+generation of more ions by receiving the same alpha energy. Therefore, since 
+natural gas has lower ionization potential compared to air, more ions will be 
+generated leading to an over-response of EIC. The over-response of EICs was found 
+to be 1.15. The correction factor f for EICs is almost the same as for scintillation 
+cells – 1.10 [128].  
+2.5.4.6 
+Metal surface wipe sampling of LNG equipment 
+Wipe sampling is a method which helps to identify and estimate the possible 
+contamination of the examined area [133]. In order to obtain representative results, 
+it is of high importance to adhere all necessary procedures in right manner. For 
+representative results, representative sample should be taken. In this study, it is 
+suggested to follow the steps described in [123], which are, in turn, based on 
+National Institute for Occupational Safety and Health (NIOSH) 9100 “Lead in 
+Surface Wipe Samples” methodology. Certain assumptions which were developed 
+based on the advice provided in [123] are also provided in this study. 
+ 
+Prior to starting the wipe sampling itself, it is highly recommended by [123] to 
+follow some precautions such as assessing the area and location of testing on 
+possible hazards as well as wearing personal protective equipment (PPE). Following 
+items are included in PPE, namely: gloves, protective clothing, shoe covering, 
+respiratory, and safety glasses. Nevertheless, in the case of wipe sampling of LNG 
+equipment, not all PPE items may be required during wipe sampling. For instance, 
+protective clothing should be used in the case if there is a certain contact with 
+contaminated area.  
+ 
+It is assumed that a performed test, for instance, on the inner surface of LNG tank or 
+spare equipment such as pump, may have a hazard related to the contact of body 
+with contaminated equipment. It is assumed that there is no direct contact between 
+contaminated equipment and body but rather a hazard related to beta radiation since 
+contaminated surface can be a source of betta radiation due to the presence of long-
+lived daughters such as Pb-210 and Bi-210. Beta particles have the ability to travel a 
+few meters in the air [134], and, as it has been mentioned before, beta radiation can 
+penetrate a skin and be a cause of skin irritation. Therefore, in order to prevent any 
+adverse effect from beta radiation, it is suggested to use protective clothing since 
+beta particles can be stopped by a piece of clothes. Apart from protective clothing, 
+during test procedure on any piece of NORM contaminated equipment, it is highly 
+recommended to use gloves. The reason behind the recommendation of glove usage 
+is the same as the reason behind the suggestion to use protective clothing – beta 
+radiation. In [123], different types of glove materials are suggested such as nitrile, 
+polyvinyl chloride (PVC), and natural rubber. In the case if sample is taken from the 
+surface of LNG tank, which implies that a person is supposed to enter the tank, it is 
+also suggested to have a shoe covering. According to [123], shoe covering is used in 
+the case if the contact between shoes and contaminated cover is expected. Due to 
+the fact that there is a probability of NORM contamination of the bottom of LNG 
+tank, shoe covering is a PPE item which should be taken into account prior 
+conducting a wipe sampling. Respiratory protection is also highly recommended 
+due to the fact that inhaled alpha particles which can be emitted from the inner 
+
+
+--- Page 49 ---
+ 
+43(68) 
+ 
+surface of contaminated equipment can pose a hazard. Safety glasses should also be 
+used since beta radiation causes the damage not only to the skin but also to the eyes. 
+ 
+After all precautions are taken, the wipe sampling can be conducted. Different types 
+of equipment can be used for wipe sampling. For instance, sample can be placed in 
+vial made either from plastic or glass, or it can be placed in the plastic bag with 
+“zip” type seal. Sample media can also differ: gauze, paper, or pre-moistened wipe 
+can be utilized during the wipe sampling process. Different metals require different 
+types of solvents. According to [135], for certain type of radioactive element 
+measurement method such as liquid scintillation counting, it is important to keep 
+radioactive elements in solution. The contaminants are commonly divided between 
+the ones which are soluble in water, and the ones which are soluble in organic 
+solvents. For lead, both types of solvent, i.e. water and organic solvents, are 
+applicable. In this case, it is suggested by [123] to focus rather on the surface 
+material from which sample is supposed to be taken. Since LNG equipment is 
+commonly made from steel or nickel steel, it is suggested to use solvents which will 
+not damage aforementioned materials. However, it is also essential to take into 
+consideration the method with which further sample will be analyzed. Therefore, in 
+the process of selecting the solvent, both factors should be taken into account. The 
+template can be either a plastic sheet or a cardboard, and suggested size by [123] is 
+one square foot or around 929 cm2.  
+ 
+The sample can be collected in different ways; nevertheless, in this study, NIOSH 
+method is suggested and described. In order to collect the sample, following 
+procedures should be adhered [123]: 
+ 
+1. 
+In the first place, the wipe should be moistened in appropriate way since 
+the wipe which contains too much solvent may cause the dilution of the 
+sample. Therefore, the wipe with around 80% moistened area will be 
+adequate and sufficient. 
+2. 
+The application of wipe on the surface is shown in Figure 14. In (a), the 
+first wipe, the direction of wiping, which is smooth up to down and the 
+same smooth down to up, is illustrated above, whereas the circle illustrated 
+below is the pad. In the second wipe, (b), the direction is from left to right 
+and right to left, and the half of the pad illustrated below should be folded. 
+In (c), the direction as in stage (a) is repeated, and quarter of the pad should 
+be folded. In last stage, (d), pad should be folded again and put in the bag, 
+which is illustrated, or vial, and labelled. In all stages, exposed side of the 
+wipe should be folded in inward direction.  
+3. 
+After the procedure is done, the wipe with contaminants on it should be 
+placed either in a plastic bag or vial. Both plastic bag and vial should be 
+sealed. The sample should be recorded, and this record identification 
+should be noted on the bag or vial. 
+4. 
+Afterward, PPE should be taken off in appropriate way, and disposed or 
+cleaned accordingly. Other used materials should be treated in appropriate 
+way as well.  
+
+
+--- Page 50 ---
+ 
+44(68) 
+ 
+ 
+Figure 14 Representation of NIOSH surface wipe method [123].  
+For more representative results, it is suggested to take several samples [123]. For 
+instance, in the case if samples are taken from the inner surface of LNG tank, it is 
+suggested to take three samples from each surface, i.e. three from floor and three 
+from wall. In addition, in the case if samples are taken from the different surfaces of 
+LNG tank, it will be able to identify where radon and radon progeny tend to deposit 
+more, and this will help to understand better the nature of radon and radon progeny 
+behaviour in LNG. For other types of equipment, for example pump, due to the fact 
+that surface area is not large, one sample will be sufficient.  
+2.5.4.7 
+Sampling of scale deposits in pipeline and NORM measurement 
+The information provided in this chapter was obtained during the visit to the 
+Swedish Radiation Safety Authority. 
+ 
+First and foremost, the taken scale sample should be homogenized. It can be done 
+with the help of manual gridding; however, the use of ball milling machine is more 
+common technique to homogenize the sample. In the case if the taken sample is 
+sludge, then it should be dried, and afterward, the same procedures as for scale 
+sample should be followed. After sample is homogenized and put to the container, 
+gamma spectroscopy can be carried. Liquid nitrogen is used in order to cool the 
+crystal inside the device, for instance germanium crystal. Gamma spectroscopy is a 
+technique which is more preferred compared to the use of alpha detector. The reason 
+behind is complicated process of sample preparation, as well as elevated cost of the 
+method due to the labour cost since the usage of radiochemistry.  
+3 Radon level measurement 
+3.1 Rapidos 
+Rapidos is an accurate short-term passive radon detector which can measure radon 
+concentrations as low as 50 Bq/m3 up to 150,000 Bq/m3 over a week. The accuracy 
+of Rapidos is 10% at 50 kBqh/m3. The measurement is secure, and Rapidos detector 
+is accredited according to ISO 17025 standard and approved all over Europe [136]. 
+
+
+--- Page 51 ---
+ 
+45(68) 
+ 
+Rapidos is constituted of anti-static plastic material with a film inside. The alpha 
+track technique is used for radon level measurement, and radon enters to Rapidos 
+via diffusion. The detector material is poly allyl diglycol carbonate or CR39/PADC 
+[137]. The working principle of alpha track etch detector was described in previous 
+chapters. For precise measurement, Rapidos should be put indoor at a distance of at 
+least 25 cm from floor, walls and ceiling, and 1.5 m away from air supply, external 
+door and windows. 
+3.2 RadonEye 
+RadonEye is a smart radon detector with a high sensitivity (0.5cpm/pCi/l). 
+RadonEye is the detector with high accuracy of <10% at 10pCi/l which can provide 
+reliable data in a short period of time, usually less than one hour. It can be 
+connected to the phone via Bluetooth where radon fluctuations can be easily 
+observed. RadonEye employs pulsed ion chamber [138]. The ionization chamber 
+detector is a type of alpha detector which is able to measure radon levels. The 
+working principle of ionization chamber is following: alpha particles ionize 
+different types of molecules which are present in air. These molecules alike alpha 
+particles can travel longer distances with the help of air flow. These molecules help 
+to identify radon level through the electrostatic detection of individual pulses from 
+radon disintegration at a low level [139]. Measuring the average of radon level 
+during the day does not depict the real picture since radon level varies depending on 
+the time of day. In the study which was carried in numerous dwellings in order to 
+check radon level during night and day, it is stated that the behavior of the 
+inhabitants affects the radon and radon daughers’ concentration during day. When 
+inhabitants are sleeping or outside, windows are closed; therefore, ventilation is 
+very weak which leads to higher radon concentration compared to day time since 
+radon does not leave the house. Nevertheless, during day time, when inhabitants are 
+home and open windows, there is good ventilation resulting in lower concentration. 
+In the case when inhabitants are not home, the same logic as during night time is 
+applied: windows are closed, so radon concentration increases [140]. Therefore, it is 
+important to obtain information on a real-time radon concentration. RadonEye 
+provides a real-time measurement, and in the case if radon level exceeds 148 Bq/m3 
+(4pCi/l), alarm will sound [138]. However, due to the fact that engine room is 
+always ventilated, it is assumed that radon level is almost the same during the day. It 
+is also assumed that possible radon and radon daughters’ presence in engine room is 
+the highest while LNG fuel systems are deployed, and the lowest when LNG 
+systems are off. 
+3.3 Radon level measurement process 
+Radon level measurement was carried with the help of aforementioned devices, 
+namely Rapidos and RadonEye. The main objective of radon level measurement is 
+comparison between above-mentioned pieces of equipment. The data on radon level 
+was gathered and sent to the Swedish Radiation Safety Authority for further 
+investigation, and with the help of this experiment, both devices can be thoroughly 
+compared which will be extremely useful for real radon measurement in engine 
+room and LNG facility areas.  
+ 
+
+
+--- Page 52 ---
+ 
+46(68) 
+ 
+There are six units of RadonEye and four units of Rapidos which can be seen in 
+Figure 15. Each unit has its own reference number.  
+ 
+ 
+Figure 15 Six units of RadonEye, and four units of packaged Rapidos. 
+Before starting the measurement, it is of high importance to check whether there is 
+an access to electricity since RadonEye requires the access to constant electricity 
+supply. Besides, the app from where radon level data as well as radon fluctuation 
+figure can be obtained should be installed. The “RadonEye” app, which icon is 
+illustrated in Figure 16, can be installed both on Android and iOS. In this 
+experiment, the app was installed on iPad Air 3, the device which supports iOS.  
+ 
+ 
+Figure 16 The icon of the "RadonEye" app in App Store. 
+All units of RadonEye should be cleared from previous recorded data prior starting 
+the experiment. Prior the real experiment, all six units of RadonEye were tested. All 
+units were plugged and started at 18:43 CEST on 23rd of May. All units were 
+connected to iPad, and data from all devices was cleaned. The first data appeared at 
+19:43 CEST since the time interval was set at one hour.  
+ 
+The data from RadonEye units was retrieved after 24 hours from the time all units 
+were plugged, i.e at 18:43 CEST on 24th of May. The graph which can be obtained 
+from the app looks in the way shown in Figure 17, where y-axis depicts radon 
+concentration whereas x-axis is recorded time in hours: 
+
+
+--- Page 53 ---
+ 
+47(68) 
+ 
+ 
+ 
+Figure 17 The graph which can be observed in "RadonEye" app for RE21910250130. Graph was 
+retrieved at 18:43 CEST. 
+Nevertheless, despite the fact that the figure for radon concentration can be seen in 
+the app, it is also possible to download the data in the form of the text, where the 
+first number denotes the radon concentration which was recorded after one hour 
+since RadonEye was plugged in. The graph below, i.e. Figure 18, was done 
+manually based on the hourly radon concentration data obtained from all six units of 
+RadonEye. 
+ 
+
+
+--- Page 54 ---
+ 
+48(68) 
+ 
+ 
+Figure 18 Radon level figures for all six units of RadonEye during 24 hours of measurement 
+It is important to note that RE21910250127 at the 17th hour did not record any radon 
+level and showed 0 Bq/m3, and zero level is less likely to reflect the real level of 
+radon since there is a background radiation in the dwellings, as well as outside. In 
+addition, as it can be seen, other devices recorded certain levels of radon, i.e. zero 
+level is an error of the software rather that a real radon level. Thus, the reason of 
+missing data can be due to the errors in the software embedded in RadonEye. 
+Therefore, in order to avoid a missing data, two units of RadonEye should be placed 
+in the same location in order to minimize the probability of the missing data. 
+Therefore, one set should comprise of two units of RadonEye and one unit of 
+Rapidos, and the set itself is shown in Figure 19. However, for one of the locations, 
+namely storage room at Linnaeus University, two units of RadonEye and two units 
+of Rapidos were used.  
+ 
+0
+5
+10
+15
+20
+25
+30
+35
+40
+0
+1
+2
+3
+4
+5
+6
+7
+8
+9 10 11 12 13 14 15 16 17 18 19 20 21 22 23 24
+Bq/m3 
+Time (hour) 
+RE21910250123
+RE21910250124
+RE21910250125
+RE21910250127
+RE21910250129
+RE21910250130
+
+
+--- Page 55 ---
+ 
+49(68) 
+ 
+ 
+Figure 19 Representation of the set comprised of two units of RadonEye and one unit of Rapidos. 
+Three sets were placed in three different locations. After testing all six equipment 
+and confirming that all units work properly, except the fact that there might be 
+missing data for RadonEye which will be compensated by placing two units in the 
+same set, the real experiment can be started. It is important to note that all data 
+should be cleared again.  
+ 
+The radon level measurement for all three locations started on 25th of May. First 
+location was a first-floor apartment at Georg Lückligs väg 10. Here, two units of 
+RadonEye with RE21910250123 and RE21910250124 reference numbers 
+respectively, and one unit of Rapidos with 292123-7 reference number, were placed. 
+The starting time for two units of RadonEye was 12:57 CEST, and the protective 
+cover of Rapidos was removed at 13:01. Due to the requirements for placement 
+position for Rapidos, i.e. at least 25 cm distance from floor, ceiling, or wall, all three 
+units were placed at the height of 87 cm. All three units were placed in the corner of 
+the room at 48 cm from one interior wall, and 43 cm from another interior wall. 
+According to another requirement for the placement of Rapidos, i.e. 1.5 m away 
+from ventilation, window, and exterior door, all three devices were placed at 
+sufficient distance from the aforementioned items.  
+ 
+The second location was a storage room in the basement of M-building at Linnaeus 
+University. 
+Here, 
+two 
+units 
+of 
+RadonEye 
+with 
+RE21910250125 
+and 
+RE21910250127 reference numbers respectively, and two units of Rapidos with 
+378754-6 and 413399-7 reference numbers respectively, were placed. The starting 
+time for two units of RadonEye was 14:10 CEST, and the protective covers of both 
+units of Rapidos were removed at 14:11. All four units were placed at the height of 
+71 cm, and 43 cm away from interior wall. Ventilation and door were at substantial 
+distance from devices, and there is no window in the storage room. 
+ 
+The third location was a first-floor apartment at Georg Lückligs väg 18. Here, two 
+units of RadonEye with RE21910250129 and RE21910250130 reference numbers 
+respectively, and one unit of Rapidos with 803652-7 reference number, were placed. 
+
+
+--- Page 56 ---
+ 
+50(68) 
+ 
+The starting time for two units of RadonEye was 14:41 CEST, and the protective 
+cover of Rapidos was removed at 14:43 CEST. All three devices were placed at the 
+height of 45 cm, and 55 cm from interior walls. The distance between devices and 
+ventilation, door and windows is sufficient. 
+ 
+For short-term radon data measurement, at least seven days should pass since the 
+data measurement is started. The experiment finished on the 3rd of June for all 
+locations, i.e. the radon measurement took place for 9 days. 
+ 
+For the first location, i.e. apartment at Georg Lückligs väg 10, the data measurement 
+finished at 15:34 CEST: data from RadonEye units was derived, and Rapidos was 
+put to the paper bag which was given by the Swedish Radiation Safety Authority. 
+The following graph, i.e. Figure 20, was obtained for the first location: 
+ 
+ 
+Figure 20 The graph obtained from RadonEye devices in the first location after 9 days of radon 
+measurement. 
+For the second location, i.e. storage room, the radon measurement was finished at 
+15:10 CEST. This location is of particular interest since radon level was 
+significantly high first three nights in a row, and then the figure dropped. As it can 
+be seen from Figure 21, the highest concentration registered by RE21910250125 
+was 513 Bq/m3 whereas for RE21910250127 it was 526 Bq/m3, and both values 
+exceed the reference level. Despite the fact that after three nights the levels dropped 
+significantly, there was still a tendency of elevated radon levels at night. The 
+probable reason behind is that the ventilation was reduced at nights. 
+ 
+0
+10
+20
+30
+40
+50
+60
+70
+1
+9
+17
+25
+33
+41
+49
+57
+65
+73
+81
+89
+97
+105
+113
+121
+129
+137
+145
+153
+161
+169
+177
+185
+193
+201
+209
+217
+Bq/m3 
+Time in hours 
+Location 1 
+RE21910250123
+RE21910250124
+
+
+--- Page 57 ---
+ 
+51(68) 
+ 
+ 
+Figure 21 The graph obtained from RadonEye devices in the second location after 9 days of radon 
+measurement. 
+Another interesting observation is that at 41st hour, one of the devices, namely 
+RE21910250125, 
+recorded 
+0 
+Bq/m3 
+whereas 
+another 
+device, 
+namely 
+RE21910250127, recorded 373 Bq/m3. It once more reaffirms the fact that several 
+RadonEye devices should be put at the same location in order to avoid missing data. 
+For the third location, namely Georg Lückligs väg 18, the radon measurement 
+finished at 16:46 CEST.  
+ 
+For the third location, namely Georg Lückligs väg 18, the radon measurement 
+finished at 16:46 CEST. The obtained data is illustrated in Figure 22. 
+ 
+ 
+Figure 22 The graph obtained from RadonEye devices in the third location after 9 days of radon 
+measurement. 
+0
+100
+200
+300
+400
+500
+600
+1
+8
+15
+22
+29
+36
+43
+50
+57
+64
+71
+78
+85
+92
+99
+106
+113
+120
+127
+134
+141
+148
+155
+162
+169
+176
+183
+190
+197
+204
+211
+Bq/m3 
+Time in hours 
+Location 2 
+RE21910250125
+RE21910250127
+0
+10
+20
+30
+40
+50
+60
+70
+1
+9
+17
+25
+33
+41
+49
+57
+65
+73
+81
+89
+97
+105
+113
+121
+129
+137
+145
+153
+161
+169
+177
+185
+193
+201
+209
+217
+Bq/m3 
+Time in hours 
+Location 3 
+RE21910250129
+RE21910250130
+
+
+--- Page 58 ---
+ 
+52(68) 
+ 
+ 
+All devices, i.e. six units of RadonEye and 4 units of Rapidos were sent to the 
+Swedish Radiation Safety Authority for further comparison and analysis.  
+4 Radon management and safety 
+The Swedish Radiation Safety Authority is the national body that among other 
+things sets requirements for activities and practices involving radiation. In terms of 
+naturally occurring radioactive materials and radon in workplaces, the authority has 
+issued two special regulations, SSMFS 2018:4 and SSMFS 2018:10. The following 
+is a brief summary of these regulations, the full version of which is available on the 
+SSM website [141]. 
+4.1 SSMFS 2018:10 Regulations on radon in workplaces  
+These regulations [142], contain provisions to be observed by the activity operating 
+in an environment with ionizing radiation, the person who employs someone in such 
+an activity, or self-employed person, where: 
+ 
+1. 
+The radon content in air exceeds the reference level provided in Chapter 3, 
+Section 6 of the Radiation Protection Ordinance (2018:506). The reference 
+level for radon provided in the aforementioned document is 200 Bq/m3, 
+which is an annual average activity concentration, in dwellings, places 
+accessible to the public and at work; 
+2. 
+the annual average radon concentration in air cannot be identified but is 
+expected to exceed the reference level more than temporarily; or 
+3. 
+exposure to radon in total from several temporary workstations or 
+workplaces is expected to be equivalent to exposure to a radon content in air 
+exceeding the reference level during working hours. 
+Apart from aforementioned points, employees who are at risk of having an annual 
+radon exposure exceeding 0.72 MBq h/m3 during working hours should be 
+identified. Workers under the age of 18 also shall not be at risk of receiving an 
+annual radon exposure exceeding aforementioned number during working hours. 
+ 
+In the case if radon content exceeds above-mentioned reference level, the Swedish 
+Radiation Safety Authority should be notified, unless there are measures which are 
+expected to be taken which will reduce the radon content to below the reference 
+level. The following scheme illustrates a simplified general approach to radon 
+regulations in the workplace: 
+ 
+
+
+--- Page 59 ---
+ 
+53(68) 
+ 
+ 
+Figure 23 Simplified general approach to radon regulations in the workplace. 
+The notification shall be made on a form provided by the Authority and shall 
+contain all required information. Activities that are covered by the provisions of 
+these regulations within the Swedish Armed Forces, the Swedish Defense Materiel 
+Administration, the Swedish Fortifications Agency or the National Defence Radio 
+Establishment agencies must be reported to the Defence Inspectorate for Health and 
+Environment. The notification shall contain the information set provided in Annex 1 
+SSMFS 2018:10 [142]. In the case if there are changes in the activities related to the 
+information which was provided in the notification to the Swedish Radiation Safety 
+Authority, the Authority shall be notified as soon as possible about the changes.  
+4.2 SSMFS 2018:4 Regulations on naturally occurring radioactive 
+material and building material  
+The regulations described in [143] contain provisions that shall be applied to those 
+who handle NORM, including building materials. Handling of NORM with an 
+activity concentration exceeding 1 kBq/kg of dry matter per radionuclide in the 
+uranium or thorium series, and which is not exempted from the permit requirement 
+according to §6 of [143], shall be notified to the Swedish Radiation Safety 
+Authority. Due to the fact that radon is included in aforementioned series, and due 
+to the fact that handling of NORM from oil and gas field is not included in §6, 
+namely it is not: 
+
+
+--- Page 60 ---
+ 
+54(68) 
+ 
+ 
+1. 
+the handing of alum shale-based lightweight concrete, 
+2. 
+the handing of soil or rock masses, 
+3. 
+holding, storing or in any way non-physically handling of burned alum 
+shale or phosphogypsum, 
+4. 
+the handing of unprocessed mineral samples included in a geological 
+collection, 
+5. 
+the handing of ceramic utensils that are intended for household or ceramic 
+ornaments or, 
+6. 
+the handing of water filters in a single household, 
+handling of oil and gas NORM exceeding the exemption level shall be notified to 
+Radiation Authority. A notification in accordance shall be made on a form provided 
+by the Swedish Radiation Safety Authority and shall contain the information stated 
+in this. The notification must be renewed within five years from the date the last 
+notification was made if the handling is still ongoing and nothing else has been 
+notified by the Radiation Safety Authority. Changes in the activities relating to the 
+information in the notification must be notified to the Radiation Safety Authority as 
+soon as possible. 
+ 
+In the case if activity concentration of oil and gas NORM is below 1 kBq/kg of dry 
+matter per radionuclide, it can be released. Nevertheless, in the case if activity is 
+above the reference level, it is prohibited to dilute naturally occurring radioactive 
+material if the purpose of this is to enable the material to meet clearance level. The 
+Radiation Safety Authority may authorize the mixing of NORM with non-
+radioactive material for reuse or recycling or for landfill or other disposal if it can be 
+done without posing an unacceptable risk to humans or the environment from the 
+harmful effects of radiation. Nevertheless, in the case if oil and gas NORM activity 
+concentration is more than 1 kBq/kg of dry matter per radionuclide but not more 
+than 10 kBq/kg of dry matter per radionuclide, radioactive material may be placed 
+in a landfill without taking into account the radioactive properties of the material.  
+ 
+The Swedish Radiation Safety Authority may grant an exemption from these 
+regulations if there are special reasons and if it can be done without it being 
+assumed that there is an unacceptable risk of exposure to humans or the 
+environment from harmful effects of radiation.  
+4.3 Activities towards the reduction of radon level 
+When it comes to the reduction of radon level in engine room or areas with LNG 
+equipment, several techniques are suggested in this study. In the case if elevated 
+levels of radon have been detected, the ventilation system in the engine room can be 
+upgraded. In addition, the whole system can be checked for the possible leakage, 
+and fixed in the case of LNG escape. In the case if elevated levels of radon are 
+detected in LNG installation areas, then the possible leakage from flanges and 
+coupling should be checked. In the case of detected leakage, the connection system 
+between LNG source and LNG tank on the ship should be changed or fixed. 
+ 
+
+
+--- Page 61 ---
+ 
+55(68) 
+ 
+For NORM decontamination or proper storage of equipment, one can refer to the 
+“Safe and responsible management of spent nuclear fuel and radioactive waste in 
+Sweden” (2015:32) by the Swedish Radiation Safety Authority [144].  
+5 Results and discussion 
+In this study, the question of NORM presence in LNG equipment and LNG area 
+was raised and investigated. The matter on possible NORM presence was raised due 
+to the reason that radon is present in the sedimentary rock, and goes up together 
+with natural gas during production process. To our knowledge, no measurement has 
+been carried on the NORM detection in LNG; therefore, the question of NORM 
+presence in LNG equipment and fuel system is open. Further investigation showed 
+that radon and radon progeny might be present in LNG equipment since: 
+1. 
+The data on radon and radon progeny in LNG was recorded by [11]. 
+2. 
+Several papers are dedicated to the radon and radon progeny concentration 
+measurement in LNG refinery. One is theoretical [8] proposing the overall 
+picture of possible radon and radon progeny accumulation and movement in 
+LNG refinery, showing that NORM presence in LNG refinery may exceed 
+the reference level and shall be therefore investigated. In another work [9] 
+real data on radon progeny concentration was gathered from Dehydration 
+Unit confirming the fact of NORM movement through multiple units and 
+accumulation. 
+3. 
+The depository nature of radon and radon decay products on the inner 
+surface of equipment. Several papers such as [60], [62], [63] describe the 
+presence of accumulated NORM in oil and gas industry in different forms 
+such as invisible or gray films on the inner part of equipment, as well as in 
+the form of sludge or scale deposition. 
+Therefore, in this study, for better understanding of the overall picture, all steps 
+starting from the production to the final LNG product including transportation were 
+analyzed. Main treatment processes taking place in LNG refinery, and what happens 
+to radon and radon progeny on each step, were also reviewed. The following 
+assumptions regarding radon and radon progeny concentration in the final LNG 
+product based on the nature of NORM and treatment processes were made: 
+1. 
+Radon concentration in final LNG product depends on the radon 
+concentration in the initial feed.  
+2. 
+Radon concentration in final LNG product depends on the natural gas flow 
+in LNG plant.  
+3. 
+Radon concentration in final LNG product depends on the materials and 
+filters used in treatment processes. 
+Assumptions regarding radon and radon progeny deposition in the final destination, 
+e.g. LNG tank or LNG terminal, were also made: 
+ 
+
+
+--- Page 62 ---
+ 
+56(68) 
+ 
+1. 
+Sea motion partially prevents from the deposition of radon and radon decay 
+products in LNG tank on ships.  
+2. 
+Truck motion also prevents from the deposition of NORM but to a lesser 
+extent due to the fact that motions experienced by LNG during 
+transportation by road have less amplitude.  
+3. 
+For land-based LNG tanks, it is assumed that NORM tends to accumulate 
+more due to the absence of motion, i.e. particles are settled more easily 
+In addition, different possible locations to be further investigated where radon and 
+radon progeny are more likely to be detected were proposed: 
+ 
+1. 
+Pipeline, particularly elbows, sudden expansion and contraction, valves, and 
+other parts of pipeline where the direction of LNG changes. 
+2. 
+Pumps, since the data on NORM contamination was recorded for this type 
+of equipment. 
+3. 
+LNG land-based tank, since, as it has been mentioned above, absence of 
+motion facilitates the deposition process. 
+4. 
+Other pieces of equipment such as BOG recondenser, AAV, and etc. 
+Then, several different techniques for radon and radon decay products detection 
+were suggested: 
+ 
+1. 
+The conversion of LNG to gaseous state following certain standard such as 
+ISO 8943:2007, and then the measurement of radon concentration with the 
+help of different techniques such as alpha scintillation cells or electret ion 
+chamber. 
+2. 
+Wipe metal sampling, or scale deposition sampling following certain 
+standards such as ISO 7503, or following certain procedures proposed by 
+other organizations and institutions. 
+3. 
+The use of special device capable of identifying radioactive element at once. 
+Afterward, real radon measurement for the purpose of equipment comparison for 
+further investigation by the Swedish Radiation Safety Authority was carried. 
+Several important points were drawn: 
+ 
+1. 
+Due to the drawbacks in the software, namely the missing data, it is 
+suggested to place several RadonEye devices in the same location in order 
+to reduce the possibility of missing data. 
+2. 
+There is an inverse relationship between ventilation and radon levels. In 
+other words, better and stronger is ventilation, lower levels of radon are 
+present, and vice versa. As it can be seen from Figure 21, radon 
+concentration levels increased during night times due to the fact that 
+ventilation was reduced. 
+Finally, in the case if elevated levels of radiation are detected in the engine room or 
+in the territory of LNG facilities, following methods to reduce radon concentration 
+levels are suggested: 
+
+
+--- Page 63 ---
+ 
+57(68) 
+ 
+ 
+1. 
+For elevated levels in the engine room, to upgrade ventilation system and 
+check LNG equipment for the possible leakage, and to fix in the case of 
+leakage. 
+2. 
+For elevated levels in the territory of LNG installations, to check the 
+possible leakage caused by flanges and other means of connection between 
+LNG source and LNG tank on the ship. In the case of leakage, to fix the 
+system. 
+3. 
+For NORM decontamination, one can refer to “Safe and responsible 
+management of spent nuclear fuel and radioactive waste in Sweden” 
+(2015:32) national plan report by the Swedish Radiation Safety Authority. 
+Nevertheless, there are some points regarding NORM presence in LNG systems, 
+engine room and in the territory of LNG installations which are worth discussing: 
+ 
+1. 
+It is assumed that there is a very low probability of high radon and radon 
+decay products concentration presence in engine room. The reason behind is 
+inability of alpha and beta particles to escape through equipment. The 
+possible way of escaping is LNG leakage; however, the leakage may not be 
+detected only in the case if detectors installed in the engine room are not 
+working properly. Since it is assumed that the system is regularly checked, 
+the possibility to detect concentrations exceeding reference level is very 
+low, i.e. there is no hazard associated with radiation in engine room. 
+2. 
+The same logic is applied to the territory with LNG installations, i.e. only in 
+the case of leakage, for instance from equipment connecting LNG tank on 
+ship to LNG source, elevated radon levels can be detected. Otherwise, there 
+is no hazard to employees engaged into activities in the territory of LNG 
+installations. 
+3. 
+There is a high probability of hazard associated with maintenance of LNG 
+equipment. The are several reasons behind such as accumulation of NORM 
+on the inner surface of equipment leading to increase in radioactivity level, 
+and the opening of equipment for cleaning and other required procedures 
+where alpha and beta particles can be inhaled thus can pose a threat to the 
+health. 
+6 Conclusion 
+In order to detect NORM contamination, several methods are proposed in this study. 
+Certain detectors, such as NaI, can be used for preliminary radiation detection, and 
+techniques for exact NORM identification, such as wipe or scale sampling, as well 
+as sludge, can be used. Besides, LNG can be converted to the gaseous state, and 
+further analyzed for radon presence. 
+There are several locations where radon and radon progeny concentrations are 
+expected to be the highest. The highest possible accumulation of NORM is expected 
+to be in LNG tank due to the long hold up. Apart from LNG tank, NORM is 
+
+
+--- Page 64 ---
+ 
+58(68) 
+ 
+expected to be deposited on the inner parts of pipes, particularly on outer edge of 
+elbows, valves, t-joints, sudden contraction and expansion. Shortly, in any region 
+where the direction of LNG flow changes, there is a higher possibility to detect 
+NORM. In addition, pump also can be checked for NORM deposition.  
+There are numerous techniques that can be used for radon level measurement. 
+However, most of them are for radon measurement in air. In the case of LNG, LNG 
+can be converted to gaseous state, as it has been already mentioned, and then radon 
+levels can be measured via alpha scintillation cells, or via electret ion chamber. 
+Activated charcoal detector can also be used; however, due to numerous factors 
+such as dependence on the humidity, temperature, and radon fluctuations, it is 
+suggested to use alpha scintillation cells or electret ion chamber. 
+In order to obtain reliable results, it is essential to adhere to certain standards. For 
+instance, in the case if radon measurement will be carried on LNG in the gaseous 
+state, it is suggested to follow ISO 8943:2007 standard where the steps for right 
+sampling of LNG are described. In the case if it is decided to go with wipe sampling 
+for metals technique, it is suggested to follow ISO 7503 standards, or use 
+instructions provided by different institutions and organizations such as [123]. In the 
+case if scale deposition or sludge should be analyzed, the steps provided by the 
+Swedish Radiation Safety Authority should be taken.  
+Due to the fact that the diameter of radon and radon progeny particles varies a lot, 
+different forces have effect on the particles of different sizes. For very small 
+particles, thermophoresis, Brownian and diffusional forces are the main forces 
+acting on the particles. For larger particles, or for relatively small particles but with 
+high density, gravitational force is the main acting force. Therefore, it is assumed 
+that particles with different size and density behave differently in LNG. 
+Nevertheless, common assumptions regarding NORM deposition on the inner 
+surface of LNG equipment based on the behavior of radon and radon decay products 
+particles can be made, and locations were described in detail in this study. 
+The matter of radiation is of high importance, and since, to our knowledge, there is 
+no work carried on the NORM measurement in LNG systems, the question is still 
+open. It is essential to ensure a safe work environment, especially for the 
+maintenance workers since maintenance workers are under the highest risk of 
+radiation exposure. This study provides a ground and base for further investigation 
+and measurement of radon and radon decay products in LNG systems and areas of 
+LNG installations. 
+ 
+ 
+
+
+--- Page 65 ---
+ 
+59(68) 
+ 
+7 References 
+ 
+[1] 
+Parfomak, P. W., Frittelli, J., Lattanzio, R. K., and Ratner, M., 2019, “LNG 
+as a Maritime Fuel: Prospects and Policy,” Congr. Res. Serv. Reports, 
+R45488, pp. 1–28. 
+[2] 
+Pavlenko, N., Comer, B., Zhou, Y., Clark, N., and Rutherford, D., 2020, 
+“The Climate Implications of Using LNG as a Marine Fuel.” 
+[3] 
+U.S. Department of Energy, and National Association of Regulatory Utility 
+Commissioners, 2005, “Liquefied Natural Gas: Understanding the Basic 
+Facts”. 
+[4] 
+Delashob, H., and Elmström, B., 2019, “Liquefied Natural Gas Marine Fuel. 
+Naturally Occuring Radioactive Materials Contamination,” B.S. thesis, 
+Linnaeus University. 
+[5] 
+COWI, 2020, “COWI Projekterar ny gasterminal i Oxelösunds hamn” 
+[Online]. 
+Available: 
+http://www.mynewsdesk.com/se/cowi/pressreleases/cowi-projekterar-ny-
+gasterminal-i-oxeloesunds-hamn-2973854. [Accessed: 25-Feb-2020]. 
+[6] 
+ARPANSA, 2008, “Management of Naturally Occurring Radioactive 
+Material (NORM), ” Radiation Protection Series Publication No. 15. 
+[7] 
+Holderness, L., 2014, “Naturally Occurring Radioactive Material (NORM) 
+in Oil & Gas Shipping,” Textb. Marit. Med. 
+[8] 
+Sonter, M., 2017, "Behaviour of radon and its short- and long-lived 
+daughters in LNG liquification plants," Radiation Protection in Australasia, 
+34(1). 
+[9] 
+Tsukamoto, R., Murata, M., Moriizumi, J., Yamazawa, H., and Iida, T., 
+2010, “Accumulation of Radon Decay Products in the Dehydration Process 
+of LNG Plants,” IGT International Liquefied Natural Gas Conference 
+Proceedings. 
+[10] 
+Johnson, R. H. J., Bernhardt, D., Nelson, N., and Calley, H. W. J., 1973, 
+“Assessment of Potential Radiological Health Effects from Radon in 
+Natural Gas.” 
+[11] 
+Attari, A., and Chao, S., 1993, “Sampling and Analysis of Natural Gas 
+Trace Constituents,” The First International Oil, Gas & Petrochemical 
+Congress. 
+[12] 
+Swedish Work Environment Authority, 2001, 
+“Systematic Work 
+Environment Management.”; AFS 2001:1, §8.   
+[13] 
+Swedish Work Environment Authority, 2001, 
+“Systematic Work 
+Environment Management.”; AFS 2001:1, §10.   
+[14] 
+Lindström, P. R. M., April 9, 2018, Linnaeus University correspondense to 
+
+
+--- Page 66 ---
+ 
+60(68) 
+ 
+Koufakis, 
+M. 
+at 
+Swedish 
+Radiation 
+Safety 
+Authority; 
+e-mail 
+communication, public information according to SFS 1949:105  
+[15] 
+Koufakis, M., April 9, 2018, Swedish Radiation Safety Authority 
+correspondense to Lindström, P. R. M. at Linnaeus University; e-mail 
+communication, public information according to SFS 1949:105 
+[16] 
+Koufakis, M., April 16, 2018, Swedish Radiation Safety Authority 
+correspondense to Lindström, P. R. M. at Linnaeus University; e-mail 
+communication, public information according to SFS 1949:105 
+[17] 
+Lindström, P. R. M., April 17, 2018, Linnaeus University correspondense to 
+Petrini C. at Swedish Transport Agency; e-mail communication, public 
+information according to SFS 1949:105 
+[18] 
+Petrini C., April 17, 2018, Swedish Transport Agency correspondense to 
+Lindström, P. R. M. at Linnaeus University; e-mail communication, public 
+information according to SFS 1949:105 
+[19] 
+Lindström, P. R. M. , April 26, 2018, Linnaeus University correspondense 
+to Head Office at Swedish Work Environment Authority; e-mail 
+communication, public information according to SFS 1949:105  
+[20] 
+Swedish Work Environment Authority, June 5, 2018, correspondense to 
+Lindström, P. R. M. at Linnaeus University; e-mail communication, public 
+information according to SFS 1949:105 
+[21] 
+Lindström, P. R. M., June 6, 2018, correspondense to Kalmar Maritime 
+Academy; e-mail communication, public information according to SFS 
+1949:105  
+[22] 
+Lindström, P. R. M. , June 6, 2018, Linnaeus University correspondense to 
+Lorentsson K. at MAN Diesel & Turbo Sverige AB; e-mail communication, 
+public information according to SFS 1949:105 
+[23] 
+Lorentsson K., June 11, 2018, correspondense to Lindström, P. R. M. at 
+Linnaeus University; e-mail communication, public information according 
+to SFS 1949:105 
+[24] 
+Lindström, P. R. M. , June 13, 2018, Linnaeus University correspondense to 
+Mohebbi S. at Swedish Transport Agency; e-mail communication, public 
+information according to SFS 1949:105  
+[25] 
+Mohebbi S., June 13, 2018, correspondense to Lindström, P. R. M. at 
+Linnaeus University; e-mail communication, public information according 
+to SFS 1949:105 
+[26] 
+Lindström, P. R. M., June 14, 2018, Linnaeus University correspondense to 
+Karlsson M. at Swedish Energy Agency, copy to Carius S. at Linnaeus 
+University, Håkansson L. at Linnaeus University, Mohebbi S. at Swedish 
+Transport Agency; e-mail communication, public information according to 
+SFS 1949:105  
+
+
+--- Page 67 ---
+ 
+61(68) 
+ 
+[27] 
+Karlsson M., June 15, 2018, correspondense to Mickiewicz A. at Swedish 
+Energy Agency; e-mail communication, public information according to 
+SFS 1949:105 
+[28] 
+Mickiewicz A., June 15, 2018, correspondense to Karlsson M. at Swedish 
+Energy Agency, copy to Magnus Henke at Swedish Energy Agency; e-mail 
+communication, public information according to SFS 1949:105 
+[29] 
+Karlsson M., June 15, 2018, correspondense to Lindström, P. R. M. at 
+Linnaeus University; e-mail communication, public information according 
+to SFS 1949:105 
+[30] 
+Henke M., June 18, 2018, correspondense to Lindström, P. R. M. at 
+Linnaeus University, copy to Mickiewicz A. at Swedish Energy Agency, 
+Karlsson M. at Swedish Energy Agency, Lindmark J. at Swedish Energy 
+Agency, Mohebbi S. at Swedish Transport Agency; e-mail communication, 
+public information according to SFS 1949:105 
+[31] 
+Lindström, P. R. M. , June 21, 2018, Linnaeus University correspondense to 
+Lindmark J. at Swedish Energy Agency; e-mail communication, public 
+information according to SFS 1949:105 
+[32] 
+University of Southern California, n.d, “The Literature Review:Organizing 
+Your 
+Social 
+Sciences 
+Research 
+Paper” 
+[Online]. 
+Available: 
+https://libguides.usc.edu/writingguide/literaturereview. [Accessed: 31-May-
+2020]. 
+[33] 
+Lindström, P. R. M., 2020, “Systems Engineering & DFSS” presentation at 
+Linnaeus University. 
+[34] 
+Kapurch, S. J., 2007, “NASA Systems Engineering Handbook,” NASA 
+Spec. Publ. 
+[35] 
+INCOSE, 2015, "Systems Engineering Handbook: A Guide for System Life 
+Cycle Processes and Activities", Hoboken, NJ, USA.  
+[36] 
+Fransson, A., and Van der Brug, P., 2020, “Systematic optimisation of an 
+existing fuel oil preheating system,” B.S. thesis, Linnaeus University. 
+[37] 
+Ayer, A. J., 1952, Language Truth and Logic, 2nd edition, Dover, New 
+York. 
+[38] 
+Shields, P. M., 1995, Three Philosophies Behind Public Administration’s 
+Research Tradition. 
+[39] 
+Peirce, C. S., 1878, How to Make Our Ideas Clear. 
+[40] 
+Flick, U., and Kennedy, B. L., 2018, “Deduction, Induction, and 
+Abduction,” The SAGE Handbook of Qualitative Data Collection, SAGE 
+Publications Ltd, pp. 49–64. 
+[41] 
+International Atomic Energy Agency, 2019, “IAEA Safety Glossary: 2018 
+Edition.”  
+
+
+--- Page 68 ---
+ 
+62(68) 
+ 
+[42] 
+S. Cohen and Associates, Inc., 1993, “Preliminary Risk Assessment of 
+Diffuse NORM Waste”, Prepared for U.S. EPA  
+[43] 
+Schumann, R. Randall, ed., 1993g, “Geologic radon potential of EPA 
+Region 7, Iowa, Kansas, Missouri, and Nebraska,” U.S. Geol. Survey Open-
+file Rept.  
+[44] 
+Morrison, J. C., 2015, Modern Physics for Scientists and Engineers, 2nd ed., 
+Academic Press.   
+[45] 
+IAEA, 2005, “Basics of Radiation and Radiation Protection.” 
+[46] 
+Speight, J. G., 2007, Natural Gas: A Basic Handbook, 1st ed., Gulf 
+Publishing Company. 
+[47] 
+Luo, H., Tang, D., Yan, Q., He, W., and Xu, H., 2012, “Radioactive 
+Elements in Natural Gas: A Case Study on Distribution of Gaseous Radon-
+222 and its Origin Mechanism,” Nat. Hazards, 63(2), pp. 647–657 
+[48] 
+Otton, J. K., 1992, “The Geology of Radon,” US Geol. Surv. 
+[49] 
+Pless, J., 2012, “Natural Gas Development and Hydraulic Fracturing: A 
+Policy Maker’s Guide,” Natl. Conf. State Legis., (June), pp. 1–20. 
+[50] 
+Helms, L., 2008, “Horizontal Drilling,” DMR Newsl., 35(1), pp. 1–3. 
+[51] 
+Mokhatab, S., Mak, J. Y., Valappil, J. V., and Wood, D. A., 2013, 
+Handbook of Liquefied Natural Gas, Gulf Professional Publishing. 
+[52] 
+British Petroleum Company, 2019, “BP Statistical Review of World Energy 
+Statistical Review of World,” Ed. BP Stat. Rev. World Energy. 
+[53] 
+Groysman, A., 2017, “Corrosion Problems and Solutions in Oil, Gas, 
+Refining and Petrochemical Industry,” Koroze a Ochr. Mater., 61(3), pp. 
+100–117. 
+[54] 
+Eggeman, T., and Chafin, S., 2005, “Beware the Pitfalls of CO2 Freezing 
+Prediction,” Chem. Eng. Prog., 101(3), pp. 39–44. 
+[55] 
+Tusiani, M. D., and Shearer, G., 2007, LNG: A Nontechnical Guide, 
+PennWell Corp. 
+[56] 
+Rios, J. A., Coyle, D. A., Durr, C. A., and Frankie, B. M., 1998, “Removal 
+of Trace Mercury Contaminants from Gas and Liquid Streams in the LNG 
+and Gas Processing Industry,” Proceedings, Annual Convention - Gas 
+Processors Association. 
+[57] 
+Baker, C. J., Oakley, J. H., Rowland, D., Hughes, T. J., Aman, Z. M., and 
+May, E. F., 2018, “Rapid Simulation of Solid Deposition in Cryogenic Heat 
+Exchangers to Improve Risk Management in Liquefied Natural Gas 
+Production,” Energy and Fuels, 32(1), pp. 255–267. 
+[58] 
+Zeeshan, A., and Manikandan, A., 2017, “Case Study - Failure Caused by 
+Mercury Embrittlement in MCHE Main Cryogenic Heat Exchanger in a 
+
+
+--- Page 69 ---
+ 
+63(68) 
+ 
+LNG Plant,” Society of Petroleum Engineers - SPE Abu Dhabi International 
+Petroleum Exhibition and Conference 2017. 
+[59] 
+Maher, J.B., Van Gelder, L.R., 1972a. LNG tank dynamics. LNG Conf. 3. 
+[60] 
+Jonkers, G., 2019, “Characterization of NORM in the Oil and Gas 
+Production (E & P) Industry.” 
+[61] 
+Bikit, I., Mrdja, D., Bikit, K., Grujic, S., Knezevic, D., Forkapic, S., and 
+Kozmidis-Luburic, U., 2015, “Radon Adsorption by Zeolite,” Radiat. Meas. 
+[62] 
+Adams, R. E., Browning, W. E., and Ackley, R. D., 1959, “Containment of 
+Radioactive Fission Gases by Dynamic Adsorption,” Ind. Eng. Chem., 
+51(12), pp. 1467–1470. 
+[63] 
+Organo, C., and Agency, E. P., 2014, “Status of the Implementation of the 
+European Directive 96 / 29 / EURATOM in Ireland in Relation to NORM,” 
+(May 2004). 
+[64] 
+Cothern, R. C., and Smith, J. E., 1987, Environmental Radon, Springer 
+Science+Business Media New York. 
+[65] 
+National Council on Radiation Protection & Measurements, 1988, 
+“Measurement of Radon and Radon Daughters in Air, ” Report No. 97, 
+Bethesda, MD. 
+[66] 
+Gray, R. W., Ramsay, W., 1909, “Some Physical Properties of Radium 
+Emanation, ”. J. Chem. Soc. Trans. pp. 1073–1085. 
+[67] 
+Summerling, J. Jr., Prichard, H., 1985, “Radiological health implications of 
+lead-210 and polonium-210 accumulations in LPG refineries,” Am. Ind. 
+Hyg. Assoc. J.  
+[68] 
+Concha, F., 2009, “Settling Velocities of Particulate Systems,” KONA 
+Powder Part. J., 27(27), pp. 18–37. 
+[69] 
+Bland, C. J., and Chiu, N. W., 1996, “Accumulation of 210Pb Activity on 
+Particulate Matter in LPG Rail Cars,” Appl. Radiat. Isot., 47(9–10). 
+[70] 
+Bjørnstad, T., and Ramsøy, T., 1999, “The ‘Invisible’ Radioactive Scale,” 
+Proceedings of the 10th International Oil Field Chemicals Symposium. 
+[71] 
+Hahn, E., 2019, “What are the properties of LPG & LPG Composition” 
+[Online]. 
+Available: 
+https://www.elgas.com.au/blog/453-the-science-a-
+properties-of-lpg. [Accessed: 23-Feb-2020]. 
+[72] 
+Society of International Gas Tanker & Terminal Operators SIGTTO, 2012, 
+“Guidance for the Prevention of Rollover in LNG Ships”.  
+[73] 
+Manfred, 
+W., 
+“Liquid-Solid 
+Flow” 
+[Online]. 
+Available: 
+http://www.thermopedia.com/content/51/. [Accessed: 06-Mar-2020]. 
+[74] 
+Tokonami, S., Fukutsu, K., Yamada, Y., and Yatabe, Y., 2005, “Particle 
+Size Measurement of Radon Decay Products Using MOUDI and GSA,” Int. 
+
+
+--- Page 70 ---
+ 
+64(68) 
+ 
+Congr. Ser., 1276, pp. 278–280. 
+[75] 
+Yin, Z. Q., Li, X. F., Bao, F. B., Tu, C. X., and Gao, X. Y., 2018, 
+“Thermophoresis and Brownian Motion Effects on Nanoparticle Deposition 
+inside a 90° Square Bend Tube,” Aerosol Air Qual. Res., 18(7), pp. 1746–
+1755. 
+[76] 
+Sorimachi, A., Tokonami, S., Kranrod, C., and Ishikawa, T., 2015, 
+“Preliminary Experiments Using a Passive Detector for Measuring 
+Indoor220Rn Progeny Concentrations with an Aerosol Chamber,” Health 
+Phys., 108(6), pp. 597–606. 
+[77] 
+Dokou, E., Barteau, M. A., Wagner, N. J., and Lenhoff, A. M., 2001, 
+“Effect of Gravity on Colloidal Deposition Studied by Atomic Force 
+Microscopy,” J. Colloid Interface Sci., 240(1), pp. 9–16. 
+[78] 
+Chan, S. T., Gresho, P. M., and Lee, R. L., 1980, “Simulation of LNG 
+Vapour Spread and Dispersion by Finite Element Methods,” Top. Catal., 
+4(5), pp. 335–344. 
+[79] 
+Koyamada, K., and Tamura, S., 2006, Systems Modeling and Simulation - 
+Theory and Applications. 
+[80] 
+McCabe, W. L., Smith C. J., and Harriott P., 1993, Unit operations of 
+chemical engineering, McGraw-Hill, New York. 
+[81] 
+Brown, G., Estrada, H., Augenstein, D., and Cousins, T., 2007, “LNG 
+Allocation Metering Using 8-Path Ultrasonic Meters,” Energy Inst. - 25th 
+Int. North Sea Flow Meas. Work. 2007, (October), pp. 327–349. 
+[82] 
+Maury, R., and Strzelecki, A., 2016, “Alternative Method to LNG Flowrate 
+Measurement.” 
+[83] 
+Włodek, T., and Łaciak, M., 2015, “Selected Thermodynamic Aspects of 
+Liquefied Natural Gas (LNG) Pipeline Flow during Unloading Process,” 
+AGH Drilling, Oil, Gas, 32(2), p. 275. 
+[84] 
+Lim, Y., Lee, C. J., Lee, S., Park, C., and Han, C., 2010, “Methodology for 
+Stable Dynamic Simulation of a LNG Pipe under Two-Phase-Flow 
+Generation,” Ind. Eng. Chem. Res., 49(18), pp. 8587–8592. 
+[85] 
+Menon, S. E., 2005, “Gas Pipeline Hydraulics,” CRC Press, (877). 
+[86] 
+The University of Florida, and Washington University, “Aerosol Science & 
+Engineering” [Online]. Available: https://aerosol.ees.ufl.edu/index.html. 
+[Accessed: 10-Mar-2020]. 
+[87] 
+Phillips, C. R., Khan, A., and Leung, H., 1983, “Development of Diffusion-
+Based Radon Daughter Dosimeters”. 
+[88] 
+Amel, D., Mohamed, B., and Yacine, S., 2018, “Numerical Analysis of 
+Turbulent Natural Convection in LNG Storage Tank,” Int. Conf. Fluid 
+Flow, Heat Mass Transf. 
+
+
+--- Page 71 ---
+ 
+65(68) 
+ 
+[89] 
+Akilli, H., Levy, E. K., and Sahin, B., 2001, “Gas-Solid Flow Behavior in a 
+Horizontal Pipe after a 90° Vertical-to-Horizontal Elbow,” Powder 
+Technol., 116(1), pp. 43–52. 
+[90] 
+Cook, D., and Hurworth, N. R., 1980, “Recent Research on Pulversed Fuel 
+Settlement in Power Station Pipelines, and the Significance of ‘Roping’.,” 
+Bulletin of the Chemical Society of Japan. 
+[91] 
+McCluskey, D. R., Easson, W. J., Greated, C. A., and Glass, D. H., 1989, 
+“The Use of Particle Image Velocimetry to Study Roping in Pneumatic 
+Conveyance,” Part. Part. Syst. Charact. 
+[92] 
+Peters, T. M., and Leith, D., 2004, “Particle Deposition in Industrial Duct 
+Bends,” Ann. Occup. Hyg. 
+[93] 
+Michaelides, Efstathios, C. T. Crowe, and John D. Schwarzkopf, 2017, 
+“Multiphase flow handbook”, CRC Press  
+[94] 
+Pui, D. H., Romay-Novas, F., and Liu, B. Y. H., 1987, “Experimental Study 
+of Particle Deposition in Bends of Circular Cross Section,” Aerosol Sci. 
+Technol., 7(3), pp. 301–315. 
+[95] 
+Zhou, K., Sun, K., Jiang, X., Liu, S., He, Z., and Ding, Z., 2018, 
+“Experimental Views of Tran-Bend Particle Deposition in Turbulent Flow 
+with Nanoscale Effect,” J. Nanotechnol. 
+[96] 
+Lin, P., and Lin, J., 2009, “Transport and Deposition of Nanoparticles in 
+Bend Tube with Circular Cross-Section,” Prog. Nat. Sci., 19(1), pp. 33–39. 
+[97] 
+Veluswamy, G. K., Utikar, R. P., Pareek, V. K., Pack, D. J., and Tade, M. 
+O., 2012, “Particle Deposition in Natural Gas Pipelines Using 
+Computational Fluid Dynamics Modelling,” Asia-Pacific J. Chem. Eng. 
+[98] 
+Ahmadi, G., 1998, “Dispersion and Deposition of Particles in a Turbulent 
+Pipe Flow with Sudden Expansion,” J. Aerosol Sci., 29(9), pp. 1097–1116. 
+[99] 
+Chen, D.-R., and Pui, D. Y. H., 1995, “Numerical and experimental studies 
+of particle deposition in a tube with a conical contraction - laminar flow 
+regime,” Aerosol Sci., 26(4), pp. 563–574. 
+[100] 
+Borzone, L. A., Klinzing, G. E., and Yang, W.-C., 1989, “Pipe and Bend 
+Erosion by Pneumatic Transport of Solids at High Temperature”. 
+[101] 
+Shi, H., Kleinstreuer, C., Zhang, Z., and Kim, C. S., 2004, “Nanoparticle 
+Transport and Deposition in Bifurcating Tubes with Different Inlet 
+Conditions,” Phys. Fluids, 16(7), pp. 2199–2213. 
+[102] 
+Thakur, L. S., 2017, “Review on Numerical Simulation of Frosting 
+Behavior on Ambient Air Vaporizer,” (3), pp. 2979–2984. 
+[103] 
+Kuang, Y. W., Yi, C. C., and Wang, W., 2015, “Numerical Simulation of 
+Frosting Behavior and Its Effect on a Direct-Contact Ambient Air 
+Vaporizer,” J. Nat. Gas Sci. Eng., 27(January 2019), pp. 55–63. 
+
+
+--- Page 72 ---
+ 
+66(68) 
+ 
+[104] 
+Agency for Toxic Substances and Disease Registry (ATSDR), 2012, 
+“Toxicological profile for Radon, ”. Atlanta, GA: U.S. Department of 
+Health and Human Services, Public Health Service. 
+[105] 
+Amel, D., Mohamed, B., and Yacine, S., 2018, “Numerical Analysis of 
+Turbulent Natural Convection in LNG Storage Tank,” Int. Conf. Fluid 
+Flow, Heat Mass Transf. 
+[106] 
+Babashova, N., February 27, 2020, Linnaeus University correspondense to 
+Persson, L. at Nordion Energi AB, personal communication. 
+[107] 
+Persson, L., February 28, 2020, Nordion Energi AB correspondense to 
+Babashova, N. at Linnaeus University, personal communication. 
+[108] 
+EMSA, 2017, “Guidance on LNG Bunkering to Port Authorities and 
+Administration.” 
+[109] 
+Youn, I. H., and Kim, S. C., 2019, “Preventive Maintenance Topic Models 
+for LNG Containment Systems of LNG Marine Carriers Using Dock 
+Specifications,” Appl. Sci., 9(6). 
+[110] 
+Gesell, T. F., 1975, “Occupational radiation exposure due to 222Rn in 
+natural gas and natural gas products, ” Health Physics 29 pp. 681-687. 
+[111] 
+IAEA, 2014, “Radiation Protection and Safety of Radiation Sources: 
+International Basic Safety Standards General Safety: No GSR Part 3,” 
+IAEA Saf. Stand. 
+[112] 
+Cua., F. T., 2011, “Radon, Indoor and Remote Measurement of,” 
+Encyclopedia of Analytical Chemistry: Applications, Theory, and 
+Instrumentation, Wiley. 
+[113] 
+George, A. C., 1982, “Characterization of Radon Levels in Indoor Air.,” 
+Proceedings, Annu. Meet. - Air Pollut. Control Assoc., 3(82). 
+[114] 
+Gray, D., and Windham, S., 1987, “EERF Standard Operating Procedures 
+for Rn-222 Measurement Using Charcoal Canisters.” 
+[115] 
+Ronca-Battista M., and Gray D., 1988, “The influence of changing exposure 
+conditions on measurements of radon concentrations with the charcoal 
+adsorption technique,” Radiation protection dosimetry, 24(1-4), pp. 361 – 
+365. 
+[116] 
+Goswami, A., and Sen, P., 2018, “Energy Harvesting Using Droplet. 
+Nanomaterials for Green Energy, ” pp. 113–143 
+[117] 
+Koc, P., Ekinci, N., Cinan, E., and Kavaz, E., 2017, “Track Detectors in 
+Dwellings of Bingöl and Mus Provinces of Turkey.” 
+[118] 
+Horowitz, 
+Y., 
+Chen, 
+R., 
+Oster, 
+L., 
+and 
+Eliyahu, 
+I., 
+2017, 
+“Thermoluminescence Theory and Analysis: Advances and Impact on 
+Applications”, Encyclopedia of Spectroscopy and Spectrometry, pp. 444–
+451. 
+
+
+--- Page 73 ---
+ 
+67(68) 
+ 
+[119] 
+Sethy, N. K., Jha., V. N., Ravi, P. M., and Tripathi, R. M.,  2014, “A simple 
+method for calibration of Lucas scintillation cell counting system for 
+measurement of 226Ra and 222Rn”, Journal of Radiation Research and 
+Applied Sciences, 7(4), pp. 475-477 
+[120] 
+Knoll, G. F., 1999, Radiation detection and measurement, 3rd ed., Wiley, 
+New York 
+[121] 
+Jenkins, P. H., 2002, “A Critique of the ‘EPA Method’ for Analyzing and 
+Calibrating Charcoal Canisters for Radon Measurements.” 
+[122] 
+BS ISO 8943:2007, 2007, “Refrigerated Light Hydrocarbon Fluids — 
+Sampling of Liquefied Natural Gas — Continuous and Intermittent 
+Methods” . 
+[123] 
+Brookhaven National Laboratory, 2017, “Surface Wipe Sampling for 
+Metals.” 
+[124] 
+Benito, A., 2009, “Accurate Determination of LNG Quality Unloaded in 
+Receiving Terminals: An Innovative Approach,” Int. Gas Union World Gas 
+Conf. Pap., 6, pp. 4627–4646. 
+[125] 
+Kenbar, A., 2013, “Assessment of LNG Sampling Systems and 
+Recommendations,” 31st North Sea Flow Meas. Work., (October), pp. 1–
+20. 
+[126] 
+Rowan, E. L., and Kraemer, T. F., 2012, “Radon-222 Content of Natural 
+Gas Samples from Upper and Middle Devonian Sandstone and Shale 
+Reservoirs in Pennsylvania: Preliminary Data.” 
+[127] 
+Kitto, M. E., Torres, M. A., Haines, D. K., and Semkow, T. M., 2014, 
+“Radon Measurement of Natural Gas Using Alpha Scintillation Cells,” J. 
+Environ. Radioact., 138, pp. 205–207. 
+[128] 
+Kotrappa, P., Stieff, L., Stieff, F., and Kitto, M. E., “Measurement of Radon 
+in Natural Gas and in Propane Using Electret Ion Chambers.” 
+[129] 
+Burkhart, J. F., Jenkins, P. H., and Camley, R. E., 2005, “Elevation Effects 
+on Radon Cell Counting Efficiency.” 
+[130] 
+Jenkins, P. H., Burkhart, J. F., and Camley, R. E., 2014, “Errors in 
+Measurements of 222Rn in Methane and Carbon Dioxide Using 
+Scintillation Cells Calibrated for 222Rn in Air,” Health Phys., 106(3), pp. 
+397–404. 
+[131] 
+Lapp, R. E., Andrews, H. L., 1972, Nuclear radiation physics, 4th ed., NJ: 
+Prentice Hall, Englewood Cliffs. 
+[132] 
+Kotrappa, P., and Stieff, L. R., 1992, “Elevation Correction Factors for E-
+Perm Radon Monitors,” Health Phys., 62(1), pp. 82–85. 
+[133] 
+Billets, S., 2007, “A Literature Review of Wipe Ampling Methods for 
+Chemical Warfare Agents and Toxic Industrial Chemicals,” U.S. Environ. 
+Prot. Agency, Washingt. DC. 
+
+
+--- Page 74 ---
+ 
+68(68) 
+ 
+[134] 
+Collum, B., 2016, Nuclear Facilities: A Designer’s Guide, Woodhead 
+Publishing. 
+[135] 
+Thomson, J., 2012, “Sample Preparation Techniques for Liquid Scintillation 
+Analysis,” Handbook of Radioactivity Analysis. 
+[136] 
+Radonova, “Our Products at Radonova - Leader in Radon Measurement” 
+[Online]. 
+Available: 
+https://radonova.co.uk/consultant/our-products/. 
+[Accessed: 11-Mar-2020]. 
+[137] 
+Radon Environmental Management Corp., n.d., “Rapidos. Alpha Track 
+Detector." 
+[138] 
+Radon FTLab, n.d., “RadonEye Manual Operation.” 
+[139] 
+Calin, M. R., Calin, M. A., and Radulescu, I., 2016, “Detector of Ionization 
+Chamber-Type in Pulse Mode for Measurements of Radon Concentration in 
+Air,” Rom. J. Phys., 61(9–10), pp. 1591–1603. 
+[140] 
+Othman, I., Raja, G., Hushari, M., and Sawaf, A., 1997, “Variation of 
+Radon Concentration in Different Sites in Syrian Typical Houses,” 28(97), 
+pp. 721–724. 
+[141] 
+Strålsäkerhetsmyndighetens, n.d, “Strålsäkerhetsmyndigheten” [Online]. 
+Available: https://www.stralsakerhetsmyndigheten.se/. [Accessed: 04-Jun-
+2020]. 
+[142] 
+Strålsäkerhetsmyndighetens, 
+2018, 
+“Strålsäkerhetsmyndighetens 
+Föreskrifter Om Radon På Arbetsplatser (SSMFS 2018:10).” 
+[143] 
+Strålsäkerhetsmyndighetens, 
+2018, 
+“Strålsäkerhetsmyndighetens 
+Föreskrifter Om Naturligt Förekommande Radioaktivt Material Och 
+Byggnadsmaterial (SSMFS 2018:4).” 
+[144] 
+Swedish Radiation Safety Authority, 2015, “Safe and Responsible 
+Management of Spent Nuclear Fuel and Radioactive Waste in Sweden 
+(2015:32).” 
+ 

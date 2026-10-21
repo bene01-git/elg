@@ -1,0 +1,1363 @@
+--- Page 1 ---
+ 
+Page 1 of 23 
+ 
+APPENDIX 22: EARNINGS ADJUSTMENT MECHANISMS 
+Beginning January 1, 2023, the Company will have seven Earnings Adjustment Mechanisms 
+(“EAMs”) during the Rate Plan. Achievement of EAMs will be measured on a calendar year basis 
+for RY1, RY2, and RY3. 
+1.0 Basis Points 
+1.1.1 Summary 
+The following is a summary of the commodities and basis points associated with each EAM; 
+details regarding the EAMs, including metrics, associated achievement, and basis points are more 
+fully described further below. EAM incentives are provided in absolute dollars in section J.8 of 
+the Proposal.  In addition to the EAMs described herein, the Company will have the opportunity 
+to earn EAM incentives related to the Electric Vehicles Make Ready Program during Rate Year 
+3.1   
+EAM 
+Commodity 
+Level 
+RY1 
+(2023) 
+RY2 
+(2024) 
+RY3 
+(2025) 
+Smart Building Electrification 
+Electric 
+Min 
+2.5 
+2.5 
+2.5 
+Mid 
+3.5 
+3.5 
+3.5 
+Max 
+6 
+6 
+6 
+Smart Building Electrification 
+Gas 
+Min 
+2.5 
+2.5 
+2.5 
+Mid 
+3.5 
+3.5 
+3.5 
+Max 
+6 
+6 
+6 
+Demand Response  
+Electric 
+Min 
+2 
+2 
+2 
+Mid 
+4 
+4 
+4 
+Max 
+7 
+7 
+7 
+Light-Duty Vehicle Emissions 
+Electric 
+Min 
+2 
+2 
+2 
+Mid 
+4.5 
+4.5 
+4.5 
+Max 
+7 
+7 
+7 
+Transportation Interconnection 
+Timeline 
+Electric 
+Min 
+2 
+2 
+2 
+Mid 
+3 
+3 
+3 
+Max 
+6 
+6 
+6 
+Managed Charging2 
+Electric 
+Min 
+TBD 
+Mid 
+Max 
+DER Utilization Solar 
+Electric 
+Min 
+1 
+1 
+1 
+Mid 
+3 
+3 
+3 
+Max 
+7 
+7 
+7 
+DER Utilization Storage 
+Electric 
+Min 
+1 
+1 
+1 
+Mid 
+3 
+3 
+3 
+Max 
+7 
+7 
+7 
+ 
+1 The Commission has reserved up to 15 basis points of maximum EAM award in total related to two Make Ready 
+Program Share the Savings EAM metrics, as directed in the Commission’s Make Ready Order in Case 18-E-0138. 
+2 Up to a maximum of 10 basis points per year reserved, with minimum and midpoint basis point totals to be 
+determined through collaborative process described herein. 
+
+
+--- Page 2 ---
+ 
+Page 2 of 23 
+ 
+1.1.2 Value of a Basis Point 
+The table below provides a summary of the value of a basis point for each Rate Year for electric 
+and gas. These values will be used to calculate EAM earnings over the term of the Joint 
+Proposal.  
+Value of an EAM basis point 
+RY1 (2023) 
+RY2 (2024) 
+RY3 (2025) 
+Electric ($ million) 
+[RYx $ BP Electric] 
+$1.753 
+$1.876 
+$1.973 
+Gas ($ million) 
+[RYx $ BP Gas] 
+$0.645 
+$0.697 
+$0.740 
+ 
+1.1.3 Earned EAM 
+The Company will receive a financial reward if the Company meets the minimum target for a 
+given Rate Year, and will receive increasing financial rewards up to the maximum achievement 
+for the Rate Year. The EAM financial reward earned at min, mid, and max levels of achievement 
+are set in section J.8 of the Proposal. For all other EAM achievement levels, the Company will 
+calculate the dollar incentive earned in a given Rate Year for each EAM as follows: 
+a) If RYx Achievement is less than RYx TargetMin, then the Company will not receive an 
+EAM.   
+ 
+Where, 
+x 
+1, 2, or 3 for Rate Year 1, Rate Year 2, or Rate Year 3, 
+respectively. 
+ 
+RYx Achievement   
+EAM achievement in Rate Year x, calculated as outlined 
+under “Achievement” for each EAM 
+ 
+RYx TargetMin  
+ 
+Minimum target for EAM in Rate Year x 
+ 
+b) If RYX Achievement is between the RYxTargetMin and RYxTargetMid, then  
+ 
+The Smart Building Electrification EAM will be calculated as follows: 
+RYx EAM ($) = [RYx BPMin + RYx BP SlopeMin-Mid * 
+(RYx Achievement – RYx TargetMin)]* (RYx $ BPElectric + RYx $ BPGas) 
+Where, 
+RYx EAM ($) 
+Company incentive in dollars for EAM achievement in 
+Rate Year x 
+ 
+
+
+--- Page 3 ---
+ 
+Page 3 of 23 
+ 
+RYx TargetMid  
+ 
+Midpoint target for EAM in Rate Year x 
+RYx BP SlopeMin-Mid    
+RYxBPMid – RYx BPMin
+RYxTargetMid − RYx TargetMin  
+RYx BPMin   
+Minimum basis points allocated to EAM in Rate Year x 
+(see section 1.1.1) 
+RYx BPMid   
+Midpoint basis points allocated to EAM in Rate Year x (see 
+section 1.1.1) 
+RYX $ BPElectric  
+$ per basis point in Rate Year x for Electric (see section 
+1.1.2) 
+ 
+RYX $ BPGas 
+ 
+$ per basis point in Rate Year x for Gas (see section 1.1.2) 
+The Demand Response, Light-Duty Vehicle Emissions, Transportation 
+Interconnection Timeline, Managed Charging, DER Utilization Solar and DER 
+Utilization Storage EAMs will be calculated as follows: 
+ 
+RYx EAM ($) = [RYx BPMin + RYx BP SlopeMin-Mid *  
+(RYx Achievement – RYx TargetMin)]* RYx $ BPElectric 
+ 
+c) If RYx Achievement is between the RYx TargetMid and RYx TargetMax, then  
+ 
+The Smart Building Electrification EAM will be calculated as follows: 
+ 
+RYx EAM ($) = [RYx BPMid + RYx BP SlopeMid-Max *  
+(RYx Achievement – RYx TargetMid)]* (RYx $ BPElectric + RYx $ BPGas) 
+Where, 
+RYx BP SlopeMid-Max   
+RYxBPMax – RYxBPMid 
+RYxTargetMax − RYx TargetMid  
+RYx BPMax   
+Maximum basis points allocated to EAM in Rate Year x 
+(see section 1.1.1) 
+The Demand Response, Light-Duty Vehicle Emissions, Transportation 
+Interconnection Timeline, Managed Charging, DER Utilization Solar and DER 
+Utilization Storage EAMs will be calculated as follows: 
+ 
+RYx EAM ($) = [RYx BPMid + RYx BP SlopeMid-Max *  
+(RYx Achievement – RYx TargetMid)]* RYx $ BPElectric 
+ 
+d) If RYx Achievement is greater than or equal to the RYx TargetMax, then the Company will 
+earn the EAM maximum financial reward set forth in section J.8 of the Proposal.   
+
+
+--- Page 4 ---
+ 
+Page 4 of 23 
+ 
+2.0 EAMs 
+2.1 Smart Building Electrification EAM 
+2.1.1 Description 
+The Smart Building Electrification (“SBE”) EAM drives the acquisition of a higher 
+proportion of energy savings from energy efficiency (“EE”) and heating electrification 
+measures that support a more cost-effective transition to building electrification. 
+The measure categories included in the scope of the EAM reduce operating costs for 
+customers and minimize grid impacts from electrified heating load. The Smart Building 
+Electrification measure categories included in this EAM are described in the table below. 
+Table 1. SBE Measure Categories 
+Measure Categories 
+Description 
+Building Envelope 
+Upgrades to the building’s thermal envelope. Includes retrofit 
+projects in commercial, multifamily, small business, and 
+residential buildings. Excludes new construction projects 
+(except when paired with Ground Source Heat Pumps) and 
+excludes pipe insulation measures. 
+Ground Source 
+Heat Pumps 
+Ground source heat pumps (“GSHPs”) installed in 
+commercial, multifamily, small business, and residential 
+buildings.3 
+Waste Heat Recovery 
+Heat recovery from air and wastewater that is used for space 
+and water heating. Excludes heat recovery within industrial 
+processes and thermal energy network pilots.4 
+Advanced Controls 
+Controls that provide automatic and optimized start, stop, and 
+adjustment of building electric heating equipment associated 
+with heat pumps, using sensors, control logic, or algorithms, 
+as well as two-way communication between the control 
+system and the building equipment. 
+ 
+ 
+3 Includes single-family residential projects that may have a combination of ground-source and air-source heat pumps, 
+such as those used to heat and cool previously unconditioned spaces (e.g., attics or basements), at the same property.  
+4 This refers to pilots conducted as part of the Utility Thermal Energy Networks proceeding. See Case 22-M-0429, 
+Proceeding to Implement the Utility Thermal Energy Network and Jobs Act.  If the Commission requires the Company 
+to use Clean Heat program funding for equipment used in the utility thermal energy networks pilots, the Company 
+will count the energy savings associated with the Clean Heat funded equipment toward its achievement of this EAM.  
+
+
+--- Page 5 ---
+ 
+Page 5 of 23 
+ 
+2.1.2 Metric 
+The SBE metric is lifetime5 energy savings measured in British Thermal Units (“Lifetime 
+Million Btu” or “LMMBtu”), acquired through the Company’s EE and heating 
+electrification programs, and which come specifically from the measure categories 
+included in Table 1. The metric includes lifetime energy savings from both low- and 
+moderate-income (“LMI”) and non-LMI projects. 
+The acquired lifetime energy savings for the SBE EAM in each Rate Year (“RYX SBE 
+Acquired LMMBtu”) will be calculated as follows: 
+RYx SBE Acquired LMMBtu
+= [෍RYx SBE Acquired AMMBtu] ∗ RYx SBE Portfolio EUL 
+Where, 
+X 
+1, 2, and 3 for Rate Year 1, Rate Year 2, or Rate Year 3, 
+respectively. 
+ 
+RYx SBE 
+Acquired 
+AMMBtu 
+Annual energy savings for LMI and non-LMI electric and gas EE, 
+and the Clean Heat program, acquired from SBE measures in Rate 
+Year x. The energy savings are determined by the applicable 
+Technical Resource Manual (“TRM”) at the time the energy 
+savings are acquired. The metric is expressed in First Year Savings 
+(i.e., Annual Million Btu or “AMMBtu”6). 
+ 
+RYx SBE 
+Portfolio EUL 
+The weighted average portfolio Effective Useful Life (“EUL”), 
+weighted on a savings-by-measure-basis, as determined by the 
+applicable TRM at the time the energy savings are acquired in Rate 
+Year x calculated as: 
+ 
+∑(RYx SBE Measure EUL ∗RYx SBE Measure Acquired AMMBtu)
+∑RYx SBE Acquired AMMBtu
+ 
+ 
+RYx SBE 
+Measure EUL 
+The individual SBE measure EUL as determined by the applicable 
+TRM7 at the time the SBE measure savings are acquired in Rate 
+Year x. 
+ 
+RYx SBE 
+Measure 
+Acquired 
+AMMBtu 
+The acquired annual verified gross savings for LMI and non-LMI 
+electric and gas EE, and acquired annual gross energy savings for 
+the Clean Heat program, in AMMBtu, of the individual SBE 
+measure in Rate Year x. 
+ 
+5 Savings over the full lifetime of an installed measure. 
+6 NENY targets are First Year Savings, which is energy saved during the first full year post installation of the EE or 
+electrification measure. 
+7 In cases where the TRM does not include an applicable EUL it is established based on other state TRMs, industry 
+standards (such as ASHRAE), or engineering judgement. 
+
+
+--- Page 6 ---
+ 
+Page 6 of 23 
+ 
+2.1.3 Measurement 
+The acquired lifetime energy savings for the SBE EAM in each Rate Year (“RYx 
+Acquired SBE LMMBtu”) and the associated variables (“RYx SBE Acquired AMMBtu”, 
+“RYx SBE Portfolio EUL”) will be reported in the Company’s annual EAM Report, 
+along with supporting work papers. 
+Lifetime energy savings acquired through the Company’s LMI and non-LMI electric and 
+gas EE programs, except the Clean Heat program, must be evaluated (i.e., must be 
+verified gross savings) to count toward the SBE EAM achievement. Table 2 below 
+outlines the Company’s planned evaluation schedule for current EE programs that 
+contain in scope measures for the SBE EAM. The schedule below will be updated 
+quarterly, as needed, through filings in the NENY Proceeding.8 
+Table 2. Planned Evaluation Schedule, as of January 2023 
+Program 
+Estimated Evaluation 
+Completion Date 
+Multifamily Gas 
+Q1 2023 
+Commercial & Industrial 
+Q2 2023 
+Multifamily (Non-Lighting Electric) 
+Q3 2023 
+Residential Weatherization 
+Q4 2024 
+Statewide LMI Multifamily (AMEEP) 
+TBD 
+ 
+2.1.4 Targets 
+Table 3 below outlines the targets for the SBE EAM (“RYx SBE Target”) for each Rate 
+Year. The targets are expressed in LMMBtu and are shown for the minimum, midpoint, 
+and maximum level of achievement. 
+Table 3. SBE EAM Targets, in LMMBtu 
+Level 
+RY1 (2023) 
+RY2 (2024) 
+RY3 (2025) 
+Min 
+5,161,874 
+7,508,181 
+9,385,226 
+Mid 
+9,854,487 
+10,793,010 
+11,731,532 
+Max 
+16,424,145  
+16,424,145 
+16,424,145  
+ 
+ 
+8 Case 18-M-0084, In the Matter of a Comprehensive Energy Efficiency Initiative (“NENY Proceeding”), Order 
+Authorizing Utility Energy Efficiency and Building Electrification Portfolios Through 2025 (issued January 16, 2020). 
+ 
+
+
+--- Page 7 ---
+ 
+Page 7 of 23 
+ 
+2.1.5 Achievement 
+EAM achievement will be based on lifetime energy savings acquired from the SBE 
+measure categories in each Rate Year (“RYX SBE Acquired LMMBtu”), as defined in 
+section 2.1.2 above.  
+Additionally, the Company must demonstrate it is on pace to achieve its cumulative 
+2020-2025 NENY first year annual energy savings target in each Rate Year to earn any 
+SBE EAM reward in that Rate Year. See “Additional Condition to Earn” section below 
+for more details.  
+The Company will report achievement using the following steps: 
+• Step 1: SBE EAM achievement in a given Rate Year (“RYx SBE Acquired 
+LMMBtu”), will be calculated as described in section 2.1.2 above. 
+• Step 2: The Company will calculate the earned financial reward in a given Rate 
+Year, if any, using the approach set forth in section 1.1.3.  
+The Company is limited to two filings for each Rate Year of achievement for this 
+EAM, unless otherwise directed by Department of Public Service Staff (“DPS Staff”).    
+Additional Condition to Earn 
+To be eligible to earn the SBE EAM in RYx, the Company’s cumulative acquired first-
+year verified gross energy savings for LMI and non-LMI electric and gas EE, and first-
+year gross energy savings for the Clean Heat program, between 2020 and through the 
+end of RYx must be greater than the Cumulative First-Year NENY Energy Savings 
+Target for the same period (per Table 5 below).  
+Table 4 below summarizes the Company’s First-Year NENY Energy Savings Targets 
+(for each portfolio and in total), expressed in AMMBtu, as well as the Cumulative First-
+Year NENY Energy Savings Targets. Any changes to the Company’s NENY energy 
+savings targets in the NENY Interim Review9 will replace the targets in Table 4. 
+ 
+ 
+ 
+9 Case 14-M-0094 et al., Proceeding on Motion of the Commission to Consider a Clean Energy Fund, Order Initiating 
+the New Efficiency: New York Interim Review and Clean Energy Fund Review (issued September 15, 2022). 
+
+
+--- Page 8 ---
+ 
+Page 8 of 23 
+ 
+Table 4. First-Year NENY Energy Savings Targets (AMMBtu) 
+Year 
+First-Year NENY Energy 
+Savings Target 
+Cumulative First-Year NENY Energy 
+Savings Target for RY1-RY3 
+(EAM Additional Condition to Earn) 
+2020 
+2,167,272 
+ 
+2021 
+2,970,491 
+ 
+2022 
+4,396,635 
+ 
+2023 (RY1) 
+4,077,211 
+13,611,609 
+2024 (RY2) 
+3,941,817 
+17,553,426 
+2025 (RY3) 
+3,994,812 
+21,548,238 
+Total 
+21,548,238 
+ 
+ 
+2.1.6 Adjustments to Metric/Targets due to the NENY Interim Review 
+If the NENY Interim Review process and/or a generic EAM proceeding results in the 
+Commission eliminating the SBE EAM, or in the implementation of a replacement EE 
+and/or heating electrification EAM metric(s), or modifications to this specific EAM 
+metric design or its associated targets, such changes shall supersede the metric, design 
+and targets provided for in this Joint Proposal.   
+ 
+2.2 Demand Response EAM 
+2.2.1 Description 
+The Demand Response (“DR”) EAM encourages the Company to achieve greater growth 
+in Demand Response programs by increasing the total megawatts (“MW”) of demand 
+reduction participating in the programs. This EAM promotes grid flexibility by 
+developing a larger and more reliable demand response resource that can be called on to 
+reduce peak demand and during system contingencies. The metric will measure the 
+growth of demand response programs on a MW basis, including the Company’s DR 
+programs such as the Commercial System Relief Program (“CSRP”), Distribution Load 
+Relief Program (“DLRP”), the Term-and Auto-Dynamic Load Management (“DLM”) 
+programs, the Direct Load Control (“DLC”) program and the NYISO Special Case 
+Resource (“SCR”) program.10 
+2.2.2 Metric 
+The DR EAM is the total incremental MW of demand reduction from the Company’s 
+demand response programs and NYISO’s SCR program in any given Rate Year 
+compared to the prior Rate Year calculated as:  
+ 
+10 To the extent that new Company DR programs are launched during the rate period or modifications are made to 
+existing programs, MWs participating in these programs will also count towards metric achievement. 
+
+
+--- Page 9 ---
+ 
+Page 9 of 23 
+ 
+RYx Incremental MW Reduction = RYx MW Reduction − RYx−1MW Reduction  
+Where,  
+X 
+1, 2 and 3 for Rate Year 1, Rate Year 2, or Rate Year 3, 
+respectively. 
+RYx Incremental MW 
+Reduction 
+The total incremental MW load reduction in Rate Year x. 
+RYx MW Reduction 
+The total MW load reduction in Rate Year x from the 
+Company's DR programs, as calculated using the 
+methodology that the Company has employed when 
+reporting 2017 – 2022 DR program data in its Annual 
+Report plus the total MW load reduction in Rate Year x 
+from NYISO’s SCR program, using the lesser of the 
+Installed Capacity (“ICAP”) Equivalent Average Hourly 
+Response MW and Obligated ICAP MW, Zone J, average 
+coincident load (“ACL”) baseline data published in 
+NYISO’s Annual Report on Demand Response Programs. 
+RYx-1 MW Reduction 
+The total MW load reduction in the year prior to Rate Year 
+x from the Company’s DR programs, as calculated using 
+the methodology that the Company has employed when 
+reporting 2017- 2022 DR program data in its Annual Report 
+plus the total MW load reduction in the year prior to Rate 
+Year x from NYISO’s SCR program, using the lesser of the  
+ICAP Equivalent Average Hourly Response MW and 
+Obligated ICAP MW, Zone J, ACL baseline data published 
+in NYISO’s Annual Report on Demand Response 
+Programs. 
+2.2.3 Measurement 
+The Company will use data calculated using the methodology that the Company has 
+employed when reporting 2017 – 2022 DR program data in the Company’s Annual 
+Demand Response Program report to measure incremental MW from Company DR 
+programs. The Company will use data published in NYISO’s Annual Report on Demand 
+Response Programs to measure incremental MW from NYISO’s SCR program in Zone 
+J.  
+2.2.4 Targets 
+Targets for each Rate Year are determined based on exceeding the historic program 
+growth rate (“Annual DR Growth Rate”) using the years 2017, 2018, 2019 and 2022, 
+and are updated each Rate Year based on the prior year’s actual performance. Targets 
+will be set at multiples of 1.4, 1.8, and 2.2 above the baseline for the minimum, 
+
+
+--- Page 10 ---
+ 
+Page 10 of 23 
+ 
+midpoint, and maximum targets, respectively. The following table outlines the Demand 
+Response EAM targets for RY 1, 2 and 3 respectively, expressed in annual incremental 
+MW above the baseline.  
+ 
+Level 
+RY1 (2023)  
+RY2 (2024) 
+RY3 (2025)  
+DR 
+(Incremental 
+MW) 
+Baseline 
+63 
+Determined formulaically based 
+on prior years actual 
+performance  
+Min 
+88 
+Mid 
+113 
+Max 
+138 
+Where, 
+x 
+ 
+1, 2 and 3 for Rate Year 1, Rate Year 2, or Rate Year 
+3, respectively. 
+RYx Baseline 
+The incremental MW load reduction baseline in Rate 
+Year x calculated as follows: 
+RYx−1MW Reduction × (1
++ Annual DR Growth Rate) 
+Annual DR Growth Rate 
+The adjusted growth rate from 2017 to 2022, using 
+2017, 2018, 2019 and 2022. This value is x percent 
+(calculation shown below). 
+൬2022 MW Reduction
+2017 MW Reduction൰
+1 3
+ൗ
+−1 
+2022 MW Reduction  
+The total MW load reduction in 2022 from the 
+Company’s DR programs - as calculated using the 
+methodology that the Company has employed when 
+reporting 2017 -2022 DR program data in the Annual 
+Report - and NYISO’s SCR program, as shown 
+below: 
+ 
+2022 MW 
+Company DR Programs 
+702 
+NYISO SCR Program 
+381 
+Total 
+1,083 
+2017 MW Reduction 
+The total MW load reduction in 2017 from the 
+Company’s DR programs - as calculated using the 
+methodology that the Company has employed when 
+reporting 2017-2022 DR program data in the Annual 
+Report - and NYISO’s SCR program, as shown 
+below: 
+
+
+--- Page 11 ---
+ 
+Page 11 of 23 
+ 
+ 
+2017 MW 
+Company DR Programs 
+484 
+NYISO SCR Program 
+431 
+Total 
+915 
+2.2.5 Achievement 
+The Company will report achievement using the following steps: 
+• Step 1: Incremental MW reductions from the Company’s DR programs and the 
+NYISO SCR Program in a given Rate Year (RYX Incremental MW Reduction), 
+will be calculated as described above in section 2.2.2. 
+• Step 2: The Company will compare the reductions achieved to the targets set 
+forth in section 2.2.4 above and calculate the earned financial reward in a given 
+Rate Year, if any, using the approach set forth in section 1.1.3.  
+2.3 Light-Duty Vehicle (“LDV”) Emissions EAM 
+2.3.1 Description 
+The Light-Duty Vehicle (“LDV”) Emissions EAM encourages Company efforts that will 
+accelerate light-duty electric vehicle adoption and lead to a decrease in lifetime CO2e 
+(carbon dioxide equivalent) emissions on a marginal emissions basis. For the purpose of 
+this EAM, LDV includes Battery Electric Vehicles (“BEV”) and Plugin Hybrid Electric 
+Vehicles (“PHEV”) with a Gross Vehicle Weight of less than 10,000 lb.  
+2.3.2 Metric 
+The LDV emissions metric is the total lifetime CO2e emissions reductions provided by 
+the adoption of light-duty electric vehicles in any given Rate Year. 
+RYx  lifetime CO2e Reduction (metric tons) 
+= RYx BEV lifetime CO2e emissions reductions
++ RYx PHEV lifetime CO2e emissions reductions 
+Where, 
+X 
+1, 2 and 3 for Rate Year 1, Rate Year 2, or Rate 
+Year 3, respectively. 
+RYx Lifetime CO2e Reduction 
+Total avoided lifetime CO2e emissions in metric 
+tons due to incremental LDVs in Rate Year x. 
+RYx BEV lifetime CO2e 
+emission reductions 
+Total avoided lifetime CO2e emissions in metric 
+tons due to incremental BEVs in Rate Year x. 
+RYx PHEV lifetime CO2e 
+emission reductions 
+Total avoided lifetime CO2e emissions in metric 
+tons due to incremental PHEVs in Rate Year x. 
+
+
+--- Page 12 ---
+ 
+Page 12 of 23 
+ 
+ 
+2.3.3 Measurement 
+The total lifetime CO2e emissions reductions will be measured in metric tons and will be 
+calculated by summing the lifetime CO2e emissions reductions provided by the adoption 
+of light-duty electric vehicles in the applicable Rate Year. The table below gives the 
+Annual Tons CO2e avoided per unit based on the more detailed calculations found in 
+Appendix 22 Attachment A. 
+EV Technology 
+Annual Tons CO2e 
+Avoided per unit 
+BEV 
+2.33 
+PHEV 
+2.04 
+ 
+2.3.3.1 BEV 
+The BEV measurement will consider all incremental light-duty BEVs on the road in the 
+Company’s service territory during each Rate Year. The Company primarily tracks 
+vehicles on the road in its service territory using Atlas’ EValuateNY, a NYSERDA 
+funded tool that uses vehicle registration data from the New York State Department of 
+Motor Vehicles, and may supplement with any other available sources.11  If multiple 
+sources are used, the Company will demonstrate in its annual report to the Commission 
+the actions it has taken to avoid double counting vehicle registrations. 
+2.3.3.2 PHEV 
+The PHEV measurement will consider all incremental light-duty PHEVs on the road in 
+the Company’s service territory during each Rate Year. The Company primarily tracks 
+vehicles on the road in its service territory using Atlas’ EValuateNY, and any other 
+available sources, and may supplement with any other available sources.  If multiple 
+sources are used, the Company will demonstrate in its annual report to the Commission 
+the actions it has taken to avoid double counting vehicle registrations. 
+2.3.4 Targets 
+Targets are based on a combination of market forecasts and policy goals for adoption of 
+light-duty electric vehicles. The baseline and targets for the LDV Emissions EAM (“RYx 
+LDV Target”) for each Rate Year, expressed as ton CO2e are shown below for the 
+minimum, midpoint, and maximum level of achievement. 
+Level 
+RY1 (2023)  
+RY2 (2024)  
+RY3 (2025)  
+LDV  
+(ton CO2e) 
+Baseline  496,642 
+578,380 
+643,898 
+Min 
+521,474 
+607,299 
+676,093 
+Mid 
+624,640 
+921,156 
+1,385,881 
+ 
+11 Atlas EValuate: https://atlaspolicy.com/evaluateny/ 
+
+
+--- Page 13 ---
+ 
+Page 13 of 23 
+ 
+Max 
+727,806 
+1,235,013 
+2,095,669 
+Where, 
+RYx LDV Baseline 
+The level of adoption of electric vehicles projected 
+using the Electric Power Research Institute 
+(“EPRI”) light-duty vehicle forecast. The 
+incremental vehicle increases are converted to 
+lifetime CO2e reductions as described in section 
+2.3.3 above to determine a lifetime CO2e ton 
+baseline. 
+RYx LDV TargetMin 
+The minimum targets are set at 5% above the 
+baseline. 
+ 
+RYx LDV TargetMid  
+The Rate Year midpoint lifetime ton CO2e reduction 
+targets are based on the average of the rate year’s 
+minimum and maximum targets, calculated as 
+follows: 
+ 
+(RYx LDV TargetMin + RYx LDV TargetMax) / 2  
+RYx LDV TargetMax  
+Based on the Company achieving its share of the 
+light-duty electric vehicle adoption policy target of 
+850,000 LDVs statewide, or 229,232 vehicles in the 
+Con Edison service territory.  This policy target was 
+set based on meeting the goals under the 2013 Zero 
+Emission Vehicle (ZEV) multi-state memorandum 
+of understanding (MOU)12. A regression analysis 
+assuming exponential growth was performed to 
+extrapolate the trendline between the end of 2022 
+forecast and 2025 ZEV MOU target for cumulative 
+LDVs. The incremental vehicle increases are 
+converted to lifetime CO2e reductions as described 
+in section 2.3.3 above to determine the target 
+lifetime CO2e ton reductions.  
+2.3.5 Achievement 
+The Company will report achievement using the following steps: 
+• Step 1: Incremental lifetime CO2 emissions reductions associated with 
+incremental LDV sales in a given Rate Year will be calculated as described in 
+section 2.3.2 above.  
+ 
+12 State Zero-Emission Vehicle Programs, Memorandum of Understanding (October 24, 2013). At: 
+dec.ny.gov/docs/air_pdf/zevmou.pdf  
+
+
+--- Page 14 ---
+ 
+Page 14 of 23 
+ 
+• Step 2: The Company will compare the levels calculated in Step 1 to the targets 
+set forth in section 2.3.4 above and calculate the earned financial reward in a 
+given Rate Year, if any, using the approach set forth in section 1.1.3. 
+2.4 Transportation Interconnection Timeline EAM 
+2.4.1 Description 
+The Transportation Electrification Interconnection Timeline (“TE Interconnection”) 
+EAM incentivizes the Company to reduce the average timeline for transportation 
+electrification projects from application to energization, relative to a historical baseline, 
+for transportation electrification projects 300 kilowatts (kW) and larger each rate year. 
+For the purpose of this EAM, transportation electrification projects refer to cases for 
+which the electric vehicle load request is one-half or more of the total load request, and 
+the 300 kW threshold refers to the total transportation electrification load and does not 
+include any non-transportation electrification load.  
+2.4.2 Metric 
+The TE Interconnection EAM metric will measure reductions in the interconnection 
+timeline for transportation electrification projects of 300 kW and larger from application 
+to energization for six distinct categories of work performed for the interconnection. The 
+performance in each rate year will be assessed as a percent improvement in the timeline 
+for all transportation electrification projects completed in that year compared to the 
+baseline, developed as the average historical timelines from January 1, 2019, through 
+August 31, 2022. The six work categories are described below: 
+Work Category 
+Description 
+New Secondary Service Install 
+New service cable(s) and conduit(s) and 
+associated trenching required to service 
+new customer loads. 
+New Secondary Service Install & 
+System Upgrade 
+New service cable(s) and conduit(s) and 
+grid reinforcement required to service 
+new customer load; grid reinforcement 
+may include installing new transformers, 
+extending primary feeders, and/or new 
+service cable and conduit. 
+New Overhead Service Install & System 
+Upgrade 
+A new overhead service and grid 
+reinforcement required to service new 
+customer load; grid reinforcement may 
+include installing new poles, overhead 
+transformers, extending primary feeder, 
+and/or new overhead service cable. 
+Service Adequate – High Tension 
+The customer’s existing high tension 
+installation is adequate to support the 
+additional load being requested. Limited 
+utility work required. 
+
+
+--- Page 15 ---
+ 
+Page 15 of 23 
+ 
+New Vault Service Install 
+New underground transformers are 
+required to service the customer load. 
+These installations may be in the 
+franchise area or on customer property 
+and provide power at 120/208V or 
+265/460V. This may also require some 
+level of downstream grid reinforcement. 
+New High Tension Service 
+A new high tension installation is needed 
+to support the load requested by a 
+customer. The customer is fed from the 
+utility at the primary level (4KV, 13KV, 
+27KV, 33KV) and will have customer 
+owned step down transformers. This 
+may also require some level of grid 
+reinforcement. 
+The metric is calculated as the weighted average timeline to complete the transportation 
+electrification projects from application to energization. The weight is based on the 
+number of MWs completed in each of the work categories. In RY1, performance will be 
+measured with a straight MW weighting; in RY2 and RY3, the number of MWs 
+completed in the New High Tension service category will be doubled to provide 
+additional weight to this category.  
+The weighted average timeline is defined as: 
+RYx Weighted Average TE Timeline 
+=
+෍
+(RYx Average Time Work Categoryy
+6
+𝑦𝑦=𝑐𝑐𝑐𝑐𝑐𝑐𝑐𝑐𝑐𝑐𝑐𝑐𝑐𝑐𝑐𝑐
+∗ RYx MW Weight Work Categoryy) 
+Where, 
+x 
+1, 2 and 3 for Rate Year 1, Rate Year 2, or Rate Year 3, respectively. 
+y 
+New Secondary Service Install, New Secondary Service Install & System 
+Upgrade, New Overhead Service Install & System Upgrade, Service 
+Adequate – High Tension, New Vault Service Install and New High 
+Tension Service.  
+RYx Average Time 
+Work Categoryy 
+The average time in calendar days to complete projects for each of the six 
+respective work categories, calculated as follows: 
+∑Days to complete all projects  in work categoryy in RYx
+∑Total number of projects completed in work categoryy in RYx
+ 
+
+
+--- Page 16 ---
+ 
+Page 16 of 23 
+ 
+RYx MW Weight 
+Work Categoryy 
+The MW weighting for each of the six respective work categories, 
+calculated as follows: 
+ RYxMWy
+RYxMWtotal
+ 
+RYx MWy 
+Total number of MWs of all projects completed in work categoryy in the 
+rate year. 
+RYx MWtotal 
+Total number of MWs of all projects completed in all six work categories 
+in the rate year.  
+For RY2 and RY3, if there are completed New High Tension Service project(s), this work 
+category will be double weighted.  This can be accomplished by doubling the number of 
+MWs in the New High Tension Service work category prior to performing all calculations. 
+2.4.3 Measurement 
+The Company will develop the timeline data for each project from its Customer Project 
+Management System (“CPMS”) which tracks project timelines from application 
+submission to energization. The interconnection timeline for each project completed in 
+the given rate year will be measured based on the timelines in CPMS, and the calculation 
+for the metric will be completed as described above in section 2.4.2.  
+2.4.4 Targets 
+Targets (“RYx TE Interconnection Target”) for performance will be set as a percent 
+improvement in the weighted average interconnection timeline relative to the historical 
+baseline.  The percent improvements for the minimum, midpoint, and maximum in each 
+Rate Year are shown in the table below. 
+ 
+ 
+Level 
+RY1 
+(2023) 
+RY2 
+(2024) 
+RY3 
+(2025) 
+TE Interconnection  
+(Percent Improvement in Timeline 
+(Weighted)) 
+Min 
+8% 
+9% 
+13% 
+Mid 
+15% 
+18% 
+20% 
+Max 
+25% 
+30% 
+35% 
+The baseline for each rate year will developed based on the weighted average historic 
+average number of days from project application to energization for all load request 
+projects completed by Con Edison across the six work categories from January 1, 2019 
+to August 31, 2022. The MW weighting will be applied to the historic averages to serve 
+as a proportional comparison to the performance of each respective Rate Year.  
+The baseline is calculated as follows: 
+Baseline Weighted Average Transportation Electrification Timeline 
+
+
+--- Page 17 ---
+ 
+Page 17 of 23 
+ 
+=
+෍
+൫Historic Average Time Work Categoryy
+6
+𝑦𝑦=𝑐𝑐𝑐𝑐𝑐𝑐𝑐𝑐𝑐𝑐𝑐𝑐𝑐𝑐𝑐𝑐
+∗ RYx MW Weight Work Categoryy൯ 
+Where, 
+x 
+1, 2 and 3 for Rate Year 1, Rate Year 2, or Rate Year 3, 
+respectively. 
+y 
+New Secondary Service Install, New Secondary Service Install 
+& System Upgrade, New Overhead Service Install & System 
+Upgrade, Service Adequate – High Tension, New Vault Service 
+Install and New High Tension Service.  
+Historic Average Time 
+Work Categoryy 
+Averages of all projects completed by the Company for each of 
+the respective six work categories from January 1, 2019 to 
+August 31, 2022 (shown in Table 6 below). 
+RYx MW Weight Work 
+Category 
+The MW weighting for each of the six respective work 
+categories, calculated as follows: 
+ 
+ 
+ RYxMWy
+RYxMWtotal
+ 
+ 
+MWy 
+Total number of MWs of all projects completed in work 
+categoryy (shown in Table 6 below). 
+MWtotal 
+Total number of MWs of all projects completed in all six work 
+categories.  
+The historic averages and total MW completed for the work categories are outlined in the 
+table below: 
+Table 6. Historic Interconnection Timeline and MW Completed 
+Category 
+Average timeline 
+(calendar days) 
+Total MW 
+completed 
+New Secondary Service Install 
+594 
+104 
+New Secondary Service Install & System Upgrade 
+741 
+103 
+New Overhead Service Install & System Upgrade 
+774 
+37 
+Service Adequate – High Tension 
+925 
+32 
+New Vault Service Install 
+1156 
+167 
+New High Tension Service 
+2266 
+23 
+
+
+--- Page 18 ---
+ 
+Page 18 of 23 
+ 
+2.4.5 Achievement 
+The Company will report achievement using the following steps. 
+• Step 1: The Company will collect data on the total number of MWs completed in 
+each Rate Year for each work category and the average number of days to 
+complete jobs in each work category from CPMS. The RYx Weighted Average 
+Transportation Electrification Timeline and Baseline Weighted Average 
+Transportation Electrification Timeline will be calculated as described above. 
+The reduction between baseline and RYx will be expressed as a percentage and 
+calculated as follows: 
+RYx Performance  
+=
+൬ Baseline Weighted Average Transportation Electrification Timeline −
+ RYx Weighted Average Transportation Electrification Timeline
+൰
+Baseline Weighted Average Transportation Electrification Timeline
+ 
+• Step 2: The Company will compare the RYx Performance calculated in Step 1 
+to the targets set forth in section 2.4.4 above and calculate the earned financial 
+reward in a given Rate Year, if any, using the approach set forth in section 
+1.1.3.  
+2.5 Managed Charging EAM 
+2.5.1 Description 
+The Managed Charging EAM is intended to decrease peak coincident electric vehicle 
+charging demand through grid beneficial behavior in the Company’s Managed 
+Charging program(s).  
+The details of the Managed Charging EAM(s) for all three years of managed charging 
+program will be developed through a collaborative to be commenced within 30 days 
+from January 19, 2023, with the objective of completing work within 60 days of 
+commencement. Meetings will be held weekly or as otherwise determined by the 
+participants.  If needed, the parties may agree to extend the 60 day period.   
+In the event the collaborative reaches consensus on the EAM(s), the Company, working 
+with collaborative participants, will prepare a consensus report for filing with the 
+Commission describing that agreement no later than 10 days after agreement is reached.  
+The report will include a detailed description of the metrics, targets and basis points. If 
+the collaborative does not reach consensus on the EAM(s) , parties may file comments 
+on the collaborative discussion and/or recommendations to the Commission regarding 
+the EAM(s) 15 days after the collaborative ends.  Parties also may file reply comments 
+7 days thereafter.   The parties will endeavor to file either a consensus document or 
+comments prior to a Commission ruling on the Joint Proposal so that the EAM(s) can 
+be addressed in the Commission decision on this Joint Proposal. 
+
+
+--- Page 19 ---
+ 
+Page 19 of 23 
+ 
+A maximum of 10 basis points will be reserved for the EAM(s). 
+ 
+2.6 Distributed Energy Resource (“DER”) Utilization (DERU) Solar EAM 
+2.6.1 Description 
+The Distributed Energy Resource (“DER”) Utilization (“DERU”) Solar EAM 
+encourages the Company to work with DER providers and expand the use of solar DER 
+in its service territory for the purposes of reducing customer reliance on grid-supplied 
+electricity.  
+2.6.2 Metric 
+The DERU Solar metric is the annual, incremental nameplate alternating current 
+(“AC”)-MW capacity of solar photovoltaics (“solar PV”) interconnected in Con 
+Edison’s territory, calculated as follows: 
+RY𝑥𝑥 DERU Solar = ∑RY𝑥𝑥 Solar PV MW interconnections 
+Where, 
+x 
+1, 2, and 3 for Rate Year 1, Rate Year 2, or 
+Rate Year 3, respectively. 
+RYx DERU Solar 
+Summation of solar PV projects 
+interconnected within Con Edison’s service 
+territory in Rate Year x, via the New York 
+State Standardized Interconnection 
+Requirements (“SIR”) process, measured in 
+AC-MW. 
+RYx Solar PV MW interconnections 
+The AC-MW capacity of each solar PV 
+project interconnected in Rate Year x 
+through the SIR process. 
+2.6.3 Measurement 
+Solar PV interconnections will be measured by the nameplate AC-MW capacity of each 
+project that completes the SIR process and is approved to commence operation, as 
+reported in the Company’s SIR Inventory Report for each Rate Year.  
+2.6.4 Target 
+The EAM baseline and targets for DERU Solar (“RYx DERU Solar Target”) for each 
+Rate Year are shown below for the minimum, midpoint, and maximum level of 
+achievement. 
+ 
+Level 
+2023 (RY1) 
+2024 (RY2) 
+2025 (RY3) 
+Baseline 
+88.55   
+97.18  
+105.82   
+
+
+--- Page 20 ---
+ 
+Page 20 of 23 
+ 
+DERU 
+Solar (AC-
+MW) 
+Min 
+95.19  
+104.47  
+113.75  
+Mid 
+110.68  
+121.48  
+132.27  
+Max 
+132.82 
+145.77 
+158.73 
+ 
+The baseline for the DERU Solar EAM was developed based on a regression trendline 
+using actual 2017-2022 annual solar interconnections. For each Rate Year, the baseline is 
+greater than 56.25 MW, which is the annual apportionment of the goal to install 450 MW 
+of incremental solar in Con Edison’s service territory by 2030, per the NY-Sun Expansion 
+Order. 
+Targets are set at 7.5 percent, 25 percent, and 50 percent above the baseline for the 
+minimum, midpoint, and maximum targets, respectively. 
+2.6.5 Achievement 
+The Company will report achievement using the following steps: 
+• Step 1: Report the capacity of solar PV installations that complete the SIR 
+process and are approved to commence operation in a given Rate Year, 
+measured in AC-MW. 
+• Step 2: Compare the capacity determined in Step 1, RYx DERU Solar, to the 
+baseline and targets set forth in Section 2.6.4, and calculate the earned financial 
+reward in a given Rate Year, if any, as detailed in section 1.1.3.  
+ 
+2.7 DERU Storage EAM 
+2.7.1 Description 
+The DERU Storage EAM incentivizes the Company to support the installation of 
+customer-sited energy storage systems (“ESS”) of 5 MW or less (excluding Non-Wires 
+Alternatives projects).13 
+2.7.2 Metric 
+The DERU Storage metric is the incremental nameplate AC-MW capacity of customer-
+sited ESS of 5 MW or less interconnected in Con Edison’s service territory, calculated 
+as follows: 
+RY𝑥𝑥 DERU Storage = ∑RY𝑥𝑥 ESS MW interconnections 
+Where, 
+x 
+1, 2, and 3 for Rate Year 1, Rate Year 2, or 
+Rate Year 3, respectively 
+ 
+13 Con Edison uses the marketing term “Non-Wires Solutions.” 
+
+
+--- Page 21 ---
+ 
+Page 21 of 23 
+ 
+RYx DERU Storage 
+Summation of ESS projects’ capacity that 
+complete the SIR process and are approved 
+to commence operation within Con Edison’s 
+service territory in Rate Year x, measured in 
+AC-MW. 
+ 
+RYx ESS MW interconnections 
+The AC-MW capacity of each ESS project 
+that completes the SIR process and is 
+approved to commence operation within 
+Con Edison’s service territory in Rate Year 
+x. 
+2.7.3 Measurement 
+The capacity of ESS installations will be measured by the inverter AC nameplate rating 
+of each project that completes the SIR process and is approved to commence operation, 
+as reported in the Company’s SIR Inventory Report for each Rate Year. The Company 
+will identify in its EAM filing any incremental interconnected capacity (AC-MW) from 
+projects less than or equal to 5 MW that are under contract with Con Edison through its 
+Non-Wires Alternatives programs, and those MW will be removed from the 
+measurement. 
+2.7.4 Target 
+The EAM targets for DERU Storage (“RYx DERU Storage Target”) for each Rate Year 
+are shown below for the minimum, midpoint, and maximum level of achievement. 
+ 
+ 
+Level 
+RY1 (2023)  
+RY2 (2024)  
+RY3 (2025)  
+DERU 
+Storage 
+(AC-MW) 
+Baseline  
+9.83 
+15.47 
+24.36 
+Min 
+10.81  
+17.02  
+26.80  
+Mid 
+12.28  
+19.34  
+30.45  
+Max 
+14.74 
+23.21 
+36.54 
+The targets are based on an exponential growth curve to achieve a 2030 goal for SIR storage 
+interconnections in Con Edison’s service territory. The minimum, midpoint, and maximum 
+targets are set at 10 percent, 25 percent, and 50 percent above the baseline. 
+2.7.5 Achievement 
+The Company will report achievement using the following steps: 
+• Step 1: Report the capacity of ESS projects that complete the SIR process and 
+are approved to commence operation in a given Rate Year, measured in AC-
+MW. 
+
+
+--- Page 22 ---
+ 
+Page 22 of 23 
+ 
+• Step 2: Compare the capacity of ESS projects determined in Step 1, RYx DERU 
+Storage, to the baseline and targets set forth in Section 2.7.4, and calculate the 
+earned financial reward in a given Rate Year, if any, as detailed in section 1.1.3.  
+
+
+--- Page 23 ---
+ 
+Page 23 of 23 
+ 
+Appendix 22 - Attachment A 
+Data inputs are consistent with the Beneficial Electrification EAM from the 2020 - 2022 rate period and were originally developed 
+through a collaborative process with DPS and other stakeholders during 2017 - 2019 rate period. 
+ 
+kg CO2e avoided / MWh Light Duty BEV Analysis
+kg CO2e avoided / MWh Light Duty PHEV Analysis
+Item
+Value
+Item
+Value
+Btu / gallon gasoline
+123,000
+  
+Btu / gallon gasoline
+123,000
+  
+Btu / kWh
+3,414
+          
+Btu / kWh
+3,414
+          
+kWh / gallon gasoline
+36.03
+          
+kWh / gallon gasoline
+36.03
+          
+Gallons / MWh
+27.76
+          
+Gallons / MWh
+27.76
+          
+kg CO2e emissions / liter gasoline
+2.425
+          
+kg CO2e emissions / liter gasoline
+2.425
+          
+kg CO2e emissions / gallon gasoline
+8.50
+            
+kg CO2e emissions / gallon gasoline
+8.50
+            
+kg CO2e emissions / MWh  (gasoline fuel)
+235.93
+        
+kg CO2e emissions / MWh  (gasoline fuel)
+235.93
+        
+Passenger vehicle efficiency (miles per gallon gasoline)
+24.20
+          
+Passenger vehicle efficiency (miles per gallon gasoline)
+24.50
+          
+miles per MWh (gasoline car)
+671.70
+        
+miles per MWh (gasoline car)
+680.02
+        
+kg CO2e / mile (gasoline car)
+0.35
+            
+kg CO2e / mile (gasoline car)
+0.35
+            
+Passenger BEV efficiency (kWh / mile)
+0.32
+            
+Passenger PHEV efficiency (kWh / mile)
+0.37
+            
+EPA eGrid figure Emission Rate (kg / kWh)
+0.46
+            
+EPA eGrid figure Emission Rate (kg / kWh)
+0.46
+            
+kg CO2e/mile (electric car)
+0.15
+            
+kg CO2e/mile (electric car)
+0.17
+            
+kgCO2e savings/mile (gas-electric)
+0.2035
+        
+kgCO2e savings/mile (gas-electric)
+0.1776
+        
+Miles traveled / vehicle / year
+11,467
+        
+Miles traveled / vehicle / year
+11,467
+        
+Net kg CO2e avoided / per EV per year
+2,334
+          
+Net kg CO2e avoided / per EV per year
+2,036
+          

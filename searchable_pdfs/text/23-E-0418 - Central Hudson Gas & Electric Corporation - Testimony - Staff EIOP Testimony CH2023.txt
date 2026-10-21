@@ -1,0 +1,5627 @@
+--- Page 1 ---
+ 
+ 
+ 
+ 
+ 
+ 
+ 
+BEFORE THE 
+STATE OF NEW YORK 
+PUBLIC SERVICE COMMISSION 
+ 
+ 
+ 
+In the Matter of 
+ 
+Central Hudson Gas & Electric Corporation 
+ 
+Cases 23-E-0418 & 23-G-0419 
+ 
+November 2023 
+ 
+ 
+Prepared Testimony of: 
+ 
+Staff Electric Infrastructure 
+and Operations Panel 
+ 
+Michael Tushaj 
+Utility Engineering Specialist 2 
+ 
+Shahriar Chowdhury 
+Assistant Engineer (Electrical) 
+ 
+Mary Ferrer  
+Utility Supervisor 
+ 
+Gregory Crawford 
+Engineer Trainee 
+ 
+ 
+Office of Energy System 
+Performance & Preparedness 
+ 
+Office of Resilience and 
+Emergency Preparedness 
+ 
+State of New York 
+Department of Public Service 
+Three Empire State Plaza 
+Albany, New York  12223-1350 
+
+
+--- Page 2 ---
+Cases 23-E-0418 & 23-G-0419 
+ 
+Staff EIOP 
+ 
+ 
+1 
+ 
+Q. 
+Members of the Staff Electric Infrastructure and 
+1 
+Operations Panel, referred to as the Panel, 
+2 
+please state your names, employer, and business 
+3 
+address. 
+4 
+A. 
+Our names are Michael Tushaj, Shahriar 
+5 
+Chowdhury, Mary Ferrer, and Gregory Crawford. 
+6 
+Q.  Mr. Tushaj, what is your position at the New 
+7 
+York State Department of Public Service, 
+8 
+referred to as the Department? 
+9 
+A. 
+I am employed as a Utility Engineering 
+10 
+Specialist 2 within the Electric Safety and 
+11 
+Reliability, or ESR, section of the Office of 
+12 
+Electric System Planning and Performance. 
+13 
+Q. 
+Mr. Tushaj, please briefly state your 
+14 
+educational background and professional 
+15 
+experience. 
+16 
+A. 
+I received a dual Bachelor of Science degree in 
+17 
+Civil Engineering and Environmental Engineering 
+18 
+from Clarkson University in 2007.  After 
+19 
+graduating from Clarkson University, I obtained 
+20 
+a Master of Science degree in Water Resources 
+21 
+Engineering from Lund University located in 
+22 
+Lund, Sweden.  After graduating from Lund 
+23 
+University, I worked for Eastman Kodak Company 
+24 
+
+
+--- Page 3 ---
+Cases 23-E-0418 & 23-G-0419 
+ 
+Staff EIOP 
+ 
+ 
+2 
+ 
+as a contracted Software Quality Assurance 
+1 
+Engineer.  My responsibilities included project 
+2 
+management of multiple digital accessories, 
+3 
+error regression testing, and authoring and 
+4 
+implementing of digital testing procedures.  In 
+5 
+2013, I joined New York Spring Water Company, 
+6 
+where my responsibilities included computer-
+7 
+aided drafting, water quality assurance, process 
+8 
+engineering and hydrological testing of spring 
+9 
+head flow rates.  I joined the Department in 
+10 
+2014 as a Junior Engineer in the gas rates 
+11 
+section.  In 2017, as a part of the Department’s 
+12 
+twelve-month cross training program, I took a 
+13 
+position within the gas policy section.  In the 
+14 
+latter portion of 2018, I joined the Bulk 
+15 
+Electric Systems section as a Utility 
+16 
+Engineering Specialist 2. 
+17 
+Q. 
+Please describe your current duties at the 
+18 
+Department. 
+19 
+A. 
+My duties include the certification review of 
+20 
+Public Service Law, or PSL, Article 10 filings 
+21 
+of new and repowered or modified major electric 
+22 
+generating facilities in New York State, PSL 
+23 
+Article VII filings for major gas and electric 
+24 
+
+
+--- Page 4 ---
+Cases 23-E-0418 & 23-G-0419 
+ 
+Staff EIOP 
+ 
+ 
+3 
+ 
+transmission facilities, capital and Operation 
+1 
+and Maintenance, or O&M, budgeting and 
+2 
+forecasting of utility transmission and 
+3 
+substation proposals, reliability performance 
+4 
+mechanisms, and compliance with electric safety 
+5 
+standards. 
+6 
+Q. 
+Have you previously testified before the Public 
+7 
+Service Commission, or Commission? 
+8 
+A. 
+Yes.  I have previously testified before the 
+9 
+Commission in several rate proceedings, 
+10 
+including, but not limited to, the following: 
+11 
+Case 14-G-0319, Central Hudson Gas and Electric 
+12 
+Corporation, referred to as Central Hudson or 
+13 
+the Company; Case 15-G-0382, St. Lawrence Gas 
+14 
+Company, Inc.; Case 16-G-0257, National Fuel Gas 
+15 
+Distribution Corporation; Cases 16-G-0558 and 
+16 
+16-E-0059, Keyspan Gas East Corporation d/b/a 
+17 
+National Grid and Brooklyn Union Gas Company 
+18 
+d/b/a National Grid New York; Case 17-G-0239, 
+19 
+Niagara Mohawk Power Company d/b/a National 
+20 
+Grid, or Niagara Mohawk; Case 17-G-0460, Central 
+21 
+Hudson; Case 18-G-0068, Orange and Rockland 
+22 
+Utilities, Inc., or O&R; Case 19-E-0065 
+23 
+Consolidated Edison Company of New York, Inc.; 
+24 
+
+
+--- Page 5 ---
+Cases 23-E-0418 & 23-G-0419 
+ 
+Staff EIOP 
+ 
+ 
+4 
+ 
+and Case 20-E-0428, Central Hudson. 
+1 
+Q. 
+Mr. Chowdhury, what is your position at the 
+2 
+Department? 
+3 
+A.  I am an Assistant Engineer in the ESR section of 
+4 
+the Office of Electric System Planning and 
+5 
+Performance. 
+6 
+Q.  Mr. Chowdhury, please briefly state your 
+7 
+educational background and professional 
+8 
+experience. 
+9 
+A. 
+I received my Bachelor of Science in Electrical 
+10 
+Engineering from The City College of New York.  
+11 
+I have been employed at the Department since 
+12 
+August 2016.  Prior to my employment at the 
+13 
+Department, I worked as a Principal Technician 
+14 
+in the Process Integration section at Global 
+15 
+Foundries in Malta, New York for four years, 
+16 
+with a focus in research and development of 
+17 
+next-generation manufacturing processes of 
+18 
+microprocessors. 
+19 
+Q. 
+Please describe your current duties at the 
+20 
+Department. 
+21 
+A. 
+My job duties in the ESR section include work 
+22 
+related to, but not limited to, distribution 
+23 
+interconnection, electric safety complaints and 
+24 
+
+
+--- Page 6 ---
+Cases 23-E-0418 & 23-G-0419 
+ 
+Staff EIOP 
+ 
+ 
+5 
+ 
+investigation, annual audits of utility field 
+1 
+inspections, pole attachments proceedings, the 
+2 
+Interconnection Technical Working Group jointly 
+3 
+hosted by the Department and the New York State 
+4 
+Energy Research and Development Authority, 
+5 
+technical review of projects, management of 
+6 
+Standard Interconnection Requirement queue data, 
+7 
+and other interconnection-related activity. 
+8 
+Q. 
+Have you previously testified before the 
+9 
+Commission? 
+10 
+A. 
+Yes, I have previously testified before the 
+11 
+Commission in the following rate proceedings: 
+12 
+Case 18-E-0067, O&R; and Case 20-E-0428, Central 
+13 
+Hudson. 
+14 
+Q. 
+Ms. Ferrer, what is your position at the 
+15 
+Department? 
+16 
+A. 
+I am employed as a Utility Supervisor in the 
+17 
+Resiliency Section in the Office of Resiliency 
+18 
+and Emergency Preparedness, or OREP. 
+19 
+Q. 
+Ms. Ferrer, please briefly state your 
+20 
+educational background and professional 
+21 
+experience. 
+22 
+A. 
+I graduated from the State University of New 
+23 
+York Institute of Technology at Utica/Rome with 
+24 
+
+
+--- Page 7 ---
+Cases 23-E-0418 & 23-G-0419 
+ 
+Staff EIOP 
+ 
+ 
+6 
+ 
+a Bachelor of Science Degree in Industrial 
+1 
+Engineering Technology.  I also received a 
+2 
+Master of Business Administration degree from 
+3 
+the University at Albany.  I was employed by 
+4 
+Everett Charles Technologies, or ECT, in Clifton 
+5 
+Park, New York.  ECT was a private company that 
+6 
+manufactured and customized fixtures for testing 
+7 
+loaded printed circuit boards.  During my 
+8 
+employment with ECT, I held several positions 
+9 
+including CAD operator, mechanical designer, 
+10 
+engineer, and lead engineer.  I joined the 
+11 
+Department in October 2007 as a Junior Engineer 
+12 
+in the Water Rates Section.  In 2009, I joined 
+13 
+the Electric Distribution Section as a Utility 
+14 
+Engineer 1.  In February of 2020, I joined the 
+15 
+Office of Resiliency and Emergency Preparedness 
+16 
+as a Utility Engineer 3. 
+17 
+Q. 
+Please describe your current duties at the 
+18 
+Department. 
+19 
+A. 
+My responsibilities include supervising 
+20 
+engineers, reviewing resiliency efforts, 
+21 
+reviewing electric O&M programs, and monitoring 
+22 
+electric utility compliance with reliability and 
+23 
+safety standards. 
+24 
+
+
+--- Page 8 ---
+Cases 23-E-0418 & 23-G-0419 
+ 
+Staff EIOP 
+ 
+ 
+7 
+ 
+Q. 
+Have you previously provided testimony in rate 
+1 
+proceedings before the Commission? 
+2 
+A. 
+Yes, I provided testimony in the following rate 
+3 
+cases: Case 09-W-0237, New York Water Service 
+4 
+Corporation; Case 12-M-0192, the Acquisition of 
+5 
+Central Hudson Energy Group, by Fortis Inc; Case 
+6 
+14-E-0318, Central Hudson; Case 17-E-0238, 
+7 
+Niagara Mohawk; Case 22-E-0317, New York State 
+8 
+Electric & Gas Corporation; and Case 22-E-0319, 
+9 
+Rochester Gas and Electric Corporation.    
+10 
+Q. 
+Mr. Crawford, what is your position at the 
+11 
+Department? 
+12 
+A. 
+I am an Engineer Trainee in the Office of 
+13 
+Resilience and Emergency Preparedness. 
+14 
+Q. 
+Mr. Crawford, please briefly state your 
+15 
+educational background and professional 
+16 
+experience. 
+17 
+A. 
+I received my Associates degree in Mechatronics 
+18 
+from the State University of New York in Delhi 
+19 
+in 2020.  In 2021, I graduated from Thomas 
+20 
+Edison State University with a Bachelor of 
+21 
+Science degree in Electrical Engineering 
+22 
+Technology. 
+23 
+Q. 
+Please describe your current duties at the 
+24 
+
+
+--- Page 9 ---
+Cases 23-E-0418 & 23-G-0419 
+ 
+Staff EIOP 
+ 
+ 
+8 
+ 
+Department. 
+1 
+A. 
+In September 2022, I joined the Department as an 
+2 
+Engineer Trainee in OREP.  My job duties in OREP 
+3 
+include, but are not limited to, evaluating 
+4 
+electric utilities’ emergency preparedness and 
+5 
+response procedures, monitoring electric utility 
+6 
+storm response, assessment of utility vegetation 
+7 
+programs, and assessing electric utility 
+8 
+resiliency and reliability programs. 
+9 
+Q. 
+Have you previously filed testimony before the 
+10 
+Commission in other proceedings? 
+11 
+A. 
+No. 
+12 
+Q. 
+Are you training to become a licensed 
+13 
+professional engineer? 
+14 
+A. 
+Yes.  I am currently studying for the 
+15 
+fundamentals section of the New York State 
+16 
+Professional Engineering Exam and am working 
+17 
+towards obtaining my professional engineering 
+18 
+license. 
+19 
+Scope of Testimony 
+20 
+Q. 
+What is the purpose of the Panel’s testimony? 
+21 
+A. 
+The purpose of our testimony is to address the 
+22 
+following: 1) Central Hudson’s Electric Capital 
+23 
+Expenditures presented in the direct testimony 
+24 
+
+
+--- Page 10 ---
+Cases 23-E-0418 & 23-G-0419 
+ 
+Staff EIOP 
+ 
+ 
+9 
+ 
+and exhibits of the Company’s Electric Capital 
+1 
+and Operations Panel, referred to as the ECOP; 
+2 
+2) the Company’s incremental full time 
+3 
+equivalent, or FTE, electric operations staffing 
+4 
+increase; 3) the Company’s proposed changes to 
+5 
+its major storm reserve; and 4) the Company’s 
+6 
+proposed changes to its electric reliability 
+7 
+metrics. 
+8 
+Q. 
+In this testimony, will the Panel refer to, or 
+9 
+rely upon, any information obtained during the 
+10 
+discovery phase of this proceeding? 
+11 
+A. 
+Yes, the Panel refers to, and relies upon, 
+12 
+several responses to Information Requests, 
+13 
+referred to as IRs, which are contained in 
+14 
+Exhibit__(SEIOP-1).  We will refer to these IR 
+15 
+responses by the designation given to them by 
+16 
+the Department, for example, DPS-123. 
+17 
+Q.  Is the Panel sponsoring any additional exhibits 
+18 
+in support of this Testimony? 
+19 
+A. 
+Yes, we have two additional exhibits.  
+20 
+Exhibit__(SEIOP-2) contains the Company’s 
+21 
+capital expenditure proposals, itemized by 
+22 
+category, for the calendar years, also referred 
+23 
+to as CY, 2024 through 2028, as compared to the 
+24 
+
+
+--- Page 11 ---
+Cases 23-E-0418 & 23-G-0419 
+ 
+Staff EIOP 
+ 
+ 
+10 
+ 
+Panel’s.  Exhibit__(SEIOP-3) is a workpaper that 
+1 
+the Panel developed to spot check the Company’s 
+2 
+historically reported capital expenditure 
+3 
+actuals and budgets for some of its programs and 
+4 
+projects, by category.  The Panel’s testimony 
+5 
+and exhibits support our recommendation to 
+6 
+accept the Company’s electric capital forecast 
+7 
+with two modifications, discussed in more detail 
+8 
+later in our testimony. 
+9 
+Electric Capital Expenditures 
+10 
+Q. 
+Please summarize the Electric Capital 
+11 
+Expenditures proposed by the Company. 
+12 
+A. 
+In the ECOP’s direct testimony, the Company 
+13 
+projected total electric capital additions, less 
+14 
+cost of removal, of approximately $148.8 
+15 
+million, $146.0 million, $148.9 million, $155.2 
+16 
+million, and $155.2 million for calendar year 
+17 
+2024 through 2028, respectively, totaling 
+18 
+approximately $754.2 million over the five 
+19 
+calendar years.  The Company’s Excel workpaper 
+20 
+titled “2024-2028 Capital Expenditures Workpaper 
+21 
+(Final).xlsx” that was filed with the ECOP’s 
+22 
+direct testimony, and referred to in our 
+23 
+testimony as the Capital Expenditures Workpaper, 
+24 
+
+
+--- Page 12 ---
+Cases 23-E-0418 & 23-G-0419 
+ 
+Staff EIOP 
+ 
+ 
+11 
+ 
+further breaks down their electric capital 
+1 
+proposal into the following eight categories: 1) 
+2 
+Hydro & Gas Turbines; 2) Transmission; 3) 
+3 
+Substation; 4) New Business; 5) Distribution 
+4 
+Improvements; 6) Transformers; 7) Meters; and 8) 
+5 
+Storms.  The Panel’s adjustments to each of 
+6 
+these categories are discussed in further detail 
+7 
+later in our testimony, and reference the 
+8 
+Company’s annual projections depicted in its 
+9 
+aforementioned workpaper, and subsequent updates 
+10 
+to this workpaper.  The Company’s Capital 
+11 
+Expenditures Workpaper also included a “FERC 
+12 
+Transmission” category that was included in the 
+13 
+Company’s 2024-2028 Capital Budget Book filed on 
+14 
+June 30, 2023 in Cases 20-E-0428 and 20-G-0429, 
+15 
+referred to as the Five-Year Capital Plan, as 
+16 
+outlined on page 12 of the ECOP’s direct 
+17 
+testimony.  We will not be addressing this 
+18 
+category, however, as it is outside the scope of 
+19 
+these rate proceedings. 
+20 
+Q. 
+What is the scope of your review? 
+21 
+A. 
+This testimony addresses five calendar years of 
+22 
+the Company’s proposed five-year capital 
+23 
+projects.  Our capital addition recommendations 
+24 
+
+
+--- Page 13 ---
+Cases 23-E-0418 & 23-G-0419 
+ 
+Staff EIOP 
+ 
+ 
+12 
+ 
+are presented in the same format as the 
+1 
+Company’s “Final Proposed Expenditures W/ AFUDC” 
+2 
+table as shown in Exhibit__(ECOP-3). 
+3 
+Q. 
+Did the Panel review the Company’s proposed 
+4 
+programs and projects? 
+5 
+A. 
+Yes, the Panel reviewed the Company’s proposed 
+6 
+projects and programs in accordance with the 
+7 
+Company’s historical programs and regulatory 
+8 
+initiatives, and in the context of the Company’s 
+9 
+continuing programs.  Further details, including 
+10 
+descriptions of our adjustments to each of the 
+11 
+proposed categories, are discussed later and 
+12 
+depicted in Exhibit__(SEIOP-2). 
+13 
+Q. 
+Did the Panel identify any issues with how the 
+14 
+Company presented its capital data in this 
+15 
+proceeding? 
+16 
+A. 
+Yes.  We identified two main problems with the 
+17 
+presentation of the Company’s capital data in 
+18 
+this proceeding.  First, the Company’s 
+19 
+forecasted capital project costs were presented 
+20 
+in a manner that did not match the format in 
+21 
+which the information was previously presented 
+22 
+during the Company’s prior rate proceeding in 
+23 
+Cases 20-E-0428 and 20-G-0429, referred to as 
+24 
+
+
+--- Page 14 ---
+Cases 23-E-0418 & 23-G-0419 
+ 
+Staff EIOP 
+ 
+ 
+13 
+ 
+the 2020 Rate Case.  As such, there was a lack 
+1 
+of transparency that created unnecessary 
+2 
+difficulty in both matching individual projects 
+3 
+to the programs that the Company had identified 
+4 
+historically, and analyzing the Company’s 
+5 
+forecasted project costs in the context of 
+6 
+historical and ongoing programs.  Second, the 
+7 
+Panel identified numerous discrepancies between 
+8 
+the historical budgeted and actual spending 
+9 
+presented by the Company in this rate 
+10 
+proceeding, and the historical budgeted and 
+11 
+actual spending for the same time periods that 
+12 
+were presented by the Company in its previous 
+13 
+rate case. 
+14 
+Q. 
+Regarding the Panel’s concern with the Company’s 
+15 
+forecasted capital project costs in the context 
+16 
+of its historical and ongoing programs, explain 
+17 
+how capital project costs were previously 
+18 
+presented by the Company. 
+19 
+A. 
+In the Company’s prior rate proceeding in the 
+20 
+2020 Rate Case, the Company provided its 
+21 
+forecasted capital costs by cost category, for 
+22 
+example, Transmission, Distribution 
+23 
+Improvements, Substation, et cetera.  Projects 
+24 
+
+
+--- Page 15 ---
+Cases 23-E-0418 & 23-G-0419 
+ 
+Staff EIOP 
+ 
+ 
+14 
+ 
+of similar work type and scope, and that were 
+1 
+included within the same category, were 
+2 
+identified, and then grouped into larger 
+3 
+programs.  It was in the format of these 
+4 
+Company-identified programs that the Company 
+5 
+forecasted its future capital need, by category.  
+6 
+Staff reviewed the Company’s capital programs 
+7 
+and forecasts in the 2020 Rate Case based on 
+8 
+this format. 
+9 
+Q. 
+Why is it important for Staff to be able to 
+10 
+understand forecasted capital project costs in 
+11 
+the context of a utility’s historical and 
+12 
+ongoing programs? 
+13 
+A. 
+The core mission of the Department is to ensure 
+14 
+affordable, safe, secure, and reliable access to 
+15 
+electric, gas, steam, telecommunications, and 
+16 
+water services for New York State’s residential 
+17 
+and business consumers, at just and reasonable 
+18 
+rates, while protecting the natural environment.  
+19 
+Staff’s role, in the context of reviewing 
+20 
+utility capital projects, is focused on ensuring 
+21 
+that forecasted projects are in the best 
+22 
+interest of customers, such that they are 
+23 
+necessary from an electric safety, reliability, 
+24 
+
+
+--- Page 16 ---
+Cases 23-E-0418 & 23-G-0419 
+ 
+Staff EIOP 
+ 
+ 
+15 
+ 
+and resiliency perspective, while also taking 
+1 
+into consideration the costs associated with 
+2 
+such projects and programs and their respective 
+3 
+impacts on customers.  A utility rate plan, 
+4 
+whether in the context of a litigated rate case 
+5 
+or a negotiated settlement, includes forecasted 
+6 
+capital costs for specific, utility-identified 
+7 
+programs, upon which customer rates will be 
+8 
+derived.  If a utility’s capital project 
+9 
+forecasts are not transparent in the context of 
+10 
+its historical programs, it creates unnecessary 
+11 
+difficulty in understanding and comparing 
+12 
+historic actual versus future forecasted 
+13 
+expenditures and, therefore, determining whether 
+14 
+future capital spending is just and reasonable.  
+15 
+This is not only true for Staff, but it is 
+16 
+likely more difficult for stakeholders to 
+17 
+understand.  Additionally, changing the method 
+18 
+of forecasting capital programs between rate 
+19 
+proceedings creates more layers of difficulty 
+20 
+for a utility, Staff, and stakeholders when 
+21 
+trying to track historic and forecasted actual 
+22 
+and budgeted costs. 
+23 
+Q. 
+How did the Company present its forecasted 
+24 
+
+
+--- Page 17 ---
+Cases 23-E-0418 & 23-G-0419 
+ 
+Staff EIOP 
+ 
+ 
+16 
+ 
+capital project costs in this current rate 
+1 
+proceeding? 
+2 
+A. 
+Initially, as part of its pre-filed testimony 
+3 
+and workpapers, the Company developed a five-
+4 
+year electric capital plan broken out into 
+5 
+several categories of spending based on a 
+6 
+combination of system needs and trends.  After 
+7 
+developing its Five-Year Capital Plan, and to 
+8 
+further moderate the capital spending request in 
+9 
+this proceeding, Central Hudson performed in-
+10 
+depth, project-by-project reviews for each of 
+11 
+its categories.  The result of this in-depth 
+12 
+review yielded a reduction to its Five-Year 
+13 
+Capital Plan of approximately $75.5 million.  A 
+14 
+summary of these changes is described in more 
+15 
+detail in the Company’s Exhibit__(ECOP-3). 
+16 
+Q. 
+Did the Panel request that the Company provide 
+17 
+historical actual and budgeted electric capital 
+18 
+expenditures? 
+19 
+A. 
+Yes.  We requested this information as part of 
+20 
+IR DPS-070, which was included as part of pre-
+21 
+filed discovery to the Company.  The Company 
+22 
+provided a response to DPS-070 alongside its 
+23 
+rate filing. 
+24 
+
+
+--- Page 18 ---
+Cases 23-E-0418 & 23-G-0419 
+ 
+Staff EIOP 
+ 
+ 
+17 
+ 
+Q. 
+Did the Panel identify any issues with the 
+1 
+Company’s response to DPS-070? 
+2 
+A. 
+The Company’s response to DPS-070, which 
+3 
+included its responses to DPS-001 and subsequent 
+4 
+updates, were generally not transparent.  In its 
+5 
+responses, the Company provided historical 
+6 
+actual and budgeted expenditures for its 
+7 
+programs and projects in what appeared to be an 
+8 
+unorganized list of over a thousand lines of 
+9 
+project cost data.  For each of the five 
+10 
+historical years of cost data that was 
+11 
+requested, the Company provided capital cost 
+12 
+information across several line items for 
+13 
+individual programs and projects, for each year.  
+14 
+For example, when we attempted to understand the 
+15 
+Company’s actual and budgeted expenditures for 
+16 
+its High Priority Replacements Program, we 
+17 
+identified three separate line items referencing 
+18 
+this program within each historic year.  To 
+19 
+arrive at one historical data point for the 
+20 
+majority of the Company’s historical program and 
+21 
+project spends, we were required to search 
+22 
+through the list of program or project names and 
+23 
+tie all references of specific programs or 
+24 
+
+
+--- Page 19 ---
+Cases 23-E-0418 & 23-G-0419 
+ 
+Staff EIOP 
+ 
+ 
+18 
+ 
+projects instances within each historic year. 
+1 
+Q. 
+Did the Panel identify additional concerns with 
+2 
+the Company’s initial workpapers related to 
+3 
+capital expenditures? 
+4 
+A. 
+Yes.  We identified several errors in the 
+5 
+Company’s labeling of its programs and projects 
+6 
+identified within the DPS-001 and supporting 
+7 
+workpapers.  These errors resulted in the Panel 
+8 
+inaccurately interpreting each year of the 
+9 
+Company’s historical actual and budgeted 
+10 
+expenditures for specific programs or projects.  
+11 
+One example of this can be seen in the Company’s 
+12 
+update to DPS-001 labeled “2024-2028 Capital 
+13 
+Expenditures Workpaper (Final) Supplemental 
+14 
+Detail Electric Update.xlsx,” filed on September 
+15 
+18, 2023, where the Company misspelled the 
+16 
+labeling of its “Hydro Minor Projects,” labeling 
+17 
+one of this programs line items as “Hydo Minor 
+18 
+Projects.”  Other instances of changes to the 
+19 
+presentation of its historical program and 
+20 
+project names included the inclusion or removal 
+21 
+of punctuating characters which additionally 
+22 
+burdened Staff’s ability to automate and 
+23 
+accurately search through the data.  
+24 
+
+
+--- Page 20 ---
+Cases 23-E-0418 & 23-G-0419 
+ 
+Staff EIOP 
+ 
+ 
+19 
+ 
+Q. 
+Did you attempt to gain better clarity on the 
+1 
+Company’s forecasted projects, in the context of 
+2 
+these Company identified programs? 
+3 
+A. 
+Yes.  Staff engaged in numerous technical 
+4 
+conference calls with the Company’s subject 
+5 
+matter experts to gain a better understanding of 
+6 
+its electric, gas, and common capital requests, 
+7 
+and to present the Company’s historical data in 
+8 
+a format that was consistent with how the 
+9 
+Company presented the data in its prior rate 
+10 
+case.  The result of these conference calls 
+11 
+yielded five updates to their Capital 
+12 
+Expenditures Workpaper, housed within the 
+13 
+Company’s response to pre-filed IR DPS-001.  In 
+14 
+addition to these conference calls, and 
+15 
+subsequent Capital Expenditures Workpaper 
+16 
+updates, Staff issued several IRs requesting 
+17 
+further clarification and re-categorization of 
+18 
+the Company’s historic and forecasted projects 
+19 
+to accurately reflect them in the context of the 
+20 
+Company’s identified programs. 
+21 
+Q. 
+Are there other examples of Company-identified 
+22 
+programs that were broken apart and listed as 
+23 
+individual projects in this proceeding? 
+24 
+
+
+--- Page 21 ---
+Cases 23-E-0418 & 23-G-0419 
+ 
+Staff EIOP 
+ 
+ 
+20 
+ 
+A. 
+Yes.  In the Company’s capital forecast, the 
+1 
+Panel found multiple instances where Company-
+2 
+identified historical programs were broken apart 
+3 
+into all, or a portion of, its associated 
+4 
+projects.  The Panel’s representation of the 
+5 
+Company’s forecast rolled-up all projects that 
+6 
+should be classified as part of these Company-
+7 
+identified historical programs within one line 
+8 
+item, with the term “SUM UP” appended to it.  An 
+9 
+example of this can be seen in the substation 
+10 
+category of Staff’s Exhibit__(SEIOP-2), for the 
+11 
+line item labeled “ESP Infrastructure 
+12 
+Replacement Program SUM UP”. 
+13 
+Q. 
+Did you provide the Company with an explanation 
+14 
+of how the Company should present its historical 
+15 
+data? 
+16 
+A. 
+Yes.  During the review process described 
+17 
+earlier, we worked with the Company to identify 
+18 
+the programs and categories into which 
+19 
+historical and forecasted projects should be 
+20 
+rolled-up, to accurately reflect how programs 
+21 
+were historically identified by the Company.  To 
+22 
+assist the Company and expedite Staff’s capital 
+23 
+review process, we reviewed the Company’s 
+24 
+
+
+--- Page 22 ---
+Cases 23-E-0418 & 23-G-0419 
+ 
+Staff EIOP 
+ 
+ 
+21 
+ 
+responses to Staff IRs in the 2020 Rate Case, 
+1 
+specifically Attachment 1 of the Company’s 
+2 
+response to DPS-056, and Attachment 1 of the 
+3 
+Company’s response to DPS-340, and identified 
+4 
+the format of those responses as the format that 
+5 
+the Company should utilize for its current rate 
+6 
+proceeding. 
+7 
+Q. 
+During this process, did the Panel identify any 
+8 
+inconsistencies in the Company’s tracking of its 
+9 
+historic actual and budgeted costs? 
+10 
+A. 
+Yes.  While reviewing the aforementioned 
+11 
+discovery responses from the 2020 Rate Case, we 
+12 
+compared the five years of historic actual and 
+13 
+budgeted costs that the Company reported for 
+14 
+these programs during that rate case, to the 
+15 
+Company’s Capital Expenditures Workpapers and 
+16 
+supporting updates in this proceeding, which 
+17 
+requested the same information for overlapping 
+18 
+historical years.  While the comparison yielded 
+19 
+accurate historical and budgeted costs on a 
+20 
+category level, several inconsistencies were 
+21 
+found in the historic actual and budgeted costs 
+22 
+reported by the Company on a project and program 
+23 
+level of detail. 
+24 
+
+
+--- Page 23 ---
+Cases 23-E-0418 & 23-G-0419 
+ 
+Staff EIOP 
+ 
+ 
+22 
+ 
+Q. 
+Please elaborate on those inconsistencies. 
+1 
+A. 
+During the 2020 Rate Case, the Company provided, 
+2 
+as part of Attachment 1 to its response to DPS-
+3 
+056, and Attachment 1 to its response to DPS-
+4 
+340, five years of historic actual and budgeted 
+5 
+cost data that spanned from CY 2015 through CY 
+6 
+2019.  The Company’s response and final update 
+7 
+to pre-filed IR DPS-001 in this proceeding 
+8 
+included five years of historic actual and 
+9 
+budgeted cost data that spanned from CY 2018 
+10 
+through CY 2022.  In other words, two years of 
+11 
+data, for 2018 and 2019, overlapped between the 
+12 
+last rate case and the current rate case.  The 
+13 
+inconsistencies that we identified were found 
+14 
+within cost data for these two calendar years. 
+15 
+Q. 
+Can you provide some examples of where the 
+16 
+historical actual and budgeted expenditures for 
+17 
+2018 and 2019 differed between the 2020 Rate 
+18 
+Case and this rate case? 
+19 
+A. 
+Yes, please refer to Exhibit__(SEIOP-3), which 
+20 
+details a workpaper that the Panel developed to 
+21 
+spot check the Company’s historically reported 
+22 
+capital expenditure actuals and budgets for some 
+23 
+of its programs and projects, by category. 
+24 
+
+
+--- Page 24 ---
+Cases 23-E-0418 & 23-G-0419 
+ 
+Staff EIOP 
+ 
+ 
+23 
+ 
+Q. 
+Did Staff follow-up with the Company to discuss 
+1 
+the reasons for these inconsistencies, or to 
+2 
+gain better understanding as to what the correct 
+3 
+historic actual and budgeted expenditures should 
+4 
+be on a program level? 
+5 
+A. 
+Yes.  Staff issued IRs DPS-646, DPS-647, and 
+6 
+DPS-648, which highlighted the identified 
+7 
+discrepancies.  Within these IRs, Staff 
+8 
+developed a workpaper that specifically 
+9 
+identified the IR number, the proceeding with 
+10 
+which the IR was requested through, and the 
+11 
+historic program or project costs reported by 
+12 
+the Company, by category.  Additionally, Staff 
+13 
+held further technical conference calls with the 
+14 
+Company to discuss these inconsistencies, and to 
+15 
+allow the Company the ability to ask questions 
+16 
+and gain better understanding on the issues 
+17 
+identified by Staff. 
+18 
+Q. 
+Did the Company’s responses to IRs DPS-646, DPS-
+19 
+647, and DPS-648 provide sufficient explanation 
+20 
+regarding the inconsistencies identified and 
+21 
+sufficiently depict what the accurate, historic 
+22 
+actual and budgeted costs on a program level 
+23 
+should be? 
+24 
+
+
+--- Page 25 ---
+Cases 23-E-0418 & 23-G-0419 
+ 
+Staff EIOP 
+ 
+ 
+24 
+ 
+A. 
+No, not entirely.  While the Company was able to 
+1 
+identify and update historical actual and 
+2 
+budgeted costs for some of its programs and 
+3 
+projects, it was unable to do so for all of 
+4 
+them.  This fact can be seen when viewing the 
+5 
+Company’s updated response to DPS-001, updated 
+6 
+and filed on October 24, 2023, in response to 
+7 
+DPS-648, in which the Company reported zero 
+8 
+historical actual and historical budgeted 
+9 
+capital expenditures for its “ESP Infrastructure 
+10 
+Replacement Program” for CY 2018 through CY 
+11 
+2023, year to date.  As shown in Schedule 4 of 
+12 
+Staff’s Exhibit__(SEIOP-3) that was filed in the 
+13 
+2020 Rate Case, the Company should have 
+14 
+historical budgeted dollars associated with this 
+15 
+program, and should be able to present them in 
+16 
+this rate case in a manner consistent with the 
+17 
+format used in the 2020 Rate Case. 
+18 
+Q. 
+Can the Panel provide other examples of some of 
+19 
+the program and project inconsistencies that 
+20 
+Staff identified? 
+21 
+A. 
+Yes.  After identifying inconsistencies in the 
+22 
+Company’s historical actual and budgeted program 
+23 
+and project data, the Panel developed its 
+24 
+
+
+--- Page 26 ---
+Cases 23-E-0418 & 23-G-0419 
+ 
+Staff EIOP 
+ 
+ 
+25 
+ 
+Exhibit__(SEIOP-3) to spot check the Company’s 
+1 
+categories for other inaccuracies.     
+2 
+Q. 
+Based on the foregoing, please describe the 
+3 
+Panel’s concern regarding the Company’s 
+4 
+historical actual and budgeted cost data. 
+5 
+A. 
+Based on the information described earlier, it 
+6 
+appears that the Company is tracking its 
+7 
+historic actual and budgeted costs accurately on 
+8 
+the category level, however, there are apparent 
+9 
+reported capital expenditure inconsistencies at 
+10 
+the project level.  These inconsistencies seem 
+11 
+to arise when the Company attempts to pull cost 
+12 
+information from its internal database and re-
+13 
+bucket it into programs identified via the rate 
+14 
+case process, as previously discussed.   
+15 
+ Q. Does the Company maintain guidelines for 
+16 
+identifying, developing, and prioritizing 
+17 
+capital programs and projects? 
+18 
+A. 
+Yes, the Company maintains a “Capital 
+19 
+Prioritization Process Guidelines” document, 
+20 
+which was included as Attachment 1 to the 
+21 
+Company’s response to DPS-124.  The purpose of 
+22 
+the document is to “...provide [] guidelines for 
+23 
+the development and prioritization of the 
+24 
+
+
+--- Page 27 ---
+Cases 23-E-0418 & 23-G-0419 
+ 
+Staff EIOP 
+ 
+ 
+26 
+ 
+various capital projects and programs that 
+1 
+constitute the annual, five year, and ten year 
+2 
+capital expenditure budget and forecast to 
+3 
+maintain and improve the electric and gas system 
+4 
+and operate the business...”  This document 
+5 
+identifies the need for programs within specific 
+6 
+capital categories of the Company’s electric, 
+7 
+gas and common portion of the business.  In the 
+8 
+Panel’s understanding, many of the Company’s 
+9 
+programs presented in the context of this and 
+10 
+other rate cases are derived from the programs 
+11 
+identified within this document.   
+12 
+Q. 
+Does the Panel have any recommendations 
+13 
+regarding the Company’s Capital Prioritization 
+14 
+Process Guidelines? 
+15 
+A. 
+We recommend that the Commission require the 
+16 
+Company to update this document such that it 
+17 
+reflects the Company’s program needs based on 
+18 
+the most current conditions, and in a manner 
+19 
+that accurately aligns the Company-identified 
+20 
+programs within the context of its rate filings 
+21 
+and capital expenditure quarterly and annual 
+22 
+reports. 
+23 
+Q. 
+Does the Panel have any recommendations 
+24 
+
+
+--- Page 28 ---
+Cases 23-E-0418 & 23-G-0419 
+ 
+Staff EIOP 
+ 
+ 
+27 
+ 
+regarding steps the Company should take to 
+1 
+ensure that it is accurately tracking historical 
+2 
+cost data? 
+3 
+A. 
+Yes.  To address these inconsistences and ensure 
+4 
+accurate and transparent program and project 
+5 
+level of detail is reported in future 
+6 
+proceedings, we recommend that the Commission 
+7 
+require the Company to engage with Staff to 
+8 
+jointly identify and determine with certainty 
+9 
+which programs should be included within each 
+10 
+category for reporting purposes.  Additionally, 
+11 
+the Company should file all its capital 
+12 
+expenditure reporting requirements in the same 
+13 
+fashion in future cases and quarterly capital 
+14 
+reports, with cost data provided on the project 
+15 
+level and rolled-up into Company-identified 
+16 
+programs for each category, to prevent confusion 
+17 
+when viewing historical actual and budgeted 
+18 
+information in the context of varying 
+19 
+proceedings. 
+20 
+Q. 
+Is the request for detailed actual and budgeted 
+21 
+capital expenditures, for both historic and 
+22 
+forecasted programs and projects within each 
+23 
+category, a new request? 
+24 
+
+
+--- Page 29 ---
+Cases 23-E-0418 & 23-G-0419 
+ 
+Staff EIOP 
+ 
+ 
+28 
+ 
+A. 
+No.  Generally, when utilities file for rate 
+1 
+increases, they also file their responses to a 
+2 
+list of pre-filed IRs that are developed and 
+3 
+updated by Staff.  The intent of these pre-filed 
+4 
+IRs is two-fold.  First, utility responses to 
+5 
+these pre-filed IRs are intended to provide 
+6 
+Staff the necessary data and information to 
+7 
+begin its review of the portion of the Company’s 
+8 
+rate request that is within their purview.  
+9 
+Having access to these IR responses at the date 
+10 
+of the Company’s rate filing allows Staff to 
+11 
+begin its review immediately.  Second, the list 
+12 
+of pre-filed IRs is also beneficial to the 
+13 
+Company in that it allows the Company to know 
+14 
+and understand the information, and format of 
+15 
+this information, that Staff requires to begin 
+16 
+its review.  Additionally, the list of pre-filed 
+17 
+IRs removes the burden of what would otherwise 
+18 
+be an immediate influx of hundreds of IRs from 
+19 
+Staff at the onset of the case.  Simply put, the 
+20 
+generation of a list of pre-filed IRs is 
+21 
+beneficial to both Staff and the utilities. 
+22 
+Q. 
+Does Staff request capital expenditure data on a 
+23 
+project and program level within its list of 
+24 
+
+
+--- Page 30 ---
+Cases 23-E-0418 & 23-G-0419 
+ 
+Staff EIOP 
+ 
+ 
+29 
+ 
+pre-filed IRs? 
+1 
+A. 
+As previously noted, yes.  Although the 
+2 
+numbering of pre-filed IRs may change between 
+3 
+rate proceedings, the request for historic 
+4 
+actual versus budgeted capital expenditures on a 
+5 
+program and project level is included in Staff’s 
+6 
+list of pre-filed IRs.  In this proceeding, pre-
+7 
+filed IR DPS-070 requested five years of 
+8 
+historic actual and budgeted electric capital 
+9 
+expenditures. 
+10 
+Q. 
+Have concerns about the Company’s capital 
+11 
+budgeting process previously been raised? 
+12 
+A. 
+Yes.  During Central Hudson’s most recent 
+13 
+management audit in Case 21-M-0541, performed by 
+14 
+Overland Consulting Group, referred to as 
+15 
+Overland, the consultant determined that the 
+16 
+Company’s Capital and O&M budgeting process has 
+17 
+not undergone any substantial change since the 
+18 
+last management audit.  Overland’s final audit 
+19 
+report, referred to as the Management Audit 
+20 
+Report, was released by the Commission on April 
+21 
+20, 2023 in that case.   
+22 
+Q. 
+What did Overland conclude regarding Central 
+23 
+Hudson’s tracking of capital expenditures? 
+24 
+
+
+--- Page 31 ---
+Cases 23-E-0418 & 23-G-0419 
+ 
+Staff EIOP 
+ 
+ 
+30 
+ 
+A. 
+As a result of its review of the Company’s 
+1 
+capital budgeting process, Overland noted that 
+2 
+Central Hudson placed little emphasis on 
+3 
+comparisons of actual spending to budgeted 
+4 
+spending at the capital project level, and that 
+5 
+the Company did not produce a comprehensive 
+6 
+listing of capital projects for any year from 
+7 
+2017 to 2021 showing actual and budgeted 
+8 
+spending by project.  Overland also noted that 
+9 
+the Company did not produce any relevant 
+10 
+explanations for the actual-to-budget variances 
+11 
+of its most significant projects in recent 
+12 
+years.  The key findings and recommendations of 
+13 
+this management audit are summarized beginning 
+14 
+in section 1-5 of the Management Audit Report. 
+15 
+Q. 
+Please briefly highlight Overland’s 
+16 
+recommendations regarding the Company capital 
+17 
+budgeting process. 
+18 
+A. 
+First, as detailed in Recommendation 3.2 within 
+19 
+section 3-3 of the Management Audit Report, 
+20 
+Overland recommended that Central Hudson “...add 
+21 
+to its capital spending key performance 
+22 
+indicators (KPIs) an analysis that details each 
+23 
+project with actual current-year spending that 
+24 
+
+
+--- Page 32 ---
+Cases 23-E-0418 & 23-G-0419 
+ 
+Staff EIOP 
+ 
+ 
+31 
+ 
+exceeds its budgeted current-year spending by 
+1 
+10% and $100,000.” Second, as detailed in 
+2 
+Recommendation 3.2 within section 3-3 of the 
+3 
+Management Audit Report, Overland recommended 
+4 
+that the Company “...expand its KPI that 
+5 
+measures the timeliness of in-service dates for 
+6 
+individual projects to include any project that 
+7 
+has been categorized as Non-Discretionary, the 
+8 
+highest priority the Company assigns.  A 
+9 
+detailed written explanation for the actual-to-
+10 
+budget variance should be included for each 
+11 
+project associated with the new KPI as well as 
+12 
+for those Non-Discretionary projects that are 
+13 
+significantly behind schedule (2 months or more) 
+14 
+or cancelled for the modified KPI.  This 
+15 
+information should be shared with the Capital 
+16 
+Asset Review and Evaluation (CARE) Committee, 
+17 
+Central Hudson’s executive officers, and the 
+18 
+Central Hudson board of directors at each of its 
+19 
+regularly scheduled meetings.” 
+20 
+Q. 
+What is the Panel’s recommendation regarding the 
+21 
+Company’s capital expenditure tracking on a 
+22 
+project and program level? 
+23 
+A. 
+We recognize that the Company filed an 
+24 
+
+
+--- Page 33 ---
+Cases 23-E-0418 & 23-G-0419 
+ 
+Staff EIOP 
+ 
+ 
+32 
+ 
+implementation plan in Case 21-M-0541 on May 22, 
+1 
+2023 in response to the Management Audit Report, 
+2 
+and that implementation plan is pending a 
+3 
+decision from the Commission.  That 
+4 
+notwithstanding, the Panel recommends that the 
+5 
+Company adopt the findings and recommendations 
+6 
+of the Management Audit Report, specifically 
+7 
+recommendation 3.2 regarding capital project 
+8 
+tracking and reporting, on a going-forward 
+9 
+basis.  
+10 
+Q. 
+In light of the issues that the Panel identified 
+11 
+with respect to the Company’s tracking of 
+12 
+historical costs, how did the Panel calculate 
+13 
+adjustments to the Company’s capital expenditure 
+14 
+forecasts in this rate proceeding? 
+15 
+A. 
+We began our review by inspecting the Company’s 
+16 
+historic actual capital expenditures and the 
+17 
+capital expenditures set by the Commission in 
+18 
+the Joint Proposal filed on August 24, 2021 in 
+19 
+the 2020 Rate Case, and adopted by the 
+20 
+Commission on November 18, 2021, to assess the 
+21 
+validity of the Company’s rate request in this 
+22 
+proceeding, by category.  We then applied 
+23 
+specific program or project adjustments to each 
+24 
+
+
+--- Page 34 ---
+Cases 23-E-0418 & 23-G-0419 
+ 
+Staff EIOP 
+ 
+ 
+33 
+ 
+category, to the extent it was deemed necessary, 
+1 
+to reach our final recommendation for each 
+2 
+category. 
+3 
+Q. 
+Describe the Panel’s capital expenditure 
+4 
+recommendations in this proceeding. 
+5 
+A. 
+The Panel generally agrees with and recommends 
+6 
+accepting the Company’s electric capital 
+7 
+expenditure request, with slight modifications.  
+8 
+The Company’s electric capital expenditure 
+9 
+request is business-as-usual spending, plus 
+10 
+costs associated with Climate Leadership and 
+11 
+Community Protection Act, or CLCPA, Phase 1 
+12 
+projects.  If the capital expenditure impact 
+13 
+associated with CLCPA Phase 1 projects, 
+14 
+identified by the Company in Exhibit__(ECOP-6), 
+15 
+are filtered out from the Company’s proposal, 
+16 
+its remaining capital expenditure forecast would 
+17 
+be well below the Company’s historic actual 
+18 
+spending levels, and the Commission-approved 
+19 
+total electric capital spending levels approved 
+20 
+in the 2020 Rate Case. 
+21 
+Q. 
+Describe in more detail the modifications the 
+22 
+Panel is recommending to the Company’s electric 
+23 
+capital expenditure proposal. 
+24 
+
+
+--- Page 35 ---
+Cases 23-E-0418 & 23-G-0419 
+ 
+Staff EIOP 
+ 
+ 
+34 
+ 
+A. 
+We recommend two slight modifications to the 
+1 
+Company’s electric capital proposal.  First, we 
+2 
+recommend the removal of the dollars associated 
+3 
+with the Company’s proposed Storms Category 
+4 
+spending.  Second, we recommend the removal of 
+5 
+the Company’s proposal for its Electric 
+6 
+Transmission Structure Coating Program.  The 
+7 
+Panel’s recommendations, by category, are 
+8 
+discussed in more detail later in our testimony.  
+9 
+The Company’s CPCLA Phase 1 Projects are also 
+10 
+discussed in more detail in the Staff Policy 
+11 
+Panel’s testimony. 
+12 
+Hydro & Gas Turbines Category 
+13 
+Q. 
+What is the Company’s capital expenditure 
+14 
+forecast for the electric Hydro & Gas Turbines 
+15 
+category? 
+16 
+A. 
+The Company projected electric Hydro & Gas 
+17 
+Turbines capital additions of approximately $4.4 
+18 
+million, $6.4 million, $5.2 million, $3.5 
+19 
+million, and $5.6 million, for CY 2024 through 
+20 
+2028, respectively, totaling approximately $25.1 
+21 
+million over the five years. 
+22 
+Q. 
+How did the Company forecast capital expenditure 
+23 
+costs for this category? 
+24 
+
+
+--- Page 36 ---
+Cases 23-E-0418 & 23-G-0419 
+ 
+Staff EIOP 
+ 
+ 
+35 
+ 
+A. 
+As described in the direct testimony of the 
+1 
+ECOP, beginning on page 20, the Hydro & Gas 
+2 
+Turbines category proposal includes capital 
+3 
+expenditure forecasts for the Company’s 
+4 
+hydroelectric generating facilities, with a 
+5 
+majority of these expenditures aimed towards 
+6 
+addressing condition-based infrastructure 
+7 
+issues.  A large portion of the Company’s 
+8 
+forecast for this category in the Rate Year 
+9 
+pertains to capital work associated with its 
+10 
+Dashville and Sturgeon Pool facilities. 
+11 
+Q. 
+Does the Panel agree with the conceptual need 
+12 
+for these projects? 
+13 
+A. 
+Yes.  Beginning on page 21 of the ECOP’s direct 
+14 
+testimony and included throughout its Five-Year 
+15 
+Capital Plan, the Company details its concerns 
+16 
+regarding the asset conditions and useful lives 
+17 
+of its hydroelectric facilities.  In addition, 
+18 
+the Company’s Exhibit__(ECOP-7) provided more 
+19 
+detailed justification in support of its Hydro & 
+20 
+Gas Turbines category forecast.  Based on its 
+21 
+review, the Panel believes the Company’s 
+22 
+justifications for these projects are reasonable 
+23 
+and appropriate. 
+24 
+
+
+--- Page 37 ---
+Cases 23-E-0418 & 23-G-0419 
+ 
+Staff EIOP 
+ 
+ 
+36 
+ 
+Q. 
+Does the Panel recommend any adjustments to the 
+1 
+Company’s proposal for its electric Hydro & Gas 
+2 
+Turbines category? 
+3 
+A. 
+No. 
+4 
+Q. 
+Is the Company applying for any external funding 
+5 
+for its Hydro & Gas Turbines category? 
+6 
+A. 
+Yes.  On page 22 of the ECOP’s direct testimony, 
+7 
+the Company states that it is pursuing 
+8 
+government funding opportunities provided via 
+9 
+the Infrastructure Investment and Jobs Act for 
+10 
+its work related to its Dashville hydroelectric 
+11 
+facility.   
+12 
+Q. 
+What is your recommendation regarding this 
+13 
+potential government funding? 
+14 
+A. 
+To the extent that the Company receives any 
+15 
+external government funding for capital work 
+16 
+performed in this category, the Company should 
+17 
+credit its plant balance to account for this 
+18 
+contribution. 
+19 
+Transmission Category 
+20 
+Q. 
+Please describe the Company’s Transmission 
+21 
+category capital expenditure forecast. 
+22 
+A. 
+The Company projected electric Transmission 
+23 
+capital expenditures of approximately $31.0 
+24 
+
+
+--- Page 38 ---
+Cases 23-E-0418 & 23-G-0419 
+ 
+Staff EIOP 
+ 
+ 
+37 
+ 
+million, $28.8 million, $29.1 million, $36.3 
+1 
+million, and $32.8 million, for CYs 2024 through 
+2 
+2028, respectively, totaling approximately 
+3 
+$158.0 million over the five years. 
+4 
+Q. 
+Please describe the major programs or projects 
+5 
+proposed by the Company for this category. 
+6 
+A. 
+The Company’s Transmission category includes 
+7 
+several projects that are tied to condition-
+8 
+based assessment and/or aging infrastructure 
+9 
+needs, CLCPA Phase 1 needs, and Article VII 
+10 
+proceedings.  Beginning on page 24 of the ECOP’s 
+11 
+direct testimony, and included throughout the 
+12 
+Five-Year Capital Plan, the Company identified 
+13 
+and described several rebuild projects that 
+14 
+comprise approximately 70 percent of this 
+15 
+category’s forecasted expenditures.  These 
+16 
+projects include the “KM”, “H”, “SB”, “HG”, “Q” 
+17 
+and “5” Lines, all of which were identified by 
+18 
+the Company as CLCPA Phase 1 projects in 
+19 
+Exhibit__(ECOP-6). 
+20 
+Q. 
+Does the Panel agree with the conceptual need 
+21 
+for these projects? 
+22 
+A. 
+Yes, the Company’s capital expenditure forecasts 
+23 
+for this category are business-as-usual 
+24 
+
+
+--- Page 39 ---
+Cases 23-E-0418 & 23-G-0419 
+ 
+Staff EIOP 
+ 
+ 
+38 
+ 
+forecasts, plus the impact of CLCPA Phase 1 
+1 
+project proposals.  As explained in the ECOP’s 
+2 
+direct testimony, the Five-Year Capital Plan, 
+3 
+and the Company’s responses to IRs DPS-334 and 
+4 
+the publicly available version of its response 
+5 
+to DPS-339, these projects are needed to address 
+6 
+condition-based assessment and/or aging 
+7 
+infrastructure needs, while also meeting CLCPA 
+8 
+Phase 1 requirements set forth in the 
+9 
+Commission’s Order on Phase 1 Local Transmission 
+10 
+and Distribution Project Proposals, or Phase 1 
+11 
+Order, issued on February 11, 2021 in Case 20-E-
+12 
+0197.  We note that, in addition to having and 
+13 
+meeting CLCPA Phase 1 requirements, the “H” and 
+14 
+“SB” lines were also reviewed by Staff via the 
+15 
+Article VII process in Case 17-T-0816. 
+16 
+Q. 
+Does the Panel recommend any adjustments to the 
+17 
+Company’s proposal for its Transmission 
+18 
+category? 
+19 
+A. 
+Yes.  While we agree with the conceptual need 
+20 
+for the projects identified within this 
+21 
+category, we recommend rejecting the Company’s 
+22 
+proposal for its Electric Transmission Structure 
+23 
+Coating Program at this time. 
+24 
+
+
+--- Page 40 ---
+Cases 23-E-0418 & 23-G-0419 
+ 
+Staff EIOP 
+ 
+ 
+39 
+ 
+Q. 
+Please describe the Electric Transmission 
+1 
+Structure Coating Program. 
+2 
+A. 
+As described by the Company beginning on page 30 
+3 
+of its ECOP testimony, this program proposes to 
+4 
+coat approximately 391 Electric Transmission 
+5 
+structures over the course of the Five-Year 
+6 
+Capital Plan, plus an additional 195 structures 
+7 
+in future years.  The Company claims that this 
+8 
+program would provide future benefit to 
+9 
+customers by extending the timeline of 
+10 
+anticipated electric capital replacements. 
+11 
+Q. 
+Explain the Panel’s concern with the Company’s 
+12 
+Electric Transmission Structure Coating Program? 
+13 
+A. 
+Preliminarily, we agree with the program in 
+14 
+concept.  In its response to IR DPS-561 and 
+15 
+supporting attachments, the Company detailed the 
+16 
+potential future benefits that customers could 
+17 
+receive through the implementation of this 
+18 
+program.  However, in light of the large capital 
+19 
+costs associated with the implementation of the 
+20 
+suite of CLCPA Phase 1 projects, and based on 
+21 
+the fact that the Company has been managing its 
+22 
+electric capital portfolio safely and reliably 
+23 
+without this program, as demonstrated by the 
+24 
+
+
+--- Page 41 ---
+Cases 23-E-0418 & 23-G-0419 
+ 
+Staff EIOP 
+ 
+ 
+40 
+ 
+Company’s performance over the last few years 
+1 
+with respect to its reliability metrics, which 
+2 
+we discuss in more detail later in our 
+3 
+testimony, the Panel believes that this program 
+4 
+is not immediately necessary at this time.  As 
+5 
+such, we recommend postponing this program until 
+6 
+the Company’s next rate proceeding to minimize 
+7 
+cost impacts to customers.  Our adjustment 
+8 
+results in the reduction of approximately $8.25 
+9 
+million and $1.89 million from the Company’s 
+10 
+Five-Year Capital Plan and the Rate Year, 
+11 
+respectively. 
+12 
+Q. 
+Does the Panel have any additional 
+13 
+recommendations regarding this category? 
+14 
+A. 
+No. 
+15 
+Substation Category 
+16 
+Q. 
+Please describe the Company’s Substation 
+17 
+category capital expenditure forecast. 
+18 
+A. 
+The Company projected electric Substation 
+19 
+capital additions of approximately $26.2 
+20 
+million, $20.2 million, $22.6 million, $22.9 
+21 
+million, and $22.7 million, for CYs 2024 through 
+22 
+2028, respectively, totaling approximately 
+23 
+$114.6 million over the five years. 
+24 
+
+
+--- Page 42 ---
+Cases 23-E-0418 & 23-G-0419 
+ 
+Staff EIOP 
+ 
+ 
+41 
+ 
+Q. 
+Please describe the major programs or projects 
+1 
+proposed by the Company this category. 
+2 
+A. 
+The Company’s Substation category includes 
+3 
+several projects that are driven by 
+4 
+infrastructure replacements and the Company’s 
+5 
+Grid Modernization, or Grid Mod, initiative.  
+6 
+These projects are aimed to reinforce the 
+7 
+Company’s electric system, provide capability to 
+8 
+serve its future customers, help facilitate the 
+9 
+integration of distributed energy resources, or 
+10 
+DERs, and include several projects identified by 
+11 
+the Company as CLCPA Phase 1 projects.  
+12 
+Beginning on page 33 of the ECOP’s direct 
+13 
+testimony, and included throughout its Five-Year 
+14 
+Capital Plan, the Company identified and 
+15 
+described several rebuild projects that comprise 
+16 
+the Substation category.  In addition, the 
+17 
+Company notes that approximately 77 percent of 
+18 
+the Substation category capital expenditures 
+19 
+requested by the Company in this category are 
+20 
+tied to condition-based assessment and/or aging 
+21 
+infrastructure needs. 
+22 
+Q. 
+Does the Panel agree with the conceptual need 
+23 
+for these projects? 
+24 
+
+
+--- Page 43 ---
+Cases 23-E-0418 & 23-G-0419 
+ 
+Staff EIOP 
+ 
+ 
+42 
+ 
+A. 
+Yes, the Company’s capital expenditure forecasts 
+1 
+for this category are business-as-usual 
+2 
+forecasts plus the impact of CLCPA Phase 1 
+3 
+project proposals.  As explained by the Company 
+4 
+beginning on page 33 of the ECOP’s direct 
+5 
+testimony, and in the Company’s Five-Year 
+6 
+Capital Plan, these projects are needed to 
+7 
+address condition-based assessment and/or aging 
+8 
+infrastructure needs, while also meeting CLCPA 
+9 
+Phase 1 requirements identified in the Phase 1 
+10 
+Order. 
+11 
+Q. 
+Does the Panel have any recommendations 
+12 
+regarding the tracking of the Company’s 
+13 
+forecasted projects in the context of the 
+14 
+programs that were historically identified by 
+15 
+the Company? 
+16 
+A. 
+Yes.  In the 2020 Rate Case, the Company 
+17 
+identified the need for specific programs within 
+18 
+its Substation Category.  Substation projects of 
+19 
+similar work type and scope were identified and 
+20 
+then grouped into these specific programs to 
+21 
+reflect the need more accurately for specific 
+22 
+types of work, on an annual basis.  In this 
+23 
+proceeding, the Company unbundled several of its 
+24 
+
+
+--- Page 44 ---
+Cases 23-E-0418 & 23-G-0419 
+ 
+Staff EIOP 
+ 
+ 
+43 
+ 
+Substation programs and listed them as 
+1 
+individual projects.   
+2 
+Q. 
+Does the Company’s tracking of these Substation-
+3 
+related costs raise the same concerns that this 
+4 
+Panel previously discussed? 
+5 
+A. 
+Yes.  While the Panel recognizes the Company’s 
+6 
+efforts to show specific work by project, the 
+7 
+format in which the Company presented these 
+8 
+costs created confusion as to which historically 
+9 
+identified program each forecasted line item 
+10 
+belonged.  As we previously stated, the 
+11 
+confusion required multiple technical conference 
+12 
+calls between Staff and the Company, and 
+13 
+multiple rounds of IRs, to resolve over a period 
+14 
+of nearly three months.  Staff required multiple 
+15 
+updates from the Company to DPS-001, and 
+16 
+responses to IRs DPS-498, DPS-646, DPS-647, and 
+17 
+DPS-648, over many months to identify which of 
+18 
+the Company’s forecasted projects belonged 
+19 
+within each program historically identified by 
+20 
+the Company. 
+21 
+Q. 
+What programs did the Panel regroup the 
+22 
+Company’s Substation capital projects into? 
+23 
+A. 
+We regrouped several of the forecasted 
+24 
+
+
+--- Page 45 ---
+Cases 23-E-0418 & 23-G-0419 
+ 
+Staff EIOP 
+ 
+ 
+44 
+ 
+Substation line items to reflect the following 
+1 
+programs that were historically identified by 
+2 
+the Company: 1) ESP Infrastructure Replacement 
+3 
+Program; 2) RTU/PLC Replacement Program; 
+4 
+3) Breaker Replacement Programs; and 4) 345kV 
+5 
+Switch Replacement Program.  The result of the 
+6 
+Panel’s final regrouping of projects is 
+7 
+presented in Exhibit__(SEIOP-02). 
+8 
+Q. 
+Does the Panel recommend any adjustments to the 
+9 
+Company’s proposal for its Substation category? 
+10 
+A. 
+No. 
+11 
+Distribution Improvements Category 
+12 
+Q. 
+Please describe the capital expenditure forecast 
+13 
+for the Company’s Distribution Improvements 
+14 
+category. 
+15 
+A. 
+The Company projected electric Distribution 
+16 
+Improvements category capital additions of 
+17 
+approximately $52.4 million, $56.3 million, 
+18 
+$57.5 million, $56.8 million, and $57.2 million, 
+19 
+for CYs 2024 through 2028, respectively, 
+20 
+totaling approximately $280.2 million over the 
+21 
+five years. 
+22 
+Q. 
+Please describe the major programs or projects 
+23 
+proposed by the Company in this category. 
+24 
+
+
+--- Page 46 ---
+Cases 23-E-0418 & 23-G-0419 
+ 
+Staff EIOP 
+ 
+ 
+45 
+ 
+A. 
+Beginning on page 40 of the ECOP’s direct 
+1 
+testimony, the Company states that its 
+2 
+Distribution Improvements category expenditures 
+3 
+are primarily focused on day-to-day capital 
+4 
+requirements to maintain current levels of 
+5 
+reliability performance of its distribution 
+6 
+system.  Approximately 98 percent of the 
+7 
+Company’s capital expenditure forecast for this 
+8 
+category are “...associated with the condition-
+9 
+based replacement of predominantly older/aging 
+10 
+infrastructure.” 
+11 
+Q. 
+Do the Company’s forecasted capital expenditures 
+12 
+within its Distribution Improvements category 
+13 
+include dollars associated with work it 
+14 
+identified to be CLCPA Phase 1 compliant? 
+15 
+A. 
+Yes, a list of these projects was identified by 
+16 
+the Company in its Exhibit__(ECOP-6). 
+17 
+Q. 
+Does the Panel agree with the conceptual need 
+18 
+for the forecasted programs and projects listed 
+19 
+within this category? 
+20 
+A. 
+Yes, the Company’s capital expenditure forecasts 
+21 
+for this category are business-as-usual 
+22 
+forecasts plus the impact of CLCPA Phase 1 
+23 
+project proposals.  As the Company stated in the 
+24 
+
+
+--- Page 47 ---
+Cases 23-E-0418 & 23-G-0419 
+ 
+Staff EIOP 
+ 
+ 
+46 
+ 
+ECOP’s direct testimony, beginning on page 42, 
+1 
+the programs identified within this category are 
+2 
+completed on an on-going basis, are forecasted 
+3 
+based on historical trend levels, and are 
+4 
+adjusted by known changes. 
+5 
+Q. 
+Does the Panel have any specific discussion 
+6 
+regarding deferral proposals included within 
+7 
+this category? 
+8 
+A. 
+Yes.  In the ECOP’s direct testimony, beginning 
+9 
+on page 43, the Company describes a proposal to 
+10 
+defer incremental spending above its 
+11 
+CATV/Broadband make ready project capital 
+12 
+forecasts, which we refer to as the CATV Make-
+13 
+ready deferral.  The Company explains that it 
+14 
+has “...experienced an unprecedented increase in 
+15 
+applications for attachment to distribution 
+16 
+poles,” and that “...due to the insufficient 
+17 
+lead times associated with these non-
+18 
+discretionary projects, inclusion in capital and 
+19 
+expense forecasts is not possible and any 
+20 
+incremental expenditures would require 
+21 
+reprioritization which may impact planned 
+22 
+distribution improvement projects necessary for 
+23 
+the provision of safe and reliable service.” 
+24 
+
+
+--- Page 48 ---
+Cases 23-E-0418 & 23-G-0419 
+ 
+Staff EIOP 
+ 
+ 
+47 
+ 
+Q. 
+What does the Panel recommend regarding the 
+1 
+Company’s CATV Make-ready deferral proposal? 
+2 
+A. 
+The Panel recommends denying the Company’s 
+3 
+proposal to defer costs incurred above its 
+4 
+forecasted CATV Make-ready project forecast.  We 
+5 
+understand the Company’s concerns regarding the 
+6 
+uncertainty and volume of the number of 
+7 
+applications, and the capital and expense costs 
+8 
+that would be associated with these 
+9 
+applications, which could be difficult to 
+10 
+forecast over a multi-year term.  However, we 
+11 
+believe the costs can be reasonably forecasted 
+12 
+during the Rate Year and the Company should be 
+13 
+able to consider prioritization of the work, 
+14 
+which should result in immaterial rate impacts 
+15 
+during the Rate Year.  Further, if Central 
+16 
+Hudson did incur significant incremental 
+17 
+expenses during the Rate Year, the Company has 
+18 
+the ability to file a deferral petition with the 
+19 
+Commission seeking authority to defer the 
+20 
+incremental costs. 
+21 
+Q. 
+Does the Panel recommend any other adjustments 
+22 
+to the Company’s proposal for its Distribution 
+23 
+Improvements category? 
+24 
+
+
+--- Page 49 ---
+Cases 23-E-0418 & 23-G-0419 
+ 
+Staff EIOP 
+ 
+ 
+48 
+ 
+A. 
+No. 
+1 
+Storms Category 
+2 
+Q. 
+Please describe the Company’s Storms category 
+3 
+capital expenditure forecast. 
+4 
+A. 
+On page 16 of the ECOP’s direct testimony, the 
+5 
+Company projected electric Storms capital 
+6 
+additions of approximately $1.68 million, $1.71 
+7 
+million, $1.75 million, $1.79 million, and $1.82 
+8 
+million, for CYs 2024 through 2028, 
+9 
+respectively, totaling approximately $8.75 
+10 
+million over the five years. 
+11 
+Q. 
+Is this a new category of capital expenditures 
+12 
+that the Company previously did not track? 
+13 
+A. 
+Yes. 
+14 
+Q. 
+What reasoning did the Company provide for the 
+15 
+new expenditure category? 
+16 
+A. 
+The Company asserts that the new Storms Category 
+17 
+will account for the non-discretionary capital 
+18 
+spending used during storm restoration efforts.  
+19 
+The Company has historically monitored and 
+20 
+charged capital expenditures, associated with 
+21 
+addressing damage suffered during storms, across 
+22 
+several other electric capital budget 
+23 
+categories.  The new Storms Category of 
+24 
+
+
+--- Page 50 ---
+Cases 23-E-0418 & 23-G-0419 
+ 
+Staff EIOP 
+ 
+ 
+49 
+ 
+expenditures was proposed to account for 
+1 
+spending during storm restoration and lessen the 
+2 
+impact across the other electric capital budget 
+3 
+categories. 
+4 
+Q. 
+How did Central Hudson determine the Storms 
+5 
+Category expenditures for the Five-Year Capital 
+6 
+Plan? 
+7 
+A. 
+Forecasted expenditures for the Storms Category 
+8 
+were trended based on historical costs from CYs 
+9 
+2020 through 2022. 
+10 
+Q. 
+Does the Panel agree with the Company’s proposal 
+11 
+to create a new Storms Capital Category? 
+12 
+A. 
+No.  As discussed in the ECOP testimony 
+13 
+beginning on page 51, and in the Company’s 
+14 
+response to DPS-676, the Company currently 
+15 
+tracks its storm response capital expenditures 
+16 
+within a recently identified Storms Category.  
+17 
+However, and further described in its Capital 
+18 
+Expenditures Workpapers and supporting updates, 
+19 
+the Company continues to budget storm response 
+20 
+related capital costs through various other 
+21 
+capital categories.  Considering that the 
+22 
+Company continues to budget future storm related 
+23 
+expenditures within other capital categories and 
+24 
+
+
+--- Page 51 ---
+Cases 23-E-0418 & 23-G-0419 
+ 
+Staff EIOP 
+ 
+ 
+50 
+ 
+has not re-categorized and budgeted all its 
+1 
+future storm response related capital costs into 
+2 
+the Storms Category, this may result in double 
+3 
+counting of expenditures, and could create 
+4 
+additional confusion in the future with respect 
+5 
+to the Company’s tracking of capital 
+6 
+expenditures, similar to the concerns we 
+7 
+previously discussed.  For those reasons, the 
+8 
+Panel recommends that the Company’s proposal to 
+9 
+create a new Storms category for budgeting 
+10 
+purposes be rejected.   
+11 
+Q. 
+Does the Panel recommend any adjustments to the 
+12 
+Company’s Storms Category proposal? 
+13 
+A. 
+Yes.  We recommend removing all the proposed 
+14 
+capital additions for this category, for CY 2024 
+15 
+through 2028, respectively, totaling 
+16 
+approximately $8.75 million over the five years. 
+17 
+Operations & Maintenance Expenses 
+18 
+Q. 
+Did the Panel review the Company’s proposed O&M 
+19 
+expenses? 
+20 
+A. 
+Yes.  We reviewed the Company’s forecasted O&M 
+21 
+expenses for the following O&M line items, as 
+22 
+presented in the Company’s Exhibit__(RRP-2), 
+23 
+Schedule A: 1) Production Maintenance; 2) Major 
+24 
+
+
+--- Page 52 ---
+Cases 23-E-0418 & 23-G-0419 
+ 
+Staff EIOP 
+ 
+ 
+51 
+ 
+Storm O&M Expense; 3) Stray Voltage Testing; 4) 
+1 
+System Engineering & Compliance; 5) Substation 
+2 
+Testing & Maintenance; 6) Transmission & 
+3 
+Distribution Repairs & Maintenance; 7) 
+4 
+Transformer Installation & Removals; and 8) 
+5 
+Meter Installations, Removals & Maintenance.  
+6 
+Schedule A of Exhibit__(RRP-2) highlights the 
+7 
+Company’s projected O&M expenses, by line item.  
+8 
+In addition, the Company provided workpapers in 
+9 
+support of specific O&M expense projections, by 
+10 
+line item. 
+11 
+Q. 
+Does Staff have any adjustments to the O&M line 
+12 
+items discussed? 
+13 
+A. 
+This Panel does not.  However, the Staff 
+14 
+Accounting Panel has adjustments to the Major 
+15 
+Storm O&M Expense line item.  This Panel also 
+16 
+addresses pre-staging and the major storm 
+17 
+definition later within this testimony. 
+18 
+Staffing 
+19 
+Q. 
+Please discuss Central Hudson’s proposed 
+20 
+staffing levels. 
+21 
+A. 
+The Company proposed an additional 125 full time 
+22 
+equivalents, referred to as FTEs, through 
+23 
+December 2023, 75 FTEs through June 2024, 57 
+24 
+
+
+--- Page 53 ---
+Cases 23-E-0418 & 23-G-0419 
+ 
+Staff EIOP 
+ 
+ 
+52 
+ 
+FTEs through June 2025, 23 FTEs through June 
+1 
+2026, and 8 FTEs through 2027, totaling 288 
+2 
+incremental employees, excluding attrition. 
+3 
+Q. 
+Of the 288 incremental employees requested by 
+4 
+Central Hudson, how many will be discussed in 
+5 
+this testimony? 
+6 
+A. 
+The Panel reviewed 46 out of the 288 total FTEs 
+7 
+proposed by the Company and will discuss our FTE 
+8 
+adjustments and recommendations for the 
+9 
+following job titles: Assistant Distribution 
+10 
+Operator, Assistant Engineer (Grid Mod), 
+11 
+Assistant Engineer (Substation), Assistant 
+12 
+Engineer (Hydro), Emergency Service 
+13 
+Representative (Grid Mod), I&C Technician 
+14 
+(Substation), and Relay Technician (Substation). 
+15 
+Q. 
+Has the Company already hired any of its FTE 
+16 
+proposals? 
+17 
+A. 
+Yes.  In response to the publicly available 
+18 
+version of its response to IR DPS-260, 
+19 
+Attachment 1, the Company outlined its hiring 
+20 
+plan for 2023 through 2027.  In this IR 
+21 
+response, the Company stated that it has already 
+22 
+hired 12 of these 46 FTE proposals. 
+23 
+Q. 
+What was the Company’s FTE proposal for the job 
+24 
+
+
+--- Page 54 ---
+Cases 23-E-0418 & 23-G-0419 
+ 
+Staff EIOP 
+ 
+ 
+53 
+ 
+title of Assistant Distribution Operator 
+1 
+position? 
+2 
+A. 
+The Company requested two FTEs through December 
+3 
+2023, four FTEs through June 2024, and two FTEs 
+4 
+through June 2025, or eight FTEs in total.  The 
+5 
+Company has already hired one FTE of the total 
+6 
+eight FTEs proposed within this job title. 
+7 
+Q. 
+Provide an overview of the Assistant 
+8 
+Distribution Operators position. 
+9 
+A. 
+According to attachment 2 of the publicly 
+10 
+available version of the Company’s response to 
+11 
+DPS-666, Assistant Distribution Operators will 
+12 
+work in Central Hudson’s Primary Control Center, 
+13 
+which is responsible for maintaining the safe 
+14 
+and reliable service of the electric 
+15 
+distribution system.  Assistant Distribution 
+16 
+Operators will use various Grid Mod software 
+17 
+programs to monitor and control the electric 
+18 
+distribution system, for example, using the 
+19 
+Advanced Distribution Management System, or 
+20 
+ADMS, to optimize the electric distribution 
+21 
+system through the operation of Volt/VAR 
+22 
+Optimization, and improving service restoration 
+23 
+through the Fault Location, Isolation, and 
+24 
+
+
+--- Page 55 ---
+Cases 23-E-0418 & 23-G-0419 
+ 
+Staff EIOP 
+ 
+ 
+54 
+ 
+Service Restoration scheme.  Under the direction 
+1 
+of a Distribution Operator, an Assistant 
+2 
+Distribution Operator may also prepare, review, 
+3 
+and execute switching orders in accordance with 
+4 
+Company practices. 
+5 
+Q. 
+Describe the purpose of Central Hudson’s Grid 
+6 
+Mod program. 
+7 
+A. 
+The purpose of the Grid Mod program is to 
+8 
+improve the reliability, resiliency, and 
+9 
+efficiency of the electric distribution system.  
+10 
+This includes but is not limited to the 
+11 
+installation of assets that promote automation, 
+12 
+maintain optimum voltage levels, and provide 
+13 
+real-time information on the state of the 
+14 
+distribution system.  Some of the projects that 
+15 
+fall under the Grid Mod program include the 
+16 
+Distribution Management System (DMS), 
+17 
+Distribution Automation (DA), Network Strategy 
+18 
+communication system, and an Energy Management 
+19 
+System (EMS) projects.  
+20 
+Q. 
+How has Grid Mod changed the operating 
+21 
+procedures for Distribution Operators? 
+22 
+A. 
+Distribution Operators are now able to establish 
+23 
+electric clearances and safe work zones for 
+24 
+
+
+--- Page 56 ---
+Cases 23-E-0418 & 23-G-0419 
+ 
+Staff EIOP 
+ 
+ 
+55 
+ 
+field crews, assess telemetry received from 
+1 
+field devices, and make decisions to safely 
+2 
+restore customers.  The ADMS, as stated on page 
+3 
+60 of the Company’s ECOP testimony, is an 
+4 
+integrated software system to monitor and 
+5 
+control field Intelligent Electronic Devices, or 
+6 
+IEDs.  The software is designed to stabilize and 
+7 
+optimize power flow of the distribution grid and 
+8 
+in the event of a fault, advise potential 
+9 
+faulted locations as well as recommendations to 
+10 
+restore power.  This system will recognize 
+11 
+status changes in the field and present 
+12 
+Distribution Operators with multiple restoration 
+13 
+solutions that will be reviewed before 
+14 
+implementation.  Full automation will be 
+15 
+deployed in the future on capable distribution 
+16 
+circuits after testing and user experience. 
+17 
+Q. 
+Discuss Central Hudson’s justification for these 
+18 
+FTEs. 
+19 
+A. 
+According to Attachment 2 of the publicly 
+20 
+available version of the Company’s response to 
+21 
+DPS-666, the Company states that the Assistant 
+22 
+Distribution Operator role is a twelve-month 
+23 
+trainee progression role that will ultimately 
+24 
+
+
+--- Page 57 ---
+Cases 23-E-0418 & 23-G-0419 
+ 
+Staff EIOP 
+ 
+ 
+56 
+ 
+operate the ADMS.  Currently, there are three 
+1 
+Distribution Operators and one Assistant 
+2 
+Distribution Operator with the responsibility of 
+3 
+operating the ADMS.  The Company believes the 
+4 
+proposed number of new Assistant Distribution 
+5 
+System Operators is essential to provide around 
+6 
+the clock or 24/7 shift coverage in the Primary 
+7 
+Control Center. 
+8 
+Q. 
+Does the Panel agree with the Company’s request 
+9 
+to hire eight Assistant Distribution Operators? 
+10 
+A. 
+In part.  We agree with the Company’s proposal 
+11 
+to add FTEs, however, we recommend four 
+12 
+incremental Assistant Distribution Operators in 
+13 
+total.  This includes the one already hired by 
+14 
+the Company on June 25, 2023, as well as one in 
+15 
+the Rate Year, and two in the subsequent twelve 
+16 
+months. 
+17 
+Q. 
+What is the basis for the Panel’s 
+18 
+recommendation? 
+19 
+A. 
+As indicated in Attachment 2 of the publicly 
+20 
+available version of the Company’s response to 
+21 
+DPS-666, Assistant Distribution Operators are 
+22 
+needed to provide around the clock coverage.  As 
+23 
+stated previously, the Company currently employs 
+24 
+
+
+--- Page 58 ---
+Cases 23-E-0418 & 23-G-0419 
+ 
+Staff EIOP 
+ 
+ 
+57 
+ 
+three Distribution Operators and one Assistant 
+1 
+Distribution Operator working in the Primary 
+2 
+Control Center, with the responsibility of 
+3 
+operating the ADMS.  The Company’s request would 
+4 
+increase the current headcount by 200 percent.  
+5 
+The purpose of the ADMS is to automate the 
+6 
+electric system, and is designed to improve 
+7 
+operator efficiencies and, therefore, require 
+8 
+less human intervention.  As such, the Panel 
+9 
+does not agree that the Company’s FTE proposal 
+10 
+aligns with the purpose of the technology. 
+11 
+Q. 
+What was the Company’s FTE proposal for the job 
+12 
+title of Assistant Engineer (Grid Mod) Position? 
+13 
+A. 
+The Company requested one FTE through December 
+14 
+2023, two FTEs through June 2024, and two FTEs 
+15 
+through June 2026, or five FTEs in total.  The 
+16 
+Company has already hired one FTE of the total 
+17 
+five FTEs proposed within this job title. 
+18 
+Q. 
+Provide an overview of the Assistant Engineer 
+19 
+(Grid Mod) Position. 
+20 
+A. 
+As the Company stated in its publicly available 
+21 
+response to DPS-608, the Assistant Engineer 
+22 
+(Grid Mod) position would lead small to medium 
+23 
+Electric Substation Design projects from start 
+24 
+
+
+--- Page 59 ---
+Cases 23-E-0418 & 23-G-0419 
+ 
+Staff EIOP 
+ 
+ 
+58 
+ 
+to finish.  Engineers would be responsible for 
+1 
+the development of cost estimates, work order 
+2 
+authorizations, and project approvals, among 
+3 
+other general duties.  The engineers may support 
+4 
+other corporate initiatives such as Network 
+5 
+Strategy and interconnections. 
+6 
+Q. 
+Does the Panel agree with the Company’s request 
+7 
+to hire five Assistant Engineer (Grid Mod) 
+8 
+positions? 
+9 
+A. 
+No.  In its publicly available response to DPS-
+10 
+608, the Company states that it currently 
+11 
+employs three Assistant Engineers (Grid Mod).  
+12 
+The Company’s request would increase the current 
+13 
+headcount by 166 percent.  The Panel does not 
+14 
+believe that the Company’s proposed Electric 
+15 
+Substation Design project workload supports the 
+16 
+need for five additional engineers. 
+17 
+Q. 
+What is the Panel’s recommendation for the 
+18 
+Company’s Assistant Engineers (Grid Mod) FTE 
+19 
+proposals? 
+20 
+A. 
+Of the five Assistant Engineer (Grid Mod) FTEs 
+21 
+requested by the Company, the Panel recommends 
+22 
+allowing one.  The Company has already hired 
+23 
+that one FTE for this position. 
+24 
+
+
+--- Page 60 ---
+Cases 23-E-0418 & 23-G-0419 
+ 
+Staff EIOP 
+ 
+ 
+59 
+ 
+Q. 
+What is the basis for the Panel’s 
+1 
+recommendation? 
+2 
+A.  In its publicly available response to DPS-608, 
+3 
+the Company stated that “...Assistant Engineers 
+4 
+lead small/medium Electric Substation Design 
+5 
+(ESD) projects from start to finish...”  The 
+6 
+Company’s proposal for its Electric Substation 
+7 
+capital expenditures in this proceeding is 
+8 
+slightly higher, on average, than what was 
+9 
+allowed for in the 2020 Rate Case.  Considering 
+10 
+that this position also has overlapping duties 
+11 
+with the Assistant Engineer (Substation) 
+12 
+position, of which the Panel’s recommendations 
+13 
+are discussed in more detail later in our 
+14 
+testimony, the Panel does not believe there is 
+15 
+adequate justification for five additional FTEs.  
+16 
+Given these facts, the Panel supports one 
+17 
+incremental FTE, which the Company has already 
+18 
+hired in July 2023. 
+19 
+Q. 
+What was the Company’s FTE proposal for the job 
+20 
+title of Assistant Engineer (Substation) 
+21 
+Position? 
+22 
+A. 
+The Company requested two FTEs through December 
+23 
+2023 and one FTEs through June 2024, or three 
+24 
+
+
+--- Page 61 ---
+Cases 23-E-0418 & 23-G-0419 
+ 
+Staff EIOP 
+ 
+ 
+60 
+ 
+FTEs in total.  The Company has already hired 
+1 
+one of these proposed FTEs within this job 
+2 
+title. 
+3 
+Q. 
+Provide an overview of the Assistant Engineer 
+4 
+(Substation) Position. 
+5 
+A. 
+As the Company explains in its publicly 
+6 
+available response to DPS-599, the Assistant 
+7 
+Engineer (Substation) would lead small to medium 
+8 
+Electric Substation Design projects from start 
+9 
+to finish.  As described in its publicly 
+10 
+available responses to DPS-599 and DPS-608, 
+11 
+there is an overlap of responsibilities between 
+12 
+the Assistant Engineer (Substation) and 
+13 
+Assistant Engineer (Grid Mod) positions.  Both 
+14 
+Assistant Engineer (Grid Mod) and Assistant 
+15 
+Engineer (Substation) would be responsible for 
+16 
+the development of cost estimates, work order 
+17 
+authorizations, and project approvals, among 
+18 
+other general duties.   
+19 
+Q. 
+Does the Panel agree with the Company’s request 
+20 
+to hire three additional FTEs within the 
+21 
+Assistant Engineer (Substation) job title? 
+22 
+A. 
+No.  In its publicly available response to DPS-
+23 
+599, the Company states that it currently 
+24 
+
+
+--- Page 62 ---
+Cases 23-E-0418 & 23-G-0419 
+ 
+Staff EIOP 
+ 
+ 
+61 
+ 
+employs four Assistant Engineers (Substation), 
+1 
+one of which was recently hired in July 2023 and 
+2 
+was included within the Company’s incremental 
+3 
+FTE proposal in this proceeding.  Excluding the 
+4 
+one incremental FTE that was recently hired in 
+5 
+July 2023, the Company’s total FTE request for 
+6 
+this job title would increase the current 
+7 
+headcount by 100 percent. 
+8 
+Q. 
+What does the Panel recommend? 
+9 
+A. 
+Of the three Assistant Engineer (Substation) 
+10 
+FTEs requested by the Company, the Panel 
+11 
+recommends one.  The Company has already hired 
+12 
+one FTE for this position in July 2023.  
+13 
+Q. 
+What is the basis for the Panel’s 
+14 
+recommendation? 
+15 
+A. 
+As previously discussed for the Assistant 
+16 
+Engineer (Grid Mod), the Company’s proposal for 
+17 
+its Electric Substation capital expenditures in 
+18 
+this proceeding is slightly higher, on average, 
+19 
+than what was allowed for in the 2020 Rate Case.  
+20 
+Additionally, as stated previously, the duties 
+21 
+of the Assistant Engineer (Substation) overlap 
+22 
+with the duties of the Assistant Engineer (Grid 
+23 
+Mod).  For these reasons, the Panel recommends 
+24 
+
+
+--- Page 63 ---
+Cases 23-E-0418 & 23-G-0419 
+ 
+Staff EIOP 
+ 
+ 
+62 
+ 
+one incremental Assistant Engineer (Substation), 
+1 
+which the Company has already hired in July 
+2 
+2023.  We believe that our recommendation of one 
+3 
+incremental Assistant Engineer (Substation) and 
+4 
+one incremental Assistant Engineer (Grid Mod) 
+5 
+will allow the Company to adequately address its 
+6 
+current and future electric substation design 
+7 
+workloads. 
+8 
+Q. 
+What was the Company’s FTE proposal for the job 
+9 
+title of Assistant Engineer (Hydro) Position? 
+10 
+A. 
+The Company requested one Assistant Engineer 
+11 
+(Hydro) FTE through June 2024. 
+12 
+Q. 
+Provide an overview of the Assistant Engineer 
+13 
+(Hydro) position. 
+14 
+A. 
+This position would mostly support capital work 
+15 
+related to the Hydro & Gas Turbines category.  
+16 
+As the Company explains in its publicly 
+17 
+available response to DPS-598, the Assistant 
+18 
+Engineer (Hydro) would oversee small capital 
+19 
+construction projects.  The duties of this 
+20 
+position would include project scoping, bidding, 
+21 
+material and labor procurement, quality control, 
+22 
+financial tracking, and closeout documentation.  
+23 
+Additionally, the engineer would provide 
+24 
+
+
+--- Page 64 ---
+Cases 23-E-0418 & 23-G-0419 
+ 
+Staff EIOP 
+ 
+ 
+63 
+ 
+engineering support for regulatory compliance 
+1 
+items, provide reporting for various regulatory 
+2 
+agencies, manage hydroelectric grant 
+3 
+applications, and work with operations to 
+4 
+provide engineering support for projects and 
+5 
+emergent needs to maintain plant operation. 
+6 
+Q. 
+Does the Panel agree with the Company’s request 
+7 
+to hire one Assistant Engineer (Hydro) position? 
+8 
+A. 
+No, the Panel does not support the addition of 
+9 
+this position.  The Company states in its 
+10 
+publicly available response to DPS-598 that it 
+11 
+currently employs one Assistant Engineer 
+12 
+(Hydro).  The Company’s request for an 
+13 
+additional FTE in this position would double the 
+14 
+Company’s current headcount.  The forecasted 
+15 
+five-year capital expenditures for the Hydro & 
+16 
+Gas Turbines category in this proceeding are 
+17 
+marginally less, on average, than the four-year 
+18 
+capital costs in the Joint Proposal adopted by 
+19 
+the Commission in the 2020 Rate Case.  Given 
+20 
+that the Hydro & Gas Turbines category capital 
+21 
+expenditures has slightly decreased since the 
+22 
+previous rate case, the Panel does not support 
+23 
+the additional position proposed by the Company. 
+24 
+
+
+--- Page 65 ---
+Cases 23-E-0418 & 23-G-0419 
+ 
+Staff EIOP 
+ 
+ 
+64 
+ 
+Q. 
+What does the Panel recommend? 
+1 
+A. 
+We recommend no additional FTEs for the 
+2 
+Assistant Engineer (Hydro) job title. 
+3 
+Q. 
+What was the Company’s FTE proposal for the job 
+4 
+title of Emergency Service Representative (Grid 
+5 
+Mod) Position? 
+6 
+A. 
+The Company requested one FTE through June 2025 
+7 
+and one FTE through June 2026, or a total of two 
+8 
+FTEs. 
+9 
+Q. 
+Provide an overview of the Emergency Service 
+10 
+Representative (Grid Mod) position. 
+11 
+A. 
+In the Company’s response to its publicly 
+12 
+available response to DPS-733, Emergency Service 
+13 
+Representatives would answer emergency lines and 
+14 
+Control Center telephones, address customer 
+15 
+inquiries in accordance with established policy 
+16 
+and practices, create dispatch orders in 
+17 
+response to customer calls, and perform call 
+18 
+outs for additional personnel.  Emergency 
+19 
+Service Representatives also assist in preparing 
+20 
+and distributing reports and notifications.  
+21 
+Q. 
+Does the Panel agree with the Company’s proposal 
+22 
+to add two Emergency Service Representative 
+23 
+(Grid Mod) positions? 
+24 
+
+
+--- Page 66 ---
+Cases 23-E-0418 & 23-G-0419 
+ 
+Staff EIOP 
+ 
+ 
+65 
+ 
+A. 
+No.  According to the publicly available version 
+1 
+of Attachment 1 in its response to DPS-733, the 
+2 
+Company currently employs eight Emergency 
+3 
+Service Representatives (Grid Mod) FTEs.  The 
+4 
+Company’s total FTE request for this job title 
+5 
+would increase the current headcount by 25 
+6 
+percent. 
+7 
+Q. 
+What does the Panel recommend? 
+8 
+A. 
+We recommend no additional Emergency Service 
+9 
+Representatives (Grid Mod) FTEs. 
+10 
+Q. 
+What is the basis for the Panel’s 
+11 
+recommendation? 
+12 
+A. 
+While the Panel acknowledges Emergency Service 
+13 
+Representatives are needed to facilitate 24/7 
+14 
+communication between customers and the Primary 
+15 
+Control Center staff, the eight Emergency 
+16 
+Service Representatives currently employed are 
+17 
+adequate for this task.  According to its 
+18 
+response to DPS-577, the Company assigns one 
+19 
+Emergency Service Representative per eight-hour 
+20 
+shift.  Since the time that it responded to DPS-
+21 
+577, the Company has added three additional 
+22 
+Emergency Service Representatives, as shown in 
+23 
+Attachment 1 of its publicly available response 
+24 
+
+
+--- Page 67 ---
+Cases 23-E-0418 & 23-G-0419 
+ 
+Staff EIOP 
+ 
+ 
+66 
+ 
+to DPS-733.  This brings the total of Emergency 
+1 
+Service Representatives to the previously 
+2 
+mentioned eight.  These recent hires, with the 
+3 
+information provided within DPS-577, show that 
+4 
+the Company has ample staffing to continue 
+5 
+performing these functions in the control room. 
+6 
+Q. 
+What was the Company’s FTE proposal for the job 
+7 
+title of I&C Technician (Substation) Position? 
+8 
+A. 
+The Company requested two FTEs through December 
+9 
+2023, one FTE through June 2024, and one FTE 
+10 
+through June 2026, or four FTEs in total.  The 
+11 
+Company has already hired one of these proposed 
+12 
+FTEs within this job title. 
+13 
+Q. 
+Provide an overview of the I&C Technician 
+14 
+(Substation) Position. 
+15 
+A. 
+As provided in Attachment 2 of its publicly 
+16 
+available response to DPS-611, employees hired 
+17 
+as I&C Technicians (Substation) will start out 
+18 
+as 3/C, or Third Class, and will automatically 
+19 
+progress to 2/C, or Second Class, employees 
+20 
+after a maximum of twelve months.  Similarly, 
+21 
+and after a maximum of 42 additional months, I&C 
+22 
+technicians 2/C will progress to 1/C, or First 
+23 
+Class.  The Company states that the I&C 
+24 
+
+
+--- Page 68 ---
+Cases 23-E-0418 & 23-G-0419 
+ 
+Staff EIOP 
+ 
+ 
+67 
+ 
+Technicians will work on fiber optic 
+1 
+communications in addition to traditional power 
+2 
+line carrier and plain old telephone service. 
+3 
+Q. 
+Does the Panel agree with the Company’s proposal 
+4 
+to hire four incremental I&C Technician 
+5 
+(Substation) positions? 
+6 
+A. 
+No.  In its publicly available response to DPS-
+7 
+611, the Company states that it currently 
+8 
+employs three I&C Technician FTEs of various 
+9 
+classes, one Chief I&C Technician, one I&C 
+10 
+Technicians 2/C Second Class, and one I&C 
+11 
+Technicians 3/C Third Class.  It should be noted 
+12 
+that the I&C Technician 3/C was recently hired 
+13 
+on August 13, 2023, before which the Company’s 
+14 
+total FTE headcount for I&C technicians was two.  
+15 
+Additionally, and included in its response to 
+16 
+DPS-725, the I&C Technician position is a 
+17 
+relatively new job title and scope that was 
+18 
+identified and created in 2022 to allow for more 
+19 
+specialized training and development on the type 
+20 
+of work that we described earlier.  The Company 
+21 
+did not adequately demonstrate the immediate 
+22 
+need for its proposal of four incremental FTEs 
+23 
+for this position, which would increase its 
+24 
+
+
+--- Page 69 ---
+Cases 23-E-0418 & 23-G-0419 
+ 
+Staff EIOP 
+ 
+ 
+68 
+ 
+current headcount by approximately 200 percent. 
+1 
+Q. 
+Does the Panel agree with the conceptual need 
+2 
+for incremental I&C Technician (Substation) 
+3 
+FTEs? 
+4 
+A. 
+Yes.  The Company is working on various grid 
+5 
+modernization initiatives which will rely on 
+6 
+communication infrastructure.  Considering that 
+7 
+the I&C Technician job duties also align with 
+8 
+the communication needs of these initiatives, 
+9 
+the Panel agrees with the conceptual need for 
+10 
+one incremental FTE in this position.   
+11 
+Q. 
+What does the Panel recommend? 
+12 
+A. 
+Of the four incremental I&C Technician 
+13 
+(Substation) FTEs requested by the Company, the 
+14 
+Panel recommends one.  The Company has already 
+15 
+hired one FTE for this position in August 2023.  
+16 
+Q. 
+What was the Company’s FTE proposal for the job 
+17 
+title of Relay Technician (Substation) Position? 
+18 
+A. 
+The Company requested one FTE through June 2024 
+19 
+and one FTE through June 2025, or two FTEs in 
+20 
+total. 
+21 
+Q. 
+Provide an overview of the Relay Technician 
+22 
+(Substation) Position. 
+23 
+A. 
+As provided in Attachment 2 of its publicly 
+24 
+
+
+--- Page 70 ---
+Cases 23-E-0418 & 23-G-0419 
+ 
+Staff EIOP 
+ 
+ 
+69 
+ 
+available response to DPS-605, employees hired 
+1 
+as Relay Technicians (Substation) will start out 
+2 
+as 3/C, and will automatically progress to 2/C 
+3 
+after a maximum of twelve months.  Similarly, 
+4 
+and after a maximum of 42 additional months, 
+5 
+relay technicians 2/C will progress to 1/C.  
+6 
+Relay Technicians 3/C would assist higher class 
+7 
+technicians in connection with the testing, 
+8 
+adjusting, and repairing of relays and 
+9 
+associated equipment in any of the Company’s 
+10 
+substations, offices, properties, rights-of-way, 
+11 
+and Production facilities.  As relay technicians 
+12 
+progress from Third Class to First Class, their 
+13 
+responsibilities increase in scope and 
+14 
+complexity. 
+15 
+Q. 
+Does the Panel agree with the Company’s request 
+16 
+to hire two Relay Technician (Substation) 
+17 
+positions? 
+18 
+A. 
+No.  In its publicly available response to DPS-
+19 
+605, Attachment 1, the Company states that it 
+20 
+currently employs eight Relay Technician FTEs of 
+21 
+various classes, one Chief Relay Technician, 
+22 
+five Relay Technicians 1/C First Class, and two 
+23 
+Relay Technician 2/C Second Class.  
+24 
+
+
+--- Page 71 ---
+Cases 23-E-0418 & 23-G-0419 
+ 
+Staff EIOP 
+ 
+ 
+70 
+ 
+Additionally, and included in its response to 
+1 
+DPS-725, this position is a new job title and 
+2 
+scope that was identified and created in 2022 to 
+3 
+allow for more specialized training and 
+4 
+development on the type of work identified 
+5 
+earlier.  The Company did not adequately 
+6 
+demonstrate that there is an immediate need for 
+7 
+two incremental FTEs, above its current 
+8 
+headcount of eight, as requested. 
+9 
+Q. 
+What does the Panel recommend? 
+10 
+A. 
+The Panel recommends zero incremental Relay 
+11 
+Technicians (Substation).  In its response to 
+12 
+DPS-725, the Company states that prior to 2022, 
+13 
+the roles and responsibilities of the Relay 
+14 
+Technicians and I&C Technicians were combined 
+15 
+and housed under the antiquated position of 
+16 
+Substation Technician.  Additionally, as shown 
+17 
+in Attachment 1 of its response to DPS-725, the 
+18 
+Company’s historic headcount through 2022 was 10 
+19 
+FTEs in total.  Considering that the Company has 
+20 
+been able to maintain its I&C and relay needs 
+21 
+through 2022 with its historical Substation 
+22 
+Technician FTE headcount, we see no support for 
+23 
+the Company’s proposal to add four I&C 
+24 
+
+
+--- Page 72 ---
+Cases 23-E-0418 & 23-G-0419 
+ 
+Staff EIOP 
+ 
+ 
+71 
+ 
+Technician (Substation) and two Relay Technician 
+1 
+(Substation), or six FTEs in total.  It should 
+2 
+be noted, however, that our combined 
+3 
+recommendations for the Relay Technician 
+4 
+(Substation) and the I&C Technician (Substation) 
+5 
+do allow for 11 FTEs in total, with one 
+6 
+incremental I&C Technician (Substation) FTE 
+7 
+recommended for the reasons previously stated. 
+8 
+Q. 
+Of the 46 proposed FTEs reviewed, what is the 
+9 
+total amount of FTEs recommended by this Panel? 
+10 
+A. 
+Of positions we reviewed, the Panel recommends 
+11 
+28 of the 46 proposed FTEs for the reasons 
+12 
+discussed. 
+13 
+Q. 
+Are all the Panel’s FTE recommendations captured 
+14 
+in Staff’s revenue requirements, Exhibit__(SAP-
+15 
+2) and Exhibit__(SAP-3)? 
+16 
+A. 
+No.  Exhibit__(SAP-2) and Exhibit__(SAP-3) 
+17 
+currently reflect a total FTE recommendation of 
+18 
+positions we reviewed of 38 FTEs.  Inaccuracies 
+19 
+within the Panel’s FTE recommendation were 
+20 
+identified for following job positions: 
+21 
+Assistant Engineer (Grid Mod); Assistant 
+22 
+Engineer (DER); I&C Technician (Substation); 
+23 
+Relay Technician (Substation); Assistant 
+24 
+
+
+--- Page 73 ---
+Cases 23-E-0418 & 23-G-0419 
+ 
+Staff EIOP 
+ 
+ 
+72 
+ 
+Distribution Operator; and Emergency Service 
+1 
+Representative (Grid Mod).  However, as also 
+2 
+discussed in the Staff Accounting Panel’s 
+3 
+testimony, Staff will be providing an update 
+4 
+that reflects our total FTE recommendation of 28 
+5 
+FTEs. 
+6 
+Major Storm Reserve 
+7 
+Q. 
+What is a Major Storm Reserve? 
+8 
+A. 
+Storm restoration must be carried out for 
+9 
+continuity of electric service, safety, and 
+10 
+reliability.  Restoration efforts after a major 
+11 
+storm occurs, and the associated costs, can be 
+12 
+significant and cannot be adequately forecasted 
+13 
+in advance.  A Major Storm Reserve is an 
+14 
+accounting mechanism that allows a company to 
+15 
+collect an allowance through its rates for storm 
+16 
+restoration efforts but defer the variance 
+17 
+between that allowance and restoration costs 
+18 
+actually incurred.  That variance, either a 
+19 
+regulatory asset or a regulatory liability, can 
+20 
+be collected from or returned to customers as 
+21 
+part of a company’s future rate filing.  Storm 
+22 
+costs charged to the Major Storm Reserve are 
+23 
+reviewed by Staff to verify the costs are 
+24 
+
+
+--- Page 74 ---
+Cases 23-E-0418 & 23-G-0419 
+ 
+Staff EIOP 
+ 
+ 
+73 
+ 
+accurate, and in compliance with the Order which 
+1 
+allows the company to use reserve accounting for 
+2 
+major storms.   
+3 
+Q. 
+Describe Central Hudson’s existing Major Storm 
+4 
+Reserve. 
+5 
+A. 
+Appendix U of the Joint Proposal adopted in the 
+6 
+2020 Rate Case details conditions surrounding 
+7 
+the use of the Major Storm Reserve.  The Joint 
+8 
+Proposal included $4.674 million in funding for 
+9 
+the Major Storm Reserve for each rate year of 
+10 
+that rate plan.  The reserve balance, whether a 
+11 
+debt or credit balance, accrues carrying charges 
+12 
+at the Company’s pre-tax rate of return.  Once a 
+13 
+storm has been determined to fall within the 
+14 
+Commission’s definition of a major storm, 
+15 
+incremental restoration costs incurred as a 
+16 
+result of the adverse weather event must reach a 
+17 
+level of at least $500,000 in order for expenses 
+18 
+related to the event to be chargeable to the 
+19 
+Major Storm Reserve.  Central Hudson is required 
+20 
+to file data demonstrating that the event 
+21 
+qualified as a major storm, along with 
+22 
+documentation supporting the restoration costs 
+23 
+to the Office of Accounting, Audits, and Finance 
+24 
+
+
+--- Page 75 ---
+Cases 23-E-0418 & 23-G-0419 
+ 
+Staff EIOP 
+ 
+ 
+74 
+ 
+within 120 days of the date on which the Company 
+1 
+was able to restore service to all customers.  
+2 
+Additionally, the Company is allowed to record 
+3 
+certain pre-staging event costs to the Major 
+4 
+Storm Reserve, as we will discuss in more detail 
+5 
+later. 
+6 
+Q. 
+Has Central Hudson proposed any changes to its 
+7 
+Major Storm Reserve accounting? 
+8 
+A. 
+Yes.  As outlined on pages 82-83 of the ECOP’s 
+9 
+direct testimony, the Company is requesting 
+10 
+three changes to its Major Storm Reserve.  
+11 
+First, the Company proposes a change to the pre-
+12 
+staging event thresholds as defined in Appendix 
+13 
+U of the Joint Proposal adopted in the 2020 Rate 
+14 
+Case.  Second, the Company proposes an increase 
+15 
+of $10.2 million to the annual rate allowance 
+16 
+for the Major Storm Reserve, bringing the Rate 
+17 
+Year allowance to $14.80 million per year.  
+18 
+Third, the Company proposes to amortize its 
+19 
+exiting Major Storm Reserve regulatory asset 
+20 
+over ten years and collect $4.056 million per 
+21 
+year, beginning in the rate year.  The Major 
+22 
+Storm Reserve annual rate allowance and the 
+23 
+Major Storm regulatory asset proposals and 
+24 
+
+
+--- Page 76 ---
+Cases 23-E-0418 & 23-G-0419 
+ 
+Staff EIOP 
+ 
+ 
+75 
+ 
+calculations are addressed in the testimony of 
+1 
+the Staff Accounting Panel.   
+2 
+Q.  Define pre-staging and mobilization costs. 
+3 
+A. 
+Pre-staging and mobilization costs are those 
+4 
+costs incurred by the Company when additional 
+5 
+crews are brought into the utility’s service 
+6 
+territory in anticipation that a storm would 
+7 
+significantly impact routine electric 
+8 
+operations.  Central Hudson is authorized to 
+9 
+charge these costs to the Major Storm Reserve 
+10 
+when incurred in reasonable anticipation that a 
+11 
+storm will affect its electric operations to the 
+12 
+degree of meeting the criteria of a major storm, 
+13 
+but which ultimately does not do so.  
+14 
+Q. 
+Generally, how does Central Hudson currently 
+15 
+recover pre-staging costs? 
+16 
+A. 
+According to Appendix U of the Joint Proposal 
+17 
+adopted in the 2020 Rate Case, pre-staging costs 
+18 
+can be charged to the Major Storm Reserve when a 
+19 
+storm event did not meet the Commission’s 
+20 
+definition of a major storm.  Specifically, the 
+21 
+Company can charge pre-staging events with 
+22 
+incremental costs between $100,000 and $1.75 
+23 
+million to the Major Storm Reserve.  Events with 
+24 
+
+
+--- Page 77 ---
+Cases 23-E-0418 & 23-G-0419 
+ 
+Staff EIOP 
+ 
+ 
+76 
+ 
+incremental restoration costs greater than $1.75 
+1 
+million were allowed to be charged 85 percent to 
+2 
+the Major Storm Reserve and 15 percent to 
+3 
+expense.  Central Hudson is allowed to file a 
+4 
+deferral petition requesting recovery of the 15 
+5 
+percent if certain criteria were met. 
+6 
+Q. 
+Describe the Company’s proposal to increase the 
+7 
+pre-staging upper threshold from $1.75 million 
+8 
+to $3.60 million. 
+9 
+A. 
+The ECOP proposes that the $1.75 million upper 
+10 
+limit in the Company’s existing rate plan should 
+11 
+be increased to include execution of its right 
+12 
+of first refusal contract.   
+13 
+Q. 
+What is the right of first refusal contract? 
+14 
+A. 
+Briefly, on November 19, 2020, the Department 
+15 
+issued a Notice of Apparent Violations to 
+16 
+Central Hudson in Case 20-E-0586, related to the 
+17 
+Company’s preparation for and response to 
+18 
+Tropical Storm Isaias.  The Notice, among other 
+19 
+things, directed Central Hudson to immediately 
+20 
+implement a series of corrective actions to 
+21 
+prevent any potential failings in case another 
+22 
+significant storm event occurred, including 
+23 
+adding storm crewing capacity via retainer 
+24 
+
+
+--- Page 78 ---
+Cases 23-E-0418 & 23-G-0419 
+ 
+Staff EIOP 
+ 
+ 
+77 
+ 
+contracts.  In response to that Notice, the 
+1 
+Company entered the referenced right of first 
+2 
+refusal contract.  The right of first refusal 
+3 
+contract guarantees Central Hudson overhead line 
+4 
+contractors in response to severe weather 
+5 
+events.  
+6 
+Q. 
+What is the Company’s justification for 
+7 
+increasing the $1.75 million pre-staging 
+8 
+threshold upper limit? 
+9 
+A. 
+Beginning on page 83 of the ECOP’s direct 
+10 
+testimony, the Company explains that the $1.75 
+11 
+million cost sharing limit was developed before 
+12 
+the Company had the right of first refusal 
+13 
+contract in place.  The Company also states that 
+14 
+the contract was necessary to have contractor 
+15 
+line resources available to be called upon by 
+16 
+Central Hudson.  The cost associated with this 
+17 
+contract, along with increased customer and 
+18 
+regulatory expectations regarding restoration 
+19 
+times has increased the demand for line 
+20 
+resources in advance of a storm.  The Company 
+21 
+states that this has increased the cost 
+22 
+associated with pre-staging external resources.   
+23 
+
+
+--- Page 79 ---
+Cases 23-E-0418 & 23-G-0419 
+ 
+Staff EIOP 
+ 
+ 
+78 
+ 
+Q.  Does the Panel agree with the Company’s proposal 
+1 
+to increase the pre-staging threshold from $1.75 
+2 
+million to $3.60 million? 
+3 
+A. 
+No, based on the Company’s Excel workpaper 
+4 
+entitled “Storm Restoration – Major Storm 
+5 
+Reserve.xlsx”, over the past ten years only one 
+6 
+pre-staging and mobilization event eligible to 
+7 
+be charged to the Major Storm Reserve occurred 
+8 
+that exceeded the Company’s proposal of $1.75 
+9 
+million.  The Panel does not support adjusting 
+10 
+the upper threshold based on a single outlier. 
+11 
+Q. 
+What does the Panel recommend for pre-staging 
+12 
+limits? 
+13 
+A. 
+We recommend the limits remain the same as in 
+14 
+the Company’s existing Joint Proposal adopted in 
+15 
+the 2020 Rate Case. 
+16 
+Q. 
+Has Central Hudson proposed any other changes to 
+17 
+its Major Storm Reserve? 
+18 
+A. 
+Yes.  Central Hudson requests that the 
+19 
+definition of a major storm be modified to be 
+20 
+consistent with the exclusion criteria outlined 
+21 
+in its reliability performance mechanisms.   
+22 
+Q. 
+What is the current definition for a major 
+23 
+storm? 
+24 
+
+
+--- Page 80 ---
+Cases 23-E-0418 & 23-G-0419 
+ 
+Staff EIOP 
+ 
+ 
+79 
+ 
+A. 
+A major storm is defined in Section 97.1 of the 
+1 
+Commission’s rules and regulations, Title 16 of 
+2 
+the Codes, Rules and Regulations of the State of 
+3 
+New York, or NYCRR, as “a period of adverse 
+4 
+weather during which service interruptions 
+5 
+affect at least 10 percent of the customers in 
+6 
+an operating area and/or result in customers 
+7 
+being without electric service for durations of 
+8 
+at least 24 hours.”  It should be noted that 
+9 
+Section 97.5 of 16 NYCRR requires utilities 
+10 
+provide interruption information separated into 
+11 
+ten cause codes.  Major storm is cause code one.  
+12 
+These cause codes are used to track reliability 
+13 
+performance and compare individual utility 
+14 
+performance both with and without major storms. 
+15 
+Q. 
+What is Central Hudson’s proposed revision to 
+16 
+the major storm definition? 
+17 
+A. 
+Central Hudson proposes adding the following to 
+18 
+the definition: “an incident resulting from a 
+19 
+catastrophic event beyond the control of the 
+20 
+Company; or an incident where problems beyond 
+21 
+the Company’s control involving generation or 
+22 
+the bulk transmission system is a key factor in 
+23 
+the outage.”   
+24 
+
+
+--- Page 81 ---
+Cases 23-E-0418 & 23-G-0419 
+ 
+Staff EIOP 
+ 
+ 
+80 
+ 
+Q. 
+Does the Panel agree that the major storm 
+1 
+definition should be changed? 
+2 
+A. 
+No.  The Commission’s major storm definition and 
+3 
+reliability metrics are based on the Institute 
+4 
+of Electrical and Electronics Engineers’ Guide 
+5 
+for Electric Power Distribution Reliability 
+6 
+Indices, or IEEE-1366.  The IEEE works to 
+7 
+educate and standardize the electrical and 
+8 
+electronic industries.  The initial purpose of 
+9 
+using IEEE-1366 was to promote uniformity in the 
+10 
+development of distribution service reliability 
+11 
+indices and to aid in consistent reporting 
+12 
+across the industry and New York State.  
+13 
+Changing the major storm definition just for 
+14 
+Central Hudson would have far reaching negative 
+15 
+effects for tracking historical reliability 
+16 
+performance and gauging the effectiveness of a 
+17 
+utility’s performance during storms and non-
+18 
+storm operations.  Therefore, the Panel does not 
+19 
+support changing the major storm definition. 
+20 
+Q. 
+Does the Panel have any additional comments 
+21 
+regarding Central Hudson’s proposal to modify 
+22 
+the definition of a major storm? 
+23 
+A. 
+Yes.  The Panel notes that there is already a 
+24 
+
+
+--- Page 82 ---
+Cases 23-E-0418 & 23-G-0419 
+ 
+Staff EIOP 
+ 
+ 
+81 
+ 
+process available where the Company may petition 
+1 
+the Commission directly if the Company believes 
+2 
+extraordinary circumstances, such as those 
+3 
+referenced by the Company, exist which warrant 
+4 
+excluding a particular outage from reliability 
+5 
+statistics.  The Commission affirmed this 
+6 
+process in its Order issued October 12, 2004, in 
+7 
+Case 02-E-1240, stating, “Extraordinary 
+8 
+circumstances can already be addressed through 
+9 
+the provisions for requesting a waiver under the 
+10 
+standards, and a more liberal listing of events 
+11 
+that qualify as extraordinary would not improve 
+12 
+upon implementation of the waiver process. A 
+13 
+case-by-case approach to those waivers is more 
+14 
+appropriate than a listing that might be overly 
+15 
+expansive or overly-constraining.” 
+16 
+Electric Reliability Metrics 
+17 
+Q. 
+Describe Central Hudson’s existing electric 
+18 
+Reliability Performance Mechanism, or RPM. 
+19 
+A. 
+Central Hudson is operating under an RPM 
+20 
+established in Case 09-E-0588, and modified in 
+21 
+Cases 12-M-0192, 14-E-0318, and 20-E-0428.  The 
+22 
+RPM has targets in place for the System Average 
+23 
+Interruption Frequency Index, or SAIFI, and the 
+24 
+
+
+--- Page 83 ---
+Cases 23-E-0418 & 23-G-0419 
+ 
+Staff EIOP 
+ 
+ 
+82 
+ 
+Customer Average Interruption Duration Index, or 
+1 
+CAIDI, metrics.  Each metric is used to monitor 
+2 
+the Company’s performance in a calendar year.  
+3 
+SAIFI is the number of times the average 
+4 
+customer’s service is interrupted in a year, and 
+5 
+CAIDI is the average number of hours required to 
+6 
+restore service to a customer whose service was 
+7 
+interrupted.   
+8 
+Q. 
+Describe the electric service annual metrics 
+9 
+modified as part of Case 20-E-0428. 
+10 
+A. 
+The electric service annual metrics, as defined 
+11 
+in Appendix Q of the Joint Proposal adopted by 
+12 
+the Commission in the 2020 Rate Case, are as 
+13 
+follows: SAIFI shall be a pre-tax, 30-basis 
+14 
+point potential electric negative revenue 
+15 
+adjustment, or NRA, for failure to achieve an 
+16 
+annual SAIFI target of 1.32 in 2021, 1.32 in 
+17 
+2022, 1.30 in 2023 and 1.30 in 2024.  CAIDI is a 
+18 
+pre-tax, 30-basis point potential electric NRA 
+19 
+for failure to achieve an annual CAIDI of 2.50 
+20 
+hours in 2021 through 2024.   
+21 
+Q. 
+Did the Company propose any changes to the 
+22 
+existing electric RPMs? 
+23 
+
+
+--- Page 84 ---
+Cases 23-E-0418 & 23-G-0419 
+ 
+Staff EIOP 
+ 
+ 
+83 
+ 
+A. 
+Yes, in the ECOP’s direct testimony, the Company 
+1 
+proposed maintaining the current SAIFI target of 
+2 
+1.30, and CAIDI target of 2.50 hours.  However, 
+3 
+the Company introduced a new two-tier target for 
+4 
+SAIFI.  The proposed NRA for failure to achieve 
+5 
+an annual system-wide SAIFI target of 1.30 would 
+6 
+be 10 basis points, and the NRA for failure to 
+7 
+achieve an annual system-wide SAIFI target of 
+8 
+1.34 would be 20 basis points. 
+9 
+Q. 
+Did the ECOP provide a basis for the change? 
+10 
+A. 
+According to pages 77-79 of the ECOP’s 
+11 
+testimony, the Company argues that the proposed 
+12 
+two-tier negative revenue adjustment for SAIFI 
+13 
+would provide the Company with a financial 
+14 
+incentive to improve reliability performance 
+15 
+while maintaining target levels that are aligned 
+16 
+with historical results.  The Company also 
+17 
+believes the tier one target of 1.30 is 
+18 
+aggressive based on its average SAIFI 
+19 
+performance from 2018 through 2022.  The tier 
+20 
+two target of 1.34 aligns with the Company’s 
+21 
+average performance from 2018 through 2022, 
+22 
+which the Company believes is an appropriate 
+23 
+maximum NRA. 
+24 
+
+
+--- Page 85 ---
+Cases 23-E-0418 & 23-G-0419 
+ 
+Staff EIOP 
+ 
+ 
+84 
+ 
+Q. 
+Does the Panel agree with Central Hudson’s two-
+1 
+tier target for SAIFI? 
+2 
+A. 
+No.  According to the response to DPS-313, 
+3 
+Attachment 1, Central Hudson has been able to 
+4 
+meet its SAIFI metrics in all but one year out 
+5 
+of the last three.  The Company only missed the 
+6 
+target in 2021 due to a greater number of minor 
+7 
+storm events.  Moreover, the Company has the 
+8 
+potential to show consistent improvement in 
+9 
+SAIFI, based on over fifteen years of improved 
+10 
+vegetation management practices and its targeted 
+11 
+capital improvement projects.  Based on these 
+12 
+factors, the Panel does not believe that 
+13 
+establishing a two-tier SAIFI target at this 
+14 
+time, where the second tier threshold is 
+15 
+significantly lower than the Company’s current 
+16 
+metrics, would encourage the Company to continue 
+17 
+to improve its performance related to outages.   
+18 
+Q. 
+What does the Panel recommend for the SAIFI 
+19 
+target? 
+20 
+A. 
+We recommend keeping the target at 1.30.  As 
+21 
+previously noted, the Company has the potential 
+22 
+to show consistent improvement in SAIFI, based 
+23 
+on improved vegetation management practices and 
+24 
+
+
+--- Page 86 ---
+Cases 23-E-0418 & 23-G-0419 
+ 
+Staff EIOP 
+ 
+ 
+85 
+ 
+targeted capital improvement projects.  In 
+1 
+addition, the 1.30 SAIFI target provides the 
+2 
+Company with a financial incentive to improve 
+3 
+reliability performance while maintaining a 
+4 
+target level that aligns with historical 
+5 
+targets.  Our proposed SAIFI target reflects the 
+6 
+level of service that should be provided to 
+7 
+customers on a forward going basis.   
+8 
+Q. 
+Did Central Hudson propose changes to the 
+9 
+existing CAIDI target? 
+10 
+A. 
+No.   
+11 
+Q. 
+Does the Panel agree with the Company retaining 
+12 
+its existing CAIDI target? 
+13 
+A. 
+Yes, we believe that the existing CAIDI target 
+14 
+is appropriate.  Excluding 2021 data, Central 
+15 
+Hudson’s CAIDI performance has been relatively 
+16 
+stable over the last ten years, having achieved 
+17 
+its CAIDI target in nine out of ten years.  
+18 
+Since duration is influenced by factors such as 
+19 
+work force levels, management of the workforce, 
+20 
+distribution switching to restore customers, and 
+21 
+using business intelligence software to improve 
+22 
+response time and/or repair time, decisions made 
+23 
+
+
+--- Page 87 ---
+Cases 23-E-0418 & 23-G-0419 
+ 
+Staff EIOP 
+ 
+ 
+86 
+ 
+by Central Hudson are reflected almost 
+1 
+immediately in the CAIDI measure. 
+2 
+Q.  Is the Company permitted to exclude any classes 
+3 
+of outages from the SAIFI and CAIDI 
+4 
+calculations?  
+5 
+A.  Pursuant to 16 NYCRR Part 97, the electric 
+6 
+utilities exclude from SAIFI and CAIDI 
+7 
+calculations any outages related to major 
+8 
+storms.  
+9 
+Q.  Is the Company proposing to exclude any 
+10 
+additional classes of outages from their SAIFI 
+11 
+and CAIDI calculations?  
+12 
+A.  Yes, the Company is proposing to exclude 
+13 
+incidents that they deem are factors beyond 
+14 
+their control.  Central Hudson classifies these 
+15 
+as “Non-Utility Control Outages.”  According to 
+16 
+the page 74 of the ECOP’s testimony, Non-Utility 
+17 
+Control Outages would include, but are not 
+18 
+limited to, outages due to vandalism; unexpected 
+19 
+deforestation, for example, due to the Emerald 
+20 
+Ash Borer; foreign utility supply; motor vehicle 
+21 
+accidents; weather; strategic pole hits; and 
+22 
+disruptions in neighboring utility systems.   
+23 
+
+
+--- Page 88 ---
+Cases 23-E-0418 & 23-G-0419 
+ 
+Staff EIOP 
+ 
+ 
+87 
+ 
+Q.  Does the Panel agree that Non-Utility Control 
+1 
+Outages should be excluded from SAIFI and CAIDI 
+2 
+calculations? 
+3 
+A.  No.  As we noted, a waiver process is already 
+4 
+available to the Company, where a utility may 
+5 
+petition the Commission directly if the Company 
+6 
+believes extraordinary circumstances exist that 
+7 
+warrant excluding an event from being counted 
+8 
+towards the utility’s reliability metrics.  The 
+9 
+Commission explained this case-by-case approach 
+10 
+in its Order issued on October 12, 2004, in Case 
+11 
+02-E-1240.  Moreover, reliability performance 
+12 
+targets are set at levels that provide a utility 
+13 
+some flexibility in meeting the targets while 
+14 
+still maintaining adequate reliability 
+15 
+standards.  It would not be appropriate to 
+16 
+maintain the Company’s current SAIFI and CAIDI 
+17 
+targets if these exclusions were universally 
+18 
+granted without a case-by-case review. 
+19 
+Other Deferrals 
+20 
+Q. 
+Please describe the Commission’s Case 22-E-0222, 
+21 
+Proceeding on Motion of the Commission 
+22 
+Concerning Electric Utility Climate 
+23 
+Vulnerability Studies and Plans. 
+24 
+
+
+--- Page 89 ---
+Cases 23-E-0418 & 23-G-0419 
+ 
+Staff EIOP 
+ 
+ 
+88 
+ 
+A. 
+On February 24, 2022, Governor Hochul signed 
+1 
+into law an act, referred to as the Act, that 
+2 
+added a new subdivision 29 to PSL Section 66, 
+3 
+which requires utilities to submit: 1) a climate 
+4 
+change vulnerability study, or Climate Study, by 
+5 
+September 22, 2023, to evaluate the utilities’ 
+6 
+infrastructure, design specifications, and 
+7 
+procedures to better understand the electric 
+8 
+system’s vulnerability to climate driven-risk; 
+9 
+and 2) a climate vulnerability and resiliency 
+10 
+plan, or Resilience Plan, 60 days thereafter.  
+11 
+On June 6, 2022, the Commission issued an order 
+12 
+initiating Case 22-E-0222 to address such 
+13 
+studies. 
+14 
+Q. 
+Describe the Company’s Climate Change 
+15 
+Vulnerability Study, and the associated Climate 
+16 
+Change Resilience Plan. 
+17 
+A. 
+Page 81 of the Company’s ECOP testimony states 
+18 
+that the Company is “in the process of 
+19 
+completing its Climate Change Vulnerability 
+20 
+Study, and the associated Climate Change 
+21 
+Resilience Plan.”  The Company has since filed 
+22 
+its Climate Study in Case 22-E-0222, and the 
+23 
+Resilience Plan is expected to be filed in late 
+24 
+
+
+--- Page 90 ---
+Cases 23-E-0418 & 23-G-0419 
+ 
+Staff EIOP 
+ 
+ 
+89 
+ 
+November 2023.  In the ECOP’s testimony, the 
+1 
+Company states that it may identify incremental 
+2 
+resiliency spending within the five-year 
+3 
+planning window to mitigate the threat of 
+4 
+climate change risks.   
+5 
+Q. 
+Did the Act establish a surcharge mechanism for 
+6 
+utilities to recover the costs associated with 
+7 
+projects in the Climate Study and Resilience 
+8 
+Plan? 
+9 
+A. 
+Yes.  PSL Section 66(29)(g) provides, in 
+10 
+relevant part, that the Commission shall 
+11 
+“authorize each electric corporation to fully 
+12 
+recover in the context of rate proceedings the 
+13 
+costs associated with each project included in 
+14 
+such corporation's climate resilience plan that 
+15 
+is approved or modified by the commission, so 
+16 
+long as such costs were prudently incurred.”  
+17 
+PSL Section 66(29)(g) provides that such charges 
+18 
+would be recovered through a “climate resiliency 
+19 
+cost recovery” surcharge, referred to as the 
+20 
+Climate Resilience Surcharge. 
+21 
+Q. 
+Does the Company propose a Climate Resilience 
+22 
+Surcharge in this rate case? 
+23 
+A. 
+Yes.  On pages 67 and 68 of the Company’s 
+24 
+
+
+--- Page 91 ---
+Cases 23-E-0418 & 23-G-0419 
+ 
+Staff EIOP 
+ 
+ 
+90 
+ 
+Forecasting and Rates Panel testimony, the 
+1 
+Company states that it is proposing a surcharge 
+2 
+effective October 12, 2024.  
+3 
+Q. 
+Does the Panel agree with the Company’s proposed 
+4 
+Climate Resilience Surcharge? 
+5 
+A. 
+No.  The Climate Study was filed in September 
+6 
+2023, and the Resilience Plan is expected to be 
+7 
+filed late in November 2023.  The Commission 
+8 
+then has 11 months to approve the Resilience 
+9 
+Plan.  If the Commission approves Central 
+10 
+Hudson’s Climate Change Resilience Plan, that 
+11 
+approving order would stipulate how the 
+12 
+Resilience Plan projects should be funded.  
+13 
+Therefore, the Panel does not support the 
+14 
+creation of the Climate Resilience Surcharge at 
+15 
+this time. 
+16 
+Q. 
+Describe the proposed independent true-up 
+17 
+mechanism, or symmetrical deferral, that the 
+18 
+Company is proposing for its Electric New 
+19 
+Business Category. 
+20 
+A. 
+As described on page 39 of the ECOP testimony, 
+21 
+the Company proposed that the New Business 
+22 
+Category of its electric capital budget have an 
+23 
+independent true-up mechanism.  The Company 
+24 
+
+
+--- Page 92 ---
+Cases 23-E-0418 & 23-G-0419 
+ 
+Staff EIOP 
+ 
+ 
+91 
+ 
+claims that a symmetrical deferral is 
+1 
+appropriate, given that the nature of this 
+2 
+capital spending is non-discretionary.  If the 
+3 
+actual Electric New Business net plant is above 
+4 
+or below the net plant target, the revenue 
+5 
+requirement associated with this amount would be 
+6 
+recovered from or deferred for future pass back 
+7 
+to customers, respectively. 
+8 
+Q. 
+Does the Panel agree with this deferral 
+9 
+proposal? 
+10 
+A. 
+No.  The Panel does not agree that there is a 
+11 
+need for the New Business Category of the 
+12 
+Company’s electric capital budget to have an 
+13 
+independent true-up mechanism.  These 
+14 
+expenditures can be reasonably forecasted during 
+15 
+the context of a single Rate Year.  Furthermore, 
+16 
+the Company already has a true-up mechanism in 
+17 
+place for the entirety of its Electric capital 
+18 
+budget to handle any over or under budgets that 
+19 
+the Company incurs. 
+20 
+Q. 
+Does this conclude the Panel’s testimony? 
+21 
+A. 
+Yes. 
+22 
