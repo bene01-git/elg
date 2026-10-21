@@ -1,0 +1,450 @@
+<!DOCTYPE html>
+<html lang="en">
+<head>
+    <meta charset="UTF-8">
+    <meta name="viewport" content="width=device-width, initial-scale=1.0">
+    <title>DPS Document Search</title>
+    <script src="https://cdnjs.cloudflare.com/ajax/libs/lunr.js/2.3.9/lunr.min.js"></script>
+    <style>
+        :root {
+            --bg: #f5f6f8;
+            --card: #ffffff;
+            --text: #1a1a2e;
+            --muted: #6b7280;
+            --primary: #2563eb;
+            --primary-hover: #1d4ed8;
+            --border: #e2e5ea;
+            --highlight-bg: #fef08a;
+            --cite-bg: #eff6ff;
+            --cite-border: #2563eb;
+            --green: #059669;
+            --shadow: 0 1px 3px rgba(0,0,0,0.06), 0 1px 2px rgba(0,0,0,0.04);
+            --shadow-lg: 0 4px 12px rgba(0,0,0,0.08);
+        }
+        * { box-sizing: border-box; margin: 0; padding: 0; }
+        body {
+            font-family: -apple-system, BlinkMacSystemFont, "Segoe UI", Roboto, sans-serif;
+            background: var(--bg); color: var(--text); line-height: 1.6;
+        }
+        .container { max-width: 900px; margin: 0 auto; padding: 0 20px; }
+
+        header {
+            background: var(--card); border-bottom: 1px solid var(--border);
+            padding: 24px 0 20px; position: sticky; top: 0; z-index: 100;
+            box-shadow: var(--shadow);
+        }
+        header h1 {
+            font-size: 1.25rem; font-weight: 700; margin-bottom: 14px;
+            letter-spacing: -0.02em;
+        }
+        .search-row { display: flex; gap: 10px; }
+        .search-row input[type="text"] {
+            flex: 1; padding: 11px 16px; font-size: 1rem;
+            border: 2px solid var(--border); border-radius: 8px;
+            outline: none; transition: border 0.2s;
+        }
+        .search-row input:focus { border-color: var(--primary); }
+        .search-row button {
+            padding: 11px 28px; font-size: 0.95rem; font-weight: 600;
+            background: var(--primary); color: #fff; border: none;
+            border-radius: 8px; cursor: pointer; transition: background 0.2s;
+            white-space: nowrap;
+        }
+        .search-row button:hover { background: var(--primary-hover); }
+        .filters {
+            display: flex; gap: 14px; margin-top: 10px;
+            align-items: center; flex-wrap: wrap;
+        }
+        .filters input {
+            padding: 7px 10px; font-size: 0.85rem;
+            border: 1px solid var(--border); border-radius: 6px;
+        }
+        .filters label { font-size: 0.84rem; color: var(--muted); font-weight: 500; }
+
+        .status-bar {
+            padding: 10px 0; font-size: 0.82rem; color: var(--muted);
+            display: flex; justify-content: space-between; align-items: center;
+        }
+        .badge {
+            display: inline-block; padding: 2px 10px; border-radius: 12px;
+            font-size: 0.72rem; font-weight: 700; text-transform: uppercase;
+            letter-spacing: 0.03em;
+        }
+        .badge-ready { background: #d1fae5; color: #065f46; }
+        .badge-loading { background: #fef3c7; color: #92400e; }
+        .badge-error { background: #fee2e2; color: #991b1b; }
+
+        .results-header {
+            padding: 14px 0 8px; font-size: 0.92rem; color: var(--muted);
+            display: flex; justify-content: space-between; align-items: center;
+        }
+        .export-btn {
+            padding: 7px 16px; font-size: 0.82rem; font-weight: 600;
+            background: var(--green); color: #fff; border: none;
+            border-radius: 6px; cursor: pointer; text-decoration: none;
+        }
+        .export-btn:hover { opacity: 0.9; }
+
+        .result-card {
+            background: var(--card); border: 1px solid var(--border);
+            border-radius: 10px; padding: 18px 22px; margin-bottom: 14px;
+            box-shadow: var(--shadow); transition: box-shadow 0.2s;
+        }
+        .result-card:hover { box-shadow: var(--shadow-lg); }
+        .result-card h3 {
+            font-size: 0.92rem; font-weight: 600; margin-bottom: 8px;
+            word-break: break-word;
+        }
+        .result-card h3 a { color: var(--primary); text-decoration: none; }
+        .result-card h3 a:hover { text-decoration: underline; }
+
+        .meta-pills {
+            display: flex; flex-wrap: wrap; gap: 6px; margin-bottom: 10px;
+        }
+        .pill {
+            display: inline-block; padding: 2px 10px; border-radius: 12px;
+            font-size: 0.75rem; background: #f1f5f9; color: #475569;
+            border: 1px solid #e2e8f0;
+        }
+        .pill strong { color: #334155; }
+
+        .citation-box {
+            background: var(--cite-bg); padding: 10px 14px; border-radius: 6px;
+            font-size: 0.82rem; margin-bottom: 12px;
+            border-left: 3px solid var(--cite-border);
+            word-break: break-word; line-height: 1.5;
+        }
+        .citation-box .label {
+            font-size: 0.68rem; font-weight: 700; text-transform: uppercase;
+            color: var(--primary); letter-spacing: 0.04em; margin-bottom: 3px;
+        }
+
+        .match-block { border-top: 1px solid var(--border); padding-top: 10px; }
+        .match-sentence {
+            font-size: 0.88rem; line-height: 1.75; padding: 4px 0;
+            color: #374151;
+        }
+        .match-sentence mark {
+            background: var(--highlight-bg); padding: 1px 4px;
+            border-radius: 3px; font-weight: 500;
+        }
+        .match-count {
+            font-size: 0.75rem; color: var(--muted); margin-bottom: 6px;
+        }
+
+        .empty-state {
+            text-align: center; padding: 80px 20px; color: var(--muted);
+        }
+        .empty-state h2 { font-size: 1.1rem; margin-bottom: 6px; color: var(--text); }
+        .empty-state p { font-size: 0.9rem; }
+
+        .spinner {
+            display: inline-block; width: 18px; height: 18px;
+            border: 2.5px solid var(--border); border-top-color: var(--primary);
+            border-radius: 50%; animation: spin 0.6s linear infinite;
+            vertical-align: middle; margin-right: 6px;
+        }
+        @keyframes spin { to { transform: rotate(360deg); } }
+
+        .load-more {
+            display: block; width: 100%; padding: 12px; margin: 16px 0;
+            font-size: 0.9rem; font-weight: 600; text-align: center;
+            background: var(--card); color: var(--primary);
+            border: 2px solid var(--primary); border-radius: 8px;
+            cursor: pointer;
+        }
+        .load-more:hover { background: #eff6ff; }
+    </style>
+</head>
+<body>
+    <header>
+        <div class="container">
+            <h1>DPS Document Search Engine</h1>
+            <div class="search-row">
+                <input type="text" id="q" placeholder="Search documents..." autofocus
+                       onkeydown="if(event.key==='Enter')doSearch()">
+                <button onclick="doSearch()">Search</button>
+            </div>
+            <div class="filters">
+                <label>Case: <input type="text" id="caseFilter"
+                    placeholder="e.g. 25-G-0073" style="width:130px"
+                    onkeydown="if(event.key==='Enter')doSearch()"></label>
+                <label>Company: <input type="text" id="companyFilter"
+                    placeholder="e.g. Con Edison" style="width:150px"
+                    onkeydown="if(event.key==='Enter')doSearch()"></label>
+            </div>
+        </div>
+    </header>
+
+    <div class="container">
+        <div class="status-bar">
+            <span id="statusText">Loading document index...</span>
+            <span id="statusBadge" class="badge badge-loading">loading</span>
+        </div>
+        <div id="resultsArea">
+            <div class="empty-state">
+                <h2>Search your DPS documents</h2>
+                <p>The index is loading. Once ready, type a keyword above.</p>
+            </div>
+        </div>
+    </div>
+
+<script>
+// State
+let allDocs = [];
+let lunrIndex = null;
+let isReady = false;
+let currentResults = [];
+let visibleCount = 0;
+const PER_PAGE = 20;
+
+// Load data and build index
+async function init() {
+    try {
+        const resp = await fetch("search_data.json");
+        if (!resp.ok) throw new Error("search_data.json not found");
+        const data = await resp.json();
+        allDocs = data.documents;
+
+        document.getElementById("statusText").innerHTML =
+            '<span class="spinner"></span> Building search index (' + allDocs.length + ' docs)...';
+
+        // Build Lunr index — run after a tick so the UI updates
+        await new Promise(r => setTimeout(r, 50));
+
+        lunrIndex = lunr(function() {
+            this.ref("id");
+            this.field("content", { boost: 1 });
+            this.field("doc_title", { boost: 3 });
+            this.field("case_number", { boost: 2 });
+            this.field("company_name", { boost: 2 });
+            this.field("doc_type", { boost: 1 });
+
+            // Increase term length limit for long words
+            this.pipeline.reset();
+            this.pipeline.add(lunr.trimmer, lunr.stemmer);
+
+            for (const doc of allDocs) {
+                this.add({
+                    id: doc.id,
+                    content: doc.sentences.join(" "),
+                    doc_title: doc.doc_title,
+                    case_number: doc.case_number,
+                    company_name: doc.company_name,
+                    doc_type: doc.doc_type,
+                });
+            }
+        });
+
+        isReady = true;
+        document.getElementById("statusText").textContent =
+            allDocs.length + " documents indexed and ready";
+        document.getElementById("statusBadge").textContent = "ready";
+        document.getElementById("statusBadge").className = "badge badge-ready";
+        document.getElementById("resultsArea").innerHTML =
+            '<div class="empty-state"><h2>Search your DPS documents</h2>' +
+            '<p>Enter a keyword or phrase above to search across ' + allDocs.length + ' indexed files.</p></div>';
+
+    } catch(e) {
+        document.getElementById("statusText").textContent = "Error: " + e.message;
+        document.getElementById("statusBadge").textContent = "error";
+        document.getElementById("statusBadge").className = "badge badge-error";
+        document.getElementById("resultsArea").innerHTML =
+            '<div class="empty-state"><h2>Failed to load index</h2>' +
+            '<p>Make sure search_data.json exists. Run: python build_index.py</p></div>';
+    }
+}
+
+function doSearch() {
+    const q = document.getElementById("q").value.trim();
+    if (!q || !isReady) return;
+
+    const caseF = document.getElementById("caseFilter").value.trim().toLowerCase();
+    const compF = document.getElementById("companyFilter").value.trim().toLowerCase();
+
+    let hits;
+    try {
+        hits = lunrIndex.search(q + " " + q + "*");
+    } catch(e) {
+        // If query syntax fails, try wrapping each term
+        const terms = q.split(/\s+/).map(t => t.replace(/[^a-zA-Z0-9]/g, "")).filter(Boolean);
+        hits = lunrIndex.search(terms.map(t => t + "*").join(" "));
+    }
+
+    // Map hits to documents and filter
+    currentResults = [];
+    for (const hit of hits) {
+        const doc = allDocs[parseInt(hit.ref)];
+        if (!doc) continue;
+        if (caseF && !doc.case_number.toLowerCase().includes(caseF)) continue;
+        if (compF && !doc.company_name.toLowerCase().includes(compF)) continue;
+
+        // Find matching sentences
+        const qLower = q.toLowerCase();
+        const qWords = qLower.split(/\s+/).filter(Boolean);
+        const matchedSentences = [];
+
+        for (const s of doc.sentences) {
+            const sLower = s.toLowerCase();
+            if (qWords.some(w => sLower.includes(w))) {
+                matchedSentences.push(s);
+                if (matchedSentences.length >= 5) break;
+            }
+        }
+
+        currentResults.push({
+            doc: doc,
+            score: hit.score,
+            matchedSentences: matchedSentences,
+        });
+    }
+
+    renderResults(q);
+}
+
+function highlightText(text, query) {
+    const words = query.split(/\s+/).filter(Boolean);
+    let result = escHtml(text);
+    for (const word of words) {
+        const re = new RegExp("(" + escRegex(word) + ")", "gi");
+        result = result.replace(re, "<mark>$1</mark>");
+    }
+    return result;
+}
+
+function renderResults(query) {
+    const area = document.getElementById("resultsArea");
+
+    if (currentResults.length === 0) {
+        area.innerHTML = '<div class="empty-state"><h2>No results found</h2>' +
+            '<p>Try different keywords or remove the filters.</p></div>';
+        return;
+    }
+
+    visibleCount = Math.min(PER_PAGE, currentResults.length);
+
+    let html = '<div class="results-header"><span>' + currentResults.length +
+        ' result(s) for "<strong>' + escHtml(query) + '</strong>"</span>' +
+        '<button class="export-btn" onclick="exportCSV()">Export CSV</button></div>';
+
+    html += renderCards(query, 0, visibleCount);
+
+    if (currentResults.length > visibleCount) {
+        html += '<button class="load-more" onclick="loadMore()">Show more (' +
+            (currentResults.length - visibleCount) + ' remaining)</button>';
+    }
+
+    area.innerHTML = html;
+}
+
+function renderCards(query, from, to) {
+    let html = "";
+    for (let i = from; i < to; i++) {
+        const r = currentResults[i];
+        const d = r.doc;
+        html += '<div class="result-card">';
+
+        // Title
+        html += '<h3>';
+        if (d.link) {
+            html += '<a href="' + escHtml(d.link) + '" target="_blank">' + escHtml(d.filename) + '</a>';
+        } else {
+            html += escHtml(d.filename);
+        }
+        html += '</h3>';
+
+        // Meta pills
+        html += '<div class="meta-pills">';
+        if (d.case_number) html += '<span class="pill"><strong>Case:</strong> ' + escHtml(d.case_number) + '</span>';
+        if (d.company_name) html += '<span class="pill"><strong>Co:</strong> ' + escHtml(d.company_name) + '</span>';
+        if (d.doc_type) html += '<span class="pill">' + escHtml(d.doc_type) + '</span>';
+        if (d.date_filed) html += '<span class="pill">' + escHtml(d.date_filed) + '</span>';
+        if (d.item_no) html += '<span class="pill"><strong>Paper:</strong> ' + escHtml(d.item_no) + '</span>';
+        html += '</div>';
+
+        // Citation
+        if (d.citation) {
+            html += '<div class="citation-box"><div class="label">Citation</div>' +
+                escHtml(d.citation) + '</div>';
+        }
+
+        // Matched sentences
+        if (r.matchedSentences.length > 0) {
+            html += '<div class="match-block">';
+            html += '<div class="match-count">' + r.matchedSentences.length + ' sentence match(es)</div>';
+            for (const s of r.matchedSentences) {
+                html += '<div class="match-sentence">...' + highlightText(s, query) + '...</div>';
+            }
+            html += '</div>';
+        }
+
+        html += '</div>';
+    }
+    return html;
+}
+
+function loadMore() {
+    const query = document.getElementById("q").value.trim();
+    const newVisible = Math.min(visibleCount + PER_PAGE, currentResults.length);
+    const moreHtml = renderCards(query, visibleCount, newVisible);
+    visibleCount = newVisible;
+
+    // Remove old load-more button and append new cards
+    const area = document.getElementById("resultsArea");
+    const btn = area.querySelector(".load-more");
+    if (btn) btn.remove();
+
+    area.insertAdjacentHTML("beforeend", moreHtml);
+
+    if (currentResults.length > visibleCount) {
+        area.insertAdjacentHTML("beforeend",
+            '<button class="load-more" onclick="loadMore()">Show more (' +
+            (currentResults.length - visibleCount) + ' remaining)</button>');
+    }
+}
+
+function exportCSV() {
+    const query = document.getElementById("q").value.trim();
+    let csv = "File,Case Number,Company Name,Document Type,Document Title," +
+        "Filing On Behalf Of,Date Filed,Paper No.,Citation,Score,Matched Sentences\n";
+
+    for (const r of currentResults) {
+        const d = r.doc;
+        const sentences = r.matchedSentences.join(" | ");
+        csv += [
+            csvCell(d.filename), csvCell(d.case_number), csvCell(d.company_name),
+            csvCell(d.doc_type), csvCell(d.doc_title), csvCell(d.filing_on_behalf),
+            csvCell(d.date_filed), csvCell(d.item_no), csvCell(d.citation),
+            r.score.toFixed(2), csvCell(sentences),
+        ].join(",") + "\n";
+    }
+
+    const blob = new Blob([csv], { type: "text/csv" });
+    const url = URL.createObjectURL(blob);
+    const a = document.createElement("a");
+    a.href = url;
+    a.download = "search_" + query.replace(/\s+/g, "_").substring(0, 30) + ".csv";
+    a.click();
+    URL.revokeObjectURL(url);
+}
+
+function csvCell(val) {
+    if (!val) return '""';
+    return '"' + String(val).replace(/"/g, '""') + '"';
+}
+
+function escHtml(s) {
+    const d = document.createElement("div");
+    d.textContent = s || "";
+    return d.innerHTML;
+}
+
+function escRegex(s) {
+    return s.replace(/[.*+?^${}()|[\]\\]/g, "\\$&");
+}
+
+// Start
+init();
+</script>
+</body>
+</html>
