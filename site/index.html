@@ -5,457 +5,194 @@
     <meta name="viewport" content="width=device-width, initial-scale=1.0">
     <title>DPS Document Search</title>
     <style>
-        :root {
-            --bg: #f5f6f8; --card: #fff; --text: #1a1a2e; --muted: #6b7280;
-            --primary: #2563eb; --primary-hover: #1d4ed8; --border: #e2e5ea;
-            --highlight-bg: #fef08a; --cite-bg: #eff6ff; --cite-border: #2563eb;
-            --green: #059669;
-            --shadow: 0 1px 3px rgba(0,0,0,0.06);
-            --shadow-lg: 0 4px 12px rgba(0,0,0,0.08);
-        }
-        * { box-sizing: border-box; margin: 0; padding: 0; }
-        body {
-            font-family: -apple-system, BlinkMacSystemFont, "Segoe UI", Roboto, sans-serif;
-            background: var(--bg); color: var(--text); line-height: 1.6;
-        }
-        .container { max-width: 900px; margin: 0 auto; padding: 0 20px; }
-        header {
-            background: var(--card); border-bottom: 1px solid var(--border);
-            padding: 24px 0 20px; position: sticky; top: 0; z-index: 100;
-            box-shadow: var(--shadow);
-        }
-        header h1 { font-size: 1.25rem; font-weight: 700; margin-bottom: 14px; }
-        .search-row { display: flex; gap: 10px; position: relative; }
-        .search-input-wrap { flex: 1; position: relative; }
-        .search-input-wrap input {
-            width: 100%; padding: 11px 16px; font-size: 1rem;
-            border: 2px solid var(--border); border-radius: 8px;
-            outline: none; transition: border 0.2s;
-        }
-        .search-input-wrap input:focus { border-color: var(--primary); }
-        .search-row button {
-            padding: 11px 28px; font-size: 0.95rem; font-weight: 600;
-            background: var(--primary); color: #fff; border: none;
-            border-radius: 8px; cursor: pointer; white-space: nowrap;
-        }
-        .search-row button:hover { background: var(--primary-hover); }
-        .search-row button:disabled { background: #94a3b8; cursor: default; }
-
-        /* Autocomplete */
-        .autocomplete {
-            position: absolute; top: 100%; left: 0; right: 0;
-            background: var(--card); border: 1px solid var(--border);
-            border-radius: 0 0 8px 8px; box-shadow: var(--shadow-lg);
-            max-height: 200px; overflow-y: auto; display: none; z-index: 200;
-        }
-        .autocomplete .ac-item {
-            padding: 8px 16px; font-size: 0.9rem; cursor: pointer;
-        }
-        .autocomplete .ac-item:hover, .autocomplete .ac-item.active {
-            background: #eff6ff; color: var(--primary);
-        }
-
-        .filters {
-            display: flex; gap: 14px; margin-top: 10px;
-            align-items: center; flex-wrap: wrap;
-        }
-        .filters input {
-            padding: 7px 10px; font-size: 0.85rem;
-            border: 1px solid var(--border); border-radius: 6px;
-        }
-        .filters label { font-size: 0.84rem; color: var(--muted); font-weight: 500; }
-        .status-bar {
-            padding: 10px 0; font-size: 0.82rem; color: var(--muted);
-            display: flex; justify-content: space-between; align-items: center;
-        }
-        .badge {
-            display: inline-block; padding: 2px 10px; border-radius: 12px;
-            font-size: 0.72rem; font-weight: 700; text-transform: uppercase;
-        }
-        .badge-ready { background: #d1fae5; color: #065f46; }
-        .badge-loading { background: #fef3c7; color: #92400e; }
-        .badge-searching { background: #dbeafe; color: #1e40af; }
-        .badge-error { background: #fee2e2; color: #991b1b; }
-        .results-header {
-            padding: 14px 0 8px; font-size: 0.92rem; color: var(--muted);
-            display: flex; justify-content: space-between; align-items: center; flex-wrap: wrap; gap: 8px;
-        }
-        .export-btn {
-            padding: 7px 16px; font-size: 0.82rem; font-weight: 600;
-            background: var(--green); color: #fff; border: none;
-            border-radius: 6px; cursor: pointer;
-        }
-        .export-btn:hover { opacity: 0.9; }
-        .result-card {
-            background: var(--card); border: 1px solid var(--border);
-            border-radius: 10px; padding: 18px 22px; margin-bottom: 14px;
-            box-shadow: var(--shadow); transition: box-shadow 0.2s;
-        }
-        .result-card:hover { box-shadow: var(--shadow-lg); }
-        .result-card h3 { font-size: 0.92rem; font-weight: 600; margin-bottom: 8px; word-break: break-word; }
-        .result-card h3 a { color: var(--primary); text-decoration: none; }
-        .result-card h3 a:hover { text-decoration: underline; }
-        .meta-pills { display: flex; flex-wrap: wrap; gap: 6px; margin-bottom: 10px; }
-        .pill {
-            display: inline-block; padding: 2px 10px; border-radius: 12px;
-            font-size: 0.75rem; background: #f1f5f9; color: #475569; border: 1px solid #e2e8f0;
-        }
-        .pill strong { color: #334155; }
-        .citation-box {
-            background: var(--cite-bg); padding: 10px 14px; border-radius: 6px;
-            font-size: 0.82rem; margin-bottom: 12px;
-            border-left: 3px solid var(--cite-border); word-break: break-word;
-        }
-        .citation-box .label {
-            font-size: 0.68rem; font-weight: 700; text-transform: uppercase;
-            color: var(--primary); margin-bottom: 3px;
-        }
-        .match-block { border-top: 1px solid var(--border); padding-top: 10px; }
-        .match-sentence { font-size: 0.88rem; line-height: 1.75; padding: 4px 0; color: #374151; }
-        .match-sentence mark { background: var(--highlight-bg); padding: 1px 4px; border-radius: 3px; font-weight: 500; }
-        .match-count { font-size: 0.75rem; color: var(--muted); margin-bottom: 6px; }
-        .empty-state { text-align: center; padding: 80px 20px; color: var(--muted); }
-        .empty-state h2 { font-size: 1.1rem; margin-bottom: 6px; color: var(--text); }
-        .spinner {
-            display: inline-block; width: 18px; height: 18px;
-            border: 2.5px solid var(--border); border-top-color: var(--primary);
-            border-radius: 50%; animation: spin 0.6s linear infinite;
-            vertical-align: middle; margin-right: 6px;
-        }
-        @keyframes spin { to { transform: rotate(360deg); } }
-        .load-more {
-            display: block; width: 100%; padding: 12px; margin: 16px 0;
-            font-size: 0.9rem; font-weight: 600; text-align: center;
-            background: var(--card); color: var(--primary);
-            border: 2px solid var(--primary); border-radius: 8px; cursor: pointer;
-        }
-        .load-more:hover { background: #eff6ff; }
-        .cache-note { font-size: 0.75rem; color: var(--green); font-style: italic; }
-        .progress-bar { height: 3px; background: var(--border); border-radius: 2px; margin-top: 4px; overflow: hidden; }
-        .progress-fill { height: 100%; background: var(--primary); border-radius: 2px; transition: width 0.2s; }
-        .score-badge {
-            display: inline-block; padding: 1px 8px; border-radius: 10px;
-            font-size: 0.7rem; font-weight: 600; background: #fef3c7; color: #92400e;
-            margin-left: 6px;
-        }
+        :root{--bg:#f5f6f8;--card:#fff;--text:#1a1a2e;--muted:#6b7280;--primary:#2563eb;--primary-hover:#1d4ed8;--border:#e2e5ea;--highlight-bg:#fef08a;--cite-bg:#eff6ff;--cite-border:#2563eb;--green:#059669;--shadow:0 1px 3px rgba(0,0,0,.06);--shadow-lg:0 4px 12px rgba(0,0,0,.08)}
+        *{box-sizing:border-box;margin:0;padding:0}
+        body{font-family:-apple-system,BlinkMacSystemFont,"Segoe UI",Roboto,sans-serif;background:var(--bg);color:var(--text);line-height:1.6}
+        .container{max-width:900px;margin:0 auto;padding:0 20px}
+        header{background:var(--card);border-bottom:1px solid var(--border);padding:24px 0 20px;position:sticky;top:0;z-index:100;box-shadow:var(--shadow)}
+        header h1{font-size:1.25rem;font-weight:700;margin-bottom:14px}
+        .search-row{display:flex;gap:10px;position:relative}
+        .si-wrap{flex:1;position:relative}
+        .si-wrap input{width:100%;padding:11px 16px;font-size:1rem;border:2px solid var(--border);border-radius:8px;outline:none;transition:border .2s}
+        .si-wrap input:focus{border-color:var(--primary)}
+        .search-row button{padding:11px 28px;font-size:.95rem;font-weight:600;background:var(--primary);color:#fff;border:none;border-radius:8px;cursor:pointer;white-space:nowrap}
+        .search-row button:hover{background:var(--primary-hover)}
+        .search-row button:disabled{background:#94a3b8;cursor:default}
+        .ac{position:absolute;top:100%;left:0;right:0;background:var(--card);border:1px solid var(--border);border-radius:0 0 8px 8px;box-shadow:var(--shadow-lg);max-height:200px;overflow-y:auto;display:none;z-index:200}
+        .ac .ac-i{padding:8px 16px;font-size:.9rem;cursor:pointer}
+        .ac .ac-i:hover,.ac .ac-i.active{background:#eff6ff;color:var(--primary)}
+        .filters{display:flex;gap:14px;margin-top:10px;align-items:center;flex-wrap:wrap}
+        .filters input{padding:7px 10px;font-size:.85rem;border:1px solid var(--border);border-radius:6px}
+        .filters label{font-size:.84rem;color:var(--muted);font-weight:500}
+        .status-bar{padding:10px 0;font-size:.82rem;color:var(--muted);display:flex;justify-content:space-between;align-items:center}
+        .badge{display:inline-block;padding:2px 10px;border-radius:12px;font-size:.72rem;font-weight:700;text-transform:uppercase}
+        .badge-ready{background:#d1fae5;color:#065f46}.badge-loading{background:#fef3c7;color:#92400e}.badge-searching{background:#dbeafe;color:#1e40af}.badge-error{background:#fee2e2;color:#991b1b}
+        .rh{padding:14px 0 8px;font-size:.92rem;color:var(--muted);display:flex;justify-content:space-between;align-items:center;flex-wrap:wrap;gap:8px}
+        .export-btn{padding:7px 16px;font-size:.82rem;font-weight:600;background:var(--green);color:#fff;border:none;border-radius:6px;cursor:pointer}
+        .export-btn:hover{opacity:.9}
+        .rc{background:var(--card);border:1px solid var(--border);border-radius:10px;padding:18px 22px;margin-bottom:14px;box-shadow:var(--shadow);transition:box-shadow .2s}
+        .rc:hover{box-shadow:var(--shadow-lg)}
+        .rc h3{font-size:.92rem;font-weight:600;margin-bottom:8px;word-break:break-word}
+        .rc h3 a{color:var(--primary);text-decoration:none}.rc h3 a:hover{text-decoration:underline}
+        .mp{display:flex;flex-wrap:wrap;gap:6px;margin-bottom:10px}
+        .pill{display:inline-block;padding:2px 10px;border-radius:12px;font-size:.75rem;background:#f1f5f9;color:#475569;border:1px solid #e2e8f0}
+        .pill strong{color:#334155}
+        .cb{background:var(--cite-bg);padding:10px 14px;border-radius:6px;font-size:.82rem;margin-bottom:12px;border-left:3px solid var(--cite-border);word-break:break-word}
+        .cb .lb{font-size:.68rem;font-weight:700;text-transform:uppercase;color:var(--primary);margin-bottom:3px}
+        .mb{border-top:1px solid var(--border);padding-top:10px}
+        .ms{font-size:.88rem;line-height:1.75;padding:4px 0;color:#374151}
+        .ms mark{background:var(--highlight-bg);padding:1px 4px;border-radius:3px;font-weight:500}
+        .mc{font-size:.75rem;color:var(--muted);margin-bottom:6px}
+        .es{text-align:center;padding:80px 20px;color:var(--muted)}
+        .es h2{font-size:1.1rem;margin-bottom:6px;color:var(--text)}
+        .spinner{display:inline-block;width:18px;height:18px;border:2.5px solid var(--border);border-top-color:var(--primary);border-radius:50%;animation:spin .6s linear infinite;vertical-align:middle;margin-right:6px}
+        @keyframes spin{to{transform:rotate(360deg)}}
+        .lm{display:block;width:100%;padding:12px;margin:16px 0;font-size:.9rem;font-weight:600;text-align:center;background:var(--card);color:var(--primary);border:2px solid var(--primary);border-radius:8px;cursor:pointer}
+        .lm:hover{background:#eff6ff}
+        .cn{font-size:.75rem;color:var(--green);font-style:italic}
+        .pb{height:3px;background:var(--border);border-radius:2px;margin-top:4px;overflow:hidden}
+        .pf{height:100%;background:var(--primary);border-radius:2px;transition:width .2s}
+        .sb{display:inline-block;padding:1px 8px;border-radius:10px;font-size:.7rem;font-weight:600;background:#fef3c7;color:#92400e;margin-left:6px}
     </style>
 </head>
 <body>
-    <header>
-        <div class="container">
-            <h1>DPS Document Search Engine</h1>
-            <div class="search-row">
-                <div class="search-input-wrap">
-                    <input type="text" id="q" placeholder="Search documents..." autofocus
-                           onkeydown="handleKey(event)" oninput="showSuggestions()">
-                    <div class="autocomplete" id="acList"></div>
-                </div>
-                <button id="searchBtn" onclick="doSearch()">Search</button>
-            </div>
-            <div class="filters">
-                <label>Case: <input type="text" id="caseFilter"
-                    placeholder="e.g. 25-G-0073" style="width:130px"
-                    onkeydown="if(event.key==='Enter')doSearch()"></label>
-                <label>Company: <input type="text" id="companyFilter"
-                    placeholder="e.g. Con Edison" style="width:150px"
-                    onkeydown="if(event.key==='Enter')doSearch()"></label>
-            </div>
+<header><div class="container">
+    <h1>DPS Document Search Engine</h1>
+    <div class="search-row">
+        <div class="si-wrap">
+            <input type="text" id="q" placeholder="Search documents..." autofocus
+                   onkeydown="hk(event)" oninput="sug()">
+            <div class="ac" id="acL"></div>
         </div>
-    </header>
-
-    <div class="container">
-        <div class="status-bar">
-            <span id="statusText">Loading...</span>
-            <span id="statusBadge" class="badge badge-loading">loading</span>
-        </div>
-        <div id="progressBar" class="progress-bar" style="display:none">
-            <div id="progressFill" class="progress-fill" style="width:0%"></div>
-        </div>
-        <div id="resultsArea">
-            <div class="empty-state"><h2>Loading...</h2></div>
-        </div>
+        <button id="sBtn" onclick="doSearch()">Search</button>
     </div>
-
+    <div class="filters">
+        <label>Case: <input type="text" id="cf" placeholder="e.g. 25-G-0073" style="width:130px" onkeydown="if(event.key==='Enter')doSearch()"></label>
+        <label>Company: <input type="text" id="cof" placeholder="e.g. Con Edison" style="width:150px" onkeydown="if(event.key==='Enter')doSearch()"></label>
+    </div>
+</div></header>
+<div class="container">
+    <div class="status-bar">
+        <span id="st">Loading...</span>
+        <span id="sb" class="badge badge-loading">loading</span>
+    </div>
+    <div id="pb" class="pb" style="display:none"><div id="pf" class="pf" style="width:0%"></div></div>
+    <div id="ra"><div class="es"><h2>Loading...</h2></div></div>
+</div>
 <script>
-// ---- State ----
-let docsMeta = [];
-let metaById = {};
-let suggestions = [];
-let worker = null;
-let workerReady = false;
-let isSearching = false;
-let currentResults = [];
-let visibleCount = 0;
-let acIndex = -1;
-const PER_PAGE = 20;
+let DM=[],MB={},SG=[],W=null,WR=false,IS=false,CR=[],VC=0,AI=-1;
+const PP=20;
 
-// ---- Init ----
-async function init() {
-    try {
-        // Load metadata (small, instant)
-        const metaResp = await fetch("metadata.json");
-        if (!metaResp.ok) throw new Error("metadata.json not found");
-        const metaData = await metaResp.json();
-        docsMeta = metaData.documents;
-        metaById = {};
-        for (const d of docsMeta) metaById[d.id] = d;
-
-        // Load suggestions (tiny, instant)
-        try {
-            const sugResp = await fetch("suggestions.json");
-            if (sugResp.ok) suggestions = await sugResp.json();
-        } catch (e) { /* suggestions are optional */ }
-
-        // Start worker (loads word_index.json in background)
-        worker = new Worker("search-worker.js");
-        worker.onmessage = handleWorkerMessage;
-        worker.postMessage({ type: "init" });
-
-        setStatus(docsMeta.length + " documents ready to search", "ready");
-        document.getElementById("resultsArea").innerHTML =
-            '<div class="empty-state"><h2>Search your DPS documents</h2>' +
-            '<p>' + docsMeta.length + ' documents available. Type a keyword above.</p>' +
-            '<p style="font-size:0.82rem;margin-top:8px;color:#9ca3af;">' +
-            'Powered by inverted index + TF-IDF scoring. Repeat searches are cached.</p></div>';
-
-    } catch (e) {
-        setStatus("Error: " + e.message, "error");
-        document.getElementById("resultsArea").innerHTML =
-            '<div class="empty-state"><h2>Failed to load</h2><p>' + e.message + '</p></div>';
+async function init(){
+    try{
+        const r=await fetch("metadata.json");
+        if(!r.ok)throw new Error("metadata.json not found");
+        const d=await r.json();DM=d.documents;
+        MB={};for(const x of DM)MB[x.id]=x;
+        try{const s=await fetch("suggestions.json");if(s.ok)SG=await s.json();}catch(e){}
+        W=new Worker("search-worker.js");
+        W.onmessage=wm;
+        W.postMessage({type:"init"});
+        ss(DM.length+" documents ready","ready");
+        $("ra").innerHTML='<div class="es"><h2>Search your DPS documents</h2><p>'+DM.length+' docs. Inverted index + TF-IDF. Repeat searches cached.</p></div>';
+    }catch(e){
+        ss("Error: "+e.message,"error");
+        $("ra").innerHTML='<div class="es"><h2>Failed to load</h2><p>'+e.message+'</p></div>';
     }
 }
 
-// ---- Worker messages ----
-function handleWorkerMessage(e) {
-    const msg = e.data;
-    if (msg.type === "ready") {
-        workerReady = true;
-    } else if (msg.type === "progress") {
-        document.getElementById("progressFill").style.width = msg.pct + "%";
-        if (msg.note) document.getElementById("statusText").textContent = msg.note;
-    } else if (msg.type === "results") {
-        onSearchResults(msg.results, msg.cached);
-    } else if (msg.type === "error") {
-        setStatus("Error: " + msg.message, "error");
-        isSearching = false;
-        document.getElementById("searchBtn").disabled = false;
+function wm(e){
+    const m=e.data;
+    if(m.type==="ready")WR=true;
+    else if(m.type==="progress"){$("pf").style.width=m.pct+"%";if(m.note)$("st").textContent=m.note;}
+    else if(m.type==="results")or(m.results,m.cached);
+    else if(m.type==="error"){ss("Error: "+m.message,"error");IS=false;$("sBtn").disabled=false;}
+}
+
+function doSearch(){
+    const q=$("q").value.trim();if(!q||!DM.length||IS)return;hac();
+    const cf=$("cf").value.trim().toLowerCase();
+    const cof=$("cof").value.trim().toLowerCase();
+    const ci=[],cm={};
+    for(const d of DM){
+        if(cf&&!d.case_number.toLowerCase().includes(cf))continue;
+        if(cof&&!d.company_name.toLowerCase().includes(cof))continue;
+        ci.push(d.id);cm[d.id]=d.chunk;
     }
+    IS=true;$("sBtn").disabled=true;ss("Searching...","searching");
+    $("pb").style.display="block";$("pf").style.width="0%";
+    $("ra").innerHTML='<div class="rh"><span class="spinner"></span> Searching...</div>';
+    W.postMessage({type:"search",query:q,candidateIds:ci,chunkMap:cm});
 }
 
-// ---- Search ----
-function doSearch() {
-    const q = document.getElementById("q").value.trim();
-    if (!q || !docsMeta.length || isSearching) return;
-    hideAC();
-
-    // Filter metadata by case/company (instant, on main thread)
-    const caseF = document.getElementById("caseFilter").value.trim().toLowerCase();
-    const compF = document.getElementById("companyFilter").value.trim().toLowerCase();
-
-    let candidateIds = [];
-    for (const d of docsMeta) {
-        if (caseF && !d.case_number.toLowerCase().includes(caseF)) continue;
-        if (compF && !d.company_name.toLowerCase().includes(compF)) continue;
-        candidateIds.push(d.id);
-    }
-
-    isSearching = true;
-    document.getElementById("searchBtn").disabled = true;
-    setStatus("Searching...", "searching");
-    document.getElementById("progressBar").style.display = "block";
-    document.getElementById("progressFill").style.width = "0%";
-    document.getElementById("resultsArea").innerHTML =
-        '<div class="results-header"><span class="spinner"></span> Searching...</div>';
-
-    // Delegate to worker
-    worker.postMessage({ type: "search", query: q, candidateIds: candidateIds });
+function or(results,cached){
+    const q=$("q").value.trim();IS=false;$("sBtn").disabled=false;
+    $("pb").style.display="none";ss(DM.length+" documents indexed","ready");
+    CR=results.map(r=>({...r,meta:MB[r.docId]||{}}));rr(q,cached);
 }
 
-function onSearchResults(results, cached) {
-    const q = document.getElementById("q").value.trim();
-    isSearching = false;
-    document.getElementById("searchBtn").disabled = false;
-    document.getElementById("progressBar").style.display = "none";
-    setStatus(docsMeta.length + " documents indexed", "ready");
-
-    // Enrich with metadata
-    currentResults = results.map(r => ({
-        ...r,
-        meta: metaById[r.docId] || {},
-    }));
-
-    renderResults(q, cached);
+function rr(q,cached){
+    const a=$("ra");
+    if(!CR.length){a.innerHTML='<div class="es"><h2>No results</h2><p>Try different keywords.</p></div>';return;}
+    VC=Math.min(PP,CR.length);
+    let h='<div class="rh"><span>'+CR.length+' result(s) for "<strong>'+E(q)+'</strong>"';
+    if(cached)h+=' <span class="cn">(cached — instant)</span>';
+    h+='</span><button class="export-btn" onclick="xp()">Export CSV</button></div>';
+    h+=bc(q,0,VC);
+    if(CR.length>VC)h+='<button class="lm" onclick="lm()">Show more ('+(CR.length-VC)+' remaining)</button>';
+    a.innerHTML=h;
 }
 
-// ---- Render ----
-function renderResults(query, cached) {
-    const area = document.getElementById("resultsArea");
-    if (currentResults.length === 0) {
-        area.innerHTML = '<div class="empty-state"><h2>No results found</h2>' +
-            '<p>Try different keywords or remove the filters.</p></div>';
-        return;
-    }
-    visibleCount = Math.min(PER_PAGE, currentResults.length);
-
-    let html = '<div class="results-header"><span>' + currentResults.length +
-        ' result(s) for "<strong>' + esc(query) + '</strong>"';
-    if (cached) html += ' <span class="cache-note">(cached — instant)</span>';
-    html += '</span><button class="export-btn" onclick="exportCSV()">Export CSV</button></div>';
-    html += buildCards(query, 0, visibleCount);
-
-    if (currentResults.length > visibleCount) {
-        html += '<button class="load-more" onclick="loadMore()">Show more (' +
-            (currentResults.length - visibleCount) + ' remaining)</button>';
-    }
-    area.innerHTML = html;
+function bc(q,f,t){
+    let h="";for(let i=f;i<t;i++){const r=CR[i],d=r.meta;
+    h+='<div class="rc"><h3>';
+    if(d.link)h+='<a href="'+E(d.link)+'" target="_blank">'+E(d.filename)+'</a>';
+    else h+=E(d.filename||"Doc "+r.docId);
+    h+=' <span class="sb">score: '+r.score+'</span></h3><div class="mp">';
+    if(d.case_number)h+='<span class="pill"><strong>Case:</strong> '+E(d.case_number)+'</span>';
+    if(d.company_name)h+='<span class="pill"><strong>Co:</strong> '+E(d.company_name)+'</span>';
+    if(d.doc_type)h+='<span class="pill">'+E(d.doc_type)+'</span>';
+    if(d.date_filed)h+='<span class="pill">'+E(d.date_filed)+'</span>';
+    if(d.item_no)h+='<span class="pill"><strong>Paper:</strong> '+E(d.item_no)+'</span>';
+    h+='</div>';
+    if(d.citation)h+='<div class="cb"><div class="lb">Citation</div>'+E(d.citation)+'</div>';
+    if(r.matchedSentences.length){h+='<div class="mb"><div class="mc">'+r.matchedSentences.length+' sentence match(es)</div>';
+    for(const s of r.matchedSentences)h+='<div class="ms">...'+hi(s,q)+'...</div>';h+='</div>';}
+    h+='</div>';}return h;
 }
 
-function buildCards(query, from, to) {
-    let html = "";
-    for (let i = from; i < to; i++) {
-        const r = currentResults[i];
-        const d = r.meta;
-        html += '<div class="result-card">';
-        html += '<h3>';
-        if (d.link) html += '<a href="' + esc(d.link) + '" target="_blank">' + esc(d.filename) + '</a>';
-        else html += esc(d.filename || "Document " + r.docId);
-        html += ' <span class="score-badge">score: ' + r.score + '</span>';
-        html += '</h3>';
-        html += '<div class="meta-pills">';
-        if (d.case_number) html += '<span class="pill"><strong>Case:</strong> ' + esc(d.case_number) + '</span>';
-        if (d.company_name) html += '<span class="pill"><strong>Co:</strong> ' + esc(d.company_name) + '</span>';
-        if (d.doc_type) html += '<span class="pill">' + esc(d.doc_type) + '</span>';
-        if (d.date_filed) html += '<span class="pill">' + esc(d.date_filed) + '</span>';
-        if (d.item_no) html += '<span class="pill"><strong>Paper:</strong> ' + esc(d.item_no) + '</span>';
-        html += '</div>';
-        if (d.citation) {
-            html += '<div class="citation-box"><div class="label">Citation</div>' + esc(d.citation) + '</div>';
-        }
-        if (r.matchedSentences.length > 0) {
-            html += '<div class="match-block">';
-            html += '<div class="match-count">' + r.matchedSentences.length + ' sentence match(es)</div>';
-            for (const s of r.matchedSentences) {
-                html += '<div class="match-sentence">...' + hi(s, query) + '...</div>';
-            }
-            html += '</div>';
-        }
-        html += '</div>';
-    }
-    return html;
-}
+function lm(){const q=$("q").value.trim();const nv=Math.min(VC+PP,CR.length);
+const h=bc(q,VC,nv);VC=nv;const a=$("ra");const b=a.querySelector(".lm");if(b)b.remove();
+a.insertAdjacentHTML("beforeend",h);
+if(CR.length>VC)a.insertAdjacentHTML("beforeend",'<button class="lm" onclick="lm()">Show more ('+(CR.length-VC)+' remaining)</button>');}
 
-function loadMore() {
-    const query = document.getElementById("q").value.trim();
-    const nv = Math.min(visibleCount + PER_PAGE, currentResults.length);
-    const html = buildCards(query, visibleCount, nv);
-    visibleCount = nv;
-    const area = document.getElementById("resultsArea");
-    const btn = area.querySelector(".load-more");
-    if (btn) btn.remove();
-    area.insertAdjacentHTML("beforeend", html);
-    if (currentResults.length > visibleCount) {
-        area.insertAdjacentHTML("beforeend",
-            '<button class="load-more" onclick="loadMore()">Show more (' +
-            (currentResults.length - visibleCount) + ' remaining)</button>');
-    }
-}
+function sug(){const q=$("q").value.trim().toLowerCase();const l=$("acL");
+if(q.length<2||!SG.length){hac();return;}const lw=q.split(/\s+/).pop();
+if(lw.length<2){hac();return;}const m=SG.filter(s=>s.startsWith(lw)).slice(0,8);
+if(!m.length){hac();return;}AI=-1;
+l.innerHTML=m.map(x=>'<div class="ac-i" onmousedown="pk(\''+E(x)+'\')">'+E(x)+'</div>').join("");
+l.style.display="block";}
 
-// ---- Autocomplete ----
-function showSuggestions() {
-    const q = document.getElementById("q").value.trim().toLowerCase();
-    const list = document.getElementById("acList");
-    if (q.length < 2 || suggestions.length === 0) { hideAC(); return; }
+function pk(w){const i=$("q");const ws=i.value.trim().split(/\s+/);ws[ws.length-1]=w;i.value=ws.join(" ")+" ";hac();i.focus();}
+function hac(){$("acL").style.display="none";AI=-1;}
+function hk(e){const l=$("acL"),its=l.querySelectorAll(".ac-i");
+if(e.key==="ArrowDown"&&l.style.display==="block"){e.preventDefault();AI=Math.min(AI+1,its.length-1);its.forEach((x,i)=>x.classList.toggle("active",i===AI));}
+else if(e.key==="ArrowUp"&&l.style.display==="block"){e.preventDefault();AI=Math.max(AI-1,0);its.forEach((x,i)=>x.classList.toggle("active",i===AI));}
+else if(e.key==="Enter"){if(AI>=0&&its[AI])pk(its[AI].textContent);else{hac();doSearch();}}
+else if(e.key==="Escape")hac();}
+document.addEventListener("click",e=>{if(!e.target.closest(".si-wrap"))hac();});
 
-    const lastWord = q.split(/\s+/).pop();
-    if (lastWord.length < 2) { hideAC(); return; }
+function xp(){const q=$("q").value.trim();
+let c="File,Case Number,Company Name,Document Type,Document Title,Filing On Behalf Of,Date Filed,Paper No.,Citation,TF-IDF Score,Matched Sentences\n";
+for(const r of CR){const d=r.meta;c+=[cl(d.filename),cl(d.case_number),cl(d.company_name),cl(d.doc_type),cl(d.doc_title),cl(d.filing_on_behalf),cl(d.date_filed),cl(d.item_no),cl(d.citation),r.score,cl(r.matchedSentences.join(" | "))].join(",")+"\n";}
+const b=new Blob([c],{type:"text/csv"});const a=document.createElement("a");a.href=URL.createObjectURL(b);
+a.download="search_"+q.replace(/\s+/g,"_").substring(0,30)+".csv";a.click();}
 
-    const matches = suggestions.filter(s => s.startsWith(lastWord)).slice(0, 8);
-    if (matches.length === 0) { hideAC(); return; }
-
-    acIndex = -1;
-    list.innerHTML = matches.map((m, i) =>
-        '<div class="ac-item" onmousedown="pickSuggestion(\'' + esc(m) + '\')">' + esc(m) + '</div>'
-    ).join("");
-    list.style.display = "block";
-}
-
-function pickSuggestion(word) {
-    const input = document.getElementById("q");
-    const words = input.value.trim().split(/\s+/);
-    words[words.length - 1] = word;
-    input.value = words.join(" ") + " ";
-    hideAC();
-    input.focus();
-}
-
-function hideAC() {
-    document.getElementById("acList").style.display = "none";
-    acIndex = -1;
-}
-
-function handleKey(e) {
-    const list = document.getElementById("acList");
-    const items = list.querySelectorAll(".ac-item");
-
-    if (e.key === "ArrowDown" && list.style.display === "block") {
-        e.preventDefault();
-        acIndex = Math.min(acIndex + 1, items.length - 1);
-        items.forEach((it, i) => it.classList.toggle("active", i === acIndex));
-    } else if (e.key === "ArrowUp" && list.style.display === "block") {
-        e.preventDefault();
-        acIndex = Math.max(acIndex - 1, 0);
-        items.forEach((it, i) => it.classList.toggle("active", i === acIndex));
-    } else if (e.key === "Enter") {
-        if (acIndex >= 0 && items[acIndex]) {
-            pickSuggestion(items[acIndex].textContent);
-        } else {
-            hideAC();
-            doSearch();
-        }
-    } else if (e.key === "Escape") {
-        hideAC();
-    }
-}
-
-document.addEventListener("click", function (e) {
-    if (!e.target.closest(".search-input-wrap")) hideAC();
-});
-
-// ---- Export ----
-function exportCSV() {
-    const query = document.getElementById("q").value.trim();
-    let csv = "File,Case Number,Company Name,Document Type,Document Title," +
-        "Filing On Behalf Of,Date Filed,Paper No.,Citation,TF-IDF Score,Matched Sentences\n";
-    for (const r of currentResults) {
-        const d = r.meta;
-        csv += [cell(d.filename), cell(d.case_number), cell(d.company_name),
-            cell(d.doc_type), cell(d.doc_title), cell(d.filing_on_behalf),
-            cell(d.date_filed), cell(d.item_no), cell(d.citation),
-            r.score, cell(r.matchedSentences.join(" | "))
-        ].join(",") + "\n";
-    }
-    const blob = new Blob([csv], { type: "text/csv" });
-    const a = document.createElement("a");
-    a.href = URL.createObjectURL(blob);
-    a.download = "search_" + query.replace(/\s+/g, "_").substring(0, 30) + ".csv";
-    a.click();
-}
-
-// ---- Helpers ----
-function setStatus(text, type) {
-    document.getElementById("statusText").textContent = text;
-    const b = document.getElementById("statusBadge");
-    b.textContent = type; b.className = "badge badge-" + type;
-}
-function hi(text, query) {
-    let r = esc(text);
-    for (const w of query.split(/\s+/).filter(Boolean)) {
-        r = r.replace(new RegExp("(" + w.replace(/[.*+?^${}()|[\]\\]/g, "\\$&") + ")", "gi"), "<mark>$1</mark>");
-    }
-    return r;
-}
-function esc(s) { const d = document.createElement("div"); d.textContent = s || ""; return d.innerHTML; }
-function cell(v) { if (!v) return '""'; return '"' + String(v).replace(/"/g, '""') + '"'; }
+function ss(t,ty){$("st").textContent=t;const b=$("sb");b.textContent=ty;b.className="badge badge-"+ty;}
+function $(id){return document.getElementById(id);}
+function hi(t,q){let r=E(t);for(const w of q.split(/\s+/).filter(Boolean))r=r.replace(new RegExp("("+w.replace(/[.*+?^${}()|[\]\\]/g,"\\$&")+")","gi"),"<mark>$1</mark>");return r;}
+function E(s){const d=document.createElement("div");d.textContent=s||"";return d.innerHTML;}
+function cl(v){if(!v)return '""';return '"'+String(v).replace(/"/g,'""')+'"';}
 
 init();
 </script>
