@@ -10,7 +10,7 @@
             --primary: #2563eb; --primary-hover: #1d4ed8; --border: #e2e5ea;
             --highlight-bg: #fef08a; --cite-bg: #eff6ff; --cite-border: #2563eb;
             --green: #059669;
-            --shadow: 0 1px 3px rgba(0,0,0,0.06), 0 1px 2px rgba(0,0,0,0.04);
+            --shadow: 0 1px 3px rgba(0,0,0,0.06);
             --shadow-lg: 0 4px 12px rgba(0,0,0,0.08);
         }
         * { box-sizing: border-box; margin: 0; padding: 0; }
@@ -25,13 +25,14 @@
             box-shadow: var(--shadow);
         }
         header h1 { font-size: 1.25rem; font-weight: 700; margin-bottom: 14px; }
-        .search-row { display: flex; gap: 10px; }
-        .search-row input[type="text"] {
-            flex: 1; padding: 11px 16px; font-size: 1rem;
+        .search-row { display: flex; gap: 10px; position: relative; }
+        .search-input-wrap { flex: 1; position: relative; }
+        .search-input-wrap input {
+            width: 100%; padding: 11px 16px; font-size: 1rem;
             border: 2px solid var(--border); border-radius: 8px;
             outline: none; transition: border 0.2s;
         }
-        .search-row input:focus { border-color: var(--primary); }
+        .search-input-wrap input:focus { border-color: var(--primary); }
         .search-row button {
             padding: 11px 28px; font-size: 0.95rem; font-weight: 600;
             background: var(--primary); color: #fff; border: none;
@@ -39,6 +40,21 @@
         }
         .search-row button:hover { background: var(--primary-hover); }
         .search-row button:disabled { background: #94a3b8; cursor: default; }
+
+        /* Autocomplete */
+        .autocomplete {
+            position: absolute; top: 100%; left: 0; right: 0;
+            background: var(--card); border: 1px solid var(--border);
+            border-radius: 0 0 8px 8px; box-shadow: var(--shadow-lg);
+            max-height: 200px; overflow-y: auto; display: none; z-index: 200;
+        }
+        .autocomplete .ac-item {
+            padding: 8px 16px; font-size: 0.9rem; cursor: pointer;
+        }
+        .autocomplete .ac-item:hover, .autocomplete .ac-item.active {
+            background: #eff6ff; color: var(--primary);
+        }
+
         .filters {
             display: flex; gap: 14px; margin-top: 10px;
             align-items: center; flex-wrap: wrap;
@@ -62,7 +78,7 @@
         .badge-error { background: #fee2e2; color: #991b1b; }
         .results-header {
             padding: 14px 0 8px; font-size: 0.92rem; color: var(--muted);
-            display: flex; justify-content: space-between; align-items: center;
+            display: flex; justify-content: space-between; align-items: center; flex-wrap: wrap; gap: 8px;
         }
         .export-btn {
             padding: 7px 16px; font-size: 0.82rem; font-weight: 600;
@@ -82,27 +98,21 @@
         .meta-pills { display: flex; flex-wrap: wrap; gap: 6px; margin-bottom: 10px; }
         .pill {
             display: inline-block; padding: 2px 10px; border-radius: 12px;
-            font-size: 0.75rem; background: #f1f5f9; color: #475569;
-            border: 1px solid #e2e8f0;
+            font-size: 0.75rem; background: #f1f5f9; color: #475569; border: 1px solid #e2e8f0;
         }
         .pill strong { color: #334155; }
         .citation-box {
             background: var(--cite-bg); padding: 10px 14px; border-radius: 6px;
             font-size: 0.82rem; margin-bottom: 12px;
-            border-left: 3px solid var(--cite-border);
-            word-break: break-word; line-height: 1.5;
+            border-left: 3px solid var(--cite-border); word-break: break-word;
         }
         .citation-box .label {
             font-size: 0.68rem; font-weight: 700; text-transform: uppercase;
             color: var(--primary); margin-bottom: 3px;
         }
         .match-block { border-top: 1px solid var(--border); padding-top: 10px; }
-        .match-sentence {
-            font-size: 0.88rem; line-height: 1.75; padding: 4px 0; color: #374151;
-        }
-        .match-sentence mark {
-            background: var(--highlight-bg); padding: 1px 4px; border-radius: 3px; font-weight: 500;
-        }
+        .match-sentence { font-size: 0.88rem; line-height: 1.75; padding: 4px 0; color: #374151; }
+        .match-sentence mark { background: var(--highlight-bg); padding: 1px 4px; border-radius: 3px; font-weight: 500; }
         .match-count { font-size: 0.75rem; color: var(--muted); margin-bottom: 6px; }
         .empty-state { text-align: center; padding: 80px 20px; color: var(--muted); }
         .empty-state h2 { font-size: 1.1rem; margin-bottom: 6px; color: var(--text); }
@@ -121,13 +131,12 @@
         }
         .load-more:hover { background: #eff6ff; }
         .cache-note { font-size: 0.75rem; color: var(--green); font-style: italic; }
-        .progress-bar {
-            height: 3px; background: var(--border); border-radius: 2px;
-            margin-top: 4px; overflow: hidden;
-        }
-        .progress-fill {
-            height: 100%; background: var(--primary); border-radius: 2px;
-            transition: width 0.3s;
+        .progress-bar { height: 3px; background: var(--border); border-radius: 2px; margin-top: 4px; overflow: hidden; }
+        .progress-fill { height: 100%; background: var(--primary); border-radius: 2px; transition: width 0.2s; }
+        .score-badge {
+            display: inline-block; padding: 1px 8px; border-radius: 10px;
+            font-size: 0.7rem; font-weight: 600; background: #fef3c7; color: #92400e;
+            margin-left: 6px;
         }
     </style>
 </head>
@@ -136,9 +145,12 @@
         <div class="container">
             <h1>DPS Document Search Engine</h1>
             <div class="search-row">
-                <input type="text" id="q" placeholder="Search documents..." autofocus
-                       onkeydown="if(event.key==='Enter')doSearch()">
-                <button id="searchBtn" onclick="doSearch()" disabled>Loading data...</button>
+                <div class="search-input-wrap">
+                    <input type="text" id="q" placeholder="Search documents..." autofocus
+                           onkeydown="handleKey(event)" oninput="showSuggestions()">
+                    <div class="autocomplete" id="acList"></div>
+                </div>
+                <button id="searchBtn" onclick="doSearch()">Search</button>
             </div>
             <div class="filters">
                 <label>Case: <input type="text" id="caseFilter"
@@ -153,181 +165,148 @@
 
     <div class="container">
         <div class="status-bar">
-            <span id="statusText">Loading document data...</span>
+            <span id="statusText">Loading...</span>
             <span id="statusBadge" class="badge badge-loading">loading</span>
         </div>
         <div id="progressBar" class="progress-bar" style="display:none">
             <div id="progressFill" class="progress-fill" style="width:0%"></div>
         </div>
         <div id="resultsArea">
-            <div class="empty-state">
-                <h2>Loading document data...</h2>
-                <p>Please wait while the search data is loaded.</p>
-            </div>
+            <div class="empty-state"><h2>Loading...</h2></div>
         </div>
     </div>
 
 <script>
 // ---- State ----
-let allDocs = [];
-let isReady = false;
+let docsMeta = [];
+let metaById = {};
+let suggestions = [];
+let worker = null;
+let workerReady = false;
 let isSearching = false;
-const searchCache = new Map();    // query key → results array
 let currentResults = [];
 let visibleCount = 0;
+let acIndex = -1;
 const PER_PAGE = 20;
 
-// ---- Load data (NO indexing — just parse the JSON) ----
+// ---- Init ----
 async function init() {
     try {
-        const resp = await fetch("search_data.json");
-        if (!resp.ok) throw new Error("search_data.json not found (HTTP " + resp.status + ")");
-        const data = await resp.json();
-        allDocs = data.documents;
+        // Load metadata (small, instant)
+        const metaResp = await fetch("metadata.json");
+        if (!metaResp.ok) throw new Error("metadata.json not found");
+        const metaData = await metaResp.json();
+        docsMeta = metaData.documents;
+        metaById = {};
+        for (const d of docsMeta) metaById[d.id] = d;
 
-        isReady = true;
-        document.getElementById("searchBtn").disabled = false;
-        document.getElementById("searchBtn").textContent = "Search";
-        document.getElementById("statusText").textContent =
-            allDocs.length + " documents loaded — search on demand";
-        document.getElementById("statusBadge").textContent = "ready";
-        document.getElementById("statusBadge").className = "badge badge-ready";
+        // Load suggestions (tiny, instant)
+        try {
+            const sugResp = await fetch("suggestions.json");
+            if (sugResp.ok) suggestions = await sugResp.json();
+        } catch (e) { /* suggestions are optional */ }
+
+        // Start worker (loads word_index.json in background)
+        worker = new Worker("search-worker.js");
+        worker.onmessage = handleWorkerMessage;
+        worker.postMessage({ type: "init" });
+
+        setStatus(docsMeta.length + " documents ready to search", "ready");
         document.getElementById("resultsArea").innerHTML =
             '<div class="empty-state"><h2>Search your DPS documents</h2>' +
-            '<p>' + allDocs.length + ' documents ready. Type a keyword above.</p>' +
+            '<p>' + docsMeta.length + ' documents available. Type a keyword above.</p>' +
             '<p style="font-size:0.82rem;margin-top:8px;color:#9ca3af;">' +
-            'First search scans all documents. Repeat searches are instant (cached).</p></div>';
+            'Powered by inverted index + TF-IDF scoring. Repeat searches are cached.</p></div>';
 
-    } catch(e) {
-        document.getElementById("statusText").textContent = "Error: " + e.message;
-        document.getElementById("statusBadge").textContent = "error";
-        document.getElementById("statusBadge").className = "badge badge-error";
+    } catch (e) {
+        setStatus("Error: " + e.message, "error");
         document.getElementById("resultsArea").innerHTML =
-            '<div class="empty-state"><h2>Failed to load data</h2>' +
-            '<p>Make sure search_data.json exists. Run: python build_index.py</p></div>';
+            '<div class="empty-state"><h2>Failed to load</h2><p>' + e.message + '</p></div>';
     }
 }
 
-// ---- Build a cache key from the current query + filters ----
-function cacheKey() {
-    const q = document.getElementById("q").value.trim().toLowerCase();
-    const c = document.getElementById("caseFilter").value.trim().toLowerCase();
-    const co = document.getElementById("companyFilter").value.trim().toLowerCase();
-    return q + "|" + c + "|" + co;
+// ---- Worker messages ----
+function handleWorkerMessage(e) {
+    const msg = e.data;
+    if (msg.type === "ready") {
+        workerReady = true;
+    } else if (msg.type === "progress") {
+        document.getElementById("progressFill").style.width = msg.pct + "%";
+        if (msg.note) document.getElementById("statusText").textContent = msg.note;
+    } else if (msg.type === "results") {
+        onSearchResults(msg.results, msg.cached);
+    } else if (msg.type === "error") {
+        setStatus("Error: " + msg.message, "error");
+        isSearching = false;
+        document.getElementById("searchBtn").disabled = false;
+    }
 }
 
-// ---- Search (on demand, in batches, with caching) ----
-async function doSearch() {
+// ---- Search ----
+function doSearch() {
     const q = document.getElementById("q").value.trim();
-    if (!q || !isReady || isSearching) return;
+    if (!q || !docsMeta.length || isSearching) return;
+    hideAC();
 
-    const key = cacheKey();
-
-    // Check cache first
-    if (searchCache.has(key)) {
-        currentResults = searchCache.get(key);
-        renderResults(q, true);
-        return;
-    }
-
+    // Filter metadata by case/company (instant, on main thread)
     const caseF = document.getElementById("caseFilter").value.trim().toLowerCase();
     const compF = document.getElementById("companyFilter").value.trim().toLowerCase();
-    const qWords = q.toLowerCase().split(/\s+/).filter(Boolean);
+
+    let candidateIds = [];
+    for (const d of docsMeta) {
+        if (caseF && !d.case_number.toLowerCase().includes(caseF)) continue;
+        if (compF && !d.company_name.toLowerCase().includes(compF)) continue;
+        candidateIds.push(d.id);
+    }
 
     isSearching = true;
     document.getElementById("searchBtn").disabled = true;
-    document.getElementById("searchBtn").textContent = "Searching...";
-    document.getElementById("statusBadge").textContent = "searching";
-    document.getElementById("statusBadge").className = "badge badge-searching";
+    setStatus("Searching...", "searching");
     document.getElementById("progressBar").style.display = "block";
     document.getElementById("progressFill").style.width = "0%";
     document.getElementById("resultsArea").innerHTML =
-        '<div class="results-header"><span class="spinner"></span> Searching ' +
-        allDocs.length + ' documents...</div>';
+        '<div class="results-header"><span class="spinner"></span> Searching...</div>';
 
-    const results = [];
-    const BATCH = 50;
+    // Delegate to worker
+    worker.postMessage({ type: "search", query: q, candidateIds: candidateIds });
+}
 
-    for (let i = 0; i < allDocs.length; i += BATCH) {
-        const end = Math.min(i + BATCH, allDocs.length);
-
-        // Process a batch
-        for (let j = i; j < end; j++) {
-            const doc = allDocs[j];
-
-            // Apply filters on metadata first (fast)
-            if (caseF && !doc.case_number.toLowerCase().includes(caseF)) continue;
-            if (compF && !doc.company_name.toLowerCase().includes(compF)) continue;
-
-            // Search sentences (only if metadata passes)
-            const matched = [];
-            for (const s of doc.sentences) {
-                const sLower = s.toLowerCase();
-                if (qWords.every(w => sLower.includes(w))) {
-                    matched.push(s);
-                    if (matched.length >= 5) break;
-                }
-            }
-
-            if (matched.length > 0) {
-                results.push({ doc: doc, matchedSentences: matched, matchCount: matched.length });
-            }
-        }
-
-        // Update progress and yield to the browser
-        const pct = Math.round((end / allDocs.length) * 100);
-        document.getElementById("progressFill").style.width = pct + "%";
-        document.getElementById("statusText").textContent =
-            "Searching... " + pct + "% (" + end + "/" + allDocs.length + " docs)";
-
-        // Yield so the UI doesn't freeze
-        await new Promise(r => setTimeout(r, 0));
-    }
-
-    // Sort by number of matches
-    results.sort((a, b) => b.matchCount - a.matchCount);
-
-    // Cache it
-    searchCache.set(key, results);
-
-    currentResults = results;
+function onSearchResults(results, cached) {
+    const q = document.getElementById("q").value.trim();
     isSearching = false;
-
     document.getElementById("searchBtn").disabled = false;
-    document.getElementById("searchBtn").textContent = "Search";
     document.getElementById("progressBar").style.display = "none";
-    document.getElementById("statusText").textContent =
-        allDocs.length + " documents loaded — " + searchCache.size + " search(es) cached";
-    document.getElementById("statusBadge").textContent = "ready";
-    document.getElementById("statusBadge").className = "badge badge-ready";
+    setStatus(docsMeta.length + " documents indexed", "ready");
 
-    renderResults(q, false);
+    // Enrich with metadata
+    currentResults = results.map(r => ({
+        ...r,
+        meta: metaById[r.docId] || {},
+    }));
+
+    renderResults(q, cached);
 }
 
 // ---- Render ----
-function renderResults(query, fromCache) {
+function renderResults(query, cached) {
     const area = document.getElementById("resultsArea");
-
     if (currentResults.length === 0) {
         area.innerHTML = '<div class="empty-state"><h2>No results found</h2>' +
             '<p>Try different keywords or remove the filters.</p></div>';
         return;
     }
-
     visibleCount = Math.min(PER_PAGE, currentResults.length);
 
     let html = '<div class="results-header"><span>' + currentResults.length +
-        ' result(s) for "<strong>' + escHtml(query) + '</strong>"';
-    if (fromCache) html += ' <span class="cache-note">(cached — instant)</span>';
+        ' result(s) for "<strong>' + esc(query) + '</strong>"';
+    if (cached) html += ' <span class="cache-note">(cached — instant)</span>';
     html += '</span><button class="export-btn" onclick="exportCSV()">Export CSV</button></div>';
-
     html += buildCards(query, 0, visibleCount);
 
     if (currentResults.length > visibleCount) {
         html += '<button class="load-more" onclick="loadMore()">Show more (' +
             (currentResults.length - visibleCount) + ' remaining)</button>';
     }
-
     area.innerHTML = html;
 }
 
@@ -335,35 +314,28 @@ function buildCards(query, from, to) {
     let html = "";
     for (let i = from; i < to; i++) {
         const r = currentResults[i];
-        const d = r.doc;
+        const d = r.meta;
         html += '<div class="result-card">';
-
         html += '<h3>';
-        if (d.link) {
-            html += '<a href="' + escHtml(d.link) + '" target="_blank">' + escHtml(d.filename) + '</a>';
-        } else {
-            html += escHtml(d.filename);
-        }
+        if (d.link) html += '<a href="' + esc(d.link) + '" target="_blank">' + esc(d.filename) + '</a>';
+        else html += esc(d.filename || "Document " + r.docId);
+        html += ' <span class="score-badge">score: ' + r.score + '</span>';
         html += '</h3>';
-
         html += '<div class="meta-pills">';
-        if (d.case_number) html += '<span class="pill"><strong>Case:</strong> ' + escHtml(d.case_number) + '</span>';
-        if (d.company_name) html += '<span class="pill"><strong>Co:</strong> ' + escHtml(d.company_name) + '</span>';
-        if (d.doc_type) html += '<span class="pill">' + escHtml(d.doc_type) + '</span>';
-        if (d.date_filed) html += '<span class="pill">' + escHtml(d.date_filed) + '</span>';
-        if (d.item_no) html += '<span class="pill"><strong>Paper:</strong> ' + escHtml(d.item_no) + '</span>';
+        if (d.case_number) html += '<span class="pill"><strong>Case:</strong> ' + esc(d.case_number) + '</span>';
+        if (d.company_name) html += '<span class="pill"><strong>Co:</strong> ' + esc(d.company_name) + '</span>';
+        if (d.doc_type) html += '<span class="pill">' + esc(d.doc_type) + '</span>';
+        if (d.date_filed) html += '<span class="pill">' + esc(d.date_filed) + '</span>';
+        if (d.item_no) html += '<span class="pill"><strong>Paper:</strong> ' + esc(d.item_no) + '</span>';
         html += '</div>';
-
         if (d.citation) {
-            html += '<div class="citation-box"><div class="label">Citation</div>' +
-                escHtml(d.citation) + '</div>';
+            html += '<div class="citation-box"><div class="label">Citation</div>' + esc(d.citation) + '</div>';
         }
-
         if (r.matchedSentences.length > 0) {
             html += '<div class="match-block">';
             html += '<div class="match-count">' + r.matchedSentences.length + ' sentence match(es)</div>';
             for (const s of r.matchedSentences) {
-                html += '<div class="match-sentence">...' + highlightText(s, query) + '...</div>';
+                html += '<div class="match-sentence">...' + hi(s, query) + '...</div>';
             }
             html += '</div>';
         }
@@ -374,15 +346,13 @@ function buildCards(query, from, to) {
 
 function loadMore() {
     const query = document.getElementById("q").value.trim();
-    const newVisible = Math.min(visibleCount + PER_PAGE, currentResults.length);
-    const html = buildCards(query, visibleCount, newVisible);
-    visibleCount = newVisible;
-
+    const nv = Math.min(visibleCount + PER_PAGE, currentResults.length);
+    const html = buildCards(query, visibleCount, nv);
+    visibleCount = nv;
     const area = document.getElementById("resultsArea");
     const btn = area.querySelector(".load-more");
     if (btn) btn.remove();
     area.insertAdjacentHTML("beforeend", html);
-
     if (currentResults.length > visibleCount) {
         area.insertAdjacentHTML("beforeend",
             '<button class="load-more" onclick="loadMore()">Show more (' +
@@ -390,45 +360,103 @@ function loadMore() {
     }
 }
 
+// ---- Autocomplete ----
+function showSuggestions() {
+    const q = document.getElementById("q").value.trim().toLowerCase();
+    const list = document.getElementById("acList");
+    if (q.length < 2 || suggestions.length === 0) { hideAC(); return; }
+
+    const lastWord = q.split(/\s+/).pop();
+    if (lastWord.length < 2) { hideAC(); return; }
+
+    const matches = suggestions.filter(s => s.startsWith(lastWord)).slice(0, 8);
+    if (matches.length === 0) { hideAC(); return; }
+
+    acIndex = -1;
+    list.innerHTML = matches.map((m, i) =>
+        '<div class="ac-item" onmousedown="pickSuggestion(\'' + esc(m) + '\')">' + esc(m) + '</div>'
+    ).join("");
+    list.style.display = "block";
+}
+
+function pickSuggestion(word) {
+    const input = document.getElementById("q");
+    const words = input.value.trim().split(/\s+/);
+    words[words.length - 1] = word;
+    input.value = words.join(" ") + " ";
+    hideAC();
+    input.focus();
+}
+
+function hideAC() {
+    document.getElementById("acList").style.display = "none";
+    acIndex = -1;
+}
+
+function handleKey(e) {
+    const list = document.getElementById("acList");
+    const items = list.querySelectorAll(".ac-item");
+
+    if (e.key === "ArrowDown" && list.style.display === "block") {
+        e.preventDefault();
+        acIndex = Math.min(acIndex + 1, items.length - 1);
+        items.forEach((it, i) => it.classList.toggle("active", i === acIndex));
+    } else if (e.key === "ArrowUp" && list.style.display === "block") {
+        e.preventDefault();
+        acIndex = Math.max(acIndex - 1, 0);
+        items.forEach((it, i) => it.classList.toggle("active", i === acIndex));
+    } else if (e.key === "Enter") {
+        if (acIndex >= 0 && items[acIndex]) {
+            pickSuggestion(items[acIndex].textContent);
+        } else {
+            hideAC();
+            doSearch();
+        }
+    } else if (e.key === "Escape") {
+        hideAC();
+    }
+}
+
+document.addEventListener("click", function (e) {
+    if (!e.target.closest(".search-input-wrap")) hideAC();
+});
+
 // ---- Export ----
 function exportCSV() {
     const query = document.getElementById("q").value.trim();
     let csv = "File,Case Number,Company Name,Document Type,Document Title," +
-        "Filing On Behalf Of,Date Filed,Paper No.,Citation,Matches,Matched Sentences\n";
+        "Filing On Behalf Of,Date Filed,Paper No.,Citation,TF-IDF Score,Matched Sentences\n";
     for (const r of currentResults) {
-        const d = r.doc;
-        const sentences = r.matchedSentences.join(" | ");
-        csv += [
-            csvCell(d.filename), csvCell(d.case_number), csvCell(d.company_name),
-            csvCell(d.doc_type), csvCell(d.doc_title), csvCell(d.filing_on_behalf),
-            csvCell(d.date_filed), csvCell(d.item_no), csvCell(d.citation),
-            r.matchCount, csvCell(sentences),
+        const d = r.meta;
+        csv += [cell(d.filename), cell(d.case_number), cell(d.company_name),
+            cell(d.doc_type), cell(d.doc_title), cell(d.filing_on_behalf),
+            cell(d.date_filed), cell(d.item_no), cell(d.citation),
+            r.score, cell(r.matchedSentences.join(" | "))
         ].join(",") + "\n";
     }
     const blob = new Blob([csv], { type: "text/csv" });
-    const url = URL.createObjectURL(blob);
     const a = document.createElement("a");
-    a.href = url;
+    a.href = URL.createObjectURL(blob);
     a.download = "search_" + query.replace(/\s+/g, "_").substring(0, 30) + ".csv";
     a.click();
-    URL.revokeObjectURL(url);
 }
 
 // ---- Helpers ----
-function highlightText(text, query) {
-    const words = query.split(/\s+/).filter(Boolean);
-    let result = escHtml(text);
-    for (const w of words) {
-        const re = new RegExp("(" + escRegex(w) + ")", "gi");
-        result = result.replace(re, "<mark>$1</mark>");
-    }
-    return result;
+function setStatus(text, type) {
+    document.getElementById("statusText").textContent = text;
+    const b = document.getElementById("statusBadge");
+    b.textContent = type; b.className = "badge badge-" + type;
 }
-function escHtml(s) { const d = document.createElement("div"); d.textContent = s || ""; return d.innerHTML; }
-function escRegex(s) { return s.replace(/[.*+?^${}()|[\]\\]/g, "\\$&"); }
-function csvCell(v) { if (!v) return '""'; return '"' + String(v).replace(/"/g, '""') + '"'; }
+function hi(text, query) {
+    let r = esc(text);
+    for (const w of query.split(/\s+/).filter(Boolean)) {
+        r = r.replace(new RegExp("(" + w.replace(/[.*+?^${}()|[\]\\]/g, "\\$&") + ")", "gi"), "<mark>$1</mark>");
+    }
+    return r;
+}
+function esc(s) { const d = document.createElement("div"); d.textContent = s || ""; return d.innerHTML; }
+function cell(v) { if (!v) return '""'; return '"' + String(v).replace(/"/g, '""') + '"'; }
 
-// Start
 init();
 </script>
 </body>

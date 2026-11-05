@@ -1,7 +1,6 @@
 name: Build Search Index & Deploy to Pages
 
 on:
-  # Runs when you push text files, the Excel, or the site itself
   push:
     branches: ["main"]
     paths:
@@ -9,17 +8,13 @@ on:
       - "ELG_Database.xlsx"
       - "site/**"
       - "build_index.py"
-
-  # Lets you trigger manually from the Actions tab
   workflow_dispatch:
 
-# Sets permissions for GitHub Pages deployment
 permissions:
   contents: read
   pages: write
   id-token: write
 
-# Only one deploy at a time
 concurrency:
   group: "pages"
   cancel-in-progress: false
@@ -44,7 +39,7 @@ jobs:
         run: pip install openpyxl
 
       - name: Build search index
-        run: python build_index.py --text-dir searchable_pdfs/text --excel ELG_Database.xlsx --output site/search_data.json
+        run: python build_index.py --text-dir searchable_pdfs/text --excel ELG_Database.xlsx --output-dir site
 
       - name: Setup Pages
         uses: actions/configure-pages@v5
